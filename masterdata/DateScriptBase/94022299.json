@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 94022299,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# se \"SE_0732\"\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n@イチイバル\nその答え…\n\n# voice 540221 \"ichiibal_c_0042_B\"\n@イチイバル\nだーいせーいかーい\nピコン☆\n\n@イチイバル\nじゃあ、しょうがないから\n今夜は一緒に寝てあげよう\n\n# face %(unit_a)s \"angry\"\n# voice 540221 \"ichiibal_c_0027\"\n@イチイバル\n…って、冗談、ウソだよ\n\n# face %(unit_a)s \"normal\"\n# voice 540221 \"ichiibal_c_0031\"\n@イチイバル\nあはは、ごめんごめん\nまたまたキミの驚いた顔が\n見たくて\n\n# textflame 0 0\n@\n楽しそうにはしゃぐ彼女\n\n@\nからかわれこそしたけど、\nマスターは彼女との距離が\nぐっと近づいたことを実感していた\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

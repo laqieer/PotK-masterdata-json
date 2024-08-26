@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 391014399,
+		"script": ";;//正解\n# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body 2101431\n# pos 2101431 3\n# mask 2101431 off\n# chara 2101431\n# fadein \"black\" 0.5\n# textflame 1 1\n# face 2101431 \"smile\"\n# se \"SE_0732\"\n# voice 1014 \"tyrufing_0041\"\n@ティルフィング\nすごいっ…！\n正解です、マスター！\n\n@ティルフィング\n急にクイズを出したのに、\nこんなにあっさりと\n答えてしまうなんて…\n\n# textflame 0 0\n@\nティルフィングが褒めちぎるので\nなんだか恥ずかしい\n\n# face 2101431 \"normal\"\n# voice 1014 \"tyrufing_0005\"\n# textflame 1 1\n@ティルフィング\nふふっ…\nマスターの顔\n真っ赤になってますよ？\n\n# textflame 0 0\n@\nそう言うティルフィングだって\n顔が赤い\nそう指摘すると、\n\n# face 2101431 \"smile\"\n# textflame 1 1\n@ティルフィング\nそれは…マスターが\n私のことを知っていてくれたことが\n嬉しくて…\n\n# textflame 0 0\n@\n消え入りそうな声でそう言う彼女\nその表情が見られたことが\n正解した一番の報酬かもしれない\n\n# voice 1014 \"tyrufing_0001\"\n# textflame 1 1\n@ティルフィング\nマスター、もっともっと\n私のこと、知ってくださいね\n\n# textflame 0 0\n@\n彼女からの信頼に\n応えられるよう頑張ろう\n\n@\nそう誓いながら二人並んで\n拠点へと帰った―\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

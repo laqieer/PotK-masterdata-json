@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 300911,
+		"script": ";;A （ぴたり）（中）\n;;Bあの…ここは遊戯施設で…（小）\n;;C怖くないの…？(大)\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_hauntedhouse\"\n# bgmfile \"bgm257\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 0 0\n# face %(unit_a)s \"usual\"\n@\nマスターは\n青龍偃月刀を連れて\nホラーハウスにやってきたのだが…\n\n# textflame 1 1\n# face %(unit_a)s \"angry\"\n@青龍偃月刀\nおのれ…\n\n@青龍偃月刀\n遊園地に斯様な\n魑魅魍魎の巣窟があるとは…\n\n# voice 3009 \"seiryu_0029\"\n@青龍偃月刀\n主君！\n私のそばを離れますな！\n…切り抜けます！\n\n# select \"（ぴたり）\" \"select_label_01\" \"あの…ここは遊戯施設で…\" \"select_label_02\" \"怖くないの…？\" \"select_label_03\"\n主君！\n私のそばを離れますな！\n…切り抜けます！\n\n# label \"select_label_01\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_02\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_03\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_end\"\n# waitandnext 0.1\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

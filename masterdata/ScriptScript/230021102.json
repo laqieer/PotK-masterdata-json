@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 230021102,
+		"script": ";;EP2\n# script \"lisp\"\n# background \"sea_jungle_day\"\n# bgmfile \"bgm230\" \"BgmSeaEvent\" 0\n# body 2300211\n# pos 2300211 3\n# mask 2300211 off\n# scale 2300211 0.8 0\n# face 2300211 \"angry\"\n# textflame 1 1\n# textboxarrow 0 2\n# voice 3002 \"toraidento_0029\"\n@トライデント\nこれで、最後だよッ！\n\n# fadein \"white\" 0.5\n# se \"SE_5736\"\n# shake 0 0.5\n# waitandnext 1.0\n\n# face 2300211 \"normal\"\n@トライデント\nふー、終わった～\nそれじゃマスター、準備の続き…\n\n;;モノローグ\n# textflame 0 0\n@\nトライデントがマスター振り向く\nその背後から、新手の異族が\n踊りかかってきた\n\n# face 2300211 \"sad\"\n# textflame 1 1\n# voice 3002 \"toraidento_0023\"\n@トライデント\nもうっ！　まだ残ってたの？\nって！　なんかどんどん\n集まって来てるー！？\n\n;;モノローグ\n# textflame 0 0\n@\n先ほどの戦闘の音を聞きつけたのか\n静かな湖畔は今や\n無数の異族でひしめいていた\n\n# textflame 1 1\n# voice 3002 \"toraidento_0028\"\n@トライデント\nうわー…もしかして\nこれ全部相手しなきゃかな？\n\n# face 2300211 \"angry\"\n@トライデント\nでもでも、それもこれも\n久しぶりのダイビングのため！\n\n@トライデント\nそれもマスターとふたりで\n遊べる大事な時間だもん！\n\n# face 2300211 \"smile\"\n@トライデント\nぜったいに全部やっつけて\nめいっぱい楽しい時間を\n過ごしてやるんだから！\n\n;;モノローグ\n# textflame 0 0\n@\nそう笑顔で言うと、トライデントは\n手近な異族に槍を叩きつける\n\n# face 2300211 \"normal\"\n# textflame 1 1\n# voice 3002 \"toraidento_0033\"\n@トライデント\nマスターはこっちに来て！\nこんな奴ら、トライデントがぜーんぶ\nぶっ飛ばしちゃうから！\n"
+	}
+]

@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 1220902,
+		"script": ";;■□■２－２改修案■□■\n;;【２－２－２（バトル後）】\n;;整形済み\n# script \"lisp\"\n# background \"ghost_town\"\n# bgm \"bgm005\" 0\n# body 24\n# pos 24 2\n# scale 24 0.8 0\n# alpha 24 1 0\n# body 0\n# pos 0 4\n# scale 0 0.8 0\n# alpha 0 1 0\n# textboxarrow 0 1\n# face 24 \"sad\"\n# voice 1014 \"tyrufing_0015\"\n@ティルフィング\n…こっちにもいない\nあの子…いったい、\nどこへ行ったの…？\n\n# textboxarrow 0 3\n# face 0 \"occur\"\n# voice 9999 \"durin_0028\"\n@デュリン\n異族を呼ぶ少年…\nラグナロクを避ける祀官…\n異族の寄り付かない村…\n\n@デュリン\nこの点と点が結びつけば、\n謎が明かされるような…\n\n# textboxarrow 0 1\n# face 24 \"angry\"\n@ティルフィング\nともかく急ぎましょう…\nトトは今も、\n異族に狙われているはずだもの"
+	}
+]

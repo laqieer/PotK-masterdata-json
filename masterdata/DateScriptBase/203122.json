@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 203122,
+		"script": ";;B\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_onsen\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# face %(unit_a)s \"normal\"\n# voice 520311 \"nyoikinkobou_c_0032\"\n# textflame 1 1\n@如意金箍棒\n頭の方も？\nええ、わかった！\n\n# face %(unit_a)s \"usual\"\n@如意金箍棒\nそれじゃお師様、目を閉じて？\nシャンプーつけるから\n\n# voice 520311 \"nyoikinkobou_c_0004\"\n@如意金箍棒\nフフフ…どうかな？\nかゆいところが\nあったら教えてね\n\n# face %(unit_a)s \"normal\"\n@如意金箍棒\nあれ、お師様？\nどうしたの、なんか\nあたふたしてるけど…\n\n# voice 520311 \"nyoikinkobou_c_0023\"\n@如意金箍棒\nあっ、ごめんっ！\nシャンプーが目に\n垂れてきちゃったんだね！\n\n@如意金箍棒\nすぐに流すから！\nよし、これでどう？\nよかった～…\n\n# face %(unit_a)s \"happy\"\n# voice 520311 \"nyoikinkobou_c_0004\"\n@如意金箍棒\nフフッ…\nこうしてるとなんだか、\n子どものお世話をしてるみたい♪\n\n@如意金箍棒\nお師様、今日は好きなだけ\nワタシに甘えてくれて\nいいからね…\n\n# textflame 0 0\n@\nとても穏やかな声色で、\nマスターを労う如意金箍棒\n\n@\n子ども扱いに照れながらも、\nマスターは彼女の労いを\nゆったりと堪能した…\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

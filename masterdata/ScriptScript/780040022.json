@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 780040022,
+		"script": ";;アルベル決心編接触時\n# script \"lisp\"\n# body 502911\n# pos 502911 3\n# scale 502911 0.8 0\n# textflame 1 1\n# textboxarrow 0 2\n# chara 502911\n# mask 502911 off\n# face 502911 \"angry\"\n# voice 5029 \"albell_unit_0009\"\n@アルベル\nさっさと消えなさいよ"
+	}
+]

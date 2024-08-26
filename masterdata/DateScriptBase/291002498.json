@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 291002498,
+		"script": ";;//不正解\n# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body 2100221\n# pos 2100221 3\n# mask 2100221 off\n# chara 2100221\n# fadein \"black\" 0.5\n# textflame 1 1\n# face 2100221 \"sad\"\n# se \"SE_0733\"\n# voice 210022 \"revatein_k_0027\"\n@レーヴァテイン\n…はずれだよ、\nマスター\n\n# face 2100221 \"usual\"\n@レーヴァテイン\nこれくらいなら正解できると\n思ったんだけど…\nまあ、しょうがないか\n\n@レーヴァテイン\n気に病むのもめんどうだろうし\nさっさと帰って休もうよ…\n\n;;モノローグ\n# textflame 0 0\n@\nそう言いながら\n歩き出すレーヴァテイン\n\n;;モノローグ\n@\n普段より冷たく、\nとげとげしい態度に\n心が痛む\n\n;;モノローグ\n@\nそれぐらい、\n彼女にとってはショックなこと\nだったんだろう\n\n;;モノローグ\n@\nその背中を追うようにしながら\nマスターは次こそは正解しようと\n強く思うのだった\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 10301301,
+		"script": ";;【リサ】\n;;スキル：デュエル・単発想定（魔力　単発）\n;;【EP1】(フリ)\n# script \"lisp\"\n# background \"town\"\n# bgm \"bgm002\" 0\n# body 103013\n# mask 103013 off\n# pos 103013 3\n# textflame 1 1\n# textboxarrow 0 2\n# face 103013 \"shy\"\n# voice 10301 \"risa2_0001\"\n# chara 103013\n@リサ\nマスター…ちょっといい？\n\n# textflame 0 0\n@\nもじもじとした態度で、\nマスターの部屋を訪ねるリサ\n\n@\nどうしたの？と聞くと…\n\n# textflame 1 1\n# textboxarrow 0 2\n# chara 103013\n# voice 10301 \"risa2_0028\"\n@リサ\nその…付き合って欲しいんだけど\n\n# textflame 0 0\n@\nえっ！？付き合う！？\nドキリとするマスター\n\n# textflame 1 1\n# textboxarrow 0 2\n# chara 103013\n@リサ\n市場に新しいスパイスが\nたくさん入荷されたって聞いたから…\n見に行きたくて\n\n# textflame 0 0\n@\nあ、付き合うって「買物」にね…\nと納得のマスター\n\n@\nかくして２人は市場のある\n街へと向かう\n\n# textflame 1 1\n# textboxarrow 0 2\n# face 103013 \"usual\"\n# chara 103013\n# voice 10301 \"risa2_0004\"\n@リサ\n楽しみだな\nどんなスパイスが入荷されてるんだろ\nわくわくするね、マスター\n\n# textflame 0 0\n@\nいかにも料理好きのリサらしい発言だ\n\n# textflame 1 1\n# textboxarrow 0 2\n# face 103013 \"shy\"\n# chara 103013\n@リサ\nでも本当にごめんね\n急に誘っちゃって\n\n# face 103013 \"sad\"\n# voice 10301 \"risa2_0015\"\n@リサ\n一人じゃ…つらくて\n\n# textflame 0 0\n@\n…つらい？\n何か悩み事でもあるのだろうか？\n\n# textflame 1 1\n# textboxarrow 0 2\n# face 103013 \"normal\"\n# chara 103013\n# voice 10301 \"risa2_0008\"\n@リサ\n今日は、たくさん\nお買い物するかも知れないから\n一人じゃ辛くて\n\n# textflame 0 0\n@\nあ、そういう意味\nつまりは、荷物持ちって事ね…\nと納得するマスターだった"
+	}
+]

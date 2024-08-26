@@ -1,0 +1,302 @@
+[
+	{
+		"ID": 5436,
+		"unitID": 2104211,
+		"questionID": 9104201,
+		"script": ";;剣,2\n# face %(unit_a)s \"normal\"\n# voice 210421 \"morabeaga_l_0027\"\n# textflame 1 1\n@モラベガ\n…ふぅぅぅ\n\n# textflame 0 0\n@\n大きく深呼吸をする彼女\n\n# voice 210421 \"morabeaga_l_0022\"\n# textflame 1 1\n@モラベガ\nあっ、ま、待ってピスカ！\nまだ心の準備がっ…！\n\n# textflame 0 0\n@\nどうしたの？\nマスターが尋ねると…\n\n# voice 210421 \"morabeaga_l_0028\"\n# textflame 1 1\n@モラベガ\nマ、マスター\nあのねっ…\n聞きたいことがあるの\n\n@モラベガ\nえっと…マスターは、\n私たちのこと、どれくらい知ってる？\nそれが気になっちゃったんだ…\n\n@モラベガ\nだからね、\n今から出すクイズに\n答えてほしくて…\n\n@モラベガ\n準備はいい？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私たちの武器属性は？　\n\n# se \"SE_0734\"\n# select \"銃\" \"select_label_1\" \"剣\" \"select_label_2\" \"杖\" \"select_label_3\"\n私たちの武器属性は？　\n"
+	},
+	{
+		"ID": 5437,
+		"unitID": 2104211,
+		"questionID": 9104202,
+		"script": ";;2本の神剣,1\n# face %(unit_a)s \"normal\"\n# voice 210421 \"morabeaga_l_0027\"\n# textflame 1 1\n@モラベガ\n…ふぅぅぅ\n\n# textflame 0 0\n@\n大きく深呼吸をする彼女\n\n# voice 210421 \"morabeaga_l_0022\"\n# textflame 1 1\n@モラベガ\nあっ、ま、待ってピスカ！\nまだ心の準備がっ…！\n\n# textflame 0 0\n@\nどうしたの？\nマスターが尋ねると…\n\n# voice 210421 \"morabeaga_l_0028\"\n# textflame 1 1\n@モラベガ\nマ、マスター\nあのねっ…\n聞きたいことがあるの\n\n@モラベガ\nえっと…マスターは、\n私たちのこと、どれくらい知ってる？\nそれが気になっちゃったんだ…\n\n@モラベガ\nだからね、\n今から出すクイズに\n答えてほしくて…\n\n@モラベガ\n準備はいい？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私たちのキラーズ\n『ディルムッド・オディナの剣』は\nどんな武器？\n\n# se \"SE_0734\"\n# select \"2本の神剣\" \"select_label_1\" \"5本の邪剣\" \"select_label_2\" \"3本の矢\" \"select_label_3\"\n私たちのキラーズ\n『ディルムッド・オディナの剣』は\nどんな武器？\n"
+	},
+	{
+		"ID": 5438,
+		"unitID": 2104211,
+		"questionID": 9104203,
+		"script": ";;ケルト神話,1\n# face %(unit_a)s \"normal\"\n# voice 210421 \"morabeaga_l_0027\"\n# textflame 1 1\n@モラベガ\n…ふぅぅぅ\n\n# textflame 0 0\n@\n大きく深呼吸をする彼女\n\n# voice 210421 \"morabeaga_l_0022\"\n# textflame 1 1\n@モラベガ\nあっ、ま、待ってピスカ！\nまだ心の準備がっ…！\n\n# textflame 0 0\n@\nどうしたの？\nマスターが尋ねると…\n\n# voice 210421 \"morabeaga_l_0028\"\n# textflame 1 1\n@モラベガ\nマ、マスター\nあのねっ…\n聞きたいことがあるの\n\n@モラベガ\nえっと…マスターは、\n私たちのこと、どれくらい知ってる？\nそれが気になっちゃったんだ…\n\n@モラベガ\nだからね、\n今から出すクイズに\n答えてほしくて…\n\n@モラベガ\n準備はいい？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私たちのキラーズ\n『ディルムッド・オディナの剣』は\nどんな伝承に登場する？\n\n# se \"SE_0734\"\n# select \"ケルト神話\" \"select_label_1\" \"インド神話\" \"select_label_2\" \"ギリシャ神話\" \"select_label_3\"\n私たちのキラーズ\n『ディルムッド・オディナの剣』は\nどんな伝承に登場する？\n"
+	},
+	{
+		"ID": 5439,
+		"unitID": 2104211,
+		"questionID": 9104204,
+		"script": ";;フィアナ騎士団,2\n# face %(unit_a)s \"normal\"\n# voice 210421 \"morabeaga_l_0027\"\n# textflame 1 1\n@モラベガ\n…ふぅぅぅ\n\n# textflame 0 0\n@\n大きく深呼吸をする彼女\n\n# voice 210421 \"morabeaga_l_0022\"\n# textflame 1 1\n@モラベガ\nあっ、ま、待ってピスカ！\nまだ心の準備がっ…！\n\n# textflame 0 0\n@\nどうしたの？\nマスターが尋ねると…\n\n# voice 210421 \"morabeaga_l_0028\"\n# textflame 1 1\n@モラベガ\nマ、マスター\nあのねっ…\n聞きたいことがあるの\n\n@モラベガ\nえっと…マスターは、\n私たちのこと、どれくらい知ってる？\nそれが気になっちゃったんだ…\n\n@モラベガ\nだからね、\n今から出すクイズに\n答えてほしくて…\n\n@モラベガ\n準備はいい？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私たちのキラーズの持ち主\nディルムッド・オディナが\n所属するのは？\n\n# se \"SE_0734\"\n# select \"鷹の騎士団\" \"select_label_1\" \"フィアナ騎士団\" \"select_label_2\" \"白の騎士団\" \"select_label_3\"\n私たちのキラーズの持ち主\nディルムッド・オディナが\n所属するのは？\n"
+	},
+	{
+		"ID": 5440,
+		"unitID": 2104211,
+		"questionID": 9104205,
+		"script": ";;ピスカ,1\n# face %(unit_a)s \"normal\"\n# voice 210421 \"morabeaga_l_0027\"\n# textflame 1 1\n@モラベガ\n…ふぅぅぅ\n\n# textflame 0 0\n@\n大きく深呼吸をする彼女\n\n# voice 210421 \"morabeaga_l_0022\"\n# textflame 1 1\n@モラベガ\nあっ、ま、待ってピスカ！\nまだ心の準備がっ…！\n\n# textflame 0 0\n@\nどうしたの？\nマスターが尋ねると…\n\n# voice 210421 \"morabeaga_l_0028\"\n# textflame 1 1\n@モラベガ\nマ、マスター\nあのねっ…\n聞きたいことがあるの\n\n@モラベガ\nえっと…マスターは、\n私たちのこと、どれくらい知ってる？\nそれが気になっちゃったんだ…\n\n@モラベガ\nだからね、\n今から出すクイズに\n答えてほしくて…\n\n@モラベガ\n準備はいい？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私たちが妖精結合した\n妖精の名前は何かな？\n\n# se \"SE_0734\"\n# select \"ピスカ\" \"select_label_1\" \"ムスカ\" \"select_label_2\" \"エレナ\" \"select_label_3\"\n私たちが妖精結合した\n妖精の名前は何かな？\n"
+	},
+	{
+		"ID": 5441,
+		"unitID": 2104211,
+		"questionID": 9104206,
+		"script": ";;妖精パック,3\n# face %(unit_a)s \"normal\"\n# voice 210421 \"morabeaga_l_0027\"\n# textflame 1 1\n@モラベガ\n…ふぅぅぅ\n\n# textflame 0 0\n@\n大きく深呼吸をする彼女\n\n# voice 210421 \"morabeaga_l_0022\"\n# textflame 1 1\n@モラベガ\nあっ、ま、待ってピスカ！\nまだ心の準備がっ…！\n\n# textflame 0 0\n@\nどうしたの？\nマスターが尋ねると…\n\n# voice 210421 \"morabeaga_l_0028\"\n# textflame 1 1\n@モラベガ\nマ、マスター\nあのねっ…\n聞きたいことがあるの\n\n@モラベガ\nえっと…マスターは、\n私たちのこと、どれくらい知ってる？\nそれが気になっちゃったんだ…\n\n@モラベガ\nだからね、\n今から出すクイズに\n答えてほしくて…\n\n@モラベガ\n準備はいい？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私たちが妖精結合した\n妖精ピスカの別称は何かな？\n\n# se \"SE_0734\"\n# select \"妖精ダック\" \"select_label_1\" \"妖精サック\" \"select_label_2\" \"妖精パック\" \"select_label_3\"\n私たちが妖精結合した\n妖精ピスカの別称は何かな？\n"
+	},
+	{
+		"ID": 5442,
+		"unitID": 2104211,
+		"questionID": 9104207,
+		"script": ";;マナナン・マクリル,1\n# face %(unit_a)s \"normal\"\n# voice 210421 \"morabeaga_l_0027\"\n# textflame 1 1\n@モラベガ\n…ふぅぅぅ\n\n# textflame 0 0\n@\n大きく深呼吸をする彼女\n\n# voice 210421 \"morabeaga_l_0022\"\n# textflame 1 1\n@モラベガ\nあっ、ま、待ってピスカ！\nまだ心の準備がっ…！\n\n# textflame 0 0\n@\nどうしたの？\nマスターが尋ねると…\n\n# voice 210421 \"morabeaga_l_0028\"\n# textflame 1 1\n@モラベガ\nマ、マスター\nあのねっ…\n聞きたいことがあるの\n\n@モラベガ\nえっと…マスターは、\n私たちのこと、どれくらい知ってる？\nそれが気になっちゃったんだ…\n\n@モラベガ\nだからね、\n今から出すクイズに\n答えてほしくて…\n\n@モラベガ\n準備はいい？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私たちのキラーズ\n『ディルムッド・オディナの剣』の\n持ち主の親は誰でしょう？\n\n# se \"SE_0734\"\n# select \"マナナン・マクリル\" \"select_label_1\" \"マリリン・マンチョン\" \"select_label_2\" \"マルルン・ニコルン\" \"select_label_3\"\n私たちのキラーズ\n『ディルムッド・オディナの剣』の\n持ち主の親は誰でしょう？\n"
+	},
+	{
+		"ID": 5443,
+		"unitID": 2104211,
+		"questionID": 9104208,
+		"script": ";;ベガルタ,2\n# face %(unit_a)s \"normal\"\n# voice 210421 \"morabeaga_l_0027\"\n# textflame 1 1\n@モラベガ\n…ふぅぅぅ\n\n# textflame 0 0\n@\n大きく深呼吸をする彼女\n\n# voice 210421 \"morabeaga_l_0022\"\n# textflame 1 1\n@モラベガ\nあっ、ま、待ってピスカ！\nまだ心の準備がっ…！\n\n# textflame 0 0\n@\nどうしたの？\nマスターが尋ねると…\n\n# voice 210421 \"morabeaga_l_0028\"\n# textflame 1 1\n@モラベガ\nマ、マスター\nあのねっ…\n聞きたいことがあるの\n\n@モラベガ\nえっと…マスターは、\n私たちのこと、どれくらい知ってる？\nそれが気になっちゃったんだ…\n\n@モラベガ\nだからね、\n今から出すクイズに\n答えてほしくて…\n\n@モラベガ\n準備はいい？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私たちのキラーズ\n『ディルムッド・オディナの剣』の\n１本の名前は？\n\n# se \"SE_0734\"\n# select \"ペガサス\" \"select_label_1\" \"ベガルタ\" \"select_label_2\" \"ベガルンタス\" \"select_label_3\"\n私たちのキラーズ\n『ディルムッド・オディナの剣』の\n１本の名前は？\n"
+	},
+	{
+		"ID": 5444,
+		"unitID": 2104211,
+		"questionID": 9104209,
+		"script": ";;モラルタ,1\n# face %(unit_a)s \"normal\"\n# voice 210421 \"morabeaga_l_0027\"\n# textflame 1 1\n@モラベガ\n…ふぅぅぅ\n\n# textflame 0 0\n@\n大きく深呼吸をする彼女\n\n# voice 210421 \"morabeaga_l_0022\"\n# textflame 1 1\n@モラベガ\nあっ、ま、待ってピスカ！\nまだ心の準備がっ…！\n\n# textflame 0 0\n@\nどうしたの？\nマスターが尋ねると…\n\n# voice 210421 \"morabeaga_l_0028\"\n# textflame 1 1\n@モラベガ\nマ、マスター\nあのねっ…\n聞きたいことがあるの\n\n@モラベガ\nえっと…マスターは、\n私たちのこと、どれくらい知ってる？\nそれが気になっちゃったんだ…\n\n@モラベガ\nだからね、\n今から出すクイズに\n答えてほしくて…\n\n@モラベガ\n準備はいい？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私たちのキラーズ\n『ディルムッド・オディナの剣』の\n１本の名前は？\n\n# se \"SE_0734\"\n# select \"モラルタ\" \"select_label_1\" \"モルタル\" \"select_label_2\" \"モリモリ\" \"select_label_3\"\n私たちのキラーズ\n『ディルムッド・オディナの剣』の\n１本の名前は？\n"
+	},
+	{
+		"ID": 5445,
+		"unitID": 2104211,
+		"questionID": 9104210,
+		"script": ";;魔猪と戦ったから,3\n# face %(unit_a)s \"normal\"\n# voice 210421 \"morabeaga_l_0027\"\n# textflame 1 1\n@モラベガ\n…ふぅぅぅ\n\n# textflame 0 0\n@\n大きく深呼吸をする彼女\n\n# voice 210421 \"morabeaga_l_0022\"\n# textflame 1 1\n@モラベガ\nあっ、ま、待ってピスカ！\nまだ心の準備がっ…！\n\n# textflame 0 0\n@\nどうしたの？\nマスターが尋ねると…\n\n# voice 210421 \"morabeaga_l_0028\"\n# textflame 1 1\n@モラベガ\nマ、マスター\nあのねっ…\n聞きたいことがあるの\n\n@モラベガ\nえっと…マスターは、\n私たちのこと、どれくらい知ってる？\nそれが気になっちゃったんだ…\n\n@モラベガ\nだからね、\n今から出すクイズに\n答えてほしくて…\n\n@モラベガ\n準備はいい？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私たちのキラーズの\n１本ベガルタが砕けた理由は？\n\n# se \"SE_0734\"\n# select \"親子喧嘩\" \"select_label_1\" \"錆びた\" \"select_label_2\" \"魔猪と戦ったから\" \"select_label_3\"\n私たちのキラーズの\n１本ベガルタが砕けた理由は？\n"
+	},
+	{
+		"ID": 5446,
+		"unitID": 2104211,
+		"questionID": 9104211,
+		"script": ";;炎,1\n# face %(unit_a)s \"normal\"\n# voice 210421 \"morabeaga_l_0001\"\n# textflame 1 1\n@モラベガ\nマスター、\n今日は素敵な舞台だったねっ\n…それと、えっとね\n\n# voice 210421 \"morabeaga_l_0028\"\n@モラベガ\n…わ、わかってるよピスカ\nだけど…\n\n# textflame 0 0\n@\nどこか緊張した様子の彼女\nどうしたの？と、マスターが\n尋ねると…\n\n# voice 210421 \"morabeaga_l_0003\"\n# textflame 1 1\n@モラベガ\n勇気は未来への羽根…\n\n@モラベガ\nあ、あのね、マスター\n私たち、マスターに\n聞いてみたいことがあるのっ\n\n@モラベガ\nマスターがどれくらい\n私たちに興味があるのか、\n今からクイズを出すね\n\n@モラベガ\n準備はいい？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私たちの属性は知ってる？\n\n# se \"SE_0734\"\n# select \"炎\" \"select_label_1\" \"風\" \"select_label_2\" \"雷\" \"select_label_3\"\n私たちの属性は知ってる？\n"
+	},
+	{
+		"ID": 5447,
+		"unitID": 2104211,
+		"questionID": 9104212,
+		"script": ";;155cm ,1\n# face %(unit_a)s \"normal\"\n# voice 210421 \"morabeaga_l_0001\"\n# textflame 1 1\n@モラベガ\nマスター、\n今日は素敵な舞台だったねっ\n…それと、えっとね\n\n# voice 210421 \"morabeaga_l_0028\"\n@モラベガ\n…わ、わかってるよピスカ\nだけど…\n\n# textflame 0 0\n@\nどこか緊張した様子の彼女\nどうしたの？と、マスターが\n尋ねると…\n\n# voice 210421 \"morabeaga_l_0003\"\n# textflame 1 1\n@モラベガ\n勇気は未来への羽根…\n\n@モラベガ\nあ、あのね、マスター\n私たち、マスターに\n聞いてみたいことがあるのっ\n\n@モラベガ\nマスターがどれくらい\n私たちに興味があるのか、\n今からクイズを出すね\n\n@モラベガ\n準備はいい？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私たちの身長は何センチか知ってる？\n\n# se \"SE_0734\"\n# select \"155cm \" \"select_label_1\" \"160cm\" \"select_label_2\" \"165cm\" \"select_label_3\"\n私たちの身長は何センチか知ってる？\n"
+	},
+	{
+		"ID": 5448,
+		"unitID": 2104211,
+		"questionID": 9104213,
+		"script": "12/12,3\n# face %(unit_a)s \"normal\"\n# voice 210421 \"morabeaga_l_0001\"\n# textflame 1 1\n@モラベガ\nマスター、\n今日は素敵な舞台だったねっ\n…それと、えっとね\n\n# voice 210421 \"morabeaga_l_0028\"\n@モラベガ\n…わ、わかってるよピスカ\nだけど…\n\n# textflame 0 0\n@\nどこか緊張した様子の彼女\nどうしたの？と、マスターが\n尋ねると…\n\n# voice 210421 \"morabeaga_l_0003\"\n# textflame 1 1\n@モラベガ\n勇気は未来への羽根…\n\n@モラベガ\nあ、あのね、マスター\n私たち、マスターに\n聞いてみたいことがあるのっ\n\n@モラベガ\nマスターがどれくらい\n私たちに興味があるのか、\n今からクイズを出すね\n\n@モラベガ\n準備はいい？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私たちの誕生日はいつか知ってる？\n\n# se \"SE_0734\"\n# select \"11月11日\" \"select_label_1\" \"9月9日\" \"select_label_2\" \"12月12日\" \"select_label_3\"\n私たちの誕生日はいつか知ってる？\n"
+	},
+	{
+		"ID": 5449,
+		"unitID": 2104211,
+		"questionID": 9104214,
+		"script": ";;いて座,1\n# face %(unit_a)s \"normal\"\n# voice 210421 \"morabeaga_l_0001\"\n# textflame 1 1\n@モラベガ\nマスター、\n今日は素敵な舞台だったねっ\n…それと、えっとね\n\n# voice 210421 \"morabeaga_l_0028\"\n@モラベガ\n…わ、わかってるよピスカ\nだけど…\n\n# textflame 0 0\n@\nどこか緊張した様子の彼女\nどうしたの？と、マスターが\n尋ねると…\n\n# voice 210421 \"morabeaga_l_0003\"\n# textflame 1 1\n@モラベガ\n勇気は未来への羽根…\n\n@モラベガ\nあ、あのね、マスター\n私たち、マスターに\n聞いてみたいことがあるのっ\n\n@モラベガ\nマスターがどれくらい\n私たちに興味があるのか、\n今からクイズを出すね\n\n@モラベガ\n準備はいい？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私たちの星座は？\n\n# se \"SE_0734\"\n# select \"いて座\" \"select_label_1\" \"うお座\" \"select_label_2\" \"やぎ座\" \"select_label_3\"\n私たちの星座は？\n"
+	},
+	{
+		"ID": 5450,
+		"unitID": 2104211,
+		"questionID": 9104215,
+		"script": ";;アルマス,1\n# face %(unit_a)s \"normal\"\n# voice 210421 \"morabeaga_l_0001\"\n# textflame 1 1\n@モラベガ\nマスター、\n今日は素敵な舞台だったねっ\n…それと、えっとね\n\n# voice 210421 \"morabeaga_l_0028\"\n@モラベガ\n…わ、わかってるよピスカ\nだけど…\n\n# textflame 0 0\n@\nどこか緊張した様子の彼女\nどうしたの？と、マスターが\n尋ねると…\n\n# voice 210421 \"morabeaga_l_0003\"\n# textflame 1 1\n@モラベガ\n勇気は未来への羽根…\n\n@モラベガ\nあ、あのね、マスター\n私たち、マスターに\n聞いてみたいことがあるのっ\n\n@モラベガ\nマスターがどれくらい\n私たちに興味があるのか、\n今からクイズを出すね\n\n@モラベガ\n準備はいい？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私たちの憧れの人は…？\n\n# se \"SE_0734\"\n# select \"アルマス\" \"select_label_1\" \"フォルカス\" \"select_label_2\" \"アイマス\" \"select_label_3\"\n私たちの憧れの人は…？\n"
+	},
+	{
+		"ID": 5451,
+		"unitID": 2104211,
+		"questionID": 9104216,
+		"script": ";;甘いもの,1\n# face %(unit_a)s \"normal\"\n# voice 210421 \"morabeaga_l_0001\"\n# textflame 1 1\n@モラベガ\nマスター、\n今日は素敵な舞台だったねっ\n…それと、えっとね\n\n# voice 210421 \"morabeaga_l_0028\"\n@モラベガ\n…わ、わかってるよピスカ\nだけど…\n\n# textflame 0 0\n@\nどこか緊張した様子の彼女\nどうしたの？と、マスターが\n尋ねると…\n\n# voice 210421 \"morabeaga_l_0003\"\n# textflame 1 1\n@モラベガ\n勇気は未来への羽根…\n\n@モラベガ\nあ、あのね、マスター\n私たち、マスターに\n聞いてみたいことがあるのっ\n\n@モラベガ\nマスターがどれくらい\n私たちに興味があるのか、\n今からクイズを出すね\n\n@モラベガ\n準備はいい？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私たちの好きなものは…？\n\n# se \"SE_0734\"\n# select \"甘いもの\" \"select_label_1\" \"辛いもの\" \"select_label_2\" \"酸っぱいもの\" \"select_label_3\"\n私たちの好きなものは…？\n"
+	},
+	{
+		"ID": 5452,
+		"unitID": 2104211,
+		"questionID": 9104217,
+		"script": ";;ＡＢ型,1\n# face %(unit_a)s \"normal\"\n# voice 210421 \"morabeaga_l_0001\"\n# textflame 1 1\n@モラベガ\nマスター、\n今日は素敵な舞台だったねっ\n…それと、えっとね\n\n# voice 210421 \"morabeaga_l_0028\"\n@モラベガ\n…わ、わかってるよピスカ\nだけど…\n\n# textflame 0 0\n@\nどこか緊張した様子の彼女\nどうしたの？と、マスターが\n尋ねると…\n\n# voice 210421 \"morabeaga_l_0003\"\n# textflame 1 1\n@モラベガ\n勇気は未来への羽根…\n\n@モラベガ\nあ、あのね、マスター\n私たち、マスターに\n聞いてみたいことがあるのっ\n\n@モラベガ\nマスターがどれくらい\n私たちに興味があるのか、\n今からクイズを出すね\n\n@モラベガ\n準備はいい？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私たちの血液型は？　\n\n# se \"SE_0734\"\n# select \"ＡＢ型\" \"select_label_1\" \"Ａ型\" \"select_label_2\" \"Ｂ型\" \"select_label_3\"\n私たちの血液型は？　\n"
+	},
+	{
+		"ID": 5453,
+		"unitID": 2104211,
+		"questionID": 9104218,
+		"script": ";;アイルランド,1\n# face %(unit_a)s \"normal\"\n# voice 210421 \"morabeaga_l_0001\"\n# textflame 1 1\n@モラベガ\nマスター、\n今日は素敵な舞台だったねっ\n…それと、えっとね\n\n# voice 210421 \"morabeaga_l_0028\"\n@モラベガ\n…わ、わかってるよピスカ\nだけど…\n\n# textflame 0 0\n@\nどこか緊張した様子の彼女\nどうしたの？と、マスターが\n尋ねると…\n\n# voice 210421 \"morabeaga_l_0003\"\n# textflame 1 1\n@モラベガ\n勇気は未来への羽根…\n\n@モラベガ\nあ、あのね、マスター\n私たち、マスターに\n聞いてみたいことがあるのっ\n\n@モラベガ\nマスターがどれくらい\n私たちに興味があるのか、\n今からクイズを出すね\n\n@モラベガ\n準備はいい？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私たちの出身地は…？\n\n# se \"SE_0734\"\n# select \"アイルランド\" \"select_label_1\" \"グリーンランド\" \"select_label_2\" \"ポーランド\" \"select_label_3\"\n私たちの出身地は…？\n"
+	},
+	{
+		"ID": 5454,
+		"unitID": 2104211,
+		"questionID": 9104219,
+		"script": ";;みんなの話を聞くこと,1\n# face %(unit_a)s \"normal\"\n# voice 210421 \"morabeaga_l_0001\"\n# textflame 1 1\n@モラベガ\nマスター、\n今日は素敵な舞台だったねっ\n…それと、えっとね\n\n# voice 210421 \"morabeaga_l_0028\"\n@モラベガ\n…わ、わかってるよピスカ\nだけど…\n\n# textflame 0 0\n@\nどこか緊張した様子の彼女\nどうしたの？と、マスターが\n尋ねると…\n\n# voice 210421 \"morabeaga_l_0003\"\n# textflame 1 1\n@モラベガ\n勇気は未来への羽根…\n\n@モラベガ\nあ、あのね、マスター\n私たち、マスターに\n聞いてみたいことがあるのっ\n\n@モラベガ\nマスターがどれくらい\n私たちに興味があるのか、\n今からクイズを出すね\n\n@モラベガ\n準備はいい？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私たちの趣味は…？\n\n# se \"SE_0734\"\n# select \"みんなの話を聞くこと\" \"select_label_1\" \"音楽を聞くこと\" \"select_label_2\" \"ゴシップを聞くこと\" \"select_label_3\"\n私たちの趣味は…？\n"
+	},
+	{
+		"ID": 5455,
+		"unitID": 2104211,
+		"questionID": 9104220,
+		"script": ";;絵日記を描くこと,2\n# face %(unit_a)s \"normal\"\n# voice 210421 \"morabeaga_l_0001\"\n# textflame 1 1\n@モラベガ\nマスター、\n今日は素敵な舞台だったねっ\n…それと、えっとね\n\n# voice 210421 \"morabeaga_l_0028\"\n@モラベガ\n…わ、わかってるよピスカ\nだけど…\n\n# textflame 0 0\n@\nどこか緊張した様子の彼女\nどうしたの？と、マスターが\n尋ねると…\n\n# voice 210421 \"morabeaga_l_0003\"\n# textflame 1 1\n@モラベガ\n勇気は未来への羽根…\n\n@モラベガ\nあ、あのね、マスター\n私たち、マスターに\n聞いてみたいことがあるのっ\n\n@モラベガ\nマスターがどれくらい\n私たちに興味があるのか、\n今からクイズを出すね\n\n@モラベガ\n準備はいい？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私たちの趣味は…？\n\n# se \"SE_0734\"\n# select \"歌を歌うこと\" \"select_label_1\" \"絵日記を描くこと\" \"select_label_2\" \"匂いを嗅ぐこと\" \"select_label_3\"\n私たちの趣味は…？\n"
+	},
+	{
+		"ID": 5456,
+		"unitID": 2104211,
+		"questionID": 9104221,
+		"script": ";;森羅念正,2\n# face %(unit_a)s \"normal\"\n# voice 210421 \"morabeaga_l_0001\"\n# textflame 1 1\n@モラベガ\nねぇ、マスター\n\n@モラベガ\n私たち、強くて\nかっこいいお姫様に\n憧れてるんだっ\n\n@モラベガ\nどんな悲劇が起きても\n絶対に諦めずに、\n立ち向かうお姫様\n\n@モラベガ\nだから本当は怖いけど…\n私たちも立ち向かうね\n\n# voice 210421 \"morabeaga_l_0004\"\n@モラベガ\n今からクイズを出すから、\nマスター！\nちゃんと答えてね\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私たちのスキルは…？\n\n# se \"SE_0734\"\n# select \"森羅年齢\" \"select_label_1\" \"森羅念正\" \"select_label_2\" \"森羅念頭\" \"select_label_3\"\n私たちのスキルは…？\n"
+	},
+	{
+		"ID": 5457,
+		"unitID": 2104211,
+		"questionID": 9104222,
+		"script": ";;妖絆の冥護,3\n# face %(unit_a)s \"normal\"\n# voice 210421 \"morabeaga_l_0001\"\n# textflame 1 1\n@モラベガ\nねぇ、マスター\n\n@モラベガ\n私たち、強くて\nかっこいいお姫様に\n憧れてるんだっ\n\n@モラベガ\nどんな悲劇が起きても\n絶対に諦めずに、\n立ち向かうお姫様\n\n@モラベガ\nだから本当は怖いけど…\n私たちも立ち向かうね\n\n# voice 210421 \"morabeaga_l_0004\"\n@モラベガ\n今からクイズを出すから、\nマスター！\nちゃんと答えてね\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私たちの付与スキルは…？\n\n# se \"SE_0734\"\n# select \"妖絆の故郷\" \"select_label_1\" \"妖絆の陳列\" \"select_label_2\" \"妖絆の冥護\" \"select_label_3\"\n私たちの付与スキルは…？\n"
+	},
+	{
+		"ID": 5458,
+		"unitID": 2104211,
+		"questionID": 9104223,
+		"script": ";;紅蒼剣の行進,2\n# face %(unit_a)s \"normal\"\n# voice 210421 \"morabeaga_l_0001\"\n# textflame 1 1\n@モラベガ\nねぇ、マスター\n\n@モラベガ\n私たち、強くて\nかっこいいお姫様に\n憧れてるんだっ\n\n@モラベガ\nどんな悲劇が起きても\n絶対に諦めずに、\n立ち向かうお姫様\n\n@モラベガ\nだから本当は怖いけど…\n私たちも立ち向かうね\n\n# voice 210421 \"morabeaga_l_0004\"\n@モラベガ\n今からクイズを出すから、\nマスター！\nちゃんと答えてね\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私たちの☆６のリーダースキルは…？\n\n# se \"SE_0734\"\n# select \"紅蒼剣の行列\" \"select_label_1\" \"紅蒼剣の行進\" \"select_label_2\" \"紅蒼剣の葬列\" \"select_label_3\"\n私たちの☆６のリーダースキルは…？\n"
+	},
+	{
+		"ID": 5459,
+		"unitID": 2104211,
+		"questionID": 9104224,
+		"script": ";;妖絆の剣閃,2\n# face %(unit_a)s \"normal\"\n# voice 210421 \"morabeaga_l_0001\"\n# textflame 1 1\n@モラベガ\nねぇ、マスター\n\n@モラベガ\n私たち、強くて\nかっこいいお姫様に\n憧れてるんだっ\n\n@モラベガ\nどんな悲劇が起きても\n絶対に諦めずに、\n立ち向かうお姫様\n\n@モラベガ\nだから本当は怖いけど…\n私たちも立ち向かうね\n\n# voice 210421 \"morabeaga_l_0004\"\n@モラベガ\n今からクイズを出すから、\nマスター！\nちゃんと答えてね\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私たちが覚える付与スキルは…？\n\n# se \"SE_0734\"\n# select \"妖絆の剣撃\" \"select_label_1\" \"妖絆の剣閃\" \"select_label_2\" \"妖絆の県船\" \"select_label_3\"\n私たちが覚える付与スキルは…？\n"
+	},
+	{
+		"ID": 5460,
+		"unitID": 2104211,
+		"questionID": 9104225,
+		"script": ";;哀しみを克服せし双翼,1\n# face %(unit_a)s \"normal\"\n# voice 210421 \"morabeaga_l_0001\"\n# textflame 1 1\n@モラベガ\nねぇ、マスター\n\n@モラベガ\n私たち、強くて\nかっこいいお姫様に\n憧れてるんだっ\n\n@モラベガ\nどんな悲劇が起きても\n絶対に諦めずに、\n立ち向かうお姫様\n\n@モラベガ\nだから本当は怖いけど…\n私たちも立ち向かうね\n\n# voice 210421 \"morabeaga_l_0004\"\n@モラベガ\n今からクイズを出すから、\nマスター！\nちゃんと答えてね\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私たちが覚えるコマンドスキルは…？\n\n# se \"SE_0734\"\n# select \"哀しみを克服せし双翼\" \"select_label_1\" \"哀しみを克服せし双腕\" \"select_label_2\" \"哀しみを克服せし双肩\" \"select_label_3\"\n私たちが覚えるコマンドスキルは…？\n"
+	},
+	{
+		"ID": 5461,
+		"unitID": 2104211,
+		"questionID": 9104226,
+		"script": ";;ピスカの激励,1\n# face %(unit_a)s \"normal\"\n# voice 210421 \"morabeaga_l_0001\"\n# textflame 1 1\n@モラベガ\nねぇ、マスター\n\n@モラベガ\n私たち、強くて\nかっこいいお姫様に\n憧れてるんだっ\n\n@モラベガ\nどんな悲劇が起きても\n絶対に諦めずに、\n立ち向かうお姫様\n\n@モラベガ\nだから本当は怖いけど…\n私たちも立ち向かうね\n\n# voice 210421 \"morabeaga_l_0004\"\n@モラベガ\n今からクイズを出すから、\nマスター！\nちゃんと答えてね\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私たちがおぼえる付与スキルは…？\n\n# se \"SE_0734\"\n# select \"ピスカの激励\" \"select_label_1\" \"ピスカの激情\" \"select_label_2\" \"ピスカの激高\" \"select_label_3\"\n私たちがおぼえる付与スキルは…？\n"
+	},
+	{
+		"ID": 5462,
+		"unitID": 2104211,
+		"questionID": 9104227,
+		"script": ";;双炎の激情,1\n# face %(unit_a)s \"normal\"\n# voice 210421 \"morabeaga_l_0001\"\n# textflame 1 1\n@モラベガ\nねぇ、マスター\n\n@モラベガ\n私たち、強くて\nかっこいいお姫様に\n憧れてるんだっ\n\n@モラベガ\nどんな悲劇が起きても\n絶対に諦めずに、\n立ち向かうお姫様\n\n@モラベガ\nだから本当は怖いけど…\n私たちも立ち向かうね\n\n# voice 210421 \"morabeaga_l_0004\"\n@モラベガ\n今からクイズを出すから、\nマスター！\nちゃんと答えてね\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私たちのおぼえるデュエルスキルは…？\n\n# se \"SE_0734\"\n# select \"双炎の激情\" \"select_label_1\" \"双雷の激情\" \"select_label_2\" \"双剣の激情\" \"select_label_3\"\n私たちのおぼえるデュエルスキルは…？\n"
+	},
+	{
+		"ID": 5463,
+		"unitID": 2104211,
+		"questionID": 9104228,
+		"script": ";;ピスカの変幻,3\n# face %(unit_a)s \"normal\"\n# voice 210421 \"morabeaga_l_0001\"\n# textflame 1 1\n@モラベガ\nねぇ、マスター\n\n@モラベガ\n私たち、強くて\nかっこいいお姫様に\n憧れてるんだっ\n\n@モラベガ\nどんな悲劇が起きても\n絶対に諦めずに、\n立ち向かうお姫様\n\n@モラベガ\nだから本当は怖いけど…\n私たちも立ち向かうね\n\n# voice 210421 \"morabeaga_l_0004\"\n@モラベガ\n今からクイズを出すから、\nマスター！\nちゃんと答えてね\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私たちのおぼえる付与スキルは…？\n\n# se \"SE_0734\"\n# select \"ピスカの入浴\" \"select_label_1\" \"ピスカの休息\" \"select_label_2\" \"ピスカの変幻\" \"select_label_3\"\n私たちのおぼえる付与スキルは…？\n"
+	},
+	{
+		"ID": 5464,
+		"unitID": 2104211,
+		"questionID": 9104229,
+		"script": ";;想精『未来への羽根』,2\n# face %(unit_a)s \"normal\"\n# voice 210421 \"morabeaga_l_0001\"\n# textflame 1 1\n@モラベガ\nねぇ、マスター\n\n@モラベガ\n私たち、強くて\nかっこいいお姫様に\n憧れてるんだっ\n\n@モラベガ\nどんな悲劇が起きても\n絶対に諦めずに、\n立ち向かうお姫様\n\n@モラベガ\nだから本当は怖いけど…\n私たちも立ち向かうね\n\n# voice 210421 \"morabeaga_l_0004\"\n@モラベガ\n今からクイズを出すから、\nマスター！\nちゃんと答えてね\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私たちのおぼえるコマンドスキルは…？\n\n# se \"SE_0734\"\n# select \"想精『未来への手紙』\" \"select_label_1\" \"想精『未来への羽根』\" \"select_label_2\" \"想精『未来への想い』\" \"select_label_3\"\n私たちのおぼえるコマンドスキルは…？\n"
+	},
+	{
+		"ID": 5465,
+		"unitID": 2104211,
+		"questionID": 9104230,
+		"script": ";;紅蒼交わりし深遠,3\n# face %(unit_a)s \"normal\"\n# voice 210421 \"morabeaga_l_0001\"\n# textflame 1 1\n@モラベガ\nねぇ、マスター\n\n@モラベガ\n私たち、強くて\nかっこいいお姫様に\n憧れてるんだっ\n\n@モラベガ\nどんな悲劇が起きても\n絶対に諦めずに、\n立ち向かうお姫様\n\n@モラベガ\nだから本当は怖いけど…\n私たちも立ち向かうね\n\n# voice 210421 \"morabeaga_l_0004\"\n@モラベガ\n今からクイズを出すから、\nマスター！\nちゃんと答えてね\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私がおぼえる付与スキルは…？\n\n# se \"SE_0734\"\n# select \"紅蒼交わりし新円\" \"select_label_1\" \"紅蒼交わりし深海\" \"select_label_2\" \"紅蒼交わりし深遠\" \"select_label_3\"\n私がおぼえる付与スキルは…？\n"
+	},
+	{
+		"ID": 5466,
+		"unitID": 2104211,
+		"questionID": 9104231,
+		"script": ";;守護障壁【彩影】,3\n# face %(unit_a)s \"normal\"\n# voice 210421 \"morabeaga_l_0030\"\n# textflame 1 1\n@モラベガ\n今日はありがとう\nとても楽しかったよ\n\n@モラベガ\n私たちって…\n今まで、悲しいことが\n多かった気がする\n\n@モラベガ\nでも立ち止まってばかりだと\nきっと後悔しちゃうから…\n\n@モラベガ\nだから少し怖いけど…\n前に進みたいの\n\n# voice 210421 \"morabeaga_l_0001\"\n@モラベガ\nねぇ、お願い、マスター\n私たちの出す問題に答えて\n\n@モラベガ\n正解してくれたら…\n前に進める気がするんだ\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私がおぼえるデュエルスキルは…？\n\n# se \"SE_0734\"\n# select \"心の障壁【彩影】\" \"select_label_1\" \"愛の障壁【彩影】\" \"select_label_2\" \"守護障壁【彩影】\" \"select_label_3\"\n私がおぼえるデュエルスキルは…？\n"
+	},
+	{
+		"ID": 5467,
+		"unitID": 2104211,
+		"questionID": 9104232,
+		"script": ";;December,3\n# face %(unit_a)s \"normal\"\n# voice 210421 \"morabeaga_l_0030\"\n# textflame 1 1\n@モラベガ\n今日はありがとう\nとても楽しかったよ\n\n@モラベガ\n私たちって…\n今まで、悲しいことが\n多かった気がする\n\n@モラベガ\nでも立ち止まってばかりだと\nきっと後悔しちゃうから…\n\n@モラベガ\nだから少し怖いけど…\n前に進みたいの\n\n# voice 210421 \"morabeaga_l_0001\"\n@モラベガ\nねぇ、お願い、マスター\n私たちの出す問題に答えて\n\n@モラベガ\n正解してくれたら…\n前に進める気がするんだ\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私たちの誕生月を英語で？\n\n# se \"SE_0734\"\n# select \"January\" \"select_label_1\" \"November\" \"select_label_2\" \"December\" \"select_label_3\"\n私たちの誕生月を英語で？\n"
+	},
+	{
+		"ID": 5468,
+		"unitID": 2104211,
+		"questionID": 9104233,
+		"script": ";;恩人,3\n# face %(unit_a)s \"normal\"\n# voice 210421 \"morabeaga_l_0030\"\n# textflame 1 1\n@モラベガ\n今日はありがとう\nとても楽しかったよ\n\n@モラベガ\n私たちって…\n今まで、悲しいことが\n多かった気がする\n\n@モラベガ\nでも立ち止まってばかりだと\nきっと後悔しちゃうから…\n\n@モラベガ\nだから少し怖いけど…\n前に進みたいの\n\n# voice 210421 \"morabeaga_l_0001\"\n@モラベガ\nねぇ、お願い、マスター\n私たちの出す問題に答えて\n\n@モラベガ\n正解してくれたら…\n前に進める気がするんだ\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私たちにとってアルマスは…？\n\n# se \"SE_0734\"\n# select \"愛人\" \"select_label_1\" \"奇人\" \"select_label_2\" \"恩人\" \"select_label_3\"\n私たちにとってアルマスは…？\n"
+	},
+	{
+		"ID": 5469,
+		"unitID": 2104211,
+		"questionID": 9104234,
+		"script": ";;トライデント,2\n# face %(unit_a)s \"normal\"\n# voice 210421 \"morabeaga_l_0030\"\n# textflame 1 1\n@モラベガ\n今日はありがとう\nとても楽しかったよ\n\n@モラベガ\n私たちって…\n今まで、悲しいことが\n多かった気がする\n\n@モラベガ\nでも立ち止まってばかりだと\nきっと後悔しちゃうから…\n\n@モラベガ\nだから少し怖いけど…\n前に進みたいの\n\n# voice 210421 \"morabeaga_l_0001\"\n@モラベガ\nねぇ、お願い、マスター\n私たちの出す問題に答えて\n\n@モラベガ\n正解してくれたら…\n前に進める気がするんだ\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私たちと誕生月が同じなのは…？\n\n# se \"SE_0734\"\n# select \"フランキスカ\" \"select_label_1\" \"トライデント\" \"select_label_2\" \"アロンダイト\" \"select_label_3\"\n私たちと誕生月が同じなのは…？\n"
+	},
+	{
+		"ID": 5470,
+		"unitID": 2104211,
+		"questionID": 9104235,
+		"script": ";;Sagittarius,3\n# face %(unit_a)s \"normal\"\n# voice 210421 \"morabeaga_l_0030\"\n# textflame 1 1\n@モラベガ\n今日はありがとう\nとても楽しかったよ\n\n@モラベガ\n私たちって…\n今まで、悲しいことが\n多かった気がする\n\n@モラベガ\nでも立ち止まってばかりだと\nきっと後悔しちゃうから…\n\n@モラベガ\nだから少し怖いけど…\n前に進みたいの\n\n# voice 210421 \"morabeaga_l_0001\"\n@モラベガ\nねぇ、お願い、マスター\n私たちの出す問題に答えて\n\n@モラベガ\n正解してくれたら…\n前に進める気がするんだ\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私たちの星座は英語で？\n\n# se \"SE_0734\"\n# select \"Capricorn\" \"select_label_1\" \"Aquarius\" \"select_label_2\" \"Sagittarius\" \"select_label_3\"\n私たちの星座は英語で？\n"
+	},
+	{
+		"ID": 5471,
+		"unitID": 2104211,
+		"questionID": 9104236,
+		"script": ";;いたずら者,1\n# face %(unit_a)s \"normal\"\n# voice 210421 \"morabeaga_l_0030\"\n# textflame 1 1\n@モラベガ\n今日はありがとう\nとても楽しかったよ\n\n@モラベガ\n私たちって…\n今まで、悲しいことが\n多かった気がする\n\n@モラベガ\nでも立ち止まってばかりだと\nきっと後悔しちゃうから…\n\n@モラベガ\nだから少し怖いけど…\n前に進みたいの\n\n# voice 210421 \"morabeaga_l_0001\"\n@モラベガ\nねぇ、お願い、マスター\n私たちの出す問題に答えて\n\n@モラベガ\n正解してくれたら…\n前に進める気がするんだ\n;;---------------------------------\n\n@%(unitName:unit_a)s\nピスカってどんな妖精かな？\n\n# se \"SE_0734\"\n# select \"いたずら者\" \"select_label_1\" \"正直者\" \"select_label_2\" \"無関心\" \"select_label_3\"\nピスカってどんな妖精かな？\n"
+	},
+	{
+		"ID": 5472,
+		"unitID": 2104211,
+		"questionID": 9104237,
+		"script": ";;勇気が自由への羽になる,2\n# face %(unit_a)s \"normal\"\n# voice 210421 \"morabeaga_l_0030\"\n# textflame 1 1\n@モラベガ\n今日はありがとう\nとても楽しかったよ\n\n@モラベガ\n私たちって…\n今まで、悲しいことが\n多かった気がする\n\n@モラベガ\nでも立ち止まってばかりだと\nきっと後悔しちゃうから…\n\n@モラベガ\nだから少し怖いけど…\n前に進みたいの\n\n# voice 210421 \"morabeaga_l_0001\"\n@モラベガ\nねぇ、お願い、マスター\n私たちの出す問題に答えて\n\n@モラベガ\n正解してくれたら…\n前に進める気がするんだ\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私たちの口ぐせは…？\n\n# se \"SE_0734\"\n# select \"お金が未来の糧となる\" \"select_label_1\" \"勇気が自由への羽になる\" \"select_label_2\" \"愛が地球を救う\" \"select_label_3\"\n私たちの口ぐせは…？\n"
+	},
+	{
+		"ID": 5473,
+		"unitID": 2104211,
+		"questionID": 9104238,
+		"script": ";;ペルーン,3\n# face %(unit_a)s \"normal\"\n# voice 210421 \"morabeaga_l_0030\"\n# textflame 1 1\n@モラベガ\n今日はありがとう\nとても楽しかったよ\n\n@モラベガ\n私たちって…\n今まで、悲しいことが\n多かった気がする\n\n@モラベガ\nでも立ち止まってばかりだと\nきっと後悔しちゃうから…\n\n@モラベガ\nだから少し怖いけど…\n前に進みたいの\n\n# voice 210421 \"morabeaga_l_0001\"\n@モラベガ\nねぇ、お願い、マスター\n私たちの出す問題に答えて\n\n@モラベガ\n正解してくれたら…\n前に進める気がするんだ\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私たちと同じ血液型なのは誰かな？\n\n# se \"SE_0734\"\n# select \"ティルフィング\" \"select_label_1\" \"ブラフマーストラ\" \"select_label_2\" \"ペルーン\" \"select_label_3\"\n私たちと同じ血液型なのは誰かな？\n"
+	},
+	{
+		"ID": 5474,
+		"unitID": 2104211,
+		"questionID": 9104239,
+		"script": ";;ティルフィング,2\n# face %(unit_a)s \"normal\"\n# voice 210421 \"morabeaga_l_0030\"\n# textflame 1 1\n@モラベガ\n今日はありがとう\nとても楽しかったよ\n\n@モラベガ\n私たちって…\n今まで、悲しいことが\n多かった気がする\n\n@モラベガ\nでも立ち止まってばかりだと\nきっと後悔しちゃうから…\n\n@モラベガ\nだから少し怖いけど…\n前に進みたいの\n\n# voice 210421 \"morabeaga_l_0001\"\n@モラベガ\nねぇ、お願い、マスター\n私たちの出す問題に答えて\n\n@モラベガ\n正解してくれたら…\n前に進める気がするんだ\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私たちと違う血液型なのは誰かな？\n\n# se \"SE_0734\"\n# select \"ペルーン\" \"select_label_1\" \"ティルフィング\" \"select_label_2\" \"ロンギヌス\" \"select_label_3\"\n私たちと違う血液型なのは誰かな？\n"
+	},
+	{
+		"ID": 5475,
+		"unitID": 2104211,
+		"questionID": 9104240,
+		"script": ";;ピスカ,3\n# face %(unit_a)s \"normal\"\n# voice 210421 \"morabeaga_l_0030\"\n# textflame 1 1\n@モラベガ\n今日はありがとう\nとても楽しかったよ\n\n@モラベガ\n私たちって…\n今まで、悲しいことが\n多かった気がする\n\n@モラベガ\nでも立ち止まってばかりだと\nきっと後悔しちゃうから…\n\n@モラベガ\nだから少し怖いけど…\n前に進みたいの\n\n# voice 210421 \"morabeaga_l_0001\"\n@モラベガ\nねぇ、お願い、マスター\n私たちの出す問題に答えて\n\n@モラベガ\n正解してくれたら…\n前に進める気がするんだ\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私たちの親友は…？\n\n# se \"SE_0734\"\n# select \"パスカ\" \"select_label_1\" \"ぺスカ\" \"select_label_2\" \"ピスカ\" \"select_label_3\"\n私たちの親友は…？\n"
+	},
+	{
+		"ID": 5476,
+		"unitID": 2104211,
+		"questionID": 9104241,
+		"script": "\n;;私たち,2\n# se \"SE_0734\"\n# select \"わたし\" \"select_label_1\" \"私たち\" \"select_label_2\" \"あたし\" \"select_label_3\"\nモラベガの一人称は\n次のうちどれでしょうか？\n"
+	},
+	{
+		"ID": 5477,
+		"unitID": 2104211,
+		"questionID": 9104242,
+		"script": "\n;;マスター,3\n# se \"SE_0734\"\n# select \"あなた\" \"select_label_1\" \"キミ\" \"select_label_2\" \"マスター\" \"select_label_3\"\nモラベガはマスターのこと、\nなんと呼んでますか？\n"
+	},
+	{
+		"ID": 5478,
+		"unitID": 2104211,
+		"questionID": 9104243,
+		"script": "\n;;92cm,3\n# se \"SE_0734\"\n# select \"85cm\" \"select_label_1\" \"87cm\" \"select_label_2\" \"92cm\" \"select_label_3\"\nモラベガの\nバストサイズがどのくらいか\nマスターは…ご存知でしょうか？\n"
+	},
+	{
+		"ID": 5479,
+		"unitID": 2104211,
+		"questionID": 9104244,
+		"script": "\n;;58cm,1\n# se \"SE_0734\"\n# select \"58cm\" \"select_label_1\" \"60cm\" \"select_label_2\" \"62cm\" \"select_label_3\"\nモラベガの\nウエストサイズがどのくらいか\nマスターは…ご存知でしょうか？\n"
+	},
+	{
+		"ID": 5480,
+		"unitID": 2104211,
+		"questionID": 9104245,
+		"script": "\n;;8３cm,1\n# se \"SE_0734\"\n# select \"8３cm\" \"select_label_1\" \"85cm\" \"select_label_2\" \"88cm\" \"select_label_3\"\nモラベガの\nヒップサイズがどのくらいか\nマスターは…ご存知でしょうか？\n"
+	},
+	{
+		"ID": 5481,
+		"unitID": 2104211,
+		"questionID": 9104246,
+		"script": "\n;;44ｋｇ,2\n# se \"SE_0734\"\n# select \"42kg\" \"select_label_1\" \"44ｋｇ\" \"select_label_2\" \"49kg\" \"select_label_3\"\nモラベガの体重は\n次のうちどれでしょう？\n"
+	},
+	{
+		"ID": 5482,
+		"unitID": 2104211,
+		"questionID": 9104247,
+		"script": "\n;;233,3\n# se \"SE_0734\"\n# select \"225\" \"select_label_1\" \"230\" \"select_label_2\" \"233\" \"select_label_3\"\nモラベガの\nバスト＋ウエスト＋ヒップは\nどのくらいかわかりますか？\n"
+	},
+	{
+		"ID": 5483,
+		"unitID": 2104211,
+		"questionID": 9104248,
+		"script": "\n;;赤青,1\n# se \"SE_0734\"\n# select \"赤青\" \"select_label_1\" \"赤黒\" \"select_label_2\" \"青黒\" \"select_label_3\"\nモラベガの髪の色は\n次のうちどれでしょう？\n"
+	},
+	{
+		"ID": 5484,
+		"unitID": 2104211,
+		"questionID": 9104249,
+		"script": "\n;;出ていない,1\n# se \"SE_0734\"\n# select \"出ていない\" \"select_label_1\" \"５位\" \"select_label_2\" \"１０位\" \"select_label_3\"\nモラベガは\n第３回人気投票で\n何位だったでしょうか？\n"
+	},
+	{
+		"ID": 5485,
+		"unitID": 2104211,
+		"questionID": 9104250,
+		"script": "\n;;赤崎千夏,3\n# se \"SE_0734\"\n# select \"近藤玲奈\" \"select_label_1\" \"水原薫\" \"select_label_2\" \"赤崎千夏\" \"select_label_3\"\nモラベガの声優は誰でしょう？\n"
+	}
+]

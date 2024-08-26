@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 3420103,
+		"script": "# script \"lisp\"\n# background \"flower_garden\"\n# bgm \"bgm005\" 0\n# body 101413\n# pos 101413 2\n# body 0\n# pos 0 4\n# face 0 \"happy\"\n# serif 0\n# textflame 1 1\n# textboxarrow 0 3\n# voice 9999 \"durin_0006\"\n@デュリン\nやったわね、ティル！\nホントに新種じゃない！！\n\n# face 101413 \"usual\"\n# serif 1\n# textflame 1 1\n# textboxarrow 1 1\n# voice 1014 \"tyrufing_0006\"\n@ティルフィング\nはい、やりました！\n\n# face 0 \"usual\"\n# serif 0\n# voice 9999 \"durin_0005\"\n@デュリン\nこれでアンタも\nバッチリ強くなるってもんよ！\n\n# serif 1\n# voice 1014 \"tyrufing_0046\"\n@ティルフィング\nええ\n\n# face 0 \"normal\"\n# serif 0\n# voice 9999 \"durin_0063\"\n@デュリン\nティル、\nこの先にもまだ新種がいそう？\n\n# face 101413 \"angry\"\n# serif 1\n@ティルフィング\nええ、気配がします…\n\n# face 0 \"usual2\"\n# serif 0\n# voice 9999 \"durin_0059\"\n@デュリン\nじゃあ、\nガンガン行くしかないわね！\n\n# face 101413 \"sad\"\n# serif 1\n@ティルフィング\n…いいんでしょうか？\n\n# face 0 \"proud\"\n# serif 0\n# voice 9999 \"durin_0053\"\n@デュリン\nい〜じゃない、きっと神様が\nお祝いしてくれてんのよ！！\n\n# face 101413 \"surprised\"\n# serif 1\n# voice 1014 \"tyrufing_0022\"\n@ティルフィング\nえ、お祝い…ですか？\n\n# face 0 \"happy\"\n# serif 0\n# voice 9999 \"durin_0060\"\n@デュリン\n１周年じゃない！\nここでアンタがパワーアップ！\nってことよ！！きっと！！\n\n# face 0 \"usual\"\n# serif 0\n# voice 9999 \"durin_0048\"\n@デュリン\nさ、この調子でガンガン行くわよ！"
+	}
+]

@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 303213,
+		"script": ";;中Aめちゃくちゃ褒める\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_ferris\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# face %(unit_a)s \"normal\"\n# voice 230321 \"gaedearg_ge_0007\"\n# textflame 1 1\n@ガ・ジャルグ\nふふんっ、さすがね？\n分かってるじゃない！\n\n@ガ・ジャルグ\nそうそう！\nもっとわたしを\n褒めたたえなさいっ！\n\n# face %(unit_a)s \"usual\"\n# voice 230321 \"gaedearg_ge_0022\"\n@ガ・ジャルグ\nえ？髪が…そうね…\n後光が差して…ええ…\nわたしなら、そのぐらい…\n\n@ガ・ジャルグ\nうん、うん…\n…………\n\n# face %(unit_a)s \"sad\"\n# voice 230321 \"gaedearg_ge_0028\"\n@ガ・ジャルグ\n…あの、マスター？\nなんだかちょっと\n褒めすぎじゃない…？\n\n@ガ・ジャルグ\nそんなに褒められると\nさすがのわたしも\n照れるというか…\n\n# face %(unit_a)s \"angry\"\n# voice 230321 \"gaedearg_ge_0014\"\n@ガ・ジャルグ\nえっ、まだまだ\n褒めたりない…！？\nま、待ちなさいよ！？\n\n@ガ・ジャルグ\n～～っ、もういいっ！\nわかったっ！\nわかったからぁ…！\n\n@ガ・ジャルグ\nうう～っ、\nあなたって本当\nわけのわからない人だわ…！\n\n# voice 230321 \"gaedearg_ge_0042\"\n@ガ・ジャルグ\n褒めてくれてありがとう…？\nちっ、ちがうわよ！！\nどう聞いたらそうなるのっ！\n\n@ガ・ジャルグ\nお礼にまた\n褒めてあげるね、って…！？\n\n# face %(unit_a)s \"sad\"\n# voice 230321 \"gaedearg_ge_0035\"\n@ガ・ジャルグ\nいやぁっ、やめてっ！\nこれ以上わたしを\n困らせないで～っ！！\n\n# textflame 0 0\n@\n結局、\n観覧車に乗っているあいだ\nガ・ジャルグを褒めつづけ…\n\n# textflame 0 0\n@\n帰り際、ずっと\n真っ赤な顔のガ・ジャルグに\nにらまれつづけたのだった\n\n;;-----------------------------------------\n# waitandnext 2\n# fadeout \"black\" 1.2\n"
+	}
+]

@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 6020102,
+		"script": ";;1話戦闘後\n;;【指定】bgm003\n# script \"lisp\"\n# background \"forest\"\n# bgm \"bgm003\" 0\n# body 400131\n# pos 400131 2\n# scale 400131 0.8 0\n# body 100111\n# pos 100111 4\n# scale 100111 0.8 0\n# alpha 400131 0 0\n# alpha 100111 0 0\n# textflame 0 0\n@\n――数時間前\n\n# textflame 0 0\n@\n異族を討伐したマスター一行は\nユグドラシルへ向かい始めた\n\n# textflame 0 0\n@\nマスターが、\n前に行く他のキル姫達の背中を\n見ていると、\n\n# textflame 0 0\n@\n背後から\nマサムネとアルテミスが\n近づいてきた\n\n# textflame 1 1\n# textboxarrow 0 3\n# alpha 100111 1 0.3\n# alpha 400131 1 0.3\n# chara 100111\n# voice 1001 \"masamune_kyara_1009\"\n# face 100111 \"happy\"\n# face 400131 \"nutual\"\n@マサムネ\nまったく、\n主君より前を歩くとは…\n\n# textflame 1 1\n# textboxarrow 0 1\n# chara 400131\n# voice 4001 \"arutemisu_0027\"\n# face 400131 \"surprise\"\n@アルテミス\n異族が背後から\n襲ってきたらどうする\nつもりなのでしょう\n\n# textflame 0 0\n@\nだが、\nその言葉とは裏腹に\n２人の顔は穏やかだった\n\n# textflame 1 1\n# textboxarrow 0 3\n# chara 100111\n# voice 1001 \"masamune_0004\"\n# face 100111 \"nutual\"\n@マサムネ\n森林も抜けたし、\nあと少しで\nユグドラシル付近の街か\n\n# textflame 1 1\n# textboxarrow 0 1\n# chara 400131\n# voice 4001 \"arutemisu_0003\"\n# face 400131 \"nutual\"\n@アルテミス\n日が沈む前までには\n着けそうですね\n\n;;【指定】BGM停止\n# bgm \"stop\"\n# textflame 1 1\n# textboxarrow 0 1\n# chara 400131\n# face 400131 \"surprise\"\n@アルテミス\nん…？\nマスター、あれは…\n\n# textflame 0 0\n@\nアルテミスの視線の先には\n黒い衣装に身を包んだ\n１人の男が立っていた\n"
+	}
+]

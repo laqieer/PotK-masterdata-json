@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 400811,
+		"script": ";;A 怖いの？（小）\n;;B 一緒だから平気（中）\n;;C 別の意味で平気じゃない（大）\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_hauntedhouse\"\n# bgmfile \"bgm257\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 0 0\n# face %(unit_a)s \"usual\"\n@\nオティヌスを誘って、\nホラーハウスにやって来た\nマスターだったが…\n\n# voice 4008 \"otyinusu_0026\"\n# textflame 1 1\n@オティヌス\nお、おお～…\nすっごい雰囲気あるねぇ\n\n# face %(unit_a)s \"sad\"\n@オティヌス\nこれだけおどろおどろしいとさ…\nなんか本当に、お化けが出そう…\n\n@オティヌス\nマスターは、平気…？\n\n# select \"怖いの？\" \"select_label_01\" \"一緒だから平気\" \"select_label_02\" \"別の意味で平気じゃない\" \"select_label_03\"\nマスターは、平気…？\n\n# label \"select_label_01\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_02\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_03\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_end\"\n# waitandnext 0.1\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

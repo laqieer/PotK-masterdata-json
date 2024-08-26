@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 100611,
+		"script": ";;驚かす,小\n;;寒い？,中\n;;手を握る,大\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_hauntedhouse\"\n# bgmfile \"bgm257\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 0 0\n@\nナーゲルリングを誘い、\nホラーハウスに入ったマスター…\n\n# voice 1006 \"nageruring_0024\"\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n@ナーゲルリング\nきゃっ…！？\n中はこんなに\n真っ暗なんですね…\n\n# face %(unit_a)s \"angry\"\n@ナーゲルリング\nしょせん作り物ですけど…\n\n# voice 1006 \"nageruring_0038\"\n# face %(unit_a)s \"sad\"\n@ナーゲルリング\nひっ――！？\n\n# voice 1006 \"nageruring_0023\"\n@ナーゲルリング\nな、ななななんでしょうね！？\n;;----------------------------------------\n\n# face %(unit_a)s \"angry\"\n# textflame 1 1\n@%(unitName:unit_a)s\nま…まあ、それっぽい音とか、\nどっかから出してるだけ\nでしょうけど…！？\n\n# select \"驚かす\" \"select_label_01\" \"寒い？\" \"select_label_02\" \"手を握る\" \"select_label_03\"\nま…まあ、それっぽい音とか、\nどっかから出してるだけ\nでしょうけど…！？\n\n# label \"select_label_01\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_02\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_03\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_end\"\n# waitandnext 0.1\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

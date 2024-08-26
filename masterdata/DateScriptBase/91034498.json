@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 91034498,
+		"script": ";;//不正解\n# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 1034 \"dakunesu_0026\"\n# se \"SE_0733\"\n@ダクネス\nそうか、わからなかったか…\n\n@ダクネス\nいや、別にマスターが\n答えられなかったことに\n落ち込んでいるのではないぞ\n\n# voice 1034 \"dakunesu_0011\"\n# textflame 1 1\n@ダクネス\n問題が難しすぎたと\nこれでは他の姫達にも無理か…\nと思っていただけだ\n\n# textflame 0 0\n@\nそう言いつつも\nうつむき気味なダクネス\nチクリと心が痛む\n\n# textflame 1 1\n@ダクネス\nではもう帰ろう\nクイズの再考も必要だしな\n\n@\n返す言葉がなかなか見つからず\n重たい空気の帰り道となった…\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

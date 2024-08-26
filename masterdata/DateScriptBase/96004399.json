@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 96004399,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# se \"SE_0732\"\n# voice 6004 \"kadokeusu_0041\"\n@カドケウス\n正解～！\n\n# textflame 1 1\n@カドケウス\nなんだ、ちゃんと\n分かってるじゃん？\n\n# face %(unit_a)s \"normal\"\n# textflame 1 1\n@カドケウス\nじゃあ今度…\n\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@カドケウス\nフルート、聴かせてあげるね？\n\n# textflame 1 1\n@カドケウス\nマスターの前で奏でると…\n私もなんだか楽しいの♪\n\n# textflame 1 1\n@カドケウス\n心が躍り出す感じ…っての？\nなんかいいんだ～！\n\n# textflame 0 0\n@\n弾むような声で、\n嬉しそうに見つめてくる彼女\n\n# textflame 0 0\n@\nその笑顔を見ていると、\n二人の絆が\nさらに深まったのを実感した…\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 94017298,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# se \"SE_0733\"\n# face %(unit_a)s \"sad\"\n# voice 4017 \"suiha_0022\"\n@スイハ\nマスター、不正解です。\n（えぇ…そんな…）\n\n# face %(unit_a)s \"usual\"\n@スイハ\n気を落とさないでください\n悪いのは、急にこんなことを\n聞いた私です\n\n# voice 4017 \"suiha_00002\"\n@スイハ\nそれでは、また次の機会があったら\nもう一度クイズを出題します\n（今度は…今度こそは…！）\n\n@スイハ\nよろしければ、その時にまた\n付き合ってください\n（私のこと、知ってもらわなきゃ…）\n\n# voice 4017 \"suiha_0022\"\n@\n見つめてくるスイハの表情は\nどことなく悲しげだった\n\n# textflame 0 0\n@\n二度とこんな事にならないためにも\nもっと彼女と話をして\n彼女のことを知っていかないと…！\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

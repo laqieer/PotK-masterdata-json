@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 6004043,
+		"script": ";;【指定】bgm004\n# script \"lisp\"\n# background \"classroom01\"\n# bgm \"bgm004\" 0\n# body 34\n# pos 34 4\n# scale 34 0.8 0\n# mask 34 off\n# alpha 34  0 0\n# body 400751\n# pos 400751 2\n# scale 400751 0.8 0\n# alpha 400751 0 0\n# body 78\n# pos 78 3\n# scale 78 0.8 0\n# mask 78 off\n# textflame 1 1\n# textboxarrow 0 2\n# chara 100341\n# face 78 \"sad\"\n@デュランダル\nごめんなさい…\n言い過ぎましたわ…\n\n# chara 100341\n@デュランダル\nわたくし、保健室で\n頭を冷やしてまいります\n\n# chara 100341\n@デュランダル\n申し訳ありません\nデュランダル、中座いたしますわ\n\n# leftout 78 1.2\n# alpha 78 0 1\n# textflame 0 0\n@\nデュランダルはそれだけ言うと\n無言で教室を出ていった…\n\n# textflame 1 1\n# textboxarrow 0 1\n# rightin 400751 0.4\n# alpha 400751 1 0\n# chara 400751\n# face 400751 \"sad\"\n@シェキナー\nデュランダル！\n待って…！\n\n# alpha 34 1 0.5\n# textboxarrow 0 3\n# chara 101111\n# face 34 \"angry\"\n# voice 1011 \"excalibur_0010\"\n@エクスカリバー\nシェキナー、\n待つのはあなたの方です\n\n# textboxarrow 0 1\n# chara 400751\n# face 400751 \"surprise\"\n# voice 4007 \"shekina_0022\"\n@シェキナー\nえ…？\nエ、エクスカリバー…？\n\n# textboxarrow 0 3\n# chara 101111\n# face 34 \"usual\"\n@エクスカリバー\nもっと、\n素直になったらどうですか？"
+	}
+]

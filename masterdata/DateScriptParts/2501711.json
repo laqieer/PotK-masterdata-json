@@ -1,0 +1,26 @@
+[
+	{
+		"ID": 111,
+		"unitID": 2501711,
+		"scriptID": "kaerimichi",
+		"script": "ね、ねえ！\nちょっと行きたいところがあるの\nついてきて…くれない？"
+	},
+	{
+		"ID": 125,
+		"unitID": 2501711,
+		"scriptID": "kaeru",
+		"script": "さーて、帰りましょ！"
+	},
+	{
+		"ID": 139,
+		"unitID": 2501711,
+		"scriptID": "kaeru_ok",
+		"script": "@%(unitName:unit_a)s\nそ、そんなに言うんなら\nしょうがないわね！"
+	},
+	{
+		"ID": 153,
+		"unitID": 2501711,
+		"scriptID": "kaeru_ng",
+		"script": "@%(unitName:unit_a)s\n今日は帰って\n魔術の研究をしたいの \nまた今度にしましょ？"
+	}
+]

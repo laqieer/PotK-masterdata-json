@@ -1,0 +1,302 @@
+[
+	{
+		"ID": 5386,
+		"unitID": 2303111,
+		"questionID": 9303101,
+		"script": ";;槍,3\n# face %(unit_a)s \"normal\"\n# voice 230311 \"cassius_ge_0002\"\n# textflame 1 1\n@カシウス\nわたしを停滞の輪廻から\n解き放ってくれたのは、\n御館様\n\n@カシウス\nでも…\n一つの円環から出ると、\nまた新たな円環が始まる\n\n@カシウス\n御館様の手で…\nこの輪廻からも\n解き放って欲しい\n\n# textflame 0 0\n@\nどういう意味？\n不思議そうにマスターが尋ねる\n\n# voice 230311 \"cassius_ge_0003\"\n# textflame 1 1\n@カシウス\n今からわたしが出す\nクイズに答えて、\n正解できたら…\n\n@カシウス\nもう少しだけ…\n一緒にいて欲しい\n\n@カシウス\nそれがわたしにとっての\n新たな輪廻…\n\n@カシウス\nいい？いくよ\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしの武器属性は何？　\n\n# se \"SE_0734\"\n# select \"銃\" \"select_label_1\" \"剣\" \"select_label_2\" \"槍\" \"select_label_3\"\nわたしの武器属性は何？　\n"
+	},
+	{
+		"ID": 5387,
+		"unitID": 2303111,
+		"questionID": 9303102,
+		"script": ";;聖槍,3\n# face %(unit_a)s \"normal\"\n# voice 230311 \"cassius_ge_0002\"\n# textflame 1 1\n@カシウス\nわたしを停滞の輪廻から\n解き放ってくれたのは、\n御館様\n\n@カシウス\nでも…\n一つの円環から出ると、\nまた新たな円環が始まる\n\n@カシウス\n御館様の手で…\nこの輪廻からも\n解き放って欲しい\n\n# textflame 0 0\n@\nどういう意味？\n不思議そうにマスターが尋ねる\n\n# voice 230311 \"cassius_ge_0003\"\n# textflame 1 1\n@カシウス\n今からわたしが出す\nクイズに答えて、\n正解できたら…\n\n@カシウス\nもう少しだけ…\n一緒にいて欲しい\n\n@カシウス\nそれがわたしにとっての\n新たな輪廻…\n\n@カシウス\nいい？いくよ\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしのキラーズ『カシウス』は\nなんて呼ばれてる？\n\n# se \"SE_0734\"\n# select \"聖剣\" \"select_label_1\" \"聖斧\" \"select_label_2\" \"聖槍\" \"select_label_3\"\nわたしのキラーズ『カシウス』は\nなんて呼ばれてる？\n"
+	},
+	{
+		"ID": 5388,
+		"unitID": 2303111,
+		"questionID": 9303103,
+		"script": ";;新約聖書,2\n# face %(unit_a)s \"normal\"\n# voice 230311 \"cassius_ge_0002\"\n# textflame 1 1\n@カシウス\nわたしを停滞の輪廻から\n解き放ってくれたのは、\n御館様\n\n@カシウス\nでも…\n一つの円環から出ると、\nまた新たな円環が始まる\n\n@カシウス\n御館様の手で…\nこの輪廻からも\n解き放って欲しい\n\n# textflame 0 0\n@\nどういう意味？\n不思議そうにマスターが尋ねる\n\n# voice 230311 \"cassius_ge_0003\"\n# textflame 1 1\n@カシウス\n今からわたしが出す\nクイズに答えて、\n正解できたら…\n\n@カシウス\nもう少しだけ…\n一緒にいて欲しい\n\n@カシウス\nそれがわたしにとっての\n新たな輪廻…\n\n@カシウス\nいい？いくよ\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしのキラーズ『カシウス』は\n何に書かれてる？\n\n# se \"SE_0734\"\n# select \"コーラン\" \"select_label_1\" \"新約聖書\" \"select_label_2\" \"仏典\" \"select_label_3\"\nわたしのキラーズ『カシウス』は\n何に書かれてる？\n"
+	},
+	{
+		"ID": 5389,
+		"unitID": 2303111,
+		"questionID": 9303104,
+		"script": ";;イエス,3\n# face %(unit_a)s \"normal\"\n# voice 230311 \"cassius_ge_0002\"\n# textflame 1 1\n@カシウス\nわたしを停滞の輪廻から\n解き放ってくれたのは、\n御館様\n\n@カシウス\nでも…\n一つの円環から出ると、\nまた新たな円環が始まる\n\n@カシウス\n御館様の手で…\nこの輪廻からも\n解き放って欲しい\n\n# textflame 0 0\n@\nどういう意味？\n不思議そうにマスターが尋ねる\n\n# voice 230311 \"cassius_ge_0003\"\n# textflame 1 1\n@カシウス\n今からわたしが出す\nクイズに答えて、\n正解できたら…\n\n@カシウス\nもう少しだけ…\n一緒にいて欲しい\n\n@カシウス\nそれがわたしにとっての\n新たな輪廻…\n\n@カシウス\nいい？いくよ\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしのキラーズ『カシウス』は\n誰を刺したと言われてる？\n\n# se \"SE_0734\"\n# select \"釈迦\" \"select_label_1\" \"ユダ\" \"select_label_2\" \"イエス\" \"select_label_3\"\nわたしのキラーズ『カシウス』は\n誰を刺したと言われてる？\n"
+	},
+	{
+		"ID": 5390,
+		"unitID": 2303111,
+		"questionID": 9303105,
+		"script": ";;ウロボロス,1\n# face %(unit_a)s \"normal\"\n# voice 230311 \"cassius_ge_0002\"\n# textflame 1 1\n@カシウス\nわたしを停滞の輪廻から\n解き放ってくれたのは、\n御館様\n\n@カシウス\nでも…\n一つの円環から出ると、\nまた新たな円環が始まる\n\n@カシウス\n御館様の手で…\nこの輪廻からも\n解き放って欲しい\n\n# textflame 0 0\n@\nどういう意味？\n不思議そうにマスターが尋ねる\n\n# voice 230311 \"cassius_ge_0003\"\n# textflame 1 1\n@カシウス\n今からわたしが出す\nクイズに答えて、\n正解できたら…\n\n@カシウス\nもう少しだけ…\n一緒にいて欲しい\n\n@カシウス\nそれがわたしにとっての\n新たな輪廻…\n\n@カシウス\nいい？いくよ\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしに獣刻された幻獣は何？\n\n# se \"SE_0734\"\n# select \"ウロボロス\" \"select_label_1\" \"バルデウス\" \"select_label_2\" \"ウリボー\" \"select_label_3\"\nわたしに獣刻された幻獣は何？\n"
+	},
+	{
+		"ID": 5391,
+		"unitID": 2303111,
+		"questionID": 9303106,
+		"script": ";;蛇,3\n# face %(unit_a)s \"normal\"\n# voice 230311 \"cassius_ge_0002\"\n# textflame 1 1\n@カシウス\nわたしを停滞の輪廻から\n解き放ってくれたのは、\n御館様\n\n@カシウス\nでも…\n一つの円環から出ると、\nまた新たな円環が始まる\n\n@カシウス\n御館様の手で…\nこの輪廻からも\n解き放って欲しい\n\n# textflame 0 0\n@\nどういう意味？\n不思議そうにマスターが尋ねる\n\n# voice 230311 \"cassius_ge_0003\"\n# textflame 1 1\n@カシウス\n今からわたしが出す\nクイズに答えて、\n正解できたら…\n\n@カシウス\nもう少しだけ…\n一緒にいて欲しい\n\n@カシウス\nそれがわたしにとっての\n新たな輪廻…\n\n@カシウス\nいい？いくよ\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしに獣刻されたウロボロスは\nどんな生きもの？\n\n# se \"SE_0734\"\n# select \"カエル\" \"select_label_1\" \"イノシシ\" \"select_label_2\" \"蛇\" \"select_label_3\"\nわたしに獣刻されたウロボロスは\nどんな生きもの？\n"
+	},
+	{
+		"ID": 5392,
+		"unitID": 2303111,
+		"questionID": 9303107,
+		"script": ";;尾を飲み込む蛇,2\n# face %(unit_a)s \"normal\"\n# voice 230311 \"cassius_ge_0002\"\n# textflame 1 1\n@カシウス\nわたしを停滞の輪廻から\n解き放ってくれたのは、\n御館様\n\n@カシウス\nでも…\n一つの円環から出ると、\nまた新たな円環が始まる\n\n@カシウス\n御館様の手で…\nこの輪廻からも\n解き放って欲しい\n\n# textflame 0 0\n@\nどういう意味？\n不思議そうにマスターが尋ねる\n\n# voice 230311 \"cassius_ge_0003\"\n# textflame 1 1\n@カシウス\n今からわたしが出す\nクイズに答えて、\n正解できたら…\n\n@カシウス\nもう少しだけ…\n一緒にいて欲しい\n\n@カシウス\nそれがわたしにとっての\n新たな輪廻…\n\n@カシウス\nいい？いくよ\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしに獣刻されたウロボロスは\nどんな蛇？\n\n# se \"SE_0734\"\n# select \"とぐろを巻く蛇\" \"select_label_1\" \"尾を飲み込む蛇\" \"select_label_2\" \"蛙に睨まれた蛇\" \"select_label_3\"\nわたしに獣刻されたウロボロスは\nどんな蛇？\n"
+	},
+	{
+		"ID": 5393,
+		"unitID": 2303111,
+		"questionID": 9303108,
+		"script": ";;脇腹,3\n# face %(unit_a)s \"normal\"\n# voice 230311 \"cassius_ge_0002\"\n# textflame 1 1\n@カシウス\nわたしを停滞の輪廻から\n解き放ってくれたのは、\n御館様\n\n@カシウス\nでも…\n一つの円環から出ると、\nまた新たな円環が始まる\n\n@カシウス\n御館様の手で…\nこの輪廻からも\n解き放って欲しい\n\n# textflame 0 0\n@\nどういう意味？\n不思議そうにマスターが尋ねる\n\n# voice 230311 \"cassius_ge_0003\"\n# textflame 1 1\n@カシウス\n今からわたしが出す\nクイズに答えて、\n正解できたら…\n\n@カシウス\nもう少しだけ…\n一緒にいて欲しい\n\n@カシウス\nそれがわたしにとっての\n新たな輪廻…\n\n@カシウス\nいい？いくよ\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしのキラーズのカシウスは\nイエスのどこを刺した\n\n# se \"SE_0734\"\n# select \"足\" \"select_label_1\" \"首\" \"select_label_2\" \"脇腹\" \"select_label_3\"\nわたしのキラーズのカシウスは\nイエスのどこを刺した\n"
+	},
+	{
+		"ID": 5394,
+		"unitID": 2303111,
+		"questionID": 9303109,
+		"script": ";;死と再生,2\n# face %(unit_a)s \"normal\"\n# voice 230311 \"cassius_ge_0002\"\n# textflame 1 1\n@カシウス\nわたしを停滞の輪廻から\n解き放ってくれたのは、\n御館様\n\n@カシウス\nでも…\n一つの円環から出ると、\nまた新たな円環が始まる\n\n@カシウス\n御館様の手で…\nこの輪廻からも\n解き放って欲しい\n\n# textflame 0 0\n@\nどういう意味？\n不思議そうにマスターが尋ねる\n\n# voice 230311 \"cassius_ge_0003\"\n# textflame 1 1\n@カシウス\n今からわたしが出す\nクイズに答えて、\n正解できたら…\n\n@カシウス\nもう少しだけ…\n一緒にいて欲しい\n\n@カシウス\nそれがわたしにとっての\n新たな輪廻…\n\n@カシウス\nいい？いくよ\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしに獣刻されたウロボロスは\n何の象徴？\n\n# se \"SE_0734\"\n# select \"一日一善\" \"select_label_1\" \"死と再生\" \"select_label_2\" \"ギャンブル\" \"select_label_3\"\nわたしに獣刻されたウロボロスは\n何の象徴？\n"
+	},
+	{
+		"ID": 5395,
+		"unitID": 2303111,
+		"questionID": 9303110,
+		"script": ";;目,3\n# face %(unit_a)s \"normal\"\n# voice 230311 \"cassius_ge_0002\"\n# textflame 1 1\n@カシウス\nわたしを停滞の輪廻から\n解き放ってくれたのは、\n御館様\n\n@カシウス\nでも…\n一つの円環から出ると、\nまた新たな円環が始まる\n\n@カシウス\n御館様の手で…\nこの輪廻からも\n解き放って欲しい\n\n# textflame 0 0\n@\nどういう意味？\n不思議そうにマスターが尋ねる\n\n# voice 230311 \"cassius_ge_0003\"\n# textflame 1 1\n@カシウス\n今からわたしが出す\nクイズに答えて、\n正解できたら…\n\n@カシウス\nもう少しだけ…\n一緒にいて欲しい\n\n@カシウス\nそれがわたしにとっての\n新たな輪廻…\n\n@カシウス\nいい？いくよ\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしのキラーズのカシウスを\n持っていた兵士はどこが悪かった？\n\n# se \"SE_0734\"\n# select \"耳\" \"select_label_1\" \"鼻\" \"select_label_2\" \"目\" \"select_label_3\"\nわたしのキラーズのカシウスを\n持っていた兵士はどこが悪かった？\n"
+	},
+	{
+		"ID": 5396,
+		"unitID": 2303111,
+		"questionID": 9303111,
+		"script": ";;雷,3\n# face %(unit_a)s \"normal\"\n# voice 230311 \"cassius_ge_0002\"\n# textflame 1 1\n@カシウス\nわたしは変革をもたらす槍、\nカシウス\n\n# textflame 0 0\n@\nえ？どうしたの、急に…？\n不思議なことを言い出した彼女に\n驚くマスター\n\n# voice 230311 \"cassius_ge_0003\"\n# textflame 1 1\n@カシウス\nこの世のすべては円環の因子…\n\n@カシウス\nだから、わたしが\n変革をもたらすクイズを出すわ\n\n@カシウス\nもし答えられたら…\nわたしと御館様の関係は\n円環を脱し、一歩前に進むはず\n\n@カシウス\n準備はいい？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしの属性は知ってる？\n\n# se \"SE_0734\"\n# select \"炎\" \"select_label_1\" \"風\" \"select_label_2\" \"雷\" \"select_label_3\"\nわたしの属性は知ってる？\n"
+	},
+	{
+		"ID": 5397,
+		"unitID": 2303111,
+		"questionID": 9303112,
+		"script": ";;163cm ,1\n# face %(unit_a)s \"normal\"\n# voice 230311 \"cassius_ge_0002\"\n# textflame 1 1\n@カシウス\nわたしは変革をもたらす槍、\nカシウス\n\n# textflame 0 0\n@\nえ？どうしたの、急に…？\n不思議なことを言い出した彼女に\n驚くマスター\n\n# voice 230311 \"cassius_ge_0003\"\n# textflame 1 1\n@カシウス\nこの世のすべては円環の因子…\n\n@カシウス\nだから、わたしが\n変革をもたらすクイズを出すわ\n\n@カシウス\nもし答えられたら…\nわたしと御館様の関係は\n円環を脱し、一歩前に進むはず\n\n@カシウス\n準備はいい？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしの身長は何センチ？\n\n# se \"SE_0734\"\n# select \"163cm \" \"select_label_1\" \"167cm\" \"select_label_2\" \"169cm\" \"select_label_3\"\nわたしの身長は何センチ？\n"
+	},
+	{
+		"ID": 5398,
+		"unitID": 2303111,
+		"questionID": 9303113,
+		"script": ";;03/15,2\n# face %(unit_a)s \"normal\"\n# voice 230311 \"cassius_ge_0002\"\n# textflame 1 1\n@カシウス\nわたしは変革をもたらす槍、\nカシウス\n\n# textflame 0 0\n@\nえ？どうしたの、急に…？\n不思議なことを言い出した彼女に\n驚くマスター\n\n# voice 230311 \"cassius_ge_0003\"\n# textflame 1 1\n@カシウス\nこの世のすべては円環の因子…\n\n@カシウス\nだから、わたしが\n変革をもたらすクイズを出すわ\n\n@カシウス\nもし答えられたら…\nわたしと御館様の関係は\n円環を脱し、一歩前に進むはず\n\n@カシウス\n準備はいい？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしの誕生日はいつ？\n\n# se \"SE_0734\"\n# select \"4月15日\" \"select_label_1\" \"3月15日\" \"select_label_2\" \"5月15日\" \"select_label_3\"\nわたしの誕生日はいつ？\n"
+	},
+	{
+		"ID": 5399,
+		"unitID": 2303111,
+		"questionID": 9303114,
+		"script": ";;うお座,3\n# face %(unit_a)s \"normal\"\n# voice 230311 \"cassius_ge_0002\"\n# textflame 1 1\n@カシウス\nわたしは変革をもたらす槍、\nカシウス\n\n# textflame 0 0\n@\nえ？どうしたの、急に…？\n不思議なことを言い出した彼女に\n驚くマスター\n\n# voice 230311 \"cassius_ge_0003\"\n# textflame 1 1\n@カシウス\nこの世のすべては円環の因子…\n\n@カシウス\nだから、わたしが\n変革をもたらすクイズを出すわ\n\n@カシウス\nもし答えられたら…\nわたしと御館様の関係は\n円環を脱し、一歩前に進むはず\n\n@カシウス\n準備はいい？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしの星座は？\n\n# se \"SE_0734\"\n# select \"いて座\" \"select_label_1\" \"やぎ座\" \"select_label_2\" \"うお座\" \"select_label_3\"\nわたしの星座は？\n"
+	},
+	{
+		"ID": 5400,
+		"unitID": 2303111,
+		"questionID": 9303115,
+		"script": ";;知恵の輪,1\n# face %(unit_a)s \"normal\"\n# voice 230311 \"cassius_ge_0002\"\n# textflame 1 1\n@カシウス\nわたしは変革をもたらす槍、\nカシウス\n\n# textflame 0 0\n@\nえ？どうしたの、急に…？\n不思議なことを言い出した彼女に\n驚くマスター\n\n# voice 230311 \"cassius_ge_0003\"\n# textflame 1 1\n@カシウス\nこの世のすべては円環の因子…\n\n@カシウス\nだから、わたしが\n変革をもたらすクイズを出すわ\n\n@カシウス\nもし答えられたら…\nわたしと御館様の関係は\n円環を脱し、一歩前に進むはず\n\n@カシウス\n準備はいい？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしの好きなものは…？\n\n# se \"SE_0734\"\n# select \"知恵の輪\" \"select_label_1\" \"将棋\" \"select_label_2\" \"チェス\" \"select_label_3\"\nわたしの好きなものは…？\n"
+	},
+	{
+		"ID": 5401,
+		"unitID": 2303111,
+		"questionID": 9303116,
+		"script": ";;丸いもの,3\n# face %(unit_a)s \"normal\"\n# voice 230311 \"cassius_ge_0002\"\n# textflame 1 1\n@カシウス\nわたしは変革をもたらす槍、\nカシウス\n\n# textflame 0 0\n@\nえ？どうしたの、急に…？\n不思議なことを言い出した彼女に\n驚くマスター\n\n# voice 230311 \"cassius_ge_0003\"\n# textflame 1 1\n@カシウス\nこの世のすべては円環の因子…\n\n@カシウス\nだから、わたしが\n変革をもたらすクイズを出すわ\n\n@カシウス\nもし答えられたら…\nわたしと御館様の関係は\n円環を脱し、一歩前に進むはず\n\n@カシウス\n準備はいい？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしの好きなものは…？\n\n# se \"SE_0734\"\n# select \"四角いもの\" \"select_label_1\" \"三角なもの\" \"select_label_2\" \"丸いもの\" \"select_label_3\"\nわたしの好きなものは…？\n"
+	},
+	{
+		"ID": 5402,
+		"unitID": 2303111,
+		"questionID": 9303117,
+		"script": ";;Ｏ型,2\n# face %(unit_a)s \"normal\"\n# voice 230311 \"cassius_ge_0002\"\n# textflame 1 1\n@カシウス\nわたしは変革をもたらす槍、\nカシウス\n\n# textflame 0 0\n@\nえ？どうしたの、急に…？\n不思議なことを言い出した彼女に\n驚くマスター\n\n# voice 230311 \"cassius_ge_0003\"\n# textflame 1 1\n@カシウス\nこの世のすべては円環の因子…\n\n@カシウス\nだから、わたしが\n変革をもたらすクイズを出すわ\n\n@カシウス\nもし答えられたら…\nわたしと御館様の関係は\n円環を脱し、一歩前に進むはず\n\n@カシウス\n準備はいい？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしの血液型は？　\n\n# se \"SE_0734\"\n# select \"ＡＢ型\" \"select_label_1\" \"Ｏ型\" \"select_label_2\" \"Ｂ型\" \"select_label_3\"\nわたしの血液型は？　\n"
+	},
+	{
+		"ID": 5403,
+		"unitID": 2303111,
+		"questionID": 9303118,
+		"script": ";;ローマ,3\n# face %(unit_a)s \"normal\"\n# voice 230311 \"cassius_ge_0002\"\n# textflame 1 1\n@カシウス\nわたしは変革をもたらす槍、\nカシウス\n\n# textflame 0 0\n@\nえ？どうしたの、急に…？\n不思議なことを言い出した彼女に\n驚くマスター\n\n# voice 230311 \"cassius_ge_0003\"\n# textflame 1 1\n@カシウス\nこの世のすべては円環の因子…\n\n@カシウス\nだから、わたしが\n変革をもたらすクイズを出すわ\n\n@カシウス\nもし答えられたら…\nわたしと御館様の関係は\n円環を脱し、一歩前に進むはず\n\n@カシウス\n準備はいい？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしの出身地は…？\n\n# se \"SE_0734\"\n# select \"ギリシャ\" \"select_label_1\" \"インド\" \"select_label_2\" \"ローマ\" \"select_label_3\"\nわたしの出身地は…？\n"
+	},
+	{
+		"ID": 5404,
+		"unitID": 2303111,
+		"questionID": 9303119,
+		"script": ";;凝った料理,2\n# face %(unit_a)s \"normal\"\n# voice 230311 \"cassius_ge_0002\"\n# textflame 1 1\n@カシウス\nわたしは変革をもたらす槍、\nカシウス\n\n# textflame 0 0\n@\nえ？どうしたの、急に…？\n不思議なことを言い出した彼女に\n驚くマスター\n\n# voice 230311 \"cassius_ge_0003\"\n# textflame 1 1\n@カシウス\nこの世のすべては円環の因子…\n\n@カシウス\nだから、わたしが\n変革をもたらすクイズを出すわ\n\n@カシウス\nもし答えられたら…\nわたしと御館様の関係は\n円環を脱し、一歩前に進むはず\n\n@カシウス\n準備はいい？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしの趣味は…？\n\n# se \"SE_0734\"\n# select \"ハイキング\" \"select_label_1\" \"凝った料理\" \"select_label_2\" \"ヨガ\" \"select_label_3\"\nわたしの趣味は…？\n"
+	},
+	{
+		"ID": 5405,
+		"unitID": 2303111,
+		"questionID": 9303120,
+		"script": ";;人間や自然の観察,3\n# face %(unit_a)s \"normal\"\n# voice 230311 \"cassius_ge_0002\"\n# textflame 1 1\n@カシウス\nわたしは変革をもたらす槍、\nカシウス\n\n# textflame 0 0\n@\nえ？どうしたの、急に…？\n不思議なことを言い出した彼女に\n驚くマスター\n\n# voice 230311 \"cassius_ge_0003\"\n# textflame 1 1\n@カシウス\nこの世のすべては円環の因子…\n\n@カシウス\nだから、わたしが\n変革をもたらすクイズを出すわ\n\n@カシウス\nもし答えられたら…\nわたしと御館様の関係は\n円環を脱し、一歩前に進むはず\n\n@カシウス\n準備はいい？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしの趣味は…？\n\n# se \"SE_0734\"\n# select \"工場見学\" \"select_label_1\" \"陶芸\" \"select_label_2\" \"人間や自然の観察\" \"select_label_3\"\nわたしの趣味は…？\n"
+	},
+	{
+		"ID": 5406,
+		"unitID": 2303111,
+		"questionID": 9303121,
+		"script": ";;獣牙惨翼,2\n# face %(unit_a)s \"normal\"\n# voice 230311 \"cassius_ge_0002\"\n# textflame 1 1\n@カシウス\n夏も円環\n\n@カシウス\n毎日、陽は登り、\nそして落ちていく…\n\n@カシウス\nでも…\n\n@カシウス\nその円環も終わりを告げる\n\n@カシウス\n夏が過ぎ、次の季節がやって来る\n\n@カシウス\n次なる円環の到来\n\n@カシウス\n御館様との繋がりも…\n次なる段階に進む時\n\n# voice 230311 \"cassius_ge_0001\"\n@カシウス\n御館様、\nわたしの出すクイズに正解し…\n\n@カシウス\n次なる繋がりに進もう\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしの覚えるスキルは…？\n\n# se \"SE_0734\"\n# select \"銃牙惨翼\" \"select_label_1\" \"獣牙惨翼\" \"select_label_2\" \"十牙惨翼\" \"select_label_3\"\nわたしの覚えるスキルは…？\n"
+	},
+	{
+		"ID": 5407,
+		"unitID": 2303111,
+		"questionID": 9303122,
+		"script": ";;回帰せし覇神,2\n# face %(unit_a)s \"normal\"\n# voice 230311 \"cassius_ge_0002\"\n# textflame 1 1\n@カシウス\n夏も円環\n\n@カシウス\n毎日、陽は登り、\nそして落ちていく…\n\n@カシウス\nでも…\n\n@カシウス\nその円環も終わりを告げる\n\n@カシウス\n夏が過ぎ、次の季節がやって来る\n\n@カシウス\n次なる円環の到来\n\n@カシウス\n御館様との繋がりも…\n次なる段階に進む時\n\n# voice 230311 \"cassius_ge_0001\"\n@カシウス\n御館様、\nわたしの出すクイズに正解し…\n\n@カシウス\n次なる繋がりに進もう\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしの解放スキルは…？\n\n# se \"SE_0734\"\n# select \"回帰せし家臣\" \"select_label_1\" \"回帰せし覇神\" \"select_label_2\" \"回帰せし野心\" \"select_label_3\"\nわたしの解放スキルは…？\n"
+	},
+	{
+		"ID": 5408,
+		"unitID": 2303111,
+		"questionID": 9303123,
+		"script": ";;雷視神の展望,1\n# face %(unit_a)s \"normal\"\n# voice 230311 \"cassius_ge_0002\"\n# textflame 1 1\n@カシウス\n夏も円環\n\n@カシウス\n毎日、陽は登り、\nそして落ちていく…\n\n@カシウス\nでも…\n\n@カシウス\nその円環も終わりを告げる\n\n@カシウス\n夏が過ぎ、次の季節がやって来る\n\n@カシウス\n次なる円環の到来\n\n@カシウス\n御館様との繋がりも…\n次なる段階に進む時\n\n# voice 230311 \"cassius_ge_0001\"\n@カシウス\n御館様、\nわたしの出すクイズに正解し…\n\n@カシウス\n次なる繋がりに進もう\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしの☆６のリーダースキルは…？\n\n# se \"SE_0734\"\n# select \"雷視神の展望\" \"select_label_1\" \"雷視神の願望\" \"select_label_2\" \"雷視神の欲望\" \"select_label_3\"\nわたしの☆６のリーダースキルは…？\n"
+	},
+	{
+		"ID": 5409,
+		"unitID": 2303111,
+		"questionID": 9303124,
+		"script": ";;幻如の達観,2\n# face %(unit_a)s \"normal\"\n# voice 230311 \"cassius_ge_0002\"\n# textflame 1 1\n@カシウス\n夏も円環\n\n@カシウス\n毎日、陽は登り、\nそして落ちていく…\n\n@カシウス\nでも…\n\n@カシウス\nその円環も終わりを告げる\n\n@カシウス\n夏が過ぎ、次の季節がやって来る\n\n@カシウス\n次なる円環の到来\n\n@カシウス\n御館様との繋がりも…\n次なる段階に進む時\n\n# voice 230311 \"cassius_ge_0001\"\n@カシウス\n御館様、\nわたしの出すクイズに正解し…\n\n@カシウス\n次なる繋がりに進もう\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしが覚える付与スキルは…？\n\n# se \"SE_0734\"\n# select \"幻如の作監\" \"select_label_1\" \"幻如の達観\" \"select_label_2\" \"幻如の楽観\" \"select_label_3\"\nわたしが覚える付与スキルは…？\n"
+	},
+	{
+		"ID": 5410,
+		"unitID": 2303111,
+		"questionID": 9303125,
+		"script": ";;循環せし幻神,1\n# face %(unit_a)s \"normal\"\n# voice 230311 \"cassius_ge_0002\"\n# textflame 1 1\n@カシウス\n夏も円環\n\n@カシウス\n毎日、陽は登り、\nそして落ちていく…\n\n@カシウス\nでも…\n\n@カシウス\nその円環も終わりを告げる\n\n@カシウス\n夏が過ぎ、次の季節がやって来る\n\n@カシウス\n次なる円環の到来\n\n@カシウス\n御館様との繋がりも…\n次なる段階に進む時\n\n# voice 230311 \"cassius_ge_0001\"\n@カシウス\n御館様、\nわたしの出すクイズに正解し…\n\n@カシウス\n次なる繋がりに進もう\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしが覚えるコマンドスキルは…？\n\n# se \"SE_0734\"\n# select \"循環せし幻神\" \"select_label_1\" \"循環せし邪神\" \"select_label_2\" \"循環せし蛇神\" \"select_label_3\"\nわたしが覚えるコマンドスキルは…？\n"
+	},
+	{
+		"ID": 5411,
+		"unitID": 2303111,
+		"questionID": 9303126,
+		"script": ";;幻如の円環,2\n# face %(unit_a)s \"normal\"\n# voice 230311 \"cassius_ge_0002\"\n# textflame 1 1\n@カシウス\n夏も円環\n\n@カシウス\n毎日、陽は登り、\nそして落ちていく…\n\n@カシウス\nでも…\n\n@カシウス\nその円環も終わりを告げる\n\n@カシウス\n夏が過ぎ、次の季節がやって来る\n\n@カシウス\n次なる円環の到来\n\n@カシウス\n御館様との繋がりも…\n次なる段階に進む時\n\n# voice 230311 \"cassius_ge_0001\"\n@カシウス\n御館様、\nわたしの出すクイズに正解し…\n\n@カシウス\n次なる繋がりに進もう\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私が覚える付与スキルは…？\n\n# se \"SE_0734\"\n# select \"幻如の角環\" \"select_label_1\" \"幻如の円環\" \"select_label_2\" \"幻如の無環\" \"select_label_3\"\n私が覚える付与スキルは…？\n"
+	},
+	{
+		"ID": 5412,
+		"unitID": 2303111,
+		"questionID": 9303127,
+		"script": ";;未来を見通す眼,1\n# face %(unit_a)s \"normal\"\n# voice 230311 \"cassius_ge_0002\"\n# textflame 1 1\n@カシウス\n夏も円環\n\n@カシウス\n毎日、陽は登り、\nそして落ちていく…\n\n@カシウス\nでも…\n\n@カシウス\nその円環も終わりを告げる\n\n@カシウス\n夏が過ぎ、次の季節がやって来る\n\n@カシウス\n次なる円環の到来\n\n@カシウス\n御館様との繋がりも…\n次なる段階に進む時\n\n# voice 230311 \"cassius_ge_0001\"\n@カシウス\n御館様、\nわたしの出すクイズに正解し…\n\n@カシウス\n次なる繋がりに進もう\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の覚えるデュエルスキルは…？\n\n# se \"SE_0734\"\n# select \"未来を見通す眼\" \"select_label_1\" \"未来を見通す耳\" \"select_label_2\" \"未来を見通す口\" \"select_label_3\"\n私の覚えるデュエルスキルは…？\n"
+	},
+	{
+		"ID": 5413,
+		"unitID": 2303111,
+		"questionID": 9303128,
+		"script": ";;ウロボロスの円環,2\n# face %(unit_a)s \"normal\"\n# voice 230311 \"cassius_ge_0002\"\n# textflame 1 1\n@カシウス\n夏も円環\n\n@カシウス\n毎日、陽は登り、\nそして落ちていく…\n\n@カシウス\nでも…\n\n@カシウス\nその円環も終わりを告げる\n\n@カシウス\n夏が過ぎ、次の季節がやって来る\n\n@カシウス\n次なる円環の到来\n\n@カシウス\n御館様との繋がりも…\n次なる段階に進む時\n\n# voice 230311 \"cassius_ge_0001\"\n@カシウス\n御館様、\nわたしの出すクイズに正解し…\n\n@カシウス\n次なる繋がりに進もう\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の覚えるデュエルスキルは…？\n\n# se \"SE_0734\"\n# select \"バハムートの円環\" \"select_label_1\" \"ウロボロスの円環\" \"select_label_2\" \"ウルグアイの円環\" \"select_label_3\"\n私の覚えるデュエルスキルは…？\n"
+	},
+	{
+		"ID": 5414,
+		"unitID": 2303111,
+		"questionID": 9303129,
+		"script": ";;解放されし永劫の輪廻,1\n# face %(unit_a)s \"normal\"\n# voice 230311 \"cassius_ge_0002\"\n# textflame 1 1\n@カシウス\n夏も円環\n\n@カシウス\n毎日、陽は登り、\nそして落ちていく…\n\n@カシウス\nでも…\n\n@カシウス\nその円環も終わりを告げる\n\n@カシウス\n夏が過ぎ、次の季節がやって来る\n\n@カシウス\n次なる円環の到来\n\n@カシウス\n御館様との繋がりも…\n次なる段階に進む時\n\n# voice 230311 \"cassius_ge_0001\"\n@カシウス\n御館様、\nわたしの出すクイズに正解し…\n\n@カシウス\n次なる繋がりに進もう\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の覚えるデュエルスキルは…？\n\n# se \"SE_0734\"\n# select \"解放されし永劫の輪廻\" \"select_label_1\" \"解放されし永劫のペンネ\" \"select_label_2\" \"解放されし永劫の信念\" \"select_label_3\"\n私の覚えるデュエルスキルは…？\n"
+	},
+	{
+		"ID": 5415,
+		"unitID": 2303111,
+		"questionID": 9303130,
+		"script": ";;受け継がれし宿命,3\n# face %(unit_a)s \"normal\"\n# voice 230311 \"cassius_ge_0002\"\n# textflame 1 1\n@カシウス\n夏も円環\n\n@カシウス\n毎日、陽は登り、\nそして落ちていく…\n\n@カシウス\nでも…\n\n@カシウス\nその円環も終わりを告げる\n\n@カシウス\n夏が過ぎ、次の季節がやって来る\n\n@カシウス\n次なる円環の到来\n\n@カシウス\n御館様との繋がりも…\n次なる段階に進む時\n\n# voice 230311 \"cassius_ge_0001\"\n@カシウス\n御館様、\nわたしの出すクイズに正解し…\n\n@カシウス\n次なる繋がりに進もう\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私が覚える付与スキルは…？\n\n# se \"SE_0734\"\n# select \"受け継がれし運命\" \"select_label_1\" \"受け継がれし生命\" \"select_label_2\" \"受け継がれし宿命\" \"select_label_3\"\n私が覚える付与スキルは…？\n"
+	},
+	{
+		"ID": 5416,
+		"unitID": 2303111,
+		"questionID": 9303131,
+		"script": ";;獣魂『無限なる竜』,1\n# face %(unit_a)s \"normal\"\n# voice 230311 \"cassius_ge_0002\"\n# textflame 1 1\n@カシウス\n今日という日は…\n\n@カシウス\nわたしにとって、\n円環の一部じゃなかった\n\n# textflame 0 0\n@\nどうして、そう思うの？\nマスターが尋ねる\n\n# voice 230311 \"cassius_ge_0003\"\n# textflame 1 1\n@カシウス\n初めて…\n御館様と２人で\n出かけた日だから\n\n@カシウス\n円環から脱した…\n特別な日\n\n@カシウス\n特別をたくさん作ることで…\n空虚は満たされていくの\n\n@カシウス\n御館様、もっとわたしの\n空虚を埋めることはできる…？\n\n# textflame 0 0\n@\nそう言って、\n彼女がクイズを出してきた\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私が覚える付与スキルは…？\n\n# se \"SE_0734\"\n# select \"獣魂『無限なる竜』\" \"select_label_1\" \"獣魂『無限なる亀』\" \"select_label_2\" \"獣魂『無限なる蛇』\" \"select_label_3\"\n私が覚える付与スキルは…？\n"
+	},
+	{
+		"ID": 5417,
+		"unitID": 2303111,
+		"questionID": 9303132,
+		"script": ";;March,3\n# face %(unit_a)s \"normal\"\n# voice 230311 \"cassius_ge_0002\"\n# textflame 1 1\n@カシウス\n今日という日は…\n\n@カシウス\nわたしにとって、\n円環の一部じゃなかった\n\n# textflame 0 0\n@\nどうして、そう思うの？\nマスターが尋ねる\n\n# voice 230311 \"cassius_ge_0003\"\n# textflame 1 1\n@カシウス\n初めて…\n御館様と２人で\n出かけた日だから\n\n@カシウス\n円環から脱した…\n特別な日\n\n@カシウス\n特別をたくさん作ることで…\n空虚は満たされていくの\n\n@カシウス\n御館様、もっとわたしの\n空虚を埋めることはできる…？\n\n# textflame 0 0\n@\nそう言って、\n彼女がクイズを出してきた\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしの誕生月を英語で？\n\n# se \"SE_0734\"\n# select \"January\" \"select_label_1\" \"May\" \"select_label_2\" \"March\" \"select_label_3\"\nわたしの誕生月を英語で？\n"
+	},
+	{
+		"ID": 5418,
+		"unitID": 2303111,
+		"questionID": 9303133,
+		"script": ";;ジュリアス・シーザー,2\n# face %(unit_a)s \"normal\"\n# voice 230311 \"cassius_ge_0002\"\n# textflame 1 1\n@カシウス\n今日という日は…\n\n@カシウス\nわたしにとって、\n円環の一部じゃなかった\n\n# textflame 0 0\n@\nどうして、そう思うの？\nマスターが尋ねる\n\n# voice 230311 \"cassius_ge_0003\"\n# textflame 1 1\n@カシウス\n初めて…\n御館様と２人で\n出かけた日だから\n\n@カシウス\n円環から脱した…\n特別な日\n\n@カシウス\n特別をたくさん作ることで…\n空虚は満たされていくの\n\n@カシウス\n御館様、もっとわたしの\n空虚を埋めることはできる…？\n\n# textflame 0 0\n@\nそう言って、\n彼女がクイズを出してきた\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私のキラーズと同名のカシウスが\n登場するシェイクスピアの作品は？\n\n# se \"SE_0734\"\n# select \"ロミオとジュリエット\" \"select_label_1\" \"ジュリアス・シーザー\" \"select_label_2\" \"ハムレット\" \"select_label_3\"\n私のキラーズと同名のカシウスが\n登場するシェイクスピアの作品は？\n"
+	},
+	{
+		"ID": 5419,
+		"unitID": 2303111,
+		"questionID": 9303134,
+		"script": ";;グリダヴォル,3\n# face %(unit_a)s \"normal\"\n# voice 230311 \"cassius_ge_0002\"\n# textflame 1 1\n@カシウス\n今日という日は…\n\n@カシウス\nわたしにとって、\n円環の一部じゃなかった\n\n# textflame 0 0\n@\nどうして、そう思うの？\nマスターが尋ねる\n\n# voice 230311 \"cassius_ge_0003\"\n# textflame 1 1\n@カシウス\n初めて…\n御館様と２人で\n出かけた日だから\n\n@カシウス\n円環から脱した…\n特別な日\n\n@カシウス\n特別をたくさん作ることで…\n空虚は満たされていくの\n\n@カシウス\n御館様、もっとわたしの\n空虚を埋めることはできる…？\n\n# textflame 0 0\n@\nそう言って、\n彼女がクイズを出してきた\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしと誕生月が同じなのは…？\n\n# se \"SE_0734\"\n# select \"アスカロン\" \"select_label_1\" \"シタ\" \"select_label_2\" \"グリダヴォル\" \"select_label_3\"\nわたしと誕生月が同じなのは…？\n"
+	},
+	{
+		"ID": 5420,
+		"unitID": 2303111,
+		"questionID": 9303135,
+		"script": ";;Pisces,1\n# face %(unit_a)s \"normal\"\n# voice 230311 \"cassius_ge_0002\"\n# textflame 1 1\n@カシウス\n今日という日は…\n\n@カシウス\nわたしにとって、\n円環の一部じゃなかった\n\n# textflame 0 0\n@\nどうして、そう思うの？\nマスターが尋ねる\n\n# voice 230311 \"cassius_ge_0003\"\n# textflame 1 1\n@カシウス\n初めて…\n御館様と２人で\n出かけた日だから\n\n@カシウス\n円環から脱した…\n特別な日\n\n@カシウス\n特別をたくさん作ることで…\n空虚は満たされていくの\n\n@カシウス\n御館様、もっとわたしの\n空虚を埋めることはできる…？\n\n# textflame 0 0\n@\nそう言って、\n彼女がクイズを出してきた\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしの星座は英語で？\n\n# se \"SE_0734\"\n# select \"Pisces\" \"select_label_1\" \"Capricorn\" \"select_label_2\" \"Aquarius\" \"select_label_3\"\nわたしの星座は英語で？\n"
+	},
+	{
+		"ID": 5421,
+		"unitID": 2303111,
+		"questionID": 9303136,
+		"script": ";;未来を見通す力,1\n# face %(unit_a)s \"normal\"\n# voice 230311 \"cassius_ge_0002\"\n# textflame 1 1\n@カシウス\n今日という日は…\n\n@カシウス\nわたしにとって、\n円環の一部じゃなかった\n\n# textflame 0 0\n@\nどうして、そう思うの？\nマスターが尋ねる\n\n# voice 230311 \"cassius_ge_0003\"\n# textflame 1 1\n@カシウス\n初めて…\n御館様と２人で\n出かけた日だから\n\n@カシウス\n円環から脱した…\n特別な日\n\n@カシウス\n特別をたくさん作ることで…\n空虚は満たされていくの\n\n@カシウス\n御館様、もっとわたしの\n空虚を埋めることはできる…？\n\n# textflame 0 0\n@\nそう言って、\n彼女がクイズを出してきた\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしの持つ特殊な能力は…？\n\n# se \"SE_0734\"\n# select \"未来を見通す力\" \"select_label_1\" \"瞬間移動\" \"select_label_2\" \"サイコキネシス\" \"select_label_3\"\nわたしの持つ特殊な能力は…？\n"
+	},
+	{
+		"ID": 5422,
+		"unitID": 2303111,
+		"questionID": 9303137,
+		"script": ";;終わりと始まりは同じこと,1\n# face %(unit_a)s \"normal\"\n# voice 230311 \"cassius_ge_0002\"\n# textflame 1 1\n@カシウス\n今日という日は…\n\n@カシウス\nわたしにとって、\n円環の一部じゃなかった\n\n# textflame 0 0\n@\nどうして、そう思うの？\nマスターが尋ねる\n\n# voice 230311 \"cassius_ge_0003\"\n# textflame 1 1\n@カシウス\n初めて…\n御館様と２人で\n出かけた日だから\n\n@カシウス\n円環から脱した…\n特別な日\n\n@カシウス\n特別をたくさん作ることで…\n空虚は満たされていくの\n\n@カシウス\n御館様、もっとわたしの\n空虚を埋めることはできる…？\n\n# textflame 0 0\n@\nそう言って、\n彼女がクイズを出してきた\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしの口ぐせは…？\n\n# se \"SE_0734\"\n# select \"終わりと始まりは同じこと\" \"select_label_1\" \"終わりよければすべてよし\" \"select_label_2\" \"終わりなき旅\" \"select_label_3\"\nわたしの口ぐせは…？\n"
+	},
+	{
+		"ID": 5423,
+		"unitID": 2303111,
+		"questionID": 9303138,
+		"script": ";;フランキスカ,3\n# face %(unit_a)s \"normal\"\n# voice 230311 \"cassius_ge_0002\"\n# textflame 1 1\n@カシウス\n今日という日は…\n\n@カシウス\nわたしにとって、\n円環の一部じゃなかった\n\n# textflame 0 0\n@\nどうして、そう思うの？\nマスターが尋ねる\n\n# voice 230311 \"cassius_ge_0003\"\n# textflame 1 1\n@カシウス\n初めて…\n御館様と２人で\n出かけた日だから\n\n@カシウス\n円環から脱した…\n特別な日\n\n@カシウス\n特別をたくさん作ることで…\n空虚は満たされていくの\n\n@カシウス\n御館様、もっとわたしの\n空虚を埋めることはできる…？\n\n# textflame 0 0\n@\nそう言って、\n彼女がクイズを出してきた\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしと同じ血液型なのは誰？\n\n# se \"SE_0734\"\n# select \"ルーン\" \"select_label_1\" \"ロンゴミアント\" \"select_label_2\" \"フランキスカ\" \"select_label_3\"\nわたしと同じ血液型なのは誰？\n"
+	},
+	{
+		"ID": 5424,
+		"unitID": 2303111,
+		"questionID": 9303139,
+		"script": ";;パラシュ,1\n# face %(unit_a)s \"normal\"\n# voice 230311 \"cassius_ge_0002\"\n# textflame 1 1\n@カシウス\n今日という日は…\n\n@カシウス\nわたしにとって、\n円環の一部じゃなかった\n\n# textflame 0 0\n@\nどうして、そう思うの？\nマスターが尋ねる\n\n# voice 230311 \"cassius_ge_0003\"\n# textflame 1 1\n@カシウス\n初めて…\n御館様と２人で\n出かけた日だから\n\n@カシウス\n円環から脱した…\n特別な日\n\n@カシウス\n特別をたくさん作ることで…\n空虚は満たされていくの\n\n@カシウス\n御館様、もっとわたしの\n空虚を埋めることはできる…？\n\n# textflame 0 0\n@\nそう言って、\n彼女がクイズを出してきた\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしと違う血液型なのは誰？\n\n# se \"SE_0734\"\n# select \"パラシュ\" \"select_label_1\" \"フランキスカ\" \"select_label_2\" \"テュルソス\" \"select_label_3\"\nわたしと違う血液型なのは誰？\n"
+	},
+	{
+		"ID": 5425,
+		"unitID": 2303111,
+		"questionID": 9303140,
+		"script": ";;レーヴァテイン,2\n# face %(unit_a)s \"normal\"\n# voice 230311 \"cassius_ge_0002\"\n# textflame 1 1\n@カシウス\n今日という日は…\n\n@カシウス\nわたしにとって、\n円環の一部じゃなかった\n\n# textflame 0 0\n@\nどうして、そう思うの？\nマスターが尋ねる\n\n# voice 230311 \"cassius_ge_0003\"\n# textflame 1 1\n@カシウス\n初めて…\n御館様と２人で\n出かけた日だから\n\n@カシウス\n円環から脱した…\n特別な日\n\n@カシウス\n特別をたくさん作ることで…\n空虚は満たされていくの\n\n@カシウス\n御館様、もっとわたしの\n空虚を埋めることはできる…？\n\n# textflame 0 0\n@\nそう言って、\n彼女がクイズを出してきた\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしと同じビフレストの\n出身じゃないのは…？\n\n# se \"SE_0734\"\n# select \"アルマス\" \"select_label_1\" \"レーヴァテイン\" \"select_label_2\" \"フェイルノート\" \"select_label_3\"\nわたしと同じビフレストの\n出身じゃないのは…？\n"
+	},
+	{
+		"ID": 5426,
+		"unitID": 2303111,
+		"questionID": 9303141,
+		"script": "\n;;わたし,2\n# se \"SE_0734\"\n# select \"オレ\" \"select_label_1\" \"わたし\" \"select_label_2\" \"あちき\" \"select_label_3\"\nカシウスの一人称は\n次のうちどれでしょうか？\n"
+	},
+	{
+		"ID": 5427,
+		"unitID": 2303111,
+		"questionID": 9303142,
+		"script": "\n;;御館様,2\n# se \"SE_0734\"\n# select \"そなた\" \"select_label_1\" \"御館様\" \"select_label_2\" \"キミ\" \"select_label_3\"\nカシウスはマスターのこと、\nなんと呼んでますか？\n"
+	},
+	{
+		"ID": 5428,
+		"unitID": 2303111,
+		"questionID": 9303143,
+		"script": "\n;;82cm,1\n# se \"SE_0734\"\n# select \"82cm\" \"select_label_1\" \"85cm\" \"select_label_2\" \"87cm\" \"select_label_3\"\nカシウスの\nバストサイズがどのくらいか\nマスターは…ご存知でしょうか？\n"
+	},
+	{
+		"ID": 5429,
+		"unitID": 2303111,
+		"questionID": 9303144,
+		"script": "\n;;57cm,1\n# se \"SE_0734\"\n# select \"57cm\" \"select_label_1\" \"60cm\" \"select_label_2\" \"62cm\" \"select_label_3\"\nカシウスの\nウエストサイズがどのくらいか\nマスターは…ご存知でしょうか？\n"
+	},
+	{
+		"ID": 5430,
+		"unitID": 2303111,
+		"questionID": 9303145,
+		"script": "\n;;84cm,1\n# se \"SE_0734\"\n# select \"84cm\" \"select_label_1\" \"85cm\" \"select_label_2\" \"86cm\" \"select_label_3\"\nカシウスの\nヒップサイズがどのくらいか\nマスターは…ご存知でしょうか？\n"
+	},
+	{
+		"ID": 5431,
+		"unitID": 2303111,
+		"questionID": 9303146,
+		"script": "\n;;48ｋｇ,2\n# se \"SE_0734\"\n# select \"52kg\" \"select_label_1\" \"48ｋｇ\" \"select_label_2\" \"45kg\" \"select_label_3\"\nカシウスの体重は\n次のうちどれでしょう？\n"
+	},
+	{
+		"ID": 5432,
+		"unitID": 2303111,
+		"questionID": 9303147,
+		"script": "\n;;223,1\n# se \"SE_0734\"\n# select \"223\" \"select_label_1\" \"225\" \"select_label_2\" \"230\" \"select_label_3\"\nカシウスの\nバスト＋ウエスト＋ヒップは\nどのくらいかわかりますか？\n"
+	},
+	{
+		"ID": 5433,
+		"unitID": 2303111,
+		"questionID": 9303148,
+		"script": "\n;;青白っぽい,3\n# se \"SE_0734\"\n# select \"赤っぽい\" \"select_label_1\" \"黄色っぽい\" \"select_label_2\" \"青白っぽい\" \"select_label_3\"\nカシウスの髪の色は\n次のうちどれでしょう？\n"
+	},
+	{
+		"ID": 5434,
+		"unitID": 2303111,
+		"questionID": 9303149,
+		"script": "\n;;出ていない,2\n# se \"SE_0734\"\n# select \"３位\" \"select_label_1\" \"出ていない\" \"select_label_2\" \"２位\" \"select_label_3\"\nカシウスは\n第３回人気投票で\n何位だったでしょうか？\n"
+	},
+	{
+		"ID": 5435,
+		"unitID": 2303111,
+		"questionID": 9303150,
+		"script": "\n;;佐藤舞,1\n# se \"SE_0734\"\n# select \"佐藤舞\" \"select_label_1\" \"近藤玲奈\" \"select_label_2\" \"下田屋有依\" \"select_label_3\"\nカシウスの声優は誰でしょう？\n"
+	}
+]

@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 100822,
+		"script": "# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_room\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n@%(unitName:unit_a)s\n…………\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私ね、心から友達だって\n思える人がいないの\n\n# textflame 0 0\n@\nそれには気づいていた\n彼女は本音では\nなかなか人を信用しない\n\n# textflame 1 1\n@%(unitName:unit_a)s\nだからマスターのことも\nはじめは警戒してたけど…\n\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@%(unitName:unit_a)s\n…今、君は私の部屋にいます！\n\n# textflame 0 0\n@\nグラムはマスターを指差す\n顔が少し、赤らんでいる\n\n# voice 1008 \"guramu_0004\"\n# textflame 1 1\n@%(unitName:unit_a)s\nだから、これが…\nどういうことだかわかるよね？\n\n# textflame 0 0\n@\n想いが通じあったような\n穏やかな空気が\n二人を包み込み…\n\n# voice 1008 \"guramu_0042\"\n# textflame 1 1\n@%(unitName:unit_a)s\nちなみに、友達、って呼び方は\nちょっと違うかな～って思ってて…\n\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n@%(unitName:unit_a)s\nマスターはほら、\n男の子…だし？\n\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@%(unitName:unit_a)s\nつまり、私の部屋に入った\n初めての男の子なわけで…\n\n# textflame 1 1\n@%(unitName:unit_a)s\n…………\n\n# textflame 0 0\n@\nそれっきり黙るグラムの言葉を\nのんびり待つマスターであった――\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

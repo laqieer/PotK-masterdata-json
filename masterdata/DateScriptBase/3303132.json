@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 3303132,
+		"script": "# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_museum1\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 0 0\n@\n博物館にやってきた\nマスターと%(unitName:unit_a)s\n\n@\nゆっくりと順路を回り\n展示の解説文を\n肩を寄せ合って読むふたり\n\n# textflame 1 1\n# voice 530311 \"cassius_ca_0032\"\n@%(unitName:unit_a)s\n動物の剥製や植物の標本…\nこれもまた不変の象徴ね\n\n# textflame 0 0\n@\n%(unitName:unit_a)sとの距離が\nより近くなった気がした。\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

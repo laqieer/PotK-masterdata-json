@@ -1,0 +1,62 @@
+[
+	{
+		"ID": 5276,
+		"unitID": 2502611,
+		"questionID": 9502601,
+		"script": ";;銃,1\n# face %(unit_a)s \"usual\"\n# voice 250261 \"yunyun_0001\"\n# textflame 1 1\n@ゆんゆん\n今日は本当に\nありがとうございました！\n\n# textflame 0 0\n@\n…え？\nど、どうしたの急に…？\n驚いて尋ねるマスター\n\n# face %(unit_a)s \"normal\"\n# voice 250261 \"yunyun_0011\"\n# textflame 1 1\n@ゆんゆん\nいや、あの…\n\n@ゆんゆん\nマ、マスターさん、\n今日は夢のような時間を…\nありがとうございました…！\n\n@ゆんゆん\nでも…その…\n最後にお願いがあるんです\n\n@ゆんゆん\n私の出す問題に、\n答えてもらえますか！？\n\n@ゆんゆん\nちゃんと答えてもらえたら\n夢じゃないって\n思えるんじゃないかって…\n\n@ゆんゆん\nでは、いきますね\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の武器属性はなんでしょう？　\n\n# se \"SE_0734\"\n# select \"銃\" \"select_label_1\" \"剣\" \"select_label_2\" \"弓\" \"select_label_3\"\n私の武器属性はなんでしょう？　\n"
+	},
+	{
+		"ID": 5277,
+		"unitID": 2502611,
+		"questionID": 9502602,
+		"script": ";;アークウィザード,3\n# face %(unit_a)s \"usual\"\n# voice 250261 \"yunyun_0001\"\n# textflame 1 1\n@ゆんゆん\n今日は本当に\nありがとうございました！\n\n# textflame 0 0\n@\n…え？\nど、どうしたの急に…？\n驚いて尋ねるマスター\n\n# face %(unit_a)s \"normal\"\n# voice 250261 \"yunyun_0011\"\n# textflame 1 1\n@ゆんゆん\nいや、あの…\n\n@ゆんゆん\nマ、マスターさん、\n今日は夢のような時間を…\nありがとうございました…！\n\n@ゆんゆん\nでも…その…\n最後にお願いがあるんです\n\n@ゆんゆん\n私の出す問題に、\n答えてもらえますか！？\n\n@ゆんゆん\nちゃんと答えてもらえたら\n夢じゃないって\n思えるんじゃないかって…\n\n@ゆんゆん\nでは、いきますね\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の冒険者としての職業は\nどれだと思いますか？\n\n# se \"SE_0734\"\n# select \"アークプリースト\" \"select_label_1\" \"クルセイダー\" \"select_label_2\" \"アークウィザード\" \"select_label_3\"\n私の冒険者としての職業は\nどれだと思いますか？\n"
+	},
+	{
+		"ID": 5278,
+		"unitID": 2502611,
+		"questionID": 9502603,
+		"script": ";;雷,3\n# face %(unit_a)s \"normal\"\n# voice 250261 \"yunyun_0001\"\n# textflame 1 1\n@ゆんゆん\nマスターさんっ！\nあ、あの…えっと…\n\n@ゆんゆん\n今日はとても楽しかったです\n\n@ゆんゆん\nさ、最後に\nなっちゃったんですけど…\nこ、これ…\n\n# textflame 0 0\n@\nと、何やら包みを取り出す彼女\n\n# textflame 1 1\n@ゆんゆん\n今朝、作ったんですけど…\n\n@ゆんゆん\nお弁当……\n\n# textflame 0 0\n@\nなぜ、帰るこのタイミングで…？\nそう思うが、\n\n# textflame 0 0\n@\n恥ずかしくて\nずっと言い出せなかったんだろう\n\n# voice 250261 \"yunyun_0028\"\n# textflame 1 1\n@ゆんゆん\nそ、そのまま渡すのは\n少し恥ずかしいので…\nえっと…そうだっ！\n\n# face %(unit_a)s \"usual\"\n@ゆんゆん\n今からクイズを出します\n答えられたら…\nマスターさんにこれをあげますね\n;;---------------------------------\n\n@%(unitName:unit_a)s\nこのすばコラボでの\n私の属性はどれですか？\n\n# se \"SE_0734\"\n# select \"炎\" \"select_label_1\" \"水\" \"select_label_2\" \"雷\" \"select_label_3\"\nこのすばコラボでの\n私の属性はどれですか？\n"
+	},
+	{
+		"ID": 5279,
+		"unitID": 2502611,
+		"questionID": 9502604,
+		"script": ";;めぐみん,3\n# face %(unit_a)s \"normal\"\n# voice 250261 \"yunyun_0001\"\n# textflame 1 1\n@ゆんゆん\nマスターさんっ！\nあ、あの…えっと…\n\n@ゆんゆん\n今日はとても楽しかったです\n\n@ゆんゆん\nさ、最後に\nなっちゃったんですけど…\nこ、これ…\n\n# textflame 0 0\n@\nと、何やら包みを取り出す彼女\n\n# textflame 1 1\n@ゆんゆん\n今朝、作ったんですけど…\n\n@ゆんゆん\nお弁当……\n\n# textflame 0 0\n@\nなぜ、帰るこのタイミングで…？\nそう思うが、\n\n# textflame 0 0\n@\n恥ずかしくて\nずっと言い出せなかったんだろう\n\n# voice 250261 \"yunyun_0028\"\n# textflame 1 1\n@ゆんゆん\nそ、そのまま渡すのは\n少し恥ずかしいので…\nえっと…そうだっ！\n\n# face %(unit_a)s \"usual\"\n@ゆんゆん\n今からクイズを出します\n答えられたら…\nマスターさんにこれをあげますね\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私と同じ紅魔族の出身といえば\n誰かわかりますか？\n\n# se \"SE_0734\"\n# select \"ダクネス\" \"select_label_1\" \"アクア\" \"select_label_2\" \"めぐみん\" \"select_label_3\"\n私と同じ紅魔族の出身といえば\n誰かわかりますか？\n"
+	},
+	{
+		"ID": 5280,
+		"unitID": 2502611,
+		"questionID": 9502605,
+		"script": ";;ライバル,3\n# face %(unit_a)s \"normal\"\n# voice 250261 \"yunyun_0028\"\n# textflame 1 1\n@ゆんゆん\nあ、あの…\nマスターさん…\n今日のお礼です\n\n# textflame 0 0\n@\nそう言って、\nかわいい財布を取りだした彼女\n何のつもり？と尋ねると…\n\n# textflame 1 1\n@ゆんゆん\n今日、遊んでいただいたお礼で\n\n# textflame 0 0\n@\nあはは、そんなのいいよ\n笑いながら断るも、\n変わり者だな…と思うマスター\n\n# voice 250261 \"yunyun_0008\"\n# textflame 1 1\n@ゆんゆん\nそ、そうですか…\nじゃ、じゃあ…！\n\n# textflame 0 0\n@\n…と、また何かを取り出す\n今度は…\n\n# voice 250261 \"yunyun_0004\"\n# textflame 1 1\n@ゆんゆん\n問題集です\n\n# face %(unit_a)s \"usual\"\n@ゆんゆん\n私に関する問題を出しますので、\n答えて下さい\nお友達度チェックです\n\n# textflame 0 0\n@\nやっぱり少し変わってるな…\n汗を垂らすマスター\n\n# textflame 1 1\n@ゆんゆん\nそれでは行きますよ\n;;---------------------------------\n\n@%(unitName:unit_a)s\nめぐみんは私にとっての\n○○○〇です！\n\n# se \"SE_0734\"\n# select \"バイブル\" \"select_label_1\" \"ダンベル\" \"select_label_2\" \"ライバル\" \"select_label_3\"\nめぐみんは私にとっての\n○○○〇です！\n"
+	},
+	{
+		"ID": 5281,
+		"unitID": 2502611,
+		"questionID": 9502606,
+		"script": ";;14歳,2\n# face %(unit_a)s \"normal\"\n# voice 250261 \"yunyun_0028\"\n# textflame 1 1\n@ゆんゆん\nあ、あの…\nマスターさん…\n今日のお礼です\n\n# textflame 0 0\n@\nそう言って、\nかわいい財布を取りだした彼女\n何のつもり？と尋ねると…\n\n# textflame 1 1\n@ゆんゆん\n今日、遊んでいただいたお礼で\n\n# textflame 0 0\n@\nあはは、そんなのいいよ\n笑いながら断るも、\n変わり者だな…と思うマスター\n\n# voice 250261 \"yunyun_0008\"\n# textflame 1 1\n@ゆんゆん\nそ、そうですか…\nじゃ、じゃあ…！\n\n# textflame 0 0\n@\n…と、また何かを取り出す\n今度は…\n\n# voice 250261 \"yunyun_0004\"\n# textflame 1 1\n@ゆんゆん\n問題集です\n\n# face %(unit_a)s \"usual\"\n@ゆんゆん\n私に関する問題を出しますので、\n答えて下さい\nお友達度チェックです\n\n# textflame 0 0\n@\nやっぱり少し変わってるな…\n汗を垂らすマスター\n\n# textflame 1 1\n@ゆんゆん\nそれでは行きますよ\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の年齢はわかりますか？\n\n# se \"SE_0734\"\n# select \"18歳\" \"select_label_1\" \"14歳\" \"select_label_2\" \"22歳\" \"select_label_3\"\n私の年齢はわかりますか？\n"
+	},
+	{
+		"ID": 5282,
+		"unitID": 2502611,
+		"questionID": 9502607,
+		"script": ";;黒,1\n# face %(unit_a)s \"normal\"\n# voice 250261 \"yunyun_0028\"\n# textflame 1 1\n@ゆんゆん\nあ、あの…\nマスターさん\n\n@ゆんゆん\nわ、私とマスターさんはもう…\n\n@ゆんゆん\nお、お友達という事でいいんですか…？\n\n# voice 250261 \"yunyun_0008\"\n@ゆんゆん\nあの…\n試すわけじゃないんですけど、\n\n@ゆんゆん\nその絆がどれほどの強さなのか…\n私の出す問題に答えて下さい\n\n# textflame 0 0\n@\nそんなに心配しなくても友達だよ\nそう答えるマスターに対し、彼女は…\n\n# textflame 1 1\n@ゆんゆん\n信じたいのですが…\n確信がほしいんです…\n\n# textflame 0 0\n@\n不安そうな目を見せる彼女\nなにがなんでも正解しなきゃ\nそう誓うマスターだった\n\n# textflame 1 1\n@ゆんゆん\n行きます\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の髪の色は…？\n\n# se \"SE_0734\"\n# select \"黒\" \"select_label_1\" \"赤色\" \"select_label_2\" \"黄色\" \"select_label_3\"\n私の髪の色は…？\n"
+	},
+	{
+		"ID": 5283,
+		"unitID": 2502611,
+		"questionID": 9502608,
+		"script": ";;族長,1\n# face %(unit_a)s \"normal\"\n# voice 250261 \"yunyun_0028\"\n# textflame 1 1\n@ゆんゆん\nあ、あの…\nマスターさん\n\n@ゆんゆん\nわ、私とマスターさんはもう…\n\n@ゆんゆん\nお、お友達という事でいいんですか…？\n\n# voice 250261 \"yunyun_0008\"\n@ゆんゆん\nあの…\n試すわけじゃないんですけど、\n\n@ゆんゆん\nその絆がどれほどの強さなのか…\n私の出す問題に答えて下さい\n\n# textflame 0 0\n@\nそんなに心配しなくても友達だよ\nそう答えるマスターに対し、彼女は…\n\n# textflame 1 1\n@ゆんゆん\n信じたいのですが…\n確信がほしいんです…\n\n# textflame 0 0\n@\n不安そうな目を見せる彼女\nなにがなんでも正解しなきゃ\nそう誓うマスターだった\n\n# textflame 1 1\n@ゆんゆん\n行きます\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私は紅魔族の誰の娘でしょうか？\n\n# se \"SE_0734\"\n# select \"族長\" \"select_label_1\" \"社長\" \"select_label_2\" \"園長\" \"select_label_3\"\n私は紅魔族の誰の娘でしょうか？\n"
+	},
+	{
+		"ID": 5284,
+		"unitID": 2502611,
+		"questionID": 9502609,
+		"script": "\n;;私,2\n# se \"SE_0734\"\n# select \"僕\" \"select_label_1\" \"私\" \"select_label_2\" \"ウチ\" \"select_label_3\"\nゆんゆんの一人称は\n次のうちどれ？\n"
+	},
+	{
+		"ID": 5285,
+		"unitID": 2502611,
+		"questionID": 9502610,
+		"script": "\n;;豊崎愛生,3\n# se \"SE_0734\"\n# select \"高橋李依\" \"select_label_1\" \"雨宮天\" \"select_label_2\" \"豊崎愛生\" \"select_label_3\"\nゆんゆんの声優は誰かわかる？\n"
+	}
+]

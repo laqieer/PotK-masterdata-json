@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 96001398,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# se \"SE_0733\"\n# face %(unit_a)s \"sad\"\n@アスクレピオス\n…はい、不正解\n\n# voice 6001 \"asukurepiosu_0027\"\n# textflame 1 1\n@アスクレピオス\nやっぱり私の事なんて、\n全然見てくれてないのね…？\n\n# face %(unit_a)s \"angry\"\n# textflame 1 1\n@アスクレピオス\nべ、別に落ち込んでないから！\nもう…！\n\n# textflame 1 1\n@アスクレピオス\n知らない！！\n\n# textflame 0 0\n@\nと、水の入った容器を\n押し付けてプイと顔をそむける彼女\n\n# textflame 0 0\n@\nデート中のはずなのに…\n彼女を悲しませてしまった\n\n# textflame 0 0\n@\nもう少し…\n彼女に対して熱中症に…じゃなく\n夢中にならなきゃ…なんて…\n\n;;とげとげ吹き出し\n# voice 6001 \"asukurepiosu_0023\"\n# textwindow \"toge\"\n# textflame 1 1\n@アスクレピオス\nは！？\nうまく言えてないから！\n\n# textwindow \"normal\"\n# textflame 0 0\n@\nフォローしようとして噛んでしまった\nこんなことするよりも…\n\n# textflame 0 0\n@\nもう一度しっかり彼女のこと\n覚えておかないと…と反省した\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

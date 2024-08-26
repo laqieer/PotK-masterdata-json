@@ -1,0 +1,146 @@
+[
+	{
+		"ID": 1,
+		"anim_group_ID": 1,
+		"animPrefixSprite": "slc_guildbase_wall_grade_05_water_animation",
+		"animframe": 3,
+		"animXpos": 3.0,
+		"animYpos": 64.0
+	},
+	{
+		"ID": 2,
+		"anim_group_ID": 2,
+		"animPrefixSprite": "slc_guildbase_s_tower_grade_03_fire_animation",
+		"animframe": 3,
+		"animXpos": 21.0,
+		"animYpos": 119.0
+	},
+	{
+		"ID": 3,
+		"anim_group_ID": 3,
+		"animPrefixSprite": "slc_guildbase_s_tower_grade_04_own_flag_animation",
+		"animframe": 3,
+		"animXpos": 6.0,
+		"animYpos": 229.0
+	},
+	{
+		"ID": 4,
+		"anim_group_ID": 4,
+		"animPrefixSprite": "slc_guildbase_fortress_grade_02_own_flag_animation",
+		"animframe": 3,
+		"animXpos": 38.0,
+		"animYpos": 311.0
+	},
+	{
+		"ID": 5,
+		"anim_group_ID": 4,
+		"animPrefixSprite": "slc_guildbase_l_tower_grade_05_water_animation",
+		"animframe": 3,
+		"animXpos": 48.0,
+		"animYpos": 47.0
+	},
+	{
+		"ID": 6,
+		"anim_group_ID": 5,
+		"animPrefixSprite": "slc_guildbase_fortress_grade_02_own_flag_animation",
+		"animframe": 3,
+		"animXpos": 16.0,
+		"animYpos": 227.0
+	},
+	{
+		"ID": 7,
+		"anim_group_ID": 6,
+		"animPrefixSprite": "slc_guildbase_fortress_grade_02_own_flag_animation",
+		"animframe": 3,
+		"animXpos": 35.0,
+		"animYpos": 215.0
+	},
+	{
+		"ID": 8,
+		"anim_group_ID": 7,
+		"animPrefixSprite": "slc_guildbase_fortress_grade_02_own_flag_animation",
+		"animframe": 3,
+		"animXpos": 133.0,
+		"animYpos": 211.0
+	},
+	{
+		"ID": 9,
+		"anim_group_ID": 7,
+		"animPrefixSprite": "slc_guildbase_fortress_grade_02_smork_animation",
+		"animframe": 3,
+		"animXpos": 0.0,
+		"animYpos": 243.0
+	},
+	{
+		"ID": 10,
+		"anim_group_ID": 8,
+		"animPrefixSprite": "slc_guildbase_fortress_grade_02_own_flag_animation",
+		"animframe": 3,
+		"animXpos": 131.0,
+		"animYpos": 277.0
+	},
+	{
+		"ID": 11,
+		"anim_group_ID": 9,
+		"animPrefixSprite": "slc_memberbase_grade_02_own_flag_animation",
+		"animframe": 3,
+		"animXpos": 90.0,
+		"animYpos": 164.0
+	},
+	{
+		"ID": 12,
+		"anim_group_ID": 9,
+		"animPrefixSprite": "slc_memberbase_grade_01_fire_animation",
+		"animframe": 3,
+		"animXpos": 50.0,
+		"animYpos": 66.0
+	},
+	{
+		"ID": 13,
+		"anim_group_ID": 10,
+		"animPrefixSprite": "slc_memberbase_grade_02_own_flag_animation",
+		"animframe": 3,
+		"animXpos": 90.0,
+		"animYpos": 164.0
+	},
+	{
+		"ID": 14,
+		"anim_group_ID": 10,
+		"animPrefixSprite": "slc_memberbase_grade_01_fire_animation",
+		"animframe": 0,
+		"animXpos": 50.0,
+		"animYpos": 66.0
+	},
+	{
+		"ID": 15,
+		"anim_group_ID": 11,
+		"animPrefixSprite": "slc_guildbase_fortress_grade_02_own_flag_animation",
+		"animframe": 3,
+		"animXpos": 131.0,
+		"animYpos": 277.0
+	},
+	{
+		"ID": 16,
+		"anim_group_ID": 12,
+		"animPrefixSprite": "slc_guildbase_fortress_grade_02_own_flag_animation",
+		"animframe": 3,
+		"animXpos": 70.0,
+		"animYpos": 372.0
+	},
+	{
+		"ID": 17,
+		"anim_group_ID": 12,
+		"animPrefixSprite": "slc_guildbase_fortress_grade_04_fire_animation",
+		"animframe": 3,
+		"animXpos": 8.0,
+		"animYpos": 122.0
+	},
+	{
+		"ID": 18,
+		"anim_group_ID": 13,
+		"animPrefixSprite": "slc_guildbase_fortress_grade_02_own_flag_animation",
+		"animframe": 3,
+		"animXpos": 40.0,
+		"animYpos": 445.0
+	}
+]

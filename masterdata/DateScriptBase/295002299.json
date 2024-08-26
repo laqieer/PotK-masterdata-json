@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 295002299,
+		"script": ";;//正解\n# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body 2500221\n# pos 2500221 3\n# mask 2500221 off\n# chara 2500221\n# fadein \"black\" 0.5\n# textflame 1 1\n# se \"SE_0732\"\n# face 2500221 \"smile\"\n# voice 250022 \"furaikugeru_k_0041\"\n@フライクーゲル\nベリーグッド！\n大正解だよマスター！\n\n@フライクーゲル\nさすがはマスターってとこ？\nわたしについて\nちゃーんと知っててくれたんだ\n\n# voice 250022 \"furaikugeru_k_0004\"\n@フライクーゲル\nアハッ、それはとっても\nヘァピィなことだね！\n\n@フライクーゲル\nこんなグッドな気分だと\n帰り道も楽しそうっ！\nほら、早く行こっ、マスター！\n\n;;モノローグ\n# textflame 0 0\n@\n彼女に促されるように\n一緒に帰路につくマスター\n\n;;モノローグ\n@\n横でうれしそうにする彼女を見て\n絆が深まるのを感じるのだった…\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

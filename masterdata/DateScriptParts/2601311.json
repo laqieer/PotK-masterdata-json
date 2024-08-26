@@ -1,0 +1,26 @@
+[
+	{
+		"ID": 21,
+		"unitID": 2601311,
+		"scriptID": "kaerimichi",
+		"script": "マスター！\nやっぱりまだ帰りたくにゃい！"
+	},
+	{
+		"ID": 48,
+		"unitID": 2601311,
+		"scriptID": "kaeru",
+		"script": "マスター！\nそろそろ帰るにゃ！"
+	},
+	{
+		"ID": 75,
+		"unitID": 2601311,
+		"scriptID": "kaeru_ok",
+		"script": "@%(unitName:unit_a)s\nボクはマスターと一緒なら\nどこにでも遊びにいくにゃ～\nさあ遊びに行こうにゃ～"
+	},
+	{
+		"ID": 102,
+		"unitID": 2601311,
+		"scriptID": "kaeru_ng",
+		"script": "@%(unitName:unit_a)s\nごめんにゃ！\n今日は帰るにゃ！"
+	}
+]

@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 301423,
+		"script": ";;C たまには見てもらおうかと（中）\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_drive\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# voice 3014 \"ithuriel_0010\"\n# face %(unit_a)s \"usual\"\n@イシューリエル\nなるほど…？\n華麗なドライビングテクニックを\nわたくしに見せつけて…\n\n# voice 3014 \"ithuriel_kyara_2001\"\n# face %(unit_a)s \"smile\"\n@イシューリエル\n惚れ直させようという魂胆ですわね？\nふふふ、これぞトゥルース！\n\n@イシューリエル\nはたしてうまくいくでしょうか！\n\n# textflame 0 0\n@\nまるでゲームかなにかのように\nイシューリエルは声を弾ませて\nマスターの横顔を見つめている\n\n# eye %(unit_a)s \"close\"\n# textflame 1 1\n# voice 3014 \"ithuriel_0007\"\n@イシューリエル\nふだんとのギャップで\nわたくしをキュンとさせようなんて\n考えが浅はかですわ！\n\n# eye %(unit_a)s \"normal\"\n@イシューリエル\n…とはいえ\n通用しないことも\nないかもしれませんわ…\n\n# textflame 0 0\n@\nマスターの横顔を見つめる\n彼女の瞳は、いつの間にか\n熱っぽく潤んでいた…\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 100705033,
+		"script": "# bgm \"bgm035\" 0\n# background \"beast_world_town2\"\n# body 3400111\n# pos 3400111 5\n# scale 3400111 0.8 0\n# layer 3400111 1\n# alpha 3400111 1 0\n# face 3400111 \"surprise\"\n# body 3501711\n# pos 3501711 3\n# scale 3501711 0.8 0\n# layer 3501711 2\n# alpha 3501711 1 0\n# face 3501711 \"surprise\"\n# body 3201211\n# pos 3201211 1\n# scale 3201211 0.8 0\n# layer 3201211 1\n# alpha 3201211 1 0\n# face 3201211 \"surprise\"\n# body 151\n# pos 151 3\n# scale 151 0.8 0\n# alpha 151 0 0\n# mask 151 off\n# face 151 \"angry\"\n# textboxarrow 0 3\n# voice 340011 \"arutemisu_ge_0023\"\n@アルテミス\nこの力は…なに？\n\n# voice 350171 \"grimoire_ge_0024\"\n# textboxarrow 0 2\n@グリモワール\n嘘でしょ…\nこの私が気圧されるなんてっ…\n\n# voice 320121 \"srand_ge_0023\"\n# textboxarrow 0 1\n@スラーンド\nあたしより…偉大な力があるって\n言うわけっ…？\n\n# voice 1038 \"almace_0001\"\n# alpha 3400111 0 0.5\n# alpha 3501711 0 0.5\n# alpha 3201211 0 0.5\n# alpha 151 1 0.5\n# textboxarrow 0 2\n@アルマス\nマスター！\n私の手を握って\n新たな力を得るために！"
+	}
+]

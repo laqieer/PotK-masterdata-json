@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 300721,
+		"script": ";;,プールと思おう 小\n;;,もう少し近くに… 中\n;;,でもいい湯だ 大\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_onsen\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 0 0\n@\nゲイボルグとマスターは\nデートの帰りに水着着用の温泉に\n立ち寄っていたのだが…\n\n# textflame 1 1\n# voice 3007 \"gaiborugu_0028\"\n@ゲイボルグ\nまさか、混浴とはな\n\n@ゲイボルグ\n…否…怯んでいるのではない\nただ…こう…慣れていないだけだ\n\n# select \"プールと思おう\" \"select_label_01\" \"もう少し近くに…\" \"select_label_02\" \"でもいい湯だ\" \"select_label_03\"\n…否…怯んでいるのではない\nただ…こう…慣れていないだけだ\n\n# label \"select_label_01\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_02\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_03\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_end\"\n# waitandnext 0.1\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

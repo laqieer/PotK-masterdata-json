@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 301412,
+		"script": ";;B 重ねた時間は確かなもの (大当たり)\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_museum1\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 3014 \"ithuriel_0003\"\n@イシューリエル\nわたくしも、そう思いますわ！\n\n@イシューリエル\n重ねた時間は嘘をつかない\nそれだけで確かな事実…\n\n# textflame 0 0\n@\nイシューリエルは\nなにか言いたそうに\nマスターの顔をちらちらと見た\n\n# eye %(unit_a)s \"close\"\n# textflame 1 1\n@イシューリエル\nまだそんなに長くないけれど…\nわたくしとマスターが\n過ごしてきた時間も…\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"smile\"\n# voice 3014 \"ithuriel_0004\"\n@イシューリエル\n確か、ですわよね…？\n\n# textflame 0 0\n@\nマスターはしっかりと頷いた\n\n# textflame 0 0\n@\n長さではなく、二人の時間が\n重なっていたことが大事なんだ\n\n# textflame 1 1\n@イシューリエル\nはい…たしかに重なっていました！\nいろんな時間を、共有してきましたわ\n\n# face %(unit_a)s \"usual\"\n@イシューリエル\nそして、これからも…\nわたくし達はともに歩んで\n時間を、瞬間を積み上げていく\n\n# textflame 0 0\n@\nちょうど目の前に広がっていた\n太古の化石と地層の展示の前で\n彼女はマスターに振り向いた\n\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@イシューリエル\n命短いわたくし達の心の地層\n\n# voice 3014 \"ithuriel_0041\"\n@イシューリエル\n…どんなにちっぽけだとしても\nとても尊いものだと思いますわ…\n\n# textflame 0 0\n@\n胸に手を当てて微笑む彼女の中で\n輝いているだろう時間達を\n思い描いてみるマスターだった――\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

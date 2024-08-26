@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 3101359,
+		"script": "# script \"lisp\"\n# background \"colosseum_rise\"\n# bgm \"bgm006\" 0\n# body 823004\n# pos 823004 3\n# scale 823004 0.8 0\n# mask 823004 off\n# textflame 1 1\n# textboxarrow 0 2\n# chara 823004\n# voice 9994 \"izokutaisho_0005\"\n# emotionbody 1000 10 823004 -100 250\n# effectpattern 1000 4 1\n# effectstart 1000\n@異族の大将\nはい。まいど\n最近どないや！？\nぼちぼちか？\n\n# envbody 2000 10 1\n# effectpattern 2000 10 1\n# effectstart 2000\n# effectskip 1000\n# se \"SE_0607\"\n# voice 9994 \"izokutaisho_0078\"\n# textboxarrow 0 2\n# chara 823004\n@異族の大将\n新しいCMも\n撮ったみたいやし\nファンキルええ感じやな！\n\n# textboxarrow 0 2\n# chara 823004\n@異族の大将\nというわけできたで\nニコ生クエスト\n\n# bgm \"stop\" 0.7\n# textboxarrow 0 2\n# chara 823004\n@異族の大将\n雛祭りかー\nキル姫の成長を祈っ…\n\n# bgm \"bgm011\" 0.7\n# emotionbody 3000 6 823004 -100 250\n# effectpattern 3000 2 1\n# effectstart 3000\n# jump 823004\n# effectskip 2000\n# voice 9994 \"izokutaisho_0079\"\n# textboxarrow 0 2\n# chara 823004\n@異族の大将\nるわけないやろ\nなんで敵の成長祈らなアカンねん\n\n# textboxarrow 0 2\n# chara 823004\n@異族の大将\nってことで覚悟せぇよ。\n異族よ全員でオレを守れ！\nかかってこい！！！\n"
+	}
+]

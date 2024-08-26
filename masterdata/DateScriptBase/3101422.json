@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 3101422,
+		"script": "# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_drive\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# voice 1014 \"tyrufing_0005\"\n@ティルフィング\nふふっ、わかってますよっ！\nでも、それぐらい楽しくて…\n\n# face %(unit_a)s \"normal\"\n# textflame 1 1\n@ティルフィング\nそれも全部…\nそ、その…\n\n# textflame 0 0\n@\n言いよどむティルフィングの顔が、\n急に赤らんだ\n\n# voice 1014 \"tyrufing_0030\"\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@ティルフィング\n全部…マスターの、おかげ、です\nありがとうございます\n\n# textflame 0 0\n@\nたどたどしいが、\n彼女の素直な気持ちが\n伝わってくる\n\n# voice 1014 \"tyrufing_0001\"\n# face %(unit_a)s \"normal\"\n# textflame 1 1\n@ティルフィング\nま、マスター\n夜風に長く当たるのもダメです\n早く帰りましょう\n\n# textflame 0 0\n@\n恥ずかしくなったのか足早に\n移動する彼女を見つめながら…\n\n@\n今日のことは忘れないと、\n心に誓った\n;;----------------------------------------\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

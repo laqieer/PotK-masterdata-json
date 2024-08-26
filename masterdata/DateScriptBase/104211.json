@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 104211,
+		"script": ";;大A楽しい物語\n;;小B悲しい物語\n;;中Cごく普通の物語\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_castle\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# face %(unit_a)s \"normal\"\n# textflame 0 0\n@\nモラベガを連れて\n古城へとやってきたマスター\n\n@\n荘厳な古城の中を散策しながら、\nモラベガはこの城の歴史のことを\n想像していた…\n\n# voice 210421 \"morabeaga_l_0028\"\n# textflame 1 1\n@モラベガ\nこのお城には…\nアルマスみたいな\nお姫様はいたのかな？\n\n@モラベガ\nいろんな人が共に過ごして、\nお互いに絆を深めあって…\n\n@モラベガ\n時には争って…\n戦ったり、別れたりして\n\n@モラベガ\nそんな…\n舞台の上で見るような物語が、\nここにもあったのかもしれないね\n\n# voice 210421 \"morabeaga_l_0001\"\n@モラベガ\nねぇっ、マスター？\n\n@モラベガ\nマスターは…このお城に\nどんな物語があったと思う？\n\n# select \"楽しい物語\" \"select_label_01\" \"悲しい物語\" \"select_label_02\" \"ごく普通の物語\" \"select_label_03\"\nマスターは…このお城に\nどんな物語があったと思う？\n\n# label \"select_label_01\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_02\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_03\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_end\"\n# waitandnext 0.1\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

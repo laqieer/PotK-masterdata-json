@@ -1,0 +1,26 @@
+[
+	{
+		"ID": 119,
+		"unitID": 2102811,
+		"scriptID": "kaerimichi",
+		"script": "おぬしにもっと興味が湧いてきたよ\nまだ時間もあることだし\nもう少し遊んでいこうじゃないか"
+	},
+	{
+		"ID": 133,
+		"unitID": 2102811,
+		"scriptID": "kaeru",
+		"script": "では、今日はここまでだ\n帰路につこうではないか"
+	},
+	{
+		"ID": 147,
+		"unitID": 2102811,
+		"scriptID": "kaeru_ok",
+		"script": "@%(unitName:unit_a)s\nはっはっは！もちろんじゃないか\nおぬしがどこに\n連れて行ってくれるのか楽しみだな"
+	},
+	{
+		"ID": 161,
+		"unitID": 2102811,
+		"scriptID": "kaeru_ng",
+		"script": "@%(unitName:unit_a)s\nすまない、所用があってな\nまた今度にしようじゃないか"
+	}
+]

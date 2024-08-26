@@ -1,0 +1,302 @@
+[
+	{
+		"ID": 3701,
+		"unitID": 2601411,
+		"questionID": 9601401,
+		"script": ";;創造神プタハ,1\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 6014 \"ptah_0001\"\n@プタハ\nマスター\n少しだけ止まってくれ\n\n# face %(unit_a)s \"normal\"\n@プタハ\nいや…\nそんなに警戒しなくていい\n\n@プタハ\nただ、そなたに\nクイズを出そうと思ってな\n\n@プタハ\n我のことを\nどのくらい知っているのか\n\n@プタハ\n我に関するクイズで\n確かめさせてもらう\n\n# voice 6014 \"ptah_0036\"\n@プタハ\nでは、いくぞ…\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n我のキラーズ『プタハ』は\n誰の持ち主だったかわかるか？\n\n# se \"SE_0734\"\n# select  \"創造神プタハ\" \"select_label_1\" \"全能の神ゼウス\" \"select_label_2\" \"農家の翁ヤマモト\" \"select_label_3\"\n我のキラーズ『プタハ』は\n誰の持ち主だったかわかるか？\n"
+	},
+	{
+		"ID": 3702,
+		"unitID": 2601411,
+		"questionID": 9601402,
+		"script": ";;杖,2\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 6014 \"ptah_0001\"\n@プタハ\nマスター\n少しだけ止まってくれ\n\n# face %(unit_a)s \"normal\"\n@プタハ\nいや…\nそんなに警戒しなくていい\n\n@プタハ\nただ、そなたに\nクイズを出そうと思ってな\n\n@プタハ\n我のことを\nどのくらい知っているのか\n\n@プタハ\n我に関するクイズで\n確かめさせてもらう\n\n# voice 6014 \"ptah_0036\"\n@プタハ\nでは、いくぞ…\n;;--------------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n我のキラーズ『プタハ』は\nどんな武器だ？\n\n# se \"SE_0734\"\n# select  \"槍\" \"select_label_1\" \"杖\" \"select_label_2\" \"剣\" \"select_label_3\"\n我のキラーズ『プタハ』は\nどんな武器だ？\n"
+	},
+	{
+		"ID": 3703,
+		"unitID": 2601411,
+		"questionID": 9601403,
+		"script": ";;支配,3\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 6014 \"ptah_0001\"\n@プタハ\nマスター\n少しだけ止まってくれ\n\n# face %(unit_a)s \"normal\"\n@プタハ\nいや…\nそんなに警戒しなくていい\n\n@プタハ\nただ、そなたに\nクイズを出そうと思ってな\n\n@プタハ\n我のことを\nどのくらい知っているのか\n\n@プタハ\n我に関するクイズで\n確かめさせてもらう\n\n# voice 6014 \"ptah_0036\"\n@プタハ\nでは、いくぞ…\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n我のキラーズ『プタハ』は\n生命と安定、あとなにを象徴する\n杖を組み合わせたものだ？\n\n# se \"SE_0734\"\n# select  \"希望\" \"select_label_1\" \"絶望\" \"select_label_2\" \"支配\" \"select_label_3\"\n我のキラーズ『プタハ』は\n生命と安定、あとなにを象徴する\n杖を組み合わせたものだ？\n"
+	},
+	{
+		"ID": 3704,
+		"unitID": 2601411,
+		"questionID": 9601404,
+		"script": ";;職人,1\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 6014 \"ptah_0001\"\n@プタハ\nマスター\n少しだけ止まってくれ\n\n# face %(unit_a)s \"normal\"\n@プタハ\nいや…\nそんなに警戒しなくていい\n\n@プタハ\nただ、そなたに\nクイズを出そうと思ってな\n\n@プタハ\n我のことを\nどのくらい知っているのか\n\n@プタハ\n我に関するクイズで\n確かめさせてもらう\n\n# voice 6014 \"ptah_0036\"\n@プタハ\nでは、いくぞ…\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n我のキラーズ『プタハ』の\n持ち主であるプタハは\nなにの守護神と言われている？\n\n# se \"SE_0734\"\n# select  \"職人\" \"select_label_1\" \"死人\" \"select_label_2\" \"家事\" \"select_label_3\"\n我のキラーズ『プタハ』の\n持ち主であるプタハは\nなにの守護神と言われている？\n"
+	},
+	{
+		"ID": 3705,
+		"unitID": 2601411,
+		"questionID": 9601405,
+		"script": ";;冥界,2\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 6014 \"ptah_0001\"\n@プタハ\nマスター\n少しだけ止まってくれ\n\n# face %(unit_a)s \"normal\"\n@プタハ\nいや…\nそんなに警戒しなくていい\n\n@プタハ\nただ、そなたに\nクイズを出そうと思ってな\n\n@プタハ\n我のことを\nどのくらい知っているのか\n\n@プタハ\n我に関するクイズで\n確かめさせてもらう\n\n# voice 6014 \"ptah_0036\"\n@プタハ\nでは、いくぞ…\n;;--------------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n我のキラーズ『プタハ』の\n持ち主であるプタハは\nなにの神とされている？\n\n# se \"SE_0734\"\n# select  \"天界\" \"select_label_1\" \"冥界\" \"select_label_2\" \"地上\" \"select_label_3\"\n我のキラーズ『プタハ』の\n持ち主であるプタハは\nなにの神とされている？\n"
+	},
+	{
+		"ID": 3706,
+		"unitID": 2601411,
+		"questionID": 9601406,
+		"script": ";;プター,3\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 6014 \"ptah_0001\"\n@プタハ\nマスター\n少しだけ止まってくれ\n\n# face %(unit_a)s \"normal\"\n@プタハ\nいや…\nそんなに警戒しなくていい\n\n@プタハ\nただ、そなたに\nクイズを出そうと思ってな\n\n@プタハ\n我のことを\nどのくらい知っているのか\n\n@プタハ\n我に関するクイズで\n確かめさせてもらう\n\n# voice 6014 \"ptah_0036\"\n@プタハ\nでは、いくぞ…\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n我のキラーズ『プタハ』の\n持ち主であるプタハの\n別名はなんだったかな？\n\n# se \"SE_0734\"\n# select  \"プハー\" \"select_label_1\" \"プラー\" \"select_label_2\" \"プター\" \"select_label_3\"\n我のキラーズ『プタハ』の\n持ち主であるプタハの\n別名はなんだったかな？\n"
+	},
+	{
+		"ID": 3707,
+		"unitID": 2601411,
+		"questionID": 9601407,
+		"script": ";;エジプト神話,1\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 6014 \"ptah_0001\"\n@プタハ\nマスター\n少しだけ止まってくれ\n\n# face %(unit_a)s \"normal\"\n@プタハ\nいや…\nそんなに警戒しなくていい\n\n@プタハ\nただ、そなたに\nクイズを出そうと思ってな\n\n@プタハ\n我のことを\nどのくらい知っているのか\n\n@プタハ\n我に関するクイズで\n確かめさせてもらう\n\n# voice 6014 \"ptah_0036\"\n@プタハ\nでは、いくぞ…\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n我のキラーズ『プタハ』が\n登場する神話はなにか？\n\n# se \"SE_0734\"\n# select  \"エジプト神話\" \"select_label_1\" \"北欧神話\" \"select_label_2\" \"ギリシャ神話\" \"select_label_3\"\n我のキラーズ『プタハ』が\n登場する神話はなにか？\n"
+	},
+	{
+		"ID": 3708,
+		"unitID": 2601411,
+		"questionID": 9601408,
+		"script": ";;メンフィス,2\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 6014 \"ptah_0001\"\n@プタハ\nマスター\n少しだけ止まってくれ\n\n# face %(unit_a)s \"normal\"\n@プタハ\nいや…\nそんなに警戒しなくていい\n\n@プタハ\nただ、そなたに\nクイズを出そうと思ってな\n\n@プタハ\n我のことを\nどのくらい知っているのか\n\n@プタハ\n我に関するクイズで\n確かめさせてもらう\n\n# voice 6014 \"ptah_0036\"\n@プタハ\nでは、いくぞ…\n;;--------------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n我のキラーズ『プタハ』の\n持ち主であるプタハは\nなんと言う都市で信仰された？\n\n# se \"SE_0734\"\n# select  \"メントス\" \"select_label_1\" \"メンフィス\" \"select_label_2\" \"メラニス\" \"select_label_3\"\n我のキラーズ『プタハ』の\n持ち主であるプタハは\nなんと言う都市で信仰された？\n"
+	},
+	{
+		"ID": 3709,
+		"unitID": 2601411,
+		"questionID": 9601409,
+		"script": ";;ウアス杖,3\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 6014 \"ptah_0001\"\n@プタハ\nマスター\n少しだけ止まってくれ\n\n# face %(unit_a)s \"normal\"\n@プタハ\nいや…\nそんなに警戒しなくていい\n\n@プタハ\nただ、そなたに\nクイズを出そうと思ってな\n\n@プタハ\n我のことを\nどのくらい知っているのか\n\n@プタハ\n我に関するクイズで\n確かめさせてもらう\n\n# voice 6014 \"ptah_0036\"\n@プタハ\nでは、いくぞ…\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n我のキラーズ『プタハ』は\n三つの杖を組み合わせた物なんだが\nアンク、ジェド柱、あと一個は？\n\n# se \"SE_0734\"\n# select  \"ウヌス杖\" \"select_label_1\" \"ウレス杖\" \"select_label_2\" \"ウアス杖\" \"select_label_3\"\n我のキラーズ『プタハ』は\n三つの杖を組み合わせた物なんだが\nアンク、ジェド柱、あと一個は？\n"
+	},
+	{
+		"ID": 3710,
+		"unitID": 2601411,
+		"questionID": 9601410,
+		"script": ";;二股になっている,1\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 6014 \"ptah_0001\"\n@プタハ\nマスター\n少しだけ止まってくれ\n\n# face %(unit_a)s \"normal\"\n@プタハ\nいや…\nそんなに警戒しなくていい\n\n@プタハ\nただ、そなたに\nクイズを出そうと思ってな\n\n@プタハ\n我のことを\nどのくらい知っているのか\n\n@プタハ\n我に関するクイズで\n確かめさせてもらう\n\n# voice 6014 \"ptah_0036\"\n@プタハ\nでは、いくぞ…\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n我のキラーズ『プタハ』は\n杖の下の部分がどうなっている？\n\n# se \"SE_0734\"\n# select  \"二股になっている\" \"select_label_1\" \"剣になっている\" \"select_label_2\" \"折れている\" \"select_label_3\"\n我のキラーズ『プタハ』は\n杖の下の部分がどうなっている？\n"
+	},
+	{
+		"ID": 3711,
+		"unitID": 2601411,
+		"questionID": 9601411,
+		"script": ";;子守,1\n# textflame 1 1\n# voice 6014 \"ptah_0001\"\n@プタハ\nマスター\nちょっとよいか？\n\n@プタハ\nいや、たいした事では\nないのだけれどな\n\n@プタハ\nマスターがどのくらい\n我を理解しているかが\n気になってな…\n\n@プタハ\n少し、我に関する\nクイズを出してもよいか？\n\n@プタハ\n別に難しい事は\n聞かないから\n安心してほしい\n\n# voice 6014 \"ptah_0036\"\n@プタハ\nでは、ゆくぞ\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n我の趣味はなんだ？\n我は、子供が大好きだぞ\n\n# se \"SE_0734\"\n# select  \"子守\" \"select_label_1\" \"躾け\" \"select_label_2\" \"昼寝\" \"select_label_3\"\n我の趣味はなんだ？\n我は、子供が大好きだぞ\n"
+	},
+	{
+		"ID": 3712,
+		"unitID": 2601411,
+		"questionID": 9601412,
+		"script": ";;おうし座,2\n# textflame 1 1\n# voice 6014 \"ptah_0001\"\n@プタハ\nマスター\nちょっとよいか？\n\n@プタハ\nいや、たいした事では\nないのだけれどな\n\n@プタハ\nマスターがどのくらい\n我を理解しているかが\n気になってな…\n\n@プタハ\n少し、我に関する\nクイズを出してもよいか？\n\n@プタハ\n別に難しい事は\n聞かないから\n安心してほしい\n\n# voice 6014 \"ptah_0036\"\n@プタハ\nでは、ゆくぞ\n;;--------------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n我の星座は\nなんだったかわかるか？\n\n# se \"SE_0734\"\n# select  \"いて座\" \"select_label_1\" \"おうし座\" \"select_label_2\" \"みずがめ座\" \"select_label_3\"\n我の星座は\nなんだったかわかるか？\n"
+	},
+	{
+		"ID": 3713,
+		"unitID": 2601411,
+		"questionID": 9601413,
+		"script": ";; メンフィス,3\n# textflame 1 1\n# voice 6014 \"ptah_0001\"\n@プタハ\nマスター\nちょっとよいか？\n\n@プタハ\nいや、たいした事では\nないのだけれどな\n\n@プタハ\nマスターがどのくらい\n我を理解しているかが\n気になってな…\n\n@プタハ\n少し、我に関する\nクイズを出してもよいか？\n\n@プタハ\n別に難しい事は\n聞かないから\n安心してほしい\n\n# voice 6014 \"ptah_0036\"\n@プタハ\nでは、ゆくぞ\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n我の出身地を\n覚えているか？\n\n# se \"SE_0734\"\n# select  \"天界\" \"select_label_1\" \"アブー山\" \"select_label_2\" \"メンフィス\" \"select_label_3\"\n我の出身地を\n覚えているか？\n"
+	},
+	{
+		"ID": 3714,
+		"unitID": 2601411,
+		"questionID": 9601414,
+		"script": ";;B型,1\n# textflame 1 1\n# voice 6014 \"ptah_0001\"\n@プタハ\nマスター\nちょっとよいか？\n\n@プタハ\nいや、たいした事では\nないのだけれどな\n\n@プタハ\nマスターがどのくらい\n我を理解しているかが\n気になってな…\n\n@プタハ\n少し、我に関する\nクイズを出してもよいか？\n\n@プタハ\n別に難しい事は\n聞かないから\n安心してほしい\n\n# voice 6014 \"ptah_0036\"\n@プタハ\nでは、ゆくぞ\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n我の血液型は知っているか？\n\n# se \"SE_0734\"\n# select  \"B型\" \"select_label_1\" \"A型\" \"select_label_2\" \"O型\" \"select_label_3\"\n我の血液型は知っているか？\n"
+	},
+	{
+		"ID": 3715,
+		"unitID": 2601411,
+		"questionID": 9601415,
+		"script": ";;安定,2\n# textflame 1 1\n# voice 6014 \"ptah_0001\"\n@プタハ\nマスター\nちょっとよいか？\n\n@プタハ\nいや、たいした事では\nないのだけれどな\n\n@プタハ\nマスターがどのくらい\n我を理解しているかが\n気になってな…\n\n@プタハ\n少し、我に関する\nクイズを出してもよいか？\n\n@プタハ\n別に難しい事は\n聞かないから\n安心してほしい\n\n# voice 6014 \"ptah_0036\"\n@プタハ\nでは、ゆくぞ\n;;--------------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n我の好きなものはなんだ？\nやはり、全てこれが一番だな…\n\n# se \"SE_0734\"\n# select  \"争い\" \"select_label_1\" \"安定\" \"select_label_2\" \"変化\" \"select_label_3\"\n我の好きなものはなんだ？\nやはり、全てこれが一番だな…\n"
+	},
+	{
+		"ID": 3716,
+		"unitID": 2601411,
+		"questionID": 9601416,
+		"script": ";;164cm,3\n# textflame 1 1\n# voice 6014 \"ptah_0001\"\n@プタハ\nマスター\nちょっとよいか？\n\n@プタハ\nいや、たいした事では\nないのだけれどな\n\n@プタハ\nマスターがどのくらい\n我を理解しているかが\n気になってな…\n\n@プタハ\n少し、我に関する\nクイズを出してもよいか？\n\n@プタハ\n別に難しい事は\n聞かないから\n安心してほしい\n\n# voice 6014 \"ptah_0036\"\n@プタハ\nでは、ゆくぞ\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n我の身長は\nなんセンチか？\n\n# se \"SE_0734\"\n# select  \"148cm\" \"select_label_1\" \"157cm\" \"select_label_2\" \"164cm\" \"select_label_3\"\n我の身長は\nなんセンチか？\n"
+	},
+	{
+		"ID": 3717,
+		"unitID": 2601411,
+		"questionID": 9601417,
+		"script": ";;ブラフマーストラ,1\n# textflame 1 1\n# voice 6014 \"ptah_0001\"\n@プタハ\nマスター\nちょっとよいか？\n\n@プタハ\nいや、たいした事では\nないのだけれどな\n\n@プタハ\nマスターがどのくらい\n我を理解しているかが\n気になってな…\n\n@プタハ\n少し、我に関する\nクイズを出してもよいか？\n\n@プタハ\n別に難しい事は\n聞かないから\n安心してほしい\n\n# voice 6014 \"ptah_0036\"\n@プタハ\nでは、ゆくぞ\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n我の親友は\n誰だったか覚えているか？\n\n# se \"SE_0734\"\n# select  \"ブラフマーストラ\" \"select_label_1\" \"パラシュ\" \"select_label_2\" \"ピナーカ\" \"select_label_3\"\n我の親友は\n誰だったか覚えているか？\n"
+	},
+	{
+		"ID": 3718,
+		"unitID": 2601411,
+		"questionID": 9601418,
+		"script": ";;5月20日,2\n# textflame 1 1\n# voice 6014 \"ptah_0001\"\n@プタハ\nマスター\nちょっとよいか？\n\n@プタハ\nいや、たいした事では\nないのだけれどな\n\n@プタハ\nマスターがどのくらい\n我を理解しているかが\n気になってな…\n\n@プタハ\n少し、我に関する\nクイズを出してもよいか？\n\n@プタハ\n別に難しい事は\n聞かないから\n安心してほしい\n\n# voice 6014 \"ptah_0036\"\n@プタハ\nでは、ゆくぞ\n;;--------------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n我の誕生日は\nわかるか？\n\n# se \"SE_0734\"\n# select  \"6月10日\" \"select_label_1\" \"5月20日\" \"select_label_2\" \"4月11日\" \"select_label_3\"\n我の誕生日は\nわかるか？\n"
+	},
+	{
+		"ID": 3719,
+		"unitID": 2601411,
+		"questionID": 9601419,
+		"script": ";;復活,3\n# textflame 1 1\n# voice 6014 \"ptah_0001\"\n@プタハ\nマスター\nちょっとよいか？\n\n@プタハ\nいや、たいした事では\nないのだけれどな\n\n@プタハ\nマスターがどのくらい\n我を理解しているかが\n気になってな…\n\n@プタハ\n少し、我に関する\nクイズを出してもよいか？\n\n@プタハ\n別に難しい事は\n聞かないから\n安心してほしい\n\n# voice 6014 \"ptah_0036\"\n@プタハ\nでは、ゆくぞ\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n我は創造・再生とあと一つの力を\n司った神の力を宿しているが\nあと一つはなにか？\n\n# se \"SE_0734\"\n# select  \"呪い\" \"select_label_1\" \"死\" \"select_label_2\" \"復活\" \"select_label_3\"\n我は創造・再生とあと一つの力を\n司った神の力を宿しているが\nあと一つはなにか？\n"
+	},
+	{
+		"ID": 3720,
+		"unitID": 2601411,
+		"questionID": 9601420,
+		"script": ";;母代わり,1\n# textflame 1 1\n# voice 6014 \"ptah_0001\"\n@プタハ\nマスター\nちょっとよいか？\n\n@プタハ\nいや、たいした事では\nないのだけれどな\n\n@プタハ\nマスターがどのくらい\n我を理解しているかが\n気になってな…\n\n@プタハ\n少し、我に関する\nクイズを出してもよいか？\n\n@プタハ\n別に難しい事は\n聞かないから\n安心してほしい\n\n# voice 6014 \"ptah_0036\"\n@プタハ\nでは、ゆくぞ\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n隊の姫達は我のことを\nこう思ってくれているそうだ\n\n# se \"SE_0734\"\n# select  \"母代わり\" \"select_label_1\" \"用心棒\" \"select_label_2\" \"なんでも屋\" \"select_label_3\"\n隊の姫達は我のことを\nこう思ってくれているそうだ\n"
+	},
+	{
+		"ID": 3721,
+		"unitID": 2601411,
+		"questionID": 9601421,
+		"script": ";;プリースト,1\n# textflame 1 1\n# voice 6014 \"ptah_0002\"\n@プタハ\nマスターに\n今からクイズを出したいと思う\n\n@プタハ\n理由か？\n理由はないんだが…\n\n@プタハ\nクイズくらい\n別によいだろう？\n\n@プタハ\nそうか！\nでは、出させてもらおう\n\n@プタハ\nまぁ、クイズと言っても\n我に関する問題ばかりだからな\n\n# voice 6014 \"ptah_0036\"\n@プタハ\n肩の力を抜いて\n答えてほしい\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n我が☆4の時のジョブは\n覚えているか？\n\n# se \"SE_0734\"\n# select  \"プリースト\" \"select_label_1\" \"クレリック\" \"select_label_2\" \"ワンドナイト\" \"select_label_3\"\n我が☆4の時のジョブは\n覚えているか？\n"
+	},
+	{
+		"ID": 3722,
+		"unitID": 2601411,
+		"questionID": 9601422,
+		"script": ";;ビショップ,2\n# textflame 1 1\n# voice 6014 \"ptah_0002\"\n@プタハ\nマスターに\n今からクイズを出したいと思う\n\n@プタハ\n理由か？\n理由はないんだが…\n\n@プタハ\nクイズくらい\n別によいだろう？\n\n@プタハ\nそうか！\nでは、出させてもらおう\n\n@プタハ\nまぁ、クイズと言っても\n我に関する問題ばかりだからな\n\n# voice 6014 \"ptah_0036\"\n@プタハ\n肩の力を抜いて\n答えてほしい\n;;--------------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n我が☆5の時のジョブは\nなんだったかわかるか？\n\n# se \"SE_0734\"\n# select  \"アークビショップ\" \"select_label_1\" \"ビショップ\" \"select_label_2\" \"クレリック\" \"select_label_3\"\n我が☆5の時のジョブは\nなんだったかわかるか？\n"
+	},
+	{
+		"ID": 3723,
+		"unitID": 2601411,
+		"questionID": 9601423,
+		"script": ";;司祭の緑陰,3\n# textflame 1 1\n# voice 6014 \"ptah_0002\"\n@プタハ\nマスターに\n今からクイズを出したいと思う\n\n@プタハ\n理由か？\n理由はないんだが…\n\n@プタハ\nクイズくらい\n別によいだろう？\n\n@プタハ\nそうか！\nでは、出させてもらおう\n\n@プタハ\nまぁ、クイズと言っても\n我に関する問題ばかりだからな\n\n# voice 6014 \"ptah_0036\"\n@プタハ\n肩の力を抜いて\n答えてほしい\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n我が☆5の\nリーダースキルは\nなにか？\n\n# se \"SE_0734\"\n# select  \"賢者の慈愛\" \"select_label_1\" \"聖司祭の滅気\" \"select_label_2\" \"司祭の緑陰\" \"select_label_3\"\n我が☆5の\nリーダースキルは\nなにか？\n"
+	},
+	{
+		"ID": 3724,
+		"unitID": 2601411,
+		"questionID": 9601424,
+		"script": ";;母なる抱擁,1\n# textflame 1 1\n# voice 6014 \"ptah_0002\"\n@プタハ\nマスターに\n今からクイズを出したいと思う\n\n@プタハ\n理由か？\n理由はないんだが…\n\n@プタハ\nクイズくらい\n別によいだろう？\n\n@プタハ\nそうか！\nでは、出させてもらおう\n\n@プタハ\nまぁ、クイズと言っても\n我に関する問題ばかりだからな\n\n# voice 6014 \"ptah_0036\"\n@プタハ\n肩の力を抜いて\n答えてほしい\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n我の☆5キャラクタークエストで\n手に入るスキルはどれか？\n\n# se \"SE_0734\"\n# select  \"母なる抱擁\" \"select_label_1\" \"ヒットオンジャッジ\" \"select_label_2\" \"グレィヴザライト\" \"select_label_3\"\n我の☆5キャラクタークエストで\n手に入るスキルはどれか？\n"
+	},
+	{
+		"ID": 3725,
+		"unitID": 2601411,
+		"questionID": 9601425,
+		"script": ";;杖神の緑陰,2\n# textflame 1 1\n# voice 6014 \"ptah_0002\"\n@プタハ\nマスターに\n今からクイズを出したいと思う\n\n@プタハ\n理由か？\n理由はないんだが…\n\n@プタハ\nクイズくらい\n別によいだろう？\n\n@プタハ\nそうか！\nでは、出させてもらおう\n\n@プタハ\nまぁ、クイズと言っても\n我に関する問題ばかりだからな\n\n# voice 6014 \"ptah_0036\"\n@プタハ\n肩の力を抜いて\n答えてほしい\n;;--------------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n我が☆6の\nリーダースキルは\n覚えているか？\n\n# se \"SE_0734\"\n# select  \"氷斧神の慈眼\" \"select_label_1\" \"杖神の緑陰\" \"select_label_2\" \"杖神の魅了\" \"select_label_3\"\n我が☆6の\nリーダースキルは\n覚えているか？\n"
+	},
+	{
+		"ID": 3726,
+		"unitID": 2601411,
+		"questionID": 9601426,
+		"script": ";;堅守の心得,3\n# textflame 1 1\n# voice 6014 \"ptah_0002\"\n@プタハ\nマスターに\n今からクイズを出したいと思う\n\n@プタハ\n理由か？\n理由はないんだが…\n\n@プタハ\nクイズくらい\n別によいだろう？\n\n@プタハ\nそうか！\nでは、出させてもらおう\n\n@プタハ\nまぁ、クイズと言っても\n我に関する問題ばかりだからな\n\n# voice 6014 \"ptah_0036\"\n@プタハ\n肩の力を抜いて\n答えてほしい\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n我の☆4の\nレベルアップスキルは\nなにか？\n\n# se \"SE_0734\"\n# select  \"力の心得\" \"select_label_1\" \"剛力の心得\" \"select_label_2\" \"堅守の心得\" \"select_label_3\"\n我の☆4の\nレベルアップスキルは\nなにか？\n"
+	},
+	{
+		"ID": 3727,
+		"unitID": 2601411,
+		"questionID": 9601427,
+		"script": ";;魔防強化,1\n# textflame 1 1\n# voice 6014 \"ptah_0002\"\n@プタハ\nマスターに\n今からクイズを出したいと思う\n\n@プタハ\n理由か？\n理由はないんだが…\n\n@プタハ\nクイズくらい\n別によいだろう？\n\n@プタハ\nそうか！\nでは、出させてもらおう\n\n@プタハ\nまぁ、クイズと言っても\n我に関する問題ばかりだからな\n\n# voice 6014 \"ptah_0036\"\n@プタハ\n肩の力を抜いて\n答えてほしい\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n我の☆3レベルアップスキルは\nなんだったか覚えているか？\n\n# se \"SE_0734\"\n# select  \"魔防強化\" \"select_label_1\" \"物防強化\" \"select_label_2\" \"反撃強化\" \"select_label_3\"\n我の☆3レベルアップスキルは\nなんだったか覚えているか？\n"
+	},
+	{
+		"ID": 3728,
+		"unitID": 2601411,
+		"questionID": 9601428,
+		"script": ";;快復,2\n# textflame 1 1\n# voice 6014 \"ptah_0002\"\n@プタハ\nマスターに\n今からクイズを出したいと思う\n\n@プタハ\n理由か？\n理由はないんだが…\n\n@プタハ\nクイズくらい\n別によいだろう？\n\n@プタハ\nそうか！\nでは、出させてもらおう\n\n@プタハ\nまぁ、クイズと言っても\n我に関する問題ばかりだからな\n\n# voice 6014 \"ptah_0036\"\n@プタハ\n肩の力を抜いて\n答えてほしい\n;;--------------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n我の☆5の\nレベルアップスキルは\nなんだ？\n\n# se \"SE_0734\"\n# select  \"治癒者\" \"select_label_1\" \"快復\" \"select_label_2\" \"守精強化\" \"select_label_3\"\n我の☆5の\nレベルアップスキルは\nなんだ？\n"
+	},
+	{
+		"ID": 3729,
+		"unitID": 2601411,
+		"questionID": 9601429,
+		"script": ";;母なる慈しみ,3\n# textflame 1 1\n# voice 6014 \"ptah_0002\"\n@プタハ\nマスターに\n今からクイズを出したいと思う\n\n@プタハ\n理由か？\n理由はないんだが…\n\n@プタハ\nクイズくらい\n別によいだろう？\n\n@プタハ\nそうか！\nでは、出させてもらおう\n\n@プタハ\nまぁ、クイズと言っても\n我に関する問題ばかりだからな\n\n# voice 6014 \"ptah_0036\"\n@プタハ\n肩の力を抜いて\n答えてほしい\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n我のキャラクエEP3で\n手に入るスキルはどれ？\n\n# se \"SE_0734\"\n# select  \"浄毒の心得\" \"select_label_1\" \"力の光陣\" \"select_label_2\" \"母なる慈しみ\" \"select_label_3\"\n我のキャラクエEP3で\n手に入るスキルはどれ？\n"
+	},
+	{
+		"ID": 3730,
+		"unitID": 2601411,
+		"questionID": 9601430,
+		"script": ";;いない,1\n# textflame 1 1\n# voice 6014 \"ptah_0002\"\n@プタハ\nマスターに\n今からクイズを出したいと思う\n\n@プタハ\n理由か？\n理由はないんだが…\n\n@プタハ\nクイズくらい\n別によいだろう？\n\n@プタハ\nそうか！\nでは、出させてもらおう\n\n@プタハ\nまぁ、クイズと言っても\n我に関する問題ばかりだからな\n\n# voice 6014 \"ptah_0036\"\n@プタハ\n肩の力を抜いて\n答えてほしい\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n我のライバルは誰だ？\n\n# se \"SE_0734\"\n# select  \"いない\" \"select_label_1\" \"パラシュ\" \"select_label_2\" \"デュランダル\" \"select_label_3\"\n我のライバルは誰だ？\n"
+	},
+	{
+		"ID": 3731,
+		"unitID": 2601411,
+		"questionID": 9601431,
+		"script": ";;黒,1\n# textflame 1 1\n# voice 6014 \"ptah_0002\"\n@プタハ\nもし…マスター\n\n@プタハ\n少しだけ\n我に付き合ってくれないか？\n\n@プタハ\nそなたに答えてもらいたい\nクイズがあるのだが…\n\n@プタハ\n問題は全て、\n我に関するもの\n\n@プタハ\nまぁ、無理にとは\n言わないが…\n\n# face %(unit_a)s \"smile\"\n@プタハ\nそうか\n答えてくれるか\n\n# voice 6014 \"ptah_0036\"\n@プタハ\nでは、ゆくぞ…\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n我の髪の色は\n何色だ？\n\n# se \"SE_0734\"\n# select  \"黒\" \"select_label_1\" \"白\" \"select_label_2\" \"青\" \"select_label_3\"\n我の髪の色は\n何色だ？\n"
+	},
+	{
+		"ID": 3732,
+		"unitID": 2601411,
+		"questionID": 9601432,
+		"script": ";;青,2\n# textflame 1 1\n# voice 6014 \"ptah_0002\"\n@プタハ\nもし…マスター\n\n@プタハ\n少しだけ\n我に付き合ってくれないか？\n\n@プタハ\nそなたに答えてもらいたい\nクイズがあるのだが…\n\n@プタハ\n問題は全て、\n我に関するもの\n\n@プタハ\nまぁ、無理にとは\n言わないが…\n\n# face %(unit_a)s \"smile\"\n@プタハ\nそうか\n答えてくれるか\n\n# voice 6014 \"ptah_0036\"\n@プタハ\nでは、ゆくぞ…\n;;--------------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n我の目の色は\n何色だ？\n\n# se \"SE_0734\"\n# select  \"黒\" \"select_label_1\" \"青\" \"select_label_2\" \"赤\" \"select_label_3\"\n我の目の色は\n何色だ？\n"
+	},
+	{
+		"ID": 3733,
+		"unitID": 2601411,
+		"questionID": 9601433,
+		"script": ";;ミトゥム,3\n# textflame 1 1\n# voice 6014 \"ptah_0002\"\n@プタハ\nもし…マスター\n\n@プタハ\n少しだけ\n我に付き合ってくれないか？\n\n@プタハ\nそなたに答えてもらいたい\nクイズがあるのだが…\n\n@プタハ\n問題は全て、\n我に関するもの\n\n@プタハ\nまぁ、無理にとは\n言わないが…\n\n# face %(unit_a)s \"smile\"\n@プタハ\nそうか\n答えてくれるか\n\n# voice 6014 \"ptah_0036\"\n@プタハ\nでは、ゆくぞ…\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n我の血液型はB型だが\n次の中で同じ血液型は\n誰だ？\n\n# se \"SE_0734\"\n# select  \"フラベルム\" \"select_label_1\" \"メギド\" \"select_label_2\" \"ミトゥム\" \"select_label_3\"\n我の血液型はB型だが\n次の中で同じ血液型は\n誰だ？\n"
+	},
+	{
+		"ID": 3734,
+		"unitID": 2601411,
+		"questionID": 9601434,
+		"script": ";;May,1\n# textflame 1 1\n# voice 6014 \"ptah_0002\"\n@プタハ\nもし…マスター\n\n@プタハ\n少しだけ\n我に付き合ってくれないか？\n\n@プタハ\nそなたに答えてもらいたい\nクイズがあるのだが…\n\n@プタハ\n問題は全て、\n我に関するもの\n\n@プタハ\nまぁ、無理にとは\n言わないが…\n\n# face %(unit_a)s \"smile\"\n@プタハ\nそうか\n答えてくれるか\n\n# voice 6014 \"ptah_0036\"\n@プタハ\nでは、ゆくぞ…\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n我の誕生日は５月だが\n５月の英語読みはどれだ？\n\n# se \"SE_0734\"\n# select  \"May\" \"select_label_1\" \"August\" \"select_label_2\" \"December\" \"select_label_3\"\n我の誕生日は５月だが\n５月の英語読みはどれだ？\n"
+	},
+	{
+		"ID": 3735,
+		"unitID": 2601411,
+		"questionID": 9601435,
+		"script": ";;メギド,2\n# textflame 1 1\n# voice 6014 \"ptah_0002\"\n@プタハ\nもし…マスター\n\n@プタハ\n少しだけ\n我に付き合ってくれないか？\n\n@プタハ\nそなたに答えてもらいたい\nクイズがあるのだが…\n\n@プタハ\n問題は全て、\n我に関するもの\n\n@プタハ\nまぁ、無理にとは\n言わないが…\n\n# face %(unit_a)s \"smile\"\n@プタハ\nそうか\n答えてくれるか\n\n# voice 6014 \"ptah_0036\"\n@プタハ\nでは、ゆくぞ…\n;;--------------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n我の血液型はB型\nじゃあ、次のうちで\nB型ではないのは誰だ？\n\n# se \"SE_0734\"\n# select  \"ミトゥム\" \"select_label_1\" \"メギド\" \"select_label_2\" \"ミョルニル\" \"select_label_3\"\n我の血液型はB型\nじゃあ、次のうちで\nB型ではないのは誰だ？\n"
+	},
+	{
+		"ID": 3736,
+		"unitID": 2601411,
+		"questionID": 9601436,
+		"script": ";;杖,3\n# textflame 1 1\n# voice 6014 \"ptah_0002\"\n@プタハ\nもし…マスター\n\n@プタハ\n少しだけ\n我に付き合ってくれないか？\n\n@プタハ\nそなたに答えてもらいたい\nクイズがあるのだが…\n\n@プタハ\n問題は全て、\n我に関するもの\n\n@プタハ\nまぁ、無理にとは\n言わないが…\n\n# face %(unit_a)s \"smile\"\n@プタハ\nそうか\n答えてくれるか\n\n# voice 6014 \"ptah_0036\"\n@プタハ\nでは、ゆくぞ…\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n我が使う武器は\n次のうちどれだ？\n\n# se \"SE_0734\"\n# select  \"槍\" \"select_label_1\" \"剣\" \"select_label_2\" \"杖\" \"select_label_3\"\n我が使う武器は\n次のうちどれだ？\n"
+	},
+	{
+		"ID": 3737,
+		"unitID": 2601411,
+		"questionID": 9601437,
+		"script": ";;ミョルニル,1\n# textflame 1 1\n# voice 6014 \"ptah_0002\"\n@プタハ\nもし…マスター\n\n@プタハ\n少しだけ\n我に付き合ってくれないか？\n\n@プタハ\nそなたに答えてもらいたい\nクイズがあるのだが…\n\n@プタハ\n問題は全て、\n我に関するもの\n\n@プタハ\nまぁ、無理にとは\n言わないが…\n\n# face %(unit_a)s \"smile\"\n@プタハ\nそうか\n答えてくれるか\n\n# voice 6014 \"ptah_0036\"\n@プタハ\nでは、ゆくぞ…\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n我の誕生日は5月だが\n同じ生まれは次のうち誰だ？\n\n# se \"SE_0734\"\n# select  \"ミョルニル\" \"select_label_1\" \"フラベルム\" \"select_label_2\" \"フラガラッハ\" \"select_label_3\"\n我の誕生日は5月だが\n同じ生まれは次のうち誰だ？\n"
+	},
+	{
+		"ID": 3738,
+		"unitID": 2601411,
+		"questionID": 9601438,
+		"script": ";;いない,2\n# textflame 1 1\n# voice 6014 \"ptah_0002\"\n@プタハ\nもし…マスター\n\n@プタハ\n少しだけ\n我に付き合ってくれないか？\n\n@プタハ\nそなたに答えてもらいたい\nクイズがあるのだが…\n\n@プタハ\n問題は全て、\n我に関するもの\n\n@プタハ\nまぁ、無理にとは\n言わないが…\n\n# face %(unit_a)s \"smile\"\n@プタハ\nそうか\n答えてくれるか\n\n# voice 6014 \"ptah_0036\"\n@プタハ\nでは、ゆくぞ…\n;;--------------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n我が尊敬しておる\nキラーズは誰だ？\n\n# se \"SE_0734\"\n# select  \"パラシュ\" \"select_label_1\" \"いない\" \"select_label_2\" \"フォルカス\" \"select_label_3\"\n我が尊敬しておる\nキラーズは誰だ？\n"
+	},
+	{
+		"ID": 3739,
+		"unitID": 2601411,
+		"questionID": 9601439,
+		"script": ";;Taurus,3\n# textflame 1 1\n# voice 6014 \"ptah_0002\"\n@プタハ\nもし…マスター\n\n@プタハ\n少しだけ\n我に付き合ってくれないか？\n\n@プタハ\nそなたに答えてもらいたい\nクイズがあるのだが…\n\n@プタハ\n問題は全て、\n我に関するもの\n\n@プタハ\nまぁ、無理にとは\n言わないが…\n\n# face %(unit_a)s \"smile\"\n@プタハ\nそうか\n答えてくれるか\n\n# voice 6014 \"ptah_0036\"\n@プタハ\nでは、ゆくぞ…\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n我の星座おうし座の\n英語読みはどれだ？\n\n# se \"SE_0734\"\n# select  \"Sagittarius\" \"select_label_1\" \"Libra\" \"select_label_2\" \"Taurus\" \"select_label_3\"\n我の星座おうし座の\n英語読みはどれだ？\n"
+	},
+	{
+		"ID": 3740,
+		"unitID": 2601411,
+		"questionID": 9601440,
+		"script": ";;メンフィス神話群,1\n# textflame 1 1\n# voice 6014 \"ptah_0002\"\n@プタハ\nもし…マスター\n\n@プタハ\n少しだけ\n我に付き合ってくれないか？\n\n@プタハ\nそなたに答えてもらいたい\nクイズがあるのだが…\n\n@プタハ\n問題は全て、\n我に関するもの\n\n@プタハ\nまぁ、無理にとは\n言わないが…\n\n# face %(unit_a)s \"smile\"\n@プタハ\nそうか\n答えてくれるか\n\n# voice 6014 \"ptah_0036\"\n@プタハ\nでは、ゆくぞ…\n;;---------------------------------\n\n@%(unitName:unit_a)s\n我が属するクラスタは\n次のうちどれだ？\n\n# se \"SE_0734\"\n# select \"メンフィス神話群\" \"select_label_1\" \"中国神話群\" \"select_label_2\" \"アイスランド神話群\" \"select_label_3\"\n我が属するクラスタは\n次のうちどれだ？\n"
+	},
+	{
+		"ID": 3741,
+		"unitID": 2601411,
+		"questionID": 9601441,
+		"script": "\n;;我,2\n# se \"SE_0734\"\n# select \"ワタシ\" \"select_label_1\" \"我\" \"select_label_2\" \"わたし\" \"select_label_3\"\nプタハの一人称は\n次のうちどれ？\n"
+	},
+	{
+		"ID": 3742,
+		"unitID": 2601411,
+		"questionID": 9601442,
+		"script": "\n;;マスター,2\n# se \"SE_0734\"\n# select \"ご主人様\" \"select_label_1\" \"マスター\" \"select_label_2\" \"あなた\" \"select_label_3\"\nプタハはアンタのこと、\nなんて呼んでる？\n"
+	},
+	{
+		"ID": 3743,
+		"unitID": 2601411,
+		"questionID": 9601443,
+		"script": "\n;;98,3\n# se \"SE_0734\"\n# select \"95\" \"select_label_1\" \"101\" \"select_label_2\" \"98\" \"select_label_3\"\nプタハの\nバストサイズがどのくらいか\nアンタ…知ってるの？\n"
+	},
+	{
+		"ID": 3744,
+		"unitID": 2601411,
+		"questionID": 9601444,
+		"script": "\n;;63,2\n# se \"SE_0734\"\n# select \"59\" \"select_label_1\" \"63\" \"select_label_2\" \"65\" \"select_label_3\"\nプタハの\nウエストサイズがどのくらいか\nアンタ…知ってるの？\n"
+	},
+	{
+		"ID": 3745,
+		"unitID": 2601411,
+		"questionID": 9601445,
+		"script": "\n;;89,2\n# se \"SE_0734\"\n# select \"86\" \"select_label_1\" \"89\" \"select_label_2\" \"92\" \"select_label_3\"\nプタハの\nヒップサイズがどのくらいか\nアンタ…知ってるの？\n"
+	},
+	{
+		"ID": 3746,
+		"unitID": 2601411,
+		"questionID": 9601446,
+		"script": "\n;;57,2\n# se \"SE_0734\"\n# select \"52\" \"select_label_1\" \"57\" \"select_label_2\" \"58\" \"select_label_3\"\nプタハの体重は\n次のうちどれ？\n"
+	},
+	{
+		"ID": 3747,
+		"unitID": 2601411,
+		"questionID": 9601447,
+		"script": "\n;;250,1\n# se \"SE_0734\"\n# select \"250\" \"select_label_1\" \"240\" \"select_label_2\" \"258\" \"select_label_3\"\nプタハの\nバスト＋ウエスト＋ヒップは\nいくつかわかる？\n"
+	},
+	{
+		"ID": 3748,
+		"unitID": 2601411,
+		"questionID": 9601448,
+		"script": "\n;;黒,2\n# se \"SE_0734\"\n# select \"赤\" \"select_label_1\" \"黒\" \"select_label_2\" \"白\" \"select_label_3\"\nプタハの水着の色は\n次のうちどれ？\n"
+	},
+	{
+		"ID": 3749,
+		"unitID": 2601411,
+		"questionID": 9601449,
+		"script": "\n;;64位,2\n# se \"SE_0734\"\n# select \"55位\" \"select_label_1\" \"64位\" \"select_label_2\" \"71位\" \"select_label_3\"\nプタハは\n第２回人気投票で\n何位だったでしょう？\n"
+	},
+	{
+		"ID": 3750,
+		"unitID": 2601411,
+		"questionID": 9601450,
+		"script": "\n;;佳村はるか,2\n# se \"SE_0734\"\n# select \"山本希望\" \"select_label_1\" \"佳村はるか\" \"select_label_2\" \"川澄綾子\" \"select_label_3\"\nプタハの声優は誰？\n"
+	}
+]

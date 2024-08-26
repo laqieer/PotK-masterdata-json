@@ -1,0 +1,26 @@
+[
+	{
+		"ID": 481,
+		"unitID": 2402011,
+		"scriptID": "kaerimichi",
+		"script": "師匠、もう帰るのか？\nもうちょっと付き合ってくれないか？"
+	},
+	{
+		"ID": 482,
+		"unitID": 2402011,
+		"scriptID": "kaeru_ok",
+		"script": "@%(unitName:unit_a)s\nおっ！師匠も遊び足りないのか？\nあたしと同じだな！"
+	},
+	{
+		"ID": 483,
+		"unitID": 2402011,
+		"scriptID": "kaeru",
+		"script": "師匠！今日は誘ってくれて\nありがとうな！"
+	},
+	{
+		"ID": 484,
+		"unitID": 2402011,
+		"scriptID": "kaeru_ng",
+		"script": "@%(unitName:unit_a)s\n帰って修行しないとだから\nまた今度な！"
+	}
+]

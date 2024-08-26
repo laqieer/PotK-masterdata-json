@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 719082301,
+		"script": ";;-----------------------------------------\n# script \"lisp\"\n# background \"bg_black\"\n# bgm \"bgm003\" 0\n;;-----------------------------------------\n;;レーヴァテイン\n# body 100221\n# pos 100221 3\n# scale 100221 0.8 0\n# layer 100221 2\n# alpha 100221 0 0\n# mask 100221 off\n;;-----------------------------------------\n# fadein \"black\" 2\n# textwindow \"close\"\n# waitandnext 3\n\n# textwindow \"nomal\"\n# textflame 0 0\n@\nある日、唐突に起きた凶事“蝕”―\n\n@\nそれは唐突に終わりを迎えた\n\n@\n人々も今までと変わらず\n普段の生活を続け―\n\n@\nキラープリンセス達の変調も\n終息を向かえた\n\n@\nそう、そのはずだった…\n\n# se \"SE_9040\"\n# bgm \"bgm023\" 0\n# background \"highland\"\n# fadein \"white\" 0.5\n# alpha 100221 1 0\n# textflame 0 0\n# textalign \"center\"\n# textsize 32\n@\n神具探求\nレーヴァテイン\n復刻開催！\n\n# face 100221 \"surprise\"\n# voice 1002 \"revatein_0039\"\n# textalign \"center\"\n# textsize 24\n@\n新たに追加された\nストーリークエストをクリアして\n『ラグナロクジェム』をGET！\n\n# face 100221 \"happy\"\n# voice 1002 \"revatein_0020\"\n# fadein \"white\" 0.5\n# textalign \"center\"\n@\n素材をそろえて、\n★7魔剣レーヴァテインを\n手に入れよう！！\n\n# alpha 100221 0 0\n# fadein \"white\" 0.5\n# textflame 0 0\n# textalign \"center\"\n# textsize 32\n@\n詳しくは\nお知らせをチェック！\n\n;;暗転(大)\n# bgm \"stop\"\n# fadeout \"black\" 2\n# se \"SE_0050\"\n# textwindow \"nomal\"\n# textalign \"center\"\n# textsize 32\n# waitandnext 2\n@\n詳しくは\nお知らせをチェック！"
+	}
+]

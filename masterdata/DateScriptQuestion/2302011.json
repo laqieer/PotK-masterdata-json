@@ -1,0 +1,302 @@
+[
+	{
+		"ID": 2651,
+		"unitID": 2302011,
+		"questionID": 9302001,
+		"script": ";;トゥレンの息子たち,1\n# voice 3020 \"pisear_0001\"\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@ピサール\nあ、そうだマスター\n\n# textflame 1 1\n@ピサール\nちょ～っとこれから～、\nクイズを出そうと思うんだけど～\n\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@ピサール\nね、付き合ってくれるよね？\n\n# textflame 1 1\n@ピサール\nなんのって…\nわたしについてだよ～\n\n# textflame 1 1\n@ピサール\nわたしについてどれだけ知ってるか、\nマスターを試させてもらうよ～\n\n# voice 3020 \"pisear_0032\"\n# textflame 1 1\n@ピサール\nは～い、拒否権はありませ～ん\nそれじゃあ行くよー\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしのキラーズ『ピサール』の\n持ち主を殺したのは\nだれだと思う～？\n\n# se \"SE_0734\"\n# select  \"トゥレンの息子たち\" \"select_label_1\" \"キアン\" \"select_label_2\" \"ルグ\" \"select_label_3\"\nわたしのキラーズ『ピサール』の\n持ち主を殺したのは\nだれだと思う～？\n"
+	},
+	{
+		"ID": 2652,
+		"unitID": 2302011,
+		"questionID": 9302002,
+		"script": ";;アイルランド神話,2\n# voice 3020 \"pisear_0001\"\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@ピサール\nあ、そうだマスター\n\n# textflame 1 1\n@ピサール\nちょ～っとこれから～、\nクイズを出そうと思うんだけど～\n\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@ピサール\nね、付き合ってくれるよね？\n\n# textflame 1 1\n@ピサール\nなんのって…\nわたしについてだよ～\n\n# textflame 1 1\n@ピサール\nわたしについてどれだけ知ってるか、\nマスターを試させてもらうよ～\n\n# voice 3020 \"pisear_0032\"\n# textflame 1 1\n@ピサール\nは～い、拒否権はありませ～ん\nそれじゃあ行くよー\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしのキラーズ『ピサール』は\nいったいどの神話に\n出てきたものでしょ～?\n\n# se \"SE_0734\"\n# select  \"ギリシャ神話\" \"select_label_1\" \"アイルランド神話\" \"select_label_2\" \"日本神話\" \"select_label_3\"\nわたしのキラーズ『ピサール』は\nいったいどの神話に\n出てきたものでしょ～?\n"
+	},
+	{
+		"ID": 2653,
+		"unitID": 2302011,
+		"questionID": 9302003,
+		"script": ";;赤く燃える毒槍,3\n# voice 3020 \"pisear_0001\"\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@ピサール\nあ、そうだマスター\n\n# textflame 1 1\n@ピサール\nちょ～っとこれから～、\nクイズを出そうと思うんだけど～\n\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@ピサール\nね、付き合ってくれるよね？\n\n# textflame 1 1\n@ピサール\nなんのって…\nわたしについてだよ～\n\n# textflame 1 1\n@ピサール\nわたしについてどれだけ知ってるか、\nマスターを試させてもらうよ～\n\n# voice 3020 \"pisear_0032\"\n# textflame 1 1\n@ピサール\nは～い、拒否権はありませ～ん\nそれじゃあ行くよー\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしのキラーズ『ピサール』は\nどんな外見をしていたって\n言われてるかわかる～？\n\n# se \"SE_0734\"\n# select  \"真紅に染まる槍\" \"select_label_1\" \"紅蓮に燃える神槍\" \"select_label_2\" \"赤く燃える毒槍\" \"select_label_3\"\nわたしのキラーズ『ピサール』は\nどんな外見をしていたって\n言われてるかわかる～？\n"
+	},
+	{
+		"ID": 2654,
+		"unitID": 2302011,
+		"questionID": 9302004,
+		"script": ";;ペルシア大王,1\n# voice 3020 \"pisear_0001\"\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@ピサール\nあ、そうだマスター\n\n# textflame 1 1\n@ピサール\nちょ～っとこれから～、\nクイズを出そうと思うんだけど～\n\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@ピサール\nね、付き合ってくれるよね？\n\n# textflame 1 1\n@ピサール\nなんのって…\nわたしについてだよ～\n\n# textflame 1 1\n@ピサール\nわたしについてどれだけ知ってるか、\nマスターを試させてもらうよ～\n\n# voice 3020 \"pisear_0032\"\n# textflame 1 1\n@ピサール\nは～い、拒否権はありませ～ん\nそれじゃあ行くよー\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしの武器『ピサール』を\nいったい誰が持っていたか\nマスターはわかる～？\n\n# se \"SE_0734\"\n# select  \"ペルシア大王\" \"select_label_1\" \"ソロモン\" \"select_label_2\" \"ケルトハルト\" \"select_label_3\"\nわたしの武器『ピサール』を\nいったい誰が持っていたか\nマスターはわかる～？\n"
+	},
+	{
+		"ID": 2655,
+		"unitID": 2302011,
+		"questionID": 9302005,
+		"script": ";;火のように赤々と燃える槍先を持つ,2\n# voice 3020 \"pisear_0001\"\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@ピサール\nあ、そうだマスター\n\n# textflame 1 1\n@ピサール\nちょ～っとこれから～、\nクイズを出そうと思うんだけど～\n\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@ピサール\nね、付き合ってくれるよね？\n\n# textflame 1 1\n@ピサール\nなんのって…\nわたしについてだよ～\n\n# textflame 1 1\n@ピサール\nわたしについてどれだけ知ってるか、\nマスターを試させてもらうよ～\n\n# voice 3020 \"pisear_0032\"\n# textflame 1 1\n@ピサール\nは～い、拒否権はありませ～ん\nそれじゃあ行くよー\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしの武器の『ピサール』は\nどんな武器だって\n言われてたでしょ～か？\n\n# se \"SE_0734\"\n# select  \"血に染まる禍々しい槍先を持つ\" \"select_label_1\" \"火のように赤々と燃える槍先を持つ\" \"select_label_2\" \"汚れなく美しい槍先を持つ\" \"select_label_3\"\nわたしの武器の『ピサール』は\nどんな武器だって\n言われてたでしょ～か？\n"
+	},
+	{
+		"ID": 2656,
+		"unitID": 2302011,
+		"questionID": 9302006,
+		"script": ";;大釜の氷水につけてあった,3\n# voice 3020 \"pisear_0001\"\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@ピサール\nあ、そうだマスター\n\n# textflame 1 1\n@ピサール\nちょ～っとこれから～、\nクイズを出そうと思うんだけど～\n\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@ピサール\nね、付き合ってくれるよね？\n\n# textflame 1 1\n@ピサール\nなんのって…\nわたしについてだよ～\n\n# textflame 1 1\n@ピサール\nわたしについてどれだけ知ってるか、\nマスターを試させてもらうよ～\n\n# voice 3020 \"pisear_0032\"\n# textflame 1 1\n@ピサール\nは～い、拒否権はありませ～ん\nそれじゃあ行くよー\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしのキラーズ『ピサール』は\nふだんはどんなふうに\n扱われてたと思う～？\n\n# se \"SE_0734\"\n# select  \"石に突き刺さっていた\" \"select_label_1\" \"燃え盛る炎に囲まれていた\" \"select_label_2\" \"大釜の氷水につけてあった\" \"select_label_3\"\nわたしのキラーズ『ピサール』は\nふだんはどんなふうに\n扱われてたと思う～？\n"
+	},
+	{
+		"ID": 2657,
+		"unitID": 2302011,
+		"questionID": 9302007,
+		"script": ";;人を殺さずにはいられなくなる,1\n# voice 3020 \"pisear_0001\"\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@ピサール\nあ、そうだマスター\n\n# textflame 1 1\n@ピサール\nちょ～っとこれから～、\nクイズを出そうと思うんだけど～\n\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@ピサール\nね、付き合ってくれるよね？\n\n# textflame 1 1\n@ピサール\nなんのって…\nわたしについてだよ～\n\n# textflame 1 1\n@ピサール\nわたしについてどれだけ知ってるか、\nマスターを試させてもらうよ～\n\n# voice 3020 \"pisear_0032\"\n# textflame 1 1\n@ピサール\nは～い、拒否権はありませ～ん\nそれじゃあ行くよー\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしのキラーズ『ピサール』を\n手にしたらどーなるか…\nマスターはわかってるかな～？\n\n# se \"SE_0734\"\n# select  \"人を殺さずにはいられなくなる\" \"select_label_1\" \"すべてを燃やしたくなる\" \"select_label_2\" \"戦いたくなくなる\" \"select_label_3\"\nわたしのキラーズ『ピサール』を\n手にしたらどーなるか…\nマスターはわかってるかな～？\n"
+	},
+	{
+		"ID": 2658,
+		"unitID": 2302011,
+		"questionID": 9302008,
+		"script": ";;血と戦い,2\n# voice 3020 \"pisear_0001\"\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@ピサール\nあ、そうだマスター\n\n# textflame 1 1\n@ピサール\nちょ～っとこれから～、\nクイズを出そうと思うんだけど～\n\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@ピサール\nね、付き合ってくれるよね？\n\n# textflame 1 1\n@ピサール\nなんのって…\nわたしについてだよ～\n\n# textflame 1 1\n@ピサール\nわたしについてどれだけ知ってるか、\nマスターを試させてもらうよ～\n\n# voice 3020 \"pisear_0032\"\n# textflame 1 1\n@ピサール\nは～い、拒否権はありませ～ん\nそれじゃあ行くよー\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしのキラーズ『ピサール』は\n常になにを求めていたでしょ～か？\n\n# se \"SE_0734\"\n# select  \"人の生き血\" \"select_label_1\" \"血と戦い\" \"select_label_2\" \"大量の水\" \"select_label_3\"\nわたしのキラーズ『ピサール』は\n常になにを求めていたでしょ～か？\n"
+	},
+	{
+		"ID": 2659,
+		"unitID": 2302011,
+		"questionID": 9302009,
+		"script": ";;殺害されて槍を奪われた,3\n# voice 3020 \"pisear_0001\"\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@ピサール\nあ、そうだマスター\n\n# textflame 1 1\n@ピサール\nちょ～っとこれから～、\nクイズを出そうと思うんだけど～\n\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@ピサール\nね、付き合ってくれるよね？\n\n# textflame 1 1\n@ピサール\nなんのって…\nわたしについてだよ～\n\n# textflame 1 1\n@ピサール\nわたしについてどれだけ知ってるか、\nマスターを試させてもらうよ～\n\n# voice 3020 \"pisear_0032\"\n# textflame 1 1\n@ピサール\nは～い、拒否権はありませ～ん\nそれじゃあ行くよー\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしのキラーズ『ピサール』の\n持ち主だった人はけっきょく\nどうなってしまったでしょ～?\n\n# se \"SE_0734\"\n# select  \"病気に倒れた\" \"select_label_1\" \"槍を折られて殺された\" \"select_label_2\" \"殺害されて槍を奪われた\" \"select_label_3\"\nわたしのキラーズ『ピサール』の\n持ち主だった人はけっきょく\nどうなってしまったでしょ～?\n"
+	},
+	{
+		"ID": 2660,
+		"unitID": 2302011,
+		"questionID": 9302010,
+		"script": ";;街を溶かすほど,1\n# voice 3020 \"pisear_0001\"\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@ピサール\nあ、そうだマスター\n\n# textflame 1 1\n@ピサール\nちょ～っとこれから～、\nクイズを出そうと思うんだけど～\n\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@ピサール\nね、付き合ってくれるよね？\n\n# textflame 1 1\n@ピサール\nなんのって…\nわたしについてだよ～\n\n# textflame 1 1\n@ピサール\nわたしについてどれだけ知ってるか、\nマスターを試させてもらうよ～\n\n# voice 3020 \"pisear_0032\"\n# textflame 1 1\n@ピサール\nは～い、拒否権はありませ～ん\nそれじゃあ行くよー\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしのキラーズ『ピサール』が\nどれくらいの熱を持ってたかとか\nマスターは知ってるかな～？\n\n# se \"SE_0734\"\n# select  \"街を溶かすほど\" \"select_label_1\" \"家を溶かすほど\" \"select_label_2\" \"氷を解かすほど\" \"select_label_3\"\nわたしのキラーズ『ピサール』が\nどれくらいの熱を持ってたかとか\nマスターは知ってるかな～？\n"
+	},
+	{
+		"ID": 2661,
+		"unitID": 2302011,
+		"questionID": 9302011,
+		"script": ";;炎,1\n# voice 3020 \"pisear_0002\"\n# textflame 1 1\n@ピサール\nねぇ、マスター\n少しだけ、時間いい？\n\n# textflame 1 1\n@ピサール\nいきなりなんだけど、\nわたしのこと、どれくらい\n知ってるか確認したいんだよね\n\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@ピサール\nだからー、\nここでクイズを出してみたいと\n思いま～～す\n\n# textflame 1 1\n@ピサール\nそういうことだから～、\nちゃ～んと答えてね～\n\n# textflame 1 1\n@ピサール\nクイズスタート～～～\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしの属性が\nなんだかちゃんと覚えてる～？\n\n# se \"SE_0734\"\n# select  \"炎\" \"select_label_1\" \"氷\" \"select_label_2\" \"風\" \"select_label_3\"\nわたしの属性が\nなんだかちゃんと覚えてる～？\n"
+	},
+	{
+		"ID": 2662,
+		"unitID": 2302011,
+		"questionID": 9302012,
+		"script": ";;怠惰,2\n# voice 3020 \"pisear_0002\"\n# textflame 1 1\n@ピサール\nねぇ、マスター\n少しだけ、時間いい？\n\n# textflame 1 1\n@ピサール\nいきなりなんだけど、\nわたしのこと、どれくらい\n知ってるか確認したいんだよね\n\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@ピサール\nだからー、\nここでクイズを出してみたいと\n思いま～～す\n\n# textflame 1 1\n@ピサール\nそういうことだから～、\nちゃ～んと答えてね～\n\n# textflame 1 1\n@ピサール\nクイズスタート～～～\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしの性格をあらわすなら～\n次のうちどれが\nぴったりくると思う～？\n\n# se \"SE_0734\"\n# select  \"傲慢\" \"select_label_1\" \"怠惰\" \"select_label_2\" \"暴食\" \"select_label_3\"\nわたしの性格をあらわすなら～\n次のうちどれが\nぴったりくると思う～？\n"
+	},
+	{
+		"ID": 2663,
+		"unitID": 2302011,
+		"questionID": 9302013,
+		"script": ";;10月1日,3\n# voice 3020 \"pisear_0002\"\n# textflame 1 1\n@ピサール\nねぇ、マスター\n少しだけ、時間いい？\n\n# textflame 1 1\n@ピサール\nいきなりなんだけど、\nわたしのこと、どれくらい\n知ってるか確認したいんだよね\n\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@ピサール\nだからー、\nここでクイズを出してみたいと\n思いま～～す\n\n# textflame 1 1\n@ピサール\nそういうことだから～、\nちゃ～んと答えてね～\n\n# textflame 1 1\n@ピサール\nクイズスタート～～～\n;;---------------------------------\n\n@%(unitName:unit_a)s\nマスターは～\nわたしの誕生日がいつだか\nちゃんと覚えてる～？\n\n# se \"SE_0734\"\n# select  \"10月2日\" \"select_label_1\" \"10月3日\" \"select_label_2\" \"10月1日\" \"select_label_3\"\nマスターは～\nわたしの誕生日がいつだか\nちゃんと覚えてる～？\n"
+	},
+	{
+		"ID": 2664,
+		"unitID": 2302011,
+		"questionID": 9302014,
+		"script": ";;てんびん座,1\n# voice 3020 \"pisear_0002\"\n# textflame 1 1\n@ピサール\nねぇ、マスター\n少しだけ、時間いい？\n\n# textflame 1 1\n@ピサール\nいきなりなんだけど、\nわたしのこと、どれくらい\n知ってるか確認したいんだよね\n\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@ピサール\nだからー、\nここでクイズを出してみたいと\n思いま～～す\n\n# textflame 1 1\n@ピサール\nそういうことだから～、\nちゃ～んと答えてね～\n\n# textflame 1 1\n@ピサール\nクイズスタート～～～\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしがなに座か\nマスターはわかる～？\n\n# se \"SE_0734\"\n# select  \"てんびん座\" \"select_label_1\" \"おうし座\" \"select_label_2\" \"みずがめ座\" \"select_label_3\"\nわたしがなに座か\nマスターはわかる～？\n"
+	},
+	{
+		"ID": 2665,
+		"unitID": 2302011,
+		"questionID": 9302015,
+		"script": ";;O型,3\n# voice 3020 \"pisear_0002\"\n# textflame 1 1\n@ピサール\nねぇ、マスター\n少しだけ、時間いい？\n\n# textflame 1 1\n@ピサール\nいきなりなんだけど、\nわたしのこと、どれくらい\n知ってるか確認したいんだよね\n\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@ピサール\nだからー、\nここでクイズを出してみたいと\n思いま～～す\n\n# textflame 1 1\n@ピサール\nそういうことだから～、\nちゃ～んと答えてね～\n\n# textflame 1 1\n@ピサール\nクイズスタート～～～\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしの血液型がなにか\nマスター当ててみて～？\n\n# se \"SE_0734\"\n# select  \"B型\" \"select_label_1\" \"A型\" \"select_label_2\" \"O型\" \"select_label_3\"\nわたしの血液型がなにか\nマスター当ててみて～？\n"
+	},
+	{
+		"ID": 2666,
+		"unitID": 2302011,
+		"questionID": 9302016,
+		"script": ";;ペルシア,3\n# voice 3020 \"pisear_0002\"\n# textflame 1 1\n@ピサール\nねぇ、マスター\n少しだけ、時間いい？\n\n# textflame 1 1\n@ピサール\nいきなりなんだけど、\nわたしのこと、どれくらい\n知ってるか確認したいんだよね\n\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@ピサール\nだからー、\nここでクイズを出してみたいと\n思いま～～す\n\n# textflame 1 1\n@ピサール\nそういうことだから～、\nちゃ～んと答えてね～\n\n# textflame 1 1\n@ピサール\nクイズスタート～～～\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしの出身地がどこか\nちゃんとわかってる～？\n\n# se \"SE_0734\"\n# select  \"メンフィス\" \"select_label_1\" \"メソポタミア\" \"select_label_2\" \"ペルシア\" \"select_label_3\"\nわたしの出身地がどこか\nちゃんとわかってる～？\n"
+	},
+	{
+		"ID": 2667,
+		"unitID": 2302011,
+		"questionID": 9302017,
+		"script": ";;アイス,1\n# voice 3020 \"pisear_0002\"\n# textflame 1 1\n@ピサール\nねぇ、マスター\n少しだけ、時間いい？\n\n# textflame 1 1\n@ピサール\nいきなりなんだけど、\nわたしのこと、どれくらい\n知ってるか確認したいんだよね\n\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@ピサール\nだからー、\nここでクイズを出してみたいと\n思いま～～す\n\n# textflame 1 1\n@ピサール\nそういうことだから～、\nちゃ～んと答えてね～\n\n# textflame 1 1\n@ピサール\nクイズスタート～～～\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしの好きなものがなにか\nマスターはちゃ～んと\nわかってるかな～？\n\n# se \"SE_0734\"\n# select  \"アイス\" \"select_label_1\" \"肉\" \"select_label_2\" \"パン\" \"select_label_3\"\nわたしの好きなものがなにか\nマスターはちゃ～んと\nわかってるかな～？\n"
+	},
+	{
+		"ID": 2668,
+		"unitID": 2302011,
+		"questionID": 9302018,
+		"script": ";;水風呂でぼーっとする,2\n# voice 3020 \"pisear_0002\"\n# textflame 1 1\n@ピサール\nねぇ、マスター\n少しだけ、時間いい？\n\n# textflame 1 1\n@ピサール\nいきなりなんだけど、\nわたしのこと、どれくらい\n知ってるか確認したいんだよね\n\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@ピサール\nだからー、\nここでクイズを出してみたいと\n思いま～～す\n\n# textflame 1 1\n@ピサール\nそういうことだから～、\nちゃ～んと答えてね～\n\n# textflame 1 1\n@ピサール\nクイズスタート～～～\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしの趣味がなんだか\nちゃんとわかる～？\n\n# se \"SE_0734\"\n# select  \"風に当たりながらぼーっとする\" \"select_label_1\" \"水風呂でぼーっとする\" \"select_label_2\" \"満天の星を見てぼーっとする\" \"select_label_3\"\nわたしの趣味がなんだか\nちゃんとわかる～？\n"
+	},
+	{
+		"ID": 2669,
+		"unitID": 2302011,
+		"questionID": 9302019,
+		"script": ";;怠けたい,3\n# voice 3020 \"pisear_0002\"\n# textflame 1 1\n@ピサール\nねぇ、マスター\n少しだけ、時間いい？\n\n# textflame 1 1\n@ピサール\nいきなりなんだけど、\nわたしのこと、どれくらい\n知ってるか確認したいんだよね\n\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@ピサール\nだからー、\nここでクイズを出してみたいと\n思いま～～す\n\n# textflame 1 1\n@ピサール\nそういうことだから～、\nちゃ～んと答えてね～\n\n# textflame 1 1\n@ピサール\nクイズスタート～～～\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしが普段から\nどうしたいなあ～って思ってるか\n当ててみて～？\n\n# se \"SE_0734\"\n# select  \"運動したい\" \"select_label_1\" \"勉強したい\" \"select_label_2\" \"怠けたい\" \"select_label_3\"\nわたしが普段から\nどうしたいなあ～って思ってるか\n当ててみて～？\n"
+	},
+	{
+		"ID": 2670,
+		"unitID": 2302011,
+		"questionID": 9302020,
+		"script": ";;サボり癖,1\n# voice 3020 \"pisear_0002\"\n# textflame 1 1\n@ピサール\nねぇ、マスター\n少しだけ、時間いい？\n\n# textflame 1 1\n@ピサール\nいきなりなんだけど、\nわたしのこと、どれくらい\n知ってるか確認したいんだよね\n\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@ピサール\nだからー、\nここでクイズを出してみたいと\n思いま～～す\n\n# textflame 1 1\n@ピサール\nそういうことだから～、\nちゃ～んと答えてね～\n\n# textflame 1 1\n@ピサール\nクイズスタート～～～\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしの癖って\nなんだかわかる～？\n\n# se \"SE_0734\"\n# select  \"サボり癖\" \"select_label_1\" \"腕を組む癖\" \"select_label_2\" \"負け癖\" \"select_label_3\"\nわたしの癖って\nなんだかわかる～？\n"
+	},
+	{
+		"ID": 2671,
+		"unitID": 2302011,
+		"questionID": 9302021,
+		"script": ";;怠惰インフェルノ,1\n# face %(unit_a)s \"smile\"\n# voice 3020 \"pisear_0002\"\n# textflame 1 1\n@ピサール\n突然だけどさあ？\n今からクイズ\n出してもいいかな～？\n\n# textflame 1 1\n@ピサール\nまあクイズと言っても、\nわたしについてのことだよ～\n\n# textflame 1 1\n@ピサール\nつまりわたしのことを～\nちゃんとわかっていれば、\n難しいことなんてないから～\n\n# voice 3020 \"pisear_0005\"\n# textflame 1 1\n@ピサール\nだからきみのことを信じて\nクイズスタートだよ～\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしが☆６で～\nどんなスキルを手に入れるか\n答えてみて～？\n\n# se \"SE_0734\"\n# select  \"怠惰インフェルノ\" \"select_label_1\" \"怠惰フルバースト\" \"select_label_2\" \"無情インフェルノ\" \"select_label_3\"\nわたしが☆６で～\nどんなスキルを手に入れるか\n答えてみて～？\n"
+	},
+	{
+		"ID": 2672,
+		"unitID": 2302011,
+		"questionID": 9302022,
+		"script": ";;無情ボルケーノ,2\n# face %(unit_a)s \"smile\"\n# voice 3020 \"pisear_0002\"\n# textflame 1 1\n@ピサール\n突然だけどさあ？\n今からクイズ\n出してもいいかな～？\n\n# textflame 1 1\n@ピサール\nまあクイズと言っても、\nわたしについてのことだよ～\n\n# textflame 1 1\n@ピサール\nつまりわたしのことを～\nちゃんとわかっていれば、\n難しいことなんてないから～\n\n# voice 3020 \"pisear_0005\"\n# textflame 1 1\n@ピサール\nだからきみのことを信じて\nクイズスタートだよ～\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしが☆５で～\nどんなスキルを手に入れるか\n答えてみて～？\n\n# se \"SE_0734\"\n# select  \"無情ハリケーン\" \"select_label_1\" \"無情ボルケーノ\" \"select_label_2\" \"怠惰ボルケーノ\" \"select_label_3\"\nわたしが☆５で～\nどんなスキルを手に入れるか\n答えてみて～？\n"
+	},
+	{
+		"ID": 2673,
+		"unitID": 2302011,
+		"questionID": 9302023,
+		"script": ";;ルーン,3\n# face %(unit_a)s \"smile\"\n# voice 3020 \"pisear_0002\"\n# textflame 1 1\n@ピサール\n突然だけどさあ？\n今からクイズ\n出してもいいかな～？\n\n# textflame 1 1\n@ピサール\nまあクイズと言っても、\nわたしについてのことだよ～\n\n# textflame 1 1\n@ピサール\nつまりわたしのことを～\nちゃんとわかっていれば、\n難しいことなんてないから～\n\n# voice 3020 \"pisear_0005\"\n# textflame 1 1\n@ピサール\nだからきみのことを信じて\nクイズスタートだよ～\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしと仲のいい子は\n次のうち誰でしょ～？\n\n# se \"SE_0734\"\n# select  \"ピナーカ\" \"select_label_1\" \"フォルカス\" \"select_label_2\" \"ルーン\" \"select_label_3\"\nわたしと仲のいい子は\n次のうち誰でしょ～？\n"
+	},
+	{
+		"ID": 2674,
+		"unitID": 2302011,
+		"questionID": 9302024,
+		"script": ";;槍神,1\n# face %(unit_a)s \"smile\"\n# voice 3020 \"pisear_0002\"\n# textflame 1 1\n@ピサール\n突然だけどさあ？\n今からクイズ\n出してもいいかな～？\n\n# textflame 1 1\n@ピサール\nまあクイズと言っても、\nわたしについてのことだよ～\n\n# textflame 1 1\n@ピサール\nつまりわたしのことを～\nちゃんとわかっていれば、\n難しいことなんてないから～\n\n# voice 3020 \"pisear_0005\"\n# textflame 1 1\n@ピサール\nだからきみのことを信じて\nクイズスタートだよ～\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしが☆６のときの\nジョブってなんだかわかる～？\n\n# se \"SE_0734\"\n# select  \"槍神\" \"select_label_1\" \"剣神\" \"select_label_2\" \"槍王\" \"select_label_3\"\nわたしが☆６のときの\nジョブってなんだかわかる～？\n"
+	},
+	{
+		"ID": 2675,
+		"unitID": 2302011,
+		"questionID": 9302025,
+		"script": ";;ブレイブランサー,2\n# face %(unit_a)s \"smile\"\n# voice 3020 \"pisear_0002\"\n# textflame 1 1\n@ピサール\n突然だけどさあ？\n今からクイズ\n出してもいいかな～？\n\n# textflame 1 1\n@ピサール\nまあクイズと言っても、\nわたしについてのことだよ～\n\n# textflame 1 1\n@ピサール\nつまりわたしのことを～\nちゃんとわかっていれば、\n難しいことなんてないから～\n\n# voice 3020 \"pisear_0005\"\n# textflame 1 1\n@ピサール\nだからきみのことを信じて\nクイズスタートだよ～\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしが☆５のときの\nジョブがなんなのか\n当ててみて～？\n\n# se \"SE_0734\"\n# select  \"バーニングランサー\" \"select_label_1\" \"ブレイブランサー\" \"select_label_2\" \"ソウルランサー\" \"select_label_3\"\nわたしが☆５のときの\nジョブがなんなのか\n当ててみて～？\n"
+	},
+	{
+		"ID": 2676,
+		"unitID": 2302011,
+		"questionID": 9302026,
+		"script": ";;炎槍神の寵愛,3\n# face %(unit_a)s \"smile\"\n# voice 3020 \"pisear_0002\"\n# textflame 1 1\n@ピサール\n突然だけどさあ？\n今からクイズ\n出してもいいかな～？\n\n# textflame 1 1\n@ピサール\nまあクイズと言っても、\nわたしについてのことだよ～\n\n# textflame 1 1\n@ピサール\nつまりわたしのことを～\nちゃんとわかっていれば、\n難しいことなんてないから～\n\n# voice 3020 \"pisear_0005\"\n# textflame 1 1\n@ピサール\nだからきみのことを信じて\nクイズスタートだよ～\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしが☆６のときの～\nリーダースキルがなにか\nマスターはわかる～？\n\n# se \"SE_0734\"\n# select  \"炎槍神の業火\" \"select_label_1\" \"灼熱の寵愛\" \"select_label_2\" \"炎槍神の寵愛\" \"select_label_3\"\nわたしが☆６のときの～\nリーダースキルがなにか\nマスターはわかる～？\n"
+	},
+	{
+		"ID": 2677,
+		"unitID": 2302011,
+		"questionID": 9302027,
+		"script": ";;炎槍将の寵愛,1\n# face %(unit_a)s \"smile\"\n# voice 3020 \"pisear_0002\"\n# textflame 1 1\n@ピサール\n突然だけどさあ？\n今からクイズ\n出してもいいかな～？\n\n# textflame 1 1\n@ピサール\nまあクイズと言っても、\nわたしについてのことだよ～\n\n# textflame 1 1\n@ピサール\nつまりわたしのことを～\nちゃんとわかっていれば、\n難しいことなんてないから～\n\n# voice 3020 \"pisear_0005\"\n# textflame 1 1\n@ピサール\nだからきみのことを信じて\nクイズスタートだよ～\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしが☆５のときの～\nリーダースキルがなにか\nちゃんと覚えてるかな～？\n\n# se \"SE_0734\"\n# select  \"炎槍将の寵愛\" \"select_label_1\" \"毒槍の寵愛\" \"select_label_2\" \"炎槍将の熱波\" \"select_label_3\"\nわたしが☆５のときの～\nリーダースキルがなにか\nちゃんと覚えてるかな～？\n"
+	},
+	{
+		"ID": 2678,
+		"unitID": 2302011,
+		"questionID": 9302028,
+		"script": ";;ソルジャー,2\n# face %(unit_a)s \"smile\"\n# voice 3020 \"pisear_0002\"\n# textflame 1 1\n@ピサール\n突然だけどさあ？\n今からクイズ\n出してもいいかな～？\n\n# textflame 1 1\n@ピサール\nまあクイズと言っても、\nわたしについてのことだよ～\n\n# textflame 1 1\n@ピサール\nつまりわたしのことを～\nちゃんとわかっていれば、\n難しいことなんてないから～\n\n# voice 3020 \"pisear_0005\"\n# textflame 1 1\n@ピサール\nだからきみのことを信じて\nクイズスタートだよ～\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしの☆４のときのジョブって\nマスターは覚えてるかな～？\n\n# se \"SE_0734\"\n# select  \"ファイター\" \"select_label_1\" \"ソルジャー\" \"select_label_2\" \"ガンナー\" \"select_label_3\"\nわたしの☆４のときのジョブって\nマスターは覚えてるかな～？\n"
+	},
+	{
+		"ID": 2679,
+		"unitID": 2302011,
+		"questionID": 9302029,
+		"script": ";;めんどくさい…,3\n# face %(unit_a)s \"smile\"\n# voice 3020 \"pisear_0002\"\n# textflame 1 1\n@ピサール\n突然だけどさあ？\n今からクイズ\n出してもいいかな～？\n\n# textflame 1 1\n@ピサール\nまあクイズと言っても、\nわたしについてのことだよ～\n\n# textflame 1 1\n@ピサール\nつまりわたしのことを～\nちゃんとわかっていれば、\n難しいことなんてないから～\n\n# voice 3020 \"pisear_0005\"\n# textflame 1 1\n@ピサール\nだからきみのことを信じて\nクイズスタートだよ～\n;;---------------------------------\n\n@%(unitName:unit_a)s\n学園姿のわたしが～\nどんなリーダースキルだったか\nマスターは覚えてるかな～？\n\n# se \"SE_0734\"\n# select  \"なにもしたくないなあ…\" \"select_label_1\" \"だるいなあ…\" \"select_label_2\" \"めんどくさい…\" \"select_label_3\"\n学園姿のわたしが～\nどんなリーダースキルだったか\nマスターは覚えてるかな～？\n"
+	},
+	{
+		"ID": 2680,
+		"unitID": 2302011,
+		"questionID": 9302030,
+		"script": ";;サンデショコラ,1\n# face %(unit_a)s \"smile\"\n# voice 3020 \"pisear_0002\"\n# textflame 1 1\n@ピサール\n突然だけどさあ？\n今からクイズ\n出してもいいかな～？\n\n# textflame 1 1\n@ピサール\nまあクイズと言っても、\nわたしについてのことだよ～\n\n# textflame 1 1\n@ピサール\nつまりわたしのことを～\nちゃんとわかっていれば、\n難しいことなんてないから～\n\n# voice 3020 \"pisear_0005\"\n# textflame 1 1\n@ピサール\nだからきみのことを信じて\nクイズスタートだよ～\n;;---------------------------------\n\n@%(unitName:unit_a)s\n学園姿のわたしが～\n手に入れたスキルの名前\nちゃんとわかるかな～？\n\n# se \"SE_0734\"\n# select  \"サンデショコラ\" \"select_label_1\" \"ガトーショコラ\" \"select_label_2\" \"ボンボンショコラ\" \"select_label_3\"\n学園姿のわたしが～\n手に入れたスキルの名前\nちゃんとわかるかな～？\n"
+	},
+	{
+		"ID": 2681,
+		"unitID": 2302011,
+		"questionID": 9302031,
+		"script": ";;放熱のため,1\n# face %(unit_a)s \"sad\"\n# voice 3020 \"pisear_0001\"\n# textflame 1 1\n@ピサール\nあ、そうだマスター\n\n# textflame 1 1\n@ピサール\nちょっと気になったから～、\n試してみようと思ったんだけど…\n\n# textflame 1 1\n@ピサール\nわたしのことを～、\nマスターがどれくらい理解してるか、\nっていうのをだよ？\n\n# textflame 1 1\n@ピサール\nいきなりだねって…\nべつに細かいことは、\n気にしなくていいから～\n\n# voice 3020 \"pisear_0036\"\n# textflame 1 1\n@ピサール\nほらほら～、\nクイズ出すから、\nちゃんと答えてよ～？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしが普段から～\nなんで水着みたいな恰好してたか\nマスターはわかってる～？\n\n# se \"SE_0734\"\n# select  \"放熱のため\" \"select_label_1\" \"泳ぐため\" \"select_label_2\" \"見せつけるため\" \"select_label_3\"\nわたしが普段から～\nなんで水着みたいな恰好してたか\nマスターはわかってる～？\n"
+	},
+	{
+		"ID": 2682,
+		"unitID": 2302011,
+		"questionID": 9302032,
+		"script": ";;ヴァジュラ,2\n# face %(unit_a)s \"sad\"\n# voice 3020 \"pisear_0001\"\n# textflame 1 1\n@ピサール\nあ、そうだマスター\n\n# textflame 1 1\n@ピサール\nちょっと気になったから～、\n試してみようと思ったんだけど…\n\n# textflame 1 1\n@ピサール\nわたしのことを～、\nマスターがどれくらい理解してるか、\nっていうのをだよ？\n\n# textflame 1 1\n@ピサール\nいきなりだねって…\nべつに細かいことは、\n気にしなくていいから～\n\n# voice 3020 \"pisear_0036\"\n# textflame 1 1\n@ピサール\nほらほら～、\nクイズ出すから、\nちゃんと答えてよ～？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしはO型だけど～\n次のうち誰が同じ血液型か\n当ててみて～？\n\n# se \"SE_0734\"\n# select  \"ブリューナク\" \"select_label_1\" \"ヴァジュラ\" \"select_label_2\" \"ムラマサ\" \"select_label_3\"\nわたしはO型だけど～\n次のうち誰が同じ血液型か\n当ててみて～？\n"
+	},
+	{
+		"ID": 2683,
+		"unitID": 2302011,
+		"questionID": 9302033,
+		"script": ";;October,3\n# face %(unit_a)s \"sad\"\n# voice 3020 \"pisear_0001\"\n# textflame 1 1\n@ピサール\nあ、そうだマスター\n\n# textflame 1 1\n@ピサール\nちょっと気になったから～、\n試してみようと思ったんだけど…\n\n# textflame 1 1\n@ピサール\nわたしのことを～、\nマスターがどれくらい理解してるか、\nっていうのをだよ？\n\n# textflame 1 1\n@ピサール\nいきなりだねって…\nべつに細かいことは、\n気にしなくていいから～\n\n# voice 3020 \"pisear_0036\"\n# textflame 1 1\n@ピサール\nほらほら～、\nクイズ出すから、\nちゃんと答えてよ～？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしの誕生日が１０月だけど～\n１０月を英語にすると\nなんて言うかな～？\n\n# se \"SE_0734\"\n# select  \"September\" \"select_label_1\" \"August\" \"select_label_2\" \"October\" \"select_label_3\"\nわたしの誕生日が１０月だけど～\n１０月を英語にすると\nなんて言うかな～？\n"
+	},
+	{
+		"ID": 2684,
+		"unitID": 2302011,
+		"questionID": 9302034,
+		"script": ";;槍,1\n# face %(unit_a)s \"sad\"\n# voice 3020 \"pisear_0001\"\n# textflame 1 1\n@ピサール\nあ、そうだマスター\n\n# textflame 1 1\n@ピサール\nちょっと気になったから～、\n試してみようと思ったんだけど…\n\n# textflame 1 1\n@ピサール\nわたしのことを～、\nマスターがどれくらい理解してるか、\nっていうのをだよ？\n\n# textflame 1 1\n@ピサール\nいきなりだねって…\nべつに細かいことは、\n気にしなくていいから～\n\n# voice 3020 \"pisear_0036\"\n# textflame 1 1\n@ピサール\nほらほら～、\nクイズ出すから、\nちゃんと答えてよ～？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしの武具種って～\nなんだと思う～？\n\n# se \"SE_0734\"\n# select  \"槍\" \"select_label_1\" \"銃\" \"select_label_2\" \"斧\" \"select_label_3\"\nわたしの武具種って～\nなんだと思う～？\n"
+	},
+	{
+		"ID": 2685,
+		"unitID": 2302011,
+		"questionID": 9302035,
+		"script": ";;方天画戟,2\n# face %(unit_a)s \"sad\"\n# voice 3020 \"pisear_0001\"\n# textflame 1 1\n@ピサール\nあ、そうだマスター\n\n# textflame 1 1\n@ピサール\nちょっと気になったから～、\n試してみようと思ったんだけど…\n\n# textflame 1 1\n@ピサール\nわたしのことを～、\nマスターがどれくらい理解してるか、\nっていうのをだよ？\n\n# textflame 1 1\n@ピサール\nいきなりだねって…\nべつに細かいことは、\n気にしなくていいから～\n\n# voice 3020 \"pisear_0036\"\n# textflame 1 1\n@ピサール\nほらほら～、\nクイズ出すから、\nちゃんと答えてよ～？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしの誕生日が１０月だけど～\n同じ１０月に生まれたのは\n次のうち誰だと思う～？\n\n# se \"SE_0734\"\n# select  \"ルーン\" \"select_label_1\" \"方天画戟\" \"select_label_2\" \"フラべルム\" \"select_label_3\"\nわたしの誕生日が１０月だけど～\n同じ１０月に生まれたのは\n次のうち誰だと思う～？\n"
+	},
+	{
+		"ID": 2686,
+		"unitID": 2302011,
+		"questionID": 9302036,
+		"script": ";;Libra,3\n# face %(unit_a)s \"sad\"\n# voice 3020 \"pisear_0001\"\n# textflame 1 1\n@ピサール\nあ、そうだマスター\n\n# textflame 1 1\n@ピサール\nちょっと気になったから～、\n試してみようと思ったんだけど…\n\n# textflame 1 1\n@ピサール\nわたしのことを～、\nマスターがどれくらい理解してるか、\nっていうのをだよ？\n\n# textflame 1 1\n@ピサール\nいきなりだねって…\nべつに細かいことは、\n気にしなくていいから～\n\n# voice 3020 \"pisear_0036\"\n# textflame 1 1\n@ピサール\nほらほら～、\nクイズ出すから、\nちゃんと答えてよ～？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしはてんびん座だけど～\nてんびん座って英語にすると\nなんて言うのかな～？\n\n# se \"SE_0734\"\n# select  \"Scorpion\" \"select_label_1\" \"Cancer\" \"select_label_2\" \"Libra\" \"select_label_3\"\nわたしはてんびん座だけど～\nてんびん座って英語にすると\nなんて言うのかな～？\n"
+	},
+	{
+		"ID": 2687,
+		"unitID": 2302011,
+		"questionID": 9302037,
+		"script": ";;武器の性質が似ているから,1\n# face %(unit_a)s \"sad\"\n# voice 3020 \"pisear_0001\"\n# textflame 1 1\n@ピサール\nあ、そうだマスター\n\n# textflame 1 1\n@ピサール\nちょっと気になったから～、\n試してみようと思ったんだけど…\n\n# textflame 1 1\n@ピサール\nわたしのことを～、\nマスターがどれくらい理解してるか、\nっていうのをだよ？\n\n# textflame 1 1\n@ピサール\nいきなりだねって…\nべつに細かいことは、\n気にしなくていいから～\n\n# voice 3020 \"pisear_0036\"\n# textflame 1 1\n@ピサール\nほらほら～、\nクイズ出すから、\nちゃんと答えてよ～？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしがルーンと仲いいのって\nなんでだかわかる～？\n\n# se \"SE_0734\"\n# select  \"武器の性質が似ているから\" \"select_label_1\" \"性格が似ているから\" \"select_label_2\" \"同じものが好きだから\" \"select_label_3\"\nわたしがルーンと仲いいのって\nなんでだかわかる～？\n"
+	},
+	{
+		"ID": 2688,
+		"unitID": 2302011,
+		"questionID": 9302038,
+		"script": ";;怠けたいから,2\n# face %(unit_a)s \"sad\"\n# voice 3020 \"pisear_0001\"\n# textflame 1 1\n@ピサール\nあ、そうだマスター\n\n# textflame 1 1\n@ピサール\nちょっと気になったから～、\n試してみようと思ったんだけど…\n\n# textflame 1 1\n@ピサール\nわたしのことを～、\nマスターがどれくらい理解してるか、\nっていうのをだよ？\n\n# textflame 1 1\n@ピサール\nいきなりだねって…\nべつに細かいことは、\n気にしなくていいから～\n\n# voice 3020 \"pisear_0036\"\n# textflame 1 1\n@ピサール\nほらほら～、\nクイズ出すから、\nちゃんと答えてよ～？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしが平和主義なのって\nどうしてだかわかる～？\n\n# se \"SE_0734\"\n# select  \"血を見たくないから\" \"select_label_1\" \"怠けたいから\" \"select_label_2\" \"平和が好きだから\" \"select_label_3\"\nわたしが平和主義なのって\nどうしてだかわかる～？\n"
+	},
+	{
+		"ID": 2689,
+		"unitID": 2302011,
+		"questionID": 9302039,
+		"script": ";;完膚なきまでに標的を殲滅する,3\n# face %(unit_a)s \"sad\"\n# voice 3020 \"pisear_0001\"\n# textflame 1 1\n@ピサール\nあ、そうだマスター\n\n# textflame 1 1\n@ピサール\nちょっと気になったから～、\n試してみようと思ったんだけど…\n\n# textflame 1 1\n@ピサール\nわたしのことを～、\nマスターがどれくらい理解してるか、\nっていうのをだよ？\n\n# textflame 1 1\n@ピサール\nいきなりだねって…\nべつに細かいことは、\n気にしなくていいから～\n\n# voice 3020 \"pisear_0036\"\n# textflame 1 1\n@ピサール\nほらほら～、\nクイズ出すから、\nちゃんと答えてよ～？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしが実際に戦ったら～\nどんなことになるのか～\nマスターはわかってる～？\n\n# se \"SE_0734\"\n# select  \"近くの建物が軒並み吹き飛ぶ\" \"select_label_1\" \"大地を分断する\" \"select_label_2\" \"完膚なきまでに標的を殲滅する\" \"select_label_3\"\nわたしが実際に戦ったら～\nどんなことになるのか～\nマスターはわかってる～？\n"
+	},
+	{
+		"ID": 2690,
+		"unitID": 2302011,
+		"questionID": 9302040,
+		"script": ";;武器時代、秘密兵器化していたから,1\n# face %(unit_a)s \"sad\"\n# voice 3020 \"pisear_0001\"\n# textflame 1 1\n@ピサール\nあ、そうだマスター\n\n# textflame 1 1\n@ピサール\nちょっと気になったから～、\n試してみようと思ったんだけど…\n\n# textflame 1 1\n@ピサール\nわたしのことを～、\nマスターがどれくらい理解してるか、\nっていうのをだよ？\n\n# textflame 1 1\n@ピサール\nいきなりだねって…\nべつに細かいことは、\n気にしなくていいから～\n\n# voice 3020 \"pisear_0036\"\n# textflame 1 1\n@ピサール\nほらほら～、\nクイズ出すから、\nちゃんと答えてよ～？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nどうしてわたしに～\nサボり癖がついちゃったか\nマスターにはわかるかな～？\n\n# se \"SE_0734\"\n# select  \"武器時代、秘密兵器化していたから\" \"select_label_1\" \"武器時代、一切出番がなかったから\" \"select_label_2\" \"武器時代、散々使われて疲れたから\" \"select_label_3\"\nどうしてわたしに～\nサボり癖がついちゃったか\nマスターにはわかるかな～？\n"
+	},
+	{
+		"ID": 2691,
+		"unitID": 2302011,
+		"questionID": 9302041,
+		"script": "\n;;わたし,3\n# se \"SE_0734\"\n# select \"ワタシ\" \"select_label_1\" \"アタシ\" \"select_label_2\" \"わたし\" \"select_label_3\"\nピサールの一人称は\n次のうちどれ？\n"
+	},
+	{
+		"ID": 2692,
+		"unitID": 2302011,
+		"questionID": 9302042,
+		"script": "\n;;マスター,3\n# se \"SE_0734\"\n# select \"ご主人様\" \"select_label_1\" \"お前\" \"select_label_2\" \"マスター\" \"select_label_3\"\nピサールはアンタのこと、\nなんて呼んでる？\n"
+	},
+	{
+		"ID": 2693,
+		"unitID": 2302011,
+		"questionID": 9302043,
+		"script": "\n;;95,3\n# se \"SE_0734\"\n# select \"92\" \"select_label_1\" \"98\" \"select_label_2\" \"95\" \"select_label_3\"\nピサールの\nバストサイズがどのくらいか\nアンタ…知ってるの？\n"
+	},
+	{
+		"ID": 2694,
+		"unitID": 2302011,
+		"questionID": 9302044,
+		"script": "\n;;60,2\n# se \"SE_0734\"\n# select \"57\" \"select_label_1\" \"60\" \"select_label_2\" \"63\" \"select_label_3\"\nピサールの\nウエストサイズがどのくらいか\nアンタ…知ってるの？\n"
+	},
+	{
+		"ID": 2695,
+		"unitID": 2302011,
+		"questionID": 9302045,
+		"script": "\n;;91,2\n# se \"SE_0734\"\n# select \"88\" \"select_label_1\" \"91\" \"select_label_2\" \"94\" \"select_label_3\"\nピサールの\nヒップサイズがどのくらいか\nアンタ…知ってるの？\n"
+	},
+	{
+		"ID": 2696,
+		"unitID": 2302011,
+		"questionID": 9302046,
+		"script": "\n;;54,2\n# se \"SE_0734\"\n# select \"51\" \"select_label_1\" \"54\" \"select_label_2\" \"57\" \"select_label_3\"\nピサールの体重は\n次のうちどれ？\n"
+	},
+	{
+		"ID": 2697,
+		"unitID": 2302011,
+		"questionID": 9302047,
+		"script": "\n;;246,1\n# se \"SE_0734\"\n# select \"246\" \"select_label_1\" \"237\" \"select_label_2\" \"255\" \"select_label_3\"\nピサールの\nバスト＋ウエスト＋ヒップは\nいくつかわかる？\n"
+	},
+	{
+		"ID": 2698,
+		"unitID": 2302011,
+		"questionID": 9302048,
+		"script": "\n;;白,1\n# se \"SE_0734\"\n# select \"白\" \"select_label_1\" \"赤\" \"select_label_2\" \"青\" \"select_label_3\"\nピサールの水着の色は\n次のうちどれ？\n"
+	},
+	{
+		"ID": 2699,
+		"unitID": 2302011,
+		"questionID": 9302049,
+		"script": "\n;;45位,1\n# se \"SE_0734\"\n# select \"45位\" \"select_label_1\" \"61位\" \"select_label_2\" \"52位\" \"select_label_3\"\nピサールは\n第２回人気投票で\n何位だったでしょう？\n"
+	},
+	{
+		"ID": 2700,
+		"unitID": 2302011,
+		"questionID": 9302050,
+		"script": "\n;;佐藤奏美,1\n# se \"SE_0734\"\n# select \"佐藤奏美\" \"select_label_1\" \"佐藤利奈\" \"select_label_2\" \"伊藤静\" \"select_label_3\"\nピサールの声優は誰？\n"
+	}
+]

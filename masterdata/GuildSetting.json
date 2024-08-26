@@ -1,0 +1,164 @@
+[
+	{
+		"ID": 1,
+		"key": "ESTABLISHMENT_LEVEL",
+		"value_type": "integer",
+		"value": "40.0"
+	},
+	{
+		"ID": 2,
+		"key": "JOIN_GUILD_INTERVAL",
+		"value_type": "integer",
+		"value": "86400.0"
+	},
+	{
+		"ID": 3,
+		"key": "BATTLE_MIN_MEMBER_NUM",
+		"value_type": "integer",
+		"value": "10.0"
+	},
+	{
+		"ID": 4,
+		"key": "ALLOWANCE_DISTANCE_DEFENCE_NUM",
+		"value_type": "integer",
+		"value": "3.0"
+	},
+	{
+		"ID": 5,
+		"key": "ALLOWANCE_DISTANCE_RANK",
+		"value_type": "integer",
+		"value": "3.0"
+	},
+	{
+		"ID": 6,
+		"key": "DEFAULT_PRIVATE_MESSAGE",
+		"value_type": "ustring",
+		"value": "ギルド掲示板の文言"
+	},
+	{
+		"ID": 7,
+		"key": "DEFAULT_BROADCAST_MESSAGE",
+		"value_type": "ustring",
+		"value": "ギルド紹介文の文言"
+	},
+	{
+		"ID": 8,
+		"key": "MAX_APPLICANTS_COUNT",
+		"value_type": "integer",
+		"value": "30.0"
+	},
+	{
+		"ID": 9,
+		"key": "APPLICANTS_REQUEST_EXPIRE_SECOND",
+		"value_type": "integer",
+		"value": "259200.0"
+	},
+	{
+		"ID": 10,
+		"key": "MAX_SUBMASTER_COUNT",
+		"value_type": "integer",
+		"value": "2.0"
+	},
+	{
+		"ID": 11,
+		"key": "BAN_SIGNED_IN_TIMER",
+		"value_type": "integer",
+		"value": "2678400.0"
+	},
+	{
+		"ID": 12,
+		"key": "RECOMMEND_SIGNED_IN_TIMER",
+		"value_type": "integer",
+		"value": "604800.0"
+	},
+	{
+		"ID": 13,
+		"key": "GUILD_BANK_MESSAGE",
+		"value_type": "ustring",
+		"value": "毎日寄付してギルドを大きくしよう！\n大きなギルドは拠点ボーナスが発生！\nギルドへの寄付は\n額に関わらず1日1回まで行えます。"
+	},
+	{
+		"ID": 14,
+		"key": "AVAILABLE_INVEST",
+		"value_type": "integer",
+		"value": "86400.0"
+	},
+	{
+		"ID": 15,
+		"key": "GVG_MIN_MEMBERS_COUNT",
+		"value_type": "integer",
+		"value": "10.0"
+	},
+	{
+		"ID": 16,
+		"key": "GVG_START_HOUR",
+		"value_type": "integer",
+		"value": "8.0"
+	},
+	{
+		"ID": 17,
+		"key": "GVG_END_HOUR",
+		"value_type": "integer",
+		"value": "24.0"
+	},
+	{
+		"ID": 28,
+		"key": "GVG_RELEASE_ENTRY_HOUR",
+		"value_type": "integer",
+		"value": "8.0"
+	},
+	{
+		"ID": 29,
+		"key": "GVG_ENTRY_EXPIRED_HOUR",
+		"value_type": "integer",
+		"value": "8.0"
+	},
+	{
+		"ID": 30,
+		"key": "GVG_HISTORIES_COUNT",
+		"value_type": "integer",
+		"value": "15"
+	},
+	{
+		"ID": 31,
+		"key": "GVG_FIRST_STAR_HASNUM",
+		"value_type": "integer",
+		"value": "3"
+	},
+	{
+		"ID": 32,
+		"key": "GVG_FIRST_ACTION_POINT",
+		"value_type": "integer",
+		"value": "2"
+	},
+	{
+		"ID": 33,
+		"key": "GVG_CHECK_HISTORY_NUM",
+		"value_type": "integer",
+		"value": "5"
+	},
+	{
+		"ID": 34,
+		"key": "GVG_EXCLUDE_HISTORY_NUM",
+		"value_type": "integer",
+		"value": "3"
+	},
+	{
+		"ID": 35,
+		"key": "MAX_GUILD_MEDAL",
+		"value_type": "integer",
+		"value": "99999999"
+	},
+	{
+		"ID": 36,
+		"key": "MAX_TOWN_NUM",
+		"value_type": "integer",
+		"value": "5"
+	},
+	{
+		"ID": 37,
+		"key": "FIRST_TOWN_ID",
+		"value_type": "integer",
+		"value": "1"
+	}
+]

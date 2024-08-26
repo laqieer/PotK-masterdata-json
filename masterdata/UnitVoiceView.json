@@ -1,0 +1,882 @@
+[
+	{
+		"ID": 1,
+		"Cue_ID": 42,
+		"Cue_Name": "_kyara_0001",
+		"Cue_Info": "自己紹介",
+		"Condition": 0,
+		"ConditionValue": 0
+	},
+	{
+		"ID": 2,
+		"Cue_ID": 0,
+		"Cue_Name": "_0001",
+		"Cue_Info": "呼びかけ１",
+		"Condition": 0,
+		"ConditionValue": 0
+	},
+	{
+		"ID": 3,
+		"Cue_ID": 1,
+		"Cue_Name": "_0002",
+		"Cue_Info": "呼びかけ２",
+		"Condition": 0,
+		"ConditionValue": 0
+	},
+	{
+		"ID": 4,
+		"Cue_ID": 2,
+		"Cue_Name": "_0003",
+		"Cue_Info": "返事",
+		"Condition": 0,
+		"ConditionValue": 0
+	},
+	{
+		"ID": 5,
+		"Cue_ID": 3,
+		"Cue_Name": "_0004",
+		"Cue_Info": "微笑",
+		"Condition": 0,
+		"ConditionValue": 0
+	},
+	{
+		"ID": 6,
+		"Cue_ID": 4,
+		"Cue_Name": "_0005",
+		"Cue_Info": "笑い",
+		"Condition": 0,
+		"ConditionValue": 0
+	},
+	{
+		"ID": 7,
+		"Cue_ID": 5,
+		"Cue_Name": "_0006",
+		"Cue_Info": "歓喜",
+		"Condition": 0,
+		"ConditionValue": 0
+	},
+	{
+		"ID": 8,
+		"Cue_ID": 6,
+		"Cue_Name": "_0007",
+		"Cue_Info": "嘲笑",
+		"Condition": 0,
+		"ConditionValue": 0
+	},
+	{
+		"ID": 9,
+		"Cue_ID": 7,
+		"Cue_Name": "_0008",
+		"Cue_Info": "苦笑い",
+		"Condition": 0,
+		"ConditionValue": 0
+	},
+	{
+		"ID": 10,
+		"Cue_ID": 8,
+		"Cue_Name": "_0009",
+		"Cue_Info": "怒り",
+		"Condition": 0,
+		"ConditionValue": 0
+	},
+	{
+		"ID": 11,
+		"Cue_ID": 9,
+		"Cue_Name": "_0010",
+		"Cue_Info": "激怒",
+		"Condition": 0,
+		"ConditionValue": 0
+	},
+	{
+		"ID": 12,
+		"Cue_ID": 10,
+		"Cue_Name": "_0011",
+		"Cue_Info": "断る",
+		"Condition": 0,
+		"ConditionValue": 0
+	},
+	{
+		"ID": 13,
+		"Cue_ID": 11,
+		"Cue_Name": "_0012",
+		"Cue_Info": "反対",
+		"Condition": 0,
+		"ConditionValue": 0
+	},
+	{
+		"ID": 14,
+		"Cue_ID": 12,
+		"Cue_Name": "_0013",
+		"Cue_Info": "不満",
+		"Condition": 0,
+		"ConditionValue": 0
+	},
+	{
+		"ID": 15,
+		"Cue_ID": 13,
+		"Cue_Name": "_0014",
+		"Cue_Info": "憤慨",
+		"Condition": 0,
+		"ConditionValue": 0
+	},
+	{
+		"ID": 16,
+		"Cue_ID": 14,
+		"Cue_Name": "_0015",
+		"Cue_Info": "涙目",
+		"Condition": 0,
+		"ConditionValue": 0
+	},
+	{
+		"ID": 17,
+		"Cue_ID": 15,
+		"Cue_Name": "_0016",
+		"Cue_Info": "泣く",
+		"Condition": 0,
+		"ConditionValue": 0
+	},
+	{
+		"ID": 18,
+		"Cue_ID": 16,
+		"Cue_Name": "_0017",
+		"Cue_Info": "悲哀",
+		"Condition": 0,
+		"ConditionValue": 0
+	},
+	{
+		"ID": 19,
+		"Cue_ID": 17,
+		"Cue_Name": "_0018",
+		"Cue_Info": "絶望",
+		"Condition": 0,
+		"ConditionValue": 0
+	},
+	{
+		"ID": 20,
+		"Cue_ID": 18,
+		"Cue_Name": "_0019",
+		"Cue_Info": "落胆",
+		"Condition": 0,
+		"ConditionValue": 0
+	},
+	{
+		"ID": 21,
+		"Cue_ID": 19,
+		"Cue_Name": "_0020",
+		"Cue_Info": "上機嫌",
+		"Condition": 0,
+		"ConditionValue": 0
+	},
+	{
+		"ID": 22,
+		"Cue_ID": 20,
+		"Cue_Name": "_0021",
+		"Cue_Info": "尊敬",
+		"Condition": 0,
+		"ConditionValue": 0
+	},
+	{
+		"ID": 23,
+		"Cue_ID": 21,
+		"Cue_Name": "_0022",
+		"Cue_Info": "驚く",
+		"Condition": 0,
+		"ConditionValue": 0
+	},
+	{
+		"ID": 24,
+		"Cue_ID": 22,
+		"Cue_Name": "_0023",
+		"Cue_Info": "驚嘆",
+		"Condition": 0,
+		"ConditionValue": 0
+	},
+	{
+		"ID": 25,
+		"Cue_ID": 23,
+		"Cue_Name": "_0024",
+		"Cue_Info": "恐れ",
+		"Condition": 0,
+		"ConditionValue": 0
+	},
+	{
+		"ID": 26,
+		"Cue_ID": 24,
+		"Cue_Name": "_0025",
+		"Cue_Info": "恐怖",
+		"Condition": 0,
+		"ConditionValue": 0
+	},
+	{
+		"ID": 27,
+		"Cue_ID": 25,
+		"Cue_Name": "_0026",
+		"Cue_Info": "不快",
+		"Condition": 0,
+		"ConditionValue": 0
+	},
+	{
+		"ID": 28,
+		"Cue_ID": 26,
+		"Cue_Name": "_0027",
+		"Cue_Info": "呆れ",
+		"Condition": 0,
+		"ConditionValue": 0
+	},
+	{
+		"ID": 29,
+		"Cue_ID": 27,
+		"Cue_Name": "_0028",
+		"Cue_Info": "悩む",
+		"Condition": 0,
+		"ConditionValue": 0
+	},
+	{
+		"ID": 30,
+		"Cue_ID": 28,
+		"Cue_Name": "_0029",
+		"Cue_Info": "気合い",
+		"Condition": 0,
+		"ConditionValue": 0
+	},
+	{
+		"ID": 31,
+		"Cue_ID": 29,
+		"Cue_Name": "_0030",
+		"Cue_Info": "感謝",
+		"Condition": 0,
+		"ConditionValue": 0
+	},
+	{
+		"ID": 32,
+		"Cue_ID": 30,
+		"Cue_Name": "_0031",
+		"Cue_Info": "謝罪",
+		"Condition": 0,
+		"ConditionValue": 0
+	},
+	{
+		"ID": 33,
+		"Cue_ID": 31,
+		"Cue_Name": "_0032",
+		"Cue_Info": "同意",
+		"Condition": 0,
+		"ConditionValue": 0
+	},
+	{
+		"ID": 34,
+		"Cue_ID": 32,
+		"Cue_Name": "_0033",
+		"Cue_Info": "了承",
+		"Condition": 0,
+		"ConditionValue": 0
+	},
+	{
+		"ID": 35,
+		"Cue_ID": 33,
+		"Cue_Name": "_0034",
+		"Cue_Info": "否定",
+		"Condition": 0,
+		"ConditionValue": 0
+	},
+	{
+		"ID": 36,
+		"Cue_ID": 34,
+		"Cue_Name": "_0035",
+		"Cue_Info": "拒否",
+		"Condition": 0,
+		"ConditionValue": 0
+	},
+	{
+		"ID": 37,
+		"Cue_ID": 35,
+		"Cue_Name": "_0036",
+		"Cue_Info": "お願い",
+		"Condition": 0,
+		"ConditionValue": 0
+	},
+	{
+		"ID": 38,
+		"Cue_ID": 36,
+		"Cue_Name": "_0037",
+		"Cue_Info": "痛み",
+		"Condition": 0,
+		"ConditionValue": 0
+	},
+	{
+		"ID": 39,
+		"Cue_ID": 37,
+		"Cue_Name": "_0038",
+		"Cue_Info": "激痛",
+		"Condition": 0,
+		"ConditionValue": 0
+	},
+	{
+		"ID": 40,
+		"Cue_ID": 38,
+		"Cue_Name": "_0039",
+		"Cue_Info": "感心",
+		"Condition": 0,
+		"ConditionValue": 0
+	},
+	{
+		"ID": 41,
+		"Cue_ID": 39,
+		"Cue_Name": "_0040",
+		"Cue_Info": "納得",
+		"Condition": 0,
+		"ConditionValue": 0
+	},
+	{
+		"ID": 42,
+		"Cue_ID": 40,
+		"Cue_Name": "_0041",
+		"Cue_Info": "感激",
+		"Condition": 0,
+		"ConditionValue": 0
+	},
+	{
+		"ID": 43,
+		"Cue_ID": 41,
+		"Cue_Name": "_0042",
+		"Cue_Info": "照れ",
+		"Condition": 0,
+		"ConditionValue": 0
+	},
+	{
+		"ID": 44,
+		"Cue_ID": 1000,
+		"Cue_Name": "_battle_0001",
+		"Cue_Info": "攻撃１",
+		"Condition": 0,
+		"ConditionValue": 0
+	},
+	{
+		"ID": 45,
+		"Cue_ID": 1001,
+		"Cue_Name": "_battle_0002",
+		"Cue_Info": "攻撃２",
+		"Condition": 0,
+		"ConditionValue": 0
+	},
+	{
+		"ID": 46,
+		"Cue_ID": 1002,
+		"Cue_Name": "_battle_0003",
+		"Cue_Info": "攻撃３",
+		"Condition": 0,
+		"ConditionValue": 0
+	},
+	{
+		"ID": 47,
+		"Cue_ID": 1003,
+		"Cue_Name": "_battle_0004",
+		"Cue_Info": "攻撃４",
+		"Condition": 0,
+		"ConditionValue": 0
+	},
+	{
+		"ID": 48,
+		"Cue_ID": 1004,
+		"Cue_Name": "_battle_0005",
+		"Cue_Info": "被弾１",
+		"Condition": 0,
+		"ConditionValue": 0
+	},
+	{
+		"ID": 49,
+		"Cue_ID": 1005,
+		"Cue_Name": "_battle_0006",
+		"Cue_Info": "被弾２",
+		"Condition": 0,
+		"ConditionValue": 0
+	},
+	{
+		"ID": 50,
+		"Cue_ID": 1006,
+		"Cue_Name": "_battle_0007",
+		"Cue_Info": "被弾３",
+		"Condition": 0,
+		"ConditionValue": 0
+	},
+	{
+		"ID": 51,
+		"Cue_ID": 1007,
+		"Cue_Name": "_battle_0008",
+		"Cue_Info": "被弾４",
+		"Condition": 0,
+		"ConditionValue": 0
+	},
+	{
+		"ID": 52,
+		"Cue_ID": 70,
+		"Cue_Name": "_unit_0005",
+		"Cue_Info": "出撃",
+		"Condition": 0,
+		"ConditionValue": 0
+	},
+	{
+		"ID": 53,
+		"Cue_ID": 71,
+		"Cue_Name": "_unit_0006",
+		"Cue_Info": "勝利",
+		"Condition": 0,
+		"ConditionValue": 0
+	},
+	{
+		"ID": 54,
+		"Cue_ID": 72,
+		"Cue_Name": "_unit_0007",
+		"Cue_Info": "敗北",
+		"Condition": 0,
+		"ConditionValue": 0
+	},
+	{
+		"ID": 55,
+		"Cue_ID": 73,
+		"Cue_Name": "_unit_0008",
+		"Cue_Info": "スキル発動",
+		"Condition": 0,
+		"ConditionValue": 0
+	},
+	{
+		"ID": 56,
+		"Cue_ID": 74,
+		"Cue_Name": "_unit_0009",
+		"Cue_Info": "クリティカル発動",
+		"Condition": 0,
+		"ConditionValue": 0
+	},
+	{
+		"ID": 57,
+		"Cue_ID": 75,
+		"Cue_Name": "_unit_0010",
+		"Cue_Info": "バトル開始",
+		"Condition": 0,
+		"ConditionValue": 0
+	},
+	{
+		"ID": 58,
+		"Cue_ID": 76,
+		"Cue_Name": "_unit_0011",
+		"Cue_Info": "撤退",
+		"Condition": 0,
+		"ConditionValue": 0
+	},
+	{
+		"ID": 59,
+		"Cue_ID": 77,
+		"Cue_Name": "_unit_0012",
+		"Cue_Info": "連携コンボ開始",
+		"Condition": 0,
+		"ConditionValue": 0
+	},
+	{
+		"ID": 60,
+		"Cue_ID": 78,
+		"Cue_Name": "_unit_0013",
+		"Cue_Info": "連携コンボ終了",
+		"Condition": 0,
+		"ConditionValue": 0
+	},
+	{
+		"ID": 61,
+		"Cue_ID": 45,
+		"Cue_Name": "_kyara_0004",
+		"Cue_Info": "挨拶（早朝）",
+		"Condition": 1,
+		"ConditionValue": 10
+	},
+	{
+		"ID": 62,
+		"Cue_ID": 46,
+		"Cue_Name": "_kyara_0005",
+		"Cue_Info": "挨拶（朝）",
+		"Condition": 1,
+		"ConditionValue": 10
+	},
+	{
+		"ID": 63,
+		"Cue_ID": 47,
+		"Cue_Name": "_kyara_0006",
+		"Cue_Info": "挨拶（昼）",
+		"Condition": 1,
+		"ConditionValue": 10
+	},
+	{
+		"ID": 64,
+		"Cue_ID": 48,
+		"Cue_Name": "_kyara_0007",
+		"Cue_Info": "挨拶（夕）",
+		"Condition": 1,
+		"ConditionValue": 10
+	},
+	{
+		"ID": 65,
+		"Cue_ID": 49,
+		"Cue_Name": "_kyara_0008",
+		"Cue_Info": "挨拶（夜）",
+		"Condition": 1,
+		"ConditionValue": 10
+	},
+	{
+		"ID": 66,
+		"Cue_ID": 50,
+		"Cue_Name": "_kyara_0009",
+		"Cue_Info": "挨拶（深夜）",
+		"Condition": 1,
+		"ConditionValue": 10
+	},
+	{
+		"ID": 67,
+		"Cue_ID": 52,
+		"Cue_Name": "_kyara_0011",
+		"Cue_Info": "戯れ１",
+		"Condition": 1,
+		"ConditionValue": 10
+	},
+	{
+		"ID": 68,
+		"Cue_ID": 53,
+		"Cue_Name": "_kyara_0012",
+		"Cue_Info": "戯れ２",
+		"Condition": 1,
+		"ConditionValue": 10
+	},
+	{
+		"ID": 69,
+		"Cue_ID": 54,
+		"Cue_Name": "_kyara_0013",
+		"Cue_Info": "戯れ３",
+		"Condition": 1,
+		"ConditionValue": 10
+	},
+	{
+		"ID": 70,
+		"Cue_ID": 55,
+		"Cue_Name": "_kyara_0014",
+		"Cue_Info": "進化",
+		"Condition": 1,
+		"ConditionValue": 10
+	},
+	{
+		"ID": 71,
+		"Cue_ID": 56,
+		"Cue_Name": "_kyara_0015",
+		"Cue_Info": "強化",
+		"Condition": 1,
+		"ConditionValue": 10
+	},
+	{
+		"ID": 72,
+		"Cue_ID": 58,
+		"Cue_Name": "_kyara_0017",
+		"Cue_Info": "親密度アップ１",
+		"Condition": 1,
+		"ConditionValue": 10
+	},
+	{
+		"ID": 73,
+		"Cue_ID": 59,
+		"Cue_Name": "_kyara_0018",
+		"Cue_Info": "親密度アップ２",
+		"Condition": 1,
+		"ConditionValue": 10
+	},
+	{
+		"ID": 74,
+		"Cue_ID": 60,
+		"Cue_Name": "_kyara_0019",
+		"Cue_Info": "敵撃破",
+		"Condition": 1,
+		"ConditionValue": 10
+	},
+	{
+		"ID": 75,
+		"Cue_ID": 61,
+		"Cue_Name": "_kyara_0020",
+		"Cue_Info": "レベルアップ",
+		"Condition": 1,
+		"ConditionValue": 10
+	},
+	{
+		"ID": 76,
+		"Cue_ID": 62,
+		"Cue_Name": "_kyara_0021",
+		"Cue_Info": "ショップ選択",
+		"Condition": 1,
+		"ConditionValue": 10
+	},
+	{
+		"ID": 77,
+		"Cue_ID": 90,
+		"Cue_Name": "_kyara_ex_0001",
+		"Cue_Info": "特殊１",
+		"Condition": 1,
+		"ConditionValue": 10
+	},
+	{
+		"ID": 78,
+		"Cue_ID": 91,
+		"Cue_Name": "_kyara_ex_0002",
+		"Cue_Info": "特殊２",
+		"Condition": 1,
+		"ConditionValue": 10
+	},
+	{
+		"ID": 79,
+		"Cue_ID": 92,
+		"Cue_Name": "_kyara_ex_0003",
+		"Cue_Info": "特殊３",
+		"Condition": 1,
+		"ConditionValue": 10
+	},
+	{
+		"ID": 80,
+		"Cue_ID": 2017,
+		"Cue_Name": "_event_0017",
+		"Cue_Info": "春期",
+		"Condition": 1,
+		"ConditionValue": 20
+	},
+	{
+		"ID": 81,
+		"Cue_ID": 2014,
+		"Cue_Name": "_event_0014",
+		"Cue_Info": "夏期",
+		"Condition": 1,
+		"ConditionValue": 20
+	},
+	{
+		"ID": 82,
+		"Cue_ID": 2016,
+		"Cue_Name": "_event_0016",
+		"Cue_Info": "秋期",
+		"Condition": 1,
+		"ConditionValue": 20
+	},
+	{
+		"ID": 83,
+		"Cue_ID": 2015,
+		"Cue_Name": "_event_0015",
+		"Cue_Info": "冬期",
+		"Condition": 1,
+		"ConditionValue": 20
+	},
+	{
+		"ID": 84,
+		"Cue_ID": 2001,
+		"Cue_Name": "_event_0001",
+		"Cue_Info": "お正月１",
+		"Condition": 1,
+		"ConditionValue": 30
+	},
+	{
+		"ID": 85,
+		"Cue_ID": 2002,
+		"Cue_Name": "_event_0002",
+		"Cue_Info": "お正月２",
+		"Condition": 1,
+		"ConditionValue": 30
+	},
+	{
+		"ID": 86,
+		"Cue_ID": 2003,
+		"Cue_Name": "_event_0003",
+		"Cue_Info": "お正月３",
+		"Condition": 1,
+		"ConditionValue": 30
+	},
+	{
+		"ID": 87,
+		"Cue_ID": 2004,
+		"Cue_Name": "_event_0004",
+		"Cue_Info": "バレンタイン１",
+		"Condition": 1,
+		"ConditionValue": 30
+	},
+	{
+		"ID": 88,
+		"Cue_ID": 2005,
+		"Cue_Name": "_event_0005",
+		"Cue_Info": "バレンタイン２",
+		"Condition": 1,
+		"ConditionValue": 30
+	},
+	{
+		"ID": 89,
+		"Cue_ID": 2006,
+		"Cue_Name": "_event_0006",
+		"Cue_Info": "ジューンブライド１",
+		"Condition": 1,
+		"ConditionValue": 30
+	},
+	{
+		"ID": 90,
+		"Cue_ID": 2007,
+		"Cue_Name": "_event_0007",
+		"Cue_Info": "ジューンブライド２",
+		"Condition": 1,
+		"ConditionValue": 30
+	},
+	{
+		"ID": 91,
+		"Cue_ID": 2008,
+		"Cue_Name": "_event_0008",
+		"Cue_Info": "サマーシーズン１",
+		"Condition": 1,
+		"ConditionValue": 30
+	},
+	{
+		"ID": 92,
+		"Cue_ID": 2009,
+		"Cue_Name": "_event_0009",
+		"Cue_Info": "サマーシーズン２",
+		"Condition": 1,
+		"ConditionValue": 30
+	},
+	{
+		"ID": 93,
+		"Cue_ID": 2010,
+		"Cue_Name": "_event_0010",
+		"Cue_Info": "ハロウィン１",
+		"Condition": 1,
+		"ConditionValue": 30
+	},
+	{
+		"ID": 94,
+		"Cue_ID": 2011,
+		"Cue_Name": "_event_0011",
+		"Cue_Info": "ハロウィン２",
+		"Condition": 1,
+		"ConditionValue": 30
+	},
+	{
+		"ID": 95,
+		"Cue_ID": 2012,
+		"Cue_Name": "_event_0012",
+		"Cue_Info": "クリスマス１",
+		"Condition": 1,
+		"ConditionValue": 30
+	},
+	{
+		"ID": 96,
+		"Cue_ID": 2013,
+		"Cue_Name": "_event_0013",
+		"Cue_Info": "クリスマス２",
+		"Condition": 1,
+		"ConditionValue": 30
+	},
+	{
+		"ID": 97,
+		"Cue_ID": 63,
+		"Cue_Name": "_kyara_0025",
+		"Cue_Info": "頬染め１",
+		"Condition": 1,
+		"ConditionValue": 50
+	},
+	{
+		"ID": 98,
+		"Cue_ID": 64,
+		"Cue_Name": "_kyara_0026",
+		"Cue_Info": "頬染め２",
+		"Condition": 1,
+		"ConditionValue": 50
+	},
+	{
+		"ID": 99,
+		"Cue_ID": 65,
+		"Cue_Name": "_kyara_0027",
+		"Cue_Info": "頬染め３",
+		"Condition": 1,
+		"ConditionValue": 50
+	},
+	{
+		"ID": 100,
+		"Cue_ID": 66,
+		"Cue_Name": "_kyara_0028",
+		"Cue_Info": "頬染め４",
+		"Condition": 1,
+		"ConditionValue": 50
+	},
+	{
+		"ID": 101,
+		"Cue_ID": 2200,
+		"Cue_Name": "_kyara_0013_01",
+		"Cue_Info": "お願いごと",
+		"Condition": 0,
+		"ConditionValue": 0
+	},
+	{
+		"ID": 102,
+		"Cue_ID": 2201,
+		"Cue_Name": "_kyara_0013_02",
+		"Cue_Info": "悩みごと",
+		"Condition": 0,
+		"ConditionValue": 0
+	},
+	{
+		"ID": 103,
+		"Cue_ID": 2202,
+		"Cue_Name": "_kyara_0013_03",
+		"Cue_Info": "叶えたいこと",
+		"Condition": 0,
+		"ConditionValue": 0
+	},
+	{
+		"ID": 104,
+		"Cue_ID": 2220,
+		"Cue_Name": "_kyara_ex_0004",
+		"Cue_Info": "好きなこと",
+		"Condition": 1,
+		"ConditionValue": 60
+	},
+	{
+		"ID": 105,
+		"Cue_ID": 2221,
+		"Cue_Name": "_kyara_ex_0005",
+		"Cue_Info": "嫌いなこと",
+		"Condition": 1,
+		"ConditionValue": 60
+	},
+	{
+		"ID": 106,
+		"Cue_ID": 2222,
+		"Cue_Name": "_kyara_ex_0006",
+		"Cue_Info": "親愛１",
+		"Condition": 1,
+		"ConditionValue": 70
+	},
+	{
+		"ID": 107,
+		"Cue_ID": 2223,
+		"Cue_Name": "_kyara_ex_0007",
+		"Cue_Info": "親愛２",
+		"Condition": 1,
+		"ConditionValue": 80
+	},
+	{
+		"ID": 108,
+		"Cue_ID": 2224,
+		"Cue_Name": "_kyara_ex_0008",
+		"Cue_Info": "親愛３",
+		"Condition": 1,
+		"ConditionValue": 90
+	},
+	{
+		"ID": 109,
+		"Cue_ID": 2225,
+		"Cue_Name": "_kyara_ex_0009",
+		"Cue_Info": "親愛４",
+		"Condition": 1,
+		"ConditionValue": 100
+	},
+	{
+		"ID": 110,
+		"Cue_ID": 2226,
+		"Cue_Name": "_kyara_ex_0010",
+		"Cue_Info": "親愛５",
+		"Condition": 1,
+		"ConditionValue": 100
+	}
+]

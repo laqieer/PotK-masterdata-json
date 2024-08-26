@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 501321,
+		"script": ";;A,中\n;;B,大\n;;C,小\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_drive\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# face %(unit_a)s \"normal\"\n# textflame 0 0\n@\n車に乗って隊へと戻る\nマスターとほむらの二人\n\n@\n景色を眺めながら、\nほむらはぽつぽつと\n話しはじめる\n\n# textflame 1 1\n# voice 5013 \"homura_0028\"\n@%(unitName:unit_a)s\nこの街はなんだか\n不思議な場所ね\n\n@%(unitName:unit_a)s\nわたしがいた世界と\nぜんぜん違うけれど\nどこか似ている気がする\n\n# voice 5013 \"homura_0002\"\n@%(unitName:unit_a)s\nねえ、マスター\nひとつ尋ねたいのだけれど\n\n@%(unitName:unit_a)s\n貴方はこの世界の\nどんなところが好き？\n\n# select \"大切な仲間がいるところ\" \"select_label_01\" \"思わぬ出会いがあるところ\" \"select_label_02\" \"ドライブできるところ\" \"select_label_03\"\n貴方はこの世界の\nどんなところが好き？\n\n# label \"select_label_01\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_02\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_03\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# textflame 1 1\n# waitandnext 0.1\n\n# label \"select_label_end\"\n# waitandnext 2\n# fadeout \"black\" 1.2\n"
+	}
+]

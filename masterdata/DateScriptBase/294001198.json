@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 294001198,
+		"script": ";;//不正解\n# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# se \"SE_0733\"\n@アルテミス\n…そうですか\nそれがマスターのお答えですか\n\n# textflame 0 0\n@\n淡々と告げるアルテミス\n彼女の落胆した表情を見て\n自分が間違えたのだとわかった\n\n# voice 240012 \"arutemisu_k_0026\"\n# textflame 1 1\n@アルテミス\nマスターは私のことを\nあまりお知りではないのですね…\n\n# face 2400121 \"normal\"\n@アルテミス\nいえ、お気になさらずに\n私はただ\nマスターをお守りするだけですから\n\n# textflame 0 0\n@\n周囲に気を配リ始めるアルテミス\n今の彼女は明らかに\n無理をして気丈に振る舞っている…\n\n@\n苦い気持ちが胸に広がっていく\n彼女のことをもっと知っていこう…\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

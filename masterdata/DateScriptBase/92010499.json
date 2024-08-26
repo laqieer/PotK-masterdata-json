@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 92010499,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# se \"SE_0732\"\n# voice 2010 \"ukonbasara_0021\"\n@ウコンバサラ\nお見事、正解よ\n\n# voice 2010 \"ukonbasara_0004\"\n@ウコンバサラ\nじゃあ、約束のご褒美…\nはい\n\n@ウコンバサラ\nお揃いのペンダント！\n嬉しい？\n\n# voice 2010 \"ukonbasara_0008\"\n@ウコンバサラ\n二人お揃いって\nちょっと恥ずかしいかもだけど…\n\n@ウコンバサラ\nでも、\nつけてくれたら\n嬉しいな♪\n\n# textflame 0 0\n@\n…と、\n弾けるような笑顔で\n手渡してくる彼女\n\n@\nこのペンダントは\n二人の絆の証\n\n@\nマスターは彼女との仲が、\n今まで以上に深くなったのを\n実感していた…\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

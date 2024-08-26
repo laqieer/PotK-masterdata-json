@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 91004198,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# se \"SE_0733\"\n# face %(unit_a)s \"sad\"\n# voice 1004 \"kusanagi_0015\"\n@草薙剣\nなんということだぁ～！\n\n# textflame 1 1\n@草薙剣\nそちは…\nそんなすっかすかの知識で…\n余に接してたいのか…？\n\n# textflame 1 1\n# face %(unit_a)s \"angry\"\n# voice 1004 \"kusanagi_0014\"\n@草薙剣\n信じられぬぞぉ～！\n\n# textflame 1 1\n# voice 1004 \"kusanagi_0016\"\n@草薙剣\n余は…余は…\nもっとそちに\n大事にしてほしいのだぁ…\n\n# textflame 0 0\n@\nそうつぶやく彼女は\nとてもしょげていた\n\n# textflame 0 0\n@\nデート中にこんなに\nがっかりさせてしまうなんて…\n\n# textflame 0 0\n@\n…………\n\n# textflame 0 0\n@\n彼女の元気な笑顔が好きだから\n草薙剣のことを\nちゃんと知っておかないとな…\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

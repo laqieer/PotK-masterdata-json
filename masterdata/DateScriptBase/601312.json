@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 601312,
+		"script": ";;A大当たり\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_cave\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# face %(unit_a)s \"angry\"\n# voice 6013 \"sistrum_0014\"\n@シストルム\nにゃむ～…\n\n@シストルム\nせっかくここまで来たのに\nちょうどピタッと来るところが\nないにゃ…\n\n# textflame 0 0\n@\nシストルムはちょうどピッタリと\n体にフィットする狭いスペースを\n探しているようだった\n\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@シストルム\nしょうがないにゃ…\nここなら…\nなんとかなりそうにゃ♪\n\n# textflame 0 0\n@\nそう言ってシストルムは\nマスターを手招きする\n\n# voice 6013 \"sistrum_0004\"\n# textflame 1 1\n@シストルム\nここ、ちょ～っと大きいけど\n二人ならたぶんピタッと来るにゃ♪\n\n# eye %(unit_a)s \"close\"\n@シストルム\nなにを遠慮してるにゃ？\nマスターにもこの心地よさを\n教えてあげるにゃ～♪\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"smile\"\n@シストルム\nほら、そこにハマるにゃ！\nにゃにゃっと……\n\n# voice 6013 \"sistrum_0005\"\n@シストルム\nほらぁ、ピッタリだにゃ～～ん♪\n\n# textflame 0 0\n@\n息がかかるほど\n互いの体温が伝わるほど\n密着して穴に収まった…\n\n# face %(unit_a)s \"angry\"\n# voice 6013 \"sistrum_0023\"\n# textflame 1 1\n@シストルム\n！！\n\n# textflame 0 0\n@\n彼女もその近さに気づいたようで\nピッタリとくっついたまま\n暗がりで言葉を失い、息を潜める…\n\n@\n二人の胸の鼓動は\n早くなるばかりだった――\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

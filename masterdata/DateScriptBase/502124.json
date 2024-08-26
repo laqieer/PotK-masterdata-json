@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 502124,
+		"script": ";;A 水着…着てるね（小）\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_room\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# eye %(unit_a)s \"close\"\n# voice 5021 \"sefer_0022\"\n@セファー\n…もう、マスター\n\n# eye %(unit_a)s \"normal\"\n@セファー\nわたくしが水辺を苦手としてると\n知っていて言っていますね？\n\n# voice 5021 \"sefer_0027\"\n@セファー\nもう、知りませんっ\n\n# textflame 0 0\n@\nマスターはふくれてしまった\nセファーをとりなすのに\n多大な時間を割くことになった…\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

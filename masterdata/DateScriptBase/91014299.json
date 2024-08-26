@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 91014299,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# se \"SE_0732\"\n# voice 1014 \"tyrufing_0041\"\n@ティルフィング\nすごい…\n\n@ティルフィング\nお、おめでとうございます…！\n\n# face %(unit_a)s \"sad\"\n# voice 1014 \"tyrufing_0002\"\n@ティルフィング\nマ、マスターにしてみれば、\nちょっと簡単すぎましたか…？\n\n# textflame 0 0\n@\nいや、そんなことはない\nいいバランスの問題だったよと\n言うマスター\n\n@\n途中、苦戦するところもあったけど\n楽しいクイズだったと、マスターは\n彼女を褒めたのだった\n\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n# voice 1014 \"tyrufing_1057\"\n@ティルフィング\nそ、そうですか…？\nありがとう、ございます\n\n@ティルフィング\nマスターに、そう言って\nいただけて…嬉しい、です…\n\n# textflame 0 0\n@\nうつむきがちにそう言って、\n頬を赤らめるティルフィング\n\n@\nマスターは彼女との絆が、\nより一層深まったように\n感じたのだった\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

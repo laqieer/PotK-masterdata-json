@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 91028398,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# se \"SE_0733\"\n# voice 1028 \"dainsleif_0001\"\n@ダーインスレイヴ\nおぬし…\n\n@ダーインスレイヴ\n不正解を叩き出すとは…\n\n# face %(unit_a)s \"usual\"\n# voice 1028 \"dainsleif_0008\"\n@ダーインスレイヴ\nおぬしの男前度合いは\nその程度のものだったのか…\n\n# face %(unit_a)s \"sad\"\n@ダーインスレイヴ\nわたしは…\nいささか悲しいぞ\n\n@ダーインスレイヴ\nおぬしの前なら不思議と…\n\n# voice 1028 \"dainsleif_0019\"\n@ダーインスレイヴ\nわたしは女らしくなれる\n気がしていたのに…\n\n# textflame 0 0\n@\n彼女が悲しむ姿は\nとても女性らしくはあったのだが…\n\n@\nもうあんな顔をさせちゃダメだ…\n\n@\n二度と間違えないようにしよう…\nそう心に強く誓うマスターだった…\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

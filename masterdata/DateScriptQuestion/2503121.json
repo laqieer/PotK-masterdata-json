@@ -1,0 +1,266 @@
+[
+	{
+		"ID": 5579,
+		"unitID": 2503121,
+		"questionID": 29503101,
+		"script": ";;銃,2\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 250312 \"solomon_lo_0001\"\n@ソロモン\nねえ、おにいさん\n\n@ソロモン\nさいてきかいって\nどういういみかしってる？\n\n@ソロモン\nすっごく私にあってる…\nみたいなことよ\n\n@ソロモン\nだから、いつも\nさいてきかいをさがしてるの\n\n# face %(unit_a)s \"happy\"\n# voice 250312 \"solomon_lo_0004\"\n@ソロモン\nいまから私がだすクイズで、\nおにいさんもさいてきかいを\nみちびきだしてみて\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私のぶきのしゅるいは\nなにかわかるかしら？\n\n# se \"SE_0734\"\n# select \"槍\" \"select_label_1\" \"銃\" \"select_label_2\" \"剣\" \"select_label_3\"\n私のぶきのしゅるいは\nなにかわかるかしら？\n"
+	},
+	{
+		"ID": 5580,
+		"unitID": 2503121,
+		"questionID": 29503102,
+		"script": ";;指輪,1\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 250312 \"solomon_lo_0001\"\n@ソロモン\nねえ、おにいさん\n\n@ソロモン\nさいてきかいって\nどういういみかしってる？\n\n@ソロモン\nすっごく私にあってる…\nみたいなことよ\n\n@ソロモン\nだから、いつも\nさいてきかいをさがしてるの\n\n# face %(unit_a)s \"happy\"\n# voice 250312 \"solomon_lo_0004\"\n@ソロモン\nいまから私がだすクイズで、\nおにいさんもさいてきかいを\nみちびきだしてみて\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私のキラーズの『ソロモン』は\nどんなものか、わかるかしら？\n\n# se \"SE_0734\"\n# select \"指輪\" \"select_label_1\" \"ピアス\" \"select_label_2\" \"腕輪\" \"select_label_3\"\n私のキラーズの『ソロモン』は\nどんなものか、わかるかしら？\n"
+	},
+	{
+		"ID": 5581,
+		"unitID": 2503121,
+		"questionID": 29503103,
+		"script": ";;ヘブライ神話群,1\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 250312 \"solomon_lo_0001\"\n@ソロモン\nねえ、おにいさん\n\n@ソロモン\nさいてきかいって\nどういういみかしってる？\n\n@ソロモン\nすっごく私にあってる…\nみたいなことよ\n\n@ソロモン\nだから、いつも\nさいてきかいをさがしてるの\n\n# face %(unit_a)s \"happy\"\n# voice 250312 \"solomon_lo_0004\"\n@ソロモン\nいまから私がだすクイズで、\nおにいさんもさいてきかいを\nみちびきだしてみて\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私のキラーズの『ソロモン』は\nどんなお話にでてくるかわかる？\n\n# se \"SE_0734\"\n# select \"ヘブライ神話群\" \"select_label_1\" \"インド神話群\" \"select_label_2\" \"ギリシャ神話\" \"select_label_3\"\n私のキラーズの『ソロモン』は\nどんなお話にでてくるかわかる？\n"
+	},
+	{
+		"ID": 5582,
+		"unitID": 2503121,
+		"questionID": 29503104,
+		"script": ";;動植物の声を届ける,3\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 250312 \"solomon_lo_0001\"\n@ソロモン\nねえ、おにいさん\n\n@ソロモン\nさいてきかいって\nどういういみかしってる？\n\n@ソロモン\nすっごく私にあってる…\nみたいなことよ\n\n@ソロモン\nだから、いつも\nさいてきかいをさがしてるの\n\n# face %(unit_a)s \"happy\"\n# voice 250312 \"solomon_lo_0004\"\n@ソロモン\nいまから私がだすクイズで、\nおにいさんもさいてきかいを\nみちびきだしてみて\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私のキラーズの『ソロモン』は\nどんなゆびわかしら？\n\n# se \"SE_0734\"\n# select \"神の声が聞ける\" \"select_label_1\" \"雷を呼んだ\" \"select_label_2\" \"動植物の声を届ける\" \"select_label_3\"\n私のキラーズの『ソロモン』は\nどんなゆびわかしら？\n"
+	},
+	{
+		"ID": 5583,
+		"unitID": 2503121,
+		"questionID": 29503105,
+		"script": ";;大天使ミカエル,1\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 250312 \"solomon_lo_0001\"\n@ソロモン\nねえ、おにいさん\n\n@ソロモン\nさいてきかいって\nどういういみかしってる？\n\n@ソロモン\nすっごく私にあってる…\nみたいなことよ\n\n@ソロモン\nだから、いつも\nさいてきかいをさがしてるの\n\n# face %(unit_a)s \"happy\"\n# voice 250312 \"solomon_lo_0004\"\n@ソロモン\nいまから私がだすクイズで、\nおにいさんもさいてきかいを\nみちびきだしてみて\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私のキラーズの『ソロモン』は\nだれからもらったか、わかるかしら？\n\n# se \"SE_0734\"\n# select \"大天使ミカエル\" \"select_label_1\" \"大天使ジュブナイル\" \"select_label_2\" \"大天使ロキ\" \"select_label_3\"\n私のキラーズの『ソロモン』は\nだれからもらったか、わかるかしら？\n"
+	},
+	{
+		"ID": 5584,
+		"unitID": 2503121,
+		"questionID": 29503106,
+		"script": ";;アテナ,3\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 250312 \"solomon_lo_0001\"\n@ソロモン\nねえ、おにいさん\n\n@ソロモン\nさいてきかいって\nどういういみかしってる？\n\n@ソロモン\nすっごく私にあってる…\nみたいなことよ\n\n@ソロモン\nだから、いつも\nさいてきかいをさがしてるの\n\n# face %(unit_a)s \"happy\"\n# voice 250312 \"solomon_lo_0004\"\n@ソロモン\nいまから私がだすクイズで、\nおにいさんもさいてきかいを\nみちびきだしてみて\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私に『じぇいる』されためがみは\nだれかわかるかしら？\n\n# se \"SE_0734\"\n# select \"パルテナ\" \"select_label_1\" \"アトレ\" \"select_label_2\" \"アテナ\" \"select_label_3\"\n私に『じぇいる』されためがみは\nだれかわかるかしら？\n"
+	},
+	{
+		"ID": 5585,
+		"unitID": 2503121,
+		"questionID": 29503107,
+		"script": ";;真鍮と鉄,3\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 250312 \"solomon_lo_0001\"\n@ソロモン\nねえ、おにいさん\n\n@ソロモン\nさいてきかいって\nどういういみかしってる？\n\n@ソロモン\nすっごく私にあってる…\nみたいなことよ\n\n@ソロモン\nだから、いつも\nさいてきかいをさがしてるの\n\n# face %(unit_a)s \"happy\"\n# voice 250312 \"solomon_lo_0004\"\n@ソロモン\nいまから私がだすクイズで、\nおにいさんもさいてきかいを\nみちびきだしてみて\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私のキラーズの\n『ソロモン』のゆびわは\nなにでできてるかわかるかしら？\n\n# se \"SE_0734\"\n# select \"金\" \"select_label_1\" \"カーボン\" \"select_label_2\" \"真鍮と鉄\" \"select_label_3\"\n私のキラーズの\n『ソロモン』のゆびわは\nなにでできてるかわかるかしら？\n"
+	},
+	{
+		"ID": 5586,
+		"unitID": 2503121,
+		"questionID": 29503108,
+		"script": ";;天使を使役できる,2\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 250312 \"solomon_lo_0001\"\n@ソロモン\nねえ、おにいさん\n\n@ソロモン\nさいてきかいって\nどういういみかしってる？\n\n@ソロモン\nすっごく私にあってる…\nみたいなことよ\n\n@ソロモン\nだから、いつも\nさいてきかいをさがしてるの\n\n# face %(unit_a)s \"happy\"\n# voice 250312 \"solomon_lo_0004\"\n@ソロモン\nいまから私がだすクイズで、\nおにいさんもさいてきかいを\nみちびきだしてみて\n;;---------------------------------\n\n@%(unitName:unit_a)s\n『ソロモン』のゆびわの\nしんちゅうのぶぶんは\nどんなこうかがあるかしら？\n\n# se \"SE_0734\"\n# select \"悪魔を使役できる\" \"select_label_1\" \"天使を使役できる\" \"select_label_2\" \"メイドを使役できる\" \"select_label_3\"\n『ソロモン』のゆびわの\nしんちゅうのぶぶんは\nどんなこうかがあるかしら？\n"
+	},
+	{
+		"ID": 5587,
+		"unitID": 2503121,
+		"questionID": 29503109,
+		"script": ";;悪魔を使役できる,1\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 250312 \"solomon_lo_0001\"\n@ソロモン\nねえ、おにいさん\n\n@ソロモン\nさいてきかいって\nどういういみかしってる？\n\n@ソロモン\nすっごく私にあってる…\nみたいなことよ\n\n@ソロモン\nだから、いつも\nさいてきかいをさがしてるの\n\n# face %(unit_a)s \"happy\"\n# voice 250312 \"solomon_lo_0004\"\n@ソロモン\nいまから私がだすクイズで、\nおにいさんもさいてきかいを\nみちびきだしてみて\n;;---------------------------------\n\n@%(unitName:unit_a)s\n『ソロモン』のゆびわの\nてつのぶぶんは\nどんなこうかがあるかしら？\n\n# se \"SE_0734\"\n# select \"悪魔を使役できる\" \"select_label_1\" \"天使を使役できる\" \"select_label_2\" \"幻獣を使役できる\" \"select_label_3\"\n『ソロモン』のゆびわの\nてつのぶぶんは\nどんなこうかがあるかしら？\n"
+	},
+	{
+		"ID": 5588,
+		"unitID": 2503121,
+		"questionID": 29503110,
+		"script": ";;ソロモン王,1\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 250312 \"solomon_lo_0001\"\n@ソロモン\nねえ、おにいさん\n\n@ソロモン\nさいてきかいって\nどういういみかしってる？\n\n@ソロモン\nすっごく私にあってる…\nみたいなことよ\n\n@ソロモン\nだから、いつも\nさいてきかいをさがしてるの\n\n# face %(unit_a)s \"happy\"\n# voice 250312 \"solomon_lo_0004\"\n@ソロモン\nいまから私がだすクイズで、\nおにいさんもさいてきかいを\nみちびきだしてみて\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私のキラーズの\n『ソロモン』のゆびわを\nもっていたのはだれかしら？\n\n# se \"SE_0734\"\n# select \"ソロモン王\" \"select_label_1\" \"アーサー王\" \"select_label_2\" \"クフ王\" \"select_label_3\"\n私のキラーズの\n『ソロモン』のゆびわを\nもっていたのはだれかしら？\n"
+	},
+	{
+		"ID": 5589,
+		"unitID": 2503121,
+		"questionID": 29503111,
+		"script": ";;光,2\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 250312 \"solomon_lo_0002\"\n@ソロモン\nおにいさん、しってる？\n\n@ソロモン\nほんをよむと、\nあたまがよくなるの\n\n@ソロモン\nだから、いつもねるまえに\nおにいさんに\nどうわをよんでもらうでしょ？\n\n# face %(unit_a)s \"normal\"\n# voice 250312 \"solomon_lo_0004\"\n@ソロモン\nそのおれいに、\nきょうは私が\nおにいさんにクイズをだしてあげる\n\n@ソロモン\nクイズにちょうせんするのも、\nあたまがよくなるのよ\n\n@ソロモン\nいい？　いくよ\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私のぞくせいは\nなにかわかるかしら？\n\n# se \"SE_0734\"\n# select \"風\" \"select_label_1\" \"光\" \"select_label_2\" \"炎\" \"select_label_3\"\n私のぞくせいは\nなにかわかるかしら？\n"
+	},
+	{
+		"ID": 5590,
+		"unitID": 2503121,
+		"questionID": 29503112,
+		"script": ";;10月11日,1\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 250312 \"solomon_lo_0002\"\n@ソロモン\nおにいさん、しってる？\n\n@ソロモン\nほんをよむと、\nあたまがよくなるの\n\n@ソロモン\nだから、いつもねるまえに\nおにいさんに\nどうわをよんでもらうでしょ？\n\n# face %(unit_a)s \"normal\"\n# voice 250312 \"solomon_lo_0004\"\n@ソロモン\nそのおれいに、\nきょうは私が\nおにいさんにクイズをだしてあげる\n\n@ソロモン\nクイズにちょうせんするのも、\nあたまがよくなるのよ\n\n@ソロモン\nいい？　いくよ\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私のたんじょうびは\nなんにちか、しってる？\n\n# se \"SE_0734\"\n# select \"10月11日\" \"select_label_1\" \"10月31日\" \"select_label_2\" \"10月1日\" \"select_label_3\"\n私のたんじょうびは\nなんにちか、しってる？\n"
+	},
+	{
+		"ID": 5591,
+		"unitID": 2503121,
+		"questionID": 29503113,
+		"script": ";;てんびん座,1\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 250312 \"solomon_lo_0002\"\n@ソロモン\nおにいさん、しってる？\n\n@ソロモン\nほんをよむと、\nあたまがよくなるの\n\n@ソロモン\nだから、いつもねるまえに\nおにいさんに\nどうわをよんでもらうでしょ？\n\n# face %(unit_a)s \"normal\"\n# voice 250312 \"solomon_lo_0004\"\n@ソロモン\nそのおれいに、\nきょうは私が\nおにいさんにクイズをだしてあげる\n\n@ソロモン\nクイズにちょうせんするのも、\nあたまがよくなるのよ\n\n@ソロモン\nいい？　いくよ\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私のせいざは\nなにかしってるかしら？\n\n# se \"SE_0734\"\n# select \"てんびん座\" \"select_label_1\" \"いて座\" \"select_label_2\" \"しし座\" \"select_label_3\"\n私のせいざは\nなにかしってるかしら？\n"
+	},
+	{
+		"ID": 5592,
+		"unitID": 2503121,
+		"questionID": 29503114,
+		"script": ";;話を聞くこと,1\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 250312 \"solomon_lo_0002\"\n@ソロモン\nおにいさん、しってる？\n\n@ソロモン\nほんをよむと、\nあたまがよくなるの\n\n@ソロモン\nだから、いつもねるまえに\nおにいさんに\nどうわをよんでもらうでしょ？\n\n# face %(unit_a)s \"normal\"\n# voice 250312 \"solomon_lo_0004\"\n@ソロモン\nそのおれいに、\nきょうは私が\nおにいさんにクイズをだしてあげる\n\n@ソロモン\nクイズにちょうせんするのも、\nあたまがよくなるのよ\n\n@ソロモン\nいい？　いくよ\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私がすきなことは\nなにかわかるかしら？\n\n# se \"SE_0734\"\n# select \"話を聞くこと\" \"select_label_1\" \"自慢話すること\" \"select_label_2\" \"噂話をすること\" \"select_label_3\"\n私がすきなことは\nなにかわかるかしら？\n"
+	},
+	{
+		"ID": 5593,
+		"unitID": 2503121,
+		"questionID": 29503115,
+		"script": ";;ボードゲーム,3\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 250312 \"solomon_lo_0002\"\n@ソロモン\nおにいさん、しってる？\n\n@ソロモン\nほんをよむと、\nあたまがよくなるの\n\n@ソロモン\nだから、いつもねるまえに\nおにいさんに\nどうわをよんでもらうでしょ？\n\n# face %(unit_a)s \"normal\"\n# voice 250312 \"solomon_lo_0004\"\n@ソロモン\nそのおれいに、\nきょうは私が\nおにいさんにクイズをだしてあげる\n\n@ソロモン\nクイズにちょうせんするのも、\nあたまがよくなるのよ\n\n@ソロモン\nいい？　いくよ\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私のしゅみは\nなんでしょう？\n\n# se \"SE_0734\"\n# select \"スマホゲーム\" \"select_label_1\" \"死のゲーム\" \"select_label_2\" \"ボードゲーム\" \"select_label_3\"\n私のしゅみは\nなんでしょう？\n"
+	},
+	{
+		"ID": 5594,
+		"unitID": 2503121,
+		"questionID": 29503116,
+		"script": ";;Ａ型,1\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 250312 \"solomon_lo_0002\"\n@ソロモン\nおにいさん、しってる？\n\n@ソロモン\nほんをよむと、\nあたまがよくなるの\n\n@ソロモン\nだから、いつもねるまえに\nおにいさんに\nどうわをよんでもらうでしょ？\n\n# face %(unit_a)s \"normal\"\n# voice 250312 \"solomon_lo_0004\"\n@ソロモン\nそのおれいに、\nきょうは私が\nおにいさんにクイズをだしてあげる\n\n@ソロモン\nクイズにちょうせんするのも、\nあたまがよくなるのよ\n\n@ソロモン\nいい？　いくよ\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私のけつえきがたは\nなにかしってるかしら\n\n# se \"SE_0734\"\n# select \"Ａ型\" \"select_label_1\" \"Ｏ型\" \"select_label_2\" \"Ｂ型\" \"select_label_3\"\n私のけつえきがたは\nなにかしってるかしら\n"
+	},
+	{
+		"ID": 5595,
+		"unitID": 2503121,
+		"questionID": 29503117,
+		"script": ";;イスラエル,2\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 250312 \"solomon_lo_0002\"\n@ソロモン\nおにいさん、しってる？\n\n@ソロモン\nほんをよむと、\nあたまがよくなるの\n\n@ソロモン\nだから、いつもねるまえに\nおにいさんに\nどうわをよんでもらうでしょ？\n\n# face %(unit_a)s \"normal\"\n# voice 250312 \"solomon_lo_0004\"\n@ソロモン\nそのおれいに、\nきょうは私が\nおにいさんにクイズをだしてあげる\n\n@ソロモン\nクイズにちょうせんするのも、\nあたまがよくなるのよ\n\n@ソロモン\nいい？　いくよ\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私のしゅっしんちは\nどこかわかるかしら？\n\n# se \"SE_0734\"\n# select \"イギリス\" \"select_label_1\" \"イスラエル\" \"select_label_2\" \"ロシア\" \"select_label_3\"\n私のしゅっしんちは\nどこかわかるかしら？\n"
+	},
+	{
+		"ID": 5596,
+		"unitID": 2503121,
+		"questionID": 29503118,
+		"script": ";;グラウ,1\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 250312 \"solomon_lo_0002\"\n@ソロモン\nおにいさん、しってる？\n\n@ソロモン\nほんをよむと、\nあたまがよくなるの\n\n@ソロモン\nだから、いつもねるまえに\nおにいさんに\nどうわをよんでもらうでしょ？\n\n# face %(unit_a)s \"normal\"\n# voice 250312 \"solomon_lo_0004\"\n@ソロモン\nそのおれいに、\nきょうは私が\nおにいさんにクイズをだしてあげる\n\n@ソロモン\nクイズにちょうせんするのも、\nあたまがよくなるのよ\n\n@ソロモン\nいい？　いくよ\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私のあいぼうの\nフクロウのなまえはわかる？\n\n# se \"SE_0734\"\n# select \"グラウ\" \"select_label_1\" \"フロウ\" \"select_label_2\" \"フクジロウ\" \"select_label_3\"\n私のあいぼうの\nフクロウのなまえはわかる？\n"
+	},
+	{
+		"ID": 5597,
+		"unitID": 2503121,
+		"questionID": 29503119,
+		"script": ";;フクロウ型,1\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 250312 \"solomon_lo_0002\"\n@ソロモン\nおにいさん、しってる？\n\n@ソロモン\nほんをよむと、\nあたまがよくなるの\n\n@ソロモン\nだから、いつもねるまえに\nおにいさんに\nどうわをよんでもらうでしょ？\n\n# face %(unit_a)s \"normal\"\n# voice 250312 \"solomon_lo_0004\"\n@ソロモン\nそのおれいに、\nきょうは私が\nおにいさんにクイズをだしてあげる\n\n@ソロモン\nクイズにちょうせんするのも、\nあたまがよくなるのよ\n\n@ソロモン\nいい？　いくよ\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私のあいぼうの「グラウ」は\nどんなどうぶつのかたち？\n\n# se \"SE_0734\"\n# select \"フクロウ型\" \"select_label_1\" \"ワシ型\" \"select_label_2\" \"ハト型\" \"select_label_3\"\n私のあいぼうの「グラウ」は\nどんなどうぶつのかたち？\n"
+	},
+	{
+		"ID": 5598,
+		"unitID": 2503121,
+		"questionID": 29503120,
+		"script": ";;光戦神の敬愛,1\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 250312 \"solomon_lo_0002\"\n@ソロモン\nそろそろ、たいようがおちそうね\n\n@ソロモン\nくらくなってから、\nおそとをあるくのはあぶないわ\n\n@ソロモン\nまいごになったらいけないし、\nてをつなぎましょ？\n\n# face %(unit_a)s \"normal\"\n# voice 250312 \"solomon_lo_0003\"\n@ソロモン\nこういうときは、\nてをつなぐのがさいてきかい\n\n# face %(unit_a)s \"usual\"\n@ソロモン\nでも、ただじゃ\nてはつないであげないよ？\n\n@ソロモン\n私のクイズに\nさいてきかいをだせたら、\nてをつないであげるね\n\n@ソロモン\nいくよ\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私のおぼえる\nリーダースキルしってる？\n\n# se \"SE_0734\"\n# select \"光戦神の敬愛\" \"select_label_1\" \"光戦神の友愛\" \"select_label_2\" \"光戦神の熱愛\" \"select_label_3\"\n私のおぼえる\nリーダースキルしってる？\n"
+	},
+	{
+		"ID": 5599,
+		"unitID": 2503121,
+		"questionID": 29503121,
+		"script": ";;シャイニングレイ,1\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 250312 \"solomon_lo_0002\"\n@ソロモン\nそろそろ、たいようがおちそうね\n\n@ソロモン\nくらくなってから、\nおそとをあるくのはあぶないわ\n\n@ソロモン\nまいごになったらいけないし、\nてをつなぎましょ？\n\n# face %(unit_a)s \"normal\"\n# voice 250312 \"solomon_lo_0003\"\n@ソロモン\nこういうときは、\nてをつなぐのがさいてきかい\n\n# face %(unit_a)s \"usual\"\n@ソロモン\nでも、ただじゃ\nてはつないであげないよ？\n\n@ソロモン\n私のクイズに\nさいてきかいをだせたら、\nてをつないであげるね\n\n@ソロモン\nいくよ\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私のおぼえる\nスキルしってる？\n\n# se \"SE_0734\"\n# select \"シャイニングレイ\" \"select_label_1\" \"バーニングレイ\" \"select_label_2\" \"フリージングレイ\" \"select_label_3\"\n私のおぼえる\nスキルしってる？\n"
+	},
+	{
+		"ID": 5600,
+		"unitID": 2503121,
+		"questionID": 29503122,
+		"script": ";;光戦神の恩愛,1\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 250312 \"solomon_lo_0002\"\n@ソロモン\nそろそろ、たいようがおちそうね\n\n@ソロモン\nくらくなってから、\nおそとをあるくのはあぶないわ\n\n@ソロモン\nまいごになったらいけないし、\nてをつなぎましょ？\n\n# face %(unit_a)s \"normal\"\n# voice 250312 \"solomon_lo_0003\"\n@ソロモン\nこういうときは、\nてをつなぐのがさいてきかい\n\n# face %(unit_a)s \"usual\"\n@ソロモン\nでも、ただじゃ\nてはつないであげないよ？\n\n@ソロモン\n私のクイズに\nさいてきかいをだせたら、\nてをつないであげるね\n\n@ソロモン\nいくよ\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の☆６の\nリーダースキルはなにかしら？\n\n# se \"SE_0734\"\n# select \"光戦神の恩愛\" \"select_label_1\" \"光戦神の恩赦\" \"select_label_2\" \"光戦神の恩恵\" \"select_label_3\"\n私の☆６の\nリーダースキルはなにかしら？\n"
+	},
+	{
+		"ID": 5601,
+		"unitID": 2503121,
+		"questionID": 29503123,
+		"script": ";;理を破る者達,3\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 250312 \"solomon_lo_0002\"\n@ソロモン\nそろそろ、たいようがおちそうね\n\n@ソロモン\nくらくなってから、\nおそとをあるくのはあぶないわ\n\n@ソロモン\nまいごになったらいけないし、\nてをつなぎましょ？\n\n# face %(unit_a)s \"normal\"\n# voice 250312 \"solomon_lo_0003\"\n@ソロモン\nこういうときは、\nてをつなぐのがさいてきかい\n\n# face %(unit_a)s \"usual\"\n@ソロモン\nでも、ただじゃ\nてはつないであげないよ？\n\n@ソロモン\n私のクイズに\nさいてきかいをだせたら、\nてをつないであげるね\n\n@ソロモン\nいくよ\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私がおぼえる\nふよスキルはなにかわかる？\n\n# se \"SE_0734\"\n# select \"約束を破る者達\" \"select_label_1\" \"紙を破る者達\" \"select_label_2\" \"理を破る者達\" \"select_label_3\"\n私がおぼえる\nふよスキルはなにかわかる？\n"
+	},
+	{
+		"ID": 5602,
+		"unitID": 2503121,
+		"questionID": 29503124,
+		"script": ";;護神の抑圧,3\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 250312 \"solomon_lo_0002\"\n@ソロモン\nそろそろ、たいようがおちそうね\n\n@ソロモン\nくらくなってから、\nおそとをあるくのはあぶないわ\n\n@ソロモン\nまいごになったらいけないし、\nてをつなぎましょ？\n\n# face %(unit_a)s \"normal\"\n# voice 250312 \"solomon_lo_0003\"\n@ソロモン\nこういうときは、\nてをつなぐのがさいてきかい\n\n# face %(unit_a)s \"usual\"\n@ソロモン\nでも、ただじゃ\nてはつないであげないよ？\n\n@ソロモン\n私のクイズに\nさいてきかいをだせたら、\nてをつないであげるね\n\n@ソロモン\nいくよ\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私がおぼえる\nふよスキルはなにかしら？\n\n# se \"SE_0734\"\n# select \"政治の抑圧\" \"select_label_1\" \"護神の腹圧\" \"select_label_2\" \"護神の抑圧\" \"select_label_3\"\n私がおぼえる\nふよスキルはなにかしら？\n"
+	},
+	{
+		"ID": 5603,
+		"unitID": 2503121,
+		"questionID": 29503125,
+		"script": ";;極限値への収束,3\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 250312 \"solomon_lo_0002\"\n@ソロモン\nそろそろ、たいようがおちそうね\n\n@ソロモン\nくらくなってから、\nおそとをあるくのはあぶないわ\n\n@ソロモン\nまいごになったらいけないし、\nてをつなぎましょ？\n\n# face %(unit_a)s \"normal\"\n# voice 250312 \"solomon_lo_0003\"\n@ソロモン\nこういうときは、\nてをつなぐのがさいてきかい\n\n# face %(unit_a)s \"usual\"\n@ソロモン\nでも、ただじゃ\nてはつないであげないよ？\n\n@ソロモン\n私のクイズに\nさいてきかいをだせたら、\nてをつないであげるね\n\n@ソロモン\nいくよ\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私のおぼえる\nデュエルスキルは\nしってるかしら？\n\n# se \"SE_0734\"\n# select \"極限値への集結\" \"select_label_1\" \"極限値への終点\" \"select_label_2\" \"極限値への収束\" \"select_label_3\"\n私のおぼえる\nデュエルスキルは\nしってるかしら？\n"
+	},
+	{
+		"ID": 5604,
+		"unitID": 2503121,
+		"questionID": 29503126,
+		"script": ";;護神の最適解・改,2\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 250312 \"solomon_lo_0002\"\n@ソロモン\nそろそろ、たいようがおちそうね\n\n@ソロモン\nくらくなってから、\nおそとをあるくのはあぶないわ\n\n@ソロモン\nまいごになったらいけないし、\nてをつなぎましょ？\n\n# face %(unit_a)s \"normal\"\n# voice 250312 \"solomon_lo_0003\"\n@ソロモン\nこういうときは、\nてをつなぐのがさいてきかい\n\n# face %(unit_a)s \"usual\"\n@ソロモン\nでも、ただじゃ\nてはつないであげないよ？\n\n@ソロモン\n私のクイズに\nさいてきかいをだせたら、\nてをつないであげるね\n\n@ソロモン\nいくよ\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私のおぼえる\nコマンドスキルは\nしってるかしら？\n\n# se \"SE_0734\"\n# select \"護神の最適解・怪\" \"select_label_1\" \"護神の最適解・改\" \"select_label_2\" \"護神の最適解・壊\" \"select_label_3\"\n私のおぼえる\nコマンドスキルは\nしってるかしら？\n"
+	},
+	{
+		"ID": 5605,
+		"unitID": 2503121,
+		"questionID": 29503127,
+		"script": ";;理砕『女神の輝眼』,2\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 250312 \"solomon_lo_0002\"\n@ソロモン\nそろそろ、たいようがおちそうね\n\n@ソロモン\nくらくなってから、\nおそとをあるくのはあぶないわ\n\n@ソロモン\nまいごになったらいけないし、\nてをつなぎましょ？\n\n# face %(unit_a)s \"normal\"\n# voice 250312 \"solomon_lo_0003\"\n@ソロモン\nこういうときは、\nてをつなぐのがさいてきかい\n\n# face %(unit_a)s \"usual\"\n@ソロモン\nでも、ただじゃ\nてはつないであげないよ？\n\n@ソロモン\n私のクイズに\nさいてきかいをだせたら、\nてをつないであげるね\n\n@ソロモン\nいくよ\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私のおぼえる\nコマンドスキルは\nしってるかしら？\n\n# se \"SE_0734\"\n# select \"理砕『女神の義眼』\" \"select_label_1\" \"理砕『女神の輝眼』\" \"select_label_2\" \"理砕『女神の眼孔』\" \"select_label_3\"\n私のおぼえる\nコマンドスキルは\nしってるかしら？\n"
+	},
+	{
+		"ID": 5606,
+		"unitID": 2503121,
+		"questionID": 29503128,
+		"script": ";;護神の抵抗,2\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 250312 \"solomon_lo_0002\"\n@ソロモン\nそろそろ、たいようがおちそうね\n\n@ソロモン\nくらくなってから、\nおそとをあるくのはあぶないわ\n\n@ソロモン\nまいごになったらいけないし、\nてをつなぎましょ？\n\n# face %(unit_a)s \"normal\"\n# voice 250312 \"solomon_lo_0003\"\n@ソロモン\nこういうときは、\nてをつなぐのがさいてきかい\n\n# face %(unit_a)s \"usual\"\n@ソロモン\nでも、ただじゃ\nてはつないであげないよ？\n\n@ソロモン\n私のクイズに\nさいてきかいをだせたら、\nてをつないであげるね\n\n@ソロモン\nいくよ\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私がおぼえる\nふよスキルはなにかしら？\n\n# se \"SE_0734\"\n# select \"護神の運動\" \"select_label_1\" \"護神の抵抗\" \"select_label_2\" \"護神の反発\" \"select_label_3\"\n私がおぼえる\nふよスキルはなにかしら？\n"
+	},
+	{
+		"ID": 5607,
+		"unitID": 2503121,
+		"questionID": 29503129,
+		"script": ";;栄光もたらす護神,2\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 250312 \"solomon_lo_0002\"\n@ソロモン\nそろそろ、たいようがおちそうね\n\n@ソロモン\nくらくなってから、\nおそとをあるくのはあぶないわ\n\n@ソロモン\nまいごになったらいけないし、\nてをつなぎましょ？\n\n# face %(unit_a)s \"normal\"\n# voice 250312 \"solomon_lo_0003\"\n@ソロモン\nこういうときは、\nてをつなぐのがさいてきかい\n\n# face %(unit_a)s \"usual\"\n@ソロモン\nでも、ただじゃ\nてはつないであげないよ？\n\n@ソロモン\n私のクイズに\nさいてきかいをだせたら、\nてをつないであげるね\n\n@ソロモン\nいくよ\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私がおぼえる\nふよスキルはなにかしら？\n\n# se \"SE_0734\"\n# select \"栄光もたらす魔神\" \"select_label_1\" \"栄光もたらす護神\" \"select_label_2\" \"栄光もたらす亜人\" \"select_label_3\"\n私がおぼえる\nふよスキルはなにかしら？\n"
+	},
+	{
+		"ID": 5608,
+		"unitID": 2503121,
+		"questionID": 29503130,
+		"script": ";;紀元前1011年頃,3\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 250312 \"solomon_lo_0027\"\n@ソロモン\nおかしいなぁ…\n\n# textflame 0 0\n@\nどうしたの？\nと尋ねるマスター\n\n# textflame 1 1\n# voice 250312 \"solomon_lo_0028\"\n@ソロモン\nぜんぜん、さいてきかいじゃないの\n\n@ソロモン\nおにいさんといっしょにいると、\nじかんがみじかいきがする\n\n@ソロモン\nもうかえるじかんだなんて、\nなんだかたのしくないなぁ\n\n# face %(unit_a)s \"usual\"\n# voice 250312 \"solomon_lo_0002\"\n@ソロモン\nねぇ、おにいさん\n\n@ソロモン\nいまからクイズをだすから、\nせいかいできたらもうすこしあそぼ？\n\n@ソロモン\nいいでしょ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n『ソロモンのゆびわ』をもっていた\nソロモンおうがうまれたのは\nいつくらいかしら？\n\n# se \"SE_0734\"\n# select \"西暦10年頃\" \"select_label_1\" \"西暦1011年頃\" \"select_label_2\" \"紀元前1011年頃\" \"select_label_3\"\n『ソロモンのゆびわ』をもっていた\nソロモンおうがうまれたのは\nいつくらいかしら？\n"
+	},
+	{
+		"ID": 5609,
+		"unitID": 2503121,
+		"questionID": 29503131,
+		"script": ";;October,1\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 250312 \"solomon_lo_0027\"\n@ソロモン\nおかしいなぁ…\n\n# textflame 0 0\n@\nどうしたの？\nと尋ねるマスター\n\n# textflame 1 1\n# voice 250312 \"solomon_lo_0028\"\n@ソロモン\nぜんぜん、さいてきかいじゃないの\n\n@ソロモン\nおにいさんといっしょにいると、\nじかんがみじかいきがする\n\n@ソロモン\nもうかえるじかんだなんて、\nなんだかたのしくないなぁ\n\n# face %(unit_a)s \"usual\"\n# voice 250312 \"solomon_lo_0002\"\n@ソロモン\nねぇ、おにいさん\n\n@ソロモン\nいまからクイズをだすから、\nせいかいできたらもうすこしあそぼ？\n\n@ソロモン\nいいでしょ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私のたんじょうびのつきを\nえいごでなんていうのかしら？\n\n# se \"SE_0734\"\n# select \"October\" \"select_label_1\" \"January\" \"select_label_2\" \"September\" \"select_label_3\"\n私のたんじょうびのつきを\nえいごでなんていうのかしら？\n"
+	},
+	{
+		"ID": 5610,
+		"unitID": 2503121,
+		"questionID": 29503132,
+		"script": ";;チェス,3\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 250312 \"solomon_lo_0027\"\n@ソロモン\nおかしいなぁ…\n\n# textflame 0 0\n@\nどうしたの？\nと尋ねるマスター\n\n# textflame 1 1\n# voice 250312 \"solomon_lo_0028\"\n@ソロモン\nぜんぜん、さいてきかいじゃないの\n\n@ソロモン\nおにいさんといっしょにいると、\nじかんがみじかいきがする\n\n@ソロモン\nもうかえるじかんだなんて、\nなんだかたのしくないなぁ\n\n# face %(unit_a)s \"usual\"\n# voice 250312 \"solomon_lo_0002\"\n@ソロモン\nねぇ、おにいさん\n\n@ソロモン\nいまからクイズをだすから、\nせいかいできたらもうすこしあそぼ？\n\n@ソロモン\nいいでしょ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私がすきな\nボードゲームはなにかしら？\n\n# se \"SE_0734\"\n# select \"けん玉\" \"select_label_1\" \"トントン相撲\" \"select_label_2\" \"チェス\" \"select_label_3\"\n私がすきな\nボードゲームはなにかしら？\n"
+	},
+	{
+		"ID": 5611,
+		"unitID": 2503121,
+		"questionID": 29503133,
+		"script": ";;方天画戟,1\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 250312 \"solomon_lo_0027\"\n@ソロモン\nおかしいなぁ…\n\n# textflame 0 0\n@\nどうしたの？\nと尋ねるマスター\n\n# textflame 1 1\n# voice 250312 \"solomon_lo_0028\"\n@ソロモン\nぜんぜん、さいてきかいじゃないの\n\n@ソロモン\nおにいさんといっしょにいると、\nじかんがみじかいきがする\n\n@ソロモン\nもうかえるじかんだなんて、\nなんだかたのしくないなぁ\n\n# face %(unit_a)s \"usual\"\n# voice 250312 \"solomon_lo_0002\"\n@ソロモン\nねぇ、おにいさん\n\n@ソロモン\nいまからクイズをだすから、\nせいかいできたらもうすこしあそぼ？\n\n@ソロモン\nいいでしょ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私とたんじょうびが\nおなじつきなのはだれ？\n\n# se \"SE_0734\"\n# select \"方天画戟\" \"select_label_1\" \"フランキスカ\" \"select_label_2\" \"デュランダル\" \"select_label_3\"\n私とたんじょうびが\nおなじつきなのはだれ？\n"
+	},
+	{
+		"ID": 5612,
+		"unitID": 2503121,
+		"questionID": 29503134,
+		"script": ";;Libra,2\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 250312 \"solomon_lo_0027\"\n@ソロモン\nおかしいなぁ…\n\n# textflame 0 0\n@\nどうしたの？\nと尋ねるマスター\n\n# textflame 1 1\n# voice 250312 \"solomon_lo_0028\"\n@ソロモン\nぜんぜん、さいてきかいじゃないの\n\n@ソロモン\nおにいさんといっしょにいると、\nじかんがみじかいきがする\n\n@ソロモン\nもうかえるじかんだなんて、\nなんだかたのしくないなぁ\n\n# face %(unit_a)s \"usual\"\n# voice 250312 \"solomon_lo_0002\"\n@ソロモン\nねぇ、おにいさん\n\n@ソロモン\nいまからクイズをだすから、\nせいかいできたらもうすこしあそぼ？\n\n@ソロモン\nいいでしょ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私のせいざを\nえいごでなんていうのかしら？\n\n# se \"SE_0734\"\n# select \"Capricorn\" \"select_label_1\" \"Libra\" \"select_label_2\" \"Taurus\" \"select_label_3\"\n私のせいざを\nえいごでなんていうのかしら？\n"
+	},
+	{
+		"ID": 5613,
+		"unitID": 2503121,
+		"questionID": 29503135,
+		"script": ";;カリス,1\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 250312 \"solomon_lo_0027\"\n@ソロモン\nおかしいなぁ…\n\n# textflame 0 0\n@\nどうしたの？\nと尋ねるマスター\n\n# textflame 1 1\n# voice 250312 \"solomon_lo_0028\"\n@ソロモン\nぜんぜん、さいてきかいじゃないの\n\n@ソロモン\nおにいさんといっしょにいると、\nじかんがみじかいきがする\n\n@ソロモン\nもうかえるじかんだなんて、\nなんだかたのしくないなぁ\n\n# face %(unit_a)s \"usual\"\n# voice 250312 \"solomon_lo_0002\"\n@ソロモン\nねぇ、おにいさん\n\n@ソロモン\nいまからクイズをだすから、\nせいかいできたらもうすこしあそぼ？\n\n@ソロモン\nいいでしょ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私とおなじ\n「でぃすらぷたーず」なのはだれ？\n\n# se \"SE_0734\"\n# select \"カリス\" \"select_label_1\" \"ロンギヌス\" \"select_label_2\" \"カシウス\" \"select_label_3\"\n私とおなじ\n「でぃすらぷたーず」なのはだれ？\n"
+	},
+	{
+		"ID": 5614,
+		"unitID": 2503121,
+		"questionID": 29503136,
+		"script": ";;兵隊,2\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 250312 \"solomon_lo_0027\"\n@ソロモン\nおかしいなぁ…\n\n# textflame 0 0\n@\nどうしたの？\nと尋ねるマスター\n\n# textflame 1 1\n# voice 250312 \"solomon_lo_0028\"\n@ソロモン\nぜんぜん、さいてきかいじゃないの\n\n@ソロモン\nおにいさんといっしょにいると、\nじかんがみじかいきがする\n\n@ソロモン\nもうかえるじかんだなんて、\nなんだかたのしくないなぁ\n\n# face %(unit_a)s \"usual\"\n# voice 250312 \"solomon_lo_0002\"\n@ソロモン\nねぇ、おにいさん\n\n@ソロモン\nいまからクイズをだすから、\nせいかいできたらもうすこしあそぼ？\n\n@ソロモン\nいいでしょ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nチェスでつかうコマの\nポーンはどんないみかしら？\n\n# se \"SE_0734\"\n# select \"女王\" \"select_label_1\" \"兵隊\" \"select_label_2\" \"平民\" \"select_label_3\"\nチェスでつかうコマの\nポーンはどんないみかしら？\n"
+	},
+	{
+		"ID": 5615,
+		"unitID": 2503121,
+		"questionID": 29503137,
+		"script": ";;アスカロン,2\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 250312 \"solomon_lo_0027\"\n@ソロモン\nおかしいなぁ…\n\n# textflame 0 0\n@\nどうしたの？\nと尋ねるマスター\n\n# textflame 1 1\n# voice 250312 \"solomon_lo_0028\"\n@ソロモン\nぜんぜん、さいてきかいじゃないの\n\n@ソロモン\nおにいさんといっしょにいると、\nじかんがみじかいきがする\n\n@ソロモン\nもうかえるじかんだなんて、\nなんだかたのしくないなぁ\n\n# face %(unit_a)s \"usual\"\n# voice 250312 \"solomon_lo_0002\"\n@ソロモン\nねぇ、おにいさん\n\n@ソロモン\nいまからクイズをだすから、\nせいかいできたらもうすこしあそぼ？\n\n@ソロモン\nいいでしょ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私とおなじ\nけつえきがたなのはだれ？\n\n# se \"SE_0734\"\n# select \"シユウ\" \"select_label_1\" \"アスカロン\" \"select_label_2\" \"アフロディーテ\" \"select_label_3\"\n私とおなじ\nけつえきがたなのはだれ？\n"
+	},
+	{
+		"ID": 5616,
+		"unitID": 2503121,
+		"questionID": 29503138,
+		"script": ";;シユウ,1\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 250312 \"solomon_lo_0027\"\n@ソロモン\nおかしいなぁ…\n\n# textflame 0 0\n@\nどうしたの？\nと尋ねるマスター\n\n# textflame 1 1\n# voice 250312 \"solomon_lo_0028\"\n@ソロモン\nぜんぜん、さいてきかいじゃないの\n\n@ソロモン\nおにいさんといっしょにいると、\nじかんがみじかいきがする\n\n@ソロモン\nもうかえるじかんだなんて、\nなんだかたのしくないなぁ\n\n# face %(unit_a)s \"usual\"\n# voice 250312 \"solomon_lo_0002\"\n@ソロモン\nねぇ、おにいさん\n\n@ソロモン\nいまからクイズをだすから、\nせいかいできたらもうすこしあそぼ？\n\n@ソロモン\nいいでしょ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私とちがう\nけつえきがたなのは\nだれかしら？\n\n# se \"SE_0734\"\n# select \"シユウ\" \"select_label_1\" \"アスカロン\" \"select_label_2\" \"フォルカス\" \"select_label_3\"\n私とちがう\nけつえきがたなのは\nだれかしら？\n"
+	},
+	{
+		"ID": 5617,
+		"unitID": 2503121,
+		"questionID": 29503139,
+		"script": ";;アロンダイト,2\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 250312 \"solomon_lo_0027\"\n@ソロモン\nおかしいなぁ…\n\n# textflame 0 0\n@\nどうしたの？\nと尋ねるマスター\n\n# textflame 1 1\n# voice 250312 \"solomon_lo_0028\"\n@ソロモン\nぜんぜん、さいてきかいじゃないの\n\n@ソロモン\nおにいさんといっしょにいると、\nじかんがみじかいきがする\n\n@ソロモン\nもうかえるじかんだなんて、\nなんだかたのしくないなぁ\n\n# face %(unit_a)s \"usual\"\n# voice 250312 \"solomon_lo_0002\"\n@ソロモン\nねぇ、おにいさん\n\n@ソロモン\nいまからクイズをだすから、\nせいかいできたらもうすこしあそぼ？\n\n@ソロモン\nいいでしょ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私とおなじたんじょうびの\nつきじゃないのは\nだれかわかるかしら？\n\n# se \"SE_0734\"\n# select \"テュルソス\" \"select_label_1\" \"アロンダイト\" \"select_label_2\" \"方天画戟\" \"select_label_3\"\n私とおなじたんじょうびの\nつきじゃないのは\nだれかわかるかしら？\n"
+	},
+	{
+		"ID": 5618,
+		"unitID": 2503121,
+		"questionID": 29503140,
+		"script": "\n;;私,1\n# se \"SE_0734\"\n# select \"私\" \"select_label_1\" \"ミー\" \"select_label_2\" \"ウチ\" \"select_label_3\"\nソロモンの一人称は\n次のうちどれでしょうか？\n"
+	},
+	{
+		"ID": 5619,
+		"unitID": 2503121,
+		"questionID": 29503141,
+		"script": "\n;;貴方,3\n# se \"SE_0734\"\n# select \"ユー\" \"select_label_1\" \"そなた\" \"select_label_2\" \"貴方\" \"select_label_3\"\nソロモンはマスターのこと、\nなんと呼んでますか？\n"
+	},
+	{
+		"ID": 5620,
+		"unitID": 2503121,
+		"questionID": 29503142,
+		"script": "\n;;茶色,2\n# se \"SE_0734\"\n# select \"黄色\" \"select_label_1\" \"茶色\" \"select_label_2\" \"白色\" \"select_label_3\"\nソロモンの髪の色は\n次のうちどれでしょう？\n"
+	},
+	{
+		"ID": 5621,
+		"unitID": 2503121,
+		"questionID": 29503143,
+		"script": "\n;;1位,1\n# se \"SE_0734\"\n# select \"1位\" \"select_label_1\" \"２位\" \"select_label_2\" \"３位\" \"select_label_3\"\nソロモンは\n第４回人気投票で\n何位だったでしょうか？\n"
+	},
+	{
+		"ID": 5622,
+		"unitID": 2503121,
+		"questionID": 29503144,
+		"script": "\n;;秦佐和子,3\n# se \"SE_0734\"\n# select \"井澤詩織\" \"select_label_1\" \"佐倉綾音\" \"select_label_2\" \"秦佐和子\" \"select_label_3\"\nソロモンの声優は誰でしょう？\n"
+	}
+]

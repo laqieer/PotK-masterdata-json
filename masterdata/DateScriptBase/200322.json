@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 200322,
+		"script": "# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_fireworks\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 2003 \"loveryus_0023\"\n@ラブリュス\n…え、それって\n誰が、誰に…？\n\n# textflame 1 1\n@ラブリュス\nま、まさか…\nファンの前で…\nマスターがわたしに！？\n\n# textflame 0 0\n@\nラブリュスの顔が\n一瞬にして真っ赤になる…\n\n# voice 2003 \"loveryus_0011\"\n# textflame 1 1\n@ラブリュス\nだ、ダメだよ～！\n応援してくれたみんなが\nびっくりして悲しんじゃう！\n\n# face %(unit_a)s \"angry\"\n# textflame 1 1\n@ラブリュス\nら、ラブリュスちゃんはアイドル…\nみんなのアイドルだから！\n\n# textflame 0 0\n@\nラブリュスは必死だ\nそんな姿が可愛くて\nマスターは笑ってしまっていた\n\n# voice 2003 \"loveryus_0042\"\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@ラブリュス\nなんで笑うの！？\nラブリュスちゃん…\n真剣に悩んでるのに！\n\n# textflame 0 0\n@\nラブリュスが困ったり\n悲しむようなことは絶対しない\nマスターはそう約束する\n\n# voice 2003 \"loveryus_0003\"\n# textflame 1 1\n@ラブリュス\nうん…\nで、でもね…？\n\n# voice 2003 \"loveryus_0004\"\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@ラブリュス\n告白は…こっそりなら…\nしてほしい、かな…？\n\n# textflame 0 0\n@\n特大の破裂音が響く\nでもマスターの耳に\n彼女の言葉はしっかり届いていた――\n;;----------------------------------------\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

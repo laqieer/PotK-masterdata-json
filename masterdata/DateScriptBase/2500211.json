@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 2500211,
+		"script": ";;CBA\n;;■□■赤・黒フライクーゲル_デート_2018080714■□■\n;;モノローグ\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_concert\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 0 0\n@\nマスターは\nフライクーゲルを連れて\nライブハウスへとやってきた\n\n# face 2500221 \"smile\"\n# textflame 1 1\n@フライクーゲル\nわぉ！？\n入った瞬間にものすごい振動がっ！？\n\n@フライクーゲル\nライブハウスははじめてだけど\nこんなにヒートアップ\nしてるものなの！？\n\n@フライクーゲル\nここまで人を熱狂させるなんて\nかなりヘヴィな場所なのね！\n\n@フライクーゲル\nなんてパワフルなビート！\nこれに熱くなる人たち全員の\nヘァピィな歓声…これは…\n\n# select \"さすがに邪魔するのはよくないよ？\" \"select_label_01\" \"ノリノリになっちゃう？\" \"select_label_02\" \"気に入ってくれた？\" \"select_label_03\"\nなんてパワフルなビート！\nこれに熱くなる人たち全員の\nヘァピィな歓声…これは…\n\n# label \"select_label_01\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_02\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_03\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_end\"\n# waitandnext 0.1\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

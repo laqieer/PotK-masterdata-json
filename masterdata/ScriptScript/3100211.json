@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 3100211,
+		"script": "# script \"lisp\"\n# background \"highland_evening\"\n# bgm \"bgm004\" 0\n;;ティル準備\n# body 101411\n# pos 101411 5\n# face 101411 \"surprised\"\n;;デュリン準備\n# body 0\n# pos 0 1\n;;セイバー準備\n# body 102411\n# pos 102411 3\n# serif 0\n# textflame 0 0\n# textboxarrow 0 0\n@\nセイバーの案内で、\n湖までやってきた\nティルフィング達\n\n# serif 0\n# textflame 0 0\n# textboxarrow 0 0\n@\nその中心にそびえる岩場に、\n一振りの剣が突き立っていた\n\n# serif 1\n# textflame 1 1\n# textboxarrow 1 1\n# voice 9999 \"pok_collabo2_1_0133_durin\"\n@デュリン\nうわっ！\nなによ、このマナの密度！？\nなんでこんなところに！？\n\n# serif 1\n# textflame 1 1\n# textboxarrow 1 2\n# voice 1024 \"pok_collabo2_1_0135_saber\"\n@セイバー\nあれは…間違いありません\n“あれが私です”\n\n# serif 0\n# textflame 0 0\n# textboxarrow 0 0\n@\nセイバーは加護の力によって\n水面を歩き、\n湖を渡り岩場へ向かうと\n\n# serif 0\n# textflame 0 0\n# textboxarrow 0 0\n@\nそのまま吸い込まれるように、\n剣の柄に手をかけ——\n\n# serif 1\n# textflame 1 1\n# textboxarrow 1 2\n# face 102411 \"sad\"\n# voice 1024 \"pok_collabo2_1_0136_saber\"\n@セイバー\n…っ！\n\n# serif 0\n# textflame 0 0\n# textboxarrow 0 0\n@\n…一瞬の躊躇の後に、\nかの剣は音もなく引き抜かれた\n\n# serif 1\n# textflame 1 1\n# textboxarrow 1 2\n# face 102411 \"normal\"\n# voice 1024 \"pok_collabo2_1_0137_saber\"\n@セイバー\n確かに、これは…！\n\n# serif 1\n# textflame 1 1\n# textboxarrow 1 2\n# voice 1024 \"pok_collabo2_1_0138_saber\"\n@セイバー\nこれならば——\nかの英雄王にも届く"
+	}
+]

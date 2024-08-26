@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 1420702,
+		"script": ";;【４－２－１（バトル後）】\n# background \"004_outland\"\n# bgm \"bgm005\" 0\n# body 24\n# pos 24 1\n# scale 24 0.8 0\n# alpha 24 1 0\n# body 0\n# pos 0 3\n# scale 0 0.8 0\n# alpha 0 1 0\n# face 0 \"usual2\"\n# body 4\n# pos 4 5\n# scale 4 0.8 0\n# alpha 4 1 0\n;;# voice 1014 \"\"\n# face 24 \"normal\"\n# textboxarrow 0 1\n@ティルフィング\nハァ…ハァ…\nひとまず、大きな集団は\n殲滅し終えたわ。…お爺さんは？\n\n;;# voice 9999 \"\"\n# face 0 \"normal\"\n# textboxarrow 0 2\n@デュリン\nえ？あれ…？\nどこに行ったのかしら？\nまさか…異族に呑まれたんじゃ…！？\n\n# voice 9998 \"toto_0002\"\n# face 4 \"normal\"\n# textboxarrow 0 3\n@トト\nあれ…違う？\nあの…すっごく先のほうにある、\n小さな点…\n\n# voice 9999 \"durin_0010\"\n# face 0 \"serious\"\n# textboxarrow 0 2\n@デュリン\nウソでしょ！？\nいつの間に、あんな遠くまで！？\n…異族は？\n\n;;# voice 1014 \"\"\n;;# face 24 \"\"\n# textboxarrow 0 1\n@ティルフィング\n…あの方角には、\n気配は無さそうだけど…追いますか？\n\n;;# voice 9999 \"\"\n# face 0 \"normal\"\n# textboxarrow 0 2\n@デュリン\nいいわよ、危険が無いのなら…\nあの爺さんにかまけてたら、\nどんどん村から離れちゃうもの\n\n;;# voice 9999 \"\"\n;;# face 0 \"\"\n# textboxarrow 0 2\n@デュリン\n早いとこ村に戻って、\n入域許可証を持つ人間の情報を\n探りましょう"
+	}
+]

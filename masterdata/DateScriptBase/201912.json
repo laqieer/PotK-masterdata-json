@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 201912,
+		"script": ";;通は砂糖とミルクを入れる A\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_cafe\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# voice 2019 \"chihyu_0023\"\n@シユウ\nほ、ほんとうか！？\nそれはしんじょーほー！\n\n# face %(unit_a)s \"angry\"\n@シユウ\nしろうとちしきで、\nあやまるところだった！\n\n# eye %(unit_a)s \"close\"\n@シユウ\nさとうがいっこ～♪\nにこ、さんこ、よんこ…\n…ごこ！\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"smile\"\n# voice 2019 \"chihyu_0020\"\n@シユウ\nみるくをいれて…\nかんせー！\n\n# textflame 0 0\n@\n珈琲は白に近い色になる\nさらに溶け切っていない\n砂糖がドロリと見てとれる\n\n# textflame 1 1\n@シユウ\nぐびぐびっ！\n…ぷはぁっ！\nつうののみかたはさいこうだな！\n\n# textflame 0 0\n@\nシユウは口の周りを白くして喜ぶ\nそして満足げに胸を張った\n\n# textflame 1 1\n# eye %(unit_a)s \"close\"\n# voice 2019 \"chihyu_0004\"\n@シユウ\nこれでシユウもおとなのなかま！\nかふぇでこーひーたっせい！\n\n# textflame 0 0\n@\n上機嫌のシユウとケーキを愉しむ\n騒がしく楽しいカフェを楽しんだ\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

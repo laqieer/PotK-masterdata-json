@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 110204017,
+		"script": ";;------------------------------------------------------------\n;;背景：平原\n;;ステージ16：211002055\n;;戦闘なし会話のみ\n;;------------------------------------------------------------\n# script \"lisp\"\n# background \"plain\"\n# bgmfile \"bgm400_1\" \"BgmIntegralNoahEvent\" 0\n# body 103611\n# pos 103611 2\n# scale 103611 0.8 0\n# body 196\n# pos 196 4\n# scale 196 0.8 0\n# layer 103611 1\n# layer 196 2\n# mask 103611 off\n# mask 196 off\n# textwindow \"nomal\"\n# face 103611 \"usual\"\n# face 196 \"normal\"\n# textflame 1 1\n# textboxarrow 0 3\n# voice 9943 \"almace_navikan_0002\"\n@アルマス\nマスターロードミッションは\nもう見た？\n\n# voice 1036 \"ragnarok_0001\"\n# textboxarrow 0 1\n@ラグナロク\nマスターロードミッションは\n９つの異なるミッションを\nクリアしていくものよ\n\n# face 196 \"happy\"\n# textboxarrow 0 3\n@アルマス\nパネルミッションから\n見られるから、\n確認してみて\n\n# textboxarrow 0 1\n@ラグナロク\nミッションは各機能を\n試してもらうような内容の\nものが多いから\n\n# face 103611 \"happy\"\n@ラグナロク\nいろいろな機能に慣れる意味も\n含めてクリアすることを\nおすすめするわ"
+	}
+]

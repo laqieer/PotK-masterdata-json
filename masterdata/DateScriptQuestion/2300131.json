@@ -1,0 +1,254 @@
+[
+	{
+		"ID": 6011,
+		"unitID": 2300131,
+		"questionID": 39300101,
+		"script": ";;ヘブライ神話,2\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 230013 \"ronginusu_lo_0002\"\n@ロンギヌス\nあの…おにいさん\n\n@ロンギヌス\nいつもたたかいで\nつかれてるのに、\nあそびにつれてきてくれて…\n\n# voice 230013 \"ronginusu_lo_0031\"\n@ロンギヌス\nごめんなさい\n\n# textflame 0 0\n@\n申し訳なさそうに頭を下げる彼女に、\nマスターは言う\n\n@\nそういう時は、\nありがとうでいいんだよ\n…と\n\n# textflame 1 1\n@ロンギヌス\nえ？で、でも…\n\n# textflame 0 0\n@\nじゃあ、君が出すクイズに\n答えられたら言ってくれるかな？\n…と提案するマスター\n\n# face %(unit_a)s \"normal\"\n# voice 230013 \"ronginusu_lo_0032\"\n# textflame 1 1\n@ロンギヌス\nは、はい…！\n\n@ロンギヌス\nじゃあクイズ、だしますね！\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私のキラーズ『ロンギヌスのやり』は\nなんのしんわにでてくるか\nしってますか？\n\n# se \"SE_0734\"\n# select \"日本神話\" \"select_label_1\" \"ヘブライ神話\" \"select_label_2\" \"ヴァヌシュ神話\" \"select_label_3\"\n私のキラーズ『ロンギヌスのやり』は\nなんのしんわにでてくるか\nしってますか？\n"
+	},
+	{
+		"ID": 6012,
+		"unitID": 2300131,
+		"questionID": 39300102,
+		"script": ";;聖人,3\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 230013 \"ronginusu_lo_0002\"\n@ロンギヌス\nあの…おにいさん\n\n@ロンギヌス\nいつもたたかいで\nつかれてるのに、\nあそびにつれてきてくれて…\n\n# voice 230013 \"ronginusu_lo_0031\"\n@ロンギヌス\nごめんなさい\n\n# textflame 0 0\n@\n申し訳なさそうに頭を下げる彼女に、\nマスターは言う\n\n@\nそういう時は、\nありがとうでいいんだよ\n…と\n\n# textflame 1 1\n@ロンギヌス\nえ？で、でも…\n\n# textflame 0 0\n@\nじゃあ、君が出すクイズに\n答えられたら言ってくれるかな？\n…と提案するマスター\n\n# face %(unit_a)s \"normal\"\n# voice 230013 \"ronginusu_lo_0032\"\n# textflame 1 1\n@ロンギヌス\nは、はい…！\n\n@ロンギヌス\nじゃあクイズ、だしますね！\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私のキラーズ『ロンギヌスのやり』は\nなにをさしたといわれてますか？\n\n# se \"SE_0734\"\n# select \"悪魔\" \"select_label_1\" \"魔獣\" \"select_label_2\" \"聖人\" \"select_label_3\"\n私のキラーズ『ロンギヌスのやり』は\nなにをさしたといわれてますか？\n"
+	},
+	{
+		"ID": 6013,
+		"unitID": 2300131,
+		"questionID": 39300103,
+		"script": ";;聖遺物,2\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 230013 \"ronginusu_lo_0002\"\n@ロンギヌス\nあの…おにいさん\n\n@ロンギヌス\nいつもたたかいで\nつかれてるのに、\nあそびにつれてきてくれて…\n\n# voice 230013 \"ronginusu_lo_0031\"\n@ロンギヌス\nごめんなさい\n\n# textflame 0 0\n@\n申し訳なさそうに頭を下げる彼女に、\nマスターは言う\n\n@\nそういう時は、\nありがとうでいいんだよ\n…と\n\n# textflame 1 1\n@ロンギヌス\nえ？で、でも…\n\n# textflame 0 0\n@\nじゃあ、君が出すクイズに\n答えられたら言ってくれるかな？\n…と提案するマスター\n\n# face %(unit_a)s \"normal\"\n# voice 230013 \"ronginusu_lo_0032\"\n# textflame 1 1\n@ロンギヌス\nは、はい…！\n\n@ロンギヌス\nじゃあクイズ、だしますね！\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私のキラーズ『ロンギヌスのやり』は\nなんとよばれていますか？\n\n# se \"SE_0734\"\n# select \"神秘物\" \"select_label_1\" \"聖遺物\" \"select_label_2\" \"新兵器\" \"select_label_3\"\n私のキラーズ『ロンギヌスのやり』は\nなんとよばれていますか？\n"
+	},
+	{
+		"ID": 6014,
+		"unitID": 2300131,
+		"questionID": 39300104,
+		"script": ";;新約聖書,1\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 230013 \"ronginusu_lo_0002\"\n@ロンギヌス\nあの…おにいさん\n\n@ロンギヌス\nいつもたたかいで\nつかれてるのに、\nあそびにつれてきてくれて…\n\n# voice 230013 \"ronginusu_lo_0031\"\n@ロンギヌス\nごめんなさい\n\n# textflame 0 0\n@\n申し訳なさそうに頭を下げる彼女に、\nマスターは言う\n\n@\nそういう時は、\nありがとうでいいんだよ\n…と\n\n# textflame 1 1\n@ロンギヌス\nえ？で、でも…\n\n# textflame 0 0\n@\nじゃあ、君が出すクイズに\n答えられたら言ってくれるかな？\n…と提案するマスター\n\n# face %(unit_a)s \"normal\"\n# voice 230013 \"ronginusu_lo_0032\"\n# textflame 1 1\n@ロンギヌス\nは、はい…！\n\n@ロンギヌス\nじゃあクイズ、だしますね！\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私のキラーズ『ロンギヌスのやり』は\nなんのほんにかかれていますか？\n\n# se \"SE_0734\"\n# select \"新約聖書\" \"select_label_1\" \"旧約聖書\" \"select_label_2\" \"死海文書\" \"select_label_3\"\n私のキラーズ『ロンギヌスのやり』は\nなんのほんにかかれていますか？\n"
+	},
+	{
+		"ID": 6015,
+		"unitID": 2300131,
+		"questionID": 39300105,
+		"script": ";;脇腹,3\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 230013 \"ronginusu_lo_0002\"\n@ロンギヌス\nあの…おにいさん\n\n@ロンギヌス\nいつもたたかいで\nつかれてるのに、\nあそびにつれてきてくれて…\n\n# voice 230013 \"ronginusu_lo_0031\"\n@ロンギヌス\nごめんなさい\n\n# textflame 0 0\n@\n申し訳なさそうに頭を下げる彼女に、\nマスターは言う\n\n@\nそういう時は、\nありがとうでいいんだよ\n…と\n\n# textflame 1 1\n@ロンギヌス\nえ？で、でも…\n\n# textflame 0 0\n@\nじゃあ、君が出すクイズに\n答えられたら言ってくれるかな？\n…と提案するマスター\n\n# face %(unit_a)s \"normal\"\n# voice 230013 \"ronginusu_lo_0032\"\n# textflame 1 1\n@ロンギヌス\nは、はい…！\n\n@ロンギヌス\nじゃあクイズ、だしますね！\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私のキラーズ『ロンギヌスのやり』は\nえらいひとのどこをさしたと\nいわれていますか？\n\n# se \"SE_0734\"\n# select \"心臓\" \"select_label_1\" \"太もも\" \"select_label_2\" \"脇腹\" \"select_label_3\"\n私のキラーズ『ロンギヌスのやり』は\nえらいひとのどこをさしたと\nいわれていますか？\n"
+	},
+	{
+		"ID": 6016,
+		"unitID": 2300131,
+		"questionID": 39300106,
+		"script": ";;白内障,3\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 230013 \"ronginusu_lo_0002\"\n@ロンギヌス\nあの…おにいさん\n\n@ロンギヌス\nいつもたたかいで\nつかれてるのに、\nあそびにつれてきてくれて…\n\n# voice 230013 \"ronginusu_lo_0031\"\n@ロンギヌス\nごめんなさい\n\n# textflame 0 0\n@\n申し訳なさそうに頭を下げる彼女に、\nマスターは言う\n\n@\nそういう時は、\nありがとうでいいんだよ\n…と\n\n# textflame 1 1\n@ロンギヌス\nえ？で、でも…\n\n# textflame 0 0\n@\nじゃあ、君が出すクイズに\n答えられたら言ってくれるかな？\n…と提案するマスター\n\n# face %(unit_a)s \"normal\"\n# voice 230013 \"ronginusu_lo_0032\"\n# textflame 1 1\n@ロンギヌス\nは、はい…！\n\n@ロンギヌス\nじゃあクイズ、だしますね！\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私のキラーズ『ロンギヌスのやり』で\nながれたえらいひとのちは、\nなにをなおしたといわれていますか？\n\n# se \"SE_0734\"\n# select \"糖尿病\" \"select_label_1\" \"喘息\" \"select_label_2\" \"白内障\" \"select_label_3\"\n私のキラーズ『ロンギヌスのやり』で\nながれたえらいひとのちは、\nなにをなおしたといわれていますか？\n"
+	},
+	{
+		"ID": 6017,
+		"unitID": 2300131,
+		"questionID": 39300107,
+		"script": ";;ロンギヌス,1\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 230013 \"ronginusu_lo_0002\"\n@ロンギヌス\nあの…おにいさん\n\n@ロンギヌス\nいつもたたかいで\nつかれてるのに、\nあそびにつれてきてくれて…\n\n# voice 230013 \"ronginusu_lo_0031\"\n@ロンギヌス\nごめんなさい\n\n# textflame 0 0\n@\n申し訳なさそうに頭を下げる彼女に、\nマスターは言う\n\n@\nそういう時は、\nありがとうでいいんだよ\n…と\n\n# textflame 1 1\n@ロンギヌス\nえ？で、でも…\n\n# textflame 0 0\n@\nじゃあ、君が出すクイズに\n答えられたら言ってくれるかな？\n…と提案するマスター\n\n# face %(unit_a)s \"normal\"\n# voice 230013 \"ronginusu_lo_0032\"\n# textflame 1 1\n@ロンギヌス\nは、はい…！\n\n@ロンギヌス\nじゃあクイズ、だしますね！\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私のキラーズ『ロンギヌスのやり』を\nつかったひとのなまえをしってますか？\n\n# se \"SE_0734\"\n# select \"ロンギヌス\" \"select_label_1\" \"ランペイジ\" \"select_label_2\" \"カシウス\" \"select_label_3\"\n私のキラーズ『ロンギヌスのやり』を\nつかったひとのなまえをしってますか？\n"
+	},
+	{
+		"ID": 6018,
+		"unitID": 2300131,
+		"questionID": 39300108,
+		"script": ";;死亡確認,2\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 230013 \"ronginusu_lo_0002\"\n@ロンギヌス\nあの…おにいさん\n\n@ロンギヌス\nいつもたたかいで\nつかれてるのに、\nあそびにつれてきてくれて…\n\n# voice 230013 \"ronginusu_lo_0031\"\n@ロンギヌス\nごめんなさい\n\n# textflame 0 0\n@\n申し訳なさそうに頭を下げる彼女に、\nマスターは言う\n\n@\nそういう時は、\nありがとうでいいんだよ\n…と\n\n# textflame 1 1\n@ロンギヌス\nえ？で、でも…\n\n# textflame 0 0\n@\nじゃあ、君が出すクイズに\n答えられたら言ってくれるかな？\n…と提案するマスター\n\n# face %(unit_a)s \"normal\"\n# voice 230013 \"ronginusu_lo_0032\"\n# textflame 1 1\n@ロンギヌス\nは、はい…！\n\n@ロンギヌス\nじゃあクイズ、だしますね！\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私のキラーズ『ロンギヌスのやり』は\nなにをするために\nつかわれたかしっていますか？\n\n# se \"SE_0734\"\n# select \"処刑用\" \"select_label_1\" \"死亡確認\" \"select_label_2\" \"強度を試すため\" \"select_label_3\"\n私のキラーズ『ロンギヌスのやり』は\nなにをするために\nつかわれたかしっていますか？\n"
+	},
+	{
+		"ID": 6019,
+		"unitID": 2300131,
+		"questionID": 39300109,
+		"script": ";;ロンの槍,2\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 230013 \"ronginusu_lo_0002\"\n@ロンギヌス\nあの…おにいさん\n\n@ロンギヌス\nいつもたたかいで\nつかれてるのに、\nあそびにつれてきてくれて…\n\n# voice 230013 \"ronginusu_lo_0031\"\n@ロンギヌス\nごめんなさい\n\n# textflame 0 0\n@\n申し訳なさそうに頭を下げる彼女に、\nマスターは言う\n\n@\nそういう時は、\nありがとうでいいんだよ\n…と\n\n# textflame 1 1\n@ロンギヌス\nえ？で、でも…\n\n# textflame 0 0\n@\nじゃあ、君が出すクイズに\n答えられたら言ってくれるかな？\n…と提案するマスター\n\n# face %(unit_a)s \"normal\"\n# voice 230013 \"ronginusu_lo_0032\"\n# textflame 1 1\n@ロンギヌス\nは、はい…！\n\n@ロンギヌス\nじゃあクイズ、だしますね！\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私のキラーズ『ロンギヌスのやり』は\nあるやりといっしょとされていますが、\nなにかわかりますか？\n\n# se \"SE_0734\"\n# select \"ハリーの槍\" \"select_label_1\" \"ロンの槍\" \"select_label_2\" \"フォイの槍\" \"select_label_3\"\n私のキラーズ『ロンギヌスのやり』は\nあるやりといっしょとされていますが、\nなにかわかりますか？\n"
+	},
+	{
+		"ID": 6020,
+		"unitID": 2300131,
+		"questionID": 39300110,
+		"script": ";;アーサー王物語,1\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 230013 \"ronginusu_lo_0002\"\n@ロンギヌス\nあの…おにいさん\n\n@ロンギヌス\nいつもたたかいで\nつかれてるのに、\nあそびにつれてきてくれて…\n\n# voice 230013 \"ronginusu_lo_0031\"\n@ロンギヌス\nごめんなさい\n\n# textflame 0 0\n@\n申し訳なさそうに頭を下げる彼女に、\nマスターは言う\n\n@\nそういう時は、\nありがとうでいいんだよ\n…と\n\n# textflame 1 1\n@ロンギヌス\nえ？で、でも…\n\n# textflame 0 0\n@\nじゃあ、君が出すクイズに\n答えられたら言ってくれるかな？\n…と提案するマスター\n\n# face %(unit_a)s \"normal\"\n# voice 230013 \"ronginusu_lo_0032\"\n# textflame 1 1\n@ロンギヌス\nは、はい…！\n\n@ロンギヌス\nじゃあクイズ、だしますね！\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私のキラーズ『ロンギヌスのやり』は\nロンのやりとおなじっていわれてます、\nなににかかれているかわかりますか？\n\n# se \"SE_0734\"\n# select \"アーサー王物語\" \"select_label_1\" \"指輪物語\" \"select_label_2\" \"百物語\" \"select_label_3\"\n私のキラーズ『ロンギヌスのやり』は\nロンのやりとおなじっていわれてます、\nなににかかれているかわかりますか？\n"
+	},
+	{
+		"ID": 6021,
+		"unitID": 2300131,
+		"questionID": 39300111,
+		"script": ";;氷,2\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 230013 \"ronginusu_lo_0002\"\n@ロンギヌス\nきょうはたのしかったです\n\n@ロンギヌス\nかえったら、かみさまに\nおいのりをささげますね\n\n@ロンギヌス\nすてきないちにちを\nありがとうございましたって\n\n# voice 230013 \"ronginusu_lo_0022\"\n@ロンギヌス\nえ？おにいさんもいっしょに、\nおいのりしてくれるんですか？\n\n# face %(unit_a)s \"sad\"\n# voice 230013 \"ronginusu_lo_0028\"\n@ロンギヌス\nでも、おいのりは\nわたしがかってに\nしていることだから…\n\n@ロンギヌス\nおにいさんもいっしょになんて、\nわるいです…\n\n# textflame 0 0\n@\nじゃあ、君のクイズに正解できたら\n一緒にお祈りしていい？\nと提案するマスター\n\n# voice 230013 \"ronginusu_lo_0032\"\n# textflame 1 1\n@ロンギヌス\nえ？\nわ、わかりました…！\n\n# face %(unit_a)s \"normal\"\n@ロンギヌス\nじゃあ、いきますね！\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私のぞくせい…\nおぼえていますか？\n\n# se \"SE_0734\"\n# select \"風\" \"select_label_1\" \"氷\" \"select_label_2\" \"光\" \"select_label_3\"\n私のぞくせい…\nおぼえていますか？\n"
+	},
+	{
+		"ID": 6022,
+		"unitID": 2300131,
+		"questionID": 39300112,
+		"script": ";;4月13日,2\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 230013 \"ronginusu_lo_0002\"\n@ロンギヌス\nきょうはたのしかったです\n\n@ロンギヌス\nかえったら、かみさまに\nおいのりをささげますね\n\n@ロンギヌス\nすてきないちにちを\nありがとうございましたって\n\n# voice 230013 \"ronginusu_lo_0022\"\n@ロンギヌス\nえ？おにいさんもいっしょに、\nおいのりしてくれるんですか？\n\n# face %(unit_a)s \"sad\"\n# voice 230013 \"ronginusu_lo_0028\"\n@ロンギヌス\nでも、おいのりは\nわたしがかってに\nしていることだから…\n\n@ロンギヌス\nおにいさんもいっしょになんて、\nわるいです…\n\n# textflame 0 0\n@\nじゃあ、君のクイズに正解できたら\n一緒にお祈りしていい？\nと提案するマスター\n\n# voice 230013 \"ronginusu_lo_0032\"\n# textflame 1 1\n@ロンギヌス\nえ？\nわ、わかりました…！\n\n# face %(unit_a)s \"normal\"\n@ロンギヌス\nじゃあ、いきますね！\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私のたんじょうびは、\nいつでしょう…\nおぼえてますか？\n\n# se \"SE_0734\"\n# select \"4月23日\" \"select_label_1\" \"4月13日\" \"select_label_2\" \"12月3日\" \"select_label_3\"\n私のたんじょうびは、\nいつでしょう…\nおぼえてますか？\n"
+	},
+	{
+		"ID": 6023,
+		"unitID": 2300131,
+		"questionID": 39300113,
+		"script": ";;おひつじ座,3\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 230013 \"ronginusu_lo_0002\"\n@ロンギヌス\nきょうはたのしかったです\n\n@ロンギヌス\nかえったら、かみさまに\nおいのりをささげますね\n\n@ロンギヌス\nすてきないちにちを\nありがとうございましたって\n\n# voice 230013 \"ronginusu_lo_0022\"\n@ロンギヌス\nえ？おにいさんもいっしょに、\nおいのりしてくれるんですか？\n\n# face %(unit_a)s \"sad\"\n# voice 230013 \"ronginusu_lo_0028\"\n@ロンギヌス\nでも、おいのりは\nわたしがかってに\nしていることだから…\n\n@ロンギヌス\nおにいさんもいっしょになんて、\nわるいです…\n\n# textflame 0 0\n@\nじゃあ、君のクイズに正解できたら\n一緒にお祈りしていい？\nと提案するマスター\n\n# voice 230013 \"ronginusu_lo_0032\"\n# textflame 1 1\n@ロンギヌス\nえ？\nわ、わかりました…！\n\n# face %(unit_a)s \"normal\"\n@ロンギヌス\nじゃあ、いきますね！\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私のせいざ、わかりますか？\n\n# se \"SE_0734\"\n# select \"しし座\" \"select_label_1\" \"ふたご座\" \"select_label_2\" \"おひつじ座\" \"select_label_3\"\n私のせいざ、わかりますか？\n"
+	},
+	{
+		"ID": 6024,
+		"unitID": 2300131,
+		"questionID": 39300114,
+		"script": ";;キャンドル,3\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 230013 \"ronginusu_lo_0002\"\n@ロンギヌス\nきょうはたのしかったです\n\n@ロンギヌス\nかえったら、かみさまに\nおいのりをささげますね\n\n@ロンギヌス\nすてきないちにちを\nありがとうございましたって\n\n# voice 230013 \"ronginusu_lo_0022\"\n@ロンギヌス\nえ？おにいさんもいっしょに、\nおいのりしてくれるんですか？\n\n# face %(unit_a)s \"sad\"\n# voice 230013 \"ronginusu_lo_0028\"\n@ロンギヌス\nでも、おいのりは\nわたしがかってに\nしていることだから…\n\n@ロンギヌス\nおにいさんもいっしょになんて、\nわるいです…\n\n# textflame 0 0\n@\nじゃあ、君のクイズに正解できたら\n一緒にお祈りしていい？\nと提案するマスター\n\n# voice 230013 \"ronginusu_lo_0032\"\n# textflame 1 1\n@ロンギヌス\nえ？\nわ、わかりました…！\n\n# face %(unit_a)s \"normal\"\n@ロンギヌス\nじゃあ、いきますね！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nクリスマスのときの私、\nてになにをもっていたか、\nおぼえていますか？\n\n# se \"SE_0734\"\n# select \"槍\" \"select_label_1\" \"トマト\" \"select_label_2\" \"キャンドル\" \"select_label_3\"\nクリスマスのときの私、\nてになにをもっていたか、\nおぼえていますか？\n"
+	},
+	{
+		"ID": 6025,
+		"unitID": 2300131,
+		"questionID": 39300115,
+		"script": ";;トマトジュース,2\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 230013 \"ronginusu_lo_0002\"\n@ロンギヌス\nきょうはたのしかったです\n\n@ロンギヌス\nかえったら、かみさまに\nおいのりをささげますね\n\n@ロンギヌス\nすてきないちにちを\nありがとうございましたって\n\n# voice 230013 \"ronginusu_lo_0022\"\n@ロンギヌス\nえ？おにいさんもいっしょに、\nおいのりしてくれるんですか？\n\n# face %(unit_a)s \"sad\"\n# voice 230013 \"ronginusu_lo_0028\"\n@ロンギヌス\nでも、おいのりは\nわたしがかってに\nしていることだから…\n\n@ロンギヌス\nおにいさんもいっしょになんて、\nわるいです…\n\n# textflame 0 0\n@\nじゃあ、君のクイズに正解できたら\n一緒にお祈りしていい？\nと提案するマスター\n\n# voice 230013 \"ronginusu_lo_0032\"\n# textflame 1 1\n@ロンギヌス\nえ？\nわ、わかりました…！\n\n# face %(unit_a)s \"normal\"\n@ロンギヌス\nじゃあ、いきますね！\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私、“あれ”が\nだいすきなんです\nなにかわかりますか？\n\n# se \"SE_0734\"\n# select \"肉料理\" \"select_label_1\" \"トマトジュース\" \"select_label_2\" \"牛乳\" \"select_label_3\"\n私、“あれ”が\nだいすきなんです\nなにかわかりますか？\n"
+	},
+	{
+		"ID": 6026,
+		"unitID": 2300131,
+		"questionID": 39300116,
+		"script": ";;AB,2\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 230013 \"ronginusu_lo_0002\"\n@ロンギヌス\nきょうはたのしかったです\n\n@ロンギヌス\nかえったら、かみさまに\nおいのりをささげますね\n\n@ロンギヌス\nすてきないちにちを\nありがとうございましたって\n\n# voice 230013 \"ronginusu_lo_0022\"\n@ロンギヌス\nえ？おにいさんもいっしょに、\nおいのりしてくれるんですか？\n\n# face %(unit_a)s \"sad\"\n# voice 230013 \"ronginusu_lo_0028\"\n@ロンギヌス\nでも、おいのりは\nわたしがかってに\nしていることだから…\n\n@ロンギヌス\nおにいさんもいっしょになんて、\nわるいです…\n\n# textflame 0 0\n@\nじゃあ、君のクイズに正解できたら\n一緒にお祈りしていい？\nと提案するマスター\n\n# voice 230013 \"ronginusu_lo_0032\"\n# textflame 1 1\n@ロンギヌス\nえ？\nわ、わかりました…！\n\n# face %(unit_a)s \"normal\"\n@ロンギヌス\nじゃあ、いきますね！\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私のけつえきがた、\nしってますか？\n\n# se \"SE_0734\"\n# select \"O\" \"select_label_1\" \"AB\" \"select_label_2\" \"A\" \"select_label_3\"\n私のけつえきがた、\nしってますか？\n"
+	},
+	{
+		"ID": 6027,
+		"unitID": 2300131,
+		"questionID": 39300117,
+		"script": ";;ローマ帝国,3\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 230013 \"ronginusu_lo_0002\"\n@ロンギヌス\nきょうはたのしかったです\n\n@ロンギヌス\nかえったら、かみさまに\nおいのりをささげますね\n\n@ロンギヌス\nすてきないちにちを\nありがとうございましたって\n\n# voice 230013 \"ronginusu_lo_0022\"\n@ロンギヌス\nえ？おにいさんもいっしょに、\nおいのりしてくれるんですか？\n\n# face %(unit_a)s \"sad\"\n# voice 230013 \"ronginusu_lo_0028\"\n@ロンギヌス\nでも、おいのりは\nわたしがかってに\nしていることだから…\n\n@ロンギヌス\nおにいさんもいっしょになんて、\nわるいです…\n\n# textflame 0 0\n@\nじゃあ、君のクイズに正解できたら\n一緒にお祈りしていい？\nと提案するマスター\n\n# voice 230013 \"ronginusu_lo_0032\"\n# textflame 1 1\n@ロンギヌス\nえ？\nわ、わかりました…！\n\n# face %(unit_a)s \"normal\"\n@ロンギヌス\nじゃあ、いきますね！\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私のうまれたばしょ、\nしってますか？\n\n# se \"SE_0734\"\n# select \"ペルシャ帝国\" \"select_label_1\" \"ギリシャ帝国\" \"select_label_2\" \"ローマ帝国\" \"select_label_3\"\n私のうまれたばしょ、\nしってますか？\n"
+	},
+	{
+		"ID": 6028,
+		"unitID": 2300131,
+		"questionID": 39300118,
+		"script": ";;槍,3\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 230013 \"ronginusu_lo_0002\"\n@ロンギヌス\nきょうはたのしかったです\n\n@ロンギヌス\nかえったら、かみさまに\nおいのりをささげますね\n\n@ロンギヌス\nすてきないちにちを\nありがとうございましたって\n\n# voice 230013 \"ronginusu_lo_0022\"\n@ロンギヌス\nえ？おにいさんもいっしょに、\nおいのりしてくれるんですか？\n\n# face %(unit_a)s \"sad\"\n# voice 230013 \"ronginusu_lo_0028\"\n@ロンギヌス\nでも、おいのりは\nわたしがかってに\nしていることだから…\n\n@ロンギヌス\nおにいさんもいっしょになんて、\nわるいです…\n\n# textflame 0 0\n@\nじゃあ、君のクイズに正解できたら\n一緒にお祈りしていい？\nと提案するマスター\n\n# voice 230013 \"ronginusu_lo_0032\"\n# textflame 1 1\n@ロンギヌス\nえ？\nわ、わかりました…！\n\n# face %(unit_a)s \"normal\"\n@ロンギヌス\nじゃあ、いきますね！\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私のぶきは、なにか、\nしってますよね…？\n\n# se \"SE_0734\"\n# select \"薙刀\" \"select_label_1\" \"剣\" \"select_label_2\" \"槍\" \"select_label_3\"\n私のぶきは、なにか、\nしってますよね…？\n"
+	},
+	{
+		"ID": 6029,
+		"unitID": 2300131,
+		"questionID": 39300119,
+		"script": ";;人のためになること,1\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 230013 \"ronginusu_lo_0002\"\n@ロンギヌス\nきょうはたのしかったです\n\n@ロンギヌス\nかえったら、かみさまに\nおいのりをささげますね\n\n@ロンギヌス\nすてきないちにちを\nありがとうございましたって\n\n# voice 230013 \"ronginusu_lo_0022\"\n@ロンギヌス\nえ？おにいさんもいっしょに、\nおいのりしてくれるんですか？\n\n# face %(unit_a)s \"sad\"\n# voice 230013 \"ronginusu_lo_0028\"\n@ロンギヌス\nでも、おいのりは\nわたしがかってに\nしていることだから…\n\n@ロンギヌス\nおにいさんもいっしょになんて、\nわるいです…\n\n# textflame 0 0\n@\nじゃあ、君のクイズに正解できたら\n一緒にお祈りしていい？\nと提案するマスター\n\n# voice 230013 \"ronginusu_lo_0032\"\n# textflame 1 1\n@ロンギヌス\nえ？\nわ、わかりました…！\n\n# face %(unit_a)s \"normal\"\n@ロンギヌス\nじゃあ、いきますね！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nえへへ♪\n私、これがすきなんです\n\n# se \"SE_0734\"\n# select \"人のためになること\" \"select_label_1\" \"鍛錬\" \"select_label_2\" \"笑うこと\" \"select_label_3\"\nえへへ♪\n私、これがすきなんです\n"
+	},
+	{
+		"ID": 6030,
+		"unitID": 2300131,
+		"questionID": 39300120,
+		"script": ";;人見知り,3\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 230013 \"ronginusu_lo_0001\"\n@ロンギヌス\nねぇ、おにいさん\n\n@ロンギヌス\nこんなにふたりだけで\nあそんだのってはじめてですよね\n\n# voice 230013 \"ronginusu_lo_0004\"\n@ロンギヌス\nせっかくのきかいなので、\nもっといろんなことを\nおはなししませんか？\n\n@ロンギヌス\nおにいさんにもっともっと、\nわたしのこと、\nしってほしいんです\n\n# textflame 0 0\n@\nお出かけの後だからか\nいつもよりリラックスした様子で\n話しかけてくるロンギヌス\n\n# voice 230013 \"ronginusu_lo_0002\"\n# textflame 1 1\n@ロンギヌス\n…そうだ！\nいいこと、おもいつきました！\n\n@ロンギヌス\nわたしにかんするクイズをだすので、\nこたえてみてください！\n\n@ロンギヌス\nいきますよ！？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私、よくみんなから\nこういわれます…\n\n# se \"SE_0734\"\n# select \"おしゃべり\" \"select_label_1\" \"泣き虫\" \"select_label_2\" \"人見知り\" \"select_label_3\"\n私、よくみんなから\nこういわれます…\n"
+	},
+	{
+		"ID": 6031,
+		"unitID": 2300131,
+		"questionID": 39300121,
+		"script": ";;槍皇,3\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 230013 \"ronginusu_lo_0001\"\n@ロンギヌス\nねぇ、おにいさん\n\n@ロンギヌス\nこんなにふたりだけで\nあそんだのってはじめてですよね\n\n# voice 230013 \"ronginusu_lo_0004\"\n@ロンギヌス\nせっかくのきかいなので、\nもっといろんなことを\nおはなししませんか？\n\n@ロンギヌス\nおにいさんにもっともっと、\nわたしのこと、\nしってほしいんです\n\n# textflame 0 0\n@\nお出かけの後だからか\nいつもよりリラックスした様子で\n話しかけてくるロンギヌス\n\n# voice 230013 \"ronginusu_lo_0002\"\n# textflame 1 1\n@ロンギヌス\n…そうだ！\nいいこと、おもいつきました！\n\n@ロンギヌス\nわたしにかんするクイズをだすので、\nこたえてみてください！\n\n@ロンギヌス\nいきますよ！？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の☆６のジョブめい、\nおぼえていますか？\n\n# se \"SE_0734\"\n# select \"鬼槍\" \"select_label_1\" \"剛槍\" \"select_label_2\" \"槍皇\" \"select_label_3\"\n私の☆６のジョブめい、\nおぼえていますか？\n"
+	},
+	{
+		"ID": 6032,
+		"unitID": 2300131,
+		"questionID": 39300122,
+		"script": ";;自分の力を求める人,3\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 230013 \"ronginusu_lo_0001\"\n@ロンギヌス\nねぇ、おにいさん\n\n@ロンギヌス\nこんなにふたりだけで\nあそんだのってはじめてですよね\n\n# voice 230013 \"ronginusu_lo_0004\"\n@ロンギヌス\nせっかくのきかいなので、\nもっといろんなことを\nおはなししませんか？\n\n@ロンギヌス\nおにいさんにもっともっと、\nわたしのこと、\nしってほしいんです\n\n# textflame 0 0\n@\nお出かけの後だからか\nいつもよりリラックスした様子で\n話しかけてくるロンギヌス\n\n# voice 230013 \"ronginusu_lo_0002\"\n# textflame 1 1\n@ロンギヌス\n…そうだ！\nいいこと、おもいつきました！\n\n@ロンギヌス\nわたしにかんするクイズをだすので、\nこたえてみてください！\n\n@ロンギヌス\nいきますよ！？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私、こういうひとは\nちょっとにがてです\nおにいさんはちがうよね？\n\n# se \"SE_0734\"\n# select \"お金使いが荒い人\" \"select_label_1\" \"目つきが悪い人\" \"select_label_2\" \"自分の力を求める人\" \"select_label_3\"\n私、こういうひとは\nちょっとにがてです\nおにいさんはちがうよね？\n"
+	},
+	{
+		"ID": 6033,
+		"unitID": 2300131,
+		"questionID": 39300123,
+		"script": ";;氷軍の覇気,2\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 230013 \"ronginusu_lo_0001\"\n@ロンギヌス\nねぇ、おにいさん\n\n@ロンギヌス\nこんなにふたりだけで\nあそんだのってはじめてですよね\n\n# voice 230013 \"ronginusu_lo_0004\"\n@ロンギヌス\nせっかくのきかいなので、\nもっといろんなことを\nおはなししませんか？\n\n@ロンギヌス\nおにいさんにもっともっと、\nわたしのこと、\nしってほしいんです\n\n# textflame 0 0\n@\nお出かけの後だからか\nいつもよりリラックスした様子で\n話しかけてくるロンギヌス\n\n# voice 230013 \"ronginusu_lo_0002\"\n# textflame 1 1\n@ロンギヌス\n…そうだ！\nいいこと、おもいつきました！\n\n@ロンギヌス\nわたしにかんするクイズをだすので、\nこたえてみてください！\n\n@ロンギヌス\nいきますよ！？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の☆６の\nリーダースキルめいですが、\nしってますか？\n\n# se \"SE_0734\"\n# select \"凍零の絶対令\" \"select_label_1\" \"氷軍の覇気\" \"select_label_2\" \"不動の構え\" \"select_label_3\"\n私の☆６の\nリーダースキルめいですが、\nしってますか？\n"
+	},
+	{
+		"ID": 6034,
+		"unitID": 2300131,
+		"questionID": 39300124,
+		"script": ";;吸血鬼,1\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 230013 \"ronginusu_lo_0001\"\n@ロンギヌス\nねぇ、おにいさん\n\n@ロンギヌス\nこんなにふたりだけで\nあそんだのってはじめてですよね\n\n# voice 230013 \"ronginusu_lo_0004\"\n@ロンギヌス\nせっかくのきかいなので、\nもっといろんなことを\nおはなししませんか？\n\n@ロンギヌス\nおにいさんにもっともっと、\nわたしのこと、\nしってほしいんです\n\n# textflame 0 0\n@\nお出かけの後だからか\nいつもよりリラックスした様子で\n話しかけてくるロンギヌス\n\n# voice 230013 \"ronginusu_lo_0002\"\n# textflame 1 1\n@ロンギヌス\n…そうだ！\nいいこと、おもいつきました！\n\n@ロンギヌス\nわたしにかんするクイズをだすので、\nこたえてみてください！\n\n@ロンギヌス\nいきますよ！？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私、これじゃないかって\nよくいわれるんです…\n\n# se \"SE_0734\"\n# select \"吸血鬼\" \"select_label_1\" \"ペテン師\" \"select_label_2\" \"魔女\" \"select_label_3\"\n私、これじゃないかって\nよくいわれるんです…\n"
+	},
+	{
+		"ID": 6035,
+		"unitID": 2300131,
+		"questionID": 39300125,
+		"script": ";;トマト姫,2\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 230013 \"ronginusu_lo_0001\"\n@ロンギヌス\nねぇ、おにいさん\n\n@ロンギヌス\nこんなにふたりだけで\nあそんだのってはじめてですよね\n\n# voice 230013 \"ronginusu_lo_0004\"\n@ロンギヌス\nせっかくのきかいなので、\nもっといろんなことを\nおはなししませんか？\n\n@ロンギヌス\nおにいさんにもっともっと、\nわたしのこと、\nしってほしいんです\n\n# textflame 0 0\n@\nお出かけの後だからか\nいつもよりリラックスした様子で\n話しかけてくるロンギヌス\n\n# voice 230013 \"ronginusu_lo_0002\"\n# textflame 1 1\n@ロンギヌス\n…そうだ！\nいいこと、おもいつきました！\n\n@ロンギヌス\nわたしにかんするクイズをだすので、\nこたえてみてください！\n\n@ロンギヌス\nいきますよ！？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私のあだな、しってますか？\n\n# se \"SE_0734\"\n# select \"トマト王女\" \"select_label_1\" \"トマト姫\" \"select_label_2\" \"トマト殿下\" \"select_label_3\"\n私のあだな、しってますか？\n"
+	},
+	{
+		"ID": 6036,
+		"unitID": 2300131,
+		"questionID": 39300126,
+		"script": ";;視力,2\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 230013 \"ronginusu_lo_0001\"\n@ロンギヌス\nねぇ、おにいさん\n\n@ロンギヌス\nこんなにふたりだけで\nあそんだのってはじめてですよね\n\n# voice 230013 \"ronginusu_lo_0004\"\n@ロンギヌス\nせっかくのきかいなので、\nもっといろんなことを\nおはなししませんか？\n\n@ロンギヌス\nおにいさんにもっともっと、\nわたしのこと、\nしってほしいんです\n\n# textflame 0 0\n@\nお出かけの後だからか\nいつもよりリラックスした様子で\n話しかけてくるロンギヌス\n\n# voice 230013 \"ronginusu_lo_0002\"\n# textflame 1 1\n@ロンギヌス\n…そうだ！\nいいこと、おもいつきました！\n\n@ロンギヌス\nわたしにかんするクイズをだすので、\nこたえてみてください！\n\n@ロンギヌス\nいきますよ！？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私、じつはひとよりも\nいいところがあるんです\nわかりますか？\n\n# se \"SE_0734\"\n# select \"聴力\" \"select_label_1\" \"視力\" \"select_label_2\" \"直感力\" \"select_label_3\"\n私、じつはひとよりも\nいいところがあるんです\nわかりますか？\n"
+	},
+	{
+		"ID": 6037,
+		"unitID": 2300131,
+		"questionID": 39300127,
+		"script": ";;男性,2\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 230013 \"ronginusu_lo_0001\"\n@ロンギヌス\nねぇ、おにいさん\n\n@ロンギヌス\nこんなにふたりだけで\nあそんだのってはじめてですよね\n\n# voice 230013 \"ronginusu_lo_0004\"\n@ロンギヌス\nせっかくのきかいなので、\nもっといろんなことを\nおはなししませんか？\n\n@ロンギヌス\nおにいさんにもっともっと、\nわたしのこと、\nしってほしいんです\n\n# textflame 0 0\n@\nお出かけの後だからか\nいつもよりリラックスした様子で\n話しかけてくるロンギヌス\n\n# voice 230013 \"ronginusu_lo_0002\"\n# textflame 1 1\n@ロンギヌス\n…そうだ！\nいいこと、おもいつきました！\n\n@ロンギヌス\nわたしにかんするクイズをだすので、\nこたえてみてください！\n\n@ロンギヌス\nいきますよ！？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私のにがてなものって\nしってますか？\nあ、おにいさんはちがいますよ\n\n# se \"SE_0734\"\n# select \"背が高い人\" \"select_label_1\" \"男性\" \"select_label_2\" \"かっこいい人\" \"select_label_3\"\n私のにがてなものって\nしってますか？\nあ、おにいさんはちがいますよ\n"
+	},
+	{
+		"ID": 6038,
+		"unitID": 2300131,
+		"questionID": 39300128,
+		"script": ";;聖槍ちゃん,2\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 230013 \"ronginusu_lo_0001\"\n@ロンギヌス\nねぇ、おにいさん\n\n@ロンギヌス\nこんなにふたりだけで\nあそんだのってはじめてですよね\n\n# voice 230013 \"ronginusu_lo_0004\"\n@ロンギヌス\nせっかくのきかいなので、\nもっといろんなことを\nおはなししませんか？\n\n@ロンギヌス\nおにいさんにもっともっと、\nわたしのこと、\nしってほしいんです\n\n# textflame 0 0\n@\nお出かけの後だからか\nいつもよりリラックスした様子で\n話しかけてくるロンギヌス\n\n# voice 230013 \"ronginusu_lo_0002\"\n# textflame 1 1\n@ロンギヌス\n…そうだ！\nいいこと、おもいつきました！\n\n@ロンギヌス\nわたしにかんするクイズをだすので、\nこたえてみてください！\n\n@ロンギヌス\nいきますよ！？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私、こうよばれると\nちょっとかなしいです\n\n# se \"SE_0734\"\n# select \"弱虫ちゃん\" \"select_label_1\" \"聖槍ちゃん\" \"select_label_2\" \"トマトちゃん\" \"select_label_3\"\n私、こうよばれると\nちょっとかなしいです\n"
+	},
+	{
+		"ID": 6039,
+		"unitID": 2300131,
+		"questionID": 39300129,
+		"script": ";;牙克城学院,1\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 230013 \"ronginusu_lo_0001\"\n@ロンギヌス\nねぇ、おにいさん\n\n@ロンギヌス\nこんなにふたりだけで\nあそんだのってはじめてですよね\n\n# voice 230013 \"ronginusu_lo_0004\"\n@ロンギヌス\nせっかくのきかいなので、\nもっといろんなことを\nおはなししませんか？\n\n@ロンギヌス\nおにいさんにもっともっと、\nわたしのこと、\nしってほしいんです\n\n# textflame 0 0\n@\nお出かけの後だからか\nいつもよりリラックスした様子で\n話しかけてくるロンギヌス\n\n# voice 230013 \"ronginusu_lo_0002\"\n# textflame 1 1\n@ロンギヌス\n…そうだ！\nいいこと、おもいつきました！\n\n@ロンギヌス\nわたしにかんするクイズをだすので、\nこたえてみてください！\n\n@ロンギヌス\nいきますよ！？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nがっこうでの私は\nどこにかよっているかしってますか？\n\n# se \"SE_0734\"\n# select \"牙克城学院\" \"select_label_1\" \"聖ユグドラシル姫学院\" \"select_label_2\" \"ラグナロク女学院\" \"select_label_3\"\nがっこうでの私は\nどこにかよっているかしってますか？\n"
+	},
+	{
+		"ID": 6040,
+		"unitID": 2300131,
+		"questionID": 39300130,
+		"script": ";;決闘の日,1\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 230013 \"ronginusu_lo_0002\"\n@ロンギヌス\nあ、あの……\n\n# textflame 0 0\n@\nそう言ったまま黙ってしまった彼女\nどうしたの？と、\nマスターが尋ねる\n\n# voice 230013 \"ronginusu_lo_0028\"\n# textflame 1 1\n@ロンギヌス\nい、いえ……\n\n;;モヤモヤ吹き出し\n# move %(unit_a)s 3 0\n# textwindow \"moya\"\n@ロンギヌス\nてをつないで\nいっしょにかえりたいって\nいいたいけど…\n\n;;モヤモヤ吹き出し\n@ロンギヌス\nはずかしいし…\n\n;;モヤモヤ吹き出し\n@ロンギヌス\n…そうだ！\n\n# face %(unit_a)s \"angry\"\n# textwindow \"nomal\"\n@ロンギヌス\nあの…！\nいまからクイズをだします！\n\n@ロンギヌス\nもし、おにいさんが\nせいかいできたら…\n\n@ロンギヌス\nわたしとてをつないで\nかえってくれますか…！？\n\n# textflame 0 0\n@\n顔を真っ赤にして尋ねる彼女\n\n@\nなんとしても正解してあげたい！\nと、奮起するマスター\n\n# textflame 1 1\n@ロンギヌス\nそれじゃ…いきますね！？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私のたんじょうびは\nなんのひとよばれているか、\nしってますか？\n\n# se \"SE_0734\"\n# select \"決闘の日\" \"select_label_1\" \"勉強の日\" \"select_label_2\" \"耳の日\" \"select_label_3\"\n私のたんじょうびは\nなんのひとよばれているか、\nしってますか？\n"
+	},
+	{
+		"ID": 6041,
+		"unitID": 2300131,
+		"questionID": 39300131,
+		"script": ";;野菜,1\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 230013 \"ronginusu_lo_0002\"\n@ロンギヌス\nあ、あの……\n\n# textflame 0 0\n@\nそう言ったまま黙ってしまった彼女\nどうしたの？と、\nマスターが尋ねる\n\n# voice 230013 \"ronginusu_lo_0028\"\n# textflame 1 1\n@ロンギヌス\nい、いえ……\n\n;;モヤモヤ吹き出し\n# move %(unit_a)s 3 0\n# textwindow \"moya\"\n@ロンギヌス\nてをつないで\nいっしょにかえりたいって\nいいたいけど…\n\n;;モヤモヤ吹き出し\n@ロンギヌス\nはずかしいし…\n\n;;モヤモヤ吹き出し\n@ロンギヌス\n…そうだ！\n\n# face %(unit_a)s \"angry\"\n# textwindow \"nomal\"\n@ロンギヌス\nあの…！\nいまからクイズをだします！\n\n@ロンギヌス\nもし、おにいさんが\nせいかいできたら…\n\n@ロンギヌス\nわたしとてをつないで\nかえってくれますか…！？\n\n# textflame 0 0\n@\n顔を真っ赤にして尋ねる彼女\n\n@\nなんとしても正解してあげたい！\nと、奮起するマスター\n\n# textflame 1 1\n@ロンギヌス\nそれじゃ…いきますね！？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私のすきなトマトジュースの\nもとのトマトは\nなにになるでしょう？\n\n# se \"SE_0734\"\n# select \"野菜\" \"select_label_1\" \"果物\" \"select_label_2\" \"香辛料\" \"select_label_3\"\n私のすきなトマトジュースの\nもとのトマトは\nなにになるでしょう？\n"
+	},
+	{
+		"ID": 6042,
+		"unitID": 2300131,
+		"questionID": 39300132,
+		"script": ";;嫉妬,3\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 230013 \"ronginusu_lo_0002\"\n@ロンギヌス\nあ、あの……\n\n# textflame 0 0\n@\nそう言ったまま黙ってしまった彼女\nどうしたの？と、\nマスターが尋ねる\n\n# voice 230013 \"ronginusu_lo_0028\"\n# textflame 1 1\n@ロンギヌス\nい、いえ……\n\n;;モヤモヤ吹き出し\n# move %(unit_a)s 3 0\n# textwindow \"moya\"\n@ロンギヌス\nてをつないで\nいっしょにかえりたいって\nいいたいけど…\n\n;;モヤモヤ吹き出し\n@ロンギヌス\nはずかしいし…\n\n;;モヤモヤ吹き出し\n@ロンギヌス\n…そうだ！\n\n# face %(unit_a)s \"angry\"\n# textwindow \"nomal\"\n@ロンギヌス\nあの…！\nいまからクイズをだします！\n\n@ロンギヌス\nもし、おにいさんが\nせいかいできたら…\n\n@ロンギヌス\nわたしとてをつないで\nかえってくれますか…！？\n\n# textflame 0 0\n@\n顔を真っ赤にして尋ねる彼女\n\n@\nなんとしても正解してあげたい！\nと、奮起するマスター\n\n# textflame 1 1\n@ロンギヌス\nそれじゃ…いきますね！？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nブラックキラーズの\nロンギヌスはなんのたいざいを\nせおっているかしってますか？\n\n# se \"SE_0734\"\n# select \"傲慢\" \"select_label_1\" \"強欲\" \"select_label_2\" \"嫉妬\" \"select_label_3\"\nブラックキラーズの\nロンギヌスはなんのたいざいを\nせおっているかしってますか？\n"
+	},
+	{
+		"ID": 6043,
+		"unitID": 2300131,
+		"questionID": 39300133,
+		"script": ";;ファースト,3\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 230013 \"ronginusu_lo_0002\"\n@ロンギヌス\nあ、あの……\n\n# textflame 0 0\n@\nそう言ったまま黙ってしまった彼女\nどうしたの？と、\nマスターが尋ねる\n\n# voice 230013 \"ronginusu_lo_0028\"\n# textflame 1 1\n@ロンギヌス\nい、いえ……\n\n;;モヤモヤ吹き出し\n# move %(unit_a)s 3 0\n# textwindow \"moya\"\n@ロンギヌス\nてをつないで\nいっしょにかえりたいって\nいいたいけど…\n\n;;モヤモヤ吹き出し\n@ロンギヌス\nはずかしいし…\n\n;;モヤモヤ吹き出し\n@ロンギヌス\n…そうだ！\n\n# face %(unit_a)s \"angry\"\n# textwindow \"nomal\"\n@ロンギヌス\nあの…！\nいまからクイズをだします！\n\n@ロンギヌス\nもし、おにいさんが\nせいかいできたら…\n\n@ロンギヌス\nわたしとてをつないで\nかえってくれますか…！？\n\n# textflame 0 0\n@\n顔を真っ赤にして尋ねる彼女\n\n@\nなんとしても正解してあげたい！\nと、奮起するマスター\n\n# textflame 1 1\n@ロンギヌス\nそれじゃ…いきますね！？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私は『◯◯キラーズ』って\nよばれています\n\n# se \"SE_0734\"\n# select \"エンシェント\" \"select_label_1\" \"セブンス\" \"select_label_2\" \"ファースト\" \"select_label_3\"\n私は『◯◯キラーズ』って\nよばれています\n"
+	},
+	{
+		"ID": 6044,
+		"unitID": 2300131,
+		"questionID": 39300134,
+		"script": ";;グリンインパクト,2\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 230013 \"ronginusu_lo_0002\"\n@ロンギヌス\nあ、あの……\n\n# textflame 0 0\n@\nそう言ったまま黙ってしまった彼女\nどうしたの？と、\nマスターが尋ねる\n\n# voice 230013 \"ronginusu_lo_0028\"\n# textflame 1 1\n@ロンギヌス\nい、いえ……\n\n;;モヤモヤ吹き出し\n# move %(unit_a)s 3 0\n# textwindow \"moya\"\n@ロンギヌス\nてをつないで\nいっしょにかえりたいって\nいいたいけど…\n\n;;モヤモヤ吹き出し\n@ロンギヌス\nはずかしいし…\n\n;;モヤモヤ吹き出し\n@ロンギヌス\n…そうだ！\n\n# face %(unit_a)s \"angry\"\n# textwindow \"nomal\"\n@ロンギヌス\nあの…！\nいまからクイズをだします！\n\n@ロンギヌス\nもし、おにいさんが\nせいかいできたら…\n\n@ロンギヌス\nわたしとてをつないで\nかえってくれますか…！？\n\n# textflame 0 0\n@\n顔を真っ赤にして尋ねる彼女\n\n@\nなんとしても正解してあげたい！\nと、奮起するマスター\n\n# textflame 1 1\n@ロンギヌス\nそれじゃ…いきますね！？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私のスキルめい、\nおぼえていますか？\n\n# se \"SE_0734\"\n# select \"レドンインパクト\" \"select_label_1\" \"グリンインパクト\" \"select_label_2\" \"ブルレインパクト\" \"select_label_3\"\n私のスキルめい、\nおぼえていますか？\n"
+	},
+	{
+		"ID": 6045,
+		"unitID": 2300131,
+		"questionID": 39300135,
+		"script": ";;ミラーインパクト,1\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 230013 \"ronginusu_lo_0002\"\n@ロンギヌス\nあ、あの……\n\n# textflame 0 0\n@\nそう言ったまま黙ってしまった彼女\nどうしたの？と、\nマスターが尋ねる\n\n# voice 230013 \"ronginusu_lo_0028\"\n# textflame 1 1\n@ロンギヌス\nい、いえ……\n\n;;モヤモヤ吹き出し\n# move %(unit_a)s 3 0\n# textwindow \"moya\"\n@ロンギヌス\nてをつないで\nいっしょにかえりたいって\nいいたいけど…\n\n;;モヤモヤ吹き出し\n@ロンギヌス\nはずかしいし…\n\n;;モヤモヤ吹き出し\n@ロンギヌス\n…そうだ！\n\n# face %(unit_a)s \"angry\"\n# textwindow \"nomal\"\n@ロンギヌス\nあの…！\nいまからクイズをだします！\n\n@ロンギヌス\nもし、おにいさんが\nせいかいできたら…\n\n@ロンギヌス\nわたしとてをつないで\nかえってくれますか…！？\n\n# textflame 0 0\n@\n顔を真っ赤にして尋ねる彼女\n\n@\nなんとしても正解してあげたい！\nと、奮起するマスター\n\n# textflame 1 1\n@ロンギヌス\nそれじゃ…いきますね！？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私のスキルめい、\nおぼえていますか？\n\n# se \"SE_0734\"\n# select \"ミラーインパクト\" \"select_label_1\" \"エッジインパクト\" \"select_label_2\" \"ネイルインパクト\" \"select_label_3\"\n私のスキルめい、\nおぼえていますか？\n"
+	},
+	{
+		"ID": 6046,
+		"unitID": 2300131,
+		"questionID": 39300136,
+		"script": ";;脇腹,1\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 230013 \"ronginusu_lo_0002\"\n@ロンギヌス\nあ、あの……\n\n# textflame 0 0\n@\nそう言ったまま黙ってしまった彼女\nどうしたの？と、\nマスターが尋ねる\n\n# voice 230013 \"ronginusu_lo_0028\"\n# textflame 1 1\n@ロンギヌス\nい、いえ……\n\n;;モヤモヤ吹き出し\n# move %(unit_a)s 3 0\n# textwindow \"moya\"\n@ロンギヌス\nてをつないで\nいっしょにかえりたいって\nいいたいけど…\n\n;;モヤモヤ吹き出し\n@ロンギヌス\nはずかしいし…\n\n;;モヤモヤ吹き出し\n@ロンギヌス\n…そうだ！\n\n# face %(unit_a)s \"angry\"\n# textwindow \"nomal\"\n@ロンギヌス\nあの…！\nいまからクイズをだします！\n\n@ロンギヌス\nもし、おにいさんが\nせいかいできたら…\n\n@ロンギヌス\nわたしとてをつないで\nかえってくれますか…！？\n\n# textflame 0 0\n@\n顔を真っ赤にして尋ねる彼女\n\n@\nなんとしても正解してあげたい！\nと、奮起するマスター\n\n# textflame 1 1\n@ロンギヌス\nそれじゃ…いきますね！？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私、ここがちょっとにがてで…\nさ、さわったらダメですよ！？\n\n# se \"SE_0734\"\n# select \"脇腹\" \"select_label_1\" \"足の裏\" \"select_label_2\" \"首筋\" \"select_label_3\"\n私、ここがちょっとにがてで…\nさ、さわったらダメですよ！？\n"
+	},
+	{
+		"ID": 6047,
+		"unitID": 2300131,
+		"questionID": 39300137,
+		"script": ";;エンヴィ,3\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 230013 \"ronginusu_lo_0002\"\n@ロンギヌス\nあ、あの……\n\n# textflame 0 0\n@\nそう言ったまま黙ってしまった彼女\nどうしたの？と、\nマスターが尋ねる\n\n# voice 230013 \"ronginusu_lo_0028\"\n# textflame 1 1\n@ロンギヌス\nい、いえ……\n\n;;モヤモヤ吹き出し\n# move %(unit_a)s 3 0\n# textwindow \"moya\"\n@ロンギヌス\nてをつないで\nいっしょにかえりたいって\nいいたいけど…\n\n;;モヤモヤ吹き出し\n@ロンギヌス\nはずかしいし…\n\n;;モヤモヤ吹き出し\n@ロンギヌス\n…そうだ！\n\n# face %(unit_a)s \"angry\"\n# textwindow \"nomal\"\n@ロンギヌス\nあの…！\nいまからクイズをだします！\n\n@ロンギヌス\nもし、おにいさんが\nせいかいできたら…\n\n@ロンギヌス\nわたしとてをつないで\nかえってくれますか…！？\n\n# textflame 0 0\n@\n顔を真っ赤にして尋ねる彼女\n\n@\nなんとしても正解してあげたい！\nと、奮起するマスター\n\n# textflame 1 1\n@ロンギヌス\nそれじゃ…いきますね！？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nブラックキラーズの\nロンギヌスはなんという\nコードネームかしってますか？\n\n# se \"SE_0734\"\n# select \"スロウス\" \"select_label_1\" \"グリード\" \"select_label_2\" \"エンヴィ\" \"select_label_3\"\nブラックキラーズの\nロンギヌスはなんという\nコードネームかしってますか？\n"
+	},
+	{
+		"ID": 6048,
+		"unitID": 2300131,
+		"questionID": 39300138,
+		"script": ";;蛭子能収,1\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 230013 \"ronginusu_lo_0002\"\n@ロンギヌス\nあ、あの……\n\n# textflame 0 0\n@\nそう言ったまま黙ってしまった彼女\nどうしたの？と、\nマスターが尋ねる\n\n# voice 230013 \"ronginusu_lo_0028\"\n# textflame 1 1\n@ロンギヌス\nい、いえ……\n\n;;モヤモヤ吹き出し\n# move %(unit_a)s 3 0\n# textwindow \"moya\"\n@ロンギヌス\nてをつないで\nいっしょにかえりたいって\nいいたいけど…\n\n;;モヤモヤ吹き出し\n@ロンギヌス\nはずかしいし…\n\n;;モヤモヤ吹き出し\n@ロンギヌス\n…そうだ！\n\n# face %(unit_a)s \"angry\"\n# textwindow \"nomal\"\n@ロンギヌス\nあの…！\nいまからクイズをだします！\n\n@ロンギヌス\nもし、おにいさんが\nせいかいできたら…\n\n@ロンギヌス\nわたしとてをつないで\nかえってくれますか…！？\n\n# textflame 0 0\n@\n顔を真っ赤にして尋ねる彼女\n\n@\nなんとしても正解してあげたい！\nと、奮起するマスター\n\n# textflame 1 1\n@ロンギヌス\nそれじゃ…いきますね！？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私とゆかりがあるひと…らしいです\nおにいさんはしってますか？\n\n# se \"SE_0734\"\n# select \"蛭子能収\" \"select_label_1\" \"遠藤憲一\" \"select_label_2\" \"古田新太\" \"select_label_3\"\n私とゆかりがあるひと…らしいです\nおにいさんはしってますか？\n"
+	},
+	{
+		"ID": 6049,
+		"unitID": 2300131,
+		"questionID": 39300139,
+		"script": "\n;;私,2\n# se \"SE_0734\"\n# select \"あたし\" \"select_label_1\" \"私\" \"select_label_2\" \"わたし\" \"select_label_3\"\nロンギヌスの一人称は\n次のうちどれ？\n"
+	},
+	{
+		"ID": 6050,
+		"unitID": 2300131,
+		"questionID": 39300140,
+		"script": "\n;;おにいさん,1\n# se \"SE_0734\"\n# select \"おにいさん\" \"select_label_1\" \"ご主人様\" \"select_label_2\" \"マイマスター\" \"select_label_3\"\nロンギヌスはアンタのこと、\nなんて呼んでる？\n"
+	},
+	{
+		"ID": 6051,
+		"unitID": 2300131,
+		"questionID": 39300141,
+		"script": "\n;;3,2\n# se \"SE_0734\"\n# select \"7\" \"select_label_1\" \"3\" \"select_label_2\" \"10\" \"select_label_3\"\nロンギヌスは第２回人気投票で\n何位だったでしょう？\n"
+	},
+	{
+		"ID": 6052,
+		"unitID": 2300131,
+		"questionID": 39300142,
+		"script": "\n;;花澤香菜,2\n# se \"SE_0734\"\n# select \"伊瀬茉莉也\" \"select_label_1\" \"花澤香菜\" \"select_label_2\" \"能登麻美子\" \"select_label_3\"\nロンギヌスの声優は誰？\n"
+	}
+]

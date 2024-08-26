@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 200121,
+		"script": ";;A ごろごろ大\n;;B らぶらぶ中\n;;C はぐはぐ小\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_room\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 0 0\n@\nマスターは\nミョルニルの部屋を\n訪れていた…\n\n# voice 2001 \"myuruniru_0004\"\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@ミョルニル\nミョルニルちゃん\n本日は“のーぷらん”！\nなのです～！\n\n# textflame 1 1\n@ミョルニル\nなにして遊ぼっかぁ～…\nマスタ、なにしたい？\n\n# select \"ごろごろ\" \"select_label_01\" \"らぶらぶ\" \"select_label_02\" \"はぐはぐ\" \"select_label_03\"\nなにして遊ぼっかぁ～…\nマスタ、なにしたい？\n\n# label \"select_label_01\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_02\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_03\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# textflame 1 1\n# waitandnext 0.1\n\n# label \"select_label_end\"\n# waitandnext 2\n# fadeout \"black\" 1.2"
+	}
+]

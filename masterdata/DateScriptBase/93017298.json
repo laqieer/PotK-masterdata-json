@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 93017298,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# se \"SE_0733\"\n# face %(unit_a)s \"sad\"\n# voice 3017 \"wotan_0027\"\n@ヴォータン\nハズレだ…\n所詮そんなものか…\n\n@ヴォータン\nお前の理解力など\n試すまでもなかったな\n\n@ヴォータン\n期待していた私がバカだった…\n\n@ヴォータン\nやはりお前には\n私を配下に置くことなど\nできないのだ\n\n# face %(unit_a)s \"normal\"\n@ヴォータン\nお前がもっと\n私を理解してくれるまではな…\n\n# voice 3017 \"wotan_0036\"\n@ヴォータン\nだから…頼んだぞ\n\n# textflame 0 0\n@\n彼女の期待には応えられず、\n少しがっかりさせてしまった\n\n@\nしかし、こんなマスターを\n彼女はまだ期待してくれている\n\n@\n今度こそは必ず正解をし、\n二度とこんなことがないよう\n努力しなければ…\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

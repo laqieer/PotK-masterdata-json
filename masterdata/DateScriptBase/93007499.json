@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 93007499,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# se \"SE_0732\"\n;;  (キラキラ)「やるな！」（ファイルネーム不明）\n# voice 3007 \"gaiborugu_0021\"\n@ゲイボルグ\n正解だ、マスター！\nやるな、さすがだ！\n\n@ゲイボルグ\n問題の難度を上げろと\n言ってきただけのことはある\n\n# face %(unit_a)s \"normal\"\n@ゲイボルグ\nそれにしても…\nマスターは私のそんなことも\n知ってくれているのか\n\n@ゲイボルグ\n嬉しい反面…\n少々恥ずかしくもあるな\n\n# face %(unit_a)s \"smile\"\n# voice 3007 \"gaiborugu_0042\"\n@ゲイボルグ\nいや、不快ではない…\nもっともっと、\n私のことを知ってくれ…\n\n# textflame 0 0\n@\nゲイボルグはそう言うと、\n頬を赤らめ、\nマスターを見つめる\n\n@\nゲイボルグのそんな様子を見て\n二人の絆はよりいっそう\n強まったことが感じられた…\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

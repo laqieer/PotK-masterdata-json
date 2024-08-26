@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 101023,
+		"script": "# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_drive\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# voice 1010 \"furagaraha_kyara_1013\"\n# face %(unit_a)s \"smile\"\n@フラガラッハ\nあら…\nわたし、あなたに\nさらわれてしまったのですね\n\n# textflame 0 0\n@\nフラガラッハは\n愉快そうにくすくす笑っている\n\n# textflame 1 1\n@フラガラッハ\n美しいものは\n力づくでも手に入れたくなる\n…そういうものですわ\n\n# textflame 1 1\n@フラガラッハ\nあなたがさらいたくなるのも\n無理はありませんわね\n\n# textflame 0 0\n@\n笑っていたフラガラッハは\n急に静かになると\nささやくようにつぶやいた\n\n# face %(unit_a)s \"normal\"\n# textflame 1 1\n@フラガラッハ\nでも本気なら…\nこのままどこまでも\n連れて逃げてくれますわよね…？\n\n# textflame 0 0\n@\nさて、どこまで行けるだろう\nマスターはアクセルを踏み込んで\nスピードを加速させた…\n;;----------------------------------------\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

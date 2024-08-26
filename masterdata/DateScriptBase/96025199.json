@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 96025199,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# se \"SE_0732\"\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n@カリス\n………その答え\n\n# face %(unit_a)s \"smile\"\n# voice 260251 \"chalice_t_0021\"\n@カリス\n大正解～！\n\n@カリス\nさすがはマスターさん、\nちゃんとわかってるね！\n\n# voice 260251 \"chalice_t_0005\"\n@カリス\nマジ天使なカリスちゃんの魅力に\nマジ釘付けってことだね♪\n\n@カリス\nと～っても…\n嬉しいよ！\n\n# textflame 0 0\n@\n…と、本当に嬉しそうに笑うカリス\n\n# textflame 0 0\n@\nマスターは、\n彼女と距離が近づいたことに\n大きな喜びを感じていた\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

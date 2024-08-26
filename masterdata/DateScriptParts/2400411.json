@@ -1,0 +1,26 @@
+[
+	{
+		"ID": 234,
+		"unitID": 2400411,
+		"scriptID": "kaerimichi",
+		"script": "そうだ！マスター、\nもう少し遊んで恋人のような\n思い出を作りましょ～"
+	},
+	{
+		"ID": 249,
+		"unitID": 2400411,
+		"scriptID": "kaeru",
+		"script": "この後用事があるの♪\n乙女の秘密っ\nバイバイ、マスター！"
+	},
+	{
+		"ID": 264,
+		"unitID": 2400411,
+		"scriptID": "kaeru_ok",
+		"script": "@%(unitName:unit_a)s\nうふふっ、楽しみです\n手でも繋いじゃいますか？"
+	},
+	{
+		"ID": 279,
+		"unitID": 2400411,
+		"scriptID": "kaeru_ng",
+		"script": "@%(unitName:unit_a)s\nうーん、ごめんなさい\n女の子には一人になりたい時が\nあるんですぅ…"
+	}
+]

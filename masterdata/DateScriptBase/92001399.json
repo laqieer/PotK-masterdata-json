@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 92001399,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# voice 2001 \"myuruniru_0041\"\n# se \"SE_0732\"\n@ミョルニル\nすご～い！\nほんとになんでも\n知ってるねぇ♪\n\n# textflame 1 1\n@ミョルニル\nマスタといると\n安心して\n甘えられちゃうな～♪\n\n# voice 2001 \"myuruniru_0004\"\n# textflame 1 1\n@ミョルニル\nミョルニルちゃんが\nダメになったら\nマスタのせいだな～♪\n\n# textflame 0 0\n@\nニッコニコの満面な笑顔を\n浮かべる彼女を見て…\n\n# textflame 0 0\n@\nマスターは彼女との絆が\nまた深まったのを実感した…\n"
+	}
+]

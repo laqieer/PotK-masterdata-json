@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 500322,
+		"script": "# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_shipboard\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# face %(unit_a)s \"angry\"\n@八咫鏡\nぬぅ！？\n\n# textflame 1 1\n# voice 5003 \"yatanokagami_0009\"\n@八咫鏡\nこの幻想的な雰囲気で…\nいきなりそれを言うか！？\n\n# textflame 0 0\n@\n八咫鏡はミステリアスだし\n深遠なことばかり言うけれど…\nやっぱり見た目は可愛い\n\n# textflame 1 1\n@八咫鏡\nぬ、ぬぅ！\nそれはわらわが…\n童女のようじゃと言いたいのか！\n\n# textflame 1 1\n# voice 5003 \"yatanokagami_0015\"\n@八咫鏡\n確かに背丈もちんまいし\nいろいろと慎ましやかではあるが\n整っておるという自負はあるぞ！\n\n# textflame 0 0\n@\nバカにしているつもりは微塵もなく\nマスターはただ素直に\n可愛いと思って伝えているだけだった\n\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n@八咫鏡\nむぅぅぅ……\n\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n@八咫鏡\nな、ならば…\n今宵はわらわを愛でるがいい…！\n\n# textflame 0 0\n@\n八咫鏡は頬を染め\n口を真一文字に結び、上目遣いで\nマスターを見つめるのだった――\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

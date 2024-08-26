@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 10024101,
+		"script": "# script \"lisp\"\n# background \"forest\"\n# bgm \"bgm003\" 0\n# body 100241\n# mask 100241 off\n# pos 100241 3\n# textflame 0 0\n@\n異族との戦闘で\n長距離の遠征に\n来ているマスターたち\n\n# textflame 1 1\n# textboxarrow 0 2\n# voice 10024 \"revatein2_0019\"\n# face 100241 \"angry2\"\n@レーヴァテイン\n…はぁ…\n今日も疲れた…\n\n# voice 10024 \"revatein2_0001\"\n@レーヴァテイン\nねぇ、マスター\n今日の泊まる場所は…？\n\n# face 100241 \"surprise\"\n# voice 10024 \"revatein2_0022\"\n@レーヴァテイン\n…え？\n今日も野宿…？\n\n# face 100241 \"angry2\"\n# voice 10024 \"revatein2_0010\"\n@レーヴァテイン\nこれで何日目よ？\nほんと…\nいい加減にしてほしいわ\n\n@レーヴァテイン\nたまにはさ…ふかふかの\n極上ベッドで寝たいもんね\n\n# voice 10024 \"revatein2_0014\"\n@レーヴァテイン\nあなたと違って、\nこっちはデリケートなのよ\n\n# face 100241 \"angry\"\n@レーヴァテイン\nいい？今日は絶対に…\n野宿はイヤだから！\n\n# rightout 100241 0.5\n# textflame 0 0\n@\nそう言い残し、\nどこへともなく\n去ってゆく彼女\n\n# textflame 0 0\n@\n他の姫は、「わがまま」だ\n「いつもやる気ないくせに自分勝手」\nと怒っている\n\n# textflame 0 0\n@\n気になったマスターは、\n彼女の後を追うことにした"
+	}
+]

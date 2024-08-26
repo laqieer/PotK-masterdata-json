@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 502525,
+		"script": ";;■□■青・めぐみん_ハズレデート■□■\n;;モノローグ\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_fireworks\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 0 0\n@\nマスターはめぐみんを誘って\n花火大会にやってきた\n\n# face %(unit_a)s \"happy\"\n# voice 5025 \"megumin_0004\"\n# textflame 1 1\n@めぐみん\n夏に花火とは風流ですね\n\n@めぐみん\n夜空に輝く色とりどりの閃光…\n眺めているだけで\n時間を忘れてしまいそうです\n\n# textflame 0 0\n@\n爆裂魔法のことも？\nとマスター\n\n# textflame 1 1\n# face %(unit_a)s \"angry\"\n@めぐみん\n我が名はめぐみん\n爆裂魔法を極めるもの…\nなので、忘れるはずがありません\n\n# face %(unit_a)s \"worry\"\n# voice 5025 \"megumin_0026\"\n@めぐみん\nマスター、\nこの時間を邪魔するつもりですか？\n\n# textflame 0 0\n@\nジト目で見られ、\n平謝りするマスター\n\n@\nその後、二人は\n静かに打ち上がる花火を楽しんだ…\n\n# waitandnext 2\n# fadeout \"black\" 1.2\n"
+	}
+]

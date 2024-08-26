@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 501322,
+		"script": ";;B\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_drive\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# face %(unit_a)s \"normal\"\n# voice 5013 \"homura_0003\"\n# textflame 1 1\n@%(unitName:unit_a)s\n思わぬ出会い、ね\nそれはもしかして、\nわたしのことも含めてかしら？\n\n@%(unitName:unit_a)s\nたしかにわたしも、\nこんな出会いがあるだなんて\n思いもしなかったわ\n\n@%(unitName:unit_a)s\n最近、隊の人たちと\n話す機会があったのだけれど\n\n@%(unitName:unit_a)s\nみんな口を揃えて、\n貴方のことを\n楽しそうに話すものだから\n\n@%(unitName:unit_a)s\nきっと貴方との出会いを\n快く思っている人は\nたくさんいるのでしょうね\n\n# voice 5013 \"homura_0004\"\n@%(unitName:unit_a)s\nもちろん\nわたしも含めて、ね\n\n# textflame 0 0\n@\n信頼に満ちた表情を\n窓の外に浮かべながら、\nぼそっと独り言を放つほむら\n\n@\nマスターはその声に\n気づかないまま、\n淡々と車を走らせるのだった…\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

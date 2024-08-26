@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 96018498,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask 2601811 on\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# se \"SE_0733\"\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n@ウィズ\nマスターさん…\nその答え……\n\n# textflame 0 0\n@\n正解か、不正解か？\nあたり一面に\n冷たい空気が張り詰める\n\n# face %(unit_a)s \"sad\"\n# voice 260181 \"wizu_0009\"\n# textflame 1 1\n@ウィズ\n残念、不正解です…\n\n@ウィズ\nすみません、\n試すようなことをしてしまって…\n\n@ウィズ\n今日はもう帰りましょう\n\n# voice 260181 \"wizu_0026\"\n@ウィズ\nこの暑さは…\n私には厳しいです…\n\n# textflame 0 0\n@\n暑さではなく、\nマスターの不正解に\n元気を失ってしまったウィズ\n\n# textflame 0 0\n@\n暑いと言っていた彼女…\n今彼女の胸の内は\n氷のように冷えているのかもしれない\n\n# textflame 0 0\n@\n次こそは間違えない…\nマスターは胸に熱く誓うのだった…\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

@@ -1,0 +1,302 @@
+[
+	{
+		"ID": 3451,
+		"unitID": 2502411,
+		"questionID": 9502401,
+		"script": ";;火縄銃,1\n# textflame 1 1\n# voice 5024 \"saika_0001\"\n@雑賀\nあ、マスター\nちょっといいっすか…？\n\n@雑賀\nなんていうか…\n\n# face %(unit_a)s \"smile\"\n@雑賀\nま、簡単なクイズっす！\n\n# face %(unit_a)s \"normal\"\n@雑賀\nじゃあ…\nいくっすよ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nうちのキラーズ『雑賀』は\nどんな武器か知ってるっすか？\n\n# se \"SE_0734\"\n# select \"火縄銃\" \"select_label_1\" \"短剣\" \"select_label_2\" \"蛇矛\" \"select_label_3\"\nうちのキラーズ『雑賀』は\nどんな武器か知ってるっすか？\n"
+	},
+	{
+		"ID": 3452,
+		"unitID": 2502411,
+		"questionID": 9502402,
+		"script": ";;特に決まってない,2\n# textflame 1 1\n# voice 5024 \"saika_0001\"\n@雑賀\nあ、マスター\nちょっといいっすか…？\n\n@雑賀\nなんていうか…\n\n# face %(unit_a)s \"smile\"\n@雑賀\nま、簡単なクイズっす！\n\n# face %(unit_a)s \"normal\"\n@雑賀\nじゃあ…\nいくっすよ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nうちのキラーズ『雑賀』の\n持ち主はわかるっすか？\n\n# se \"SE_0734\"\n# select \"武田信玄\" \"select_label_1\" \"特に決まってない\" \"select_label_2\" \"上杉謙信\" \"select_label_3\"\nうちのキラーズ『雑賀』の\n持ち主はわかるっすか？\n"
+	},
+	{
+		"ID": 3453,
+		"unitID": 2502411,
+		"questionID": 9502403,
+		"script": ";;傭兵集団,3\n# textflame 1 1\n# voice 5024 \"saika_0001\"\n@雑賀\nあ、マスター\nちょっといいっすか…？\n\n@雑賀\nなんていうか…\n\n# face %(unit_a)s \"smile\"\n@雑賀\nま、簡単なクイズっす！\n\n# face %(unit_a)s \"normal\"\n@雑賀\nじゃあ…\nいくっすよ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n『雑賀』って\nなんの集団だかわかります？\n\n# se \"SE_0734\"\n# select \"人斬り集団\" \"select_label_1\" \"パフォーマンス集団\" \"select_label_2\" \"傭兵集団\" \"select_label_3\"\n『雑賀』って\nなんの集団だかわかります？\n"
+	},
+	{
+		"ID": 3454,
+		"unitID": 2502411,
+		"questionID": 9502404,
+		"script": ";;さいか,1\n# textflame 1 1\n# voice 5024 \"saika_0001\"\n@雑賀\nあ、マスター\nちょっといいっすか…？\n\n@雑賀\nなんていうか…\n\n# face %(unit_a)s \"smile\"\n@雑賀\nま、簡単なクイズっす！\n\n# face %(unit_a)s \"normal\"\n@雑賀\nじゃあ…\nいくっすよ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n『雑賀』って\nなんて読むかわかるっすか？\n\n# se \"SE_0734\"\n# select \"さいか\" \"select_label_1\" \"さいが\" \"select_label_2\" \"ぞうが\" \"select_label_3\"\n『雑賀』って\nなんて読むかわかるっすか？\n"
+	},
+	{
+		"ID": 3455,
+		"unitID": 2502411,
+		"questionID": 9502405,
+		"script": ";;種子島,2\n# textflame 1 1\n# voice 5024 \"saika_0001\"\n@雑賀\nあ、マスター\nちょっといいっすか…？\n\n@雑賀\nなんていうか…\n\n# face %(unit_a)s \"smile\"\n@雑賀\nま、簡単なクイズっす！\n\n# face %(unit_a)s \"normal\"\n@雑賀\nじゃあ…\nいくっすよ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nうちのキラーズ『雑賀』は火縄銃っす\nちなみに日本のどこに火縄銃が\n伝来したかわかります？\n\n# se \"SE_0734\"\n# select \"黒島\" \"select_label_1\" \"種子島\" \"select_label_2\" \"八丈島\" \"select_label_3\"\nうちのキラーズ『雑賀』は火縄銃っす\nちなみに日本のどこに火縄銃が\n伝来したかわかります？\n"
+	},
+	{
+		"ID": 3456,
+		"unitID": 2502411,
+		"questionID": 9502406,
+		"script": ";;日本,3\n# textflame 1 1\n# voice 5024 \"saika_0001\"\n@雑賀\nあ、マスター\nちょっといいっすか…？\n\n@雑賀\nなんていうか…\n\n# face %(unit_a)s \"smile\"\n@雑賀\nま、簡単なクイズっす！\n\n# face %(unit_a)s \"normal\"\n@雑賀\nじゃあ…\nいくっすよ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nうちのキラーズ『雑賀』は\nどこの武器だかわかるっすか？\n\n# se \"SE_0734\"\n# select \"韓国\" \"select_label_1\" \"中国\" \"select_label_2\" \"日本\" \"select_label_3\"\nうちのキラーズ『雑賀』は\nどこの武器だかわかるっすか？\n"
+	},
+	{
+		"ID": 3457,
+		"unitID": 2502411,
+		"questionID": 9502407,
+		"script": ";;数千挺,1\n# textflame 1 1\n# voice 5024 \"saika_0001\"\n@雑賀\nあ、マスター\nちょっといいっすか…？\n\n@雑賀\nなんていうか…\n\n# face %(unit_a)s \"smile\"\n@雑賀\nま、簡単なクイズっす！\n\n# face %(unit_a)s \"normal\"\n@雑賀\nじゃあ…\nいくっすよ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n雑賀衆はどれくらい鉄砲を\n持っていたと言われています？\n\n# se \"SE_0734\"\n# select \"数千挺\" \"select_label_1\" \"数百挺\" \"select_label_2\" \"数億挺\" \"select_label_3\"\n雑賀衆はどれくらい鉄砲を\n持っていたと言われています？\n"
+	},
+	{
+		"ID": 3458,
+		"unitID": 2502411,
+		"questionID": 9502408,
+		"script": ";;必ず戦に勝つ,2\n# textflame 1 1\n# voice 5024 \"saika_0001\"\n@雑賀\nあ、マスター\nちょっといいっすか…？\n\n@雑賀\nなんていうか…\n\n# face %(unit_a)s \"smile\"\n@雑賀\nま、簡単なクイズっす！\n\n# face %(unit_a)s \"normal\"\n@雑賀\nじゃあ…\nいくっすよ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n当時、雑賀衆を味方にすれば\nどうなると言われてました？\n\n# se \"SE_0734\"\n# select \"良からぬ噂が立つ\" \"select_label_1\" \"必ず戦に勝つ\" \"select_label_2\" \"宴が楽しくなる\" \"select_label_3\"\n当時、雑賀衆を味方にすれば\nどうなると言われてました？\n"
+	},
+	{
+		"ID": 3459,
+		"unitID": 2502411,
+		"questionID": 9502409,
+		"script": ";;黒色火薬,3\n# textflame 1 1\n# voice 5024 \"saika_0001\"\n@雑賀\nあ、マスター\nちょっといいっすか…？\n\n@雑賀\nなんていうか…\n\n# face %(unit_a)s \"smile\"\n@雑賀\nま、簡単なクイズっす！\n\n# face %(unit_a)s \"normal\"\n@雑賀\nじゃあ…\nいくっすよ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nうちのキラーズ『雑賀』は\n火縄銃なんすけど、どんな火薬を\n使ってたか知ってます？\n\n# se \"SE_0734\"\n# select \"桃色火薬\" \"select_label_1\" \"赤色火薬\" \"select_label_2\" \"黒色火薬\" \"select_label_3\"\nうちのキラーズ『雑賀』は\n火縄銃なんすけど、どんな火薬を\n使ってたか知ってます？\n"
+	},
+	{
+		"ID": 3460,
+		"unitID": 2502411,
+		"questionID": 9502410,
+		"script": ";;海運や貿易,1\n# textflame 1 1\n# voice 5024 \"saika_0001\"\n@雑賀\nあ、マスター\nちょっといいっすか…？\n\n@雑賀\nなんていうか…\n\n# face %(unit_a)s \"smile\"\n@雑賀\nま、簡単なクイズっす！\n\n# face %(unit_a)s \"normal\"\n@雑賀\nじゃあ…\nいくっすよ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n雑賀衆は傭兵としての戦闘以外には\nどんな事をしていたか知ってます？\n\n# se \"SE_0734\"\n# select \"海運や貿易\" \"select_label_1\" \"開運や風水\" \"select_label_2\" \"宴会や手品\" \"select_label_3\"\n雑賀衆は傭兵としての戦闘以外には\nどんな事をしていたか知ってます？\n"
+	},
+	{
+		"ID": 3461,
+		"unitID": 2502411,
+		"questionID": 9502411,
+		"script": ";;炎,1\n# textflame 1 1\n# voice 5024 \"saika_0001\"\n@雑賀\nマスター、\nちょっといいっすか？\n\n# face %(unit_a)s \"smile\"\n@雑賀\nうちに関する\nクイズコーナーっす！\n\n# voice 5024 \"saika_0004\"\n@雑賀\nもし間違えたら…\nこの水鉄砲で撃たれるから\n気を付けて下さいね♪\n\n# face %(unit_a)s \"normal\"\n# voice 5024 \"saika_0036\"\n@雑賀\nじゃ、いくっすよ！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nうちの属性は\n知ってるっすか？\n\n# se \"SE_0734\"\n# select \"炎\" \"select_label_1\" \"闇\" \"select_label_2\" \"雷\" \"select_label_3\"\nうちの属性は\n知ってるっすか？\n"
+	},
+	{
+		"ID": 3462,
+		"unitID": 2502411,
+		"questionID": 9502412,
+		"script": ";;152cm,2\n# textflame 1 1\n# voice 5024 \"saika_0001\"\n@雑賀\nマスター、\nちょっといいっすか？\n\n# face %(unit_a)s \"smile\"\n@雑賀\nうちに関する\nクイズコーナーっす！\n\n# voice 5024 \"saika_0004\"\n@雑賀\nもし間違えたら…\nこの水鉄砲で撃たれるから\n気を付けて下さいね♪\n\n# face %(unit_a)s \"normal\"\n# voice 5024 \"saika_0036\"\n@雑賀\nじゃ、いくっすよ！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nうちの身長わかります？\n\n# se \"SE_0734\"\n# select \"162cm\" \"select_label_1\" \"152cm\" \"select_label_2\" \"172cm\" \"select_label_3\"\nうちの身長わかります？\n"
+	},
+	{
+		"ID": 3463,
+		"unitID": 2502411,
+		"questionID": 9502413,
+		"script": ";;6月17日,3\n# textflame 1 1\n# voice 5024 \"saika_0001\"\n@雑賀\nマスター、\nちょっといいっすか？\n\n# face %(unit_a)s \"smile\"\n@雑賀\nうちに関する\nクイズコーナーっす！\n\n# voice 5024 \"saika_0004\"\n@雑賀\nもし間違えたら…\nこの水鉄砲で撃たれるから\n気を付けて下さいね♪\n\n# face %(unit_a)s \"normal\"\n# voice 5024 \"saika_0036\"\n@雑賀\nじゃ、いくっすよ！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nうちの誕生日とか\n覚えてくれてると嬉しいっすね\n\n# se \"SE_0734\"\n# select \"11月17日\" \"select_label_1\" \"8月17日\" \"select_label_2\" \"6月17日\" \"select_label_3\"\nうちの誕生日とか\n覚えてくれてると嬉しいっすね\n"
+	},
+	{
+		"ID": 3464,
+		"unitID": 2502411,
+		"questionID": 9502414,
+		"script": ";;ふたご座,1\n# textflame 1 1\n# voice 5024 \"saika_0001\"\n@雑賀\nマスター、\nちょっといいっすか？\n\n# face %(unit_a)s \"smile\"\n@雑賀\nうちに関する\nクイズコーナーっす！\n\n# voice 5024 \"saika_0004\"\n@雑賀\nもし間違えたら…\nこの水鉄砲で撃たれるから\n気を付けて下さいね♪\n\n# face %(unit_a)s \"normal\"\n# voice 5024 \"saika_0036\"\n@雑賀\nじゃ、いくっすよ！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nうちの星座はわかるっすか…？\n\n# se \"SE_0734\"\n# select \"ふたご座\" \"select_label_1\" \"てんびん座\" \"select_label_2\" \"おとめ座\" \"select_label_3\"\nうちの星座はわかるっすか…？\n"
+	},
+	{
+		"ID": 3465,
+		"unitID": 2502411,
+		"questionID": 9502415,
+		"script": ";;多数決,2\n# textflame 1 1\n# voice 5024 \"saika_0001\"\n@雑賀\nマスター、\nちょっといいっすか？\n\n# face %(unit_a)s \"smile\"\n@雑賀\nうちに関する\nクイズコーナーっす！\n\n# voice 5024 \"saika_0004\"\n@雑賀\nもし間違えたら…\nこの水鉄砲で撃たれるから\n気を付けて下さいね♪\n\n# face %(unit_a)s \"normal\"\n# voice 5024 \"saika_0036\"\n@雑賀\nじゃ、いくっすよ！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nうちが好きなものはこれ！\n\n# se \"SE_0734\"\n# select \"独断専行\" \"select_label_1\" \"多数決\" \"select_label_2\" \"民主主義\" \"select_label_3\"\nうちが好きなものはこれ！\n"
+	},
+	{
+		"ID": 3466,
+		"unitID": 2502411,
+		"questionID": 9502416,
+		"script": ";;単独行動,3\n# textflame 1 1\n# voice 5024 \"saika_0001\"\n@雑賀\nマスター、\nちょっといいっすか？\n\n# face %(unit_a)s \"smile\"\n@雑賀\nうちに関する\nクイズコーナーっす！\n\n# voice 5024 \"saika_0004\"\n@雑賀\nもし間違えたら…\nこの水鉄砲で撃たれるから\n気を付けて下さいね♪\n\n# face %(unit_a)s \"normal\"\n# voice 5024 \"saika_0036\"\n@雑賀\nじゃ、いくっすよ！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nうちはこれが嫌いっすね！\n\n# se \"SE_0734\"\n# select \"思いつきの行動\" \"select_label_1\" \"集団行動\" \"select_label_2\" \"単独行動\" \"select_label_3\"\nうちはこれが嫌いっすね！\n"
+	},
+	{
+		"ID": 3467,
+		"unitID": 2502411,
+		"questionID": 9502417,
+		"script": ";;ＡＢ,1\n# textflame 1 1\n# voice 5024 \"saika_0001\"\n@雑賀\nマスター、\nちょっといいっすか？\n\n# face %(unit_a)s \"smile\"\n@雑賀\nうちに関する\nクイズコーナーっす！\n\n# voice 5024 \"saika_0004\"\n@雑賀\nもし間違えたら…\nこの水鉄砲で撃たれるから\n気を付けて下さいね♪\n\n# face %(unit_a)s \"normal\"\n# voice 5024 \"saika_0036\"\n@雑賀\nじゃ、いくっすよ！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nうちの血液型、わかるっすか？\n\n# se \"SE_0734\"\n# select \"ＡＢ\" \"select_label_1\" \"Ａ\" \"select_label_2\" \"Ｂ\" \"select_label_3\"\nうちの血液型、わかるっすか？\n"
+	},
+	{
+		"ID": 3468,
+		"unitID": 2502411,
+		"questionID": 9502418,
+		"script": ";;紀州,2\n# textflame 1 1\n# voice 5024 \"saika_0001\"\n@雑賀\nマスター、\nちょっといいっすか？\n\n# face %(unit_a)s \"smile\"\n@雑賀\nうちに関する\nクイズコーナーっす！\n\n# voice 5024 \"saika_0004\"\n@雑賀\nもし間違えたら…\nこの水鉄砲で撃たれるから\n気を付けて下さいね♪\n\n# face %(unit_a)s \"normal\"\n# voice 5024 \"saika_0036\"\n@雑賀\nじゃ、いくっすよ！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nうちの出身地、わかるっすか？\n\n# se \"SE_0734\"\n# select \"甲州\" \"select_label_1\" \"紀州\" \"select_label_2\" \"九州\" \"select_label_3\"\nうちの出身地、わかるっすか？\n"
+	},
+	{
+		"ID": 3469,
+		"unitID": 2502411,
+		"questionID": 9502419,
+		"script": ";;戦,3\n# textflame 1 1\n# voice 5024 \"saika_0001\"\n@雑賀\nマスター、\nちょっといいっすか？\n\n# face %(unit_a)s \"smile\"\n@雑賀\nうちに関する\nクイズコーナーっす！\n\n# voice 5024 \"saika_0004\"\n@雑賀\nもし間違えたら…\nこの水鉄砲で撃たれるから\n気を付けて下さいね♪\n\n# face %(unit_a)s \"normal\"\n# voice 5024 \"saika_0036\"\n@雑賀\nじゃ、いくっすよ！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nうちの趣味は\nどれかわかるっすか？\n\n# se \"SE_0734\"\n# select \"居合抜き\" \"select_label_1\" \"平和\" \"select_label_2\" \"戦\" \"select_label_3\"\nうちの趣味は\nどれかわかるっすか？\n"
+	},
+	{
+		"ID": 3470,
+		"unitID": 2502411,
+		"questionID": 9502420,
+		"script": ";;仲間意識が薄い,1\n# textflame 1 1\n# voice 5024 \"saika_0001\"\n@雑賀\nマスター、\nちょっといいっすか？\n\n# face %(unit_a)s \"smile\"\n@雑賀\nうちに関する\nクイズコーナーっす！\n\n# voice 5024 \"saika_0004\"\n@雑賀\nもし間違えたら…\nこの水鉄砲で撃たれるから\n気を付けて下さいね♪\n\n# face %(unit_a)s \"normal\"\n# voice 5024 \"saika_0036\"\n@雑賀\nじゃ、いくっすよ！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nうちはぶっちゃけ…\n\n# se \"SE_0734\"\n# select \"仲間意識が薄い\" \"select_label_1\" \"仲間意識が強い\" \"select_label_2\" \"仲間さんが好き\" \"select_label_3\"\nうちはぶっちゃけ…\n"
+	},
+	{
+		"ID": 3471,
+		"unitID": 2502411,
+		"questionID": 9502421,
+		"script": ";;アンドロイド,1\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n@雑賀\nうち…\n一対一って苦手だと\n思ってたけど…\n\n# face %(unit_a)s \"smile\"\n# voice 5024 \"saika_0004\"\n@雑賀\n今日は…楽しかったっす！\n\n# face %(unit_a)s \"normal\"\n# voice 5024 \"saika_0001\"\n@雑賀\nマスターは、\nうちのこと、\nどう思ってるっすか…？\n\n# voice 5024 \"saika_0036\"\n@雑賀\n試しても…いいっすか？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nうちの周りを飛んでいるのは\nみかん型の…\n\n# se \"SE_0734\"\n# select \"アンドロイド\" \"select_label_1\" \"ぬいぐるみ\" \"select_label_2\" \"妖怪\" \"select_label_3\"\nうちの周りを飛んでいるのは\nみかん型の…\n"
+	},
+	{
+		"ID": 3472,
+		"unitID": 2502411,
+		"questionID": 9502422,
+		"script": ";;銃神,2\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n@雑賀\nうち…\n一対一って苦手だと\n思ってたけど…\n\n# face %(unit_a)s \"smile\"\n# voice 5024 \"saika_0004\"\n@雑賀\n今日は…楽しかったっす！\n\n# face %(unit_a)s \"normal\"\n# voice 5024 \"saika_0001\"\n@雑賀\nマスターは、\nうちのこと、\nどう思ってるっすか…？\n\n# voice 5024 \"saika_0036\"\n@雑賀\n試しても…いいっすか？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nうちの☆６のジョブ名\nわかるっすか？\n\n# se \"SE_0734\"\n# select \"銃姫\" \"select_label_1\" \"銃神\" \"select_label_2\" \"銃っ娘\" \"select_label_3\"\nうちの☆６のジョブ名\nわかるっすか？\n"
+	},
+	{
+		"ID": 3473,
+		"unitID": 2502411,
+		"questionID": 9502423,
+		"script": ";;みかん型,3\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n@雑賀\nうち…\n一対一って苦手だと\n思ってたけど…\n\n# face %(unit_a)s \"smile\"\n# voice 5024 \"saika_0004\"\n@雑賀\n今日は…楽しかったっす！\n\n# face %(unit_a)s \"normal\"\n# voice 5024 \"saika_0001\"\n@雑賀\nマスターは、\nうちのこと、\nどう思ってるっすか…？\n\n# voice 5024 \"saika_0036\"\n@雑賀\n試しても…いいっすか？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nウチの周りを飛んでいる\nアンドロイドは紀州なだけに…\n\n# se \"SE_0734\"\n# select \"あんず型\" \"select_label_1\" \"パイン型\" \"select_label_2\" \"みかん型\" \"select_label_3\"\nウチの周りを飛んでいる\nアンドロイドは紀州なだけに…\n"
+	},
+	{
+		"ID": 3474,
+		"unitID": 2502411,
+		"questionID": 9502424,
+		"script": ";;炎銃神の闘護,1\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n@雑賀\nうち…\n一対一って苦手だと\n思ってたけど…\n\n# face %(unit_a)s \"smile\"\n# voice 5024 \"saika_0004\"\n@雑賀\n今日は…楽しかったっす！\n\n# face %(unit_a)s \"normal\"\n# voice 5024 \"saika_0001\"\n@雑賀\nマスターは、\nうちのこと、\nどう思ってるっすか…？\n\n# voice 5024 \"saika_0036\"\n@雑賀\n試しても…いいっすか？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nうちの☆６のリーダースキル\nわかります？\n\n# se \"SE_0734\"\n# select \"炎銃神の闘護\" \"select_label_1\" \"炎銃神の闘気\" \"select_label_2\" \"炎銃神の闘神\" \"select_label_3\"\nうちの☆６のリーダースキル\nわかります？\n"
+	},
+	{
+		"ID": 3475,
+		"unitID": 2502411,
+		"questionID": 9502425,
+		"script": ";;マサムネ,2\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n@雑賀\nうち…\n一対一って苦手だと\n思ってたけど…\n\n# face %(unit_a)s \"smile\"\n# voice 5024 \"saika_0004\"\n@雑賀\n今日は…楽しかったっす！\n\n# face %(unit_a)s \"normal\"\n# voice 5024 \"saika_0001\"\n@雑賀\nマスターは、\nうちのこと、\nどう思ってるっすか…？\n\n# voice 5024 \"saika_0036\"\n@雑賀\n試しても…いいっすか？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nうちと仲がいいのはこの子っすね！\n\n# se \"SE_0734\"\n# select \"エクスカリバー\" \"select_label_1\" \"マサムネ\" \"select_label_2\" \"アスカロン\" \"select_label_3\"\nうちと仲がいいのはこの子っすね！\n"
+	},
+	{
+		"ID": 3476,
+		"unitID": 2502411,
+		"questionID": 9502426,
+		"script": ";;4マス,3\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n@雑賀\nうち…\n一対一って苦手だと\n思ってたけど…\n\n# face %(unit_a)s \"smile\"\n# voice 5024 \"saika_0004\"\n@雑賀\n今日は…楽しかったっす！\n\n# face %(unit_a)s \"normal\"\n# voice 5024 \"saika_0001\"\n@雑賀\nマスターは、\nうちのこと、\nどう思ってるっすか…？\n\n# voice 5024 \"saika_0036\"\n@雑賀\n試しても…いいっすか？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nうちが習得する\n「エンドブレイズ」の射程は？\n\n# se \"SE_0734\"\n# select \"2マス\" \"select_label_1\" \"3マス\" \"select_label_2\" \"4マス\" \"select_label_3\"\nうちが習得する\n「エンドブレイズ」の射程は？\n"
+	},
+	{
+		"ID": 3477,
+		"unitID": 2502411,
+		"questionID": 9502427,
+		"script": ";;ブレイブレギオン,1\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n@雑賀\nうち…\n一対一って苦手だと\n思ってたけど…\n\n# face %(unit_a)s \"smile\"\n# voice 5024 \"saika_0004\"\n@雑賀\n今日は…楽しかったっす！\n\n# face %(unit_a)s \"normal\"\n# voice 5024 \"saika_0001\"\n@雑賀\nマスターは、\nうちのこと、\nどう思ってるっすか…？\n\n# voice 5024 \"saika_0036\"\n@雑賀\n試しても…いいっすか？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nうちが覚える\n付与スキルってわかります？\n\n# se \"SE_0734\"\n# select \"ブレイブレギオン\" \"select_label_1\" \"ブレイブサンダー\" \"select_label_2\" \"ブレイブマジック\" \"select_label_3\"\nうちが覚える\n付与スキルってわかります？\n"
+	},
+	{
+		"ID": 3478,
+		"unitID": 2502411,
+		"questionID": 9502428,
+		"script": ";;精密八咫烏,2\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n@雑賀\nうち…\n一対一って苦手だと\n思ってたけど…\n\n# face %(unit_a)s \"smile\"\n# voice 5024 \"saika_0004\"\n@雑賀\n今日は…楽しかったっす！\n\n# face %(unit_a)s \"normal\"\n# voice 5024 \"saika_0001\"\n@雑賀\nマスターは、\nうちのこと、\nどう思ってるっすか…？\n\n# voice 5024 \"saika_0036\"\n@雑賀\n試しても…いいっすか？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nうちが取得したスキルを\n覚えてるっすか？\n\n# se \"SE_0734\"\n# select \"青春八咫烏\" \"select_label_1\" \"精密八咫烏\" \"select_label_2\" \"整列八咫烏\" \"select_label_3\"\nうちが取得したスキルを\n覚えてるっすか？\n"
+	},
+	{
+		"ID": 3479,
+		"unitID": 2502411,
+		"questionID": 9502429,
+		"script": ";;速撃八咫烏,3\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n@雑賀\nうち…\n一対一って苦手だと\n思ってたけど…\n\n# face %(unit_a)s \"smile\"\n# voice 5024 \"saika_0004\"\n@雑賀\n今日は…楽しかったっす！\n\n# face %(unit_a)s \"normal\"\n# voice 5024 \"saika_0001\"\n@雑賀\nマスターは、\nうちのこと、\nどう思ってるっすか…？\n\n# voice 5024 \"saika_0036\"\n@雑賀\n試しても…いいっすか？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nうちが取得したスキルを\n覚えてるっすか？\n\n# se \"SE_0734\"\n# select \"銃撃八咫烏\" \"select_label_1\" \"一撃八咫烏\" \"select_label_2\" \"速撃八咫烏\" \"select_label_3\"\nうちが取得したスキルを\n覚えてるっすか？\n"
+	},
+	{
+		"ID": 3480,
+		"unitID": 2502411,
+		"questionID": 9502430,
+		"script": ";;与一,1\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n@雑賀\nうち…\n一対一って苦手だと\n思ってたけど…\n\n# face %(unit_a)s \"smile\"\n# voice 5024 \"saika_0004\"\n@雑賀\n今日は…楽しかったっす！\n\n# face %(unit_a)s \"normal\"\n# voice 5024 \"saika_0001\"\n@雑賀\nマスターは、\nうちのこと、\nどう思ってるっすか…？\n\n# voice 5024 \"saika_0036\"\n@雑賀\n試しても…いいっすか？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nうちはこの子とも\n比較的、仲がいいっす！\n\n# se \"SE_0734\"\n# select \"与一\" \"select_label_1\" \"エロース\" \"select_label_2\" \"パラシュ\" \"select_label_3\"\nうちはこの子とも\n比較的、仲がいいっす！\n"
+	},
+	{
+		"ID": 3481,
+		"unitID": 2502411,
+		"questionID": 9502431,
+		"script": ";;和歌山県と三重県南部,1\n# textflame 1 1\n# voice 5024 \"saika_0008\"\n@雑賀\nなんか、もう…\n\n# face %(unit_a)s \"smile\"\n@雑賀\nマスターの前やったら、\n方言でもええかなって\n思えるんよ\n\n# eye %(unit_a)s \"close\"\n@雑賀\n飾ってない…\nうちのほんまの心を\n見てほしいから\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"normal\"\n# voice 5024 \"saika_0004\"\n@雑賀\nっちゅうことで…\n問題出してもええ…？\n\n# face %(unit_a)s \"smile\"\n# voice 5024 \"saika_0004\"\n@雑賀\nいくで？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nうちの出身地の紀州って\nどこのあたりかわかります？\n\n# se \"SE_0734\"\n# select \"和歌山県と三重県南部\" \"select_label_1\" \"鹿児島県のあたり\" \"select_label_2\" \"山梨県と静岡県北部\" \"select_label_3\"\nうちの出身地の紀州って\nどこのあたりかわかります？\n"
+	},
+	{
+		"ID": 3482,
+		"unitID": 2502411,
+		"questionID": 9502432,
+		"script": ";;Gemini,2\n# textflame 1 1\n# voice 5024 \"saika_0008\"\n@雑賀\nなんか、もう…\n\n# face %(unit_a)s \"smile\"\n@雑賀\nマスターの前やったら、\n方言でもええかなって\n思えるんよ\n\n# eye %(unit_a)s \"close\"\n@雑賀\n飾ってない…\nうちのほんまの心を\n見てほしいから\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"normal\"\n# voice 5024 \"saika_0004\"\n@雑賀\nっちゅうことで…\n問題出してもええ…？\n\n# face %(unit_a)s \"smile\"\n# voice 5024 \"saika_0004\"\n@雑賀\nいくで？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nうちの星座「ふたご座」を\n英語で言うと？\n\n# se \"SE_0734\"\n# select \"Cancer\" \"select_label_1\" \"Gemini\" \"select_label_2\" \"Scorpio\" \"select_label_3\"\nうちの星座「ふたご座」を\n英語で言うと？\n"
+	},
+	{
+		"ID": 3483,
+		"unitID": 2502411,
+		"questionID": 9502433,
+		"script": ";;June,3\n# textflame 1 1\n# voice 5024 \"saika_0008\"\n@雑賀\nなんか、もう…\n\n# face %(unit_a)s \"smile\"\n@雑賀\nマスターの前やったら、\n方言でもええかなって\n思えるんよ\n\n# eye %(unit_a)s \"close\"\n@雑賀\n飾ってない…\nうちのほんまの心を\n見てほしいから\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"normal\"\n# voice 5024 \"saika_0004\"\n@雑賀\nっちゅうことで…\n問題出してもええ…？\n\n# face %(unit_a)s \"smile\"\n# voice 5024 \"saika_0004\"\n@雑賀\nいくで？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nうちの誕生月である\n６月を英語で言うと？\n\n# se \"SE_0734\"\n# select \"January\" \"select_label_1\" \"August\" \"select_label_2\" \"June\" \"select_label_3\"\nうちの誕生月である\n６月を英語で言うと？\n"
+	},
+	{
+		"ID": 3484,
+		"unitID": 2502411,
+		"questionID": 9502434,
+		"script": ";;絶対の自信を持ってる,1\n# textflame 1 1\n# voice 5024 \"saika_0008\"\n@雑賀\nなんか、もう…\n\n# face %(unit_a)s \"smile\"\n@雑賀\nマスターの前やったら、\n方言でもええかなって\n思えるんよ\n\n# eye %(unit_a)s \"close\"\n@雑賀\n飾ってない…\nうちのほんまの心を\n見てほしいから\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"normal\"\n# voice 5024 \"saika_0004\"\n@雑賀\nっちゅうことで…\n問題出してもええ…？\n\n# face %(unit_a)s \"smile\"\n# voice 5024 \"saika_0004\"\n@雑賀\nいくで？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nうちは自分に…？\n\n# se \"SE_0734\"\n# select \"絶対の自信を持ってる\" \"select_label_1\" \"全然自信がない\" \"select_label_2\" \"酔っている\" \"select_label_3\"\nうちは自分に…？\n"
+	},
+	{
+		"ID": 3485,
+		"unitID": 2502411,
+		"questionID": 9502435,
+		"script": ";;黒髪,2\n# textflame 1 1\n# voice 5024 \"saika_0008\"\n@雑賀\nなんか、もう…\n\n# face %(unit_a)s \"smile\"\n@雑賀\nマスターの前やったら、\n方言でもええかなって\n思えるんよ\n\n# eye %(unit_a)s \"close\"\n@雑賀\n飾ってない…\nうちのほんまの心を\n見てほしいから\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"normal\"\n# voice 5024 \"saika_0004\"\n@雑賀\nっちゅうことで…\n問題出してもええ…？\n\n# face %(unit_a)s \"smile\"\n# voice 5024 \"saika_0004\"\n@雑賀\nいくで？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nうちの髪色は…？\n\n# se \"SE_0734\"\n# select \"金髪\" \"select_label_1\" \"黒髪\" \"select_label_2\" \"赤髪\" \"select_label_3\"\nうちの髪色は…？\n"
+	},
+	{
+		"ID": 3486,
+		"unitID": 2502411,
+		"questionID": 9502436,
+		"script": ";;みかん,3\n# textflame 1 1\n# voice 5024 \"saika_0008\"\n@雑賀\nなんか、もう…\n\n# face %(unit_a)s \"smile\"\n@雑賀\nマスターの前やったら、\n方言でもええかなって\n思えるんよ\n\n# eye %(unit_a)s \"close\"\n@雑賀\n飾ってない…\nうちのほんまの心を\n見てほしいから\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"normal\"\n# voice 5024 \"saika_0004\"\n@雑賀\nっちゅうことで…\n問題出してもええ…？\n\n# face %(unit_a)s \"smile\"\n# voice 5024 \"saika_0004\"\n@雑賀\nいくで？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nうちの好きな果物といえば\nあれしかないっすね\n\n# se \"SE_0734\"\n# select \"パイン\" \"select_label_1\" \"りんご\" \"select_label_2\" \"みかん\" \"select_label_3\"\nうちの好きな果物といえば\nあれしかないっすね\n"
+	},
+	{
+		"ID": 3487,
+		"unitID": 2502411,
+		"questionID": 9502437,
+		"script": ";;なまり,1\n# textflame 1 1\n# voice 5024 \"saika_0008\"\n@雑賀\nなんか、もう…\n\n# face %(unit_a)s \"smile\"\n@雑賀\nマスターの前やったら、\n方言でもええかなって\n思えるんよ\n\n# eye %(unit_a)s \"close\"\n@雑賀\n飾ってない…\nうちのほんまの心を\n見てほしいから\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"normal\"\n# voice 5024 \"saika_0004\"\n@雑賀\nっちゅうことで…\n問題出してもええ…？\n\n# face %(unit_a)s \"smile\"\n# voice 5024 \"saika_0004\"\n@雑賀\nいくで？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nうちが気にしていること…\n知ってるっすよね？\n\n# se \"SE_0734\"\n# select \"なまり\" \"select_label_1\" \"寝ぐせ\" \"select_label_2\" \"ハスキーボイス\" \"select_label_3\"\nうちが気にしていること…\n知ってるっすよね？\n"
+	},
+	{
+		"ID": 3488,
+		"unitID": 2502411,
+		"questionID": 9502438,
+		"script": ";;メギド,2\n# textflame 1 1\n# voice 5024 \"saika_0008\"\n@雑賀\nなんか、もう…\n\n# face %(unit_a)s \"smile\"\n@雑賀\nマスターの前やったら、\n方言でもええかなって\n思えるんよ\n\n# eye %(unit_a)s \"close\"\n@雑賀\n飾ってない…\nうちのほんまの心を\n見てほしいから\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"normal\"\n# voice 5024 \"saika_0004\"\n@雑賀\nっちゅうことで…\n問題出してもええ…？\n\n# face %(unit_a)s \"smile\"\n# voice 5024 \"saika_0004\"\n@雑賀\nいくで？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nうちと同じ血液型なのは\n誰かわかるっすか？\n\n# se \"SE_0734\"\n# select \"ロンゴミアント\" \"select_label_1\" \"メギド\" \"select_label_2\" \"ブリューナク\" \"select_label_3\"\nうちと同じ血液型なのは\n誰かわかるっすか？\n"
+	},
+	{
+		"ID": 3489,
+		"unitID": 2502411,
+		"questionID": 9502439,
+		"script": ";;ロンゴミアント,3\n# textflame 1 1\n# voice 5024 \"saika_0008\"\n@雑賀\nなんか、もう…\n\n# face %(unit_a)s \"smile\"\n@雑賀\nマスターの前やったら、\n方言でもええかなって\n思えるんよ\n\n# eye %(unit_a)s \"close\"\n@雑賀\n飾ってない…\nうちのほんまの心を\n見てほしいから\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"normal\"\n# voice 5024 \"saika_0004\"\n@雑賀\nっちゅうことで…\n問題出してもええ…？\n\n# face %(unit_a)s \"smile\"\n# voice 5024 \"saika_0004\"\n@雑賀\nいくで？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nうちと違う血液型なのは\n誰かわかるっすか？\n\n# se \"SE_0734\"\n# select \"レシェフ\" \"select_label_1\" \"メギド\" \"select_label_2\" \"ロンゴミアント\" \"select_label_3\"\nうちと違う血液型なのは\n誰かわかるっすか？\n"
+	},
+	{
+		"ID": 3490,
+		"unitID": 2502411,
+		"questionID": 9502440,
+		"script": ";;アダマス,1\n# textflame 1 1\n# voice 5024 \"saika_0008\"\n@雑賀\nなんか、もう…\n\n# face %(unit_a)s \"smile\"\n@雑賀\nマスターの前やったら、\n方言でもええかなって\n思えるんよ\n\n# eye %(unit_a)s \"close\"\n@雑賀\n飾ってない…\nうちのほんまの心を\n見てほしいから\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"normal\"\n# voice 5024 \"saika_0004\"\n@雑賀\nっちゅうことで…\n問題出してもええ…？\n\n# face %(unit_a)s \"smile\"\n# voice 5024 \"saika_0004\"\n@雑賀\nいくで？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nうちと同じ誕生月なのは\n誰かわかるっすか？\n\n# se \"SE_0734\"\n# select \"アダマス\" \"select_label_1\" \"シタ\" \"select_label_2\" \"ミトゥム\" \"select_label_3\"\nうちと同じ誕生月なのは\n誰かわかるっすか？\n"
+	},
+	{
+		"ID": 3491,
+		"unitID": 2502411,
+		"questionID": 9502441,
+		"script": "\n;;うち,1\n# se \"SE_0734\"\n# select \"うち\" \"select_label_1\" \"私\" \"select_label_2\" \"オレ\" \"select_label_3\"\n雑賀の一人称は\n次のうちどれ？\n"
+	},
+	{
+		"ID": 3492,
+		"unitID": 2502411,
+		"questionID": 9502442,
+		"script": "\n;;マスター,2\n# se \"SE_0734\"\n# select \"ご主人\" \"select_label_1\" \"マスター\" \"select_label_2\" \"キミ\" \"select_label_3\"\n雑賀はアンタのこと、\nなんて呼んでる？\n"
+	},
+	{
+		"ID": 3493,
+		"unitID": 2502411,
+		"questionID": 9502443,
+		"script": "\n;;84,3\n# se \"SE_0734\"\n# select \"80\" \"select_label_1\" \"82\" \"select_label_2\" \"84\" \"select_label_3\"\n雑賀の\nバストサイズがどのくらいか\nアンタ…知ってるの？\n"
+	},
+	{
+		"ID": 3494,
+		"unitID": 2502411,
+		"questionID": 9502444,
+		"script": "\n;;56,1\n# se \"SE_0734\"\n# select \"56\" \"select_label_1\" \"60\" \"select_label_2\" \"61\" \"select_label_3\"\n雑賀の\nウエストサイズがどのくらいか\nアンタ…知ってるの？\n"
+	},
+	{
+		"ID": 3495,
+		"unitID": 2502411,
+		"questionID": 9502445,
+		"script": "\n;;82,2\n# se \"SE_0734\"\n# select \"79\" \"select_label_1\" \"82\" \"select_label_2\" \"85\" \"select_label_3\"\n雑賀の\nヒップサイズがどのくらいか\nアンタ…知ってるの？\n"
+	},
+	{
+		"ID": 3496,
+		"unitID": 2502411,
+		"questionID": 9502446,
+		"script": "\n;;44,3\n# se \"SE_0734\"\n# select \"40\" \"select_label_1\" \"46\" \"select_label_2\" \"44\" \"select_label_3\"\n雑賀の体重は\n次のうちどれ？\n"
+	},
+	{
+		"ID": 3497,
+		"unitID": 2502411,
+		"questionID": 9502447,
+		"script": "\n;;222,1\n# se \"SE_0734\"\n# select \"222\" \"select_label_1\" \"229\" \"select_label_2\" \"230\" \"select_label_3\"\n雑賀の\nバスト＋ウエスト＋ヒップは\nいくつかわかる？\n"
+	},
+	{
+		"ID": 3498,
+		"unitID": 2502411,
+		"questionID": 9502448,
+		"script": "\n;;迷彩柄,2\n# se \"SE_0734\"\n# select \"ストライプ\" \"select_label_1\" \"迷彩柄\" \"select_label_2\" \"ドット柄\" \"select_label_3\"\n雑賀の水着の柄は\n次のうちどれ？\n"
+	},
+	{
+		"ID": 3499,
+		"unitID": 2502411,
+		"questionID": 9502449,
+		"script": "\n;;順位なし,3\n# se \"SE_0734\"\n# select \"64位\" \"select_label_1\" \"51位\" \"select_label_2\" \"順位なし\" \"select_label_3\"\n雑賀は\n第２回人気投票で\n何位だったでしょう？\n"
+	},
+	{
+		"ID": 3500,
+		"unitID": 2502411,
+		"questionID": 9502450,
+		"script": "\n;;諏訪彩花,1\n# se \"SE_0734\"\n# select \"諏訪彩花\" \"select_label_1\" \"大原さやか\" \"select_label_2\" \"日高里菜\" \"select_label_3\"\n雑賀の声優は誰？\n"
+	}
+]

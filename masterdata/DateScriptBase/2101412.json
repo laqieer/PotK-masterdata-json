@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 2101412,
+		"script": ";;//すごく上がる B\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_planetarium\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# voice 210142 \"tyrufing_k_0004\"\n# face %(unit_a)s \"smile\"\n@ティルフィング\nさすがマスター、\n私のこと、\n理解してくれているんですね\n\n# face %(unit_a)s \"normal\"\n@ティルフィング\n星の輝き…\nいつか私のものにできないか、\nなんて考えちゃいます\n\n# textflame 0 0\n@\n今ならきみだけのものだよ\nとマスターが答えると、\nティルフィングはくすりと笑った\n\n# face %(unit_a)s \"smile\"\n# voice 210142 \"tyrufing_k_0005\"\n# textflame 1 1\n@ティルフィング\nふふっ…\n何を言っているんですか？\n私たちの物でしょう？\n\n# textflame 0 0\n@\nイタズラっぽい笑みを浮かべて\nそんなことを言うティルフィング\n\n@\nその笑顔に見惚れ、\nプラネタリウムが終るまで、\n鼓動はドキドキとしていた…\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 400212,
+		"script": "# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_fireworks\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 4002 \"pinaka_0028\"\n@ピナーカ\nえぇ～っと…\n\n# textflame 0 0\n@\nなぜかピナーカは\n急におとなしくなってしまった\n\n# textflame 1 1\n@ピナーカ\nいやぁ…\n夜空で火薬玉が\nバンバン爆発するって言うから…\n\n# textflame 1 1\n@ピナーカ\nすかーっ！\nっとするだろうなって\n思ってたんだけどよぉ…\n\n# textflame 0 0\n@\nピナーカはうつむいて\nサンダルの親指同士を\nこすり合わせ始めた\n\n# textflame 1 1\n@ピナーカ\nちょ～っと…\n思ってた雰囲気と違うっていうか…\n\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# voice 4002 \"pinaka_0008\"\n@ピナーカ\nなんか…甘ったるくて…\nくすぐったくて…\nでもなんか…いいなぁ、って…\n\n# textflame 1 1\n# voice 4002 \"pinaka_0005\"\n@ピナーカ\nはは…っ\n\n# textflame 0 0\n@\nピナーカはその後も静かで\nでもいつもより柔らかく\n微笑んでいた――\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

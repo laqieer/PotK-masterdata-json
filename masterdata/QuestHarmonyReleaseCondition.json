@@ -1,0 +1,98 @@
+[
+	{
+		"ID": 4,
+		"quest_s_QuestHarmonyS": 910011331,
+		"required_quest_s_QuestHarmonyS": 0,
+		"character_id": 4011,
+		"target_character_id": 5013,
+		"required_intimacy_level": 5
+	},
+	{
+		"ID": 5,
+		"quest_s_QuestHarmonyS": 910011332,
+		"required_quest_s_QuestHarmonyS": 910011331,
+		"character_id": 4011,
+		"target_character_id": 5013,
+		"required_intimacy_level": 5
+	},
+	{
+		"ID": 13,
+		"quest_s_QuestHarmonyS": 910011351,
+		"required_quest_s_QuestHarmonyS": 0,
+		"character_id": 1021,
+		"target_character_id": 2014,
+		"required_intimacy_level": 5
+	},
+	{
+		"ID": 14,
+		"quest_s_QuestHarmonyS": 910011351,
+		"required_quest_s_QuestHarmonyS": 0,
+		"character_id": 1021,
+		"target_character_id": 3016,
+		"required_intimacy_level": 5
+	},
+	{
+		"ID": 15,
+		"quest_s_QuestHarmonyS": 910011351,
+		"required_quest_s_QuestHarmonyS": 0,
+		"character_id": 2014,
+		"target_character_id": 3016,
+		"required_intimacy_level": 5
+	},
+	{
+		"ID": 16,
+		"quest_s_QuestHarmonyS": 910011352,
+		"required_quest_s_QuestHarmonyS": 910011351,
+		"character_id": 1021,
+		"target_character_id": 2014,
+		"required_intimacy_level": 5
+	},
+	{
+		"ID": 17,
+		"quest_s_QuestHarmonyS": 910011352,
+		"required_quest_s_QuestHarmonyS": 910011351,
+		"character_id": 1021,
+		"target_character_id": 3016,
+		"required_intimacy_level": 5
+	},
+	{
+		"ID": 18,
+		"quest_s_QuestHarmonyS": 910011352,
+		"required_quest_s_QuestHarmonyS": 910011351,
+		"character_id": 2014,
+		"target_character_id": 3016,
+		"required_intimacy_level": 5
+	},
+	{
+		"ID": 19,
+		"quest_s_QuestHarmonyS": 910011361,
+		"required_quest_s_QuestHarmonyS": 0,
+		"character_id": 5004,
+		"target_character_id": 5005,
+		"required_intimacy_level": 5
+	},
+	{
+		"ID": 20,
+		"quest_s_QuestHarmonyS": 910011362,
+		"required_quest_s_QuestHarmonyS": 910011361,
+		"character_id": 5004,
+		"target_character_id": 5005,
+		"required_intimacy_level": 5
+	},
+	{
+		"ID": 21,
+		"quest_s_QuestHarmonyS": 910011371,
+		"required_quest_s_QuestHarmonyS": 0,
+		"character_id": 1040,
+		"target_character_id": 1041,
+		"required_intimacy_level": 5
+	},
+	{
+		"ID": 22,
+		"quest_s_QuestHarmonyS": 910011372,
+		"required_quest_s_QuestHarmonyS": 910011371,
+		"character_id": 1040,
+		"target_character_id": 1041,
+		"required_intimacy_level": 5
+	}
+]

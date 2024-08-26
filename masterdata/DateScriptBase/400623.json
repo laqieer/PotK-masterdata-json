@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 400623,
+		"script": "# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_room\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# voice 4006 \"azusa_kyara_2003\"\n# face %(unit_a)s \"smile\"\n@梓弓\nはい！　\nこちらにあるのは\nすべて占いの道具になります\n\n# textflame 0 0\n@\nふうん、と言いながら\nその一つを手に取るマスター\n\n# voice 4006 \"azusa_0004\"\n# textflame 1 1\n@梓弓\nそれは占いではなく\nまじない用の道具ですね！\n\n# textflame 0 0\n@\nものすごい素早さで\n奪われてしまった\n…なんか怖い\n\n# textflame 1 1\n@梓弓\nああ、せっかくですから\nなにか占いましょうか！\n\n# face %(unit_a)s \"sad\"\n# voice 4006 \"azusa_kyara_1010\"\n@梓弓\n…マスター？\nそんなに必死で拒否しなくても…\n無理強いはしませんよ…？\n\n# textflame 0 0\n@\nせっかく二人きりなので…\n\n# textflame 0 0\n@\nトランス梓弓には\nできれば出てきてほしくない\nマスターなのであった…\n;;----------------------------------------\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

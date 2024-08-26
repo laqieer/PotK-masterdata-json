@@ -1,0 +1,302 @@
+[
+	{
+		"ID": 6353,
+		"unitID": 2401921,
+		"questionID": 29401901,
+		"script": ";;弓,1\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 540191 \"failnaught_ca_0002\"\n@フェイルノート\nルシファーは言ったわ\n\n@フェイルノート\n王とは…孤高であるべきだと\n\n@フェイルノート\n私もそう思い、\nずっとそう振舞ってきたわ\n\n@フェイルノート\nでも…\n\n# textflame 0 0\n@\n彼女がマスターを見つめ、呟く\n\n# face %(unit_a)s \"usual\"\n# voice 540191 \"failnaught_ca_0004\"\n# textflame 1 1\n@フェイルノート\nこんな穏やかな時間があっても、\nいいんじゃないかと\n思う事があるの\n\n@フェイルノート\nその想いが正しいのか…\n私に示してくれないかしら\n\n@フェイルノート\n今から問題を出すわ\nその結果次第で、今後の\n在り方を考えてみようと思うの\n\n@フェイルノート\nさあ、いくわよ\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私の武器属性はわかるかしら？　\n\n# se \"SE_0734\"\n# select \"弓\" \"select_label_1\" \"槍\" \"select_label_2\" \"剣\" \"select_label_3\"\n私の武器属性はわかるかしら？　\n"
+	},
+	{
+		"ID": 6354,
+		"unitID": 2401921,
+		"questionID": 29401902,
+		"script": ";;弓,2\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 540191 \"failnaught_ca_0002\"\n@フェイルノート\nルシファーは言ったわ\n\n@フェイルノート\n王とは…孤高であるべきだと\n\n@フェイルノート\n私もそう思い、\nずっとそう振舞ってきたわ\n\n@フェイルノート\nでも…\n\n# textflame 0 0\n@\n彼女がマスターを見つめ、呟く\n\n# face %(unit_a)s \"usual\"\n# voice 540191 \"failnaught_ca_0004\"\n# textflame 1 1\n@フェイルノート\nこんな穏やかな時間があっても、\nいいんじゃないかと\n思う事があるの\n\n@フェイルノート\nその想いが正しいのか…\n私に示してくれないかしら\n\n@フェイルノート\n今から問題を出すわ\nその結果次第で、今後の\n在り方を考えてみようと思うの\n\n@フェイルノート\nさあ、いくわよ\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私のキラーズ、『フェイルノート』は\nどんな物かわかる？\n\n# se \"SE_0734\"\n# select \"銃\" \"select_label_1\" \"弓\" \"select_label_2\" \"剣\" \"select_label_3\"\n私のキラーズ、『フェイルノート』は\nどんな物かわかる？\n"
+	},
+	{
+		"ID": 6355,
+		"unitID": 2401921,
+		"questionID": 29401903,
+		"script": ";;アーサー王伝説群,1\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 540191 \"failnaught_ca_0002\"\n@フェイルノート\nルシファーは言ったわ\n\n@フェイルノート\n王とは…孤高であるべきだと\n\n@フェイルノート\n私もそう思い、\nずっとそう振舞ってきたわ\n\n@フェイルノート\nでも…\n\n# textflame 0 0\n@\n彼女がマスターを見つめ、呟く\n\n# face %(unit_a)s \"usual\"\n# voice 540191 \"failnaught_ca_0004\"\n# textflame 1 1\n@フェイルノート\nこんな穏やかな時間があっても、\nいいんじゃないかと\n思う事があるの\n\n@フェイルノート\nその想いが正しいのか…\n私に示してくれないかしら\n\n@フェイルノート\n今から問題を出すわ\nその結果次第で、今後の\n在り方を考えてみようと思うの\n\n@フェイルノート\nさあ、いくわよ\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私のキラーズ、『フェイルノート』は\nどんな伝承に登場する？\n\n# se \"SE_0734\"\n# select \"アーサー王伝説群\" \"select_label_1\" \"ヘブライ神話群\" \"select_label_2\" \"ギリシャ神話\" \"select_label_3\"\n私のキラーズ、『フェイルノート』は\nどんな伝承に登場する？\n"
+	},
+	{
+		"ID": 6356,
+		"unitID": 2401921,
+		"questionID": 29401904,
+		"script": ";;必中の弓,3\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 540191 \"failnaught_ca_0002\"\n@フェイルノート\nルシファーは言ったわ\n\n@フェイルノート\n王とは…孤高であるべきだと\n\n@フェイルノート\n私もそう思い、\nずっとそう振舞ってきたわ\n\n@フェイルノート\nでも…\n\n# textflame 0 0\n@\n彼女がマスターを見つめ、呟く\n\n# face %(unit_a)s \"usual\"\n# voice 540191 \"failnaught_ca_0004\"\n# textflame 1 1\n@フェイルノート\nこんな穏やかな時間があっても、\nいいんじゃないかと\n思う事があるの\n\n@フェイルノート\nその想いが正しいのか…\n私に示してくれないかしら\n\n@フェイルノート\n今から問題を出すわ\nその結果次第で、今後の\n在り方を考えてみようと思うの\n\n@フェイルノート\nさあ、いくわよ\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私のキラーズ、『フェイルノート』は\nどんな弓と云われている？\n\n# se \"SE_0734\"\n# select \"鋭い弓\" \"select_label_1\" \"早い弓\" \"select_label_2\" \"必中の弓\" \"select_label_3\"\n私のキラーズ、『フェイルノート』は\nどんな弓と云われている？\n"
+	},
+	{
+		"ID": 6357,
+		"unitID": 2401921,
+		"questionID": 29401905,
+		"script": ";;トリスタン,3\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 540191 \"failnaught_ca_0002\"\n@フェイルノート\nルシファーは言ったわ\n\n@フェイルノート\n王とは…孤高であるべきだと\n\n@フェイルノート\n私もそう思い、\nずっとそう振舞ってきたわ\n\n@フェイルノート\nでも…\n\n# textflame 0 0\n@\n彼女がマスターを見つめ、呟く\n\n# face %(unit_a)s \"usual\"\n# voice 540191 \"failnaught_ca_0004\"\n# textflame 1 1\n@フェイルノート\nこんな穏やかな時間があっても、\nいいんじゃないかと\n思う事があるの\n\n@フェイルノート\nその想いが正しいのか…\n私に示してくれないかしら\n\n@フェイルノート\n今から問題を出すわ\nその結果次第で、今後の\n在り方を考えてみようと思うの\n\n@フェイルノート\nさあ、いくわよ\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私のキラーズ、『フェイルノート』は\n誰が持っていたかしら？\n\n# se \"SE_0734\"\n# select \"ウシスタン\" \"select_label_1\" \"ウマスタン\" \"select_label_2\" \"トリスタン\" \"select_label_3\"\n私のキラーズ、『フェイルノート』は\n誰が持っていたかしら？\n"
+	},
+	{
+		"ID": 6358,
+		"unitID": 2401921,
+		"questionID": 29401906,
+		"script": ";;円卓の騎士,1\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 540191 \"failnaught_ca_0002\"\n@フェイルノート\nルシファーは言ったわ\n\n@フェイルノート\n王とは…孤高であるべきだと\n\n@フェイルノート\n私もそう思い、\nずっとそう振舞ってきたわ\n\n@フェイルノート\nでも…\n\n# textflame 0 0\n@\n彼女がマスターを見つめ、呟く\n\n# face %(unit_a)s \"usual\"\n# voice 540191 \"failnaught_ca_0004\"\n# textflame 1 1\n@フェイルノート\nこんな穏やかな時間があっても、\nいいんじゃないかと\n思う事があるの\n\n@フェイルノート\nその想いが正しいのか…\n私に示してくれないかしら\n\n@フェイルノート\n今から問題を出すわ\nその結果次第で、今後の\n在り方を考えてみようと思うの\n\n@フェイルノート\nさあ、いくわよ\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私のキラーズ、『フェイルノート』を\n持っていたトリスタンは何の騎士？\n\n# se \"SE_0734\"\n# select \"円卓の騎士\" \"select_label_1\" \"虹の騎士\" \"select_label_2\" \"炎の騎士\" \"select_label_3\"\n私のキラーズ、『フェイルノート』を\n持っていたトリスタンは何の騎士？\n"
+	},
+	{
+		"ID": 6359,
+		"unitID": 2401921,
+		"questionID": 29401907,
+		"script": ";;隕石,3\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 540191 \"failnaught_ca_0002\"\n@フェイルノート\nルシファーは言ったわ\n\n@フェイルノート\n王とは…孤高であるべきだと\n\n@フェイルノート\n私もそう思い、\nずっとそう振舞ってきたわ\n\n@フェイルノート\nでも…\n\n# textflame 0 0\n@\n彼女がマスターを見つめ、呟く\n\n# face %(unit_a)s \"usual\"\n# voice 540191 \"failnaught_ca_0004\"\n# textflame 1 1\n@フェイルノート\nこんな穏やかな時間があっても、\nいいんじゃないかと\n思う事があるの\n\n@フェイルノート\nその想いが正しいのか…\n私に示してくれないかしら\n\n@フェイルノート\n今から問題を出すわ\nその結果次第で、今後の\n在り方を考えてみようと思うの\n\n@フェイルノート\nさあ、いくわよ\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私が誓約したルシファーの\n仕業とされる事象はなに？\n\n# se \"SE_0734\"\n# select \"地震\" \"select_label_1\" \"噴火\" \"select_label_2\" \"隕石\" \"select_label_3\"\n私が誓約したルシファーの\n仕業とされる事象はなに？\n"
+	},
+	{
+		"ID": 6360,
+		"unitID": 2401921,
+		"questionID": 29401908,
+		"script": ";;ナンバー１,1\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 540191 \"failnaught_ca_0002\"\n@フェイルノート\nルシファーは言ったわ\n\n@フェイルノート\n王とは…孤高であるべきだと\n\n@フェイルノート\n私もそう思い、\nずっとそう振舞ってきたわ\n\n@フェイルノート\nでも…\n\n# textflame 0 0\n@\n彼女がマスターを見つめ、呟く\n\n# face %(unit_a)s \"usual\"\n# voice 540191 \"failnaught_ca_0004\"\n# textflame 1 1\n@フェイルノート\nこんな穏やかな時間があっても、\nいいんじゃないかと\n思う事があるの\n\n@フェイルノート\nその想いが正しいのか…\n私に示してくれないかしら\n\n@フェイルノート\n今から問題を出すわ\nその結果次第で、今後の\n在り方を考えてみようと思うの\n\n@フェイルノート\nさあ、いくわよ\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私が誓約したルシファーの\n悪魔界での序列は？\n\n# se \"SE_0734\"\n# select \"ナンバー１\" \"select_label_1\" \"ナンバー３\" \"select_label_2\" \"ナンバー９\" \"select_label_3\"\n私が誓約したルシファーの\n悪魔界での序列は？\n"
+	},
+	{
+		"ID": 6361,
+		"unitID": 2401921,
+		"questionID": 29401909,
+		"script": ";;無駄のない弓,1\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 540191 \"failnaught_ca_0002\"\n@フェイルノート\nルシファーは言ったわ\n\n@フェイルノート\n王とは…孤高であるべきだと\n\n@フェイルノート\n私もそう思い、\nずっとそう振舞ってきたわ\n\n@フェイルノート\nでも…\n\n# textflame 0 0\n@\n彼女がマスターを見つめ、呟く\n\n# face %(unit_a)s \"usual\"\n# voice 540191 \"failnaught_ca_0004\"\n# textflame 1 1\n@フェイルノート\nこんな穏やかな時間があっても、\nいいんじゃないかと\n思う事があるの\n\n@フェイルノート\nその想いが正しいのか…\n私に示してくれないかしら\n\n@フェイルノート\n今から問題を出すわ\nその結果次第で、今後の\n在り方を考えてみようと思うの\n\n@フェイルノート\nさあ、いくわよ\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私のキラーズ『フェイルノート』は\n別名なんと呼ばれているかしら？\n\n# se \"SE_0734\"\n# select \"無駄のない弓\" \"select_label_1\" \"無駄打ちの弓\" \"select_label_2\" \"地団太の弓\" \"select_label_3\"\n私のキラーズ『フェイルノート』は\n別名なんと呼ばれているかしら？\n"
+	},
+	{
+		"ID": 6362,
+		"unitID": 2401921,
+		"questionID": 29401910,
+		"script": ";;少ない,3\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 540191 \"failnaught_ca_0002\"\n@フェイルノート\nルシファーは言ったわ\n\n@フェイルノート\n王とは…孤高であるべきだと\n\n@フェイルノート\n私もそう思い、\nずっとそう振舞ってきたわ\n\n@フェイルノート\nでも…\n\n# textflame 0 0\n@\n彼女がマスターを見つめ、呟く\n\n# face %(unit_a)s \"usual\"\n# voice 540191 \"failnaught_ca_0004\"\n# textflame 1 1\n@フェイルノート\nこんな穏やかな時間があっても、\nいいんじゃないかと\n思う事があるの\n\n@フェイルノート\nその想いが正しいのか…\n私に示してくれないかしら\n\n@フェイルノート\n今から問題を出すわ\nその結果次第で、今後の\n在り方を考えてみようと思うの\n\n@フェイルノート\nさあ、いくわよ\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私のキラーズ『フェイルノート』の\n逸話上での登場は多い…？\n\n# se \"SE_0734\"\n# select \"多い\" \"select_label_1\" \"超有名！\" \"select_label_2\" \"少ない\" \"select_label_3\"\n私のキラーズ『フェイルノート』の\n逸話上での登場は多い…？\n"
+	},
+	{
+		"ID": 6363,
+		"unitID": 2401921,
+		"questionID": 29401911,
+		"script": ";;闇,3\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 540191 \"failnaught_ca_0002\"\n@フェイルノート\nずっと気になっていたことがあるの\n\n@フェイルノート\nお前様は、私の水着姿を\nどう捉えているのかしら？\n\n# textflame 0 0\n@\n突然の質問に、\nしどろもどろになりながら\n答えるマスター\n\n# face %(unit_a)s \"angry\"\n# voice 540191 \"failnaught_ca_0008\"\n# textflame 1 1\n@フェイルノート\n……へぇ\n\n@フェイルノート\n《無駄がない》とは\nいい度胸ね…\n\n@フェイルノート\n謀殺するわよ\n\n# textflame 0 0\n@\n慌てて謝るマスター\n\n# face %(unit_a)s \"normal\"\n# voice 540191 \"failnaught_ca_0028\"\n# textflame 1 1\n@フェイルノート\nそうねぇ…\n\n@フェイルノート\n私の出す問題に\n正解できたら\n許してあげるわ\n\n@フェイルノート\nそれじゃ、いくわよ\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私の属性を知っているのかしら？\n\n# se \"SE_0734\"\n# select \"風\" \"select_label_1\" \"光\" \"select_label_2\" \"闇\" \"select_label_3\"\n私の属性を知っているのかしら？\n"
+	},
+	{
+		"ID": 6364,
+		"unitID": 2401921,
+		"questionID": 29401912,
+		"script": ";;140cm ,2\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 540191 \"failnaught_ca_0002\"\n@フェイルノート\nずっと気になっていたことがあるの\n\n@フェイルノート\nお前様は、私の水着姿を\nどう捉えているのかしら？\n\n# textflame 0 0\n@\n突然の質問に、\nしどろもどろになりながら\n答えるマスター\n\n# face %(unit_a)s \"angry\"\n# voice 540191 \"failnaught_ca_0008\"\n# textflame 1 1\n@フェイルノート\n……へぇ\n\n@フェイルノート\n《無駄がない》とは\nいい度胸ね…\n\n@フェイルノート\n謀殺するわよ\n\n# textflame 0 0\n@\n慌てて謝るマスター\n\n# face %(unit_a)s \"normal\"\n# voice 540191 \"failnaught_ca_0028\"\n# textflame 1 1\n@フェイルノート\nそうねぇ…\n\n@フェイルノート\n私の出す問題に\n正解できたら\n許してあげるわ\n\n@フェイルノート\nそれじゃ、いくわよ\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私の身長は…？\n\n# se \"SE_0734\"\n# select \"150cm\" \"select_label_1\" \"140cm \" \"select_label_2\" \"130cm\" \"select_label_3\"\n私の身長は…？\n"
+	},
+	{
+		"ID": 6365,
+		"unitID": 2401921,
+		"questionID": 29401913,
+		"script": ";;1月17日,3\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 540191 \"failnaught_ca_0002\"\n@フェイルノート\nずっと気になっていたことがあるの\n\n@フェイルノート\nお前様は、私の水着姿を\nどう捉えているのかしら？\n\n# textflame 0 0\n@\n突然の質問に、\nしどろもどろになりながら\n答えるマスター\n\n# face %(unit_a)s \"angry\"\n# voice 540191 \"failnaught_ca_0008\"\n# textflame 1 1\n@フェイルノート\n……へぇ\n\n@フェイルノート\n《無駄がない》とは\nいい度胸ね…\n\n@フェイルノート\n謀殺するわよ\n\n# textflame 0 0\n@\n慌てて謝るマスター\n\n# face %(unit_a)s \"normal\"\n# voice 540191 \"failnaught_ca_0028\"\n# textflame 1 1\n@フェイルノート\nそうねぇ…\n\n@フェイルノート\n私の出す問題に\n正解できたら\n許してあげるわ\n\n@フェイルノート\nそれじゃ、いくわよ\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私の誕生日は知ってるかしら？\n\n# se \"SE_0734\"\n# select \"1月31日\" \"select_label_1\" \"1月1日\" \"select_label_2\" \"1月17日\" \"select_label_3\"\n私の誕生日は知ってるかしら？\n"
+	},
+	{
+		"ID": 6366,
+		"unitID": 2401921,
+		"questionID": 29401914,
+		"script": ";;やぎ座,3\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 540191 \"failnaught_ca_0002\"\n@フェイルノート\nずっと気になっていたことがあるの\n\n@フェイルノート\nお前様は、私の水着姿を\nどう捉えているのかしら？\n\n# textflame 0 0\n@\n突然の質問に、\nしどろもどろになりながら\n答えるマスター\n\n# face %(unit_a)s \"angry\"\n# voice 540191 \"failnaught_ca_0008\"\n# textflame 1 1\n@フェイルノート\n……へぇ\n\n@フェイルノート\n《無駄がない》とは\nいい度胸ね…\n\n@フェイルノート\n謀殺するわよ\n\n# textflame 0 0\n@\n慌てて謝るマスター\n\n# face %(unit_a)s \"normal\"\n# voice 540191 \"failnaught_ca_0028\"\n# textflame 1 1\n@フェイルノート\nそうねぇ…\n\n@フェイルノート\n私の出す問題に\n正解できたら\n許してあげるわ\n\n@フェイルノート\nそれじゃ、いくわよ\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私の星座はなに？\n\n# se \"SE_0734\"\n# select \"いて座\" \"select_label_1\" \"おとめ座\" \"select_label_2\" \"やぎ座\" \"select_label_3\"\n私の星座はなに？\n"
+	},
+	{
+		"ID": 6367,
+		"unitID": 2401921,
+		"questionID": 29401915,
+		"script": ";;勝負事,3\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 540191 \"failnaught_ca_0002\"\n@フェイルノート\nずっと気になっていたことがあるの\n\n@フェイルノート\nお前様は、私の水着姿を\nどう捉えているのかしら？\n\n# textflame 0 0\n@\n突然の質問に、\nしどろもどろになりながら\n答えるマスター\n\n# face %(unit_a)s \"angry\"\n# voice 540191 \"failnaught_ca_0008\"\n# textflame 1 1\n@フェイルノート\n……へぇ\n\n@フェイルノート\n《無駄がない》とは\nいい度胸ね…\n\n@フェイルノート\n謀殺するわよ\n\n# textflame 0 0\n@\n慌てて謝るマスター\n\n# face %(unit_a)s \"normal\"\n# voice 540191 \"failnaught_ca_0028\"\n# textflame 1 1\n@フェイルノート\nそうねぇ…\n\n@フェイルノート\n私の出す問題に\n正解できたら\n許してあげるわ\n\n@フェイルノート\nそれじゃ、いくわよ\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私の好きなことは\nなにか知ってるかしら？\n\n# se \"SE_0734\"\n# select \"秘め事\" \"select_label_1\" \"揉め事\" \"select_label_2\" \"勝負事\" \"select_label_3\"\n私の好きなことは\nなにか知ってるかしら？\n"
+	},
+	{
+		"ID": 6368,
+		"unitID": 2401921,
+		"questionID": 29401916,
+		"script": ";;ぬいぐるみ集め,2\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 540191 \"failnaught_ca_0002\"\n@フェイルノート\nずっと気になっていたことがあるの\n\n@フェイルノート\nお前様は、私の水着姿を\nどう捉えているのかしら？\n\n# textflame 0 0\n@\n突然の質問に、\nしどろもどろになりながら\n答えるマスター\n\n# face %(unit_a)s \"angry\"\n# voice 540191 \"failnaught_ca_0008\"\n# textflame 1 1\n@フェイルノート\n……へぇ\n\n@フェイルノート\n《無駄がない》とは\nいい度胸ね…\n\n@フェイルノート\n謀殺するわよ\n\n# textflame 0 0\n@\n慌てて謝るマスター\n\n# face %(unit_a)s \"normal\"\n# voice 540191 \"failnaught_ca_0028\"\n# textflame 1 1\n@フェイルノート\nそうねぇ…\n\n@フェイルノート\n私の出す問題に\n正解できたら\n許してあげるわ\n\n@フェイルノート\nそれじゃ、いくわよ\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私の趣味は\n何か知ってるかしら？\n\n# se \"SE_0734\"\n# select \"切手集め\" \"select_label_1\" \"ぬいぐるみ集め\" \"select_label_2\" \"プラモデル集め\" \"select_label_3\"\n私の趣味は\n何か知ってるかしら？\n"
+	},
+	{
+		"ID": 6369,
+		"unitID": 2401921,
+		"questionID": 29401917,
+		"script": ";;Ｂ型,1\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 540191 \"failnaught_ca_0002\"\n@フェイルノート\nずっと気になっていたことがあるの\n\n@フェイルノート\nお前様は、私の水着姿を\nどう捉えているのかしら？\n\n# textflame 0 0\n@\n突然の質問に、\nしどろもどろになりながら\n答えるマスター\n\n# face %(unit_a)s \"angry\"\n# voice 540191 \"failnaught_ca_0008\"\n# textflame 1 1\n@フェイルノート\n……へぇ\n\n@フェイルノート\n《無駄がない》とは\nいい度胸ね…\n\n@フェイルノート\n謀殺するわよ\n\n# textflame 0 0\n@\n慌てて謝るマスター\n\n# face %(unit_a)s \"normal\"\n# voice 540191 \"failnaught_ca_0028\"\n# textflame 1 1\n@フェイルノート\nそうねぇ…\n\n@フェイルノート\n私の出す問題に\n正解できたら\n許してあげるわ\n\n@フェイルノート\nそれじゃ、いくわよ\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私の血液型はなに？\n\n# se \"SE_0734\"\n# select \"Ｂ型\" \"select_label_1\" \"Ｏ型\" \"select_label_2\" \"Ａ型\" \"select_label_3\"\n私の血液型はなに？\n"
+	},
+	{
+		"ID": 6370,
+		"unitID": 2401921,
+		"questionID": 29401918,
+		"script": ";;ブリテン,3\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 540191 \"failnaught_ca_0002\"\n@フェイルノート\nずっと気になっていたことがあるの\n\n@フェイルノート\nお前様は、私の水着姿を\nどう捉えているのかしら？\n\n# textflame 0 0\n@\n突然の質問に、\nしどろもどろになりながら\n答えるマスター\n\n# face %(unit_a)s \"angry\"\n# voice 540191 \"failnaught_ca_0008\"\n# textflame 1 1\n@フェイルノート\n……へぇ\n\n@フェイルノート\n《無駄がない》とは\nいい度胸ね…\n\n@フェイルノート\n謀殺するわよ\n\n# textflame 0 0\n@\n慌てて謝るマスター\n\n# face %(unit_a)s \"normal\"\n# voice 540191 \"failnaught_ca_0028\"\n# textflame 1 1\n@フェイルノート\nそうねぇ…\n\n@フェイルノート\n私の出す問題に\n正解できたら\n許してあげるわ\n\n@フェイルノート\nそれじゃ、いくわよ\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私の出身地はどこ？\n\n# se \"SE_0734\"\n# select \"エビテン\" \"select_label_1\" \"ゴボテン\" \"select_label_2\" \"ブリテン\" \"select_label_3\"\n私の出身地はどこ？\n"
+	},
+	{
+		"ID": 6371,
+		"unitID": 2401921,
+		"questionID": 29401919,
+		"script": ";;毒舌,2\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 540191 \"failnaught_ca_0002\"\n@フェイルノート\nずっと気になっていたことがあるの\n\n@フェイルノート\nお前様は、私の水着姿を\nどう捉えているのかしら？\n\n# textflame 0 0\n@\n突然の質問に、\nしどろもどろになりながら\n答えるマスター\n\n# face %(unit_a)s \"angry\"\n# voice 540191 \"failnaught_ca_0008\"\n# textflame 1 1\n@フェイルノート\n……へぇ\n\n@フェイルノート\n《無駄がない》とは\nいい度胸ね…\n\n@フェイルノート\n謀殺するわよ\n\n# textflame 0 0\n@\n慌てて謝るマスター\n\n# face %(unit_a)s \"normal\"\n# voice 540191 \"failnaught_ca_0028\"\n# textflame 1 1\n@フェイルノート\nそうねぇ…\n\n@フェイルノート\n私の出す問題に\n正解できたら\n許してあげるわ\n\n@フェイルノート\nそれじゃ、いくわよ\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私はこれだと言われることもあるわ\n\n# se \"SE_0734\"\n# select \"饒舌\" \"select_label_1\" \"毒舌\" \"select_label_2\" \"寡黙\" \"select_label_3\"\n私はこれだと言われることもあるわ\n"
+	},
+	{
+		"ID": 6372,
+		"unitID": 2401921,
+		"questionID": 29401920,
+		"script": ";;謀殺する,2\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 540191 \"failnaught_ca_0002\"\n@フェイルノート\nずっと気になっていたことがあるの\n\n@フェイルノート\nお前様は、私の水着姿を\nどう捉えているのかしら？\n\n# textflame 0 0\n@\n突然の質問に、\nしどろもどろになりながら\n答えるマスター\n\n# face %(unit_a)s \"angry\"\n# voice 540191 \"failnaught_ca_0008\"\n# textflame 1 1\n@フェイルノート\n……へぇ\n\n@フェイルノート\n《無駄がない》とは\nいい度胸ね…\n\n@フェイルノート\n謀殺するわよ\n\n# textflame 0 0\n@\n慌てて謝るマスター\n\n# face %(unit_a)s \"normal\"\n# voice 540191 \"failnaught_ca_0028\"\n# textflame 1 1\n@フェイルノート\nそうねぇ…\n\n@フェイルノート\n私の出す問題に\n正解できたら\n許してあげるわ\n\n@フェイルノート\nそれじゃ、いくわよ\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私が“無駄がない”と言われたとき、\n相手をどうするか知ってるかしら？\n\n# se \"SE_0734\"\n# select \"撲殺する\" \"select_label_1\" \"謀殺する\" \"select_label_2\" \"射殺する\" \"select_label_3\"\n私が“無駄がない”と言われたとき、\n相手をどうするか知ってるかしら？\n"
+	},
+	{
+		"ID": 6373,
+		"unitID": 2401921,
+		"questionID": 29401921,
+		"script": ";;闇堕神の魔射,2\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 540191 \"failnaught_ca_0002\"\n@フェイルノート\n…ねぇ、お前様\n\n@フェイルノート\nお前様に私は、\nどう映っているのかしら？\n\n# textflame 0 0\n@\nえ？どうって……\n見つめてくる彼女の真っすぐな\n視線に、言い淀んでしまうマスター\n\n# voice 540191 \"failnaught_ca_0032\"\n# textflame 1 1\n@フェイルノート\nいいわ\n\n@フェイルノート\nお前様が私を\nちゃんと見てくれているか…\n\n@フェイルノート\n試させてもらうわ\n\n@フェイルノート\n準備はいい？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私の覚えるリーダースキルは\n知ってるかしら？\n\n# se \"SE_0734\"\n# select \"闇堕神のシュシュ\" \"select_label_1\" \"闇堕神の魔射\" \"select_label_2\" \"闇堕神の写像\" \"select_label_3\"\n私の覚えるリーダースキルは\n知ってるかしら？\n"
+	},
+	{
+		"ID": 6374,
+		"unitID": 2401921,
+		"questionID": 29401922,
+		"script": ";;誓宣『許されぬ敗北』,2\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 540191 \"failnaught_ca_0002\"\n@フェイルノート\n…ねぇ、お前様\n\n@フェイルノート\nお前様に私は、\nどう映っているのかしら？\n\n# textflame 0 0\n@\nえ？どうって……\n見つめてくる彼女の真っすぐな\n視線に、言い淀んでしまうマスター\n\n# voice 540191 \"failnaught_ca_0032\"\n# textflame 1 1\n@フェイルノート\nいいわ\n\n@フェイルノート\nお前様が私を\nちゃんと見てくれているか…\n\n@フェイルノート\n試させてもらうわ\n\n@フェイルノート\n準備はいい？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私の覚えるスキルは\n知ってるかしら？\n\n# se \"SE_0734\"\n# select \"誓宣『受け入れがたい敗北』\" \"select_label_1\" \"誓宣『許されぬ敗北』\" \"select_label_2\" \"誓宣『決められた敗北』\" \"select_label_3\"\n私の覚えるスキルは\n知ってるかしら？\n"
+	},
+	{
+		"ID": 6375,
+		"unitID": 2401921,
+		"questionID": 29401923,
+		"script": ";;スター・イン・ザ・ダークネス,3\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 540191 \"failnaught_ca_0002\"\n@フェイルノート\n…ねぇ、お前様\n\n@フェイルノート\nお前様に私は、\nどう映っているのかしら？\n\n# textflame 0 0\n@\nえ？どうって……\n見つめてくる彼女の真っすぐな\n視線に、言い淀んでしまうマスター\n\n# voice 540191 \"failnaught_ca_0032\"\n# textflame 1 1\n@フェイルノート\nいいわ\n\n@フェイルノート\nお前様が私を\nちゃんと見てくれているか…\n\n@フェイルノート\n試させてもらうわ\n\n@フェイルノート\n準備はいい？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私の覚えるスキルは\n知ってるかしら？\n\n# se \"SE_0734\"\n# select \"スター・イン・ザ・ファイヤー\" \"select_label_1\" \"スター・イン・ザ・ライトニング\" \"select_label_2\" \"スター・イン・ザ・ダークネス\" \"select_label_3\"\n私の覚えるスキルは\n知ってるかしら？\n"
+	},
+	{
+		"ID": 6376,
+		"unitID": 2401921,
+		"questionID": 29401924,
+		"script": ";;魔界劣獣,3\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 540191 \"failnaught_ca_0002\"\n@フェイルノート\n…ねぇ、お前様\n\n@フェイルノート\nお前様に私は、\nどう映っているのかしら？\n\n# textflame 0 0\n@\nえ？どうって……\n見つめてくる彼女の真っすぐな\n視線に、言い淀んでしまうマスター\n\n# voice 540191 \"failnaught_ca_0032\"\n# textflame 1 1\n@フェイルノート\nいいわ\n\n@フェイルノート\nお前様が私を\nちゃんと見てくれているか…\n\n@フェイルノート\n試させてもらうわ\n\n@フェイルノート\n準備はいい？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私が覚えるスキルは\nわかるかしら？\n\n# se \"SE_0734\"\n# select \"魔界猛獣\" \"select_label_1\" \"魔界滅獣\" \"select_label_2\" \"魔界劣獣\" \"select_label_3\"\n私が覚えるスキルは\nわかるかしら？\n"
+	},
+	{
+		"ID": 6377,
+		"unitID": 2401921,
+		"questionID": 29401925,
+		"script": ";;堕天の業,1\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 540191 \"failnaught_ca_0002\"\n@フェイルノート\n…ねぇ、お前様\n\n@フェイルノート\nお前様に私は、\nどう映っているのかしら？\n\n# textflame 0 0\n@\nえ？どうって……\n見つめてくる彼女の真っすぐな\n視線に、言い淀んでしまうマスター\n\n# voice 540191 \"failnaught_ca_0032\"\n# textflame 1 1\n@フェイルノート\nいいわ\n\n@フェイルノート\nお前様が私を\nちゃんと見てくれているか…\n\n@フェイルノート\n試させてもらうわ\n\n@フェイルノート\n準備はいい？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私が覚えるスキルは\nわかるかしら？\n\n# se \"SE_0734\"\n# select \"堕天の業\" \"select_label_1\" \"堕天の妙\" \"select_label_2\" \"ラテンの業\" \"select_label_3\"\n私が覚えるスキルは\nわかるかしら？\n"
+	},
+	{
+		"ID": 6378,
+		"unitID": 2401921,
+		"questionID": 29401926,
+		"script": ";;統制への契り,2\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 540191 \"failnaught_ca_0002\"\n@フェイルノート\n…ねぇ、お前様\n\n@フェイルノート\nお前様に私は、\nどう映っているのかしら？\n\n# textflame 0 0\n@\nえ？どうって……\n見つめてくる彼女の真っすぐな\n視線に、言い淀んでしまうマスター\n\n# voice 540191 \"failnaught_ca_0032\"\n# textflame 1 1\n@フェイルノート\nいいわ\n\n@フェイルノート\nお前様が私を\nちゃんと見てくれているか…\n\n@フェイルノート\n試させてもらうわ\n\n@フェイルノート\n準備はいい？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私が覚えるスキルは\nわかるかしら？\n\n# se \"SE_0734\"\n# select \"強制への契り\" \"select_label_1\" \"統制への契り\" \"select_label_2\" \"従属への契り\" \"select_label_3\"\n私が覚えるスキルは\nわかるかしら？\n"
+	},
+	{
+		"ID": 6379,
+		"unitID": 2401921,
+		"questionID": 29401927,
+		"script": ";;誓約されし明星の魔弓,1\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 540191 \"failnaught_ca_0002\"\n@フェイルノート\n…ねぇ、お前様\n\n@フェイルノート\nお前様に私は、\nどう映っているのかしら？\n\n# textflame 0 0\n@\nえ？どうって……\n見つめてくる彼女の真っすぐな\n視線に、言い淀んでしまうマスター\n\n# voice 540191 \"failnaught_ca_0032\"\n# textflame 1 1\n@フェイルノート\nいいわ\n\n@フェイルノート\nお前様が私を\nちゃんと見てくれているか…\n\n@フェイルノート\n試させてもらうわ\n\n@フェイルノート\n準備はいい？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私が覚えるデュエルスキルは\nわかるかしら？\n\n# se \"SE_0734\"\n# select \"誓約されし明星の魔弓\" \"select_label_1\" \"誓約されし明星の魔球\" \"select_label_2\" \"誓約されし表情の魔弓\" \"select_label_3\"\n私が覚えるデュエルスキルは\nわかるかしら？\n"
+	},
+	{
+		"ID": 6380,
+		"unitID": 2401921,
+		"questionID": 29401928,
+		"script": ";;堕神の謀殺,2\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 540191 \"failnaught_ca_0002\"\n@フェイルノート\n…ねぇ、お前様\n\n@フェイルノート\nお前様に私は、\nどう映っているのかしら？\n\n# textflame 0 0\n@\nえ？どうって……\n見つめてくる彼女の真っすぐな\n視線に、言い淀んでしまうマスター\n\n# voice 540191 \"failnaught_ca_0032\"\n# textflame 1 1\n@フェイルノート\nいいわ\n\n@フェイルノート\nお前様が私を\nちゃんと見てくれているか…\n\n@フェイルノート\n試させてもらうわ\n\n@フェイルノート\n準備はいい？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私の覚えるスキルは\nわかるかしら？\n\n# se \"SE_0734\"\n# select \"堕神の忘却\" \"select_label_1\" \"堕神の謀殺\" \"select_label_2\" \"堕神の撲殺\" \"select_label_3\"\n私の覚えるスキルは\nわかるかしら？\n"
+	},
+	{
+		"ID": 6381,
+		"unitID": 2401921,
+		"questionID": 29401929,
+		"script": ";;堕神の高圧,1\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 540191 \"failnaught_ca_0002\"\n@フェイルノート\n…ねぇ、お前様\n\n@フェイルノート\nお前様に私は、\nどう映っているのかしら？\n\n# textflame 0 0\n@\nえ？どうって……\n見つめてくる彼女の真っすぐな\n視線に、言い淀んでしまうマスター\n\n# voice 540191 \"failnaught_ca_0032\"\n# textflame 1 1\n@フェイルノート\nいいわ\n\n@フェイルノート\nお前様が私を\nちゃんと見てくれているか…\n\n@フェイルノート\n試させてもらうわ\n\n@フェイルノート\n準備はいい？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私が覚えるスキルは\nわかるかしら？\n\n# se \"SE_0734\"\n# select \"堕神の高圧\" \"select_label_1\" \"堕神の低圧\" \"select_label_2\" \"堕神の高血圧\" \"select_label_3\"\n私が覚えるスキルは\nわかるかしら？\n"
+	},
+	{
+		"ID": 6382,
+		"unitID": 2401921,
+		"questionID": 29401930,
+		"script": ";;ルシファーの叛逆,2\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 540191 \"failnaught_ca_0002\"\n@フェイルノート\n…ねぇ、お前様\n\n@フェイルノート\nお前様に私は、\nどう映っているのかしら？\n\n# textflame 0 0\n@\nえ？どうって……\n見つめてくる彼女の真っすぐな\n視線に、言い淀んでしまうマスター\n\n# voice 540191 \"failnaught_ca_0032\"\n# textflame 1 1\n@フェイルノート\nいいわ\n\n@フェイルノート\nお前様が私を\nちゃんと見てくれているか…\n\n@フェイルノート\n試させてもらうわ\n\n@フェイルノート\n準備はいい？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私が覚える付替えスキルは\nわかるかしら？\n\n# se \"SE_0734\"\n# select \"ルシファーの反則\" \"select_label_1\" \"ルシファーの叛逆\" \"select_label_2\" \"ルシファーの真逆\" \"select_label_3\"\n私が覚える付替えスキルは\nわかるかしら？\n"
+	},
+	{
+		"ID": 6383,
+		"unitID": 2401921,
+		"questionID": 29401931,
+		"script": ";;堕天使,1\n# textflame 1 1\n# face %(unit_a)s \"shy\"\n# voice 540191 \"failnaught_ca_0002\"\n@フェイルノート\n今日は…その…\n感謝しているわ\n\n@フェイルノート\nこんなに心温まる時間を\nくれたことにね\n\n# face %(unit_a)s \"usual\"\n# voice 540191 \"failnaught_ca_0004\"\n@フェイルノート\nお前様となら…\nどんな闘いも負ける気がしないわ\n\n# textflame 0 0\n@\nマスターの顔を見て、微笑む彼女\n\n# textflame 1 1\n@フェイルノート\nでも…その想いを、\n更なる盤石のものとするため…\n\n@フェイルノート\n私が出す問題に答えて欲しいの\n\n@フェイルノート\nお前様が正解してくれたら、\n私の想いは強固たるものになる\nそんな気がするの\n\n@フェイルノート\nじゃあ、準備はいいかしら？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私が誓約されたルシファーとは？\n\n# se \"SE_0734\"\n# select \"堕天使\" \"select_label_1\" \"お天気\" \"select_label_2\" \"妖怪\" \"select_label_3\"\n私が誓約されたルシファーとは？\n"
+	},
+	{
+		"ID": 6384,
+		"unitID": 2401921,
+		"questionID": 29401932,
+		"script": ";;January,2\n# textflame 1 1\n# face %(unit_a)s \"shy\"\n# voice 540191 \"failnaught_ca_0002\"\n@フェイルノート\n今日は…その…\n感謝しているわ\n\n@フェイルノート\nこんなに心温まる時間を\nくれたことにね\n\n# face %(unit_a)s \"usual\"\n# voice 540191 \"failnaught_ca_0004\"\n@フェイルノート\nお前様となら…\nどんな闘いも負ける気がしないわ\n\n# textflame 0 0\n@\nマスターの顔を見て、微笑む彼女\n\n# textflame 1 1\n@フェイルノート\nでも…その想いを、\n更なる盤石のものとするため…\n\n@フェイルノート\n私が出す問題に答えて欲しいの\n\n@フェイルノート\nお前様が正解してくれたら、\n私の想いは強固たるものになる\nそんな気がするの\n\n@フェイルノート\nじゃあ、準備はいいかしら？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私の誕生月を英語で言うと…？\n\n# se \"SE_0734\"\n# select \"May\" \"select_label_1\" \"January\" \"select_label_2\" \"September\" \"select_label_3\"\n私の誕生月を英語で言うと…？\n"
+	},
+	{
+		"ID": 6385,
+		"unitID": 2401921,
+		"questionID": 29401933,
+		"script": ";;サタン,3\n# textflame 1 1\n# face %(unit_a)s \"shy\"\n# voice 540191 \"failnaught_ca_0002\"\n@フェイルノート\n今日は…その…\n感謝しているわ\n\n@フェイルノート\nこんなに心温まる時間を\nくれたことにね\n\n# face %(unit_a)s \"usual\"\n# voice 540191 \"failnaught_ca_0004\"\n@フェイルノート\nお前様となら…\nどんな闘いも負ける気がしないわ\n\n# textflame 0 0\n@\nマスターの顔を見て、微笑む彼女\n\n# textflame 1 1\n@フェイルノート\nでも…その想いを、\n更なる盤石のものとするため…\n\n@フェイルノート\n私が出す問題に答えて欲しいの\n\n@フェイルノート\nお前様が正解してくれたら、\n私の想いは強固たるものになる\nそんな気がするの\n\n@フェイルノート\nじゃあ、準備はいいかしら？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私が誓約したルシファーと\n同一視されるのはどれかしら？\n\n# se \"SE_0734\"\n# select \"カタン\" \"select_label_1\" \"ミトン\" \"select_label_2\" \"サタン\" \"select_label_3\"\n私が誓約したルシファーと\n同一視されるのはどれかしら？\n"
+	},
+	{
+		"ID": 6386,
+		"unitID": 2401921,
+		"questionID": 29401934,
+		"script": ";;フォルカス,3\n# textflame 1 1\n# face %(unit_a)s \"shy\"\n# voice 540191 \"failnaught_ca_0002\"\n@フェイルノート\n今日は…その…\n感謝しているわ\n\n@フェイルノート\nこんなに心温まる時間を\nくれたことにね\n\n# face %(unit_a)s \"usual\"\n# voice 540191 \"failnaught_ca_0004\"\n@フェイルノート\nお前様となら…\nどんな闘いも負ける気がしないわ\n\n# textflame 0 0\n@\nマスターの顔を見て、微笑む彼女\n\n# textflame 1 1\n@フェイルノート\nでも…その想いを、\n更なる盤石のものとするため…\n\n@フェイルノート\n私が出す問題に答えて欲しいの\n\n@フェイルノート\nお前様が正解してくれたら、\n私の想いは強固たるものになる\nそんな気がするの\n\n@フェイルノート\nじゃあ、準備はいいかしら？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私と誕生月が同じなのは誰？\n\n# se \"SE_0734\"\n# select \"ティルフィング\" \"select_label_1\" \"ルーン\" \"select_label_2\" \"フォルカス\" \"select_label_3\"\n私と誕生月が同じなのは誰？\n"
+	},
+	{
+		"ID": 6387,
+		"unitID": 2401921,
+		"questionID": 29401935,
+		"script": ";;Capricorn,1\n# textflame 1 1\n# face %(unit_a)s \"shy\"\n# voice 540191 \"failnaught_ca_0002\"\n@フェイルノート\n今日は…その…\n感謝しているわ\n\n@フェイルノート\nこんなに心温まる時間を\nくれたことにね\n\n# face %(unit_a)s \"usual\"\n# voice 540191 \"failnaught_ca_0004\"\n@フェイルノート\nお前様となら…\nどんな闘いも負ける気がしないわ\n\n# textflame 0 0\n@\nマスターの顔を見て、微笑む彼女\n\n# textflame 1 1\n@フェイルノート\nでも…その想いを、\n更なる盤石のものとするため…\n\n@フェイルノート\n私が出す問題に答えて欲しいの\n\n@フェイルノート\nお前様が正解してくれたら、\n私の想いは強固たるものになる\nそんな気がするの\n\n@フェイルノート\nじゃあ、準備はいいかしら？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私の星座を英語で言うと？\n\n# se \"SE_0734\"\n# select \"Capricorn\" \"select_label_1\" \"Pisces\" \"select_label_2\" \"Taurus\" \"select_label_3\"\n私の星座を英語で言うと？\n"
+	},
+	{
+		"ID": 6388,
+		"unitID": 2401921,
+		"questionID": 29401936,
+		"script": ";;明けの明星,1\n# textflame 1 1\n# face %(unit_a)s \"shy\"\n# voice 540191 \"failnaught_ca_0002\"\n@フェイルノート\n今日は…その…\n感謝しているわ\n\n@フェイルノート\nこんなに心温まる時間を\nくれたことにね\n\n# face %(unit_a)s \"usual\"\n# voice 540191 \"failnaught_ca_0004\"\n@フェイルノート\nお前様となら…\nどんな闘いも負ける気がしないわ\n\n# textflame 0 0\n@\nマスターの顔を見て、微笑む彼女\n\n# textflame 1 1\n@フェイルノート\nでも…その想いを、\n更なる盤石のものとするため…\n\n@フェイルノート\n私が出す問題に答えて欲しいの\n\n@フェイルノート\nお前様が正解してくれたら、\n私の想いは強固たるものになる\nそんな気がするの\n\n@フェイルノート\nじゃあ、準備はいいかしら？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n〇○○〇〇のように、常に強者は\n強く気高く輝き続けなくては\nならないのよ\n\n# se \"SE_0734\"\n# select \"明けの明星\" \"select_label_1\" \"宵の明星\" \"select_label_2\" \"悪魔の所業\" \"select_label_3\"\n〇○○〇〇のように、常に強者は\n強く気高く輝き続けなくては\nならないのよ\n"
+	},
+	{
+		"ID": 6389,
+		"unitID": 2401921,
+		"questionID": 29401937,
+		"script": ";;敗ける,3\n# textflame 1 1\n# face %(unit_a)s \"shy\"\n# voice 540191 \"failnaught_ca_0002\"\n@フェイルノート\n今日は…その…\n感謝しているわ\n\n@フェイルノート\nこんなに心温まる時間を\nくれたことにね\n\n# face %(unit_a)s \"usual\"\n# voice 540191 \"failnaught_ca_0004\"\n@フェイルノート\nお前様となら…\nどんな闘いも負ける気がしないわ\n\n# textflame 0 0\n@\nマスターの顔を見て、微笑む彼女\n\n# textflame 1 1\n@フェイルノート\nでも…その想いを、\n更なる盤石のものとするため…\n\n@フェイルノート\n私が出す問題に答えて欲しいの\n\n@フェイルノート\nお前様が正解してくれたら、\n私の想いは強固たるものになる\nそんな気がするの\n\n@フェイルノート\nじゃあ、準備はいいかしら？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nどんな闘いであっても、\n私はこうなるわけにはいかないわ\n\n# se \"SE_0734\"\n# select \"投げる\" \"select_label_1\" \"避ける\" \"select_label_2\" \"敗ける\" \"select_label_3\"\nどんな闘いであっても、\n私はこうなるわけにはいかないわ\n"
+	},
+	{
+		"ID": 6390,
+		"unitID": 2401921,
+		"questionID": 29401938,
+		"script": ";;グリモワール,2\n# textflame 1 1\n# face %(unit_a)s \"shy\"\n# voice 540191 \"failnaught_ca_0002\"\n@フェイルノート\n今日は…その…\n感謝しているわ\n\n@フェイルノート\nこんなに心温まる時間を\nくれたことにね\n\n# face %(unit_a)s \"usual\"\n# voice 540191 \"failnaught_ca_0004\"\n@フェイルノート\nお前様となら…\nどんな闘いも負ける気がしないわ\n\n# textflame 0 0\n@\nマスターの顔を見て、微笑む彼女\n\n# textflame 1 1\n@フェイルノート\nでも…その想いを、\n更なる盤石のものとするため…\n\n@フェイルノート\n私が出す問題に答えて欲しいの\n\n@フェイルノート\nお前様が正解してくれたら、\n私の想いは強固たるものになる\nそんな気がするの\n\n@フェイルノート\nじゃあ、準備はいいかしら？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私と同じ血液型なのは？\n\n# se \"SE_0734\"\n# select \"スラーンド\" \"select_label_1\" \"グリモワール\" \"select_label_2\" \"フランキスカ\" \"select_label_3\"\n私と同じ血液型なのは？\n"
+	},
+	{
+		"ID": 6391,
+		"unitID": 2401921,
+		"questionID": 29401939,
+		"script": ";;グングニル,3\n# textflame 1 1\n# face %(unit_a)s \"shy\"\n# voice 540191 \"failnaught_ca_0002\"\n@フェイルノート\n今日は…その…\n感謝しているわ\n\n@フェイルノート\nこんなに心温まる時間を\nくれたことにね\n\n# face %(unit_a)s \"usual\"\n# voice 540191 \"failnaught_ca_0004\"\n@フェイルノート\nお前様となら…\nどんな闘いも負ける気がしないわ\n\n# textflame 0 0\n@\nマスターの顔を見て、微笑む彼女\n\n# textflame 1 1\n@フェイルノート\nでも…その想いを、\n更なる盤石のものとするため…\n\n@フェイルノート\n私が出す問題に答えて欲しいの\n\n@フェイルノート\nお前様が正解してくれたら、\n私の想いは強固たるものになる\nそんな気がするの\n\n@フェイルノート\nじゃあ、準備はいいかしら？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私と違う血液型なのは\n誰かわかるかしら？\n\n# se \"SE_0734\"\n# select \"ピナーカ\" \"select_label_1\" \"グリモワール\" \"select_label_2\" \"グングニル\" \"select_label_3\"\n私と違う血液型なのは\n誰かわかるかしら？\n"
+	},
+	{
+		"ID": 6392,
+		"unitID": 2401921,
+		"questionID": 29401940,
+		"script": ";;ムラマサ,2\n# textflame 1 1\n# face %(unit_a)s \"shy\"\n# voice 540191 \"failnaught_ca_0002\"\n@フェイルノート\n今日は…その…\n感謝しているわ\n\n@フェイルノート\nこんなに心温まる時間を\nくれたことにね\n\n# face %(unit_a)s \"usual\"\n# voice 540191 \"failnaught_ca_0004\"\n@フェイルノート\nお前様となら…\nどんな闘いも負ける気がしないわ\n\n# textflame 0 0\n@\nマスターの顔を見て、微笑む彼女\n\n# textflame 1 1\n@フェイルノート\nでも…その想いを、\n更なる盤石のものとするため…\n\n@フェイルノート\n私が出す問題に答えて欲しいの\n\n@フェイルノート\nお前様が正解してくれたら、\n私の想いは強固たるものになる\nそんな気がするの\n\n@フェイルノート\nじゃあ、準備はいいかしら？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私と違う誕生月なのは\n誰かわかるかしら？\n\n# se \"SE_0734\"\n# select \"ヴァジュラ\" \"select_label_1\" \"ムラマサ\" \"select_label_2\" \"メギド\" \"select_label_3\"\n私と違う誕生月なのは\n誰かわかるかしら？\n"
+	},
+	{
+		"ID": 6393,
+		"unitID": 2401921,
+		"questionID": 29401941,
+		"script": "\n;;私,1\n# se \"SE_0734\"\n# select \"私\" \"select_label_1\" \"わたし\" \"select_label_2\" \"ウチ\" \"select_label_3\"\nフェイルノートの一人称は\n次のうちどれ？\n"
+	},
+	{
+		"ID": 6394,
+		"unitID": 2401921,
+		"questionID": 29401942,
+		"script": "\n;;お前様,1\n# se \"SE_0734\"\n# select \"お前様\" \"select_label_1\" \"君\" \"select_label_2\" \"ユー\" \"select_label_3\"\nフェイルノートはあなたのこと、\nなんて呼んでる？\n"
+	},
+	{
+		"ID": 6395,
+		"unitID": 2401921,
+		"questionID": 29401943,
+		"script": "\n;;73cm,2\n# se \"SE_0734\"\n# select \"83cm\" \"select_label_1\" \"73cm\" \"select_label_2\" \"80cm\" \"select_label_3\"\nフェイルノートの\nバストサイズがどのくらいか\nあなたは知ってるの？\n"
+	},
+	{
+		"ID": 6396,
+		"unitID": 2401921,
+		"questionID": 29401944,
+		"script": "\n;;54cm,3\n# se \"SE_0734\"\n# select \"60cm\" \"select_label_1\" \"62cm\" \"select_label_2\" \"54cm\" \"select_label_3\"\nフェイルノートの\nウエストサイズがどのくらいか\nあなたは知ってるの？\n"
+	},
+	{
+		"ID": 6397,
+		"unitID": 2401921,
+		"questionID": 29401945,
+		"script": "\n;;71cm,1\n# se \"SE_0734\"\n# select \"71cm\" \"select_label_1\" \"81cm\" \"select_label_2\" \"79cm\" \"select_label_3\"\nフェイルノートの\nヒップサイズがどのくらいか\nあなたは知ってるの？\n"
+	},
+	{
+		"ID": 6398,
+		"unitID": 2401921,
+		"questionID": 29401946,
+		"script": "\n;;40ｋｇ,1\n# se \"SE_0734\"\n# select \"40ｋｇ\" \"select_label_1\" \"51kg\" \"select_label_2\" \"45kg\" \"select_label_3\"\nフェイルノートの体重は\n次のうちどれ？\n"
+	},
+	{
+		"ID": 6399,
+		"unitID": 2401921,
+		"questionID": 29401947,
+		"script": "\n;;198,2\n# se \"SE_0734\"\n# select \"199\" \"select_label_1\" \"198\" \"select_label_2\" \"200\" \"select_label_3\"\nフェイルノートの\nバスト＋ウエスト＋ヒップは\nいくつかわかる？\n"
+	},
+	{
+		"ID": 6400,
+		"unitID": 2401921,
+		"questionID": 29401948,
+		"script": "\n;;紫色,2\n# se \"SE_0734\"\n# select \"黄色\" \"select_label_1\" \"紫色\" \"select_label_2\" \"緑色\" \"select_label_3\"\nフェイルノートの髪の色は\n次のうちどれ？\n"
+	},
+	{
+		"ID": 6401,
+		"unitID": 2401921,
+		"questionID": 29401949,
+		"script": "\n;;8位,1\n# se \"SE_0734\"\n# select \"8位\" \"select_label_1\" \"３位\" \"select_label_2\" \"15位\" \"select_label_3\"\nフェイルノートは\n第5回人気投票で\n何位だったでしょう？\n"
+	},
+	{
+		"ID": 6402,
+		"unitID": 2401921,
+		"questionID": 29401950,
+		"script": "\n;;赤尾ひかる,3\n# se \"SE_0734\"\n# select \"秦佐和子\" \"select_label_1\" \"佐倉綾音\" \"select_label_2\" \"赤尾ひかる\" \"select_label_3\"\nフェイルノートの声優は誰？\n"
+	}
+]

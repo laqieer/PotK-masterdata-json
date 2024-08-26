@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 60101101,
+		"script": "# script \"lisp\"\n# background \"foot_mountain_village\"\n# bgm \"bgm003\" 0\n# body 601011\n# mask 601011 off\n# pos 601011 3\n# textflame 1 1\n# textboxarrow 0 2\n# face 601011 \"amazed\"\n# voice 6010 \"iriya_0007\"\n@イリヤ\nあ～あ、退屈ね\n\n# textflame 0 0\n@\n彼女の名前は\nイリヤスフィール・\nフォン・アインツベルン\n\n# textflame 0 0\n@\n通称、イリヤ\n\n# textflame 0 0\n@\n異世界から来たという\n彼女は隊に合流後、\n誰とも接点を持たずにいた…\n\n# textflame 1 1\n# textboxarrow 0 2\n# face 601011 \"smile\"\n# voice 6010 \"iriya_0020\"\n@イリヤ\n異族、だっけ？アレ\n私の敵じゃないわね\n\n# textflame 0 0\n@\nその可憐な見た目とは裏腹に、\n彼女の強さは群を抜いていた\n\n# textflame 1 1\n# textboxarrow 0 2\n# voice 6010 \"iriya_0007\"\n@イリヤ\n私は一人で十分よ\nあなたが出る幕はないわ\n\n# voice 6010 \"iriya_0009\"\n@イリヤ\nそれにしても、\nあなたは一人じゃ\n何も出来ないのね\n\n# voice 6010 \"iriya_0007\"\n@イリヤ\nキル姫達に守られて\n生きていくのが\nお似合いだわ\n\n# textflame 0 0\n@\nお互い支えあって戦えば\nどんな強敵にだって打ち勝てると\n力説するマスター\n\n# face 601011 \"amazed\"\n# textflame 1 1\n# textboxarrow 0 2\n# voice 6010 \"iriya_battle_0001\"\n@イリヤ\nそんな甘い事言っているから\n強くなれないのよ\n\n@イリヤ\n私は一人で強くなってみせるわ\n\n# voice 6010 \"iriya_0033\"\n@イリヤ\n邪魔しないでよね\n\n# textflame 0 0\n@\n踵を返しその場を去るイリヤ\n\n# face 601011 \"worry\"\n# textflame 1 1\n# textboxarrow 0 2\n# voice 6010 \"iriya_0026\"\n@イリヤ\n私は…\n一人でも生きていける…\n大丈夫、一人でも…\n\n# textflame 0 0\n@\n彼女の背中は\nどこか冷たく寂しさを\n感じさせるのであった…"
+	}
+]

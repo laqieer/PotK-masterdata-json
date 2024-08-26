@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 3402001,
+		"script": "# script \"lisp\"\n# background \"antiquity\"\n# bgm \"bgm002\" 0\n# body 200151\n# pos 200151 5\n# body 500841\n# pos 500841 3\n# body 600231\n# pos 600231 1\n# serif 0\n# textflame 1 1\n# textboxarrow 0 2\n# voice 5008 \"bashosen_0007\"\n# chara 500841\n# face 500841 \"happy\"\n@芭蕉扇\nいたわ！　\nあいつね！？\n\n# serif 1\n# textboxarrow 1 1\n# voice 6002 \"ganbantein_0002\"\n# chara 600231\n# face 600231 \"amazed\"\n@ガンバンテイン\nあいつー\n私が見たのと同じだー\n\n# serif 0\n# textboxarrow 0 3\n# voice 2001 \"myuruniru_0040\"\n# chara 200151\n# face 200151 \"happy\"\n@ミョルニル\n私が見かけたのもあいつよー！\n\n# serif 1\n# textboxarrow 1 2\n# chara 500841\n# face 500841 \"angry\"\n@芭蕉扇\n確かに、\nなんだかお菓子いっぱい\n持ってるわね…\n\n# serif 0\n# textboxarrow 0 1\n# voice 6002 \"ganbantein_0021\"\n# chara 600231\n# face 600231 \"smile\"\n@ガンバンテイン\nおいしそ～\n\n# serif 1\n# textboxarrow 1 3\n# chara 200151\n@ミョルニル\n食べたーーい！\n\n# serif 0\n# textboxarrow 0 2\n# chara 500841\n# face 500841 \"happy\"\n@芭蕉扇\n待ってなさい！\n\n# serif 0\n# voice 5008 \"bashosen_0010\"\n# chara 500841\n@芭蕉扇\n私がいまやっつけるから！\nアンタ達には手柄じゃなくて\nお菓子をあげるわ！\n\n# serif 1\n# textboxarrow 1 1\n# voice 6002 \"ganbantein_0006\"\n# chara 600231\n@ガンバンテイン\nわーい\nがんばれー"
+	}
+]

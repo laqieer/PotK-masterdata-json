@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 96005299,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# voice 6005 \"keryukeion_0001\"\n# se \"SE_0732\"\n@ケーリュケイオン\nマスター…！\n私、感激しちゃった…っ！\n\n# textflame 1 1\n@ケーリュケイオン\n試すような真似してごめんね！\nでもどうしても気になっちゃって\n仕方がなかったんだよ～！\n\n# textflame 0 0\n@\nそう言ってケーリュケイオンは\nマスターを見つめて微笑む…\n\n# voice 6005 \"keryukeion_0004\"\n# textflame 1 1\n@ケーリュケイオン\nこれからもずっと\n君のキラープリンセスでいさせてね♪\n約束、だよ？\n\n# textflame 0 0\n@\nケーリュケイオンは\n頬を染めて照れていた…\n正解してよかった\n\n# textflame 0 0\n@\n彼女の喜ぶ姿を見られて、\n二人の絆がまた\n深まった気がする…\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

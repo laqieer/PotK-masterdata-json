@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 93007398,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# se \"SE_0733\"\n# face %(unit_a)s \"sad\"\n;; (不満 小)「むぅ…」（ファイルネーム不明）\n# voice 3007 \"gaiborugu_0013\"\n@ゲイボルグ\nむう…\n\n@ゲイボルグ\n…不正解…だ…\n\n@ゲイボルグ\n…………\n\n@ゲイボルグ\nあ、いや、別に\n気を悪くしたわけではない\n\n@ゲイボルグ\nただ、少々残念に\n思っただけだ…\n\n# face %(unit_a)s \"normal\"\n@ゲイボルグ\n…え、次は正解してみせる？\n\n# voice 3007 \"gaiborugu_0036\"\n@ゲイボルグ\nそうか、そう言ってくれるか\nならば、期待しているぞ\n私のマスター…\n\n# textflame 0 0\n@\nゲイボルグはそう言うと、\nマスターの手を\nそっと握ってくる\n\n@\n彼女の期待に応えるためにも\n次は絶対に\n間違えないように頑張ろう！\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

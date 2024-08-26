@@ -1,0 +1,177 @@
+[
+	{
+		"ID": 1,
+		"name": "初心者ナビ",
+		"priority": 0
+	},
+	{
+		"ID": 2,
+		"name": "世界観",
+		"priority": 99
+	},
+	{
+		"ID": 3,
+		"name": "クエスト",
+		"priority": 98
+	},
+	{
+		"ID": 4,
+		"name": "ステージ",
+		"priority": 97
+	},
+	{
+		"ID": 5,
+		"name": "ステージ結果",
+		"priority": 96
+	},
+	{
+		"ID": 6,
+		"name": "ユニット(キル姫)",
+		"priority": 95
+	},
+	{
+		"ID": 7,
+		"name": "詳細ステータス",
+		"priority": 92
+	},
+	{
+		"ID": 8,
+		"name": "武具について",
+		"priority": 90
+	},
+	{
+		"ID": 9,
+		"name": "図鑑",
+		"priority": 89
+	},
+	{
+		"ID": 10,
+		"name": "地上編",
+		"priority": 86
+	},
+	{
+		"ID": 11,
+		"name": "コロシアム",
+		"priority": 85
+	},
+	{
+		"ID": 12,
+		"name": "マルチ対戦",
+		"priority": 84
+	},
+	{
+		"ID": 13,
+		"name": "ガチャ",
+		"priority": 83
+	},
+	{
+		"ID": 14,
+		"name": "ショップ",
+		"priority": 82
+	},
+	{
+		"ID": 15,
+		"name": "ミッション",
+		"priority": 81
+	},
+	{
+		"ID": 16,
+		"name": "フレンド",
+		"priority": 80
+	},
+	{
+		"ID": 17,
+		"name": "メッセージ",
+		"priority": 79
+	},
+	{
+		"ID": 18,
+		"name": "ギルド",
+		"priority": 78
+	},
+	{
+		"ID": 19,
+		"name": "FgGID連携",
+		"priority": 75
+	},
+	{
+		"ID": 20,
+		"name": "ギルドバトル",
+		"priority": 77
+	},
+	{
+		"ID": 21,
+		"name": "セフィロトの業樹",
+		"priority": 74
+	},
+	{
+		"ID": 22,
+		"name": "海上編",
+		"priority": 87
+	},
+	{
+		"ID": 23,
+		"name": "よくあるご質問[スキル編]",
+		"priority": 71
+	},
+	{
+		"ID": 24,
+		"name": "マップエディット",
+		"priority": 76
+	},
+	{
+		"ID": 25,
+		"name": "育成素材について",
+		"priority": 93
+	},
+	{
+		"ID": 26,
+		"name": "クラスチェンジについて",
+		"priority": 91
+	},
+	{
+		"ID": 27,
+		"name": "レイド",
+		"priority": 88
+	},
+	{
+		"ID": 28,
+		"name": "淘汰値",
+		"priority": 73
+	},
+	{
+		"ID": 29,
+		"name": "ユニットグループ",
+		"priority": 94
+	},
+	{
+		"ID": 31,
+		"name": "姫石/スペシャルショップ",
+		"priority": 72
+	},
+	{
+		"ID": 30,
+		"name": "探索",
+		"priority": 68
+	},
+	{
+		"ID": 32,
+		"name": "神話霊装",
+		"priority": 73
+	},
+	{
+		"ID": 33,
+		"name": "オーバーキラーズ",
+		"priority": 70
+	},
+	{
+		"ID": 34,
+		"name": "ログインボーナス",
+		"priority": 80
+	},
+	{
+		"ID": 35,
+		"name": "誓約",
+		"priority": 69
+	}
+]

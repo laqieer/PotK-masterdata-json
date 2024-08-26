@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 400314,
+		"script": ";;シロクマとかじゃない？　小\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_aquarium_day\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 4003 \"aporon_0028\"\n@アポロン\nシロクマ～？\n確かにお姉ちゃんは\nクマが好きだけど…\n\n@アポロン\n水族館って\nシロクマいるの？\n\n# textflame 0 0\n@\nこの水族館には\nシロクマが居ることを\n説明するとアポロンは喜んだ\n\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n# voice 4003 \"aporon_0041\"\n@アポロン\nマスターって水族館に詳しいね！\nお姉ちゃんについても\n分かってるし、感心感心～♪\n\n# textflame 0 0\n@\nアポロンとの水族館デートは\n下調べの甲斐もあって\nとても楽しいものになった…\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

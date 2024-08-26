@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 91035198,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# se \"SE_0733\"\n# face %(unit_a)s \"angry\"\n# voice 1035 \"damocles_0027\"\n@ダモクレス\nブッブー！\n不正解！\n\n# face %(unit_a)s \"sad\"\n@ダモクレス\nどぉしたの？\nもしかして難しかった？\n\n@ダモクレス\nそれとも、クレスのこと\nよく知らないの？\n\n# face %(unit_a)s \"usual\"\n@ダモクレス\nそっかー\nそれじゃあ、しょうがないか～\n\n# textflame 0 0\n@\nなんでもないように告げるダモクレス\n顔は笑っているが\n瞳には寂しさの色が浮かんでいる\n\n# textflame 0 0\n@\nその瞳に胸が貫かれているようで\n次は必ず正解しよう、という\n気持ちが湧いてくるのだった…\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

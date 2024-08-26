@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 402025,
+		"script": ";;青はずれ\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_room\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# face %(unit_a)s \"usual\"\n# textflame 0 0\n@\nヒョウハとのデート後…\nマスターは彼女の部屋に\n招かれていた\n\n# textflame 1 1\n# voice 540201 \"hyoha_c_0031\"\n@ヒョウハ\nゴメンな師匠！\nちょっと散らかってて\n\n@ヒョウハ\nまあ、見られて\n困る物とか無いけどさ\n\n# face %(unit_a)s \"surprise\"\n# voice 540201 \"hyoha_c_0003\"\n@ヒョウハ\nホントは呼ぶつもりは\nなかったんだけど\n師匠ともう少し話したくて…\n\n# voice 540201 \"hyoha_c_0028\"\n@ヒョウハ\nうーん…そうは言ったけど\nいざとなるとなんか言葉が\n出てこないもんだな…\n\n@ヒョウハ\nあーなんだろ…\n師匠があたしの部屋いるのって\nなんか妙な感じだな\n\n@ヒョウハ\nま、まあ…こういうのも\nたまにはいいよな\n\n@ヒョウハ\nなんか…変な感じだけど\nこれはこれで悪くないって\n言うかさ…\n\n@ヒョウハ\nむしろいいって言うか…\n師匠もそう思ったりするか？\n\n# voice 540201 \"hyoha_c_0008\"\n@ヒョウハ\nあ…あはは…\n何言ってんだろあたし\n\n@ヒョウハ\nなんか…上手く言葉が\n見つからないな…\n\n# face %(unit_a)s \"smile\"\n# voice 540201 \"hyoha_c_0002\"\n@ヒョウハ\nえっとさ…何か話してくれよ\nせっかく、二人きりなんだしさ\n\n# textflame 0 0\n@\n思ったような展開ではなかったが\n楽しい一時を過ごすことができた\n二人であった\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

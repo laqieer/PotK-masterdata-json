@@ -1,0 +1,402 @@
+[
+	{
+		"ID": 1,
+		"base_type_GuildBaseType": 1,
+		"base_rank": 1,
+		"bonus_type_GuildBaseBonusType": 7,
+		"bonus_grade": 1,
+		"bonus_amount": 5
+	},
+	{
+		"ID": 3,
+		"base_type_GuildBaseType": 1,
+		"base_rank": 2,
+		"bonus_type_GuildBaseBonusType": 7,
+		"bonus_grade": 2,
+		"bonus_amount": 10
+	},
+	{
+		"ID": 5,
+		"base_type_GuildBaseType": 1,
+		"base_rank": 3,
+		"bonus_type_GuildBaseBonusType": 7,
+		"bonus_grade": 3,
+		"bonus_amount": 15
+	},
+	{
+		"ID": 7,
+		"base_type_GuildBaseType": 1,
+		"base_rank": 4,
+		"bonus_type_GuildBaseBonusType": 7,
+		"bonus_grade": 4,
+		"bonus_amount": 20
+	},
+	{
+		"ID": 9,
+		"base_type_GuildBaseType": 1,
+		"base_rank": 5,
+		"bonus_type_GuildBaseBonusType": 7,
+		"bonus_grade": 5,
+		"bonus_amount": 25
+	},
+	{
+		"ID": 11,
+		"base_type_GuildBaseType": 1,
+		"base_rank": 6,
+		"bonus_type_GuildBaseBonusType": 7,
+		"bonus_grade": 6,
+		"bonus_amount": 30
+	},
+	{
+		"ID": 13,
+		"base_type_GuildBaseType": 1,
+		"base_rank": 7,
+		"bonus_type_GuildBaseBonusType": 7,
+		"bonus_grade": 7,
+		"bonus_amount": 35
+	},
+	{
+		"ID": 15,
+		"base_type_GuildBaseType": 1,
+		"base_rank": 8,
+		"bonus_type_GuildBaseBonusType": 7,
+		"bonus_grade": 8,
+		"bonus_amount": 40
+	},
+	{
+		"ID": 17,
+		"base_type_GuildBaseType": 1,
+		"base_rank": 9,
+		"bonus_type_GuildBaseBonusType": 7,
+		"bonus_grade": 9,
+		"bonus_amount": 45
+	},
+	{
+		"ID": 19,
+		"base_type_GuildBaseType": 1,
+		"base_rank": 10,
+		"bonus_type_GuildBaseBonusType": 7,
+		"bonus_grade": 10,
+		"bonus_amount": 50
+	},
+	{
+		"ID": 21,
+		"base_type_GuildBaseType": 2,
+		"base_rank": 1,
+		"bonus_type_GuildBaseBonusType": 1,
+		"bonus_grade": 1,
+		"bonus_amount": 5
+	},
+	{
+		"ID": 22,
+		"base_type_GuildBaseType": 2,
+		"base_rank": 1,
+		"bonus_type_GuildBaseBonusType": 3,
+		"bonus_grade": 1,
+		"bonus_amount": 5
+	},
+	{
+		"ID": 23,
+		"base_type_GuildBaseType": 2,
+		"base_rank": 2,
+		"bonus_type_GuildBaseBonusType": 1,
+		"bonus_grade": 2,
+		"bonus_amount": 10
+	},
+	{
+		"ID": 24,
+		"base_type_GuildBaseType": 2,
+		"base_rank": 2,
+		"bonus_type_GuildBaseBonusType": 3,
+		"bonus_grade": 1,
+		"bonus_amount": 5
+	},
+	{
+		"ID": 25,
+		"base_type_GuildBaseType": 2,
+		"base_rank": 3,
+		"bonus_type_GuildBaseBonusType": 1,
+		"bonus_grade": 2,
+		"bonus_amount": 10
+	},
+	{
+		"ID": 26,
+		"base_type_GuildBaseType": 2,
+		"base_rank": 3,
+		"bonus_type_GuildBaseBonusType": 3,
+		"bonus_grade": 2,
+		"bonus_amount": 10
+	},
+	{
+		"ID": 27,
+		"base_type_GuildBaseType": 2,
+		"base_rank": 4,
+		"bonus_type_GuildBaseBonusType": 1,
+		"bonus_grade": 3,
+		"bonus_amount": 15
+	},
+	{
+		"ID": 28,
+		"base_type_GuildBaseType": 2,
+		"base_rank": 4,
+		"bonus_type_GuildBaseBonusType": 3,
+		"bonus_grade": 2,
+		"bonus_amount": 10
+	},
+	{
+		"ID": 29,
+		"base_type_GuildBaseType": 2,
+		"base_rank": 5,
+		"bonus_type_GuildBaseBonusType": 1,
+		"bonus_grade": 3,
+		"bonus_amount": 15
+	},
+	{
+		"ID": 30,
+		"base_type_GuildBaseType": 2,
+		"base_rank": 5,
+		"bonus_type_GuildBaseBonusType": 3,
+		"bonus_grade": 3,
+		"bonus_amount": 15
+	},
+	{
+		"ID": 31,
+		"base_type_GuildBaseType": 2,
+		"base_rank": 6,
+		"bonus_type_GuildBaseBonusType": 1,
+		"bonus_grade": 4,
+		"bonus_amount": 20
+	},
+	{
+		"ID": 32,
+		"base_type_GuildBaseType": 2,
+		"base_rank": 6,
+		"bonus_type_GuildBaseBonusType": 3,
+		"bonus_grade": 3,
+		"bonus_amount": 15
+	},
+	{
+		"ID": 33,
+		"base_type_GuildBaseType": 2,
+		"base_rank": 7,
+		"bonus_type_GuildBaseBonusType": 1,
+		"bonus_grade": 4,
+		"bonus_amount": 20
+	},
+	{
+		"ID": 34,
+		"base_type_GuildBaseType": 2,
+		"base_rank": 7,
+		"bonus_type_GuildBaseBonusType": 3,
+		"bonus_grade": 4,
+		"bonus_amount": 20
+	},
+	{
+		"ID": 35,
+		"base_type_GuildBaseType": 2,
+		"base_rank": 8,
+		"bonus_type_GuildBaseBonusType": 1,
+		"bonus_grade": 5,
+		"bonus_amount": 25
+	},
+	{
+		"ID": 36,
+		"base_type_GuildBaseType": 2,
+		"base_rank": 8,
+		"bonus_type_GuildBaseBonusType": 3,
+		"bonus_grade": 4,
+		"bonus_amount": 20
+	},
+	{
+		"ID": 37,
+		"base_type_GuildBaseType": 2,
+		"base_rank": 9,
+		"bonus_type_GuildBaseBonusType": 1,
+		"bonus_grade": 6,
+		"bonus_amount": 30
+	},
+	{
+		"ID": 38,
+		"base_type_GuildBaseType": 2,
+		"base_rank": 9,
+		"bonus_type_GuildBaseBonusType": 3,
+		"bonus_grade": 5,
+		"bonus_amount": 25
+	},
+	{
+		"ID": 39,
+		"base_type_GuildBaseType": 2,
+		"base_rank": 10,
+		"bonus_type_GuildBaseBonusType": 1,
+		"bonus_grade": 6,
+		"bonus_amount": 30
+	},
+	{
+		"ID": 40,
+		"base_type_GuildBaseType": 2,
+		"base_rank": 10,
+		"bonus_type_GuildBaseBonusType": 3,
+		"bonus_grade": 6,
+		"bonus_amount": 30
+	},
+	{
+		"ID": 41,
+		"base_type_GuildBaseType": 3,
+		"base_rank": 1,
+		"bonus_type_GuildBaseBonusType": 8,
+		"bonus_grade": 1,
+		"bonus_amount": 5
+	},
+	{
+		"ID": 42,
+		"base_type_GuildBaseType": 3,
+		"base_rank": 1,
+		"bonus_type_GuildBaseBonusType": 9,
+		"bonus_grade": 1,
+		"bonus_amount": 5
+	},
+	{
+		"ID": 43,
+		"base_type_GuildBaseType": 3,
+		"base_rank": 2,
+		"bonus_type_GuildBaseBonusType": 8,
+		"bonus_grade": 2,
+		"bonus_amount": 8
+	},
+	{
+		"ID": 44,
+		"base_type_GuildBaseType": 3,
+		"base_rank": 2,
+		"bonus_type_GuildBaseBonusType": 9,
+		"bonus_grade": 1,
+		"bonus_amount": 5
+	},
+	{
+		"ID": 45,
+		"base_type_GuildBaseType": 3,
+		"base_rank": 3,
+		"bonus_type_GuildBaseBonusType": 8,
+		"bonus_grade": 2,
+		"bonus_amount": 8
+	},
+	{
+		"ID": 46,
+		"base_type_GuildBaseType": 3,
+		"base_rank": 3,
+		"bonus_type_GuildBaseBonusType": 9,
+		"bonus_grade": 2,
+		"bonus_amount": 8
+	},
+	{
+		"ID": 47,
+		"base_type_GuildBaseType": 3,
+		"base_rank": 4,
+		"bonus_type_GuildBaseBonusType": 8,
+		"bonus_grade": 3,
+		"bonus_amount": 10
+	},
+	{
+		"ID": 48,
+		"base_type_GuildBaseType": 3,
+		"base_rank": 4,
+		"bonus_type_GuildBaseBonusType": 9,
+		"bonus_grade": 2,
+		"bonus_amount": 8
+	},
+	{
+		"ID": 49,
+		"base_type_GuildBaseType": 3,
+		"base_rank": 5,
+		"bonus_type_GuildBaseBonusType": 8,
+		"bonus_grade": 3,
+		"bonus_amount": 10
+	},
+	{
+		"ID": 50,
+		"base_type_GuildBaseType": 3,
+		"base_rank": 5,
+		"bonus_type_GuildBaseBonusType": 9,
+		"bonus_grade": 3,
+		"bonus_amount": 10
+	},
+	{
+		"ID": 51,
+		"base_type_GuildBaseType": 3,
+		"base_rank": 6,
+		"bonus_type_GuildBaseBonusType": 8,
+		"bonus_grade": 4,
+		"bonus_amount": 13
+	},
+	{
+		"ID": 52,
+		"base_type_GuildBaseType": 3,
+		"base_rank": 6,
+		"bonus_type_GuildBaseBonusType": 9,
+		"bonus_grade": 3,
+		"bonus_amount": 10
+	},
+	{
+		"ID": 53,
+		"base_type_GuildBaseType": 3,
+		"base_rank": 7,
+		"bonus_type_GuildBaseBonusType": 8,
+		"bonus_grade": 4,
+		"bonus_amount": 13
+	},
+	{
+		"ID": 54,
+		"base_type_GuildBaseType": 3,
+		"base_rank": 7,
+		"bonus_type_GuildBaseBonusType": 9,
+		"bonus_grade": 4,
+		"bonus_amount": 13
+	},
+	{
+		"ID": 55,
+		"base_type_GuildBaseType": 3,
+		"base_rank": 8,
+		"bonus_type_GuildBaseBonusType": 8,
+		"bonus_grade": 5,
+		"bonus_amount": 15
+	},
+	{
+		"ID": 56,
+		"base_type_GuildBaseType": 3,
+		"base_rank": 8,
+		"bonus_type_GuildBaseBonusType": 9,
+		"bonus_grade": 4,
+		"bonus_amount": 13
+	},
+	{
+		"ID": 57,
+		"base_type_GuildBaseType": 3,
+		"base_rank": 9,
+		"bonus_type_GuildBaseBonusType": 8,
+		"bonus_grade": 5,
+		"bonus_amount": 15
+	},
+	{
+		"ID": 58,
+		"base_type_GuildBaseType": 3,
+		"base_rank": 9,
+		"bonus_type_GuildBaseBonusType": 9,
+		"bonus_grade": 5,
+		"bonus_amount": 15
+	},
+	{
+		"ID": 59,
+		"base_type_GuildBaseType": 3,
+		"base_rank": 10,
+		"bonus_type_GuildBaseBonusType": 8,
+		"bonus_grade": 6,
+		"bonus_amount": 20
+	},
+	{
+		"ID": 60,
+		"base_type_GuildBaseType": 3,
+		"base_rank": 10,
+		"bonus_type_GuildBaseBonusType": 9,
+		"bonus_grade": 6,
+		"bonus_amount": 20
+	}
+]

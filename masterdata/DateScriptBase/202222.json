@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 202222,
+		"script": ";;B\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_drive\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# voice 2022 \"banko_0003\"\n@盤古\nああ…あの遊園地だ\n\n@盤古\n以前…そなたと二人で、\n訪れたことを思い出した…\n\n# face %(unit_a)s \"angry\"\n@盤古\n人が多くて…\nたくさん歩いて…\nとても疲れた、が…\n\n# face %(unit_a)s \"shy\"\n@盤古\nまた、そなたと…\n一緒に行きたいと\n思っていてな…\n\n@盤古\nき、今日…\n外に出てみたいと\n言い出したのも…\n\n@盤古\n外の世界にもっと\n慣れなければと\n思ったから、なのだ…\n\n# face %(unit_a)s \"surprise\"\n# voice 2022 \"banko_0015\"\n@盤古\n正直、す、すごく、怖い…\nで、でも…\n\n@盤古\nまた、そなたと二人で、\n遊園地を楽しみたい、から…\n\n@盤古\nだから…が、\nがんばりたいと\n思って、いる…\n\n# voice 2022 \"banko_0002\"\n@盤古\nそ、そうだ、マスター…！\nその…少しだけ…街に、寄らないか？\n\n@盤古\nこの時間なら、人も少ないし…\nきっと我も平気なはずだ…\n\n@盤古\n早く、克服したいのだ…\n夏が終わってしまう前に…！\n\n# textflame 0 0\n@\n不安そうな盤古の瞳に、\n情熱の火が灯っているのを\nマスターは見た\n\n@\n盤古のために、\nそしてマスターのために、\n車は街へと走っていく…\n;;-----------------------------------------\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

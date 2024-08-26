@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 210131102,
+		"script": ";;EP2\n# script \"lisp\"\n# background \"sea_beach_day\"\n# bgmfile \"bgm227\" \"BgmSeaEvent\" 0\n# body 2101311\n# pos 2101311 3\n# mask 2101311 off\n# face 2101311 \"usual\"\n# chara 2101311\n# textboxarrow 0 2\n# textflame 0 0\n@\nパラケルススに追いついたマスターは\nやっぱり一緒に遊びたいと伝えてみた\n\n# textflame 1 1\n# voice 1013 \"paracelsus_0001\"\n@パラケルスス\nわたくしは…知っているのだ\n自分が他人と楽しい空間を共有する\nことに適していないと…\n\n# textflame 0 0\n@\nパラケルススの顔には\nあきらめのような表情が浮かんでいる\n\n# eye 2101311 \"close\"\n# textflame 1 1\n@パラケルスス\nわたくしとて理解しているさ\nこの率直な物言いが\n他人に快く思われないことぐらい…\n\n# eye 2101311 \"normal\"\n# face 2101311 \"angry\"\n# textflame 1 1\n# voice 1013 \"paracelsus_0007\"\n@パラケルスス\nわたくしは\n自分の生き方を変えるつもりはない\nだから放っておいてくれ\n\n# textflame 0 0\n@\nパラケルススの顔ににじむ\n寂しさを読み取ったマスター\n\n# textflame 0 0\n@\nそれでも一緒に遊びたい\nそれに物知りなパラケルススなら\n面白い遊びを知っていそうと続けた\n\n# face 2101311 \"sad\"\n# textflame 1 1\n@パラケルスス\nだからわたくしは、遊ばないと―\n\n# textflame 0 0\n@\nマスターは言葉を遮り\n物知りなパラケルススも\n遊び方は知らない？と挑発してみる\n\n# textflame 1 1\n# voice 1013 \"paracelsus_0022\"\n@パラケルスス\n…知らない？\nこのわたくしの知識を\n君は疑うというのか？\n\n# face 2101311 \"usual\"\n# textflame 1 1\n# voice 1013 \"paracelsus_0032\"\n@パラケルスス\nいいだろう\n海の遊びについては一度だけ\n興味を持って調べたことがある\n\n# face 2101311 \"angry\"\n# textflame 1 1\n@パラケルスス\nわたくしの知識\nしかと思い知らせてやろう！\n"
+	}
+]

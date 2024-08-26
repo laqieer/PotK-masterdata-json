@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 3100225,
+		"script": "# script \"lisp\"\n# background \"tree_cavern\"\n# bgm \"bgm006\" 0\n;;ティル準備\n# body 101411\n# pos 101411 3\n;;デュリン準備\n# body 0\n# pos 0 1\n# face 0 \"angry\"\n;;イリア準備\n# body 601011\n# pos 601011 5\n# face 601011 \"amazed\"\n# serif 0\n# textflame 1 1\n# textboxarrow 0 3\n;;↓イリア\n# voice 6010 \"pok_collabo2_3_0030_illya\"\n@？？？\nなんで追っかけてくるのー！？\n\n# serif 1\n# textflame 1 1\n# textboxarrow 1 1\n# voice 9999 \"pok_collabo2_3_0031_durin\"\n@デュリン\nだから、危ないんだってば！\nもう、ちょこまかと！\n\n# serif 0\n# textflame 1 1\n# textboxarrow 0 3\n;;↓イリア\n# voice 6010 \"pok_collabo2_3_0032_illya\"\n@？？？\nもう、これ以上追い回されたら\nなんにも出来ないじゃない\n\n# serif 0\n# textflame 1 1\n# textboxarrow 0 3\n;;↓イリア\n# voice 6010 \"pok_collabo2_3_0033_illya\"\n@？？？\nあんまりしつこいと、\n痛い目見てもらうんだから！\n\n# serif 0\n# textflame 0 0\n# textboxarrow 0 0\n@\nそう言うと、少女は\nティルフィング達に向き直った\n\n# serif 1\n# textflame 1 1\n# textboxarrow 1 2\n# face 101411 \"angry\"\n# voice 1014 \"pok_collabo2_3_0034_tyrufing\"\n@ティルフィング\n…！\n\n# serif 0\n# textflame 0 0\n# textboxarrow 0 0\n@\n少女の身からマナの気配を感じ、\nティルフィングも\n剣を素早く剣を構える\n\n# serif 1\n# textflame 1 1\n# textboxarrow 1 1\n# face 0 \"worry\"\n# voice 9999 \"pok_collabo2_3_0035_durin\"\n@デュリン\nって、この子もキル姫！？\nどうなってるのよ！"
+	}
+]

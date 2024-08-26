@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 413020143,
+		"script": ";;4_3\n# script \"lisp\"\n# background \"angel_world\"\n# bgmfile \"bgm293\" \"BgmLostRagnarokSideStory\" 0\n# se \"SE_2019\"\n# textwindow \"nomal\"\n# body 3301811\n# pos 3301811 4\n# scale 3301811 0.8 0\n# body 3601111\n# pos 3601111 2\n# scale 3601111 0.8 0\n# textflame 1 1\n# face 3601111 \"sad\"\n# textboxarrow 0 1\n# voice 360111 \"vanargand_t_0037\"\n@ヴァナルガンド\nく、くうぅ…\nさすがです、フォルカス…\n\n# face 3301811 \"angry\"\n# textboxarrow 0 3\n@フォルカス\n白羽は尊きもの…\n故にとどめは刺しません\n拘束され、然るべき処置を待ちなさい\n\n# face 3301811 \"normal\"\n@フォルカス\nサリエルを授けし\nミカエル様に感謝なさい\n\n# textboxarrow 0 1\n@ヴァナルガンド\n私だって\nミカエル様をお慕いしております\n\n@ヴァナルガンド\nただ我々の使命は信仰？\n違う——\n“ラグナロク”の実現でしょ？\n\n# face 3301811 \"normal\"\n# textboxarrow 0 3\n@フォルカス\n黙って…\n\n# face 3601111 \"normal\"\n# textboxarrow 0 1\n@ヴァナルガンド\nあなたもあの光景を見ればわかる\n夜、“擬人区”に行ってみなさい\n\n# face 3301811 \"sad\"\n# textboxarrow 0 3\n@フォルカス\n私は…\n"
+	}
+]

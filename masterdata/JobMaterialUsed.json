@@ -1,0 +1,614 @@
+[
+	{
+		"ID": 1,
+		"unit_UnitUnit": 700641,
+		"material_group_id_JobMaterialGroup": 1,
+		"check_item_id": 0
+	},
+	{
+		"ID": 2,
+		"unit_UnitUnit": 700651,
+		"material_group_id_JobMaterialGroup": 2,
+		"check_item_id": 0
+	},
+	{
+		"ID": 3,
+		"unit_UnitUnit": 700371,
+		"material_group_id_JobMaterialGroup": 3,
+		"check_item_id": 0
+	},
+	{
+		"ID": 4,
+		"unit_UnitUnit": 701271,
+		"material_group_id_JobMaterialGroup": 4,
+		"check_item_id": 0
+	},
+	{
+		"ID": 5,
+		"unit_UnitUnit": 701371,
+		"material_group_id_JobMaterialGroup": 5,
+		"check_item_id": 0
+	},
+	{
+		"ID": 6,
+		"unit_UnitUnit": 704010,
+		"material_group_id_JobMaterialGroup": 6,
+		"check_item_id": 0
+	},
+	{
+		"ID": 7,
+		"unit_UnitUnit": 700511,
+		"material_group_id_JobMaterialGroup": 7,
+		"check_item_id": 1
+	},
+	{
+		"ID": 8,
+		"unit_UnitUnit": 700521,
+		"material_group_id_JobMaterialGroup": 7,
+		"check_item_id": 3
+	},
+	{
+		"ID": 9,
+		"unit_UnitUnit": 700531,
+		"material_group_id_JobMaterialGroup": 7,
+		"check_item_id": 4
+	},
+	{
+		"ID": 10,
+		"unit_UnitUnit": 700541,
+		"material_group_id_JobMaterialGroup": 7,
+		"check_item_id": 5
+	},
+	{
+		"ID": 11,
+		"unit_UnitUnit": 700551,
+		"material_group_id_JobMaterialGroup": 7,
+		"check_item_id": 2
+	},
+	{
+		"ID": 12,
+		"unit_UnitUnit": 700561,
+		"material_group_id_JobMaterialGroup": 7,
+		"check_item_id": 6
+	},
+	{
+		"ID": 13,
+		"unit_UnitUnit": 700311,
+		"material_group_id_JobMaterialGroup": 8,
+		"check_item_id": 1
+	},
+	{
+		"ID": 14,
+		"unit_UnitUnit": 700321,
+		"material_group_id_JobMaterialGroup": 8,
+		"check_item_id": 3
+	},
+	{
+		"ID": 15,
+		"unit_UnitUnit": 700331,
+		"material_group_id_JobMaterialGroup": 8,
+		"check_item_id": 4
+	},
+	{
+		"ID": 16,
+		"unit_UnitUnit": 700341,
+		"material_group_id_JobMaterialGroup": 8,
+		"check_item_id": 5
+	},
+	{
+		"ID": 17,
+		"unit_UnitUnit": 700351,
+		"material_group_id_JobMaterialGroup": 8,
+		"check_item_id": 2
+	},
+	{
+		"ID": 18,
+		"unit_UnitUnit": 700361,
+		"material_group_id_JobMaterialGroup": 8,
+		"check_item_id": 6
+	},
+	{
+		"ID": 19,
+		"unit_UnitUnit": 701211,
+		"material_group_id_JobMaterialGroup": 9,
+		"check_item_id": 1
+	},
+	{
+		"ID": 20,
+		"unit_UnitUnit": 701221,
+		"material_group_id_JobMaterialGroup": 9,
+		"check_item_id": 3
+	},
+	{
+		"ID": 21,
+		"unit_UnitUnit": 701231,
+		"material_group_id_JobMaterialGroup": 9,
+		"check_item_id": 4
+	},
+	{
+		"ID": 22,
+		"unit_UnitUnit": 701241,
+		"material_group_id_JobMaterialGroup": 9,
+		"check_item_id": 5
+	},
+	{
+		"ID": 23,
+		"unit_UnitUnit": 701251,
+		"material_group_id_JobMaterialGroup": 9,
+		"check_item_id": 2
+	},
+	{
+		"ID": 24,
+		"unit_UnitUnit": 701261,
+		"material_group_id_JobMaterialGroup": 9,
+		"check_item_id": 6
+	},
+	{
+		"ID": 25,
+		"unit_UnitUnit": 701311,
+		"material_group_id_JobMaterialGroup": 10,
+		"check_item_id": 1
+	},
+	{
+		"ID": 26,
+		"unit_UnitUnit": 701321,
+		"material_group_id_JobMaterialGroup": 10,
+		"check_item_id": 3
+	},
+	{
+		"ID": 27,
+		"unit_UnitUnit": 701331,
+		"material_group_id_JobMaterialGroup": 10,
+		"check_item_id": 4
+	},
+	{
+		"ID": 28,
+		"unit_UnitUnit": 701341,
+		"material_group_id_JobMaterialGroup": 10,
+		"check_item_id": 5
+	},
+	{
+		"ID": 29,
+		"unit_UnitUnit": 701351,
+		"material_group_id_JobMaterialGroup": 10,
+		"check_item_id": 2
+	},
+	{
+		"ID": 30,
+		"unit_UnitUnit": 701361,
+		"material_group_id_JobMaterialGroup": 10,
+		"check_item_id": 6
+	},
+	{
+		"ID": 31,
+		"unit_UnitUnit": 704031,
+		"material_group_id_JobMaterialGroup": 11,
+		"check_item_id": 1
+	},
+	{
+		"ID": 32,
+		"unit_UnitUnit": 704032,
+		"material_group_id_JobMaterialGroup": 11,
+		"check_item_id": 2
+	},
+	{
+		"ID": 33,
+		"unit_UnitUnit": 704033,
+		"material_group_id_JobMaterialGroup": 11,
+		"check_item_id": 3
+	},
+	{
+		"ID": 34,
+		"unit_UnitUnit": 704034,
+		"material_group_id_JobMaterialGroup": 11,
+		"check_item_id": 4
+	},
+	{
+		"ID": 35,
+		"unit_UnitUnit": 704035,
+		"material_group_id_JobMaterialGroup": 11,
+		"check_item_id": 5
+	},
+	{
+		"ID": 36,
+		"unit_UnitUnit": 704036,
+		"material_group_id_JobMaterialGroup": 11,
+		"check_item_id": 6
+	},
+	{
+		"ID": 37,
+		"unit_UnitUnit": 704042,
+		"material_group_id_JobMaterialGroup": 12,
+		"check_item_id": 1
+	},
+	{
+		"ID": 38,
+		"unit_UnitUnit": 704043,
+		"material_group_id_JobMaterialGroup": 12,
+		"check_item_id": 2
+	},
+	{
+		"ID": 39,
+		"unit_UnitUnit": 704044,
+		"material_group_id_JobMaterialGroup": 12,
+		"check_item_id": 3
+	},
+	{
+		"ID": 40,
+		"unit_UnitUnit": 704045,
+		"material_group_id_JobMaterialGroup": 12,
+		"check_item_id": 4
+	},
+	{
+		"ID": 41,
+		"unit_UnitUnit": 704046,
+		"material_group_id_JobMaterialGroup": 12,
+		"check_item_id": 5
+	},
+	{
+		"ID": 42,
+		"unit_UnitUnit": 704047,
+		"material_group_id_JobMaterialGroup": 12,
+		"check_item_id": 21
+	},
+	{
+		"ID": 43,
+		"unit_UnitUnit": 704048,
+		"material_group_id_JobMaterialGroup": 12,
+		"check_item_id": 22
+	},
+	{
+		"ID": 44,
+		"unit_UnitUnit": 704049,
+		"material_group_id_JobMaterialGroup": 12,
+		"check_item_id": 23
+	},
+	{
+		"ID": 45,
+		"unit_UnitUnit": 704050,
+		"material_group_id_JobMaterialGroup": 12,
+		"check_item_id": 24
+	},
+	{
+		"ID": 46,
+		"unit_UnitUnit": 704051,
+		"material_group_id_JobMaterialGroup": 12,
+		"check_item_id": 32
+	},
+	{
+		"ID": 47,
+		"unit_UnitUnit": 704061,
+		"material_group_id_JobMaterialGroup": 13,
+		"check_item_id": 490000010
+	},
+	{
+		"ID": 48,
+		"unit_UnitUnit": 704062,
+		"material_group_id_JobMaterialGroup": 13,
+		"check_item_id": 490000013
+	},
+	{
+		"ID": 49,
+		"unit_UnitUnit": 704063,
+		"material_group_id_JobMaterialGroup": 13,
+		"check_item_id": 490000017
+	},
+	{
+		"ID": 50,
+		"unit_UnitUnit": 704064,
+		"material_group_id_JobMaterialGroup": 13,
+		"check_item_id": 490000015
+	},
+	{
+		"ID": 51,
+		"unit_UnitUnit": 704065,
+		"material_group_id_JobMaterialGroup": 13,
+		"check_item_id": 490000019
+	},
+	{
+		"ID": 52,
+		"unit_UnitUnit": 704066,
+		"material_group_id_JobMaterialGroup": 13,
+		"check_item_id": 490000021
+	},
+	{
+		"ID": 53,
+		"unit_UnitUnit": 704071,
+		"material_group_id_JobMaterialGroup": 14,
+		"check_item_id": 0
+	},
+	{
+		"ID": 54,
+		"unit_UnitUnit": 704072,
+		"material_group_id_JobMaterialGroup": 15,
+		"check_item_id": 0
+	},
+	{
+		"ID": 55,
+		"unit_UnitUnit": 704073,
+		"material_group_id_JobMaterialGroup": 16,
+		"check_item_id": 0
+	},
+	{
+		"ID": 56,
+		"unit_UnitUnit": 704074,
+		"material_group_id_JobMaterialGroup": 17,
+		"check_item_id": 0
+	},
+	{
+		"ID": 57,
+		"unit_UnitUnit": 704075,
+		"material_group_id_JobMaterialGroup": 18,
+		"check_item_id": 0
+	},
+	{
+		"ID": 58,
+		"unit_UnitUnit": 704076,
+		"material_group_id_JobMaterialGroup": 19,
+		"check_item_id": 0
+	},
+	{
+		"ID": 59,
+		"unit_UnitUnit": 704077,
+		"material_group_id_JobMaterialGroup": 20,
+		"check_item_id": 0
+	},
+	{
+		"ID": 60,
+		"unit_UnitUnit": 704078,
+		"material_group_id_JobMaterialGroup": 21,
+		"check_item_id": 0
+	},
+	{
+		"ID": 61,
+		"unit_UnitUnit": 704079,
+		"material_group_id_JobMaterialGroup": 22,
+		"check_item_id": 0
+	},
+	{
+		"ID": 62,
+		"unit_UnitUnit": 704021,
+		"material_group_id_JobMaterialGroup": 23,
+		"check_item_id": 0
+	},
+	{
+		"ID": 63,
+		"unit_UnitUnit": 704041,
+		"material_group_id_JobMaterialGroup": 24,
+		"check_item_id": 0
+	},
+	{
+		"ID": 64,
+		"unit_UnitUnit": 704042,
+		"material_group_id_JobMaterialGroup": 25,
+		"check_item_id": 0
+	},
+	{
+		"ID": 65,
+		"unit_UnitUnit": 704043,
+		"material_group_id_JobMaterialGroup": 26,
+		"check_item_id": 0
+	},
+	{
+		"ID": 66,
+		"unit_UnitUnit": 704044,
+		"material_group_id_JobMaterialGroup": 27,
+		"check_item_id": 0
+	},
+	{
+		"ID": 67,
+		"unit_UnitUnit": 704045,
+		"material_group_id_JobMaterialGroup": 28,
+		"check_item_id": 0
+	},
+	{
+		"ID": 68,
+		"unit_UnitUnit": 704046,
+		"material_group_id_JobMaterialGroup": 29,
+		"check_item_id": 0
+	},
+	{
+		"ID": 69,
+		"unit_UnitUnit": 704047,
+		"material_group_id_JobMaterialGroup": 30,
+		"check_item_id": 0
+	},
+	{
+		"ID": 70,
+		"unit_UnitUnit": 704048,
+		"material_group_id_JobMaterialGroup": 31,
+		"check_item_id": 0
+	},
+	{
+		"ID": 71,
+		"unit_UnitUnit": 704049,
+		"material_group_id_JobMaterialGroup": 32,
+		"check_item_id": 0
+	},
+	{
+		"ID": 72,
+		"unit_UnitUnit": 704050,
+		"material_group_id_JobMaterialGroup": 33,
+		"check_item_id": 0
+	},
+	{
+		"ID": 73,
+		"unit_UnitUnit": 704051,
+		"material_group_id_JobMaterialGroup": 34,
+		"check_item_id": 0
+	},
+	{
+		"ID": 74,
+		"unit_UnitUnit": 704022,
+		"material_group_id_JobMaterialGroup": 35,
+		"check_item_id": 0
+	},
+	{
+		"ID": 75,
+		"unit_UnitUnit": 704023,
+		"material_group_id_JobMaterialGroup": 36,
+		"check_item_id": 0
+	},
+	{
+		"ID": 76,
+		"unit_UnitUnit": 704026,
+		"material_group_id_JobMaterialGroup": 37,
+		"check_item_id": 0
+	},
+	{
+		"ID": 77,
+		"unit_UnitUnit": 704089,
+		"material_group_id_JobMaterialGroup": 38,
+		"check_item_id": 0
+	},
+	{
+		"ID": 78,
+		"unit_UnitUnit": 704090,
+		"material_group_id_JobMaterialGroup": 39,
+		"check_item_id": 0
+	},
+	{
+		"ID": 79,
+		"unit_UnitUnit": 704091,
+		"material_group_id_JobMaterialGroup": 40,
+		"check_item_id": 0
+	},
+	{
+		"ID": 80,
+		"unit_UnitUnit": 71015110,
+		"material_group_id_JobMaterialGroup": 41,
+		"check_item_id": 0
+	},
+	{
+		"ID": 81,
+		"unit_UnitUnit": 71015111,
+		"material_group_id_JobMaterialGroup": 42,
+		"check_item_id": 0
+	},
+	{
+		"ID": 82,
+		"unit_UnitUnit": 704092,
+		"material_group_id_JobMaterialGroup": 43,
+		"check_item_id": 0
+	},
+	{
+		"ID": 83,
+		"unit_UnitUnit": 704094,
+		"material_group_id_JobMaterialGroup": 44,
+		"check_item_id": 0
+	},
+	{
+		"ID": 84,
+		"unit_UnitUnit": 704095,
+		"material_group_id_JobMaterialGroup": 45,
+		"check_item_id": 0
+	},
+	{
+		"ID": 85,
+		"unit_UnitUnit": 704096,
+		"material_group_id_JobMaterialGroup": 46,
+		"check_item_id": 0
+	},
+	{
+		"ID": 86,
+		"unit_UnitUnit": 704097,
+		"material_group_id_JobMaterialGroup": 47,
+		"check_item_id": 0
+	},
+	{
+		"ID": 87,
+		"unit_UnitUnit": 704098,
+		"material_group_id_JobMaterialGroup": 48,
+		"check_item_id": 0
+	},
+	{
+		"ID": 88,
+		"unit_UnitUnit": 704099,
+		"material_group_id_JobMaterialGroup": 49,
+		"check_item_id": 0
+	},
+	{
+		"ID": 89,
+		"unit_UnitUnit": 704100,
+		"material_group_id_JobMaterialGroup": 50,
+		"check_item_id": 0
+	},
+	{
+		"ID": 90,
+		"unit_UnitUnit": 704101,
+		"material_group_id_JobMaterialGroup": 51,
+		"check_item_id": 0
+	},
+	{
+		"ID": 91,
+		"unit_UnitUnit": 704103,
+		"material_group_id_JobMaterialGroup": 52,
+		"check_item_id": 0
+	},
+	{
+		"ID": 92,
+		"unit_UnitUnit": 73011111,
+		"material_group_id_JobMaterialGroup": 53,
+		"check_item_id": 0
+	},
+	{
+		"ID": 93,
+		"unit_UnitUnit": 73011110,
+		"material_group_id_JobMaterialGroup": 54,
+		"check_item_id": 0
+	},
+	{
+		"ID": 94,
+		"unit_UnitUnit": 74009111,
+		"material_group_id_JobMaterialGroup": 55,
+		"check_item_id": 0
+	},
+	{
+		"ID": 95,
+		"unit_UnitUnit": 74009110,
+		"material_group_id_JobMaterialGroup": 56,
+		"check_item_id": 0
+	},
+	{
+		"ID": 96,
+		"unit_UnitUnit": 76007111,
+		"material_group_id_JobMaterialGroup": 57,
+		"check_item_id": 0
+	},
+	{
+		"ID": 97,
+		"unit_UnitUnit": 76007110,
+		"material_group_id_JobMaterialGroup": 58,
+		"check_item_id": 0
+	},
+	{
+		"ID": 98,
+		"unit_UnitUnit": 75039111,
+		"material_group_id_JobMaterialGroup": 59,
+		"check_item_id": 0
+	},
+	{
+		"ID": 99,
+		"unit_UnitUnit": 75039121,
+		"material_group_id_JobMaterialGroup": 60,
+		"check_item_id": 0
+	},
+	{
+		"ID": 100,
+		"unit_UnitUnit": 74024111,
+		"material_group_id_JobMaterialGroup": 61,
+		"check_item_id": 0
+	},
+	{
+		"ID": 101,
+		"unit_UnitUnit": 74024121,
+		"material_group_id_JobMaterialGroup": 62,
+		"check_item_id": 0
+	},
+	{
+		"ID": 102,
+		"unit_UnitUnit": 704107,
+		"material_group_id_JobMaterialGroup": 63,
+		"check_item_id": 0
+	}
+]

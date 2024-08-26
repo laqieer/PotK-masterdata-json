@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 40112302,
+		"script": "# script \"lisp\"\n# background \"flower_garden\"\n# bgm \"bgm004\" 0\n# body 401121\n# pos 401121 5\n# body 8\n# pos 8 2\n# textflame 1 1\n@キュゥべえ\nまどかのことだね\n\n@キュゥべえ\n元々、彼女は\nこの世界に来るはずじゃなかった\n\n@キュゥべえ\n度重なる時空のひずみによって、\n偶然この世界を通り過ぎただけだ\n\n@キュゥべえ\nそれは数万分の一にも満たない\n確率なんだよ\n\n@キュゥべえ\nただそれだけのことさ\n\n# textflame 0 0\n@マスター\nそうかも知れない\nでも…偶然通り過ぎたとはいえ\n彼女の想いに感謝したいんだ\n\n# textflame 1 1\n@キュゥべえ\n想い…？想いと言っても、\n彼女はもう君達とは違う\n次元に行ったんだ\n\n@キュゥべえ\n想いとか気持ちとかいう\n概念すらもうないよ\n\n# select \"それでも…彼女に感謝したいんだ\" \"select_label_01\" \"彼女の事を…忘れちゃいけないんだ\" \"select_label_02\" \"こっちは…彼女に想いを持たなきゃ！\" \"select_label_03\"\n想いとか気持ちとかいう\n概念すらもうないよ\n\n# label \"select_label_01\"\n# labeljump \"select_label_end\"\n# textflame 1 1\n@キュゥべえ\n感謝…ねぇ…\n\n# label \"select_label_02\"\n# labeljump \"select_label_end\"\n# textflame 1 1\n@キュゥべえ\nう〜ん…僕にそう言われても…\n\n# label \"select_label_03\"\n# labeljump \"select_label_end\"\n# textflame 1 1\n@キュゥべえ\nなかなか…理解に苦しむなぁ\n\n# label \"select_label_end\"\n@キュゥべえ\nどの世界に行っても、\n人間という生き物は…\n\n@キュゥべえ\n“心”という不確かなものに\n寄りかかりたがるんだね\nなんでなのかな？\n\n# textflame 0 0\n@マスター\n不確かな記憶だけど…\n一緒に戦った…\n仲間だった気がするから…\n\n# textflame 1 1\n@キュゥべえ\n仲間…か"
+	}
+]

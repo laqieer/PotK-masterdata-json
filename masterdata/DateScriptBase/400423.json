@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 400423,
+		"script": ";;C 今を楽しもう\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_shipboard\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# voice 4004 \"erosu_0004\"\n@エロース\nそうですね！\n\n@エロース\nじゃあ今を愉しむために！\nなにをしましょうかっ！\n\n# face %(unit_a)s \"normal\"\n@エロース\nデートを締めくくる\n甘い言葉を考える、\nなんてどうでしょう？\n\n# face %(unit_a)s \"smile\"\n# voice 4004 \"erosu_0005\"\n@エロース\nエロース、\nそういうの大好き～♪\n\n# textflame 0 0\n@\nニヤニヤと笑うエロースに\nロマンチックなひとことを\nせがまれる\n\n# textflame 1 1\n@エロース\n大丈夫♪\n合格するまで、何回だって\nチャンスを上げるから☆\n\n# voice 4004 \"erosu_0036\"\n@エロース\nエロースのハートが\nキュンキュンしちゃうの\nおねがいね～♪\n\n# textflame 0 0\n@\nエロースが満足する\nひとことを思いつくまで\n船上でずっと困らされた\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

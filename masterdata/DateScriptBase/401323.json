@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 401323,
+		"script": ";;小さい花火が好き 中\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_fireworks\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 4013 \"aphrodite_0022\"\n@アフロディーテ\nそうなのですか？\n\n@アフロディーテ\nわたしは断然、\nこうした大きな花火のほうを\n好ましく思うのですが…\n\n# eye %(unit_a)s \"close\"\n# voice 4013 \"aphrodite_0003\"\n@アフロディーテ\nけれど、そうですね…\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"normal\"\n@アフロディーテ\n手のひらにしまってしまえる\nささやかな美しさというのも\n趣があるのかもしれません\n\n# face %(unit_a)s \"smile\"\n# voice 4013 \"aphrodite_0004\"\n@アフロディーテ\n良ければ帰り道に\n花火を買って\n公園に寄りませんか？\n\n# textflame 0 0\n@\nふたりは小さく笑い合いながら\n夜天の大輪を背に帰路についた…\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

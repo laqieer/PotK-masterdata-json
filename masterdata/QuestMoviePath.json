@@ -1,0 +1,86 @@
+[
+	{
+		"ID": 1,
+		"ios_path": "ios/op_fix_800x450",
+		"android_path": "android/op_fix_360x640",
+		"title": "天上編オープニングムービー",
+		"windows_path": "windows/opmovie"
+	},
+	{
+		"ID": 2,
+		"ios_path": "ios/shortmovie_1_800x450",
+		"android_path": "android/shortmovie_1_360x640",
+		"title": "天上編プロローグムービー１",
+		"windows_path": "windows/Shortmovie_001"
+	},
+	{
+		"ID": 3,
+		"ios_path": "ios/shortmovie_3_800x450",
+		"android_path": "android/shortmovie_3_360x640",
+		"title": "天上編プロローグムービー２",
+		"windows_path": "windows/Shortmovie_003"
+	},
+	{
+		"ID": 4,
+		"ios_path": "ios/Shortmovie_004",
+		"android_path": "android/Shortmovie_004",
+		"title": "第２章　悪魔の子\n１話　エゼル村・教会付近1",
+		"windows_path": "windows/Shortmovie_004"
+	},
+	{
+		"ID": 5,
+		"ios_path": "ios/Shortmovie_005",
+		"android_path": "android/Shortmovie_005",
+		"title": "第３章　マスターの条件\n１話　ブラオ峠1",
+		"windows_path": "windows/Shortmovie_005"
+	},
+	{
+		"ID": 6,
+		"ios_path": "ios/Shortmovie_006",
+		"android_path": "android/Shortmovie_006",
+		"title": "第４章　星追い人\n１話　ベルメリオ村・教会付近1",
+		"windows_path": "windows/Shortmovie_006"
+	},
+	{
+		"ID": 7,
+		"ios_path": "ios/Shortmovie_007",
+		"android_path": "android/Shortmovie_007",
+		"title": "第５章　寡黙な番人\n１話　アルファマ村・郊外1",
+		"windows_path": "windows/Shortmovie_007"
+	},
+	{
+		"ID": 8,
+		"ios_path": "ios/earth_prologue_1",
+		"android_path": "android/earth_prologue_1",
+		"title": "地上編 prologue 1",
+		"windows_path": "windows/earth_prologue_1"
+	},
+	{
+		"ID": 9,
+		"ios_path": "ios/earth_prologue_2",
+		"android_path": "android/earth_prologue_2",
+		"title": "地上編 prologue 2",
+		"windows_path": "windows/earth_prologue_2"
+	},
+	{
+		"ID": 10,
+		"ios_path": "ios/earth_prologue_3",
+		"android_path": "android/earth_prologue_3",
+		"title": "地上編 prologue 3",
+		"windows_path": "windows/earth_prologue_3"
+	},
+	{
+		"ID": 11,
+		"ios_path": "ios/earth_prologue_4",
+		"android_path": "android/earth_prologue_4",
+		"title": "地上編 prologue 4",
+		"windows_path": "windows/earth_prologue_4"
+	},
+	{
+		"ID": 12,
+		"ios_path": "ios/op_fix_2_800x450",
+		"android_path": "android/op_fix_2_360x640",
+		"title": "ロストラグナロク編オープニングムービー",
+		"windows_path": "windows/opmovie_2"
+	}
+]

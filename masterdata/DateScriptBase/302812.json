@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 302812,
+		"script": ";;B,まあ、いいけど…(大あたり)\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_hauntedhouse\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# face %(unit_a)s \"sad\"\n# voice 3028 \"herena_a_0022\"\n# textflame 1 1\n@ヘレナ\nうん？なんだか不服そうだな\nヘレナとくっつくのは嫌か…？\n\n@ヘレナ\nそういうわけじゃない？\nふぅん。ならどうして…\n\n# face %(unit_a)s \"usual\"\n@ヘレナ\n（…あぁ、なるほど\nヘレナが暑いんじゃないかと\n心配しているのか）\n\n@ヘレナ\n（本当に先輩は…\nヘレナのことを\n大切にしてくれるんだな）\n\n# voice 3028 \"herena_a_0002\"\n@ヘレナ\n先輩…もしよかったら\nもっとくっついてもいいか？\nくふふ、ありがとう\n\n# face %(unit_a)s \"happy\"\n# voice 3028 \"herena_a_0005\"\n@ヘレナ\nうん？\nなんで嬉しそうなの、って？\nくふふっ…どうしてだろうな？\n\n;;モノローグ\n# textflame 0 0\n@\nにやにやするヘレナを\n不思議そうに眺めるマスター\n\n;;モノローグ\n# textflame 0 0\n@\nその後も二人で\n楽しい時間を過ごしたのだった\n\n;;-----------------------------------------\n# waitandnext 2\n# fadeout \"black\" 1.2\n"
+	}
+]

@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 95025299,
+		"script": ";;//正解\n# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# face %(unit_a)s \"happy\"\n# voice 5025 \"megumin_0004\"\n# se \"SE_0732\"\n@めぐみん\n正解です\n\n# face %(unit_a)s \"irregular\"\n# voice 5025 \"megumin_0005\"\n@めぐみん\nそうですか\nちゃんと知っていましたか\n\n@めぐみん\nし、心配など\nしていませんでしたよ！？\n本当ですから！\n\n;;モノローグ\n# textflame 0 0\n@\nそういって\nまんざらでもない\n微笑みを浮かべるめぐみん\n\n# voice 5025 \"megumin_0001\"\n# face %(unit_a)s \"normal\"\n# textflame 1 1\n@めぐみん\nどうしました？\n私の顔に何かついていますか？\n\n@めぐみん\nではなぜ、\nジロジロ見てくるのですか？\n\n\n@めぐみん\nほら、もう帰りましょう\n\n;;モノローグ\n# textflame 0 0\n@\n少し彼女との距離が\n縮まった気のする帰り道だった…\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

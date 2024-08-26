@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 93028298,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# se \"SE_0733\"\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n;;-----------------------------------------\n# voice 3028 \"herena_a_0028\"\n@ヘレナ\n…う～ん…\n\n@ヘレナ\n不正解\n\n@ヘレナ\nダメだな、先輩\n\n# voice 3028 \"herena_a_0022\"\n@ヘレナ\nえ？なに、なに？\n\n# textflame 0 0\n@\nと、また彼女がニールに耳を近づける\n\n# voice 3028 \"herena_a_0027\"\n# textflame 1 1\n@ヘレナ\nヘレナのことが全然わかってない\n\n@ヘレナ\nそんな先輩とは帰らなくていいって、\nニールが言ってるよ\n\n@ヘレナ\nそういうことだから、\n先に帰るね\n\n# alpha %(unit_a)s 0 0.5\n# textflame 0 0\n@\nと、背中を見せ、\n去ってゆく彼女\n\n@\nニールの言葉が本当か分からないが、\n彼女の悲しそうな瞳は真実だ\n\n@\nマスターは彼女を傷つけたことを\n深く後悔していた\n\n;;-----------------------------------------\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

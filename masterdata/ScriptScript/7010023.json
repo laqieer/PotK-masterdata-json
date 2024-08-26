@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 7010023,
+		"script": ";;-------------------------------------\n;;塔シナリオ　ミカエル　遭遇\n;;-------------------------------------\n# script \"lisp\"\n# body 960029\n# pos 960029 3\n# mask 960029 off\n;;◆背景はそのまま-----------------------------------------------\n# textflame 1 1\n# textboxarrow 0 2\n# voice 9972 \"michael_0004\"\n# chara 960029\n@ミカエル\n鎮まりなさい、民よ…\n\n# textflame 1 1\n# textboxarrow 0 2\n# chara 960029\n@ミカエル\n我は神々に仕えし、\n大天使ミカエル…\n\n# textflame 1 1\n# textboxarrow 0 2\n# chara 960029\n@ミカエル\nなにも恐れることはありません\n\n# textflame 1 1\n# textboxarrow 0 2\n# voice 9972 \"michael_0021\"\n# chara 960029\n@ミカエル\n…ほう\n\n# textflame 1 1\n# textboxarrow 0 2\n# chara 960029\n@ミカエル\nその瞳に宿すのは\n恭順ではなく反逆ですね\n\n# textflame 1 1\n# textboxarrow 0 2\n# voice 9972 \"michael_0027\"\n# chara 960029\n@ミカエル\n神々に抗おうなどという\nその良からぬ意志\n\n# textflame 1 1\n# textboxarrow 0 2\n# chara 960029\n@ミカエル\nあなたごと\n葬ってあげましょう\n\n# textflame 1 1\n# textboxarrow 0 2\n# voice 9972 \"michael_0005\"\n# chara 960029\n@ミカエル\nさぁ、今さら\nどこへ逃げようとしても無駄です\n\n# textflame 1 1\n# textboxarrow 0 2\n# chara 960029\n@ミカエル\nあなた達は\nすべて消え去る運命なのですから…！"
+	}
+]

@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 600621,
+		"script": ";;もっと見たい,中\n;;無言で近づく,大\n;;ちょっと泳ごう,小\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_onsen\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 0 0\n@\nマスターは夜になってから\nミストルティンを\n水着着用の温泉に誘った…\n\n# voice 6006 \"misutoru_0042\"\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@ミストルティン\nあっ…あの…\n水着は着用していますが…\nあまり…見ないで下さい…\n\n# textflame 1 1\n@ミストルティン\nああっ、で、でも…\nここ私達しかいませんね…\n;;----------------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私以外、見るもの\nありませんよね…\n\n# select \"もっと見たい\" \"select_label_01\" \"無言で近づく\" \"select_label_02\" \"ちょっと泳ごう\" \"select_label_03\"\n私以外、見るもの\nありませんよね…\n\n# label \"select_label_01\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_02\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_03\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# textflame 1 1\n# waitandnext 0.1\n\n# label \"select_label_end\"\n# waitandnext 2\n# fadeout \"black\" 1.2\n"
+	}
+]

@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 7010030,
+		"script": ";;-------------------------------------\n;;塔シナリオ　トライエル　遭遇\n;;-------------------------------------\n# script \"lisp\"\n;;-------------------------------------\n;;トライエル\n# body 960032\n# pos 960032 3\n# scale 960032 0.8 0\n# alpha 960032 1 0\n# mask 960032 off\n;;-------------------------------------\n# textwindow \"normal\"\n# textflame 1 1\n# textboxarrow 0 2\n@トライエル\n素晴らしい\n\n# textflame 1 1\n# textboxarrow 0 2\n@トライエル\n再び、\nここまでたどり着いたこと、\nまずは称賛しましょう\n\n# textflame 1 1\n# textboxarrow 0 2\n@トライエル\n人間という矮小な存在を\n軽視していたこと、\n認めなければなりません\n\n# textflame 1 1\n# textboxarrow 0 2\n@トライエル\nここからは\nアナタを同格として\n認識しましょう\n\n# textflame 1 1\n# textboxarrow 0 2\n@トライエル\n全身全霊をもって\nアナタを葬り去ります\n\n# textflame 1 1\n# textboxarrow 0 2\n@トライエル\nお互いにとって\nこれが最後の戦いとなるでしょう\n\n# textflame 1 1\n# textboxarrow 0 2\n@トライエル\n神の力の真髄をお見せします\nさあ、%(userName)s…\nアナタの旅も終焉です"
+	}
+]

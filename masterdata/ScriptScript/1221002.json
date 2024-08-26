@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 1221002,
+		"script": ";;■□■２－２改修案■□■\n;;【２－２－３（バトル前）】\n;;整形済み\n# script \"lisp\"\n# background \"ghost_town\"\n# bgm \"bgm005\" 0\n# body 24\n# pos 24 2\n# scale 24 0.8 0\n# alpha 24 1 0\n# body 0\n# pos 0 4\n# scale 0 0.8 0\n# alpha 0 1 0\n# textboxarrow 0 1\n# face 24 \"sad\"\n# voice 1014 \"tyrufing_0037\"\n@ティルフィング\nダメ…\nここにもいない…\n\n# textboxarrow 0 3\n# face 0 \"serious\"\n# voice 9999 \"durin_0049\"\n@デュリン\nこれで村の内部は\nすべて捜索したことになる…\nとなると…\n\n# textboxarrow 0 1\n@ティルフィング\nやっぱりトトは村の外に…"
+	}
+]

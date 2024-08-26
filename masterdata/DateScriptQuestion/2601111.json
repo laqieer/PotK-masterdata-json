@@ -1,0 +1,302 @@
+[
+	{
+		"ID": 3201,
+		"unitID": 2601111,
+		"questionID": 9601101,
+		"script": ";;フェンリル,1\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# voice 6011 \"vanargand_0001\"\n@ヴァナルガンド\nそうだマスターさん、\n少しお時間をもらっても\nいいですか～？\n\n# face %(unit_a)s \"normal\"\n@ヴァナルガンド\n少しだけ、\n試してみたいことがあるんです～\n\n@ヴァナルガンド\nマスターさんが\nわたしのことをどれだけ、\n理解できてるのかを、ですよ～？\n\n# face %(unit_a)s \"smile\"\n# voice 6011 \"vanargand_0036\"\n@ヴァナルガンド\nそれじゃあ、いきますよ～？\nちゃ～んと答えてくださいね～？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしのキラーズ\n『ヴァナルガンド』の別名は\nなんだかわかりますか～？\n\n# se \"SE_0734\"\n# select \"フェンリル\" \"select_label_1\" \"タイガー\" \"select_label_2\" \"ラビット\" \"select_label_3\"\nわたしのキラーズ\n『ヴァナルガンド』の別名は\nなんだかわかりますか～？\n"
+	},
+	{
+		"ID": 3202,
+		"unitID": 2601111,
+		"questionID": 9601102,
+		"script": ";;狼,2\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# voice 6011 \"vanargand_0001\"\n@ヴァナルガンド\nそうだマスターさん、\n少しお時間をもらっても\nいいですか～？\n\n# face %(unit_a)s \"normal\"\n@ヴァナルガンド\n少しだけ、\n試してみたいことがあるんです～\n\n@ヴァナルガンド\nマスターさんが\nわたしのことをどれだけ、\n理解できてるのかを、ですよ～？\n\n# face %(unit_a)s \"smile\"\n# voice 6011 \"vanargand_0036\"\n@ヴァナルガンド\nそれじゃあ、いきますよ～？\nちゃ～んと答えてくださいね～？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしのキラーズ\n『ヴァナルガンド』が杖ではなく\nどんな姿だったか知ってますか～？\n\n# se \"SE_0734\"\n# select \"猫\" \"select_label_1\" \"狼\" \"select_label_2\" \"猪\" \"select_label_3\"\nわたしのキラーズ\n『ヴァナルガンド』が杖ではなく\nどんな姿だったか知ってますか～？\n"
+	},
+	{
+		"ID": 3203,
+		"unitID": 2601111,
+		"questionID": 9601103,
+		"script": ";;破壊の杖,3\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# voice 6011 \"vanargand_0001\"\n@ヴァナルガンド\nそうだマスターさん、\n少しお時間をもらっても\nいいですか～？\n\n# face %(unit_a)s \"normal\"\n@ヴァナルガンド\n少しだけ、\n試してみたいことがあるんです～\n\n@ヴァナルガンド\nマスターさんが\nわたしのことをどれだけ、\n理解できてるのかを、ですよ～？\n\n# face %(unit_a)s \"smile\"\n# voice 6011 \"vanargand_0036\"\n@ヴァナルガンド\nそれじゃあ、いきますよ～？\nちゃ～んと答えてくださいね～？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしのキラーズ\n『ヴァナルガンド』は\nなんの杖と呼ばれていたでしょ～？\n\n# se \"SE_0734\"\n# select \"究極の杖\" \"select_label_1\" \"至高の杖\" \"select_label_2\" \"破壊の杖\" \"select_label_3\"\nわたしのキラーズ\n『ヴァナルガンド』は\nなんの杖と呼ばれていたでしょ～？\n"
+	},
+	{
+		"ID": 3204,
+		"unitID": 2601111,
+		"questionID": 9601104,
+		"script": ";;北欧神話,1\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# voice 6011 \"vanargand_0001\"\n@ヴァナルガンド\nそうだマスターさん、\n少しお時間をもらっても\nいいですか～？\n\n# face %(unit_a)s \"normal\"\n@ヴァナルガンド\n少しだけ、\n試してみたいことがあるんです～\n\n@ヴァナルガンド\nマスターさんが\nわたしのことをどれだけ、\n理解できてるのかを、ですよ～？\n\n# face %(unit_a)s \"smile\"\n# voice 6011 \"vanargand_0036\"\n@ヴァナルガンド\nそれじゃあ、いきますよ～？\nちゃ～んと答えてくださいね～？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしのキラーズ\n『ヴァナルガンド』がどの神話に\n出ていたかわかりますか～？\n\n# se \"SE_0734\"\n# select \"北欧神話\" \"select_label_1\" \"日本神話\" \"select_label_2\" \"ギリシャ神話\" \"select_label_3\"\nわたしのキラーズ\n『ヴァナルガンド』がどの神話に\n出ていたかわかりますか～？\n"
+	},
+	{
+		"ID": 3205,
+		"unitID": 2601111,
+		"questionID": 9601105,
+		"script": ";;神々に災いをもたらす,2\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# voice 6011 \"vanargand_0001\"\n@ヴァナルガンド\nそうだマスターさん、\n少しお時間をもらっても\nいいですか～？\n\n# face %(unit_a)s \"normal\"\n@ヴァナルガンド\n少しだけ、\n試してみたいことがあるんです～\n\n@ヴァナルガンド\nマスターさんが\nわたしのことをどれだけ、\n理解できてるのかを、ですよ～？\n\n# face %(unit_a)s \"smile\"\n# voice 6011 \"vanargand_0036\"\n@ヴァナルガンド\nそれじゃあ、いきますよ～？\nちゃ～んと答えてくださいね～？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしのキラーズ\n『ヴァナルガンド』はいったい\nなにをすると予言されてましたか～？\n\n# se \"SE_0734\"\n# select \"世界に繁栄をもたらす\" \"select_label_1\" \"神々に災いをもたらす\" \"select_label_2\" \"人々に力を与える\" \"select_label_3\"\nわたしのキラーズ\n『ヴァナルガンド』はいったい\nなにをすると予言されてましたか～？\n"
+	},
+	{
+		"ID": 3206,
+		"unitID": 2601111,
+		"questionID": 9601106,
+		"script": ";;神々,3\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# voice 6011 \"vanargand_0001\"\n@ヴァナルガンド\nそうだマスターさん、\n少しお時間をもらっても\nいいですか～？\n\n# face %(unit_a)s \"normal\"\n@ヴァナルガンド\n少しだけ、\n試してみたいことがあるんです～\n\n@ヴァナルガンド\nマスターさんが\nわたしのことをどれだけ、\n理解できてるのかを、ですよ～？\n\n# face %(unit_a)s \"smile\"\n# voice 6011 \"vanargand_0036\"\n@ヴァナルガンド\nそれじゃあ、いきますよ～？\nちゃ～んと答えてくださいね～？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしのキラーズ\n『ヴァナルガンド』を拘束しようと\n画策したのはどんな存在ですか～？\n\n# se \"SE_0734\"\n# select \"獣たち\" \"select_label_1\" \"人々\" \"select_label_2\" \"神々\" \"select_label_3\"\nわたしのキラーズ\n『ヴァナルガンド』を拘束しようと\n画策したのはどんな存在ですか～？\n"
+	},
+	{
+		"ID": 3207,
+		"unitID": 2601111,
+		"questionID": 9601107,
+		"script": ";;グレイプニル,1\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# voice 6011 \"vanargand_0001\"\n@ヴァナルガンド\nそうだマスターさん、\n少しお時間をもらっても\nいいですか～？\n\n# face %(unit_a)s \"normal\"\n@ヴァナルガンド\n少しだけ、\n試してみたいことがあるんです～\n\n@ヴァナルガンド\nマスターさんが\nわたしのことをどれだけ、\n理解できてるのかを、ですよ～？\n\n# face %(unit_a)s \"smile\"\n# voice 6011 \"vanargand_0036\"\n@ヴァナルガンド\nそれじゃあ、いきますよ～？\nちゃ～んと答えてくださいね～？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしのキラーズ\n『ヴァナルガンド』を拘束するために\n使われた物の名前はわかりますか～？\n\n# se \"SE_0734\"\n# select \"グレイプニル\" \"select_label_1\" \"ロープ\" \"select_label_2\" \"落とし穴\" \"select_label_3\"\nわたしのキラーズ\n『ヴァナルガンド』を拘束するために\n使われた物の名前はわかりますか～？\n"
+	},
+	{
+		"ID": 3208,
+		"unitID": 2601111,
+		"questionID": 9601108,
+		"script": ";;容易に引きちぎった,2\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# voice 6011 \"vanargand_0001\"\n@ヴァナルガンド\nそうだマスターさん、\n少しお時間をもらっても\nいいですか～？\n\n# face %(unit_a)s \"normal\"\n@ヴァナルガンド\n少しだけ、\n試してみたいことがあるんです～\n\n@ヴァナルガンド\nマスターさんが\nわたしのことをどれだけ、\n理解できてるのかを、ですよ～？\n\n# face %(unit_a)s \"smile\"\n# voice 6011 \"vanargand_0036\"\n@ヴァナルガンド\nそれじゃあ、いきますよ～？\nちゃ～んと答えてくださいね～？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしのキラーズ\n『ヴァナルガンド』は自分を\n拘束しようとした物を…\n\n# se \"SE_0734\"\n# select \"体をこすりつけた\" \"select_label_1\" \"容易に引きちぎった\" \"select_label_2\" \"踏みつぶした\" \"select_label_3\"\nわたしのキラーズ\n『ヴァナルガンド』は自分を\n拘束しようとした物を…\n"
+	},
+	{
+		"ID": 3209,
+		"unitID": 2601111,
+		"questionID": 9601109,
+		"script": ";;テュール,3\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# voice 6011 \"vanargand_0001\"\n@ヴァナルガンド\nそうだマスターさん、\n少しお時間をもらっても\nいいですか～？\n\n# face %(unit_a)s \"normal\"\n@ヴァナルガンド\n少しだけ、\n試してみたいことがあるんです～\n\n@ヴァナルガンド\nマスターさんが\nわたしのことをどれだけ、\n理解できてるのかを、ですよ～？\n\n# face %(unit_a)s \"smile\"\n# voice 6011 \"vanargand_0036\"\n@ヴァナルガンド\nそれじゃあ、いきますよ～？\nちゃ～んと答えてくださいね～？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしのキラーズ\n『ヴァナルガンド』に餌を与える\n勇気があったのは…\n\n# se \"SE_0734\"\n# select \"ヘル\" \"select_label_1\" \"オーディン\" \"select_label_2\" \"テュール\" \"select_label_3\"\nわたしのキラーズ\n『ヴァナルガンド』に餌を与える\n勇気があったのは…\n"
+	},
+	{
+		"ID": 3210,
+		"unitID": 2601111,
+		"questionID": 9601110,
+		"script": ";;普通の狼と違わなかった,1\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# voice 6011 \"vanargand_0001\"\n@ヴァナルガンド\nそうだマスターさん、\n少しお時間をもらっても\nいいですか～？\n\n# face %(unit_a)s \"normal\"\n@ヴァナルガンド\n少しだけ、\n試してみたいことがあるんです～\n\n@ヴァナルガンド\nマスターさんが\nわたしのことをどれだけ、\n理解できてるのかを、ですよ～？\n\n# face %(unit_a)s \"smile\"\n# voice 6011 \"vanargand_0036\"\n@ヴァナルガンド\nそれじゃあ、いきますよ～？\nちゃ～んと答えてくださいね～？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしのキラーズ\n『ヴァナルガンド』は始め\nどんな様子だったでしょうか～？\n\n# se \"SE_0734\"\n# select \"普通の狼と違わなかった\" \"select_label_1\" \"凶暴な狼であった\" \"select_label_2\" \"大人しい狼であった\" \"select_label_3\"\nわたしのキラーズ\n『ヴァナルガンド』は始め\nどんな様子だったでしょうか～？\n"
+	},
+	{
+		"ID": 3211,
+		"unitID": 2601111,
+		"questionID": 9601111,
+		"script": ";;風,1\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# voice 6011 \"vanargand_0001\"\n@ヴァナルガンド\nマスターさん\n少しいいですか～？\n\n# face %(unit_a)s \"usual\"\n@ヴァナルガンド\nいえ、たいしたことでは\nないんですけど～\n\n@ヴァナルガンド\nマスターさんはわたしのこと\nどれくらい知っていますか～？\n\n# face %(unit_a)s \"smile\"\n# voice 6011 \"vanargand_0003\"\n@ヴァナルガンド\nというわけで\n今からテストをしたいと思います～\n\n# face %(unit_a)s \"usual\"\n# voice 6011 \"vanargand_0036\"\n@ヴァナルガンド\n質問しますから、\n答えてってくださいね～？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしの属性は\nなんでしょうか～？\n\n# se \"SE_0734\"\n# select \"風\" \"select_label_1\" \"火\" \"select_label_2\" \"水\" \"select_label_3\"\nわたしの属性は\nなんでしょうか～？\n"
+	},
+	{
+		"ID": 3212,
+		"unitID": 2601111,
+		"questionID": 9601112,
+		"script": ";;8月30日,2\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# voice 6011 \"vanargand_0001\"\n@ヴァナルガンド\nマスターさん\n少しいいですか～？\n\n# face %(unit_a)s \"usual\"\n@ヴァナルガンド\nいえ、たいしたことでは\nないんですけど～\n\n@ヴァナルガンド\nマスターさんはわたしのこと\nどれくらい知っていますか～？\n\n# face %(unit_a)s \"smile\"\n# voice 6011 \"vanargand_0003\"\n@ヴァナルガンド\nというわけで\n今からテストをしたいと思います～\n\n# face %(unit_a)s \"usual\"\n# voice 6011 \"vanargand_0036\"\n@ヴァナルガンド\n質問しますから、\n答えてってくださいね～？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしの誕生日がいつか\nマスターさんはちゃんと\n覚えていますか～？\n\n# se \"SE_0734\"\n# select \"8月29日\" \"select_label_1\" \"8月30日\" \"select_label_2\" \"8月28日\" \"select_label_3\"\nわたしの誕生日がいつか\nマスターさんはちゃんと\n覚えていますか～？\n"
+	},
+	{
+		"ID": 3213,
+		"unitID": 2601111,
+		"questionID": 9601113,
+		"script": ";;おとめ座,3\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# voice 6011 \"vanargand_0001\"\n@ヴァナルガンド\nマスターさん\n少しいいですか～？\n\n# face %(unit_a)s \"usual\"\n@ヴァナルガンド\nいえ、たいしたことでは\nないんですけど～\n\n@ヴァナルガンド\nマスターさんはわたしのこと\nどれくらい知っていますか～？\n\n# face %(unit_a)s \"smile\"\n# voice 6011 \"vanargand_0003\"\n@ヴァナルガンド\nというわけで\n今からテストをしたいと思います～\n\n# face %(unit_a)s \"usual\"\n# voice 6011 \"vanargand_0036\"\n@ヴァナルガンド\n質問しますから、\n答えてってくださいね～？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしが何座か\nマスターさんは知っていますか～？\n\n# se \"SE_0734\"\n# select \"おうし座\" \"select_label_1\" \"みずがめ座\" \"select_label_2\" \"おとめ座\" \"select_label_3\"\nわたしが何座か\nマスターさんは知っていますか～？\n"
+	},
+	{
+		"ID": 3214,
+		"unitID": 2601111,
+		"questionID": 9601114,
+		"script": ";;O型,1\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# voice 6011 \"vanargand_0001\"\n@ヴァナルガンド\nマスターさん\n少しいいですか～？\n\n# face %(unit_a)s \"usual\"\n@ヴァナルガンド\nいえ、たいしたことでは\nないんですけど～\n\n@ヴァナルガンド\nマスターさんはわたしのこと\nどれくらい知っていますか～？\n\n# face %(unit_a)s \"smile\"\n# voice 6011 \"vanargand_0003\"\n@ヴァナルガンド\nというわけで\n今からテストをしたいと思います～\n\n# face %(unit_a)s \"usual\"\n# voice 6011 \"vanargand_0036\"\n@ヴァナルガンド\n質問しますから、\n答えてってくださいね～？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしの血液型が\n何型かわかりますか～？\n\n# se \"SE_0734\"\n# select \"O型\" \"select_label_1\" \"A型\" \"select_label_2\" \"B型\" \"select_label_3\"\nわたしの血液型が\n何型かわかりますか～？\n"
+	},
+	{
+		"ID": 3215,
+		"unitID": 2601111,
+		"questionID": 9601115,
+		"script": ";;イアールンヴィズ,2\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# voice 6011 \"vanargand_0001\"\n@ヴァナルガンド\nマスターさん\n少しいいですか～？\n\n# face %(unit_a)s \"usual\"\n@ヴァナルガンド\nいえ、たいしたことでは\nないんですけど～\n\n@ヴァナルガンド\nマスターさんはわたしのこと\nどれくらい知っていますか～？\n\n# face %(unit_a)s \"smile\"\n# voice 6011 \"vanargand_0003\"\n@ヴァナルガンド\nというわけで\n今からテストをしたいと思います～\n\n# face %(unit_a)s \"usual\"\n# voice 6011 \"vanargand_0036\"\n@ヴァナルガンド\n質問しますから、\n答えてってくださいね～？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしの出身地を\nマスターさんはご存知ですか～？\n\n# se \"SE_0734\"\n# select \"イラン\" \"select_label_1\" \"イアールンヴィズ\" \"select_label_2\" \"アスガルズ\" \"select_label_3\"\nわたしの出身地を\nマスターさんはご存知ですか～？\n"
+	},
+	{
+		"ID": 3216,
+		"unitID": 2601111,
+		"questionID": 9601116,
+		"script": ";;お肉の塊,3\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# voice 6011 \"vanargand_0001\"\n@ヴァナルガンド\nマスターさん\n少しいいですか～？\n\n# face %(unit_a)s \"usual\"\n@ヴァナルガンド\nいえ、たいしたことでは\nないんですけど～\n\n@ヴァナルガンド\nマスターさんはわたしのこと\nどれくらい知っていますか～？\n\n# face %(unit_a)s \"smile\"\n# voice 6011 \"vanargand_0003\"\n@ヴァナルガンド\nというわけで\n今からテストをしたいと思います～\n\n# face %(unit_a)s \"usual\"\n# voice 6011 \"vanargand_0036\"\n@ヴァナルガンド\n質問しますから、\n答えてってくださいね～？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nマスターさんは\nわたしの好きなものがなにか\nご存知ですか～？\n\n# se \"SE_0734\"\n# select \"野菜の山盛り\" \"select_label_1\" \"焼き魚\" \"select_label_2\" \"お肉の塊\" \"select_label_3\"\nマスターさんは\nわたしの好きなものがなにか\nご存知ですか～？\n"
+	},
+	{
+		"ID": 3217,
+		"unitID": 2601111,
+		"questionID": 9601117,
+		"script": ";;お昼寝,1\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# voice 6011 \"vanargand_0001\"\n@ヴァナルガンド\nマスターさん\n少しいいですか～？\n\n# face %(unit_a)s \"usual\"\n@ヴァナルガンド\nいえ、たいしたことでは\nないんですけど～\n\n@ヴァナルガンド\nマスターさんはわたしのこと\nどれくらい知っていますか～？\n\n# face %(unit_a)s \"smile\"\n# voice 6011 \"vanargand_0003\"\n@ヴァナルガンド\nというわけで\n今からテストをしたいと思います～\n\n# face %(unit_a)s \"usual\"\n# voice 6011 \"vanargand_0036\"\n@ヴァナルガンド\n質問しますから、\n答えてってくださいね～？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしの趣味がなにか\nマスターさんは知ってますか～？\n\n# se \"SE_0734\"\n# select \"お昼寝\" \"select_label_1\" \"鍛錬\" \"select_label_2\" \"情報収集\" \"select_label_3\"\nわたしの趣味がなにか\nマスターさんは知ってますか～？\n"
+	},
+	{
+		"ID": 3218,
+		"unitID": 2601111,
+		"questionID": 9601118,
+		"script": ";;おっとり姉さん,2\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# voice 6011 \"vanargand_0001\"\n@ヴァナルガンド\nマスターさん\n少しいいですか～？\n\n# face %(unit_a)s \"usual\"\n@ヴァナルガンド\nいえ、たいしたことでは\nないんですけど～\n\n@ヴァナルガンド\nマスターさんはわたしのこと\nどれくらい知っていますか～？\n\n# face %(unit_a)s \"smile\"\n# voice 6011 \"vanargand_0003\"\n@ヴァナルガンド\nというわけで\n今からテストをしたいと思います～\n\n# face %(unit_a)s \"usual\"\n# voice 6011 \"vanargand_0036\"\n@ヴァナルガンド\n質問しますから、\n答えてってくださいね～？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしの性格は\nどんな風だと言われますか～？\n\n# se \"SE_0734\"\n# select \"勝ち気で頼れる姉貴\" \"select_label_1\" \"おっとり姉さん\" \"select_label_2\" \"妖艶なお姉さん\" \"select_label_3\"\nわたしの性格は\nどんな風だと言われますか～？\n"
+	},
+	{
+		"ID": 3219,
+		"unitID": 2601111,
+		"questionID": 9601119,
+		"script": ";;集団行動,3\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# voice 6011 \"vanargand_0001\"\n@ヴァナルガンド\nマスターさん\n少しいいですか～？\n\n# face %(unit_a)s \"usual\"\n@ヴァナルガンド\nいえ、たいしたことでは\nないんですけど～\n\n@ヴァナルガンド\nマスターさんはわたしのこと\nどれくらい知っていますか～？\n\n# face %(unit_a)s \"smile\"\n# voice 6011 \"vanargand_0003\"\n@ヴァナルガンド\nというわけで\n今からテストをしたいと思います～\n\n# face %(unit_a)s \"usual\"\n# voice 6011 \"vanargand_0036\"\n@ヴァナルガンド\n質問しますから、\n答えてってくださいね～？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしがなにを大事にしているか\nマスターさんはちゃんと\nわかっていますか～？\n\n# se \"SE_0734\"\n# select \"早寝早起き\" \"select_label_1\" \"単独行動\" \"select_label_2\" \"集団行動\" \"select_label_3\"\nわたしがなにを大事にしているか\nマスターさんはちゃんと\nわかっていますか～？\n"
+	},
+	{
+		"ID": 3220,
+		"unitID": 2601111,
+		"questionID": 9601120,
+		"script": ";;お尻が大きいこと,1\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# voice 6011 \"vanargand_0001\"\n@ヴァナルガンド\nマスターさん\n少しいいですか～？\n\n# face %(unit_a)s \"usual\"\n@ヴァナルガンド\nいえ、たいしたことでは\nないんですけど～\n\n@ヴァナルガンド\nマスターさんはわたしのこと\nどれくらい知っていますか～？\n\n# face %(unit_a)s \"smile\"\n# voice 6011 \"vanargand_0003\"\n@ヴァナルガンド\nというわけで\n今からテストをしたいと思います～\n\n# face %(unit_a)s \"usual\"\n# voice 6011 \"vanargand_0036\"\n@ヴァナルガンド\n質問しますから、\n答えてってくださいね～？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしのコンプレックスは\nこれなんですよね…\n\n# se \"SE_0734\"\n# select \"お尻が大きいこと\" \"select_label_1\" \"髪が長いこと\" \"select_label_2\" \"足が遅いこと\" \"select_label_3\"\nわたしのコンプレックスは\nこれなんですよね…\n"
+	},
+	{
+		"ID": 3221,
+		"unitID": 2601111,
+		"questionID": 9601121,
+		"script": ";;シユウ,1\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 6011 \"vanargand_0001\"\n@ヴァナルガンド\nマスターさん…\n\n# face %(unit_a)s \"smile\"\n@ヴァナルガンド\n突然ですがここで、\n質問をしたいと思いま～す\n\n# voice 6011 \"vanargand_0003\"\n@ヴァナルガンド\nそんなに身構えないでいいですよ～？\n\n# face %(unit_a)s \"usual\"\n@ヴァナルガンド\n質問内容は、\nわたしのことについてですから、\nしっかりと答えてくださいね～？\n\n# voice 6011 \"vanargand_0036\"\n@ヴァナルガンド\nそれでは、\nいきますよ～？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nマスターさんは\nわたしと仲のいい子が\n誰か知っていますか～？\n\n# se \"SE_0734\"\n# select \"シユウ\" \"select_label_1\" \"レーヴァテイン\" \"select_label_2\" \"シェキナー\" \"select_label_3\"\nマスターさんは\nわたしと仲のいい子が\n誰か知っていますか～？\n"
+	},
+	{
+		"ID": 3222,
+		"unitID": 2601111,
+		"questionID": 9601122,
+		"script": ";;杖神,2\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 6011 \"vanargand_0001\"\n@ヴァナルガンド\nマスターさん…\n\n# face %(unit_a)s \"smile\"\n@ヴァナルガンド\n突然ですがここで、\n質問をしたいと思いま～す\n\n# voice 6011 \"vanargand_0003\"\n@ヴァナルガンド\nそんなに身構えないでいいですよ～？\n\n# face %(unit_a)s \"usual\"\n@ヴァナルガンド\n質問内容は、\nわたしのことについてですから、\nしっかりと答えてくださいね～？\n\n# voice 6011 \"vanargand_0036\"\n@ヴァナルガンド\nそれでは、\nいきますよ～？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしが☆６の時の\nジョブがなんなのか\nわかりますか～？\n\n# se \"SE_0734\"\n# select \"女神\" \"select_label_1\" \"杖神\" \"select_label_2\" \"大神\" \"select_label_3\"\nわたしが☆６の時の\nジョブがなんなのか\nわかりますか～？\n"
+	},
+	{
+		"ID": 3223,
+		"unitID": 2601111,
+		"questionID": 9601123,
+		"script": ";;ビショップ,3\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 6011 \"vanargand_0001\"\n@ヴァナルガンド\nマスターさん…\n\n# face %(unit_a)s \"smile\"\n@ヴァナルガンド\n突然ですがここで、\n質問をしたいと思いま～す\n\n# voice 6011 \"vanargand_0003\"\n@ヴァナルガンド\nそんなに身構えないでいいですよ～？\n\n# face %(unit_a)s \"usual\"\n@ヴァナルガンド\n質問内容は、\nわたしのことについてですから、\nしっかりと答えてくださいね～？\n\n# voice 6011 \"vanargand_0036\"\n@ヴァナルガンド\nそれでは、\nいきますよ～？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしが☆５の時の\nジョブがなにかわかりますか～？\n\n# se \"SE_0734\"\n# select \"アルケミスト\" \"select_label_1\" \"ウィザード\" \"select_label_2\" \"ビショップ\" \"select_label_3\"\nわたしが☆５の時の\nジョブがなにかわかりますか～？\n"
+	},
+	{
+		"ID": 3224,
+		"unitID": 2601111,
+		"questionID": 9601124,
+		"script": ";;グレシャスクロー,1\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 6011 \"vanargand_0001\"\n@ヴァナルガンド\nマスターさん…\n\n# face %(unit_a)s \"smile\"\n@ヴァナルガンド\n突然ですがここで、\n質問をしたいと思いま～す\n\n# voice 6011 \"vanargand_0003\"\n@ヴァナルガンド\nそんなに身構えないでいいですよ～？\n\n# face %(unit_a)s \"usual\"\n@ヴァナルガンド\n質問内容は、\nわたしのことについてですから、\nしっかりと答えてくださいね～？\n\n# voice 6011 \"vanargand_0036\"\n@ヴァナルガンド\nそれでは、\nいきますよ～？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしが☆６の時に\nどんなスキルを手に入れるか\n答えられますか～？\n\n# se \"SE_0734\"\n# select \"グレシャスクロー\" \"select_label_1\" \"レジェンドクロー\" \"select_label_2\" \"アドバンスクロー\" \"select_label_3\"\nわたしが☆６の時に\nどんなスキルを手に入れるか\n答えられますか～？\n"
+	},
+	{
+		"ID": 3225,
+		"unitID": 2601111,
+		"questionID": 9601125,
+		"script": ";;フェンリルクロー,2\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 6011 \"vanargand_0001\"\n@ヴァナルガンド\nマスターさん…\n\n# face %(unit_a)s \"smile\"\n@ヴァナルガンド\n突然ですがここで、\n質問をしたいと思いま～す\n\n# voice 6011 \"vanargand_0003\"\n@ヴァナルガンド\nそんなに身構えないでいいですよ～？\n\n# face %(unit_a)s \"usual\"\n@ヴァナルガンド\n質問内容は、\nわたしのことについてですから、\nしっかりと答えてくださいね～？\n\n# voice 6011 \"vanargand_0036\"\n@ヴァナルガンド\nそれでは、\nいきますよ～？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしが☆５の時に\nどんなスキルを手に入れるか\n答えられますか～？\n\n# se \"SE_0734\"\n# select \"ブラストクロー\" \"select_label_1\" \"フェンリルクロー\" \"select_label_2\" \"アヴェンジクロー\" \"select_label_3\"\nわたしが☆５の時に\nどんなスキルを手に入れるか\n答えられますか～？\n"
+	},
+	{
+		"ID": 3226,
+		"unitID": 2601111,
+		"questionID": 9601126,
+		"script": ";;プリースト,3\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 6011 \"vanargand_0001\"\n@ヴァナルガンド\nマスターさん…\n\n# face %(unit_a)s \"smile\"\n@ヴァナルガンド\n突然ですがここで、\n質問をしたいと思いま～す\n\n# voice 6011 \"vanargand_0003\"\n@ヴァナルガンド\nそんなに身構えないでいいですよ～？\n\n# face %(unit_a)s \"usual\"\n@ヴァナルガンド\n質問内容は、\nわたしのことについてですから、\nしっかりと答えてくださいね～？\n\n# voice 6011 \"vanargand_0036\"\n@ヴァナルガンド\nそれでは、\nいきますよ～？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしの☆４の時のジョブを\nマスターさんは覚えていますか～？\n\n# se \"SE_0734\"\n# select \"魔術師\" \"select_label_1\" \"魔法使い\" \"select_label_2\" \"プリースト\" \"select_label_3\"\nわたしの☆４の時のジョブを\nマスターさんは覚えていますか～？\n"
+	},
+	{
+		"ID": 3227,
+		"unitID": 2601111,
+		"questionID": 9601127,
+		"script": ";;杖神の聖風,1\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 6011 \"vanargand_0001\"\n@ヴァナルガンド\nマスターさん…\n\n# face %(unit_a)s \"smile\"\n@ヴァナルガンド\n突然ですがここで、\n質問をしたいと思いま～す\n\n# voice 6011 \"vanargand_0003\"\n@ヴァナルガンド\nそんなに身構えないでいいですよ～？\n\n# face %(unit_a)s \"usual\"\n@ヴァナルガンド\n質問内容は、\nわたしのことについてですから、\nしっかりと答えてくださいね～？\n\n# voice 6011 \"vanargand_0036\"\n@ヴァナルガンド\nそれでは、\nいきますよ～？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nマスターさんは\nわたしが☆６の時の\nリーダースキル覚えてますか～？\n\n# se \"SE_0734\"\n# select \"杖神の聖風\" \"select_label_1\" \"杖神の烈風\" \"select_label_2\" \"杖神の神風\" \"select_label_3\"\nマスターさんは\nわたしが☆６の時の\nリーダースキル覚えてますか～？\n"
+	},
+	{
+		"ID": 3228,
+		"unitID": 2601111,
+		"questionID": 9601128,
+		"script": ";;司祭の聖風,2\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 6011 \"vanargand_0001\"\n@ヴァナルガンド\nマスターさん…\n\n# face %(unit_a)s \"smile\"\n@ヴァナルガンド\n突然ですがここで、\n質問をしたいと思いま～す\n\n# voice 6011 \"vanargand_0003\"\n@ヴァナルガンド\nそんなに身構えないでいいですよ～？\n\n# face %(unit_a)s \"usual\"\n@ヴァナルガンド\n質問内容は、\nわたしのことについてですから、\nしっかりと答えてくださいね～？\n\n# voice 6011 \"vanargand_0036\"\n@ヴァナルガンド\nそれでは、\nいきますよ～？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nマスターさんは\nわたしが☆５の時の\nリーダースキル覚えてます～？\n\n# se \"SE_0734\"\n# select \"司祭の暴風\" \"select_label_1\" \"司祭の聖風\" \"select_label_2\" \"司祭の疾風\" \"select_label_3\"\nマスターさんは\nわたしが☆５の時の\nリーダースキル覚えてます～？\n"
+	},
+	{
+		"ID": 3229,
+		"unitID": 2601111,
+		"questionID": 9601129,
+		"script": ";;魔弾や打撃を放つ,3\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 6011 \"vanargand_0001\"\n@ヴァナルガンド\nマスターさん…\n\n# face %(unit_a)s \"smile\"\n@ヴァナルガンド\n突然ですがここで、\n質問をしたいと思いま～す\n\n# voice 6011 \"vanargand_0003\"\n@ヴァナルガンド\nそんなに身構えないでいいですよ～？\n\n# face %(unit_a)s \"usual\"\n@ヴァナルガンド\n質問内容は、\nわたしのことについてですから、\nしっかりと答えてくださいね～？\n\n# voice 6011 \"vanargand_0036\"\n@ヴァナルガンド\nそれでは、\nいきますよ～？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nマスターさんは\nわたしがどんな戦い方をするか\nちゃんと覚えてますか～？\n\n# se \"SE_0734\"\n# select \"爪でひっかく\" \"select_label_1\" \"杖で敵を殴る\" \"select_label_2\" \"魔弾や打撃を放つ\" \"select_label_3\"\nマスターさんは\nわたしがどんな戦い方をするか\nちゃんと覚えてますか～？\n"
+	},
+	{
+		"ID": 3230,
+		"unitID": 2601111,
+		"questionID": 9601130,
+		"script": ";;レーヴァテイン,1\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 6011 \"vanargand_0001\"\n@ヴァナルガンド\nマスターさん…\n\n# face %(unit_a)s \"smile\"\n@ヴァナルガンド\n突然ですがここで、\n質問をしたいと思いま～す\n\n# voice 6011 \"vanargand_0003\"\n@ヴァナルガンド\nそんなに身構えないでいいですよ～？\n\n# face %(unit_a)s \"usual\"\n@ヴァナルガンド\n質問内容は、\nわたしのことについてですから、\nしっかりと答えてくださいね～？\n\n# voice 6011 \"vanargand_0036\"\n@ヴァナルガンド\nそれでは、\nいきますよ～？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたし、集団行動を軽視している\nこの人にイライラ～って\nしちゃうことがあるんです\n\n# se \"SE_0734\"\n# select \"レーヴァテイン\" \"select_label_1\" \"アフロディーテ\" \"select_label_2\" \"シユウ\" \"select_label_3\"\nわたし、集団行動を軽視している\nこの人にイライラ～って\nしちゃうことがあるんです\n"
+	},
+	{
+		"ID": 3231,
+		"unitID": 2601111,
+		"questionID": 9601131,
+		"script": ";;杖,1\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 6011 \"vanargand_0001\"\n@ヴァナルガンド\nマスターさん、マスターさん…\n\n@ヴァナルガンド\nあの、今から少しだけ、\nお時間いいですか～？\n\n# face %(unit_a)s \"smile\"\n@ヴァナルガンド\nちょっと気になったので、\nここで確認させてほしいんですけど～\n\n# face %(unit_a)s \"usual\"\n# voice 6011 \"vanargand_0003\"\n@ヴァナルガンド\nわたしのことを、\nマスターさんがどれだけ知ってるか～\n\n# voice 6011 \"vanargand_0036\"\n@ヴァナルガンド\nそれを確認するために、\n今から質問させていただきますね～？\nいきますよ～？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしの武具種って\nなんだかわかりますか～？\n\n# se \"SE_0734\"\n# select \"杖\" \"select_label_1\" \"剣\" \"select_label_2\" \"弓\" \"select_label_3\"\nわたしの武具種って\nなんだかわかりますか～？\n"
+	},
+	{
+		"ID": 3232,
+		"unitID": 2601111,
+		"questionID": 9601132,
+		"script": ";;ミストルティン,2\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 6011 \"vanargand_0001\"\n@ヴァナルガンド\nマスターさん、マスターさん…\n\n@ヴァナルガンド\nあの、今から少しだけ、\nお時間いいですか～？\n\n# face %(unit_a)s \"smile\"\n@ヴァナルガンド\nちょっと気になったので、\nここで確認させてほしいんですけど～\n\n# face %(unit_a)s \"usual\"\n# voice 6011 \"vanargand_0003\"\n@ヴァナルガンド\nわたしのことを、\nマスターさんがどれだけ知ってるか～\n\n# voice 6011 \"vanargand_0036\"\n@ヴァナルガンド\nそれを確認するために、\n今から質問させていただきますね～？\nいきますよ～？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしの誕生日と\n同じ月に生まれたのは誰か\n当ててみてくださ～い\n\n# se \"SE_0734\"\n# select \"ダグダ\" \"select_label_1\" \"ミストルティン\" \"select_label_2\" \"セファー\" \"select_label_3\"\nわたしの誕生日と\n同じ月に生まれたのは誰か\n当ててみてくださ～い\n"
+	},
+	{
+		"ID": 3233,
+		"unitID": 2601111,
+		"questionID": 9601133,
+		"script": ";;ペルーン,3\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 6011 \"vanargand_0001\"\n@ヴァナルガンド\nマスターさん、マスターさん…\n\n@ヴァナルガンド\nあの、今から少しだけ、\nお時間いいですか～？\n\n# face %(unit_a)s \"smile\"\n@ヴァナルガンド\nちょっと気になったので、\nここで確認させてほしいんですけど～\n\n# face %(unit_a)s \"usual\"\n# voice 6011 \"vanargand_0003\"\n@ヴァナルガンド\nわたしのことを、\nマスターさんがどれだけ知ってるか～\n\n# voice 6011 \"vanargand_0036\"\n@ヴァナルガンド\nそれを確認するために、\n今から質問させていただきますね～？\nいきますよ～？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nこの中で\nわたしと同じおとめ座の人は\n誰でしょうか～？\n\n# se \"SE_0734\"\n# select \"バルムンク\" \"select_label_1\" \"ワズラ\" \"select_label_2\" \"ペルーン\" \"select_label_3\"\nこの中で\nわたしと同じおとめ座の人は\n誰でしょうか～？\n"
+	},
+	{
+		"ID": 3234,
+		"unitID": 2601111,
+		"questionID": 9601134,
+		"script": ";;過去の記憶から,1\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 6011 \"vanargand_0001\"\n@ヴァナルガンド\nマスターさん、マスターさん…\n\n@ヴァナルガンド\nあの、今から少しだけ、\nお時間いいですか～？\n\n# face %(unit_a)s \"smile\"\n@ヴァナルガンド\nちょっと気になったので、\nここで確認させてほしいんですけど～\n\n# face %(unit_a)s \"usual\"\n# voice 6011 \"vanargand_0003\"\n@ヴァナルガンド\nわたしのことを、\nマスターさんがどれだけ知ってるか～\n\n# voice 6011 \"vanargand_0036\"\n@ヴァナルガンド\nそれを確認するために、\n今から質問させていただきますね～？\nいきますよ～？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしが集団行動を\n大事にしているのは\nどういう理由からだと思います～？\n\n# se \"SE_0734\"\n# select \"過去の記憶から\" \"select_label_1\" \"一人は寂しいから\" \"select_label_2\" \"みんなと仲良くしたいから\" \"select_label_3\"\nわたしが集団行動を\n大事にしているのは\nどういう理由からだと思います～？\n"
+	},
+	{
+		"ID": 3235,
+		"unitID": 2601111,
+		"questionID": 9601135,
+		"script": ";;単独行動するから,2\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 6011 \"vanargand_0001\"\n@ヴァナルガンド\nマスターさん、マスターさん…\n\n@ヴァナルガンド\nあの、今から少しだけ、\nお時間いいですか～？\n\n# face %(unit_a)s \"smile\"\n@ヴァナルガンド\nちょっと気になったので、\nここで確認させてほしいんですけど～\n\n# face %(unit_a)s \"usual\"\n# voice 6011 \"vanargand_0003\"\n@ヴァナルガンド\nわたしのことを、\nマスターさんがどれだけ知ってるか～\n\n# voice 6011 \"vanargand_0036\"\n@ヴァナルガンド\nそれを確認するために、\n今から質問させていただきますね～？\nいきますよ～？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしがレーヴァテインさんと\n仲が良くない理由は\nなんだかわかりますか～？\n\n# se \"SE_0734\"\n# select \"やる気がないから\" \"select_label_1\" \"単独行動するから\" \"select_label_2\" \"冷たいから\" \"select_label_3\"\nわたしがレーヴァテインさんと\n仲が良くない理由は\nなんだかわかりますか～？\n"
+	},
+	{
+		"ID": 3236,
+		"unitID": 2601111,
+		"questionID": 9601136,
+		"script": ";;寝癖,3\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 6011 \"vanargand_0001\"\n@ヴァナルガンド\nマスターさん、マスターさん…\n\n@ヴァナルガンド\nあの、今から少しだけ、\nお時間いいですか～？\n\n# face %(unit_a)s \"smile\"\n@ヴァナルガンド\nちょっと気になったので、\nここで確認させてほしいんですけど～\n\n# face %(unit_a)s \"usual\"\n# voice 6011 \"vanargand_0003\"\n@ヴァナルガンド\nわたしのことを、\nマスターさんがどれだけ知ってるか～\n\n# voice 6011 \"vanargand_0036\"\n@ヴァナルガンド\nそれを確認するために、\n今から質問させていただきますね～？\nいきますよ～？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしの頭にある\n獣耳みたいな物は\nいったいなんでしょうか～？\n\n# se \"SE_0734\"\n# select \"触覚\" \"select_label_1\" \"耳\" \"select_label_2\" \"寝癖\" \"select_label_3\"\nわたしの頭にある\n獣耳みたいな物は\nいったいなんでしょうか～？\n"
+	},
+	{
+		"ID": 3237,
+		"unitID": 2601111,
+		"questionID": 9601137,
+		"script": ";;お菓子や絆創膏など,1\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 6011 \"vanargand_0001\"\n@ヴァナルガンド\nマスターさん、マスターさん…\n\n@ヴァナルガンド\nあの、今から少しだけ、\nお時間いいですか～？\n\n# face %(unit_a)s \"smile\"\n@ヴァナルガンド\nちょっと気になったので、\nここで確認させてほしいんですけど～\n\n# face %(unit_a)s \"usual\"\n# voice 6011 \"vanargand_0003\"\n@ヴァナルガンド\nわたしのことを、\nマスターさんがどれだけ知ってるか～\n\n# voice 6011 \"vanargand_0036\"\n@ヴァナルガンド\nそれを確認するために、\n今から質問させていただきますね～？\nいきますよ～？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしの髪の毛の中にはいつも\nなにが入ってるでしょうか～？\n\n# se \"SE_0734\"\n# select \"お菓子や絆創膏など\" \"select_label_1\" \"剣や盾など\" \"select_label_2\" \"お金\" \"select_label_3\"\nわたしの髪の毛の中にはいつも\nなにが入ってるでしょうか～？\n"
+	},
+	{
+		"ID": 3238,
+		"unitID": 2601111,
+		"questionID": 9601138,
+		"script": ";;月夜に遠吠え,2\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 6011 \"vanargand_0001\"\n@ヴァナルガンド\nマスターさん、マスターさん…\n\n@ヴァナルガンド\nあの、今から少しだけ、\nお時間いいですか～？\n\n# face %(unit_a)s \"smile\"\n@ヴァナルガンド\nちょっと気になったので、\nここで確認させてほしいんですけど～\n\n# face %(unit_a)s \"usual\"\n# voice 6011 \"vanargand_0003\"\n@ヴァナルガンド\nわたしのことを、\nマスターさんがどれだけ知ってるか～\n\n# voice 6011 \"vanargand_0036\"\n@ヴァナルガンド\nそれを確認するために、\n今から質問させていただきますね～？\nいきますよ～？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしがたまに\nどうしてもしたくなることって\nマスターさんはご存知ですか～？\n\n# se \"SE_0734\"\n# select \"野原を駆けまわる\" \"select_label_1\" \"月夜に遠吠え\" \"select_label_2\" \"木登りしたくなる\" \"select_label_3\"\nわたしがたまに\nどうしてもしたくなることって\nマスターさんはご存知ですか～？\n"
+	},
+	{
+		"ID": 3239,
+		"unitID": 2601111,
+		"questionID": 9601139,
+		"script": ";;がうがう,3\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 6011 \"vanargand_0001\"\n@ヴァナルガンド\nマスターさん、マスターさん…\n\n@ヴァナルガンド\nあの、今から少しだけ、\nお時間いいですか～？\n\n# face %(unit_a)s \"smile\"\n@ヴァナルガンド\nちょっと気になったので、\nここで確認させてほしいんですけど～\n\n# face %(unit_a)s \"usual\"\n# voice 6011 \"vanargand_0003\"\n@ヴァナルガンド\nわたしのことを、\nマスターさんがどれだけ知ってるか～\n\n# voice 6011 \"vanargand_0036\"\n@ヴァナルガンド\nそれを確認するために、\n今から質問させていただきますね～？\nいきますよ～？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしがテンション高かったり\nお肉食べたりする時は\n語尾がどうなるか覚えてますか～？\n\n# se \"SE_0734\"\n# select \"にゃんにゃん\" \"select_label_1\" \"わんわん\" \"select_label_2\" \"がうがう\" \"select_label_3\"\nわたしがテンション高かったり\nお肉食べたりする時は\n語尾がどうなるか覚えてますか～？\n"
+	},
+	{
+		"ID": 3240,
+		"unitID": 2601111,
+		"questionID": 9601140,
+		"script": ";;看護師,1\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 6011 \"vanargand_0001\"\n@ヴァナルガンド\nマスターさん、マスターさん…\n\n@ヴァナルガンド\nあの、今から少しだけ、\nお時間いいですか～？\n\n# face %(unit_a)s \"smile\"\n@ヴァナルガンド\nちょっと気になったので、\nここで確認させてほしいんですけど～\n\n# face %(unit_a)s \"usual\"\n# voice 6011 \"vanargand_0003\"\n@ヴァナルガンド\nわたしのことを、\nマスターさんがどれだけ知ってるか～\n\n# voice 6011 \"vanargand_0036\"\n@ヴァナルガンド\nそれを確認するために、\n今から質問させていただきますね～？\nいきますよ～？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたし、昔はこういうことを\nしていたそうなんです…\nおぼろげなのですが…\n\n# se \"SE_0734\"\n# select \"看護師\" \"select_label_1\" \"レースクイーン\" \"select_label_2\" \"保育士\" \"select_label_3\"\nわたし、昔はこういうことを\nしていたそうなんです…\nおぼろげなのですが…\n"
+	},
+	{
+		"ID": 3241,
+		"unitID": 2601111,
+		"questionID": 9601141,
+		"script": "\n;;わたし,1\n# se \"SE_0734\"\n# select \"わたし\" \"select_label_1\" \"ワタシ\" \"select_label_2\" \"ボク\" \"select_label_3\"\nヴァナルガンドの一人称は\n次のうちどれ？\n"
+	},
+	{
+		"ID": 3242,
+		"unitID": 2601111,
+		"questionID": 9601142,
+		"script": "\n;;マスターさん,2\n# se \"SE_0734\"\n# select \"ご主人様\" \"select_label_1\" \"マスターさん\" \"select_label_2\" \"マスター\" \"select_label_3\"\nヴァナルガンドはアンタのこと、\nなんて呼んでる？\n"
+	},
+	{
+		"ID": 3243,
+		"unitID": 2601111,
+		"questionID": 9601143,
+		"script": "\n;;110,3\n# se \"SE_0734\"\n# select \"96\" \"select_label_1\" \"102\" \"select_label_2\" \"110\" \"select_label_3\"\nヴァナルガンドの\nバストサイズがどのくらいか\nアンタ…知ってるの？\n"
+	},
+	{
+		"ID": 3244,
+		"unitID": 2601111,
+		"questionID": 9601144,
+		"script": "\n;;秘密,1\n# se \"SE_0734\"\n# select \"秘密\" \"select_label_1\" \"67\" \"select_label_2\" \"73\" \"select_label_3\"\nヴァナルガンドの\nウエストサイズがどのくらいか\nアンタ…知ってるの？\n"
+	},
+	{
+		"ID": 3245,
+		"unitID": 2601111,
+		"questionID": 9601145,
+		"script": "\n;;秘密,2\n# se \"SE_0734\"\n# select \"96\" \"select_label_1\" \"秘密\" \"select_label_2\" \"102\" \"select_label_3\"\nヴァナルガンドの\nヒップサイズがどのくらいか\nアンタ…知ってるの？\n"
+	},
+	{
+		"ID": 3246,
+		"unitID": 2601111,
+		"questionID": 9601146,
+		"script": "\n;;秘密,3\n# se \"SE_0734\"\n# select \"65\" \"select_label_1\" \"71\" \"select_label_2\" \"秘密\" \"select_label_3\"\nヴァナルガンドの体重は\n次のうちどれ？\n"
+	},
+	{
+		"ID": 3247,
+		"unitID": 2601111,
+		"questionID": 9601147,
+		"script": "\n;;秘密,1\n# se \"SE_0734\"\n# select \"秘密\" \"select_label_1\" \"259\" \"select_label_2\" \"277\" \"select_label_3\"\nヴァナルガンドの\nバスト＋ウエスト＋ヒップは\nいくつかわかる？\n"
+	},
+	{
+		"ID": 3248,
+		"unitID": 2601111,
+		"questionID": 9601148,
+		"script": "\n;;白,2\n# se \"SE_0734\"\n# select \"黒\" \"select_label_1\" \"白\" \"select_label_2\" \"青\" \"select_label_3\"\nヴァナルガンドの水着の色は\n次のうちどれ？\n"
+	},
+	{
+		"ID": 3249,
+		"unitID": 2601111,
+		"questionID": 9601149,
+		"script": "\n;;16位,3\n# se \"SE_0734\"\n# select \"20位\" \"select_label_1\" \"23位\" \"select_label_2\" \"16位\" \"select_label_3\"\nヴァナルガンドは\n第２回人気投票で\n何位だったでしょう？\n"
+	},
+	{
+		"ID": 3250,
+		"unitID": 2601111,
+		"questionID": 9601150,
+		"script": "\n;;山本希望,1\n# se \"SE_0734\"\n# select \"山本希望\" \"select_label_1\" \"佐倉綾音\" \"select_label_2\" \"後藤沙緒里\" \"select_label_3\"\nヴァナルガンドの声優は誰？\n"
+	}
+]

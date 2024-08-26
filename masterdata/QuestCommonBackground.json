@@ -1,0 +1,2730 @@
+[
+	{
+		"ID": 1,
+		"name": "1",
+		"background_name": "flower_garden",
+		"offset_x": 0.0,
+		"offset_y": -164.0,
+		"scale": 1.100000023841858
+	},
+	{
+		"ID": 2,
+		"name": "2",
+		"background_name": "plain",
+		"offset_x": 63.0,
+		"offset_y": -164.0,
+		"scale": 1.100000023841858
+	},
+	{
+		"ID": 3,
+		"name": "3",
+		"background_name": "highland",
+		"offset_x": -76.0,
+		"offset_y": -168.0,
+		"scale": 1.0
+	},
+	{
+		"ID": 4,
+		"name": "4",
+		"background_name": "foot_mountain_village",
+		"offset_x": 0.0,
+		"offset_y": 0.0,
+		"scale": 1.0
+	},
+	{
+		"ID": 5,
+		"name": "5",
+		"background_name": "town",
+		"offset_x": 0.0,
+		"offset_y": 0.0,
+		"scale": 1.0
+	},
+	{
+		"ID": 6,
+		"name": "6",
+		"background_name": "flower_garden_evening",
+		"offset_x": 0.0,
+		"offset_y": 0.0,
+		"scale": 1.0
+	},
+	{
+		"ID": 7,
+		"name": "7",
+		"background_name": "plain_evening",
+		"offset_x": 0.0,
+		"offset_y": 0.0,
+		"scale": 1.0
+	},
+	{
+		"ID": 8,
+		"name": "8",
+		"background_name": "highland_evening",
+		"offset_x": 0.0,
+		"offset_y": 0.0,
+		"scale": 1.0
+	},
+	{
+		"ID": 9,
+		"name": "9",
+		"background_name": "foot_mountain_village_evening",
+		"offset_x": 0.0,
+		"offset_y": 0.0,
+		"scale": 1.0
+	},
+	{
+		"ID": 10,
+		"name": "10",
+		"background_name": "town_evening",
+		"offset_x": 0.0,
+		"offset_y": 0.0,
+		"scale": 1.0
+	},
+	{
+		"ID": 11,
+		"name": "11",
+		"background_name": "ghost_town",
+		"offset_x": 0.0,
+		"offset_y": 0.0,
+		"scale": 1.0
+	},
+	{
+		"ID": 12,
+		"name": "12",
+		"background_name": "ghost_town2",
+		"offset_x": 0.0,
+		"offset_y": 0.0,
+		"scale": 1.0
+	},
+	{
+		"ID": 13,
+		"name": "13",
+		"background_name": "valley",
+		"offset_x": 0.0,
+		"offset_y": 0.0,
+		"scale": 1.0
+	},
+	{
+		"ID": 14,
+		"name": "14",
+		"background_name": "forest",
+		"offset_x": 0.0,
+		"offset_y": 0.0,
+		"scale": 1.0
+	},
+	{
+		"ID": 15,
+		"name": "15",
+		"background_name": "tree_cavern",
+		"offset_x": 0.0,
+		"offset_y": 0.0,
+		"scale": 1.0
+	},
+	{
+		"ID": 16,
+		"name": "16",
+		"background_name": "ghost_town_evening",
+		"offset_x": 0.0,
+		"offset_y": 0.0,
+		"scale": 1.0
+	},
+	{
+		"ID": 17,
+		"name": "17",
+		"background_name": "ghost_town2_evening",
+		"offset_x": 0.0,
+		"offset_y": 0.0,
+		"scale": 1.0
+	},
+	{
+		"ID": 18,
+		"name": "18",
+		"background_name": "valley_evening",
+		"offset_x": 0.0,
+		"offset_y": 0.0,
+		"scale": 1.0
+	},
+	{
+		"ID": 19,
+		"name": "19",
+		"background_name": "forest_evening",
+		"offset_x": 0.0,
+		"offset_y": 0.0,
+		"scale": 1.0
+	},
+	{
+		"ID": 20,
+		"name": "20",
+		"background_name": "tree_cavern_evening",
+		"offset_x": 0.0,
+		"offset_y": 0.0,
+		"scale": 1.0
+	},
+	{
+		"ID": 21,
+		"name": "21",
+		"background_name": "wild",
+		"offset_x": 0.0,
+		"offset_y": 0.0,
+		"scale": 1.0
+	},
+	{
+		"ID": 22,
+		"name": "22",
+		"background_name": "desert_hill",
+		"offset_x": -16.0,
+		"offset_y": -202.0,
+		"scale": 1.100000023841858
+	},
+	{
+		"ID": 23,
+		"name": "23",
+		"background_name": "mountain",
+		"offset_x": 0.0,
+		"offset_y": 0.0,
+		"scale": 1.0
+	},
+	{
+		"ID": 24,
+		"name": "24",
+		"background_name": "antiquity",
+		"offset_x": 0.0,
+		"offset_y": 0.0,
+		"scale": 1.0
+	},
+	{
+		"ID": 25,
+		"name": "25",
+		"background_name": "bog",
+		"offset_x": 0.0,
+		"offset_y": 0.0,
+		"scale": 1.0
+	},
+	{
+		"ID": 26,
+		"name": "26",
+		"background_name": "wild_evening",
+		"offset_x": 0.0,
+		"offset_y": 0.0,
+		"scale": 1.0
+	},
+	{
+		"ID": 27,
+		"name": "27",
+		"background_name": "desert_hill_evening",
+		"offset_x": 0.0,
+		"offset_y": 0.0,
+		"scale": 1.0
+	},
+	{
+		"ID": 28,
+		"name": "28",
+		"background_name": "mountain_evening",
+		"offset_x": 0.0,
+		"offset_y": 0.0,
+		"scale": 1.0
+	},
+	{
+		"ID": 29,
+		"name": "29",
+		"background_name": "antiquity_evening",
+		"offset_x": 0.0,
+		"offset_y": 0.0,
+		"scale": 1.0
+	},
+	{
+		"ID": 30,
+		"name": "30",
+		"background_name": "bog_evening",
+		"offset_x": 0.0,
+		"offset_y": 0.0,
+		"scale": 1.0
+	},
+	{
+		"ID": 31,
+		"name": "31",
+		"background_name": "004_outland",
+		"offset_x": 0.0,
+		"offset_y": 0.0,
+		"scale": 1.0
+	},
+	{
+		"ID": 32,
+		"name": "32",
+		"background_name": "004_outland",
+		"offset_x": 0.0,
+		"offset_y": 0.0,
+		"scale": 1.0
+	},
+	{
+		"ID": 33,
+		"name": "33",
+		"background_name": "004_wildland",
+		"offset_x": 0.0,
+		"offset_y": 0.0,
+		"scale": 1.0
+	},
+	{
+		"ID": 34,
+		"name": "34",
+		"background_name": "004_observatory",
+		"offset_x": 0.0,
+		"offset_y": 0.0,
+		"scale": 1.0
+	},
+	{
+		"ID": 35,
+		"name": "35",
+		"background_name": "004_observatory",
+		"offset_x": 0.0,
+		"offset_y": 0.0,
+		"scale": 1.0
+	},
+	{
+		"ID": 36,
+		"name": "36",
+		"background_name": "004_outland_enening",
+		"offset_x": 0.0,
+		"offset_y": 0.0,
+		"scale": 1.0
+	},
+	{
+		"ID": 37,
+		"name": "37",
+		"background_name": "004_outland_enening",
+		"offset_x": 0.0,
+		"offset_y": 0.0,
+		"scale": 1.0
+	},
+	{
+		"ID": 38,
+		"name": "38",
+		"background_name": "004_wildland_evening",
+		"offset_x": 0.0,
+		"offset_y": 0.0,
+		"scale": 1.0
+	},
+	{
+		"ID": 39,
+		"name": "39",
+		"background_name": "004_observatory_evening",
+		"offset_x": 0.0,
+		"offset_y": 0.0,
+		"scale": 1.0
+	},
+	{
+		"ID": 40,
+		"name": "40",
+		"background_name": "004_observatory_evening",
+		"offset_x": 0.0,
+		"offset_y": 0.0,
+		"scale": 1.0
+	},
+	{
+		"ID": 41,
+		"name": "41",
+		"background_name": "005_Windmill",
+		"offset_x": 0.0,
+		"offset_y": 0.0,
+		"scale": 1.0
+	},
+	{
+		"ID": 42,
+		"name": "42",
+		"background_name": "005_Windmill",
+		"offset_x": 0.0,
+		"offset_y": 0.0,
+		"scale": 1.0
+	},
+	{
+		"ID": 43,
+		"name": "43",
+		"background_name": "005_Wilderness",
+		"offset_x": 0.0,
+		"offset_y": 0.0,
+		"scale": 1.0
+	},
+	{
+		"ID": 44,
+		"name": "44",
+		"background_name": "005_Wilderness_Night",
+		"offset_x": 0.0,
+		"offset_y": 0.0,
+		"scale": 1.0
+	},
+	{
+		"ID": 45,
+		"name": "45",
+		"background_name": "005_Checkpoint",
+		"offset_x": 0.0,
+		"offset_y": 0.0,
+		"scale": 1.0
+	},
+	{
+		"ID": 46,
+		"name": "46",
+		"background_name": "005_Windmill",
+		"offset_x": 0.0,
+		"offset_y": 0.0,
+		"scale": 1.0
+	},
+	{
+		"ID": 47,
+		"name": "47",
+		"background_name": "005_Windmill",
+		"offset_x": 0.0,
+		"offset_y": 0.0,
+		"scale": 1.0
+	},
+	{
+		"ID": 48,
+		"name": "48",
+		"background_name": "005_Wilderness",
+		"offset_x": 0.0,
+		"offset_y": 0.0,
+		"scale": 1.0
+	},
+	{
+		"ID": 49,
+		"name": "49",
+		"background_name": "005_Wilderness_Night",
+		"offset_x": 0.0,
+		"offset_y": 0.0,
+		"scale": 1.0
+	},
+	{
+		"ID": 50,
+		"name": "50",
+		"background_name": "005_Checkpoint",
+		"offset_x": 0.0,
+		"offset_y": 0.0,
+		"scale": 1.0
+	},
+	{
+		"ID": 51,
+		"name": "25000",
+		"background_name": "highland_snow",
+		"offset_x": 0.0,
+		"offset_y": 0.0,
+		"scale": 1.0
+	},
+	{
+		"ID": 52,
+		"name": "50000",
+		"background_name": "denpa",
+		"offset_x": 0.0,
+		"offset_y": 0.0,
+		"scale": 1.0
+	},
+	{
+		"ID": 53,
+		"name": "60000",
+		"background_name": "colosseum_rise",
+		"offset_x": 0.0,
+		"offset_y": 0.0,
+		"scale": 1.0
+	},
+	{
+		"ID": 54,
+		"name": "60504",
+		"background_name": "psychopass",
+		"offset_x": 0.0,
+		"offset_y": 0.0,
+		"scale": 1.0
+	},
+	{
+		"ID": 55,
+		"name": "60505",
+		"background_name": "psychopass",
+		"offset_x": 0.0,
+		"offset_y": 0.0,
+		"scale": 1.0
+	},
+	{
+		"ID": 56,
+		"name": "60507",
+		"background_name": "kousien",
+		"offset_x": 0.0,
+		"offset_y": 0.0,
+		"scale": 1.0
+	},
+	{
+		"ID": 57,
+		"name": "60508",
+		"background_name": "lake",
+		"offset_x": 0.0,
+		"offset_y": 0.0,
+		"scale": 1.0
+	},
+	{
+		"ID": 58,
+		"name": "60509",
+		"background_name": "cake",
+		"offset_x": 0.0,
+		"offset_y": 0.0,
+		"scale": 1.0
+	},
+	{
+		"ID": 59,
+		"name": "60510",
+		"background_name": "walpurgis",
+		"offset_x": 0.0,
+		"offset_y": 0.0,
+		"scale": 1.0
+	},
+	{
+		"ID": 60,
+		"name": "60511",
+		"background_name": "denpa_yukata",
+		"offset_x": 0.0,
+		"offset_y": 0.0,
+		"scale": 1.0
+	},
+	{
+		"ID": 61,
+		"name": "60513",
+		"background_name": "saitama_mountain",
+		"offset_x": 0.0,
+		"offset_y": 0.0,
+		"scale": 1.0
+	},
+	{
+		"ID": 62,
+		"name": "60516",
+		"background_name": "halloween",
+		"offset_x": 0.0,
+		"offset_y": 0.0,
+		"scale": 1.0
+	},
+	{
+		"ID": 63,
+		"name": "60517",
+		"background_name": "devilhomura",
+		"offset_x": 0.0,
+		"offset_y": 0.0,
+		"scale": 1.0
+	},
+	{
+		"ID": 64,
+		"name": "60520",
+		"background_name": "devilhomura",
+		"offset_x": 0.0,
+		"offset_y": 0.0,
+		"scale": 1.0
+	},
+	{
+		"ID": 65,
+		"name": "210002",
+		"background_name": "park_area",
+		"offset_x": 0.0,
+		"offset_y": 0.0,
+		"scale": 1.0
+	},
+	{
+		"ID": 66,
+		"name": "210003",
+		"background_name": "old_home_area",
+		"offset_x": 0.0,
+		"offset_y": 0.0,
+		"scale": 1.0
+	},
+	{
+		"ID": 67,
+		"name": "210004",
+		"background_name": "building_area",
+		"offset_x": 0.0,
+		"offset_y": 0.0,
+		"scale": 1.0
+	},
+	{
+		"ID": 68,
+		"name": "210005",
+		"background_name": "laboratory_area",
+		"offset_x": 0.0,
+		"offset_y": 0.0,
+		"scale": 1.0
+	},
+	{
+		"ID": 69,
+		"name": "210006",
+		"background_name": "ground_surface_break",
+		"offset_x": 0.0,
+		"offset_y": 0.0,
+		"scale": 1.0
+	},
+	{
+		"ID": 70,
+		"name": "11a",
+		"background_name": "desert_hill",
+		"offset_x": 0.0,
+		"offset_y": 0.0,
+		"scale": 1.0
+	},
+	{
+		"ID": 71,
+		"name": "1a",
+		"background_name": "flower_garden",
+		"offset_x": 0.0,
+		"offset_y": 0.0,
+		"scale": 1.0
+	},
+	{
+		"ID": 72,
+		"name": "2a",
+		"background_name": "plain",
+		"offset_x": 0.0,
+		"offset_y": 0.0,
+		"scale": 1.0
+	},
+	{
+		"ID": 73,
+		"name": "3a",
+		"background_name": "highland",
+		"offset_x": 0.0,
+		"offset_y": 0.0,
+		"scale": 1.0
+	},
+	{
+		"ID": 74,
+		"name": "4a",
+		"background_name": "foot_mountain_village",
+		"offset_x": 0.0,
+		"offset_y": 0.0,
+		"scale": 1.0
+	},
+	{
+		"ID": 75,
+		"name": "5a",
+		"background_name": "highland_snow",
+		"offset_x": 0.0,
+		"offset_y": 0.0,
+		"scale": 1.0
+	},
+	{
+		"ID": 76,
+		"name": "8a",
+		"background_name": "forest",
+		"offset_x": 0.0,
+		"offset_y": 0.0,
+		"scale": 1.0
+	},
+	{
+		"ID": 77,
+		"name": "9a",
+		"background_name": "denpa",
+		"offset_x": 0.0,
+		"offset_y": 0.0,
+		"scale": 1.0
+	},
+	{
+		"ID": 78,
+		"name": "building_area_a",
+		"background_name": "building_area",
+		"offset_x": 0.0,
+		"offset_y": 0.0,
+		"scale": 1.0
+	},
+	{
+		"ID": 79,
+		"name": "ground_surface_break_a",
+		"background_name": "ground_surface_break",
+		"offset_x": 0.0,
+		"offset_y": 0.0,
+		"scale": 1.0
+	},
+	{
+		"ID": 80,
+		"name": "laboratory_area_a",
+		"background_name": "laboratory_area",
+		"offset_x": 0.0,
+		"offset_y": 0.0,
+		"scale": 1.0
+	},
+	{
+		"ID": 81,
+		"name": "old_home_area_a",
+		"background_name": "old_home_area",
+		"offset_x": 0.0,
+		"offset_y": 0.0,
+		"scale": 1.0
+	},
+	{
+		"ID": 82,
+		"name": "park_area_a",
+		"background_name": "park_area",
+		"offset_x": 0.0,
+		"offset_y": 0.0,
+		"scale": 1.0
+	},
+	{
+		"ID": 83,
+		"name": "makabe_gate_g",
+		"background_name": "makabe_gate",
+		"offset_x": 8.0,
+		"offset_y": 12.0,
+		"scale": 0.8299999833106995
+	},
+	{
+		"ID": 84,
+		"name": "red_corridor_g",
+		"background_name": "red_corridor",
+		"offset_x": -27.0,
+		"offset_y": 151.0,
+		"scale": 0.800000011920929
+	},
+	{
+		"ID": 85,
+		"name": "devastated_city_night_g",
+		"background_name": "devastated_city_night",
+		"offset_x": -17.0,
+		"offset_y": 116.0,
+		"scale": 0.800000011920929
+	},
+	{
+		"ID": 86,
+		"name": "zero_room_morning_g",
+		"background_name": "zero_room_morning",
+		"offset_x": -39.0,
+		"offset_y": 50.0,
+		"scale": 0.8399999737739563
+	},
+	{
+		"ID": 87,
+		"name": "6_2",
+		"background_name": "006_town",
+		"offset_x": -26.0,
+		"offset_y": -63.0,
+		"scale": 0.8999999761581421
+	},
+	{
+		"ID": 88,
+		"name": "006_church_a",
+		"background_name": "006_church",
+		"offset_x": -27.0,
+		"offset_y": 91.0,
+		"scale": 0.8600000143051147
+	},
+	{
+		"ID": 89,
+		"name": "006_jail_a",
+		"background_name": "006_jail",
+		"offset_x": -12.0,
+		"offset_y": 11.0,
+		"scale": 0.8500000238418579
+	},
+	{
+		"ID": 90,
+		"name": "seahouse_a",
+		"background_name": "seahouse",
+		"offset_x": -41.0,
+		"offset_y": 91.0,
+		"scale": 0.800000011920929
+	},
+	{
+		"ID": 91,
+		"name": "beach_a",
+		"background_name": "beach",
+		"offset_x": -47.0,
+		"offset_y": -138.0,
+		"scale": 0.8700000047683716
+	},
+	{
+		"ID": 92,
+		"name": "classroom01_a",
+		"background_name": "classroom01",
+		"offset_x": -38.0,
+		"offset_y": 95.0,
+		"scale": 0.8199999928474426
+	},
+	{
+		"ID": 93,
+		"name": "classroom02_afternoon_a",
+		"background_name": "classroom02_afternoon",
+		"offset_x": -21.0,
+		"offset_y": -60.0,
+		"scale": 0.8500000238418579
+	},
+	{
+		"ID": 94,
+		"name": "classroom02_morning_a",
+		"background_name": "classroom02_morning",
+		"offset_x": -21.0,
+		"offset_y": -60.0,
+		"scale": 0.8500000238418579
+	},
+	{
+		"ID": 95,
+		"name": "gymnasium_a",
+		"background_name": "gymnasium",
+		"offset_x": -11.0,
+		"offset_y": 113.0,
+		"scale": 0.8199999928474426
+	},
+	{
+		"ID": 96,
+		"name": "courtyard_a",
+		"background_name": "courtyard",
+		"offset_x": -37.0,
+		"offset_y": 105.0,
+		"scale": 0.8399999737739563
+	},
+	{
+		"ID": 97,
+		"name": "schoolroad_afternoon_a",
+		"background_name": "schoolroad_afternoon",
+		"offset_x": -26.0,
+		"offset_y": 94.0,
+		"scale": 0.8199999928474426
+	},
+	{
+		"ID": 98,
+		"name": "schoolroad_evening_a",
+		"background_name": "schoolroad_evening",
+		"offset_x": -26.0,
+		"offset_y": 94.0,
+		"scale": 0.8199999928474426
+	},
+	{
+		"ID": 99,
+		"name": "presidentroom_a",
+		"background_name": "presidentroom",
+		"offset_x": -18.0,
+		"offset_y": 63.0,
+		"scale": 0.8199999928474426
+	},
+	{
+		"ID": 100,
+		"name": "6_3",
+		"background_name": "006_town2",
+		"offset_x": -30.0,
+		"offset_y": 77.0,
+		"scale": 0.8100000023841858
+	},
+	{
+		"ID": 101,
+		"name": "6_4-5",
+		"background_name": "006_town2_TotalEclipse",
+		"offset_x": -30.0,
+		"offset_y": 77.0,
+		"scale": 0.8100000023841858
+	},
+	{
+		"ID": 102,
+		"name": "006_town_AnnularEclipse_a",
+		"background_name": "006_town_AnnularEclipse",
+		"offset_x": -26.0,
+		"offset_y": -63.0,
+		"scale": 0.8999999761581421
+	},
+	{
+		"ID": 103,
+		"name": "006_town_TotalEclipse_a",
+		"background_name": "006_town_TotalEclipse",
+		"offset_x": -26.0,
+		"offset_y": -63.0,
+		"scale": 0.8999999761581421
+	},
+	{
+		"ID": 104,
+		"name": "mamon_room_g",
+		"background_name": "mamon_room",
+		"offset_x": 0.0,
+		"offset_y": -118.0,
+		"scale": 0.8199999928474426
+	},
+	{
+		"ID": 105,
+		"name": "mamon_wilderness_g",
+		"background_name": "mamon_wilderness",
+		"offset_x": -62.0,
+		"offset_y": 55.0,
+		"scale": 0.8999999761581421
+	},
+	{
+		"ID": 106,
+		"name": "underground_passage_g",
+		"background_name": "underground_passage",
+		"offset_x": -18.0,
+		"offset_y": -33.0,
+		"scale": 0.8299999833106995
+	},
+	{
+		"ID": 107,
+		"name": "corridor_daytime",
+		"background_name": "corridor_daytime",
+		"offset_x": -9.0,
+		"offset_y": 9.0,
+		"scale": 0.8500000238418579
+	},
+	{
+		"ID": 108,
+		"name": "corridor_evening",
+		"background_name": "corridor_evening",
+		"offset_x": -9.0,
+		"offset_y": 9.0,
+		"scale": 0.8500000238418579
+	},
+	{
+		"ID": 109,
+		"name": "529d",
+		"background_name": "Schoolyard_daytime",
+		"offset_x": -67.0,
+		"offset_y": 2.0,
+		"scale": 0.8500000238418579
+	},
+	{
+		"ID": 110,
+		"name": "529n",
+		"background_name": "Schoolyard_evening",
+		"offset_x": -67.0,
+		"offset_y": 2.0,
+		"scale": 0.8500000238418579
+	},
+	{
+		"ID": 111,
+		"name": "529r",
+		"background_name": "Schoolyard_rain",
+		"offset_x": -67.0,
+		"offset_y": 2.0,
+		"scale": 0.8500000238418579
+	},
+	{
+		"ID": 112,
+		"name": "schoolgate_morning",
+		"background_name": "schoolgate_morning",
+		"offset_x": -61.0,
+		"offset_y": -117.0,
+		"scale": 0.8199999928474426
+	},
+	{
+		"ID": 113,
+		"name": "schoolgate_daytime",
+		"background_name": "schoolgate_daytime",
+		"offset_x": -61.0,
+		"offset_y": -117.0,
+		"scale": 0.8199999928474426
+	},
+	{
+		"ID": 114,
+		"name": "schoolgate_evening",
+		"background_name": "schoolgate_evening",
+		"offset_x": -61.0,
+		"offset_y": -117.0,
+		"scale": 0.8199999928474426
+	},
+	{
+		"ID": 115,
+		"name": "schoolgate_night",
+		"background_name": "schoolgate_night",
+		"offset_x": -61.0,
+		"offset_y": -117.0,
+		"scale": 0.8199999928474426
+	},
+	{
+		"ID": 116,
+		"name": "festival_evening",
+		"background_name": "festival_evening",
+		"offset_x": -52.0,
+		"offset_y": 54.0,
+		"scale": 0.800000011920929
+	},
+	{
+		"ID": 117,
+		"name": "festival_night",
+		"background_name": "festival_night",
+		"offset_x": -52.0,
+		"offset_y": 54.0,
+		"scale": 0.800000011920929
+	},
+	{
+		"ID": 118,
+		"name": "classroom03_night",
+		"background_name": "classroom03_night",
+		"offset_x": -30.0,
+		"offset_y": -18.0,
+		"scale": 0.800000011920929
+	},
+	{
+		"ID": 119,
+		"name": "classroom03_morning",
+		"background_name": "classroom03_morning",
+		"offset_x": -30.0,
+		"offset_y": -18.0,
+		"scale": 0.800000011920929
+	},
+	{
+		"ID": 120,
+		"name": "classroom03_daytime",
+		"background_name": "classroom03_daytime",
+		"offset_x": -30.0,
+		"offset_y": -18.0,
+		"scale": 0.800000011920929
+	},
+	{
+		"ID": 121,
+		"name": "rooftop_daytime",
+		"background_name": "rooftop_daytime",
+		"offset_x": -28.0,
+		"offset_y": 60.0,
+		"scale": 0.7400000095367432
+	},
+	{
+		"ID": 122,
+		"name": "rooftop_evening",
+		"background_name": "rooftop_evening",
+		"offset_x": -28.0,
+		"offset_y": 60.0,
+		"scale": 0.7400000095367432
+	},
+	{
+		"ID": 123,
+		"name": "schoolyard_sportsfestival_evening",
+		"background_name": "schoolyard_sportsfestival_evening",
+		"offset_x": 21.0,
+		"offset_y": 9.0,
+		"scale": 0.9700000286102295
+	},
+	{
+		"ID": 124,
+		"name": "schoolgate_sportsfestival_daytime",
+		"background_name": "schoolgate_sportsfestival_daytime",
+		"offset_x": -110.0,
+		"offset_y": 150.0,
+		"scale": 0.8799999952316284
+	},
+	{
+		"ID": 125,
+		"name": "schoolgate_sportsfestival_evening",
+		"background_name": "schoolgate_sportsfestival_evening",
+		"offset_x": -110.0,
+		"offset_y": 150.0,
+		"scale": 0.8799999952316284
+	},
+	{
+		"ID": 126,
+		"name": "courtyard_evening",
+		"background_name": "courtyard_evening",
+		"offset_x": -37.0,
+		"offset_y": 105.0,
+		"scale": 0.8399999737739563
+	},
+	{
+		"ID": 127,
+		"name": "classroom04_daytime",
+		"background_name": "classroom04_daytime",
+		"offset_x": 12.0,
+		"offset_y": -62.0,
+		"scale": 0.8500000238418579
+	},
+	{
+		"ID": 128,
+		"name": "devastated_city_fire_g",
+		"background_name": "devastated_city_fire",
+		"offset_x": -17.0,
+		"offset_y": 116.0,
+		"scale": 0.800000011920929
+	},
+	{
+		"ID": 129,
+		"name": "asmodeus_countryofflame_g",
+		"background_name": "asmodeus_countryofflame",
+		"offset_x": -10.0,
+		"offset_y": 107.0,
+		"scale": 0.800000011920929
+	},
+	{
+		"ID": 130,
+		"name": "asmodeus_countryofflame_vapor_g",
+		"background_name": "asmodeus_countryofflame_vapor",
+		"offset_x": -10.0,
+		"offset_y": 107.0,
+		"scale": 0.800000011920929
+	},
+	{
+		"ID": 131,
+		"name": "schoolyard_sportsfestival_daytime",
+		"background_name": "schoolyard_sportsfestival_daytime",
+		"offset_x": -67.0,
+		"offset_y": 2.0,
+		"scale": 0.8500000238418579
+	},
+	{
+		"ID": 132,
+		"name": "connecting_corridor_daytime",
+		"background_name": "connecting_corridor_daytime",
+		"offset_x": -25.0,
+		"offset_y": 27.0,
+		"scale": 0.75
+	},
+	{
+		"ID": 133,
+		"name": "ancient_church",
+		"background_name": "ancient_church",
+		"offset_x": 5.0,
+		"offset_y": 95.0,
+		"scale": 1.0
+	},
+	{
+		"ID": 134,
+		"name": "castle_wall",
+		"background_name": "castle_wall",
+		"offset_x": -28.0,
+		"offset_y": -51.0,
+		"scale": 0.800000011920929
+	},
+	{
+		"ID": 135,
+		"name": "underground_waterway",
+		"background_name": "underground_waterway",
+		"offset_x": 21.0,
+		"offset_y": -98.0,
+		"scale": 0.8899999856948853
+	},
+	{
+		"ID": 136,
+		"name": "church_room",
+		"background_name": "church_room",
+		"offset_x": -105.0,
+		"offset_y": -67.0,
+		"scale": 0.8500000238418579
+	},
+	{
+		"ID": 137,
+		"name": "classroom01_culturefestival_daytime",
+		"background_name": "classroom01_culturefestival_evening",
+		"offset_x": -52.0,
+		"offset_y": 73.0,
+		"scale": 0.8399999737739563
+	},
+	{
+		"ID": 138,
+		"name": "classroom01_culturefestival_evening",
+		"background_name": "classroom01_culturefestival_evening",
+		"offset_x": -52.0,
+		"offset_y": 73.0,
+		"scale": 0.8399999737739563
+	},
+	{
+		"ID": 139,
+		"name": "corridor_culturefestival_daytime",
+		"background_name": "corridor_culturefestival_daytime",
+		"offset_x": -40.0,
+		"offset_y": 112.0,
+		"scale": 0.8199999928474426
+	},
+	{
+		"ID": 140,
+		"name": "corridor_culturefestival_evening",
+		"background_name": "corridor_culturefestival_evening",
+		"offset_x": -40.0,
+		"offset_y": 112.0,
+		"scale": 0.8199999928474426
+	},
+	{
+		"ID": 141,
+		"name": "schoolgate_culturefestival_daytime",
+		"background_name": "schoolgate_culturefestival_daytime",
+		"offset_x": -46.0,
+		"offset_y": 112.0,
+		"scale": 0.8299999833106995
+	},
+	{
+		"ID": 142,
+		"name": "schoolgate_culturefestival_evening",
+		"background_name": "schoolgate_culturefestival_evening",
+		"offset_x": -46.0,
+		"offset_y": 112.0,
+		"scale": 0.8299999833106995
+	},
+	{
+		"ID": 143,
+		"name": "flower-garden_totaleclipse",
+		"background_name": "flower-garden_totaleclipse",
+		"offset_x": 0.0,
+		"offset_y": -164.0,
+		"scale": 1.100000023841858
+	},
+	{
+		"ID": 144,
+		"name": "forest_totaleclipse",
+		"background_name": "forest_totaleclipse",
+		"offset_x": -33.0,
+		"offset_y": -290.0,
+		"scale": 1.2599999904632568
+	},
+	{
+		"ID": 145,
+		"name": "plain_totaleclipse",
+		"background_name": "plain_totaleclipse",
+		"offset_x": 63.0,
+		"offset_y": -164.0,
+		"scale": 1.100000023841858
+	},
+	{
+		"ID": 146,
+		"name": "dimensions",
+		"background_name": "dimensions",
+		"offset_x": -381.0,
+		"offset_y": 411.0,
+		"scale": 1.0199999809265137
+	},
+	{
+		"ID": 147,
+		"name": "kitchen_room_daytime",
+		"background_name": "kitchen_room_daytime",
+		"offset_x": -46.0,
+		"offset_y": -82.0,
+		"scale": 0.800000011920929
+	},
+	{
+		"ID": 148,
+		"name": "kitchen_room_evening",
+		"background_name": "kitchen_room_evening",
+		"offset_x": -46.0,
+		"offset_y": -82.0,
+		"scale": 0.800000011920929
+	},
+	{
+		"ID": 149,
+		"name": "arts_gym_daytime",
+		"background_name": "arts_gym_daytime",
+		"offset_x": -45.0,
+		"offset_y": 79.0,
+		"scale": 0.8999999761581421
+	},
+	{
+		"ID": 150,
+		"name": "005_Western_evening",
+		"background_name": "005_Western_evening",
+		"offset_x": -12.0,
+		"offset_y": -259.0,
+		"scale": 1.2999999523162842
+	},
+	{
+		"ID": 151,
+		"name": "005_Checkpoint_evening",
+		"background_name": "005_Checkpoint_evening",
+		"offset_x": 0.0,
+		"offset_y": 26.0,
+		"scale": 1.2000000476837158
+	},
+	{
+		"ID": 152,
+		"name": "alc_ch1_pub",
+		"background_name": "alc_ch1_pub",
+		"offset_x": -97.0,
+		"offset_y": -4.0,
+		"scale": 1.0
+	},
+	{
+		"ID": 153,
+		"name": "alc_ch3_basement",
+		"background_name": "alc_ch3_basement",
+		"offset_x": -18.0,
+		"offset_y": 51.0,
+		"scale": 0.8999999761581421
+	},
+	{
+		"ID": 154,
+		"name": "infirmary",
+		"background_name": "infirmary",
+		"offset_x": -30.0,
+		"offset_y": -1.0,
+		"scale": 0.75
+	},
+	{
+		"ID": 155,
+		"name": "student_council_room_02",
+		"background_name": "student_council_room_02",
+		"offset_x": -41.0,
+		"offset_y": -105.0,
+		"scale": 0.800000011920929
+	},
+	{
+		"ID": 156,
+		"name": "sea_resort_day",
+		"background_name": "sea_resort_day",
+		"offset_x": -35.0,
+		"offset_y": 133.0,
+		"scale": 0.8199999928474426
+	},
+	{
+		"ID": 157,
+		"name": "sea_resort_evening",
+		"background_name": "sea_resort_evening",
+		"offset_x": -35.0,
+		"offset_y": 133.0,
+		"scale": 0.8199999928474426
+	},
+	{
+		"ID": 158,
+		"name": "sea_resort_night",
+		"background_name": "sea_resort_night",
+		"offset_x": -35.0,
+		"offset_y": 133.0,
+		"scale": 0.8199999928474426
+	},
+	{
+		"ID": 159,
+		"name": "sea_town_day",
+		"background_name": "sea_town_day",
+		"offset_x": -154.0,
+		"offset_y": 82.0,
+		"scale": 0.800000011920929
+	},
+	{
+		"ID": 160,
+		"name": "sea_town_evening",
+		"background_name": "sea_town_evening",
+		"offset_x": -154.0,
+		"offset_y": 82.0,
+		"scale": 0.800000011920929
+	},
+	{
+		"ID": 161,
+		"name": "sea_town_night",
+		"background_name": "sea_town_night",
+		"offset_x": -154.0,
+		"offset_y": 82.0,
+		"scale": 0.800000011920929
+	},
+	{
+		"ID": 162,
+		"name": "sea_church",
+		"background_name": "sea_church",
+		"offset_x": -118.0,
+		"offset_y": 80.0,
+		"scale": 0.8199999928474426
+	},
+	{
+		"ID": 163,
+		"name": "sea_shop",
+		"background_name": "sea_shop",
+		"offset_x": -114.0,
+		"offset_y": 25.0,
+		"scale": 0.7599999904632568
+	},
+	{
+		"ID": 164,
+		"name": "sea_cafe",
+		"background_name": "sea_cafe",
+		"offset_x": -45.0,
+		"offset_y": 23.0,
+		"scale": 0.7699999809265137
+	},
+	{
+		"ID": 165,
+		"name": "sea_park_day",
+		"background_name": "sea_park_day",
+		"offset_x": -132.0,
+		"offset_y": -104.0,
+		"scale": 0.7799999713897705
+	},
+	{
+		"ID": 166,
+		"name": "sea_park_evening",
+		"background_name": "sea_park_evening",
+		"offset_x": -132.0,
+		"offset_y": -104.0,
+		"scale": 0.7799999713897705
+	},
+	{
+		"ID": 167,
+		"name": "sea_park_night",
+		"background_name": "sea_park_night",
+		"offset_x": -132.0,
+		"offset_y": -104.0,
+		"scale": 0.7799999713897705
+	},
+	{
+		"ID": 168,
+		"name": "sea_museum1",
+		"background_name": "sea_museum1",
+		"offset_x": -156.0,
+		"offset_y": -46.0,
+		"scale": 0.8199999928474426
+	},
+	{
+		"ID": 169,
+		"name": "sea_museum2",
+		"background_name": "sea_museum2",
+		"offset_x": -156.0,
+		"offset_y": -46.0,
+		"scale": 0.8199999928474426
+	},
+	{
+		"ID": 170,
+		"name": "sea_castle",
+		"background_name": "sea_castle",
+		"offset_x": -132.0,
+		"offset_y": -17.0,
+		"scale": 0.8199999928474426
+	},
+	{
+		"ID": 171,
+		"name": "sea_aquarium_day",
+		"background_name": "sea_aquarium_day",
+		"offset_x": -132.0,
+		"offset_y": -69.0,
+		"scale": 0.8199999928474426
+	},
+	{
+		"ID": 172,
+		"name": "sea_aquarium_evening",
+		"background_name": "sea_aquarium_evening",
+		"offset_x": -132.0,
+		"offset_y": -69.0,
+		"scale": 0.8199999928474426
+	},
+	{
+		"ID": 173,
+		"name": "sea_planetarium",
+		"background_name": "sea_planetarium",
+		"offset_x": -126.0,
+		"offset_y": -71.0,
+		"scale": 0.7900000214576721
+	},
+	{
+		"ID": 174,
+		"name": "sea_cave",
+		"background_name": "sea_cave",
+		"offset_x": -92.0,
+		"offset_y": 36.0,
+		"scale": 0.8199999928474426
+	},
+	{
+		"ID": 175,
+		"name": "sea_stream_day",
+		"background_name": "sea_stream_day",
+		"offset_x": -137.0,
+		"offset_y": -2.0,
+		"scale": 0.800000011920929
+	},
+	{
+		"ID": 176,
+		"name": "sea_stream_evening",
+		"background_name": "sea_stream_evening",
+		"offset_x": -137.0,
+		"offset_y": -2.0,
+		"scale": 0.800000011920929
+	},
+	{
+		"ID": 177,
+		"name": "sea_fireworks",
+		"background_name": "sea_fireworks",
+		"offset_x": -181.0,
+		"offset_y": -10.0,
+		"scale": 0.7599999904632568
+	},
+	{
+		"ID": 178,
+		"name": "sea_concert",
+		"background_name": "sea_concert",
+		"offset_x": -72.0,
+		"offset_y": 26.0,
+		"scale": 0.7900000214576721
+	},
+	{
+		"ID": 179,
+		"name": "sea_drive",
+		"background_name": "sea_drive",
+		"offset_x": -123.0,
+		"offset_y": 29.0,
+		"scale": 0.8199999928474426
+	},
+	{
+		"ID": 180,
+		"name": "sea_phankillland",
+		"background_name": "sea_phankillland",
+		"offset_x": -70.0,
+		"offset_y": -18.0,
+		"scale": 0.800000011920929
+	},
+	{
+		"ID": 181,
+		"name": "sea_shipboard",
+		"background_name": "sea_shipboard",
+		"offset_x": -69.0,
+		"offset_y": -26.0,
+		"scale": 0.8199999928474426
+	},
+	{
+		"ID": 182,
+		"name": "sea_onsen",
+		"background_name": "sea_onsen",
+		"offset_x": -73.0,
+		"offset_y": 98.0,
+		"scale": 0.8399999737739563
+	},
+	{
+		"ID": 183,
+		"name": "sea_ferris",
+		"background_name": "sea_ferris",
+		"offset_x": -119.0,
+		"offset_y": 98.0,
+		"scale": 0.8199999928474426
+	},
+	{
+		"ID": 184,
+		"name": "sea_hauntedhouse",
+		"background_name": "sea_hauntedhouse",
+		"offset_x": -157.0,
+		"offset_y": 164.0,
+		"scale": 0.8500000238418579
+	},
+	{
+		"ID": 185,
+		"name": "sea_room",
+		"background_name": "sea_room",
+		"offset_x": -138.0,
+		"offset_y": 131.0,
+		"scale": 0.8500000238418579
+	},
+	{
+		"ID": 186,
+		"name": "dimensions_sea",
+		"background_name": "dimensions_sea",
+		"offset_x": -98.0,
+		"offset_y": -29.0,
+		"scale": 0.8999999761581421
+	},
+	{
+		"ID": 187,
+		"name": "sea_jungle_day",
+		"background_name": "sea_jungle_day",
+		"offset_x": -21.0,
+		"offset_y": -25.0,
+		"scale": 0.800000011920929
+	},
+	{
+		"ID": 188,
+		"name": "sea_beach_day",
+		"background_name": "sea_beach_day",
+		"offset_x": -12.0,
+		"offset_y": 56.0,
+		"scale": 0.800000011920929
+	},
+	{
+		"ID": 189,
+		"name": "sea_beach_evening",
+		"background_name": "sea_beach_evening",
+		"offset_x": -12.0,
+		"offset_y": 56.0,
+		"scale": 0.800000011920929
+	},
+	{
+		"ID": 190,
+		"name": "sea_beach_night",
+		"background_name": "sea_beach_night",
+		"offset_x": -12.0,
+		"offset_y": 56.0,
+		"scale": 0.800000011920929
+	},
+	{
+		"ID": 191,
+		"name": "sea_jungle_evening",
+		"background_name": "sea_jungle_evening",
+		"offset_x": -21.0,
+		"offset_y": -25.0,
+		"scale": 0.800000011920929
+	},
+	{
+		"ID": 192,
+		"name": "sea_jungle_night",
+		"background_name": "sea_jungle_night",
+		"offset_x": -21.0,
+		"offset_y": -25.0,
+		"scale": 0.800000011920929
+	},
+	{
+		"ID": 193,
+		"name": "town_night",
+		"background_name": "town_night",
+		"offset_x": -116.0,
+		"offset_y": -154.0,
+		"scale": 1.100000023841858
+	},
+	{
+		"ID": 194,
+		"name": "stairs_day",
+		"background_name": "stairs_day",
+		"offset_x": -17.0,
+		"offset_y": -53.0,
+		"scale": 0.8999999761581421
+	},
+	{
+		"ID": 195,
+		"name": "stairs_evening",
+		"background_name": "stairs_evening",
+		"offset_x": -17.0,
+		"offset_y": -53.0,
+		"scale": 0.8999999761581421
+	},
+	{
+		"ID": 196,
+		"name": "aerial_shoot",
+		"background_name": "aerial_shoot",
+		"offset_x": -70.0,
+		"offset_y": 132.0,
+		"scale": 0.949999988079071
+	},
+	{
+		"ID": 197,
+		"name": "aerial_shoot_hole",
+		"background_name": "aerial_shoot_hole",
+		"offset_x": -70.0,
+		"offset_y": 132.0,
+		"scale": 0.949999988079071
+	},
+	{
+		"ID": 198,
+		"name": "imperial_city",
+		"background_name": "imperial_city",
+		"offset_x": -4.0,
+		"offset_y": -43.0,
+		"scale": 0.8299999833106995
+	},
+	{
+		"ID": 199,
+		"name": "imperial_city_reconstruction",
+		"background_name": "imperial_city_reconstruction",
+		"offset_x": -4.0,
+		"offset_y": -43.0,
+		"scale": 0.8299999833106995
+	},
+	{
+		"ID": 200,
+		"name": "imperial_city_destroyed",
+		"background_name": "imperial_city_destroyed",
+		"offset_x": -4.0,
+		"offset_y": -43.0,
+		"scale": 0.8299999833106995
+	},
+	{
+		"ID": 201,
+		"name": "castle_town",
+		"background_name": "castle_town",
+		"offset_x": -18.0,
+		"offset_y": -81.0,
+		"scale": 0.800000011920929
+	},
+	{
+		"ID": 202,
+		"name": "pope_room",
+		"background_name": "pope_room",
+		"offset_x": -74.0,
+		"offset_y": 34.0,
+		"scale": 0.949999988079071
+	},
+	{
+		"ID": 203,
+		"name": "cemetery",
+		"background_name": "cemetery",
+		"offset_x": -27.0,
+		"offset_y": -1.0,
+		"scale": 0.8500000238418579
+	},
+	{
+		"ID": 204,
+		"name": "fountain",
+		"background_name": "fountain",
+		"offset_x": -9.0,
+		"offset_y": 96.0,
+		"scale": 0.8600000143051147
+	},
+	{
+		"ID": 205,
+		"name": "altar",
+		"background_name": "altar",
+		"offset_x": -88.0,
+		"offset_y": -139.0,
+		"scale": 0.8999999761581421
+	},
+	{
+		"ID": 206,
+		"name": "coast",
+		"background_name": "coast",
+		"offset_x": -44.0,
+		"offset_y": 55.0,
+		"scale": 0.8999999761581421
+	},
+	{
+		"ID": 207,
+		"name": "fairy_world",
+		"background_name": "fairy_world",
+		"offset_x": -34.0,
+		"offset_y": -84.0,
+		"scale": 0.800000011920929
+	},
+	{
+		"ID": 208,
+		"name": "devil_world",
+		"background_name": "devil_world",
+		"offset_x": -26.0,
+		"offset_y": 44.0,
+		"scale": 0.8500000238418579
+	},
+	{
+		"ID": 209,
+		"name": "beast_world",
+		"background_name": "beast_world",
+		"offset_x": -56.0,
+		"offset_y": 102.0,
+		"scale": 0.8700000047683716
+	},
+	{
+		"ID": 210,
+		"name": "angel_world",
+		"background_name": "angel_world",
+		"offset_x": -61.0,
+		"offset_y": 112.0,
+		"scale": 0.8999999761581421
+	},
+	{
+		"ID": 211,
+		"name": "101_city_night1",
+		"background_name": "101_city_night1",
+		"offset_x": -47.0,
+		"offset_y": -87.0,
+		"scale": 0.800000011920929
+	},
+	{
+		"ID": 212,
+		"name": "101_city_night2",
+		"background_name": "101_city_night2",
+		"offset_x": -11.0,
+		"offset_y": 49.0,
+		"scale": 0.800000011920929
+	},
+	{
+		"ID": 213,
+		"name": "101_city_night3",
+		"background_name": "101_city_night3",
+		"offset_x": -6.0,
+		"offset_y": 60.0,
+		"scale": 0.800000011920929
+	},
+	{
+		"ID": 214,
+		"name": "101_south_wall",
+		"background_name": "101_south_wall",
+		"offset_x": -9.0,
+		"offset_y": 58.0,
+		"scale": 0.800000011920929
+	},
+	{
+		"ID": 215,
+		"name": "101_south_wall_2",
+		"background_name": "101_south_wall_2",
+		"offset_x": -9.0,
+		"offset_y": 58.0,
+		"scale": 0.800000011920929
+	},
+	{
+		"ID": 216,
+		"name": "101_cave",
+		"background_name": "101_cave",
+		"offset_x": -9.0,
+		"offset_y": 103.0,
+		"scale": 0.800000011920929
+	},
+	{
+		"ID": 217,
+		"name": "101_plain_daytime",
+		"background_name": "101_plain_daytime",
+		"offset_x": -9.0,
+		"offset_y": 48.0,
+		"scale": 0.800000011920929
+	},
+	{
+		"ID": 218,
+		"name": "heaven",
+		"background_name": "heaven",
+		"offset_x": 0.0,
+		"offset_y": 0.0,
+		"scale": 1.0
+	},
+	{
+		"ID": 219,
+		"name": "201_beast_night",
+		"background_name": "201_beast_night",
+		"offset_x": -78.0,
+		"offset_y": 30.0,
+		"scale": 0.800000011920929
+	},
+	{
+		"ID": 220,
+		"name": "201_border",
+		"background_name": "201_border",
+		"offset_x": 10.0,
+		"offset_y": 24.0,
+		"scale": 0.8500000238418579
+	},
+	{
+		"ID": 221,
+		"name": "201_center",
+		"background_name": "201_center",
+		"offset_x": -20.0,
+		"offset_y": -57.0,
+		"scale": 0.800000011920929
+	},
+	{
+		"ID": 222,
+		"name": "201_congress",
+		"background_name": "201_congress",
+		"offset_x": 5.0,
+		"offset_y": -75.0,
+		"scale": 1.0
+	},
+	{
+		"ID": 223,
+		"name": "201_room",
+		"background_name": "201_room",
+		"offset_x": -21.0,
+		"offset_y": -115.0,
+		"scale": 0.800000011920929
+	},
+	{
+		"ID": 224,
+		"name": "201_slum",
+		"background_name": "201_slum",
+		"offset_x": 1.0,
+		"offset_y": -54.0,
+		"scale": 0.800000011920929
+	},
+	{
+		"ID": 225,
+		"name": "101_hole",
+		"background_name": "101_hole",
+		"offset_x": 20.0,
+		"offset_y": 50.0,
+		"scale": 0.800000011920929
+	},
+	{
+		"ID": 226,
+		"name": "crystal_castle",
+		"background_name": "crystal_castle",
+		"offset_x": -18.0,
+		"offset_y": 34.0,
+		"scale": 0.7799999713897705
+	},
+	{
+		"ID": 227,
+		"name": "300_devil_room",
+		"background_name": "300_devil_room",
+		"offset_x": -14.0,
+		"offset_y": 24.0,
+		"scale": 0.800000011920929
+	},
+	{
+		"ID": 228,
+		"name": "300_devil_daytime01",
+		"background_name": "300_devil_daytime01",
+		"offset_x": 9.0,
+		"offset_y": 66.0,
+		"scale": 0.8500000238418579
+	},
+	{
+		"ID": 229,
+		"name": "300_devil_daytime02",
+		"background_name": "300_devil_daytime02",
+		"offset_x": -52.0,
+		"offset_y": 31.0,
+		"scale": 0.8500000238418579
+	},
+	{
+		"ID": 230,
+		"name": "300_devil_daytime03",
+		"background_name": "300_devil_daytime03",
+		"offset_x": -18.0,
+		"offset_y": -82.0,
+		"scale": 0.800000011920929
+	},
+	{
+		"ID": 231,
+		"name": "300_devil_night01",
+		"background_name": "300_devil_night01",
+		"offset_x": 9.0,
+		"offset_y": 66.0,
+		"scale": 0.8500000238418579
+	},
+	{
+		"ID": 232,
+		"name": "300_devil_night02",
+		"background_name": "300_devil_night02",
+		"offset_x": -52.0,
+		"offset_y": 31.0,
+		"scale": 0.8500000238418579
+	},
+	{
+		"ID": 233,
+		"name": "300_devil_night03",
+		"background_name": "300_devil_night03",
+		"offset_x": -18.0,
+		"offset_y": -82.0,
+		"scale": 0.800000011920929
+	},
+	{
+		"ID": 234,
+		"name": "400_angel_castle_daytime",
+		"background_name": "400_angel_castle_daytime",
+		"offset_x": -59.0,
+		"offset_y": -68.0,
+		"scale": 1.0
+	},
+	{
+		"ID": 235,
+		"name": "400_angel_castle_night",
+		"background_name": "400_angel_castle_night",
+		"offset_x": -59.0,
+		"offset_y": -68.0,
+		"scale": 1.0
+	},
+	{
+		"ID": 236,
+		"name": "400_angel_castle_room",
+		"background_name": "400_angel_castle_room",
+		"offset_x": 24.0,
+		"offset_y": -29.0,
+		"scale": 1.0
+	},
+	{
+		"ID": 237,
+		"name": "400_angel_pope_room",
+		"background_name": "400_angel_pope_room",
+		"offset_x": -34.0,
+		"offset_y": -39.0,
+		"scale": 0.8999999761581421
+	},
+	{
+		"ID": 238,
+		"name": "400_angel_town_daytime",
+		"background_name": "400_angel_town_daytime",
+		"offset_x": -5.0,
+		"offset_y": 66.0,
+		"scale": 0.800000011920929
+	},
+	{
+		"ID": 239,
+		"name": "400_angel_town_night",
+		"background_name": "400_angel_town_night",
+		"offset_x": -5.0,
+		"offset_y": 66.0,
+		"scale": 0.800000011920929
+	},
+	{
+		"ID": 240,
+		"name": "konosuba_mypage",
+		"background_name": "konosuba_mypage",
+		"offset_x": -55.0,
+		"offset_y": 119.0,
+		"scale": 0.8999999761581421
+	},
+	{
+		"ID": 241,
+		"name": "beast_world_town1",
+		"background_name": "beast_world_town1",
+		"offset_x": -39.0,
+		"offset_y": 68.0,
+		"scale": 0.949999988079071
+	},
+	{
+		"ID": 242,
+		"name": "beast_world_town2",
+		"background_name": "beast_world_town2",
+		"offset_x": -18.0,
+		"offset_y": 60.0,
+		"scale": 0.800000011920929
+	},
+	{
+		"ID": 243,
+		"name": "beast_world_underground",
+		"background_name": "beast_world_underground",
+		"offset_x": -21.0,
+		"offset_y": 63.0,
+		"scale": 0.800000011920929
+	},
+	{
+		"ID": 244,
+		"name": "underground_world",
+		"background_name": "underground_world",
+		"offset_x": -31.0,
+		"offset_y": -109.0,
+		"scale": 0.800000011920929
+	},
+	{
+		"ID": 245,
+		"name": "underground_world_1",
+		"background_name": "underground_world_1",
+		"offset_x": -9.0,
+		"offset_y": -38.0,
+		"scale": 0.7799999713897705
+	},
+	{
+		"ID": 246,
+		"name": "underground_world_2",
+		"background_name": "underground_world_2",
+		"offset_x": -27.0,
+		"offset_y": -41.0,
+		"scale": 0.7799999713897705
+	},
+	{
+		"ID": 247,
+		"name": "underground_world_3",
+		"background_name": "underground_world_3",
+		"offset_x": -11.0,
+		"offset_y": -67.0,
+		"scale": 0.800000011920929
+	},
+	{
+		"ID": 248,
+		"name": "bifrost",
+		"background_name": "bifrost",
+		"offset_x": -21.0,
+		"offset_y": 6.0,
+		"scale": 0.800000011920929
+	},
+	{
+		"ID": 249,
+		"name": "town_night_snow",
+		"background_name": "town_night_snow",
+		"offset_x": -116.0,
+		"offset_y": -154.0,
+		"scale": 1.100000023841858
+	},
+	{
+		"ID": 250,
+		"name": "profound",
+		"background_name": "profound",
+		"offset_x": -41.0,
+		"offset_y": 25.0,
+		"scale": 0.8399999737739563
+	},
+	{
+		"ID": 251,
+		"name": "profound_gate",
+		"background_name": "profound_gate",
+		"offset_x": -24.0,
+		"offset_y": -88.0,
+		"scale": 0.800000011920929
+	},
+	{
+		"ID": 252,
+		"name": "profound_nolight",
+		"background_name": "profound_nolight",
+		"offset_x": -41.0,
+		"offset_y": 25.0,
+		"scale": 0.8399999737739563
+	},
+	{
+		"ID": 253,
+		"name": "profound_1",
+		"background_name": "profound_1",
+		"offset_x": -35.0,
+		"offset_y": 207.0,
+		"scale": 0.8199999928474426
+	},
+	{
+		"ID": 254,
+		"name": "abyss_room",
+		"background_name": "abyss_room",
+		"offset_x": -9.0,
+		"offset_y": -62.0,
+		"scale": 0.7799999713897705
+	},
+	{
+		"ID": 255,
+		"name": "sea_palmbeach_day",
+		"background_name": "sea_palmbeach_day",
+		"offset_x": -22.0,
+		"offset_y": -52.0,
+		"scale": 0.7799999713897705
+	},
+	{
+		"ID": 256,
+		"name": "sea_palmbeach_evening",
+		"background_name": "sea_palmbeach_evening",
+		"offset_x": -22.0,
+		"offset_y": -52.0,
+		"scale": 0.7799999713897705
+	},
+	{
+		"ID": 257,
+		"name": "sea_palmbeach_night",
+		"background_name": "sea_palmbeach_night",
+		"offset_x": -22.0,
+		"offset_y": -52.0,
+		"scale": 0.7799999713897705
+	},
+	{
+		"ID": 258,
+		"name": "sea_landmark_day",
+		"background_name": "sea_landmark_day",
+		"offset_x": -26.0,
+		"offset_y": -88.0,
+		"scale": 0.800000011920929
+	},
+	{
+		"ID": 259,
+		"name": "sea_landmark_evening",
+		"background_name": "sea_landmark_evening",
+		"offset_x": -26.0,
+		"offset_y": -88.0,
+		"scale": 0.800000011920929
+	},
+	{
+		"ID": 260,
+		"name": "sea_landmark_night",
+		"background_name": "sea_landmark_night",
+		"offset_x": -26.0,
+		"offset_y": -88.0,
+		"scale": 0.800000011920929
+	},
+	{
+		"ID": 261,
+		"name": "parchment_map01",
+		"background_name": "parchment_map01",
+		"offset_x": -18.0,
+		"offset_y": -64.0,
+		"scale": 0.7799999713897705
+	},
+	{
+		"ID": 262,
+		"name": "mirror_elysium",
+		"background_name": "mirror_elysium",
+		"offset_x": -12.0,
+		"offset_y": 20.0,
+		"scale": 0.7900000214576721
+	},
+	{
+		"ID": 263,
+		"name": "IntegralNoah_ChapterSelect",
+		"background_name": "IntegralNoah_ChapterSelect",
+		"offset_x": -12.0,
+		"offset_y": 20.0,
+		"scale": 0.7900000214576721
+	},
+	{
+		"ID": 264,
+		"name": "masamune_castle",
+		"background_name": "masamune_castle",
+		"offset_x": 9.0,
+		"offset_y": 85.0,
+		"scale": 0.8500000238418579
+	},
+	{
+		"ID": 265,
+		"name": "masamune_arena",
+		"background_name": "masamune_arena",
+		"offset_x": -74.0,
+		"offset_y": 112.0,
+		"scale": 0.9300000071525574
+	},
+	{
+		"ID": 266,
+		"name": "parchment_map02",
+		"background_name": "parchment_map02",
+		"offset_x": -18.0,
+		"offset_y": -64.0,
+		"scale": 0.7799999713897705
+	},
+	{
+		"ID": 267,
+		"name": "in_city",
+		"background_name": "in_city",
+		"offset_x": -39.0,
+		"offset_y": 68.0,
+		"scale": 0.8199999928474426
+	},
+	{
+		"ID": 268,
+		"name": "in_downtown",
+		"background_name": "in_downtown",
+		"offset_x": -25.0,
+		"offset_y": 78.0,
+		"scale": 0.8199999928474426
+	},
+	{
+		"ID": 269,
+		"name": "in_downtown_night",
+		"background_name": "in_downtown_night",
+		"offset_x": -25.0,
+		"offset_y": 78.0,
+		"scale": 0.8199999928474426
+	},
+	{
+		"ID": 270,
+		"name": "in_downtown_evening",
+		"background_name": "in_downtown_evening",
+		"offset_x": -25.0,
+		"offset_y": 78.0,
+		"scale": 0.8199999928474426
+	},
+	{
+		"ID": 271,
+		"name": "in_downtown_evening",
+		"background_name": "in_downtown_evening",
+		"offset_x": -25.0,
+		"offset_y": 78.0,
+		"scale": 0.8199999928474426
+	},
+	{
+		"ID": 272,
+		"name": "in_ragnarok_institution",
+		"background_name": "in_ragnarok_institution",
+		"offset_x": -6.0,
+		"offset_y": 60.0,
+		"scale": 0.800000011920929
+	},
+	{
+		"ID": 273,
+		"name": "parchment_map03",
+		"background_name": "parchment_map03",
+		"offset_x": -17.0,
+		"offset_y": 50.0,
+		"scale": 0.7799999713897705
+	},
+	{
+		"ID": 274,
+		"name": "in_city_night",
+		"background_name": "in_city_night",
+		"offset_x": -39.0,
+		"offset_y": 68.0,
+		"scale": 0.8199999928474426
+	},
+	{
+		"ID": 275,
+		"name": "in_city_evening",
+		"background_name": "in_city_evening",
+		"offset_x": -39.0,
+		"offset_y": 68.0,
+		"scale": 0.8199999928474426
+	},
+	{
+		"ID": 276,
+		"name": "in_cityroad",
+		"background_name": "in_cityroad",
+		"offset_x": -14.0,
+		"offset_y": -77.0,
+		"scale": 0.7799999713897705
+	},
+	{
+		"ID": 277,
+		"name": "in_cityroad_night",
+		"background_name": "in_cityroad_night",
+		"offset_x": -14.0,
+		"offset_y": -77.0,
+		"scale": 0.7799999713897705
+	},
+	{
+		"ID": 278,
+		"name": "in_cityroad_evening",
+		"background_name": "in_cityroad_evening",
+		"offset_x": -14.0,
+		"offset_y": -77.0,
+		"scale": 0.7799999713897705
+	},
+	{
+		"ID": 279,
+		"name": "in_underwild",
+		"background_name": "in_underwild",
+		"offset_x": -19.0,
+		"offset_y": 32.0,
+		"scale": 0.7799999713897705
+	},
+	{
+		"ID": 280,
+		"name": "command_logo_tree",
+		"background_name": "command_logo_tree",
+		"offset_x": -20.0,
+		"offset_y": 43.0,
+		"scale": 0.7799999713897705
+	},
+	{
+		"ID": 281,
+		"name": "command_logo_tree_night",
+		"background_name": "command_logo_tree_night",
+		"offset_x": -20.0,
+		"offset_y": 43.0,
+		"scale": 0.7799999713897705
+	},
+	{
+		"ID": 282,
+		"name": "sea_floor_beach_day",
+		"background_name": "sea_floor_beach_day",
+		"offset_x": -12.0,
+		"offset_y": 56.0,
+		"scale": 0.800000011920929
+	},
+	{
+		"ID": 283,
+		"name": "sea_floor_jungle_day",
+		"background_name": "sea_floor_jungle_day",
+		"offset_x": -21.0,
+		"offset_y": -25.0,
+		"scale": 0.800000011920929
+	},
+	{
+		"ID": 284,
+		"name": "sea_floor_landmark_day",
+		"background_name": "sea_floor_landmark_day",
+		"offset_x": -26.0,
+		"offset_y": -88.0,
+		"scale": 0.800000011920929
+	},
+	{
+		"ID": 285,
+		"name": "sea_floor_resort_day",
+		"background_name": "sea_floor_resort_day",
+		"offset_x": -35.0,
+		"offset_y": 133.0,
+		"scale": 0.8199999928474426
+	},
+	{
+		"ID": 286,
+		"name": "sea_floor_room_byakko",
+		"background_name": "sea_floor_room_byakko",
+		"offset_x": -28.0,
+		"offset_y": 60.0,
+		"scale": 0.800000011920929
+	},
+	{
+		"ID": 287,
+		"name": "sea_floor_room_genbu",
+		"background_name": "sea_floor_room_genbu",
+		"offset_x": -28.0,
+		"offset_y": 60.0,
+		"scale": 0.800000011920929
+	},
+	{
+		"ID": 288,
+		"name": "sea_floor_room_suzaku",
+		"background_name": "sea_floor_room_suzaku",
+		"offset_x": -28.0,
+		"offset_y": 60.0,
+		"scale": 0.800000011920929
+	},
+	{
+		"ID": 289,
+		"name": "sea_floor_room_suzaku",
+		"background_name": "sea_floor_room_suzaku",
+		"offset_x": -28.0,
+		"offset_y": 60.0,
+		"scale": 0.800000011920929
+	},
+	{
+		"ID": 290,
+		"name": "yggdrasill_bedroom_light",
+		"background_name": "yggdrasill_bedroom_light",
+		"offset_x": 8.0,
+		"offset_y": 14.0,
+		"scale": 0.699999988079071
+	},
+	{
+		"ID": 291,
+		"name": "shirohebi_park",
+		"background_name": "shirohebi_park",
+		"offset_x": 1.0,
+		"offset_y": 0.0,
+		"scale": 1.0
+	},
+	{
+		"ID": 292,
+		"name": "in_underground_world",
+		"background_name": "in_underground_world",
+		"offset_x": -46.0,
+		"offset_y": -20.0,
+		"scale": 0.800000011920929
+	},
+	{
+		"ID": 293,
+		"name": "in_underground_world_room",
+		"background_name": "in_underground_world_room",
+		"offset_x": -72.0,
+		"offset_y": -20.0,
+		"scale": 0.800000011920929
+	},
+	{
+		"ID": 294,
+		"name": "aerial_shoot_blackfog",
+		"background_name": "aerial_shoot_blackfog",
+		"offset_x": -35.0,
+		"offset_y": 70.0,
+		"scale": 0.800000011920929
+	},
+	{
+		"ID": 295,
+		"name": "in_yggdrasill2",
+		"background_name": "in_yggdrasill2",
+		"offset_x": -5.0,
+		"offset_y": -30.0,
+		"scale": 0.800000011920929
+	},
+	{
+		"ID": 296,
+		"name": "in_yggdrasill2_night",
+		"background_name": "in_yggdrasill2_night",
+		"offset_x": -5.0,
+		"offset_y": -30.0,
+		"scale": 0.800000011920929
+	},
+	{
+		"ID": 297,
+		"name": "in_yggdrasill_up",
+		"background_name": "in_yggdrasill_up",
+		"offset_x": -20.0,
+		"offset_y": 43.0,
+		"scale": 0.7799999713897705
+	},
+	{
+		"ID": 298,
+		"name": "in_yggdrasill_up_night",
+		"background_name": "in_yggdrasill_up_night",
+		"offset_x": -20.0,
+		"offset_y": 43.0,
+		"scale": 0.7799999713897705
+	},
+	{
+		"ID": 299,
+		"name": "in_city_collapse",
+		"background_name": "in_city_collapse",
+		"offset_x": -39.0,
+		"offset_y": 68.0,
+		"scale": 0.8199999928474426
+	},
+	{
+		"ID": 300,
+		"name": "in_city_collapse_night",
+		"background_name": "in_city_collapse_night",
+		"offset_x": -39.0,
+		"offset_y": 68.0,
+		"scale": 0.8199999928474426
+	},
+	{
+		"ID": 301,
+		"name": "in_cityroad_collapse",
+		"background_name": "in_cityroad_collapse",
+		"offset_x": -14.0,
+		"offset_y": -77.0,
+		"scale": 0.7799999713897705
+	},
+	{
+		"ID": 302,
+		"name": "in_underground_room_cocoon",
+		"background_name": "in_underground_room_cocoon",
+		"offset_x": -72.0,
+		"offset_y": -20.0,
+		"scale": 0.800000011920929
+	},
+	{
+		"ID": 303,
+		"name": "in_perspective",
+		"background_name": "in_perspective",
+		"offset_x": -19.0,
+		"offset_y": 14.0,
+		"scale": 0.7599999904632568
+	},
+	{
+		"ID": 304,
+		"name": "2nd_anniversary_mypage",
+		"background_name": "2nd_anniversary_mypage",
+		"offset_x": 0.0,
+		"offset_y": 0.0,
+		"scale": 1.0
+	},
+	{
+		"ID": 305,
+		"name": "eventbg_kizunaai",
+		"background_name": "eventbg_kizunaai",
+		"offset_x": 0.0,
+		"offset_y": 0.0,
+		"scale": 1.0
+	},
+	{
+		"ID": 306,
+		"name": "eventbg_newyear",
+		"background_name": "eventbg_newyear",
+		"offset_x": 0.0,
+		"offset_y": 0.0,
+		"scale": 1.0
+	},
+	{
+		"ID": 307,
+		"name": "town_2",
+		"background_name": "town_2",
+		"offset_x": -116.0,
+		"offset_y": -154.0,
+		"scale": 1.100000023841858
+	},
+	{
+		"ID": 308,
+		"name": "town_night_2",
+		"background_name": "town_night_2",
+		"offset_x": -116.0,
+		"offset_y": -154.0,
+		"scale": 1.100000023841858
+	},
+	{
+		"ID": 309,
+		"name": "sea_room_day",
+		"background_name": "sea_room_day",
+		"offset_x": -138.0,
+		"offset_y": 131.0,
+		"scale": 0.8500000238418579
+	},
+	{
+		"ID": 310,
+		"name": "office_room",
+		"background_name": "office_room",
+		"offset_x": -41.0,
+		"offset_y": -105.0,
+		"scale": 0.800000011920929
+	},
+	{
+		"ID": 311,
+		"name": "corridor_night",
+		"background_name": "corridor_night",
+		"offset_x": -9.0,
+		"offset_y": 9.0,
+		"scale": 0.8500000238418579
+	},
+	{
+		"ID": 312,
+		"name": "infirmary_night",
+		"background_name": "infirmary_night",
+		"offset_x": -30.0,
+		"offset_y": -1.0,
+		"scale": 0.75
+	},
+	{
+		"ID": 313,
+		"name": "courtyard_night",
+		"background_name": "courtyard_night",
+		"offset_x": -37.0,
+		"offset_y": 105.0,
+		"scale": 0.8399999737739563
+	},
+	{
+		"ID": 314,
+		"name": "SEAsummer_fes_day",
+		"background_name": "SEAsummer_fes_day",
+		"offset_x": -52.0,
+		"offset_y": 54.0,
+		"scale": 0.800000011920929
+	},
+	{
+		"ID": 315,
+		"name": "SEAsummer_fes_evening",
+		"background_name": "SEAsummer_fes_evening",
+		"offset_x": -52.0,
+		"offset_y": 54.0,
+		"scale": 0.800000011920929
+	},
+	{
+		"ID": 316,
+		"name": "SEAsummer_fes_night",
+		"background_name": "SEAsummer_fes_night",
+		"offset_x": -52.0,
+		"offset_y": 54.0,
+		"scale": 0.800000011920929
+	},
+	{
+		"ID": 317,
+		"name": "SEAsummer_indoor",
+		"background_name": "SEAsummer_indoor",
+		"offset_x": 0.0,
+		"offset_y": 60.0,
+		"scale": 0.8500000238418579
+	},
+	{
+		"ID": 318,
+		"name": "SEAsummer_plain_night",
+		"background_name": "SEAsummer_plain_night",
+		"offset_x": -45.0,
+		"offset_y": 80.0,
+		"scale": 0.8500000238418579
+	},
+	{
+		"ID": 319,
+		"name": "SEAsummer_pond",
+		"background_name": "SEAsummer_pond",
+		"offset_x": -38.0,
+		"offset_y": -82.0,
+		"scale": 0.8500000238418579
+	},
+	{
+		"ID": 320,
+		"name": "SEAsummer_town1",
+		"background_name": "SEAsummer_town1",
+		"offset_x": -37.0,
+		"offset_y": 0.0,
+		"scale": 0.8500000238418579
+	},
+	{
+		"ID": 321,
+		"name": "SEAsummer_town2",
+		"background_name": "SEAsummer_town2",
+		"offset_x": -10.0,
+		"offset_y": 30.0,
+		"scale": 0.7799999713897705
+	},
+	{
+		"ID": 322,
+		"name": "SEAsummer_town3",
+		"background_name": "SEAsummer_town3",
+		"offset_x": -20.0,
+		"offset_y": 0.0,
+		"scale": 0.7799999713897705
+	},
+	{
+		"ID": 323,
+		"name": "SEAsummer_town4",
+		"background_name": "SEAsummer_town4",
+		"offset_x": -22.0,
+		"offset_y": 22.0,
+		"scale": 0.800000011920929
+	},
+	{
+		"ID": 324,
+		"name": "SEAsummer_town_evening",
+		"background_name": "SEAsummer_town_evening",
+		"offset_x": -12.0,
+		"offset_y": 50.0,
+		"scale": 0.7799999713897705
+	},
+	{
+		"ID": 325,
+		"name": "eventbg_slime",
+		"background_name": "eventbg_slime",
+		"offset_x": 0.0,
+		"offset_y": 0.0,
+		"scale": 1.0
+	},
+	{
+		"ID": 326,
+		"name": "eventbg_SEAsummer",
+		"background_name": "eventbg_SEAsummer",
+		"offset_x": 0.0,
+		"offset_y": 0.0,
+		"scale": 1.0
+	},
+	{
+		"ID": 327,
+		"name": "eventbg_SEAsummer_night",
+		"background_name": "eventbg_SEAsummer_night",
+		"offset_x": 0.0,
+		"offset_y": 0.0,
+		"scale": 1.0
+	},
+	{
+		"ID": 328,
+		"name": "cityroad",
+		"background_name": "cityroad",
+		"offset_x": -10.0,
+		"offset_y": -43.0,
+		"scale": 0.7799999713897705
+	},
+	{
+		"ID": 329,
+		"name": "eventbg_Kamakura",
+		"background_name": "eventbg_Kamakura",
+		"offset_x": 0.0,
+		"offset_y": 0.0,
+		"scale": 1.0
+	},
+	{
+		"ID": 330,
+		"name": "hell_gate",
+		"background_name": "hell_gate",
+		"offset_x": -50.0,
+		"offset_y": 79.0,
+		"scale": 0.800000011920929
+	},
+	{
+		"ID": 331,
+		"name": "eventbg_halloween",
+		"background_name": "eventbg_halloween",
+		"offset_x": 0.0,
+		"offset_y": 0.0,
+		"scale": 1.0
+	},
+	{
+		"ID": 332,
+		"name": "yggdrasill_interior",
+		"background_name": "yggdrasill_interior",
+		"offset_x": 29.0,
+		"offset_y": 104.0,
+		"scale": 0.75
+	},
+	{
+		"ID": 333,
+		"name": "eventbg_Forhang",
+		"background_name": "eventbg_Forhang",
+		"offset_x": 0.0,
+		"offset_y": 0.0,
+		"scale": 1.0
+	},
+	{
+		"ID": 334,
+		"name": "snow_highland_2",
+		"background_name": "snow_highland_2",
+		"offset_x": -9.0,
+		"offset_y": 44.0,
+		"scale": 0.800000011920929
+	},
+	{
+		"ID": 335,
+		"name": "snow_highland_3",
+		"background_name": "snow_highland_3",
+		"offset_x": -22.0,
+		"offset_y": 53.0,
+		"scale": 0.7799999713897705
+	},
+	{
+		"ID": 336,
+		"name": "eventbg_highland_snow",
+		"background_name": "eventbg_highland_snow",
+		"offset_x": 0.0,
+		"offset_y": 0.0,
+		"scale": 1.0
+	},
+	{
+		"ID": 337,
+		"name": "eventbg_in_city",
+		"background_name": "eventbg_in_city",
+		"offset_x": 0.0,
+		"offset_y": 0.0,
+		"scale": 1.0
+	},
+	{
+		"ID": 338,
+		"name": "eventbg_easter20",
+		"background_name": "eventbg_easter20",
+		"offset_x": 0.0,
+		"offset_y": 0.0,
+		"scale": 1.0
+	},
+	{
+		"ID": 339,
+		"name": "eventbg_004_outland",
+		"background_name": "eventbg_004_outland",
+		"offset_x": 0.0,
+		"offset_y": 0.0,
+		"scale": 1.0
+	},
+	{
+		"ID": 340,
+		"name": "eventbg_SEAsummer_fountain",
+		"background_name": "eventbg_SEAsummer_fountain",
+		"offset_x": 0.0,
+		"offset_y": 0.0,
+		"scale": 1.0
+	},
+	{
+		"ID": 341,
+		"name": "eventbg_SEAsummer_fountain_resort",
+		"background_name": "eventbg_SEAsummer_fountain_resort",
+		"offset_x": 0.0,
+		"offset_y": 0.0,
+		"scale": 1.0
+	}
+]

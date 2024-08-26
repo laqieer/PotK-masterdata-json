@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 292004198,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 220042 \"parashu_k_0027\"\n# se \"SE_0733\"\n@パラシュ\n不正解だよ、マスター\n\n@パラシュ\nマスターはもっとボクのことを\n知っていると思っていたよ\n\n# textflame 0 0\n@\n残念そうに言うパラシュ\nしかし、目を見開いた\n\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n@パラシュ\nいや、でも\nこれからもっとボクを\n知ってもらえればいいのか\n\n@パラシュ\nそうだね、マスター\nまだまだ時間はある\n\n# voice 220042 \"parashu_k_0004\"\n# face %(unit_a)s \"shy\"\n@パラシュ\nしっかりボクのことを\n知ってもらおう\n\n# textflame 0 0\n@\n顔は笑顔だが、\nその声色は固い\n\n@\nもっと普段から彼女のことを\n知っていればよかった\n\n@\nそう思いながら、\n彼女の言葉を聞き続けた…\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

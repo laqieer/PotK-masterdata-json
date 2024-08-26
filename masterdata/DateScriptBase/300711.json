@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 300711,
+		"script": ";;,長い歴史を感じる 大\n;;,観光名所みたいだ 小\n;;,物悲しく見える 中\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_castle\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 0 0\n@\nマスターはゲイボルグを連れて、\n古城へと訪れていた\n\n# textflame 1 1\n@ゲイボルグ\n城があるとは聞いていたが…\nもはや主のいない場所のようだな\n\n# eye %(unit_a)s \"close\"\n# voice 3007 \"gaiborugu_0039\"\n@ゲイボルグ\nだがこの雰囲気…\n嫌いではない\n\n# eye %(unit_a)s \"normal\"\n# voice 3007 \"gaiborugu_0001\"\n@ゲイボルグ\nマスターはどうだ？\nこの城跡を見て、なにか感じるか？\n\n# select \"長い歴史を感じる\" \"select_label_01\" \"観光名所みたいだ\" \"select_label_02\" \"物悲しく見える\" \"select_label_03\"\nマスターはどうだ？\nこの城跡を見て、なにか感じるか？\n\n# label \"select_label_01\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_02\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_03\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_end\"\n# waitandnext 0.1\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

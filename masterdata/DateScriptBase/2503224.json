@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 2503224,
+		"script": ";;B\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_fireworks\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 0 0\n@\n射的の屋台で\n見事な腕前を見せるティファレト\n\n# textflame 1 1\n# face %(unit_a)s \"happy\"\n@ティファレト\nふう…\nこんなところでしょうか\n\n# textflame 1 1\n# voice 550321 \"tiphereth_ca_0030\"\n@ティファレト\nふふっ、ありがとうございます\n日ごろの鍛錬の賜物ですね\n\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 550321 \"tiphereth_ca_0002\"\n@ティファレト\n主様、こちらの景品を\n受け取ってくれませんか？\n\n# textflame 1 1\n@ティファレト\n花火大会に誘って\nくださったお礼です\nふふふ…\n\n# textflame 1 1\n# face %(unit_a)s \"shy\"\n# voice 550321 \"tiphereth_ca_0022\"\n@ティファレト\n…え？\nお返しをくださるのですか？\nそんな、お気になさらずっ\n\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n@ティファレト\nう、うぅ…\n主様がそこまでおっしゃるなら\n\n# textflame 1 1\n# face %(unit_a)s \"happy\"\n@ティファレト\nでは、よろしければ…\nあちらのぬいぐるみを\nとっていただけませんか？\n\n# textflame 1 1\n@ティファレト\n先ほどの私の番に、\nぜひお迎えしたいと\n思っていたのですが…\n\n# textflame 1 1\n@ティファレト\nいざ目の前にすると、\nとっても可愛くて\nたまらなくなって…\n\n# textflame 0 0\n@\nファンシーな理由を聞き、\nふっと頬を緩めてしまうマスター\n\n# textflame 0 0\n@\nティファレトの希望を叶えるべく、\nマスターは意気揚々と\nおもちゃの銃を構えるのだった\n;;-----------------------------------------\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

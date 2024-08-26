@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 301725,
+		"script": ";;起こしてる,大\n;;そんなわけない,中\n;;大切な同胞,小\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_room\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 0 0\n@\n夜も更けた頃、\nヴォータンの部屋に\nお邪魔したマスターは…\n\n# voice 3017 \"wotan_0002\"\n# face %(unit_a)s \"angry\"\n# textflame 1 1\n@ヴォータン\n部屋に入れた\n私が言うのも難だが…\nヘンな気は起こすなよ？\n\n@ヴォータン\n私はキラープリンセスであって、\nお前はマスターとはいえ人間だ\n親密な関係になるのは問題が…\n;;----------------------------------------\n\n# voice 3017 \"wotan_0022\"\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@%(unitName:unit_a)s\nなんだその目は…\nまさかお前、私にヘンな気\n起こしてるのか！？\n\n# textflame 0 0\n@\n大切な同胞…\n\n# textflame 1 1\n# voice 3017 \"wotan_0003\"\n@ヴォータン\nそ、そうだな…\n\n@ヴォータン\n私とお前の関係は\nそれ以外にないだろうな！\n\n# voice 3017 \"wotan_0004\"\n# face %(unit_a)s \"smile\"\n@ヴォータン\nふふっ…♪\nたまにはお前を\nねぎらってやろう\n\n@ヴォータン\nそこに座っていろ、\nお茶をいれてきてやる\n\n# textflame 0 0\n@\nお茶をしながら語り合い\nマスターは彼女との\n友情を深めたのだった…\n;;----------------------------------------\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

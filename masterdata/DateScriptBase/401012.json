@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 401012,
+		"script": ";;選択肢C(大当たり)\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_park_day\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# voice 4010 \"Abaris_0031\"\n# face %(unit_a)s \"sad\"\n@アバリス\nす、すみません！\n付き合わせてしまって…\n\n# voice 4010 \"Abaris_0001\"\n# face %(unit_a)s \"normal\"\n@アバリス\nあれ…マスター？\nじっと見つめて…\nど、どうしたんですか…？\n\n# textflame 0 0\n@\n存在感が薄いと\nいつも気にしているアバリスが\n太陽に照らされて輝いて見えた\n\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@アバリス\n眩しいって…\n太陽じゃなくて、わた…し？\n\n@アバリス\nいえいえいえ！\n\n# voice 4010 \"Abaris_0011\"\n@アバリス\nそ、そんなわけないですよね！\n\n# textflame 0 0\n@\nマスターはアバリスに見惚れて\n彼女の言葉が耳に入っていなかった\n\n# voice 4010 \"Abaris_0042\"\n# face %(unit_a)s \"normal\"\n# textflame 1 1\n@アバリス\nあのぅ……\nな、なんとか言ってください…\nマスタ～…！！\n\n# textflame 0 0\n@\nはっと我に返る目の前のアバリスは、\n太陽のように\n真っ赤な顔をしていた――\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

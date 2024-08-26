@@ -1,0 +1,62 @@
+[
+	{
+		"ID": 6063,
+		"unitID": 2501411,
+		"questionID": 9501401,
+		"script": ";;銃,1\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 5014 \"mami_0002\"\n@%(unitName:unit_a)s\n今日はありがとう\n\n# textflame 0 0\n@\nどうしたの、急に？\nと尋ねるマスター\n\n# voice 5014 \"mami_0003\"\n# textflame 1 1\n@%(unitName:unit_a)s\n改めて、お礼を言いたくて\n\n@%(unitName:unit_a)s\nどれもこれも\n素敵な思い出だけど…\n\n@%(unitName:unit_a)s\n海沿いのカフェでの\nティータイム\n\n@%(unitName:unit_a)s\nとても優雅な時間だったわ\n\n# eye %(unit_a)s \"close\"\n@%(unitName:unit_a)s\nじゃあ…ティータイムの後は\n\n# eye %(unit_a)s \"normal\"\n# voice 5014 \"mami_0004\"\n@%(unitName:unit_a)s\nクイズタイムでもいいかしら？\n\n# textflame 0 0\n@\nえ？クイズタイム？\nどういうこと？\n不思議そうにマスターが尋ねる\n\n# textflame 1 1\n# face %(unit_a)s \"happy\"\n@%(unitName:unit_a)s\n今日の締めくくりに、\nもう一つ素敵な思い出を\n作りましょう\n\n@%(unitName:unit_a)s\n準備はいい？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の武器はなにかしら？　\n\n# se \"SE_0734\"\n# select \"銃\" \"select_label_1\" \"杖\" \"select_label_2\" \"斧\" \"select_label_3\"\n私の武器はなにかしら？　\n"
+	},
+	{
+		"ID": 6064,
+		"unitID": 2501411,
+		"questionID": 9501402,
+		"script": ";;オレンジ色,2\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 5014 \"mami_0002\"\n@%(unitName:unit_a)s\n今日はありがとう\n\n# textflame 0 0\n@\nどうしたの、急に？\nと尋ねるマスター\n\n# voice 5014 \"mami_0003\"\n# textflame 1 1\n@%(unitName:unit_a)s\n改めて、お礼を言いたくて\n\n@%(unitName:unit_a)s\nどれもこれも\n素敵な思い出だけど…\n\n@%(unitName:unit_a)s\n海沿いのカフェでの\nティータイム\n\n@%(unitName:unit_a)s\nとても優雅な時間だったわ\n\n# eye %(unit_a)s \"close\"\n@%(unitName:unit_a)s\nじゃあ…ティータイムの後は\n\n# eye %(unit_a)s \"normal\"\n# voice 5014 \"mami_0004\"\n@%(unitName:unit_a)s\nクイズタイムでもいいかしら？\n\n# textflame 0 0\n@\nえ？クイズタイム？\nどういうこと？\n不思議そうにマスターが尋ねる\n\n# textflame 1 1\n# face %(unit_a)s \"happy\"\n@%(unitName:unit_a)s\n今日の締めくくりに、\nもう一つ素敵な思い出を\n作りましょう\n\n@%(unitName:unit_a)s\n準備はいい？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私のソウルジェムの色は\nわかるかしら？\n\n# se \"SE_0734\"\n# select \"青色\" \"select_label_1\" \"オレンジ色\" \"select_label_2\" \"ピンク色\" \"select_label_3\"\n私のソウルジェムの色は\nわかるかしら？\n"
+	},
+	{
+		"ID": 6065,
+		"unitID": 2501411,
+		"questionID": 9501403,
+		"script": ";;雷,3\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 5014 \"mami_0002\"\n@%(unitName:unit_a)s\n今日は誘ってくれて、\nありがとう\n\n@%(unitName:unit_a)s\nとても素敵な休日だったわ\n\n@%(unitName:unit_a)s\nでも、ふと思ったの\n\n# face %(unit_a)s \"sad\"\n# voice 5014 \"mami_0028\"\n@%(unitName:unit_a)s\n私のことを\nどれくらい分かって\nくれてるのかなって…\n\n# face %(unit_a)s \"normal\"\n@%(unitName:unit_a)s\nそうだわ\n\n@%(unitName:unit_a)s\n今からクイズにして出題するから、\n答えてもらってもいいかしら？\n\n@%(unitName:unit_a)s\nいくわよ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の属性はわかるかしら？\n\n# se \"SE_0734\"\n# select \"氷\" \"select_label_1\" \"炎\" \"select_label_2\" \"雷\" \"select_label_3\"\n私の属性はわかるかしら？\n"
+	},
+	{
+		"ID": 6066,
+		"unitID": 2501411,
+		"questionID": 9501404,
+		"script": ";;三年生,3\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 5014 \"mami_0002\"\n@%(unitName:unit_a)s\n今日は誘ってくれて、\nありがとう\n\n@%(unitName:unit_a)s\nとても素敵な休日だったわ\n\n@%(unitName:unit_a)s\nでも、ふと思ったの\n\n# face %(unit_a)s \"sad\"\n# voice 5014 \"mami_0028\"\n@%(unitName:unit_a)s\n私のことを\nどれくらい分かって\nくれてるのかなって…\n\n# face %(unit_a)s \"normal\"\n@%(unitName:unit_a)s\nそうだわ\n\n@%(unitName:unit_a)s\n今からクイズにして出題するから、\n答えてもらってもいいかしら？\n\n@%(unitName:unit_a)s\nいくわよ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私は見滝原中学校の\n何年生？\n\n# se \"SE_0734\"\n# select \"二年生\" \"select_label_1\" \"一年生\" \"select_label_2\" \"三年生\" \"select_label_3\"\n私は見滝原中学校の\n何年生？\n"
+	},
+	{
+		"ID": 6067,
+		"unitID": 2501411,
+		"questionID": 9501405,
+		"script": ";;花,1\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 5014 \"mami_0002\"\n@%(unitName:unit_a)s\n今日はとっても楽しかったわ\n\n# face %(unit_a)s \"sad\"\n@%(unitName:unit_a)s\nこっちの世界に来てから、\n無理してかっこつけて…\n\n@%(unitName:unit_a)s\n色々抱え込みそうになっていた私を\n優しく導いてくれて…\n\n# face %(unit_a)s \"normal\"\n# voice 5014 \"mami_0004\"\n@%(unitName:unit_a)s\n感謝してるわ\n\n@%(unitName:unit_a)s\nあなたには\n何でも相談できそうだわ\n\n# textflame 0 0\n@\n何でも相談して、と\n胸を張るマスター\n\n# textflame 1 1\n@%(unitName:unit_a)s\nそれじゃあ、私のこと\nどのくらい知っているか\nクイズで試してみていいかしら？\n\n@%(unitName:unit_a)s\n準備はいい？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私のソウルジェムの形は\nわかるかしら？\n\n# se \"SE_0734\"\n# select \"花\" \"select_label_1\" \"雫\" \"select_label_2\" \"船\" \"select_label_3\"\n私のソウルジェムの形は\nわかるかしら？\n"
+	},
+	{
+		"ID": 6068,
+		"unitID": 2501411,
+		"questionID": 9501406,
+		"script": ";;ティロ・フィナーレ,2\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 5014 \"mami_0002\"\n@%(unitName:unit_a)s\n今日はとっても楽しかったわ\n\n# face %(unit_a)s \"sad\"\n@%(unitName:unit_a)s\nこっちの世界に来てから、\n無理してかっこつけて…\n\n@%(unitName:unit_a)s\n色々抱え込みそうになっていた私を\n優しく導いてくれて…\n\n# face %(unit_a)s \"normal\"\n# voice 5014 \"mami_0004\"\n@%(unitName:unit_a)s\n感謝してるわ\n\n@%(unitName:unit_a)s\nあなたには\n何でも相談できそうだわ\n\n# textflame 0 0\n@\n何でも相談して、と\n胸を張るマスター\n\n# textflame 1 1\n@%(unitName:unit_a)s\nそれじゃあ、私のこと\nどのくらい知っているか\nクイズで試してみていいかしら？\n\n@%(unitName:unit_a)s\n準備はいい？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の技の名前は？\n\n# se \"SE_0734\"\n# select \"ティロ・フィニッシュ\" \"select_label_1\" \"ティロ・フィナーレ\" \"select_label_2\" \"ティロ・エピローグ\" \"select_label_3\"\n私の技の名前は？\n"
+	},
+	{
+		"ID": 6069,
+		"unitID": 2501411,
+		"questionID": 9501407,
+		"script": ";;イエロー,2\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n@%(unitName:unit_a)s\n………\n\n# textflame 0 0\n@\n無言のまま、\n寂しげな目を落とす彼女に\nどうしたの？と尋ねるマスター\n\n# textflame 1 1\n# face %(unit_a)s \"angry\"\n# voice 5014 \"mami_0002\"\n@%(unitName:unit_a)s\n今からクイズを出すわ\n\n# textflame 0 0\n@\nえ？なぜ、急に？\nマスターがさらに尋ねる\n\n# textflame 1 1\n@%(unitName:unit_a)s\n異世界から来た…\n\n@%(unitName:unit_a)s\n私のこと、\nどれくらい知ってくれているのか\n気になっちゃって…\n\n# face %(unit_a)s \"normal\"\n# voice 5014 \"mami_0003\"\n@%(unitName:unit_a)s\nそれじゃあ、いくわよ\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の髪の色は？\n\n# se \"SE_0734\"\n# select \"青色\" \"select_label_1\" \"イエロー\" \"select_label_2\" \"グレー\" \"select_label_3\"\n私の髪の色は？\n"
+	},
+	{
+		"ID": 6070,
+		"unitID": 2501411,
+		"questionID": 9501408,
+		"script": ";;交通事故に遭った時,2\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n@%(unitName:unit_a)s\n………\n\n# textflame 0 0\n@\n無言のまま、\n寂しげな目を落とす彼女に\nどうしたの？と尋ねるマスター\n\n# textflame 1 1\n# face %(unit_a)s \"angry\"\n# voice 5014 \"mami_0002\"\n@%(unitName:unit_a)s\n今からクイズを出すわ\n\n# textflame 0 0\n@\nえ？なぜ、急に？\nマスターがさらに尋ねる\n\n# textflame 1 1\n@%(unitName:unit_a)s\n異世界から来た…\n\n@%(unitName:unit_a)s\n私のこと、\nどれくらい知ってくれているのか\n気になっちゃって…\n\n# face %(unit_a)s \"normal\"\n# voice 5014 \"mami_0003\"\n@%(unitName:unit_a)s\nそれじゃあ、いくわよ\n;;---------------------------------\n\n@%(unitName:unit_a)s\nキュゥべえは私がどんな時に\n契約を持ちかけたかしら？\n\n# se \"SE_0734\"\n# select \"お風呂に入ってる時\" \"select_label_1\" \"交通事故に遭った時\" \"select_label_2\" \"食事時\" \"select_label_3\"\nキュゥべえは私がどんな時に\n契約を持ちかけたかしら？\n"
+	},
+	{
+		"ID": 6071,
+		"unitID": 2501411,
+		"questionID": 9501409,
+		"script": "\n;;私,3\n# se \"SE_0734\"\n# select \"あたい\" \"select_label_1\" \"マミ\" \"select_label_2\" \"私\" \"select_label_3\"\n巴 マミの一人称は\n次のうちどれ？\n"
+	},
+	{
+		"ID": 6072,
+		"unitID": 2501411,
+		"questionID": 9501410,
+		"script": "\n;;ティータイム,1\n# se \"SE_0734\"\n# select \"ティータイム\" \"select_label_1\" \"入浴タイム\" \"select_label_2\" \"睡眠タイム\" \"select_label_3\"\n巴 マミの好きなことは？\n"
+	}
+]

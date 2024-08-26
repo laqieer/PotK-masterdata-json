@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 902080003,
+		"script": ";;【世田谷美術館二階大広間】\n# script \"lisp\"\n# background \"laboratory_area\"\n# bgmfile \"bgm166\" \"BgmPJZero001\" 0\n# body 23\n# pos 23 1\n# scale 23 0.8 0\n# face 23 \"angry_1\"\n# body 960017\n# pos 960017 5\n# scale 960017 0.8 0\n# textflame 1 1\n# textboxarrow 0 3\n# chara 960017\n# voice 8031 \"belphegor_0013\"\n# face 960017 \"amazed\"\n@ベルフェゴール\nチイッ…！\nこの私が押し負けるだなんてっ…\n仕方ないわねぇっ\n\n# serif 1\n# textboxarrow 1 1\n# textboxarrow 0 0\n# rightout 960017 0.8\n# chara 23\n# voice 11002 \"laevateinm_ww_movie1_1015\"\n# face 23 \"angry_2\"\n@ゼロ\n待て！\n逃がすかっ！！\n"
+	}
+]

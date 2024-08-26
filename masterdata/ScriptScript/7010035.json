@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 7010035,
+		"script": ";;-------------------------------------\n;;塔シナリオ　ウロボロス　遭遇\n;;-------------------------------------\n# script \"lisp\"\n;;-------------------------------------\n# body 3830008\n# pos 3830008 3\n# scale 3830008 0.8 0\n# alpha 3830008 1 0\n# mask 3830008 off\n;;-------------------------------------\n# textwindow \"normal\"\n# textflame 1 1\n# textboxarrow 0 2\n@ウロボロス\nほう…面白い\n幻獣の王である我に挑むか\n\n# textflame 1 1\n# textboxarrow 0 2\n@ウロボロス\n生死の輪廻さえも巡る\n我が身を屠ろうなど…\n\n# textflame 1 1\n# textboxarrow 0 2\n@ウロボロス\nやってみるがいい\n\n# textflame 1 1\n# textboxarrow 0 2\n@ウロボロス\nこのウロボロスだけが\n永劫に在り続ける！\n\n# textflame 1 1\n# textboxarrow 0 2\n@ウロボロス\n摂理には逆らえない\n全ては無駄と\nその身で思い知るがいい！\n\n# textflame 1 1\n# textboxarrow 0 2\n@ウロボロス\nいくぞ！\n矮小なる者よ\n\n# textflame 1 1\n# textboxarrow 0 2\n@ウロボロス\n貴様の魂を\n輪廻の輪からも排除し、\n消滅させてくれる！"
+	}
+]

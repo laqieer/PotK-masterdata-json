@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 95024399,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# se \"SE_0732\"\n# voice 5024 \"saika_0004\"\n@雑賀\n覚えとって…くれたんすね\n\n@雑賀\nほんま…嬉しいわ\n\n# voice 5024 \"saika_0022\"\n@雑賀\n…あれ？\n\n# face %(unit_a)s \"sad\"\n@雑賀\nあぁ！\nみかん型アンドロイドが\nオフに…！\n\n# eye %(unit_a)s \"close\"\n@雑賀\nまぁ、ええわ…\n正直なほんまの気持ち…\n伝えたいから、このままで…\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"smile\"\n# voice 5024 \"saika_0001\"\n@雑賀\nマスター、\n今日はほんまに…\n\n# voice 5024 \"saika_0003\"\n@雑賀\nおおきに\n\n# textflame 0 0\n@\n照れながらも、\n真っすぐに見つめてくる彼女\n\n@\nその瞳は、\n喜びに満ちていて…\n\n@\nマスターは二人の絆が\nまた深まったのを実感した…\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

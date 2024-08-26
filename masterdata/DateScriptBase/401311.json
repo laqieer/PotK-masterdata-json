@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 401311,
+		"script": ";;,君には敵わないよ（大）\n;;,なんだか詩的だね（小）\n;;,でも、キレイだね（中）\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_castle\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 0 0\n@\nアフロディーテと二人で\n古城へとやって来たマスター\n\n# textflame 1 1\n@アフロディーテ\nああ…\n\n# eye %(unit_a)s \"close\"\n# voice 4013 \"aphrodite_0041\"\n@アフロディーテ\n城跡に沈みゆく夕陽が差して\nとても美しいですわね\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"sad\"\n@アフロディーテ\nけれどあれは、終末の美…\n\n# voice 4013 \"aphrodite_0003\"\n@アフロディーテ\n過ぎ去ったモノの残滓に\nすぎないのです…\n\n# select \"君には敵わないよ\" \"select_label_01\" \"なんだか詩的だね\" \"select_label_02\" \"でも、キレイだね\" \"select_label_03\"\n過ぎ去ったモノの残滓に\nすぎないのです…\n\n# label \"select_label_01\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_02\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_03\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_end\"\n# waitandnext 0.1\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

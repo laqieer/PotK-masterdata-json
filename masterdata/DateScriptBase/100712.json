@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 100712,
+		"script": ";;その誓いを受けよう　大\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_castle\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# voice 1007 \"Arondaito_0041\"\n@アロンダイト\nあ、ありがとうございます！\n\n# eye %(unit_a)s \"close\"\n@アロンダイト\n…騎士の真理を守り\n主と弱き人々、善良な働く人々を\n護ることを誓います\n\n# eye %(unit_a)s \"normal\"\n@アロンダイト\n決して裏切りません\nマスターは私のすべてですから\n\n# face %(unit_a)s \"normal\"\n@アロンダイト\nなのでずっとお側に…\n\n# textflame 0 0\n@\nアロンダイトは\nじっとマスターを見つめる\n\n# textflame 1 1\n# voice 1007 \"Arondaito_0004\"\n@アロンダイト\n…なんだか\n身体の中が洗い流され\n澄んでいくような気がします\n\n# eye %(unit_a)s \"close\"\n@アロンダイト\n今日のことは一生忘れません\n私とマスター\n二人だけの思い出…\n\n# eye %(unit_a)s \"normal\"\n@アロンダイト\nこの記憶があれば\n私は心折れることなく\n戦えます…\n\n# textflame 0 0\n@\nアロンダイトの熱っぽい視線と\nマスターのそれが絡み合う\n\n@\nすでに二人にはお互いのことしか\n目に入らなくなっていた\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 92006298,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# se \"SE_0733\"\n# face %(unit_a)s \"sad\"\n# voice 2006 \"daguda_kyara_1009\"\n@ダグダ\nう～！\n違うよ、ハズレだよ～！\n\n@ダグダ\nなんで間違えちゃったのかなぁ？\nうーん…\n\n@ダグダ\n…あ、そうか！\nいきなりクイズ出しちゃったから\n慌てちゃったんだよね？\n\n@ダグダ\nそれならしょうがないよね\nダグダも悪かったよ\n\n@ダグダ\nでも、今度クイズを出す時は\n落ち着いてしっかり答えてね？\n\n# face %(unit_a)s \"smile\"\n@ダグダ\nダグダ、期待してるから！\n\n# textflame 0 0\n@\nダグダはそう笑顔で言って\nマスターを見つめる\n\n@\nせっかくのデートなのに\nかわいそうなことを\nしてしまったな…\n\n@\n次の問題には\n必ず答えられるように\n頑張るぞ…！\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

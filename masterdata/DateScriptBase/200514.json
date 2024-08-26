@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 200514,
+		"script": ";;B 小当り\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_hauntedhouse\"\n# bgmfile \"bgm257\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# voice 2005 \"mitwumu_0005\"\n@ミトゥム\nはは～ん、そうやって\nミトゥム様をビビらす気だな？\nその手には乗らな…\n\n;;トゲトゲ吹き出し\n# face %(unit_a)s \"sad\"\n# serif 1\n# textwindow \"toge\"\n@ミトゥム\n～～～～～ッ！！！\n\n# serif 1\n# textwindow \"close\"\n# serif 0\n@\nミトゥムのすさまじい絶叫と共に\nアトラクションは\n一時休止になったのだった…\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

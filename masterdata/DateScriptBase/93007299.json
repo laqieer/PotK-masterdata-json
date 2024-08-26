@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 93007299,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# se \"SE_0732\"\n;;  (感激)「さすがだ」（ファイルネーム不明）\n# voice 3007 \"gaiborugu_0041\"\n@ゲイボルグ\nさすがだな、マスター\n見事、正解だ\n\n# face %(unit_a)s \"normal\"\n@ゲイボルグ\nこんな唐突な出題にも\n正解してくれるとは…\n\n# eye %(unit_a)s \"close\"\n@ゲイボルグ\n…私は、マスターに\n大切にされていると\n理解していいのだな\n\n# eye %(unit_a)s \"normal\"\n@ゲイボルグ\n…本当に、光栄なことだ\n\n# face %(unit_a)s \"smile\"\n@ゲイボルグ\nその想いに応えられるよう、\n今後ますますの忠誠を\nここに誓おう…\n\n# textflame 0 0\n@\nゲイボルグはそう言うと\nマスターに一礼した\n\n@\nゲイボルグのそんな姿を見て、\nマスターは彼女との絆が\nまた深まったのを実感した…\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

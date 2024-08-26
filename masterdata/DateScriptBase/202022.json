@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 202022,
+		"script": "# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_drive\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n@ハルパー\n主導権を握るのが\n私の流儀ですから…\n\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 2020 \"harpe_0004\"\n@ハルパー\nたしかに、こういう展開は\n滅多にありませんわね\n\n# textflame 0 0\n@\n助手席のハルパーは\nおもむろに足を組み替えた\n\n# textflame 1 1\n@ハルパー\nでもまぁ…\nたまにはあなたに\n身を委ねてみるのも…\n\n# textflame 0 0\n@\nそこまで言いかけて\nハルパーは大きく\n深呼吸をする\n\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n@ハルパー\nそう言えば今日の私は\nあなたから逃げられないのでした\n\n# textflame 1 1\n@ハルパー\n虚勢を張るのはやめましょう…\n\n# textflame 0 0\n@\nすると…\nいつにない甘い声が耳元に届いた\n\n# textflame 1 1\n# voice 2020 \"harpe_0013\"\n@ハルパー\n私、柄にもなく緊張してますの…\nだからあんまり…\nいじわるしないでくださいね…？\n\n# textflame 0 0\n@\nあまりのことに\nついハルパーのほうへ\n顔を向けてしまうマスター\n\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# voice 2020 \"harpe_0005\"\n@ハルパー\nなんて…\n言うと思いました？\n…ふふふ\n\n# textflame 1 1\n@ハルパー\nちゃんと前を向いて運転してください\n事故になんて遭いたくないですから\n\n# textflame 0 0\n@\nマスターは徐々にスピードを落とす\n安全運転のためではなく…\n今夜は星が綺麗なはずだから――\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

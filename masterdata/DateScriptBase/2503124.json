@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 2503124,
+		"script": ";;B\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_fireworks\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# face %(unit_a)s \"usual\"\n# voice 250312 \"solomon_lo_0032\"\n# textflame 1 1\n@ソロモン\nうう…そ、そうね\nべつのところにいきましょ…\n\n# face %(unit_a)s \"sad\"\n# voice 250312 \"solomon_lo_0031\"\n@ソロモン\nごめんね、おにいさん\nさいてきかいをみつけたと\nおもったのに\n\n@ソロモン\nはなびみれなくて、\nがっかりさせちゃった…？\n\n# voice 250312 \"solomon_lo_0015\"\n@ソロモン\nそんなことない？\nほんと？でも…\n\n# face %(unit_a)s \"happy\"\n# voice 250312 \"solomon_lo_0004\"\n@ソロモン\n…ふふっ\nおにいさんってやさしいのね\n\n@ソロモン\nでも、そうよね\nはなびはまだ\nはじまったばかり\n\n@ソロモン\nはやくつぎのさいてきかいを\nみつけにいかないと！\n\n@ソロモン\nいきましょ、おにいさん！\nあっちのほうなら\nきっとみえるはず！\n\n# textflame 0 0\n@\n花火の音と光を背に、\n颯爽と駆け出していく二人\n\n@\n新たな最適解を探しに、\nさらに高い山の上へと\n向かっていくのだった\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

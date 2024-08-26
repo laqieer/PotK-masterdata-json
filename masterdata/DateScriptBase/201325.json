@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 201325,
+		"script": ";;どこいきたい？,大\n;;素直になれよ…,小\n;;たまにはいいじゃない,中\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_drive\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 0 0\n@\nマスターは\nレシェフを誘って\nドライブにやってきた\n\n# face %(unit_a)s \"angry\"\n# voice 2013 \"reshef_0014\"\n# textflame 1 1\n@レシェフ\n…不満\n超不満なんですけど\n;;----------------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nオレについてこい…的な\n空気がたまらなくイヤなんだけど！\n\n# textflame 0 0\n@\n素直になれよ…\n\n# face %(unit_a)s \"sad\"\n@\n……………\n\n# shake 1 0.5\n# textflame 1 1\n# voice 2013 \"reshef_0029\"\n# face %(unit_a)s \"angry\"\n@レシェフ\nチェスト～～～！！！\n\n# textflame 0 0\n@\n助手席から\nするどい鉄拳が飛んできた！！\n\n# textflame 1 1\n@レシェフ\n調子乗らないで\nぶん殴られたいの！\n\n# textflame 0 0\n@\nもう手が出てますけど…と\n思いながら、ムスッとする彼女の顔も\nやっぱりかわいいのだった…\n;;----------------------------------------\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

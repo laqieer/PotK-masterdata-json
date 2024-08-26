@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 93021298,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# se \"SE_0733\"\n# voice 3021 \"gaebuide_0008\"\n@ガ・ボー\n…不正解です\n\n# voice 3021 \"gaebuide_0003\"\n@ガ・ボー\n…でも、\n答えられなくて\n当然です\n\n# face %(unit_a)s \"normal\"\n@ガ・ボー\nいいんです、\n気になさらないで下さい\n\n@ガ・ボー\n…………\n\n# textflame 0 0\n@\n…と言いつつ、\n明らかに彼女の方は\n気にしているようで…\n\n# voice 3021 \"gaebuide_0009\"\n# textflame 1 1\n@ガ・ボー\n…行きましょうか\n\n# textflame 0 0\n@\n表情にこそ出していないが、\n明らかにショックを受けている\nデート中のはずなのに…\n\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@ガ・ボー\n…どうされました？\nボーは…平気ですよ\n\n# textflame 0 0\n@\n無理して平静を装っている\nもう、そんな思いは\nさせたくないから…\n\n@\n彼女のこと…\nもっとよく知りたいな…\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

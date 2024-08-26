@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 91036499,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# se \"SE_0732\"\n# voice 1036 \"ragnarok_0005\"\n@ラグナロク\n正解\nやっぱり簡単すぎたかな？\n\n@ラグナロク\n不思議な気分だわ\n正解してくれただけなのに\n不思議と嬉しくなるの\n\n# face %(unit_a)s \"usual\"\n@ラグナロク\nもしよかったら\nまたクイズに付き合って\n次も問題考えてくるから\n\n# voice 1036 \"ragnarok_0004\"\n@ラグナロク\nさぁ、帰りましょう？\nほら、手を握ってあげる\n\n# textflame 0 0\n@\n帰路へとつくラグナロクが\nこちらの手を引いてくれる\n\n@\n普段は他人との関わり合いを避ける\n彼女のその行為に\n仲が深まったことを実感した…\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

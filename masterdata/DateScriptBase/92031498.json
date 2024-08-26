@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 92031498,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# se \"SE_0733\"\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n@如意金箍棒\n………\n\n@如意金箍棒\nその答え…\n\n# voice 530211 \"nyoikinkobou_c_0027\"\n@如意金箍棒\n不正解～\n\n@如意金箍棒\nあ～あ、せっかく最近\n思ってることがあったのに…\n\n# voice 530211 \"nyoikinkobou_c_0015\"\n@如意金箍棒\nワタシの勘違いだったのかな…\n\n# textflame 0 0\n@\nそう言って、\n寂しげな目を見せる彼女\n\n@\nマスターは、彼女と\n距離が離れてしまったことを\n深く後悔していた…\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

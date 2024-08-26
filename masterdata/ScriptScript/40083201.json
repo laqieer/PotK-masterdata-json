@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 40083201,
+		"script": "# script \"lisp\"\n# background \"town\"\n# bgm \"bgm003\" 0\n# body 400831\n# mask 400831 off\n# pos 400831 3\n# textflame 1 1\n# textboxarrow 0 2\n# voice 4008 \"otyinusu_0028\"\n# face 400831 \"worry\"\n@オティヌス\nう〜ん…\n\n# textflame 0 0\n@\n何やら一人で唸っているオティヌス\n\n# face 400831 \"normal\"\n# textflame 1 1\n# textboxarrow 0 2\n# voice 4008 \"otyinusu_0001\"\n@オティヌス\n…あ、マスター\n\n# face 400831 \"usual\"\n# voice 4008 \"otyinusu_0002\"\n@オティヌス\nいや、この前さ…\nハンバーガーショップに\n行った時…\n\n@オティヌス\n女の子らしくなくても、\nあたしはあたしらしくで\nいいって話になったじゃん？\n\n@オティヌス\nで、思ったのよ？\nじゃあさ…\n\n# face 400831 \"worry\"\n@オティヌス\nあたしらしさって…何？\nって…\n\n# voice 4008 \"otyinusu_0028\"\n@オティヌス\n無理して自分を曲げなくてもいい！\n人に合わせなくていい！\nそれがあたしらしさって思ったけど…\n\n# voice 4008 \"otyinusu_0008\"\n@オティヌス\nそれって、つまり…\n「人のことを気にせずに、\nわがままを通す」ってこと…？\n\n# voice 4008 \"otyinusu_0028\"\n@オティヌス\nう〜ん、それがあたしらしさって…\n何か違う気がする…\n\n# textflame 0 0\n@\nいつも元気で明るい彼女が、\n珍しく悩んでいるようだ\n\n# textflame 1 1\n# textboxarrow 0 2\n# voice 4008 \"otyinusu_kyara_1011\"\n@オティヌス\n…え？珍しい？\n\n# voice 4008 \"otyinusu_0004\"\n@オティヌス\n…そっか\nこんな風にしてんのも\nあたしらしくないんだね\n\n# face 400831 \"mad\"\n# voice 4008 \"otyinusu_0006\"\n@オティヌス\nよしっ！マスター！！\n\n# face 400831 \"normal\"\n@オティヌス\n探しに行くよ！！\n“あたしらしさ”！！\n\n@オティヌス\nついてきて！！\n\n# textflame 0 0\n@\nかくしてマスターは\n半ば強引に彼女に\n駆り出されるのであった"
+	}
+]

@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 103824,
+		"script": ";;B気持ちいいね小\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_onsen\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# face %(unit_a)s \"usual\"\n# voice 210381 \"almace_0003\"\n# textflame 1 1\n@アルマス\nうん、たまには、こういう\nのんびりしたのも悪くないかな\n\n@アルマス\nそうそう、肩まで浸かって　\n体を気づかって…\n\n@アルマス\nつかって、きづかって…\nプ…くくっ、ふふふ…っ！\nちょっと、笑わせないでよ…っ！\n\n# voice 210381 \"almace_0008\"\n@アルマス\nやばい、ツボ入っちゃった\nうくくくっ…ひーっ…\n\n;;モノローグ\n# textflame 0 0\n@\nアルマスは、肩を震わせて\n必死に笑いをこらえている…\n\n# face %(unit_a)s \"angry\"\n# voice 210381 \"almace_0042\"\n# textflame 1 1\n@アルマス\nもぉ、のんびりお風呂に\n入りたかったのに！\n\n@アルマス\nふーっ、ふーっ…\n今日はもう、むり……っ！\n\n# face %(unit_a)s \"usual\"\n@アルマス\n今度来るときこそ、\nゆっくり入るから\nまた、誘ってよね、マスター？\n\n;;モノローグ\n# textflame 0 0\n@\n少々駆け足だったが\n温泉を楽しんだ\nマスターたちだった\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

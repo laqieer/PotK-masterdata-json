@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 3500102,
+		"script": ";;でんぱイベント　オープニング（ＳＴＡＧＥ１　クリア後）\n;;再び、草原…待ち受ける異族に突っ込んでゆくみりん\n;;【指定】bgm011\n# fadein \"white\" 0.5\n# bgm \"bgm011\" 0\n# background \"plain_totaleclipse\"\n# pos 101511 1\n# body 101511\n# scale 101511 0.8 0\n# body 810004\n# pos 810004 5\n# scale 810004 0.8 0\n# textflame 1 1\n# textboxarrow 0 1\n# chara 101511\n# face 101511 \"angry\"\n# voice 9974 \"mirin_pok_collabo0300_0003\"\n@みりん\n…このっ！！\n\n;;ズバッと異族を切り倒し、突き進んでゆくみりん\n;;【指定】SE_9121\n# se \"SE_9121\"\n# fadein \"red\" 1\n# textboxarrow 0 0\n# move 101511 3 0.2\n# mask 101511 off\n# layer 810004 1\n# layer 101511 2\n# waitandnext 1\n\n# se \"SE_3001\"\n# alpha 810004 0 0.5\n# waitandnext 0.6\n\n;;みりんが行く遥か前方に、雄々しくそびえ立つユグドラシル\n;;蝕が起きた隙に、でんぱちゃんが動き出す\n;;→まだ蝕が続いている間に、黒奏官が天上編の主人公チームと接触する\n;;その間に起きたオンタイムの物語ですので、全編、基本蝕の薄暗い光景になると思います\n# textboxarrow 0 2\n# chara 101511\n# voice 9974 \"mirin_pok_collabo0300_0004\"\n@みりん\n私の求め続けたもの…。\nそれが、あのユグドラシルにある…！\n"
+	}
+]

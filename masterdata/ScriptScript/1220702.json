@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 1220702,
+		"script": "# script \"lisp\"\n# body 0\n# body 101411\n# textboxarrow 0 1\n# pos 0 4\n# chara 0\n# pos 101411 2\n# chara 101411\n# face 0 \"occur\"\n@ティルフィング\n…考えてみたら、\nこれまで異族が出現しなかった\nというのも不思議な話よね？\n\n# serif 1\n# textboxarrow 1 3\n# chara 0\n@デュリン\nこのエゼル村は、\n異族が出現するといわれる\n人外域・ワスレナにほど近い\n\n# serif 1\n# textboxarrow 1 3\n# chara 0\n@デュリン\n…異族が、\nこの村だけを回避している\nなんて考えにくいもの\n\n# serif 0\n# textboxarrow 0 1\n# chara 101411\n@ティルフィング\nそれが…あの\nトトという少年の出現で、\n急に異族が出現するようになった…\n\n# voice 9999 \"durin_0028\"\n# serif 1\n# textboxarrow 1 3\n# chara 0\n@デュリン\n異族が今まで出現しなかったのも、\n急に出現するようになったのも…\nどっちも不自然ってこと…うーん\n\n# serif 0\n# textboxarrow 0 1\n# chara 101411\n@ティルフィング\nともかく、\nあの子を早く探し出しましょう！"
+	}
+]

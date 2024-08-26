@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 96020198,
+		"script": ";;//不正解\n# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body 2602011\n# pos 2602011 3\n# mask 2602011 off\n# chara 2602011\n# fadein \"black\" 0.5\n# textflame 1 1\n# face 2602011 \"sad\"\n# se \"SE_0733\"\n# voice 6020 \"ness_0019\"\n@ネス\n…えっと、残念ながら…\n不正解です…\n\n@ネス\n難しかった、でしょうか…\n\n@ネス\nいえ、わからないことがあっても\n仕方ありませんよ…\n気にすることはありません…\n\n@ネス\nただ、できれば…\nわたしのことをもっと\n知っておいて欲しいです…\n\n;;モノローグ\n# textflame 0 0\n@\n答えを外してしまったマスターは、\nふと彼女の顔を見る\n\n;;モノローグ\n# textflame 0 0\n@\nその悲しそうな表情を見て\n次こそは正解しようと\n決意するのだった…\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

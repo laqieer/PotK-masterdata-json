@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 600123,
+		"script": "# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_room\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# face %(unit_a)s \"angry\"\n# voice 6001 \"asukurepiosu_0010\"\n@アスクレピオス\n私じゃなくて！\n…疲れてるのはあなたでしょ\n\n# textflame 1 1\n@アスクレピオス\n私達を気遣ってくれるのは嬉しい\nでも、あなたが倒れたら意味ないの\n\n# textflame 0 0\n@\nマスターは抗議する\nみんなに気分転換をしてほしいと\n日々思っているのは事実だが…\n\n# textflame 0 0\n@\n今日は本当に\n一緒に遊びたいと思ったから\n誘ったのだ\n\n# voice 6001 \"asukurepiosu_0027\"\n# face %(unit_a)s \"normal\"\n# textflame 1 1\n@アスクレピオス\n…わかったから\nちょっと休んでからね？\n\n# textflame 1 1\n@アスクレピオス\nあなたが元気じゃないと…\n私は楽しめないって言ってるの！\n\n# textflame 0 0\n@\nアスクレピオスに押し切られて\n彼女のベッドに横になった\n\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@アスクレピオス\n…おやすみなさい\n\n# textflame 0 0\n@\n優しく毛布をかけられると\n彼女の香りと優しさに包まれた…\n;;----------------------------------------\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

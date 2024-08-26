@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 294019498,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# se \"SE_0733\"\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@フェイルノート\n……その答え\n\n# voice 540191 \"failnaught_ca_0013\"\n@フェイルノート\n不正解だわ\n\n@フェイルノート\n……大丈夫\n\n@フェイルノート\n強者たるもの、\nなにがあろうとも\n輝きを失ってはならない…\n\n@フェイルノート\nだから、これくらいのことで\n落ち込んでなんていられないわ…\n\n@フェイルノート\n常に強者は、強く気高く\n輝き続けなくてはならないのよ\n\n@フェイルノート\nそれが強者としての務め…\nそれが私の誓約なのだから……\n\n# textflame 0 0\n@\nしかし、彼女の目はとても弱々しく…\n\n@\nマスターは、次こそは\n必ず正解することを\n彼女に誓約するのだった…\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

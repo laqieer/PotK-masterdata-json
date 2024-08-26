@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 94008299,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# se \"SE_0732\"\n# voice 4008 \"otyinusu_0005\"\n@オティヌス\nはい、正解！\n簡単だった？\n\n@オティヌス\nもっと難しい問題にしときゃ、\nラージサイズバーガー\n食べられたのに～！\n\n@オティヌス\nでも、ま…\n\n# voice 4008 \"otyinusu_0004\"\n@オティヌス\n本当は嬉しいよ！\n正解してくれてさ！\n\n@オティヌス\n気分いいから、\nあたしが\nおごったげよっか？\n\n# voice 4008 \"otyinusu_0020\"\n@オティヌス\nラージサイズバーガー\nいしししし♪\n\n# textflame 0 0\n@\nとても嬉しそうな彼女\n\n@\nマスターは二人の絆が\nより深まったのを実感していた…\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

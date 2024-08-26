@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 103512,
+		"script": "# script \"lisp\"\n# fadein \"black\" 0.5\n# background %(background)s\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 1035 \"damocles_0025\"\n@ダモクレス\nわわ、脱げちゃう～\n…ま、いっか\n\n# textflame 0 0\n@\nよくない！\nマスターは慌ててダモクレスを\nお姫様のように抱え上げた\n\n# textflame 1 1\n# face %(unit_a)s \"happy\"\n# voice 1035 \"damocles_0005\"\n@ダモクレス\nわ～、マスター力持ちー！\n\n@ダモクレス\nえ？こうしてないと水着が落ちる？\nよくわからないけど\n愛さえあれば大丈夫だよー\n\n# face %(unit_a)s \"usual\"\n@ダモクレス\nえ、ダメなの？\nそれじゃあこのまま進もー！\n\n# textflame 0 0\n@\nダモクレスの水着を押さえるため\n密着した状態で洞窟を進んだ\n\n# textflame 0 0\n@\nいろんな意味でドキドキする\n楽しい時間を過ごした\n\n;;--------------------------------------\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

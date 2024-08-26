@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 391014199,
+		"script": ";;//正解\n# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body 2101431\n# pos 2101431 3\n# mask 2101431 off\n# chara 2101431\n# fadein \"black\" 0.5\n# textflame 1 1\n# face 2101431 \"smile\"\n# se \"SE_0732\"\n# voice 1014 \"tyrufing_0041\"\n@ティルフィング\nさすが、マスターですっ…！\n\n# textflame 0 0\n@\nどうやら正解だったようだ\n顔をほころばせるティルフィングを\n見ていると、達成感が湧き上がる\n\n# voice 1014 \"tyrufing_0005\"\n# textflame 1 1\n@ティルフィング\nふふっ…やっぱり、\nマスターは私のことを\nなんでもお見通しなんですね\n\n@ティルフィング\n少し、恥ずかしいですけど…\nでも、マスターなら、平気です\n\n# textflame 0 0\n@\n恥ずかしそうにしながらも、\n笑顔でそう言う彼女の姿から\n目が離せない\n\n# textflame 1 1\n# face 2101431 \"normal\"\n# voice 1014 \"tyrufing_0001\"\n@ティルフィング\nで、では、帰りましょう、マスター\n\n# textflame 0 0\n@\n寄り添うように隣に立った\n彼女の笑顔に引き込まれながら、\nゆっくりとまた歩き出すことにした…\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

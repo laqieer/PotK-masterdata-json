@@ -1,0 +1,302 @@
+[
+	{
+		"ID": 3901,
+		"unitID": 2502011,
+		"questionID": 9502001,
+		"script": ";;ケルト神話,1\n# textflame 1 1\n# eye %(unit_a)s \"close\"\n# voice 5020 \"tasuramu_0002\"\n@タスラム\nおい、今からちょっと、\nクイズ出そうと思うんだけど…\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"angry\"\n@タスラム\nなんでって、\nそんなの決まってるだろ！\n\n@タスラム\nおまえがマスターとして、\nあたしのことをどれだけ知ってるか、その確認だよ！\n\n# face %(unit_a)s \"sad\"\n# voice 5020 \"tasuramu_0028\"\n@タスラム\nそんなこと、\nいちいち気にするなよ…\n\n# face %(unit_a)s \"usual\"\n# voice 5020 \"tasuramu_0006\"\n@タスラム\nそれじゃいくぞ、\nちゃんと答えろよ！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしのキラーズ『タスラム』は\nなんの神話に出てきたか…\nそれくらいわかってるだろ？\n\n# se \"SE_0734\"\n# select \"ケルト神話\" \"select_label_1\" \"日本神話\" \"select_label_2\" \"ギリシャ神話\" \"select_label_3\"\nあたしのキラーズ『タスラム』は\nなんの神話に出てきたか…\nそれくらいわかってるだろ？\n"
+	},
+	{
+		"ID": 3902,
+		"unitID": 2502011,
+		"questionID": 9502002,
+		"script": ";;ルー,2\n# textflame 1 1\n# eye %(unit_a)s \"close\"\n# voice 5020 \"tasuramu_0002\"\n@タスラム\nおい、今からちょっと、\nクイズ出そうと思うんだけど…\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"angry\"\n@タスラム\nなんでって、\nそんなの決まってるだろ！\n\n@タスラム\nおまえがマスターとして、\nあたしのことをどれだけ知ってるか、その確認だよ！\n\n# face %(unit_a)s \"sad\"\n# voice 5020 \"tasuramu_0028\"\n@タスラム\nそんなこと、\nいちいち気にするなよ…\n\n# face %(unit_a)s \"usual\"\n# voice 5020 \"tasuramu_0006\"\n@タスラム\nそれじゃいくぞ、\nちゃんと答えろよ！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしのキラーズ『タスラム』の\n持ち主は誰だったか\nおまえわかってるか？\n\n# se \"SE_0734\"\n# select \"モリガン\" \"select_label_1\" \"ルー\" \"select_label_2\" \"ダグザ\" \"select_label_3\"\nあたしのキラーズ『タスラム』の\n持ち主は誰だったか\nおまえわかってるか？\n"
+	},
+	{
+		"ID": 3903,
+		"unitID": 2502011,
+		"questionID": 9502003,
+		"script": ";;マグ・トゥレドの戦い,3\n# textflame 1 1\n# eye %(unit_a)s \"close\"\n# voice 5020 \"tasuramu_0002\"\n@タスラム\nおい、今からちょっと、\nクイズ出そうと思うんだけど…\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"angry\"\n@タスラム\nなんでって、\nそんなの決まってるだろ！\n\n@タスラム\nおまえがマスターとして、\nあたしのことをどれだけ知ってるか、その確認だよ！\n\n# face %(unit_a)s \"sad\"\n# voice 5020 \"tasuramu_0028\"\n@タスラム\nそんなこと、\nいちいち気にするなよ…\n\n# face %(unit_a)s \"usual\"\n# voice 5020 \"tasuramu_0006\"\n@タスラム\nそれじゃいくぞ、\nちゃんと答えろよ！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nおまえはこのあたしのキラーズ\n『タスラム』がなんの戦いで\n投じられたか知ってるのか？\n\n# se \"SE_0734\"\n# select \"トロイア戦争\" \"select_label_1\" \"関ヶ原の戦い\" \"select_label_2\" \"マグ・トゥレドの戦い\" \"select_label_3\"\nおまえはこのあたしのキラーズ\n『タスラム』がなんの戦いで\n投じられたか知ってるのか？\n"
+	},
+	{
+		"ID": 3904,
+		"unitID": 2502011,
+		"questionID": 9502004,
+		"script": ";;バロールの目,1\n# textflame 1 1\n# eye %(unit_a)s \"close\"\n# voice 5020 \"tasuramu_0002\"\n@タスラム\nおい、今からちょっと、\nクイズ出そうと思うんだけど…\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"angry\"\n@タスラム\nなんでって、\nそんなの決まってるだろ！\n\n@タスラム\nおまえがマスターとして、\nあたしのことをどれだけ知ってるか、その確認だよ！\n\n# face %(unit_a)s \"sad\"\n# voice 5020 \"tasuramu_0028\"\n@タスラム\nそんなこと、\nいちいち気にするなよ…\n\n# face %(unit_a)s \"usual\"\n# voice 5020 \"tasuramu_0006\"\n@タスラム\nそれじゃいくぞ、\nちゃんと答えろよ！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしのキラーズ『タスラム』が\nいったいなにを破壊したかって\nちゃんと知ってるのか？\n\n# se \"SE_0734\"\n# select \"バロールの目\" \"select_label_1\" \"バロールの胴体\" \"select_label_2\" \"バロールの手足\" \"select_label_3\"\nあたしのキラーズ『タスラム』が\nいったいなにを破壊したかって\nちゃんと知ってるのか？\n"
+	},
+	{
+		"ID": 3905,
+		"unitID": 2502011,
+		"questionID": 9502005,
+		"script": ";;石弾,2\n# textflame 1 1\n# eye %(unit_a)s \"close\"\n# voice 5020 \"tasuramu_0002\"\n@タスラム\nおい、今からちょっと、\nクイズ出そうと思うんだけど…\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"angry\"\n@タスラム\nなんでって、\nそんなの決まってるだろ！\n\n@タスラム\nおまえがマスターとして、\nあたしのことをどれだけ知ってるか、その確認だよ！\n\n# face %(unit_a)s \"sad\"\n# voice 5020 \"tasuramu_0028\"\n@タスラム\nそんなこと、\nいちいち気にするなよ…\n\n# face %(unit_a)s \"usual\"\n# voice 5020 \"tasuramu_0006\"\n@タスラム\nそれじゃいくぞ、\nちゃんと答えろよ！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしのキラーズ『タスラム』は\nどんな形をしたものだったかって\nちゃんとわかってるか？\n\n# se \"SE_0734\"\n# select \"刀剣\" \"select_label_1\" \"石弾\" \"select_label_2\" \"弓矢\" \"select_label_3\"\nあたしのキラーズ『タスラム』は\nどんな形をしたものだったかって\nちゃんとわかってるか？\n"
+	},
+	{
+		"ID": 3906,
+		"unitID": 2502011,
+		"questionID": 9502006,
+		"script": ";;ブリオン,3\n# textflame 1 1\n# eye %(unit_a)s \"close\"\n# voice 5020 \"tasuramu_0002\"\n@タスラム\nおい、今からちょっと、\nクイズ出そうと思うんだけど…\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"angry\"\n@タスラム\nなんでって、\nそんなの決まってるだろ！\n\n@タスラム\nおまえがマスターとして、\nあたしのことをどれだけ知ってるか、その確認だよ！\n\n# face %(unit_a)s \"sad\"\n# voice 5020 \"tasuramu_0028\"\n@タスラム\nそんなこと、\nいちいち気にするなよ…\n\n# face %(unit_a)s \"usual\"\n# voice 5020 \"tasuramu_0006\"\n@タスラム\nそれじゃいくぞ、\nちゃんと答えろよ！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしのキラーズ『タスラム』を\n作ったヤツが誰なのか…\nそれくらいは知ってるよな？\n\n# se \"SE_0734\"\n# select \"ディアン・ケヒト\" \"select_label_1\" \"ブリギット\" \"select_label_2\" \"ブリオン\" \"select_label_3\"\nあたしのキラーズ『タスラム』を\n作ったヤツが誰なのか…\nそれくらいは知ってるよな？\n"
+	},
+	{
+		"ID": 3907,
+		"unitID": 2502011,
+		"questionID": 9502007,
+		"script": ";;ベサル,1\n# textflame 1 1\n# eye %(unit_a)s \"close\"\n# voice 5020 \"tasuramu_0002\"\n@タスラム\nおい、今からちょっと、\nクイズ出そうと思うんだけど…\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"angry\"\n@タスラム\nなんでって、\nそんなの決まってるだろ！\n\n@タスラム\nおまえがマスターとして、\nあたしのことをどれだけ知ってるか、その確認だよ！\n\n# face %(unit_a)s \"sad\"\n# voice 5020 \"tasuramu_0028\"\n@タスラム\nそんなこと、\nいちいち気にするなよ…\n\n# face %(unit_a)s \"usual\"\n# voice 5020 \"tasuramu_0006\"\n@タスラム\nそれじゃいくぞ、\nちゃんと答えろよ！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしのキラーズ『タスラム』を\n作ったヤツは誰の息子だったか\nおまえ知ってるか？\n\n# se \"SE_0734\"\n# select \"ベサル\" \"select_label_1\" \"ヌアザ\" \"select_label_2\" \"バラル\" \"select_label_3\"\nあたしのキラーズ『タスラム』を\n作ったヤツは誰の息子だったか\nおまえ知ってるか？\n"
+	},
+	{
+		"ID": 3908,
+		"unitID": 2502011,
+		"questionID": 9502008,
+		"script": ";;清めたアルモリアの海と紅海の砂,2\n# textflame 1 1\n# eye %(unit_a)s \"close\"\n# voice 5020 \"tasuramu_0002\"\n@タスラム\nおい、今からちょっと、\nクイズ出そうと思うんだけど…\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"angry\"\n@タスラム\nなんでって、\nそんなの決まってるだろ！\n\n@タスラム\nおまえがマスターとして、\nあたしのことをどれだけ知ってるか、その確認だよ！\n\n# face %(unit_a)s \"sad\"\n# voice 5020 \"tasuramu_0028\"\n@タスラム\nそんなこと、\nいちいち気にするなよ…\n\n# face %(unit_a)s \"usual\"\n# voice 5020 \"tasuramu_0006\"\n@タスラム\nそれじゃいくぞ、\nちゃんと答えろよ！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしのキラーズ『タスラム』は\nいろんなものから作られてるけど\nその一つは次のうちどれだと思う？\n\n# se \"SE_0734\"\n# select \"汚れたアルモリアの海と紅海の水\" \"select_label_1\" \"清めたアルモリアの海と紅海の砂\" \"select_label_2\" \"世界中の海水\" \"select_label_3\"\nあたしのキラーズ『タスラム』は\nいろんなものから作られてるけど\nその一つは次のうちどれだと思う？\n"
+	},
+	{
+		"ID": 3909,
+		"unitID": 2502011,
+		"questionID": 9502009,
+		"script": ";;烈火のごとく,3\n# textflame 1 1\n# eye %(unit_a)s \"close\"\n# voice 5020 \"tasuramu_0002\"\n@タスラム\nおい、今からちょっと、\nクイズ出そうと思うんだけど…\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"angry\"\n@タスラム\nなんでって、\nそんなの決まってるだろ！\n\n@タスラム\nおまえがマスターとして、\nあたしのことをどれだけ知ってるか、その確認だよ！\n\n# face %(unit_a)s \"sad\"\n# voice 5020 \"tasuramu_0028\"\n@タスラム\nそんなこと、\nいちいち気にするなよ…\n\n# face %(unit_a)s \"usual\"\n# voice 5020 \"tasuramu_0006\"\n@タスラム\nそれじゃいくぞ、\nちゃんと答えろよ！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしのキラーズ『タスラム』は\n一遍の詩の中でなにのごとくって\n言われてたかわかってるのか？\n\n# se \"SE_0734\"\n# select \"光のごとく\" \"select_label_1\" \"流水のごとく\" \"select_label_2\" \"烈火のごとく\" \"select_label_3\"\nあたしのキラーズ『タスラム』は\n一遍の詩の中でなにのごとくって\n言われてたかわかってるのか？\n"
+	},
+	{
+		"ID": 3910,
+		"unitID": 2502011,
+		"questionID": 9502010,
+		"script": ";;太陽神,1\n# textflame 1 1\n# eye %(unit_a)s \"close\"\n# voice 5020 \"tasuramu_0002\"\n@タスラム\nおい、今からちょっと、\nクイズ出そうと思うんだけど…\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"angry\"\n@タスラム\nなんでって、\nそんなの決まってるだろ！\n\n@タスラム\nおまえがマスターとして、\nあたしのことをどれだけ知ってるか、その確認だよ！\n\n# face %(unit_a)s \"sad\"\n# voice 5020 \"tasuramu_0028\"\n@タスラム\nそんなこと、\nいちいち気にするなよ…\n\n# face %(unit_a)s \"usual\"\n# voice 5020 \"tasuramu_0006\"\n@タスラム\nそれじゃいくぞ、\nちゃんと答えろよ！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしのキラーズ『タスラム』の\n持ち主だったヤツは神話で\nどんな神様だったって言われてる？\n\n# se \"SE_0734\"\n# select \"太陽神\" \"select_label_1\" \"冥界神\" \"select_label_2\" \"海神\" \"select_label_3\"\nあたしのキラーズ『タスラム』の\n持ち主だったヤツは神話で\nどんな神様だったって言われてる？\n"
+	},
+	{
+		"ID": 3911,
+		"unitID": 2502011,
+		"questionID": 9502011,
+		"script": ";;銃,1\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 5020 \"tasuramu_0002\"\n@タスラム\nおい、少し時間いいか？\n\n@タスラム\nおまえがあたしのことを\nどれくらい知っているのか、\n聞いてもいいか？\n\n# face %(unit_a)s \"sad\"\n# voice 5020 \"tasuramu_0012\"\n@タスラム\nあっ、変な意味はないぞ？\nいいか！？誤解するなよ！？\n\n# face %(unit_a)s \"angry\"\n@タスラム\nああもう、ニヤニヤするなぁ！！\n\n@タスラム\nさっさとやるぞ！\n正解しないと許さないからな！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしの武具種がなにか\nそれくらいはおまえでも\nちゃんとわかってるだろ？\n\n# se \"SE_0734\"\n# select \"銃\" \"select_label_1\" \"剣\" \"select_label_2\" \"槍\" \"select_label_3\"\nあたしの武具種がなにか\nそれくらいはおまえでも\nちゃんとわかってるだろ？\n"
+	},
+	{
+		"ID": 3912,
+		"unitID": 2502011,
+		"questionID": 9502012,
+		"script": ";;頑固一徹,2\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 5020 \"tasuramu_0002\"\n@タスラム\nおい、少し時間いいか？\n\n@タスラム\nおまえがあたしのことを\nどれくらい知っているのか、\n聞いてもいいか？\n\n# face %(unit_a)s \"sad\"\n# voice 5020 \"tasuramu_0012\"\n@タスラム\nあっ、変な意味はないぞ？\nいいか！？誤解するなよ！？\n\n# face %(unit_a)s \"angry\"\n@タスラム\nああもう、ニヤニヤするなぁ！！\n\n@タスラム\nさっさとやるぞ！\n正解しないと許さないからな！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしの性格がどんなかくらい\nおまえなら知ってて当たり前だろ？\nマスターなんだからな！\n\n# se \"SE_0734\"\n# select \"器用貧乏\" \"select_label_1\" \"頑固一徹\" \"select_label_2\" \"極悪非道\" \"select_label_3\"\nあたしの性格がどんなかくらい\nおまえなら知ってて当たり前だろ？\nマスターなんだからな！\n"
+	},
+	{
+		"ID": 3913,
+		"unitID": 2502011,
+		"questionID": 9502013,
+		"script": ";;一発必中,3\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 5020 \"tasuramu_0002\"\n@タスラム\nおい、少し時間いいか？\n\n@タスラム\nおまえがあたしのことを\nどれくらい知っているのか、\n聞いてもいいか？\n\n# face %(unit_a)s \"sad\"\n# voice 5020 \"tasuramu_0012\"\n@タスラム\nあっ、変な意味はないぞ？\nいいか！？誤解するなよ！？\n\n# face %(unit_a)s \"angry\"\n@タスラム\nああもう、ニヤニヤするなぁ！！\n\n@タスラム\nさっさとやるぞ！\n正解しないと許さないからな！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしが戦いのなかで\n得意としてることってなんだか\nちゃんとわかってるのか？\n\n# se \"SE_0734\"\n# select \"至近距離射撃\" \"select_label_1\" \"連射\" \"select_label_2\" \"一発必中\" \"select_label_3\"\nあたしが戦いのなかで\n得意としてることってなんだか\nちゃんとわかってるのか？\n"
+	},
+	{
+		"ID": 3914,
+		"unitID": 2502011,
+		"questionID": 9502014,
+		"script": ";;アルモリア海,1\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 5020 \"tasuramu_0002\"\n@タスラム\nおい、少し時間いいか？\n\n@タスラム\nおまえがあたしのことを\nどれくらい知っているのか、\n聞いてもいいか？\n\n# face %(unit_a)s \"sad\"\n# voice 5020 \"tasuramu_0012\"\n@タスラム\nあっ、変な意味はないぞ？\nいいか！？誤解するなよ！？\n\n# face %(unit_a)s \"angry\"\n@タスラム\nああもう、ニヤニヤするなぁ！！\n\n@タスラム\nさっさとやるぞ！\n正解しないと許さないからな！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nおまえはあたしが\nどこから来たのかとか\nちゃんと知ってるよな？\n\n# se \"SE_0734\"\n# select \"アルモリア海\" \"select_label_1\" \"アイスランド \" \"select_label_2\" \"ゴットランド\" \"select_label_3\"\nおまえはあたしが\nどこから来たのかとか\nちゃんと知ってるよな？\n"
+	},
+	{
+		"ID": 3915,
+		"unitID": 2502011,
+		"questionID": 9502015,
+		"script": ";;7月6日,2\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 5020 \"tasuramu_0002\"\n@タスラム\nおい、少し時間いいか？\n\n@タスラム\nおまえがあたしのことを\nどれくらい知っているのか、\n聞いてもいいか？\n\n# face %(unit_a)s \"sad\"\n# voice 5020 \"tasuramu_0012\"\n@タスラム\nあっ、変な意味はないぞ？\nいいか！？誤解するなよ！？\n\n# face %(unit_a)s \"angry\"\n@タスラム\nああもう、ニヤニヤするなぁ！！\n\n@タスラム\nさっさとやるぞ！\n正解しないと許さないからな！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしの誕生日くらい\nマスターなら知ってるよな？\n\n# se \"SE_0734\"\n# select \"7月4日\" \"select_label_1\" \"7月6日\" \"select_label_2\" \"7月5日\" \"select_label_3\"\nあたしの誕生日くらい\nマスターなら知ってるよな？\n"
+	},
+	{
+		"ID": 3916,
+		"unitID": 2502011,
+		"questionID": 9502016,
+		"script": ";;かに座,3\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 5020 \"tasuramu_0002\"\n@タスラム\nおい、少し時間いいか？\n\n@タスラム\nおまえがあたしのことを\nどれくらい知っているのか、\n聞いてもいいか？\n\n# face %(unit_a)s \"sad\"\n# voice 5020 \"tasuramu_0012\"\n@タスラム\nあっ、変な意味はないぞ？\nいいか！？誤解するなよ！？\n\n# face %(unit_a)s \"angry\"\n@タスラム\nああもう、ニヤニヤするなぁ！！\n\n@タスラム\nさっさとやるぞ！\n正解しないと許さないからな！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしがなに座なのかって\nこれくらいはわかってて当然だろ？\nだってマスターなんだからな\n\n# se \"SE_0734\"\n# select \"みずがめ座\" \"select_label_1\" \"おうし座\" \"select_label_2\" \"かに座\" \"select_label_3\"\nあたしがなに座なのかって\nこれくらいはわかってて当然だろ？\nだってマスターなんだからな\n"
+	},
+	{
+		"ID": 3917,
+		"unitID": 2502011,
+		"questionID": 9502017,
+		"script": ";;肉ならなんでも,1\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 5020 \"tasuramu_0002\"\n@タスラム\nおい、少し時間いいか？\n\n@タスラム\nおまえがあたしのことを\nどれくらい知っているのか、\n聞いてもいいか？\n\n# face %(unit_a)s \"sad\"\n# voice 5020 \"tasuramu_0012\"\n@タスラム\nあっ、変な意味はないぞ？\nいいか！？誤解するなよ！？\n\n# face %(unit_a)s \"angry\"\n@タスラム\nああもう、ニヤニヤするなぁ！！\n\n@タスラム\nさっさとやるぞ！\n正解しないと許さないからな！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしの好きなものがなにか\nマスターなら知ってて当然だろ？\nさぁ、答えてみろ！\n\n# se \"SE_0734\"\n# select \"肉ならなんでも\" \"select_label_1\" \"野菜ならなんでも\" \"select_label_2\" \"飲み物ならなんでも\" \"select_label_3\"\nあたしの好きなものがなにか\nマスターなら知ってて当然だろ？\nさぁ、答えてみろ！\n"
+	},
+	{
+		"ID": 3918,
+		"unitID": 2502011,
+		"questionID": 9502018,
+		"script": ";;食事,2\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 5020 \"tasuramu_0002\"\n@タスラム\nおい、少し時間いいか？\n\n@タスラム\nおまえがあたしのことを\nどれくらい知っているのか、\n聞いてもいいか？\n\n# face %(unit_a)s \"sad\"\n# voice 5020 \"tasuramu_0012\"\n@タスラム\nあっ、変な意味はないぞ？\nいいか！？誤解するなよ！？\n\n# face %(unit_a)s \"angry\"\n@タスラム\nああもう、ニヤニヤするなぁ！！\n\n@タスラム\nさっさとやるぞ！\n正解しないと許さないからな！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしの趣味がなにか\nちゃんとわかってるんだろうな？\nはずしたら怒るからな！\n\n# se \"SE_0734\"\n# select \"睡眠\" \"select_label_1\" \"食事\" \"select_label_2\" \"掃除\" \"select_label_3\"\nあたしの趣味がなにか\nちゃんとわかってるんだろうな？\nはずしたら怒るからな！\n"
+	},
+	{
+		"ID": 3919,
+		"unitID": 2502011,
+		"questionID": 9502019,
+		"script": ";;Ａ型,3\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 5020 \"tasuramu_0002\"\n@タスラム\nおい、少し時間いいか？\n\n@タスラム\nおまえがあたしのことを\nどれくらい知っているのか、\n聞いてもいいか？\n\n# face %(unit_a)s \"sad\"\n# voice 5020 \"tasuramu_0012\"\n@タスラム\nあっ、変な意味はないぞ？\nいいか！？誤解するなよ！？\n\n# face %(unit_a)s \"angry\"\n@タスラム\nああもう、ニヤニヤするなぁ！！\n\n@タスラム\nさっさとやるぞ！\n正解しないと許さないからな！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしの血液型がなんなのか\nおまえにわかるか？\nさぁ、答えてみろマスター！ \n\n# se \"SE_0734\"\n# select \"ＡＢ型\" \"select_label_1\" \"Ｂ型\" \"select_label_2\" \"Ａ型\" \"select_label_3\"\nあたしの血液型がなんなのか\nおまえにわかるか？\nさぁ、答えてみろマスター！ \n"
+	},
+	{
+		"ID": 3920,
+		"unitID": 2502011,
+		"questionID": 9502020,
+		"script": ";;活発に動き回る,1\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 5020 \"tasuramu_0002\"\n@タスラム\nおい、少し時間いいか？\n\n@タスラム\nおまえがあたしのことを\nどれくらい知っているのか、\n聞いてもいいか？\n\n# face %(unit_a)s \"sad\"\n# voice 5020 \"tasuramu_0012\"\n@タスラム\nあっ、変な意味はないぞ？\nいいか！？誤解するなよ！？\n\n# face %(unit_a)s \"angry\"\n@タスラム\nああもう、ニヤニヤするなぁ！！\n\n@タスラム\nさっさとやるぞ！\n正解しないと許さないからな！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしはじっとしてるのが\nどうしても我慢できないんだけど\nそれでふだんどうしてるかわかるか？\n\n# se \"SE_0734\"\n# select \"活発に動き回る\" \"select_label_1\" \"とにかく食事をとる\" \"select_label_2\" \"とりあえず寝る\" \"select_label_3\"\nあたしはじっとしてるのが\nどうしても我慢できないんだけど\nそれでふだんどうしてるかわかるか？\n"
+	},
+	{
+		"ID": 3921,
+		"unitID": 2502011,
+		"questionID": 9502021,
+		"script": ";;大賢者の重滅眼,1\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 5020 \"tasuramu_0001\"\n@タスラム\nそうだマスター、\nいいことを思いついたぞ\n\n# eye %(unit_a)s \"close\"\n@タスラム\nせっかくの機会だし、\nここであたしのことについて、\nどれだけ知ってるのか…\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"usual\"\n# voice 5020 \"tasuramu_0006\"\n@タスラム\nクイズを出すから、\nおまえはそれに、\n答えるんだぞ！\n\n# face %(unit_a)s \"angry\"\n@タスラム\nどうしてって…それは…\n今後のためだよ、今後のため！\n\n# face %(unit_a)s \"usual\"\n# voice 5020 \"tasuramu_0036\"\n@タスラム\n正解したら肉をやるから、\nはりきって答えるんだぞ！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしの☆５のときの\nリーダースキルくらいは\nちゃんとわかってるんだろうな？\n\n# se \"SE_0734\"\n# select \"大賢者の重滅眼\" \"select_label_1\" \"愚者の重滅眼\" \"select_label_2\" \"大賢者の魔眼\" \"select_label_3\"\nあたしの☆５のときの\nリーダースキルくらいは\nちゃんとわかってるんだろうな？\n"
+	},
+	{
+		"ID": 3922,
+		"unitID": 2502011,
+		"questionID": 9502022,
+		"script": ";;銃神の重滅眼,2\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 5020 \"tasuramu_0001\"\n@タスラム\nそうだマスター、\nいいことを思いついたぞ\n\n# eye %(unit_a)s \"close\"\n@タスラム\nせっかくの機会だし、\nここであたしのことについて、\nどれだけ知ってるのか…\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"usual\"\n# voice 5020 \"tasuramu_0006\"\n@タスラム\nクイズを出すから、\nおまえはそれに、\n答えるんだぞ！\n\n# face %(unit_a)s \"angry\"\n@タスラム\nどうしてって…それは…\n今後のためだよ、今後のため！\n\n# face %(unit_a)s \"usual\"\n# voice 5020 \"tasuramu_0036\"\n@タスラム\n正解したら肉をやるから、\nはりきって答えるんだぞ！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしの☆６のときの\nリーダースキルくらいは\nちゃんとわかってるんだろうな？\n\n# se \"SE_0734\"\n# select \"銃神の慧眼\" \"select_label_1\" \"銃神の重滅眼\" \"select_label_2\" \"銃神の開眼\" \"select_label_3\"\nあたしの☆６のときの\nリーダースキルくらいは\nちゃんとわかってるんだろうな？\n"
+	},
+	{
+		"ID": 3923,
+		"unitID": 2502011,
+		"questionID": 9502023,
+		"script": ";;バレットマージ,3\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 5020 \"tasuramu_0001\"\n@タスラム\nそうだマスター、\nいいことを思いついたぞ\n\n# eye %(unit_a)s \"close\"\n@タスラム\nせっかくの機会だし、\nここであたしのことについて、\nどれだけ知ってるのか…\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"usual\"\n# voice 5020 \"tasuramu_0006\"\n@タスラム\nクイズを出すから、\nおまえはそれに、\n答えるんだぞ！\n\n# face %(unit_a)s \"angry\"\n@タスラム\nどうしてって…それは…\n今後のためだよ、今後のため！\n\n# face %(unit_a)s \"usual\"\n# voice 5020 \"tasuramu_0036\"\n@タスラム\n正解したら肉をやるから、\nはりきって答えるんだぞ！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしが☆４のときのジョブ\nマスターなら知ってるよな？\nさぁ、なにか当ててみろ！\n\n# se \"SE_0734\"\n# select \"バレットマーク\" \"select_label_1\" \"バケットマーチ\" \"select_label_2\" \"バレットマージ\" \"select_label_3\"\nあたしが☆４のときのジョブ\nマスターなら知ってるよな？\nさぁ、なにか当ててみろ！\n"
+	},
+	{
+		"ID": 3924,
+		"unitID": 2502011,
+		"questionID": 9502024,
+		"script": ";;バレットセイジ,1\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 5020 \"tasuramu_0001\"\n@タスラム\nそうだマスター、\nいいことを思いついたぞ\n\n# eye %(unit_a)s \"close\"\n@タスラム\nせっかくの機会だし、\nここであたしのことについて、\nどれだけ知ってるのか…\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"usual\"\n# voice 5020 \"tasuramu_0006\"\n@タスラム\nクイズを出すから、\nおまえはそれに、\n答えるんだぞ！\n\n# face %(unit_a)s \"angry\"\n@タスラム\nどうしてって…それは…\n今後のためだよ、今後のため！\n\n# face %(unit_a)s \"usual\"\n# voice 5020 \"tasuramu_0036\"\n@タスラム\n正解したら肉をやるから、\nはりきって答えるんだぞ！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしが☆５のときのジョブ\nそれくらいはわかって当然だろ？\nさぁ、当ててみろ！\n\n# se \"SE_0734\"\n# select \"バレットセイジ\" \"select_label_1\" \"バレットセイバー\" \"select_label_2\" \"バレットスナイパー\" \"select_label_3\"\nあたしが☆５のときのジョブ\nそれくらいはわかって当然だろ？\nさぁ、当ててみろ！\n"
+	},
+	{
+		"ID": 3925,
+		"unitID": 2502011,
+		"questionID": 9502025,
+		"script": ";;銃神,2\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 5020 \"tasuramu_0001\"\n@タスラム\nそうだマスター、\nいいことを思いついたぞ\n\n# eye %(unit_a)s \"close\"\n@タスラム\nせっかくの機会だし、\nここであたしのことについて、\nどれだけ知ってるのか…\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"usual\"\n# voice 5020 \"tasuramu_0006\"\n@タスラム\nクイズを出すから、\nおまえはそれに、\n答えるんだぞ！\n\n# face %(unit_a)s \"angry\"\n@タスラム\nどうしてって…それは…\n今後のためだよ、今後のため！\n\n# face %(unit_a)s \"usual\"\n# voice 5020 \"tasuramu_0036\"\n@タスラム\n正解したら肉をやるから、\nはりきって答えるんだぞ！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしが☆６のときのジョブ\nそれくらいはわかって当然だろ？\nさぁ、当ててみろ！\n\n# se \"SE_0734\"\n# select \"銃皇\" \"select_label_1\" \"銃神\" \"select_label_2\" \"銃剣士\" \"select_label_3\"\nあたしが☆６のときのジョブ\nそれくらいはわかって当然だろ？\nさぁ、当ててみろ！\n"
+	},
+	{
+		"ID": 3926,
+		"unitID": 2502011,
+		"questionID": 9502026,
+		"script": ";;ブリューナク,3\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 5020 \"tasuramu_0001\"\n@タスラム\nそうだマスター、\nいいことを思いついたぞ\n\n# eye %(unit_a)s \"close\"\n@タスラム\nせっかくの機会だし、\nここであたしのことについて、\nどれだけ知ってるのか…\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"usual\"\n# voice 5020 \"tasuramu_0006\"\n@タスラム\nクイズを出すから、\nおまえはそれに、\n答えるんだぞ！\n\n# face %(unit_a)s \"angry\"\n@タスラム\nどうしてって…それは…\n今後のためだよ、今後のため！\n\n# face %(unit_a)s \"usual\"\n# voice 5020 \"tasuramu_0036\"\n@タスラム\n正解したら肉をやるから、\nはりきって答えるんだぞ！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしと仲のいいヤツは\n次のうち誰だか当ててみろ！\nこれくらいちゃんとわかるよな？ \n\n# se \"SE_0734\"\n# select \"グングニル\" \"select_label_1\" \"トリシューラ\" \"select_label_2\" \"ブリューナク\" \"select_label_3\"\nあたしと仲のいいヤツは\n次のうち誰だか当ててみろ！\nこれくらいちゃんとわかるよな？ \n"
+	},
+	{
+		"ID": 3927,
+		"unitID": 2502011,
+		"questionID": 9502027,
+		"script": ";;魔弾の呼吸,1\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 5020 \"tasuramu_0001\"\n@タスラム\nそうだマスター、\nいいことを思いついたぞ\n\n# eye %(unit_a)s \"close\"\n@タスラム\nせっかくの機会だし、\nここであたしのことについて、\nどれだけ知ってるのか…\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"usual\"\n# voice 5020 \"tasuramu_0006\"\n@タスラム\nクイズを出すから、\nおまえはそれに、\n答えるんだぞ！\n\n# face %(unit_a)s \"angry\"\n@タスラム\nどうしてって…それは…\n今後のためだよ、今後のため！\n\n# face %(unit_a)s \"usual\"\n# voice 5020 \"tasuramu_0036\"\n@タスラム\n正解したら肉をやるから、\nはりきって答えるんだぞ！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしが☆５のときに\n手に入れるスキルがなにか\nしっかり当ててみろ！ \n\n# se \"SE_0734\"\n# select \"魔弾の呼吸\" \"select_label_1\" \"魔弾の息吹\" \"select_label_2\" \"魔弾のため息\" \"select_label_3\"\nあたしが☆５のときに\n手に入れるスキルがなにか\nしっかり当ててみろ！ \n"
+	},
+	{
+		"ID": 3928,
+		"unitID": 2502011,
+		"questionID": 9502028,
+		"script": ";;隠伏の心得,2\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 5020 \"tasuramu_0001\"\n@タスラム\nそうだマスター、\nいいことを思いついたぞ\n\n# eye %(unit_a)s \"close\"\n@タスラム\nせっかくの機会だし、\nここであたしのことについて、\nどれだけ知ってるのか…\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"usual\"\n# voice 5020 \"tasuramu_0006\"\n@タスラム\nクイズを出すから、\nおまえはそれに、\n答えるんだぞ！\n\n# face %(unit_a)s \"angry\"\n@タスラム\nどうしてって…それは…\n今後のためだよ、今後のため！\n\n# face %(unit_a)s \"usual\"\n# voice 5020 \"tasuramu_0036\"\n@タスラム\n正解したら肉をやるから、\nはりきって答えるんだぞ！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしが☆４のときに\n手に入れるスキルがなにか\nしっかり当ててみろ！\n\n# se \"SE_0734\"\n# select \"隠匿の心得\" \"select_label_1\" \"隠伏の心得\" \"select_label_2\" \"隠蔽の心得\" \"select_label_3\"\nあたしが☆４のときに\n手に入れるスキルがなにか\nしっかり当ててみろ！\n"
+	},
+	{
+		"ID": 3929,
+		"unitID": 2502011,
+		"questionID": 9502029,
+		"script": ";;波動神,3\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 5020 \"tasuramu_0001\"\n@タスラム\nそうだマスター、\nいいことを思いついたぞ\n\n# eye %(unit_a)s \"close\"\n@タスラム\nせっかくの機会だし、\nここであたしのことについて、\nどれだけ知ってるのか…\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"usual\"\n# voice 5020 \"tasuramu_0006\"\n@タスラム\nクイズを出すから、\nおまえはそれに、\n答えるんだぞ！\n\n# face %(unit_a)s \"angry\"\n@タスラム\nどうしてって…それは…\n今後のためだよ、今後のため！\n\n# face %(unit_a)s \"usual\"\n# voice 5020 \"tasuramu_0036\"\n@タスラム\n正解したら肉をやるから、\nはりきって答えるんだぞ！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしが学園姿で☆６のとき\nどんなジョブだったかは\nおまえ知ってるんだろうな？\n\n# se \"SE_0734\"\n# select \"波動士\" \"select_label_1\" \"波動皇\" \"select_label_2\" \"波動神\" \"select_label_3\"\nあたしが学園姿で☆６のとき\nどんなジョブだったかは\nおまえ知ってるんだろうな？\n"
+	},
+	{
+		"ID": 3930,
+		"unitID": 2502011,
+		"questionID": 9502030,
+		"script": ";;肉以外も好きだけどな！,1\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 5020 \"tasuramu_0001\"\n@タスラム\nそうだマスター、\nいいことを思いついたぞ\n\n# eye %(unit_a)s \"close\"\n@タスラム\nせっかくの機会だし、\nここであたしのことについて、\nどれだけ知ってるのか…\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"usual\"\n# voice 5020 \"tasuramu_0006\"\n@タスラム\nクイズを出すから、\nおまえはそれに、\n答えるんだぞ！\n\n# face %(unit_a)s \"angry\"\n@タスラム\nどうしてって…それは…\n今後のためだよ、今後のため！\n\n# face %(unit_a)s \"usual\"\n# voice 5020 \"tasuramu_0036\"\n@タスラム\n正解したら肉をやるから、\nはりきって答えるんだぞ！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしが学園姿で☆６のとき\nリーダースキルがなんだったか\nこれくらい当ててみろマスター！\n\n# se \"SE_0734\"\n# select \"肉以外も好きだけどな！\" \"select_label_1\" \"肉以外はいらないけどな！\" \"select_label_2\" \"なにもいらないけどな！\" \"select_label_3\"\nあたしが学園姿で☆６のとき\nリーダースキルがなんだったか\nこれくらい当ててみろマスター！\n"
+	},
+	{
+		"ID": 3931,
+		"unitID": 2502011,
+		"questionID": 9502031,
+		"script": ";;アイムール,1\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 5020 \"tasuramu_0001\"\n@タスラム\nおい、マスター！\nクイズを出すぞ！\n\n# eye %(unit_a)s \"close\"\n@タスラム\nいきなりどうしたって？\nそんなの決まってるだろ！\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"usual\"\n@タスラム\nマスターがどれくらい、\nあたしのことを知ってるかで…\n\n# face %(unit_a)s \"smile\"\n# voice 5020 \"tasuramu_0004\"\n@タスラム\nあたしの成長具合も、\nきっと変わってくるはずだろ！\n\n# eye %(unit_a)s \"close\"\n@タスラム\nマスターがあたしを、\nちゃんと見てくれてるか、\nそれが大事だからな！\n\n# eye %(unit_a)s \"normal\"\n# voice 5020 \"tasuramu_0036\"\n@タスラム\nそういうわけで、\nいくぞマスター！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしと誕生日が同じヤツは\n次のうち誰だか当ててみろ！\n\n# se \"SE_0734\"\n# select \"アイムール\" \"select_label_1\" \"アルテミス\" \"select_label_2\" \"シャルウル\" \"select_label_3\"\nあたしと誕生日が同じヤツは\n次のうち誰だか当ててみろ！\n"
+	},
+	{
+		"ID": 3932,
+		"unitID": 2502011,
+		"questionID": 9502032,
+		"script": ";;持ち主は同じだから,2\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 5020 \"tasuramu_0001\"\n@タスラム\nおい、マスター！\nクイズを出すぞ！\n\n# eye %(unit_a)s \"close\"\n@タスラム\nいきなりどうしたって？\nそんなの決まってるだろ！\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"usual\"\n@タスラム\nマスターがどれくらい、\nあたしのことを知ってるかで…\n\n# face %(unit_a)s \"smile\"\n# voice 5020 \"tasuramu_0004\"\n@タスラム\nあたしの成長具合も、\nきっと変わってくるはずだろ！\n\n# eye %(unit_a)s \"close\"\n@タスラム\nマスターがあたしを、\nちゃんと見てくれてるか、\nそれが大事だからな！\n\n# eye %(unit_a)s \"normal\"\n# voice 5020 \"tasuramu_0036\"\n@タスラム\nそういうわけで、\nいくぞマスター！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nブリューナクとは仲良しだけど\nその理由がなんなのか\nわかってるよな？\n\n# se \"SE_0734\"\n# select \"持ち主が親友だから\" \"select_label_1\" \"持ち主が同じだから\" \"select_label_2\" \"持ち主が親子だから\" \"select_label_3\"\nブリューナクとは仲良しだけど\nその理由がなんなのか\nわかってるよな？\n"
+	},
+	{
+		"ID": 3933,
+		"unitID": 2502011,
+		"questionID": 9502033,
+		"script": ";;フラガラッハ,3\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 5020 \"tasuramu_0001\"\n@タスラム\nおい、マスター！\nクイズを出すぞ！\n\n# eye %(unit_a)s \"close\"\n@タスラム\nいきなりどうしたって？\nそんなの決まってるだろ！\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"usual\"\n@タスラム\nマスターがどれくらい、\nあたしのことを知ってるかで…\n\n# face %(unit_a)s \"smile\"\n# voice 5020 \"tasuramu_0004\"\n@タスラム\nあたしの成長具合も、\nきっと変わってくるはずだろ！\n\n# eye %(unit_a)s \"close\"\n@タスラム\nマスターがあたしを、\nちゃんと見てくれてるか、\nそれが大事だからな！\n\n# eye %(unit_a)s \"normal\"\n# voice 5020 \"tasuramu_0036\"\n@タスラム\nそういうわけで、\nいくぞマスター！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nブリューナクと仲良しだけど\nもう一人、同じ理由で仲がいいのは\n次のうち誰だかわかるか？\n\n# se \"SE_0734\"\n# select \"ルーン\" \"select_label_1\" \"カラドボルグ\" \"select_label_2\" \"フラガラッハ\" \"select_label_3\"\nブリューナクと仲良しだけど\nもう一人、同じ理由で仲がいいのは\n次のうち誰だかわかるか？\n"
+	},
+	{
+		"ID": 3934,
+		"unitID": 2502011,
+		"questionID": 9502034,
+		"script": ";;パラシュ,1\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 5020 \"tasuramu_0001\"\n@タスラム\nおい、マスター！\nクイズを出すぞ！\n\n# eye %(unit_a)s \"close\"\n@タスラム\nいきなりどうしたって？\nそんなの決まってるだろ！\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"usual\"\n@タスラム\nマスターがどれくらい、\nあたしのことを知ってるかで…\n\n# face %(unit_a)s \"smile\"\n# voice 5020 \"tasuramu_0004\"\n@タスラム\nあたしの成長具合も、\nきっと変わってくるはずだろ！\n\n# eye %(unit_a)s \"close\"\n@タスラム\nマスターがあたしを、\nちゃんと見てくれてるか、\nそれが大事だからな！\n\n# eye %(unit_a)s \"normal\"\n# voice 5020 \"tasuramu_0036\"\n@タスラム\nそういうわけで、\nいくぞマスター！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしと同じ星座のヤツを\nこの中から当ててみろ！\n\n# se \"SE_0734\"\n# select \"パラシュ\" \"select_label_1\" \"ダーインスレイヴ\" \"select_label_2\" \"八咫鏡\" \"select_label_3\"\nあたしと同じ星座のヤツを\nこの中から当ててみろ！\n"
+	},
+	{
+		"ID": 3935,
+		"unitID": 2502011,
+		"questionID": 9502035,
+		"script": ";;大食漢だから,2\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 5020 \"tasuramu_0001\"\n@タスラム\nおい、マスター！\nクイズを出すぞ！\n\n# eye %(unit_a)s \"close\"\n@タスラム\nいきなりどうしたって？\nそんなの決まってるだろ！\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"usual\"\n@タスラム\nマスターがどれくらい、\nあたしのことを知ってるかで…\n\n# face %(unit_a)s \"smile\"\n# voice 5020 \"tasuramu_0004\"\n@タスラム\nあたしの成長具合も、\nきっと変わってくるはずだろ！\n\n# eye %(unit_a)s \"close\"\n@タスラム\nマスターがあたしを、\nちゃんと見てくれてるか、\nそれが大事だからな！\n\n# eye %(unit_a)s \"normal\"\n# voice 5020 \"tasuramu_0036\"\n@タスラム\nそういうわけで、\nいくぞマスター！\n;;---------------------------------\n\n@%(unitName:unit_a)s\n身体が小さいあたしに\nみんな驚く理由は\n何だと思う？\n\n# se \"SE_0734\"\n# select \"小食だから\" \"select_label_1\" \"大食いだから\" \"select_label_2\" \"なにも食べないから\" \"select_label_3\"\n身体が小さいあたしに\nみんな驚く理由は\n何だと思う？\n"
+	},
+	{
+		"ID": 3936,
+		"unitID": 2502011,
+		"questionID": 9502036,
+		"script": ";;July,3\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 5020 \"tasuramu_0001\"\n@タスラム\nおい、マスター！\nクイズを出すぞ！\n\n# eye %(unit_a)s \"close\"\n@タスラム\nいきなりどうしたって？\nそんなの決まってるだろ！\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"usual\"\n@タスラム\nマスターがどれくらい、\nあたしのことを知ってるかで…\n\n# face %(unit_a)s \"smile\"\n# voice 5020 \"tasuramu_0004\"\n@タスラム\nあたしの成長具合も、\nきっと変わってくるはずだろ！\n\n# eye %(unit_a)s \"close\"\n@タスラム\nマスターがあたしを、\nちゃんと見てくれてるか、\nそれが大事だからな！\n\n# eye %(unit_a)s \"normal\"\n# voice 5020 \"tasuramu_0036\"\n@タスラム\nそういうわけで、\nいくぞマスター！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしの誕生日は７月６日だけど\n７月は英語にするとなんて言うか\n当ててみろ！\n\n# se \"SE_0734\"\n# select \"January\" \"select_label_1\" \"June\" \"select_label_2\" \"July\" \"select_label_3\"\nあたしの誕生日は７月６日だけど\n７月は英語にするとなんて言うか\n当ててみろ！\n"
+	},
+	{
+		"ID": 3937,
+		"unitID": 2502011,
+		"questionID": 9502037,
+		"script": ";;Cancer,1\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 5020 \"tasuramu_0001\"\n@タスラム\nおい、マスター！\nクイズを出すぞ！\n\n# eye %(unit_a)s \"close\"\n@タスラム\nいきなりどうしたって？\nそんなの決まってるだろ！\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"usual\"\n@タスラム\nマスターがどれくらい、\nあたしのことを知ってるかで…\n\n# face %(unit_a)s \"smile\"\n# voice 5020 \"tasuramu_0004\"\n@タスラム\nあたしの成長具合も、\nきっと変わってくるはずだろ！\n\n# eye %(unit_a)s \"close\"\n@タスラム\nマスターがあたしを、\nちゃんと見てくれてるか、\nそれが大事だからな！\n\n# eye %(unit_a)s \"normal\"\n# voice 5020 \"tasuramu_0036\"\n@タスラム\nそういうわけで、\nいくぞマスター！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしの星座はかに座だけど\nこれを英語にしたらなんて言うか\nしっかりと当ててみろマスター！ \n\n# se \"SE_0734\"\n# select \"Cancer\" \"select_label_1\" \"Libra\" \"select_label_2\" \"Leo\" \"select_label_3\"\nあたしの星座はかに座だけど\nこれを英語にしたらなんて言うか\nしっかりと当ててみろマスター！ \n"
+	},
+	{
+		"ID": 3938,
+		"unitID": 2502011,
+		"questionID": 9502038,
+		"script": ";;ゲイボルグ,2\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 5020 \"tasuramu_0001\"\n@タスラム\nおい、マスター！\nクイズを出すぞ！\n\n# eye %(unit_a)s \"close\"\n@タスラム\nいきなりどうしたって？\nそんなの決まってるだろ！\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"usual\"\n@タスラム\nマスターがどれくらい、\nあたしのことを知ってるかで…\n\n# face %(unit_a)s \"smile\"\n# voice 5020 \"tasuramu_0004\"\n@タスラム\nあたしの成長具合も、\nきっと変わってくるはずだろ！\n\n# eye %(unit_a)s \"close\"\n@タスラム\nマスターがあたしを、\nちゃんと見てくれてるか、\nそれが大事だからな！\n\n# eye %(unit_a)s \"normal\"\n# voice 5020 \"tasuramu_0036\"\n@タスラム\nそういうわけで、\nいくぞマスター！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしのキラーズ『タスラム』と\n同じ神話に登場するヤツは\n次のうちどれだかわかるか？\n\n# se \"SE_0734\"\n# select \"ロンギヌス\" \"select_label_1\" \"ゲイボルグ\" \"select_label_2\" \"カドケウス\" \"select_label_3\"\nあたしのキラーズ『タスラム』と\n同じ神話に登場するヤツは\n次のうちどれだかわかるか？\n"
+	},
+	{
+		"ID": 3939,
+		"unitID": 2502011,
+		"questionID": 9502039,
+		"script": ";;弾丸ヘッドロング,3\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 5020 \"tasuramu_0001\"\n@タスラム\nおい、マスター！\nクイズを出すぞ！\n\n# eye %(unit_a)s \"close\"\n@タスラム\nいきなりどうしたって？\nそんなの決まってるだろ！\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"usual\"\n@タスラム\nマスターがどれくらい、\nあたしのことを知ってるかで…\n\n# face %(unit_a)s \"smile\"\n# voice 5020 \"tasuramu_0004\"\n@タスラム\nあたしの成長具合も、\nきっと変わってくるはずだろ！\n\n# eye %(unit_a)s \"close\"\n@タスラム\nマスターがあたしを、\nちゃんと見てくれてるか、\nそれが大事だからな！\n\n# eye %(unit_a)s \"normal\"\n# voice 5020 \"tasuramu_0036\"\n@タスラム\nそういうわけで、\nいくぞマスター！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしがキャラクタークエスト\nＥＰ２で手に入れる\nスキルの名前を当ててみろ！\n\n# se \"SE_0734\"\n# select \"弾丸ヘッドバッド\" \"select_label_1\" \"弾丸ヘッドショット\" \"select_label_2\" \"弾丸ヘッドロング\" \"select_label_3\"\nあたしがキャラクタークエスト\nＥＰ２で手に入れる\nスキルの名前を当ててみろ！\n"
+	},
+	{
+		"ID": 3940,
+		"unitID": 2502011,
+		"questionID": 9502040,
+		"script": ";;蒼弾ウエルフェア,1\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 5020 \"tasuramu_0001\"\n@タスラム\nおい、マスター！\nクイズを出すぞ！\n\n# eye %(unit_a)s \"close\"\n@タスラム\nいきなりどうしたって？\nそんなの決まってるだろ！\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"usual\"\n@タスラム\nマスターがどれくらい、\nあたしのことを知ってるかで…\n\n# face %(unit_a)s \"smile\"\n# voice 5020 \"tasuramu_0004\"\n@タスラム\nあたしの成長具合も、\nきっと変わってくるはずだろ！\n\n# eye %(unit_a)s \"close\"\n@タスラム\nマスターがあたしを、\nちゃんと見てくれてるか、\nそれが大事だからな！\n\n# eye %(unit_a)s \"normal\"\n# voice 5020 \"tasuramu_0036\"\n@タスラム\nそういうわけで、\nいくぞマスター！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしがキャラクタークエスト\nＥＰ３で手に入れる\nスキルの名前を当ててみろ！\n\n# se \"SE_0734\"\n# select \"蒼弾ウエルフェア\" \"select_label_1\" \"蒼弾ウルフファング\" \"select_label_2\" \"蒼弾ミートフェア\" \"select_label_3\"\nあたしがキャラクタークエスト\nＥＰ３で手に入れる\nスキルの名前を当ててみろ！\n"
+	},
+	{
+		"ID": 3941,
+		"unitID": 2502011,
+		"questionID": 9502041,
+		"script": "\n;;あたし,1\n# se \"SE_0734\"\n# select \"あたし\" \"select_label_1\" \"ワタシ\" \"select_label_2\" \"ウチ\" \"select_label_3\"\nタスラムの一人称は\n次のうちどれ？\n"
+	},
+	{
+		"ID": 3942,
+		"unitID": 2502011,
+		"questionID": 9502042,
+		"script": "\n;;おまえ,2\n# se \"SE_0734\"\n# select \"アンタ\" \"select_label_1\" \"おまえ\" \"select_label_2\" \"キミ\" \"select_label_3\"\nタスラムはアンタのこと、\nなんて呼んでる？\n"
+	},
+	{
+		"ID": 3943,
+		"unitID": 2502011,
+		"questionID": 9502043,
+		"script": "\n;;74,3\n# se \"SE_0734\"\n# select \"71\" \"select_label_1\" \"77\" \"select_label_2\" \"74\" \"select_label_3\"\nタスラムの\nバストサイズがどのくらいか\nアンタ…知ってるの？\n"
+	},
+	{
+		"ID": 3944,
+		"unitID": 2502011,
+		"questionID": 9502044,
+		"script": "\n;;56,1\n# se \"SE_0734\"\n# select \"56\" \"select_label_1\" \"53\" \"select_label_2\" \"59\" \"select_label_3\"\nタスラムの\nウエストサイズがどのくらいか\nアンタ…知ってるの？\n"
+	},
+	{
+		"ID": 3945,
+		"unitID": 2502011,
+		"questionID": 9502045,
+		"script": "\n;;76,2\n# se \"SE_0734\"\n# select \"73\" \"select_label_1\" \"76\" \"select_label_2\" \"79\" \"select_label_3\"\nタスラムの\nヒップサイズがどのくらいか\nアンタ…知ってるの？\n"
+	},
+	{
+		"ID": 3946,
+		"unitID": 2502011,
+		"questionID": 9502046,
+		"script": "\n;;38,3\n# se \"SE_0734\"\n# select \"35\" \"select_label_1\" \"41\" \"select_label_2\" \"38\" \"select_label_3\"\nタスラムの体重は\n次のうちどれ？\n"
+	},
+	{
+		"ID": 3947,
+		"unitID": 2502011,
+		"questionID": 9502047,
+		"script": "\n;;206,1\n# se \"SE_0734\"\n# select \"206\" \"select_label_1\" \"197\" \"select_label_2\" \"215\" \"select_label_3\"\nタスラムの\nバスト＋ウエスト＋ヒップは\nいくつかわかる？\n"
+	},
+	{
+		"ID": 3948,
+		"unitID": 2502011,
+		"questionID": 9502048,
+		"script": "\n;;白,2\n# se \"SE_0734\"\n# select \"赤\" \"select_label_1\" \"白\" \"select_label_2\" \"黒\" \"select_label_3\"\nタスラムの水着の色は\n次のうちどれ？\n"
+	},
+	{
+		"ID": 3949,
+		"unitID": 2502011,
+		"questionID": 9502049,
+		"script": "\n;;70位,3\n# se \"SE_0734\"\n# select \"83位\" \"select_label_1\" \"77位\" \"select_label_2\" \"70位\" \"select_label_3\"\nタスラムは\n第２回人気投票で\n何位だったでしょう？\n"
+	},
+	{
+		"ID": 3950,
+		"unitID": 2502011,
+		"questionID": 9502050,
+		"script": "\n;;五十嵐裕美,1\n# se \"SE_0734\"\n# select \"五十嵐裕美\" \"select_label_1\" \"井上麻里奈\" \"select_label_2\" \"佐倉綾音\" \"select_label_3\"\nタスラムの声優は誰？\n"
+	}
+]

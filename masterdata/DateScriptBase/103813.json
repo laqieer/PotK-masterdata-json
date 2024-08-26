@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 103813,
+		"script": ";;A,アルマスと同じのを（中あたり）\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_cafe\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# voice 210381 \"almace_0005\"\n@アルマス\nふふふ、一緒に来たんだし\n食べるものも一緒にしたいの？\nそういう気づかい、嫌いじゃないわ\n\n# face %(unit_a)s \"surprise\"\n@アルマス\nえ？気づかいとかじゃなくて\n純粋に、私とお揃いが\nよかったの？\n\n# face %(unit_a)s \"usual\"\n# voice 210381 \"almace_0039\"\n@アルマス\nふぅん\nそうなんだ…\n\n@アルマス\n単に自分で決めるのが\n面倒くさいからじゃないの？\nまあ、いいけど\n\n;;モノローグ\n# # textflame 0 0\n@\nそう言うと、アルマスは\n真剣な目でメニューを\n眺め始めた\n\n# face %(unit_a)s \"surprise\"\n# voice 210381 \"almace_0021\"\n# textflame 1 1\n@アルマス\nわ、私はこれにする！\n絶・おいしそう！\n\n# face %(unit_a)s \"sad\"\n# voice 210381 \"almace_0002\"\n@アルマス\n…本当に私と同じでいいの？\n違うの頼めば、分け合えたのに\n\n;;モノローグ\n# textflame 0 0\n@\n少し残念そうな顔をしたが\nアルマスが頼んだ料理を\n二人で食べたのだった\n\n;;-----------------------------------------\n# waitandnext 2\n# fadeout \"black\" 1.2\n"
+	}
+]

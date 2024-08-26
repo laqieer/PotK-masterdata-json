@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 300924,
+		"script": ";;C はだかのつきあい…\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_onsen\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# face %(unit_a)s \"angry\"\n# voice 3009 \"seiryu_0005\"\n@青龍偃月刀\nははは！\n私の裸を見せても\n主君が喜ぶはずもないと水着を…\n\n# textflame 0 0\n@\n見せてくれるなら\n喜んで見るけどね、と\nマスターはぼやく\n\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n# voice 3009 \"seiryu_0022\"\n@青龍偃月刀\nそう、でしたか…？\n\n# textflame 0 0\n@\nこのあと…\n無言になった二人は\nものすごくのぼせたのだった…\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

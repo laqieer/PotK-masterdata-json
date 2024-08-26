@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 502521,
+		"script": ";;■□■青・めぐみん_デート■□■\n;;A 爆裂魔法のことも？ 小\n;;B 綺麗だよね 中\n;;C そうだね、本当に忘れそう 大\n;;モノローグ\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_fireworks\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 0 0\n@\nマスターはめぐみんを誘って\n花火大会にやってきた\n\n# face %(unit_a)s \"happy\"\n# voice 5025 \"megumin_0004\"\n# textflame 1 1\n@めぐみん\n夏に花火とは風流ですね\n\n@めぐみん\n夜空に輝く色とりどりの閃光…\n眺めているだけで\n時間を忘れてしまいそうです\n\n# select \"爆裂魔法のことも？\" \"select_label_01\" \"綺麗だよね\" \"select_label_02\" \"そうだね、本当に忘れそう\" \"select_label_03\"\n夜空に輝く色とりどりの閃光…\n眺めているだけで\n時間を忘れてしまいそうです\n\n# label \"select_label_01\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_02\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_03\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# textflame 1 1\n# waitandnext 0.1\n\n# label \"select_label_end\"\n# waitandnext 2\n# fadeout \"black\" 1.2\n"
+	}
+]

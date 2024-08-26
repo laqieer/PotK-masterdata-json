@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 294001199,
+		"script": ";;//正解\n# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body 2400121\n# pos 2400121 3\n# mask 2400121 off\n# chara 2400121\n# fadein \"black\" 0.5\n# textflame 1 1\n# face 2400121 \"sad\"\n# se \"SE_0732\"\n@アルテミス\nなっ…\nい、いえ、当たっています\n正解です\n\n# face 2400121 \"smile\"\n# voice 240012 \"arutemisu_k_0020\"\n@アルテミス\nなんといいますか…嬉しい、ですね\nそこまで知っていただけていたなんて\n\n@アルテミス\nこのアルテミス、期待に応えます\nマスターを脅かすものはこれからも\n私の弓で射抜いていきましょう\n\n@アルテミス\n今は私から離れないでください\n\n;;モノローグ\n# textflame 0 0\n@\n無事に帰るまでの間ずっと\nアルテミスはすぐ隣に寄り添っていた\n\n;;モノローグ\n# textflame 0 0\n@\n彼女の匂いがほのかに感じられる\n甘い帰り道となった\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

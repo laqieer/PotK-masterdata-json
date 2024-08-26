@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 402221,
+		"script": ";;A,中\n;;B,大\n;;C,小\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_drive\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# face %(unit_a)s \"normal\"\n# textflame 0 0\n@\nイチイバルとデートした\n帰り道をドライブ中のマスター\n\n# voice 540221 \"ichiibal_c_0004\"\n# textflame 1 1\n@イチイバル\nふふっ\nなんか…変な感じがするね\n\n@イチイバル\nこうしてひとつの箱に\nボクとお兄さんの、\n二人だけ\n\n@イチイバル\n天才美少女イチイバルさんを\n独り占めできるなんて…\n\n# voice 540221 \"ichiibal_c_0006\"\n@イチイバル\nお兄さんはラッキーだね\nドヤッ☆\n\n@イチイバル\nこのまま帰っちゃうの\nなんかもったいない\n気がするよ…\n\n# voice 540221 \"ichiibal_c_0019\"\n@イチイバル\nううん…あれ…？\nなんか眠くなって\nきちゃったかも…\n\n# select \"寝ていいよ\" \"select_label_01\" \"車を止める\" \"select_label_02\" \"寄り道する\" \"select_label_03\"\nううん…あれ…？\nなんか眠くなって\nきちゃったかも…\n\n# label \"select_label_01\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_02\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_03\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# textflame 1 1\n# waitandnext 0.1\n\n# label \"select_label_end\"\n# waitandnext 2\n# fadeout \"black\" 1.2\n"
+	}
+]

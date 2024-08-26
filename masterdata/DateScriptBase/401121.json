@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 401121,
+		"script": ";;A,大\n;;B,中\n;;C,小\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_fireworks\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# face %(unit_a)s \"normal\"\n# textflame 0 0\n@\n帰り道…\n大きな音が聞こえ、\n二人は振り返る\n\n@\n見上げると、\n空には色とりどりの花火が\n打ち上げられていた\n\n# face %(unit_a)s \"happy\"\n# voice 4011 \"madoka_0041\"\n# textflame 1 1\n@%(unitName:unit_a)s\nわぁ…きれい！\nそっか、今日って\n花火大会なんだね\n\n# face %(unit_a)s \"normal\"\n@%(unitName:unit_a)s\n花火を見てると、\n夏が来たって感じがするね\n\n@%(unitName:unit_a)s\nなんだか\n見滝原にいたときのこと\n思い出しちゃうなあ\n\n# select \"元の世界に戻りたい？\" \"select_label_01\" \"そっちの花火も見たいな\" \"select_label_02\" \"花火大会、楽しもう\" \"select_label_03\"\nなんだか\n見滝原にいたときのこと\n思い出しちゃうなあ\n\n# label \"select_label_01\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_02\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_03\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# textflame 1 1\n# waitandnext 0.1\n\n# label \"select_label_end\"\n# waitandnext 2\n# fadeout \"black\" 1.2\n"
+	}
+]

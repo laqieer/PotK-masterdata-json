@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 301524,
+		"script": ";;C\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_room\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# face %(unit_a)s \"angry\"\n# voice 3015 \"kyoko_0019\"\n# textflame 1 1\n@%(unitName:unit_a)s\nおいおい、人ん家に来て\n第一声がそれかよ…？\n\n# face %(unit_a)s \"usual\"\n@%(unitName:unit_a)s\nしょうがねえな～、\nなんか用意してやるから\nそこで待ってなよ\n\n@%(unitName:unit_a)s\nえーと、すぐにでも\n食えそうなヤツは…ねえな\n\n# voice 3015 \"kyoko_0002\"\n@%(unitName:unit_a)s\n適当なもんでよかったら\n作ってやるけど、それでもいいか？\n\n@%(unitName:unit_a)s\n…りょーかい\nまずくても文句言うなよな\n\n# face %(unit_a)s \"normal\"\n# voice 3015 \"kyoko_0004\"\n@%(unitName:unit_a)s\nどうせ他のヤツらも\n腹空かせてるだろうし…\n多めに作ってやるか！\n\n# textflame 0 0\n@\n慣れた手つきで\n晩ごはんの支度をはじめる杏子\n\n@\nその後ろ姿は、\n普段の戦いと違って\nとても平和で穏やかだった…\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

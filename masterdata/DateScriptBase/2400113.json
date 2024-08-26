@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 2400113,
+		"script": "# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_church\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# textflame 0 0\n@\n～～～♪\n\n# textflame 0 0\n@\n子どもたちが声を合わせて歌っている\n\n# textflame 1 1\n@アルテミス\n歌、ですか\n意識して聞いたことは\nなかったのですが…いいですね\n\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@アルテミス\nふふ～ん…ふ～ん～♪\n\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n# voice 240012 \"arutemisu_k_0022\"\n@アルテミス\nす、すみません！\nついつられて歌ってしまいました…\n\n# textflame 0 0\n@\nとても綺麗な歌声だったよ\nそう告げると\nアルテミスの顔が赤くなっていった\n\n# face %(unit_a)s \"angry\"\n# textflame 1 1\n# voice 240012 \"arutemisu_k_0037\"\n@アルテミス\nか、からかわないでください\n私が歌なんて、そんな…\n\n# face %(unit_a)s \"smile\"\n# textflame 0 0\n@\nアルテミスは照れてはいるが\n嬉しそうに表情を緩めている\n\n# textflame 0 0\n@\nアルテミスとの距離が以前よりも\n縮まっていることを実感した…\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

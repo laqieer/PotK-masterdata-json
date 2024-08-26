@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 221041413,
+		"script": ";;-----------------------------------------\n;;ファンキル　バレンタインイベント　シナリオ\n;;【タイトル案】\n;;悪戯姫の甘い嘘\n;;【EP.1_3】秘密と嘘と\n;;背景：ケイオスリオン、屋外\n;;-----------------------------------------\n# background \"300_devil_daytime03\"\n# bgmfile \"bgm203\" \"BgmGakuen004\" 0\n;;-----------------------------------------\n;;ヘレナ\n# body 3302821\n# pos 3302821 4\n# scale 3302821 0.8 0\n# alpha 3302821 1 0\n;;オティヌス\n# body 3400821\n# pos 3400821 2\n# scale 3400821 0.8 0\n# alpha 3400821 1 0\n;;-----------------------------------------\n# textflame 0 0\n@\n戦闘のあと、マスターは勝手な行動で\n迷惑をかけたことを二人に謝る\n\n# textflame 1 1\n# textboxarrow 0 3\n# face 3302821 \"normal\"\n# voice 3028 \"herena_a_0005\"\n# chara 3302821\n@ヘレナ\nたいしたことじゃないさ\nマスターの驚いた顔、よかったよ…\n…ぷふっ\n\n# textboxarrow 0 1\n# face 3400821 \"normal\"\n# voice 340081 \"otyinusu_a_0004\"\n# chara 3400821\n@オティヌス\nふふっ…たしかに…\nだが、ここから先は\nあたし達の後ろにいたほうがいい\n\n# textboxarrow 0 1\n;;# voice 3028 \"\"\n# chara 3302821\n@オティヌス\nまずは、ヘレナの大事なものを\n探しにいくとしようか…\n\n# emotionbody 1000 3 3302821 0 230\n# effectpattern 1000 1 0\n# effectstart 1000\n# textboxarrow 0 3\n# voice 3028 \"herena_a_0004\"\n# chara 3302821\n@ヘレナ\n…くふっ"
+	}
+]

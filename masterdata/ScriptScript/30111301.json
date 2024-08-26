@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 30111301,
+		"script": "# script \"lisp\"\n# background \"forest\"\n# bgm \"bgm002\" 0\n# body 301111\n# mask 301111 off\n# pos 301111 3\n# voice 3011 \"pinky_0020\"\n# textboxarrow 0 2\n# chara 301111\n@ピンキー\nわ〜い！見て、見て！マスター！\nこれ、拾ったの〜！\nそこの森で！\n\n# chara 301111\n@ピンキー\nそ！どんぐりぃ！！\nかぁわいいでしょ！？\n\n# chara 301111\n@ピンキー\nまぁまぁ、マスター\n戦いが無い時くらい、いいじゃないの\n何してたって〜！\n\n# voice 3011 \"pinky_event_1011\"\n# chara 301111\n@ピンキー\nあと、これも見て、マスター！\nピンキー自作の着ぐるみだ〜っ！\nどか〜ん！あはははははは！\n\n# voice 3011 \"pinky_unit_1010\"\n# chara 301111\n@ピンキー\nどう？超かわいいでしょ！？\nかわいいよね！？\n\n# face 301111 \"surprise\"\n# voice 3011 \"pinky_0027\"\n# chara 301111\n@ピンキー\nえ〜！どんぐりとパンダが\n何で子どもなのさ〜！\n\n# face 301111 \"angry\"\n# chara 301111\n@ピンキー\nふ〜んだ！\nピンキーはどうせ子どもだもんね！\nわはははは、まいったか！？\n\n# face 301111 \"normal\"\n# voice 3011 \"pinky_event_1011\"\n\n# face 301111 \"surprise\"\n# voice 3011 \"pinky_1042\"\n# chara 301111\n@ピンキー\n…え？どうして、\nいつも明るいかって？\nえ〜、だってさぁ\n\n# face 301111 \"normal\"\n# chara 301111\n@ピンキー\n元気だけが\nピンキーの取り柄だからね！\n\n# voice 3011 \"pinky_0004\"\n\n# textflame 0 0\n@\nいつ見ても笑顔のピンキー\nその明るさに、マスターは\nいつも癒されている"
+	}
+]

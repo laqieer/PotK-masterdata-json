@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 95017398,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# se \"SE_0733\"\n# voice 5017 \"grimoire_0013\"\n@グリモワール\n…違うよ、不正解\n\n@グリモワール\n…………\n\n# face %(unit_a)s \"angry\"\n# voice 5017 \"grimoire_0024\"\n@グリモワール\nなんだ、\n魔法を使えるのは\nワタシだけか…\n\n# face %(unit_a)s \"sad\"\n@グリモワール\n…やっぱり\n\n;;吹き出し小さく\n# voice 5017 \"grimoire_0008\"\n# textsize 18\n@グリモワール\n恋人になれる魔法なんて、\nあるわけないよね…\n\n# textsize 24\n# voice 5017 \"grimoire_0026\"\n# face %(unit_a)s \"angry\"\n@グリモワール\nな、なんでもないぃ\n\n# textflame 0 0\n@\n彼女の悲しい顔が胸に突き刺さった\n\n@\nデート中のはずなのに…\nあんな顔させてしまうなんて…\n\n@\n僕は魔法使いじゃないけど…\n彼女には笑っていて欲しい…\n今度こそ間違えないようにしよう…\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 202224,
+		"script": ";;A\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_drive\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# voice 2022 \"banko_0003\"\n@盤古\nうむ…ずいぶんと\n盛り上がっているようだ\n\n@盤古\nお祭り、というのだったか？\nあまり行ったことはないが…\n\n@盤古\n姫達から、\nとても楽しい催しだと\n聞いているので、な…\n\n# face %(unit_a)s \"surprise\"\n# voice 2022 \"banko_0015\"\n@盤古\nでも…うぅ…\nあ、あの人混みには、\n入れそうにない…\n\n# face %(unit_a)s \"normal\"\n# voice 2022 \"banko_0022\"\n@盤古\nん…なに、リク？\nうん、うん…\n\n@盤古\nふむ…線香花火？\nそんなものがあるのか\n\n@盤古\nなるほど、それなら…\n現地に行かなくても\n花火を楽しめそうだ\n\n# voice 2022 \"banko_0001\"\n@盤古\nマスター…\n帰りに買っていかないか？\n隊の姫達の分も…\n\n@盤古\n隊のみんなのように、\nお祭りには行けそうにないが…\n\n@盤古\nせめて気分だけでも、\nみんなと一緒に\n楽しみたい、のだ…\n\n@盤古\nどう…だろうか？\n\n# textflame 0 0\n@\n盤古のお願いを叶えるべく、\nマスターは進路を変更する\n\n@\n胸をドキドキさせながらも、\n期待のこもった表情で\n盤古は夜景を楽しむのだった\n;;-----------------------------------------\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 102021,
+		"script": ";;A,大\n;;B,中\n;;C,小\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_drive\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# face %(unit_a)s \"usual\"\n# textflame 0 0\n@\nお出かけの帰り…\nさやかを車で送るマスター\n\n@\n見慣れない街の夜景に、\nさやかは声を上げて感嘆していた\n\n# face %(unit_a)s \"normal\"\n# voice 1020 \"sayaka_0041\"\n# textflame 1 1\n@%(unitName:unit_a)s\nすっごい綺麗！\nいろんなところが光ってて…\n惚れちゃうなぁ\n\n# face %(unit_a)s \"usual\"\n@%(unitName:unit_a)s\n良い気分ついでに、\n何か音楽でも\n聞きたいとこだけど…\n\n# voice 1020 \"sayaka_0021\"\n@%(unitName:unit_a)s\nえっ、流せるの？\nやった！じゃあお願い！\n\n@%(unitName:unit_a)s\n夜のドライブにぴったりな曲、\n一発かけちゃってよ！\n\n# select \"明るい曲\" \"select_label_01\" \"静かな曲\" \"select_label_02\" \"奇抜な曲\" \"select_label_03\"\n夜のドライブにぴったりな曲、\n一発かけちゃってよ！\n\n# label \"select_label_01\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_02\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_03\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# textflame 1 1\n# waitandnext 0.1\n\n# label \"select_label_end\"\n# waitandnext 2\n# fadeout \"black\" 1.2\n"
+	}
+]

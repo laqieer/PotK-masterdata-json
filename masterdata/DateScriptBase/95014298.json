@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 95014298,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# se \"SE_0733\"\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n@%(unitName:unit_a)s\nその答え…\n\n# voice 5014 \"mami_0019\"\n@%(unitName:unit_a)s\n不正解だわ\n\n# voice 5014 \"mami_0028\"\n@%(unitName:unit_a)s\n私のことを理解してもらうには\nもっと時間が必要なようね…\n\n@%(unitName:unit_a)s\nということでマスター\n\n# face %(unit_a)s \"normal\"\n# voice 5014 \"mami_0008\"\n@%(unitName:unit_a)s\nこれからも仲良くしてね\n\n# textflame 0 0\n@\n寂しげな笑顔を見せる彼女\n\n@\nマスターは、彼女に\n辛い思いをさせてしまったことを、\n深く反省するのだった…\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

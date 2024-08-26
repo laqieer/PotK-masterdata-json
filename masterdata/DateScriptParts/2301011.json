@@ -1,0 +1,26 @@
+[
+	{
+		"ID": 223,
+		"unitID": 2301011,
+		"scriptID": "kaerimichi",
+		"script": "マスター、あなたをお守りするため…\n家に帰るまでずっと一緒にいます！"
+	},
+	{
+		"ID": 238,
+		"unitID": 2301011,
+		"scriptID": "kaeru",
+		"script": "それでは帰りましょうか…\nもうここまで来れば安全ですよ"
+	},
+	{
+		"ID": 253,
+		"unitID": 2301011,
+		"scriptID": "kaeru_ok",
+		"script": "@%(unitName:unit_a)s\nもちろんです！初めから\nマスターをお守りするため\n一緒にいるつもりでしたが"
+	},
+	{
+		"ID": 268,
+		"unitID": 2301011,
+		"scriptID": "kaeru_ng",
+		"script": "@%(unitName:unit_a)s\nこんな遅い時間に\n外にいてはいけません！\nさあ帰りましょう"
+	}
+]

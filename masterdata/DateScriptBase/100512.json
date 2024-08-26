@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 100512,
+		"script": ";;c 大当たり\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background %(background)s\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# voice 1005 \"ritto_0023\"\n# face %(unit_a)s \"sad\"\n@リットゥ\nマスター！？\n\n@リットゥ\nまさか…\nここで野営する気では\nないだろうな！？\n\n# textflame 0 0\n@\nさすがにそれは心配される\nだがこう暗くなっては\n急いでも同じだとマスターは言う\n\n# voice 1005 \"ritto_0026\"\n# face %(unit_a)s \"normal\"\n# textflame 1 1\n@リットゥ\nそうなものだろうか…\nま、まぁ…お前がその気なら\n私は付き合うが…\n\n# textflame 0 0\n@\nリットゥはなにかを思いついたのか\n小枝を拾い始めた\nそして…\n\n# textflame 1 1\n@リットゥ\n…常夏とはいえ夜の森は冷える\n少し暖を取ろう\n\n# voice 1005 \"ritto_0004\"\n# face %(unit_a)s \"smile\"\n@リットゥ\n…というのは言い訳で\n本当は焚き火が好きなんだ\n\n# textflame 0 0\n@\n焚き火が\nリットゥの穏やかな笑顔を\n赤く照らしている\n\n# face %(unit_a)s \"normal\"\n# textflame 1 1\n@リットゥ\n温かいな…\nこれなら本当に野営をしても…\n\n# voice 1005 \"ritto_0008\"\n@リットゥ\n…い、いや！\n今のは例えだぞ！！\n本気では…ないからな！\n\n# textflame 0 0\n@\n帰らなかったら\nやっぱりバレてしまうかな\nそんなことを考えるマスターだった―\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

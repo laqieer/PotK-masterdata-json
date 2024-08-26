@@ -1,0 +1,26 @@
+[
+	{
+		"ID": 3,
+		"unitID": 2500811,
+		"scriptID": "kaerimichi",
+		"script": "あなた、\nやっぱりまだデートを続けるわよ"
+	},
+	{
+		"ID": 30,
+		"unitID": 2500811,
+		"scriptID": "kaeru",
+		"script": "あなた\nそろそろ帰るわよ"
+	},
+	{
+		"ID": 57,
+		"unitID": 2500811,
+		"scriptID": "kaeru_ok",
+		"script": "@%(unitName:unit_a)s\nやーっと浮気をやめて\n私だけをみてくれるのね\nさ、行きましょう"
+	},
+	{
+		"ID": 84,
+		"unitID": 2500811,
+		"scriptID": "kaeru_ng",
+		"script": "@%(unitName:unit_a)s\n…いいえ、あなた、\n今日は帰りましょう？"
+	}
+]

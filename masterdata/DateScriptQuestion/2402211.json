@@ -1,0 +1,302 @@
+[
+	{
+		"ID": 6153,
+		"unitID": 2402211,
+		"questionID": 9402201,
+		"script": ";;弓,3\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 540221 \"ichiibal_c_0002\"\n@イチイバル\nねぇ、お兄さん\n\n@イチイバル\nハグしてあげようか\n\n# textflame 0 0\n@\nえ？なんで急に？\n慌てて、尋ねるマスター\n\n# voice 540221 \"ichiibal_c_0022\"\n# textflame 1 1\n@イチイバル\nボクとお兄さんはお友達だよね？\nお友達がハグをするのに理由が\n必要かい？\n\n# textflame 0 0\n@\n平然とした様子のイチイバルに\nそれでも…\nと、うろたえるマスター\n\n# face %(unit_a)s \"angry\"\n# voice 540221 \"ichiibal_c_0027\"\n# textflame 1 1\n@イチイバル\nうーーん、そうだなぁ\nそれなら、クイズに正解したら\nハグをするっていうのはどうかな？\n\n# face %(unit_a)s \"normal\"\n@イチイバル\n準備はいい？\nそれじゃ、いくよ\n;;---------------------------------\n\n@%(unitName:unit_a)s\nボクの武器属性は知っているかな？　\n\n# se \"SE_0734\"\n# select \"剣\" \"select_label_1\" \"銃\" \"select_label_2\" \"弓\" \"select_label_3\"\nボクの武器属性は知っているかな？　\n"
+	},
+	{
+		"ID": 6154,
+		"unitID": 2402211,
+		"questionID": 9402202,
+		"script": ";;オーディン,2\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 540221 \"ichiibal_c_0002\"\n@イチイバル\nねぇ、お兄さん\n\n@イチイバル\nハグしてあげようか\n\n# textflame 0 0\n@\nえ？なんで急に？\n慌てて、尋ねるマスター\n\n# voice 540221 \"ichiibal_c_0022\"\n# textflame 1 1\n@イチイバル\nボクとお兄さんはお友達だよね？\nお友達がハグをするのに理由が\n必要かい？\n\n# textflame 0 0\n@\n平然とした様子のイチイバルに\nそれでも…\nと、うろたえるマスター\n\n# face %(unit_a)s \"angry\"\n# voice 540221 \"ichiibal_c_0027\"\n# textflame 1 1\n@イチイバル\nうーーん、そうだなぁ\nそれなら、クイズに正解したら\nハグをするっていうのはどうかな？\n\n# face %(unit_a)s \"normal\"\n@イチイバル\n準備はいい？\nそれじゃ、いくよ\n;;---------------------------------\n\n@%(unitName:unit_a)s\nボクにコマンドされたのは…？\n\n# se \"SE_0734\"\n# select \"フェンリル\" \"select_label_1\" \"オーディン\" \"select_label_2\" \"ミーミル\" \"select_label_3\"\nボクにコマンドされたのは…？\n"
+	},
+	{
+		"ID": 6155,
+		"unitID": 2402211,
+		"questionID": 9402203,
+		"script": ";;ウル,1\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 540221 \"ichiibal_c_0002\"\n@イチイバル\nねぇ、お兄さん\n\n@イチイバル\nハグしてあげようか\n\n# textflame 0 0\n@\nえ？なんで急に？\n慌てて、尋ねるマスター\n\n# voice 540221 \"ichiibal_c_0022\"\n# textflame 1 1\n@イチイバル\nボクとお兄さんはお友達だよね？\nお友達がハグをするのに理由が\n必要かい？\n\n# textflame 0 0\n@\n平然とした様子のイチイバルに\nそれでも…\nと、うろたえるマスター\n\n# face %(unit_a)s \"angry\"\n# voice 540221 \"ichiibal_c_0027\"\n# textflame 1 1\n@イチイバル\nうーーん、そうだなぁ\nそれなら、クイズに正解したら\nハグをするっていうのはどうかな？\n\n# face %(unit_a)s \"normal\"\n@イチイバル\n準備はいい？\nそれじゃ、いくよ\n;;---------------------------------\n\n@%(unitName:unit_a)s\nボクのキラーズ『イチイバル』の\n持ち主は…？\n\n# se \"SE_0734\"\n# select \"ウル\" \"select_label_1\" \"カウ\" \"select_label_2\" \"モラウ\" \"select_label_3\"\nボクのキラーズ『イチイバル』の\n持ち主は…？\n"
+	},
+	{
+		"ID": 6156,
+		"unitID": 2402211,
+		"questionID": 9402204,
+		"script": ";;光輝,3\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 540221 \"ichiibal_c_0002\"\n@イチイバル\nねぇ、お兄さん\n\n@イチイバル\nハグしてあげようか\n\n# textflame 0 0\n@\nえ？なんで急に？\n慌てて、尋ねるマスター\n\n# voice 540221 \"ichiibal_c_0022\"\n# textflame 1 1\n@イチイバル\nボクとお兄さんはお友達だよね？\nお友達がハグをするのに理由が\n必要かい？\n\n# textflame 0 0\n@\n平然とした様子のイチイバルに\nそれでも…\nと、うろたえるマスター\n\n# face %(unit_a)s \"angry\"\n# voice 540221 \"ichiibal_c_0027\"\n# textflame 1 1\n@イチイバル\nうーーん、そうだなぁ\nそれなら、クイズに正解したら\nハグをするっていうのはどうかな？\n\n# face %(unit_a)s \"normal\"\n@イチイバル\n準備はいい？\nそれじゃ、いくよ\n;;---------------------------------\n\n@%(unitName:unit_a)s\nボクのキラーズ『イチイバル』とは\nどんな意味を持っている？\n\n# se \"SE_0734\"\n# select \"高貴\" \"select_label_1\" \"後期\" \"select_label_2\" \"光輝\" \"select_label_3\"\nボクのキラーズ『イチイバル』とは\nどんな意味を持っている？\n"
+	},
+	{
+		"ID": 6157,
+		"unitID": 2402211,
+		"questionID": 9402205,
+		"script": ";;北欧神話,2\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 540221 \"ichiibal_c_0002\"\n@イチイバル\nねぇ、お兄さん\n\n@イチイバル\nハグしてあげようか\n\n# textflame 0 0\n@\nえ？なんで急に？\n慌てて、尋ねるマスター\n\n# voice 540221 \"ichiibal_c_0022\"\n# textflame 1 1\n@イチイバル\nボクとお兄さんはお友達だよね？\nお友達がハグをするのに理由が\n必要かい？\n\n# textflame 0 0\n@\n平然とした様子のイチイバルに\nそれでも…\nと、うろたえるマスター\n\n# face %(unit_a)s \"angry\"\n# voice 540221 \"ichiibal_c_0027\"\n# textflame 1 1\n@イチイバル\nうーーん、そうだなぁ\nそれなら、クイズに正解したら\nハグをするっていうのはどうかな？\n\n# face %(unit_a)s \"normal\"\n@イチイバル\n準備はいい？\nそれじゃ、いくよ\n;;---------------------------------\n\n@%(unitName:unit_a)s\nボクにコマンドされたオーディンは\nどんな神話に登場する？\n\n# se \"SE_0734\"\n# select \"インド神話\" \"select_label_1\" \"北欧神話\" \"select_label_2\" \"日本神話\" \"select_label_3\"\nボクにコマンドされたオーディンは\nどんな神話に登場する？\n"
+	},
+	{
+		"ID": 6158,
+		"unitID": 2402211,
+		"questionID": 9402206,
+		"script": ";;戦争と死の神,3\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 540221 \"ichiibal_c_0002\"\n@イチイバル\nねぇ、お兄さん\n\n@イチイバル\nハグしてあげようか\n\n# textflame 0 0\n@\nえ？なんで急に？\n慌てて、尋ねるマスター\n\n# voice 540221 \"ichiibal_c_0022\"\n# textflame 1 1\n@イチイバル\nボクとお兄さんはお友達だよね？\nお友達がハグをするのに理由が\n必要かい？\n\n# textflame 0 0\n@\n平然とした様子のイチイバルに\nそれでも…\nと、うろたえるマスター\n\n# face %(unit_a)s \"angry\"\n# voice 540221 \"ichiibal_c_0027\"\n# textflame 1 1\n@イチイバル\nうーーん、そうだなぁ\nそれなら、クイズに正解したら\nハグをするっていうのはどうかな？\n\n# face %(unit_a)s \"normal\"\n@イチイバル\n準備はいい？\nそれじゃ、いくよ\n;;---------------------------------\n\n@%(unitName:unit_a)s\nボクにコマンドされたオーディンは\nどんな神か知っているかな？\n\n# se \"SE_0734\"\n# select \"踊りの神\" \"select_label_1\" \"水と光の神\" \"select_label_2\" \"戦争と死の神\" \"select_label_3\"\nボクにコマンドされたオーディンは\nどんな神か知っているかな？\n"
+	},
+	{
+		"ID": 6159,
+		"unitID": 2402211,
+		"questionID": 9402207,
+		"script": ";;知識,2\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 540221 \"ichiibal_c_0002\"\n@イチイバル\nねぇ、お兄さん\n\n@イチイバル\nハグしてあげようか\n\n# textflame 0 0\n@\nえ？なんで急に？\n慌てて、尋ねるマスター\n\n# voice 540221 \"ichiibal_c_0022\"\n# textflame 1 1\n@イチイバル\nボクとお兄さんはお友達だよね？\nお友達がハグをするのに理由が\n必要かい？\n\n# textflame 0 0\n@\n平然とした様子のイチイバルに\nそれでも…\nと、うろたえるマスター\n\n# face %(unit_a)s \"angry\"\n# voice 540221 \"ichiibal_c_0027\"\n# textflame 1 1\n@イチイバル\nうーーん、そうだなぁ\nそれなら、クイズに正解したら\nハグをするっていうのはどうかな？\n\n# face %(unit_a)s \"normal\"\n@イチイバル\n準備はいい？\nそれじゃ、いくよ\n;;---------------------------------\n\n@%(unitName:unit_a)s\nボクにコマンドされたオーディンは\n何に貪欲か知っているかな？\n\n# se \"SE_0734\"\n# select \"食事\" \"select_label_1\" \"知識\" \"select_label_2\" \"狩り\" \"select_label_3\"\nボクにコマンドされたオーディンは\n何に貪欲か知っているかな？\n"
+	},
+	{
+		"ID": 6160,
+		"unitID": 2402211,
+		"questionID": 9402208,
+		"script": ";;隻眼,2\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 540221 \"ichiibal_c_0002\"\n@イチイバル\nねぇ、お兄さん\n\n@イチイバル\nハグしてあげようか\n\n# textflame 0 0\n@\nえ？なんで急に？\n慌てて、尋ねるマスター\n\n# voice 540221 \"ichiibal_c_0022\"\n# textflame 1 1\n@イチイバル\nボクとお兄さんはお友達だよね？\nお友達がハグをするのに理由が\n必要かい？\n\n# textflame 0 0\n@\n平然とした様子のイチイバルに\nそれでも…\nと、うろたえるマスター\n\n# face %(unit_a)s \"angry\"\n# voice 540221 \"ichiibal_c_0027\"\n# textflame 1 1\n@イチイバル\nうーーん、そうだなぁ\nそれなら、クイズに正解したら\nハグをするっていうのはどうかな？\n\n# face %(unit_a)s \"normal\"\n@イチイバル\n準備はいい？\nそれじゃ、いくよ\n;;---------------------------------\n\n@%(unitName:unit_a)s\nボクにコマンドされたオーディンは…\n\n# se \"SE_0734\"\n# select \"開眼\" \"select_label_1\" \"隻眼\" \"select_label_2\" \"近眼\" \"select_label_3\"\nボクにコマンドされたオーディンは…\n"
+	},
+	{
+		"ID": 6161,
+		"unitID": 2402211,
+		"questionID": 9402209,
+		"script": ";;決闘の神,1\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 540221 \"ichiibal_c_0002\"\n@イチイバル\nねぇ、お兄さん\n\n@イチイバル\nハグしてあげようか\n\n# textflame 0 0\n@\nえ？なんで急に？\n慌てて、尋ねるマスター\n\n# voice 540221 \"ichiibal_c_0022\"\n# textflame 1 1\n@イチイバル\nボクとお兄さんはお友達だよね？\nお友達がハグをするのに理由が\n必要かい？\n\n# textflame 0 0\n@\n平然とした様子のイチイバルに\nそれでも…\nと、うろたえるマスター\n\n# face %(unit_a)s \"angry\"\n# voice 540221 \"ichiibal_c_0027\"\n# textflame 1 1\n@イチイバル\nうーーん、そうだなぁ\nそれなら、クイズに正解したら\nハグをするっていうのはどうかな？\n\n# face %(unit_a)s \"normal\"\n@イチイバル\n準備はいい？\nそれじゃ、いくよ\n;;---------------------------------\n\n@%(unitName:unit_a)s\nボクのキラーズ『イチイバル』の\n持ち主ウルは\n何の神か知っているかな？\n\n# se \"SE_0734\"\n# select \"決闘の神\" \"select_label_1\" \"料理の神\" \"select_label_2\" \"歌の神\" \"select_label_3\"\nボクのキラーズ『イチイバル』の\n持ち主ウルは\n何の神か知っているかな？\n"
+	},
+	{
+		"ID": 6162,
+		"unitID": 2402211,
+		"questionID": 9402210,
+		"script": ";;詩文の神,3\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 540221 \"ichiibal_c_0002\"\n@イチイバル\nねぇ、お兄さん\n\n@イチイバル\nハグしてあげようか\n\n# textflame 0 0\n@\nえ？なんで急に？\n慌てて、尋ねるマスター\n\n# voice 540221 \"ichiibal_c_0022\"\n# textflame 1 1\n@イチイバル\nボクとお兄さんはお友達だよね？\nお友達がハグをするのに理由が\n必要かい？\n\n# textflame 0 0\n@\n平然とした様子のイチイバルに\nそれでも…\nと、うろたえるマスター\n\n# face %(unit_a)s \"angry\"\n# voice 540221 \"ichiibal_c_0027\"\n# textflame 1 1\n@イチイバル\nうーーん、そうだなぁ\nそれなら、クイズに正解したら\nハグをするっていうのはどうかな？\n\n# face %(unit_a)s \"normal\"\n@イチイバル\n準備はいい？\nそれじゃ、いくよ\n;;---------------------------------\n\n@%(unitName:unit_a)s\nボクにコマンドされたオーディンは\n戦争と死の神であり…\n\n# se \"SE_0734\"\n# select \"舞踏の神\" \"select_label_1\" \"恋愛の神\" \"select_label_2\" \"詩文の神\" \"select_label_3\"\nボクにコマンドされたオーディンは\n戦争と死の神であり…\n"
+	},
+	{
+		"ID": 6163,
+		"unitID": 2402211,
+		"questionID": 9402211,
+		"script": ";;光,1\n# textflame 1 1\n# face %(unit_a)s \"surprise\"\n@イチイバル\n………\n\n# face %(unit_a)s \"angry\"\n# voice 5402211 \"ichiibal_c_0002\"\n@イチイバル\nねぇ…\nここだけの話なんだけど…\n\n# textflame 0 0\n@\n険しい表情の彼女\n\n# textflame 1 1\n@イチイバル\nこの辺りは……出るらしいよ？\n\n# textflame 0 0\n@\nえ？\n出るって…なにが？\n恐る恐る尋ねるマスター\n\n# textflame 1 1\n@イチイバル\nなにって…ほら……\n\n@イチイバル\nキミの後ろに\n恐ろしい幽霊がーーーーっ！！\n\n# textflame 0 0\n@\nひぃぃぃっ！と、\n悲鳴を上げるマスター\n\n# face %(unit_a)s \"normal\"\n# voice 5402211 \"ichiibal_c_0005\"\n# textflame 1 1\n@イチイバル\nなーんちゃって\nごめんごめん\n嘘だよ\n\n# voice 5402211 \"ichiibal_c_0042\"\n@イチイバル\nキミの驚いた顔が見たくて、\nついね\nテヘッ☆\n\n@イチイバル\nねぇ、怖いんなら\n今日は一緒に寝てあげてもいいよ、\nお兄さん\n\n# voice 5402211 \"ichiibal_c_0021\"\n@イチイバル\nでも、今から出すクイズに\n正解できたらね、キランッ☆\n;;---------------------------------\n\n@%(unitName:unit_a)s\nボクの属性は知っているかな？\n\n# se \"SE_0734\"\n# select \"光\" \"select_label_1\" \"風\" \"select_label_2\" \"水\" \"select_label_3\"\nボクの属性は知っているかな？\n"
+	},
+	{
+		"ID": 6164,
+		"unitID": 2402211,
+		"questionID": 9402212,
+		"script": ";;158cm ,2\n# textflame 1 1\n# face %(unit_a)s \"surprise\"\n@イチイバル\n………\n\n# face %(unit_a)s \"angry\"\n# voice 5402211 \"ichiibal_c_0002\"\n@イチイバル\nねぇ…\nここだけの話なんだけど…\n\n# textflame 0 0\n@\n険しい表情の彼女\n\n# textflame 1 1\n@イチイバル\nこの辺りは……出るらしいよ？\n\n# textflame 0 0\n@\nえ？\n出るって…なにが？\n恐る恐る尋ねるマスター\n\n# textflame 1 1\n@イチイバル\nなにって…ほら……\n\n@イチイバル\nキミの後ろに\n恐ろしい幽霊がーーーーっ！！\n\n# textflame 0 0\n@\nひぃぃぃっ！と、\n悲鳴を上げるマスター\n\n# face %(unit_a)s \"normal\"\n# voice 5402211 \"ichiibal_c_0005\"\n# textflame 1 1\n@イチイバル\nなーんちゃって\nごめんごめん\n嘘だよ\n\n# voice 5402211 \"ichiibal_c_0042\"\n@イチイバル\nキミの驚いた顔が見たくて、\nついね\nテヘッ☆\n\n@イチイバル\nねぇ、怖いんなら\n今日は一緒に寝てあげてもいいよ、\nお兄さん\n\n# voice 5402211 \"ichiibal_c_0021\"\n@イチイバル\nでも、今から出すクイズに\n正解できたらね、キランッ☆\n;;---------------------------------\n\n@%(unitName:unit_a)s\nボクの身長は知っているかな？\n\n# se \"SE_0734\"\n# select \"168cm\" \"select_label_1\" \"158cm \" \"select_label_2\" \"178cm\" \"select_label_3\"\nボクの身長は知っているかな？\n"
+	},
+	{
+		"ID": 6165,
+		"unitID": 2402211,
+		"questionID": 9402213,
+		"script": ";;1月12日,3\n# textflame 1 1\n# face %(unit_a)s \"surprise\"\n@イチイバル\n………\n\n# face %(unit_a)s \"angry\"\n# voice 5402211 \"ichiibal_c_0002\"\n@イチイバル\nねぇ…\nここだけの話なんだけど…\n\n# textflame 0 0\n@\n険しい表情の彼女\n\n# textflame 1 1\n@イチイバル\nこの辺りは……出るらしいよ？\n\n# textflame 0 0\n@\nえ？\n出るって…なにが？\n恐る恐る尋ねるマスター\n\n# textflame 1 1\n@イチイバル\nなにって…ほら……\n\n@イチイバル\nキミの後ろに\n恐ろしい幽霊がーーーーっ！！\n\n# textflame 0 0\n@\nひぃぃぃっ！と、\n悲鳴を上げるマスター\n\n# face %(unit_a)s \"normal\"\n# voice 5402211 \"ichiibal_c_0005\"\n# textflame 1 1\n@イチイバル\nなーんちゃって\nごめんごめん\n嘘だよ\n\n# voice 5402211 \"ichiibal_c_0042\"\n@イチイバル\nキミの驚いた顔が見たくて、\nついね\nテヘッ☆\n\n@イチイバル\nねぇ、怖いんなら\n今日は一緒に寝てあげてもいいよ、\nお兄さん\n\n# voice 5402211 \"ichiibal_c_0021\"\n@イチイバル\nでも、今から出すクイズに\n正解できたらね、キランッ☆\n;;---------------------------------\n\n@%(unitName:unit_a)s\nボクの誕生日は知っているかな？\n\n# se \"SE_0734\"\n# select \"2月3日\" \"select_label_1\" \"3月23日\" \"select_label_2\" \"1月12日\" \"select_label_3\"\nボクの誕生日は知っているかな？\n"
+	},
+	{
+		"ID": 6166,
+		"unitID": 2402211,
+		"questionID": 9402214,
+		"script": ";;やぎ座,1\n# textflame 1 1\n# face %(unit_a)s \"surprise\"\n@イチイバル\n………\n\n# face %(unit_a)s \"angry\"\n# voice 5402211 \"ichiibal_c_0002\"\n@イチイバル\nねぇ…\nここだけの話なんだけど…\n\n# textflame 0 0\n@\n険しい表情の彼女\n\n# textflame 1 1\n@イチイバル\nこの辺りは……出るらしいよ？\n\n# textflame 0 0\n@\nえ？\n出るって…なにが？\n恐る恐る尋ねるマスター\n\n# textflame 1 1\n@イチイバル\nなにって…ほら……\n\n@イチイバル\nキミの後ろに\n恐ろしい幽霊がーーーーっ！！\n\n# textflame 0 0\n@\nひぃぃぃっ！と、\n悲鳴を上げるマスター\n\n# face %(unit_a)s \"normal\"\n# voice 5402211 \"ichiibal_c_0005\"\n# textflame 1 1\n@イチイバル\nなーんちゃって\nごめんごめん\n嘘だよ\n\n# voice 5402211 \"ichiibal_c_0042\"\n@イチイバル\nキミの驚いた顔が見たくて、\nついね\nテヘッ☆\n\n@イチイバル\nねぇ、怖いんなら\n今日は一緒に寝てあげてもいいよ、\nお兄さん\n\n# voice 5402211 \"ichiibal_c_0021\"\n@イチイバル\nでも、今から出すクイズに\n正解できたらね、キランッ☆\n;;---------------------------------\n\n@%(unitName:unit_a)s\nボクの星座は知っているかな？\n\n# se \"SE_0734\"\n# select \"やぎ座\" \"select_label_1\" \"てんびん座\" \"select_label_2\" \"おとめ座\" \"select_label_3\"\nボクの星座は知っているかな？\n"
+	},
+	{
+		"ID": 6167,
+		"unitID": 2402211,
+		"questionID": 9402215,
+		"script": ";;面白いこと,1\n# textflame 1 1\n# face %(unit_a)s \"surprise\"\n@イチイバル\n………\n\n# face %(unit_a)s \"angry\"\n# voice 5402211 \"ichiibal_c_0002\"\n@イチイバル\nねぇ…\nここだけの話なんだけど…\n\n# textflame 0 0\n@\n険しい表情の彼女\n\n# textflame 1 1\n@イチイバル\nこの辺りは……出るらしいよ？\n\n# textflame 0 0\n@\nえ？\n出るって…なにが？\n恐る恐る尋ねるマスター\n\n# textflame 1 1\n@イチイバル\nなにって…ほら……\n\n@イチイバル\nキミの後ろに\n恐ろしい幽霊がーーーーっ！！\n\n# textflame 0 0\n@\nひぃぃぃっ！と、\n悲鳴を上げるマスター\n\n# face %(unit_a)s \"normal\"\n# voice 5402211 \"ichiibal_c_0005\"\n# textflame 1 1\n@イチイバル\nなーんちゃって\nごめんごめん\n嘘だよ\n\n# voice 5402211 \"ichiibal_c_0042\"\n@イチイバル\nキミの驚いた顔が見たくて、\nついね\nテヘッ☆\n\n@イチイバル\nねぇ、怖いんなら\n今日は一緒に寝てあげてもいいよ、\nお兄さん\n\n# voice 5402211 \"ichiibal_c_0021\"\n@イチイバル\nでも、今から出すクイズに\n正解できたらね、キランッ☆\n;;---------------------------------\n\n@%(unitName:unit_a)s\nボクが好きなのは…\n\n# se \"SE_0734\"\n# select \"面白いこと\" \"select_label_1\" \"かなしいこと\" \"select_label_2\" \"つらいこと\" \"select_label_3\"\nボクが好きなのは…\n"
+	},
+	{
+		"ID": 6168,
+		"unitID": 2402211,
+		"questionID": 9402216,
+		"script": ";;人をからかうこと,1\n# textflame 1 1\n# face %(unit_a)s \"surprise\"\n@イチイバル\n………\n\n# face %(unit_a)s \"angry\"\n# voice 5402211 \"ichiibal_c_0002\"\n@イチイバル\nねぇ…\nここだけの話なんだけど…\n\n# textflame 0 0\n@\n険しい表情の彼女\n\n# textflame 1 1\n@イチイバル\nこの辺りは……出るらしいよ？\n\n# textflame 0 0\n@\nえ？\n出るって…なにが？\n恐る恐る尋ねるマスター\n\n# textflame 1 1\n@イチイバル\nなにって…ほら……\n\n@イチイバル\nキミの後ろに\n恐ろしい幽霊がーーーーっ！！\n\n# textflame 0 0\n@\nひぃぃぃっ！と、\n悲鳴を上げるマスター\n\n# face %(unit_a)s \"normal\"\n# voice 5402211 \"ichiibal_c_0005\"\n# textflame 1 1\n@イチイバル\nなーんちゃって\nごめんごめん\n嘘だよ\n\n# voice 5402211 \"ichiibal_c_0042\"\n@イチイバル\nキミの驚いた顔が見たくて、\nついね\nテヘッ☆\n\n@イチイバル\nねぇ、怖いんなら\n今日は一緒に寝てあげてもいいよ、\nお兄さん\n\n# voice 5402211 \"ichiibal_c_0021\"\n@イチイバル\nでも、今から出すクイズに\n正解できたらね、キランッ☆\n;;---------------------------------\n\n@%(unitName:unit_a)s\nボクの趣味は…\n\n# se \"SE_0734\"\n# select \"人をからかうこと\" \"select_label_1\" \"熊と戦うこと\" \"select_label_2\" \"花を愛でること\" \"select_label_3\"\nボクの趣味は…\n"
+	},
+	{
+		"ID": 6169,
+		"unitID": 2402211,
+		"questionID": 9402217,
+		"script": ";;ＡＢ型,3\n# textflame 1 1\n# face %(unit_a)s \"surprise\"\n@イチイバル\n………\n\n# face %(unit_a)s \"angry\"\n# voice 5402211 \"ichiibal_c_0002\"\n@イチイバル\nねぇ…\nここだけの話なんだけど…\n\n# textflame 0 0\n@\n険しい表情の彼女\n\n# textflame 1 1\n@イチイバル\nこの辺りは……出るらしいよ？\n\n# textflame 0 0\n@\nえ？\n出るって…なにが？\n恐る恐る尋ねるマスター\n\n# textflame 1 1\n@イチイバル\nなにって…ほら……\n\n@イチイバル\nキミの後ろに\n恐ろしい幽霊がーーーーっ！！\n\n# textflame 0 0\n@\nひぃぃぃっ！と、\n悲鳴を上げるマスター\n\n# face %(unit_a)s \"normal\"\n# voice 5402211 \"ichiibal_c_0005\"\n# textflame 1 1\n@イチイバル\nなーんちゃって\nごめんごめん\n嘘だよ\n\n# voice 5402211 \"ichiibal_c_0042\"\n@イチイバル\nキミの驚いた顔が見たくて、\nついね\nテヘッ☆\n\n@イチイバル\nねぇ、怖いんなら\n今日は一緒に寝てあげてもいいよ、\nお兄さん\n\n# voice 5402211 \"ichiibal_c_0021\"\n@イチイバル\nでも、今から出すクイズに\n正解できたらね、キランッ☆\n;;---------------------------------\n\n@%(unitName:unit_a)s\nボクの血液型は知っているかな？\n\n# se \"SE_0734\"\n# select \"Ａ型\" \"select_label_1\" \"Ｏ型\" \"select_label_2\" \"ＡＢ型\" \"select_label_3\"\nボクの血液型は知っているかな？\n"
+	},
+	{
+		"ID": 6170,
+		"unitID": 2402211,
+		"questionID": 9402218,
+		"script": ";;ユーダリル,1\n# textflame 1 1\n# face %(unit_a)s \"surprise\"\n@イチイバル\n………\n\n# face %(unit_a)s \"angry\"\n# voice 5402211 \"ichiibal_c_0002\"\n@イチイバル\nねぇ…\nここだけの話なんだけど…\n\n# textflame 0 0\n@\n険しい表情の彼女\n\n# textflame 1 1\n@イチイバル\nこの辺りは……出るらしいよ？\n\n# textflame 0 0\n@\nえ？\n出るって…なにが？\n恐る恐る尋ねるマスター\n\n# textflame 1 1\n@イチイバル\nなにって…ほら……\n\n@イチイバル\nキミの後ろに\n恐ろしい幽霊がーーーーっ！！\n\n# textflame 0 0\n@\nひぃぃぃっ！と、\n悲鳴を上げるマスター\n\n# face %(unit_a)s \"normal\"\n# voice 5402211 \"ichiibal_c_0005\"\n# textflame 1 1\n@イチイバル\nなーんちゃって\nごめんごめん\n嘘だよ\n\n# voice 5402211 \"ichiibal_c_0042\"\n@イチイバル\nキミの驚いた顔が見たくて、\nついね\nテヘッ☆\n\n@イチイバル\nねぇ、怖いんなら\n今日は一緒に寝てあげてもいいよ、\nお兄さん\n\n# voice 5402211 \"ichiibal_c_0021\"\n@イチイバル\nでも、今から出すクイズに\n正解できたらね、キランッ☆\n;;---------------------------------\n\n@%(unitName:unit_a)s\nボクの出身地は知っているかな？\n\n# se \"SE_0734\"\n# select \"ユーダリル\" \"select_label_1\" \"オーストラリア\" \"select_label_2\" \"インドネシア\" \"select_label_3\"\nボクの出身地は知っているかな？\n"
+	},
+	{
+		"ID": 6171,
+		"unitID": 2402211,
+		"questionID": 9402219,
+		"script": ";;独特なニックネーム,3\n# textflame 1 1\n# face %(unit_a)s \"surprise\"\n@イチイバル\n………\n\n# face %(unit_a)s \"angry\"\n# voice 5402211 \"ichiibal_c_0002\"\n@イチイバル\nねぇ…\nここだけの話なんだけど…\n\n# textflame 0 0\n@\n険しい表情の彼女\n\n# textflame 1 1\n@イチイバル\nこの辺りは……出るらしいよ？\n\n# textflame 0 0\n@\nえ？\n出るって…なにが？\n恐る恐る尋ねるマスター\n\n# textflame 1 1\n@イチイバル\nなにって…ほら……\n\n@イチイバル\nキミの後ろに\n恐ろしい幽霊がーーーーっ！！\n\n# textflame 0 0\n@\nひぃぃぃっ！と、\n悲鳴を上げるマスター\n\n# face %(unit_a)s \"normal\"\n# voice 5402211 \"ichiibal_c_0005\"\n# textflame 1 1\n@イチイバル\nなーんちゃって\nごめんごめん\n嘘だよ\n\n# voice 5402211 \"ichiibal_c_0042\"\n@イチイバル\nキミの驚いた顔が見たくて、\nついね\nテヘッ☆\n\n@イチイバル\nねぇ、怖いんなら\n今日は一緒に寝てあげてもいいよ、\nお兄さん\n\n# voice 5402211 \"ichiibal_c_0021\"\n@イチイバル\nでも、今から出すクイズに\n正解できたらね、キランッ☆\n;;---------------------------------\n\n@%(unitName:unit_a)s\nボクは人にこれをよく付けるよ\n\n# se \"SE_0734\"\n# select \"アクセサリー\" \"select_label_1\" \"日焼け止めクリーム\" \"select_label_2\" \"独特なニックネーム\" \"select_label_3\"\nボクは人にこれをよく付けるよ\n"
+	},
+	{
+		"ID": 6172,
+		"unitID": 2402211,
+		"questionID": 9402220,
+		"script": ";;コマンドキラーズ,2\n# textflame 1 1\n# face %(unit_a)s \"surprise\"\n@イチイバル\n………\n\n# face %(unit_a)s \"angry\"\n# voice 5402211 \"ichiibal_c_0002\"\n@イチイバル\nねぇ…\nここだけの話なんだけど…\n\n# textflame 0 0\n@\n険しい表情の彼女\n\n# textflame 1 1\n@イチイバル\nこの辺りは……出るらしいよ？\n\n# textflame 0 0\n@\nえ？\n出るって…なにが？\n恐る恐る尋ねるマスター\n\n# textflame 1 1\n@イチイバル\nなにって…ほら……\n\n@イチイバル\nキミの後ろに\n恐ろしい幽霊がーーーーっ！！\n\n# textflame 0 0\n@\nひぃぃぃっ！と、\n悲鳴を上げるマスター\n\n# face %(unit_a)s \"normal\"\n# voice 5402211 \"ichiibal_c_0005\"\n# textflame 1 1\n@イチイバル\nなーんちゃって\nごめんごめん\n嘘だよ\n\n# voice 5402211 \"ichiibal_c_0042\"\n@イチイバル\nキミの驚いた顔が見たくて、\nついね\nテヘッ☆\n\n@イチイバル\nねぇ、怖いんなら\n今日は一緒に寝てあげてもいいよ、\nお兄さん\n\n# voice 5402211 \"ichiibal_c_0021\"\n@イチイバル\nでも、今から出すクイズに\n正解できたらね、キランッ☆\n;;---------------------------------\n\n@%(unitName:unit_a)s\nボクが属しているのは…？\n\n# se \"SE_0734\"\n# select \"デマンドキラーズ\" \"select_label_1\" \"コマンドキラーズ\" \"select_label_2\" \"サンボキラーズ\" \"select_label_3\"\nボクが属しているのは…？\n"
+	},
+	{
+		"ID": 6173,
+		"unitID": 2402211,
+		"questionID": 9402221,
+		"script": ";;光欲神の共鳴,1\n# textflame 1 1\n# face %(unit_a)s \"surprise\"\n@イチイバル\n……\n\n# textflame 0 0\n@\n黙ったまま、\n夏の夕陽を眺めている彼女\n\n# textflame 1 1\n@イチイバル\n………\n\n# textflame 0 0\n@\nどうしたの？\nマスターが尋ねると、\n\n# voice 540221 \"ichiibal_c_0023\"\n# textflame 1 1\n@イチイバル\n…え？\n\n@イチイバル\nあ、ごめんごめん\n\n# face %(unit_a)s \"normal\"\n# voice 540221 \"ichiibal_c_0004\"\n@イチイバル\nキミと過ごす時間は、\n沈黙も心地いいから\n\n@イチイバル\nそうだ、今日一日の最後に\n２人の未来を占ってあげようか？\n\n@イチイバル\n今からクイズを出すから、\nそれに答えてみてよ\n\n# textflame 0 0\n@\nこれって…間違ったら、\n未来は真っ暗ってこと…？\n\n@\n不安になりつつ\nクイズに臨むマスターだった\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nボクの覚えるリーダースキルを\n知っているかな？\n\n# se \"SE_0734\"\n# select \"光欲神の共鳴\" \"select_label_1\" \"強欲神の共鳴\" \"select_label_2\" \"光翼神の共鳴\" \"select_label_3\"\nボクの覚えるリーダースキルを\n知っているかな？\n"
+	},
+	{
+		"ID": 6174,
+		"unitID": 2402211,
+		"questionID": 9402222,
+		"script": ";;オーディンの欲望,3\n# textflame 1 1\n# face %(unit_a)s \"surprise\"\n@イチイバル\n……\n\n# textflame 0 0\n@\n黙ったまま、\n夏の夕陽を眺めている彼女\n\n# textflame 1 1\n@イチイバル\n………\n\n# textflame 0 0\n@\nどうしたの？\nマスターが尋ねると、\n\n# voice 540221 \"ichiibal_c_0023\"\n# textflame 1 1\n@イチイバル\n…え？\n\n@イチイバル\nあ、ごめんごめん\n\n# face %(unit_a)s \"normal\"\n# voice 540221 \"ichiibal_c_0004\"\n@イチイバル\nキミと過ごす時間は、\n沈黙も心地いいから\n\n@イチイバル\nそうだ、今日一日の最後に\n２人の未来を占ってあげようか？\n\n@イチイバル\n今からクイズを出すから、\nそれに答えてみてよ\n\n# textflame 0 0\n@\nこれって…間違ったら、\n未来は真っ暗ってこと…？\n\n@\n不安になりつつ\nクイズに臨むマスターだった\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nボクの覚えるコマンドスキルを\n知っているかな？\n\n# se \"SE_0734\"\n# select \"オーディンの渇望\" \"select_label_1\" \"オーディンの黄昏\" \"select_label_2\" \"オーディンの欲望\" \"select_label_3\"\nボクの覚えるコマンドスキルを\n知っているかな？\n"
+	},
+	{
+		"ID": 6175,
+		"unitID": 2402211,
+		"questionID": 9402223,
+		"script": ";;欲望目覚めし必弓,3\n# textflame 1 1\n# face %(unit_a)s \"surprise\"\n@イチイバル\n……\n\n# textflame 0 0\n@\n黙ったまま、\n夏の夕陽を眺めている彼女\n\n# textflame 1 1\n@イチイバル\n………\n\n# textflame 0 0\n@\nどうしたの？\nマスターが尋ねると、\n\n# voice 540221 \"ichiibal_c_0023\"\n# textflame 1 1\n@イチイバル\n…え？\n\n@イチイバル\nあ、ごめんごめん\n\n# face %(unit_a)s \"normal\"\n# voice 540221 \"ichiibal_c_0004\"\n@イチイバル\nキミと過ごす時間は、\n沈黙も心地いいから\n\n@イチイバル\nそうだ、今日一日の最後に\n２人の未来を占ってあげようか？\n\n@イチイバル\n今からクイズを出すから、\nそれに答えてみてよ\n\n# textflame 0 0\n@\nこれって…間違ったら、\n未来は真っ暗ってこと…？\n\n@\n不安になりつつ\nクイズに臨むマスターだった\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nボクの覚えるデュエルスキルを\n知っているかな？\n\n# se \"SE_0734\"\n# select \"欲望目覚めし一休\" \"select_label_1\" \"欲望目覚めし利休\" \"select_label_2\" \"欲望目覚めし必弓\" \"select_label_3\"\nボクの覚えるデュエルスキルを\n知っているかな？\n"
+	},
+	{
+		"ID": 6176,
+		"unitID": 2402211,
+		"questionID": 9402224,
+		"script": ";;虚を衝く神の狂光,3\n# textflame 1 1\n# face %(unit_a)s \"surprise\"\n@イチイバル\n……\n\n# textflame 0 0\n@\n黙ったまま、\n夏の夕陽を眺めている彼女\n\n# textflame 1 1\n@イチイバル\n………\n\n# textflame 0 0\n@\nどうしたの？\nマスターが尋ねると、\n\n# voice 540221 \"ichiibal_c_0023\"\n# textflame 1 1\n@イチイバル\n…え？\n\n@イチイバル\nあ、ごめんごめん\n\n# face %(unit_a)s \"normal\"\n# voice 540221 \"ichiibal_c_0004\"\n@イチイバル\nキミと過ごす時間は、\n沈黙も心地いいから\n\n@イチイバル\nそうだ、今日一日の最後に\n２人の未来を占ってあげようか？\n\n@イチイバル\n今からクイズを出すから、\nそれに答えてみてよ\n\n# textflame 0 0\n@\nこれって…間違ったら、\n未来は真っ暗ってこと…？\n\n@\n不安になりつつ\nクイズに臨むマスターだった\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nボクの覚えるデュエルスキルを\n知っているかな？\n\n# se \"SE_0734\"\n# select \"虚を衝く鬼の狂光\" \"select_label_1\" \"虚を衝く魔の狂光\" \"select_label_2\" \"虚を衝く神の狂光\" \"select_label_3\"\nボクの覚えるデュエルスキルを\n知っているかな？\n"
+	},
+	{
+		"ID": 6177,
+		"unitID": 2402211,
+		"questionID": 9402225,
+		"script": ";;世界樹の神徒【智慧】,3\n# textflame 1 1\n# face %(unit_a)s \"surprise\"\n@イチイバル\n……\n\n# textflame 0 0\n@\n黙ったまま、\n夏の夕陽を眺めている彼女\n\n# textflame 1 1\n@イチイバル\n………\n\n# textflame 0 0\n@\nどうしたの？\nマスターが尋ねると、\n\n# voice 540221 \"ichiibal_c_0023\"\n# textflame 1 1\n@イチイバル\n…え？\n\n@イチイバル\nあ、ごめんごめん\n\n# face %(unit_a)s \"normal\"\n# voice 540221 \"ichiibal_c_0004\"\n@イチイバル\nキミと過ごす時間は、\n沈黙も心地いいから\n\n@イチイバル\nそうだ、今日一日の最後に\n２人の未来を占ってあげようか？\n\n@イチイバル\n今からクイズを出すから、\nそれに答えてみてよ\n\n# textflame 0 0\n@\nこれって…間違ったら、\n未来は真っ暗ってこと…？\n\n@\n不安になりつつ\nクイズに臨むマスターだった\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nボクの覚えるスキルを\n知っているかな？\n\n# se \"SE_0734\"\n# select \"世界樹の博徒【智慧】\" \"select_label_1\" \"世界樹の暴徒【智慧】\" \"select_label_2\" \"世界樹の神徒【智慧】\" \"select_label_3\"\nボクの覚えるスキルを\n知っているかな？\n"
+	},
+	{
+		"ID": 6178,
+		"unitID": 2402211,
+		"questionID": 9402226,
+		"script": ";;蒼の再跳,2\n# textflame 1 1\n# face %(unit_a)s \"surprise\"\n@イチイバル\n……\n\n# textflame 0 0\n@\n黙ったまま、\n夏の夕陽を眺めている彼女\n\n# textflame 1 1\n@イチイバル\n………\n\n# textflame 0 0\n@\nどうしたの？\nマスターが尋ねると、\n\n# voice 540221 \"ichiibal_c_0023\"\n# textflame 1 1\n@イチイバル\n…え？\n\n@イチイバル\nあ、ごめんごめん\n\n# face %(unit_a)s \"normal\"\n# voice 540221 \"ichiibal_c_0004\"\n@イチイバル\nキミと過ごす時間は、\n沈黙も心地いいから\n\n@イチイバル\nそうだ、今日一日の最後に\n２人の未来を占ってあげようか？\n\n@イチイバル\n今からクイズを出すから、\nそれに答えてみてよ\n\n# textflame 0 0\n@\nこれって…間違ったら、\n未来は真っ暗ってこと…？\n\n@\n不安になりつつ\nクイズに臨むマスターだった\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nボクの覚えるスキルを\n知っているかな？\n\n# se \"SE_0734\"\n# select \"蒼の最長\" \"select_label_1\" \"蒼の再跳\" \"select_label_2\" \"蒼の最澄\" \"select_label_3\"\nボクの覚えるスキルを\n知っているかな？\n"
+	},
+	{
+		"ID": 6179,
+		"unitID": 2402211,
+		"questionID": 9402227,
+		"script": ";;蒼の団結【智慧】,1\n# textflame 1 1\n# face %(unit_a)s \"surprise\"\n@イチイバル\n……\n\n# textflame 0 0\n@\n黙ったまま、\n夏の夕陽を眺めている彼女\n\n# textflame 1 1\n@イチイバル\n………\n\n# textflame 0 0\n@\nどうしたの？\nマスターが尋ねると、\n\n# voice 540221 \"ichiibal_c_0023\"\n# textflame 1 1\n@イチイバル\n…え？\n\n@イチイバル\nあ、ごめんごめん\n\n# face %(unit_a)s \"normal\"\n# voice 540221 \"ichiibal_c_0004\"\n@イチイバル\nキミと過ごす時間は、\n沈黙も心地いいから\n\n@イチイバル\nそうだ、今日一日の最後に\n２人の未来を占ってあげようか？\n\n@イチイバル\n今からクイズを出すから、\nそれに答えてみてよ\n\n# textflame 0 0\n@\nこれって…間違ったら、\n未来は真っ暗ってこと…？\n\n@\n不安になりつつ\nクイズに臨むマスターだった\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nボクの覚えるスキルを\n知っているかな？\n\n# se \"SE_0734\"\n# select \"蒼の団結【智慧】\" \"select_label_1\" \"蒼の出血【智慧】\" \"select_label_2\" \"蒼の断末魔【智慧】\" \"select_label_3\"\nボクの覚えるスキルを\n知っているかな？\n"
+	},
+	{
+		"ID": 6180,
+		"unitID": 2402211,
+		"questionID": 9402228,
+		"script": ";;『豪運』の紋,2\n# textflame 1 1\n# face %(unit_a)s \"surprise\"\n@イチイバル\n……\n\n# textflame 0 0\n@\n黙ったまま、\n夏の夕陽を眺めている彼女\n\n# textflame 1 1\n@イチイバル\n………\n\n# textflame 0 0\n@\nどうしたの？\nマスターが尋ねると、\n\n# voice 540221 \"ichiibal_c_0023\"\n# textflame 1 1\n@イチイバル\n…え？\n\n@イチイバル\nあ、ごめんごめん\n\n# face %(unit_a)s \"normal\"\n# voice 540221 \"ichiibal_c_0004\"\n@イチイバル\nキミと過ごす時間は、\n沈黙も心地いいから\n\n@イチイバル\nそうだ、今日一日の最後に\n２人の未来を占ってあげようか？\n\n@イチイバル\n今からクイズを出すから、\nそれに答えてみてよ\n\n# textflame 0 0\n@\nこれって…間違ったら、\n未来は真っ暗ってこと…？\n\n@\n不安になりつつ\nクイズに臨むマスターだった\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nボクの覚えるスキルを\n知っているかな？\n\n# se \"SE_0734\"\n# select \"『豪毛』の紋\" \"select_label_1\" \"『豪運』の紋\" \"select_label_2\" \"『豪胆』の紋\" \"select_label_3\"\nボクの覚えるスキルを\n知っているかな？\n"
+	},
+	{
+		"ID": 6181,
+		"unitID": 2402211,
+		"questionID": 9402229,
+		"script": ";;孤高の存在『キランッ☆』,2\n# textflame 1 1\n# face %(unit_a)s \"surprise\"\n@イチイバル\n……\n\n# textflame 0 0\n@\n黙ったまま、\n夏の夕陽を眺めている彼女\n\n# textflame 1 1\n@イチイバル\n………\n\n# textflame 0 0\n@\nどうしたの？\nマスターが尋ねると、\n\n# voice 540221 \"ichiibal_c_0023\"\n# textflame 1 1\n@イチイバル\n…え？\n\n@イチイバル\nあ、ごめんごめん\n\n# face %(unit_a)s \"normal\"\n# voice 540221 \"ichiibal_c_0004\"\n@イチイバル\nキミと過ごす時間は、\n沈黙も心地いいから\n\n@イチイバル\nそうだ、今日一日の最後に\n２人の未来を占ってあげようか？\n\n@イチイバル\n今からクイズを出すから、\nそれに答えてみてよ\n\n# textflame 0 0\n@\nこれって…間違ったら、\n未来は真っ暗ってこと…？\n\n@\n不安になりつつ\nクイズに臨むマスターだった\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nボクが覚えるコマンドスキルは…？\n\n# se \"SE_0734\"\n# select \"最高の存在『キランッ☆』\" \"select_label_1\" \"孤高の存在『キランッ☆』\" \"select_label_2\" \"至高の存在『キランッ☆』\" \"select_label_3\"\nボクが覚えるコマンドスキルは…？\n"
+	},
+	{
+		"ID": 6182,
+		"unitID": 2402211,
+		"questionID": 9402230,
+		"script": ";;天才美少女戦姫『ドヤッ☆』,1\n# textflame 1 1\n# face %(unit_a)s \"surprise\"\n@イチイバル\n……\n\n# textflame 0 0\n@\n黙ったまま、\n夏の夕陽を眺めている彼女\n\n# textflame 1 1\n@イチイバル\n………\n\n# textflame 0 0\n@\nどうしたの？\nマスターが尋ねると、\n\n# voice 540221 \"ichiibal_c_0023\"\n# textflame 1 1\n@イチイバル\n…え？\n\n@イチイバル\nあ、ごめんごめん\n\n# face %(unit_a)s \"normal\"\n# voice 540221 \"ichiibal_c_0004\"\n@イチイバル\nキミと過ごす時間は、\n沈黙も心地いいから\n\n@イチイバル\nそうだ、今日一日の最後に\n２人の未来を占ってあげようか？\n\n@イチイバル\n今からクイズを出すから、\nそれに答えてみてよ\n\n# textflame 0 0\n@\nこれって…間違ったら、\n未来は真っ暗ってこと…？\n\n@\n不安になりつつ\nクイズに臨むマスターだった\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nボクが覚えるコマンドスキルは…？\n\n# se \"SE_0734\"\n# select \"天才美少女戦姫『ドヤッ☆』\" \"select_label_1\" \"天才美少女戦隊『ドヤッ☆』\" \"select_label_2\" \"天才美少女騎士『ドヤッ☆』\" \"select_label_3\"\nボクが覚えるコマンドスキルは…？\n"
+	},
+	{
+		"ID": 6183,
+		"unitID": 2402211,
+		"questionID": 9402231,
+		"script": ";;伊達政宗,3\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 540221 \"ichiibal_c_0002\"\n@イチイバル\nねぇ、お兄さん\n\n@イチイバル\n今日くらいは、\nさらけ出した素肌のように\n素直になってあげるよ\n\n# textflame 0 0\n@\nえ？どういうこと？\nマスターが尋ねる\n\n# voice 540221 \"ichiibal_c_0003\"\n# textflame 1 1\n@イチイバル\n普段なら言えないことも、\n今なら言えそうだから\n\n@イチイバル\nでも、それは…\n\n# voice 540221 \"ichiibal_c_0021\"\n@イチイバル\n僕が出すクイズに\n正解できたらね、\nキラン☆\n;;---------------------------------\n\n@%(unitName:unit_a)s\nボクと同じ隻眼なのは…？\n\n# se \"SE_0734\"\n# select \"織田信長\" \"select_label_1\" \"武田信玄\" \"select_label_2\" \"伊達政宗\" \"select_label_3\"\nボクと同じ隻眼なのは…？\n"
+	},
+	{
+		"ID": 6184,
+		"unitID": 2402211,
+		"questionID": 9402232,
+		"script": ";;January,3\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 540221 \"ichiibal_c_0002\"\n@イチイバル\nねぇ、お兄さん\n\n@イチイバル\n今日くらいは、\nさらけ出した素肌のように\n素直になってあげるよ\n\n# textflame 0 0\n@\nえ？どういうこと？\nマスターが尋ねる\n\n# voice 540221 \"ichiibal_c_0003\"\n# textflame 1 1\n@イチイバル\n普段なら言えないことも、\n今なら言えそうだから\n\n@イチイバル\nでも、それは…\n\n# voice 540221 \"ichiibal_c_0021\"\n@イチイバル\n僕が出すクイズに\n正解できたらね、\nキラン☆\n;;---------------------------------\n\n@%(unitName:unit_a)s\nボクの誕生月を英語で言うと…？\n\n# se \"SE_0734\"\n# select \"June\" \"select_label_1\" \"September\" \"select_label_2\" \"January\" \"select_label_3\"\nボクの誕生月を英語で言うと…？\n"
+	},
+	{
+		"ID": 6185,
+		"unitID": 2402211,
+		"questionID": 9402233,
+		"script": ";;ｓｋｉ,1\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 540221 \"ichiibal_c_0002\"\n@イチイバル\nねぇ、お兄さん\n\n@イチイバル\n今日くらいは、\nさらけ出した素肌のように\n素直になってあげるよ\n\n# textflame 0 0\n@\nえ？どういうこと？\nマスターが尋ねる\n\n# voice 540221 \"ichiibal_c_0003\"\n# textflame 1 1\n@イチイバル\n普段なら言えないことも、\n今なら言えそうだから\n\n@イチイバル\nでも、それは…\n\n# voice 540221 \"ichiibal_c_0021\"\n@イチイバル\n僕が出すクイズに\n正解できたらね、\nキラン☆\n;;---------------------------------\n\n@%(unitName:unit_a)s\nボクのキラーズの持ち主ウルは\nスキーの神でもあるんだけど…\nスキーは英語でどれかな？\n\n# se \"SE_0734\"\n# select \"ｓｋｉ\" \"select_label_1\" \"sky\" \"select_label_2\" \"skin\" \"select_label_3\"\nボクのキラーズの持ち主ウルは\nスキーの神でもあるんだけど…\nスキーは英語でどれかな？\n"
+	},
+	{
+		"ID": 6186,
+		"unitID": 2402211,
+		"questionID": 9402234,
+		"script": ";;ヴァジュラ,3\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 540221 \"ichiibal_c_0002\"\n@イチイバル\nねぇ、お兄さん\n\n@イチイバル\n今日くらいは、\nさらけ出した素肌のように\n素直になってあげるよ\n\n# textflame 0 0\n@\nえ？どういうこと？\nマスターが尋ねる\n\n# voice 540221 \"ichiibal_c_0003\"\n# textflame 1 1\n@イチイバル\n普段なら言えないことも、\n今なら言えそうだから\n\n@イチイバル\nでも、それは…\n\n# voice 540221 \"ichiibal_c_0021\"\n@イチイバル\n僕が出すクイズに\n正解できたらね、\nキラン☆\n;;---------------------------------\n\n@%(unitName:unit_a)s\nボクと誕生月が同じなのは\n誰かわかるかな？\n\n# se \"SE_0734\"\n# select \"シャルウル\" \"select_label_1\" \"アスカロン\" \"select_label_2\" \"ヴァジュラ\" \"select_label_3\"\nボクと誕生月が同じなのは\n誰かわかるかな？\n"
+	},
+	{
+		"ID": 6187,
+		"unitID": 2402211,
+		"questionID": 9402235,
+		"script": ";;Capricorn,2\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 540221 \"ichiibal_c_0002\"\n@イチイバル\nねぇ、お兄さん\n\n@イチイバル\n今日くらいは、\nさらけ出した素肌のように\n素直になってあげるよ\n\n# textflame 0 0\n@\nえ？どういうこと？\nマスターが尋ねる\n\n# voice 540221 \"ichiibal_c_0003\"\n# textflame 1 1\n@イチイバル\n普段なら言えないことも、\n今なら言えそうだから\n\n@イチイバル\nでも、それは…\n\n# voice 540221 \"ichiibal_c_0021\"\n@イチイバル\n僕が出すクイズに\n正解できたらね、\nキラン☆\n;;---------------------------------\n\n@%(unitName:unit_a)s\nボクの星座を英語で言うと？\n\n# se \"SE_0734\"\n# select \"Gemini\" \"select_label_1\" \"Capricorn\" \"select_label_2\" \"Taurus\" \"select_label_3\"\nボクの星座を英語で言うと？\n"
+	},
+	{
+		"ID": 6188,
+		"unitID": 2402211,
+		"questionID": 9402236,
+		"script": ";;ヒョウハ,1\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 540221 \"ichiibal_c_0002\"\n@イチイバル\nねぇ、お兄さん\n\n@イチイバル\n今日くらいは、\nさらけ出した素肌のように\n素直になってあげるよ\n\n# textflame 0 0\n@\nえ？どういうこと？\nマスターが尋ねる\n\n# voice 540221 \"ichiibal_c_0003\"\n# textflame 1 1\n@イチイバル\n普段なら言えないことも、\n今なら言えそうだから\n\n@イチイバル\nでも、それは…\n\n# voice 540221 \"ichiibal_c_0021\"\n@イチイバル\n僕が出すクイズに\n正解できたらね、\nキラン☆\n;;---------------------------------\n\n@%(unitName:unit_a)s\nボクがコマンドキラーズの中で\n「いぬっころ」と呼んでいるのは\n誰かわかるかな？\n\n# se \"SE_0734\"\n# select \"ヒョウハ\" \"select_label_1\" \"フォルカス\" \"select_label_2\" \"ロジェスティラ\" \"select_label_3\"\nボクがコマンドキラーズの中で\n「いぬっころ」と呼んでいるのは\n誰かわかるかな？\n"
+	},
+	{
+		"ID": 6189,
+		"unitID": 2402211,
+		"questionID": 9402237,
+		"script": ";;ミュルグレス,3\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 540221 \"ichiibal_c_0002\"\n@イチイバル\nねぇ、お兄さん\n\n@イチイバル\n今日くらいは、\nさらけ出した素肌のように\n素直になってあげるよ\n\n# textflame 0 0\n@\nえ？どういうこと？\nマスターが尋ねる\n\n# voice 540221 \"ichiibal_c_0003\"\n# textflame 1 1\n@イチイバル\n普段なら言えないことも、\n今なら言えそうだから\n\n@イチイバル\nでも、それは…\n\n# voice 540221 \"ichiibal_c_0021\"\n@イチイバル\n僕が出すクイズに\n正解できたらね、\nキラン☆\n;;---------------------------------\n\n@%(unitName:unit_a)s\nボクがコマンドキラーズの中で\n「にゃんころ」と呼んでいるのは\n誰かわかるかな？\n\n# se \"SE_0734\"\n# select \"オルフェウス\" \"select_label_1\" \"如意金箍棒\" \"select_label_2\" \"ミュルグレス\" \"select_label_3\"\nボクがコマンドキラーズの中で\n「にゃんころ」と呼んでいるのは\n誰かわかるかな？\n"
+	},
+	{
+		"ID": 6190,
+		"unitID": 2402211,
+		"questionID": 9402238,
+		"script": ";;ペルーン,2\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 540221 \"ichiibal_c_0002\"\n@イチイバル\nねぇ、お兄さん\n\n@イチイバル\n今日くらいは、\nさらけ出した素肌のように\n素直になってあげるよ\n\n# textflame 0 0\n@\nえ？どういうこと？\nマスターが尋ねる\n\n# voice 540221 \"ichiibal_c_0003\"\n# textflame 1 1\n@イチイバル\n普段なら言えないことも、\n今なら言えそうだから\n\n@イチイバル\nでも、それは…\n\n# voice 540221 \"ichiibal_c_0021\"\n@イチイバル\n僕が出すクイズに\n正解できたらね、\nキラン☆\n;;---------------------------------\n\n@%(unitName:unit_a)s\nボクと同じ血液型なのは\n誰かわかるかな？\n\n# se \"SE_0734\"\n# select \"レーヴァテイン\" \"select_label_1\" \"ペルーン\" \"select_label_2\" \"アルテミス\" \"select_label_3\"\nボクと同じ血液型なのは\n誰かわかるかな？\n"
+	},
+	{
+		"ID": 6191,
+		"unitID": 2402211,
+		"questionID": 9402239,
+		"script": ";;ミュルグレス,1\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 540221 \"ichiibal_c_0002\"\n@イチイバル\nねぇ、お兄さん\n\n@イチイバル\n今日くらいは、\nさらけ出した素肌のように\n素直になってあげるよ\n\n# textflame 0 0\n@\nえ？どういうこと？\nマスターが尋ねる\n\n# voice 540221 \"ichiibal_c_0003\"\n# textflame 1 1\n@イチイバル\n普段なら言えないことも、\n今なら言えそうだから\n\n@イチイバル\nでも、それは…\n\n# voice 540221 \"ichiibal_c_0021\"\n@イチイバル\n僕が出すクイズに\n正解できたらね、\nキラン☆\n;;---------------------------------\n\n@%(unitName:unit_a)s\nボクと違う血液型なのは\n誰かわかるかな？\n\n# se \"SE_0734\"\n# select \"ミュルグレス\" \"select_label_1\" \"ペルーン\" \"select_label_2\" \"シャルウル\" \"select_label_3\"\nボクと違う血液型なのは\n誰かわかるかな？\n"
+	},
+	{
+		"ID": 6192,
+		"unitID": 2402211,
+		"questionID": 9402240,
+		"script": ";;シタ,1\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 540221 \"ichiibal_c_0002\"\n@イチイバル\nねぇ、お兄さん\n\n@イチイバル\n今日くらいは、\nさらけ出した素肌のように\n素直になってあげるよ\n\n# textflame 0 0\n@\nえ？どういうこと？\nマスターが尋ねる\n\n# voice 540221 \"ichiibal_c_0003\"\n# textflame 1 1\n@イチイバル\n普段なら言えないことも、\n今なら言えそうだから\n\n@イチイバル\nでも、それは…\n\n# voice 540221 \"ichiibal_c_0021\"\n@イチイバル\n僕が出すクイズに\n正解できたらね、\nキラン☆\n;;---------------------------------\n\n@%(unitName:unit_a)s\nボクと違う誕生月なのは\n誰かわかるかな？\n\n# se \"SE_0734\"\n# select \"シタ\" \"select_label_1\" \"フォルカス\" \"select_label_2\" \"ヴァジュラ\" \"select_label_3\"\nボクと違う誕生月なのは\n誰かわかるかな？\n"
+	},
+	{
+		"ID": 6193,
+		"unitID": 2402211,
+		"questionID": 9402241,
+		"script": "\n;;ボク,1\n# se \"SE_0734\"\n# select \"ボク\" \"select_label_1\" \"あたし\" \"select_label_2\" \"オレ\" \"select_label_3\"\nイチイバルの一人称は\n次のうちどれ？\n"
+	},
+	{
+		"ID": 6194,
+		"unitID": 2402211,
+		"questionID": 9402242,
+		"script": "\n;;先生,3\n# se \"SE_0734\"\n# select \"ボーイ\" \"select_label_1\" \"アナタ\" \"select_label_2\" \"先生\" \"select_label_3\"\nイチイバルはあなたのこと、\nなんて呼んでる？\n"
+	},
+	{
+		"ID": 6195,
+		"unitID": 2402211,
+		"questionID": 9402243,
+		"script": "\n;;80cm,1\n# se \"SE_0734\"\n# select \"80cm\" \"select_label_1\" \"82cm\" \"select_label_2\" \"83cm\" \"select_label_3\"\nイチイバルの\nバストサイズがどのくらいか\nあなたは知ってるの？\n"
+	},
+	{
+		"ID": 6196,
+		"unitID": 2402211,
+		"questionID": 9402244,
+		"script": "\n;;56cm,2\n# se \"SE_0734\"\n# select \"58cm\" \"select_label_1\" \"56cm\" \"select_label_2\" \"60cm\" \"select_label_3\"\nイチイバルの\nウエストサイズがどのくらいか\nあなたは知ってるの？\n"
+	},
+	{
+		"ID": 6197,
+		"unitID": 2402211,
+		"questionID": 9402245,
+		"script": "\n;;80cm,1\n# se \"SE_0734\"\n# select \"80cm\" \"select_label_1\" \"90cm\" \"select_label_2\" \"85cm\" \"select_label_3\"\nイチイバルの\nヒップサイズがどのくらいか\nあなたは知ってるの？\n"
+	},
+	{
+		"ID": 6198,
+		"unitID": 2402211,
+		"questionID": 9402246,
+		"script": "\n;;44㎏,3\n# se \"SE_0734\"\n# select \"46kg\" \"select_label_1\" \"45kg\" \"select_label_2\" \"44㎏\" \"select_label_3\"\nイチイバルの体重は\n次のうちどれ？\n"
+	},
+	{
+		"ID": 6199,
+		"unitID": 2402211,
+		"questionID": 9402247,
+		"script": "\n;;216,1\n# se \"SE_0734\"\n# select \"216\" \"select_label_1\" \"230\" \"select_label_2\" \"236\" \"select_label_3\"\nイチイバルの\nバスト＋ウエスト＋ヒップは\nいくつかわかる？\n"
+	},
+	{
+		"ID": 6200,
+		"unitID": 2402211,
+		"questionID": 9402248,
+		"script": "\n;;水色,1\n# se \"SE_0734\"\n# select \"水色\" \"select_label_1\" \"赤色\" \"select_label_2\" \"黒色\" \"select_label_3\"\nイチイバルの髪の色は\n次のうちどれ？\n"
+	},
+	{
+		"ID": 6201,
+		"unitID": 2402211,
+		"questionID": 9402249,
+		"script": "\n;;参加していない,1\n# se \"SE_0734\"\n# select \"参加していない\" \"select_label_1\" \"4位\" \"select_label_2\" \"7位\" \"select_label_3\"\nイチイバルは\n第5回人気投票で\n何位だったでしょう？\n"
+	},
+	{
+		"ID": 6202,
+		"unitID": 2402211,
+		"questionID": 9402250,
+		"script": "\n;;二ノ宮愛子,1\n# se \"SE_0734\"\n# select \"二ノ宮愛子\" \"select_label_1\" \"岩井映美理\" \"select_label_2\" \"大久保瑠美\" \"select_label_3\"\nイチイバルの声優は誰？\n"
+	}
+]

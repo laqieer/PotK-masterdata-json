@@ -1,0 +1,202 @@
+[
+	{
+		"ID": 1,
+		"name": "城内マップⅠ",
+		"cost_capacity": 110,
+		"stage_id": 710553012,
+		"point": 300,
+		"turns": 10,
+		"annihilation_point": 100,
+		"description": "城内のマップⅠ"
+	},
+	{
+		"ID": 2,
+		"name": "城内マップⅡ",
+		"cost_capacity": 105,
+		"stage_id": 710553013,
+		"point": 300,
+		"turns": 10,
+		"annihilation_point": 100,
+		"description": "城内のマップⅡ"
+	},
+	{
+		"ID": 3,
+		"name": "城内マップⅢ",
+		"cost_capacity": 125,
+		"stage_id": 710553014,
+		"point": 300,
+		"turns": 10,
+		"annihilation_point": 100,
+		"description": "城内のマップⅢ"
+	},
+	{
+		"ID": 4,
+		"name": "城内マップⅣ",
+		"cost_capacity": 110,
+		"stage_id": 710553015,
+		"point": 300,
+		"turns": 10,
+		"annihilation_point": 100,
+		"description": "城内のマップⅣ"
+	},
+	{
+		"ID": 5,
+		"name": "城内マップⅤ",
+		"cost_capacity": 95,
+		"stage_id": 710553016,
+		"point": 300,
+		"turns": 10,
+		"annihilation_point": 100,
+		"description": "城内のマップⅤ"
+	},
+	{
+		"ID": 6,
+		"name": "城内マップⅥ",
+		"cost_capacity": 110,
+		"stage_id": 710553017,
+		"point": 300,
+		"turns": 10,
+		"annihilation_point": 100,
+		"description": "城内のマップⅥ"
+	},
+	{
+		"ID": 7,
+		"name": "城内マップⅦ",
+		"cost_capacity": 120,
+		"stage_id": 710553018,
+		"point": 300,
+		"turns": 10,
+		"annihilation_point": 100,
+		"description": "城内のマップⅦ"
+	},
+	{
+		"ID": 11,
+		"name": "宝物殿マップⅠ",
+		"cost_capacity": 130,
+		"stage_id": 710553019,
+		"point": 300,
+		"turns": 10,
+		"annihilation_point": 100,
+		"description": "宝物殿マップⅠ"
+	},
+	{
+		"ID": 12,
+		"name": "宝物殿マップⅡ",
+		"cost_capacity": 150,
+		"stage_id": 710553020,
+		"point": 300,
+		"turns": 10,
+		"annihilation_point": 100,
+		"description": "宝物殿マップⅡ"
+	},
+	{
+		"ID": 13,
+		"name": "教室マップⅠ",
+		"cost_capacity": 140,
+		"stage_id": 710553021,
+		"point": 300,
+		"turns": 10,
+		"annihilation_point": 100,
+		"description": "教室マップⅠ"
+	},
+	{
+		"ID": 14,
+		"name": "中庭マップⅠ",
+		"cost_capacity": 140,
+		"stage_id": 710553022,
+		"point": 300,
+		"turns": 10,
+		"annihilation_point": 100,
+		"description": "中庭マップⅠ"
+	},
+	{
+		"ID": 15,
+		"name": "王都マップⅠ",
+		"cost_capacity": 130,
+		"stage_id": 710553023,
+		"point": 300,
+		"turns": 10,
+		"annihilation_point": 100,
+		"description": "王都マップⅠ"
+	},
+	{
+		"ID": 16,
+		"name": "王都マップⅡ",
+		"cost_capacity": 130,
+		"stage_id": 710553024,
+		"point": 300,
+		"turns": 10,
+		"annihilation_point": 100,
+		"description": "王都マップⅡ"
+	},
+	{
+		"ID": 17,
+		"name": "王都マップⅢ",
+		"cost_capacity": 130,
+		"stage_id": 710553025,
+		"point": 300,
+		"turns": 10,
+		"annihilation_point": 100,
+		"description": "王都マップⅢ"
+	},
+	{
+		"ID": 18,
+		"name": "王都マップⅣ",
+		"cost_capacity": 130,
+		"stage_id": 710553026,
+		"point": 300,
+		"turns": 10,
+		"annihilation_point": 100,
+		"description": "王都マップⅣ"
+	},
+	{
+		"ID": 19,
+		"name": "王都マップⅤ",
+		"cost_capacity": 130,
+		"stage_id": 710553027,
+		"point": 300,
+		"turns": 10,
+		"annihilation_point": 100,
+		"description": "王都マップⅤ"
+	},
+	{
+		"ID": 20,
+		"name": "王都マップⅥ",
+		"cost_capacity": 130,
+		"stage_id": 710553028,
+		"point": 300,
+		"turns": 10,
+		"annihilation_point": 100,
+		"description": "王都マップⅥ"
+	},
+	{
+		"ID": 21,
+		"name": "宝物殿マップⅢ",
+		"cost_capacity": 500,
+		"stage_id": 710553029,
+		"point": 300,
+		"turns": 10,
+		"annihilation_point": 100,
+		"description": "宝物殿マップⅢ"
+	},
+	{
+		"ID": 22,
+		"name": "教室マップⅡ",
+		"cost_capacity": 300,
+		"stage_id": 710553030,
+		"point": 300,
+		"turns": 10,
+		"annihilation_point": 100,
+		"description": "教室マップⅡ"
+	},
+	{
+		"ID": 23,
+		"name": "中庭マップⅡ",
+		"cost_capacity": 300,
+		"stage_id": 710553031,
+		"point": 300,
+		"turns": 10,
+		"annihilation_point": 100,
+		"description": "中庭マップⅡ"
+	}
+]

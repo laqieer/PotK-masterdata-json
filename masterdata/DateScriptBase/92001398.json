@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 92001398,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# se \"SE_0733\"\n# face %(unit_a)s \"sad\"\n# voice 2001 \"myuruniru_0028\"\n@ミョルニル\nマスタも…\n知らないことあるんだね…？\n\n# voice 2001 \"myuruniru_0008\"\n# textflame 1 1\n@ミョルニル\nなんでも知ってると思って\n甘えすぎちゃってたかなぁ\n\n# face %(unit_a)s \"normal\"\n# textflame 1 1\n@ミョルニル\nミョルニルちゃんはんせ～い…\n\n# voice 2001 \"myuruniru_0031\"\n# textflame 1 1\n@ミョルニル\n今度から気をつけるね？\n\n# textflame 1 1\n@ミョルニル\n迷惑だったら言ってねぇ？\nマスタに嫌われたら悲しいから…\n\n# voice 2001 \"myuruniru_0019\"\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@ミョルニル\n今もちょっと悲しいけどぉ…\n\n# textflame 0 0\n@\nがっかりした様子を\nなるべく隠そうとする彼女の顔が\nマスターの目に焼きついた\n\n# textflame 0 0\n@\nデート中のはずなのに\n悲しい思いをさせてしまうなんて…\n\n# textflame 0 0\n@\n彼女は何も悪くないのだ\n次は絶対に間違えないように\nしないといけないな…\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

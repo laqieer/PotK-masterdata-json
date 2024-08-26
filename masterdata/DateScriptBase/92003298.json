@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 92003298,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# se \"SE_0733\"\n# face %(unit_a)s \"angry\"\n# voice 2003 \"loveryus_0014\"\n@ラブリュス\nんもー、不正解ぃ！\n\n# textflame 1 1\n@ラブリュス\nこんな簡単な問題で\nつまずいちゃうなんて、\nマネージャーとしてまだまだだね！\n\n# textflame 0 0\n@\nご、ごめん…\nとラブリュスに謝るマスター\n\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@ラブリュス\n謝んなくてもいいけどぉ、\nこれからはもっと\nラブリュスちゃんを見てよね？\n\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n@ラブリュス\nそうじゃなきゃ…\n悲しくなっちゃうじゃん？\n\n# textflame 1 1\n@ラブリュス\nでも、ラブリュスちゃんは\nとぉーっても優しいから、\nマスターにチャンスをあげる！\n\n# textflame 1 1\n@ラブリュス\nこれから毎日ラブリュスちゃんを\n観察して、ちゃんと褒めること！\nいいね？\n\n# textflame 1 1\n@ラブリュス\nわかった、マスター？\nそれじゃ帰ろっ！\n\n# textflame 0 0\n@\nそう言って歩き出すラブリュスは、\nなんだか上機嫌に見えた\n\n# textflame 0 0\n@\nもらったチャンス\n今度はきちんと、\n彼女の期待に応えないと…！\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

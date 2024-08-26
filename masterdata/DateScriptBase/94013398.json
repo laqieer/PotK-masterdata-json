@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 94013398,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# se \"SE_0733\"\n# voice 4013 \"aphrodite_0017\"\n@アフロディーテ\nああ…なんてこと…っ！\n正解して…\n下さいませんでしたか…\n\n@アフロディーテ\nでも、これはむしろ\n喜ぶべき事かも…？\n\n# eye %(unit_a)s \"close\"\n@アフロディーテ\nあなたが知らない\nわたしのことを…\n教えて差し上げられる\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"normal\"\n# voice 4013 \"aphrodite_0003\"\n@アフロディーテ\n…それを喜びと言わずして\nなんと言えばいいのでしょう？\n\n# voice 4013 \"aphrodite_0001\"\n@アフロディーテ\nマスター…もっともっと\nわたしのことを\n知って下さいませ\n\n# voice 4013 \"aphrodite_0036\"\n@アフロディーテ\nそして…もっともっと\nわたしの美しさを\n知って下さいませ\n\n# eye %(unit_a)s \"close\"\n@アフロディーテ\nそうでなくては許しません\nわたしのマスターであるのなら\nなおさらのことです\n\n@アフロディーテ\n…うふふっ\nよろしいですね、マスター？\n\n# textflame 0 0\n@\nアフロディーテの目は\n笑ってない…\n\n@\nこれはなんとしても\n彼女の期待に応えないと\nいけないようだな…\n\n@\nそう心から思ったマスターであった\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

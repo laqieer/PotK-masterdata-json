@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 102012,
+		"script": ";;C\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_ferris\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# face %(unit_a)s \"shy\"\n# voice 1020 \"sayaka_0008\"\n# textflame 1 1\n@%(unitName:unit_a)s\nありゃ、疲れちゃった？\nごめんごめん、\n連れ回しすぎたわ！\n\n# face %(unit_a)s \"usual\"\n# voice 1020 \"sayaka_0003\"\n@%(unitName:unit_a)s\n確かに時間も遅くなってきたし、\nこれ降りたら帰ろうか\n\n@%(unitName:unit_a)s\nあ、そうだ！\n帰りにちょっとだけ\nお土産屋さん見て行こうよ\n\n# face %(unit_a)s \"normal\"\n@%(unitName:unit_a)s\n連れてきてくれたお礼に、\nなんか好きなの\nプレゼントしてあげる！\n\n@%(unitName:unit_a)s\nえ、マスターも私に？\n参ったなぁ、それじゃ\nお礼にならなくない？\n\n# voice 1020 \"sayaka_0004\"\n@%(unitName:unit_a)s\n思い出を残すために、ね\nそれもそうだ、\nじゃあ二人で何か買おう！\n\n@%(unitName:unit_a)s\n隊のみんなにも、\nお菓子とか買っていって\nあげないとね♪\n\n# textflame 0 0\n@\nその後、観覧車を降りて\nお土産屋へと足を運んだ二人\n\n@\n楽しいお土産選びは、\nそれからしばらくの間\n続いたのだった…\n\n;;-----------------------------------------\n# waitandnext 2\n# fadeout \"black\" 1.2\n"
+	}
+]

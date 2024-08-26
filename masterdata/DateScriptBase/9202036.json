@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 9202036,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 0 0\n@\n帰り道－\n\n# fadein \"white\" 0.5\n# se \"SE_0735\"\n# bgm \"stop\"\n# waitandnext 2\n@\n…………\n\n# fadein \"white\" 0.5\n# se \"SE_0735\"\n# waitandnext 2\n@\n…………\n\n@\nふと、\n傍らを歩く彼女が足を止めた…\n\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# textflame 1 1\n@ハルパー\nマスター、ちょっといいですか？\n\n# face %(unit_a)s \"angry\"\n@ハルパー\n私のこと…\nちゃんと知っててくれているか\n試してみたいのですが\n\n@ハルパー\nえっと、なんていうか…\nクイズ…みたいな感じですかね…\n\n@ハルパー\nそれでは…問題\n\n# face %(unit_a)s \"normal\"\n@ハルパー\n私に従えない輩なんて\nすぐに“あれ”を切り落として\nさしあげますわ\n\n# se \"SE_0734\"\n# select \"壺\" \"select_label_wrong1\" \"首\" \"select_label_correct\" \"なにを考えているのですか？\" \"select_label_wrong2\"\n私に従えない輩なんて\nすぐに“あれ”を切り落として\nさしあげますわ\n\n# label \"select_label_wrong1\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_correct\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_wrong2\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_end\"\n# waitandnext 0.1\n\n# sestop \"SE_0734\"\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

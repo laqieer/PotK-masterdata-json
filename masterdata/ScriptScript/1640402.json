@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 1640402,
+		"script": ";;４－７＜戦闘画面＞\n;;とある密室…暗闇に浮かび上がる王政府上層部の人間たち\n# script \"lisp\"\n# bgm \"bgm023\" 0\n# background \"black\"\n# imageset 0 \"006_hall\"\n# imagealpha 0 0 0\n# imagelayer 0 1\n# fadeout \"black\" 0\n\n;;王政府上層部１\n# fadein \"black\" 0.5\n# imagepos 0 0 30\n# imagealpha 0 1 0\n# textflame 1 1\n# textboxarrow 0 0\n@？？？\n…ファーストコンタクトの\n報告が届いたと聞く\n…いかようなものであったか？\n\n;;王政府上層部２\n# serif 1\n# textboxarrow 1 0\n@？？？\nふむ…その言葉は、\n正確とは言えませんな\n\n;;王政府上層部４\n# serif 0\n# textboxarrow 0 0\n@？？？\n左様…リベリオンとは、\nいにしえに相対しておる\n\n;;王政府上層部４\n# serif 0\n# textboxarrow 0 0\n@？？？\n言うなれば、\nセカンドコンタクトと申すべきか\n\n;;王政府上層部１\n# serif 1\n# textboxarrow 1 0\n@？？？\nなるほど…至極まっとうな意見だ\n此度の呼称は、\nそのように改めるとしよう\n\n;;王政府上層部３\n# serif 0\n# textboxarrow 0 0\n@？？？\n先に接触に当たった第６師団は、\n壊滅…現在、第８師団が\n交戦中にございます\n\n;;王政府上層部３\n# serif 0\n# textboxarrow 0 0\n@？？？\nですが、\nその壊滅も時間の問題であると…\n\n;;王政府上層部４\n# serif 1\n# textboxarrow 1 0\n@？？？\nやはり、一筋縄にはいかぬか…\n\n;;王政府上層部１\n# serif 0\n# textboxarrow 0 0\n@？？？\nしかしながら、\n未だ計算の範疇にある…\n第４、第７師団も向かわせましょう\n\n;;王政府上層部４\n# serif 1\n# textboxarrow 1 0\n@？？？\nうむ。…この闘いが、\nリベリオンとの\nラストコンタクトとなる\n\n;;王政府上層部４\n# serif 1\n# textboxarrow 1 0\n@？？？\nすべて我らの意図するままに運び、\n一分の隙もなく事を終えるのだ\n\n;;王政府上層部４\n# serif 1\n# textboxarrow 1 0\n@？？？\nこの“完全なる世界”は、\n揺るぐことなく保たれ続ける…\n神々の名の元に\n\n;;王政府上層部１\n# serif 0\n# textboxarrow 0 0\n@？？？\n…神々の名の元に\n"
+	}
+]

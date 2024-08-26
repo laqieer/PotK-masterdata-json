@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 600324,
+		"script": ";;B もう無理…\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_onsen\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 6003 \"tyurusosu_0027\"\n# textflame 1 1\n@テュルソス\nえー！？早いよ～\nこれからが本番でしょ？\n\n# face %(unit_a)s \"angry\"\n@テュルソス\nダメだよ、飲むときは\n全力で飲まなくちゃ！\n\n# textflame 0 0\n@\nグラスに注がれた度の強そうな酒を\n渋々、一口飲んだマスター\n\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 6003 \"tyurusosu_0022\"\n@テュルソス\nちょっ！？マスター！？\n\n# face %(unit_a)s \"sad\"\n# voice 6003 \"tyurusosu_0008\"\n@テュルソス\nあっ…これ…\n間違えちゃった…\n\n# textflame 0 0\n@\nなにを飲まされたのか不明だが\n結局、マスターは翌日まで\n沈没することになった…\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

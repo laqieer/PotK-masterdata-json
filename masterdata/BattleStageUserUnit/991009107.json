@@ -1,0 +1,72 @@
+[
+	{
+		"ID": 121,
+		"stage_BattleStage": 991009107,
+		"deck_position": 1,
+		"money": 200,
+		"initial_coordinate_x": 6,
+		"initial_coordinate_y": 10,
+		"reinforcement_BattleReinforcement": 0,
+		"initial_direction": 180.0,
+		"ai_move_group": 0,
+		"ai_attack": "",
+		"ai_move": "",
+		"ai_heal": ""
+	},
+	{
+		"ID": 122,
+		"stage_BattleStage": 991009107,
+		"deck_position": 2,
+		"money": 200,
+		"initial_coordinate_x": 8,
+		"initial_coordinate_y": 10,
+		"reinforcement_BattleReinforcement": 0,
+		"initial_direction": 180.0,
+		"ai_move_group": 0,
+		"ai_attack": "",
+		"ai_move": "",
+		"ai_heal": ""
+	},
+	{
+		"ID": 123,
+		"stage_BattleStage": 991009107,
+		"deck_position": 3,
+		"money": 200,
+		"initial_coordinate_x": 7,
+		"initial_coordinate_y": 11,
+		"reinforcement_BattleReinforcement": 0,
+		"initial_direction": 180.0,
+		"ai_move_group": 0,
+		"ai_attack": "",
+		"ai_move": "",
+		"ai_heal": ""
+	},
+	{
+		"ID": 124,
+		"stage_BattleStage": 991009107,
+		"deck_position": 4,
+		"money": 200,
+		"initial_coordinate_x": 2,
+		"initial_coordinate_y": 1,
+		"reinforcement_BattleReinforcement": 0,
+		"initial_direction": 90.0,
+		"ai_move_group": 0,
+		"ai_attack": "",
+		"ai_move": "",
+		"ai_heal": ""
+	},
+	{
+		"ID": 125,
+		"stage_BattleStage": 991009107,
+		"deck_position": 5,
+		"money": 200,
+		"initial_coordinate_x": 12,
+		"initial_coordinate_y": 1,
+		"reinforcement_BattleReinforcement": 0,
+		"initial_direction": 270.0,
+		"ai_move_group": 0,
+		"ai_attack": "",
+		"ai_move": "",
+		"ai_heal": ""
+	}
+]

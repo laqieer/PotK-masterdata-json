@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 200122,
+		"script": "# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_room\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# voice 2001 \"myuruniru_0006\"\n@ミョルニル\nいいねぇ～\nやっぱりお部屋では\nごろごろだよね！\n\n# textflame 1 1\n@ミョルニル\nそれ～！\nごろごろ～\nごろごろ～♪\n\n# textflame 0 0\n@\nベッドに勢いよくダイブして\n転がり始めるミョルニル\n\n# voice 2001 \"myuruniru_0004\"\n# textflame 1 1\n@ミョルニル\nマスタもおいでよ～\n一緒にごろごろしよ♪\n\n# textflame 0 0\n@\n無邪気なミョルニルにつられて\nマスターもベッドに転がる…\n\n# textflame 1 1\n@ミョルニル\nごろごろ～！\nマスタと一緒に\nごろごろごろ～♪\n\n# voice 2001 \"myuruniru_0039\"\n# face %(unit_a)s \"normal\"\n# textflame 1 1\n@ミョルニル\n…わぁ！\nマスタの顔…すぐ近く…！\n\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@ミョルニル\nあはははは！\nたのしいねぇ～ごろごろ～！！\n\n# textflame 0 0\n@\n鼻がくっつきそうなほどの距離で\nミョルニルの無邪気な笑顔に\n見惚れていた――\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

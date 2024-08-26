@@ -1,0 +1,3880 @@
+[
+	{
+		"ID": 111101,
+		"high": 1,
+		"low": 1,
+		"display_text": "個人ダメージランキング（ギルド内）1位",
+		"image_name": "slc_Gold.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 111102,
+		"high": 2,
+		"low": 3,
+		"display_text": "個人ダメージランキング（ギルド内）2位～3位",
+		"image_name": "slc_Silver.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 111103,
+		"high": 4,
+		"low": 10,
+		"display_text": "個人ダメージランキング（ギルド内）4位～10位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 111104,
+		"high": 11,
+		"low": 30,
+		"display_text": "個人ダメージランキング（ギルド内）11位～30位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 111201,
+		"high": 1,
+		"low": 1,
+		"display_text": "個人ダメージランキング（TOP100）1位",
+		"image_name": "slc_Gold.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 111202,
+		"high": 2,
+		"low": 3,
+		"display_text": "個人ダメージランキング（TOP100）2位～3位",
+		"image_name": "slc_Silver.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 111203,
+		"high": 4,
+		"low": 10,
+		"display_text": "個人ダメージランキング（TOP100）4位～10位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 111204,
+		"high": 11,
+		"low": 30,
+		"display_text": "個人ダメージランキング（TOP100）11位～30位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 111301,
+		"high": 1,
+		"low": 1,
+		"display_text": "ギルドダメージランキング1位",
+		"image_name": "slc_Gold.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 111302,
+		"high": 2,
+		"low": 3,
+		"display_text": "ギルドダメージランキング2位～3位",
+		"image_name": "slc_Silver.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 111303,
+		"high": 4,
+		"low": 10,
+		"display_text": "ギルドダメージランキング4位～10位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 111304,
+		"high": 11,
+		"low": 20,
+		"display_text": "ギルドダメージランキング11位～20位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 111305,
+		"high": 21,
+		"low": 100,
+		"display_text": "ギルドダメージランキング21位～100位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 111306,
+		"high": 101,
+		"low": 250,
+		"display_text": "ギルドダメージランキング101位～250位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 111307,
+		"high": 251,
+		"low": 500,
+		"display_text": "ギルドダメージランキング251位～500位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 111308,
+		"high": 501,
+		"low": 1000,
+		"display_text": "ギルドダメージランキング501位～1000位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 111309,
+		"high": 1001,
+		"low": 2000,
+		"display_text": "ギルドダメージランキング1001位～2000位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 111310,
+		"high": 2001,
+		"low": 3000,
+		"display_text": "ギルドダメージランキング2001位～3000位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 111311,
+		"high": 3001,
+		"low": 5000,
+		"display_text": "ギルドダメージランキング3001位～5000位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 111312,
+		"high": 5001,
+		"low": 10000,
+		"display_text": "ギルドダメージランキング5001位～10000位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 111313,
+		"high": 10001,
+		"low": 50000,
+		"display_text": "ギルドダメージランキング10001位～50000位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 112101,
+		"high": 1,
+		"low": 1,
+		"display_text": "個人ダメージランキング（ギルド内）1位",
+		"image_name": "slc_Gold.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 112102,
+		"high": 2,
+		"low": 3,
+		"display_text": "個人ダメージランキング（ギルド内）2位～3位",
+		"image_name": "slc_Silver.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 112103,
+		"high": 4,
+		"low": 10,
+		"display_text": "個人ダメージランキング（ギルド内）4位～10位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 112104,
+		"high": 11,
+		"low": 30,
+		"display_text": "個人ダメージランキング（ギルド内）11位～30位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 112201,
+		"high": 1,
+		"low": 1,
+		"display_text": "個人ダメージランキング（TOP100）1位",
+		"image_name": "slc_Gold.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 112202,
+		"high": 2,
+		"low": 3,
+		"display_text": "個人ダメージランキング（TOP100）2位～3位",
+		"image_name": "slc_Silver.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 112203,
+		"high": 4,
+		"low": 10,
+		"display_text": "個人ダメージランキング（TOP100）4位～10位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 112204,
+		"high": 11,
+		"low": 30,
+		"display_text": "個人ダメージランキング（TOP100）11位～30位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 112301,
+		"high": 1,
+		"low": 1,
+		"display_text": "ギルドダメージランキング1位",
+		"image_name": "slc_Gold.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 112302,
+		"high": 2,
+		"low": 3,
+		"display_text": "ギルドダメージランキング2位～3位",
+		"image_name": "slc_Silver.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 112303,
+		"high": 4,
+		"low": 10,
+		"display_text": "ギルドダメージランキング4位～10位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 112304,
+		"high": 11,
+		"low": 20,
+		"display_text": "ギルドダメージランキング11位～20位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 112305,
+		"high": 21,
+		"low": 100,
+		"display_text": "ギルドダメージランキング21位～100位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 112306,
+		"high": 101,
+		"low": 250,
+		"display_text": "ギルドダメージランキング101位～250位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 112307,
+		"high": 251,
+		"low": 500,
+		"display_text": "ギルドダメージランキング251位～500位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 112308,
+		"high": 501,
+		"low": 1000,
+		"display_text": "ギルドダメージランキング501位～1000位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 112309,
+		"high": 1001,
+		"low": 2000,
+		"display_text": "ギルドダメージランキング1001位～2000位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 112310,
+		"high": 2001,
+		"low": 3000,
+		"display_text": "ギルドダメージランキング2001位～3000位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 112311,
+		"high": 3001,
+		"low": 5000,
+		"display_text": "ギルドダメージランキング3001位～5000位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 112312,
+		"high": 5001,
+		"low": 50000,
+		"display_text": "ギルドダメージランキング5001位～50000位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 113101,
+		"high": 1,
+		"low": 1,
+		"display_text": "個人ダメージランキング（ギルド内）1位",
+		"image_name": "slc_Gold.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 113102,
+		"high": 2,
+		"low": 3,
+		"display_text": "個人ダメージランキング（ギルド内）2位～3位",
+		"image_name": "slc_Silver.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 113103,
+		"high": 4,
+		"low": 10,
+		"display_text": "個人ダメージランキング（ギルド内）4位～10位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 113104,
+		"high": 11,
+		"low": 30,
+		"display_text": "個人ダメージランキング（ギルド内）11位～30位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 113201,
+		"high": 1,
+		"low": 1,
+		"display_text": "個人ダメージランキング（TOP100）1位",
+		"image_name": "slc_Gold.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 113202,
+		"high": 2,
+		"low": 3,
+		"display_text": "個人ダメージランキング（TOP100）2位～3位",
+		"image_name": "slc_Silver.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 113203,
+		"high": 4,
+		"low": 10,
+		"display_text": "個人ダメージランキング（TOP100）4位～10位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 113204,
+		"high": 11,
+		"low": 30,
+		"display_text": "個人ダメージランキング（TOP100）11位～30位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 113301,
+		"high": 1,
+		"low": 1,
+		"display_text": "ギルドダメージランキング1位",
+		"image_name": "slc_Gold.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 113302,
+		"high": 2,
+		"low": 3,
+		"display_text": "ギルドダメージランキング2位～3位",
+		"image_name": "slc_Silver.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 113303,
+		"high": 4,
+		"low": 10,
+		"display_text": "ギルドダメージランキング4位～10位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 113304,
+		"high": 11,
+		"low": 20,
+		"display_text": "ギルドダメージランキング11位～20位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 113305,
+		"high": 21,
+		"low": 100,
+		"display_text": "ギルドダメージランキング21位～100位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 113306,
+		"high": 101,
+		"low": 250,
+		"display_text": "ギルドダメージランキング101位～250位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 113307,
+		"high": 251,
+		"low": 500,
+		"display_text": "ギルドダメージランキング251位～500位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 113308,
+		"high": 501,
+		"low": 1000,
+		"display_text": "ギルドダメージランキング501位～1000位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 113309,
+		"high": 1001,
+		"low": 2000,
+		"display_text": "ギルドダメージランキング1001位～2000位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 113310,
+		"high": 2001,
+		"low": 3000,
+		"display_text": "ギルドダメージランキング2001位～3000位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 113311,
+		"high": 3001,
+		"low": 5000,
+		"display_text": "ギルドダメージランキング3001位～5000位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 113312,
+		"high": 5001,
+		"low": 50000,
+		"display_text": "ギルドダメージランキング5001位～50000位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 114101,
+		"high": 1,
+		"low": 1,
+		"display_text": "個人ダメージランキング（ギルド内）1位",
+		"image_name": "slc_Gold.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 114102,
+		"high": 2,
+		"low": 3,
+		"display_text": "個人ダメージランキング（ギルド内）2位～3位",
+		"image_name": "slc_Silver.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 114103,
+		"high": 4,
+		"low": 10,
+		"display_text": "個人ダメージランキング（ギルド内）4位～10位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 114104,
+		"high": 11,
+		"low": 30,
+		"display_text": "個人ダメージランキング（ギルド内）11位～30位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 114201,
+		"high": 1,
+		"low": 1,
+		"display_text": "個人ダメージランキング（TOP100）1位",
+		"image_name": "slc_Gold.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 114202,
+		"high": 2,
+		"low": 3,
+		"display_text": "個人ダメージランキング（TOP100）2位～3位",
+		"image_name": "slc_Silver.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 114203,
+		"high": 4,
+		"low": 10,
+		"display_text": "個人ダメージランキング（TOP100）4位～10位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 114204,
+		"high": 11,
+		"low": 30,
+		"display_text": "個人ダメージランキング（TOP100）11位～30位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 114301,
+		"high": 1,
+		"low": 1,
+		"display_text": "ギルドダメージランキング1位",
+		"image_name": "slc_Gold.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 114302,
+		"high": 2,
+		"low": 3,
+		"display_text": "ギルドダメージランキング2位～3位",
+		"image_name": "slc_Silver.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 114303,
+		"high": 4,
+		"low": 10,
+		"display_text": "ギルドダメージランキング4位～10位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 114304,
+		"high": 11,
+		"low": 20,
+		"display_text": "ギルドダメージランキング11位～20位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 114305,
+		"high": 21,
+		"low": 100,
+		"display_text": "ギルドダメージランキング21位～100位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 114306,
+		"high": 101,
+		"low": 250,
+		"display_text": "ギルドダメージランキング101位～250位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 114307,
+		"high": 251,
+		"low": 500,
+		"display_text": "ギルドダメージランキング251位～500位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 114308,
+		"high": 501,
+		"low": 1000,
+		"display_text": "ギルドダメージランキング501位～1000位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 114309,
+		"high": 1001,
+		"low": 2000,
+		"display_text": "ギルドダメージランキング1001位～2000位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 114310,
+		"high": 2001,
+		"low": 3000,
+		"display_text": "ギルドダメージランキング2001位～3000位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 114311,
+		"high": 3001,
+		"low": 5000,
+		"display_text": "ギルドダメージランキング3001位～5000位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 114312,
+		"high": 5001,
+		"low": 50000,
+		"display_text": "ギルドダメージランキング5001位～50000位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 115101,
+		"high": 1,
+		"low": 1,
+		"display_text": "個人ダメージランキング（ギルド内）1位",
+		"image_name": "slc_Gold.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 115102,
+		"high": 2,
+		"low": 3,
+		"display_text": "個人ダメージランキング（ギルド内）2位～3位",
+		"image_name": "slc_Silver.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 115103,
+		"high": 4,
+		"low": 10,
+		"display_text": "個人ダメージランキング（ギルド内）4位～10位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 115104,
+		"high": 11,
+		"low": 30,
+		"display_text": "個人ダメージランキング（ギルド内）11位～30位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 115201,
+		"high": 1,
+		"low": 1,
+		"display_text": "個人ダメージランキング（TOP100）1位",
+		"image_name": "slc_Gold.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 115202,
+		"high": 2,
+		"low": 3,
+		"display_text": "個人ダメージランキング（TOP100）2位～3位",
+		"image_name": "slc_Silver.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 115203,
+		"high": 4,
+		"low": 10,
+		"display_text": "個人ダメージランキング（TOP100）4位～10位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 115204,
+		"high": 11,
+		"low": 30,
+		"display_text": "個人ダメージランキング（TOP100）11位～30位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 115301,
+		"high": 1,
+		"low": 1,
+		"display_text": "ギルドダメージランキング1位",
+		"image_name": "slc_Gold.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 115302,
+		"high": 2,
+		"low": 3,
+		"display_text": "ギルドダメージランキング2位～3位",
+		"image_name": "slc_Silver.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 115303,
+		"high": 4,
+		"low": 10,
+		"display_text": "ギルドダメージランキング4位～10位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 115304,
+		"high": 11,
+		"low": 20,
+		"display_text": "ギルドダメージランキング11位～20位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 115305,
+		"high": 21,
+		"low": 100,
+		"display_text": "ギルドダメージランキング21位～100位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 115306,
+		"high": 101,
+		"low": 250,
+		"display_text": "ギルドダメージランキング101位～250位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 115307,
+		"high": 251,
+		"low": 500,
+		"display_text": "ギルドダメージランキング251位～500位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 115308,
+		"high": 501,
+		"low": 1000,
+		"display_text": "ギルドダメージランキング501位～1000位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 115309,
+		"high": 1001,
+		"low": 2000,
+		"display_text": "ギルドダメージランキング1001位～2000位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 115310,
+		"high": 2001,
+		"low": 3000,
+		"display_text": "ギルドダメージランキング2001位～3000位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 115311,
+		"high": 3001,
+		"low": 5000,
+		"display_text": "ギルドダメージランキング3001位～5000位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 115312,
+		"high": 5001,
+		"low": 50000,
+		"display_text": "ギルドダメージランキング5001位～50000位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 116101,
+		"high": 1,
+		"low": 1,
+		"display_text": "個人ダメージランキング（ギルド内）1位",
+		"image_name": "slc_Gold.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 116102,
+		"high": 2,
+		"low": 3,
+		"display_text": "個人ダメージランキング（ギルド内）2位～3位",
+		"image_name": "slc_Silver.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 116103,
+		"high": 4,
+		"low": 10,
+		"display_text": "個人ダメージランキング（ギルド内）4位～10位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 116104,
+		"high": 11,
+		"low": 30,
+		"display_text": "個人ダメージランキング（ギルド内）11位～30位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 116201,
+		"high": 1,
+		"low": 1,
+		"display_text": "個人ダメージランキング（TOP100）1位",
+		"image_name": "slc_Gold.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 116202,
+		"high": 2,
+		"low": 3,
+		"display_text": "個人ダメージランキング（TOP100）2位～3位",
+		"image_name": "slc_Silver.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 116203,
+		"high": 4,
+		"low": 10,
+		"display_text": "個人ダメージランキング（TOP100）4位～10位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 116204,
+		"high": 11,
+		"low": 30,
+		"display_text": "個人ダメージランキング（TOP100）11位～30位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 116301,
+		"high": 1,
+		"low": 1,
+		"display_text": "ギルドダメージランキング1位",
+		"image_name": "slc_Gold.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 116302,
+		"high": 2,
+		"low": 3,
+		"display_text": "ギルドダメージランキング2位～3位",
+		"image_name": "slc_Silver.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 116303,
+		"high": 4,
+		"low": 10,
+		"display_text": "ギルドダメージランキング4位～10位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 116304,
+		"high": 11,
+		"low": 20,
+		"display_text": "ギルドダメージランキング11位～20位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 116305,
+		"high": 21,
+		"low": 100,
+		"display_text": "ギルドダメージランキング21位～100位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 116306,
+		"high": 101,
+		"low": 250,
+		"display_text": "ギルドダメージランキング101位～250位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 116307,
+		"high": 251,
+		"low": 500,
+		"display_text": "ギルドダメージランキング251位～500位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 116308,
+		"high": 501,
+		"low": 1000,
+		"display_text": "ギルドダメージランキング501位～1000位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 116309,
+		"high": 1001,
+		"low": 2000,
+		"display_text": "ギルドダメージランキング1001位～2000位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 116310,
+		"high": 2001,
+		"low": 3000,
+		"display_text": "ギルドダメージランキング2001位～3000位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 116311,
+		"high": 3001,
+		"low": 5000,
+		"display_text": "ギルドダメージランキング3001位～5000位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 116312,
+		"high": 5001,
+		"low": 50000,
+		"display_text": "ギルドダメージランキング5001位～50000位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 117101,
+		"high": 1,
+		"low": 1,
+		"display_text": "個人ダメージランキング（ギルド内）1位",
+		"image_name": "slc_Gold.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 117102,
+		"high": 2,
+		"low": 3,
+		"display_text": "個人ダメージランキング（ギルド内）2位～3位",
+		"image_name": "slc_Silver.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 117103,
+		"high": 4,
+		"low": 10,
+		"display_text": "個人ダメージランキング（ギルド内）4位～10位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 117104,
+		"high": 11,
+		"low": 30,
+		"display_text": "個人ダメージランキング（ギルド内）11位～30位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 117201,
+		"high": 1,
+		"low": 1,
+		"display_text": "個人ダメージランキング（TOP100）1位",
+		"image_name": "slc_Gold.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 117202,
+		"high": 2,
+		"low": 3,
+		"display_text": "個人ダメージランキング（TOP100）2位～3位",
+		"image_name": "slc_Silver.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 117203,
+		"high": 4,
+		"low": 10,
+		"display_text": "個人ダメージランキング（TOP100）4位～10位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 117204,
+		"high": 11,
+		"low": 200,
+		"display_text": "個人ダメージランキング（TOP100）11位～200位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 117301,
+		"high": 1,
+		"low": 1,
+		"display_text": "ギルドダメージランキング1位",
+		"image_name": "slc_Gold.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 117302,
+		"high": 2,
+		"low": 3,
+		"display_text": "ギルドダメージランキング2位～3位",
+		"image_name": "slc_Silver.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 117303,
+		"high": 4,
+		"low": 10,
+		"display_text": "ギルドダメージランキング4位～10位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 117304,
+		"high": 11,
+		"low": 5000,
+		"display_text": "ギルドダメージランキング11位～5000位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 117305,
+		"high": 5001,
+		"low": 50000,
+		"display_text": "ギルドダメージランキング5001位～50000位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 118101,
+		"high": 1,
+		"low": 1,
+		"display_text": "個人ダメージランキング（ギルド内）1位",
+		"image_name": "slc_Gold.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 118102,
+		"high": 2,
+		"low": 3,
+		"display_text": "個人ダメージランキング（ギルド内）2位～3位",
+		"image_name": "slc_Silver.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 118103,
+		"high": 4,
+		"low": 10,
+		"display_text": "個人ダメージランキング（ギルド内）4位～10位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 118104,
+		"high": 11,
+		"low": 30,
+		"display_text": "個人ダメージランキング（ギルド内）11位～30位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 118201,
+		"high": 1,
+		"low": 1,
+		"display_text": "個人ダメージランキング（TOP100）1位",
+		"image_name": "slc_Gold.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 118202,
+		"high": 2,
+		"low": 3,
+		"display_text": "個人ダメージランキング（TOP100）2位～3位",
+		"image_name": "slc_Silver.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 118203,
+		"high": 4,
+		"low": 10,
+		"display_text": "個人ダメージランキング（TOP100）4位～10位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 118204,
+		"high": 11,
+		"low": 30,
+		"display_text": "個人ダメージランキング（TOP100）11位～30位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 118301,
+		"high": 1,
+		"low": 1,
+		"display_text": "ギルドダメージランキング1位",
+		"image_name": "slc_Gold.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 118302,
+		"high": 2,
+		"low": 3,
+		"display_text": "ギルドダメージランキング2位～3位",
+		"image_name": "slc_Silver.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 118303,
+		"high": 4,
+		"low": 10,
+		"display_text": "ギルドダメージランキング4位～10位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 118304,
+		"high": 11,
+		"low": 20,
+		"display_text": "ギルドダメージランキング11位～20位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 118305,
+		"high": 21,
+		"low": 100,
+		"display_text": "ギルドダメージランキング21位～100位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 118306,
+		"high": 101,
+		"low": 250,
+		"display_text": "ギルドダメージランキング101位～250位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 118307,
+		"high": 251,
+		"low": 500,
+		"display_text": "ギルドダメージランキング251位～500位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 118308,
+		"high": 501,
+		"low": 1000,
+		"display_text": "ギルドダメージランキング501位～1000位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 118309,
+		"high": 1001,
+		"low": 2000,
+		"display_text": "ギルドダメージランキング1001位～2000位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 118310,
+		"high": 2001,
+		"low": 3000,
+		"display_text": "ギルドダメージランキング2001位～3000位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 118311,
+		"high": 3001,
+		"low": 5000,
+		"display_text": "ギルドダメージランキング3001位～5000位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 118312,
+		"high": 5001,
+		"low": 50000,
+		"display_text": "ギルドダメージランキング5001位～50000位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 119101,
+		"high": 1,
+		"low": 1,
+		"display_text": "個人ダメージランキング（ギルド内）1位",
+		"image_name": "slc_Gold.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 119102,
+		"high": 2,
+		"low": 3,
+		"display_text": "個人ダメージランキング（ギルド内）2位～3位",
+		"image_name": "slc_Silver.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 119103,
+		"high": 4,
+		"low": 10,
+		"display_text": "個人ダメージランキング（ギルド内）4位～10位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 119104,
+		"high": 11,
+		"low": 30,
+		"display_text": "個人ダメージランキング（ギルド内）11位～30位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 119201,
+		"high": 1,
+		"low": 1,
+		"display_text": "個人ダメージランキング（TOP100）1位",
+		"image_name": "slc_Gold.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 119202,
+		"high": 2,
+		"low": 3,
+		"display_text": "個人ダメージランキング（TOP100）2位～3位",
+		"image_name": "slc_Silver.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 119203,
+		"high": 4,
+		"low": 10,
+		"display_text": "個人ダメージランキング（TOP100）4位～10位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 119204,
+		"high": 11,
+		"low": 30,
+		"display_text": "個人ダメージランキング（TOP100）11位～30位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 119301,
+		"high": 1,
+		"low": 1,
+		"display_text": "ギルドダメージランキング1位",
+		"image_name": "slc_Gold.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 119302,
+		"high": 2,
+		"low": 3,
+		"display_text": "ギルドダメージランキング2位～3位",
+		"image_name": "slc_Silver.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 119303,
+		"high": 4,
+		"low": 10,
+		"display_text": "ギルドダメージランキング4位～10位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 119304,
+		"high": 11,
+		"low": 20,
+		"display_text": "ギルドダメージランキング11位～20位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 119305,
+		"high": 21,
+		"low": 100,
+		"display_text": "ギルドダメージランキング21位～100位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 119306,
+		"high": 101,
+		"low": 250,
+		"display_text": "ギルドダメージランキング101位～250位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 119307,
+		"high": 251,
+		"low": 500,
+		"display_text": "ギルドダメージランキング251位～500位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 119308,
+		"high": 501,
+		"low": 1000,
+		"display_text": "ギルドダメージランキング501位～1000位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 119309,
+		"high": 1001,
+		"low": 2000,
+		"display_text": "ギルドダメージランキング1001位～2000位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 119310,
+		"high": 2001,
+		"low": 3000,
+		"display_text": "ギルドダメージランキング2001位～3000位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 119311,
+		"high": 3001,
+		"low": 5000,
+		"display_text": "ギルドダメージランキング3001位～5000位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 119312,
+		"high": 5001,
+		"low": 50000,
+		"display_text": "ギルドダメージランキング5001位～50000位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 120101,
+		"high": 1,
+		"low": 1,
+		"display_text": "個人ダメージランキング（ギルド内）1位",
+		"image_name": "slc_Gold.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 120102,
+		"high": 2,
+		"low": 3,
+		"display_text": "個人ダメージランキング（ギルド内）2位～3位",
+		"image_name": "slc_Silver.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 120103,
+		"high": 4,
+		"low": 10,
+		"display_text": "個人ダメージランキング（ギルド内）4位～10位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 120104,
+		"high": 11,
+		"low": 30,
+		"display_text": "個人ダメージランキング（ギルド内）11位～30位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 120201,
+		"high": 1,
+		"low": 1,
+		"display_text": "個人ダメージランキング（TOP100）1位",
+		"image_name": "slc_Gold.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 120202,
+		"high": 2,
+		"low": 3,
+		"display_text": "個人ダメージランキング（TOP100）2位～3位",
+		"image_name": "slc_Silver.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 120203,
+		"high": 4,
+		"low": 10,
+		"display_text": "個人ダメージランキング（TOP100）4位～10位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 120204,
+		"high": 11,
+		"low": 30,
+		"display_text": "個人ダメージランキング（TOP100）11位～30位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 120301,
+		"high": 1,
+		"low": 1,
+		"display_text": "ギルドダメージランキング1位",
+		"image_name": "slc_Gold.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 120302,
+		"high": 2,
+		"low": 3,
+		"display_text": "ギルドダメージランキング2位～3位",
+		"image_name": "slc_Silver.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 120303,
+		"high": 4,
+		"low": 10,
+		"display_text": "ギルドダメージランキング4位～10位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 120304,
+		"high": 11,
+		"low": 20,
+		"display_text": "ギルドダメージランキング11位～20位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 120305,
+		"high": 21,
+		"low": 100,
+		"display_text": "ギルドダメージランキング21位～100位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 120306,
+		"high": 101,
+		"low": 250,
+		"display_text": "ギルドダメージランキング101位～250位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 120307,
+		"high": 251,
+		"low": 500,
+		"display_text": "ギルドダメージランキング251位～500位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 120308,
+		"high": 501,
+		"low": 1000,
+		"display_text": "ギルドダメージランキング501位～1000位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 120309,
+		"high": 1001,
+		"low": 2000,
+		"display_text": "ギルドダメージランキング1001位～2000位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 120310,
+		"high": 2001,
+		"low": 3000,
+		"display_text": "ギルドダメージランキング2001位～3000位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 120311,
+		"high": 3001,
+		"low": 5000,
+		"display_text": "ギルドダメージランキング3001位～5000位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 120312,
+		"high": 5001,
+		"low": 50000,
+		"display_text": "ギルドダメージランキング5001位～50000位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 121101,
+		"high": 1,
+		"low": 1,
+		"display_text": "個人ダメージランキング（ギルド内）1位",
+		"image_name": "slc_Gold.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 121102,
+		"high": 2,
+		"low": 3,
+		"display_text": "個人ダメージランキング（ギルド内）2位～3位",
+		"image_name": "slc_Silver.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 121103,
+		"high": 4,
+		"low": 10,
+		"display_text": "個人ダメージランキング（ギルド内）4位～10位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 121104,
+		"high": 11,
+		"low": 30,
+		"display_text": "個人ダメージランキング（ギルド内）11位～30位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 121201,
+		"high": 1,
+		"low": 1,
+		"display_text": "個人ダメージランキング（TOP100）1位",
+		"image_name": "slc_Gold.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 121202,
+		"high": 2,
+		"low": 3,
+		"display_text": "個人ダメージランキング（TOP100）2位～3位",
+		"image_name": "slc_Silver.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 121203,
+		"high": 4,
+		"low": 10,
+		"display_text": "個人ダメージランキング（TOP100）4位～10位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 121204,
+		"high": 11,
+		"low": 30,
+		"display_text": "個人ダメージランキング（TOP100）11位～30位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 121301,
+		"high": 1,
+		"low": 1,
+		"display_text": "ギルドダメージランキング1位",
+		"image_name": "slc_Gold.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 121302,
+		"high": 2,
+		"low": 3,
+		"display_text": "ギルドダメージランキング2位～3位",
+		"image_name": "slc_Silver.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 121303,
+		"high": 4,
+		"low": 10,
+		"display_text": "ギルドダメージランキング4位～10位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 121304,
+		"high": 11,
+		"low": 20,
+		"display_text": "ギルドダメージランキング11位～20位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 121305,
+		"high": 21,
+		"low": 100,
+		"display_text": "ギルドダメージランキング21位～100位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 121306,
+		"high": 101,
+		"low": 250,
+		"display_text": "ギルドダメージランキング101位～250位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 121307,
+		"high": 251,
+		"low": 500,
+		"display_text": "ギルドダメージランキング251位～500位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 121308,
+		"high": 501,
+		"low": 1000,
+		"display_text": "ギルドダメージランキング501位～1000位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 121309,
+		"high": 1001,
+		"low": 2000,
+		"display_text": "ギルドダメージランキング1001位～2000位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 121310,
+		"high": 2001,
+		"low": 3000,
+		"display_text": "ギルドダメージランキング2001位～3000位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 121311,
+		"high": 3001,
+		"low": 5000,
+		"display_text": "ギルドダメージランキング3001位～5000位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 121312,
+		"high": 5001,
+		"low": 50000,
+		"display_text": "ギルドダメージランキング5001位～50000位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 122101,
+		"high": 1,
+		"low": 1,
+		"display_text": "個人ダメージランキング（ギルド内）1位",
+		"image_name": "slc_Gold.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 122102,
+		"high": 2,
+		"low": 3,
+		"display_text": "個人ダメージランキング（ギルド内）2位～3位",
+		"image_name": "slc_Silver.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 122103,
+		"high": 4,
+		"low": 10,
+		"display_text": "個人ダメージランキング（ギルド内）4位～10位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 122104,
+		"high": 11,
+		"low": 30,
+		"display_text": "個人ダメージランキング（ギルド内）11位～30位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 122201,
+		"high": 1,
+		"low": 1,
+		"display_text": "個人ダメージランキング（TOP100）1位",
+		"image_name": "slc_Gold.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 122202,
+		"high": 2,
+		"low": 3,
+		"display_text": "個人ダメージランキング（TOP100）2位～3位",
+		"image_name": "slc_Silver.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 122203,
+		"high": 4,
+		"low": 10,
+		"display_text": "個人ダメージランキング（TOP100）4位～10位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 122204,
+		"high": 11,
+		"low": 30,
+		"display_text": "個人ダメージランキング（TOP100）11位～30位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 122301,
+		"high": 1,
+		"low": 1,
+		"display_text": "ギルドダメージランキング1位",
+		"image_name": "slc_Gold.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 122302,
+		"high": 2,
+		"low": 3,
+		"display_text": "ギルドダメージランキング2位～3位",
+		"image_name": "slc_Silver.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 122303,
+		"high": 4,
+		"low": 10,
+		"display_text": "ギルドダメージランキング4位～10位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 122304,
+		"high": 11,
+		"low": 20,
+		"display_text": "ギルドダメージランキング11位～20位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 122305,
+		"high": 21,
+		"low": 100,
+		"display_text": "ギルドダメージランキング21位～100位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 122306,
+		"high": 101,
+		"low": 250,
+		"display_text": "ギルドダメージランキング101位～250位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 122307,
+		"high": 251,
+		"low": 500,
+		"display_text": "ギルドダメージランキング251位～500位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 122308,
+		"high": 501,
+		"low": 1000,
+		"display_text": "ギルドダメージランキング501位～1000位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 122309,
+		"high": 1001,
+		"low": 2000,
+		"display_text": "ギルドダメージランキング1001位～2000位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 122310,
+		"high": 2001,
+		"low": 3000,
+		"display_text": "ギルドダメージランキング2001位～3000位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 122311,
+		"high": 3001,
+		"low": 5000,
+		"display_text": "ギルドダメージランキング3001位～5000位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 122312,
+		"high": 5001,
+		"low": 50000,
+		"display_text": "ギルドダメージランキング5001位～50000位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 123101,
+		"high": 1,
+		"low": 1,
+		"display_text": "個人ダメージランキング（ギルド内）1位",
+		"image_name": "slc_Gold.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 123102,
+		"high": 2,
+		"low": 3,
+		"display_text": "個人ダメージランキング（ギルド内）2位～3位",
+		"image_name": "slc_Silver.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 123103,
+		"high": 4,
+		"low": 10,
+		"display_text": "個人ダメージランキング（ギルド内）4位～10位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 123104,
+		"high": 11,
+		"low": 30,
+		"display_text": "個人ダメージランキング（ギルド内）11位～30位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 123201,
+		"high": 1,
+		"low": 1,
+		"display_text": "個人ダメージランキング（TOP100）1位",
+		"image_name": "slc_Gold.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 123202,
+		"high": 2,
+		"low": 3,
+		"display_text": "個人ダメージランキング（TOP100）2位～3位",
+		"image_name": "slc_Silver.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 123203,
+		"high": 4,
+		"low": 10,
+		"display_text": "個人ダメージランキング（TOP100）4位～10位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 123204,
+		"high": 11,
+		"low": 30,
+		"display_text": "個人ダメージランキング（TOP100）11位～30位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 123301,
+		"high": 1,
+		"low": 1,
+		"display_text": "ギルドダメージランキング1位",
+		"image_name": "slc_Gold.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 123302,
+		"high": 2,
+		"low": 3,
+		"display_text": "ギルドダメージランキング2位～3位",
+		"image_name": "slc_Silver.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 123303,
+		"high": 4,
+		"low": 10,
+		"display_text": "ギルドダメージランキング4位～10位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 123304,
+		"high": 11,
+		"low": 20,
+		"display_text": "ギルドダメージランキング11位～20位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 123305,
+		"high": 21,
+		"low": 100,
+		"display_text": "ギルドダメージランキング21位～100位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 123306,
+		"high": 101,
+		"low": 250,
+		"display_text": "ギルドダメージランキング101位～250位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 123307,
+		"high": 251,
+		"low": 500,
+		"display_text": "ギルドダメージランキング251位～500位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 123308,
+		"high": 501,
+		"low": 1000,
+		"display_text": "ギルドダメージランキング501位～1000位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 123309,
+		"high": 1001,
+		"low": 2000,
+		"display_text": "ギルドダメージランキング1001位～2000位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 123310,
+		"high": 2001,
+		"low": 3000,
+		"display_text": "ギルドダメージランキング2001位～3000位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 123311,
+		"high": 3001,
+		"low": 5000,
+		"display_text": "ギルドダメージランキング3001位～5000位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 123312,
+		"high": 5001,
+		"low": 50000,
+		"display_text": "ギルドダメージランキング5001位～50000位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 124101,
+		"high": 1,
+		"low": 1,
+		"display_text": "個人ダメージランキング（ギルド内）1位",
+		"image_name": "slc_Gold.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 124102,
+		"high": 2,
+		"low": 3,
+		"display_text": "個人ダメージランキング（ギルド内）2位～3位",
+		"image_name": "slc_Silver.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 124103,
+		"high": 4,
+		"low": 10,
+		"display_text": "個人ダメージランキング（ギルド内）4位～10位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 124104,
+		"high": 11,
+		"low": 30,
+		"display_text": "個人ダメージランキング（ギルド内）11位～30位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 124201,
+		"high": 1,
+		"low": 1,
+		"display_text": "個人ダメージランキング（TOP100）1位",
+		"image_name": "slc_Gold.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 124202,
+		"high": 2,
+		"low": 3,
+		"display_text": "個人ダメージランキング（TOP100）2位～3位",
+		"image_name": "slc_Silver.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 124203,
+		"high": 4,
+		"low": 10,
+		"display_text": "個人ダメージランキング（TOP100）4位～10位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 124204,
+		"high": 11,
+		"low": 30,
+		"display_text": "個人ダメージランキング（TOP100）11位～30位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 124301,
+		"high": 1,
+		"low": 1,
+		"display_text": "ギルドダメージランキング1位",
+		"image_name": "slc_Gold.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 124302,
+		"high": 2,
+		"low": 3,
+		"display_text": "ギルドダメージランキング2位～3位",
+		"image_name": "slc_Silver.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 124303,
+		"high": 4,
+		"low": 10,
+		"display_text": "ギルドダメージランキング4位～10位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 124304,
+		"high": 11,
+		"low": 20,
+		"display_text": "ギルドダメージランキング11位～20位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 124305,
+		"high": 21,
+		"low": 100,
+		"display_text": "ギルドダメージランキング21位～100位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 124306,
+		"high": 101,
+		"low": 250,
+		"display_text": "ギルドダメージランキング101位～250位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 124307,
+		"high": 251,
+		"low": 500,
+		"display_text": "ギルドダメージランキング251位～500位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 124308,
+		"high": 501,
+		"low": 1000,
+		"display_text": "ギルドダメージランキング501位～1000位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 124309,
+		"high": 1001,
+		"low": 2000,
+		"display_text": "ギルドダメージランキング1001位～2000位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 124310,
+		"high": 2001,
+		"low": 3000,
+		"display_text": "ギルドダメージランキング2001位～3000位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 124311,
+		"high": 3001,
+		"low": 5000,
+		"display_text": "ギルドダメージランキング3001位～5000位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 124312,
+		"high": 5001,
+		"low": 50000,
+		"display_text": "ギルドダメージランキング5001位～50000位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 125101,
+		"high": 1,
+		"low": 1,
+		"display_text": "個人ダメージランキング（ギルド内）1位",
+		"image_name": "slc_Gold.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 125102,
+		"high": 2,
+		"low": 3,
+		"display_text": "個人ダメージランキング（ギルド内）2位～3位",
+		"image_name": "slc_Silver.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 125103,
+		"high": 4,
+		"low": 10,
+		"display_text": "個人ダメージランキング（ギルド内）4位～10位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 125104,
+		"high": 11,
+		"low": 30,
+		"display_text": "個人ダメージランキング（ギルド内）11位～30位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 125201,
+		"high": 1,
+		"low": 1,
+		"display_text": "個人ダメージランキング（TOP100）1位",
+		"image_name": "slc_Gold.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 125202,
+		"high": 2,
+		"low": 3,
+		"display_text": "個人ダメージランキング（TOP100）2位～3位",
+		"image_name": "slc_Silver.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 125203,
+		"high": 4,
+		"low": 10,
+		"display_text": "個人ダメージランキング（TOP100）4位～10位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 125204,
+		"high": 11,
+		"low": 30,
+		"display_text": "個人ダメージランキング（TOP100）11位～30位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 125301,
+		"high": 1,
+		"low": 1,
+		"display_text": "ギルドダメージランキング1位",
+		"image_name": "slc_Gold.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 125302,
+		"high": 2,
+		"low": 3,
+		"display_text": "ギルドダメージランキング2位～3位",
+		"image_name": "slc_Silver.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 125303,
+		"high": 4,
+		"low": 10,
+		"display_text": "ギルドダメージランキング4位～10位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 125304,
+		"high": 11,
+		"low": 20,
+		"display_text": "ギルドダメージランキング11位～20位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 125305,
+		"high": 21,
+		"low": 100,
+		"display_text": "ギルドダメージランキング21位～100位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 125306,
+		"high": 101,
+		"low": 250,
+		"display_text": "ギルドダメージランキング101位～250位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 125307,
+		"high": 251,
+		"low": 500,
+		"display_text": "ギルドダメージランキング251位～500位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 125308,
+		"high": 501,
+		"low": 1000,
+		"display_text": "ギルドダメージランキング501位～1000位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 125309,
+		"high": 1001,
+		"low": 2000,
+		"display_text": "ギルドダメージランキング1001位～2000位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 125310,
+		"high": 2001,
+		"low": 3000,
+		"display_text": "ギルドダメージランキング2001位～3000位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 125311,
+		"high": 3001,
+		"low": 5000,
+		"display_text": "ギルドダメージランキング3001位～5000位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 125312,
+		"high": 5001,
+		"low": 50000,
+		"display_text": "ギルドダメージランキング5001位～50000位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 126101,
+		"high": 1,
+		"low": 1,
+		"display_text": "個人ダメージランキング（ギルド内）1位",
+		"image_name": "slc_Gold.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 126102,
+		"high": 2,
+		"low": 3,
+		"display_text": "個人ダメージランキング（ギルド内）2位～3位",
+		"image_name": "slc_Silver.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 126103,
+		"high": 4,
+		"low": 10,
+		"display_text": "個人ダメージランキング（ギルド内）4位～10位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 126104,
+		"high": 11,
+		"low": 30,
+		"display_text": "個人ダメージランキング（ギルド内）11位～30位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 126201,
+		"high": 1,
+		"low": 1,
+		"display_text": "個人ダメージランキング（TOP100）1位",
+		"image_name": "slc_Gold.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 126202,
+		"high": 2,
+		"low": 3,
+		"display_text": "個人ダメージランキング（TOP100）2位～3位",
+		"image_name": "slc_Silver.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 126203,
+		"high": 4,
+		"low": 10,
+		"display_text": "個人ダメージランキング（TOP100）4位～10位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 126204,
+		"high": 11,
+		"low": 30,
+		"display_text": "個人ダメージランキング（TOP100）11位～30位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 126301,
+		"high": 1,
+		"low": 1,
+		"display_text": "ギルドダメージランキング1位",
+		"image_name": "slc_Gold.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 126302,
+		"high": 2,
+		"low": 3,
+		"display_text": "ギルドダメージランキング2位～3位",
+		"image_name": "slc_Silver.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 126303,
+		"high": 4,
+		"low": 10,
+		"display_text": "ギルドダメージランキング4位～10位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 126304,
+		"high": 11,
+		"low": 20,
+		"display_text": "ギルドダメージランキング11位～20位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 126305,
+		"high": 21,
+		"low": 100,
+		"display_text": "ギルドダメージランキング21位～100位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 126306,
+		"high": 101,
+		"low": 250,
+		"display_text": "ギルドダメージランキング101位～250位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 126307,
+		"high": 251,
+		"low": 500,
+		"display_text": "ギルドダメージランキング251位～500位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 126308,
+		"high": 501,
+		"low": 1000,
+		"display_text": "ギルドダメージランキング501位～1000位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 126309,
+		"high": 1001,
+		"low": 2000,
+		"display_text": "ギルドダメージランキング1001位～2000位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 126310,
+		"high": 2001,
+		"low": 3000,
+		"display_text": "ギルドダメージランキング2001位～3000位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 126311,
+		"high": 3001,
+		"low": 5000,
+		"display_text": "ギルドダメージランキング3001位～5000位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 126312,
+		"high": 5001,
+		"low": 50000,
+		"display_text": "ギルドダメージランキング5001位～50000位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 127101,
+		"high": 1,
+		"low": 1,
+		"display_text": "個人ダメージランキング（ギルド内）1位",
+		"image_name": "slc_Gold.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 127102,
+		"high": 2,
+		"low": 3,
+		"display_text": "個人ダメージランキング（ギルド内）2位～3位",
+		"image_name": "slc_Silver.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 127103,
+		"high": 4,
+		"low": 10,
+		"display_text": "個人ダメージランキング（ギルド内）4位～10位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 127104,
+		"high": 11,
+		"low": 30,
+		"display_text": "個人ダメージランキング（ギルド内）11位～30位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 127201,
+		"high": 1,
+		"low": 1,
+		"display_text": "個人ダメージランキング（TOP100）1位",
+		"image_name": "slc_Gold.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 127202,
+		"high": 2,
+		"low": 3,
+		"display_text": "個人ダメージランキング（TOP100）2位～3位",
+		"image_name": "slc_Silver.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 127203,
+		"high": 4,
+		"low": 10,
+		"display_text": "個人ダメージランキング（TOP100）4位～10位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 127204,
+		"high": 11,
+		"low": 30,
+		"display_text": "個人ダメージランキング（TOP100）11位～30位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 127301,
+		"high": 1,
+		"low": 1,
+		"display_text": "ギルドダメージランキング1位",
+		"image_name": "slc_Gold.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 127302,
+		"high": 2,
+		"low": 3,
+		"display_text": "ギルドダメージランキング2位～3位",
+		"image_name": "slc_Silver.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 127303,
+		"high": 4,
+		"low": 10,
+		"display_text": "ギルドダメージランキング4位～10位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 127304,
+		"high": 11,
+		"low": 20,
+		"display_text": "ギルドダメージランキング11位～20位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 127305,
+		"high": 21,
+		"low": 100,
+		"display_text": "ギルドダメージランキング21位～100位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 127306,
+		"high": 101,
+		"low": 250,
+		"display_text": "ギルドダメージランキング101位～250位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 127307,
+		"high": 251,
+		"low": 500,
+		"display_text": "ギルドダメージランキング251位～500位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 127308,
+		"high": 501,
+		"low": 1000,
+		"display_text": "ギルドダメージランキング501位～1000位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 127309,
+		"high": 1001,
+		"low": 2000,
+		"display_text": "ギルドダメージランキング1001位～2000位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 127310,
+		"high": 2001,
+		"low": 3000,
+		"display_text": "ギルドダメージランキング2001位～3000位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 127311,
+		"high": 3001,
+		"low": 5000,
+		"display_text": "ギルドダメージランキング3001位～5000位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 127312,
+		"high": 5001,
+		"low": 50000,
+		"display_text": "ギルドダメージランキング5001位～50000位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 128101,
+		"high": 1,
+		"low": 1,
+		"display_text": "個人ダメージランキング（ギルド内）1位",
+		"image_name": "slc_Gold.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 128102,
+		"high": 2,
+		"low": 3,
+		"display_text": "個人ダメージランキング（ギルド内）2位～3位",
+		"image_name": "slc_Silver.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 128103,
+		"high": 4,
+		"low": 10,
+		"display_text": "個人ダメージランキング（ギルド内）4位～10位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 128104,
+		"high": 11,
+		"low": 30,
+		"display_text": "個人ダメージランキング（ギルド内）11位～30位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 128201,
+		"high": 1,
+		"low": 1,
+		"display_text": "個人ダメージランキング（TOP100）1位",
+		"image_name": "slc_Gold.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 128202,
+		"high": 2,
+		"low": 3,
+		"display_text": "個人ダメージランキング（TOP100）2位～3位",
+		"image_name": "slc_Silver.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 128203,
+		"high": 4,
+		"low": 10,
+		"display_text": "個人ダメージランキング（TOP100）4位～10位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 128204,
+		"high": 11,
+		"low": 30,
+		"display_text": "個人ダメージランキング（TOP100）11位～30位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 128301,
+		"high": 1,
+		"low": 1,
+		"display_text": "ギルドダメージランキング1位",
+		"image_name": "slc_Gold.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 128302,
+		"high": 2,
+		"low": 3,
+		"display_text": "ギルドダメージランキング2位～3位",
+		"image_name": "slc_Silver.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 128303,
+		"high": 4,
+		"low": 10,
+		"display_text": "ギルドダメージランキング4位～10位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 128304,
+		"high": 11,
+		"low": 20,
+		"display_text": "ギルドダメージランキング11位～20位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 128305,
+		"high": 21,
+		"low": 100,
+		"display_text": "ギルドダメージランキング21位～100位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 128306,
+		"high": 101,
+		"low": 250,
+		"display_text": "ギルドダメージランキング101位～250位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 128307,
+		"high": 251,
+		"low": 500,
+		"display_text": "ギルドダメージランキング251位～500位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 128308,
+		"high": 501,
+		"low": 1000,
+		"display_text": "ギルドダメージランキング501位～1000位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 128309,
+		"high": 1001,
+		"low": 2000,
+		"display_text": "ギルドダメージランキング1001位～2000位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 128310,
+		"high": 2001,
+		"low": 3000,
+		"display_text": "ギルドダメージランキング2001位～3000位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 128311,
+		"high": 3001,
+		"low": 5000,
+		"display_text": "ギルドダメージランキング3001位～5000位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 128312,
+		"high": 5001,
+		"low": 50000,
+		"display_text": "ギルドダメージランキング5001位～50000位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 129101,
+		"high": 1,
+		"low": 1,
+		"display_text": "個人ダメージランキング（ギルド内）1位",
+		"image_name": "slc_Gold.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 129102,
+		"high": 2,
+		"low": 3,
+		"display_text": "個人ダメージランキング（ギルド内）2位～3位",
+		"image_name": "slc_Silver.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 129103,
+		"high": 4,
+		"low": 10,
+		"display_text": "個人ダメージランキング（ギルド内）4位～10位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 129104,
+		"high": 11,
+		"low": 30,
+		"display_text": "個人ダメージランキング（ギルド内）11位～30位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 129201,
+		"high": 1,
+		"low": 1,
+		"display_text": "個人ダメージランキング（TOP100）1位",
+		"image_name": "slc_Gold.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 129202,
+		"high": 2,
+		"low": 3,
+		"display_text": "個人ダメージランキング（TOP100）2位～3位",
+		"image_name": "slc_Silver.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 129203,
+		"high": 4,
+		"low": 10,
+		"display_text": "個人ダメージランキング（TOP100）4位～10位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 129204,
+		"high": 11,
+		"low": 30,
+		"display_text": "個人ダメージランキング（TOP100）11位～30位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 129301,
+		"high": 1,
+		"low": 1,
+		"display_text": "ギルドダメージランキング1位",
+		"image_name": "slc_Gold.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 129302,
+		"high": 2,
+		"low": 3,
+		"display_text": "ギルドダメージランキング2位～3位",
+		"image_name": "slc_Silver.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 129303,
+		"high": 4,
+		"low": 10,
+		"display_text": "ギルドダメージランキング4位～10位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 129304,
+		"high": 11,
+		"low": 20,
+		"display_text": "ギルドダメージランキング11位～20位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 129305,
+		"high": 21,
+		"low": 100,
+		"display_text": "ギルドダメージランキング21位～100位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 129306,
+		"high": 101,
+		"low": 250,
+		"display_text": "ギルドダメージランキング101位～250位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 129307,
+		"high": 251,
+		"low": 500,
+		"display_text": "ギルドダメージランキング251位～500位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 129308,
+		"high": 501,
+		"low": 1000,
+		"display_text": "ギルドダメージランキング501位～1000位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 129309,
+		"high": 1001,
+		"low": 2000,
+		"display_text": "ギルドダメージランキング1001位～2000位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 129310,
+		"high": 2001,
+		"low": 3000,
+		"display_text": "ギルドダメージランキング2001位～3000位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 129311,
+		"high": 3001,
+		"low": 5000,
+		"display_text": "ギルドダメージランキング3001位～5000位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 129312,
+		"high": 5001,
+		"low": 50000,
+		"display_text": "ギルドダメージランキング5001位～50000位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 130101,
+		"high": 1,
+		"low": 1,
+		"display_text": "個人ダメージランキング（ギルド内）1位",
+		"image_name": "slc_Gold.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 130102,
+		"high": 2,
+		"low": 3,
+		"display_text": "個人ダメージランキング（ギルド内）2位～3位",
+		"image_name": "slc_Silver.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 130103,
+		"high": 4,
+		"low": 10,
+		"display_text": "個人ダメージランキング（ギルド内）4位～10位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 130104,
+		"high": 11,
+		"low": 30,
+		"display_text": "個人ダメージランキング（ギルド内）11位～30位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 130201,
+		"high": 1,
+		"low": 1,
+		"display_text": "個人ダメージランキング（TOP100）1位",
+		"image_name": "slc_Gold.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 130202,
+		"high": 2,
+		"low": 3,
+		"display_text": "個人ダメージランキング（TOP100）2位～3位",
+		"image_name": "slc_Silver.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 130203,
+		"high": 4,
+		"low": 10,
+		"display_text": "個人ダメージランキング（TOP100）4位～10位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 130204,
+		"high": 11,
+		"low": 30,
+		"display_text": "個人ダメージランキング（TOP100）11位～30位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 130301,
+		"high": 1,
+		"low": 1,
+		"display_text": "ギルドダメージランキング1位",
+		"image_name": "slc_Gold.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 130302,
+		"high": 2,
+		"low": 3,
+		"display_text": "ギルドダメージランキング2位～3位",
+		"image_name": "slc_Silver.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 130303,
+		"high": 4,
+		"low": 10,
+		"display_text": "ギルドダメージランキング4位～10位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 130304,
+		"high": 11,
+		"low": 20,
+		"display_text": "ギルドダメージランキング11位～20位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 130305,
+		"high": 21,
+		"low": 100,
+		"display_text": "ギルドダメージランキング21位～100位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 130306,
+		"high": 101,
+		"low": 250,
+		"display_text": "ギルドダメージランキング101位～250位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 130307,
+		"high": 251,
+		"low": 500,
+		"display_text": "ギルドダメージランキング251位～500位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 130308,
+		"high": 501,
+		"low": 1000,
+		"display_text": "ギルドダメージランキング501位～1000位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 130309,
+		"high": 1001,
+		"low": 2000,
+		"display_text": "ギルドダメージランキング1001位～2000位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 130310,
+		"high": 2001,
+		"low": 3000,
+		"display_text": "ギルドダメージランキング2001位～3000位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 130311,
+		"high": 3001,
+		"low": 5000,
+		"display_text": "ギルドダメージランキング3001位～5000位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 130312,
+		"high": 5001,
+		"low": 50000,
+		"display_text": "ギルドダメージランキング5001位～50000位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 131101,
+		"high": 1,
+		"low": 1,
+		"display_text": "個人ダメージランキング（ギルド内）1位",
+		"image_name": "slc_Gold.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 131102,
+		"high": 2,
+		"low": 3,
+		"display_text": "個人ダメージランキング（ギルド内）2位～3位",
+		"image_name": "slc_Silver.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 131103,
+		"high": 4,
+		"low": 10,
+		"display_text": "個人ダメージランキング（ギルド内）4位～10位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 131104,
+		"high": 11,
+		"low": 30,
+		"display_text": "個人ダメージランキング（ギルド内）11位～30位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 131201,
+		"high": 1,
+		"low": 1,
+		"display_text": "個人ダメージランキング（TOP30）1位",
+		"image_name": "slc_Gold.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 131202,
+		"high": 2,
+		"low": 3,
+		"display_text": "個人ダメージランキング（TOP30）2位～3位",
+		"image_name": "slc_Silver.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 131203,
+		"high": 4,
+		"low": 10,
+		"display_text": "個人ダメージランキング（TOP30）4位～10位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 131204,
+		"high": 11,
+		"low": 30,
+		"display_text": "個人ダメージランキング（TOP30）11位～30位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 131301,
+		"high": 1,
+		"low": 1,
+		"display_text": "ギルドダメージランキング1位",
+		"image_name": "slc_Gold.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 131302,
+		"high": 2,
+		"low": 3,
+		"display_text": "ギルドダメージランキング2位～3位",
+		"image_name": "slc_Silver.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 131303,
+		"high": 4,
+		"low": 10,
+		"display_text": "ギルドダメージランキング4位～10位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 131304,
+		"high": 11,
+		"low": 20,
+		"display_text": "ギルドダメージランキング11位～20位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 131305,
+		"high": 21,
+		"low": 100,
+		"display_text": "ギルドダメージランキング21位～100位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 131306,
+		"high": 101,
+		"low": 250,
+		"display_text": "ギルドダメージランキング101位～250位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 131307,
+		"high": 251,
+		"low": 500,
+		"display_text": "ギルドダメージランキング251位～500位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 131308,
+		"high": 501,
+		"low": 1000,
+		"display_text": "ギルドダメージランキング501位～1000位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 131309,
+		"high": 1001,
+		"low": 2000,
+		"display_text": "ギルドダメージランキング1001位～2000位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 131310,
+		"high": 2001,
+		"low": 3000,
+		"display_text": "ギルドダメージランキング2001位～3000位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 131311,
+		"high": 3001,
+		"low": 5000,
+		"display_text": "ギルドダメージランキング3001位～5000位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 131312,
+		"high": 5001,
+		"low": 50000,
+		"display_text": "ギルドダメージランキング5001位～50000位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 132101,
+		"high": 1,
+		"low": 1,
+		"display_text": "個人ダメージランキング（ギルド内）1位",
+		"image_name": "slc_Gold.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 132102,
+		"high": 2,
+		"low": 3,
+		"display_text": "個人ダメージランキング（ギルド内）2位～3位",
+		"image_name": "slc_Silver.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 132103,
+		"high": 4,
+		"low": 10,
+		"display_text": "個人ダメージランキング（ギルド内）4位～10位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 132104,
+		"high": 11,
+		"low": 30,
+		"display_text": "個人ダメージランキング（ギルド内）11位～30位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 132201,
+		"high": 1,
+		"low": 1,
+		"display_text": "個人ダメージランキング（TOP30）1位",
+		"image_name": "slc_Gold.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 132202,
+		"high": 2,
+		"low": 3,
+		"display_text": "個人ダメージランキング（TOP30）2位～3位",
+		"image_name": "slc_Silver.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 132203,
+		"high": 4,
+		"low": 10,
+		"display_text": "個人ダメージランキング（TOP30）4位～10位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 132204,
+		"high": 11,
+		"low": 30,
+		"display_text": "個人ダメージランキング（TOP30）11位～30位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 132301,
+		"high": 1,
+		"low": 1,
+		"display_text": "ギルドダメージランキング1位",
+		"image_name": "slc_Gold.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 132302,
+		"high": 2,
+		"low": 3,
+		"display_text": "ギルドダメージランキング2位～3位",
+		"image_name": "slc_Silver.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 132303,
+		"high": 4,
+		"low": 10,
+		"display_text": "ギルドダメージランキング4位～10位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 132304,
+		"high": 11,
+		"low": 20,
+		"display_text": "ギルドダメージランキング11位～20位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 132305,
+		"high": 21,
+		"low": 100,
+		"display_text": "ギルドダメージランキング21位～100位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 132306,
+		"high": 101,
+		"low": 250,
+		"display_text": "ギルドダメージランキング101位～250位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 132307,
+		"high": 251,
+		"low": 500,
+		"display_text": "ギルドダメージランキング251位～500位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 132308,
+		"high": 501,
+		"low": 1000,
+		"display_text": "ギルドダメージランキング501位～1000位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 132309,
+		"high": 1001,
+		"low": 2000,
+		"display_text": "ギルドダメージランキング1001位～2000位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 132310,
+		"high": 2001,
+		"low": 3000,
+		"display_text": "ギルドダメージランキング2001位～3000位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 132311,
+		"high": 3001,
+		"low": 5000,
+		"display_text": "ギルドダメージランキング3001位～5000位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 132312,
+		"high": 5001,
+		"low": 50000,
+		"display_text": "ギルドダメージランキング5001位～50000位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 133101,
+		"high": 1,
+		"low": 1,
+		"display_text": "個人ダメージランキング（ギルド内）1位",
+		"image_name": "slc_Gold.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 133102,
+		"high": 2,
+		"low": 3,
+		"display_text": "個人ダメージランキング（ギルド内）2位～3位",
+		"image_name": "slc_Silver.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 133103,
+		"high": 4,
+		"low": 10,
+		"display_text": "個人ダメージランキング（ギルド内）4位～10位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 133104,
+		"high": 11,
+		"low": 30,
+		"display_text": "個人ダメージランキング（ギルド内）11位～30位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 133201,
+		"high": 1,
+		"low": 1,
+		"display_text": "個人ダメージランキング（TOP30）1位",
+		"image_name": "slc_Gold.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 133202,
+		"high": 2,
+		"low": 3,
+		"display_text": "個人ダメージランキング（TOP30）2位～3位",
+		"image_name": "slc_Silver.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 133203,
+		"high": 4,
+		"low": 10,
+		"display_text": "個人ダメージランキング（TOP30）4位～10位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 133204,
+		"high": 11,
+		"low": 30,
+		"display_text": "個人ダメージランキング（TOP30）11位～30位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 133301,
+		"high": 1,
+		"low": 1,
+		"display_text": "ギルドダメージランキング1位",
+		"image_name": "slc_Gold.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 133302,
+		"high": 2,
+		"low": 3,
+		"display_text": "ギルドダメージランキング2位～3位",
+		"image_name": "slc_Silver.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 133303,
+		"high": 4,
+		"low": 10,
+		"display_text": "ギルドダメージランキング4位～10位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 133304,
+		"high": 11,
+		"low": 20,
+		"display_text": "ギルドダメージランキング11位～20位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 133305,
+		"high": 21,
+		"low": 100,
+		"display_text": "ギルドダメージランキング21位～100位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 133306,
+		"high": 101,
+		"low": 250,
+		"display_text": "ギルドダメージランキング101位～250位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 133307,
+		"high": 251,
+		"low": 500,
+		"display_text": "ギルドダメージランキング251位～500位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 133308,
+		"high": 501,
+		"low": 1000,
+		"display_text": "ギルドダメージランキング501位～1000位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 133309,
+		"high": 1001,
+		"low": 2000,
+		"display_text": "ギルドダメージランキング1001位～2000位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 133310,
+		"high": 2001,
+		"low": 3000,
+		"display_text": "ギルドダメージランキング2001位～3000位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 133311,
+		"high": 3001,
+		"low": 5000,
+		"display_text": "ギルドダメージランキング3001位～5000位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 133312,
+		"high": 5001,
+		"low": 50000,
+		"display_text": "ギルドダメージランキング5001位～50000位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 134101,
+		"high": 1,
+		"low": 1,
+		"display_text": "個人ダメージランキング（ギルド内）1位",
+		"image_name": "slc_Gold.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 134102,
+		"high": 2,
+		"low": 3,
+		"display_text": "個人ダメージランキング（ギルド内）2位～3位",
+		"image_name": "slc_Silver.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 134103,
+		"high": 4,
+		"low": 10,
+		"display_text": "個人ダメージランキング（ギルド内）4位～10位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 134104,
+		"high": 11,
+		"low": 30,
+		"display_text": "個人ダメージランキング（ギルド内）11位～30位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 134201,
+		"high": 1,
+		"low": 1,
+		"display_text": "個人ダメージランキング（TOP30）1位",
+		"image_name": "slc_Gold.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 134202,
+		"high": 2,
+		"low": 3,
+		"display_text": "個人ダメージランキング（TOP30）2位～3位",
+		"image_name": "slc_Silver.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 134203,
+		"high": 4,
+		"low": 10,
+		"display_text": "個人ダメージランキング（TOP30）4位～10位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 134204,
+		"high": 11,
+		"low": 30,
+		"display_text": "個人ダメージランキング（TOP30）11位～30位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 134301,
+		"high": 1,
+		"low": 1,
+		"display_text": "ギルドダメージランキング1位",
+		"image_name": "slc_Gold.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 134302,
+		"high": 2,
+		"low": 3,
+		"display_text": "ギルドダメージランキング2位～3位",
+		"image_name": "slc_Silver.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 134303,
+		"high": 4,
+		"low": 10,
+		"display_text": "ギルドダメージランキング4位～10位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 134304,
+		"high": 11,
+		"low": 20,
+		"display_text": "ギルドダメージランキング11位～20位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 134305,
+		"high": 21,
+		"low": 100,
+		"display_text": "ギルドダメージランキング21位～100位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 134306,
+		"high": 101,
+		"low": 250,
+		"display_text": "ギルドダメージランキング101位～250位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 134307,
+		"high": 251,
+		"low": 500,
+		"display_text": "ギルドダメージランキング251位～500位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 134308,
+		"high": 501,
+		"low": 1000,
+		"display_text": "ギルドダメージランキング501位～1000位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 134309,
+		"high": 1001,
+		"low": 2000,
+		"display_text": "ギルドダメージランキング1001位～2000位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 134310,
+		"high": 2001,
+		"low": 3000,
+		"display_text": "ギルドダメージランキング2001位～3000位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 134311,
+		"high": 3001,
+		"low": 5000,
+		"display_text": "ギルドダメージランキング3001位～5000位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 134312,
+		"high": 5001,
+		"low": 50000,
+		"display_text": "ギルドダメージランキング5001位～50000位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 135101,
+		"high": 1,
+		"low": 1,
+		"display_text": "個人ダメージランキング（ギルド内）1位",
+		"image_name": "slc_Gold.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 135102,
+		"high": 2,
+		"low": 3,
+		"display_text": "個人ダメージランキング（ギルド内）2位～3位",
+		"image_name": "slc_Silver.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 135103,
+		"high": 4,
+		"low": 10,
+		"display_text": "個人ダメージランキング（ギルド内）4位～10位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 135104,
+		"high": 11,
+		"low": 30,
+		"display_text": "個人ダメージランキング（ギルド内）11位～30位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 135201,
+		"high": 1,
+		"low": 1,
+		"display_text": "個人ダメージランキング（TOP30）1位",
+		"image_name": "slc_Gold.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 135202,
+		"high": 2,
+		"low": 3,
+		"display_text": "個人ダメージランキング（TOP30）2位～3位",
+		"image_name": "slc_Silver.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 135203,
+		"high": 4,
+		"low": 10,
+		"display_text": "個人ダメージランキング（TOP30）4位～10位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 135204,
+		"high": 11,
+		"low": 30,
+		"display_text": "個人ダメージランキング（TOP30）11位～30位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 135301,
+		"high": 1,
+		"low": 1,
+		"display_text": "ギルドダメージランキング1位",
+		"image_name": "slc_Gold.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 135302,
+		"high": 2,
+		"low": 3,
+		"display_text": "ギルドダメージランキング2位～3位",
+		"image_name": "slc_Silver.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 135303,
+		"high": 4,
+		"low": 10,
+		"display_text": "ギルドダメージランキング4位～10位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 135304,
+		"high": 11,
+		"low": 20,
+		"display_text": "ギルドダメージランキング11位～20位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 135305,
+		"high": 21,
+		"low": 100,
+		"display_text": "ギルドダメージランキング21位～100位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 135306,
+		"high": 101,
+		"low": 250,
+		"display_text": "ギルドダメージランキング101位～250位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 135307,
+		"high": 251,
+		"low": 500,
+		"display_text": "ギルドダメージランキング251位～500位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 135308,
+		"high": 501,
+		"low": 1000,
+		"display_text": "ギルドダメージランキング501位～1000位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 135309,
+		"high": 1001,
+		"low": 2000,
+		"display_text": "ギルドダメージランキング1001位～2000位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 135310,
+		"high": 2001,
+		"low": 3000,
+		"display_text": "ギルドダメージランキング2001位～3000位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 135311,
+		"high": 3001,
+		"low": 5000,
+		"display_text": "ギルドダメージランキング3001位～5000位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 135312,
+		"high": 5001,
+		"low": 50000,
+		"display_text": "ギルドダメージランキング5001位～50000位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 136101,
+		"high": 1,
+		"low": 1,
+		"display_text": "個人ダメージランキング（ギルド内）1位",
+		"image_name": "slc_Gold.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 136102,
+		"high": 2,
+		"low": 3,
+		"display_text": "個人ダメージランキング（ギルド内）2位～3位",
+		"image_name": "slc_Silver.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 136103,
+		"high": 4,
+		"low": 10,
+		"display_text": "個人ダメージランキング（ギルド内）4位～10位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 136104,
+		"high": 11,
+		"low": 30,
+		"display_text": "個人ダメージランキング（ギルド内）11位～30位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 136201,
+		"high": 1,
+		"low": 1,
+		"display_text": "個人ダメージランキング（TOP30）1位",
+		"image_name": "slc_Gold.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 136202,
+		"high": 2,
+		"low": 3,
+		"display_text": "個人ダメージランキング（TOP30）2位～3位",
+		"image_name": "slc_Silver.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 136203,
+		"high": 4,
+		"low": 10,
+		"display_text": "個人ダメージランキング（TOP30）4位～10位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 136204,
+		"high": 11,
+		"low": 30,
+		"display_text": "個人ダメージランキング（TOP30）11位～30位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 136301,
+		"high": 1,
+		"low": 1,
+		"display_text": "ギルドダメージランキング1位",
+		"image_name": "slc_Gold.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 136302,
+		"high": 2,
+		"low": 3,
+		"display_text": "ギルドダメージランキング2位～3位",
+		"image_name": "slc_Silver.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 136303,
+		"high": 4,
+		"low": 10,
+		"display_text": "ギルドダメージランキング4位～10位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 136304,
+		"high": 11,
+		"low": 20,
+		"display_text": "ギルドダメージランキング11位～20位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 136305,
+		"high": 21,
+		"low": 100,
+		"display_text": "ギルドダメージランキング21位～100位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 136306,
+		"high": 101,
+		"low": 250,
+		"display_text": "ギルドダメージランキング101位～250位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 136307,
+		"high": 251,
+		"low": 500,
+		"display_text": "ギルドダメージランキング251位～500位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 136308,
+		"high": 501,
+		"low": 1000,
+		"display_text": "ギルドダメージランキング501位～1000位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 136309,
+		"high": 1001,
+		"low": 2000,
+		"display_text": "ギルドダメージランキング1001位～2000位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 136310,
+		"high": 2001,
+		"low": 3000,
+		"display_text": "ギルドダメージランキング2001位～3000位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 136311,
+		"high": 3001,
+		"low": 5000,
+		"display_text": "ギルドダメージランキング3001位～5000位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 136312,
+		"high": 5001,
+		"low": 50000,
+		"display_text": "ギルドダメージランキング5001位～50000位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 137101,
+		"high": 1,
+		"low": 1,
+		"display_text": "個人ダメージランキング（ギルド内）1位",
+		"image_name": "slc_Gold.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 137102,
+		"high": 2,
+		"low": 3,
+		"display_text": "個人ダメージランキング（ギルド内）2位～3位",
+		"image_name": "slc_Silver.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 137103,
+		"high": 4,
+		"low": 10,
+		"display_text": "個人ダメージランキング（ギルド内）4位～10位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 137104,
+		"high": 11,
+		"low": 30,
+		"display_text": "個人ダメージランキング（ギルド内）11位～30位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 137201,
+		"high": 1,
+		"low": 1,
+		"display_text": "個人ダメージランキング（TOP30）1位",
+		"image_name": "slc_Gold.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 137202,
+		"high": 2,
+		"low": 3,
+		"display_text": "個人ダメージランキング（TOP30）2位～3位",
+		"image_name": "slc_Silver.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 137203,
+		"high": 4,
+		"low": 10,
+		"display_text": "個人ダメージランキング（TOP30）4位～10位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 137204,
+		"high": 11,
+		"low": 30,
+		"display_text": "個人ダメージランキング（TOP30）11位～30位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 137301,
+		"high": 1,
+		"low": 1,
+		"display_text": "ギルドダメージランキング1位",
+		"image_name": "slc_Gold.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 137302,
+		"high": 2,
+		"low": 3,
+		"display_text": "ギルドダメージランキング2位～3位",
+		"image_name": "slc_Silver.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 137303,
+		"high": 4,
+		"low": 10,
+		"display_text": "ギルドダメージランキング4位～10位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 137304,
+		"high": 11,
+		"low": 20,
+		"display_text": "ギルドダメージランキング11位～20位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 137305,
+		"high": 21,
+		"low": 100,
+		"display_text": "ギルドダメージランキング21位～100位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 137306,
+		"high": 101,
+		"low": 250,
+		"display_text": "ギルドダメージランキング101位～250位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 137307,
+		"high": 251,
+		"low": 500,
+		"display_text": "ギルドダメージランキング251位～500位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 137308,
+		"high": 501,
+		"low": 1000,
+		"display_text": "ギルドダメージランキング501位～1000位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 137309,
+		"high": 1001,
+		"low": 2000,
+		"display_text": "ギルドダメージランキング1001位～2000位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 137310,
+		"high": 2001,
+		"low": 3000,
+		"display_text": "ギルドダメージランキング2001位～3000位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 137311,
+		"high": 3001,
+		"low": 5000,
+		"display_text": "ギルドダメージランキング3001位～5000位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 137312,
+		"high": 5001,
+		"low": 50000,
+		"display_text": "ギルドダメージランキング5001位～50000位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 138101,
+		"high": 1,
+		"low": 1,
+		"display_text": "個人ダメージランキング（ギルド内）1位",
+		"image_name": "slc_Gold.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 138102,
+		"high": 2,
+		"low": 3,
+		"display_text": "個人ダメージランキング（ギルド内）2位～3位",
+		"image_name": "slc_Silver.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 138103,
+		"high": 4,
+		"low": 10,
+		"display_text": "個人ダメージランキング（ギルド内）4位～10位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 138104,
+		"high": 11,
+		"low": 30,
+		"display_text": "個人ダメージランキング（ギルド内）11位～30位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 138201,
+		"high": 1,
+		"low": 1,
+		"display_text": "個人ダメージランキング（TOP30）1位",
+		"image_name": "slc_Gold.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 138202,
+		"high": 2,
+		"low": 3,
+		"display_text": "個人ダメージランキング（TOP30）2位～3位",
+		"image_name": "slc_Silver.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 138203,
+		"high": 4,
+		"low": 10,
+		"display_text": "個人ダメージランキング（TOP30）4位～10位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 138204,
+		"high": 11,
+		"low": 30,
+		"display_text": "個人ダメージランキング（TOP30）11位～30位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 138301,
+		"high": 1,
+		"low": 1,
+		"display_text": "ギルドダメージランキング1位",
+		"image_name": "slc_Gold.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 138302,
+		"high": 2,
+		"low": 3,
+		"display_text": "ギルドダメージランキング2位～3位",
+		"image_name": "slc_Silver.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 138303,
+		"high": 4,
+		"low": 10,
+		"display_text": "ギルドダメージランキング4位～10位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 138304,
+		"high": 11,
+		"low": 20,
+		"display_text": "ギルドダメージランキング11位～20位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 138305,
+		"high": 21,
+		"low": 100,
+		"display_text": "ギルドダメージランキング21位～100位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 138306,
+		"high": 101,
+		"low": 250,
+		"display_text": "ギルドダメージランキング101位～250位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 138307,
+		"high": 251,
+		"low": 500,
+		"display_text": "ギルドダメージランキング251位～500位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 138308,
+		"high": 501,
+		"low": 1000,
+		"display_text": "ギルドダメージランキング501位～1000位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 138309,
+		"high": 1001,
+		"low": 2000,
+		"display_text": "ギルドダメージランキング1001位～2000位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 138310,
+		"high": 2001,
+		"low": 3000,
+		"display_text": "ギルドダメージランキング2001位～3000位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 138311,
+		"high": 3001,
+		"low": 5000,
+		"display_text": "ギルドダメージランキング3001位～5000位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	},
+	{
+		"ID": 138312,
+		"high": 5001,
+		"low": 50000,
+		"display_text": "ギルドダメージランキング5001位～50000位",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab"
+	}
+]

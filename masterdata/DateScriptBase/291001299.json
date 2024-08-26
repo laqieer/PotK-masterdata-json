@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 291001299,
+		"script": ";;//正解\n# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body 2100121\n# pos 2100121 3\n# mask 2100121 off\n# chara 2100121\n# fadein \"black\" 0.5\n# textflame 1 1\n# face 2100121 \"shy\"\n# se \"SE_0732\"\n# voice 210012 \"masamune_k_0021\"\n@マサムネ\nさすがは主君だな\nこの程度は造作も無いか\n\n@マサムネ\nかたじけない。\n主君が知っていてくれているとわかり\n己への憤怒もいくらか和らいだ\n\n# face 2100121 \"angry\"\n@マサムネ\nだが、ここで立ち止まってはおれぬ\n主君にはもっと拙者のことを伝え、\n受け入れてもらわねば…\n\n# voice 210012 \"masamune_k_0036\"\n@マサムネ\n主君よ、これからもよろしく頼む\n\n;;モノローグ\n# textflame 0 0\n@\nマサムネが手を差し出してくる\n固い握手を交わすマスター\n\n@\n触れ合った手からは\nマサムネの熱い想いが\n伝わってくるのだった…\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 277002063,
+		"script": ";;■□■ファンキル_LR海上編第2回（7月中旬）シナリオ_20190624■□■\n;;【タイトル：パラディーゾ幻想襲来編Ⅱ】\n;;【OP】-【EP1】そそのかす悪魔のささやき\n;;-----------------------------------------\n# script \"lisp\"\n# background \"sea_palmbeach_day\"\n# bgmfile \"bgm348\" \"BgmSeaEventBattle003\" 0\n;;-----------------------------------------\n;;アルマス\n# body 2103811\n# pos 2103811 4\n# scale 2103811 0.8 0\n# layer 2103811 1\n# alpha 2103811 1 0\n;;ヘレナ\n# body 2302811\n# pos 2302811 2\n# scale 2302811 0.8 0\n# layer 2302811 3\n# alpha 2302811 1 0\n;;nir\n# body 162\n# pos 162 3\n# scale 162 0.6 0\n# layer 162 5\n# alpha 162 1 0\n# mask 162 off\n;;-----------------------------------------\n# voice 1038 \"almace_battle_0002\"\n# face 2103811 \"angry\"\n# textflame 1 1\n@アルマス\nせいっーー!!\n\n# se \"SE_4830\"\n# fadein \"white\" 0.5\n# waitandnext 0.5\n\n# voice 3028 \"herena_a_0004\"\n@ヘレナ\nくふっ…\n\n@ヘレナ\nああ、負けてしまったね…\n\n@ニール\nアタチ達に勝つなんて、\nアルマスもやるじゃない\n\n@アルマス\nっ…はぁ…はぁ…\nこれくらい…っ…\nどうってことないわっ…!!\n\n# textflame 0 0\n@\n息も絶え絶えにそんなことを言う\nアルマスが強がっているのは\n明白だった"
+	}
+]

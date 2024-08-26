@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 92017498,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# se \"SE_0733\"\n# face %(unit_a)s \"sad\"\n# voice 2017 \"yagurushi_event_0016\"\n@ヤグルシ\nわからないかぁ…\n\n# textflame 1 1\n@ヤグルシ\nキミなら\nもっと答えてくれるって\n信じてたんだけど…\n\n# textflame 1 1\n@ヤグルシ\nうーん…でも、\nいきなりだったし、\nしかたないよね？\n\n# textflame 1 1\n@ヤグルシ\nでも次はもっと\n頑張ってね？\n\n# textflame 1 1\n@ヤグルシ\n正解してくれないと、\nヤグ悲しいから！\n\n# textflame 0 0\n@\nこちらを見るヤグルシが\nしょんぼりとしてしまった\n\n# textflame 0 0\n@\n次のためにもっと\nヤグルシについて\n調べておこう\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

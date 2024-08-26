@@ -1,0 +1,284 @@
+[
+	{
+		"ID": 4201,
+		"unitID": 2101421,
+		"questionID": 29101401,
+		"script": "# face %(unit_a)s \"usual\"\n# textflame 1 1\n@ティルフィング\nマスター\n少しいいですか？\n\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n@ティルフィング\nふふっ、そんなにおびえなくても\n大丈夫ですよ\n\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n@ティルフィング\n少し気になったことがあるんです\nマスターが私のことを\nどれだけ知っているのか\n\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n@ティルフィング\nせっかくですし、\nクイズにしますから\nどうか答えてみてください\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私の武具種は分かりますか？\n\n;;剣\n# se \"SE_0734\"\n# select \"剣\" \"select_label_1\" \"銃\" \"select_label_2\" \"槍\" \"select_label_3\"\n私の武具種は分かりますか？\n"
+	},
+	{
+		"ID": 4202,
+		"unitID": 2101421,
+		"questionID": 29101402,
+		"script": "# face %(unit_a)s \"usual\"\n# textflame 1 1\n@ティルフィング\nマスター\n少しいいですか？\n\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n@ティルフィング\nふふっ、そんなにおびえなくても\n大丈夫ですよ\n\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n@ティルフィング\n少し気になったことがあるんです\nマスターが私のことを\nどれだけ知っているのか\n\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n@ティルフィング\nせっかくですし、\nクイズにしますから\nどうか答えてみてください\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私はあるものの影響を受けています。\nわかりますか？\n\n;;黒のバイブス\n# se \"SE_0734\"\n# select \"白のバイブル\" \"select_label_1\" \"黒のバイブス\" \"select_label_2\" \"青の洞窟\" \"select_label_3\"\n私はあるものの影響を受けています。\nわかりますか？\n"
+	},
+	{
+		"ID": 4203,
+		"unitID": 2101421,
+		"questionID": 29101403,
+		"script": "# face %(unit_a)s \"usual\"\n# textflame 1 1\n@ティルフィング\nマスター\n少しいいですか？\n\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n@ティルフィング\nふふっ、そんなにおびえなくても\n大丈夫ですよ\n\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n@ティルフィング\n少し気になったことがあるんです\nマスターが私のことを\nどれだけ知っているのか\n\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n@ティルフィング\nせっかくですし、\nクイズにしますから\nどうか答えてみてください\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私のキラーズ『ティルフィング』は\nどんな伝承に登場しますか？\n\n;;北欧神話群\n# se \"SE_0734\"\n# select \"カナーン神話群\" \"select_label_1\" \"欧米神話群\" \"select_label_2\" \"北欧神話群\" \"select_label_3\"\n私のキラーズ『ティルフィング』は\nどんな伝承に登場しますか？\n"
+	},
+	{
+		"ID": 4204,
+		"unitID": 2101421,
+		"questionID": 29101404,
+		"script": "# face %(unit_a)s \"usual\"\n# textflame 1 1\n@ティルフィング\nマスター\n少しいいですか？\n\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n@ティルフィング\nふふっ、そんなにおびえなくても\n大丈夫ですよ\n\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n@ティルフィング\n少し気になったことがあるんです\nマスターが私のことを\nどれだけ知っているのか\n\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n@ティルフィング\nせっかくですし、\nクイズにしますから\nどうか答えてみてください\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私は七つの大罪の一つを抱えています。\n何だかわかりますか？\n\n;;強欲\n# se \"SE_0734\"\n# select \"強欲\" \"select_label_1\" \"色欲\" \"select_label_2\" \"憤怒\" \"select_label_3\"\n私は七つの大罪の一つを抱えています。\n何だかわかりますか？\n"
+	},
+	{
+		"ID": 4205,
+		"unitID": 2101421,
+		"questionID": 29101405,
+		"script": "# face %(unit_a)s \"usual\"\n# textflame 1 1\n@ティルフィング\nマスター\n少しいいですか？\n\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n@ティルフィング\nふふっ、そんなにおびえなくても\n大丈夫ですよ\n\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n@ティルフィング\n少し気になったことがあるんです\nマスターが私のことを\nどれだけ知っているのか\n\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n@ティルフィング\nせっかくですし、\nクイズにしますから\nどうか答えてみてください\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私のキラーズ「ティルフィング」は\n勝利と引き換えに\n抜いた者の何を奪う？\n\n;;命\n# se \"SE_0734\"\n# select \"金銭\" \"select_label_1\" \"命\" \"select_label_2\" \"自由\" \"select_label_3\"\n私のキラーズ「ティルフィング」は\n勝利と引き換えに\n抜いた者の何を奪う？\n"
+	},
+	{
+		"ID": 4206,
+		"unitID": 2101421,
+		"questionID": 29101406,
+		"script": "# face %(unit_a)s \"usual\"\n# textflame 1 1\n@ティルフィング\nマスター\n少しいいですか？\n\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n@ティルフィング\nふふっ、そんなにおびえなくても\n大丈夫ですよ\n\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n@ティルフィング\n少し気になったことがあるんです\nマスターが私のことを\nどれだけ知っているのか\n\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n@ティルフィング\nせっかくですし、\nクイズにしますから\nどうか答えてみてください\n\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n@%(unitName:unit_a)s\n私のキラーズ「ティルフィング」は\n何と呼ばれていた？\n\n;;魔剣\n# se \"SE_0734\"\n# select \"魔槍\" \"select_label_1\" \"魔弾\" \"select_label_2\" \"魔剣\" \"select_label_3\"\n私のキラーズ「ティルフィング」は\n何と呼ばれていた？\n"
+	},
+	{
+		"ID": 4207,
+		"unitID": 2101421,
+		"questionID": 29101407,
+		"script": "# face %(unit_a)s \"usual\"\n# textflame 1 1\n@ティルフィング\nマスター\n少しいいですか？\n\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n@ティルフィング\nふふっ、そんなにおびえなくても\n大丈夫ですよ\n\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n@ティルフィング\n少し気になったことがあるんです\nマスターが私のことを\nどれだけ知っているのか\n\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n@ティルフィング\nせっかくですし、\nクイズにしますから\nどうか答えてみてください\n\n# textflame 1 1\n@%(unitName:unit_a)s\nまずは破壊をし、その上で…？\n\n;;創造をしていく\n# se \"SE_0734\"\n# select \"創造をしていく\" \"select_label_1\" \"想像をしていく\" \"select_label_2\" \"粗相をしていく\" \"select_label_3\"\nまずは破壊をし、その上で…？\n"
+	},
+	{
+		"ID": 4208,
+		"unitID": 2101421,
+		"questionID": 29101408,
+		"script": "# face %(unit_a)s \"usual\"\n# textflame 1 1\n@ティルフィング\nマスター\n少しいいですか？\n\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n@ティルフィング\nふふっ、そんなにおびえなくても\n大丈夫ですよ\n\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n@ティルフィング\n少し気になったことがあるんです\nマスターが私のことを\nどれだけ知っているのか\n\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n@ティルフィング\nせっかくですし、\nクイズにしますから\nどうか答えてみてください\n\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n@%(unitName:unit_a)s\n私はアナタから…\n\n;;全てを奪う\n# se \"SE_0734\"\n# select \"壺を盗む\" \"select_label_1\" \"全てを奪う\" \"select_label_2\" \"生まれた\" \"select_label_3\"\n私はアナタから…\n"
+	},
+	{
+		"ID": 4209,
+		"unitID": 2101421,
+		"questionID": 29101409,
+		"script": "# face %(unit_a)s \"usual\"\n# textflame 1 1\n@ティルフィング\nマスター\n少しいいですか？\n\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n@ティルフィング\nふふっ、そんなにおびえなくても\n大丈夫ですよ\n\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n@ティルフィング\n少し気になったことがあるんです\nマスターが私のことを\nどれだけ知っているのか\n\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n@ティルフィング\nせっかくですし、\nクイズにしますから\nどうか答えてみてください\n\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n@%(unitName:unit_a)s\n私がかつて仕えていたのは…？\n\n;;黒奏官\n# se \"SE_0734\"\n# select \"官房長官\" \"select_label_1\" \"白奏官\" \"select_label_2\" \"黒奏官\" \"select_label_3\"\n私がかつて仕えていたのは…？\n"
+	},
+	{
+		"ID": 4210,
+		"unitID": 2101421,
+		"questionID": 29101410,
+		"script": "# face %(unit_a)s \"usual\"\n# textflame 1 1\n@ティルフィング\nマスター\n少しいいですか？\n\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n@ティルフィング\nふふっ、そんなにおびえなくても\n大丈夫ですよ\n\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n@ティルフィング\n少し気になったことがあるんです\nマスターが私のことを\nどれだけ知っているのか\n\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n@ティルフィング\nせっかくですし、\nクイズにしますから\nどうか答えてみてください\n\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n@%(unitName:unit_a)s\n私達はブラック…？\n\n;;キラーズと呼ばれた\n# se \"SE_0734\"\n# select \"キラーズと呼ばれた\" \"select_label_1\" \"企業と呼ばれた\" \"select_label_2\" \"バスと呼ばれた\" \"select_label_3\"\n私達はブラック…？\n"
+	},
+	{
+		"ID": 4211,
+		"unitID": 2101421,
+		"questionID": 29101411,
+		"script": "# face %(unit_a)s \"usual\"\n# textflame 1 1\n@ティルフィング\nあの…マスター\n少しいいですか？\n\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n@ティルフィング\nマスターは私のこと、\nしっかりと理解してくれて\nいますか？\n\n# textflame 1 1\n@ティルフィング\n“強欲”を司る私を\nこうして連れ出す\n\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n@ティルフィング\nその信頼は嬉しいのですが…\n少し気になってしまうんです\n\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n@ティルフィング\nだから、どれだけ私を知っているか、\nクイズを出したいと思います\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私の属性はご存知ですか？\n\n;;光\n# se \"SE_0734\"\n# select \"光\" \"select_label_1\" \"火\" \"select_label_2\" \"氷\" \"select_label_3\"\n私の属性はご存知ですか？\n"
+	},
+	{
+		"ID": 4212,
+		"unitID": 2101421,
+		"questionID": 29101412,
+		"script": "# face %(unit_a)s \"usual\"\n# textflame 1 1\n@ティルフィング\nあの…マスター\n少しいいですか？\n\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n@ティルフィング\nマスターは私のこと、\nしっかりと理解してくれて\nいますか？\n\n# textflame 1 1\n@ティルフィング\n“強欲”を司る私を\nこうして連れ出す\n\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n@ティルフィング\nその信頼は嬉しいのですが…\n少し気になってしまうんです\n\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n@ティルフィング\nだから、どれだけ私を知っているか、\nクイズを出したいと思います\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私の身長は…？\n\n;;165cm\n# se \"SE_0734\"\n# select \"160cm\" \"select_label_1\" \"165cm\" \"select_label_2\" \"170cm\" \"select_label_3\"\n私の身長は…？\n"
+	},
+	{
+		"ID": 4213,
+		"unitID": 2101421,
+		"questionID": 29101413,
+		"script": "# face %(unit_a)s \"usual\"\n# textflame 1 1\n@ティルフィング\nあの…マスター\n少しいいですか？\n\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n@ティルフィング\nマスターは私のこと、\nしっかりと理解してくれて\nいますか？\n\n# textflame 1 1\n@ティルフィング\n“強欲”を司る私を\nこうして連れ出す\n\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n@ティルフィング\nその信頼は嬉しいのですが…\n少し気になってしまうんです\n\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n@ティルフィング\nだから、どれだけ私を知っているか、\nクイズを出したいと思います\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私の誕生日は…？\n\n;;3月1日\n# se \"SE_0734\"\n# select \"5月1日\" \"select_label_1\" \"4月1日\" \"select_label_2\" \"3月1日\" \"select_label_3\"\n私の誕生日は…？\n"
+	},
+	{
+		"ID": 4214,
+		"unitID": 2101421,
+		"questionID": 29101414,
+		"script": "# face %(unit_a)s \"usual\"\n# textflame 1 1\n@ティルフィング\nあの…マスター\n少しいいですか？\n\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n@ティルフィング\nマスターは私のこと、\nしっかりと理解してくれて\nいますか？\n\n# textflame 1 1\n@ティルフィング\n“強欲”を司る私を\nこうして連れ出す\n\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n@ティルフィング\nその信頼は嬉しいのですが…\n少し気になってしまうんです\n\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n@ティルフィング\nだから、どれだけ私を知っているか、\nクイズを出したいと思います\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私の星座は…？\n\n;;うお座\n# se \"SE_0734\"\n# select \"うお座\" \"select_label_1\" \"いて座\" \"select_label_2\" \"おひつじ座\" \"select_label_3\"\n私の星座は…？\n"
+	},
+	{
+		"ID": 4215,
+		"unitID": 2101421,
+		"questionID": 29101416,
+		"script": "# face %(unit_a)s \"usual\"\n# textflame 1 1\n@ティルフィング\nあの…マスター\n少しいいですか？\n\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n@ティルフィング\nマスターは私のこと、\nしっかりと理解してくれて\nいますか？\n\n# textflame 1 1\n@ティルフィング\n“強欲”を司る私を\nこうして連れ出す\n\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n@ティルフィング\nその信頼は嬉しいのですが…\n少し気になってしまうんです\n\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n@ティルフィング\nだから、どれだけ私を知っているか、\nクイズを出したいと思います\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私の性格は、よく\nなんと言われるでしょう…？\n\n;;冷徹といわれます\n# se \"SE_0734\"\n# select \"明るいと言われる\" \"select_label_1\" \"情熱的と言われる\" \"select_label_2\" \"冷徹と言われる\" \"select_label_3\"\n私の性格は、よく\nなんと言われるでしょう…？\n"
+	},
+	{
+		"ID": 4216,
+		"unitID": 2101421,
+		"questionID": 29101417,
+		"script": "# face %(unit_a)s \"usual\"\n# textflame 1 1\n@ティルフィング\nあの…マスター\n少しいいですか？\n\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n@ティルフィング\nマスターは私のこと、\nしっかりと理解してくれて\nいますか？\n\n# textflame 1 1\n@ティルフィング\n“強欲”を司る私を\nこうして連れ出す\n\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n@ティルフィング\nその信頼は嬉しいのですが…\n少し気になってしまうんです\n\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n@ティルフィング\nだから、どれだけ私を知っているか、\nクイズを出したいと思います\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私の血液型はなんでしょう？\n\n;;Ａ型\n# se \"SE_0734\"\n# select \"Ａ型\" \"select_label_1\" \"ＡＢ型\" \"select_label_2\" \"Ｂ型\" \"select_label_3\"\n私の血液型はなんでしょう？\n"
+	},
+	{
+		"ID": 4217,
+		"unitID": 2101421,
+		"questionID": 29101418,
+		"script": "# face %(unit_a)s \"usual\"\n# textflame 1 1\n@ティルフィング\nあの…マスター\n少しいいですか？\n\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n@ティルフィング\nマスターは私のこと、\nしっかりと理解してくれて\nいますか？\n\n# textflame 1 1\n@ティルフィング\n“強欲”を司る私を\nこうして連れ出す\n\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n@ティルフィング\nその信頼は嬉しいのですが…\n少し気になってしまうんです\n\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n@ティルフィング\nだから、どれだけ私を知っているか、\nクイズを出したいと思います\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私の出身地はどこでしょう？\n\n;;ガルダリケ\n# se \"SE_0734\"\n# select \"イタリア\" \"select_label_1\" \"ガルダリケ\" \"select_label_2\" \"ローマ\" \"select_label_3\"\n私の出身地はどこでしょう？\n"
+	},
+	{
+		"ID": 4218,
+		"unitID": 2101421,
+		"questionID": 29101420,
+		"script": "# face %(unit_a)s \"usual\"\n# textflame 1 1\n@ティルフィング\nあの…マスター\n少しいいですか？\n\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n@ティルフィング\nマスターは私のこと、\nしっかりと理解してくれて\nいますか？\n\n# textflame 1 1\n@ティルフィング\n“強欲”を司る私を\nこうして連れ出す\n\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n@ティルフィング\nその信頼は嬉しいのですが…\n少し気になってしまうんです\n\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n@ティルフィング\nだから、どれだけ私を知っているか、\nクイズを出したいと思います\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私のコードネームは\n知っていますか…？\n\n;;グリード\n# se \"SE_0734\"\n# select \"グリード\" \"select_label_1\" \"ジェーク\" \"select_label_2\" \"フリード\" \"select_label_3\"\n私のコードネームは\n知っていますか…？\n"
+	},
+	{
+		"ID": 4219,
+		"unitID": 2101421,
+		"questionID": 29101421,
+		"script": "# face %(unit_a)s \"sad\"\n# textflame 1 1\n@ティルフィング\nあの…マスター\n\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n@ティルフィング\n突然ですが、\nクイズを出してもいいですか？\n\n# face %(unit_a)s \"normal\"\n# textflame 1 1\n@ティルフィング\nただ無言で帰るのも\n退屈ではないですか\n\n@ティルフィング\n質問内容は私のことです\nマスターなら、\n簡単に答えられますよね？\n\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n@ティルフィング\nというわけで、\nクイズです\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私の覚えるスキルはなんでしょう？\n\n;;粛清の黒\n# se \"SE_0734\"\n# select \"粛清の黒\" \"select_label_1\" \"粛清の白\" \"select_label_2\" \"粛清の赤\" \"select_label_3\"\n私の覚えるスキルはなんでしょう？\n"
+	},
+	{
+		"ID": 4220,
+		"unitID": 2101421,
+		"questionID": 29101422,
+		"script": "# face %(unit_a)s \"sad\"\n# textflame 1 1\n@ティルフィング\nあの…マスター\n\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n@ティルフィング\n突然ですが、\nクイズを出してもいいですか？\n\n# face %(unit_a)s \"normal\"\n# textflame 1 1\n@ティルフィング\nただ無言で帰るのも\n退屈ではないですか\n\n@ティルフィング\n質問内容は私のことです\nマスターなら、\n簡単に答えられますよね？\n\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n@ティルフィング\nというわけで、\nクイズです\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私の解放スキルはご存知ですか？\n\n;;暗澹たる衝動\n# se \"SE_0734\"\n# select \"暗澹たる症状\" \"select_label_1\" \"暗澹たる衝動\" \"select_label_2\" \"暗澹たる消臭\" \"select_label_3\"\n私の解放スキルはご存知ですか？\n"
+	},
+	{
+		"ID": 4221,
+		"unitID": 2101421,
+		"questionID": 29101423,
+		"script": "# face %(unit_a)s \"sad\"\n# textflame 1 1\n@ティルフィング\nあの…マスター\n\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n@ティルフィング\n突然ですが、\nクイズを出してもいいですか？\n\n# face %(unit_a)s \"normal\"\n# textflame 1 1\n@ティルフィング\nただ無言で帰るのも\n退屈ではないですか\n\n@ティルフィング\n質問内容は私のことです\nマスターなら、\n簡単に答えられますよね？\n\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n@ティルフィング\nというわけで、\nクイズです\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私の☆６のリーダースキルは\nなんでしょう？\n\n;;黒光の煽輝\n# se \"SE_0734\"\n# select \"黒光の頭頂\" \"select_label_1\" \"黒光の閃光\" \"select_label_2\" \"黒光の煽輝\" \"select_label_3\"\n私の☆６のリーダースキルは\nなんでしょう？\n"
+	},
+	{
+		"ID": 4222,
+		"unitID": 2101421,
+		"questionID": 29101424,
+		"script": "# face %(unit_a)s \"sad\"\n# textflame 1 1\n@ティルフィング\nあの…マスター\n\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n@ティルフィング\n突然ですが、\nクイズを出してもいいですか？\n\n# face %(unit_a)s \"normal\"\n# textflame 1 1\n@ティルフィング\nただ無言で帰るのも\n退屈ではないですか\n\n@ティルフィング\n質問内容は私のことです\nマスターなら、\n簡単に答えられますよね？\n\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n@ティルフィング\nというわけで、\nクイズです\n\n# textflame 1 1\n@%(unitName:unit_a)s\nブラックキラーズは\n全部で何人かわかりますか？\n\n;;7人\n# se \"SE_0734\"\n# select \"7人\" \"select_label_1\" \"8人\" \"select_label_2\" \"12人\" \"select_label_3\"\nブラックキラーズは\n全部で何人かわかりますか？\n"
+	},
+	{
+		"ID": 4223,
+		"unitID": 2101421,
+		"questionID": 29101425,
+		"script": "# face %(unit_a)s \"sad\"\n# textflame 1 1\n@ティルフィング\nあの…マスター\n\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n@ティルフィング\n突然ですが、\nクイズを出してもいいですか？\n\n# face %(unit_a)s \"normal\"\n# textflame 1 1\n@ティルフィング\nただ無言で帰るのも\n退屈ではないですか\n\n@ティルフィング\n質問内容は私のことです\nマスターなら、\n簡単に答えられますよね？\n\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n@ティルフィング\nというわけで、\nクイズです\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私が覚える付与スキルは\nなんでしょう？\n\n;;深遠の黒印\n# se \"SE_0734\"\n# select \"深遠の刻印\" \"select_label_1\" \"深遠の黒印\" \"select_label_2\" \"深遠の公務員\" \"select_label_3\"\n私が覚える付与スキルは\nなんでしょう？\n"
+	},
+	{
+		"ID": 4224,
+		"unitID": 2101421,
+		"questionID": 29101426,
+		"script": "# face %(unit_a)s \"sad\"\n# textflame 1 1\n@ティルフィング\nあの…マスター\n\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n@ティルフィング\n突然ですが、\nクイズを出してもいいですか？\n\n# face %(unit_a)s \"normal\"\n# textflame 1 1\n@ティルフィング\nただ無言で帰るのも\n退屈ではないですか\n\n@ティルフィング\n質問内容は私のことです\nマスターなら、\n簡単に答えられますよね？\n\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n@ティルフィング\nというわけで、\nクイズです\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私が覚える付与スキルは\nなんでしょう？\n\n;;強欲な戦姫\n# se \"SE_0734\"\n# select \"強欲な歌姫\" \"select_label_1\" \"強欲な濃姫\" \"select_label_2\" \"強欲な戦姫\" \"select_label_3\"\n私が覚える付与スキルは\nなんでしょう？\n"
+	},
+	{
+		"ID": 4225,
+		"unitID": 2101421,
+		"questionID": 29101427,
+		"script": "# face %(unit_a)s \"sad\"\n# textflame 1 1\n@ティルフィング\nあの…マスター\n\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n@ティルフィング\n突然ですが、\nクイズを出してもいいですか？\n\n# face %(unit_a)s \"normal\"\n# textflame 1 1\n@ティルフィング\nただ無言で帰るのも\n退屈ではないですか\n\n@ティルフィング\n質問内容は私のことです\nマスターなら、\n簡単に答えられますよね？\n\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n@ティルフィング\nというわけで、\nクイズです\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私が取得したスキルは\nなんでしょう？\n\n;;黒式・幻影朧\n# se \"SE_0734\"\n# select \"黒式・幻影朧\" \"select_label_1\" \"黒式・幻影弾\" \"select_label_2\" \"黒式・幻影王\" \"select_label_3\"\n私が取得したスキルは\nなんでしょう？\n"
+	},
+	{
+		"ID": 4226,
+		"unitID": 2101421,
+		"questionID": 29101428,
+		"script": "# face %(unit_a)s \"sad\"\n# textflame 1 1\n@ティルフィング\nあの…マスター\n\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n@ティルフィング\n突然ですが、\nクイズを出してもいいですか？\n\n# face %(unit_a)s \"normal\"\n# textflame 1 1\n@ティルフィング\nただ無言で帰るのも\n退屈ではないですか\n\n@ティルフィング\n質問内容は私のことです\nマスターなら、\n簡単に答えられますよね？\n\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n@ティルフィング\nというわけで、\nクイズです\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私が取得したスキルは\nなんでしょう？\n\n;;黒式・活望ノ光\n# se \"SE_0734\"\n# select \"黒式・活望ノ夜明\" \"select_label_1\" \"黒式・活望ノ光\" \"select_label_2\" \"黒式・活望ノ歌\" \"select_label_3\"\n私が取得したスキルは\nなんでしょう？\n"
+	},
+	{
+		"ID": 4227,
+		"unitID": 2101421,
+		"questionID": 29101429,
+		"script": "# face %(unit_a)s \"sad\"\n# textflame 1 1\n@ティルフィング\nあの…マスター\n\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n@ティルフィング\n突然ですが、\nクイズを出してもいいですか？\n\n# face %(unit_a)s \"normal\"\n# textflame 1 1\n@ティルフィング\nただ無言で帰るのも\n退屈ではないですか\n\n@ティルフィング\n質問内容は私のことです\nマスターなら、\n簡単に答えられますよね？\n\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n@ティルフィング\nというわけで、\nクイズです\n\n# textflame 1 1\n@%(unitName:unit_a)s\n形あるもの、隆盛したものは\nいつか…？\n\n;;滅びる\n# se \"SE_0734\"\n# select \"輝く\" \"select_label_1\" \"羽ばたく\" \"select_label_2\" \"滅びる\" \"select_label_3\"\n形あるもの、隆盛したものは\nいつか…？\n"
+	},
+	{
+		"ID": 4228,
+		"unitID": 2101421,
+		"questionID": 29101430,
+		"script": "# face %(unit_a)s \"sad\"\n# textflame 1 1\n@ティルフィング\nあの…マスター\n\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n@ティルフィング\n突然ですが、\nクイズを出してもいいですか？\n\n# face %(unit_a)s \"normal\"\n# textflame 1 1\n@ティルフィング\nただ無言で帰るのも\n退屈ではないですか\n\n@ティルフィング\n質問内容は私のことです\nマスターなら、\n簡単に答えられますよね？\n\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n@ティルフィング\nというわけで、\nクイズです\n\n# textflame 1 1\n@%(unitName:unit_a)s\n希望…英語では確か…？\n\n;;Hope\n# se \"SE_0734\"\n# select \"Hope\" \"select_label_1\" \"Step\" \"select_label_2\" \"Jump\" \"select_label_3\"\n希望…英語では確か…？\n"
+	},
+	{
+		"ID": 4229,
+		"unitID": 2101421,
+		"questionID": 29101431,
+		"script": "# face %(unit_a)s \"usual\"\n# textflame 1 1\n@ティルフィング\nマスター、クイズを\n出しますが構いませんか？\n\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n@ティルフィング\n私が司るのは“強欲”\n\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n@ティルフィング\nマスターに私のことを\n知って欲しいという“欲”も\nあるんですよ\n\n@ティルフィング\nどうか、\nもっと私のことを知ってください\n\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n@ティルフィング\nというわけで、\nクイズに答えてください\n\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n@%(unitName:unit_a)s\n七つの大罪の「強欲」は\n英語で何と言うのですか？\n\n;;Greed\n# se \"SE_0734\"\n# select \"Greed\" \"select_label_1\" \"Pride\" \"select_label_2\" \"Wrath\" \"select_label_3\"\n七つの大罪の「強欲」は\n英語で何と言うのですか？\n"
+	},
+	{
+		"ID": 4230,
+		"unitID": 2101421,
+		"questionID": 29101432,
+		"script": "# face %(unit_a)s \"usual\"\n# textflame 1 1\n@ティルフィング\nマスター、クイズを\n出しますが構いませんか？\n\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n@ティルフィング\n私が司るのは“強欲”\n\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n@ティルフィング\nマスターに私のことを\n知って欲しいという“欲”も\nあるんですよ\n\n@ティルフィング\nどうか、\nもっと私のことを知ってください\n\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n@ティルフィング\nというわけで、\nクイズに答えてください\n\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n@%(unitName:unit_a)s\n私の誕生月を英語で言うと…？\n\n;;March\n# se \"SE_0734\"\n# select \"May\" \"select_label_1\" \"March\" \"select_label_2\" \"August\" \"select_label_3\"\n私の誕生月を英語で言うと…？\n"
+	},
+	{
+		"ID": 4231,
+		"unitID": 2101421,
+		"questionID": 29101433,
+		"script": "# face %(unit_a)s \"usual\"\n# textflame 1 1\n@ティルフィング\nマスター、クイズを\n出しますが構いませんか？\n\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n@ティルフィング\n私が司るのは“強欲”\n\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n@ティルフィング\nマスターに私のことを\n知って欲しいという“欲”も\nあるんですよ\n\n@ティルフィング\nどうか、\nもっと私のことを知ってください\n\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n@ティルフィング\nというわけで、\nクイズに答えてください\n\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n@%(unitName:unit_a)s\n私の瞳の色は何色ですか？\n\n;;ピンク色\n# se \"SE_0734\"\n# select \"青色\" \"select_label_1\" \"ピンク色\" \"select_label_2\" \"黄色\" \"select_label_3\"\n私の瞳の色は何色ですか？\n"
+	},
+	{
+		"ID": 4232,
+		"unitID": 2101421,
+		"questionID": 29101434,
+		"script": "# face %(unit_a)s \"usual\"\n# textflame 1 1\n@ティルフィング\nマスター、クイズを\n出しますが構いませんか？\n\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n@ティルフィング\n私が司るのは“強欲”\n\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n@ティルフィング\nマスターに私のことを\n知って欲しいという“欲”も\nあるんですよ\n\n@ティルフィング\nどうか、\nもっと私のことを知ってください\n\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n@ティルフィング\nというわけで、\nクイズに答えてください\n\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n@%(unitName:unit_a)s\n私と誕生月が同じなのは…？\n\n;;マサムネ\n# se \"SE_0734\"\n# select \"マサムネ\" \"select_label_1\" \"パラシュ\" \"select_label_2\" \"フォルカス\" \"select_label_3\"\n私と誕生月が同じなのは…？\n"
+	},
+	{
+		"ID": 4233,
+		"unitID": 2101421,
+		"questionID": 29101435,
+		"script": "# face %(unit_a)s \"usual\"\n# textflame 1 1\n@ティルフィング\nマスター、クイズを\n出しますが構いませんか？\n\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n@ティルフィング\n私が司るのは“強欲”\n\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n@ティルフィング\nマスターに私のことを\n知って欲しいという“欲”も\nあるんですよ\n\n@ティルフィング\nどうか、\nもっと私のことを知ってください\n\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n@ティルフィング\nというわけで、\nクイズに答えてください\n\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n@%(unitName:unit_a)s\n私の星座を英語で何と言うか\n知っていますか…？\n\n;;Pisces\n# se \"SE_0734\"\n# select \"Aquarius\" \"select_label_1\" \"Pisces\" \"select_label_2\" \"Cancer\" \"select_label_3\"\n私の星座を英語で何と言うか\n知っていますか…？\n"
+	},
+	{
+		"ID": 4234,
+		"unitID": 2101421,
+		"questionID": 29101436,
+		"script": "# face %(unit_a)s \"usual\"\n# textflame 1 1\n@ティルフィング\nマスター、クイズを\n出しますが構いませんか？\n\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n@ティルフィング\n私が司るのは“強欲”\n\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n@ティルフィング\nマスターに私のことを\n知って欲しいという“欲”も\nあるんですよ\n\n@ティルフィング\nどうか、\nもっと私のことを知ってください\n\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n@ティルフィング\nというわけで、\nクイズに答えてください\n\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n@%(unitName:unit_a)s\n「ブラック」のスペルは…？\n\n;;black\n# se \"SE_0734\"\n# select \"block\" \"select_label_1\" \"brack\" \"select_label_2\" \"black\" \"select_label_3\"\n「ブラック」のスペルは…？\n"
+	},
+	{
+		"ID": 4235,
+		"unitID": 2101421,
+		"questionID": 29101437,
+		"script": "# face %(unit_a)s \"usual\"\n# textflame 1 1\n@ティルフィング\nマスター、クイズを\n出しますが構いませんか？\n\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n@ティルフィング\n私が司るのは“強欲”\n\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n@ティルフィング\nマスターに私のことを\n知って欲しいという“欲”も\nあるんですよ\n\n@ティルフィング\nどうか、\nもっと私のことを知ってください\n\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n@ティルフィング\nというわけで、\nクイズに答えてください\n\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n@%(unitName:unit_a)s\nどこかの国にあるらしいのですが\n黒い食べ物…ノリとは何ですか？\n\n;;海藻\n# se \"SE_0734\"\n# select \"海藻\" \"select_label_1\" \"魚\" \"select_label_2\" \"乳製品\" \"select_label_3\"\nどこかの国にあるらしいのですが\n黒い食べ物…ノリとは何ですか？\n"
+	},
+	{
+		"ID": 4236,
+		"unitID": 2101421,
+		"questionID": 29101438,
+		"script": "# face %(unit_a)s \"usual\"\n# textflame 1 1\n@ティルフィング\nマスター、クイズを\n出しますが構いませんか？\n\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n@ティルフィング\n私が司るのは“強欲”\n\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n@ティルフィング\nマスターに私のことを\n知って欲しいという“欲”も\nあるんですよ\n\n@ティルフィング\nどうか、\nもっと私のことを知ってください\n\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n@ティルフィング\nというわけで、\nクイズに答えてください\n\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n@%(unitName:unit_a)s\n私と同じ血液型なのは\nだれでしょうか？\n\n;;フラベルム\n# se \"SE_0734\"\n# select \"ペルーン\" \"select_label_1\" \"フラベルム\" \"select_label_2\" \"ミョルニル\" \"select_label_3\"\n私と同じ血液型なのは\nだれでしょうか？\n"
+	},
+	{
+		"ID": 4237,
+		"unitID": 2101421,
+		"questionID": 29101439,
+		"script": "# face %(unit_a)s \"usual\"\n# textflame 1 1\n@ティルフィング\nマスター、クイズを\n出しますが構いませんか？\n\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n@ティルフィング\n私が司るのは“強欲”\n\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n@ティルフィング\nマスターに私のことを\n知って欲しいという“欲”も\nあるんですよ\n\n@ティルフィング\nどうか、\nもっと私のことを知ってください\n\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n@ティルフィング\nというわけで、\nクイズに答えてください\n\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n@%(unitName:unit_a)s\n私と違う血液型なのは\n誰でしょうか？\n\n;;グリダヴォル\n# se \"SE_0734\"\n# select \"ヴォータン\" \"select_label_1\" \"グングニル\" \"select_label_2\" \"グリダヴォル\" \"select_label_3\"\n私と違う血液型なのは\n誰でしょうか？\n"
+	},
+	{
+		"ID": 4238,
+		"unitID": 2101421,
+		"questionID": 29101440,
+		"script": "# face %(unit_a)s \"usual\"\n# textflame 1 1\n@ティルフィング\nマスター、クイズを\n出しますが構いませんか？\n\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n@ティルフィング\n私が司るのは“強欲”\n\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n@ティルフィング\nマスターに私のことを\n知って欲しいという“欲”も\nあるんですよ\n\n@ティルフィング\nどうか、\nもっと私のことを知ってください\n\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n@ティルフィング\nというわけで、\nクイズに答えてください\n\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n@%(unitName:unit_a)s\n強欲の神とも呼ばれるのは…？\n\n;;マモン\n# se \"SE_0734\"\n# select \"マモン\" \"select_label_1\" \"レモン\" \"select_label_2\" \"サーモン\" \"select_label_3\"\n強欲の神とも呼ばれるのは…？\n"
+	},
+	{
+		"ID": 4239,
+		"unitID": 2101421,
+		"questionID": 29101441,
+		"script": "\n;;私\n# se \"SE_0734\"\n# select \"私\" \"select_label_1\" \"オレ\" \"select_label_2\" \"ボク\" \"select_label_3\"\nティルフィングの一人称は\n次のうちどれ？\n"
+	},
+	{
+		"ID": 4240,
+		"unitID": 2101421,
+		"questionID": 29101442,
+		"script": "\n;;マスター\n# se \"SE_0734\"\n# select \"お前\" \"select_label_1\" \"マスター\" \"select_label_2\" \"下僕\" \"select_label_3\"\nティルフィングはアンタのこと、\nなんて呼んでる？\n"
+	},
+	{
+		"ID": 4241,
+		"unitID": 2101421,
+		"questionID": 29101443,
+		"script": "\n;;84\n# se \"SE_0734\"\n# select \"90cm\" \"select_label_1\" \"85cm\" \"select_label_2\" \"84cm\" \"select_label_3\"\nティルフィングの\nバストサイズがどのくらいか\nアンタ…知ってるの？\n"
+	},
+	{
+		"ID": 4242,
+		"unitID": 2101421,
+		"questionID": 29101444,
+		"script": "\n;;60\n# se \"SE_0734\"\n# select \"60cm\" \"select_label_1\" \"58cm\" \"select_label_2\" \"62cm\" \"select_label_3\"\nティルフィングの\nウエストサイズがどのくらいか\nアンタ…知ってるの？\n"
+	},
+	{
+		"ID": 4243,
+		"unitID": 2101421,
+		"questionID": 29101445,
+		"script": "\n;;84\n# se \"SE_0734\"\n# select \"82cm\" \"select_label_1\" \"84cm\" \"select_label_2\" \"87cm\" \"select_label_3\"\nティルフィングの\nヒップサイズがどのくらいか\nアンタ…知ってるの？\n"
+	},
+	{
+		"ID": 4244,
+		"unitID": 2101421,
+		"questionID": 29101446,
+		"script": "\n;;47\n# se \"SE_0734\"\n# select \"42kg\" \"select_label_1\" \"52kg\" \"select_label_2\" \"47kg\" \"select_label_3\"\nティルフィングの体重は\n次のうちどれ？\n"
+	},
+	{
+		"ID": 4245,
+		"unitID": 2101421,
+		"questionID": 29101447,
+		"script": "\n;;228\n# se \"SE_0734\"\n# select \"228\" \"select_label_1\" \"233\" \"select_label_2\" \"253\" \"select_label_3\"\nティルフィングの\nバスト＋ウエスト＋ヒップは\nいくつかわかる？\n"
+	},
+	{
+		"ID": 4246,
+		"unitID": 2101421,
+		"questionID": 29101448,
+		"script": "\n;;ピンク\n# se \"SE_0734\"\n# select \"黒\" \"select_label_1\" \"ピンク\" \"select_label_2\" \"水色\" \"select_label_3\"\nティルフィングの髪の色は\n次のうちどれ？\n"
+	},
+	{
+		"ID": 4247,
+		"unitID": 2101421,
+		"questionID": 29101450,
+		"script": "\n;;雨宮天\n# se \"SE_0734\"\n# select \"雨宮天\" \"select_label_1\" \"髙橋ミナミ\" \"select_label_2\" \"高垣彩陽\" \"select_label_3\"\nティルフィングの声優は誰？\n"
+	}
+]

@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 96003399,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# se \"SE_0732\"\n# voice 6003 \"tyurusosu_0021\"\n@テュルソス\nすごいすごい！\n見事、大正解♪\n\n@テュルソス\nな～んだ、マスターって、\n私のことちゃんと\n知ってくれてるんだね？\n\n# voice 6003 \"tyurusosu_0004\"\n@テュルソス\nちょっと…ううん、\nすごく見直しちゃったかも♪\n\n# face %(unit_a)s \"usual\"\n# voice 6003 \"tyurusosu_0036\"\n@テュルソス\nこれなら、安心して\nマスターについていけそうね\nこれからも、よろしくね♪\n\n# textflame 0 0\n@\nテュルソスはそう言って\n抱きついてくる\n\n@\nそんな彼女の様子に\nマスターは二人の絆が\nより深まったのを感じた…\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

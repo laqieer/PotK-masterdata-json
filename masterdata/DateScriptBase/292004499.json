@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 292004499,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# face %(unit_a)s \"shy\"\n# voice 220042 \"parashu_k_0004\"\n# se \"SE_0732\"\n@パラシュ\nマスター！\n正解だよ！\n\n@パラシュ\nキミなら、きっと正解してくれると\n思っていたよ\n\n# textflame 0 0\n@\n予想以上に喜んでくれるパラシュに\nこっちまで嬉しくなってくる\n\n# voice 220042 \"parashu_k_0020\"\n# textflame 1 1\n@パラシュ\nだって自分のことだろう？\nそれを知っててもらえたんだ、\n嬉しいのは当然さっ！\n\n# textflame 0 0\n@\nまるで子供みたいにはしゃぐ彼女に\n正解してよかったと思う\n\n# textflame 1 1\n@パラシュ\n今日は機嫌がいいから、\nあとでアイスを一緒に食べよう\n\n# textflame 0 0\n@\nそう言って歩みを速める彼女の姿は、\n戦闘の時とは打って変わって、\n歳相応なものだった…\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

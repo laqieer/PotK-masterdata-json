@@ -1,0 +1,296 @@
+[
+	{
+		"ID": 4366,
+		"unitID": 2302511,
+		"questionID": 9302501,
+		"script": ";;槍,1\n# textflame 1 1\n@ミネルヴァ\nマスター、\n今日はありがとうございました\n\n# face 2302511 \"smile\"\n@ミネルヴァ\nせっかくですから、\nクイズでもどうですか？\n\n@ミネルヴァ\n内容は私のことについてです\n\n# voice 3025 \"minerva_0002\"\n# face 2302511 \"normal\"\n@ミネルヴァ\nマスターの知恵を\n試させてもらいますね\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の武具種はわかりますか？\n\n# se \"SE_0734\"\n# select \"槍\" \"select_label_1\" \"銃\" \"select_label_2\" \"剣\" \"select_label_3\"\n私の武具種はわかりますか？\n"
+	},
+	{
+		"ID": 4367,
+		"unitID": 2302511,
+		"questionID": 9302502,
+		"script": ";;女神,2\n# textflame 1 1\n@ミネルヴァ\nマスター、\n今日はありがとうございました\n\n# face 2302511 \"smile\"\n@ミネルヴァ\nせっかくですから、\nクイズでもどうですか？\n\n@ミネルヴァ\n内容は私のことについてです\n\n# voice 3025 \"minerva_0002\"\n# face 2302511 \"normal\"\n@ミネルヴァ\nマスターの知恵を\n試させてもらいますね\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私のキラーズ『ミネルヴァ』は\nどんな神であったと\n云われていますか？\n\n# se \"SE_0734\"\n# select \"獅子神\" \"select_label_1\" \"女神\" \"select_label_2\" \"象神\" \"select_label_3\"\n私のキラーズ『ミネルヴァ』は\nどんな神であったと\n云われていますか？\n"
+	},
+	{
+		"ID": 4368,
+		"unitID": 2302511,
+		"questionID": 9302503,
+		"script": ";;ローマ神話,3\n# textflame 1 1\n@ミネルヴァ\nマスター、\n今日はありがとうございました\n\n# face 2302511 \"smile\"\n@ミネルヴァ\nせっかくですから、\nクイズでもどうですか？\n\n@ミネルヴァ\n内容は私のことについてです\n\n# voice 3025 \"minerva_0002\"\n# face 2302511 \"normal\"\n@ミネルヴァ\nマスターの知恵を\n試させてもらいますね\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私のキラーズ『ミネルヴァ』は\nどんな伝承に登場しますか？\n\n# se \"SE_0734\"\n# select \"エジプト神話\" \"select_label_1\" \"日本神話\" \"select_label_2\" \"ローマ神話\" \"select_label_3\"\n私のキラーズ『ミネルヴァ』は\nどんな伝承に登場しますか？\n"
+	},
+	{
+		"ID": 4369,
+		"unitID": 2302511,
+		"questionID": 9302504,
+		"script": ";;知恵,1\n# textflame 1 1\n@ミネルヴァ\nマスター、\n今日はありがとうございました\n\n# face 2302511 \"smile\"\n@ミネルヴァ\nせっかくですから、\nクイズでもどうですか？\n\n@ミネルヴァ\n内容は私のことについてです\n\n# voice 3025 \"minerva_0002\"\n# face 2302511 \"normal\"\n@ミネルヴァ\nマスターの知恵を\n試させてもらいますね\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の司る七元徳は何でしょうか？\n\n# se \"SE_0734\"\n# select \"知恵\" \"select_label_1\" \"勇気\" \"select_label_2\" \"友情\" \"select_label_3\"\n私の司る七元徳は何でしょうか？\n"
+	},
+	{
+		"ID": 4370,
+		"unitID": 2302511,
+		"questionID": 9302505,
+		"script": ";;アテナ,2\n# textflame 1 1\n@ミネルヴァ\nマスター、\n今日はありがとうございました\n\n# face 2302511 \"smile\"\n@ミネルヴァ\nせっかくですから、\nクイズでもどうですか？\n\n@ミネルヴァ\n内容は私のことについてです\n\n# voice 3025 \"minerva_0002\"\n# face 2302511 \"normal\"\n@ミネルヴァ\nマスターの知恵を\n試させてもらいますね\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私のキラーズ『ミネルヴァ』は\nギリシャ神話では何と呼ばれている？\n\n# se \"SE_0734\"\n# select \"カンテラ\" \"select_label_1\" \"アテナ\" \"select_label_2\" \"バサラ\" \"select_label_3\"\n私のキラーズ『ミネルヴァ』は\nギリシャ神話では何と呼ばれている？\n"
+	},
+	{
+		"ID": 4371,
+		"unitID": 2302511,
+		"questionID": 9302506,
+		"script": ";;永遠の処女,3\n# textflame 1 1\n@ミネルヴァ\nマスター、\n今日はありがとうございました\n\n# face 2302511 \"smile\"\n@ミネルヴァ\nせっかくですから、\nクイズでもどうですか？\n\n@ミネルヴァ\n内容は私のことについてです\n\n# voice 3025 \"minerva_0002\"\n# face 2302511 \"normal\"\n@ミネルヴァ\nマスターの知恵を\n試させてもらいますね\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私のキラーズ『ミネルヴァ』は\n何と言われて…ます…か？\n\n# se \"SE_0734\"\n# select \"永遠のアイドル\" \"select_label_1\" \"永遠の高校生\" \"select_label_2\" \"永遠の処女\" \"select_label_3\"\n私のキラーズ『ミネルヴァ』は\n何と言われて…ます…か？\n"
+	},
+	{
+		"ID": 4372,
+		"unitID": 2302511,
+		"questionID": 9302507,
+		"script": ";;恋愛経験,1\n# textflame 1 1\n@ミネルヴァ\nマスター、\n今日はありがとうございました\n\n# face 2302511 \"smile\"\n@ミネルヴァ\nせっかくですから、\nクイズでもどうですか？\n\n@ミネルヴァ\n内容は私のことについてです\n\n# voice 3025 \"minerva_0002\"\n# face 2302511 \"normal\"\n@ミネルヴァ\nマスターの知恵を\n試させてもらいますね\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私にないものは何でしょうか？\n\n# se \"SE_0734\"\n# select \"恋愛経験\" \"select_label_1\" \"戦闘経験\" \"select_label_2\" \"料理経験\" \"select_label_3\"\n私にないものは何でしょうか？\n"
+	},
+	{
+		"ID": 4373,
+		"unitID": 2302511,
+		"questionID": 9302508,
+		"script": ";;医療の神,2\n# textflame 1 1\n@ミネルヴァ\nマスター、\n今日はありがとうございました\n\n# face 2302511 \"smile\"\n@ミネルヴァ\nせっかくですから、\nクイズでもどうですか？\n\n@ミネルヴァ\n内容は私のことについてです\n\n# voice 3025 \"minerva_0002\"\n# face 2302511 \"normal\"\n@ミネルヴァ\nマスターの知恵を\n試させてもらいますね\n;;---------------------------------\n\n@%(unitName:unit_a)s\n『ミネルヴァ』というのは\nどんな神とも云われていますか？\n\n# se \"SE_0734\"\n# select \"無病息災の神\" \"select_label_1\" \"医療の神\" \"select_label_2\" \"交通安全の神\" \"select_label_3\"\n『ミネルヴァ』というのは\nどんな神とも云われていますか？\n"
+	},
+	{
+		"ID": 4374,
+		"unitID": 2302511,
+		"questionID": 9302509,
+		"script": ";;工芸の神,3\n# textflame 1 1\n@ミネルヴァ\nマスター、\n今日はありがとうございました\n\n# face 2302511 \"smile\"\n@ミネルヴァ\nせっかくですから、\nクイズでもどうですか？\n\n@ミネルヴァ\n内容は私のことについてです\n\n# voice 3025 \"minerva_0002\"\n# face 2302511 \"normal\"\n@ミネルヴァ\nマスターの知恵を\n試させてもらいますね\n;;---------------------------------\n\n@%(unitName:unit_a)s\n『ミネルヴァ』というのは\nどんな神とも云われていますか？\n\n# se \"SE_0734\"\n# select \"宇宙の神\" \"select_label_1\" \"電気の神\" \"select_label_2\" \"工芸の神\" \"select_label_3\"\n『ミネルヴァ』というのは\nどんな神とも云われていますか？\n"
+	},
+	{
+		"ID": 4375,
+		"unitID": 2302511,
+		"questionID": 9302510,
+		"script": ";;戦争の神,1\n# textflame 1 1\n@ミネルヴァ\nマスター、\n今日はありがとうございました\n\n# face 2302511 \"smile\"\n@ミネルヴァ\nせっかくですから、\nクイズでもどうですか？\n\n@ミネルヴァ\n内容は私のことについてです\n\n# voice 3025 \"minerva_0002\"\n# face 2302511 \"normal\"\n@ミネルヴァ\nマスターの知恵を\n試させてもらいますね\n;;---------------------------------\n\n@%(unitName:unit_a)s\n『ミネルヴァ』というのは\nどんな神とも云われていますか？\n\n# se \"SE_0734\"\n# select \"戦争の神\" \"select_label_1\" \"オーロラの神\" \"select_label_2\" \"スリッパの神\" \"select_label_3\"\n『ミネルヴァ』というのは\nどんな神とも云われていますか？\n"
+	},
+	{
+		"ID": 4376,
+		"unitID": 2302511,
+		"questionID": 9302511,
+		"script": ";;雷,1\n# textflame 1 1\n@ミネルヴァ\nマスター、\n少しお時間いいでしょうか？\n\n# face 2302511 \"smile\"\n@ミネルヴァ\n突然ですが\nここでクイズです\n\n@ミネルヴァ\nジャンルは\nこの私について…\n\n# face 2302511 \"normal\"\n@ミネルヴァ\nさぁ、さっそくいきますよ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の属性は知っていますか？\n\n# se \"SE_0734\"\n# select \"雷\" \"select_label_1\" \"炎\" \"select_label_2\" \"風\" \"select_label_3\"\n私の属性は知っていますか？\n"
+	},
+	{
+		"ID": 4377,
+		"unitID": 2302511,
+		"questionID": 9302512,
+		"script": ";;153cm,2\n# textflame 1 1\n@ミネルヴァ\nマスター、\n少しお時間いいでしょうか？\n\n# face 2302511 \"smile\"\n@ミネルヴァ\n突然ですが\nここでクイズです\n\n@ミネルヴァ\nジャンルは\nこの私について…\n\n# face 2302511 \"normal\"\n@ミネルヴァ\nさぁ、さっそくいきますよ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の身長はご存知でしょうか…？\n\n# se \"SE_0734\"\n# select \"155cm\" \"select_label_1\" \"153cm\" \"select_label_2\" \"160cm\" \"select_label_3\"\n私の身長はご存知でしょうか…？\n"
+	},
+	{
+		"ID": 4378,
+		"unitID": 2302511,
+		"questionID": 9302513,
+		"script": ";;3月19日,3\n# textflame 1 1\n@ミネルヴァ\nマスター、\n少しお時間いいでしょうか？\n\n# face 2302511 \"smile\"\n@ミネルヴァ\n突然ですが\nここでクイズです\n\n@ミネルヴァ\nジャンルは\nこの私について…\n\n# face 2302511 \"normal\"\n@ミネルヴァ\nさぁ、さっそくいきますよ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の誕生日はご存知でしょうか…？\n\n# se \"SE_0734\"\n# select \"5月19日\" \"select_label_1\" \"4月19日\" \"select_label_2\" \"3月19日\" \"select_label_3\"\n私の誕生日はご存知でしょうか…？\n"
+	},
+	{
+		"ID": 4379,
+		"unitID": 2302511,
+		"questionID": 9302514,
+		"script": ";;うお座,1\n# textflame 1 1\n@ミネルヴァ\nマスター、\n少しお時間いいでしょうか？\n\n# face 2302511 \"smile\"\n@ミネルヴァ\n突然ですが\nここでクイズです\n\n@ミネルヴァ\nジャンルは\nこの私について…\n\n# face 2302511 \"normal\"\n@ミネルヴァ\nさぁ、さっそくいきますよ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の星座は知っていますか…？\n\n# se \"SE_0734\"\n# select \"うお座\" \"select_label_1\" \"いて座\" \"select_label_2\" \"やぎ座\" \"select_label_3\"\n私の星座は知っていますか…？\n"
+	},
+	{
+		"ID": 4380,
+		"unitID": 2302511,
+		"questionID": 9302515,
+		"script": ";;オリーブの木,2\n# textflame 1 1\n@ミネルヴァ\nマスター、\n少しお時間いいでしょうか？\n\n# face 2302511 \"smile\"\n@ミネルヴァ\n突然ですが\nここでクイズです\n\n@ミネルヴァ\nジャンルは\nこの私について…\n\n# face 2302511 \"normal\"\n@ミネルヴァ\nさぁ、さっそくいきますよ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私が好きなものは何でしょう…？\n\n# se \"SE_0734\"\n# select \"桜の木\" \"select_label_1\" \"オリーブの木\" \"select_label_2\" \"梅の木\" \"select_label_3\"\n私が好きなものは何でしょう…？\n"
+	},
+	{
+		"ID": 4381,
+		"unitID": 2302511,
+		"questionID": 9302516,
+		"script": ";;編み物,3\n# textflame 1 1\n@ミネルヴァ\nマスター、\n少しお時間いいでしょうか？\n\n# face 2302511 \"smile\"\n@ミネルヴァ\n突然ですが\nここでクイズです\n\n@ミネルヴァ\nジャンルは\nこの私について…\n\n# face 2302511 \"normal\"\n@ミネルヴァ\nさぁ、さっそくいきますよ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の趣味は何でしょう…？\n\n# se \"SE_0734\"\n# select \"プロレス\" \"select_label_1\" \"空手\" \"select_label_2\" \"編み物\" \"select_label_3\"\n私の趣味は何でしょう…？\n"
+	},
+	{
+		"ID": 4382,
+		"unitID": 2302511,
+		"questionID": 9302517,
+		"script": ";;A型,1\n# textflame 1 1\n@ミネルヴァ\nマスター、\n少しお時間いいでしょうか？\n\n# face 2302511 \"smile\"\n@ミネルヴァ\n突然ですが\nここでクイズです\n\n@ミネルヴァ\nジャンルは\nこの私について…\n\n# face 2302511 \"normal\"\n@ミネルヴァ\nさぁ、さっそくいきますよ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の血液型は…？\n\n# se \"SE_0734\"\n# select \"A型\" \"select_label_1\" \"O型\" \"select_label_2\" \"B型\" \"select_label_3\"\n私の血液型は…？\n"
+	},
+	{
+		"ID": 4383,
+		"unitID": 2302511,
+		"questionID": 9302518,
+		"script": ";;イタリア,2\n# textflame 1 1\n@ミネルヴァ\nマスター、\n少しお時間いいでしょうか？\n\n# face 2302511 \"smile\"\n@ミネルヴァ\n突然ですが\nここでクイズです\n\n@ミネルヴァ\nジャンルは\nこの私について…\n\n# face 2302511 \"normal\"\n@ミネルヴァ\nさぁ、さっそくいきますよ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の出身地はわかりますか…？\n\n# se \"SE_0734\"\n# select \"ドイツ\" \"select_label_1\" \"イタリア\" \"select_label_2\" \"日本\" \"select_label_3\"\n私の出身地はわかりますか…？\n"
+	},
+	{
+		"ID": 4384,
+		"unitID": 2302511,
+		"questionID": 9302519,
+		"script": ";;フクロウ,3\n# textflame 1 1\n@ミネルヴァ\nマスター、\n少しお時間いいでしょうか？\n\n# face 2302511 \"smile\"\n@ミネルヴァ\n突然ですが\nここでクイズです\n\n@ミネルヴァ\nジャンルは\nこの私について…\n\n# face 2302511 \"normal\"\n@ミネルヴァ\nさぁ、さっそくいきますよ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私が連れている使い魔のニケは\nなんでしょうか？\n\n# se \"SE_0734\"\n# select \"レッサーパンダ\" \"select_label_1\" \"コオロギ\" \"select_label_2\" \"フクロウ\" \"select_label_3\"\n私が連れている使い魔のニケは\nなんでしょうか？\n"
+	},
+	{
+		"ID": 4385,
+		"unitID": 2302511,
+		"questionID": 9302520,
+		"script": ";;エンヴィ,1\n# textflame 1 1\n@ミネルヴァ\nマスター、\n少しお時間いいでしょうか？\n\n# face 2302511 \"smile\"\n@ミネルヴァ\n突然ですが\nここでクイズです\n\n@ミネルヴァ\nジャンルは\nこの私について…\n\n# face 2302511 \"normal\"\n@ミネルヴァ\nさぁ、さっそくいきますよ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私と関係の深いブラックキラーズは\nおわかりになりますか？\n\n# se \"SE_0734\"\n# select \"エンヴィ\" \"select_label_1\" \"ドルヴィ\" \"select_label_2\" \"ペソヴィ\" \"select_label_3\"\n私と関係の深いブラックキラーズは\nおわかりになりますか？\n"
+	},
+	{
+		"ID": 4386,
+		"unitID": 2302511,
+		"questionID": 9302521,
+		"script": ";;白き革命,1\n# textflame 1 1\n@ミネルヴァ\nあの、マスター\n少しお話があります\n\n@ミネルヴァ\nマスターが私のことを\n理解してくれていることは\n知っています\n\n# face 2302511 \"sad\"\n@ミネルヴァ\n決してそれを\n疑っているわけではないのですが…\nちょっと確認したいと思います\n\n# face 2302511 \"normal\"\n@ミネルヴァ\nそれではクイズ形式でいきますよ\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の覚えるスキルは\nご存知ですか…？\n\n# se \"SE_0734\"\n# select \"白き革命\" \"select_label_1\" \"赤の遵守\" \"select_label_2\" \"青は進め\" \"select_label_3\"\n私の覚えるスキルは\nご存知ですか…？\n"
+	},
+	{
+		"ID": 4387,
+		"unitID": 2302511,
+		"questionID": 9302522,
+		"script": ";;閃きと知性,2\n# textflame 1 1\n@ミネルヴァ\nあの、マスター\n少しお話があります\n\n@ミネルヴァ\nマスターが私のことを\n理解してくれていることは\n知っています\n\n# face 2302511 \"sad\"\n@ミネルヴァ\n決してそれを\n疑っているわけではないのですが…\nちょっと確認したいと思います\n\n# face 2302511 \"normal\"\n@ミネルヴァ\nそれではクイズ形式でいきますよ\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の解放スキルは知っていますか？\n\n# se \"SE_0734\"\n# select \"スピードと麻痺\" \"select_label_1\" \"閃きと知性\" \"select_label_2\" \"愛と誠\" \"select_label_3\"\n私の解放スキルは知っていますか？\n"
+	},
+	{
+		"ID": 4388,
+		"unitID": 2302511,
+		"questionID": 9302523,
+		"script": ";;白雷の稲閃,3\n# textflame 1 1\n@ミネルヴァ\nあの、マスター\n少しお話があります\n\n@ミネルヴァ\nマスターが私のことを\n理解してくれていることは\n知っています\n\n# face 2302511 \"sad\"\n@ミネルヴァ\n決してそれを\n疑っているわけではないのですが…\nちょっと確認したいと思います\n\n# face 2302511 \"normal\"\n@ミネルヴァ\nそれではクイズ形式でいきますよ\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の☆６のリーダースキルは\n知っていますか…？\n\n# se \"SE_0734\"\n# select \"歯位の稲閃\" \"select_label_1\" \"舶来の稲閃\" \"select_label_2\" \"白雷の稲閃\" \"select_label_3\"\n私の☆６のリーダースキルは\n知っていますか…？\n"
+	},
+	{
+		"ID": 4389,
+		"unitID": 2302511,
+		"questionID": 9302524,
+		"script": ";;明星の白印,1\n# textflame 1 1\n@ミネルヴァ\nあの、マスター\n少しお話があります\n\n@ミネルヴァ\nマスターが私のことを\n理解してくれていることは\n知っています\n\n# face 2302511 \"sad\"\n@ミネルヴァ\n決してそれを\n疑っているわけではないのですが…\nちょっと確認したいと思います\n\n# face 2302511 \"normal\"\n@ミネルヴァ\nそれではクイズ形式でいきますよ\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私が覚える付与スキルって\nわかりますか…？\n\n# se \"SE_0734\"\n# select \"明星の白印\" \"select_label_1\" \"明星の丸印\" \"select_label_2\" \"明星の黒印\" \"select_label_3\"\n私が覚える付与スキルって\nわかりますか…？\n"
+	},
+	{
+		"ID": 4390,
+		"unitID": 2302511,
+		"questionID": 9302525,
+		"script": ";;白の再起,2\n# textflame 1 1\n@ミネルヴァ\nあの、マスター\n少しお話があります\n\n@ミネルヴァ\nマスターが私のことを\n理解してくれていることは\n知っています\n\n# face 2302511 \"sad\"\n@ミネルヴァ\n決してそれを\n疑っているわけではないのですが…\nちょっと確認したいと思います\n\n# face 2302511 \"normal\"\n@ミネルヴァ\nそれではクイズ形式でいきますよ\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私が覚える付与スキルって\nわかりますか…？\n\n# se \"SE_0734\"\n# select \"白の斉木\" \"select_label_1\" \"白の再起\" \"select_label_2\" \"白の才気\" \"select_label_3\"\n私が覚える付与スキルって\nわかりますか…？\n"
+	},
+	{
+		"ID": 4391,
+		"unitID": 2302511,
+		"questionID": 9302526,
+		"script": ";;控え目な性格,3\n# textflame 1 1\n@ミネルヴァ\nあの、マスター\n少しお話があります\n\n@ミネルヴァ\nマスターが私のことを\n理解してくれていることは\n知っています\n\n# face 2302511 \"sad\"\n@ミネルヴァ\n決してそれを\n疑っているわけではないのですが…\nちょっと確認したいと思います\n\n# face 2302511 \"normal\"\n@ミネルヴァ\nそれではクイズ形式でいきますよ\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の性格ですか？\n強いて言えば…\n\n# se \"SE_0734\"\n# select \"目立ちたがりな性格\" \"select_label_1\" \"横柄な性格\" \"select_label_2\" \"控え目な性格\" \"select_label_3\"\n私の性格ですか？\n強いて言えば…\n"
+	},
+	{
+		"ID": 4392,
+		"unitID": 2302511,
+		"questionID": 9302527,
+		"script": ";;愚痴,1\n# textflame 1 1\n@ミネルヴァ\nあの、マスター\n少しお話があります\n\n@ミネルヴァ\nマスターが私のことを\n理解してくれていることは\n知っています\n\n# face 2302511 \"sad\"\n@ミネルヴァ\n決してそれを\n疑っているわけではないのですが…\nちょっと確認したいと思います\n\n# face 2302511 \"normal\"\n@ミネルヴァ\nそれではクイズ形式でいきますよ\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私が連れているフクロウの\nニケに聞いて貰うのは…？\n\n# se \"SE_0734\"\n# select \"愚痴\" \"select_label_1\" \"歌\" \"select_label_2\" \"のろけ話\" \"select_label_3\"\n私が連れているフクロウの\nニケに聞いて貰うのは…？\n"
+	},
+	{
+		"ID": 4393,
+		"unitID": 2302511,
+		"questionID": 9302528,
+		"script": ";;ニケ,2\n# textflame 1 1\n@ミネルヴァ\nあの、マスター\n少しお話があります\n\n@ミネルヴァ\nマスターが私のことを\n理解してくれていることは\n知っています\n\n# face 2302511 \"sad\"\n@ミネルヴァ\n決してそれを\n疑っているわけではないのですが…\nちょっと確認したいと思います\n\n# face 2302511 \"normal\"\n@ミネルヴァ\nそれではクイズ形式でいきますよ\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私が連れているフクロウの\n名前は分かりますか？\n\n# se \"SE_0734\"\n# select \"ミケ\" \"select_label_1\" \"ニケ\" \"select_label_2\" \"シケ\" \"select_label_3\"\n私が連れているフクロウの\n名前は分かりますか？\n"
+	},
+	{
+		"ID": 4394,
+		"unitID": 2302511,
+		"questionID": 9302529,
+		"script": ";;マフラー,3\n# textflame 1 1\n@ミネルヴァ\nあの、マスター\n少しお話があります\n\n@ミネルヴァ\nマスターが私のことを\n理解してくれていることは\n知っています\n\n# face 2302511 \"sad\"\n@ミネルヴァ\n決してそれを\n疑っているわけではないのですが…\nちょっと確認したいと思います\n\n# face 2302511 \"normal\"\n@ミネルヴァ\nそれではクイズ形式でいきますよ\n;;---------------------------------\n\n@%(unitName:unit_a)s\n普段の私が、\n首に巻いているものと言えば\nなんでしょうか？\n\n# se \"SE_0734\"\n# select \"大蛇\" \"select_label_1\" \"タイヤ\" \"select_label_2\" \"マフラー\" \"select_label_3\"\n普段の私が、\n首に巻いているものと言えば\nなんでしょうか？\n"
+	},
+	{
+		"ID": 4395,
+		"unitID": 2302511,
+		"questionID": 9302530,
+		"script": ";;勝利の女神,1\n# textflame 1 1\n@ミネルヴァ\nあの、マスター\n少しお話があります\n\n@ミネルヴァ\nマスターが私のことを\n理解してくれていることは\n知っています\n\n# face 2302511 \"sad\"\n@ミネルヴァ\n決してそれを\n疑っているわけではないのですが…\nちょっと確認したいと思います\n\n# face 2302511 \"normal\"\n@ミネルヴァ\nそれではクイズ形式でいきますよ\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私が連れているフクロウのニケ\n「ニケ」とはどんな意味がある？\n\n# se \"SE_0734\"\n# select \"勝利の女神\" \"select_label_1\" \"戦場の狼煙\" \"select_label_2\" \"宴の後\" \"select_label_3\"\n私が連れているフクロウのニケ\n「ニケ」とはどんな意味がある？\n"
+	},
+	{
+		"ID": 4396,
+		"unitID": 2302511,
+		"questionID": 9302531,
+		"script": ";;Minerva,1\n# textflame 1 1\n@ミネルヴァ\nマスター、\nクイズをしていきませんか？\n\n# eye %(unit_a)s \"close\"\n@ミネルヴァ\n知恵は知識に\n通ずるものがあります\n\n# eye %(unit_a)s \"normal\"\n@ミネルヴァ\n知恵はたしかに尊いものですが\nただ持っているだけでは不十分です\n\n# face 2302511 \"smile\"\n@ミネルヴァ\n必要な時に使いこなせてこそ\n知恵は本当の力となります\n\n# voice 3025 \"minerva_0002\"\n# face 2302511 \"normal\"\n@ミネルヴァ\nそれでは、出題しますね\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の名をアルファベットで書くと…？\n\n# se \"SE_0734\"\n# select \"Minerva\" \"select_label_1\" \"Minoruda\" \"select_label_2\" \"Mineruba\" \"select_label_3\"\n私の名をアルファベットで書くと…？\n"
+	},
+	{
+		"ID": 4397,
+		"unitID": 2302511,
+		"questionID": 9302532,
+		"script": ";;March,2\n# textflame 1 1\n@ミネルヴァ\nマスター、\nクイズをしていきませんか？\n\n# eye %(unit_a)s \"close\"\n@ミネルヴァ\n知恵は知識に\n通ずるものがあります\n\n# eye %(unit_a)s \"normal\"\n@ミネルヴァ\n知恵はたしかに尊いものですが\nただ持っているだけでは不十分です\n\n# face 2302511 \"smile\"\n@ミネルヴァ\n必要な時に使いこなせてこそ\n知恵は本当の力となります\n\n# voice 3025 \"minerva_0002\"\n# face 2302511 \"normal\"\n@ミネルヴァ\nそれでは、出題しますね\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の誕生月を英語で言うと…？\n\n# se \"SE_0734\"\n# select \"January\" \"select_label_1\" \"March\" \"select_label_2\" \"May\" \"select_label_3\"\n私の誕生月を英語で言うと…？\n"
+	},
+	{
+		"ID": 4398,
+		"unitID": 2302511,
+		"questionID": 9302533,
+		"script": ";;知恵,3\n# textflame 1 1\n@ミネルヴァ\nマスター、\nクイズをしていきませんか？\n\n# eye %(unit_a)s \"close\"\n@ミネルヴァ\n知恵は知識に\n通ずるものがあります\n\n# eye %(unit_a)s \"normal\"\n@ミネルヴァ\n知恵はたしかに尊いものですが\nただ持っているだけでは不十分です\n\n# face 2302511 \"smile\"\n@ミネルヴァ\n必要な時に使いこなせてこそ\n知恵は本当の力となります\n\n# voice 3025 \"minerva_0002\"\n# face 2302511 \"normal\"\n@ミネルヴァ\nそれでは、出題しますね\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の好きな\nオリーブの木の花言葉は\n何でしょうか？\n\n# se \"SE_0734\"\n# select \"麦\" \"select_label_1\" \"金\" \"select_label_2\" \"知恵\" \"select_label_3\"\n私の好きな\nオリーブの木の花言葉は\n何でしょうか？\n"
+	},
+	{
+		"ID": 4399,
+		"unitID": 2302511,
+		"questionID": 9302534,
+		"script": ";;ティルフィング,1\n# textflame 1 1\n@ミネルヴァ\nマスター、\nクイズをしていきませんか？\n\n# eye %(unit_a)s \"close\"\n@ミネルヴァ\n知恵は知識に\n通ずるものがあります\n\n# eye %(unit_a)s \"normal\"\n@ミネルヴァ\n知恵はたしかに尊いものですが\nただ持っているだけでは不十分です\n\n# face 2302511 \"smile\"\n@ミネルヴァ\n必要な時に使いこなせてこそ\n知恵は本当の力となります\n\n# voice 3025 \"minerva_0002\"\n# face 2302511 \"normal\"\n@ミネルヴァ\nそれでは、出題しますね\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私と誕生月が同じなのは\n誰でしょうか…？\n\n# se \"SE_0734\"\n# select \"ティルフィング\" \"select_label_1\" \"テュルソス\" \"select_label_2\" \"ミストルティン\" \"select_label_3\"\n私と誕生月が同じなのは\n誰でしょうか…？\n"
+	},
+	{
+		"ID": 4400,
+		"unitID": 2302511,
+		"questionID": 9302535,
+		"script": ";;Pisces,2\n# textflame 1 1\n@ミネルヴァ\nマスター、\nクイズをしていきませんか？\n\n# eye %(unit_a)s \"close\"\n@ミネルヴァ\n知恵は知識に\n通ずるものがあります\n\n# eye %(unit_a)s \"normal\"\n@ミネルヴァ\n知恵はたしかに尊いものですが\nただ持っているだけでは不十分です\n\n# face 2302511 \"smile\"\n@ミネルヴァ\n必要な時に使いこなせてこそ\n知恵は本当の力となります\n\n# voice 3025 \"minerva_0002\"\n# face 2302511 \"normal\"\n@ミネルヴァ\nそれでは、出題しますね\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の星座を英語で言うと\n何でしょうか…？\n\n# se \"SE_0734\"\n# select \"Capricorn\" \"select_label_1\" \"Pisces\" \"select_label_2\" \"Aquarius\" \"select_label_3\"\n私の星座を英語で言うと\n何でしょうか…？\n"
+	},
+	{
+		"ID": 4401,
+		"unitID": 2302511,
+		"questionID": 9302536,
+		"script": ";;フライシュッツ,3\n# textflame 1 1\n@ミネルヴァ\nマスター、\nクイズをしていきませんか？\n\n# eye %(unit_a)s \"close\"\n@ミネルヴァ\n知恵は知識に\n通ずるものがあります\n\n# eye %(unit_a)s \"normal\"\n@ミネルヴァ\n知恵はたしかに尊いものですが\nただ持っているだけでは不十分です\n\n# face 2302511 \"smile\"\n@ミネルヴァ\n必要な時に使いこなせてこそ\n知恵は本当の力となります\n\n# voice 3025 \"minerva_0002\"\n# face 2302511 \"normal\"\n@ミネルヴァ\nそれでは、出題しますね\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の親友とは誰の事でしょうか？\n\n# se \"SE_0734\"\n# select \"ミトゥム\" \"select_label_1\" \"アスカロン\" \"select_label_2\" \"フライシュッツ\" \"select_label_3\"\n私の親友とは誰の事でしょうか？\n"
+	},
+	{
+		"ID": 4402,
+		"unitID": 2302511,
+		"questionID": 9302537,
+		"script": ";;エンシェントキラーズ,1\n# textflame 1 1\n@ミネルヴァ\nマスター、\nクイズをしていきませんか？\n\n# eye %(unit_a)s \"close\"\n@ミネルヴァ\n知恵は知識に\n通ずるものがあります\n\n# eye %(unit_a)s \"normal\"\n@ミネルヴァ\n知恵はたしかに尊いものですが\nただ持っているだけでは不十分です\n\n# face 2302511 \"smile\"\n@ミネルヴァ\n必要な時に使いこなせてこそ\n知恵は本当の力となります\n\n# voice 3025 \"minerva_0002\"\n# face 2302511 \"normal\"\n@ミネルヴァ\nそれでは、出題しますね\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私はこれに属しています\n\n# se \"SE_0734\"\n# select \"エンシェントキラーズ\" \"select_label_1\" \"ブラックキラーズ\" \"select_label_2\" \"キラキラキラーズ\" \"select_label_3\"\n私はこれに属しています\n"
+	},
+	{
+		"ID": 4403,
+		"unitID": 2302511,
+		"questionID": 9302538,
+		"script": ";;アスカロン,2\n# textflame 1 1\n@ミネルヴァ\nマスター、\nクイズをしていきませんか？\n\n# eye %(unit_a)s \"close\"\n@ミネルヴァ\n知恵は知識に\n通ずるものがあります\n\n# eye %(unit_a)s \"normal\"\n@ミネルヴァ\n知恵はたしかに尊いものですが\nただ持っているだけでは不十分です\n\n# face 2302511 \"smile\"\n@ミネルヴァ\n必要な時に使いこなせてこそ\n知恵は本当の力となります\n\n# voice 3025 \"minerva_0002\"\n# face 2302511 \"normal\"\n@ミネルヴァ\nそれでは、出題しますね\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私と同じ血液型なのは\n誰でしょうか？\n\n# se \"SE_0734\"\n# select \"シユウ\" \"select_label_1\" \"アスカロン\" \"select_label_2\" \"アフロディーテ\" \"select_label_3\"\n私と同じ血液型なのは\n誰でしょうか？\n"
+	},
+	{
+		"ID": 4404,
+		"unitID": 2302511,
+		"questionID": 9302539,
+		"script": ";;シユウ,3\n# textflame 1 1\n@ミネルヴァ\nマスター、\nクイズをしていきませんか？\n\n# eye %(unit_a)s \"close\"\n@ミネルヴァ\n知恵は知識に\n通ずるものがあります\n\n# eye %(unit_a)s \"normal\"\n@ミネルヴァ\n知恵はたしかに尊いものですが\nただ持っているだけでは不十分です\n\n# face 2302511 \"smile\"\n@ミネルヴァ\n必要な時に使いこなせてこそ\n知恵は本当の力となります\n\n# voice 3025 \"minerva_0002\"\n# face 2302511 \"normal\"\n@ミネルヴァ\nそれでは、出題しますね\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私と違う血液型なのは誰でしょうか？\n\n# se \"SE_0734\"\n# select \"フォルカス\" \"select_label_1\" \"アスカロン\" \"select_label_2\" \"シユウ\" \"select_label_3\"\n私と違う血液型なのは誰でしょうか？\n"
+	},
+	{
+		"ID": 4405,
+		"unitID": 2302511,
+		"questionID": 9302540,
+		"script": ";;弓ユニット,1\n# textflame 1 1\n@ミネルヴァ\nマスター、\nクイズをしていきませんか？\n\n# eye %(unit_a)s \"close\"\n@ミネルヴァ\n知恵は知識に\n通ずるものがあります\n\n# eye %(unit_a)s \"normal\"\n@ミネルヴァ\n知恵はたしかに尊いものですが\nただ持っているだけでは不十分です\n\n# face 2302511 \"smile\"\n@ミネルヴァ\n必要な時に使いこなせてこそ\n知恵は本当の力となります\n\n# voice 3025 \"minerva_0002\"\n# face 2302511 \"normal\"\n@ミネルヴァ\nそれでは、出題しますね\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私は竜タイプのユニットなので、\nこのユニットに弱いですね\n\n# se \"SE_0734\"\n# select \"弓ユニット\" \"select_label_1\" \"剣ユニット\" \"select_label_2\" \"斧ユニット\" \"select_label_3\"\n私は竜タイプのユニットなので、\nこのユニットに弱いですね\n"
+	},
+	{
+		"ID": 4406,
+		"unitID": 2302511,
+		"questionID": 9302541,
+		"script": "\n;;私,1\n# se \"SE_0734\"\n# select \"私\" \"select_label_1\" \"オレ\" \"select_label_2\" \"あちき\" \"select_label_3\"\nミネルヴァの一人称は\n次のうちどれ？\n"
+	},
+	{
+		"ID": 4407,
+		"unitID": 2302511,
+		"questionID": 9302542,
+		"script": "\n;;マスター,1\n# se \"SE_0734\"\n# select \"マスター\" \"select_label_1\" \"お前\" \"select_label_2\" \"アンタ\" \"select_label_3\"\nミネルヴァはアンタのこと、\nなんて呼んでる？\n"
+	},
+	{
+		"ID": 4408,
+		"unitID": 2302511,
+		"questionID": 9302543,
+		"script": "\n;;78cm,2\n# se \"SE_0734\"\n# select \"85cm\" \"select_label_1\" \"78cm\" \"select_label_2\" \"90cm\" \"select_label_3\"\nミネルヴァの\nバストサイズがどのくらいか\nアンタ…知ってるの？\n"
+	},
+	{
+		"ID": 4409,
+		"unitID": 2302511,
+		"questionID": 9302544,
+		"script": "\n;;56cm,2\n# se \"SE_0734\"\n# select \"60cm\" \"select_label_1\" \"56cm\" \"select_label_2\" \"62cm\" \"select_label_3\"\nミネルヴァの\nウエストサイズがどのくらいか\nアンタ…知ってるの？\n"
+	},
+	{
+		"ID": 4410,
+		"unitID": 2302511,
+		"questionID": 9302545,
+		"script": "\n;;79cm,3\n# se \"SE_0734\"\n# select \"84cm\" \"select_label_1\" \"87cm\" \"select_label_2\" \"79cm\" \"select_label_3\"\nミネルヴァの\nヒップサイズがどのくらいか\nアンタ…知ってるの？\n"
+	},
+	{
+		"ID": 4411,
+		"unitID": 2302511,
+		"questionID": 9302546,
+		"script": "\n;;43kg,3\n# se \"SE_0734\"\n# select \"52kg\" \"select_label_1\" \"42kg\" \"select_label_2\" \"43kg\" \"select_label_3\"\nミネルヴァの体重は\n次のうちどれ？\n"
+	},
+	{
+		"ID": 4412,
+		"unitID": 2302511,
+		"questionID": 9302547,
+		"script": "\n;;213,1\n# se \"SE_0734\"\n# select \"213\" \"select_label_1\" \"228\" \"select_label_2\" \"233\" \"select_label_3\"\nミネルヴァの\nバスト＋ウエスト＋ヒップは\nいくつかわかる？\n"
+	},
+	{
+		"ID": 4413,
+		"unitID": 2302511,
+		"questionID": 9302548,
+		"script": "\n;;金,1\n# se \"SE_0734\"\n# select \"金\" \"select_label_1\" \"ピンク\" \"select_label_2\" \"赤\" \"select_label_3\"\nミネルヴァの髪の色は\n次のうちどれ？\n"
+	},
+	{
+		"ID": 4414,
+		"unitID": 2302511,
+		"questionID": 9302550,
+		"script": "\n;;小田果林,2\n# se \"SE_0734\"\n# select \"山田奈都美\" \"select_label_1\" \"小田果林\" \"select_label_2\" \"伊瀬茉莉也\" \"select_label_3\"\nミネルヴァの声優は誰？\n"
+	}
+]

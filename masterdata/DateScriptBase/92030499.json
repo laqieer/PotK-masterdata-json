@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 92030499,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# se \"SE_0732\"\n# textflame 1 1\n# face %(unit_a)s \"shy\"\n@リサナウト\n…その答え\n\n# face %(unit_a)s \"normal\"\n# voice 2030 \"risanautr_l_0020\"\n@リサナウト\n大正解！\n\n@リサナウト\nさすがは当主様！\n\n@リサナウト\n約束通り、\n１００ポイントあげるわ！\n\n# textflame 0 0\n@\nだから、なんのポイント…？\nと不思議そうに尋ねるマスター\n\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 2030 \"risanautr_l_0042\"\n@リサナウト\nそれは…\n\n@リサナウト\n来年の夏も、\n再来年の夏も\n\n# face %(unit_a)s \"normal\"\n# voice 2030 \"risanautr_l_0004\"\n@リサナウト\nずっと当主様の\n隣にいてあげるというポイントよ！\n\n@リサナウト\nこれは確定事象だから！\nいいわね？\n\n# textflame 0 0\n@\n嬉しそうに微笑むリサナウト\n\n@\nその笑顔は、1万ポイント以上の\n価値があると思うマスターだった\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 200724,
+		"script": "# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_drive\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 2007 \"sharuuru_0024\"\n@シャルウル\nまさかこの世界に\n新たな病原菌が…？\n\n# voice 2007 \"sharuuru_0012\"\n# face %(unit_a)s \"angry\"\n# textflame 1 1\n@シャルウル\n急いで調査に向かいましょう！\nこうしている間にも、事態は\n悪化しているかもしれません！\n\n# textflame 1 1\n@シャルウル\n車を飛ばして下さい、マスター！\nナビゲートは私が！\n\n# textflame 0 0\n@\nこうしてふたりは深夜のハイウェイを\n風となって走り続けたのだった…\n;;----------------------------------------\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

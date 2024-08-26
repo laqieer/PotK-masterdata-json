@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 104623,
+		"script": ";;C\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_fireworks\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# face %(unit_a)s \"normal\"\n# voice 510461 \"murgleys_c_0001\"\n# textflame 1 1\n@ミュルグレス\nんっ\nだんちょー、どこ行くの？\n\n@ミュルグレス\nカステラを\n買いに行ってくるって？\n\n# face %(unit_a)s \"angry\"\n# voice 510461 \"murgleys_c_0003\"\n@ミュルグレス\nしゅしょーな心掛けは\n感心するけどさ～\nこのへんに売ってないでしょ\n\n@ミュルグレス\n………\n\n# face %(unit_a)s \"normal\"\n@ミュルグレス\nおかえり、だんちょー\n早かったね\n…これなに？\n\n# face %(unit_a)s \"happy\"\n# voice 510461 \"murgleys_c_0004\"\n@ミュルグレス\nわぁ、ちっちゃい！\n鈴みたいでカワイイし！\n\n# voice 510461 \"murgleys_c_0001\"\n@ミュルグレス\nねぇねぇ、これ\nミュルが食べていいんでしょ？\nいただきま～す\n\n@ミュルグレス\n…おいしい！\n\n# voice 510461 \"murgleys_c_0005\"\n@ミュルグレス\n高級カステラにも負けてないかも！\nよく知ってたわね\nだんちょー！\n\n@ミュルグレス\n…はい\nご褒美にひとつあげるわ\n\n@ミュルグレス\n花火なんて\nつまんなそーって\n思ってたけど\n\n@ミュルグレス\nやっぱり\nだんちょーに付いて来ると\nなんかいいことあるわね\n\n# voice 510461 \"murgleys_c_0004\"\n@ミュルグレス\nまた一緒に\n遊びに来てあげてもいいわよ？\n…そのときの機嫌次第だけどね\n\n# textflame 0 0\n@\nカステラを頬張り微笑むミュルグレス\nいつもどおりの\n邪悪な笑みが\n\n@\n花火の明かりに照らされて\n年頃の少女の\n無邪気な笑みにも見えた…\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

@@ -1,0 +1,26 @@
+[
+	{
+		"ID": 284,
+		"unitID": 2301711,
+		"scriptID": "kaerimichi",
+		"script": "1回しか言わないから…よく聞けよ\nそ、その…もう少し\n一緒にいてやってもいいぞ…"
+	},
+	{
+		"ID": 298,
+		"unitID": 2301711,
+		"scriptID": "kaeru",
+		"script": "今日はもうおしまいだ！\nなんだよ、その顔は\nまた遊んでやるから！"
+	},
+	{
+		"ID": 312,
+		"unitID": 2301711,
+		"scriptID": "kaeru_ok",
+		"script": "@%(unitName:unit_a)s\nお前のくせに生意気だな…！\n私の気が変わらんうちに\n早く行くぞ！"
+	},
+	{
+		"ID": 326,
+		"unitID": 2301711,
+		"scriptID": "kaeru_ng",
+		"script": "@%(unitName:unit_a)s\n今日は疲れた！\nお前も疲れただろう…！\nほら、帰るぞ！"
+	}
+]

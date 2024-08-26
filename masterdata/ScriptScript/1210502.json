@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 1210502,
+		"script": ";;■□■２－１改修案■□■\n;;【２－１－２（バトル後）】\n;;整形済み\n# script \"lisp\"\n# background \"ghost_town\"\n# bgm \"bgm003\" 0\n# textwindow \"nomal\"\n# body 24\n# pos 24 2\n# scale 24 0.8 0\n# alpha 24 1 0\n# body 0\n# pos 0 4\n# scale 0 0.8 0\n# alpha 0 1 0\n# textboxarrow 0 3\n# face 24 \"sad\"\n# face 0 \"angry\"\n# voice 9999 \"durin_0027\"\n@デュリン\n寄進っていうのはね…\nラグナロク教会を\n運営していくうえで大事な資金なの\n\n@デュリン\nタダで討伐したなんて\n噂が広まってごらんなさい？\n\n@デュリン\n寄進を納める人間なんて、\n大陸中からいなくなるわ\n\n# textboxarrow 0 1\n@ティルフィング\n資金が無ければ、\nラグナロク教会の運営が\n回らなくなる…\n\n# textboxarrow 0 3\n@デュリン\nそうなれば、アタシ達が動くことも\nままならなくなる…\n\n@デュリン\nつまり…異族が好き放題\n動き回る世の中になるってこと\n\n@デュリン\nアタシ達の軽はずみな行動が、\n世界に危機を招くことだって\nありえるのよ？\n\n# textboxarrow 0 1\n# face 24 \"sad\"\n# voice 1014 \"tyrufing_0058\"\n@ティルフィング\n…ごめんなさい\n\n@ティルフィング\nでも…キラープリンセス派遣申請に\n必要な高額な寄進を\n用立てられるとは思えないし…\n\n@ティルフィング\nそうしている間も、あの子は危険に…\n\n# textboxarrow 0 3\n# face 0 \"occur\"\n# voice 9999 \"durin_0027\"\n@デュリン\n“寄進は不要です”なんて、\nまた公言してみなさい…\n次は…絶対許さないからね\n\n# textboxarrow 0 1\n# face 24 \"surprise\"\n# voice 1014 \"tyrufing_0022\"\n@ティルフィング\nえ…？\n\n# textboxarrow 0 3\n# face 0 \"usual2\"\n# voice 9999 \"durin_0007\"\n@デュリン\n行くわよ\n早くしないと、アイツ…\n異族に喰われちゃうわ\n\n# alpha 0 0 1\n# waitandnext 1\n\n# textboxarrow 0 1\n# face 24 \"normal\"\n@ティルフィング\n…デュリン"
+	}
+]

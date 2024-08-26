@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 203112,
+		"script": ";;C\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_aquarium_day\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# face %(unit_a)s \"normal\"\n# voice 520311 \"nyoikinkobou_c_0022\"\n# textflame 1 1\n@如意金箍棒\nイルカのことをお師様と…？\n\n@如意金箍棒\nたしかに、相手がお師様なら\n加減もまちがえないと思うけど…\n\n@如意金箍棒\nそれで上手くいくかなぁ？\nまあ、試しにやってみるよ！\n\n# textflame 0 0\n@\nそして\nふれあいが終了する\n\n# face %(unit_a)s \"happy\"\n# voice 520311 \"nyoikinkobou_c_0005\"\n# textflame 1 1\n@如意金箍棒\nお師様～～～っ！\nやったよ、大成功だった♪\n\n@如意金箍棒\nこの子はお師様だって思ったら、\n不安だった気持ちが\nとたんに安心に変わって…！\n\n@如意金箍棒\nいっぱい触れたし、\n仲良く泳げたよ！\nすっごく楽しかった！\n\n# voice 520311 \"nyoikinkobou_c_0030\"\n@如意金箍棒\n本当にありがとう、お師様！\nぎゅうぅ～っ♪\n\n# face %(unit_a)s \"normal\"\n# voice 520311 \"nyoikinkobou_c_0023\"\n@如意金箍棒\n…あっ！！ご、ごめん！\nいきなり抱き着いちゃって…！\n\n@如意金箍棒\nさっきまで、\nイルカの方のお師様と\nスキンシップしてたから、つい…\n\n# voice 520311 \"nyoikinkobou_c_0022\"\n@如意金箍棒\nあ、あれ…お師様っ？\nどうしたの、しっかりして～！？\n\n# textflame 0 0\n@\n不意打ちのハグを受け、\nあまりの衝撃に\n放心してしまったマスター\n\n@\n水族館からの帰り道、\n二人の間には\nもじもじした空気が漂った…\n\n;;-----------------------------------------\n# waitandnext 2\n# fadeout \"black\" 1.2\n"
+	}
+]

@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 600221,
+		"script": ";;A そんなに面白い？（中）\n;;B 寝てる？（小）\n;;C （黙って見ていよう）（大）\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_fireworks\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 0 0\n# face %(unit_a)s \"usual\"\n@\nガンバンテインとのデートの帰り\n花火大会に来ていた\n\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n# voice 6002 \"ganbantein_0005\"\n@ガンバンテイン\nはぁ～綺麗だねー\nずっと見てたいなー\n\n# face %(unit_a)s \"usual\"\n@ガンバンテイン\n下の方は人いっぱいだねー\n\n# textflame 0 0\n@\nガンバンテインは人混みが\n苦手そうだったので、マスターは\nあえて遠目からの鑑賞にした\n\n# textflame 1 1\n@ガンバンテイン\nここは人もいないしー\nゆっくり見物できるねー\n\n# face %(unit_a)s \"smile\"\n# voice 6002 \"ganbantein_0021\"\n@ガンバンテイン\nほあぁ～…\n\n# face %(unit_a)s \"normal\"\n@ガンバンテイン\n…………\n\n# select \"そんなに面白い？\" \"select_label_01\" \"寝てる？\" \"select_label_02\" \"（黙って見ていよう）\" \"select_label_03\"\n…………\n\n# label \"select_label_01\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_02\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_03\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_end\"\n# waitandnext 0.1\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

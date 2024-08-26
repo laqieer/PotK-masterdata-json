@@ -1,0 +1,62 @@
+[
+	{
+		"ID": 4463,
+		"unitID": 2601711,
+		"questionID": 9601701,
+		"script": ";;杖,1\n# textflame 1 1\n# face 2601711 \"usual\"\n@アクア\nそうだわ！\nせっかく二人きりなんだし\nおしゃべりしましょう！\n\n@アクア\nどんな話題がいいかしら…\n\n# face 2601711 \"smile\"\n@アクア\nそうね…じゃあ、クイズよ！\n内容はこの私、アクア様について！\n\n# eye %(unit_a)s \"close\"\n@アクア\n私ほど崇高で名高い\n女神のことなんだから\n当然知ってるわよね？\n\n# eye %(unit_a)s \"usual\"\n@アクア\nじゃあ、問題\n行くわよ！\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の武具種はなんでしょう？\n\n# se \"SE_0734\"\n# select \"杖\" \"select_label_1\" \"銃\" \"select_label_2\" \"弓\" \"select_label_3\"\n私の武具種はなんでしょう？\n"
+	},
+	{
+		"ID": 4464,
+		"unitID": 2601711,
+		"questionID": 9601702,
+		"script": ";;アークプリースト,2\n# textflame 1 1\n# face 2601711 \"usual\"\n@アクア\nそうだわ！\nせっかく二人きりなんだし\nおしゃべりしましょう！\n\n@アクア\nどんな話題がいいかしら…\n\n# face 2601711 \"smile\"\n@アクア\nそうね…じゃあ、クイズよ！\n内容はこの私、アクア様について！\n\n# eye %(unit_a)s \"close\"\n@アクア\n私ほど崇高で名高い\n女神のことなんだから\n当然知ってるわよね？\n\n# eye %(unit_a)s \"usual\"\n@アクア\nじゃあ、問題\n行くわよ！\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の冒険者としての職業は\nどれかしら？\n\n# se \"SE_0734\"\n# select \"アークウィザード\" \"select_label_1\" \"アークプリースト\" \"select_label_2\" \"クルセイダー\" \"select_label_3\"\n私の冒険者としての職業は\nどれかしら？\n"
+	},
+	{
+		"ID": 4465,
+		"unitID": 2601711,
+		"questionID": 9601703,
+		"script": "\n;;氷,3\n# se \"SE_0734\"\n# select \"炎\" \"select_label_1\" \"雷\" \"select_label_2\" \"氷\" \"select_label_3\"\nこのすばコラボでの\nアクアの属性はどれ？\n"
+	},
+	{
+		"ID": 4466,
+		"unitID": 2601711,
+		"questionID": 9601704,
+		"script": ";;ダクネス,1\n# textflame 1 1\n# face 2601711 \"usual\"\n@アクア\nねえ、マスター\n\n@アクア\nちょっと気になったんだけど…\n\n@アクア\nあなた、私のこと\nどれくらい分かってるのかしら？\n\n@アクア\n試しにクイズを出してみるから\n答えてみて\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私と一緒に\nこの世界にやってきたのは？\n\n# se \"SE_0734\"\n# select \"ダクネス\" \"select_label_1\" \"ダウネス\" \"select_label_2\" \"サクセス\" \"select_label_3\"\n私と一緒に\nこの世界にやってきたのは？\n"
+	},
+	{
+		"ID": 4467,
+		"unitID": 2601711,
+		"questionID": 9601705,
+		"script": "\n;;花鳥風月,2\n# se \"SE_0734\"\n# select \"暗夜行路\" \"select_label_1\" \"花鳥風月\" \"select_label_2\" \"明鏡止水\" \"select_label_3\"\nアクアのこのすば世界の\n自慢のスキルはどれ？\n"
+	},
+	{
+		"ID": 4468,
+		"unitID": 2601711,
+		"questionID": 9601706,
+		"script": ";;アクシズ教,3\n# textflame 1 1\n# face 2601711 \"smile\"\n# voice 6017 \"akua_0047\"\n@アクア\nあー、楽しかったわね！\n\n# face 2601711 \"usual\"\n@アクア\nねえ、楽しかったついでに\nちょっとクイズに\n付き合ってくれない？\n\n@アクア\n問題はこの私について\n\n# face 2601711 \"irregular\"\n@アクア\n女神である私に\n尊敬と感謝の念を持っていれば\n簡単に答えられる内容だから安心して\n\n# face 2601711 \"usual\"\n@アクア\nじゃあ、いい？\n行くわよ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私は何教の御神体か、\nもちろん知ってるわよね？\n\n# se \"SE_0734\"\n# select \"アクア教\" \"select_label_1\" \"ラグナロク教\" \"select_label_2\" \"アクシズ教\" \"select_label_3\"\n私は何教の御神体か、\nもちろん知ってるわよね？\n"
+	},
+	{
+		"ID": 4469,
+		"unitID": 2601711,
+		"questionID": 9601707,
+		"script": ";;水色,1\n# textflame 1 1\n# voice 6017 \"akua_0044\"\n@アクア\nねえ、マスター\nちょっといい？\n\n# eye %(unit_a)s \"close\"\n@アクア\nあのね、ほら\n私って女神じゃない？\n\n# eye %(unit_a)s \"normal\"\n# face 2601711 \"irregular\"\n@アクア\nだから、女神として\n世の中からもっと\n尊敬されるべきだと思うのよ\n\n# face 2601711 \"usual\"\n@アクア\nそこで、まず\nあなたの私に対する尊敬の念を\n試させてもらいたいの\n\n@アクア\n簡単なことよ\n私に関する質問に\n答えてくれればいいだけだから\n\n# voice 6017 \"akua_0078\"\n@アクア\nじゃあ、行くわよ\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の髪の色は…？\n\n# se \"SE_0734\"\n# select \"水色\" \"select_label_1\" \"土色\" \"select_label_2\" \"緑色\" \"select_label_3\"\n私の髪の色は…？\n"
+	},
+	{
+		"ID": 4470,
+		"unitID": 2601711,
+		"questionID": 9601708,
+		"script": ";;水,2\n# textflame 1 1\n# voice 6017 \"akua_0044\"\n@アクア\nねえ、マスター\nちょっといい？\n\n# eye %(unit_a)s \"close\"\n@アクア\nあのね、ほら\n私って女神じゃない？\n\n# eye %(unit_a)s \"normal\"\n# face 2601711 \"irregular\"\n@アクア\nだから、女神として\n世の中からもっと\n尊敬されるべきだと思うのよ\n\n# face 2601711 \"usual\"\n@アクア\nそこで、まず\nあなたの私に対する尊敬の念を\n試させてもらいたいの\n\n@アクア\n簡単なことよ\n私に関する質問に\n答えてくれればいいだけだから\n\n# voice 6017 \"akua_0078\"\n@アクア\nじゃあ、行くわよ\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私は何を司る女神でしょう？\n\n# se \"SE_0734\"\n# select \"土\" \"select_label_1\" \"水\" \"select_label_2\" \"火\" \"select_label_3\"\n私は何を司る女神でしょう？\n"
+	},
+	{
+		"ID": 4471,
+		"unitID": 2601711,
+		"questionID": 9601709,
+		"script": "\n;;私,3\n# se \"SE_0734\"\n# select \"僕\" \"select_label_1\" \"アクア\" \"select_label_2\" \"私\" \"select_label_3\"\nアクアの一人称は\n次のうちどれ？\n"
+	},
+	{
+		"ID": 4472,
+		"unitID": 2601711,
+		"questionID": 9601710,
+		"script": "\n;;雨宮天,1\n# se \"SE_0734\"\n# select \"雨宮天\" \"select_label_1\" \"高橋李依\" \"select_label_2\" \"茅野愛衣\" \"select_label_3\"\nアクアの声優は誰？\n"
+	}
+]

@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 93006199,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# se \"SE_0732\"\n# voice 3006 \"torisyula_0041\"\n@トリシューラ\nやるじゃないか！\n\n# textflame 1 1\n@トリシューラ\nいやはや、\nあんたのこと見くびってたよ\n\n# textflame 1 1\n@トリシューラ\nさすがはあたいのマスター！\nそうでなくっちゃね！\n\n# voice 3006 \"torisyula_0005\"\n# textflame 1 1\n@トリシューラ\nはっはっはっ！\n\n# textflame 0 0\n@\n思いっきり笑うトリシューラの\n表情はとても楽しげだ\n\n# textflame 0 0\n@\nこれできっと、\n彼女との絆も深まっただろう\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

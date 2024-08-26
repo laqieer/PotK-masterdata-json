@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 93018398,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# se \"SE_0733\"\n# face %(unit_a)s \"sad\"\n# voice 3018 \"forcas_0013\"\n@フォルカス\nむ…\n\n# textflame 1 1\n@フォルカス\nあ…えっと…不正解です…\n\n# textflame 1 1\n@フォルカス\nその、あんまり\n気にしないでください…\n\n# textflame 1 1\n@フォルカス\n今回はその、たまたま、\n運が悪かっただけだと\n思いますから…\n\n# textflame 0 0\n@\n違う\n運が悪かったからじゃない\n\n# textflame 0 0\n@\n単に、彼女のことを\nよく知ろうとしなかった\n自分が原因だ…\n\n# textflame 0 0\n@\n今度はきちんと正解できるよう、\n予習を怠らないようにしよう…\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

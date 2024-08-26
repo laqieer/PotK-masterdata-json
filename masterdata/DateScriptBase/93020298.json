@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 93020298,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# se \"SE_0733\"\n# face %(unit_a)s \"sad\"\n# voice 3020 \"pisear_0019\"\n@ピサール\nへえ…分からないんだ～\n\n@ピサール\nなんだかショックだなあ～\n\n@ピサール\nま、でもそういうこともあるよね\n今回はたまたま不正解\nってだけだったんだよ、きっと\n\n@ピサール\nそれじゃ、帰ろっか～\n\n# voice 3020 \"pisear_event_1006\"\n@ピサール\n…次は、正解してくれるよね～？\n\n@\nピサールは真剣な表情で\n見つめてくる\n\n# textflame 0 0\n@\nピサールの期待に\n添えなかったことが情けない…\n\n# textflame 0 0\n@\nだから彼女をもっとよく知ろうと、\n決意するマスターであった\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

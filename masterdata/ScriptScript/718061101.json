@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 718061101,
+		"script": "# script \"lisp\"\n# background \"2nd_anniversary_mypage\"\n# bgm \"bgm002\" 0\n# textwindow \"nomal\"\n# body 3300111\n# pos 3300111 4\n# scale 3300111 0.8 0\n# alpha 3300111 0 0\n# body 3102511\n# pos 3102511 2\n# scale 3102511 0.8 0\n# alpha 3102511 0 0\n# body 400771\n# pos 400771 4\n# scale 400771 0.8 0\n# body 401721\n# pos 401721 2\n# scale 401721 0.8 0\n# textwindow \"nomal\"\n# textflame 0 0\n# textalign \"center\"\n@\nファンキルフレンドシップツアー\n記念キャンペーン\n開催\n\n# voice 4017 \"suiha_0004\"\n# voicedelay 4007 \"shekina_0004\" 0.5\n# face 400771 \"happy\"\n# face 401721 \"happy\"\n# textwindow \"nomal\"\n# textflame 0 0\n# textalign \"center\"\n@\nカウントダウンガチャは\n姫石5個で10連ガチャ！\n引ける回数が毎日増加！\n\n# se \"SE_0647\"\n# fadein \"white\" 0.5\n# alpha 400771 0 0\n# alpha 401721 0 0\n# alpha 3300111 1 0\n# alpha 3102511 1 0\n# textwindow \"nomal\"\n# textflame 0 0\n# textalign \"center\"\n@\n毎日1回無料10連ガチャは\n多くの育成素材や\nユニットが手に入る！！\n\n# voice 310251 \"muramasa_ge_0004\"\n# voicedelay 330011 \"ronginusu_t_0004\" 0.5\n# face 3102511 \"happy\"\n# face 3300111 \"happy\"\n# textwindow \"nomal\"\n# textflame 0 0\n# textalign \"center\"\n@\n他にも\n共鳴率アップキャンペーンや\n「ラグナロクからの指令」が復刻\n\n# alpha 3300111 0 0.5\n# alpha 3102511 0 0.5\n# textwindow \"nomal\"\n# textflame 0 0\n# textalign \"center\"\n@\n詳しい内容は\nお知らせをチェック"
+	}
+]

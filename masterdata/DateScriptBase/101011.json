@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 101011,
+		"script": ";;それは君のせい,中\n;;それは風のせい,大\n;;それは恋のせい,小\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background %(background)s\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 0 0\n@\nマスターは\nフラガラッハを誘って\n公園にやってきた\n\n# textflame 1 1\n@フラガラッハ\nこうして心地よい風に吹かれて…\n大切なあなたと並んで歩く…\n\n@フラガラッハ\nこんなに美しい朝は\nそうそうありませんわ\n;;----------------------------------------\n\n# voice 1010 \"furagaraha_0001\"\n# textflame 1 1\n@%(unitName:unit_a)s\nマスターもそう思いませんか？\n\n# select \"それは君のせい\" \"select_label_01\" \"それは風のせい\" \"select_label_02\" \"それは恋のせい\" \"select_label_03\"\nマスターもそう思いませんか？\n\n# label \"select_label_01\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_02\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_03\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_end\"\n# waitandnext 0.1\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 92030498,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# se \"SE_0733\"\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n@リサナウト\n………\n\n@リサナウト\nその答え…\n\n# voice 2030 \"risanautr_l_0028\"\n@リサナウト\n不正解！\n\n@リサナウト\nということで、残念！\n０ポイントね！\n\n# textflame 0 0\n@\nだから、なんのポイントなの？\nと不思議そうに尋ねるマスター\n\n# face %(unit_a)s \"shy\"\n# voice 2030 \"risanautr_l_0042\"\n# textflame 1 1\n@リサナウト\nそれは…\n\n@リサナウト\n来年の夏も、\n再来年の夏も\n\n@リサナウト\nずっと当主様の\n隣にいてあげるという\nポイントだったけど…\n\n# face %(unit_a)s \"sad\"\n# voice 2030 \"risanautr_l_0028\"\n@リサナウト\n０ポイントの当主様の\n隣にいられるかは、\n約束できないわね\n\n# textflame 0 0\n@\nおどけて見せているが、\nその目は悲しそうで\n\n@\nマスターは、彼女を\n喜ばせてあげられなかったことを\n深く後悔するのだった…\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

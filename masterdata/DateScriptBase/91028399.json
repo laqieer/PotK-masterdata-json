@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 91028399,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# se \"SE_0732\"\n@ダーインスレイヴ\nおぬし…\n\n@ダーインスレイヴ\nいきなりのクイズにも\n心乱さず正解するとは\n\n# voice 1028 \"dainsleif_0040\"\n# face %(unit_a)s \"normal\"\n@ダーインスレイヴ\nなかなかの男前だな\n\n# face %(unit_a)s \"usual\"\n@ダーインスレイヴ\nやはり、\nわたしが付いて行くのは\nおぬしのような心が男前な人\n\n@ダーインスレイヴ\nおぬしの前なら不思議と…\n\n# voice 1028 \"dainsleif_0005\"\n# face %(unit_a)s \"normal\"\n@ダーインスレイヴ\nわたしは\n女らしくなれる\n気がするのだ…\n\n# textflame 0 0\n@\n…と、照れた笑顔は\nとても女性らしい\n可愛さに満ちていて…\n\n@\nマスターは彼女との絆が\nまた深まったのを実感した…\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

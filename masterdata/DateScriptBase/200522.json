@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 200522,
+		"script": ";;選択肢B(大当たり)\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_drive\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# voice 2005 \"mitwumu_0001\"\n@ミトゥム\n…晩飯まだだろ、マスター\n\n# textflame 0 0\n@\nミトゥムは助手席で\nなにやら広げ始めた\n\n# voice 2005 \"mitwumu_0004\"\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@ミトゥム\nサンドイッチ…\nシタ姉ちゃんが\n持ってけって…\n\n# face %(unit_a)s \"normal\"\n@ミトゥム\nあ、姉ちゃんの菜園の\n野菜ばっかりだから！\n肉は期待すんなよ！\n\n# textflame 0 0\n@\nミトゥムはサンドイッチを\n一切れつかむと\nマスターを上目遣いで見つめる\n\n# voice 2005 \"mitwumu_0029\"\n# eye %(unit_a)s \"close\"\n# textflame 1 1\n@ミトゥム\n運転してると食えないだろ\n仕方ないからミトゥム様が\n食わせてやる！\n\n# eye %(unit_a)s \"normal\"\n@ミトゥム\n…ほら…あ～～ん\n\n# textflame 0 0\n@\n片目で前を確認しながらだと\n距離感がつかみにくく…\n\n@\nほんの少し少しだけ\nミトゥムの指に口が触れてしまった\n\n# voice 2005 \"mitwumu_0008\"\n# face %(unit_a)s \"angry\"\n# textflame 1 1\n@ミトゥム\nあ、食べたら、前向け前っ！\n\n# textflame 0 0\n@\nごめんごめんと\n指摘されて前を向こうとした瞬間…\n\n@\n視界の隅に\n顔を赤らめて指先を見つめる\nミトゥムが見えた…気がした――\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

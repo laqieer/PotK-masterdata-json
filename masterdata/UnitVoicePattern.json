@@ -1,0 +1,4760 @@
+[
+	{
+		"ID": 1,
+		"dead_message": "拙者が背負いし名にかけて…\nここで倒れるわけには…",
+		"file_name": "VO_1001",
+		"selector_label": 1
+	},
+	{
+		"ID": 2,
+		"dead_message": "なんたる不覚だ…！",
+		"file_name": "VO_1001",
+		"selector_label": 2
+	},
+	{
+		"ID": 3,
+		"dead_message": "なんだっ…この沈みゆく感覚は…",
+		"file_name": "VO_310011",
+		"selector_label": 1
+	},
+	{
+		"ID": 4,
+		"dead_message": "おのれ…おのれぇ…！",
+		"file_name": "VO_10016",
+		"selector_label": 1
+	},
+	{
+		"ID": 5,
+		"dead_message": "おのれ…おのれぇ…！",
+		"file_name": "VO_10016",
+		"selector_label": 2
+	},
+	{
+		"ID": 6,
+		"dead_message": "なんだっ…この沈みゆく感覚は…",
+		"file_name": "VO_310011",
+		"selector_label": 2
+	},
+	{
+		"ID": 7,
+		"dead_message": "拙者もまだまだ、己の色を極めておらぬようだな…",
+		"file_name": "VO_510013",
+		"selector_label": 1
+	},
+	{
+		"ID": 8,
+		"dead_message": "しばらくサボってる間に…\n鈍っちゃったかな…？",
+		"file_name": "VO_1002",
+		"selector_label": 1
+	},
+	{
+		"ID": 9,
+		"dead_message": "見ないでよ、こんなの…痛くないし…",
+		"file_name": "VO_10024",
+		"selector_label": 1
+	},
+	{
+		"ID": 10,
+		"dead_message": "くっ…、なんなの…？",
+		"file_name": "VO_1002",
+		"selector_label": 2
+	},
+	{
+		"ID": 11,
+		"dead_message": "がはっ…。ぐぅぅぅ…",
+		"file_name": "VO_10028",
+		"selector_label": 1
+	},
+	{
+		"ID": 12,
+		"dead_message": "見ないでよ…こんなの･･･痛くないし…",
+		"file_name": "VO_10024",
+		"selector_label": 2
+	},
+	{
+		"ID": 13,
+		"dead_message": "ごめん…みんな…",
+		"file_name": "VO_310021",
+		"selector_label": 1
+	},
+	{
+		"ID": 14,
+		"dead_message": "見ないでよ、こんなの…痛くないし…",
+		"file_name": "VO_10024",
+		"selector_label": 3
+	},
+	{
+		"ID": 15,
+		"dead_message": "がはっ…。ぐぅぅぅ…",
+		"file_name": "VO_10028",
+		"selector_label": 2
+	},
+	{
+		"ID": 16,
+		"dead_message": "ごめん…みんな…",
+		"file_name": "VO_310021",
+		"selector_label": 2
+	},
+	{
+		"ID": 17,
+		"dead_message": "先に帰ってるから…",
+		"file_name": "VO_510023",
+		"selector_label": 1
+	},
+	{
+		"ID": 18,
+		"dead_message": "たとえこの身が朽ちようとも、\n心だけは折れませんわよ…",
+		"file_name": "VO_1003",
+		"selector_label": 1
+	},
+	{
+		"ID": 19,
+		"dead_message": "次は必ず…絶望に染まった姿を、ご覧に入れたいものですわね…",
+		"file_name": "VO_310031",
+		"selector_label": 1
+	},
+	{
+		"ID": 20,
+		"dead_message": "油断大敵…しくじった…\nだが、膝をつくにはまだ早い！",
+		"file_name": "VO_1004",
+		"selector_label": 1
+	},
+	{
+		"ID": 21,
+		"dead_message": "これしきのことで…\n私の炎は消えないぞ！",
+		"file_name": "VO_1005",
+		"selector_label": 1
+	},
+	{
+		"ID": 22,
+		"dead_message": "私の…聖域が…",
+		"file_name": "VO_1005",
+		"selector_label": 2
+	},
+	{
+		"ID": 23,
+		"dead_message": "私としたことが、なんたる屈辱…",
+		"file_name": "VO_310051",
+		"selector_label": 1
+	},
+	{
+		"ID": 24,
+		"dead_message": "やばいなぁ…\nこのままいいとこなしだと\n見捨てられちゃう…",
+		"file_name": "VO_1006",
+		"selector_label": 1
+	},
+	{
+		"ID": 25,
+		"dead_message": "…やだよ…置いて行かれちゃう…",
+		"file_name": "VO_1006",
+		"selector_label": 2
+	},
+	{
+		"ID": 26,
+		"dead_message": "…やだよ…置いて行かれちゃう…",
+		"file_name": "VO_1006",
+		"selector_label": 3
+	},
+	{
+		"ID": 27,
+		"dead_message": "私の方が贖罪されたようですね…",
+		"file_name": "VO_310061",
+		"selector_label": 1
+	},
+	{
+		"ID": 28,
+		"dead_message": "この程度……想定の…\n範囲内…です",
+		"file_name": "VO_1007",
+		"selector_label": 1
+	},
+	{
+		"ID": 29,
+		"dead_message": "くっ…一旦、持ち帰らせて、もらいます…！",
+		"file_name": "VO_1007",
+		"selector_label": 2
+	},
+	{
+		"ID": 30,
+		"dead_message": "この程度……想定の…\n範囲内…です",
+		"file_name": "VO_1007",
+		"selector_label": 3
+	},
+	{
+		"ID": 31,
+		"dead_message": "すみません、マスター…\nこれでは、騎士失格…です…",
+		"file_name": "VO_310071",
+		"selector_label": 1
+	},
+	{
+		"ID": 32,
+		"dead_message": "すみません、マスター…\nこれでは、騎士失格…です…",
+		"file_name": "VO_310071",
+		"selector_label": 2
+	},
+	{
+		"ID": 33,
+		"dead_message": "やっと心が許せる人に\n出会えたのに…\nこんな所じゃ死ねないよ",
+		"file_name": "VO_1008",
+		"selector_label": 1
+	},
+	{
+		"ID": 34,
+		"dead_message": "ぐぅ…！　って、だめだめ、平常心平常心…",
+		"file_name": "VO_1008",
+		"selector_label": 2
+	},
+	{
+		"ID": 35,
+		"dead_message": "そんな…私には、勝利の剣が…",
+		"file_name": "VO_310081",
+		"selector_label": 1
+	},
+	{
+		"ID": 36,
+		"dead_message": "ごめんなさい…\n私、またマスターを、守れなくて…。\n今度こそは…守ろうって…決めてたのに…",
+		"file_name": "VO_1009",
+		"selector_label": 1
+	},
+	{
+		"ID": 37,
+		"dead_message": "…やっぱり、花は摘み取られるものなのね…",
+		"file_name": "VO_310091",
+		"selector_label": 1
+	},
+	{
+		"ID": 38,
+		"dead_message": "わたしは、必ず…\nマスターの元へ帰らなければ\nならないの…",
+		"file_name": "VO_1010",
+		"selector_label": 1
+	},
+	{
+		"ID": 39,
+		"dead_message": "栄光の鞘なき私には、\nやはり無理だというの…？",
+		"file_name": "VO_1011",
+		"selector_label": 1
+	},
+	{
+		"ID": 40,
+		"dead_message": "至らぬ私をお許しください、マスター…",
+		"file_name": "VO_310111",
+		"selector_label": 1
+	},
+	{
+		"ID": 41,
+		"dead_message": "ふ…\n全然気持ちよくないわ…！\nやっぱりあたしはドSね…！",
+		"file_name": "VO_1012",
+		"selector_label": 1
+	},
+	{
+		"ID": 42,
+		"dead_message": "これしき…研究さえ…\n成功すれば…治せる…",
+		"file_name": "VO_1013",
+		"selector_label": 1
+	},
+	{
+		"ID": 43,
+		"dead_message": "配合を、間違えたか…",
+		"file_name": "VO_310131",
+		"selector_label": 1
+	},
+	{
+		"ID": 44,
+		"dead_message": "まだよ…この程度じゃ、\nオリジナルになんてなれない…",
+		"file_name": "VO_1014",
+		"selector_label": 1
+	},
+	{
+		"ID": 45,
+		"dead_message": "うそ…私が…そんな…っ…",
+		"file_name": "VO_10147",
+		"selector_label": 1
+	},
+	{
+		"ID": 46,
+		"dead_message": "…どうしてでしょう…とても…懐かしい匂いがする…",
+		"file_name": "VO_1014",
+		"selector_label": 2
+	},
+	{
+		"ID": 47,
+		"dead_message": "うそ…私が…そんな…っ…",
+		"file_name": "VO_10147",
+		"selector_label": 2
+	},
+	{
+		"ID": 48,
+		"dead_message": "うそ…私が…そんな…っ…",
+		"file_name": "VO_10147",
+		"selector_label": 3
+	},
+	{
+		"ID": 49,
+		"dead_message": "私には成さねばならないことがあるというのに…",
+		"file_name": "VO_310141",
+		"selector_label": 1
+	},
+	{
+		"ID": 50,
+		"dead_message": "ああ…ここで枯れゆく…運命なのですね…",
+		"file_name": "VO_510143",
+		"selector_label": 1
+	},
+	{
+		"ID": 51,
+		"dead_message": "想像以上です…こんなに闇が広がっているなんて…",
+		"file_name": "VO_1014",
+		"selector_label": 3
+	},
+	{
+		"ID": 52,
+		"dead_message": "くっ…ぅ…こんなのは痛くないよ。だって、負けてないから！",
+		"file_name": "VO_1015",
+		"selector_label": 1
+	},
+	{
+		"ID": 53,
+		"dead_message": "くっ…、まだまだ鍛錬が足りてなかった…かな…",
+		"file_name": "VO_50221",
+		"selector_label": 1
+	},
+	{
+		"ID": 54,
+		"dead_message": "まさか…\nオレが負けたってのか…？",
+		"file_name": "VO_1016",
+		"selector_label": 1
+	},
+	{
+		"ID": 55,
+		"dead_message": "まだよ……私はまだ戦えるわ…\nねぇ、レクシーダ……",
+		"file_name": "VO_1017",
+		"selector_label": 1
+	},
+	{
+		"ID": 56,
+		"dead_message": "ごめん…\nオフもらってもいいかなぁ…",
+		"file_name": "VO_1018",
+		"selector_label": 1
+	},
+	{
+		"ID": 57,
+		"dead_message": "ちょっとタイム～！　水分補給させてぇ～",
+		"file_name": "VO_310181",
+		"selector_label": 1
+	},
+	{
+		"ID": 58,
+		"dead_message": "こんなところで…倒れるわけには…",
+		"file_name": "VO_1019",
+		"selector_label": 1
+	},
+	{
+		"ID": 59,
+		"dead_message": "ゴメン。バカだよね、私。\nあんたを守れなかった…",
+		"file_name": "VO_1020",
+		"selector_label": 1
+	},
+	{
+		"ID": 60,
+		"dead_message": "ゴメン。バカだよね、私。\nあんたを守れなかった…",
+		"file_name": "VO_1020",
+		"selector_label": 2
+	},
+	{
+		"ID": 61,
+		"dead_message": "マスター…、\nめんま苦しい…",
+		"file_name": "VO_1021",
+		"selector_label": 1
+	},
+	{
+		"ID": 62,
+		"dead_message": "マスター…。\nめんま、苦しいよぉ…",
+		"file_name": "VO_60091",
+		"selector_label": 1
+	},
+	{
+		"ID": 63,
+		"dead_message": "くっ…こんなはずでは…",
+		"file_name": "VO_1022",
+		"selector_label": 1
+	},
+	{
+		"ID": 64,
+		"dead_message": "これじゃ…\n呪いに勝てない…よ…",
+		"file_name": "VO_1023",
+		"selector_label": 1
+	},
+	{
+		"ID": 65,
+		"dead_message": "私の…氷が…砕けた…？\nそんなっ、噓です…",
+		"file_name": "VO_310231",
+		"selector_label": 1
+	},
+	{
+		"ID": 66,
+		"dead_message": "私の…氷が…砕けた…？\nそんなっ、噓です…",
+		"file_name": "VO_310231",
+		"selector_label": 2
+	},
+	{
+		"ID": 67,
+		"dead_message": "くっ…不覚！",
+		"file_name": "VO_1024",
+		"selector_label": 1
+	},
+	{
+		"ID": 68,
+		"dead_message": "くっ…鬼火ちゃん…また反省会…だね…",
+		"file_name": "VO_1025",
+		"selector_label": 1
+	},
+	{
+		"ID": 69,
+		"dead_message": "いたた…まだ未熟ということですね…",
+		"file_name": "VO_1025",
+		"selector_label": 2
+	},
+	{
+		"ID": 70,
+		"dead_message": "牙が…牙が折れてしまいました…",
+		"file_name": "VO_310251",
+		"selector_label": 1
+	},
+	{
+		"ID": 71,
+		"dead_message": "悔しい…傷を受けるなんて…",
+		"file_name": "VO_1026",
+		"selector_label": 1
+	},
+	{
+		"ID": 72,
+		"dead_message": "この右腕をしても…傷を負うとは…くっ…",
+		"file_name": "VO_1027",
+		"selector_label": 1
+	},
+	{
+		"ID": 73,
+		"dead_message": "わたしの手から逃れる敵がいるとはな…",
+		"file_name": "VO_1028",
+		"selector_label": 1
+	},
+	{
+		"ID": 74,
+		"dead_message": "掲げた覚悟は…決して散りはしない…！",
+		"file_name": "VO_1028",
+		"selector_label": 2
+	},
+	{
+		"ID": 75,
+		"dead_message": "どうして…ワタシ、こんなにがんばったのに…",
+		"file_name": "VO_1031",
+		"selector_label": 1
+	},
+	{
+		"ID": 76,
+		"dead_message": "この借りは必ず返すんだから！",
+		"file_name": "VO_1032",
+		"selector_label": 1
+	},
+	{
+		"ID": 77,
+		"dead_message": "ヴェテル…様…申し訳ありません…",
+		"file_name": "VO_1033",
+		"selector_label": 1
+	},
+	{
+		"ID": 78,
+		"dead_message": "はぁ～～～…！　なかなか良い一撃だったぞ…！",
+		"file_name": "VO_1034",
+		"selector_label": 1
+	},
+	{
+		"ID": 79,
+		"dead_message": "はぁ～～～…！　なかなか良い一撃だったぞ…！",
+		"file_name": "VO_1034",
+		"selector_label": 2
+	},
+	{
+		"ID": 80,
+		"dead_message": "…やっぱりね…。死ぬ時は…死んじゃうんだ…",
+		"file_name": "VO_1035",
+		"selector_label": 1
+	},
+	{
+		"ID": 81,
+		"dead_message": "あ、あはは…やっとクレス様も愛された…ふふっ…ふふふっ…",
+		"file_name": "VO_310351",
+		"selector_label": 1
+	},
+	{
+		"ID": 82,
+		"dead_message": "クレスはもっと、愛を届けないといけないのに…",
+		"file_name": "VO_1035",
+		"selector_label": 2
+	},
+	{
+		"ID": 83,
+		"dead_message": "この信念だけは朽ちさせはしないっ…",
+		"file_name": "VO_1036",
+		"selector_label": 1
+	},
+	{
+		"ID": 84,
+		"dead_message": "時は有限。結果の見えた戦いに拘るのは時間の無駄よ",
+		"file_name": "VO_310361",
+		"selector_label": 1
+	},
+	{
+		"ID": 85,
+		"dead_message": "ごめんな…さい…",
+		"file_name": "VO_1037",
+		"selector_label": 1
+	},
+	{
+		"ID": 86,
+		"dead_message": "まだ…。倒れるわけには…。いかない…",
+		"file_name": "VO_1038",
+		"selector_label": 1
+	},
+	{
+		"ID": 87,
+		"dead_message": "まだ…。倒れるわけには…。いかない…",
+		"file_name": "VO_1038",
+		"selector_label": 2
+	},
+	{
+		"ID": 88,
+		"dead_message": "花が散る…。宵が訪れるように…",
+		"file_name": "VO_510383",
+		"selector_label": 1
+	},
+	{
+		"ID": 89,
+		"dead_message": "まだ…。倒れるわけには…。いかない…",
+		"file_name": "VO_1038",
+		"selector_label": 3
+	},
+	{
+		"ID": 90,
+		"dead_message": "あぁ、これで…楽に…",
+		"file_name": "VO_1039",
+		"selector_label": 1
+	},
+	{
+		"ID": 91,
+		"dead_message": "え、えへへ…。\nやられたのがオイラでよかったでやんす…",
+		"file_name": "VO_1040",
+		"selector_label": 1
+	},
+	{
+		"ID": 92,
+		"dead_message": "え、えへへ…。\nやられたのがオイラでよかったでやんす…",
+		"file_name": "VO_9964",
+		"selector_label": 1
+	},
+	{
+		"ID": 93,
+		"dead_message": "え、えへへ…。\nやられたのがオイラでよかったでやんす…",
+		"file_name": "VO_9963",
+		"selector_label": 1
+	},
+	{
+		"ID": 94,
+		"dead_message": "え、えへへ…。\nやられたのがオイラでよかったでやんす…",
+		"file_name": "VO_9962",
+		"selector_label": 1
+	},
+	{
+		"ID": 95,
+		"dead_message": "え、えへへ…。\nやられたのがオイラでよかったでやんす…",
+		"file_name": "VO_9961",
+		"selector_label": 1
+	},
+	{
+		"ID": 96,
+		"dead_message": "え、えへへ…。\nやられたのがオイラでよかったでやんす…",
+		"file_name": "VO_9960",
+		"selector_label": 1
+	},
+	{
+		"ID": 97,
+		"dead_message": "どうせ必要とされていない存在だもの…",
+		"file_name": "VO_1041",
+		"selector_label": 1
+	},
+	{
+		"ID": 98,
+		"dead_message": "どうせ必要とされていない存在だもの…",
+		"file_name": "VO_9958",
+		"selector_label": 1
+	},
+	{
+		"ID": 99,
+		"dead_message": "どうせ必要とされていない存在だもの…",
+		"file_name": "VO_9957",
+		"selector_label": 1
+	},
+	{
+		"ID": 100,
+		"dead_message": "どうせ必要とされていない存在だもの…",
+		"file_name": "VO_9956",
+		"selector_label": 1
+	},
+	{
+		"ID": 101,
+		"dead_message": "どうせ必要とされていない存在だもの…",
+		"file_name": "VO_9955",
+		"selector_label": 1
+	},
+	{
+		"ID": 102,
+		"dead_message": "どうせ必要とされていない存在だもの…",
+		"file_name": "VO_9954",
+		"selector_label": 1
+	},
+	{
+		"ID": 103,
+		"dead_message": "うぅ…退場なんて寂しいよ…。カーテンコールでまた会おうね…",
+		"file_name": "VO_310421",
+		"selector_label": 1
+	},
+	{
+		"ID": 104,
+		"dead_message": "うぅ…退場なんて寂しいよ…。カーテンコールでまた会おうね…",
+		"file_name": "VO_310421",
+		"selector_label": 2
+	},
+	{
+		"ID": 105,
+		"dead_message": "うぅ…退場なんて寂しいよ…。カーテンコールでまた会おうね…",
+		"file_name": "VO_310421",
+		"selector_label": 3
+	},
+	{
+		"ID": 106,
+		"dead_message": "こんなところで、無様に…散るわけに…は…",
+		"file_name": "VO_1043",
+		"selector_label": 1
+	},
+	{
+		"ID": 107,
+		"dead_message": "もっと戦いたかった…",
+		"file_name": "VO_310441",
+		"selector_label": 1
+	},
+	{
+		"ID": 108,
+		"dead_message": "全員命がけで戦っている。私も相応の働きをしなくては…",
+		"file_name": "VO_310451",
+		"selector_label": 1
+	},
+	{
+		"ID": 109,
+		"dead_message": "…おっかしいな～\nなんで私がビリビリって\nしてる…の…？",
+		"file_name": "VO_2001",
+		"selector_label": 1
+	},
+	{
+		"ID": 110,
+		"dead_message": "あ、あれれ…？　クマさんとかも着けてきた方がよかった…？",
+		"file_name": "VO_320011",
+		"selector_label": 1
+	},
+	{
+		"ID": 111,
+		"dead_message": "片手でも…\n片足でも動くのなら…\n標的を駆逐し続ける…",
+		"file_name": "VO_2002",
+		"selector_label": 1
+	},
+	{
+		"ID": 112,
+		"dead_message": "…標的の危険度上昇。申し訳ございません、一時撤退します",
+		"file_name": "VO_320021",
+		"selector_label": 1
+	},
+	{
+		"ID": 113,
+		"dead_message": "何これ…\n服もボロボロ…髪もぐしゃぐしゃ\n最悪だよぅ…",
+		"file_name": "VO_2003",
+		"selector_label": 1
+	},
+	{
+		"ID": 114,
+		"dead_message": "やっぱり無理はいけないのかなぁ…",
+		"file_name": "VO_2003",
+		"selector_label": 2
+	},
+	{
+		"ID": 115,
+		"dead_message": "私が…倒れたら…、\nマスターを…誰が…守るの…？",
+		"file_name": "VO_320031",
+		"selector_label": 1
+	},
+	{
+		"ID": 116,
+		"dead_message": "これくらいどうってことないよ…\nボクには…理想がある…",
+		"file_name": "VO_2004",
+		"selector_label": 1
+	},
+	{
+		"ID": 117,
+		"dead_message": "まだ…、まだ足りないのに…",
+		"file_name": "VO_20047",
+		"selector_label": 1
+	},
+	{
+		"ID": 118,
+		"dead_message": "くぅっ…。まだ努力が足りない…",
+		"file_name": "VO_2004",
+		"selector_label": 2
+	},
+	{
+		"ID": 119,
+		"dead_message": "まだ…、まだ足りないのに…",
+		"file_name": "VO_20047",
+		"selector_label": 2
+	},
+	{
+		"ID": 120,
+		"dead_message": "理想は負けない…っ、そうじゃないのかい…？",
+		"file_name": "VO_320041",
+		"selector_label": 1
+	},
+	{
+		"ID": 121,
+		"dead_message": "簡単に散るもんだよ。花も、命もね",
+		"file_name": "VO_520043",
+		"selector_label": 1
+	},
+	{
+		"ID": 122,
+		"dead_message": "へへ…っ！\nこの程度でミトゥム様が\nへばるわけ…ねぇだろ！",
+		"file_name": "VO_2005",
+		"selector_label": 1
+	},
+	{
+		"ID": 123,
+		"dead_message": "いててて…。情けねぇとこ見せちまったな…",
+		"file_name": "VO_2005",
+		"selector_label": 2
+	},
+	{
+		"ID": 124,
+		"dead_message": "うぅ…まだ、悪を滅ばさなくちゃ…いけないのにぃっ…",
+		"file_name": "VO_320051",
+		"selector_label": 1
+	},
+	{
+		"ID": 125,
+		"dead_message": "もう動けない～！\nマスターがおんぶしてくれないと\n動かない～！",
+		"file_name": "VO_2006",
+		"selector_label": 1
+	},
+	{
+		"ID": 126,
+		"dead_message": "いったたた…。誰か先生をおんぶして～",
+		"file_name": "VO_2006",
+		"selector_label": 2
+	},
+	{
+		"ID": 127,
+		"dead_message": "もう少し力を出してもよかったんだね…",
+		"file_name": "VO_320061",
+		"selector_label": 1
+	},
+	{
+		"ID": 128,
+		"dead_message": "…私を…本気で…\n怒らせたみたいね…\n潰す…！",
+		"file_name": "VO_2007",
+		"selector_label": 1
+	},
+	{
+		"ID": 129,
+		"dead_message": "ふふふふ。この、研磨される感じ…快感です",
+		"file_name": "VO_320071",
+		"selector_label": 1
+	},
+	{
+		"ID": 130,
+		"dead_message": "いやだ…絶対にいやだ…！\nこんなところで\n負けるなんて…！",
+		"file_name": "VO_2008",
+		"selector_label": 1
+	},
+	{
+		"ID": 131,
+		"dead_message": "くっ、ごめん！　撤退する！",
+		"file_name": "VO_320081",
+		"selector_label": 1
+	},
+	{
+		"ID": 132,
+		"dead_message": "負けてなんかない…まだ戦えるよ…っ\nけどマスターに迷惑かけたくないから…だから…次は絶対に負けないっ！",
+		"file_name": "VO_2009",
+		"selector_label": 1
+	},
+	{
+		"ID": 133,
+		"dead_message": "やだよ…みんなを…まもりたい…のに…",
+		"file_name": "VO_40141",
+		"selector_label": 1
+	},
+	{
+		"ID": 134,
+		"dead_message": "まて…私はまだ終わってない…！",
+		"file_name": "VO_2010",
+		"selector_label": 1
+	},
+	{
+		"ID": 135,
+		"dead_message": "消えない…\n光は決して消えはしない…",
+		"file_name": "VO_2011",
+		"selector_label": 1
+	},
+	{
+		"ID": 136,
+		"dead_message": "まだいける…まだいける…\n大丈夫…まだ…いける…",
+		"file_name": "VO_2012",
+		"selector_label": 1
+	},
+	{
+		"ID": 137,
+		"dead_message": "だ、ダメ…マスターをつれて…逃げてっ…",
+		"file_name": "VO_320121",
+		"selector_label": 1
+	},
+	{
+		"ID": 138,
+		"dead_message": "気合気合…これくらいまだ気合でなんとかなるって…",
+		"file_name": "VO_2013",
+		"selector_label": 1
+	},
+	{
+		"ID": 139,
+		"dead_message": "あの力が…あれば…",
+		"file_name": "VO_320131",
+		"selector_label": 1
+	},
+	{
+		"ID": 140,
+		"dead_message": "これくらい…\nヘーキヘーキ",
+		"file_name": "VO_2014",
+		"selector_label": 1
+	},
+	{
+		"ID": 141,
+		"dead_message": "苦しい…マスター…\n回復とかできない…？",
+		"file_name": "VO_50151",
+		"selector_label": 1
+	},
+	{
+		"ID": 142,
+		"dead_message": "まだよ…絶対負けたりしないんだから！",
+		"file_name": "VO_2015",
+		"selector_label": 1
+	},
+	{
+		"ID": 143,
+		"dead_message": "ミトゥムちゃん…逃げて…",
+		"file_name": "VO_2016",
+		"selector_label": 1
+	},
+	{
+		"ID": 144,
+		"dead_message": "そんな…ミトゥムちゃんを残して…",
+		"file_name": "VO_2016",
+		"selector_label": 2
+	},
+	{
+		"ID": 145,
+		"dead_message": "メタトロンの力を得たわたしが…",
+		"file_name": "VO_320161",
+		"selector_label": 1
+	},
+	{
+		"ID": 146,
+		"dead_message": "お姉ちゃん…助けてぇ…",
+		"file_name": "VO_2017",
+		"selector_label": 1
+	},
+	{
+		"ID": 147,
+		"dead_message": "お勉強するから、許してぇ…",
+		"file_name": "VO_2017",
+		"selector_label": 2
+	},
+	{
+		"ID": 148,
+		"dead_message": "抜けていく…ため込んだ力が、知恵が…",
+		"file_name": "VO_320171",
+		"selector_label": 1
+	},
+	{
+		"ID": 149,
+		"dead_message": "…なによ\nあたしよりほかの子の心配しなさいよ\nこんなのなんともないんだから",
+		"file_name": "VO_2018",
+		"selector_label": 1
+	},
+	{
+		"ID": 150,
+		"dead_message": "いたくなんかない…もん…\nシユウ、つよい…もん",
+		"file_name": "VO_2019",
+		"selector_label": 1
+	},
+	{
+		"ID": 151,
+		"dead_message": "う、うがあぁ…！\nまだシユウは…たたかうぞ…！",
+		"file_name": "VO_320191",
+		"selector_label": 1
+	},
+	{
+		"ID": 152,
+		"dead_message": "う、うがあぁ…！\nまだシユウは…たたかうぞ…！",
+		"file_name": "VO_320191",
+		"selector_label": 2
+	},
+	{
+		"ID": 153,
+		"dead_message": "大丈夫です…助けはいりません…",
+		"file_name": "VO_2020",
+		"selector_label": 1
+	},
+	{
+		"ID": 154,
+		"dead_message": "絶対に認めない…。私は…、私はぁッ…",
+		"file_name": "VO_2020",
+		"selector_label": 2
+	},
+	{
+		"ID": 155,
+		"dead_message": "地の果てまでも追い詰めてあげるわ…うふふ…楽しみねぇ？",
+		"file_name": "VO_320201",
+		"selector_label": 1
+	},
+	{
+		"ID": 156,
+		"dead_message": "こんな可愛くないの…イヤ…",
+		"file_name": "VO_2023",
+		"selector_label": 1
+	},
+	{
+		"ID": 157,
+		"dead_message": "くっ…無様だわ…",
+		"file_name": "VO_2024",
+		"selector_label": 1
+	},
+	{
+		"ID": 158,
+		"dead_message": "まだ、負けてない…。《希望》は潰えていない…",
+		"file_name": "VO_2025",
+		"selector_label": 1
+	},
+	{
+		"ID": 159,
+		"dead_message": "まだやれる…命がある限り、何度だって立ち上がる…！",
+		"file_name": "VO_320251",
+		"selector_label": 1
+	},
+	{
+		"ID": 160,
+		"dead_message": "こんなところで、立ち止まるわけ…には…",
+		"file_name": "VO_2025",
+		"selector_label": 2
+	},
+	{
+		"ID": 161,
+		"dead_message": "まだやることがある…の…",
+		"file_name": "VO_2026",
+		"selector_label": 1
+	},
+	{
+		"ID": 162,
+		"dead_message": "ぎゃあぁっ！",
+		"file_name": "VO_2027",
+		"selector_label": 1
+	},
+	{
+		"ID": 163,
+		"dead_message": "やっぱり、アタシじゃ戦えない…の？",
+		"file_name": "VO_2028",
+		"selector_label": 1
+	},
+	{
+		"ID": 164,
+		"dead_message": "多勢に無勢。数で押されたらジリ貧です",
+		"file_name": "VO_2029",
+		"selector_label": 1
+	},
+	{
+		"ID": 165,
+		"dead_message": "…いき…て…くださ…",
+		"file_name": "VO_2029",
+		"selector_label": 2
+	},
+	{
+		"ID": 166,
+		"dead_message": "多勢に無勢。数で押されたらジリ貧です",
+		"file_name": "VO_2029",
+		"selector_label": 3
+	},
+	{
+		"ID": 167,
+		"dead_message": "…じ、時間軸が変わった？",
+		"file_name": "VO_2030",
+		"selector_label": 1
+	},
+	{
+		"ID": 168,
+		"dead_message": "…じ、時間軸が変わった？",
+		"file_name": "VO_2030",
+		"selector_label": 2
+	},
+	{
+		"ID": 169,
+		"dead_message": "かの方の痛みに比べれば…\nこれしきのこと…",
+		"file_name": "VO_3001",
+		"selector_label": 1
+	},
+	{
+		"ID": 170,
+		"dead_message": "クリスマス",
+		"file_name": "VO_3001",
+		"selector_label": 1
+	},
+	{
+		"ID": 171,
+		"dead_message": "そんな…。倒れたら…ダメなのに…",
+		"file_name": "VO_30018",
+		"selector_label": 1
+	},
+	{
+		"ID": 172,
+		"dead_message": "うぅ…。マスター、ごめんなさい…",
+		"file_name": "VO_3001",
+		"selector_label": 2
+	},
+	{
+		"ID": 173,
+		"dead_message": "そんな…終わりを迎えるのは、私…？\n嫌…",
+		"file_name": "VO_330011",
+		"selector_label": 1
+	},
+	{
+		"ID": 174,
+		"dead_message": "そんな…。倒れたら…ダメなのに…",
+		"file_name": "VO_30018",
+		"selector_label": 2
+	},
+	{
+		"ID": 175,
+		"dead_message": "そんな…終わりを迎えるのは、私…？\n嫌…",
+		"file_name": "VO_330011",
+		"selector_label": 2
+	},
+	{
+		"ID": 176,
+		"dead_message": "結局、私は私でしかないの…？",
+		"file_name": "VO_530013",
+		"selector_label": 1
+	},
+	{
+		"ID": 177,
+		"dead_message": "いててっ…\nさすがにこれはちょっと…\nヤバイかも…？",
+		"file_name": "VO_3002",
+		"selector_label": 1
+	},
+	{
+		"ID": 178,
+		"dead_message": "えへへ…。失敗、失敗…",
+		"file_name": "VO_3002",
+		"selector_label": 2
+	},
+	{
+		"ID": 179,
+		"dead_message": "ハッ！やってくれるね！\nそうこないと…燃えてきたよ！",
+		"file_name": "VO_3003",
+		"selector_label": 1
+	},
+	{
+		"ID": 180,
+		"dead_message": "最強のオレが負けるとは…",
+		"file_name": "VO_3003",
+		"selector_label": 2
+	},
+	{
+		"ID": 181,
+		"dead_message": "興が乗らねえ。\nあいつを喰らうのは後にする",
+		"file_name": "VO_330031",
+		"selector_label": 1
+	},
+	{
+		"ID": 182,
+		"dead_message": "あらまぁ…ちょっとこれは派手に…\nやられてしまいました…",
+		"file_name": "VO_3004",
+		"selector_label": 1
+	},
+	{
+		"ID": 183,
+		"dead_message": "羽をもがれるとは…、きっとこんな気分なのですね…",
+		"file_name": "VO_330041",
+		"selector_label": 1
+	},
+	{
+		"ID": 184,
+		"dead_message": "ぐぁぁ…かはぁっ\n苦手だねぇ…自分の血は、よぉ…",
+		"file_name": "VO_3005",
+		"selector_label": 1
+	},
+	{
+		"ID": 185,
+		"dead_message": "か…は、はは…！\nまだ…あたいは…\n止まらないよ…！！",
+		"file_name": "VO_3006",
+		"selector_label": 1
+	},
+	{
+		"ID": 186,
+		"dead_message": "まだだ…！一人でも多く、\n道連れにしてやる…！！",
+		"file_name": "VO_3007",
+		"selector_label": 1
+	},
+	{
+		"ID": 187,
+		"dead_message": "わたしがやられても…あの二人がいる…から…",
+		"file_name": "VO_330071",
+		"selector_label": 1
+	},
+	{
+		"ID": 188,
+		"dead_message": "また…なのか…いや…\n今度こそ倒れるわけにはいかぬ！",
+		"file_name": "VO_3008",
+		"selector_label": 1
+	},
+	{
+		"ID": 189,
+		"dead_message": "…志半ばか…まったく…一度ならず二度までも…\n主君より先に散るとはな…情けない…",
+		"file_name": "VO_3009",
+		"selector_label": 1
+	},
+	{
+		"ID": 190,
+		"dead_message": "この程度で…\n私を負かしたなどと…\n思わないで！",
+		"file_name": "VO_3010",
+		"selector_label": 1
+	},
+	{
+		"ID": 191,
+		"dead_message": "くぅっ…まだ、足りないのですかぁっ…",
+		"file_name": "VO_330101",
+		"selector_label": 1
+	},
+	{
+		"ID": 192,
+		"dead_message": "くっ…ぅ…ダンスの練習だって乗り越えたもん！だから、この悔しさも乗り越えるから！！",
+		"file_name": "VO_3011",
+		"selector_label": 1
+	},
+	{
+		"ID": 193,
+		"dead_message": "あっ、ちょっと疲れたかも…",
+		"file_name": "VO_20211",
+		"selector_label": 1
+	},
+	{
+		"ID": 194,
+		"dead_message": "ここで…負ける、わけには…\nいかないのに…！",
+		"file_name": "VO_3012",
+		"selector_label": 1
+	},
+	{
+		"ID": 195,
+		"dead_message": "まさか…私が負けるの…？　うそ…こんなの、信じないからっ！",
+		"file_name": "VO_3013",
+		"selector_label": 1
+	},
+	{
+		"ID": 196,
+		"dead_message": "この程度で…\nわたくしの槍は\n折れませんわ…！",
+		"file_name": "VO_3014",
+		"selector_label": 1
+	},
+	{
+		"ID": 197,
+		"dead_message": "そのまま、虚構の渦に沈むといいですわ",
+		"file_name": "VO_330141",
+		"selector_label": 1
+	},
+	{
+		"ID": 198,
+		"dead_message": "チクショウ…。\nこんなことって…",
+		"file_name": "VO_3015",
+		"selector_label": 1
+	},
+	{
+		"ID": 199,
+		"dead_message": "チクショウ…。\nこんなことって…",
+		"file_name": "VO_3015",
+		"selector_label": 2
+	},
+	{
+		"ID": 200,
+		"dead_message": "まだ、諦めるわけには\nいかないの…。\nみんなを守らなきゃ",
+		"file_name": "VO_3016",
+		"selector_label": 1
+	},
+	{
+		"ID": 201,
+		"dead_message": "くっ…、まだ…\nまだ戦えるわ…",
+		"file_name": "VO_40121",
+		"selector_label": 1
+	},
+	{
+		"ID": 202,
+		"dead_message": "かくなる上は…\n捨て身でめちゃくちゃにしてやるぅ！",
+		"file_name": "VO_3017",
+		"selector_label": 1
+	},
+	{
+		"ID": 203,
+		"dead_message": "私の脚…あぁ…もう、動かない…",
+		"file_name": "VO_330171",
+		"selector_label": 1
+	},
+	{
+		"ID": 204,
+		"dead_message": "っ…すみません、私は大丈夫ですから…",
+		"file_name": "VO_3018",
+		"selector_label": 1
+	},
+	{
+		"ID": 205,
+		"dead_message": "…っ、いったん家に帰ります…！",
+		"file_name": "VO_3018",
+		"selector_label": 2
+	},
+	{
+		"ID": 206,
+		"dead_message": "私は間違ってなんかいない…。\n正義は…、砕けない…！",
+		"file_name": "VO_330181",
+		"selector_label": 1
+	},
+	{
+		"ID": 207,
+		"dead_message": "私は間違ってなんかいない…。\n正義は…、砕けない…！",
+		"file_name": "VO_330181",
+		"selector_label": 2
+	},
+	{
+		"ID": 208,
+		"dead_message": "私が、間違っていたの…？　ごめんなさい…みんな",
+		"file_name": "VO_530181",
+		"selector_label": 1
+	},
+	{
+		"ID": 209,
+		"dead_message": "あと一歩、ですか…\n…いえ、まだです！",
+		"file_name": "VO_3019",
+		"selector_label": 1
+	},
+	{
+		"ID": 210,
+		"dead_message": "うっ…はやく冷たい水…かけて…",
+		"file_name": "VO_3020",
+		"selector_label": 1
+	},
+	{
+		"ID": 211,
+		"dead_message": "うぅ…。ちょっとがんばったらこれだよぉ…",
+		"file_name": "VO_3020",
+		"selector_label": 2
+	},
+	{
+		"ID": 212,
+		"dead_message": "うぐっ…楽園が見えない…",
+		"file_name": "VO_330201",
+		"selector_label": 1
+	},
+	{
+		"ID": 213,
+		"dead_message": "姉様…さえいれば…",
+		"file_name": "VO_3021",
+		"selector_label": 1
+	},
+	{
+		"ID": 214,
+		"dead_message": "やっぱり…半人前では、ダメ…なんですか…",
+		"file_name": "VO_330211",
+		"selector_label": 1
+	},
+	{
+		"ID": 215,
+		"dead_message": "わたしには、まだやるべきことがあるの…",
+		"file_name": "VO_3023",
+		"selector_label": 1
+	},
+	{
+		"ID": 216,
+		"dead_message": "殿…ごめん…",
+		"file_name": "VO_3024",
+		"selector_label": 1
+	},
+	{
+		"ID": 217,
+		"dead_message": "…ちょっと待って、飲みすぎたわ",
+		"file_name": "VO_330241",
+		"selector_label": 1
+	},
+	{
+		"ID": 218,
+		"dead_message": "そんな…まだ終わるわけにはいかないのに…",
+		"file_name": "VO_3025",
+		"selector_label": 1
+	},
+	{
+		"ID": 219,
+		"dead_message": "数ある策略の一つに過ぎない…これで勝ったと思わないことです…",
+		"file_name": "VO_330251",
+		"selector_label": 1
+	},
+	{
+		"ID": 220,
+		"dead_message": "たとえこのみがくちても、このいしはいつまでものこる…！",
+		"file_name": "VO_3026",
+		"selector_label": 1
+	},
+	{
+		"ID": 221,
+		"dead_message": "ぐぬぬぅ…てったいなどみとめんぞ…！",
+		"file_name": "VO_330261",
+		"selector_label": 1
+	},
+	{
+		"ID": 222,
+		"dead_message": "みな…あとは、たのんだ…",
+		"file_name": "VO_3026",
+		"selector_label": 2
+	},
+	{
+		"ID": 223,
+		"dead_message": "もう…スサノオの…ばか…",
+		"file_name": "VO_3027",
+		"selector_label": 1
+	},
+	{
+		"ID": 224,
+		"dead_message": "くぅ…少し遊びが過ぎたようだな…",
+		"file_name": "VO_3028",
+		"selector_label": 1
+	},
+	{
+		"ID": 225,
+		"dead_message": "くぅ…少し遊びが過ぎたようだな…",
+		"file_name": "VO_3028",
+		"selector_label": 2
+	},
+	{
+		"ID": 226,
+		"dead_message": "くぅ…少し遊びが過ぎたようだな…",
+		"file_name": "VO_3028",
+		"selector_label": 3
+	},
+	{
+		"ID": 227,
+		"dead_message": "いった～い！",
+		"file_name": "VO_3029",
+		"selector_label": 1
+	},
+	{
+		"ID": 228,
+		"dead_message": "あぁっ…円環が…ほどけてしまう…",
+		"file_name": "VO_3031",
+		"selector_label": 1
+	},
+	{
+		"ID": 229,
+		"dead_message": "あぁっ…円環が…ほどけてしまう…",
+		"file_name": "VO_3031",
+		"selector_label": 2
+	},
+	{
+		"ID": 230,
+		"dead_message": "あぁっ…円環が…ほどけてしまう…",
+		"file_name": "VO_3031",
+		"selector_label": 3
+	},
+	{
+		"ID": 231,
+		"dead_message": "どこで…輝きが、くすんだというの…？",
+		"file_name": "VO_330321",
+		"selector_label": 1
+	},
+	{
+		"ID": 232,
+		"dead_message": "どこで…輝きが、くすんだというの…？",
+		"file_name": "VO_330321",
+		"selector_label": 2
+	},
+	{
+		"ID": 233,
+		"dead_message": "マスター…申し訳ありません…",
+		"file_name": "VO_40015",
+		"selector_label": 1
+	},
+	{
+		"ID": 234,
+		"dead_message": "まだ…いける…？\nくまさん…力を貸して…",
+		"file_name": "VO_4001",
+		"selector_label": 1
+	},
+	{
+		"ID": 235,
+		"dead_message": "マスター…申し訳ありません…",
+		"file_name": "VO_40015",
+		"selector_label": 2
+	},
+	{
+		"ID": 236,
+		"dead_message": "はぁ…はぁ…また…邪心に飲まれてしまった…",
+		"file_name": "VO_340011",
+		"selector_label": 1
+	},
+	{
+		"ID": 237,
+		"dead_message": "蕾のまま散る…。これも運命なのかも",
+		"file_name": "VO_540013",
+		"selector_label": 1
+	},
+	{
+		"ID": 238,
+		"dead_message": "ぐぅっ…くそ、まだまだぁ…\nピナーカ様は倒れないぜぇ…っ！",
+		"file_name": "VO_4002",
+		"selector_label": 1
+	},
+	{
+		"ID": 239,
+		"dead_message": "…くそっ、オイラに力があれば、もっと対話できたのに…",
+		"file_name": "VO_340021",
+		"selector_label": 1
+	},
+	{
+		"ID": 240,
+		"dead_message": "大丈夫…\nボクはお姉ちゃんさえ無事なら\n平気だから…",
+		"file_name": "VO_4003",
+		"selector_label": 1
+	},
+	{
+		"ID": 241,
+		"dead_message": "あうぅ…\nエロースはちょっとヤバいかも\nしれないですぅ…",
+		"file_name": "VO_4004",
+		"selector_label": 1
+	},
+	{
+		"ID": 242,
+		"dead_message": "エロースの愛は、一方通行だったみたいですぅ…",
+		"file_name": "VO_340041",
+		"selector_label": 1
+	},
+	{
+		"ID": 243,
+		"dead_message": "はぁ…はぁ…\nこれが…本当の…戦…厳しい…",
+		"file_name": "VO_4005",
+		"selector_label": 1
+	},
+	{
+		"ID": 244,
+		"dead_message": "いったた…。悔しいなぁ…",
+		"file_name": "VO_4005",
+		"selector_label": 2
+	},
+	{
+		"ID": 245,
+		"dead_message": "いったた…。悔しいなぁ…",
+		"file_name": "VO_4005",
+		"selector_label": 2
+	},
+	{
+		"ID": 246,
+		"dead_message": "あなたも信頼への憧れで、心を焦がしていたようですね",
+		"file_name": "VO_340051",
+		"selector_label": 1
+	},
+	{
+		"ID": 247,
+		"dead_message": "前に出過ぎたかもしれません…\nご面倒をおかけします…",
+		"file_name": "VO_4006",
+		"selector_label": 1
+	},
+	{
+		"ID": 248,
+		"dead_message": "前に出過ぎたかもしれません…\nご面倒をおかけします…",
+		"file_name": "VO_4006",
+		"selector_label": 2
+	},
+	{
+		"ID": 249,
+		"dead_message": "く、前に出すぎた…",
+		"file_name": "VO_340061",
+		"selector_label": 1
+	},
+	{
+		"ID": 250,
+		"dead_message": "…大丈夫です…。\nこの程度で私の輝きは\n失われたりしません…",
+		"file_name": "VO_4007",
+		"selector_label": 1
+	},
+	{
+		"ID": 251,
+		"dead_message": "いたた…。みんな、大丈夫？",
+		"file_name": "VO_4007",
+		"selector_label": 2
+	},
+	{
+		"ID": 252,
+		"dead_message": "いたた…。みんな、大丈夫？",
+		"file_name": "VO_4007",
+		"selector_label": 2
+	},
+	{
+		"ID": 253,
+		"dead_message": "自分のことすらできなくて…なにが守護ですか…くぅ…",
+		"file_name": "VO_340071",
+		"selector_label": 1
+	},
+	{
+		"ID": 254,
+		"dead_message": "あはは、失敗しちゃったかなぁ…\nこんな大怪我久しぶりかも…",
+		"file_name": "VO_4008",
+		"selector_label": 1
+	},
+	{
+		"ID": 255,
+		"dead_message": "あー、しまった…また弱いって噂が広がっちゃいそう…",
+		"file_name": "VO_4008",
+		"selector_label": 2
+	},
+	{
+		"ID": 256,
+		"dead_message": "少し…遊び、すぎた…かな",
+		"file_name": "VO_340081",
+		"selector_label": 1
+	},
+	{
+		"ID": 257,
+		"dead_message": "少し…遊び、すぎた…かな",
+		"file_name": "VO_340081",
+		"selector_label": 2
+	},
+	{
+		"ID": 258,
+		"dead_message": "くっ…痛いけど、痛くない。\n辛いだけ…。ちゃんと強くなる、\n負けないために！",
+		"file_name": "VO_4009",
+		"selector_label": 1
+	},
+	{
+		"ID": 259,
+		"dead_message": "まだ…みんなを…笑顔にしきってないのに…",
+		"file_name": "VO_60151",
+		"selector_label": 1
+	},
+	{
+		"ID": 260,
+		"dead_message": "倒れるわけにはいかない…私が倒れてしまっては、み、皆さんの手当てが…",
+		"file_name": "VO_4010",
+		"selector_label": 1
+	},
+	{
+		"ID": 261,
+		"dead_message": "う、そ…た、退却します…",
+		"file_name": "VO_340101",
+		"selector_label": 1
+	},
+	{
+		"ID": 262,
+		"dead_message": "う、そ…た、退却します…",
+		"file_name": "VO_340101",
+		"selector_label": 2
+	},
+	{
+		"ID": 263,
+		"dead_message": "嘘…そんなわたしまだ…\nみんなを守らなきゃ\nいけないのに…",
+		"file_name": "VO_4011",
+		"selector_label": 1
+	},
+	{
+		"ID": 264,
+		"dead_message": "因果はすべて、私が受け止める",
+		"file_name": "VO_40112",
+		"selector_label": 1
+	},
+	{
+		"ID": 265,
+		"dead_message": "嘘…そんなわたしまだ…\nみんなを守らなきゃ\nいけないのに…",
+		"file_name": "VO_4011",
+		"selector_label": 2
+	},
+	{
+		"ID": 266,
+		"dead_message": "傷を受けるなんて…\n申し訳ございません…",
+		"file_name": "VO_4013",
+		"selector_label": 1
+	},
+	{
+		"ID": 267,
+		"dead_message": "クリスマス",
+		"file_name": "VO_40133",
+		"selector_label": 1
+	},
+	{
+		"ID": 268,
+		"dead_message": "ああ…愛に殉じるわたしもまた、美しい…",
+		"file_name": "VO_340131",
+		"selector_label": 1
+	},
+	{
+		"ID": 269,
+		"dead_message": "まだ、立ち止まるわけにはいきませんわ…",
+		"file_name": "VO_4015",
+		"selector_label": 1
+	},
+	{
+		"ID": 270,
+		"dead_message": "も、もうダメかも…",
+		"file_name": "VO_4016",
+		"selector_label": 1
+	},
+	{
+		"ID": 271,
+		"dead_message": "例え矢じりだけとなれども…くじけるわけにはっ…",
+		"file_name": "VO_4017",
+		"selector_label": 1
+	},
+	{
+		"ID": 272,
+		"dead_message": "くっ…どうして…我々は絶対の、はずでは…っ…",
+		"file_name": "VO_340171",
+		"selector_label": 1
+	},
+	{
+		"ID": 273,
+		"dead_message": "まだ屈したわけではない…決して",
+		"file_name": "VO_4017",
+		"selector_label": 2
+	},
+	{
+		"ID": 274,
+		"dead_message": "もう…めんどくさいなあ",
+		"file_name": "VO_4018",
+		"selector_label": 1
+	},
+	{
+		"ID": 275,
+		"dead_message": "こ、こんなことっ、許されるわけが…",
+		"file_name": "VO_4019",
+		"selector_label": 1
+	},
+	{
+		"ID": 276,
+		"dead_message": "こ、こんなことっ、許されるわけが…",
+		"file_name": "VO_4019",
+		"selector_label": 2
+	},
+	{
+		"ID": 277,
+		"dead_message": "こ、こんなことっ、許されるわけが…",
+		"file_name": "VO_4019",
+		"selector_label": 3
+	},
+	{
+		"ID": 278,
+		"dead_message": "まだだっ…まだ、終わっちゃいないんだ…！",
+		"file_name": "VO_540201",
+		"selector_label": 1
+	},
+	{
+		"ID": 279,
+		"dead_message": "退却します！",
+		"file_name": "VO_340211",
+		"selector_label": 1
+	},
+	{
+		"ID": 280,
+		"dead_message": "あれれ、ちょっと失敗したかな",
+		"file_name": "VO_5001",
+		"selector_label": 2
+	},
+	{
+		"ID": 281,
+		"dead_message": "あはは…なんかボコボコ♪\nちょっと…笑えない…",
+		"file_name": "VO_5001",
+		"selector_label": 1
+	},
+	{
+		"ID": 282,
+		"dead_message": "あれれ、ちょっと失敗したかな",
+		"file_name": "VO_5001",
+		"selector_label": 2
+	},
+	{
+		"ID": 283,
+		"dead_message": "ぐがっ…\nそ、そんな…風が止んだ…",
+		"file_name": "VO_350011",
+		"selector_label": 1
+	},
+	{
+		"ID": 284,
+		"dead_message": "ああぁ！\nわたしとしたことが\nMistake！？",
+		"file_name": "VO_5002",
+		"selector_label": 1
+	},
+	{
+		"ID": 285,
+		"dead_message": "サッドな思いはノーセンキュー！",
+		"file_name": "VO_50026",
+		"selector_label": 1
+	},
+	{
+		"ID": 286,
+		"dead_message": "ワッツハプン!?　制服がズタボロだよぉ…",
+		"file_name": "VO_5002",
+		"selector_label": 2
+	},
+	{
+		"ID": 287,
+		"dead_message": "わたしの名前は…まだ、『生者の名簿』にあるよね？\nこのまま倒れっぱなしは、ギルティだから…",
+		"file_name": "VO_350021",
+		"selector_label": 1
+	},
+	{
+		"ID": 288,
+		"dead_message": "サッドな思いはノーセンキュー！",
+		"file_name": "VO_50026",
+		"selector_label": 2
+	},
+	{
+		"ID": 289,
+		"dead_message": "もっと改良が必要ね…",
+		"file_name": "VO_550023",
+		"selector_label": 1
+	},
+	{
+		"ID": 290,
+		"dead_message": "うぬぅ…わらわとしたことが…\nこのように曇ってしまうとは…",
+		"file_name": "VO_5003",
+		"selector_label": 1
+	},
+	{
+		"ID": 291,
+		"dead_message": "こんなはずではないのじゃ…",
+		"file_name": "VO_5003",
+		"selector_label": 2
+	},
+	{
+		"ID": 292,
+		"dead_message": "これは…情報を見直さねば…",
+		"file_name": "VO_350031",
+		"selector_label": 1
+	},
+	{
+		"ID": 293,
+		"dead_message": "…心配ない…破壊があれば、再生がある…\n誰かさんに取られちゃったけどさ、このセリフ…ははは…",
+		"file_name": "VO_5004",
+		"selector_label": 1
+	},
+	{
+		"ID": 294,
+		"dead_message": "あっちゃぁ…。やっちまった的な…？",
+		"file_name": "VO_5004",
+		"selector_label": 2
+	},
+	{
+		"ID": 295,
+		"dead_message": "ははは…この失敗は…\nさすがに笑えない…かな…？",
+		"file_name": "VO_5005",
+		"selector_label": 1
+	},
+	{
+		"ID": 296,
+		"dead_message": "羽虫風情が…！\n一匹残らず焼いてやる…",
+		"file_name": "VO_5006",
+		"selector_label": 1
+	},
+	{
+		"ID": 297,
+		"dead_message": "私の炎が消えてしまうなんて…ありえない！",
+		"file_name": "VO_5006",
+		"selector_label": 2
+	},
+	{
+		"ID": 298,
+		"dead_message": "損害大。生命維持に、支障あり…\n早く、撤退しないと…",
+		"file_name": "VO_5007",
+		"selector_label": 1
+	},
+	{
+		"ID": 299,
+		"dead_message": "くぅっ…獲物を目前にし…立ち止まるわけには…",
+		"file_name": "VO_350071",
+		"selector_label": 1
+	},
+	{
+		"ID": 300,
+		"dead_message": "く…猿野郎共…\n私に触れるなんて\n100億年早いわ…！",
+		"file_name": "VO_5008",
+		"selector_label": 1
+	},
+	{
+		"ID": 301,
+		"dead_message": "っ…あなた…ごめんなさい",
+		"file_name": "VO_5008",
+		"selector_label": 2
+	},
+	{
+		"ID": 302,
+		"dead_message": "妾が…こんな思いを…また…",
+		"file_name": "VO_350081",
+		"selector_label": 1
+	},
+	{
+		"ID": 303,
+		"dead_message": "くっ…！　ぼくは…こんなところで\n負けるわけには…いかないんだ！",
+		"file_name": "VO_5009",
+		"selector_label": 1
+	},
+	{
+		"ID": 304,
+		"dead_message": "ぐ…っ、まだ…負けてなんか…っ",
+		"file_name": "VO_30221",
+		"selector_label": 1
+	},
+	{
+		"ID": 305,
+		"dead_message": "まだよ…こんなことで諦めない…！",
+		"file_name": "VO_5010",
+		"selector_label": 1
+	},
+	{
+		"ID": 306,
+		"dead_message": "救援要請は…\nここでは届かないか…！",
+		"file_name": "VO_5011",
+		"selector_label": 1
+	},
+	{
+		"ID": 307,
+		"dead_message": "いやだいやだ…死にたくない…!!",
+		"file_name": "VO_5012",
+		"selector_label": 1
+	},
+	{
+		"ID": 308,
+		"dead_message": "どうして…どうして勝てないの？",
+		"file_name": "VO_5013",
+		"selector_label": 1
+	},
+	{
+		"ID": 309,
+		"dead_message": "どうして…どうして勝てないの？",
+		"file_name": "VO_5013",
+		"selector_label": 2
+	},
+	{
+		"ID": 310,
+		"dead_message": "そんな、みんな死ぬしかないの…",
+		"file_name": "VO_5014",
+		"selector_label": 1
+	},
+	{
+		"ID": 311,
+		"dead_message": "そんな、みんな死ぬしかないの…",
+		"file_name": "VO_5014",
+		"selector_label": 2
+	},
+	{
+		"ID": 312,
+		"dead_message": "…っ…けがれが…\n身体を…清めなければ…",
+		"file_name": "VO_5016",
+		"selector_label": 1
+	},
+	{
+		"ID": 313,
+		"dead_message": "ねぇクロピヨぉ…もうちょっと…\n本気出せばよかった、かなぁ…",
+		"file_name": "VO_5017",
+		"selector_label": 1
+	},
+	{
+		"ID": 314,
+		"dead_message": "いっ、いやよっ！　ああぁぁ、熱いっ！　炎が…ワタシを焼く…",
+		"file_name": "VO_350171",
+		"selector_label": 1
+	},
+	{
+		"ID": 315,
+		"dead_message": "いっ、いやよっ！　ああぁぁ、熱いっ！　炎が…ワタシを焼く…",
+		"file_name": "VO_350171",
+		"selector_label": 2
+	},
+	{
+		"ID": 316,
+		"dead_message": "ためらいは無いわよ…",
+		"file_name": "VO_5018",
+		"selector_label": 1
+	},
+	{
+		"ID": 317,
+		"dead_message": "痛ったぁ～！\nもう、なんなのよ！",
+		"file_name": "VO_5019",
+		"selector_label": 1
+	},
+	{
+		"ID": 318,
+		"dead_message": "まだまだ…\nぜんっぜん動けるからな…",
+		"file_name": "VO_5020",
+		"selector_label": 1
+	},
+	{
+		"ID": 319,
+		"dead_message": "なんでだよ!?　まだまだ全然つかれてないのにっ!!",
+		"file_name": "VO_5020",
+		"selector_label": 2
+	},
+	{
+		"ID": 320,
+		"dead_message": "おいおい嘘だろ…腕が鈍っちまったか…？",
+		"file_name": "VO_350201",
+		"selector_label": 1
+	},
+	{
+		"ID": 321,
+		"dead_message": "大丈夫…この痛みは…知っています…",
+		"file_name": "VO_5021",
+		"selector_label": 1
+	},
+	{
+		"ID": 322,
+		"dead_message": "ふふ…やはり絶望へ墜ちていく姿を見るのは快感ですね",
+		"file_name": "VO_350211",
+		"selector_label": 1
+	},
+	{
+		"ID": 323,
+		"dead_message": "次は絶対に負けないんだからあ…",
+		"file_name": "VO_5023",
+		"selector_label": 1
+	},
+	{
+		"ID": 324,
+		"dead_message": "あっちゃあ～。これは良くないかも",
+		"file_name": "VO_5024",
+		"selector_label": 1
+	},
+	{
+		"ID": 325,
+		"dead_message": "あ、あはは…。\nどす黒い、汚い赤っすね…",
+		"file_name": "VO_350241",
+		"selector_label": 1
+	},
+	{
+		"ID": 326,
+		"dead_message": "あああっ！　見せ場はこれからだったのに…",
+		"file_name": "VO_5025",
+		"selector_label": 1
+	},
+	{
+		"ID": 327,
+		"dead_message": "あああっ！　見せ場はこれからだったのに…",
+		"file_name": "VO_5025",
+		"selector_label": 2
+	},
+	{
+		"ID": 328,
+		"dead_message": "力不足でごめんなさい…。うぅぅ…。なさけないなぁ…",
+		"file_name": "VO_5026",
+		"selector_label": 1
+	},
+	{
+		"ID": 329,
+		"dead_message": "力不足でごめんなさい…。うぅぅ…。なさけないなぁ…",
+		"file_name": "VO_5026",
+		"selector_label": 2
+	},
+	{
+		"ID": 330,
+		"dead_message": "誰かを失うより…ぜんぜんマシだもん…",
+		"file_name": "VO_5027",
+		"selector_label": 1
+	},
+	{
+		"ID": 331,
+		"dead_message": "だめ…お姉さんが、守る、の…",
+		"file_name": "VO_350271",
+		"selector_label": 1
+	},
+	{
+		"ID": 332,
+		"dead_message": "ただ…みんなに笑っていてほしいだけなのに…",
+		"file_name": "VO_5027",
+		"selector_label": 2
+	},
+	{
+		"ID": 333,
+		"dead_message": "そんなことって…",
+		"file_name": "VO_5028",
+		"selector_label": 1
+	},
+	{
+		"ID": 334,
+		"dead_message": "お兄ちゃん…",
+		"file_name": "VO_5029",
+		"selector_label": 1
+	},
+	{
+		"ID": 335,
+		"dead_message": "あーあ、おしまいかあ…",
+		"file_name": "VO_5030",
+		"selector_label": 1
+	},
+	{
+		"ID": 336,
+		"dead_message": "そんな…。くっ…ごめん…レーヴァ…テイン…",
+		"file_name": "VO_5031",
+		"selector_label": 1
+	},
+	{
+		"ID": 337,
+		"dead_message": "そんな…。くっ…ごめん…レーヴァ…テイン…",
+		"file_name": "VO_5031",
+		"selector_label": 2
+	},
+	{
+		"ID": 338,
+		"dead_message": "そんな…。くっ…ごめん…レーヴァ…テイン…",
+		"file_name": "VO_5031",
+		"selector_label": 3
+	},
+	{
+		"ID": 339,
+		"dead_message": "…私が間違っていたっていうの？",
+		"file_name": "VO_50311",
+		"selector_label": 1
+	},
+	{
+		"ID": 340,
+		"dead_message": "そんな…。くっ…ごめん…レーヴァ…テイン…",
+		"file_name": "VO_5031",
+		"selector_label": 4
+	},
+	{
+		"ID": 341,
+		"dead_message": "っ、ああぁ…これが、私の罪…",
+		"file_name": "VO_5032",
+		"selector_label": 1
+	},
+	{
+		"ID": 342,
+		"dead_message": "っ、ああぁ…これが、私の罪…",
+		"file_name": "VO_5032",
+		"selector_label": 2
+	},
+	{
+		"ID": 343,
+		"dead_message": "っ、ああぁ…これが、私の罪…",
+		"file_name": "VO_5032",
+		"selector_label": 3
+	},
+	{
+		"ID": 344,
+		"dead_message": "思ったよりラムの体力がもたなかっただけよ",
+		"file_name": "VO_5033",
+		"selector_label": 1
+	},
+	{
+		"ID": 345,
+		"dead_message": "…うう、レム…",
+		"file_name": "VO_5033",
+		"selector_label": 2
+	},
+	{
+		"ID": 346,
+		"dead_message": "思ったよりラムの体力がもたなかっただけよ",
+		"file_name": "VO_5033",
+		"selector_label": 3
+	},
+	{
+		"ID": 347,
+		"dead_message": "…ごめんなさい",
+		"file_name": "VO_5034",
+		"selector_label": 1
+	},
+	{
+		"ID": 348,
+		"dead_message": "後悔する、なんて…らしくないなぁ…",
+		"file_name": "VO_5035",
+		"selector_label": 1
+	},
+	{
+		"ID": 349,
+		"dead_message": "さこつ……とのがた……！",
+		"file_name": "VO_350361",
+		"selector_label": 1
+	},
+	{
+		"ID": 350,
+		"dead_message": "わたしがいなくても、きっとみなさんが…だから大丈夫です…",
+		"file_name": "VO_550371",
+		"selector_label": 1
+	},
+	{
+		"ID": 351,
+		"dead_message": "ばか…私がこんなで…\nどうするのよ…みんなの手当が…！",
+		"file_name": "VO_6001",
+		"selector_label": 1
+	},
+	{
+		"ID": 352,
+		"dead_message": "なんだか…マスターと一緒の時間は夢のようだったよ…。\nこれも夢だったら良かったのになー…",
+		"file_name": "VO_6002",
+		"selector_label": 1
+	},
+	{
+		"ID": 353,
+		"dead_message": "はあ、疲れた…",
+		"file_name": "VO_360021",
+		"selector_label": 1
+	},
+	{
+		"ID": 354,
+		"dead_message": "あいった～\nもう、何するの！\n怒った怒った！怒ったよー！",
+		"file_name": "VO_6003",
+		"selector_label": 1
+	},
+	{
+		"ID": 355,
+		"dead_message": "残念だけど…この辺りが潮時かもね",
+		"file_name": "VO_360031",
+		"selector_label": 1
+	},
+	{
+		"ID": 356,
+		"dead_message": "いったぁ～…。もう何なのよぉぉ？\nばかばかばかぁ！",
+		"file_name": "VO_6004",
+		"selector_label": 1
+	},
+	{
+		"ID": 357,
+		"dead_message": "ぐぅぅ～、この屈辱は絶対に忘れないからね！",
+		"file_name": "VO_360041",
+		"selector_label": 1
+	},
+	{
+		"ID": 358,
+		"dead_message": "どうなってんのよ～…。\n意味分かんない…。\nあほ！　まぬけ～！",
+		"file_name": "VO_6005",
+		"selector_label": 1
+	},
+	{
+		"ID": 359,
+		"dead_message": "う～ん…もう少しで鍵が揃いそうだったのにな～…",
+		"file_name": "VO_360051",
+		"selector_label": 1
+	},
+	{
+		"ID": 360,
+		"dead_message": "…私なんかが出てくるから…\nこうなっちゃうんです…",
+		"file_name": "VO_6006",
+		"selector_label": 1
+	},
+	{
+		"ID": 361,
+		"dead_message": "うぅぅ…。すみません…",
+		"file_name": "VO_6006",
+		"selector_label": 2
+	},
+	{
+		"ID": 362,
+		"dead_message": "いやっ…嫌です…こんな、ところで…\nもっと、マスター様と…あ、あぁ…",
+		"file_name": "VO_360061",
+		"selector_label": 1
+	},
+	{
+		"ID": 363,
+		"dead_message": "くっ…ぅ…私は自身を呪う…この弱き自分を……",
+		"file_name": "VO_6007",
+		"selector_label": 1
+	},
+	{
+		"ID": 364,
+		"dead_message": "私の力が届かない…そんなの認めないっ",
+		"file_name": "VO_10301",
+		"selector_label": 1
+	},
+	{
+		"ID": 365,
+		"dead_message": "ばっか…\n私がこんなでどうするのよ…！",
+		"file_name": "VO_6008",
+		"selector_label": 1
+	},
+	{
+		"ID": 366,
+		"dead_message": "みんな…ごめん…。今日はおやすみ、します…",
+		"file_name": "VO_6008",
+		"selector_label": 2
+	},
+	{
+		"ID": 367,
+		"dead_message": "大丈夫かい、ロズ…。ここは戦略を立て直さないとね…！",
+		"file_name": "VO_360081",
+		"selector_label": 1
+	},
+	{
+		"ID": 368,
+		"dead_message": "ウソ…ウソ…！\nウソよ！\nこんなの全部ウソに決まってる！",
+		"file_name": "VO_6010",
+		"selector_label": 1
+	},
+	{
+		"ID": 369,
+		"dead_message": "いたたたた～、ちょっと強かったですねぇ",
+		"file_name": "VO_6011",
+		"selector_label": 1
+	},
+	{
+		"ID": 370,
+		"dead_message": "いたたたた～、ちょっと強かったですねぇ",
+		"file_name": "VO_6011",
+		"selector_label": 2
+	},
+	{
+		"ID": 371,
+		"dead_message": "この身が…主の導きの礎になればよいのですが…",
+		"file_name": "VO_360111",
+		"selector_label": 1
+	},
+	{
+		"ID": 372,
+		"dead_message": "この身が…主の導きの礎になればよいのですが…",
+		"file_name": "VO_360111",
+		"selector_label": 2
+	},
+	{
+		"ID": 373,
+		"dead_message": "くっ･･･",
+		"file_name": "VO_6012",
+		"selector_label": 1
+	},
+	{
+		"ID": 374,
+		"dead_message": "疲れたから寝るにゃ…",
+		"file_name": "VO_6013",
+		"selector_label": 1
+	},
+	{
+		"ID": 375,
+		"dead_message": "に、逃げ足には自信あるにゃ…",
+		"file_name": "VO_360131",
+		"selector_label": 1
+	},
+	{
+		"ID": 376,
+		"dead_message": "なに、すぐに癒して見せる",
+		"file_name": "VO_6014",
+		"selector_label": 1
+	},
+	{
+		"ID": 377,
+		"dead_message": "そなたたちを癒すことも叶わぬとは…不甲斐ない…",
+		"file_name": "VO_360141",
+		"selector_label": 1
+	},
+	{
+		"ID": 378,
+		"dead_message": "まだ…こんなところで、終わりたくない…っ",
+		"file_name": "VO_6016",
+		"selector_label": 1
+	},
+	{
+		"ID": 379,
+		"dead_message": "…あら？　もう出番おしまい？",
+		"file_name": "VO_6017",
+		"selector_label": 1
+	},
+	{
+		"ID": 380,
+		"dead_message": "…あら？　もう出番おしまい？",
+		"file_name": "VO_6017",
+		"selector_label": 2
+	},
+	{
+		"ID": 381,
+		"dead_message": "あっ…。まさか、私が倒されるなんて…驚きました…",
+		"file_name": "VO_6018",
+		"selector_label": 1
+	},
+	{
+		"ID": 382,
+		"dead_message": "あっ…。まさか、私が倒されるなんて…驚きました…",
+		"file_name": "VO_6018",
+		"selector_label": 2
+	},
+	{
+		"ID": 383,
+		"dead_message": "いたた…経験値いっぱい取られちゃったかも…",
+		"file_name": "VO_6019",
+		"selector_label": 1
+	},
+	{
+		"ID": 384,
+		"dead_message": "…わたし…死んじゃうの…？　こんなことなら、お兄ちゃんに…",
+		"file_name": "VO_6020",
+		"selector_label": 1
+	},
+	{
+		"ID": 385,
+		"dead_message": "まだ…世界の終末を見届けるまで…わたしは…",
+		"file_name": "VO_360201",
+		"selector_label": 1
+	},
+	{
+		"ID": 386,
+		"dead_message": "おかあさん…ごめん…",
+		"file_name": "VO_6021",
+		"selector_label": 1
+	},
+	{
+		"ID": 387,
+		"dead_message": "おつかれさま～",
+		"file_name": "VO_6022",
+		"selector_label": 1
+	},
+	{
+		"ID": 388,
+		"dead_message": "う、わかった、ケロちゃん…退却だね…",
+		"file_name": "VO_60231",
+		"selector_label": 1
+	},
+	{
+		"ID": 389,
+		"dead_message": "う、わかった、ケロちゃん…退却だね…",
+		"file_name": "VO_60231",
+		"selector_label": 2
+	},
+	{
+		"ID": 390,
+		"dead_message": "う、わかった、ケロちゃん…退却だね…",
+		"file_name": "VO_60231",
+		"selector_label": 3
+	},
+	{
+		"ID": 391,
+		"dead_message": "う、わかった、ケロちゃん…退却だね…",
+		"file_name": "VO_60231",
+		"selector_label": 4
+	},
+	{
+		"ID": 392,
+		"dead_message": "あーあ、ミスっちゃったわ。\nでも、ウソ吐きには相応しい最期かも…",
+		"file_name": "VO_6024",
+		"selector_label": 1
+	},
+	{
+		"ID": 393,
+		"dead_message": "レーヴァ…みんなぁ…",
+		"file_name": "VO_6025",
+		"selector_label": 1
+	},
+	{
+		"ID": 394,
+		"dead_message": "レーヴァ…みんなぁ…",
+		"file_name": "VO_6025",
+		"selector_label": 2
+	},
+	{
+		"ID": 395,
+		"dead_message": "レーヴァ…みんなぁ…",
+		"file_name": "VO_6025",
+		"selector_label": 3
+	},
+	{
+		"ID": 396,
+		"dead_message": "きゃああっ！",
+		"file_name": "VO_6026",
+		"selector_label": 1
+	},
+	{
+		"ID": 397,
+		"dead_message": "すぐに治療しないと…",
+		"file_name": "VO_6027",
+		"selector_label": 1
+	},
+	{
+		"ID": 398,
+		"dead_message": "すぐに治療しないと…",
+		"file_name": "VO_6027",
+		"selector_label": 2
+	},
+	{
+		"ID": 399,
+		"dead_message": "すべての物事には意味がある…\n魔法を通じて知った唯一のこと…",
+		"file_name": "VO_6028",
+		"selector_label": 1
+	},
+	{
+		"ID": 400,
+		"dead_message": "許してね",
+		"file_name": "VO_6029",
+		"selector_label": 1
+	},
+	{
+		"ID": 401,
+		"dead_message": "あぁ…空が、逆さまだ…",
+		"file_name": "VO_6030",
+		"selector_label": 1
+	},
+	{
+		"ID": 402,
+		"dead_message": "一時、撤退だ",
+		"file_name": "VO_360311",
+		"selector_label": 1
+	},
+	{
+		"ID": 403,
+		"dead_message": "…つらたん。もう帰って寝るし…",
+		"file_name": "VO_560321",
+		"selector_label": 1
+	},
+	{
+		"ID": 404,
+		"dead_message": "…",
+		"file_name": "VO_7001",
+		"selector_label": 1
+	},
+	{
+		"ID": 405,
+		"dead_message": "…",
+		"file_name": "VO_7002",
+		"selector_label": 1
+	},
+	{
+		"ID": 406,
+		"dead_message": "…",
+		"file_name": "VO_7003",
+		"selector_label": 1
+	},
+	{
+		"ID": 407,
+		"dead_message": "…",
+		"file_name": "VO_7004",
+		"selector_label": 1
+	},
+	{
+		"ID": 408,
+		"dead_message": "…",
+		"file_name": "VO_7005",
+		"selector_label": 1
+	},
+	{
+		"ID": 409,
+		"dead_message": "…",
+		"file_name": "VO_7006",
+		"selector_label": 1
+	},
+	{
+		"ID": 410,
+		"dead_message": "…",
+		"file_name": "VO_7007",
+		"selector_label": 1
+	},
+	{
+		"ID": 411,
+		"dead_message": "…",
+		"file_name": "VO_7008",
+		"selector_label": 1
+	},
+	{
+		"ID": 412,
+		"dead_message": "…",
+		"file_name": "VO_7009",
+		"selector_label": 1
+	},
+	{
+		"ID": 413,
+		"dead_message": "…",
+		"file_name": "VO_7010",
+		"selector_label": 1
+	},
+	{
+		"ID": 414,
+		"dead_message": "…",
+		"file_name": "VO_7019",
+		"selector_label": 1
+	},
+	{
+		"ID": 415,
+		"dead_message": "…",
+		"file_name": "VO_7020",
+		"selector_label": 1
+	},
+	{
+		"ID": 416,
+		"dead_message": "",
+		"file_name": "VO_7023",
+		"selector_label": 1
+	},
+	{
+		"ID": 417,
+		"dead_message": "…",
+		"file_name": "VO_7107",
+		"selector_label": 1
+	},
+	{
+		"ID": 418,
+		"dead_message": "…",
+		"file_name": "VO_7108",
+		"selector_label": 1
+	},
+	{
+		"ID": 419,
+		"dead_message": "…",
+		"file_name": "VO_7207",
+		"selector_label": 1
+	},
+	{
+		"ID": 420,
+		"dead_message": "…",
+		"file_name": "VO_7208",
+		"selector_label": 1
+	},
+	{
+		"ID": 421,
+		"dead_message": "…",
+		"file_name": "VO_7307",
+		"selector_label": 1
+	},
+	{
+		"ID": 422,
+		"dead_message": "…",
+		"file_name": "VO_7308",
+		"selector_label": 1
+	},
+	{
+		"ID": 423,
+		"dead_message": "…",
+		"file_name": "VO_7407",
+		"selector_label": 1
+	},
+	{
+		"ID": 424,
+		"dead_message": "…",
+		"file_name": "VO_7408",
+		"selector_label": 1
+	},
+	{
+		"ID": 425,
+		"dead_message": "…",
+		"file_name": "VO_7507",
+		"selector_label": 1
+	},
+	{
+		"ID": 426,
+		"dead_message": "…",
+		"file_name": "VO_7607",
+		"selector_label": 1
+	},
+	{
+		"ID": 427,
+		"dead_message": "…",
+		"file_name": "VO_7708",
+		"selector_label": 1
+	},
+	{
+		"ID": 428,
+		"dead_message": "…",
+		"file_name": "VO_7807",
+		"selector_label": 1
+	},
+	{
+		"ID": 429,
+		"dead_message": "まだ…。倒れるわけには…。いかない…",
+		"file_name": "VO_7932",
+		"selector_label": 1
+	},
+	{
+		"ID": 430,
+		"dead_message": "ごめん…みんな…",
+		"file_name": "VO_7932",
+		"selector_label": 2
+	},
+	{
+		"ID": 431,
+		"dead_message": "そんな…。くっ…ごめん…レーヴァ…テイン…",
+		"file_name": "VO_7932",
+		"selector_label": 3
+	},
+	{
+		"ID": 432,
+		"dead_message": "くぅ…少し遊びが過ぎたようだな…",
+		"file_name": "VO_7932",
+		"selector_label": 4
+	},
+	{
+		"ID": 433,
+		"dead_message": "レーヴァ…みんなぁ…",
+		"file_name": "VO_7932",
+		"selector_label": 5
+	},
+	{
+		"ID": 434,
+		"dead_message": "くっ…どうして…我々は絶対の、はずでは…っ…",
+		"file_name": "VO_7932",
+		"selector_label": 6
+	},
+	{
+		"ID": 435,
+		"dead_message": "だめ…お姉さんが、守る、の…",
+		"file_name": "VO_7932",
+		"selector_label": 7
+	},
+	{
+		"ID": 436,
+		"dead_message": "あ、あはは…やっとクレス様も愛された…ふふっ…ふふふっ…",
+		"file_name": "VO_7932",
+		"selector_label": 8
+	},
+	{
+		"ID": 437,
+		"dead_message": "まだやれる…命がある限り、何度だって立ち上がる…！",
+		"file_name": "VO_7932",
+		"selector_label": 9
+	},
+	{
+		"ID": 438,
+		"dead_message": "ぐぬぬぅ…てったいなどみとめんぞ…！",
+		"file_name": "VO_7932",
+		"selector_label": 10
+	},
+	{
+		"ID": 439,
+		"dead_message": "っ、ああぁ…これが、私の罪…",
+		"file_name": "VO_7932",
+		"selector_label": 11
+	},
+	{
+		"ID": 440,
+		"dead_message": "こ、こんなことっ、許されるわけが…",
+		"file_name": "VO_7932",
+		"selector_label": 12
+	},
+	{
+		"ID": 441,
+		"dead_message": "あぁっ…円環が…ほどけてしまう…",
+		"file_name": "VO_7932",
+		"selector_label": 13
+	},
+	{
+		"ID": 442,
+		"dead_message": "やっぱり、アタシじゃ戦えない…の？",
+		"file_name": "VO_7932",
+		"selector_label": 14
+	},
+	{
+		"ID": 443,
+		"dead_message": "グギャギャギャ…",
+		"file_name": "VO_8001",
+		"selector_label": 1
+	},
+	{
+		"ID": 444,
+		"dead_message": "グギャギャギャ…",
+		"file_name": "VO_8002",
+		"selector_label": 1
+	},
+	{
+		"ID": 445,
+		"dead_message": "グギャギャギャ…",
+		"file_name": "VO_8003",
+		"selector_label": 1
+	},
+	{
+		"ID": 446,
+		"dead_message": "グギャギャギャ…",
+		"file_name": "VO_8004",
+		"selector_label": 1
+	},
+	{
+		"ID": 447,
+		"dead_message": "【】",
+		"file_name": "VO_8004",
+		"selector_label": 2
+	},
+	{
+		"ID": 448,
+		"dead_message": "グギャギャギャ…",
+		"file_name": "VO_8005",
+		"selector_label": 1
+	},
+	{
+		"ID": 449,
+		"dead_message": "グギャギャギャ…",
+		"file_name": "VO_8006",
+		"selector_label": 1
+	},
+	{
+		"ID": 450,
+		"dead_message": "グギャギャギャ…",
+		"file_name": "VO_8007",
+		"selector_label": 1
+	},
+	{
+		"ID": 451,
+		"dead_message": "グゴゴゴ…",
+		"file_name": "VO_8008",
+		"selector_label": 1
+	},
+	{
+		"ID": 452,
+		"dead_message": "グギャギャギャ…",
+		"file_name": "VO_8009",
+		"selector_label": 1
+	},
+	{
+		"ID": 453,
+		"dead_message": "グギャギャギャ…",
+		"file_name": "VO_8010",
+		"selector_label": 1
+	},
+	{
+		"ID": 454,
+		"dead_message": "グゴゴゴ…",
+		"file_name": "VO_8011",
+		"selector_label": 1
+	},
+	{
+		"ID": 455,
+		"dead_message": "グギャギャギャ…",
+		"file_name": "VO_8012",
+		"selector_label": 1
+	},
+	{
+		"ID": 456,
+		"dead_message": "グオオオ…",
+		"file_name": "VO_8013",
+		"selector_label": 1
+	},
+	{
+		"ID": 457,
+		"dead_message": "グゴゴゴ…",
+		"file_name": "VO_8014",
+		"selector_label": 1
+	},
+	{
+		"ID": 458,
+		"dead_message": "グオオオ…",
+		"file_name": "VO_8015",
+		"selector_label": 1
+	},
+	{
+		"ID": 459,
+		"dead_message": "グギギギ…",
+		"file_name": "VO_8016",
+		"selector_label": 1
+	},
+	{
+		"ID": 460,
+		"dead_message": "グギギギ…",
+		"file_name": "VO_8017",
+		"selector_label": 1
+	},
+	{
+		"ID": 461,
+		"dead_message": "グゴゴゴ…",
+		"file_name": "VO_8018",
+		"selector_label": 1
+	},
+	{
+		"ID": 462,
+		"dead_message": "グゴゴゴ…",
+		"file_name": "VO_8019",
+		"selector_label": 1
+	},
+	{
+		"ID": 463,
+		"dead_message": "…",
+		"file_name": "VO_8020",
+		"selector_label": 1
+	},
+	{
+		"ID": 464,
+		"dead_message": "…",
+		"file_name": "VO_8021",
+		"selector_label": 1
+	},
+	{
+		"ID": 465,
+		"dead_message": "…",
+		"file_name": "VO_8022",
+		"selector_label": 1
+	},
+	{
+		"ID": 466,
+		"dead_message": "…",
+		"file_name": "VO_8023",
+		"selector_label": 1
+	},
+	{
+		"ID": 467,
+		"dead_message": "…",
+		"file_name": "VO_8024",
+		"selector_label": 1
+	},
+	{
+		"ID": 468,
+		"dead_message": "…",
+		"file_name": "VO_8025",
+		"selector_label": 1
+	},
+	{
+		"ID": 469,
+		"dead_message": "…",
+		"file_name": "VO_8026",
+		"selector_label": 1
+	},
+	{
+		"ID": 470,
+		"dead_message": "…",
+		"file_name": "VO_8027",
+		"selector_label": 1
+	},
+	{
+		"ID": 471,
+		"dead_message": "いっぱい負けたやつの方が\n出世できるらしいで。。。\n知らんけど",
+		"file_name": "VO_8028",
+		"selector_label": 1
+	},
+	{
+		"ID": 472,
+		"dead_message": "…",
+		"file_name": "VO_8030",
+		"selector_label": 1
+	},
+	{
+		"ID": 473,
+		"dead_message": "やだぁ、なにこれぇ！",
+		"file_name": "VO_8031",
+		"selector_label": 1
+	},
+	{
+		"ID": 474,
+		"dead_message": "【】",
+		"file_name": "VO_8032",
+		"selector_label": 1
+	},
+	{
+		"ID": 475,
+		"dead_message": "",
+		"file_name": "VO_8033",
+		"selector_label": 1
+	},
+	{
+		"ID": 476,
+		"dead_message": "0.0",
+		"file_name": "VO_8034",
+		"selector_label": 1
+	},
+	{
+		"ID": 477,
+		"dead_message": "【】",
+		"file_name": "VO_8035",
+		"selector_label": 1
+	},
+	{
+		"ID": 478,
+		"dead_message": "",
+		"file_name": "VO_8036",
+		"selector_label": 1
+	},
+	{
+		"ID": 479,
+		"dead_message": "…",
+		"file_name": "VO_8039",
+		"selector_label": 1
+	},
+	{
+		"ID": 480,
+		"dead_message": "…",
+		"file_name": "VO_8039",
+		"selector_label": 2
+	},
+	{
+		"ID": 481,
+		"dead_message": " ",
+		"file_name": "VO_8040",
+		"selector_label": 1
+	},
+	{
+		"ID": 482,
+		"dead_message": "",
+		"file_name": "VO_8043",
+		"selector_label": 1
+	},
+	{
+		"ID": 483,
+		"dead_message": "",
+		"file_name": "VO_8044",
+		"selector_label": 1
+	},
+	{
+		"ID": 484,
+		"dead_message": "",
+		"file_name": "VO_8045",
+		"selector_label": 1
+	},
+	{
+		"ID": 485,
+		"dead_message": "",
+		"file_name": "VO_8046",
+		"selector_label": 1
+	},
+	{
+		"ID": 486,
+		"dead_message": "",
+		"file_name": "VO_8047",
+		"selector_label": 1
+	},
+	{
+		"ID": 487,
+		"dead_message": "",
+		"file_name": "VO_8048",
+		"selector_label": 1
+	},
+	{
+		"ID": 488,
+		"dead_message": "",
+		"file_name": "VO_8049",
+		"selector_label": 1
+	},
+	{
+		"ID": 489,
+		"dead_message": "",
+		"file_name": "VO_8050",
+		"selector_label": 1
+	},
+	{
+		"ID": 490,
+		"dead_message": "",
+		"file_name": "VO_8051",
+		"selector_label": 1
+	},
+	{
+		"ID": 491,
+		"dead_message": "",
+		"file_name": "VO_8052",
+		"selector_label": 1
+	},
+	{
+		"ID": 492,
+		"dead_message": "",
+		"file_name": "VO_381000",
+		"selector_label": 1
+	},
+	{
+		"ID": 493,
+		"dead_message": "",
+		"file_name": "VO_382000",
+		"selector_label": 1
+	},
+	{
+		"ID": 494,
+		"dead_message": "",
+		"file_name": "VO_383000",
+		"selector_label": 1
+	},
+	{
+		"ID": 495,
+		"dead_message": "【】",
+		"file_name": "VO_8056",
+		"selector_label": 1
+	},
+	{
+		"ID": 496,
+		"dead_message": "【】",
+		"file_name": "VO_8057",
+		"selector_label": 1
+	},
+	{
+		"ID": 497,
+		"dead_message": "【】",
+		"file_name": "VO_8058",
+		"selector_label": 1
+	},
+	{
+		"ID": 498,
+		"dead_message": "【】",
+		"file_name": "VO_8059",
+		"selector_label": 1
+	},
+	{
+		"ID": 499,
+		"dead_message": "…",
+		"file_name": "VO_8060",
+		"selector_label": 1
+	},
+	{
+		"ID": 500,
+		"dead_message": "【】",
+		"file_name": "VO_8061",
+		"selector_label": 1
+	},
+	{
+		"ID": 501,
+		"dead_message": "【】",
+		"file_name": "VO_8062",
+		"selector_label": 1
+	},
+	{
+		"ID": 502,
+		"dead_message": "【】",
+		"file_name": "VO_8063",
+		"selector_label": 1
+	},
+	{
+		"ID": 503,
+		"dead_message": "【】",
+		"file_name": "VO_8064",
+		"selector_label": 1
+	},
+	{
+		"ID": 504,
+		"dead_message": "【】",
+		"file_name": "VO_8066",
+		"selector_label": 1
+	},
+	{
+		"ID": 505,
+		"dead_message": "",
+		"file_name": "VO_8081",
+		"selector_label": 1
+	},
+	{
+		"ID": 506,
+		"dead_message": "",
+		"file_name": "VO_8082",
+		"selector_label": 1
+	},
+	{
+		"ID": 507,
+		"dead_message": "",
+		"file_name": "VO_8083",
+		"selector_label": 1
+	},
+	{
+		"ID": 508,
+		"dead_message": "【】",
+		"file_name": "VO_8084",
+		"selector_label": 1
+	},
+	{
+		"ID": 509,
+		"dead_message": "【】",
+		"file_name": "VO_8086",
+		"selector_label": 1
+	},
+	{
+		"ID": 510,
+		"dead_message": "…",
+		"file_name": "VO_8092",
+		"selector_label": 1
+	},
+	{
+		"ID": 511,
+		"dead_message": "…",
+		"file_name": "VO_8093",
+		"selector_label": 1
+	},
+	{
+		"ID": 512,
+		"dead_message": "【】",
+		"file_name": "VO_8094",
+		"selector_label": 1
+	},
+	{
+		"ID": 513,
+		"dead_message": "[]",
+		"file_name": "VO_80950",
+		"selector_label": 1
+	},
+	{
+		"ID": 514,
+		"dead_message": "【】",
+		"file_name": "VO_8096",
+		"selector_label": 1
+	},
+	{
+		"ID": 515,
+		"dead_message": "【】",
+		"file_name": "VO_8097",
+		"selector_label": 1
+	},
+	{
+		"ID": 516,
+		"dead_message": "【】",
+		"file_name": "VO_8098",
+		"selector_label": 1
+	},
+	{
+		"ID": 517,
+		"dead_message": "【】",
+		"file_name": "VO_8103",
+		"selector_label": 1
+	},
+	{
+		"ID": 518,
+		"dead_message": "",
+		"file_name": "VO_8250",
+		"selector_label": 1
+	},
+	{
+		"ID": 519,
+		"dead_message": "俺の計算が狂うなんて…な",
+		"file_name": "VO_11001",
+		"selector_label": 1
+	},
+	{
+		"ID": 520,
+		"dead_message": "まだだ…まだ俺は…戦える！",
+		"file_name": "VO_11002",
+		"selector_label": 1
+	},
+	{
+		"ID": 521,
+		"dead_message": "くっ…傷を負うとは…不覚…っ",
+		"file_name": "VO_11003",
+		"selector_label": 1
+	},
+	{
+		"ID": 522,
+		"dead_message": "まだ…まだ、僕は…守れます…",
+		"file_name": "VO_11004",
+		"selector_label": 1
+	},
+	{
+		"ID": 523,
+		"dead_message": "俺の実力をわかっていないようだな",
+		"file_name": "VO_11006",
+		"selector_label": 1
+	},
+	{
+		"ID": 524,
+		"dead_message": "この痛み…あはは…ご主人様ぁ…っ！",
+		"file_name": "VO_11012",
+		"selector_label": 1
+	},
+	{
+		"ID": 525,
+		"dead_message": "放っておいてくれ",
+		"file_name": "VO_12001",
+		"selector_label": 1
+	},
+	{
+		"ID": 526,
+		"dead_message": "【】",
+		"file_name": "VO_120019",
+		"selector_label": 1
+	},
+	{
+		"ID": 527,
+		"dead_message": "今日は女運が…なかったし…な…\n女神も微笑まねぇ…",
+		"file_name": "VO_12005",
+		"selector_label": 1
+	},
+	{
+		"ID": 528,
+		"dead_message": "【】",
+		"file_name": "VO_12006",
+		"selector_label": 1
+	},
+	{
+		"ID": 529,
+		"dead_message": "こんなもの…傷のうちに入らない…",
+		"file_name": "VO_13001",
+		"selector_label": 1
+	},
+	{
+		"ID": 530,
+		"dead_message": "我への気遣いなど不要",
+		"file_name": "VO_13002",
+		"selector_label": 1
+	},
+	{
+		"ID": 531,
+		"dead_message": "まだまだ大丈夫ッス！",
+		"file_name": "VO_13004",
+		"selector_label": 1
+	},
+	{
+		"ID": 532,
+		"dead_message": "【】",
+		"file_name": "VO_130049",
+		"selector_label": 1
+	},
+	{
+		"ID": 533,
+		"dead_message": "くそぅ…こんなはずじゃ…",
+		"file_name": "VO_14001",
+		"selector_label": 1
+	},
+	{
+		"ID": 534,
+		"dead_message": "ちっ…。まだまだぁーー！",
+		"file_name": "VO_14003",
+		"selector_label": 1
+	},
+	{
+		"ID": 535,
+		"dead_message": "…マスター、役に立てなくて…ごめん",
+		"file_name": "VO_14004",
+		"selector_label": 1
+	},
+	{
+		"ID": 536,
+		"dead_message": "うぐ…っ、こんな醜い姿…見ないでくれ…っ！",
+		"file_name": "VO_15002",
+		"selector_label": 1
+	},
+	{
+		"ID": 537,
+		"dead_message": "我に傷があるか？　否！　我は留まるべきか？　否！",
+		"file_name": "VO_15003",
+		"selector_label": 1
+	},
+	{
+		"ID": 538,
+		"dead_message": "…ちくしょう…俺の知識が…負けるなんて…",
+		"file_name": "VO_15021",
+		"selector_label": 1
+	},
+	{
+		"ID": 539,
+		"dead_message": "つっ…傷は治せるからね…",
+		"file_name": "VO_16001",
+		"selector_label": 1
+	},
+	{
+		"ID": 540,
+		"dead_message": "【】",
+		"file_name": "VO_160029",
+		"selector_label": 1
+	},
+	{
+		"ID": 541,
+		"dead_message": "問題ない…が、今夜の酒は効きそうだな",
+		"file_name": "VO_16002",
+		"selector_label": 1
+	},
+	{
+		"ID": 542,
+		"dead_message": "マスター…ゴメン、みんなも…ゴメン",
+		"file_name": "VO_16003",
+		"selector_label": 1
+	},
+	{
+		"ID": 543,
+		"dead_message": "役に立たなきゃ…いけないのに…",
+		"file_name": "VO_16006",
+		"selector_label": 1
+	},
+	{
+		"ID": 544,
+		"dead_message": "【】",
+		"file_name": "VO_160119",
+		"selector_label": 1
+	},
+	{
+		"ID": 545,
+		"dead_message": "・・・",
+		"file_name": "VO_75023",
+		"selector_label": 1
+	},
+	{
+		"ID": 546,
+		"dead_message": "申し訳ありません…一時撤退して作戦を立て直します",
+		"file_name": "VO_3025",
+		"selector_label": 2
+	},
+	{
+		"ID": 547,
+		"dead_message": "これで争いが一つ消え、平和に一つ近づいたかな",
+		"file_name": "VO_520311",
+		"selector_label": 1
+	},
+	{
+		"ID": 548,
+		"dead_message": "ああ…愛に殉じるわたしもまた、美しい…",
+		"file_name": "VO_340131",
+		"selector_label": 2
+	},
+	{
+		"ID": 549,
+		"dead_message": "この身が…主の導きの礎になればよいのですが…",
+		"file_name": "VO_360111",
+		"selector_label": 3
+	},
+	{
+		"ID": 550,
+		"dead_message": "三十六計なんとやら。またね～っと！",
+		"file_name": "VO_510461",
+		"selector_label": 1
+	},
+	{
+		"ID": 551,
+		"dead_message": "お兄ちゃん…わたし、頑張ったよね…？",
+		"file_name": "VO_6020",
+		"selector_label": 2
+	},
+	{
+		"ID": 552,
+		"dead_message": "イチイバルさん、こういう終わり方は楽しくないかも…",
+		"file_name": "VO_540221",
+		"selector_label": 1
+	},
+	{
+		"ID": 553,
+		"dead_message": "くっ、どうして我は、こうも本番に弱いのだ…",
+		"file_name": "VO_330081",
+		"selector_label": 1
+	},
+	{
+		"ID": 554,
+		"dead_message": "あぁっ…円環が…ほどけてしまう…",
+		"file_name": "VO_3031",
+		"selector_label": 4
+	},
+	{
+		"ID": 555,
+		"dead_message": "牙が…牙が折れてしまいました…",
+		"file_name": "VO_310251",
+		"selector_label": 2
+	},
+	{
+		"ID": 556,
+		"dead_message": "う、うがあぁ…！\nまだシユウは…たたかうぞ…！",
+		"file_name": "VO_320191",
+		"selector_label": 3
+	},
+	{
+		"ID": 557,
+		"dead_message": "ごめん…みんな…",
+		"file_name": "VO_310021",
+		"selector_label": 3
+	},
+	{
+		"ID": 558,
+		"dead_message": "まて…私はまだ終わってない…！",
+		"file_name": "23",
+		"selector_label": 1
+	},
+	{
+		"ID": 559,
+		"dead_message": "私が、間違っていたの…？　ごめんなさい…みんな",
+		"file_name": "VO_530181",
+		"selector_label": 2
+	},
+	{
+		"ID": 560,
+		"dead_message": "これで争いが一つ消え、平和に一つ近づいたかな",
+		"file_name": "VO_520311",
+		"selector_label": 2
+	},
+	{
+		"ID": 561,
+		"dead_message": "もう…きょうは、あそべないんですか…？",
+		"file_name": "VO_210144",
+		"selector_label": 1
+	},
+	{
+		"ID": 562,
+		"dead_message": "うーん。もういっかい、けいかくしてみるわ…",
+		"file_name": "VO_250312",
+		"selector_label": 1
+	},
+	{
+		"ID": 563,
+		"dead_message": "【】",
+		"file_name": "VO_8038",
+		"selector_label": 1
+	},
+	{
+		"ID": 564,
+		"dead_message": "【】",
+		"file_name": "VO_8032",
+		"selector_label": 1
+	},
+	{
+		"ID": 565,
+		"dead_message": "もう…なんでじゃまするの…",
+		"file_name": "VO_210024",
+		"selector_label": 1
+	},
+	{
+		"ID": 566,
+		"dead_message": "ここはなんだか、ぽかぽかしない…",
+		"file_name": "VO_230312",
+		"selector_label": 1
+	},
+	{
+		"ID": 567,
+		"dead_message": "まだだっ…まだ、終わっちゃいないんだ…！",
+		"file_name": "VO_540201",
+		"selector_label": 2
+	},
+	{
+		"ID": 568,
+		"dead_message": "三十六計なんとやら。またね～っと！",
+		"file_name": "VO_510461",
+		"selector_label": 2
+	},
+	{
+		"ID": 569,
+		"dead_message": "いっ、いやよっ！　ああぁぁ、熱いっ！　炎が…ワタシを焼く…",
+		"file_name": "VO_350171",
+		"selector_label": 3
+	},
+	{
+		"ID": 570,
+		"dead_message": "…じ、時間軸が変わった？",
+		"file_name": "VO_2030",
+		"selector_label": 3
+	},
+	{
+		"ID": 571,
+		"dead_message": "もう、たたかうひつようは、なくなりました…",
+		"file_name": "VO_230013",
+		"selector_label": 1
+	},
+	{
+		"ID": 572,
+		"dead_message": "…つらたん。もう帰って寝るし…",
+		"file_name": "VO_560321",
+		"selector_label": 2
+	},
+	{
+		"ID": 573,
+		"dead_message": "私の…氷が…砕けた…？\nそんなっ、噓です…",
+		"file_name": "VO_310231",
+		"selector_label": 3
+	},
+	{
+		"ID": 574,
+		"dead_message": "そんな、みんな死ぬしかないの…",
+		"file_name": "VO_5014",
+		"selector_label": 3
+	},
+	{
+		"ID": 575,
+		"dead_message": "嘘…そんなわたしまだ…\nみんなを守らなきゃ\nいけないのに…",
+		"file_name": "VO_4011",
+		"selector_label": 3
+	},
+	{
+		"ID": 576,
+		"dead_message": "わたしがいなくても、きっとみなさんが…だから大丈夫です…",
+		"file_name": "VO_550371",
+		"selector_label": 2
+	},
+	{
+		"ID": 577,
+		"dead_message": "どうして…どうして勝てないの？",
+		"file_name": "VO_5013",
+		"selector_label": 3
+	},
+	{
+		"ID": 578,
+		"dead_message": "ゴメン。バカだよね、私。\nあんたを守れなかった…",
+		"file_name": "VO_1020",
+		"selector_label": 3
+	},
+	{
+		"ID": 579,
+		"dead_message": "チクショウ…。\nこんなことって…",
+		"file_name": "VO_3015",
+		"selector_label": 3
+	},
+	{
+		"ID": 580,
+		"dead_message": "イチイバルさん、こういう終わり方は楽しくないかも…",
+		"file_name": "VO_540221",
+		"selector_label": 2
+	},
+	{
+		"ID": 581,
+		"dead_message": "はぁ…はぁ…また…邪心に飲まれてしまった…",
+		"file_name": "VO_340011",
+		"selector_label": 2
+	},
+	{
+		"ID": 582,
+		"dead_message": "理想は負けない…っ、そうじゃないのかい…？",
+		"file_name": "VO_320041",
+		"selector_label": 2
+	},
+	{
+		"ID": 583,
+		"dead_message": "私が、こんな美しくない姿を…",
+		"file_name": "VO_310261",
+		"selector_label": 1
+	},
+	{
+		"ID": 584,
+		"dead_message": "くっ…。わたしの方が間違っていたというのか…",
+		"file_name": "VO_310281",
+		"selector_label": 1
+	},
+	{
+		"ID": 585,
+		"dead_message": "革命の御旗は決して穢れない、そう、決してね",
+		"file_name": "VO_1036",
+		"selector_label": 2
+	},
+	{
+		"ID": 586,
+		"dead_message": "ごめん。…早退するわね",
+		"file_name": "VO_1038",
+		"selector_label": 4
+	},
+	{
+		"ID": 587,
+		"dead_message": "どうしたら…救われる、の…",
+		"file_name": "VO_6033",
+		"selector_label": 1
+	},
+	{
+		"ID": 588,
+		"dead_message": "…どうしてでしょう…とても…懐かしい匂いがする…",
+		"file_name": "VO_1014",
+		"selector_label": 4
+	},
+	{
+		"ID": 589,
+		"dead_message": "面白くもなんともないオチね",
+		"file_name": "VO_510471",
+		"selector_label": 1
+	},
+	{
+		"ID": 590,
+		"dead_message": "何をするんですか！",
+		"file_name": "VO_560341",
+		"selector_label": 1
+	},
+	{
+		"ID": 591,
+		"dead_message": "私の声は届かないのですか…ああ、どうして…",
+		"file_name": "VO_550321",
+		"selector_label": 1
+	},
+	{
+		"ID": 592,
+		"dead_message": "栄光の鞘なき私には、\nやはり無理だというの…？",
+		"file_name": "VO_1011",
+		"selector_label": 2
+	},
+	{
+		"ID": 593,
+		"dead_message": "やっと心が許せる人に\n出会えたのに…\nこんな所じゃ死ねないよ",
+		"file_name": "VO_1008",
+		"selector_label": 3
+	},
+	{
+		"ID": 594,
+		"dead_message": "なんだか…マスターと一緒の時間は夢のようだったよ…。\nこれも夢だったら良かったのになー…",
+		"file_name": "VO_6002",
+		"selector_label": 2
+	},
+	{
+		"ID": 595,
+		"dead_message": "…私なんかが出てくるから…\nこうなっちゃうんです…",
+		"file_name": "VO_6006",
+		"selector_label": 3
+	},
+	{
+		"ID": 596,
+		"dead_message": "ばっか…\n私がこんなでどうするのよ…！",
+		"file_name": "VO_6008",
+		"selector_label": 3
+	},
+	{
+		"ID": 597,
+		"dead_message": "疲れたから寝るにゃ…",
+		"file_name": "VO_6013",
+		"selector_label": 2
+	},
+	{
+		"ID": 598,
+		"dead_message": "なに、すぐに癒して見せる",
+		"file_name": "VO_6014",
+		"selector_label": 2
+	},
+	{
+		"ID": 599,
+		"dead_message": "いったぁ～…。もう何なのよぉぉ？\nばかばかばかぁ！",
+		"file_name": "VO_6004",
+		"selector_label": 2
+	},
+	{
+		"ID": 600,
+		"dead_message": "どうなってんのよ～…。\n意味分かんない…。\nあほ！　まぬけ～！",
+		"file_name": "VO_6005",
+		"selector_label": 2
+	},
+	{
+		"ID": 601,
+		"dead_message": "嫌だよ、助けてよ！",
+		"file_name": "VO_550381",
+		"selector_label": 1
+	},
+	{
+		"ID": 602,
+		"dead_message": "うぬぅ…わらわとしたことが…\nこのように曇ってしまうとは…",
+		"file_name": "VO_5003",
+		"selector_label": 3
+	},
+	{
+		"ID": 603,
+		"dead_message": "ははは…この失敗は…\nさすがに笑えない…かな…？",
+		"file_name": "VO_5005",
+		"selector_label": 2
+	},
+	{
+		"ID": 604,
+		"dead_message": "損害大。生命維持に、支障あり…\n早く、撤退しないと…",
+		"file_name": "VO_5007",
+		"selector_label": 2
+	},
+	{
+		"ID": 605,
+		"dead_message": "大丈夫…この痛みは…知っています…",
+		"file_name": "VO_5021",
+		"selector_label": 2
+	},
+	{
+		"ID": 606,
+		"dead_message": "私のこと、本当に邪魔みたい",
+		"file_name": "VO_530331",
+		"selector_label": 1
+	},
+	{
+		"ID": 607,
+		"dead_message": "にゃあ…",
+		"file_name": "VO_530331",
+		"selector_label": 2
+	},
+	{
+		"ID": 608,
+		"dead_message": "ウギャアアッ！",
+		"file_name": "VO_6030",
+		"selector_label": 2
+	},
+	{
+		"ID": 609,
+		"dead_message": "ぐぅっ…くそ、まだまだぁ…\nピナーカ様は倒れないぜぇ…っ！",
+		"file_name": "VO_4002",
+		"selector_label": 2
+	},
+	{
+		"ID": 610,
+		"dead_message": "あうぅ…\nエロースはちょっとヤバいかも\nしれないですぅ…",
+		"file_name": "VO_4004",
+		"selector_label": 2
+	},
+	{
+		"ID": 611,
+		"dead_message": "はぁ…はぁ…\nこれが…本当の…戦…厳しい…",
+		"file_name": "VO_4005",
+		"selector_label": 3
+	},
+	{
+		"ID": 612,
+		"dead_message": "前に出過ぎたかもしれません…\nご面倒をおかけします…",
+		"file_name": "VO_4006",
+		"selector_label": 3
+	},
+	{
+		"ID": 613,
+		"dead_message": "とりあえず、逃げるぞ",
+		"file_name": "VO_510481",
+		"selector_label": 1
+	},
+	{
+		"ID": 614,
+		"dead_message": "少し、疲れたというか…",
+		"file_name": "VO_520321",
+		"selector_label": 1
+	},
+	{
+		"ID": 615,
+		"dead_message": "くっ…番狂わせもいいところよ…",
+		"file_name": "VO_540191",
+		"selector_label": 1
+	},
+	{
+		"ID": 616,
+		"dead_message": "あ、あぁ…もう、だめだ…勝てない…",
+		"file_name": "VO_350051",
+		"selector_label": 1
+	},
+	{
+		"ID": 617,
+		"dead_message": "ぐ、うう……",
+		"file_name": "VO_520321",
+		"selector_label": 2
+	},
+	{
+		"ID": 618,
+		"dead_message": "片手でも…\n片足でも動くのなら…\n標的を駆逐し続ける…",
+		"file_name": "VO_2002",
+		"selector_label": 2
+	},
+	{
+		"ID": 619,
+		"dead_message": "へへ…っ！\nこの程度でミトゥム様が\nへばるわけ…ねぇだろ！",
+		"file_name": "VO_2005",
+		"selector_label": 3
+	},
+	{
+		"ID": 620,
+		"dead_message": "もう動けない～！\nマスターがおんぶしてくれないと\n動かない～！",
+		"file_name": "VO_2006",
+		"selector_label": 3
+	},
+	{
+		"ID": 621,
+		"dead_message": "…私を…本気で…\n怒らせたみたいね…\n潰す…！",
+		"file_name": "VO_2007",
+		"selector_label": 2
+	},
+	{
+		"ID": 622,
+		"dead_message": "メタトロンの力を得たわたしが…",
+		"file_name": "VO_320161",
+		"selector_label": 2
+	},
+	{
+		"ID": 623,
+		"dead_message": "自分のことすらできなくて…なにが守護ですか…くぅ…",
+		"file_name": "VO_340071",
+		"selector_label": 2
+	},
+	{
+		"ID": 624,
+		"dead_message": "ハッ！やってくれるね！\nそうこないと…燃えてきたよ！",
+		"file_name": "VO_3003",
+		"selector_label": 3
+	},
+	{
+		"ID": 625,
+		"dead_message": "また…なのか…いや…\n今度こそ倒れるわけにはいかぬ！",
+		"file_name": "VO_3008",
+		"selector_label": 2
+	},
+	{
+		"ID": 626,
+		"dead_message": "この程度で…\n私を負かしたなどと…\n思わないで！",
+		"file_name": "VO_3010",
+		"selector_label": 2
+	},
+	{
+		"ID": 627,
+		"dead_message": "この程度で…\nわたくしの槍は\n折れませんわ…！",
+		"file_name": "VO_3014",
+		"selector_label": 2
+	},
+	{
+		"ID": 628,
+		"dead_message": "うっ…はやく冷たい水…かけて…",
+		"file_name": "VO_3020",
+		"selector_label": 3
+	},
+	{
+		"ID": 629,
+		"dead_message": "これしきのことで…\n私の炎は消えないぞ！",
+		"file_name": "VO_1005",
+		"selector_label": 3
+	},
+	{
+		"ID": 630,
+		"dead_message": "殿…ごめん…",
+		"file_name": "VO_3024",
+		"selector_label": 2
+	},
+	{
+		"ID": 631,
+		"dead_message": "たとえこの身が朽ちようとも、\n心だけは折れませんわよ…",
+		"file_name": "VO_1003",
+		"selector_label": 2
+	},
+	{
+		"ID": 632,
+		"dead_message": "ごめんなさい…\n私、またマスターを、守れなくて…。\n今度こそは…守ろうって…決めてたのに…",
+		"file_name": "VO_1009",
+		"selector_label": 2
+	},
+	{
+		"ID": 633,
+		"dead_message": "悔しい…傷を受けるなんて…",
+		"file_name": "VO_1026",
+		"selector_label": 2
+	},
+	{
+		"ID": 634,
+		"dead_message": "この右腕をしても…傷を負うとは…くっ…",
+		"file_name": "VO_1027",
+		"selector_label": 2
+	},
+	{
+		"ID": 635,
+		"dead_message": "もうダメ…",
+		"file_name": "VO_6032",
+		"selector_label": 1
+	},
+	{
+		"ID": 636,
+		"dead_message": "まて…私はまだ終わってない…！",
+		"file_name": "VO_2010",
+		"selector_label": 2
+	},
+	{
+		"ID": 637,
+		"dead_message": "消えない…\n光は決して消えはしない…",
+		"file_name": "VO_2011",
+		"selector_label": 2
+	},
+	{
+		"ID": 638,
+		"dead_message": "まだいける…まだいける…\n大丈夫…まだ…いける…",
+		"file_name": "VO_2012",
+		"selector_label": 2
+	},
+	{
+		"ID": 639,
+		"dead_message": "気合気合…これくらいまだ気合でなんとかなるって…",
+		"file_name": "VO_2013",
+		"selector_label": 2
+	},
+	{
+		"ID": 640,
+		"dead_message": "ミトゥムちゃん…逃げて…",
+		"file_name": "VO_2016",
+		"selector_label": 3
+	},
+	{
+		"ID": 641,
+		"dead_message": "わたしの名前は…まだ、『生者の名簿』にあるよね？\nこのまま倒れっぱなしは、ギルティだから…",
+		"file_name": "VO_350021",
+		"selector_label": 2
+	},
+	{
+		"ID": 642,
+		"dead_message": "大丈夫。たとえ力尽きても、思考は紡ぎ続けるわ",
+		"file_name": "VO_530311",
+		"selector_label": 1
+	},
+	{
+		"ID": 643,
+		"dead_message": "神の美を穢してしまうなんて…あ、あぁ…申し訳ありません…",
+		"file_name": "VO_310101",
+		"selector_label": 1
+	},
+	{
+		"ID": 644,
+		"dead_message": "私が血を流すとは…クソッ…",
+		"file_name": "VO_330051",
+		"selector_label": 1
+	},
+	{
+		"ID": 645,
+		"dead_message": "これは、そのっ……せ、戦略的撤退よっ！",
+		"file_name": "VO_5200011",
+		"selector_label": 1
+	},
+	{
+		"ID": 646,
+		"dead_message": "わたしは、必ず…\nマスターの元へ帰らなければ\nならないの…",
+		"file_name": "VO_1010",
+		"selector_label": 2
+	},
+	{
+		"ID": 647,
+		"dead_message": "ぐぁぁ…かはぁっ\n苦手だねぇ…自分の血は、よぉ…",
+		"file_name": "VO_3005",
+		"selector_label": 2
+	},
+	{
+		"ID": 648,
+		"dead_message": "かくなる上は…\n捨て身でめちゃくちゃにしてやるぅ！",
+		"file_name": "VO_3017",
+		"selector_label": 2
+	},
+	{
+		"ID": 649,
+		"dead_message": "やばいなぁ…\nこのままいいとこなしだと\n見捨てられちゃう…",
+		"file_name": "VO_1006",
+		"selector_label": 4
+	},
+	{
+		"ID": 650,
+		"dead_message": "す、すみません…",
+		"file_name": "VO_6035",
+		"selector_label": 1
+	},
+	{
+		"ID": 651,
+		"dead_message": "くぅっ…ここで歩みを止めるわけには…ぅうぅ…",
+		"file_name": "VO_1036",
+		"selector_label": 3
+	},
+	{
+		"ID": 652,
+		"dead_message": "まだだっ…まだ、終わっちゃいないんだ…！",
+		"file_name": "VO_540201",
+		"selector_label": 3
+	},
+	{
+		"ID": 653,
+		"dead_message": "これで争いが一つ消え、平和に一つ近づいたかな",
+		"file_name": "VO_520311",
+		"selector_label": 3
+	},
+	{
+		"ID": 654,
+		"dead_message": "そんな…私は…英雄にならないと…いけないのに…",
+		"file_name": "VO_330021",
+		"selector_label": 1
+	},
+	{
+		"ID": 655,
+		"dead_message": "理解できぬ",
+		"file_name": "VO_6036",
+		"selector_label": 1
+	},
+	{
+		"ID": 656,
+		"dead_message": "そんな…。倒れたら…ダメなのに…",
+		"file_name": "VO_30018",
+		"selector_label": 3
+	},
+	{
+		"ID": 657,
+		"dead_message": "いててっ…\nさすがにこれはちょっと…\nヤバイかも…？",
+		"file_name": "VO_3002",
+		"selector_label": 3
+	},
+	{
+		"ID": 658,
+		"dead_message": "大丈夫です…助けはいりません…",
+		"file_name": "VO_2020",
+		"selector_label": 3
+	},
+	{
+		"ID": 659,
+		"dead_message": "きゃあああっ!?",
+		"file_name": "VO_20002",
+		"selector_label": 1
+	},
+	{
+		"ID": 660,
+		"dead_message": "わたしの手から逃れる敵がいるとはな…",
+		"file_name": "VO_1028",
+		"selector_label": 3
+	},
+	{
+		"ID": 661,
+		"dead_message": "まだ救いたい人はたくさんいるのに…",
+		"file_name": "VO_560251",
+		"selector_label": 1
+	},
+	{
+		"ID": 662,
+		"dead_message": "うそ…私が…そんな…っ…",
+		"file_name": "VO_10147",
+		"selector_label": 4
+	},
+	{
+		"ID": 663,
+		"dead_message": "私が倒れたところで運命は変わりません",
+		"file_name": "VO_510071",
+		"selector_label": 1
+	},
+	{
+		"ID": 664,
+		"dead_message": "この程度……想定の…\n範囲内…です",
+		"file_name": "VO_1007",
+		"selector_label": 4
+	},
+	{
+		"ID": 665,
+		"dead_message": "うう……。ぐうう……\nニクシミノゴウカガワタシヲヤイテイク……",
+		"file_name": "VO_510071",
+		"selector_label": 2
+	},
+	{
+		"ID": 666,
+		"dead_message": "ここまでやるなんて、少し予想外だったな…",
+		"file_name": "VO_530281",
+		"selector_label": 1
+	},
+	{
+		"ID": 667,
+		"dead_message": "この身が滅んでもいいっ…みんなを、守らなきゃ…",
+		"file_name": "VO_530341",
+		"selector_label": 1
+	},
+	{
+		"ID": 668,
+		"dead_message": "姉様…さえいれば…",
+		"file_name": "VO_3021",
+		"selector_label": 2
+	},
+	{
+		"ID": 669,
+		"dead_message": "お、おかしいわ…。こんなはずじゃ…",
+		"file_name": "VO_2030",
+		"selector_label": 4
+	},
+	{
+		"ID": 670,
+		"dead_message": "ちょっと気合が空回りしちゃったかな…あはは…あとはお願い…",
+		"file_name": "VO_350041",
+		"selector_label": 1
+	},
+	{
+		"ID": 671,
+		"dead_message": "くっ…このままでは契約が…っ…",
+		"file_name": "VO_310271",
+		"selector_label": 1
+	},
+	{
+		"ID": 672,
+		"dead_message": "…心配ない…破壊があれば、再生がある…\n誰かさんに取られちゃったけどさ、このセリフ…ははは…",
+		"file_name": "VO_5004",
+		"selector_label": 3
+	},
+	{
+		"ID": 673,
+		"dead_message": "そんな…まだ終わるわけにはいかないのに…",
+		"file_name": "VO_3025",
+		"selector_label": 3
+	},
+	{
+		"ID": 674,
+		"dead_message": "…わたし…死んじゃうの…？　こんなことなら、お兄ちゃんに…",
+		"file_name": "VO_6020",
+		"selector_label": 3
+	},
+	{
+		"ID": 675,
+		"dead_message": "世界は残酷です……。\nだからこそ、受け入れられます……",
+		"file_name": "VO_530101",
+		"selector_label": 1
+	},
+	{
+		"ID": 676,
+		"dead_message": "うう……。ぐうう……\nカナシミノウズニ……ノミコマレテイク……",
+		"file_name": "VO_530101",
+		"selector_label": 2
+	},
+	{
+		"ID": 677,
+		"dead_message": "そんなっ…慎重に作戦を練り直さないと……",
+		"file_name": "VO_550311",
+		"selector_label": 1
+	},
+	{
+		"ID": 678,
+		"dead_message": "ま、こんなこともあるよね♪",
+		"file_name": "VO_540081",
+		"selector_label": 1
+	},
+	{
+		"ID": 679,
+		"dead_message": "まだまだ…\nぜんっぜん動けるからな…",
+		"file_name": "VO_5020",
+		"selector_label": 3
+	},
+	{
+		"ID": 680,
+		"dead_message": "か…は、はは…！\nまだ…あたいは…\n止まらないよ…！！",
+		"file_name": "VO_3006",
+		"selector_label": 2
+	},
+	{
+		"ID": 681,
+		"dead_message": "いたた…、やめるのだ…",
+		"file_name": "VO_2022",
+		"selector_label": 1
+	},
+	{
+		"ID": 682,
+		"dead_message": "修業が足りなかった…",
+		"file_name": "VO_530351",
+		"selector_label": 1
+	},
+	{
+		"ID": 683,
+		"dead_message": "わたしじゃ力不足だったかな…",
+		"file_name": "VO_560371",
+		"selector_label": 1
+	},
+	{
+		"ID": 684,
+		"dead_message": "こんな所で・・・。",
+		"file_name": "VO_540231",
+		"selector_label": 1
+	},
+	{
+		"ID": 685,
+		"dead_message": "このドレス…汚しちゃいけないんだけど…",
+		"file_name": "VO_510023",
+		"selector_label": 2
+	},
+	{
+		"ID": 686,
+		"dead_message": "ま、こんなこともあるよね♪",
+		"file_name": "VO_540081",
+		"selector_label": 1
+	},
+	{
+		"ID": 687,
+		"dead_message": "アハハハハ！\n……マダ、アタシノイタズラハオワラナイヨ！",
+		"file_name": "VO_540081",
+		"selector_label": 2
+	},
+	{
+		"ID": 688,
+		"dead_message": "そんなっ…慎重に作戦を練り直さないと……",
+		"file_name": "VO_550311",
+		"selector_label": 1
+	},
+	{
+		"ID": 689,
+		"dead_message": "あはは、失敗しちゃったかなぁ…\nこんな大怪我久しぶりかも…",
+		"file_name": "VO_4008",
+		"selector_label": 3
+	},
+	{
+		"ID": 690,
+		"dead_message": "いたくなんかない…もん…\nシユウ、つよい…もん",
+		"file_name": "VO_2019",
+		"selector_label": 2
+	},
+	{
+		"ID": 691,
+		"dead_message": "くっ…鬼火ちゃん…また反省会…だね…",
+		"file_name": "VO_1025",
+		"selector_label": 3
+	},
+	{
+		"ID": 692,
+		"dead_message": "ごめんなさい",
+		"file_name": "VO_520271",
+		"selector_label": 1
+	},
+	{
+		"ID": 693,
+		"dead_message": "…ごめんね",
+		"file_name": "VO_1049",
+		"selector_label": 1
+	},
+	{
+		"ID": 694,
+		"dead_message": "わたしがいなくても、きっとみなさんが…だから大丈夫です…",
+		"file_name": "VO_550371",
+		"selector_label": 3
+	},
+	{
+		"ID": 695,
+		"dead_message": "イチイバルさん、こういう終わり方は楽しくないかも…",
+		"file_name": "VO_540221",
+		"selector_label": 3
+	},
+	{
+		"ID": 696,
+		"dead_message": "あらら。やられちゃった。\nいいよ、止め刺しちゃって",
+		"file_name": "VO_520031",
+		"selector_label": 1
+	},
+	{
+		"ID": 697,
+		"dead_message": "アハハ！　アハハハハ！\nホラ！　モット！　シヌマデヤッテヨ！",
+		"file_name": "VO_520031",
+		"selector_label": 2
+	},
+	{
+		"ID": 698,
+		"dead_message": "何これ…\n服もボロボロ…髪もぐしゃぐしゃ\n最悪だよぅ…",
+		"file_name": "VO_2003",
+		"selector_label": 3
+	},
+	{
+		"ID": 699,
+		"dead_message": "いたたたた～、ちょっと強かったですねぇ",
+		"file_name": "VO_6011",
+		"selector_label": 3
+	},
+	{
+		"ID": 700,
+		"dead_message": "っ…すみません、私は大丈夫ですから…",
+		"file_name": "VO_3018",
+		"selector_label": 3
+	},
+	{
+		"ID": 701,
+		"dead_message": "まだ…私にはやれることがある…はず…くっ…",
+		"file_name": "VO_520301",
+		"selector_label": 1
+	},
+	{
+		"ID": 702,
+		"dead_message": "私の声は届かないのですか…ああ、どうして…",
+		"file_name": "VO_550321",
+		"selector_label": 2
+	},
+	{
+		"ID": 703,
+		"dead_message": "これは、そのっ……せ、戦略的撤退よっ！",
+		"file_name": "VO_5200011",
+		"selector_label": 2
+	},
+	{
+		"ID": 704,
+		"dead_message": "いたた…、やめるのだ…",
+		"file_name": "VO_2022",
+		"selector_label": 2
+	},
+	{
+		"ID": 705,
+		"dead_message": "傷を受けるなんて…\n申し訳ございません…",
+		"file_name": "VO_4013",
+		"selector_label": 2
+	},
+	{
+		"ID": 706,
+		"dead_message": "ねぇクロピヨぉ…もうちょっと…\n本気出せばよかった、かなぁ…",
+		"file_name": "VO_5017",
+		"selector_label": 2
+	},
+	{
+		"ID": 707,
+		"dead_message": "ごめん、みんな…後はお願いっ……",
+		"file_name": "VO_510381",
+		"selector_label": 1
+	},
+	{
+		"ID": 708,
+		"dead_message": "くっ…番狂わせもいいところよ…",
+		"file_name": "VO_540191",
+		"selector_label": 2
+	},
+	{
+		"ID": 709,
+		"dead_message": "この身が滅んでもいいっ…みんなを、守らなきゃ…",
+		"file_name": "VO_530341",
+		"selector_label": 2
+	},
+	{
+		"ID": 710,
+		"dead_message": "申し訳ありません、マスター…せっかくのお祝いの日に…こんなっ…",
+		"file_name": "VO_4017",
+		"selector_label": 3
+	},
+	{
+		"ID": 711,
+		"dead_message": "これじゃ…\n呪いに勝てない…よ…",
+		"file_name": "VO_1023",
+		"selector_label": 2
+	},
+	{
+		"ID": 712,
+		"dead_message": "あいった～\nもう、何するの！\n怒った怒った！怒ったよー！",
+		"file_name": "VO_6003",
+		"selector_label": 2
+	},
+	{
+		"ID": 713,
+		"dead_message": "ごめんなさい…ギャラルのこと、キライにならないで…",
+		"file_name": "VO_5200031",
+		"selector_label": 1
+	},
+	{
+		"ID": 714,
+		"dead_message": "大丈夫。たとえ力尽きても、思考は紡ぎ続けるわ",
+		"file_name": "VO_530311",
+		"selector_label": 2
+	},
+	{
+		"ID": 715,
+		"dead_message": "ふむ…少しばかり興が削がれたな…",
+		"file_name": "VO_5200041",
+		"selector_label": 1
+	},
+	{
+		"ID": 716,
+		"dead_message": "ワズラが負けたとしても、契約が果たされればそれでいいんです",
+		"file_name": "VO_320111",
+		"selector_label": 1
+	},
+	{
+		"ID": 717,
+		"dead_message": "マスター…申し訳ありません…",
+		"file_name": "VO_40015",
+		"selector_label": 3
+	},
+	{
+		"ID": 718,
+		"dead_message": "うぅぅ…痛いのやだぁ…",
+		"file_name": "VO_4024",
+		"selector_label": 1
+	},
+	{
+		"ID": 719,
+		"dead_message": "うぅ、もう無理ー…",
+		"file_name": "VO_5039",
+		"selector_label": 1
+	},
+	{
+		"ID": 720,
+		"dead_message": "残念です…またお話しましょうね",
+		"file_name": "VO_5200051",
+		"selector_label": 1
+	},
+	{
+		"ID": 721,
+		"dead_message": "…つらたん。もう帰って寝るし…",
+		"file_name": "VO_560321",
+		"selector_label": 3
+	},
+	{
+		"ID": 722,
+		"dead_message": "三十六計なんとやら。またね～っと！",
+		"file_name": "VO_510461",
+		"selector_label": 3
+	},
+	{
+		"ID": 723,
+		"dead_message": "すみません、マスター。力が及びませんでした…",
+		"file_name": "VO_610141",
+		"selector_label": 1
+	},
+	{
+		"ID": 724,
+		"dead_message": "",
+		"file_name": "VO_8108",
+		"selector_label": 1
+	},
+	{
+		"ID": 725,
+		"dead_message": "…悔しいけど、退くしかないわ",
+		"file_name": "VO_510384",
+		"selector_label": 1
+	},
+	{
+		"ID": 726,
+		"dead_message": "そんな…自然の理には抗えないというの…",
+		"file_name": "VO_5200061",
+		"selector_label": 1
+	},
+	{
+		"ID": 727,
+		"dead_message": "なぜ…貴様らばかりが…どうして…",
+		"file_name": "VO_10392",
+		"selector_label": 1
+	},
+	{
+		"ID": 728,
+		"dead_message": "そんなに頑張っちゃって…へんなの…",
+		"file_name": "VO_50342",
+		"selector_label": 1
+	},
+	{
+		"ID": 729,
+		"dead_message": "私が負ける…？ありえない…ありえないっ！",
+		"file_name": "VO_330091",
+		"selector_label": 1
+	},
+	{
+		"ID": 730,
+		"dead_message": "…志半ばか…まったく…一度ならず二度までも…\n主君より先に散るとはな…情けない…",
+		"file_name": "VO_3009",
+		"selector_label": 2
+	},
+	{
+		"ID": 731,
+		"dead_message": "う、うがあぁ…！\nまだシユウは…たたかうぞ…！",
+		"file_name": "VO_320191",
+		"selector_label": 4
+	},
+	{
+		"ID": 732,
+		"dead_message": "0928記載",
+		"file_name": "VO_330071",
+		"selector_label": 2
+	},
+	{
+		"ID": 733,
+		"dead_message": "チッ…燃やし損ねたわ…",
+		"file_name": "VO_310121",
+		"selector_label": 1
+	},
+	{
+		"ID": 734,
+		"dead_message": "ふ…\n全然気持ちよくないわ…！\nやっぱりあたしはドSね…！",
+		"file_name": "VO_1012",
+		"selector_label": 2
+	},
+	{
+		"ID": 735,
+		"dead_message": "ありゃりゃ…ちょっとしくじっちゃったかなぁ",
+		"file_name": "VO_650401",
+		"selector_label": 1
+	},
+	{
+		"ID": 736,
+		"dead_message": "痛い痛い…私がここにいる！",
+		"file_name": "VO_650401",
+		"selector_label": 2
+	},
+	{
+		"ID": 737,
+		"dead_message": "ひどい…ごめんなさい…もうダメ…",
+		"file_name": "VO_20007",
+		"selector_label": 1
+	},
+	{
+		"ID": 738,
+		"dead_message": "こんな感じでいいでしょ？",
+		"file_name": "VO_20008",
+		"selector_label": 1
+	},
+	{
+		"ID": 739,
+		"dead_message": "酷い…どうして私ばかりこんな目に遭うの…",
+		"file_name": "VO_660381",
+		"selector_label": 1
+	},
+	{
+		"ID": 740,
+		"dead_message": "ねえ…どうして助けてくれないの、マスター",
+		"file_name": "VO_660381",
+		"selector_label": 2
+	},
+	{
+		"ID": 741,
+		"dead_message": "あああっ！　見せ場はこれからだったのに…",
+		"file_name": "VO_5025",
+		"selector_label": 3
+	},
+	{
+		"ID": 742,
+		"dead_message": "残念です…またお話しましょうね",
+		"file_name": "VO_5200051",
+		"selector_label": 2
+	},
+	{
+		"ID": 743,
+		"dead_message": "余の力は、本物の…はず…なのに…",
+		"file_name": "VO_310041",
+		"selector_label": 1
+	},
+	{
+		"ID": 744,
+		"dead_message": "油断大敵…しくじった…\nだが、膝をつくにはまだ早い！",
+		"file_name": "VO_1004",
+		"selector_label": 2
+	},
+	{
+		"ID": 745,
+		"dead_message": "…やっぱりね…。死ぬ時は…死んじゃうんだ…",
+		"file_name": "VO_1035",
+		"selector_label": 1
+	},
+	{
+		"ID": 746,
+		"dead_message": "まずい状況",
+		"file_name": "VO_3036",
+		"selector_label": 1
+	},
+	{
+		"ID": 747,
+		"dead_message": "これは、そのっ……せ、戦略的撤退よっ！",
+		"file_name": "VO_5200011",
+		"selector_label": 3
+	},
+	{
+		"ID": 748,
+		"dead_message": "これ…あたしが負け？",
+		"file_name": "VO_510501",
+		"selector_label": 1
+	},
+	{
+		"ID": 749,
+		"dead_message": "おつたまー、とか言ってられないよね…これ",
+		"file_name": "VO_530371",
+		"selector_label": 1
+	},
+	{
+		"ID": 750,
+		"dead_message": "私が傷ついたとしても…みんなが無事なら…うん…",
+		"file_name": "VO_320101",
+		"selector_label": 1
+	},
+	{
+		"ID": 751,
+		"dead_message": "…大丈夫です…。\nこの程度で私の輝きは\n失われたりしません…",
+		"file_name": "VO_4007",
+		"selector_label": 3
+	},
+	{
+		"ID": 752,
+		"dead_message": "ふむ…少しばかり興が削がれたな…",
+		"file_name": "VO_5200041",
+		"selector_label": 2
+	},
+	{
+		"ID": 753,
+		"dead_message": "も～～っ、後で呪いますからね！",
+		"file_name": "VO_1051",
+		"selector_label": 1
+	},
+	{
+		"ID": 754,
+		"dead_message": "私の…氷が…砕けた…？\nそんなっ、噓です…",
+		"file_name": "VO_310231",
+		"selector_label": 4
+	},
+	{
+		"ID": 755,
+		"dead_message": "悔しいけれど、これが意思の強さなのねぇ…",
+		"file_name": "VO_5200091",
+		"selector_label": 1
+	},
+	{
+		"ID": 756,
+		"dead_message": "あちゃー…負けちゃった…",
+		"file_name": "VO_510521",
+		"selector_label": 1
+	},
+	{
+		"ID": 757,
+		"dead_message": "ぐ…申し訳ありません。離脱します…",
+		"file_name": "VO_5200101",
+		"selector_label": 1
+	},
+	{
+		"ID": 758,
+		"dead_message": "ううぅ…お師匠様助けてぇ…",
+		"file_name": "VO_560401",
+		"selector_label": 1
+	},
+	{
+		"ID": 759,
+		"dead_message": "この程度で…\nわたくしの槍は\n折れませんわ…！",
+		"file_name": "VO_3014",
+		"selector_label": 3
+	},
+	{
+		"ID": 760,
+		"dead_message": "私が…弱いから…",
+		"file_name": "VO_520331",
+		"selector_label": 1
+	},
+	{
+		"ID": 761,
+		"dead_message": "くっ…わらわとしたことが…",
+		"file_name": "VO_530381",
+		"selector_label": 1
+	},
+	{
+		"ID": 762,
+		"dead_message": "身体を焼くようなこの痛みもまた…快感ねぇ",
+		"file_name": "VO_660391",
+		"selector_label": 1
+	},
+	{
+		"ID": 763,
+		"dead_message": "お腹の調子が悪いから、ベルは帰るね。バイバイ",
+		"file_name": "VO_640251",
+		"selector_label": 1
+	},
+	{
+		"ID": 764,
+		"dead_message": "大丈夫…\nボクはお姉ちゃんさえ無事なら\n平気だから…",
+		"file_name": "VO_4003",
+		"selector_label": 2
+	},
+	{
+		"ID": 765,
+		"dead_message": "やばーい！　ここは一回、退却だにょーん！",
+		"file_name": "VO_340031",
+		"selector_label": 1
+	},
+	{
+		"ID": 766,
+		"dead_message": "すみません、マスター。力が及びませんでした…",
+		"file_name": "VO_610141",
+		"selector_label": 2
+	},
+	{
+		"ID": 767,
+		"dead_message": "おのれ…おのれぇ…！",
+		"file_name": "VO_10016",
+		"selector_label": 3
+	},
+	{
+		"ID": 768,
+		"dead_message": "申し訳ありません…撤退させていただきます…",
+		"file_name": "VO_560411",
+		"selector_label": 1
+	},
+	{
+		"ID": 769,
+		"dead_message": "あたたたた…腰が…ばあちゃん、ちょっと休ませて…",
+		"file_name": "VO_510531",
+		"selector_label": 1
+	},
+	{
+		"ID": 770,
+		"dead_message": "ここまでやるなんて、少し予想外だったな…",
+		"file_name": "VO_530281",
+		"selector_label": 2
+	},
+	{
+		"ID": 771,
+		"dead_message": "まだ…私にはやれることがある…はず…くっ…",
+		"file_name": "VO_520301",
+		"selector_label": 2
+	},
+	{
+		"ID": 772,
+		"dead_message": "希望はあなた達に託すとするわ",
+		"file_name": "VO_6200111",
+		"selector_label": 1
+	},
+	{
+		"ID": 773,
+		"dead_message": "わたしがいなくても、きっとみなさんが…だから大丈夫です…",
+		"file_name": "VO_550371",
+		"selector_label": 4
+	},
+	{
+		"ID": 774,
+		"dead_message": "…つらたん。もう帰って寝るし…",
+		"file_name": "VO_560321",
+		"selector_label": 4
+	},
+	{
+		"ID": 775,
+		"dead_message": "お役に立てず、申し訳ございません……",
+		"file_name": "VO_6200121",
+		"selector_label": 1
+	},
+	{
+		"ID": 776,
+		"dead_message": "ごめんなさい…ギャラルのこと、キライにならないで…",
+		"file_name": "VO_5200031",
+		"selector_label": 2
+	},
+	{
+		"ID": 777,
+		"dead_message": "羽虫風情が…！\n一匹残らず焼いてやる…",
+		"file_name": "VO_5006",
+		"selector_label": 3
+	},
+	{
+		"ID": 778,
+		"dead_message": "ああ…これで、穢れを見なくてすみます…",
+		"file_name": "VO_350061",
+		"selector_label": 1
+	},
+	{
+		"ID": 779,
+		"dead_message": "イチイバルさん、こういう終わり方は楽しくないかも…",
+		"file_name": "VO_540221",
+		"selector_label": 4
+	},
+	{
+		"ID": 780,
+		"dead_message": "まだだっ…まだ、終わっちゃいないんだ…！",
+		"file_name": "VO_540201",
+		"selector_label": 4
+	},
+	{
+		"ID": 781,
+		"dead_message": "この程度……想定の…\n範囲内…です",
+		"file_name": "VO_1007",
+		"selector_label": 5
+	},
+	{
+		"ID": 782,
+		"dead_message": "ミトゥムちゃん…逃げて…",
+		"file_name": "VO_2016",
+		"selector_label": 4
+	},
+	{
+		"ID": 783,
+		"dead_message": "三十六計なんとやら。またね～っと！",
+		"file_name": "VO_510461",
+		"selector_label": 4
+	},
+	{
+		"ID": 784,
+		"dead_message": "くっ…番狂わせもいいところよ…",
+		"file_name": "VO_540191",
+		"selector_label": 3
+	},
+	{
+		"ID": 785,
+		"dead_message": "…ごめんなさい",
+		"file_name": "VO_660291",
+		"selector_label": 1
+	},
+	{
+		"ID": 786,
+		"dead_message": "ごめん、みんな…後はお願いっ……",
+		"file_name": "VO_510381",
+		"selector_label": 2
+	},
+	{
+		"ID": 787,
+		"dead_message": "…やっぱりね…。死ぬ時は…死んじゃうんだ…",
+		"file_name": "VO_1035",
+		"selector_label": 4
+	},
+	{
+		"ID": 788,
+		"dead_message": "やっぱり、アタシじゃ戦えない…の？",
+		"file_name": "VO_2028",
+		"selector_label": 2
+	},
+	{
+		"ID": 789,
+		"dead_message": "そんな…まだ終わるわけにはいかないのに…",
+		"file_name": "VO_3025",
+		"selector_label": 4
+	},
+	{
+		"ID": 790,
+		"dead_message": "そんな…浄化が追いつかないなんて…",
+		"file_name": "VO_660421",
+		"selector_label": 1
+	},
+	{
+		"ID": 791,
+		"dead_message": "希望はあなた達に託すとするわ",
+		"file_name": "VO_6200111",
+		"selector_label": 2
+	},
+	{
+		"ID": 792,
+		"dead_message": "…っ…けがれが…\n身体を…清めなければ…",
+		"file_name": "VO_5016",
+		"selector_label": 2
+	},
+	{
+		"ID": 793,
+		"dead_message": "ふむ…少しばかり興が削がれたな…",
+		"file_name": "VO_5200041",
+		"selector_label": 3
+	}
+]

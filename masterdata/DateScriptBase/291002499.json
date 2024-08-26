@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 291002499,
+		"script": ";;//正解\n# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body 2100221\n# pos 2100221 3\n# mask 2100221 off\n# chara 2100221\n# fadein \"black\" 0.5\n# textflame 1 1\n# face 2100221 \"smile\"\n# se \"SE_0732\"\n# voice 210022 \"revatein_k_0039\"\n@レーヴァテイン\nへえ、やるねマスター\nちゃんと正解だよ\n\n@レーヴァテイン\nさすがは私のマスターってところ？\nまさか私のことをしっかりと\n知ってるなんてね…\n\n# voice 210022 \"revatein_k_0030\"\n@レーヴァテイン\n調べるのめんどうじゃなかった？\n…そう、平気だったんだ…\nなんていうか、ありがと…\n\n@レーヴァテイン\n…はぁ…帰ろう、マスター\n今日はもう満足したし\n帰ってゆっくりしようよ\n\n;;モノローグ\n# textflame 0 0\n@\nうれしそうな顔を隠すように\n背を向けるレーヴァテイン\n\n;;モノローグ\n@\nそんな彼女の姿を\n微笑ましく思いながら\n絆が深まるのを感じるのだった\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

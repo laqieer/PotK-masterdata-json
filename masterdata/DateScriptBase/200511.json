@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 200511,
+		"script": ";;A 真っ暗だね…　中\n;;B ねぇ、後ろ後ろ　小\n;;C 怖いものないの？　大\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_hauntedhouse\"\n# bgmfile \"bgm257\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 0 0\n@\nマスターはミトゥムを誘って\nホラーハウスにやってきた\n\n# voice 2005 \"mitwumu_0005\"\n# textflame 1 1\n@ミトゥム\nこんなハッタリ！\nミトゥム様には\n通用しね～っての！\n\n# eye %(unit_a)s \"close\"\n@ミトゥム\nお化けでもなんでも\nかかってこい！！\n\n# select \"真っ暗だね…\" \"select_label_01\" \"ねぇ、後ろ後ろ\" \"select_label_02\" \"怖いものないの？\" \"select_label_03\"\nお化けでもなんでも\nかかってこい！！\n\n# label \"select_label_01\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_02\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_03\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_end\"\n# waitandnext 0.1\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

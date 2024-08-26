@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 102311,
+		"script": "# script \"lisp\"\n# fadein \"black\" 0.5\n# background %(background)s\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 0 0\n@\n教会にやってきた\nマスターとアスカロン\n\n# textflame 1 1\n@%(unitName:unit_a)s\nわぁ…\nすっごく神秘的…\n\n# textflame 1 1\n@%(unitName:unit_a)s\nねぇ、マスター…\n\n# textflame 1 1\n@%(unitName:unit_a)s\nマスターは夜の教会って\nどう思いますか？\n\n# select \"すごく綺麗…\" \"select_label_01\" \"すごく神秘的だと思う\" \"select_label_02\" \"なんだか新鮮だね\" \"select_label_03\"\nマスターは夜の教会って\nどう思いますか？\n\n# label \"select_label_01\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_02\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_03\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_end\"\n# waitandnext 0.1\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

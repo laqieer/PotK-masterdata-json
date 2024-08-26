@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 100811,
+		"script": "# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_park_day\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 0 0\n@\nマスターはグラムを誘って\n森にやってきた\n\n# voice 1008 \"guramu_0001\" \n# textflame 1 1\n@%(unitName:unit_a)s\nねぇ、マスター\n私ね、小鳥とお話できるの！\n\n# textflame 1 1\n@%(unitName:unit_a)s\nみんな、おいでー！\n\n# textflame 0 0\n@\n小鳥たちに囲まれて\n普段は見せないような\nラフな笑顔を見せるグラム\n\n# face %(unit_a)s \"smile\"\n# voice 1008 \"guramu_0004\"\n# textflame 1 1\n@%(unitName:unit_a)s\nふふ…かわいいなぁ…\nマスター、この子たちが\nなんて言ってるか…わかる？\n\n# select \"僕たちを祝福してる\" \"select_label_01\" \"ごめん、わからない\" \"select_label_02\" \"教えてほしいな\" \"select_label_03\"\nふふ…かわいいなぁ…\nマスター、この子たちが\nなんて言ってるか…わかる？\n\n# label \"select_label_01\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_02\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_03\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_end\"\n# waitandnext 0.1\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

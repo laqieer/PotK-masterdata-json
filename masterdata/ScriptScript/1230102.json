@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 1230102,
+		"script": ";;■□■２－３改修案■□■\n;;【２－３－１（バトル後）】\n;;整形済み\n# script \"lisp\"\n# background \"valley\"\n# bgm \"bgm004\" 0\n# body 24\n# pos 24 1\n# scale 24 0.8 0\n# alpha 24 1 0\n# body 0\n# pos 0 3\n# scale 0 0.8 0\n# alpha 0 1 0\n# body 1\n# pos 1 5\n# scale 1 0.8 0\n# alpha 1 1 0\n;;バトル\n# face 24 \"angry\"\n# face 1 \"sad\"\n# textboxarrow 0 2\n# face 0 \"angry\"\n# voice 9999 \"durin_1023\"\n@デュリン\n締め出したってどういうことよ？\nアンタたち…そのナパルって子を、\n村から追いだしたわけ？\n\n# textboxarrow 0 1\n# face 24 \"mad2\"\n@ティルフィング\nデュリン！\n村の皆さんを避難させて！\n\n# textboxarrow 0 3\n@村人A\n…他に手立てが無かったのだ\n\n@村人A\n事実…\nナパル一家を村外へ追放してから、\n異族の襲来は激減した…\n\n# textboxarrow 0 2\n# voice 9999 \"durin_0010\"\n@デュリン\n一家！？\nまさか、アンタたち…\nその子のみならず家族までも…！？"
+	}
+]

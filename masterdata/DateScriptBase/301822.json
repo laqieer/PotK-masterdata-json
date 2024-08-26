@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 301822,
+		"script": "# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_shipboard\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# voice 3018 \"forcas_0003\"\n@フォルカス\n…はい\n波と風の音しかなくて\nそれに自分が溶け込んでるみたいです\n\n# textflame 0 0\n@\nフォルカスは船首に立ち\n風を全身で浴びる\n\n@\nそのままどこかに消えてしまいそう\nそう感じるほど、\nフォルカスの姿が幻想的だった\n\n# voice 3018 \"forcas_0023\"\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@フォルカス\nマスター！？\n\n# textflame 0 0\n@\n本当に幻じゃないのか\nそんな気分になり確かめるため\nフォルカスの手を思わず取った\n\n# voice 3018 \"forcas_0004\"\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@フォルカス\n…ふふ…大丈夫です\n\n@フォルカス\nマスターを置いて\nどこかに行ったりはしません\n\n@フォルカス\n私の居場所はあなたの隣…\nそこしかありませんから\n\n# textflame 0 0\n@\nフォルカスはそう言って\nマスターの手を強く握り返す\n\n@\nマスターはフォルカスの\n存在をしっかりと感じながら、\n空と海の境界を眺めるのだった\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

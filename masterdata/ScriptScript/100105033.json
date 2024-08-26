@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 100105033,
+		"script": ";;5_3_3\n# script \"lisp\"\n# background \"101_cave\"\n# bgmfile \"bgm271\" \"BgmLostRagnarokEvent\" 0\n# body 3100111\n# pos 3100111 3\n# scale 3100111 0.8 0\n# mask 3100111 off\n# body 136\n# pos 136 3\n# scale 136 0.8 0\n# alpha 136 0 0\n# mask 136 off\n# body 3103811\n# pos 3103811 3\n# scale 3103811 0.8 0\n# mask 3103811 off\n# alpha 3103811 0 0\n# textwindow \"nomal\"\n# textflame 1 1\n# face 3100111 \"angry\"\n# voice 310011 \"masamune_ge_0004\"\n# textboxarrow 0 2\n@マサムネ\nずいぶんと疲弊しておるではないか…\nひと思いに斬って捨てるも\n武士の情けか…\n\n# voice 1038 \"almace_battle_0005\"\n# alpha 3100111 0 0.5\n# alpha 3103811 1 0.5\n# face 3103811 \"worry\"\n# textboxarrow 0 2\n@アルマス\n私は、まだ…\n\n# face 136 \"surprise\"\n# alpha 3103811 0 0.5\n# alpha 136 1 0.5\n# textboxarrow 0 2\n@ナディア\nもう…止めて下さい！\n\n# voice 1038 \"almace_0015\"\n# alpha 136 0 0.5\n# alpha 3103811 1 0.5\n# face 3103811 \"surprise\"\n# textboxarrow 0 2\n@アルマス\nナディア…？\n"
+	}
+]

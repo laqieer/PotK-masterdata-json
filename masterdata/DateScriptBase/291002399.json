@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 291002399,
+		"script": ";;//正解\n# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body 2100221\n# pos 2100221 3\n# mask 2100221 off\n# chara 2100221\n# fadein \"black\" 0.5\n# textflame 1 1\n# face 2100221 \"smile\"\n# se \"SE_0732\"\n# voice 210022 \"revatein_k_0006\"\n@レーヴァテイン\nさすが、マスター\n正解だよ\n\n@レーヴァテイン\nクイズ考えるのめんどうで、\n私のこと問題にしたけど…\nやるじゃん\n\n;;モノローグ\n# textflame 0 0\n@\nどうやら正解したようだ\nどことなくレーヴァテインも\n機嫌がいい\n\n# textflame 1 1\n@レーヴァテイン\nん…でも、\n私のこと知られてるって思うと\n少し落ち着かないね…\n\n@レーヴァテイン\nまあ、わかってくれてるのは\n素直にうれしいよ…\n\n# voice 210022 \"revatein_k_0030\"\n@レーヴァテイン\nその…ありがとね、マスター\n\n;;モノローグ\n# textflame 0 0\n@\n照れくさそうに\nそう言うレーヴァテイン\n\n# textflame 1 1\n@レーヴァテイン\nほ、ほらっ…\n時間も潰れたし、\nさっさと戻るよ…\n\n;;モノローグ\n# textflame 0 0\n@\nそう言ってそそくさと\n歩き出す彼女を\n慌てて追いかける\n\n;;モノローグ\n@\nその横顔は、\n嬉しさのせいか\nかすかに緩んでいた…\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

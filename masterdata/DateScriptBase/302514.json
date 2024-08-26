@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 302514,
+		"script": "# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_park_night\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# voice 3025 \"minerva_0004\"\n# face %(unit_a)s \"smile\"\n@ミネルヴァ\nあ、そうですね\n夏とは言え、夜は冷えますよね…\n\n@ミネルヴァ\nいえ、なんでもないんです\nお気遣いありがとうございます…\n\n# voice 3025 \"minerva_0028\"\n# face %(unit_a)s \"sad\"\n@ミネルヴァ\n…………\n\n@ミネルヴァ\nそれでは、そろそろ戻りましょうか\n風邪をひくと悪いですし\n\n# textflame 0 0\n@\nミネルヴァが立ち上がる\n小さくため息を吐いたようだった\n\n@\n気遣いを間違えたのかもしれない…\n互いに無言のままの帰り道で\n後悔するマスターだった\n\n# waitandnext 2\n# fadeout \"black\" 1.2"
+	}
+]

@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 110204019,
+		"script": ";;------------------------------------------------------------\n;;背景：平原\n;;ステージ17：211002056\n;;戦闘後会話のみ\n;;------------------------------------------------------------\n# script \"lisp\"\n# background \"plain\"\n# bgmfile \"bgm413_414\" \"BgmIntegralNoahBattle001\" 0\n# body 103611\n# pos 103611 2\n# scale 103611 0.8 0\n# body 196\n# pos 196 4\n# scale 196 0.8 0\n# layer 103611 1\n# layer 196 2\n# mask 103611 off\n# mask 196 off\n# textwindow \"nomal\"\n# face 103611 \"usual\"\n# face 196 \"normal\"\n# textflame 1 1\n# textboxarrow 0 3\n# voice 9943 \"almace_navikan_0001\"\n@アルマス\n最後の敵は\nなんだか強そうね\n\n# textboxarrow 0 1\n@ラグナロク\nそうね…けれど、\nこれが最後のクエストに\nなるから頑張って\n\n@ラグナロク\nもし勝てなくても\nメタルガーデンや姫統合、\nスキルレベルを上げることで\n\n@ラグナロク\n勝機も見えてくるはずよ\n\n# face 196 \"happy\"\n# textboxarrow 0 3\n@アルマス\nあなたならきっと大丈夫\n私たちも応援してるから！"
+	}
+]

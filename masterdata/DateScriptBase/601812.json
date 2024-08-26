@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 601812,
+		"script": ";;大A外に出ようか\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_church\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask 2601811 on\n# chara %(unit_a)s\n# face %(unit_a)s \"sad\"\n# voice 260181 \"wizu_0003\"\n# textflame 1 1\n@ウィズ\nそ、そうですね！\n\n# face %(unit_a)s \"usual\"\n@ウィズ\nこのままいたら私、浄化される…\nまではいかないのですが\n体調を崩しかねませんから\n\n@ウィズ\nせっかく連れてきて\n頂いたのに残念です\n\n# face %(unit_a)s \"normal\"\n# voice 260181 \"wizu_0004\"\n@ウィズ\nでも、あなたと一緒に\n外から眺めているだけでも\n私は十分に幸せですよ\n\n# textflame 0 0\n@\nそう言って、\nウィズは嬉しそうに笑った\n\n# voice 260181 \"wizu_0001\"\n# textflame 1 1\n@ウィズ\n私の身体を気遣ってくれて\nありがとうございます\n\n@ウィズ\nあなたは、本当に\n優しい方なのですね\n\n@ウィズ\n魔王軍幹部の私が言うのも\nおかしな話ですが…\n\n@ウィズ\n私の世界にも、\nあなたのような方がいると\nいいのですけどね\n\n# textflame 0 0\n@\nマスターは、ウィズの手をとる\n\n# textflame 0 0\n@\nそして教会に背を向けると\nふたり並んでゆっくりと歩き出した\n\n;;-----------------------------------------\n# waitandnext 2\n# fadeout \"black\" 1.2\n"
+	}
+]

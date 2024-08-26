@@ -1,0 +1,352 @@
+[
+	{
+		"ID": 1,
+		"name": "tutorial.unit004_2",
+		"description": "#character 7\n#background black\n#y -50\nここではユニットの\n細かい情報が確認できるほかに\n「武具」を装備させることができるわ\n\n#y -50\n右の「武具装備」のアイコンを\nタップしてみて"
+	},
+	{
+		"ID": 2,
+		"name": "tutorial.unit004_4",
+		"description": "#character 7\n#background black\nユニットはジョブに合わせた\n武具を装備することができるわ\n\n武具は装備するだけで\nステータスが上がるから\n装備した方がいいわよ"
+	},
+	{
+		"ID": 3,
+		"name": "tutorial.unit004_8_3",
+		"description": "#character 7\n#background compose1\n他のキル姫を\n素材として統合させることで\n\nベースとして選んだキル姫を\nパワーアップさせることが\nできるわ\n\n統合の素材に選んだキル姫は\n消えてしまうから、\n選ぶときは注意して\n\n#background compose2\n#y 350\nここをタップすると\n統合素材となる\nキル姫を選択することができるわ\n\n#background compose3\n#y 0\n姫統合に使用する\nキル姫を選択すると、\nこの画面でステータスの\n上昇量が確認できるわ\n\n#background compose4\nあと、同じキル姫を統合すると\n「淘汰値」が上昇するのよ\n\n#background black\n同じキル姫っていうのは\n同じ絵柄のキル姫ってことよ\n\n「淘汰値」が上がると、\n新しいスキルを習得した時に\n「淘汰値」の分だけ\nスキルレベルが上昇するの\n\nそれに同じ絵柄のキル姫を\n統合することで\n「上限突破」をすることができるわ\n\n「上限突破」をすると、\nレベルの最大上限が上がるのよ\n\n「上限突破」は\n最大4回までできるわ\n\n同じ絵柄のキル姫がいなくても\n「上限突破」ができる\n特別なアイテムとか\n\n「フェアリー」っていう\n特殊な素材ユニットが\n存在するわ\n\nいろんな種類の「フェアリー」が\nいるみたいだから、\n入手できたら\n使ってみるといいわよ"
+	},
+	{
+		"ID": 4,
+		"name": "tutorial.unit004_9_9_evo",
+		"description": "#character 7\n#background evolution1\nここでは姫を上位ジョブに\n進化させることができるのよ\n\n進化するとランクが上がるわ\n☆４なら☆５に、\n☆５なら☆６になるの\n\n姫進化には専用の素材とゼニー\nそれから、キル姫のレベルを\nMAXにする必要があるわ\n\n#background evolution2\nこっちが進化前の\nキル姫のステータスで\n\n#background evolution3\nこっちが進化後の\nキル姫のステータスよ\n\n進化後はレベル１に戻るけど、\n進化前のステータスの\n１０％を引き継ぐわ\n\nつまり、最終的に強いキル姫に\n育てたいなら、強く成長させた\nキル姫を進化させるべきね\n\n#background evolution4\n#y 300\nこれが姫進化に必要な素材になるわ\n\nそれと、☆５から☆６への進化なら\n限界突破の回数も\n引き継ぐことができるわよ\n\n☆４から☆５への進化の場合、\n同じ絵柄のキル姫を統合した場合は\n限界突破の回数も引き継げるけど…\n\nフェアリーで限界突破した場合は\n限界突破の回数は引き継げないから\n注意して"
+	},
+	{
+		"ID": 5,
+		"name": "tutorial.shop007_1_base",
+		"description": "#character 5\n#background shop1_before\nゼニーショップでは、\nおもに「支給品」を買う事ができるの\n\n#background shop2\nレアメダルショップでは期間限定、\n個数限定の貴重な武具などが買えるわ\n見逃すと損だから気をつけなさい\n\n#background shop3\n貯まったレアメダルで\nスロットを回すこともできるわ\nいろいろな景品がもらえるのよ"
+	},
+	{
+		"ID": 6,
+		"name": "tutorial.bugu005_3",
+		"description": "#character 7\n#background gear1\n武具統合では２～５個の武具を\n統合させることで新しい武具を一つ\n生み出すことができるわ\n\n#background gear3\nここに武具統合に使用する武具を\nセットして統合を行うのよ\n\n#background gear2\n統合する武具の種類により\n出現する武具が完成するから\nいろいろ試してみて\n\n欲しい武具があるなら\n「レシピ」から選んで\n統合するといいわよ\n\n「レシピ」からの統合なら\n狙っている武具を確実に\n完成させることができるわ"
+	},
+	{
+		"ID": 7,
+		"name": "tutorial_battle1",
+		"description": "#turn 1\n#background battle9\nやはり…あなたが…\nあ、いえ…今は\n敵を倒すのが先決\n\nそれでは…マスター\n私に戦闘の指示をお願いします\nまずは敵に近づきましょう\n\n#background battle11\n移動先を決めたら\n「待機」することで\n行動が完了します\n#turn 2\n敵への攻撃指示をお願いします\n敵に隣接していれば\n攻撃することができます"
+	},
+	{
+		"ID": 8,
+		"name": "tutorial_battle2",
+		"description": "#turn 1\n#background battle7\n#character 1\nよ、与一は…弓で戦います\n遠距離からの攻撃は\n任せてください！\n\n#character 1\n#background battle6\nでも、近距離での攻撃はできません…\nそこに注意して、\n指示をお願いします\n\n#character 2\n#background battle5\nあたしは銃を使った\n「魔弾」で攻撃するのさ！\nさまざまな距離から攻撃できんだぜ？\n\n#character 2\n#background battle4\n魔弾は強力だけどHPを消費するから\n多用は禁物だぜ！\n\n#character 3\n#background battle3\nあたしは杖で、HPを回復する\n魔弾を使えるの〜。\nHPが減ったらまかせてね\n\n#character 0\nマスター、私たちを指揮して\n異族を殲滅してください\n#turn 2\n#background battle1\n仲間が傷ついたら、\n「支給品」の生命水を使って\nHPを回復してみてください\n\n#background battle8\n#y 350\n支給品は、\nプレイヤーフェーズの最初にしか\n使用することができません\n\n#background battle10\n#y 350\nまた、「MENU」から\n様々な情報を確認できます。\n\n#background battle10\n#y 350\n全員行動させる必要がない時は\nこちらからのMENUから\n「ターン終了」してください"
+	},
+	{
+		"ID": 9,
+		"name": "tutorial_finish",
+		"description": "新たな仲間が加わったら\nチーム編成でチームに\n組み込んでください\n\nマスターは飲みこみが早いですね\nこれで戦闘の基本は問題ありません\n\nそして、ここから…\nマスターとの旅が始まります\nどうか…よろしくお願いします"
+	},
+	{
+		"ID": 10,
+		"name": "COMMISSION_ON_TRADE",
+		"description": "■　事業者\n株式会社gumi\n■　運営責任者\n川本寛之\n■　住所\n所在地:　〒160-0023　東京都新宿区西新宿四丁目34番7号\n■　お問い合わせ先\nsupport-pk@fg-games.co.jp\n電話番号：（03）5358－5330（なお、当社の提供するサービスに関する苦情、お問い合わせ又は相談については、上記のメールアドレスよりご連絡ください。）\n■　販売価格・分量・対価\n対象となるデジタルコンテンツごとに、都度購入画面にて表示される価格・分量。なお、当該価格には消費税を含みます。\n■　販売価格・対価以外の必要料金\n当社の提供するサービスを利用するための機器に関する費用、インターネット接続料金、パケット通信料、電気通信回線の通信料金等はお客様のご負担となります。\n■　商品の引渡時期・役務の提供時期\n購入手続完了後、即時又は別途購入画面に定める時期にお引き渡し又は提供致します。\n■　代金・対価の支払時期及び方法\nお支払いの時期及び方法は、対象となるデジタルコンテンツのプロバイダの定める支払方法によります。詳細につきましては対象となるデジタルコンテンツのプロバイダがご案内しているweb等でご確認ください。なお、姫石(有償)を用いる場合、別途の定めがある場合を除き、即時に消費されます。\n■　返品及び交換\nデジタルコンテンツの特性上、購入手続完了後のキャンセル、返品又は交換には応じられません。\n■　動作環境\n対象となるデジタルコンテンツごとに動作環境の説明ページを設けておりますので、そちらをご参照下さい。\n■　販売期間・特別の販売・提供条件その他\n当社が提供するサービスに関する販売期間や特別な販売・提供条件がある場合には、対象となるデジタルコンテンツごとにお知らせしますので、そちらをご参照下さい。また、当社が提供するサービスのご購入は、必ず対象となるデジタルコンテンツの利用規約( https://pk.fg-games.co.jp/terms/ )の内容をご確認いただき、当該利用規約に同意の上行ってください。"
+	},
+	{
+		"ID": 13,
+		"name": "ACT_ON_SETTLEMENT_OF_FUNDS",
+		"description": "資金決済法に基づく表示（姫石）\n■　前払式支払手段の名称\n姫石\n■　前払式支払手段発行者\n株式会社gumi\n東京都新宿区西新宿四丁目34番7号\nhttps://gu3.co.jp/\n■　支払可能金額等\n姫石について\n上限はありません。\nただし、1か月間(毎月1日から末日まで)に購入できる額の上限は、利用者の年齢に応じて、それぞれ以下の通りとします。\n・14歳未満: 3千円まで\n・14歳以上18歳未満: 1万円まで\n・18歳以上: 購入限度額はございません。\n詳しくは、当社のデジタルコンテンツ等のサービスの利用規約（https://pk.fg-games.co.jp/terms/）をご覧ください。\n■　有効期限\n有効期限はありません。\n詳しくは、当社のデジタルコンテンツ等のサービスの利用規約（https://pk.fg-games.co.jp/terms/）をご覧ください。\n■　苦情または相談窓口\n所 在 地：東京都新宿区西新宿四丁目34番7号\n株式会社gumi（サポートセンター）\n連 絡 先：メールでのお問い合わせ　（support-billing@gu3.co.jp）\n■　ご利用いただける場所の範囲\n当社の提供するゲームのうち、ファントム オブ キル内でご利用いただけます。\n■　利用上の注意\n原則として姫石の払い戻しは行っておりません。\n詳しくは、当社のデジタルコンテンツ等のサービスの利用規約（https://pk.fg-games.co.jp/terms/）をご覧ください。\n■　不正取引が行われたことにより発生した損失の補償その他の対応に関する方針\n当社は、お客様以外の第三者によって、姫石がお客様の意思に反して権限なく購入・利用された場合や、クレジットカード等の支払手段の所有者の意思に反して、当該支払手段が姫石に連携・利用された場合（以下、総称して「不正取引」といいます。）について、次のとおり対応いたします。\n(1)補償の有無・内容・要件\nお客様及び連携先支払手段（クレジットカード等）の所有者（以下、お客様と併せて「お客様等」といいます。）に不正取引による損失が生じた場合には、情報の紛失や管理上の不備等の当該お客様等の責めに帰すべき事由による場合を除き、不正取引の内容に応じて、プラットフォーム提供会社若しくは連携先（クレジットカード会社等）を通じて、又は当社により、補償が行われます。なお、当社の免責事由の詳細については、当社のデジタルコンテンツ等のサービスの利用規約（https://pk.fg-games.co.jp/terms/）も併せてご参照ください。\nお客様等に対する補償は、お客様等が被った損失の内容に応じて、姫石の残高の付与又は金銭を支払う方法により、行われるものとします。なお、お客様等が補償を求める場合には、下記(2)に従った手続を行うとともに、プラットフォーム提供会社若しくは連携先又は当社による調査に協力していただくことになります。お客様等が当該手続を怠った場合には、お客様等に生じた損失の全部又は一部について、補償が行われないことがあります。\n(2)補償手続\nお客様等は、不正取引による損失が発生した日（継続して複数回の損失が発生した場合はその最終の損失発生日）から［60］日以内に、当該損失が発生した事実及びその詳細を当社に通知するものとします。また、その被害について、警察署に申告しなければならないものとします。\n(3)補償に関する相談窓口及び連絡先\n姫石の不正利用その他不具合等を確認した場合、上記の「苦情または相談窓口」までご相談ください。\n(4)不正取引の公表基準\n当社は、不正取引が発生した場合又はそのおそれがある場合について、当該不正取引の態様を踏まえ、被害の拡大(二次被害)を防止するために必要があると判断したとき、類似の事案の発生を回避するために有益であると判断したとき、被害額や件数等の事情において社会的な影響が大きいと認められるときは速やかに必要な情報を公表いたします。\n■　未使用残高のご確認方法\n当社のデジタルコンテンツ等のサービスの購入時又はご利用時に、お客様のご利用の端末の画面上でご確認いただけます。\n■　発行保証金の供託及び発行保証金に関するお客様の権利\n当社は、事業の破綻リスクからお客様の皆様を保護するために、資金決済法第14条第1項の規定に基づき、基準日未使用残高（毎年3月31日、9月30日時点における未使用残高であって、資金決済法第3条第2項及び前払式支払手段に関する内閣府令第4条に定めるところにより算出した額をいいます。）の２分の１以上の額を発行保証金として供託所に供託しております。\nまた、お客様は、かかる発行保証金について、資金決済法第31条第1項に基づき、前払式支払手段に係る債権に関して、当社の他の債権者に先立ち弁済を受ける権利を有しております。\n■　約款、利用規約等\n当社のデジタルコンテンツ等のサービスの利用規約 （https://pk.fg-games.co.jp/terms/） をご参照ください。"
+	},
+	{
+		"ID": 14,
+		"name": "COPYRIGHT",
+		"description": "Copyright FgG / Powered by gumi Inc."
+	},
+	{
+		"ID": 16,
+		"name": "tutorial.colosseum1",
+		"description": "#character 7\n#background colosseum7\nコロシアムへようこそ\n\nそれじゃ、\n「コロシアム」について、\nルールを簡単に説明するわね\n\nコロシアムではこの世界で\nプレイしている他のマスターと\n１対１のデュエルで\n\n実力を競い合えるのよ\n\nプレイヤーはチームを編成して\n対戦相手とのデュエルを５戦行うわ\n\n全てのデュエルが終了した時点で\n勝利数の多かった方が\n勝利になるのよ\n\n勝利数が同じだった場合は\n全体で与えたダメージが\n多かった方が勝利になるわ\n\n#background colosseum1\nコロシアムには最大\n３CP（コロシアムポイント）が\nあって、\n\n１デュエルで\n１CPを消費して戦うのよ\n\nCPは１時間で１回復するけど、\n姫石を使うことで\n全回復させることもできるわよ\n\n#background colosseum2\n#y 350\nコロシアムでは特定の条件の\nユニットに対して、期間限定で\nボーナスが付くの\n\nボーナスには\nステータスをアップさせる\n効果があるから\n\n対象ユニットをチームに編成して\nデュエルに挑むことが\n勝利のカギになりそうね\n\n#background colosseum3\nチーム編成は\nこのボタンから\n行うことができるわ\n\n自分からデュエルを\n仕掛けるときは\n\nチーム編成で設定している\nデッキが使用されるわ\n\n逆に、バトルを\n仕掛けられたときは\n\n仕掛けたときに使用したデッキが\nそのときの状態で使用されるの\n\n#background colosseum7\n通常のデュエルと同じで\nリーダースキルを持っている\n\nユニットをリーダーに\n設定すると、\n\nチーム全体にリーダースキルの\n効果がかかるわ\n\nデュエルでは仕掛けた方が\n必ず先制攻撃するわけじゃなく、\n\n対戦するユニットの\nステータスを比較して\n\nどちらが先制攻撃するかが\n決まるのよ\n\n#background colosseum4\n#y 350\nそれじゃ、\n「対戦相手を選ぶ」ボタンを\n押してみて\n\n対戦相手候補の情報を\n見てみて"
+	},
+	{
+		"ID": 17,
+		"name": "tutorial.colosseum2",
+		"description": "#character 7\n#y 350\n対戦相手は\n累計獲得ランクポイントの近い\nプレイヤーが最大３人選ばれるわ\n\nその中から\n対戦相手を１人選択するのよ\n\n#background colosseum5\n#character 7\nそれじゃ、\n対戦相手を選択して、\n一度、デュエルをしてみるわよ"
+	},
+	{
+		"ID": 18,
+		"name": "tutorial.colosseum3",
+		"description": "#character 7\nデュエルに勝利すると、\nランクポイントを\n取得することができるわ\n\n逆に、デュエルで負けると\n獲得したランクポイントが\n減少するわ\n\nランクポイントはプレイヤーが\n自分でデュエルを仕掛けた\n場合のみ変動するわ\n\n獲得したランクポイントが\n一定値に達すると\n\nランクの昇格を決める\nランクバトルが発生するわ\n\nそのランクバトルに\n勝利することで、\nランクが１つ昇格するわ\n\n逆に、\n取得したランクポイントが\n一定値を下回ると、\n\nランクの降格を決める\nランクバトルが発生するわ\n\nそのランクバトルに\n負けると\nランクが１つ降格するの\n\nランクが昇格すると、\n初回のみランクアップ報酬が\n貰えるわ\n\nランクアップ報酬では\nここでしか入手できない武具や\nファンキルメダルなどを\n\n獲得することができるわ\n\nランクポイントを獲得して\n豪華報酬を手に入れてね\n\nあとはランクバトルに勝利して\nランクが昇格すると、\n称号を獲得することができるわ\n\n称号はランク昇格以外に、\nデュエルの実績などの条件でも\n獲得することができるから、\n\nいろいろな称号があるみたいだから\n獲得にチャレンジしてみて\n\n獲得した称号は\nメニューの称号から\n設定することができるわ\n\n報酬には\nランクアップ報酬とは別に、\n\n一定数勝利すると獲得できる\n累計勝利報酬があるの\n\n累計勝利報酬では\nファンキルメダルを\n獲得することができるわ\n\n獲得したファンキルメダルは\nファンキルメダルショップで\n\n限定武具に統合できる\nアイテムなどに交換することが\nできるわよ\n\nファンキルメダルショップは\nメニューのショップから\n確認することができるわ\n\n交換できる限定武具は\n期間によって入れ替わるから\nこまめにチェックするといいわよ\n\n#background colosseum6\n#y 350\n最後に、ユニットの\n獲得経験値についてよ\n\nコロシアムでは1日５回まで\n経験値を獲得することができるわ"
+	},
+	{
+		"ID": 19,
+		"name": "tutorial.colosseum4",
+		"description": "#character 7\n#background colosseum7\n以上がコロシアムの\n基本的なルールよ\n\n対戦相手とのデュエルを制して\nファンキル最強を\n目指すのよ！"
+	},
+	{
+		"ID": 20,
+		"name": "tutorial.shop007_1_colosseum",
+		"description": ""
+	},
+	{
+		"ID": 21,
+		"name": "tutorial.shop007_1_colosseum_closed",
+		"description": ""
+	},
+	{
+		"ID": 22,
+		"name": "tutorial.shop007_1_base_slot",
+		"description": "#character 7\n#background shop1\nゼニーショップでは、\nおもに「支給品」を買うことが\nできるわ\n\n#background shop2\nレアメダルショップでは期間限定や\n個数限定の貴重な武具や\nアイテムが交換できるのよ\n\n見逃さないように\n気を付けてね\n\n#background shop3\n貯まったレアメダルを使って\nスロットを回すことができるわ\n色々な景品が当たるチャンスよ\n\n#character 7\n#background shop4\nファンキルメダルショップでは\nコロシアム限定の武具や\n色々なアイテムが交換できるのよ\n\n#background shop5\nコイン交換所では、\n獲得したコインと様々な報酬を\n交換することができるわ\n\nこまめにチェックしてね"
+	},
+	{
+		"ID": 23,
+		"name": "tutorial.dailymission027_1",
+		"description": "#character 7\n#background black\nパネルミッションについて\n説明するわね\n\nパネルミッションでは\nクリアすると報酬を貰える\nミッションが複数用意されているわ\n\n#background daily_mission1\n#y 350\nミッションは全部で9個あって\nパネルをタップすると\n詳細が確認できるわ\n\n#background daily_mission2\n#y 0\nミッションをクリアすると\n報酬が受け取れるのよ\n\n#background daily_mission3\nさらにミッションをクリアすると\nパネルが開放されていくわ\n\n#background daily_mission4\n全てのパネルを開放すると、\n強力なユニットや豪華なアイテムが\n貰えるわ\n\n#background black\nそれじゃ、頑張ってクリアしてね"
+	},
+	{
+		"ID": 24,
+		"name": "tutorial.dailymission027_2",
+		"description": "#character 5\n#background black\nデイリーミッションを\n説明してあげる\n\n#background black\nデイリーミッションは毎日0時に\n出されるミッションよ\n\nミッションをクリアすると、\n内容に応じた報酬が獲得できるわ\n\nミッションの中には特定の時間帯に\nログインすることで\nAPをもらえたり…\n\nミッションをクリアすることで\n経験値がもらえたりするの\n\nかなりお得なミッションもあるから\nチャレンジしてみなさい"
+	},
+	{
+		"ID": 25,
+		"name": "tutorial.pvp1",
+		"description": "#character 7\nマルチ対戦へようこそ\n「マルチ対戦」について\nルールを簡単に説明するわね\n\nマルチ対戦では、他のマスターと\nリアルタイムオンライン対戦を\n行えるのよ\n\n#background versus_multi1\n#y -50\n編成したチームを率いて\n対戦相手と交互に\nユニットを動かして\n\n相手ユニットを倒すことで\n相手のゲージを削ることができるわ\n\n規定ターン内に相手のゲージを\n削りきれば勝利よ\n\n規定ターンを過ぎた場合は\nゲージの残量が多い方が\n勝利になるわ\n\nゲージの残量が同じ場合は\n引き分けになるから\n注意が必要ね\n\n削れるゲージの量は\n倒されたユニットのレアリティや\nコストで変化するのよ\n\nまた、倒されたユニットが\nリーダーだと、削れるゲージ量は\n多くなるわ\n\n#background versus_multi2\n#y -50\n倒されるとユニットは\n待機状態になって\n復帰までのカウントが表示されるわ\n\nカウントは、他のユニットが\n行動すると減っていくの\n\n全ユニットが行動終了か\n待機状態になるとターンが終了して\n次のターンへ進むわ\n\nターン切り替わり時に\nカウントが０になったユニットは\n自陣内に復帰できるわ\n\n#background versus_multi3\n#y -50\nユニットを動かす１手ごとに\n制限時間があるから\n注意して\n\n制限時間が過ぎると１ユニットが\n行動終了になって相手がユニットを\n動かせるようになるわ\n\nまた、行動できるユニットが\nいない場合は、相手が連続して\nユニットを動かすことになるわ\n\nもし、通信が切れた場合は\nAIが代わりに操作を行うわ\n\n通信が回復して、復帰できれば\nAIから操作を引き継げるわよ\n\nでも、対戦を楽しむためには\nなるべく通信環境がいい場所で\nマルチ対戦を行った方がいいわね\n\n#background black\nそれじゃ、\n各マッチングについて\n説明するわね\n\n#background versus_multi4\n#y 350\n制限なく戦えるフリーマッチには\n特定のマスターとの対戦をする\n『フレンドマッチ』と\n\n#background versus_multi5\n#y 350\nチームの強さを見て\n対戦相手が選ばれる\n『ランダムマッチ』があるわ\n\n#background versus_multi6\n#y -50\nクラスマッチについては\n参加できるようになったら\n改めて説明するわね\n\n#background versus_multi7\n#y 350\nまずは『ランダムマッチ』を\n選択して"
+	},
+	{
+		"ID": 26,
+		"name": "tutorial.pvp2",
+		"description": "#character 7\nここがランダムマッチの画面よ\n\n#background versus_random1\n#y -50\nランダムマッチでは\n同じくらいの強さの相手と\nマッチングしやすい『ノーマル』か\n\n#background versus_random2\n#y -50\n自分よりも強い相手と\nマッチングしやすい\n『チャレンジ』を選択できるわ\n\n#background versus_random3\n#y 350\nボーナスにはステータスを\nアップさせるなどの\nいろいろな効果があるのよ\n\nあと、マルチ対戦では\n特定条件のユニットに対して\n期間限定でボーナスが付くのよ\n\nボーナス対象のユニットを\nチームに編成して対戦に\n挑んでみて\n\n#background versus_random4\n#y 350\n『マッチング開始』ボタンを\nタップすると、\n\nマッチング相手を\n探している他のマスターから\n対戦相手が選出されるの\n\nだけど、マッチング相手が\n見つからないこともあるわ\n\nそんな時は、時間を空けてから\n再度マッチングを行ってみて\n\n#background versus_random5\n#y -50\nマッチング相手が選ばれると\n戦闘準備画面に行くわ\n\nここでは、制限時間内に\nユニットの初期配置を変更できるの\n\n#background versus_random6\n#y -50\n準備ができたら\n『準備完了』をタップして\n\n#background versus_random7\n#y 350\nそれじゃ、\n『マッチング開始』を\nタップして、対戦を開始するわよ"
+	},
+	{
+		"ID": 27,
+		"name": "tutorial.pvp3",
+		"description": "#character 7\n対戦、おつかれさま\n\nマルチ対戦で、\n対戦したことのない相手と\n対戦終了まで戦うと\n\n決まった回数までだけど\n『初対戦ボーナス』が貰えるわ\n\n#background versus_result1\n#y 350\nまた、マルチ対戦を終了まで戦うと\n１日３回までユニットの経験値を\n獲得することができるわ"
+	},
+	{
+		"ID": 28,
+		"name": "tutorial.pvp4",
+		"description": "#character 7\n#background versus_random8\n次は、『フレンドマッチ』を\n説明するわ\n『戻る』をタップしてみて"
+	},
+	{
+		"ID": 29,
+		"name": "tutorial.pvp5",
+		"description": "#character 7\n#background versus_multi8\n#y 350\n『フレンドマッチ』を\n選択してみて"
+	},
+	{
+		"ID": 30,
+		"name": "tutorial.pvp6",
+		"description": "#character 7\nフレンドマッチは、特定の相手と\n対戦したい場合に使う機能よ\n\n#background versus_friend1\n#y -50\nフレンドと６桁の数字を決めて\nお互いのルームキーで\nその数字を入れるの\n\nそれで、同じルームキーを\n入れた相手と\nマッチングされるわ\n\n#background versus_friend2\n#y -50\n『フレンドのみ』をONにすると\nフレンドに登録している\n相手とのみマッチングされるのよ\n\nフレンドが誰もいない場合は\nONにできないからね\n\n#background versus_friend3\n#y 350\n『ルームキー』と\n『フレンドのみ』の\n設定が終わったら\n\nランダムマッチと同じように\n『マッチング開始』ボタンを\nタップしてみて\n\n#background black\nこれで、『マルチ対戦』の\n説明は終わりよ\n\nリアルタイム通信対戦で\n最強のマスターを目指してみてね！"
+	},
+	{
+		"ID": 31,
+		"name": "tutorial.firstgameover",
+		"description": "#background black\n#character 7\n大丈夫？\n初めてのゲームオーバーね\n\n私が持っている「メタルキー」を\nあげるから\nキル姫を育ててみて\n\nキル姫が成長したら\nまた挑戦してね"
+	},
+	{
+		"ID": 32,
+		"name": "tutorial.unit004_20",
+		"description": "#character 7\n#background reinforce1\n「姫強化」は強化素材を使用して\nキル姫をパワーアップできるわ\n\nでも、上昇するパラメータは\n上限値を超えることはできないの\n\nそれと、キル姫によって\n使用できる強化素材の\n最大回数は異なるのよ\n\n使用した素材は消えてしまうから、\n注意が必要ね\n\n#background reinforce2\n#y 350\nここをタップすると\n姫強化の素材を\n選択することができるわ\n\n「姫強化」に使用する素材を選択\nするとこの画面で各パラメータの\n上昇がわかるようになっているわ\n\n姫を「進化」させると\n「姫強化」の回数も\nリセットされ０になるわ\n\nそれと、「姫進化」をすると\n姫強化により上昇したパラメータも\nリセットされて０になるわ\n\n「姫転生」をしたときは\n強化の使用回数は\n引き継がれるの\n\nそれと、「姫転生」のときは、\n姫強化で上昇したパラメータも\n引き継がれるのよ"
+	},
+	{
+		"ID": 33,
+		"name": "tutorial.pvp_class1",
+		"description": "#character 5\n#background black\nクラスマッチにようこそ\n『クラスマッチ』の機能について\nルールを簡単に説明するわね\n\nクラスマッチでは、他のマスターと\nマルチ対戦を行って\n上位クラスへの昇格を目指すのよ\n\n#background versus_classmatch1\n#y -50\n10戦を1シーズンとし\n1シーズンの勝利数で\n昇格・降格・残留が決定するの\n\n昇格よりも、さらに優秀な成績で\n1シーズンを戦い終わると\nタイトルを獲得できるわ\n\nタイトル獲得・昇格・残留に\n必要な勝利数は、各クラスごとに\n決められているわ\n\nまた、これ以上戦っても\nシーズンの結果が変わらない場合は\nその時点でシーズンは終了よ\n\n#background versus_classmatch2\n#y -50\n1シーズンの対戦数は\nシーズンチケットを使用して\n増やすことができるの\n\nただし、シーズンチケットは\n1シーズン内で使える回数に\n制限があるから気をつけなさい\n\nシーズンチケットは\n各種ショップにて入手できるわ\n\n#background versus_classmatch3\n#y 100\nクラスマッチが戦える回数は\n半日に5回よ\n\n毎日0時と12時に\n5回戦える状態に回復するの\n\nまた、姫石を使うことで\nいつでも5回戦える状態に\n回復することができるわ\n\n#background black\n#y 0\n対戦相手は、近しいクラスに\n所属するマスターから選ばれるわ\n\n1シーズンが終了すると\n各クラスに設定された報酬を\n獲得できるの\n\nこの報酬は、タイトル獲得・\n昇格・残留・降格ごとに違うわ\n\nまた、各クラス初めての昇格時に\nクラス初昇格報酬を獲得できるの\n\nクラス初昇格報酬や\nクラスマッチの戦績によって\n称号を獲得することができるわ\n\nせっかくだから様々な称号の獲得に\nチャレンジしてみて\n\n獲得した称号は\nメニューの称号から\n設定することができるわよ\n\n#background versus_classmatch4\n#y -50\n報酬などの各クラス情報は\nこちらの『クラス情報』から\n確認して\n\n#background black\n#y 0\nクラスマッチで一定数勝利すると\n累計勝利報酬として\nファンキルメダルを獲得できるの\n\n獲得したファンキルメダルは\nファンキルメダルショップで\n使用できるわ\n\n#background black\n#y 0\nこれで『クラスマッチ』の説明は\n終了するよ\n\nリアルタイム通信対戦で、\nトップクラスを目指すのよ"
+	},
+	{
+		"ID": 34,
+		"name": "tutorial.pvp_class2",
+		"description": "#character 7\n#background black\nクラスマッチにようこそ\n『クラスマッチ』の機能について\nルールを簡単に説明するわね\n\nクラスマッチでは、他のマスターと\nマルチ対戦をして\n上位クラスへの昇格を目指すのよ\n\n#background versus_classmatch1\n#y -50\n１０戦を１シーズンとして\n１シーズンの勝利の数で\n昇格・残留・降格が決定するわ\n\n昇格よりも、さらに優秀な成績で\n１シーズンを終えると\nタイトルが獲得できるわ\n\nタイトル獲得・昇格・残留に\n必要な勝利数は、各クラスごとに\n決められているの\n\nそれと、これ以上戦っても\nシーズンの結果が変わらない場合、\nその時点でシーズンが終了するわ\n\n#background versus_classmatch2\n#y -50\n１シーズンの対戦数は\nシーズンチケットを使って\n増やすこともできるのよ\n\nただし、シーズンチケットは\n１シーズン内で使える回数に\n制限があるから気をつけて\n\nシーズンチケットは\n各種ショップで入手できるわよ\n\n#background versus_classmatch3\n#y 100\nクラスマッチが戦える回数は\n半日ごとに５回よ\n\n毎日０時と１２時に\n５回戦える状態に回復するわ\n\nあと、姫石を使うことで\nいつでも５回戦える状態に\n回復させることもできるのよ\n\n#background black\n#y 0\n対戦相手は、近いクラスに\n所属するマスターから選ばれるわ\n\n１シーズンが終了すると\n各クラスに設定された報酬が\n獲得できるの\n\n貰える報酬は、タイトル獲得・\n昇格・残留・降格で\nそれぞれ異なるわ\n\nまた、各クラスに初めて昇格した時に\nクラス初昇格報酬が貰えるわ\n\nクラス初昇格報酬や\nクラスマッチの戦績によって\n称号を獲得することができるの\n\nいろいろな称号があるから\n獲得に挑戦してみて\n\n獲得した称号は\nメニューの称号から\n設定することができるわよ\n\n#background versus_classmatch4\n#y -50\n報酬などの各クラス情報は\n『クラス情報』から\n確認できるわよ\n\n#background black\n#y 0\nクラスマッチで一定数勝利すると\n累計勝利報酬として\nファンキルメダルが貰えるわよ\n\n獲得したファンキルメダルは\nファンキルメダルショップで\n使用可能よ\n\n#background versus_classmatch5\n#y 100\nクラスマッチのランキングは\nここから確認できるわ\n\nクラスマッチの対戦結果で\nランキングポイントが上下するわ\n\n集計日は0時から集計されるの\n集計中はクラスマッチに\n入れないから注意して\n\n#background black\n#y 0\nこれで『クラスマッチ』の説明は\n終わりよ\n\nリアルタイム通信対戦で、\nトップクラスを目指してね"
+	},
+	{
+		"ID": 35,
+		"name": "tutorial.bugu005_9",
+		"description": "#character 7\n#background black\n武具には使い込むほど\n強くなる錬成値というものがあるわ\n\n武具を使う以外にも\n武具錬成で錬成値を\n上げることもできるわ\n\n同武具種の武具を錬成することで、\nベースに選択した武具の\n錬成値を上げることができるの\n\n錬成素材として選んだ\n武具の方は消えてしまうから\n注意が必要よ\n\nさらに、ベース武具と同一武具を\n錬成することで武具ランクの\n上限値を１つ上げることができるわ"
+	},
+	{
+		"ID": 36,
+		"name": "TRUST_MAX",
+		"description": "10000"
+	},
+	{
+		"ID": 37,
+		"name": "EQUIP_AWAKE_SKILL_RELEASE_1",
+		"description": "0"
+	},
+	{
+		"ID": 38,
+		"name": "COMPOSE_TRUST_BASE",
+		"description": "5"
+	},
+	{
+		"ID": 39,
+		"name": "tutorial.sea030_home_tutorial",
+		"description": "#background sea_home1\n#messagebox -1\n\n#background sea_home2\n#messagebox 2\nMENUは様々な機能へ\n移動できます。\n\nまずはクエストでアルバムの\n欠片を集めましょう。\n\n海上編のクエストクリアで\nユニットの好感度も上昇します。\n\n天上編へはMENUから\n移動できます。"
+	},
+	{
+		"ID": 42,
+		"name": "newchapter_battle1_tutorial",
+		"description": "#turn 1\n#character 7\n#background black\n今回は私たちの\nキル姫に手伝ってもらうわ\n\n彼女たちを指揮して\n異族を倒すのよ\n\n敵は剣と斧を装備しているみたいね\n剣には槍、斧には剣で攻撃すると\n有利になるわよ！\n\nまずは動かすキル姫をタップして\n敵に近づいてから攻撃よ！"
+	},
+	{
+		"ID": 43,
+		"name": "newchapter_battle2_tutorial",
+		"description": "#turn 1\n#character 5\n#background black\n今度は斧と槍を\n装備しているようね\n\n槍には斧が\n斧には剣が有利に\n攻撃できるわ\n\n次の敵も蹴散らすわよ！"
+	},
+	{
+		"ID": 44,
+		"name": "tutorial.newchapter_gacha1_tutorial",
+		"description": "#character 7\n#y 50\nこれからあなたは\nマスターになるんだから\nあなたのキル姫が必要ね\n\nさっそく、ガチャを引いて\nあなただけのキル姫を\n仲間にするのよ\n\n#y -2400\n#background chapter_gacha_ticket"
+	},
+	{
+		"ID": 45,
+		"name": "tutorial.newchapter_gacha2_tutorial",
+		"description": "#character 7\n#background black\nうん、心強い仲間が集まったじゃない\nもし、もっと仲間が欲しいなら姫石を\n溜めてガチャを回してみて\n\nガチャで仲間にした以外のキル姫も\n力を貸してくれるみたい\n後で編成を確認してみて\n\nこれで説明は終わりよ"
+	},
+	{
+		"ID": 46,
+		"name": "tutorial.newchapter_reincarnation1_tutorial",
+		"description": "#character 5\n#background chapter_unit_top\nここから姫転生に行けるわ\n#y 400\n\n#y -2400"
+	},
+	{
+		"ID": 47,
+		"name": "tutorial.newchapter_reincarnation2_tutorial",
+		"description": "#character 5\nここでは誰を\n転生させたいかを選ぶの\n\n今回は私を選ぶのよ\n\n#y -2400\n#background chapter_unit_Reincarnation_list"
+	},
+	{
+		"ID": 48,
+		"name": "tutorial.newchapter_reincarnation3_tutorial",
+		"description": "#character 5\n#y 200\n転生には特別な素材と\nゼニーが必要よ。\n\n今回は特別に転生に必要な素材と\nゼニーを用意してあるから\n\nさぁ、転生させてみて\n\n#y -2400\n#background chapter_unit_Reincarnation"
+	},
+	{
+		"ID": 49,
+		"name": "tutorial.newchapter_reincarnation4_tutorial",
+		"description": "#character 5\n#background black\n転生に成功したみたい\nこれでレベル1から\n鍛えなおせるわ\n\n#character 5 face angry\n…ッ！\n\nちょうどいいところに\n次の敵が来たわよ！"
+	},
+	{
+		"ID": 50,
+		"name": "tutorial.newchapter_battleresult1_tutorial",
+		"description": "#character 5\n#background black\n今の戦闘でレベルが上がったみたいよ\n\n…でもステータスがイマイチ\n上がらなかったわね\n\n姫のステータスはランダムで\n成長するから、そういう時もあるわ\n\nそんな時は姫転生よ\n姫転生を行えば、\nレベルを1に戻せるの\n\nもう一度レベル1から\n鍛えなおすことができるわ\n\nさっそく転生をしに行くわよ"
+	},
+	{
+		"ID": 51,
+		"name": "tutorial.newchapter_battleresult2_tutorial",
+		"description": "#character 5\n#background black\nさっきよりもすごく\n成長できたみたいね\n\n上昇するステータスは毎回ちがうから\n満足いかなかったら、\n転生で何度でも鍛え直せるわ\n\nただし、必ず以前よりも\n高く成長できるとは限らないから\n気をつけるのよ\n\n転生の記憶を使えば\n以前のステータスを\n保存しておくことができるわ\n\n転生の記憶は最大5つまで\n保存することができるから\n上手に使いなさい\n\n他にも姫を強くするには\n姫統合や姫強化という方法で、\n姫を強くすることが出来るのよ\n\nさらに姫には姫型という\n成長タイプが存在するの\n\n姫型によって姫の\n得意なステータスが異なるのよ\n\n私たちを強くするために\nあらゆる手段を尽くしてちょうだい"
+	},
+	{
+		"ID": 52,
+		"name": "tutorial.newchapter_home1_tutorial",
+		"description": "#character 5\n#background chapter_home1\n姫転生をするには\nここから行けるわ"
+	},
+	{
+		"ID": 53,
+		"name": "tutorial.newchapter_home2_tutorial",
+		"description": "#character 6\nここがホーム画面です\nこの画面からいろんな場所に\n行くことが出来ます\n\n左下にあるのが、『お知らせ』\n『メッセージボックス』\n『パネルミッション』ですね\n\n『メッセージボックス』には\n受け取ったアイテムが\n入っていますから…\n\n後から受け取ってくださいね\n\n右下にあるのが、\n『イベントクエスト』や\n『ストーリークエスト』\n\n『バトル』ボタンからプレイできる\n『コロシアム』や『マルチ対戦』など…\n\n色々なコンテンツを\n楽しむことができますよ\n\n右上のバナーには\n最新のイベントなどが表示されます\n\nそれじゃあ、さっそく\nこちらのバナーを\nタップしてみてください\n\n#y -2400\n#background chapter_home2"
+	},
+	{
+		"ID": 54,
+		"name": "tutorial.newchapter_quest_tutorial",
+		"description": "#character 7\n初心者クエストは\n戦いの基本を\n紹介するクエストになるわ\n\n次はこのクエストを\nプレイしてみて\n\n初心者クエストが終わったら\nストーリークエストや\nイベントクエストのような\n\n他のクエストにも\nチャレンジしてみてね\n\nあと、次のクエストから\n自動で戦いを進めてくれる\n「オート」機能や\n\nデュエル演出を\n簡易の演出に変更できる\n「簡易演出」機能\n\n戦いのスピードを倍速から４倍速に\n変えられる機能が\n使えるようになるわよ\n\nクエスト中でも変更できるから\nぜひ使ってみてね"
+	},
+	{
+		"ID": 55,
+		"name": "tutorial_fail_player_name",
+		"description": "#character 7\n有効なプレイヤー名では\nありません\n再度入力してください"
+	},
+	{
+		"ID": 56,
+		"name": "tutorial_fail_signup_title",
+		"description": "#character 7\nプレイヤー登録に\n失敗しました"
+	},
+	{
+		"ID": 57,
+		"name": "tutorial_fail_signup_text",
+		"description": "#character 7\n「OK」を押すともう一度\nプレイヤー登録を行います\n通常は「OK」を押してください\n\n「タイトルへ」を押すとチュートリアルを\n最初からやり直します"
+	},
+	{
+		"ID": 58,
+		"name": "tutorial.guild028_1_raid_tutorial",
+		"description": "#character 7\n#y -1000\n#background raid1\n\n#background raid2"
+	},
+	{
+		"ID": 59,
+		"name": "MYPAGE_0017_RAID_MEDAL",
+		"description": "レイドジュエル×%(Count)s枚"
+	},
+	{
+		"ID": 60,
+		"name": "UNIQUE_ICON_AP_RECOVERY_ITEM",
+		"description": "APチャージ"
+	},
+	{
+		"ID": 61,
+		"name": "tutorial.2020_home2_tutorial01",
+		"description": "#character 7\nここがホーム画面よ\nこの画面からいろんな場所に\n行くことができるわ\n\n左下にあるのが、「お知らせ」\n「メッセージボックス」\n「ログインボーナス」\n\n「パネルミッション」\n「フレンド」よ\n\n「メッセージボックス」には\n受け取ったアイテムが\n入ってるから\n\n後から受け取っておくのよ\n\nそれで、右にあるのが「ギルド」\n「ギルド贈り物」「ギルドバンク」\nギルドに関連するボタンがあるわ\n\nギルドに入ると色々なメリットが\nあるから、まずは「ギルド」ボタンから\nギルドに入ることをおすすめするわ\n\nそして、右下にあるのが\n「イベントストーリー」や\n「ストーリークエスト」\n\n「バトル」ボタンからプレイできる\n「コロシアム」や「マルチ対戦」\nなど…\n\n色々なコンテンツを\n楽しむことができるわ！\n\n下のバナーには「ユニット」や\n「クエスト」、「ガチャ」など色々な\nメニュー画面に移動できるのよ\n\n#background black\n#background chapter_home_Quest\nまずは「クエスト」ボタンを\nタップしてみて"
+	},
+	{
+		"ID": 62,
+		"name": "tutorial.2020_quest002_17",
+		"description": "#character 7\n#background black\nこの画面は「イベントクエスト」の\n現在開催中の「イベント」のバナーが\n表示されるわ\n\n#background chapter_EventQuest\nまずは「初心者クエスト」のバナーを\nタップしてみて"
+	},
+	{
+		"ID": 63,
+		"name": "tutorial.2020_home2_tutorial02",
+		"description": "#character 7\n#y 150\n#background black\nここから挑戦するクエストを\n選択することができるわ\n\n#background chapter_home_Quest_Event\nまずは「イベントクエスト」に\n行ってみるわよ\nボタンをタップしてみて"
+	},
+	{
+		"ID": 64,
+		"name": "tutorial.shop007_1_ipad_base_slot",
+		"description": "#character 7\n#background shop1_ipad\nゼニーショップでは、\nおもに「支給品」を買うことが\nできるわ\n\n#background shop2_ipad\nレアメダルショップでは期間限定や\n個数限定の貴重な武具や\nアイテムが交換できるのよ\n\n見逃さないように\n気を付けてね\n\n#background shop3_ipad\n貯まったレアメダルを使って\nスロットを回すことができるわ\n色々な景品が当たるチャンスよ\n\n#character 7\n#background shop4_ipad\nファンキルメダルショップでは\nコロシアム限定の武具や\n色々なアイテムが交換できるのよ\n\n#character 7\n#background shop5_ipad\nコイン交換所では、\n獲得したコインと様々な報酬を\n交換することができるわ\n\nこまめにチェックしてね"
+	},
+	{
+		"ID": 65,
+		"name": "OVERCHARGE_LIMIT",
+		"description": "999"
+	},
+	{
+		"ID": 70,
+		"name": "AP_RECOVERY_AMOUNT_STONE",
+		"description": "180"
+	},
+	{
+		"ID": 66,
+		"name": "integralnoah_battle_tutorial2",
+		"description": "#turn 1\n#character 7\n#background black\n敵を撃破できたみたいね\nさらに戦いを有利にするには\n敵の属性や武具種を知ることが\n絶・重要よ\n\n属性や武具種には有利不利があるわ\nだから、敵の属性や武具種を確認して\n攻撃してみて\n\n属性は\n風には炎、炎には氷が有効なの"
+	},
+	{
+		"ID": 67,
+		"name": "integralnoah_battle_tutorial3",
+		"description": "#turn 1\n#character 7\n#background black\n強そうなのが現れたわね\nここはデュエルスキルで\n一気に倒すわよ！\n\nデュエルスキルは\n確率で発動するキル姫特有の\n絶・強力な攻撃よ！\n\n今回は特別に\n必ず発動するようにしたから\n好きなキル姫で攻撃してみて！"
+	},
+	{
+		"ID": 68,
+		"name": "integralnoah_battle_tutorial4",
+		"description": "#turn 1\n#character 7\n#background black\nうん、いいわね\n上手く指示できたじゃない\n強敵も撃破できたわ\n\n戦いに慣れてきたら\n左上に表示されている\n地形効果も見ておくと\nさらに有利に戦いを進められるわよ"
+	},
+	{
+		"ID": 69,
+		"name": "tutorial.integralnoah_reincarnation_tutorial",
+		"description": "#character 7\n#background black\nキル姫はレベルアップした時に\nランダムでステータスが\n成長するの\n\nステータスの上がり方が\nイマイチだと感じたら、\n「転生」をしてレベルを１に戻して\nもう一度鍛え直すことができるわ\n\nただし、転生する前よりも\n高いステータスに成長するとは\n限らないから注意するのよ\n\nあと、「転生の記憶」で\n転生する前のステータスを\n保存しておくことができるわよ\n\n転生の記憶で保存できるのは\n最大で５つだから\n上手く使ってね\n\n転生には特別な素材と\nゼニーが必要よ\n\n転生しても\n統合と強化で上げた分の\nステータスは下がらないから\n安心して"
+	},
+	{
+		"ID": 71,
+		"name": "CALL_TRUST_NUM",
+		"description": "250"
+	},
+	{
+		"ID": 72,
+		"name": "ROULETTE_CLOSE_CAMPAIGN_POPUP_CONTENT",
+		"description": "[FFFF00]この画面を閉じると、\nホームへ戻ります。\nポップアップを閉じますか？[-]"
+	},
+	{
+		"ID": 73,
+		"name": "END_IOS_TEXT",
+		"description": ""
+	},
+	{
+		"ID": 74,
+		"name": "END_ANDROID_TEXT",
+		"description": ""
+	},
+	{
+		"ID": 75,
+		"name": "END_WINDOWS_TEXT",
+		"description": ""
+	}
+]

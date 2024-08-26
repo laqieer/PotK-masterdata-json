@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 7010033,
+		"script": ";;-------------------------------------\n;;塔シナリオ　ルシファー　遭遇\n;;-------------------------------------\n# script \"lisp\"\n;;-------------------------------------\n# body 3820008\n# pos 3820008 3\n# scale 3820008 0.8 0\n# alpha 3820008 1 0\n# mask 3820008 off\n;;-------------------------------------\n# textwindow \"normal\"\n# textflame 1 1\n# textboxarrow 0 2\n@ルシファー\n我がルシファーの名が示すは金星\n神の光を受けてもなお\n輝き続ける反逆の光！\n\n# textflame 1 1\n# textboxarrow 0 2\n@ルシファー\n脅威と混沌、暴虐と闘争こそ\n力を発揮する最上の環境\n\n# textflame 1 1\n# textboxarrow 0 2\n@ルシファー\n死してなお\n戦いへの渇望は消えぬ\n\n# textflame 1 1\n# textboxarrow 0 2\n@ルシファー\n血沸き肉躍る闘争こそ\n我が望み！！\n\n# textflame 1 1\n# textboxarrow 0 2\n@ルシファー\n邪魔する者は\n何人たりとも許さぬ\n\n# textflame 1 1\n# textboxarrow 0 2\n@ルシファー\n我が前に立つのであれば\nその身を絶望に染める\n覚悟を決めよ\n\n# textflame 1 1\n# textboxarrow 0 2\n@ルシファー\n救い無き、永遠の中で\n至極の苦痛を味わうがいい！"
+	}
+]

@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 102622,
+		"script": "# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_onsen\"\n# bgmfile \"bgm258\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# voice 1026 \"caladbolg_0003\"\n@カラドボルグ\nええ、それはそうよ\nだって当ててるもの\n\n# textflame 0 0\n@\n気づけばカラドボルグは\nぴったりマスターの背中に\n密着している…！！\n\n# textflame 1 1\n@カラドボルグ\n私の体の美しさ…\n目で確認してくれないというなら…\n\n# face %(unit_a)s \"smile\"\n# voice 1026 \"caladbolg_0004\"\n# textflame 1 1\n@カラドボルグ\nもうこうやって…\n形を知ってもらうしかないよね？\n\n# textflame 0 0\n@\n熱い、ものすごく熱い…\n湯の温度ではない\nなにかがマスターを沸騰させている！\n\n# textflame 1 1\n@カラドボルグ\nどう、マスター？\nちゃんと実感してる？\n\n# eye %(unit_a)s \"close\"\n# voice 1026 \"caladbolg_0019\"\n# textflame 1 1\n@カラドボルグ\nふぅー\n\n# textflame 0 0\n@\nマスターの耳に\nカラドボルグの吐息がかかる\nこれはもう、ダメかもしれない！\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"sad\"\n# voice 1026 \"caladbolg_0012\"\n# textflame 1 1\n@カラドボルグ\nえ、えぇぇ！？\nちょ、ちょっと…！？\nマスタぁぁーー！！\n\n# textflame 0 0\n@\nばしゃりと激しい水音が響く…\n\n# textflame 0 0\n@\n完全なゆでダコになったマスターが\nぷかりぷかりと湯船に\n浮かんでいたそうな――\n;;----------------------------------------\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

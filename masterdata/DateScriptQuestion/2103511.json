@@ -1,0 +1,296 @@
+[
+	{
+		"ID": 4721,
+		"unitID": 2103511,
+		"questionID": 9103501,
+		"script": ";;剣,1\n# face %(unit_a)s \"sad\"\n@ダモクレス\nこのまま帰るのつまんない\nもっとマスターとお話したいなー\n\n# face %(unit_a)s \"happy\"\n@ダモクレス\nそうだ！マスター！\nクイズしよ、クイズ！\n\n# face %(unit_a)s \"usual\"\n@ダモクレス\n第一問！\nクレスはこれから\nどんな問題を出すでしょうか！\n\n# face %(unit_a)s \"happy\"\n# voice 1035 \"damocles_0005\"\n@ダモクレス\n答えは“クレスのことについて”\nでしたー！\nあはははっ\n\n# face %(unit_a)s \"usual\"\n@ダモクレス\nそれじゃあ、第二問！\nマスター、当ててみてー\nいっくよー\n;;---------------------------------\n\n@%(unitName:unit_a)s\nクレスの武具種はわかる～？\n\n# se \"SE_0734\"\n# select \"剣\" \"select_label_1\" \"銃\" \"select_label_2\" \"槍\" \"select_label_3\"\nクレスの武具種はわかる～？\n"
+	},
+	{
+		"ID": 4722,
+		"unitID": 2103511,
+		"questionID": 9103502,
+		"script": ";;剣,2\n# face %(unit_a)s \"sad\"\n@ダモクレス\nこのまま帰るのつまんない\nもっとマスターとお話したいなー\n\n# face %(unit_a)s \"happy\"\n@ダモクレス\nそうだ！マスター！\nクイズしよ、クイズ！\n\n# face %(unit_a)s \"usual\"\n@ダモクレス\n第一問！\nクレスはこれから\nどんな問題を出すでしょうか！\n\n# face %(unit_a)s \"happy\"\n# voice 1035 \"damocles_0005\"\n@ダモクレス\n答えは“クレスのことについて”\nでしたー！\nあはははっ\n\n# face %(unit_a)s \"usual\"\n@ダモクレス\nそれじゃあ、第二問！\nマスター、当ててみてー\nいっくよー\n;;---------------------------------\n\n@%(unitName:unit_a)s\nクレスのキラーズ『ダモクレス』は\n何であったといわれてるかわかる～？\n\n# se \"SE_0734\"\n# select \"弓\" \"select_label_1\" \"剣\" \"select_label_2\" \"テント\" \"select_label_3\"\nクレスのキラーズ『ダモクレス』は\n何であったといわれてるかわかる～？\n"
+	},
+	{
+		"ID": 4723,
+		"unitID": 2103511,
+		"questionID": 9103503,
+		"script": ";;ギリシャ神話,3\n# face %(unit_a)s \"sad\"\n@ダモクレス\nこのまま帰るのつまんない\nもっとマスターとお話したいなー\n\n# face %(unit_a)s \"happy\"\n@ダモクレス\nそうだ！マスター！\nクイズしよ、クイズ！\n\n# face %(unit_a)s \"usual\"\n@ダモクレス\n第一問！\nクレスはこれから\nどんな問題を出すでしょうか！\n\n# face %(unit_a)s \"happy\"\n# voice 1035 \"damocles_0005\"\n@ダモクレス\n答えは“クレスのことについて”\nでしたー！\nあはははっ\n\n# face %(unit_a)s \"usual\"\n@ダモクレス\nそれじゃあ、第二問！\nマスター、当ててみてー\nいっくよー\n;;---------------------------------\n\n@%(unitName:unit_a)s\nクレスのキラーズ『ダモクレス』は\nどんな伝承に登場するでしょ～か？\n\n# se \"SE_0734\"\n# select \"エジプト神話\" \"select_label_1\" \"インド神話\" \"select_label_2\" \"ギリシャ神話\" \"select_label_3\"\nクレスのキラーズ『ダモクレス』は\nどんな伝承に登場するでしょ～か？\n"
+	},
+	{
+		"ID": 4724,
+		"unitID": 2103511,
+		"questionID": 9103504,
+		"script": ";;愛,1\n# face %(unit_a)s \"sad\"\n@ダモクレス\nこのまま帰るのつまんない\nもっとマスターとお話したいなー\n\n# face %(unit_a)s \"happy\"\n@ダモクレス\nそうだ！マスター！\nクイズしよ、クイズ！\n\n# face %(unit_a)s \"usual\"\n@ダモクレス\n第一問！\nクレスはこれから\nどんな問題を出すでしょうか！\n\n# face %(unit_a)s \"happy\"\n# voice 1035 \"damocles_0005\"\n@ダモクレス\n答えは“クレスのことについて”\nでしたー！\nあはははっ\n\n# face %(unit_a)s \"usual\"\n@ダモクレス\nそれじゃあ、第二問！\nマスター、当ててみてー\nいっくよー\n;;---------------------------------\n\n@%(unitName:unit_a)s\nクレスの司る七元徳は何でしょ～か？\n\n# se \"SE_0734\"\n# select \"愛\" \"select_label_1\" \"夢\" \"select_label_2\" \"嫉妬\" \"select_label_3\"\nクレスの司る七元徳は何でしょ～か？\n"
+	},
+	{
+		"ID": 4725,
+		"unitID": 2103511,
+		"questionID": 9103505,
+		"script": ";;Damocles,2\n# face %(unit_a)s \"sad\"\n@ダモクレス\nこのまま帰るのつまんない\nもっとマスターとお話したいなー\n\n# face %(unit_a)s \"happy\"\n@ダモクレス\nそうだ！マスター！\nクイズしよ、クイズ！\n\n# face %(unit_a)s \"usual\"\n@ダモクレス\n第一問！\nクレスはこれから\nどんな問題を出すでしょうか！\n\n# face %(unit_a)s \"happy\"\n# voice 1035 \"damocles_0005\"\n@ダモクレス\n答えは“クレスのことについて”\nでしたー！\nあはははっ\n\n# face %(unit_a)s \"usual\"\n@ダモクレス\nそれじゃあ、第二問！\nマスター、当ててみてー\nいっくよー\n;;---------------------------------\n\n@%(unitName:unit_a)s\nクレスのキラーズ『ダモクレス』を\n英語で書くとどれでしょ～？\n\n# se \"SE_0734\"\n# select \"Doughnut\" \"select_label_1\" \"Damocles\" \"select_label_2\" \"Darius\" \"select_label_3\"\nクレスのキラーズ『ダモクレス』を\n英語で書くとどれでしょ～？\n"
+	},
+	{
+		"ID": 4726,
+		"unitID": 2103511,
+		"questionID": 9103506,
+		"script": ";;紀元前4世紀,3\n# face %(unit_a)s \"sad\"\n@ダモクレス\nこのまま帰るのつまんない\nもっとマスターとお話したいなー\n\n# face %(unit_a)s \"happy\"\n@ダモクレス\nそうだ！マスター！\nクイズしよ、クイズ！\n\n# face %(unit_a)s \"usual\"\n@ダモクレス\n第一問！\nクレスはこれから\nどんな問題を出すでしょうか！\n\n# face %(unit_a)s \"happy\"\n# voice 1035 \"damocles_0005\"\n@ダモクレス\n答えは“クレスのことについて”\nでしたー！\nあはははっ\n\n# face %(unit_a)s \"usual\"\n@ダモクレス\nそれじゃあ、第二問！\nマスター、当ててみてー\nいっくよー\n;;---------------------------------\n\n@%(unitName:unit_a)s\nクレスのキラーズ『ダモクレス』が\n歴史に登場するのはいつでしょ～？\n\n# se \"SE_0734\"\n# select \"紀元前6世紀\" \"select_label_1\" \"紀元前2世紀\" \"select_label_2\" \"紀元前4世紀\" \"select_label_3\"\nクレスのキラーズ『ダモクレス』が\n歴史に登場するのはいつでしょ～？\n"
+	},
+	{
+		"ID": 4727,
+		"unitID": 2103511,
+		"questionID": 9103507,
+		"script": ";;一触即発の危険な状態,1\n# face %(unit_a)s \"sad\"\n@ダモクレス\nこのまま帰るのつまんない\nもっとマスターとお話したいなー\n\n# face %(unit_a)s \"happy\"\n@ダモクレス\nそうだ！マスター！\nクイズしよ、クイズ！\n\n# face %(unit_a)s \"usual\"\n@ダモクレス\n第一問！\nクレスはこれから\nどんな問題を出すでしょうか！\n\n# face %(unit_a)s \"happy\"\n# voice 1035 \"damocles_0005\"\n@ダモクレス\n答えは“クレスのことについて”\nでしたー！\nあはははっ\n\n# face %(unit_a)s \"usual\"\n@ダモクレス\nそれじゃあ、第二問！\nマスター、当ててみてー\nいっくよー\n;;---------------------------------\n\n@%(unitName:unit_a)s\n『ダモクレスの剣』\nっていう言葉があるんだけど\nどういう意味でしょ～？\n\n# se \"SE_0734\"\n# select \"一触即発の危険な状態\" \"select_label_1\" \"安心安全な状態\" \"select_label_2\" \"平穏平和な状態\" \"select_label_3\"\n『ダモクレスの剣』\nっていう言葉があるんだけど\nどういう意味でしょ～？\n"
+	},
+	{
+		"ID": 4728,
+		"unitID": 2103511,
+		"questionID": 9103508,
+		"script": ";;髪の毛,2\n# face %(unit_a)s \"sad\"\n@ダモクレス\nこのまま帰るのつまんない\nもっとマスターとお話したいなー\n\n# face %(unit_a)s \"happy\"\n@ダモクレス\nそうだ！マスター！\nクイズしよ、クイズ！\n\n# face %(unit_a)s \"usual\"\n@ダモクレス\n第一問！\nクレスはこれから\nどんな問題を出すでしょうか！\n\n# face %(unit_a)s \"happy\"\n# voice 1035 \"damocles_0005\"\n@ダモクレス\n答えは“クレスのことについて”\nでしたー！\nあはははっ\n\n# face %(unit_a)s \"usual\"\n@ダモクレス\nそれじゃあ、第二問！\nマスター、当ててみてー\nいっくよー\n;;---------------------------------\n\n@%(unitName:unit_a)s\n逸話では～\nダモクレスの剣を何で吊るしたって\nいわれてる～？\n\n# se \"SE_0734\"\n# select \"ロープ\" \"select_label_1\" \"馬の毛\" \"select_label_2\" \" 鎖\" \"select_label_3\"\n逸話では～\nダモクレスの剣を何で吊るしたって\nいわれてる～？\n"
+	},
+	{
+		"ID": 4729,
+		"unitID": 2103511,
+		"questionID": 9103509,
+		"script": ";;ケネディ,3\n# face %(unit_a)s \"sad\"\n@ダモクレス\nこのまま帰るのつまんない\nもっとマスターとお話したいなー\n\n# face %(unit_a)s \"happy\"\n@ダモクレス\nそうだ！マスター！\nクイズしよ、クイズ！\n\n# face %(unit_a)s \"usual\"\n@ダモクレス\n第一問！\nクレスはこれから\nどんな問題を出すでしょうか！\n\n# face %(unit_a)s \"happy\"\n# voice 1035 \"damocles_0005\"\n@ダモクレス\n答えは“クレスのことについて”\nでしたー！\nあはははっ\n\n# face %(unit_a)s \"usual\"\n@ダモクレス\nそれじゃあ、第二問！\nマスター、当ててみてー\nいっくよー\n;;---------------------------------\n\n@%(unitName:unit_a)s\nダモクレスの剣の逸話を\n演説で話した大統領ってだ～れだ？\n\n# se \"SE_0734\"\n# select \"ワシントン\" \"select_label_1\" \"ブッシュ\" \"select_label_2\" \"ケネディ\" \"select_label_3\"\nダモクレスの剣の逸話を\n演説で話した大統領ってだ～れだ？\n"
+	},
+	{
+		"ID": 4730,
+		"unitID": 2103511,
+		"questionID": 9103510,
+		"script": ";;ディオニュシオス２世,1\n# face %(unit_a)s \"sad\"\n@ダモクレス\nこのまま帰るのつまんない\nもっとマスターとお話したいなー\n\n# face %(unit_a)s \"happy\"\n@ダモクレス\nそうだ！マスター！\nクイズしよ、クイズ！\n\n# face %(unit_a)s \"usual\"\n@ダモクレス\n第一問！\nクレスはこれから\nどんな問題を出すでしょうか！\n\n# face %(unit_a)s \"happy\"\n# voice 1035 \"damocles_0005\"\n@ダモクレス\n答えは“クレスのことについて”\nでしたー！\nあはははっ\n\n# face %(unit_a)s \"usual\"\n@ダモクレス\nそれじゃあ、第二問！\nマスター、当ててみてー\nいっくよー\n;;---------------------------------\n\n@%(unitName:unit_a)s\nダモクレスは\n誰に仕えていたでしょ～？\n\n# se \"SE_0734\"\n# select \"ディオニュシオス２世\" \"select_label_1\" \"ディオニュシオス8世\" \"select_label_2\" \"ディオニュシオス10世\" \"select_label_3\"\nダモクレスは\n誰に仕えていたでしょ～？\n"
+	},
+	{
+		"ID": 4731,
+		"unitID": 2103511,
+		"questionID": 9103511,
+		"script": ";;風,1\n# face %(unit_a)s \"usual\"\n# voice 1035 \"damocles_0001\"\n@ダモクレス\nマスターマスター！\n\n@ダモクレス\nはーい！\nここでいきなり、クレスクイズです！\n\n# face %(unit_a)s \"angry\"\n@ダモクレス\nだってだって\nこのまま帰るのは\nつまんないんだもん！\n\n# face %(unit_a)s \"usual\"\n@ダモクレス\n大丈夫！\n愛さえあれば難しくないよ\nそれじゃあ、いっくよー！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nクレスの属性は知ってる～？\n\n# se \"SE_0734\"\n# select \"風\" \"select_label_1\" \"炎\" \"select_label_2\" \"闇\" \"select_label_3\"\nクレスの属性は知ってる～？\n"
+	},
+	{
+		"ID": 4732,
+		"unitID": 2103511,
+		"questionID": 9103512,
+		"script": ";;157cm,2\n# face %(unit_a)s \"usual\"\n# voice 1035 \"damocles_0001\"\n@ダモクレス\nマスターマスター！\n\n@ダモクレス\nはーい！\nここでいきなり、クレスクイズです！\n\n# face %(unit_a)s \"angry\"\n@ダモクレス\nだってだって\nこのまま帰るのは\nつまんないんだもん！\n\n# face %(unit_a)s \"usual\"\n@ダモクレス\n大丈夫！\n愛さえあれば難しくないよ\nそれじゃあ、いっくよー！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nクレスの身長は何センチだ～？\n\n# se \"SE_0734\"\n# select \"167cm\" \"select_label_1\" \"157cm\" \"select_label_2\" \"177cm\" \"select_label_3\"\nクレスの身長は何センチだ～？\n"
+	},
+	{
+		"ID": 4733,
+		"unitID": 2103511,
+		"questionID": 9103513,
+		"script": ";;9月25日,3\n# face %(unit_a)s \"usual\"\n# voice 1035 \"damocles_0001\"\n@ダモクレス\nマスターマスター！\n\n@ダモクレス\nはーい！\nここでいきなり、クレスクイズです！\n\n# face %(unit_a)s \"angry\"\n@ダモクレス\nだってだって\nこのまま帰るのは\nつまんないんだもん！\n\n# face %(unit_a)s \"usual\"\n@ダモクレス\n大丈夫！\n愛さえあれば難しくないよ\nそれじゃあ、いっくよー！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nクレスの誕生日は知ってるよね～？\n\n# se \"SE_0734\"\n# select \"8月25日\" \"select_label_1\" \"7月25日\" \"select_label_2\" \"9月25日\" \"select_label_3\"\nクレスの誕生日は知ってるよね～？\n"
+	},
+	{
+		"ID": 4734,
+		"unitID": 2103511,
+		"questionID": 9103514,
+		"script": ";;天秤座,1\n# face %(unit_a)s \"usual\"\n# voice 1035 \"damocles_0001\"\n@ダモクレス\nマスターマスター！\n\n@ダモクレス\nはーい！\nここでいきなり、クレスクイズです！\n\n# face %(unit_a)s \"angry\"\n@ダモクレス\nだってだって\nこのまま帰るのは\nつまんないんだもん！\n\n# face %(unit_a)s \"usual\"\n@ダモクレス\n大丈夫！\n愛さえあれば難しくないよ\nそれじゃあ、いっくよー！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nクレスの星座は知ってる～？\n\n# se \"SE_0734\"\n# select \"天秤座\" \"select_label_1\" \"いて座\" \"select_label_2\" \"やぎ座\" \"select_label_3\"\nクレスの星座は知ってる～？\n"
+	},
+	{
+		"ID": 4735,
+		"unitID": 2103511,
+		"questionID": 9103515,
+		"script": ";;マスター,2\n# face %(unit_a)s \"usual\"\n# voice 1035 \"damocles_0001\"\n@ダモクレス\nマスターマスター！\n\n@ダモクレス\nはーい！\nここでいきなり、クレスクイズです！\n\n# face %(unit_a)s \"angry\"\n@ダモクレス\nだってだって\nこのまま帰るのは\nつまんないんだもん！\n\n# face %(unit_a)s \"usual\"\n@ダモクレス\n大丈夫！\n愛さえあれば難しくないよ\nそれじゃあ、いっくよー！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nクレスの好きなものは\nわっかるかな～！？\n\n# se \"SE_0734\"\n# select \"お酒\" \"select_label_1\" \"マスター\" \"select_label_2\" \"肉\" \"select_label_3\"\nクレスの好きなものは\nわっかるかな～！？\n"
+	},
+	{
+		"ID": 4736,
+		"unitID": 2103511,
+		"questionID": 9103516,
+		"script": ";;木登り,3\n# face %(unit_a)s \"usual\"\n# voice 1035 \"damocles_0001\"\n@ダモクレス\nマスターマスター！\n\n@ダモクレス\nはーい！\nここでいきなり、クレスクイズです！\n\n# face %(unit_a)s \"angry\"\n@ダモクレス\nだってだって\nこのまま帰るのは\nつまんないんだもん！\n\n# face %(unit_a)s \"usual\"\n@ダモクレス\n大丈夫！\n愛さえあれば難しくないよ\nそれじゃあ、いっくよー！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nクレスの趣味はこれだよ～！\n\n# se \"SE_0734\"\n# select \"パズル\" \"select_label_1\" \"ラクガキ\" \"select_label_2\" \"木登り\" \"select_label_3\"\nクレスの趣味はこれだよ～！\n"
+	},
+	{
+		"ID": 4737,
+		"unitID": 2103511,
+		"questionID": 9103517,
+		"script": ";;Ｏ型,1\n# face %(unit_a)s \"usual\"\n# voice 1035 \"damocles_0001\"\n@ダモクレス\nマスターマスター！\n\n@ダモクレス\nはーい！\nここでいきなり、クレスクイズです！\n\n# face %(unit_a)s \"angry\"\n@ダモクレス\nだってだって\nこのまま帰るのは\nつまんないんだもん！\n\n# face %(unit_a)s \"usual\"\n@ダモクレス\n大丈夫！\n愛さえあれば難しくないよ\nそれじゃあ、いっくよー！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nクレスの血液型ってなーんだ？　\n\n# se \"SE_0734\"\n# select \"Ｏ型\" \"select_label_1\" \"ＡＢ型\" \"select_label_2\" \"Ｂ型\" \"select_label_3\"\nクレスの血液型ってなーんだ？　\n"
+	},
+	{
+		"ID": 4738,
+		"unitID": 2103511,
+		"questionID": 9103518,
+		"script": ";;シチリア,2\n# face %(unit_a)s \"usual\"\n# voice 1035 \"damocles_0001\"\n@ダモクレス\nマスターマスター！\n\n@ダモクレス\nはーい！\nここでいきなり、クレスクイズです！\n\n# face %(unit_a)s \"angry\"\n@ダモクレス\nだってだって\nこのまま帰るのは\nつまんないんだもん！\n\n# face %(unit_a)s \"usual\"\n@ダモクレス\n大丈夫！\n愛さえあれば難しくないよ\nそれじゃあ、いっくよー！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nクレスの出身地はわかる～？\n\n# se \"SE_0734\"\n# select \"チベット\" \"select_label_1\" \"シチリア\" \"select_label_2\" \"ケベック\" \"select_label_3\"\nクレスの出身地はわかる～？\n"
+	},
+	{
+		"ID": 4739,
+		"unitID": 2103511,
+		"questionID": 9103519,
+		"script": ";;色欲,3\n# face %(unit_a)s \"usual\"\n# voice 1035 \"damocles_0001\"\n@ダモクレス\nマスターマスター！\n\n@ダモクレス\nはーい！\nここでいきなり、クレスクイズです！\n\n# face %(unit_a)s \"angry\"\n@ダモクレス\nだってだって\nこのまま帰るのは\nつまんないんだもん！\n\n# face %(unit_a)s \"usual\"\n@ダモクレス\n大丈夫！\n愛さえあれば難しくないよ\nそれじゃあ、いっくよー！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nクレスに対応するブラックキラーズ\n「ラスト」ってどんな意味？\n\n# se \"SE_0734\"\n# select \"暴食\" \"select_label_1\" \"強欲\" \"select_label_2\" \"色欲\" \"select_label_3\"\nクレスに対応するブラックキラーズ\n「ラスト」ってどんな意味？\n"
+	},
+	{
+		"ID": 4740,
+		"unitID": 2103511,
+		"questionID": 9103520,
+		"script": ";;ラスト,1\n# face %(unit_a)s \"usual\"\n# voice 1035 \"damocles_0001\"\n@ダモクレス\nマスターマスター！\n\n@ダモクレス\nはーい！\nここでいきなり、クレスクイズです！\n\n# face %(unit_a)s \"angry\"\n@ダモクレス\nだってだって\nこのまま帰るのは\nつまんないんだもん！\n\n# face %(unit_a)s \"usual\"\n@ダモクレス\n大丈夫！\n愛さえあれば難しくないよ\nそれじゃあ、いっくよー！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nクレスに対応するブラックキラーズは\n誰かわかる？\n\n# se \"SE_0734\"\n# select \"ラスト\" \"select_label_1\" \"ロスト\" \"select_label_2\" \"バスト\" \"select_label_3\"\nクレスに対応するブラックキラーズは\n誰かわかる？\n"
+	},
+	{
+		"ID": 4741,
+		"unitID": 2103511,
+		"questionID": 9103521,
+		"script": ";;白き革命,1\n# face %(unit_a)s \"usual\"\n# voice 1035 \"damocles_0001\"\n@ダモクレス\nねえねえ、マスター\n質問があるんだけど\n\n@ダモクレス\nマスターはクレスのこと\nどれくらい知ってる？\n\n# face %(unit_a)s \"happy\"\n@ダモクレス\nこれくらい？もっと？\nあはははっ、わかんないよー\nなんかわかる方法ないかなー\n\n# face %(unit_a)s \"usual\"\n@ダモクレス\nあ、そうだ！\nじゃあ\nこのクイズに答えてみてよ！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nクレスの覚えるスキル知ってる？\n\n# se \"SE_0734\"\n# select \"白き革命\" \"select_label_1\" \"青き回廊\" \"select_label_2\" \"赤き薄明\" \"select_label_3\"\nクレスの覚えるスキル知ってる？\n"
+	},
+	{
+		"ID": 4742,
+		"unitID": 2103511,
+		"questionID": 9103522,
+		"script": ";;全てを包み込む愛,2\n# face %(unit_a)s \"usual\"\n# voice 1035 \"damocles_0001\"\n@ダモクレス\nねえねえ、マスター\n質問があるんだけど\n\n@ダモクレス\nマスターはクレスのこと\nどれくらい知ってる？\n\n# face %(unit_a)s \"happy\"\n@ダモクレス\nこれくらい？もっと？\nあはははっ、わかんないよー\nなんかわかる方法ないかなー\n\n# face %(unit_a)s \"usual\"\n@ダモクレス\nあ、そうだ！\nじゃあ\nこのクイズに答えてみてよ！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nクレスの解放スキルって知ってる？\n\n# se \"SE_0734\"\n# select \"全てを包み込む夢\" \"select_label_1\" \"全てを包み込む愛\" \"select_label_2\" \"全てを包み込む体\" \"select_label_3\"\nクレスの解放スキルって知ってる？\n"
+	},
+	{
+		"ID": 4743,
+		"unitID": 2103511,
+		"questionID": 9103523,
+		"script": ";;白風の鈴鳴,3\n# face %(unit_a)s \"usual\"\n# voice 1035 \"damocles_0001\"\n@ダモクレス\nねえねえ、マスター\n質問があるんだけど\n\n@ダモクレス\nマスターはクレスのこと\nどれくらい知ってる？\n\n# face %(unit_a)s \"happy\"\n@ダモクレス\nこれくらい？もっと？\nあはははっ、わかんないよー\nなんかわかる方法ないかなー\n\n# face %(unit_a)s \"usual\"\n@ダモクレス\nあ、そうだ！\nじゃあ\nこのクイズに答えてみてよ！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nクレスの☆６のリーダースキルは\n知ってるよね～？\n\n# se \"SE_0734\"\n# select \"白風の鈴蘭\" \"select_label_1\" \"白風の鈴橋\" \"select_label_2\" \"白風の鈴鳴\" \"select_label_3\"\nクレスの☆６のリーダースキルは\n知ってるよね～？\n"
+	},
+	{
+		"ID": 4744,
+		"unitID": 2103511,
+		"questionID": 9103524,
+		"script": ";;明星の白印,1\n# face %(unit_a)s \"usual\"\n# voice 1035 \"damocles_0001\"\n@ダモクレス\nねえねえ、マスター\n質問があるんだけど\n\n@ダモクレス\nマスターはクレスのこと\nどれくらい知ってる？\n\n# face %(unit_a)s \"happy\"\n@ダモクレス\nこれくらい？もっと？\nあはははっ、わかんないよー\nなんかわかる方法ないかなー\n\n# face %(unit_a)s \"usual\"\n@ダモクレス\nあ、そうだ！\nじゃあ\nこのクイズに答えてみてよ！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nクレスが覚える\n付与スキルってわかるよね？\n\n# se \"SE_0734\"\n# select \"明星の白印\" \"select_label_1\" \"明星の目印\" \"select_label_2\" \"明星の魔印\" \"select_label_3\"\nクレスが覚える\n付与スキルってわかるよね？\n"
+	},
+	{
+		"ID": 4745,
+		"unitID": 2103511,
+		"questionID": 9103525,
+		"script": ";;白の再起,2\n# face %(unit_a)s \"usual\"\n# voice 1035 \"damocles_0001\"\n@ダモクレス\nねえねえ、マスター\n質問があるんだけど\n\n@ダモクレス\nマスターはクレスのこと\nどれくらい知ってる？\n\n# face %(unit_a)s \"happy\"\n@ダモクレス\nこれくらい？もっと？\nあはははっ、わかんないよー\nなんかわかる方法ないかなー\n\n# face %(unit_a)s \"usual\"\n@ダモクレス\nあ、そうだ！\nじゃあ\nこのクイズに答えてみてよ！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nクレスが覚える\n付与スキルってわかる？\n\n# se \"SE_0734\"\n# select \"白の待機\" \"select_label_1\" \"白の再起\" \"select_label_2\" \"白の天気\" \"select_label_3\"\nクレスが覚える\n付与スキルってわかる？\n"
+	},
+	{
+		"ID": 4746,
+		"unitID": 2103511,
+		"questionID": 9103526,
+		"script": ";;人見知り,3\n# face %(unit_a)s \"usual\"\n# voice 1035 \"damocles_0001\"\n@ダモクレス\nねえねえ、マスター\n質問があるんだけど\n\n@ダモクレス\nマスターはクレスのこと\nどれくらい知ってる？\n\n# face %(unit_a)s \"happy\"\n@ダモクレス\nこれくらい？もっと？\nあはははっ、わかんないよー\nなんかわかる方法ないかなー\n\n# face %(unit_a)s \"usual\"\n@ダモクレス\nあ、そうだ！\nじゃあ\nこのクイズに答えてみてよ！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nクレス、これは全くしないよ～！\n\n# se \"SE_0734\"\n# select \"木登り\" \"select_label_1\" \"脱衣\" \"select_label_2\" \"人見知り\" \"select_label_3\"\nクレス、これは全くしないよ～！\n"
+	},
+	{
+		"ID": 4747,
+		"unitID": 2103511,
+		"questionID": 9103527,
+		"script": ";;静かにすること,1\n# face %(unit_a)s \"usual\"\n# voice 1035 \"damocles_0001\"\n@ダモクレス\nねえねえ、マスター\n質問があるんだけど\n\n@ダモクレス\nマスターはクレスのこと\nどれくらい知ってる？\n\n# face %(unit_a)s \"happy\"\n@ダモクレス\nこれくらい？もっと？\nあはははっ、わかんないよー\nなんかわかる方法ないかなー\n\n# face %(unit_a)s \"usual\"\n@ダモクレス\nあ、そうだ！\nじゃあ\nこのクイズに答えてみてよ！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nクレスが苦手なのは～\nこれかな～？\n\n# se \"SE_0734\"\n# select \"静かにすること\" \"select_label_1\" \"騒がしくすること\" \"select_label_2\" \"喋ること\" \"select_label_3\"\nクレスが苦手なのは～\nこれかな～？\n"
+	},
+	{
+		"ID": 4748,
+		"unitID": 2103511,
+		"questionID": 9103528,
+		"script": ";;この世の全てだよ,2\n# face %(unit_a)s \"usual\"\n# voice 1035 \"damocles_0001\"\n@ダモクレス\nねえねえ、マスター\n質問があるんだけど\n\n@ダモクレス\nマスターはクレスのこと\nどれくらい知ってる？\n\n# face %(unit_a)s \"happy\"\n@ダモクレス\nこれくらい？もっと？\nあはははっ、わかんないよー\nなんかわかる方法ないかなー\n\n# face %(unit_a)s \"usual\"\n@ダモクレス\nあ、そうだ！\nじゃあ\nこのクイズに答えてみてよ！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nクレスが好きなモノって\nわかるよね～？\n\n# se \"SE_0734\"\n# select \"あの世の全てだよ\" \"select_label_1\" \"この世の全てだよ\" \"select_label_2\" \"来世の全てだよ\" \"select_label_3\"\nクレスが好きなモノって\nわかるよね～？\n"
+	},
+	{
+		"ID": 4749,
+		"unitID": 2103511,
+		"questionID": 9103529,
+		"script": ";;問題ないよ！,3\n# face %(unit_a)s \"usual\"\n# voice 1035 \"damocles_0001\"\n@ダモクレス\nねえねえ、マスター\n質問があるんだけど\n\n@ダモクレス\nマスターはクレスのこと\nどれくらい知ってる？\n\n# face %(unit_a)s \"happy\"\n@ダモクレス\nこれくらい？もっと？\nあはははっ、わかんないよー\nなんかわかる方法ないかなー\n\n# face %(unit_a)s \"usual\"\n@ダモクレス\nあ、そうだ！\nじゃあ\nこのクイズに答えてみてよ！\n;;---------------------------------\n\n@%(unitName:unit_a)s\n愛さえあれば…？\n\n# se \"SE_0734\"\n# select \"桶屋が儲かる！\" \"select_label_1\" \"大問題だよ！\" \"select_label_2\" \"問題ないよ！\" \"select_label_3\"\n愛さえあれば…？\n"
+	},
+	{
+		"ID": 4750,
+		"unitID": 2103511,
+		"questionID": 9103530,
+		"script": ";;我流だよ,1\n# face %(unit_a)s \"usual\"\n# voice 1035 \"damocles_0001\"\n@ダモクレス\nねえねえ、マスター\n質問があるんだけど\n\n@ダモクレス\nマスターはクレスのこと\nどれくらい知ってる？\n\n# face %(unit_a)s \"happy\"\n@ダモクレス\nこれくらい？もっと？\nあはははっ、わかんないよー\nなんかわかる方法ないかなー\n\n# face %(unit_a)s \"usual\"\n@ダモクレス\nあ、そうだ！\nじゃあ\nこのクイズに答えてみてよ！\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の剣術は～？\n\n# se \"SE_0734\"\n# select \"我流だよ\" \"select_label_1\" \"風流だよ\" \"select_label_2\" \"柳生新陰流だよ\" \"select_label_3\"\n私の剣術は～？\n"
+	},
+	{
+		"ID": 4751,
+		"unitID": 2103511,
+		"questionID": 9103531,
+		"script": ";;零式・気侭な遊戯,1\n# face %(unit_a)s \"sad\"\n@ダモクレス\nあれ？\n今日はこれで終わりなの？\nクレス、もっと遊びたいなぁ！\n\n# textflame 0 0\n@\nダモクレスが飛び跳ねる\n\n# textflame 0 0\n@\n彼女の水着が少しずつズレ始めて\nマスターは慌てて取り押さえた\n\n# textflame 1 1\n@ダモクレス\nなになに？\n動いて遊ぶのはダメなの？\nえー…\n\n@ダモクレス\nそうだ、クイズしよっ！\nクレスクイズ！\nそれじゃあ、いくよ！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nクレスが覚えるスキルって\nわかるよね？\n\n# se \"SE_0734\"\n# select \"零式・気侭な遊戯\" \"select_label_1\" \"零式・気侭な誘拐\" \"select_label_2\" \"零式・気侭な幽霊\" \"select_label_3\"\nクレスが覚えるスキルって\nわかるよね？\n"
+	},
+	{
+		"ID": 4752,
+		"unitID": 2103511,
+		"questionID": 9103532,
+		"script": ";;September,2\n# face %(unit_a)s \"sad\"\n@ダモクレス\nあれ？\n今日はこれで終わりなの？\nクレス、もっと遊びたいなぁ！\n\n# textflame 0 0\n@\nダモクレスが飛び跳ねる\n\n# textflame 0 0\n@\n彼女の水着が少しずつズレ始めて\nマスターは慌てて取り押さえた\n\n# textflame 1 1\n@ダモクレス\nなになに？\n動いて遊ぶのはダメなの？\nえー…\n\n@ダモクレス\nそうだ、クイズしよっ！\nクレスクイズ！\nそれじゃあ、いくよ！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nクレスの誕生月を英語で言うと…？\n\n# se \"SE_0734\"\n# select \"January\" \"select_label_1\" \"September\" \"select_label_2\" \"May\" \"select_label_3\"\nクレスの誕生月を英語で言うと…？\n"
+	},
+	{
+		"ID": 4753,
+		"unitID": 2103511,
+		"questionID": 9103533,
+		"script": ";;零式・幸せ感謝祭,3\n# face %(unit_a)s \"sad\"\n@ダモクレス\nあれ？\n今日はこれで終わりなの？\nクレス、もっと遊びたいなぁ！\n\n# textflame 0 0\n@\nダモクレスが飛び跳ねる\n\n# textflame 0 0\n@\n彼女の水着が少しずつズレ始めて\nマスターは慌てて取り押さえた\n\n# textflame 1 1\n@ダモクレス\nなになに？\n動いて遊ぶのはダメなの？\nえー…\n\n@ダモクレス\nそうだ、クイズしよっ！\nクレスクイズ！\nそれじゃあ、いくよ！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nクレスが覚えるスキルって\nわかるよね？\n\n# se \"SE_0734\"\n# select \"零式・お肉感謝祭\" \"select_label_1\" \"零式・木登り感謝祭\" \"select_label_2\" \"零式・幸せ感謝祭\" \"select_label_3\"\nクレスが覚えるスキルって\nわかるよね？\n"
+	},
+	{
+		"ID": 4754,
+		"unitID": 2103511,
+		"questionID": 9103534,
+		"script": ";;ペルーン,1\n# face %(unit_a)s \"sad\"\n@ダモクレス\nあれ？\n今日はこれで終わりなの？\nクレス、もっと遊びたいなぁ！\n\n# textflame 0 0\n@\nダモクレスが飛び跳ねる\n\n# textflame 0 0\n@\n彼女の水着が少しずつズレ始めて\nマスターは慌てて取り押さえた\n\n# textflame 1 1\n@ダモクレス\nなになに？\n動いて遊ぶのはダメなの？\nえー…\n\n@ダモクレス\nそうだ、クイズしよっ！\nクレスクイズ！\nそれじゃあ、いくよ！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nクレスと誕生月が同じなのは\nだーれだ？\n\n# se \"SE_0734\"\n# select \"ペルーン\" \"select_label_1\" \"フランキスカ\" \"select_label_2\" \"ヤグルシ\" \"select_label_3\"\nクレスと誕生月が同じなのは\nだーれだ？\n"
+	},
+	{
+		"ID": 4755,
+		"unitID": 2103511,
+		"questionID": 9103535,
+		"script": ";;Libra,2\n# face %(unit_a)s \"sad\"\n@ダモクレス\nあれ？\n今日はこれで終わりなの？\nクレス、もっと遊びたいなぁ！\n\n# textflame 0 0\n@\nダモクレスが飛び跳ねる\n\n# textflame 0 0\n@\n彼女の水着が少しずつズレ始めて\nマスターは慌てて取り押さえた\n\n# textflame 1 1\n@ダモクレス\nなになに？\n動いて遊ぶのはダメなの？\nえー…\n\n@ダモクレス\nそうだ、クイズしよっ！\nクレスクイズ！\nそれじゃあ、いくよ！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nクレスの星座を英語で言うと～？\n\n# se \"SE_0734\"\n# select \"Capricorn\" \"select_label_1\" \"Libra\" \"select_label_2\" \"Aquarius\" \"select_label_3\"\nクレスの星座を英語で言うと～？\n"
+	},
+	{
+		"ID": 4756,
+		"unitID": 2103511,
+		"questionID": 9103536,
+		"script": ";;青龍偃月刀,3\n# face %(unit_a)s \"sad\"\n@ダモクレス\nあれ？\n今日はこれで終わりなの？\nクレス、もっと遊びたいなぁ！\n\n# textflame 0 0\n@\nダモクレスが飛び跳ねる\n\n# textflame 0 0\n@\n彼女の水着が少しずつズレ始めて\nマスターは慌てて取り押さえた\n\n# textflame 1 1\n@ダモクレス\nなになに？\n動いて遊ぶのはダメなの？\nえー…\n\n@ダモクレス\nそうだ、クイズしよっ！\nクレスクイズ！\nそれじゃあ、いくよ！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nクレスと誕生月が違うのは\nだーれだ？\n\n# se \"SE_0734\"\n# select \"ダグダ\" \"select_label_1\" \"ガンバンテイン\" \"select_label_2\" \"青龍偃月刀\" \"select_label_3\"\nクレスと誕生月が違うのは\nだーれだ？\n"
+	},
+	{
+		"ID": 4757,
+		"unitID": 2103511,
+		"questionID": 9103537,
+		"script": ";;エンシェントキラーズ,1\n# face %(unit_a)s \"sad\"\n@ダモクレス\nあれ？\n今日はこれで終わりなの？\nクレス、もっと遊びたいなぁ！\n\n# textflame 0 0\n@\nダモクレスが飛び跳ねる\n\n# textflame 0 0\n@\n彼女の水着が少しずつズレ始めて\nマスターは慌てて取り押さえた\n\n# textflame 1 1\n@ダモクレス\nなになに？\n動いて遊ぶのはダメなの？\nえー…\n\n@ダモクレス\nそうだ、クイズしよっ！\nクレスクイズ！\nそれじゃあ、いくよ！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nクレスはどれに属してるかな～？\n\n# se \"SE_0734\"\n# select \"エンシェントキラーズ\" \"select_label_1\" \"ブラックキラーズ\" \"select_label_2\" \"セイントキラーズ\" \"select_label_3\"\nクレスはどれに属してるかな～？\n"
+	},
+	{
+		"ID": 4758,
+		"unitID": 2103511,
+		"questionID": 9103538,
+		"script": ";;蜻蛉切,2\n# face %(unit_a)s \"sad\"\n@ダモクレス\nあれ？\n今日はこれで終わりなの？\nクレス、もっと遊びたいなぁ！\n\n# textflame 0 0\n@\nダモクレスが飛び跳ねる\n\n# textflame 0 0\n@\n彼女の水着が少しずつズレ始めて\nマスターは慌てて取り押さえた\n\n# textflame 1 1\n@ダモクレス\nなになに？\n動いて遊ぶのはダメなの？\nえー…\n\n@ダモクレス\nそうだ、クイズしよっ！\nクレスクイズ！\nそれじゃあ、いくよ！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nクレスと同じ血液型なのはだれ～？\n\n# se \"SE_0734\"\n# select \"ルーン\" \"select_label_1\" \"蜻蛉切\" \"select_label_2\" \"ロンゴミアント\" \"select_label_3\"\nクレスと同じ血液型なのはだれ～？\n"
+	},
+	{
+		"ID": 4759,
+		"unitID": 2103511,
+		"questionID": 9103539,
+		"script": ";;パラシュ,3\n# face %(unit_a)s \"sad\"\n@ダモクレス\nあれ？\n今日はこれで終わりなの？\nクレス、もっと遊びたいなぁ！\n\n# textflame 0 0\n@\nダモクレスが飛び跳ねる\n\n# textflame 0 0\n@\n彼女の水着が少しずつズレ始めて\nマスターは慌てて取り押さえた\n\n# textflame 1 1\n@ダモクレス\nなになに？\n動いて遊ぶのはダメなの？\nえー…\n\n@ダモクレス\nそうだ、クイズしよっ！\nクレスクイズ！\nそれじゃあ、いくよ！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nクレスと違う血液型なのは\nだーれだ？\n\n# se \"SE_0734\"\n# select \"テュルソス\" \"select_label_1\" \"蜻蛉切\" \"select_label_2\" \"パラシュ\" \"select_label_3\"\nクレスと違う血液型なのは\nだーれだ？\n"
+	},
+	{
+		"ID": 4760,
+		"unitID": 2103511,
+		"questionID": 9103540,
+		"script": ";;ぶら下がり,1\n# face %(unit_a)s \"sad\"\n@ダモクレス\nあれ？\n今日はこれで終わりなの？\nクレス、もっと遊びたいなぁ！\n\n# textflame 0 0\n@\nダモクレスが飛び跳ねる\n\n# textflame 0 0\n@\n彼女の水着が少しずつズレ始めて\nマスターは慌てて取り押さえた\n\n# textflame 1 1\n@ダモクレス\nなになに？\n動いて遊ぶのはダメなの？\nえー…\n\n@ダモクレス\nそうだ、クイズしよっ！\nクレスクイズ！\nそれじゃあ、いくよ！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nクレスはこれをするのが好きだよ！\nどーれだ？\n\n# se \"SE_0734\"\n# select \"ぶら下がり\" \"select_label_1\" \"服を着こむ\" \"select_label_2\" \"起き上がり\" \"select_label_3\"\nクレスはこれをするのが好きだよ！\nどーれだ？\n"
+	},
+	{
+		"ID": 4761,
+		"unitID": 2103511,
+		"questionID": 9103541,
+		"script": "\n;;クレス,1\n# se \"SE_0734\"\n# select \"クレス\" \"select_label_1\" \"私\" \"select_label_2\" \"アタシ\" \"select_label_3\"\nダモクレスの一人称は\n次のうちどれ？\n"
+	},
+	{
+		"ID": 4762,
+		"unitID": 2103511,
+		"questionID": 9103542,
+		"script": "\n;;マスター,1\n# se \"SE_0734\"\n# select \"マスター\" \"select_label_1\" \"ユー\" \"select_label_2\" \"アンタ\" \"select_label_3\"\nダモクレスはアンタのこと、\nなんて呼んでる？\n"
+	},
+	{
+		"ID": 4763,
+		"unitID": 2103511,
+		"questionID": 9103543,
+		"script": "\n;;82cm,2\n# se \"SE_0734\"\n# select \"85cm\" \"select_label_1\" \"82cm\" \"select_label_2\" \"87cm\" \"select_label_3\"\nダモクレスの\nバストサイズがどのくらいか\nアンタ…知ってるの？\n"
+	},
+	{
+		"ID": 4764,
+		"unitID": 2103511,
+		"questionID": 9103544,
+		"script": "\n;;58cm,2\n# se \"SE_0734\"\n# select \"60cm\" \"select_label_1\" \"58cm\" \"select_label_2\" \"62cm\" \"select_label_3\"\nダモクレスの\nウエストサイズがどのくらいか\nアンタ…知ってるの？\n"
+	},
+	{
+		"ID": 4765,
+		"unitID": 2103511,
+		"questionID": 9103545,
+		"script": "\n;;85cm,3\n# se \"SE_0734\"\n# select \" 82cm\" \"select_label_1\" \"86cm\" \"select_label_2\" \"85cm\" \"select_label_3\"\nダモクレスの\nヒップサイズがどのくらいか\nアンタ…知ってるの？\n"
+	},
+	{
+		"ID": 4766,
+		"unitID": 2103511,
+		"questionID": 9103546,
+		"script": "\n;;48ｋｇ,3\n# se \"SE_0734\"\n# select \"52kg\" \"select_label_1\" \"45kg\" \"select_label_2\" \"48ｋｇ\" \"select_label_3\"\nダモクレスの体重は\n次のうちどれ？\n"
+	},
+	{
+		"ID": 4767,
+		"unitID": 2103511,
+		"questionID": 9103547,
+		"script": "\n;;225,1\n# se \"SE_0734\"\n# select \"225\" \"select_label_1\" \" 228\" \"select_label_2\" \"230\" \"select_label_3\"\nダモクレスの\nバスト＋ウエスト＋ヒップは\nいくつかわかる？\n"
+	},
+	{
+		"ID": 4768,
+		"unitID": 2103511,
+		"questionID": 9103548,
+		"script": "\n;;グレー色,1\n# se \"SE_0734\"\n# select \"グレー色\" \"select_label_1\" \"ピンク色\" \"select_label_2\" \"シアン色\" \"select_label_3\"\nダモクレスの髪の色は\n次のうちどれ？\n"
+	},
+	{
+		"ID": 4769,
+		"unitID": 2103511,
+		"questionID": 9103550,
+		"script": "\n;;山田奈都美,2\n# se \"SE_0734\"\n# select \"近藤玲奈\" \"select_label_1\" \"山田奈都美\" \"select_label_2\" \"下田屋有依\" \"select_label_3\"\nダモクレスの声優は誰？\n"
+	}
+]

@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 93024198,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# se \"SE_0733\"\n# voice 3024 \"tonbokiri_0008\"\n@蜻蛉切\n…ふぅ～ん\nまぁ、そうよねぇ\n\n@蜻蛉切\n殿だって、\n万能ってわけじゃないか…\n\n# face %(unit_a)s \"smile\"\n# voice 3024 \"tonbokiri_0004\"\n@蜻蛉切\nあ、でも、ちょっとした\n暇つぶしにはなったでしょ？\n\n# face %(unit_a)s \"angry\"\n@蜻蛉切\nちょっと…ばかボン邪魔よ！\n\n# textflame 0 0\n@\n彼女はボンちゃんを使って\n微妙な空気を必死に振り払おうと\nしているように見えた…\n\n# face %(unit_a)s \"normal\"\n# textflame 1 1\n# voice 3024 \"tonbokiri_0003\"\n@蜻蛉切\nえっと、じゃあ\n…殿、行こっか\n\n# textflame 0 0\n@\nデート中のはずなのに…\n気を遣わせちゃうなんて…\n\n@\n…………\n\n@\n笑顔でずっと居て欲しいから\n彼女のことちゃんと\n知っておかないとな…\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

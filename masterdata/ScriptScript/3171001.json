@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 3171001,
+		"script": "# script \"lisp\"\n# background \"valley\"\n# bgm \"bgm008\" 0\n# body 300153\n# pos 300153 2\n# body 400141\n# pos 400141 4\n# face 400141 \"shy\"\n# serif 0\n# textboxarrow 0 1\n# voice 3001 \"ronginusu_0015\"\n# chara 300153\n# face 300153 \"surprise\"\n@ロンギヌス\nマスター！！\n大変です、アルテミスさんが！\n\n# serif 1\n# textboxarrow 1 3\n# voice 4001 \"arutemisu_0031\"\n# chara 400141\n# face 400141 \"shy\"\n@アルテミス\nマスター…すみません…\nみんな、下がって…\n\n# serif 0\n# textflame 0 0\n@\nロンギヌス達が合流すると\nアルテミスが新種の異族…\nアクアディアブロに捕まっていた\n\n# rightout 400141 0.3\n\n# serif 1\n# body 100261\n# pos 100261 4\n# rightin 100261 0.3\n# voice 1002 \"revatein_0027\"\n# chara 100261\n# face 100261 \"normal\"\n@レーヴァテイン\nあ〜…捕まっちゃったか…\n\n# serif 0\n# textflame 1 1\n# textboxarrow 0 1\n# voice 3001 \"ronginusu_0022\"\n# chara 300153\n# face 300153 \"surprise\"\n@ロンギヌス\nアルテミスさんが…どうして！？\nは、はやく助けましょう！\n\n# serif 1\n# voice 1002 \"revatein_0008\"\n# chara 100261\n# face 100261 \"normal\"\n@レーヴァテイン\n水着じゃなきゃ…\n負けなかったんじゃないの？\n\n# serif 0\n# voice 3001 \"ronginusu_0027\"\n# chara 300153\n# face 300153 \"surprise\"\n@ロンギヌス\nい、いまはそんなこと\n言ってる場合じゃないですよ！\n\n# serif 0\n# voice 3001 \"ronginusu_0029\"\n# chara 300153\n# face 300153 \"angry\"\n@ロンギヌス\nマスター、早く助けましょう！\n\n# serif 1\n# voice 1002 \"revatein_0013\"\n# chara 100261\n# face 100261 \"worry2\"\n@レーヴァテイン\nはぁ…しょうがないか…"
+	}
+]

@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 94003398,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# se \"SE_0733\"\n# face %(unit_a)s \"sad\"\n@アポロン\nざんねーん、はずれだよー？\n\n# voice 4003 \"aporon_0008\"\n@アポロン\nこれはさすがに、\n難しかったかな～？\n\n# face %(unit_a)s \"normal\"\n@アポロン\nだとしたら、\nマスターはもっと、\nボクのことを知るしかないね！\n\n# face %(unit_a)s \"angry\"\n@アポロン\nおっと、\nだからといって、\n変なとこまでついてきちゃダメだよ？\n\n# voice 4003 \"aporon_0010\"\n@アポロン\nとくに、お姉ちゃんとの時間を、\n邪魔するのだけはぜーったいに、\nダメだから！\n\n# face %(unit_a)s \"normal\"\n# voice 4003 \"aporon_0004\"\n@アポロン\nそれじゃ、そういうことで、\n今日はここまでにして、\n帰ろっかー\n\n# textflame 0 0\n@\nそう言いながら帰路につくアポロン\n\n@\n彼女の期待に応えたいと、\n強く思いながらマスターは、\n次こそはと拳を握りしめた…\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

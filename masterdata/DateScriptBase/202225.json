@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 202225,
+		"script": ";;はずれ\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_drive\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 0 0\n@\nせっかくだから、\nもっと外に出てみたい…\nと意気込む盤古\n\n@\nでも人混みはちょっと…\nということで、\n二人はドライブをすることに\n\n# voice 2022 \"banko_0021\"\n# textflame 1 1\n@盤古\nこれがドライブか…\n夜風が涼しくて…気持ちいいな\n\n# textflame 1 1\n@盤古\nあ…\nあの場所が…見える、ぞ…\n\n# voice 2022 \"banko_0004\"\n# textflame 1 1\n@盤古\nマスターも見えるか？\nほら、あそこに…\n\n# textflame 0 0\n@\n盤古が指をさす先では\n花火大会が行われている\n\n# voice 2022 \"banko_0003\"\n# textflame 1 1\n@盤古\nずいぶんと\n盛り上がっているようだ\n\n# textflame 1 1\n@盤古\n姫達から、\nとても楽しい催しだと\n聞いているので、な…\n\n# face %(unit_a)s \"surprise\"\n# voice 2022 \"banko_0015\"\n# textflame 1 1\n@盤古\nでも…うぅ…\nあ、あの人混みには、\n入れそうにない…\n\n# face %(unit_a)s \"normal\"\n# voice 2022 \"banko_0022\"\n# textflame 1 1\n@盤古\nん…なに、リク？\nうん、うん…\n\n# textflame 1 1\n@盤古\nふむ…線香花火？\nそんなものがあるのか\n\n# textflame 1 1\n@盤古\nなるほど、それなら…\n現地に行かなくても\n花火を楽しめそうだ\n\n# voice 2022 \"banko_0001\"\n# textflame 1 1\n@盤古\nマスター…\n帰りに買っていかないか？\n\n# textflame 1 1\n@盤古\nせめて気分だけでも、\n楽しみたい、のだ…\nどう…だろうか？\n\n# textflame 0 0\n@\n盤古のお願いを叶えるべく、\nマスターは進路を変更するのだった\n;;-----------------------------------------\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

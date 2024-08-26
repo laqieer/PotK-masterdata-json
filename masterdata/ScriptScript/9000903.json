@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 9000903,
+		"script": "# script \"lisp\"\n# background \"Ragnarok\"\n# bgm \"bgm102\" 0\n# textcolor \"white\"\n# textflame 0 0\n@\n[FF0000]　　　　　   1日1回限定！[-]\n[330000]　　  『デイリー3STEPガチャ』\n　　　　　　　  登場！[-]\n\n# se \"SE_0602\"\n# body 202411\n# pos 202411 1\n# rightin 202411 0.3\n# mask 202411 off\n# scale 202411 0.8 0\n# body 202311\n# pos 202311 5\n# mask 202311 off\n# leftin 202311 0.3\n# scale 202311 0.8 0\n# layer 202411 2\n# layer 202311 1\n# fadein \"white\" 0.8\n# textcolor \"white\"\n# textflame 0 0\n@\n[330000]　　タガタメユニット的中率UP！\n　　　  タガタメユニットは\n　 ポイントクエストで[-][FF0000]特効を発揮！[-]\n\n# se \"SE_5594\"\n# textcolor \"white\"\n# textflame 0 0\n# face 202311 \"happy\"\n# face 202411 \"happy\"\n@\n[330000]　　各ステップおまけ付きのお得な\n　　『デイリー3STEPガチャ』！\n　  詳細は「お知らせ」をチェック！[-]"
+	}
+]

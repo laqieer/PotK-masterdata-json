@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 2100221,
+		"script": ";;B:大:気に入ってくれたみたいでよかった\n;;A:中:すごく満喫してるね\n;;C:小:大したことはしてないよ\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_onsen\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 0 0\n@\nレーヴァテインとともに\n水着を着て温泉に浸かる\n\n# textflame 1 1\n@レーヴァテイン\nふぅ…温泉、落ち着くね…\n\n@レーヴァテイン\nどうせなら、\nずっとここにいたい…\n\n# textflame 0 0\n@\n温泉に浸かりそう言う彼女に、\n危ないよと指摘すると、\n彼女は小さく息を吐いた\n\n# voice 210022 \"revatein_k_0030\"\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n@レーヴァテイン\nキル姫は…ん～…\nそんなにヤワじゃないって…\nでも…心配してくれて、ありがと\n\n# textflame 0 0\n@\nまるで、自分の部屋にいるかのように\nくつろぐ彼女を見ていると、\n思わず笑みがこぼれる\n\n# select \"すごく満喫してるね\" \"select_label_01\" \"気に入ってくれたみたいでよかった\" \"select_label_02\" \"大したことはしてないよ\" \"select_label_03\"\nまるで、自分の部屋にいるかのように\nくつろぐ彼女を見ていると、\n思わず笑みがこぼれる\n\n# label \"select_label_01\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_02\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_03\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# textflame 1 1\n# waitandnext 0.1\n\n# label \"select_label_end\"\n# waitandnext 2\n# fadeout \"black\" 1.2\n"
+	}
+]

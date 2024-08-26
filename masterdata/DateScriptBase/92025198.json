@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 92025198,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# se \"SE_0733\"\n;;-----------------------------------------\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 2025 \"hercule_0008\"\n@エルキュール\nう、うぅん…\n今のクイズはちょっと\n難しかったかなぁ…\n\n@エルキュール\nあはは、ごめんなさいマスター\n急にクイズなんて出して…\n\n# textflame 0 0\n@\nそう笑うエルキュールだが、\nその表情は曇っていた\n\n@\n謝ろうとするマスターだったが、\nそれを彼女に止められてしまった\n\n# textflame 1 1\n@エルキュール\nい、いや\nマスターは悪くないですから…\nその、気にしないでください！\n\n# face %(unit_a)s \"normal\"\n@エルキュール\nさ、さあ、早く帰らないと\nみんなに心配かけちゃいますよ！\n\n# textflame 0 0\n@\n元気に振舞おうとする彼女だったが\nその表情はどこか\n無理をしているように見えた\n\n@\n彼女にそんなつらい表情を\nさせてしまったことを悔やみながら\n次こそは正解してみせると誓った\n\n;;-----------------------------------------\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

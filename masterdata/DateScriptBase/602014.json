@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 602014,
+		"script": "# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_hauntedhouse\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n@ネス\nこ、怖くないって\n言ってるじゃないですかっ\n\n@ネス\nこれくらい\nどうってことありませんから！\n\n@ネス\nマスターはわたしの後ろから\n着いてきてくれれば\nいいですからね！\n\n# voice 6020 \"ness_0015\"\n# face %(unit_a)s \"sad\"\n@ネス\nうっ、うう……\nこ、怖くない\nこんなの怖くない…\n\n;;モノローグ\n# textflame 0 0\n@\n涙目になりながらも\n一人先頭を歩くネス\n\n;;モノローグ\n@\nなんとかホラーハウスを出たが\nその後はなぜか\nずっと不機嫌のままだった\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

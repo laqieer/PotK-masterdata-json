@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 2100124,
+		"script": "# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_drive\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 210012 \"masamune_k_0023\"\n@マサムネ\nお、お腹が？\n\n# face %(unit_a)s \"angry\"\n@マサムネ\n不覚！\nこんなことをしている場合では\nありませぬ！\n\n@マサムネ\n主君の望みに気づけず、申しわけない\n今もやっている屋台があります\nそちらへ向かいましょう\n\n# textflame 0 0\n@\n早々に切り上げて\nマサムネの案内で\n屋台へと向かうことにした\n\n@\nもう少しムードを考えたほうが\nよかったかもしれない\n\n@\nそう思いながらも、\nやはり空腹には勝てないのだった…\n;;----------------------------------------\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

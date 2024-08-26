@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 602511,
+		"script": ";;中A手を繋いでみよう\n;;小B少しずつでいいよ\n;;大Cなんで克服したいの？\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_beach_day\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# face %(unit_a)s \"usual\"\n# textflame 0 0\n@\n波が怖く、海に入れないカリス\nマスターはそんな彼女に\nお散歩デートを提案する\n\n@\nすると、カリスの方から\n海辺へ連れて行ってほしいと\nお願いされた…\n\n# face %(unit_a)s \"angry\"\n# voice 260251 \"chalice_t_battle_0006\"\n# textflame 1 1\n@カリス\nうむむむ…！！\nそーっと、そーっと…\n\n@カリス\n…ひゃあああ～っ！！\n\n# face %(unit_a)s \"sad\"\n# voice 260251 \"chalice_t_0015\"\n@カリス\nくぅううっ…\nやっぱりダメだぁ、\n入れないよぉっ！\n\n# voice 260251 \"chalice_t_0027\"\n@カリス\nはぁ～、\nせっかくの水着なのに\n海に入れないなんて…\n\n@カリス\nどうやったら\n克服できるのかな～？\n\n# select \"手を繋いでみよう\" \"select_label_01\" \"少しずつでいいよ\" \"select_label_02\" \"なんで克服したいの？\" \"select_label_03\"\nどうやったら\n克服できるのかな～？\n\n# label \"select_label_01\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_02\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_03\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_end\"\n# waitandnext 0.1\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

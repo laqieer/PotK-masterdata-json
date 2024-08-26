@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 201622,
+		"script": "# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_shipboard\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n;; face %(unit_a)s \"close\"\n# voice 2016 \"shita_0005\"\n@シタ\nそうですね…\nあの島が、わたし達の光です\n\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# voice 2016 \"shita_0006\"\n@シタ\n夜空に手を伸ばさなくても\nすぐそばに、あるんですよね…\n\n# textflame 0 0\n@\nシタは、遠い島の光を\n愛おしそうに見つめている\n\n# face %(unit_a)s \"normal\"\n# textflame 1 1\n@シタ\n近くにありすぎると\n見えないものって…\nありますよね\n\n# textflame 0 0\n@\nシタはゆっくりと\nマスターの方を振り向いた\n\n# textflame 1 1\n@シタ\nやんちゃで世話の焼ける\n可愛い可愛い妹と…\n\n# textflame 1 1\n;; face %(unit_a)s \"close\"\n# voice 2016 \"shita_0020\"\n@シタ\nずっとついていきたい\n大切な人のこと…\n\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n@シタ\n近くても…しっかりと\n見失わないようにしないとです\n\n# textflame 0 0\n@\n二人を乗せた航は\n大きく大きく弧を描き\n島へと向かっていく――\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

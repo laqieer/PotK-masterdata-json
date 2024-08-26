@@ -1,0 +1,32 @@
+[
+	{
+		"ID": 1,
+		"name": "未所持",
+		"min_trust": -1,
+		"max_trust": -1
+	},
+	{
+		"ID": 2,
+		"name": "低",
+		"min_trust": 0,
+		"max_trust": 35
+	},
+	{
+		"ID": 3,
+		"name": "中",
+		"min_trust": 25,
+		"max_trust": 60
+	},
+	{
+		"ID": 4,
+		"name": "高",
+		"min_trust": 50,
+		"max_trust": 10000
+	},
+	{
+		"ID": 5,
+		"name": "最高",
+		"min_trust": 100,
+		"max_trust": 10000
+	}
+]

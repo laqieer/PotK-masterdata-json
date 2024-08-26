@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 501411,
+		"script": ";;A,大\n;;B,小\n;;C,中\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_shop\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 0 0\n@\nマミと二人で\nショッピングに\n出かけたマスター\n\n@\nまだ見慣れない\n異世界の品の数々に、\nマミは目を輝かせている\n\n# face %(unit_a)s \"happy\"\n# voice 5014 \"mami_0020\"\n# textflame 1 1\n@%(unitName:unit_a)s\n素敵なものばかりね！\nどれを選ぶか迷っちゃうわ…\n\n# face %(unit_a)s \"normal\"\n# voice 5014 \"mami_0002\"\n@%(unitName:unit_a)s\nそういえばマスター、\nあなたは何か買うつもり？\n\n# voice 5014 \"mami_0022\"\n@%(unitName:unit_a)s\nえっ？\n私にプレゼントを…？\n\n# face %(unit_a)s \"happy\"\n# voice 5014 \"mami_0004\"\n@%(unitName:unit_a)s\nふふ、優しいのね\nありがとう\n\n@%(unitName:unit_a)s\nさて、マスターは私に\n何をプレゼントして\nくれるのかしら？\n\n# select \"ティーセット\" \"select_label_01\" \"おやつ\" \"select_label_02\" \"水鉄砲\" \"select_label_03\"\nさて、マスターは私に\n何をプレゼントして\nくれるのかしら？\n\n# label \"select_label_01\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_02\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_03\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_end\"\n# waitandnext 0.1\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

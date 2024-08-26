@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 2303112,
+		"script": ";;B\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_stream_day\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# face %(unit_a)s \"normal\"\n# voice 230312 \"cassius_lo_0003\"\n# textflame 1 1\n@カシウス\nん、だいじょうぶ…\nよこになるだけだから…\n\n# face %(unit_a)s \"sad\"\n# voice 230312 \"cassius_lo_0023\"\n@カシウス\n…あ、あれ？\nひょうめんがつるつるして…\nわっ、わわっ…！？\n\n@カシウス\nん…あ、ありがとう…\n\n# face %(unit_a)s \"happy\"\n# voice 230312 \"cassius_lo_0005\"\n@カシウス\nわたしのこと、\nささえてくれたんだ…\nふふふ…\n\n@カシウス\nおやかたしゃまのうでのなか、\nあったかくて、あんしんする…\n\n# voice 230312 \"cassius_lo_0002\"\n@カシウス\nねえ…もうすこしだけ、\nこのままでもいい…？\n\n@カシウス\nだいじょうぶ…\nちょっと…よこになるだけ…\n\n# eye %(unit_a)s \"close\"\n@カシウス\nすぅ…すぅ…\n\n# textflame 0 0\n@\nマスターにだっこされたまま\nすやすや眠ってしまうカシウス\n\n@\nその場から動くに動けず…\nマスターは腕がしびれるまで\nカシウスのお昼寝に付き添った\n\n;;-----------------------------------------\n# waitandnext 2\n# fadeout \"black\" 1.2\n"
+	}
+]

@@ -1,0 +1,260 @@
+[
+	{
+		"ID": 5536,
+		"unitID": 2101441,
+		"questionID": 49101401,
+		"script": ";;スウァフルラーメ,3\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 210144 \"tyrufing_lo_0001\"\n@ティルフィング\nお兄さん\n\n@ティルフィング\nきょうは\nありがとうございました\n\n# face %(unit_a)s \"usual\"\n@ティルフィング\nうみにきたのは\nはじめてだから、\nちょっとふあんだったけど\n\n# face %(unit_a)s \"normal\"\n# voice 210144 \"tyrufing_lo_0005\"\n@ティルフィング\nお兄さんがあそんでくれたから、\nとっても楽しかったです\n\n# face %(unit_a)s \"surprise\"\n@ティルフィング\nあ、そうだ\n\n# face %(unit_a)s \"usual\"\n# voice 210144 \"tyrufing_lo_0002\"\n@ティルフィング\nいまから私が出すクイズに\nこたえてくれますか？\n\n@ティルフィング\nきょう、私が\nおはなししたことから\nおさらいクイズです\n\n# voice 210144 \"tyrufing_lo_0004\"\n@ティルフィング\nでは、いきますよ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私のキラーズ『ティルフィング』の\nもちぬしのなまえは\nなんでしょうか？\n\n# se \"SE_0734\"\n# select \"ドヴァリン\" \"select_label_1\" \"ドゥリン\" \"select_label_2\" \"スウァフルラーメ\" \"select_label_3\"\n私のキラーズ『ティルフィング』の\nもちぬしのなまえは\nなんでしょうか？\n"
+	},
+	{
+		"ID": 5537,
+		"unitID": 2101441,
+		"questionID": 49101402,
+		"script": ";;３回,1\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 210144 \"tyrufing_lo_0001\"\n@ティルフィング\nお兄さん\n\n@ティルフィング\nきょうは\nありがとうございました\n\n# face %(unit_a)s \"usual\"\n@ティルフィング\nうみにきたのは\nはじめてだから、\nちょっとふあんだったけど\n\n# face %(unit_a)s \"normal\"\n# voice 210144 \"tyrufing_lo_0005\"\n@ティルフィング\nお兄さんがあそんでくれたから、\nとっても楽しかったです\n\n# face %(unit_a)s \"surprise\"\n@ティルフィング\nあ、そうだ\n\n# face %(unit_a)s \"usual\"\n# voice 210144 \"tyrufing_lo_0002\"\n@ティルフィング\nいまから私が出すクイズに\nこたえてくれますか？\n\n@ティルフィング\nきょう、私が\nおはなししたことから\nおさらいクイズです\n\n# voice 210144 \"tyrufing_lo_0004\"\n@ティルフィング\nでは、いきますよ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私のキラーズ『ティルフィング』は\nなんかいねがいを\nかなえてくれるでしょうか？\n\n# se \"SE_0734\"\n# select \"３回\" \"select_label_1\" \"５回\" \"select_label_2\" \"何回でも\" \"select_label_3\"\n私のキラーズ『ティルフィング』は\nなんかいねがいを\nかなえてくれるでしょうか？\n"
+	},
+	{
+		"ID": 5538,
+		"unitID": 2101441,
+		"questionID": 49101403,
+		"script": ";;殺された,1\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 210144 \"tyrufing_lo_0001\"\n@ティルフィング\nお兄さん\n\n@ティルフィング\nきょうは\nありがとうございました\n\n# face %(unit_a)s \"usual\"\n@ティルフィング\nうみにきたのは\nはじめてだから、\nちょっとふあんだったけど\n\n# face %(unit_a)s \"normal\"\n# voice 210144 \"tyrufing_lo_0005\"\n@ティルフィング\nお兄さんがあそんでくれたから、\nとっても楽しかったです\n\n# face %(unit_a)s \"surprise\"\n@ティルフィング\nあ、そうだ\n\n# face %(unit_a)s \"usual\"\n# voice 210144 \"tyrufing_lo_0002\"\n@ティルフィング\nいまから私が出すクイズに\nこたえてくれますか？\n\n@ティルフィング\nきょう、私が\nおはなししたことから\nおさらいクイズです\n\n# voice 210144 \"tyrufing_lo_0004\"\n@ティルフィング\nでは、いきますよ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私のキラーズ『ティルフィング』の\nもちぬしはさいご、\nどうなったでしょう？\n\n# se \"SE_0734\"\n# select \"殺された\" \"select_label_1\" \"王になった\" \"select_label_2\" \"失踪した\" \"select_label_3\"\n私のキラーズ『ティルフィング』の\nもちぬしはさいご、\nどうなったでしょう？\n"
+	},
+	{
+		"ID": 5539,
+		"unitID": 2101441,
+		"questionID": 49101404,
+		"script": ";;ドヴェルグ,2\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 210144 \"tyrufing_lo_0001\"\n@ティルフィング\nお兄さん\n\n@ティルフィング\nきょうは\nありがとうございました\n\n# face %(unit_a)s \"usual\"\n@ティルフィング\nうみにきたのは\nはじめてだから、\nちょっとふあんだったけど\n\n# face %(unit_a)s \"normal\"\n# voice 210144 \"tyrufing_lo_0005\"\n@ティルフィング\nお兄さんがあそんでくれたから、\nとっても楽しかったです\n\n# face %(unit_a)s \"surprise\"\n@ティルフィング\nあ、そうだ\n\n# face %(unit_a)s \"usual\"\n# voice 210144 \"tyrufing_lo_0002\"\n@ティルフィング\nいまから私が出すクイズに\nこたえてくれますか？\n\n@ティルフィング\nきょう、私が\nおはなししたことから\nおさらいクイズです\n\n# voice 210144 \"tyrufing_lo_0004\"\n@ティルフィング\nでは、いきますよ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私のキラーズ『ティルフィング』を\nつくったしゅぞくはなんでしょう？\n\n# se \"SE_0734\"\n# select \"ドヴァリン\" \"select_label_1\" \"ドヴェルグ\" \"select_label_2\" \"ドゥリン\" \"select_label_3\"\n私のキラーズ『ティルフィング』を\nつくったしゅぞくはなんでしょう？\n"
+	},
+	{
+		"ID": 5540,
+		"unitID": 2101441,
+		"questionID": 49101405,
+		"script": ";;アルングリム,3\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 210144 \"tyrufing_lo_0001\"\n@ティルフィング\nお兄さん\n\n@ティルフィング\nきょうは\nありがとうございました\n\n# face %(unit_a)s \"usual\"\n@ティルフィング\nうみにきたのは\nはじめてだから、\nちょっとふあんだったけど\n\n# face %(unit_a)s \"normal\"\n# voice 210144 \"tyrufing_lo_0005\"\n@ティルフィング\nお兄さんがあそんでくれたから、\nとっても楽しかったです\n\n# face %(unit_a)s \"surprise\"\n@ティルフィング\nあ、そうだ\n\n# face %(unit_a)s \"usual\"\n# voice 210144 \"tyrufing_lo_0002\"\n@ティルフィング\nいまから私が出すクイズに\nこたえてくれますか？\n\n@ティルフィング\nきょう、私が\nおはなししたことから\nおさらいクイズです\n\n# voice 210144 \"tyrufing_lo_0004\"\n@ティルフィング\nでは、いきますよ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私のキラーズ『ティルフィング』の\nもちぬしをたおしたのは\nだれでしょうか？\n\n# se \"SE_0734\"\n# select \"スウァフルラーメ\" \"select_label_1\" \"アンガンチュール\" \"select_label_2\" \"アルングリム\" \"select_label_3\"\n私のキラーズ『ティルフィング』の\nもちぬしをたおしたのは\nだれでしょうか？\n"
+	},
+	{
+		"ID": 5541,
+		"unitID": 2101441,
+		"questionID": 49101406,
+		"script": ";;オーディン,3\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 210144 \"tyrufing_lo_0001\"\n@ティルフィング\nお兄さん\n\n@ティルフィング\nきょうは\nありがとうございました\n\n# face %(unit_a)s \"usual\"\n@ティルフィング\nうみにきたのは\nはじめてだから、\nちょっとふあんだったけど\n\n# face %(unit_a)s \"normal\"\n# voice 210144 \"tyrufing_lo_0005\"\n@ティルフィング\nお兄さんがあそんでくれたから、\nとっても楽しかったです\n\n# face %(unit_a)s \"surprise\"\n@ティルフィング\nあ、そうだ\n\n# face %(unit_a)s \"usual\"\n# voice 210144 \"tyrufing_lo_0002\"\n@ティルフィング\nいまから私が出すクイズに\nこたえてくれますか？\n\n@ティルフィング\nきょう、私が\nおはなししたことから\nおさらいクイズです\n\n# voice 210144 \"tyrufing_lo_0004\"\n@ティルフィング\nでは、いきますよ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私のキラーズ『ティルフィング』の\nもちぬしはだれのちをひいてますか？\n\n# se \"SE_0734\"\n# select \"ヴァルキリー\" \"select_label_1\" \"ブリュンヒルデ\" \"select_label_2\" \"オーディン\" \"select_label_3\"\n私のキラーズ『ティルフィング』の\nもちぬしはだれのちをひいてますか？\n"
+	},
+	{
+		"ID": 5542,
+		"unitID": 2101441,
+		"questionID": 49101407,
+		"script": ";;古エッダ,1\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 210144 \"tyrufing_lo_0001\"\n@ティルフィング\nお兄さん\n\n@ティルフィング\nきょうは\nありがとうございました\n\n# face %(unit_a)s \"usual\"\n@ティルフィング\nうみにきたのは\nはじめてだから、\nちょっとふあんだったけど\n\n# face %(unit_a)s \"normal\"\n# voice 210144 \"tyrufing_lo_0005\"\n@ティルフィング\nお兄さんがあそんでくれたから、\nとっても楽しかったです\n\n# face %(unit_a)s \"surprise\"\n@ティルフィング\nあ、そうだ\n\n# face %(unit_a)s \"usual\"\n# voice 210144 \"tyrufing_lo_0002\"\n@ティルフィング\nいまから私が出すクイズに\nこたえてくれますか？\n\n@ティルフィング\nきょう、私が\nおはなししたことから\nおさらいクイズです\n\n# voice 210144 \"tyrufing_lo_0004\"\n@ティルフィング\nでは、いきますよ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私のキラーズ『ティルフィング』は\nどんなおはなしにでてきますか？\n\n# se \"SE_0734\"\n# select \"古エッダ\" \"select_label_1\" \"新エッダ\" \"select_label_2\" \"真エッダ\" \"select_label_3\"\n私のキラーズ『ティルフィング』は\nどんなおはなしにでてきますか？\n"
+	},
+	{
+		"ID": 5543,
+		"unitID": 2101441,
+		"questionID": 49101408,
+		"script": ";;北欧,2\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 210144 \"tyrufing_lo_0001\"\n@ティルフィング\nお兄さん\n\n@ティルフィング\nきょうは\nありがとうございました\n\n# face %(unit_a)s \"usual\"\n@ティルフィング\nうみにきたのは\nはじめてだから、\nちょっとふあんだったけど\n\n# face %(unit_a)s \"normal\"\n# voice 210144 \"tyrufing_lo_0005\"\n@ティルフィング\nお兄さんがあそんでくれたから、\nとっても楽しかったです\n\n# face %(unit_a)s \"surprise\"\n@ティルフィング\nあ、そうだ\n\n# face %(unit_a)s \"usual\"\n# voice 210144 \"tyrufing_lo_0002\"\n@ティルフィング\nいまから私が出すクイズに\nこたえてくれますか？\n\n@ティルフィング\nきょう、私が\nおはなししたことから\nおさらいクイズです\n\n# voice 210144 \"tyrufing_lo_0004\"\n@ティルフィング\nでは、いきますよ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私のキラーズ『ティルフィング』が\nでてくるのは\nどこのばしょのおはなしですか？\n\n# se \"SE_0734\"\n# select \"ヨーロッパ\" \"select_label_1\" \"北欧\" \"select_label_2\" \"アジア\" \"select_label_3\"\n私のキラーズ『ティルフィング』が\nでてくるのは\nどこのばしょのおはなしですか？\n"
+	},
+	{
+		"ID": 5544,
+		"unitID": 2101441,
+		"questionID": 49101409,
+		"script": ";;逃げた,3\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 210144 \"tyrufing_lo_0001\"\n@ティルフィング\nお兄さん\n\n@ティルフィング\nきょうは\nありがとうございました\n\n# face %(unit_a)s \"usual\"\n@ティルフィング\nうみにきたのは\nはじめてだから、\nちょっとふあんだったけど\n\n# face %(unit_a)s \"normal\"\n# voice 210144 \"tyrufing_lo_0005\"\n@ティルフィング\nお兄さんがあそんでくれたから、\nとっても楽しかったです\n\n# face %(unit_a)s \"surprise\"\n@ティルフィング\nあ、そうだ\n\n# face %(unit_a)s \"usual\"\n# voice 210144 \"tyrufing_lo_0002\"\n@ティルフィング\nいまから私が出すクイズに\nこたえてくれますか？\n\n@ティルフィング\nきょう、私が\nおはなししたことから\nおさらいクイズです\n\n# voice 210144 \"tyrufing_lo_0004\"\n@ティルフィング\nでは、いきますよ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私のキラーズ『ティルフィング』を\nつくったしゅぞくは、さいご\nどうしたでしょうか？\n\n# se \"SE_0734\"\n# select \"自殺した\" \"select_label_1\" \"幸せに暮らした\" \"select_label_2\" \"逃げた\" \"select_label_3\"\n私のキラーズ『ティルフィング』を\nつくったしゅぞくは、さいご\nどうしたでしょうか？\n"
+	},
+	{
+		"ID": 5545,
+		"unitID": 2101441,
+		"questionID": 49101410,
+		"script": ";;鉄,2\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 210144 \"tyrufing_lo_0001\"\n@ティルフィング\nお兄さん\n\n@ティルフィング\nきょうは\nありがとうございました\n\n# face %(unit_a)s \"usual\"\n@ティルフィング\nうみにきたのは\nはじめてだから、\nちょっとふあんだったけど\n\n# face %(unit_a)s \"normal\"\n# voice 210144 \"tyrufing_lo_0005\"\n@ティルフィング\nお兄さんがあそんでくれたから、\nとっても楽しかったです\n\n# face %(unit_a)s \"surprise\"\n@ティルフィング\nあ、そうだ\n\n# face %(unit_a)s \"usual\"\n# voice 210144 \"tyrufing_lo_0002\"\n@ティルフィング\nいまから私が出すクイズに\nこたえてくれますか？\n\n@ティルフィング\nきょう、私が\nおはなししたことから\nおさらいクイズです\n\n# voice 210144 \"tyrufing_lo_0004\"\n@ティルフィング\nでは、いきますよ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私のキラーズ『ティルフィング』は\nどんなものをきることができると\nいわれていたでしょうか？\n\n# se \"SE_0734\"\n# select \"こんにゃく\" \"select_label_1\" \"鉄\" \"select_label_2\" \"空気\" \"select_label_3\"\n私のキラーズ『ティルフィング』は\nどんなものをきることができると\nいわれていたでしょうか？\n"
+	},
+	{
+		"ID": 5546,
+		"unitID": 2101441,
+		"questionID": 49101411,
+		"script": ";;3月1日,3\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 210144 \"tyrufing_lo_0001\"\n@ティルフィング\nお兄さん、\n手をつないでくれますか？\n\n@ティルフィング\n手をつないで\nいっしょにかえりたいです\n\n# face %(unit_a)s \"normal\"\n# voice 210144 \"tyrufing_lo_0005\"\n@ティルフィング\nお兄さんの手、あったかくてすきです\nなんだかぽかぽかするから\n\n# textflame 0 0\n@\n喜んで手を差し出すマスター\n\n# textflame 1 1\n# face %(unit_a)s \"surprise\"\n@ティルフィング\nあ、そうだ\n\n# face %(unit_a)s \"usual\"\n# voice 210144 \"tyrufing_lo_0002\"\n@ティルフィング\nいまから私が出すクイズに、\nお兄さんがせいかいしたら\n手をつないでください\n\n@ティルフィング\nそれでもいいですか？\n\n# voice 210144 \"tyrufing_lo_0004\"\n@ティルフィング\nそのほうが\n私もうれしいですから\n;;---------------------------------\n\n@%(unitName:unit_a)s\nお兄さんは、\n私のたんじょうびは\nしってるでしょうか？\n\n# se \"SE_0734\"\n# select \"5月1日\" \"select_label_1\" \"11月1日\" \"select_label_2\" \"3月1日\" \"select_label_3\"\nお兄さんは、\n私のたんじょうびは\nしってるでしょうか？\n"
+	},
+	{
+		"ID": 5547,
+		"unitID": 2101441,
+		"questionID": 49101412,
+		"script": ";;光,2\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 210144 \"tyrufing_lo_0001\"\n@ティルフィング\nお兄さん、\n手をつないでくれますか？\n\n@ティルフィング\n手をつないで\nいっしょにかえりたいです\n\n# face %(unit_a)s \"normal\"\n# voice 210144 \"tyrufing_lo_0005\"\n@ティルフィング\nお兄さんの手、あったかくてすきです\nなんだかぽかぽかするから\n\n# textflame 0 0\n@\n喜んで手を差し出すマスター\n\n# textflame 1 1\n# face %(unit_a)s \"surprise\"\n@ティルフィング\nあ、そうだ\n\n# face %(unit_a)s \"usual\"\n# voice 210144 \"tyrufing_lo_0002\"\n@ティルフィング\nいまから私が出すクイズに、\nお兄さんがせいかいしたら\n手をつないでください\n\n@ティルフィング\nそれでもいいですか？\n\n# voice 210144 \"tyrufing_lo_0004\"\n@ティルフィング\nそのほうが\n私もうれしいですから\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私のぞくせいは\nなにかしっていますか？\n\n# se \"SE_0734\"\n# select \"風\" \"select_label_1\" \"光\" \"select_label_2\" \"炎\" \"select_label_3\"\n私のぞくせいは\nなにかしっていますか？\n"
+	},
+	{
+		"ID": 5548,
+		"unitID": 2101441,
+		"questionID": 49101413,
+		"script": ";;A型,1\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 210144 \"tyrufing_lo_0001\"\n@ティルフィング\nお兄さん、\n手をつないでくれますか？\n\n@ティルフィング\n手をつないで\nいっしょにかえりたいです\n\n# face %(unit_a)s \"normal\"\n# voice 210144 \"tyrufing_lo_0005\"\n@ティルフィング\nお兄さんの手、あったかくてすきです\nなんだかぽかぽかするから\n\n# textflame 0 0\n@\n喜んで手を差し出すマスター\n\n# textflame 1 1\n# face %(unit_a)s \"surprise\"\n@ティルフィング\nあ、そうだ\n\n# face %(unit_a)s \"usual\"\n# voice 210144 \"tyrufing_lo_0002\"\n@ティルフィング\nいまから私が出すクイズに、\nお兄さんがせいかいしたら\n手をつないでください\n\n@ティルフィング\nそれでもいいですか？\n\n# voice 210144 \"tyrufing_lo_0004\"\n@ティルフィング\nそのほうが\n私もうれしいですから\n;;---------------------------------\n\n@%(unitName:unit_a)s\nお兄さん、\n私のけつえきがたを\nあててみてください\n\n# se \"SE_0734\"\n# select \"A型\" \"select_label_1\" \"O型\" \"select_label_2\" \"AB型\" \"select_label_3\"\nお兄さん、\n私のけつえきがたを\nあててみてください\n"
+	},
+	{
+		"ID": 5549,
+		"unitID": 2101441,
+		"questionID": 49101414,
+		"script": ";;ガルダリケ,1\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 210144 \"tyrufing_lo_0001\"\n@ティルフィング\nお兄さん、\n手をつないでくれますか？\n\n@ティルフィング\n手をつないで\nいっしょにかえりたいです\n\n# face %(unit_a)s \"normal\"\n# voice 210144 \"tyrufing_lo_0005\"\n@ティルフィング\nお兄さんの手、あったかくてすきです\nなんだかぽかぽかするから\n\n# textflame 0 0\n@\n喜んで手を差し出すマスター\n\n# textflame 1 1\n# face %(unit_a)s \"surprise\"\n@ティルフィング\nあ、そうだ\n\n# face %(unit_a)s \"usual\"\n# voice 210144 \"tyrufing_lo_0002\"\n@ティルフィング\nいまから私が出すクイズに、\nお兄さんがせいかいしたら\n手をつないでください\n\n@ティルフィング\nそれでもいいですか？\n\n# voice 210144 \"tyrufing_lo_0004\"\n@ティルフィング\nそのほうが\n私もうれしいですから\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私のうまれたばしょは\nどこでしょうか？\n\n# se \"SE_0734\"\n# select \"ガルダリケ\" \"select_label_1\" \"ガリルダケ\" \"select_label_2\" \"ガリガリケ\" \"select_label_3\"\n私のうまれたばしょは\nどこでしょうか？\n"
+	},
+	{
+		"ID": 5550,
+		"unitID": 2101441,
+		"questionID": 49101415,
+		"script": ";;物静か,3\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 210144 \"tyrufing_lo_0001\"\n@ティルフィング\nお兄さん、\n手をつないでくれますか？\n\n@ティルフィング\n手をつないで\nいっしょにかえりたいです\n\n# face %(unit_a)s \"normal\"\n# voice 210144 \"tyrufing_lo_0005\"\n@ティルフィング\nお兄さんの手、あったかくてすきです\nなんだかぽかぽかするから\n\n# textflame 0 0\n@\n喜んで手を差し出すマスター\n\n# textflame 1 1\n# face %(unit_a)s \"surprise\"\n@ティルフィング\nあ、そうだ\n\n# face %(unit_a)s \"usual\"\n# voice 210144 \"tyrufing_lo_0002\"\n@ティルフィング\nいまから私が出すクイズに、\nお兄さんがせいかいしたら\n手をつないでください\n\n@ティルフィング\nそれでもいいですか？\n\n# voice 210144 \"tyrufing_lo_0004\"\n@ティルフィング\nそのほうが\n私もうれしいですから\n;;---------------------------------\n\n@%(unitName:unit_a)s\nえっと、私は\nどんなせいかくでしょうか？\n\n# se \"SE_0734\"\n# select \"快活\" \"select_label_1\" \"乱暴\" \"select_label_2\" \"物静か\" \"select_label_3\"\nえっと、私は\nどんなせいかくでしょうか？\n"
+	},
+	{
+		"ID": 5551,
+		"unitID": 2101441,
+		"questionID": 49101416,
+		"script": ";;うお座,2\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 210144 \"tyrufing_lo_0001\"\n@ティルフィング\nお兄さん、\n手をつないでくれますか？\n\n@ティルフィング\n手をつないで\nいっしょにかえりたいです\n\n# face %(unit_a)s \"normal\"\n# voice 210144 \"tyrufing_lo_0005\"\n@ティルフィング\nお兄さんの手、あったかくてすきです\nなんだかぽかぽかするから\n\n# textflame 0 0\n@\n喜んで手を差し出すマスター\n\n# textflame 1 1\n# face %(unit_a)s \"surprise\"\n@ティルフィング\nあ、そうだ\n\n# face %(unit_a)s \"usual\"\n# voice 210144 \"tyrufing_lo_0002\"\n@ティルフィング\nいまから私が出すクイズに、\nお兄さんがせいかいしたら\n手をつないでください\n\n@ティルフィング\nそれでもいいですか？\n\n# voice 210144 \"tyrufing_lo_0004\"\n@ティルフィング\nそのほうが\n私もうれしいですから\n;;---------------------------------\n\n@%(unitName:unit_a)s\nお兄さんは、\n私のせいざはなにか\nしってますか？\n\n# se \"SE_0734\"\n# select \"みずがめ座\" \"select_label_1\" \"うお座\" \"select_label_2\" \"さそり座\" \"select_label_3\"\nお兄さんは、\n私のせいざはなにか\nしってますか？\n"
+	},
+	{
+		"ID": 5552,
+		"unitID": 2101441,
+		"questionID": 49101417,
+		"script": ";;着せ替えすること,1\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 210144 \"tyrufing_lo_0001\"\n@ティルフィング\nお兄さん、\n手をつないでくれますか？\n\n@ティルフィング\n手をつないで\nいっしょにかえりたいです\n\n# face %(unit_a)s \"normal\"\n# voice 210144 \"tyrufing_lo_0005\"\n@ティルフィング\nお兄さんの手、あったかくてすきです\nなんだかぽかぽかするから\n\n# textflame 0 0\n@\n喜んで手を差し出すマスター\n\n# textflame 1 1\n# face %(unit_a)s \"surprise\"\n@ティルフィング\nあ、そうだ\n\n# face %(unit_a)s \"usual\"\n# voice 210144 \"tyrufing_lo_0002\"\n@ティルフィング\nいまから私が出すクイズに、\nお兄さんがせいかいしたら\n手をつないでください\n\n@ティルフィング\nそれでもいいですか？\n\n# voice 210144 \"tyrufing_lo_0004\"\n@ティルフィング\nそのほうが\n私もうれしいですから\n;;---------------------------------\n\n@%(unitName:unit_a)s\nお兄さんは\n私のしゅみをしってますか？\n\n# se \"SE_0734\"\n# select \"着せ替えすること\" \"select_label_1\" \"服を作ること\" \"select_label_2\" \"服を買うこと\" \"select_label_3\"\nお兄さんは\n私のしゅみをしってますか？\n"
+	},
+	{
+		"ID": 5553,
+		"unitID": 2101441,
+		"questionID": 49101418,
+		"script": ";;願い事,2\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 210144 \"tyrufing_lo_0001\"\n@ティルフィング\nお兄さん、\n手をつないでくれますか？\n\n@ティルフィング\n手をつないで\nいっしょにかえりたいです\n\n# face %(unit_a)s \"normal\"\n# voice 210144 \"tyrufing_lo_0005\"\n@ティルフィング\nお兄さんの手、あったかくてすきです\nなんだかぽかぽかするから\n\n# textflame 0 0\n@\n喜んで手を差し出すマスター\n\n# textflame 1 1\n# face %(unit_a)s \"surprise\"\n@ティルフィング\nあ、そうだ\n\n# face %(unit_a)s \"usual\"\n# voice 210144 \"tyrufing_lo_0002\"\n@ティルフィング\nいまから私が出すクイズに、\nお兄さんがせいかいしたら\n手をつないでください\n\n@ティルフィング\nそれでもいいですか？\n\n# voice 210144 \"tyrufing_lo_0004\"\n@ティルフィング\nそのほうが\n私もうれしいですから\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私のすきなことは\nなにかしってますか？\n\n# se \"SE_0734\"\n# select \"お祈り\" \"select_label_1\" \"願い事\" \"select_label_2\" \"修行\" \"select_label_3\"\n私のすきなことは\nなにかしってますか？\n"
+	},
+	{
+		"ID": 5554,
+		"unitID": 2101441,
+		"questionID": 49101419,
+		"script": ";;淘汰,3\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 210144 \"tyrufing_lo_0001\"\n@ティルフィング\nお兄さん、\n手をつないでくれますか？\n\n@ティルフィング\n手をつないで\nいっしょにかえりたいです\n\n# face %(unit_a)s \"normal\"\n# voice 210144 \"tyrufing_lo_0005\"\n@ティルフィング\nお兄さんの手、あったかくてすきです\nなんだかぽかぽかするから\n\n# textflame 0 0\n@\n喜んで手を差し出すマスター\n\n# textflame 1 1\n# face %(unit_a)s \"surprise\"\n@ティルフィング\nあ、そうだ\n\n# face %(unit_a)s \"usual\"\n# voice 210144 \"tyrufing_lo_0002\"\n@ティルフィング\nいまから私が出すクイズに、\nお兄さんがせいかいしたら\n手をつないでください\n\n@ティルフィング\nそれでもいいですか？\n\n# voice 210144 \"tyrufing_lo_0004\"\n@ティルフィング\nそのほうが\n私もうれしいですから\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私は、なにをかちぬいた\nキルひめといわれているでしょう？\n\n# se \"SE_0734\"\n# select \"検査\" \"select_label_1\" \"除去\" \"select_label_2\" \"淘汰\" \"select_label_3\"\n私は、なにをかちぬいた\nキルひめといわれているでしょう？\n"
+	},
+	{
+		"ID": 5555,
+		"unitID": 2101441,
+		"questionID": 49101420,
+		"script": ";;剣,3\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 210144 \"tyrufing_lo_0001\"\n@ティルフィング\nお兄さん…\n\n# textflame 0 0\n@\n眠たそうな目をこする彼女\n\n# textflame 1 1\n@ティルフィング\nきょうは、\nいっぱいあそんでくれて\nありがとうございました\n\n# face %(unit_a)s \"sad\"\n# voice 210144 \"tyrufing_lo_0028\"\n@ティルフィング\n…でも\nすこし…\nつかれちゃいました…\n\n# textflame 0 0\n@\nおんぶしようか？\nと、マスターが言うと\n\n# textflame 1 1\n# face %(unit_a)s \"surprise\"\n# voice 210144 \"tyrufing_lo_0022\"\n@ティルフィング\nいいんですか？\nでも、ただおんぶしてもらうのは\nわるいですので……\n\n@ティルフィング\nいまから出すクイズに、\nお兄さんがせいかいしたら\nおんぶしてもらいますね…\n\n# textflame 0 0\n@\n普通は正解できなかったら、\nおんぶだと思うのだが…\n眠いせいで頭が回っていないようだ\n\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 210144 \"tyrufing_lo_0004\"\n@ティルフィング\nそれでは\nいきますよ\n\n# textflame 0 0\n@\nともかく彼女のクイズが始まった\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私のキラーズ『ティルフィング』は\nどんなかたちでしょうか？\n\n# se \"SE_0734\"\n# select \"槍\" \"select_label_1\" \"杖\" \"select_label_2\" \"剣\" \"select_label_3\"\n私のキラーズ『ティルフィング』は\nどんなかたちでしょうか？\n"
+	},
+	{
+		"ID": 5556,
+		"unitID": 2101441,
+		"questionID": 49101421,
+		"script": ";;剣皇の天威,1\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 210144 \"tyrufing_lo_0001\"\n@ティルフィング\nお兄さん…\n\n# textflame 0 0\n@\n眠たそうな目をこする彼女\n\n# textflame 1 1\n@ティルフィング\nきょうは、\nいっぱいあそんでくれて\nありがとうございました\n\n# face %(unit_a)s \"sad\"\n# voice 210144 \"tyrufing_lo_0028\"\n@ティルフィング\n…でも\nすこし…\nつかれちゃいました…\n\n# textflame 0 0\n@\nおんぶしようか？\nと、マスターが言うと\n\n# textflame 1 1\n# face %(unit_a)s \"surprise\"\n# voice 210144 \"tyrufing_lo_0022\"\n@ティルフィング\nいいんですか？\nでも、ただおんぶしてもらうのは\nわるいですので……\n\n@ティルフィング\nいまから出すクイズに、\nお兄さんがせいかいしたら\nおんぶしてもらいますね…\n\n# textflame 0 0\n@\n普通は正解できなかったら、\nおんぶだと思うのだが…\n眠いせいで頭が回っていないようだ\n\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 210144 \"tyrufing_lo_0004\"\n@ティルフィング\nそれでは\nいきますよ\n\n# textflame 0 0\n@\nともかく彼女のクイズが始まった\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私が☆６でおぼえる\nリーダースキルは\nなんでしょうか？\n\n# se \"SE_0734\"\n# select \"剣皇の天威\" \"select_label_1\" \"剣皇の脅威\" \"select_label_2\" \"剣皇の威力\" \"select_label_3\"\n私が☆６でおぼえる\nリーダースキルは\nなんでしょうか？\n"
+	},
+	{
+		"ID": 5557,
+		"unitID": 2101441,
+		"questionID": 49101422,
+		"script": ";;ブラックキラーズ,3\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 210144 \"tyrufing_lo_0001\"\n@ティルフィング\nお兄さん…\n\n# textflame 0 0\n@\n眠たそうな目をこする彼女\n\n# textflame 1 1\n@ティルフィング\nきょうは、\nいっぱいあそんでくれて\nありがとうございました\n\n# face %(unit_a)s \"sad\"\n# voice 210144 \"tyrufing_lo_0028\"\n@ティルフィング\n…でも\nすこし…\nつかれちゃいました…\n\n# textflame 0 0\n@\nおんぶしようか？\nと、マスターが言うと\n\n# textflame 1 1\n# face %(unit_a)s \"surprise\"\n# voice 210144 \"tyrufing_lo_0022\"\n@ティルフィング\nいいんですか？\nでも、ただおんぶしてもらうのは\nわるいですので……\n\n@ティルフィング\nいまから出すクイズに、\nお兄さんがせいかいしたら\nおんぶしてもらいますね…\n\n# textflame 0 0\n@\n普通は正解できなかったら、\nおんぶだと思うのだが…\n眠いせいで頭が回っていないようだ\n\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 210144 \"tyrufing_lo_0004\"\n@ティルフィング\nそれでは\nいきますよ\n\n# textflame 0 0\n@\nともかく彼女のクイズが始まった\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nグリードともいわれ\nくろいかっこうをしている私は\nなんというしゅうだんでしょう？\n\n# se \"SE_0734\"\n# select \"ホワイトキラーズ\" \"select_label_1\" \"ブラックパール\" \"select_label_2\" \"ブラックキラーズ\" \"select_label_3\"\nグリードともいわれ\nくろいかっこうをしている私は\nなんというしゅうだんでしょう？\n"
+	},
+	{
+		"ID": 5558,
+		"unitID": 2101441,
+		"questionID": 49101423,
+		"script": ";;ショックトゥキル,1\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 210144 \"tyrufing_lo_0001\"\n@ティルフィング\nお兄さん…\n\n# textflame 0 0\n@\n眠たそうな目をこする彼女\n\n# textflame 1 1\n@ティルフィング\nきょうは、\nいっぱいあそんでくれて\nありがとうございました\n\n# face %(unit_a)s \"sad\"\n# voice 210144 \"tyrufing_lo_0028\"\n@ティルフィング\n…でも\nすこし…\nつかれちゃいました…\n\n# textflame 0 0\n@\nおんぶしようか？\nと、マスターが言うと\n\n# textflame 1 1\n# face %(unit_a)s \"surprise\"\n# voice 210144 \"tyrufing_lo_0022\"\n@ティルフィング\nいいんですか？\nでも、ただおんぶしてもらうのは\nわるいですので……\n\n@ティルフィング\nいまから出すクイズに、\nお兄さんがせいかいしたら\nおんぶしてもらいますね…\n\n# textflame 0 0\n@\n普通は正解できなかったら、\nおんぶだと思うのだが…\n眠いせいで頭が回っていないようだ\n\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 210144 \"tyrufing_lo_0004\"\n@ティルフィング\nそれでは\nいきますよ\n\n# textflame 0 0\n@\nともかく彼女のクイズが始まった\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私が☆５でおぼえる\nスキルはなんでしょう？\n\n# se \"SE_0734\"\n# select \"ショックトゥキル\" \"select_label_1\" \"ショックトゥダウン\" \"select_label_2\" \"ショッキングキル\" \"select_label_3\"\n私が☆５でおぼえる\nスキルはなんでしょう？\n"
+	},
+	{
+		"ID": 5559,
+		"unitID": 2101441,
+		"questionID": 49101424,
+		"script": ";;魔剣の誓い,1\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 210144 \"tyrufing_lo_0001\"\n@ティルフィング\nお兄さん…\n\n# textflame 0 0\n@\n眠たそうな目をこする彼女\n\n# textflame 1 1\n@ティルフィング\nきょうは、\nいっぱいあそんでくれて\nありがとうございました\n\n# face %(unit_a)s \"sad\"\n# voice 210144 \"tyrufing_lo_0028\"\n@ティルフィング\n…でも\nすこし…\nつかれちゃいました…\n\n# textflame 0 0\n@\nおんぶしようか？\nと、マスターが言うと\n\n# textflame 1 1\n# face %(unit_a)s \"surprise\"\n# voice 210144 \"tyrufing_lo_0022\"\n@ティルフィング\nいいんですか？\nでも、ただおんぶしてもらうのは\nわるいですので……\n\n@ティルフィング\nいまから出すクイズに、\nお兄さんがせいかいしたら\nおんぶしてもらいますね…\n\n# textflame 0 0\n@\n普通は正解できなかったら、\nおんぶだと思うのだが…\n眠いせいで頭が回っていないようだ\n\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 210144 \"tyrufing_lo_0004\"\n@ティルフィング\nそれでは\nいきますよ\n\n# textflame 0 0\n@\nともかく彼女のクイズが始まった\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私が☆６でおぼえる\nスキルはなんでしょう？\n\n# se \"SE_0734\"\n# select \"魔剣の誓い\" \"select_label_1\" \"魔剣の祈り\" \"select_label_2\" \"魔剣の願い\" \"select_label_3\"\n私が☆６でおぼえる\nスキルはなんでしょう？\n"
+	},
+	{
+		"ID": 5560,
+		"unitID": 2101441,
+		"questionID": 49101425,
+		"script": ";;黒光の煽輝,1\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 210144 \"tyrufing_lo_0001\"\n@ティルフィング\nお兄さん…\n\n# textflame 0 0\n@\n眠たそうな目をこする彼女\n\n# textflame 1 1\n@ティルフィング\nきょうは、\nいっぱいあそんでくれて\nありがとうございました\n\n# face %(unit_a)s \"sad\"\n# voice 210144 \"tyrufing_lo_0028\"\n@ティルフィング\n…でも\nすこし…\nつかれちゃいました…\n\n# textflame 0 0\n@\nおんぶしようか？\nと、マスターが言うと\n\n# textflame 1 1\n# face %(unit_a)s \"surprise\"\n# voice 210144 \"tyrufing_lo_0022\"\n@ティルフィング\nいいんですか？\nでも、ただおんぶしてもらうのは\nわるいですので……\n\n@ティルフィング\nいまから出すクイズに、\nお兄さんがせいかいしたら\nおんぶしてもらいますね…\n\n# textflame 0 0\n@\n普通は正解できなかったら、\nおんぶだと思うのだが…\n眠いせいで頭が回っていないようだ\n\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 210144 \"tyrufing_lo_0004\"\n@ティルフィング\nそれでは\nいきますよ\n\n# textflame 0 0\n@\nともかく彼女のクイズが始まった\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nブラックキラーズのときの\n☆６のリーダースキルは\nなんでしょうか？\n\n# se \"SE_0734\"\n# select \"黒光の煽輝\" \"select_label_1\" \"黒光のゆらめき\" \"select_label_2\" \"黒光の輝き\" \"select_label_3\"\nブラックキラーズのときの\n☆６のリーダースキルは\nなんでしょうか？\n"
+	},
+	{
+		"ID": 5561,
+		"unitID": 2101441,
+		"questionID": 49101426,
+		"script": ";;黒式・幻影朧,3\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 210144 \"tyrufing_lo_0001\"\n@ティルフィング\nお兄さん…\n\n# textflame 0 0\n@\n眠たそうな目をこする彼女\n\n# textflame 1 1\n@ティルフィング\nきょうは、\nいっぱいあそんでくれて\nありがとうございました\n\n# face %(unit_a)s \"sad\"\n# voice 210144 \"tyrufing_lo_0028\"\n@ティルフィング\n…でも\nすこし…\nつかれちゃいました…\n\n# textflame 0 0\n@\nおんぶしようか？\nと、マスターが言うと\n\n# textflame 1 1\n# face %(unit_a)s \"surprise\"\n# voice 210144 \"tyrufing_lo_0022\"\n@ティルフィング\nいいんですか？\nでも、ただおんぶしてもらうのは\nわるいですので……\n\n@ティルフィング\nいまから出すクイズに、\nお兄さんがせいかいしたら\nおんぶしてもらいますね…\n\n# textflame 0 0\n@\n普通は正解できなかったら、\nおんぶだと思うのだが…\n眠いせいで頭が回っていないようだ\n\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 210144 \"tyrufing_lo_0004\"\n@ティルフィング\nそれでは\nいきますよ\n\n# textflame 0 0\n@\nともかく彼女のクイズが始まった\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nブラックキラーズのときに\nおぼえるスキルは\nなんでしょうか？\n\n# se \"SE_0734\"\n# select \"略式・幻影\" \"select_label_1\" \"爆式・幻影龍\" \"select_label_2\" \"黒式・幻影朧\" \"select_label_3\"\nブラックキラーズのときに\nおぼえるスキルは\nなんでしょうか？\n"
+	},
+	{
+		"ID": 5562,
+		"unitID": 2101441,
+		"questionID": 49101427,
+		"script": ";;黒式・活望ノ光,1\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 210144 \"tyrufing_lo_0001\"\n@ティルフィング\nお兄さん…\n\n# textflame 0 0\n@\n眠たそうな目をこする彼女\n\n# textflame 1 1\n@ティルフィング\nきょうは、\nいっぱいあそんでくれて\nありがとうございました\n\n# face %(unit_a)s \"sad\"\n# voice 210144 \"tyrufing_lo_0028\"\n@ティルフィング\n…でも\nすこし…\nつかれちゃいました…\n\n# textflame 0 0\n@\nおんぶしようか？\nと、マスターが言うと\n\n# textflame 1 1\n# face %(unit_a)s \"surprise\"\n# voice 210144 \"tyrufing_lo_0022\"\n@ティルフィング\nいいんですか？\nでも、ただおんぶしてもらうのは\nわるいですので……\n\n@ティルフィング\nいまから出すクイズに、\nお兄さんがせいかいしたら\nおんぶしてもらいますね…\n\n# textflame 0 0\n@\n普通は正解できなかったら、\nおんぶだと思うのだが…\n眠いせいで頭が回っていないようだ\n\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 210144 \"tyrufing_lo_0004\"\n@ティルフィング\nそれでは\nいきますよ\n\n# textflame 0 0\n@\nともかく彼女のクイズが始まった\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nブラックキラーズのときに\nおぼえるスキルは\nなんでしょうか？\n\n# se \"SE_0734\"\n# select \"黒式・活望ノ光\" \"select_label_1\" \"黒式・希望ノ光\" \"select_label_2\" \"黒式・願イノ光\" \"select_label_3\"\nブラックキラーズのときに\nおぼえるスキルは\nなんでしょうか？\n"
+	},
+	{
+		"ID": 5563,
+		"unitID": 2101441,
+		"questionID": 49101429,
+		"script": ";;５回,2\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 210144 \"tyrufing_lo_0001\"\n@ティルフィング\nお兄さん…\n\n# textflame 0 0\n@\n眠たそうな目をこする彼女\n\n# textflame 1 1\n@ティルフィング\nきょうは、\nいっぱいあそんでくれて\nありがとうございました\n\n# face %(unit_a)s \"sad\"\n# voice 210144 \"tyrufing_lo_0028\"\n@ティルフィング\n…でも\nすこし…\nつかれちゃいました…\n\n# textflame 0 0\n@\nおんぶしようか？\nと、マスターが言うと\n\n# textflame 1 1\n# face %(unit_a)s \"surprise\"\n# voice 210144 \"tyrufing_lo_0022\"\n@ティルフィング\nいいんですか？\nでも、ただおんぶしてもらうのは\nわるいですので……\n\n@ティルフィング\nいまから出すクイズに、\nお兄さんがせいかいしたら\nおんぶしてもらいますね…\n\n# textflame 0 0\n@\n普通は正解できなかったら、\nおんぶだと思うのだが…\n眠いせいで頭が回っていないようだ\n\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 210144 \"tyrufing_lo_0004\"\n@ティルフィング\nそれでは\nいきますよ\n\n# textflame 0 0\n@\nともかく彼女のクイズが始まった\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n『まけんのちかい』は\nなんかいこうげきする\nでしょうか？\n\n# se \"SE_0734\"\n# select \"３回\" \"select_label_1\" \"５回\" \"select_label_2\" \"１０回\" \"select_label_3\"\n『まけんのちかい』は\nなんかいこうげきする\nでしょうか？\n"
+	},
+	{
+		"ID": 5564,
+		"unitID": 2101441,
+		"questionID": 49101430,
+		"script": ";;Pisces,2\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 210144 \"tyrufing_lo_0002\"\n@ティルフィング\nきょうはありがとうございました\n\n@ティルフィング\nとっても楽しかったです\n\n# face %(unit_a)s \"normal\"\n@ティルフィング\nやっぱりお兄さんは、\nたいせつなお兄さんです\n\n@ティルフィング\nわたしをいっつも\nえがおにしてくれるから\n\n# face %(unit_a)s \"surprise\"\n# voice 210144 \"tyrufing_lo_0001\"\n@ティルフィング\nねぇ、お兄さん\nひとつ、わがままをいっても\nいい…ですか？\n\n@ティルフィング\nさいごに私の出すクイズに\nせいかいして…\n\n# face %(unit_a)s \"usual\"\n@ティルフィング\nもっとわたしを\nえがおにしてくれますか？\n\n# voice 210144 \"tyrufing_lo_0004\"\n@ティルフィング\nいきますよ\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私のせいざを\nえいごでなんというでしょうか？\n\n# se \"SE_0734\"\n# select \"Fish\" \"select_label_1\" \"Pisces\" \"select_label_2\" \"Uo\" \"select_label_3\"\n私のせいざを\nえいごでなんというでしょうか？\n"
+	},
+	{
+		"ID": 5565,
+		"unitID": 2101441,
+		"questionID": 49101431,
+		"script": ";;ピンク,3\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 210144 \"tyrufing_lo_0002\"\n@ティルフィング\nきょうはありがとうございました\n\n@ティルフィング\nとっても楽しかったです\n\n# face %(unit_a)s \"normal\"\n@ティルフィング\nやっぱりお兄さんは、\nたいせつなお兄さんです\n\n@ティルフィング\nわたしをいっつも\nえがおにしてくれるから\n\n# face %(unit_a)s \"surprise\"\n# voice 210144 \"tyrufing_lo_0001\"\n@ティルフィング\nねぇ、お兄さん\nひとつ、わがままをいっても\nいい…ですか？\n\n@ティルフィング\nさいごに私の出すクイズに\nせいかいして…\n\n# face %(unit_a)s \"usual\"\n@ティルフィング\nもっとわたしを\nえがおにしてくれますか？\n\n# voice 210144 \"tyrufing_lo_0004\"\n@ティルフィング\nいきますよ\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私のかみのいろは\nなにいろでしょうか？\n\n# se \"SE_0734\"\n# select \"赤\" \"select_label_1\" \"青\" \"select_label_2\" \"ピンク\" \"select_label_3\"\n私のかみのいろは\nなにいろでしょうか？\n"
+	},
+	{
+		"ID": 5566,
+		"unitID": 2101441,
+		"questionID": 49101432,
+		"script": ";;ピンク,1\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 210144 \"tyrufing_lo_0002\"\n@ティルフィング\nきょうはありがとうございました\n\n@ティルフィング\nとっても楽しかったです\n\n# face %(unit_a)s \"normal\"\n@ティルフィング\nやっぱりお兄さんは、\nたいせつなお兄さんです\n\n@ティルフィング\nわたしをいっつも\nえがおにしてくれるから\n\n# face %(unit_a)s \"surprise\"\n# voice 210144 \"tyrufing_lo_0001\"\n@ティルフィング\nねぇ、お兄さん\nひとつ、わがままをいっても\nいい…ですか？\n\n@ティルフィング\nさいごに私の出すクイズに\nせいかいして…\n\n# face %(unit_a)s \"usual\"\n@ティルフィング\nもっとわたしを\nえがおにしてくれますか？\n\n# voice 210144 \"tyrufing_lo_0004\"\n@ティルフィング\nいきますよ\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私のめのいろは\nなにいろかわかりますか？\n\n# se \"SE_0734\"\n# select \"ピンク\" \"select_label_1\" \"青\" \"select_label_2\" \"緑\" \"select_label_3\"\n私のめのいろは\nなにいろかわかりますか？\n"
+	},
+	{
+		"ID": 5567,
+		"unitID": 2101441,
+		"questionID": 49101433,
+		"script": ";;金色,2\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 210144 \"tyrufing_lo_0002\"\n@ティルフィング\nきょうはありがとうございました\n\n@ティルフィング\nとっても楽しかったです\n\n# face %(unit_a)s \"normal\"\n@ティルフィング\nやっぱりお兄さんは、\nたいせつなお兄さんです\n\n@ティルフィング\nわたしをいっつも\nえがおにしてくれるから\n\n# face %(unit_a)s \"surprise\"\n# voice 210144 \"tyrufing_lo_0001\"\n@ティルフィング\nねぇ、お兄さん\nひとつ、わがままをいっても\nいい…ですか？\n\n@ティルフィング\nさいごに私の出すクイズに\nせいかいして…\n\n# face %(unit_a)s \"usual\"\n@ティルフィング\nもっとわたしを\nえがおにしてくれますか？\n\n# voice 210144 \"tyrufing_lo_0004\"\n@ティルフィング\nいきますよ\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私がもっているけんの\nつかのいろは\nなにいろでしょうか？\n\n# se \"SE_0734\"\n# select \"銀色\" \"select_label_1\" \"金色\" \"select_label_2\" \"水色\" \"select_label_3\"\n私がもっているけんの\nつかのいろは\nなにいろでしょうか？\n"
+	},
+	{
+		"ID": 5568,
+		"unitID": 2101441,
+		"questionID": 49101434,
+		"script": ";;March,2\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 210144 \"tyrufing_lo_0002\"\n@ティルフィング\nきょうはありがとうございました\n\n@ティルフィング\nとっても楽しかったです\n\n# face %(unit_a)s \"normal\"\n@ティルフィング\nやっぱりお兄さんは、\nたいせつなお兄さんです\n\n@ティルフィング\nわたしをいっつも\nえがおにしてくれるから\n\n# face %(unit_a)s \"surprise\"\n# voice 210144 \"tyrufing_lo_0001\"\n@ティルフィング\nねぇ、お兄さん\nひとつ、わがままをいっても\nいい…ですか？\n\n@ティルフィング\nさいごに私の出すクイズに\nせいかいして…\n\n# face %(unit_a)s \"usual\"\n@ティルフィング\nもっとわたしを\nえがおにしてくれますか？\n\n# voice 210144 \"tyrufing_lo_0004\"\n@ティルフィング\nいきますよ\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私のたんじょうびのつきを\nえいごでなんていうでしょう？\n\n# se \"SE_0734\"\n# select \"April\" \"select_label_1\" \"March\" \"select_label_2\" \"May\" \"select_label_3\"\n私のたんじょうびのつきを\nえいごでなんていうでしょう？\n"
+	},
+	{
+		"ID": 5569,
+		"unitID": 2101441,
+		"questionID": 49101435,
+		"script": ";;ゲイボルグ,3\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 210144 \"tyrufing_lo_0002\"\n@ティルフィング\nきょうはありがとうございました\n\n@ティルフィング\nとっても楽しかったです\n\n# face %(unit_a)s \"normal\"\n@ティルフィング\nやっぱりお兄さんは、\nたいせつなお兄さんです\n\n@ティルフィング\nわたしをいっつも\nえがおにしてくれるから\n\n# face %(unit_a)s \"surprise\"\n# voice 210144 \"tyrufing_lo_0001\"\n@ティルフィング\nねぇ、お兄さん\nひとつ、わがままをいっても\nいい…ですか？\n\n@ティルフィング\nさいごに私の出すクイズに\nせいかいして…\n\n# face %(unit_a)s \"usual\"\n@ティルフィング\nもっとわたしを\nえがおにしてくれますか？\n\n# voice 210144 \"tyrufing_lo_0004\"\n@ティルフィング\nいきますよ\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私とたんじょうびのつきが\nいっしょなのは\nだれでしょうか？\n\n# se \"SE_0734\"\n# select \"シタ\" \"select_label_1\" \"グラム\" \"select_label_2\" \"ゲイボルグ\" \"select_label_3\"\n私とたんじょうびのつきが\nいっしょなのは\nだれでしょうか？\n"
+	},
+	{
+		"ID": 5570,
+		"unitID": 2101441,
+		"questionID": 49101436,
+		"script": ";;グングニル,3\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 210144 \"tyrufing_lo_0002\"\n@ティルフィング\nきょうはありがとうございました\n\n@ティルフィング\nとっても楽しかったです\n\n# face %(unit_a)s \"normal\"\n@ティルフィング\nやっぱりお兄さんは、\nたいせつなお兄さんです\n\n@ティルフィング\nわたしをいっつも\nえがおにしてくれるから\n\n# face %(unit_a)s \"surprise\"\n# voice 210144 \"tyrufing_lo_0001\"\n@ティルフィング\nねぇ、お兄さん\nひとつ、わがままをいっても\nいい…ですか？\n\n@ティルフィング\nさいごに私の出すクイズに\nせいかいして…\n\n# face %(unit_a)s \"usual\"\n@ティルフィング\nもっとわたしを\nえがおにしてくれますか？\n\n# voice 210144 \"tyrufing_lo_0004\"\n@ティルフィング\nいきますよ\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私といっしょの\nけつえきがたなのは\nだれでしょうか？\n\n# se \"SE_0734\"\n# select \"エロース\" \"select_label_1\" \"アフロディーテ\" \"select_label_2\" \"グングニル\" \"select_label_3\"\n私といっしょの\nけつえきがたなのは\nだれでしょうか？\n"
+	},
+	{
+		"ID": 5571,
+		"unitID": 2101441,
+		"questionID": 49101437,
+		"script": ";;グリダヴォル,3\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 210144 \"tyrufing_lo_0002\"\n@ティルフィング\nきょうはありがとうございました\n\n@ティルフィング\nとっても楽しかったです\n\n# face %(unit_a)s \"normal\"\n@ティルフィング\nやっぱりお兄さんは、\nたいせつなお兄さんです\n\n@ティルフィング\nわたしをいっつも\nえがおにしてくれるから\n\n# face %(unit_a)s \"surprise\"\n# voice 210144 \"tyrufing_lo_0001\"\n@ティルフィング\nねぇ、お兄さん\nひとつ、わがままをいっても\nいい…ですか？\n\n@ティルフィング\nさいごに私の出すクイズに\nせいかいして…\n\n# face %(unit_a)s \"usual\"\n@ティルフィング\nもっとわたしを\nえがおにしてくれますか？\n\n# voice 210144 \"tyrufing_lo_0004\"\n@ティルフィング\nいきますよ\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私のたんじょうびの\nつぎのひのたんじょうび\nなのはだれでしょう？\n\n# se \"SE_0734\"\n# select \"ゲイボルグ\" \"select_label_1\" \"トリシューラ\" \"select_label_2\" \"グリダヴォル\" \"select_label_3\"\n私のたんじょうびの\nつぎのひのたんじょうび\nなのはだれでしょう？\n"
+	},
+	{
+		"ID": 5572,
+		"unitID": 2101441,
+		"questionID": 49101438,
+		"script": ";;デコポンの日,2\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 210144 \"tyrufing_lo_0002\"\n@ティルフィング\nきょうはありがとうございました\n\n@ティルフィング\nとっても楽しかったです\n\n# face %(unit_a)s \"normal\"\n@ティルフィング\nやっぱりお兄さんは、\nたいせつなお兄さんです\n\n@ティルフィング\nわたしをいっつも\nえがおにしてくれるから\n\n# face %(unit_a)s \"surprise\"\n# voice 210144 \"tyrufing_lo_0001\"\n@ティルフィング\nねぇ、お兄さん\nひとつ、わがままをいっても\nいい…ですか？\n\n@ティルフィング\nさいごに私の出すクイズに\nせいかいして…\n\n# face %(unit_a)s \"usual\"\n@ティルフィング\nもっとわたしを\nえがおにしてくれますか？\n\n# voice 210144 \"tyrufing_lo_0004\"\n@ティルフィング\nいきますよ\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私のたんじょうびは\nなんのひでしょうか？\n\n# se \"SE_0734\"\n# select \"オレンジの日\" \"select_label_1\" \"デコポンの日\" \"select_label_2\" \"みかんの日\" \"select_label_3\"\n私のたんじょうびは\nなんのひでしょうか？\n"
+	},
+	{
+		"ID": 5573,
+		"unitID": 2101441,
+		"questionID": 49101439,
+		"script": ";;バルムンク,3\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 210144 \"tyrufing_lo_0002\"\n@ティルフィング\nきょうはありがとうございました\n\n@ティルフィング\nとっても楽しかったです\n\n# face %(unit_a)s \"normal\"\n@ティルフィング\nやっぱりお兄さんは、\nたいせつなお兄さんです\n\n@ティルフィング\nわたしをいっつも\nえがおにしてくれるから\n\n# face %(unit_a)s \"surprise\"\n# voice 210144 \"tyrufing_lo_0001\"\n@ティルフィング\nねぇ、お兄さん\nひとつ、わがままをいっても\nいい…ですか？\n\n@ティルフィング\nさいごに私の出すクイズに\nせいかいして…\n\n# face %(unit_a)s \"usual\"\n@ティルフィング\nもっとわたしを\nえがおにしてくれますか？\n\n# voice 210144 \"tyrufing_lo_0004\"\n@ティルフィング\nいきますよ\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私のたんじょうびのつきと\nちがうたんじょうびのつきは\nだれでしょう？\n\n# se \"SE_0734\"\n# select \"マサムネ\" \"select_label_1\" \"梓弓\" \"select_label_2\" \"バルムンク\" \"select_label_3\"\n私のたんじょうびのつきと\nちがうたんじょうびのつきは\nだれでしょう？\n"
+	},
+	{
+		"ID": 5574,
+		"unitID": 2101441,
+		"questionID": 49101440,
+		"script": "\n;;私,2\n# se \"SE_0734\"\n# select \"ワタシ\" \"select_label_1\" \"私\" \"select_label_2\" \"わたし\" \"select_label_3\"\nティルフィングの一人称は\n次のうちどれ？\n"
+	},
+	{
+		"ID": 5575,
+		"unitID": 2101441,
+		"questionID": 49101441,
+		"script": "\n;;お兄さん,3\n# se \"SE_0734\"\n# select \"あんた\" \"select_label_1\" \"そなた\" \"select_label_2\" \"お兄さん\" \"select_label_3\"\nティルフィングはアンタのこと、\nなんて呼んでる？\n"
+	},
+	{
+		"ID": 5576,
+		"unitID": 2101441,
+		"questionID": 49101442,
+		"script": "\n;;青,3\n# se \"SE_0734\"\n# select \"紫\" \"select_label_1\" \"黒\" \"select_label_2\" \"青\" \"select_label_3\"\nティルフィングの水着の色は\n次のうちどれ？\n"
+	},
+	{
+		"ID": 5577,
+		"unitID": 2101441,
+		"questionID": 49101443,
+		"script": "\n;;5,2\n# se \"SE_0734\"\n# select \"17\" \"select_label_1\" \"5\" \"select_label_2\" \"12\" \"select_label_3\"\nティルフィングは\n第２回人気投票で\n何位だったでしょう？\n"
+	},
+	{
+		"ID": 5578,
+		"unitID": 2101441,
+		"questionID": 49101444,
+		"script": "\n;;雨宮天,3\n# se \"SE_0734\"\n# select \"内田真礼\" \"select_label_1\" \"井上麻里奈\" \"select_label_2\" \"雨宮天\" \"select_label_3\"\nティルフィングの声優は誰？\n"
+	}
+]

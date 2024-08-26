@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 302621,
+		"script": "# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_onsen\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 0 0\n@\nグラーシーザと一緒に\n水着着用の温泉にやってきたマスター\n\n# voice 3026 \"grayside_0004\"\n# textflame 1 1\n@グラーシーザ\nうぅーん！\nいい湯だな、マスター！\n\n@グラーシーザ\nうんどうしたあとの、おんせんは\nかくべつだと、きいていたが\nまさしく、そのとおりだな\n\n@グラーシーザ\nマスターも、そうおもうだろう？\n\n@グラーシーザ\nうむうむ、\nそれは、ちょうじょうっ\n\n# select \"温泉は気に入った？\" \"select_label_01\" \"温泉に入るの楽しい？\" \"select_label_02\" \"泳いじゃダメだよ？\" \"select_label_03\"\nうむうむ、\nそれは、ちょうじょうっ\n\n# label \"select_label_01\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_02\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_03\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# textflame 1 1\n# waitandnext 0.1\n\n# label \"select_label_end\"\n# waitandnext 2\n# fadeout \"black\" 1.2"
+	}
+]

@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 401023,
+		"script": ";;選択肢C(中当たり)\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_shipboard\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 1012 \"adamasu_0024\"\n@アバリス\nま、マスター…！？\n\n# face %(unit_a)s \"smile\"\n@アバリス\nいきなり大胆です…\nそんな…私…\nなんて答えたら…\n\n# textflame 0 0\n@\nびっくりさせてしまったようで\nアバリスは\nうつむいてもじもじしている\n\n# face %(unit_a)s \"normal\"\n# textflame 1 1\n@アバリス\n本当は…未来のこと\n少しわかるんですが…\n\n# face %(unit_a)s \"smile\"\n@アバリス\nい、今は…\n見ないことにしておきます…\n\n# textflame 0 0\n@\n深呼吸をしたあとに\n恥ずかしそうにこちらを向いた\nアバリスの顔はとても可愛かった…\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 500213,
+		"script": ";;Bゆ、揺れる…\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_ferris\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# voice 5002 \"furaikugeru_0001\"\n# face %(unit_a)s \"smile\"\n@フライクーゲル\nんん～？もしかしてマスター\n高いなところ苦手なの？\n\n# voice 5002 \"furaikugeru_0029\"\n@フライクーゲル\nだったら～…えいっ！\n\n# textflame 0 0\n@\n言うが早いか、\nフライクーゲルが\nこちらの隣へと移動してくる\n\n# textflame 1 1\n# voice 5002 \"furaikugeru_0004\"\n@フライクーゲル\nこうして手を繋いでれば\nオールオッケーだよね！\n\n# eye %(unit_a)s \"close\"\n@フライクーゲル\nせっかくだから\n肩なんか寄せちゃったりして～\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"smile\"\n# voice 5002 \"furaikugeru_0022\"\n@フライクーゲル\n…あれ？\nなんだかドキドキしてる？\nそんなに苦手だった？\n\n# voice 5002 \"furaikugeru_0031\"\n# face %(unit_a)s \"sad\"\n@フライクーゲル\nだったらソーリーだよ、わたしが\n観覧車に乗りたいって言ったから…\n\n# face %(unit_a)s \"usual\"\n@フライクーゲル\nせめてものお詫びに、終わるまで\nギュッとしてあげるね？\n\n# eye %(unit_a)s \"close\"\n# voice 5002 \"furaikugeru_0042\"\n@フライクーゲル\nこれなら、安心…できるかな\n\n# textflame 0 0\n@\n身を寄せてきたフライクーゲル\n互いの体温に胸を高鳴らせながら\n観覧車が一周するのを待ち続けた…\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

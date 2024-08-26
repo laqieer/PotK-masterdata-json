@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 2200411,
+		"script": ";;よく分からない,中\n;;人は常に進んでる,大\n;;そんなことよりお腹がすいた,小\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background %(background)s\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 0 0\n@\nパラシュを連れ、\n博物館にやってきた\nマスター\n\n# textflame 1 1\n# face 2200421 \"usual\"\n@パラシュ\nやっぱり人の歩みは\nすごいよね\n\n@パラシュ\n人が作り出した物を\n見ていると、そう思うんだ\n;;----------------------------------------\n\n# voice 220042 \"parashu_k_0002\"\n# textflame 1 1\n@パラシュ\nマスターはどう思う？\n\n# select \"よく分からない\" \"select_label_01\" \"人は常に進んでる\" \"select_label_02\" \"そんなことよりお腹がすいた\" \"select_label_03\"\nマスターはどう思う？\n\n# label \"select_label_01\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_02\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_03\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_end\"\n# waitandnext 0.1\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 601722,
+		"script": ";;A大-------------------\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_onsen\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n@アクア\nあははっ、さっすがマスター\nそうそう、そうこなくっちゃね！\n\n@アクア\n温泉の楽しみ方が\nよく分かってるじゃない\n\n@アクア\nあ、シュワシュワと一緒に\nおいしい料理もいいわね！\nはぁ～、極楽極楽～\n\n# textflame 0 0\n@\nアクアはいつになくご機嫌だ\nそして、ふと\nつぶやくように言う\n\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n@アクア\nあなたとパーティー組んで\n正解だったわ\nありがとう！\n\n# textflame 0 0\n@\nマスターには\nそう言うアクアの顔が、\nほのかに上気して見えた\n\n@\nそれはお湯に\n浸かっていたせいだろうか…\n\n@\nその後も二人は\n温泉でゆったりとした\n時間を過ごした…\n;;----------------------------------------\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

@@ -1,0 +1,26 @@
+[
+	{
+		"ID": 121,
+		"unitID": 2300611,
+		"scriptID": "kaerimichi",
+		"script": "なぁに見てんだよ…！\nったく、しょうがねえから\nまだ一緒にいてやるよ！"
+	},
+	{
+		"ID": 135,
+		"unitID": 2300611,
+		"scriptID": "kaeru",
+		"script": "よっし、帰るぜー？"
+	},
+	{
+		"ID": 149,
+		"unitID": 2300611,
+		"scriptID": "kaeru_ok",
+		"script": "@%(unitName:unit_a)s\n良いぜ～！\nよっしゃ、まだまだ暴れるか〜！"
+	},
+	{
+		"ID": 163,
+		"unitID": 2300611,
+		"scriptID": "kaeru_ng",
+		"script": "@%(unitName:unit_a)s\nわりぃ。これからちょっとな…\nまた今度！"
+	}
+]

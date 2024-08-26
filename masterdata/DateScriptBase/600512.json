@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 600512,
+		"script": "# script \"lisp\"\n# fadein \"black\" 0.5\n# background %(background)s\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 6005 \"keryukeion_0039\"\n@ケーリュケイオン\nそ、そう…？\n\n# face %(unit_a)s \"normal\"\n# textflame 1 1\n@ケーリュケイオン\nそうね、私も…\nマスターと一緒なら\nこういう時間も苦じゃないわ\n\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@ケーリュケイオン\nあ、そうだ！\n\n# face %(unit_a)s \"normal\"\n# textflame 1 1\n@ケーリュケイオン\nせっかくだから今のうちに\nこの後の予定をたてましょうか\n\n# textflame 1 1\n@ケーリュケイオン\n今日は街の色んな目玉スポットの\n情報を仕入れてきてるの\n\n# textflame 1 1\n@ケーリュケイオン\nお代は、そうねぇ…\n\n# face %(unit_a)s \"smile\"\n# voice 6005 \"keryukeion_0004\"\n# textflame 1 1\n@ケーリュケイオン\nマスターが\n私を楽しませてくれること、でどう？\n\n# textflame 0 0\n@\nケーリュケイオンと次の行き先を\n相談している内に、待ち時間は\n瞬く間に過ぎていった…\n;;--------------------------------------\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

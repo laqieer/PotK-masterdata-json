@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 3101316,
+		"script": "# script \"lisp\"\n# background \"colosseum_rise\"\n# bgm \"bgm001\" 0\n# body 810004\n# mask 810004 off\n# pos 810004 3\n# textflame 1 1\n# textboxarrow 0 2\n# voice 9994 \"izokutaisho_0028\"\n@異族の大将\nさ！やってきました\nみなさまお待ちかね\nニコ生クエスト！\n\n# voice 9994 \"izokutaisho_0029\"\n# chara 810004\n@異族の大将\n今月はなんとレッドカーペットを\n歩かせてくれるということで、\n若干緊張しております。\n\n# voice 9994 \"izokutaisho_0030\"\n# chara 810004\n@異族の大将\nでもな、オレ知っとうねん…。\nどうせお前ら\n邪魔してくんねやろ！！\n\n# voice 9994 \"izokutaisho_0031\"\n# chara 810004\n@異族の大将\nまぁ、ミノタウロス先輩に\n警護してもらうから\n大丈夫やけど。\n\n# voice 9994 \"izokutaisho_0032\"\n# chara 810004\n@異族の大将\n先月全然役立たれへんかったことで\n奮起して、いまめちゃめちゃ\n強いからみんな気つけや！"
+	}
+]

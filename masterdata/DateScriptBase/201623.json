@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 201623,
+		"script": "# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_shipboard\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# voice 2016 \"shita_0006\"\n@シタ\n素敵ですね…！\nじゃあわたし達は今、\n宇宙旅行中ですね！\n\n# textflame 0 0\n@\n夜闇を滑っていく船…\n頭上の満天の星…\nなんだか本当にそんな気がしてくる\n\n# textflame 1 1\n;; face %(unit_a)s \"close\"\n@シタ\n果てしない銀河をゆく\nあてのない旅でも…\n\n# face %(unit_a)s \"normal\"\n# voice 2016 \"shita_0005\"\n# textflame 1 1\n@シタ\nマスターと二人なら\nどこまでもいけそうです…\nふふっ\n\n# textflame 0 0\n@\n夜の海の上で\n二人ははるか宇宙に\n思いを馳せるのだった――\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

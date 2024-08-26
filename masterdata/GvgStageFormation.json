@@ -1,0 +1,5482 @@
+[
+	{
+		"ID": 1,
+		"stage_BattleStage": 710553001,
+		"formation_x": 2,
+		"formation_y": 1,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 2,
+		"stage_BattleStage": 710553001,
+		"formation_x": 3,
+		"formation_y": 1,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 3,
+		"stage_BattleStage": 710553001,
+		"formation_x": 4,
+		"formation_y": 1,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 4,
+		"stage_BattleStage": 710553001,
+		"formation_x": 5,
+		"formation_y": 1,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 5,
+		"stage_BattleStage": 710553001,
+		"formation_x": 6,
+		"formation_y": 1,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 6,
+		"stage_BattleStage": 710553001,
+		"formation_x": 7,
+		"formation_y": 1,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 7,
+		"stage_BattleStage": 710553001,
+		"formation_x": 2,
+		"formation_y": 11,
+		"player_order": 1,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 8,
+		"stage_BattleStage": 710553001,
+		"formation_x": 3,
+		"formation_y": 11,
+		"player_order": 1,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 9,
+		"stage_BattleStage": 710553001,
+		"formation_x": 4,
+		"formation_y": 11,
+		"player_order": 1,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 10,
+		"stage_BattleStage": 710553001,
+		"formation_x": 5,
+		"formation_y": 11,
+		"player_order": 1,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 11,
+		"stage_BattleStage": 710553001,
+		"formation_x": 6,
+		"formation_y": 11,
+		"player_order": 1,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 12,
+		"stage_BattleStage": 710553001,
+		"formation_x": 7,
+		"formation_y": 11,
+		"player_order": 1,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 13,
+		"stage_BattleStage": 710553001,
+		"formation_x": 3,
+		"formation_y": 2,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 14,
+		"stage_BattleStage": 710553001,
+		"formation_x": 4,
+		"formation_y": 2,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 15,
+		"stage_BattleStage": 710553001,
+		"formation_x": 5,
+		"formation_y": 2,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 16,
+		"stage_BattleStage": 710553001,
+		"formation_x": 6,
+		"formation_y": 2,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 17,
+		"stage_BattleStage": 710553001,
+		"formation_x": 2,
+		"formation_y": 10,
+		"player_order": 1,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 18,
+		"stage_BattleStage": 710553001,
+		"formation_x": 3,
+		"formation_y": 10,
+		"player_order": 1,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 19,
+		"stage_BattleStage": 710553001,
+		"formation_x": 6,
+		"formation_y": 10,
+		"player_order": 1,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 20,
+		"stage_BattleStage": 710553001,
+		"formation_x": 7,
+		"formation_y": 10,
+		"player_order": 1,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 21,
+		"stage_BattleStage": 710553002,
+		"formation_x": 2,
+		"formation_y": 1,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 22,
+		"stage_BattleStage": 710553002,
+		"formation_x": 3,
+		"formation_y": 1,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 23,
+		"stage_BattleStage": 710553002,
+		"formation_x": 4,
+		"formation_y": 1,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 24,
+		"stage_BattleStage": 710553002,
+		"formation_x": 5,
+		"formation_y": 1,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 25,
+		"stage_BattleStage": 710553002,
+		"formation_x": 6,
+		"formation_y": 1,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 26,
+		"stage_BattleStage": 710553002,
+		"formation_x": 7,
+		"formation_y": 1,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 27,
+		"stage_BattleStage": 710553002,
+		"formation_x": 2,
+		"formation_y": 2,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 28,
+		"stage_BattleStage": 710553002,
+		"formation_x": 3,
+		"formation_y": 2,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 29,
+		"stage_BattleStage": 710553002,
+		"formation_x": 4,
+		"formation_y": 2,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 30,
+		"stage_BattleStage": 710553002,
+		"formation_x": 5,
+		"formation_y": 2,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 31,
+		"stage_BattleStage": 710553002,
+		"formation_x": 6,
+		"formation_y": 2,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 32,
+		"stage_BattleStage": 710553002,
+		"formation_x": 7,
+		"formation_y": 2,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 33,
+		"stage_BattleStage": 710553002,
+		"formation_x": 6,
+		"formation_y": 11,
+		"player_order": 1,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 34,
+		"stage_BattleStage": 710553002,
+		"formation_x": 7,
+		"formation_y": 11,
+		"player_order": 1,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 35,
+		"stage_BattleStage": 710553002,
+		"formation_x": 8,
+		"formation_y": 11,
+		"player_order": 1,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 36,
+		"stage_BattleStage": 710553002,
+		"formation_x": 9,
+		"formation_y": 11,
+		"player_order": 1,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 37,
+		"stage_BattleStage": 710553002,
+		"formation_x": 10,
+		"formation_y": 11,
+		"player_order": 1,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 38,
+		"stage_BattleStage": 710553002,
+		"formation_x": 11,
+		"formation_y": 11,
+		"player_order": 1,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 39,
+		"stage_BattleStage": 710553002,
+		"formation_x": 6,
+		"formation_y": 10,
+		"player_order": 1,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 40,
+		"stage_BattleStage": 710553002,
+		"formation_x": 7,
+		"formation_y": 10,
+		"player_order": 1,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 41,
+		"stage_BattleStage": 710553002,
+		"formation_x": 8,
+		"formation_y": 10,
+		"player_order": 1,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 42,
+		"stage_BattleStage": 710553002,
+		"formation_x": 9,
+		"formation_y": 10,
+		"player_order": 1,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 43,
+		"stage_BattleStage": 710553002,
+		"formation_x": 10,
+		"formation_y": 10,
+		"player_order": 1,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 44,
+		"stage_BattleStage": 710553002,
+		"formation_x": 11,
+		"formation_y": 10,
+		"player_order": 1,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 45,
+		"stage_BattleStage": 710553003,
+		"formation_x": 4,
+		"formation_y": 2,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 46,
+		"stage_BattleStage": 710553003,
+		"formation_x": 7,
+		"formation_y": 2,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 47,
+		"stage_BattleStage": 710553003,
+		"formation_x": 4,
+		"formation_y": 1,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 48,
+		"stage_BattleStage": 710553003,
+		"formation_x": 5,
+		"formation_y": 1,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 49,
+		"stage_BattleStage": 710553003,
+		"formation_x": 6,
+		"formation_y": 1,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 50,
+		"stage_BattleStage": 710553003,
+		"formation_x": 7,
+		"formation_y": 1,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 51,
+		"stage_BattleStage": 710553003,
+		"formation_x": 2,
+		"formation_y": 2,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 52,
+		"stage_BattleStage": 710553003,
+		"formation_x": 3,
+		"formation_y": 2,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 53,
+		"stage_BattleStage": 710553003,
+		"formation_x": 2,
+		"formation_y": 1,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 54,
+		"stage_BattleStage": 710553003,
+		"formation_x": 3,
+		"formation_y": 1,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 55,
+		"stage_BattleStage": 710553003,
+		"formation_x": 8,
+		"formation_y": 2,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 56,
+		"stage_BattleStage": 710553003,
+		"formation_x": 8,
+		"formation_y": 1,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 57,
+		"stage_BattleStage": 710553003,
+		"formation_x": 9,
+		"formation_y": 2,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 58,
+		"stage_BattleStage": 710553003,
+		"formation_x": 9,
+		"formation_y": 1,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 59,
+		"stage_BattleStage": 710553003,
+		"formation_x": 4,
+		"formation_y": 13,
+		"player_order": 1,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 60,
+		"stage_BattleStage": 710553003,
+		"formation_x": 7,
+		"formation_y": 13,
+		"player_order": 1,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 61,
+		"stage_BattleStage": 710553003,
+		"formation_x": 4,
+		"formation_y": 14,
+		"player_order": 1,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 62,
+		"stage_BattleStage": 710553003,
+		"formation_x": 5,
+		"formation_y": 14,
+		"player_order": 1,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 63,
+		"stage_BattleStage": 710553003,
+		"formation_x": 6,
+		"formation_y": 14,
+		"player_order": 1,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 64,
+		"stage_BattleStage": 710553003,
+		"formation_x": 7,
+		"formation_y": 14,
+		"player_order": 1,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 65,
+		"stage_BattleStage": 710553003,
+		"formation_x": 2,
+		"formation_y": 14,
+		"player_order": 1,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 66,
+		"stage_BattleStage": 710553003,
+		"formation_x": 2,
+		"formation_y": 13,
+		"player_order": 1,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 67,
+		"stage_BattleStage": 710553003,
+		"formation_x": 3,
+		"formation_y": 14,
+		"player_order": 1,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 68,
+		"stage_BattleStage": 710553003,
+		"formation_x": 3,
+		"formation_y": 13,
+		"player_order": 1,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 69,
+		"stage_BattleStage": 710553003,
+		"formation_x": 8,
+		"formation_y": 14,
+		"player_order": 1,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 70,
+		"stage_BattleStage": 710553003,
+		"formation_x": 8,
+		"formation_y": 13,
+		"player_order": 1,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 71,
+		"stage_BattleStage": 710553003,
+		"formation_x": 9,
+		"formation_y": 14,
+		"player_order": 1,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 72,
+		"stage_BattleStage": 710553003,
+		"formation_x": 9,
+		"formation_y": 13,
+		"player_order": 1,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 73,
+		"stage_BattleStage": 710553004,
+		"formation_x": 1,
+		"formation_y": 1,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 74,
+		"stage_BattleStage": 710553004,
+		"formation_x": 2,
+		"formation_y": 1,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 75,
+		"stage_BattleStage": 710553004,
+		"formation_x": 3,
+		"formation_y": 1,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 76,
+		"stage_BattleStage": 710553004,
+		"formation_x": 4,
+		"formation_y": 1,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 77,
+		"stage_BattleStage": 710553004,
+		"formation_x": 5,
+		"formation_y": 1,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 78,
+		"stage_BattleStage": 710553004,
+		"formation_x": 6,
+		"formation_y": 1,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 79,
+		"stage_BattleStage": 710553004,
+		"formation_x": 7,
+		"formation_y": 1,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 80,
+		"stage_BattleStage": 710553004,
+		"formation_x": 1,
+		"formation_y": 2,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 81,
+		"stage_BattleStage": 710553004,
+		"formation_x": 2,
+		"formation_y": 2,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 82,
+		"stage_BattleStage": 710553004,
+		"formation_x": 3,
+		"formation_y": 2,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 83,
+		"stage_BattleStage": 710553004,
+		"formation_x": 4,
+		"formation_y": 2,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 84,
+		"stage_BattleStage": 710553004,
+		"formation_x": 5,
+		"formation_y": 2,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 85,
+		"stage_BattleStage": 710553004,
+		"formation_x": 6,
+		"formation_y": 2,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 86,
+		"stage_BattleStage": 710553004,
+		"formation_x": 7,
+		"formation_y": 2,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 87,
+		"stage_BattleStage": 710553004,
+		"formation_x": 3,
+		"formation_y": 6,
+		"player_order": 1,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 88,
+		"stage_BattleStage": 710553004,
+		"formation_x": 7,
+		"formation_y": 9,
+		"player_order": 1,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 89,
+		"stage_BattleStage": 710553004,
+		"formation_x": 8,
+		"formation_y": 9,
+		"player_order": 1,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 90,
+		"stage_BattleStage": 710553004,
+		"formation_x": 7,
+		"formation_y": 13,
+		"player_order": 1,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 91,
+		"stage_BattleStage": 710553004,
+		"formation_x": 8,
+		"formation_y": 13,
+		"player_order": 1,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 92,
+		"stage_BattleStage": 710553004,
+		"formation_x": 4,
+		"formation_y": 14,
+		"player_order": 1,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 93,
+		"stage_BattleStage": 710553004,
+		"formation_x": 5,
+		"formation_y": 14,
+		"player_order": 1,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 94,
+		"stage_BattleStage": 710553004,
+		"formation_x": 4,
+		"formation_y": 13,
+		"player_order": 1,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 95,
+		"stage_BattleStage": 710553004,
+		"formation_x": 4,
+		"formation_y": 15,
+		"player_order": 1,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 96,
+		"stage_BattleStage": 710553004,
+		"formation_x": 3,
+		"formation_y": 13,
+		"player_order": 1,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 97,
+		"stage_BattleStage": 710553004,
+		"formation_x": 3,
+		"formation_y": 15,
+		"player_order": 1,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 98,
+		"stage_BattleStage": 710553004,
+		"formation_x": 2,
+		"formation_y": 13,
+		"player_order": 1,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 99,
+		"stage_BattleStage": 710553004,
+		"formation_x": 2,
+		"formation_y": 14,
+		"player_order": 1,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 100,
+		"stage_BattleStage": 710553004,
+		"formation_x": 2,
+		"formation_y": 15,
+		"player_order": 1,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 101,
+		"stage_BattleStage": 710553005,
+		"formation_x": 4,
+		"formation_y": 1,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 102,
+		"stage_BattleStage": 710553005,
+		"formation_x": 5,
+		"formation_y": 1,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 103,
+		"stage_BattleStage": 710553005,
+		"formation_x": 6,
+		"formation_y": 1,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 104,
+		"stage_BattleStage": 710553005,
+		"formation_x": 4,
+		"formation_y": 2,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 105,
+		"stage_BattleStage": 710553005,
+		"formation_x": 5,
+		"formation_y": 2,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 106,
+		"stage_BattleStage": 710553005,
+		"formation_x": 6,
+		"formation_y": 2,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 107,
+		"stage_BattleStage": 710553005,
+		"formation_x": 4,
+		"formation_y": 3,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 108,
+		"stage_BattleStage": 710553005,
+		"formation_x": 5,
+		"formation_y": 3,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 109,
+		"stage_BattleStage": 710553005,
+		"formation_x": 6,
+		"formation_y": 3,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 110,
+		"stage_BattleStage": 710553005,
+		"formation_x": 4,
+		"formation_y": 4,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 111,
+		"stage_BattleStage": 710553005,
+		"formation_x": 5,
+		"formation_y": 4,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 112,
+		"stage_BattleStage": 710553005,
+		"formation_x": 6,
+		"formation_y": 4,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 113,
+		"stage_BattleStage": 710553005,
+		"formation_x": 4,
+		"formation_y": 5,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 114,
+		"stage_BattleStage": 710553005,
+		"formation_x": 5,
+		"formation_y": 5,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 115,
+		"stage_BattleStage": 710553005,
+		"formation_x": 4,
+		"formation_y": 14,
+		"player_order": 1,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 116,
+		"stage_BattleStage": 710553005,
+		"formation_x": 2,
+		"formation_y": 13,
+		"player_order": 1,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 117,
+		"stage_BattleStage": 710553005,
+		"formation_x": 9,
+		"formation_y": 11,
+		"player_order": 1,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 118,
+		"stage_BattleStage": 710553005,
+		"formation_x": 10,
+		"formation_y": 9,
+		"player_order": 1,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 119,
+		"stage_BattleStage": 710553005,
+		"formation_x": 6,
+		"formation_y": 11,
+		"player_order": 1,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 120,
+		"stage_BattleStage": 710553005,
+		"formation_x": 5,
+		"formation_y": 9,
+		"player_order": 1,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 121,
+		"stage_BattleStage": 710553005,
+		"formation_x": 8,
+		"formation_y": 15,
+		"player_order": 1,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 122,
+		"stage_BattleStage": 710553005,
+		"formation_x": 10,
+		"formation_y": 15,
+		"player_order": 1,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 123,
+		"stage_BattleStage": 710553005,
+		"formation_x": 9,
+		"formation_y": 16,
+		"player_order": 1,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 124,
+		"stage_BattleStage": 710553005,
+		"formation_x": 11,
+		"formation_y": 16,
+		"player_order": 1,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 125,
+		"stage_BattleStage": 710553005,
+		"formation_x": 7,
+		"formation_y": 17,
+		"player_order": 1,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 126,
+		"stage_BattleStage": 710553005,
+		"formation_x": 8,
+		"formation_y": 17,
+		"player_order": 1,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 127,
+		"stage_BattleStage": 710553005,
+		"formation_x": 9,
+		"formation_y": 17,
+		"player_order": 1,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 128,
+		"stage_BattleStage": 710553005,
+		"formation_x": 10,
+		"formation_y": 17,
+		"player_order": 1,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 129,
+		"stage_BattleStage": 710553006,
+		"formation_x": 16,
+		"formation_y": 9,
+		"player_order": 0,
+		"initial_direction": 270.0
+	},
+	{
+		"ID": 130,
+		"stage_BattleStage": 710553006,
+		"formation_x": 17,
+		"formation_y": 9,
+		"player_order": 0,
+		"initial_direction": 270.0
+	},
+	{
+		"ID": 131,
+		"stage_BattleStage": 710553006,
+		"formation_x": 18,
+		"formation_y": 9,
+		"player_order": 0,
+		"initial_direction": 270.0
+	},
+	{
+		"ID": 132,
+		"stage_BattleStage": 710553006,
+		"formation_x": 18,
+		"formation_y": 8,
+		"player_order": 0,
+		"initial_direction": 270.0
+	},
+	{
+		"ID": 133,
+		"stage_BattleStage": 710553006,
+		"formation_x": 18,
+		"formation_y": 7,
+		"player_order": 0,
+		"initial_direction": 270.0
+	},
+	{
+		"ID": 134,
+		"stage_BattleStage": 710553006,
+		"formation_x": 18,
+		"formation_y": 6,
+		"player_order": 0,
+		"initial_direction": 270.0
+	},
+	{
+		"ID": 135,
+		"stage_BattleStage": 710553006,
+		"formation_x": 18,
+		"formation_y": 5,
+		"player_order": 0,
+		"initial_direction": 270.0
+	},
+	{
+		"ID": 136,
+		"stage_BattleStage": 710553006,
+		"formation_x": 17,
+		"formation_y": 5,
+		"player_order": 0,
+		"initial_direction": 270.0
+	},
+	{
+		"ID": 137,
+		"stage_BattleStage": 710553006,
+		"formation_x": 16,
+		"formation_y": 5,
+		"player_order": 0,
+		"initial_direction": 270.0
+	},
+	{
+		"ID": 138,
+		"stage_BattleStage": 710553006,
+		"formation_x": 16,
+		"formation_y": 6,
+		"player_order": 0,
+		"initial_direction": 270.0
+	},
+	{
+		"ID": 139,
+		"stage_BattleStage": 710553006,
+		"formation_x": 17,
+		"formation_y": 6,
+		"player_order": 0,
+		"initial_direction": 270.0
+	},
+	{
+		"ID": 140,
+		"stage_BattleStage": 710553006,
+		"formation_x": 17,
+		"formation_y": 7,
+		"player_order": 0,
+		"initial_direction": 270.0
+	},
+	{
+		"ID": 141,
+		"stage_BattleStage": 710553006,
+		"formation_x": 16,
+		"formation_y": 7,
+		"player_order": 0,
+		"initial_direction": 270.0
+	},
+	{
+		"ID": 142,
+		"stage_BattleStage": 710553006,
+		"formation_x": 16,
+		"formation_y": 8,
+		"player_order": 0,
+		"initial_direction": 270.0
+	},
+	{
+		"ID": 143,
+		"stage_BattleStage": 710553006,
+		"formation_x": 5,
+		"formation_y": 7,
+		"player_order": 1,
+		"initial_direction": 90.0
+	},
+	{
+		"ID": 144,
+		"stage_BattleStage": 710553006,
+		"formation_x": 7,
+		"formation_y": 3,
+		"player_order": 1,
+		"initial_direction": 90.0
+	},
+	{
+		"ID": 145,
+		"stage_BattleStage": 710553006,
+		"formation_x": 11,
+		"formation_y": 7,
+		"player_order": 1,
+		"initial_direction": 90.0
+	},
+	{
+		"ID": 146,
+		"stage_BattleStage": 710553006,
+		"formation_x": 10,
+		"formation_y": 3,
+		"player_order": 1,
+		"initial_direction": 90.0
+	},
+	{
+		"ID": 147,
+		"stage_BattleStage": 710553006,
+		"formation_x": 7,
+		"formation_y": 6,
+		"player_order": 1,
+		"initial_direction": 90.0
+	},
+	{
+		"ID": 148,
+		"stage_BattleStage": 710553006,
+		"formation_x": 7,
+		"formation_y": 8,
+		"player_order": 1,
+		"initial_direction": 90.0
+	},
+	{
+		"ID": 149,
+		"stage_BattleStage": 710553006,
+		"formation_x": 4,
+		"formation_y": 3,
+		"player_order": 1,
+		"initial_direction": 90.0
+	},
+	{
+		"ID": 150,
+		"stage_BattleStage": 710553006,
+		"formation_x": 9,
+		"formation_y": 8,
+		"player_order": 1,
+		"initial_direction": 90.0
+	},
+	{
+		"ID": 151,
+		"stage_BattleStage": 710553006,
+		"formation_x": 9,
+		"formation_y": 6,
+		"player_order": 1,
+		"initial_direction": 90.0
+	},
+	{
+		"ID": 152,
+		"stage_BattleStage": 710553006,
+		"formation_x": 3,
+		"formation_y": 2,
+		"player_order": 1,
+		"initial_direction": 90.0
+	},
+	{
+		"ID": 153,
+		"stage_BattleStage": 710553006,
+		"formation_x": 5,
+		"formation_y": 2,
+		"player_order": 1,
+		"initial_direction": 90.0
+	},
+	{
+		"ID": 154,
+		"stage_BattleStage": 710553006,
+		"formation_x": 8,
+		"formation_y": 2,
+		"player_order": 1,
+		"initial_direction": 90.0
+	},
+	{
+		"ID": 155,
+		"stage_BattleStage": 710553006,
+		"formation_x": 11,
+		"formation_y": 2,
+		"player_order": 1,
+		"initial_direction": 90.0
+	},
+	{
+		"ID": 156,
+		"stage_BattleStage": 710553006,
+		"formation_x": 12,
+		"formation_y": 3,
+		"player_order": 1,
+		"initial_direction": 90.0
+	},
+	{
+		"ID": 157,
+		"stage_BattleStage": 710553007,
+		"formation_x": 3,
+		"formation_y": 2,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 158,
+		"stage_BattleStage": 710553007,
+		"formation_x": 4,
+		"formation_y": 2,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 159,
+		"stage_BattleStage": 710553007,
+		"formation_x": 5,
+		"formation_y": 2,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 160,
+		"stage_BattleStage": 710553007,
+		"formation_x": 6,
+		"formation_y": 2,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 161,
+		"stage_BattleStage": 710553007,
+		"formation_x": 7,
+		"formation_y": 2,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 162,
+		"stage_BattleStage": 710553007,
+		"formation_x": 8,
+		"formation_y": 2,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 163,
+		"stage_BattleStage": 710553007,
+		"formation_x": 9,
+		"formation_y": 2,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 164,
+		"stage_BattleStage": 710553007,
+		"formation_x": 9,
+		"formation_y": 3,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 165,
+		"stage_BattleStage": 710553007,
+		"formation_x": 8,
+		"formation_y": 3,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 166,
+		"stage_BattleStage": 710553007,
+		"formation_x": 7,
+		"formation_y": 3,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 167,
+		"stage_BattleStage": 710553007,
+		"formation_x": 6,
+		"formation_y": 3,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 168,
+		"stage_BattleStage": 710553007,
+		"formation_x": 5,
+		"formation_y": 3,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 169,
+		"stage_BattleStage": 710553007,
+		"formation_x": 4,
+		"formation_y": 3,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 170,
+		"stage_BattleStage": 710553007,
+		"formation_x": 3,
+		"formation_y": 3,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 171,
+		"stage_BattleStage": 710553007,
+		"formation_x": 1,
+		"formation_y": 17,
+		"player_order": 1,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 172,
+		"stage_BattleStage": 710553007,
+		"formation_x": 2,
+		"formation_y": 17,
+		"player_order": 1,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 173,
+		"stage_BattleStage": 710553007,
+		"formation_x": 3,
+		"formation_y": 17,
+		"player_order": 1,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 174,
+		"stage_BattleStage": 710553007,
+		"formation_x": 9,
+		"formation_y": 17,
+		"player_order": 1,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 175,
+		"stage_BattleStage": 710553007,
+		"formation_x": 10,
+		"formation_y": 17,
+		"player_order": 1,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 176,
+		"stage_BattleStage": 710553007,
+		"formation_x": 11,
+		"formation_y": 17,
+		"player_order": 1,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 177,
+		"stage_BattleStage": 710553007,
+		"formation_x": 1,
+		"formation_y": 16,
+		"player_order": 1,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 178,
+		"stage_BattleStage": 710553007,
+		"formation_x": 2,
+		"formation_y": 16,
+		"player_order": 1,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 179,
+		"stage_BattleStage": 710553007,
+		"formation_x": 9,
+		"formation_y": 16,
+		"player_order": 1,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 180,
+		"stage_BattleStage": 710553007,
+		"formation_x": 10,
+		"formation_y": 16,
+		"player_order": 1,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 181,
+		"stage_BattleStage": 710553007,
+		"formation_x": 11,
+		"formation_y": 16,
+		"player_order": 1,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 182,
+		"stage_BattleStage": 710553007,
+		"formation_x": 1,
+		"formation_y": 15,
+		"player_order": 1,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 183,
+		"stage_BattleStage": 710553007,
+		"formation_x": 2,
+		"formation_y": 15,
+		"player_order": 1,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 184,
+		"stage_BattleStage": 710553007,
+		"formation_x": 1,
+		"formation_y": 14,
+		"player_order": 1,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 185,
+		"stage_BattleStage": 710553008,
+		"formation_x": 9,
+		"formation_y": 3,
+		"player_order": 0,
+		"initial_direction": 270.0
+	},
+	{
+		"ID": 186,
+		"stage_BattleStage": 710553008,
+		"formation_x": 9,
+		"formation_y": 2,
+		"player_order": 0,
+		"initial_direction": 270.0
+	},
+	{
+		"ID": 187,
+		"stage_BattleStage": 710553008,
+		"formation_x": 10,
+		"formation_y": 2,
+		"player_order": 0,
+		"initial_direction": 270.0
+	},
+	{
+		"ID": 188,
+		"stage_BattleStage": 710553008,
+		"formation_x": 10,
+		"formation_y": 3,
+		"player_order": 0,
+		"initial_direction": 270.0
+	},
+	{
+		"ID": 189,
+		"stage_BattleStage": 710553008,
+		"formation_x": 11,
+		"formation_y": 3,
+		"player_order": 0,
+		"initial_direction": 270.0
+	},
+	{
+		"ID": 190,
+		"stage_BattleStage": 710553008,
+		"formation_x": 11,
+		"formation_y": 2,
+		"player_order": 0,
+		"initial_direction": 270.0
+	},
+	{
+		"ID": 191,
+		"stage_BattleStage": 710553008,
+		"formation_x": 12,
+		"formation_y": 2,
+		"player_order": 0,
+		"initial_direction": 270.0
+	},
+	{
+		"ID": 192,
+		"stage_BattleStage": 710553008,
+		"formation_x": 12,
+		"formation_y": 3,
+		"player_order": 0,
+		"initial_direction": 270.0
+	},
+	{
+		"ID": 193,
+		"stage_BattleStage": 710553008,
+		"formation_x": 13,
+		"formation_y": 3,
+		"player_order": 0,
+		"initial_direction": 270.0
+	},
+	{
+		"ID": 194,
+		"stage_BattleStage": 710553008,
+		"formation_x": 13,
+		"formation_y": 2,
+		"player_order": 0,
+		"initial_direction": 270.0
+	},
+	{
+		"ID": 195,
+		"stage_BattleStage": 710553008,
+		"formation_x": 14,
+		"formation_y": 2,
+		"player_order": 0,
+		"initial_direction": 270.0
+	},
+	{
+		"ID": 196,
+		"stage_BattleStage": 710553008,
+		"formation_x": 14,
+		"formation_y": 3,
+		"player_order": 0,
+		"initial_direction": 270.0
+	},
+	{
+		"ID": 197,
+		"stage_BattleStage": 710553008,
+		"formation_x": 15,
+		"formation_y": 3,
+		"player_order": 0,
+		"initial_direction": 270.0
+	},
+	{
+		"ID": 198,
+		"stage_BattleStage": 710553008,
+		"formation_x": 15,
+		"formation_y": 2,
+		"player_order": 0,
+		"initial_direction": 270.0
+	},
+	{
+		"ID": 199,
+		"stage_BattleStage": 710553008,
+		"formation_x": 14,
+		"formation_y": 8,
+		"player_order": 1,
+		"initial_direction": 270.0
+	},
+	{
+		"ID": 200,
+		"stage_BattleStage": 710553008,
+		"formation_x": 12,
+		"formation_y": 9,
+		"player_order": 1,
+		"initial_direction": 270.0
+	},
+	{
+		"ID": 201,
+		"stage_BattleStage": 710553008,
+		"formation_x": 10,
+		"formation_y": 7,
+		"player_order": 1,
+		"initial_direction": 270.0
+	},
+	{
+		"ID": 202,
+		"stage_BattleStage": 710553008,
+		"formation_x": 7,
+		"formation_y": 8,
+		"player_order": 1,
+		"initial_direction": 270.0
+	},
+	{
+		"ID": 203,
+		"stage_BattleStage": 710553008,
+		"formation_x": 4,
+		"formation_y": 8,
+		"player_order": 1,
+		"initial_direction": 270.0
+	},
+	{
+		"ID": 204,
+		"stage_BattleStage": 710553008,
+		"formation_x": 2,
+		"formation_y": 5,
+		"player_order": 1,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 205,
+		"stage_BattleStage": 710553008,
+		"formation_x": 12,
+		"formation_y": 7,
+		"player_order": 1,
+		"initial_direction": 270.0
+	},
+	{
+		"ID": 206,
+		"stage_BattleStage": 710553008,
+		"formation_x": 10,
+		"formation_y": 9,
+		"player_order": 1,
+		"initial_direction": 270.0
+	},
+	{
+		"ID": 207,
+		"stage_BattleStage": 710553008,
+		"formation_x": 8,
+		"formation_y": 8,
+		"player_order": 1,
+		"initial_direction": 270.0
+	},
+	{
+		"ID": 208,
+		"stage_BattleStage": 710553008,
+		"formation_x": 5,
+		"formation_y": 8,
+		"player_order": 1,
+		"initial_direction": 270.0
+	},
+	{
+		"ID": 209,
+		"stage_BattleStage": 710553008,
+		"formation_x": 2,
+		"formation_y": 6,
+		"player_order": 1,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 210,
+		"stage_BattleStage": 710553008,
+		"formation_x": 2,
+		"formation_y": 4,
+		"player_order": 1,
+		"initial_direction": 90.0
+	},
+	{
+		"ID": 211,
+		"stage_BattleStage": 710553008,
+		"formation_x": 3,
+		"formation_y": 3,
+		"player_order": 1,
+		"initial_direction": 90.0
+	},
+	{
+		"ID": 212,
+		"stage_BattleStage": 710553008,
+		"formation_x": 4,
+		"formation_y": 2,
+		"player_order": 1,
+		"initial_direction": 90.0
+	},
+	{
+		"ID": 213,
+		"stage_BattleStage": 710553009,
+		"formation_x": 4,
+		"formation_y": 13,
+		"player_order": 0,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 214,
+		"stage_BattleStage": 710553009,
+		"formation_x": 4,
+		"formation_y": 14,
+		"player_order": 0,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 215,
+		"stage_BattleStage": 710553009,
+		"formation_x": 5,
+		"formation_y": 14,
+		"player_order": 0,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 216,
+		"stage_BattleStage": 710553009,
+		"formation_x": 5,
+		"formation_y": 13,
+		"player_order": 0,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 217,
+		"stage_BattleStage": 710553009,
+		"formation_x": 6,
+		"formation_y": 13,
+		"player_order": 0,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 218,
+		"stage_BattleStage": 710553009,
+		"formation_x": 6,
+		"formation_y": 14,
+		"player_order": 0,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 219,
+		"stage_BattleStage": 710553009,
+		"formation_x": 7,
+		"formation_y": 14,
+		"player_order": 0,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 220,
+		"stage_BattleStage": 710553009,
+		"formation_x": 7,
+		"formation_y": 13,
+		"player_order": 0,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 221,
+		"stage_BattleStage": 710553009,
+		"formation_x": 8,
+		"formation_y": 13,
+		"player_order": 0,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 222,
+		"stage_BattleStage": 710553009,
+		"formation_x": 9,
+		"formation_y": 13,
+		"player_order": 0,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 223,
+		"stage_BattleStage": 710553009,
+		"formation_x": 9,
+		"formation_y": 14,
+		"player_order": 0,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 224,
+		"stage_BattleStage": 710553009,
+		"formation_x": 8,
+		"formation_y": 14,
+		"player_order": 0,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 225,
+		"stage_BattleStage": 710553009,
+		"formation_x": 8,
+		"formation_y": 15,
+		"player_order": 0,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 226,
+		"stage_BattleStage": 710553009,
+		"formation_x": 9,
+		"formation_y": 15,
+		"player_order": 0,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 227,
+		"stage_BattleStage": 710553009,
+		"formation_x": 13,
+		"formation_y": 1,
+		"player_order": 1,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 228,
+		"stage_BattleStage": 710553009,
+		"formation_x": 11,
+		"formation_y": 2,
+		"player_order": 1,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 229,
+		"stage_BattleStage": 710553009,
+		"formation_x": 10,
+		"formation_y": 4,
+		"player_order": 1,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 230,
+		"stage_BattleStage": 710553009,
+		"formation_x": 8,
+		"formation_y": 5,
+		"player_order": 1,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 231,
+		"stage_BattleStage": 710553009,
+		"formation_x": 8,
+		"formation_y": 7,
+		"player_order": 1,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 232,
+		"stage_BattleStage": 710553009,
+		"formation_x": 6,
+		"formation_y": 8,
+		"player_order": 1,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 233,
+		"stage_BattleStage": 710553009,
+		"formation_x": 4,
+		"formation_y": 4,
+		"player_order": 1,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 234,
+		"stage_BattleStage": 710553009,
+		"formation_x": 2,
+		"formation_y": 2,
+		"player_order": 1,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 235,
+		"stage_BattleStage": 710553009,
+		"formation_x": 13,
+		"formation_y": 12,
+		"player_order": 1,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 236,
+		"stage_BattleStage": 710553009,
+		"formation_x": 11,
+		"formation_y": 10,
+		"player_order": 1,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 237,
+		"stage_BattleStage": 710553009,
+		"formation_x": 4,
+		"formation_y": 9,
+		"player_order": 1,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 238,
+		"stage_BattleStage": 710553009,
+		"formation_x": 3,
+		"formation_y": 7,
+		"player_order": 1,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 239,
+		"stage_BattleStage": 710553009,
+		"formation_x": 1,
+		"formation_y": 7,
+		"player_order": 1,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 240,
+		"stage_BattleStage": 710553009,
+		"formation_x": 2,
+		"formation_y": 9,
+		"player_order": 1,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 241,
+		"stage_BattleStage": 710553010,
+		"formation_x": 1,
+		"formation_y": 9,
+		"player_order": 0,
+		"initial_direction": 90.0
+	},
+	{
+		"ID": 242,
+		"stage_BattleStage": 710553010,
+		"formation_x": 1,
+		"formation_y": 10,
+		"player_order": 0,
+		"initial_direction": 90.0
+	},
+	{
+		"ID": 243,
+		"stage_BattleStage": 710553010,
+		"formation_x": 1,
+		"formation_y": 11,
+		"player_order": 0,
+		"initial_direction": 90.0
+	},
+	{
+		"ID": 244,
+		"stage_BattleStage": 710553010,
+		"formation_x": 2,
+		"formation_y": 11,
+		"player_order": 0,
+		"initial_direction": 90.0
+	},
+	{
+		"ID": 245,
+		"stage_BattleStage": 710553010,
+		"formation_x": 2,
+		"formation_y": 10,
+		"player_order": 0,
+		"initial_direction": 90.0
+	},
+	{
+		"ID": 246,
+		"stage_BattleStage": 710553010,
+		"formation_x": 2,
+		"formation_y": 9,
+		"player_order": 0,
+		"initial_direction": 90.0
+	},
+	{
+		"ID": 247,
+		"stage_BattleStage": 710553010,
+		"formation_x": 3,
+		"formation_y": 9,
+		"player_order": 0,
+		"initial_direction": 90.0
+	},
+	{
+		"ID": 248,
+		"stage_BattleStage": 710553010,
+		"formation_x": 3,
+		"formation_y": 10,
+		"player_order": 0,
+		"initial_direction": 90.0
+	},
+	{
+		"ID": 249,
+		"stage_BattleStage": 710553010,
+		"formation_x": 3,
+		"formation_y": 11,
+		"player_order": 0,
+		"initial_direction": 90.0
+	},
+	{
+		"ID": 250,
+		"stage_BattleStage": 710553010,
+		"formation_x": 4,
+		"formation_y": 11,
+		"player_order": 0,
+		"initial_direction": 90.0
+	},
+	{
+		"ID": 251,
+		"stage_BattleStage": 710553010,
+		"formation_x": 4,
+		"formation_y": 10,
+		"player_order": 0,
+		"initial_direction": 90.0
+	},
+	{
+		"ID": 252,
+		"stage_BattleStage": 710553010,
+		"formation_x": 5,
+		"formation_y": 10,
+		"player_order": 0,
+		"initial_direction": 90.0
+	},
+	{
+		"ID": 253,
+		"stage_BattleStage": 710553010,
+		"formation_x": 5,
+		"formation_y": 11,
+		"player_order": 0,
+		"initial_direction": 90.0
+	},
+	{
+		"ID": 254,
+		"stage_BattleStage": 710553010,
+		"formation_x": 20,
+		"formation_y": 4,
+		"player_order": 1,
+		"initial_direction": 270.0
+	},
+	{
+		"ID": 255,
+		"stage_BattleStage": 710553010,
+		"formation_x": 20,
+		"formation_y": 5,
+		"player_order": 1,
+		"initial_direction": 270.0
+	},
+	{
+		"ID": 256,
+		"stage_BattleStage": 710553010,
+		"formation_x": 20,
+		"formation_y": 6,
+		"player_order": 1,
+		"initial_direction": 270.0
+	},
+	{
+		"ID": 257,
+		"stage_BattleStage": 710553010,
+		"formation_x": 20,
+		"formation_y": 7,
+		"player_order": 1,
+		"initial_direction": 270.0
+	},
+	{
+		"ID": 258,
+		"stage_BattleStage": 710553010,
+		"formation_x": 19,
+		"formation_y": 5,
+		"player_order": 1,
+		"initial_direction": 270.0
+	},
+	{
+		"ID": 259,
+		"stage_BattleStage": 710553010,
+		"formation_x": 19,
+		"formation_y": 6,
+		"player_order": 1,
+		"initial_direction": 270.0
+	},
+	{
+		"ID": 260,
+		"stage_BattleStage": 710553010,
+		"formation_x": 19,
+		"formation_y": 4,
+		"player_order": 1,
+		"initial_direction": 270.0
+	},
+	{
+		"ID": 261,
+		"stage_BattleStage": 710553010,
+		"formation_x": 19,
+		"formation_y": 7,
+		"player_order": 1,
+		"initial_direction": 270.0
+	},
+	{
+		"ID": 262,
+		"stage_BattleStage": 710553010,
+		"formation_x": 18,
+		"formation_y": 4,
+		"player_order": 1,
+		"initial_direction": 270.0
+	},
+	{
+		"ID": 263,
+		"stage_BattleStage": 710553010,
+		"formation_x": 18,
+		"formation_y": 5,
+		"player_order": 1,
+		"initial_direction": 270.0
+	},
+	{
+		"ID": 264,
+		"stage_BattleStage": 710553010,
+		"formation_x": 18,
+		"formation_y": 6,
+		"player_order": 1,
+		"initial_direction": 270.0
+	},
+	{
+		"ID": 265,
+		"stage_BattleStage": 710553010,
+		"formation_x": 18,
+		"formation_y": 7,
+		"player_order": 1,
+		"initial_direction": 270.0
+	},
+	{
+		"ID": 266,
+		"stage_BattleStage": 710553010,
+		"formation_x": 17,
+		"formation_y": 5,
+		"player_order": 1,
+		"initial_direction": 270.0
+	},
+	{
+		"ID": 267,
+		"stage_BattleStage": 710553010,
+		"formation_x": 17,
+		"formation_y": 6,
+		"player_order": 1,
+		"initial_direction": 270.0
+	},
+	{
+		"ID": 268,
+		"stage_BattleStage": 710553011,
+		"formation_x": 2,
+		"formation_y": 18,
+		"player_order": 0,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 269,
+		"stage_BattleStage": 710553011,
+		"formation_x": 1,
+		"formation_y": 18,
+		"player_order": 0,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 270,
+		"stage_BattleStage": 710553011,
+		"formation_x": 1,
+		"formation_y": 19,
+		"player_order": 0,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 271,
+		"stage_BattleStage": 710553011,
+		"formation_x": 2,
+		"formation_y": 19,
+		"player_order": 0,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 272,
+		"stage_BattleStage": 710553011,
+		"formation_x": 3,
+		"formation_y": 19,
+		"player_order": 0,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 273,
+		"stage_BattleStage": 710553011,
+		"formation_x": 4,
+		"formation_y": 19,
+		"player_order": 0,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 274,
+		"stage_BattleStage": 710553011,
+		"formation_x": 5,
+		"formation_y": 19,
+		"player_order": 0,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 275,
+		"stage_BattleStage": 710553011,
+		"formation_x": 6,
+		"formation_y": 19,
+		"player_order": 0,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 276,
+		"stage_BattleStage": 710553011,
+		"formation_x": 7,
+		"formation_y": 19,
+		"player_order": 0,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 277,
+		"stage_BattleStage": 710553011,
+		"formation_x": 8,
+		"formation_y": 19,
+		"player_order": 0,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 278,
+		"stage_BattleStage": 710553011,
+		"formation_x": 9,
+		"formation_y": 19,
+		"player_order": 0,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 279,
+		"stage_BattleStage": 710553011,
+		"formation_x": 10,
+		"formation_y": 19,
+		"player_order": 0,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 280,
+		"stage_BattleStage": 710553011,
+		"formation_x": 10,
+		"formation_y": 18,
+		"player_order": 0,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 281,
+		"stage_BattleStage": 710553011,
+		"formation_x": 9,
+		"formation_y": 18,
+		"player_order": 0,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 282,
+		"stage_BattleStage": 710553011,
+		"formation_x": 3,
+		"formation_y": 1,
+		"player_order": 1,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 283,
+		"stage_BattleStage": 710553011,
+		"formation_x": 8,
+		"formation_y": 1,
+		"player_order": 1,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 284,
+		"stage_BattleStage": 710553011,
+		"formation_x": 3,
+		"formation_y": 3,
+		"player_order": 1,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 285,
+		"stage_BattleStage": 710553011,
+		"formation_x": 8,
+		"formation_y": 3,
+		"player_order": 1,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 286,
+		"stage_BattleStage": 710553011,
+		"formation_x": 4,
+		"formation_y": 4,
+		"player_order": 1,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 287,
+		"stage_BattleStage": 710553011,
+		"formation_x": 7,
+		"formation_y": 4,
+		"player_order": 1,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 288,
+		"stage_BattleStage": 710553011,
+		"formation_x": 3,
+		"formation_y": 2,
+		"player_order": 1,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 289,
+		"stage_BattleStage": 710553011,
+		"formation_x": 8,
+		"formation_y": 2,
+		"player_order": 1,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 290,
+		"stage_BattleStage": 710553011,
+		"formation_x": 3,
+		"formation_y": 4,
+		"player_order": 1,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 291,
+		"stage_BattleStage": 710553011,
+		"formation_x": 8,
+		"formation_y": 4,
+		"player_order": 1,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 292,
+		"stage_BattleStage": 710553011,
+		"formation_x": 5,
+		"formation_y": 4,
+		"player_order": 1,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 293,
+		"stage_BattleStage": 710553011,
+		"formation_x": 6,
+		"formation_y": 4,
+		"player_order": 1,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 294,
+		"stage_BattleStage": 710553011,
+		"formation_x": 4,
+		"formation_y": 5,
+		"player_order": 1,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 295,
+		"stage_BattleStage": 710553011,
+		"formation_x": 7,
+		"formation_y": 5,
+		"player_order": 1,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 296,
+		"stage_BattleStage": 710553012,
+		"formation_x": 6,
+		"formation_y": 2,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 297,
+		"stage_BattleStage": 710553012,
+		"formation_x": 6,
+		"formation_y": 1,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 298,
+		"stage_BattleStage": 710553012,
+		"formation_x": 7,
+		"formation_y": 1,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 299,
+		"stage_BattleStage": 710553012,
+		"formation_x": 7,
+		"formation_y": 2,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 300,
+		"stage_BattleStage": 710553012,
+		"formation_x": 8,
+		"formation_y": 2,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 301,
+		"stage_BattleStage": 710553012,
+		"formation_x": 8,
+		"formation_y": 1,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 302,
+		"stage_BattleStage": 710553012,
+		"formation_x": 9,
+		"formation_y": 1,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 303,
+		"stage_BattleStage": 710553012,
+		"formation_x": 10,
+		"formation_y": 1,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 304,
+		"stage_BattleStage": 710553012,
+		"formation_x": 11,
+		"formation_y": 1,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 305,
+		"stage_BattleStage": 710553012,
+		"formation_x": 11,
+		"formation_y": 2,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 306,
+		"stage_BattleStage": 710553012,
+		"formation_x": 12,
+		"formation_y": 2,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 307,
+		"stage_BattleStage": 710553012,
+		"formation_x": 12,
+		"formation_y": 1,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 308,
+		"stage_BattleStage": 710553012,
+		"formation_x": 13,
+		"formation_y": 1,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 309,
+		"stage_BattleStage": 710553012,
+		"formation_x": 13,
+		"formation_y": 2,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 310,
+		"stage_BattleStage": 710553012,
+		"formation_x": 8,
+		"formation_y": 12,
+		"player_order": 1,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 311,
+		"stage_BattleStage": 710553012,
+		"formation_x": 8,
+		"formation_y": 13,
+		"player_order": 1,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 312,
+		"stage_BattleStage": 710553012,
+		"formation_x": 9,
+		"formation_y": 13,
+		"player_order": 1,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 313,
+		"stage_BattleStage": 710553012,
+		"formation_x": 10,
+		"formation_y": 13,
+		"player_order": 1,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 314,
+		"stage_BattleStage": 710553012,
+		"formation_x": 11,
+		"formation_y": 13,
+		"player_order": 1,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 315,
+		"stage_BattleStage": 710553012,
+		"formation_x": 11,
+		"formation_y": 12,
+		"player_order": 1,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 316,
+		"stage_BattleStage": 710553013,
+		"formation_x": 2,
+		"formation_y": 1,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 317,
+		"stage_BattleStage": 710553013,
+		"formation_x": 2,
+		"formation_y": 2,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 318,
+		"stage_BattleStage": 710553013,
+		"formation_x": 3,
+		"formation_y": 2,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 319,
+		"stage_BattleStage": 710553013,
+		"formation_x": 3,
+		"formation_y": 1,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 320,
+		"stage_BattleStage": 710553013,
+		"formation_x": 4,
+		"formation_y": 1,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 321,
+		"stage_BattleStage": 710553013,
+		"formation_x": 4,
+		"formation_y": 2,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 322,
+		"stage_BattleStage": 710553013,
+		"formation_x": 5,
+		"formation_y": 2,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 323,
+		"stage_BattleStage": 710553013,
+		"formation_x": 5,
+		"formation_y": 1,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 324,
+		"stage_BattleStage": 710553013,
+		"formation_x": 6,
+		"formation_y": 1,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 325,
+		"stage_BattleStage": 710553013,
+		"formation_x": 6,
+		"formation_y": 2,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 326,
+		"stage_BattleStage": 710553013,
+		"formation_x": 7,
+		"formation_y": 2,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 327,
+		"stage_BattleStage": 710553013,
+		"formation_x": 7,
+		"formation_y": 1,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 328,
+		"stage_BattleStage": 710553013,
+		"formation_x": 8,
+		"formation_y": 1,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 329,
+		"stage_BattleStage": 710553013,
+		"formation_x": 9,
+		"formation_y": 1,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 330,
+		"stage_BattleStage": 710553013,
+		"formation_x": 3,
+		"formation_y": 15,
+		"player_order": 1,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 331,
+		"stage_BattleStage": 710553013,
+		"formation_x": 5,
+		"formation_y": 15,
+		"player_order": 1,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 332,
+		"stage_BattleStage": 710553013,
+		"formation_x": 3,
+		"formation_y": 13,
+		"player_order": 1,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 333,
+		"stage_BattleStage": 710553013,
+		"formation_x": 5,
+		"formation_y": 13,
+		"player_order": 1,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 334,
+		"stage_BattleStage": 710553013,
+		"formation_x": 8,
+		"formation_y": 13,
+		"player_order": 1,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 335,
+		"stage_BattleStage": 710553013,
+		"formation_x": 9,
+		"formation_y": 13,
+		"player_order": 1,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 336,
+		"stage_BattleStage": 710553014,
+		"formation_x": 20,
+		"formation_y": 3,
+		"player_order": 0,
+		"initial_direction": 270.0
+	},
+	{
+		"ID": 337,
+		"stage_BattleStage": 710553014,
+		"formation_x": 20,
+		"formation_y": 2,
+		"player_order": 0,
+		"initial_direction": 270.0
+	},
+	{
+		"ID": 338,
+		"stage_BattleStage": 710553014,
+		"formation_x": 20,
+		"formation_y": 1,
+		"player_order": 0,
+		"initial_direction": 270.0
+	},
+	{
+		"ID": 339,
+		"stage_BattleStage": 710553014,
+		"formation_x": 21,
+		"formation_y": 1,
+		"player_order": 0,
+		"initial_direction": 270.0
+	},
+	{
+		"ID": 340,
+		"stage_BattleStage": 710553014,
+		"formation_x": 21,
+		"formation_y": 2,
+		"player_order": 0,
+		"initial_direction": 270.0
+	},
+	{
+		"ID": 341,
+		"stage_BattleStage": 710553014,
+		"formation_x": 22,
+		"formation_y": 2,
+		"player_order": 0,
+		"initial_direction": 270.0
+	},
+	{
+		"ID": 342,
+		"stage_BattleStage": 710553014,
+		"formation_x": 22,
+		"formation_y": 3,
+		"player_order": 0,
+		"initial_direction": 270.0
+	},
+	{
+		"ID": 343,
+		"stage_BattleStage": 710553014,
+		"formation_x": 21,
+		"formation_y": 3,
+		"player_order": 0,
+		"initial_direction": 270.0
+	},
+	{
+		"ID": 344,
+		"stage_BattleStage": 710553014,
+		"formation_x": 21,
+		"formation_y": 4,
+		"player_order": 0,
+		"initial_direction": 270.0
+	},
+	{
+		"ID": 345,
+		"stage_BattleStage": 710553014,
+		"formation_x": 21,
+		"formation_y": 5,
+		"player_order": 0,
+		"initial_direction": 270.0
+	},
+	{
+		"ID": 346,
+		"stage_BattleStage": 710553014,
+		"formation_x": 21,
+		"formation_y": 6,
+		"player_order": 0,
+		"initial_direction": 270.0
+	},
+	{
+		"ID": 347,
+		"stage_BattleStage": 710553014,
+		"formation_x": 21,
+		"formation_y": 7,
+		"player_order": 0,
+		"initial_direction": 270.0
+	},
+	{
+		"ID": 348,
+		"stage_BattleStage": 710553014,
+		"formation_x": 20,
+		"formation_y": 7,
+		"player_order": 0,
+		"initial_direction": 270.0
+	},
+	{
+		"ID": 349,
+		"stage_BattleStage": 710553014,
+		"formation_x": 20,
+		"formation_y": 6,
+		"player_order": 0,
+		"initial_direction": 270.0
+	},
+	{
+		"ID": 350,
+		"stage_BattleStage": 710553014,
+		"formation_x": 1,
+		"formation_y": 10,
+		"player_order": 1,
+		"initial_direction": 90.0
+	},
+	{
+		"ID": 351,
+		"stage_BattleStage": 710553014,
+		"formation_x": 1,
+		"formation_y": 9,
+		"player_order": 1,
+		"initial_direction": 90.0
+	},
+	{
+		"ID": 352,
+		"stage_BattleStage": 710553014,
+		"formation_x": 1,
+		"formation_y": 8,
+		"player_order": 1,
+		"initial_direction": 90.0
+	},
+	{
+		"ID": 353,
+		"stage_BattleStage": 710553014,
+		"formation_x": 1,
+		"formation_y": 5,
+		"player_order": 1,
+		"initial_direction": 90.0
+	},
+	{
+		"ID": 354,
+		"stage_BattleStage": 710553014,
+		"formation_x": 1,
+		"formation_y": 4,
+		"player_order": 1,
+		"initial_direction": 90.0
+	},
+	{
+		"ID": 355,
+		"stage_BattleStage": 710553014,
+		"formation_x": 1,
+		"formation_y": 1,
+		"player_order": 1,
+		"initial_direction": 90.0
+	},
+	{
+		"ID": 356,
+		"stage_BattleStage": 710553015,
+		"formation_x": 8,
+		"formation_y": 5,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 357,
+		"stage_BattleStage": 710553015,
+		"formation_x": 7,
+		"formation_y": 5,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 358,
+		"stage_BattleStage": 710553015,
+		"formation_x": 6,
+		"formation_y": 5,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 359,
+		"stage_BattleStage": 710553015,
+		"formation_x": 5,
+		"formation_y": 5,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 360,
+		"stage_BattleStage": 710553015,
+		"formation_x": 5,
+		"formation_y": 4,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 361,
+		"stage_BattleStage": 710553015,
+		"formation_x": 6,
+		"formation_y": 4,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 362,
+		"stage_BattleStage": 710553015,
+		"formation_x": 7,
+		"formation_y": 4,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 363,
+		"stage_BattleStage": 710553015,
+		"formation_x": 7,
+		"formation_y": 3,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 364,
+		"stage_BattleStage": 710553015,
+		"formation_x": 6,
+		"formation_y": 3,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 365,
+		"stage_BattleStage": 710553015,
+		"formation_x": 5,
+		"formation_y": 3,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 366,
+		"stage_BattleStage": 710553015,
+		"formation_x": 5,
+		"formation_y": 2,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 367,
+		"stage_BattleStage": 710553015,
+		"formation_x": 6,
+		"formation_y": 2,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 368,
+		"stage_BattleStage": 710553015,
+		"formation_x": 7,
+		"formation_y": 2,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 369,
+		"stage_BattleStage": 710553015,
+		"formation_x": 8,
+		"formation_y": 2,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 370,
+		"stage_BattleStage": 710553015,
+		"formation_x": 8,
+		"formation_y": 19,
+		"player_order": 1,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 371,
+		"stage_BattleStage": 710553015,
+		"formation_x": 8,
+		"formation_y": 17,
+		"player_order": 1,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 372,
+		"stage_BattleStage": 710553015,
+		"formation_x": 2,
+		"formation_y": 17,
+		"player_order": 1,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 373,
+		"stage_BattleStage": 710553015,
+		"formation_x": 2,
+		"formation_y": 13,
+		"player_order": 1,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 374,
+		"stage_BattleStage": 710553015,
+		"formation_x": 5,
+		"formation_y": 13,
+		"player_order": 1,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 375,
+		"stage_BattleStage": 710553015,
+		"formation_x": 5,
+		"formation_y": 12,
+		"player_order": 1,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 376,
+		"stage_BattleStage": 710553016,
+		"formation_x": 1,
+		"formation_y": 15,
+		"player_order": 0,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 377,
+		"stage_BattleStage": 710553016,
+		"formation_x": 1,
+		"formation_y": 14,
+		"player_order": 0,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 378,
+		"stage_BattleStage": 710553016,
+		"formation_x": 2,
+		"formation_y": 14,
+		"player_order": 0,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 379,
+		"stage_BattleStage": 710553016,
+		"formation_x": 2,
+		"formation_y": 15,
+		"player_order": 0,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 380,
+		"stage_BattleStage": 710553016,
+		"formation_x": 3,
+		"formation_y": 15,
+		"player_order": 0,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 381,
+		"stage_BattleStage": 710553016,
+		"formation_x": 3,
+		"formation_y": 14,
+		"player_order": 0,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 382,
+		"stage_BattleStage": 710553016,
+		"formation_x": 4,
+		"formation_y": 14,
+		"player_order": 0,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 383,
+		"stage_BattleStage": 710553016,
+		"formation_x": 4,
+		"formation_y": 15,
+		"player_order": 0,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 384,
+		"stage_BattleStage": 710553016,
+		"formation_x": 5,
+		"formation_y": 15,
+		"player_order": 0,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 385,
+		"stage_BattleStage": 710553016,
+		"formation_x": 5,
+		"formation_y": 14,
+		"player_order": 0,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 386,
+		"stage_BattleStage": 710553016,
+		"formation_x": 6,
+		"formation_y": 14,
+		"player_order": 0,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 387,
+		"stage_BattleStage": 710553016,
+		"formation_x": 6,
+		"formation_y": 15,
+		"player_order": 0,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 388,
+		"stage_BattleStage": 710553016,
+		"formation_x": 7,
+		"formation_y": 15,
+		"player_order": 0,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 389,
+		"stage_BattleStage": 710553016,
+		"formation_x": 7,
+		"formation_y": 14,
+		"player_order": 0,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 390,
+		"stage_BattleStage": 710553016,
+		"formation_x": 12,
+		"formation_y": 2,
+		"player_order": 1,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 391,
+		"stage_BattleStage": 710553016,
+		"formation_x": 12,
+		"formation_y": 1,
+		"player_order": 1,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 392,
+		"stage_BattleStage": 710553016,
+		"formation_x": 9,
+		"formation_y": 2,
+		"player_order": 1,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 393,
+		"stage_BattleStage": 710553016,
+		"formation_x": 9,
+		"formation_y": 1,
+		"player_order": 1,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 394,
+		"stage_BattleStage": 710553016,
+		"formation_x": 8,
+		"formation_y": 2,
+		"player_order": 1,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 395,
+		"stage_BattleStage": 710553016,
+		"formation_x": 8,
+		"formation_y": 1,
+		"player_order": 1,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 396,
+		"stage_BattleStage": 710553017,
+		"formation_x": 6,
+		"formation_y": 3,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 397,
+		"stage_BattleStage": 710553017,
+		"formation_x": 6,
+		"formation_y": 2,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 398,
+		"stage_BattleStage": 710553017,
+		"formation_x": 7,
+		"formation_y": 2,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 399,
+		"stage_BattleStage": 710553017,
+		"formation_x": 8,
+		"formation_y": 2,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 400,
+		"stage_BattleStage": 710553017,
+		"formation_x": 8,
+		"formation_y": 3,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 401,
+		"stage_BattleStage": 710553017,
+		"formation_x": 9,
+		"formation_y": 3,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 402,
+		"stage_BattleStage": 710553017,
+		"formation_x": 9,
+		"formation_y": 2,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 403,
+		"stage_BattleStage": 710553017,
+		"formation_x": 10,
+		"formation_y": 2,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 404,
+		"stage_BattleStage": 710553017,
+		"formation_x": 10,
+		"formation_y": 3,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 405,
+		"stage_BattleStage": 710553017,
+		"formation_x": 11,
+		"formation_y": 3,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 406,
+		"stage_BattleStage": 710553017,
+		"formation_x": 11,
+		"formation_y": 2,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 407,
+		"stage_BattleStage": 710553017,
+		"formation_x": 12,
+		"formation_y": 2,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 408,
+		"stage_BattleStage": 710553017,
+		"formation_x": 13,
+		"formation_y": 2,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 409,
+		"stage_BattleStage": 710553017,
+		"formation_x": 13,
+		"formation_y": 3,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 410,
+		"stage_BattleStage": 710553017,
+		"formation_x": 2,
+		"formation_y": 15,
+		"player_order": 1,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 411,
+		"stage_BattleStage": 710553017,
+		"formation_x": 2,
+		"formation_y": 14,
+		"player_order": 1,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 412,
+		"stage_BattleStage": 710553017,
+		"formation_x": 5,
+		"formation_y": 14,
+		"player_order": 1,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 413,
+		"stage_BattleStage": 710553017,
+		"formation_x": 7,
+		"formation_y": 13,
+		"player_order": 1,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 414,
+		"stage_BattleStage": 710553017,
+		"formation_x": 2,
+		"formation_y": 12,
+		"player_order": 1,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 415,
+		"stage_BattleStage": 710553017,
+		"formation_x": 4,
+		"formation_y": 12,
+		"player_order": 1,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 416,
+		"stage_BattleStage": 710553018,
+		"formation_x": 20,
+		"formation_y": 3,
+		"player_order": 0,
+		"initial_direction": 270.0
+	},
+	{
+		"ID": 417,
+		"stage_BattleStage": 710553018,
+		"formation_x": 20,
+		"formation_y": 2,
+		"player_order": 0,
+		"initial_direction": 270.0
+	},
+	{
+		"ID": 418,
+		"stage_BattleStage": 710553018,
+		"formation_x": 21,
+		"formation_y": 2,
+		"player_order": 0,
+		"initial_direction": 270.0
+	},
+	{
+		"ID": 419,
+		"stage_BattleStage": 710553018,
+		"formation_x": 21,
+		"formation_y": 1,
+		"player_order": 0,
+		"initial_direction": 270.0
+	},
+	{
+		"ID": 420,
+		"stage_BattleStage": 710553018,
+		"formation_x": 22,
+		"formation_y": 1,
+		"player_order": 0,
+		"initial_direction": 270.0
+	},
+	{
+		"ID": 421,
+		"stage_BattleStage": 710553018,
+		"formation_x": 22,
+		"formation_y": 2,
+		"player_order": 0,
+		"initial_direction": 270.0
+	},
+	{
+		"ID": 422,
+		"stage_BattleStage": 710553018,
+		"formation_x": 22,
+		"formation_y": 3,
+		"player_order": 0,
+		"initial_direction": 270.0
+	},
+	{
+		"ID": 423,
+		"stage_BattleStage": 710553018,
+		"formation_x": 21,
+		"formation_y": 3,
+		"player_order": 0,
+		"initial_direction": 270.0
+	},
+	{
+		"ID": 424,
+		"stage_BattleStage": 710553018,
+		"formation_x": 21,
+		"formation_y": 4,
+		"player_order": 0,
+		"initial_direction": 270.0
+	},
+	{
+		"ID": 425,
+		"stage_BattleStage": 710553018,
+		"formation_x": 22,
+		"formation_y": 4,
+		"player_order": 0,
+		"initial_direction": 270.0
+	},
+	{
+		"ID": 426,
+		"stage_BattleStage": 710553018,
+		"formation_x": 22,
+		"formation_y": 5,
+		"player_order": 0,
+		"initial_direction": 270.0
+	},
+	{
+		"ID": 427,
+		"stage_BattleStage": 710553018,
+		"formation_x": 22,
+		"formation_y": 6,
+		"player_order": 0,
+		"initial_direction": 270.0
+	},
+	{
+		"ID": 428,
+		"stage_BattleStage": 710553018,
+		"formation_x": 22,
+		"formation_y": 7,
+		"player_order": 0,
+		"initial_direction": 270.0
+	},
+	{
+		"ID": 429,
+		"stage_BattleStage": 710553018,
+		"formation_x": 22,
+		"formation_y": 8,
+		"player_order": 0,
+		"initial_direction": 270.0
+	},
+	{
+		"ID": 430,
+		"stage_BattleStage": 710553018,
+		"formation_x": 22,
+		"formation_y": 9,
+		"player_order": 0,
+		"initial_direction": 270.0
+	},
+	{
+		"ID": 431,
+		"stage_BattleStage": 710553018,
+		"formation_x": 21,
+		"formation_y": 9,
+		"player_order": 0,
+		"initial_direction": 270.0
+	},
+	{
+		"ID": 432,
+		"stage_BattleStage": 710553018,
+		"formation_x": 21,
+		"formation_y": 8,
+		"player_order": 0,
+		"initial_direction": 270.0
+	},
+	{
+		"ID": 433,
+		"stage_BattleStage": 710553018,
+		"formation_x": 20,
+		"formation_y": 8,
+		"player_order": 0,
+		"initial_direction": 270.0
+	},
+	{
+		"ID": 434,
+		"stage_BattleStage": 710553018,
+		"formation_x": 20,
+		"formation_y": 7,
+		"player_order": 0,
+		"initial_direction": 270.0
+	},
+	{
+		"ID": 435,
+		"stage_BattleStage": 710553018,
+		"formation_x": 21,
+		"formation_y": 7,
+		"player_order": 0,
+		"initial_direction": 270.0
+	},
+	{
+		"ID": 436,
+		"stage_BattleStage": 710553018,
+		"formation_x": 21,
+		"formation_y": 6,
+		"player_order": 0,
+		"initial_direction": 270.0
+	},
+	{
+		"ID": 437,
+		"stage_BattleStage": 710553018,
+		"formation_x": 21,
+		"formation_y": 5,
+		"player_order": 0,
+		"initial_direction": 270.0
+	},
+	{
+		"ID": 438,
+		"stage_BattleStage": 710553018,
+		"formation_x": 1,
+		"formation_y": 1,
+		"player_order": 1,
+		"initial_direction": 90.0
+	},
+	{
+		"ID": 439,
+		"stage_BattleStage": 710553018,
+		"formation_x": 1,
+		"formation_y": 2,
+		"player_order": 1,
+		"initial_direction": 90.0
+	},
+	{
+		"ID": 440,
+		"stage_BattleStage": 710553018,
+		"formation_x": 1,
+		"formation_y": 3,
+		"player_order": 1,
+		"initial_direction": 90.0
+	},
+	{
+		"ID": 441,
+		"stage_BattleStage": 710553018,
+		"formation_x": 1,
+		"formation_y": 7,
+		"player_order": 1,
+		"initial_direction": 90.0
+	},
+	{
+		"ID": 442,
+		"stage_BattleStage": 710553018,
+		"formation_x": 1,
+		"formation_y": 8,
+		"player_order": 1,
+		"initial_direction": 90.0
+	},
+	{
+		"ID": 443,
+		"stage_BattleStage": 710553018,
+		"formation_x": 1,
+		"formation_y": 9,
+		"player_order": 1,
+		"initial_direction": 90.0
+	},
+	{
+		"ID": 444,
+		"stage_BattleStage": 710553019,
+		"formation_x": 5,
+		"formation_y": 2,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 445,
+		"stage_BattleStage": 710553019,
+		"formation_x": 6,
+		"formation_y": 2,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 446,
+		"stage_BattleStage": 710553019,
+		"formation_x": 7,
+		"formation_y": 2,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 447,
+		"stage_BattleStage": 710553019,
+		"formation_x": 8,
+		"formation_y": 2,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 448,
+		"stage_BattleStage": 710553019,
+		"formation_x": 9,
+		"formation_y": 2,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 449,
+		"stage_BattleStage": 710553019,
+		"formation_x": 10,
+		"formation_y": 2,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 450,
+		"stage_BattleStage": 710553019,
+		"formation_x": 10,
+		"formation_y": 1,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 451,
+		"stage_BattleStage": 710553019,
+		"formation_x": 9,
+		"formation_y": 1,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 452,
+		"stage_BattleStage": 710553019,
+		"formation_x": 8,
+		"formation_y": 1,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 453,
+		"stage_BattleStage": 710553019,
+		"formation_x": 7,
+		"formation_y": 1,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 454,
+		"stage_BattleStage": 710553019,
+		"formation_x": 6,
+		"formation_y": 1,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 455,
+		"stage_BattleStage": 710553019,
+		"formation_x": 5,
+		"formation_y": 1,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 456,
+		"stage_BattleStage": 710553019,
+		"formation_x": 10,
+		"formation_y": 18,
+		"player_order": 1,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 457,
+		"stage_BattleStage": 710553019,
+		"formation_x": 9,
+		"formation_y": 18,
+		"player_order": 1,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 458,
+		"stage_BattleStage": 710553019,
+		"formation_x": 8,
+		"formation_y": 18,
+		"player_order": 1,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 459,
+		"stage_BattleStage": 710553019,
+		"formation_x": 7,
+		"formation_y": 18,
+		"player_order": 1,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 460,
+		"stage_BattleStage": 710553019,
+		"formation_x": 6,
+		"formation_y": 18,
+		"player_order": 1,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 461,
+		"stage_BattleStage": 710553019,
+		"formation_x": 5,
+		"formation_y": 18,
+		"player_order": 1,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 462,
+		"stage_BattleStage": 710553020,
+		"formation_x": 4,
+		"formation_y": 1,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 463,
+		"stage_BattleStage": 710553020,
+		"formation_x": 5,
+		"formation_y": 1,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 464,
+		"stage_BattleStage": 710553020,
+		"formation_x": 6,
+		"formation_y": 1,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 465,
+		"stage_BattleStage": 710553020,
+		"formation_x": 7,
+		"formation_y": 1,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 466,
+		"stage_BattleStage": 710553020,
+		"formation_x": 8,
+		"formation_y": 1,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 467,
+		"stage_BattleStage": 710553020,
+		"formation_x": 9,
+		"formation_y": 1,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 468,
+		"stage_BattleStage": 710553020,
+		"formation_x": 9,
+		"formation_y": 2,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 469,
+		"stage_BattleStage": 710553020,
+		"formation_x": 8,
+		"formation_y": 2,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 470,
+		"stage_BattleStage": 710553020,
+		"formation_x": 7,
+		"formation_y": 2,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 471,
+		"stage_BattleStage": 710553020,
+		"formation_x": 6,
+		"formation_y": 2,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 472,
+		"stage_BattleStage": 710553020,
+		"formation_x": 5,
+		"formation_y": 2,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 473,
+		"stage_BattleStage": 710553020,
+		"formation_x": 4,
+		"formation_y": 2,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 474,
+		"stage_BattleStage": 710553020,
+		"formation_x": 9,
+		"formation_y": 19,
+		"player_order": 1,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 475,
+		"stage_BattleStage": 710553020,
+		"formation_x": 8,
+		"formation_y": 19,
+		"player_order": 1,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 476,
+		"stage_BattleStage": 710553020,
+		"formation_x": 7,
+		"formation_y": 19,
+		"player_order": 1,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 477,
+		"stage_BattleStage": 710553020,
+		"formation_x": 6,
+		"formation_y": 19,
+		"player_order": 1,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 478,
+		"stage_BattleStage": 710553020,
+		"formation_x": 5,
+		"formation_y": 19,
+		"player_order": 1,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 479,
+		"stage_BattleStage": 710553020,
+		"formation_x": 4,
+		"formation_y": 19,
+		"player_order": 1,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 480,
+		"stage_BattleStage": 710553021,
+		"formation_x": 1,
+		"formation_y": 2,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 481,
+		"stage_BattleStage": 710553021,
+		"formation_x": 2,
+		"formation_y": 2,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 482,
+		"stage_BattleStage": 710553021,
+		"formation_x": 3,
+		"formation_y": 2,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 483,
+		"stage_BattleStage": 710553021,
+		"formation_x": 4,
+		"formation_y": 2,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 484,
+		"stage_BattleStage": 710553021,
+		"formation_x": 5,
+		"formation_y": 2,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 485,
+		"stage_BattleStage": 710553021,
+		"formation_x": 6,
+		"formation_y": 2,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 486,
+		"stage_BattleStage": 710553021,
+		"formation_x": 7,
+		"formation_y": 2,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 487,
+		"stage_BattleStage": 710553021,
+		"formation_x": 8,
+		"formation_y": 2,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 488,
+		"stage_BattleStage": 710553021,
+		"formation_x": 1,
+		"formation_y": 3,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 489,
+		"stage_BattleStage": 710553021,
+		"formation_x": 2,
+		"formation_y": 3,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 490,
+		"stage_BattleStage": 710553021,
+		"formation_x": 3,
+		"formation_y": 3,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 491,
+		"stage_BattleStage": 710553021,
+		"formation_x": 4,
+		"formation_y": 3,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 492,
+		"stage_BattleStage": 710553021,
+		"formation_x": 5,
+		"formation_y": 3,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 493,
+		"stage_BattleStage": 710553021,
+		"formation_x": 6,
+		"formation_y": 3,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 494,
+		"stage_BattleStage": 710553021,
+		"formation_x": 7,
+		"formation_y": 3,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 495,
+		"stage_BattleStage": 710553021,
+		"formation_x": 8,
+		"formation_y": 3,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 496,
+		"stage_BattleStage": 710553021,
+		"formation_x": 1,
+		"formation_y": 19,
+		"player_order": 1,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 497,
+		"stage_BattleStage": 710553021,
+		"formation_x": 2,
+		"formation_y": 19,
+		"player_order": 1,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 498,
+		"stage_BattleStage": 710553021,
+		"formation_x": 3,
+		"formation_y": 19,
+		"player_order": 1,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 499,
+		"stage_BattleStage": 710553021,
+		"formation_x": 4,
+		"formation_y": 19,
+		"player_order": 1,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 500,
+		"stage_BattleStage": 710553021,
+		"formation_x": 5,
+		"formation_y": 19,
+		"player_order": 1,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 501,
+		"stage_BattleStage": 710553021,
+		"formation_x": 6,
+		"formation_y": 19,
+		"player_order": 1,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 502,
+		"stage_BattleStage": 710553022,
+		"formation_x": 1,
+		"formation_y": 1,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 503,
+		"stage_BattleStage": 710553022,
+		"formation_x": 2,
+		"formation_y": 1,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 504,
+		"stage_BattleStage": 710553022,
+		"formation_x": 3,
+		"formation_y": 1,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 505,
+		"stage_BattleStage": 710553022,
+		"formation_x": 4,
+		"formation_y": 1,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 506,
+		"stage_BattleStage": 710553022,
+		"formation_x": 5,
+		"formation_y": 1,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 507,
+		"stage_BattleStage": 710553022,
+		"formation_x": 6,
+		"formation_y": 1,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 508,
+		"stage_BattleStage": 710553022,
+		"formation_x": 7,
+		"formation_y": 1,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 509,
+		"stage_BattleStage": 710553022,
+		"formation_x": 8,
+		"formation_y": 1,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 510,
+		"stage_BattleStage": 710553022,
+		"formation_x": 9,
+		"formation_y": 1,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 511,
+		"stage_BattleStage": 710553022,
+		"formation_x": 10,
+		"formation_y": 1,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 512,
+		"stage_BattleStage": 710553022,
+		"formation_x": 11,
+		"formation_y": 1,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 513,
+		"stage_BattleStage": 710553022,
+		"formation_x": 12,
+		"formation_y": 1,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 514,
+		"stage_BattleStage": 710553022,
+		"formation_x": 9,
+		"formation_y": 20,
+		"player_order": 1,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 515,
+		"stage_BattleStage": 710553022,
+		"formation_x": 8,
+		"formation_y": 20,
+		"player_order": 1,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 516,
+		"stage_BattleStage": 710553022,
+		"formation_x": 7,
+		"formation_y": 20,
+		"player_order": 1,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 517,
+		"stage_BattleStage": 710553022,
+		"formation_x": 6,
+		"formation_y": 20,
+		"player_order": 1,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 518,
+		"stage_BattleStage": 710553022,
+		"formation_x": 5,
+		"formation_y": 20,
+		"player_order": 1,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 519,
+		"stage_BattleStage": 710553022,
+		"formation_x": 4,
+		"formation_y": 20,
+		"player_order": 1,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 520,
+		"stage_BattleStage": 710553023,
+		"formation_x": 7,
+		"formation_y": 2,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 521,
+		"stage_BattleStage": 710553023,
+		"formation_x": 8,
+		"formation_y": 2,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 522,
+		"stage_BattleStage": 710553023,
+		"formation_x": 9,
+		"formation_y": 2,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 523,
+		"stage_BattleStage": 710553023,
+		"formation_x": 10,
+		"formation_y": 2,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 524,
+		"stage_BattleStage": 710553023,
+		"formation_x": 11,
+		"formation_y": 2,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 525,
+		"stage_BattleStage": 710553023,
+		"formation_x": 12,
+		"formation_y": 2,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 526,
+		"stage_BattleStage": 710553023,
+		"formation_x": 13,
+		"formation_y": 2,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 527,
+		"stage_BattleStage": 710553023,
+		"formation_x": 13,
+		"formation_y": 1,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 528,
+		"stage_BattleStage": 710553023,
+		"formation_x": 12,
+		"formation_y": 1,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 529,
+		"stage_BattleStage": 710553023,
+		"formation_x": 11,
+		"formation_y": 1,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 530,
+		"stage_BattleStage": 710553023,
+		"formation_x": 10,
+		"formation_y": 1,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 531,
+		"stage_BattleStage": 710553023,
+		"formation_x": 9,
+		"formation_y": 1,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 532,
+		"stage_BattleStage": 710553023,
+		"formation_x": 8,
+		"formation_y": 1,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 533,
+		"stage_BattleStage": 710553023,
+		"formation_x": 7,
+		"formation_y": 1,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 534,
+		"stage_BattleStage": 710553023,
+		"formation_x": 1,
+		"formation_y": 12,
+		"player_order": 1,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 535,
+		"stage_BattleStage": 710553023,
+		"formation_x": 1,
+		"formation_y": 13,
+		"player_order": 1,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 536,
+		"stage_BattleStage": 710553023,
+		"formation_x": 1,
+		"formation_y": 14,
+		"player_order": 1,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 537,
+		"stage_BattleStage": 710553023,
+		"formation_x": 1,
+		"formation_y": 15,
+		"player_order": 1,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 538,
+		"stage_BattleStage": 710553023,
+		"formation_x": 2,
+		"formation_y": 15,
+		"player_order": 1,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 539,
+		"stage_BattleStage": 710553023,
+		"formation_x": 3,
+		"formation_y": 15,
+		"player_order": 1,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 540,
+		"stage_BattleStage": 710553024,
+		"formation_x": 4,
+		"formation_y": 2,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 541,
+		"stage_BattleStage": 710553024,
+		"formation_x": 5,
+		"formation_y": 2,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 542,
+		"stage_BattleStage": 710553024,
+		"formation_x": 5,
+		"formation_y": 1,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 543,
+		"stage_BattleStage": 710553024,
+		"formation_x": 6,
+		"formation_y": 1,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 544,
+		"stage_BattleStage": 710553024,
+		"formation_x": 6,
+		"formation_y": 2,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 545,
+		"stage_BattleStage": 710553024,
+		"formation_x": 7,
+		"formation_y": 2,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 546,
+		"stage_BattleStage": 710553024,
+		"formation_x": 7,
+		"formation_y": 1,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 547,
+		"stage_BattleStage": 710553024,
+		"formation_x": 8,
+		"formation_y": 1,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 548,
+		"stage_BattleStage": 710553024,
+		"formation_x": 8,
+		"formation_y": 2,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 549,
+		"stage_BattleStage": 710553024,
+		"formation_x": 9,
+		"formation_y": 2,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 550,
+		"stage_BattleStage": 710553024,
+		"formation_x": 9,
+		"formation_y": 1,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 551,
+		"stage_BattleStage": 710553024,
+		"formation_x": 10,
+		"formation_y": 1,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 552,
+		"stage_BattleStage": 710553024,
+		"formation_x": 10,
+		"formation_y": 2,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 553,
+		"stage_BattleStage": 710553024,
+		"formation_x": 11,
+		"formation_y": 2,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 554,
+		"stage_BattleStage": 710553024,
+		"formation_x": 7,
+		"formation_y": 15,
+		"player_order": 1,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 555,
+		"stage_BattleStage": 710553024,
+		"formation_x": 8,
+		"formation_y": 15,
+		"player_order": 1,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 556,
+		"stage_BattleStage": 710553024,
+		"formation_x": 6,
+		"formation_y": 14,
+		"player_order": 1,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 557,
+		"stage_BattleStage": 710553024,
+		"formation_x": 7,
+		"formation_y": 14,
+		"player_order": 1,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 558,
+		"stage_BattleStage": 710553024,
+		"formation_x": 8,
+		"formation_y": 14,
+		"player_order": 1,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 559,
+		"stage_BattleStage": 710553024,
+		"formation_x": 9,
+		"formation_y": 14,
+		"player_order": 1,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 560,
+		"stage_BattleStage": 710553025,
+		"formation_x": 3,
+		"formation_y": 2,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 561,
+		"stage_BattleStage": 710553025,
+		"formation_x": 4,
+		"formation_y": 2,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 562,
+		"stage_BattleStage": 710553025,
+		"formation_x": 5,
+		"formation_y": 2,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 563,
+		"stage_BattleStage": 710553025,
+		"formation_x": 6,
+		"formation_y": 2,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 564,
+		"stage_BattleStage": 710553025,
+		"formation_x": 7,
+		"formation_y": 2,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 565,
+		"stage_BattleStage": 710553025,
+		"formation_x": 8,
+		"formation_y": 2,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 566,
+		"stage_BattleStage": 710553025,
+		"formation_x": 9,
+		"formation_y": 2,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 567,
+		"stage_BattleStage": 710553025,
+		"formation_x": 9,
+		"formation_y": 1,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 568,
+		"stage_BattleStage": 710553025,
+		"formation_x": 8,
+		"formation_y": 1,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 569,
+		"stage_BattleStage": 710553025,
+		"formation_x": 7,
+		"formation_y": 1,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 570,
+		"stage_BattleStage": 710553025,
+		"formation_x": 6,
+		"formation_y": 1,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 571,
+		"stage_BattleStage": 710553025,
+		"formation_x": 5,
+		"formation_y": 1,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 572,
+		"stage_BattleStage": 710553025,
+		"formation_x": 4,
+		"formation_y": 1,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 573,
+		"stage_BattleStage": 710553025,
+		"formation_x": 3,
+		"formation_y": 1,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 574,
+		"stage_BattleStage": 710553025,
+		"formation_x": 1,
+		"formation_y": 20,
+		"player_order": 1,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 575,
+		"stage_BattleStage": 710553025,
+		"formation_x": 3,
+		"formation_y": 20,
+		"player_order": 1,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 576,
+		"stage_BattleStage": 710553025,
+		"formation_x": 5,
+		"formation_y": 20,
+		"player_order": 1,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 577,
+		"stage_BattleStage": 710553025,
+		"formation_x": 7,
+		"formation_y": 20,
+		"player_order": 1,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 578,
+		"stage_BattleStage": 710553025,
+		"formation_x": 9,
+		"formation_y": 20,
+		"player_order": 1,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 579,
+		"stage_BattleStage": 710553025,
+		"formation_x": 11,
+		"formation_y": 20,
+		"player_order": 1,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 580,
+		"stage_BattleStage": 710553026,
+		"formation_x": 22,
+		"formation_y": 8,
+		"player_order": 0,
+		"initial_direction": 270.0
+	},
+	{
+		"ID": 581,
+		"stage_BattleStage": 710553026,
+		"formation_x": 21,
+		"formation_y": 8,
+		"player_order": 0,
+		"initial_direction": 270.0
+	},
+	{
+		"ID": 582,
+		"stage_BattleStage": 710553026,
+		"formation_x": 21,
+		"formation_y": 7,
+		"player_order": 0,
+		"initial_direction": 270.0
+	},
+	{
+		"ID": 583,
+		"stage_BattleStage": 710553026,
+		"formation_x": 22,
+		"formation_y": 7,
+		"player_order": 0,
+		"initial_direction": 270.0
+	},
+	{
+		"ID": 584,
+		"stage_BattleStage": 710553026,
+		"formation_x": 22,
+		"formation_y": 6,
+		"player_order": 0,
+		"initial_direction": 270.0
+	},
+	{
+		"ID": 585,
+		"stage_BattleStage": 710553026,
+		"formation_x": 21,
+		"formation_y": 6,
+		"player_order": 0,
+		"initial_direction": 270.0
+	},
+	{
+		"ID": 586,
+		"stage_BattleStage": 710553026,
+		"formation_x": 21,
+		"formation_y": 5,
+		"player_order": 0,
+		"initial_direction": 270.0
+	},
+	{
+		"ID": 587,
+		"stage_BattleStage": 710553026,
+		"formation_x": 22,
+		"formation_y": 5,
+		"player_order": 0,
+		"initial_direction": 270.0
+	},
+	{
+		"ID": 588,
+		"stage_BattleStage": 710553026,
+		"formation_x": 22,
+		"formation_y": 4,
+		"player_order": 0,
+		"initial_direction": 270.0
+	},
+	{
+		"ID": 589,
+		"stage_BattleStage": 710553026,
+		"formation_x": 22,
+		"formation_y": 3,
+		"player_order": 0,
+		"initial_direction": 270.0
+	},
+	{
+		"ID": 590,
+		"stage_BattleStage": 710553026,
+		"formation_x": 21,
+		"formation_y": 3,
+		"player_order": 0,
+		"initial_direction": 270.0
+	},
+	{
+		"ID": 591,
+		"stage_BattleStage": 710553026,
+		"formation_x": 21,
+		"formation_y": 2,
+		"player_order": 0,
+		"initial_direction": 270.0
+	},
+	{
+		"ID": 592,
+		"stage_BattleStage": 710553026,
+		"formation_x": 22,
+		"formation_y": 2,
+		"player_order": 0,
+		"initial_direction": 270.0
+	},
+	{
+		"ID": 593,
+		"stage_BattleStage": 710553026,
+		"formation_x": 22,
+		"formation_y": 1,
+		"player_order": 0,
+		"initial_direction": 270.0
+	},
+	{
+		"ID": 594,
+		"stage_BattleStage": 710553026,
+		"formation_x": 1,
+		"formation_y": 10,
+		"player_order": 1,
+		"initial_direction": 90.0
+	},
+	{
+		"ID": 595,
+		"stage_BattleStage": 710553026,
+		"formation_x": 1,
+		"formation_y": 9,
+		"player_order": 1,
+		"initial_direction": 90.0
+	},
+	{
+		"ID": 596,
+		"stage_BattleStage": 710553026,
+		"formation_x": 1,
+		"formation_y": 7,
+		"player_order": 1,
+		"initial_direction": 90.0
+	},
+	{
+		"ID": 597,
+		"stage_BattleStage": 710553026,
+		"formation_x": 1,
+		"formation_y": 5,
+		"player_order": 1,
+		"initial_direction": 90.0
+	},
+	{
+		"ID": 598,
+		"stage_BattleStage": 710553026,
+		"formation_x": 1,
+		"formation_y": 2,
+		"player_order": 1,
+		"initial_direction": 90.0
+	},
+	{
+		"ID": 599,
+		"stage_BattleStage": 710553026,
+		"formation_x": 1,
+		"formation_y": 1,
+		"player_order": 1,
+		"initial_direction": 90.0
+	},
+	{
+		"ID": 600,
+		"stage_BattleStage": 710553027,
+		"formation_x": 1,
+		"formation_y": 9,
+		"player_order": 0,
+		"initial_direction": 90.0
+	},
+	{
+		"ID": 601,
+		"stage_BattleStage": 710553027,
+		"formation_x": 1,
+		"formation_y": 8,
+		"player_order": 0,
+		"initial_direction": 90.0
+	},
+	{
+		"ID": 602,
+		"stage_BattleStage": 710553027,
+		"formation_x": 1,
+		"formation_y": 7,
+		"player_order": 0,
+		"initial_direction": 90.0
+	},
+	{
+		"ID": 603,
+		"stage_BattleStage": 710553027,
+		"formation_x": 1,
+		"formation_y": 6,
+		"player_order": 0,
+		"initial_direction": 90.0
+	},
+	{
+		"ID": 604,
+		"stage_BattleStage": 710553027,
+		"formation_x": 1,
+		"formation_y": 5,
+		"player_order": 0,
+		"initial_direction": 90.0
+	},
+	{
+		"ID": 605,
+		"stage_BattleStage": 710553027,
+		"formation_x": 1,
+		"formation_y": 4,
+		"player_order": 0,
+		"initial_direction": 90.0
+	},
+	{
+		"ID": 606,
+		"stage_BattleStage": 710553027,
+		"formation_x": 1,
+		"formation_y": 3,
+		"player_order": 0,
+		"initial_direction": 90.0
+	},
+	{
+		"ID": 607,
+		"stage_BattleStage": 710553027,
+		"formation_x": 2,
+		"formation_y": 3,
+		"player_order": 0,
+		"initial_direction": 90.0
+	},
+	{
+		"ID": 608,
+		"stage_BattleStage": 710553027,
+		"formation_x": 2,
+		"formation_y": 4,
+		"player_order": 0,
+		"initial_direction": 90.0
+	},
+	{
+		"ID": 609,
+		"stage_BattleStage": 710553027,
+		"formation_x": 2,
+		"formation_y": 5,
+		"player_order": 0,
+		"initial_direction": 90.0
+	},
+	{
+		"ID": 610,
+		"stage_BattleStage": 710553027,
+		"formation_x": 2,
+		"formation_y": 6,
+		"player_order": 0,
+		"initial_direction": 90.0
+	},
+	{
+		"ID": 611,
+		"stage_BattleStage": 710553027,
+		"formation_x": 2,
+		"formation_y": 7,
+		"player_order": 0,
+		"initial_direction": 90.0
+	},
+	{
+		"ID": 612,
+		"stage_BattleStage": 710553027,
+		"formation_x": 2,
+		"formation_y": 8,
+		"player_order": 0,
+		"initial_direction": 90.0
+	},
+	{
+		"ID": 613,
+		"stage_BattleStage": 710553027,
+		"formation_x": 2,
+		"formation_y": 9,
+		"player_order": 0,
+		"initial_direction": 90.0
+	},
+	{
+		"ID": 614,
+		"stage_BattleStage": 710553027,
+		"formation_x": 20,
+		"formation_y": 11,
+		"player_order": 1,
+		"initial_direction": 270.0
+	},
+	{
+		"ID": 615,
+		"stage_BattleStage": 710553027,
+		"formation_x": 20,
+		"formation_y": 9,
+		"player_order": 1,
+		"initial_direction": 270.0
+	},
+	{
+		"ID": 616,
+		"stage_BattleStage": 710553027,
+		"formation_x": 20,
+		"formation_y": 7,
+		"player_order": 1,
+		"initial_direction": 270.0
+	},
+	{
+		"ID": 617,
+		"stage_BattleStage": 710553027,
+		"formation_x": 20,
+		"formation_y": 5,
+		"player_order": 1,
+		"initial_direction": 270.0
+	},
+	{
+		"ID": 618,
+		"stage_BattleStage": 710553027,
+		"formation_x": 20,
+		"formation_y": 3,
+		"player_order": 1,
+		"initial_direction": 270.0
+	},
+	{
+		"ID": 619,
+		"stage_BattleStage": 710553027,
+		"formation_x": 20,
+		"formation_y": 1,
+		"player_order": 1,
+		"initial_direction": 270.0
+	},
+	{
+		"ID": 620,
+		"stage_BattleStage": 710553028,
+		"formation_x": 3,
+		"formation_y": 1,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 621,
+		"stage_BattleStage": 710553028,
+		"formation_x": 4,
+		"formation_y": 1,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 622,
+		"stage_BattleStage": 710553028,
+		"formation_x": 4,
+		"formation_y": 2,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 623,
+		"stage_BattleStage": 710553028,
+		"formation_x": 5,
+		"formation_y": 2,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 624,
+		"stage_BattleStage": 710553028,
+		"formation_x": 5,
+		"formation_y": 1,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 625,
+		"stage_BattleStage": 710553028,
+		"formation_x": 6,
+		"formation_y": 1,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 626,
+		"stage_BattleStage": 710553028,
+		"formation_x": 6,
+		"formation_y": 2,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 627,
+		"stage_BattleStage": 710553028,
+		"formation_x": 7,
+		"formation_y": 2,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 628,
+		"stage_BattleStage": 710553028,
+		"formation_x": 7,
+		"formation_y": 1,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 629,
+		"stage_BattleStage": 710553028,
+		"formation_x": 8,
+		"formation_y": 1,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 630,
+		"stage_BattleStage": 710553028,
+		"formation_x": 8,
+		"formation_y": 2,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 631,
+		"stage_BattleStage": 710553028,
+		"formation_x": 9,
+		"formation_y": 2,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 632,
+		"stage_BattleStage": 710553028,
+		"formation_x": 9,
+		"formation_y": 1,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 633,
+		"stage_BattleStage": 710553028,
+		"formation_x": 10,
+		"formation_y": 1,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 634,
+		"stage_BattleStage": 710553028,
+		"formation_x": 1,
+		"formation_y": 18,
+		"player_order": 1,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 635,
+		"stage_BattleStage": 710553028,
+		"formation_x": 3,
+		"formation_y": 18,
+		"player_order": 1,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 636,
+		"stage_BattleStage": 710553028,
+		"formation_x": 5,
+		"formation_y": 18,
+		"player_order": 1,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 637,
+		"stage_BattleStage": 710553028,
+		"formation_x": 8,
+		"formation_y": 18,
+		"player_order": 1,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 638,
+		"stage_BattleStage": 710553028,
+		"formation_x": 10,
+		"formation_y": 18,
+		"player_order": 1,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 639,
+		"stage_BattleStage": 710553028,
+		"formation_x": 12,
+		"formation_y": 18,
+		"player_order": 1,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 640,
+		"stage_BattleStage": 710553029,
+		"formation_x": 6,
+		"formation_y": 1,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 641,
+		"stage_BattleStage": 710553029,
+		"formation_x": 7,
+		"formation_y": 1,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 642,
+		"stage_BattleStage": 710553029,
+		"formation_x": 8,
+		"formation_y": 1,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 643,
+		"stage_BattleStage": 710553029,
+		"formation_x": 9,
+		"formation_y": 1,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 644,
+		"stage_BattleStage": 710553029,
+		"formation_x": 10,
+		"formation_y": 1,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 645,
+		"stage_BattleStage": 710553029,
+		"formation_x": 11,
+		"formation_y": 1,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 646,
+		"stage_BattleStage": 710553029,
+		"formation_x": 12,
+		"formation_y": 1,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 647,
+		"stage_BattleStage": 710553029,
+		"formation_x": 13,
+		"formation_y": 1,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 648,
+		"stage_BattleStage": 710553029,
+		"formation_x": 6,
+		"formation_y": 2,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 649,
+		"stage_BattleStage": 710553029,
+		"formation_x": 7,
+		"formation_y": 2,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 650,
+		"stage_BattleStage": 710553029,
+		"formation_x": 8,
+		"formation_y": 2,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 651,
+		"stage_BattleStage": 710553029,
+		"formation_x": 9,
+		"formation_y": 2,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 652,
+		"stage_BattleStage": 710553029,
+		"formation_x": 10,
+		"formation_y": 2,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 653,
+		"stage_BattleStage": 710553029,
+		"formation_x": 11,
+		"formation_y": 2,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 654,
+		"stage_BattleStage": 710553029,
+		"formation_x": 12,
+		"formation_y": 2,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 655,
+		"stage_BattleStage": 710553029,
+		"formation_x": 13,
+		"formation_y": 2,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 656,
+		"stage_BattleStage": 710553029,
+		"formation_x": 7,
+		"formation_y": 21,
+		"player_order": 1,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 657,
+		"stage_BattleStage": 710553029,
+		"formation_x": 8,
+		"formation_y": 21,
+		"player_order": 1,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 658,
+		"stage_BattleStage": 710553029,
+		"formation_x": 9,
+		"formation_y": 21,
+		"player_order": 1,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 659,
+		"stage_BattleStage": 710553029,
+		"formation_x": 10,
+		"formation_y": 21,
+		"player_order": 1,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 660,
+		"stage_BattleStage": 710553029,
+		"formation_x": 11,
+		"formation_y": 21,
+		"player_order": 1,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 661,
+		"stage_BattleStage": 710553029,
+		"formation_x": 12,
+		"formation_y": 21,
+		"player_order": 1,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 662,
+		"stage_BattleStage": 710553030,
+		"formation_x": 19,
+		"formation_y": 1,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 663,
+		"stage_BattleStage": 710553030,
+		"formation_x": 20,
+		"formation_y": 1,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 664,
+		"stage_BattleStage": 710553030,
+		"formation_x": 21,
+		"formation_y": 1,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 665,
+		"stage_BattleStage": 710553030,
+		"formation_x": 19,
+		"formation_y": 2,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 666,
+		"stage_BattleStage": 710553030,
+		"formation_x": 20,
+		"formation_y": 2,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 667,
+		"stage_BattleStage": 710553030,
+		"formation_x": 21,
+		"formation_y": 2,
+		"player_order": 0,
+		"initial_direction": 0.0
+	},
+	{
+		"ID": 668,
+		"stage_BattleStage": 710553030,
+		"formation_x": 8,
+		"formation_y": 19,
+		"player_order": 1,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 669,
+		"stage_BattleStage": 710553030,
+		"formation_x": 9,
+		"formation_y": 19,
+		"player_order": 1,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 670,
+		"stage_BattleStage": 710553030,
+		"formation_x": 10,
+		"formation_y": 19,
+		"player_order": 1,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 671,
+		"stage_BattleStage": 710553030,
+		"formation_x": 11,
+		"formation_y": 19,
+		"player_order": 1,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 672,
+		"stage_BattleStage": 710553030,
+		"formation_x": 12,
+		"formation_y": 19,
+		"player_order": 1,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 673,
+		"stage_BattleStage": 710553030,
+		"formation_x": 13,
+		"formation_y": 19,
+		"player_order": 1,
+		"initial_direction": 180.0
+	},
+	{
+		"ID": 674,
+		"stage_BattleStage": 710553031,
+		"formation_x": 17,
+		"formation_y": 4,
+		"player_order": 0,
+		"initial_direction": 270.0
+	},
+	{
+		"ID": 675,
+		"stage_BattleStage": 710553031,
+		"formation_x": 17,
+		"formation_y": 5,
+		"player_order": 0,
+		"initial_direction": 270.0
+	},
+	{
+		"ID": 676,
+		"stage_BattleStage": 710553031,
+		"formation_x": 17,
+		"formation_y": 6,
+		"player_order": 0,
+		"initial_direction": 270.0
+	},
+	{
+		"ID": 677,
+		"stage_BattleStage": 710553031,
+		"formation_x": 18,
+		"formation_y": 4,
+		"player_order": 0,
+		"initial_direction": 270.0
+	},
+	{
+		"ID": 678,
+		"stage_BattleStage": 710553031,
+		"formation_x": 18,
+		"formation_y": 5,
+		"player_order": 0,
+		"initial_direction": 270.0
+	},
+	{
+		"ID": 679,
+		"stage_BattleStage": 710553031,
+		"formation_x": 18,
+		"formation_y": 6,
+		"player_order": 0,
+		"initial_direction": 270.0
+	},
+	{
+		"ID": 680,
+		"stage_BattleStage": 710553031,
+		"formation_x": 3,
+		"formation_y": 16,
+		"player_order": 1,
+		"initial_direction": 90.0
+	},
+	{
+		"ID": 681,
+		"stage_BattleStage": 710553031,
+		"formation_x": 3,
+		"formation_y": 17,
+		"player_order": 1,
+		"initial_direction": 90.0
+	},
+	{
+		"ID": 682,
+		"stage_BattleStage": 710553031,
+		"formation_x": 3,
+		"formation_y": 18,
+		"player_order": 1,
+		"initial_direction": 90.0
+	},
+	{
+		"ID": 683,
+		"stage_BattleStage": 710553031,
+		"formation_x": 4,
+		"formation_y": 16,
+		"player_order": 1,
+		"initial_direction": 90.0
+	},
+	{
+		"ID": 684,
+		"stage_BattleStage": 710553031,
+		"formation_x": 4,
+		"formation_y": 17,
+		"player_order": 1,
+		"initial_direction": 90.0
+	},
+	{
+		"ID": 685,
+		"stage_BattleStage": 710553031,
+		"formation_x": 4,
+		"formation_y": 18,
+		"player_order": 1,
+		"initial_direction": 90.0
+	}
+]

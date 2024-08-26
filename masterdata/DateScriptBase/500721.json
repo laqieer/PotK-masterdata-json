@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 500721,
+		"script": ";;まぁまぁ堅いことは抜きにして,中\n;;今日、そのしゃべり方禁止,大\n;;ところで混浴だけど大丈夫？,小\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_onsen\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 0 0\n@\nマスターは\nブリューナクを誘って\n水着着用の温泉にやってきた\n\n# voice 5007 \"buryunaku_0030\"\n# textflame 1 1\n@ブリューナク\n配下の慰労は将の務め…\nとはいえ、今日こうして\n選ばれたことを光栄に思う\n;;----------------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nブリューナクの力が\nお前に認められている証左\n…と理解している\n\n# select \"まぁまぁ堅いことは抜きにして\" \"select_label_01\" \"今日、そのしゃべり方禁止\" \"select_label_02\" \"ところで混浴だけど大丈夫？\" \"select_label_03\"\nブリューナクの力が\nお前に認められている証左\n…と理解している\n\n# label \"select_label_01\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_02\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_03\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# textflame 1 1\n# waitandnext 0.1\n\n# label \"select_label_end\"\n# waitandnext 2\n# fadeout \"black\" 1.2\n"
+	}
+]

@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 6004013,
+		"script": ";;【指定】bgm004\n# script \"lisp\"\n# background \"corridor_daytime\"\n# bgm \"bgm004\" 0\n# body 77\n# pos 77 3\n# mask 77 off\n# scale 77 0.8 0\n# textflame 1 1\n# textboxarrow 0 2\n# face 77 \"surprise\"\n# chara 100621\n@ナーゲルリング\nあれ…\nどうしてマスターが…？\n\n# textflame 0 0\n@マスター\nいや、ちょっとムキに\nなってるみたいだったから…\n\n# textflame 0 0\n@マスター\n冷静にならないと\n伝わるものもうまく\n伝わらない思うんだ\n\n# textflame 1 1\n# textboxarrow 0 2\n# face 77 \"angry\"\n# chara 100621\n@ナーゲルリング\n言われなくてもわかってます\n…でも、ご指摘感謝します\n\n# chara 100621\n@ナーゲルリング\n事情を知っていただきたいので\nあなたも来てくれますか？\n\n# textflame 0 0\n@マスター\nあれ…\nまだイライラしてる…？\n\n# textflame 0 0\n@\n黒い霧を払っても\nナーゲルリングの顔に\nスッキリとした様子は見られない\n\n# textflame 0 0\n@\nマスターはナーゲルリングの\nイライラの原因を\n結局聞き出せないまま\n\n# textflame 0 0\n@\n風紀委員室の前に\nたどり着いてしまっていた"
+	}
+]

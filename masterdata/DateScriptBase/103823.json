@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 103823,
+		"script": ";;A緊張してる中\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_onsen\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# face %(unit_a)s \"surprise\"\n# voice 210381 \"almace_0002\"\n# textflame 1 1\n@アルマス\nへ？なにを緊張してるの？\n温泉は傷を癒やす場所でしょ？\n\n@アルマス\nともにある戦友同士\n一緒に入るのは\n自然なことだと思うけど？\n\n@アルマス\nあれ…でも\nよく考えたら、ほぼ裸どうしで\n隣りあってるのって…\n\n# face %(unit_a)s \"angry\"\n# voice 210381 \"almace_0023\"\n@アルマス\n…ぁぁああっ！\nだ、だめ！今はこっち見ないで！\n\n@アルマス\n意識……するとっ\n急に、ドキドキ\nしてきちゃったから…！\n\n@アルマス\nばか、顔が赤いのは\n温泉が熱いからだし…っ！\n\n# face %(unit_a)s \"sad\"\n# voice 210381 \"almace_0028\"\n@アルマス\nとにかく、もう上がるわ\n\n# face %(unit_a)s \"usual\"\n@アルマス\nマスターは\nまだ入っててもいいから\n\n@アルマス\nそれじゃね\n\n;;モノローグ\n# textflame 0 0\n@\n顔を赤くしたアルマスが\n早足で行ってしまった\n\n;;モノローグ\n@\n取り残されたマスター\nこの後、一人でゆっくりと\n温泉に浸かるのだった\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

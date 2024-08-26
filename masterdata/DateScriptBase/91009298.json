@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 91009298,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# se \"SE_0733\"\n@バルムンク\n…あ\n\n# face %(unit_a)s \"sad\"\n@バルムンク\nえっと…\n\n# voice 1009 \"barumunku_0008\"\n@バルムンク\nハズレ…です\n\n# voice 1009 \"barumunku_0031\"\n@バルムンク\nあの…\n急にクイズなんか出しちゃって…\n…ごめんなさい\n\n@バルムンク\n…………\n\n# textflame 0 0\n@\n彼女は急に\nしょんぼりとしてしまった\n\n# textflame 1 1\n@バルムンク\nえっと…\n行きましょうか、マスター\n\n# textflame 0 0\n@\nあんなしょんぼりとした\n顔をさせちゃった…\nデート中のはずなのに…\n\n@\nちゃんと\nどんな質問も答えられるように\n復習しておかないとだな…\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 3170102,
+		"script": "# script \"lisp\"\n# background \"valley\"\n# bgm \"bgm003\" 0\n# body 300153\n# pos 300153 2\n# body 100261\n# pos 100261 4\n# serif 0\n# textboxarrow 0 1\n# voice 3001 \"ronginusu_0027\"\n# chara 300153\n# face 300153 \"happy\"\n@ロンギヌス\nふぅ…このあたりの異族は\n片付きましたね\n\n# serif 0\n# voice 3001 \"ronginusu_0002\"\n# chara 300153\n# face 300153 \"usual\"\n@ロンギヌス\nそろそろ、アルテミスさんの\nところに行きましょうか\n\n# serif 1\n# textboxarrow 1 3\n# voice 1002 \"revatein_0028\"\n# chara 100261\n# face 100261 \"worry2\"\n@レーヴァテイン\n…めんどくさい\n\n# serif 0\n# voice 3001 \"ronginusu_0001\"\n# chara 300153\n# face 300153 \"surprise\"\n@ロンギヌス\nそんなこと言わないでくださいよ〜\nさ、マスターも行きましょう\n\n# serif 1\n# voice 1002 \"revatein_0007\"\n# chara 100261\n# face 100261 \"worry2\"\n@レーヴァテイン\n…アルテミスだけでも\n倒してるかもしれないじゃない\n\n# serif 0\n# voice 3001 \"ronginusu_0029\"\n# chara 300153\n# face 300153 \"angry\"\n@ロンギヌス\nレーヴァテインさん、行きますよ！"
+	}
+]

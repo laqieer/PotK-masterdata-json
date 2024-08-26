@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 600824,
+		"script": "# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_drive\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# voice 6008 \"guridavoru_0011\"\n# face %(unit_a)s \"sad\"\n@グリダヴォル\nえ！？\n\n# face %(unit_a)s \"normal\"\n# textflame 1 1\n@グリダヴォル\nいや、全然！\n大丈夫だよ！！\n\n# textflame 1 1\n@グリダヴォル\n…………\n\n# textflame 0 0\n@\nなんだかあまり会話が\n弾まないまま終わってしまった…\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

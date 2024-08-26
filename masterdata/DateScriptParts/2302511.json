@@ -1,0 +1,26 @@
+[
+	{
+		"ID": 357,
+		"unitID": 2302511,
+		"scriptID": "kaerimichi",
+		"script": "もう少しだけ\nお付き合い頂けないですか？"
+	},
+	{
+		"ID": 358,
+		"unitID": 2302511,
+		"scriptID": "kaeru_ok",
+		"script": "@%(unitName:unit_a)s\n私ももっとマスターと\nご一緒したいと思っていました"
+	},
+	{
+		"ID": 359,
+		"unitID": 2302511,
+		"scriptID": "kaeru",
+		"script": "また…\nご一緒したいです…"
+	},
+	{
+		"ID": 360,
+		"unitID": 2302511,
+		"scriptID": "kaeru_ng",
+		"script": "@%(unitName:unit_a)s\nせっかくなのですが、\nこのあと予定があるので…"
+	}
+]

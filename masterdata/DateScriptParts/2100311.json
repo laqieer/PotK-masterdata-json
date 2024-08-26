@@ -1,0 +1,26 @@
+[
+	{
+		"ID": 231,
+		"unitID": 2100311,
+		"scriptID": "kaerimichi",
+		"script": "マスター♪\nわたくしをもう少しだけ\nエスコートしていただけませんか？"
+	},
+	{
+		"ID": 246,
+		"unitID": 2100311,
+		"scriptID": "kaeru",
+		"script": "まぁ、もうこんな時間ですの？\n淑女たるもの、長時間の外出は\n感心いたしませんわっ"
+	},
+	{
+		"ID": 261,
+		"unitID": 2100311,
+		"scriptID": "kaeru_ok",
+		"script": "@%(unitName:unit_a)s\nいいですわね♪\nそれはエスコートを\nよろしくお願いいたしますわ♪"
+	},
+	{
+		"ID": 276,
+		"unitID": 2100311,
+		"scriptID": "kaeru_ng",
+		"script": "@%(unitName:unit_a)s\n申し訳ないのですが\n今日はこの後用事がありまして…\nまた今度にいたしましょう♪"
+	}
+]

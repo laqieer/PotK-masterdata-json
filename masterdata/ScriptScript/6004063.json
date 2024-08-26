@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 6004063,
+		"script": ";;【指定】bgm004\n# script \"lisp\"\n# background \"classroom03_morning\"\n# bgm \"bgm004\" 0\n# body 77\n# pos 77 3\n# mask 77 off\n# scale 77 0.8 0\n# face 77 \"sad\"\n# textflame 0 0\n@マスター\n問題解決してよかったね！\n疲れてるみたいだけど…\n大丈夫？\n\n# textflame 1 1\n# textboxarrow 0 2\n# chara 100621\n# face 77 \"surprise\"\n# voice 1006 \"nageruring_0008\"\n@ナーゲルリング\nえ…？\nあ、ああ、はい…\n\n# chara 100621\n# face 77 \"sad\"\n@ナーゲルリング\nようやくこれでスッキリと\n準備ができます\n\n# textflame 0 0\n@\nそういうナーゲルリングの横顔は\nまだ陰って見えた"
+	}
+]

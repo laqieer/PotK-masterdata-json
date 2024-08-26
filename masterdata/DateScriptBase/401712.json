@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 401712,
+		"script": "# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_resort_day\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 4017 \"suiha_00022\"\n@スイハ\nえっ！\n（やった！\n私の気持ち、ちゃんと伝わった！）\n\n# face %(unit_a)s \"smile\"\n@スイハ\n…では、一緒に泳ぎましょう\n（飛び込みたいけど、周りの人に\n迷惑だからガマン、ガマン…）\n\n# textflame 0 0\n@\nスイハと一緒にプールに入る\n彼女はまるで魚のように\n美しい動きで泳いでいた\n\n# voice 4017 \"suiha_0001\"\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n@スイハ\nすみません、私一人で…\nよろしければマスターも一緒に\n\n# textflame 0 0\n@\nスイハと手を繋ぎ\n二人一緒になって泳いでいく…\n\n@\n泳ぎ疲れたところで\n一息つくことにする\n\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@スイハ\n…ふぅ\n（楽しい！楽しい！楽しい！\nマスターと一緒に泳げてよかった！）\n\n# textflame 0 0\n@\nキラキラと水が滴るスイハの横顔は\nとても楽しそうなものだった…\n\n# waitandnext 2\n# fadeout \"black\" 1.2"
+	}
+]

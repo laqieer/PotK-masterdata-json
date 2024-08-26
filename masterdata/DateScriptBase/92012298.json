@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 92012298,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# se \"SE_0733\"\n# face %(unit_a)s \"sad\"\n# voice 2012 \"srand_0028\"\n@スラーンド\nん～…\n不正解、だね…\n\n@スラーンド\nやっぱり\nいきなりの出題だったから\nダメだったのかな？\n\n# face %(unit_a)s \"usual\"\n@スラーンド\n…そうだ！\nじゃあ、こうしよ？\n\n@スラーンド\n同じような質問を\nまた後でするから\n\n@スラーンド\nその時には\nちゃんと答えてね？\n\n# voice 2012 \"srand_0036\"\n@スラーンド\nあたし、マスターの事\n信じてるから！\n\n# textflame 0 0\n@\nスラーンドはそう言って\n期待を込めた眼で\n見つめてくる\n\n@\nよし…\n今度はちゃんと正解して\nスラーンドの期待に応えよう…！\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

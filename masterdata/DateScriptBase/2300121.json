@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 2300121,
+		"script": ";;A,楽しかったらはしゃいでいいよ\n;;B,外の景色、すごいよね\n;;C,ごめん、風でよく聞こえなかった\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_drive\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 0 0\n@\nロンギヌスを誘って\n夜のドライブに出かけた\nマスター\n\n@\n涼しい風に吹かれながら\n景色がどんどんと\n背後に流れていく\n\n# textflame 1 1\n# voice 230012 \"ronginusu_k_0039\"\n@ロンギヌス\nすごいスピードですね\n何もかも流れていってしまいそうです\n\n@ロンギヌス\n…私、実はドライブは\n初めてなんです\n\n# select \"楽しかったらはしゃいでいいよ\" \"select_label_01\" \"外の景色、すごいよね\" \"select_label_02\" \"ごめん、風でよく聞こえなかった\" \"select_label_03\"\n…私、実はドライブは\n初めてなんです\n\n# label \"select_label_01\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_02\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_03\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_end\"\n# waitandnext 0.1\n\n# fadeout \"black\" 1.2\n# waitandnext"
+	}
+]

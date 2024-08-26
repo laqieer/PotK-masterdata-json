@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 95016299,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# se \"SE_0732\"\n# voice 5016 \"Flabellum_0021\"\n;;flabellum_0021\n@フラベルム\nほぉ…！\n\n@フラベルム\nよく、この問題を\n正解できましたね…\n\n# voice 5016 \"Flabellum_0005\"\n@フラベルム\nまったく…あなたは普段は\n愚鈍なくせに、こういった時は\n外さないんですね\n\n# textflame 0 0\n@\nマスターなんだから、\nこのくらいはなんとか\nわかると答えた\n\n# textflame 1 1\n# voice 5016 \"Flabellum_0006\"\n# face %(unit_a)s \"usual\"\n@フラベルム\nマスターだからといって、\n普通はあんな細かなことまで\nわかりません\n\n# face %(unit_a)s \"sad\"\n@フラベルム\nもしや、あなた…\nそんなにわたくしのことが…\n\n# textflame 0 0\n@\nフラベルムに\n引いたような口調で言われ、\n困惑するマスター\n\n# voice 5016 \"Flabellum_0019\"\n# textflame 1 1\n# face %(unit_a)s \"angry\"\n@フラベルム\nはぁ…本当に、どうしてあなたは\n肝心なところで鈍いんです…\n\n# voice 5016 \"Flabellum_0004\"\n# face %(unit_a)s \"smile\"\n@フラベルム\nまぁ、いいのですけれど…\n\n# textflame 0 0\n@\n怒られるかと思ったが、\n意外と彼女の表情が明るいことに\n気づいて安心するマスター\n\n@\nなんとなくだが、\n彼女との絆が深まったように\n感じるマスターなのであった\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

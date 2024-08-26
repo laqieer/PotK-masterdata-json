@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 200813,
+		"script": "# script \"lisp\"\n# fadein \"black\" 0.5\n# background %(background)s\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n@ペルーン\nそっかぁ、興味があったり\n好きじゃないと\nなかなか覚えられないよね～\n\n# textflame 0 0\n@\n話についていけなくて\nマスターは申し訳ない気分になる\n\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n@ペルーン\n大丈夫だよ！\nじゃあね、別の話をしよう！\n\n# textflame 1 1\n@ペルーン\nあ、わかった！\n\n# textflame 1 1\n# voice 2008 \"perun_0005\"\n@ペルーン\nあの樹のしたで\nペルーンの大好きな…\nマスターの話しよ♪\n\n# textflame 0 0\n@\nペルーンは\nマスターの好きなところを\nいくつもいくつも聞かせてくれた――\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

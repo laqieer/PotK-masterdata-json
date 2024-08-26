@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 101122,
+		"script": "# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_onsen\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 1011 \"excalibur_0003\"\n@エクスカリバー\n私はマスターの御身を守るため\nそばに寄り添うのが務め…\n\n# face %(unit_a)s \"angry\"\n# textflame 1 1\n@エクスカリバー\n敵は油断している時こそ\n狙ってくるというものです\n\n# textflame 1 1\n@エクスカリバー\n例えばそう、\nこのような浴場などが\n最たるものです\n\n# textflame 1 1\n@エクスカリバー\nだからこそ、\n浴場も同じというのは\n当然の帰結ではないでしょうか？\n\n# textflame 0 0\n@\nまったく当然ではないと思う！\n\n# voice 1011 \"excalibur_kyara_1018\"\n# textflame 1 1\n@エクスカリバー\nそれにマスターも\nとぼけなくて良いのです\n\n# voice 1011 \"excalibur_0033\"\n# textflame 1 1\n@エクスカリバー\n温泉、と聞いた時点から\n私はこうなるものだと\n思っておりましたから！\n\n# textflame 0 0\n@\n潔すぎてこっちが\nビックリのマスターである\n\n# voice 1011 \"excalibur_0042\"\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@エクスカリバー\nところで…水着だから\nビーチとなんらかわりはないと\n思ったのですが…\n\n# textflame 1 1\n@エクスカリバー\n不思議なことに…\nほんの少し…\n\n# textflame 1 1\n@エクスカリバー\nいや…？\nだいぶ勝手が違うのは\nなぜでしょう…？\n\n# textflame 0 0\n@\n意識したとたん…\n急に恥ずかしくなったのか\nのぼせたように真っ赤な彼女だった\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 2000124,
+		"script": ";;B\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_shipboard\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# face %(unit_a)s \"shy\"\n# voice 5200011 \"aegis_c_0032\"\n@イージス\nおお、いいな！\nさっそくやってみよう！\n\n# voice 5200011 \"aegis_c_0028\"\n@イージス\nしかしダンスなんて初めてだ…\n周りを参考にしてみるか\n\n# face %(unit_a)s \"angry\"\n@イージス\n…えっ！？\nあ、あんなにぴったり\nくっつくのか？\n\n@イージス\nなんだあの足運びはっ！？\n華麗で軽やかだ…！\n\n@イージス\nよーし…私達も\n挑戦してみよう！\n\n# face %(unit_a)s \"normal\"\n@イージス\nよっ、とっ…\nワン、ツー、スリー…！\n\n# voice 5200011 \"aegis_c_0004\"\n@イージス\nおお…いいぞ？\nいいんじゃないかっ？\n\n# face %(unit_a)s \"shy\"\n# voice 5200011 \"aegis_c_0005\"\n@イージス\nフフッ、あははっ！\nどんどん楽しくなってきた！\n\n@イージス\nこれで私達も\n紳士淑女の仲間入りだ～！\n\n# voice 5200011 \"aegis_c_battle_0007\"\n@イージス\nもっと踊ろう隊長！\nあはははっ…あわわ～っ！？\n\n# face %(unit_a)s \"sad\"\n# voice 5200011 \"aegis_c_0031\"\n@イージス\nあ、足踏んじゃったっ！\n隊長ごめんなさい～っ！\n\n# textflame 0 0\n@\nあたふたしながらも\n初めてのダンスを楽しむ二人\n\n# textflame 0 0\n@\n甘さとは無縁だったが、\n二人にとっては\n大切な思い出となった\n;;-----------------------------------------\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

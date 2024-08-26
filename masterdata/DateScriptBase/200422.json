@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 200422,
+		"script": ";;C 大当たり\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_onsen\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# voice 2004 \"parashu_0003\"\n# face %(unit_a)s \"sad\"\n@パラシュ\nマスターも、なのかい？\n\n# voice 2004 \"parashu_0004\"\n# face %(unit_a)s \"smile\"\n@パラシュ\n変だな、ボク…\n少し嬉しい、かも知れない\n\n@パラシュ\nマスターが、その…\nボクと同じ気持ちだって思うと\n\n@パラシュ\nやっぱり、変、だね\nでも、なんだかすごく暖かい…\n\n# voice 2004 \"parashu_0001\"\n# face %(unit_a)s \"normal\"\n@パラシュ\n…ねえ、マスター\nもう少し、近くに…\n\n# textflame 0 0\n@\nまだ入って間もないにも関わらず\n真っ赤になったパラシュの側に\nマスターは近づくのだった――\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

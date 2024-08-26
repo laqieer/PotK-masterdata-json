@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 3190902,
+		"script": "# script \"lisp\"\n;;マミ準備\n# body 501411\n# pos 501411 1\n# face 501411 \"sad1\"\n;;ほむら準備\n# body 501311\n# pos 501311 3\n;;QB準備\n# body 8\n# pos 8 5\n;;QB台詞\n# textboxarrow 0 3\n# chara 8\n# voice 9942 \"fok_collabo1_0165_kyube\"\n@キュゥべえ\nほら、あそこに…\n\n;;魔女の結界が浸食していく演出\n# flush \"white\" 0.1 1\n# se \"SE_0621\"\n# fillrect \"blue\" 1.0 0 0.3\n# serif 1\n# textboxarrow 1 1\n# chara 501411\n# voice 9942 \"fok_collabo1_0166_mami\"\n@巴マミ\nこれは…\n\n# serif 1\n# textboxarrow 1 2\n# chara 501311\n# voice 9942 \"fok_collabo1_0167_homura\"\n# face 501311 \"angry\"\n@暁美ほむら\nお菓子の魔女！\n\n# fillrect \"blue\" 1.0 0.3 0\n# serif 0\n# textboxarrow 0 3\n# chara 8\n# voice 9942 \"fok_collabo1_0168_kyube\"\n@キュゥべえ\n厄介だね\n魔女がディメンションホールを\n守っている\n\n# serif 1\n# textboxarrow 1 1\n# chara 501411\n# voice 9942 \"fok_collabo1_0169_mami\"\n# face 501411 \"normal\"\n@巴マミ\nやるしかないわね\n\n# serif 0\n# textboxarrow 0 2\n# chara 501311\n# voice 9942 \"fok_collabo1_0170_homura\"\n# face 501311 \"amazed\"\n@暁美ほむら\nええ"
+	}
+]

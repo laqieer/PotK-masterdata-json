@@ -1,0 +1,302 @@
+[
+	{
+		"ID": 3051,
+		"unitID": 2300511,
+		"questionID": 9300501,
+		"script": ";;ドゥフタハ,1\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 3005 \"roon_0009\"\n@ルーン\nおい\n\n@ルーン\n今からクイズを出してやる\n\n@ルーン\nなにって…\nあたいに関するクイズだよ\n\n@ルーン\nいいか？\nもし答えられなかったら…\n\n# voice 3005 \"roon_0004\"\n# face %(unit_a)s \"angry\"\n@ルーン\nぶっ飛ばすぞ？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nあたいのキラーズ『ルーン』の\n持ち主はケルトハルと\n誰って言われてる？\n\n# se \"SE_0734\"\n# select  \"ドゥフタハ\" \"select_label_1\" \"マルタヤ\" \"select_label_2\" \"フェノール\" \"select_label_3\"\nあたいのキラーズ『ルーン』の\n持ち主はケルトハルと\n誰って言われてる？\n"
+	},
+	{
+		"ID": 3052,
+		"unitID": 2300511,
+		"questionID": 9300502,
+		"script": ";;ケルトハル,2\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 3005 \"roon_0009\"\n@ルーン\nおい\n\n@ルーン\n今からクイズを出してやる\n\n@ルーン\nなにって…\nあたいに関するクイズだよ\n\n@ルーン\nいいか？\nもし答えられなかったら…\n\n# voice 3005 \"roon_0004\"\n# face %(unit_a)s \"angry\"\n@ルーン\nぶっ飛ばすぞ？\n;;--------------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nあたいのキラーズ『ルーン』の\n持ち主はドゥフタハと\n誰って言われてる？\n\n# se \"SE_0734\"\n# select  \"マサタケマル\" \"select_label_1\" \"ケルトハル\" \"select_label_2\" \"キヨトハル\" \"select_label_3\"\nあたいのキラーズ『ルーン』の\n持ち主はドゥフタハと\n誰って言われてる？\n"
+	},
+	{
+		"ID": 3053,
+		"unitID": 2300511,
+		"questionID": 9300503,
+		"script": ";;決して外さない,3\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 3005 \"roon_0009\"\n@ルーン\nおい\n\n@ルーン\n今からクイズを出してやる\n\n@ルーン\nなにって…\nあたいに関するクイズだよ\n\n@ルーン\nいいか？\nもし答えられなかったら…\n\n# voice 3005 \"roon_0004\"\n# face %(unit_a)s \"angry\"\n@ルーン\nぶっ飛ばすぞ？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nあたいのキラーズ『ルーン』は\n魔法の力で…？\n\n# se \"SE_0734\"\n# select  \"空が飛べる\" \"select_label_1\" \"洗濯不要\" \"select_label_2\" \"決して外さない\" \"select_label_3\"\nあたいのキラーズ『ルーン』は\n魔法の力で…？\n"
+	},
+	{
+		"ID": 3054,
+		"unitID": 2300511,
+		"questionID": 9300504,
+		"script": ";;1人の命,1\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 3005 \"roon_0009\"\n@ルーン\nおい\n\n@ルーン\n今からクイズを出してやる\n\n@ルーン\nなにって…\nあたいに関するクイズだよ\n\n@ルーン\nいいか？\nもし答えられなかったら…\n\n# voice 3005 \"roon_0004\"\n# face %(unit_a)s \"angry\"\n@ルーン\nぶっ飛ばすぞ？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nあたいのキラーズ『ルーン』は\n一度振るえば何人の命を\n奪うと言われてる？\n\n# se \"SE_0734\"\n# select  \"1人の命\" \"select_label_1\" \"10人の命\" \"select_label_2\" \"100人の命\" \"select_label_3\"\nあたいのキラーズ『ルーン』は\n一度振るえば何人の命を\n奪うと言われてる？\n"
+	},
+	{
+		"ID": 3055,
+		"unitID": 2300511,
+		"questionID": 9300505,
+		"script": ";;9人,2\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 3005 \"roon_0009\"\n@ルーン\nおい\n\n@ルーン\n今からクイズを出してやる\n\n@ルーン\nなにって…\nあたいに関するクイズだよ\n\n@ルーン\nいいか？\nもし答えられなかったら…\n\n# voice 3005 \"roon_0004\"\n# face %(unit_a)s \"angry\"\n@ルーン\nぶっ飛ばすぞ？\n;;--------------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nあたいのキラーズ『ルーン』は\n投げて使えば一投で何人の命を\n奪うと言われてる？\n\n# se \"SE_0734\"\n# select  \"10人\" \"select_label_1\" \"9人\" \"select_label_2\" \"11人\" \"select_label_3\"\nあたいのキラーズ『ルーン』は\n投げて使えば一投で何人の命を\n奪うと言われてる？\n"
+	},
+	{
+		"ID": 3056,
+		"unitID": 2300511,
+		"questionID": 9300506,
+		"script": ";;ケルト神話,3\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 3005 \"roon_0009\"\n@ルーン\nおい\n\n@ルーン\n今からクイズを出してやる\n\n@ルーン\nなにって…\nあたいに関するクイズだよ\n\n@ルーン\nいいか？\nもし答えられなかったら…\n\n# voice 3005 \"roon_0004\"\n# face %(unit_a)s \"angry\"\n@ルーン\nぶっ飛ばすぞ？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nあたいのキラーズ『ルーン』は\nどんな伝承に登場する？\n\n# se \"SE_0734\"\n# select  \"フィンランド神話\" \"select_label_1\" \"北欧神話\" \"select_label_2\" \"ケルト神話\" \"select_label_3\"\nあたいのキラーズ『ルーン』は\nどんな伝承に登場する？\n"
+	},
+	{
+		"ID": 3057,
+		"unitID": 2300511,
+		"questionID": 9300507,
+		"script": ";;光明神ルー,1\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 3005 \"roon_0009\"\n@ルーン\nおい\n\n@ルーン\n今からクイズを出してやる\n\n@ルーン\nなにって…\nあたいに関するクイズだよ\n\n@ルーン\nいいか？\nもし答えられなかったら…\n\n# voice 3005 \"roon_0004\"\n# face %(unit_a)s \"angry\"\n@ルーン\nぶっ飛ばすぞ？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nあたいのキラーズ『ルーン』は\n元々、どんな神が戦場に\n置き去りにしたもの？\n\n# se \"SE_0734\"\n# select  \"光明神ルー\" \"select_label_1\" \"光明神ラー\" \"select_label_2\" \"光明神ロー\" \"select_label_3\"\nあたいのキラーズ『ルーン』は\n元々、どんな神が戦場に\n置き去りにしたもの？\n"
+	},
+	{
+		"ID": 3058,
+		"unitID": 2300511,
+		"questionID": 9300508,
+		"script": ";;血の煮液,2\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 3005 \"roon_0009\"\n@ルーン\nおい\n\n@ルーン\n今からクイズを出してやる\n\n@ルーン\nなにって…\nあたいに関するクイズだよ\n\n@ルーン\nいいか？\nもし答えられなかったら…\n\n# voice 3005 \"roon_0004\"\n# face %(unit_a)s \"angry\"\n@ルーン\nぶっ飛ばすぞ？\n;;--------------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n『ルーン』は戦いのない時は\n穂先をなにに漬けておかなければ\nならないと云われている？\n\n# se \"SE_0734\"\n# select  \"ぬか\" \"select_label_1\" \"血の煮液\" \"select_label_2\" \"冷水\" \"select_label_3\"\n『ルーン』は戦いのない時は\n穂先をなにに漬けておかなければ\nならないと云われている？\n"
+	},
+	{
+		"ID": 3059,
+		"unitID": 2300511,
+		"questionID": 9300509,
+		"script": ";;黒い犬の血,3\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 3005 \"roon_0009\"\n@ルーン\nおい\n\n@ルーン\n今からクイズを出してやる\n\n@ルーン\nなにって…\nあたいに関するクイズだよ\n\n@ルーン\nいいか？\nもし答えられなかったら…\n\n# voice 3005 \"roon_0004\"\n# face %(unit_a)s \"angry\"\n@ルーン\nぶっ飛ばすぞ？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nあたいのキラーズ『ルーン』の\n持ち主はなにが原因で\n命を落とした？\n\n# se \"SE_0734\"\n# select  \"茶色い犬のお手\" \"select_label_1\" \"白い犬の毛\" \"select_label_2\" \"黒い犬の血\" \"select_label_3\"\nあたいのキラーズ『ルーン』の\n持ち主はなにが原因で\n命を落とした？\n"
+	},
+	{
+		"ID": 3060,
+		"unitID": 2300511,
+		"questionID": 9300510,
+		"script": ";;柄が燃焼する,1\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 3005 \"roon_0009\"\n@ルーン\nおい\n\n@ルーン\n今からクイズを出してやる\n\n@ルーン\nなにって…\nあたいに関するクイズだよ\n\n@ルーン\nいいか？\nもし答えられなかったら…\n\n# voice 3005 \"roon_0004\"\n# face %(unit_a)s \"angry\"\n@ルーン\nぶっ飛ばすぞ？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n『ルーン』は戦いのない時\n穂先を血の煮液につけて\nおかないと…どうなる？\n\n# se \"SE_0734\"\n# select  \"柄が燃焼する\" \"select_label_1\" \"柄が長くなる\" \"select_label_2\" \"柄が腐る\" \"select_label_3\"\n『ルーン』は戦いのない時\n穂先を血の煮液につけて\nおかないと…どうなる？\n"
+	},
+	{
+		"ID": 3061,
+		"unitID": 2300511,
+		"questionID": 9300511,
+		"script": ";;炎,1\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# voice 3005 \"roon_0013\"\n@ルーン\n…ったく\n\n@ルーン\n暑っちぃなぁ～、\n夏ってやつは\n\n# face %(unit_a)s \"normal\"\n@ルーン\nなんか、こう…\nスカッとしたいもんだね\n\n@ルーン\nそうだ…\n\n@ルーン\n今からクイズを出してやるよ\n\n@ルーン\nスカッと答えて、\nあたいをスカッとさせろよ？\n\n# voice 3005 \"roon_0036\"\n@ルーン\nじゃあ、いくぞ\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nあたいの属性は\n知ってんだろ？\n\n# se \"SE_0734\"\n# select  \"炎\" \"select_label_1\" \"闇\" \"select_label_2\" \"雷\" \"select_label_3\"\nあたいの属性は\n知ってんだろ？\n"
+	},
+	{
+		"ID": 3062,
+		"unitID": 2300511,
+		"questionID": 9300512,
+		"script": ";;170cm,2\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# voice 3005 \"roon_0013\"\n@ルーン\n…ったく\n\n@ルーン\n暑っちぃなぁ～、\n夏ってやつは\n\n# face %(unit_a)s \"normal\"\n@ルーン\nなんか、こう…\nスカッとしたいもんだね\n\n@ルーン\nそうだ…\n\n@ルーン\n今からクイズを出してやるよ\n\n@ルーン\nスカッと答えて、\nあたいをスカッとさせろよ？\n\n# voice 3005 \"roon_0036\"\n@ルーン\nじゃあ、いくぞ\n;;--------------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nあたいの身長を言ってみな！\n\n# se \"SE_0734\"\n# select  \"160cm\" \"select_label_1\" \"170cm\" \"select_label_2\" \"172cm\" \"select_label_3\"\nあたいの身長を言ってみな！\n"
+	},
+	{
+		"ID": 3063,
+		"unitID": 2300511,
+		"questionID": 9300513,
+		"script": ";;3月9日,3\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# voice 3005 \"roon_0013\"\n@ルーン\n…ったく\n\n@ルーン\n暑っちぃなぁ～、\n夏ってやつは\n\n# face %(unit_a)s \"normal\"\n@ルーン\nなんか、こう…\nスカッとしたいもんだね\n\n@ルーン\nそうだ…\n\n@ルーン\n今からクイズを出してやるよ\n\n@ルーン\nスカッと答えて、\nあたいをスカッとさせろよ？\n\n# voice 3005 \"roon_0036\"\n@ルーン\nじゃあ、いくぞ\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nあたいの誕生日はいつ？\n間違ったら…わかってるよな？\n\n# se \"SE_0734\"\n# select  \"8月9日\" \"select_label_1\" \"11月9日\" \"select_label_2\" \"3月9日\" \"select_label_3\"\nあたいの誕生日はいつ？\n間違ったら…わかってるよな？\n"
+	},
+	{
+		"ID": 3064,
+		"unitID": 2300511,
+		"questionID": 9300514,
+		"script": ";;うお座,1\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# voice 3005 \"roon_0013\"\n@ルーン\n…ったく\n\n@ルーン\n暑っちぃなぁ～、\n夏ってやつは\n\n# face %(unit_a)s \"normal\"\n@ルーン\nなんか、こう…\nスカッとしたいもんだね\n\n@ルーン\nそうだ…\n\n@ルーン\n今からクイズを出してやるよ\n\n@ルーン\nスカッと答えて、\nあたいをスカッとさせろよ？\n\n# voice 3005 \"roon_0036\"\n@ルーン\nじゃあ、いくぞ\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nあたいの星座を言ってみな！\n\n# se \"SE_0734\"\n# select  \"うお座\" \"select_label_1\" \"てんびん座\" \"select_label_2\" \"おとめ座\" \"select_label_3\"\nあたいの星座を言ってみな！\n"
+	},
+	{
+		"ID": 3065,
+		"unitID": 2300511,
+		"questionID": 9300515,
+		"script": ";;血の匂い,2\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# voice 3005 \"roon_0013\"\n@ルーン\n…ったく\n\n@ルーン\n暑っちぃなぁ～、\n夏ってやつは\n\n# face %(unit_a)s \"normal\"\n@ルーン\nなんか、こう…\nスカッとしたいもんだね\n\n@ルーン\nそうだ…\n\n@ルーン\n今からクイズを出してやるよ\n\n@ルーン\nスカッと答えて、\nあたいをスカッとさせろよ？\n\n# voice 3005 \"roon_0036\"\n@ルーン\nじゃあ、いくぞ\n;;--------------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nあたいが好きなもの…\nほら、わかるだろ？\n\n# se \"SE_0734\"\n# select  \"加齢臭\" \"select_label_1\" \"血の匂い\" \"select_label_2\" \"生乾きの匂い\" \"select_label_3\"\nあたいが好きなもの…\nほら、わかるだろ？\n"
+	},
+	{
+		"ID": 3066,
+		"unitID": 2300511,
+		"questionID": 9300516,
+		"script": ";;ドS,3\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# voice 3005 \"roon_0013\"\n@ルーン\n…ったく\n\n@ルーン\n暑っちぃなぁ～、\n夏ってやつは\n\n# face %(unit_a)s \"normal\"\n@ルーン\nなんか、こう…\nスカッとしたいもんだね\n\n@ルーン\nそうだ…\n\n@ルーン\n今からクイズを出してやるよ\n\n@ルーン\nスカッと答えて、\nあたいをスカッとさせろよ？\n\n# voice 3005 \"roon_0036\"\n@ルーン\nじゃあ、いくぞ\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nあたいはよく\nこんな風に言われるのよ…\nわかんだろ？\n\n# se \"SE_0734\"\n# select  \"ドケチ\" \"select_label_1\" \"ドM\" \"select_label_2\" \"ドS\" \"select_label_3\"\nあたいはよく\nこんな風に言われるのよ…\nわかんだろ？\n"
+	},
+	{
+		"ID": 3067,
+		"unitID": 2300511,
+		"questionID": 9300517,
+		"script": ";;ＡＢ型,1\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# voice 3005 \"roon_0013\"\n@ルーン\n…ったく\n\n@ルーン\n暑っちぃなぁ～、\n夏ってやつは\n\n# face %(unit_a)s \"normal\"\n@ルーン\nなんか、こう…\nスカッとしたいもんだね\n\n@ルーン\nそうだ…\n\n@ルーン\n今からクイズを出してやるよ\n\n@ルーン\nスカッと答えて、\nあたいをスカッとさせろよ？\n\n# voice 3005 \"roon_0036\"\n@ルーン\nじゃあ、いくぞ\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nあたいの血液型を言ってみな！\n\n# se \"SE_0734\"\n# select  \"ＡＢ型\" \"select_label_1\" \"Ａ型\" \"select_label_2\" \"Ｂ型\" \"select_label_3\"\nあたいの血液型を言ってみな！\n"
+	},
+	{
+		"ID": 3068,
+		"unitID": 2300511,
+		"questionID": 9300518,
+		"script": ";;ティル・ナ・ノーグ,2\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# voice 3005 \"roon_0013\"\n@ルーン\n…ったく\n\n@ルーン\n暑っちぃなぁ～、\n夏ってやつは\n\n# face %(unit_a)s \"normal\"\n@ルーン\nなんか、こう…\nスカッとしたいもんだね\n\n@ルーン\nそうだ…\n\n@ルーン\n今からクイズを出してやるよ\n\n@ルーン\nスカッと答えて、\nあたいをスカッとさせろよ？\n\n# voice 3005 \"roon_0036\"\n@ルーン\nじゃあ、いくぞ\n;;--------------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nあたいの出身地を答えな！\n\n# se \"SE_0734\"\n# select  \"ナポリ\" \"select_label_1\" \"ティル・ナ・ノーグ\" \"select_label_2\" \"フィレンツェ\" \"select_label_3\"\nあたいの出身地を答えな！\n"
+	},
+	{
+		"ID": 3069,
+		"unitID": 2300511,
+		"questionID": 9300519,
+		"script": ";;罵詈雑言,3\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# voice 3005 \"roon_0013\"\n@ルーン\n…ったく\n\n@ルーン\n暑っちぃなぁ～、\n夏ってやつは\n\n# face %(unit_a)s \"normal\"\n@ルーン\nなんか、こう…\nスカッとしたいもんだね\n\n@ルーン\nそうだ…\n\n@ルーン\n今からクイズを出してやるよ\n\n@ルーン\nスカッと答えて、\nあたいをスカッとさせろよ？\n\n# voice 3005 \"roon_0036\"\n@ルーン\nじゃあ、いくぞ\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nあたいの趣味は？\nお前にも味わわせてやろうか？\n\n# se \"SE_0734\"\n# select  \"暴力\" \"select_label_1\" \"料理\" \"select_label_2\" \"罵詈雑言\" \"select_label_3\"\nあたいの趣味は？\nお前にも味わわせてやろうか？\n"
+	},
+	{
+		"ID": 3070,
+		"unitID": 2300511,
+		"questionID": 9300520,
+		"script": ";;血の匂い,1\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# voice 3005 \"roon_0013\"\n@ルーン\n…ったく\n\n@ルーン\n暑っちぃなぁ～、\n夏ってやつは\n\n# face %(unit_a)s \"normal\"\n@ルーン\nなんか、こう…\nスカッとしたいもんだね\n\n@ルーン\nそうだ…\n\n@ルーン\n今からクイズを出してやるよ\n\n@ルーン\nスカッと答えて、\nあたいをスカッとさせろよ？\n\n# voice 3005 \"roon_0036\"\n@ルーン\nじゃあ、いくぞ\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nあたいは戦場で\nこの匂いを嗅ぐと落ち着くんだ…\n\n# se \"SE_0734\"\n# select  \"血の匂い\" \"select_label_1\" \"脇の匂い\" \"select_label_2\" \"へその匂い\" \"select_label_3\"\nあたいは戦場で\nこの匂いを嗅ぐと落ち着くんだ…\n"
+	},
+	{
+		"ID": 3071,
+		"unitID": 2300511,
+		"questionID": 9300521,
+		"script": ";;毒舌,1\n# textflame 1 1\n# voice 3005 \"roon_0007\"\n@ルーン\nよし\n\n@ルーン\n今からクイズを出してやる\n\n@ルーン\nあたいに関するクイズ、\n『ルーンクイズ』だ\n\n@ルーン\n見事、正解できたら…\n\n# face %(unit_a)s \"smile\"\n@ルーン\nあたいのペットにしてやる\n\n@ルーン\n嬉しいだろ？\n\n# face %(unit_a)s \"angry\"\n@ルーン\nその代わり間違えたら…\nわかってるな？\n\n# voice 3005 \"roon_0036\"\n# face %(unit_a)s \"smile\"\n@ルーン\nじゃあ、いくぞ？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nあたいは口が悪くて\nよくこんな風に言われるね～\n\n# se \"SE_0734\"\n# select  \"毒舌\" \"select_label_1\" \"饒舌\" \"select_label_2\" \"二枚舌\" \"select_label_3\"\nあたいは口が悪くて\nよくこんな風に言われるね～\n"
+	},
+	{
+		"ID": 3072,
+		"unitID": 2300511,
+		"questionID": 9300522,
+		"script": ";;神竜騎神,2\n# textflame 1 1\n# voice 3005 \"roon_0007\"\n@ルーン\nよし\n\n@ルーン\n今からクイズを出してやる\n\n@ルーン\nあたいに関するクイズ、\n『ルーンクイズ』だ\n\n@ルーン\n見事、正解できたら…\n\n# face %(unit_a)s \"smile\"\n@ルーン\nあたいのペットにしてやる\n\n@ルーン\n嬉しいだろ？\n\n# face %(unit_a)s \"angry\"\n@ルーン\nその代わり間違えたら…\nわかってるな？\n\n# voice 3005 \"roon_0036\"\n# face %(unit_a)s \"smile\"\n@ルーン\nじゃあ、いくぞ？\n;;--------------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nあたいの☆６のジョブ名くらい\nわかんだろぉ！？\n\n# se \"SE_0734\"\n# select  \"龍騎士\" \"select_label_1\" \"神竜騎神\" \"select_label_2\" \"竜槍姫\" \"select_label_3\"\nあたいの☆６のジョブ名くらい\nわかんだろぉ！？\n"
+	},
+	{
+		"ID": 3073,
+		"unitID": 2300511,
+		"questionID": 9300523,
+		"script": ";;肉食系女子,3\n# textflame 1 1\n# voice 3005 \"roon_0007\"\n@ルーン\nよし\n\n@ルーン\n今からクイズを出してやる\n\n@ルーン\nあたいに関するクイズ、\n『ルーンクイズ』だ\n\n@ルーン\n見事、正解できたら…\n\n# face %(unit_a)s \"smile\"\n@ルーン\nあたいのペットにしてやる\n\n@ルーン\n嬉しいだろ？\n\n# face %(unit_a)s \"angry\"\n@ルーン\nその代わり間違えたら…\nわかってるな？\n\n# voice 3005 \"roon_0036\"\n# face %(unit_a)s \"smile\"\n@ルーン\nじゃあ、いくぞ？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nあたいはズバリ、こんな女子だね！\n\n# se \"SE_0734\"\n# select  \"雑食系女子\" \"select_label_1\" \"草食系女子\" \"select_label_2\" \"肉食系女子\" \"select_label_3\"\nあたいはズバリ、こんな女子だね！\n"
+	},
+	{
+		"ID": 3074,
+		"unitID": 2300511,
+		"questionID": 9300524,
+		"script": ";;神竜騎神の闘気,1\n# textflame 1 1\n# voice 3005 \"roon_0007\"\n@ルーン\nよし\n\n@ルーン\n今からクイズを出してやる\n\n@ルーン\nあたいに関するクイズ、\n『ルーンクイズ』だ\n\n@ルーン\n見事、正解できたら…\n\n# face %(unit_a)s \"smile\"\n@ルーン\nあたいのペットにしてやる\n\n@ルーン\n嬉しいだろ？\n\n# face %(unit_a)s \"angry\"\n@ルーン\nその代わり間違えたら…\nわかってるな？\n\n# voice 3005 \"roon_0036\"\n# face %(unit_a)s \"smile\"\n@ルーン\nじゃあ、いくぞ？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nあたいの\n☆６のリーダースキルくらい\nわかんだろぉ！？\n\n# se \"SE_0734\"\n# select  \"神竜騎神の闘気\" \"select_label_1\" \"神竜騎神の根気\" \"select_label_2\" \"神竜騎神の覇気\" \"select_label_3\"\nあたいの\n☆６のリーダースキルくらい\nわかんだろぉ！？\n"
+	},
+	{
+		"ID": 3075,
+		"unitID": 2300511,
+		"questionID": 9300525,
+		"script": ";;ロンゴミアント,2\n# textflame 1 1\n# voice 3005 \"roon_0007\"\n@ルーン\nよし\n\n@ルーン\n今からクイズを出してやる\n\n@ルーン\nあたいに関するクイズ、\n『ルーンクイズ』だ\n\n@ルーン\n見事、正解できたら…\n\n# face %(unit_a)s \"smile\"\n@ルーン\nあたいのペットにしてやる\n\n@ルーン\n嬉しいだろ？\n\n# face %(unit_a)s \"angry\"\n@ルーン\nその代わり間違えたら…\nわかってるな？\n\n# voice 3005 \"roon_0036\"\n# face %(unit_a)s \"smile\"\n@ルーン\nじゃあ、いくぞ？\n;;--------------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nあたいと仲がいいのはこの子だね！\n\n# se \"SE_0734\"\n# select  \"フォルカス\" \"select_label_1\" \"ロンゴミアント\" \"select_label_2\" \"アスカロン\" \"select_label_3\"\nあたいと仲がいいのはこの子だね！\n"
+	},
+	{
+		"ID": 3076,
+		"unitID": 2300511,
+		"questionID": 9300526,
+		"script": ";;キラーズの持ち主が同じ,3\n# textflame 1 1\n# voice 3005 \"roon_0007\"\n@ルーン\nよし\n\n@ルーン\n今からクイズを出してやる\n\n@ルーン\nあたいに関するクイズ、\n『ルーンクイズ』だ\n\n@ルーン\n見事、正解できたら…\n\n# face %(unit_a)s \"smile\"\n@ルーン\nあたいのペットにしてやる\n\n@ルーン\n嬉しいだろ？\n\n# face %(unit_a)s \"angry\"\n@ルーン\nその代わり間違えたら…\nわかってるな？\n\n# voice 3005 \"roon_0036\"\n# face %(unit_a)s \"smile\"\n@ルーン\nじゃあ、いくぞ？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nあたいとブリューナクは\n比較的仲がいいんだけど\nなんでだと思う？\n\n# se \"SE_0734\"\n# select  \"同じ中学\" \"select_label_1\" \"拳でわかりあった\" \"select_label_2\" \"キラーズの持ち主が同じ\" \"select_label_3\"\nあたいとブリューナクは\n比較的仲がいいんだけど\nなんでだと思う？\n"
+	},
+	{
+		"ID": 3077,
+		"unitID": 2300511,
+		"questionID": 9300527,
+		"script": ";;お調子者,1\n# textflame 1 1\n# voice 3005 \"roon_0007\"\n@ルーン\nよし\n\n@ルーン\n今からクイズを出してやる\n\n@ルーン\nあたいに関するクイズ、\n『ルーンクイズ』だ\n\n@ルーン\n見事、正解できたら…\n\n# face %(unit_a)s \"smile\"\n@ルーン\nあたいのペットにしてやる\n\n@ルーン\n嬉しいだろ？\n\n# face %(unit_a)s \"angry\"\n@ルーン\nその代わり間違えたら…\nわかってるな？\n\n# voice 3005 \"roon_0036\"\n# face %(unit_a)s \"smile\"\n@ルーン\nじゃあ、いくぞ？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nあたいが覚える\n付与スキルを答えてみな！\n\n# se \"SE_0734\"\n# select  \"お調子者\" \"select_label_1\" \"お尋ね者\" \"select_label_2\" \"幸せ者\" \"select_label_3\"\nあたいが覚える\n付与スキルを答えてみな！\n"
+	},
+	{
+		"ID": 3078,
+		"unitID": 2300511,
+		"questionID": 9300528,
+		"script": ";;鬼魔神が如く,2\n# textflame 1 1\n# voice 3005 \"roon_0007\"\n@ルーン\nよし\n\n@ルーン\n今からクイズを出してやる\n\n@ルーン\nあたいに関するクイズ、\n『ルーンクイズ』だ\n\n@ルーン\n見事、正解できたら…\n\n# face %(unit_a)s \"smile\"\n@ルーン\nあたいのペットにしてやる\n\n@ルーン\n嬉しいだろ？\n\n# face %(unit_a)s \"angry\"\n@ルーン\nその代わり間違えたら…\nわかってるな？\n\n# voice 3005 \"roon_0036\"\n# face %(unit_a)s \"smile\"\n@ルーン\nじゃあ、いくぞ？\n;;--------------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nあたいが\n取得したスキルを答えな！\n\n# se \"SE_0734\"\n# select  \"貴婦人が如く\" \"select_label_1\" \"鬼魔神が如く\" \"select_label_2\" \"紳士が如く\" \"select_label_3\"\nあたいが\n取得したスキルを答えな！\n"
+	},
+	{
+		"ID": 3079,
+		"unitID": 2300511,
+		"questionID": 9300529,
+		"script": ";;鬼神が如く,3\n# textflame 1 1\n# voice 3005 \"roon_0007\"\n@ルーン\nよし\n\n@ルーン\n今からクイズを出してやる\n\n@ルーン\nあたいに関するクイズ、\n『ルーンクイズ』だ\n\n@ルーン\n見事、正解できたら…\n\n# face %(unit_a)s \"smile\"\n@ルーン\nあたいのペットにしてやる\n\n@ルーン\n嬉しいだろ？\n\n# face %(unit_a)s \"angry\"\n@ルーン\nその代わり間違えたら…\nわかってるな？\n\n# voice 3005 \"roon_0036\"\n# face %(unit_a)s \"smile\"\n@ルーン\nじゃあ、いくぞ？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nあたいが\n取得したスキルを答えな！\n\n# se \"SE_0734\"\n# select  \"天神が如く\" \"select_label_1\" \"竜が如く\" \"select_label_2\" \"鬼神が如く\" \"select_label_3\"\nあたいが\n取得したスキルを答えな！\n"
+	},
+	{
+		"ID": 3080,
+		"unitID": 2300511,
+		"questionID": 9300530,
+		"script": ";;フラガラッハ,1\n# textflame 1 1\n# voice 3005 \"roon_0007\"\n@ルーン\nよし\n\n@ルーン\n今からクイズを出してやる\n\n@ルーン\nあたいに関するクイズ、\n『ルーンクイズ』だ\n\n@ルーン\n見事、正解できたら…\n\n# face %(unit_a)s \"smile\"\n@ルーン\nあたいのペットにしてやる\n\n@ルーン\n嬉しいだろ？\n\n# face %(unit_a)s \"angry\"\n@ルーン\nその代わり間違えたら…\nわかってるな？\n\n# voice 3005 \"roon_0036\"\n# face %(unit_a)s \"smile\"\n@ルーン\nじゃあ、いくぞ？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nあたいは\nこの子とも比較的、仲がいいね！\n\n# se \"SE_0734\"\n# select  \"フラガラッハ\" \"select_label_1\" \"エロース\" \"select_label_2\" \"パラシュ\" \"select_label_3\"\nあたいは\nこの子とも比較的、仲がいいね！\n"
+	},
+	{
+		"ID": 3081,
+		"unitID": 2300511,
+		"questionID": 9300531,
+		"script": ";;ブリューナク,1\n# textflame 1 1\n# face %(unit_a)s \"angry\"\n# voice 3005 \"roon_0013\"\n@ルーン\n…つまんねぇ\n\n@ルーン\n今時の男どもが\n草食系男子ってのは、\n本当なんだな\n\n@ルーン\nあたいを\nどうにかしてやろうって、\n肉食系の男はいないもんかね\n\n@ルーン\nなぁ、お前\n今から出すクイズに\n答えられたら…\n\n# face %(unit_a)s \"usual\"\n@ルーン\nあたいを好きにしていいぜ？\n\n@ルーン\nどうだ？\n楽しくなってきただろ？\n\n@ルーン\nじゃあ、いくぞ！\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nあたいと\n仲がいいのはこの子ね！\n\n# se \"SE_0734\"\n# select  \"ブリューナク\" \"select_label_1\" \"エロース\" \"select_label_2\" \"パラシュ\" \"select_label_3\"\nあたいと\n仲がいいのはこの子ね！\n"
+	},
+	{
+		"ID": 3082,
+		"unitID": 2300511,
+		"questionID": 9300532,
+		"script": ";;Pisces,2\n# textflame 1 1\n# face %(unit_a)s \"angry\"\n# voice 3005 \"roon_0013\"\n@ルーン\n…つまんねぇ\n\n@ルーン\n今時の男どもが\n草食系男子ってのは、\n本当なんだな\n\n@ルーン\nあたいを\nどうにかしてやろうって、\n肉食系の男はいないもんかね\n\n@ルーン\nなぁ、お前\n今から出すクイズに\n答えられたら…\n\n# face %(unit_a)s \"usual\"\n@ルーン\nあたいを好きにしていいぜ？\n\n@ルーン\nどうだ？\n楽しくなってきただろ？\n\n@ルーン\nじゃあ、いくぞ！\n;;--------------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nあたいの星座を英語で言うと？\nまさかわかんないとか言うなよ？\n\n# se \"SE_0734\"\n# select  \"Cancer\" \"select_label_1\" \"Pisces\" \"select_label_2\" \"Scorpio\" \"select_label_3\"\nあたいの星座を英語で言うと？\nまさかわかんないとか言うなよ？\n"
+	},
+	{
+		"ID": 3083,
+		"unitID": 2300511,
+		"questionID": 9300533,
+		"script": ";;March,3\n# textflame 1 1\n# face %(unit_a)s \"angry\"\n# voice 3005 \"roon_0013\"\n@ルーン\n…つまんねぇ\n\n@ルーン\n今時の男どもが\n草食系男子ってのは、\n本当なんだな\n\n@ルーン\nあたいを\nどうにかしてやろうって、\n肉食系の男はいないもんかね\n\n@ルーン\nなぁ、お前\n今から出すクイズに\n答えられたら…\n\n# face %(unit_a)s \"usual\"\n@ルーン\nあたいを好きにしていいぜ？\n\n@ルーン\nどうだ？\n楽しくなってきただろ？\n\n@ルーン\nじゃあ、いくぞ！\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nあたいの誕生月を英語で言うと？\nまさかわかんないとか言うなよ？\n\n# se \"SE_0734\"\n# select  \"June\" \"select_label_1\" \"August\" \"select_label_2\" \"March\" \"select_label_3\"\nあたいの誕生月を英語で言うと？\nまさかわかんないとか言うなよ？\n"
+	},
+	{
+		"ID": 3084,
+		"unitID": 2300511,
+		"questionID": 9300534,
+		"script": ";;茶色,1\n# textflame 1 1\n# face %(unit_a)s \"angry\"\n# voice 3005 \"roon_0013\"\n@ルーン\n…つまんねぇ\n\n@ルーン\n今時の男どもが\n草食系男子ってのは、\n本当なんだな\n\n@ルーン\nあたいを\nどうにかしてやろうって、\n肉食系の男はいないもんかね\n\n@ルーン\nなぁ、お前\n今から出すクイズに\n答えられたら…\n\n# face %(unit_a)s \"usual\"\n@ルーン\nあたいを好きにしていいぜ？\n\n@ルーン\nどうだ？\n楽しくなってきただろ？\n\n@ルーン\nじゃあ、いくぞ！\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nあたいの瞳の色は\n何色だったかな？\n…おい！なにこっち見てんだ！\n\n# se \"SE_0734\"\n# select  \"茶色\" \"select_label_1\" \"青色\" \"select_label_2\" \"緑色\" \"select_label_3\"\nあたいの瞳の色は\n何色だったかな？\n…おい！なにこっち見てんだ！\n"
+	},
+	{
+		"ID": 3085,
+		"unitID": 2300511,
+		"questionID": 9300535,
+		"script": ";;金髪,2\n# textflame 1 1\n# face %(unit_a)s \"angry\"\n# voice 3005 \"roon_0013\"\n@ルーン\n…つまんねぇ\n\n@ルーン\n今時の男どもが\n草食系男子ってのは、\n本当なんだな\n\n@ルーン\nあたいを\nどうにかしてやろうって、\n肉食系の男はいないもんかね\n\n@ルーン\nなぁ、お前\n今から出すクイズに\n答えられたら…\n\n# face %(unit_a)s \"usual\"\n@ルーン\nあたいを好きにしていいぜ？\n\n@ルーン\nどうだ？\n楽しくなってきただろ？\n\n@ルーン\nじゃあ、いくぞ！\n;;--------------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nあたいの髪色は…？\n\n# se \"SE_0734\"\n# select  \"黒髪\" \"select_label_1\" \"金髪\" \"select_label_2\" \"緑髪\" \"select_label_3\"\nあたいの髪色は…？\n"
+	},
+	{
+		"ID": 3086,
+		"unitID": 2300511,
+		"questionID": 9300536,
+		"script": ";;血に飢えた魔槍,3\n# textflame 1 1\n# face %(unit_a)s \"angry\"\n# voice 3005 \"roon_0013\"\n@ルーン\n…つまんねぇ\n\n@ルーン\n今時の男どもが\n草食系男子ってのは、\n本当なんだな\n\n@ルーン\nあたいを\nどうにかしてやろうって、\n肉食系の男はいないもんかね\n\n@ルーン\nなぁ、お前\n今から出すクイズに\n答えられたら…\n\n# face %(unit_a)s \"usual\"\n@ルーン\nあたいを好きにしていいぜ？\n\n@ルーン\nどうだ？\n楽しくなってきただろ？\n\n@ルーン\nじゃあ、いくぞ！\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nあたいはこんな名でも\n呼ばれてるんだよ！\n知ってたか？\n\n# se \"SE_0734\"\n# select  \"野に植えた野草\" \"select_label_1\" \"獲物に飢えた野犬\" \"select_label_2\" \"血に飢えた魔槍\" \"select_label_3\"\nあたいはこんな名でも\n呼ばれてるんだよ！\n知ってたか？\n"
+	},
+	{
+		"ID": 3087,
+		"unitID": 2300511,
+		"questionID": 9300537,
+		"script": ";;鬼ごっこ,1\n# textflame 1 1\n# face %(unit_a)s \"angry\"\n# voice 3005 \"roon_0013\"\n@ルーン\n…つまんねぇ\n\n@ルーン\n今時の男どもが\n草食系男子ってのは、\n本当なんだな\n\n@ルーン\nあたいを\nどうにかしてやろうって、\n肉食系の男はいないもんかね\n\n@ルーン\nなぁ、お前\n今から出すクイズに\n答えられたら…\n\n# face %(unit_a)s \"usual\"\n@ルーン\nあたいを好きにしていいぜ？\n\n@ルーン\nどうだ？\n楽しくなってきただろ？\n\n@ルーン\nじゃあ、いくぞ！\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nスキル「鬼神が如く」を\n覚えた時にマスターとあたいが\nやった遊びってなんだったっけ？\n\n# se \"SE_0734\"\n# select  \"鬼ごっこ\" \"select_label_1\" \"かくれんぼ\" \"select_label_2\" \"だるまさんが転んだ\" \"select_label_3\"\nスキル「鬼神が如く」を\n覚えた時にマスターとあたいが\nやった遊びってなんだったっけ？\n"
+	},
+	{
+		"ID": 3088,
+		"unitID": 2300511,
+		"questionID": 9300538,
+		"script": ";;メギド,2\n# textflame 1 1\n# face %(unit_a)s \"angry\"\n# voice 3005 \"roon_0013\"\n@ルーン\n…つまんねぇ\n\n@ルーン\n今時の男どもが\n草食系男子ってのは、\n本当なんだな\n\n@ルーン\nあたいを\nどうにかしてやろうって、\n肉食系の男はいないもんかね\n\n@ルーン\nなぁ、お前\n今から出すクイズに\n答えられたら…\n\n# face %(unit_a)s \"usual\"\n@ルーン\nあたいを好きにしていいぜ？\n\n@ルーン\nどうだ？\n楽しくなってきただろ？\n\n@ルーン\nじゃあ、いくぞ！\n;;--------------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nあたいと同じ血液型なのは\n誰かわかるか？\n\n# se \"SE_0734\"\n# select  \"ロンゴミアント\" \"select_label_1\" \"メギド\" \"select_label_2\" \"ブリューナク\" \"select_label_3\"\nあたいと同じ血液型なのは\n誰かわかるか？\n"
+	},
+	{
+		"ID": 3089,
+		"unitID": 2300511,
+		"questionID": 9300539,
+		"script": ";;ロンゴミアント,3\n# textflame 1 1\n# face %(unit_a)s \"angry\"\n# voice 3005 \"roon_0013\"\n@ルーン\n…つまんねぇ\n\n@ルーン\n今時の男どもが\n草食系男子ってのは、\n本当なんだな\n\n@ルーン\nあたいを\nどうにかしてやろうって、\n肉食系の男はいないもんかね\n\n@ルーン\nなぁ、お前\n今から出すクイズに\n答えられたら…\n\n# face %(unit_a)s \"usual\"\n@ルーン\nあたいを好きにしていいぜ？\n\n@ルーン\nどうだ？\n楽しくなってきただろ？\n\n@ルーン\nじゃあ、いくぞ！\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nあたいと違う血液型なのは\n誰かわかるか？\n\n# se \"SE_0734\"\n# select  \"レシェフ\" \"select_label_1\" \"メギド\" \"select_label_2\" \"ロンゴミアント\" \"select_label_3\"\nあたいと違う血液型なのは\n誰かわかるか？\n"
+	},
+	{
+		"ID": 3090,
+		"unitID": 2300511,
+		"questionID": 9300540,
+		"script": ";;ティルフィング,1\n# textflame 1 1\n# face %(unit_a)s \"angry\"\n# voice 3005 \"roon_0013\"\n@ルーン\n…つまんねぇ\n\n@ルーン\n今時の男どもが\n草食系男子ってのは、\n本当なんだな\n\n@ルーン\nあたいを\nどうにかしてやろうって、\n肉食系の男はいないもんかね\n\n@ルーン\nなぁ、お前\n今から出すクイズに\n答えられたら…\n\n# face %(unit_a)s \"usual\"\n@ルーン\nあたいを好きにしていいぜ？\n\n@ルーン\nどうだ？\n楽しくなってきただろ？\n\n@ルーン\nじゃあ、いくぞ！\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nあたいと同じ誕生月なのは\n誰かわかるか？\n\n# se \"SE_0734\"\n# select  \"ティルフィング\" \"select_label_1\" \"テュルソス\" \"select_label_2\" \"ミストルティン\" \"select_label_3\"\nあたいと同じ誕生月なのは\n誰かわかるか？\n"
+	},
+	{
+		"ID": 3091,
+		"unitID": 2300511,
+		"questionID": 9300541,
+		"script": "\n;;あたい,1\n# se \"SE_0734\"\n# select \"あたい\" \"select_label_1\" \"ミー\" \"select_label_2\" \"オレ\" \"select_label_3\"\nルーンの一人称は\n次のうちどれ？\n"
+	},
+	{
+		"ID": 3092,
+		"unitID": 2300511,
+		"questionID": 9300542,
+		"script": "\n;;マスター,2\n# se \"SE_0734\"\n# select \"ご主人\" \"select_label_1\" \"マスター\" \"select_label_2\" \"キミ\" \"select_label_3\"\nルーンはアンタのこと、\nなんて呼んでる？\n"
+	},
+	{
+		"ID": 3093,
+		"unitID": 2300511,
+		"questionID": 9300543,
+		"script": "\n;;83,3\n# se \"SE_0734\"\n# select \"80\" \"select_label_1\" \"82\" \"select_label_2\" \"83\" \"select_label_3\"\nルーンの\nバストサイズがどのくらいか\nアンタ…知ってるの？\n"
+	},
+	{
+		"ID": 3094,
+		"unitID": 2300511,
+		"questionID": 9300544,
+		"script": "\n;;61,3\n# se \"SE_0734\"\n# select \"60\" \"select_label_1\" \"57\" \"select_label_2\" \"61\" \"select_label_3\"\nルーンの\nウエストサイズがどのくらいか\nアンタ…知ってるの？\n"
+	},
+	{
+		"ID": 3095,
+		"unitID": 2300511,
+		"questionID": 9300545,
+		"script": "\n;;90,1\n# se \"SE_0734\"\n# select \"90\" \"select_label_1\" \"86\" \"select_label_2\" \"92\" \"select_label_3\"\nルーンの\nヒップサイズがどのくらいか\nアンタ…知ってるの？\n"
+	},
+	{
+		"ID": 3096,
+		"unitID": 2300511,
+		"questionID": 9300546,
+		"script": "\n;;58,1\n# se \"SE_0734\"\n# select \"58\" \"select_label_1\" \"48\" \"select_label_2\" \"54\" \"select_label_3\"\nルーンの体重は\n次のうちどれ？\n"
+	},
+	{
+		"ID": 3097,
+		"unitID": 2300511,
+		"questionID": 9300547,
+		"script": "\n;;234,1\n# se \"SE_0734\"\n# select \"234\" \"select_label_1\" \"226\" \"select_label_2\" \"230\" \"select_label_3\"\nルーンの\nバスト＋ウエスト＋ヒップは\nいくつかわかる？\n"
+	},
+	{
+		"ID": 3098,
+		"unitID": 2300511,
+		"questionID": 9300548,
+		"script": "\n;;ヒョウ柄,1\n# se \"SE_0734\"\n# select \"ヒョウ柄\" \"select_label_1\" \"ストライプ\" \"select_label_2\" \"ドット柄\" \"select_label_3\"\nルーンの水着の柄は\n次のうちどれ？\n"
+	},
+	{
+		"ID": 3099,
+		"unitID": 2300511,
+		"questionID": 9300549,
+		"script": "\n;;60位,2\n# se \"SE_0734\"\n# select \"43位\" \"select_label_1\" \"60位\" \"select_label_2\" \"55位\" \"select_label_3\"\nルーンは\n第２回人気投票で\n何位だったでしょう？\n"
+	},
+	{
+		"ID": 3100,
+		"unitID": 2300511,
+		"questionID": 9300550,
+		"script": "\n;;大原さやか,2\n# se \"SE_0734\"\n# select \"斎藤千和\" \"select_label_1\" \"大原さやか\" \"select_label_2\" \"日高里菜\" \"select_label_3\"\nルーンの声優は誰？\n"
+	}
+]

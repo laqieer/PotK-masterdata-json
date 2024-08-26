@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 300213,
+		"script": "# script \"lisp\"\n# fadein \"black\" 0.5\n# background %(background)s\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n@トライデント\nそうそう！\nこの間ダイビングに\n行った時に見たんだ～\n\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@トライデント\n本当はマスターと一緒が良かったけど\n予定合わなかったじゃない？\n\n# face %(unit_a)s \"normal\"\n# voice 3002 \"toraidento_0020\"\n# textflame 1 1\n@トライデント\nだから今日は、\nその時に見たお魚を紹介しながら\n思い出話しちゃうぞ～\n\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@トライデント\nまず最初に見たのは、\nこーんなに大きな口の\nジンベイザメでね？\n\n# textflame 1 1\n@トライデント\n―その時に見た小魚の群れがね！\n\n# textflame 1 1\n@トライデント\nそこでトライデントは\nとっさに銛を構えたの！\n我ながら完璧な反応で―\n\n# textflame 0 0\n@\n嬉しそうに思い出を語る\nトライデントと一緒に海中の光景を\n思い描きながら水族館を回った…\n;;--------------------------------------\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

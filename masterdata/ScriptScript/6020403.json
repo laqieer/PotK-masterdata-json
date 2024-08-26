@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 6020403,
+		"script": ";;バトル中スクリプト\n;;数ターン経過後\n# script \"lisp\"\n# body 400151\n# pos 400151 3\n# scale 400151 0.8 0\n# mask 400151 off\n# textflame 1 1\n# textboxarrow 0 2\n# chara 400151\n@ラスト\nほう…あの異族を倒す程度の\n力はあるようだな…\n\n# chara 400151\n@ラスト\n所詮は雑魚だが、\n少し用心して追いつめていくか…"
+	}
+]

@@ -1,0 +1,26 @@
+[
+	{
+		"ID": 17,
+		"unitID": 2101211,
+		"scriptID": "kaerimichi",
+		"script": "やっぱりあんたをもう少し\nイジメてあげるわ！\nもう少しだけ付き合いなさい"
+	},
+	{
+		"ID": 44,
+		"unitID": 2101211,
+		"scriptID": "kaeru",
+		"script": "あ～、つかれたねぇ\nもう帰るよ"
+	},
+	{
+		"ID": 71,
+		"unitID": 2101211,
+		"scriptID": "kaeru_ok",
+		"script": "@%(unitName:unit_a)s\nしょうがないねぇ！\nこのアダマス様\n一緒についてってやるよっ！"
+	},
+	{
+		"ID": 98,
+		"unitID": 2101211,
+		"scriptID": "kaeru_ng",
+		"script": "@%(unitName:unit_a)s\n悪いねぇ\nもっとかわいがってほしいかも\nしれないけど、今日は終わり"
+	}
+]

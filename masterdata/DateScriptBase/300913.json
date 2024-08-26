@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 300913,
+		"script": ";;A （ぴたり）\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_hauntedhouse\"\n# bgmfile \"bgm258\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n@青龍偃月刀\nしゅ、主君！？\nそのようにピタリと\n密着されては…\n\n# face %(unit_a)s \"angry\"\n# voice 3009 \"seiryu_0011\"\n@青龍偃月刀\n魑魅魍魎どもと\n戦えません！\n\n# textflame 0 0\n@\n本当は逆がよかったんだけど\nそう思いながらも\nここぞとばかりにひっつくマスター\n\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 3009 \"seiryu_0023\"\n@青龍偃月刀\nたしかにそばを離れるなとは\n言いましたが…！\n\n# voice 3009 \"seiryu_0025\"\n@青龍偃月刀\n暗くてよく見えない！？\nた、たしかに…\nとはいえ、しゅ、しゅくんーー！！\n\n# textflame 0 0\n@\nこれはこれでいいかな…と\n青龍偃月刀にしがみつきながら思う\nマスターであった…\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

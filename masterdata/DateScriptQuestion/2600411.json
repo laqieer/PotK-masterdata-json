@@ -1,0 +1,302 @@
+[
+	{
+		"ID": 2451,
+		"unitID": 2600411,
+		"questionID": 9600401,
+		"script": ";;演奏,1\n# voice 6004 \"kadokeusu_0001\"\n# textflame 1 1\n@カドケウス\nねぇ、マスター！\n\n# textflame 1 1\n@カドケウス\n私のキラーズが、\n神々の意志を伝える\n伝令役だったことは知ってるよね？\n\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@カドケウス\nマスターもさ…\n私のこと、どれだけ好きか\nちゃんと伝えてよ？\n\n# textflame 1 1\n@カドケウス\nってことで…\n私、カドケウスに関するクイズ！\n\n# voice 6004 \"kadokeusu_0029\"\n# textflame 1 1\n@カドケウス\nいっくよ～？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私のキラーズ『カドケウス』の\n持ち主はなにの名手と\n呼ばれていたかわかるかな？\n\n# se \"SE_0734\"\n# select  \"演奏\" \"select_label_1\" \"弓\" \"select_label_2\" \"将棋\" \"select_label_3\"\n私のキラーズ『カドケウス』の\n持ち主はなにの名手と\n呼ばれていたかわかるかな？\n"
+	},
+	{
+		"ID": 2452,
+		"unitID": 2600411,
+		"questionID": 9600402,
+		"script": ";;ヘルメース,2\n# voice 6004 \"kadokeusu_0001\"\n# textflame 1 1\n@カドケウス\nねぇ、マスター！\n\n# textflame 1 1\n@カドケウス\n私のキラーズが、\n神々の意志を伝える\n伝令役だったことは知ってるよね？\n\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@カドケウス\nマスターもさ…\n私のこと、どれだけ好きか\nちゃんと伝えてよ？\n\n# textflame 1 1\n@カドケウス\nってことで…\n私、カドケウスに関するクイズ！\n\n# voice 6004 \"kadokeusu_0029\"\n# textflame 1 1\n@カドケウス\nいっくよ～？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私のキラーズ『カドケウス』の\n持ち主はわかるよね？\n\n# se \"SE_0734\"\n# select  \"ナルシース\" \"select_label_1\" \"ヘルメース\" \"select_label_2\" \"カルフール\" \"select_label_3\"\n私のキラーズ『カドケウス』の\n持ち主はわかるよね？\n"
+	},
+	{
+		"ID": 2453,
+		"unitID": 2600411,
+		"questionID": 9600403,
+		"script": ";;ケーリュケイオン,3\n# voice 6004 \"kadokeusu_0001\"\n# textflame 1 1\n@カドケウス\nねぇ、マスター！\n\n# textflame 1 1\n@カドケウス\n私のキラーズが、\n神々の意志を伝える\n伝令役だったことは知ってるよね？\n\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@カドケウス\nマスターもさ…\n私のこと、どれだけ好きか\nちゃんと伝えてよ？\n\n# textflame 1 1\n@カドケウス\nってことで…\n私、カドケウスに関するクイズ！\n\n# voice 6004 \"kadokeusu_0029\"\n# textflame 1 1\n@カドケウス\nいっくよ～？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私のキラーズ『カドケウス』と\n同一視されているのは？\n\n# se \"SE_0734\"\n# select  \"ミトゥム\" \"select_label_1\" \"トライデント\" \"select_label_2\" \"ケーリュケイオン\" \"select_label_3\"\n私のキラーズ『カドケウス』と\n同一視されているのは？\n"
+	},
+	{
+		"ID": 2454,
+		"unitID": 2600411,
+		"questionID": 9600404,
+		"script": ";;伝令の神,1\n# voice 6004 \"kadokeusu_0001\"\n# textflame 1 1\n@カドケウス\nねぇ、マスター！\n\n# textflame 1 1\n@カドケウス\n私のキラーズが、\n神々の意志を伝える\n伝令役だったことは知ってるよね？\n\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@カドケウス\nマスターもさ…\n私のこと、どれだけ好きか\nちゃんと伝えてよ？\n\n# textflame 1 1\n@カドケウス\nってことで…\n私、カドケウスに関するクイズ！\n\n# voice 6004 \"kadokeusu_0029\"\n# textflame 1 1\n@カドケウス\nいっくよ～？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私のキラーズ『カドケウス』の\n持ち主であるヘルメースは\nなにの神？\n\n# se \"SE_0734\"\n# select  \"伝令の神\" \"select_label_1\" \"電力の神\" \"select_label_2\" \"出前の神\" \"select_label_3\"\n私のキラーズ『カドケウス』の\n持ち主であるヘルメースは\nなにの神？\n"
+	},
+	{
+		"ID": 2455,
+		"unitID": 2600411,
+		"questionID": 9600405,
+		"script": ";;オリュンポス十二神,2\n# voice 6004 \"kadokeusu_0001\"\n# textflame 1 1\n@カドケウス\nねぇ、マスター！\n\n# textflame 1 1\n@カドケウス\n私のキラーズが、\n神々の意志を伝える\n伝令役だったことは知ってるよね？\n\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@カドケウス\nマスターもさ…\n私のこと、どれだけ好きか\nちゃんと伝えてよ？\n\n# textflame 1 1\n@カドケウス\nってことで…\n私、カドケウスに関するクイズ！\n\n# voice 6004 \"kadokeusu_0029\"\n# textflame 1 1\n@カドケウス\nいっくよ～？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私のキラーズ『カドケウス』の\n持ち主であるヘルメースは\nなにの一人？\n\n# se \"SE_0734\"\n# select  \"ヴェーダ十戒衆\" \"select_label_1\" \"オリュンポス十二神\" \"select_label_2\" \"武田二十四将\" \"select_label_3\"\n私のキラーズ『カドケウス』の\n持ち主であるヘルメースは\nなにの一人？\n"
+	},
+	{
+		"ID": 2456,
+		"unitID": 2600411,
+		"questionID": 9600406,
+		"script": ";;ギリシア神話群,3\n# voice 6004 \"kadokeusu_0001\"\n# textflame 1 1\n@カドケウス\nねぇ、マスター！\n\n# textflame 1 1\n@カドケウス\n私のキラーズが、\n神々の意志を伝える\n伝令役だったことは知ってるよね？\n\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@カドケウス\nマスターもさ…\n私のこと、どれだけ好きか\nちゃんと伝えてよ？\n\n# textflame 1 1\n@カドケウス\nってことで…\n私、カドケウスに関するクイズ！\n\n# voice 6004 \"kadokeusu_0029\"\n# textflame 1 1\n@カドケウス\nいっくよ～？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私のキラーズ『カドケウス』は\nどんな伝承に登場する？\n\n# se \"SE_0734\"\n# select  \"フィンランド神話群\" \"select_label_1\" \" 北欧神話群\" \"select_label_2\" \"ギリシア神話群\" \"select_label_3\"\n私のキラーズ『カドケウス』は\nどんな伝承に登場する？\n"
+	},
+	{
+		"ID": 2457,
+		"unitID": 2600411,
+		"questionID": 9600407,
+		"script": ";;ゼウス,1\n# voice 6004 \"kadokeusu_0001\"\n# textflame 1 1\n@カドケウス\nねぇ、マスター！\n\n# textflame 1 1\n@カドケウス\n私のキラーズが、\n神々の意志を伝える\n伝令役だったことは知ってるよね？\n\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@カドケウス\nマスターもさ…\n私のこと、どれだけ好きか\nちゃんと伝えてよ？\n\n# textflame 1 1\n@カドケウス\nってことで…\n私、カドケウスに関するクイズ！\n\n# voice 6004 \"kadokeusu_0029\"\n# textflame 1 1\n@カドケウス\nいっくよ～？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私のキラーズ『カドケウス』の\n持ち主は誰の子かわかる？\n\n# se \"SE_0734\"\n# select  \"ゼウス\" \"select_label_1\" \"サタン\" \"select_label_2\" \"オーディン\" \"select_label_3\"\n私のキラーズ『カドケウス』の\n持ち主は誰の子かわかる？\n"
+	},
+	{
+		"ID": 2458,
+		"unitID": 2600411,
+		"questionID": 9600408,
+		"script": ";;羊飼い,2\n# voice 6004 \"kadokeusu_0001\"\n# textflame 1 1\n@カドケウス\nねぇ、マスター！\n\n# textflame 1 1\n@カドケウス\n私のキラーズが、\n神々の意志を伝える\n伝令役だったことは知ってるよね？\n\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@カドケウス\nマスターもさ…\n私のこと、どれだけ好きか\nちゃんと伝えてよ？\n\n# textflame 1 1\n@カドケウス\nってことで…\n私、カドケウスに関するクイズ！\n\n# voice 6004 \"kadokeusu_0029\"\n# textflame 1 1\n@カドケウス\nいっくよ～？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私のキラーズ『カドケウス』の\n持ち主であるヘルメースは\nなにの守護神とも云われた？\n\n# se \"SE_0734\"\n# select  \"サラリーマン\" \"select_label_1\" \"羊飼い\" \"select_label_2\" \"ハマ\" \"select_label_3\"\n私のキラーズ『カドケウス』の\n持ち主であるヘルメースは\nなにの守護神とも云われた？\n"
+	},
+	{
+		"ID": 2459,
+		"unitID": 2600411,
+		"questionID": 9600409,
+		"script": ";;旅人,3\n# voice 6004 \"kadokeusu_0001\"\n# textflame 1 1\n@カドケウス\nねぇ、マスター！\n\n# textflame 1 1\n@カドケウス\n私のキラーズが、\n神々の意志を伝える\n伝令役だったことは知ってるよね？\n\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@カドケウス\nマスターもさ…\n私のこと、どれだけ好きか\nちゃんと伝えてよ？\n\n# textflame 1 1\n@カドケウス\nってことで…\n私、カドケウスに関するクイズ！\n\n# voice 6004 \"kadokeusu_0029\"\n# textflame 1 1\n@カドケウス\nいっくよ～？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私のキラーズ『カドケウス』の\n持ち主であるヘルメースは\nなにの守護神とも云われた？\n\n# se \"SE_0734\"\n# select  \"看護師\" \"select_label_1\" \"未亡人\" \"select_label_2\" \"旅人\" \"select_label_3\"\n私のキラーズ『カドケウス』の\n持ち主であるヘルメースは\nなにの守護神とも云われた？\n"
+	},
+	{
+		"ID": 2460,
+		"unitID": 2600411,
+		"questionID": 9600410,
+		"script": ";;泥棒,1\n# voice 6004 \"kadokeusu_0001\"\n# textflame 1 1\n@カドケウス\nねぇ、マスター！\n\n# textflame 1 1\n@カドケウス\n私のキラーズが、\n神々の意志を伝える\n伝令役だったことは知ってるよね？\n\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@カドケウス\nマスターもさ…\n私のこと、どれだけ好きか\nちゃんと伝えてよ？\n\n# textflame 1 1\n@カドケウス\nってことで…\n私、カドケウスに関するクイズ！\n\n# voice 6004 \"kadokeusu_0029\"\n# textflame 1 1\n@カドケウス\nいっくよ～？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私のキラーズ『カドケウス』の\n持ち主であるヘルメースは\nなにの守護神とも云われた？\n\n# se \"SE_0734\"\n# select  \"泥棒\" \"select_label_1\" \"相棒\" \"select_label_2\" \"マル暴\" \"select_label_3\"\n私のキラーズ『カドケウス』の\n持ち主であるヘルメースは\nなにの守護神とも云われた？\n"
+	},
+	{
+		"ID": 2461,
+		"unitID": 2600411,
+		"questionID": 9600411,
+		"script": ";;闇,1\n# voice 6004 \"kadokeusu_0001\"\n# textflame 1 1\n@カドケウス\nねぇ、マスター…\n\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@カドケウス\n今日は…帰りたくないよ\nこのまま２人で…\nどっか行っちゃお…？\n\n# textflame 1 1\n@カドケウス\n…………\n\n# voice 6004 \"kadokeusu_0020\"\n# face %(unit_a)s \"normal\"\n# textflame 1 1\n@カドケウス\nなぁ～んってね♪\n\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@カドケウス\nドキッとした？\n\n# textflame 1 1\n@カドケウス\n私がイタズラ好きだって\n忘れてたんじゃない？\n\n# voice 6004 \"kadokeusu_0004\"\n# textflame 1 1\n@カドケウス\nあはは、ゴメン、ゴメン！\n今からクイズ出すから\n答えられたら…\n\n# textflame 1 1\n@カドケウス\nホントに２人で\nどっか行ってあげても\nいいよ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の属性は知っているよね？\n\n# se \"SE_0734\"\n# select  \"闇\" \"select_label_1\" \"炎\" \"select_label_2\" \"雷\" \"select_label_3\"\n私の属性は知っているよね？\n"
+	},
+	{
+		"ID": 2462,
+		"unitID": 2600411,
+		"questionID": 9600412,
+		"script": ";;150cm,2\n# voice 6004 \"kadokeusu_0001\"\n# textflame 1 1\n@カドケウス\nねぇ、マスター…\n\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@カドケウス\n今日は…帰りたくないよ\nこのまま２人で…\nどっか行っちゃお…？\n\n# textflame 1 1\n@カドケウス\n…………\n\n# voice 6004 \"kadokeusu_0020\"\n# face %(unit_a)s \"normal\"\n# textflame 1 1\n@カドケウス\nなぁ～んってね♪\n\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@カドケウス\nドキッとした？\n\n# textflame 1 1\n@カドケウス\n私がイタズラ好きだって\n忘れてたんじゃない？\n\n# voice 6004 \"kadokeusu_0004\"\n# textflame 1 1\n@カドケウス\nあはは、ゴメン、ゴメン！\n今からクイズ出すから\n答えられたら…\n\n# textflame 1 1\n@カドケウス\nホントに２人で\nどっか行ってあげても\nいいよ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の身長は知ってる？\n\n# se \"SE_0734\"\n# select  \"160cm\" \"select_label_1\" \"150cm\" \"select_label_2\" \"172cm\" \"select_label_3\"\n私の身長は知ってる？\n"
+	},
+	{
+		"ID": 2463,
+		"unitID": 2600411,
+		"questionID": 9600413,
+		"script": ";;5月10日,3\n# voice 6004 \"kadokeusu_0001\"\n# textflame 1 1\n@カドケウス\nねぇ、マスター…\n\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@カドケウス\n今日は…帰りたくないよ\nこのまま２人で…\nどっか行っちゃお…？\n\n# textflame 1 1\n@カドケウス\n…………\n\n# voice 6004 \"kadokeusu_0020\"\n# face %(unit_a)s \"normal\"\n# textflame 1 1\n@カドケウス\nなぁ～んってね♪\n\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@カドケウス\nドキッとした？\n\n# textflame 1 1\n@カドケウス\n私がイタズラ好きだって\n忘れてたんじゃない？\n\n# voice 6004 \"kadokeusu_0004\"\n# textflame 1 1\n@カドケウス\nあはは、ゴメン、ゴメン！\n今からクイズ出すから\n答えられたら…\n\n# textflame 1 1\n@カドケウス\nホントに２人で\nどっか行ってあげても\nいいよ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の誕生日なんて知ってるの？\n\n# se \"SE_0734\"\n# select  \"12月10日\" \"select_label_1\" \"10月10日\" \"select_label_2\" \"5月10日\" \"select_label_3\"\n私の誕生日なんて知ってるの？\n"
+	},
+	{
+		"ID": 2464,
+		"unitID": 2600411,
+		"questionID": 9600414,
+		"script": ";;おうし座,1\n# voice 6004 \"kadokeusu_0001\"\n# textflame 1 1\n@カドケウス\nねぇ、マスター…\n\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@カドケウス\n今日は…帰りたくないよ\nこのまま２人で…\nどっか行っちゃお…？\n\n# textflame 1 1\n@カドケウス\n…………\n\n# voice 6004 \"kadokeusu_0020\"\n# face %(unit_a)s \"normal\"\n# textflame 1 1\n@カドケウス\nなぁ～んってね♪\n\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@カドケウス\nドキッとした？\n\n# textflame 1 1\n@カドケウス\n私がイタズラ好きだって\n忘れてたんじゃない？\n\n# voice 6004 \"kadokeusu_0004\"\n# textflame 1 1\n@カドケウス\nあはは、ゴメン、ゴメン！\n今からクイズ出すから\n答えられたら…\n\n# textflame 1 1\n@カドケウス\nホントに２人で\nどっか行ってあげても\nいいよ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の星座はわかるかな？\n\n# se \"SE_0734\"\n# select  \"おうし座\" \"select_label_1\" \"てんびん座\" \"select_label_2\" \"おとめ座\" \"select_label_3\"\n私の星座はわかるかな？\n"
+	},
+	{
+		"ID": 2465,
+		"unitID": 2600411,
+		"questionID": 9600415,
+		"script": ";;芸術,2\n# voice 6004 \"kadokeusu_0001\"\n# textflame 1 1\n@カドケウス\nねぇ、マスター…\n\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@カドケウス\n今日は…帰りたくないよ\nこのまま２人で…\nどっか行っちゃお…？\n\n# textflame 1 1\n@カドケウス\n…………\n\n# voice 6004 \"kadokeusu_0020\"\n# face %(unit_a)s \"normal\"\n# textflame 1 1\n@カドケウス\nなぁ～んってね♪\n\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@カドケウス\nドキッとした？\n\n# textflame 1 1\n@カドケウス\n私がイタズラ好きだって\n忘れてたんじゃない？\n\n# voice 6004 \"kadokeusu_0004\"\n# textflame 1 1\n@カドケウス\nあはは、ゴメン、ゴメン！\n今からクイズ出すから\n答えられたら…\n\n# textflame 1 1\n@カドケウス\nホントに２人で\nどっか行ってあげても\nいいよ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私が好きなものはわかるでしょ？\n\n# se \"SE_0734\"\n# select  \"魔術\" \"select_label_1\" \"芸術\" \"select_label_2\" \"忍術\" \"select_label_3\"\n私が好きなものはわかるでしょ？\n"
+	},
+	{
+		"ID": 2466,
+		"unitID": 2600411,
+		"questionID": 9600416,
+		"script": ";;頭脳明晰,3\n# voice 6004 \"kadokeusu_0001\"\n# textflame 1 1\n@カドケウス\nねぇ、マスター…\n\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@カドケウス\n今日は…帰りたくないよ\nこのまま２人で…\nどっか行っちゃお…？\n\n# textflame 1 1\n@カドケウス\n…………\n\n# voice 6004 \"kadokeusu_0020\"\n# face %(unit_a)s \"normal\"\n# textflame 1 1\n@カドケウス\nなぁ～んってね♪\n\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@カドケウス\nドキッとした？\n\n# textflame 1 1\n@カドケウス\n私がイタズラ好きだって\n忘れてたんじゃない？\n\n# voice 6004 \"kadokeusu_0004\"\n# textflame 1 1\n@カドケウス\nあはは、ゴメン、ゴメン！\n今からクイズ出すから\n答えられたら…\n\n# textflame 1 1\n@カドケウス\nホントに２人で\nどっか行ってあげても\nいいよ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私ってばこんな風に\nよく言われるわね！\n\n# se \"SE_0734\"\n# select  \"奇妙奇天烈\" \"select_label_1\" \"奇想天外\" \"select_label_2\" \"頭脳明晰\" \"select_label_3\"\n私ってばこんな風に\nよく言われるわね！\n"
+	},
+	{
+		"ID": 2467,
+		"unitID": 2600411,
+		"questionID": 9600417,
+		"script": ";;AB型 ,1\n# voice 6004 \"kadokeusu_0001\"\n# textflame 1 1\n@カドケウス\nねぇ、マスター…\n\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@カドケウス\n今日は…帰りたくないよ\nこのまま２人で…\nどっか行っちゃお…？\n\n# textflame 1 1\n@カドケウス\n…………\n\n# voice 6004 \"kadokeusu_0020\"\n# face %(unit_a)s \"normal\"\n# textflame 1 1\n@カドケウス\nなぁ～んってね♪\n\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@カドケウス\nドキッとした？\n\n# textflame 1 1\n@カドケウス\n私がイタズラ好きだって\n忘れてたんじゃない？\n\n# voice 6004 \"kadokeusu_0004\"\n# textflame 1 1\n@カドケウス\nあはは、ゴメン、ゴメン！\n今からクイズ出すから\n答えられたら…\n\n# textflame 1 1\n@カドケウス\nホントに２人で\nどっか行ってあげても\nいいよ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の血液型、わかるでしょ？\n\n# se \"SE_0734\"\n# select  \"AB型\" \"select_label_1\" \"A型\" \"select_label_2\" \"B型\" \"select_label_3\"\n私の血液型、わかるでしょ？\n"
+	},
+	{
+		"ID": 2468,
+		"unitID": 2600411,
+		"questionID": 9600418,
+		"script": ";;オリュンポス,2\n# voice 6004 \"kadokeusu_0001\"\n# textflame 1 1\n@カドケウス\nねぇ、マスター…\n\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@カドケウス\n今日は…帰りたくないよ\nこのまま２人で…\nどっか行っちゃお…？\n\n# textflame 1 1\n@カドケウス\n…………\n\n# voice 6004 \"kadokeusu_0020\"\n# face %(unit_a)s \"normal\"\n# textflame 1 1\n@カドケウス\nなぁ～んってね♪\n\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@カドケウス\nドキッとした？\n\n# textflame 1 1\n@カドケウス\n私がイタズラ好きだって\n忘れてたんじゃない？\n\n# voice 6004 \"kadokeusu_0004\"\n# textflame 1 1\n@カドケウス\nあはは、ゴメン、ゴメン！\n今からクイズ出すから\n答えられたら…\n\n# textflame 1 1\n@カドケウス\nホントに２人で\nどっか行ってあげても\nいいよ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の出身地、わかる？\n\n# se \"SE_0734\"\n# select  \"メトロポリタン\" \"select_label_1\" \"オリュンポス\" \"select_label_2\" \"京都\" \"select_label_3\"\n私の出身地、わかる？\n"
+	},
+	{
+		"ID": 2469,
+		"unitID": 2600411,
+		"questionID": 9600419,
+		"script": ";;イタズラ,3\n# voice 6004 \"kadokeusu_0001\"\n# textflame 1 1\n@カドケウス\nねぇ、マスター…\n\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@カドケウス\n今日は…帰りたくないよ\nこのまま２人で…\nどっか行っちゃお…？\n\n# textflame 1 1\n@カドケウス\n…………\n\n# voice 6004 \"kadokeusu_0020\"\n# face %(unit_a)s \"normal\"\n# textflame 1 1\n@カドケウス\nなぁ～んってね♪\n\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@カドケウス\nドキッとした？\n\n# textflame 1 1\n@カドケウス\n私がイタズラ好きだって\n忘れてたんじゃない？\n\n# voice 6004 \"kadokeusu_0004\"\n# textflame 1 1\n@カドケウス\nあはは、ゴメン、ゴメン！\n今からクイズ出すから\n答えられたら…\n\n# textflame 1 1\n@カドケウス\nホントに２人で\nどっか行ってあげても\nいいよ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の趣味はどれかわかる？\n\n# se \"SE_0734\"\n# select  \"スゴロク\" \"select_label_1\" \"ガーデニング\" \"select_label_2\" \"イタズラ\" \"select_label_3\"\n私の趣味はどれかわかる？\n"
+	},
+	{
+		"ID": 2470,
+		"unitID": 2600411,
+		"questionID": 9600420,
+		"script": ";;ヘビ,1\n# voice 6004 \"kadokeusu_0001\"\n# textflame 1 1\n@カドケウス\nねぇ、マスター…\n\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@カドケウス\n今日は…帰りたくないよ\nこのまま２人で…\nどっか行っちゃお…？\n\n# textflame 1 1\n@カドケウス\n…………\n\n# voice 6004 \"kadokeusu_0020\"\n# face %(unit_a)s \"normal\"\n# textflame 1 1\n@カドケウス\nなぁ～んってね♪\n\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@カドケウス\nドキッとした？\n\n# textflame 1 1\n@カドケウス\n私がイタズラ好きだって\n忘れてたんじゃない？\n\n# voice 6004 \"kadokeusu_0004\"\n# textflame 1 1\n@カドケウス\nあはは、ゴメン、ゴメン！\n今からクイズ出すから\n答えられたら…\n\n# textflame 1 1\n@カドケウス\nホントに２人で\nどっか行ってあげても\nいいよ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の杖は生き物になってるの！\nなにかしらね～？\n\n# se \"SE_0734\"\n# select  \"ヘビ\" \"select_label_1\" \"キツネ\" \"select_label_2\" \"鵺\" \"select_label_3\"\n私の杖は生き物になってるの！\nなにかしらね～？\n"
+	},
+	{
+		"ID": 2471,
+		"unitID": 2600411,
+		"questionID": 9600421,
+		"script": ";;アウルム,1\n# voice 6004 \"kadokeusu_0004\"\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@カドケウス\nさっきの音楽、\nすごく良かったね\n\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@カドケウス\n…って、本当にわかってる？\n適当に合わせてない？\n\n# textflame 1 1\n@カドケウス\nマスターはそういう\n芸術的なセンスは\nいまいちだからなぁ…\n\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@カドケウス\nま、いいや\nじゃあ芸術センス溢れる\n私のことをどれだけ分かってるか…\n\n# textflame 1 1\n@カドケウス\nクイズね？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の杖の\nヘビの名前ってわかる～？\n\n# se \"SE_0734\"\n# select  \"アウルム\" \"select_label_1\" \"パスカル\" \"select_label_2\" \"菊男\" \"select_label_3\"\n私の杖の\nヘビの名前ってわかる～？\n"
+	},
+	{
+		"ID": 2472,
+		"unitID": 2600411,
+		"questionID": 9600422,
+		"script": ";;騎杖神,2\n# voice 6004 \"kadokeusu_0004\"\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@カドケウス\nさっきの音楽、\nすごく良かったね\n\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@カドケウス\n…って、本当にわかってる？\n適当に合わせてない？\n\n# textflame 1 1\n@カドケウス\nマスターはそういう\n芸術的なセンスは\nいまいちだからなぁ…\n\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@カドケウス\nま、いいや\nじゃあ芸術センス溢れる\n私のことをどれだけ分かってるか…\n\n# textflame 1 1\n@カドケウス\nクイズね？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の☆６のジョブ名は\nわかるかな？\n\n# se \"SE_0734\"\n# select  \"騎杖皇\" \"select_label_1\" \"騎杖神\" \"select_label_2\" \"騎杖姫\" \"select_label_3\"\n私の☆６のジョブ名は\nわかるかな？\n"
+	},
+	{
+		"ID": 2473,
+		"unitID": 2600411,
+		"questionID": 9600423,
+		"script": ";;ソウルイーター,3\n# voice 6004 \"kadokeusu_0004\"\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@カドケウス\nさっきの音楽、\nすごく良かったね\n\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@カドケウス\n…って、本当にわかってる？\n適当に合わせてない？\n\n# textflame 1 1\n@カドケウス\nマスターはそういう\n芸術的なセンスは\nいまいちだからなぁ…\n\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@カドケウス\nま、いいや\nじゃあ芸術センス溢れる\n私のことをどれだけ分かってるか…\n\n# textflame 1 1\n@カドケウス\nクイズね？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私が覚えるスキルで\nソウルドレイン以上の威力で\n相手の生命力を奪うスキルは？\n\n# se \"SE_0734\"\n# select  \"ソウルブレイカー\" \"select_label_1\" \"ソウルバイパー\" \"select_label_2\" \"ソウルイーター\" \"select_label_3\"\n私が覚えるスキルで\nソウルドレイン以上の威力で\n相手の生命力を奪うスキルは？\n"
+	},
+	{
+		"ID": 2474,
+		"unitID": 2600411,
+		"questionID": 9600424,
+		"script": ";;騎杖神の導き,1\n# voice 6004 \"kadokeusu_0004\"\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@カドケウス\nさっきの音楽、\nすごく良かったね\n\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@カドケウス\n…って、本当にわかってる？\n適当に合わせてない？\n\n# textflame 1 1\n@カドケウス\nマスターはそういう\n芸術的なセンスは\nいまいちだからなぁ…\n\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@カドケウス\nま、いいや\nじゃあ芸術センス溢れる\n私のことをどれだけ分かってるか…\n\n# textflame 1 1\n@カドケウス\nクイズね？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の☆６の\nリーダースキルはわかるかな？\n\n# se \"SE_0734\"\n# select  \"騎杖神の導き\" \"select_label_1\" \"騎杖神の裁き\" \"select_label_2\" \"騎杖神の驚き\" \"select_label_3\"\n私の☆６の\nリーダースキルはわかるかな？\n"
+	},
+	{
+		"ID": 2475,
+		"unitID": 2600411,
+		"questionID": 9600425,
+		"script": ";;アポロン,2\n# voice 6004 \"kadokeusu_0004\"\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@カドケウス\nさっきの音楽、\nすごく良かったね\n\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@カドケウス\n…って、本当にわかってる？\n適当に合わせてない？\n\n# textflame 1 1\n@カドケウス\nマスターはそういう\n芸術的なセンスは\nいまいちだからなぁ…\n\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@カドケウス\nま、いいや\nじゃあ芸術センス溢れる\n私のことをどれだけ分かってるか…\n\n# textflame 1 1\n@カドケウス\nクイズね？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私と仲がいいのはこの子だよ！\n\n# se \"SE_0734\"\n# select  \"グラム\" \"select_label_1\" \"アポロン\" \"select_label_2\" \"エロース\" \"select_label_3\"\n私と仲がいいのはこの子だよ！\n"
+	},
+	{
+		"ID": 2476,
+		"unitID": 2600411,
+		"questionID": 9600426,
+		"script": ";; 人心掌握,3\n# voice 6004 \"kadokeusu_0004\"\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@カドケウス\nさっきの音楽、\nすごく良かったね\n\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@カドケウス\n…って、本当にわかってる？\n適当に合わせてない？\n\n# textflame 1 1\n@カドケウス\nマスターはそういう\n芸術的なセンスは\nいまいちだからなぁ…\n\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@カドケウス\nま、いいや\nじゃあ芸術センス溢れる\n私のことをどれだけ分かってるか…\n\n# textflame 1 1\n@カドケウス\nクイズね？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の特技はズバリこれね！\n\n# se \"SE_0734\"\n# select  \"ボウリング\" \"select_label_1\" \"催眠術\" \"select_label_2\" \"人心掌握\" \"select_label_3\"\n私の特技はズバリこれね！\n"
+	},
+	{
+		"ID": 2477,
+		"unitID": 2600411,
+		"questionID": 9600427,
+		"script": ";;自己治癒,1\n# voice 6004 \"kadokeusu_0004\"\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@カドケウス\nさっきの音楽、\nすごく良かったね\n\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@カドケウス\n…って、本当にわかってる？\n適当に合わせてない？\n\n# textflame 1 1\n@カドケウス\nマスターはそういう\n芸術的なセンスは\nいまいちだからなぁ…\n\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@カドケウス\nま、いいや\nじゃあ芸術センス溢れる\n私のことをどれだけ分かってるか…\n\n# textflame 1 1\n@カドケウス\nクイズね？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私が覚える付与スキルってわかる？\n\n# se \"SE_0734\"\n# select  \"自己治癒\" \"select_label_1\" \"自己弁護\" \"select_label_2\" \"自己修復\" \"select_label_3\"\n私が覚える付与スキルってわかる？\n"
+	},
+	{
+		"ID": 2478,
+		"unitID": 2600411,
+		"questionID": 9600428,
+		"script": ";;ハートフルケイン,2\n# voice 6004 \"kadokeusu_0004\"\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@カドケウス\nさっきの音楽、\nすごく良かったね\n\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@カドケウス\n…って、本当にわかってる？\n適当に合わせてない？\n\n# textflame 1 1\n@カドケウス\nマスターはそういう\n芸術的なセンスは\nいまいちだからなぁ…\n\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@カドケウス\nま、いいや\nじゃあ芸術センス溢れる\n私のことをどれだけ分かってるか…\n\n# textflame 1 1\n@カドケウス\nクイズね？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私が習得したスキルは覚えてる？\n\n# se \"SE_0734\"\n# select  \"ハートフルダニエル\" \"select_label_1\" \"ハートフルケイン\" \"select_label_2\" \"ハートフルコスギ\" \"select_label_3\"\n私が習得したスキルは覚えてる？\n"
+	},
+	{
+		"ID": 2479,
+		"unitID": 2600411,
+		"questionID": 9600429,
+		"script": ";;ディボートケイン,3\n# voice 6004 \"kadokeusu_0004\"\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@カドケウス\nさっきの音楽、\nすごく良かったね\n\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@カドケウス\n…って、本当にわかってる？\n適当に合わせてない？\n\n# textflame 1 1\n@カドケウス\nマスターはそういう\n芸術的なセンスは\nいまいちだからなぁ…\n\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@カドケウス\nま、いいや\nじゃあ芸術センス溢れる\n私のことをどれだけ分かってるか…\n\n# textflame 1 1\n@カドケウス\nクイズね？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私が習得したスキルは覚えてる？\n\n# se \"SE_0734\"\n# select  \"おでかけケイン\" \"select_label_1\" \"レツゴ―ケイン\" \"select_label_2\" \"ディボートケイン\" \"select_label_3\"\n私が習得したスキルは覚えてる？\n"
+	},
+	{
+		"ID": 2480,
+		"unitID": 2600411,
+		"questionID": 9600430,
+		"script": ";;争いの仲裁,1\n# voice 6004 \"kadokeusu_0004\"\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@カドケウス\nさっきの音楽、\nすごく良かったね\n\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@カドケウス\n…って、本当にわかってる？\n適当に合わせてない？\n\n# textflame 1 1\n@カドケウス\nマスターはそういう\n芸術的なセンスは\nいまいちだからなぁ…\n\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@カドケウス\nま、いいや\nじゃあ芸術センス溢れる\n私のことをどれだけ分かってるか…\n\n# textflame 1 1\n@カドケウス\nクイズね？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私が得意な事はね…\n\n# se \"SE_0734\"\n# select  \"争いの仲裁\" \"select_label_1\" \"ケンカの助長\" \"select_label_2\" \"ネットの炎上\" \"select_label_3\"\n私が得意な事はね…\n"
+	},
+	{
+		"ID": 2481,
+		"unitID": 2600411,
+		"questionID": 9600431,
+		"script": ";;ケラウノス,1\n# voice 6004 \"kadokeusu_0022\"\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@カドケウス\nあれ？\nマスター…\n\n# face %(unit_a)s \"angry\"\n# textflame 1 1\n@カドケウス\n蜂よ！\n危ないッ！！\n\n# voice 6004 \"kadokeusu_0004\"\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@カドケウス\n…なんて、冗談よ♪\n\n# textflame 1 1\n@カドケウス\nマスターっていつも１００点の\nリアクションしてくれるから\n大好き♪\n\n# textflame 1 1\n@カドケウス\nイタズラのやりがいが\nあるってもんだわ\n\n# textflame 1 1\n@カドケウス\nで、突然ですが\n今からクイズを出します！\n\n# textflame 1 1\n@カドケウス\n…てことで、\nちゃんと答えてね？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私と仲がいいのはこの子だよ！\n\n# se \"SE_0734\"\n# select  \"ケラウノス\" \"select_label_1\" \"村正\" \"select_label_2\" \"パラシュ\" \"select_label_3\"\n私と仲がいいのはこの子だよ！\n"
+	},
+	{
+		"ID": 2482,
+		"unitID": 2600411,
+		"questionID": 9600432,
+		"script": ";;Taurus,2\n# voice 6004 \"kadokeusu_0022\"\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@カドケウス\nあれ？\nマスター…\n\n# face %(unit_a)s \"angry\"\n# textflame 1 1\n@カドケウス\n蜂よ！\n危ないッ！！\n\n# voice 6004 \"kadokeusu_0004\"\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@カドケウス\n…なんて、冗談よ♪\n\n# textflame 1 1\n@カドケウス\nマスターっていつも１００点の\nリアクションしてくれるから\n大好き♪\n\n# textflame 1 1\n@カドケウス\nイタズラのやりがいが\nあるってもんだわ\n\n# textflame 1 1\n@カドケウス\nで、突然ですが\n今からクイズを出します！\n\n# textflame 1 1\n@カドケウス\n…てことで、\nちゃんと答えてね？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の星座を英語で言うと？\n\n# se \"SE_0734\"\n# select  \"Cancer\" \"select_label_1\" \"Taurus\" \"select_label_2\" \"Scorpio\" \"select_label_3\"\n私の星座を英語で言うと？\n"
+	},
+	{
+		"ID": 2483,
+		"unitID": 2600411,
+		"questionID": 9600433,
+		"script": ";;May,3\n# voice 6004 \"kadokeusu_0022\"\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@カドケウス\nあれ？\nマスター…\n\n# face %(unit_a)s \"angry\"\n# textflame 1 1\n@カドケウス\n蜂よ！\n危ないッ！！\n\n# voice 6004 \"kadokeusu_0004\"\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@カドケウス\n…なんて、冗談よ♪\n\n# textflame 1 1\n@カドケウス\nマスターっていつも１００点の\nリアクションしてくれるから\n大好き♪\n\n# textflame 1 1\n@カドケウス\nイタズラのやりがいが\nあるってもんだわ\n\n# textflame 1 1\n@カドケウス\nで、突然ですが\n今からクイズを出します！\n\n# textflame 1 1\n@カドケウス\n…てことで、\nちゃんと答えてね？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の誕生月を英語で言うと？\n\n# se \"SE_0734\"\n# select  \"June\" \"select_label_1\" \"March\" \"select_label_2\" \"May\" \"select_label_3\"\n私の誕生月を英語で言うと？\n"
+	},
+	{
+		"ID": 2484,
+		"unitID": 2600411,
+		"questionID": 9600434,
+		"script": ";;赤紫色,1\n# voice 6004 \"kadokeusu_0022\"\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@カドケウス\nあれ？\nマスター…\n\n# face %(unit_a)s \"angry\"\n# textflame 1 1\n@カドケウス\n蜂よ！\n危ないッ！！\n\n# voice 6004 \"kadokeusu_0004\"\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@カドケウス\n…なんて、冗談よ♪\n\n# textflame 1 1\n@カドケウス\nマスターっていつも１００点の\nリアクションしてくれるから\n大好き♪\n\n# textflame 1 1\n@カドケウス\nイタズラのやりがいが\nあるってもんだわ\n\n# textflame 1 1\n@カドケウス\nで、突然ですが\n今からクイズを出します！\n\n# textflame 1 1\n@カドケウス\n…てことで、\nちゃんと答えてね？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の瞳の色は\nなに色だったかな？\n\n# se \"SE_0734\"\n# select  \"赤紫色\" \"select_label_1\" \"黄色\" \"select_label_2\" \"黒色\" \"select_label_3\"\n私の瞳の色は\nなに色だったかな？\n"
+	},
+	{
+		"ID": 2485,
+		"unitID": 2600411,
+		"questionID": 9600435,
+		"script": ";;赤紫色,2\n# voice 6004 \"kadokeusu_0022\"\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@カドケウス\nあれ？\nマスター…\n\n# face %(unit_a)s \"angry\"\n# textflame 1 1\n@カドケウス\n蜂よ！\n危ないッ！！\n\n# voice 6004 \"kadokeusu_0004\"\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@カドケウス\n…なんて、冗談よ♪\n\n# textflame 1 1\n@カドケウス\nマスターっていつも１００点の\nリアクションしてくれるから\n大好き♪\n\n# textflame 1 1\n@カドケウス\nイタズラのやりがいが\nあるってもんだわ\n\n# textflame 1 1\n@カドケウス\nで、突然ですが\n今からクイズを出します！\n\n# textflame 1 1\n@カドケウス\n…てことで、\nちゃんと答えてね？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の髪の色を答えてくれる？\n\n# se \"SE_0734\"\n# select  \"黒色\" \"select_label_1\" \"赤紫色\" \"select_label_2\" \"茶色\" \"select_label_3\"\n私の髪の色を答えてくれる？\n"
+	},
+	{
+		"ID": 2486,
+		"unitID": 2600411,
+		"questionID": 9600436,
+		"script": ";;フルート,3\n# voice 6004 \"kadokeusu_0022\"\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@カドケウス\nあれ？\nマスター…\n\n# face %(unit_a)s \"angry\"\n# textflame 1 1\n@カドケウス\n蜂よ！\n危ないッ！！\n\n# voice 6004 \"kadokeusu_0004\"\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@カドケウス\n…なんて、冗談よ♪\n\n# textflame 1 1\n@カドケウス\nマスターっていつも１００点の\nリアクションしてくれるから\n大好き♪\n\n# textflame 1 1\n@カドケウス\nイタズラのやりがいが\nあるってもんだわ\n\n# textflame 1 1\n@カドケウス\nで、突然ですが\n今からクイズを出します！\n\n# textflame 1 1\n@カドケウス\n…てことで、\nちゃんと答えてね？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n「ディボートケイン」を習得する時に\n私がマスターに吹いてみせた\n楽器…覚えてるわよね？\n\n# se \"SE_0734\"\n# select  \"オカリナ\" \"select_label_1\" \"尺八\" \"select_label_2\" \"フルート\" \"select_label_3\"\n「ディボートケイン」を習得する時に\n私がマスターに吹いてみせた\n楽器…覚えてるわよね？\n"
+	},
+	{
+		"ID": 2487,
+		"unitID": 2600411,
+		"questionID": 9600437,
+		"script": ";;悪戯,1\n# voice 6004 \"kadokeusu_0022\"\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@カドケウス\nあれ？\nマスター…\n\n# face %(unit_a)s \"angry\"\n# textflame 1 1\n@カドケウス\n蜂よ！\n危ないッ！！\n\n# voice 6004 \"kadokeusu_0004\"\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@カドケウス\n…なんて、冗談よ♪\n\n# textflame 1 1\n@カドケウス\nマスターっていつも１００点の\nリアクションしてくれるから\n大好き♪\n\n# textflame 1 1\n@カドケウス\nイタズラのやりがいが\nあるってもんだわ\n\n# textflame 1 1\n@カドケウス\nで、突然ですが\n今からクイズを出します！\n\n# textflame 1 1\n@カドケウス\n…てことで、\nちゃんと答えてね？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私はイタズラが大好きなんだけど…\nこの中でイタズラって読むのはどれ？\n\n# se \"SE_0734\"\n# select  \"悪戯\" \"select_label_1\" \"悪遊\" \"select_label_2\" \"悪罠\" \"select_label_3\"\n私はイタズラが大好きなんだけど…\nこの中でイタズラって読むのはどれ？\n"
+	},
+	{
+		"ID": 2488,
+		"unitID": 2600411,
+		"questionID": 9600438,
+		"script": ";;ペルーン,2\n# voice 6004 \"kadokeusu_0022\"\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@カドケウス\nあれ？\nマスター…\n\n# face %(unit_a)s \"angry\"\n# textflame 1 1\n@カドケウス\n蜂よ！\n危ないッ！！\n\n# voice 6004 \"kadokeusu_0004\"\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@カドケウス\n…なんて、冗談よ♪\n\n# textflame 1 1\n@カドケウス\nマスターっていつも１００点の\nリアクションしてくれるから\n大好き♪\n\n# textflame 1 1\n@カドケウス\nイタズラのやりがいが\nあるってもんだわ\n\n# textflame 1 1\n@カドケウス\nで、突然ですが\n今からクイズを出します！\n\n# textflame 1 1\n@カドケウス\n…てことで、\nちゃんと答えてね？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私と同じ血液型なのは\n誰かわかるかな？\n\n# se \"SE_0734\"\n# select  \"ロンゴミアント\" \"select_label_1\" \"ペルーン\" \"select_label_2\" \"ゲイボルグ\" \"select_label_3\"\n私と同じ血液型なのは\n誰かわかるかな？\n"
+	},
+	{
+		"ID": 2489,
+		"unitID": 2600411,
+		"questionID": 9600439,
+		"script": ";;与一,3\n# voice 6004 \"kadokeusu_0022\"\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@カドケウス\nあれ？\nマスター…\n\n# face %(unit_a)s \"angry\"\n# textflame 1 1\n@カドケウス\n蜂よ！\n危ないッ！！\n\n# voice 6004 \"kadokeusu_0004\"\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@カドケウス\n…なんて、冗談よ♪\n\n# textflame 1 1\n@カドケウス\nマスターっていつも１００点の\nリアクションしてくれるから\n大好き♪\n\n# textflame 1 1\n@カドケウス\nイタズラのやりがいが\nあるってもんだわ\n\n# textflame 1 1\n@カドケウス\nで、突然ですが\n今からクイズを出します！\n\n# textflame 1 1\n@カドケウス\n…てことで、\nちゃんと答えてね？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私と違う血液型なのは\n誰かわかるかな？\n\n# se \"SE_0734\"\n# select  \"ケーリュケイオン\" \"select_label_1\" \"ペルーン\" \"select_label_2\" \"与一\" \"select_label_3\"\n私と違う血液型なのは\n誰かわかるかな？\n"
+	},
+	{
+		"ID": 2490,
+		"unitID": 2600411,
+		"questionID": 9600440,
+		"script": ";;ケーリュケイオン,1\n# voice 6004 \"kadokeusu_0022\"\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@カドケウス\nあれ？\nマスター…\n\n# face %(unit_a)s \"angry\"\n# textflame 1 1\n@カドケウス\n蜂よ！\n危ないッ！！\n\n# voice 6004 \"kadokeusu_0004\"\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@カドケウス\n…なんて、冗談よ♪\n\n# textflame 1 1\n@カドケウス\nマスターっていつも１００点の\nリアクションしてくれるから\n大好き♪\n\n# textflame 1 1\n@カドケウス\nイタズラのやりがいが\nあるってもんだわ\n\n# textflame 1 1\n@カドケウス\nで、突然ですが\n今からクイズを出します！\n\n# textflame 1 1\n@カドケウス\n…てことで、\nちゃんと答えてね？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私と同じ誕生月なのは\n誰かわかるかな？\n\n# se \"SE_0734\"\n# select  \"ケーリュケイオン\" \"select_label_1\" \"ガンバンテイン\" \"select_label_2\" \"マサムネ\" \"select_label_3\"\n私と同じ誕生月なのは\n誰かわかるかな？\n"
+	},
+	{
+		"ID": 2491,
+		"unitID": 2600411,
+		"questionID": 9600441,
+		"script": "\n;;私,1\n# se \"SE_0734\"\n# select \"私\" \"select_label_1\" \"あたし\" \"select_label_2\" \"ボク\" \"select_label_3\"\nカドケウスの一人称は\n次のうちどれ？\n"
+	},
+	{
+		"ID": 2492,
+		"unitID": 2600411,
+		"questionID": 9600442,
+		"script": "\n;;マスター,1\n# se \"SE_0734\"\n# select \"マスター\" \"select_label_1\" \"ご主人\" \"select_label_2\" \"お前\" \"select_label_3\"\nカドケウスはアンタのこと、\nなんて呼んでる？\n"
+	},
+	{
+		"ID": 2493,
+		"unitID": 2600411,
+		"questionID": 9600443,
+		"script": "\n;;75,1\n# se \"SE_0734\"\n# select \"75\" \"select_label_1\" \"81\" \"select_label_2\" \"82\" \"select_label_3\"\nカドケウスの\nバストサイズがどのくらいか\nアンタ…知ってるの？\n"
+	},
+	{
+		"ID": 2494,
+		"unitID": 2600411,
+		"questionID": 9600444,
+		"script": "\n;;56,2\n# se \"SE_0734\"\n# select \"60\" \"select_label_1\" \"56\" \"select_label_2\" \"61\" \"select_label_3\"\nカドケウスの\nウエストサイズがどのくらいか\nアンタ…知ってるの？\n"
+	},
+	{
+		"ID": 2495,
+		"unitID": 2600411,
+		"questionID": 9600445,
+		"script": "\n;;77,2\n# se \"SE_0734\"\n# select \"79\" \"select_label_1\" \"77\" \"select_label_2\" \"85\" \"select_label_3\"\nカドケウスの\nヒップサイズがどのくらいか\nアンタ…知ってるの？\n"
+	},
+	{
+		"ID": 2496,
+		"unitID": 2600411,
+		"questionID": 9600446,
+		"script": "\n;;40,2\n# se \"SE_0734\"\n# select \"41\" \"select_label_1\" \"40\" \"select_label_2\" \"47\" \"select_label_3\"\nカドケウスの体重は\n次のうちどれ？\n"
+	},
+	{
+		"ID": 2497,
+		"unitID": 2600411,
+		"questionID": 9600447,
+		"script": "\n;;208,2\n# se \"SE_0734\"\n# select \"219\" \"select_label_1\" \"208\" \"select_label_2\" \"221\" \"select_label_3\"\nカドケウスの\nバスト＋ウエスト＋ヒップは\nいくつかわかる？\n"
+	},
+	{
+		"ID": 2498,
+		"unitID": 2600411,
+		"questionID": 9600448,
+		"script": "\n;;黒色,3\n# se \"SE_0734\"\n# select \"赤色\" \"select_label_1\" \"黄色\" \"select_label_2\" \"黒色\" \"select_label_3\"\nカドケウスの水着の色は\n次のうちどれ？\n"
+	},
+	{
+		"ID": 2499,
+		"unitID": 2600411,
+		"questionID": 9600449,
+		"script": "\n;;66位,3\n# se \"SE_0734\"\n# select \"38位\" \"select_label_1\" \"73位\" \"select_label_2\" \"66位\" \"select_label_3\"\nカドケウスは\n第２回人気投票で\n何位だったでしょう？\n"
+	},
+	{
+		"ID": 2500,
+		"unitID": 2600411,
+		"questionID": 9600450,
+		"script": "\n;;加藤英美里,3\n# se \"SE_0734\"\n# select \"遠藤綾\" \"select_label_1\" \"水原薫\" \"select_label_2\" \"加藤英美里\" \"select_label_3\"\nカドケウスの声優は誰？\n"
+	}
+]

@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 91038498,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# se \"SE_0733\"\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n;;-----------------------------------------\n@アルマス\n………\n\n# face %(unit_a)s \"sad\"\n@アルマス\n不正解\n\n@アルマス\nさすがに\n少し難しかったみたいね\n\n# face %(unit_a)s \"usual\"\n# voice 210381 \"almace_0004\"\n@アルマス\nちょっと、そんなに気にしないでよ\nほんの遊びだったんだから\n\n@アルマス\n急にクイズなんて出されたら\nマスターだって困るわよね\n\n# textflame 0 0\n@\n明るく振る舞っているが、\nどこか寂しそうな彼女\n\n# face %(unit_a)s \"usual\"\n# voice 210381 \"almace_0002\"\n# textflame 1 1\n@アルマス\nさ、もう帰りましょ\nみんなが待ってるわ\n\n# textflame 0 0\n@\n前を歩く彼女の肩は\n落ち込んでいるように見える\n\n# textflame 1 1\n@アルマス\nどうしたの？\n置いてくわよ\n\n# textflame 0 0\n@\n内心傷ついているであろう\n彼女を見て、\n激しく悔やむマスターであった\n\n;;-----------------------------------------\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

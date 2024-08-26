@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 94017299,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# se \"SE_0732\"\n# face %(unit_a)s \"smile\"\n# voice 4017 \"suiha_0005\"\n@スイハ\n正解ですね\n（やった～、当ててくれた～！）\n\n@スイハ\nまさか、こんなことまで…\n（知ってくれていて嬉しい！\nけど、少し恥ずかしい～！）\n\n# voice 4017 \"suiha_0004\"\n@スイハ\n私、マスターに興味がわきました\n（まさか、私のことなら\nなんでも知っているのかな…？）\n\n# face %(unit_a)s \"sad\"\n@スイハ\n（…って、私何言ってるの！？\n恥ずかしい恥ずかしい恥ずかしい\n恥ずかしい恥ずかしい恥ずかしい！）\n\n# textflame 0 0\n@\nスイハがその場でしゃがみ込み\nなにやら独り言をつぶやき始める\n\n@\n耳まで真っ赤になっている彼女が\n落ち着くまで\nずっとそばにいることにした…\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

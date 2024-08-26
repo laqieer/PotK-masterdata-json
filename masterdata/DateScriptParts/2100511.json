@@ -1,0 +1,26 @@
+[
+	{
+		"ID": 112,
+		"unitID": 2100511,
+		"scriptID": "kaerimichi",
+		"script": "マスターさえよければ\nもう少し一緒にいないか？\nこ、これは規律の範囲内だよな…？"
+	},
+	{
+		"ID": 126,
+		"unitID": 2100511,
+		"scriptID": "kaeru",
+		"script": "そろそろ帰宅の時間だ\n規律を反することは許さないぞ？"
+	},
+	{
+		"ID": 140,
+		"unitID": 2100511,
+		"scriptID": "kaeru_ok",
+		"script": "@%(unitName:unit_a)s\nふむ…良いだろう\nなら、今日は規律を破っても…\nって、ダメだダメだ！"
+	},
+	{
+		"ID": 154,
+		"unitID": 2100511,
+		"scriptID": "kaeru_ng",
+		"script": "@%(unitName:unit_a)s\nすまない\nこれ以上は規律違反だ\n帰らせていただく"
+	}
+]

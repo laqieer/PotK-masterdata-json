@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 100104091,
+		"script": ";;4_9_1\n# script \"lisp\"\n# textwindow \"close\"\n# background \"101_south_wall_2\"\n# bgmfile \"bgm264_265\" \"BgmLostRagnarokBattle001\" 0\n# body 137\n# pos 137 1\n# scale 137 0.8 0\n# body 136\n# pos 136 5\n# scale 136 0.8 0\n# body 3103811\n# pos 3103811 3\n# scale 3103811 0.8 0\n# layer 3103811 2\n# body 3830001\n# pos 3830001 3\n# scale 3830001 0.8 0\n# alpha 3830001 0 0\n# mask 3830001 off\n# textwindow \"nomal\"\n# face 137 \"usual\"\n# voice 9969 \"gill_0007\"\n# textboxarrow 0 1\n@ギル\n…よし、近くにいる兵士の数は\nたいしたことないぜ\n一気に突っ切ろう\n\n# voice 1038 \"almace_0003\"\n# face 3103811 \"angry\"\n# textboxarrow 0 2\n@アルマス\n任せて\nマスター、あなたも少しは\n役に立ってよね\n\n# voice 9968 \"nadia_0002\"\n# face 136 \"sad\"\n# textboxarrow 0 3\n@ナディア\n気をつけて下さいね…\n\n# serif 0\n# textwindow \"close\"\n# se \"SE_5575\"\n# alpha 136 0 0.5\n# alpha 137 0 0.5\n# alpha 3103811 0 0.5\n# waitandnext 1\n\n# serif 0\n# textwindow \"normal\"\n# voice 383000 \"cryptid_0023\"\n# alpha 3830001 1 0.5\n# textboxarrow 0 2\n@トレイセーマ兵\n…ん？\n標的を発見！！\n大変だーっ！"
+	}
+]

@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 92017198,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# se \"SE_0733\"\n# face %(unit_a)s \"sad\"\n# voice 2017 \"yagurushi_kyara_0011\"\n@ヤグルシ\nえぇ…\n\n# textflame 1 1\n@ヤグルシ\n君は、ヤグの事…\nあんまり見ていなかったんだね\n\n# textflame 1 1\n@ヤグルシ\nあ、でもでも…！\n\n# textflame 1 1\n@ヤグルシ\nもっとヤグのことを知って\n次は、正解してくれるよねー？\n\n# voice 2017 \"yagurushi_0036\"\n# textflame 1 1\n@ヤグルシ\nいっぱいいっぱい、\n期待、してるからねっ♪\n\n# textflame 0 0\n@\nヤグルシはそう言うと、\nじっとこちらを見つめる\n\n# textflame 0 0\n@\n彼女の期待に応えるためにも\nもっと彼女のことを\n勉強しよう…\n\n# textflame 0 0\n@\nそして、次こそは…！\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 32029121,
+		"script": ";;【レム】\n;;スキル効果　EP3：不明 \n;;※EP4：キャラクエなし\n;;【EP1】\n# script \"lisp\"\n# background \"plain\"\n# bgm \"bgm002\" 0\n# body 3202911\n# pos 3202911 3\n# scale 3202911 0.8 0\n# alpha 3202911 1 0\n# mask 3202911 off\n# textflame 1 1\n# textboxarrow 0 2\n# face 3202911 \"normal\"\n# voice 2029 \"remu_0002\"\n@レム\nレムはお役に立てていますか？\n\n# textflame 0 0\n@\nそう尋ねてきたレムに対し、\nもちろんと強く頷く\n\n# face 3202911 \"shy\"\n# imageset 1 \"c3202911\"\n# imagealpha 1 0 0\n# imagelayer 1 1\n@\nするとレムは照れたように\n微笑んだ\n\n;;■一枚絵指定\n;;背景：草原\n;;表情：照れ笑い\n;;構図：口元に手を当てて、照れ笑いをしているイメージです。\n;;ボイス：「言質、取りました。もう引っ込められませんよ」\n# textwindow \"close\"\n# fadein \"white\" 3\n# imagealpha 1 1 0\n# imagepos 1 0 0\n# alpha 3202911 0 0\n# voice 2029 \"remu_kyara_0013\"\n\n# frameout 0 1\n# waitandnext 0.8\n\n# fadeout \"black\" 2\n# waitandnext 2"
+	}
+]

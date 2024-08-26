@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 60211221,
+		"script": ";;ボス接触時\n# script \"lisp\"\n# body 602111\n# pos 602111 3\n# scale 602111 0.8 0\n# mask 602111 off\n# textflame 1 1\n# textboxarrow 0 2\n# face 602111 \"angry\"\n# voice 6021 \"lizbeth_battle_0004\"\n@リズベット\nもう、誰も悲しい思いなんて\nさせないよ！\n"
+	}
+]

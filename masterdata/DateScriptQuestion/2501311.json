@@ -1,0 +1,62 @@
+[
+	{
+		"ID": 6143,
+		"unitID": 2501311,
+		"questionID": 9501301,
+		"script": ";;銃,1\n# textflame 1 1\n# face %(unit_a)s \"angry\"\n# voice 5013 \"homura_0002\"\n@%(unitName:unit_a)s\n早く帰りましょう\n\n# textflame 0 0\n@\n彼女の突然の発言に、\nえ？どうして？と、\n驚いて尋ねるマスター\n\n# textflame 1 1\n@%(unitName:unit_a)s\n今日は少し、遊び過ぎたわ\n本当なら\n魔法少女に休息はないのよ\n\n# textflame 0 0\n@\n真面目な彼女に、\nマスターは提案する\n\n@\nじゃあ、今から君が出すクイズに\n僕が答えられたら、\nもう少しいるっていうのはどう？と\n\n# textflame 1 1\n@%(unitName:unit_a)s\nもう少し休んでいくということね\n\n# voice 5013 \"homura_0032\"\n@%(unitName:unit_a)s\nまあ、いいわ\n特別にその提案に乗ってあげる\n\n@%(unitName:unit_a)s\nじゃあ、いくわよ\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の武器はなに？　\n\n# se \"SE_0734\"\n# select \"銃\" \"select_label_1\" \"剣\" \"select_label_2\" \"弓\" \"select_label_3\"\n私の武器はなに？　\n"
+	},
+	{
+		"ID": 6144,
+		"unitID": 2501311,
+		"questionID": 9501302,
+		"script": ";;紫色,2\n# textflame 1 1\n# face %(unit_a)s \"angry\"\n# voice 5013 \"homura_0002\"\n@%(unitName:unit_a)s\n早く帰りましょう\n\n# textflame 0 0\n@\n彼女の突然の発言に、\nえ？どうして？と、\n驚いて尋ねるマスター\n\n# textflame 1 1\n@%(unitName:unit_a)s\n今日は少し、遊び過ぎたわ\n本当なら\n魔法少女に休息はないのよ\n\n# textflame 0 0\n@\n真面目な彼女に、\nマスターは提案する\n\n@\nじゃあ、今から君が出すクイズに\n僕が答えられたら、\nもう少しいるっていうのはどう？と\n\n# textflame 1 1\n@%(unitName:unit_a)s\nもう少し休んでいくということね\n\n# voice 5013 \"homura_0032\"\n@%(unitName:unit_a)s\nまあ、いいわ\n特別にその提案に乗ってあげる\n\n@%(unitName:unit_a)s\nじゃあ、いくわよ\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私のソウルジェムの色は\nわかる？\n\n# se \"SE_0734\"\n# select \"赤色\" \"select_label_1\" \"紫色\" \"select_label_2\" \"黄色\" \"select_label_3\"\n私のソウルジェムの色は\nわかる？\n"
+	},
+	{
+		"ID": 6145,
+		"unitID": 2501311,
+		"questionID": 9501303,
+		"script": ";;闇,3\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n@%(unitName:unit_a)s\n私は…\n\n@%(unitName:unit_a)s\n…今日みたいな\n寄り道をする日があっても\nいいのかもって思ったわ\n\n# voice 5013 \"homura_0004\"\n@%(unitName:unit_a)s\nだから、もう少し\n寄り道しようか\n迷ってるのよ\n\n# textflame 0 0\n@\n微笑む彼女を\n夏の夕陽が照らす\n\n@\nじゃあ君が出すクイズに、\n僕が正解できたら、\nもう少しだけ寄り道しようよ…と、\n\n@\nマスターが提案する\n\n# voice 5013 \"homura_0003\"\n# textflame 1 1\n@%(unitName:unit_a)s\nそれは面白いわね\nあなたに正解できるかしら\n\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の属性はどれ？\n\n# se \"SE_0734\"\n# select \"光\" \"select_label_1\" \"炎\" \"select_label_2\" \"闇\" \"select_label_3\"\n私の属性はどれ？\n"
+	},
+	{
+		"ID": 6146,
+		"unitID": 2501311,
+		"questionID": 9501304,
+		"script": ";;ダイヤ,1\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n@%(unitName:unit_a)s\n私は…\n\n@%(unitName:unit_a)s\n…今日みたいな\n寄り道をする日があっても\nいいのかもって思ったわ\n\n# voice 5013 \"homura_0004\"\n@%(unitName:unit_a)s\nだから、もう少し\n寄り道しようか\n迷ってるのよ\n\n# textflame 0 0\n@\n微笑む彼女を\n夏の夕陽が照らす\n\n@\nじゃあ君が出すクイズに、\n僕が正解できたら、\nもう少しだけ寄り道しようよ…と、\n\n@\nマスターが提案する\n\n# voice 5013 \"homura_0003\"\n# textflame 1 1\n@%(unitName:unit_a)s\nそれは面白いわね\nあなたに正解できるかしら\n\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私のソウルジェムの形は\nわかる？\n\n# se \"SE_0734\"\n# select \"ダイヤ\" \"select_label_1\" \"スペード\" \"select_label_2\" \"ハート\" \"select_label_3\"\n私のソウルジェムの形は\nわかる？\n"
+	},
+	{
+		"ID": 6147,
+		"unitID": 2501311,
+		"questionID": 9501305,
+		"script": ";;時間操作,2\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 5013 \"homura_0004\"\n@%(unitName:unit_a)s\n今日はいい休息になったわ\n\n@%(unitName:unit_a)s\nこんな日が、\nまた来ればいいのに…\nそう思うほどにね\n\n# face %(unit_a)s \"angry\"\n@%(unitName:unit_a)s\n明日からは\nまた戦いの日々が\n続いていくのね\n\n@%(unitName:unit_a)s\n戦いではあなたとの\n連携が不可欠よ\n\n# voice 5013 \"homura_0002\"\n@%(unitName:unit_a)s\nねぇ、試してもいい？\n\n@%(unitName:unit_a)s\nあなたは私のこと…\nどれくらいわかっているのか\n\n@%(unitName:unit_a)s\n私のことを知っていれば\nそれだけ連携も取りやすくなるわ\n\n@%(unitName:unit_a)s\nいくわよ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の魔法少女としての能力は？\n\n# se \"SE_0734\"\n# select \"着ぐるみになれる\" \"select_label_1\" \"時間操作\" \"select_label_2\" \"大きくなれる\" \"select_label_3\"\n私の魔法少女としての能力は？\n"
+	},
+	{
+		"ID": 6148,
+		"unitID": 2501311,
+		"questionID": 9501306,
+		"script": ";;心臓病,3\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 5013 \"homura_0004\"\n@%(unitName:unit_a)s\n今日はいい休息になったわ\n\n@%(unitName:unit_a)s\nこんな日が、\nまた来ればいいのに…\nそう思うほどにね\n\n# face %(unit_a)s \"angry\"\n@%(unitName:unit_a)s\n明日からは\nまた戦いの日々が\n続いていくのね\n\n@%(unitName:unit_a)s\n戦いではあなたとの\n連携が不可欠よ\n\n# voice 5013 \"homura_0002\"\n@%(unitName:unit_a)s\nねぇ、試してもいい？\n\n@%(unitName:unit_a)s\nあなたは私のこと…\nどれくらいわかっているのか\n\n@%(unitName:unit_a)s\n私のことを知っていれば\nそれだけ連携も取りやすくなるわ\n\n@%(unitName:unit_a)s\nいくわよ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私が患った病気は？\n\n# se \"SE_0734\"\n# select \"胃潰瘍\" \"select_label_1\" \"神経痛\" \"select_label_2\" \"心臓病\" \"select_label_3\"\n私が患った病気は？\n"
+	},
+	{
+		"ID": 6149,
+		"unitID": 2501311,
+		"questionID": 9501307,
+		"script": ";;黒色,1\n# textflame 1 1\n# voice 5013 \"homura_0002\"\n@%(unitName:unit_a)s\n今日は私にとって\n特別な一日になったわ\n\n@%(unitName:unit_a)s\n今日…\n改めて思ったことがあるの\n\n# textflame 0 0\n@\nえ？なに？\n尋ねるマスターに、\n彼女は答える\n\n# textflame 1 1\n# voice 5013 \"homura_0004\"\n@%(unitName:unit_a)s\n今から私が出す問いに\n答えられたら…\n\n@%(unitName:unit_a)s\n教えてあげるわ\n\n@%(unitName:unit_a)s\n準備はいい？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の髪の色は？\n\n# se \"SE_0734\"\n# select \"黒色\" \"select_label_1\" \"赤色\" \"select_label_2\" \"黄色\" \"select_label_3\"\n私の髪の色は？\n"
+	},
+	{
+		"ID": 6150,
+		"unitID": 2501311,
+		"questionID": 9501308,
+		"script": ";;盾,2\n# textflame 1 1\n# voice 5013 \"homura_0002\"\n@%(unitName:unit_a)s\n今日は私にとって\n特別な一日になったわ\n\n@%(unitName:unit_a)s\n今日…\n改めて思ったことがあるの\n\n# textflame 0 0\n@\nえ？なに？\n尋ねるマスターに、\n彼女は答える\n\n# textflame 1 1\n# voice 5013 \"homura_0004\"\n@%(unitName:unit_a)s\n今から私が出す問いに\n答えられたら…\n\n@%(unitName:unit_a)s\n教えてあげるわ\n\n@%(unitName:unit_a)s\n準備はいい？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私は銃のほかに\nこれを持っているわ\n\n# se \"SE_0734\"\n# select \"剣\" \"select_label_1\" \"盾\" \"select_label_2\" \"槍\" \"select_label_3\"\n私は銃のほかに\nこれを持っているわ\n"
+	},
+	{
+		"ID": 6151,
+		"unitID": 2501311,
+		"questionID": 9501309,
+		"script": "\n;;わたし,3\n# se \"SE_0734\"\n# select \"オレ\" \"select_label_1\" \"ほむら\" \"select_label_2\" \"わたし\" \"select_label_3\"\n暁美 ほむらの一人称は\n次のうちどれ？\n"
+	},
+	{
+		"ID": 6152,
+		"unitID": 2501311,
+		"questionID": 9501310,
+		"script": "\n;;斎藤千和,1\n# se \"SE_0734\"\n# select \"斎藤千和\" \"select_label_1\" \"水橋かおり\" \"select_label_2\" \"喜多村英梨\" \"select_label_3\"\n暁美 ほむらの声優は誰？\n"
+	}
+]

@@ -1,0 +1,302 @@
+[
+	{
+		"ID": 2501,
+		"unitID": 2600511,
+		"questionID": 9600501,
+		"script": ";;ヘルメース,1\n# voice 6005 \"keryukeion_0001\"\n# textflame 1 1\n@ケーリュケイオン\nねぇ、マスター\nちょっとこっち見て？\n\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@ケーリュケイオン\n今から私とゲームをしない？\nなんか思いついちゃったんだ♪\n\n# face %(unit_a)s \"normal\"\n# textflame 1 1\n@ケーリュケイオン\n…なんてね\n本当は、もっとマスターと\n仲良くなりたいんだ\n\n# textflame 0 0\n@\nケーリュケイオンは笑顔で\nこちらを見上げているが\n真剣な眼差しだった\n\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@ケーリュケイオン\nだから、私の質問に、\nちゃーんと答えてね♪\n\n# voice 6005 \"keryukeion_0004\"\n# textflame 1 1\n@ケーリュケイオン\nわからなかったら\n後でじっくり教えてあげる♪\n対価は、君と…ううん、内緒！\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私のキラーズ『ケーリュケイオン』の\n持ち主はだーれだ？\n\n# se \"SE_0734\"\n# select  \"ヘルメース\" \"select_label_1\" \"ゼウス\" \"select_label_2\" \"イナンナ\" \"select_label_3\"\n私のキラーズ『ケーリュケイオン』の\n持ち主はだーれだ？\n"
+	},
+	{
+		"ID": 2502,
+		"unitID": 2600511,
+		"questionID": 9600502,
+		"script": ";;ギリシャ神話,2\n# voice 6005 \"keryukeion_0001\"\n# textflame 1 1\n@ケーリュケイオン\nねぇ、マスター\nちょっとこっち見て？\n\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@ケーリュケイオン\n今から私とゲームをしない？\nなんか思いついちゃったんだ♪\n\n# face %(unit_a)s \"normal\"\n# textflame 1 1\n@ケーリュケイオン\n…なんてね\n本当は、もっとマスターと\n仲良くなりたいんだ\n\n# textflame 0 0\n@\nケーリュケイオンは笑顔で\nこちらを見上げているが\n真剣な眼差しだった\n\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@ケーリュケイオン\nだから、私の質問に、\nちゃーんと答えてね♪\n\n# voice 6005 \"keryukeion_0004\"\n# textflame 1 1\n@ケーリュケイオン\nわからなかったら\n後でじっくり教えてあげる♪\n対価は、君と…ううん、内緒！\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私のキラーズ『ケーリュケイオン』は\nどんな神話に出てくる武器かな？\n\n# se \"SE_0734\"\n# select  \"ヘブライ神話\" \"select_label_1\" \"ギリシャ神話\" \"select_label_2\" \"ケルト神話\" \"select_label_3\"\n私のキラーズ『ケーリュケイオン』は\nどんな神話に出てくる武器かな？\n"
+	},
+	{
+		"ID": 2503,
+		"unitID": 2600511,
+		"questionID": 9600503,
+		"script": ";;杖,3\n# voice 6005 \"keryukeion_0001\"\n# textflame 1 1\n@ケーリュケイオン\nねぇ、マスター\nちょっとこっち見て？\n\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@ケーリュケイオン\n今から私とゲームをしない？\nなんか思いついちゃったんだ♪\n\n# face %(unit_a)s \"normal\"\n# textflame 1 1\n@ケーリュケイオン\n…なんてね\n本当は、もっとマスターと\n仲良くなりたいんだ\n\n# textflame 0 0\n@\nケーリュケイオンは笑顔で\nこちらを見上げているが\n真剣な眼差しだった\n\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@ケーリュケイオン\nだから、私の質問に、\nちゃーんと答えてね♪\n\n# voice 6005 \"keryukeion_0004\"\n# textflame 1 1\n@ケーリュケイオン\nわからなかったら\n後でじっくり教えてあげる♪\n対価は、君と…ううん、内緒！\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私のキラーズ『ケーリュケイオン』は\nどんな武器って言われてるかわかる？\n\n# se \"SE_0734\"\n# select  \"槍\" \"select_label_1\" \"斧\" \"select_label_2\" \"杖\" \"select_label_3\"\n私のキラーズ『ケーリュケイオン』は\nどんな武器って言われてるかわかる？\n"
+	},
+	{
+		"ID": 2504,
+		"unitID": 2600511,
+		"questionID": 9600504,
+		"script": ";;アポロン,1\n# voice 6005 \"keryukeion_0001\"\n# textflame 1 1\n@ケーリュケイオン\nねぇ、マスター\nちょっとこっち見て？\n\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@ケーリュケイオン\n今から私とゲームをしない？\nなんか思いついちゃったんだ♪\n\n# face %(unit_a)s \"normal\"\n# textflame 1 1\n@ケーリュケイオン\n…なんてね\n本当は、もっとマスターと\n仲良くなりたいんだ\n\n# textflame 0 0\n@\nケーリュケイオンは笑顔で\nこちらを見上げているが\n真剣な眼差しだった\n\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@ケーリュケイオン\nだから、私の質問に、\nちゃーんと答えてね♪\n\n# voice 6005 \"keryukeion_0004\"\n# textflame 1 1\n@ケーリュケイオン\nわからなかったら\n後でじっくり教えてあげる♪\n対価は、君と…ううん、内緒！\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私のキラーズ『ケーリュケイオン』の\n持ち主はある人から葦笛と引き換えに\n私を手に入れたんだけど、この人は？\n\n# se \"SE_0734\"\n# select  \"アポロン\" \"select_label_1\" \"ウーラノス\" \"select_label_2\" \"アレース\" \"select_label_3\"\n私のキラーズ『ケーリュケイオン』の\n持ち主はある人から葦笛と引き換えに\n私を手に入れたんだけど、この人は？\n"
+	},
+	{
+		"ID": 2505,
+		"unitID": 2600511,
+		"questionID": 9600505,
+		"script": ";;ゼウス,2\n# voice 6005 \"keryukeion_0001\"\n# textflame 1 1\n@ケーリュケイオン\nねぇ、マスター\nちょっとこっち見て？\n\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@ケーリュケイオン\n今から私とゲームをしない？\nなんか思いついちゃったんだ♪\n\n# face %(unit_a)s \"normal\"\n# textflame 1 1\n@ケーリュケイオン\n…なんてね\n本当は、もっとマスターと\n仲良くなりたいんだ\n\n# textflame 0 0\n@\nケーリュケイオンは笑顔で\nこちらを見上げているが\n真剣な眼差しだった\n\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@ケーリュケイオン\nだから、私の質問に、\nちゃーんと答えてね♪\n\n# voice 6005 \"keryukeion_0004\"\n# textflame 1 1\n@ケーリュケイオン\nわからなかったら\n後でじっくり教えてあげる♪\n対価は、君と…ううん、内緒！\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私のキラーズ『ケーリュケイオン』の\n持ち主の、父親の名前はわかる？\n\n# se \"SE_0734\"\n# select  \"アポロン\" \"select_label_1\" \"ゼウス\" \"select_label_2\" \"サタン\" \"select_label_3\"\n私のキラーズ『ケーリュケイオン』の\n持ち主の、父親の名前はわかる？\n"
+	},
+	{
+		"ID": 2506,
+		"unitID": 2600511,
+		"questionID": 9600506,
+		"script": ";;青年神,3\n# voice 6005 \"keryukeion_0001\"\n# textflame 1 1\n@ケーリュケイオン\nねぇ、マスター\nちょっとこっち見て？\n\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@ケーリュケイオン\n今から私とゲームをしない？\nなんか思いついちゃったんだ♪\n\n# face %(unit_a)s \"normal\"\n# textflame 1 1\n@ケーリュケイオン\n…なんてね\n本当は、もっとマスターと\n仲良くなりたいんだ\n\n# textflame 0 0\n@\nケーリュケイオンは笑顔で\nこちらを見上げているが\n真剣な眼差しだった\n\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@ケーリュケイオン\nだから、私の質問に、\nちゃーんと答えてね♪\n\n# voice 6005 \"keryukeion_0004\"\n# textflame 1 1\n@ケーリュケイオン\nわからなかったら\n後でじっくり教えてあげる♪\n対価は、君と…ううん、内緒！\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私のキラーズ『ケーリュケイオン』の\n持ち主は、どんな神様だった？\n\n# se \"SE_0734\"\n# select  \"男神\" \"select_label_1\" \"女神\" \"select_label_2\" \"青年神\" \"select_label_3\"\n私のキラーズ『ケーリュケイオン』の\n持ち主は、どんな神様だった？\n"
+	},
+	{
+		"ID": 2507,
+		"unitID": 2600511,
+		"questionID": 9600507,
+		"script": ";;オリュンポス十二神,1\n# voice 6005 \"keryukeion_0001\"\n# textflame 1 1\n@ケーリュケイオン\nねぇ、マスター\nちょっとこっち見て？\n\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@ケーリュケイオン\n今から私とゲームをしない？\nなんか思いついちゃったんだ♪\n\n# face %(unit_a)s \"normal\"\n# textflame 1 1\n@ケーリュケイオン\n…なんてね\n本当は、もっとマスターと\n仲良くなりたいんだ\n\n# textflame 0 0\n@\nケーリュケイオンは笑顔で\nこちらを見上げているが\n真剣な眼差しだった\n\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@ケーリュケイオン\nだから、私の質問に、\nちゃーんと答えてね♪\n\n# voice 6005 \"keryukeion_0004\"\n# textflame 1 1\n@ケーリュケイオン\nわからなかったら\n後でじっくり教えてあげる♪\n対価は、君と…ううん、内緒！\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私のキラーズ『ケーリュケイオン』の\n持ち主は“なんとかの一柱”って\n言われてたんだけど、わかる？\n\n# se \"SE_0734\"\n# select  \"オリュンポス十二神\" \"select_label_1\" \"オリュンポス十神\" \"select_label_2\" \"オリュンポス七神\" \"select_label_3\"\n私のキラーズ『ケーリュケイオン』の\n持ち主は“なんとかの一柱”って\n言われてたんだけど、わかる？\n"
+	},
+	{
+		"ID": 2508,
+		"unitID": 2600511,
+		"questionID": 9600508,
+		"script": ";;旅人,2\n# voice 6005 \"keryukeion_0001\"\n# textflame 1 1\n@ケーリュケイオン\nねぇ、マスター\nちょっとこっち見て？\n\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@ケーリュケイオン\n今から私とゲームをしない？\nなんか思いついちゃったんだ♪\n\n# face %(unit_a)s \"normal\"\n# textflame 1 1\n@ケーリュケイオン\n…なんてね\n本当は、もっとマスターと\n仲良くなりたいんだ\n\n# textflame 0 0\n@\nケーリュケイオンは笑顔で\nこちらを見上げているが\n真剣な眼差しだった\n\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@ケーリュケイオン\nだから、私の質問に、\nちゃーんと答えてね♪\n\n# voice 6005 \"keryukeion_0004\"\n# textflame 1 1\n@ケーリュケイオン\nわからなかったら\n後でじっくり教えてあげる♪\n対価は、君と…ううん、内緒！\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私のキラーズ『ケーリュケイオン』の\n持ち主は、なにの守護神って\n言われてたかわかる？\n\n# se \"SE_0734\"\n# select  \"大地\" \"select_label_1\" \"旅人\" \"select_label_2\" \"生命\" \"select_label_3\"\n私のキラーズ『ケーリュケイオン』の\n持ち主は、なにの守護神って\n言われてたかわかる？\n"
+	},
+	{
+		"ID": 2509,
+		"unitID": 2600511,
+		"questionID": 9600509,
+		"script": ";;使者,3\n# voice 6005 \"keryukeion_0001\"\n# textflame 1 1\n@ケーリュケイオン\nねぇ、マスター\nちょっとこっち見て？\n\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@ケーリュケイオン\n今から私とゲームをしない？\nなんか思いついちゃったんだ♪\n\n# face %(unit_a)s \"normal\"\n# textflame 1 1\n@ケーリュケイオン\n…なんてね\n本当は、もっとマスターと\n仲良くなりたいんだ\n\n# textflame 0 0\n@\nケーリュケイオンは笑顔で\nこちらを見上げているが\n真剣な眼差しだった\n\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@ケーリュケイオン\nだから、私の質問に、\nちゃーんと答えてね♪\n\n# voice 6005 \"keryukeion_0004\"\n# textflame 1 1\n@ケーリュケイオン\nわからなかったら\n後でじっくり教えてあげる♪\n対価は、君と…ううん、内緒！\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私のキラーズ『ケーリュケイオン』は\n一般的にどんな人が持つ杖だった？\n\n# se \"SE_0734\"\n# select  \"賢者\" \"select_label_1\" \"覇者\" \"select_label_2\" \"使者\" \"select_label_3\"\n私のキラーズ『ケーリュケイオン』は\n一般的にどんな人が持つ杖だった？\n"
+	},
+	{
+		"ID": 2510,
+		"unitID": 2600511,
+		"questionID": 9600510,
+		"script": ";;伝令役,1\n# voice 6005 \"keryukeion_0001\"\n# textflame 1 1\n@ケーリュケイオン\nねぇ、マスター\nちょっとこっち見て？\n\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@ケーリュケイオン\n今から私とゲームをしない？\nなんか思いついちゃったんだ♪\n\n# face %(unit_a)s \"normal\"\n# textflame 1 1\n@ケーリュケイオン\n…なんてね\n本当は、もっとマスターと\n仲良くなりたいんだ\n\n# textflame 0 0\n@\nケーリュケイオンは笑顔で\nこちらを見上げているが\n真剣な眼差しだった\n\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@ケーリュケイオン\nだから、私の質問に、\nちゃーんと答えてね♪\n\n# voice 6005 \"keryukeion_0004\"\n# textflame 1 1\n@ケーリュケイオン\nわからなかったら\n後でじっくり教えてあげる♪\n対価は、君と…ううん、内緒！\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私のキラーズ『ケーリュケイオン』の\n持ち主は、神々の何役を務めてた？\n\n# se \"SE_0734\"\n# select  \"伝令役\" \"select_label_1\" \"接待役\" \"select_label_2\" \"指示役\" \"select_label_3\"\n私のキラーズ『ケーリュケイオン』の\n持ち主は、神々の何役を務めてた？\n"
+	},
+	{
+		"ID": 2511,
+		"unitID": 2600511,
+		"questionID": 9600511,
+		"script": ";;闇,1\n# voice 6005 \"keryukeion_0001\"\n# textflame 1 1\n@ケーリュケイオン\nねえ、マスター…\n\n# textflame 1 1\n@ケーリュケイオン\nマスターって、私のこと\nどのくらい知ってる？\n\n# textflame 0 0\n@\nマスターが首を傾げると、\nケーリュケイオンが真剣な\n眼差しでこちらを見ている\n\n# textflame 1 1\n@ケーリュケイオン\n私は君のいろんなこと\nたっくさん知ってるよ♪\nだからかな…ちょっと気になるの\n\n# voice 6005 \"keryukeion_0036\"\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@ケーリュケイオン\nテストしてみていい？\n今から私が質問するから\nそれに答えてよ、ねっ♪\n\n# textflame 0 0\n@\nマスターが頷く前に、\nケーリュケイオンのテストが\n始まってしまった…\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私の属性、もちろんわかるよね？\n\n# se \"SE_0734\"\n# select  \"闇\" \"select_label_1\" \"氷\" \"select_label_2\" \"雷\" \"select_label_3\"\n私の属性、もちろんわかるよね？\n"
+	},
+	{
+		"ID": 2512,
+		"unitID": 2600511,
+		"questionID": 9600512,
+		"script": ";;5月10日,2\n# voice 6005 \"keryukeion_0001\"\n# textflame 1 1\n@ケーリュケイオン\nねえ、マスター…\n\n# textflame 1 1\n@ケーリュケイオン\nマスターって、私のこと\nどのくらい知ってる？\n\n# textflame 0 0\n@\nマスターが首を傾げると、\nケーリュケイオンが真剣な\n眼差しでこちらを見ている\n\n# textflame 1 1\n@ケーリュケイオン\n私は君のいろんなこと\nたっくさん知ってるよ♪\nだからかな…ちょっと気になるの\n\n# voice 6005 \"keryukeion_0036\"\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@ケーリュケイオン\nテストしてみていい？\n今から私が質問するから\nそれに答えてよ、ねっ♪\n\n# textflame 0 0\n@\nマスターが頷く前に、\nケーリュケイオンのテストが\n始まってしまった…\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私の誕生日は何月何日？\nまさか忘れたなんて言わないよね？\n\n# se \"SE_0734\"\n# select  \"8月21日\" \"select_label_1\" \"5月10日\" \"select_label_2\" \"2月29日\" \"select_label_3\"\n私の誕生日は何月何日？\nまさか忘れたなんて言わないよね？\n"
+	},
+	{
+		"ID": 2513,
+		"unitID": 2600511,
+		"questionID": 9600513,
+		"script": ";;おうし座,3\n# voice 6005 \"keryukeion_0001\"\n# textflame 1 1\n@ケーリュケイオン\nねえ、マスター…\n\n# textflame 1 1\n@ケーリュケイオン\nマスターって、私のこと\nどのくらい知ってる？\n\n# textflame 0 0\n@\nマスターが首を傾げると、\nケーリュケイオンが真剣な\n眼差しでこちらを見ている\n\n# textflame 1 1\n@ケーリュケイオン\n私は君のいろんなこと\nたっくさん知ってるよ♪\nだからかな…ちょっと気になるの\n\n# voice 6005 \"keryukeion_0036\"\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@ケーリュケイオン\nテストしてみていい？\n今から私が質問するから\nそれに答えてよ、ねっ♪\n\n# textflame 0 0\n@\nマスターが頷く前に、\nケーリュケイオンのテストが\n始まってしまった…\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私は何座でしょーか？\nあえて間違えるっていうのは\nなしだからね♪\n\n# se \"SE_0734\"\n# select  \"さそり座\" \"select_label_1\" \"おひつじ座\" \"select_label_2\" \"おうし座\" \"select_label_3\"\n私は何座でしょーか？\nあえて間違えるっていうのは\nなしだからね♪\n"
+	},
+	{
+		"ID": 2514,
+		"unitID": 2600511,
+		"questionID": 9600514,
+		"script": ";;いじわる,1\n# voice 6005 \"keryukeion_0001\"\n# textflame 1 1\n@ケーリュケイオン\nねえ、マスター…\n\n# textflame 1 1\n@ケーリュケイオン\nマスターって、私のこと\nどのくらい知ってる？\n\n# textflame 0 0\n@\nマスターが首を傾げると、\nケーリュケイオンが真剣な\n眼差しでこちらを見ている\n\n# textflame 1 1\n@ケーリュケイオン\n私は君のいろんなこと\nたっくさん知ってるよ♪\nだからかな…ちょっと気になるの\n\n# voice 6005 \"keryukeion_0036\"\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@ケーリュケイオン\nテストしてみていい？\n今から私が質問するから\nそれに答えてよ、ねっ♪\n\n# textflame 0 0\n@\nマスターが頷く前に、\nケーリュケイオンのテストが\n始まってしまった…\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私の趣味なんて、\n君はとっくに知ってるよね♪\n\n# se \"SE_0734\"\n# select  \"いじわる\" \"select_label_1\" \"家庭菜園\" \"select_label_2\" \"ぼーっとする\" \"select_label_3\"\n私の趣味なんて、\n君はとっくに知ってるよね♪\n"
+	},
+	{
+		"ID": 2515,
+		"unitID": 2600511,
+		"questionID": 9600515,
+		"script": ";;カドケウス,2\n# voice 6005 \"keryukeion_0001\"\n# textflame 1 1\n@ケーリュケイオン\nねえ、マスター…\n\n# textflame 1 1\n@ケーリュケイオン\nマスターって、私のこと\nどのくらい知ってる？\n\n# textflame 0 0\n@\nマスターが首を傾げると、\nケーリュケイオンが真剣な\n眼差しでこちらを見ている\n\n# textflame 1 1\n@ケーリュケイオン\n私は君のいろんなこと\nたっくさん知ってるよ♪\nだからかな…ちょっと気になるの\n\n# voice 6005 \"keryukeion_0036\"\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@ケーリュケイオン\nテストしてみていい？\n今から私が質問するから\nそれに答えてよ、ねっ♪\n\n# textflame 0 0\n@\nマスターが頷く前に、\nケーリュケイオンのテストが\n始まってしまった…\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私の双子の妹の名前、わかるよね？\n\n# se \"SE_0734\"\n# select  \"アポロン\" \"select_label_1\" \"カドケウス\" \"select_label_2\" \"ケラウノス\" \"select_label_3\"\n私の双子の妹の名前、わかるよね？\n"
+	},
+	{
+		"ID": 2516,
+		"unitID": 2600511,
+		"questionID": 9600516,
+		"script": ";;芭蕉扇,3\n# voice 6005 \"keryukeion_0001\"\n# textflame 1 1\n@ケーリュケイオン\nねえ、マスター…\n\n# textflame 1 1\n@ケーリュケイオン\nマスターって、私のこと\nどのくらい知ってる？\n\n# textflame 0 0\n@\nマスターが首を傾げると、\nケーリュケイオンが真剣な\n眼差しでこちらを見ている\n\n# textflame 1 1\n@ケーリュケイオン\n私は君のいろんなこと\nたっくさん知ってるよ♪\nだからかな…ちょっと気になるの\n\n# voice 6005 \"keryukeion_0036\"\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@ケーリュケイオン\nテストしてみていい？\n今から私が質問するから\nそれに答えてよ、ねっ♪\n\n# textflame 0 0\n@\nマスターが頷く前に、\nケーリュケイオンのテストが\n始まってしまった…\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私のライバルの名前って知ってる？\nいや、知らなくてもいいんだけど\nほらあのおばさ…ふふっ\n\n# se \"SE_0734\"\n# select  \"草薙剣\" \"select_label_1\" \"蜻蛉切\" \"select_label_2\" \"芭蕉扇\" \"select_label_3\"\n私のライバルの名前って知ってる？\nいや、知らなくてもいいんだけど\nほらあのおばさ…ふふっ\n"
+	},
+	{
+		"ID": 2517,
+		"unitID": 2600511,
+		"questionID": 9600517,
+		"script": ";;夜,1\n# voice 6005 \"keryukeion_0001\"\n# textflame 1 1\n@ケーリュケイオン\nねえ、マスター…\n\n# textflame 1 1\n@ケーリュケイオン\nマスターって、私のこと\nどのくらい知ってる？\n\n# textflame 0 0\n@\nマスターが首を傾げると、\nケーリュケイオンが真剣な\n眼差しでこちらを見ている\n\n# textflame 1 1\n@ケーリュケイオン\n私は君のいろんなこと\nたっくさん知ってるよ♪\nだからかな…ちょっと気になるの\n\n# voice 6005 \"keryukeion_0036\"\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@ケーリュケイオン\nテストしてみていい？\n今から私が質問するから\nそれに答えてよ、ねっ♪\n\n# textflame 0 0\n@\nマスターが頷く前に、\nケーリュケイオンのテストが\n始まってしまった…\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私のスキル『骸蛇ノ悪夢』を\n生み出したのは、一日のうちいつ？\n\n# se \"SE_0734\"\n# select  \"夜\" \"select_label_1\" \"昼\" \"select_label_2\" \"朝\" \"select_label_3\"\n私のスキル『骸蛇ノ悪夢』を\n生み出したのは、一日のうちいつ？\n"
+	},
+	{
+		"ID": 2518,
+		"unitID": 2600511,
+		"questionID": 9600518,
+		"script": ";;オリュンポス,2\n# voice 6005 \"keryukeion_0001\"\n# textflame 1 1\n@ケーリュケイオン\nねえ、マスター…\n\n# textflame 1 1\n@ケーリュケイオン\nマスターって、私のこと\nどのくらい知ってる？\n\n# textflame 0 0\n@\nマスターが首を傾げると、\nケーリュケイオンが真剣な\n眼差しでこちらを見ている\n\n# textflame 1 1\n@ケーリュケイオン\n私は君のいろんなこと\nたっくさん知ってるよ♪\nだからかな…ちょっと気になるの\n\n# voice 6005 \"keryukeion_0036\"\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@ケーリュケイオン\nテストしてみていい？\n今から私が質問するから\nそれに答えてよ、ねっ♪\n\n# textflame 0 0\n@\nマスターが頷く前に、\nケーリュケイオンのテストが\n始まってしまった…\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私の出身地は“あそこ”だよ\nどこかわかるかな？\n\n# se \"SE_0734\"\n# select  \"メソポタミア\" \"select_label_1\" \"オリュンポス\" \"select_label_2\" \"アスガルス\" \"select_label_3\"\n私の出身地は“あそこ”だよ\nどこかわかるかな？\n"
+	},
+	{
+		"ID": 2519,
+		"unitID": 2600511,
+		"questionID": 9600519,
+		"script": ";;お金儲け,3\n# voice 6005 \"keryukeion_0001\"\n# textflame 1 1\n@ケーリュケイオン\nねえ、マスター…\n\n# textflame 1 1\n@ケーリュケイオン\nマスターって、私のこと\nどのくらい知ってる？\n\n# textflame 0 0\n@\nマスターが首を傾げると、\nケーリュケイオンが真剣な\n眼差しでこちらを見ている\n\n# textflame 1 1\n@ケーリュケイオン\n私は君のいろんなこと\nたっくさん知ってるよ♪\nだからかな…ちょっと気になるの\n\n# voice 6005 \"keryukeion_0036\"\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@ケーリュケイオン\nテストしてみていい？\n今から私が質問するから\nそれに答えてよ、ねっ♪\n\n# textflame 0 0\n@\nマスターが頷く前に、\nケーリュケイオンのテストが\n始まってしまった…\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私の好きなものくらいわかるよね？\n\n# se \"SE_0734\"\n# select  \"散財\" \"select_label_1\" \"昼寝\" \"select_label_2\" \"お金儲け\" \"select_label_3\"\n私の好きなものくらいわかるよね？\n"
+	},
+	{
+		"ID": 2520,
+		"unitID": 2600511,
+		"questionID": 9600520,
+		"script": ";;AB型,1\n# voice 6005 \"keryukeion_0001\"\n# textflame 1 1\n@ケーリュケイオン\nねえ、マスター…\n\n# textflame 1 1\n@ケーリュケイオン\nマスターって、私のこと\nどのくらい知ってる？\n\n# textflame 0 0\n@\nマスターが首を傾げると、\nケーリュケイオンが真剣な\n眼差しでこちらを見ている\n\n# textflame 1 1\n@ケーリュケイオン\n私は君のいろんなこと\nたっくさん知ってるよ♪\nだからかな…ちょっと気になるの\n\n# voice 6005 \"keryukeion_0036\"\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@ケーリュケイオン\nテストしてみていい？\n今から私が質問するから\nそれに答えてよ、ねっ♪\n\n# textflame 0 0\n@\nマスターが頷く前に、\nケーリュケイオンのテストが\n始まってしまった…\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n血液型くらい知ってるよね？\n知らないとは言わせないよ♪\n\n# se \"SE_0734\"\n# select  \"AB型\" \"select_label_1\" \"A型\" \"select_label_2\" \"O型\" \"select_label_3\"\n血液型くらい知ってるよね？\n知らないとは言わせないよ♪\n"
+	},
+	{
+		"ID": 2521,
+		"unitID": 2600511,
+		"questionID": 9600521,
+		"script": ";;お礼,1\n# voice 6005 \"keryukeion_0001\"\n# textflame 1 1\n@ケーリュケイオン\nねぇ、マスター？\n\n# textflame 1 1\n@ケーリュケイオン\nマスターと私って、\nいつも一緒にいるよね？\n\n# textflame 1 1\n@ケーリュケイオン\n一緒にいると、お互いを\nわかりあえる気がするんだよね\n\n# textflame 1 1\n@ケーリュケイオン\n…君も、そう思ってくれてる？\n\n# textflame 0 0\n@\n顔を近づけて\nじーっと見つめてくる\nケーリュケイオン\n\n# textflame 1 1\n@ケーリュケイオン\n君は、私のことどのくらい\n知ってるかなーって思ってさ\n\n# voice 6005 \"keryukeion_0036\"\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@ケーリュケイオン\n今から質問するから、答えてね♪\n\n# textflame 0 0\n@\n思わず頷くと、\n彼女はにっこりと笑った\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私の力を借りるとき、\n用意してもらうものがあるよね\nなんでしょーか？\n\n# se \"SE_0734\"\n# select  \"お礼\" \"select_label_1\" \"誠意\" \"select_label_2\" \"土下座\" \"select_label_3\"\n私の力を借りるとき、\n用意してもらうものがあるよね\nなんでしょーか？\n"
+	},
+	{
+		"ID": 2522,
+		"unitID": 2600511,
+		"questionID": 9600522,
+		"script": ";;命中ＵＰ,2\n# voice 6005 \"keryukeion_0001\"\n# textflame 1 1\n@ケーリュケイオン\nねぇ、マスター？\n\n# textflame 1 1\n@ケーリュケイオン\nマスターと私って、\nいつも一緒にいるよね？\n\n# textflame 1 1\n@ケーリュケイオン\n一緒にいると、お互いを\nわかりあえる気がするんだよね\n\n# textflame 1 1\n@ケーリュケイオン\n…君も、そう思ってくれてる？\n\n# textflame 0 0\n@\n顔を近づけて\nじーっと見つめてくる\nケーリュケイオン\n\n# textflame 1 1\n@ケーリュケイオン\n君は、私のことどのくらい\n知ってるかなーって思ってさ\n\n# voice 6005 \"keryukeion_0036\"\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@ケーリュケイオン\n今から質問するから、答えてね♪\n\n# textflame 0 0\n@\n思わず頷くと、\n彼女はにっこりと笑った\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私の☆５のスキル名は？\n\n# se \"SE_0734\"\n# select  \"命中の鼓動\" \"select_label_1\" \"命中ＵＰ\" \"select_label_2\" \"闇杖神の極風\" \"select_label_3\"\n私の☆５のスキル名は？\n"
+	},
+	{
+		"ID": 2523,
+		"unitID": 2600511,
+		"questionID": 9600523,
+		"script": ";;聖司祭の分析,3\n# voice 6005 \"keryukeion_0001\"\n# textflame 1 1\n@ケーリュケイオン\nねぇ、マスター？\n\n# textflame 1 1\n@ケーリュケイオン\nマスターと私って、\nいつも一緒にいるよね？\n\n# textflame 1 1\n@ケーリュケイオン\n一緒にいると、お互いを\nわかりあえる気がするんだよね\n\n# textflame 1 1\n@ケーリュケイオン\n…君も、そう思ってくれてる？\n\n# textflame 0 0\n@\n顔を近づけて\nじーっと見つめてくる\nケーリュケイオン\n\n# textflame 1 1\n@ケーリュケイオン\n君は、私のことどのくらい\n知ってるかなーって思ってさ\n\n# voice 6005 \"keryukeion_0036\"\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@ケーリュケイオン\n今から質問するから、答えてね♪\n\n# textflame 0 0\n@\n思わず頷くと、\n彼女はにっこりと笑った\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私のリーダースキル名はわかる？\n\n# se \"SE_0734\"\n# select  \"聖司祭の審判\" \"select_label_1\" \"聖司祭の判断\" \"select_label_2\" \"聖司祭の分析\" \"select_label_3\"\n私のリーダースキル名はわかる？\n"
+	},
+	{
+		"ID": 2524,
+		"unitID": 2600511,
+		"questionID": 9600524,
+		"script": ";;命中の鼓動,1\n# voice 6005 \"keryukeion_0001\"\n# textflame 1 1\n@ケーリュケイオン\nねぇ、マスター？\n\n# textflame 1 1\n@ケーリュケイオン\nマスターと私って、\nいつも一緒にいるよね？\n\n# textflame 1 1\n@ケーリュケイオン\n一緒にいると、お互いを\nわかりあえる気がするんだよね\n\n# textflame 1 1\n@ケーリュケイオン\n…君も、そう思ってくれてる？\n\n# textflame 0 0\n@\n顔を近づけて\nじーっと見つめてくる\nケーリュケイオン\n\n# textflame 1 1\n@ケーリュケイオン\n君は、私のことどのくらい\n知ってるかなーって思ってさ\n\n# voice 6005 \"keryukeion_0036\"\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@ケーリュケイオン\n今から質問するから、答えてね♪\n\n# textflame 0 0\n@\n思わず頷くと、\n彼女はにっこりと笑った\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私の☆６のユニットスキル名は？\n\n# se \"SE_0734\"\n# select  \"命中の鼓動\" \"select_label_1\" \"命中ＵＰ\" \"select_label_2\" \"魔力の心得\" \"select_label_3\"\n私の☆６のユニットスキル名は？\n"
+	},
+	{
+		"ID": 2525,
+		"unitID": 2600511,
+		"questionID": 9600525,
+		"script": ";;命中率,2\n# voice 6005 \"keryukeion_0001\"\n# textflame 1 1\n@ケーリュケイオン\nねぇ、マスター？\n\n# textflame 1 1\n@ケーリュケイオン\nマスターと私って、\nいつも一緒にいるよね？\n\n# textflame 1 1\n@ケーリュケイオン\n一緒にいると、お互いを\nわかりあえる気がするんだよね\n\n# textflame 1 1\n@ケーリュケイオン\n…君も、そう思ってくれてる？\n\n# textflame 0 0\n@\n顔を近づけて\nじーっと見つめてくる\nケーリュケイオン\n\n# textflame 1 1\n@ケーリュケイオン\n君は、私のことどのくらい\n知ってるかなーって思ってさ\n\n# voice 6005 \"keryukeion_0036\"\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@ケーリュケイオン\n今から質問するから、答えてね♪\n\n# textflame 0 0\n@\n思わず頷くと、\n彼女はにっこりと笑った\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私のスキル『命中ＵＰ』ってさ、\n何がアップするんだっけ？\n\n# se \"SE_0734\"\n# select  \"回避率\" \"select_label_1\" \"命中率\" \"select_label_2\" \"運\" \"select_label_3\"\n私のスキル『命中ＵＰ』ってさ、\n何がアップするんだっけ？\n"
+	},
+	{
+		"ID": 2526,
+		"unitID": 2600511,
+		"questionID": 9600526,
+		"script": ";;惚れっぽい,3\n# voice 6005 \"keryukeion_0001\"\n# textflame 1 1\n@ケーリュケイオン\nねぇ、マスター？\n\n# textflame 1 1\n@ケーリュケイオン\nマスターと私って、\nいつも一緒にいるよね？\n\n# textflame 1 1\n@ケーリュケイオン\n一緒にいると、お互いを\nわかりあえる気がするんだよね\n\n# textflame 1 1\n@ケーリュケイオン\n…君も、そう思ってくれてる？\n\n# textflame 0 0\n@\n顔を近づけて\nじーっと見つめてくる\nケーリュケイオン\n\n# textflame 1 1\n@ケーリュケイオン\n君は、私のことどのくらい\n知ってるかなーって思ってさ\n\n# voice 6005 \"keryukeion_0036\"\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@ケーリュケイオン\n今から質問するから、答えてね♪\n\n# textflame 0 0\n@\n思わず頷くと、\n彼女はにっこりと笑った\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私、○○っぽいって\nよく言われるんだけど、\nなんて言われてるかわかる？\n\n# se \"SE_0734\"\n# select  \"忘れっぽい\" \"select_label_1\" \"怒りっぽい\" \"select_label_2\" \"惚れっぽい\" \"select_label_3\"\n私、○○っぽいって\nよく言われるんだけど、\nなんて言われてるかわかる？\n"
+	},
+	{
+		"ID": 2527,
+		"unitID": 2600511,
+		"questionID": 9600527,
+		"script": ";;ヒュドラ,1\n# voice 6005 \"keryukeion_0001\"\n# textflame 1 1\n@ケーリュケイオン\nねぇ、マスター？\n\n# textflame 1 1\n@ケーリュケイオン\nマスターと私って、\nいつも一緒にいるよね？\n\n# textflame 1 1\n@ケーリュケイオン\n一緒にいると、お互いを\nわかりあえる気がするんだよね\n\n# textflame 1 1\n@ケーリュケイオン\n…君も、そう思ってくれてる？\n\n# textflame 0 0\n@\n顔を近づけて\nじーっと見つめてくる\nケーリュケイオン\n\n# textflame 1 1\n@ケーリュケイオン\n君は、私のことどのくらい\n知ってるかなーって思ってさ\n\n# voice 6005 \"keryukeion_0036\"\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@ケーリュケイオン\n今から質問するから、答えてね♪\n\n# textflame 0 0\n@\n思わず頷くと、\n彼女はにっこりと笑った\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私の可愛い蛇の名前\n君が知らないはずないよね♪\n\n# se \"SE_0734\"\n# select  \"ヒュドラ\" \"select_label_1\" \"アウルム\" \"select_label_2\" \"シストルム\" \"select_label_3\"\n私の可愛い蛇の名前\n君が知らないはずないよね♪\n"
+	},
+	{
+		"ID": 2528,
+		"unitID": 2600511,
+		"questionID": 9600528,
+		"script": ";;カドケウス,2\n# voice 6005 \"keryukeion_0001\"\n# textflame 1 1\n@ケーリュケイオン\nねぇ、マスター？\n\n# textflame 1 1\n@ケーリュケイオン\nマスターと私って、\nいつも一緒にいるよね？\n\n# textflame 1 1\n@ケーリュケイオン\n一緒にいると、お互いを\nわかりあえる気がするんだよね\n\n# textflame 1 1\n@ケーリュケイオン\n…君も、そう思ってくれてる？\n\n# textflame 0 0\n@\n顔を近づけて\nじーっと見つめてくる\nケーリュケイオン\n\n# textflame 1 1\n@ケーリュケイオン\n君は、私のことどのくらい\n知ってるかなーって思ってさ\n\n# voice 6005 \"keryukeion_0036\"\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@ケーリュケイオン\n今から質問するから、答えてね♪\n\n# textflame 0 0\n@\n思わず頷くと、\n彼女はにっこりと笑った\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私と同じ身長の子、誰かわかる？\n\n# se \"SE_0734\"\n# select  \"アイムール\" \"select_label_1\" \"カドケウス\" \"select_label_2\" \"ロンギヌス\" \"select_label_3\"\n私と同じ身長の子、誰かわかる？\n"
+	},
+	{
+		"ID": 2529,
+		"unitID": 2600511,
+		"questionID": 9600529,
+		"script": ";;杖神,3\n# voice 6005 \"keryukeion_0001\"\n# textflame 1 1\n@ケーリュケイオン\nねぇ、マスター？\n\n# textflame 1 1\n@ケーリュケイオン\nマスターと私って、\nいつも一緒にいるよね？\n\n# textflame 1 1\n@ケーリュケイオン\n一緒にいると、お互いを\nわかりあえる気がするんだよね\n\n# textflame 1 1\n@ケーリュケイオン\n…君も、そう思ってくれてる？\n\n# textflame 0 0\n@\n顔を近づけて\nじーっと見つめてくる\nケーリュケイオン\n\n# textflame 1 1\n@ケーリュケイオン\n君は、私のことどのくらい\n知ってるかなーって思ってさ\n\n# voice 6005 \"keryukeion_0036\"\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@ケーリュケイオン\n今から質問するから、答えてね♪\n\n# textflame 0 0\n@\n思わず頷くと、\n彼女はにっこりと笑った\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私の☆６のジョブは？\n\n# se \"SE_0734\"\n# select  \"プリースト\" \"select_label_1\" \"ビショップ\" \"select_label_2\" \"杖神\" \"select_label_3\"\n私の☆６のジョブは？\n"
+	},
+	{
+		"ID": 2530,
+		"unitID": 2600511,
+		"questionID": 9600530,
+		"script": ";;ビショップ,1\n# voice 6005 \"keryukeion_0001\"\n# textflame 1 1\n@ケーリュケイオン\nねぇ、マスター？\n\n# textflame 1 1\n@ケーリュケイオン\nマスターと私って、\nいつも一緒にいるよね？\n\n# textflame 1 1\n@ケーリュケイオン\n一緒にいると、お互いを\nわかりあえる気がするんだよね\n\n# textflame 1 1\n@ケーリュケイオン\n…君も、そう思ってくれてる？\n\n# textflame 0 0\n@\n顔を近づけて\nじーっと見つめてくる\nケーリュケイオン\n\n# textflame 1 1\n@ケーリュケイオン\n君は、私のことどのくらい\n知ってるかなーって思ってさ\n\n# voice 6005 \"keryukeion_0036\"\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@ケーリュケイオン\n今から質問するから、答えてね♪\n\n# textflame 0 0\n@\n思わず頷くと、\n彼女はにっこりと笑った\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私の☆５のジョブわかるかな～？\n\n# se \"SE_0734\"\n# select  \"ビショップ\" \"select_label_1\" \"プリースト\" \"select_label_2\" \"杖神\" \"select_label_3\"\n私の☆５のジョブわかるかな～？\n"
+	},
+	{
+		"ID": 2531,
+		"unitID": 2600511,
+		"questionID": 9600531,
+		"script": ";;起こすこと,1\n# voice 6005 \"keryukeion_kyara_1023\"\n# textflame 1 1\n@ケーリュケイオン\nマスターってさ、\n私のこと、どう思ってる？\n\n# textflame 0 0\n@\n一体なにを言うのかと思えば…\nと驚くマスターに\nケーリュケイオンはにっこりと笑う\n\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@ケーリュケイオン\n前々から\n気にはなっていたんだけどね\n\n# textflame 1 1\n@ケーリュケイオン\nなかなか聞くタイミングがなくてさ\n\n# voice 6005 \"keryukeion_0004\"\n# textflame 1 1\n@ケーリュケイオン\nちょっと聞いてみていいかな？\n私のことをどのくらい知ってるのか\n気になっちゃったんだ♪\n\n# textflame 0 0\n@\nマスターが頷くと、\n彼女は嬉しそうに笑うのだった…\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私が得意なのは、\n人を寝かしつけることと～？\n\n# se \"SE_0734\"\n# select  \"起こすこと\" \"select_label_1\" \"説教すること\" \"select_label_2\" \"からかうこと\" \"select_label_3\"\n私が得意なのは、\n人を寝かしつけることと～？\n"
+	},
+	{
+		"ID": 2532,
+		"unitID": 2600511,
+		"questionID": 9600532,
+		"script": ";;カラドボルグ,2\n# voice 6005 \"keryukeion_kyara_1023\"\n# textflame 1 1\n@ケーリュケイオン\nマスターってさ、\n私のこと、どう思ってる？\n\n# textflame 0 0\n@\n一体なにを言うのかと思えば…\nと驚くマスターに\nケーリュケイオンはにっこりと笑う\n\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@ケーリュケイオン\n前々から\n気にはなっていたんだけどね\n\n# textflame 1 1\n@ケーリュケイオン\nなかなか聞くタイミングがなくてさ\n\n# voice 6005 \"keryukeion_0004\"\n# textflame 1 1\n@ケーリュケイオン\nちょっと聞いてみていいかな？\n私のことをどのくらい知ってるのか\n気になっちゃったんだ♪\n\n# textflame 0 0\n@\nマスターが頷くと、\n彼女は嬉しそうに笑うのだった…\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私と同じ誕生月じゃないのは？\n\n# se \"SE_0734\"\n# select  \"シユウ\" \"select_label_1\" \"カラドボルグ\" \"select_label_2\" \"プリューナク\" \"select_label_3\"\n私と同じ誕生月じゃないのは？\n"
+	},
+	{
+		"ID": 2533,
+		"unitID": 2600511,
+		"questionID": 9600533,
+		"script": ";;ひゅーちゃん,3\n# voice 6005 \"keryukeion_kyara_1023\"\n# textflame 1 1\n@ケーリュケイオン\nマスターってさ、\n私のこと、どう思ってる？\n\n# textflame 0 0\n@\n一体なにを言うのかと思えば…\nと驚くマスターに\nケーリュケイオンはにっこりと笑う\n\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@ケーリュケイオン\n前々から\n気にはなっていたんだけどね\n\n# textflame 1 1\n@ケーリュケイオン\nなかなか聞くタイミングがなくてさ\n\n# voice 6005 \"keryukeion_0004\"\n# textflame 1 1\n@ケーリュケイオン\nちょっと聞いてみていいかな？\n私のことをどのくらい知ってるのか\n気になっちゃったんだ♪\n\n# textflame 0 0\n@\nマスターが頷くと、\n彼女は嬉しそうに笑うのだった…\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n可愛い蛇ちゃんには、\nあだ名があるんだよ♪\n\n# se \"SE_0734\"\n# select  \"あーちゃん\" \"select_label_1\" \"どらちゃん\" \"select_label_2\" \"ひゅーちゃん\" \"select_label_3\"\n可愛い蛇ちゃんには、\nあだ名があるんだよ♪\n"
+	},
+	{
+		"ID": 2534,
+		"unitID": 2600511,
+		"questionID": 9600534,
+		"script": ";;芸術全般,1\n# voice 6005 \"keryukeion_kyara_1023\"\n# textflame 1 1\n@ケーリュケイオン\nマスターってさ、\n私のこと、どう思ってる？\n\n# textflame 0 0\n@\n一体なにを言うのかと思えば…\nと驚くマスターに\nケーリュケイオンはにっこりと笑う\n\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@ケーリュケイオン\n前々から\n気にはなっていたんだけどね\n\n# textflame 1 1\n@ケーリュケイオン\nなかなか聞くタイミングがなくてさ\n\n# voice 6005 \"keryukeion_0004\"\n# textflame 1 1\n@ケーリュケイオン\nちょっと聞いてみていいかな？\n私のことをどのくらい知ってるのか\n気になっちゃったんだ♪\n\n# textflame 0 0\n@\nマスターが頷くと、\n彼女は嬉しそうに笑うのだった…\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私の妹カドケウスの\n好きなものってなにかな？\n\n# se \"SE_0734\"\n# select  \"芸術全般\" \"select_label_1\" \"家事全般\" \"select_label_2\" \"戦闘全般\" \"select_label_3\"\n私の妹カドケウスの\n好きなものってなにかな？\n"
+	},
+	{
+		"ID": 2535,
+		"unitID": 2600511,
+		"questionID": 9600535,
+		"script": ";;青,2\n# voice 6005 \"keryukeion_kyara_1023\"\n# textflame 1 1\n@ケーリュケイオン\nマスターってさ、\n私のこと、どう思ってる？\n\n# textflame 0 0\n@\n一体なにを言うのかと思えば…\nと驚くマスターに\nケーリュケイオンはにっこりと笑う\n\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@ケーリュケイオン\n前々から\n気にはなっていたんだけどね\n\n# textflame 1 1\n@ケーリュケイオン\nなかなか聞くタイミングがなくてさ\n\n# voice 6005 \"keryukeion_0004\"\n# textflame 1 1\n@ケーリュケイオン\nちょっと聞いてみていいかな？\n私のことをどのくらい知ってるのか\n気になっちゃったんだ♪\n\n# textflame 0 0\n@\nマスターが頷くと、\n彼女は嬉しそうに笑うのだった…\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nさ、私の瞳の色を答えて♪\n顔を近づけて、よーく見なきゃ\nわかんないでしょ？　赤と？\n\n# se \"SE_0734\"\n# select  \"赤\" \"select_label_1\" \"青\" \"select_label_2\" \"黒\" \"select_label_3\"\nさ、私の瞳の色を答えて♪\n顔を近づけて、よーく見なきゃ\nわかんないでしょ？　赤と？\n"
+	},
+	{
+		"ID": 2536,
+		"unitID": 2600511,
+		"questionID": 9600536,
+		"script": ";;赤紫,3\n# voice 6005 \"keryukeion_kyara_1023\"\n# textflame 1 1\n@ケーリュケイオン\nマスターってさ、\n私のこと、どう思ってる？\n\n# textflame 0 0\n@\n一体なにを言うのかと思えば…\nと驚くマスターに\nケーリュケイオンはにっこりと笑う\n\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@ケーリュケイオン\n前々から\n気にはなっていたんだけどね\n\n# textflame 1 1\n@ケーリュケイオン\nなかなか聞くタイミングがなくてさ\n\n# voice 6005 \"keryukeion_0004\"\n# textflame 1 1\n@ケーリュケイオン\nちょっと聞いてみていいかな？\n私のことをどのくらい知ってるのか\n気になっちゃったんだ♪\n\n# textflame 0 0\n@\nマスターが頷くと、\n彼女は嬉しそうに笑うのだった…\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n髪の色くらい\n目を瞑ってたって\nわかるものでしょ？\n\n# se \"SE_0734\"\n# select  \"黒\" \"select_label_1\" \"黄緑\" \"select_label_2\" \"赤紫\" \"select_label_3\"\n髪の色くらい\n目を瞑ってたって\nわかるものでしょ？\n"
+	},
+	{
+		"ID": 2537,
+		"unitID": 2600511,
+		"questionID": 9600537,
+		"script": ";;水星,1\n# voice 6005 \"keryukeion_kyara_1023\"\n# textflame 1 1\n@ケーリュケイオン\nマスターってさ、\n私のこと、どう思ってる？\n\n# textflame 0 0\n@\n一体なにを言うのかと思えば…\nと驚くマスターに\nケーリュケイオンはにっこりと笑う\n\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@ケーリュケイオン\n前々から\n気にはなっていたんだけどね\n\n# textflame 1 1\n@ケーリュケイオン\nなかなか聞くタイミングがなくてさ\n\n# voice 6005 \"keryukeion_0004\"\n# textflame 1 1\n@ケーリュケイオン\nちょっと聞いてみていいかな？\n私のことをどのくらい知ってるのか\n気になっちゃったんだ♪\n\n# textflame 0 0\n@\nマスターが頷くと、\n彼女は嬉しそうに笑うのだった…\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私のキラーズって\n惑星記号の基になってるみたい！\nなんの惑星かわかる？\n\n# se \"SE_0734\"\n# select  \"水星\" \"select_label_1\" \"金星\" \"select_label_2\" \"木星\" \"select_label_3\"\n私のキラーズって\n惑星記号の基になってるみたい！\nなんの惑星かわかる？\n"
+	},
+	{
+		"ID": 2538,
+		"unitID": 2600511,
+		"questionID": 9600538,
+		"script": ";;恋愛気質,2\n# voice 6005 \"keryukeion_kyara_1023\"\n# textflame 1 1\n@ケーリュケイオン\nマスターってさ、\n私のこと、どう思ってる？\n\n# textflame 0 0\n@\n一体なにを言うのかと思えば…\nと驚くマスターに\nケーリュケイオンはにっこりと笑う\n\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@ケーリュケイオン\n前々から\n気にはなっていたんだけどね\n\n# textflame 1 1\n@ケーリュケイオン\nなかなか聞くタイミングがなくてさ\n\n# voice 6005 \"keryukeion_0004\"\n# textflame 1 1\n@ケーリュケイオン\nちょっと聞いてみていいかな？\n私のことをどのくらい知ってるのか\n気になっちゃったんだ♪\n\n# textflame 0 0\n@\nマスターが頷くと、\n彼女は嬉しそうに笑うのだった…\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私って、○○気質って\nよく言われるよ\nわかるかな？\n\n# se \"SE_0734\"\n# select  \"職人気質\" \"select_label_1\" \"恋愛気質\" \"select_label_2\" \"粘着気質\" \"select_label_3\"\n私って、○○気質って\nよく言われるよ\nわかるかな？\n"
+	},
+	{
+		"ID": 2539,
+		"unitID": 2600511,
+		"questionID": 9600539,
+		"script": ";;小悪魔,3\n# voice 6005 \"keryukeion_kyara_1023\"\n# textflame 1 1\n@ケーリュケイオン\nマスターってさ、\n私のこと、どう思ってる？\n\n# textflame 0 0\n@\n一体なにを言うのかと思えば…\nと驚くマスターに\nケーリュケイオンはにっこりと笑う\n\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@ケーリュケイオン\n前々から\n気にはなっていたんだけどね\n\n# textflame 1 1\n@ケーリュケイオン\nなかなか聞くタイミングがなくてさ\n\n# voice 6005 \"keryukeion_0004\"\n# textflame 1 1\n@ケーリュケイオン\nちょっと聞いてみていいかな？\n私のことをどのくらい知ってるのか\n気になっちゃったんだ♪\n\n# textflame 0 0\n@\nマスターが頷くと、\n彼女は嬉しそうに笑うのだった…\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n君ならわかるよね\n私は妹に比べて、ちょっぴり…\n”あれ”、なんだよ♪\n\n# se \"SE_0734\"\n# select  \"勇者\" \"select_label_1\" \"天使\" \"select_label_2\" \"小悪魔\" \"select_label_3\"\n君ならわかるよね\n私は妹に比べて、ちょっぴり…\n”あれ”、なんだよ♪\n"
+	},
+	{
+		"ID": 2540,
+		"unitID": 2600511,
+		"questionID": 9600540,
+		"script": ";;対価,1\n# voice 6005 \"keryukeion_kyara_1023\"\n# textflame 1 1\n@ケーリュケイオン\nマスターってさ、\n私のこと、どう思ってる？\n\n# textflame 0 0\n@\n一体なにを言うのかと思えば…\nと驚くマスターに\nケーリュケイオンはにっこりと笑う\n\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@ケーリュケイオン\n前々から\n気にはなっていたんだけどね\n\n# textflame 1 1\n@ケーリュケイオン\nなかなか聞くタイミングがなくてさ\n\n# voice 6005 \"keryukeion_0004\"\n# textflame 1 1\n@ケーリュケイオン\nちょっと聞いてみていいかな？\n私のことをどのくらい知ってるのか\n気になっちゃったんだ♪\n\n# textflame 0 0\n@\nマスターが頷くと、\n彼女は嬉しそうに笑うのだった…\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私に頼みごとをするとき\n払ってもらうものがあるよね\nなにかわかるかな～？\n\n# se \"SE_0734\"\n# select  \"対価\" \"select_label_1\" \"スマイル\" \"select_label_2\" \"甘い囁き\" \"select_label_3\"\n私に頼みごとをするとき\n払ってもらうものがあるよね\nなにかわかるかな～？\n"
+	},
+	{
+		"ID": 2541,
+		"unitID": 2600511,
+		"questionID": 9600541,
+		"script": "\n;;私,1\n# se \"SE_0734\"\n# select \"私\" \"select_label_1\" \"あたし\" \"select_label_2\" \"我\" \"select_label_3\"\nケーリュケイオンの一人称は\n次のうちどれ？\n"
+	},
+	{
+		"ID": 2542,
+		"unitID": 2600511,
+		"questionID": 9600542,
+		"script": "\n;;君,2\n# se \"SE_0734\"\n# select \"ご主人様\" \"select_label_1\" \"君\" \"select_label_2\" \"貴方\" \"select_label_3\"\nケーリュケイオンはアンタのこと\nなんて呼んでる？\n"
+	},
+	{
+		"ID": 2543,
+		"unitID": 2600511,
+		"questionID": 9600543,
+		"script": "\n;;76,2\n# se \"SE_0734\"\n# select \"78\" \"select_label_1\" \"76\" \"select_label_2\" \"84\" \"select_label_3\"\nケーリュケイオンの\nバストサイズがどのくらいか\nアンタ…知ってるの？\n"
+	},
+	{
+		"ID": 2544,
+		"unitID": 2600511,
+		"questionID": 9600544,
+		"script": "\n;;56,3\n# se \"SE_0734\"\n# select \"55\" \"select_label_1\" \"61\" \"select_label_2\" \"56\" \"select_label_3\"\nケーリュケイオンの\nウエストサイズがどのくらいか\nアンタ…知ってるの？\n"
+	},
+	{
+		"ID": 2545,
+		"unitID": 2600511,
+		"questionID": 9600545,
+		"script": "\n;;77,3\n# se \"SE_0734\"\n# select \"80\" \"select_label_1\" \"86\" \"select_label_2\" \"77\" \"select_label_3\"\nケーリュケイオンの\nヒップサイズがどのくらいか\nアンタ…知ってるの？\n"
+	},
+	{
+		"ID": 2546,
+		"unitID": 2600511,
+		"questionID": 9600546,
+		"script": "\n;;40,3\n# se \"SE_0734\"\n# select \"41\" \"select_label_1\" \"47\" \"select_label_2\" \"40\" \"select_label_3\"\nケーリュケイオンの体重は\n次のうちどれ？\n"
+	},
+	{
+		"ID": 2547,
+		"unitID": 2600511,
+		"questionID": 9600547,
+		"script": "\n;;209,1\n# se \"SE_0734\"\n# select \"209\" \"select_label_1\" \"213\" \"select_label_2\" \"231\" \"select_label_3\"\nケーリュケイオンの\nバスト＋ウエスト＋ヒップは\nいくつかわかる？\n"
+	},
+	{
+		"ID": 2548,
+		"unitID": 2600511,
+		"questionID": 9600548,
+		"script": "\n;;白,1\n# se \"SE_0734\"\n# select \"白\" \"select_label_1\" \"黒\" \"select_label_2\" \"赤\" \"select_label_3\"\nケーリュケイオンの水着の色は\n次のうちどれ？\n"
+	},
+	{
+		"ID": 2549,
+		"unitID": 2600511,
+		"questionID": 9600549,
+		"script": "\n;;67位,1\n# se \"SE_0734\"\n# select \"67位\" \"select_label_1\" \"54位\" \"select_label_2\" \"74位\" \"select_label_3\"\nケーリュケイオンは\n第２回人気投票で\n何位だったでしょう？\n"
+	},
+	{
+		"ID": 2550,
+		"unitID": 2600511,
+		"questionID": 9600550,
+		"script": "\n;;加藤英美里,1\n# se \"SE_0734\"\n# select \"加藤英美里\" \"select_label_1\" \"遠藤綾\" \"select_label_2\" \"水原薫\" \"select_label_3\"\nケーリュケイオンの声優は誰？\n"
+	}
+]

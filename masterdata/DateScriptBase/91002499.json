@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 91002499,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# se \"SE_0732\"\n# voice 1002 \"revatein_0003\"\n@レーヴァテイン\nうん、正解…\n\n# face %(unit_a)s \"normal\"\n@レーヴァテイン\nなんか変な感じ\n細かい所まで知られて\n気持ち悪いはずなのに…\n\n;;文字小さく\n# textsize 18\n# voice 1002 \"revatein_0004\"\n@レーヴァテイン\n…少し嬉しい\n\n# textsize 24\n# face %(unit_a)s \"angry\"\n@レーヴァテイン\nだぁー、もう\nなんでもないって\n\n# face %(unit_a)s \"smile\"\n# voice 1002 \"revatein_0036\"\n@レーヴァテイン\nじゃあ逆に、\nあなたのことを\n教えてもらおっかな\n\n# textflame 0 0\n@\nその笑顔は\n夏の太陽よりも\n眩しくて…\n\n@\n輝く季節に、\nマスターは二人の絆が\nさらに深まったのを実感した…\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

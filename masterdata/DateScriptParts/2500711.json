@@ -1,0 +1,26 @@
+[
+	{
+		"ID": 120,
+		"unitID": 2500711,
+		"scriptID": "kaerimichi",
+		"script": "ブリューナクは\nもう少しマスターと共にいたい"
+	},
+	{
+		"ID": 134,
+		"unitID": 2500711,
+		"scriptID": "kaeru",
+		"script": "任務は完遂した\nこれより帰路につく"
+	},
+	{
+		"ID": 148,
+		"unitID": 2500711,
+		"scriptID": "kaeru_ok",
+		"script": "@%(unitName:unit_a)s\nブリューナクは\nどこまでも付き従おう\nマスターさえよければ、な"
+	},
+	{
+		"ID": 162,
+		"unitID": 2500711,
+		"scriptID": "kaeru_ng",
+		"script": "@%(unitName:unit_a)s\nすまない、明日も早いため\nブリューナクは帰らせてもらう"
+	}
+]

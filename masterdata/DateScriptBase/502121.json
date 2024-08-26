@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 502121,
+		"script": ";;A 今度は海に行こう（小）\n;;B もう少し一緒にいたい（大）\n;;C 楽しかった（中）\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_room\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 0 0\n@\nセファーとのデートを終えた\nマスターは、彼女を部屋の前まで\n送ることにした\n\n# textflame 1 1\n# voice 5021 \"sefer_0004\"\n# face %(unit_a)s \"smile\"\n@セファー\n今日は、本当に良い日でした\nわたくし、とても幸せです\n\n# voice 5021 \"sefer_0001\"\n@セファー\nマスターは、いかがでしたか？\n\n# select \"今度は海に行こう\" \"select_label_01\" \"もう少し一緒にいたい\" \"select_label_02\" \"楽しかった\" \"select_label_03\"\nマスターは、いかがでしたか？\n\n# label \"select_label_01\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_02\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_03\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_end\"\n# waitandnext 0.1\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

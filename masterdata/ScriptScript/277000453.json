@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 277000453,
+		"script": ";;-----------------------------------------\n;;◆2019 海上編 9月中旬（6章）シナリオ\n;;【タイトル：パラディーゾ幻想襲来編Ⅵ】\n;;EP1_3\n;;スクリプト最後の背景：プール\n;;-----------------------------------------\n# script \"lisp\"\n# background \"sea_landmark_day\"\n# bgmfile \"bgm348\" \"BgmSeaEventBattle003\" 0\n;;-----------------------------------------\n;;水着アルマス\n# body 2103811\n# pos 2103811 3\n# scale 2103811 0.8 0\n# layer 2103811 2\n# alpha 2103811 0 0\n# mask 2103811 off\n;;水着レーヴァテイン\n# body 2100231\n# pos 2100231 3\n# scale 2100231 0.8 0\n# layer 2100231 2\n# alpha 2100231 0 0\n# mask 2100231 off\n;;-----------------------------------------\n# voice 1038 \"almace_battle_0001\"\n# move 2103811 3 0\n# face 2103811 \"angry\"\n# alpha 2103811 1 0\n# mask 2103811 off\n# textflame 1 1\n@アルマス\nやあっ！\n\n# se \"SE_4830\"\n# fadein \"white\" 0.5\n# waitandnext 0.5\n\n# voice 310021 \"revatein_ge_battle_0001\"\n# alpha 2103811 0 0.5\n# move 2100231 3 0\n# face 2100231 \"angry\"\n# alpha 2100231 1 0.5\n# mask 2100231 off\n@レーヴァテイン\nはぁっ！\n\n# se \"SE_4830\"\n# fadein \"white\" 0.5\n# waitandnext 0.5\n\n;;//異族倒れる\n# se \"SE_0669\"\n# sedelay \"SE_3001\" 0.5\n# waitandnext 0.8\n\n# alpha 2100231 0 0.5\n# move 2103811 3 0\n# face 2103811 \"angry\"\n# alpha 2103811 1 0.5\n# mask 2103811 off\n@アルマス\nよしっ！\n片付いたわね！\n\n@アルマス\nさぁ、島の中央を目指して進むわよ！"
+	}
+]

@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 93017399,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# voice 3017 \"wotan_0041\"\n# se \"SE_0732\"\n@ヴォータン\nこれはすごい！\n\n@ヴォータン\n正直、無理だと\n思っていたから驚いたぞ\n\n# voice 3017 \"wotan_0030\"\n@ヴォータン\nお前にクイズを出して良かった…\n礼を言うぞ！\n\n@ヴォータン\nこんな嬉し恥ずかしい\n気持ちは初めてだ…\n\n# voice 3017 \"wotan_0004\"\n@ヴォータン\nたまにはこうして、\nクイズを出すのもいいな…\n\n# textflame 0 0\n@\n彼女がボソッと言った言葉は、\nよく聞こえなかったが…\n\n@\nその嬉しそうな笑顔を\n近くで見ているだけで、\nこっちまで笑顔になってくる\n\n@\nそんな時間が彼女との絆を\nまた深めさせたのを実感した…\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

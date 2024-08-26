@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 71401,
+		"script": "# script \"lisp\"\n# fadein \"black\" 0.5\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# fadein \"black\" 0.5\n@\n帰り道－\n\n# fadein \"white\" 0.5\n# se \"SE_0735\"\n# bgm \"stop\"\n# waitandnext 2\n@\n…………\n\n# fadein \"white\" 0.5\n# se \"SE_0735\"\n# bgm \"stop\"\n# waitandnext 2\n@\n…………\n\n@\n時間を忘れて楽しんだ二人\nふと沈黙が訪れ\n\n# textflame 0 0\n@\nマスターから、\n二人で行きたい場所があるんだ\n\n# textflame 0 0\n@\nと、切り出された\n%(unitName:unit_a)sは…\n\n# textflame 1 1\n# se \"SE_5594\"\n# fadein \"white\" 0.5\n# face %(unit_a)s \"sad\"\noverwrite_a(kaeru_ng){\nごめんなさい…\n}\n\n\n# serif1\n@\nん～、もっと遊びたかったけど\nなにが悪かったのだろう…\n\n@\nと、どこか反省しながら\nマスターは帰路についた\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

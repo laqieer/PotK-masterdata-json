@@ -1,0 +1,416 @@
+[
+	{
+		"ID": 1,
+		"rank_upper": 1,
+		"rank_lower": 100,
+		"round_number": 0,
+		"disp_text": "1位～100位報酬",
+		"image_name": "slc_Gold.png__GUI__026_12_sozai__026_12_sozai_prefab",
+		"priority": 50
+	},
+	{
+		"ID": 2,
+		"rank_upper": 101,
+		"rank_lower": 300,
+		"round_number": 0,
+		"disp_text": "101位～300位報酬",
+		"image_name": "slc_Silver.png__GUI__026_12_sozai__026_12_sozai_prefab",
+		"priority": 41
+	},
+	{
+		"ID": 3,
+		"rank_upper": 301,
+		"rank_lower": 1000,
+		"round_number": 0,
+		"disp_text": "301位～1000位報酬",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab",
+		"priority": 42
+	},
+	{
+		"ID": 4,
+		"rank_upper": 1001,
+		"rank_lower": 3000,
+		"round_number": 0,
+		"disp_text": "1001位～3000位報酬",
+		"image_name": "slc_Normal.png__GUI__026_12_sozai__026_12_sozai_prefab",
+		"priority": 24
+	},
+	{
+		"ID": 5,
+		"rank_upper": 3001,
+		"rank_lower": 5000,
+		"round_number": 0,
+		"disp_text": "3001位～5000位報酬",
+		"image_name": "slc_Normal.png__GUI__026_12_sozai__026_12_sozai_prefab",
+		"priority": 109
+	},
+	{
+		"ID": 6,
+		"rank_upper": 5001,
+		"rank_lower": 0,
+		"round_number": 0,
+		"disp_text": "5001位以下報酬",
+		"image_name": "slc_Normal.png__GUI__026_12_sozai__026_12_sozai_prefab",
+		"priority": 108
+	},
+	{
+		"ID": 7,
+		"rank_upper": 0,
+		"rank_lower": 0,
+		"round_number": 777,
+		"disp_text": "キリ番下3桁777位報酬",
+		"image_name": "slc_Kiriban.png__GUI__026_12_sozai__026_12_sozai_prefab",
+		"priority": 37
+	},
+	{
+		"ID": 8,
+		"rank_upper": 1,
+		"rank_lower": 30,
+		"round_number": 0,
+		"disp_text": "1位～30位報酬",
+		"image_name": "slc_Gold.png__GUI__026_12_sozai__026_12_sozai_prefab",
+		"priority": 14
+	},
+	{
+		"ID": 9,
+		"rank_upper": 31,
+		"rank_lower": 100,
+		"round_number": 0,
+		"disp_text": "31位～100位報酬",
+		"image_name": "slc_Silver.png__GUI__026_12_sozai__026_12_sozai_prefab",
+		"priority": 19
+	},
+	{
+		"ID": 10,
+		"rank_upper": 5001,
+		"rank_lower": 10000,
+		"round_number": 0,
+		"disp_text": "5001位～10000位報酬",
+		"image_name": "slc_Normal.png__GUI__026_12_sozai__026_12_sozai_prefab",
+		"priority": 30
+	},
+	{
+		"ID": 11,
+		"rank_upper": 10001,
+		"rank_lower": 0,
+		"round_number": 0,
+		"disp_text": "10001位以下報酬",
+		"image_name": "slc_Normal.png__GUI__026_12_sozai__026_12_sozai_prefab",
+		"priority": 31
+	},
+	{
+		"ID": 12,
+		"rank_upper": 1,
+		"rank_lower": 0,
+		"round_number": 0,
+		"disp_text": "参加報酬",
+		"image_name": "slc_Normal.png__GUI__026_12_sozai__026_12_sozai_prefab",
+		"priority": 41
+	},
+	{
+		"ID": 13,
+		"rank_upper": 3001,
+		"rank_lower": 0,
+		"round_number": 0,
+		"disp_text": "3001位以下報酬",
+		"image_name": "slc_Normal.png__GUI__026_12_sozai__026_12_sozai_prefab",
+		"priority": 32
+	},
+	{
+		"ID": 14,
+		"rank_upper": 0,
+		"rank_lower": 0,
+		"round_number": 77,
+		"disp_text": "キリ番下2桁77位報酬",
+		"image_name": "slc_Kiriban.png__GUI__026_12_sozai__026_12_sozai_prefab",
+		"priority": 27
+	},
+	{
+		"ID": 15,
+		"rank_upper": 1,
+		"rank_lower": 1000,
+		"round_number": 0,
+		"disp_text": "1位～1000位報酬",
+		"image_name": "slc_Gold.png__GUI__026_12_sozai__026_12_sozai_prefab",
+		"priority": 33
+	},
+	{
+		"ID": 16,
+		"rank_upper": 1001,
+		"rank_lower": 0,
+		"round_number": 0,
+		"disp_text": "1001位以下報酬",
+		"image_name": "slc_Normal.png__GUI__026_12_sozai__026_12_sozai_prefab",
+		"priority": 34
+	},
+	{
+		"ID": 17,
+		"rank_upper": 301,
+		"rank_lower": 0,
+		"round_number": 0,
+		"disp_text": "301位以下報酬",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab",
+		"priority": 35
+	},
+	{
+		"ID": 18,
+		"rank_upper": 1,
+		"rank_lower": 1,
+		"round_number": 0,
+		"disp_text": "1位報酬",
+		"image_name": "slc_Gold.png__GUI__026_12_sozai__026_12_sozai_prefab",
+		"priority": 11
+	},
+	{
+		"ID": 19,
+		"rank_upper": 2,
+		"rank_lower": 30,
+		"round_number": 0,
+		"disp_text": "2位～30位報酬",
+		"image_name": "slc_Silver.png__GUI__026_12_sozai__026_12_sozai_prefab",
+		"priority": 15
+	},
+	{
+		"ID": 20,
+		"rank_upper": 2,
+		"rank_lower": 2,
+		"round_number": 0,
+		"disp_text": "2位報酬",
+		"image_name": "slc_Silver.png__GUI__026_12_sozai__026_12_sozai_prefab",
+		"priority": 12
+	},
+	{
+		"ID": 21,
+		"rank_upper": 3,
+		"rank_lower": 3,
+		"round_number": 0,
+		"disp_text": "3位報酬",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab",
+		"priority": 13
+	},
+	{
+		"ID": 22,
+		"rank_upper": 4,
+		"rank_lower": 30,
+		"round_number": 0,
+		"disp_text": "4位～30位報酬",
+		"image_name": "slc_Normal.png__GUI__026_12_sozai__026_12_sozai_prefab",
+		"priority": 16
+	},
+	{
+		"ID": 23,
+		"rank_upper": 31,
+		"rank_lower": 100,
+		"round_number": 0,
+		"disp_text": "31位～100位報酬",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab",
+		"priority": 18
+	},
+	{
+		"ID": 24,
+		"rank_upper": 101,
+		"rank_lower": 300,
+		"round_number": 0,
+		"disp_text": "101位～300位報酬",
+		"image_name": "slc_Normal.png__GUI__026_12_sozai__026_12_sozai_prefab",
+		"priority": 21
+	},
+	{
+		"ID": 25,
+		"rank_upper": 301,
+		"rank_lower": 0,
+		"round_number": 0,
+		"disp_text": "301位以下報酬",
+		"image_name": "slc_Normal.png__GUI__026_12_sozai__026_12_sozai_prefab",
+		"priority": 23
+	},
+	{
+		"ID": 26,
+		"rank_upper": 2,
+		"rank_lower": 30,
+		"round_number": 0,
+		"disp_text": "2位～30位報酬",
+		"image_name": "slc_Silver.png__GUI__026_12_sozai__026_12_sozai_prefab",
+		"priority": 15
+	},
+	{
+		"ID": 27,
+		"rank_upper": 31,
+		"rank_lower": 100,
+		"round_number": 0,
+		"disp_text": "31位～100位報酬",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab",
+		"priority": 20
+	},
+	{
+		"ID": 28,
+		"rank_upper": 301,
+		"rank_lower": 1000,
+		"round_number": 0,
+		"disp_text": "301位～1000位報酬",
+		"image_name": "slc_Normal.png__GUI__026_12_sozai__026_12_sozai_prefab",
+		"priority": 22
+	},
+	{
+		"ID": 29,
+		"rank_upper": 31,
+		"rank_lower": 100,
+		"round_number": 0,
+		"disp_text": "31位～100位報酬",
+		"image_name": "slc_Normal.png__GUI__026_12_sozai__026_12_sozai_prefab",
+		"priority": 17
+	},
+	{
+		"ID": 30,
+		"rank_upper": 101,
+		"rank_lower": 300,
+		"round_number": 0,
+		"disp_text": "101位～300位報酬",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab",
+		"priority": 22
+	},
+	{
+		"ID": 31,
+		"rank_upper": 1001,
+		"rank_lower": 0,
+		"round_number": 0,
+		"disp_text": "1001位以下報酬",
+		"image_name": "slc_Normal.png__GUI__026_12_sozai__026_12_sozai_prefab",
+		"priority": 25
+	},
+	{
+		"ID": 32,
+		"rank_upper": 1001,
+		"rank_lower": 0,
+		"round_number": 0,
+		"disp_text": "1001位以下報酬",
+		"image_name": "slc_Normal.png__GUI__026_12_sozai__026_12_sozai_prefab",
+		"priority": 26
+	},
+	{
+		"ID": 33,
+		"rank_upper": 1,
+		"rank_lower": 100,
+		"round_number": 0,
+		"disp_text": "1位～100位報酬",
+		"image_name": "slc_Gold.png__GUI__026_12_sozai__026_12_sozai_prefab",
+		"priority": 7
+	},
+	{
+		"ID": 34,
+		"rank_upper": 101,
+		"rank_lower": 300,
+		"round_number": 0,
+		"disp_text": "101位～300位報酬",
+		"image_name": "slc_Silver.png__GUI__026_12_sozai__026_12_sozai_prefab",
+		"priority": 8
+	},
+	{
+		"ID": 35,
+		"rank_upper": 301,
+		"rank_lower": 500,
+		"round_number": 0,
+		"disp_text": "301位～500位報酬",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab",
+		"priority": 9
+	},
+	{
+		"ID": 36,
+		"rank_upper": 301,
+		"rank_lower": 700,
+		"round_number": 0,
+		"disp_text": "301位～700位報酬",
+		"image_name": "slc_Normal.png__GUI__026_12_sozai__026_12_sozai_prefab",
+		"priority": 24
+	},
+	{
+		"ID": 37,
+		"rank_upper": 701,
+		"rank_lower": 0,
+		"round_number": 0,
+		"disp_text": "701位以下報酬",
+		"image_name": "slc_Normal.png__GUI__026_12_sozai__026_12_sozai_prefab",
+		"priority": 25
+	},
+	{
+		"ID": 38,
+		"rank_upper": 2,
+		"rank_lower": 3,
+		"round_number": 0,
+		"disp_text": "2位～3位報酬",
+		"image_name": "slc_Silver.png__GUI__026_12_sozai__026_12_sozai_prefab",
+		"priority": 12
+	},
+	{
+		"ID": 39,
+		"rank_upper": 4,
+		"rank_lower": 30,
+		"round_number": 0,
+		"disp_text": "4位～30位報酬",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab",
+		"priority": 15
+	},
+	{
+		"ID": 40,
+		"rank_upper": 301,
+		"rank_lower": 500,
+		"round_number": 0,
+		"disp_text": "301位～500位報酬",
+		"image_name": "slc_Normal.png__GUI__026_12_sozai__026_12_sozai_prefab",
+		"priority": 24
+	},
+	{
+		"ID": 41,
+		"rank_upper": 501,
+		"rank_lower": 0,
+		"round_number": 0,
+		"disp_text": "501位以下報酬",
+		"image_name": "slc_Normal.png__GUI__026_12_sozai__026_12_sozai_prefab",
+		"priority": 25
+	},
+	{
+		"ID": 42,
+		"rank_upper": 4,
+		"rank_lower": 10,
+		"round_number": 0,
+		"disp_text": "4位～10位報酬",
+		"image_name": "slc_Normal.png__GUI__026_12_sozai__026_12_sozai_prefab",
+		"priority": 14
+	},
+	{
+		"ID": 43,
+		"rank_upper": 11,
+		"rank_lower": 30,
+		"round_number": 0,
+		"disp_text": "11位～30位報酬",
+		"image_name": "slc_Normal.png__GUI__026_12_sozai__026_12_sozai_prefab",
+		"priority": 15
+	},
+	{
+		"ID": 44,
+		"rank_upper": 301,
+		"rank_lower": 500,
+		"round_number": 0,
+		"disp_text": "301位～500位報酬",
+		"image_name": "slc_Normal.png__GUI__026_12_sozai__026_12_sozai_prefab",
+		"priority": 22
+	},
+	{
+		"ID": 45,
+		"rank_upper": 501,
+		"rank_lower": 1000,
+		"round_number": 0,
+		"disp_text": "501位～1000位報酬",
+		"image_name": "slc_Normal.png__GUI__026_12_sozai__026_12_sozai_prefab",
+		"priority": 23
+	},
+	{
+		"ID": 46,
+		"rank_upper": 101,
+		"rank_lower": 0,
+		"round_number": 0,
+		"disp_text": "101位以下報酬",
+		"image_name": "slc_Bronze.png__GUI__026_12_sozai__026_12_sozai_prefab",
+		"priority": 22
+	}
+]

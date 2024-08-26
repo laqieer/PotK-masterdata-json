@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 401912,
+		"script": ";;B大ファンシーショップ\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_shop\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# face 2401911 \"normal\"\n# voice 240191 \"failnaught_a_0039\"\n# textflame 1 1\n@フェイルノート\n…お前様、意外な趣味を\nもっているのね\n\n@フェイルノート\nまさか、お前様も\n夜はぬいぐるみを抱かないと\n眠れないとでも？\n\n# voice 240191 \"failnaught_a_0040\"\n@フェイルノート\n…へ？予約注文の受け取り？\nなんだ、そうだったのね。\n\n@フェイルノート\n…プレゼント？\n私に…この、ぬいぐるみを？\n\n@フェイルノート\nは、はじめからそのつもりで\n注文してた、って…\n\n# face 2401911 \"angry\"\n# voice 240191 \"failnaught_a_0042\"\n@フェイルノート\n…ふ、ふん！\n何を言い出すかと思ったら！\n私に贈り物なんて１０年早いわ\n\n# voice 240191 \"failnaught_a_0007\"\n@フェイルノート\nだけど、せっかくだもの\n仕方がないからずっと傍に\n抱えてあげるわよ！\n\n@フェイルノート\n…その、この子、\nどこかお前様に似た顔を\nしているから…\n\n# voice 240191 \"failnaught_a_0009\"\n@フェイルノート\nき、嫌いじゃないだけ！\n気に入ったわけじゃないんだから！\n\n# textflame 0 0\n@\nそう言いつつも\nフェイルノートはぬいぐるみを\n手放さないのだった\n\n;;-----------------------------------------\n# waitandnext 2\n# fadeout \"black\" 1.2\n"
+	}
+]

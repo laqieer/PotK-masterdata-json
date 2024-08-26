@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 925031498,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# se \"SE_0733\"\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n@ソロモン\n…そのこたえ……\n\n# voice 250312 \"solomon_lo_0028\"\n@ソロモン\nふせいかい\n\n# voice 250312 \"solomon_lo_0027\"\n@ソロモン\nしょうがない…\nきょうはもうかえるわ…\n\n# textflame 0 0\n@\n寂しげな目を浮かべる彼女\n\n# textflame 1 1\n# voice 250312 \"solomon_lo_0015\"\n@ソロモン\nおにいさんといっしょにいると、\nさいてきかいじゃないのかな……\n\n# textflame 0 0\n@\nマスターは彼女の想いに\n応えられなかったことに、\n激しく後悔していた\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

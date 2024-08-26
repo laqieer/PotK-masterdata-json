@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 30053202,
+		"script": "# script \"lisp\"\n# background \"highland\"\n# bgm \"bgm004\" 0\n# body 300532\n# mask 300532 off\n# pos 300532 3\n# textboxarrow 0 2\n# face 300532 \"sad\"\n# chara 300532\n# voice 3005 \"roon_0003\"\n@ルーン\n時々、思う事があるんだ…\n自分はなんのために\n生きているのかって…\n\n# chara 300532\n@ルーン\nイミテーションとの戦いの日々で…\nあたいの心は壊れてしまったんだ！\n\n# voice 3005 \"roon_0004\"\n# chara 300532\n@ルーン\nくっ…いいよ…この胸の苦しみ…\n誰にも分かってもらえないって\n知ってるんだ…\n\n# chara 300532\n@ルーン\nあたいは…生きていても\n意味の無い存在なんだよ…\nはぁぁぁぁ…\n\n# select \"そんな！ルーンとっても優しい子だよ\" \"select_label_01\" \"強いルーンに何度も助けられてるよ！\" \"select_label_02\" \"戦ってる時のルーンは綺麗で可愛いよ\" \"select_label_03\"\nあたいは…生きていても\n意味の無い存在なんだよ…\nはぁぁぁぁ…\n\n# label \"select_label_01\"\n# labeljump \"select_label_end\"\n# chara 300532\n@ルーン\n…本当に！？あたい…優しい？\nねぇ…どのへんが優しい？\nねぇ、ねぇ？\n\n# label \"select_label_02\"\n# labeljump \"select_label_end\"\n# chara 300532\n@ルーン\n本当に？あたい…役に立ってる？\nマスターの役に立ってる…？\n\n# label \"select_label_03\"\n# labeljump \"select_label_end\"\n# chara 300532\n@ルーン\n…本当に！？\nあたいって…そんなに可愛いかな？\n\n# label \"select_label_end\"\n# face 300532 \"shy\"\n# chara 300532\n@ルーン\nねぇ…マスター、あたい…\n生きていていいの？\n\n# chara 300532\n@ルーン\nこんなダメなあたいを…\nマスターは全て受け入れてくれるの？\n…うれしいよ\n\n# chara 300532\n@ルーン\nじゃあ…あたいのお願い、聞いて？\nねぇ、いい…？\nマスター？ね？\n\n# textflame 0 0\n@\nようやく見せてくれた笑顔に、\nマスターはほんの少しだが\nホッとした"
+	}
+]

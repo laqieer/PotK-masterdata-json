@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 95032299,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 250321 \"tiphereth_t_0001\"\n# se \"SE_0732\"\n@ティファレト\n主様、そのお答え…\n\n# face %(unit_a)s \"normal\"\n# voice 250321 \"tiphereth_t_0004\"\n@ティファレト\n正解です\n\n@ティファレト\nやはり、あなたこそ、\nこの身を捧げるにふさわしい御方…\n\n# face %(unit_a)s \"shy\"\n# voice 250321 \"tiphereth_t_0015\"\n@ティファレト\nあ、いえ、何でもありません…！\n\n@ティファレト\nでも…私のような者を\nしっかりと見ていて下さる…\n\n# voice 250321 \"tiphereth_t_0005\"\n@ティファレト\n主様には…必ずや\n神の慈悲が与えられるでしょう\n\n# face %(unit_a)s \"normal\"\n@ティファレト\nあ、すみません…！\nやっぱり生意気でしたよね…\n\n;;モノローグ\n# textflame 0 0\n@\nそう言って、\n照れ笑いを見せる彼女\n\n;;モノローグ\n@\nその笑顔こそ、\n女神の慈愛のようだと\nマスターは思った…\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 92030398,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# se \"SE_0733\"\n# textflame 1 1\n# face %(unit_a)s \"angry\"\n@リサナウト\nその答え…\n\n# voice 2030 \"risanautr_l_0013\"\n@リサナウト\n不正解！！\n\n# voice 2030 \"risanautr_l_0027\"\n@リサナウト\nあ～、当主様は間違えるし、\n私は恥をかくし…\n\n@リサナウト\nなにもかもやり直したい\n気分だわ…！\n\n# textflame 0 0\n@\n沈んだ顔を見せる彼女\n\n# voice 2030 \"risanautr_l_0002\"\n# textflame 1 1\n@リサナウト\nいい？時間を戻すから…\n今度こそ正解してよね\n\n# textflame 0 0\n@\nここから地獄の\n無限ループに\n入ってしまうのだろうか…\n\n@\nマスターは、彼女を悲しませた\n代償を払う覚悟を決める\nだが…\n\n# face %(unit_a)s \"normal\"\n# voice 2030 \"risanautr_l_0008\"\n# textflame 1 1\n@リサナウト\nなんて、冗談よ冗談\n\n# textflame 0 0\n@\nそう言って悪戯っぽく微笑むが、\n目の奥の悲しみの色は\n消えないままであった\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

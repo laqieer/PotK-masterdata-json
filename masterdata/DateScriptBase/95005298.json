@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 95005298,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# se \"SE_0733\"\n# face %(unit_a)s \"sad\"\n@ヴァジュラ\nうへ、不正解…\n\n# face %(unit_a)s \"usual\"\n# voice 5005 \"vajura_0008\"\n@ヴァジュラ\nま、しゃあないよな、\nいきなりだったし\n\n@ヴァジュラ\nあっちゃ～…\nせっかくのデートだったのに、\nビミョーな空気にしちゃって…\n\n# face %(unit_a)s \"sad\"\n@ヴァジュラ\nホントあたしって、\n失敗ばっか…\n自分でもヤんなるよ…\n\n# voice 5005 \"vajura_0004\"\n# face %(unit_a)s \"usual\"\n@ヴァジュラ\n…ま、気にしないでよ\nな？\n\n@ヴァジュラ\n…………\n\n# textflame 0 0\n@\nと言いながら、\n当の本人が\n一番気にしているようで…\n\n@\nあんなにも気を使わせてしまって、\nこっちこそ申し訳ないことをしたな…\n\n@\nこれからは、\nどんな質問も答えられるように\nちゃんと復習しておかないとだな…\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

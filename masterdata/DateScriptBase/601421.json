@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 601421,
+		"script": ";;今が本番だった,大\n;;頑張ります…,小\n;;次のデートの話？,中\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_room\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 0 0\n@\nマスターはデートの終わりに、\nプタハを部屋まで送り届けていた\n\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@プタハ\n今日は一日、\n楽しい時間を過ごさせて貰ったぞ、\nマスター\n\n@プタハ\nこれであれば、\n本番も上手くいくだろう\nこの我が保証するぞ\n;;----------------------------------------\n\n# face %(unit_a)s \"normal\"\n# textflame 1 1\n@%(unitName:unit_a)s\n…どうした？\nいつか想い人を誘うための、\nその予行練習だったのだろう？\n\n# select \"今が本番だった\" \"select_label_01\" \"頑張ります…\" \"select_label_02\" \"次のデートの話？\" \"select_label_03\"\n…どうした？\nいつか想い人を誘うための、\nその予行練習だったのだろう？\n\n# label \"select_label_01\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_02\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_03\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# textflame 1 1\n# waitandnext 0.1\n\n# label \"select_label_end\"\n# waitandnext 1.2\n# fadeout \"black\" 2\n"
+	}
+]

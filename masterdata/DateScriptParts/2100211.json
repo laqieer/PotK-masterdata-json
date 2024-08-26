@@ -1,0 +1,26 @@
+[
+	{
+		"ID": 222,
+		"unitID": 2100211,
+		"scriptID": "kaerimichi",
+		"script": "@レーヴァテイン\nあのさ…\nまだ一緒にいてもいいけど\nあなたはどうする…？\n\n# textflame 0 0\n@\nもちろん、と\n首を縦に振るマスター\n\n# textflame 1 1\n@レーヴァテイン\nふふっ\nじゃあ、いこっか"
+	},
+	{
+		"ID": 237,
+		"unitID": 2100211,
+		"scriptID": "kaeru",
+		"script": "ふぁ～あ…\nなんか疲れちゃった\n帰ろっか"
+	},
+	{
+		"ID": 252,
+		"unitID": 2100211,
+		"scriptID": "kaeru_ok",
+		"script": "@%(unitName:unit_a)s\nん～…\nまぁ良いか\nどこ行くつもり？"
+	},
+	{
+		"ID": 267,
+		"unitID": 2100211,
+		"scriptID": "kaeru_ng",
+		"script": "@%(unitName:unit_a)s\nん～…\n遠慮しとく"
+	}
+]

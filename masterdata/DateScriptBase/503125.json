@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 503125,
+		"script": "# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_shipboard\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# face %(unit_a)s \"usual\"\n# textflame 0 0\n@\nソロモンと一緒に\nゆったりと船上デートを\n楽しむマスター\n\n@\n二人のあいだには、\n決着間近のチェスの盤面が\n広がっていた\n\n# textflame 1 1\n# face %(unit_a)s \"happy\"\n# voice 250311 \"solomon_t_0004\"\n@ソロモン\nふふっ…どう？\n次の一手は\nもう決まったかしら\n\n# face %(unit_a)s \"usual\"\n@ソロモン\n私の分析によれば…\nあと二手で\n貴方にチェックメイトできる\n\n@ソロモン\nここから貴方が\n逆転できる可能性は\nほとんどゼロ…\n\n# voice 250311 \"solomon_t_0001\"\n@ソロモン\nさあ、マスター\n貴方はこの局面で\nどう出るつもり？\n\n# textflame 0 0\n@\nそれなら、こうだ！\nとマスターは駒を進めるが…\n\n# textflame 1 1\n# face %(unit_a)s \"angry\"\n# voice 250311 \"solomon_t_0022\"\n@ソロモン\nっ！？\nな、何をしているの？\n\n@ソロモン\nそこに置いたら、\n次の私の手で\nキングを取られてしまうわ…？\n\n# face %(unit_a)s \"normal\"\n@ソロモン\n…っ！\nなるほどね、\n私がさっき導いた解…\n\n@ソロモン\n『あと二手で\nチェックメイトする』…\nその解を貴方は覆した…！\n\n# voice 250311 \"solomon_t_0039\"\n@ソロモン\n貴方って本当に\n公式に縛られない人ね…\n\n# face %(unit_a)s \"usual\"\n@ソロモン\nでも、負けは負けよ？\n\n@ソロモン\nキングが自ら\n身を投げ出すなんて、\nどう考えても最適解じゃないもの\n\n@ソロモン\nでも…\nなんだか、とても\nマスターらしい答えね\n\n@ソロモン\nだからといって、\n現実の戦いでは\n絶対にしないように！\n\n# textflame 0 0\n@\nそう言うと、ソロモンは\n指先でキングを倒す\n\n@\nマスターは観念して、\nソロモンにこうべを垂れるのだった\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

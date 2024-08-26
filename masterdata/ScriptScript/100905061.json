@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 100905061,
+		"script": "# background \"underground_world_3\"\n# bgmfile \"bgm276\" \"BgmLostRagnarokEvent\" 0\n# body 3101411\n# pos 3101411 4\n# scale 3101411 0.8 0\n# alpha 3101411 1 0\n# body 137\n# pos 137 2\n# scale 137 0.8 0\n# alpha 137 1 0\n# textflame 1 1\n# voice 310141 \"tyrufing_lo_0049\"\n# face 3101411 \"angry\"\n# textboxarrow 0 3\n@ティルフィング\nギル、決して私から離れないで\n下さいねっ\n\n# textflame 1 1\n# voice 9969 \"gill_0040\"\n# face 137 \"surprise\"\n# textboxarrow 0 1\n@ギル\n…ティルフィングさん、\n俺のことなんか放っておいて、\nみんなのところに行って下さい…！\n\n# textflame 1 1\n;;# voice 9969 \"\"\n;;# face 137 \"\"\n@ギル\n俺のせいで…ティルフィングさんが\nまともに戦えないなんて…\n最悪だっ…！\n\n# textflame 1 1\n# voice 310141 \"tyrufing_lo_0037\"\n# face 3101411 \"sad\"\n# textboxarrow 0 3\n@ティルフィング\nギル、アナタのせいではありません\nフェイルノート…\nこれが狙いだったのですねっ…\n\n# textflame 1 1\n;;# voice 310141 \"\"\n;;# face 3101411 \"\"\n@ティルフィング\n私にギルを守らせることで\n動きを制限する…何て恐ろしい…\n悪魔の狡智ですっ…\n\n# textflame 1 1\n;;# voice 310141 \"\"\n;;# face 3101411 \"\"\n@ティルフィング\nこのままではハルモニア軍は\n壊滅してしまいますっ…\n何とかしないとっ"
+	}
+]

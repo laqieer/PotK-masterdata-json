@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 400825,
+		"script": ";;ハズレ\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_fireworks\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 0 0\n# face %(unit_a)s \"usual\"\n@\nマスターは夜になってから、\nオティヌスと一緒に\n花火大会に向かった\n\n# textflame 1 1\n@オティヌス\nうわ～！\nやってるやってる！\n\n# voice 4008 \"otyinusu_0021\"\n# face %(unit_a)s \"smile\"\n@オティヌス\nう～、すごい音！\n\n# voice 4008 \"otyinusu_0004\"\n@オティヌス\nやっぱり手で持てる花火とは、\n規模が違うよね、規模が！\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n\n# textflame 0 0\n# fadein \"black\" 0.5\n# textflame 0 0\n@\n二人は花火を楽しんだ\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

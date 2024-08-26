@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 102512,
+		"script": ";;B こっち向いて（大）\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_ferris\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# voice 1025 \"muramasa_0023\"\n# face %(unit_a)s \"sad\"\n@ムラマサ\nはひぃっ！\n\n# textflame 0 0\n@\n小さく飛び上がるムラマサは\nさっきから観覧車のガラスに\n顔を貼り付けたままだった\n\n# textflame 1 1\n@ムラマサ\nそ、そうですよね…\n主君の御前であるのにも\n関わらず…\n\n# textflame 1 1\n# voice 1025 \"muramasa_0017\"\n@ムラマサ\nそのお顔を拝せずして\n言葉を語るなど…\n\n# textflame 0 0\n@\nそう言っている間も\nムラマサは額を\nガラスにピッタリつけている\n\n# textflame 1 1\n# face %(unit_a)s \"angry\"\n@ムラマサ\nし、しかしこれは！\n\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n@ムラマサ\n将軍の前で\n深く頭を垂れているような状態と\nお見知り置き下さい…！\n\n# textflame 0 0\n@\nマスターは思案した後、言い直す\n面をあげよ、と\n\n# textflame 1 1\n# voice 1025 \"muramasa_0017\"\n@ムラマサ\n…主君\nご命令に背くことを\nお許し下さい…\n\n# textflame 1 1\n# voice 1025 \"muramasa_0042\"\n@ムラマサ\n…恥ずかしいんですぅ\n\n# textflame 0 0\n@\nムラマサは…\n三週目の観覧車でやっと\nマスターの方を向いてくれた――\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 27900212,
+		"script": ";;【指定】bgm000\n;;第8幕　タイトル：暴走のジャングル\n;;//背景：地下\n;;【指定】bgm010\n# script \"lisp\"\n# background \"006_jail\"\n# bgm \"bgm010\" 0\n# body 2300711\n# pos 2300711 3\n# face 2300711 \"angry\"\n# scale 2300711 0.8 0\n# body 2102511\n# pos 2102511 1\n# scale 2102511 0.8 0\n# body 2500211\n# pos 2500211 5\n# scale 2500211 0.8 0\n# face 2500211 \"sad\"\n# face 2102511 \"angry\"\n# layer 2300711 4\n# voice 5002 \"furaikugeru_0023\"\n@フライクーゲル\nホワッツ！？\n邪魔するなんて、ナンセンスだよ～\n\n# voice 3007 \"gaiborugu_0011\"\n@ゲイボルグ\n私の治める地で、\nこれ以上の狼藉は捨て置けない\nここがしかるべきときと判断した\n\n# voice 5002 \"furaikugeru_0015\"\n@フライクーゲル\nううっ…\nきみの相手を…してる\n場合じゃないのにっ…！\n\n;;【指定】SE_5575\n;;//フライクーゲルが走り去る\n# alpha 2500211 0 0.5\n# se \"SE_5575\"\n# waitandnext 1\n\n# eye 2300711 \"close\"\n# voice 3007 \"gaiborugu_0039\"\n@ゲイボルグ\nふむ\n引き際を心得ているのは感心だ\n\n# face 2102511 \"sad\"\n# voice 1025 \"muramasa_0030\"\n@ムラマサ\nあの…\nありがとうございます\n\n# eye 2300711 \"normal\"\n# face 2300711 \"normal\"\n# voice 3007 \"gaiborugu_0003\"\n@ゲイボルグ\nああ、貴様も無事でなによりだ\n連合の盟主殿"
+	}
+]

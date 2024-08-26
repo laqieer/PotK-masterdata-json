@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 400814,
+		"script": ";;A 怖いの？（小）\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_hauntedhouse\"\n# bgmfile \"bgm257\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 4008 \"otyinusu_0022\"\n@オティヌス\nこ、怖くなんか…\n\n# face %(unit_a)s \"sad\"\n@オティヌス\n…あるかも\n\n@オティヌス\nうぅ～、こんなんじゃ、\n弱っちく見られちゃうよね…\n\n# voice 4008 \"otyinusu_0015\"\n@オティヌス\nでもでも…\n怖いものは怖いよぉ～！\n\n# textflame 0 0\n@\n弱気なオティヌスを励ましている\nうちに、ホラーハウスは\n終わってしまった…\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

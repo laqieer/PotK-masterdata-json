@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 301714,
+		"script": "# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_ferris\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# face %(unit_a)s \"angry\"\n# voice 3017 \"wotan_0009\"\n@ヴォータン\nまったくお前は…\n馬鹿にするな\n\n@ヴォータン\nそんなことぐらい\n私でも知ってるぞ\n\n# voice 3017 \"wotan_0003\"\n# eye %(unit_a)s \"close\"\n@ヴォータン\nただ、万全を期して\n準備はしておくべきだろ\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"normal\"\n@ヴォータン\n…とは言え、この高さから\n飛び降りるのは難しいな\n\n# voice 3017 \"wotan_0004\"\n@ヴォータン\nゴンドラからゴンドラに\n飛び移るか…？\n\n# textflame 0 0\n@\nブツブツと対応策を練る\nヴォータンと一緒に\n同じ空間を楽しんだ\n;;--------------------------------------\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

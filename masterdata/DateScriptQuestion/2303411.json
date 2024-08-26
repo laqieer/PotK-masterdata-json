@@ -1,0 +1,302 @@
+[
+	{
+		"ID": 6403,
+		"unitID": 2303411,
+		"questionID": 9303401,
+		"script": ";;槍,1\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 530341 \"grandepieu_di_0002\"\n@グランテピエ\n今日はありがとうね、\n誘ってくれて\n\n@グランテピエ\n君みたいな優しい弟がいて、\nお姉さん、嬉しいな♪\n\n# voice 530341 \"grandepieu_di_0022\"\n@グランテピエ\nえ？弟じゃない？\n\n# face %(unit_a)s \"usual\"\n# voice 530341 \"grandepieu_di_0004\"\n@グランテピエ\nうふふ、大人ぶっちゃって\n\n@グランテピエ\n弟扱いされるのが恥ずかしいの？\n\n@グランテピエ\nわかった、じゃあ試験を行います\n\n@グランテピエ\n私が出す問題に正解できたら、\n弟を卒業ってことでどう？\n\n@グランテピエ\nじゃあ、いくよ？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私の武器属性はわかる、かな？　\n\n# se \"SE_0734\"\n# select \"槍\" \"select_label_1\" \"銃\" \"select_label_2\" \"剣\" \"select_label_3\"\n私の武器属性はわかる、かな？　\n"
+	},
+	{
+		"ID": 6404,
+		"unitID": 2303411,
+		"questionID": 9303402,
+		"script": ";;バハムート,1\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 530341 \"grandepieu_di_0002\"\n@グランテピエ\n今日はありがとうね、\n誘ってくれて\n\n@グランテピエ\n君みたいな優しい弟がいて、\nお姉さん、嬉しいな♪\n\n# voice 530341 \"grandepieu_di_0022\"\n@グランテピエ\nえ？弟じゃない？\n\n# face %(unit_a)s \"usual\"\n# voice 530341 \"grandepieu_di_0004\"\n@グランテピエ\nうふふ、大人ぶっちゃって\n\n@グランテピエ\n弟扱いされるのが恥ずかしいの？\n\n@グランテピエ\nわかった、じゃあ試験を行います\n\n@グランテピエ\n私が出す問題に正解できたら、\n弟を卒業ってことでどう？\n\n@グランテピエ\nじゃあ、いくよ？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私に獣刻された\n幻獣はわかる、かな？\n\n# se \"SE_0734\"\n# select \"バハムート\" \"select_label_1\" \"ババイノキ\" \"select_label_2\" \"バハムーア\" \"select_label_3\"\n私に獣刻された\n幻獣はわかる、かな？\n"
+	},
+	{
+		"ID": 6405,
+		"unitID": 2303411,
+		"questionID": 9303403,
+		"script": ";;フランス叙事詩,2\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 530341 \"grandepieu_di_0002\"\n@グランテピエ\n今日はありがとうね、\n誘ってくれて\n\n@グランテピエ\n君みたいな優しい弟がいて、\nお姉さん、嬉しいな♪\n\n# voice 530341 \"grandepieu_di_0022\"\n@グランテピエ\nえ？弟じゃない？\n\n# face %(unit_a)s \"usual\"\n# voice 530341 \"grandepieu_di_0004\"\n@グランテピエ\nうふふ、大人ぶっちゃって\n\n@グランテピエ\n弟扱いされるのが恥ずかしいの？\n\n@グランテピエ\nわかった、じゃあ試験を行います\n\n@グランテピエ\n私が出す問題に正解できたら、\n弟を卒業ってことでどう？\n\n@グランテピエ\nじゃあ、いくよ？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私のキラーズ、『グランテピエ』は\nどんな伝承に\n登場するかわかる、かな？\n\n# se \"SE_0734\"\n# select \"ギリシャ神話\" \"select_label_1\" \"フランス叙事詩\" \"select_label_2\" \"インド神話\" \"select_label_3\"\n私のキラーズ、『グランテピエ』は\nどんな伝承に\n登場するかわかる、かな？\n"
+	},
+	{
+		"ID": 6406,
+		"unitID": 2303411,
+		"questionID": 9303404,
+		"script": ";;テュルパン,1\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 530341 \"grandepieu_di_0002\"\n@グランテピエ\n今日はありがとうね、\n誘ってくれて\n\n@グランテピエ\n君みたいな優しい弟がいて、\nお姉さん、嬉しいな♪\n\n# voice 530341 \"grandepieu_di_0022\"\n@グランテピエ\nえ？弟じゃない？\n\n# face %(unit_a)s \"usual\"\n# voice 530341 \"grandepieu_di_0004\"\n@グランテピエ\nうふふ、大人ぶっちゃって\n\n@グランテピエ\n弟扱いされるのが恥ずかしいの？\n\n@グランテピエ\nわかった、じゃあ試験を行います\n\n@グランテピエ\n私が出す問題に正解できたら、\n弟を卒業ってことでどう？\n\n@グランテピエ\nじゃあ、いくよ？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私のキラーズ『グランテピエ』は\n誰が持っていた、かな？\n\n# se \"SE_0734\"\n# select \"テュルパン\" \"select_label_1\" \"ソルパン\" \"select_label_2\" \"ジャルパン\" \"select_label_3\"\n私のキラーズ『グランテピエ』は\n誰が持っていた、かな？\n"
+	},
+	{
+		"ID": 6407,
+		"unitID": 2303411,
+		"questionID": 9303405,
+		"script": ";;業物の矛,3\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 530341 \"grandepieu_di_0002\"\n@グランテピエ\n今日はありがとうね、\n誘ってくれて\n\n@グランテピエ\n君みたいな優しい弟がいて、\nお姉さん、嬉しいな♪\n\n# voice 530341 \"grandepieu_di_0022\"\n@グランテピエ\nえ？弟じゃない？\n\n# face %(unit_a)s \"usual\"\n# voice 530341 \"grandepieu_di_0004\"\n@グランテピエ\nうふふ、大人ぶっちゃって\n\n@グランテピエ\n弟扱いされるのが恥ずかしいの？\n\n@グランテピエ\nわかった、じゃあ試験を行います\n\n@グランテピエ\n私が出す問題に正解できたら、\n弟を卒業ってことでどう？\n\n@グランテピエ\nじゃあ、いくよ？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私のキラーズ『グランテピエ』の\n意味はわかる、かな？\n\n# se \"SE_0734\"\n# select \"偽物の矛\" \"select_label_1\" \"魔物の矛\" \"select_label_2\" \"業物の矛\" \"select_label_3\"\n私のキラーズ『グランテピエ』の\n意味はわかる、かな？\n"
+	},
+	{
+		"ID": 6408,
+		"unitID": 2303411,
+		"questionID": 9303406,
+		"script": ";;巨大魚,3\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 530341 \"grandepieu_di_0002\"\n@グランテピエ\n今日はありがとうね、\n誘ってくれて\n\n@グランテピエ\n君みたいな優しい弟がいて、\nお姉さん、嬉しいな♪\n\n# voice 530341 \"grandepieu_di_0022\"\n@グランテピエ\nえ？弟じゃない？\n\n# face %(unit_a)s \"usual\"\n# voice 530341 \"grandepieu_di_0004\"\n@グランテピエ\nうふふ、大人ぶっちゃって\n\n@グランテピエ\n弟扱いされるのが恥ずかしいの？\n\n@グランテピエ\nわかった、じゃあ試験を行います\n\n@グランテピエ\n私が出す問題に正解できたら、\n弟を卒業ってことでどう？\n\n@グランテピエ\nじゃあ、いくよ？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私に獣刻された幻獣バハムートは\n大地の下で世界を支える、\n何と云われている？\n\n# se \"SE_0734\"\n# select \"巨大蛇\" \"select_label_1\" \"巨大鳥\" \"select_label_2\" \"巨大魚\" \"select_label_3\"\n私に獣刻された幻獣バハムートは\n大地の下で世界を支える、\n何と云われている？\n"
+	},
+	{
+		"ID": 6409,
+		"unitID": 2303411,
+		"questionID": 9303407,
+		"script": ";;大司教,3\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 530341 \"grandepieu_di_0002\"\n@グランテピエ\n今日はありがとうね、\n誘ってくれて\n\n@グランテピエ\n君みたいな優しい弟がいて、\nお姉さん、嬉しいな♪\n\n# voice 530341 \"grandepieu_di_0022\"\n@グランテピエ\nえ？弟じゃない？\n\n# face %(unit_a)s \"usual\"\n# voice 530341 \"grandepieu_di_0004\"\n@グランテピエ\nうふふ、大人ぶっちゃって\n\n@グランテピエ\n弟扱いされるのが恥ずかしいの？\n\n@グランテピエ\nわかった、じゃあ試験を行います\n\n@グランテピエ\n私が出す問題に正解できたら、\n弟を卒業ってことでどう？\n\n@グランテピエ\nじゃあ、いくよ？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私のキラーズ『グランテピエ』の\n持ち主テュルパンの役職は\nわかる、かな？\n\n# se \"SE_0734\"\n# select \"大将軍\" \"select_label_1\" \"大統領\" \"select_label_2\" \"大司教\" \"select_label_3\"\n私のキラーズ『グランテピエ』の\n持ち主テュルパンの役職は\nわかる、かな？\n"
+	},
+	{
+		"ID": 6410,
+		"unitID": 2303411,
+		"questionID": 9303408,
+		"script": ";;シャルルマーニュ大帝,1\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 530341 \"grandepieu_di_0002\"\n@グランテピエ\n今日はありがとうね、\n誘ってくれて\n\n@グランテピエ\n君みたいな優しい弟がいて、\nお姉さん、嬉しいな♪\n\n# voice 530341 \"grandepieu_di_0022\"\n@グランテピエ\nえ？弟じゃない？\n\n# face %(unit_a)s \"usual\"\n# voice 530341 \"grandepieu_di_0004\"\n@グランテピエ\nうふふ、大人ぶっちゃって\n\n@グランテピエ\n弟扱いされるのが恥ずかしいの？\n\n@グランテピエ\nわかった、じゃあ試験を行います\n\n@グランテピエ\n私が出す問題に正解できたら、\n弟を卒業ってことでどう？\n\n@グランテピエ\nじゃあ、いくよ？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私のキラーズ『グランテピエ』の\n持ち主テュルパンは\n誰に仕えていたかわかる、かな？\n\n# se \"SE_0734\"\n# select \"シャルルマーニュ大帝\" \"select_label_1\" \"ジョルマーニュ大帝\" \"select_label_2\" \"バハマーニュ大帝\" \"select_label_3\"\n私のキラーズ『グランテピエ』の\n持ち主テュルパンは\n誰に仕えていたかわかる、かな？\n"
+	},
+	{
+		"ID": 6411,
+		"unitID": 2303411,
+		"questionID": 9303409,
+		"script": ";;アルマス,3\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 530341 \"grandepieu_di_0002\"\n@グランテピエ\n今日はありがとうね、\n誘ってくれて\n\n@グランテピエ\n君みたいな優しい弟がいて、\nお姉さん、嬉しいな♪\n\n# voice 530341 \"grandepieu_di_0022\"\n@グランテピエ\nえ？弟じゃない？\n\n# face %(unit_a)s \"usual\"\n# voice 530341 \"grandepieu_di_0004\"\n@グランテピエ\nうふふ、大人ぶっちゃって\n\n@グランテピエ\n弟扱いされるのが恥ずかしいの？\n\n@グランテピエ\nわかった、じゃあ試験を行います\n\n@グランテピエ\n私が出す問題に正解できたら、\n弟を卒業ってことでどう？\n\n@グランテピエ\nじゃあ、いくよ？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私のキラーズ『グランテピエ』の\n持ち主テュルパンの\n愛剣といえば？\n\n# se \"SE_0734\"\n# select \"カルパス\" \"select_label_1\" \"フォルカス\" \"select_label_2\" \"アルマス\" \"select_label_3\"\n私のキラーズ『グランテピエ』の\n持ち主テュルパンの\n愛剣といえば？\n"
+	},
+	{
+		"ID": 6412,
+		"unitID": 2303411,
+		"questionID": 9303410,
+		"script": ";;３日間,2\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 530341 \"grandepieu_di_0002\"\n@グランテピエ\n今日はありがとうね、\n誘ってくれて\n\n@グランテピエ\n君みたいな優しい弟がいて、\nお姉さん、嬉しいな♪\n\n# voice 530341 \"grandepieu_di_0022\"\n@グランテピエ\nえ？弟じゃない？\n\n# face %(unit_a)s \"usual\"\n# voice 530341 \"grandepieu_di_0004\"\n@グランテピエ\nうふふ、大人ぶっちゃって\n\n@グランテピエ\n弟扱いされるのが恥ずかしいの？\n\n@グランテピエ\nわかった、じゃあ試験を行います\n\n@グランテピエ\n私が出す問題に正解できたら、\n弟を卒業ってことでどう？\n\n@グランテピエ\nじゃあ、いくよ？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私に獣刻された幻獣バハムートを\n見た人は気絶して、何日間目を\n覚まさなかったと云われる、かな？\n\n# se \"SE_0734\"\n# select \"３ヶ月\" \"select_label_1\" \"３日間\" \"select_label_2\" \"３年\" \"select_label_3\"\n私に獣刻された幻獣バハムートを\n見た人は気絶して、何日間目を\n覚まさなかったと云われる、かな？\n"
+	},
+	{
+		"ID": 6413,
+		"unitID": 2303411,
+		"questionID": 9303411,
+		"script": ";;闇,2\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n@グランテピエ\n…いいの、かな？\n\n# textflame 0 0\n@\nなにが？\n尋ねるマスターに、\n彼女が答える\n\n# textflame 1 1\n# voice 530341 \"grandepieu_di_0003\"\n@グランテピエ\nこうやって誘ってくれるのは\n嬉しいんだけど\n\n@グランテピエ\n君は人気者だから、ね\n\n@グランテピエ\nなんだか、他の子に\n申し訳ないなぁ…って\n\n# voice 530341 \"grandepieu_di_0004\"\n@グランテピエ\nみんな、女の子なんだから、\nそういうの気にしないとダメ、だぞ？\n\n@グランテピエ\n君は女心に疎そうだからなぁ、\nお姉さん、心配だよ\n\n@グランテピエ\n…そうだ！\nどれくらい女心が分かってるか、\n試してみていい？\n\n@グランテピエ\nじゃ、いくよ？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私の属性は知ってる？\n\n# se \"SE_0734\"\n# select \"風\" \"select_label_1\" \"闇\" \"select_label_2\" \"炎\" \"select_label_3\"\n私の属性は知ってる？\n"
+	},
+	{
+		"ID": 6414,
+		"unitID": 2303411,
+		"questionID": 9303412,
+		"script": ";;163cm ,3\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n@グランテピエ\n…いいの、かな？\n\n# textflame 0 0\n@\nなにが？\n尋ねるマスターに、\n彼女が答える\n\n# textflame 1 1\n# voice 530341 \"grandepieu_di_0003\"\n@グランテピエ\nこうやって誘ってくれるのは\n嬉しいんだけど\n\n@グランテピエ\n君は人気者だから、ね\n\n@グランテピエ\nなんだか、他の子に\n申し訳ないなぁ…って\n\n# voice 530341 \"grandepieu_di_0004\"\n@グランテピエ\nみんな、女の子なんだから、\nそういうの気にしないとダメ、だぞ？\n\n@グランテピエ\n君は女心に疎そうだからなぁ、\nお姉さん、心配だよ\n\n@グランテピエ\n…そうだ！\nどれくらい女心が分かってるか、\n試してみていい？\n\n@グランテピエ\nじゃ、いくよ？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私の身長は\n何センチかわかる、かな？\n\n# se \"SE_0734\"\n# select \"165cm\" \"select_label_1\" \"167cm\" \"select_label_2\" \"163cm \" \"select_label_3\"\n私の身長は\n何センチかわかる、かな？\n"
+	},
+	{
+		"ID": 6415,
+		"unitID": 2303411,
+		"questionID": 9303413,
+		"script": ";;8月15日,3\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n@グランテピエ\n…いいの、かな？\n\n# textflame 0 0\n@\nなにが？\n尋ねるマスターに、\n彼女が答える\n\n# textflame 1 1\n# voice 530341 \"grandepieu_di_0003\"\n@グランテピエ\nこうやって誘ってくれるのは\n嬉しいんだけど\n\n@グランテピエ\n君は人気者だから、ね\n\n@グランテピエ\nなんだか、他の子に\n申し訳ないなぁ…って\n\n# voice 530341 \"grandepieu_di_0004\"\n@グランテピエ\nみんな、女の子なんだから、\nそういうの気にしないとダメ、だぞ？\n\n@グランテピエ\n君は女心に疎そうだからなぁ、\nお姉さん、心配だよ\n\n@グランテピエ\n…そうだ！\nどれくらい女心が分かってるか、\n試してみていい？\n\n@グランテピエ\nじゃ、いくよ？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私の誕生日は知ってる、かな？\n\n# se \"SE_0734\"\n# select \"9月15日\" \"select_label_1\" \"10月15日\" \"select_label_2\" \"8月15日\" \"select_label_3\"\n私の誕生日は知ってる、かな？\n"
+	},
+	{
+		"ID": 6416,
+		"unitID": 2303411,
+		"questionID": 9303414,
+		"script": ";;しし座,1\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n@グランテピエ\n…いいの、かな？\n\n# textflame 0 0\n@\nなにが？\n尋ねるマスターに、\n彼女が答える\n\n# textflame 1 1\n# voice 530341 \"grandepieu_di_0003\"\n@グランテピエ\nこうやって誘ってくれるのは\n嬉しいんだけど\n\n@グランテピエ\n君は人気者だから、ね\n\n@グランテピエ\nなんだか、他の子に\n申し訳ないなぁ…って\n\n# voice 530341 \"grandepieu_di_0004\"\n@グランテピエ\nみんな、女の子なんだから、\nそういうの気にしないとダメ、だぞ？\n\n@グランテピエ\n君は女心に疎そうだからなぁ、\nお姉さん、心配だよ\n\n@グランテピエ\n…そうだ！\nどれくらい女心が分かってるか、\n試してみていい？\n\n@グランテピエ\nじゃ、いくよ？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私の星座は知ってる、かな？\n\n# se \"SE_0734\"\n# select \"しし座\" \"select_label_1\" \"いて座\" \"select_label_2\" \"おとめ座\" \"select_label_3\"\n私の星座は知ってる、かな？\n"
+	},
+	{
+		"ID": 6417,
+		"unitID": 2303411,
+		"questionID": 9303415,
+		"script": ";;自分の生を軽んじる,3\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n@グランテピエ\n…いいの、かな？\n\n# textflame 0 0\n@\nなにが？\n尋ねるマスターに、\n彼女が答える\n\n# textflame 1 1\n# voice 530341 \"grandepieu_di_0003\"\n@グランテピエ\nこうやって誘ってくれるのは\n嬉しいんだけど\n\n@グランテピエ\n君は人気者だから、ね\n\n@グランテピエ\nなんだか、他の子に\n申し訳ないなぁ…って\n\n# voice 530341 \"grandepieu_di_0004\"\n@グランテピエ\nみんな、女の子なんだから、\nそういうの気にしないとダメ、だぞ？\n\n@グランテピエ\n君は女心に疎そうだからなぁ、\nお姉さん、心配だよ\n\n@グランテピエ\n…そうだ！\nどれくらい女心が分かってるか、\n試してみていい？\n\n@グランテピエ\nじゃ、いくよ？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私、人からよく、どういう癖がある\nって言われる、かな？\n\n# se \"SE_0734\"\n# select \"自分の金を軽んじる\" \"select_label_1\" \"自分の気持ちを軽んじる\" \"select_label_2\" \"自分の生を軽んじる\" \"select_label_3\"\n私、人からよく、どういう癖がある\nって言われる、かな？\n"
+	},
+	{
+		"ID": 6418,
+		"unitID": 2303411,
+		"questionID": 9303416,
+		"script": ";;家事全般,1\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n@グランテピエ\n…いいの、かな？\n\n# textflame 0 0\n@\nなにが？\n尋ねるマスターに、\n彼女が答える\n\n# textflame 1 1\n# voice 530341 \"grandepieu_di_0003\"\n@グランテピエ\nこうやって誘ってくれるのは\n嬉しいんだけど\n\n@グランテピエ\n君は人気者だから、ね\n\n@グランテピエ\nなんだか、他の子に\n申し訳ないなぁ…って\n\n# voice 530341 \"grandepieu_di_0004\"\n@グランテピエ\nみんな、女の子なんだから、\nそういうの気にしないとダメ、だぞ？\n\n@グランテピエ\n君は女心に疎そうだからなぁ、\nお姉さん、心配だよ\n\n@グランテピエ\n…そうだ！\nどれくらい女心が分かってるか、\n試してみていい？\n\n@グランテピエ\nじゃ、いくよ？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私の趣味はわかる、かな？\n\n# se \"SE_0734\"\n# select \"家事全般\" \"select_label_1\" \"サーフィン\" \"select_label_2\" \"ロボットダンス\" \"select_label_3\"\n私の趣味はわかる、かな？\n"
+	},
+	{
+		"ID": 6419,
+		"unitID": 2303411,
+		"questionID": 9303417,
+		"script": ";;Ｏ型,3\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n@グランテピエ\n…いいの、かな？\n\n# textflame 0 0\n@\nなにが？\n尋ねるマスターに、\n彼女が答える\n\n# textflame 1 1\n# voice 530341 \"grandepieu_di_0003\"\n@グランテピエ\nこうやって誘ってくれるのは\n嬉しいんだけど\n\n@グランテピエ\n君は人気者だから、ね\n\n@グランテピエ\nなんだか、他の子に\n申し訳ないなぁ…って\n\n# voice 530341 \"grandepieu_di_0004\"\n@グランテピエ\nみんな、女の子なんだから、\nそういうの気にしないとダメ、だぞ？\n\n@グランテピエ\n君は女心に疎そうだからなぁ、\nお姉さん、心配だよ\n\n@グランテピエ\n…そうだ！\nどれくらい女心が分かってるか、\n試してみていい？\n\n@グランテピエ\nじゃ、いくよ？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私の血液型は知っている、かな？\n\n# se \"SE_0734\"\n# select \"Ａ型\" \"select_label_1\" \"Ｂ型\" \"select_label_2\" \"Ｏ型\" \"select_label_3\"\n私の血液型は知っている、かな？\n"
+	},
+	{
+		"ID": 6420,
+		"unitID": 2303411,
+		"questionID": 9303418,
+		"script": ";;フランス,2\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n@グランテピエ\n…いいの、かな？\n\n# textflame 0 0\n@\nなにが？\n尋ねるマスターに、\n彼女が答える\n\n# textflame 1 1\n# voice 530341 \"grandepieu_di_0003\"\n@グランテピエ\nこうやって誘ってくれるのは\n嬉しいんだけど\n\n@グランテピエ\n君は人気者だから、ね\n\n@グランテピエ\nなんだか、他の子に\n申し訳ないなぁ…って\n\n# voice 530341 \"grandepieu_di_0004\"\n@グランテピエ\nみんな、女の子なんだから、\nそういうの気にしないとダメ、だぞ？\n\n@グランテピエ\n君は女心に疎そうだからなぁ、\nお姉さん、心配だよ\n\n@グランテピエ\n…そうだ！\nどれくらい女心が分かってるか、\n試してみていい？\n\n@グランテピエ\nじゃ、いくよ？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私の出身地は知っている、かな？\n\n# se \"SE_0734\"\n# select \"アメリカ\" \"select_label_1\" \"フランス\" \"select_label_2\" \"ドイツ\" \"select_label_3\"\n私の出身地は知っている、かな？\n"
+	},
+	{
+		"ID": 6421,
+		"unitID": 2303411,
+		"questionID": 9303419,
+		"script": ";;アルマス,3\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n@グランテピエ\n…いいの、かな？\n\n# textflame 0 0\n@\nなにが？\n尋ねるマスターに、\n彼女が答える\n\n# textflame 1 1\n# voice 530341 \"grandepieu_di_0003\"\n@グランテピエ\nこうやって誘ってくれるのは\n嬉しいんだけど\n\n@グランテピエ\n君は人気者だから、ね\n\n@グランテピエ\nなんだか、他の子に\n申し訳ないなぁ…って\n\n# voice 530341 \"grandepieu_di_0004\"\n@グランテピエ\nみんな、女の子なんだから、\nそういうの気にしないとダメ、だぞ？\n\n@グランテピエ\n君は女心に疎そうだからなぁ、\nお姉さん、心配だよ\n\n@グランテピエ\n…そうだ！\nどれくらい女心が分かってるか、\n試してみていい？\n\n@グランテピエ\nじゃ、いくよ？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私の妹の名前はわかる、かな？\n\n# se \"SE_0734\"\n# select \"アダマス\" \"select_label_1\" \"アポロン\" \"select_label_2\" \"アルマス\" \"select_label_3\"\n私の妹の名前はわかる、かな？\n"
+	},
+	{
+		"ID": 6422,
+		"unitID": 2303411,
+		"questionID": 9303420,
+		"script": ";;小さなもの,3\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n@グランテピエ\n…いいの、かな？\n\n# textflame 0 0\n@\nなにが？\n尋ねるマスターに、\n彼女が答える\n\n# textflame 1 1\n# voice 530341 \"grandepieu_di_0003\"\n@グランテピエ\nこうやって誘ってくれるのは\n嬉しいんだけど\n\n@グランテピエ\n君は人気者だから、ね\n\n@グランテピエ\nなんだか、他の子に\n申し訳ないなぁ…って\n\n# voice 530341 \"grandepieu_di_0004\"\n@グランテピエ\nみんな、女の子なんだから、\nそういうの気にしないとダメ、だぞ？\n\n@グランテピエ\n君は女心に疎そうだからなぁ、\nお姉さん、心配だよ\n\n@グランテピエ\n…そうだ！\nどれくらい女心が分かってるか、\n試してみていい？\n\n@グランテピエ\nじゃ、いくよ？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私の好きなものはわかる、かな？\n\n# se \"SE_0734\"\n# select \"熱いもの\" \"select_label_1\" \"大きいもの\" \"select_label_2\" \"小さなもの\" \"select_label_3\"\n私の好きなものはわかる、かな？\n"
+	},
+	{
+		"ID": 6423,
+		"unitID": 2303411,
+		"questionID": 9303421,
+		"script": ";;先駆者の包容,1\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 530341 \"grandepieu_di_0002\"\n@グランテピエ\nずっと思ってた\nみんなのことは私が守る…って\n\n@グランテピエ\nだって、\n血の繋がりがなくても\nみんな、私の大切な家族だから\n\n@グランテピエ\nもちろん、君も\n\n@グランテピエ\n誰一人、特別扱いはしない\n\n@グランテピエ\n……つもりだったんだけど、\nでも、君は……\n\n@グランテピエ\n妙に気になって、\n放っておけないんだよね\n\n@グランテピエ\nなんでだろう…？\n\n@グランテピエ\nこの想い、確かめたいの\n\n@グランテピエ\n私の問いに…答えてみせて\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私の覚えるリーダースキルは\n知ってる、かな？\n\n# se \"SE_0734\"\n# select \"先駆者の包容\" \"select_label_1\" \"先駆者の栄養\" \"select_label_2\" \"先駆者の高揚\" \"select_label_3\"\n私の覚えるリーダースキルは\n知ってる、かな？\n"
+	},
+	{
+		"ID": 6424,
+		"unitID": 2303411,
+		"questionID": 9303422,
+		"script": ";;獣牙惨翼,3\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 530341 \"grandepieu_di_0002\"\n@グランテピエ\nずっと思ってた\nみんなのことは私が守る…って\n\n@グランテピエ\nだって、\n血の繋がりがなくても\nみんな、私の大切な家族だから\n\n@グランテピエ\nもちろん、君も\n\n@グランテピエ\n誰一人、特別扱いはしない\n\n@グランテピエ\n……つもりだったんだけど、\nでも、君は……\n\n@グランテピエ\n妙に気になって、\n放っておけないんだよね\n\n@グランテピエ\nなんでだろう…？\n\n@グランテピエ\nこの想い、確かめたいの\n\n@グランテピエ\n私の問いに…答えてみせて\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私の覚えるスキルは\n知ってる、よね？\n\n# se \"SE_0734\"\n# select \"天命断行\" \"select_label_1\" \"破魔戴天\" \"select_label_2\" \"獣牙惨翼\" \"select_label_3\"\n私の覚えるスキルは\n知ってる、よね？\n"
+	},
+	{
+		"ID": 6425,
+		"unitID": 2303411,
+		"questionID": 9303423,
+		"script": ";;先駆者の援護,3\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 530341 \"grandepieu_di_0002\"\n@グランテピエ\nずっと思ってた\nみんなのことは私が守る…って\n\n@グランテピエ\nだって、\n血の繋がりがなくても\nみんな、私の大切な家族だから\n\n@グランテピエ\nもちろん、君も\n\n@グランテピエ\n誰一人、特別扱いはしない\n\n@グランテピエ\n……つもりだったんだけど、\nでも、君は……\n\n@グランテピエ\n妙に気になって、\n放っておけないんだよね\n\n@グランテピエ\nなんでだろう…？\n\n@グランテピエ\nこの想い、確かめたいの\n\n@グランテピエ\n私の問いに…答えてみせて\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私の☆６の\nリーダースキルは知ってる、よね？\n\n# se \"SE_0734\"\n# select \"先駆者の擁護\" \"select_label_1\" \"先駆者の警護\" \"select_label_2\" \"先駆者の援護\" \"select_label_3\"\n私の☆６の\nリーダースキルは知ってる、よね？\n"
+	},
+	{
+		"ID": 6426,
+		"unitID": 2303411,
+		"questionID": 9303424,
+		"script": ";;救済をもたらす者達,3\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 530341 \"grandepieu_di_0002\"\n@グランテピエ\nずっと思ってた\nみんなのことは私が守る…って\n\n@グランテピエ\nだって、\n血の繋がりがなくても\nみんな、私の大切な家族だから\n\n@グランテピエ\nもちろん、君も\n\n@グランテピエ\n誰一人、特別扱いはしない\n\n@グランテピエ\n……つもりだったんだけど、\nでも、君は……\n\n@グランテピエ\n妙に気になって、\n放っておけないんだよね\n\n@グランテピエ\nなんでだろう…？\n\n@グランテピエ\nこの想い、確かめたいの\n\n@グランテピエ\n私の問いに…答えてみせて\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私が覚える\n付与スキルってわかる、よね？\n\n# se \"SE_0734\"\n# select \"共済をもたらす者達\" \"select_label_1\" \"完済をもたらす者達\" \"select_label_2\" \"救済をもたらす者達\" \"select_label_3\"\n私が覚える\n付与スキルってわかる、よね？\n"
+	},
+	{
+		"ID": 6427,
+		"unitID": 2303411,
+		"questionID": 9303425,
+		"script": ";;理砕『変革の先駆者』,1\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 530341 \"grandepieu_di_0002\"\n@グランテピエ\nずっと思ってた\nみんなのことは私が守る…って\n\n@グランテピエ\nだって、\n血の繋がりがなくても\nみんな、私の大切な家族だから\n\n@グランテピエ\nもちろん、君も\n\n@グランテピエ\n誰一人、特別扱いはしない\n\n@グランテピエ\n……つもりだったんだけど、\nでも、君は……\n\n@グランテピエ\n妙に気になって、\n放っておけないんだよね\n\n@グランテピエ\nなんでだろう…？\n\n@グランテピエ\nこの想い、確かめたいの\n\n@グランテピエ\n私の問いに…答えてみせて\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私が覚える\n付与スキルってわかる、かな？\n\n# se \"SE_0734\"\n# select \"理砕『変革の先駆者』\" \"select_label_1\" \"理砕『性格の先駆者』\" \"select_label_2\" \"理砕『降格の先駆者』\" \"select_label_3\"\n私が覚える\n付与スキルってわかる、かな？\n"
+	},
+	{
+		"ID": 6428,
+		"unitID": 2303411,
+		"questionID": 9303426,
+		"script": ";;破滅を覆す未来への一閃,2\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 530341 \"grandepieu_di_0002\"\n@グランテピエ\nずっと思ってた\nみんなのことは私が守る…って\n\n@グランテピエ\nだって、\n血の繋がりがなくても\nみんな、私の大切な家族だから\n\n@グランテピエ\nもちろん、君も\n\n@グランテピエ\n誰一人、特別扱いはしない\n\n@グランテピエ\n……つもりだったんだけど、\nでも、君は……\n\n@グランテピエ\n妙に気になって、\n放っておけないんだよね\n\n@グランテピエ\nなんでだろう…？\n\n@グランテピエ\nこの想い、確かめたいの\n\n@グランテピエ\n私の問いに…答えてみせて\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私の覚える\nデュエルスキルは知ってる、かな？\n\n# se \"SE_0734\"\n# select \"破滅を覆す過去への光線\" \"select_label_1\" \"破滅を覆す未来への一閃\" \"select_label_2\" \"破滅を覆す現代への源泉\" \"select_label_3\"\n私の覚える\nデュエルスキルは知ってる、かな？\n"
+	},
+	{
+		"ID": 6429,
+		"unitID": 2303411,
+		"questionID": 9303427,
+		"script": ";;仲間想いのリーダー,1\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 530341 \"grandepieu_di_0002\"\n@グランテピエ\nずっと思ってた\nみんなのことは私が守る…って\n\n@グランテピエ\nだって、\n血の繋がりがなくても\nみんな、私の大切な家族だから\n\n@グランテピエ\nもちろん、君も\n\n@グランテピエ\n誰一人、特別扱いはしない\n\n@グランテピエ\n……つもりだったんだけど、\nでも、君は……\n\n@グランテピエ\n妙に気になって、\n放っておけないんだよね\n\n@グランテピエ\nなんでだろう…？\n\n@グランテピエ\nこの想い、確かめたいの\n\n@グランテピエ\n私の問いに…答えてみせて\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私の覚える\nコマンドスキルは知ってる、かな？\n\n# se \"SE_0734\"\n# select \"仲間想いのリーダー\" \"select_label_1\" \"妹想いのリーダー\" \"select_label_2\" \"親友想いのリーダー\" \"select_label_3\"\n私の覚える\nコマンドスキルは知ってる、かな？\n"
+	},
+	{
+		"ID": 6430,
+		"unitID": 2303411,
+		"questionID": 9303428,
+		"script": ";;奮起の王器,3\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 530341 \"grandepieu_di_0002\"\n@グランテピエ\nずっと思ってた\nみんなのことは私が守る…って\n\n@グランテピエ\nだって、\n血の繋がりがなくても\nみんな、私の大切な家族だから\n\n@グランテピエ\nもちろん、君も\n\n@グランテピエ\n誰一人、特別扱いはしない\n\n@グランテピエ\n……つもりだったんだけど、\nでも、君は……\n\n@グランテピエ\n妙に気になって、\n放っておけないんだよね\n\n@グランテピエ\nなんでだろう…？\n\n@グランテピエ\nこの想い、確かめたいの\n\n@グランテピエ\n私の問いに…答えてみせて\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私が覚える\n姫型スキルってわかる、かな？\n\n# se \"SE_0734\"\n# select \"歓喜の王器\" \"select_label_1\" \"血気の王器\" \"select_label_2\" \"奮起の王器\" \"select_label_3\"\n私が覚える\n姫型スキルってわかる、かな？\n"
+	},
+	{
+		"ID": 6431,
+		"unitID": 2303411,
+		"questionID": 9303429,
+		"script": ";;ワールドライン・オブサーバー,1\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 530341 \"grandepieu_di_0002\"\n@グランテピエ\nずっと思ってた\nみんなのことは私が守る…って\n\n@グランテピエ\nだって、\n血の繋がりがなくても\nみんな、私の大切な家族だから\n\n@グランテピエ\nもちろん、君も\n\n@グランテピエ\n誰一人、特別扱いはしない\n\n@グランテピエ\n……つもりだったんだけど、\nでも、君は……\n\n@グランテピエ\n妙に気になって、\n放っておけないんだよね\n\n@グランテピエ\nなんでだろう…？\n\n@グランテピエ\nこの想い、確かめたいの\n\n@グランテピエ\n私の問いに…答えてみせて\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私が覚える\n付与スキルってわかる、かな？\n\n# se \"SE_0734\"\n# select \"ワールドライン・オブサーバー\" \"select_label_1\" \"ワイルドライン・オブサーバー\" \"select_label_2\" \"ワイドライン・オブサーバー\" \"select_label_3\"\n私が覚える\n付与スキルってわかる、かな？\n"
+	},
+	{
+		"ID": 6432,
+		"unitID": 2303411,
+		"questionID": 9303430,
+		"script": ";;バハムートの支界,1\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 530341 \"grandepieu_di_0002\"\n@グランテピエ\nずっと思ってた\nみんなのことは私が守る…って\n\n@グランテピエ\nだって、\n血の繋がりがなくても\nみんな、私の大切な家族だから\n\n@グランテピエ\nもちろん、君も\n\n@グランテピエ\n誰一人、特別扱いはしない\n\n@グランテピエ\n……つもりだったんだけど、\nでも、君は……\n\n@グランテピエ\n妙に気になって、\n放っておけないんだよね\n\n@グランテピエ\nなんでだろう…？\n\n@グランテピエ\nこの想い、確かめたいの\n\n@グランテピエ\n私の問いに…答えてみせて\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私が覚える\n付替えスキルってわかる、かな？\n\n# se \"SE_0734\"\n# select \"バハムートの支界\" \"select_label_1\" \"バハムートの司会\" \"select_label_2\" \"バハムートの歯科医\" \"select_label_3\"\n私が覚える\n付替えスキルってわかる、かな？\n"
+	},
+	{
+		"ID": 6433,
+		"unitID": 2303411,
+		"questionID": 9303431,
+		"script": ";;姉妹,3\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 530341 \"grandepieu_di_0030\"\n@グランテピエ\n今日は誘ってくれて、ありがとう\n\n# textflame 0 0\n@\nどうしたの、急に？\nマスターが彼女に尋ねる\n\n# voice 530341 \"grandepieu_di_0003\"\n# textflame 1 1\n@グランテピエ\nみんな、\nどこかに遊びに行って\n少し退屈してたから\n\n@グランテピエ\n意外に思うかも知れないけど…\n\n@グランテピエ\n私、一人はちょっと苦手、\nなんだよね…\n\n@グランテピエ\nそれに…\n\n# voice 530341 \"grandepieu_di_0028\"\n@グランテピエ\n……うぅん、なんでもない\n\n# textflame 0 0\n@\nなにを言い掛けたの？教えてよ\nマスターの問いに、答える彼女\n\n# voice 530341 \"grandepieu_di_0032\"\n# textflame 1 1\n@グランテピエ\nわかった\n\n@グランテピエ\nじゃあ、\n私の出す問題に答えられたら、\n教えてあげる、ね\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私とアルマスの\n関係はわかる、よね？\n\n# se \"SE_0734\"\n# select \"親子\" \"select_label_1\" \"師弟\" \"select_label_2\" \"姉妹\" \"select_label_3\"\n私とアルマスの\n関係はわかる、よね？\n"
+	},
+	{
+		"ID": 6434,
+		"unitID": 2303411,
+		"questionID": 9303432,
+		"script": ";;August,1\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 530341 \"grandepieu_di_0030\"\n@グランテピエ\n今日は誘ってくれて、ありがとう\n\n# textflame 0 0\n@\nどうしたの、急に？\nマスターが彼女に尋ねる\n\n# voice 530341 \"grandepieu_di_0003\"\n# textflame 1 1\n@グランテピエ\nみんな、\nどこかに遊びに行って\n少し退屈してたから\n\n@グランテピエ\n意外に思うかも知れないけど…\n\n@グランテピエ\n私、一人はちょっと苦手、\nなんだよね…\n\n@グランテピエ\nそれに…\n\n# voice 530341 \"grandepieu_di_0028\"\n@グランテピエ\n……うぅん、なんでもない\n\n# textflame 0 0\n@\nなにを言い掛けたの？教えてよ\nマスターの問いに、答える彼女\n\n# voice 530341 \"grandepieu_di_0032\"\n# textflame 1 1\n@グランテピエ\nわかった\n\n@グランテピエ\nじゃあ、\n私の出す問題に答えられたら、\n教えてあげる、ね\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私の誕生月を\n英語で言うと…？\n\n# se \"SE_0734\"\n# select \"August\" \"select_label_1\" \"January\" \"select_label_2\" \"September\" \"select_label_3\"\n私の誕生月を\n英語で言うと…？\n"
+	},
+	{
+		"ID": 6435,
+		"unitID": 2303411,
+		"questionID": 9303433,
+		"script": ";;絶対のぜーったいに,1\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 530341 \"grandepieu_di_0030\"\n@グランテピエ\n今日は誘ってくれて、ありがとう\n\n# textflame 0 0\n@\nどうしたの、急に？\nマスターが彼女に尋ねる\n\n# voice 530341 \"grandepieu_di_0003\"\n# textflame 1 1\n@グランテピエ\nみんな、\nどこかに遊びに行って\n少し退屈してたから\n\n@グランテピエ\n意外に思うかも知れないけど…\n\n@グランテピエ\n私、一人はちょっと苦手、\nなんだよね…\n\n@グランテピエ\nそれに…\n\n# voice 530341 \"grandepieu_di_0028\"\n@グランテピエ\n……うぅん、なんでもない\n\n# textflame 0 0\n@\nなにを言い掛けたの？教えてよ\nマスターの問いに、答える彼女\n\n# voice 530341 \"grandepieu_di_0032\"\n# textflame 1 1\n@グランテピエ\nわかった\n\n@グランテピエ\nじゃあ、\n私の出す問題に答えられたら、\n教えてあげる、ね\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私の口ぐせはわかる、かな？\n\n# se \"SE_0734\"\n# select \"絶対のぜーったいに\" \"select_label_1\" \"絶・絶対に\" \"select_label_2\" \"何がなんでも絶対に\" \"select_label_3\"\n私の口ぐせはわかる、かな？\n"
+	},
+	{
+		"ID": 6436,
+		"unitID": 2303411,
+		"questionID": 9303434,
+		"script": ";;エロース,3\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 530341 \"grandepieu_di_0030\"\n@グランテピエ\n今日は誘ってくれて、ありがとう\n\n# textflame 0 0\n@\nどうしたの、急に？\nマスターが彼女に尋ねる\n\n# voice 530341 \"grandepieu_di_0003\"\n# textflame 1 1\n@グランテピエ\nみんな、\nどこかに遊びに行って\n少し退屈してたから\n\n@グランテピエ\n意外に思うかも知れないけど…\n\n@グランテピエ\n私、一人はちょっと苦手、\nなんだよね…\n\n@グランテピエ\nそれに…\n\n# voice 530341 \"grandepieu_di_0028\"\n@グランテピエ\n……うぅん、なんでもない\n\n# textflame 0 0\n@\nなにを言い掛けたの？教えてよ\nマスターの問いに、答える彼女\n\n# voice 530341 \"grandepieu_di_0032\"\n# textflame 1 1\n@グランテピエ\nわかった\n\n@グランテピエ\nじゃあ、\n私の出す問題に答えられたら、\n教えてあげる、ね\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私と誕生月が同じなのは\n誰かわかる、かな？\n\n# se \"SE_0734\"\n# select \"アポロン\" \"select_label_1\" \"ピナーカ\" \"select_label_2\" \"エロース\" \"select_label_3\"\n私と誕生月が同じなのは\n誰かわかる、かな？\n"
+	},
+	{
+		"ID": 6437,
+		"unitID": 2303411,
+		"questionID": 9303435,
+		"script": ";;Leo,1\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 530341 \"grandepieu_di_0030\"\n@グランテピエ\n今日は誘ってくれて、ありがとう\n\n# textflame 0 0\n@\nどうしたの、急に？\nマスターが彼女に尋ねる\n\n# voice 530341 \"grandepieu_di_0003\"\n# textflame 1 1\n@グランテピエ\nみんな、\nどこかに遊びに行って\n少し退屈してたから\n\n@グランテピエ\n意外に思うかも知れないけど…\n\n@グランテピエ\n私、一人はちょっと苦手、\nなんだよね…\n\n@グランテピエ\nそれに…\n\n# voice 530341 \"grandepieu_di_0028\"\n@グランテピエ\n……うぅん、なんでもない\n\n# textflame 0 0\n@\nなにを言い掛けたの？教えてよ\nマスターの問いに、答える彼女\n\n# voice 530341 \"grandepieu_di_0032\"\n# textflame 1 1\n@グランテピエ\nわかった\n\n@グランテピエ\nじゃあ、\n私の出す問題に答えられたら、\n教えてあげる、ね\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私の星座を\n英語で言うと？\n\n# se \"SE_0734\"\n# select \"Leo\" \"select_label_1\" \"Capricorn\" \"select_label_2\" \"Taurus\" \"select_label_3\"\n私の星座を\n英語で言うと？\n"
+	},
+	{
+		"ID": 6438,
+		"unitID": 2303411,
+		"questionID": 9303436,
+		"script": ";;先駆者,2\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 530341 \"grandepieu_di_0030\"\n@グランテピエ\n今日は誘ってくれて、ありがとう\n\n# textflame 0 0\n@\nどうしたの、急に？\nマスターが彼女に尋ねる\n\n# voice 530341 \"grandepieu_di_0003\"\n# textflame 1 1\n@グランテピエ\nみんな、\nどこかに遊びに行って\n少し退屈してたから\n\n@グランテピエ\n意外に思うかも知れないけど…\n\n@グランテピエ\n私、一人はちょっと苦手、\nなんだよね…\n\n@グランテピエ\nそれに…\n\n# voice 530341 \"grandepieu_di_0028\"\n@グランテピエ\n……うぅん、なんでもない\n\n# textflame 0 0\n@\nなにを言い掛けたの？教えてよ\nマスターの問いに、答える彼女\n\n# voice 530341 \"grandepieu_di_0032\"\n# textflame 1 1\n@グランテピエ\nわかった\n\n@グランテピエ\nじゃあ、\n私の出す問題に答えられたら、\n教えてあげる、ね\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私のコードネームって\nわかる、かな？\n\n# se \"SE_0734\"\n# select \"配送者\" \"select_label_1\" \"先駆者\" \"select_label_2\" \"敗北者\" \"select_label_3\"\n私のコードネームって\nわかる、かな？\n"
+	},
+	{
+		"ID": 6439,
+		"unitID": 2303411,
+		"questionID": 9303437,
+		"script": ";;ディスラプターズ,3\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 530341 \"grandepieu_di_0030\"\n@グランテピエ\n今日は誘ってくれて、ありがとう\n\n# textflame 0 0\n@\nどうしたの、急に？\nマスターが彼女に尋ねる\n\n# voice 530341 \"grandepieu_di_0003\"\n# textflame 1 1\n@グランテピエ\nみんな、\nどこかに遊びに行って\n少し退屈してたから\n\n@グランテピエ\n意外に思うかも知れないけど…\n\n@グランテピエ\n私、一人はちょっと苦手、\nなんだよね…\n\n@グランテピエ\nそれに…\n\n# voice 530341 \"grandepieu_di_0028\"\n@グランテピエ\n……うぅん、なんでもない\n\n# textflame 0 0\n@\nなにを言い掛けたの？教えてよ\nマスターの問いに、答える彼女\n\n# voice 530341 \"grandepieu_di_0032\"\n# textflame 1 1\n@グランテピエ\nわかった\n\n@グランテピエ\nじゃあ、\n私の出す問題に答えられたら、\n教えてあげる、ね\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n終焉の理を破る者…私や、カリス、\nヘレナ、ソロモンも一員なの\nわかる、かな？\n\n# se \"SE_0734\"\n# select \"ディスペクターズ\" \"select_label_1\" \"ディストピアーズ\" \"select_label_2\" \"ディスラプターズ\" \"select_label_3\"\n終焉の理を破る者…私や、カリス、\nヘレナ、ソロモンも一員なの\nわかる、かな？\n"
+	},
+	{
+		"ID": 6440,
+		"unitID": 2303411,
+		"questionID": 9303438,
+		"script": ";;テュルソス,3\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 530341 \"grandepieu_di_0030\"\n@グランテピエ\n今日は誘ってくれて、ありがとう\n\n# textflame 0 0\n@\nどうしたの、急に？\nマスターが彼女に尋ねる\n\n# voice 530341 \"grandepieu_di_0003\"\n# textflame 1 1\n@グランテピエ\nみんな、\nどこかに遊びに行って\n少し退屈してたから\n\n@グランテピエ\n意外に思うかも知れないけど…\n\n@グランテピエ\n私、一人はちょっと苦手、\nなんだよね…\n\n@グランテピエ\nそれに…\n\n# voice 530341 \"grandepieu_di_0028\"\n@グランテピエ\n……うぅん、なんでもない\n\n# textflame 0 0\n@\nなにを言い掛けたの？教えてよ\nマスターの問いに、答える彼女\n\n# voice 530341 \"grandepieu_di_0032\"\n# textflame 1 1\n@グランテピエ\nわかった\n\n@グランテピエ\nじゃあ、\n私の出す問題に答えられたら、\n教えてあげる、ね\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私と同じ血液型なのは？\n\n# se \"SE_0734\"\n# select \"ミストルティン\" \"select_label_1\" \"フォルカス\" \"select_label_2\" \"テュルソス\" \"select_label_3\"\n私と同じ血液型なのは？\n"
+	},
+	{
+		"ID": 6441,
+		"unitID": 2303411,
+		"questionID": 9303439,
+		"script": ";;フォルカス,2\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 530341 \"grandepieu_di_0030\"\n@グランテピエ\n今日は誘ってくれて、ありがとう\n\n# textflame 0 0\n@\nどうしたの、急に？\nマスターが彼女に尋ねる\n\n# voice 530341 \"grandepieu_di_0003\"\n# textflame 1 1\n@グランテピエ\nみんな、\nどこかに遊びに行って\n少し退屈してたから\n\n@グランテピエ\n意外に思うかも知れないけど…\n\n@グランテピエ\n私、一人はちょっと苦手、\nなんだよね…\n\n@グランテピエ\nそれに…\n\n# voice 530341 \"grandepieu_di_0028\"\n@グランテピエ\n……うぅん、なんでもない\n\n# textflame 0 0\n@\nなにを言い掛けたの？教えてよ\nマスターの問いに、答える彼女\n\n# voice 530341 \"grandepieu_di_0032\"\n# textflame 1 1\n@グランテピエ\nわかった\n\n@グランテピエ\nじゃあ、\n私の出す問題に答えられたら、\n教えてあげる、ね\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私と違う血液型なのは\n誰かわかる、かな？\n\n# se \"SE_0734\"\n# select \"テュルソス\" \"select_label_1\" \"フォルカス\" \"select_label_2\" \"ガンバンテイン\" \"select_label_3\"\n私と違う血液型なのは\n誰かわかる、かな？\n"
+	},
+	{
+		"ID": 6442,
+		"unitID": 2303411,
+		"questionID": 9303440,
+		"script": ";;アポロン,2\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 530341 \"grandepieu_di_0030\"\n@グランテピエ\n今日は誘ってくれて、ありがとう\n\n# textflame 0 0\n@\nどうしたの、急に？\nマスターが彼女に尋ねる\n\n# voice 530341 \"grandepieu_di_0003\"\n# textflame 1 1\n@グランテピエ\nみんな、\nどこかに遊びに行って\n少し退屈してたから\n\n@グランテピエ\n意外に思うかも知れないけど…\n\n@グランテピエ\n私、一人はちょっと苦手、\nなんだよね…\n\n@グランテピエ\nそれに…\n\n# voice 530341 \"grandepieu_di_0028\"\n@グランテピエ\n……うぅん、なんでもない\n\n# textflame 0 0\n@\nなにを言い掛けたの？教えてよ\nマスターの問いに、答える彼女\n\n# voice 530341 \"grandepieu_di_0032\"\n# textflame 1 1\n@グランテピエ\nわかった\n\n@グランテピエ\nじゃあ、\n私の出す問題に答えられたら、\n教えてあげる、ね\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私と違う誕生月なのは\n誰かわかる、かな？\n\n# se \"SE_0734\"\n# select \"ミストルティン\" \"select_label_1\" \"アポロン\" \"select_label_2\" \"エロース\" \"select_label_3\"\n私と違う誕生月なのは\n誰かわかる、かな？\n"
+	},
+	{
+		"ID": 6443,
+		"unitID": 2303411,
+		"questionID": 9303441,
+		"script": "\n;;私,1\n# se \"SE_0734\"\n# select \"私\" \"select_label_1\" \"オレ\" \"select_label_2\" \"ボク\" \"select_label_3\"\nお姉ちゃんの一人称は\n次のうちどれ？\n"
+	},
+	{
+		"ID": 6444,
+		"unitID": 2303411,
+		"questionID": 9303442,
+		"script": "\n;;マスター,3\n# se \"SE_0734\"\n# select \"ユー\" \"select_label_1\" \"貴殿\" \"select_label_2\" \"マスター\" \"select_label_3\"\nお姉ちゃんはあなたのこと、\nなんて呼んでる？\n"
+	},
+	{
+		"ID": 6445,
+		"unitID": 2303411,
+		"questionID": 9303443,
+		"script": "\n;;84cm,3\n# se \"SE_0734\"\n# select \"85cm\" \"select_label_1\" \"86cm\" \"select_label_2\" \"84cm\" \"select_label_3\"\nお姉ちゃんの\nバストサイズがどのくらいか\nあなたは知ってるの？\n"
+	},
+	{
+		"ID": 6446,
+		"unitID": 2303411,
+		"questionID": 9303444,
+		"script": "\n;;56cm,1\n# se \"SE_0734\"\n# select \"56cm\" \"select_label_1\" \"58cm\" \"select_label_2\" \"60cm\" \"select_label_3\"\nお姉ちゃんの\nウエストサイズがどのくらいか\nあなたは知ってるの？\n"
+	},
+	{
+		"ID": 6447,
+		"unitID": 2303411,
+		"questionID": 9303445,
+		"script": "\n;;82cm,2\n# se \"SE_0734\"\n# select \"85cm\" \"select_label_1\" \"82cm\" \"select_label_2\" \"89cm\" \"select_label_3\"\nお姉ちゃんの\nヒップサイズがどのくらいか\nあなたは知ってるの？\n"
+	},
+	{
+		"ID": 6448,
+		"unitID": 2303411,
+		"questionID": 9303446,
+		"script": "\n;;45ｋｇ,1\n# se \"SE_0734\"\n# select \"45ｋｇ\" \"select_label_1\" \"51kg\" \"select_label_2\" \"48kg\" \"select_label_3\"\nお姉ちゃんの体重は\n次のうちどれ？\n"
+	},
+	{
+		"ID": 6449,
+		"unitID": 2303411,
+		"questionID": 9303447,
+		"script": "\n;;222,2\n# se \"SE_0734\"\n# select \"239\" \"select_label_1\" \"222\" \"select_label_2\" \"250\" \"select_label_3\"\nお姉ちゃんの\nバスト＋ウエスト＋ヒップは\nいくつかわかる？\n"
+	},
+	{
+		"ID": 6450,
+		"unitID": 2303411,
+		"questionID": 9303448,
+		"script": "\n;;水色,1\n# se \"SE_0734\"\n# select \"水色\" \"select_label_1\" \"黄色\" \"select_label_2\" \"赤色\" \"select_label_3\"\nお姉ちゃんの髪の色は\n次のうちどれ？\n"
+	},
+	{
+		"ID": 6451,
+		"unitID": 2303411,
+		"questionID": 9303449,
+		"script": "\n;;参加していない,1\n# se \"SE_0734\"\n# select \"参加していない\" \"select_label_1\" \"一位\" \"select_label_2\" \"殿堂入り\" \"select_label_3\"\nお姉ちゃんは\n第6回人気投票で\n何位だったでしょう？\n"
+	},
+	{
+		"ID": 6452,
+		"unitID": 2303411,
+		"questionID": 9303450,
+		"script": "\n;;森下来奈,3\n# se \"SE_0734\"\n# select \"高槻みゆう\" \"select_label_1\" \"中澤ミナ\" \"select_label_2\" \"森下来奈\" \"select_label_3\"\nお姉ちゃんの声優は誰？\n"
+	}
+]

@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 93028399,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# se \"SE_0732\"\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n;;-----------------------------------------\n@ヘレナ\n先輩、その答え…\n\n# face %(unit_a)s \"happy\"\n# voice 3028 \"herena_a_0005\"\n@ヘレナ\n大正解～\n\n@ヘレナ\nやっぱすごいな、先輩は\n\n# face %(unit_a)s \"sad\"\n# voice 3028 \"herena_a_0022\"\n@ヘレナ\nえ？腹痛…？\n\n# face %(unit_a)s \"usual\"\n@ヘレナ\n……\nくふふっ\nどうだと思う？\n\n;;モノローグ\n# textflame 0 0\n@\nどうやら、彼女お得意の\n嘘だったのかと\n疑いの目を向ける\n\n# textflame 1 1\n# voice 3028 \"herena_a_0004\"\n@ヘレナ\n疑っているのかい？\nこれは先輩が答えてくれたから、\n本当に治ったんだよ\n\n;;モノローグ\n# textflame 0 0\n@\nと言って、微笑む彼女\n\n@\nそんなに喜んでくれるのなら、\n嘘でも構わないか\nそう思うマスターだった\n\n;;-----------------------------------------\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

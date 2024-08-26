@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 302122,
+		"script": ";;B 大当たり\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_drive\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# voice 3021 \"gaebuide_0003\"\n# face %(unit_a)s \"sad\"\n@ガ・ボー\nそうしたい気持ちも、あります\n\n# eye %(unit_a)s \"close\"\n@ガ・ボー\nどこかにいるはずの…姉様…\n\n# voice 3021 \"gaebuide_0008\"\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"sad\"\n@ガ・ボー\nでも…\n結局、まだどこにおられるのか…\nボーにはわかりませんし\n\n@ガ・ボー\n…………\n\n# textflame 0 0\n@\nガ・ボーはそこまで言って\n黙ってしまう\n\n# textflame 1 1\n@ガ・ボー\nそれに…\n今、誰か乗せてしまっては…\n\n# voice 3021 \"gaebuide_0011\"\n@ガ・ボー\n二人きりでは、\nなくなってしまいます\n\n# textflame 0 0\n@\nそう、ガ・ボーがいい切るまで\nとてもとても、長い時間がかかった\n\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n# voice 3021 \"gaebuide_0004\"\n@ガ・ボー\n今日は…このまま\n…が…いいです\n\n# textflame 0 0\n@\n消え入りそうな声\nでもマスターの耳には\nしっかりと届いていた\n\n# textflame 1 1\n@ガ・ボー\nこんなボーでも…\nマスターをひとりじめ…\nしたいんです…\n\n# textflame 0 0\n@\nマスターは、その願いに無言で応える\n誰からも追いつかれないように\nアクセルを踏み込んで――\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

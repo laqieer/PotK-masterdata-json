@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 93003299,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# se \"SE_0732\"\n# voice 3003 \"hotengageki_0020\"\n@方天画戟\nそうそう！\nそれだ！\n\n# voice 3003 \"hotengageki_0004\"\n# face %(unit_a)s \"normal\"\n@方天画戟\nオレのことは\nなんだってお前に\n知っといてほしいからな…\n\n# voice 3003 \"hotengageki_0002\"\n# face %(unit_a)s \"smile\"\n@方天画戟\n宴の肴に\nまた聞いてくれよ！\n\n# textflame 0 0\n@\n嬉しそうな彼女をみて\nマスターは二人の絆が\nより深まったのを実感した…\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

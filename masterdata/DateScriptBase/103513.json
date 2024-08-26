@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 103513,
+		"script": "# script \"lisp\"\n# fadein \"black\" 0.5\n# background %(background)s\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# face %(unit_a)s \"happy\"\n# voice 1035 \"damocles_0005\"\n@ダモクレス\nわわ、この岩グラグラしてる！\nあはは、楽しいー！\n\n@ダモクレス\nマスターもおいでよ！\nこの岩の上、おもしろいよー\n\n# textflame 0 0\n@\n危ない、とは思ったものの\nダモクレスにならって\n一緒に遊んでみる\n\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n@ダモクレス\nそうそう、マスターも上手だね！\n同じもので遊べてクレスも嬉しいよー\nじゃあ、次は…\n\n# textflame 0 0\n@\n無邪気な笑みを浮かべるダモクレス\n\n# textflame 0 0\n@\nその後もダモクレスと一緒に\n満足するまで遊んだのだった…\n\n\n;;--------------------------------------\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

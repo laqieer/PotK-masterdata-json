@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 500621,
+		"script": ";;A 気に入った？\n;;B 意外だった？\n;;C やってみる？\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_fireworks\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 0 0\n@\nマスターは\nメギドを誘って\n花火大会にやってきた\n\n# voice 5006 \"megido_0004\"\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@メギド\n灼熱の炎も…\n空めがけて放てば\nこんなにも美しいのね\n\n# textflame 1 1\n@メギド\n天から振り下ろされる\n裁きの火しか知らなかったわ\n\n# select \"気に入った？\" \"select_label_01\" \"意外だった？\" \"select_label_02\" \"やってみる？\" \"select_label_03\"\n天から振り下ろされる\n裁きの火しか知らなかったわ\n\n# label \"select_label_01\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_02\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_03\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# textflame 1 1\n# waitandnext 0.1\n\n# label \"select_label_end\"\n# waitandnext 2\n# fadeout \"black\" 1.2"
+	}
+]

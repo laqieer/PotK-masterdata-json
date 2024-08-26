@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 301013,
+		"script": "# script \"lisp\"\n# fadein \"black\" 0.5\n# background %(background)s\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# voice 3010 \"rhongomiant_0003\"\n@ロンゴミアント\n彼らの軌跡を頼りに\n過ちを繰り返さないよう\n最良の道を行くことができるはず\n\n# voice 3010 \"rhongomiant_0037\"\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@ロンゴミアント\n…しかし、そうはならない\nどうしてか人は失敗する\n\n# textflame 0 0\n@\nロンゴミアントの言葉には\n悲壮感が漂っていた\nマスターは必死に言葉を探す\n\n# textflame 1 1\n@ロンゴミアント\n己の納得する人生を歩む…\nそれくらいが、人の身の丈には\nあっているのでしょうね\n\n# voice 3010 \"rhongomiant_0032\"\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@ロンゴミアント\n…だから今、私は\n精一杯、マスターとの時間を\n楽しもうと思います！\n\n# textflame 0 0\n@\n取り越し苦労だったと\n胸をなでおろし\nマスターは彼女に微笑み返した…\n;;--------------------------------------\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

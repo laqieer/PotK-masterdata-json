@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 3101304,
+		"script": "# script \"lisp\"\n# background \"plain\"\n# bgm \"bgm002\" 0\n# body 810004\n# mask 810004 off\n# pos 810004 3\n# textflame 1 1\n# textboxarrow 0 2\n# jump 810004\n# textwindow \"toge\"\n# voice 9994 \"izokutaisho_0005\"\n@異族の大将\nまいど！\n今月も来たで〜異族の大将が！\n\n# textwindow \"nomal\"\n@異族の大将\nあ、年明け一発目や！\n本年もどうぞ\nよろしくお願い申し上げます\n\n@異族の大将\nあ〜今年はもっと人気者になりたい…\n\n# jump 810004\n@異族の大将\nさ！\n12月の『ファンキルニコ生』を\n見てくれた皆で作ったこのクエスト！\n\n# jump 810004\n# textwindow \"toge\"\n@異族の大将\nなんといっても報酬が豪華！\n\n@異族の大将\nただ、今月のオレは\n先月とはひと味ちゃうで？\n覚悟しとけよ！\n\n@異族の大将\nチーム編成の順番が\n大事とかどうとか…\n\n# jump 810004\n@異族の大将\nあ、あと今回も、\n１回クリアしたら終わりやから\n気をつけてな！"
+	}
+]

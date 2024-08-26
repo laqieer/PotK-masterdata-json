@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 93028299,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# se \"SE_0732\"\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n;;-----------------------------------------\n@ヘレナ\n…え～と…\n\n@ヘレナ\n正解\n\n@ヘレナ\nやるな、先輩\n\n# face %(unit_a)s \"sad\"\n# voice 3028 \"herena_a_0022\"\n@ヘレナ\nえ？なに、なに？\n\n;;モノローグ\n# textflame 0 0\n@\nと、また彼女がニールに耳を近づける\n\n# face %(unit_a)s \"usual\"\n# voice 3028 \"herena_a_0004\"\n# textflame 1 1\n@ヘレナ\nニールもよくやったって\n言ってるよ、くふっ\n\n@ヘレナ\nご褒美にヘレナと\n手を繋いでいいってさ\n\n@ヘレナ\nあれ？先輩、本気にした？\n\n# face %(unit_a)s \"happy\"\n# voice 3028 \"herena_a_0005\"\n@ヘレナ\nうふふっ、冗談だよ\nおもしろいな～、先輩は\n\n;;モノローグ\n# textflame 0 0\n@\nそう言って、\n笑顔を見せる彼女\n\n;;モノローグ\n# textflame 0 0\n@\nニールの言葉が本当か分からないが、\n彼女の笑顔は紛れもない真実だった\n\n;;-----------------------------------------\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

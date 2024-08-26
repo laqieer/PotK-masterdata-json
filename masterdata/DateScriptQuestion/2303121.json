@@ -1,0 +1,266 @@
+[
+	{
+		"ID": 5817,
+		"unitID": 2303121,
+		"questionID": 29303101,
+		"script": ";;槍,2\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 230312 \"cassius_lo_0001\"\n@カシウス\nねぇ、おやかたしゃま\n\n@カシウス\nきょうがおわって、\nあした、またあたらしい\nいちにちがはじまる…\n\n@カシウス\nこれは“えんかん”っていうの…\n\n# face %(unit_a)s \"sad\"\n# voice 230312 \"cassius_lo_0013\"\n@カシウス\nでも…えんかんが\nおわってほしくないときもある\n\n@カシウス\nきょうというえんかんが\nおわってほしくない\n\n@カシウス\nいまからわたしがだすクイズに\nおやかたしゃまがせいかいできたら…\n\n@カシウス\nもうすこし、\nきょうというえんかんを\nつづけてほしいの\n\n# face %(unit_a)s \"normal\"\n@カシウス\nいくよ\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしのぶきぞくせいはなに？　\n\n# se \"SE_0734\"\n# select \"銃\" \"select_label_1\" \"槍\" \"select_label_2\" \"剣\" \"select_label_3\"\nわたしのぶきぞくせいはなに？　\n"
+	},
+	{
+		"ID": 5818,
+		"unitID": 2303121,
+		"questionID": 29303102,
+		"script": ";;聖槍,2\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 230312 \"cassius_lo_0001\"\n@カシウス\nねぇ、おやかたしゃま\n\n@カシウス\nきょうがおわって、\nあした、またあたらしい\nいちにちがはじまる…\n\n@カシウス\nこれは“えんかん”っていうの…\n\n# face %(unit_a)s \"sad\"\n# voice 230312 \"cassius_lo_0013\"\n@カシウス\nでも…えんかんが\nおわってほしくないときもある\n\n@カシウス\nきょうというえんかんが\nおわってほしくない\n\n@カシウス\nいまからわたしがだすクイズに\nおやかたしゃまがせいかいできたら…\n\n@カシウス\nもうすこし、\nきょうというえんかんを\nつづけてほしいの\n\n# face %(unit_a)s \"normal\"\n@カシウス\nいくよ\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしのキラーズ『カシウス』は\nなんてよばれてる？\n\n# se \"SE_0734\"\n# select \"聖剣\" \"select_label_1\" \"聖槍\" \"select_label_2\" \"聖斧\" \"select_label_3\"\nわたしのキラーズ『カシウス』は\nなんてよばれてる？\n"
+	},
+	{
+		"ID": 5819,
+		"unitID": 2303121,
+		"questionID": 29303103,
+		"script": ";;新約聖書,1\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 230312 \"cassius_lo_0001\"\n@カシウス\nねぇ、おやかたしゃま\n\n@カシウス\nきょうがおわって、\nあした、またあたらしい\nいちにちがはじまる…\n\n@カシウス\nこれは“えんかん”っていうの…\n\n# face %(unit_a)s \"sad\"\n# voice 230312 \"cassius_lo_0013\"\n@カシウス\nでも…えんかんが\nおわってほしくないときもある\n\n@カシウス\nきょうというえんかんが\nおわってほしくない\n\n@カシウス\nいまからわたしがだすクイズに\nおやかたしゃまがせいかいできたら…\n\n@カシウス\nもうすこし、\nきょうというえんかんを\nつづけてほしいの\n\n# face %(unit_a)s \"normal\"\n@カシウス\nいくよ\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしのキラーズ『カシウス』は\nなににかかれてる？\n\n# se \"SE_0734\"\n# select \"新約聖書\" \"select_label_1\" \"コーラン\" \"select_label_2\" \"仏典\" \"select_label_3\"\nわたしのキラーズ『カシウス』は\nなににかかれてる？\n"
+	},
+	{
+		"ID": 5820,
+		"unitID": 2303121,
+		"questionID": 29303104,
+		"script": ";;イエス,1\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 230312 \"cassius_lo_0001\"\n@カシウス\nねぇ、おやかたしゃま\n\n@カシウス\nきょうがおわって、\nあした、またあたらしい\nいちにちがはじまる…\n\n@カシウス\nこれは“えんかん”っていうの…\n\n# face %(unit_a)s \"sad\"\n# voice 230312 \"cassius_lo_0013\"\n@カシウス\nでも…えんかんが\nおわってほしくないときもある\n\n@カシウス\nきょうというえんかんが\nおわってほしくない\n\n@カシウス\nいまからわたしがだすクイズに\nおやかたしゃまがせいかいできたら…\n\n@カシウス\nもうすこし、\nきょうというえんかんを\nつづけてほしいの\n\n# face %(unit_a)s \"normal\"\n@カシウス\nいくよ\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしのキラーズ『カシウス』は\nだれをさしたといわれてる？\n\n# se \"SE_0734\"\n# select \"イエス\" \"select_label_1\" \"釈迦\" \"select_label_2\" \"ユダ\" \"select_label_3\"\nわたしのキラーズ『カシウス』は\nだれをさしたといわれてる？\n"
+	},
+	{
+		"ID": 5821,
+		"unitID": 2303121,
+		"questionID": 29303105,
+		"script": ";;ウロボロス,2\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 230312 \"cassius_lo_0001\"\n@カシウス\nねぇ、おやかたしゃま\n\n@カシウス\nきょうがおわって、\nあした、またあたらしい\nいちにちがはじまる…\n\n@カシウス\nこれは“えんかん”っていうの…\n\n# face %(unit_a)s \"sad\"\n# voice 230312 \"cassius_lo_0013\"\n@カシウス\nでも…えんかんが\nおわってほしくないときもある\n\n@カシウス\nきょうというえんかんが\nおわってほしくない\n\n@カシウス\nいまからわたしがだすクイズに\nおやかたしゃまがせいかいできたら…\n\n@カシウス\nもうすこし、\nきょうというえんかんを\nつづけてほしいの\n\n# face %(unit_a)s \"normal\"\n@カシウス\nいくよ\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしにプラントされた\nげんじゅうはなに？\n\n# se \"SE_0734\"\n# select \"バルデウス\" \"select_label_1\" \"ウロボロス\" \"select_label_2\" \"ウリボー\" \"select_label_3\"\nわたしにプラントされた\nげんじゅうはなに？\n"
+	},
+	{
+		"ID": 5822,
+		"unitID": 2303121,
+		"questionID": 29303106,
+		"script": ";;蛇,3\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 230312 \"cassius_lo_0001\"\n@カシウス\nねぇ、おやかたしゃま\n\n@カシウス\nきょうがおわって、\nあした、またあたらしい\nいちにちがはじまる…\n\n@カシウス\nこれは“えんかん”っていうの…\n\n# face %(unit_a)s \"sad\"\n# voice 230312 \"cassius_lo_0013\"\n@カシウス\nでも…えんかんが\nおわってほしくないときもある\n\n@カシウス\nきょうというえんかんが\nおわってほしくない\n\n@カシウス\nいまからわたしがだすクイズに\nおやかたしゃまがせいかいできたら…\n\n@カシウス\nもうすこし、\nきょうというえんかんを\nつづけてほしいの\n\n# face %(unit_a)s \"normal\"\n@カシウス\nいくよ\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしにプラントされた\nウロボロスはどんないきもの？\n\n# se \"SE_0734\"\n# select \"カエル\" \"select_label_1\" \"イノシシ\" \"select_label_2\" \"蛇\" \"select_label_3\"\nわたしにプラントされた\nウロボロスはどんないきもの？\n"
+	},
+	{
+		"ID": 5823,
+		"unitID": 2303121,
+		"questionID": 29303107,
+		"script": ";;尾を飲み込む蛇,1\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 230312 \"cassius_lo_0001\"\n@カシウス\nねぇ、おやかたしゃま\n\n@カシウス\nきょうがおわって、\nあした、またあたらしい\nいちにちがはじまる…\n\n@カシウス\nこれは“えんかん”っていうの…\n\n# face %(unit_a)s \"sad\"\n# voice 230312 \"cassius_lo_0013\"\n@カシウス\nでも…えんかんが\nおわってほしくないときもある\n\n@カシウス\nきょうというえんかんが\nおわってほしくない\n\n@カシウス\nいまからわたしがだすクイズに\nおやかたしゃまがせいかいできたら…\n\n@カシウス\nもうすこし、\nきょうというえんかんを\nつづけてほしいの\n\n# face %(unit_a)s \"normal\"\n@カシウス\nいくよ\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしにプラントされた\nウロボロスはどんなヘビ？\n\n# se \"SE_0734\"\n# select \"尾を飲み込む蛇\" \"select_label_1\" \"とぐろを巻く蛇\" \"select_label_2\" \"蛙に睨まれた蛇\" \"select_label_3\"\nわたしにプラントされた\nウロボロスはどんなヘビ？\n"
+	},
+	{
+		"ID": 5824,
+		"unitID": 2303121,
+		"questionID": 29303108,
+		"script": ";;脇腹,3\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 230312 \"cassius_lo_0001\"\n@カシウス\nねぇ、おやかたしゃま\n\n@カシウス\nきょうがおわって、\nあした、またあたらしい\nいちにちがはじまる…\n\n@カシウス\nこれは“えんかん”っていうの…\n\n# face %(unit_a)s \"sad\"\n# voice 230312 \"cassius_lo_0013\"\n@カシウス\nでも…えんかんが\nおわってほしくないときもある\n\n@カシウス\nきょうというえんかんが\nおわってほしくない\n\n@カシウス\nいまからわたしがだすクイズに\nおやかたしゃまがせいかいできたら…\n\n@カシウス\nもうすこし、\nきょうというえんかんを\nつづけてほしいの\n\n# face %(unit_a)s \"normal\"\n@カシウス\nいくよ\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしのキラーズのカシウスは\nイエスのどこをさした\n\n# se \"SE_0734\"\n# select \"足\" \"select_label_1\" \"首\" \"select_label_2\" \"脇腹\" \"select_label_3\"\nわたしのキラーズのカシウスは\nイエスのどこをさした\n"
+	},
+	{
+		"ID": 5825,
+		"unitID": 2303121,
+		"questionID": 29303109,
+		"script": ";;死と再生,1\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 230312 \"cassius_lo_0001\"\n@カシウス\nねぇ、おやかたしゃま\n\n@カシウス\nきょうがおわって、\nあした、またあたらしい\nいちにちがはじまる…\n\n@カシウス\nこれは“えんかん”っていうの…\n\n# face %(unit_a)s \"sad\"\n# voice 230312 \"cassius_lo_0013\"\n@カシウス\nでも…えんかんが\nおわってほしくないときもある\n\n@カシウス\nきょうというえんかんが\nおわってほしくない\n\n@カシウス\nいまからわたしがだすクイズに\nおやかたしゃまがせいかいできたら…\n\n@カシウス\nもうすこし、\nきょうというえんかんを\nつづけてほしいの\n\n# face %(unit_a)s \"normal\"\n@カシウス\nいくよ\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしにプラントされた\nウロボロスはなんのしょうちょう？\n\n# se \"SE_0734\"\n# select \"死と再生\" \"select_label_1\" \"一日一善\" \"select_label_2\" \"ギャンブル\" \"select_label_3\"\nわたしにプラントされた\nウロボロスはなんのしょうちょう？\n"
+	},
+	{
+		"ID": 5826,
+		"unitID": 2303121,
+		"questionID": 29303110,
+		"script": ";;目,2\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 230312 \"cassius_lo_0001\"\n@カシウス\nねぇ、おやかたしゃま\n\n@カシウス\nきょうがおわって、\nあした、またあたらしい\nいちにちがはじまる…\n\n@カシウス\nこれは“えんかん”っていうの…\n\n# face %(unit_a)s \"sad\"\n# voice 230312 \"cassius_lo_0013\"\n@カシウス\nでも…えんかんが\nおわってほしくないときもある\n\n@カシウス\nきょうというえんかんが\nおわってほしくない\n\n@カシウス\nいまからわたしがだすクイズに\nおやかたしゃまがせいかいできたら…\n\n@カシウス\nもうすこし、\nきょうというえんかんを\nつづけてほしいの\n\n# face %(unit_a)s \"normal\"\n@カシウス\nいくよ\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしのキラーズのカシウスを\nもっていたへいしは\nどこがわるかった？\n\n# se \"SE_0734\"\n# select \"耳\" \"select_label_1\" \"目\" \"select_label_2\" \"鼻\" \"select_label_3\"\nわたしのキラーズのカシウスを\nもっていたへいしは\nどこがわるかった？\n"
+	},
+	{
+		"ID": 5827,
+		"unitID": 2303121,
+		"questionID": 29303111,
+		"script": ";;雷,2\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 230312 \"cassius_lo_0028\"\n@カシウス\nなんでだろう…\n\n# face %(unit_a)s \"sad\"\n@カシウス\nなつのおそらを\nみていると、\nむねがギュッとなるの…\n\n# textflame 0 0\n@\n寂しげな目を見せる彼女\n\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 230312 \"cassius_lo_0001\"\n@カシウス\nねぇ、おやかたしゃま\n\n@カシウス\nいまからクイズをだして\nもし、おやかたしゃまが\nせいかいできたら……\n\n@カシウス\nてをつないでくれる？\n\n@カシウス\nじゃあ、いくよ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしのぞくせいはなに？\n\n# se \"SE_0734\"\n# select \"炎\" \"select_label_1\" \"雷\" \"select_label_2\" \"風\" \"select_label_3\"\nわたしのぞくせいはなに？\n"
+	},
+	{
+		"ID": 5828,
+		"unitID": 2303121,
+		"questionID": 29303112,
+		"script": ";;3月15日,1\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 230312 \"cassius_lo_0028\"\n@カシウス\nなんでだろう…\n\n# face %(unit_a)s \"sad\"\n@カシウス\nなつのおそらを\nみていると、\nむねがギュッとなるの…\n\n# textflame 0 0\n@\n寂しげな目を見せる彼女\n\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 230312 \"cassius_lo_0001\"\n@カシウス\nねぇ、おやかたしゃま\n\n@カシウス\nいまからクイズをだして\nもし、おやかたしゃまが\nせいかいできたら……\n\n@カシウス\nてをつないでくれる？\n\n@カシウス\nじゃあ、いくよ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしのたんじょうびはいつ？\n\n# se \"SE_0734\"\n# select \"3月15日\" \"select_label_1\" \"4月15日\" \"select_label_2\" \"5月15日\" \"select_label_3\"\nわたしのたんじょうびはいつ？\n"
+	},
+	{
+		"ID": 5829,
+		"unitID": 2303121,
+		"questionID": 29303113,
+		"script": ";;うお座,3\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 230312 \"cassius_lo_0028\"\n@カシウス\nなんでだろう…\n\n# face %(unit_a)s \"sad\"\n@カシウス\nなつのおそらを\nみていると、\nむねがギュッとなるの…\n\n# textflame 0 0\n@\n寂しげな目を見せる彼女\n\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 230312 \"cassius_lo_0001\"\n@カシウス\nねぇ、おやかたしゃま\n\n@カシウス\nいまからクイズをだして\nもし、おやかたしゃまが\nせいかいできたら……\n\n@カシウス\nてをつないでくれる？\n\n@カシウス\nじゃあ、いくよ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしのせいざは？\n\n# se \"SE_0734\"\n# select \"いて座\" \"select_label_1\" \"やぎ座\" \"select_label_2\" \"うお座\" \"select_label_3\"\nわたしのせいざは？\n"
+	},
+	{
+		"ID": 5830,
+		"unitID": 2303121,
+		"questionID": 29303114,
+		"script": ";;知恵の輪,2\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 230312 \"cassius_lo_0028\"\n@カシウス\nなんでだろう…\n\n# face %(unit_a)s \"sad\"\n@カシウス\nなつのおそらを\nみていると、\nむねがギュッとなるの…\n\n# textflame 0 0\n@\n寂しげな目を見せる彼女\n\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 230312 \"cassius_lo_0001\"\n@カシウス\nねぇ、おやかたしゃま\n\n@カシウス\nいまからクイズをだして\nもし、おやかたしゃまが\nせいかいできたら……\n\n@カシウス\nてをつないでくれる？\n\n@カシウス\nじゃあ、いくよ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしのすきなものは…？\n\n# se \"SE_0734\"\n# select \"将棋\" \"select_label_1\" \"知恵の輪\" \"select_label_2\" \"チェス\" \"select_label_3\"\nわたしのすきなものは…？\n"
+	},
+	{
+		"ID": 5831,
+		"unitID": 2303121,
+		"questionID": 29303115,
+		"script": ";;丸いもの,3\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 230312 \"cassius_lo_0028\"\n@カシウス\nなんでだろう…\n\n# face %(unit_a)s \"sad\"\n@カシウス\nなつのおそらを\nみていると、\nむねがギュッとなるの…\n\n# textflame 0 0\n@\n寂しげな目を見せる彼女\n\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 230312 \"cassius_lo_0001\"\n@カシウス\nねぇ、おやかたしゃま\n\n@カシウス\nいまからクイズをだして\nもし、おやかたしゃまが\nせいかいできたら……\n\n@カシウス\nてをつないでくれる？\n\n@カシウス\nじゃあ、いくよ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしのすきなものは…？\n\n# se \"SE_0734\"\n# select \"四角いもの\" \"select_label_1\" \"三角なもの\" \"select_label_2\" \"丸いもの\" \"select_label_3\"\nわたしのすきなものは…？\n"
+	},
+	{
+		"ID": 5832,
+		"unitID": 2303121,
+		"questionID": 29303116,
+		"script": ";;Ｏ型,2\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 230312 \"cassius_lo_0028\"\n@カシウス\nなんでだろう…\n\n# face %(unit_a)s \"sad\"\n@カシウス\nなつのおそらを\nみていると、\nむねがギュッとなるの…\n\n# textflame 0 0\n@\n寂しげな目を見せる彼女\n\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 230312 \"cassius_lo_0001\"\n@カシウス\nねぇ、おやかたしゃま\n\n@カシウス\nいまからクイズをだして\nもし、おやかたしゃまが\nせいかいできたら……\n\n@カシウス\nてをつないでくれる？\n\n@カシウス\nじゃあ、いくよ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしのけつえきがたは？　\n\n# se \"SE_0734\"\n# select \"ＡＢ型\" \"select_label_1\" \"Ｏ型\" \"select_label_2\" \"Ｂ型\" \"select_label_3\"\nわたしのけつえきがたは？　\n"
+	},
+	{
+		"ID": 5833,
+		"unitID": 2303121,
+		"questionID": 29303117,
+		"script": ";;ローマ,2\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 230312 \"cassius_lo_0028\"\n@カシウス\nなんでだろう…\n\n# face %(unit_a)s \"sad\"\n@カシウス\nなつのおそらを\nみていると、\nむねがギュッとなるの…\n\n# textflame 0 0\n@\n寂しげな目を見せる彼女\n\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 230312 \"cassius_lo_0001\"\n@カシウス\nねぇ、おやかたしゃま\n\n@カシウス\nいまからクイズをだして\nもし、おやかたしゃまが\nせいかいできたら……\n\n@カシウス\nてをつないでくれる？\n\n@カシウス\nじゃあ、いくよ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしのしゅっしんちは…？\n\n# se \"SE_0734\"\n# select \"ギリシャ\" \"select_label_1\" \"ローマ\" \"select_label_2\" \"インド\" \"select_label_3\"\nわたしのしゅっしんちは…？\n"
+	},
+	{
+		"ID": 5834,
+		"unitID": 2303121,
+		"questionID": 29303118,
+		"script": ";;料理,2\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 230312 \"cassius_lo_0028\"\n@カシウス\nなんでだろう…\n\n# face %(unit_a)s \"sad\"\n@カシウス\nなつのおそらを\nみていると、\nむねがギュッとなるの…\n\n# textflame 0 0\n@\n寂しげな目を見せる彼女\n\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 230312 \"cassius_lo_0001\"\n@カシウス\nねぇ、おやかたしゃま\n\n@カシウス\nいまからクイズをだして\nもし、おやかたしゃまが\nせいかいできたら……\n\n@カシウス\nてをつないでくれる？\n\n@カシウス\nじゃあ、いくよ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしのしゅみは…？\n\n# se \"SE_0734\"\n# select \"ハイキング\" \"select_label_1\" \"料理\" \"select_label_2\" \"ヨガ\" \"select_label_3\"\nわたしのしゅみは…？\n"
+	},
+	{
+		"ID": 5835,
+		"unitID": 2303121,
+		"questionID": 29303119,
+		"script": ";;人間や自然の観察,1\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 230312 \"cassius_lo_0028\"\n@カシウス\nなんでだろう…\n\n# face %(unit_a)s \"sad\"\n@カシウス\nなつのおそらを\nみていると、\nむねがギュッとなるの…\n\n# textflame 0 0\n@\n寂しげな目を見せる彼女\n\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 230312 \"cassius_lo_0001\"\n@カシウス\nねぇ、おやかたしゃま\n\n@カシウス\nいまからクイズをだして\nもし、おやかたしゃまが\nせいかいできたら……\n\n@カシウス\nてをつないでくれる？\n\n@カシウス\nじゃあ、いくよ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしのしゅみは…？\n\n# se \"SE_0734\"\n# select \"人間や自然の観察\" \"select_label_1\" \"工場見学\" \"select_label_2\" \"陶芸\" \"select_label_3\"\nわたしのしゅみは…？\n"
+	},
+	{
+		"ID": 5836,
+		"unitID": 2303121,
+		"questionID": 29303120,
+		"script": ";;獣牙惨翼,2\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 230312 \"cassius_lo_0028\"\n@カシウス\nなんでだろう…\n\n# face %(unit_a)s \"sad\"\n@カシウス\nなつのおそらを\nみていると、\nむねがギュッとなるの…\n\n# textflame 0 0\n@\n寂しげな目を見せる彼女\n\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 230312 \"cassius_lo_0001\"\n@カシウス\nねぇ、おやかたしゃま\n\n@カシウス\nいまからクイズをだして\nもし、おやかたしゃまが\nせいかいできたら……\n\n@カシウス\nてをつないでくれる？\n\n@カシウス\nじゃあ、いくよ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしのおぼえる\nスキルは…？\n\n# se \"SE_0734\"\n# select \"銃牙惨翼\" \"select_label_1\" \"獣牙惨翼\" \"select_label_2\" \"十牙惨翼\" \"select_label_3\"\nわたしのおぼえる\nスキルは…？\n"
+	},
+	{
+		"ID": 5837,
+		"unitID": 2303121,
+		"questionID": 29303121,
+		"script": ";;回帰せし覇神,3\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 230312 \"cassius_lo_0001\"\n@カシウス\nねぇ、おやかたしゃま…\n\n@カシウス\nだっこ…して？\n\n# textflame 0 0\n@\nどうしたの、急に？\nマスターの問いに、彼女は答える\n\n# textflame 1 1\n@カシウス\nたかいばしょのほうが、\nよくみえるから…\n\n@カシウス\nなつのおおきなおひさまが…\n\n@カシウス\n…そうだ\n\n# voice 230312 \"cassius_lo_0002\"\n@カシウス\nいまからクイズをだして、\nおやかたしゃまがせいかいできたら、\nだっこしてもらってもいい？\n\n@カシウス\nじゃあ、いくよ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしのおぼえる\nスキルは…？\n\n# se \"SE_0734\"\n# select \"回帰せし家臣\" \"select_label_1\" \"回帰せし野心\" \"select_label_2\" \"回帰せし覇神\" \"select_label_3\"\nわたしのおぼえる\nスキルは…？\n"
+	},
+	{
+		"ID": 5838,
+		"unitID": 2303121,
+		"questionID": 29303122,
+		"script": ";;雷視神の展望,1\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 230312 \"cassius_lo_0001\"\n@カシウス\nねぇ、おやかたしゃま…\n\n@カシウス\nだっこ…して？\n\n# textflame 0 0\n@\nどうしたの、急に？\nマスターの問いに、彼女は答える\n\n# textflame 1 1\n@カシウス\nたかいばしょのほうが、\nよくみえるから…\n\n@カシウス\nなつのおおきなおひさまが…\n\n@カシウス\n…そうだ\n\n# voice 230312 \"cassius_lo_0002\"\n@カシウス\nいまからクイズをだして、\nおやかたしゃまがせいかいできたら、\nだっこしてもらってもいい？\n\n@カシウス\nじゃあ、いくよ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしの☆６のリーダースキルは…？\n\n# se \"SE_0734\"\n# select \"雷視神の展望\" \"select_label_1\" \"雷視神の願望\" \"select_label_2\" \"雷視神の欲望\" \"select_label_3\"\nわたしの☆６のリーダースキルは…？\n"
+	},
+	{
+		"ID": 5839,
+		"unitID": 2303121,
+		"questionID": 29303123,
+		"script": ";;幻如の達観,2\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 230312 \"cassius_lo_0001\"\n@カシウス\nねぇ、おやかたしゃま…\n\n@カシウス\nだっこ…して？\n\n# textflame 0 0\n@\nどうしたの、急に？\nマスターの問いに、彼女は答える\n\n# textflame 1 1\n@カシウス\nたかいばしょのほうが、\nよくみえるから…\n\n@カシウス\nなつのおおきなおひさまが…\n\n@カシウス\n…そうだ\n\n# voice 230312 \"cassius_lo_0002\"\n@カシウス\nいまからクイズをだして、\nおやかたしゃまがせいかいできたら、\nだっこしてもらってもいい？\n\n@カシウス\nじゃあ、いくよ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしがおぼえる、ふよスキルは…？\n\n# se \"SE_0734\"\n# select \"幻如の作監\" \"select_label_1\" \"幻如の達観\" \"select_label_2\" \"幻如の楽観\" \"select_label_3\"\nわたしがおぼえる、ふよスキルは…？\n"
+	},
+	{
+		"ID": 5840,
+		"unitID": 2303121,
+		"questionID": 29303124,
+		"script": ";;循環せし幻神,1\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 230312 \"cassius_lo_0001\"\n@カシウス\nねぇ、おやかたしゃま…\n\n@カシウス\nだっこ…して？\n\n# textflame 0 0\n@\nどうしたの、急に？\nマスターの問いに、彼女は答える\n\n# textflame 1 1\n@カシウス\nたかいばしょのほうが、\nよくみえるから…\n\n@カシウス\nなつのおおきなおひさまが…\n\n@カシウス\n…そうだ\n\n# voice 230312 \"cassius_lo_0002\"\n@カシウス\nいまからクイズをだして、\nおやかたしゃまがせいかいできたら、\nだっこしてもらってもいい？\n\n@カシウス\nじゃあ、いくよ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしがおぼえる、コマンドスキルは…？\n\n# se \"SE_0734\"\n# select \"循環せし幻神\" \"select_label_1\" \"循環せし邪神\" \"select_label_2\" \"循環せし蛇神\" \"select_label_3\"\nわたしがおぼえる、コマンドスキルは…？\n"
+	},
+	{
+		"ID": 5841,
+		"unitID": 2303121,
+		"questionID": 29303125,
+		"script": ";;幻如の円環,3\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 230312 \"cassius_lo_0001\"\n@カシウス\nねぇ、おやかたしゃま…\n\n@カシウス\nだっこ…して？\n\n# textflame 0 0\n@\nどうしたの、急に？\nマスターの問いに、彼女は答える\n\n# textflame 1 1\n@カシウス\nたかいばしょのほうが、\nよくみえるから…\n\n@カシウス\nなつのおおきなおひさまが…\n\n@カシウス\n…そうだ\n\n# voice 230312 \"cassius_lo_0002\"\n@カシウス\nいまからクイズをだして、\nおやかたしゃまがせいかいできたら、\nだっこしてもらってもいい？\n\n@カシウス\nじゃあ、いくよ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしがおぼえる、ふよスキルは…？\n\n# se \"SE_0734\"\n# select \"幻如の角環\" \"select_label_1\" \"幻如の無環\" \"select_label_2\" \"幻如の円環\" \"select_label_3\"\nわたしがおぼえる、ふよスキルは…？\n"
+	},
+	{
+		"ID": 5842,
+		"unitID": 2303121,
+		"questionID": 29303126,
+		"script": ";;未来を見通す眼,2\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 230312 \"cassius_lo_0001\"\n@カシウス\nねぇ、おやかたしゃま…\n\n@カシウス\nだっこ…して？\n\n# textflame 0 0\n@\nどうしたの、急に？\nマスターの問いに、彼女は答える\n\n# textflame 1 1\n@カシウス\nたかいばしょのほうが、\nよくみえるから…\n\n@カシウス\nなつのおおきなおひさまが…\n\n@カシウス\n…そうだ\n\n# voice 230312 \"cassius_lo_0002\"\n@カシウス\nいまからクイズをだして、\nおやかたしゃまがせいかいできたら、\nだっこしてもらってもいい？\n\n@カシウス\nじゃあ、いくよ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしがおぼえる、デュエルスキルは…？\n\n# se \"SE_0734\"\n# select \"未来を見通す耳\" \"select_label_1\" \"未来を見通す眼\" \"select_label_2\" \"未来を見通す口\" \"select_label_3\"\nわたしがおぼえる、デュエルスキルは…？\n"
+	},
+	{
+		"ID": 5843,
+		"unitID": 2303121,
+		"questionID": 29303127,
+		"script": ";;ウロボロスの円環,1\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 230312 \"cassius_lo_0001\"\n@カシウス\nねぇ、おやかたしゃま…\n\n@カシウス\nだっこ…して？\n\n# textflame 0 0\n@\nどうしたの、急に？\nマスターの問いに、彼女は答える\n\n# textflame 1 1\n@カシウス\nたかいばしょのほうが、\nよくみえるから…\n\n@カシウス\nなつのおおきなおひさまが…\n\n@カシウス\n…そうだ\n\n# voice 230312 \"cassius_lo_0002\"\n@カシウス\nいまからクイズをだして、\nおやかたしゃまがせいかいできたら、\nだっこしてもらってもいい？\n\n@カシウス\nじゃあ、いくよ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしがおぼえる、デュエルスキルは…？\n\n# se \"SE_0734\"\n# select \"ウロボロスの円環\" \"select_label_1\" \"バハムートの円環\" \"select_label_2\" \"ウルグアイの円環\" \"select_label_3\"\nわたしがおぼえる、デュエルスキルは…？\n"
+	},
+	{
+		"ID": 5844,
+		"unitID": 2303121,
+		"questionID": 29303128,
+		"script": ";;解放されし永劫の輪廻,2\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 230312 \"cassius_lo_0001\"\n@カシウス\nねぇ、おやかたしゃま…\n\n@カシウス\nだっこ…して？\n\n# textflame 0 0\n@\nどうしたの、急に？\nマスターの問いに、彼女は答える\n\n# textflame 1 1\n@カシウス\nたかいばしょのほうが、\nよくみえるから…\n\n@カシウス\nなつのおおきなおひさまが…\n\n@カシウス\n…そうだ\n\n# voice 230312 \"cassius_lo_0002\"\n@カシウス\nいまからクイズをだして、\nおやかたしゃまがせいかいできたら、\nだっこしてもらってもいい？\n\n@カシウス\nじゃあ、いくよ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしがおぼえる、デュエルスキルは…？\n\n# se \"SE_0734\"\n# select \"解放されし永劫のペンネ\" \"select_label_1\" \"解放されし永劫の輪廻\" \"select_label_2\" \"解放されし永劫の信念\" \"select_label_3\"\nわたしがおぼえる、デュエルスキルは…？\n"
+	},
+	{
+		"ID": 5845,
+		"unitID": 2303121,
+		"questionID": 29303129,
+		"script": ";;受け継がれし宿命,2\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 230312 \"cassius_lo_0001\"\n@カシウス\nねぇ、おやかたしゃま…\n\n@カシウス\nだっこ…して？\n\n# textflame 0 0\n@\nどうしたの、急に？\nマスターの問いに、彼女は答える\n\n# textflame 1 1\n@カシウス\nたかいばしょのほうが、\nよくみえるから…\n\n@カシウス\nなつのおおきなおひさまが…\n\n@カシウス\n…そうだ\n\n# voice 230312 \"cassius_lo_0002\"\n@カシウス\nいまからクイズをだして、\nおやかたしゃまがせいかいできたら、\nだっこしてもらってもいい？\n\n@カシウス\nじゃあ、いくよ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしがおぼえる、ふよスキルは…？\n\n# se \"SE_0734\"\n# select \"受け継がれし運命\" \"select_label_1\" \"受け継がれし宿命\" \"select_label_2\" \"受け継がれし生命\" \"select_label_3\"\nわたしがおぼえる、ふよスキルは…？\n"
+	},
+	{
+		"ID": 5846,
+		"unitID": 2303121,
+		"questionID": 29303130,
+		"script": ";;獣魂『無限なる竜』,3\n# textflame 1 1\n# face %(unit_a)s \"happy\"\n# voice 230312 \"cassius_lo_0004\"\n@カシウス\nなんだかぽかぽかする…\n\n# textflame 0 0\n@\nえ？ポカポカ？\n今は春じゃなくて、夏だよ？\nと、彼女に尋ねるマスター\n\n# textflame 1 1\n# voice 230312 \"cassius_lo_0003\"\n@カシウス\nおやかたしゃまのそばにいると、\nぽかぽかとしたふしぎな\nきもちがするの…\n\n@カシウス\nおやかたしゃまは、\nわたしのおひしゃまなのかな？\n\n@カシウス\nそうだ\n\n# voice 230312 \"cassius_lo_0002\"\n@カシウス\nわたしがだすクイズにせいかいして、\nわたしをてらす\nおひしゃまだってとこ、みせて\n\n@カシウス\nじゅんびはいい？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしがおぼえる、ふよスキルは…？\n\n# se \"SE_0734\"\n# select \"獣魂『無限なる亀』\" \"select_label_1\" \"獣魂『無限なる蛇』\" \"select_label_2\" \"獣魂『無限なる竜』\" \"select_label_3\"\nわたしがおぼえる、ふよスキルは…？\n"
+	},
+	{
+		"ID": 5847,
+		"unitID": 2303121,
+		"questionID": 29303131,
+		"script": ";;March,3\n# textflame 1 1\n# face %(unit_a)s \"happy\"\n# voice 230312 \"cassius_lo_0004\"\n@カシウス\nなんだかぽかぽかする…\n\n# textflame 0 0\n@\nえ？ポカポカ？\n今は春じゃなくて、夏だよ？\nと、彼女に尋ねるマスター\n\n# textflame 1 1\n# voice 230312 \"cassius_lo_0003\"\n@カシウス\nおやかたしゃまのそばにいると、\nぽかぽかとしたふしぎな\nきもちがするの…\n\n@カシウス\nおやかたしゃまは、\nわたしのおひしゃまなのかな？\n\n@カシウス\nそうだ\n\n# voice 230312 \"cassius_lo_0002\"\n@カシウス\nわたしがだすクイズにせいかいして、\nわたしをてらす\nおひしゃまだってとこ、みせて\n\n@カシウス\nじゅんびはいい？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしのたんじょうびのつきを\nえいごでいうとなに？\n\n# se \"SE_0734\"\n# select \"January\" \"select_label_1\" \"May\" \"select_label_2\" \"March\" \"select_label_3\"\nわたしのたんじょうびのつきを\nえいごでいうとなに？\n"
+	},
+	{
+		"ID": 5848,
+		"unitID": 2303121,
+		"questionID": 29303132,
+		"script": ";;ジュリアス・シーザー,3\n# textflame 1 1\n# face %(unit_a)s \"happy\"\n# voice 230312 \"cassius_lo_0004\"\n@カシウス\nなんだかぽかぽかする…\n\n# textflame 0 0\n@\nえ？ポカポカ？\n今は春じゃなくて、夏だよ？\nと、彼女に尋ねるマスター\n\n# textflame 1 1\n# voice 230312 \"cassius_lo_0003\"\n@カシウス\nおやかたしゃまのそばにいると、\nぽかぽかとしたふしぎな\nきもちがするの…\n\n@カシウス\nおやかたしゃまは、\nわたしのおひしゃまなのかな？\n\n@カシウス\nそうだ\n\n# voice 230312 \"cassius_lo_0002\"\n@カシウス\nわたしがだすクイズにせいかいして、\nわたしをてらす\nおひしゃまだってとこ、みせて\n\n@カシウス\nじゅんびはいい？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしのキラーズとおなじなまえの\nカシウスがとうじょうする\nシェイクスピアのさくひんはなに？\n\n# se \"SE_0734\"\n# select \"ロミオとジュリエット\" \"select_label_1\" \"ハムレット\" \"select_label_2\" \"ジュリアス・シーザー\" \"select_label_3\"\nわたしのキラーズとおなじなまえの\nカシウスがとうじょうする\nシェイクスピアのさくひんはなに？\n"
+	},
+	{
+		"ID": 5849,
+		"unitID": 2303121,
+		"questionID": 29303133,
+		"script": ";;グリダヴォル,3\n# textflame 1 1\n# face %(unit_a)s \"happy\"\n# voice 230312 \"cassius_lo_0004\"\n@カシウス\nなんだかぽかぽかする…\n\n# textflame 0 0\n@\nえ？ポカポカ？\n今は春じゃなくて、夏だよ？\nと、彼女に尋ねるマスター\n\n# textflame 1 1\n# voice 230312 \"cassius_lo_0003\"\n@カシウス\nおやかたしゃまのそばにいると、\nぽかぽかとしたふしぎな\nきもちがするの…\n\n@カシウス\nおやかたしゃまは、\nわたしのおひしゃまなのかな？\n\n@カシウス\nそうだ\n\n# voice 230312 \"cassius_lo_0002\"\n@カシウス\nわたしがだすクイズにせいかいして、\nわたしをてらす\nおひしゃまだってとこ、みせて\n\n@カシウス\nじゅんびはいい？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしとたんじょうびのつきが\nおなじなのは…？\n\n# se \"SE_0734\"\n# select \"アスカロン\" \"select_label_1\" \"シタ\" \"select_label_2\" \"グリダヴォル\" \"select_label_3\"\nわたしとたんじょうびのつきが\nおなじなのは…？\n"
+	},
+	{
+		"ID": 5850,
+		"unitID": 2303121,
+		"questionID": 29303134,
+		"script": ";;Pisces,2\n# textflame 1 1\n# face %(unit_a)s \"happy\"\n# voice 230312 \"cassius_lo_0004\"\n@カシウス\nなんだかぽかぽかする…\n\n# textflame 0 0\n@\nえ？ポカポカ？\n今は春じゃなくて、夏だよ？\nと、彼女に尋ねるマスター\n\n# textflame 1 1\n# voice 230312 \"cassius_lo_0003\"\n@カシウス\nおやかたしゃまのそばにいると、\nぽかぽかとしたふしぎな\nきもちがするの…\n\n@カシウス\nおやかたしゃまは、\nわたしのおひしゃまなのかな？\n\n@カシウス\nそうだ\n\n# voice 230312 \"cassius_lo_0002\"\n@カシウス\nわたしがだすクイズにせいかいして、\nわたしをてらす\nおひしゃまだってとこ、みせて\n\n@カシウス\nじゅんびはいい？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしのせいざを\nえいごでなんていう？\n\n# se \"SE_0734\"\n# select \"Capricorn\" \"select_label_1\" \"Pisces\" \"select_label_2\" \"Aquarius\" \"select_label_3\"\nわたしのせいざを\nえいごでなんていう？\n"
+	},
+	{
+		"ID": 5851,
+		"unitID": 2303121,
+		"questionID": 29303135,
+		"script": ";;未来を見通す力,3\n# textflame 1 1\n# face %(unit_a)s \"happy\"\n# voice 230312 \"cassius_lo_0004\"\n@カシウス\nなんだかぽかぽかする…\n\n# textflame 0 0\n@\nえ？ポカポカ？\n今は春じゃなくて、夏だよ？\nと、彼女に尋ねるマスター\n\n# textflame 1 1\n# voice 230312 \"cassius_lo_0003\"\n@カシウス\nおやかたしゃまのそばにいると、\nぽかぽかとしたふしぎな\nきもちがするの…\n\n@カシウス\nおやかたしゃまは、\nわたしのおひしゃまなのかな？\n\n@カシウス\nそうだ\n\n# voice 230312 \"cassius_lo_0002\"\n@カシウス\nわたしがだすクイズにせいかいして、\nわたしをてらす\nおひしゃまだってとこ、みせて\n\n@カシウス\nじゅんびはいい？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしのもつ\nとくしゅなちからはなに…？\n\n# se \"SE_0734\"\n# select \"瞬間移動\" \"select_label_1\" \"サイコキネシス\" \"select_label_2\" \"未来を見通す力\" \"select_label_3\"\nわたしのもつ\nとくしゅなちからはなに…？\n"
+	},
+	{
+		"ID": 5852,
+		"unitID": 2303121,
+		"questionID": 29303136,
+		"script": ";;終わりと始まりは同じこと,1\n# textflame 1 1\n# face %(unit_a)s \"happy\"\n# voice 230312 \"cassius_lo_0004\"\n@カシウス\nなんだかぽかぽかする…\n\n# textflame 0 0\n@\nえ？ポカポカ？\n今は春じゃなくて、夏だよ？\nと、彼女に尋ねるマスター\n\n# textflame 1 1\n# voice 230312 \"cassius_lo_0003\"\n@カシウス\nおやかたしゃまのそばにいると、\nぽかぽかとしたふしぎな\nきもちがするの…\n\n@カシウス\nおやかたしゃまは、\nわたしのおひしゃまなのかな？\n\n@カシウス\nそうだ\n\n# voice 230312 \"cassius_lo_0002\"\n@カシウス\nわたしがだすクイズにせいかいして、\nわたしをてらす\nおひしゃまだってとこ、みせて\n\n@カシウス\nじゅんびはいい？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしのくちぐせは…？\n\n# se \"SE_0734\"\n# select \"終わりと始まりは同じこと\" \"select_label_1\" \"終わりよければすべてよし\" \"select_label_2\" \"終わりなき旅\" \"select_label_3\"\nわたしのくちぐせは…？\n"
+	},
+	{
+		"ID": 5853,
+		"unitID": 2303121,
+		"questionID": 29303137,
+		"script": ";;フランキスカ,1\n# textflame 1 1\n# face %(unit_a)s \"happy\"\n# voice 230312 \"cassius_lo_0004\"\n@カシウス\nなんだかぽかぽかする…\n\n# textflame 0 0\n@\nえ？ポカポカ？\n今は春じゃなくて、夏だよ？\nと、彼女に尋ねるマスター\n\n# textflame 1 1\n# voice 230312 \"cassius_lo_0003\"\n@カシウス\nおやかたしゃまのそばにいると、\nぽかぽかとしたふしぎな\nきもちがするの…\n\n@カシウス\nおやかたしゃまは、\nわたしのおひしゃまなのかな？\n\n@カシウス\nそうだ\n\n# voice 230312 \"cassius_lo_0002\"\n@カシウス\nわたしがだすクイズにせいかいして、\nわたしをてらす\nおひしゃまだってとこ、みせて\n\n@カシウス\nじゅんびはいい？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしとおんなじ\nけつえきがたなのはだれ？\n\n# se \"SE_0734\"\n# select \"フランキスカ\" \"select_label_1\" \"ルーン\" \"select_label_2\" \"ロンゴミアント\" \"select_label_3\"\nわたしとおんなじ\nけつえきがたなのはだれ？\n"
+	},
+	{
+		"ID": 5854,
+		"unitID": 2303121,
+		"questionID": 29303138,
+		"script": ";;パラシュ,2\n# textflame 1 1\n# face %(unit_a)s \"happy\"\n# voice 230312 \"cassius_lo_0004\"\n@カシウス\nなんだかぽかぽかする…\n\n# textflame 0 0\n@\nえ？ポカポカ？\n今は春じゃなくて、夏だよ？\nと、彼女に尋ねるマスター\n\n# textflame 1 1\n# voice 230312 \"cassius_lo_0003\"\n@カシウス\nおやかたしゃまのそばにいると、\nぽかぽかとしたふしぎな\nきもちがするの…\n\n@カシウス\nおやかたしゃまは、\nわたしのおひしゃまなのかな？\n\n@カシウス\nそうだ\n\n# voice 230312 \"cassius_lo_0002\"\n@カシウス\nわたしがだすクイズにせいかいして、\nわたしをてらす\nおひしゃまだってとこ、みせて\n\n@カシウス\nじゅんびはいい？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしとちがう\nけつえきがたなのはだれ？\n\n# se \"SE_0734\"\n# select \"フランキスカ\" \"select_label_1\" \"パラシュ\" \"select_label_2\" \"テュルソス\" \"select_label_3\"\nわたしとちがう\nけつえきがたなのはだれ？\n"
+	},
+	{
+		"ID": 5855,
+		"unitID": 2303121,
+		"questionID": 29303139,
+		"script": ";;レーヴァテイン,3\n# textflame 1 1\n# face %(unit_a)s \"happy\"\n# voice 230312 \"cassius_lo_0004\"\n@カシウス\nなんだかぽかぽかする…\n\n# textflame 0 0\n@\nえ？ポカポカ？\n今は春じゃなくて、夏だよ？\nと、彼女に尋ねるマスター\n\n# textflame 1 1\n# voice 230312 \"cassius_lo_0003\"\n@カシウス\nおやかたしゃまのそばにいると、\nぽかぽかとしたふしぎな\nきもちがするの…\n\n@カシウス\nおやかたしゃまは、\nわたしのおひしゃまなのかな？\n\n@カシウス\nそうだ\n\n# voice 230312 \"cassius_lo_0002\"\n@カシウス\nわたしがだすクイズにせいかいして、\nわたしをてらす\nおひしゃまだってとこ、みせて\n\n@カシウス\nじゅんびはいい？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしとおんなじビフレストの\nしゅっしんじゃないのは…？\n\n# se \"SE_0734\"\n# select \"アルマス\" \"select_label_1\" \"フェイルノート\" \"select_label_2\" \"レーヴァテイン\" \"select_label_3\"\nわたしとおんなじビフレストの\nしゅっしんじゃないのは…？\n"
+	},
+	{
+		"ID": 5856,
+		"unitID": 2303121,
+		"questionID": 29303140,
+		"script": "\n;;わたし,1\n# se \"SE_0734\"\n# select \"わたし\" \"select_label_1\" \"オレ\" \"select_label_2\" \"あちき\" \"select_label_3\"\nカシウスの一人称は\n次のうちどれでしょうか？\n"
+	},
+	{
+		"ID": 5857,
+		"unitID": 2303121,
+		"questionID": 29303141,
+		"script": "\n;;御館様,1\n# se \"SE_0734\"\n# select \"御館様\" \"select_label_1\" \"そなた\" \"select_label_2\" \"キミ\" \"select_label_3\"\nカシウスはマスターのこと、\nなんと呼んでますか？\n"
+	},
+	{
+		"ID": 5858,
+		"unitID": 2303121,
+		"questionID": 29303142,
+		"script": "\n;;青白っぽい,3\n# se \"SE_0734\"\n# select \"赤っぽい\" \"select_label_1\" \"黄色っぽい\" \"select_label_2\" \"青白っぽい\" \"select_label_3\"\nカシウスの髪の色は\n次のうちどれでしょう？\n"
+	},
+	{
+		"ID": 5859,
+		"unitID": 2303121,
+		"questionID": 29303143,
+		"script": "\n;;1位,1\n# se \"SE_0734\"\n# select \"1位\" \"select_label_1\" \"３位\" \"select_label_2\" \"２位\" \"select_label_3\"\nカシウスは\n第5回人気投票で\n何位だったでしょうか？\n"
+	},
+	{
+		"ID": 5860,
+		"unitID": 2303121,
+		"questionID": 29303144,
+		"script": "\n;;佐藤舞,1\n# se \"SE_0734\"\n# select \"佐藤舞\" \"select_label_1\" \"近藤玲奈\" \"select_label_2\" \"下田屋有依\" \"select_label_3\"\nカシウスの声優は誰でしょう？\n"
+	}
+]

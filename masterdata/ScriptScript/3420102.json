@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 3420102,
+		"script": "# script \"lisp\"\n# background \"flower_garden\"\n# bgm \"bgm005\" 0\n# body 101413\n# pos 101413 2\n# face 101413 \"angry\"\n# body 0\n# pos 0 4\n# face 0 \"serious2\"\n# serif 0\n# textflame 1 1\n# textboxarrow 0 3\n# voice 9999 \"durin_0059\"\n@デュリン\n確かに…\n精霊達をドロップする異族が\n多いわね？\n\n# serif 1\n# textflame 1 1\n# textboxarrow 1 1\n# voice 1014 \"tyrufing_0003\"\n@ティルフィング\nはい…でもまだ\n新しい妖精は…\n\n# face 0 \"occur\"\n# serif 0\n@デュリン\nそうね、今までのばっかりね\n\n# serif 1\n@ティルフィング\nでも、まだ気配は感じます\n\n# face 0 \"serious\"\n# serif 0\n@デュリン\nだとしたらドロップするまで\nがんばるしかないじゃない！\n\n# face 101413 \"sad\"\n# serif 1\n# voice 1014 \"tyrufing_0049\"\n@ティルフィング\nでも…\n私の気のせいかもしれませんし\n\n# face 0 \"normal\"\n# serif 0\n# voice 9999 \"durin_0063\"\n@デュリン\nティル、なに言ってんのよ！\n新しい妖精がドロップしたら\nアンタ望みが叶うのよ！\n\n# face 101413 \"surprised\"\n# serif 1\n# voice 1014 \"tyrufing_0022\"\n@ティルフィング\nえ？　望み？\n\n# serif 0\n@デュリン\n新しい精霊が見つかれば、\nアンタはさらに強くなれるわ\n\n# face 0 \"usual\"\n# serif 0\n@デュリン\nマスターのために\n強くなりたいんでしょ？\n\n# fcae 101413 \"shy\"\n# serif 1\n# voice 1014 \"tyrufing_0024\"\n@ティルフィング\nあっ…\n\n# face 101413 \"smile\"\n# serif 1\n@ティルフィング\nはい！！"
+	}
+]

@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 6002013,
+		"script": "# script \"lisp\"\n# background \"presidentroom\"\n# bgmfile \"bgm183\" \"BgmGakuen003\" 0\n# fadein \"white\" 3\n# body 0\n# pos 0 3\n# mask 0 off\n# alpha 0 0 0\n# body 62\n# pos 62 3\n# mask 62 off\n# textflame 1 1\n# textboxarrow 0 2\n# face 62 \"smile\"\n# chara 0\n# voice 9999 \"durin_0046\"\n@デュリン\nふぅ、今回の体育祭も面白かったわね！\n私が大活躍した大玉転がしは\n見てくれた？\n\n# shake 1 0.4\n# jump 62\n# face 62 \"angry\"\n# chara 0\n# voice 9999 \"durin_0052\"\n@デュリン\nえ！？　見てない！？\nもぅ～！\n\n# face 62 \"sad\"\n# chara 0\n# voice 9999 \"durin_0027\"\n@デュリン\nもう、いいわ…\n私も着替えよっと\n\n# alpha 62 0 0.5\n# textboxarrow 0 0\n# waitandnext 1.2\n\n# textboxarrow 0 2\n# shake 1 0.4\n# se \"SE_0673\"\n# alpha 0 1 0.3\n# face 0 \"usual\"\n@デュリン\nさぁ！　体育祭の次！\n盛り上がる学校行事と言えば…？\n\n# imageset 0 \"school_logo\"\n# imagealpha 0 0 0\n# face 0 \"happy\"\n# chara 0\n# voice 9999 \"durin_0005\"\n@デュリン\n文化祭よ！！\n次回のファンキル学園も\nおたのしみにね！\n\n# textflame 0 0\n# imagealpha 0 1 0.7\n# imagepos 0 0 0 \n# fadein \"white\" 3\n# textwindow \"close\""
+	}
+]

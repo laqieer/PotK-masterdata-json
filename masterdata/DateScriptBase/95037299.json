@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 95037299,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# se \"SE_0732\"\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n@ロジェスティラ\nその答え…\n\n# eye %(unit_a)s \"close\"\n# voice 550371 \"logistille_c_0006\"\n@ロジェスティラ\n大正解ですっ！\n\n# eye %(unit_a)s \"normal\"\n@ロジェスティラ\n…え？さっき、\nなんて言ったか…ですか？\n\n# face %(unit_a)s \"surprise\"\n# voice 550371 \"logistille_c_0028\"\n@ロジェスティラ\nそ、それは…\n\n@ロジェスティラ\nな、内緒ですっ…！\n\n# alpha %(unit_a)s 0 0.5\n# textflame 0 0\n@\n顔を真っ赤にして去っていく彼女\n照れたその姿は、\nとてもいじらしくて…\n\n@\n結局、教えてもらえなかったが、\n彼女との距離が近くなったことを\n実感するマスターだった\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

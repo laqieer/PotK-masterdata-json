@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 401722,
+		"script": "# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_shipboard\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 4017 \"suiha_0041\"\n@スイハ\n海、ですか\n（なにかあるのかなー？）\n\n@スイハ\n…すごいですね\nゆらゆら揺らめいていて…\n（胸の奥がキュってなる…）\n\n# face %(unit_a)s \"sad\"\n# voice 4017 \"suiha_0024\"\n@スイハ\nきゃっ！\n（わわっ！\n船が揺れてバランスが！）\n\n# textflame 0 0\n@\n倒れそうになったスイハを\nマスターが優しく受け止めた\n\n@\n落ちると危ないから、\n手を繋ぎながら\n海を眺めよう、と提案するマスター\n\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n# voice 4017 \"suiha_0004\"\n@スイハ\n…はい、ありがとうございます\n（っ！　マスターがすぐそばに…\nどどど、どうしよう…ドキドキ）\n\n# textflame 0 0\n@\nスイハと寄り添って\nたゆたう水面を眺めていく…\n\n@\nスイハから感じる温かさと\n少し冷えた潮風が心地よく思えた\n;;----------------------------------------\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

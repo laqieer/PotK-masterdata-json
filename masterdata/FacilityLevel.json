@@ -1,0 +1,744 @@
+[
+	{
+		"ID": 1,
+		"facility_MapFacility": 1,
+		"level": 1,
+		"unit_UnitUnit": 30001030,
+		"attach_point_name": ""
+	},
+	{
+		"ID": 2,
+		"facility_MapFacility": 1,
+		"level": 2,
+		"unit_UnitUnit": 30017030,
+		"attach_point_name": ""
+	},
+	{
+		"ID": 3,
+		"facility_MapFacility": 2,
+		"level": 1,
+		"unit_UnitUnit": 30002030,
+		"attach_point_name": ""
+	},
+	{
+		"ID": 4,
+		"facility_MapFacility": 2,
+		"level": 2,
+		"unit_UnitUnit": 30018030,
+		"attach_point_name": ""
+	},
+	{
+		"ID": 5,
+		"facility_MapFacility": 3,
+		"level": 1,
+		"unit_UnitUnit": 30003030,
+		"attach_point_name": ""
+	},
+	{
+		"ID": 6,
+		"facility_MapFacility": 3,
+		"level": 2,
+		"unit_UnitUnit": 30019030,
+		"attach_point_name": ""
+	},
+	{
+		"ID": 7,
+		"facility_MapFacility": 4,
+		"level": 1,
+		"unit_UnitUnit": 30004010,
+		"attach_point_name": ""
+	},
+	{
+		"ID": 8,
+		"facility_MapFacility": 4,
+		"level": 2,
+		"unit_UnitUnit": 30020010,
+		"attach_point_name": ""
+	},
+	{
+		"ID": 9,
+		"facility_MapFacility": 5,
+		"level": 1,
+		"unit_UnitUnit": 30005010,
+		"attach_point_name": ""
+	},
+	{
+		"ID": 10,
+		"facility_MapFacility": 5,
+		"level": 2,
+		"unit_UnitUnit": 30021010,
+		"attach_point_name": ""
+	},
+	{
+		"ID": 11,
+		"facility_MapFacility": 6,
+		"level": 1,
+		"unit_UnitUnit": 30006010,
+		"attach_point_name": ""
+	},
+	{
+		"ID": 12,
+		"facility_MapFacility": 6,
+		"level": 2,
+		"unit_UnitUnit": 30022010,
+		"attach_point_name": ""
+	},
+	{
+		"ID": 13,
+		"facility_MapFacility": 7,
+		"level": 1,
+		"unit_UnitUnit": 30007010,
+		"attach_point_name": ""
+	},
+	{
+		"ID": 14,
+		"facility_MapFacility": 7,
+		"level": 2,
+		"unit_UnitUnit": 30023010,
+		"attach_point_name": ""
+	},
+	{
+		"ID": 15,
+		"facility_MapFacility": 8,
+		"level": 1,
+		"unit_UnitUnit": 30008010,
+		"attach_point_name": ""
+	},
+	{
+		"ID": 16,
+		"facility_MapFacility": 8,
+		"level": 2,
+		"unit_UnitUnit": 30024010,
+		"attach_point_name": ""
+	},
+	{
+		"ID": 17,
+		"facility_MapFacility": 9,
+		"level": 1,
+		"unit_UnitUnit": 30009020,
+		"attach_point_name": ""
+	},
+	{
+		"ID": 18,
+		"facility_MapFacility": 9,
+		"level": 2,
+		"unit_UnitUnit": 30025020,
+		"attach_point_name": ""
+	},
+	{
+		"ID": 19,
+		"facility_MapFacility": 10,
+		"level": 1,
+		"unit_UnitUnit": 30010020,
+		"attach_point_name": ""
+	},
+	{
+		"ID": 20,
+		"facility_MapFacility": 10,
+		"level": 2,
+		"unit_UnitUnit": 30026020,
+		"attach_point_name": ""
+	},
+	{
+		"ID": 21,
+		"facility_MapFacility": 11,
+		"level": 1,
+		"unit_UnitUnit": 30011010,
+		"attach_point_name": ""
+	},
+	{
+		"ID": 22,
+		"facility_MapFacility": 11,
+		"level": 2,
+		"unit_UnitUnit": 30027010,
+		"attach_point_name": ""
+	},
+	{
+		"ID": 23,
+		"facility_MapFacility": 12,
+		"level": 1,
+		"unit_UnitUnit": 30012010,
+		"attach_point_name": ""
+	},
+	{
+		"ID": 24,
+		"facility_MapFacility": 12,
+		"level": 2,
+		"unit_UnitUnit": 30028010,
+		"attach_point_name": ""
+	},
+	{
+		"ID": 25,
+		"facility_MapFacility": 13,
+		"level": 1,
+		"unit_UnitUnit": 30013010,
+		"attach_point_name": ""
+	},
+	{
+		"ID": 26,
+		"facility_MapFacility": 13,
+		"level": 2,
+		"unit_UnitUnit": 30029010,
+		"attach_point_name": ""
+	},
+	{
+		"ID": 27,
+		"facility_MapFacility": 14,
+		"level": 1,
+		"unit_UnitUnit": 30014010,
+		"attach_point_name": ""
+	},
+	{
+		"ID": 28,
+		"facility_MapFacility": 14,
+		"level": 2,
+		"unit_UnitUnit": 30030010,
+		"attach_point_name": ""
+	},
+	{
+		"ID": 29,
+		"facility_MapFacility": 15,
+		"level": 1,
+		"unit_UnitUnit": 30015010,
+		"attach_point_name": ""
+	},
+	{
+		"ID": 30,
+		"facility_MapFacility": 15,
+		"level": 2,
+		"unit_UnitUnit": 30031010,
+		"attach_point_name": ""
+	},
+	{
+		"ID": 31,
+		"facility_MapFacility": 16,
+		"level": 1,
+		"unit_UnitUnit": 30016010,
+		"attach_point_name": ""
+	},
+	{
+		"ID": 32,
+		"facility_MapFacility": 16,
+		"level": 2,
+		"unit_UnitUnit": 30032010,
+		"attach_point_name": ""
+	},
+	{
+		"ID": 33,
+		"facility_MapFacility": 101,
+		"level": 10,
+		"unit_UnitUnit": 31001010,
+		"attach_point_name": ""
+	},
+	{
+		"ID": 34,
+		"facility_MapFacility": 101,
+		"level": 10,
+		"unit_UnitUnit": 31002010,
+		"attach_point_name": ""
+	},
+	{
+		"ID": 35,
+		"facility_MapFacility": 101,
+		"level": 10,
+		"unit_UnitUnit": 31003010,
+		"attach_point_name": ""
+	},
+	{
+		"ID": 36,
+		"facility_MapFacility": 101,
+		"level": 10,
+		"unit_UnitUnit": 31004010,
+		"attach_point_name": ""
+	},
+	{
+		"ID": 37,
+		"facility_MapFacility": 100,
+		"level": 10,
+		"unit_UnitUnit": 31001030,
+		"attach_point_name": ""
+	},
+	{
+		"ID": 38,
+		"facility_MapFacility": 100,
+		"level": 10,
+		"unit_UnitUnit": 31002030,
+		"attach_point_name": ""
+	},
+	{
+		"ID": 39,
+		"facility_MapFacility": 100,
+		"level": 10,
+		"unit_UnitUnit": 31003030,
+		"attach_point_name": ""
+	},
+	{
+		"ID": 40,
+		"facility_MapFacility": 101,
+		"level": 1,
+		"unit_UnitUnit": 31001010,
+		"attach_point_name": ""
+	},
+	{
+		"ID": 41,
+		"facility_MapFacility": 101,
+		"level": 1,
+		"unit_UnitUnit": 31002010,
+		"attach_point_name": ""
+	},
+	{
+		"ID": 42,
+		"facility_MapFacility": 101,
+		"level": 1,
+		"unit_UnitUnit": 31003010,
+		"attach_point_name": ""
+	},
+	{
+		"ID": 43,
+		"facility_MapFacility": 101,
+		"level": 1,
+		"unit_UnitUnit": 31004010,
+		"attach_point_name": ""
+	},
+	{
+		"ID": 44,
+		"facility_MapFacility": 100,
+		"level": 1,
+		"unit_UnitUnit": 31001030,
+		"attach_point_name": ""
+	},
+	{
+		"ID": 45,
+		"facility_MapFacility": 100,
+		"level": 1,
+		"unit_UnitUnit": 31002030,
+		"attach_point_name": ""
+	},
+	{
+		"ID": 46,
+		"facility_MapFacility": 100,
+		"level": 1,
+		"unit_UnitUnit": 31003030,
+		"attach_point_name": ""
+	},
+	{
+		"ID": 47,
+		"facility_MapFacility": 102,
+		"level": 1,
+		"unit_UnitUnit": 31019010,
+		"attach_point_name": ""
+	},
+	{
+		"ID": 48,
+		"facility_MapFacility": 100,
+		"level": 1,
+		"unit_UnitUnit": 31004030,
+		"attach_point_name": ""
+	},
+	{
+		"ID": 49,
+		"facility_MapFacility": 102,
+		"level": 1,
+		"unit_UnitUnit": 31020010,
+		"attach_point_name": ""
+	},
+	{
+		"ID": 50,
+		"facility_MapFacility": 102,
+		"level": 1,
+		"unit_UnitUnit": 31021010,
+		"attach_point_name": ""
+	},
+	{
+		"ID": 51,
+		"facility_MapFacility": 102,
+		"level": 1,
+		"unit_UnitUnit": 31012010,
+		"attach_point_name": ""
+	},
+	{
+		"ID": 52,
+		"facility_MapFacility": 102,
+		"level": 1,
+		"unit_UnitUnit": 31013010,
+		"attach_point_name": ""
+	},
+	{
+		"ID": 53,
+		"facility_MapFacility": 102,
+		"level": 1,
+		"unit_UnitUnit": 31014010,
+		"attach_point_name": ""
+	},
+	{
+		"ID": 54,
+		"facility_MapFacility": 102,
+		"level": 1,
+		"unit_UnitUnit": 31015010,
+		"attach_point_name": ""
+	},
+	{
+		"ID": 55,
+		"facility_MapFacility": 102,
+		"level": 1,
+		"unit_UnitUnit": 31016010,
+		"attach_point_name": ""
+	},
+	{
+		"ID": 56,
+		"facility_MapFacility": 102,
+		"level": 1,
+		"unit_UnitUnit": 31017010,
+		"attach_point_name": ""
+	},
+	{
+		"ID": 57,
+		"facility_MapFacility": 100,
+		"level": 1,
+		"unit_UnitUnit": 31018010,
+		"attach_point_name": ""
+	},
+	{
+		"ID": 58,
+		"facility_MapFacility": 102,
+		"level": 1,
+		"unit_UnitUnit": 31022010,
+		"attach_point_name": ""
+	},
+	{
+		"ID": 59,
+		"facility_MapFacility": 102,
+		"level": 1,
+		"unit_UnitUnit": 31023010,
+		"attach_point_name": ""
+	},
+	{
+		"ID": 60,
+		"facility_MapFacility": 102,
+		"level": 1,
+		"unit_UnitUnit": 31024010,
+		"attach_point_name": ""
+	},
+	{
+		"ID": 61,
+		"facility_MapFacility": 20,
+		"level": 1,
+		"unit_UnitUnit": 30033010,
+		"attach_point_name": ""
+	},
+	{
+		"ID": 62,
+		"facility_MapFacility": 21,
+		"level": 1,
+		"unit_UnitUnit": 30034010,
+		"attach_point_name": ""
+	},
+	{
+		"ID": 63,
+		"facility_MapFacility": 22,
+		"level": 1,
+		"unit_UnitUnit": 30035010,
+		"attach_point_name": ""
+	},
+	{
+		"ID": 64,
+		"facility_MapFacility": 23,
+		"level": 1,
+		"unit_UnitUnit": 30036010,
+		"attach_point_name": ""
+	},
+	{
+		"ID": 65,
+		"facility_MapFacility": 24,
+		"level": 1,
+		"unit_UnitUnit": 30037010,
+		"attach_point_name": ""
+	},
+	{
+		"ID": 66,
+		"facility_MapFacility": 25,
+		"level": 1,
+		"unit_UnitUnit": 30048020,
+		"attach_point_name": ""
+	},
+	{
+		"ID": 67,
+		"facility_MapFacility": 26,
+		"level": 1,
+		"unit_UnitUnit": 30049020,
+		"attach_point_name": ""
+	},
+	{
+		"ID": 68,
+		"facility_MapFacility": 27,
+		"level": 1,
+		"unit_UnitUnit": 30002031,
+		"attach_point_name": ""
+	},
+	{
+		"ID": 69,
+		"facility_MapFacility": 28,
+		"level": 1,
+		"unit_UnitUnit": 30002032,
+		"attach_point_name": ""
+	},
+	{
+		"ID": 70,
+		"facility_MapFacility": 29,
+		"level": 1,
+		"unit_UnitUnit": 30002033,
+		"attach_point_name": ""
+	},
+	{
+		"ID": 71,
+		"facility_MapFacility": 30,
+		"level": 1,
+		"unit_UnitUnit": 30002034,
+		"attach_point_name": ""
+	},
+	{
+		"ID": 72,
+		"facility_MapFacility": 31,
+		"level": 1,
+		"unit_UnitUnit": 30002035,
+		"attach_point_name": ""
+	},
+	{
+		"ID": 73,
+		"facility_MapFacility": 32,
+		"level": 1,
+		"unit_UnitUnit": 30002036,
+		"attach_point_name": ""
+	},
+	{
+		"ID": 74,
+		"facility_MapFacility": 33,
+		"level": 1,
+		"unit_UnitUnit": 30052012,
+		"attach_point_name": ""
+	},
+	{
+		"ID": 75,
+		"facility_MapFacility": 34,
+		"level": 1,
+		"unit_UnitUnit": 30052022,
+		"attach_point_name": ""
+	},
+	{
+		"ID": 76,
+		"facility_MapFacility": 35,
+		"level": 1,
+		"unit_UnitUnit": 30052032,
+		"attach_point_name": ""
+	},
+	{
+		"ID": 77,
+		"facility_MapFacility": 36,
+		"level": 1,
+		"unit_UnitUnit": 30052013,
+		"attach_point_name": ""
+	},
+	{
+		"ID": 78,
+		"facility_MapFacility": 37,
+		"level": 1,
+		"unit_UnitUnit": 30052023,
+		"attach_point_name": ""
+	},
+	{
+		"ID": 79,
+		"facility_MapFacility": 38,
+		"level": 1,
+		"unit_UnitUnit": 30052033,
+		"attach_point_name": ""
+	},
+	{
+		"ID": 80,
+		"facility_MapFacility": 39,
+		"level": 1,
+		"unit_UnitUnit": 30052010,
+		"attach_point_name": ""
+	},
+	{
+		"ID": 81,
+		"facility_MapFacility": 40,
+		"level": 1,
+		"unit_UnitUnit": 30052020,
+		"attach_point_name": ""
+	},
+	{
+		"ID": 82,
+		"facility_MapFacility": 41,
+		"level": 1,
+		"unit_UnitUnit": 30052030,
+		"attach_point_name": ""
+	},
+	{
+		"ID": 83,
+		"facility_MapFacility": 42,
+		"level": 1,
+		"unit_UnitUnit": 30006030,
+		"attach_point_name": "ef311_fe_guild_paralysis_00"
+	},
+	{
+		"ID": 84,
+		"facility_MapFacility": 43,
+		"level": 1,
+		"unit_UnitUnit": 30006031,
+		"attach_point_name": "ef311_fe_guild_paralysis_00"
+	},
+	{
+		"ID": 85,
+		"facility_MapFacility": 44,
+		"level": 1,
+		"unit_UnitUnit": 30006032,
+		"attach_point_name": "ef311_fe_guild_paralysis_00"
+	},
+	{
+		"ID": 86,
+		"facility_MapFacility": 45,
+		"level": 1,
+		"unit_UnitUnit": 30006033,
+		"attach_point_name": "ef311_fe_guild_bleed_00"
+	},
+	{
+		"ID": 87,
+		"facility_MapFacility": 46,
+		"level": 1,
+		"unit_UnitUnit": 30006034,
+		"attach_point_name": "ef311_fe_guild_bleed_00"
+	},
+	{
+		"ID": 88,
+		"facility_MapFacility": 47,
+		"level": 1,
+		"unit_UnitUnit": 30006035,
+		"attach_point_name": "ef311_fe_guild_bleed_00"
+	},
+	{
+		"ID": 89,
+		"facility_MapFacility": 48,
+		"level": 1,
+		"unit_UnitUnit": 30006036,
+		"attach_point_name": "ef311_fe_guild_oblivion_00"
+	},
+	{
+		"ID": 90,
+		"facility_MapFacility": 49,
+		"level": 1,
+		"unit_UnitUnit": 30006037,
+		"attach_point_name": "ef311_fe_guild_oblivion_00"
+	},
+	{
+		"ID": 91,
+		"facility_MapFacility": 50,
+		"level": 1,
+		"unit_UnitUnit": 30006038,
+		"attach_point_name": "ef311_fe_guild_oblivion_00"
+	},
+	{
+		"ID": 92,
+		"facility_MapFacility": 51,
+		"level": 1,
+		"unit_UnitUnit": 30006039,
+		"attach_point_name": "ef311_fe_guild_no_action_00"
+	},
+	{
+		"ID": 93,
+		"facility_MapFacility": 52,
+		"level": 1,
+		"unit_UnitUnit": 30006040,
+		"attach_point_name": "ef311_fe_guild_no_action_00"
+	},
+	{
+		"ID": 94,
+		"facility_MapFacility": 53,
+		"level": 1,
+		"unit_UnitUnit": 30006041,
+		"attach_point_name": "ef311_fe_guild_no_action_00"
+	},
+	{
+		"ID": 95,
+		"facility_MapFacility": 54,
+		"level": 1,
+		"unit_UnitUnit": 30006042,
+		"attach_point_name": ""
+	},
+	{
+		"ID": 96,
+		"facility_MapFacility": 55,
+		"level": 1,
+		"unit_UnitUnit": 30011010,
+		"attach_point_name": ""
+	},
+	{
+		"ID": 97,
+		"facility_MapFacility": 56,
+		"level": 1,
+		"unit_UnitUnit": 30011010,
+		"attach_point_name": ""
+	},
+	{
+		"ID": 98,
+		"facility_MapFacility": 57,
+		"level": 1,
+		"unit_UnitUnit": 30011010,
+		"attach_point_name": ""
+	},
+	{
+		"ID": 99,
+		"facility_MapFacility": 58,
+		"level": 1,
+		"unit_UnitUnit": 30011010,
+		"attach_point_name": ""
+	},
+	{
+		"ID": 100,
+		"facility_MapFacility": 59,
+		"level": 1,
+		"unit_UnitUnit": 30011010,
+		"attach_point_name": ""
+	},
+	{
+		"ID": 101,
+		"facility_MapFacility": 103,
+		"level": 1,
+		"unit_UnitUnit": 30001031,
+		"attach_point_name": ""
+	},
+	{
+		"ID": 102,
+		"facility_MapFacility": 104,
+		"level": 1,
+		"unit_UnitUnit": 31021011,
+		"attach_point_name": ""
+	},
+	{
+		"ID": 103,
+		"facility_MapFacility": 79,
+		"level": 1,
+		"unit_UnitUnit": 30035011,
+		"attach_point_name": ""
+	},
+	{
+		"ID": 104,
+		"facility_MapFacility": 80,
+		"level": 1,
+		"unit_UnitUnit": 30033011,
+		"attach_point_name": ""
+	},
+	{
+		"ID": 105,
+		"facility_MapFacility": 81,
+		"level": 1,
+		"unit_UnitUnit": 30006048,
+		"attach_point_name": ""
+	},
+	{
+		"ID": 106,
+		"facility_MapFacility": 82,
+		"level": 1,
+		"unit_UnitUnit": 30006049,
+		"attach_point_name": ""
+	}
+]

@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 393031399,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# se \"SE_0732\"\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n@カシウス\nその答え…\n\n# voice 530311 \"cassius_ca_0004\"\n@カシウス\n正解よ\n\n# voice 530311 \"cassius_ca_0032\"\n@カシウス\nわたし…\n御館様がいるから、\nもう寂しくない\n\n@カシウス\n大事なことだから、\nもう一度伝えるね\n\n# voice 530311 \"cassius_ca_0005\"\n@カシウス\n御館様のおかげで、\n心が夏空のように晴れ渡るの\n\n@カシウス\nわたしの気持ち、伝わった？\n\n# textflame 0 0\n@\n微笑む彼女\n\n@\n澄み渡るような笑顔は、\nマスターの心をも晴れやかにした\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

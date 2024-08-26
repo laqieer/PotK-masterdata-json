@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 6010042,
+		"script": ";;【EP4】戦闘後/背景：教室\n# script \"lisp\"\n# background \"classroom02_afternoon\"\n# bgmfile \"bgm198\" \"Bgm3Tcollabo002\" 0\n# body 118\n# pos 118 3\n# scale 118 0.8 0\n# body 200481\n# alpha 200481 0 0\n# mask 118 off\n# textflame 0 0\n@マスター\n…確かに学院は理想の形に\nなったのかもしれない\n\n# textflame 0 0\n@マスター\nでも、パラシュはどうなの？\n\n# textflame 1 1\n# textboxarrow 0 2\n# chara 118\n# face 118 \"surprise\"\n@パラシュ\n…ボク？\n\n# textflame 0 0\n@マスター\n以前のパラシュは…\n学院を理想の形にするために\n毎日頑張っていた\n\n# textflame 0 0\n@マスター\nなかなかそうはならなくても\nがむしゃらに目標を目指してた…\nそれなのに… \n\n# textflame 0 0\n@マスター\n今のパラシュは、この理想の学院で\nなにもしていないじゃないか\n\n# textflame 0 0\n@マスター\n毎日、退屈そうにして\n死人と変わらない…\nまるで退屈に殺されたみたいだ！\n\n# textflame 1 1\n# textboxarrow 0 2\n# chara 118\n# voice 2004 \"parashu_0024\"\n@パラシュ\n退屈に…\nボクが殺された…？\n\n# textflame 0 0\n@マスター\n確かに理想は叶ったかもしれないけど\n今の状況がパラシュの本意とは\nとても思えない\n\n# textflame 0 0\n@マスター\nそれとも、本当にパラシュの理想？\n今のパラシュも含めて\n理想の姿になっているっていうの？\n\n# textflame 1 1\n# textboxarrow 0 2\n# chara 118\n# face 118 \"sad\"\n@パラシュ\n…………\n\n# textflame 0 0\n@\nパラシュはマスターの問いかけには\n答えることなく、立ち去った\n\n# alpha 118 0 1\n# waitandnext 1\n# se \"SE_0719\"\n\n# textflame 0 0\n@マスター\n（…こうなったら後は明日…\n金曜日に勝負をかけるだけだ！）\n\n;;//時間経過を示す暗転/４章終了\n# fadeout \"black\" 2\n# serif 0\n# textwindow \"close\"\n# serif 1\n# textwindow \"close\"\n# waitandnext 2\n"
+	}
+]

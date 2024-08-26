@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 600122,
+		"script": "# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_room\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# voice 6001 \"asukurepiosu_0028\"\n@アスクレピオス\n…お互い、休息が必要かなって\n\n# textflame 0 0\n@\nアスクレピオスは\nほっとため息をつく\n\n# textflame 1 1\n@アスクレピオス\nたまにはいいんじゃない？\n部屋の中なら敵もいないし\n怪我する危険もないし\n\n# textflame 0 0\n@\n突然、思い出したかのように\nアスクレピオスは\n急に怒り始めた\n\n# voice 6001 \"asukurepiosu_0010\"\n# face %(unit_a)s \"angry\"\n# textflame 1 1\n@アスクレピオス\n大体マスターは！\n後先考えずに行動しすぎ！\n\n# textflame 1 1\n@アスクレピオス\n私達に任せて\n引っ込んでいればいいのに…\n無駄に前にでるし！\n\n# textflame 0 0\n@\nそうは言っても…\nマスターは\nみんなのことが心配なのだ\n\n# voice 6001 \"asukurepiosu_0013\"\n# textflame 1 1\n@アスクレピオス\nバカじゃないの！？\n私のほうが……\n\n# textflame 1 1\n@アスクレピオス\n何十倍も、何百倍も！\nあなたのこと…\n\n;;とげとげ吹き出し\n# textwindow \"toge\"\n@アスクレピオス\n心配してるんだから！！\n\n# textwindow \"normal\"\n# textflame 0 0\n@\n興奮して叫んでしまったことを\n悔いるように、アスクレピオスは\n恥ずかしそうにうつむく\n\n# textflame 1 1\n@アスクレピオス\nごめんなさい…\nこれじゃ“まったり”じゃないわね…\n\n# textflame 0 0\n@\nマスターは彼女の想いを\n温かく感じながら…\n\n# textflame 0 0\n@\n二人で“まったり”\nなにをしようか考え始めた――\n;;----------------------------------------\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

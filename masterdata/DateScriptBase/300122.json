@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 300122,
+		"script": "# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_onsen\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 3001 \"ronginusu_0008\"\n@ロンギヌス\nそういう理屈ではないような…\n\n# textflame 0 0\n@\n渋るロンギヌスだったが\n恐る恐る、湯船に足をつけようとする\n\n# voice 3001 \"ronginusu_0021\"\n# textflame 1 1\n@ロンギヌス\n…あ、なんともない…\n問題なく浸かれますね！\n\n# textflame 0 0\n@\nそれからロンギヌスは\nゆっくりと体を温泉に\n沈めていく…\n\n# voice 3001 \"ronginusu_0027\"\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@ロンギヌス\nはぁ…\n温泉って…こんなに\n温まるんですね…！\n\n# textflame 1 1\n@ロンギヌス\nいつもはマスターのことを\n考えるだけで…\n心が温まるのですが…\n\n# voice 3001 \"ronginusu_0005\"\n# textflame 1 1\n@ロンギヌス\n今日は温泉と…\n隣いるマスターのお陰で…\n身も心もぽかぽかですね！\n\n# textflame 0 0\n@\nごく自然に\nそう言ってのけるロンギヌス\n\n# textflame 0 0\n@\nほんのり頬を赤く染める\n彼女の笑顔が\nとてもとても眩しかった――\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

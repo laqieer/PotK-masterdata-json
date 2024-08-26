@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 6004033,
+		"script": ";;【指定】bgm004\n# script \"lisp\"\n# background \"schoolroad_evening\"\n# bgm \"bgm004\" 0\n# body 77\n# pos 77 3\n# scale 77 0.8 0\n# mask 77 off\n# face 77 \"sad\"\n# textflame 0 0\n@マスター\nナーゲルリング…！\n大丈夫！？\n\n# textflame 1 1\n# textboxarrow 0 2\n# chara 100621\n@ナーゲルリング\nあれ…マスター…\n来てくれたんですか…\n\n# chara 100621\n# voice 1006 \"nageruring_0031\"\n@ナーゲルリング\nごめんなさい、ちょっと…\n立ちくらみがしたみたいで…\n\n# textflame 0 0\n@マスター\n落ち着くまで待つし\nいいところまで送るよ\n\n# textflame 1 1\n# textboxarrow 0 2\n# chara 100621\n@ナーゲルリング\nありがとうございます…\n\n# chara 100621\n# voice 1006 \"nageruring_kyara_1018\"\n@ナーゲルリング\nあの、会長と\nシェキナー先輩は…？\n\n# textflame 0 0\n@マスター\nあ、っと…\n置いてきちゃったな\n戻ったほうがいいかな？\n\n# textflame 1 1\n# textboxarrow 0 2\n# chara 100621\n@ナーゲルリング\nいえ…\n二人で話してもらったほうが\nいいかもしれません\n\n;;モヤできないので（）\n;;モヤモヤ吹き出し\n# textflame 0 0\n@マスター\n（やっぱり浮かない顔…\nまだナーゲルリングの\n悩みは解決してないんだ）\n"
+	}
+]

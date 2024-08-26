@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 91014498,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# se \"SE_0733\"\n# face %(unit_a)s \"sad\"\n# voice 1014 \"tyrufing_0031\"\n@ティルフィング\nごめんなさい…\n\n@ティルフィング\n問題、難しかった…\nですよね…？\n\n# textflame 0 0\n@\n間違えちゃったけど\n次の機会には必ず正解してみせる！\n\n# voice 1014 \"tyrufing_0030\"\n# textflame 1 1\n@ティルフィング\n…ありがとう、ございます\n\n# face %(unit_a)s \"normal\"\n# voice 1014 \"tyrufing_0004\"\n@ティルフィング\nやっぱりマスターは、とても\n優しいです…\n\n# textflame 0 0\n@\nそうは言うものの\n彼女が肩を落としているのは\n明らかだった…\n\n@\nもっとちゃんと\nティルフィングのことを\n観察しないと…\n\n@\nこの失敗を心に刻むマスターであった\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

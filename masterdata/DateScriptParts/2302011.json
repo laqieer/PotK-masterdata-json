@@ -1,0 +1,26 @@
+[
+	{
+		"ID": 173,
+		"unitID": 2302011,
+		"scriptID": "kaerimichi",
+		"script": "はあ、帰るのも面倒だし\nもう少し一緒にいてもいいよ"
+	},
+	{
+		"ID": 187,
+		"unitID": 2302011,
+		"scriptID": "kaeru",
+		"script": "ん～\nそろそろ帰りたいなー"
+	},
+	{
+		"ID": 201,
+		"unitID": 2302011,
+		"scriptID": "kaeru_ok",
+		"script": "@%(unitName:unit_a)s\nうん、いいよー\nって、あれ？\nなにするんだっけ？"
+	},
+	{
+		"ID": 215,
+		"unitID": 2302011,
+		"scriptID": "kaeru_ng",
+		"script": "@%(unitName:unit_a)s\nうーん、いいよー\nあれ…？やっぱりダメだったかも\nごめんね～"
+	}
+]

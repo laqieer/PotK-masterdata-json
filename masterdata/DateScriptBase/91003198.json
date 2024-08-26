@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 91003198,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# se \"SE_0733\"\n# face %(unit_a)s \"sad\"\n# voice 1003 \"durandaru_0008\"\n@デュランダル\nハズレですわ…\n残念なのです…\n\n@デュランダル\n…………\n\n@デュランダル\n…あ、そ、そんな\n悲しそうな顔をしないで下さいませ！\n\n@デュランダル\nわ、わたくしは、\nぜーんぜん気にして\nいないのですわ！\n\n@デュランダル\n…たしかに、\n当てて下さらなかったのは\n残念ですけれど…\n\n@デュランダル\nでも、楽しんでいただくための\nクイズだったのですもの\n\n# voice 1003 \"durandaru_0036\"\n# face %(unit_a)s \"normal\"\n@デュランダル\nまた、クイズは行いますから、\nその時は、当てて下さいませ！\n\n# textflame 0 0\n@\n元気に振る舞っているが、\nやはり外れたことが\nショックだったようだ\n\n@\n彼女のためにも、\n次はしっかりと\n答えられるようにしよう…\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

@@ -1,0 +1,26 @@
+[
+	{
+		"ID": 1,
+		"name": "大好き",
+		"coefficient": 5.0,
+		"home_result_SeaHomeResult": 1
+	},
+	{
+		"ID": 2,
+		"name": "好き",
+		"coefficient": 1.399999976158142,
+		"home_result_SeaHomeResult": 2
+	},
+	{
+		"ID": 3,
+		"name": "普通",
+		"coefficient": 0.4000000059604645,
+		"home_result_SeaHomeResult": 3
+	},
+	{
+		"ID": 4,
+		"name": "嫌い",
+		"coefficient": 0.05000000074505806,
+		"home_result_SeaHomeResult": 4
+	}
+]

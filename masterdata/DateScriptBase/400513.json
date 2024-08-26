@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 400513,
+		"script": "# script \"lisp\"\n# fadein \"black\" 0.5\n# background %(background)s\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# voice 4005 \"yoichi_0024\"\n@与一\nええええ！？\n姫って…\n\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 4005 \"yoichi_0001\"\n@与一\nどういうことですか、マスター！\n\n# textflame 0 0\n@\nマスターはうやうやしく\n与一の前にひざまずく\n\n# textflame 1 1\n@与一\nえ、あ…\n与一が姫だなんて…\nちょっと荷が重いですが…\n\n# textflame 1 1\n# face %(unit_a)s \"angry\"\n@与一\nう、うむ！\nくるしゅうない…\nおもてをあげよ！\n\n# textflame 0 0\n@\n恥ずかしながらに\nノッてくれた与一姫…\n\n# textflame 0 0\n@\nいつもとは違う気分で\n城を隅々までめぐる\n二人なのであった――\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

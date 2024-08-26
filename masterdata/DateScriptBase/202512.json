@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 202512,
+		"script": "# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_cafe\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# voice 2025 \"hercule_0028\"\n@エルキュール\nマスターも、ですか？\n\n# face %(unit_a)s \"smile\"\n@エルキュール\nなら、もっともっとうれしいです！\n私一人ではしゃいでたら\nどうしようって不安でしたから…\n\n@エルキュール\n美味しい飲み物やお菓子を\n食べながら\nマスターと一緒にお話しして…\n\n# face %(unit_a)s \"normal\"\n# voice 2025 \"hercule_0020\"\n@エルキュール\nなんだか普通のことをしてるのに…\nあなたと二人だと\nすごく幸せな気分になります…\n\n@エルキュール\nだからまた\n今みたいにカフェでお茶しましょう！\n約束ですよ！\n\n# textflame 0 0\n@\n笑顔でそう言う彼女の言葉に\nマスターはうなずく。\n\n@\n彼女が楽しんでくれて\n本当に良かった\n\n@\nそう思いながら、\n二人きりで幸せな時間を\n過ごした―\n\n;;-----------------------------------------\n# waitandnext 2\n# fadeout \"black\" 1.2\n"
+	}
+]

@@ -1,0 +1,302 @@
+[
+	{
+		"ID": 2851,
+		"unitID": 2500411,
+		"questionID": 9500401,
+		"script": ";;ブラフマー,1\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 5004 \"burafumasutora_0001\"\n@ブラフマーストラ\nねえマスター、暇してない？\n\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n@ブラフマーストラ\nもし暇なら、\nちょっーと質問してみてもいい？\n\n# textflame 1 1\n@ブラフマーストラ\nまぁほら、マスターがアタシのこと\nどんくらい知ってるのかなー\nっいうのを試したいのよね\n\n# voice 5004 \"burafumasutora_0004\"\n# textflame 1 1\n@ブラフマーストラ\n別に、間違えたからって\n怒ったりはしないよ〜、たぶん♪\n\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@ブラフマーストラ\nま、気楽に答えてくれたら\nいいからさっ\n\n# voice 5004 \"burafumasutora_0036\"\n# textflame 1 1\n@ブラフマーストラ\nそれじゃ、始めるよ〜！\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nアタシのキラーズ\n「ブラフマーストラ」の\n持ち主はなんて名前だっけ？\n\n# se \"SE_0734\"\n# select  \"ブラフマー\" \"select_label_1\" \"ブラフマーストラ\" \"select_label_2\" \"ブラフマース\" \"select_label_3\"\nアタシのキラーズ\n「ブラフマーストラ」の\n持ち主はなんて名前だっけ？\n"
+	},
+	{
+		"ID": 2852,
+		"unitID": 2500411,
+		"questionID": 9500402,
+		"script": ";;創造、破壊、再創造,2\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 5004 \"burafumasutora_0001\"\n@ブラフマーストラ\nねえマスター、暇してない？\n\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n@ブラフマーストラ\nもし暇なら、\nちょっーと質問してみてもいい？\n\n# textflame 1 1\n@ブラフマーストラ\nまぁほら、マスターがアタシのこと\nどんくらい知ってるのかなー\nっいうのを試したいのよね\n\n# voice 5004 \"burafumasutora_0004\"\n# textflame 1 1\n@ブラフマーストラ\n別に、間違えたからって\n怒ったりはしないよ〜、たぶん♪\n\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@ブラフマーストラ\nま、気楽に答えてくれたら\nいいからさっ\n\n# voice 5004 \"burafumasutora_0036\"\n# textflame 1 1\n@ブラフマーストラ\nそれじゃ、始めるよ〜！\n;;--------------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nアタシのキラーズ\n「ブラフマーストラ」の\n持ち主が司ってるのは？\n\n# se \"SE_0734\"\n# select  \"生と死と愛\" \"select_label_1\" \"創造、破壊、再創造\" \"select_label_2\" \"絶望と希望と調和\" \"select_label_3\"\nアタシのキラーズ\n「ブラフマーストラ」の\n持ち主が司ってるのは？\n"
+	},
+	{
+		"ID": 2853,
+		"unitID": 2500411,
+		"questionID": 9500403,
+		"script": ";;ヒンドゥー教,3\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 5004 \"burafumasutora_0001\"\n@ブラフマーストラ\nねえマスター、暇してない？\n\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n@ブラフマーストラ\nもし暇なら、\nちょっーと質問してみてもいい？\n\n# textflame 1 1\n@ブラフマーストラ\nまぁほら、マスターがアタシのこと\nどんくらい知ってるのかなー\nっいうのを試したいのよね\n\n# voice 5004 \"burafumasutora_0004\"\n# textflame 1 1\n@ブラフマーストラ\n別に、間違えたからって\n怒ったりはしないよ〜、たぶん♪\n\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@ブラフマーストラ\nま、気楽に答えてくれたら\nいいからさっ\n\n# voice 5004 \"burafumasutora_0036\"\n# textflame 1 1\n@ブラフマーストラ\nそれじゃ、始めるよ〜！\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nアタシのキラーズ\n「ブラフマーストラ」の\n持ち主が出てくる宗教は？\n\n# se \"SE_0734\"\n# select  \"仏教\" \"select_label_1\" \"キリスト教\" \"select_label_2\" \"ヒンドゥー教\" \"select_label_3\"\nアタシのキラーズ\n「ブラフマーストラ」の\n持ち主が出てくる宗教は？\n"
+	},
+	{
+		"ID": 2854,
+		"unitID": 2500411,
+		"questionID": 9500404,
+		"script": ";;3人,1\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 5004 \"burafumasutora_0001\"\n@ブラフマーストラ\nねえマスター、暇してない？\n\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n@ブラフマーストラ\nもし暇なら、\nちょっーと質問してみてもいい？\n\n# textflame 1 1\n@ブラフマーストラ\nまぁほら、マスターがアタシのこと\nどんくらい知ってるのかなー\nっいうのを試したいのよね\n\n# voice 5004 \"burafumasutora_0004\"\n# textflame 1 1\n@ブラフマーストラ\n別に、間違えたからって\n怒ったりはしないよ〜、たぶん♪\n\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@ブラフマーストラ\nま、気楽に答えてくれたら\nいいからさっ\n\n# voice 5004 \"burafumasutora_0036\"\n# textflame 1 1\n@ブラフマーストラ\nそれじゃ、始めるよ〜！\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nアタシのキラーズ\n「ブラフマーストラ」の持ち主が\n出てくる宗教の最高神は何人？\n\n# se \"SE_0734\"\n# select  \"3人\" \"select_label_1\" \"1人\" \"select_label_2\" \"100人\" \"select_label_3\"\nアタシのキラーズ\n「ブラフマーストラ」の持ち主が\n出てくる宗教の最高神は何人？\n"
+	},
+	{
+		"ID": 2855,
+		"unitID": 2500411,
+		"questionID": 9500405,
+		"script": ";;天地のあらゆる元素,2\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 5004 \"burafumasutora_0001\"\n@ブラフマーストラ\nねえマスター、暇してない？\n\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n@ブラフマーストラ\nもし暇なら、\nちょっーと質問してみてもいい？\n\n# textflame 1 1\n@ブラフマーストラ\nまぁほら、マスターがアタシのこと\nどんくらい知ってるのかなー\nっいうのを試したいのよね\n\n# voice 5004 \"burafumasutora_0004\"\n# textflame 1 1\n@ブラフマーストラ\n別に、間違えたからって\n怒ったりはしないよ〜、たぶん♪\n\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@ブラフマーストラ\nま、気楽に答えてくれたら\nいいからさっ\n\n# voice 5004 \"burafumasutora_0036\"\n# textflame 1 1\n@ブラフマーストラ\nそれじゃ、始めるよ〜！\n;;--------------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nアタシのキラーズ\n「ブラフマーストラ」の矢は\nどんな素材で作られてる？\n\n# se \"SE_0734\"\n# select  \"火を凝縮したもの\" \"select_label_1\" \"天地のあらゆる元素\" \"select_label_2\" \"神の力を閉じ込めた金属\" \"select_label_3\"\nアタシのキラーズ\n「ブラフマーストラ」の矢は\nどんな素材で作られてる？\n"
+	},
+	{
+		"ID": 2856,
+		"unitID": 2500411,
+		"questionID": 9500406,
+		"script": ";;山ふたつ分,3\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 5004 \"burafumasutora_0001\"\n@ブラフマーストラ\nねえマスター、暇してない？\n\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n@ブラフマーストラ\nもし暇なら、\nちょっーと質問してみてもいい？\n\n# textflame 1 1\n@ブラフマーストラ\nまぁほら、マスターがアタシのこと\nどんくらい知ってるのかなー\nっいうのを試したいのよね\n\n# voice 5004 \"burafumasutora_0004\"\n# textflame 1 1\n@ブラフマーストラ\n別に、間違えたからって\n怒ったりはしないよ〜、たぶん♪\n\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@ブラフマーストラ\nま、気楽に答えてくれたら\nいいからさっ\n\n# voice 5004 \"burafumasutora_0036\"\n# textflame 1 1\n@ブラフマーストラ\nそれじゃ、始めるよ〜！\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nちなみに、アタシのキラーズ\n「ブラフマーストラ」はどのくらいの\n重さがあるか、知ってる？\n\n# se \"SE_0734\"\n# select  \"鳥の羽くらい\" \"select_label_1\" \"地球と同じ重さ\" \"select_label_2\" \"山ふたつ分\" \"select_label_3\"\nちなみに、アタシのキラーズ\n「ブラフマーストラ」はどのくらいの\n重さがあるか、知ってる？\n"
+	},
+	{
+		"ID": 2857,
+		"unitID": 2500411,
+		"questionID": 9500407,
+		"script": ";;手元に戻ってくる,1\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 5004 \"burafumasutora_0001\"\n@ブラフマーストラ\nねえマスター、暇してない？\n\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n@ブラフマーストラ\nもし暇なら、\nちょっーと質問してみてもいい？\n\n# textflame 1 1\n@ブラフマーストラ\nまぁほら、マスターがアタシのこと\nどんくらい知ってるのかなー\nっいうのを試したいのよね\n\n# voice 5004 \"burafumasutora_0004\"\n# textflame 1 1\n@ブラフマーストラ\n別に、間違えたからって\n怒ったりはしないよ〜、たぶん♪\n\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@ブラフマーストラ\nま、気楽に答えてくれたら\nいいからさっ\n\n# voice 5004 \"burafumasutora_0036\"\n# textflame 1 1\n@ブラフマーストラ\nそれじゃ、始めるよ〜！\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nアタシのキラーズ\n「ブラフマーストラ」は、狙った\n相手を仕留めた後どうなる？\n\n# se \"SE_0734\"\n# select  \"手元に戻ってくる\" \"select_label_1\" \"世界を焼き尽くす\" \"select_label_2\" \"相手を恋に落とす\" \"select_label_3\"\nアタシのキラーズ\n「ブラフマーストラ」は、狙った\n相手を仕留めた後どうなる？\n"
+	},
+	{
+		"ID": 2858,
+		"unitID": 2500411,
+		"questionID": 9500408,
+		"script": ";;投擲武器,2\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 5004 \"burafumasutora_0001\"\n@ブラフマーストラ\nねえマスター、暇してない？\n\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n@ブラフマーストラ\nもし暇なら、\nちょっーと質問してみてもいい？\n\n# textflame 1 1\n@ブラフマーストラ\nまぁほら、マスターがアタシのこと\nどんくらい知ってるのかなー\nっいうのを試したいのよね\n\n# voice 5004 \"burafumasutora_0004\"\n# textflame 1 1\n@ブラフマーストラ\n別に、間違えたからって\n怒ったりはしないよ〜、たぶん♪\n\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@ブラフマーストラ\nま、気楽に答えてくれたら\nいいからさっ\n\n# voice 5004 \"burafumasutora_0036\"\n# textflame 1 1\n@ブラフマーストラ\nそれじゃ、始めるよ〜！\n;;--------------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nアタシのキラーズ\n「ブラフマーストラ」は\n神話だとどんな武器？\n\n# se \"SE_0734\"\n# select  \"打撃武器\" \"select_label_1\" \"投擲武器\" \"select_label_2\" \"斬撃武器\" \"select_label_3\"\nアタシのキラーズ\n「ブラフマーストラ」は\n神話だとどんな武器？\n"
+	},
+	{
+		"ID": 2859,
+		"unitID": 2500411,
+		"questionID": 9500409,
+		"script": ";;血と油,3\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 5004 \"burafumasutora_0001\"\n@ブラフマーストラ\nねえマスター、暇してない？\n\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n@ブラフマーストラ\nもし暇なら、\nちょっーと質問してみてもいい？\n\n# textflame 1 1\n@ブラフマーストラ\nまぁほら、マスターがアタシのこと\nどんくらい知ってるのかなー\nっいうのを試したいのよね\n\n# voice 5004 \"burafumasutora_0004\"\n# textflame 1 1\n@ブラフマーストラ\n別に、間違えたからって\n怒ったりはしないよ〜、たぶん♪\n\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@ブラフマーストラ\nま、気楽に答えてくれたら\nいいからさっ\n\n# voice 5004 \"burafumasutora_0036\"\n# textflame 1 1\n@ブラフマーストラ\nそれじゃ、始めるよ〜！\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nアタシのキラーズ\n「ブラフマーストラ」は神話だと\nなにで汚れていると言われてる？\n\n# se \"SE_0734\"\n# select  \"錆び\" \"select_label_1\" \"泥\" \"select_label_2\" \"血と油\" \"select_label_3\"\nアタシのキラーズ\n「ブラフマーストラ」は神話だと\nなにで汚れていると言われてる？\n"
+	},
+	{
+		"ID": 2860,
+		"unitID": 2500411,
+		"questionID": 9500410,
+		"script": ";;この世のどんなものでも,1\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 5004 \"burafumasutora_0001\"\n@ブラフマーストラ\nねえマスター、暇してない？\n\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n@ブラフマーストラ\nもし暇なら、\nちょっーと質問してみてもいい？\n\n# textflame 1 1\n@ブラフマーストラ\nまぁほら、マスターがアタシのこと\nどんくらい知ってるのかなー\nっいうのを試したいのよね\n\n# voice 5004 \"burafumasutora_0004\"\n# textflame 1 1\n@ブラフマーストラ\n別に、間違えたからって\n怒ったりはしないよ〜、たぶん♪\n\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@ブラフマーストラ\nま、気楽に答えてくれたら\nいいからさっ\n\n# voice 5004 \"burafumasutora_0036\"\n# textflame 1 1\n@ブラフマーストラ\nそれじゃ、始めるよ〜！\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nアタシのキラーズ\n「ブラフマーストラ」は神話の\n世界だとなにを破壊できる？\n\n# se \"SE_0734\"\n# select  \"この世のどんなものでも\" \"select_label_1\" \"神々以外ならなんでも\" \"select_label_2\" \"人間は破壊できない\" \"select_label_3\"\nアタシのキラーズ\n「ブラフマーストラ」は神話の\n世界だとなにを破壊できる？\n"
+	},
+	{
+		"ID": 2861,
+		"unitID": 2500411,
+		"questionID": 9500411,
+		"script": ";;闇,1\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n# voice 5004 \"burafumasutora_0001\"\n@ブラフマーストラ\nマスター、\nクイズやろっか？\n\n# textflame 0 0\n@\n急に予想外のことを言われ、\n固まってしまうマスター\n\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@ブラフマーストラ\nんもう、なにぼさっとしてるの？\nちょっと質問させてもらうだけだよ\n\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@ブラフマーストラ\nアタシのことを\nよーく知ってくれていたら\nわかっちゃう系だよ〜？\n\n# voice 5004 \"burafumasutora_0036\"\n# textflame 1 1\n@ブラフマーストラ\nじゃあ、質問！\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nアタシの属性を言ってみてよ\nこれくらいは、簡単よね？\n\n# se \"SE_0734\"\n# select  \"闇\" \"select_label_1\" \"炎\" \"select_label_2\" \"雷\" \"select_label_3\"\nアタシの属性を言ってみてよ\nこれくらいは、簡単よね？\n"
+	},
+	{
+		"ID": 2862,
+		"unitID": 2500411,
+		"questionID": 9500412,
+		"script": ";;4月4日,2\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n# voice 5004 \"burafumasutora_0001\"\n@ブラフマーストラ\nマスター、\nクイズやろっか？\n\n# textflame 0 0\n@\n急に予想外のことを言われ、\n固まってしまうマスター\n\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@ブラフマーストラ\nんもう、なにぼさっとしてるの？\nちょっと質問させてもらうだけだよ\n\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@ブラフマーストラ\nアタシのことを\nよーく知ってくれていたら\nわかっちゃう系だよ〜？\n\n# voice 5004 \"burafumasutora_0036\"\n# textflame 1 1\n@ブラフマーストラ\nじゃあ、質問！\n;;--------------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nアタシの誕生日とかって\nマスターは覚えてる系？\n\n# se \"SE_0734\"\n# select  \"8月8日\" \"select_label_1\" \"4月4日\" \"select_label_2\" \"11月11日\" \"select_label_3\"\nアタシの誕生日とかって\nマスターは覚えてる系？\n"
+	},
+	{
+		"ID": 2863,
+		"unitID": 2500411,
+		"questionID": 9500413,
+		"script": ";;おひつじ座,3\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n# voice 5004 \"burafumasutora_0001\"\n@ブラフマーストラ\nマスター、\nクイズやろっか？\n\n# textflame 0 0\n@\n急に予想外のことを言われ、\n固まってしまうマスター\n\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@ブラフマーストラ\nんもう、なにぼさっとしてるの？\nちょっと質問させてもらうだけだよ\n\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@ブラフマーストラ\nアタシのことを\nよーく知ってくれていたら\nわかっちゃう系だよ〜？\n\n# voice 5004 \"burafumasutora_0036\"\n# textflame 1 1\n@ブラフマーストラ\nじゃあ、質問！\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nアタシの星座、わかる～？\nま、アタシの誕生日がわかれば\n楽勝よね～\n\n# se \"SE_0734\"\n# select  \"うお座\" \"select_label_1\" \"てんびん座\" \"select_label_2\" \"おひつじ座\" \"select_label_3\"\nアタシの星座、わかる～？\nま、アタシの誕生日がわかれば\n楽勝よね～\n"
+	},
+	{
+		"ID": 2864,
+		"unitID": 2500411,
+		"questionID": 9500414,
+		"script": ";;アブー山,1\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n# voice 5004 \"burafumasutora_0001\"\n@ブラフマーストラ\nマスター、\nクイズやろっか？\n\n# textflame 0 0\n@\n急に予想外のことを言われ、\n固まってしまうマスター\n\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@ブラフマーストラ\nんもう、なにぼさっとしてるの？\nちょっと質問させてもらうだけだよ\n\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@ブラフマーストラ\nアタシのことを\nよーく知ってくれていたら\nわかっちゃう系だよ〜？\n\n# voice 5004 \"burafumasutora_0036\"\n# textflame 1 1\n@ブラフマーストラ\nじゃあ、質問！\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nアタシの出身地とかって\nマスターに言ったことあるっけ？\nわかるかな～？\n\n# se \"SE_0734\"\n# select  \"アブー山\" \"select_label_1\" \"カイラス山\" \"select_label_2\" \"パンディム山\" \"select_label_3\"\nアタシの出身地とかって\nマスターに言ったことあるっけ？\nわかるかな～？\n"
+	},
+	{
+		"ID": 2865,
+		"unitID": 2500411,
+		"questionID": 9500415,
+		"script": ";;目立つこと,2\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n# voice 5004 \"burafumasutora_0001\"\n@ブラフマーストラ\nマスター、\nクイズやろっか？\n\n# textflame 0 0\n@\n急に予想外のことを言われ、\n固まってしまうマスター\n\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@ブラフマーストラ\nんもう、なにぼさっとしてるの？\nちょっと質問させてもらうだけだよ\n\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@ブラフマーストラ\nアタシのことを\nよーく知ってくれていたら\nわかっちゃう系だよ〜？\n\n# voice 5004 \"burafumasutora_0036\"\n# textflame 1 1\n@ブラフマーストラ\nじゃあ、質問！\n;;--------------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nアタシの好きなことなら\n簡単にわかるわよね\n\n# se \"SE_0734\"\n# select  \"踊ること\" \"select_label_1\" \"目立つこと\" \"select_label_2\" \"飲み会\" \"select_label_3\"\nアタシの好きなことなら\n簡単にわかるわよね\n"
+	},
+	{
+		"ID": 2866,
+		"unitID": 2500411,
+		"questionID": 9500416,
+		"script": ";;瞑想,3\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n# voice 5004 \"burafumasutora_0001\"\n@ブラフマーストラ\nマスター、\nクイズやろっか？\n\n# textflame 0 0\n@\n急に予想外のことを言われ、\n固まってしまうマスター\n\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@ブラフマーストラ\nんもう、なにぼさっとしてるの？\nちょっと質問させてもらうだけだよ\n\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@ブラフマーストラ\nアタシのことを\nよーく知ってくれていたら\nわかっちゃう系だよ〜？\n\n# voice 5004 \"burafumasutora_0036\"\n# textflame 1 1\n@ブラフマーストラ\nじゃあ、質問！\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nじゃあ、アタシの趣味はわかる？\n意外って言われたりするんだけど\nそんなことないわよね？\n\n# se \"SE_0734\"\n# select  \"読書\" \"select_label_1\" \"寝ること\" \"select_label_2\" \"瞑想\" \"select_label_3\"\nじゃあ、アタシの趣味はわかる？\n意外って言われたりするんだけど\nそんなことないわよね？\n"
+	},
+	{
+		"ID": 2867,
+		"unitID": 2500411,
+		"questionID": 9500417,
+		"script": ";;大雑把,1\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n# voice 5004 \"burafumasutora_0001\"\n@ブラフマーストラ\nマスター、\nクイズやろっか？\n\n# textflame 0 0\n@\n急に予想外のことを言われ、\n固まってしまうマスター\n\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@ブラフマーストラ\nんもう、なにぼさっとしてるの？\nちょっと質問させてもらうだけだよ\n\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@ブラフマーストラ\nアタシのことを\nよーく知ってくれていたら\nわかっちゃう系だよ〜？\n\n# voice 5004 \"burafumasutora_0036\"\n# textflame 1 1\n@ブラフマーストラ\nじゃあ、質問！\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nアタシの性格で、一番合ってるのは\n次のうちどれ？あっ、別に遠慮\nして答えなくていいわよ\n\n# se \"SE_0734\"\n# select  \"大雑把\" \"select_label_1\" \"几帳面\" \"select_label_2\" \"真面目\" \"select_label_3\"\nアタシの性格で、一番合ってるのは\n次のうちどれ？あっ、別に遠慮\nして答えなくていいわよ\n"
+	},
+	{
+		"ID": 2868,
+		"unitID": 2500411,
+		"questionID": 9500418,
+		"script": ";;一撃必殺系,2\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n# voice 5004 \"burafumasutora_0001\"\n@ブラフマーストラ\nマスター、\nクイズやろっか？\n\n# textflame 0 0\n@\n急に予想外のことを言われ、\n固まってしまうマスター\n\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@ブラフマーストラ\nんもう、なにぼさっとしてるの？\nちょっと質問させてもらうだけだよ\n\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@ブラフマーストラ\nアタシのことを\nよーく知ってくれていたら\nわかっちゃう系だよ〜？\n\n# voice 5004 \"burafumasutora_0036\"\n# textflame 1 1\n@ブラフマーストラ\nじゃあ、質問！\n;;--------------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nアタシの戦い方は、一言で言うと\nどんな感じ？別に、深く考えなくて\n大丈夫よ～\n\n# se \"SE_0734\"\n# select  \"防御重視系\" \"select_label_1\" \"一撃必殺系\" \"select_label_2\" \"サポート重視系\" \"select_label_3\"\nアタシの戦い方は、一言で言うと\nどんな感じ？別に、深く考えなくて\n大丈夫よ～\n"
+	},
+	{
+		"ID": 2869,
+		"unitID": 2500411,
+		"questionID": 9500419,
+		"script": ";;忘れられること,3\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n# voice 5004 \"burafumasutora_0001\"\n@ブラフマーストラ\nマスター、\nクイズやろっか？\n\n# textflame 0 0\n@\n急に予想外のことを言われ、\n固まってしまうマスター\n\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@ブラフマーストラ\nんもう、なにぼさっとしてるの？\nちょっと質問させてもらうだけだよ\n\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@ブラフマーストラ\nアタシのことを\nよーく知ってくれていたら\nわかっちゃう系だよ〜？\n\n# voice 5004 \"burafumasutora_0036\"\n# textflame 1 1\n@ブラフマーストラ\nじゃあ、質問！\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n大抵のことは大丈夫なんだけど\nアタシの苦手なこと…\nマスターは知ってる？\n\n# se \"SE_0734\"\n# select  \"虫\" \"select_label_1\" \"笑われること\" \"select_label_2\" \"忘れられること\" \"select_label_3\"\n大抵のことは大丈夫なんだけど\nアタシの苦手なこと…\nマスターは知ってる？\n"
+	},
+	{
+		"ID": 2870,
+		"unitID": 2500411,
+		"questionID": 9500420,
+		"script": ";;親友,1\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n# voice 5004 \"burafumasutora_0001\"\n@ブラフマーストラ\nマスター、\nクイズやろっか？\n\n# textflame 0 0\n@\n急に予想外のことを言われ、\n固まってしまうマスター\n\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@ブラフマーストラ\nんもう、なにぼさっとしてるの？\nちょっと質問させてもらうだけだよ\n\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@ブラフマーストラ\nアタシのことを\nよーく知ってくれていたら\nわかっちゃう系だよ〜？\n\n# voice 5004 \"burafumasutora_0036\"\n# textflame 1 1\n@ブラフマーストラ\nじゃあ、質問！\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nパラシュとアタシは\n簡単に言うとどんな関係かな？\n\n# se \"SE_0734\"\n# select  \"親友\" \"select_label_1\" \"ライバル\" \"select_label_2\" \"家族\" \"select_label_3\"\nパラシュとアタシは\n簡単に言うとどんな関係かな？\n"
+	},
+	{
+		"ID": 2871,
+		"unitID": 2500411,
+		"questionID": 9500421,
+		"script": ";;達観しているから,1\n# face %(unit_a)s \"usual\"\n# voice 5004 \"burafumasutora_0001\"\n# textflame 1 1\n@ブラフマーストラ\nねぇ、マスター\nアタシと遊ばない？\n\n# voice 5004 \"burafumasutora_0005\"\n# textflame 1 1\n@ブラフマーストラ\nあははっ、なにしてるのよ？\n遊びって言っても\n別に変な意味じゃないってば\n\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@ブラフマーストラ\nアタシが言ってる遊びっていうのは\nほんと、簡単なお遊びだから\n\n# textflame 1 1\n@ブラフマーストラ\nマスターにはちょっと\nアタシからの質問に\n答えてもらおうってだけだよ〜\n\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@ブラフマーストラ\nね、たいしたことなかったでしょ？\n\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n@ブラフマーストラ\n内容は、主にアタシ関係かな\nま、ゆるく答えてくれればいいからっ\n\n# voice 5004 \"burafumasutora_0036\"\n# textflame 1 1\n@ブラフマーストラ\n準備はいい？\nそれじゃ、いくよ\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nアタシはよく適当とか大雑把とか\n言われるんだけど、それはなぜか\nわかるわよね？\n\n# se \"SE_0734\"\n# select  \"達観しているから\" \"select_label_1\" \"気を使えないから\" \"select_label_2\" \"他人に興味がないから\" \"select_label_3\"\nアタシはよく適当とか大雑把とか\n言われるんだけど、それはなぜか\nわかるわよね？\n"
+	},
+	{
+		"ID": 2872,
+		"unitID": 2500411,
+		"questionID": 9500422,
+		"script": ";;使用した人物が同じだから,2\n# face %(unit_a)s \"usual\"\n# voice 5004 \"burafumasutora_0001\"\n# textflame 1 1\n@ブラフマーストラ\nねぇ、マスター\nアタシと遊ばない？\n\n# voice 5004 \"burafumasutora_0005\"\n# textflame 1 1\n@ブラフマーストラ\nあははっ、なにしてるのよ？\n遊びって言っても\n別に変な意味じゃないってば\n\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@ブラフマーストラ\nアタシが言ってる遊びっていうのは\nほんと、簡単なお遊びだから\n\n# textflame 1 1\n@ブラフマーストラ\nマスターにはちょっと\nアタシからの質問に\n答えてもらおうってだけだよ〜\n\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@ブラフマーストラ\nね、たいしたことなかったでしょ？\n\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n@ブラフマーストラ\n内容は、主にアタシ関係かな\nま、ゆるく答えてくれればいいからっ\n\n# voice 5004 \"burafumasutora_0036\"\n# textflame 1 1\n@ブラフマーストラ\n準備はいい？\nそれじゃ、いくよ\n;;--------------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nアタシとパラシュの仲がいいのは\nどうしてか知ってる？\n\n# se \"SE_0734\"\n# select  \"誕生日が同じだから\" \"select_label_1\" \"使用した人物が同じだから\" \"select_label_2\" \"出身地が同じだから\" \"select_label_3\"\nアタシとパラシュの仲がいいのは\nどうしてか知ってる？\n"
+	},
+	{
+		"ID": 2873,
+		"unitID": 2500411,
+		"questionID": 9500423,
+		"script": ";;ヴァジュラ,3\n# face %(unit_a)s \"usual\"\n# voice 5004 \"burafumasutora_0001\"\n# textflame 1 1\n@ブラフマーストラ\nねぇ、マスター\nアタシと遊ばない？\n\n# voice 5004 \"burafumasutora_0005\"\n# textflame 1 1\n@ブラフマーストラ\nあははっ、なにしてるのよ？\n遊びって言っても\n別に変な意味じゃないってば\n\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@ブラフマーストラ\nアタシが言ってる遊びっていうのは\nほんと、簡単なお遊びだから\n\n# textflame 1 1\n@ブラフマーストラ\nマスターにはちょっと\nアタシからの質問に\n答えてもらおうってだけだよ〜\n\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@ブラフマーストラ\nね、たいしたことなかったでしょ？\n\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n@ブラフマーストラ\n内容は、主にアタシ関係かな\nま、ゆるく答えてくれればいいからっ\n\n# voice 5004 \"burafumasutora_0036\"\n# textflame 1 1\n@ブラフマーストラ\n準備はいい？\nそれじゃ、いくよ\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nアタシと身長が同じキル姫は\n次のうちの誰でしょうか\n\n# se \"SE_0734\"\n# select  \"アイムール\" \"select_label_1\" \"パラシュ\" \"select_label_2\" \"ヴァジュラ\" \"select_label_3\"\nアタシと身長が同じキル姫は\n次のうちの誰でしょうか\n"
+	},
+	{
+		"ID": 2874,
+		"unitID": 2500411,
+		"questionID": 9500424,
+		"script": ";;私こそが城学生徒会長,1\n# face %(unit_a)s \"usual\"\n# voice 5004 \"burafumasutora_0001\"\n# textflame 1 1\n@ブラフマーストラ\nねぇ、マスター\nアタシと遊ばない？\n\n# voice 5004 \"burafumasutora_0005\"\n# textflame 1 1\n@ブラフマーストラ\nあははっ、なにしてるのよ？\n遊びって言っても\n別に変な意味じゃないってば\n\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@ブラフマーストラ\nアタシが言ってる遊びっていうのは\nほんと、簡単なお遊びだから\n\n# textflame 1 1\n@ブラフマーストラ\nマスターにはちょっと\nアタシからの質問に\n答えてもらおうってだけだよ〜\n\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@ブラフマーストラ\nね、たいしたことなかったでしょ？\n\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n@ブラフマーストラ\n内容は、主にアタシ関係かな\nま、ゆるく答えてくれればいいからっ\n\n# voice 5004 \"burafumasutora_0036\"\n# textflame 1 1\n@ブラフマーストラ\n準備はいい？\nそれじゃ、いくよ\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nアタシが学生服姿だった時の\nリーダースキルは覚えてる？\n\n# se \"SE_0734\"\n# select  \"私こそが城学生徒会長\" \"select_label_1\" \"アタイこそが城学総番長\" \"select_label_2\" \"ウチこそが城学風紀委員長\" \"select_label_3\"\nアタシが学生服姿だった時の\nリーダースキルは覚えてる？\n"
+	},
+	{
+		"ID": 2875,
+		"unitID": 2500411,
+		"questionID": 9500425,
+		"script": ";;竜神の機関砲,2\n# face %(unit_a)s \"usual\"\n# voice 5004 \"burafumasutora_0001\"\n# textflame 1 1\n@ブラフマーストラ\nねぇ、マスター\nアタシと遊ばない？\n\n# voice 5004 \"burafumasutora_0005\"\n# textflame 1 1\n@ブラフマーストラ\nあははっ、なにしてるのよ？\n遊びって言っても\n別に変な意味じゃないってば\n\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@ブラフマーストラ\nアタシが言ってる遊びっていうのは\nほんと、簡単なお遊びだから\n\n# textflame 1 1\n@ブラフマーストラ\nマスターにはちょっと\nアタシからの質問に\n答えてもらおうってだけだよ〜\n\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@ブラフマーストラ\nね、たいしたことなかったでしょ？\n\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n@ブラフマーストラ\n内容は、主にアタシ関係かな\nま、ゆるく答えてくれればいいからっ\n\n# voice 5004 \"burafumasutora_0036\"\n# textflame 1 1\n@ブラフマーストラ\n準備はいい？\nそれじゃ、いくよ\n;;--------------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nアタシが学生服姿の時\nＥＰ２をクリアすると習得する\nスキルを言ってみてよ\n\n# se \"SE_0734\"\n# select  \"破壊神の鉄槌\" \"select_label_1\" \"竜神の機関砲\" \"select_label_2\" \"必殺の右ストレート\" \"select_label_3\"\nアタシが学生服姿の時\nＥＰ２をクリアすると習得する\nスキルを言ってみてよ\n"
+	},
+	{
+		"ID": 2876,
+		"unitID": 2500411,
+		"questionID": 9500426,
+		"script": ";;竜神の先導者,3\n# face %(unit_a)s \"usual\"\n# voice 5004 \"burafumasutora_0001\"\n# textflame 1 1\n@ブラフマーストラ\nねぇ、マスター\nアタシと遊ばない？\n\n# voice 5004 \"burafumasutora_0005\"\n# textflame 1 1\n@ブラフマーストラ\nあははっ、なにしてるのよ？\n遊びって言っても\n別に変な意味じゃないってば\n\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@ブラフマーストラ\nアタシが言ってる遊びっていうのは\nほんと、簡単なお遊びだから\n\n# textflame 1 1\n@ブラフマーストラ\nマスターにはちょっと\nアタシからの質問に\n答えてもらおうってだけだよ〜\n\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@ブラフマーストラ\nね、たいしたことなかったでしょ？\n\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n@ブラフマーストラ\n内容は、主にアタシ関係かな\nま、ゆるく答えてくれればいいからっ\n\n# voice 5004 \"burafumasutora_0036\"\n# textflame 1 1\n@ブラフマーストラ\n準備はいい？\nそれじゃ、いくよ\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nアタシが学生服姿だった時\nＥＰ３をクリアしたら習得できる\nスキルを言ってみてよ\n\n# se \"SE_0734\"\n# select  \"竜神と先導車\" \"select_label_1\" \"竜神の先行者\" \"select_label_2\" \"竜神の先導者\" \"select_label_3\"\nアタシが学生服姿だった時\nＥＰ３をクリアしたら習得できる\nスキルを言ってみてよ\n"
+	},
+	{
+		"ID": 2877,
+		"unitID": 2500411,
+		"questionID": 9500427,
+		"script": ";;銃神,1\n# face %(unit_a)s \"usual\"\n# voice 5004 \"burafumasutora_0001\"\n# textflame 1 1\n@ブラフマーストラ\nねぇ、マスター\nアタシと遊ばない？\n\n# voice 5004 \"burafumasutora_0005\"\n# textflame 1 1\n@ブラフマーストラ\nあははっ、なにしてるのよ？\n遊びって言っても\n別に変な意味じゃないってば\n\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@ブラフマーストラ\nアタシが言ってる遊びっていうのは\nほんと、簡単なお遊びだから\n\n# textflame 1 1\n@ブラフマーストラ\nマスターにはちょっと\nアタシからの質問に\n答えてもらおうってだけだよ〜\n\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@ブラフマーストラ\nね、たいしたことなかったでしょ？\n\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n@ブラフマーストラ\n内容は、主にアタシ関係かな\nま、ゆるく答えてくれればいいからっ\n\n# voice 5004 \"burafumasutora_0036\"\n# textflame 1 1\n@ブラフマーストラ\n準備はいい？\nそれじゃ、いくよ\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nじゃあ、アタシが学生服姿じゃ\nない時の☆６ジョブがなにか\nアンタは知ってる？\n\n# se \"SE_0734\"\n# select  \"銃神\" \"select_label_1\" \"破壊神\" \"select_label_2\" \"銃姫\" \"select_label_3\"\nじゃあ、アタシが学生服姿じゃ\nない時の☆６ジョブがなにか\nアンタは知ってる？\n"
+	},
+	{
+		"ID": 2878,
+		"unitID": 2500411,
+		"questionID": 9500428,
+		"script": ";;梵我一如,2\n# face %(unit_a)s \"usual\"\n# voice 5004 \"burafumasutora_0001\"\n# textflame 1 1\n@ブラフマーストラ\nねぇ、マスター\nアタシと遊ばない？\n\n# voice 5004 \"burafumasutora_0005\"\n# textflame 1 1\n@ブラフマーストラ\nあははっ、なにしてるのよ？\n遊びって言っても\n別に変な意味じゃないってば\n\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@ブラフマーストラ\nアタシが言ってる遊びっていうのは\nほんと、簡単なお遊びだから\n\n# textflame 1 1\n@ブラフマーストラ\nマスターにはちょっと\nアタシからの質問に\n答えてもらおうってだけだよ〜\n\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@ブラフマーストラ\nね、たいしたことなかったでしょ？\n\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n@ブラフマーストラ\n内容は、主にアタシ関係かな\nま、ゆるく答えてくれればいいからっ\n\n# voice 5004 \"burafumasutora_0036\"\n# textflame 1 1\n@ブラフマーストラ\n準備はいい？\nそれじゃ、いくよ\n;;--------------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n銃神のジョブのアタシが\nＥＰ２のクエストをクリアすると\n覚えるスキルってなんだっけ？\n\n# se \"SE_0734\"\n# select  \"色即是空\" \"select_label_1\" \"梵我一如\" \"select_label_2\" \"空即是色\" \"select_label_3\"\n銃神のジョブのアタシが\nＥＰ２のクエストをクリアすると\n覚えるスキルってなんだっけ？\n"
+	},
+	{
+		"ID": 2879,
+		"unitID": 2500411,
+		"questionID": 9500429,
+		"script": ";;梵天・創造真我,3\n# face %(unit_a)s \"usual\"\n# voice 5004 \"burafumasutora_0001\"\n# textflame 1 1\n@ブラフマーストラ\nねぇ、マスター\nアタシと遊ばない？\n\n# voice 5004 \"burafumasutora_0005\"\n# textflame 1 1\n@ブラフマーストラ\nあははっ、なにしてるのよ？\n遊びって言っても\n別に変な意味じゃないってば\n\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@ブラフマーストラ\nアタシが言ってる遊びっていうのは\nほんと、簡単なお遊びだから\n\n# textflame 1 1\n@ブラフマーストラ\nマスターにはちょっと\nアタシからの質問に\n答えてもらおうってだけだよ〜\n\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@ブラフマーストラ\nね、たいしたことなかったでしょ？\n\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n@ブラフマーストラ\n内容は、主にアタシ関係かな\nま、ゆるく答えてくれればいいからっ\n\n# voice 5004 \"burafumasutora_0036\"\n# textflame 1 1\n@ブラフマーストラ\n準備はいい？\nそれじゃ、いくよ\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n銃神のジョブのアタシが\nＥＰ３のクエストをクリアすると\n覚えるスキルは？\n\n# se \"SE_0734\"\n# select  \"梵天勧請\" \"select_label_1\" \"梵天・帝釈天\" \"select_label_2\" \"梵天・創造真我\" \"select_label_3\"\n銃神のジョブのアタシが\nＥＰ３のクエストをクリアすると\n覚えるスキルは？\n"
+	},
+	{
+		"ID": 2880,
+		"unitID": 2500411,
+		"questionID": 9500430,
+		"script": ";;大賢神の憤慨,1\n# face %(unit_a)s \"usual\"\n# voice 5004 \"burafumasutora_0001\"\n# textflame 1 1\n@ブラフマーストラ\nねぇ、マスター\nアタシと遊ばない？\n\n# voice 5004 \"burafumasutora_0005\"\n# textflame 1 1\n@ブラフマーストラ\nあははっ、なにしてるのよ？\n遊びって言っても\n別に変な意味じゃないってば\n\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@ブラフマーストラ\nアタシが言ってる遊びっていうのは\nほんと、簡単なお遊びだから\n\n# textflame 1 1\n@ブラフマーストラ\nマスターにはちょっと\nアタシからの質問に\n答えてもらおうってだけだよ〜\n\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@ブラフマーストラ\nね、たいしたことなかったでしょ？\n\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n@ブラフマーストラ\n内容は、主にアタシ関係かな\nま、ゆるく答えてくれればいいからっ\n\n# voice 5004 \"burafumasutora_0036\"\n# textflame 1 1\n@ブラフマーストラ\n準備はいい？\nそれじゃ、いくよ\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nアタシが銃神ジョブの時の\nリーダースキルの名前とか\nマスターは覚えてるかな～？\n\n# se \"SE_0734\"\n# select  \"大賢神の憤慨\" \"select_label_1\" \"大賢人の失踪\" \"select_label_2\" \"大賢人の憂鬱\" \"select_label_3\"\nアタシが銃神ジョブの時の\nリーダースキルの名前とか\nマスターは覚えてるかな～？\n"
+	},
+	{
+		"ID": 2881,
+		"unitID": 2500411,
+		"questionID": 9500431,
+		"script": ";;あんぱんの日,1\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n# voice 5004 \"burafumasutora_0005\"\n@ブラフマーストラ\nふふふ\nいいことを思いついた！\n\n# voice 5004 \"burafumasutora_0001\"\n# textflame 1 1\n@ブラフマーストラ\nねぇマスター\nちょっと、アタシの質問に\n答えてくれない？\n\n# textflame 1 1\n@ブラフマーストラ\nなんていうか、テスト？\nみたいな？\n\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@ブラフマーストラ\nマスターがアタシのことを\nどのくらい知ってるのか\n気になったのよね〜\n\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n@ブラフマーストラ\nアタシのことを知ってれば\n簡単だから大丈夫だよ！\n\n# voice 5004 \"burafumasutora_0020\"\n# textflame 1 1\n@ブラフマーストラ\nそれじゃ、さっそく…\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nアタシの誕生日は４月４日だけど\nこの日はなんて呼ばれてるかは\nさすがに知らないわよね～？\n\n# se \"SE_0734\"\n# select  \"あんぱんの日\" \"select_label_1\" \"メロンパンの日\" \"select_label_2\" \"チョココロネの日\" \"select_label_3\"\nアタシの誕生日は４月４日だけど\nこの日はなんて呼ばれてるかは\nさすがに知らないわよね～？\n"
+	},
+	{
+		"ID": 2882,
+		"unitID": 2500411,
+		"questionID": 9500432,
+		"script": ";;メギド,2\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n# voice 5004 \"burafumasutora_0005\"\n@ブラフマーストラ\nふふふ\nいいことを思いついた！\n\n# voice 5004 \"burafumasutora_0001\"\n# textflame 1 1\n@ブラフマーストラ\nねぇマスター\nちょっと、アタシの質問に\n答えてくれない？\n\n# textflame 1 1\n@ブラフマーストラ\nなんていうか、テスト？\nみたいな？\n\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@ブラフマーストラ\nマスターがアタシのことを\nどのくらい知ってるのか\n気になったのよね〜\n\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n@ブラフマーストラ\nアタシのことを知ってれば\n簡単だから大丈夫だよ！\n\n# voice 5004 \"burafumasutora_0020\"\n# textflame 1 1\n@ブラフマーストラ\nそれじゃ、さっそく…\n;;--------------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nアタシがライバル視してるのは\nピナーカとトリシューラと\nあともうひとりは誰？\n\n# se \"SE_0734\"\n# select  \"パラシュ\" \"select_label_1\" \"メギド\" \"select_label_2\" \"ダーインスレイヴ\" \"select_label_3\"\nアタシがライバル視してるのは\nピナーカとトリシューラと\nあともうひとりは誰？\n"
+	},
+	{
+		"ID": 2883,
+		"unitID": 2500411,
+		"questionID": 9500433,
+		"script": ";;Ｏ型,3\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n# voice 5004 \"burafumasutora_0005\"\n@ブラフマーストラ\nふふふ\nいいことを思いついた！\n\n# voice 5004 \"burafumasutora_0001\"\n# textflame 1 1\n@ブラフマーストラ\nねぇマスター\nちょっと、アタシの質問に\n答えてくれない？\n\n# textflame 1 1\n@ブラフマーストラ\nなんていうか、テスト？\nみたいな？\n\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@ブラフマーストラ\nマスターがアタシのことを\nどのくらい知ってるのか\n気になったのよね〜\n\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n@ブラフマーストラ\nアタシのことを知ってれば\n簡単だから大丈夫だよ！\n\n# voice 5004 \"burafumasutora_0020\"\n# textflame 1 1\n@ブラフマーストラ\nそれじゃ、さっそく…\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nそういえば、アタシの血液型の\n問題はもう出したっけ？\nまぁ、適当に答えてよ\n\n# se \"SE_0734\"\n# select  \"ＡＢ型\" \"select_label_1\" \"Ｂ型\" \"select_label_2\" \"Ｏ型\" \"select_label_3\"\nそういえば、アタシの血液型の\n問題はもう出したっけ？\nまぁ、適当に答えてよ\n"
+	},
+	{
+		"ID": 2884,
+		"unitID": 2500411,
+		"questionID": 9500434,
+		"script": ";;リットゥ,1\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n# voice 5004 \"burafumasutora_0005\"\n@ブラフマーストラ\nふふふ\nいいことを思いついた！\n\n# voice 5004 \"burafumasutora_0001\"\n# textflame 1 1\n@ブラフマーストラ\nねぇマスター\nちょっと、アタシの質問に\n答えてくれない？\n\n# textflame 1 1\n@ブラフマーストラ\nなんていうか、テスト？\nみたいな？\n\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@ブラフマーストラ\nマスターがアタシのことを\nどのくらい知ってるのか\n気になったのよね〜\n\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n@ブラフマーストラ\nアタシのことを知ってれば\n簡単だから大丈夫だよ！\n\n# voice 5004 \"burafumasutora_0020\"\n# textflame 1 1\n@ブラフマーストラ\nそれじゃ、さっそく…\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nアタシと誕生日が同じなのって\nマスターは誰か知ってるかな～？\n\n# se \"SE_0734\"\n# select  \"リットゥ\" \"select_label_1\" \"ブリューナク\" \"select_label_2\" \"ピナーカ\" \"select_label_3\"\nアタシと誕生日が同じなのって\nマスターは誰か知ってるかな～？\n"
+	},
+	{
+		"ID": 2885,
+		"unitID": 2500411,
+		"questionID": 9500435,
+		"script": ";;白,2\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n# voice 5004 \"burafumasutora_0005\"\n@ブラフマーストラ\nふふふ\nいいことを思いついた！\n\n# voice 5004 \"burafumasutora_0001\"\n# textflame 1 1\n@ブラフマーストラ\nねぇマスター\nちょっと、アタシの質問に\n答えてくれない？\n\n# textflame 1 1\n@ブラフマーストラ\nなんていうか、テスト？\nみたいな？\n\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@ブラフマーストラ\nマスターがアタシのことを\nどのくらい知ってるのか\n気になったのよね〜\n\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n@ブラフマーストラ\nアタシのことを知ってれば\n簡単だから大丈夫だよ！\n\n# voice 5004 \"burafumasutora_0020\"\n# textflame 1 1\n@ブラフマーストラ\nそれじゃ、さっそく…\n;;--------------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nそれじゃあ、アタシの髪の色を\n答えてもらおうかな～？\nあっ、当然見ちゃダメだからね\n\n# se \"SE_0734\"\n# select  \"金\" \"select_label_1\" \"白\" \"select_label_2\" \"黒\" \"select_label_3\"\nそれじゃあ、アタシの髪の色を\n答えてもらおうかな～？\nあっ、当然見ちゃダメだからね\n"
+	},
+	{
+		"ID": 2886,
+		"unitID": 2500411,
+		"questionID": 9500436,
+		"script": ";;水色,3\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n# voice 5004 \"burafumasutora_0005\"\n@ブラフマーストラ\nふふふ\nいいことを思いついた！\n\n# voice 5004 \"burafumasutora_0001\"\n# textflame 1 1\n@ブラフマーストラ\nねぇマスター\nちょっと、アタシの質問に\n答えてくれない？\n\n# textflame 1 1\n@ブラフマーストラ\nなんていうか、テスト？\nみたいな？\n\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@ブラフマーストラ\nマスターがアタシのことを\nどのくらい知ってるのか\n気になったのよね〜\n\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n@ブラフマーストラ\nアタシのことを知ってれば\n簡単だから大丈夫だよ！\n\n# voice 5004 \"burafumasutora_0020\"\n# textflame 1 1\n@ブラフマーストラ\nそれじゃ、さっそく…\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nあ、ちょっと離れててねー\nよし、じゃあアタシの瞳の色を\n答えてもらおうかな？\n\n# se \"SE_0734\"\n# select  \"黄色\" \"select_label_1\" \"赤色\" \"select_label_2\" \"水色\" \"select_label_3\"\nあ、ちょっと離れててねー\nよし、じゃあアタシの瞳の色を\n答えてもらおうかな？\n"
+	},
+	{
+		"ID": 2887,
+		"unitID": 2500411,
+		"questionID": 9500437,
+		"script": ";;7月21日,1\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n# voice 5004 \"burafumasutora_0005\"\n@ブラフマーストラ\nふふふ\nいいことを思いついた！\n\n# voice 5004 \"burafumasutora_0001\"\n# textflame 1 1\n@ブラフマーストラ\nねぇマスター\nちょっと、アタシの質問に\n答えてくれない？\n\n# textflame 1 1\n@ブラフマーストラ\nなんていうか、テスト？\nみたいな？\n\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@ブラフマーストラ\nマスターがアタシのことを\nどのくらい知ってるのか\n気になったのよね〜\n\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n@ブラフマーストラ\nアタシのことを知ってれば\n簡単だから大丈夫だよ！\n\n# voice 5004 \"burafumasutora_0020\"\n# textflame 1 1\n@ブラフマーストラ\nそれじゃ、さっそく…\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nアタシと仲のいいパラシュの…\nえーと、じゃあパラシュの誕生日を\n答えてみてね～\n\n# se \"SE_0734\"\n# select  \"7月21日\" \"select_label_1\" \"2月9日\" \"select_label_2\" \"10月2日\" \"select_label_3\"\nアタシと仲のいいパラシュの…\nえーと、じゃあパラシュの誕生日を\n答えてみてね～\n"
+	},
+	{
+		"ID": 2888,
+		"unitID": 2500411,
+		"questionID": 9500438,
+		"script": ";;Aries,2\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n# voice 5004 \"burafumasutora_0005\"\n@ブラフマーストラ\nふふふ\nいいことを思いついた！\n\n# voice 5004 \"burafumasutora_0001\"\n# textflame 1 1\n@ブラフマーストラ\nねぇマスター\nちょっと、アタシの質問に\n答えてくれない？\n\n# textflame 1 1\n@ブラフマーストラ\nなんていうか、テスト？\nみたいな？\n\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@ブラフマーストラ\nマスターがアタシのことを\nどのくらい知ってるのか\n気になったのよね〜\n\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n@ブラフマーストラ\nアタシのことを知ってれば\n簡単だから大丈夫だよ！\n\n# voice 5004 \"burafumasutora_0020\"\n# textflame 1 1\n@ブラフマーストラ\nそれじゃ、さっそく…\n;;--------------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nアタシの星座はおひつじ座で…\nこれは英語でどう書くでしょ～？\n\n# se \"SE_0734\"\n# select  \"Iris\" \"select_label_1\" \"Aries\" \"select_label_2\" \"Taurus\" \"select_label_3\"\nアタシの星座はおひつじ座で…\nこれは英語でどう書くでしょ～？\n"
+	},
+	{
+		"ID": 2889,
+		"unitID": 2500411,
+		"questionID": 9500439,
+		"script": ";;ロンギヌス,3\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n# voice 5004 \"burafumasutora_0005\"\n@ブラフマーストラ\nふふふ\nいいことを思いついた！\n\n# voice 5004 \"burafumasutora_0001\"\n# textflame 1 1\n@ブラフマーストラ\nねぇマスター\nちょっと、アタシの質問に\n答えてくれない？\n\n# textflame 1 1\n@ブラフマーストラ\nなんていうか、テスト？\nみたいな？\n\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@ブラフマーストラ\nマスターがアタシのことを\nどのくらい知ってるのか\n気になったのよね〜\n\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n@ブラフマーストラ\nアタシのことを知ってれば\n簡単だから大丈夫だよ！\n\n# voice 5004 \"burafumasutora_0020\"\n# textflame 1 1\n@ブラフマーストラ\nそれじゃ、さっそく…\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nアタシは４月生まれだけど\nこの中で同じ４月生まれの\nキル姫を当ててみてね～\n\n# se \"SE_0734\"\n# select  \"グリモワール\" \"select_label_1\" \"イシューリエル\" \"select_label_2\" \"ロンギヌス\" \"select_label_3\"\nアタシは４月生まれだけど\nこの中で同じ４月生まれの\nキル姫を当ててみてね～\n"
+	},
+	{
+		"ID": 2890,
+		"unitID": 2500411,
+		"questionID": 9500440,
+		"script": ";;April,1\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n# voice 5004 \"burafumasutora_0005\"\n@ブラフマーストラ\nふふふ\nいいことを思いついた！\n\n# voice 5004 \"burafumasutora_0001\"\n# textflame 1 1\n@ブラフマーストラ\nねぇマスター\nちょっと、アタシの質問に\n答えてくれない？\n\n# textflame 1 1\n@ブラフマーストラ\nなんていうか、テスト？\nみたいな？\n\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@ブラフマーストラ\nマスターがアタシのことを\nどのくらい知ってるのか\n気になったのよね〜\n\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n@ブラフマーストラ\nアタシのことを知ってれば\n簡単だから大丈夫だよ！\n\n# voice 5004 \"burafumasutora_0020\"\n# textflame 1 1\n@ブラフマーストラ\nそれじゃ、さっそく…\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nアタシの誕生月は４月だけど…\n４月は英語で書くとどうなる～？\n\n# se \"SE_0734\"\n# select  \"April\" \"select_label_1\" \"March\" \"select_label_2\" \"May\" \"select_label_3\"\nアタシの誕生月は４月だけど…\n４月は英語で書くとどうなる～？\n"
+	},
+	{
+		"ID": 2891,
+		"unitID": 2500411,
+		"questionID": 9500441,
+		"script": "\n;;アタシ,3\n# se \"SE_0734\"\n# select \"ワタシ\" \"select_label_1\" \"アタイ\" \"select_label_2\" \"アタシ\" \"select_label_3\"\nブラフマーストラの一人称は\n次のうちどれ？\n"
+	},
+	{
+		"ID": 2892,
+		"unitID": 2500411,
+		"questionID": 9500442,
+		"script": "\n;;マスター,3\n# se \"SE_0734\"\n# select \"そなた\" \"select_label_1\" \"あなた\" \"select_label_2\" \"マスター\" \"select_label_3\"\nブラフマーストラはアンタのこと\nなんて呼んでる？\n"
+	},
+	{
+		"ID": 2893,
+		"unitID": 2500411,
+		"questionID": 9500443,
+		"script": "\n;;101,3\n# se \"SE_0734\"\n# select \"93\" \"select_label_1\" \"99\" \"select_label_2\" \"101\" \"select_label_3\"\nブラフマーストラの\nバストサイズがどのくらいか\nアンタ…知ってるの？\n"
+	},
+	{
+		"ID": 2894,
+		"unitID": 2500411,
+		"questionID": 9500444,
+		"script": "\n;;60,2\n# se \"SE_0734\"\n# select \"56\" \"select_label_1\" \"60\" \"select_label_2\" \"62\" \"select_label_3\"\nブラフマーストラの\nウエストサイズがどのくらいか\nアンタ…知ってるの？\n"
+	},
+	{
+		"ID": 2895,
+		"unitID": 2500411,
+		"questionID": 9500445,
+		"script": "\n;;89,1\n# se \"SE_0734\"\n# select \"89\" \"select_label_1\" \"88\" \"select_label_2\" \"94\" \"select_label_3\"\nブラフマーストラの\nヒップサイズがどのくらいか\nアンタ…知ってるの？\n"
+	},
+	{
+		"ID": 2896,
+		"unitID": 2500411,
+		"questionID": 9500446,
+		"script": "\n;;58,1\n# se \"SE_0734\"\n# select \"58\" \"select_label_1\" \"51\" \"select_label_2\" \"57\" \"select_label_3\"\nブラフマーストラの体重は\n次のうちどれ？\n"
+	},
+	{
+		"ID": 2897,
+		"unitID": 2500411,
+		"questionID": 9500447,
+		"script": "\n;;250,2\n# se \"SE_0734\"\n# select \"237\" \"select_label_1\" \"250\" \"select_label_2\" \"255\" \"select_label_3\"\nブラフマーストラの\nバスト＋ウエスト＋ヒップは\nいくつかわかる？\n"
+	},
+	{
+		"ID": 2898,
+		"unitID": 2500411,
+		"questionID": 9500448,
+		"script": "\n;;緑,1\n# se \"SE_0734\"\n# select \"緑\" \"select_label_1\" \"紫\" \"select_label_2\" \"白\" \"select_label_3\"\nブラフマーストラの水着の色は\n次のうちどれ？\n"
+	},
+	{
+		"ID": 2899,
+		"unitID": 2500411,
+		"questionID": 9500449,
+		"script": "\n;;75位,3\n# se \"SE_0734\"\n# select \"66位\" \"select_label_1\" \"82位\" \"select_label_2\" \"75位\" \"select_label_3\"\nブラフマーストラは\n第２回人気投票で\n何位だったでしょう？\n"
+	},
+	{
+		"ID": 2900,
+		"unitID": 2500411,
+		"questionID": 9500450,
+		"script": "\n;;若林直美,3\n# se \"SE_0734\"\n# select \"たかはし智秋\" \"select_label_1\" \"落合祐里香\" \"select_label_2\" \"若林直美\" \"select_label_3\"\nブラフマーストラの声優は誰？\n"
+	}
+]

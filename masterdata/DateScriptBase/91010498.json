@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 91010498,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# se \"SE_0733\"\n# face %(unit_a)s \"sad\"\n# voice 1010 \"furagaraha_0008\"\n@フラガラッハ\n…残念ながら\n不正解ですわ\n\n@フラガラッハ\nマスターはわたしのことを\n真剣に見てくれて\nいないんですか？\n\n@フラガラッハ\n…いえ、そんな事はないですわね\n\n@フラガラッハ\n今日は、たまたま\n調子が悪かっただけですわよね？\n\n# face %(unit_a)s \"normal\"\n# voice 1010 \"furagaraha_0004\"\n@フラガラッハ\n…信じていますから\n次はきちんと\n正解してくださいね？\n\n# textflame 0 0\n@\nフラガラッハは\nマスターの目を真っ直ぐに\n見つめる\n\n@\nその目はどこか\n潤んでいる気がした\n\n@\n彼女のこんな悲しそうな目を\nもう見たくはない…\n\n@\n次は笑顔を見られるように\n頑張ろう！\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

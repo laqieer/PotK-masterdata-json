@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 501711,
+		"script": ";;A 遠くだから見えないんだ (大当たり)\n;;B 星形に見えないの？ (中当たり)\n;;C あれはそもそもだね… (小あたり)\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background %(background)s\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 0 0\n@\nマスターは\nグリモワールを誘って\nプラネタリウムにやってきた\n\n# voice 5017 \"grimoire_0002\"\n# textflame 1 1\n@グリモワール\nワタシ、ずっと不思議に\n思っていることがあるの\n\n# eye %(unit_a)s \"close\"\n# voice 5017 \"grimoire_0027\"\n# textflame 1 1\n@グリモワール\n夜空の星は…\nどうして五芒星じゃないのかしら？\n\n# select \"遠くだから見えないんだ\" \"select_label_01\" \"星形に見えないの？\" \"select_label_02\" \"あれはそもそもだね…\" \"select_label_03\"\n夜空の星は…\nどうして五芒星じゃないのかしら？\n\n# label \"select_label_01\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_02\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_03\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_end\"\n# waitandnext 0.1\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

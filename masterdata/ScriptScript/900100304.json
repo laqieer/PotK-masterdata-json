@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 900100304,
+		"script": ";;背景：（ビーチ）\n# script \"lisp\"\n# background \"sea_beach_day\"\n# bgmfile \"bgm227\" \"BgmSeaEvent\" 0\n# body 2200511\n# pos 2200511 4\n# scale 2200511 0.8 0\n# body 2201611\n# pos 2201611 2\n# scale 2201611 0.8 0\n# textflame 1 1\n# voice 2005 \"mitwumu_0013\"\n# textboxarrow 0 3\n@ミトゥム\nとんだ邪魔が入ったな…\nって、あれ？\nなにしてたんだっけ…？\n\n# voice 2005 \"mitwumu_0005\"\n# textboxarrow 0 3\n# face 2200511 \"smile\"\n@ミトゥム\nでもまぁ、なんかスッキリした！\nちょっくらひと泳ぎしてくる！！\nじゃーなー！\n\n# se \"SE_5004\"\n# sedelay \"SE_5005\" 0.5\n# sedelay \"SE_5004\" 1\n# alpha 2200511 0 0.5\n# waitandnext 1\n# textboxarrow 0 0\n\n# textflame 0 0\n@\nあっという間に去って行く\nミトゥムを目で追いながら\nマスターはホッと胸をなでおろす\n\n# move 2201611 3 0.5\n# textflame 1 1\n# voice 2016 \"shita_0001\"\n# textboxarrow 0 2\n# face 2201611 \"sad\"\n@シタ\nマスター？\nなにを安心しているのですか…？\n\n# textflame 0 0\n@\nハッとなり、\nあたふたするマスターだったが\nシタは優しく微笑んだ\n\n# textflame 1 1\n# voice 2016 \"shita_0004\"\n# face 2201611 \"smile\"\n@シタ\nうふふ。今回はうやむやに\nなっちゃいましたけど、\n今度はちゃんと考えてくださいねっ\n\n@シタ\n約束ですよ？\n\n# voice 2016 \"shita_0025\"\n# face 2201611 \"sad\"\n@シタ\nミトゥムちゃーん！\n待ってくださーい！\n\n# textflame 0 0\n@\nまた同じことが起きたら\n自分はどちらを選ぶのか…\n\n# textflame 0 0\n@\n２人を思い出しながら\n真剣に考えるマスターだった…"
+	}
+]

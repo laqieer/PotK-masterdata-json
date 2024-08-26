@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 95032198,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 250321 \"tiphereth_t_0028\"\n# se \"SE_0733\"\n@ティファレト\n……不正解です\n\n@ティファレト\n難しかったですか？\n\n# face %(unit_a)s \"surprise\"\n# voice 250321 \"tiphereth_t_0042\"\n@ティファレト\nい、いえ…\nガッカリなんて\nしてないですよ…！\n\n@ティファレト\nそ、そんな急に\n答えられませんよねっ…！\n失礼しました！\n\n# face %(unit_a)s \"sad\"\n@ティファレト\nほんと…気にしないでくださいね\n\n;;モノローグ\n# textflame 0 0\n@\nそう言ったきり、\n彼女は黙ってしまった\n\n;;モノローグ\n@\nせっかくのデートだったのに…\n\n;;モノローグ\n@\nマスターは、彼女に悲しい目を\nさせてしまったことを\n激しく後悔していた\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

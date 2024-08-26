@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 200214,
+		"script": ";;気にしなくていいた　小\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_park_day\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n@アイムール\nそれが気を遣っていると\n私は言っているのですが…\n\n# voice 2002 \"aimuru_0023\"\n@アイムール\nは？\n私も気を遣っていると…？\n\n# face %(unit_a)s \"angry\"\n@アイムール\n私をマスターと\n同じにしないでください\n\n# face %(unit_a)s \"sad\"\n# voice 2002 \"aimuru_0042\"\n@アイムール\n私はただ、\nマスターのことを心配してですね…\n\n@アイムール\nいえ、心配というのは！\n決して気を遣っているわけでなく！\n\n# textflame 0 0\n@\nムキになっているアイムールと\n騒がしくも楽しいひと時を過ごした\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

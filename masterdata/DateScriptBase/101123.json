@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 101123,
+		"script": "# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_onsen\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 1011 \"excalibur_0042\"\n@エクスカリバー\nそういう科学的な問答を\nしたいわけではなく、ですね…\n\n# textflame 1 1\n@エクスカリバー\nいやしかし…水温が変われど\nマスターが私を気遣ってくれた事実に\nなんら変わりはない…？\n\n# voice 1011 \"excalibur_0022\"\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@エクスカリバー\nハッ…！\n\n# textflame 0 0\n@\nエクスカリバーは\nはっと気づいたように\n顔を赤らめる\n\n# textflame 1 1\n@エクスカリバー\n失礼いたしました…\nつまり私は今…\n\n# voice 1011 \"excalibur_0040\"\n# face %(unit_a)s \"normal\"\n# textflame 1 1\n@エクスカリバー\nマスターの\nご厚意に包まれているのですね！\n\n# textflame 0 0\n@\n満足げなエクスカリバーと\nその言われ方はなんだか恥ずかしい\nマスターなのであった…\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

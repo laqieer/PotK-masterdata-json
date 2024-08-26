@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 96017399,
+		"script": ";;//正解\n# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body 2601711\n# pos 2601711 3\n# mask 2601711 off\n# chara 2601711\n# fadein \"black\" 0.5\n# textflame 1 1\n# face 2601711 \"normal\"\n# se \"SE_0732\"\n# voice 6017 \"akua_0020\"\n@アクア\n大当たり～！\n\n@アクア\nさすが、\n私が見込んだだけのことは\nあるわね！\n\n@アクア\nあなたはこっちの世界での\n私の信者第一号って\n認めてあげる！\n\n;;モノローグ\n# textflame 0 0\n@\n信者になった覚えはなかったが\nアクアがいい笑顔をしていたので、\nまあいいかと思う\n\n;;モノローグ\n@\nその後は二人で楽しく話をしながら\nゆっくりと帰り道を歩いた\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

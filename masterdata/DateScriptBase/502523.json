@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 502523,
+		"script": ";;B中-------------------\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_fireworks\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n@めぐみん\nそうですね…\n\n# face %(unit_a)s \"happy\"\n# voice 5025 \"megumin_0004\"\n@めぐみん\nこの島は障害物も少なく\n空一面に広がって見えるので\nいつもより綺麗に見えます\n\n;;モノローグ\n# textflame 0 0\n@\nこの島に来て思い出は作れてる？\nとマスター\n\n# textflame 1 1\n@めぐみん\nマスターがこうして\n私をいろんな場所に\n連れて行ってくれますから\n\n@めぐみん\nたくさん作れていますよ？\n\n;;モノローグ\n# textflame 0 0\n@\n花火の輝きに照らされる彼女の顔は\nこの夏見た中で一番の笑顔だった\n\n# waitandnext 2\n# fadeout \"black\" 1.2\n"
+	}
+]

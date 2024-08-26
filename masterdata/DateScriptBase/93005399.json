@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 93005399,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# se \"SE_0732\"\n# voice 3005 \"roon_0039\"\n@ルーン\n…ほぉ？\n\n# face %(unit_a)s \"usual\"\n@ルーン\n正解だよ\n\n# voice 3005 \"roon_0041\"\n@ルーン\nやるじゃねぇか\n\n# face %(unit_a)s \"sad\"\n@ルーン\nそんなにあたいの\nペットになりたいのか？\n\n# face %(unit_a)s \"usual\"\n@ルーン\nあんた…変態だね♪\n\n# textflame 0 0\n@\n野性的な水着姿の\n彼女に罵られるのは、刺激が強過ぎて…\n\n@\nマスターは二人の絆が\nまた深まったのを実感した…\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

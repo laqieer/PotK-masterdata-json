@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 93009198,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# se \"SE_0733\"\n# face %(unit_a)s \"sad\"\n# voice 3009 \"seiryu_0015\"\n@青龍偃月刀\nなんということ…\n\n@青龍偃月刀\nあなたは将としての\n自覚はないのですか…？\n\n# voice 3009 \"seiryu_0027\"\n@青龍偃月刀\n本当に…今まで\n私のなにを見ていたのか…\n\n@青龍偃月刀\n将としての…\nいえ、男性としての\n資質を疑います…\n\n# textflame 0 0\n@\n上から目線で話しているが、\n彼女はとてもショックを\n受けているようで…\n\n@\nデート中のはずなのに…\nこんな想いをさせちゃうなんて…\n\n@\n…………\n\n@\nずっと笑顔で居て欲しいから\n彼女のことちゃんと\n知っておかないとな…\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 3101412,
+		"script": "# script \"lisp\"\n# fadein \"black\" 0.5\n# background %(background)s\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n@ティルフィング\n私が…一緒に…？\n\n# textflame 0 0\n@\nきっとこの島の海にも\nいっぱい魚がいるよ\n\n@\nそうマスターが告げると\n彼女は楽しげに笑った\n\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n# voice 1014 \"tyrufing_0005\"\n@ティルフィング\nふふっ！\nそれは、すごく楽しそう…！\n\n# face %(unit_a)s \"usual\"\n@ティルフィング\nさすがマスターです\nそんなこと、思いつきも\nしませんでした\n\n# voice 1014 \"tyrufing_0004\"\n@ティルフィング\n今度島に来る時は、\n水着を用意しませんか？\n\n# face %(unit_a)s \"smile\"\n@ティルフィング\nきっともっと楽しいに\n違いないです\n\n# textflame 0 0\n@\n期待感に胸を膨らませる\nティルフィング\n\n@\nそんな彼女が\n見られてよかったと\nマスターは素直に思うのだった…\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

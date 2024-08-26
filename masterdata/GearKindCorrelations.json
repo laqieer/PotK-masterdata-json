@@ -1,0 +1,38 @@
+[
+	{
+		"ID": 1,
+		"attacker_GearKind": 1,
+		"defender_GearKind": 2,
+		"is_advantage": 1
+	},
+	{
+		"ID": 2,
+		"attacker_GearKind": 2,
+		"defender_GearKind": 3,
+		"is_advantage": 1
+	},
+	{
+		"ID": 3,
+		"attacker_GearKind": 3,
+		"defender_GearKind": 1,
+		"is_advantage": 1
+	},
+	{
+		"ID": 4,
+		"attacker_GearKind": 2,
+		"defender_GearKind": 1,
+		"is_advantage": 0
+	},
+	{
+		"ID": 5,
+		"attacker_GearKind": 3,
+		"defender_GearKind": 2,
+		"is_advantage": 0
+	},
+	{
+		"ID": 6,
+		"attacker_GearKind": 1,
+		"defender_GearKind": 3,
+		"is_advantage": 0
+	}
+]

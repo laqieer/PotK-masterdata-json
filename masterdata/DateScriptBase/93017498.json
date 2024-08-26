@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 93017498,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# se \"SE_0733\"\n# face %(unit_a)s \"sad\"\n# voice 3017 \"wotan_0019\"\n@ヴォータン\nハズレだ…\n\n# face %(unit_a)s \"normal\"\n@ヴォータン\n別に私は気にしてないから、\nお前も気にするな…\n\n@ヴォータン\n勝手にクイズを出したのは\n私だからな…\n\n# voice 3017 \"wotan_0031\"\n# face %(unit_a)s \"sad\"\n@ヴォータン\nすまんな…\nせっかくのデートの最後に\n私がクイズなんか出して…\n\n@ヴォータン\nこんなつもりじゃ\nなかったんだけどな…\n\n# voice 3017 \"wotan_0008\"\n# face %(unit_a)s \"smile\"\n@ヴォータン\nふ…はは…\n\n@ヴォータン\nさあ、もう帰るぞ～！\n\n# textflame 0 0\n@\n彼女の無理をした笑顔に、\nマスターは胸を苦しくさせる\n\n@\n今度は必ず正解して、\n同じことは決して繰り返さない\n\n@\nマスターは胸に手を当て、\nそう自分の心に何度も言い聞かせた…\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

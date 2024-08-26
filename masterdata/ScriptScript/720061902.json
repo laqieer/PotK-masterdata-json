@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 720061902,
+		"script": ";;-----------------------------------------\n;;コマンドPV\n# script \"lisp\"\n# background \"bg_black\"\n# bgm \"stop\"\n;;-----------------------------------------\n# textwindow \"close\"\n# frameout 0 0\n# buttonsout 0 0\n# movieplay \"command_pv\" \"skip\"\n# waitandnext 0.2"
+	}
+]

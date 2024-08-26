@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 95014198,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# se \"SE_0733\"\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n@%(unitName:unit_a)s\n………その答え\n\n# voice 5014 \"mami_0019\"\n@%(unitName:unit_a)s\n不正解よ\n\n@%(unitName:unit_a)s\n正解したら、\nご褒美にケーキを\n焼いてあげようと思ってたのに\n\n# voice 5014 \"mami_0028\"\n@%(unitName:unit_a)s\nしょうがないわね\n\n@%(unitName:unit_a)s\n寝る前のティータイムは、\n一人で楽しむことにするわ\n\n# alpha %(unit_a)s 0 0.5\n# textflame 0 0\n@\nそう言って、一人で帰っていく彼女\n\n@\nご褒美が貰えなかったことより、\n彼女を悲しませてしまったことを\n深く反省するマスターだった…\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

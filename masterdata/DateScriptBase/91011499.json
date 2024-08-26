@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 91011499,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# voice 1011 \"excalibur_0041\"\n# se \"SE_0732\"\n@エクスカリバー\nさすが我が主…\n歴史に名を刻むであろう君主！\n\n# textflame 1 1\n@エクスカリバー\nあなたの剣であることを\n誇りに思います！\n\n# voice 1011 \"excalibur_0036\"\n# textflame 1 1\n@エクスカリバー\nあなたのため、懸命に戦いましょう！\n\n# textflame 1 1\n@エクスカリバー\n片時もそばをはなれることなく\nいつまでも、ずっと…\n\n# textflame 0 0\n@\n彼女はマスターを見つめて\n信頼の笑顔を見せてくれた\n\n# textflame 0 0\n@\n特別な笑顔が見れて\n彼女との絆が\nさらに深まったのを実感した…\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

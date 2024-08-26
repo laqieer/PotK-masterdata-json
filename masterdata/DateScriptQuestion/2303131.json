@@ -1,0 +1,302 @@
+[
+	{
+		"ID": 6453,
+		"unitID": 2303131,
+		"questionID": 39303101,
+		"script": ";;槍,1\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 530311 \"cassius_ca_0002\"\n@カシウス\n空っぽの心を満たす、\n穏やかな日常…\n\n@カシウス\n不変を求めて、\n思考を巡らせ世界を巡るの\n\n# textflame 0 0\n@\n彼女特有の詩的な言い回し…\n\n@\nどういうこと？\nマスターの問いに、\n彼女は答える\n\n# voice 530311 \"cassius_ca_0001\"\n# textflame 1 1\n@カシウス\n御館様も思考を巡らせて欲しい\n\n@カシウス\nわたしの出す問い掛けに\n挑んで欲しいの\nそれじゃ、いくよ\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nわたしの武器属性は何？　\n\n# se \"SE_0734\"\n# select \"槍\" \"select_label_1\" \"銃\" \"select_label_2\" \"剣\" \"select_label_3\"\nわたしの武器属性は何？　\n"
+	},
+	{
+		"ID": 6454,
+		"unitID": 2303131,
+		"questionID": 39303102,
+		"script": ";;聖槍,1\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 530311 \"cassius_ca_0002\"\n@カシウス\n空っぽの心を満たす、\n穏やかな日常…\n\n@カシウス\n不変を求めて、\n思考を巡らせ世界を巡るの\n\n# textflame 0 0\n@\n彼女特有の詩的な言い回し…\n\n@\nどういうこと？\nマスターの問いに、\n彼女は答える\n\n# voice 530311 \"cassius_ca_0001\"\n# textflame 1 1\n@カシウス\n御館様も思考を巡らせて欲しい\n\n@カシウス\nわたしの出す問い掛けに\n挑んで欲しいの\nそれじゃ、いくよ\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nわたしのキラーズ『カシウス』は\nなんて呼ばれている？\n\n# se \"SE_0734\"\n# select \"聖槍\" \"select_label_1\" \"聖剣\" \"select_label_2\" \"聖斧\" \"select_label_3\"\nわたしのキラーズ『カシウス』は\nなんて呼ばれている？\n"
+	},
+	{
+		"ID": 6455,
+		"unitID": 2303131,
+		"questionID": 39303103,
+		"script": ";;ローマ神話群,2\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 530311 \"cassius_ca_0002\"\n@カシウス\n空っぽの心を満たす、\n穏やかな日常…\n\n@カシウス\n不変を求めて、\n思考を巡らせ世界を巡るの\n\n# textflame 0 0\n@\n彼女特有の詩的な言い回し…\n\n@\nどういうこと？\nマスターの問いに、\n彼女は答える\n\n# voice 530311 \"cassius_ca_0001\"\n# textflame 1 1\n@カシウス\n御館様も思考を巡らせて欲しい\n\n@カシウス\nわたしの出す問い掛けに\n挑んで欲しいの\nそれじゃ、いくよ\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nわたしのキラーズ『カシウス』は\nどんな伝承に残っている？\n\n# se \"SE_0734\"\n# select \"トルコ神話群\" \"select_label_1\" \"ローマ神話群\" \"select_label_2\" \"日本神話群\" \"select_label_3\"\nわたしのキラーズ『カシウス』は\nどんな伝承に残っている？\n"
+	},
+	{
+		"ID": 6456,
+		"unitID": 2303131,
+		"questionID": 39303104,
+		"script": ";;カエサル,1\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 530311 \"cassius_ca_0002\"\n@カシウス\n空っぽの心を満たす、\n穏やかな日常…\n\n@カシウス\n不変を求めて、\n思考を巡らせ世界を巡るの\n\n# textflame 0 0\n@\n彼女特有の詩的な言い回し…\n\n@\nどういうこと？\nマスターの問いに、\n彼女は答える\n\n# voice 530311 \"cassius_ca_0001\"\n# textflame 1 1\n@カシウス\n御館様も思考を巡らせて欲しい\n\n@カシウス\nわたしの出す問い掛けに\n挑んで欲しいの\nそれじゃ、いくよ\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nわたしのキラーズ『カシウス』は\n誰を暗殺したと言われてる？\n\n# se \"SE_0734\"\n# select \"カエサル\" \"select_label_1\" \"カブリエル\" \"select_label_2\" \"ジャスティン\" \"select_label_3\"\nわたしのキラーズ『カシウス』は\n誰を暗殺したと言われてる？\n"
+	},
+	{
+		"ID": 6457,
+		"unitID": 2303131,
+		"questionID": 39303105,
+		"script": ";;ウロボロス,1\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 530311 \"cassius_ca_0002\"\n@カシウス\n空っぽの心を満たす、\n穏やかな日常…\n\n@カシウス\n不変を求めて、\n思考を巡らせ世界を巡るの\n\n# textflame 0 0\n@\n彼女特有の詩的な言い回し…\n\n@\nどういうこと？\nマスターの問いに、\n彼女は答える\n\n# voice 530311 \"cassius_ca_0001\"\n# textflame 1 1\n@カシウス\n御館様も思考を巡らせて欲しい\n\n@カシウス\nわたしの出す問い掛けに\n挑んで欲しいの\nそれじゃ、いくよ\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nわたしと誓約している幻獣は何？\n\n# se \"SE_0734\"\n# select \"ウロボロス\" \"select_label_1\" \"バルデウス\" \"select_label_2\" \"バハムート\" \"select_label_3\"\nわたしと誓約している幻獣は何？\n"
+	},
+	{
+		"ID": 6458,
+		"unitID": 2303131,
+		"questionID": 39303106,
+		"script": ";;蛇,2\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 530311 \"cassius_ca_0002\"\n@カシウス\n空っぽの心を満たす、\n穏やかな日常…\n\n@カシウス\n不変を求めて、\n思考を巡らせ世界を巡るの\n\n# textflame 0 0\n@\n彼女特有の詩的な言い回し…\n\n@\nどういうこと？\nマスターの問いに、\n彼女は答える\n\n# voice 530311 \"cassius_ca_0001\"\n# textflame 1 1\n@カシウス\n御館様も思考を巡らせて欲しい\n\n@カシウス\nわたしの出す問い掛けに\n挑んで欲しいの\nそれじゃ、いくよ\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nわたしと誓約しているウロボロスは\nどんな生きもの？\n\n# se \"SE_0734\"\n# select \"カエル\" \"select_label_1\" \"蛇\" \"select_label_2\" \"リス\" \"select_label_3\"\nわたしと誓約しているウロボロスは\nどんな生きもの？\n"
+	},
+	{
+		"ID": 6459,
+		"unitID": 2303131,
+		"questionID": 39303107,
+		"script": ";;尾を飲み込む蛇,3\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 530311 \"cassius_ca_0002\"\n@カシウス\n空っぽの心を満たす、\n穏やかな日常…\n\n@カシウス\n不変を求めて、\n思考を巡らせ世界を巡るの\n\n# textflame 0 0\n@\n彼女特有の詩的な言い回し…\n\n@\nどういうこと？\nマスターの問いに、\n彼女は答える\n\n# voice 530311 \"cassius_ca_0001\"\n# textflame 1 1\n@カシウス\n御館様も思考を巡らせて欲しい\n\n@カシウス\nわたしの出す問い掛けに\n挑んで欲しいの\nそれじゃ、いくよ\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nわたしと誓約しているウロボロスは\nどんな蛇？\n\n# se \"SE_0734\"\n# select \"とぐろを巻く蛇\" \"select_label_1\" \"蛙に睨まれた蛇\" \"select_label_2\" \"尾を飲み込む蛇\" \"select_label_3\"\nわたしと誓約しているウロボロスは\nどんな蛇？\n"
+	},
+	{
+		"ID": 6460,
+		"unitID": 2303131,
+		"questionID": 39303108,
+		"script": ";;政治家,3\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 530311 \"cassius_ca_0002\"\n@カシウス\n空っぽの心を満たす、\n穏やかな日常…\n\n@カシウス\n不変を求めて、\n思考を巡らせ世界を巡るの\n\n# textflame 0 0\n@\n彼女特有の詩的な言い回し…\n\n@\nどういうこと？\nマスターの問いに、\n彼女は答える\n\n# voice 530311 \"cassius_ca_0001\"\n# textflame 1 1\n@カシウス\n御館様も思考を巡らせて欲しい\n\n@カシウス\nわたしの出す問い掛けに\n挑んで欲しいの\nそれじゃ、いくよ\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nわたしのキラーズ『カシウス』が\n暗殺したカエサルの職業は？\n\n# se \"SE_0734\"\n# select \"大工\" \"select_label_1\" \"クレープ屋さん\" \"select_label_2\" \"政治家\" \"select_label_3\"\nわたしのキラーズ『カシウス』が\n暗殺したカエサルの職業は？\n"
+	},
+	{
+		"ID": 6461,
+		"unitID": 2303131,
+		"questionID": 39303109,
+		"script": ";;死と再生,2\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 530311 \"cassius_ca_0002\"\n@カシウス\n空っぽの心を満たす、\n穏やかな日常…\n\n@カシウス\n不変を求めて、\n思考を巡らせ世界を巡るの\n\n# textflame 0 0\n@\n彼女特有の詩的な言い回し…\n\n@\nどういうこと？\nマスターの問いに、\n彼女は答える\n\n# voice 530311 \"cassius_ca_0001\"\n# textflame 1 1\n@カシウス\n御館様も思考を巡らせて欲しい\n\n@カシウス\nわたしの出す問い掛けに\n挑んで欲しいの\nそれじゃ、いくよ\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nわたしと誓約しているウロボロスは\n何の象徴？\n\n# se \"SE_0734\"\n# select \"愛と勇気\" \"select_label_1\" \"死と再生\" \"select_label_2\" \"夢と希望\" \"select_label_3\"\nわたしと誓約しているウロボロスは\n何の象徴？\n"
+	},
+	{
+		"ID": 6462,
+		"unitID": 2303131,
+		"questionID": 39303110,
+		"script": ";;コール,3\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 530311 \"cassius_ca_0002\"\n@カシウス\n空っぽの心を満たす、\n穏やかな日常…\n\n@カシウス\n不変を求めて、\n思考を巡らせ世界を巡るの\n\n# textflame 0 0\n@\n彼女特有の詩的な言い回し…\n\n@\nどういうこと？\nマスターの問いに、\n彼女は答える\n\n# voice 530311 \"cassius_ca_0001\"\n# textflame 1 1\n@カシウス\n御館様も思考を巡らせて欲しい\n\n@カシウス\nわたしの出す問い掛けに\n挑んで欲しいの\nそれじゃ、いくよ\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nわたしはカシウス・誓約・ウロボロス。\n『誓約』と書いて何と読む？\n\n# se \"SE_0734\"\n# select \"ボール\" \"select_label_1\" \"ファール\" \"select_label_2\" \"コール\" \"select_label_3\"\nわたしはカシウス・誓約・ウロボロス。\n『誓約』と書いて何と読む？\n"
+	},
+	{
+		"ID": 6463,
+		"unitID": 2303131,
+		"questionID": 39303111,
+		"script": ";;雷,3\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 530311 \"cassius_ca_0002\"\n@カシウス\n…日没までには\nまだ時間があるわ\n\n# textflame 0 0\n@\n真っ赤な夕焼けを見つめながら、\n彼女が呟く\n\n# voice 530311 \"cassius_ca_0001\"\n# textflame 1 1\n@カシウス\n太陽が沈むまでの間…\n\n@カシウス\nわたしと一緒に\nお話でもどうかしら？\n\n@カシウス\nわたしのこと、\nもっと、たくさん知ってほしいの\n\n@カシウス\n…そうだ\n\n@カシウス\nどれくらい、\nわたしのことを\n知っているのか…\n\n@カシウス\n教えてくれる？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nわたしの属性は知っている？\n\n# se \"SE_0734\"\n# select \"炎\" \"select_label_1\" \"風\" \"select_label_2\" \"雷\" \"select_label_3\"\nわたしの属性は知っている？\n"
+	},
+	{
+		"ID": 6464,
+		"unitID": 2303131,
+		"questionID": 39303112,
+		"script": ";;163cm ,3\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 530311 \"cassius_ca_0002\"\n@カシウス\n…日没までには\nまだ時間があるわ\n\n# textflame 0 0\n@\n真っ赤な夕焼けを見つめながら、\n彼女が呟く\n\n# voice 530311 \"cassius_ca_0001\"\n# textflame 1 1\n@カシウス\n太陽が沈むまでの間…\n\n@カシウス\nわたしと一緒に\nお話でもどうかしら？\n\n@カシウス\nわたしのこと、\nもっと、たくさん知ってほしいの\n\n@カシウス\n…そうだ\n\n@カシウス\nどれくらい、\nわたしのことを\n知っているのか…\n\n@カシウス\n教えてくれる？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nわたしの身長は何センチ？\n\n# se \"SE_0734\"\n# select \"167cm\" \"select_label_1\" \"169cm\" \"select_label_2\" \"163cm \" \"select_label_3\"\nわたしの身長は何センチ？\n"
+	},
+	{
+		"ID": 6465,
+		"unitID": 2303131,
+		"questionID": 39303113,
+		"script": ";;3月15日,3\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 530311 \"cassius_ca_0002\"\n@カシウス\n…日没までには\nまだ時間があるわ\n\n# textflame 0 0\n@\n真っ赤な夕焼けを見つめながら、\n彼女が呟く\n\n# voice 530311 \"cassius_ca_0001\"\n# textflame 1 1\n@カシウス\n太陽が沈むまでの間…\n\n@カシウス\nわたしと一緒に\nお話でもどうかしら？\n\n@カシウス\nわたしのこと、\nもっと、たくさん知ってほしいの\n\n@カシウス\n…そうだ\n\n@カシウス\nどれくらい、\nわたしのことを\n知っているのか…\n\n@カシウス\n教えてくれる？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nわたしの誕生日はいつ？\n\n# se \"SE_0734\"\n# select \"4月15日\" \"select_label_1\" \"5月15日\" \"select_label_2\" \"3月15日\" \"select_label_3\"\nわたしの誕生日はいつ？\n"
+	},
+	{
+		"ID": 6466,
+		"unitID": 2303131,
+		"questionID": 39303114,
+		"script": ";;うお座,2\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 530311 \"cassius_ca_0002\"\n@カシウス\n…日没までには\nまだ時間があるわ\n\n# textflame 0 0\n@\n真っ赤な夕焼けを見つめながら、\n彼女が呟く\n\n# voice 530311 \"cassius_ca_0001\"\n# textflame 1 1\n@カシウス\n太陽が沈むまでの間…\n\n@カシウス\nわたしと一緒に\nお話でもどうかしら？\n\n@カシウス\nわたしのこと、\nもっと、たくさん知ってほしいの\n\n@カシウス\n…そうだ\n\n@カシウス\nどれくらい、\nわたしのことを\n知っているのか…\n\n@カシウス\n教えてくれる？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nわたしの星座は？\n\n# se \"SE_0734\"\n# select \"いて座\" \"select_label_1\" \"うお座\" \"select_label_2\" \"やぎ座\" \"select_label_3\"\nわたしの星座は？\n"
+	},
+	{
+		"ID": 6467,
+		"unitID": 2303131,
+		"questionID": 39303115,
+		"script": ";;知恵の輪,1\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 530311 \"cassius_ca_0002\"\n@カシウス\n…日没までには\nまだ時間があるわ\n\n# textflame 0 0\n@\n真っ赤な夕焼けを見つめながら、\n彼女が呟く\n\n# voice 530311 \"cassius_ca_0001\"\n# textflame 1 1\n@カシウス\n太陽が沈むまでの間…\n\n@カシウス\nわたしと一緒に\nお話でもどうかしら？\n\n@カシウス\nわたしのこと、\nもっと、たくさん知ってほしいの\n\n@カシウス\n…そうだ\n\n@カシウス\nどれくらい、\nわたしのことを\n知っているのか…\n\n@カシウス\n教えてくれる？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nわたしの好きなものは…？\n\n# se \"SE_0734\"\n# select \"知恵の輪\" \"select_label_1\" \"将棋\" \"select_label_2\" \"チェス\" \"select_label_3\"\nわたしの好きなものは…？\n"
+	},
+	{
+		"ID": 6468,
+		"unitID": 2303131,
+		"questionID": 39303116,
+		"script": ";;丸いもの,2\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 530311 \"cassius_ca_0002\"\n@カシウス\n…日没までには\nまだ時間があるわ\n\n# textflame 0 0\n@\n真っ赤な夕焼けを見つめながら、\n彼女が呟く\n\n# voice 530311 \"cassius_ca_0001\"\n# textflame 1 1\n@カシウス\n太陽が沈むまでの間…\n\n@カシウス\nわたしと一緒に\nお話でもどうかしら？\n\n@カシウス\nわたしのこと、\nもっと、たくさん知ってほしいの\n\n@カシウス\n…そうだ\n\n@カシウス\nどれくらい、\nわたしのことを\n知っているのか…\n\n@カシウス\n教えてくれる？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nわたしの好きなものは…？\n\n# se \"SE_0734\"\n# select \"四角いもの\" \"select_label_1\" \"丸いもの\" \"select_label_2\" \"三角なもの\" \"select_label_3\"\nわたしの好きなものは…？\n"
+	},
+	{
+		"ID": 6469,
+		"unitID": 2303131,
+		"questionID": 39303117,
+		"script": ";;Ｏ型,2\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 530311 \"cassius_ca_0002\"\n@カシウス\n…日没までには\nまだ時間があるわ\n\n# textflame 0 0\n@\n真っ赤な夕焼けを見つめながら、\n彼女が呟く\n\n# voice 530311 \"cassius_ca_0001\"\n# textflame 1 1\n@カシウス\n太陽が沈むまでの間…\n\n@カシウス\nわたしと一緒に\nお話でもどうかしら？\n\n@カシウス\nわたしのこと、\nもっと、たくさん知ってほしいの\n\n@カシウス\n…そうだ\n\n@カシウス\nどれくらい、\nわたしのことを\n知っているのか…\n\n@カシウス\n教えてくれる？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nわたしの血液型は？　\n\n# se \"SE_0734\"\n# select \"ＡＢ型\" \"select_label_1\" \"Ｏ型\" \"select_label_2\" \"Ｂ型\" \"select_label_3\"\nわたしの血液型は？　\n"
+	},
+	{
+		"ID": 6470,
+		"unitID": 2303131,
+		"questionID": 39303118,
+		"script": ";;ローマ,3\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 530311 \"cassius_ca_0002\"\n@カシウス\n…日没までには\nまだ時間があるわ\n\n# textflame 0 0\n@\n真っ赤な夕焼けを見つめながら、\n彼女が呟く\n\n# voice 530311 \"cassius_ca_0001\"\n# textflame 1 1\n@カシウス\n太陽が沈むまでの間…\n\n@カシウス\nわたしと一緒に\nお話でもどうかしら？\n\n@カシウス\nわたしのこと、\nもっと、たくさん知ってほしいの\n\n@カシウス\n…そうだ\n\n@カシウス\nどれくらい、\nわたしのことを\n知っているのか…\n\n@カシウス\n教えてくれる？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nわたしの出身地は…？\n\n# se \"SE_0734\"\n# select \"ギリシャ\" \"select_label_1\" \"インド\" \"select_label_2\" \"ローマ\" \"select_label_3\"\nわたしの出身地は…？\n"
+	},
+	{
+		"ID": 6471,
+		"unitID": 2303131,
+		"questionID": 39303119,
+		"script": ";;凝った料理,2\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 530311 \"cassius_ca_0002\"\n@カシウス\n…日没までには\nまだ時間があるわ\n\n# textflame 0 0\n@\n真っ赤な夕焼けを見つめながら、\n彼女が呟く\n\n# voice 530311 \"cassius_ca_0001\"\n# textflame 1 1\n@カシウス\n太陽が沈むまでの間…\n\n@カシウス\nわたしと一緒に\nお話でもどうかしら？\n\n@カシウス\nわたしのこと、\nもっと、たくさん知ってほしいの\n\n@カシウス\n…そうだ\n\n@カシウス\nどれくらい、\nわたしのことを\n知っているのか…\n\n@カシウス\n教えてくれる？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nわたしの趣味は…？\n\n# se \"SE_0734\"\n# select \"カンタン料理\" \"select_label_1\" \"凝った料理\" \"select_label_2\" \"時短料理\" \"select_label_3\"\nわたしの趣味は…？\n"
+	},
+	{
+		"ID": 6472,
+		"unitID": 2303131,
+		"questionID": 39303120,
+		"script": ";;人間や自然の観察,2\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 530311 \"cassius_ca_0002\"\n@カシウス\n…日没までには\nまだ時間があるわ\n\n# textflame 0 0\n@\n真っ赤な夕焼けを見つめながら、\n彼女が呟く\n\n# voice 530311 \"cassius_ca_0001\"\n# textflame 1 1\n@カシウス\n太陽が沈むまでの間…\n\n@カシウス\nわたしと一緒に\nお話でもどうかしら？\n\n@カシウス\nわたしのこと、\nもっと、たくさん知ってほしいの\n\n@カシウス\n…そうだ\n\n@カシウス\nどれくらい、\nわたしのことを\n知っているのか…\n\n@カシウス\n教えてくれる？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nわたしの趣味は…？\n\n# se \"SE_0734\"\n# select \"工場見学\" \"select_label_1\" \"人間や自然の観察\" \"select_label_2\" \"陶芸\" \"select_label_3\"\nわたしの趣味は…？\n"
+	},
+	{
+		"ID": 6473,
+		"unitID": 2303131,
+		"questionID": 39303121,
+		"script": ";;獣牙惨翼,3\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 530311 \"cassius_ca_0002\"\n@カシウス\n賑やかだった夏が\n終わろうとしている…\n\n@カシウス\n夏の静寂は、\n時に寂しくもあるけれど、\n今は平気\n\n@カシウス\n御館様が隣にいるから…\n\n@カシウス\nでも、これは…\nひと夏の幻想……？\n\n@カシウス\nわたしが欲しいのは、\n確固たる心……\n\n@カシウス\nわたしの出す問いの\n正解を導き出して…\nそれを証明して欲しい\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nわたしの覚えるスキルは…？\n\n# se \"SE_0734\"\n# select \"銃牙惨翼\" \"select_label_1\" \"十牙惨翼\" \"select_label_2\" \"獣牙惨翼\" \"select_label_3\"\nわたしの覚えるスキルは…？\n"
+	},
+	{
+		"ID": 6474,
+		"unitID": 2303131,
+		"questionID": 39303122,
+		"script": ";;誓宣『紡がれし思想』,1\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 530311 \"cassius_ca_0002\"\n@カシウス\n賑やかだった夏が\n終わろうとしている…\n\n@カシウス\n夏の静寂は、\n時に寂しくもあるけれど、\n今は平気\n\n@カシウス\n御館様が隣にいるから…\n\n@カシウス\nでも、これは…\nひと夏の幻想……？\n\n@カシウス\nわたしが欲しいのは、\n確固たる心……\n\n@カシウス\nわたしの出す問いの\n正解を導き出して…\nそれを証明して欲しい\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nわたしの解放スキルは…？\n\n# se \"SE_0734\"\n# select \"誓宣『紡がれし思想』\" \"select_label_1\" \"誓宣『紡がれし運命』\" \"select_label_2\" \"誓宣『紡がれし思い』\" \"select_label_3\"\nわたしの解放スキルは…？\n"
+	},
+	{
+		"ID": 6475,
+		"unitID": 2303131,
+		"questionID": 39303123,
+		"script": ";;雷蛇神の展望,1\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 530311 \"cassius_ca_0002\"\n@カシウス\n賑やかだった夏が\n終わろうとしている…\n\n@カシウス\n夏の静寂は、\n時に寂しくもあるけれど、\n今は平気\n\n@カシウス\n御館様が隣にいるから…\n\n@カシウス\nでも、これは…\nひと夏の幻想……？\n\n@カシウス\nわたしが欲しいのは、\n確固たる心……\n\n@カシウス\nわたしの出す問いの\n正解を導き出して…\nそれを証明して欲しい\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nわたしの☆６のリーダースキルは…？\n\n# se \"SE_0734\"\n# select \"雷蛇神の展望\" \"select_label_1\" \"雷駄神の展望\" \"select_label_2\" \"雷馬神の展望\" \"select_label_3\"\nわたしの☆６のリーダースキルは…？\n"
+	},
+	{
+		"ID": 6476,
+		"unitID": 2303131,
+		"questionID": 39303124,
+		"script": ";;輪廻の理,2\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 530311 \"cassius_ca_0002\"\n@カシウス\n賑やかだった夏が\n終わろうとしている…\n\n@カシウス\n夏の静寂は、\n時に寂しくもあるけれど、\n今は平気\n\n@カシウス\n御館様が隣にいるから…\n\n@カシウス\nでも、これは…\nひと夏の幻想……？\n\n@カシウス\nわたしが欲しいのは、\n確固たる心……\n\n@カシウス\nわたしの出す問いの\n正解を導き出して…\nそれを証明して欲しい\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nわたしが覚える付与スキルは…？\n\n# se \"SE_0734\"\n# select \"輪廻の言霊\" \"select_label_1\" \"輪廻の理\" \"select_label_2\" \"輪廻の拘り\" \"select_label_3\"\nわたしが覚える付与スキルは…？\n"
+	},
+	{
+		"ID": 6477,
+		"unitID": 2303131,
+		"questionID": 39303125,
+		"script": ";;ピース・オブ・エターニティ,2\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 530311 \"cassius_ca_0002\"\n@カシウス\n賑やかだった夏が\n終わろうとしている…\n\n@カシウス\n夏の静寂は、\n時に寂しくもあるけれど、\n今は平気\n\n@カシウス\n御館様が隣にいるから…\n\n@カシウス\nでも、これは…\nひと夏の幻想……？\n\n@カシウス\nわたしが欲しいのは、\n確固たる心……\n\n@カシウス\nわたしの出す問いの\n正解を導き出して…\nそれを証明して欲しい\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nわたしが覚えるコマンドスキルは…？\n\n# se \"SE_0734\"\n# select \"ピース・オブ・デッド\" \"select_label_1\" \"ピース・オブ・エターニティ\" \"select_label_2\" \"ピース・オブ・ラブ\" \"select_label_3\"\nわたしが覚えるコマンドスキルは…？\n"
+	},
+	{
+		"ID": 6478,
+		"unitID": 2303131,
+		"questionID": 39303126,
+		"script": ";;久遠への契り,1\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 530311 \"cassius_ca_0002\"\n@カシウス\n賑やかだった夏が\n終わろうとしている…\n\n@カシウス\n夏の静寂は、\n時に寂しくもあるけれど、\n今は平気\n\n@カシウス\n御館様が隣にいるから…\n\n@カシウス\nでも、これは…\nひと夏の幻想……？\n\n@カシウス\nわたしが欲しいのは、\n確固たる心……\n\n@カシウス\nわたしの出す問いの\n正解を導き出して…\nそれを証明して欲しい\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nわたしが覚える付与スキルは…？\n\n# se \"SE_0734\"\n# select \"久遠への契り\" \"select_label_1\" \"久遠への祷り\" \"select_label_2\" \"久遠への居残り\" \"select_label_3\"\nわたしが覚える付与スキルは…？\n"
+	},
+	{
+		"ID": 6479,
+		"unitID": 2303131,
+		"questionID": 39303127,
+		"script": ";;誓約されし輪廻の雷槍,3\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 530311 \"cassius_ca_0002\"\n@カシウス\n賑やかだった夏が\n終わろうとしている…\n\n@カシウス\n夏の静寂は、\n時に寂しくもあるけれど、\n今は平気\n\n@カシウス\n御館様が隣にいるから…\n\n@カシウス\nでも、これは…\nひと夏の幻想……？\n\n@カシウス\nわたしが欲しいのは、\n確固たる心……\n\n@カシウス\nわたしの出す問いの\n正解を導き出して…\nそれを証明して欲しい\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nわたしの覚えるデュエルスキルは…？\n\n# se \"SE_0734\"\n# select \"製薬されし輪廻の雷槍\" \"select_label_1\" \"未来を見通す口\" \"select_label_2\" \"誓約されし輪廻の雷槍\" \"select_label_3\"\nわたしの覚えるデュエルスキルは…？\n"
+	},
+	{
+		"ID": 6480,
+		"unitID": 2303131,
+		"questionID": 39303128,
+		"script": ";;蛇神の支配,3\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 530311 \"cassius_ca_0002\"\n@カシウス\n賑やかだった夏が\n終わろうとしている…\n\n@カシウス\n夏の静寂は、\n時に寂しくもあるけれど、\n今は平気\n\n@カシウス\n御館様が隣にいるから…\n\n@カシウス\nでも、これは…\nひと夏の幻想……？\n\n@カシウス\nわたしが欲しいのは、\n確固たる心……\n\n@カシウス\nわたしの出す問いの\n正解を導き出して…\nそれを証明して欲しい\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nわたしの覚えるスキルは…？\n\n# se \"SE_0734\"\n# select \"邪心の支配\" \"select_label_1\" \"写真の支配\" \"select_label_2\" \"蛇神の支配\" \"select_label_3\"\nわたしの覚えるスキルは…？\n"
+	},
+	{
+		"ID": 6481,
+		"unitID": 2303131,
+		"questionID": 39303129,
+		"script": ";;蛇神の達観,2\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 530311 \"cassius_ca_0002\"\n@カシウス\n賑やかだった夏が\n終わろうとしている…\n\n@カシウス\n夏の静寂は、\n時に寂しくもあるけれど、\n今は平気\n\n@カシウス\n御館様が隣にいるから…\n\n@カシウス\nでも、これは…\nひと夏の幻想……？\n\n@カシウス\nわたしが欲しいのは、\n確固たる心……\n\n@カシウス\nわたしの出す問いの\n正解を導き出して…\nそれを証明して欲しい\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nわたしの覚えるスキルは…？\n\n# se \"SE_0734\"\n# select \"蛇神のたっつぁん\" \"select_label_1\" \"蛇神の達観\" \"select_label_2\" \"蛇神の達人\" \"select_label_3\"\nわたしの覚えるスキルは…？\n"
+	},
+	{
+		"ID": 6482,
+		"unitID": 2303131,
+		"questionID": 39303130,
+		"script": ";;ウロボロスの再生,3\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 530311 \"cassius_ca_0002\"\n@カシウス\n賑やかだった夏が\n終わろうとしている…\n\n@カシウス\n夏の静寂は、\n時に寂しくもあるけれど、\n今は平気\n\n@カシウス\n御館様が隣にいるから…\n\n@カシウス\nでも、これは…\nひと夏の幻想……？\n\n@カシウス\nわたしが欲しいのは、\n確固たる心……\n\n@カシウス\nわたしの出す問いの\n正解を導き出して…\nそれを証明して欲しい\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nわたしが覚える付替えスキルは…？\n\n# se \"SE_0734\"\n# select \"ウロボロスの再会\" \"select_label_1\" \"ウロボロスの耐性\" \"select_label_2\" \"ウロボロスの再生\" \"select_label_3\"\nわたしが覚える付替えスキルは…？\n"
+	},
+	{
+		"ID": 6483,
+		"unitID": 2303131,
+		"questionID": 39303131,
+		"script": ";;不変,2\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 530311 \"cassius_ca_0002\"\n@カシウス\nずっと、空っぽだったの\n\n@カシウス\n考えても、見つからなくて\n\n# textflame 0 0\n@\nどうしたの？\nマスターの問いに、彼女は答える\n\n# voice 530311 \"cassius_ca_0001\"\n# textflame 1 1\n@カシウス\nわたしの心を満たして欲しい\n\n@カシウス\nわたしをずっと見てくれていた\n御館様なら、あるいは…\n\n# textflame 0 0\n@\n希望の目で見つめてくる彼女\n\n@\nマスターはなんとしても\n正解を導き出したいと思う\n\n# textflame 1 1\n@カシウス\n私からの問いに応えてみせて\n…準備はいい？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nわたしは何を求めて\n思考を巡らせ世界を巡る？\n\n# se \"SE_0734\"\n# select \"不便\" \"select_label_1\" \"不変\" \"select_label_2\" \"不退転\" \"select_label_3\"\nわたしは何を求めて\n思考を巡らせ世界を巡る？\n"
+	},
+	{
+		"ID": 6484,
+		"unitID": 2303131,
+		"questionID": 39303132,
+		"script": ";;March,1\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 530311 \"cassius_ca_0002\"\n@カシウス\nずっと、空っぽだったの\n\n@カシウス\n考えても、見つからなくて\n\n# textflame 0 0\n@\nどうしたの？\nマスターの問いに、彼女は答える\n\n# voice 530311 \"cassius_ca_0001\"\n# textflame 1 1\n@カシウス\nわたしの心を満たして欲しい\n\n@カシウス\nわたしをずっと見てくれていた\n御館様なら、あるいは…\n\n# textflame 0 0\n@\n希望の目で見つめてくる彼女\n\n@\nマスターはなんとしても\n正解を導き出したいと思う\n\n# textflame 1 1\n@カシウス\n私からの問いに応えてみせて\n…準備はいい？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nわたしの誕生月を英語で？\n\n# se \"SE_0734\"\n# select \"March\" \"select_label_1\" \"January\" \"select_label_2\" \"May\" \"select_label_3\"\nわたしの誕生月を英語で？\n"
+	},
+	{
+		"ID": 6485,
+		"unitID": 2303131,
+		"questionID": 39303133,
+		"script": ";;帝政ローマ,3\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 530311 \"cassius_ca_0002\"\n@カシウス\nずっと、空っぽだったの\n\n@カシウス\n考えても、見つからなくて\n\n# textflame 0 0\n@\nどうしたの？\nマスターの問いに、彼女は答える\n\n# voice 530311 \"cassius_ca_0001\"\n# textflame 1 1\n@カシウス\nわたしの心を満たして欲しい\n\n@カシウス\nわたしをずっと見てくれていた\n御館様なら、あるいは…\n\n# textflame 0 0\n@\n希望の目で見つめてくる彼女\n\n@\nマスターはなんとしても\n正解を導き出したいと思う\n\n# textflame 1 1\n@カシウス\n私からの問いに応えてみせて\n…準備はいい？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nわたしのキラーズと同名のカシウスが\nカエサルを暗殺した後、何が生まれた？\n\n# se \"SE_0734\"\n# select \"秦国\" \"select_label_1\" \"エジプト\" \"select_label_2\" \"帝政ローマ\" \"select_label_3\"\nわたしのキラーズと同名のカシウスが\nカエサルを暗殺した後、何が生まれた？\n"
+	},
+	{
+		"ID": 6486,
+		"unitID": 2303131,
+		"questionID": 39303134,
+		"script": ";;グリダヴォル,1\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 530311 \"cassius_ca_0002\"\n@カシウス\nずっと、空っぽだったの\n\n@カシウス\n考えても、見つからなくて\n\n# textflame 0 0\n@\nどうしたの？\nマスターの問いに、彼女は答える\n\n# voice 530311 \"cassius_ca_0001\"\n# textflame 1 1\n@カシウス\nわたしの心を満たして欲しい\n\n@カシウス\nわたしをずっと見てくれていた\n御館様なら、あるいは…\n\n# textflame 0 0\n@\n希望の目で見つめてくる彼女\n\n@\nマスターはなんとしても\n正解を導き出したいと思う\n\n# textflame 1 1\n@カシウス\n私からの問いに応えてみせて\n…準備はいい？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nわたしと誕生月が同じなのは…？\n\n# se \"SE_0734\"\n# select \"グリダヴォル\" \"select_label_1\" \"アスカロン\" \"select_label_2\" \"シタ\" \"select_label_3\"\nわたしと誕生月が同じなのは…？\n"
+	},
+	{
+		"ID": 6487,
+		"unitID": 2303131,
+		"questionID": 39303135,
+		"script": ";;Pisces,1\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 530311 \"cassius_ca_0002\"\n@カシウス\nずっと、空っぽだったの\n\n@カシウス\n考えても、見つからなくて\n\n# textflame 0 0\n@\nどうしたの？\nマスターの問いに、彼女は答える\n\n# voice 530311 \"cassius_ca_0001\"\n# textflame 1 1\n@カシウス\nわたしの心を満たして欲しい\n\n@カシウス\nわたしをずっと見てくれていた\n御館様なら、あるいは…\n\n# textflame 0 0\n@\n希望の目で見つめてくる彼女\n\n@\nマスターはなんとしても\n正解を導き出したいと思う\n\n# textflame 1 1\n@カシウス\n私からの問いに応えてみせて\n…準備はいい？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nわたしの星座は英語で？\n\n# se \"SE_0734\"\n# select \"Pisces\" \"select_label_1\" \"Capricorn\" \"select_label_2\" \"Aquarius\" \"select_label_3\"\nわたしの星座は英語で？\n"
+	},
+	{
+		"ID": 6488,
+		"unitID": 2303131,
+		"questionID": 39303136,
+		"script": ";;不思議ちゃん,2\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 530311 \"cassius_ca_0002\"\n@カシウス\nずっと、空っぽだったの\n\n@カシウス\n考えても、見つからなくて\n\n# textflame 0 0\n@\nどうしたの？\nマスターの問いに、彼女は答える\n\n# voice 530311 \"cassius_ca_0001\"\n# textflame 1 1\n@カシウス\nわたしの心を満たして欲しい\n\n@カシウス\nわたしをずっと見てくれていた\n御館様なら、あるいは…\n\n# textflame 0 0\n@\n希望の目で見つめてくる彼女\n\n@\nマスターはなんとしても\n正解を導き出したいと思う\n\n# textflame 1 1\n@カシウス\n私からの問いに応えてみせて\n…準備はいい？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nわたしは周りから\nこう思われた事もあったみたい…\n\n# se \"SE_0734\"\n# select \"不気味ちゃん\" \"select_label_1\" \"不思議ちゃん\" \"select_label_2\" \"麩菓子ちゃん\" \"select_label_3\"\nわたしは周りから\nこう思われた事もあったみたい…\n"
+	},
+	{
+		"ID": 6489,
+		"unitID": 2303131,
+		"questionID": 39303137,
+		"script": ";;リサナウト,1\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 530311 \"cassius_ca_0002\"\n@カシウス\nずっと、空っぽだったの\n\n@カシウス\n考えても、見つからなくて\n\n# textflame 0 0\n@\nどうしたの？\nマスターの問いに、彼女は答える\n\n# voice 530311 \"cassius_ca_0001\"\n# textflame 1 1\n@カシウス\nわたしの心を満たして欲しい\n\n@カシウス\nわたしをずっと見てくれていた\n御館様なら、あるいは…\n\n# textflame 0 0\n@\n希望の目で見つめてくる彼女\n\n@\nマスターはなんとしても\n正解を導き出したいと思う\n\n# textflame 1 1\n@カシウス\n私からの問いに応えてみせて\n…準備はいい？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nわたしは争いをなくすため、\n彼女の考えに賛同したわ…\n\n# se \"SE_0734\"\n# select \"リサナウト\" \"select_label_1\" \"アンモナイト\" \"select_label_2\" \"スリーアウト\" \"select_label_3\"\nわたしは争いをなくすため、\n彼女の考えに賛同したわ…\n"
+	},
+	{
+		"ID": 6490,
+		"unitID": 2303131,
+		"questionID": 39303138,
+		"script": ";;フライクーゲル,2\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 530311 \"cassius_ca_0002\"\n@カシウス\nずっと、空っぽだったの\n\n@カシウス\n考えても、見つからなくて\n\n# textflame 0 0\n@\nどうしたの？\nマスターの問いに、彼女は答える\n\n# voice 530311 \"cassius_ca_0001\"\n# textflame 1 1\n@カシウス\nわたしの心を満たして欲しい\n\n@カシウス\nわたしをずっと見てくれていた\n御館様なら、あるいは…\n\n# textflame 0 0\n@\n希望の目で見つめてくる彼女\n\n@\nマスターはなんとしても\n正解を導き出したいと思う\n\n# textflame 1 1\n@カシウス\n私からの問いに応えてみせて\n…準備はいい？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nわたしと同じ血液型なのは誰？\n\n# se \"SE_0734\"\n# select \"ルーン\" \"select_label_1\" \"フライクーゲル\" \"select_label_2\" \"ロンゴミアント\" \"select_label_3\"\nわたしと同じ血液型なのは誰？\n"
+	},
+	{
+		"ID": 6491,
+		"unitID": 2303131,
+		"questionID": 39303139,
+		"script": ";;パラシュ,1\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 530311 \"cassius_ca_0002\"\n@カシウス\nずっと、空っぽだったの\n\n@カシウス\n考えても、見つからなくて\n\n# textflame 0 0\n@\nどうしたの？\nマスターの問いに、彼女は答える\n\n# voice 530311 \"cassius_ca_0001\"\n# textflame 1 1\n@カシウス\nわたしの心を満たして欲しい\n\n@カシウス\nわたしをずっと見てくれていた\n御館様なら、あるいは…\n\n# textflame 0 0\n@\n希望の目で見つめてくる彼女\n\n@\nマスターはなんとしても\n正解を導き出したいと思う\n\n# textflame 1 1\n@カシウス\n私からの問いに応えてみせて\n…準備はいい？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nわたしと違う血液型なのは誰？\n\n# se \"SE_0734\"\n# select \"パラシュ\" \"select_label_1\" \"フライクーゲル\" \"select_label_2\" \"テュルソス\" \"select_label_3\"\nわたしと違う血液型なのは誰？\n"
+	},
+	{
+		"ID": 6492,
+		"unitID": 2303131,
+		"questionID": 39303140,
+		"script": ";;久遠,2\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 530311 \"cassius_ca_0002\"\n@カシウス\nずっと、空っぽだったの\n\n@カシウス\n考えても、見つからなくて\n\n# textflame 0 0\n@\nどうしたの？\nマスターの問いに、彼女は答える\n\n# voice 530311 \"cassius_ca_0001\"\n# textflame 1 1\n@カシウス\nわたしの心を満たして欲しい\n\n@カシウス\nわたしをずっと見てくれていた\n御館様なら、あるいは…\n\n# textflame 0 0\n@\n希望の目で見つめてくる彼女\n\n@\nマスターはなんとしても\n正解を導き出したいと思う\n\n# textflame 1 1\n@カシウス\n私からの問いに応えてみせて\n…準備はいい？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nわたしの口癖は…？\n\n# se \"SE_0734\"\n# select \"カモン\" \"select_label_1\" \"久遠\" \"select_label_2\" \"苦悩\" \"select_label_3\"\nわたしの口癖は…？\n"
+	},
+	{
+		"ID": 6493,
+		"unitID": 2303131,
+		"questionID": 39303141,
+		"script": "\n;;わたし,2\n# se \"SE_0734\"\n# select \"オレ\" \"select_label_1\" \"わたし\" \"select_label_2\" \"あたーくし\" \"select_label_3\"\nカシウスの一人称は\n次のうちどれ？\n"
+	},
+	{
+		"ID": 6494,
+		"unitID": 2303131,
+		"questionID": 39303142,
+		"script": "\n;;御館様,3\n# se \"SE_0734\"\n# select \"そなた\" \"select_label_1\" \"キミ\" \"select_label_2\" \"御館様\" \"select_label_3\"\nカシウスはあなたのこと、\nなんて呼んでる？\n"
+	},
+	{
+		"ID": 6495,
+		"unitID": 2303131,
+		"questionID": 39303143,
+		"script": "\n;;82cm,2\n# se \"SE_0734\"\n# select \"85cm\" \"select_label_1\" \"82cm\" \"select_label_2\" \"87cm\" \"select_label_3\"\nカシウスの\nバストサイズがどのくらいか\n知ってる？\n"
+	},
+	{
+		"ID": 6496,
+		"unitID": 2303131,
+		"questionID": 39303144,
+		"script": "\n;;57cm,1\n# se \"SE_0734\"\n# select \"57cm\" \"select_label_1\" \"60cm\" \"select_label_2\" \"62cm\" \"select_label_3\"\nカシウスの\nウエストサイズがどのくらいか\n知ってる？\n"
+	},
+	{
+		"ID": 6497,
+		"unitID": 2303131,
+		"questionID": 39303145,
+		"script": "\n;;84cm,3\n# se \"SE_0734\"\n# select \"85cm\" \"select_label_1\" \"86cm\" \"select_label_2\" \"84cm\" \"select_label_3\"\nカシウスの\nヒップサイズがどのくらいか\n知ってる？\n"
+	},
+	{
+		"ID": 6498,
+		"unitID": 2303131,
+		"questionID": 39303146,
+		"script": "\n;;48ｋｇ,2\n# se \"SE_0734\"\n# select \"52kg\" \"select_label_1\" \"48ｋｇ\" \"select_label_2\" \"45kg\" \"select_label_3\"\nカシウスの体重は\n次のうちどれ？\n"
+	},
+	{
+		"ID": 6499,
+		"unitID": 2303131,
+		"questionID": 39303147,
+		"script": "\n;;223,3\n# se \"SE_0734\"\n# select \"225\" \"select_label_1\" \"230\" \"select_label_2\" \"223\" \"select_label_3\"\nカシウスの\nバスト＋ウエスト＋ヒップは\nいくつかわかる？\n"
+	},
+	{
+		"ID": 6500,
+		"unitID": 2303131,
+		"questionID": 39303148,
+		"script": "\n;;青白っぽい,3\n# se \"SE_0734\"\n# select \"赤っぽい\" \"select_label_1\" \"黄色っぽい\" \"select_label_2\" \"青白っぽい\" \"select_label_3\"\nカシウスの髪の色は\n次のうちどれ？\n"
+	},
+	{
+		"ID": 6501,
+		"unitID": 2303131,
+		"questionID": 39303149,
+		"script": "\n;;1位,1\n# se \"SE_0734\"\n# select \"1位\" \"select_label_1\" \"３位\" \"select_label_2\" \"２位\" \"select_label_3\"\nカシウスは\n第５回人気投票で\n何位だったかわかる？\n"
+	},
+	{
+		"ID": 6502,
+		"unitID": 2303131,
+		"questionID": 39303150,
+		"script": "\n;;佐藤舞,2\n# se \"SE_0734\"\n# select \"近藤玲奈\" \"select_label_1\" \"佐藤舞\" \"select_label_2\" \"下田屋有依\" \"select_label_3\"\nカシウスの声優は誰？\n"
+	}
+]

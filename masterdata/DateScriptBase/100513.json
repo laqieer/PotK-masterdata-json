@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 100513,
+		"script": ";;A中あたり\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background %(background)s\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# voice 1005 \"ritto_0015\"\n# face %(unit_a)s \"sad\"\n@リットゥ\n私がついていながらこの始末…\n帰ってから処罰ものだな…\n\n# textflame 0 0\n@\nマスターは笑う\nそれならリットゥを連れ出した\n自分も処罰だと\n\n# voice 1005 \"ritto_0022\"\n# textflame 1 1\n@リットゥ\n連れ出した！？\nいや、私がマスターに\nついてきたのであって…\n\n@リットゥ\nならば護衛は\n当然の任務なわけで…\n\n# textflame 0 0\n@\nマスターは否定する\nリットゥとデートしたくて\n自分が誘ったのだと\n\n# voice 1005 \"ritto_0023\"\n# face %(unit_a)s \"normal\"\n# textflame 1 1\n@リットゥ\n…わ、私は！\n\n@リットゥ\n一体どんな顔をして…\n帰ればいいのだ…？\n\n# textflame 0 0\n@\n堂々としていればいい\nマスターは彼女の背中を押して\nゆっくり帰路に着いた…\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

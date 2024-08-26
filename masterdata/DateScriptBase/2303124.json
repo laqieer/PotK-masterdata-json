@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 2303124,
+		"script": ";;A\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_drive\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n@カシウス\nおやかたしゃま、\nこのふくろのなかみは…？\n\n# voice 230312 \"cassius_lo_0039\"\n@カシウス\nどーなつ？\nわあ…これって、おかし？\n\n@カシウス\nみんなにおみやげ？\nそっか…\nおやかたしゃま、やさしい\n\n# voice 230312 \"cassius_lo_0022\"\n@カシウス\n…え？\nいまたべてもいいの？\n\n@カシウス\nうん…おなかすいてる…\nそれじゃ、いただきます…\n\n# face %(unit_a)s \"happy\"\n# voice 230312 \"cassius_lo_0005\"\n@カシウス\nもぐ、もぐ…\nん…おいしい…♪\n\n@カシウス\nこんなにあまいおかし、\nはじめてたべた…\nわたし、これすき…♪\n\n# face %(unit_a)s \"sad\"\n# voice 230312 \"cassius_lo_0028\"\n@カシウス\nもぐもぐ…ん…\nもうなくなっちゃった…\n\n# voice 230312 \"cassius_lo_0002\"\n@カシウス\n…ねえ、おやかたしゃま\nもうひとつだけたべてもいい？\n\n@カシウス\nみんなのぶんは、\nちゃんとのこしておくから…ね？\n\n# textflame 0 0\n@\n砂糖のついた指をなめながら、\nカシウスはマスターに\nおねだりする\n\n@\nマスターは微笑みつつ、\nどうぞ、とカシウスに\n返答するのだった…\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

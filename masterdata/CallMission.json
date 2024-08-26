@@ -1,0 +1,352 @@
+[
+	{
+		"ID": 1,
+		"mission_type_id": 2,
+		"item_category_id": "",
+		"number_times": 1,
+		"prerequisite_mission_id": ""
+	},
+	{
+		"ID": 2,
+		"mission_type_id": 1,
+		"item_category_id": "1",
+		"number_times": 1,
+		"prerequisite_mission_id": "1"
+	},
+	{
+		"ID": 3,
+		"mission_type_id": 2,
+		"item_category_id": "",
+		"number_times": 3,
+		"prerequisite_mission_id": "1"
+	},
+	{
+		"ID": 4,
+		"mission_type_id": 1,
+		"item_category_id": "6",
+		"number_times": 1,
+		"prerequisite_mission_id": "2,3"
+	},
+	{
+		"ID": 5,
+		"mission_type_id": 1,
+		"item_category_id": "9",
+		"number_times": 1,
+		"prerequisite_mission_id": "4"
+	},
+	{
+		"ID": 6,
+		"mission_type_id": 1,
+		"item_category_id": "10",
+		"number_times": 1,
+		"prerequisite_mission_id": "5"
+	},
+	{
+		"ID": 7,
+		"mission_type_id": 1,
+		"item_category_id": "6,9,10",
+		"number_times": 3,
+		"prerequisite_mission_id": "6"
+	},
+	{
+		"ID": 8,
+		"mission_type_id": 4,
+		"item_category_id": "",
+		"number_times": 1,
+		"prerequisite_mission_id": "4"
+	},
+	{
+		"ID": 9,
+		"mission_type_id": 3,
+		"item_category_id": "",
+		"number_times": 1,
+		"prerequisite_mission_id": "8"
+	},
+	{
+		"ID": 10,
+		"mission_type_id": 1,
+		"item_category_id": "11",
+		"number_times": 1,
+		"prerequisite_mission_id": "7,9"
+	},
+	{
+		"ID": 11,
+		"mission_type_id": 2,
+		"item_category_id": "",
+		"number_times": 1,
+		"prerequisite_mission_id": ""
+	},
+	{
+		"ID": 12,
+		"mission_type_id": 1,
+		"item_category_id": "1",
+		"number_times": 1,
+		"prerequisite_mission_id": "11"
+	},
+	{
+		"ID": 13,
+		"mission_type_id": 2,
+		"item_category_id": "",
+		"number_times": 3,
+		"prerequisite_mission_id": "11"
+	},
+	{
+		"ID": 14,
+		"mission_type_id": 1,
+		"item_category_id": "6",
+		"number_times": 1,
+		"prerequisite_mission_id": "12,13"
+	},
+	{
+		"ID": 15,
+		"mission_type_id": 1,
+		"item_category_id": "9",
+		"number_times": 1,
+		"prerequisite_mission_id": "14"
+	},
+	{
+		"ID": 16,
+		"mission_type_id": 1,
+		"item_category_id": "10",
+		"number_times": 1,
+		"prerequisite_mission_id": "15"
+	},
+	{
+		"ID": 17,
+		"mission_type_id": 1,
+		"item_category_id": "6,9,10",
+		"number_times": 3,
+		"prerequisite_mission_id": "16"
+	},
+	{
+		"ID": 18,
+		"mission_type_id": 4,
+		"item_category_id": "",
+		"number_times": 1,
+		"prerequisite_mission_id": "14"
+	},
+	{
+		"ID": 19,
+		"mission_type_id": 3,
+		"item_category_id": "",
+		"number_times": 1,
+		"prerequisite_mission_id": "18"
+	},
+	{
+		"ID": 20,
+		"mission_type_id": 1,
+		"item_category_id": "11",
+		"number_times": 1,
+		"prerequisite_mission_id": "17,19"
+	},
+	{
+		"ID": 21,
+		"mission_type_id": 2,
+		"item_category_id": "",
+		"number_times": 1,
+		"prerequisite_mission_id": ""
+	},
+	{
+		"ID": 22,
+		"mission_type_id": 1,
+		"item_category_id": "1",
+		"number_times": 1,
+		"prerequisite_mission_id": "21"
+	},
+	{
+		"ID": 23,
+		"mission_type_id": 2,
+		"item_category_id": "",
+		"number_times": 3,
+		"prerequisite_mission_id": "21"
+	},
+	{
+		"ID": 24,
+		"mission_type_id": 1,
+		"item_category_id": "6",
+		"number_times": 1,
+		"prerequisite_mission_id": "22,23"
+	},
+	{
+		"ID": 25,
+		"mission_type_id": 1,
+		"item_category_id": "9",
+		"number_times": 1,
+		"prerequisite_mission_id": "24"
+	},
+	{
+		"ID": 26,
+		"mission_type_id": 1,
+		"item_category_id": "10",
+		"number_times": 1,
+		"prerequisite_mission_id": "25"
+	},
+	{
+		"ID": 27,
+		"mission_type_id": 1,
+		"item_category_id": "6,9,10",
+		"number_times": 3,
+		"prerequisite_mission_id": "26"
+	},
+	{
+		"ID": 28,
+		"mission_type_id": 4,
+		"item_category_id": "",
+		"number_times": 1,
+		"prerequisite_mission_id": "24"
+	},
+	{
+		"ID": 29,
+		"mission_type_id": 3,
+		"item_category_id": "",
+		"number_times": 1,
+		"prerequisite_mission_id": "28"
+	},
+	{
+		"ID": 30,
+		"mission_type_id": 1,
+		"item_category_id": "11",
+		"number_times": 1,
+		"prerequisite_mission_id": "27,29"
+	},
+	{
+		"ID": 31,
+		"mission_type_id": 2,
+		"item_category_id": "",
+		"number_times": 1,
+		"prerequisite_mission_id": ""
+	},
+	{
+		"ID": 32,
+		"mission_type_id": 1,
+		"item_category_id": "1",
+		"number_times": 1,
+		"prerequisite_mission_id": "31"
+	},
+	{
+		"ID": 33,
+		"mission_type_id": 2,
+		"item_category_id": "",
+		"number_times": 3,
+		"prerequisite_mission_id": "31"
+	},
+	{
+		"ID": 34,
+		"mission_type_id": 1,
+		"item_category_id": "6",
+		"number_times": 1,
+		"prerequisite_mission_id": "32,33"
+	},
+	{
+		"ID": 35,
+		"mission_type_id": 1,
+		"item_category_id": "9",
+		"number_times": 1,
+		"prerequisite_mission_id": "34"
+	},
+	{
+		"ID": 36,
+		"mission_type_id": 1,
+		"item_category_id": "10",
+		"number_times": 1,
+		"prerequisite_mission_id": "35"
+	},
+	{
+		"ID": 37,
+		"mission_type_id": 1,
+		"item_category_id": "6,9,10",
+		"number_times": 3,
+		"prerequisite_mission_id": "36"
+	},
+	{
+		"ID": 38,
+		"mission_type_id": 4,
+		"item_category_id": "",
+		"number_times": 1,
+		"prerequisite_mission_id": "34"
+	},
+	{
+		"ID": 39,
+		"mission_type_id": 3,
+		"item_category_id": "",
+		"number_times": 1,
+		"prerequisite_mission_id": "38"
+	},
+	{
+		"ID": 40,
+		"mission_type_id": 1,
+		"item_category_id": "11",
+		"number_times": 1,
+		"prerequisite_mission_id": "37,39"
+	},
+	{
+		"ID": 41,
+		"mission_type_id": 2,
+		"item_category_id": "",
+		"number_times": 1,
+		"prerequisite_mission_id": ""
+	},
+	{
+		"ID": 42,
+		"mission_type_id": 1,
+		"item_category_id": "1",
+		"number_times": 1,
+		"prerequisite_mission_id": "41"
+	},
+	{
+		"ID": 43,
+		"mission_type_id": 2,
+		"item_category_id": "",
+		"number_times": 3,
+		"prerequisite_mission_id": "41"
+	},
+	{
+		"ID": 44,
+		"mission_type_id": 1,
+		"item_category_id": "6",
+		"number_times": 1,
+		"prerequisite_mission_id": "42,43"
+	},
+	{
+		"ID": 45,
+		"mission_type_id": 1,
+		"item_category_id": "9",
+		"number_times": 1,
+		"prerequisite_mission_id": "44"
+	},
+	{
+		"ID": 46,
+		"mission_type_id": 1,
+		"item_category_id": "10",
+		"number_times": 1,
+		"prerequisite_mission_id": "45"
+	},
+	{
+		"ID": 47,
+		"mission_type_id": 1,
+		"item_category_id": "6,9,10",
+		"number_times": 3,
+		"prerequisite_mission_id": "46"
+	},
+	{
+		"ID": 48,
+		"mission_type_id": 4,
+		"item_category_id": "",
+		"number_times": 1,
+		"prerequisite_mission_id": "44"
+	},
+	{
+		"ID": 49,
+		"mission_type_id": 3,
+		"item_category_id": "",
+		"number_times": 1,
+		"prerequisite_mission_id": "48"
+	},
+	{
+		"ID": 50,
+		"mission_type_id": 1,
+		"item_category_id": "11",
+		"number_times": 1,
+		"prerequisite_mission_id": "47,49"
+	}
+]

@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 102823,
+		"script": ";;B中あたり\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_shipboard\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# voice 1028 \"dainsleif_0006\"\n# face %(unit_a)s \"normal\"\n@ダーインスレイヴ\nおぬしのエスコートを\n受ける日が来るとはね…\n\n# textflame 0 0\n@\nそう言って\nダーインスレイヴは\nそっと手を差し出す\n\n# voice 1028 \"dainsleif_0037\"\n# textflame 1 1\n@ダーインスレイヴ\nなんて優しい手の包み方だ…\n一体どこで覚えたのかな？\n\n# textflame 0 0\n@\nダーインスレイヴの挑発に\n余裕の笑みを返すマスター\n\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n# voice 1028 \"dainsleif_0005\"\n@ダーインスレイヴ\nこの程度では動じないか…\nたいしたものだよ、マスター\n\n# face %(unit_a)s \"normal\"\n# voice 1028 \"dainsleif_0003\"\n@ダーインスレイヴ\nこれなら…\n今宵はそなたに身を任せても\nなんの問題もなさそうだ…\n\n# textflame 0 0\n@\nきらびやかに飾られた客室を\n二人は上品に進んでいく…\n\n# textflame 0 0\n@\nこれから先の時間…\n二人の優雅な時は\n約束されたも同然であった\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

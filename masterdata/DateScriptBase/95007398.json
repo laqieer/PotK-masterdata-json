@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 95007398,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# se \"SE_0733\"\n# face %(unit_a)s \"sad\"\n# voice 5007 \"buryunaku_0027\"\n@ブリューナク\n不正解だ…\n\n# textflame 1 1\n@ブリューナク\nやれやれ…\nもう少し調べておいてくれても…\n\n# textflame 1 1\n@ブリューナク\n…いや、突然聞いた\nブリューナクが悪かったな\n\n# textflame 1 1\n@ブリューナク\n次の機会にはしっかり\n正解してくれ\nそうでないと少し悲しいからな\n\n# voice 5007 \"buryunaku_0036\"\n# textflame 1 1\n@ブリューナク\n…期待している\n\n# textflame 0 0\n@\nブリューナクはそう言って、\n前を向いてしまった\n\n# textflame 0 0\n@\n最後に見えたその表情が\n寂しそうで、胸が苦しくて…\n\n# textflame 0 0\n@\n次の機会は\n絶対に間違えないようにしよう…！\nマスターはそう決意するのであった\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

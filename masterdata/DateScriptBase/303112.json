@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 303112,
+		"script": ";;大B魚って面白いよね\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_aquarium_day\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 230311 \"cassius_ge_0003\"\n@カシウス\nそうね…\nでも、そういう御館様も\n面白いと思うわ…\n\n@カシウス\n御館様は、他の人たちとは\nぜんぜん違う…\n\n@カシウス\nこうしてじっと見つめていると、\nどこか温かい感情が\n湧き上がってくる…\n\n@カシウス\nこの正体がいったいなんなのか、\nわたしにはまだ理解できない…\n\n# voice 230311 \"cassius_ge_0022\"\n@カシウス\n…？\n御館様、どうして\nそんなに離れるの…？\n\n@カシウス\nわたしがどんどん\n近づいてきたから？\nそう…？\n\n@カシウス\nでも…そんなに離れられたら\nよく見えないわ…\nもっと近くで見つめさせて\n\n# voice 230311 \"cassius_ge_0001\"\n@カシウス\n…御館様、\nどんどん顔が赤くなる…なぜ？\n\n# face %(unit_a)s \"sad\"\n@カシウス\nもしかして、体調に問題が…？\nそれならすぐに\n帰った方が…\n\n# face %(unit_a)s \"normal\"\n@カシウス\nそういうわけじゃない？\nそう…それなら、よかった\n\n# voice 230311 \"cassius_ge_0002\"\n@カシウス\n…ねえ、御館様\n\n@カシウス\nわたしは、できる限り\nあなたの近くに\nいたいと思っているから…\n\n@カシウス\n迷惑じゃないなら、\nまたこうして\n近くにいさせてほしい\n\n# face %(unit_a)s \"smile\"\n# voice 230311 \"cassius_ge_0004\"\n@カシウス\nどうか、よろしくね…\n\n# textflame 0 0\n@\nカシウスの正面からの好意を\n照れつつも受け入れるマスター\n\n# textflame 0 0\n@\n二人はその後も、\n水族館デートを\n存分に楽しんだ…\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

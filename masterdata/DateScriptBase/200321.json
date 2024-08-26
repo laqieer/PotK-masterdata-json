@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 200321,
+		"script": ";;特大の花火！,中\n;;当然のドッキリ！,小\n;;突然の告白！,大\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_fireworks\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 0 0\n@\nマスターは\nラブリュスを誘って\n花火大会にやってきた\n\n# face %(unit_a)s \"smile\"\n# voice 2003 \"loveryus_0041\"\n# textflame 1 1\n@ラブリュス\n大きな花火～…\nキレイだなぁ～！！\n\n# voice 2003 \"loveryus_0001\"\n# textflame 1 1\n@ラブリュス\nあ、ねぇマスター！\n;;----------------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nやっぱり\nラブリュスちゃんのドームライブの\nクライマックスはぁ…！\n\n# select \"特大の花火！\" \"select_label_01\" \"当然のドッキリ！\" \"select_label_02\" \"突然の告白！\" \"select_label_03\"\nやっぱり\nラブリュスちゃんのドームライブの\nクライマックスはぁ…！\n\n# label \"select_label_01\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_02\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_03\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# textflame 1 1\n# waitandnext 0.1\n\n# label \"select_label_end\"\n# waitandnext 2\n# fadeout \"black\" 1.2\n"
+	}
+]

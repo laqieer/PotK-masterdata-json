@@ -1,0 +1,302 @@
+[
+	{
+		"ID": 5673,
+		"unitID": 2301821,
+		"questionID": 29301801,
+		"script": ";;槍,2\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 530181 \"forcas_c_0002\"\n@フォルカス\nあなたと私は\n決して相容れる関係ではない\n\n@フォルカス\nそう思っていました\n\n# eye %(unit_a)s \"close\"\n@フォルカス\nでも…\n\n# eye %(unit_a)s \"normal\"\n@フォルカス\nあなたといると…\n不思議な気持ちになります\n\n# face %(unit_a)s \"sad\"\n# voice 530181 \"forcas_c_0001\"\n@フォルカス\nあなたは私のことを\nどう思っているのですか…？\n\n# face %(unit_a)s \"usual\"\n@フォルカス\nあなたが私のことを\nどのくらい知っているのか\n教えてほしいのです\n\n@フォルカス\nいきますよ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の武器属性は知っていますか？　\n\n# se \"SE_0734\"\n# select \"剣\" \"select_label_1\" \"槍\" \"select_label_2\" \"弓\" \"select_label_3\"\n私の武器属性は知っていますか？　\n"
+	},
+	{
+		"ID": 5674,
+		"unitID": 2301821,
+		"questionID": 29301802,
+		"script": ";;ヘル,1\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 530181 \"forcas_c_0002\"\n@フォルカス\nあなたと私は\n決して相容れる関係ではない\n\n@フォルカス\nそう思っていました\n\n# eye %(unit_a)s \"close\"\n@フォルカス\nでも…\n\n# eye %(unit_a)s \"normal\"\n@フォルカス\nあなたといると…\n不思議な気持ちになります\n\n# face %(unit_a)s \"sad\"\n# voice 530181 \"forcas_c_0001\"\n@フォルカス\nあなたは私のことを\nどう思っているのですか…？\n\n# face %(unit_a)s \"usual\"\n@フォルカス\nあなたが私のことを\nどのくらい知っているのか\n教えてほしいのです\n\n@フォルカス\nいきますよ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私にコマンドされたのは…？\n\n# se \"SE_0734\"\n# select \"ヘル\" \"select_label_1\" \"ヒル\" \"select_label_2\" \"ベル\" \"select_label_3\"\n私にコマンドされたのは…？\n"
+	},
+	{
+		"ID": 5675,
+		"unitID": 2301821,
+		"questionID": 29301803,
+		"script": ";;悪魔72柱,3\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 530181 \"forcas_c_0002\"\n@フォルカス\nあなたと私は\n決して相容れる関係ではない\n\n@フォルカス\nそう思っていました\n\n# eye %(unit_a)s \"close\"\n@フォルカス\nでも…\n\n# eye %(unit_a)s \"normal\"\n@フォルカス\nあなたといると…\n不思議な気持ちになります\n\n# face %(unit_a)s \"sad\"\n# voice 530181 \"forcas_c_0001\"\n@フォルカス\nあなたは私のことを\nどう思っているのですか…？\n\n# face %(unit_a)s \"usual\"\n@フォルカス\nあなたが私のことを\nどのくらい知っているのか\n教えてほしいのです\n\n@フォルカス\nいきますよ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私のキラーズの持ち主である\n『フォルカス』は…？\n\n# se \"SE_0734\"\n# select \"鬼84柱\" \"select_label_1\" \"天使54柱\" \"select_label_2\" \"悪魔72柱\" \"select_label_3\"\n私のキラーズの持ち主である\n『フォルカス』は…？\n"
+	},
+	{
+		"ID": 5676,
+		"unitID": 2301821,
+		"questionID": 29301804,
+		"script": ";;地獄の騎士,3\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 530181 \"forcas_c_0002\"\n@フォルカス\nあなたと私は\n決して相容れる関係ではない\n\n@フォルカス\nそう思っていました\n\n# eye %(unit_a)s \"close\"\n@フォルカス\nでも…\n\n# eye %(unit_a)s \"normal\"\n@フォルカス\nあなたといると…\n不思議な気持ちになります\n\n# face %(unit_a)s \"sad\"\n# voice 530181 \"forcas_c_0001\"\n@フォルカス\nあなたは私のことを\nどう思っているのですか…？\n\n# face %(unit_a)s \"usual\"\n@フォルカス\nあなたが私のことを\nどのくらい知っているのか\n教えてほしいのです\n\n@フォルカス\nいきますよ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私のキラーズの持ち主である\n『フォルカス』は何の騎士と呼ばれた？\n\n# se \"SE_0734\"\n# select \"天界の騎士\" \"select_label_1\" \"バイトの騎士\" \"select_label_2\" \"地獄の騎士\" \"select_label_3\"\n私のキラーズの持ち主である\n『フォルカス』は何の騎士と呼ばれた？\n"
+	},
+	{
+		"ID": 5677,
+		"unitID": 2301821,
+		"questionID": 29301805,
+		"script": ";;北欧神話,1\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 530181 \"forcas_c_0002\"\n@フォルカス\nあなたと私は\n決して相容れる関係ではない\n\n@フォルカス\nそう思っていました\n\n# eye %(unit_a)s \"close\"\n@フォルカス\nでも…\n\n# eye %(unit_a)s \"normal\"\n@フォルカス\nあなたといると…\n不思議な気持ちになります\n\n# face %(unit_a)s \"sad\"\n# voice 530181 \"forcas_c_0001\"\n@フォルカス\nあなたは私のことを\nどう思っているのですか…？\n\n# face %(unit_a)s \"usual\"\n@フォルカス\nあなたが私のことを\nどのくらい知っているのか\n教えてほしいのです\n\n@フォルカス\nいきますよ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私にコマンドされたヘルは\nどんな神話に登場しますか？\n\n# se \"SE_0734\"\n# select \"北欧神話\" \"select_label_1\" \"ギリシャ神話\" \"select_label_2\" \"日本神話\" \"select_label_3\"\n私にコマンドされたヘルは\nどんな神話に登場しますか？\n"
+	},
+	{
+		"ID": 5678,
+		"unitID": 2301821,
+		"questionID": 29301806,
+		"script": ";;死者の国の女王,1\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 530181 \"forcas_c_0002\"\n@フォルカス\nあなたと私は\n決して相容れる関係ではない\n\n@フォルカス\nそう思っていました\n\n# eye %(unit_a)s \"close\"\n@フォルカス\nでも…\n\n# eye %(unit_a)s \"normal\"\n@フォルカス\nあなたといると…\n不思議な気持ちになります\n\n# face %(unit_a)s \"sad\"\n# voice 530181 \"forcas_c_0001\"\n@フォルカス\nあなたは私のことを\nどう思っているのですか…？\n\n# face %(unit_a)s \"usual\"\n@フォルカス\nあなたが私のことを\nどのくらい知っているのか\n教えてほしいのです\n\n@フォルカス\nいきますよ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私にコマンドされたヘルは\nどんな女王でしょうか？\n\n# se \"SE_0734\"\n# select \"死者の国の女王\" \"select_label_1\" \"京都の都の女王\" \"select_label_2\" \"鬼の国の女王\" \"select_label_3\"\n私にコマンドされたヘルは\nどんな女王でしょうか？\n"
+	},
+	{
+		"ID": 5679,
+		"unitID": 2301821,
+		"questionID": 29301807,
+		"script": ";;隠す,3\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 530181 \"forcas_c_0002\"\n@フォルカス\nあなたと私は\n決して相容れる関係ではない\n\n@フォルカス\nそう思っていました\n\n# eye %(unit_a)s \"close\"\n@フォルカス\nでも…\n\n# eye %(unit_a)s \"normal\"\n@フォルカス\nあなたといると…\n不思議な気持ちになります\n\n# face %(unit_a)s \"sad\"\n# voice 530181 \"forcas_c_0001\"\n@フォルカス\nあなたは私のことを\nどう思っているのですか…？\n\n# face %(unit_a)s \"usual\"\n@フォルカス\nあなたが私のことを\nどのくらい知っているのか\n教えてほしいのです\n\n@フォルカス\nいきますよ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私にコマンドされたヘルは\nどんな意味を持っていますか？\n\n# se \"SE_0734\"\n# select \"取る\" \"select_label_1\" \"貸す\" \"select_label_2\" \"隠す\" \"select_label_3\"\n私にコマンドされたヘルは\nどんな意味を持っていますか？\n"
+	},
+	{
+		"ID": 5680,
+		"unitID": 2301821,
+		"questionID": 29301808,
+		"script": ";;死者を生き返らせる,2\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 530181 \"forcas_c_0002\"\n@フォルカス\nあなたと私は\n決して相容れる関係ではない\n\n@フォルカス\nそう思っていました\n\n# eye %(unit_a)s \"close\"\n@フォルカス\nでも…\n\n# eye %(unit_a)s \"normal\"\n@フォルカス\nあなたといると…\n不思議な気持ちになります\n\n# face %(unit_a)s \"sad\"\n# voice 530181 \"forcas_c_0001\"\n@フォルカス\nあなたは私のことを\nどう思っているのですか…？\n\n# face %(unit_a)s \"usual\"\n@フォルカス\nあなたが私のことを\nどのくらい知っているのか\n教えてほしいのです\n\n@フォルカス\nいきますよ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私にコマンドされたヘルはどんな力を\n持っていると云われていますか？\n\n# se \"SE_0734\"\n# select \"雨を降らせる\" \"select_label_1\" \"死者を生き返らせる\" \"select_label_2\" \"スプーンを曲げる\" \"select_label_3\"\n私にコマンドされたヘルはどんな力を\n持っていると云われていますか？\n"
+	},
+	{
+		"ID": 5681,
+		"unitID": 2301821,
+		"questionID": 29301809,
+		"script": ";;ロキ,2\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 530181 \"forcas_c_0002\"\n@フォルカス\nあなたと私は\n決して相容れる関係ではない\n\n@フォルカス\nそう思っていました\n\n# eye %(unit_a)s \"close\"\n@フォルカス\nでも…\n\n# eye %(unit_a)s \"normal\"\n@フォルカス\nあなたといると…\n不思議な気持ちになります\n\n# face %(unit_a)s \"sad\"\n# voice 530181 \"forcas_c_0001\"\n@フォルカス\nあなたは私のことを\nどう思っているのですか…？\n\n# face %(unit_a)s \"usual\"\n@フォルカス\nあなたが私のことを\nどのくらい知っているのか\n教えてほしいのです\n\n@フォルカス\nいきますよ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私にコマンドされたヘルは\n誰の娘と云われていますか？\n\n# se \"SE_0734\"\n# select \"ニキ\" \"select_label_1\" \"ロキ\" \"select_label_2\" \"サキ\" \"select_label_3\"\n私にコマンドされたヘルは\n誰の娘と云われていますか？\n"
+	},
+	{
+		"ID": 5682,
+		"unitID": 2301821,
+		"questionID": 29301810,
+		"script": ";;ニブルヘイム,2\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 530181 \"forcas_c_0002\"\n@フォルカス\nあなたと私は\n決して相容れる関係ではない\n\n@フォルカス\nそう思っていました\n\n# eye %(unit_a)s \"close\"\n@フォルカス\nでも…\n\n# eye %(unit_a)s \"normal\"\n@フォルカス\nあなたといると…\n不思議な気持ちになります\n\n# face %(unit_a)s \"sad\"\n# voice 530181 \"forcas_c_0001\"\n@フォルカス\nあなたは私のことを\nどう思っているのですか…？\n\n# face %(unit_a)s \"usual\"\n@フォルカス\nあなたが私のことを\nどのくらい知っているのか\n教えてほしいのです\n\n@フォルカス\nいきますよ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私にコマンドされたヘルが\nオーディンによって\n追放された場所は？\n\n# se \"SE_0734\"\n# select \"ユア・エルム\" \"select_label_1\" \"ニブルヘイム\" \"select_label_2\" \"アブラハム\" \"select_label_3\"\n私にコマンドされたヘルが\nオーディンによって\n追放された場所は？\n"
+	},
+	{
+		"ID": 5683,
+		"unitID": 2301821,
+		"questionID": 29301811,
+		"script": ";;闇,2\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 530181 \"forcas_c_0001\"\n@フォルカス\nマスター、私は\nあなたが導く先についていく\nそう決意していました\n\n@フォルカス\nたとえ、それが\n私の意に沿わなかったとしても\n\n# face %(unit_a)s \"normal\"\n# voice 530181 \"forcas_c_0004\"\n@フォルカス\nでも、あなたの後をついていくのは…\n不思議と嫌ではありません\n\n# face %(unit_a)s \"usual\"\n@フォルカス\nだからと言って、\n私はこのままでいいのか…\n悩んでしまうことがあります\n\n@フォルカス\n私のことを知らない人に\nついて行っていいのか…\n\n# voice 530181 \"forcas_c_0001\"\n@フォルカス\nマスター、\nあなたに私の、この不安を\n拭ってほしいのです\n\n@フォルカス\nよろしいですか？\n\n# textflame 0 0\n@\nこれは責任重大だ…\nと緊張するマスターだった\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私の属性は知っていますか？\n\n# se \"SE_0734\"\n# select \"風\" \"select_label_1\" \"闇\" \"select_label_2\" \"水\" \"select_label_3\"\n私の属性は知っていますか？\n"
+	},
+	{
+		"ID": 5684,
+		"unitID": 2301821,
+		"questionID": 29301812,
+		"script": ";;166cm ,3\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 530181 \"forcas_c_0001\"\n@フォルカス\nマスター、私は\nあなたが導く先についていく\nそう決意していました\n\n@フォルカス\nたとえ、それが\n私の意に沿わなかったとしても\n\n# face %(unit_a)s \"normal\"\n# voice 530181 \"forcas_c_0004\"\n@フォルカス\nでも、あなたの後をついていくのは…\n不思議と嫌ではありません\n\n# face %(unit_a)s \"usual\"\n@フォルカス\nだからと言って、\n私はこのままでいいのか…\n悩んでしまうことがあります\n\n@フォルカス\n私のことを知らない人に\nついて行っていいのか…\n\n# voice 530181 \"forcas_c_0001\"\n@フォルカス\nマスター、\nあなたに私の、この不安を\n拭ってほしいのです\n\n@フォルカス\nよろしいですか？\n\n# textflame 0 0\n@\nこれは責任重大だ…\nと緊張するマスターだった\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私の身長はわかりますか？\n\n# se \"SE_0734\"\n# select \"168cm\" \"select_label_1\" \"170cm\" \"select_label_2\" \"166cm \" \"select_label_3\"\n私の身長はわかりますか？\n"
+	},
+	{
+		"ID": 5685,
+		"unitID": 2301821,
+		"questionID": 29301813,
+		"script": ";;1月31日,2\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 530181 \"forcas_c_0001\"\n@フォルカス\nマスター、私は\nあなたが導く先についていく\nそう決意していました\n\n@フォルカス\nたとえ、それが\n私の意に沿わなかったとしても\n\n# face %(unit_a)s \"normal\"\n# voice 530181 \"forcas_c_0004\"\n@フォルカス\nでも、あなたの後をついていくのは…\n不思議と嫌ではありません\n\n# face %(unit_a)s \"usual\"\n@フォルカス\nだからと言って、\n私はこのままでいいのか…\n悩んでしまうことがあります\n\n@フォルカス\n私のことを知らない人に\nついて行っていいのか…\n\n# voice 530181 \"forcas_c_0001\"\n@フォルカス\nマスター、\nあなたに私の、この不安を\n拭ってほしいのです\n\n@フォルカス\nよろしいですか？\n\n# textflame 0 0\n@\nこれは責任重大だ…\nと緊張するマスターだった\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私の誕生日は知っていますか？\n\n# se \"SE_0734\"\n# select \"9月30日\" \"select_label_1\" \"1月31日\" \"select_label_2\" \"5月23日\" \"select_label_3\"\n私の誕生日は知っていますか？\n"
+	},
+	{
+		"ID": 5686,
+		"unitID": 2301821,
+		"questionID": 29301814,
+		"script": ";;みずがめ座,3\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 530181 \"forcas_c_0001\"\n@フォルカス\nマスター、私は\nあなたが導く先についていく\nそう決意していました\n\n@フォルカス\nたとえ、それが\n私の意に沿わなかったとしても\n\n# face %(unit_a)s \"normal\"\n# voice 530181 \"forcas_c_0004\"\n@フォルカス\nでも、あなたの後をついていくのは…\n不思議と嫌ではありません\n\n# face %(unit_a)s \"usual\"\n@フォルカス\nだからと言って、\n私はこのままでいいのか…\n悩んでしまうことがあります\n\n@フォルカス\n私のことを知らない人に\nついて行っていいのか…\n\n# voice 530181 \"forcas_c_0001\"\n@フォルカス\nマスター、\nあなたに私の、この不安を\n拭ってほしいのです\n\n@フォルカス\nよろしいですか？\n\n# textflame 0 0\n@\nこれは責任重大だ…\nと緊張するマスターだった\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私の星座は知っていますか？\n\n# se \"SE_0734\"\n# select \"いて座\" \"select_label_1\" \"やぎ座\" \"select_label_2\" \"みずがめ座\" \"select_label_3\"\n私の星座は知っていますか？\n"
+	},
+	{
+		"ID": 5687,
+		"unitID": 2301821,
+		"questionID": 29301815,
+		"script": ";;占い,3\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 530181 \"forcas_c_0001\"\n@フォルカス\nマスター、私は\nあなたが導く先についていく\nそう決意していました\n\n@フォルカス\nたとえ、それが\n私の意に沿わなかったとしても\n\n# face %(unit_a)s \"normal\"\n# voice 530181 \"forcas_c_0004\"\n@フォルカス\nでも、あなたの後をついていくのは…\n不思議と嫌ではありません\n\n# face %(unit_a)s \"usual\"\n@フォルカス\nだからと言って、\n私はこのままでいいのか…\n悩んでしまうことがあります\n\n@フォルカス\n私のことを知らない人に\nついて行っていいのか…\n\n# voice 530181 \"forcas_c_0001\"\n@フォルカス\nマスター、\nあなたに私の、この不安を\n拭ってほしいのです\n\n@フォルカス\nよろしいですか？\n\n# textflame 0 0\n@\nこれは責任重大だ…\nと緊張するマスターだった\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私が好きなのは…\n\n# se \"SE_0734\"\n# select \"鉄道\" \"select_label_1\" \"プロレス\" \"select_label_2\" \"占い\" \"select_label_3\"\n私が好きなのは…\n"
+	},
+	{
+		"ID": 5688,
+		"unitID": 2301821,
+		"questionID": 29301816,
+		"script": ";;パワーストーン,2\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 530181 \"forcas_c_0001\"\n@フォルカス\nマスター、私は\nあなたが導く先についていく\nそう決意していました\n\n@フォルカス\nたとえ、それが\n私の意に沿わなかったとしても\n\n# face %(unit_a)s \"normal\"\n# voice 530181 \"forcas_c_0004\"\n@フォルカス\nでも、あなたの後をついていくのは…\n不思議と嫌ではありません\n\n# face %(unit_a)s \"usual\"\n@フォルカス\nだからと言って、\n私はこのままでいいのか…\n悩んでしまうことがあります\n\n@フォルカス\n私のことを知らない人に\nついて行っていいのか…\n\n# voice 530181 \"forcas_c_0001\"\n@フォルカス\nマスター、\nあなたに私の、この不安を\n拭ってほしいのです\n\n@フォルカス\nよろしいですか？\n\n# textflame 0 0\n@\nこれは責任重大だ…\nと緊張するマスターだった\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私、これが好きなんです…\n\n# se \"SE_0734\"\n# select \"盆栽\" \"select_label_1\" \"パワーストーン\" \"select_label_2\" \"流鏑馬\" \"select_label_3\"\n私、これが好きなんです…\n"
+	},
+	{
+		"ID": 5689,
+		"unitID": 2301821,
+		"questionID": 29301817,
+		"script": ";;Ａ型,1\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 530181 \"forcas_c_0001\"\n@フォルカス\nマスター、私は\nあなたが導く先についていく\nそう決意していました\n\n@フォルカス\nたとえ、それが\n私の意に沿わなかったとしても\n\n# face %(unit_a)s \"normal\"\n# voice 530181 \"forcas_c_0004\"\n@フォルカス\nでも、あなたの後をついていくのは…\n不思議と嫌ではありません\n\n# face %(unit_a)s \"usual\"\n@フォルカス\nだからと言って、\n私はこのままでいいのか…\n悩んでしまうことがあります\n\n@フォルカス\n私のことを知らない人に\nついて行っていいのか…\n\n# voice 530181 \"forcas_c_0001\"\n@フォルカス\nマスター、\nあなたに私の、この不安を\n拭ってほしいのです\n\n@フォルカス\nよろしいですか？\n\n# textflame 0 0\n@\nこれは責任重大だ…\nと緊張するマスターだった\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私の血液型は知っていますか？\n\n# se \"SE_0734\"\n# select \"Ａ型\" \"select_label_1\" \"ＡＢ型\" \"select_label_2\" \"Ｏ型\" \"select_label_3\"\n私の血液型は知っていますか？\n"
+	},
+	{
+		"ID": 5690,
+		"unitID": 2301821,
+		"questionID": 29301818,
+		"script": ";;イングランド,3\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 530181 \"forcas_c_0001\"\n@フォルカス\nマスター、私は\nあなたが導く先についていく\nそう決意していました\n\n@フォルカス\nたとえ、それが\n私の意に沿わなかったとしても\n\n# face %(unit_a)s \"normal\"\n# voice 530181 \"forcas_c_0004\"\n@フォルカス\nでも、あなたの後をついていくのは…\n不思議と嫌ではありません\n\n# face %(unit_a)s \"usual\"\n@フォルカス\nだからと言って、\n私はこのままでいいのか…\n悩んでしまうことがあります\n\n@フォルカス\n私のことを知らない人に\nついて行っていいのか…\n\n# voice 530181 \"forcas_c_0001\"\n@フォルカス\nマスター、\nあなたに私の、この不安を\n拭ってほしいのです\n\n@フォルカス\nよろしいですか？\n\n# textflame 0 0\n@\nこれは責任重大だ…\nと緊張するマスターだった\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私の出身地は知っていますか？\n\n# se \"SE_0734\"\n# select \"アイスランド\" \"select_label_1\" \"ポーランド\" \"select_label_2\" \"イングランド\" \"select_label_3\"\n私の出身地は知っていますか？\n"
+	},
+	{
+		"ID": 5691,
+		"unitID": 2301821,
+		"questionID": 29301819,
+		"script": ";;リーダー,3\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 530181 \"forcas_c_0001\"\n@フォルカス\nマスター、私は\nあなたが導く先についていく\nそう決意していました\n\n@フォルカス\nたとえ、それが\n私の意に沿わなかったとしても\n\n# face %(unit_a)s \"normal\"\n# voice 530181 \"forcas_c_0004\"\n@フォルカス\nでも、あなたの後をついていくのは…\n不思議と嫌ではありません\n\n# face %(unit_a)s \"usual\"\n@フォルカス\nだからと言って、\n私はこのままでいいのか…\n悩んでしまうことがあります\n\n@フォルカス\n私のことを知らない人に\nついて行っていいのか…\n\n# voice 530181 \"forcas_c_0001\"\n@フォルカス\nマスター、\nあなたに私の、この不安を\n拭ってほしいのです\n\n@フォルカス\nよろしいですか？\n\n# textflame 0 0\n@\nこれは責任重大だ…\nと緊張するマスターだった\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nコマンドキラーズの中で、\n私はどんなポジションでしょうか？\n\n# se \"SE_0734\"\n# select \"トリックスター\" \"select_label_1\" \"マスコット\" \"select_label_2\" \"リーダー\" \"select_label_3\"\nコマンドキラーズの中で、\n私はどんなポジションでしょうか？\n"
+	},
+	{
+		"ID": 5692,
+		"unitID": 2301821,
+		"questionID": 29301820,
+		"script": ";;コマンドキラーズ,2\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 530181 \"forcas_c_0001\"\n@フォルカス\nマスター、私は\nあなたが導く先についていく\nそう決意していました\n\n@フォルカス\nたとえ、それが\n私の意に沿わなかったとしても\n\n# face %(unit_a)s \"normal\"\n# voice 530181 \"forcas_c_0004\"\n@フォルカス\nでも、あなたの後をついていくのは…\n不思議と嫌ではありません\n\n# face %(unit_a)s \"usual\"\n@フォルカス\nだからと言って、\n私はこのままでいいのか…\n悩んでしまうことがあります\n\n@フォルカス\n私のことを知らない人に\nついて行っていいのか…\n\n# voice 530181 \"forcas_c_0001\"\n@フォルカス\nマスター、\nあなたに私の、この不安を\n拭ってほしいのです\n\n@フォルカス\nよろしいですか？\n\n# textflame 0 0\n@\nこれは責任重大だ…\nと緊張するマスターだった\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私が属しているのは…？\n\n# se \"SE_0734\"\n# select \"アマンドキラーズ\" \"select_label_1\" \"コマンドキラーズ\" \"select_label_2\" \"コンドマキラーズ\" \"select_label_3\"\n私が属しているのは…？\n"
+	},
+	{
+		"ID": 5693,
+		"unitID": 2301821,
+		"questionID": 29301821,
+		"script": ";;闇護神の共鳴,1\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 530181 \"forcas_c_0002\"\n@フォルカス\nたまにはいいものですね\n\n@フォルカス\nこうしてなにもせず、\nただ一日を過ごすというのも\n\n@フォルカス\nそれだけで…\nとても楽しいものだと知りました\n\n# voice 530181 \"forcas_c_0001\"\n@フォルカス\nマスター、\nそんな一日の締め括りに、\nクイズに答えて頂けますか？\n\n# face %(unit_a)s \"sad\"\n# voice 530181 \"forcas_c_0031\"\n@フォルカス\n急な話で申し訳ありません\nただ、その…\n\n# face %(unit_a)s \"normal\"\n@フォルカス\n平穏な一日を\n爽やかな気持ちで\n終えたいのです\n\n# textflame 0 0\n@\n平穏で終われるかどうか…\nマスターは緊張感を覚えるのだった\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私の覚えるリーダースキルを\n知っていますか？\n\n# se \"SE_0734\"\n# select \"闇護神の共鳴\" \"select_label_1\" \"守護神の共鳴\" \"select_label_2\" \"光護神の共鳴\" \"select_label_3\"\n私の覚えるリーダースキルを\n知っていますか？\n"
+	},
+	{
+		"ID": 5694,
+		"unitID": 2301821,
+		"questionID": 29301822,
+		"script": ";;神威天元,2\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 530181 \"forcas_c_0002\"\n@フォルカス\nたまにはいいものですね\n\n@フォルカス\nこうしてなにもせず、\nただ一日を過ごすというのも\n\n@フォルカス\nそれだけで…\nとても楽しいものだと知りました\n\n# voice 530181 \"forcas_c_0001\"\n@フォルカス\nマスター、\nそんな一日の締め括りに、\nクイズに答えて頂けますか？\n\n# face %(unit_a)s \"sad\"\n# voice 530181 \"forcas_c_0031\"\n@フォルカス\n急な話で申し訳ありません\nただ、その…\n\n# face %(unit_a)s \"normal\"\n@フォルカス\n平穏な一日を\n爽やかな気持ちで\n終えたいのです\n\n# textflame 0 0\n@\n平穏で終われるかどうか…\nマスターは緊張感を覚えるのだった\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私の覚える付与スキルを\n知っていますか？\n\n# se \"SE_0734\"\n# select \"神座天元\" \"select_label_1\" \"神威天元\" \"select_label_2\" \"神田天元\" \"select_label_3\"\n私の覚える付与スキルを\n知っていますか？\n"
+	},
+	{
+		"ID": 5695,
+		"unitID": 2301821,
+		"questionID": 29301823,
+		"script": ";;仲間を護りし必槍,2\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 530181 \"forcas_c_0002\"\n@フォルカス\nたまにはいいものですね\n\n@フォルカス\nこうしてなにもせず、\nただ一日を過ごすというのも\n\n@フォルカス\nそれだけで…\nとても楽しいものだと知りました\n\n# voice 530181 \"forcas_c_0001\"\n@フォルカス\nマスター、\nそんな一日の締め括りに、\nクイズに答えて頂けますか？\n\n# face %(unit_a)s \"sad\"\n# voice 530181 \"forcas_c_0031\"\n@フォルカス\n急な話で申し訳ありません\nただ、その…\n\n# face %(unit_a)s \"normal\"\n@フォルカス\n平穏な一日を\n爽やかな気持ちで\n終えたいのです\n\n# textflame 0 0\n@\n平穏で終われるかどうか…\nマスターは緊張感を覚えるのだった\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私の覚える付与スキルを\n知っていますか？\n\n# se \"SE_0734\"\n# select \"お金を護りし必槍\" \"select_label_1\" \"仲間を護りし必槍\" \"select_label_2\" \"先祖を護りし必槍\" \"select_label_3\"\n私の覚える付与スキルを\n知っていますか？\n"
+	},
+	{
+		"ID": 5696,
+		"unitID": 2301821,
+		"questionID": 29301824,
+		"script": ";;再誕せし蒼の守護者,3\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 530181 \"forcas_c_0002\"\n@フォルカス\nたまにはいいものですね\n\n@フォルカス\nこうしてなにもせず、\nただ一日を過ごすというのも\n\n@フォルカス\nそれだけで…\nとても楽しいものだと知りました\n\n# voice 530181 \"forcas_c_0001\"\n@フォルカス\nマスター、\nそんな一日の締め括りに、\nクイズに答えて頂けますか？\n\n# face %(unit_a)s \"sad\"\n# voice 530181 \"forcas_c_0031\"\n@フォルカス\n急な話で申し訳ありません\nただ、その…\n\n# face %(unit_a)s \"normal\"\n@フォルカス\n平穏な一日を\n爽やかな気持ちで\n終えたいのです\n\n# textflame 0 0\n@\n平穏で終われるかどうか…\nマスターは緊張感を覚えるのだった\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私の覚える付与スキルを\n知っていますか？\n\n# se \"SE_0734\"\n# select \"再誕せし鉄の守護者\" \"select_label_1\" \"再誕せし槍の守護者\" \"select_label_2\" \"再誕せし蒼の守護者\" \"select_label_3\"\n私の覚える付与スキルを\n知っていますか？\n"
+	},
+	{
+		"ID": 5697,
+		"unitID": 2301821,
+		"questionID": 29301825,
+		"script": ";;蒼の再燃,2\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 530181 \"forcas_c_0002\"\n@フォルカス\nたまにはいいものですね\n\n@フォルカス\nこうしてなにもせず、\nただ一日を過ごすというのも\n\n@フォルカス\nそれだけで…\nとても楽しいものだと知りました\n\n# voice 530181 \"forcas_c_0001\"\n@フォルカス\nマスター、\nそんな一日の締め括りに、\nクイズに答えて頂けますか？\n\n# face %(unit_a)s \"sad\"\n# voice 530181 \"forcas_c_0031\"\n@フォルカス\n急な話で申し訳ありません\nただ、その…\n\n# face %(unit_a)s \"normal\"\n@フォルカス\n平穏な一日を\n爽やかな気持ちで\n終えたいのです\n\n# textflame 0 0\n@\n平穏で終われるかどうか…\nマスターは緊張感を覚えるのだった\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私の覚えるスキルを\n知っていますか？\n\n# se \"SE_0734\"\n# select \"蒼の再演\" \"select_label_1\" \"蒼の再燃\" \"select_label_2\" \"蒼の再会\" \"select_label_3\"\n私の覚えるスキルを\n知っていますか？\n"
+	},
+	{
+		"ID": 5698,
+		"unitID": 2301821,
+		"questionID": 29301826,
+		"script": ";;常闇の聖域,2\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 530181 \"forcas_c_0002\"\n@フォルカス\nたまにはいいものですね\n\n@フォルカス\nこうしてなにもせず、\nただ一日を過ごすというのも\n\n@フォルカス\nそれだけで…\nとても楽しいものだと知りました\n\n# voice 530181 \"forcas_c_0001\"\n@フォルカス\nマスター、\nそんな一日の締め括りに、\nクイズに答えて頂けますか？\n\n# face %(unit_a)s \"sad\"\n# voice 530181 \"forcas_c_0031\"\n@フォルカス\n急な話で申し訳ありません\nただ、その…\n\n# face %(unit_a)s \"normal\"\n@フォルカス\n平穏な一日を\n爽やかな気持ちで\n終えたいのです\n\n# textflame 0 0\n@\n平穏で終われるかどうか…\nマスターは緊張感を覚えるのだった\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私の覚える付与スキルを\n知っていますか？\n\n# se \"SE_0734\"\n# select \"常闇の聖水\" \"select_label_1\" \"常闇の聖域\" \"select_label_2\" \"常闇の聖人\" \"select_label_3\"\n私の覚える付与スキルを\n知っていますか？\n"
+	},
+	{
+		"ID": 5699,
+		"unitID": 2301821,
+		"questionID": 29301827,
+		"script": ";;虚に刻む神の制裁,2\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 530181 \"forcas_c_0002\"\n@フォルカス\nたまにはいいものですね\n\n@フォルカス\nこうしてなにもせず、\nただ一日を過ごすというのも\n\n@フォルカス\nそれだけで…\nとても楽しいものだと知りました\n\n# voice 530181 \"forcas_c_0001\"\n@フォルカス\nマスター、\nそんな一日の締め括りに、\nクイズに答えて頂けますか？\n\n# face %(unit_a)s \"sad\"\n# voice 530181 \"forcas_c_0031\"\n@フォルカス\n急な話で申し訳ありません\nただ、その…\n\n# face %(unit_a)s \"normal\"\n@フォルカス\n平穏な一日を\n爽やかな気持ちで\n終えたいのです\n\n# textflame 0 0\n@\n平穏で終われるかどうか…\nマスターは緊張感を覚えるのだった\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私の覚えるデュエルスキルを\n知っていますか？\n\n# se \"SE_0734\"\n# select \"虚に刻む神の戒律\" \"select_label_1\" \"虚に刻む神の制裁\" \"select_label_2\" \"虚に刻む神のお仕置\" \"select_label_3\"\n私の覚えるデュエルスキルを\n知っていますか？\n"
+	},
+	{
+		"ID": 5700,
+		"unitID": 2301821,
+		"questionID": 29301828,
+		"script": ";;樹令『常闇の腕』,1\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 530181 \"forcas_c_0002\"\n@フォルカス\nたまにはいいものですね\n\n@フォルカス\nこうしてなにもせず、\nただ一日を過ごすというのも\n\n@フォルカス\nそれだけで…\nとても楽しいものだと知りました\n\n# voice 530181 \"forcas_c_0001\"\n@フォルカス\nマスター、\nそんな一日の締め括りに、\nクイズに答えて頂けますか？\n\n# face %(unit_a)s \"sad\"\n# voice 530181 \"forcas_c_0031\"\n@フォルカス\n急な話で申し訳ありません\nただ、その…\n\n# face %(unit_a)s \"normal\"\n@フォルカス\n平穏な一日を\n爽やかな気持ちで\n終えたいのです\n\n# textflame 0 0\n@\n平穏で終われるかどうか…\nマスターは緊張感を覚えるのだった\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私の覚えるキャラクタースキルを\n知っていますか？\n\n# se \"SE_0734\"\n# select \"樹令『常闇の腕』\" \"select_label_1\" \"樹令『常闇の脚』\" \"select_label_2\" \"樹令『常闇の胸』\" \"select_label_3\"\n私の覚えるキャラクタースキルを\n知っていますか？\n"
+	},
+	{
+		"ID": 5701,
+		"unitID": 2301821,
+		"questionID": 29301829,
+		"script": ";;常闇の蒼印,1\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 530181 \"forcas_c_0002\"\n@フォルカス\nたまにはいいものですね\n\n@フォルカス\nこうしてなにもせず、\nただ一日を過ごすというのも\n\n@フォルカス\nそれだけで…\nとても楽しいものだと知りました\n\n# voice 530181 \"forcas_c_0001\"\n@フォルカス\nマスター、\nそんな一日の締め括りに、\nクイズに答えて頂けますか？\n\n# face %(unit_a)s \"sad\"\n# voice 530181 \"forcas_c_0031\"\n@フォルカス\n急な話で申し訳ありません\nただ、その…\n\n# face %(unit_a)s \"normal\"\n@フォルカス\n平穏な一日を\n爽やかな気持ちで\n終えたいのです\n\n# textflame 0 0\n@\n平穏で終われるかどうか…\nマスターは緊張感を覚えるのだった\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私が覚える強力なスキルは…？\n\n# se \"SE_0734\"\n# select \"常闇の蒼印\" \"select_label_1\" \"常闇の朱印\" \"select_label_2\" \"常闇の捺印\" \"select_label_3\"\n私が覚える強力なスキルは…？\n"
+	},
+	{
+		"ID": 5702,
+		"unitID": 2301821,
+		"questionID": 29301830,
+		"script": ";;反界障壁【常闇】,1\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 530181 \"forcas_c_0002\"\n@フォルカス\nたまにはいいものですね\n\n@フォルカス\nこうしてなにもせず、\nただ一日を過ごすというのも\n\n@フォルカス\nそれだけで…\nとても楽しいものだと知りました\n\n# voice 530181 \"forcas_c_0001\"\n@フォルカス\nマスター、\nそんな一日の締め括りに、\nクイズに答えて頂けますか？\n\n# face %(unit_a)s \"sad\"\n# voice 530181 \"forcas_c_0031\"\n@フォルカス\n急な話で申し訳ありません\nただ、その…\n\n# face %(unit_a)s \"normal\"\n@フォルカス\n平穏な一日を\n爽やかな気持ちで\n終えたいのです\n\n# textflame 0 0\n@\n平穏で終われるかどうか…\nマスターは緊張感を覚えるのだった\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私が覚える強力なスキルは…？\n\n# se \"SE_0734\"\n# select \"反界障壁【常闇】\" \"select_label_1\" \"反界障壁【常夏】\" \"select_label_2\" \"反界障壁【常滑】\" \"select_label_3\"\n私が覚える強力なスキルは…？\n"
+	},
+	{
+		"ID": 5703,
+		"unitID": 2301821,
+		"questionID": 29301831,
+		"script": ";;ガーネット,2\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 530181 \"forcas_c_0001\"\n@フォルカス\n今日はとても楽しかったです\n\n@フォルカス\nそれはバイブスの共鳴とか\nそういうものではなく…\n\n@フォルカス\n上手くは言えませんが、\n心が繋がれた気がするから\n\n# textflame 0 0\n@\n喜んでくれて嬉しいよ\nと、微笑むマスター\n\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 530181 \"forcas_c_0028\"\n@フォルカス\nただ、この繋がりが\nこれからも続くのか\n不安でもあります…\n\n# face %(unit_a)s \"usual\"\n# voice 530181 \"forcas_c_0002\"\n@フォルカス\nマスター、\n私達の絆を証明するため、\nクイズに答えてくれますか？\n\n@フォルカス\n行きますよ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私はパワーストーンが好きなんです\nでは、私の誕生石は？\n\n# se \"SE_0734\"\n# select \"サファイヤ\" \"select_label_1\" \"ガーネット\" \"select_label_2\" \"ダイヤモンド\" \"select_label_3\"\n私はパワーストーンが好きなんです\nでは、私の誕生石は？\n"
+	},
+	{
+		"ID": 5704,
+		"unitID": 2301821,
+		"questionID": 29301832,
+		"script": ";;January,3\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 530181 \"forcas_c_0001\"\n@フォルカス\n今日はとても楽しかったです\n\n@フォルカス\nそれはバイブスの共鳴とか\nそういうものではなく…\n\n@フォルカス\n上手くは言えませんが、\n心が繋がれた気がするから\n\n# textflame 0 0\n@\n喜んでくれて嬉しいよ\nと、微笑むマスター\n\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 530181 \"forcas_c_0028\"\n@フォルカス\nただ、この繋がりが\nこれからも続くのか\n不安でもあります…\n\n# face %(unit_a)s \"usual\"\n# voice 530181 \"forcas_c_0002\"\n@フォルカス\nマスター、\n私達の絆を証明するため、\nクイズに答えてくれますか？\n\n@フォルカス\n行きますよ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の誕生月を英語で言うと…？\n\n# se \"SE_0734\"\n# select \"June\" \"select_label_1\" \"September\" \"select_label_2\" \"January\" \"select_label_3\"\n私の誕生月を英語で言うと…？\n"
+	},
+	{
+		"ID": 5705,
+		"unitID": 2301821,
+		"questionID": 29301833,
+		"script": ";;ピルエット,1\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 530181 \"forcas_c_0001\"\n@フォルカス\n今日はとても楽しかったです\n\n@フォルカス\nそれはバイブスの共鳴とか\nそういうものではなく…\n\n@フォルカス\n上手くは言えませんが、\n心が繋がれた気がするから\n\n# textflame 0 0\n@\n喜んでくれて嬉しいよ\nと、微笑むマスター\n\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 530181 \"forcas_c_0028\"\n@フォルカス\nただ、この繋がりが\nこれからも続くのか\n不安でもあります…\n\n# face %(unit_a)s \"usual\"\n# voice 530181 \"forcas_c_0002\"\n@フォルカス\nマスター、\n私達の絆を証明するため、\nクイズに答えてくれますか？\n\n@フォルカス\n行きますよ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の趣味は乗馬なのですが、\n次のうち乗馬用語はどれですか？\n\n# se \"SE_0734\"\n# select \"ピルエット\" \"select_label_1\" \"ビールダイエット\" \"select_label_2\" \"マリオネット\" \"select_label_3\"\n私の趣味は乗馬なのですが、\n次のうち乗馬用語はどれですか？\n"
+	},
+	{
+		"ID": 5706,
+		"unitID": 2301821,
+		"questionID": 29301834,
+		"script": ";;ヴァジュラ,2\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 530181 \"forcas_c_0001\"\n@フォルカス\n今日はとても楽しかったです\n\n@フォルカス\nそれはバイブスの共鳴とか\nそういうものではなく…\n\n@フォルカス\n上手くは言えませんが、\n心が繋がれた気がするから\n\n# textflame 0 0\n@\n喜んでくれて嬉しいよ\nと、微笑むマスター\n\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 530181 \"forcas_c_0028\"\n@フォルカス\nただ、この繋がりが\nこれからも続くのか\n不安でもあります…\n\n# face %(unit_a)s \"usual\"\n# voice 530181 \"forcas_c_0002\"\n@フォルカス\nマスター、\n私達の絆を証明するため、\nクイズに答えてくれますか？\n\n@フォルカス\n行きますよ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私と誕生月が同じなのは\n誰かわかりますか？\n\n# se \"SE_0734\"\n# select \"シャルウル\" \"select_label_1\" \"ヴァジュラ\" \"select_label_2\" \"アスカロン\" \"select_label_3\"\n私と誕生月が同じなのは\n誰かわかりますか？\n"
+	},
+	{
+		"ID": 5707,
+		"unitID": 2301821,
+		"questionID": 29301835,
+		"script": ";;Aquarius,3\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 530181 \"forcas_c_0001\"\n@フォルカス\n今日はとても楽しかったです\n\n@フォルカス\nそれはバイブスの共鳴とか\nそういうものではなく…\n\n@フォルカス\n上手くは言えませんが、\n心が繋がれた気がするから\n\n# textflame 0 0\n@\n喜んでくれて嬉しいよ\nと、微笑むマスター\n\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 530181 \"forcas_c_0028\"\n@フォルカス\nただ、この繋がりが\nこれからも続くのか\n不安でもあります…\n\n# face %(unit_a)s \"usual\"\n# voice 530181 \"forcas_c_0002\"\n@フォルカス\nマスター、\n私達の絆を証明するため、\nクイズに答えてくれますか？\n\n@フォルカス\n行きますよ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の星座を英語で言うと？\n\n# se \"SE_0734\"\n# select \"Capricorn\" \"select_label_1\" \"Taurus\" \"select_label_2\" \"Aquarius\" \"select_label_3\"\n私の星座を英語で言うと？\n"
+	},
+	{
+		"ID": 5708,
+		"unitID": 2301821,
+		"questionID": 29301836,
+		"script": ";;あぶみ,3\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 530181 \"forcas_c_0001\"\n@フォルカス\n今日はとても楽しかったです\n\n@フォルカス\nそれはバイブスの共鳴とか\nそういうものではなく…\n\n@フォルカス\n上手くは言えませんが、\n心が繋がれた気がするから\n\n# textflame 0 0\n@\n喜んでくれて嬉しいよ\nと、微笑むマスター\n\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 530181 \"forcas_c_0028\"\n@フォルカス\nただ、この繋がりが\nこれからも続くのか\n不安でもあります…\n\n# face %(unit_a)s \"usual\"\n# voice 530181 \"forcas_c_0002\"\n@フォルカス\nマスター、\n私達の絆を証明するため、\nクイズに答えてくれますか？\n\n@フォルカス\n行きますよ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の趣味は乗馬なのですが、\n乗馬で使う「鐙」は何と読む？\n\n# se \"SE_0734\"\n# select \"ていてつ\" \"select_label_1\" \"ていせき\" \"select_label_2\" \"あぶみ\" \"select_label_3\"\n私の趣味は乗馬なのですが、\n乗馬で使う「鐙」は何と読む？\n"
+	},
+	{
+		"ID": 5709,
+		"unitID": 2301821,
+		"questionID": 29301837,
+		"script": ";;最も速い走り方,1\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 530181 \"forcas_c_0001\"\n@フォルカス\n今日はとても楽しかったです\n\n@フォルカス\nそれはバイブスの共鳴とか\nそういうものではなく…\n\n@フォルカス\n上手くは言えませんが、\n心が繋がれた気がするから\n\n# textflame 0 0\n@\n喜んでくれて嬉しいよ\nと、微笑むマスター\n\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 530181 \"forcas_c_0028\"\n@フォルカス\nただ、この繋がりが\nこれからも続くのか\n不安でもあります…\n\n# face %(unit_a)s \"usual\"\n# voice 530181 \"forcas_c_0002\"\n@フォルカス\nマスター、\n私達の絆を証明するため、\nクイズに答えてくれますか？\n\n@フォルカス\n行きますよ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の趣味の乗馬の用語で\n『GALLOP』はどんな走り方？\n\n# se \"SE_0734\"\n# select \"最も速い走り方\" \"select_label_1\" \"最も遅い走り方\" \"select_label_2\" \"最もリズミカルな走り方\" \"select_label_3\"\n私の趣味の乗馬の用語で\n『GALLOP』はどんな走り方？\n"
+	},
+	{
+		"ID": 5710,
+		"unitID": 2301821,
+		"questionID": 29301838,
+		"script": ";;グングニル,3\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 530181 \"forcas_c_0001\"\n@フォルカス\n今日はとても楽しかったです\n\n@フォルカス\nそれはバイブスの共鳴とか\nそういうものではなく…\n\n@フォルカス\n上手くは言えませんが、\n心が繋がれた気がするから\n\n# textflame 0 0\n@\n喜んでくれて嬉しいよ\nと、微笑むマスター\n\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 530181 \"forcas_c_0028\"\n@フォルカス\nただ、この繋がりが\nこれからも続くのか\n不安でもあります…\n\n# face %(unit_a)s \"usual\"\n# voice 530181 \"forcas_c_0002\"\n@フォルカス\nマスター、\n私達の絆を証明するため、\nクイズに答えてくれますか？\n\n@フォルカス\n行きますよ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私と同じ血液型なのは\n誰でしょうか？\n\n# se \"SE_0734\"\n# select \"ピナーカ\" \"select_label_1\" \"レーヴァテイン\" \"select_label_2\" \"グングニル\" \"select_label_3\"\n私と同じ血液型なのは\n誰でしょうか？\n"
+	},
+	{
+		"ID": 5711,
+		"unitID": 2301821,
+		"questionID": 29301839,
+		"script": ";;アダマス,1\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 530181 \"forcas_c_0001\"\n@フォルカス\n今日はとても楽しかったです\n\n@フォルカス\nそれはバイブスの共鳴とか\nそういうものではなく…\n\n@フォルカス\n上手くは言えませんが、\n心が繋がれた気がするから\n\n# textflame 0 0\n@\n喜んでくれて嬉しいよ\nと、微笑むマスター\n\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 530181 \"forcas_c_0028\"\n@フォルカス\nただ、この繋がりが\nこれからも続くのか\n不安でもあります…\n\n# face %(unit_a)s \"usual\"\n# voice 530181 \"forcas_c_0002\"\n@フォルカス\nマスター、\n私達の絆を証明するため、\nクイズに答えてくれますか？\n\n@フォルカス\n行きますよ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私と違う血液型なのは\n誰かわかりますか？\n\n# se \"SE_0734\"\n# select \"アダマス\" \"select_label_1\" \"マサムネ\" \"select_label_2\" \"与一\" \"select_label_3\"\n私と違う血液型なのは\n誰かわかりますか？\n"
+	},
+	{
+		"ID": 5712,
+		"unitID": 2301821,
+		"questionID": 29301840,
+		"script": ";;シタ,3\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 530181 \"forcas_c_0001\"\n@フォルカス\n今日はとても楽しかったです\n\n@フォルカス\nそれはバイブスの共鳴とか\nそういうものではなく…\n\n@フォルカス\n上手くは言えませんが、\n心が繋がれた気がするから\n\n# textflame 0 0\n@\n喜んでくれて嬉しいよ\nと、微笑むマスター\n\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 530181 \"forcas_c_0028\"\n@フォルカス\nただ、この繋がりが\nこれからも続くのか\n不安でもあります…\n\n# face %(unit_a)s \"usual\"\n# voice 530181 \"forcas_c_0002\"\n@フォルカス\nマスター、\n私達の絆を証明するため、\nクイズに答えてくれますか？\n\n@フォルカス\n行きますよ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私と違う誕生月なのは\n誰かわかりますか？\n\n# se \"SE_0734\"\n# select \"ヴァジュラ\" \"select_label_1\" \"グラム\" \"select_label_2\" \"シタ\" \"select_label_3\"\n私と違う誕生月なのは\n誰かわかりますか？\n"
+	},
+	{
+		"ID": 5713,
+		"unitID": 2301821,
+		"questionID": 29301841,
+		"script": "\n;;私,2\n# se \"SE_0734\"\n# select \"あたし\" \"select_label_1\" \"私\" \"select_label_2\" \"わし\" \"select_label_3\"\nフォルカスの一人称は\n次のうちどれ？\n"
+	},
+	{
+		"ID": 5714,
+		"unitID": 2301821,
+		"questionID": 29301842,
+		"script": "\n;;マスター,2\n# se \"SE_0734\"\n# select \"お殿様\" \"select_label_1\" \"マスター\" \"select_label_2\" \"キミ\" \"select_label_3\"\nフォルカスはあなたのこと、\nなんて呼んでる？\n"
+	},
+	{
+		"ID": 5715,
+		"unitID": 2301821,
+		"questionID": 29301843,
+		"script": "\n;;86cm,3\n# se \"SE_0734\"\n# select \"88cm\" \"select_label_1\" \"87cm\" \"select_label_2\" \"86cm\" \"select_label_3\"\nフォルカスの\nバストサイズがどのくらいか\nあなたは知ってるの？\n"
+	},
+	{
+		"ID": 5716,
+		"unitID": 2301821,
+		"questionID": 29301844,
+		"script": "\n;;57cm,2\n# se \"SE_0734\"\n# select \"56cm\" \"select_label_1\" \"57cm\" \"select_label_2\" \"60cm\" \"select_label_3\"\nフォルカスの\nウエストサイズがどのくらいか\nあなたは知ってるの？\n"
+	},
+	{
+		"ID": 5717,
+		"unitID": 2301821,
+		"questionID": 29301845,
+		"script": "\n;;83cm,1\n# se \"SE_0734\"\n# select \"83cm\" \"select_label_1\" \"90cm\" \"select_label_2\" \"85cm\" \"select_label_3\"\nフォルカスの\nヒップサイズがどのくらいか\nあなたは知ってるの？\n"
+	},
+	{
+		"ID": 5718,
+		"unitID": 2301821,
+		"questionID": 29301846,
+		"script": "\n;;51㎏,2\n# se \"SE_0734\"\n# select \"50kg\" \"select_label_1\" \"51㎏\" \"select_label_2\" \"45kg\" \"select_label_3\"\nフォルカスの体重は\n次のうちどれ？\n"
+	},
+	{
+		"ID": 5719,
+		"unitID": 2301821,
+		"questionID": 29301847,
+		"script": "\n;;226,1\n# se \"SE_0734\"\n# select \"226\" \"select_label_1\" \"230\" \"select_label_2\" \"236\" \"select_label_3\"\nフォルカスの\nバスト＋ウエスト＋ヒップは\nいくつかわかる？\n"
+	},
+	{
+		"ID": 5720,
+		"unitID": 2301821,
+		"questionID": 29301848,
+		"script": "\n;;黒っぽい,2\n# se \"SE_0734\"\n# select \"黄色いっぽい\" \"select_label_1\" \"黒っぽい\" \"select_label_2\" \"シルバー\" \"select_label_3\"\nフォルカスの髪の色は\n次のうちどれ？\n"
+	},
+	{
+		"ID": 5721,
+		"unitID": 2301821,
+		"questionID": 29301849,
+		"script": "\n;;参加していない,2\n# se \"SE_0734\"\n# select \"２位\" \"select_label_1\" \"参加していない\" \"select_label_2\" \"５位\" \"select_label_3\"\nフォルカスは\n第5回人気投票で\n何位だったでしょう？\n"
+	},
+	{
+		"ID": 5722,
+		"unitID": 2301821,
+		"questionID": 29301850,
+		"script": "\n;;清都ありさ,2\n# se \"SE_0734\"\n# select \"ゆかな\" \"select_label_1\" \"清都ありさ\" \"select_label_2\" \"大久保瑠美\" \"select_label_3\"\nフォルカスの声優は誰？\n"
+	}
+]

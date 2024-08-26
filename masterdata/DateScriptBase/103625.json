@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 103625,
+		"script": ";;でも、誰かを笑顔にできる,\n;;でも、記憶には残る,\n;;でも、熱さはある,\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_fireworks\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 0 0\n# face %(unit_a)s \"usual\"\n@\nラグナロクを誘って\n花火を見ることにした\nマスター\n\n@\nどんどん上がっていく\n花火の色彩に\nラグナロクの横顔も染まっていく\n\n# eye %(unit_a)s \"close\"\n# textflame 1 1\n# voice 1036 \"ragnarok_0003\"\n@ラグナロク\n美しいね…\nでも、どこか寂しくもある\n\n# eye %(unit_a)s \"normal\"\n# textflame 0 0\n@\n寂しい？どうして？\nマスターは尋ねる\n\n# textflame 1 1\n@ラグナロク\nだってそうでしょ？\n一瞬だけしか咲き誇れない\n儚い花なんだから…\n\n# textflame 1 1\n@ラグナロク\nこの物悲しさは\n誰かに裏切られた後に\n似ている気もするよ\n\n# textflame 0 0\n@\nでも、熱さはある\n\n# face %(unit_a)s \"sad\"\n# voice 1036 \"ragnarok_0022\"\n# textflame 1 1\n@ラグナロク\n熱さがある…？\n\n# face %(unit_a)s \"usual\"\n@ラグナロク\nなるほど\n花火はただの花じゃない…\n火だから、熱さはあるわね\n\n# voice 1036 \"ragnarok_0030\"\n@ラグナロク\nありがとう\nあなたが励ましてくれた\nそれだけで嬉しいよ\n\n# textflame 0 0\n@\nフォローしたつもりが\n逆にフォローされてしまった…\n\n# textflame 0 0\n@\n励まし方を間違えた…\n反省で頭がいっぱいになり\n残りの花火を楽しめなかった…\n;;----------------------------------------\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

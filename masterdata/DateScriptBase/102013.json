@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 102013,
+		"script": ";;B\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_ferris\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# eye %(unit_a)s \"close\"\n# voice 1020 \"sayaka_0003\"\n@%(unitName:unit_a)s\nパレードかぁ\nいいね！\n\n@%(unitName:unit_a)s\n今日遊んだアトラクション、\n体力使うやつばっかりだったし\n\n# eye %(unit_a)s \"normal\"\n# voice 1020 \"sayaka_0003\"\n@%(unitName:unit_a)s\n夜ご飯でも食べながら\nゆっくり眺めよっか\n\n# voice 1020 \"sayaka_0002\"\n@%(unitName:unit_a)s\nあ、そうそう！\n私、気になってる\n屋台があってさ\n\n@%(unitName:unit_a)s\nほらこれ！おいしそうでしょ？\nこっちの屋台もいいんだよね\n両方行っちゃう？よし、決定！\n\n# face %(unit_a)s \"shy\"\n# voice 1020 \"sayaka_0004\"\n@%(unitName:unit_a)s\nあはは、初めて来たのに\nちょっと欲張りすぎかな？\n\n# face %(unit_a)s \"usual\"\n@%(unitName:unit_a)s\nまあせっかくの機会だし\n楽しまなきゃ損だよね！\n\n# textflame 0 0\n@\n異世界のテーマパークに、\nすっかりはしゃいでいる\n様子のさやか\n\n@\nマスターもテンションを上げ、\nさやかと共に隅々まで\n遊園地を楽しむのだった…\n\n;;-----------------------------------------\n# waitandnext 2\n# fadeout \"black\" 1.2\n"
+	}
+]

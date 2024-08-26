@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 303223,
+		"script": ";;中B君の話がもっと聞きたい\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_room\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# voice 230321 \"gaedearg_ge_0028\"\n# face %(unit_a)s \"sad\"\n@ガ・ジャルグ\nえっ、そうなの…？\nま、まあ\n仕方ないわねっ\n\n@ガ・ジャルグ\n至高の存在であるわたしを\nもっと知りたいと思うのは\n当然のことよ！\n\n# voice 230321 \"gaedearg_ge_0004\"\n# face %(unit_a)s \"normal\"\n@ガ・ジャルグ\n一晩中…\n話をしてあげても\n構わないのよ？\n\n@ガ・ジャルグ\n…え？\nまさか、いいって言うと\n思わなかった？\n\n# voice 230321 \"gaedearg_ge_0007\"\n# face %(unit_a)s \"angry\"\n@ガ・ジャルグ\nなによ、人がせっかく…\nもういいっ、\nわたしは部屋に戻る！\n\n@ガ・ジャルグ\nついてくるなら\n勝手にすればっ…！\n\n# textflame 0 0\n@\n早足のガ・ジャルグを追いかけ\n横に並んで歩くマスター\n\n# textflame 0 0\n@\n二人はそのまま\nガ・ジャルグの部屋へといき\n朝になるまで話すのだった…\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

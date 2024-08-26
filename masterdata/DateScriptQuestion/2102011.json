@@ -1,0 +1,62 @@
+[
+	{
+		"ID": 6123,
+		"unitID": 2102011,
+		"questionID": 9102001,
+		"script": ";;剣,1\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 1020 \"sayaka_0002\"\n@%(unitName:unit_a)s\nねぇ、教えてよ\n\n@%(unitName:unit_a)s\nこの夏で、マスターが絶対\nやっておきたいことってあるの？\n\n# textflame 0 0\n@\nみんなが楽しければ\nそれでいいかな、と\n答えるマスター\n\n# textflame 1 1\n# voice 1020 \"sayaka_0039\"\n@%(unitName:unit_a)s\nふーん\nマスターらしいね\n\n# textflame 0 0\n@\nそう言う君は？\nと、マスターが彼女に尋ね返す\n\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 1020 \"sayaka_0022\"\n@%(unitName:unit_a)s\nえ？わ、私…？\n\n# face %(unit_a)s \"shy\"\n# voice 1020 \"sayaka_0028\"\n@%(unitName:unit_a)s\nう～ん、頭には浮かんでんだけど…\n\n@%(unitName:unit_a)s\n照れ臭いからさ！\nクイズに答えられたら、\n教えてあげるよ！\n\n# face %(unit_a)s \"normal\"\n@%(unitName:unit_a)s\nいい！？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の武器はなーんだ？　\n\n# se \"SE_0734\"\n# select \"剣\" \"select_label_1\" \"銃\" \"select_label_2\" \"弓\" \"select_label_3\"\n私の武器はなーんだ？　\n"
+	},
+	{
+		"ID": 6124,
+		"unitID": 2102011,
+		"questionID": 9102002,
+		"script": ";;水色,3\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 1020 \"sayaka_0002\"\n@%(unitName:unit_a)s\nねぇ、教えてよ\n\n@%(unitName:unit_a)s\nこの夏で、マスターが絶対\nやっておきたいことってあるの？\n\n# textflame 0 0\n@\nみんなが楽しければ\nそれでいいかな、と\n答えるマスター\n\n# textflame 1 1\n# voice 1020 \"sayaka_0039\"\n@%(unitName:unit_a)s\nふーん\nマスターらしいね\n\n# textflame 0 0\n@\nそう言う君は？\nと、マスターが彼女に尋ね返す\n\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 1020 \"sayaka_0022\"\n@%(unitName:unit_a)s\nえ？わ、私…？\n\n# face %(unit_a)s \"shy\"\n# voice 1020 \"sayaka_0028\"\n@%(unitName:unit_a)s\nう～ん、頭には浮かんでんだけど…\n\n@%(unitName:unit_a)s\n照れ臭いからさ！\nクイズに答えられたら、\n教えてあげるよ！\n\n# face %(unit_a)s \"normal\"\n@%(unitName:unit_a)s\nいい！？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私のソウルジェムの色は\nわかる？\n\n# se \"SE_0734\"\n# select \"赤色\" \"select_label_1\" \"黄色\" \"select_label_2\" \"水色\" \"select_label_3\"\n私のソウルジェムの色は\nわかる？\n"
+	},
+	{
+		"ID": 6125,
+		"unitID": 2102011,
+		"questionID": 9102003,
+		"script": ";;氷,1\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n@%(unitName:unit_a)s\n綺麗な夕日…\n\n@%(unitName:unit_a)s\nこうして夕日を見てると\n昔、よく聴いていた曲を\n思い出すんだ\n\n# textflame 0 0\n@\nどんな曲なの？\nと、尋ねるマスターに…\n\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 1020 \"sayaka_0003\"\n@%(unitName:unit_a)s\n少し物悲しい感じなんだけど、\nとっても澄んだメロディーでさ\n\n@%(unitName:unit_a)s\n気に入って、\n何度も聞いてたんだよね\n\n# textflame 0 0\n@\n夏の夕陽を遠い目で眺める彼女\nそこでマスターは\nちょっと口ずさんでみてよ、と言う\n\n# textflame 1 1\n# face %(unit_a)s \"angry\"\n# voice 1020 \"sayaka_0022\"\n@%(unitName:unit_a)s\nええ！\n今？　\nうーん…どうしようかな…\n\n# voice 1020 \"sayaka_0002\"\n@%(unitName:unit_a)s\nそ、そんなことより、マスター！\n今日一日、私と話したこと\nちゃんと覚えてる？\n\n@%(unitName:unit_a)s\nホントに？\n\n@%(unitName:unit_a)s\nじゃあ、今からクイズを\n出題して試すからね！\nいくよ！？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の属性はどれでしょう？\n\n# se \"SE_0734\"\n# select \"氷\" \"select_label_1\" \"風\" \"select_label_2\" \"雷\" \"select_label_3\"\n私の属性はどれでしょう？\n"
+	},
+	{
+		"ID": 6126,
+		"unitID": 2102011,
+		"questionID": 9102004,
+		"script": ";;上条恭介,3\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n@%(unitName:unit_a)s\n綺麗な夕日…\n\n@%(unitName:unit_a)s\nこうして夕日を見てると\n昔、よく聴いていた曲を\n思い出すんだ\n\n# textflame 0 0\n@\nどんな曲なの？\nと、尋ねるマスターに…\n\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 1020 \"sayaka_0003\"\n@%(unitName:unit_a)s\n少し物悲しい感じなんだけど、\nとっても澄んだメロディーでさ\n\n@%(unitName:unit_a)s\n気に入って、\n何度も聞いてたんだよね\n\n# textflame 0 0\n@\n夏の夕陽を遠い目で眺める彼女\nそこでマスターは\nちょっと口ずさんでみてよ、と言う\n\n# textflame 1 1\n# face %(unit_a)s \"angry\"\n# voice 1020 \"sayaka_0022\"\n@%(unitName:unit_a)s\nええ！\n今？　\nうーん…どうしようかな…\n\n# voice 1020 \"sayaka_0002\"\n@%(unitName:unit_a)s\nそ、そんなことより、マスター！\n今日一日、私と話したこと\nちゃんと覚えてる？\n\n@%(unitName:unit_a)s\nホントに？\n\n@%(unitName:unit_a)s\nじゃあ、今からクイズを\n出題して試すからね！\nいくよ！？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の幼馴染は誰かわかる？\n\n# se \"SE_0734\"\n# select \"下条恭介\" \"select_label_1\" \"中条恭介\" \"select_label_2\" \"上条恭介\" \"select_label_3\"\n私の幼馴染は誰かわかる？\n"
+	},
+	{
+		"ID": 6127,
+		"unitID": 2102011,
+		"questionID": 9102005,
+		"script": ";;恭介の腕が治ること,1\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 1020 \"sayaka_0002\"\n@%(unitName:unit_a)s\n今日はマスターに\n言いたいことがあるんだ\n\n@%(unitName:unit_a)s\nこっちの世界に来て、\n不安なことも多かったし…\n\n@%(unitName:unit_a)s\n私が戦っていけるのかも、\n疑問だったけど…\n\n# face %(unit_a)s \"usual\"\n# voice 1020 \"sayaka_0004\"\n@%(unitName:unit_a)s\nマスターのおかげで、\nなんとか今日までやってこられたよ\n\n@%(unitName:unit_a)s\nそれに、こんな楽しい\n夏の思い出まで出来てさ\n\n# face %(unit_a)s \"shy\"\n@%(unitName:unit_a)s\nそ、それで感謝の気持ちって\nわけじゃないけど…\n\n# face %(unit_a)s \"usual\"\n@%(unitName:unit_a)s\n今から、このさやかちゃんが\nクイズを出すから！\n準備はいい！？\n\n# textflame 0 0\n@\nなんで感謝の気持ちがクイズ…？\nそう思う間もなく、\n彼女の問題が飛んできた\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私のソウルジェムに\n込められた願いは？\n\n# se \"SE_0734\"\n# select \"恭介の腕が治ること\" \"select_label_1\" \"ドーナツを食べること\" \"select_label_2\" \"父の形見を直すこと\" \"select_label_3\"\n私のソウルジェムに\n込められた願いは？\n"
+	},
+	{
+		"ID": 6128,
+		"unitID": 2102011,
+		"questionID": 9102006,
+		"script": ";;バイオリン,3\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 1020 \"sayaka_0002\"\n@%(unitName:unit_a)s\n今日はマスターに\n言いたいことがあるんだ\n\n@%(unitName:unit_a)s\nこっちの世界に来て、\n不安なことも多かったし…\n\n@%(unitName:unit_a)s\n私が戦っていけるのかも、\n疑問だったけど…\n\n# face %(unit_a)s \"usual\"\n# voice 1020 \"sayaka_0004\"\n@%(unitName:unit_a)s\nマスターのおかげで、\nなんとか今日までやってこられたよ\n\n@%(unitName:unit_a)s\nそれに、こんな楽しい\n夏の思い出まで出来てさ\n\n# face %(unit_a)s \"shy\"\n@%(unitName:unit_a)s\nそ、それで感謝の気持ちって\nわけじゃないけど…\n\n# face %(unit_a)s \"usual\"\n@%(unitName:unit_a)s\n今から、このさやかちゃんが\nクイズを出すから！\n準備はいい！？\n\n# textflame 0 0\n@\nなんで感謝の気持ちがクイズ…？\nそう思う間もなく、\n彼女の問題が飛んできた\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私の幼馴染の恭介は\nどんな楽器が得意？\n\n# se \"SE_0734\"\n# select \"チェロ\" \"select_label_1\" \"トランペット\" \"select_label_2\" \"バイオリン\" \"select_label_3\"\n私の幼馴染の恭介は\nどんな楽器が得意？\n"
+	},
+	{
+		"ID": 6129,
+		"unitID": 2102011,
+		"questionID": 9102007,
+		"script": ";;水色,1\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 1020 \"sayaka_0030\"\n@%(unitName:unit_a)s\n今日はとても楽しかったよ\n\n@%(unitName:unit_a)s\nほんと…マスターといると\n楽しくて、一日が短く感じるよ\n\n# face %(unit_a)s \"usual\"\n# voice 1020 \"sayaka_0030\"\n@%(unitName:unit_a)s\n…ねぇ、マスター\n今日の最後にもう一つだけ\n楽しい思い出、作りたいな\n\n@%(unitName:unit_a)s\n今から私が出すクイズに\n正解してみせてよ\n\n@%(unitName:unit_a)s\n準備はいい？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の髪の色は…？\n\n# se \"SE_0734\"\n# select \"水色\" \"select_label_1\" \"赤色\" \"select_label_2\" \"黄色\" \"select_label_3\"\n私の髪の色は…？\n"
+	},
+	{
+		"ID": 6130,
+		"unitID": 2102011,
+		"questionID": 9102008,
+		"script": ";;見滝原中学校,3\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 1020 \"sayaka_0030\"\n@%(unitName:unit_a)s\n今日はとても楽しかったよ\n\n@%(unitName:unit_a)s\nほんと…マスターといると\n楽しくて、一日が短く感じるよ\n\n# face %(unit_a)s \"usual\"\n# voice 1020 \"sayaka_0030\"\n@%(unitName:unit_a)s\n…ねぇ、マスター\n今日の最後にもう一つだけ\n楽しい思い出、作りたいな\n\n@%(unitName:unit_a)s\n今から私が出すクイズに\n正解してみせてよ\n\n@%(unitName:unit_a)s\n準備はいい？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の中学校はわかるよね？\n\n# se \"SE_0734\"\n# select \"小滝原中学校\" \"select_label_1\" \"小田原中学校\" \"select_label_2\" \"見滝原中学校\" \"select_label_3\"\n私の中学校はわかるよね？\n"
+	},
+	{
+		"ID": 6131,
+		"unitID": 2102011,
+		"questionID": 9102009,
+		"script": "\n;;私,1\n# se \"SE_0734\"\n# select \"私\" \"select_label_1\" \"オレ\" \"select_label_2\" \"ボク\" \"select_label_3\"\n美樹さやかの一人称は\n次のうちどれ？\n"
+	},
+	{
+		"ID": 6132,
+		"unitID": 2102011,
+		"questionID": 9102010,
+		"script": "\n;;喜多村英梨,3\n# se \"SE_0734\"\n# select \"斎藤千和\" \"select_label_1\" \"悠木碧\" \"select_label_2\" \"喜多村英梨\" \"select_label_3\"\n美樹さやかの声優は誰？\n"
+	}
+]

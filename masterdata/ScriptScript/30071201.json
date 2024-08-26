@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 30071201,
+		"script": "# script \"lisp\"\n# background \"highland\"\n# bgm \"bgm003\" 0\n# body 300712\n# mask 300712 off\n# pos 300712 3\n# textboxarrow 0 2\n# chara 300712\n# voice 3007 \"gaiborugu_kyara_1011\"\n@ゲイボルグ\n…なんだ？なにか用でもあるのか？\n\n# chara 300712\n@ゲイボルグ\n…なに？\nなぜ、戦いに参加しなかったか\n…だと？\n\n# face 300712 \"angry\"\n# voice 3007 \"gaiborugu_0027\"\n# chara 300712\n@ゲイボルグ\n私は…決めている\n私が動くのは…\n“しかるべき時”だけだと\n\n# chara 300712\n@ゲイボルグ\nさっきは、\nその“しかるべき時”では\nなかったという事だ\n\n# textflame 0 0\n@\n彼女はキラープリンセスにしては\n珍しく、滅多に戦闘に姿を見せない\n\n# face 300712 \"normal\"\n# textflame 1 0\n# chara 300712\n@ゲイボルグ\n仲間がピンチになるかも\n知れないのに…\nそう言いたいのか？\n\n# voice 3007 \"gaiborugu_0004\"\n# chara 300712\n@ゲイボルグ\n私は、ただ合理的に動きたいだけだ\n無駄な事は一切したくない\n\n# chara 300712\n@ゲイボルグ\nあの程度の数の異族、\n私の助力無しでも勝てるだろう？\n\n# chara 300712\n@ゲイボルグ\n貴様もマスターを名乗る以上、\nその程度の強さは\n持ってもらわなくては困る\n\n# face 300712 \"angry\"\n# voice 3007 \"gaiborugu_0011\"\n# chara 300712\n@ゲイボルグ\n言い争う気はない\nそんなのは…\n\n# chara 300712\n@ゲイボルグ\n時間の無駄だ\n\n# textflame 0 0\n@\nそう冷静に言い放ち、\n去っていくゲイボルグ\n\n# textflame 0 0\n@\nその心の奥は、\nいつもまるで見えない…"
+	}
+]

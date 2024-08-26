@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 92001499,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# voice 2001 \"myuruniru_0005\"\n# se \"SE_0732\"\n@ミョルニル\nつながってたねぇ…！\n\n# voice 2001 \"myuruniru_0003\"\n# face %(unit_a)s \"normal\"\n# textflame 1 1\n@ミョルニル\nわかるよねマスタ…\nここだよ、ここ！\n\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@ミョルニル\nミョルニルちゃんのここに…\nマスタがいるの…\n\n# voice 2001 \"myuruniru_0004\"\n# textflame 1 1\n@ミョルニル\nマスタのここにも\nミョルニルちゃんが\nいるんだね…♪\n\n# textflame 0 0\n@\n彼女は照れながら\n無邪気な笑顔を見せてくれた\n\n# textflame 0 0\n@\n特別な笑顔が見れて\n彼女との絆が\nさらに深まったのを実感した…\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

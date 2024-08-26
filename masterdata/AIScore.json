@@ -1,0 +1,194 @@
+[
+	{
+		"ID": 1,
+		"name": "attack",
+		"exp": "IF(own_attack>=0.9,1, IF(own_attack >= 0.5, 0.95,IF(own_attack >= 0.1 , 0.7,0.5)))",
+		"var1": 1.0,
+		"var2": -1.0,
+		"var3": -1.0
+	},
+	{
+		"ID": 2,
+		"name": "attack",
+		"exp": "IF(own_hit<=0.2,0.3,IF(own_hit<=0.5,own_hit-0.2,IF(own_hit<=0.75,own_hit+0.15,IF(own_hit<=0.99,own_hit,1))))",
+		"var1": -1.0,
+		"var2": -1.0,
+		"var3": -1.0
+	},
+	{
+		"ID": 3,
+		"name": "attack",
+		"exp": "IF(target_attack<=0,1,1-target_attack*0.5)",
+		"var1": -1.0,
+		"var2": -1.0,
+		"var3": -1.0
+	},
+	{
+		"ID": 4,
+		"name": "attack",
+		"exp": "IF(target_buster=1,IF(target_hit<0.3,1,IF(target_hit<0.75,0.95-target_hit,0.2)),IF(target_hit<0.3,1,IF(target_hit<0.5,target_hit+0.1,IF(target_hit<0.85,target_hit+0.15,0.1))))",
+		"var1": -1.0,
+		"var2": -1.0,
+		"var3": -1.0
+	},
+	{
+		"ID": 5,
+		"name": "attack",
+		"exp": "1 - own_magic_cost",
+		"var1": -1.0,
+		"var2": -1.0,
+		"var3": -1.0
+	},
+	{
+		"ID": 6,
+		"name": "attack",
+		"exp": "IF(own_buster=1, 5, 1)",
+		"var1": -1.0,
+		"var2": -1.0,
+		"var3": -1.0
+	},
+	{
+		"ID": 7,
+		"name": "attack",
+		"exp": "IF(target_rarity<2.5,0.7,IF(target_rarity<3.5,0.8,IF(target_rarity<4.5,0.9,1)))",
+		"var1": -1.0,
+		"var2": -1.0,
+		"var3": -1.0
+	},
+	{
+		"ID": 8,
+		"name": "attack",
+		"exp": "IF(sum_enemy < 2, 1, IF(sum_enemy < 3, 0.9, IF(sum_enemy <4, 0.8, 0.7)))",
+		"var1": -1.0,
+		"var2": -1.0,
+		"var3": -1.0
+	},
+	{
+		"ID": 9,
+		"name": "attack",
+		"exp": "IF(target_skill.300000084 > 0,0, IF(target_skill.300000086 > 0,200, IF(target_skill.500000601 + target_skill.500000602 + target_skill.500000603 + target_skill.500000701 + target_skill.500000702 + target_skill.500000703 + target_skill.500000101 + target_skill.500000102 + target_skill.500000103 > 0, 1, 0.9)))",
+		"var1": -1.0,
+		"var2": -1.0,
+		"var3": -1.0
+	},
+	{
+		"ID": 10,
+		"name": "attack",
+		"exp": "IF(target_move_type=6,1,0.95)",
+		"var1": -1.0,
+		"var2": -1.0,
+		"var3": -1.0
+	},
+	{
+		"ID": 11,
+		"name": "attack",
+		"exp": "IF(own_critical<0.3, 0.8, 1)",
+		"var1": -1.0,
+		"var2": -1.0,
+		"var3": -1.0
+	},
+	{
+		"ID": 12,
+		"name": "attack",
+		"exp": "IF(target_leader_skill>0, 1, IF(target_skill_level >= 3, 1, 0.9))",
+		"var1": -1.0,
+		"var2": -1.0,
+		"var3": -1.0
+	},
+	{
+		"ID": 13,
+		"name": "attack",
+		"exp": "VAR1",
+		"var1": 1.0,
+		"var2": -1.0,
+		"var3": -1.0
+	},
+	{
+		"ID": 14,
+		"name": "move",
+		"exp": "IF(panel_phisics<1, 0.901, IF(panel_phisics<2, 0.902, IF(panel_phisics<3, 0.903, 0.904)))",
+		"var1": -1.0,
+		"var2": -1.0,
+		"var3": -1.0
+	},
+	{
+		"ID": 15,
+		"name": "move",
+		"exp": "IF(panel_magic<1, 0.901, IF(panel_magic<2, 0.902, IF(panel_magic<3, 0.903, 0.904)))",
+		"var1": -1.0,
+		"var2": -1.0,
+		"var3": -1.0
+	},
+	{
+		"ID": 16,
+		"name": "move",
+		"exp": "IF(panel_eva<1, 0.901, IF(panel_eva<2, 0.902, IF(panel_eva<3, 0.903, 0.904)))",
+		"var1": -1.0,
+		"var2": -1.0,
+		"var3": -1.0
+	},
+	{
+		"ID": 17,
+		"name": "move",
+		"exp": "IF(panel_heal<0.1, 0.901, IF(panel_heal<0.2, 0.902, IF(panel_heal<0.3, 0.903, 0.905)))",
+		"var1": -1.0,
+		"var2": -1.0,
+		"var3": -1.0
+	},
+	{
+		"ID": 18,
+		"name": "move",
+		"exp": "IF(own_hp<0.3, 0.4, IF(own_hp < 0.6, 0.6, IF(own_hp < 0.9, 0.8, 1)))",
+		"var1": -1.0,
+		"var2": -1.0,
+		"var3": -1.0
+	},
+	{
+		"ID": 19,
+		"name": "move",
+		"exp": "IF(panel_own_skill.500000701+ panel_own_skill.500000702 + panel_own_skill.500000703 > 0, IF(own_hp<0.3,1,IF(own_hp<0.6,0.9,IF(own_hp<0.8,0.85,0.8))), 0.1)",
+		"var1": -1.0,
+		"var2": -1.0,
+		"var3": -1.0
+	},
+	{
+		"ID": 20,
+		"name": "move",
+		"exp": "IF(panel_own_hp >= 1, 2, 0.7)",
+		"var1": -1.0,
+		"var2": -1.0,
+		"var3": -1.0
+	},
+	{
+		"ID": 21,
+		"name": "move",
+		"exp": "IF(own_team_can_attacked = 1, 1, IF(turn >= 7, 1, IF(panel_danger=1, 1, 1)))",
+		"var1": -1.0,
+		"var2": -1.0,
+		"var3": -1.0
+	},
+	{
+		"ID": 22,
+		"name": "move",
+		"exp": "IF((1 - panel_enemy_distance * 0.03) > 0, (1 - panel_enemy_distance * 0.03), 1)",
+		"var1": -1.0,
+		"var2": -1.0,
+		"var3": -1.0
+	},
+	{
+		"ID": 23,
+		"name": "move",
+		"exp": "VAR1",
+		"var1": 1.0,
+		"var2": -1.0,
+		"var3": -1.0
+	},
+	{
+		"ID": 24,
+		"name": "heal",
+		"exp": "IF(target_hp<0.3, 10, IF(target_hp<0.6, 5, IF(target_hp<0.85, 2, 0)))",
+		"var1": -1.0,
+		"var2": -1.0,
+		"var3": -1.0
+	}
+]

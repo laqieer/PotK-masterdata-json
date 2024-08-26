@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 93002398,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# se \"SE_0733\"\n# face %(unit_a)s \"angry\"\n# voice 3002 \"toraidento_0013\"\n@トライデント\nぶっぶー！\nハズレ！\n\n# face %(unit_a)s \"sad\"\n@トライデント\nえ、えぇっとぉ…\nそんなに気を\n落とす必要はないと思うよ？\n\n@トライデント\n大丈夫、ちょっと間違ったくらい、\nトライデントは気にしないから\n\n@トライデント\nこれくらいで、\nマスターへの信頼が\nなくなるなんてことはあり得ないし…\n\n@トライデント\nむしろそんな風に落ち込まれる方が、\n私は嫌かなぁ…とか思っちゃうよ\n\n# voice 3002 \"toraidento_0008\"\n# face %(unit_a)s \"normal\"\n@トライデント\nそうだ、ダイビングすれば、\n気分もさっぱりするよ！\n\n@トライデント\nそして、すっきりして、\n今度は正解してくれれば、\n私は嬉しいよ\n\n# textflame 0 0\n@\nマスターが間違えたにも関わらず、\n彼女は笑顔を絶やさなかった\n\n@\nその明るさを見習いたいと思いつつ、\n彼女の出すクイズに、\nリベンジを誓うマスターであった\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

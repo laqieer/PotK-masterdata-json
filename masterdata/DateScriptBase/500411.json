@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 500411,
+		"script": ";;やっぱり怖い？,小\n;;意外と可愛いところある,中\n;;こっちに来なよ,大\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_hauntedhouse\"\n# bgmfile \"bgm257\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 0 0\n# face %(unit_a)s \"usual\"\n@\n今日のデートは\nブラフマーストラの希望で\n遊園地のホラーハウスに来ていた\n\n# voice 5004 \"burafumasutora_0028\"\n# textflame 1 1\n@ブラフマーストラ\nたしかに\nホラーハウス自体は\nこう暗いけどさ\n\n# textflame 1 1\n@ブラフマーストラ\nそのなかでやることって\nこう全力で驚かせたり\n怖がらせたり\n\n# textflame 1 1\n@ブラフマーストラ\nインパクト勝負なところがね\n結構、気に入ってるんだー\n;;----------------------------------------\n\n# voice 5004 \"burafumasutora_0024\"\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@%(unitName:unit_a)s\nひゃっ！？\n首筋になにか来た！\n\n# select \"やっぱり怖い？\" \"select_label_01\" \"意外と可愛いところある\" \"select_label_02\" \"こっちに来なよ\" \"select_label_03\"\nひゃっ！？\n首筋になにか来た！\n\n# label \"select_label_01\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_02\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_03\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_end\"\n# waitandnext 0.1\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

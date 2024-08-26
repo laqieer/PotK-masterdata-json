@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 500122,
+		"script": ";;選択肢C(大当たり)\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_drive\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# voice 5001 \"keraunosu_0004\"\n@ケラウノス\nお～っとぉ！\n……そうきたか\n\n# textflame 0 0\n@\n急にケラウノスは\n静かになった…\n\n# textflame 1 1\n@ケラウノス\nそれってつまり…\n\n@ケラウノス\n人がいるところに行くと…\n\n# face %(unit_a)s \"sad\"\n@ケラウノス\n私がすぐナンパしはじめたり\nあっちこっち行っちゃうから\nそれがイヤってこと？\n\n# textflame 0 0\n@\nマスターは無言だった\nそう、無言の抗議である\n\n# face %(unit_a)s \"normal\"\n# textflame 1 1\n@ケラウノス\nなるほどね…\n\n# voice 5001 \"keraunosu_0004\"\n# face %(unit_a)s \"smile\"\n@ケラウノス\nそれで今日は\nさらわれちゃったわけか！\n参りましたぁ～！\n\n# textflame 0 0\n@\nいつものように\n明るくおどけたかと思うと\n耳元で囁かれる\n\n# textflame 1 1\n@ケラウノス\n…今日は君の言うこと\nちゃんと聞くよ\n\n# textflame 0 0\n@\nちらりと見た助手席のケラウノスは\n微笑みながらしっかりと\nマスターだけを見つめていた――\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

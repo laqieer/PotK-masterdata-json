@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 251003033,
+		"script": ";;-----------------------------------------\n;;サイコパス3_3\n;;-----------------------------------------\n# script \"lisp\"\n# background \"forest\"\n# bgmfile \"bgm049\" \"BgmPPcollabo001\" 0\n;;-----------------------------------------\n# body 501011\n# pos 501011 4\n# scale 501011 0.8 0\n# layer 501011 3\n# alpha 501011 1 0\n# face 501011 \"happy\"\n# body 5300141\n# pos 5300141 2\n# scale 5300141 0.8 0\n# layer 5300141 4\n# alpha 5300141 1 0\n;;-----------------------------------------\n# imageset 0 \"e210215_logo\"\n# imagealpha 0 0 0\n# imagelayer 0 1\n;;-----------------------------------------\n# textwindow \"close\"\n# fadein \"black\" 0.5\n# waitandnext 0.5\n\n# textflame 1 1\n# textwindow \"nomal\"\n# textboxarrow 0 3\n# voice 5010 \"akane_0041\"\n@常守朱\nロンギヌスさん、完璧です！\n\n# textflame 1 1\n# textboxarrow 0 1\n# face 5300141 \"happy\"\n# voice 30018 \"ronginusu_k_0030\"\n@ロンギヌス\nふふ…\nありがとうございます\n\n# fadeout \"black\" 1\n# bgm \"stop\"\n# waitandnext 1.5\n\n# se \"SE_0996\"\n# background \"bg_black\"\n# textwindow \"close\"\n# alpha 501011 0 0\n# alpha 5300141 0 0\n# fadein \"white\" 0.5\n# imagealpha 0 1 0\n# imagepos 0 0 0\n\n# fadeout \"black\" 1\n# waitandnext 1"
+	}
+]

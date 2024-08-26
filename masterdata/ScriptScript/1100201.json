@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 1100201,
+		"script": "# script \"lisp\"\n# background \"multi\"\n# bgmfile \"bgm263\" \"BgmLostRagnarok001\" 0\n# body 135\n# alpha 135 0 0\n# pos 135 3\n# scale 135 0.8 0\n# imageset 0 \"P0_001\"\n# imagealpha 0 0 0\n# imagelayer 0 1\n# imageset 1 \"P0_005\"\n# imagealpha 1 0 0\n# imagelayer 1 2\n# imagescale 1 1.2 0\n# serif 0\n# textwindow \"normal\"\n# textboxarrow 0 0\n# chara 135\n@オベロン\n神は天上世界で選民による\n理想郷の建国に勤しみ、\n\n# imagealpha 0 1 1\n# imagepos 0 0 30\n# imagepos 1 0 -50\n# textboxarrow 0 0\n# chara 135\n@オベロン\n悪魔は地上で\n弱肉強食の世界を具現化させた\n\n# imagealpha 1 1 1\n# textboxarrow 0 0\n# chara 135\n@オベロン\n地上の人類は\n強大な力を持つ悪魔に対抗するため、\n\n# background \"aerial_shoot\"\n# imagealpha 0 0 0\n# textboxarrow 0 0\n# chara 135\n@オベロン\n伝説の武具の力\n「キラーズ」を宿す娘達を\n天上世界に送る\n\n# imagealpha 1 0 1\n# textboxarrow 0 0\n# chara 135\n@オベロン\n彼女達は神々に奪われていた\n伝説の武具を取り戻し、\n地上へと帰還した\n\n# textboxarrow 0 0\n# chara 135\n@オベロン\n天上世界では\n“悪魔”と忌み嫌われた少女達が\n\n# textboxarrow 0 0\n# chara 135\n@オベロン\n地上世界に\n“天使”として降臨したのだ\n\n# textboxarrow 0 0\n# chara 135\n@オベロン\n彼女達は悪魔と熾烈な戦いを繰り広げ\nついに勝利を掴み取った\n世界に平和が戻ったのである\n\n# textboxarrow 0 0\n# chara 135\n@オベロン\n人々は伝説の武具を持つ\n彼女達のことを、\n敬愛の念を込めて「斬ル姫」と呼んだ"
+	}
+]

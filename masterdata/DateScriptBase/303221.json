@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 303221,
+		"script": ";;小A散らかってるの？\n;;中B君の話がもっと聞きたい\n;;大Cまだ一緒にいたい\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_room\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 0 0\n;;モノローグ\n@\nデートの帰り道、ガ・ジャルグは\n機嫌良さそうに口を開いた\n\n# textflame 1 1\n# voice 230321 \"gaedearg_ge_0002\"\n# face %(unit_a)s \"normal\"\n@ガ・ジャルグ\nマスター、\n今日のデートは\nどうだったかしら？\n\n# voice 230321 \"gaedearg_ge_0004\"\n@ガ・ジャルグ\nこのわたしと\n一緒にいられたんだから、\n当然楽しかったでしょう？\n\n@ガ・ジャルグ\n…ふふんっ、\n分かってるじゃない！\nさすがはマスターねっ\n\n# voice 230321 \"gaedearg_ge_0022\"\n# face %(unit_a)s \"usual\"\n@ガ・ジャルグ\nえ？\nわたしの部屋に\n遊びに行ってもいいかって？\n\n# voice 230321 \"gaedearg_ge_0028\"\n@ガ・ジャルグ\n別に構わないけど…\nそんなに良い\n場所じゃないわよ？\n\n# select \"散らかってるの？\" \"select_label_01\" \"君の話がもっと聞きたい\" \"select_label_02\" \"まだ一緒にいたい\" \"select_label_03\"\n別に構わないけど…\nそんなに良い\n場所じゃないわよ？\n\n# label \"select_label_01\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_02\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_03\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# textflame 1 1\n# waitandnext 0.1\n\n# label \"select_label_end\"\n# waitandnext 2\n# fadeout \"black\" 1.2\n"
+	}
+]

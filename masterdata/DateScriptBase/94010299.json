@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 94010299,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# se \"SE_0732\"\n# voice 4010 \"Abaris_0021\"\n@アバリス\n…わぁ、正解です！\nうれしいです…\n\n# face %(unit_a)s \"normal\"\n@アバリス\nあの、勘じゃなくて\n知ってたんですか？\n\n# voice 4010 \"Abaris_0030\"\n# face %(unit_a)s \"smile\"\n@アバリス\nこんな地味な私のこと…\n知っててくれたんですね…！\n\n# textflame 0 0\n@\nとても嬉しそうな顔をみて\nマスターは彼女との絆が\nまた深まったのを実感した…\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

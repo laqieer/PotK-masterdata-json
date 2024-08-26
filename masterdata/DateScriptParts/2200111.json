@@ -1,0 +1,26 @@
+[
+	{
+		"ID": 25,
+		"unitID": 2200111,
+		"scriptID": "kaerimichi",
+		"script": "マスタ！\nやっぱりもう少し\n一緒にいよっか！"
+	},
+	{
+		"ID": 52,
+		"unitID": 2200111,
+		"scriptID": "kaeru",
+		"script": "マスタ、\nもう帰ろ？"
+	},
+	{
+		"ID": 79,
+		"unitID": 2200111,
+		"scriptID": "kaeru_ok",
+		"script": "@%(unitName:unit_a)s\nいいよ！マスタ！\n一緒に行こうー！"
+	},
+	{
+		"ID": 106,
+		"unitID": 2200111,
+		"scriptID": "kaeru_ng",
+		"script": "@%(unitName:unit_a)s\nごめ～ん\n今日は帰るよ～"
+	}
+]

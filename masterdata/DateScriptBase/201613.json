@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 201613,
+		"script": "# script \"lisp\"\n# fadein \"black\" 0.5\n# background %(background)s\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# voice 2016 \"shita_0028\"\n@シタ\nそうですよね…\n今の時代だと\nあまり馴染みがないですからね\n\n# textflame 1 1\n@シタ\n昔の人々は\n夜空の星を見上げながら\nいろんなことを知ったんですよ…\n\n# textflame 0 0\n@\nシタは星々を指でなぞるように\n星座の名前をつぶやいていく\n\n# face %(unit_a)s \"smile\"\n# voice 2016 \"shita_0001\"\n# textflame 1 1\n@シタ\nマスターの誕生日はいつですか…？\n自分の星座、覚えて帰りましょう♪\n\n# textflame 0 0\n@\nプラネタリウムの帰り道…\n本物の夜空を見上げながら\n星座を探して帰る二人だった――\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 100621,
+		"script": ";;素敵な部屋だ,中\n;;泊まっていい？,大\n;;なにか飲ませて,小\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_room\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 0 0\n@\nナーゲルリングの部屋に\n誘われたマスターは…\n\n# voice 1006 \"nageruring_0008\"\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@ナーゲルリング\n…この部屋にあなたを\n入れるなんて…\n\n@ナーゲルリング\n私、どうしちゃったんでしょう…\n\n# voice 1006 \"nageruring_0031\"\n@ナーゲルリング\n…すみません、この部屋に\n人を入れたことがなかったので\n\n@ナーゲルリング\nこんな時、どうすればいいか…\n;;----------------------------------------\n\n# voice 1006 \"nageruring_kyara_1018\"\n# textflame 1 1\n@%(unitName:unit_a)s\n…なんか言ってください\n恥ずかしいです\n\n# select \"素敵な部屋だ\" \"select_label_01\" \"泊まっていい？\" \"select_label_02\" \"なにか飲ませて\" \"select_label_03\"\n…なんか言ってください\n恥ずかしいです\n\n# label \"select_label_01\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_02\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_03\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# textflame 1 1\n# waitandnext 0.1\n\n# label \"select_label_end\"\n# waitandnext 1.2\n# fadeout \"black\" 2\n"
+	}
+]

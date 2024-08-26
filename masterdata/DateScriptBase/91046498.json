@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 91046498,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# se \"SE_0733\"\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n@ミュルグレス\n………\n\n@ミュルグレス\nその答え…\n\n# face %(unit_a)s \"angry\"\n# voice 510461 \"murgleys_c_0027\"\n@ミュルグレス\n不正解！\n\n# voice 510461 \"murgleys_c_0001\"\n@ミュルグレス\nさーて、だんちょー\nミュルが言いたいこと\nわかってるでしょ？\n\n# textflame 0 0\n@\nカステラをおごるから許して\nと、マスターは提案する\n\n# textflame 1 1\n# voice 510461 \"murgleys_c_0009\"\n@ミュルグレス\nカステラって言えば\nミュルの機嫌が直ると\n思ってるでしょ！？\n\n@ミュルグレス\nカステラでも\n種類と大きさによるんだから！\n\n# face %(unit_a)s \"sad\"\n# voice 510461 \"murgleys_c_0015\"\n@ミュルグレス\n今日のだんちょーは\n最高級品のギガサイズじゃないと\n許してあげない…\n\n# textflame 0 0\n@\nそう言って、\n寂しげな目を見せる\n\n@\n彼女は報酬など、\n本当はどうでも良かったのだ…\n\n@\nマスターは、\n期待に応えられなかったことを\n深く後悔していた…\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 201111,
+		"script": ";;A あれならなくさないね（大）\n;;B 再発行大変だね…（中）\n;;C エビデンス重要ですね（小）\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_museum1\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 0 0\n# face %(unit_a)s \"usual\"\n@\nマスターは\nワズラを誘って\n博物館にやってきた\n\n# textflame 1 1\n@ワズラ\n…あれがなんだかわかりますか？\nあの重そうな石です\n\n# eye %(unit_a)s \"close\"\n# voice 2011 \"Wazra_0003\"\n@ワズラ\n実はあれ、\n『古代の契約書』と言ったら\nわかりやすいと思います\n\n# eye %(unit_a)s \"normal\"\n@ワズラ\nとは言っても\n神との契約…\n約束を記したものですが\n\n# select \"あれならなくさないね\" \"select_label_01\" \"再発行大変だね…\" \"select_label_02\" \"エビデンス重要ですね\" \"select_label_03\"\nとは言っても\n神との契約…\n約束を記したものですが\n\n# label \"select_label_01\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_02\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_03\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_end\"\n# waitandnext 0.1\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

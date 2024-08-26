@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 96020299,
+		"script": ";;//正解\n# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body 2602011\n# pos 2602011 3\n# mask 2602011 off\n# chara 2602011\n# fadein \"black\" 0.5\n# textflame 1 1\n# face 2602011 \"smile\"\n# se \"SE_0732\"\n# voice 6020 \"ness_0020\"\n@ネス\n正解です、マスター\nよくできました\n\n@ネス\n正直なところ\nちゃんとわかってくれてるかどうか\n不安でしたが…\n\n@ネス\nどうやらその心配は\n杞憂だったようですね…\n\n@ネス\nそれでは、帰りましょうか\nあんまり帰りが遅くなると\nみなさんが心配しますからね\n\n;;モノローグ\n# textflame 0 0\n@\n前を歩く彼女の後を追うように\nマスターもまた歩き出す\n\n;;モノローグ\n@\n軽やかな足取りで帰路を歩きながら\n彼女との絆が深まったのを\n感じるマスターだった…\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

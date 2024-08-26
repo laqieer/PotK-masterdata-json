@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 91046499,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# se \"SE_0732\"\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n@ミュルグレス\n…その答え\n\n# face %(unit_a)s \"happy\"\n# voice 510461 \"murgleys_c_0004\"\n@ミュルグレス\n正解！\n\n# face %(unit_a)s \"angry\"\n@ミュルグレス\nむぅぅぅ…\nまさか当てられるなんて！\n\n# voice 510461 \"murgleys_c_0027\"\n@ミュルグレス\nはぁ～あ、今日はタダ働きか\n\n# textflame 0 0\n@\n帰りにカステラおごるよ\nマスターが彼女に提案する\n\n# face %(unit_a)s \"happy\"\n# voice 510461 \"murgleys_c_0021\"\n# textflame 1 1\n@ミュルグレス\nえっ！ホントに！？\n\n@ミュルグレス\n本当はカステラだけじゃ\n全然足りないんだけど…\n\n# voice 510461 \"murgleys_c_0004\"\n@ミュルグレス\n今日は機嫌がいいから\n特別に許してあげる\n…カステラ２個で\n\n# textflame 0 0\n@\nさりげなく報酬を上乗せされたことに\nマスターは気づかず\n彼女の笑顔を優しく見つめていた\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

@@ -1,0 +1,26 @@
+[
+	{
+		"ID": 167,
+		"unitID": 2101311,
+		"scriptID": "kaerimichi",
+		"script": "もう少し視野を広げ\n知識と見識を深めるために…\nマスターと一緒にいてもいいぞ…"
+	},
+	{
+		"ID": 181,
+		"unitID": 2101311,
+		"scriptID": "kaeru",
+		"script": "今日はもう帰ろうか\nそろそろ実験結果が\n判明する時間なんだ"
+	},
+	{
+		"ID": 195,
+		"unitID": 2101311,
+		"scriptID": "kaeru_ok",
+		"script": "@%(unitName:unit_a)s\n家で進めてる実験結果が出るまで\n未だ時間があるしね…\nいいだろう"
+	},
+	{
+		"ID": 209,
+		"unitID": 2101311,
+		"scriptID": "kaeru_ng",
+		"script": "@%(unitName:unit_a)s\nすまない\n今日は帰って研究をしたいんだ\nまた今度でいいかな？"
+	}
+]

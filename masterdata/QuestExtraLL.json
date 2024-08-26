@@ -1,0 +1,378 @@
+[
+	{
+		"ID": 1,
+		"name": "ファンキル学園",
+		"description": 0,
+		"background_image_name": "eventbg_school",
+		"enabled_header": 1,
+		"banner_image_id": 0
+	},
+	{
+		"ID": 2,
+		"name": "神令の黒仮面",
+		"description": 301,
+		"background_image_name": "",
+		"enabled_header": 0,
+		"banner_image_id": 0
+	},
+	{
+		"ID": 3,
+		"name": "賀正イベント",
+		"description": 0,
+		"background_image_name": "eventbg_newyear",
+		"enabled_header": 1,
+		"banner_image_id": 0
+	},
+	{
+		"ID": 4,
+		"name": "バレンタインイベント",
+		"description": 0,
+		"background_image_name": "",
+		"enabled_header": 1,
+		"banner_image_id": 0
+	},
+	{
+		"ID": 5,
+		"name": "イースターイベント",
+		"description": 0,
+		"background_image_name": "eventbg_easter20",
+		"enabled_header": 1,
+		"banner_image_id": 0
+	},
+	{
+		"ID": 6,
+		"name": "ウェディングイベント",
+		"description": 0,
+		"background_image_name": "eventbg_wedding",
+		"enabled_header": 1,
+		"banner_image_id": 0
+	},
+	{
+		"ID": 7,
+		"name": "ハロウィンイベント",
+		"description": 0,
+		"background_image_name": "halloween",
+		"enabled_header": 1,
+		"banner_image_id": 0
+	},
+	{
+		"ID": 8,
+		"name": "クリスマスイベント",
+		"description": 0,
+		"background_image_name": "town_night_snow",
+		"enabled_header": 1,
+		"banner_image_id": 0
+	},
+	{
+		"ID": 9,
+		"name": "海上編イベント",
+		"description": 0,
+		"background_image_name": "eventbg_sea",
+		"enabled_header": 1,
+		"banner_image_id": 0
+	},
+	{
+		"ID": 10,
+		"name": "幻想機構の神殺し",
+		"description": 0,
+		"background_image_name": "",
+		"enabled_header": 0,
+		"banner_image_id": 0
+	},
+	{
+		"ID": 11,
+		"name": "あの花コラボ",
+		"description": 0,
+		"background_image_name": "",
+		"enabled_header": 1,
+		"banner_image_id": 0
+	},
+	{
+		"ID": 12,
+		"name": "革命の零装",
+		"description": 0,
+		"background_image_name": "",
+		"enabled_header": 0,
+		"banner_image_id": 0
+	},
+	{
+		"ID": 13,
+		"name": "無垢なる継承 全開放",
+		"description": 0,
+		"background_image_name": "",
+		"enabled_header": 1,
+		"banner_image_id": 0
+	},
+	{
+		"ID": 14,
+		"name": "タガタメコラボ",
+		"description": 0,
+		"background_image_name": "eventbg_tagatame",
+		"enabled_header": 1,
+		"banner_image_id": 0
+	},
+	{
+		"ID": 15,
+		"name": "ダンジョンのない世界で出会った冒険者",
+		"description": 0,
+		"background_image_name": "",
+		"enabled_header": 1,
+		"banner_image_id": 0
+	},
+	{
+		"ID": 16,
+		"name": "白き神令、大樹の贄",
+		"description": 0,
+		"background_image_name": "",
+		"enabled_header": 0,
+		"banner_image_id": 0
+	},
+	{
+		"ID": 17,
+		"name": "ファンキル幼稚園　きるひめといっしょ",
+		"description": 0,
+		"background_image_name": "eventbg_aprilfool20",
+		"enabled_header": 1,
+		"banner_image_id": 0
+	},
+	{
+		"ID": 18,
+		"name": "カードキャプターさくらコラボ",
+		"description": 0,
+		"background_image_name": "eventbg_ccsakura",
+		"enabled_header": 1,
+		"banner_image_id": 0
+	},
+	{
+		"ID": 19,
+		"name": "2020ウェディングイベント",
+		"description": 0,
+		"background_image_name": "eventbg_wedding",
+		"enabled_header": 1,
+		"banner_image_id": 0
+	},
+	{
+		"ID": 20,
+		"name": "シノビナコラボ",
+		"description": 0,
+		"background_image_name": "eventbg_shinobi",
+		"enabled_header": 1,
+		"banner_image_id": 0
+	},
+	{
+		"ID": 21,
+		"name": "まどか☆マギカコラボ",
+		"description": 0,
+		"background_image_name": "",
+		"enabled_header": 1,
+		"banner_image_id": 0
+	},
+	{
+		"ID": 22,
+		"name": "インテグラルノア サイドストーリー",
+		"description": 0,
+		"background_image_name": "",
+		"enabled_header": 1,
+		"banner_image_id": 0
+	},
+	{
+		"ID": 23,
+		"name": "このすばコラボ",
+		"description": 0,
+		"background_image_name": "konosuba_mypage",
+		"enabled_header": 1,
+		"banner_image_id": 0
+	},
+	{
+		"ID": 24,
+		"name": "常設リサナウトクエストまとめ",
+		"description": 0,
+		"background_image_name": "",
+		"enabled_header": 1,
+		"banner_image_id": 0
+	},
+	{
+		"ID": 25,
+		"name": "常設イージスクエストまとめ",
+		"description": 0,
+		"background_image_name": "",
+		"enabled_header": 1,
+		"banner_image_id": 0
+	},
+	{
+		"ID": 26,
+		"name": "サイコパス",
+		"description": 267,
+		"background_image_name": "psychopass",
+		"enabled_header": 1,
+		"banner_image_id": 0
+	},
+	{
+		"ID": 27,
+		"name": "神器探求",
+		"description": 0,
+		"background_image_name": "",
+		"enabled_header": 0,
+		"banner_image_id": 0
+	},
+	{
+		"ID": 28,
+		"name": "夏のアステリズム",
+		"description": 261,
+		"background_image_name": "eventbg_sea",
+		"enabled_header": 0,
+		"banner_image_id": 0
+	},
+	{
+		"ID": 29,
+		"name": "情熱よ、仮装の街に鳴り響け",
+		"description": 0,
+		"background_image_name": "halloween",
+		"enabled_header": 1,
+		"banner_image_id": 0
+	},
+	{
+		"ID": 30,
+		"name": "Find out the Holy Star！",
+		"description": 0,
+		"background_image_name": "town_night_snow",
+		"enabled_header": 1,
+		"banner_image_id": 0
+	},
+	{
+		"ID": 31,
+		"name": "セブンスクエスト",
+		"description": 0,
+		"background_image_name": "",
+		"enabled_header": 0,
+		"banner_image_id": 0
+	},
+	{
+		"ID": 32,
+		"name": "You are my Valentine",
+		"description": 0,
+		"background_image_name": "",
+		"enabled_header": 1,
+		"banner_image_id": 0
+	},
+	{
+		"ID": 33,
+		"name": "ファントム オブ ナイトメア",
+		"description": 0,
+		"background_image_name": "",
+		"enabled_header": 1,
+		"banner_image_id": 0
+	},
+	{
+		"ID": 34,
+		"name": "スライム倒して300年コラボ　1日1ヶ月のスローライフ",
+		"description": 0,
+		"background_image_name": "eventbg_slime",
+		"enabled_header": 1,
+		"banner_image_id": 0
+	},
+	{
+		"ID": 35,
+		"name": "災厄の姫は絶望の地で希望を謳う",
+		"description": 0,
+		"background_image_name": "",
+		"enabled_header": 1,
+		"banner_image_id": 0
+	},
+	{
+		"ID": 36,
+		"name": "レイニー×ウェディングプラン",
+		"description": 0,
+		"background_image_name": "eventbg_wedding",
+		"enabled_header": 1,
+		"banner_image_id": 0
+	},
+	{
+		"ID": 37,
+		"name": "あやかしと刀の姫たち",
+		"description": 0,
+		"background_image_name": "",
+		"enabled_header": 1,
+		"banner_image_id": 0
+	},
+	{
+		"ID": 38,
+		"name": "アナタと巡り、見上げた大輪の花",
+		"description": 0,
+		"background_image_name": "eventbg_SEAsummer",
+		"enabled_header": 1,
+		"banner_image_id": 0
+	},
+	{
+		"ID": 39,
+		"name": "のりプロコラボ",
+		"description": 0,
+		"background_image_name": "eventbg_noripro",
+		"enabled_header": 0,
+		"banner_image_id": 0
+	},
+	{
+		"ID": 40,
+		"name": "永遠プレイバック・サマー",
+		"description": 0,
+		"background_image_name": "eventbg_Kamakura",
+		"enabled_header": 1,
+		"banner_image_id": 0
+	},
+	{
+		"ID": 41,
+		"name": "∞の旅路、その先へ",
+		"description": 0,
+		"background_image_name": "",
+		"enabled_header": 1,
+		"banner_image_id": 0
+	},
+	{
+		"ID": 42,
+		"name": "異聞不可分フォーハング",
+		"description": 0,
+		"background_image_name": "eventbg_Forhang",
+		"enabled_header": 1,
+		"banner_image_id": 0
+	},
+	{
+		"ID": 43,
+		"name": "雪下の騎士流離譚",
+		"description": 0,
+		"background_image_name": "eventbg_highland_snow",
+		"enabled_header": 1,
+		"banner_image_id": 0
+	},
+	{
+		"ID": 44,
+		"name": "夏祭りイベント",
+		"description": 0,
+		"background_image_name": "eventbg_SEAsummer",
+		"enabled_header": 1,
+		"banner_image_id": 0
+	},
+	{
+		"ID": 45,
+		"name": "不可欠彩度レルム",
+		"description": 0,
+		"background_image_name": "eventbg_in_city",
+		"enabled_header": 1,
+		"banner_image_id": 0
+	},
+	{
+		"ID": 46,
+		"name": "悪魔イベント復刻用",
+		"description": 0,
+		"background_image_name": "",
+		"enabled_header": 1,
+		"banner_image_id": 0
+	},
+	{
+		"ID": 48,
+		"name": "不可思議仕儀ツークンフト",
+		"description": 0,
+		"background_image_name": "eventbg_004_outland",
+		"enabled_header": 1,
+		"banner_image_id": 0
+	}
+]

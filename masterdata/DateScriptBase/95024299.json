@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 95024299,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# se \"SE_0732\"\n# voice 5024 \"saika_0021\"\n@雑賀\nお～、すごい！\n正解っすよ！\n\n@雑賀\nえ？正解のご褒美…？\n\n# face %(unit_a)s \"normal\"\n# voice 5024 \"saika_0028\"\n@雑賀\nあぁ～、\n不正解の時の\n罰ゲームは考えてたけど…\n\n# face %(unit_a)s \"smile\"\n@雑賀\n正解のご褒美は\n考えてなかったっす！\n\n# eye %(unit_a)s \"close\"\n@雑賀\nじゃあ…\n甘酸っぱい\nうちのキス…\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"normal\"\n# voice 5024 \"saika_0004\"\n@雑賀\nじゃなくて、\nみかんはどうっすか！？\n\n# textflame 0 0\n@\nとマスターの口に\nみかんの実を入れる彼女\n\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n# voice 5024 \"saika_0005\"\n@雑賀\nあはは！\n本当にキスすると\n思ったっすか！？\n\n# textflame 0 0\n@\nイタズラっぽく笑う姿は、\nとても嬉しそうで…\n\n@\nマスターは二人の絆が\nより深まったのを実感した…\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

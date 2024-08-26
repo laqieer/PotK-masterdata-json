@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 92030298,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# se \"SE_0733\"\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n@リサナウト\n……その答え\n\n# face %(unit_a)s \"angry\"\n# voice 2030 \"risanautr_l_0017\"\n@リサナウト\n不正解！\n\n# face %(unit_a)s \"sad\"\n# voice 2030 \"risanautr_l_0028\"\n@リサナウト\n…正解してくれると思ったのに\n\n@リサナウト\n時間を巻き戻して、\nもう一度答えてもらいたいけど\n\n@リサナウト\nそれじゃ意味ないのよね\n\n# voice 2030 \"risanautr_l_0002\"\n@リサナウト\nいい、当主様？\n今から一年、\n私のことをちゃんと見て…\n\n@リサナウト\n来年には必ず正解してよね！\n\n# textflame 0 0\n@\n明るく振る舞っているが、\nその目は悲し気で…\n\n@\nマスターは、期待に応えて\nあげられなかったことを\n深く後悔していた…\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

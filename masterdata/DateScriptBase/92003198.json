@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 92003198,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# se \"SE_0733\"\n# face %(unit_a)s \"angry\"\n# voice 2003 \"loveryus_0027\"\n@ラブリュス\nええ～！？\nちょっ、マジぃ！？\n\n# textflame 1 1\n@ラブリュス\nんもー、マスターってば\nこんな簡単なクイズもダメなの？\n\n# textflame 1 1\n@ラブリュス\nしょうがないなぁ…\n今度クイズやるときまでに、\nわたしのこと、ちゃんと見ててよね？\n\n# textflame 1 1\n@ラブリュス\n毎日わたしのことを\nちゃんと見てればぁ、\nいろんな事がわかるでしょ？\n\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@ラブリュス\nだ・か・らぁ…\n今度はちゃぁんと、正解してね？\n\n# textflame 1 1\n@ラブリュ\nじゃないとわたし、\n悲しくなっちゃうから！\n\n# textflame 0 0\n@\nラブリュスの言葉に、\n大丈夫だ、次こそは！\nと意気込むマスター\n\n# textflame 1 1\n@ラブリュス\nそのちょーしだよマスター！\nそれじゃ、帰ろっか♪\n\n# textflame 0 0\n@\nこのままじゃダメだ！\nこれから毎日ラブリュスのことを\n観察しなければ！\n\n# textflame 0 0\n@\nそう意気込むマスターであった\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

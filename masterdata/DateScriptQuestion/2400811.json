@@ -1,0 +1,302 @@
+[
+	{
+		"ID": 2401,
+		"unitID": 2400811,
+		"questionID": 9400801,
+		"script": ";;変形する,1\n# face %(unit_a)s \"usual\"\n# voice 4008 \"otyinusu_0001\"\n@オティヌス\nねぇ、マスター\n\n# face %(unit_a)s \"sad\"\n@オティヌス\nデートだから、\nちゃんとした格好で来たつもり\nだったんだけど…\n\n# voice 4008 \"otyinusu_0028\"\n@オティヌス\nやっぱり…変だった…？\n\n# face %(unit_a)s \"usual\"\n@オティヌス\nまぁ、いいや\nそれより…\n\n# face %(unit_a)s \"smile\"\n# voice 4008 \"otyinusu_0036\"\n@オティヌス\n今から出す\nあたしの質問に\n答えてくれる？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしのキラーズ\n『オティヌスの弩』を革袋から\n取り出すとどうなる？\n\n# se \"SE_0734\"\n# select \"変形する\" \"select_label_1\" \"犬になる\" \"select_label_2\" \"何も起きない\" \"select_label_3\"\nあたしのキラーズ\n『オティヌスの弩』を革袋から\n取り出すとどうなる？\n"
+	},
+	{
+		"ID": 2402,
+		"unitID": 2400811,
+		"questionID": 9400802,
+		"script": ";;大弓,2\n# face %(unit_a)s \"usual\"\n# voice 4008 \"otyinusu_0001\"\n@オティヌス\nねぇ、マスター\n\n# face %(unit_a)s \"sad\"\n@オティヌス\nデートだから、\nちゃんとした格好で来たつもり\nだったんだけど…\n\n# voice 4008 \"otyinusu_0028\"\n@オティヌス\nやっぱり…変だった…？\n\n# face %(unit_a)s \"usual\"\n@オティヌス\nまぁ、いいや\nそれより…\n\n# face %(unit_a)s \"smile\"\n# voice 4008 \"otyinusu_0036\"\n@オティヌス\n今から出す\nあたしの質問に\n答えてくれる？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしのキラーズ\n『オティヌスの弩』は伝承では\nどんな武器だったかわかる？\n\n# se \"SE_0734\"\n# select \"大砲\" \"select_label_1\" \"大弓\" \"select_label_2\" \"大剣\" \"select_label_3\"\nあたしのキラーズ\n『オティヌスの弩』は伝承では\nどんな武器だったかわかる？\n"
+	},
+	{
+		"ID": 2403,
+		"unitID": 2400811,
+		"questionID": 9400803,
+		"script": ";;オーディン,3\n# face %(unit_a)s \"usual\"\n# voice 4008 \"otyinusu_0001\"\n@オティヌス\nねぇ、マスター\n\n# face %(unit_a)s \"sad\"\n@オティヌス\nデートだから、\nちゃんとした格好で来たつもり\nだったんだけど…\n\n# voice 4008 \"otyinusu_0028\"\n@オティヌス\nやっぱり…変だった…？\n\n# face %(unit_a)s \"usual\"\n@オティヌス\nまぁ、いいや\nそれより…\n\n# face %(unit_a)s \"smile\"\n# voice 4008 \"otyinusu_0036\"\n@オティヌス\n今から出す\nあたしの質問に\n答えてくれる？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしのキラーズの持ち主の\n『オティヌス』と\n同一視されているのは…？\n\n# se \"SE_0734\"\n# select \"サタン\" \"select_label_1\" \"ゼウス\" \"select_label_2\" \"オーディン\" \"select_label_3\"\nあたしのキラーズの持ち主の\n『オティヌス』と\n同一視されているのは…？\n"
+	},
+	{
+		"ID": 2404,
+		"unitID": 2400811,
+		"questionID": 9400804,
+		"script": ";;10本,1\n# face %(unit_a)s \"usual\"\n# voice 4008 \"otyinusu_0001\"\n@オティヌス\nねぇ、マスター\n\n# face %(unit_a)s \"sad\"\n@オティヌス\nデートだから、\nちゃんとした格好で来たつもり\nだったんだけど…\n\n# voice 4008 \"otyinusu_0028\"\n@オティヌス\nやっぱり…変だった…？\n\n# face %(unit_a)s \"usual\"\n@オティヌス\nまぁ、いいや\nそれより…\n\n# face %(unit_a)s \"smile\"\n# voice 4008 \"otyinusu_0036\"\n@オティヌス\n今から出す\nあたしの質問に\n答えてくれる？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしのキラーズ\n『オティヌスの弩』は何本の矢を\n同時に発射できたと云われている？\n\n# se \"SE_0734\"\n# select \"10本\" \"select_label_1\" \"100本\" \"select_label_2\" \"50本\" \"select_label_3\"\nあたしのキラーズ\n『オティヌスの弩』は何本の矢を\n同時に発射できたと云われている？\n"
+	},
+	{
+		"ID": 2405,
+		"unitID": 2400811,
+		"questionID": 9400805,
+		"script": ";;ど,2\n# face %(unit_a)s \"usual\"\n# voice 4008 \"otyinusu_0001\"\n@オティヌス\nねぇ、マスター\n\n# face %(unit_a)s \"sad\"\n@オティヌス\nデートだから、\nちゃんとした格好で来たつもり\nだったんだけど…\n\n# voice 4008 \"otyinusu_0028\"\n@オティヌス\nやっぱり…変だった…？\n\n# face %(unit_a)s \"usual\"\n@オティヌス\nまぁ、いいや\nそれより…\n\n# face %(unit_a)s \"smile\"\n# voice 4008 \"otyinusu_0036\"\n@オティヌス\n今から出す\nあたしの質問に\n答えてくれる？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしのキラーズは\n『オティヌスの弩』…\n「弩」ってなんて読むの？\n\n# se \"SE_0734\"\n# select \"れ\" \"select_label_1\" \"ど\" \"select_label_2\" \"み\" \"select_label_3\"\nあたしのキラーズは\n『オティヌスの弩』…\n「弩」ってなんて読むの？\n"
+	},
+	{
+		"ID": 2406,
+		"unitID": 2400811,
+		"questionID": 9400806,
+		"script": ";;北欧神話群,3\n# face %(unit_a)s \"usual\"\n# voice 4008 \"otyinusu_0001\"\n@オティヌス\nねぇ、マスター\n\n# face %(unit_a)s \"sad\"\n@オティヌス\nデートだから、\nちゃんとした格好で来たつもり\nだったんだけど…\n\n# voice 4008 \"otyinusu_0028\"\n@オティヌス\nやっぱり…変だった…？\n\n# face %(unit_a)s \"usual\"\n@オティヌス\nまぁ、いいや\nそれより…\n\n# face %(unit_a)s \"smile\"\n# voice 4008 \"otyinusu_0036\"\n@オティヌス\n今から出す\nあたしの質問に\n答えてくれる？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしのキラーズ\n『オティヌスの弩』は\nどんな伝承に登場する？\n\n# se \"SE_0734\"\n# select \"フィンランド神話群\" \"select_label_1\" \"ギリシア神話群\" \"select_label_2\" \"北欧神話群\" \"select_label_3\"\nあたしのキラーズ\n『オティヌスの弩』は\nどんな伝承に登場する？\n"
+	},
+	{
+		"ID": 2407,
+		"unitID": 2400811,
+		"questionID": 9400807,
+		"script": ";;クロスボウ,1\n# face %(unit_a)s \"usual\"\n# voice 4008 \"otyinusu_0001\"\n@オティヌス\nねぇ、マスター\n\n# face %(unit_a)s \"sad\"\n@オティヌス\nデートだから、\nちゃんとした格好で来たつもり\nだったんだけど…\n\n# voice 4008 \"otyinusu_0028\"\n@オティヌス\nやっぱり…変だった…？\n\n# face %(unit_a)s \"usual\"\n@オティヌス\nまぁ、いいや\nそれより…\n\n# face %(unit_a)s \"smile\"\n# voice 4008 \"otyinusu_0036\"\n@オティヌス\n今から出す\nあたしの質問に\n答えてくれる？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしのキラーズ\n『オティヌスの弩』は\n一見するとどんな武器？\n\n# se \"SE_0734\"\n# select \"クロスボウ\" \"select_label_1\" \"クレイモア\" \"select_label_2\" \"レイピア\" \"select_label_3\"\nあたしのキラーズ\n『オティヌスの弩』は\n一見するとどんな武器？\n"
+	},
+	{
+		"ID": 2408,
+		"unitID": 2400811,
+		"questionID": 9400808,
+		"script": ";;ホテルス,2\n# face %(unit_a)s \"usual\"\n# voice 4008 \"otyinusu_0001\"\n@オティヌス\nねぇ、マスター\n\n# face %(unit_a)s \"sad\"\n@オティヌス\nデートだから、\nちゃんとした格好で来たつもり\nだったんだけど…\n\n# voice 4008 \"otyinusu_0028\"\n@オティヌス\nやっぱり…変だった…？\n\n# face %(unit_a)s \"usual\"\n@オティヌス\nまぁ、いいや\nそれより…\n\n# face %(unit_a)s \"smile\"\n# voice 4008 \"otyinusu_0036\"\n@オティヌス\n今から出す\nあたしの質問に\n答えてくれる？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしのキラーズの持ち主の\n『オティヌス』の息子は\n誰に殺された？\n\n# se \"SE_0734\"\n# select \"バブルス\" \"select_label_1\" \"ホテルス\" \"select_label_2\" \"マックス\" \"select_label_3\"\nあたしのキラーズの持ち主の\n『オティヌス』の息子は\n誰に殺された？\n"
+	},
+	{
+		"ID": 2409,
+		"unitID": 2400811,
+		"questionID": 9400809,
+		"script": ";;バルデルス,3\n# face %(unit_a)s \"usual\"\n# voice 4008 \"otyinusu_0001\"\n@オティヌス\nねぇ、マスター\n\n# face %(unit_a)s \"sad\"\n@オティヌス\nデートだから、\nちゃんとした格好で来たつもり\nだったんだけど…\n\n# voice 4008 \"otyinusu_0028\"\n@オティヌス\nやっぱり…変だった…？\n\n# face %(unit_a)s \"usual\"\n@オティヌス\nまぁ、いいや\nそれより…\n\n# face %(unit_a)s \"smile\"\n# voice 4008 \"otyinusu_0036\"\n@オティヌス\n今から出す\nあたしの質問に\n答えてくれる？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしのキラーズの持ち主の\n『オティヌス』の息子の名前は？\n\n# se \"SE_0734\"\n# select \"バブルス\" \"select_label_1\" \"アルテミス\" \"select_label_2\" \"バルデルス\" \"select_label_3\"\nあたしのキラーズの持ち主の\n『オティヌス』の息子の名前は？\n"
+	},
+	{
+		"ID": 2410,
+		"unitID": 2400811,
+		"questionID": 9400810,
+		"script": ";;尽きることがない,1\n# face %(unit_a)s \"usual\"\n# voice 4008 \"otyinusu_0001\"\n@オティヌス\nねぇ、マスター\n\n# face %(unit_a)s \"sad\"\n@オティヌス\nデートだから、\nちゃんとした格好で来たつもり\nだったんだけど…\n\n# voice 4008 \"otyinusu_0028\"\n@オティヌス\nやっぱり…変だった…？\n\n# face %(unit_a)s \"usual\"\n@オティヌス\nまぁ、いいや\nそれより…\n\n# face %(unit_a)s \"smile\"\n# voice 4008 \"otyinusu_0036\"\n@オティヌス\n今から出す\nあたしの質問に\n答えてくれる？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしのキラーズ\n『オティヌスの弩』の矢は？\n\n# se \"SE_0734\"\n# select \"尽きることがない\" \"select_label_1\" \"もの凄く長い\" \"select_label_2\" \"すぐ尽きる\" \"select_label_3\"\nあたしのキラーズ\n『オティヌスの弩』の矢は？\n"
+	},
+	{
+		"ID": 2411,
+		"unitID": 2400811,
+		"questionID": 9400811,
+		"script": ";;雷,1\n# face %(unit_a)s \"usual\"\n# voice 4008 \"otyinusu_0001\"\n@オティヌス\n…あ、そうだ\nいいこと思いついちゃった！\n\n# voice 4008 \"otyinusu_0004\"\n# face %(unit_a)s \"smile\"\n@オティヌス\n今からクイズを出すよ\n\n# eye %(unit_a)s \"close\"\n@オティヌス\nもし外したら…\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"angry\"\n@オティヌス\nラージサイズバーガー\nおごってよね!?\n\n# voice 4008 \"otyinusu_0036\"\n# face %(unit_a)s \"smile\"\n@オティヌス\nじゃあ、いくよ!?\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしの属性は知っている？\n\n# se \"SE_0734\"\n# select \"雷\" \"select_label_1\" \"氷\" \"select_label_2\" \"光\" \"select_label_3\"\nあたしの属性は知っている？\n"
+	},
+	{
+		"ID": 2412,
+		"unitID": 2400811,
+		"questionID": 9400812,
+		"script": ";;157cm,2\n# face %(unit_a)s \"usual\"\n# voice 4008 \"otyinusu_0001\"\n@オティヌス\n…あ、そうだ\nいいこと思いついちゃった！\n\n# voice 4008 \"otyinusu_0004\"\n# face %(unit_a)s \"smile\"\n@オティヌス\n今からクイズを出すよ\n\n# eye %(unit_a)s \"close\"\n@オティヌス\nもし外したら…\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"angry\"\n@オティヌス\nラージサイズバーガー\nおごってよね!?\n\n# voice 4008 \"otyinusu_0036\"\n# face %(unit_a)s \"smile\"\n@オティヌス\nじゃあ、いくよ!?\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしの身長わかるかな？\n\n# se \"SE_0734\"\n# select \"160cm\" \"select_label_1\" \"157cm\" \"select_label_2\" \"172cm\" \"select_label_3\"\nあたしの身長わかるかな？\n"
+	},
+	{
+		"ID": 2413,
+		"unitID": 2400811,
+		"questionID": 9400813,
+		"script": ";;9月18日,3\n# face %(unit_a)s \"usual\"\n# voice 4008 \"otyinusu_0001\"\n@オティヌス\n…あ、そうだ\nいいこと思いついちゃった！\n\n# voice 4008 \"otyinusu_0004\"\n# face %(unit_a)s \"smile\"\n@オティヌス\n今からクイズを出すよ\n\n# eye %(unit_a)s \"close\"\n@オティヌス\nもし外したら…\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"angry\"\n@オティヌス\nラージサイズバーガー\nおごってよね!?\n\n# voice 4008 \"otyinusu_0036\"\n# face %(unit_a)s \"smile\"\n@オティヌス\nじゃあ、いくよ!?\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしの誕生日って知ってるかな？\n\n# se \"SE_0734\"\n# select \"11月18日\" \"select_label_1\" \"10月18日\" \"select_label_2\" \"9月18日\" \"select_label_3\"\nあたしの誕生日って知ってるかな？\n"
+	},
+	{
+		"ID": 2414,
+		"unitID": 2400811,
+		"questionID": 9400814,
+		"script": ";;おとめ座,1\n# face %(unit_a)s \"usual\"\n# voice 4008 \"otyinusu_0001\"\n@オティヌス\n…あ、そうだ\nいいこと思いついちゃった！\n\n# voice 4008 \"otyinusu_0004\"\n# face %(unit_a)s \"smile\"\n@オティヌス\n今からクイズを出すよ\n\n# eye %(unit_a)s \"close\"\n@オティヌス\nもし外したら…\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"angry\"\n@オティヌス\nラージサイズバーガー\nおごってよね!?\n\n# voice 4008 \"otyinusu_0036\"\n# face %(unit_a)s \"smile\"\n@オティヌス\nじゃあ、いくよ!?\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしの星座はわかるかな…？\n\n# se \"SE_0734\"\n# select \"おとめ座\" \"select_label_1\" \"おうし座\" \"select_label_2\" \"おひつじ座\" \"select_label_3\"\nあたしの星座はわかるかな…？\n"
+	},
+	{
+		"ID": 2415,
+		"unitID": 2400811,
+		"questionID": 9400815,
+		"script": ";;谷,2\n# face %(unit_a)s \"usual\"\n# voice 4008 \"otyinusu_0001\"\n@オティヌス\n…あ、そうだ\nいいこと思いついちゃった！\n\n# voice 4008 \"otyinusu_0004\"\n# face %(unit_a)s \"smile\"\n@オティヌス\n今からクイズを出すよ\n\n# eye %(unit_a)s \"close\"\n@オティヌス\nもし外したら…\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"angry\"\n@オティヌス\nラージサイズバーガー\nおごってよね!?\n\n# voice 4008 \"otyinusu_0036\"\n# face %(unit_a)s \"smile\"\n@オティヌス\nじゃあ、いくよ!?\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしが好きな所ってわかるかな…？\n\n# se \"SE_0734\"\n# select \"山\" \"select_label_1\" \"谷\" \"select_label_2\" \"海\" \"select_label_3\"\nあたしが好きな所ってわかるかな…？\n"
+	},
+	{
+		"ID": 2416,
+		"unitID": 2400811,
+		"questionID": 9400816,
+		"script": ";;自意識低い系,3\n# face %(unit_a)s \"usual\"\n# voice 4008 \"otyinusu_0001\"\n@オティヌス\n…あ、そうだ\nいいこと思いついちゃった！\n\n# voice 4008 \"otyinusu_0004\"\n# face %(unit_a)s \"smile\"\n@オティヌス\n今からクイズを出すよ\n\n# eye %(unit_a)s \"close\"\n@オティヌス\nもし外したら…\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"angry\"\n@オティヌス\nラージサイズバーガー\nおごってよね!?\n\n# voice 4008 \"otyinusu_0036\"\n# face %(unit_a)s \"smile\"\n@オティヌス\nじゃあ、いくよ!?\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしってどちらかというと…\n\n# se \"SE_0734\"\n# select \"自暴自棄系\" \"select_label_1\" \"自意識高い系\" \"select_label_2\" \"自意識低い系\" \"select_label_3\"\nあたしってどちらかというと…\n"
+	},
+	{
+		"ID": 2417,
+		"unitID": 2400811,
+		"questionID": 9400817,
+		"script": ";;O型,1\n# face %(unit_a)s \"usual\"\n# voice 4008 \"otyinusu_0001\"\n@オティヌス\n…あ、そうだ\nいいこと思いついちゃった！\n\n# voice 4008 \"otyinusu_0004\"\n# face %(unit_a)s \"smile\"\n@オティヌス\n今からクイズを出すよ\n\n# eye %(unit_a)s \"close\"\n@オティヌス\nもし外したら…\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"angry\"\n@オティヌス\nラージサイズバーガー\nおごってよね!?\n\n# voice 4008 \"otyinusu_0036\"\n# face %(unit_a)s \"smile\"\n@オティヌス\nじゃあ、いくよ!?\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしの血液型、わかるかな？\n\n# se \"SE_0734\"\n# select \"O型\" \"select_label_1\" \"A型\" \"select_label_2\" \"B型\" \"select_label_3\"\nあたしの血液型、わかるかな？\n"
+	},
+	{
+		"ID": 2418,
+		"unitID": 2400811,
+		"questionID": 9400818,
+		"script": ";;アスガルズ,2\n# face %(unit_a)s \"usual\"\n# voice 4008 \"otyinusu_0001\"\n@オティヌス\n…あ、そうだ\nいいこと思いついちゃった！\n\n# voice 4008 \"otyinusu_0004\"\n# face %(unit_a)s \"smile\"\n@オティヌス\n今からクイズを出すよ\n\n# eye %(unit_a)s \"close\"\n@オティヌス\nもし外したら…\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"angry\"\n@オティヌス\nラージサイズバーガー\nおごってよね!?\n\n# voice 4008 \"otyinusu_0036\"\n# face %(unit_a)s \"smile\"\n@オティヌス\nじゃあ、いくよ!?\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしの出身地、わかる？\n\n# se \"SE_0734\"\n# select \"アスファルト\" \"select_label_1\" \"アスガルズ\" \"select_label_2\" \"アルベルト\" \"select_label_3\"\nあたしの出身地、わかる？\n"
+	},
+	{
+		"ID": 2419,
+		"unitID": 2400811,
+		"questionID": 9400819,
+		"script": ";;悪巧み,3\n# face %(unit_a)s \"usual\"\n# voice 4008 \"otyinusu_0001\"\n@オティヌス\n…あ、そうだ\nいいこと思いついちゃった！\n\n# voice 4008 \"otyinusu_0004\"\n# face %(unit_a)s \"smile\"\n@オティヌス\n今からクイズを出すよ\n\n# eye %(unit_a)s \"close\"\n@オティヌス\nもし外したら…\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"angry\"\n@オティヌス\nラージサイズバーガー\nおごってよね!?\n\n# voice 4008 \"otyinusu_0036\"\n# face %(unit_a)s \"smile\"\n@オティヌス\nじゃあ、いくよ!?\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしの趣味はどれかわかる？\n\n# se \"SE_0734\"\n# select \"ガーデニング\" \"select_label_1\" \"ボランティア\" \"select_label_2\" \"悪巧み\" \"select_label_3\"\nあたしの趣味はどれかわかる？\n"
+	},
+	{
+		"ID": 2420,
+		"unitID": 2400811,
+		"questionID": 9400820,
+		"script": ";;気にしない,1\n# face %(unit_a)s \"usual\"\n# voice 4008 \"otyinusu_0001\"\n@オティヌス\n…あ、そうだ\nいいこと思いついちゃった！\n\n# voice 4008 \"otyinusu_0004\"\n# face %(unit_a)s \"smile\"\n@オティヌス\n今からクイズを出すよ\n\n# eye %(unit_a)s \"close\"\n@オティヌス\nもし外したら…\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"angry\"\n@オティヌス\nラージサイズバーガー\nおごってよね!?\n\n# voice 4008 \"otyinusu_0036\"\n# face %(unit_a)s \"smile\"\n@オティヌス\nじゃあ、いくよ!?\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしって、\n自分の見た目に関しては…\n\n# se \"SE_0734\"\n# select \"気にしない\" \"select_label_1\" \"清潔感を意識している\" \"select_label_2\" \"オシャレを意識している\" \"select_label_3\"\nあたしって、\n自分の見た目に関しては…\n"
+	},
+	{
+		"ID": 2421,
+		"unitID": 2400811,
+		"questionID": 9400821,
+		"script": ";;集団戦,1\n# face %(unit_a)s \"usual\"\n# voice 4008 \"otyinusu_0001\"\n@オティヌス\n…ねぇ、マスター\n今日のデート、\nどうだった？\n\n# face %(unit_a)s \"smile\"\n# voice 4008 \"otyinusu_0004\"\n@オティヌス\nマスターのハート、\nしっかり射抜けてた？\n…なんてね♪\n\n# face %(unit_a)s \"usual\"\n# voice 4008 \"otyinusu_0006\"\n@オティヌス\nじゃあさ、\nここでクイズ！\n\n# face %(unit_a)s \"smile\"\n@オティヌス\n今度はマスターが\nあたしのハート、\n射抜いてみて？\n\n# voice 4008 \"otyinusu_0036\"\n@オティヌス\nいくよ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしは戦闘だと\nこれが得意かな…？\n\n# se \"SE_0734\"\n# select \"集団戦\" \"select_label_1\" \"一騎打ち\" \"select_label_2\" \"逃走\" \"select_label_3\"\nあたしは戦闘だと\nこれが得意かな…？\n"
+	},
+	{
+		"ID": 2422,
+		"unitID": 2400811,
+		"questionID": 9400822,
+		"script": ";;弓神,2\n# face %(unit_a)s \"usual\"\n# voice 4008 \"otyinusu_0001\"\n@オティヌス\n…ねぇ、マスター\n今日のデート、\nどうだった？\n\n# face %(unit_a)s \"smile\"\n# voice 4008 \"otyinusu_0004\"\n@オティヌス\nマスターのハート、\nしっかり射抜けてた？\n…なんてね♪\n\n# face %(unit_a)s \"usual\"\n# voice 4008 \"otyinusu_0006\"\n@オティヌス\nじゃあさ、\nここでクイズ！\n\n# face %(unit_a)s \"smile\"\n@オティヌス\n今度はマスターが\nあたしのハート、\n射抜いてみて？\n\n# voice 4008 \"otyinusu_0036\"\n@オティヌス\nいくよ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしの\n☆６のジョブ名わかるかな？\n\n# se \"SE_0734\"\n# select \"弓姫\" \"select_label_1\" \"弓神\" \"select_label_2\" \"弓皇\" \"select_label_3\"\nあたしの\n☆６のジョブ名わかるかな？\n"
+	},
+	{
+		"ID": 2423,
+		"unitID": 2400811,
+		"questionID": 9400823,
+		"script": ";;精密射撃,3\n# face %(unit_a)s \"usual\"\n# voice 4008 \"otyinusu_0001\"\n@オティヌス\n…ねぇ、マスター\n今日のデート、\nどうだった？\n\n# face %(unit_a)s \"smile\"\n# voice 4008 \"otyinusu_0004\"\n@オティヌス\nマスターのハート、\nしっかり射抜けてた？\n…なんてね♪\n\n# face %(unit_a)s \"usual\"\n# voice 4008 \"otyinusu_0006\"\n@オティヌス\nじゃあさ、\nここでクイズ！\n\n# face %(unit_a)s \"smile\"\n@オティヌス\n今度はマスターが\nあたしのハート、\n射抜いてみて？\n\n# voice 4008 \"otyinusu_0036\"\n@オティヌス\nいくよ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしが覚える\n付与スキルってわかる？\n\n# se \"SE_0734\"\n# select \"試し撃ち\" \"select_label_1\" \"威嚇射撃\" \"select_label_2\" \"精密射撃\" \"select_label_3\"\nあたしが覚える\n付与スキルってわかる？\n"
+	},
+	{
+		"ID": 2424,
+		"unitID": 2400811,
+		"questionID": 9400824,
+		"script": ";;弓神の強圧,1\n# face %(unit_a)s \"usual\"\n# voice 4008 \"otyinusu_0001\"\n@オティヌス\n…ねぇ、マスター\n今日のデート、\nどうだった？\n\n# face %(unit_a)s \"smile\"\n# voice 4008 \"otyinusu_0004\"\n@オティヌス\nマスターのハート、\nしっかり射抜けてた？\n…なんてね♪\n\n# face %(unit_a)s \"usual\"\n# voice 4008 \"otyinusu_0006\"\n@オティヌス\nじゃあさ、\nここでクイズ！\n\n# face %(unit_a)s \"smile\"\n@オティヌス\n今度はマスターが\nあたしのハート、\n射抜いてみて？\n\n# voice 4008 \"otyinusu_0036\"\n@オティヌス\nいくよ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしの\n☆６のリーダースキルわかるかな？\n\n# se \"SE_0734\"\n# select \"弓神の強圧\" \"select_label_1\" \"弓神の抑圧\" \"select_label_2\" \"弓神の指圧\" \"select_label_3\"\nあたしの\n☆６のリーダースキルわかるかな？\n"
+	},
+	{
+		"ID": 2425,
+		"unitID": 2400811,
+		"questionID": 9400825,
+		"script": ";;グングニル,2\n# face %(unit_a)s \"usual\"\n# voice 4008 \"otyinusu_0001\"\n@オティヌス\n…ねぇ、マスター\n今日のデート、\nどうだった？\n\n# face %(unit_a)s \"smile\"\n# voice 4008 \"otyinusu_0004\"\n@オティヌス\nマスターのハート、\nしっかり射抜けてた？\n…なんてね♪\n\n# face %(unit_a)s \"usual\"\n# voice 4008 \"otyinusu_0006\"\n@オティヌス\nじゃあさ、\nここでクイズ！\n\n# face %(unit_a)s \"smile\"\n@オティヌス\n今度はマスターが\nあたしのハート、\n射抜いてみて？\n\n# voice 4008 \"otyinusu_0036\"\n@オティヌス\nいくよ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしと仲がいいのって…？\n\n# se \"SE_0734\"\n# select \"フォルカス\" \"select_label_1\" \"グングニル\" \"select_label_2\" \"蜻蛉切\" \"select_label_3\"\nあたしと仲がいいのって…？\n"
+	},
+	{
+		"ID": 2426,
+		"unitID": 2400811,
+		"questionID": 9400826,
+		"script": ";;剛力の鼓動,3\n# face %(unit_a)s \"usual\"\n# voice 4008 \"otyinusu_0001\"\n@オティヌス\n…ねぇ、マスター\n今日のデート、\nどうだった？\n\n# face %(unit_a)s \"smile\"\n# voice 4008 \"otyinusu_0004\"\n@オティヌス\nマスターのハート、\nしっかり射抜けてた？\n…なんてね♪\n\n# face %(unit_a)s \"usual\"\n# voice 4008 \"otyinusu_0006\"\n@オティヌス\nじゃあさ、\nここでクイズ！\n\n# face %(unit_a)s \"smile\"\n@オティヌス\n今度はマスターが\nあたしのハート、\n射抜いてみて？\n\n# voice 4008 \"otyinusu_0036\"\n@オティヌス\nいくよ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしが覚える\n解放スキルってわかる？\n\n# se \"SE_0734\"\n# select \"剛力の覇道\" \"select_label_1\" \"剛力の彩芽\" \"select_label_2\" \"剛力の鼓動\" \"select_label_3\"\nあたしが覚える\n解放スキルってわかる？\n"
+	},
+	{
+		"ID": 2427,
+		"unitID": 2400811,
+		"questionID": 9400827,
+		"script": ";;弓の呼吸,1\n# face %(unit_a)s \"usual\"\n# voice 4008 \"otyinusu_0001\"\n@オティヌス\n…ねぇ、マスター\n今日のデート、\nどうだった？\n\n# face %(unit_a)s \"smile\"\n# voice 4008 \"otyinusu_0004\"\n@オティヌス\nマスターのハート、\nしっかり射抜けてた？\n…なんてね♪\n\n# face %(unit_a)s \"usual\"\n# voice 4008 \"otyinusu_0006\"\n@オティヌス\nじゃあさ、\nここでクイズ！\n\n# face %(unit_a)s \"smile\"\n@オティヌス\n今度はマスターが\nあたしのハート、\n射抜いてみて？\n\n# voice 4008 \"otyinusu_0036\"\n@オティヌス\nいくよ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしが覚える\n付与スキルってわかる？\n\n# se \"SE_0734\"\n# select \"弓の呼吸\" \"select_label_1\" \"鬼の呼吸\" \"select_label_2\" \"深呼吸\" \"select_label_3\"\nあたしが覚える\n付与スキルってわかる？\n"
+	},
+	{
+		"ID": 2428,
+		"unitID": 2400811,
+		"questionID": 9400828,
+		"script": ";;ウェイトゥライブ,2\n# face %(unit_a)s \"usual\"\n# voice 4008 \"otyinusu_0001\"\n@オティヌス\n…ねぇ、マスター\n今日のデート、\nどうだった？\n\n# face %(unit_a)s \"smile\"\n# voice 4008 \"otyinusu_0004\"\n@オティヌス\nマスターのハート、\nしっかり射抜けてた？\n…なんてね♪\n\n# face %(unit_a)s \"usual\"\n# voice 4008 \"otyinusu_0006\"\n@オティヌス\nじゃあさ、\nここでクイズ！\n\n# face %(unit_a)s \"smile\"\n@オティヌス\n今度はマスターが\nあたしのハート、\n射抜いてみて？\n\n# voice 4008 \"otyinusu_0036\"\n@オティヌス\nいくよ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしが\n習得したスキルは覚えてる？\n\n# se \"SE_0734\"\n# select \"ウェイトリフティング\" \"select_label_1\" \"ウェイトゥライブ\" \"select_label_2\" \"ウェイ！ウェイ！\" \"select_label_3\"\nあたしが\n習得したスキルは覚えてる？\n"
+	},
+	{
+		"ID": 2429,
+		"unitID": 2400811,
+		"questionID": 9400829,
+		"script": ";;極みマイウェイ,3\n# face %(unit_a)s \"usual\"\n# voice 4008 \"otyinusu_0001\"\n@オティヌス\n…ねぇ、マスター\n今日のデート、\nどうだった？\n\n# face %(unit_a)s \"smile\"\n# voice 4008 \"otyinusu_0004\"\n@オティヌス\nマスターのハート、\nしっかり射抜けてた？\n…なんてね♪\n\n# face %(unit_a)s \"usual\"\n# voice 4008 \"otyinusu_0006\"\n@オティヌス\nじゃあさ、\nここでクイズ！\n\n# face %(unit_a)s \"smile\"\n@オティヌス\n今度はマスターが\nあたしのハート、\n射抜いてみて？\n\n# voice 4008 \"otyinusu_0036\"\n@オティヌス\nいくよ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしが\n習得したスキルは覚えてる？\n\n# se \"SE_0734\"\n# select \"極みハイウェイ\" \"select_label_1\" \"極みウェイ！ウェイ！\" \"select_label_2\" \"極みマイウェイ\" \"select_label_3\"\nあたしが\n習得したスキルは覚えてる？\n"
+	},
+	{
+		"ID": 2430,
+		"unitID": 2400811,
+		"questionID": 9400830,
+		"script": ";;はっきり言うタイプ,1\n# face %(unit_a)s \"usual\"\n# voice 4008 \"otyinusu_0001\"\n@オティヌス\n…ねぇ、マスター\n今日のデート、\nどうだった？\n\n# face %(unit_a)s \"smile\"\n# voice 4008 \"otyinusu_0004\"\n@オティヌス\nマスターのハート、\nしっかり射抜けてた？\n…なんてね♪\n\n# face %(unit_a)s \"usual\"\n# voice 4008 \"otyinusu_0006\"\n@オティヌス\nじゃあさ、\nここでクイズ！\n\n# face %(unit_a)s \"smile\"\n@オティヌス\n今度はマスターが\nあたしのハート、\n射抜いてみて？\n\n# voice 4008 \"otyinusu_0036\"\n@オティヌス\nいくよ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n あたしは言いたい事は…\n\n# se \"SE_0734\"\n# select \"はっきり言うタイプ\" \"select_label_1\" \"黙って押し殺すタイプ\" \"select_label_2\" \"ないタイプ\" \"select_label_3\"\n あたしは言いたい事は…\n"
+	},
+	{
+		"ID": 2431,
+		"unitID": 2400811,
+		"questionID": 9400831,
+		"script": ";;valley,1\n# face %(unit_a)s \"usual\"\n# voice 4008 \"otyinusu_0001\"\n@オティヌス\nねぇ、マスター\n\n@オティヌス\nあたしは…\n\n# face %(unit_a)s \"smile\"\n# voice 4008 \"otyinusu_0004\"\n@オティヌス\nマスターのこと、\n好きだよ\n\n@オティヌス\nマスターはあたしのこと…\n\n# face %(unit_a)s \"sad\"\n@オティヌス\n好き？\n\n@オティヌス\nその気持ち\n本当かどうか…\n\n# voice 4008 \"otyinusu_0036\"\n# face %(unit_a)s \"smile\"\n@オティヌス\n試していいかな…？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしの好きな場所は\n谷なんだけど、\n谷って英語でなんだっけ？\n\n# se \"SE_0734\"\n# select \"valley\" \"select_label_1\" \"volley\" \"select_label_2\" \"ballet\" \"select_label_3\"\nあたしの好きな場所は\n谷なんだけど、\n谷って英語でなんだっけ？\n"
+	},
+	{
+		"ID": 2432,
+		"unitID": 2400811,
+		"questionID": 9400832,
+		"script": ";;Virgo,2\n# face %(unit_a)s \"usual\"\n# voice 4008 \"otyinusu_0001\"\n@オティヌス\nねぇ、マスター\n\n@オティヌス\nあたしは…\n\n# face %(unit_a)s \"smile\"\n# voice 4008 \"otyinusu_0004\"\n@オティヌス\nマスターのこと、\n好きだよ\n\n@オティヌス\nマスターはあたしのこと…\n\n# face %(unit_a)s \"sad\"\n@オティヌス\n好き？\n\n@オティヌス\nその気持ち\n本当かどうか…\n\n# voice 4008 \"otyinusu_0036\"\n# face %(unit_a)s \"smile\"\n@オティヌス\n試していいかな…？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしの星座を英語で言うと？\n\n# se \"SE_0734\"\n# select \"Capricorn\" \"select_label_1\" \"Virgo\" \"select_label_2\" \"Scorpio\" \"select_label_3\"\nあたしの星座を英語で言うと？\n"
+	},
+	{
+		"ID": 2433,
+		"unitID": 2400811,
+		"questionID": 9400833,
+		"script": ";;September,3\n# face %(unit_a)s \"usual\"\n# voice 4008 \"otyinusu_0001\"\n@オティヌス\nねぇ、マスター\n\n@オティヌス\nあたしは…\n\n# face %(unit_a)s \"smile\"\n# voice 4008 \"otyinusu_0004\"\n@オティヌス\nマスターのこと、\n好きだよ\n\n@オティヌス\nマスターはあたしのこと…\n\n# face %(unit_a)s \"sad\"\n@オティヌス\n好き？\n\n@オティヌス\nその気持ち\n本当かどうか…\n\n# voice 4008 \"otyinusu_0036\"\n# face %(unit_a)s \"smile\"\n@オティヌス\n試していいかな…？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしの誕生月を英語で言うと？\n\n# se \"SE_0734\"\n# select \"October\" \"select_label_1\" \"November\" \"select_label_2\" \"September\" \"select_label_3\"\nあたしの誕生月を英語で言うと？\n"
+	},
+	{
+		"ID": 2434,
+		"unitID": 2400811,
+		"questionID": 9400834,
+		"script": ";;緑色,1\n# face %(unit_a)s \"usual\"\n# voice 4008 \"otyinusu_0001\"\n@オティヌス\nねぇ、マスター\n\n@オティヌス\nあたしは…\n\n# face %(unit_a)s \"smile\"\n# voice 4008 \"otyinusu_0004\"\n@オティヌス\nマスターのこと、\n好きだよ\n\n@オティヌス\nマスターはあたしのこと…\n\n# face %(unit_a)s \"sad\"\n@オティヌス\n好き？\n\n@オティヌス\nその気持ち\n本当かどうか…\n\n# voice 4008 \"otyinusu_0036\"\n# face %(unit_a)s \"smile\"\n@オティヌス\n試していいかな…？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしの瞳の色は何色だったかな？\n\n# se \"SE_0734\"\n# select \"緑色\" \"select_label_1\" \"黄色\" \"select_label_2\" \"黒色\" \"select_label_3\"\nあたしの瞳の色は何色だったかな？\n"
+	},
+	{
+		"ID": 2435,
+		"unitID": 2400811,
+		"questionID": 9400835,
+		"script": ";;赤と茶,2\n# face %(unit_a)s \"usual\"\n# voice 4008 \"otyinusu_0001\"\n@オティヌス\nねぇ、マスター\n\n@オティヌス\nあたしは…\n\n# face %(unit_a)s \"smile\"\n# voice 4008 \"otyinusu_0004\"\n@オティヌス\nマスターのこと、\n好きだよ\n\n@オティヌス\nマスターはあたしのこと…\n\n# face %(unit_a)s \"sad\"\n@オティヌス\n好き？\n\n@オティヌス\nその気持ち\n本当かどうか…\n\n# voice 4008 \"otyinusu_0036\"\n# face %(unit_a)s \"smile\"\n@オティヌス\n試していいかな…？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしの髪の色を答えてくれる？\n\n# se \"SE_0734\"\n# select \"青と紫\" \"select_label_1\" \"赤と茶\" \"select_label_2\" \"漆黒の黒\" \"select_label_3\"\nあたしの髪の色を答えてくれる？\n"
+	},
+	{
+		"ID": 2436,
+		"unitID": 2400811,
+		"questionID": 9400836,
+		"script": ";;落とし穴,3\n# face %(unit_a)s \"usual\"\n# voice 4008 \"otyinusu_0001\"\n@オティヌス\nねぇ、マスター\n\n@オティヌス\nあたしは…\n\n# face %(unit_a)s \"smile\"\n# voice 4008 \"otyinusu_0004\"\n@オティヌス\nマスターのこと、\n好きだよ\n\n@オティヌス\nマスターはあたしのこと…\n\n# face %(unit_a)s \"sad\"\n@オティヌス\n好き？\n\n@オティヌス\nその気持ち\n本当かどうか…\n\n# voice 4008 \"otyinusu_0036\"\n# face %(unit_a)s \"smile\"\n@オティヌス\n試していいかな…？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n「ウェイトゥライブ」を習得した時\nあたしがマスターにした\n悪巧みってな～んだ？\n\n# se \"SE_0734\"\n# select \"お年玉\" \"select_label_1\" \"落し蓋\" \"select_label_2\" \"落とし穴\" \"select_label_3\"\n「ウェイトゥライブ」を習得した時\nあたしがマスターにした\n悪巧みってな～んだ？\n"
+	},
+	{
+		"ID": 2437,
+		"unitID": 2400811,
+		"questionID": 9400837,
+		"script": ";;7画,1\n# face %(unit_a)s \"usual\"\n# voice 4008 \"otyinusu_0001\"\n@オティヌス\nねぇ、マスター\n\n@オティヌス\nあたしは…\n\n# face %(unit_a)s \"smile\"\n# voice 4008 \"otyinusu_0004\"\n@オティヌス\nマスターのこと、\n好きだよ\n\n@オティヌス\nマスターはあたしのこと…\n\n# face %(unit_a)s \"sad\"\n@オティヌス\n好き？\n\n@オティヌス\nその気持ち\n本当かどうか…\n\n# voice 4008 \"otyinusu_0036\"\n# face %(unit_a)s \"smile\"\n@オティヌス\n試していいかな…？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたし『谷』が好きなんだけど\n『谷』って何画？\n\n# se \"SE_0734\"\n# select \"7画\" \"select_label_1\" \"9画\" \"select_label_2\" \"5画\" \"select_label_3\"\nあたし『谷』が好きなんだけど\n『谷』って何画？\n"
+	},
+	{
+		"ID": 2438,
+		"unitID": 2400811,
+		"questionID": 9400838,
+		"script": ";;スラーンド,2\n# face %(unit_a)s \"usual\"\n# voice 4008 \"otyinusu_0001\"\n@オティヌス\nねぇ、マスター\n\n@オティヌス\nあたしは…\n\n# face %(unit_a)s \"smile\"\n# voice 4008 \"otyinusu_0004\"\n@オティヌス\nマスターのこと、\n好きだよ\n\n@オティヌス\nマスターはあたしのこと…\n\n# face %(unit_a)s \"sad\"\n@オティヌス\n好き？\n\n@オティヌス\nその気持ち\n本当かどうか…\n\n# voice 4008 \"otyinusu_0036\"\n# face %(unit_a)s \"smile\"\n@オティヌス\n試していいかな…？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしと同じ血液型なのは\n誰かわかるかな？\n\n# se \"SE_0734\"\n# select \"ペルーン\" \"select_label_1\" \"スラーンド\" \"select_label_2\" \"ラブリュス\" \"select_label_3\"\nあたしと同じ血液型なのは\n誰かわかるかな？\n"
+	},
+	{
+		"ID": 2439,
+		"unitID": 2400811,
+		"questionID": 9400839,
+		"script": ";;レシェフ,3\n# face %(unit_a)s \"usual\"\n# voice 4008 \"otyinusu_0001\"\n@オティヌス\nねぇ、マスター\n\n@オティヌス\nあたしは…\n\n# face %(unit_a)s \"smile\"\n# voice 4008 \"otyinusu_0004\"\n@オティヌス\nマスターのこと、\n好きだよ\n\n@オティヌス\nマスターはあたしのこと…\n\n# face %(unit_a)s \"sad\"\n@オティヌス\n好き？\n\n@オティヌス\nその気持ち\n本当かどうか…\n\n# voice 4008 \"otyinusu_0036\"\n# face %(unit_a)s \"smile\"\n@オティヌス\n試していいかな…？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしと違う血液型なのは\n誰かわかるかな？\n\n# se \"SE_0734\"\n# select \"ブラフマーストラ\" \"select_label_1\" \"スラーンド\" \"select_label_2\" \"レシェフ\" \"select_label_3\"\nあたしと違う血液型なのは\n誰かわかるかな？\n"
+	},
+	{
+		"ID": 2440,
+		"unitID": 2400811,
+		"questionID": 9400840,
+		"script": ";;グングニル,1\n# face %(unit_a)s \"usual\"\n# voice 4008 \"otyinusu_0001\"\n@オティヌス\nねぇ、マスター\n\n@オティヌス\nあたしは…\n\n# face %(unit_a)s \"smile\"\n# voice 4008 \"otyinusu_0004\"\n@オティヌス\nマスターのこと、\n好きだよ\n\n@オティヌス\nマスターはあたしのこと…\n\n# face %(unit_a)s \"sad\"\n@オティヌス\n好き？\n\n@オティヌス\nその気持ち\n本当かどうか…\n\n# voice 4008 \"otyinusu_0036\"\n# face %(unit_a)s \"smile\"\n@オティヌス\n試していいかな…？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nこの中に\nあたしと同じ誕生日の子がいるよ！\nだ～れだ？\n\n# se \"SE_0734\"\n# select \"グングニル\" \"select_label_1\" \"バルムンク\" \"select_label_2\" \"グリモワール\" \"select_label_3\"\nこの中に\nあたしと同じ誕生日の子がいるよ！\nだ～れだ？\n"
+	},
+	{
+		"ID": 2441,
+		"unitID": 2400811,
+		"questionID": 9400841,
+		"script": "\n;;あたし,1\n# se \"SE_0734\"\n# select \"あたし\" \"select_label_1\" \"あちき\" \"select_label_2\" \"我\" \"select_label_3\"\nオティヌスの一人称は\n次のうちどれ？\n"
+	},
+	{
+		"ID": 2442,
+		"unitID": 2400811,
+		"questionID": 9400842,
+		"script": "\n;;あんた,2\n# se \"SE_0734\"\n# select \"ご主人\" \"select_label_1\" \"あんた\" \"select_label_2\" \"キミ\" \"select_label_3\"\nオティヌスはアンタのこと、\nなんて呼んでる？\n"
+	},
+	{
+		"ID": 2443,
+		"unitID": 2400811,
+		"questionID": 9400843,
+		"script": "\n;;80,3\n# se \"SE_0734\"\n# select \"78\" \"select_label_1\" \"82\" \"select_label_2\" \"80\" \"select_label_3\"\nオティヌスの\nバストサイズがどのくらいか\nアンタ…知ってるの？\n"
+	},
+	{
+		"ID": 2444,
+		"unitID": 2400811,
+		"questionID": 9400844,
+		"script": "\n;;56,1\n# se \"SE_0734\"\n# select \"56\" \"select_label_1\" \"60\" \"select_label_2\" \"61\" \"select_label_3\"\nオティヌスの\nウエストサイズがどのくらいか\nアンタ…知ってるの？\n"
+	},
+	{
+		"ID": 2445,
+		"unitID": 2400811,
+		"questionID": 9400845,
+		"script": "\n;;82,2\n# se \"SE_0734\"\n# select \"79\" \"select_label_1\" \"82\" \"select_label_2\" \"85\" \"select_label_3\"\nオティヌスの\nヒップサイズがどのくらいか\nアンタ…知ってるの？\n"
+	},
+	{
+		"ID": 2446,
+		"unitID": 2400811,
+		"questionID": 9400846,
+		"script": "\n;;46,3\n# se \"SE_0734\"\n# select \"40\" \"select_label_1\" \"43\" \"select_label_2\" \"46\" \"select_label_3\"\nオティヌスの体重は\n次のうちどれ？\n"
+	},
+	{
+		"ID": 2447,
+		"unitID": 2400811,
+		"questionID": 9400847,
+		"script": "\n;;218,1\n# se \"SE_0734\"\n# select \"218\" \"select_label_1\" \"219\" \"select_label_2\" \"220\" \"select_label_3\"\nオティヌスの\nバスト＋ウエスト＋ヒップは\nいくつかわかる？\n"
+	},
+	{
+		"ID": 2448,
+		"unitID": 2400811,
+		"questionID": 9400848,
+		"script": "\n;;紫色,2\n# se \"SE_0734\"\n# select \"赤色\" \"select_label_1\" \"紫色\" \"select_label_2\" \"黄色\" \"select_label_3\"\nオティヌスの水着の色は\n次のうちどれ？\n"
+	},
+	{
+		"ID": 2449,
+		"unitID": 2400811,
+		"questionID": 9400849,
+		"script": "\n;;36位3  \n# se \"SE_0734\"\n# select \"38位\" \"select_label_1\" \"43位\" \"select_label_2\" \"36位\" \"select_label_3\"\nオティヌスは\n第２回人気投票で\n何位だったでしょう？\n"
+	},
+	{
+		"ID": 2450,
+		"unitID": 2400811,
+		"questionID": 9400850,
+		"script": "\n;;瀬戸麻沙美,1\n# se \"SE_0734\"\n# select \"瀬戸麻沙美\" \"select_label_1\" \"小林ゆう\" \"select_label_2\" \"若林直美\" \"select_label_3\"\n オティヌスの声優は誰？\n"
+	}
+]

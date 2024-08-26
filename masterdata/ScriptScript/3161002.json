@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 3161002,
+		"script": "# script \"lisp\"\n# background \"psychopass\"\n# bgmfile \"bgm049\" \"BgmPPcollabo001\" 0\n# body 501211\n# pos 501211 4\n# body 860006\n# pos 860006 2\n# scale 860006 0.9 0\n# textboxarrow 0 3\n# face 501211 \"sad\"\n# chara 501211\n@霜月美佳\nなんなの…人、なの…？\nほ、ホロアバターよね…？\n\n# serif 1\n# se \"SE_0617\"\n# textboxarrow 1 1\n# chara 860006\n@異族\nグギギギギギッギギギギギギ！！！\n\n# serif 0\n# textboxarrow 0 3\n# face 501211 \"surprise\"\n# chara 501211\n@霜月美佳\n嘘…車を…素手で潰した…？\n\n# se \"SE_0618\"\n# serif 1\n# textboxarrow 1 1\n# chara 860006\n@異族\nギギギグギャァァァァッ！！！\n\n# serif 0\n# voice 5012 \"mika_unit_0009\"\n# textboxarrow 0 3\n# face 501211 \"angry\"\n# chara 501211\n@霜月美佳\n来ないで…来ないでよ…\n撃つわよ…\n撃つって言ってるでしょ！！"
+	}
+]

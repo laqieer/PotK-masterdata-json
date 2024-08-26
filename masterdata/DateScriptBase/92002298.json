@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 92002298,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# se \"SE_0733\"\n# voice 2002 \"aimuru_0001\"\n@アイムール\nハズレです、マスター\n\n@アイムール\n思ったよりも\n難しかったでしょうか？\n\n# eye %(unit_a)s \"close\"\n@アイムール\n比較的簡単な質問をしたと、\nそう思っていたんですが…\n\n# eye %(unit_a)s \"normal\"\n@アイムール\nとはいえ、\nいきなりこんなことを始めた\n私にも責任はあります\n\n@アイムール\n今回は不正解でしたが、\n次の機会には…\n\n# face %(unit_a)s \"normal\"\n# voice 2002 \"aimuru_0036\"\n@アイムール\n正解してくれますよね？\n\n# voice 2002 \"aimuru_0003\"\n@アイムール\n私、信じていますから\nそれでは行きましょう\n\n# textflame 0 0\n@\nアイムールの笑顔が心に痛い\n\n@\nせっかく質問してくれたのに、\n本当に申し訳ないことをしたと\n心が自責の念で満たされるマスター\n\n@\n今度こそは必ず正解をし、\n二度とこんなことがないよう\n努力しなければ…\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

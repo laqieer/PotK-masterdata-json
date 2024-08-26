@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 95024499,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# se \"SE_0732\"\n@雑賀\nはい、正解！\n\n@雑賀\nやっぱ、嬉しいな\n\n# face %(unit_a)s \"sad\"\n@雑賀\n一対一は苦手やと\n思ってたけど…\n\n# face %(unit_a)s \"smile\"\n@雑賀\nマスターとやったら、\n楽しいわ\n\n# voice 5024 \"saika_0028\"\n@雑賀\n一回しか言わへんから…\nよぉ聞いとってよ…？\n\n# voice 5024 \"saika_0004\"\n@雑賀\nてち好きなんやしょ\n\n# textflame 0 0\n@\n照れて顔を赤くする彼女\n\n@\nはにかんだ特別な笑顔が見られて、\n彼女との絆が\nさらに深まったのを実感した…\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

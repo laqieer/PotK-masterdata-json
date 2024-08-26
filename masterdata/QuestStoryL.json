@@ -1,0 +1,632 @@
+[
+	{
+		"ID": 1,
+		"name": "ラグナの脅威",
+		"priority": 1,
+		"origin_id": 0,
+		"quest_xl_QuestStoryXL": 1,
+		"quest_mode_CommonQuestMode": 1,
+		"number_l": 1,
+		"short_name": "第１章"
+	},
+	{
+		"ID": 2,
+		"name": "悪魔の子",
+		"priority": 2,
+		"origin_id": 0,
+		"quest_xl_QuestStoryXL": 1,
+		"quest_mode_CommonQuestMode": 1,
+		"number_l": 2,
+		"short_name": "第２章"
+	},
+	{
+		"ID": 3,
+		"name": "ラグナの脅威",
+		"priority": 3,
+		"origin_id": 1,
+		"quest_xl_QuestStoryXL": 1,
+		"quest_mode_CommonQuestMode": 2,
+		"number_l": 1,
+		"short_name": "第１章"
+	},
+	{
+		"ID": 4,
+		"name": "悪魔の子",
+		"priority": 4,
+		"origin_id": 2,
+		"quest_xl_QuestStoryXL": 1,
+		"quest_mode_CommonQuestMode": 2,
+		"number_l": 2,
+		"short_name": "第２章"
+	},
+	{
+		"ID": 5,
+		"name": "マスターの条件",
+		"priority": 5,
+		"origin_id": 0,
+		"quest_xl_QuestStoryXL": 1,
+		"quest_mode_CommonQuestMode": 1,
+		"number_l": 3,
+		"short_name": "第３章"
+	},
+	{
+		"ID": 6,
+		"name": "マスターの条件",
+		"priority": 6,
+		"origin_id": 5,
+		"quest_xl_QuestStoryXL": 1,
+		"quest_mode_CommonQuestMode": 2,
+		"number_l": 3,
+		"short_name": "第３章"
+	},
+	{
+		"ID": 7,
+		"name": "星追い人",
+		"priority": 7,
+		"origin_id": 0,
+		"quest_xl_QuestStoryXL": 1,
+		"quest_mode_CommonQuestMode": 1,
+		"number_l": 4,
+		"short_name": "第４章"
+	},
+	{
+		"ID": 8,
+		"name": "星追い人",
+		"priority": 8,
+		"origin_id": 7,
+		"quest_xl_QuestStoryXL": 1,
+		"quest_mode_CommonQuestMode": 2,
+		"number_l": 4,
+		"short_name": "第４章"
+	},
+	{
+		"ID": 9,
+		"name": "寡黙な番人",
+		"priority": 9,
+		"origin_id": 0,
+		"quest_xl_QuestStoryXL": 1,
+		"quest_mode_CommonQuestMode": 1,
+		"number_l": 5,
+		"short_name": "第５章"
+	},
+	{
+		"ID": 10,
+		"name": "寡黙な番人",
+		"priority": 10,
+		"origin_id": 9,
+		"quest_xl_QuestStoryXL": 1,
+		"quest_mode_CommonQuestMode": 2,
+		"number_l": 5,
+		"short_name": "第５章"
+	},
+	{
+		"ID": 11,
+		"name": "災厄を招く使者",
+		"priority": 11,
+		"origin_id": 0,
+		"quest_xl_QuestStoryXL": 1,
+		"quest_mode_CommonQuestMode": 1,
+		"number_l": 6,
+		"short_name": "第６章"
+	},
+	{
+		"ID": 12,
+		"name": "崩れゆく虚像",
+		"priority": 12,
+		"origin_id": 0,
+		"quest_xl_QuestStoryXL": 1,
+		"quest_mode_CommonQuestMode": 1,
+		"number_l": 7,
+		"short_name": "第７章"
+	},
+	{
+		"ID": 15,
+		"name": "王都決戦",
+		"priority": 13,
+		"origin_id": 0,
+		"quest_xl_QuestStoryXL": 1,
+		"quest_mode_CommonQuestMode": 1,
+		"number_l": 8,
+		"short_name": "第8章"
+	},
+	{
+		"ID": 16,
+		"name": "降臨せし観測者",
+		"priority": 14,
+		"origin_id": 0,
+		"quest_xl_QuestStoryXL": 1,
+		"quest_mode_CommonQuestMode": 1,
+		"number_l": 9,
+		"short_name": "第9章"
+	},
+	{
+		"ID": 17,
+		"name": "第10章",
+		"priority": 15,
+		"origin_id": 0,
+		"quest_xl_QuestStoryXL": 1,
+		"quest_mode_CommonQuestMode": 1,
+		"number_l": 10,
+		"short_name": ""
+	},
+	{
+		"ID": 18,
+		"name": "新章チュートリアル",
+		"priority": 16,
+		"origin_id": 0,
+		"quest_xl_QuestStoryXL": 5,
+		"quest_mode_CommonQuestMode": 1,
+		"number_l": 1,
+		"short_name": ""
+	},
+	{
+		"ID": 19,
+		"name": "ネオ・リベリオン",
+		"priority": 1,
+		"origin_id": 0,
+		"quest_xl_QuestStoryXL": 4,
+		"quest_mode_CommonQuestMode": 1,
+		"number_l": 1,
+		"short_name": "第１章"
+	},
+	{
+		"ID": 20,
+		"name": "ルートディストピア",
+		"priority": 2,
+		"origin_id": 0,
+		"quest_xl_QuestStoryXL": 4,
+		"quest_mode_CommonQuestMode": 1,
+		"number_l": 2,
+		"short_name": "第２章"
+	},
+	{
+		"ID": 21,
+		"name": "ディスラプターズ",
+		"priority": 3,
+		"origin_id": 0,
+		"quest_xl_QuestStoryXL": 4,
+		"quest_mode_CommonQuestMode": 1,
+		"number_l": 3,
+		"short_name": "幕間"
+	},
+	{
+		"ID": 22,
+		"name": "デモンズルール",
+		"priority": 4,
+		"origin_id": 0,
+		"quest_xl_QuestStoryXL": 4,
+		"quest_mode_CommonQuestMode": 1,
+		"number_l": 4,
+		"short_name": "第3章"
+	},
+	{
+		"ID": 23,
+		"name": "ブレイク・アゲイン",
+		"priority": 5,
+		"origin_id": 0,
+		"quest_xl_QuestStoryXL": 4,
+		"quest_mode_CommonQuestMode": 1,
+		"number_l": 5,
+		"short_name": "第4章"
+	},
+	{
+		"ID": 24,
+		"name": "フォールスヘブン",
+		"priority": 6,
+		"origin_id": 0,
+		"quest_xl_QuestStoryXL": 4,
+		"quest_mode_CommonQuestMode": 1,
+		"number_l": 6,
+		"short_name": "第5章"
+	},
+	{
+		"ID": 25,
+		"name": "デモンズフェイク",
+		"priority": 7,
+		"origin_id": 0,
+		"quest_xl_QuestStoryXL": 4,
+		"quest_mode_CommonQuestMode": 1,
+		"number_l": 7,
+		"short_name": "第6章"
+	},
+	{
+		"ID": 26,
+		"name": "ツイン・ウェイク",
+		"priority": 8,
+		"origin_id": 0,
+		"quest_xl_QuestStoryXL": 4,
+		"quest_mode_CommonQuestMode": 1,
+		"number_l": 8,
+		"short_name": "第7章"
+	},
+	{
+		"ID": 27,
+		"name": "アビス・メモリー",
+		"priority": 9,
+		"origin_id": 0,
+		"quest_xl_QuestStoryXL": 4,
+		"quest_mode_CommonQuestMode": 1,
+		"number_l": 9,
+		"short_name": "第8章"
+	},
+	{
+		"ID": 28,
+		"name": "シンボル・クライシス",
+		"priority": 10,
+		"origin_id": 0,
+		"quest_xl_QuestStoryXL": 4,
+		"quest_mode_CommonQuestMode": 1,
+		"number_l": 10,
+		"short_name": "第9章"
+	},
+	{
+		"ID": 29,
+		"name": "ラストゲート",
+		"priority": 11,
+		"origin_id": 0,
+		"quest_xl_QuestStoryXL": 4,
+		"quest_mode_CommonQuestMode": 1,
+		"number_l": 11,
+		"short_name": "第10章"
+	},
+	{
+		"ID": 30,
+		"name": "ロストラグナロク",
+		"priority": 12,
+		"origin_id": 0,
+		"quest_xl_QuestStoryXL": 4,
+		"quest_mode_CommonQuestMode": 1,
+		"number_l": 12,
+		"short_name": "第11章"
+	},
+	{
+		"ID": 31,
+		"name": "リバースワールド",
+		"priority": 13,
+		"origin_id": 0,
+		"quest_xl_QuestStoryXL": 4,
+		"quest_mode_CommonQuestMode": 1,
+		"number_l": 13,
+		"short_name": "第12章"
+	},
+	{
+		"ID": 32,
+		"name": "トレジャーメモリー",
+		"priority": 14,
+		"origin_id": 0,
+		"quest_xl_QuestStoryXL": 4,
+		"quest_mode_CommonQuestMode": 1,
+		"number_l": 14,
+		"short_name": "第13章"
+	},
+	{
+		"ID": 33,
+		"name": "ミッシング・ゴッド",
+		"priority": 15,
+		"origin_id": 0,
+		"quest_xl_QuestStoryXL": 4,
+		"quest_mode_CommonQuestMode": 1,
+		"number_l": 15,
+		"short_name": "第14章"
+	},
+	{
+		"ID": 34,
+		"name": "ソリタリー・ホープ",
+		"priority": 16,
+		"origin_id": 0,
+		"quest_xl_QuestStoryXL": 4,
+		"quest_mode_CommonQuestMode": 1,
+		"number_l": 16,
+		"short_name": "第15章"
+	},
+	{
+		"ID": 35,
+		"name": "ネオ・ユートピア",
+		"priority": 17,
+		"origin_id": 0,
+		"quest_xl_QuestStoryXL": 4,
+		"quest_mode_CommonQuestMode": 1,
+		"number_l": 17,
+		"short_name": "第16章"
+	},
+	{
+		"ID": 36,
+		"name": "プロローグ",
+		"priority": 1,
+		"origin_id": 0,
+		"quest_xl_QuestStoryXL": 6,
+		"quest_mode_CommonQuestMode": 1,
+		"number_l": 1,
+		"short_name": ""
+	},
+	{
+		"ID": 37,
+		"name": "エデンクライシス-始動-",
+		"priority": 2,
+		"origin_id": 0,
+		"quest_xl_QuestStoryXL": 6,
+		"quest_mode_CommonQuestMode": 1,
+		"number_l": 1,
+		"short_name": "第1章"
+	},
+	{
+		"ID": 38,
+		"name": "エデンクライシス-覚醒-",
+		"priority": 3,
+		"origin_id": 0,
+		"quest_xl_QuestStoryXL": 6,
+		"quest_mode_CommonQuestMode": 1,
+		"number_l": 2,
+		"short_name": "第2章"
+	},
+	{
+		"ID": 39,
+		"name": "地上の脅威-リバイヴ-",
+		"priority": 4,
+		"origin_id": 0,
+		"quest_xl_QuestStoryXL": 6,
+		"quest_mode_CommonQuestMode": 1,
+		"number_l": 3,
+		"short_name": "第3章"
+	},
+	{
+		"ID": 40,
+		"name": "世界樹の子-インベイジョン-",
+		"priority": 5,
+		"origin_id": 0,
+		"quest_xl_QuestStoryXL": 6,
+		"quest_mode_CommonQuestMode": 1,
+		"number_l": 4,
+		"short_name": "第4章"
+	},
+	{
+		"ID": 41,
+		"name": "マスターの信念―ブレイブ―",
+		"priority": 6,
+		"origin_id": 0,
+		"quest_xl_QuestStoryXL": 6,
+		"quest_mode_CommonQuestMode": 1,
+		"number_l": 5,
+		"short_name": "第5章"
+	},
+	{
+		"ID": 42,
+		"name": "アナザー・コンフリクト―交錯―",
+		"priority": 7,
+		"origin_id": 0,
+		"quest_xl_QuestStoryXL": 6,
+		"quest_mode_CommonQuestMode": 1,
+		"number_l": 6,
+		"short_name": "第6章"
+	},
+	{
+		"ID": 43,
+		"name": "夢追い人―デザイア―",
+		"priority": 8,
+		"origin_id": 0,
+		"quest_xl_QuestStoryXL": 6,
+		"quest_mode_CommonQuestMode": 1,
+		"number_l": 7,
+		"short_name": "第7章"
+	},
+	{
+		"ID": 44,
+		"name": "ビギニング・オブ・ジ・エンド",
+		"priority": 9,
+		"origin_id": 0,
+		"quest_xl_QuestStoryXL": 6,
+		"quest_mode_CommonQuestMode": 1,
+		"number_l": 8,
+		"short_name": "第8章"
+	},
+	{
+		"ID": 45,
+		"name": "雄弁な守人―プレッジ―",
+		"priority": 10,
+		"origin_id": 0,
+		"quest_xl_QuestStoryXL": 6,
+		"quest_mode_CommonQuestMode": 1,
+		"number_l": 9,
+		"short_name": "第9章"
+	},
+	{
+		"ID": 46,
+		"name": "勝利を招く悪魔 ―フレイルティ―",
+		"priority": 11,
+		"origin_id": 0,
+		"quest_xl_QuestStoryXL": 6,
+		"quest_mode_CommonQuestMode": 1,
+		"number_l": 10,
+		"short_name": "第10章"
+	},
+	{
+		"ID": 47,
+		"name": "問いかける幻獣 ―ダイアローグ―",
+		"priority": 12,
+		"origin_id": 0,
+		"quest_xl_QuestStoryXL": 6,
+		"quest_mode_CommonQuestMode": 1,
+		"number_l": 11,
+		"short_name": "第11章"
+	},
+	{
+		"ID": 48,
+		"name": "ラルゴカタストロフィ―暴走―",
+		"priority": 13,
+		"origin_id": 0,
+		"quest_xl_QuestStoryXL": 6,
+		"quest_mode_CommonQuestMode": 1,
+		"number_l": 12,
+		"short_name": "第12章"
+	},
+	{
+		"ID": 49,
+		"name": "ラルゴカタストロフィ―攪乱―",
+		"priority": 14,
+		"origin_id": 0,
+		"quest_xl_QuestStoryXL": 6,
+		"quest_mode_CommonQuestMode": 1,
+		"number_l": 13,
+		"short_name": "第13章"
+	},
+	{
+		"ID": 50,
+		"name": "ラルゴカタストロフィ―激突―",
+		"priority": 15,
+		"origin_id": 0,
+		"quest_xl_QuestStoryXL": 6,
+		"quest_mode_CommonQuestMode": 1,
+		"number_l": 14,
+		"short_name": "第14章"
+	},
+	{
+		"ID": 51,
+		"name": "クリティカルフェイズ―連携―",
+		"priority": 16,
+		"origin_id": 0,
+		"quest_xl_QuestStoryXL": 6,
+		"quest_mode_CommonQuestMode": 1,
+		"number_l": 15,
+		"short_name": "第15章"
+	},
+	{
+		"ID": 52,
+		"name": "中心部決戦―エクリプス―",
+		"priority": 17,
+		"origin_id": 0,
+		"quest_xl_QuestStoryXL": 6,
+		"quest_mode_CommonQuestMode": 1,
+		"number_l": 16,
+		"short_name": "第16章"
+	},
+	{
+		"ID": 53,
+		"name": "到来せし繋ぎ手―エクスプレス―",
+		"priority": 18,
+		"origin_id": 0,
+		"quest_xl_QuestStoryXL": 6,
+		"quest_mode_CommonQuestMode": 1,
+		"number_l": 17,
+		"short_name": "第17章"
+	},
+	{
+		"ID": 54,
+		"name": "×××アポカリプス",
+		"priority": 19,
+		"origin_id": 0,
+		"quest_xl_QuestStoryXL": 6,
+		"quest_mode_CommonQuestMode": 1,
+		"number_l": 18,
+		"short_name": "第18章"
+	},
+	{
+		"ID": 55,
+		"name": "ワールドサルベイション",
+		"priority": 20,
+		"origin_id": 0,
+		"quest_xl_QuestStoryXL": 6,
+		"quest_mode_CommonQuestMode": 1,
+		"number_l": 19,
+		"short_name": "第19章"
+	},
+	{
+		"ID": 56,
+		"name": "絶望の終焉…そして",
+		"priority": 21,
+		"origin_id": 0,
+		"quest_xl_QuestStoryXL": 6,
+		"quest_mode_CommonQuestMode": 1,
+		"number_l": 20,
+		"short_name": "第20章"
+	},
+	{
+		"ID": 57,
+		"name": "プロローグ",
+		"priority": 1,
+		"origin_id": 0,
+		"quest_xl_QuestStoryXL": 7,
+		"quest_mode_CommonQuestMode": 1,
+		"number_l": 1,
+		"short_name": ""
+	},
+	{
+		"ID": 58,
+		"name": "幕間",
+		"priority": 2,
+		"origin_id": 0,
+		"quest_xl_QuestStoryXL": 7,
+		"quest_mode_CommonQuestMode": 1,
+		"number_l": 2,
+		"short_name": ""
+	},
+	{
+		"ID": 59,
+		"name": "閉ざされた箱にて、キミを射抜く",
+		"priority": 3,
+		"origin_id": 0,
+		"quest_xl_QuestStoryXL": 7,
+		"quest_mode_CommonQuestMode": 1,
+		"number_l": 3,
+		"short_name": "第1章"
+	},
+	{
+		"ID": 60,
+		"name": "今宵、聖域にて貴方と",
+		"priority": 4,
+		"origin_id": 0,
+		"quest_xl_QuestStoryXL": 7,
+		"quest_mode_CommonQuestMode": 1,
+		"number_l": 4,
+		"short_name": "第2章"
+	},
+	{
+		"ID": 61,
+		"name": "颯爽怪決！オカルトバスターズ",
+		"priority": 5,
+		"origin_id": 0,
+		"quest_xl_QuestStoryXL": 7,
+		"quest_mode_CommonQuestMode": 1,
+		"number_l": 5,
+		"short_name": "第3章"
+	},
+	{
+		"ID": 62,
+		"name": "それでも信じて踏み出す者達へ",
+		"priority": 6,
+		"origin_id": 0,
+		"quest_xl_QuestStoryXL": 7,
+		"quest_mode_CommonQuestMode": 1,
+		"number_l": 6,
+		"short_name": "第4章"
+	},
+	{
+		"ID": 63,
+		"name": "そして御旗は再び未来にはためく",
+		"priority": 7,
+		"origin_id": 0,
+		"quest_xl_QuestStoryXL": 7,
+		"quest_mode_CommonQuestMode": 1,
+		"number_l": 7,
+		"short_name": "第5章"
+	},
+	{
+		"ID": 64,
+		"name": "祈り、黄昏、アナタとともに…",
+		"priority": 8,
+		"origin_id": 0,
+		"quest_xl_QuestStoryXL": 7,
+		"quest_mode_CommonQuestMode": 1,
+		"number_l": 8,
+		"short_name": "第6章"
+	},
+	{
+		"ID": 999,
+		"name": "天上編改修_クエスト削除用",
+		"priority": 17,
+		"origin_id": 0,
+		"quest_xl_QuestStoryXL": 1,
+		"quest_mode_CommonQuestMode": 1,
+		"number_l": 999,
+		"short_name": ""
+	}
+]

@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 400124,
+		"script": "# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_resort_night\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# face %(unit_a)s \"angry\"\n@アルテミス\nは、はい！\nそうですね！\n\n# voice 4001 \"arutemisu_0013\"\n# eye %(unit_a)s \"close\"\n@アルテミス\n…………\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"sad\"\n@アルテミス\n大変申し上げにくいのですが…\n\n;;トゲトゲ吹き出し\n# face %(unit_a)s \"angry\"\n# serif 1\n# textwindow \"toge\"\n@アルテミス\n今、頭が真っ白で\nなにも、浮かびません！！！\n\n# serif 1\n# textwindow \"close\"\n# serif 0\n# textwindow \"nomal\"\n# textflame 0 0\n@\n緊張させすぎてしまったようだ\nなんだか悪いことをしてしまった…\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

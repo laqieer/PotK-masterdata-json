@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 2100122,
+		"script": "# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_drive\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 210012 \"masamune_k_0022\"\n@マサムネ\nそんな…勿体無いお言葉…\n\n@マサムネ\n感謝を述べたいのは拙者の方です\n主君にはいつも\n助けてもらっておりますゆえ…\n\n@マサムネ\n主君がいなければ\n拙者はただの道具のままでした\nですが今は…\n\n# face %(unit_a)s \"shy\"\n@マサムネ\n…失敬、話しすぎました\n拙者の気が緩んでおりました…\n\n# textflame 0 0\n@\n横を向いてみると\nマサムネが恥ずかしそうに\n顔を赤く染めていた\n\n@\n珍しいものが見れた気がして\n自然と笑みがこぼれてくるのだった\n;;----------------------------------------\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

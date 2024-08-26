@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 91013198,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# se \"SE_0733\"\n# face %(unit_a)s \"usual\"\n# voice 1013 \"paracelsus_0040\"\n@パラケルスス\nなるほどね…\n\n# textflame 1 1\n@パラケルスス\nよもや間違えるとは、\n思ってもみなかったよ\n\n# textflame 1 1\n@パラケルスス\nまあ、前触れもなしに\nクイズを出したこちらにも\n非はあったのだろうが…\n\n# face %(unit_a)s \"angry\"\n# textflame 0 0\n@\nパラケルススに\nジッと見つめられ\n冷や汗が吹き出るマスター\n\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@パラケルスス\n…そ、そんなにビクビクしなくても\nいいじゃないか！\n\n# textflame 1 1\n@パラケルスス\n次だ！\n次回のクイズで正解してくれたら、\nそれでいいから…\n\n# textflame 1 1\n@パラケルスス\n次こそは、正解してくれよ？\nそ、そうしてくれると、\nわたくしも嬉しいから…\n\n# textflame 0 0\n@\n彼女は恥ずかしがっているような、\nそれでいて照れているような\n表情でマスターを見る\n\n# textflame 0 0\n@\n毎日のように一緒にいるのに、\nまさか答えられないなんて…\n\n# textflame 0 0\n@\nこのままじゃマスター失格だ\n次こそは正解しないと、\n愛想を尽かされるかもしれない…\n\n# textflame 0 0\n@\nそう思ったマスターは、\nパラケルススのことをもっと良く\n観察しようと心に誓ったのだった\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

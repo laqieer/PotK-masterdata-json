@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 1230502,
+		"script": "# script \"lisp\"\n# body 0\n# body 1\n# body 2\n# body 101411\n# textboxarrow 0 1\n# pos 101411 1\n# chara 101411\n# pos 0 3\n# chara 3\n# pos 1 5\n# chara 1\n# face 101411 \"sad\"\n# face 1 \"angry\"\n@ティルフィング\n“悪魔に呪われし村”…\nその悪評のせいで、\n村が通商ルートから外された…\n\n# serif 0\n# textboxarrow 0 2\n# pos 0 3\n# chara 0\n@デュリン\n村を貧困に追い込んだのは、\n異族の出現だけが理由じゃない\nってこと…\n\n# serif 1\n# textboxarrow 1 3\n# pos 1 5\n# chara 1\n@村人A\nその通り…異族は、\n表面的な脅威に過ぎん\n\n# serif 1\n# textboxarrow 1 3\n# pos 1 5\n# chara 1\n@村人A\n真の敵は、人…\n人々が流した悪意ある噂が、\n我らを窮地に追い込んだのだ\n\n# serif 0\n# textboxarrow 0 1\n# pos 101411 1\n# chara 101411\n# voice 1014 \"tyrufing_0015\"\n@ティルフィング\nそんな、理不尽な…\n\n# voice 9999 \"durin_0052\"\n# serif 0\n# textboxarrow 0 2\n# pos 0 3\n# chara 0\n@デュリン\n理不尽…？\nなに言ってんのよ、よくある話だわ\n\n# voice 1014 \"tyrufing_0022\"\n# face 101411 \"normal\"\n# serif 0\n# textboxarrow 0 1\n# pos 101411 1\n# chara 101411\n@ティルフィング\nえ…？\n\n# serif 0\n# textboxarrow 0 2\n# pos 0 3\n# chara 0\n@デュリン\n運命は時として、\n理不尽な現実を突きつける\n\n# serif 0\n# textboxarrow 0 2\n# pos 0 3\n# chara 0\n@デュリン\n逃れることの出来ない、\n絶対的で不条理な現実を…\n\n# serif 0\n# textboxarrow 0 2\n# pos 0 3\n# chara 0\n@デュリン\nこの耕民区・クレナイに\n暮らす人々は、特にね\n皆それを受け入れて生きてるのよ\n\n# face 101411 \"sad\"\n# serif 0\n# textboxarrow 0 1\n# pos 101411 1\n# chara 101411\n@ティルフィング\n…………"
+	}
+]

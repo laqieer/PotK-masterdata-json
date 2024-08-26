@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 502722,
+		"script": ";;//すごく上がる\n;;C\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_onsen\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# voice 5027 \"freischotz_0004\"\n# face %(unit_a)s \"happy\"\n@フライシュッツ\nううん、初めてきたよ\nこれが温泉なんだって…\nだからすごくうれしい\n\n# textflame 0 0\n@\nえ、でもさっきお湯に粘りが…\nとマスター\n\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n@フライシュッツ\nあれはね、\n文化に興味があって…\nちょっと本で読んだことがあるんだ\n\n# textflame 0 0\n@\nそうなんだ、勉強家なんだね\nとマスター\n\n# textflame 1 1\n# face %(unit_a)s \"happy\"\n@フライシュッツ\nそうなんだよ\nおねーちゃんは勉強家なんだよ\n\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n@フライシュッツ\nあれ、でも本とちょっと違うような…\n\n# textflame 1 1\n# voice 5027 \"freischotz_0020\"\n# face %(unit_a)s \"normal\"\n@フライシュッツ\nそうだよ、\n温泉はなにも身につけないって\n書いてあったよ！\n\n@フライシュッツ\nいけない…\n早く脱がなきゃ！\n\n# textflame 0 0\n@\nあわてて止めに入るマスター\n戸惑いつつも\n忘れられない日になったのだった\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

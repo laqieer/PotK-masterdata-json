@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 100000032,
+		"script": ";;チュートリアル２\n;;アルマス画面内一人立ち絵\n# script \"lisp\"\n# background \"plain\"\n# bgmfile \"bgm408\" \"BgmIntegralNoahEvent\" 0\n# body 196\n# pos 196 3\n# alpha 196 1 0\n# scale 196 0.8 0\n# body 103611\n# pos 103611 2\n# alpha 103611 0 0\n# scale 103611 0.8 0\n# layer 103611 1\n# layer 196 2\n# mask 196 off\n# mask 103611 off\n# face 196 \"normal\"\n# face 103611 \"usual\"\n# textflame 1 1\n# textboxarrow 0 2\n@アルマス\n%(userName)sか…\nいい名前じゃない\n\n# textflame 1 1\n# textboxarrow 0 2\n@アルマス\nそれじゃ、説明するわ\n\n# textflame 1 1\n# textboxarrow 0 2\n@アルマス\nキル姫というのは\n最初に現れた化け物、\n異族と戦う女の子のことよ\n\n# textflame 1 1\n# textboxarrow 0 2\n@アルマス\nそして、そのキル姫を\n指揮するのが\nマスターってわけ\n\n# textflame 1 1\n# textboxarrow 0 2\n@アルマス\n実際、\nどうやってやるかだけど…\n\n;;ラグナロク出す\n# bgm \"stop\"\n# bgmfile \"bgm413_414\" \"BgmIntegralNoahBattle001\" 0\n# move 196 4 0.5\n# move 103611 2 0\n# alpha 103611 1 0.5\n# textflame 1 1\n# textboxarrow 0 1\n@ラグナロク\nアルマス\nどうやら説明の時間は\nなさそうだわ…\n\n# face 196 \"angry\"\n# serif 0\n# textwindow \"normal\"\n# textflame 1 1\n# textboxarrow 0 3\n@アルマス\nさっきのやつの\n仲間かしら？\n\n# textflame 1 1\n# textboxarrow 0 3\n@アルマス\n絶・ちょうどいいわ！\n実戦で直接教えてあげる！"
+	}
+]

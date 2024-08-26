@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 302021,
+		"script": ";;水風呂あるから,大\n;;だまされたと思って,小\n;;ユー沸騰しちゃいなよ,中\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_onsen\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 0 0\n@\nマスターは\nピサールを誘って\n水着着用の温泉にやってきた\n\n# textflame 1 1\n# face %(unit_a)s \"angry\"\n# voice 3020 \"pisear_kyara_1013\"\n@ピサール\nマスターの鬼…\n悪魔～～！！\n;;----------------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nお湯の中に入ったら\nわたし沸騰しちゃうでしょ～！\n\n# select \"水風呂あるから\" \"select_label_01\" \"だまされたと思って\" \"select_label_02\" \"ユー沸騰しちゃいなよ\" \"select_label_03\"\nお湯の中に入ったら\nわたし沸騰しちゃうでしょ～！\n\n# label \"select_label_01\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_02\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_03\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# textflame 1 1\n# waitandnext 0.1\n\n# label \"select_label_end\"\n# waitandnext  2\n# fadeout \"black\" 1.2\n"
+	}
+]

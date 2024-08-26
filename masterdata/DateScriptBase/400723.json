@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 400723,
+		"script": ";;A中あたり\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_room\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# voice 4007 \"shekina_0022\"\n# face %(unit_a)s \"sad\"\n@シェキナー\nそれは…どういう…？\n\n@シェキナー\n…まさか！\nな、なんという！？\n\n# textflame 0 0\n@\nシェキナーは\n大げさに自分の体を抱くようにして\nマスターに非難の視線を投げかける\n\n# face %(unit_a)s \"angry\"\n# textflame 1 1\n# voice 4007 \"shekina_0023\"\n@シェキナー\n日々、私を…\n私を体を…そんな目で…\n信じられません！！\n\n# textflame 0 0\n@\nマスターは焦る\n邪な気持ちなどこれっぽっちもない！\n\n@\nただ他のキル姫と比べても\n判断力とか…攻撃力とか…\nあ、あと美しさとか…！\n\n@\nと、必死に思ったことを\n口にしてしまっていた\n\n# face %(unit_a)s \"normal\"\n# textflame 1 1\n# voice 4007 \"shekina_0025\"\n@シェキナー\nそ、そんな必死になって…\n真面目に訴えないで～！！\n\n# textflame 0 0\n@\n誤解は解けたけれど…\nしばらく部屋で気まずい\n二人なのであった…\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

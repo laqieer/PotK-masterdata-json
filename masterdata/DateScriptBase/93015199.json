@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 93015199,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# se \"SE_0732\"\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n@%(unitName:unit_a)s\n………その答え\n\n# voice 3015 \"kyoko_0006\"\n@%(unitName:unit_a)s\n大正解！\n\n# face %(unit_a)s \"usual\"\n@%(unitName:unit_a)s\nやるじゃん、マスター！\n\n@%(unitName:unit_a)s\nアタシのこと、\nよく見てるな！\n\n@%(unitName:unit_a)s\nじゃあ約束通り、\nおごってやるよ！\n\n# voice 3015 \"kyoko_0005\"\n@%(unitName:unit_a)s\nアタシが人におごるなんて、\n滅多にないんだから、\n感謝しろよな？\n\n# textflame 0 0\n@\n…が、\n彼女がおごってくれたのは、\n超特大のクレープで…\n\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 3015 \"kyoko_0003\"\n@%(unitName:unit_a)s\nどうした？\n遠慮なく食べなよ\n\n@%(unitName:unit_a)s\nもし食い物を粗末にしたら、\n容赦しないからな\n\n# textflame 0 0\n@\n笑顔で恐ろしいことを言ってくる彼女\n\n@\nだがマスターは、\n距離が近くなったことを\n実感していた\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

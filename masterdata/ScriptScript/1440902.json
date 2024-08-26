@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 1440902,
+		"script": ";;【４－４－１（バトル後）】\n# background \"004_observatory\"\n# bgm \"bgm031\" 0\n# body 7\n# pos 7 3\n# scale 7 0.8 0\n# alpha 7 1 0\n# face 7 \"angry\"\n# body 24\n# pos 24 1\n# scale 24 0.8 0\n# alpha 24 1 0\n# body 0\n# pos 0 5\n# scale 0 0.8 0\n# alpha 0 1 0\n# body 4\n# pos 4 3\n# scale 4 0.8 0\n# alpha 4 0 0\n# textboxarrow 0 2\n@学者さま\nええい！\n近寄るな、外道どもめ！\n婆さんも怖れとるではないか！\n\n# textboxarrow 0 1\n# voice 1014 \"tyrufing_0022\"\n# face 24 \"surprise\"\n@ティルフィング\n婆さん…？\n“奥様”が…\nそこにいらっしゃるんですか…？\n\n# textboxarrow 0 2\n@学者さま\nむ…！？なんじゃ、おぬしら！？\nもう、表に来とるのか！？\n\n@学者さま\nアッタマきたぞい…\nこのワシが、おぬしらに\n真の恐怖を見せてくれるわーっ！！！\n\n# textboxarrow 0 3\n# voice 9999 \"durin_0052\"\n# face 0 \"serious\"\n@デュリン\n表に…？\nなに言ってんのよ、\nアタシたちはまだ…\n\n# textboxarrow 0 2\n# alpha 4 1 0.5\n# alpha 7 0 0.5\n# alpha 24 0 0.5\n# alpha 0 0 0.5\n# voice 9998 \"toto_0001\"\n# face 4 \"angry\"\n@トト\nね、ねぇ！\nもしかして異族じゃないの！？\n\n# textboxarrow 0 1\n# alpha 4 0 0.5\n# alpha 7 1 0.5\n# alpha 24 1 0.5\n# alpha 0 1 0.5\n# voice 1014 \"tyrufing_0022\"\n# face 24 \"angry\"\n@ティルフィング\nは…っ！\nお爺さん！\nダメです、表に出ないで下さい！\n\n# face 7 \"normal\"\n# textboxarrow 0 2\n@学者さま\n…………\n\n# textboxarrow 0 1\n;;# voice 1014 \"\"\n;;# face 24 \"\"\n@ティルフィング\nお爺さん…！！"
+	}
+]

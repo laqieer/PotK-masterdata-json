@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 91046299,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# se \"SE_0732\"\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n@ミュルグレス\n……その答え\n\n# face %(unit_a)s \"happy\"\n# voice 510461 \"murgleys_c_0004\"\n@ミュルグレス\n正解！\n\n@ミュルグレス\nなかなかやるじゃない\nだんちょー\n\n@ミュルグレス\n正解を讃えて握手よ\nはい、握手\n\n# textflame 0 0\n@\n唐突にマスターの手を握る\nミュルグレス\n\n# textflame 1 1\n@ミュルグレス\nじゃ、帰ろっか\nだんちょー\n\n# textflame 0 0\n@\nそういうと\n手を握ったまま\n歩き始める\n\n# face %(unit_a)s \"angry\"\n# voice 510461 \"murgleys_c_0001\"\n# textflame 1 1\n@ミュルグレス\nなによ\nなんか言いたいことあるわけ？\n聞かないから、言わなくていいけど\n\n# textflame 0 0\n@\n優しく手を握り返し\nオバケなんて怖くないよ\nと心の中で伝えるマスターだった\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

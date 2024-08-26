@@ -1,0 +1,302 @@
+[
+	{
+		"ID": 5911,
+		"unitID": 2203011,
+		"questionID": 9203001,
+		"script": ";;斧,1\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 2030 \"risanautr_l_0002\"\n@リサナウト\nねぇ、当主様\n\n@リサナウト\n今から私が言うことは、\n予言じゃない\n\n@リサナウト\n確定事象よ\n\n@リサナウト\nいい？当主様は…\n\n@リサナウト\n私が出すクイズに\n見事正解する\n\n# textflame 0 0\n@\nえ？ク、クイズ…？\n彼女の突然の発言に\n焦るマスター\n\n# face %(unit_a)s \"angry\"\n# voice 2030 \"risanautr_l_0013\"\n# textflame 1 1\n@リサナウト\nなにを驚いてるの？\nまさか正解する自信が\n無いとは言わせないわよ？\n\n# face %(unit_a)s \"normal\"\n@リサナウト\n大丈夫、当主様の正解は\n確定事象だから\n\n@リサナウト\n決して間違うはずがないの\n\n@リサナウト\nじゃあ、いくわよ？\n\n# textflame 0 0\n@\nとんでもないプレッシャーを\n与えられた状態で、\n彼女のクイズが出題された\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私の武器種は知ってる？　\n\n# se \"SE_0734\"\n# select \"斧\" \"select_label_1\" \"槍\" \"select_label_2\" \"弓\" \"select_label_3\"\n私の武器種は知ってる？　\n"
+	},
+	{
+		"ID": 5912,
+		"unitID": 2203011,
+		"questionID": 9203002,
+		"script": ";;クロノス,2\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 2030 \"risanautr_l_0002\"\n@リサナウト\nねぇ、当主様\n\n@リサナウト\n今から私が言うことは、\n予言じゃない\n\n@リサナウト\n確定事象よ\n\n@リサナウト\nいい？当主様は…\n\n@リサナウト\n私が出すクイズに\n見事正解する\n\n# textflame 0 0\n@\nえ？ク、クイズ…？\n彼女の突然の発言に\n焦るマスター\n\n# face %(unit_a)s \"angry\"\n# voice 2030 \"risanautr_l_0013\"\n# textflame 1 1\n@リサナウト\nなにを驚いてるの？\nまさか正解する自信が\n無いとは言わせないわよ？\n\n# face %(unit_a)s \"normal\"\n@リサナウト\n大丈夫、当主様の正解は\n確定事象だから\n\n@リサナウト\n決して間違うはずがないの\n\n@リサナウト\nじゃあ、いくわよ？\n\n# textflame 0 0\n@\nとんでもないプレッシャーを\n与えられた状態で、\n彼女のクイズが出題された\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私が針枷されたのは？\n\n# se \"SE_0734\"\n# select \"シナプス\" \"select_label_1\" \"クロノス\" \"select_label_2\" \"アルプス\" \"select_label_3\"\n私が針枷されたのは？\n"
+	},
+	{
+		"ID": 5913,
+		"unitID": 2203011,
+		"questionID": 9203003,
+		"script": ";;ギリシャ神話,1\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 2030 \"risanautr_l_0002\"\n@リサナウト\nねぇ、当主様\n\n@リサナウト\n今から私が言うことは、\n予言じゃない\n\n@リサナウト\n確定事象よ\n\n@リサナウト\nいい？当主様は…\n\n@リサナウト\n私が出すクイズに\n見事正解する\n\n# textflame 0 0\n@\nえ？ク、クイズ…？\n彼女の突然の発言に\n焦るマスター\n\n# face %(unit_a)s \"angry\"\n# voice 2030 \"risanautr_l_0013\"\n# textflame 1 1\n@リサナウト\nなにを驚いてるの？\nまさか正解する自信が\n無いとは言わせないわよ？\n\n# face %(unit_a)s \"normal\"\n@リサナウト\n大丈夫、当主様の正解は\n確定事象だから\n\n@リサナウト\n決して間違うはずがないの\n\n@リサナウト\nじゃあ、いくわよ？\n\n# textflame 0 0\n@\nとんでもないプレッシャーを\n与えられた状態で、\n彼女のクイズが出題された\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n『クロノス』はどんな伝承に\n登場するか知ってる？\n\n# se \"SE_0734\"\n# select \"ギリシャ神話\" \"select_label_1\" \"日本神話\" \"select_label_2\" \"インド神話\" \"select_label_3\"\n『クロノス』はどんな伝承に\n登場するか知ってる？\n"
+	},
+	{
+		"ID": 5914,
+		"unitID": 2203011,
+		"questionID": 9203004,
+		"script": ";;時,3\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 2030 \"risanautr_l_0002\"\n@リサナウト\nねぇ、当主様\n\n@リサナウト\n今から私が言うことは、\n予言じゃない\n\n@リサナウト\n確定事象よ\n\n@リサナウト\nいい？当主様は…\n\n@リサナウト\n私が出すクイズに\n見事正解する\n\n# textflame 0 0\n@\nえ？ク、クイズ…？\n彼女の突然の発言に\n焦るマスター\n\n# face %(unit_a)s \"angry\"\n# voice 2030 \"risanautr_l_0013\"\n# textflame 1 1\n@リサナウト\nなにを驚いてるの？\nまさか正解する自信が\n無いとは言わせないわよ？\n\n# face %(unit_a)s \"normal\"\n@リサナウト\n大丈夫、当主様の正解は\n確定事象だから\n\n@リサナウト\n決して間違うはずがないの\n\n@リサナウト\nじゃあ、いくわよ？\n\n# textflame 0 0\n@\nとんでもないプレッシャーを\n与えられた状態で、\n彼女のクイズが出題された\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私が針枷された『クロノス』は\n何を司ると云われている？\n\n# se \"SE_0734\"\n# select \"法\" \"select_label_1\" \"食\" \"select_label_2\" \"時\" \"select_label_3\"\n私が針枷された『クロノス』は\n何を司ると云われている？\n"
+	},
+	{
+		"ID": 5915,
+		"unitID": 2203011,
+		"questionID": 9203005,
+		"script": ";;老人,3\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 2030 \"risanautr_l_0002\"\n@リサナウト\nねぇ、当主様\n\n@リサナウト\n今から私が言うことは、\n予言じゃない\n\n@リサナウト\n確定事象よ\n\n@リサナウト\nいい？当主様は…\n\n@リサナウト\n私が出すクイズに\n見事正解する\n\n# textflame 0 0\n@\nえ？ク、クイズ…？\n彼女の突然の発言に\n焦るマスター\n\n# face %(unit_a)s \"angry\"\n# voice 2030 \"risanautr_l_0013\"\n# textflame 1 1\n@リサナウト\nなにを驚いてるの？\nまさか正解する自信が\n無いとは言わせないわよ？\n\n# face %(unit_a)s \"normal\"\n@リサナウト\n大丈夫、当主様の正解は\n確定事象だから\n\n@リサナウト\n決して間違うはずがないの\n\n@リサナウト\nじゃあ、いくわよ？\n\n# textflame 0 0\n@\nとんでもないプレッシャーを\n与えられた状態で、\n彼女のクイズが出題された\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n『クロノス』はどんな姿を\nしていると云われている？\n\n# se \"SE_0734\"\n# select \"ギャル\" \"select_label_1\" \"子ども\" \"select_label_2\" \"老人\" \"select_label_3\"\n『クロノス』はどんな姿を\nしていると云われている？\n"
+	},
+	{
+		"ID": 5916,
+		"unitID": 2203011,
+		"questionID": 9203006,
+		"script": ";;翼,3\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 2030 \"risanautr_l_0002\"\n@リサナウト\nねぇ、当主様\n\n@リサナウト\n今から私が言うことは、\n予言じゃない\n\n@リサナウト\n確定事象よ\n\n@リサナウト\nいい？当主様は…\n\n@リサナウト\n私が出すクイズに\n見事正解する\n\n# textflame 0 0\n@\nえ？ク、クイズ…？\n彼女の突然の発言に\n焦るマスター\n\n# face %(unit_a)s \"angry\"\n# voice 2030 \"risanautr_l_0013\"\n# textflame 1 1\n@リサナウト\nなにを驚いてるの？\nまさか正解する自信が\n無いとは言わせないわよ？\n\n# face %(unit_a)s \"normal\"\n@リサナウト\n大丈夫、当主様の正解は\n確定事象だから\n\n@リサナウト\n決して間違うはずがないの\n\n@リサナウト\nじゃあ、いくわよ？\n\n# textflame 0 0\n@\nとんでもないプレッシャーを\n与えられた状態で、\n彼女のクイズが出題された\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n『クロノス』は背中に\n何があるか知ってる？\n\n# se \"SE_0734\"\n# select \"イボ\" \"select_label_1\" \"トゲ\" \"select_label_2\" \"翼\" \"select_label_3\"\n『クロノス』は背中に\n何があるか知ってる？\n"
+	},
+	{
+		"ID": 5917,
+		"unitID": 2203011,
+		"questionID": 9203007,
+		"script": ";;時,1\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 2030 \"risanautr_l_0002\"\n@リサナウト\nねぇ、当主様\n\n@リサナウト\n今から私が言うことは、\n予言じゃない\n\n@リサナウト\n確定事象よ\n\n@リサナウト\nいい？当主様は…\n\n@リサナウト\n私が出すクイズに\n見事正解する\n\n# textflame 0 0\n@\nえ？ク、クイズ…？\n彼女の突然の発言に\n焦るマスター\n\n# face %(unit_a)s \"angry\"\n# voice 2030 \"risanautr_l_0013\"\n# textflame 1 1\n@リサナウト\nなにを驚いてるの？\nまさか正解する自信が\n無いとは言わせないわよ？\n\n# face %(unit_a)s \"normal\"\n@リサナウト\n大丈夫、当主様の正解は\n確定事象だから\n\n@リサナウト\n決して間違うはずがないの\n\n@リサナウト\nじゃあ、いくわよ？\n\n# textflame 0 0\n@\nとんでもないプレッシャーを\n与えられた状態で、\n彼女のクイズが出題された\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n『クロノス』の背中にあると\n云われる翼は何の象徴？\n\n# se \"SE_0734\"\n# select \"時\" \"select_label_1\" \"金\" \"select_label_2\" \"富\" \"select_label_3\"\n『クロノス』の背中にあると\n云われる翼は何の象徴？\n"
+	},
+	{
+		"ID": 5918,
+		"unitID": 2203011,
+		"questionID": 9203008,
+		"script": ";;大鎌,3\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 2030 \"risanautr_l_0002\"\n@リサナウト\nねぇ、当主様\n\n@リサナウト\n今から私が言うことは、\n予言じゃない\n\n@リサナウト\n確定事象よ\n\n@リサナウト\nいい？当主様は…\n\n@リサナウト\n私が出すクイズに\n見事正解する\n\n# textflame 0 0\n@\nえ？ク、クイズ…？\n彼女の突然の発言に\n焦るマスター\n\n# face %(unit_a)s \"angry\"\n# voice 2030 \"risanautr_l_0013\"\n# textflame 1 1\n@リサナウト\nなにを驚いてるの？\nまさか正解する自信が\n無いとは言わせないわよ？\n\n# face %(unit_a)s \"normal\"\n@リサナウト\n大丈夫、当主様の正解は\n確定事象だから\n\n@リサナウト\n決して間違うはずがないの\n\n@リサナウト\nじゃあ、いくわよ？\n\n# textflame 0 0\n@\nとんでもないプレッシャーを\n与えられた状態で、\n彼女のクイズが出題された\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n『クロノス』は何を持っていると\n云われている？\n\n# se \"SE_0734\"\n# select \"大剣\" \"select_label_1\" \"槍\" \"select_label_2\" \"大鎌\" \"select_label_3\"\n『クロノス』は何を持っていると\n云われている？\n"
+	},
+	{
+		"ID": 5919,
+		"unitID": 2203011,
+		"questionID": 9203009,
+		"script": ";;砂時計,2\n+D5923:D5954# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 2030 \"risanautr_l_0002\"\n@リサナウト\nねぇ、当主様\n\n@リサナウト\n今から私が言うことは、\n予言じゃない\n\n@リサナウト\n確定事象よ\n\n@リサナウト\nいい？当主様は…\n\n@リサナウト\n私が出すクイズに\n見事正解する\n\n# textflame 0 0\n@\nえ？ク、クイズ…？\n彼女の突然の発言に\n焦るマスター\n\n# face %(unit_a)s \"angry\"\n# voice 2030 \"risanautr_l_0013\"\n# textflame 1 1\n@リサナウト\nなにを驚いてるの？\nまさか正解する自信が\n無いとは言わせないわよ？\n\n# face %(unit_a)s \"normal\"\n@リサナウト\n大丈夫、当主様の正解は\n確定事象だから\n\n@リサナウト\n決して間違うはずがないの\n\n@リサナウト\nじゃあ、いくわよ？\n\n# textflame 0 0\n@\nとんでもないプレッシャーを\n与えられた状態で、\n彼女のクイズが出題された\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n『クロノス』は何を持っていると\n云われているかしら？\n\n# se \"SE_0734\"\n# select \"日時計\" \"select_label_1\" \"砂時計\" \"select_label_2\" \"腕時計\" \"select_label_3\"\n『クロノス』は何を持っていると\n云われているかしら？\n"
+	},
+	{
+		"ID": 5920,
+		"unitID": 2203011,
+		"questionID": 9203010,
+		"script": ";;ウラノス,1\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 2030 \"risanautr_l_0002\"\n@リサナウト\nねぇ、当主様\n\n@リサナウト\n今から私が言うことは、\n予言じゃない\n\n@リサナウト\n確定事象よ\n\n@リサナウト\nいい？当主様は…\n\n@リサナウト\n私が出すクイズに\n見事正解する\n\n# textflame 0 0\n@\nえ？ク、クイズ…？\n彼女の突然の発言に\n焦るマスター\n\n# face %(unit_a)s \"angry\"\n# voice 2030 \"risanautr_l_0013\"\n# textflame 1 1\n@リサナウト\nなにを驚いてるの？\nまさか正解する自信が\n無いとは言わせないわよ？\n\n# face %(unit_a)s \"normal\"\n@リサナウト\n大丈夫、当主様の正解は\n確定事象だから\n\n@リサナウト\n決して間違うはずがないの\n\n@リサナウト\nじゃあ、いくわよ？\n\n# textflame 0 0\n@\nとんでもないプレッシャーを\n与えられた状態で、\n彼女のクイズが出題された\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n『クロノス』の父親の名は\n知っている？\n\n# se \"SE_0734\"\n# select \"ウラノス\" \"select_label_1\" \"クラリス\" \"select_label_2\" \"モーフィアス\" \"select_label_3\"\n『クロノス』の父親の名は\n知っている？\n"
+	},
+	{
+		"ID": 5921,
+		"unitID": 2203011,
+		"questionID": 9203011,
+		"script": ";;炎,3\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 2030 \"risanautr_l_0001\"\n@リサナウト\nねぇ、当主様\n\n@リサナウト\n私が時を操る能力があるの、\n知ってるでしょ？\n\n@リサナウト\nだから、今日を巻き戻して、\n何度も何度も楽しみたい\nって思ったのだけど…\n\n# face %(unit_a)s \"sad\"\n# voice 2030 \"risanautr_l_0028\"\n@リサナウト\nそれじゃ意味ないのよね\n\n# face %(unit_a)s \"normal\"\n# voice 2030 \"risanautr_l_0003\"\n@リサナウト\n今年の夏は人生に一度だけ！\n一度きりだから輝くの！\n\n@リサナウト\nだから当主様！\n\n@リサナウト\n今から出すクイズに正解して、\n今日をもっと輝く思い出にして！\n\n@リサナウト\n準備はいい！？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の属性は知っている？\n\n# se \"SE_0734\"\n# select \"風\" \"select_label_1\" \"水\" \"select_label_2\" \"炎\" \"select_label_3\"\n私の属性は知っている？\n"
+	},
+	{
+		"ID": 5922,
+		"unitID": 2203011,
+		"questionID": 9203012,
+		"script": ";;168cm ,1\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 2030 \"risanautr_l_0001\"\n@リサナウト\nねぇ、当主様\n\n@リサナウト\n私が時を操る能力があるの、\n知ってるでしょ？\n\n@リサナウト\nだから、今日を巻き戻して、\n何度も何度も楽しみたい\nって思ったのだけど…\n\n# face %(unit_a)s \"sad\"\n# voice 2030 \"risanautr_l_0028\"\n@リサナウト\nそれじゃ意味ないのよね\n\n# face %(unit_a)s \"normal\"\n# voice 2030 \"risanautr_l_0003\"\n@リサナウト\n今年の夏は人生に一度だけ！\n一度きりだから輝くの！\n\n@リサナウト\nだから当主様！\n\n@リサナウト\n今から出すクイズに正解して、\n今日をもっと輝く思い出にして！\n\n@リサナウト\n準備はいい！？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の身長は何センチかわかる？\n\n# se \"SE_0734\"\n# select \"168cm \" \"select_label_1\" \"169cm\" \"select_label_2\" \"170cm\" \"select_label_3\"\n私の身長は何センチかわかる？\n"
+	},
+	{
+		"ID": 5923,
+		"unitID": 2203011,
+		"questionID": 9203013,
+		"script": ";;10月23日,1\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 2030 \"risanautr_l_0001\"\n@リサナウト\nねぇ、当主様\n\n@リサナウト\n私が時を操る能力があるの、\n知ってるでしょ？\n\n@リサナウト\nだから、今日を巻き戻して、\n何度も何度も楽しみたい\nって思ったのだけど…\n\n# face %(unit_a)s \"sad\"\n# voice 2030 \"risanautr_l_0028\"\n@リサナウト\nそれじゃ意味ないのよね\n\n# face %(unit_a)s \"normal\"\n# voice 2030 \"risanautr_l_0003\"\n@リサナウト\n今年の夏は人生に一度だけ！\n一度きりだから輝くの！\n\n@リサナウト\nだから当主様！\n\n@リサナウト\n今から出すクイズに正解して、\n今日をもっと輝く思い出にして！\n\n@リサナウト\n準備はいい！？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の誕生日は知っている？\n\n# se \"SE_0734\"\n# select \"10月23日\" \"select_label_1\" \"11月23日\" \"select_label_2\" \"8月23日\" \"select_label_3\"\n私の誕生日は知っている？\n"
+	},
+	{
+		"ID": 5924,
+		"unitID": 2203011,
+		"questionID": 9203014,
+		"script": ";;天秤座,1\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 2030 \"risanautr_l_0001\"\n@リサナウト\nねぇ、当主様\n\n@リサナウト\n私が時を操る能力があるの、\n知ってるでしょ？\n\n@リサナウト\nだから、今日を巻き戻して、\n何度も何度も楽しみたい\nって思ったのだけど…\n\n# face %(unit_a)s \"sad\"\n# voice 2030 \"risanautr_l_0028\"\n@リサナウト\nそれじゃ意味ないのよね\n\n# face %(unit_a)s \"normal\"\n# voice 2030 \"risanautr_l_0003\"\n@リサナウト\n今年の夏は人生に一度だけ！\n一度きりだから輝くの！\n\n@リサナウト\nだから当主様！\n\n@リサナウト\n今から出すクイズに正解して、\n今日をもっと輝く思い出にして！\n\n@リサナウト\n準備はいい！？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の星座は知っている？\n\n# se \"SE_0734\"\n# select \"天秤座\" \"select_label_1\" \"いて座\" \"select_label_2\" \"やぎ座\" \"select_label_3\"\n私の星座は知っている？\n"
+	},
+	{
+		"ID": 5925,
+		"unitID": 2203011,
+		"questionID": 9203015,
+		"script": ";;子ども,1\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 2030 \"risanautr_l_0001\"\n@リサナウト\nねぇ、当主様\n\n@リサナウト\n私が時を操る能力があるの、\n知ってるでしょ？\n\n@リサナウト\nだから、今日を巻き戻して、\n何度も何度も楽しみたい\nって思ったのだけど…\n\n# face %(unit_a)s \"sad\"\n# voice 2030 \"risanautr_l_0028\"\n@リサナウト\nそれじゃ意味ないのよね\n\n# face %(unit_a)s \"normal\"\n# voice 2030 \"risanautr_l_0003\"\n@リサナウト\n今年の夏は人生に一度だけ！\n一度きりだから輝くの！\n\n@リサナウト\nだから当主様！\n\n@リサナウト\n今から出すクイズに正解して、\n今日をもっと輝く思い出にして！\n\n@リサナウト\n準備はいい！？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私が好きなのは…\n\n# se \"SE_0734\"\n# select \"子ども\" \"select_label_1\" \"おじいさん\" \"select_label_2\" \"運転手\" \"select_label_3\"\n私が好きなのは…\n"
+	},
+	{
+		"ID": 5926,
+		"unitID": 2203011,
+		"questionID": 9203016,
+		"script": ";;川遊び,3\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 2030 \"risanautr_l_0001\"\n@リサナウト\nねぇ、当主様\n\n@リサナウト\n私が時を操る能力があるの、\n知ってるでしょ？\n\n@リサナウト\nだから、今日を巻き戻して、\n何度も何度も楽しみたい\nって思ったのだけど…\n\n# face %(unit_a)s \"sad\"\n# voice 2030 \"risanautr_l_0028\"\n@リサナウト\nそれじゃ意味ないのよね\n\n# face %(unit_a)s \"normal\"\n# voice 2030 \"risanautr_l_0003\"\n@リサナウト\n今年の夏は人生に一度だけ！\n一度きりだから輝くの！\n\n@リサナウト\nだから当主様！\n\n@リサナウト\n今から出すクイズに正解して、\n今日をもっと輝く思い出にして！\n\n@リサナウト\n準備はいい！？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の趣味はこれよ！\n\n# se \"SE_0734\"\n# select \"夜遊び\" \"select_label_1\" \"火遊び\" \"select_label_2\" \"川遊び\" \"select_label_3\"\n私の趣味はこれよ！\n"
+	},
+	{
+		"ID": 5927,
+		"unitID": 2203011,
+		"questionID": 9203017,
+		"script": ";;Ｏ型,2\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 2030 \"risanautr_l_0001\"\n@リサナウト\nねぇ、当主様\n\n@リサナウト\n私が時を操る能力があるの、\n知ってるでしょ？\n\n@リサナウト\nだから、今日を巻き戻して、\n何度も何度も楽しみたい\nって思ったのだけど…\n\n# face %(unit_a)s \"sad\"\n# voice 2030 \"risanautr_l_0028\"\n@リサナウト\nそれじゃ意味ないのよね\n\n# face %(unit_a)s \"normal\"\n# voice 2030 \"risanautr_l_0003\"\n@リサナウト\n今年の夏は人生に一度だけ！\n一度きりだから輝くの！\n\n@リサナウト\nだから当主様！\n\n@リサナウト\n今から出すクイズに正解して、\n今日をもっと輝く思い出にして！\n\n@リサナウト\n準備はいい！？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の血液型は知ってる？\n\n# se \"SE_0734\"\n# select \"ＡＢ型\" \"select_label_1\" \"Ｏ型\" \"select_label_2\" \"Ａ型\" \"select_label_3\"\n私の血液型は知ってる？\n"
+	},
+	{
+		"ID": 5928,
+		"unitID": 2203011,
+		"questionID": 9203018,
+		"script": ";;地底世界,2\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 2030 \"risanautr_l_0001\"\n@リサナウト\nねぇ、当主様\n\n@リサナウト\n私が時を操る能力があるの、\n知ってるでしょ？\n\n@リサナウト\nだから、今日を巻き戻して、\n何度も何度も楽しみたい\nって思ったのだけど…\n\n# face %(unit_a)s \"sad\"\n# voice 2030 \"risanautr_l_0028\"\n@リサナウト\nそれじゃ意味ないのよね\n\n# face %(unit_a)s \"normal\"\n# voice 2030 \"risanautr_l_0003\"\n@リサナウト\n今年の夏は人生に一度だけ！\n一度きりだから輝くの！\n\n@リサナウト\nだから当主様！\n\n@リサナウト\n今から出すクイズに正解して、\n今日をもっと輝く思い出にして！\n\n@リサナウト\n準備はいい！？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の出身地は…？\n\n# se \"SE_0734\"\n# select \"天上世界\" \"select_label_1\" \"地底世界\" \"select_label_2\" \"地上世界\" \"select_label_3\"\n私の出身地は…？\n"
+	},
+	{
+		"ID": 5929,
+		"unitID": 2203011,
+		"questionID": 9203019,
+		"script": ";;これは予言ではない,3\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 2030 \"risanautr_l_0001\"\n@リサナウト\nねぇ、当主様\n\n@リサナウト\n私が時を操る能力があるの、\n知ってるでしょ？\n\n@リサナウト\nだから、今日を巻き戻して、\n何度も何度も楽しみたい\nって思ったのだけど…\n\n# face %(unit_a)s \"sad\"\n# voice 2030 \"risanautr_l_0028\"\n@リサナウト\nそれじゃ意味ないのよね\n\n# face %(unit_a)s \"normal\"\n# voice 2030 \"risanautr_l_0003\"\n@リサナウト\n今年の夏は人生に一度だけ！\n一度きりだから輝くの！\n\n@リサナウト\nだから当主様！\n\n@リサナウト\n今から出すクイズに正解して、\n今日をもっと輝く思い出にして！\n\n@リサナウト\n準備はいい！？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の口癖は？\n\n# se \"SE_0734\"\n# select \"これは遊びではない\" \"select_label_1\" \"夢見る少女じゃいられない\" \"select_label_2\" \"これは予言ではない\" \"select_label_3\"\n私の口癖は？\n"
+	},
+	{
+		"ID": 5930,
+		"unitID": 2203011,
+		"questionID": 9203020,
+		"script": ";;リード,1\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 2030 \"risanautr_l_0001\"\n@リサナウト\nねぇ、当主様\n\n@リサナウト\n私が時を操る能力があるの、\n知ってるでしょ？\n\n@リサナウト\nだから、今日を巻き戻して、\n何度も何度も楽しみたい\nって思ったのだけど…\n\n# face %(unit_a)s \"sad\"\n# voice 2030 \"risanautr_l_0028\"\n@リサナウト\nそれじゃ意味ないのよね\n\n# face %(unit_a)s \"normal\"\n# voice 2030 \"risanautr_l_0003\"\n@リサナウト\n今年の夏は人生に一度だけ！\n一度きりだから輝くの！\n\n@リサナウト\nだから当主様！\n\n@リサナウト\n今から出すクイズに正解して、\n今日をもっと輝く思い出にして！\n\n@リサナウト\n準備はいい！？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の名前は、\nリサナウト・針枷・クロノス\n『針枷』って読める？\n\n# se \"SE_0734\"\n# select \"リード\" \"select_label_1\" \"ビート\" \"select_label_2\" \"ニードル\" \"select_label_3\"\n私の名前は、\nリサナウト・針枷・クロノス\n『針枷』って読める？\n"
+	},
+	{
+		"ID": 5931,
+		"unitID": 2203011,
+		"questionID": 9203021,
+		"script": ";;炎針神の支配,1\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 2030 \"risanautr_l_0005\"\n@リサナウト\nあ～、楽しかった\n\n# voice 2030 \"risanautr_l_0001\"\n@リサナウト\nねぇ、当主様\nまた連れてきてね\n\n# textflame 0 0\n@\nそんな彼女の口元を指さすマスター\n\n# voice 2030 \"risanautr_l_0022\"\n# textflame 1 1\n@リサナウト\nえ？私の口がどうかした？\n\n# textflame 0 0\n@\nさっき食べたスイカの種が\nついていることに気づき、\n赤くなる彼女\n\n# face %(unit_a)s \"shy\"\n# voice 2030 \"risanautr_l_0042\"\n# textflame 1 1\n@リサナウト\nこ、これは…！\nスイカの種じゃなくて、\nホクロよ、ホクロ！！\n\n# textflame 0 0\n@\nそう言って、後ろを向き\nいそいそと口元をぬぐう彼女\n\n# face %(unit_a)s \"angry\"\n# voice 2030 \"risanautr_l_0013\"\n# textflame 1 1\n@リサナウト\nもう！\nそんなこと、\nどうだっていいから…\n\n@リサナウト\n私が出すクイズに\n正解してみて！\nいい！？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の覚えるリーダースキルを\n知っている？\n\n# se \"SE_0734\"\n# select \"炎針神の支配\" \"select_label_1\" \"炎針神の怒り\" \"select_label_2\" \"炎針神のてへぺろ\" \"select_label_3\"\n私の覚えるリーダースキルを\n知っている？\n"
+	},
+	{
+		"ID": 5932,
+		"unitID": 2203011,
+		"questionID": 9203022,
+		"script": ";;クロノスの時針,2\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 2030 \"risanautr_l_0005\"\n@リサナウト\nあ～、楽しかった\n\n# voice 2030 \"risanautr_l_0001\"\n@リサナウト\nねぇ、当主様\nまた連れてきてね\n\n# textflame 0 0\n@\nそんな彼女の口元を指さすマスター\n\n# voice 2030 \"risanautr_l_0022\"\n# textflame 1 1\n@リサナウト\nえ？私の口がどうかした？\n\n# textflame 0 0\n@\nさっき食べたスイカの種が\nついていることに気づき、\n赤くなる彼女\n\n# face %(unit_a)s \"shy\"\n# voice 2030 \"risanautr_l_0042\"\n# textflame 1 1\n@リサナウト\nこ、これは…！\nスイカの種じゃなくて、\nホクロよ、ホクロ！！\n\n# textflame 0 0\n@\nそう言って、後ろを向き\nいそいそと口元をぬぐう彼女\n\n# face %(unit_a)s \"angry\"\n# voice 2030 \"risanautr_l_0013\"\n# textflame 1 1\n@リサナウト\nもう！\nそんなこと、\nどうだっていいから…\n\n@リサナウト\n私が出すクイズに\n正解してみて！\nいい！？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の覚えるスキルを知っている？\n\n# se \"SE_0734\"\n# select \"クロノスの問診\" \"select_label_1\" \"クロノスの時針\" \"select_label_2\" \"クロノスの関心\" \"select_label_3\"\n私の覚えるスキルを知っている？\n"
+	},
+	{
+		"ID": 5933,
+		"unitID": 2203011,
+		"questionID": 9203023,
+		"script": ";;炎刻の累斬,2\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 2030 \"risanautr_l_0005\"\n@リサナウト\nあ～、楽しかった\n\n# voice 2030 \"risanautr_l_0001\"\n@リサナウト\nねぇ、当主様\nまた連れてきてね\n\n# textflame 0 0\n@\nそんな彼女の口元を指さすマスター\n\n# voice 2030 \"risanautr_l_0022\"\n# textflame 1 1\n@リサナウト\nえ？私の口がどうかした？\n\n# textflame 0 0\n@\nさっき食べたスイカの種が\nついていることに気づき、\n赤くなる彼女\n\n# face %(unit_a)s \"shy\"\n# voice 2030 \"risanautr_l_0042\"\n# textflame 1 1\n@リサナウト\nこ、これは…！\nスイカの種じゃなくて、\nホクロよ、ホクロ！！\n\n# textflame 0 0\n@\nそう言って、後ろを向き\nいそいそと口元をぬぐう彼女\n\n# face %(unit_a)s \"angry\"\n# voice 2030 \"risanautr_l_0013\"\n# textflame 1 1\n@リサナウト\nもう！\nそんなこと、\nどうだっていいから…\n\n@リサナウト\n私が出すクイズに\n正解してみて！\nいい！？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の覚えるスキルを知っている？\n\n# se \"SE_0734\"\n# select \"炎刻の累々\" \"select_label_1\" \"炎刻の累斬\" \"select_label_2\" \"炎刻の刃斬\" \"select_label_3\"\n私の覚えるスキルを知っている？\n"
+	},
+	{
+		"ID": 5934,
+		"unitID": 2203011,
+		"questionID": 9203024,
+		"script": ";;炎刻の斧刃,1\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 2030 \"risanautr_l_0005\"\n@リサナウト\nあ～、楽しかった\n\n# voice 2030 \"risanautr_l_0001\"\n@リサナウト\nねぇ、当主様\nまた連れてきてね\n\n# textflame 0 0\n@\nそんな彼女の口元を指さすマスター\n\n# voice 2030 \"risanautr_l_0022\"\n# textflame 1 1\n@リサナウト\nえ？私の口がどうかした？\n\n# textflame 0 0\n@\nさっき食べたスイカの種が\nついていることに気づき、\n赤くなる彼女\n\n# face %(unit_a)s \"shy\"\n# voice 2030 \"risanautr_l_0042\"\n# textflame 1 1\n@リサナウト\nこ、これは…！\nスイカの種じゃなくて、\nホクロよ、ホクロ！！\n\n# textflame 0 0\n@\nそう言って、後ろを向き\nいそいそと口元をぬぐう彼女\n\n# face %(unit_a)s \"angry\"\n# voice 2030 \"risanautr_l_0013\"\n# textflame 1 1\n@リサナウト\nもう！\nそんなこと、\nどうだっていいから…\n\n@リサナウト\n私が出すクイズに\n正解してみて！\nいい！？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の覚えるスキルを知っている？\n\n# se \"SE_0734\"\n# select \"炎刻の斧刃\" \"select_label_1\" \"炎国の斧刃\" \"select_label_2\" \"炎告の斧刃\" \"select_label_3\"\n私の覚えるスキルを知っている？\n"
+	},
+	{
+		"ID": 5935,
+		"unitID": 2203011,
+		"questionID": 9203025,
+		"script": ";;時操りし封殺,2\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 2030 \"risanautr_l_0005\"\n@リサナウト\nあ～、楽しかった\n\n# voice 2030 \"risanautr_l_0001\"\n@リサナウト\nねぇ、当主様\nまた連れてきてね\n\n# textflame 0 0\n@\nそんな彼女の口元を指さすマスター\n\n# voice 2030 \"risanautr_l_0022\"\n# textflame 1 1\n@リサナウト\nえ？私の口がどうかした？\n\n# textflame 0 0\n@\nさっき食べたスイカの種が\nついていることに気づき、\n赤くなる彼女\n\n# face %(unit_a)s \"shy\"\n# voice 2030 \"risanautr_l_0042\"\n# textflame 1 1\n@リサナウト\nこ、これは…！\nスイカの種じゃなくて、\nホクロよ、ホクロ！！\n\n# textflame 0 0\n@\nそう言って、後ろを向き\nいそいそと口元をぬぐう彼女\n\n# face %(unit_a)s \"angry\"\n# voice 2030 \"risanautr_l_0013\"\n# textflame 1 1\n@リサナウト\nもう！\nそんなこと、\nどうだっていいから…\n\n@リサナウト\n私が出すクイズに\n正解してみて！\nいい！？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の覚えるスキルを知っている？\n\n# se \"SE_0734\"\n# select \"時繰りし虐殺\" \"select_label_1\" \"時操りし封殺\" \"select_label_2\" \"時繰りし告白\" \"select_label_3\"\n私の覚えるスキルを知っている？\n"
+	},
+	{
+		"ID": 5936,
+		"unitID": 2203011,
+		"questionID": 9203026,
+		"script": ";;司りしは時の予言,2\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 2030 \"risanautr_l_0005\"\n@リサナウト\nあ～、楽しかった\n\n# voice 2030 \"risanautr_l_0001\"\n@リサナウト\nねぇ、当主様\nまた連れてきてね\n\n# textflame 0 0\n@\nそんな彼女の口元を指さすマスター\n\n# voice 2030 \"risanautr_l_0022\"\n# textflame 1 1\n@リサナウト\nえ？私の口がどうかした？\n\n# textflame 0 0\n@\nさっき食べたスイカの種が\nついていることに気づき、\n赤くなる彼女\n\n# face %(unit_a)s \"shy\"\n# voice 2030 \"risanautr_l_0042\"\n# textflame 1 1\n@リサナウト\nこ、これは…！\nスイカの種じゃなくて、\nホクロよ、ホクロ！！\n\n# textflame 0 0\n@\nそう言って、後ろを向き\nいそいそと口元をぬぐう彼女\n\n# face %(unit_a)s \"angry\"\n# voice 2030 \"risanautr_l_0013\"\n# textflame 1 1\n@リサナウト\nもう！\nそんなこと、\nどうだっていいから…\n\n@リサナウト\n私が出すクイズに\n正解してみて！\nいい！？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の覚えるスキルを知っている？\n\n# se \"SE_0734\"\n# select \"司りしは食の予言\" \"select_label_1\" \"司りしは時の予言\" \"select_label_2\" \"司りしは君の予言\" \"select_label_3\"\n私の覚えるスキルを知っている？\n"
+	},
+	{
+		"ID": 5937,
+		"unitID": 2203011,
+		"questionID": 9203027,
+		"script": ";;超越せし悠久の刻限,1\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 2030 \"risanautr_l_0005\"\n@リサナウト\nあ～、楽しかった\n\n# voice 2030 \"risanautr_l_0001\"\n@リサナウト\nねぇ、当主様\nまた連れてきてね\n\n# textflame 0 0\n@\nそんな彼女の口元を指さすマスター\n\n# voice 2030 \"risanautr_l_0022\"\n# textflame 1 1\n@リサナウト\nえ？私の口がどうかした？\n\n# textflame 0 0\n@\nさっき食べたスイカの種が\nついていることに気づき、\n赤くなる彼女\n\n# face %(unit_a)s \"shy\"\n# voice 2030 \"risanautr_l_0042\"\n# textflame 1 1\n@リサナウト\nこ、これは…！\nスイカの種じゃなくて、\nホクロよ、ホクロ！！\n\n# textflame 0 0\n@\nそう言って、後ろを向き\nいそいそと口元をぬぐう彼女\n\n# face %(unit_a)s \"angry\"\n# voice 2030 \"risanautr_l_0013\"\n# textflame 1 1\n@リサナウト\nもう！\nそんなこと、\nどうだっていいから…\n\n@リサナウト\n私が出すクイズに\n正解してみて！\nいい！？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の覚えるデュエルスキルを\n知っている？\n\n# se \"SE_0734\"\n# select \"超越せし悠久の刻限\" \"select_label_1\" \"超越せし有給の刻限\" \"select_label_2\" \"超越せしＵＱの刻限\" \"select_label_3\"\n私の覚えるデュエルスキルを\n知っている？\n"
+	},
+	{
+		"ID": 5938,
+		"unitID": 2203011,
+		"questionID": 9203028,
+		"script": ";;星霜『絶対なる預言』,3\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 2030 \"risanautr_l_0005\"\n@リサナウト\nあ～、楽しかった\n\n# voice 2030 \"risanautr_l_0001\"\n@リサナウト\nねぇ、当主様\nまた連れてきてね\n\n# textflame 0 0\n@\nそんな彼女の口元を指さすマスター\n\n# voice 2030 \"risanautr_l_0022\"\n# textflame 1 1\n@リサナウト\nえ？私の口がどうかした？\n\n# textflame 0 0\n@\nさっき食べたスイカの種が\nついていることに気づき、\n赤くなる彼女\n\n# face %(unit_a)s \"shy\"\n# voice 2030 \"risanautr_l_0042\"\n# textflame 1 1\n@リサナウト\nこ、これは…！\nスイカの種じゃなくて、\nホクロよ、ホクロ！！\n\n# textflame 0 0\n@\nそう言って、後ろを向き\nいそいそと口元をぬぐう彼女\n\n# face %(unit_a)s \"angry\"\n# voice 2030 \"risanautr_l_0013\"\n# textflame 1 1\n@リサナウト\nもう！\nそんなこと、\nどうだっていいから…\n\n@リサナウト\n私が出すクイズに\n正解してみて！\nいい！？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の覚えるキャラクタースキルを\n知っている？\n\n# se \"SE_0734\"\n# select \"星霜『確実なる予言』\" \"select_label_1\" \"星霜『強大なる予言』\" \"select_label_2\" \"星霜『絶対なる預言』\" \"select_label_3\"\n私の覚えるキャラクタースキルを\n知っている？\n"
+	},
+	{
+		"ID": 5939,
+		"unitID": 2203011,
+		"questionID": 9203029,
+		"script": ";;絶対者の砂時計,2\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 2030 \"risanautr_l_0005\"\n@リサナウト\nあ～、楽しかった\n\n# voice 2030 \"risanautr_l_0001\"\n@リサナウト\nねぇ、当主様\nまた連れてきてね\n\n# textflame 0 0\n@\nそんな彼女の口元を指さすマスター\n\n# voice 2030 \"risanautr_l_0022\"\n# textflame 1 1\n@リサナウト\nえ？私の口がどうかした？\n\n# textflame 0 0\n@\nさっき食べたスイカの種が\nついていることに気づき、\n赤くなる彼女\n\n# face %(unit_a)s \"shy\"\n# voice 2030 \"risanautr_l_0042\"\n# textflame 1 1\n@リサナウト\nこ、これは…！\nスイカの種じゃなくて、\nホクロよ、ホクロ！！\n\n# textflame 0 0\n@\nそう言って、後ろを向き\nいそいそと口元をぬぐう彼女\n\n# face %(unit_a)s \"angry\"\n# voice 2030 \"risanautr_l_0013\"\n# textflame 1 1\n@リサナウト\nもう！\nそんなこと、\nどうだっていいから…\n\n@リサナウト\n私が出すクイズに\n正解してみて！\nいい！？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私が覚える強力なスキルって\nわかる？\n\n# se \"SE_0734\"\n# select \"絶対者の腹時計\" \"select_label_1\" \"絶対者の砂時計\" \"select_label_2\" \"絶対者の水時計\" \"select_label_3\"\n私が覚える強力なスキルって\nわかる？\n"
+	},
+	{
+		"ID": 5940,
+		"unitID": 2203011,
+		"questionID": 9203030,
+		"script": ";;クロノスの加護,3\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 2030 \"risanautr_l_0005\"\n@リサナウト\nあ～、楽しかった\n\n# voice 2030 \"risanautr_l_0001\"\n@リサナウト\nねぇ、当主様\nまた連れてきてね\n\n# textflame 0 0\n@\nそんな彼女の口元を指さすマスター\n\n# voice 2030 \"risanautr_l_0022\"\n# textflame 1 1\n@リサナウト\nえ？私の口がどうかした？\n\n# textflame 0 0\n@\nさっき食べたスイカの種が\nついていることに気づき、\n赤くなる彼女\n\n# face %(unit_a)s \"shy\"\n# voice 2030 \"risanautr_l_0042\"\n# textflame 1 1\n@リサナウト\nこ、これは…！\nスイカの種じゃなくて、\nホクロよ、ホクロ！！\n\n# textflame 0 0\n@\nそう言って、後ろを向き\nいそいそと口元をぬぐう彼女\n\n# face %(unit_a)s \"angry\"\n# voice 2030 \"risanautr_l_0013\"\n# textflame 1 1\n@リサナウト\nもう！\nそんなこと、\nどうだっていいから…\n\n@リサナウト\n私が出すクイズに\n正解してみて！\nいい！？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私が覚える強力なスキルって\nわかる？\n\n# se \"SE_0734\"\n# select \"クラリスの加護\" \"select_label_1\" \"クリスマスの加護\" \"select_label_2\" \"クロノスの加護\" \"select_label_3\"\n私が覚える強力なスキルって\nわかる？\n"
+	},
+	{
+		"ID": 5941,
+		"unitID": 2203011,
+		"questionID": 9203031,
+		"script": ";;バンビーノ,3\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 2030 \"risanautr_l_0002\"\n@リサナウト\nねえ、当主様\n\n@リサナウト\n今からクイズを出すわね\n\n@リサナウト\nもし正解できたら、\n１００ポイントあげるわよ\n\n@リサナウト\nえ？なんのポイントかって？\n\n# face %(unit_a)s \"shy\"\n# voice 2030 \"risanautr_l_0042\"\n@リサナウト\nえっと…\nい、いいじゃない、そんなこと\n\n# textflame 0 0\n@\nなぜか顔を赤くするリサナウト\n\n# textflame 1 1\n@リサナウト\nじゃあ行くわよ！\n;;---------------------------------\n\n# face %(unit_a)s \"normal\"\n@%(unitName:unit_a)s\n私の好きな子どもを\nイタリア語では何ていうか\n知っている？\n\n# se \"SE_0734\"\n# select \"ボンジョルノ\" \"select_label_1\" \"ボルケーノ\" \"select_label_2\" \"バンビーノ\" \"select_label_3\"\n私の好きな子どもを\nイタリア語では何ていうか\n知っている？\n"
+	},
+	{
+		"ID": 5942,
+		"unitID": 2203011,
+		"questionID": 9203032,
+		"script": ";;October,1\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 2030 \"risanautr_l_0002\"\n@リサナウト\nねえ、当主様\n\n@リサナウト\n今からクイズを出すわね\n\n@リサナウト\nもし正解できたら、\n１００ポイントあげるわよ\n\n@リサナウト\nえ？なんのポイントかって？\n\n# face %(unit_a)s \"shy\"\n# voice 2030 \"risanautr_l_0042\"\n@リサナウト\nえっと…\nい、いいじゃない、そんなこと\n\n# textflame 0 0\n@\nなぜか顔を赤くするリサナウト\n\n# textflame 1 1\n@リサナウト\nじゃあ行くわよ！\n;;---------------------------------\n\n# face %(unit_a)s \"normal\"\n@%(unitName:unit_a)s\n私の誕生月を英語で言うと…？\n\n# se \"SE_0734\"\n# select \"October\" \"select_label_1\" \"January\" \"select_label_2\" \"September\" \"select_label_3\"\n私の誕生月を英語で言うと…？\n"
+	},
+	{
+		"ID": 5943,
+		"unitID": 2203011,
+		"questionID": 9203033,
+		"script": ";;霜降,3\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 2030 \"risanautr_l_0002\"\n@リサナウト\nねえ、当主様\n\n@リサナウト\n今からクイズを出すわね\n\n@リサナウト\nもし正解できたら、\n１００ポイントあげるわよ\n\n@リサナウト\nえ？なんのポイントかって？\n\n# face %(unit_a)s \"shy\"\n# voice 2030 \"risanautr_l_0042\"\n@リサナウト\nえっと…\nい、いいじゃない、そんなこと\n\n# textflame 0 0\n@\nなぜか顔を赤くするリサナウト\n\n# textflame 1 1\n@リサナウト\nじゃあ行くわよ！\n;;---------------------------------\n\n# face %(unit_a)s \"normal\"\n@%(unitName:unit_a)s\n私の誕生日は一般に\nこの日と云われているわ\n\n# se \"SE_0734\"\n# select \"大寒\" \"select_label_1\" \"雨水\" \"select_label_2\" \"霜降\" \"select_label_3\"\n私の誕生日は一般に\nこの日と云われているわ\n"
+	},
+	{
+		"ID": 5944,
+		"unitID": 2203011,
+		"questionID": 9203034,
+		"script": ";;アフロディーテ,3\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 2030 \"risanautr_l_0002\"\n@リサナウト\nねえ、当主様\n\n@リサナウト\n今からクイズを出すわね\n\n@リサナウト\nもし正解できたら、\n１００ポイントあげるわよ\n\n@リサナウト\nえ？なんのポイントかって？\n\n# face %(unit_a)s \"shy\"\n# voice 2030 \"risanautr_l_0042\"\n@リサナウト\nえっと…\nい、いいじゃない、そんなこと\n\n# textflame 0 0\n@\nなぜか顔を赤くするリサナウト\n\n# textflame 1 1\n@リサナウト\nじゃあ行くわよ！\n;;---------------------------------\n\n# face %(unit_a)s \"normal\"\n@%(unitName:unit_a)s\n私と誕生月が同じなのは\n誰かわかる？\n\n# se \"SE_0734\"\n# select \"ヴァナルガンド\" \"select_label_1\" \"バルムンク\" \"select_label_2\" \"アフロディーテ\" \"select_label_3\"\n私と誕生月が同じなのは\n誰かわかる？\n"
+	},
+	{
+		"ID": 5945,
+		"unitID": 2203011,
+		"questionID": 9203035,
+		"script": ";;Libra,1\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 2030 \"risanautr_l_0002\"\n@リサナウト\nねえ、当主様\n\n@リサナウト\n今からクイズを出すわね\n\n@リサナウト\nもし正解できたら、\n１００ポイントあげるわよ\n\n@リサナウト\nえ？なんのポイントかって？\n\n# face %(unit_a)s \"shy\"\n# voice 2030 \"risanautr_l_0042\"\n@リサナウト\nえっと…\nい、いいじゃない、そんなこと\n\n# textflame 0 0\n@\nなぜか顔を赤くするリサナウト\n\n# textflame 1 1\n@リサナウト\nじゃあ行くわよ！\n;;---------------------------------\n\n# face %(unit_a)s \"normal\"\n@%(unitName:unit_a)s\n私の星座を英語で言うと？\n\n# se \"SE_0734\"\n# select \"Libra\" \"select_label_1\" \"Capricorn\" \"select_label_2\" \"Aquarius\" \"select_label_3\"\n私の星座を英語で言うと？\n"
+	},
+	{
+		"ID": 5946,
+		"unitID": 2203011,
+		"questionID": 9203036,
+		"script": ";;レーヴァテイン,1\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 2030 \"risanautr_l_0002\"\n@リサナウト\nねえ、当主様\n\n@リサナウト\n今からクイズを出すわね\n\n@リサナウト\nもし正解できたら、\n１００ポイントあげるわよ\n\n@リサナウト\nえ？なんのポイントかって？\n\n# face %(unit_a)s \"shy\"\n# voice 2030 \"risanautr_l_0042\"\n@リサナウト\nえっと…\nい、いいじゃない、そんなこと\n\n# textflame 0 0\n@\nなぜか顔を赤くするリサナウト\n\n# textflame 1 1\n@リサナウト\nじゃあ行くわよ！\n;;---------------------------------\n\n# face %(unit_a)s \"normal\"\n@%(unitName:unit_a)s\n私は一度、彼女に\n負けたことがあるわ\n\n# se \"SE_0734\"\n# select \"レーヴァテイン\" \"select_label_1\" \"マサムネ\" \"select_label_2\" \"ミネルヴァ\" \"select_label_3\"\n私は一度、彼女に\n負けたことがあるわ\n"
+	},
+	{
+		"ID": 5947,
+		"unitID": 2203011,
+		"questionID": 9203037,
+		"script": ";;テンポ,3\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 2030 \"risanautr_l_0002\"\n@リサナウト\nねえ、当主様\n\n@リサナウト\n今からクイズを出すわね\n\n@リサナウト\nもし正解できたら、\n１００ポイントあげるわよ\n\n@リサナウト\nえ？なんのポイントかって？\n\n# face %(unit_a)s \"shy\"\n# voice 2030 \"risanautr_l_0042\"\n@リサナウト\nえっと…\nい、いいじゃない、そんなこと\n\n# textflame 0 0\n@\nなぜか顔を赤くするリサナウト\n\n# textflame 1 1\n@リサナウト\nじゃあ行くわよ！\n;;---------------------------------\n\n# face %(unit_a)s \"normal\"\n@%(unitName:unit_a)s\n『時間』はイタリア語で\n何というか知っている？\n\n# se \"SE_0734\"\n# select \"コンポ\" \"select_label_1\" \"ランポ\" \"select_label_2\" \"テンポ\" \"select_label_3\"\n『時間』はイタリア語で\n何というか知っている？\n"
+	},
+	{
+		"ID": 5948,
+		"unitID": 2203011,
+		"questionID": 9203038,
+		"script": ";;ヴァジュラ,3\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 2030 \"risanautr_l_0002\"\n@リサナウト\nねえ、当主様\n\n@リサナウト\n今からクイズを出すわね\n\n@リサナウト\nもし正解できたら、\n１００ポイントあげるわよ\n\n@リサナウト\nえ？なんのポイントかって？\n\n# face %(unit_a)s \"shy\"\n# voice 2030 \"risanautr_l_0042\"\n@リサナウト\nえっと…\nい、いいじゃない、そんなこと\n\n# textflame 0 0\n@\nなぜか顔を赤くするリサナウト\n\n# textflame 1 1\n@リサナウト\nじゃあ行くわよ！\n;;---------------------------------\n\n# face %(unit_a)s \"normal\"\n@%(unitName:unit_a)s\n私と同じ血液型なのは？\n\n# se \"SE_0734\"\n# select \"ルーン\" \"select_label_1\" \"ロンゴミアント\" \"select_label_2\" \"ヴァジュラ\" \"select_label_3\"\n私と同じ血液型なのは？\n"
+	},
+	{
+		"ID": 5949,
+		"unitID": 2203011,
+		"questionID": 9203039,
+		"script": ";;パラシュ,3\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 2030 \"risanautr_l_0002\"\n@リサナウト\nねえ、当主様\n\n@リサナウト\n今からクイズを出すわね\n\n@リサナウト\nもし正解できたら、\n１００ポイントあげるわよ\n\n@リサナウト\nえ？なんのポイントかって？\n\n# face %(unit_a)s \"shy\"\n# voice 2030 \"risanautr_l_0042\"\n@リサナウト\nえっと…\nい、いいじゃない、そんなこと\n\n# textflame 0 0\n@\nなぜか顔を赤くするリサナウト\n\n# textflame 1 1\n@リサナウト\nじゃあ行くわよ！\n;;---------------------------------\n\n# face %(unit_a)s \"normal\"\n@%(unitName:unit_a)s\n私と違う血液型なのは\n誰かわかる？\n\n# se \"SE_0734\"\n# select \"ヴァジュラ\" \"select_label_1\" \"テュルソス\" \"select_label_2\" \"パラシュ\" \"select_label_3\"\n私と違う血液型なのは\n誰かわかる？\n"
+	},
+	{
+		"ID": 5950,
+		"unitID": 2203011,
+		"questionID": 9203040,
+		"script": ";;グングニル,1\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 2030 \"risanautr_l_0002\"\n@リサナウト\nねえ、当主様\n\n@リサナウト\n今からクイズを出すわね\n\n@リサナウト\nもし正解できたら、\n１００ポイントあげるわよ\n\n@リサナウト\nえ？なんのポイントかって？\n# face %(unit_a)s \"shy\"\n# voice 2030 \"risanautr_l_0042\"\n@リサナウト\nえっと…\nい、いいじゃない、そんなこと\n\n# textflame 0 0\n@\nなぜか顔を赤くするリサナウト\n\n# textflame 1 1\n@リサナウト\nじゃあ行くわよ！\n;;---------------------------------\n\n# face %(unit_a)s \"normal\"\n@%(unitName:unit_a)s\n私と違う誕生月なのは\n誰かわかる？\n\n# se \"SE_0734\"\n# select \"グングニル\" \"select_label_1\" \"アフロディーテ\" \"select_label_2\" \"テュルソス\" \"select_label_3\"\n私と違う誕生月なのは\n誰かわかる？\n"
+	},
+	{
+		"ID": 5951,
+		"unitID": 2203011,
+		"questionID": 9203041,
+		"script": "\n;;私,2\n# se \"SE_0734\"\n# select \"リサ\" \"select_label_1\" \"私\" \"select_label_2\" \"アーイム\" \"select_label_3\"\nリサナウトの一人称は\n次のうちどれでしょう？\n"
+	},
+	{
+		"ID": 5952,
+		"unitID": 2203011,
+		"questionID": 9203042,
+		"script": "\n;;当主様,2\n# se \"SE_0734\"\n# select \"マスター\" \"select_label_1\" \"当主様\" \"select_label_2\" \"キミ\" \"select_label_3\"\nリサナウトはあなたのこと、\nなんと呼んでいますか？\n"
+	},
+	{
+		"ID": 5953,
+		"unitID": 2203011,
+		"questionID": 9203043,
+		"script": "\n;;88cm,2\n# se \"SE_0734\"\n# select \"86cm\" \"select_label_1\" \"88cm\" \"select_label_2\" \"87cm\" \"select_label_3\"\nリサナウトの\nバストサイズがどのくらいか\n知っているでしょうか？\n"
+	},
+	{
+		"ID": 5954,
+		"unitID": 2203011,
+		"questionID": 9203044,
+		"script": "\n;;58cm,1\n# se \"SE_0734\"\n# select \"58cm\" \"select_label_1\" \"56cm\" \"select_label_2\" \"60cm\" \"select_label_3\"\nリサナウトの\nウエストサイズがどのくらいか\n知っているでしょうか？\n"
+	},
+	{
+		"ID": 5955,
+		"unitID": 2203011,
+		"questionID": 9203045,
+		"script": "\n;;92cm,2\n# se \"SE_0734\"\n# select \"90cm\" \"select_label_1\" \"92cm\" \"select_label_2\" \"88cm\" \"select_label_3\"\nリサナウトの\nヒップサイズがどのくらいか\n知っているでしょうか？\n"
+	},
+	{
+		"ID": 5956,
+		"unitID": 2203011,
+		"questionID": 9203046,
+		"script": "\n;;47㎏,2\n# se \"SE_0734\"\n# select \"50kg\" \"select_label_1\" \"47㎏\" \"select_label_2\" \"45kg\" \"select_label_3\"\nリサナウトの体重は\n次のうちどれでしょう？\n"
+	},
+	{
+		"ID": 5957,
+		"unitID": 2203011,
+		"questionID": 9203047,
+		"script": "\n;;238,2\n# se \"SE_0734\"\n# select \"230\" \"select_label_1\" \"238\" \"select_label_2\" \"236\" \"select_label_3\"\nリサナウトの\nバスト＋ウエスト＋ヒップは\nいくつかわかるでしょうか？\n"
+	},
+	{
+		"ID": 5958,
+		"unitID": 2203011,
+		"questionID": 9203048,
+		"script": "\n;;黒色,2\n# se \"SE_0734\"\n# select \"黄緑色\" \"select_label_1\" \"黒色\" \"select_label_2\" \"シルバー\" \"select_label_3\"\nリサナウトの髪の色は\n次のうちどれでしょう？\n"
+	},
+	{
+		"ID": 5959,
+		"unitID": 2203011,
+		"questionID": 9203049,
+		"script": "\n;;3位,3\n# se \"SE_0734\"\n# select \"１位\" \"select_label_1\" \"15位\" \"select_label_2\" \"3位\" \"select_label_3\"\nリサナウトは\n第5回人気投票で\n何位だったでしょう？\n"
+	},
+	{
+		"ID": 5960,
+		"unitID": 2203011,
+		"questionID": 9203050,
+		"script": "\n;;大久保瑠美,2\n# se \"SE_0734\"\n# select \"ゆかな\" \"select_label_1\" \"大久保瑠美\" \"select_label_2\" \"伊瀬茉莉也\" \"select_label_3\"\nリサナウトの声優は誰？\n"
+	}
+]

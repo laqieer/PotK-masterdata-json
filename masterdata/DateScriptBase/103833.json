@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 103833,
+		"script": "# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_planetarium\"\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# face %(unit_a)s \"smile\"\n# textflame 0 0\n@\n%(unitName:unit_a)sと\nプラネタリウムに来たマスター…\n\n# textflame 0 0\n@\n空を見上げると\n満天の星が広がる…\n\n# voice 210381 \"almace_0004\"\n# textflame 1 1\n@アルマス\nこんな毎日が続きますように…\nふふ、流れ星にお願い…なんてね\n\n# textflame 0 0\n@\nふたりは楽しい時を過ごした\n\n# textflame 0 0\n@\n%(unitName:unit_a)sとの距離が\nより近くなった気がした。\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

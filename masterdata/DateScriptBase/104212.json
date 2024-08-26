@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 104212,
+		"script": ";;大A楽しい物語\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_castle\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 210421 \"morabeaga_l_0039\"\n@モラベガ\n楽しい物語…？\nそっか、マスターは\nそんな風に思うんだ…\n\n# voice 210421 \"morabeaga_l_0032\"\n@モラベガ\nそうだね…\n私たちも、そんな物語を\n想像してみるよ！\n\n@モラベガ\nもしも、このお城に\n強くてかっこいい\nお姫様がいたとしたら…\n\n@モラベガ\n強い敵も、危険なことも\nなにもかもを乗り越えて、\n舞台はハッピーエンドを迎える…！\n\n# face %(unit_a)s \"smile\"\n# voice 210421 \"morabeaga_l_0020\"\n@モラベガ\n…なんて物語、素敵だよね！\n素敵だなぁ…\n\n@モラベガ\n私たちもいつか、\nそんな物語の主役になれるときが\n来るのかなっ…？\n\n@モラベガ\nアルマスやマスターみたいに、\nたくさんの人たちに\n手を差し伸べられる存在…\n\n@モラベガ\nそんな風に、\n私たちもなれたらなぁ…\n\n# face %(unit_a)s \"normal\"\n# voice 210421 \"morabeaga_l_0034\"\n@モラベガ\n…ううんっ、\nなってみたい、\nなりたいんだっ！\n\n@モラベガ\n私たちの舞台を\n幸せなものにするには…\n\n@モラベガ\n私たちが動かなくちゃ\n始まらないよねっ！\n\n# voice 210421 \"morabeaga_l_0001\"\n@モラベガ\n見ててね、マスター…！\n私たちが魅せる、\nこれからの舞台を！\n\n# face %(unit_a)s \"smile\"\n@モラベガ\nみんなのために、\nもっともっと\n強くなってみせるからっ…！\n\n# textflame 0 0\n@\nモラベガの決意を受け取って、\n「がんばれ！」と\n背中を押すマスター\n\n# textflame 0 0\n@\nマスターを見るモラベガの瞳には、\n未来への強い期待が\n込められていた…\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

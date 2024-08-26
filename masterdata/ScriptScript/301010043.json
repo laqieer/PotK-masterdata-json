@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 301010043,
+		"script": ";;-----------------------------------------\n;;キズナアイコラボ_イベントシナリオIN編ED\n;;-----------------------------------------\n# script \"lisp\"\n# background \"bg_black\"\n# bgmfile \"bgm405\" \"BgmIntegralNoahEvent003\" 0\n;;-----------------------------------------\n# body 52000711\n# pos 52000711 3\n# scale 52000711 0.8 0\n# layer 52000711 2\n# mask 52000711 off\n# alpha 52000711 0 0\n;;-----------------------------------------\n# imageset 0 \"black\"\n# imagealpha 0 0 0\n# imagelayer 0 1\n;;-----------------------------------------\n# textwindow \"close\"\n# waitandnext 0.2\n\n# background \"yggdrasill_interior\"\n# imagealpha 0 1 0\n# imagepos 0 0 0\n# waitandnext 0.3\n\n# alpha 52000711 1 0\n# imagealpha 0 0 0.5\n# imagerightout 0 0.5\n# waitandnext 0.5\n\n# voice 20007 \"kizunaai_0032\"\n# textflame 1 1\n# textwindow \"nomal\"\n# textboxarrow 0 2\n@キズナアイ\nよし！\nこれで、インテグラルノア編も\n無事に完走しました！\n\n@キズナアイ\n物語も正義と悪って\n感じじゃなくて\n\n@キズナアイ\n正義と正義がぶつかり合う、\nそんな熱さがあったよね\n\n@キズナアイ\nそれと、擬装（イミテイト）と\n擬彩（インテグラル）！\n\n# face 52000711 \"happy\"\n@キズナアイ\nすっごくかっこよくて、\nエンシェントキラーズと\nファーストキラーズのことが\n\n@キズナアイ\n大好きになりました！\n\n# face 52000711 \"normal\"\n@キズナアイ\n全シナリオ通して、\nすっごく楽しかったし、\nぜひプレイしてみてね\n\n# fadeout \"black\" 1\n# waitandnext 1"
+	}
+]

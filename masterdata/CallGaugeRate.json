@@ -1,0 +1,37 @@
+[
+	{
+		"ID": 1,
+		"key": "gauge_capacity",
+		"value": 10000.0
+	},
+	{
+		"ID": 2,
+		"key": "base_add_value",
+		"value": 800.0
+	},
+	{
+		"ID": 3,
+		"key": "base_rate",
+		"value": 1.0
+	},
+	{
+		"ID": 4,
+		"key": "turn_count_rate",
+		"value": 0.019999999552965164
+	},
+	{
+		"ID": 5,
+		"key": "same_character_rate",
+		"value": 0.20000000298023224
+	},
+	{
+		"ID": 6,
+		"key": "player_rank_rate",
+		"value": 0.0020000000949949026
+	},
+	{
+		"ID": 7,
+		"key": "random_rate",
+		"value": 0.20000000298023224
+	}
+]

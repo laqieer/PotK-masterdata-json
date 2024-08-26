@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 3190503,
+		"script": "# script \"lisp\"\n# background \"town\"\n# bgm \"bgm004\" 0\n;;マミ準備\n# body 501411\n# pos 501411 4\n# face 501411 \"sad1\"\n;;デュリン準備\n# body 0\n# pos 0 2\n# face 0 \"sad\"\n;;マミ台詞\n# serif 0\n# textboxarrow 0 3\n# chara 501311\n# voice 9942 \"fok_collabo1_0108_mami\"\n@巴マミ\nなんで、自分同士が殺し合うの…？\n\n# serif 1\n# textboxarrow 1 1\n# chara 501311\n# voice 9942 \"fok_collabo1_0109_durin\"\n@デュリン\nそれがこの世界の摂理なの\n同じ世界に自分は一人だけ\n\n# serif 1\n# textboxarrow 1 1\n# chara 501311\n# voice 9942 \"fok_collabo1_0110_durin\"\n@デュリン\nだからこそ自分を殺し、\n自分自身を補完する\n\n# serif 1\n# textboxarrow 1 1\n# chara 501311\n# voice 9942 \"fok_collabo1_0111_durin\"\n@デュリン\nそれがキラープリンセスの\n背負った宿命なの\n\n# bgm \"stop\"\n# serif 0\n# textboxarrow 0 3\n# chara 501311\n# voice 9942 \"fok_collabo1_0112_mami\"\n# face 501411 \"sad2\"\n@巴マミ\nいや…\n\n# serif 0\n# textboxarrow 0 3\n# chara 501311\n# voice 9942 \"fok_collabo1_0113_mami\"\n@巴マミ\nいやぁああああー！！！"
+	}
+]

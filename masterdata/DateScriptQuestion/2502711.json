@@ -1,0 +1,302 @@
+[
+	{
+		"ID": 4248,
+		"unitID": 2502711,
+		"questionID": 9502701,
+		"script": "# voice 5027 \"freischotz_0002\"\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n@フライシュッツ\nねえ、マスターくん\nちょっといい？\n\n@フライシュッツ\nあ、そんなに身構えなくても\n大丈夫だよ\n\n# voice 5027 \"freischotz_0005\"\n# textflame 1 1\n# face %(unit_a)s \"happy\"\n@フライシュッツ\n実はマスターくんが\nおねーちゃんのことをどれだけ\n知ってくれてるのかなって気になって\n\n@フライシュッツ\nそうだ！\n今からクイズを出すから\n答えてみて～\n\n# textflame 1 1\n@%(unitName:unit_a)s\nおねーちゃんの\n武具種は分かるかな～？\n\n;;銃\n# se \"SE_0734\"\n# select \"銃\" \"select_label_1\" \"剣\" \"select_label_2\" \"槍\" \"select_label_3\"\nおねーちゃんの\n武具種は分かるかな～？　\n"
+	},
+	{
+		"ID": 4249,
+		"unitID": 2502711,
+		"questionID": 9502702,
+		"script": "# voice 5027 \"freischotz_0002\"\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n@フライシュッツ\nねえ、マスターくん\nちょっといい？\n\n@フライシュッツ\nあ、そんなに身構えなくても\n大丈夫だよ\n\n# voice 5027 \"freischotz_0005\"\n# textflame 1 1\n# face %(unit_a)s \"happy\"\n@フライシュッツ\n実はマスターくんが\nおねーちゃんのことをどれだけ\n知ってくれてるのかなって気になって\n\n@フライシュッツ\nそうだ！\n今からクイズを出すから\n答えてみて～\n\n# textflame 1 1\n@%(unitName:unit_a)s\nおねーちゃんはね、\n○○の射手って呼ばれてるんだよ～\nなーんだ？\n\n;;魔弾\n# se \"SE_0734\"\n# select \"聖弾\" \"select_label_1\" \"魔弾\" \"select_label_2\" \"散弾\" \"select_label_3\"\nおねーちゃんはね、\n○○の射手って呼ばれてるんだよ～\nなーんだ？\n"
+	},
+	{
+		"ID": 4250,
+		"unitID": 2502711,
+		"questionID": 9502703,
+		"script": "# voice 5027 \"freischotz_0002\"\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n@フライシュッツ\nねえ、マスターくん\nちょっといい？\n\n@フライシュッツ\nあ、そんなに身構えなくても\n大丈夫だよ\n\n# voice 5027 \"freischotz_0005\"\n# textflame 1 1\n# face %(unit_a)s \"happy\"\n@フライシュッツ\n実はマスターくんが\nおねーちゃんのことをどれだけ\n知ってくれてるのかなって気になって\n\n@フライシュッツ\nそうだ！\n今からクイズを出すから\n答えてみて～\n\n# textflame 1 1\n@%(unitName:unit_a)s\nおねーちゃんのキラーズ\n『フライシュッツ』は\nどんな伝承に登場するかな？\n\n;;ドイツの民話\n# se \"SE_0734\"\n# select \"カナーン神話群\" \"select_label_1\" \"ギリシャ神話\" \"select_label_2\" \"ドイツの民話\" \"select_label_3\"\nおねーちゃんのキラーズ\n『フライシュッツ』は\nどんな伝承に登場するかな？\n"
+	},
+	{
+		"ID": 4251,
+		"unitID": 2502711,
+		"questionID": 9502704,
+		"script": "# voice 5027 \"freischotz_0002\"\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n@フライシュッツ\nねえ、マスターくん\nちょっといい？\n\n@フライシュッツ\nあ、そんなに身構えなくても\n大丈夫だよ\n\n# voice 5027 \"freischotz_0005\"\n# textflame 1 1\n# face %(unit_a)s \"happy\"\n@フライシュッツ\n実はマスターくんが\nおねーちゃんのことをどれだけ\n知ってくれてるのかなって気になって\n\n@フライシュッツ\nそうだ！\n今からクイズを出すから\n答えてみて～\n\n# textflame 1 1\n@%(unitName:unit_a)s\nおねーちゃんの元となった武器\n「フライシュッツ」には\n何がかけられている？\n\n;;悪魔の呪い\n# se \"SE_0734\"\n# select \"悪魔の呪い\" \"select_label_1\" \"毛布\" \"select_label_2\" \"練乳\" \"select_label_3\"\nおねーちゃんの元となった武器\n「フライシュッツ」には\n何がかけられている？\n"
+	},
+	{
+		"ID": 4252,
+		"unitID": 2502711,
+		"questionID": 9502705,
+		"script": "# voice 5027 \"freischotz_0002\"\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n@フライシュッツ\nねえ、マスターくん\nちょっといい？\n\n@フライシュッツ\nあ、そんなに身構えなくても\n大丈夫だよ\n\n# voice 5027 \"freischotz_0005\"\n# textflame 1 1\n# face %(unit_a)s \"happy\"\n@フライシュッツ\n実はマスターくんが\nおねーちゃんのことをどれだけ\n知ってくれてるのかなって気になって\n\n@フライシュッツ\nそうだ！\n今からクイズを出すから\n答えてみて～\n\n# textflame 1 1\n@%(unitName:unit_a)s\nフライシュッツの『frei』は\nどんな意味かわかる？\n\n;;自由な\n# se \"SE_0734\"\n# select \"官能的な\" \"select_label_1\" \"自由な\" \"select_label_2\" \"厳格な\" \"select_label_3\"\nフライシュッツの『frei』は\nどんな意味かわかる？\n"
+	},
+	{
+		"ID": 4253,
+		"unitID": 2502711,
+		"questionID": 9502706,
+		"script": "# voice 5027 \"freischotz_0002\"\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n@フライシュッツ\nねえ、マスターくん\nちょっといい？\n\n@フライシュッツ\nあ、そんなに身構えなくても\n大丈夫だよ\n\n# voice 5027 \"freischotz_0005\"\n# textflame 1 1\n# face %(unit_a)s \"happy\"\n@フライシュッツ\n実はマスターくんが\nおねーちゃんのことをどれだけ\n知ってくれてるのかなって気になって\n\n@フライシュッツ\nそうだ！\n今からクイズを出すから\n答えてみて～\n\n# textflame 1 1\n@%(unitName:unit_a)s\nキラーズ「フライシュッツ」は\n悪魔の力を借りて〇〇◯◯になった\n魔弾の射手のことらしいわ～\n\n;;百発百中\n# se \"SE_0734\"\n# select \"門外不出\" \"select_label_1\" \"一石二鳥\" \"select_label_2\" \"百発百中\" \"select_label_3\"\n「フライシュッツ」は\n悪魔の力を借りて〇〇◯◯になった\n魔弾の射手のことらしいわ～\n"
+	},
+	{
+		"ID": 4254,
+		"unitID": 2502711,
+		"questionID": 9502707,
+		"script": "# voice 5027 \"freischotz_0002\"\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n@フライシュッツ\nねえ、マスターくん\nちょっといい？\n\n@フライシュッツ\nあ、そんなに身構えなくても\n大丈夫だよ\n\n# voice 5027 \"freischotz_0005\"\n# textflame 1 1\n# face %(unit_a)s \"happy\"\n@フライシュッツ\n実はマスターくんが\nおねーちゃんのことをどれだけ\n知ってくれてるのかなって気になって\n\n@フライシュッツ\nそうだ！\n今からクイズを出すから\n答えてみて～\n\n# textflame 1 1\n@%(unitName:unit_a)s\nおねーちゃんの\n内包する七元徳は何かわかる？　\n\n;;信仰\n# se \"SE_0734\"\n# select \"信仰\" \"select_label_1\" \"戦闘\" \"select_label_2\" \"怠惰\" \"select_label_3\"\nおねーちゃんの\n内包する七元徳は何かわかる？　\n"
+	},
+	{
+		"ID": 4255,
+		"unitID": 2502711,
+		"questionID": 9502708,
+		"script": "# voice 5027 \"freischotz_0002\"\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n@フライシュッツ\nねえ、マスターくん\nちょっといい？\n\n@フライシュッツ\nあ、そんなに身構えなくても\n大丈夫だよ\n\n# voice 5027 \"freischotz_0005\"\n# textflame 1 1\n# face %(unit_a)s \"happy\"\n@フライシュッツ\n実はマスターくんが\nおねーちゃんのことをどれだけ\n知ってくれてるのかなって気になって\n\n@フライシュッツ\nそうだ！\n今からクイズを出すから\n答えてみて～\n\n# textflame 1 1\n@%(unitName:unit_a)s\nおねーちゃんが受けている呪いって\nどんなのかわかる？\n\n;;戦いの中、大切な者を失う\n# se \"SE_0734\"\n# select \"ウソの中の真実が見えない\" \"select_label_1\" \"戦いの中、大切な者を失う\" \"select_label_2\" \"自分の鼻の頭を舐める事ができない\" \"select_label_3\"\nおねーちゃんが受けている呪いって\nどんなのかわかる？\n"
+	},
+	{
+		"ID": 4256,
+		"unitID": 2502711,
+		"questionID": 9502709,
+		"script": "# voice 5027 \"freischotz_0002\"\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n@フライシュッツ\nねえ、マスターくん\nちょっといい？\n\n@フライシュッツ\nあ、そんなに身構えなくても\n大丈夫だよ\n\n# voice 5027 \"freischotz_0005\"\n# textflame 1 1\n# face %(unit_a)s \"happy\"\n@フライシュッツ\n実はマスターくんが\nおねーちゃんのことをどれだけ\n知ってくれてるのかなって気になって\n\n@フライシュッツ\nそうだ！\n今からクイズを出すから\n答えてみて～\n\n# textflame 1 1\n@%(unitName:unit_a)s\nフライシュッツの『schötz』って\nどんな意味かわかる？\n\n;;射手\n# se \"SE_0734\"\n# select \"パン屋\" \"select_label_1\" \"大工\" \"select_label_2\" \"射手\" \"select_label_3\"\nフライシュッツの『schötz』って\nどんな意味かわかる？\n"
+	},
+	{
+		"ID": 4257,
+		"unitID": 2502711,
+		"questionID": 9502710,
+		"script": "# voice 5027 \"freischotz_0002\"\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n@フライシュッツ\nねえ、マスターくん\nちょっといい？\n\n@フライシュッツ\nあ、そんなに身構えなくても\n大丈夫だよ\n\n# voice 5027 \"freischotz_0005\"\n# textflame 1 1\n# face %(unit_a)s \"happy\"\n@フライシュッツ\n実はマスターくんが\nおねーちゃんのことをどれだけ\n知ってくれてるのかなって気になって\n\n@フライシュッツ\nそうだ！\n今からクイズを出すから\n答えてみて～\n\n# textflame 1 1\n@%(unitName:unit_a)s\nフライシュッツの伝承で、\n魔弾の内、何発が\n悪魔のものという契約でしょうか？\n\n;;3発\n# se \"SE_0734\"\n# select \"3発\" \"select_label_1\" \"2発\" \"select_label_2\" \"1発\" \"select_label_3\"\nフライシュッツの伝承で、\n魔弾の内、何発が\n悪魔のものという契約でしょうか？\n"
+	},
+	{
+		"ID": 4258,
+		"unitID": 2502711,
+		"questionID": 9502711,
+		"script": "# voice 5027 \"freischotz_0001\"\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n@フライシュッツ\nマスターくん！\n\n# voice 5027 \"freischotz_0004\"\n# textflame 1 1\n# face %(unit_a)s \"happy\"\n@フライシュッツ\nマスターくんがどれだけ\nおねーちゃんのこと知ってくれてるか\nすごく気になっちゃってて…\n\n@フライシュッツ\nだから突然だけど…\nちょっと確かめさせてほしいんだ\n\n@フライシュッツ\nね、いいでしょ？\n\n# textflame 1 1\n@%(unitName:unit_a)s\nマスターくん、\nおねーちゃんの属性は知ってる？\n\n;;闇\n# se \"SE_0734\"\n# select \"闇\" \"select_label_1\" \"火\" \"select_label_2\" \"氷\" \"select_label_3\"\nマスターくん、\nおねーちゃんの属性は知ってる？\n"
+	},
+	{
+		"ID": 4259,
+		"unitID": 2502711,
+		"questionID": 9502712,
+		"script": "# voice 5027 \"freischotz_0001\"\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n@フライシュッツ\nマスターくん！\n\n# voice 5027 \"freischotz_0004\"\n# textflame 1 1\n# face %(unit_a)s \"happy\"\n@フライシュッツ\nマスターくんがどれだけ\nおねーちゃんのこと知ってくれてるか\nすごく気になっちゃってて…\n\n@フライシュッツ\nだから突然だけど…\nちょっと確かめさせてほしいんだ\n\n@フライシュッツ\nね、いいでしょ？\n\n# textflame 1 1\n@%(unitName:unit_a)s\nおねーちゃんの身長はわかるかな？\n\n;;173cm \n# se \"SE_0734\"\n# select \"168cm\" \"select_label_1\" \"173cm \" \"select_label_2\" \"170cm\" \"select_label_3\"\nおねーちゃんの身長はわかるかな？\n"
+	},
+	{
+		"ID": 4260,
+		"unitID": 2502711,
+		"questionID": 9502713,
+		"script": "# voice 5027 \"freischotz_0001\"\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n@フライシュッツ\nマスターくん！\n\n# voice 5027 \"freischotz_0004\"\n# textflame 1 1\n# face %(unit_a)s \"happy\"\n@フライシュッツ\nマスターくんがどれだけ\nおねーちゃんのこと知ってくれてるか\nすごく気になっちゃってて…\n\n@フライシュッツ\nだから突然だけど…\nちょっと確かめさせてほしいんだ\n\n@フライシュッツ\nね、いいでしょ？\n\n# textflame 1 1\n@%(unitName:unit_a)s\nおねーちゃんの誕生日は、\nいつだ～？\n\n;;6月18日\n# se \"SE_0734\"\n# select \"8月18日\" \"select_label_1\" \"7月18日\" \"select_label_2\" \"6月18日\" \"select_label_3\"\nおねーちゃんの誕生日は、\nいつだ～？\n"
+	},
+	{
+		"ID": 4261,
+		"unitID": 2502711,
+		"questionID": 9502714,
+		"script": "# voice 5027 \"freischotz_0001\"\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n@フライシュッツ\nマスターくん！\n\n# voice 5027 \"freischotz_0004\"\n# textflame 1 1\n# face %(unit_a)s \"happy\"\n@フライシュッツ\nマスターくんがどれだけ\nおねーちゃんのこと知ってくれてるか\nすごく気になっちゃってて…\n\n@フライシュッツ\nだから突然だけど…\nちょっと確かめさせてほしいんだ\n\n@フライシュッツ\nね、いいでしょ？\n\n# textflame 1 1\n@%(unitName:unit_a)s\nおねーちゃんの星座を\n当ててみて～？\n\n;;ふたご座\n# se \"SE_0734\"\n# select \"ふたご座\" \"select_label_1\" \"いて座\" \"select_label_2\" \"うお座\" \"select_label_3\"\nおねーちゃんの星座を\n当ててみて～？\n"
+	},
+	{
+		"ID": 4262,
+		"unitID": 2502711,
+		"questionID": 9502715,
+		"script": "# voice 5027 \"freischotz_0001\"\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n@フライシュッツ\nマスターくん！\n\n# voice 5027 \"freischotz_0004\"\n# textflame 1 1\n# face %(unit_a)s \"happy\"\n@フライシュッツ\nマスターくんがどれだけ\nおねーちゃんのこと知ってくれてるか\nすごく気になっちゃってて…\n\n@フライシュッツ\nだから突然だけど…\nちょっと確かめさせてほしいんだ\n\n@フライシュッツ\nね、いいでしょ？\n\n# textflame 1 1\n@%(unitName:unit_a)s\nおねーちゃんの\n好きなものはわかるでしょ？\n\n;;フライクーゲル\n# se \"SE_0734\"\n# select \"イカフライ\" \"select_label_1\" \"フライクーゲル\" \"select_label_2\" \"フライアーゲル\" \"select_label_3\"\nおねーちゃんの\n好きなものはわかるでしょ？\n"
+	},
+	{
+		"ID": 4263,
+		"unitID": 2502711,
+		"questionID": 9502716,
+		"script": "# voice 5027 \"freischotz_0001\"\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n@フライシュッツ\nマスターくん！\n\n# voice 5027 \"freischotz_0004\"\n# textflame 1 1\n# face %(unit_a)s \"happy\"\n@フライシュッツ\nマスターくんがどれだけ\nおねーちゃんのこと知ってくれてるか\nすごく気になっちゃってて…\n\n@フライシュッツ\nだから突然だけど…\nちょっと確かめさせてほしいんだ\n\n@フライシュッツ\nね、いいでしょ？\n\n# textflame 1 1\n@%(unitName:unit_a)s\nおねーちゃんってば、\nこんな風によく言われるかも！\n\n;;天然\n# se \"SE_0734\"\n# select \"計算高い\" \"select_label_1\" \"養殖\" \"select_label_2\" \"天然\" \"select_label_3\"\nおねーちゃんってば、\nこんな風によく言われるかも！\n"
+	},
+	{
+		"ID": 4264,
+		"unitID": 2502711,
+		"questionID": 9502717,
+		"script": "# voice 5027 \"freischotz_0001\"\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n@フライシュッツ\nマスターくん！\n\n# voice 5027 \"freischotz_0004\"\n# textflame 1 1\n# face %(unit_a)s \"happy\"\n@フライシュッツ\nマスターくんがどれだけ\nおねーちゃんのこと知ってくれてるか\nすごく気になっちゃってて…\n\n@フライシュッツ\nだから突然だけど…\nちょっと確かめさせてほしいんだ\n\n@フライシュッツ\nね、いいでしょ？\n\n# textflame 1 1\n@%(unitName:unit_a)s\nおねーちゃんの血液型ってなーんだ？\n\n;;Ｏ型\n# se \"SE_0734\"\n# select \"Ｏ型\" \"select_label_1\" \"Ａ型\" \"select_label_2\" \"Ｂ型\" \"select_label_3\"\nおねーちゃんの血液型ってなーんだ？\n"
+	},
+	{
+		"ID": 4265,
+		"unitID": 2502711,
+		"questionID": 9502718,
+		"script": "# voice 5027 \"freischotz_0001\"\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n@フライシュッツ\nマスターくん！\n\n# voice 5027 \"freischotz_0004\"\n# textflame 1 1\n# face %(unit_a)s \"happy\"\n@フライシュッツ\nマスターくんがどれだけ\nおねーちゃんのこと知ってくれてるか\nすごく気になっちゃってて…\n\n@フライシュッツ\nだから突然だけど…\nちょっと確かめさせてほしいんだ\n\n@フライシュッツ\nね、いいでしょ？\n\n# textflame 1 1\n@%(unitName:unit_a)s\nおねーちゃんの出身地、わかる？\n\n;;ゲルマニア\n# se \"SE_0734\"\n# select \"フランス\" \"select_label_1\" \"ゲルマニア\" \"select_label_2\" \"大英帝国\" \"select_label_3\"\nおねーちゃんの出身地、わかる？\n"
+	},
+	{
+		"ID": 4266,
+		"unitID": 2502711,
+		"questionID": 9502719,
+		"script": "# voice 5027 \"freischotz_0001\"\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n@フライシュッツ\nマスターくん！\n\n# voice 5027 \"freischotz_0004\"\n# textflame 1 1\n# face %(unit_a)s \"happy\"\n@フライシュッツ\nマスターくんがどれだけ\nおねーちゃんのこと知ってくれてるか\nすごく気になっちゃってて…\n\n@フライシュッツ\nだから突然だけど…\nちょっと確かめさせてほしいんだ\n\n@フライシュッツ\nね、いいでしょ？\n\n# textflame 1 1\n@%(unitName:unit_a)s\nおねーちゃんの趣味はなーんだ？\n\n;;細いところを歩くこと\n# se \"SE_0734\"\n# select \"逆スキップ\" \"select_label_1\" \"後ろ走り\" \"select_label_2\" \"細いところを歩くこと\" \"select_label_3\"\nおねーちゃんの趣味はなーんだ？\n"
+	},
+	{
+		"ID": 4267,
+		"unitID": 2502711,
+		"questionID": 9502720,
+		"script": "# voice 5027 \"freischotz_0001\"\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n@フライシュッツ\nマスターくん！\n\n# voice 5027 \"freischotz_0004\"\n# textflame 1 1\n# face %(unit_a)s \"happy\"\n@フライシュッツ\nマスターくんがどれだけ\nおねーちゃんのこと知ってくれてるか\nすごく気になっちゃってて…\n\n@フライシュッツ\nだから突然だけど…\nちょっと確かめさせてほしいんだ\n\n@フライシュッツ\nね、いいでしょ？\n\n# textflame 1 1\n@%(unitName:unit_a)s\nおねーちゃん、\nこれが多いってよく言われるの…。\n\n;;ボディタッチ\n# se \"SE_0734\"\n# select \"ボディタッチ\" \"select_label_1\" \"オヤジギャグ\" \"select_label_2\" \"借金\" \"select_label_3\"\nおねーちゃん、\nこれが多いってよく言われるの…。\n"
+	},
+	{
+		"ID": 4268,
+		"unitID": 2502711,
+		"questionID": 9502721,
+		"script": "# voice 5027 \"freischotz_0002\"\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n@フライシュッツ\nこのまま帰るのもなんだし\nちょっとクイズでもどうかな？\n\n# voice 5027 \"freischotz_0004\"\n# textflame 1 1\n# face %(unit_a)s \"happy\"\n@フライシュッツ\nじゃあ、マスターくんが\nおねーちゃんのこと知ってるか\n出題するね\n\n@フライシュッツ\n頑張って答えてね♪\n\n# textflame 1 1\n@%(unitName:unit_a)s\nおねーちゃんの\n☆６のジョブ名、わかる？\n\n;;不死鳥銃神\n# se \"SE_0734\"\n# select \"不死鳥銃神\" \"select_label_1\" \"不死鳥原人\" \"select_label_2\" \"不死鳥淑女\" \"select_label_3\"\nおねーちゃんの\n☆６のジョブ名、わかる？\n"
+	},
+	{
+		"ID": 4269,
+		"unitID": 2502711,
+		"questionID": 9502722,
+		"script": "# voice 5027 \"freischotz_0002\"\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n@フライシュッツ\nこのまま帰るのもなんだし\nちょっとクイズでもどうかな？\n\n# voice 5027 \"freischotz_0004\"\n# textflame 1 1\n# face %(unit_a)s \"happy\"\n@フライシュッツ\nじゃあ、マスターくんが\nおねーちゃんのこと知ってるか\n出題するね\n\n@フライシュッツ\n頑張って答えてね♪\n\n# textflame 1 1\n@%(unitName:unit_a)s\nおねーちゃんって\nこれになることが多いかな～\n\n;;結果オーライ\n# se \"SE_0734\"\n# select \"バックオーライ\" \"select_label_1\" \"結果オーライ\" \"select_label_2\" \"何でもオーライ\" \"select_label_3\"\nおねーちゃんって\nこれになることが多いかな～\n"
+	},
+	{
+		"ID": 4270,
+		"unitID": 2502711,
+		"questionID": 9502723,
+		"script": "# voice 5027 \"freischotz_0002\"\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n@フライシュッツ\nこのまま帰るのもなんだし\nちょっとクイズでもどうかな？\n\n# voice 5027 \"freischotz_0004\"\n# textflame 1 1\n# face %(unit_a)s \"happy\"\n@フライシュッツ\nじゃあ、マスターくんが\nおねーちゃんのこと知ってるか\n出題するね\n\n@フライシュッツ\n頑張って答えてね♪\n\n# textflame 1 1\n@%(unitName:unit_a)s\nおねーちゃんの☆６の\nリーダースキル、わかるかしら？\n\n;;白闇の夢夜\n# se \"SE_0734\"\n# select \"白熊の夢夜\" \"select_label_1\" \"白黒の夢夜\" \"select_label_2\" \"白闇の夢夜\" \"select_label_3\"\nおねーちゃんの☆６の\nリーダースキル、わかるかしら？\n"
+	},
+	{
+		"ID": 4271,
+		"unitID": 2502711,
+		"questionID": 9502724,
+		"script": "# voice 5027 \"freischotz_0002\"\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n@フライシュッツ\nこのまま帰るのもなんだし\nちょっとクイズでもどうかな？\n\n# voice 5027 \"freischotz_0004\"\n# textflame 1 1\n# face %(unit_a)s \"happy\"\n@フライシュッツ\nじゃあ、マスターくんが\nおねーちゃんのこと知ってるか\n出題するね\n\n@フライシュッツ\n頑張って答えてね♪\n\n# textflame 1 1\n@%(unitName:unit_a)s\nおねーちゃんと仲がいいのは断然、この子！\n\n;;ミネルヴァ\n# se \"SE_0734\"\n# select \"ミネルヴァ\" \"select_label_1\" \"ラグナロク\" \"select_label_2\" \"シタ\" \"select_label_3\"\nおねーちゃんと仲がいいのは断然、この子！\n"
+	},
+	{
+		"ID": 4272,
+		"unitID": 2502711,
+		"questionID": 9502725,
+		"script": "# voice 5027 \"freischotz_0002\"\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n@フライシュッツ\nこのまま帰るのもなんだし\nちょっとクイズでもどうかな？\n\n# voice 5027 \"freischotz_0004\"\n# textflame 1 1\n# face %(unit_a)s \"happy\"\n@フライシュッツ\nじゃあ、マスターくんが\nおねーちゃんのこと知ってるか\n出題するね\n\n@フライシュッツ\n頑張って答えてね♪\n\n# textflame 1 1\n@%(unitName:unit_a)s\nおねーちゃんって\n自由気ままだから…\n\n;;子供っぽいことタイプ\n# se \"SE_0734\"\n# select \"ハンマーを振り回すタイプ\" \"select_label_1\" \"子供っぽいタイプ\" \"select_label_2\" \"刃物を振り回すタイプ\" \"select_label_3\"\nおねーちゃんって\n自由気ままだから…\n"
+	},
+	{
+		"ID": 4273,
+		"unitID": 2502711,
+		"questionID": 9502726,
+		"script": "# voice 5027 \"freischotz_0002\"\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n@フライシュッツ\nこのまま帰るのもなんだし\nちょっとクイズでもどうかな？\n\n# voice 5027 \"freischotz_0004\"\n# textflame 1 1\n# face %(unit_a)s \"happy\"\n@フライシュッツ\nじゃあ、マスターくんが\nおねーちゃんのこと知ってるか\n出題するね\n\n@フライシュッツ\n頑張って答えてね♪\n\n# textflame 1 1\n@%(unitName:unit_a)s\nおねーちゃんが\n覚える付与スキルってわかる？\n\n;;明星の白印\n# se \"SE_0734\"\n# select \"金星の白印\" \"select_label_1\" \"火星の白印\" \"select_label_2\" \"明星の白印\" \"select_label_3\"\nおねーちゃんが\n覚える付与スキルってわかる？\n"
+	},
+	{
+		"ID": 4274,
+		"unitID": 2502711,
+		"questionID": 9502727,
+		"script": "# voice 5027 \"freischotz_0002\"\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n@フライシュッツ\nこのまま帰るのもなんだし\nちょっとクイズでもどうかな？\n\n# voice 5027 \"freischotz_0004\"\n# textflame 1 1\n# face %(unit_a)s \"happy\"\n@フライシュッツ\nじゃあ、マスターくんが\nおねーちゃんのこと知ってるか\n出題するね\n\n@フライシュッツ\n頑張って答えてね♪\n\n# textflame 1 1\n@%(unitName:unit_a)s\nおねーちゃんが取得した\nスキルは覚えてる？\n\n;;零式・幾億の罪\n# se \"SE_0734\"\n# select \"零式・幾億の罪\" \"select_label_1\" \"一式・幾億の罪\" \"select_label_2\" \"ニ式・幾億の罪\" \"select_label_3\"\nおねーちゃんが取得した\nスキルは覚えてる？\n"
+	},
+	{
+		"ID": 4275,
+		"unitID": 2502711,
+		"questionID": 9502728,
+		"script": "# voice 5027 \"freischotz_0002\"\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n@フライシュッツ\nこのまま帰るのもなんだし\nちょっとクイズでもどうかな？\n\n# voice 5027 \"freischotz_0004\"\n# textflame 1 1\n# face %(unit_a)s \"happy\"\n@フライシュッツ\nじゃあ、マスターくんが\nおねーちゃんのこと知ってるか\n出題するね\n\n@フライシュッツ\n頑張って答えてね♪\n\n# textflame 1 1\n@%(unitName:unit_a)s\nおねーちゃんが取得した\nスキルは覚えてる？\n\n;;零式・天使の旋律\n# se \"SE_0734\"\n# select \"零式・悪魔の旋律\" \"select_label_1\" \"零式・天使の旋律\" \"select_label_2\" \"零式・神の旋律\" \"select_label_3\"\nおねーちゃんが取得した\nスキルは覚えてる？\n"
+	},
+	{
+		"ID": 4276,
+		"unitID": 2502711,
+		"questionID": 9502729,
+		"script": "# voice 5027 \"freischotz_0002\"\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n@フライシュッツ\nこのまま帰るのもなんだし\nちょっとクイズでもどうかな？\n\n# voice 5027 \"freischotz_0004\"\n# textflame 1 1\n# face %(unit_a)s \"happy\"\n@フライシュッツ\nじゃあ、マスターくんが\nおねーちゃんのこと知ってるか\n出題するね\n\n@フライシュッツ\n頑張って答えてね♪\n\n# textflame 1 1\n@%(unitName:unit_a)s\nおねーちゃんは\nこの子が大好きなの！\n\n;;フライクーゲル\n# se \"SE_0734\"\n# select \"パラシュ\" \"select_label_1\" \"ティルフィング\" \"select_label_2\" \"フライクーゲル\" \"select_label_3\"\nおねーちゃんは\nこの子が大好きなの！\n"
+	},
+	{
+		"ID": 4277,
+		"unitID": 2502711,
+		"questionID": 9502730,
+		"script": "# voice 5027 \"freischotz_0002\"\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n@フライシュッツ\nこのまま帰るのもなんだし\nちょっとクイズでもどうかな？\n\n# voice 5027 \"freischotz_0004\"\n# textflame 1 1\n# face %(unit_a)s \"happy\"\n@フライシュッツ\nじゃあ、マスターくんが\nおねーちゃんのこと知ってるか\n出題するね\n\n@フライシュッツ\n頑張って答えてね♪\n\n# textflame 1 1\n@%(unitName:unit_a)s\nおねーちゃんってよく、\nこれを着け忘れちゃうの…\n\n;;下着\n# se \"SE_0734\"\n# select \"下着\" \"select_label_1\" \"パジャマ\" \"select_label_2\" \"ヘルメット\" \"select_label_3\"\nおねーちゃんってよく、\nこれを着け忘れちゃうの…\n"
+	},
+	{
+		"ID": 4278,
+		"unitID": 2502711,
+		"questionID": 9502731,
+		"script": "# face %(unit_a)s \"usual\"\n@\nそのままにっこりと笑う\n\n# voice 5027 \"freischotz_0004\"\n# textflame 1 1\n# face %(unit_a)s \"happy\"\n@フライシュッツ\n突然だけど\nおねーちゃんクイズ！\n\n@フライシュッツ\nどれだけおねーちゃんのことを\nマスターくんが知ってくれてるか\n抜き打ちテストだよ？\n\n# voice 5027 \"freischotz_0020\"\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n@フライシュッツ\nではでは、問題はね…\n\n# textflame 1 1\n@%(unitName:unit_a)s\nおねーちゃんハグが大好きなんだ～\nでもハグって\n英語でどう書くんだっけ？\n\n;;hug\n# se \"SE_0734\"\n# select \"hug\" \"select_label_1\" \"hag\" \"select_label_2\" \"fag\" \"select_label_3\"\nおねーちゃんハグが大好きなんだ～\nでもハグって\n英語でどう書くんだっけ？\n"
+	},
+	{
+		"ID": 4279,
+		"unitID": 2502711,
+		"questionID": 9502732,
+		"script": "# face %(unit_a)s \"usual\"\n@\nそのままにっこりと笑う\n\n# voice 5027 \"freischotz_0004\"\n# textflame 1 1\n# face %(unit_a)s \"happy\"\n@フライシュッツ\n突然だけど\nおねーちゃんクイズ！\n\n@フライシュッツ\nどれだけおねーちゃんのことを\nマスターくんが知ってくれてるか\n抜き打ちテストだよ？\n\n# voice 5027 \"freischotz_0020\"\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n@フライシュッツ\nではでは、問題はね…\n\n# textflame 1 1\n@%(unitName:unit_a)s\nおねーちゃんの誕生月を\n英語で言うと？\n\n;;Ｊｕｎｅ\n# se \"SE_0734\"\n# select \"August\" \"select_label_1\" \"June\" \"select_label_2\" \"May\" \"select_label_3\"\nおねーちゃんの誕生月を\n英語で言うと？\n"
+	},
+	{
+		"ID": 4280,
+		"unitID": 2502711,
+		"questionID": 9502733,
+		"script": "# face %(unit_a)s \"usual\"\n@\nそのままにっこりと笑う\n\n# voice 5027 \"freischotz_0004\"\n# textflame 1 1\n# face %(unit_a)s \"happy\"\n@フライシュッツ\n突然だけど\nおねーちゃんクイズ！\n\n@フライシュッツ\nどれだけおねーちゃんのことを\nマスターくんが知ってくれてるか\n抜き打ちテストだよ？\n\n# voice 5027 \"freischotz_0020\"\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n@フライシュッツ\nではでは、問題はね…\n\n# textflame 1 1\n@%(unitName:unit_a)s\nおねーちゃんの瞳の色は\n何色だった？\n\n;;赤色\n# se \"SE_0734\"\n# select \"黄色\" \"select_label_1\" \"青色\" \"select_label_2\" \"赤色\" \"select_label_3\"\nおねーちゃんの瞳の色は\n何色だった？\n"
+	},
+	{
+		"ID": 4281,
+		"unitID": 2502711,
+		"questionID": 9502734,
+		"script": "# face %(unit_a)s \"usual\"\n@\nそのままにっこりと笑う\n\n# voice 5027 \"freischotz_0004\"\n# textflame 1 1\n# face %(unit_a)s \"happy\"\n@フライシュッツ\n突然だけど\nおねーちゃんクイズ！\n\n@フライシュッツ\nどれだけおねーちゃんのことを\nマスターくんが知ってくれてるか\n抜き打ちテストだよ？\n\n# voice 5027 \"freischotz_0020\"\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n@フライシュッツ\nではでは、問題はね…\n\n# textflame 1 1\n@%(unitName:unit_a)s\nマスターくんは\nおねーちゃんのコレで\nよく窒息しちゃうよね？なーんだ？\n\n;;胸\n# se \"SE_0734\"\n# select \"胸\" \"select_label_1\" \"お尻\" \"select_label_2\" \"太もも\" \"select_label_3\"\nマスターくんは\nおねーちゃんのコレで\nよく窒息しちゃうよね？なーんだ？\n"
+	},
+	{
+		"ID": 4282,
+		"unitID": 2502711,
+		"questionID": 9502735,
+		"script": "# face %(unit_a)s \"usual\"\n@\nそのままにっこりと笑う\n\n# voice 5027 \"freischotz_0004\"\n# textflame 1 1\n# face %(unit_a)s \"happy\"\n@フライシュッツ\n突然だけど\nおねーちゃんクイズ！\n\n@フライシュッツ\nどれだけおねーちゃんのことを\nマスターくんが知ってくれてるか\n抜き打ちテストだよ？\n\n# voice 5027 \"freischotz_0020\"\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n@フライシュッツ\nではでは、問題はね…\n\n# textflame 1 1\n@%(unitName:unit_a)s\nおねーちゃんの星座を\n英語で言ってみよー！\n\n;;Gemini\n# se \"SE_0734\"\n# select \"Cancer\" \"select_label_1\" \"Gemini\" \"select_label_2\" \"Leo\" \"select_label_3\"\nおねーちゃんの星座を\n英語で言ってみよー！\n"
+	},
+	{
+		"ID": 4283,
+		"unitID": 2502711,
+		"questionID": 9502736,
+		"script": "# face %(unit_a)s \"usual\"\n@\nそのままにっこりと笑う\n\n# voice 5027 \"freischotz_0004\"\n# textflame 1 1\n# face %(unit_a)s \"happy\"\n@フライシュッツ\n突然だけど\nおねーちゃんクイズ！\n\n@フライシュッツ\nどれだけおねーちゃんのことを\nマスターくんが知ってくれてるか\n抜き打ちテストだよ？\n\n# voice 5027 \"freischotz_0020\"\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n@フライシュッツ\nではでは、問題はね…\n\n# textflame 1 1\n@%(unitName:unit_a)s\nおねーちゃんの好きな事\nってわかるかな？\n\n;;子供っぽいこと\n# se \"SE_0734\"\n# select \"中年っぽいこと\" \"select_label_1\" \"大人っぽいこと\" \"select_label_2\" \"子供っぽいこと\" \"select_label_3\"\nおねーちゃんの好きな事\nってわかるかな？\n"
+	},
+	{
+		"ID": 4284,
+		"unitID": 2502711,
+		"questionID": 9502737,
+		"script": "# face %(unit_a)s \"usual\"\n@\nそのままにっこりと笑う\n\n# voice 5027 \"freischotz_0004\"\n# textflame 1 1\n# face %(unit_a)s \"happy\"\n@フライシュッツ\n突然だけど\nおねーちゃんクイズ！\n\n@フライシュッツ\nどれだけおねーちゃんのことを\nマスターくんが知ってくれてるか\n抜き打ちテストだよ？\n\n# voice 5027 \"freischotz_0020\"\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n@フライシュッツ\nではでは、問題はね…\n\n# textflame 1 1\n@%(unitName:unit_a)s\nオペラ「魔弾の射手」が\n初めて公演されたのはどこかな～？\n\n;;ベルリンの王立劇場\n# se \"SE_0734\"\n# select \"ベルリンの王立劇場\" \"select_label_1\" \"葛飾の町内劇場\" \"select_label_2\" \"千葉の市立体育館\" \"select_label_3\"\nオペラ「魔弾の射手」が\n初めて公演されたのはどこかな～？\n"
+	},
+	{
+		"ID": 4285,
+		"unitID": 2502711,
+		"questionID": 9502738,
+		"script": "# face %(unit_a)s \"usual\"\n@\nそのままにっこりと笑う\n\n# voice 5027 \"freischotz_0004\"\n# textflame 1 1\n# face %(unit_a)s \"happy\"\n@フライシュッツ\n突然だけど\nおねーちゃんクイズ！\n\n@フライシュッツ\nどれだけおねーちゃんのことを\nマスターくんが知ってくれてるか\n抜き打ちテストだよ？\n\n# voice 5027 \"freischotz_0020\"\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n@フライシュッツ\nではでは、問題はね…\n\n# textflame 1 1\n@%(unitName:unit_a)s\nおねーちゃんと同じ血液型なのは\nだーれだ？\n\n;;エロース\n# se \"SE_0734\"\n# select \"アスクレピオス\" \"select_label_1\" \"エロース\" \"select_label_2\" \"ロンギヌス\" \"select_label_3\"\nおねーちゃんと同じ血液型なのは\nだーれだ？\n"
+	},
+	{
+		"ID": 4286,
+		"unitID": 2502711,
+		"questionID": 9502739,
+		"script": "# face %(unit_a)s \"usual\"\n@\nそのままにっこりと笑う\n\n# voice 5027 \"freischotz_0004\"\n# textflame 1 1\n# face %(unit_a)s \"happy\"\n@フライシュッツ\n突然だけど\nおねーちゃんクイズ！\n\n@フライシュッツ\nどれだけおねーちゃんのことを\nマスターくんが知ってくれてるか\n抜き打ちテストだよ？\n\n# voice 5027 \"freischotz_0020\"\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n@フライシュッツ\nではでは、問題はね…\n\n# textflame 1 1\n@%(unitName:unit_a)s\nおねーちゃんと違う血液型なのは\n誰かわかる～？\n\n;;アスクレピオス\n# se \"SE_0734\"\n# select \"エロース\" \"select_label_1\" \"ヴァジュラ\" \"select_label_2\" \"アスクレピオス\" \"select_label_3\"\nおねーちゃんと違う血液型なのは\n誰かわかる～？\n"
+	},
+	{
+		"ID": 4287,
+		"unitID": 2502711,
+		"questionID": 9502740,
+		"script": "# face %(unit_a)s \"usual\"\n@\nそのままにっこりと笑う\n\n# voice 5027 \"freischotz_0004\"\n# textflame 1 1\n# face %(unit_a)s \"happy\"\n@フライシュッツ\n突然だけど\nおねーちゃんクイズ！\n\n@フライシュッツ\nどれだけおねーちゃんのことを\nマスターくんが知ってくれてるか\n抜き打ちテストだよ？\n\n# voice 5027 \"freischotz_0020\"\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n@フライシュッツ\nではでは、問題はね…\n\n# textflame 1 1\n@%(unitName:unit_a)s\nおねーちゃんの放つ\n上級魔弾の名前は？\n\n;;ダークマター\n# se \"SE_0734\"\n# select \"ダークマター\" \"select_label_1\" \"アースマター\" \"select_label_2\" \"ライトマター\" \"select_label_3\"\nおねーちゃんの放つ\n上級魔弾の名前は？\n"
+	},
+	{
+		"ID": 4288,
+		"unitID": 2502711,
+		"questionID": 9502741,
+		"script": "\n;;おねーちゃん\n# se \"SE_0734\"\n# select \"おねーちゃん\" \"select_label_1\" \"オレ\" \"select_label_2\" \"ボク\" \"select_label_3\"\nフライシュッツの一人称は\n次のうちどれ？\n"
+	},
+	{
+		"ID": 4289,
+		"unitID": 2502711,
+		"questionID": 9502742,
+		"script": "\n;;マスターくん\n# se \"SE_0734\"\n# select \"マスター様\" \"select_label_1\" \"マスターくん\" \"select_label_2\" \"マスターちゃん\" \"select_label_3\"\nフライシュッツはアンタのこと、\nなんて呼んでる？\n\n"
+	},
+	{
+		"ID": 4290,
+		"unitID": 2502711,
+		"questionID": 9502743,
+		"script": "\n;;115cm\n# se \"SE_0734\"\n# select \"98cm\" \"select_label_1\" \"100cm\" \"select_label_2\" \"115cm\" \"select_label_3\"\nフライシュッツの\nバストサイズがどのくらいか\nアンタ…知ってるの？\n"
+	},
+	{
+		"ID": 4291,
+		"unitID": 2502711,
+		"questionID": 9502744,
+		"script": "\n;;67cm\n# se \"SE_0734\"\n# select \"67cm\" \"select_label_1\" \"58cm\" \"select_label_2\" \"60cm\" \"select_label_3\"\nフライシュッツの\nウエストサイズがどのくらいか\nアンタ…知ってるの？\n"
+	},
+	{
+		"ID": 4292,
+		"unitID": 2502711,
+		"questionID": 9502745,
+		"script": "\n;;97cm\n# se \"SE_0734\"\n# select \"98cm\" \"select_label_1\" \"97cm\" \"select_label_2\" \"96cm\" \"select_label_3\"\nフライシュッツの\nヒップサイズがどのくらいか\nアンタ…知ってるの？\n"
+	},
+	{
+		"ID": 4293,
+		"unitID": 2502711,
+		"questionID": 9502746,
+		"script": "\n;;62ｋｇ\n# se \"SE_0734\"\n# select \"42kg\" \"select_label_1\" \"52kg\" \"select_label_2\" \"62ｋｇ\" \"select_label_3\"\nフライシュッツの体重は\n次のうちどれ？\n"
+	},
+	{
+		"ID": 4294,
+		"unitID": 2502711,
+		"questionID": 9502747,
+		"script": "\n;;279\n# se \"SE_0734\"\n# select \"279\" \"select_label_1\" \"287\" \"select_label_2\" \"307\" \"select_label_3\"\nフライシュッツの\nバスト＋ウエスト＋ヒップは\nいくつかわかる？\n"
+	},
+	{
+		"ID": 4295,
+		"unitID": 2502711,
+		"questionID": 9502748,
+		"script": "\n;;紫\n# se \"SE_0734\"\n# select \"赤\" \"select_label_1\" \"紫\" \"select_label_2\" \"黒\" \"select_label_3\"\nフライシュッツの髪の色は\n次のうちどれ？\n"
+	},
+	{
+		"ID": 4296,
+		"unitID": 2502711,
+		"questionID": 9502749,
+		"script": "\n;;10位\n# se \"SE_0734\"\n# select \"13位\" \"select_label_1\" \"8位\" \"select_label_2\" \"10位\" \"select_label_3\"\nフライシュッツは\n第３回人気投票で\n何位だったでしょう？\n"
+	},
+	{
+		"ID": 4297,
+		"unitID": 2502711,
+		"questionID": 9502750,
+		"script": "\n;;大地葉\n# se \"SE_0734\"\n# select \"大地葉\" \"select_label_1\" \"沢城みゆき\" \"select_label_2\" \"釘宮理恵\" \"select_label_3\"\nフライシュッツの声優は誰？\n"
+	}
+]

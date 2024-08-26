@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 603221,
+		"script": ";;A,大\n;;B,小\n;;C,中\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_onsen\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# face %(unit_a)s \"normal\"\n# textflame 0 0\n@\nオルフェウスとのデート後…\n疲れを癒すため温泉を\n訪れることにした二人…\n\n# textflame 1 1\n@オルフェウス\nはぁ…今日もヤバいくらい\n汗かいちった…\n\n# voice 560321 \"orpheus_c_0004\"\n@オルフェウス\n激疲れの後の\n温泉って、マジパねーよね♪\nリーダー♪\n\n# face %(unit_a)s \"sad\"\n# voice 560321 \"orpheus_c_0028\"\n@オルフェウス\nでもちょっち\nお湯ぬるだなぁ～…\n\n# face %(unit_a)s \"normal\"\n# voice 560321 \"orpheus_c_0001\"\n@オルフェウス\n…あっ♪\n見て見て！\n\n@オルフェウス\nあっちに激アツ\nお風呂があるっぽいよ♪\n\n# voice 560321 \"orpheus_c_0005\"\n# eye %(unit_a)s \"close\"\n@オルフェウス\nとりま行くっしょ？\n熱いお風呂は怖いなんて\n激寒なことはなしだよ♪\n\n# select \"よし勝負だ\" \"select_label_01\" \"試すだけなら…\" \"select_label_02\" \"ぬるま湯がいい\" \"select_label_03\"\nとりま行くっしょ？\n熱いお風呂は怖いなんて\n激寒なことはなしだよ♪\n\n# label \"select_label_01\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_02\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_03\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# textflame 1 1\n# waitandnext 0.1\n\n# label \"select_label_end\"\n# waitandnext 2\n# fadeout \"black\" 1.2\n"
+	}
+]

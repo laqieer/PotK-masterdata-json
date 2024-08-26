@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 502012,
+		"script": ";;B美味しそうだなぁ（大）\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_stream_day\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n@タスラム\n獲り立てピチピチだからな！\n\n# textflame 1 1\n# eye %(unit_a)s \"close\"\n@タスラム\nそれにあたしが獲ったんだから\n美味しいに決まってるだろ！\n\n# textflame 0 0\n@\nタスラムは駆け寄って来て\nそして早く食べようと急かす\n\n# textflame 1 1\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"smile\"\n# voice 5020 \"tasuramu_0036\"\n@タスラム\nそれじゃあ料理は任せたぜ！\nあたしが獲って、マスターが料理！\n\n# textflame 0 0\n@\n獲った魚を料理している間\nタスラムはかわいらしく\nソワソワとしていた\n\n# textflame 0 0\n@\nそんなタスラムにマスターは\n一緒に料理をしようと誘う\n\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 5020 \"tasuramu_0035\"\n@タスラム\nええ～！？\n料理なんてできないって！！\n\n# textflame 1 1\n# face %(unit_a)s \"angry\"\n@タスラム\nまずくなったらどうすんだよ！\n\n# textflame 0 0\n@\n首をぶんぶん振って拒否する\nタスラムだが、マスターは\nいいからと隣に立たせる\n\n# textflame 0 0\n@\nそしてマスターは\n失敗しても構わない\n\n# textflame 0 0\n@\nタスラムと一緒に\n料理したいのだと告げる\n\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 5020 \"tasuramu_0004\"\n@タスラム\n…ふ、ふたりの\n共同作業ってやつだな！\n\n# textflame 0 0\n@\nモジモジするタスラムと\n仲良く魚を調理をするマスター\n\n# textflame 0 0\n@\n失敗もいくらかあったが\nふたりで作った食事は\nいつもより美味しく感じられた\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

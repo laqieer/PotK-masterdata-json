@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 210270070,
+		"script": ";;【ED】\n# script \"lisp\"\n# background \"town\"\n# bgm \"bgm002\" 0\n# body 103621\n# pos 103621 3\n# scale 103621 0.9 0\n# mask 103621 off\n# textflame 1 1\n# textboxarrow 0 2\n# chara 103621\n@ラグナロク\nこの着物、また来年も\n着付けできるかな…\nちょっと練習しておこう\n\n# textflame 0 0\n@\n新年2日目の朝、自室で\n着付けの練習をしていた\nラグナロク\n\n# textflame 0 0\n@\n部屋の外で騒ぐ気配がしたので、\n着付けを終えて部屋を出てみると…\n\n# textflame 0 0\n@\nそこには、床に座りこむ\nマスターの姿があった\n\n# emotionbody 1036 2 103621 0 280\n# effectpattern 1036 1 0\n# effectstart 1036\n# face 103621 \"sad\"\n# textflame 1 1\n# textboxarrow 0 2\n# chara 103621\n# voice 1036 \"ragnarok_0002\"\n@ラグナロク\nどうしたの、マスター？\nなんか、落ち込んでる？\n\n# textflame 0 0\n@\n隊のみんなに「お年玉」を\n配ることになってしまって…\nと、暗い声で話すマスター\n\n# effectskip 1036\n# face 103621 \"normal\"\n# textflame 1 1\n# textboxarrow 0 2\n# chara 103621\n# voice 1036 \"ragnarok_0040\"\n@ラグナロク\nああ、あの新年のおこづかいね\nそれで、どれくらい配ったの？\n\n# textflame 0 0\n@\nマスターの財布は空っぽだった\nラグナロクと買い物に行こうと\n思ってたのにな、とマスター\n\n# face 103621 \"shy\"\n# textflame 1 1\n# textboxarrow 0 2\n# chara 103621\n# voice 1036 \"ragnarok_0027\"\n@ラグナロク\nまったく…\nほら、どこか一緒に\nご飯でも食べにいきましょ\n\n# face 103621 \"happy\"\n# textflame 1 1\n# textboxarrow 0 2\n# chara 103621\n# voice 1036 \"ragnarok_0005\"\n@ラグナロク\n私がごちそうしてあげるから、ね？\n"
+	}
+]

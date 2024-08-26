@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 500214,
+		"script": ";;C乗り出すと危ない\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_ferris\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# face %(unit_a)s \"angry\"\n# voice 5002 \"furaikugeru_0008\"\n@フライクーゲル\nもう、マスターったら\n心配性なんだから！\n\n# face %(unit_a)s \"smile\"\n@フライクーゲル\nちょっとくらいデンジャーなほうが\nテンションも上がってくるでしょ？\n\n# textflame 0 0\n@\n屈託なく笑うフライクーゲルに\nマスターは思わず苦笑してしまう\n\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 5002 \"furaikugeru_0015\"\n@フライクーゲル\nあ、笑うところじゃないよ！？\nもう、マスターったら～\n\n# textflame 0 0\n@\nそっぽをむくフライクーゲルだが、\n不快ではない沈黙\n\n# textflame 0 0\n@\nその雰囲気を楽しみながら\nふたりは観覧車から見える夜景を\n満喫した…\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

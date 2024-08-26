@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 201314,
+		"script": "# script \"lisp\"\n# fadein \"black\" 0.5\n# background %(background)s\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# face %(unit_a)s \"angry\"\n# voice 2013 \"reshef_0007\"\n@レシェフ\nここにいる神様には\n絶対祈らないけど\n\n# textflame 0 0\n@\n頑なな態度のレシェフだったが\n静かに両手を合わせる\n\n# eye %(unit_a)s \"close\"\n# textflame 1 1\n@レシェフ\n…どこで誰に祈ろうが\nあたしの勝手だし…\n堂々と他の神様に祈るから\n\n# textflame 0 0\n@\n目を閉じて祈りを捧げる横顔は\nとても神聖で…\n美しかった…\n;;--------------------------------------\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

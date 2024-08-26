@@ -1,0 +1,254 @@
+[
+	{
+		"ID": 111,
+		"period_name": "白鯨攻略戦",
+		"start_at": "2018-12-07 00:00:00",
+		"end_at": "2018-12-17 23:59:59",
+		"button_id": 1,
+		"banner_id": 104,
+		"bg_path": "Prefabs/BackGround/101_plain_daytime"
+	},
+	{
+		"ID": 112,
+		"period_name": "ファントムオブアルケミスト第1回ギルドレイド",
+		"start_at": "2019-02-15 00:00:00",
+		"end_at": "2019-02-24 23:59:59",
+		"button_id": 1,
+		"banner_id": 105,
+		"bg_path": "Prefabs/BackGround/mikaboshi"
+	},
+	{
+		"ID": 113,
+		"period_name": "ファンキル学園ギルドレイド",
+		"start_at": "2019-03-30 00:00:00",
+		"end_at": "2019-04-08 14:59:59",
+		"button_id": 1,
+		"banner_id": 106,
+		"bg_path": "Prefabs/BackGround/gakuen_raid"
+	},
+	{
+		"ID": 114,
+		"period_name": "白鯨攻略戦",
+		"start_at": "2019-05-24 00:00:00",
+		"end_at": "2019-06-03 14:59:59",
+		"button_id": 1,
+		"banner_id": 104,
+		"bg_path": "Prefabs/BackGround/101_plain_daytime"
+	},
+	{
+		"ID": 115,
+		"period_name": "FgGコラボレイド",
+		"start_at": "2019-06-21 00:00:00",
+		"end_at": "2019-07-01 14:59:59",
+		"button_id": 1,
+		"banner_id": 107,
+		"bg_path": "Prefabs/BackGround/dimensions"
+	},
+	{
+		"ID": 116,
+		"period_name": "この騒がしい強敵たちに粛清を！",
+		"start_at": "2019-09-01 00:00:00",
+		"end_at": "2019-09-11 14:59:59",
+		"button_id": 1,
+		"banner_id": 108,
+		"bg_path": "Prefabs/BackGround/plain"
+	},
+	{
+		"ID": 117,
+		"period_name": "5周年記念ギルドレイド",
+		"start_at": "2019-10-23 00:00:00",
+		"end_at": "2019-10-30 14:59:59",
+		"button_id": 1,
+		"banner_id": 109,
+		"bg_path": "Prefabs/BackGround/2nd_anniversary_mypage"
+	},
+	{
+		"ID": 118,
+		"period_name": "魔法少女まどか☆マギカ　レイド",
+		"start_at": "2019-11-21 00:00:00",
+		"end_at": "2019-11-29 14:59:59",
+		"button_id": 1,
+		"banner_id": 110,
+		"bg_path": "Prefabs/BackGround/cake"
+	},
+	{
+		"ID": 119,
+		"period_name": "あの花コラボ　ギルドレイド",
+		"start_at": "2020-01-24 00:00:00",
+		"end_at": "2020-02-03 14:59:59",
+		"button_id": 1,
+		"banner_id": 111,
+		"bg_path": "Prefabs/BackGround/saitama_mountain"
+	},
+	{
+		"ID": 120,
+		"period_name": "ダンジョンのない世界で出会った冒険者 ギルドレイド",
+		"start_at": "2020-03-14 00:00:00",
+		"end_at": "2020-03-23 14:59:59",
+		"button_id": 1,
+		"banner_id": 120,
+		"bg_path": "Prefabs/BackGround/plain"
+	},
+	{
+		"ID": 121,
+		"period_name": "ファンキル学園　ギルドレイド",
+		"start_at": "2020-05-15 00:00:00",
+		"end_at": "2020-05-25 14:59:59",
+		"button_id": 1,
+		"banner_id": 121,
+		"bg_path": "Prefabs/BackGround/gakuen_raid"
+	},
+	{
+		"ID": 122,
+		"period_name": "海上編ギルドレイド",
+		"start_at": "2020-08-14 00:00:00",
+		"end_at": "2020-08-24 14:59:59",
+		"button_id": 1,
+		"banner_id": 113,
+		"bg_path": "Prefabs/BackGround/sea_floor_beach_day"
+	},
+	{
+		"ID": 123,
+		"period_name": "魔法少女まどか☆マギカ　コラボレイド",
+		"start_at": "2020-09-12 00:00:00",
+		"end_at": "2020-09-22 14:59:59",
+		"button_id": 123,
+		"banner_id": 123,
+		"bg_path": "Prefabs/BackGround/sea_beach_day"
+	},
+	{
+		"ID": 124,
+		"period_name": "6周年ギルドレイド",
+		"start_at": "2020-10-23 00:00:00",
+		"end_at": "2020-10-30 14:59:59",
+		"button_id": 124,
+		"banner_id": 124,
+		"bg_path": "Prefabs/BackGround/2nd_anniversary_mypage"
+	},
+	{
+		"ID": 125,
+		"period_name": "〈物語〉シリーズ　コラボギルドレイド",
+		"start_at": "2020-12-05 00:00:00",
+		"end_at": "2020-12-15 14:59:59",
+		"button_id": 125,
+		"banner_id": 125,
+		"bg_path": "Prefabs/BackGround/eventbg_bake"
+	},
+	{
+		"ID": 126,
+		"period_name": "FgGコラボギルドレイド",
+		"start_at": "2021-01-23 00:00:00",
+		"end_at": "2021-01-31 14:59:59",
+		"button_id": 126,
+		"banner_id": 126,
+		"bg_path": "Prefabs/BackGround/mikaboshi"
+	},
+	{
+		"ID": 127,
+		"period_name": "ファントムオブスクールギルドレイド",
+		"start_at": "2021-03-20 00:00:00",
+		"end_at": "2021-03-28 14:59:59",
+		"button_id": 127,
+		"banner_id": 127,
+		"bg_path": "Prefabs/BackGround/gakuen_raid"
+	},
+	{
+		"ID": 128,
+		"period_name": "ファントムオブラブ ギルドレイド",
+		"start_at": "2021-07-17 00:00:00",
+		"end_at": "2021-07-25 14:59:59",
+		"button_id": 128,
+		"banner_id": 128,
+		"bg_path": "Prefabs/BackGround/sea_beach_day"
+	},
+	{
+		"ID": 129,
+		"period_name": "キズナアイ コラボギルドレイド",
+		"start_at": "2022-01-08 00:00:00",
+		"end_at": "2022-01-13 14:59:59",
+		"button_id": 129,
+		"banner_id": 129,
+		"bg_path": "Prefabs/BackGround/eventbg_kizunaai"
+	},
+	{
+		"ID": 130,
+		"period_name": "ファントムオブディザスター ギルドレイド",
+		"start_at": "2022-05-21 00:00:00",
+		"end_at": "2022-05-25 14:59:59",
+		"button_id": 130,
+		"banner_id": 130,
+		"bg_path": "Prefabs/BackGround/ground_surface_break"
+	},
+	{
+		"ID": 131,
+		"period_name": "ファントムオブエバーサマー ギルドレイド",
+		"start_at": "2022-09-17 00:00:00",
+		"end_at": "2022-09-22 14:59:59",
+		"button_id": 131,
+		"banner_id": 131,
+		"bg_path": "Prefabs/BackGround/sea_palmbeach_day"
+	},
+	{
+		"ID": 132,
+		"period_name": "8th Anniversaryギルドレイド",
+		"start_at": "2022-10-23 00:00:00",
+		"end_at": "2022-10-28 14:59:59",
+		"button_id": 132,
+		"banner_id": 132,
+		"bg_path": "Prefabs/BackGround/in_perspective"
+	},
+	{
+		"ID": 133,
+		"period_name": "ファントムオブクリスマス ギルドレイド",
+		"start_at": "2022-12-17 00:00:00",
+		"end_at": "2022-12-22 14:59:59",
+		"button_id": 133,
+		"banner_id": 133,
+		"bg_path": "Prefabs/BackGround/highland_snow"
+	},
+	{
+		"ID": 134,
+		"period_name": "ファントムオブアルケミスト ギルドレイド",
+		"start_at": "2023-02-18 00:00:00",
+		"end_at": "2023-02-23 14:59:59",
+		"button_id": 134,
+		"banner_id": 134,
+		"bg_path": "Prefabs/BackGround/mikaboshi"
+	},
+	{
+		"ID": 135,
+		"period_name": "8.5th Anniversaryギルドレイド",
+		"start_at": "2023-04-23 00:00:00",
+		"end_at": "2023-04-28 14:59:59",
+		"button_id": 135,
+		"banner_id": 135,
+		"bg_path": "Prefabs/BackGround/in_yggdrasill2"
+	},
+	{
+		"ID": 136,
+		"period_name": "ファントムオブブライドギルドレイド",
+		"start_at": "2023-06-17 00:00:00",
+		"end_at": "2023-06-22 14:59:59",
+		"button_id": 136,
+		"banner_id": 136,
+		"bg_path": "Prefabs/BackGround/eventbg_wedding"
+	},
+	{
+		"ID": 137,
+		"period_name": "ファントムオブマリンギルドレイド",
+		"start_at": "2023-08-19 00:00:00",
+		"end_at": "2023-08-24 14:59:59",
+		"button_id": 137,
+		"banner_id": 137,
+		"bg_path": "Prefabs/BackGround/sea_floor_beach_day"
+	},
+	{
+		"ID": 138,
+		"period_name": "9th Anniversaryギルドレイド",
+		"start_at": "2023-10-23 00:00:00",
+		"end_at": "2023-10-28 14:59:59",
+		"button_id": 132,
+		"banner_id": 138,
+		"bg_path": "Prefabs/BackGround/in_perspective"
+	}
+]

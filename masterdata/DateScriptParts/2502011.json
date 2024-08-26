@@ -1,0 +1,26 @@
+[
+	{
+		"ID": 288,
+		"unitID": 2502011,
+		"scriptID": "kaerimichi",
+		"script": "肉！肉を食べに行くぞ、マスター！\n今日はまだ食べ足りないからな！\nもっと育つために肉を食べに行くぞ！"
+	},
+	{
+		"ID": 302,
+		"unitID": 2502011,
+		"scriptID": "kaeru",
+		"script": "う～ん、今日はお腹いっぱいだ！\nごめんな！また今度にしようぜ！"
+	},
+	{
+		"ID": 316,
+		"unitID": 2502011,
+		"scriptID": "kaeru_ok",
+		"script": "@%(unitName:unit_a)s\nいいぜ！肉だろ？\nあー、でもたまには\n違うのも良いなぁ…"
+	},
+	{
+		"ID": 330,
+		"unitID": 2502011,
+		"scriptID": "kaeru_ng",
+		"script": "@%(unitName:unit_a)s\nわるい！\n今日はとっておきの肉が\n家にあるんだ"
+	}
+]

@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 200423,
+		"script": ";;A中あたり\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_onsen\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# voice 2004 \"parashu_0022\"\n# face %(unit_a)s \"sad\"\n@パラシュ\nえっ！？\n\n# eye %(unit_a)s \"close\"\n@パラシュ\nいや、うん…\nそうだね、離れてるのもおかしいよね\n\n# voice 2004 \"parashu_0024\"\n# face %(unit_a)s \"normal\"\n# eye %(unit_a)s \"normal\"\n@パラシュ\nマスターが、そうしたいなら…\n\n@パラシュ\nボクは、構わない、よ…\n\n@パラシュ\n…………\n\n# textflame 0 0\n@\nパラシュと二人\nしばらくの間、肩を並べて\n湯船に浸かった―\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

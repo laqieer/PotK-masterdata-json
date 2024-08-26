@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 91006398,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# se \"SE_0733\"\n# face %(unit_a)s \"sad\"\n# voice 1006 \"nageruring_0015\"\n@ナーゲルリング\nうぅ…！\n不正解です、マスター！\n\n;;//文字小さく\n# textsize 20\n@ナーゲルリング\nまったく、いったい今まで\n私のなにを見てきたんだか…\n\n# textsize 24\n@ナーゲルリング\nでも、許してあげます\nそのかわりに…\n\n# voice 1006 \"nageruring_0036\"\n# face %(unit_a)s \"normal\"\n@ナーゲルリング\n次は絶対に正解してくださいね！\n約束ですよ？マスター！\n\n# textflame 0 0\n@\n彼女の言葉に頷く\n\n@\n正解するためには彼女のことを\nもっとよく観察しないと！\n\n@\n今度こそは絶対に正解して\n彼女との約束を守らなければと\n心に誓ったマスターであった\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

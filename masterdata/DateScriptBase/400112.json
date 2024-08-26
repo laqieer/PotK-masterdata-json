@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 400112,
+		"script": "# script \"lisp\"\n# fadein \"black\" 0.5\n# background %(background)s\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 4001 \"arutemisu_0013\"\n@アルテミス\nあ、あなたという人は…！\n\n# voice 4001 \"arutemisu_0027\"\n# face %(unit_a)s \"angry\"\n@アルテミス\nそういう発言が…\n風紀を乱すのだと\n何度言えば…！！\n\n# textflame 0 0\n@\n今は二人きりだし\n誰も聞いていないと\nマスターは言う\n\n# voice 4001 \"arutemisu_0012\"\n# textflame 1 1\n@アルテミス\nそういう問題ではありません！\n意識を変えていただかないと\n困ると言っているのです！\n\n# face %(unit_a)s \"normal\"\n@アルテミス\nそもそも…\n思ってもないようなことを\n軽率に言うのがよくないと…\n\n# textflame 0 0\n@\nいや、思ってないわけじゃないよ？\nと、マスターは伝える\n\n# voice 4001 \"arutemisu_0022\"\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@アルテミス\nえっ、えっ\nえぇ！？\n\n# voice 4001 \"arutemisu_0042\"\n@アルテミス\nあ、あの、その…うぅ…\nま、ますたぁ…\n\n# textflame 0 0\n@\n青白い月に照らされているのに\nアルテミスの顔は\n真っ赤に染まっていた――\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 391014198,
+		"script": ";;//不正解\n# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body 2101431\n# pos 2101431 3\n# mask 2101431 off\n# chara 2101431\n# fadein \"black\" 0.5\n# textflame 1 1\n# face 2101431 \"sad\"\n# se \"SE_0733\"\n# voice 1014 \"tyrufing_0058\"\n@ティルフィング\nマスター…\nその、ごめんなさい…\n急にクイズだなんて\n\n@ティルフィング\nマスターが私のことを\n知ってくれているのでは…\nそう思ったんですけど…\n\n# textflame 0 0\n@\nどうやら不正解を\n選んでしまったようだ\n彼女の表情でそれを察した\n\n# textflame 1 1\n@ティルフィング\nで、でも…今日も楽しかったのは\n事実ですから\nまた誘ってくださいね\n\n# textflame 0 0\n@\n悲しそうな顔をしながら、\nそう言ってくれる彼女に\n心が痛む\n\n@\n次こそ絶対に正解しないと…\nそう心に決めながら、\nそのままぎこちなく帰り道を歩いた―\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

@@ -1,0 +1,302 @@
+[
+	{
+		"ID": 4151,
+		"unitID": 2500211,
+		"questionID": 9500201,
+		"script": ";;書記官,1\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n@フライクーゲル\nヘイ！マスター！\nちょっといいっ？\n\n# textflame 0 0\n@\nフライクーゲルに呼び止められ、\n立ち止まるマスター\n\n# textflame 1 1\n@フライクーゲル\nマスターに、\nいくつかクエスチョン！\nしてみてもいいっ？\n\n# face %(unit_a)s \"smile\"\n@フライクーゲル\nマスターがわたしのこと、\nどのくらい知ってるか、\nチェックチェックだよっ♪\n\n@フライクーゲル\nもし正解できなかったら、\nお仕置きだからね～！\n\n# voice 5002 \"furaikugeru_0036\"\n@フライクーゲル\nそれじゃ、いっくよ～！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nキラーズ『フライクーゲル』の\n持ち主とされる人の職業って\nなんだっけ～？\n\n# se \"SE_0734\"\n# select \"書記官\" \"select_label_1\" \"裁判官\" \"select_label_2\" \"警察官\" \"select_label_3\"\nキラーズ『フライクーゲル』の\n持ち主とされる人の職業って\nなんだっけ～？\n"
+	},
+	{
+		"ID": 4152,
+		"unitID": 2500211,
+		"questionID": 9500202,
+		"script": ";;狩り,2\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n@フライクーゲル\nヘイ！マスター！\nちょっといいっ？\n\n# textflame 0 0\n@\nフライクーゲルに呼び止められ、\n立ち止まるマスター\n\n# textflame 1 1\n@フライクーゲル\nマスターに、\nいくつかクエスチョン！\nしてみてもいいっ？\n\n# face %(unit_a)s \"smile\"\n@フライクーゲル\nマスターがわたしのこと、\nどのくらい知ってるか、\nチェックチェックだよっ♪\n\n@フライクーゲル\nもし正解できなかったら、\nお仕置きだからね～！\n\n# voice 5002 \"furaikugeru_0036\"\n@フライクーゲル\nそれじゃ、いっくよ～！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nキラーズ『フライクーゲル』の\n持ち主の趣味ってな～んだ？\n\n# se \"SE_0734\"\n# select \"旅行\" \"select_label_1\" \"狩り\" \"select_label_2\" \"グルメ\" \"select_label_3\"\nキラーズ『フライクーゲル』の\n持ち主の趣味ってな～んだ？\n"
+	},
+	{
+		"ID": 4153,
+		"unitID": 2500211,
+		"questionID": 9500203,
+		"script": ";;自由に動く弾,3\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n@フライクーゲル\nヘイ！マスター！\nちょっといいっ？\n\n# textflame 0 0\n@\nフライクーゲルに呼び止められ、\n立ち止まるマスター\n\n# textflame 1 1\n@フライクーゲル\nマスターに、\nいくつかクエスチョン！\nしてみてもいいっ？\n\n# face %(unit_a)s \"smile\"\n@フライクーゲル\nマスターがわたしのこと、\nどのくらい知ってるか、\nチェックチェックだよっ♪\n\n@フライクーゲル\nもし正解できなかったら、\nお仕置きだからね～！\n\n# voice 5002 \"furaikugeru_0036\"\n@フライクーゲル\nそれじゃ、いっくよ～！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nキラーズ『フライクーゲル』の\n名前の意味ってわかる～？\n\n# se \"SE_0734\"\n# select \"飛び跳ねる弾\" \"select_label_1\" \"空飛ぶ犬\" \"select_label_2\" \"自由に動く弾\" \"select_label_3\"\nキラーズ『フライクーゲル』の\n名前の意味ってわかる～？\n"
+	},
+	{
+		"ID": 4154,
+		"unitID": 2500211,
+		"questionID": 9500204,
+		"script": ";;絶対に当たる弾丸,1\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n@フライクーゲル\nヘイ！マスター！\nちょっといいっ？\n\n# textflame 0 0\n@\nフライクーゲルに呼び止められ、\n立ち止まるマスター\n\n# textflame 1 1\n@フライクーゲル\nマスターに、\nいくつかクエスチョン！\nしてみてもいいっ？\n\n# face %(unit_a)s \"smile\"\n@フライクーゲル\nマスターがわたしのこと、\nどのくらい知ってるか、\nチェックチェックだよっ♪\n\n@フライクーゲル\nもし正解できなかったら、\nお仕置きだからね～！\n\n# voice 5002 \"furaikugeru_0036\"\n@フライクーゲル\nそれじゃ、いっくよ～！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nキラーズ『フライクーゲル』って\nどんな武器～？\n\n# se \"SE_0734\"\n# select \"絶対に当たる弾丸\" \"select_label_1\" \"絶対に当たらない弾丸\" \"select_label_2\" \"当たりやすい弾丸\" \"select_label_3\"\nキラーズ『フライクーゲル』って\nどんな武器～？\n"
+	},
+	{
+		"ID": 4155,
+		"unitID": 2500211,
+		"questionID": 9500205,
+		"script": ";;６３発,2\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n@フライクーゲル\nヘイ！マスター！\nちょっといいっ？\n\n# textflame 0 0\n@\nフライクーゲルに呼び止められ、\n立ち止まるマスター\n\n# textflame 1 1\n@フライクーゲル\nマスターに、\nいくつかクエスチョン！\nしてみてもいいっ？\n\n# face %(unit_a)s \"smile\"\n@フライクーゲル\nマスターがわたしのこと、\nどのくらい知ってるか、\nチェックチェックだよっ♪\n\n@フライクーゲル\nもし正解できなかったら、\nお仕置きだからね～！\n\n# voice 5002 \"furaikugeru_0036\"\n@フライクーゲル\nそれじゃ、いっくよ～！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nキラーズ『フライクーゲル』は\n一時間に何発作られたの～？\n\n# se \"SE_0734\"\n# select \"１００発\" \"select_label_1\" \"６３発\" \"select_label_2\" \"１３発\" \"select_label_3\"\nキラーズ『フライクーゲル』は\n一時間に何発作られたの～？\n"
+	},
+	{
+		"ID": 4156,
+		"unitID": 2500211,
+		"questionID": 9500206,
+		"script": ";;３発,3\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n@フライクーゲル\nヘイ！マスター！\nちょっといいっ？\n\n# textflame 0 0\n@\nフライクーゲルに呼び止められ、\n立ち止まるマスター\n\n# textflame 1 1\n@フライクーゲル\nマスターに、\nいくつかクエスチョン！\nしてみてもいいっ？\n\n# face %(unit_a)s \"smile\"\n@フライクーゲル\nマスターがわたしのこと、\nどのくらい知ってるか、\nチェックチェックだよっ♪\n\n@フライクーゲル\nもし正解できなかったら、\nお仕置きだからね～！\n\n# voice 5002 \"furaikugeru_0036\"\n@フライクーゲル\nそれじゃ、いっくよ～！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nキラーズ『フライクーゲル』が\nできた後、騎士が持って行ったのは\n何発だっけ～？\n\n# se \"SE_0734\"\n# select \"１発\" \"select_label_1\" \"全部\" \"select_label_2\" \"３発\" \"select_label_3\"\nキラーズ『フライクーゲル』が\nできた後、騎士が持って行ったのは\n何発だっけ～？\n"
+	},
+	{
+		"ID": 4157,
+		"unitID": 2500211,
+		"questionID": 9500207,
+		"script": ";;死刑,1\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n@フライクーゲル\nヘイ！マスター！\nちょっといいっ？\n\n# textflame 0 0\n@\nフライクーゲルに呼び止められ、\n立ち止まるマスター\n\n# textflame 1 1\n@フライクーゲル\nマスターに、\nいくつかクエスチョン！\nしてみてもいいっ？\n\n# face %(unit_a)s \"smile\"\n@フライクーゲル\nマスターがわたしのこと、\nどのくらい知ってるか、\nチェックチェックだよっ♪\n\n@フライクーゲル\nもし正解できなかったら、\nお仕置きだからね～！\n\n# voice 5002 \"furaikugeru_0036\"\n@フライクーゲル\nそれじゃ、いっくよ～！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nキラーズ『フライクーゲル』を\n作ったシュミットは、最終的に\nどうなったんだっけ～？\n\n# se \"SE_0734\"\n# select \"死刑\" \"select_label_1\" \"自殺\" \"select_label_2\" \"事故死\" \"select_label_3\"\nキラーズ『フライクーゲル』を\n作ったシュミットは、最終的に\nどうなったんだっけ～？\n"
+	},
+	{
+		"ID": 4158,
+		"unitID": 2500211,
+		"questionID": 9500208,
+		"script": ";;森の奥深く,2\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n@フライクーゲル\nヘイ！マスター！\nちょっといいっ？\n\n# textflame 0 0\n@\nフライクーゲルに呼び止められ、\n立ち止まるマスター\n\n# textflame 1 1\n@フライクーゲル\nマスターに、\nいくつかクエスチョン！\nしてみてもいいっ？\n\n# face %(unit_a)s \"smile\"\n@フライクーゲル\nマスターがわたしのこと、\nどのくらい知ってるか、\nチェックチェックだよっ♪\n\n@フライクーゲル\nもし正解できなかったら、\nお仕置きだからね～！\n\n# voice 5002 \"furaikugeru_0036\"\n@フライクーゲル\nそれじゃ、いっくよ～！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nキラーズ『フライクーゲル』は\nどんな場所で作られたか\nわかるかな～？\n\n# se \"SE_0734\"\n# select \"地下室\" \"select_label_1\" \"森の奥深く\" \"select_label_2\" \"山の上\" \"select_label_3\"\nキラーズ『フライクーゲル』は\nどんな場所で作られたか\nわかるかな～？\n"
+	},
+	{
+		"ID": 4159,
+		"unitID": 2500211,
+		"questionID": 9500209,
+		"script": ";;裸,3\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n@フライクーゲル\nヘイ！マスター！\nちょっといいっ？\n\n# textflame 0 0\n@\nフライクーゲルに呼び止められ、\n立ち止まるマスター\n\n# textflame 1 1\n@フライクーゲル\nマスターに、\nいくつかクエスチョン！\nしてみてもいいっ？\n\n# face %(unit_a)s \"smile\"\n@フライクーゲル\nマスターがわたしのこと、\nどのくらい知ってるか、\nチェックチェックだよっ♪\n\n@フライクーゲル\nもし正解できなかったら、\nお仕置きだからね～！\n\n# voice 5002 \"furaikugeru_0036\"\n@フライクーゲル\nそれじゃ、いっくよ～！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nキラーズ『フライクーゲル』を\n作る時は、どんな格好をして\nビルドしたでしょ～？\n\n# se \"SE_0734\"\n# select \"スーツ\" \"select_label_1\" \"白装束\" \"select_label_2\" \"裸\" \"select_label_3\"\nキラーズ『フライクーゲル』を\n作る時は、どんな格好をして\nビルドしたでしょ～？\n"
+	},
+	{
+		"ID": 4160,
+		"unitID": 2500211,
+		"questionID": 9500210,
+		"script": ";;狩人,1\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n@フライクーゲル\nヘイ！マスター！\nちょっといいっ？\n\n# textflame 0 0\n@\nフライクーゲルに呼び止められ、\n立ち止まるマスター\n\n# textflame 1 1\n@フライクーゲル\nマスターに、\nいくつかクエスチョン！\nしてみてもいいっ？\n\n# face %(unit_a)s \"smile\"\n@フライクーゲル\nマスターがわたしのこと、\nどのくらい知ってるか、\nチェックチェックだよっ♪\n\n@フライクーゲル\nもし正解できなかったら、\nお仕置きだからね～！\n\n# voice 5002 \"furaikugeru_0036\"\n@フライクーゲル\nそれじゃ、いっくよ～！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nキラーズ『フライクーゲル』を\n作ったのはシュミットと、あと\nもうひとりは誰？\n\n# se \"SE_0734\"\n# select \"狩人\" \"select_label_1\" \"海賊\" \"select_label_2\" \"騎士\" \"select_label_3\"\nキラーズ『フライクーゲル』を\n作ったのはシュミットと、あと\nもうひとりは誰？\n"
+	},
+	{
+		"ID": 4161,
+		"unitID": 2500211,
+		"questionID": 9500211,
+		"script": ";;雷,1\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# voice 5002 \"furaikugeru_0001\"\n@フライクーゲル\nマスター！\nクイズ、しようっ♪\n\n# textflame 0 0\n@\n彼女が予想だにしないことを\n言うのはいつものことだが…\n\n@\n今回も唐突すぎる提案をされて、\n固まってしまうマスター\n\n# textflame 1 1\n# eye %(unit_a)s \"close\"\n# voice 5002 \"furaikugeru_0004\"\n@フライクーゲル\nわたしね、マスターのために\nとっても面白いクエスチョン！\nいっぱい用意してきたの♪\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"usual\"\n@フライクーゲル\nマスターもすることなくて、\nエンジョイできてないかもって\n気になってたし！\n\n@フライクーゲル\nとまぁ、そーいうわけだから♪\n\n# face %(unit_a)s \"smile\"\n# voice 5002 \"furaikugeru_0036\"\n@フライクーゲル\nわたしとマスターだけの、\nシークレットクイズ大会！\n始まり始まり～♪\n;;---------------------------------\n\n@%(unitName:unit_a)s\nじゃあまずは、わたしの属性から\nいってみよ～！\n\n# se \"SE_0734\"\n# select \"雷\" \"select_label_1\" \"炎\" \"select_label_2\" \"光\" \"select_label_3\"\nじゃあまずは、わたしの属性から\nいってみよ～！\n"
+	},
+	{
+		"ID": 4162,
+		"unitID": 2500211,
+		"questionID": 9500212,
+		"script": ";;6月3日,2\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# voice 5002 \"furaikugeru_0001\"\n@フライクーゲル\nマスター！\nクイズ、しようっ♪\n\n# textflame 0 0\n@\n彼女が予想だにしないことを\n言うのはいつものことだが…\n\n@\n今回も唐突すぎる提案をされて、\n固まってしまうマスター\n\n# textflame 1 1\n# eye %(unit_a)s \"close\"\n# voice 5002 \"furaikugeru_0004\"\n@フライクーゲル\nわたしね、マスターのために\nとっても面白いクエスチョン！\nいっぱい用意してきたの♪\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"usual\"\n@フライクーゲル\nマスターもすることなくて、\nエンジョイできてないかもって\n気になってたし！\n\n@フライクーゲル\nとまぁ、そーいうわけだから♪\n\n# face %(unit_a)s \"smile\"\n# voice 5002 \"furaikugeru_0036\"\n@フライクーゲル\nわたしとマスターだけの、\nシークレットクイズ大会！\n始まり始まり～♪\n;;---------------------------------\n\n@%(unitName:unit_a)s\n次は、わたしのバースディ！\nきみは知ってるよね～？\n\n# se \"SE_0734\"\n# select \"12月6日\" \"select_label_1\" \"6月3日\" \"select_label_2\" \"8月11日\" \"select_label_3\"\n次は、わたしのバースディ！\nきみは知ってるよね～？\n"
+	},
+	{
+		"ID": 4163,
+		"unitID": 2500211,
+		"questionID": 9500213,
+		"script": ";;Ｏ型,3\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# voice 5002 \"furaikugeru_0001\"\n@フライクーゲル\nマスター！\nクイズ、しようっ♪\n\n# textflame 0 0\n@\n彼女が予想だにしないことを\n言うのはいつものことだが…\n\n@\n今回も唐突すぎる提案をされて、\n固まってしまうマスター\n\n# textflame 1 1\n# eye %(unit_a)s \"close\"\n# voice 5002 \"furaikugeru_0004\"\n@フライクーゲル\nわたしね、マスターのために\nとっても面白いクエスチョン！\nいっぱい用意してきたの♪\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"usual\"\n@フライクーゲル\nマスターもすることなくて、\nエンジョイできてないかもって\n気になってたし！\n\n@フライクーゲル\nとまぁ、そーいうわけだから♪\n\n# face %(unit_a)s \"smile\"\n# voice 5002 \"furaikugeru_0036\"\n@フライクーゲル\nわたしとマスターだけの、\nシークレットクイズ大会！\n始まり始まり～♪\n;;---------------------------------\n\n@%(unitName:unit_a)s\nこれはわかるかな～？\nわたしのブラッドタイプ\nいってみよ～！\n\n# se \"SE_0734\"\n# select \"ＡＢ型\" \"select_label_1\" \"Ｂ型\" \"select_label_2\" \"Ｏ型\" \"select_label_3\"\nこれはわかるかな～？\nわたしのブラッドタイプ\nいってみよ～！\n"
+	},
+	{
+		"ID": 4164,
+		"unitID": 2500211,
+		"questionID": 9500214,
+		"script": ";;ふたご座,1\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# voice 5002 \"furaikugeru_0001\"\n@フライクーゲル\nマスター！\nクイズ、しようっ♪\n\n# textflame 0 0\n@\n彼女が予想だにしないことを\n言うのはいつものことだが…\n\n@\n今回も唐突すぎる提案をされて、\n固まってしまうマスター\n\n# textflame 1 1\n# eye %(unit_a)s \"close\"\n# voice 5002 \"furaikugeru_0004\"\n@フライクーゲル\nわたしね、マスターのために\nとっても面白いクエスチョン！\nいっぱい用意してきたの♪\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"usual\"\n@フライクーゲル\nマスターもすることなくて、\nエンジョイできてないかもって\n気になってたし！\n\n@フライクーゲル\nとまぁ、そーいうわけだから♪\n\n# face %(unit_a)s \"smile\"\n# voice 5002 \"furaikugeru_0036\"\n@フライクーゲル\nわたしとマスターだけの、\nシークレットクイズ大会！\n始まり始まり～♪\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしの星座、答えてね～！\nバースディがわかれば\nイージィだよね！\n\n# se \"SE_0734\"\n# select \"ふたご座\" \"select_label_1\" \"みずがめ座\" \"select_label_2\" \"しし座\" \"select_label_3\"\nわたしの星座、答えてね～！\nバースディがわかれば\nイージィだよね！\n"
+	},
+	{
+		"ID": 4165,
+		"unitID": 2500211,
+		"questionID": 9500215,
+		"script": ";;ゲルマニア,2\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# voice 5002 \"furaikugeru_0001\"\n@フライクーゲル\nマスター！\nクイズ、しようっ♪\n\n# textflame 0 0\n@\n彼女が予想だにしないことを\n言うのはいつものことだが…\n\n@\n今回も唐突すぎる提案をされて、\n固まってしまうマスター\n\n# textflame 1 1\n# eye %(unit_a)s \"close\"\n# voice 5002 \"furaikugeru_0004\"\n@フライクーゲル\nわたしね、マスターのために\nとっても面白いクエスチョン！\nいっぱい用意してきたの♪\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"usual\"\n@フライクーゲル\nマスターもすることなくて、\nエンジョイできてないかもって\n気になってたし！\n\n@フライクーゲル\nとまぁ、そーいうわけだから♪\n\n# face %(unit_a)s \"smile\"\n# voice 5002 \"furaikugeru_0036\"\n@フライクーゲル\nわたしとマスターだけの、\nシークレットクイズ大会！\n始まり始まり～♪\n;;---------------------------------\n\n@%(unitName:unit_a)s\nこれはディフィカルトかな？\nわたしのホームタウンはどこか\nマスターは知ってる？\n\n# se \"SE_0734\"\n# select \"ブリテン\" \"select_label_1\" \"ゲルマニア\" \"select_label_2\" \"天界\" \"select_label_3\"\nこれはディフィカルトかな？\nわたしのホームタウンはどこか\nマスターは知ってる？\n"
+	},
+	{
+		"ID": 4166,
+		"unitID": 2500211,
+		"questionID": 9500216,
+		"script": ";;森,3\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# voice 5002 \"furaikugeru_0001\"\n@フライクーゲル\nマスター！\nクイズ、しようっ♪\n\n# textflame 0 0\n@\n彼女が予想だにしないことを\n言うのはいつものことだが…\n\n@\n今回も唐突すぎる提案をされて、\n固まってしまうマスター\n\n# textflame 1 1\n# eye %(unit_a)s \"close\"\n# voice 5002 \"furaikugeru_0004\"\n@フライクーゲル\nわたしね、マスターのために\nとっても面白いクエスチョン！\nいっぱい用意してきたの♪\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"usual\"\n@フライクーゲル\nマスターもすることなくて、\nエンジョイできてないかもって\n気になってたし！\n\n@フライクーゲル\nとまぁ、そーいうわけだから♪\n\n# face %(unit_a)s \"smile\"\n# voice 5002 \"furaikugeru_0036\"\n@フライクーゲル\nわたしとマスターだけの、\nシークレットクイズ大会！\n始まり始まり～♪\n;;---------------------------------\n\n@%(unitName:unit_a)s\nマイフェイバリットなもの！\nなにかわかる～？\n\n# se \"SE_0734\"\n# select \"お喋り\" \"select_label_1\" \"運動\" \"select_label_2\" \"森\" \"select_label_3\"\nマイフェイバリットなもの！\nなにかわかる～？\n"
+	},
+	{
+		"ID": 4167,
+		"unitID": 2500211,
+		"questionID": 9500217,
+		"script": ";;物々交換,1\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# voice 5002 \"furaikugeru_0001\"\n@フライクーゲル\nマスター！\nクイズ、しようっ♪\n\n# textflame 0 0\n@\n彼女が予想だにしないことを\n言うのはいつものことだが…\n\n@\n今回も唐突すぎる提案をされて、\n固まってしまうマスター\n\n# textflame 1 1\n# eye %(unit_a)s \"close\"\n# voice 5002 \"furaikugeru_0004\"\n@フライクーゲル\nわたしね、マスターのために\nとっても面白いクエスチョン！\nいっぱい用意してきたの♪\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"usual\"\n@フライクーゲル\nマスターもすることなくて、\nエンジョイできてないかもって\n気になってたし！\n\n@フライクーゲル\nとまぁ、そーいうわけだから♪\n\n# face %(unit_a)s \"smile\"\n# voice 5002 \"furaikugeru_0036\"\n@フライクーゲル\nわたしとマスターだけの、\nシークレットクイズ大会！\n始まり始まり～♪\n;;---------------------------------\n\n@%(unitName:unit_a)s\nじゃあ次は、わたしの趣味！\nこんなの、マスターにとっては\nソーイージィだよね！\n\n# se \"SE_0734\"\n# select \"物々交換\" \"select_label_1\" \"狩り\" \"select_label_2\" \"ショッピング\" \"select_label_3\"\nじゃあ次は、わたしの趣味！\nこんなの、マスターにとっては\nソーイージィだよね！\n"
+	},
+	{
+		"ID": 4168,
+		"unitID": 2500211,
+		"questionID": 9500218,
+		"script": ";;ゲイボルグ,2\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# voice 5002 \"furaikugeru_0001\"\n@フライクーゲル\nマスター！\nクイズ、しようっ♪\n\n# textflame 0 0\n@\n彼女が予想だにしないことを\n言うのはいつものことだが…\n\n@\n今回も唐突すぎる提案をされて、\n固まってしまうマスター\n\n# textflame 1 1\n# eye %(unit_a)s \"close\"\n# voice 5002 \"furaikugeru_0004\"\n@フライクーゲル\nわたしね、マスターのために\nとっても面白いクエスチョン！\nいっぱい用意してきたの♪\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"usual\"\n@フライクーゲル\nマスターもすることなくて、\nエンジョイできてないかもって\n気になってたし！\n\n@フライクーゲル\nとまぁ、そーいうわけだから♪\n\n# face %(unit_a)s \"smile\"\n# voice 5002 \"furaikugeru_0036\"\n@フライクーゲル\nわたしとマスターだけの、\nシークレットクイズ大会！\n始まり始まり～♪\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしのライバルは芭蕉扇と\nもうひとりは誰かな～？\n\n# se \"SE_0734\"\n# select \"ロンギヌス\" \"select_label_1\" \"ゲイボルグ\" \"select_label_2\" \"トリシューラ\" \"select_label_3\"\nわたしのライバルは芭蕉扇と\nもうひとりは誰かな～？\n"
+	},
+	{
+		"ID": 4169,
+		"unitID": 2500211,
+		"questionID": 9500219,
+		"script": ";;同じ必中武器だから,3\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# voice 5002 \"furaikugeru_0001\"\n@フライクーゲル\nマスター！\nクイズ、しようっ♪\n\n# textflame 0 0\n@\n彼女が予想だにしないことを\n言うのはいつものことだが…\n\n@\n今回も唐突すぎる提案をされて、\n固まってしまうマスター\n\n# textflame 1 1\n# eye %(unit_a)s \"close\"\n# voice 5002 \"furaikugeru_0004\"\n@フライクーゲル\nわたしね、マスターのために\nとっても面白いクエスチョン！\nいっぱい用意してきたの♪\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"usual\"\n@フライクーゲル\nマスターもすることなくて、\nエンジョイできてないかもって\n気になってたし！\n\n@フライクーゲル\nとまぁ、そーいうわけだから♪\n\n# face %(unit_a)s \"smile\"\n# voice 5002 \"furaikugeru_0036\"\n@フライクーゲル\nわたしとマスターだけの、\nシークレットクイズ大会！\n始まり始まり～♪\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしとゲイボルグはあんまり\n仲がよくないんだけど、ホワイ？\nそれはなぜでしょう？\n\n# se \"SE_0734\"\n# select \"単に馬が合わないから\" \"select_label_1\" \"持ち主同士が不仲だから\" \"select_label_2\" \"同じ必中武器だから\" \"select_label_3\"\nわたしとゲイボルグはあんまり\n仲がよくないんだけど、ホワイ？\nそれはなぜでしょう？\n"
+	},
+	{
+		"ID": 4170,
+		"unitID": 2500211,
+		"questionID": 9500220,
+		"script": ";;トリガーハッピー状態,1\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# voice 5002 \"furaikugeru_0001\"\n@フライクーゲル\nマスター！\nクイズ、しようっ♪\n\n# textflame 0 0\n@\n彼女が予想だにしないことを\n言うのはいつものことだが…\n\n@\n今回も唐突すぎる提案をされて、\n固まってしまうマスター\n\n# textflame 1 1\n# eye %(unit_a)s \"close\"\n# voice 5002 \"furaikugeru_0004\"\n@フライクーゲル\nわたしね、マスターのために\nとっても面白いクエスチョン！\nいっぱい用意してきたの♪\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"usual\"\n@フライクーゲル\nマスターもすることなくて、\nエンジョイできてないかもって\n気になってたし！\n\n@フライクーゲル\nとまぁ、そーいうわけだから♪\n\n# face %(unit_a)s \"smile\"\n# voice 5002 \"furaikugeru_0036\"\n@フライクーゲル\nわたしとマスターだけの、\nシークレットクイズ大会！\n始まり始まり～♪\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしはバトルになると\nどんな感じになっちゃうでしょ～！\nあれ、やめられないんだよね～♪\n\n# se \"SE_0734\"\n# select \"トリガーハッピー状態\" \"select_label_1\" \"スナイパー状態\" \"select_label_2\" \"弱気モード\" \"select_label_3\"\nわたしはバトルになると\nどんな感じになっちゃうでしょ～！\nあれ、やめられないんだよね～♪\n"
+	},
+	{
+		"ID": 4171,
+		"unitID": 2500211,
+		"questionID": 9500221,
+		"script": ";;銃,1\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n@フライクーゲル\nじゃじゃ～ん！\n\n# voice 5002 \"furaikugeru_0004\"\n@フライクーゲル\n第何回…だったか忘れたけど、\nフライクーゲルのクイズ大会～！\nはっじまっるよ～！\n\n# textflame 0 0\n@\n急に大声を出されて、\nマスターはびっくり\nしてしまう\n\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n@フライクーゲル\nも～、\nなにフリーズしちゃってるの～？\n\n# face %(unit_a)s \"usual\"\n@フライクーゲル\nこれから楽しいクイズ大会が\n始まるんだよ～？\n\n# face %(unit_a)s \"smile\"\n@フライクーゲル\nだからほらもっと、\nテンションアップ！\n\n# textflame 0 0\n@\n元気一杯のフライクーゲルに\n乗せられ、マスターは次第に\n気分が盛り上がってくる\n\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 5002 \"furaikugeru_0001\"\n@フライクーゲル\nオーケーオーケー！\nいい感じだよ、マスター！\nそうこなくっちゃ！\n\n# voice 5002 \"furaikugeru_0036\"\n@フライクーゲル\nよ～し！それじゃあ、\nそろそろいってみよ～！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしが扱う武器って\nどんなのかな～？\n\n# se \"SE_0734\"\n# select \"銃\" \"select_label_1\" \"剣\" \"select_label_2\" \"槍\" \"select_label_3\"\nわたしが扱う武器って\nどんなのかな～？\n"
+	},
+	{
+		"ID": 4172,
+		"unitID": 2500211,
+		"questionID": 9500222,
+		"script": ";;銃皇,2\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n@フライクーゲル\nじゃじゃ～ん！\n\n# voice 5002 \"furaikugeru_0004\"\n@フライクーゲル\n第何回…だったか忘れたけど、\nフライクーゲルのクイズ大会～！\nはっじまっるよ～！\n\n# textflame 0 0\n@\n急に大声を出されて、\nマスターはびっくり\nしてしまう\n\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n@フライクーゲル\nも～、\nなにフリーズしちゃってるの～？\n\n# face %(unit_a)s \"usual\"\n@フライクーゲル\nこれから楽しいクイズ大会が\n始まるんだよ～？\n\n# face %(unit_a)s \"smile\"\n@フライクーゲル\nだからほらもっと、\nテンションアップ！\n\n# textflame 0 0\n@\n元気一杯のフライクーゲルに\n乗せられ、マスターは次第に\n気分が盛り上がってくる\n\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 5002 \"furaikugeru_0001\"\n@フライクーゲル\nオーケーオーケー！\nいい感じだよ、マスター！\nそうこなくっちゃ！\n\n# voice 5002 \"furaikugeru_0036\"\n@フライクーゲル\nよ～し！それじゃあ、\nそろそろいってみよ～！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしのジョブなんだけど\n本当にあるのはどれかな？\nさ、当ててみてー！\n\n# se \"SE_0734\"\n# select \"ハッピートリガー\" \"select_label_1\" \"銃皇\" \"select_label_2\" \"銃狂\" \"select_label_3\"\nわたしのジョブなんだけど\n本当にあるのはどれかな？\nさ、当ててみてー！\n"
+	},
+	{
+		"ID": 4173,
+		"unitID": 2500211,
+		"questionID": 9500223,
+		"script": ";;光雷軍の皇気,3\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n@フライクーゲル\nじゃじゃ～ん！\n\n# voice 5002 \"furaikugeru_0004\"\n@フライクーゲル\n第何回…だったか忘れたけど、\nフライクーゲルのクイズ大会～！\nはっじまっるよ～！\n\n# textflame 0 0\n@\n急に大声を出されて、\nマスターはびっくり\nしてしまう\n\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n@フライクーゲル\nも～、\nなにフリーズしちゃってるの～？\n\n# face %(unit_a)s \"usual\"\n@フライクーゲル\nこれから楽しいクイズ大会が\n始まるんだよ～？\n\n# face %(unit_a)s \"smile\"\n@フライクーゲル\nだからほらもっと、\nテンションアップ！\n\n# textflame 0 0\n@\n元気一杯のフライクーゲルに\n乗せられ、マスターは次第に\n気分が盛り上がってくる\n\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 5002 \"furaikugeru_0001\"\n@フライクーゲル\nオーケーオーケー！\nいい感じだよ、マスター！\nそうこなくっちゃ！\n\n# voice 5002 \"furaikugeru_0036\"\n@フライクーゲル\nよ～し！それじゃあ、\nそろそろいってみよ～！\n;;---------------------------------\n\n@%(unitName:unit_a)s\n銃皇ジョブのわたしが使える\nリーダースキルはどんな名前？\n\n# se \"SE_0734\"\n# select \"光雷の轟き\" \"select_label_1\" \"光雷軍の闘気\" \"select_label_2\" \"光雷軍の皇気\" \"select_label_3\"\n銃皇ジョブのわたしが使える\nリーダースキルはどんな名前？\n"
+	},
+	{
+		"ID": 4174,
+		"unitID": 2500211,
+		"questionID": 9500224,
+		"script": ";;シークレットマギ,1\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n@フライクーゲル\nじゃじゃ～ん！\n\n# voice 5002 \"furaikugeru_0004\"\n@フライクーゲル\n第何回…だったか忘れたけど、\nフライクーゲルのクイズ大会～！\nはっじまっるよ～！\n\n# textflame 0 0\n@\n急に大声を出されて、\nマスターはびっくり\nしてしまう\n\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n@フライクーゲル\nも～、\nなにフリーズしちゃってるの～？\n\n# face %(unit_a)s \"usual\"\n@フライクーゲル\nこれから楽しいクイズ大会が\n始まるんだよ～？\n\n# face %(unit_a)s \"smile\"\n@フライクーゲル\nだからほらもっと、\nテンションアップ！\n\n# textflame 0 0\n@\n元気一杯のフライクーゲルに\n乗せられ、マスターは次第に\n気分が盛り上がってくる\n\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 5002 \"furaikugeru_0001\"\n@フライクーゲル\nオーケーオーケー！\nいい感じだよ、マスター！\nそうこなくっちゃ！\n\n# voice 5002 \"furaikugeru_0036\"\n@フライクーゲル\nよ～し！それじゃあ、\nそろそろいってみよ～！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nじゃあ、銃皇ジョブの時に\nＥＰ２のクエストをクリアすると\n使えるようになるスキルは～？\n\n# se \"SE_0734\"\n# select \"シークレットマギ\" \"select_label_1\" \"オープンセサミ\" \"select_label_2\" \"ヘアピィヘアピィ！\" \"select_label_3\"\nじゃあ、銃皇ジョブの時に\nＥＰ２のクエストをクリアすると\n使えるようになるスキルは～？\n"
+	},
+	{
+		"ID": 4175,
+		"unitID": 2500211,
+		"questionID": 9500225,
+		"script": ";;黒雷の閃轟,2\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n@フライクーゲル\nじゃじゃ～ん！\n\n# voice 5002 \"furaikugeru_0004\"\n@フライクーゲル\n第何回…だったか忘れたけど、\nフライクーゲルのクイズ大会～！\nはっじまっるよ～！\n\n# textflame 0 0\n@\n急に大声を出されて、\nマスターはびっくり\nしてしまう\n\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n@フライクーゲル\nも～、\nなにフリーズしちゃってるの～？\n\n# face %(unit_a)s \"usual\"\n@フライクーゲル\nこれから楽しいクイズ大会が\n始まるんだよ～？\n\n# face %(unit_a)s \"smile\"\n@フライクーゲル\nだからほらもっと、\nテンションアップ！\n\n# textflame 0 0\n@\n元気一杯のフライクーゲルに\n乗せられ、マスターは次第に\n気分が盛り上がってくる\n\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 5002 \"furaikugeru_0001\"\n@フライクーゲル\nオーケーオーケー！\nいい感じだよ、マスター！\nそうこなくっちゃ！\n\n# voice 5002 \"furaikugeru_0036\"\n@フライクーゲル\nよ～し！それじゃあ、\nそろそろいってみよ～！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nブラックキラーズのリーダースキルは\nなんて名前かな？この時のわたし\nなんかすっごく悪そうだよね～！\n\n# se \"SE_0734\"\n# select \"遠雷の閃光\" \"select_label_1\" \"黒雷の閃轟\" \"select_label_2\" \"トリガーヘアピィ！\" \"select_label_3\"\nブラックキラーズのリーダースキルは\nなんて名前かな？この時のわたし\nなんかすっごく悪そうだよね～！\n"
+	},
+	{
+		"ID": 4176,
+		"unitID": 2500211,
+		"questionID": 9500226,
+		"script": ";;,3黒式・雷閃煌\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n@フライクーゲル\nじゃじゃ～ん！\n\n# voice 5002 \"furaikugeru_0004\"\n@フライクーゲル\n第何回…だったか忘れたけど、\nフライクーゲルのクイズ大会～！\nはっじまっるよ～！\n\n# textflame 0 0\n@\n急に大声を出されて、\nマスターはびっくり\nしてしまう\n\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n@フライクーゲル\nも～、\nなにフリーズしちゃってるの～？\n\n# face %(unit_a)s \"usual\"\n@フライクーゲル\nこれから楽しいクイズ大会が\n始まるんだよ～？\n\n# face %(unit_a)s \"smile\"\n@フライクーゲル\nだからほらもっと、\nテンションアップ！\n\n# textflame 0 0\n@\n元気一杯のフライクーゲルに\n乗せられ、マスターは次第に\n気分が盛り上がってくる\n\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 5002 \"furaikugeru_0001\"\n@フライクーゲル\nオーケーオーケー！\nいい感じだよ、マスター！\nそうこなくっちゃ！\n\n# voice 5002 \"furaikugeru_0036\"\n@フライクーゲル\nよ～し！それじゃあ、\nそろそろいってみよ～！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nブラックキラーズのわたしの\nＥＰ３のクエストをクリアすると覚える\nスキル名を言ってみよ～！\n\n# se \"SE_0734\"\n# select \"深遠の黒印\" \"select_label_1\" \"黒式・雷閃輝\" \"select_label_2\" \"黒式・雷閃煌\" \"select_label_3\"\nブラックキラーズのわたしの\nＥＰ３のクエストをクリアすると覚える\nスキル名を言ってみよ～！\n"
+	},
+	{
+		"ID": 4177,
+		"unitID": 2500211,
+		"questionID": 9500227,
+		"script": ";;銃神,1\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n@フライクーゲル\nじゃじゃ～ん！\n\n# voice 5002 \"furaikugeru_0004\"\n@フライクーゲル\n第何回…だったか忘れたけど、\nフライクーゲルのクイズ大会～！\nはっじまっるよ～！\n\n# textflame 0 0\n@\n急に大声を出されて、\nマスターはびっくり\nしてしまう\n\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n@フライクーゲル\nも～、\nなにフリーズしちゃってるの～？\n\n# face %(unit_a)s \"usual\"\n@フライクーゲル\nこれから楽しいクイズ大会が\n始まるんだよ～？\n\n# face %(unit_a)s \"smile\"\n@フライクーゲル\nだからほらもっと、\nテンションアップ！\n\n# textflame 0 0\n@\n元気一杯のフライクーゲルに\n乗せられ、マスターは次第に\n気分が盛り上がってくる\n\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 5002 \"furaikugeru_0001\"\n@フライクーゲル\nオーケーオーケー！\nいい感じだよ、マスター！\nそうこなくっちゃ！\n\n# voice 5002 \"furaikugeru_0036\"\n@フライクーゲル\nよ～し！それじゃあ、\nそろそろいってみよ～！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしのジョブで、銃の文字が\nつくのは、銃皇とあとひとつ！\nそれはなにかな～？\n\n# se \"SE_0734\"\n# select \"銃神\" \"select_label_1\" \"銃爆\" \"select_label_2\" \"銃将\" \"select_label_3\"\nわたしのジョブで、銃の文字が\nつくのは、銃皇とあとひとつ！\nそれはなにかな～？\n"
+	},
+	{
+		"ID": 4178,
+		"unitID": 2500211,
+		"questionID": 9500228,
+		"script": ";;銃神の聖雷,2\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n@フライクーゲル\nじゃじゃ～ん！\n\n# voice 5002 \"furaikugeru_0004\"\n@フライクーゲル\n第何回…だったか忘れたけど、\nフライクーゲルのクイズ大会～！\nはっじまっるよ～！\n\n# textflame 0 0\n@\n急に大声を出されて、\nマスターはびっくり\nしてしまう\n\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n@フライクーゲル\nも～、\nなにフリーズしちゃってるの～？\n\n# face %(unit_a)s \"usual\"\n@フライクーゲル\nこれから楽しいクイズ大会が\n始まるんだよ～？\n\n# face %(unit_a)s \"smile\"\n@フライクーゲル\nだからほらもっと、\nテンションアップ！\n\n# textflame 0 0\n@\n元気一杯のフライクーゲルに\n乗せられ、マスターは次第に\n気分が盛り上がってくる\n\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 5002 \"furaikugeru_0001\"\n@フライクーゲル\nオーケーオーケー！\nいい感じだよ、マスター！\nそうこなくっちゃ！\n\n# voice 5002 \"furaikugeru_0036\"\n@フライクーゲル\nよ～し！それじゃあ、\nそろそろいってみよ～！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nそれじゃあ、銃神ジョブの\nリーダースキルを答えてねー！\nはいどーぞ！\n\n# se \"SE_0734\"\n# select \"銃神の怒り\" \"select_label_1\" \"銃神の聖雷\" \"select_label_2\" \"銃神の落雷\" \"select_label_3\"\nそれじゃあ、銃神ジョブの\nリーダースキルを答えてねー！\nはいどーぞ！\n"
+	},
+	{
+		"ID": 4179,
+		"unitID": 2500211,
+		"questionID": 9500229,
+		"script": ";;ハピネス☆マギ,3\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n@フライクーゲル\nじゃじゃ～ん！\n\n# voice 5002 \"furaikugeru_0004\"\n@フライクーゲル\n第何回…だったか忘れたけど、\nフライクーゲルのクイズ大会～！\nはっじまっるよ～！\n\n# textflame 0 0\n@\n急に大声を出されて、\nマスターはびっくり\nしてしまう\n\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n@フライクーゲル\nも～、\nなにフリーズしちゃってるの～？\n\n# face %(unit_a)s \"usual\"\n@フライクーゲル\nこれから楽しいクイズ大会が\n始まるんだよ～？\n\n# face %(unit_a)s \"smile\"\n@フライクーゲル\nだからほらもっと、\nテンションアップ！\n\n# textflame 0 0\n@\n元気一杯のフライクーゲルに\n乗せられ、マスターは次第に\n気分が盛り上がってくる\n\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 5002 \"furaikugeru_0001\"\n@フライクーゲル\nオーケーオーケー！\nいい感じだよ、マスター！\nそうこなくっちゃ！\n\n# voice 5002 \"furaikugeru_0036\"\n@フライクーゲル\nよ～し！それじゃあ、\nそろそろいってみよ～！\n;;---------------------------------\n\n@%(unitName:unit_a)s\n銃神ジョブで、ＥＰ３のクエストが\n終わると覚えるスキルはなにー？\n\n# se \"SE_0734\"\n# select \"ドリーム・マギ\" \"select_label_1\" \"ブランニューマギ\" \"select_label_2\" \"ハピネス☆マギ\" \"select_label_3\"\n銃神ジョブで、ＥＰ３のクエストが\n終わると覚えるスキルはなにー？\n"
+	},
+	{
+		"ID": 4180,
+		"unitID": 2500211,
+		"questionID": 9500230,
+		"script": ";;活発,1\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n@フライクーゲル\nじゃじゃ～ん！\n\n# voice 5002 \"furaikugeru_0004\"\n@フライクーゲル\n第何回…だったか忘れたけど、\nフライクーゲルのクイズ大会～！\nはっじまっるよ～！\n\n# textflame 0 0\n@\n急に大声を出されて、\nマスターはびっくり\nしてしまう\n\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n@フライクーゲル\nも～、\nなにフリーズしちゃってるの～？\n\n# face %(unit_a)s \"usual\"\n@フライクーゲル\nこれから楽しいクイズ大会が\n始まるんだよ～？\n\n# face %(unit_a)s \"smile\"\n@フライクーゲル\nだからほらもっと、\nテンションアップ！\n\n# textflame 0 0\n@\n元気一杯のフライクーゲルに\n乗せられ、マスターは次第に\n気分が盛り上がってくる\n\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 5002 \"furaikugeru_0001\"\n@フライクーゲル\nオーケーオーケー！\nいい感じだよ、マスター！\nそうこなくっちゃ！\n\n# voice 5002 \"furaikugeru_0036\"\n@フライクーゲル\nよ～し！それじゃあ、\nそろそろいってみよ～！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nクエスチョンだよ！ジャジャン！\nわたしの性格に当てはまるのは\nどれでしょうか！\n\n# se \"SE_0734\"\n# select \"活発\" \"select_label_1\" \"大人しい\" \"select_label_2\" \"乱暴\" \"select_label_3\"\nクエスチョンだよ！ジャジャン！\nわたしの性格に当てはまるのは\nどれでしょうか！\n"
+	},
+	{
+		"ID": 4181,
+		"unitID": 2500211,
+		"questionID": 9500231,
+		"script": ";;アポロン,1\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n@フライクーゲル\n静か、だねー\nサイレント、だねー\n\n# textflame 0 0\n@\nいつもと違って、今日の彼女は\nなんとなく大人しい\n\n@\nそんなフライクーゲルのことを\n珍しいと思いながら、マスターが\n眺めていると…\n\n# textflame 1 1\n# face %(unit_a)s \"angry\"\n@フライクーゲル\nあぁ～！これじゃノー！だよ！\nソーサイレント！クワイエット！\n静かすぎるのは苦手だよ～！\n\n# face %(unit_a)s \"sad\"\n@フライクーゲル\nノーノー！\nこんなに静かじゃ、\nわたしじゃなくなるよ～！\n\n# face %(unit_a)s \"usual\"\n# voice 5002 \"furaikugeru_0001\"\n@フライクーゲル\nねぇ、マスター遊ぼっ！\nレッツプレイ！ゲーム！\n\n# face %(unit_a)s \"smile\"\n# voice 5002 \"furaikugeru_0004\"\n@フライクーゲル\nゲームの内容はぁ…\nクイズ、だよっ♪\n\n@フライクーゲル\nクイズの中身は、\nオールわたしのこと！\n\n# voice 5002 \"furaikugeru_0006\"\n@フライクーゲル\nそれじゃ、レッツゴ～！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしとバースデイマンスが\n一緒じゃないのは誰かな～？\n\n# se \"SE_0734\"\n# select \"アポロン\" \"select_label_1\" \"シストルム\" \"select_label_2\" \"ハルパー\" \"select_label_3\"\nわたしとバースデイマンスが\n一緒じゃないのは誰かな～？\n"
+	},
+	{
+		"ID": 4182,
+		"unitID": 2500211,
+		"questionID": 9500232,
+		"script": ";;Ｂ型,2\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n@フライクーゲル\n静か、だねー\nサイレント、だねー\n\n# textflame 0 0\n@\nいつもと違って、今日の彼女は\nなんとなく大人しい\n\n@\nそんなフライクーゲルのことを\n珍しいと思いながら、マスターが\n眺めていると…\n\n# textflame 1 1\n# face %(unit_a)s \"angry\"\n@フライクーゲル\nあぁ～！これじゃノー！だよ！\nソーサイレント！クワイエット！\n静かすぎるのは苦手だよ～！\n\n# face %(unit_a)s \"sad\"\n@フライクーゲル\nノーノー！\nこんなに静かじゃ、\nわたしじゃなくなるよ～！\n\n# face %(unit_a)s \"usual\"\n# voice 5002 \"furaikugeru_0001\"\n@フライクーゲル\nねぇ、マスター遊ぼっ！\nレッツプレイ！ゲーム！\n\n# face %(unit_a)s \"smile\"\n# voice 5002 \"furaikugeru_0004\"\n@フライクーゲル\nゲームの内容はぁ…\nクイズ、だよっ♪\n\n@フライクーゲル\nクイズの中身は、\nオールわたしのこと！\n\n# voice 5002 \"furaikugeru_0006\"\n@フライクーゲル\nそれじゃ、レッツゴ～！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしのライバルキル姫\nゲイボルグのブラッドタイプは\nどれだったっけ～？\n\n# se \"SE_0734\"\n# select \"ＡＢ型\" \"select_label_1\" \"Ｂ型\" \"select_label_2\" \"Ａ型\" \"select_label_3\"\nわたしのライバルキル姫\nゲイボルグのブラッドタイプは\nどれだったっけ～？\n"
+	},
+	{
+		"ID": 4183,
+		"unitID": 2500211,
+		"questionID": 9500233,
+		"script": ";;測量の日,3\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n@フライクーゲル\n静か、だねー\nサイレント、だねー\n\n# textflame 0 0\n@\nいつもと違って、今日の彼女は\nなんとなく大人しい\n\n@\nそんなフライクーゲルのことを\n珍しいと思いながら、マスターが\n眺めていると…\n\n# textflame 1 1\n# face %(unit_a)s \"angry\"\n@フライクーゲル\nあぁ～！これじゃノー！だよ！\nソーサイレント！クワイエット！\n静かすぎるのは苦手だよ～！\n\n# face %(unit_a)s \"sad\"\n@フライクーゲル\nノーノー！\nこんなに静かじゃ、\nわたしじゃなくなるよ～！\n\n# face %(unit_a)s \"usual\"\n# voice 5002 \"furaikugeru_0001\"\n@フライクーゲル\nねぇ、マスター遊ぼっ！\nレッツプレイ！ゲーム！\n\n# face %(unit_a)s \"smile\"\n# voice 5002 \"furaikugeru_0004\"\n@フライクーゲル\nゲームの内容はぁ…\nクイズ、だよっ♪\n\n@フライクーゲル\nクイズの中身は、\nオールわたしのこと！\n\n# voice 5002 \"furaikugeru_0006\"\n@フライクーゲル\nそれじゃ、レッツゴ～！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしのバースディ！\n６月３日は、なんの日って\n言われてる？\n\n# se \"SE_0734\"\n# select \"工事の日\" \"select_label_1\" \"建築の日\" \"select_label_2\" \"測量の日\" \"select_label_3\"\nわたしのバースディ！\n６月３日は、なんの日って\n言われてる？\n"
+	},
+	{
+		"ID": 4184,
+		"unitID": 2500211,
+		"questionID": 9500234,
+		"script": ";;4月1日,1\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n@フライクーゲル\n静か、だねー\nサイレント、だねー\n\n# textflame 0 0\n@\nいつもと違って、今日の彼女は\nなんとなく大人しい\n\n@\nそんなフライクーゲルのことを\n珍しいと思いながら、マスターが\n眺めていると…\n\n# textflame 1 1\n# face %(unit_a)s \"angry\"\n@フライクーゲル\nあぁ～！これじゃノー！だよ！\nソーサイレント！クワイエット！\n静かすぎるのは苦手だよ～！\n\n# face %(unit_a)s \"sad\"\n@フライクーゲル\nノーノー！\nこんなに静かじゃ、\nわたしじゃなくなるよ～！\n\n# face %(unit_a)s \"usual\"\n# voice 5002 \"furaikugeru_0001\"\n@フライクーゲル\nねぇ、マスター遊ぼっ！\nレッツプレイ！ゲーム！\n\n# face %(unit_a)s \"smile\"\n# voice 5002 \"furaikugeru_0004\"\n@フライクーゲル\nゲームの内容はぁ…\nクイズ、だよっ♪\n\n@フライクーゲル\nクイズの中身は、\nオールわたしのこと！\n\n# voice 5002 \"furaikugeru_0006\"\n@フライクーゲル\nそれじゃ、レッツゴ～！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nえっと、どうしようかな～？\nそれじゃ、ライバルの芭蕉扇の\nバースディはいつー？\n\n# se \"SE_0734\"\n# select \"4月1日\" \"select_label_1\" \"8月1日\" \"select_label_2\" \"12月1日\" \"select_label_3\"\nえっと、どうしようかな～？\nそれじゃ、ライバルの芭蕉扇の\nバースディはいつー？\n"
+	},
+	{
+		"ID": 4185,
+		"unitID": 2500211,
+		"questionID": 9500235,
+		"script": ";;ピンク,2\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n@フライクーゲル\n静か、だねー\nサイレント、だねー\n\n# textflame 0 0\n@\nいつもと違って、今日の彼女は\nなんとなく大人しい\n\n@\nそんなフライクーゲルのことを\n珍しいと思いながら、マスターが\n眺めていると…\n\n# textflame 1 1\n# face %(unit_a)s \"angry\"\n@フライクーゲル\nあぁ～！これじゃノー！だよ！\nソーサイレント！クワイエット！\n静かすぎるのは苦手だよ～！\n\n# face %(unit_a)s \"sad\"\n@フライクーゲル\nノーノー！\nこんなに静かじゃ、\nわたしじゃなくなるよ～！\n\n# face %(unit_a)s \"usual\"\n# voice 5002 \"furaikugeru_0001\"\n@フライクーゲル\nねぇ、マスター遊ぼっ！\nレッツプレイ！ゲーム！\n\n# face %(unit_a)s \"smile\"\n# voice 5002 \"furaikugeru_0004\"\n@フライクーゲル\nゲームの内容はぁ…\nクイズ、だよっ♪\n\n@フライクーゲル\nクイズの中身は、\nオールわたしのこと！\n\n# voice 5002 \"furaikugeru_0006\"\n@フライクーゲル\nそれじゃ、レッツゴ～！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nサービスクエスチョン！\nわたしの髪のカラーは\n何色かなー？\n\n# se \"SE_0734\"\n# select \"赤\" \"select_label_1\" \"ピンク\" \"select_label_2\" \"青\" \"select_label_3\"\nサービスクエスチョン！\nわたしの髪のカラーは\n何色かなー？\n"
+	},
+	{
+		"ID": 4186,
+		"unitID": 2500211,
+		"questionID": 9500236,
+		"script": ";;カウボーイハット,3\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n@フライクーゲル\n静か、だねー\nサイレント、だねー\n\n# textflame 0 0\n@\nいつもと違って、今日の彼女は\nなんとなく大人しい\n\n@\nそんなフライクーゲルのことを\n珍しいと思いながら、マスターが\n眺めていると…\n\n# textflame 1 1\n# face %(unit_a)s \"angry\"\n@フライクーゲル\nあぁ～！これじゃノー！だよ！\nソーサイレント！クワイエット！\n静かすぎるのは苦手だよ～！\n\n# face %(unit_a)s \"sad\"\n@フライクーゲル\nノーノー！\nこんなに静かじゃ、\nわたしじゃなくなるよ～！\n\n# face %(unit_a)s \"usual\"\n# voice 5002 \"furaikugeru_0001\"\n@フライクーゲル\nねぇ、マスター遊ぼっ！\nレッツプレイ！ゲーム！\n\n# face %(unit_a)s \"smile\"\n# voice 5002 \"furaikugeru_0004\"\n@フライクーゲル\nゲームの内容はぁ…\nクイズ、だよっ♪\n\n@フライクーゲル\nクイズの中身は、\nオールわたしのこと！\n\n# voice 5002 \"furaikugeru_0006\"\n@フライクーゲル\nそれじゃ、レッツゴ～！\n;;---------------------------------\n\n@%(unitName:unit_a)s\n銃皇ジョブのわたしは\nどんなハットをかぶってる？\n\n# se \"SE_0734\"\n# select \"ハンチング\" \"select_label_1\" \"麦わら帽子\" \"select_label_2\" \"カウボーイハット\" \"select_label_3\"\n銃皇ジョブのわたしは\nどんなハットをかぶってる？\n"
+	},
+	{
+		"ID": 4187,
+		"unitID": 2500211,
+		"questionID": 9500237,
+		"script": ";;エメラルドグリーン,1\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n@フライクーゲル\n静か、だねー\nサイレント、だねー\n\n# textflame 0 0\n@\nいつもと違って、今日の彼女は\nなんとなく大人しい\n\n@\nそんなフライクーゲルのことを\n珍しいと思いながら、マスターが\n眺めていると…\n\n# textflame 1 1\n# face %(unit_a)s \"angry\"\n@フライクーゲル\nあぁ～！これじゃノー！だよ！\nソーサイレント！クワイエット！\n静かすぎるのは苦手だよ～！\n\n# face %(unit_a)s \"sad\"\n@フライクーゲル\nノーノー！\nこんなに静かじゃ、\nわたしじゃなくなるよ～！\n\n# face %(unit_a)s \"usual\"\n# voice 5002 \"furaikugeru_0001\"\n@フライクーゲル\nねぇ、マスター遊ぼっ！\nレッツプレイ！ゲーム！\n\n# face %(unit_a)s \"smile\"\n# voice 5002 \"furaikugeru_0004\"\n@フライクーゲル\nゲームの内容はぁ…\nクイズ、だよっ♪\n\n@フライクーゲル\nクイズの中身は、\nオールわたしのこと！\n\n# voice 5002 \"furaikugeru_0006\"\n@フライクーゲル\nそれじゃ、レッツゴ～！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしの瞳の色は何色？\nあっ！ウェイト、マスター！\n見つめるのは、ノー！だよ！\n\n# se \"SE_0734\"\n# select \"エメラルドグリーン\" \"select_label_1\" \"紫\" \"select_label_2\" \"赤\" \"select_label_3\"\nわたしの瞳の色は何色？\nあっ！ウェイト、マスター！\n見つめるのは、ノー！だよ！\n"
+	},
+	{
+		"ID": 4188,
+		"unitID": 2500211,
+		"questionID": 9500238,
+		"script": ";;Gemini,2\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n@フライクーゲル\n静か、だねー\nサイレント、だねー\n\n# textflame 0 0\n@\nいつもと違って、今日の彼女は\nなんとなく大人しい\n\n@\nそんなフライクーゲルのことを\n珍しいと思いながら、マスターが\n眺めていると…\n\n# textflame 1 1\n# face %(unit_a)s \"angry\"\n@フライクーゲル\nあぁ～！これじゃノー！だよ！\nソーサイレント！クワイエット！\n静かすぎるのは苦手だよ～！\n\n# face %(unit_a)s \"sad\"\n@フライクーゲル\nノーノー！\nこんなに静かじゃ、\nわたしじゃなくなるよ～！\n\n# face %(unit_a)s \"usual\"\n# voice 5002 \"furaikugeru_0001\"\n@フライクーゲル\nねぇ、マスター遊ぼっ！\nレッツプレイ！ゲーム！\n\n# face %(unit_a)s \"smile\"\n# voice 5002 \"furaikugeru_0004\"\n@フライクーゲル\nゲームの内容はぁ…\nクイズ、だよっ♪\n\n@フライクーゲル\nクイズの中身は、\nオールわたしのこと！\n\n# voice 5002 \"furaikugeru_0006\"\n@フライクーゲル\nそれじゃ、レッツゴ～！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしの星座はふたご座！\nだけど、ふたご座は英語で\nなんて書くでしょうかー！\n\n# se \"SE_0734\"\n# select \"Aries\" \"select_label_1\" \"Gemini\" \"select_label_2\" \"Leo\" \"select_label_3\"\nわたしの星座はふたご座！\nだけど、ふたご座は英語で\nなんて書くでしょうかー！\n"
+	},
+	{
+		"ID": 4189,
+		"unitID": 2500211,
+		"questionID": 9500239,
+		"script": ";;アダマス,3\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n@フライクーゲル\n静か、だねー\nサイレント、だねー\n\n# textflame 0 0\n@\nいつもと違って、今日の彼女は\nなんとなく大人しい\n\n@\nそんなフライクーゲルのことを\n珍しいと思いながら、マスターが\n眺めていると…\n\n# textflame 1 1\n# face %(unit_a)s \"angry\"\n@フライクーゲル\nあぁ～！これじゃノー！だよ！\nソーサイレント！クワイエット！\n静かすぎるのは苦手だよ～！\n\n# face %(unit_a)s \"sad\"\n@フライクーゲル\nノーノー！\nこんなに静かじゃ、\nわたしじゃなくなるよ～！\n\n# face %(unit_a)s \"usual\"\n# voice 5002 \"furaikugeru_0001\"\n@フライクーゲル\nねぇ、マスター遊ぼっ！\nレッツプレイ！ゲーム！\n\n# face %(unit_a)s \"smile\"\n# voice 5002 \"furaikugeru_0004\"\n@フライクーゲル\nゲームの内容はぁ…\nクイズ、だよっ♪\n\n@フライクーゲル\nクイズの中身は、\nオールわたしのこと！\n\n# voice 5002 \"furaikugeru_0006\"\n@フライクーゲル\nそれじゃ、レッツゴ～！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしとバースディマンスが\n同じキル姫は誰かな～？\n\n# se \"SE_0734\"\n# select \"ロンゴミアント\" \"select_label_1\" \"ヴォータン\" \"select_label_2\" \"アダマス\" \"select_label_3\"\nわたしとバースディマンスが\n同じキル姫は誰かな～？\n"
+	},
+	{
+		"ID": 4190,
+		"unitID": 2500211,
+		"questionID": 9500240,
+		"script": ";;Forest,1\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n@フライクーゲル\n静か、だねー\nサイレント、だねー\n\n# textflame 0 0\n@\nいつもと違って、今日の彼女は\nなんとなく大人しい\n\n@\nそんなフライクーゲルのことを\n珍しいと思いながら、マスターが\n眺めていると…\n\n# textflame 1 1\n# face %(unit_a)s \"angry\"\n@フライクーゲル\nあぁ～！これじゃノー！だよ！\nソーサイレント！クワイエット！\n静かすぎるのは苦手だよ～！\n\n# face %(unit_a)s \"sad\"\n@フライクーゲル\nノーノー！\nこんなに静かじゃ、\nわたしじゃなくなるよ～！\n\n# face %(unit_a)s \"usual\"\n# voice 5002 \"furaikugeru_0001\"\n@フライクーゲル\nねぇ、マスター遊ぼっ！\nレッツプレイ！ゲーム！\n\n# face %(unit_a)s \"smile\"\n# voice 5002 \"furaikugeru_0004\"\n@フライクーゲル\nゲームの内容はぁ…\nクイズ、だよっ♪\n\n@フライクーゲル\nクイズの中身は、\nオールわたしのこと！\n\n# voice 5002 \"furaikugeru_0006\"\n@フライクーゲル\nそれじゃ、レッツゴ～！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしのフェイバリットは森！\nなんだけど、森は英語でなんて\nいうかわかる～？\n\n# se \"SE_0734\"\n# select \"Forest\" \"select_label_1\" \"Harpoon\" \"select_label_2\" \"Portion\" \"select_label_3\"\nわたしのフェイバリットは森！\nなんだけど、森は英語でなんて\nいうかわかる～？\n"
+	},
+	{
+		"ID": 4191,
+		"unitID": 2500211,
+		"questionID": 9500241,
+		"script": "\n;;わたし,1\n# se \"SE_0734\"\n# select \"わたし\" \"select_label_1\" \"私\" \"select_label_2\" \"アタシ\" \"select_label_3\"\nフライクーゲルの一人称は\n次のうちどれ？\n"
+	},
+	{
+		"ID": 4192,
+		"unitID": 2500211,
+		"questionID": 9500242,
+		"script": "\n;;マスター,2\n# se \"SE_0734\"\n# select \"あなた\" \"select_label_1\" \"マスター\" \"select_label_2\" \"アンタ\" \"select_label_3\"\nフライクーゲルはアンタのこと、\nなんて呼んでる？\n"
+	},
+	{
+		"ID": 4193,
+		"unitID": 2500211,
+		"questionID": 9500243,
+		"script": "\n;;91,3\n# se \"SE_0734\"\n# select \"80\" \"select_label_1\" \"86\" \"select_label_2\" \"91\" \"select_label_3\"\nフライクーゲルの\nバストサイズがどのくらいか\nアンタ…知ってるの？\n"
+	},
+	{
+		"ID": 4194,
+		"unitID": 2500211,
+		"questionID": 9500244,
+		"script": "\n;;58,1\n# se \"SE_0734\"\n# select \"58\" \"select_label_1\" \"56\" \"select_label_2\" \"62\" \"select_label_3\"\nフライクーゲルの\nウエストサイズがどのくらいか\nアンタ…知ってるの？\n"
+	},
+	{
+		"ID": 4195,
+		"unitID": 2500211,
+		"questionID": 9500245,
+		"script": "\n;;84,2\n# se \"SE_0734\"\n# select \"81\" \"select_label_1\" \"84\" \"select_label_2\" \"87\" \"select_label_3\"\nフライクーゲルの\nヒップサイズがどのくらいか\nアンタ…知ってるの？\n"
+	},
+	{
+		"ID": 4196,
+		"unitID": 2500211,
+		"questionID": 9500246,
+		"script": "\n;;50,3\n# se \"SE_0734\"\n# select \"43\" \"select_label_1\" \"47\" \"select_label_2\" \"50\" \"select_label_3\"\nフライクーゲルの体重は\n次のうちどれ？\n"
+	},
+	{
+		"ID": 4197,
+		"unitID": 2500211,
+		"questionID": 9500247,
+		"script": "\n;;233,1\n# se \"SE_0734\"\n# select \"233\" \"select_label_1\" \"217\" \"select_label_2\" \"235\" \"select_label_3\"\nフライクーゲルの\nバスト＋ウエスト＋ヒップは\nいくつかわかる？\n"
+	},
+	{
+		"ID": 4198,
+		"unitID": 2500211,
+		"questionID": 9500248,
+		"script": "\n;;カラフル,2\n# se \"SE_0734\"\n# select \"白一色\" \"select_label_1\" \"カラフル\" \"select_label_2\" \"モノクロ\" \"select_label_3\"\nフライクーゲルの水着の色は\n次のうちどれ？\n"
+	},
+	{
+		"ID": 4199,
+		"unitID": 2500211,
+		"questionID": 9500249,
+		"script": "\n;;32位,3\n# se \"SE_0734\"\n# select \"36位\" \"select_label_1\" \"39位\" \"select_label_2\" \"32位\" \"select_label_3\"\nフライクーゲルは\n第２回人気投票で\n何位だったでしょう？\n"
+	},
+	{
+		"ID": 4200,
+		"unitID": 2500211,
+		"questionID": 9500250,
+		"script": "\n;;釘宮理恵,1\n# se \"SE_0734\"\n# select \"釘宮理恵\" \"select_label_1\" \"田村ゆかり\" \"select_label_2\" \"堀江由衣\" \"select_label_3\"\nフライクーゲルの声優は誰？\n"
+	}
+]

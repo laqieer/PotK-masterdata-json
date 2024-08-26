@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 300811,
+		"script": "# script \"lisp\"\n# fadein \"black\" 0.5\n# background %(background)s\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 0 0\n@\nマスターは\nグングニルを連れて\n夜の博物館にやってきた\n\n# voice \"gunguniru_0001\"\n# textflame 1 1\n@グングニル\n…聞こえるかマスター\n幾万、幾千、幾百の時を超え\n我らに語りかける声が…\n\n# textflame 1 1\n@グングニル\n我らは今…\n悠久の歴史と知の海に\n浸っているのだ…\n\n# select \"ポエムかな？\" \"select_label_01\" \"なにが見えるの？\" \"select_label_02\" \"見える気がする\" \"select_label_03\"\n我らは今…\n悠久の歴史と知の海に\n浸っているのだ…\n\n# label \"select_label_01\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_02\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_03\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_end\"\n# waitandnext 0.1\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

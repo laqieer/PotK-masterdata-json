@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 30013101,
+		"script": "# script \"lisp\"\n# background \"highland\"\n# bgm \"bgm002\" 0\n# body 300131\n# mask 300131 off\n# pos 300131 3\n# textboxarrow 0 2\n# chara 300131\n@ロンギヌス\n…………\n\n# voice 3001 \"ronginusu_0002\"\n# chara 300131\n@ロンギヌス\nあの…マスター\nこれは何ですか？\n形は、銃のようですが…？\n\n# chara 300131\n@ロンギヌス\n…水鉄砲？\n…はぁ…水を入れて\n…そうなんですね？\n\n# face 300131 \"surprise\"\n# voice 3001 \"ronginusu_0022\"\n# chara 300131\n@ロンギヌス\nきゃっ！\nみ、水が勢いよく飛び出しました！！\nい、今のは…魔法ですか！？\n\n# face 300131 \"normal\"\n# voice 3001 \"ronginusu_0039\"\n# chara 300131\n@ロンギヌス\n…へ〜、空気の圧力で\n水が飛び出す仕組みなのですね\n\n# chara 300131\n@ロンギヌス\nところで、あの…\nこれは…なんのために\nある物なのでしょうか？\n\n# chara 300131\n@ロンギヌス\nやはり…敵を攻撃するための\n物なのですか？\n\n# chara 300131\n@ロンギヌス\n…おもちゃ？\nなるほど…遊ぶためのものですか\n\n# face 300131 \"amazed\"\n# chara 300131\n@ロンギヌス\nおもちゃってことは…\n当たっても痛くないのですか？\n\n# textflame 0 0\n@\nそんな事ばかり聞いて、\n一向に水鉄砲を撃ってみようとは\nしないロンギヌス\n\n# textflame 0 0\n@\nマスターはロンギヌスに\n撃ってみればわかるよと声をかけた"
+	}
+]

@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 95005299,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# se \"SE_0732\"\n# voice 5005 \"vajura_0005\"\n@ヴァジュラ\nお！\n正解だ！\n\n# voice 5005 \"vajura_0041\"\n@ヴァジュラ\nさすがだよ、マスター！\n\n@ヴァジュラ\n失敗続きのあたしだけど…\nキミを選んだのだけは\n失敗じゃなかったみたいだな！\n\n@ヴァジュラ\n…てか、大成功だよ\n\n# voice 5005 \"vajura_0004\"\n@ヴァジュラ\nへへへ♪\n\n# voice 5005 \"vajura_0036\"\n@ヴァジュラ\nこれからもよろしくな、\nマスター！\n\n# textflame 0 0\n@\nその嬉しさにあふれた笑顔をみて\nマスターは彼女との絆が\nまた深まったのを実感した…\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

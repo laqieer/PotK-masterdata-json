@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 601712,
+		"script": ";;B:生き生きしてるね\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background %(background)s\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# eye %(unit_a)s \"close\"\n@アクア\nそれはそうよ！\nこれぞ人生最高の癒し\n神々の祝福なんだから！\n\n# textflames 0 0\n@\nアクアが何を言っているのか\nいまいち分からないマスターだったが\n彼女の勢いに押されて笑顔になる\n\n# textflame 1 1\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"usual\"\n@アクア\nさあ、あなたも遠慮しないで\n食べて食べて！\nあ、お勘定はお任せでいいわよね？\n\n# textflames 0 0\n@\nマスターの笑顔は苦笑いに変わる\n明日からしばらくはパンの耳しか\n食べられないかもしれない…\n\n# textflames 0 0\n@\nしかし、アクアがこの上なく\n幸せそうなので\nつい許してしまう\n\n# textflames 0 0\n@\n彼女が盛大に杯を傾け\nシュワシュワを飲み干す\n\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n@アクア\nぷっは～！\n\n@アクア\nほらほら、マスターも\n飲みなさいよ\n楽しくなるから！\n\n# face %(unit_a)s \"irregular\"\n@アクア\nそろそろ気分良くなってきたし\nアレやっちゃおうかしら\nよっ！花鳥風月～！\n\n# textflames 0 0\n@\nアクアが水芸を始めた\n周囲の客たちもそれを見て\n盛り上がっている\n\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n@アクア\nそ～れ、それ～！\n\n# textflames 0 0\n@\nその日は周囲を巻き込んでの\n大宴会になった\nみんな笑顔で飲み、歌い、踊っている\n\n# textflames 0 0\n@\nたまにはこういう雰囲気も悪くない\nそう思うマスターであった\n\n;;--------------------------------------\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

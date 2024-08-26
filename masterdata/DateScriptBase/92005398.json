@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 92005398,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# se \"SE_0733\"\n# voice 2005 \"mitwumu_0017\"\n@ミトゥム\nわかんないとか\n言うなよぉ…\n\n@ミトゥム\nマスターに知らないとか\n言われたら…\nミトゥムどうすればいいんだよ…\n\n@ミトゥム\nマスターはいつでも\nミトゥムの味方じゃないのかよぅ…\n\n# voice 2005 \"mitwumu_0028\"\n# face %(unit_a)s \"angry\"\n@ミトゥム\nマスターが大丈夫って\n言ってくれたら安心するのに…\n\n# voice 2005 \"mitwumu_0014\"\n@ミトゥム\nマスターはミトゥムのことなんて\nどうでもいいのか…？\n\n# textflame 0 0\n@\n思いきりがっかりした彼女の顔が\nマスターの目に焼きついた\n\n@\nデート中のはずなのに\n悲しい思いをさせてしまうなんて…\n\n@\n彼女は何も悪くないのだ\n次は絶対に間違えないように\nしないといけないな…\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

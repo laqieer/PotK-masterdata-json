@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 93005198,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# se \"SE_0733\"\n# face %(unit_a)s \"angry\"\n# voice 3005 \"roon_0004\"\n@ルーン\n…ふん\n\n@ルーン\n不正解だ\n\n@ルーン\nじゃあ約束通り、\nぶっ飛ばしてやる\n\n# face %(unit_a)s \"usual\"\n@ルーン\n…って思ったけど、\nお前みたいな奴、\nぶっ飛ばしてもつまんねぇな\n\n# voice 3005 \"roon_0013\"\n# face %(unit_a)s \"sad\"\n@ルーン\n…ったく\n\n# textflame 0 0\n@\nぶっきらぼうに言い放っているが、\nその目はとても悲しそうで…\n\n@\nデート中のはずなのに、\n彼女にあんな顔させちゃうなんて…\n\n@\nもう間違えないようにしないとな…\nそう心に強く誓うのだった\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

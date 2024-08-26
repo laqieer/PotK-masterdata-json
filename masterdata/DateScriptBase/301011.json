@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 301011,
+		"script": ";;生きているだけで価値がある,大\n;;なるべく精一杯生きよう,中\n;;先輩達に感謝を,小\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background %(background)s\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 0 0\n@\nマスターは\nロンゴミアントを誘って\n博物館にやってきた\n\n# voice 3010 \"rhongomiant_0028\"\n# textflame 1 1\n@ロンゴミアント\n時間は遡ることができず\nやり直しは当然きかない\n\n# eye %(unit_a)s \"close\"\n# textflame 1 1\n@ロンゴミアント\nここに展示された歴史の中には\n繁栄や栄光と同じか…\n;;----------------------------------------\n\n# voice 3010 \"rhongomiant_0003\"\n# eye %(unit_a)s \"normal\"\n# textflame 1 1\n@%(unitName:unit_a)s\nもしくはそれ以上の\n無念や後悔が眠っているのでしょうね\n\n# select \"生きているだけで価値がある\" \"select_label_01\" \"なるべく精一杯生きよう\" \"select_label_02\" \"先輩達に感謝を\" \"select_label_03\"\nもしくはそれ以上の\n無念や後悔が眠っているのでしょうね\n\n# label \"select_label_01\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_02\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_03\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_end\"\n# waitandnext 0.1\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

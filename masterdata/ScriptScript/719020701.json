@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 719020701,
+		"script": ";;-----------------------------------------\n;;2/7 CCマイペ\n;;-----------------------------------------\n# script \"lisp\"\n# background \"400_angel_town_daytime\"\n# bgmfile \"bgm266\" \"BgmLostRagnarokBattle001\" 0\n;;-----------------------------------------\n;;天使ハルパー\n# body 3202011\n# pos 3202011 3\n# scale 3202011 0.8 0\n# layer 3202011 2\n# alpha 3202011 0 0\n# mask 3202011 off\n;;-----------------------------------------\n# fadein \"black\" 1\n# textwindow \"close\"\n# waitandnext 1.5\n\n# envbody 11111 8 0\n# effectpattern 11111 1 0\n# effectstart 11111\n# alpha 3202011 1 0\n# fadein \"white\" 0.5\n# se \"SE_1051\"\n# textwindow \"nomal\"\n# textflame 0 0\n# textalign \"center\"\n# textsize 28\n@\nハルパー・聖鎖・ゼルエル\nクラスチェンジ追加！\n\n# face 3202011 \"happy\"\n# voice 320201 \"harpe_t_kyara_classchange_0001\"\n# fadein \"white\" 0.5\n# se \"SE_9040\"\n# textalign \"center\"\n# textsize 36\n@\n「[FF00FF]バトルダンサー[-]」\n\n# face 3202011 \"normal\"\n# voice 320201 \"harpe_t_0004\"\n# textalign \"center\"\n# textsize 32\n@\nスキル『[8A2BE2]舞踊[-]』\n隣接する味方ユニットを\n再び[FF8C00]行動可能[-]に！\n\n# fadein \"white\" 0.5\n# se \"SE_0504\"\n# textalign \"center\"\n@\n詳しくはお知らせをチェック！\n\n# bgm \"stop\"\n# fadeout \"black\" 1.5\n# textalign \"center\"\n# waitandnext 1.5\n@\n詳しくはお知らせをチェック！"
+	}
+]

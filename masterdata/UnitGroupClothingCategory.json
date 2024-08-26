@@ -1,0 +1,219 @@
+[
+	{
+		"ID": 1,
+		"name": "",
+		"short_label_name": "",
+		"description": "",
+		"start_at": "2014-12-01 00:00:00"
+	},
+	{
+		"ID": 2,
+		"name": "賀正",
+		"short_label_name": "賀正",
+		"description": "お正月衣装のユニット",
+		"start_at": "2015-01-01 00:00:00"
+	},
+	{
+		"ID": 3,
+		"name": "バレンタイン",
+		"short_label_name": "バレンタイン",
+		"description": "バレンタイン衣装のユニット",
+		"start_at": "2015-02-01 00:00:00"
+	},
+	{
+		"ID": 4,
+		"name": "ウェディング",
+		"short_label_name": "ウェディング",
+		"description": "花嫁衣装のユニット",
+		"start_at": "2015-03-01 00:00:00"
+	},
+	{
+		"ID": 5,
+		"name": "水着",
+		"short_label_name": "水着",
+		"description": "水着を着たユニット",
+		"start_at": "2015-04-01 00:00:00"
+	},
+	{
+		"ID": 6,
+		"name": "ハロウィン",
+		"short_label_name": "ハロウィン",
+		"description": "ハロウィン仮装したユニット",
+		"start_at": "2015-05-01 00:00:00"
+	},
+	{
+		"ID": 7,
+		"name": "クリスマス",
+		"short_label_name": "クリスマス",
+		"description": "クリスマス衣装のユニット",
+		"start_at": "2015-06-01 00:00:00"
+	},
+	{
+		"ID": 8,
+		"name": "ブラックキラーズ",
+		"short_label_name": "ブラック",
+		"description": "黒奏官に仕えるブラックキラーズ",
+		"start_at": "2015-07-01 00:00:00"
+	},
+	{
+		"ID": 9,
+		"name": "体操服",
+		"short_label_name": "体操服",
+		"description": "体操服を着たユニット",
+		"start_at": "2015-08-01 00:00:00"
+	},
+	{
+		"ID": 10,
+		"name": "制服",
+		"short_label_name": "制服",
+		"description": "制服を着たユニット",
+		"start_at": "2015-09-01 00:00:00"
+	},
+	{
+		"ID": 11,
+		"name": "メイド",
+		"short_label_name": "メイド",
+		"description": "メイド衣装のユニット",
+		"start_at": "2015-10-01 00:00:00"
+	},
+	{
+		"ID": 12,
+		"name": "コラボ衣装",
+		"short_label_name": "コラボ衣装",
+		"description": "他作品の衣装をまとったユニット",
+		"start_at": "2018-02-01 00:00:00"
+	},
+	{
+		"ID": 13,
+		"name": "浴衣",
+		"short_label_name": "浴衣",
+		"description": "浴衣を着たユニット",
+		"start_at": "2015-12-01 00:00:00"
+	},
+	{
+		"ID": 14,
+		"name": "イースター",
+		"short_label_name": "イースター",
+		"description": "イースター衣装を着たユニット",
+		"start_at": "2018-04-01 00:00:00"
+	},
+	{
+		"ID": 15,
+		"name": "カルマキラーズ",
+		"short_label_name": "カルマ",
+		"description": "業果の斬ル姫\nカルマキラーズ",
+		"start_at": "2018-04-01 00:00:00"
+	},
+	{
+		"ID": 16,
+		"name": "セイントキラーズ",
+		"short_label_name": "セイント",
+		"description": "戒律の斬ル姫\nセイントキラーズ",
+		"start_at": "2018-04-01 00:00:00"
+	},
+	{
+		"ID": 17,
+		"name": "オーダーキラーズ",
+		"short_label_name": "オーダー",
+		"description": "輪廻の斬ル姫\nオーダーキラーズ",
+		"start_at": "2018-04-01 00:00:00"
+	},
+	{
+		"ID": 18,
+		"name": "過剰編",
+		"short_label_name": "過剰編",
+		"description": "過剰編に登場するユニット",
+		"start_at": "2018-04-01 00:00:00"
+	},
+	{
+		"ID": 19,
+		"name": "ディスラプターズ",
+		"short_label_name": "ディスラプターズ",
+		"description": "「理を破る者達」\n《ディスラプターズ》",
+		"start_at": "2018-05-01 00:00:00"
+	},
+	{
+		"ID": 20,
+		"name": "ゴッドキラーズ",
+		"short_label_name": "ゴッド",
+		"description": "ゴッドキラーズ",
+		"start_at": "2018-12-01 00:00:00"
+	},
+	{
+		"ID": 21,
+		"name": "リル姫",
+		"short_label_name": "リル姫",
+		"description": "幼くなったユニット",
+		"start_at": "2020-04-01 00:00:00"
+	},
+	{
+		"ID": 22,
+		"name": "コールキラーズ",
+		"short_label_name": "コール",
+		"description": "コールキラーズ",
+		"start_at": "2020-11-01 00:00:00"
+	},
+	{
+		"ID": 23,
+		"name": "暴走",
+		"short_label_name": "暴走",
+		"description": "暴走したユニット",
+		"start_at": "2021-03-13 00:00:00"
+	},
+	{
+		"ID": 24,
+		"name": "願望姫",
+		"short_label_name": "願望姫",
+		"description": "大人になったユニット",
+		"start_at": "2021-04-01 00:00:00"
+	},
+	{
+		"ID": 25,
+		"name": "アニバーサリー",
+		"short_label_name": "アニバーサリー",
+		"description": "アニバーサリーユニット",
+		"start_at": "2021-04-23 00:00:00"
+	},
+	{
+		"ID": 26,
+		"name": "終焉",
+		"short_label_name": "終焉",
+		"description": "終焉ユニット",
+		"start_at": "2021-09-01 00:00:00"
+	},
+	{
+		"ID": 27,
+		"name": "フィーチャリング",
+		"short_label_name": "フィーチャリング",
+		"description": "フィーチャリングユニット",
+		"start_at": "2021-10-23 00:00:00"
+	},
+	{
+		"ID": 28,
+		"name": "異聞",
+		"short_label_name": "異聞",
+		"description": "異聞ユニット",
+		"start_at": "2021-12-17 00:00:00"
+	},
+	{
+		"ID": 29,
+		"name": "悪魔",
+		"short_label_name": "悪魔",
+		"description": "悪魔ユニット",
+		"start_at": "2021-05-01 00:00:00"
+	},
+	{
+		"ID": 30,
+		"name": "協奏",
+		"short_label_name": "協奏",
+		"description": "協奏ユニット",
+		"start_at": "2022-06-18 00:00:00"
+	},
+	{
+		"ID": 31,
+		"name": "夏祭り",
+		"short_label_name": "夏祭り",
+		"description": "夏祭りユニット",
+		"start_at": "2022-07-01 00:00:00"
+	}
+]

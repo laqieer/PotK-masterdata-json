@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 200414,
+		"script": ";;C 小当り\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background %(background)s\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 2004 \"parashu_0007\"\n@パラシュ\nそう、だね…そう思う\nボクらにはこのオシャレな空間で\nで、デートするのは、早かった…\n\n# eye %(unit_a)s \"close\"\n@パラシュ\n公園とか、砂浜とか…\nそういう素朴なところで\n経験を積むべきだったんだ…！\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"usual\"\n# voice 2004 \"parashu_0024\"\n@パラシュ\nでも、いつかきっと…\n\n@パラシュ\nうん…行こう、マスター\nまだ僕達は理想の客になれてない…\n\n# textflame 0 0\n@\nパラシュは名残惜しそうに\nカフェを見やると、\nマスターの手を引いて退散した――\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

@@ -1,0 +1,26 @@
+[
+	{
+		"ID": 113,
+		"unitID": 2400711,
+		"scriptID": "kaerimichi",
+		"script": "わ、私と二人でもう少し\n見回りをしましょう！\nそうです、見回りですので！"
+	},
+	{
+		"ID": 127,
+		"unitID": 2400711,
+		"scriptID": "kaeru",
+		"script": "見回りはもう十分ですね…\nでは、帰りましょう"
+	},
+	{
+		"ID": 141,
+		"unitID": 2400711,
+		"scriptID": "kaeru_ok",
+		"script": "@%(unitName:unit_a)s\nえっ、私ですか…？\n…あんまり“ここ”ばかり\n見ないでくださいね？"
+	},
+	{
+		"ID": 155,
+		"unitID": 2400711,
+		"scriptID": "kaeru_ng",
+		"script": "@%(unitName:unit_a)s\nごめんなさい\n今日は帰らせていただきます"
+	}
+]

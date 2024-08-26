@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 94010198,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# se \"SE_0733\"\n# voice 4010 \"Abaris_0003\"\n@アバリス\nいきなり聞かれても\nわからないですよね！\n\n# voice 4010 \"Abaris_0007\"\n# eye %(unit_a)s \"close\"\n# face %(unit_a)s \"normal\"\n@アバリス\nちょっと\n聞いてみたかっただけなので…\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"normal\"\n@アバリス\nあまり気にしないでくださいね！\n\n# face %(unit_a)s \"sad\"\n# voice 4010 \"Abaris_0031\"\n@アバリス\nびっくりさせてごめんなさい…\n\n# textflame 0 0\n@\nそうつぶやく彼女は\nとても残念そうだった\n\n@\nデート中にこんなに\nがっかりさせてしまうなんて…\n\n@\n…………\n\n@\n彼女の控えめな笑顔が好きだから\nアバリスのことを\nちゃんと知っておかないとな…\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

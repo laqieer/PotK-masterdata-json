@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 94001499,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# se \"SE_0732\"\n# voice 4001 \"arutemisu_0041\"\n@アルテミス\n…本当に\n伝わっているのですね！\n\n# face %(unit_a)s \"angry\"\n@アルテミス\n私の中で\nかつてないほどの一体感が\n芽生えています！\n\n# face %(unit_a)s \"smile\"\n@アルテミス\nこれで…ますます頑張れます！\n\n# voice 4001 \"arutemisu_0005\"\n# face %(unit_a)s \"normal\"\n@アルテミス\n…でも\nなにもかも伝わってしまうのは\n少しだけ困りますね…\n\n# textflame 0 0\n@\n彼女はマスターを見つめて\nはにかむような笑顔を見せてくれた\n\n# textflame 0 0\n@\n特別な笑顔が見れて\n彼女との絆が\nさらに深まったのを実感した…\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 200213,
+		"script": ";;もっと考えるべきだった　中\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_park_day\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 2002 \"aimuru_0023\"\n@アイムール\nああ、いえ\nせ、責めているわけでは…\n\n# face %(unit_a)s \"normal\"\n# voice 2002 \"aimuru_0004\"\n@アイムール\nでもマスターと一緒であれば\nきっと楽しいと思っていましたし…\n\n# face %(unit_a)s \"angry\"\n@アイムール\nあ、いえ！\nなんでもありません…\nこほんっ！\n\n# face %(unit_a)s \"smile\"\n@アイムール\nとりあえず、\n今日は『公園デート』でしたか？\n\n# voice 2002 \"aimuru_0005\"\n@アイムール\nそれを行いましょう\nせっかく訪れたのですから…\n\n# face %(unit_a)s \"normal\"\n@アイムール\n来たものは仕方がありません\nええ、マスターは\n楽しみにしていたようですし\n\n# face %(unit_a)s \"smile\"\n# voice 2002 \"aimuru_0003\"\n@アイムール\n気を遣われるのは、\n気になりますが嬉しいですから\n\n# textflame 0 0\n@\nアイムールとふたりで\nお互いに気を遣いながら\n散策を始める\n\n# textflame 0 0\n@\nしかし気付けば笑い声が上がり\n公園デートをふたりで\n楽んでいた…\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

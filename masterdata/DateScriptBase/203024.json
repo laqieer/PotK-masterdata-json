@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 203024,
+		"script": ";;A\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_shipboard\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# face %(unit_a)s \"normal\"\n# voice 2030 \"risanautr_l_0004\"\n# textflame 1 1\n@リサナウト\n…本当に？\nふふっ、嬉しいわっ\n\n@リサナウト\nでも、その割には\nあまり頼られてない\n気もするわね\n\n# voice 2030 \"risanautr_l_0002\"\n@リサナウト\nもっともっと私の力を\n頼ってくれていいのよ！\nふふふっ…♪\n\n# face %(unit_a)s \"sad\"\n@リサナウト\nあれっ、当主様？\nなんか今、苦い顔しなかった？\n\n# face %(unit_a)s \"normal\"\n@リサナウト\n気のせい？\nそう…ならいいんだけど\n\n# face %(unit_a)s \"sad\"\n# voice 2030 \"risanautr_l_0025\"\n@リサナウト\nまあとにかく！\n当主様を乗せる船として、\n私はこれからも…ぉおおっ！？\n\n@リサナウト\nあ、危なぁっ！！\n手すり、つかみ損ねたっ…！！\n\n# face %(unit_a)s \"normal\"\n# voice 2030 \"risanautr_l_0030\"\n@リサナウト\nありがとうっ…！\n抱き留めてくれなかったら、\nいまごろ海に落っこちてたわ…！\n\n# face %(unit_a)s \"shy\"\n@リサナウト\nあのー、当主様？\nもしかしてなんだけど…\n\n@リサナウト\n私のこういうドジなところ、\nけっこう不安だったりする…？\n\n# face %(unit_a)s \"sad\"\n# voice 2030 \"risanautr_l_0008\"\n@リサナウト\nあ、あははははっ…♪\n\n# textflame 0 0\n@\nリサナウトの問いに、\nマスターは無言のまま\n優しい笑みを浮かべる\n\n@\nその笑顔の裏で、マスターは\nこれからも彼女から\n目は離せないな、と思うのだった\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

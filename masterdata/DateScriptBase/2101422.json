@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 2101422,
+		"script": ";;//すごく上がる\n;;B\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_shipboard\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# voice 210142 \"tyrufing_k_0022\"\n# face %(unit_a)s \"sad\"\n@ティルフィング\nえっ！？\nマスター？\n何を言ってるんです？\n\n# textflame 0 0\n@\nマスターの言葉に、\nティルフィングは\nあたふたと手を振る\n\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n@ティルフィング\nもうっ…\nからかわないでください\n\n# textflame 0 0\n@\nううん、本心だよ\nとからかっていないと\n伝えると\n\n# voice 210142 \"tyrufing_k_0004\"\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n@ティルフィング\nっ…あ、ありがとうございます\n\n# textflame 0 0\n@\n顔を真っ赤にして\nうつむいてしまった\n\n@\n彼女が普段見せない表情を\n見られたことに満足しつつ、\n岸に着くまで二人の時間を楽しんだ…\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

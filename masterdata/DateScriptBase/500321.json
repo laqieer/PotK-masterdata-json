@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 500321,
+		"script": "# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_shipboard\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 0 0\n# face %(unit_a)s \"usual\"\n@\nマスターは\n八咫鏡を誘って\nナイトクルーズにやってきた\n\n# textflame 1 1\n@八咫鏡\nまったく海とは\nどこまでも広いものよ\n己がちっぽけに感じるのう\n\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 5003 \"yatanokagami_0003\"\n@八咫鏡\nそして…\n今宵はなんとも月が綺麗じゃ…\n\n# select \"本当に綺麗だね\" \"select_label_01\" \"八咫鏡も綺麗だ\" \"select_label_02\" \"八咫鏡は可愛い\" \"select_label_03\"\nそして…\n今宵はなんとも月が綺麗じゃ…\n\n# textwindow \"close\"\n# label \"select_label_01\"\n# labeljump \"select_label_end\"\n# waitandnext 0.1\n\n# textwindow \"close\"\n# label \"select_label_02\"\n# labeljump \"select_label_end\"\n# waitandnext 0.1\n\n# textwindow \"close\"\n# label \"select_label_03\"\n# labeljump \"select_label_end\"\n# waitandnext 0.1\n\n# label \"select_label_end\"\n# waitandnext 2\n# fadeout \"black\" 1.2"
+	}
+]

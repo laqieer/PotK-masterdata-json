@@ -1,0 +1,302 @@
+[
+	{
+		"ID": 3301,
+		"unitID": 2401311,
+		"questionID": 9401301,
+		"script": ";;愛と美と性,1\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 4013 \"aphrodite_0001\"\n@アフロディーテ\n…マスター\nわたしのことを、ちゃんと\n愛して下さっていますか？\n\n# face %(unit_a)s \"smile\"\n@アフロディーテ\n…もちろん、ですか？\nうふふっ、ありがとうございます…\n\n@アフロディーテ\nそんなあなたの言葉を\n疑うわけではないですけれど…\n\n# face %(unit_a)s \"normal\"\n@アフロディーテ\nマスターの愛…\n確かめさせていただきますわね？\n\n@アフロディーテ\nわたしに関する質問に\n愛を持って答えて下さい\n\n# voice 4013 \"aphrodite_0036\"\n@アフロディーテ\nでは…まいりますわよ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしのキラーズ『アフロディーテ』\nその持ち主の女神は\nなにを司る女神でしょう？\n\n# se \"SE_0734\"\n# select \"愛と美と性\" \"select_label_1\" \"海と山と大空\" \"select_label_2\" \"天と地と人\" \"select_label_3\"\nわたしのキラーズ『アフロディーテ』\nその持ち主の女神は\nなにを司る女神でしょう？\n"
+	},
+	{
+		"ID": 3302,
+		"unitID": 2401311,
+		"questionID": 9401302,
+		"script": ";;弓,2\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 4013 \"aphrodite_0001\"\n@アフロディーテ\n…マスター\nわたしのことを、ちゃんと\n愛して下さっていますか？\n\n# face %(unit_a)s \"smile\"\n@アフロディーテ\n…もちろん、ですか？\nうふふっ、ありがとうございます…\n\n@アフロディーテ\nそんなあなたの言葉を\n疑うわけではないですけれど…\n\n# face %(unit_a)s \"normal\"\n@アフロディーテ\nマスターの愛…\n確かめさせていただきますわね？\n\n@アフロディーテ\nわたしに関する質問に\n愛を持って答えて下さい\n\n# voice 4013 \"aphrodite_0036\"\n@アフロディーテ\nでは…まいりますわよ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしのキラーズ『アフロディーテ』\nそれはどのような武器でしょうか？\n\n# se \"SE_0734\"\n# select \"槍\" \"select_label_1\" \"弓\" \"select_label_2\" \"銃\" \"select_label_3\"\nわたしのキラーズ『アフロディーテ』\nそれはどのような武器でしょうか？\n"
+	},
+	{
+		"ID": 3303,
+		"unitID": 2401311,
+		"questionID": 9401303,
+		"script": ";;エロース,3\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 4013 \"aphrodite_0001\"\n@アフロディーテ\n…マスター\nわたしのことを、ちゃんと\n愛して下さっていますか？\n\n# face %(unit_a)s \"smile\"\n@アフロディーテ\n…もちろん、ですか？\nうふふっ、ありがとうございます…\n\n@アフロディーテ\nそんなあなたの言葉を\n疑うわけではないですけれど…\n\n# face %(unit_a)s \"normal\"\n@アフロディーテ\nマスターの愛…\n確かめさせていただきますわね？\n\n@アフロディーテ\nわたしに関する質問に\n愛を持って答えて下さい\n\n# voice 4013 \"aphrodite_0036\"\n@アフロディーテ\nでは…まいりますわよ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしのキラーズ『アフロディーテ』\nその持ち主の女神\nアフロディーテの息子と言えば？\n\n# se \"SE_0734\"\n# select \"ハードコア\" \"select_label_1\" \"ポルノ\" \"select_label_2\" \"エロース\" \"select_label_3\"\nわたしのキラーズ『アフロディーテ』\nその持ち主の女神\nアフロディーテの息子と言えば？\n"
+	},
+	{
+		"ID": 3304,
+		"unitID": 2401311,
+		"questionID": 9401304,
+		"script": ";;パリスの審判,1\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 4013 \"aphrodite_0001\"\n@アフロディーテ\n…マスター\nわたしのことを、ちゃんと\n愛して下さっていますか？\n\n# face %(unit_a)s \"smile\"\n@アフロディーテ\n…もちろん、ですか？\nうふふっ、ありがとうございます…\n\n@アフロディーテ\nそんなあなたの言葉を\n疑うわけではないですけれど…\n\n# face %(unit_a)s \"normal\"\n@アフロディーテ\nマスターの愛…\n確かめさせていただきますわね？\n\n@アフロディーテ\nわたしに関する質問に\n愛を持って答えて下さい\n\n# voice 4013 \"aphrodite_0036\"\n@アフロディーテ\nでは…まいりますわよ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしのキラーズ『アフロディーテ』\nその持ち主が関わり\nトロイア戦争の原因となった事とは？\n\n# se \"SE_0734\"\n# select \"パリスの審判\" \"select_label_1\" \"最後の審判\" \"select_label_2\" \"疑惑の審判\" \"select_label_3\"\nわたしのキラーズ『アフロディーテ』\nその持ち主が関わり\nトロイア戦争の原因となった事とは？\n"
+	},
+	{
+		"ID": 3305,
+		"unitID": 2401311,
+		"questionID": 9401305,
+		"script": ";;アテナ,2\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 4013 \"aphrodite_0001\"\n@アフロディーテ\n…マスター\nわたしのことを、ちゃんと\n愛して下さっていますか？\n\n# face %(unit_a)s \"smile\"\n@アフロディーテ\n…もちろん、ですか？\nうふふっ、ありがとうございます…\n\n@アフロディーテ\nそんなあなたの言葉を\n疑うわけではないですけれど…\n\n# face %(unit_a)s \"normal\"\n@アフロディーテ\nマスターの愛…\n確かめさせていただきますわね？\n\n@アフロディーテ\nわたしに関する質問に\n愛を持って答えて下さい\n\n# voice 4013 \"aphrodite_0036\"\n@アフロディーテ\nでは…まいりますわよ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nパリスの審判において、\n至上の美を競った３女神は\nアフロディーテとヘラと誰？\n\n# se \"SE_0734\"\n# select \"イリス\" \"select_label_1\" \"アテナ\" \"select_label_2\" \"セレネ\" \"select_label_3\"\nパリスの審判において、\n至上の美を競った３女神は\nアフロディーテとヘラと誰？\n"
+	},
+	{
+		"ID": 3306,
+		"unitID": 2401311,
+		"questionID": 9401306,
+		"script": ";;アフロディーテ,3\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 4013 \"aphrodite_0001\"\n@アフロディーテ\n…マスター\nわたしのことを、ちゃんと\n愛して下さっていますか？\n\n# face %(unit_a)s \"smile\"\n@アフロディーテ\n…もちろん、ですか？\nうふふっ、ありがとうございます…\n\n@アフロディーテ\nそんなあなたの言葉を\n疑うわけではないですけれど…\n\n# face %(unit_a)s \"normal\"\n@アフロディーテ\nマスターの愛…\n確かめさせていただきますわね？\n\n@アフロディーテ\nわたしに関する質問に\n愛を持って答えて下さい\n\n# voice 4013 \"aphrodite_0036\"\n@アフロディーテ\nでは…まいりますわよ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nアフロディーテ、ヘラ、アテナの\n３人のうち、パリスの審判によって\n最も美しいとされたのは誰？\n\n# se \"SE_0734\"\n# select \"アテナ\" \"select_label_1\" \"ヘラ\" \"select_label_2\" \"アフロディーテ\" \"select_label_3\"\nアフロディーテ、ヘラ、アテナの\n３人のうち、パリスの審判によって\n最も美しいとされたのは誰？\n"
+	},
+	{
+		"ID": 3307,
+		"unitID": 2401311,
+		"questionID": 9401307,
+		"script": ";;ヴィーナス,1\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 4013 \"aphrodite_0001\"\n@アフロディーテ\n…マスター\nわたしのことを、ちゃんと\n愛して下さっていますか？\n\n# face %(unit_a)s \"smile\"\n@アフロディーテ\n…もちろん、ですか？\nうふふっ、ありがとうございます…\n\n@アフロディーテ\nそんなあなたの言葉を\n疑うわけではないですけれど…\n\n# face %(unit_a)s \"normal\"\n@アフロディーテ\nマスターの愛…\n確かめさせていただきますわね？\n\n@アフロディーテ\nわたしに関する質問に\n愛を持って答えて下さい\n\n# voice 4013 \"aphrodite_0036\"\n@アフロディーテ\nでは…まいりますわよ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしのキラーズ『アフロディーテ』\nその持ち主の女神の別名は\nどんな名前でしょう？\n\n# se \"SE_0734\"\n# select \"ヴィーナス\" \"select_label_1\" \"カリス\" \"select_label_2\" \"ニュクス\" \"select_label_3\"\nわたしのキラーズ『アフロディーテ』\nその持ち主の女神の別名は\nどんな名前でしょう？\n"
+	},
+	{
+		"ID": 3308,
+		"unitID": 2401311,
+		"questionID": 9401308,
+		"script": ";;金星,2\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 4013 \"aphrodite_0001\"\n@アフロディーテ\n…マスター\nわたしのことを、ちゃんと\n愛して下さっていますか？\n\n# face %(unit_a)s \"smile\"\n@アフロディーテ\n…もちろん、ですか？\nうふふっ、ありがとうございます…\n\n@アフロディーテ\nそんなあなたの言葉を\n疑うわけではないですけれど…\n\n# face %(unit_a)s \"normal\"\n@アフロディーテ\nマスターの愛…\n確かめさせていただきますわね？\n\n@アフロディーテ\nわたしに関する質問に\n愛を持って答えて下さい\n\n# voice 4013 \"aphrodite_0036\"\n@アフロディーテ\nでは…まいりますわよ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしのキラーズ『アフロディーテ』\nその持ち主の女神は、とある惑星に\n名を冠します。その惑星はなに？\n\n# se \"SE_0734\"\n# select \"水星\" \"select_label_1\" \"金星\" \"select_label_2\" \"冥王星\" \"select_label_3\"\nわたしのキラーズ『アフロディーテ』\nその持ち主の女神は、とある惑星に\n名を冠します。その惑星はなに？\n"
+	},
+	{
+		"ID": 3309,
+		"unitID": 2401311,
+		"questionID": 9401309,
+		"script": ";;オリュンポス十二神,3\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 4013 \"aphrodite_0001\"\n@アフロディーテ\n…マスター\nわたしのことを、ちゃんと\n愛して下さっていますか？\n\n# face %(unit_a)s \"smile\"\n@アフロディーテ\n…もちろん、ですか？\nうふふっ、ありがとうございます…\n\n@アフロディーテ\nそんなあなたの言葉を\n疑うわけではないですけれど…\n\n# face %(unit_a)s \"normal\"\n@アフロディーテ\nマスターの愛…\n確かめさせていただきますわね？\n\n@アフロディーテ\nわたしに関する質問に\n愛を持って答えて下さい\n\n# voice 4013 \"aphrodite_0036\"\n@アフロディーテ\nでは…まいりますわよ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしのキラーズ『アフロディーテ』\nその持ち主の女神が一柱として\n属するのは？\n\n# se \"SE_0734\"\n# select \"ソロモン七十二柱\" \"select_label_1\" \"八百万の神\" \"select_label_2\" \"オリュンポス十二神\" \"select_label_3\"\nわたしのキラーズ『アフロディーテ』\nその持ち主の女神が一柱として\n属するのは？\n"
+	},
+	{
+		"ID": 3310,
+		"unitID": 2401311,
+		"questionID": 9401310,
+		"script": ";;戦,1\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 4013 \"aphrodite_0001\"\n@アフロディーテ\n…マスター\nわたしのことを、ちゃんと\n愛して下さっていますか？\n\n# face %(unit_a)s \"smile\"\n@アフロディーテ\n…もちろん、ですか？\nうふふっ、ありがとうございます…\n\n@アフロディーテ\nそんなあなたの言葉を\n疑うわけではないですけれど…\n\n# face %(unit_a)s \"normal\"\n@アフロディーテ\nマスターの愛…\n確かめさせていただきますわね？\n\n@アフロディーテ\nわたしに関する質問に\n愛を持って答えて下さい\n\n# voice 4013 \"aphrodite_0036\"\n@アフロディーテ\nでは…まいりますわよ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしのキラーズ『アフロディーテ』\nその名を持つ女神は、美・愛・性と\nなんの側面を持っていますか？\n\n# se \"SE_0734\"\n# select \"戦\" \"select_label_1\" \"運命\" \"select_label_2\" \"鍛冶\" \"select_label_3\"\nわたしのキラーズ『アフロディーテ』\nその名を持つ女神は、美・愛・性と\nなんの側面を持っていますか？\n"
+	},
+	{
+		"ID": 3311,
+		"unitID": 2401311,
+		"questionID": 9401311,
+		"script": ";;愛と美の考察,1\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 4013 \"aphrodite_0001\"\n@アフロディーテ\nそうですわ、マスター\nわたし、ちょっとした余興を\n思いつきました\n\n# eye %(unit_a)s \"close\"\n@アフロディーテ\nあなたがわたしのことを\nどれだけご存じか…\n質問いたしますわ\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"smile\"\n@アフロディーテ\nうふふっ、ご安心下さい\nマスターならば、\n簡単に答えられる問題です\n\n# voice 4013 \"aphrodite_0036\"\n@アフロディーテ\nでは、よろしいですか？\nさっそくまいりますわよ…\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしの趣味は\nなんだったでしょうか？\n\n# se \"SE_0734\"\n# select \"愛と美の考察\" \"select_label_1\" \"正義と悪の考察\" \"select_label_2\" \"富と経済の考察\" \"select_label_3\"\nわたしの趣味は\nなんだったでしょうか？\n"
+	},
+	{
+		"ID": 3312,
+		"unitID": 2401311,
+		"questionID": 9401312,
+		"script": ";;さそり座,2\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 4013 \"aphrodite_0001\"\n@アフロディーテ\nそうですわ、マスター\nわたし、ちょっとした余興を\n思いつきました\n\n# eye %(unit_a)s \"close\"\n@アフロディーテ\nあなたがわたしのことを\nどれだけご存じか…\n質問いたしますわ\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"smile\"\n@アフロディーテ\nうふふっ、ご安心下さい\nマスターならば、\n簡単に答えられる問題です\n\n# voice 4013 \"aphrodite_0036\"\n@アフロディーテ\nでは、よろしいですか？\nさっそくまいりますわよ…\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしの星座はなんでしょう？\n\n# se \"SE_0734\"\n# select \"てんびん座\" \"select_label_1\" \"さそり座\" \"select_label_2\" \"おとめ座\" \"select_label_3\"\nわたしの星座はなんでしょう？\n"
+	},
+	{
+		"ID": 3313,
+		"unitID": 2401311,
+		"questionID": 9401313,
+		"script": ";;キプロス,3\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 4013 \"aphrodite_0001\"\n@アフロディーテ\nそうですわ、マスター\nわたし、ちょっとした余興を\n思いつきました\n\n# eye %(unit_a)s \"close\"\n@アフロディーテ\nあなたがわたしのことを\nどれだけご存じか…\n質問いたしますわ\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"smile\"\n@アフロディーテ\nうふふっ、ご安心下さい\nマスターならば、\n簡単に答えられる問題です\n\n# voice 4013 \"aphrodite_0036\"\n@アフロディーテ\nでは、よろしいですか？\nさっそくまいりますわよ…\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしの出身地は\nどこでしょうか？\n地中海に浮かぶ島ですよ\n\n# se \"SE_0734\"\n# select \"サルディーニャ\" \"select_label_1\" \"コルシカ\" \"select_label_2\" \"キプロス\" \"select_label_3\"\nわたしの出身地は\nどこでしょうか？\n地中海に浮かぶ島ですよ\n"
+	},
+	{
+		"ID": 3314,
+		"unitID": 2401311,
+		"questionID": 9401314,
+		"script": ";;Ｏ型,1\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 4013 \"aphrodite_0001\"\n@アフロディーテ\nそうですわ、マスター\nわたし、ちょっとした余興を\n思いつきました\n\n# eye %(unit_a)s \"close\"\n@アフロディーテ\nあなたがわたしのことを\nどれだけご存じか…\n質問いたしますわ\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"smile\"\n@アフロディーテ\nうふふっ、ご安心下さい\nマスターならば、\n簡単に答えられる問題です\n\n# voice 4013 \"aphrodite_0036\"\n@アフロディーテ\nでは、よろしいですか？\nさっそくまいりますわよ…\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしの血液型は\nなんだったかご存じですか？\n\n# se \"SE_0734\"\n# select \"Ｏ型\" \"select_label_1\" \"Ｂ型\" \"select_label_2\" \"Ａ型\" \"select_label_3\"\nわたしの血液型は\nなんだったかご存じですか？\n"
+	},
+	{
+		"ID": 3315,
+		"unitID": 2401311,
+		"questionID": 9401315,
+		"script": ";;スキンシップ,2\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 4013 \"aphrodite_0001\"\n@アフロディーテ\nそうですわ、マスター\nわたし、ちょっとした余興を\n思いつきました\n\n# eye %(unit_a)s \"close\"\n@アフロディーテ\nあなたがわたしのことを\nどれだけご存じか…\n質問いたしますわ\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"smile\"\n@アフロディーテ\nうふふっ、ご安心下さい\nマスターならば、\n簡単に答えられる問題です\n\n# voice 4013 \"aphrodite_0036\"\n@アフロディーテ\nでは、よろしいですか？\nさっそくまいりますわよ…\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしの好きなものは\nなんでしょう？\n愛ゆえの行為ですわよ？\n\n# se \"SE_0734\"\n# select \"お説教\" \"select_label_1\" \"スキンシップ\" \"select_label_2\" \"スパルタ教育\" \"select_label_3\"\nわたしの好きなものは\nなんでしょう？\n愛ゆえの行為ですわよ？\n"
+	},
+	{
+		"ID": 3316,
+		"unitID": 2401311,
+		"questionID": 9401316,
+		"script": ";;林檎,3\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 4013 \"aphrodite_0001\"\n@アフロディーテ\nそうですわ、マスター\nわたし、ちょっとした余興を\n思いつきました\n\n# eye %(unit_a)s \"close\"\n@アフロディーテ\nあなたがわたしのことを\nどれだけご存じか…\n質問いたしますわ\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"smile\"\n@アフロディーテ\nうふふっ、ご安心下さい\nマスターならば、\n簡単に答えられる問題です\n\n# voice 4013 \"aphrodite_0036\"\n@アフロディーテ\nでは、よろしいですか？\nさっそくまいりますわよ…\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしはとある果物が\n大好きなんですが、\nそれはいったいなんでしょう？\n\n# se \"SE_0734\"\n# select \"西瓜\" \"select_label_1\" \"柿\" \"select_label_2\" \"林檎\" \"select_label_3\"\nわたしはとある果物が\n大好きなんですが、\nそれはいったいなんでしょう？\n"
+	},
+	{
+		"ID": 3317,
+		"unitID": 2401311,
+		"questionID": 9401317,
+		"script": ";;アダマス,1\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 4013 \"aphrodite_0001\"\n@アフロディーテ\nそうですわ、マスター\nわたし、ちょっとした余興を\n思いつきました\n\n# eye %(unit_a)s \"close\"\n@アフロディーテ\nあなたがわたしのことを\nどれだけご存じか…\n質問いたしますわ\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"smile\"\n@アフロディーテ\nうふふっ、ご安心下さい\nマスターならば、\n簡単に答えられる問題です\n\n# voice 4013 \"aphrodite_0036\"\n@アフロディーテ\nでは、よろしいですか？\nさっそくまいりますわよ…\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしの親友は、\nこの中のどなたでしょう？\n\n# se \"SE_0734\"\n# select \"アダマス\" \"select_label_1\" \"ウコンバサラ\" \"select_label_2\" \"アルテミス\" \"select_label_3\"\nわたしの親友は、\nこの中のどなたでしょう？\n"
+	},
+	{
+		"ID": 3318,
+		"unitID": 2401311,
+		"questionID": 9401318,
+		"script": ";;181cm,2\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 4013 \"aphrodite_0001\"\n@アフロディーテ\nそうですわ、マスター\nわたし、ちょっとした余興を\n思いつきました\n\n# eye %(unit_a)s \"close\"\n@アフロディーテ\nあなたがわたしのことを\nどれだけご存じか…\n質問いたしますわ\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"smile\"\n@アフロディーテ\nうふふっ、ご安心下さい\nマスターならば、\n簡単に答えられる問題です\n\n# voice 4013 \"aphrodite_0036\"\n@アフロディーテ\nでは、よろしいですか？\nさっそくまいりますわよ…\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしの身長は\nどれぐらいでしょう？\nうふふ、意外とありますのよ\n\n# se \"SE_0734\"\n# select \"180cm\" \"select_label_1\" \"181cm\" \"select_label_2\" \"182cm\" \"select_label_3\"\nわたしの身長は\nどれぐらいでしょう？\nうふふ、意外とありますのよ\n"
+	},
+	{
+		"ID": 3319,
+		"unitID": 2401311,
+		"questionID": 9401319,
+		"script": ";;ケラウノス,3\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 4013 \"aphrodite_0001\"\n@アフロディーテ\nそうですわ、マスター\nわたし、ちょっとした余興を\n思いつきました\n\n# eye %(unit_a)s \"close\"\n@アフロディーテ\nあなたがわたしのことを\nどれだけご存じか…\n質問いたしますわ\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"smile\"\n@アフロディーテ\nうふふっ、ご安心下さい\nマスターならば、\n簡単に答えられる問題です\n\n# voice 4013 \"aphrodite_0036\"\n@アフロディーテ\nでは、よろしいですか？\nさっそくまいりますわよ…\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしが仲良くさせていただいている\nキラーズは次のうちどなたでしょう？\n\n# se \"SE_0734\"\n# select \"グラム\" \"select_label_1\" \"オティヌス\" \"select_label_2\" \"ケラウノス\" \"select_label_3\"\nわたしが仲良くさせていただいている\nキラーズは次のうちどなたでしょう？\n"
+	},
+	{
+		"ID": 3320,
+		"unitID": 2401311,
+		"questionID": 9401320,
+		"script": ";;10月26日,1\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 4013 \"aphrodite_0001\"\n@アフロディーテ\nそうですわ、マスター\nわたし、ちょっとした余興を\n思いつきました\n\n# eye %(unit_a)s \"close\"\n@アフロディーテ\nあなたがわたしのことを\nどれだけご存じか…\n質問いたしますわ\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"smile\"\n@アフロディーテ\nうふふっ、ご安心下さい\nマスターならば、\n簡単に答えられる問題です\n\n# voice 4013 \"aphrodite_0036\"\n@アフロディーテ\nでは、よろしいですか？\nさっそくまいりますわよ…\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしの誕生日は\n何月何日でしょうか？\n\n# se \"SE_0734\"\n# select \"10月26日\" \"select_label_1\" \"4月1日\" \"select_label_2\" \"12月31日\" \"select_label_3\"\nわたしの誕生日は\n何月何日でしょうか？\n"
+	},
+	{
+		"ID": 3321,
+		"unitID": 2401311,
+		"questionID": 9401321,
+		"script": ";;アーチャー,1\n# face %(unit_a)s \"normal\"\n# textflame 1 1\n# eye %(unit_a)s \"close\"\n# voice 4013 \"aphrodite_0001\"\n@アフロディーテ\n…マスター、\nあなたにはわたしの全てを\n知って欲しいのです\n\n# eye %(unit_a)s \"normal\"\n@アフロディーテ\nそのため…と言うわけでは\nありませんが\nこれから質問いたしますわ\n\n# face %(unit_a)s \"normal\"\n@アフロディーテ\n正解して下されば嬉しいです\nもし不正解だとしたら…\n\n# face %(unit_a)s \"smile\"\n@アフロディーテ\nその時はもっともっと\nわたしのことをお教えいたします\n\n# voice 4013 \"aphrodite_0036\"\n@アフロディーテ\nでは…まいりますわよ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしが☆4の時のジョブは\nいったいなんでしたかしら？\n\n# se \"SE_0734\"\n# select \"アーチャー\" \"select_label_1\" \"ファイター\" \"select_label_2\" \"ベルセルク\" \"select_label_3\"\nわたしが☆4の時のジョブは\nいったいなんでしたかしら？\n"
+	},
+	{
+		"ID": 3322,
+		"unitID": 2401311,
+		"questionID": 9401322,
+		"script": ";;イェーガー,2\n# face %(unit_a)s \"normal\"\n# textflame 1 1\n# eye %(unit_a)s \"close\"\n# voice 4013 \"aphrodite_0001\"\n@アフロディーテ\n…マスター、\nあなたにはわたしの全てを\n知って欲しいのです\n\n# eye %(unit_a)s \"normal\"\n@アフロディーテ\nそのため…と言うわけでは\nありませんが\nこれから質問いたしますわ\n\n# face %(unit_a)s \"normal\"\n@アフロディーテ\n正解して下されば嬉しいです\nもし不正解だとしたら…\n\n# face %(unit_a)s \"smile\"\n@アフロディーテ\nその時はもっともっと\nわたしのことをお教えいたします\n\n# voice 4013 \"aphrodite_0036\"\n@アフロディーテ\nでは…まいりますわよ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしが☆5の時の\nジョブはなんでしたでしょう？\n\n# se \"SE_0734\"\n# select \"プリースト\" \"select_label_1\" \"イェーガー\" \"select_label_2\" \"ビショップ\" \"select_label_3\"\nわたしが☆5の時の\nジョブはなんでしたでしょう？\n"
+	},
+	{
+		"ID": 3323,
+		"unitID": 2401311,
+		"questionID": 9401323,
+		"script": ";;風射手の風陣,3\n# face %(unit_a)s \"normal\"\n# textflame 1 1\n# eye %(unit_a)s \"close\"\n# voice 4013 \"aphrodite_0001\"\n@アフロディーテ\n…マスター、\nあなたにはわたしの全てを\n知って欲しいのです\n\n# eye %(unit_a)s \"normal\"\n@アフロディーテ\nそのため…と言うわけでは\nありませんが\nこれから質問いたしますわ\n\n# face %(unit_a)s \"normal\"\n@アフロディーテ\n正解して下されば嬉しいです\nもし不正解だとしたら…\n\n# face %(unit_a)s \"smile\"\n@アフロディーテ\nその時はもっともっと\nわたしのことをお教えいたします\n\n# voice 4013 \"aphrodite_0036\"\n@アフロディーテ\nでは…まいりますわよ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしの☆5の\nリーダースキルは\nなんだったでしょう？\n\n# se \"SE_0734\"\n# select \"昏冥の共鳴\" \"select_label_1\" \"絶対零度の加護\" \"select_label_2\" \"風射手の風陣\" \"select_label_3\"\nわたしの☆5の\nリーダースキルは\nなんだったでしょう？\n"
+	},
+	{
+		"ID": 3324,
+		"unitID": 2401311,
+		"questionID": 9401324,
+		"script": ";;風弓神の方陣,1\n# face %(unit_a)s \"normal\"\n# textflame 1 1\n# eye %(unit_a)s \"close\"\n# voice 4013 \"aphrodite_0001\"\n@アフロディーテ\n…マスター、\nあなたにはわたしの全てを\n知って欲しいのです\n\n# eye %(unit_a)s \"normal\"\n@アフロディーテ\nそのため…と言うわけでは\nありませんが\nこれから質問いたしますわ\n\n# face %(unit_a)s \"normal\"\n@アフロディーテ\n正解して下されば嬉しいです\nもし不正解だとしたら…\n\n# face %(unit_a)s \"smile\"\n@アフロディーテ\nその時はもっともっと\nわたしのことをお教えいたします\n\n# voice 4013 \"aphrodite_0036\"\n@アフロディーテ\nでは…まいりますわよ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしの☆6の\nリーダースキルはなんでしょう？\n\n# se \"SE_0734\"\n# select \"風弓神の方陣\" \"select_label_1\" \"風神弓の方陣\" \"select_label_2\" \"神風弓の方陣\" \"select_label_3\"\nわたしの☆6の\nリーダースキルはなんでしょう？\n"
+	},
+	{
+		"ID": 3325,
+		"unitID": 2401311,
+		"questionID": 9401325,
+		"script": ";;アルテミス,2\n# face %(unit_a)s \"normal\"\n# textflame 1 1\n# eye %(unit_a)s \"close\"\n# voice 4013 \"aphrodite_0001\"\n@アフロディーテ\n…マスター、\nあなたにはわたしの全てを\n知って欲しいのです\n\n# eye %(unit_a)s \"normal\"\n@アフロディーテ\nそのため…と言うわけでは\nありませんが\nこれから質問いたしますわ\n\n# face %(unit_a)s \"normal\"\n@アフロディーテ\n正解して下されば嬉しいです\nもし不正解だとしたら…\n\n# face %(unit_a)s \"smile\"\n@アフロディーテ\nその時はもっともっと\nわたしのことをお教えいたします\n\n# voice 4013 \"aphrodite_0036\"\n@アフロディーテ\nでは…まいりますわよ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしがよく\nちょっかいを出す相手は\nさて…誰でしょう？\n\n# se \"SE_0734\"\n# select \"クリダヴォル\" \"select_label_1\" \"アルテミス\" \"select_label_2\" \"ケラウノス\" \"select_label_3\"\nわたしがよく\nちょっかいを出す相手は\nさて…誰でしょう？\n"
+	},
+	{
+		"ID": 3326,
+		"unitID": 2401311,
+		"questionID": 9401326,
+		"script": ";;弓神,3\n# face %(unit_a)s \"normal\"\n# textflame 1 1\n# eye %(unit_a)s \"close\"\n# voice 4013 \"aphrodite_0001\"\n@アフロディーテ\n…マスター、\nあなたにはわたしの全てを\n知って欲しいのです\n\n# eye %(unit_a)s \"normal\"\n@アフロディーテ\nそのため…と言うわけでは\nありませんが\nこれから質問いたしますわ\n\n# face %(unit_a)s \"normal\"\n@アフロディーテ\n正解して下されば嬉しいです\nもし不正解だとしたら…\n\n# face %(unit_a)s \"smile\"\n@アフロディーテ\nその時はもっともっと\nわたしのことをお教えいたします\n\n# voice 4013 \"aphrodite_0036\"\n@アフロディーテ\nでは…まいりますわよ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしが☆6の時は\nどんなジョブでしたか？\n\n# se \"SE_0734\"\n# select \"斧神\" \"select_label_1\" \"剣神\" \"select_label_2\" \"弓神\" \"select_label_3\"\nわたしが☆6の時は\nどんなジョブでしたか？\n"
+	},
+	{
+		"ID": 3327,
+		"unitID": 2401311,
+		"questionID": 9401327,
+		"script": ";;アポロン,1\n# face %(unit_a)s \"normal\"\n# textflame 1 1\n# eye %(unit_a)s \"close\"\n# voice 4013 \"aphrodite_0001\"\n@アフロディーテ\n…マスター、\nあなたにはわたしの全てを\n知って欲しいのです\n\n# eye %(unit_a)s \"normal\"\n@アフロディーテ\nそのため…と言うわけでは\nありませんが\nこれから質問いたしますわ\n\n# face %(unit_a)s \"normal\"\n@アフロディーテ\n正解して下されば嬉しいです\nもし不正解だとしたら…\n\n# face %(unit_a)s \"smile\"\n@アフロディーテ\nその時はもっともっと\nわたしのことをお教えいたします\n\n# voice 4013 \"aphrodite_0036\"\n@アフロディーテ\nでは…まいりますわよ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしがものすごく\n可愛がっている相手は\nご存じですか？\n\n# se \"SE_0734\"\n# select \"アポロン\" \"select_label_1\" \"ロンギヌス\" \"select_label_2\" \"梓弓\" \"select_label_3\"\nわたしがものすごく\n可愛がっている相手は\nご存じですか？\n"
+	},
+	{
+		"ID": 3328,
+		"unitID": 2401311,
+		"questionID": 9401328,
+		"script": ";;ビューティスピカ,2\n# face %(unit_a)s \"normal\"\n# textflame 1 1\n# eye %(unit_a)s \"close\"\n# voice 4013 \"aphrodite_0001\"\n@アフロディーテ\n…マスター、\nあなたにはわたしの全てを\n知って欲しいのです\n\n# eye %(unit_a)s \"normal\"\n@アフロディーテ\nそのため…と言うわけでは\nありませんが\nこれから質問いたしますわ\n\n# face %(unit_a)s \"normal\"\n@アフロディーテ\n正解して下されば嬉しいです\nもし不正解だとしたら…\n\n# face %(unit_a)s \"smile\"\n@アフロディーテ\nその時はもっともっと\nわたしのことをお教えいたします\n\n# voice 4013 \"aphrodite_0036\"\n@アフロディーテ\nでは…まいりますわよ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしの☆5の\n固有スキルはなんでしょう？\n\n# se \"SE_0734\"\n# select \"シャイングラース\" \"select_label_1\" \"ビューティスピカ\" \"select_label_2\" \"アシストサンダー\" \"select_label_3\"\nわたしの☆5の\n固有スキルはなんでしょう？\n"
+	},
+	{
+		"ID": 3329,
+		"unitID": 2401311,
+		"questionID": 9401329,
+		"script": ";;不意打ち,3\n# face %(unit_a)s \"normal\"\n# textflame 1 1\n# eye %(unit_a)s \"close\"\n# voice 4013 \"aphrodite_0001\"\n@アフロディーテ\n…マスター、\nあなたにはわたしの全てを\n知って欲しいのです\n\n# eye %(unit_a)s \"normal\"\n@アフロディーテ\nそのため…と言うわけでは\nありませんが\nこれから質問いたしますわ\n\n# face %(unit_a)s \"normal\"\n@アフロディーテ\n正解して下されば嬉しいです\nもし不正解だとしたら…\n\n# face %(unit_a)s \"smile\"\n@アフロディーテ\nその時はもっともっと\nわたしのことをお教えいたします\n\n# voice 4013 \"aphrodite_0036\"\n@アフロディーテ\nでは…まいりますわよ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしが最初に覚える\nスキルはなんでしたかしら？\n\n# se \"SE_0734\"\n# select \"シャイングラース\" \"select_label_1\" \"危機察知・雷\" \"select_label_2\" \"不意打ち\" \"select_label_3\"\nわたしが最初に覚える\nスキルはなんでしたかしら？\n"
+	},
+	{
+		"ID": 3330,
+		"unitID": 2401311,
+		"questionID": 9401330,
+		"script": ";;ビューティアガペ,1\n# face %(unit_a)s \"normal\"\n# textflame 1 1\n# eye %(unit_a)s \"close\"\n# voice 4013 \"aphrodite_0001\"\n@アフロディーテ\n…マスター、\nあなたにはわたしの全てを\n知って欲しいのです\n\n# eye %(unit_a)s \"normal\"\n@アフロディーテ\nそのため…と言うわけでは\nありませんが\nこれから質問いたしますわ\n\n# face %(unit_a)s \"normal\"\n@アフロディーテ\n正解して下されば嬉しいです\nもし不正解だとしたら…\n\n# face %(unit_a)s \"smile\"\n@アフロディーテ\nその時はもっともっと\nわたしのことをお教えいたします\n\n# voice 4013 \"aphrodite_0036\"\n@アフロディーテ\nでは…まいりますわよ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしの☆6の\n固有スキルは\nなんでしたかしら？\n\n# se \"SE_0734\"\n# select \"ビューティアガペ\" \"select_label_1\" \"カルドグラース\" \"select_label_2\" \"フェンリルタスク\" \"select_label_3\"\nわたしの☆6の\n固有スキルは\nなんでしたかしら？\n"
+	},
+	{
+		"ID": 3331,
+		"unitID": 2401311,
+		"questionID": 9401331,
+		"script": ";;暴力,1\n# face %(unit_a)s \"normal\"\n# textflame 1 1\n# voice 4013 \"aphrodite_0001\"\n@アフロディーテ\n…さて、マスター\n今日は楽しかったですか？\n\n# eye %(unit_a)s \"close\"\n@アフロディーテ\n今日のこの楽しさが\nこれからも続くことを\n願っておりますわ…\n\n# eye %(unit_a)s \"normal\"\n# voice 4013 \"aphrodite_0003\"\n@アフロディーテ\nでも…そのためにも、\nマスターにはもっともっと\nわたしのことを知ってもらいたい…\n\n# face %(unit_a)s \"sad\"\n@アフロディーテ\n…マスター\nわたしのこんな事を\nご存じですか？\n\n# face %(unit_a)s \"normal\"\n# voice 4013 \"aphrodite_0036\"\n@アフロディーテ\n知っていて下されば\n嬉しいですけれど…\nいかがでしょう？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしの親友であるアダマスの\n趣味はなんでしたかしら？\n\n# se \"SE_0734\"\n# select \"暴力\" \"select_label_1\" \"権力\" \"select_label_2\" \"行動力\" \"select_label_3\"\nわたしの親友であるアダマスの\n趣味はなんでしたかしら？\n"
+	},
+	{
+		"ID": 3332,
+		"unitID": 2401311,
+		"questionID": 9401332,
+		"script": ";;アフロディーテ,2\n# face %(unit_a)s \"normal\"\n# textflame 1 1\n# voice 4013 \"aphrodite_0001\"\n@アフロディーテ\n…さて、マスター\n今日は楽しかったですか？\n\n# eye %(unit_a)s \"close\"\n@アフロディーテ\n今日のこの楽しさが\nこれからも続くことを\n願っておりますわ…\n\n# eye %(unit_a)s \"normal\"\n# voice 4013 \"aphrodite_0003\"\n@アフロディーテ\nでも…そのためにも、\nマスターにはもっともっと\nわたしのことを知ってもらいたい…\n\n# face %(unit_a)s \"sad\"\n@アフロディーテ\n…マスター\nわたしのこんな事を\nご存じですか？\n\n# face %(unit_a)s \"normal\"\n# voice 4013 \"aphrodite_0036\"\n@アフロディーテ\n知っていて下されば\n嬉しいですけれど…\nいかがでしょう？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしと親友のアダマスは\nどちらが背が高いでしょうか？\n\n# se \"SE_0734\"\n# select \"アダマス\" \"select_label_1\" \"アフロディーテ\" \"select_label_2\" \"同じ\" \"select_label_3\"\nわたしと親友のアダマスは\nどちらが背が高いでしょうか？\n"
+	},
+	{
+		"ID": 3333,
+		"unitID": 2401311,
+		"questionID": 9401333,
+		"script": ";;チーズ,3\n# face %(unit_a)s \"normal\"\n# textflame 1 1\n# voice 4013 \"aphrodite_0001\"\n@アフロディーテ\n…さて、マスター\n今日は楽しかったですか？\n\n# eye %(unit_a)s \"close\"\n@アフロディーテ\n今日のこの楽しさが\nこれからも続くことを\n願っておりますわ…\n\n# eye %(unit_a)s \"normal\"\n# voice 4013 \"aphrodite_0003\"\n@アフロディーテ\nでも…そのためにも、\nマスターにはもっともっと\nわたしのことを知ってもらいたい…\n\n# face %(unit_a)s \"sad\"\n@アフロディーテ\n…マスター\nわたしのこんな事を\nご存じですか？\n\n# face %(unit_a)s \"normal\"\n# voice 4013 \"aphrodite_0036\"\n@アフロディーテ\n知っていて下されば\n嬉しいですけれど…\nいかがでしょう？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしの出身地\nキプロスの特産品は\nワインと…なんでしたかしら？\n\n# se \"SE_0734\"\n# select \"オリーブ\" \"select_label_1\" \"ガラス細工\" \"select_label_2\" \"チーズ\" \"select_label_3\"\nわたしの出身地\nキプロスの特産品は\nワインと…なんでしたかしら？\n"
+	},
+	{
+		"ID": 3334,
+		"unitID": 2401311,
+		"questionID": 9401334,
+		"script": ";;ダイヤモンド,1\n# face %(unit_a)s \"normal\"\n# textflame 1 1\n# voice 4013 \"aphrodite_0001\"\n@アフロディーテ\n…さて、マスター\n今日は楽しかったですか？\n\n# eye %(unit_a)s \"close\"\n@アフロディーテ\n今日のこの楽しさが\nこれからも続くことを\n願っておりますわ…\n\n# eye %(unit_a)s \"normal\"\n# voice 4013 \"aphrodite_0003\"\n@アフロディーテ\nでも…そのためにも、\nマスターにはもっともっと\nわたしのことを知ってもらいたい…\n\n# face %(unit_a)s \"sad\"\n@アフロディーテ\n…マスター\nわたしのこんな事を\nご存じですか？\n\n# face %(unit_a)s \"normal\"\n# voice 4013 \"aphrodite_0036\"\n@アフロディーテ\n知っていて下されば\n嬉しいですけれど…\nいかがでしょう？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしの親友のアダマスは\nあるものが大好きなのですけれど\n…それはなんでしょうか？\n\n# se \"SE_0734\"\n# select \"ダイヤモンド\" \"select_label_1\" \"ルビー\" \"select_label_2\" \"オパール\" \"select_label_3\"\nわたしの親友のアダマスは\nあるものが大好きなのですけれど\n…それはなんでしょうか？\n"
+	},
+	{
+		"ID": 3335,
+		"unitID": 2401311,
+		"questionID": 9401335,
+		"script": ";;ガイア,2\n# face %(unit_a)s \"normal\"\n# textflame 1 1\n# voice 4013 \"aphrodite_0001\"\n@アフロディーテ\n…さて、マスター\n今日は楽しかったですか？\n\n# eye %(unit_a)s \"close\"\n@アフロディーテ\n今日のこの楽しさが\nこれからも続くことを\n願っておりますわ…\n\n# eye %(unit_a)s \"normal\"\n# voice 4013 \"aphrodite_0003\"\n@アフロディーテ\nでも…そのためにも、\nマスターにはもっともっと\nわたしのことを知ってもらいたい…\n\n# face %(unit_a)s \"sad\"\n@アフロディーテ\n…マスター\nわたしのこんな事を\nご存じですか？\n\n# face %(unit_a)s \"normal\"\n# voice 4013 \"aphrodite_0036\"\n@アフロディーテ\n知っていて下されば\n嬉しいですけれど…\nいかがでしょう？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしの親友のアダマスは\nどこ出身でしょうか？\n\n# se \"SE_0734\"\n# select \"ヴァルハラ\" \"select_label_1\" \"ガイア\" \"select_label_2\" \"ティル・ナ・ノーグ\" \"select_label_3\"\nわたしの親友のアダマスは\nどこ出身でしょうか？\n"
+	},
+	{
+		"ID": 3336,
+		"unitID": 2401311,
+		"questionID": 9401336,
+		"script": ";;金,3\n# face %(unit_a)s \"normal\"\n# textflame 1 1\n# voice 4013 \"aphrodite_0001\"\n@アフロディーテ\n…さて、マスター\n今日は楽しかったですか？\n\n# eye %(unit_a)s \"close\"\n@アフロディーテ\n今日のこの楽しさが\nこれからも続くことを\n願っておりますわ…\n\n# eye %(unit_a)s \"normal\"\n# voice 4013 \"aphrodite_0003\"\n@アフロディーテ\nでも…そのためにも、\nマスターにはもっともっと\nわたしのことを知ってもらいたい…\n\n# face %(unit_a)s \"sad\"\n@アフロディーテ\n…マスター\nわたしのこんな事を\nご存じですか？\n\n# face %(unit_a)s \"normal\"\n# voice 4013 \"aphrodite_0036\"\n@アフロディーテ\n知っていて下されば\n嬉しいですけれど…\nいかがでしょう？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしの髪の色は\n何色でしょうか？\nこれはサービス問題ですわね\n\n# se \"SE_0734\"\n# select \"黒\" \"select_label_1\" \"銀\" \"select_label_2\" \"金\" \"select_label_3\"\nわたしの髪の色は\n何色でしょうか？\nこれはサービス問題ですわね\n"
+	},
+	{
+		"ID": 3337,
+		"unitID": 2401311,
+		"questionID": 9401337,
+		"script": ";;右目,1\n# face %(unit_a)s \"normal\"\n# textflame 1 1\n# voice 4013 \"aphrodite_0001\"\n@アフロディーテ\n…さて、マスター\n今日は楽しかったですか？\n\n# eye %(unit_a)s \"close\"\n@アフロディーテ\n今日のこの楽しさが\nこれからも続くことを\n願っておりますわ…\n\n# eye %(unit_a)s \"normal\"\n# voice 4013 \"aphrodite_0003\"\n@アフロディーテ\nでも…そのためにも、\nマスターにはもっともっと\nわたしのことを知ってもらいたい…\n\n# face %(unit_a)s \"sad\"\n@アフロディーテ\n…マスター\nわたしのこんな事を\nご存じですか？\n\n# face %(unit_a)s \"normal\"\n# voice 4013 \"aphrodite_0036\"\n@アフロディーテ\n知っていて下されば\n嬉しいですけれど…\nいかがでしょう？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしの付けている眼帯は\nどちらの目に付いているでしょう？\nうふふっ、サービス問題ですわ\n\n# se \"SE_0734\"\n# select \"右目\" \"select_label_1\" \"左目\" \"select_label_2\" \"両目\" \"select_label_3\"\nわたしの付けている眼帯は\nどちらの目に付いているでしょう？\nうふふっ、サービス問題ですわ\n"
+	},
+	{
+		"ID": 3338,
+		"unitID": 2401311,
+		"questionID": 9401338,
+		"script": ";;青汁,2\n# face %(unit_a)s \"normal\"\n# textflame 1 1\n# voice 4013 \"aphrodite_0001\"\n@アフロディーテ\n…さて、マスター\n今日は楽しかったですか？\n\n# eye %(unit_a)s \"close\"\n@アフロディーテ\n今日のこの楽しさが\nこれからも続くことを\n願っておりますわ…\n\n# eye %(unit_a)s \"normal\"\n# voice 4013 \"aphrodite_0003\"\n@アフロディーテ\nでも…そのためにも、\nマスターにはもっともっと\nわたしのことを知ってもらいたい…\n\n# face %(unit_a)s \"sad\"\n@アフロディーテ\n…マスター\nわたしのこんな事を\nご存じですか？\n\n# face %(unit_a)s \"normal\"\n# voice 4013 \"aphrodite_0036\"\n@アフロディーテ\n知っていて下されば\n嬉しいですけれど…\nいかがでしょう？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしの誕生日１０月２６日は、\nとある飲み物の記念日らしいですわ\n健康にいいんですが…なんでしょう？\n\n# se \"SE_0734\"\n# select \"コーヒー\" \"select_label_1\" \"青汁\" \"select_label_2\" \"豆乳\" \"select_label_3\"\nわたしの誕生日１０月２６日は、\nとある飲み物の記念日らしいですわ\n健康にいいんですが…なんでしょう？\n"
+	},
+	{
+		"ID": 3339,
+		"unitID": 2401311,
+		"questionID": 9401339,
+		"script": ";;Scorpio,3\n# face %(unit_a)s \"normal\"\n# textflame 1 1\n# voice 4013 \"aphrodite_0001\"\n@アフロディーテ\n…さて、マスター\n今日は楽しかったですか？\n\n# eye %(unit_a)s \"close\"\n@アフロディーテ\n今日のこの楽しさが\nこれからも続くことを\n願っておりますわ…\n\n# eye %(unit_a)s \"normal\"\n# voice 4013 \"aphrodite_0003\"\n@アフロディーテ\nでも…そのためにも、\nマスターにはもっともっと\nわたしのことを知ってもらいたい…\n\n# face %(unit_a)s \"sad\"\n@アフロディーテ\n…マスター\nわたしのこんな事を\nご存じですか？\n\n# face %(unit_a)s \"normal\"\n# voice 4013 \"aphrodite_0036\"\n@アフロディーテ\n知っていて下されば\n嬉しいですけれど…\nいかがでしょう？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしの星座さそり座の\n英語読みは、\n次のうちどれでしょうか？\n\n# se \"SE_0734\"\n# select \"Taurus\" \"select_label_1\" \"Virgo\" \"select_label_2\" \"Scorpio\" \"select_label_3\"\nわたしの星座さそり座の\n英語読みは、\n次のうちどれでしょうか？\n"
+	},
+	{
+		"ID": 3340,
+		"unitID": 2401311,
+		"questionID": 9401340,
+		"script": ";;ギリシア神話群,1\n# face %(unit_a)s \"normal\"\n# textflame 1 1\n# voice 4013 \"aphrodite_0001\"\n@アフロディーテ\n…さて、マスター\n今日は楽しかったですか？\n\n# eye %(unit_a)s \"close\"\n@アフロディーテ\n今日のこの楽しさが\nこれからも続くことを\n願っておりますわ…\n\n# eye %(unit_a)s \"normal\"\n# voice 4013 \"aphrodite_0003\"\n@アフロディーテ\nでも…そのためにも、\nマスターにはもっともっと\nわたしのことを知ってもらいたい…\n\n# face %(unit_a)s \"sad\"\n@アフロディーテ\n…マスター\nわたしのこんな事を\nご存じですか？\n\n# face %(unit_a)s \"normal\"\n# voice 4013 \"aphrodite_0036\"\n@アフロディーテ\n知っていて下されば\n嬉しいですけれど…\nいかがでしょう？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしの属するクラスタは\nなんでしょうか？\n\n# se \"SE_0734\"\n# select \"ギリシア神話群\" \"select_label_1\" \"シュメール神話群\" \"select_label_2\" \"日本神話群\" \"select_label_3\"\nわたしの属するクラスタは\nなんでしょうか？\n"
+	},
+	{
+		"ID": 3341,
+		"unitID": 2401311,
+		"questionID": 9401341,
+		"script": "\n;;わたし,2\n# se \"SE_0734\"\n# select \"わたくし\" \"select_label_1\" \"わたし\" \"select_label_2\" \"あたし\" \"select_label_3\"\nアフロディーテの一人称は\n次のうちどれ？\n"
+	},
+	{
+		"ID": 3342,
+		"unitID": 2401311,
+		"questionID": 9401342,
+		"script": "\n;;あなた,3\n# se \"SE_0734\"\n# select \"おまえ\" \"select_label_1\" \"あんた\" \"select_label_2\" \"あなた\" \"select_label_3\"\nアフロディーテはアンタのこと、\nなんて呼んでる？\n"
+	},
+	{
+		"ID": 3343,
+		"unitID": 2401311,
+		"questionID": 9401343,
+		"script": "\n;;106,1\n# se \"SE_0734\"\n# select \"106\" \"select_label_1\" \"96\" \"select_label_2\" \"102\" \"select_label_3\"\nアフロディーテの\nバストサイズがどのくらいか\nアンタ…知ってるの？\n"
+	},
+	{
+		"ID": 3344,
+		"unitID": 2401311,
+		"questionID": 9401344,
+		"script": "\n;;68,3\n# se \"SE_0734\"\n# select \"63\" \"select_label_1\" \"69\" \"select_label_2\" \"68\" \"select_label_3\"\nアフロディーテの\nウエストサイズがどのくらいか\nアンタ…知ってるの？\n"
+	},
+	{
+		"ID": 3345,
+		"unitID": 2401311,
+		"questionID": 9401345,
+		"script": "\n;;98,3\n# se \"SE_0734\"\n# select \"93\" \"select_label_1\" \"99\" \"select_label_2\" \"98\" \"select_label_3\"\nアフロディーテの\nヒップサイズがどのくらいか\nアンタ…知ってるの？\n"
+	},
+	{
+		"ID": 3346,
+		"unitID": 2401311,
+		"questionID": 9401346,
+		"script": "\n;;65,2\n# se \"SE_0734\"\n# select \"61\" \"select_label_1\" \"65\" \"select_label_2\" \"67\" \"select_label_3\"\nアフロディーテの体重は\n次のうちどれ？\n"
+	},
+	{
+		"ID": 3347,
+		"unitID": 2401311,
+		"questionID": 9401347,
+		"script": "\n;;272,1\n# se \"SE_0734\"\n# select \"272\" \"select_label_1\" \"252\" \"select_label_2\" \"270\" \"select_label_3\"\nアフロディーテの\nバスト＋ウエスト＋ヒップは\nいくつかわかる？\n"
+	},
+	{
+		"ID": 3348,
+		"unitID": 2401311,
+		"questionID": 9401348,
+		"script": "\n;;黒,3\n# se \"SE_0734\"\n# select \"赤\" \"select_label_1\" \"緑\" \"select_label_2\" \"黒\" \"select_label_3\"\nアフロディーテの水着の色は\n次のうちどれ？\n"
+	},
+	{
+		"ID": 3349,
+		"unitID": 2401311,
+		"questionID": 9401349,
+		"script": "\n;;30位,2\n# se \"SE_0734\"\n# select \"22位\" \"select_label_1\" \"30位\" \"select_label_2\" \"37位\" \"select_label_3\"\nアフロディーテは\n第２回人気投票で\n何位だったでしょう？\n"
+	},
+	{
+		"ID": 3350,
+		"unitID": 2401311,
+		"questionID": 9401350,
+		"script": "\n;;加隈亜衣,1\n# se \"SE_0734\"\n# select \"加隈亜衣\" \"select_label_1\" \"川澄綾子\" \"select_label_2\" \"白石涼子\" \"select_label_3\"\nアフロディーテの声優は誰？\n"
+	}
+]

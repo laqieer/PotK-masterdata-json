@@ -1,0 +1,302 @@
+[
+	{
+		"ID": 2201,
+		"unitID": 2400611,
+		"questionID": 9400601,
+		"script": ";;魔除け,1\n# face %(unit_a)s \"normal\"\n# voice 4006 \"azusa_0001\"\n@梓弓\nマスター\nこの方角から帰るのは\nあまりよろしくありません\n\n@梓弓\nちょっと回り道をしませんか？\n\n# face %(unit_a)s \"smile\"\n# voice 4006 \"azusa_0004\"\n@梓弓\n…そうだ、回り道ついでに\nちょっと余興など\nいかがでしょう？\n\n@梓弓\nわたくしのことに関して、\nこれから問題を出します\n当てて下さると嬉しいです\n\n# voice 4006 \"azusa_0036\"\n@梓弓\n準備はよろしいですか？\nでは、まいります…\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたくしのキラーズ『梓弓』は\n武器以外の別な用途があります\nそれはいったいなんでしょう？\n\n# se \"SE_0734\"\n# select \"魔除け\" \"select_label_1\" \"火起こし\" \"select_label_2\" \"非常食\" \"select_label_3\"\nわたくしのキラーズ『梓弓』は\n武器以外の別な用途があります\nそれはいったいなんでしょう？\n"
+	},
+	{
+		"ID": 2202,
+		"unitID": 2400611,
+		"questionID": 9400602,
+		"script": ";;弓,2\n# face %(unit_a)s \"normal\"\n# voice 4006 \"azusa_0001\"\n@梓弓\nマスター\nこの方角から帰るのは\nあまりよろしくありません\n\n@梓弓\nちょっと回り道をしませんか？\n\n# face %(unit_a)s \"smile\"\n# voice 4006 \"azusa_0004\"\n@梓弓\n…そうだ、回り道ついでに\nちょっと余興など\nいかがでしょう？\n\n@梓弓\nわたくしのことに関して、\nこれから問題を出します\n当てて下さると嬉しいです\n\n# voice 4006 \"azusa_0036\"\n@梓弓\n準備はよろしいですか？\nでは、まいります…\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたくしのキラーズ『梓弓』は\nどんな武器でしたか？\n\n# se \"SE_0734\"\n# select \"剣\" \"select_label_1\" \"弓\" \"select_label_2\" \"斧\" \"select_label_3\"\nわたくしのキラーズ『梓弓』は\nどんな武器でしたか？\n"
+	},
+	{
+		"ID": 2203,
+		"unitID": 2400611,
+		"questionID": 9400603,
+		"script": ";;柴田勘十郎,3\n# face %(unit_a)s \"normal\"\n# voice 4006 \"azusa_0001\"\n@梓弓\nマスター\nこの方角から帰るのは\nあまりよろしくありません\n\n@梓弓\nちょっと回り道をしませんか？\n\n# face %(unit_a)s \"smile\"\n# voice 4006 \"azusa_0004\"\n@梓弓\n…そうだ、回り道ついでに\nちょっと余興など\nいかがでしょう？\n\n@梓弓\nわたくしのことに関して、\nこれから問題を出します\n当てて下さると嬉しいです\n\n# voice 4006 \"azusa_0036\"\n@梓弓\n準備はよろしいですか？\nでは、まいります…\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたくしのキラーズ『梓弓』の\n有名な作り手と言えば\nどなたでしょう？\n\n# se \"SE_0734\"\n# select \"伊予大掾勝国\" \"select_label_1\" \"長船秀光\" \"select_label_2\" \"柴田勘十郎\" \"select_label_3\"\nわたくしのキラーズ『梓弓』の\n有名な作り手と言えば\nどなたでしょう？\n"
+	},
+	{
+		"ID": 2204,
+		"unitID": 2400611,
+		"questionID": 9400604,
+		"script": ";;梓巫女,1\n# face %(unit_a)s \"normal\"\n# voice 4006 \"azusa_0001\"\n@梓弓\nマスター\nこの方角から帰るのは\nあまりよろしくありません\n\n@梓弓\nちょっと回り道をしませんか？\n\n# face %(unit_a)s \"smile\"\n# voice 4006 \"azusa_0004\"\n@梓弓\n…そうだ、回り道ついでに\nちょっと余興など\nいかがでしょう？\n\n@梓弓\nわたくしのことに関して、\nこれから問題を出します\n当てて下さると嬉しいです\n\n# voice 4006 \"azusa_0036\"\n@梓弓\n準備はよろしいですか？\nでは、まいります…\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたくしのキラーズ『梓弓』を\n用いる祈祷師は\nなんと呼ばれるでしょう？\n\n# se \"SE_0734\"\n# select \"梓巫女\" \"select_label_1\" \"梓みちよ\" \"select_label_2\" \"梓2号\" \"select_label_3\"\nわたくしのキラーズ『梓弓』を\n用いる祈祷師は\nなんと呼ばれるでしょう？\n"
+	},
+	{
+		"ID": 2205,
+		"unitID": 2400611,
+		"questionID": 9400605,
+		"script": ";;アズサの木の枝,2\n# face %(unit_a)s \"normal\"\n# voice 4006 \"azusa_0001\"\n@梓弓\nマスター\nこの方角から帰るのは\nあまりよろしくありません\n\n@梓弓\nちょっと回り道をしませんか？\n\n# face %(unit_a)s \"smile\"\n# voice 4006 \"azusa_0004\"\n@梓弓\n…そうだ、回り道ついでに\nちょっと余興など\nいかがでしょう？\n\n@梓弓\nわたくしのことに関して、\nこれから問題を出します\n当てて下さると嬉しいです\n\n# voice 4006 \"azusa_0036\"\n@梓弓\n準備はよろしいですか？\nでは、まいります…\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたくしのキラーズ\n『梓弓』を作るための\n材料はなんでしょう？\n\n# se \"SE_0734\"\n# select \"アズサの木の幹\" \"select_label_1\" \"アズサの木の枝\" \"select_label_2\" \"アズサの木の根\" \"select_label_3\"\nわたくしのキラーズ\n『梓弓』を作るための\n材料はなんでしょう？\n"
+	},
+	{
+		"ID": 2206,
+		"unitID": 2400611,
+		"questionID": 9400606,
+		"script": ";;渡り巫女,3\n# face %(unit_a)s \"normal\"\n# voice 4006 \"azusa_0001\"\n@梓弓\nマスター\nこの方角から帰るのは\nあまりよろしくありません\n\n@梓弓\nちょっと回り道をしませんか？\n\n# face %(unit_a)s \"smile\"\n# voice 4006 \"azusa_0004\"\n@梓弓\n…そうだ、回り道ついでに\nちょっと余興など\nいかがでしょう？\n\n@梓弓\nわたくしのことに関して、\nこれから問題を出します\n当てて下さると嬉しいです\n\n# voice 4006 \"azusa_0036\"\n@梓弓\n準備はよろしいですか？\nでは、まいります…\n;;---------------------------------\n\n@%(unitName:unit_a)s\n梓巫女は、神社に属さない立場で\nあることが主であったようですが\nそうした巫女をなんと呼ぶでしょう？\n\n# se \"SE_0734\"\n# select \"はぐれ巫女\" \"select_label_1\" \"さすらい巫女\" \"select_label_2\" \"渡り巫女\" \"select_label_3\"\n梓巫女は、神社に属さない立場で\nあることが主であったようですが\nそうした巫女をなんと呼ぶでしょう？\n"
+	},
+	{
+		"ID": 2207,
+		"unitID": 2400611,
+		"questionID": 9400607,
+		"script": ";;伏見稲荷大社,1\n# face %(unit_a)s \"normal\"\n# voice 4006 \"azusa_0001\"\n@梓弓\nマスター\nこの方角から帰るのは\nあまりよろしくありません\n\n@梓弓\nちょっと回り道をしませんか？\n\n# face %(unit_a)s \"smile\"\n# voice 4006 \"azusa_0004\"\n@梓弓\n…そうだ、回り道ついでに\nちょっと余興など\nいかがでしょう？\n\n@梓弓\nわたくしのことに関して、\nこれから問題を出します\n当てて下さると嬉しいです\n\n# voice 4006 \"azusa_0036\"\n@梓弓\n準備はよろしいですか？\nでは、まいります…\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたくしのキラーズ『梓弓』を\n用いる奉射祭が行われる\n神社はどこでしょう？\n\n# se \"SE_0734\"\n# select \"伏見稲荷大社\" \"select_label_1\" \"出雲大社\" \"select_label_2\" \"明治神宮\" \"select_label_3\"\nわたくしのキラーズ『梓弓』を\n用いる奉射祭が行われる\n神社はどこでしょう？\n"
+	},
+	{
+		"ID": 2208,
+		"unitID": 2400611,
+		"questionID": 9400608,
+		"script": ";;鳴弦,2\n# face %(unit_a)s \"normal\"\n# voice 4006 \"azusa_0001\"\n@梓弓\nマスター\nこの方角から帰るのは\nあまりよろしくありません\n\n@梓弓\nちょっと回り道をしませんか？\n\n# face %(unit_a)s \"smile\"\n# voice 4006 \"azusa_0004\"\n@梓弓\n…そうだ、回り道ついでに\nちょっと余興など\nいかがでしょう？\n\n@梓弓\nわたくしのことに関して、\nこれから問題を出します\n当てて下さると嬉しいです\n\n# voice 4006 \"azusa_0036\"\n@梓弓\n準備はよろしいですか？\nでは、まいります…\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたくしのキラーズ『梓弓』を\n神事で用いる場合、魔除けとして\n弓を引きますが、これをなにと言う？\n\n# se \"SE_0734\"\n# select \"独奏\" \"select_label_1\" \"鳴弦\" \"select_label_2\" \"空射\" \"select_label_3\"\nわたくしのキラーズ『梓弓』を\n神事で用いる場合、魔除けとして\n弓を引きますが、これをなにと言う？\n"
+	},
+	{
+		"ID": 2209,
+		"unitID": 2400611,
+		"questionID": 9400609,
+		"script": ";;つづら,3\n# face %(unit_a)s \"normal\"\n# voice 4006 \"azusa_0001\"\n@梓弓\nマスター\nこの方角から帰るのは\nあまりよろしくありません\n\n@梓弓\nちょっと回り道をしませんか？\n\n# face %(unit_a)s \"smile\"\n# voice 4006 \"azusa_0004\"\n@梓弓\n…そうだ、回り道ついでに\nちょっと余興など\nいかがでしょう？\n\n@梓弓\nわたくしのことに関して、\nこれから問題を出します\n当てて下さると嬉しいです\n\n# voice 4006 \"azusa_0036\"\n@梓弓\n準備はよろしいですか？\nでは、まいります…\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたくしのキラーズ『梓弓』を\n持ち運ぶのに使われるのは\n次のうちどれでしょう？\n\n# se \"SE_0734\"\n# select \"米びつ\" \"select_label_1\" \"千両箱\" \"select_label_2\" \"つづら\" \"select_label_3\"\nわたくしのキラーズ『梓弓』を\n持ち運ぶのに使われるのは\n次のうちどれでしょう？\n"
+	},
+	{
+		"ID": 2210,
+		"unitID": 2400611,
+		"questionID": 9400610,
+		"script": ";;小弓,1\n# face %(unit_a)s \"normal\"\n# voice 4006 \"azusa_0001\"\n@梓弓\nマスター\nこの方角から帰るのは\nあまりよろしくありません\n\n@梓弓\nちょっと回り道をしませんか？\n\n# face %(unit_a)s \"smile\"\n# voice 4006 \"azusa_0004\"\n@梓弓\n…そうだ、回り道ついでに\nちょっと余興など\nいかがでしょう？\n\n@梓弓\nわたくしのことに関して、\nこれから問題を出します\n当てて下さると嬉しいです\n\n# voice 4006 \"azusa_0036\"\n@梓弓\n準備はよろしいですか？\nでは、まいります…\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたくしのキラーズ『梓弓』は\nどのような形の弓でしょう？\n\n# se \"SE_0734\"\n# select \"小弓\" \"select_label_1\" \"複合弓\" \"select_label_2\" \"大弓\" \"select_label_3\"\nわたくしのキラーズ『梓弓』は\nどのような形の弓でしょう？\n"
+	},
+	{
+		"ID": 2211,
+		"unitID": 2400611,
+		"questionID": 9400611,
+		"script": ";;風水,1\n# face %(unit_a)s \"normal\"\n# voice 4006 \"azusa_0001\"\n@梓弓\nマスター…\n少々お尋ねしたいことが\nあるのです\n\n@梓弓\nあなた様がわたくしの\nマスターになられて、\nどれぐらい経ったでしょうか？\n\n# eye %(unit_a)s \"close\"\n@梓弓\nわたくしのことは\nどれぐらいご存じで\nいらっしゃいますか？\n\n# eye %(unit_a)s \"normal\"\n@梓弓\nわたくし、とても気になります…\n\n# face %(unit_a)s \"smile\"\n# voice 4006 \"azusa_0003\"\n@梓弓\n…ですので、不躾とは思いますが\nここでちょっと\nお伺いさせていただきますね\n\n# voice 4006 \"azusa_0036\"\n@梓弓\nわたくしに関しての問いです\nよろしいですか…？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたくしの趣味は\nなんだったでしょう？\n\n# se \"SE_0734\"\n# select \"風水\" \"select_label_1\" \"詩吟\" \"select_label_2\" \"神楽\" \"select_label_3\"\nわたくしの趣味は\nなんだったでしょう？\n"
+	},
+	{
+		"ID": 2212,
+		"unitID": 2400611,
+		"questionID": 9400612,
+		"script": ";;うお座,2\n# face %(unit_a)s \"normal\"\n# voice 4006 \"azusa_0001\"\n@梓弓\nマスター…\n少々お尋ねしたいことが\nあるのです\n\n@梓弓\nあなた様がわたくしの\nマスターになられて、\nどれぐらい経ったでしょうか？\n\n# eye %(unit_a)s \"close\"\n@梓弓\nわたくしのことは\nどれぐらいご存じで\nいらっしゃいますか？\n\n# eye %(unit_a)s \"normal\"\n@梓弓\nわたくし、とても気になります…\n\n# face %(unit_a)s \"smile\"\n# voice 4006 \"azusa_0003\"\n@梓弓\n…ですので、不躾とは思いますが\nここでちょっと\nお伺いさせていただきますね\n\n# voice 4006 \"azusa_0036\"\n@梓弓\nわたくしに関しての問いです\nよろしいですか…？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたくしの星座はなに座ですか？\n\n# se \"SE_0734\"\n# select \"おとめ座\" \"select_label_1\" \"うお座\" \"select_label_2\" \"みずがめ座\" \"select_label_3\"\nわたくしの星座はなに座ですか？\n"
+	},
+	{
+		"ID": 2213,
+		"unitID": 2400611,
+		"questionID": 9400613,
+		"script": ";;甲斐国,3\n# face %(unit_a)s \"normal\"\n# voice 4006 \"azusa_0001\"\n@梓弓\nマスター…\n少々お尋ねしたいことが\nあるのです\n\n@梓弓\nあなた様がわたくしの\nマスターになられて、\nどれぐらい経ったでしょうか？\n\n# eye %(unit_a)s \"close\"\n@梓弓\nわたくしのことは\nどれぐらいご存じで\nいらっしゃいますか？\n\n# eye %(unit_a)s \"normal\"\n@梓弓\nわたくし、とても気になります…\n\n# face %(unit_a)s \"smile\"\n# voice 4006 \"azusa_0003\"\n@梓弓\n…ですので、不躾とは思いますが\nここでちょっと\nお伺いさせていただきますね\n\n# voice 4006 \"azusa_0036\"\n@梓弓\nわたくしに関しての問いです\nよろしいですか…？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたくしの出身地はどこですか？\n…え、ヒントですか？\n風林火山のあのお方の地元ですよ\n\n# se \"SE_0734\"\n# select \"薩摩国\" \"select_label_1\" \"越後国\" \"select_label_2\" \"甲斐国\" \"select_label_3\"\nわたくしの出身地はどこですか？\n…え、ヒントですか？\n風林火山のあのお方の地元ですよ\n"
+	},
+	{
+		"ID": 2214,
+		"unitID": 2400611,
+		"questionID": 9400614,
+		"script": ";;O型,1\n# face %(unit_a)s \"normal\"\n# voice 4006 \"azusa_0001\"\n@梓弓\nマスター…\n少々お尋ねしたいことが\nあるのです\n\n@梓弓\nあなた様がわたくしの\nマスターになられて、\nどれぐらい経ったでしょうか？\n\n# eye %(unit_a)s \"close\"\n@梓弓\nわたくしのことは\nどれぐらいご存じで\nいらっしゃいますか？\n\n# eye %(unit_a)s \"normal\"\n@梓弓\nわたくし、とても気になります…\n\n# face %(unit_a)s \"smile\"\n# voice 4006 \"azusa_0003\"\n@梓弓\n…ですので、不躾とは思いますが\nここでちょっと\nお伺いさせていただきますね\n\n# voice 4006 \"azusa_0036\"\n@梓弓\nわたくしに関しての問いです\nよろしいですか…？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたくしの血液型は\nご存じですか？\n\n# se \"SE_0734\"\n# select \"O型\" \"select_label_1\" \"B型\" \"select_label_2\" \"A型\" \"select_label_3\"\nわたくしの血液型は\nご存じですか？\n"
+	},
+	{
+		"ID": 2215,
+		"unitID": 2400611,
+		"questionID": 9400615,
+		"script": ";;占い,2\n# face %(unit_a)s \"normal\"\n# voice 4006 \"azusa_0001\"\n@梓弓\nマスター…\n少々お尋ねしたいことが\nあるのです\n\n@梓弓\nあなた様がわたくしの\nマスターになられて、\nどれぐらい経ったでしょうか？\n\n# eye %(unit_a)s \"close\"\n@梓弓\nわたくしのことは\nどれぐらいご存じで\nいらっしゃいますか？\n\n# eye %(unit_a)s \"normal\"\n@梓弓\nわたくし、とても気になります…\n\n# face %(unit_a)s \"smile\"\n# voice 4006 \"azusa_0003\"\n@梓弓\n…ですので、不躾とは思いますが\nここでちょっと\nお伺いさせていただきますね\n\n# voice 4006 \"azusa_0036\"\n@梓弓\nわたくしに関しての問いです\nよろしいですか…？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたくしの好きなものは\nなんでしょう？\nいつもやってるあれですよ♪\n\n# se \"SE_0734\"\n# select \"筋トレ\" \"select_label_1\" \"占い\" \"select_label_2\" \"潜水\" \"select_label_3\"\nわたくしの好きなものは\nなんでしょう？\nいつもやってるあれですよ♪\n"
+	},
+	{
+		"ID": 2216,
+		"unitID": 2400611,
+		"questionID": 9400616,
+		"script": ";;トランス状態,3\n# face %(unit_a)s \"normal\"\n# voice 4006 \"azusa_0001\"\n@梓弓\nマスター…\n少々お尋ねしたいことが\nあるのです\n\n@梓弓\nあなた様がわたくしの\nマスターになられて、\nどれぐらい経ったでしょうか？\n\n# eye %(unit_a)s \"close\"\n@梓弓\nわたくしのことは\nどれぐらいご存じで\nいらっしゃいますか？\n\n# eye %(unit_a)s \"normal\"\n@梓弓\nわたくし、とても気になります…\n\n# face %(unit_a)s \"smile\"\n# voice 4006 \"azusa_0003\"\n@梓弓\n…ですので、不躾とは思いますが\nここでちょっと\nお伺いさせていただきますね\n\n# voice 4006 \"azusa_0036\"\n@梓弓\nわたくしに関しての問いです\nよろしいですか…？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたくしは時々とある状態に\n陥ってしまうことがあります\nそれはなんでしょう？\n\n# se \"SE_0734\"\n# select \"仮死状態\" \"select_label_1\" \"フィーバー状態\" \"select_label_2\" \"トランス状態\" \"select_label_3\"\nわたくしは時々とある状態に\n陥ってしまうことがあります\nそれはなんでしょう？\n"
+	},
+	{
+		"ID": 2217,
+		"unitID": 2400611,
+		"questionID": 9400617,
+		"script": ";;与一,1\n# face %(unit_a)s \"normal\"\n# voice 4006 \"azusa_0001\"\n@梓弓\nマスター…\n少々お尋ねしたいことが\nあるのです\n\n@梓弓\nあなた様がわたくしの\nマスターになられて、\nどれぐらい経ったでしょうか？\n\n# eye %(unit_a)s \"close\"\n@梓弓\nわたくしのことは\nどれぐらいご存じで\nいらっしゃいますか？\n\n# eye %(unit_a)s \"normal\"\n@梓弓\nわたくし、とても気になります…\n\n# face %(unit_a)s \"smile\"\n# voice 4006 \"azusa_0003\"\n@梓弓\n…ですので、不躾とは思いますが\nここでちょっと\nお伺いさせていただきますね\n\n# voice 4006 \"azusa_0036\"\n@梓弓\nわたくしに関しての問いです\nよろしいですか…？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたくしには親友がいます\nどなただと思いますか？\n\n# se \"SE_0734\"\n# select \"与一\" \"select_label_1\" \"雑賀\" \"select_label_2\" \"蜻蛉切\" \"select_label_3\"\nわたくしには親友がいます\nどなただと思いますか？\n"
+	},
+	{
+		"ID": 2218,
+		"unitID": 2400611,
+		"questionID": 9400618,
+		"script": ";;160cm,2\n# face %(unit_a)s \"normal\"\n# voice 4006 \"azusa_0001\"\n@梓弓\nマスター…\n少々お尋ねしたいことが\nあるのです\n\n@梓弓\nあなた様がわたくしの\nマスターになられて、\nどれぐらい経ったでしょうか？\n\n# eye %(unit_a)s \"close\"\n@梓弓\nわたくしのことは\nどれぐらいご存じで\nいらっしゃいますか？\n\n# eye %(unit_a)s \"normal\"\n@梓弓\nわたくし、とても気になります…\n\n# face %(unit_a)s \"smile\"\n# voice 4006 \"azusa_0003\"\n@梓弓\n…ですので、不躾とは思いますが\nここでちょっと\nお伺いさせていただきますね\n\n# voice 4006 \"azusa_0036\"\n@梓弓\nわたくしに関しての問いです\nよろしいですか…？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたくしの身長は\nどれぐらいでしょう？\n\n# se \"SE_0734\"\n# select \"141cm\" \"select_label_1\" \"160cm\" \"select_label_2\" \"161cm\" \"select_label_3\"\nわたくしの身長は\nどれぐらいでしょう？\n"
+	},
+	{
+		"ID": 2219,
+		"unitID": 2400611,
+		"questionID": 9400619,
+		"script": ";;八咫鏡,3\n# face %(unit_a)s \"normal\"\n# voice 4006 \"azusa_0001\"\n@梓弓\nマスター…\n少々お尋ねしたいことが\nあるのです\n\n@梓弓\nあなた様がわたくしの\nマスターになられて、\nどれぐらい経ったでしょうか？\n\n# eye %(unit_a)s \"close\"\n@梓弓\nわたくしのことは\nどれぐらいご存じで\nいらっしゃいますか？\n\n# eye %(unit_a)s \"normal\"\n@梓弓\nわたくし、とても気になります…\n\n# face %(unit_a)s \"smile\"\n# voice 4006 \"azusa_0003\"\n@梓弓\n…ですので、不躾とは思いますが\nここでちょっと\nお伺いさせていただきますね\n\n# voice 4006 \"azusa_0036\"\n@梓弓\nわたくしに関しての問いです\nよろしいですか…？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたくしと仲の良い\nキラープリンセスは\nこの中ではどなたでしょう？\n\n# se \"SE_0734\"\n# select \"芭蕉扇\" \"select_label_1\" \"天沼矛\" \"select_label_2\" \"八咫鏡\" \"select_label_3\"\nわたくしと仲の良い\nキラープリンセスは\nこの中ではどなたでしょう？\n"
+	},
+	{
+		"ID": 2220,
+		"unitID": 2400611,
+		"questionID": 9400620,
+		"script": ";;3月20日,1\n# face %(unit_a)s \"normal\"\n# voice 4006 \"azusa_0001\"\n@梓弓\nマスター…\n少々お尋ねしたいことが\nあるのです\n\n@梓弓\nあなた様がわたくしの\nマスターになられて、\nどれぐらい経ったでしょうか？\n\n# eye %(unit_a)s \"close\"\n@梓弓\nわたくしのことは\nどれぐらいご存じで\nいらっしゃいますか？\n\n# eye %(unit_a)s \"normal\"\n@梓弓\nわたくし、とても気になります…\n\n# face %(unit_a)s \"smile\"\n# voice 4006 \"azusa_0003\"\n@梓弓\n…ですので、不躾とは思いますが\nここでちょっと\nお伺いさせていただきますね\n\n# voice 4006 \"azusa_0036\"\n@梓弓\nわたくしに関しての問いです\nよろしいですか…？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたくしの誕生日は\n何月何日ですか？\n\n# se \"SE_0734\"\n# select \"3月20日\" \"select_label_1\" \"2月19日\" \"select_label_2\" \"3月3日\" \"select_label_3\"\nわたくしの誕生日は\n何月何日ですか？\n"
+	},
+	{
+		"ID": 2221,
+		"unitID": 2400611,
+		"questionID": 9400621,
+		"script": ";;アークナイト,1\n# face %(unit_a)s \"normal\"\n# voice 4006 \"azusa_0001\"\n@梓弓\n…マスター、\n少々よろしいでしょうか？\n\n@梓弓\nあなた様がわたくしのことを\nどれぐらいご存じか、\n確かめさせて下さい\n\n@梓弓\nこれから、わたくしに関する\n問題を出させていただきます\n\n# face %(unit_a)s \"smile\"\n# voice 4006 \"azusa_0004\"\n@梓弓\n正解して下されば嬉しいです\nでは…よろしいですか？\n\n# voice 4006 \"azusa_0036\"\n@梓弓\nはい…では、始めます！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたくしが☆4の時のジョブは\nいったいなんでしょうか？\n\n# se \"SE_0734\"\n# select \"アークナイト\" \"select_label_1\" \"デュークナイト\" \"select_label_2\" \"フェニックスナイト\" \"select_label_3\"\nわたくしが☆4の時のジョブは\nいったいなんでしょうか？\n"
+	},
+	{
+		"ID": 2222,
+		"unitID": 2400611,
+		"questionID": 9400622,
+		"script": ";;アークキャバリー,2\n# face %(unit_a)s \"normal\"\n# voice 4006 \"azusa_0001\"\n@梓弓\n…マスター、\n少々よろしいでしょうか？\n\n@梓弓\nあなた様がわたくしのことを\nどれぐらいご存じか、\n確かめさせて下さい\n\n@梓弓\nこれから、わたくしに関する\n問題を出させていただきます\n\n# face %(unit_a)s \"smile\"\n# voice 4006 \"azusa_0004\"\n@梓弓\n正解して下されば嬉しいです\nでは…よろしいですか？\n\n# voice 4006 \"azusa_0036\"\n@梓弓\nはい…では、始めます！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたくしが☆5の時の\nジョブはなんでしたでしょう？\n\n# se \"SE_0734\"\n# select \"アークイェーガー\" \"select_label_1\" \"アークキャバリー\" \"select_label_2\" \"アークナイト\" \"select_label_3\"\nわたくしが☆5の時の\nジョブはなんでしたでしょう？\n"
+	},
+	{
+		"ID": 2223,
+		"unitID": 2400611,
+		"questionID": 9400623,
+		"script": ";;春風弓神の寵愛,3\n# face %(unit_a)s \"normal\"\n# voice 4006 \"azusa_0001\"\n@梓弓\n…マスター、\n少々よろしいでしょうか？\n\n@梓弓\nあなた様がわたくしのことを\nどれぐらいご存じか、\n確かめさせて下さい\n\n@梓弓\nこれから、わたくしに関する\n問題を出させていただきます\n\n# face %(unit_a)s \"smile\"\n# voice 4006 \"azusa_0004\"\n@梓弓\n正解して下されば嬉しいです\nでは…よろしいですか？\n\n# voice 4006 \"azusa_0036\"\n@梓弓\nはい…では、始めます！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたくしの☆5の\nリーダースキルは\nなんだったでしょう？\n\n# se \"SE_0734\"\n# select \"戦場の追風\" \"select_label_1\" \"春風剣神の祝舞\" \"select_label_2\" \"春風弓神の寵愛\" \"select_label_3\"\nわたくしの☆5の\nリーダースキルは\nなんだったでしょう？\n"
+	},
+	{
+		"ID": 2224,
+		"unitID": 2400611,
+		"questionID": 9400624,
+		"script": ";;春風弓神の微笑,1\n# face %(unit_a)s \"normal\"\n# voice 4006 \"azusa_0001\"\n@梓弓\n…マスター、\n少々よろしいでしょうか？\n\n@梓弓\nあなた様がわたくしのことを\nどれぐらいご存じか、\n確かめさせて下さい\n\n@梓弓\nこれから、わたくしに関する\n問題を出させていただきます\n\n# face %(unit_a)s \"smile\"\n# voice 4006 \"azusa_0004\"\n@梓弓\n正解して下されば嬉しいです\nでは…よろしいですか？\n\n# voice 4006 \"azusa_0036\"\n@梓弓\nはい…では、始めます！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたくしの☆6の\nリーダースキルはなんでしょう？\n\n# se \"SE_0734\"\n# select \"春風弓神の微笑\" \"select_label_1\" \"春風杖神の寵愛\" \"select_label_2\" \"春風剣神の寵愛\" \"select_label_3\"\nわたくしの☆6の\nリーダースキルはなんでしょう？\n"
+	},
+	{
+		"ID": 2225,
+		"unitID": 2400611,
+		"questionID": 9400625,
+		"script": ";;いない,2\n# face %(unit_a)s \"normal\"\n# voice 4006 \"azusa_0001\"\n@梓弓\n…マスター、\n少々よろしいでしょうか？\n\n@梓弓\nあなた様がわたくしのことを\nどれぐらいご存じか、\n確かめさせて下さい\n\n@梓弓\nこれから、わたくしに関する\n問題を出させていただきます\n\n# face %(unit_a)s \"smile\"\n# voice 4006 \"azusa_0004\"\n@梓弓\n正解して下されば嬉しいです\nでは…よろしいですか？\n\n# voice 4006 \"azusa_0036\"\n@梓弓\nはい…では、始めます！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたくしのライバルは\nいったい誰でしょう？\n\n# se \"SE_0734\"\n# select \"アルテミス\" \"select_label_1\" \"いない\" \"select_label_2\" \"アポロン\" \"select_label_3\"\nわたくしのライバルは\nいったい誰でしょう？\n"
+	},
+	{
+		"ID": 2226,
+		"unitID": 2400611,
+		"questionID": 9400626,
+		"script": ";;ボウナイト,3\n# face %(unit_a)s \"normal\"\n# voice 4006 \"azusa_0001\"\n@梓弓\n…マスター、\n少々よろしいでしょうか？\n\n@梓弓\nあなた様がわたくしのことを\nどれぐらいご存じか、\n確かめさせて下さい\n\n@梓弓\nこれから、わたくしに関する\n問題を出させていただきます\n\n# face %(unit_a)s \"smile\"\n# voice 4006 \"azusa_0004\"\n@梓弓\n正解して下されば嬉しいです\nでは…よろしいですか？\n\n# voice 4006 \"azusa_0036\"\n@梓弓\nはい…では、始めます！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたくしが☆3の時は\nどんなジョブでしたか？\n\n# se \"SE_0734\"\n# select \"アーチャー\" \"select_label_1\" \"イェーガー\" \"select_label_2\" \"ボウナイト\" \"select_label_3\"\nわたくしが☆3の時は\nどんなジョブでしたか？\n"
+	},
+	{
+		"ID": 2227,
+		"unitID": 2400611,
+		"questionID": 9400627,
+		"script": ";;いない,1\n# face %(unit_a)s \"normal\"\n# voice 4006 \"azusa_0001\"\n@梓弓\n…マスター、\n少々よろしいでしょうか？\n\n@梓弓\nあなた様がわたくしのことを\nどれぐらいご存じか、\n確かめさせて下さい\n\n@梓弓\nこれから、わたくしに関する\n問題を出させていただきます\n\n# face %(unit_a)s \"smile\"\n# voice 4006 \"azusa_0004\"\n@梓弓\n正解して下されば嬉しいです\nでは…よろしいですか？\n\n# voice 4006 \"azusa_0036\"\n@梓弓\nはい…では、始めます！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたくしが尊敬している\nキラープリンセスは誰でしょう？\n\n# se \"SE_0734\"\n# select \"いない\" \"select_label_1\" \"エロース\" \"select_label_2\" \"ラブリュス\" \"select_label_3\"\nわたくしが尊敬している\nキラープリンセスは誰でしょう？\n"
+	},
+	{
+		"ID": 2228,
+		"unitID": 2400611,
+		"questionID": 9400628,
+		"script": ";;清廉なる頌春の弓,2\n# face %(unit_a)s \"normal\"\n# voice 4006 \"azusa_0001\"\n@梓弓\n…マスター、\n少々よろしいでしょうか？\n\n@梓弓\nあなた様がわたくしのことを\nどれぐらいご存じか、\n確かめさせて下さい\n\n@梓弓\nこれから、わたくしに関する\n問題を出させていただきます\n\n# face %(unit_a)s \"smile\"\n# voice 4006 \"azusa_0004\"\n@梓弓\n正解して下されば嬉しいです\nでは…よろしいですか？\n\n# voice 4006 \"azusa_0036\"\n@梓弓\nはい…では、始めます！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたくしの☆5の\n固有スキルはなんでしょう？\n\n# se \"SE_0734\"\n# select \"春光樂樂【弓姫】\" \"select_label_1\" \"清廉なる頌春の弓\" \"select_label_2\" \"新春來福\" \"select_label_3\"\nわたくしの☆5の\n固有スキルはなんでしょう？\n"
+	},
+	{
+		"ID": 2229,
+		"unitID": 2400611,
+		"questionID": 9400629,
+		"script": ";;守陣形・弓,3\n# face %(unit_a)s \"normal\"\n# voice 4006 \"azusa_0001\"\n@梓弓\n…マスター、\n少々よろしいでしょうか？\n\n@梓弓\nあなた様がわたくしのことを\nどれぐらいご存じか、\n確かめさせて下さい\n\n@梓弓\nこれから、わたくしに関する\n問題を出させていただきます\n\n# face %(unit_a)s \"smile\"\n# voice 4006 \"azusa_0004\"\n@梓弓\n正解して下されば嬉しいです\nでは…よろしいですか？\n\n# voice 4006 \"azusa_0036\"\n@梓弓\nはい…では、始めます！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたくしが最初に覚える\nスキルはなんでしょう？\n\n# se \"SE_0734\"\n# select \"破魔の弦\" \"select_label_1\" \"春光樂樂【弓姫】\" \"select_label_2\" \"守陣形・弓\" \"select_label_3\"\nわたくしが最初に覚える\nスキルはなんでしょう？\n"
+	},
+	{
+		"ID": 2230,
+		"unitID": 2400611,
+		"questionID": 9400630,
+		"script": ";;尊崇なる信心の弓,1\n# face %(unit_a)s \"normal\"\n# voice 4006 \"azusa_0001\"\n@梓弓\n…マスター、\n少々よろしいでしょうか？\n\n@梓弓\nあなた様がわたくしのことを\nどれぐらいご存じか、\n確かめさせて下さい\n\n@梓弓\nこれから、わたくしに関する\n問題を出させていただきます\n\n# face %(unit_a)s \"smile\"\n# voice 4006 \"azusa_0004\"\n@梓弓\n正解して下されば嬉しいです\nでは…よろしいですか？\n\n# voice 4006 \"azusa_0036\"\n@梓弓\nはい…では、始めます！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたくしの☆6の\n固有スキルはなんでしょう？\n\n# se \"SE_0734\"\n# select \"尊崇なる信心の弓\" \"select_label_1\" \"尊皇なる信心の弓\" \"select_label_2\" \"尊敬なる信心の弓\" \"select_label_3\"\nわたくしの☆6の\n固有スキルはなんでしょう？\n"
+	},
+	{
+		"ID": 2231,
+		"unitID": 2400611,
+		"questionID": 9400631,
+		"script": ";;鍛錬,1\n# face %(unit_a)s \"smile\"\n# voice 4006 \"azusa_0001\"\n@梓弓\nマスター、わたくし今、\nちょっとしたおまじないを\nしたんですよ\n\n# face %(unit_a)s \"normal\"\n@梓弓\nでも…\nそれを成就させるためには、\nあなた様の協力も必要なのです\n\n@梓弓\n何をすればいいか？\n簡単なことです\n\n# face %(unit_a)s \"smile\"\n# voice 4006 \"azusa_0004\"\n@梓弓\nこれから、わたくしに関する\n問題を出しますので、\n正解して下さい\n\n@梓弓\n見事正解すれば、\nおまじないは成就です\n\n# voice 4006 \"azusa_0036\"\n@梓弓\nでは…まいりますよ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたくしの親友である\n与一の趣味ってなんでしょう？\n\n# se \"SE_0734\"\n# select \"鍛錬\" \"select_label_1\" \"食っちゃ寝\" \"select_label_2\" \"狩り\" \"select_label_3\"\nわたくしの親友である\n与一の趣味ってなんでしょう？\n"
+	},
+	{
+		"ID": 2232,
+		"unitID": 2400611,
+		"questionID": 9400632,
+		"script": ";;与一,2\n# face %(unit_a)s \"smile\"\n# voice 4006 \"azusa_0001\"\n@梓弓\nマスター、わたくし今、\nちょっとしたおまじないを\nしたんですよ\n\n# face %(unit_a)s \"normal\"\n@梓弓\nでも…\nそれを成就させるためには、\nあなた様の協力も必要なのです\n\n@梓弓\n何をすればいいか？\n簡単なことです\n\n# face %(unit_a)s \"smile\"\n# voice 4006 \"azusa_0004\"\n@梓弓\nこれから、わたくしに関する\n問題を出しますので、\n正解して下さい\n\n@梓弓\n見事正解すれば、\nおまじないは成就です\n\n# voice 4006 \"azusa_0036\"\n@梓弓\nでは…まいりますよ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたくしと親友の与一は\nどちらが背が高いでしょう？\n\n# se \"SE_0734\"\n# select \"梓弓\" \"select_label_1\" \"与一\" \"select_label_2\" \"同じ\" \"select_label_3\"\nわたくしと親友の与一は\nどちらが背が高いでしょう？\n"
+	},
+	{
+		"ID": 2233,
+		"unitID": 2400611,
+		"questionID": 9400633,
+		"script": ";;金,3\n# face %(unit_a)s \"smile\"\n# voice 4006 \"azusa_0001\"\n@梓弓\nマスター、わたくし今、\nちょっとしたおまじないを\nしたんですよ\n\n# face %(unit_a)s \"normal\"\n@梓弓\nでも…\nそれを成就させるためには、\nあなた様の協力も必要なのです\n\n@梓弓\n何をすればいいか？\n簡単なことです\n\n# face %(unit_a)s \"smile\"\n# voice 4006 \"azusa_0004\"\n@梓弓\nこれから、わたくしに関する\n問題を出しますので、\n正解して下さい\n\n@梓弓\n見事正解すれば、\nおまじないは成就です\n\n# voice 4006 \"azusa_0036\"\n@梓弓\nでは…まいりますよ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたくしの出身地\n甲斐国の特産品は？\n\n# se \"SE_0734\"\n# select \"パール\" \"select_label_1\" \"銀\" \"select_label_2\" \"金\" \"select_label_3\"\nわたくしの出身地\n甲斐国の特産品は？\n"
+	},
+	{
+		"ID": 2234,
+		"unitID": 2400611,
+		"questionID": 9400634,
+		"script": ";;扇,1\n# face %(unit_a)s \"smile\"\n# voice 4006 \"azusa_0001\"\n@梓弓\nマスター、わたくし今、\nちょっとしたおまじないを\nしたんですよ\n\n# face %(unit_a)s \"normal\"\n@梓弓\nでも…\nそれを成就させるためには、\nあなた様の協力も必要なのです\n\n@梓弓\n何をすればいいか？\n簡単なことです\n\n# face %(unit_a)s \"smile\"\n# voice 4006 \"azusa_0004\"\n@梓弓\nこれから、わたくしに関する\n問題を出しますので、\n正解して下さい\n\n@梓弓\n見事正解すれば、\nおまじないは成就です\n\n# voice 4006 \"azusa_0036\"\n@梓弓\nでは…まいりますよ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたくしの親友である\n与一の好きなものはなんですか？\n\n# se \"SE_0734\"\n# select \"扇\" \"select_label_1\" \"団扇\" \"select_label_2\" \"扇風機\" \"select_label_3\"\nわたくしの親友である\n与一の好きなものはなんですか？\n"
+	},
+	{
+		"ID": 2235,
+		"unitID": 2400611,
+		"questionID": 9400635,
+		"script": ";;,2\n# face %(unit_a)s \"smile\"\n# voice 4006 \"azusa_0001\"\n@梓弓\nマスター、わたくし今、\nちょっとしたおまじないを\nしたんですよ\n\n# face %(unit_a)s \"normal\"\n@梓弓\nでも…\nそれを成就させるためには、\nあなた様の協力も必要なのです\n\n@梓弓\n何をすればいいか？\n簡単なことです\n\n# face %(unit_a)s \"smile\"\n# voice 4006 \"azusa_0004\"\n@梓弓\nこれから、わたくしに関する\n問題を出しますので、\n正解して下さい\n\n@梓弓\n見事正解すれば、\nおまじないは成就です\n\n# voice 4006 \"azusa_0036\"\n@梓弓\nでは…まいりますよ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたくしの親友である\n与一の出身地はどこでしょう？\n\n# se \"SE_0734\"\n# select \"伊豆\" \"select_label_1\" \"那須\" \"select_label_2\" \"下関\" \"select_label_3\"\nわたくしの親友である\n与一の出身地はどこでしょう？\n"
+	},
+	{
+		"ID": 2236,
+		"unitID": 2400611,
+		"questionID": 9400636,
+		"script": ";;黒,3\n# face %(unit_a)s \"smile\"\n# voice 4006 \"azusa_0001\"\n@梓弓\nマスター、わたくし今、\nちょっとしたおまじないを\nしたんですよ\n\n# face %(unit_a)s \"normal\"\n@梓弓\nでも…\nそれを成就させるためには、\nあなた様の協力も必要なのです\n\n@梓弓\n何をすればいいか？\n簡単なことです\n\n# face %(unit_a)s \"smile\"\n# voice 4006 \"azusa_0004\"\n@梓弓\nこれから、わたくしに関する\n問題を出しますので、\n正解して下さい\n\n@梓弓\n見事正解すれば、\nおまじないは成就です\n\n# voice 4006 \"azusa_0036\"\n@梓弓\nでは…まいりますよ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたくしの髪の色は\nなに色でしょう？\n…見ればおわかりですね？\n\n# se \"SE_0734\"\n# select \"赤\" \"select_label_1\" \"白\" \"select_label_2\" \"黒\" \"select_label_3\"\nわたくしの髪の色は\nなに色でしょう？\n…見ればおわかりですね？\n"
+	},
+	{
+		"ID": 2237,
+		"unitID": 2400611,
+		"questionID": 9400637,
+		"script": ";;茶,1\n# face %(unit_a)s \"smile\"\n# voice 4006 \"azusa_0001\"\n@梓弓\nマスター、わたくし今、\nちょっとしたおまじないを\nしたんですよ\n\n# face %(unit_a)s \"normal\"\n@梓弓\nでも…\nそれを成就させるためには、\nあなた様の協力も必要なのです\n\n@梓弓\n何をすればいいか？\n簡単なことです\n\n# face %(unit_a)s \"smile\"\n# voice 4006 \"azusa_0004\"\n@梓弓\nこれから、わたくしに関する\n問題を出しますので、\n正解して下さい\n\n@梓弓\n見事正解すれば、\nおまじないは成就です\n\n# voice 4006 \"azusa_0036\"\n@梓弓\nでは…まいりますよ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたくしの瞳の色は\nなに色でしょう？\n良く見て下さいね？\n\n# se \"SE_0734\"\n# select \"茶\" \"select_label_1\" \"青\" \"select_label_2\" \"橙\" \"select_label_3\"\nわたくしの瞳の色は\nなに色でしょう？\n良く見て下さいね？\n"
+	},
+	{
+		"ID": 2238,
+		"unitID": 2400611,
+		"questionID": 9400638,
+		"script": ";;ナポレオン２世,2\n# face %(unit_a)s \"smile\"\n# voice 4006 \"azusa_0001\"\n@梓弓\nマスター、わたくし今、\nちょっとしたおまじないを\nしたんですよ\n\n# face %(unit_a)s \"normal\"\n@梓弓\nでも…\nそれを成就させるためには、\nあなた様の協力も必要なのです\n\n@梓弓\n何をすればいいか？\n簡単なことです\n\n# face %(unit_a)s \"smile\"\n# voice 4006 \"azusa_0004\"\n@梓弓\nこれから、わたくしに関する\n問題を出しますので、\n正解して下さい\n\n@梓弓\n見事正解すれば、\nおまじないは成就です\n\n# voice 4006 \"azusa_0036\"\n@梓弓\nでは…まいりますよ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたくしと同じ3月20日が\n誕生日の方は次のうち\nどなたでしょうか？\n\n# se \"SE_0734\"\n# select \"レオナルド・ダ・ヴィンチ\" \"select_label_1\" \"ナポレオン２世\" \"select_label_2\" \"バスコ・ダ・ガマ\" \"select_label_3\"\nわたくしと同じ3月20日が\n誕生日の方は次のうち\nどなたでしょうか？\n"
+	},
+	{
+		"ID": 2239,
+		"unitID": 2400611,
+		"questionID": 9400639,
+		"script": ";;Pisces,3\n# face %(unit_a)s \"smile\"\n# voice 4006 \"azusa_0001\"\n@梓弓\nマスター、わたくし今、\nちょっとしたおまじないを\nしたんですよ\n\n# face %(unit_a)s \"normal\"\n@梓弓\nでも…\nそれを成就させるためには、\nあなた様の協力も必要なのです\n\n@梓弓\n何をすればいいか？\n簡単なことです\n\n# face %(unit_a)s \"smile\"\n# voice 4006 \"azusa_0004\"\n@梓弓\nこれから、わたくしに関する\n問題を出しますので、\n正解して下さい\n\n@梓弓\n見事正解すれば、\nおまじないは成就です\n\n# voice 4006 \"azusa_0036\"\n@梓弓\nでは…まいりますよ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたくしの星座…\nうお座の英語読みは\n次のうちどれでしょう？\n\n# se \"SE_0734\"\n# select \"Leo\" \"select_label_1\" \"Aquarius\" \"select_label_2\" \"Pisces\" \"select_label_3\"\nわたくしの星座…\nうお座の英語読みは\n次のうちどれでしょう？\n"
+	},
+	{
+		"ID": 2240,
+		"unitID": 2400611,
+		"questionID": 9400640,
+		"script": ";;日本神話群,1\n# face %(unit_a)s \"smile\"\n# voice 4006 \"azusa_0001\"\n@梓弓\nマスター、わたくし今、\nちょっとしたおまじないを\nしたんですよ\n\n# face %(unit_a)s \"normal\"\n@梓弓\nでも…\nそれを成就させるためには、\nあなた様の協力も必要なのです\n\n@梓弓\n何をすればいいか？\n簡単なことです\n\n# face %(unit_a)s \"smile\"\n# voice 4006 \"azusa_0004\"\n@梓弓\nこれから、わたくしに関する\n問題を出しますので、\n正解して下さい\n\n@梓弓\n見事正解すれば、\nおまじないは成就です\n\n# voice 4006 \"azusa_0036\"\n@梓弓\nでは…まいりますよ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたくしの属するクラスタは\nなんでしょう？\n\n# se \"SE_0734\"\n# select \"日本神話群\" \"select_label_1\" \"ウガリット神話群\" \"select_label_2\" \"シュメール神話群\" \"select_label_3\"\nわたくしの属するクラスタは\nなんでしょう？\n"
+	},
+	{
+		"ID": 2241,
+		"unitID": 2400611,
+		"questionID": 9400641,
+		"script": "\n;;わたくし,1\n# se \"SE_0734\"\n# select \"わたくし\" \"select_label_1\" \"わたし\" \"select_label_2\" \"わらわ\" \"select_label_3\"\n梓弓の一人称は\n次のうちどれ？\n"
+	},
+	{
+		"ID": 2242,
+		"unitID": 2400611,
+		"questionID": 9400642,
+		"script": "\n;;あなた様,2\n# se \"SE_0734\"\n# select \"旦那様\" \"select_label_1\" \"あなた様\" \"select_label_2\" \"御館様\" \"select_label_3\"\n梓弓はアンタのこと、\nなんて呼んでる？\n"
+	},
+	{
+		"ID": 2243,
+		"unitID": 2400611,
+		"questionID": 9400643,
+		"script": "\n;;85,3\n# se \"SE_0734\"\n# select \"77\" \"select_label_1\" \"83\" \"select_label_2\" \"85\" \"select_label_3\"\n梓弓の\nバストサイズがどのくらいか\nアンタ…知ってるの?\n"
+	},
+	{
+		"ID": 2244,
+		"unitID": 2400611,
+		"questionID": 9400644,
+		"script": "\n;;56,1\n# se \"SE_0734\"\n# select \"56\" \"select_label_1\" \"53\" \"select_label_2\" \"59\" \"select_label_3\"\n梓弓の\nウエストサイズがどのくらいか\nアンタ…知ってるの？\n"
+	},
+	{
+		"ID": 2245,
+		"unitID": 2400611,
+		"questionID": 9400645,
+		"script": "\n;;84,2\n# se \"SE_0734\"\n# select \"77\" \"select_label_1\" \"84\" \"select_label_2\" \"83\" \"select_label_3\"\n梓弓の\nヒップサイズがどのくらいか\nアンタ…知ってるの？\n"
+	},
+	{
+		"ID": 2246,
+		"unitID": 2400611,
+		"questionID": 9400646,
+		"script": "\n;;46,3\n# se \"SE_0734\"\n# select \"39\" \"select_label_1\" \"45\" \"select_label_2\" \"46\" \"select_label_3\"\n梓弓の体重は\n次のうちどれ？\n"
+	},
+	{
+		"ID": 2247,
+		"unitID": 2400611,
+		"questionID": 9400647,
+		"script": "\n;;225,1\n# se \"SE_0734\"\n# select \"225\" \"select_label_1\" \"207\" \"select_label_2\" \"216\" \"select_label_3\"\n梓弓の\nバスト＋ウエスト＋ヒップは\nいくつかわかる？\n"
+	},
+	{
+		"ID": 2248,
+		"unitID": 2400611,
+		"questionID": 9400648,
+		"script": "\n;;オレンジ,2\n# se \"SE_0734\"\n# select \"クリムゾン\" \"select_label_1\" \"オレンジ\" \"select_label_2\" \"ヴァイオレット\" \"select_label_3\"\n梓弓の水着の色は\n次のうちどれ？\n"
+	},
+	{
+		"ID": 2249,
+		"unitID": 2400611,
+		"questionID": 9400649,
+		"script": "\n;;42位,3\n# se \"SE_0734\"\n# select \"56位\" \"select_label_1\" \"49位\" \"select_label_2\" \"42位\" \"select_label_3\"\n梓弓は\n第２回人気投票で\n何位だったでしょう？\n"
+	},
+	{
+		"ID": 2250,
+		"unitID": 2400611,
+		"questionID": 9400650,
+		"script": "\n;;茅野愛衣,1\n# se \"SE_0734\"\n# select \"茅野愛衣\" \"select_label_1\" \"日高里菜\" \"select_label_2\" \"名塚佳織\" \"select_label_3\"\n梓弓の声優は誰？\n"
+	}
+]

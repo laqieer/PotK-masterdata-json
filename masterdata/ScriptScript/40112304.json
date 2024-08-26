@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 40112304,
+		"script": "# script \"lisp\"\n# background \"flower_garden\"\n# bgm \"bgm004\" 0\n# body 401121\n# mask 401121 off\n# pos 401121 3\n# textflame 0 0\n@\nあれから数ヶ月が過ぎた…\n\n# textflame 0 0\n@\nこの地に刺さった一本の矢は、\nかつてこの世界で戦った\n少女の証となっていた\n\n@マスター\nまどか…君を救おうと\nまた新たな少女が\nこの世界にやってきたよ\n\n# textflame 0 0\n@\n矢の前に座し、語りかけるマスター\n\n@マスター\nその子の名前は…\n暁美ほむら\n\n@マスター\n…君たちの間に\nどんな事があったかは、\n僕には計り知れないけど…\n\n@マスター\nほむらは…\n君にもう一度会いたいと\n言っている…\n\n@マスター\nそのためなら…この世界を\n壊すことになってしまっても\n構わないとまで…\n\n@マスター\nお願いだ…\n\n@マスター\n彼女を…\n暁美ほむらを\n救ってあげて欲しい…\n\n# textflame 0 0\n@\nマスターの声に反応するかのように、\n矢が鈍い光を放ち始めた…\n\n@マスター\n…！これは…\n\n# select \"君も…ほむらを救いたいの…？\" \"select_label_01\" \"ほむらの力に…なってくれるの…？\" \"select_label_01\" \"もしかして君は…ほむらの敵に…？\" \"select_label_01\"\n…！これは…\n\n# label \"select_label_01\"\n@\n…………\n\n# imageset 0 \"c401121\"\n# imagealpha 0 0 0\n# imagepos 0 0 0\n@マスター\n……まどか…\n\n# imagealpha 0 1 0\n# imagepos 0 0 0 \n# fadein \"white\" 3\n# textwindow \"close\"\n\n# textwindow \"nomal\"\n# textflame 0 0\n@\nこの穏やかな空は、\n融和の前兆か、\n嵐の前の静けさか…\n\n# textflame 0 0\n@\nもの言わぬ矢は、\n何かを訴えかけるように\n光を放っていた\n"
+	}
+]

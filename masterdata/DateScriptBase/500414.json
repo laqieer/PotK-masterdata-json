@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 500414,
+		"script": "# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_hauntedhouse\"\n# bgmfile \"bgm257\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n@ブラフマーストラ\n怖いわけじゃないよ\nけど、驚きはするね～\n\n# voice 5004 \"burafumasutora_0001\"\n@ブラフマーストラ\nほらほらマスター\n先に進もう！\n\n# textflame 0 0\n@\nそのあとも、ブラフマーストラは\n驚きはするけど怖がらず\n楽しげにホラーハウスを進む\n\n# textflame 0 0\n@\n時折笑い声までたてる\nブラフマーストラ\n\n# textflame 0 0\n@\nホラーハウスってこういうもの\nだったけと疑問に思いながら\nあとをついていくマスターだった\n;;--------------------------------------\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

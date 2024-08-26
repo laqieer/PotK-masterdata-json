@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 93001399,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# voice 3001 \"ronginusu_0030\"\n# se \"SE_0732\"\n@ロンギヌス\n本当に…\nありがとうございます…\n\n# textflame 1 1\n@ロンギヌス\n私…マスターと出会えて\n本当によかったです…\n\n# voice 3001 \"ronginusu_0004\"\n# textflame 1 1\n@ロンギヌス\nこれからも…\nおそばにおいてくれますか…？\n\n# textflame 0 0\n@\n静かな笑顔を\n浮かべる彼女を見て…\n\n# textflame 0 0\n@\nマスターは彼女との絆が\nまた深まったのを実感した…\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

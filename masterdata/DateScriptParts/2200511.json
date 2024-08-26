@@ -1,0 +1,26 @@
+[
+	{
+		"ID": 27,
+		"unitID": 2200511,
+		"scriptID": "kaerimichi",
+		"script": "だぁー！\nやっぱりまだまだ遊び足りねぇ！！\nミトゥム様についてこいよ！"
+	},
+	{
+		"ID": 54,
+		"unitID": 2200511,
+		"scriptID": "kaeru",
+		"script": "よし、終わったー！\nさっさと帰ろーぜ！"
+	},
+	{
+		"ID": 81,
+		"unitID": 2200511,
+		"scriptID": "kaeru_ok",
+		"script": "@%(unitName:unit_a)s\nお前、なにいきなり変なことっ!?\nバーカバーカ！\n別に照れてなんかねーよ！行くぞ！"
+	},
+	{
+		"ID": 108,
+		"unitID": 2200511,
+		"scriptID": "kaeru_ng",
+		"script": "@%(unitName:unit_a)s\nごめん！\n今日は姉ちゃんと\n約束があるんだ！"
+	}
+]

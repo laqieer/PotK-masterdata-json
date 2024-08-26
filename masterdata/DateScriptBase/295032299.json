@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 295032299,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# se \"SE_0732\"\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n@ティファレト\n主様、その答え…\n\n# textflame 1 1\n# voice 550321 \"tiphereth_ca_0004\"\n@ティファレト\n正解です\n\n# textflame 1 1\n# voice 550321 \"tiphereth_ca_0006\"\n@ティファレト\n覚えていて下さって、\nとても嬉しいです\n\n# textflame 1 1\n# eye %(unit_a)s \"close\"\n@ティファレト\nやはり主様こそ、\n私が共に進んでゆくべき御方\n\n# textflame 1 1\n@ティファレト\nこれからも…\n歩み続けましょう\n\n# textflame 1 1\n# eye %(unit_a)s \"normal\"\n@ティファレト\n争いのない\n愛に満ちた世界を創るために\n\n# textflame 0 0\n@\n微笑む彼女\n\n# textflame 0 0\n@\nその笑顔には、\nとてつもなく大きな慈愛が\n宿っているように見えた…\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

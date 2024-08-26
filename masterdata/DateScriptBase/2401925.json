@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 2401925,
+		"script": ";;はずれ\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_room\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# face %(unit_a)s \"usual\"\n# textflame 0 0\n@\nデートの帰り\nフェイルノートを部屋まで\n送っていったマスター\n\n# textflame 0 0\n@\nそのまま帰ろうとすると、\n背後からフェイルノートに\n声をかけられた\n\n# voice 540191 \"failnaught_ca_0002\"\n# textflame 1 1\n@フェイルノート\nねえ、お前様？\n\n@フェイルノート\n今日はいい時間を過ごせたわ\n感謝してる…\n\n# voice 540191 \"failnaught_ca_0004\"\n@フェイルノート\nまた私を楽しませてね？\nおやすみなさい…ふふっ\n\n# textflame 0 0\n@\n別れの言葉を交わし、\n二人のデートは\n幕を閉じるのだった…\n;;-----------------------------------------\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

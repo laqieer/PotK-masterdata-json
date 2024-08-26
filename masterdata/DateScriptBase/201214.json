@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 201214,
+		"script": "# script \"lisp\"\n# fadein \"black\" 0.5\n# background %(background)s\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# voice 2012 \"srand_0004\"\n@スラーンド\nふふっ。マスターなら\nそう言ってくれると思ったわ\n\n# face %(unit_a)s \"usual\"\n@スラーンド\n今日はね、夜に催しがあるのよ\n\n@スラーンド\nもちろん、そっちも見にいく予定よ\n\n@スラーンド\nでも、本番前のそわそわした感じ\n期待でいっぱいな感じも\n結構好きなのよ\n\n@スラーンド\nこれからなにが起こるんだろうとか\nなにが始まるんだろうとか\n\n@スラーンド\nそういうの想像するのが\n楽しくて…\n\n# voice 2012 \"srand_0003\"\n# face %(unit_a)s \"smile\"\n@スラーンド\nこの雰囲気を\nマスターと共有したかったの\n\n@スラーンド\nあ、出店がもう出てるわね\n寄っていきましょう！\n\n# textflame 0 0\n@\nマスターはスラーンドと\n街の雰囲気を楽しんだのだった\n;;--------------------------------------\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

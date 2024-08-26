@@ -1,0 +1,492 @@
+[
+	{
+		"ID": 1,
+		"stage_guest_unit_BattleStageGuest": 780,
+		"skill_BattleskillSkill": 1120000026,
+		"kind_GearKind": 1,
+		"motion_key": ""
+	},
+	{
+		"ID": 2,
+		"stage_guest_unit_BattleStageGuest": 781,
+		"skill_BattleskillSkill": 1120000025,
+		"kind_GearKind": 1,
+		"motion_key": ""
+	},
+	{
+		"ID": 3,
+		"stage_guest_unit_BattleStageGuest": 782,
+		"skill_BattleskillSkill": 1120000024,
+		"kind_GearKind": 1,
+		"motion_key": ""
+	},
+	{
+		"ID": 4,
+		"stage_guest_unit_BattleStageGuest": 783,
+		"skill_BattleskillSkill": 1120000023,
+		"kind_GearKind": 3,
+		"motion_key": "soujyutusi_attackSub"
+	},
+	{
+		"ID": 5,
+		"stage_guest_unit_BattleStageGuest": 800,
+		"skill_BattleskillSkill": 1120000028,
+		"kind_GearKind": 2,
+		"motion_key": "to_sub_attack01"
+	},
+	{
+		"ID": 6,
+		"stage_guest_unit_BattleStageGuest": 801,
+		"skill_BattleskillSkill": 1120000027,
+		"kind_GearKind": 4,
+		"motion_key": "to_sub_attack01"
+	},
+	{
+		"ID": 7,
+		"stage_guest_unit_BattleStageGuest": 802,
+		"skill_BattleskillSkill": 1120000025,
+		"kind_GearKind": 1,
+		"motion_key": ""
+	},
+	{
+		"ID": 8,
+		"stage_guest_unit_BattleStageGuest": 813,
+		"skill_BattleskillSkill": 800000223,
+		"kind_GearKind": 14,
+		"motion_key": ""
+	},
+	{
+		"ID": 9,
+		"stage_guest_unit_BattleStageGuest": 814,
+		"skill_BattleskillSkill": 1120000027,
+		"kind_GearKind": 4,
+		"motion_key": ""
+	},
+	{
+		"ID": 10,
+		"stage_guest_unit_BattleStageGuest": 815,
+		"skill_BattleskillSkill": 1120000028,
+		"kind_GearKind": 2,
+		"motion_key": ""
+	},
+	{
+		"ID": 11,
+		"stage_guest_unit_BattleStageGuest": 840,
+		"skill_BattleskillSkill": 1120000030,
+		"kind_GearKind": 3,
+		"motion_key": "to_sub_attack01"
+	},
+	{
+		"ID": 12,
+		"stage_guest_unit_BattleStageGuest": 841,
+		"skill_BattleskillSkill": 1120000023,
+		"kind_GearKind": 3,
+		"motion_key": "to_sub_attack01"
+	},
+	{
+		"ID": 13,
+		"stage_guest_unit_BattleStageGuest": 842,
+		"skill_BattleskillSkill": 1120000024,
+		"kind_GearKind": 1,
+		"motion_key": ""
+	},
+	{
+		"ID": 14,
+		"stage_guest_unit_BattleStageGuest": 843,
+		"skill_BattleskillSkill": 800000223,
+		"kind_GearKind": 14,
+		"motion_key": ""
+	},
+	{
+		"ID": 15,
+		"stage_guest_unit_BattleStageGuest": 902,
+		"skill_BattleskillSkill": 800000235,
+		"kind_GearKind": 14,
+		"motion_key": "to_sub_attack01"
+	},
+	{
+		"ID": 16,
+		"stage_guest_unit_BattleStageGuest": 903,
+		"skill_BattleskillSkill": 800000234,
+		"kind_GearKind": 14,
+		"motion_key": ""
+	},
+	{
+		"ID": 17,
+		"stage_guest_unit_BattleStageGuest": 904,
+		"skill_BattleskillSkill": 1120000037,
+		"kind_GearKind": 2,
+		"motion_key": "to_sub_attack01"
+	},
+	{
+		"ID": 18,
+		"stage_guest_unit_BattleStageGuest": 905,
+		"skill_BattleskillSkill": 1120000040,
+		"kind_GearKind": 3,
+		"motion_key": "to_sub_attack01"
+	},
+	{
+		"ID": 19,
+		"stage_guest_unit_BattleStageGuest": 929,
+		"skill_BattleskillSkill": 800000238,
+		"kind_GearKind": 14,
+		"motion_key": ""
+	},
+	{
+		"ID": 20,
+		"stage_guest_unit_BattleStageGuest": 930,
+		"skill_BattleskillSkill": 1120000041,
+		"kind_GearKind": 4,
+		"motion_key": "to_sub_attack01"
+	},
+	{
+		"ID": 21,
+		"stage_guest_unit_BattleStageGuest": 941,
+		"skill_BattleskillSkill": 1120000043,
+		"kind_GearKind": 2,
+		"motion_key": "to_sub_attack01"
+	},
+	{
+		"ID": 22,
+		"stage_guest_unit_BattleStageGuest": 942,
+		"skill_BattleskillSkill": 1120000044,
+		"kind_GearKind": 1,
+		"motion_key": ""
+	},
+	{
+		"ID": 23,
+		"stage_guest_unit_BattleStageGuest": 1063,
+		"skill_BattleskillSkill": 1120000025,
+		"kind_GearKind": 1,
+		"motion_key": ""
+	},
+	{
+		"ID": 24,
+		"stage_guest_unit_BattleStageGuest": 1064,
+		"skill_BattleskillSkill": 1120000041,
+		"kind_GearKind": 4,
+		"motion_key": ""
+	},
+	{
+		"ID": 25,
+		"stage_guest_unit_BattleStageGuest": 1139,
+		"skill_BattleskillSkill": 800000304,
+		"kind_GearKind": 14,
+		"motion_key": ""
+	},
+	{
+		"ID": 26,
+		"stage_guest_unit_BattleStageGuest": 1140,
+		"skill_BattleskillSkill": 1120000051,
+		"kind_GearKind": 3,
+		"motion_key": ""
+	},
+	{
+		"ID": 27,
+		"stage_guest_unit_BattleStageGuest": 1141,
+		"skill_BattleskillSkill": 1120000050,
+		"kind_GearKind": 4,
+		"motion_key": ""
+	},
+	{
+		"ID": 28,
+		"stage_guest_unit_BattleStageGuest": 1146,
+		"skill_BattleskillSkill": 1120000052,
+		"kind_GearKind": 2,
+		"motion_key": ""
+	},
+	{
+		"ID": 29,
+		"stage_guest_unit_BattleStageGuest": 1147,
+		"skill_BattleskillSkill": 800000305,
+		"kind_GearKind": 14,
+		"motion_key": ""
+	},
+	{
+		"ID": 30,
+		"stage_guest_unit_BattleStageGuest": 1151,
+		"skill_BattleskillSkill": 1120000054,
+		"kind_GearKind": 1,
+		"motion_key": ""
+	},
+	{
+		"ID": 31,
+		"stage_guest_unit_BattleStageGuest": 1148,
+		"skill_BattleskillSkill": 800000311,
+		"kind_GearKind": 14,
+		"motion_key": ""
+	},
+	{
+		"ID": 32,
+		"stage_guest_unit_BattleStageGuest": 1152,
+		"skill_BattleskillSkill": 1120000024,
+		"kind_GearKind": 1,
+		"motion_key": ""
+	},
+	{
+		"ID": 33,
+		"stage_guest_unit_BattleStageGuest": 1153,
+		"skill_BattleskillSkill": 800000324,
+		"kind_GearKind": 14,
+		"motion_key": ""
+	},
+	{
+		"ID": 34,
+		"stage_guest_unit_BattleStageGuest": 1154,
+		"skill_BattleskillSkill": 800000327,
+		"kind_GearKind": 14,
+		"motion_key": ""
+	},
+	{
+		"ID": 35,
+		"stage_guest_unit_BattleStageGuest": 1155,
+		"skill_BattleskillSkill": 800000330,
+		"kind_GearKind": 14,
+		"motion_key": ""
+	},
+	{
+		"ID": 36,
+		"stage_guest_unit_BattleStageGuest": 1156,
+		"skill_BattleskillSkill": 1120000023,
+		"kind_GearKind": 3,
+		"motion_key": ""
+	},
+	{
+		"ID": 37,
+		"stage_guest_unit_BattleStageGuest": 1157,
+		"skill_BattleskillSkill": 1120000050,
+		"kind_GearKind": 4,
+		"motion_key": ""
+	},
+	{
+		"ID": 38,
+		"stage_guest_unit_BattleStageGuest": 1158,
+		"skill_BattleskillSkill": 800000331,
+		"kind_GearKind": 14,
+		"motion_key": "to_sub_attack01"
+	},
+	{
+		"ID": 39,
+		"stage_guest_unit_BattleStageGuest": 1159,
+		"skill_BattleskillSkill": 1120000025,
+		"kind_GearKind": 1,
+		"motion_key": ""
+	},
+	{
+		"ID": 40,
+		"stage_guest_unit_BattleStageGuest": 1160,
+		"skill_BattleskillSkill": 1120000037,
+		"kind_GearKind": 2,
+		"motion_key": ""
+	},
+	{
+		"ID": 41,
+		"stage_guest_unit_BattleStageGuest": 1161,
+		"skill_BattleskillSkill": 1120000041,
+		"kind_GearKind": 4,
+		"motion_key": ""
+	},
+	{
+		"ID": 42,
+		"stage_guest_unit_BattleStageGuest": 1162,
+		"skill_BattleskillSkill": 1120000028,
+		"kind_GearKind": 2,
+		"motion_key": ""
+	},
+	{
+		"ID": 43,
+		"stage_guest_unit_BattleStageGuest": 1163,
+		"skill_BattleskillSkill": 800000331,
+		"kind_GearKind": 14,
+		"motion_key": "to_sub_attack01"
+	},
+	{
+		"ID": 44,
+		"stage_guest_unit_BattleStageGuest": 1174,
+		"skill_BattleskillSkill": 1120000051,
+		"kind_GearKind": 3,
+		"motion_key": ""
+	},
+	{
+		"ID": 45,
+		"stage_guest_unit_BattleStageGuest": 1175,
+		"skill_BattleskillSkill": 800000331,
+		"kind_GearKind": 14,
+		"motion_key": "to_sub_attack01"
+	},
+	{
+		"ID": 46,
+		"stage_guest_unit_BattleStageGuest": 1176,
+		"skill_BattleskillSkill": 1120000084,
+		"kind_GearKind": 7,
+		"motion_key": ""
+	},
+	{
+		"ID": 47,
+		"stage_guest_unit_BattleStageGuest": 1177,
+		"skill_BattleskillSkill": 1120000044,
+		"kind_GearKind": 1,
+		"motion_key": ""
+	},
+	{
+		"ID": 48,
+		"stage_guest_unit_BattleStageGuest": 1178,
+		"skill_BattleskillSkill": 1120000040,
+		"kind_GearKind": 3,
+		"motion_key": "to_sub_attack01"
+	},
+	{
+		"ID": 49,
+		"stage_guest_unit_BattleStageGuest": 1184,
+		"skill_BattleskillSkill": 1120000085,
+		"kind_GearKind": 3,
+		"motion_key": ""
+	},
+	{
+		"ID": 50,
+		"stage_guest_unit_BattleStageGuest": 1185,
+		"skill_BattleskillSkill": 800000335,
+		"kind_GearKind": 14,
+		"motion_key": ""
+	},
+	{
+		"ID": 51,
+		"stage_guest_unit_BattleStageGuest": 1186,
+		"skill_BattleskillSkill": 1120000086,
+		"kind_GearKind": 1,
+		"motion_key": ""
+	},
+	{
+		"ID": 52,
+		"stage_guest_unit_BattleStageGuest": 1188,
+		"skill_BattleskillSkill": 1120000027,
+		"kind_GearKind": 4,
+		"motion_key": ""
+	},
+	{
+		"ID": 53,
+		"stage_guest_unit_BattleStageGuest": 1193,
+		"skill_BattleskillSkill": 800000331,
+		"kind_GearKind": 14,
+		"motion_key": "to_sub_attack01"
+	},
+	{
+		"ID": 54,
+		"stage_guest_unit_BattleStageGuest": 1195,
+		"skill_BattleskillSkill": 1120000040,
+		"kind_GearKind": 3,
+		"motion_key": "to_sub_attack01"
+	},
+	{
+		"ID": 55,
+		"stage_guest_unit_BattleStageGuest": 1194,
+		"skill_BattleskillSkill": 800000339,
+		"kind_GearKind": 14,
+		"motion_key": ""
+	},
+	{
+		"ID": 56,
+		"stage_guest_unit_BattleStageGuest": 1196,
+		"skill_BattleskillSkill": 1120000084,
+		"kind_GearKind": 7,
+		"motion_key": ""
+	},
+	{
+		"ID": 57,
+		"stage_guest_unit_BattleStageGuest": 1204,
+		"skill_BattleskillSkill": 800000342,
+		"kind_GearKind": 14,
+		"motion_key": ""
+	},
+	{
+		"ID": 58,
+		"stage_guest_unit_BattleStageGuest": 1205,
+		"skill_BattleskillSkill": 800000238,
+		"kind_GearKind": 14,
+		"motion_key": ""
+	},
+	{
+		"ID": 59,
+		"stage_guest_unit_BattleStageGuest": 1208,
+		"skill_BattleskillSkill": 1120000087,
+		"kind_GearKind": 1,
+		"motion_key": ""
+	},
+	{
+		"ID": 60,
+		"stage_guest_unit_BattleStageGuest": 1209,
+		"skill_BattleskillSkill": 800000223,
+		"kind_GearKind": 14,
+		"motion_key": ""
+	},
+	{
+		"ID": 61,
+		"stage_guest_unit_BattleStageGuest": 1213,
+		"skill_BattleskillSkill": 1120000091,
+		"kind_GearKind": 3,
+		"motion_key": ""
+	},
+	{
+		"ID": 62,
+		"stage_guest_unit_BattleStageGuest": 1219,
+		"skill_BattleskillSkill": 1120000028,
+		"kind_GearKind": 2,
+		"motion_key": ""
+	},
+	{
+		"ID": 63,
+		"stage_guest_unit_BattleStageGuest": 1220,
+		"skill_BattleskillSkill": 1120000024,
+		"kind_GearKind": 1,
+		"motion_key": ""
+	},
+	{
+		"ID": 64,
+		"stage_guest_unit_BattleStageGuest": 1229,
+		"skill_BattleskillSkill": 1120000092,
+		"kind_GearKind": 1,
+		"motion_key": ""
+	},
+	{
+		"ID": 65,
+		"stage_guest_unit_BattleStageGuest": 1232,
+		"skill_BattleskillSkill": 1120000093,
+		"kind_GearKind": 4,
+		"motion_key": ""
+	},
+	{
+		"ID": 66,
+		"stage_guest_unit_BattleStageGuest": 1232,
+		"skill_BattleskillSkill": 1120000094,
+		"kind_GearKind": 4,
+		"motion_key": ""
+	},
+	{
+		"ID": 67,
+		"stage_guest_unit_BattleStageGuest": 1239,
+		"skill_BattleskillSkill": 1120000095,
+		"kind_GearKind": 4,
+		"motion_key": ""
+	},
+	{
+		"ID": 68,
+		"stage_guest_unit_BattleStageGuest": 1242,
+		"skill_BattleskillSkill": 1120000097,
+		"kind_GearKind": 3,
+		"motion_key": ""
+	},
+	{
+		"ID": 69,
+		"stage_guest_unit_BattleStageGuest": 1247,
+		"skill_BattleskillSkill": 1120000099,
+		"kind_GearKind": 2,
+		"motion_key": ""
+	},
+	{
+		"ID": 70,
+		"stage_guest_unit_BattleStageGuest": 1398,
+		"skill_BattleskillSkill": 1120000024,
+		"kind_GearKind": 1,
+		"motion_key": ""
+	}
+]

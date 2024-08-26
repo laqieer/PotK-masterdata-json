@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 91007398,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# se \"SE_0733\"\n# face %(unit_a)s \"sad\"\n# voice 1007 \"Arondaito_0008\"\n@アロンダイト\nはぁ…\n\n# eye %(unit_a)s \"close\"\n@アロンダイト\n大丈夫ですよ、マスター\nこれは、ただの遊びですから\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"normal\"\n@アロンダイト\n不正解だったくらいで、\nあなたへの忠誠心が揺らぐことは\n絶対にありません\n\n@アロンダイト\nですので、\nマスターは気に病まないで\nくださいね\n\n# textflame 0 0\n@\nアロンダイトは慰めてくれるが、\n正解できなかったことを悔やむ\nマスター\n\n@\nアロンダイトのために、\n次こそは正解しようと意気込む\nマスターであった\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

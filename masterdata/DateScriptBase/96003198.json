@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 96003198,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# se \"SE_0733\"\n# face %(unit_a)s \"usual\"\n# voice 6003 \"tyurusosu_0004\"\n@テュルソス\nよっしゃ、はずれっ！\n不正解だよ～♪\n\n@テュルソス\n思った通り、私のこと、\nそんなに知らないみたいね？\n\n# face %(unit_a)s \"angry\"\n@テュルソス\n…って、それはそれで\nなんだかムカつくけど\n\n# face %(unit_a)s \"smile\"\n# voice 6003 \"tyurusosu_0005\"\n@テュルソス\nまあ、その埋め合わせも\n含めて、\nさあ、飲みに行こっ！\n\n@テュルソス\n今日は一晩中\nつきあってもらうから…\n覚悟してよ♪\n\n# voice 6003 \"tyurusosu_0006\"\n@テュルソス\nさ、飲み放題、\n飲み放題っ！！\n\n# textflame 0 0\n@\nテュルソスはそう言うと、\nマスターの手を\n引っ張って行く\n\n@\nこの調子だと、\n何度もこの手で\n飲みに誘われそうだ…\n\n@\nもうちょっと\n彼女のことを調べて、\n備えておかないとな…！\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

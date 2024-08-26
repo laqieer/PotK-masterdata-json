@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 3101305,
+		"script": "# script \"lisp\"\n# background \"plain\"\n# body 810004\n# mask 810004 off\n# pos 810004 3\n# textflame 1 1\n# textboxarrow 0 2\n# voice 9994 \"izokutaisho_0006\"\n@異族の大将\nあー\nまたトンカチ持って来てもうた…\n\n@異族の大将\nよーし、こうなったら\n異族達の力を結集して…\n\n# textwindow \"toge\"\n# jump 810004\n# voice 9994 \"izokutaisho_0007\"\n@異族の大将\nオレを…守れ！！"
+	}
+]

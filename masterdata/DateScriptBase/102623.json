@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 102623,
+		"script": "# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_onsen\"\n# bgmfile \"bgm258\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# face %(unit_a)s \"angry\"\n# voice 1026 \"caladbolg_0009\"\n@カラドボルグ\n逆に聞きたいわ！\n水着を着て混浴なんて\nなんの意味があるの！？\n\n# textflame 0 0\n@\n堂々と言い放つカラドボルグ\nマスターは口を開けるしかない\n\n# textflame 1 1\n@カラドボルグ\n私を温泉に誘ったということは…\n側でまじまじと私の美しい体を\n眺めたいということよね！？\n\n# textflame 0 0\n@\n慌てて\n水着着用の温泉だって伝えたよ！\nと、反論するマスター\n\n# voice 1026 \"caladbolg_0028\"\n# textflame 1 1\n@カラドボルグ\n…わかった、情緒ね！\nいきなり裸だとグッと来ない\nそういうことね？\n\n# voice 1026 \"caladbolg_0005\"\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@カラドボルグ\nなんだぁ…♪\nそれならそうと\n言ってくれればいいのに…♪\n\n# textflame 0 0\n@\n水着に指をかけた\nカラドボルグの腕を\nマスターはがっと掴む…！\n\n# textflame 0 0\n@\n脱ぐなーーーー！！\nと、マスターの絶叫が\n温泉に響き渡るのだった…\n;;----------------------------------------\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

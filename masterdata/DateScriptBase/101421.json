@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 101421,
+		"script": ";;A 必要ない（大）\n;;B こちらが流そうか（中）\n;;C 頼むよ（小）\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_onsen\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 0 0\n@\nティルフィングとのデートの帰り\n汗でも流そうと二人は\n水着着用の温泉に来ていた\n\n# textflame 1 1\n@ティルフィング\n失礼します…\n\n# textflame 0 0\n@\nすでにお湯につかっていた\nマスターのもとへ\nティルフィングがやってくる\n\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# voice 1014 \"tyrufing_0046\"\n@ティルフィング\n…そう見られると\nさすがに少しは\n恥ずかしいのですが\n\n# textflame 0 0\n@\nティルフィングは苦笑しながら\nマスターのそばへと移動して―\n\n# textflame 1 1\n# voice 1014 \"tyrufing_0002\"\n@ティルフィング\nお背中を流しましょうか？\n\n# select \"必要ない\" \"select_label_01\" \"こちらが流そうか\" \"select_label_02\" \"頼むよ\" \"select_label_03\"\nお背中を流しましょうか？\n\n# label \"select_label_01\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_02\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_03\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_end\"\n# waitandnext 0.1\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

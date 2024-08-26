@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 303424,
+		"script": ";;C\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_room\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# face %(unit_a)s \"normal\"\n# voice 530341 \"grandepieu_di_0004\"\n# textflame 1 1\n@グランテピエ\nふふ、そっか\nもちろんいいよ\n\n@グランテピエ\nもう一回ゲームする？\nそれともおしゃべりがいい？\n\n@グランテピエ\n一緒に映画を見るのも\nいいかもしれないね\n\n@グランテピエ\nそれともあれとか…\nいや、せっかくだしあれも…\n\n# voice 530341 \"grandepieu_di_0005\"\n@グランテピエ\nふふふ…\nやりたいこといっぱいで\n迷っちゃうなぁ\n\n# face %(unit_a)s \"usual\"\n# voice 530341 \"grandepieu_di_0002\"\n@グランテピエ\nね、どれがいい？\n好きに決めていいよ\n\n@グランテピエ\n君の気が済むまで\n付き合って、あげ…\n\n# eye %(unit_a)s \"close\"\n@グランテピエ\n…ふ、わぁあぁ…\nあふ…\n\n# eye %(unit_a)s \"normal\"\n# voice 530341 \"grandepieu_di_0008\"\n@グランテピエ\nあ、あはは、ごめん\n君の眠気が\n移っちゃったみたい\n\n@グランテピエ\nううん、平気だよ\n一緒に夜更かししよう？\n\n@グランテピエ\n私も君と同じ…\n二人でいられる時間を\n大事にしたいんだ\n\n@グランテピエ\nだからもう少しだけ、\n君と楽しんでいたいの…\n\n# voice 530341 \"grandepieu_di_0030\"\n@グランテピエ\nいい、かな？\n…ふふふ、ありがとう…\n\n# textflame 0 0\n@\n眠たげな目をこすりながら、\n二人は夜が明けるまで過ごした\n\n@\nもう少し、もう少し…と、\n二人きりの穏やかな時間を\n終わらせないように…\n;;-----------------------------------------\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

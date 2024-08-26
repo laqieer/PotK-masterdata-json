@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 501611,
+		"script": ";;A 高いところが好きなの？　中アタライ\n;;B 不純物とはひどいな　小当り\n;;C 誘った甲斐があるよ 大当たり\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_ferris\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 0 0\n@\nフラベルムを喜ばせるには\nどこにいけばいいのか\n\n@\nいろいろ考えた結果\nマスターは彼女を観覧車へと\n誘ったのだった\n\n# voice 5016 \"Flabellum_0004\"\n# textflame 1 1\n@フラベルム\nふぅ…\nやはり高いところはいいですね\n\n# eye %(unit_a)s \"close\"\n# voice 5016 \"Flabellum_0006\"\n# textflame 1 1\n@フラベルム\n地上のけがれから解き放たれた\n気分になれます\n\n# eye %(unit_a)s \"normal\"\n@フラベルム\n爽快な気分とはまさに\nこのことです\n\n@フラベルム\n…あなたという不純物があっても\n全然気になりません\n\n# select \"高いところが好きなの？\" \"select_label_01\" \"不純物とはひどいな\" \"select_label_02\" \"誘った甲斐があるよ\" \"select_label_03\"\n…あなたという不純物があっても\n全然気になりません\n\n# label \"select_label_01\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_02\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_03\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_end\"\n# waitandnext 0.1\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

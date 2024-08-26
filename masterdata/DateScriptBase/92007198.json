@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 92007198,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# se \"SE_0733\"\n# face %(unit_a)s \"sad\"\n# voice 2007 \"sharuuru_0013\"\n@シャルウル\n残念、不正解です\n\n@シャルウル\nマスター…\nいくら情報収集は私の仕事とはいえ、\n\n@シャルウル\n少しは自分でも\nやらないとダメですよ？\n\n# face %(unit_a)s \"normal\"\n@シャルウル\nあ、責めているわけではありません\n今回はダメでも、\n次の機会に正解すればいいんですから\n\n# voice 2007 \"sharuuru_0036\"\n@シャルウル\nなので、次までに\nきちんと情報収集しておいて\nくださいね？\n\n# textflame 0 0\n@\n彼女の笑みからは\nマスターへの信頼が\n感じられる\n\n@\n彼女の信頼に応えるためにも\n次は正解しなければ…！\n\n@\nこれから毎日シャルウルを見て、\n彼女のことをもっと知らないと！\n\n@\nそう思ったマスターであった\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

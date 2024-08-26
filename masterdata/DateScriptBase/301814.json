@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 301814,
+		"script": ";;A小当り\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_cafe\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 3018 \"forcas_0028\"\n@フォルカス\nそうですか？\nそれにしてはずいぶんと\nじっと見られていたようですが…\n\n@\nフォルカスの目が少しだけ細められ\nマスターは慌てて理由を説明した\n\n@フォルカス\nお茶を飲む仕草が綺麗って…\n\n# voice 3018 \"forcas_0013\"\n@フォルカス\nそんなとってつけた\nお世辞はいりません…\n\n@\nそうそっぽを向くフォルカス\n\n@\nただ、紅茶を飲む手と頬が\n赤くなっていたのを\nマスターは見逃さなかった\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

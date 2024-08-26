@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 400522,
+		"script": "# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_onsen\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 4005 \"yoichi_0002\"\n@与一\nそこ…ですかね？\n湯けむりでよく見えなくて…\n\n# textflame 1 1\n@与一\nよ…っと\nマスター？\nます…\n\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 4005 \"yoichi_0025\"\n@与一\nひゃぁぁあああうう！！\n\n# textflame 0 0\n@\n与一の叫び声で\nマスターも飛び上がる\n\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 4005 \"yoichi_0031\"\n@与一\nすす、すみません！\n岩だと思って寄りかかったら…\nマスターでしたぁぁ…！！\n\n# textflame 0 0\n@\n一瞬の沈黙の後\nマスターはこみ上げる笑いを\nこらえ切れず吹き出した\n\n# textflame 1 1\n@与一\nわざとじゃないんですぅ～！\n\n# textflame 1 1\n# face %(unit_a)s \"angry\"\n@与一\nもう…っ！\nそんなに笑わないでください～！\nお湯かけますよ！！\n\n# textflame 0 0\n@\n与一のすくったお湯が\nマスターの顔にピシャリとかかる\n二人はお腹を抱えて笑いあった――\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

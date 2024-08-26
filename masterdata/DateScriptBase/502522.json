@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 502522,
+		"script": ";;C大-------------------\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_fireworks\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# face %(unit_a)s \"happy\"\n# voice 5025 \"megumin_0004\"\n# textflame 1 1\n@めぐみん\nはい\nこの島には休息できたといいつつ\n騒がしい毎日でしたから…\n\n@めぐみん\nこういう時間はなんだか\nすごくほっとします\n\n# textflame 0 0\n@\nよかった\nなら、ゆっくり満喫しよう\nと、マスター\n\n# face %(unit_a)s \"worry\"\n# voice 5025 \"megumin_0027\"\n# textflame 1 1\n@めぐみん\n一応言っておきますが、\n時間は忘れても爆裂魔法のことを\n忘れたわけではないですから\n\n# textflame 0 0\n@\n花火から目線を外しためぐみんを\nマスターはわかったわかった\nとなだめる\n\n@\nその瞬間、\nひときわ大きい光が二人を照らした\n\n# face %(unit_a)s \"happy\"\n# voice 5025 \"megumin_0027\"\n# textflame 1 1\n@めぐみん\nわあ、すごくきれいです…\n\n@\n二人は同じ夜空を見上げ\nまた静かに、\n打ち上がる花火を楽しんだ…\n\n# waitandnext 2\n# fadeout \"black\" 1.2\n"
+	}
+]

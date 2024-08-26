@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 95025398,
+		"script": ";;//不正解\n# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# voice 5025 \"megumin_0026\"\n# face %(unit_a)s \"worry\"\n# se \"SE_0733\"\n@めぐみん\n不正解です\n\n@めぐみん\n残念ですが\n私の方が、知られる努力を\n怠っていたのかもしれません\n\n@めぐみん\nこれからは\n気に掛けるようにしますね！\n\n;;モノローグ\n# textflame 0 0\n@\n淡々と口にしながらも\n残念がっているのが見て取れる\n\n# textflame 1 1\n@めぐみん\nどうしました？\n早くしないと日が暮れてしまいます\n\n@めぐみん\n先を急ぐことにしましょう\n\n;;モノローグ\n# textflame 0 0\n@\n名残惜しい帰り道は一変\n空気が冷えていくのがわかった\n\n;;モノローグ\n@\n一度冷めた空気は\n夏だというのに\nなかなか暖まっていかず\n\n;;モノローグ\n@\n弾まない会話が\n帰り道中続いた\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

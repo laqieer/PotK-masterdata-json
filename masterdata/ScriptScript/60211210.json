@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 60211210,
+		"script": ";;戦闘突入時\n# script \"lisp\"\n# body 602111\n# pos 602111 3\n# scale 602111 0.8 0\n# mask 602111 off\n# textflame 1 1\n# textboxarrow 0 2\n# face 602111 \"sad\"\n# voice 6021 \"lizbeth_0018\"\n@リズベット\nみんなのため…\n平和のために戦っているのに…\n"
+	}
+]

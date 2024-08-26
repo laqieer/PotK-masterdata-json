@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 102023,
+		"script": ";;B\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_drive\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# face %(unit_a)s \"normal\"\n# voice 1020 \"sayaka_0039\"\n# textflame 1 1\n@%(unitName:unit_a)s\nわあ！\nロマンチックな曲だね\n\n@%(unitName:unit_a)s\n懐かしいなぁ…\n元の世界にいたときに、\nクラシック聞いてたの思い出すよ\n\n@%(unitName:unit_a)s\nこっちの世界にも、\nこんな素敵な音楽があるんだ…\n\n# face %(unit_a)s \"shy\"\n# voice 1020 \"sayaka_0008\"\n@%(unitName:unit_a)s\nって、あはは…\n聞いてたらなんか\nしんみりしてきちゃった\n\n# face %(unit_a)s \"normal\"\n@%(unitName:unit_a)s\nわーっ、なしなーし！\nさやかちゃんはいつでも\n元気いっぱいじゃないと！\n\n@%(unitName:unit_a)s\nえ？ううん、大丈夫！\n止めなくていいよ\n\n# voice 1020 \"sayaka_0003\"\n@%(unitName:unit_a)s\nもうすこしだけ聞かせて？\nこの一曲だけでいいから…\n\n# textflame 0 0\n@\n静かな曲を聞きながら、\n窓の外、遠くを見つめるさやか\nマスターはその様子を見守った\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

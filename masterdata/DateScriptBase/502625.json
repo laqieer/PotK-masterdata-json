@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 502625,
+		"script": "# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_onsen\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# face %(unit_a)s \"usual\"\n# textflame 0 0\n@\nマスターは、ゆんゆんを誘って\n温泉へとやってきた\n\n# textflame 1 1\n@ゆんゆん\n少し汗をかいてしまったので\n早く入りたいです\n\n# face %(unit_a)s \"sad\"\n@ゆんゆん\nだけど温泉って、入っている間は\n別々になってしまうんですよね\n\n# textflame 0 0\n;;モノローグ\n@\nゆっくりしよう\nとマスターが言うが…\n\n# voice 250261 \"yunyun_0008\"\n# textflame 1 1\n@ゆんゆん\nあ…はい\nそうですね…\n\n@ゆんゆん\nずっと一緒にいたんですから\nひとりの時間も必要ですよね\n\n# face %(unit_a)s \"usual\"\n@ゆんゆん\nあなたもゆっくりしてきてください\n私も、時間いっぱい浸かってますから\n\n# textflame 0 0\n@\nそう言って、駆けていくゆんゆん\n\n# textflame 0 0\n@\nその後ろ姿は\n少し寂しそうに見えた\n\n;;-----------------------------------------\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

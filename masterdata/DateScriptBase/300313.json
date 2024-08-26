@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 300313,
+		"script": ";;中当たりA\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_hauntedhouse\"\n# bgmfile \"bgm257\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 3003 \"hotengageki_0025\"\n@方天画戟\n～～～～～ッ！！！\n\n# textflame 0 0\n@\nすぐ隣で\n方天画戟がビクッと跳ねた\n\n# voice 3003 \"hotengageki_0009\"\n# textflame 1 1\n@方天画戟\n誰だが知らんが…\nひ、卑怯だぞ…\n\n# face %(unit_a)s \"angry\"\n@方天画戟\n暗がりで…人の…\nその、微妙な部分を触るとは！\n\n# face %(unit_a)s \"sad\"\n# voice 3003 \"hotengageki_0025\"\n@方天画戟\n…ひゃんっ！！\n\n# textflame 0 0\n@\n方天画戟の反応がかわいくて\n調子に乗って脇腹をつつくマスター\n\n@\nこのあとすぐにバレて\n締め上げられるとも知らずに…\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

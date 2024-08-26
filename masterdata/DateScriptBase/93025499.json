@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 93025499,
+		"script": ";;//正解\n# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# voice 3025 \"minerva_0005\"\n# se \"SE_0732\"\n@ミネルヴァ\nさすがマスター\n正解です\n\n# face %(unit_a)s \"normal\"\n@ミネルヴァ\nえ？もちろん嬉しいですよ！\nだってマスターが私のことを\nここまで知ってくれていて…\n\n# face %(unit_a)s \"smile\"\n@ミネルヴァ\nマスター\nこれからもよろしくお願いいたします\n\n# textflame 0 0\n@\nどんなときでも真面目に振る舞う\nミネルヴァがいじらしく\n自然と微笑みがこぼれてくる\n\n@\n次も正解したら、\nどんな顔で喜んでくれるのだろうか\nそんな期待に胸が膨らむのだった…\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

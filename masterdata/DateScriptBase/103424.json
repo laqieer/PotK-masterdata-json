@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 103424,
+		"script": ";;C　小\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_onsen\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# face 2103411 \"sad\"\n# voice 1034 \"dakunesu_0026\"\n# textflame 1 1\n@ダクネス\nな、いや、\nそれはさすがに遠慮するぞ\n\n@ダクネス\n親しき仲といえど\nさすがにそれは…\n\n;;モノローグ\n# textflame 0 0\n@\nダクネスは顔を赤くして\n戸惑っている\n\n;;モノローグ\n# textflame 0 0\n@\nマスターは冗談だと\n笑って返した\n\n# textflame 1 1\n# face 2103411 \"angry\"\n@ダクネス\n～～～～～～！\n\n# textflame 0 0\n;;モノローグ\n@\nその後も\nぷいっとして\nそっぽを向かれてしまった\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

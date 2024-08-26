@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 602021,
+		"script": ";;B:節制するのは大事\n;;A:ネスと一緒ならどこでも楽しいよ\n;;C:大丈夫、気にしないで\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_room\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 0 0\n# face %(unit_a)s \"normal\"\n;;モノローグ\n@\nネスに呼ばれ、\n彼女の部屋へとやってきたマスター\n\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@ネス\n外に出なければ節制になりますし、\n今日のところはわたしの部屋で\n一緒にお話しをしましょう\n\n# face %(unit_a)s \"normal\"\n@ネス\n…その、マスターとしては\n外出して楽しみたかったのかも\nしれませんが…\n\n# voice 6020 \"ness_0042\"\n@ネス\nえっと、あの…\nやっぱり、そっちのほうが…\nいいですか？\n\n# select \"ネスと一緒ならどこでも楽しいよ\" \"select_label_01\" \"節制するのは大事\" \"select_label_02\" \"大丈夫、気にしないで\" \"select_label_03\"\nえっと、あの…\nやっぱり、そっちのほうが…\nいいですか？\n\n# label \"select_label_01\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_02\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_03\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# textflame 1 1\n# waitandnext 0.1\n\n# label \"select_label_end\"\n# waitandnext 2\n# fadeout \"black\" 1.2"
+	}
+]

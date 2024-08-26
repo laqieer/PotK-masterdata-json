@@ -1,0 +1,198 @@
+[
+	{
+		"ID": 1,
+		"unit_footstep_type_UnitFootstepType": 1,
+		"landform_footstep_type_BattleLandformFootstepType": 1,
+		"footstep1": "SE_5000",
+		"footstep2": "SE_5001"
+	},
+	{
+		"ID": 2,
+		"unit_footstep_type_UnitFootstepType": 2,
+		"landform_footstep_type_BattleLandformFootstepType": 1,
+		"footstep1": "SE_5008",
+		"footstep2": "SE_5009"
+	},
+	{
+		"ID": 3,
+		"unit_footstep_type_UnitFootstepType": 3,
+		"landform_footstep_type_BattleLandformFootstepType": 1,
+		"footstep1": "SE_5016",
+		"footstep2": "SE_5017"
+	},
+	{
+		"ID": 4,
+		"unit_footstep_type_UnitFootstepType": 4,
+		"landform_footstep_type_BattleLandformFootstepType": 1,
+		"footstep1": "SE_5024",
+		"footstep2": "SE_5025"
+	},
+	{
+		"ID": 5,
+		"unit_footstep_type_UnitFootstepType": 5,
+		"landform_footstep_type_BattleLandformFootstepType": 1,
+		"footstep1": "SE_5026",
+		"footstep2": "SE_5027"
+	},
+	{
+		"ID": 6,
+		"unit_footstep_type_UnitFootstepType": 6,
+		"landform_footstep_type_BattleLandformFootstepType": 1,
+		"footstep1": "SE_5028",
+		"footstep2": "SE_5029"
+	},
+	{
+		"ID": 7,
+		"unit_footstep_type_UnitFootstepType": 7,
+		"landform_footstep_type_BattleLandformFootstepType": 1,
+		"footstep1": "SE_5030",
+		"footstep2": "SE_5031"
+	},
+	{
+		"ID": 8,
+		"unit_footstep_type_UnitFootstepType": 1,
+		"landform_footstep_type_BattleLandformFootstepType": 2,
+		"footstep1": "SE_5002",
+		"footstep2": "SE_5003"
+	},
+	{
+		"ID": 9,
+		"unit_footstep_type_UnitFootstepType": 2,
+		"landform_footstep_type_BattleLandformFootstepType": 2,
+		"footstep1": "SE_5010",
+		"footstep2": "SE_5011"
+	},
+	{
+		"ID": 10,
+		"unit_footstep_type_UnitFootstepType": 3,
+		"landform_footstep_type_BattleLandformFootstepType": 2,
+		"footstep1": "SE_5018",
+		"footstep2": "SE_5019"
+	},
+	{
+		"ID": 11,
+		"unit_footstep_type_UnitFootstepType": 4,
+		"landform_footstep_type_BattleLandformFootstepType": 2,
+		"footstep1": "SE_5024",
+		"footstep2": "SE_5025"
+	},
+	{
+		"ID": 12,
+		"unit_footstep_type_UnitFootstepType": 5,
+		"landform_footstep_type_BattleLandformFootstepType": 2,
+		"footstep1": "SE_5026",
+		"footstep2": "SE_5027"
+	},
+	{
+		"ID": 13,
+		"unit_footstep_type_UnitFootstepType": 6,
+		"landform_footstep_type_BattleLandformFootstepType": 2,
+		"footstep1": "SE_5028",
+		"footstep2": "SE_5029"
+	},
+	{
+		"ID": 14,
+		"unit_footstep_type_UnitFootstepType": 7,
+		"landform_footstep_type_BattleLandformFootstepType": 2,
+		"footstep1": "SE_5030",
+		"footstep2": "SE_5031"
+	},
+	{
+		"ID": 15,
+		"unit_footstep_type_UnitFootstepType": 1,
+		"landform_footstep_type_BattleLandformFootstepType": 3,
+		"footstep1": "SE_5004",
+		"footstep2": "SE_5005"
+	},
+	{
+		"ID": 16,
+		"unit_footstep_type_UnitFootstepType": 2,
+		"landform_footstep_type_BattleLandformFootstepType": 3,
+		"footstep1": "SE_5012",
+		"footstep2": "SE_5013"
+	},
+	{
+		"ID": 17,
+		"unit_footstep_type_UnitFootstepType": 3,
+		"landform_footstep_type_BattleLandformFootstepType": 3,
+		"footstep1": "SE_5020",
+		"footstep2": "SE_5021"
+	},
+	{
+		"ID": 18,
+		"unit_footstep_type_UnitFootstepType": 4,
+		"landform_footstep_type_BattleLandformFootstepType": 3,
+		"footstep1": "SE_5024",
+		"footstep2": "SE_5025"
+	},
+	{
+		"ID": 19,
+		"unit_footstep_type_UnitFootstepType": 5,
+		"landform_footstep_type_BattleLandformFootstepType": 3,
+		"footstep1": "SE_5026",
+		"footstep2": "SE_5027"
+	},
+	{
+		"ID": 20,
+		"unit_footstep_type_UnitFootstepType": 6,
+		"landform_footstep_type_BattleLandformFootstepType": 3,
+		"footstep1": "SE_5028",
+		"footstep2": "SE_5029"
+	},
+	{
+		"ID": 21,
+		"unit_footstep_type_UnitFootstepType": 7,
+		"landform_footstep_type_BattleLandformFootstepType": 3,
+		"footstep1": "SE_5030",
+		"footstep2": "SE_5031"
+	},
+	{
+		"ID": 22,
+		"unit_footstep_type_UnitFootstepType": 1,
+		"landform_footstep_type_BattleLandformFootstepType": 4,
+		"footstep1": "SE_5006",
+		"footstep2": "SE_5007"
+	},
+	{
+		"ID": 23,
+		"unit_footstep_type_UnitFootstepType": 2,
+		"landform_footstep_type_BattleLandformFootstepType": 4,
+		"footstep1": "SE_5014",
+		"footstep2": "SE_5015"
+	},
+	{
+		"ID": 24,
+		"unit_footstep_type_UnitFootstepType": 3,
+		"landform_footstep_type_BattleLandformFootstepType": 4,
+		"footstep1": "SE_5022",
+		"footstep2": "SE_5023"
+	},
+	{
+		"ID": 25,
+		"unit_footstep_type_UnitFootstepType": 4,
+		"landform_footstep_type_BattleLandformFootstepType": 4,
+		"footstep1": "SE_5024",
+		"footstep2": "SE_5025"
+	},
+	{
+		"ID": 26,
+		"unit_footstep_type_UnitFootstepType": 5,
+		"landform_footstep_type_BattleLandformFootstepType": 4,
+		"footstep1": "SE_5026",
+		"footstep2": "SE_5027"
+	},
+	{
+		"ID": 27,
+		"unit_footstep_type_UnitFootstepType": 6,
+		"landform_footstep_type_BattleLandformFootstepType": 4,
+		"footstep1": "SE_5028",
+		"footstep2": "SE_5029"
+	},
+	{
+		"ID": 28,
+		"unit_footstep_type_UnitFootstepType": 7,
+		"landform_footstep_type_BattleLandformFootstepType": 4,
+		"footstep1": "SE_5030",
+		"footstep2": "SE_5031"
+	}
+]

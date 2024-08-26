@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 91005498,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# se \"SE_0733\"\n# voice 1005 \"ritto_0013\"\n@リットゥ\nむう…\n不正解か…\n\n# eye %(unit_a)s \"close\"\n@リットゥ\nまあ、突然の質問だったからな\n混乱してしまったのだろう？\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"usual\"\n# voice 1005 \"ritto_0008\"\n@リットゥ\nマスターにも失敗はあるさ\n気に病む必要はない\n\n# face %(unit_a)s \"sad\"\n@リットゥ\nいや、勘違いしないでくれ、\nべつに責めたいわけじゃないんだ\n\n# voice 1005 \"ritto_0036\"\n# face %(unit_a)s \"usual\"\n@リットゥ\nだが、今度やるときは…\nきっと正解してくれるのだろう？\n\n# textflame 0 0\n@\nもちろんだ！\n大きな声で返事をするマスター\n\n# voice 1005 \"ritto_0004\"\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@リットゥ\nふふっ、良い返事だな\nじゃあ、帰ろうじゃないか\n\n# textflame 0 0\n@\nそう言って歩き出すリットゥ\n\n@\n今度こそ正解してやるぞ！\n心にしかと刻みこんだ\nマスターであった\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

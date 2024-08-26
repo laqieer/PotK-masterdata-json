@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 600114,
+		"script": "# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_beach_night\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n;;とげとげ吹き出し\n# textwindow \"toge\"\n# face %(unit_a)s \"angry\"\n# voice 6001 \"asukurepiosu_0023\"\n@アスクレピオス\nは、はぁぁああ～！？\n\n;;とげとげ吹き出し\n# textflame 1 1\n@アスクレピオス\nなに言っちゃってんの！？\n\n# textwindow \"normal\"\n# textflame 1 1\n@アスクレピオス\nいきなり…なんなの！？\n\n# textflame 0 0\n@\nアスクレピオスは\n目を白黒させながら\n顔を真っ赤にする\n\n;;文字小さく\n# textsize 18\n# textflame 1 1\n@アスクレピオス\nん…もう…不意打ちなんて…\n卑怯よ…\n\n# textflame 0 0\n# textsize 24\n@\nぶつぶつ文句を言いながら\n夜空を向いてしまった彼女を\nマスターは笑って見つめていた…\n;;--------------------------------------\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

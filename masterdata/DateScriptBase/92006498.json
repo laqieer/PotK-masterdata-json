@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 92006498,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# se \"SE_0733\"\n# face %(unit_a)s \"sad\"\n# voice 2006 \"daguda_unit_1002\"\n@ダグダ\nあ～あ…ハズレちゃった～\n\n# textflame 1 1\n@ダグダ\nそれじゃあ、はい、バツゲームっ♪\nダグダをおんぶして\n帰ってもらいま～す♪\n\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@ダグダ\nほらほらっ♪\n観念してしゃがんで～！\n\n# voice 2006 \"daguda_unit_2006\"\n# textflame 1 1\n@ダグダ\nおんぶっ♪おんぶっ♪\n\n# textflame 0 0\n@\nダグダはそう言って\n抱きついてくる\n\n# textflame 0 0\n@\n今度こそ正解できるように、\nもっとダグダのことを\n見てなきゃダメだな…\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

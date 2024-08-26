@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 303224,
+		"script": ";;A散らかってるの？\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_room\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# voice 230321 \"gaedearg_ge_0009\"\n# face %(unit_a)s \"angry\"\n@ガ・ジャルグ\nなっ…！？\nち、ちがうわよっ、失礼ね！\n\n@ガ・ジャルグ\n完璧なわたしの部屋が\n汚いわけないでしょうっ\nちゃんと綺麗にしてるわ！\n\n@ガ・ジャルグ\nそうじゃなくて、その…\nあまり部屋を\n見られたくないの…\n\n@ガ・ジャルグ\n……えっと、それは\nああ、もうわかったわ！\nマスターには教えてあげる\n\n@ガ・ジャルグ\n部屋には鍛錬道具が\nおいてあるのよ…\n\n@ガ・ジャルグ\n鍛錬してるって\nところは\nあんまり見られたくないのよ\n\n# voice 230321 \"gaedearg_ge_0022\"\n# face %(unit_a)s \"sad\"\n@ガ・ジャルグ\n…えっ？\nむしろ見てみたい？\n\n@ガ・ジャルグ\nわたしがどれだけ\nがんばってるのか、\nちゃんと知りたいから…？\n\n# voice 230321 \"gaedearg_ge_0007\"\n# face %(unit_a)s \"angry\"\n@ガ・ジャルグ\nふ、ふんっ…！\nそこまで言うなら\n入れてあげてもいいわ\n\n@ガ・ジャルグ\nでも、口外しないように！\n特にあの子には\n絶対に内緒だからね…！？\n\n@ガ・ジャルグ\n…わたしの秘密、\nマスターにしか\n教えないんだから…\n\n# textflame 0 0\n@\nその後、二人は\nガ・ジャルグの部屋で\n鍛錬をして過ごした…\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

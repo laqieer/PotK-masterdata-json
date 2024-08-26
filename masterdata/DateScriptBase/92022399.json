@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 92022399,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# se \"SE_0732\"\n# face %(unit_a)s \"shy\"\n# textflame 1 1\n@盤古\nその答え…\n\n# textflame 1 1\n# voice 2022 \"banko_0003\"\n@盤古\n…正解だ\n\n# textflame 1 1\n# voice 2022 \"banko_0040\"\n@盤古\n…不思議だ\n\n# textflame 1 1\n@盤古\n左目のうずきが…\n消えた\n\n# textflame 0 0\n@\nそういえば、伝承では\n盤古の左目は太陽になったんだっけ？\n…と彼女に尋ねるマスター\n\n# face %(unit_a)s \"normal\"\n# textflame 1 1\n@盤古\nそうだ\n\n# face %(unit_a)s \"shy\"\n# textflame 1 1\n# voice 2022 \"banko_0005\"\n@盤古\nまた来年も…\nこの目に夏の太陽を\n焼きつけたいものだ\n\n# textflame 0 0\n@\n微笑む彼女\n\n@\n照り付ける太陽の下、\n来年も２人で夏を過ごしたいと\n思うマスターだった…\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

@@ -1,0 +1,3570 @@
+[
+	{
+		"ID": 1,
+		"reward_type_CommonRewardType": 2,
+		"reward_id": 1,
+		"reward_quantity": 1,
+		"reward_title": "生命水×1",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 2,
+		"reward_type_CommonRewardType": 2,
+		"reward_id": 2,
+		"reward_quantity": 1,
+		"reward_title": "強生命水×1",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 3,
+		"reward_type_CommonRewardType": 2,
+		"reward_id": 3,
+		"reward_quantity": 1,
+		"reward_title": "超生命水×1",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 4,
+		"reward_type_CommonRewardType": 2,
+		"reward_id": 4,
+		"reward_quantity": 1,
+		"reward_title": "力の湧水×1",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 5,
+		"reward_type_CommonRewardType": 2,
+		"reward_id": 5,
+		"reward_quantity": 1,
+		"reward_title": "魔の湧水×1",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 6,
+		"reward_type_CommonRewardType": 2,
+		"reward_id": 6,
+		"reward_quantity": 1,
+		"reward_title": "守の湧水×1",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 7,
+		"reward_type_CommonRewardType": 2,
+		"reward_id": 7,
+		"reward_quantity": 1,
+		"reward_title": "精の湧水×1",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 8,
+		"reward_type_CommonRewardType": 2,
+		"reward_id": 8,
+		"reward_quantity": 1,
+		"reward_title": "速の湧水×1",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 9,
+		"reward_type_CommonRewardType": 2,
+		"reward_id": 9,
+		"reward_quantity": 1,
+		"reward_title": "技の湧水×1",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 10,
+		"reward_type_CommonRewardType": 2,
+		"reward_id": 10,
+		"reward_quantity": 1,
+		"reward_title": "力の霊水×1",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 11,
+		"reward_type_CommonRewardType": 2,
+		"reward_id": 11,
+		"reward_quantity": 1,
+		"reward_title": "魔の霊水×1",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 12,
+		"reward_type_CommonRewardType": 2,
+		"reward_id": 12,
+		"reward_quantity": 1,
+		"reward_title": "守の霊水×1",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 13,
+		"reward_type_CommonRewardType": 2,
+		"reward_id": 13,
+		"reward_quantity": 1,
+		"reward_title": "精の霊水×1",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 14,
+		"reward_type_CommonRewardType": 2,
+		"reward_id": 14,
+		"reward_quantity": 1,
+		"reward_title": "速の霊水×1",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 15,
+		"reward_type_CommonRewardType": 2,
+		"reward_id": 15,
+		"reward_quantity": 1,
+		"reward_title": "技の霊水×1",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 16,
+		"reward_type_CommonRewardType": 2,
+		"reward_id": 16,
+		"reward_quantity": 1,
+		"reward_title": "力の神水×1",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 17,
+		"reward_type_CommonRewardType": 2,
+		"reward_id": 17,
+		"reward_quantity": 1,
+		"reward_title": "魔の神水×1",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 18,
+		"reward_type_CommonRewardType": 2,
+		"reward_id": 18,
+		"reward_quantity": 1,
+		"reward_title": "守の神水×1",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 19,
+		"reward_type_CommonRewardType": 2,
+		"reward_id": 19,
+		"reward_quantity": 1,
+		"reward_title": "精の神水×1",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 20,
+		"reward_type_CommonRewardType": 2,
+		"reward_id": 20,
+		"reward_quantity": 1,
+		"reward_title": "速の神水×1",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 21,
+		"reward_type_CommonRewardType": 2,
+		"reward_id": 21,
+		"reward_quantity": 1,
+		"reward_title": "技の神水×1",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 22,
+		"reward_type_CommonRewardType": 2,
+		"reward_id": 30,
+		"reward_quantity": 1,
+		"reward_title": "極生命水×1",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 23,
+		"reward_type_CommonRewardType": 2,
+		"reward_id": 31,
+		"reward_quantity": 1,
+		"reward_title": "毒消生命水×1",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 24,
+		"reward_type_CommonRewardType": 2,
+		"reward_id": 32,
+		"reward_quantity": 1,
+		"reward_title": "気付生命水×1",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 25,
+		"reward_type_CommonRewardType": 2,
+		"reward_id": 33,
+		"reward_quantity": 1,
+		"reward_title": "万能薬×1",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 26,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 700111,
+		"reward_quantity": 1,
+		"reward_title": "剣の精プケン×1",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 27,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 700211,
+		"reward_quantity": 1,
+		"reward_title": "剣の妖精ブラケン×1",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 28,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 700311,
+		"reward_quantity": 1,
+		"reward_title": "剣の精霊リーケン×1",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 29,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 700411,
+		"reward_quantity": 1,
+		"reward_title": "剣蕾姫パルケ×1",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 30,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 700511,
+		"reward_quantity": 1,
+		"reward_title": "緋剣の花女神×1",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 31,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 701211,
+		"reward_quantity": 1,
+		"reward_title": "剣精霊長ラグケン×1",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 32,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 701311,
+		"reward_quantity": 1,
+		"reward_title": "緋剣の麗姫神×1",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 33,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 700121,
+		"reward_quantity": 1,
+		"reward_title": "槍の精プヤン×1",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 34,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 700221,
+		"reward_quantity": 1,
+		"reward_title": "槍の妖精ブラヤン×1",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 35,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 700321,
+		"reward_quantity": 1,
+		"reward_title": "槍の精霊リーヤン×1",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 36,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 700421,
+		"reward_quantity": 1,
+		"reward_title": "槍蕾姫パルヤ×1",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 37,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 700521,
+		"reward_quantity": 1,
+		"reward_title": "蒼槍の花女神×1",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 38,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 701221,
+		"reward_quantity": 1,
+		"reward_title": "槍精霊長ラグヤン×1",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 39,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 701321,
+		"reward_quantity": 1,
+		"reward_title": "蒼槍の麗姫神×1",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 40,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 700151,
+		"reward_quantity": 1,
+		"reward_title": "斧の精プオン×1",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 41,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 700251,
+		"reward_quantity": 1,
+		"reward_title": "斧の妖精ブラオン×1",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 42,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 700351,
+		"reward_quantity": 1,
+		"reward_title": "斧の精霊リーオン×1",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 43,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 700451,
+		"reward_quantity": 1,
+		"reward_title": "斧蕾姫パルオ×1",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 44,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 700551,
+		"reward_quantity": 1,
+		"reward_title": "翠斧の花女神×1",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 45,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 701251,
+		"reward_quantity": 1,
+		"reward_title": "斧精霊長ラグオン×1",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 46,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 701351,
+		"reward_quantity": 1,
+		"reward_title": "翠斧の麗姫神×1",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 47,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 700131,
+		"reward_quantity": 1,
+		"reward_title": "弓の精プユン×1",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 48,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 700231,
+		"reward_quantity": 1,
+		"reward_title": "弓の妖精ブラユン×1",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 49,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 700331,
+		"reward_quantity": 1,
+		"reward_title": "弓の精霊リーユン×1",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 50,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 700431,
+		"reward_quantity": 1,
+		"reward_title": "弓蕾姫パルユ×1",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 51,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 700531,
+		"reward_quantity": 1,
+		"reward_title": "黄弓の花女神×1",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 52,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 701231,
+		"reward_quantity": 1,
+		"reward_title": "弓精霊長ラグユン×1",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 53,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 701331,
+		"reward_quantity": 1,
+		"reward_title": "黄弓の麗姫神×1",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 54,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 700141,
+		"reward_quantity": 1,
+		"reward_title": "魔の精プジン×1",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 55,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 700241,
+		"reward_quantity": 1,
+		"reward_title": "魔の妖精ブラジン×1",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 56,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 700341,
+		"reward_quantity": 1,
+		"reward_title": "魔の精霊リージン×1",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 57,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 700441,
+		"reward_quantity": 1,
+		"reward_title": "魔蕾姫パルジ×1",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 58,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 700541,
+		"reward_quantity": 1,
+		"reward_title": "紫弾の花女神×1",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 59,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 701341,
+		"reward_quantity": 1,
+		"reward_title": "紫弾の麗姫神×1",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 60,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 701241,
+		"reward_quantity": 1,
+		"reward_title": "銃精霊長ラグジン×1",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 61,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 700161,
+		"reward_quantity": 1,
+		"reward_title": "杖の精プツン×1",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 62,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 700261,
+		"reward_quantity": 1,
+		"reward_title": "杖の妖精ブラツン×1",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 63,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 700361,
+		"reward_quantity": 1,
+		"reward_title": "杖の精霊リーツン×1",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 64,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 700461,
+		"reward_quantity": 1,
+		"reward_title": "杖蕾姫パルツ×1",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 65,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 700561,
+		"reward_quantity": 1,
+		"reward_title": "銀杖の花女神×1",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 66,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 701261,
+		"reward_quantity": 1,
+		"reward_title": "杖精霊長ラグツン×1",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 67,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 701361,
+		"reward_quantity": 1,
+		"reward_title": "銀杖の麗姫神×1",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 68,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 700371,
+		"reward_quantity": 1,
+		"reward_title": "虹の精霊リーキン×1",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 69,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 700471,
+		"reward_quantity": 1,
+		"reward_title": "虹蕾姫パルキ×1",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 70,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 700571,
+		"reward_quantity": 1,
+		"reward_title": "虹夢の花女神×1",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 71,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 701271,
+		"reward_quantity": 1,
+		"reward_title": "虹精霊長ラグキン×1",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 72,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 701371,
+		"reward_quantity": 1,
+		"reward_title": "虹夢の麗姫神×1",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 73,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 704020,
+		"reward_quantity": 2,
+		"reward_title": "クラスチェンジディスク×2",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 74,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 704021,
+		"reward_quantity": 2,
+		"reward_title": "バーテックスディスク×2",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 75,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 704031,
+		"reward_quantity": 2,
+		"reward_title": "セイバーディスク×2",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 76,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 704032,
+		"reward_quantity": 2,
+		"reward_title": "ウォーリアーディスク×2",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 77,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 704033,
+		"reward_quantity": 2,
+		"reward_title": "ランサーディスク×2",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 78,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 704034,
+		"reward_quantity": 2,
+		"reward_title": "レンジャーディスク×2",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 79,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 704035,
+		"reward_quantity": 2,
+		"reward_title": "シューターディスク×2",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 80,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 704036,
+		"reward_quantity": 2,
+		"reward_title": "ソーサラーディスク×2",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 81,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 704041,
+		"reward_quantity": 3,
+		"reward_title": "グラウンドディスク×3",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 82,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 704043,
+		"reward_quantity": 2,
+		"reward_title": "ウイングディスク×2",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 83,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 704051,
+		"reward_quantity": 2,
+		"reward_title": "フローティングディスク×2",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 84,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 704061,
+		"reward_quantity": 2,
+		"reward_title": "フレイムディスク×2",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 85,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 704062,
+		"reward_quantity": 2,
+		"reward_title": "ブラストディスク×2",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 86,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 704063,
+		"reward_quantity": 2,
+		"reward_title": "サンダーディスク×2",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 87,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 704064,
+		"reward_quantity": 2,
+		"reward_title": "フローズンディスク×2",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 88,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 704065,
+		"reward_quantity": 2,
+		"reward_title": "シャイニングディスク×2",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 89,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 704066,
+		"reward_quantity": 2,
+		"reward_title": "シャドウディスク×2",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 90,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 704071,
+		"reward_quantity": 2,
+		"reward_title": "ハルモニアディスク×2",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 91,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 704072,
+		"reward_quantity": 2,
+		"reward_title": "ケイオスリオンディスク×2",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 92,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 704073,
+		"reward_quantity": 2,
+		"reward_title": "トレイセーマディスク×2",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 93,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 704074,
+		"reward_quantity": 2,
+		"reward_title": "ティルへルムディスク×2",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 94,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 704075,
+		"reward_quantity": 2,
+		"reward_title": "アビスディスク×2",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 95,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 704079,
+		"reward_quantity": 2,
+		"reward_title": "セブンスディスク×2",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 96,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 704010,
+		"reward_quantity": 2,
+		"reward_title": "レインボーディスク×2",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 97,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 794020,
+		"reward_quantity": 2,
+		"reward_title": "クラスチェンジディスク×2",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 98,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 704022,
+		"reward_quantity": 2,
+		"reward_title": "バーテックスアナザーディスク×2",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 99,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 704023,
+		"reward_quantity": 2,
+		"reward_title": "ディメンションディスク×2",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 100,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 704026,
+		"reward_quantity": 2,
+		"reward_title": "マリンバーテックスディスク×2",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 101,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 700611,
+		"reward_quantity": 2,
+		"reward_title": "ドロップマナン×2",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 102,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 700621,
+		"reward_quantity": 2,
+		"reward_title": "マーブルマナン×2",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 103,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 700631,
+		"reward_quantity": 2,
+		"reward_title": "オーブマナン×2",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 104,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 700641,
+		"reward_quantity": 2,
+		"reward_title": "スフィアマナン×2",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 105,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 700651,
+		"reward_quantity": 2,
+		"reward_title": "プリズムマナン×2",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 106,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 790641,
+		"reward_quantity": 2,
+		"reward_title": "スフィアマナン×2",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 107,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 701114,
+		"reward_quantity": 1,
+		"reward_title": "体力のエネパララ×1",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 108,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 701124,
+		"reward_quantity": 1,
+		"reward_title": "力のパワパララ×1",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 109,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 701134,
+		"reward_quantity": 1,
+		"reward_title": "魔のマジパララ×1",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 110,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 701144,
+		"reward_quantity": 1,
+		"reward_title": "守のディフェパララ×1",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 111,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 701154,
+		"reward_quantity": 1,
+		"reward_title": "精のマインパララ×1",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 112,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 701164,
+		"reward_quantity": 1,
+		"reward_title": "速のスピパララ×1",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 113,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 701174,
+		"reward_quantity": 1,
+		"reward_title": "技のスキパララ×1",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 114,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 701184,
+		"reward_quantity": 1,
+		"reward_title": "運のラキパララ×1",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 115,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 701115,
+		"reward_quantity": 1,
+		"reward_title": "学園のエネパララ×1",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 116,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 701125,
+		"reward_quantity": 1,
+		"reward_title": "学園のパワパララ×1",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 117,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 701135,
+		"reward_quantity": 1,
+		"reward_title": "学園のマジパララ×1",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 118,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 701145,
+		"reward_quantity": 1,
+		"reward_title": "学園のディフェパララ×1",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 119,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 701155,
+		"reward_quantity": 1,
+		"reward_title": "学園のマインパララ×1",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 120,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 701165,
+		"reward_quantity": 1,
+		"reward_title": "学園のスピパララ×1",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 121,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 701175,
+		"reward_quantity": 1,
+		"reward_title": "学園のスキパララ×1",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 122,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 701185,
+		"reward_quantity": 1,
+		"reward_title": "学園のラキパララ×1",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 123,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 701204,
+		"reward_quantity": 1,
+		"reward_title": "忘却のリセパララ×1",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 124,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 700711,
+		"reward_quantity": 1,
+		"reward_title": "体力のエネドルル×1",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 125,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 700721,
+		"reward_quantity": 1,
+		"reward_title": "力のパワドルル×1",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 126,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 700731,
+		"reward_quantity": 1,
+		"reward_title": "魔のマジドルル×1",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 127,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 700741,
+		"reward_quantity": 1,
+		"reward_title": "守のディフェドルル×1",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 128,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 700751,
+		"reward_quantity": 1,
+		"reward_title": "精のマインドルル×1",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 129,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 700761,
+		"reward_quantity": 1,
+		"reward_title": "速のスピドルル×1",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 130,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 700771,
+		"reward_quantity": 1,
+		"reward_title": "技のスキドルル×1",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 131,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 700781,
+		"reward_quantity": 1,
+		"reward_title": "運のラキドルル×1",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 132,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 700831,
+		"reward_quantity": 1,
+		"reward_title": "渚のラキドルル×1",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 133,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 700811,
+		"reward_quantity": 1,
+		"reward_title": "転生のリリボン×1",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 134,
+		"reward_type_CommonRewardType": 3,
+		"reward_id": 90001,
+		"reward_quantity": 3,
+		"reward_title": "金塊・小×3",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 135,
+		"reward_type_CommonRewardType": 3,
+		"reward_id": 90002,
+		"reward_quantity": 3,
+		"reward_title": "金塊・中×3",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 136,
+		"reward_type_CommonRewardType": 3,
+		"reward_id": 90003,
+		"reward_quantity": 3,
+		"reward_title": "金塊・大×3",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 137,
+		"reward_type_CommonRewardType": 3,
+		"reward_id": 90005,
+		"reward_quantity": 3,
+		"reward_title": "金塊・特大×3",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 138,
+		"reward_type_CommonRewardType": 3,
+		"reward_id": 90183,
+		"reward_quantity": 1,
+		"reward_title": "錬成のインゴット・小×1",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 139,
+		"reward_type_CommonRewardType": 3,
+		"reward_id": 90184,
+		"reward_quantity": 1,
+		"reward_title": "錬成のインゴット・中×1",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 140,
+		"reward_type_CommonRewardType": 3,
+		"reward_id": 90185,
+		"reward_quantity": 1,
+		"reward_title": "錬成のインゴット・大×1",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 141,
+		"reward_type_CommonRewardType": 3,
+		"reward_id": 90186,
+		"reward_quantity": 1,
+		"reward_title": "錬成のインゴット・特大×1",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 142,
+		"reward_type_CommonRewardType": 35,
+		"reward_id": 11002,
+		"reward_quantity": 1,
+		"reward_title": "ミスリルソード×1",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 143,
+		"reward_type_CommonRewardType": 35,
+		"reward_id": 21002,
+		"reward_quantity": 1,
+		"reward_title": "ミスリルアクス×1",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 144,
+		"reward_type_CommonRewardType": 35,
+		"reward_id": 31002,
+		"reward_quantity": 1,
+		"reward_title": "ミスリルスピア×1",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 145,
+		"reward_type_CommonRewardType": 35,
+		"reward_id": 41002,
+		"reward_quantity": 1,
+		"reward_title": "ミスリルの弓×1",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 146,
+		"reward_type_CommonRewardType": 35,
+		"reward_id": 51002,
+		"reward_quantity": 1,
+		"reward_title": "ミスリルショット×1",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 147,
+		"reward_type_CommonRewardType": 35,
+		"reward_id": 61002,
+		"reward_quantity": 1,
+		"reward_title": "ミスリルロッド×1",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 148,
+		"reward_type_CommonRewardType": 35,
+		"reward_id": 71002,
+		"reward_quantity": 1,
+		"reward_title": "ミスリルシールド×1",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 149,
+		"reward_type_CommonRewardType": 35,
+		"reward_id": 12001,
+		"reward_quantity": 1,
+		"reward_title": "グレートソード×1",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 150,
+		"reward_type_CommonRewardType": 35,
+		"reward_id": 22001,
+		"reward_quantity": 1,
+		"reward_title": "バトルアクス×1",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 151,
+		"reward_type_CommonRewardType": 35,
+		"reward_id": 32001,
+		"reward_quantity": 1,
+		"reward_title": "グレイヴ×1",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 152,
+		"reward_type_CommonRewardType": 35,
+		"reward_id": 42001,
+		"reward_quantity": 1,
+		"reward_title": "ウインドボウ×1",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 153,
+		"reward_type_CommonRewardType": 35,
+		"reward_id": 52001,
+		"reward_quantity": 1,
+		"reward_title": "ブラストガン×1",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 154,
+		"reward_type_CommonRewardType": 35,
+		"reward_id": 62001,
+		"reward_quantity": 1,
+		"reward_title": "ウィザードロッド×1",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 155,
+		"reward_type_CommonRewardType": 35,
+		"reward_id": 72001,
+		"reward_quantity": 1,
+		"reward_title": "獣牙の盾×1",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 156,
+		"reward_type_CommonRewardType": 35,
+		"reward_id": 13003,
+		"reward_quantity": 1,
+		"reward_title": "白銀の剣×1",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 157,
+		"reward_type_CommonRewardType": 35,
+		"reward_id": 23001,
+		"reward_quantity": 1,
+		"reward_title": "白銀の斧×1",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 158,
+		"reward_type_CommonRewardType": 35,
+		"reward_id": 33001,
+		"reward_quantity": 1,
+		"reward_title": "白銀の槍×1",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 159,
+		"reward_type_CommonRewardType": 35,
+		"reward_id": 43001,
+		"reward_quantity": 1,
+		"reward_title": "白銀の弓×1",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 160,
+		"reward_type_CommonRewardType": 35,
+		"reward_id": 53003,
+		"reward_quantity": 1,
+		"reward_title": "白銀の魔銃×1",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 161,
+		"reward_type_CommonRewardType": 35,
+		"reward_id": 63001,
+		"reward_quantity": 1,
+		"reward_title": "女神の銀杖×1",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 162,
+		"reward_type_CommonRewardType": 35,
+		"reward_id": 73005,
+		"reward_quantity": 1,
+		"reward_title": "白銀の盾×1",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 163,
+		"reward_type_CommonRewardType": 4,
+		"reward_id": 0,
+		"reward_quantity": 50,
+		"reward_title": "ゼニー×50",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 164,
+		"reward_type_CommonRewardType": 4,
+		"reward_id": 0,
+		"reward_quantity": 100,
+		"reward_title": "ゼニー×100",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 165,
+		"reward_type_CommonRewardType": 4,
+		"reward_id": 0,
+		"reward_quantity": 150,
+		"reward_title": "ゼニー×150",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 166,
+		"reward_type_CommonRewardType": 4,
+		"reward_id": 0,
+		"reward_quantity": 200,
+		"reward_title": "ゼニー×200",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 167,
+		"reward_type_CommonRewardType": 4,
+		"reward_id": 0,
+		"reward_quantity": 250,
+		"reward_title": "ゼニー×250",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 168,
+		"reward_type_CommonRewardType": 4,
+		"reward_id": 0,
+		"reward_quantity": 300,
+		"reward_title": "ゼニー×300",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 169,
+		"reward_type_CommonRewardType": 4,
+		"reward_id": 0,
+		"reward_quantity": 1000,
+		"reward_title": "ゼニー×1000",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 170,
+		"reward_type_CommonRewardType": 3,
+		"reward_id": 9010001,
+		"reward_quantity": 1,
+		"reward_title": "聖法霊装［剣001］×1",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 171,
+		"reward_type_CommonRewardType": 3,
+		"reward_id": 9020001,
+		"reward_quantity": 1,
+		"reward_title": "聖法霊装［斧001］×1",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 172,
+		"reward_type_CommonRewardType": 3,
+		"reward_id": 9030001,
+		"reward_quantity": 1,
+		"reward_title": "聖法霊装［槍001］×1",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 173,
+		"reward_type_CommonRewardType": 3,
+		"reward_id": 9040001,
+		"reward_quantity": 1,
+		"reward_title": "聖法霊装［弓001］×1",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 174,
+		"reward_type_CommonRewardType": 3,
+		"reward_id": 9050001,
+		"reward_quantity": 1,
+		"reward_title": "聖法霊装［銃001］×1",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 175,
+		"reward_type_CommonRewardType": 3,
+		"reward_id": 9060001,
+		"reward_quantity": 1,
+		"reward_title": "聖法霊装［杖001］×1",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 176,
+		"reward_type_CommonRewardType": 19,
+		"reward_id": 1,
+		"reward_quantity": 1,
+		"reward_title": "メタルキー×1",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 177,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 704091,
+		"reward_quantity": 2,
+		"reward_title": "メカニカルディスク×2",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 178,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 704042,
+		"reward_quantity": 2,
+		"reward_title": "ライディングディスク×2",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 179,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 704045,
+		"reward_quantity": 2,
+		"reward_title": "ドラゴンディスク×2",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 180,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 704090,
+		"reward_quantity": 2,
+		"reward_title": "スチューデントディスク×2",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 181,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 86023102,
+		"reward_quantity": 1,
+		"reward_title": "キラーズイノセント×1",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 182,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 704095,
+		"reward_quantity": 2,
+		"reward_title": "ラグナディスク×2",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 183,
+		"reward_type_CommonRewardType": 2,
+		"reward_id": 1,
+		"reward_quantity": 2,
+		"reward_title": "生命水×2",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 184,
+		"reward_type_CommonRewardType": 2,
+		"reward_id": 2,
+		"reward_quantity": 2,
+		"reward_title": "強生命水×2",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 185,
+		"reward_type_CommonRewardType": 2,
+		"reward_id": 3,
+		"reward_quantity": 2,
+		"reward_title": "超生命水×2",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 186,
+		"reward_type_CommonRewardType": 2,
+		"reward_id": 4,
+		"reward_quantity": 2,
+		"reward_title": "力の湧水×2",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 187,
+		"reward_type_CommonRewardType": 2,
+		"reward_id": 5,
+		"reward_quantity": 2,
+		"reward_title": "魔の湧水×2",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 188,
+		"reward_type_CommonRewardType": 2,
+		"reward_id": 6,
+		"reward_quantity": 2,
+		"reward_title": "守の湧水×2",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 189,
+		"reward_type_CommonRewardType": 2,
+		"reward_id": 7,
+		"reward_quantity": 2,
+		"reward_title": "精の湧水×2",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 190,
+		"reward_type_CommonRewardType": 2,
+		"reward_id": 8,
+		"reward_quantity": 2,
+		"reward_title": "速の湧水×2",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 191,
+		"reward_type_CommonRewardType": 2,
+		"reward_id": 9,
+		"reward_quantity": 2,
+		"reward_title": "技の湧水×2",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 192,
+		"reward_type_CommonRewardType": 2,
+		"reward_id": 10,
+		"reward_quantity": 2,
+		"reward_title": "力の霊水×2",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 193,
+		"reward_type_CommonRewardType": 2,
+		"reward_id": 11,
+		"reward_quantity": 2,
+		"reward_title": "魔の霊水×2",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 194,
+		"reward_type_CommonRewardType": 2,
+		"reward_id": 12,
+		"reward_quantity": 2,
+		"reward_title": "守の霊水×2",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 195,
+		"reward_type_CommonRewardType": 2,
+		"reward_id": 13,
+		"reward_quantity": 2,
+		"reward_title": "精の霊水×2",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 196,
+		"reward_type_CommonRewardType": 2,
+		"reward_id": 14,
+		"reward_quantity": 2,
+		"reward_title": "速の霊水×2",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 197,
+		"reward_type_CommonRewardType": 2,
+		"reward_id": 15,
+		"reward_quantity": 2,
+		"reward_title": "技の霊水×2",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 198,
+		"reward_type_CommonRewardType": 2,
+		"reward_id": 16,
+		"reward_quantity": 2,
+		"reward_title": "力の神水×2",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 199,
+		"reward_type_CommonRewardType": 2,
+		"reward_id": 17,
+		"reward_quantity": 2,
+		"reward_title": "魔の神水×2",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 200,
+		"reward_type_CommonRewardType": 2,
+		"reward_id": 18,
+		"reward_quantity": 2,
+		"reward_title": "守の神水×2",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 201,
+		"reward_type_CommonRewardType": 2,
+		"reward_id": 19,
+		"reward_quantity": 2,
+		"reward_title": "精の神水×2",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 202,
+		"reward_type_CommonRewardType": 2,
+		"reward_id": 20,
+		"reward_quantity": 2,
+		"reward_title": "速の神水×2",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 203,
+		"reward_type_CommonRewardType": 2,
+		"reward_id": 21,
+		"reward_quantity": 2,
+		"reward_title": "技の神水×2",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 204,
+		"reward_type_CommonRewardType": 2,
+		"reward_id": 30,
+		"reward_quantity": 2,
+		"reward_title": "極生命水×2",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 205,
+		"reward_type_CommonRewardType": 2,
+		"reward_id": 31,
+		"reward_quantity": 2,
+		"reward_title": "毒消生命水×2",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 206,
+		"reward_type_CommonRewardType": 2,
+		"reward_id": 32,
+		"reward_quantity": 2,
+		"reward_title": "気付生命水×2",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 207,
+		"reward_type_CommonRewardType": 2,
+		"reward_id": 33,
+		"reward_quantity": 2,
+		"reward_title": "万能薬×2",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 208,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 700111,
+		"reward_quantity": 2,
+		"reward_title": "剣の精プケン×2",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 209,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 700211,
+		"reward_quantity": 2,
+		"reward_title": "剣の妖精ブラケン×2",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 210,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 700311,
+		"reward_quantity": 2,
+		"reward_title": "剣の精霊リーケン×2",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 211,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 700411,
+		"reward_quantity": 2,
+		"reward_title": "剣蕾姫パルケ×2",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 212,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 700511,
+		"reward_quantity": 2,
+		"reward_title": "緋剣の花女神×2",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 213,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 701211,
+		"reward_quantity": 2,
+		"reward_title": "剣精霊長ラグケン×2",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 214,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 701311,
+		"reward_quantity": 2,
+		"reward_title": "緋剣の麗姫神×2",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 215,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 700121,
+		"reward_quantity": 2,
+		"reward_title": "槍の精プヤン×2",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 216,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 700221,
+		"reward_quantity": 2,
+		"reward_title": "槍の妖精ブラヤン×2",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 217,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 700321,
+		"reward_quantity": 2,
+		"reward_title": "槍の精霊リーヤン×2",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 218,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 700421,
+		"reward_quantity": 2,
+		"reward_title": "槍蕾姫パルヤ×2",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 219,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 700521,
+		"reward_quantity": 2,
+		"reward_title": "蒼槍の花女神×2",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 220,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 701221,
+		"reward_quantity": 2,
+		"reward_title": "槍精霊長ラグヤン×2",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 221,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 701321,
+		"reward_quantity": 2,
+		"reward_title": "蒼槍の麗姫神×2",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 222,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 700151,
+		"reward_quantity": 2,
+		"reward_title": "斧の精プオン×2",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 223,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 700251,
+		"reward_quantity": 2,
+		"reward_title": "斧の妖精ブラオン×2",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 224,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 700351,
+		"reward_quantity": 2,
+		"reward_title": "斧の精霊リーオン×2",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 225,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 700451,
+		"reward_quantity": 2,
+		"reward_title": "斧蕾姫パルオ×2",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 226,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 700551,
+		"reward_quantity": 2,
+		"reward_title": "翠斧の花女神×2",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 227,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 701251,
+		"reward_quantity": 2,
+		"reward_title": "斧精霊長ラグオン×2",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 228,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 701351,
+		"reward_quantity": 2,
+		"reward_title": "翠斧の麗姫神×2",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 229,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 700131,
+		"reward_quantity": 2,
+		"reward_title": "弓の精プユン×2",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 230,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 700231,
+		"reward_quantity": 2,
+		"reward_title": "弓の妖精ブラユン×2",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 231,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 700331,
+		"reward_quantity": 2,
+		"reward_title": "弓の精霊リーユン×2",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 232,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 700431,
+		"reward_quantity": 2,
+		"reward_title": "弓蕾姫パルユ×2",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 233,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 700531,
+		"reward_quantity": 2,
+		"reward_title": "黄弓の花女神×2",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 234,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 701231,
+		"reward_quantity": 2,
+		"reward_title": "弓精霊長ラグユン×2",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 235,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 701331,
+		"reward_quantity": 2,
+		"reward_title": "黄弓の麗姫神×2",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 236,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 700141,
+		"reward_quantity": 2,
+		"reward_title": "魔の精プジン×2",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 237,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 700241,
+		"reward_quantity": 2,
+		"reward_title": "魔の妖精ブラジン×2",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 238,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 700341,
+		"reward_quantity": 2,
+		"reward_title": "魔の精霊リージン×2",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 239,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 700441,
+		"reward_quantity": 2,
+		"reward_title": "魔蕾姫パルジ×2",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 240,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 700541,
+		"reward_quantity": 2,
+		"reward_title": "紫弾の花女神×2",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 241,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 701341,
+		"reward_quantity": 2,
+		"reward_title": "紫弾の麗姫神×2",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 242,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 701241,
+		"reward_quantity": 2,
+		"reward_title": "銃精霊長ラグジン×2",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 243,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 700161,
+		"reward_quantity": 2,
+		"reward_title": "杖の精プツン×2",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 244,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 700261,
+		"reward_quantity": 2,
+		"reward_title": "杖の妖精ブラツン×2",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 245,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 700361,
+		"reward_quantity": 2,
+		"reward_title": "杖の精霊リーツン×2",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 246,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 700461,
+		"reward_quantity": 2,
+		"reward_title": "杖蕾姫パルツ×2",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 247,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 700561,
+		"reward_quantity": 2,
+		"reward_title": "銀杖の花女神×2",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 248,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 701261,
+		"reward_quantity": 2,
+		"reward_title": "杖精霊長ラグツン×2",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 249,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 701361,
+		"reward_quantity": 2,
+		"reward_title": "銀杖の麗姫神×2",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 250,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 700371,
+		"reward_quantity": 2,
+		"reward_title": "虹の精霊リーキン×2",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 251,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 700471,
+		"reward_quantity": 2,
+		"reward_title": "虹蕾姫パルキ×2",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 252,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 700571,
+		"reward_quantity": 2,
+		"reward_title": "虹夢の花女神×2",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 253,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 701271,
+		"reward_quantity": 2,
+		"reward_title": "虹精霊長ラグキン×2",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 254,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 701371,
+		"reward_quantity": 2,
+		"reward_title": "虹夢の麗姫神×2",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 255,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 704020,
+		"reward_quantity": 4,
+		"reward_title": "クラスチェンジディスク×4",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 256,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 704021,
+		"reward_quantity": 4,
+		"reward_title": "バーテックスディスク×4",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 257,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 704031,
+		"reward_quantity": 4,
+		"reward_title": "セイバーディスク×4",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 258,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 704032,
+		"reward_quantity": 4,
+		"reward_title": "ウォーリアーディスク×4",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 259,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 704033,
+		"reward_quantity": 4,
+		"reward_title": "ランサーディスク×4",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 260,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 704034,
+		"reward_quantity": 4,
+		"reward_title": "レンジャーディスク×4",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 261,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 704035,
+		"reward_quantity": 4,
+		"reward_title": "シューターディスク×4",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 262,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 704036,
+		"reward_quantity": 4,
+		"reward_title": "ソーサラーディスク×4",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 263,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 704041,
+		"reward_quantity": 6,
+		"reward_title": "グラウンドディスク×6",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 264,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 704043,
+		"reward_quantity": 4,
+		"reward_title": "ウイングディスク×4",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 265,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 704051,
+		"reward_quantity": 4,
+		"reward_title": "フローティングディスク×4",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 266,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 704061,
+		"reward_quantity": 4,
+		"reward_title": "フレイムディスク×4",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 267,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 704062,
+		"reward_quantity": 4,
+		"reward_title": "ブラストディスク×4",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 268,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 704063,
+		"reward_quantity": 4,
+		"reward_title": "サンダーディスク×4",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 269,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 704064,
+		"reward_quantity": 4,
+		"reward_title": "フローズンディスク×4",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 270,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 704065,
+		"reward_quantity": 4,
+		"reward_title": "シャイニングディスク×4",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 271,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 704066,
+		"reward_quantity": 4,
+		"reward_title": "シャドウディスク×4",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 272,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 704071,
+		"reward_quantity": 4,
+		"reward_title": "ハルモニアディスク×4",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 273,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 704072,
+		"reward_quantity": 4,
+		"reward_title": "ケイオスリオンディスク×4",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 274,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 704073,
+		"reward_quantity": 4,
+		"reward_title": "トレイセーマディスク×4",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 275,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 704074,
+		"reward_quantity": 4,
+		"reward_title": "ティルへルムディスク×4",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 276,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 704075,
+		"reward_quantity": 4,
+		"reward_title": "アビスディスク×4",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 277,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 704079,
+		"reward_quantity": 4,
+		"reward_title": "セブンスディスク×4",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 278,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 704010,
+		"reward_quantity": 4,
+		"reward_title": "レインボーディスク×4",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 279,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 794020,
+		"reward_quantity": 4,
+		"reward_title": "クラスチェンジディスク×4",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 280,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 704022,
+		"reward_quantity": 4,
+		"reward_title": "バーテックスアナザーディスク×4",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 281,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 704023,
+		"reward_quantity": 4,
+		"reward_title": "ディメンションディスク×4",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 282,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 704026,
+		"reward_quantity": 4,
+		"reward_title": "マリンバーテックスディスク×4",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 283,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 700611,
+		"reward_quantity": 4,
+		"reward_title": "ドロップマナン×4",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 284,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 700621,
+		"reward_quantity": 4,
+		"reward_title": "マーブルマナン×4",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 285,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 700631,
+		"reward_quantity": 4,
+		"reward_title": "オーブマナン×4",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 286,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 700641,
+		"reward_quantity": 4,
+		"reward_title": "スフィアマナン×4",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 287,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 700651,
+		"reward_quantity": 4,
+		"reward_title": "プリズムマナン×4",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 288,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 790641,
+		"reward_quantity": 4,
+		"reward_title": "スフィアマナン×4",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 289,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 701114,
+		"reward_quantity": 2,
+		"reward_title": "体力のエネパララ×2",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 290,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 701124,
+		"reward_quantity": 2,
+		"reward_title": "力のパワパララ×2",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 291,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 701134,
+		"reward_quantity": 2,
+		"reward_title": "魔のマジパララ×2",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 292,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 701144,
+		"reward_quantity": 2,
+		"reward_title": "守のディフェパララ×2",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 293,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 701154,
+		"reward_quantity": 2,
+		"reward_title": "精のマインパララ×2",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 294,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 701164,
+		"reward_quantity": 2,
+		"reward_title": "速のスピパララ×2",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 295,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 701174,
+		"reward_quantity": 2,
+		"reward_title": "技のスキパララ×2",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 296,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 701184,
+		"reward_quantity": 2,
+		"reward_title": "運のラキパララ×2",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 297,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 701115,
+		"reward_quantity": 2,
+		"reward_title": "学園のエネパララ×2",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 298,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 701125,
+		"reward_quantity": 2,
+		"reward_title": "学園のパワパララ×2",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 299,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 701135,
+		"reward_quantity": 2,
+		"reward_title": "学園のマジパララ×2",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 300,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 701145,
+		"reward_quantity": 2,
+		"reward_title": "学園のディフェパララ×2",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 301,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 701155,
+		"reward_quantity": 2,
+		"reward_title": "学園のマインパララ×2",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 302,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 701165,
+		"reward_quantity": 2,
+		"reward_title": "学園のスピパララ×2",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 303,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 701175,
+		"reward_quantity": 2,
+		"reward_title": "学園のスキパララ×2",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 304,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 701185,
+		"reward_quantity": 2,
+		"reward_title": "学園のラキパララ×2",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 305,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 701204,
+		"reward_quantity": 2,
+		"reward_title": "忘却のリセパララ×2",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 306,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 700711,
+		"reward_quantity": 2,
+		"reward_title": "体力のエネドルル×2",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 307,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 700721,
+		"reward_quantity": 2,
+		"reward_title": "力のパワドルル×2",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 308,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 700731,
+		"reward_quantity": 2,
+		"reward_title": "魔のマジドルル×2",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 309,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 700741,
+		"reward_quantity": 2,
+		"reward_title": "守のディフェドルル×2",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 310,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 700751,
+		"reward_quantity": 2,
+		"reward_title": "精のマインドルル×2",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 311,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 700761,
+		"reward_quantity": 2,
+		"reward_title": "速のスピドルル×2",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 312,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 700771,
+		"reward_quantity": 2,
+		"reward_title": "技のスキドルル×2",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 313,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 700781,
+		"reward_quantity": 2,
+		"reward_title": "運のラキドルル×2",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 314,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 700831,
+		"reward_quantity": 2,
+		"reward_title": "渚のラキドルル×2",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 315,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 700811,
+		"reward_quantity": 2,
+		"reward_title": "転生のリリボン×2",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 316,
+		"reward_type_CommonRewardType": 3,
+		"reward_id": 90001,
+		"reward_quantity": 6,
+		"reward_title": "金塊・小×6",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 317,
+		"reward_type_CommonRewardType": 3,
+		"reward_id": 90002,
+		"reward_quantity": 6,
+		"reward_title": "金塊・中×6",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 318,
+		"reward_type_CommonRewardType": 3,
+		"reward_id": 90003,
+		"reward_quantity": 6,
+		"reward_title": "金塊・大×6",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 319,
+		"reward_type_CommonRewardType": 3,
+		"reward_id": 90005,
+		"reward_quantity": 6,
+		"reward_title": "金塊・特大×6",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 320,
+		"reward_type_CommonRewardType": 3,
+		"reward_id": 90183,
+		"reward_quantity": 2,
+		"reward_title": "錬成のインゴット・小×2",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 321,
+		"reward_type_CommonRewardType": 3,
+		"reward_id": 90184,
+		"reward_quantity": 2,
+		"reward_title": "錬成のインゴット・中×2",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 322,
+		"reward_type_CommonRewardType": 3,
+		"reward_id": 90185,
+		"reward_quantity": 2,
+		"reward_title": "錬成のインゴット・大×2",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 323,
+		"reward_type_CommonRewardType": 3,
+		"reward_id": 90186,
+		"reward_quantity": 2,
+		"reward_title": "錬成のインゴット・特大×2",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 324,
+		"reward_type_CommonRewardType": 35,
+		"reward_id": 11002,
+		"reward_quantity": 2,
+		"reward_title": "ミスリルソード×2",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 325,
+		"reward_type_CommonRewardType": 35,
+		"reward_id": 21002,
+		"reward_quantity": 2,
+		"reward_title": "ミスリルアクス×2",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 326,
+		"reward_type_CommonRewardType": 35,
+		"reward_id": 31002,
+		"reward_quantity": 2,
+		"reward_title": "ミスリルスピア×2",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 327,
+		"reward_type_CommonRewardType": 35,
+		"reward_id": 41002,
+		"reward_quantity": 2,
+		"reward_title": "ミスリルの弓×2",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 328,
+		"reward_type_CommonRewardType": 35,
+		"reward_id": 51002,
+		"reward_quantity": 2,
+		"reward_title": "ミスリルショット×2",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 329,
+		"reward_type_CommonRewardType": 35,
+		"reward_id": 61002,
+		"reward_quantity": 2,
+		"reward_title": "ミスリルロッド×2",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 330,
+		"reward_type_CommonRewardType": 35,
+		"reward_id": 71002,
+		"reward_quantity": 2,
+		"reward_title": "ミスリルシールド×2",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 331,
+		"reward_type_CommonRewardType": 35,
+		"reward_id": 12001,
+		"reward_quantity": 2,
+		"reward_title": "グレートソード×2",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 332,
+		"reward_type_CommonRewardType": 35,
+		"reward_id": 22001,
+		"reward_quantity": 2,
+		"reward_title": "バトルアクス×2",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 333,
+		"reward_type_CommonRewardType": 35,
+		"reward_id": 32001,
+		"reward_quantity": 2,
+		"reward_title": "グレイヴ×2",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 334,
+		"reward_type_CommonRewardType": 35,
+		"reward_id": 42001,
+		"reward_quantity": 2,
+		"reward_title": "ウインドボウ×2",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 335,
+		"reward_type_CommonRewardType": 35,
+		"reward_id": 52001,
+		"reward_quantity": 2,
+		"reward_title": "ブラストガン×2",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 336,
+		"reward_type_CommonRewardType": 35,
+		"reward_id": 62001,
+		"reward_quantity": 2,
+		"reward_title": "ウィザードロッド×2",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 337,
+		"reward_type_CommonRewardType": 35,
+		"reward_id": 72001,
+		"reward_quantity": 2,
+		"reward_title": "獣牙の盾×2",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 338,
+		"reward_type_CommonRewardType": 35,
+		"reward_id": 13003,
+		"reward_quantity": 2,
+		"reward_title": "白銀の剣×2",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 339,
+		"reward_type_CommonRewardType": 35,
+		"reward_id": 23001,
+		"reward_quantity": 2,
+		"reward_title": "白銀の斧×2",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 340,
+		"reward_type_CommonRewardType": 35,
+		"reward_id": 33001,
+		"reward_quantity": 2,
+		"reward_title": "白銀の槍×2",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 341,
+		"reward_type_CommonRewardType": 35,
+		"reward_id": 43001,
+		"reward_quantity": 2,
+		"reward_title": "白銀の弓×2",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 342,
+		"reward_type_CommonRewardType": 35,
+		"reward_id": 53003,
+		"reward_quantity": 2,
+		"reward_title": "白銀の魔銃×2",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 343,
+		"reward_type_CommonRewardType": 35,
+		"reward_id": 63001,
+		"reward_quantity": 2,
+		"reward_title": "女神の銀杖×2",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 344,
+		"reward_type_CommonRewardType": 35,
+		"reward_id": 73005,
+		"reward_quantity": 2,
+		"reward_title": "白銀の盾×2",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 345,
+		"reward_type_CommonRewardType": 4,
+		"reward_id": 0,
+		"reward_quantity": 100,
+		"reward_title": "ゼニー×100",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 346,
+		"reward_type_CommonRewardType": 4,
+		"reward_id": 0,
+		"reward_quantity": 200,
+		"reward_title": "ゼニー×200",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 347,
+		"reward_type_CommonRewardType": 4,
+		"reward_id": 0,
+		"reward_quantity": 300,
+		"reward_title": "ゼニー×300",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 348,
+		"reward_type_CommonRewardType": 4,
+		"reward_id": 0,
+		"reward_quantity": 400,
+		"reward_title": "ゼニー×400",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 349,
+		"reward_type_CommonRewardType": 4,
+		"reward_id": 0,
+		"reward_quantity": 500,
+		"reward_title": "ゼニー×500",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 350,
+		"reward_type_CommonRewardType": 4,
+		"reward_id": 0,
+		"reward_quantity": 600,
+		"reward_title": "ゼニー×600",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 351,
+		"reward_type_CommonRewardType": 4,
+		"reward_id": 0,
+		"reward_quantity": 2000,
+		"reward_title": "ゼニー×2000",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 352,
+		"reward_type_CommonRewardType": 3,
+		"reward_id": 9010001,
+		"reward_quantity": 2,
+		"reward_title": "聖法霊装［剣001］×2",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 353,
+		"reward_type_CommonRewardType": 3,
+		"reward_id": 9020001,
+		"reward_quantity": 2,
+		"reward_title": "聖法霊装［斧001］×2",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 354,
+		"reward_type_CommonRewardType": 3,
+		"reward_id": 9030001,
+		"reward_quantity": 2,
+		"reward_title": "聖法霊装［槍001］×2",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 355,
+		"reward_type_CommonRewardType": 3,
+		"reward_id": 9040001,
+		"reward_quantity": 2,
+		"reward_title": "聖法霊装［弓001］×2",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 356,
+		"reward_type_CommonRewardType": 3,
+		"reward_id": 9050001,
+		"reward_quantity": 2,
+		"reward_title": "聖法霊装［銃001］×2",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 357,
+		"reward_type_CommonRewardType": 3,
+		"reward_id": 9060001,
+		"reward_quantity": 2,
+		"reward_title": "聖法霊装［杖001］×2",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 358,
+		"reward_type_CommonRewardType": 19,
+		"reward_id": 1,
+		"reward_quantity": 2,
+		"reward_title": "メタルキー×2",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 359,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 704091,
+		"reward_quantity": 4,
+		"reward_title": "メカニカルディスク×4",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 360,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 704042,
+		"reward_quantity": 4,
+		"reward_title": "ライディングディスク×4",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 361,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 704045,
+		"reward_quantity": 4,
+		"reward_title": "ドラゴンディスク×4",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 362,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 704090,
+		"reward_quantity": 4,
+		"reward_title": "スチューデントディスク×4",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 363,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 86023102,
+		"reward_quantity": 2,
+		"reward_title": "キラーズイノセント×2",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 364,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 704095,
+		"reward_quantity": 4,
+		"reward_title": "ラグナディスク×4",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 365,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 704092,
+		"reward_quantity": 4,
+		"reward_title": "イミテイトディスク×4",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 366,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 704094,
+		"reward_quantity": 4,
+		"reward_title": "コマンドディスク×4",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 367,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 704096,
+		"reward_quantity": 4,
+		"reward_title": "インテグラルディスク×4",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 368,
+		"reward_type_CommonRewardType": 4,
+		"reward_id": 0,
+		"reward_quantity": 1500,
+		"reward_title": "ゼニー×1500",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 369,
+		"reward_type_CommonRewardType": 4,
+		"reward_id": 0,
+		"reward_quantity": 5000,
+		"reward_title": "ゼニー×5000",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 370,
+		"reward_type_CommonRewardType": 4,
+		"reward_id": 0,
+		"reward_quantity": 10000,
+		"reward_title": "ゼニー×10000",
+		"reward_message": "探索ドロップ"
+	},
+	{
+		"ID": 371,
+		"reward_type_CommonRewardType": 4,
+		"reward_id": 0,
+		"reward_quantity": 7777,
+		"reward_title": "ゼニー×7777",
+		"reward_message": ""
+	},
+	{
+		"ID": 372,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 704031,
+		"reward_quantity": 7,
+		"reward_title": "セイバーディスク×7",
+		"reward_message": ""
+	},
+	{
+		"ID": 373,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 704032,
+		"reward_quantity": 7,
+		"reward_title": "ウォーリアーディスク×7",
+		"reward_message": ""
+	},
+	{
+		"ID": 374,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 704033,
+		"reward_quantity": 7,
+		"reward_title": "ランサーディスク×7",
+		"reward_message": ""
+	},
+	{
+		"ID": 375,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 704034,
+		"reward_quantity": 7,
+		"reward_title": "レンジャーディスク×7",
+		"reward_message": ""
+	},
+	{
+		"ID": 376,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 704035,
+		"reward_quantity": 7,
+		"reward_title": "シューターディスク×7",
+		"reward_message": ""
+	},
+	{
+		"ID": 377,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 704036,
+		"reward_quantity": 7,
+		"reward_title": "ソーサラーディスク×7",
+		"reward_message": ""
+	},
+	{
+		"ID": 378,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 704041,
+		"reward_quantity": 7,
+		"reward_title": "グラウンドディスク×7",
+		"reward_message": ""
+	},
+	{
+		"ID": 379,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 704043,
+		"reward_quantity": 7,
+		"reward_title": "ウイングディスク×7",
+		"reward_message": ""
+	},
+	{
+		"ID": 380,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 704051,
+		"reward_quantity": 7,
+		"reward_title": "フローティングディスク×7",
+		"reward_message": ""
+	},
+	{
+		"ID": 381,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 704061,
+		"reward_quantity": 7,
+		"reward_title": "フレイムディスク×7",
+		"reward_message": ""
+	},
+	{
+		"ID": 382,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 704062,
+		"reward_quantity": 7,
+		"reward_title": "ブラストディスク×7",
+		"reward_message": ""
+	},
+	{
+		"ID": 383,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 704063,
+		"reward_quantity": 7,
+		"reward_title": "サンダーディスク×7",
+		"reward_message": ""
+	},
+	{
+		"ID": 384,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 704064,
+		"reward_quantity": 7,
+		"reward_title": "フローズンディスク×7",
+		"reward_message": ""
+	},
+	{
+		"ID": 385,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 704065,
+		"reward_quantity": 7,
+		"reward_title": "シャイニングディスク×7",
+		"reward_message": ""
+	},
+	{
+		"ID": 386,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 704066,
+		"reward_quantity": 7,
+		"reward_title": "シャドウディスク×7",
+		"reward_message": ""
+	},
+	{
+		"ID": 387,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 704071,
+		"reward_quantity": 7,
+		"reward_title": "ハルモニアディスク×7",
+		"reward_message": ""
+	},
+	{
+		"ID": 388,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 704072,
+		"reward_quantity": 7,
+		"reward_title": "ケイオスリオンディスク×7",
+		"reward_message": ""
+	},
+	{
+		"ID": 389,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 704073,
+		"reward_quantity": 7,
+		"reward_title": "トレイセーマディスク×7",
+		"reward_message": ""
+	},
+	{
+		"ID": 390,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 704091,
+		"reward_quantity": 7,
+		"reward_title": "メカニカルディスク×7",
+		"reward_message": ""
+	},
+	{
+		"ID": 391,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 704042,
+		"reward_quantity": 7,
+		"reward_title": "ライディングディスク×7",
+		"reward_message": ""
+	},
+	{
+		"ID": 392,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 704045,
+		"reward_quantity": 7,
+		"reward_title": "ドラゴンディスク×7",
+		"reward_message": ""
+	},
+	{
+		"ID": 393,
+		"reward_type_CommonRewardType": 4,
+		"reward_id": 0,
+		"reward_quantity": 77777,
+		"reward_title": "ゼニー×77777",
+		"reward_message": ""
+	},
+	{
+		"ID": 394,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 700711,
+		"reward_quantity": 7,
+		"reward_title": "体力のエネドルル×7",
+		"reward_message": ""
+	},
+	{
+		"ID": 395,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 700721,
+		"reward_quantity": 7,
+		"reward_title": "力のパワドルル×7",
+		"reward_message": ""
+	},
+	{
+		"ID": 396,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 700731,
+		"reward_quantity": 7,
+		"reward_title": "魔のマジドルル×7",
+		"reward_message": ""
+	},
+	{
+		"ID": 397,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 700741,
+		"reward_quantity": 7,
+		"reward_title": "守のディフェドルル×7",
+		"reward_message": ""
+	},
+	{
+		"ID": 398,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 700751,
+		"reward_quantity": 7,
+		"reward_title": "精のマインドルル×7",
+		"reward_message": ""
+	},
+	{
+		"ID": 399,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 700761,
+		"reward_quantity": 7,
+		"reward_title": "速のスピドルル×7",
+		"reward_message": ""
+	},
+	{
+		"ID": 400,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 700771,
+		"reward_quantity": 7,
+		"reward_title": "技のスキドルル×7",
+		"reward_message": ""
+	},
+	{
+		"ID": 401,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 700811,
+		"reward_quantity": 7,
+		"reward_title": "転生のリリボン×7",
+		"reward_message": ""
+	},
+	{
+		"ID": 402,
+		"reward_type_CommonRewardType": 19,
+		"reward_id": 1,
+		"reward_quantity": 7,
+		"reward_title": "メタルキー×7",
+		"reward_message": ""
+	},
+	{
+		"ID": 403,
+		"reward_type_CommonRewardType": 4,
+		"reward_id": 0,
+		"reward_quantity": 8888,
+		"reward_title": "ゼニー×8888",
+		"reward_message": ""
+	},
+	{
+		"ID": 404,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 704031,
+		"reward_quantity": 8,
+		"reward_title": "セイバーディスク×8",
+		"reward_message": ""
+	},
+	{
+		"ID": 405,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 704032,
+		"reward_quantity": 8,
+		"reward_title": "ウォーリアーディスク×8",
+		"reward_message": ""
+	},
+	{
+		"ID": 406,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 704033,
+		"reward_quantity": 8,
+		"reward_title": "ランサーディスク×8",
+		"reward_message": ""
+	},
+	{
+		"ID": 407,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 704034,
+		"reward_quantity": 8,
+		"reward_title": "レンジャーディスク×8",
+		"reward_message": ""
+	},
+	{
+		"ID": 408,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 704035,
+		"reward_quantity": 8,
+		"reward_title": "シューターディスク×8",
+		"reward_message": ""
+	},
+	{
+		"ID": 409,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 704036,
+		"reward_quantity": 8,
+		"reward_title": "ソーサラーディスク×8",
+		"reward_message": ""
+	},
+	{
+		"ID": 410,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 704041,
+		"reward_quantity": 8,
+		"reward_title": "グラウンドディスク×8",
+		"reward_message": ""
+	},
+	{
+		"ID": 411,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 704043,
+		"reward_quantity": 8,
+		"reward_title": "ウイングディスク×8",
+		"reward_message": ""
+	},
+	{
+		"ID": 412,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 704051,
+		"reward_quantity": 8,
+		"reward_title": "フローティングディスク×8",
+		"reward_message": ""
+	},
+	{
+		"ID": 413,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 704061,
+		"reward_quantity": 8,
+		"reward_title": "フレイムディスク×8",
+		"reward_message": ""
+	},
+	{
+		"ID": 414,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 704062,
+		"reward_quantity": 8,
+		"reward_title": "ブラストディスク×8",
+		"reward_message": ""
+	},
+	{
+		"ID": 415,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 704063,
+		"reward_quantity": 8,
+		"reward_title": "サンダーディスク×8",
+		"reward_message": ""
+	},
+	{
+		"ID": 416,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 704064,
+		"reward_quantity": 8,
+		"reward_title": "フローズンディスク×8",
+		"reward_message": ""
+	},
+	{
+		"ID": 417,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 704065,
+		"reward_quantity": 8,
+		"reward_title": "シャイニングディスク×8",
+		"reward_message": ""
+	},
+	{
+		"ID": 418,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 704066,
+		"reward_quantity": 8,
+		"reward_title": "シャドウディスク×8",
+		"reward_message": ""
+	},
+	{
+		"ID": 419,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 704071,
+		"reward_quantity": 8,
+		"reward_title": "ハルモニアディスク×8",
+		"reward_message": ""
+	},
+	{
+		"ID": 420,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 704072,
+		"reward_quantity": 8,
+		"reward_title": "ケイオスリオンディスク×8",
+		"reward_message": ""
+	},
+	{
+		"ID": 421,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 704073,
+		"reward_quantity": 8,
+		"reward_title": "トレイセーマディスク×8",
+		"reward_message": ""
+	},
+	{
+		"ID": 422,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 704091,
+		"reward_quantity": 8,
+		"reward_title": "メカニカルディスク×8",
+		"reward_message": ""
+	},
+	{
+		"ID": 423,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 704042,
+		"reward_quantity": 8,
+		"reward_title": "ライディングディスク×8",
+		"reward_message": ""
+	},
+	{
+		"ID": 424,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 704045,
+		"reward_quantity": 8,
+		"reward_title": "ドラゴンディスク×8",
+		"reward_message": ""
+	},
+	{
+		"ID": 425,
+		"reward_type_CommonRewardType": 4,
+		"reward_id": 0,
+		"reward_quantity": 88888,
+		"reward_title": "ゼニー×88888",
+		"reward_message": ""
+	},
+	{
+		"ID": 426,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 700711,
+		"reward_quantity": 8,
+		"reward_title": "体力のエネドルル×8",
+		"reward_message": ""
+	},
+	{
+		"ID": 427,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 700721,
+		"reward_quantity": 8,
+		"reward_title": "力のパワドルル×8",
+		"reward_message": ""
+	},
+	{
+		"ID": 428,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 700731,
+		"reward_quantity": 8,
+		"reward_title": "魔のマジドルル×8",
+		"reward_message": ""
+	},
+	{
+		"ID": 429,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 700741,
+		"reward_quantity": 8,
+		"reward_title": "守のディフェドルル×8",
+		"reward_message": ""
+	},
+	{
+		"ID": 430,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 700751,
+		"reward_quantity": 8,
+		"reward_title": "精のマインドルル×8",
+		"reward_message": ""
+	},
+	{
+		"ID": 431,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 700761,
+		"reward_quantity": 8,
+		"reward_title": "速のスピドルル×8",
+		"reward_message": ""
+	},
+	{
+		"ID": 432,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 700771,
+		"reward_quantity": 8,
+		"reward_title": "技のスキドルル×8",
+		"reward_message": ""
+	},
+	{
+		"ID": 433,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 700811,
+		"reward_quantity": 8,
+		"reward_title": "転生のリリボン×8",
+		"reward_message": ""
+	},
+	{
+		"ID": 434,
+		"reward_type_CommonRewardType": 19,
+		"reward_id": 1,
+		"reward_quantity": 8,
+		"reward_title": "メタルキー×8",
+		"reward_message": ""
+	},
+	{
+		"ID": 435,
+		"reward_type_CommonRewardType": 3,
+		"reward_id": 100290,
+		"reward_quantity": 1,
+		"reward_title": "超長命のマナシード×1",
+		"reward_message": ""
+	},
+	{
+		"ID": 436,
+		"reward_type_CommonRewardType": 3,
+		"reward_id": 100309,
+		"reward_quantity": 1,
+		"reward_title": "超神気のマナシード×1",
+		"reward_message": ""
+	},
+	{
+		"ID": 437,
+		"reward_type_CommonRewardType": 3,
+		"reward_id": 100308,
+		"reward_quantity": 1,
+		"reward_title": "超高魔のマナシード×1",
+		"reward_message": ""
+	},
+	{
+		"ID": 438,
+		"reward_type_CommonRewardType": 3,
+		"reward_id": 100305,
+		"reward_quantity": 1,
+		"reward_title": "超堅守のマナシード×1",
+		"reward_message": ""
+	},
+	{
+		"ID": 439,
+		"reward_type_CommonRewardType": 3,
+		"reward_id": 100307,
+		"reward_quantity": 1,
+		"reward_title": "超剛力のマナシード×1",
+		"reward_message": ""
+	},
+	{
+		"ID": 440,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 702312,
+		"reward_quantity": 1,
+		"reward_title": "ギアネクトル×1",
+		"reward_message": ""
+	},
+	{
+		"ID": 441,
+		"reward_type_CommonRewardType": 3,
+		"reward_id": 100219,
+		"reward_quantity": 1,
+		"reward_title": "超虹彩のマナシード×1",
+		"reward_message": ""
+	},
+	{
+		"ID": 442,
+		"reward_type_CommonRewardType": 3,
+		"reward_id": 100101,
+		"reward_quantity": 1,
+		"reward_title": "剛力のマナシード×1",
+		"reward_message": ""
+	},
+	{
+		"ID": 443,
+		"reward_type_CommonRewardType": 3,
+		"reward_id": 100103,
+		"reward_quantity": 1,
+		"reward_title": "高魔のマナシード×1",
+		"reward_message": ""
+	},
+	{
+		"ID": 444,
+		"reward_type_CommonRewardType": 3,
+		"reward_id": 100102,
+		"reward_quantity": 1,
+		"reward_title": "堅守のマナシード×1",
+		"reward_message": ""
+	},
+	{
+		"ID": 445,
+		"reward_type_CommonRewardType": 3,
+		"reward_id": 100104,
+		"reward_quantity": 1,
+		"reward_title": "神気のマナシード×1",
+		"reward_message": ""
+	},
+	{
+		"ID": 446,
+		"reward_type_CommonRewardType": 3,
+		"reward_id": 100106,
+		"reward_quantity": 1,
+		"reward_title": "妙技のマナシード×1",
+		"reward_message": ""
+	}
+]

@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 400713,
+		"script": "# script \"lisp\"\n# fadein \"black\" 0.5\n# background %(background)s\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n@シェキナー\nそういうと\nものすごく自己主張が\n強そうですね…\n\n# face %(unit_a)s \"sad\"\n# voice 4007 \"shekina_0001\"\n@シェキナー\nマスターは、その…\n通常よりも派手めな雰囲気は\n好きではないですか…？\n\n# textflame 0 0\n@\n暗がりなのに\nシェキナーが目を泳がせているのが\nわかる気がした\n\n@\nシェキナーは派手好きなのだが…\n彼女の場合は似合っているし\nいいことだとマスターは思っていた\n\n# face %(unit_a)s \"normal\"\n# textflame 1 1\n# voice 4007 \"shekina_0005\"\n@シェキナー\nそう言ってもらえると\n助かるというか\nうれしいというか…\n\n# face %(unit_a)s \"smile\"\n@シェキナー\nでも、直視できないほど\n輝くのは考えものですよね…！\n\n# textflame 0 0\n@\n今でも十分目のやり場に困るほど\n魅力的なのだが…という言葉は\nぐっと飲み込むマスターであった\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

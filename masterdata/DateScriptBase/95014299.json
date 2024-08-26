@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 95014299,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# se \"SE_0732\"\n# textflame 1 1\n# eye %(unit_a)s \"close\"\n@%(unitName:unit_a)s\nその答え…\n\n# eye %(unit_a)s \"normal\"\n# voice 5014 \"mami_0041\"\n@%(unitName:unit_a)s\n大正解！\n\n@%(unitName:unit_a)s\nさすがは私たちのマスターね\n\n@%(unitName:unit_a)s\nあなたと一緒なら\n\n@%(unitName:unit_a)s\n本当に世界を守れそう\n\n# face %(unit_a)s \"happy\"\n# voice 5014 \"mami_0002\"\n@%(unitName:unit_a)s\nだから、これからもよろしくね\n\n# textflame 0 0\n@\nそう話す彼女に、\n日も暮れるし、そろそろ帰ろうか？\nと提案するマスター\n\n@\nだが…、\n\n# voice 5014 \"mami_0004\"\n# textflame 1 1\n@%(unitName:unit_a)s\nうふふ\n\n@%(unitName:unit_a)s\nもう少し\nゆっくりしていかない？\n\n# textflame 0 0\n@\nイタズラっぽく笑う彼女\n\n@\nマスターは、\n今日一日で心の距離が\n近づいたことを感じていた\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

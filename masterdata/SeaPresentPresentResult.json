@@ -1,0 +1,5006 @@
+[
+	{
+		"ID": 1,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 3024,
+		"affinity_SeaPresentAffinity": 1,
+		"serif": "別に無理に褒美をくれなくても！\n…でも、ありがとう",
+		"face": "smile",
+		"voice_cue_name": "tonbokiri_0041"
+	},
+	{
+		"ID": 2,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 3024,
+		"affinity_SeaPresentAffinity": 2,
+		"serif": "なんの褒美かしら…？\nもちろんもらえるものはもらうけど！",
+		"face": "smile",
+		"voice_cue_name": "tonbokiri_0020"
+	},
+	{
+		"ID": 3,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 3024,
+		"affinity_SeaPresentAffinity": 3,
+		"serif": "あ、ありがとっ！",
+		"face": "smile",
+		"voice_cue_name": "tonbokiri_0030"
+	},
+	{
+		"ID": 4,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 3024,
+		"affinity_SeaPresentAffinity": 4,
+		"serif": "頂戴します",
+		"face": "normal",
+		"voice_cue_name": "tonbokiri_0008"
+	},
+	{
+		"ID": 5,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 1008,
+		"affinity_SeaPresentAffinity": 1,
+		"serif": "これ…私にだけ？\nそ、そっか…ありがとう…！",
+		"face": "smile",
+		"voice_cue_name": "guramu_0030"
+	},
+	{
+		"ID": 6,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 1008,
+		"affinity_SeaPresentAffinity": 2,
+		"serif": "も～、女の子をモノで釣るとか～\nふふ！　ありがとう！",
+		"face": "smile",
+		"voice_cue_name": "guramu_0004"
+	},
+	{
+		"ID": 7,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 1008,
+		"affinity_SeaPresentAffinity": 3,
+		"serif": "え、ありがとう…どうしたの？",
+		"face": "sad",
+		"voice_cue_name": "guramu_0023"
+	},
+	{
+		"ID": 8,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 1008,
+		"affinity_SeaPresentAffinity": 4,
+		"serif": "これ…なにが入ってるの…？",
+		"face": "sad",
+		"voice_cue_name": "guramu_0019"
+	},
+	{
+		"ID": 9,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 2020,
+		"affinity_SeaPresentAffinity": 1,
+		"serif": "別に私は常に素直ですわ\nありがとうございます、マスター",
+		"face": "smile",
+		"voice_cue_name": "harpe_0020"
+	},
+	{
+		"ID": 10,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 2020,
+		"affinity_SeaPresentAffinity": 2,
+		"serif": "…心がこもった贈り物であれば\n喜ばない理由などないでしょう",
+		"face": "smile",
+		"voice_cue_name": "harpe_0041"
+	},
+	{
+		"ID": 11,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 2020,
+		"affinity_SeaPresentAffinity": 3,
+		"serif": "…素直に、感謝いたします",
+		"face": "normal",
+		"voice_cue_name": "harpe_0030"
+	},
+	{
+		"ID": 12,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 2020,
+		"affinity_SeaPresentAffinity": 4,
+		"serif": "ありがとうございます",
+		"face": "sad",
+		"voice_cue_name": "harpe_0008"
+	},
+	{
+		"ID": 13,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 3004,
+		"affinity_SeaPresentAffinity": 1,
+		"serif": "あなた様のお気持ちが…\nひしひしと伝わってきます…♪",
+		"face": "smile",
+		"voice_cue_name": "amenonuboko_0041"
+	},
+	{
+		"ID": 14,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 3004,
+		"affinity_SeaPresentAffinity": 2,
+		"serif": "こんな素敵なもの…\nまぁ、どうしましょう…♪",
+		"face": "smile",
+		"voice_cue_name": "amenonuboko_0021"
+	},
+	{
+		"ID": 15,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 3004,
+		"affinity_SeaPresentAffinity": 3,
+		"serif": "あらまぁ…これはこれは",
+		"face": "normal",
+		"voice_cue_name": "amenonuboko_0030"
+	},
+	{
+		"ID": 16,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 3004,
+		"affinity_SeaPresentAffinity": 4,
+		"serif": "頂戴しました",
+		"face": "sad",
+		"voice_cue_name": "amenonuboko_0008"
+	},
+	{
+		"ID": 17,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 2008,
+		"affinity_SeaPresentAffinity": 1,
+		"serif": "これ、大事にするね…\nずっとずっと大事にする！ふふ♪",
+		"face": "smile",
+		"voice_cue_name": "perun_0041"
+	},
+	{
+		"ID": 18,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 2008,
+		"affinity_SeaPresentAffinity": 2,
+		"serif": "すっごいうれしい～！\nやったやったぁ～！",
+		"face": "smile",
+		"voice_cue_name": "perun_0030"
+	},
+	{
+		"ID": 19,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 2008,
+		"affinity_SeaPresentAffinity": 3,
+		"serif": "えぇ～！　やったぁ～！",
+		"face": "smile",
+		"voice_cue_name": "perun_0020"
+	},
+	{
+		"ID": 20,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 2008,
+		"affinity_SeaPresentAffinity": 4,
+		"serif": "ありがと～",
+		"face": "sad",
+		"voice_cue_name": "perun_0008"
+	},
+	{
+		"ID": 21,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 4005,
+		"affinity_SeaPresentAffinity": 1,
+		"serif": "もっと頑張れってことですよね…！\nマスターの期待に応えなきゃ…！",
+		"face": "smile",
+		"voice_cue_name": "yoichi_0041"
+	},
+	{
+		"ID": 22,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 4005,
+		"affinity_SeaPresentAffinity": 2,
+		"serif": "ご褒美ですかね…！\n頑張ってよかったぁ～♪",
+		"face": "smile",
+		"voice_cue_name": "yoichi_0030"
+	},
+	{
+		"ID": 23,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 4005,
+		"affinity_SeaPresentAffinity": 3,
+		"serif": "び、びっくりしましたっ！",
+		"face": "usual",
+		"voice_cue_name": "yoichi_0025"
+	},
+	{
+		"ID": 24,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 4005,
+		"affinity_SeaPresentAffinity": 4,
+		"serif": "ありがとうございます…！",
+		"face": "normal",
+		"voice_cue_name": "yoichi_0008"
+	},
+	{
+		"ID": 25,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 1009,
+		"affinity_SeaPresentAffinity": 1,
+		"serif": "私にだけ、なんですよね…？\nマスターから…う、うれしいです…！",
+		"face": "smile",
+		"voice_cue_name": "barumunku_0041"
+	},
+	{
+		"ID": 26,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 1009,
+		"affinity_SeaPresentAffinity": 2,
+		"serif": "…誰も見てませんよね！？\nあ、ありがとうございます～！",
+		"face": "smile",
+		"voice_cue_name": "barumunku_0030"
+	},
+	{
+		"ID": 27,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 1009,
+		"affinity_SeaPresentAffinity": 3,
+		"serif": "わ…私であってますか…！？",
+		"face": "smile",
+		"voice_cue_name": "barumunku_0023"
+	},
+	{
+		"ID": 28,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 1009,
+		"affinity_SeaPresentAffinity": 4,
+		"serif": "へ！？　あ、ありがとうございます…",
+		"face": "sad",
+		"voice_cue_name": "barumunku_0042"
+	},
+	{
+		"ID": 29,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 6008,
+		"affinity_SeaPresentAffinity": 1,
+		"serif": "い、いつものお礼とか…いいのに！\n私は好きでしてるだけだし！",
+		"face": "smile",
+		"voice_cue_name": "guridavoru_0006"
+	},
+	{
+		"ID": 30,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 6008,
+		"affinity_SeaPresentAffinity": 2,
+		"serif": "人から何かをもらうって…\nこんなにドキドキするんだね…！",
+		"face": "smile",
+		"voice_cue_name": "guridavoru_0005"
+	},
+	{
+		"ID": 31,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 6008,
+		"affinity_SeaPresentAffinity": 3,
+		"serif": "え、もらっちゃていいのかなー…！",
+		"face": "smile",
+		"voice_cue_name": "guridavoru_0030"
+	},
+	{
+		"ID": 32,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 6008,
+		"affinity_SeaPresentAffinity": 4,
+		"serif": "なんか悪いな～、ありがと",
+		"face": "sad",
+		"voice_cue_name": "guridavoru_0008"
+	},
+	{
+		"ID": 33,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 4002,
+		"affinity_SeaPresentAffinity": 1,
+		"serif": "オイラを喜ばしてどうすんだ…？\nへへへ…",
+		"face": "smile",
+		"voice_cue_name": "pinaka_0021"
+	},
+	{
+		"ID": 34,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 4002,
+		"affinity_SeaPresentAffinity": 2,
+		"serif": "はは…っ！\n気ぃ遣っても…何も出ねぇぞぉ！",
+		"face": "smile",
+		"voice_cue_name": "pinaka_0020"
+	},
+	{
+		"ID": 35,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 4002,
+		"affinity_SeaPresentAffinity": 3,
+		"serif": "なんだこれ…くれんのか…？",
+		"face": "usual",
+		"voice_cue_name": "pinaka_0030"
+	},
+	{
+		"ID": 36,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 4002,
+		"affinity_SeaPresentAffinity": 4,
+		"serif": "わりぃな",
+		"face": "usual",
+		"voice_cue_name": "pinaka_0008"
+	},
+	{
+		"ID": 37,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 5003,
+		"affinity_SeaPresentAffinity": 1,
+		"serif": "お主の～お供え物～♪\nそのよき心にはきっと恵みがあるぞ！",
+		"face": "smile",
+		"voice_cue_name": "yatanokagami_0006"
+	},
+	{
+		"ID": 38,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 5003,
+		"affinity_SeaPresentAffinity": 2,
+		"serif": "よい心がけじゃ！\nいいことあるぞ！",
+		"face": "smile",
+		"voice_cue_name": "yatanokagami_0005"
+	},
+	{
+		"ID": 39,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 5003,
+		"affinity_SeaPresentAffinity": 3,
+		"serif": "ほう、よいではないか",
+		"face": "usual",
+		"voice_cue_name": "yatanokagami_0020"
+	},
+	{
+		"ID": 40,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 5003,
+		"affinity_SeaPresentAffinity": 4,
+		"serif": "うむ、いただこう",
+		"face": "usual",
+		"voice_cue_name": "yatanokagami_0030"
+	},
+	{
+		"ID": 41,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 3008,
+		"affinity_SeaPresentAffinity": 1,
+		"serif": "主から褒美は最上級の誉れであり…\nつまり…、あ、ありがとう…！",
+		"face": "smile",
+		"voice_cue_name": "gunguniru_0041"
+	},
+	{
+		"ID": 42,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 3008,
+		"affinity_SeaPresentAffinity": 2,
+		"serif": "ミョルニルにではなく…\n我に…だな？間違いないな！！",
+		"face": "smile",
+		"voice_cue_name": "gunguniru_0021"
+	},
+	{
+		"ID": 43,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 3008,
+		"affinity_SeaPresentAffinity": 3,
+		"serif": "ふむ…！大儀である！",
+		"face": "smile",
+		"voice_cue_name": "gunguniru_0020"
+	},
+	{
+		"ID": 44,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 3008,
+		"affinity_SeaPresentAffinity": 4,
+		"serif": "受け取ろう",
+		"face": "usual",
+		"voice_cue_name": "gunguniru_0013"
+	},
+	{
+		"ID": 45,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 5008,
+		"affinity_SeaPresentAffinity": 1,
+		"serif": "えぇ～♪　いいの～？\nすてき～、さいこ～、だいすき～♪",
+		"face": "smile",
+		"voice_cue_name": "bashosen_0021"
+	},
+	{
+		"ID": 46,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 5008,
+		"affinity_SeaPresentAffinity": 2,
+		"serif": "なかなかわかってるじゃない！\nいいチョイスだわ！",
+		"face": "smile",
+		"voice_cue_name": "bashosen_0006"
+	},
+	{
+		"ID": 47,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 5008,
+		"affinity_SeaPresentAffinity": 3,
+		"serif": "気が利くじゃない",
+		"face": "smile",
+		"voice_cue_name": "bashosen_0030"
+	},
+	{
+		"ID": 48,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 5008,
+		"affinity_SeaPresentAffinity": 4,
+		"serif": "もらってあげるわ",
+		"face": "usual",
+		"voice_cue_name": "bashosen_0028"
+	},
+	{
+		"ID": 49,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 1023,
+		"affinity_SeaPresentAffinity": 1,
+		"serif": "これを、私に…？\nあ、ありがとうございます！！",
+		"face": "smile",
+		"voice_cue_name": "ascalon_0030"
+	},
+	{
+		"ID": 50,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 1023,
+		"affinity_SeaPresentAffinity": 2,
+		"serif": "わぁっ！\nありがとうございます",
+		"face": "smile",
+		"voice_cue_name": "ascalon_0021"
+	},
+	{
+		"ID": 51,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 1023,
+		"affinity_SeaPresentAffinity": 3,
+		"serif": "ありがとうございます！",
+		"face": "sad",
+		"voice_cue_name": "ascalon_0003"
+	},
+	{
+		"ID": 52,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 1023,
+		"affinity_SeaPresentAffinity": 4,
+		"serif": "あ、あはは…\nありがとうございます…",
+		"face": "sad",
+		"voice_cue_name": "ascalon_0008"
+	},
+	{
+		"ID": 53,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 2016,
+		"affinity_SeaPresentAffinity": 1,
+		"serif": "うれしくて、顔に出てしまって…♪\nありがとうございますね！",
+		"face": "smile",
+		"voice_cue_name": "shita_0006"
+	},
+	{
+		"ID": 54,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 2016,
+		"affinity_SeaPresentAffinity": 2,
+		"serif": "ミトゥムちゃんにはないのですか？\nあら…ではヒミツにしておかないと♪",
+		"face": "smile",
+		"voice_cue_name": "shita_0030"
+	},
+	{
+		"ID": 55,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 2016,
+		"affinity_SeaPresentAffinity": 3,
+		"serif": "まぁ…！　いいんですか…！？",
+		"face": "smile",
+		"voice_cue_name": "shita_0020"
+	},
+	{
+		"ID": 56,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 2016,
+		"affinity_SeaPresentAffinity": 4,
+		"serif": "あら、ありがとうございます",
+		"face": "sad",
+		"voice_cue_name": "shita_0027"
+	},
+	{
+		"ID": 57,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 1004,
+		"affinity_SeaPresentAffinity": 1,
+		"serif": "お供え物ではなく…\n余へのぷれぜんと…なのだな！？",
+		"face": "smile",
+		"voice_cue_name": "kusanagi_0021"
+	},
+	{
+		"ID": 58,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 1004,
+		"affinity_SeaPresentAffinity": 2,
+		"serif": "よき心がけである！\nそちに幸あらんことを！",
+		"face": "smile",
+		"voice_cue_name": "kusanagi_0005"
+	},
+	{
+		"ID": 59,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 1004,
+		"affinity_SeaPresentAffinity": 3,
+		"serif": "うむ、あっぱれである！",
+		"face": "normal",
+		"voice_cue_name": "kusanagi_0003"
+	},
+	{
+		"ID": 60,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 1004,
+		"affinity_SeaPresentAffinity": 4,
+		"serif": "くるしゅうない",
+		"face": "angry",
+		"voice_cue_name": "kusanagi_0013"
+	},
+	{
+		"ID": 61,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 4001,
+		"affinity_SeaPresentAffinity": 1,
+		"serif": "これは、どういった、意図で…？\nあ、いえ！言わなくていいです！",
+		"face": "smile",
+		"voice_cue_name": "arutemisu_0042"
+	},
+	{
+		"ID": 62,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 4001,
+		"affinity_SeaPresentAffinity": 2,
+		"serif": "日々の働きに対する褒美…ではなく\n個人的な…ものなのですね…？",
+		"face": "smile",
+		"voice_cue_name": "arutemisu_0024"
+	},
+	{
+		"ID": 63,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 4001,
+		"affinity_SeaPresentAffinity": 3,
+		"serif": "ありがたく…ちょうだいします",
+		"face": "normal",
+		"voice_cue_name": "arutemisu_0030"
+	},
+	{
+		"ID": 64,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 4001,
+		"affinity_SeaPresentAffinity": 4,
+		"serif": "ありがとうございます",
+		"face": "normal",
+		"voice_cue_name": "arutemisu_0002"
+	},
+	{
+		"ID": 65,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 1012,
+		"affinity_SeaPresentAffinity": 1,
+		"serif": "安く見られたものだわ…\nでもまぁ、釣られてあげる♪",
+		"face": "smile",
+		"voice_cue_name": "adamasu_0041"
+	},
+	{
+		"ID": 66,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 1012,
+		"affinity_SeaPresentAffinity": 2,
+		"serif": "あたしがこの程度喜ぶとでも？\nうふ…努力は認めてあげる♪",
+		"face": "smile",
+		"voice_cue_name": "adamasu_0005"
+	},
+	{
+		"ID": 67,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 1012,
+		"affinity_SeaPresentAffinity": 3,
+		"serif": "あら、気が利くのね",
+		"face": "normal",
+		"voice_cue_name": "adamasu_0007"
+	},
+	{
+		"ID": 68,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 1012,
+		"affinity_SeaPresentAffinity": 4,
+		"serif": "もらってあげる",
+		"face": "normal",
+		"voice_cue_name": "adamasu_0039"
+	},
+	{
+		"ID": 69,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 5006,
+		"affinity_SeaPresentAffinity": 1,
+		"serif": "どういうつもりか知らないけれど\n…滅多になく素敵な気分よ",
+		"face": "smile",
+		"voice_cue_name": "megido_0042"
+	},
+	{
+		"ID": 70,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 5006,
+		"affinity_SeaPresentAffinity": 2,
+		"serif": "ありがとう…\nと、伝えておくわね",
+		"face": "smile",
+		"voice_cue_name": "megido_0020"
+	},
+	{
+		"ID": 71,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 5006,
+		"affinity_SeaPresentAffinity": 3,
+		"serif": "感謝します…",
+		"face": "normal",
+		"voice_cue_name": "megido_0030"
+	},
+	{
+		"ID": 72,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 5006,
+		"affinity_SeaPresentAffinity": 4,
+		"serif": "気持ちは無碍にしないわ",
+		"face": "normal",
+		"voice_cue_name": "megido_0040"
+	},
+	{
+		"ID": 73,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 5001,
+		"affinity_SeaPresentAffinity": 1,
+		"serif": "これほしかったの～！\nすごい…よくわかったね！ありがと♪",
+		"face": "smile",
+		"voice_cue_name": "keraunosu_0041"
+	},
+	{
+		"ID": 74,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 5001,
+		"affinity_SeaPresentAffinity": 2,
+		"serif": "ありがと♪\nマスターもなかなかやるねぇ～",
+		"face": "smile",
+		"voice_cue_name": "keraunosu_0020"
+	},
+	{
+		"ID": 75,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 5001,
+		"affinity_SeaPresentAffinity": 3,
+		"serif": "えぇ、いいの～！？",
+		"face": "smile",
+		"voice_cue_name": "keraunosu_0030"
+	},
+	{
+		"ID": 76,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 5001,
+		"affinity_SeaPresentAffinity": 4,
+		"serif": "お、いが～い",
+		"face": "normal",
+		"voice_cue_name": "keraunosu_0002"
+	},
+	{
+		"ID": 77,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 3003,
+		"affinity_SeaPresentAffinity": 1,
+		"serif": "主君もワルよなぁ…\nこりゃ立派な袖の下だぞ…♪",
+		"face": "smile",
+		"voice_cue_name": "hotengageki_0039"
+	},
+	{
+		"ID": 78,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 3003,
+		"affinity_SeaPresentAffinity": 2,
+		"serif": "配下の人心掌握は必須…\n主君もわかってきたな♪",
+		"face": "smile",
+		"voice_cue_name": "hotengageki_0031"
+	},
+	{
+		"ID": 79,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 3003,
+		"affinity_SeaPresentAffinity": 3,
+		"serif": "ありがたくもらっとくよ",
+		"face": "normal",
+		"voice_cue_name": "hotengageki_0030"
+	},
+	{
+		"ID": 80,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 3003,
+		"affinity_SeaPresentAffinity": 4,
+		"serif": "お、悪いな",
+		"face": "normal",
+		"voice_cue_name": "hotengageki_0003"
+	},
+	{
+		"ID": 81,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 6013,
+		"affinity_SeaPresentAffinity": 1,
+		"serif": "キミの膝の上で\n思いっきりごろごろしたい気分にゃ♪",
+		"face": "smile",
+		"voice_cue_name": "sistrum_0041"
+	},
+	{
+		"ID": 82,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 6013,
+		"affinity_SeaPresentAffinity": 2,
+		"serif": "にゃ～～ん！\nもらっちゃったにゃ～♪",
+		"face": "smile",
+		"voice_cue_name": "sistrum_0030"
+	},
+	{
+		"ID": 83,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 6013,
+		"affinity_SeaPresentAffinity": 3,
+		"serif": "にゃにゃ！いいのかにゃ！？",
+		"face": "usual",
+		"voice_cue_name": "sistrum_0005"
+	},
+	{
+		"ID": 84,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 6013,
+		"affinity_SeaPresentAffinity": 4,
+		"serif": "もらってあげるにゃ",
+		"face": "usual",
+		"voice_cue_name": "sistrum_0002"
+	},
+	{
+		"ID": 85,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 1027,
+		"affinity_SeaPresentAffinity": 1,
+		"serif": "すごくうれしいんだけど…\nなんて言ったらいいかわからないよ…",
+		"face": "smile",
+		"voice_cue_name": "solais_0042"
+	},
+	{
+		"ID": 86,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 1027,
+		"affinity_SeaPresentAffinity": 2,
+		"serif": "まいったな…こういうときって\nどうしたらいいのかな…？",
+		"face": "smile",
+		"voice_cue_name": "solais_0008"
+	},
+	{
+		"ID": 87,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 1027,
+		"affinity_SeaPresentAffinity": 3,
+		"serif": "はは、ありがとう",
+		"face": "normal",
+		"voice_cue_name": "solais_0005"
+	},
+	{
+		"ID": 88,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 1027,
+		"affinity_SeaPresentAffinity": 4,
+		"serif": "もらっておくよ",
+		"face": "normal",
+		"voice_cue_name": "solais_0004"
+	},
+	{
+		"ID": 89,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 4010,
+		"affinity_SeaPresentAffinity": 1,
+		"serif": "マスターが私を\n気遣ってくれるなんて…そんな…！",
+		"face": "smile",
+		"voice_cue_name": "Abaris_0041"
+	},
+	{
+		"ID": 90,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 4010,
+		"affinity_SeaPresentAffinity": 2,
+		"serif": "私がこのようなものを\nいただいてよいのでしょうか…！",
+		"face": "smile",
+		"voice_cue_name": "Abaris_0021"
+	},
+	{
+		"ID": 91,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 4010,
+		"affinity_SeaPresentAffinity": 3,
+		"serif": "あ、ありがとうございます！",
+		"face": "normal",
+		"voice_cue_name": "Abaris_0030"
+	},
+	{
+		"ID": 92,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 4010,
+		"affinity_SeaPresentAffinity": 4,
+		"serif": "いただきます",
+		"face": "normal",
+		"voice_cue_name": "Abaris_0003"
+	},
+	{
+		"ID": 93,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 3001,
+		"affinity_SeaPresentAffinity": 1,
+		"serif": "一生の宝物にします…\nマスター、ありがとうございます！",
+		"face": "smile",
+		"voice_cue_name": "ronginusu_0020"
+	},
+	{
+		"ID": 94,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 3001,
+		"affinity_SeaPresentAffinity": 2,
+		"serif": "マスターのまごころが\n詰まっているのを感じます…",
+		"face": "smile",
+		"voice_cue_name": "ronginusu_0021"
+	},
+	{
+		"ID": 95,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 3001,
+		"affinity_SeaPresentAffinity": 3,
+		"serif": "本当に…いいんでしょうか…？",
+		"face": "normal",
+		"voice_cue_name": "ronginusu_0030"
+	},
+	{
+		"ID": 96,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 3001,
+		"affinity_SeaPresentAffinity": 4,
+		"serif": "ありがとうございます",
+		"face": "normal",
+		"voice_cue_name": "ronginusu_0004"
+	},
+	{
+		"ID": 97,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 2001,
+		"affinity_SeaPresentAffinity": 1,
+		"serif": "ふふ…ふふふふ♪\nマスタ、たっくさんありがとぉ～！！",
+		"face": "smile",
+		"voice_cue_name": "myuruniru_0020"
+	},
+	{
+		"ID": 98,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 2001,
+		"affinity_SeaPresentAffinity": 2,
+		"serif": "プレゼント～！\nマスタにもらったプレゼント～♪",
+		"face": "smile",
+		"voice_cue_name": "myuruniru_0021"
+	},
+	{
+		"ID": 99,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 2001,
+		"affinity_SeaPresentAffinity": 3,
+		"serif": "わぁ！もらっちゃったぁ～",
+		"face": "normal",
+		"voice_cue_name": "myuruniru_0041"
+	},
+	{
+		"ID": 100,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 2001,
+		"affinity_SeaPresentAffinity": 4,
+		"serif": "ありがと～",
+		"face": "normal",
+		"voice_cue_name": "myuruniru_0030"
+	},
+	{
+		"ID": 101,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 1011,
+		"affinity_SeaPresentAffinity": 1,
+		"serif": "このようなものをもらってしまっては\n明日からどう接していいものか…！",
+		"face": "smile",
+		"voice_cue_name": "excalibur_0041"
+	},
+	{
+		"ID": 102,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 1011,
+		"affinity_SeaPresentAffinity": 2,
+		"serif": "私はあなたから…\n信頼していただけているのですね！",
+		"face": "smile",
+		"voice_cue_name": "excalibur_0021"
+	},
+	{
+		"ID": 103,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 1011,
+		"affinity_SeaPresentAffinity": 3,
+		"serif": "私にはもったいないです…",
+		"face": "usual",
+		"voice_cue_name": "excalibur_0028"
+	},
+	{
+		"ID": 104,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 1011,
+		"affinity_SeaPresentAffinity": 4,
+		"serif": "いただきます",
+		"face": "usual",
+		"voice_cue_name": "excalibur_0003"
+	},
+	{
+		"ID": 105,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 2005,
+		"affinity_SeaPresentAffinity": 1,
+		"serif": "これ…ミトゥムにだけだよな！\nヘヘ！姉ちゃんに自慢しよっと！",
+		"face": "smile",
+		"voice_cue_name": "mitwumu_0041"
+	},
+	{
+		"ID": 106,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 2005,
+		"affinity_SeaPresentAffinity": 2,
+		"serif": "やりぃ～！\nホントにもらっていいんだよな！",
+		"face": "smile",
+		"voice_cue_name": "mitwumu_0005"
+	},
+	{
+		"ID": 107,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 2005,
+		"affinity_SeaPresentAffinity": 3,
+		"serif": "え、これいいのか！？",
+		"face": "normal",
+		"voice_cue_name": "mitwumu_0020"
+	},
+	{
+		"ID": 108,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 2005,
+		"affinity_SeaPresentAffinity": 4,
+		"serif": "お、サンキュ",
+		"face": "normal",
+		"voice_cue_name": "mitwumu_0030"
+	},
+	{
+		"ID": 109,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 2004,
+		"affinity_SeaPresentAffinity": 1,
+		"serif": "こ、これをボクに…かい？\nその、とても嬉しいよ",
+		"face": "smile",
+		"voice_cue_name": "parashu_0042"
+	},
+	{
+		"ID": 110,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 2004,
+		"affinity_SeaPresentAffinity": 2,
+		"serif": "このプレゼントには、その…\nどういう意味があるんだろうか？",
+		"face": "smile",
+		"voice_cue_name": "parashu_0039"
+	},
+	{
+		"ID": 111,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 2004,
+		"affinity_SeaPresentAffinity": 3,
+		"serif": "ありがとう　大切にさせてもらうよ",
+		"face": "normal",
+		"voice_cue_name": "parashu_0030"
+	},
+	{
+		"ID": 112,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 2004,
+		"affinity_SeaPresentAffinity": 4,
+		"serif": "ありがとう",
+		"face": "usual",
+		"voice_cue_name": "parashu_1003"
+	},
+	{
+		"ID": 113,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 5017,
+		"affinity_SeaPresentAffinity": 1,
+		"serif": "随分ワタシを研究してるのね…！\nまぁ当然よね！…ふふ",
+		"face": "smile",
+		"voice_cue_name": "grimoire_0021"
+	},
+	{
+		"ID": 114,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 5017,
+		"affinity_SeaPresentAffinity": 2,
+		"serif": "結構センスいいじゃない…\nな、なんでもない！ありがと！",
+		"face": "smile",
+		"voice_cue_name": "grimoire_0039"
+	},
+	{
+		"ID": 115,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 5017,
+		"affinity_SeaPresentAffinity": 3,
+		"serif": "なかなか気がきくのね",
+		"face": "smile",
+		"voice_cue_name": "grimoire_0042"
+	},
+	{
+		"ID": 116,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 5017,
+		"affinity_SeaPresentAffinity": 4,
+		"serif": "受け取ってあげる",
+		"face": "normal",
+		"voice_cue_name": "grimoire_0003"
+	},
+	{
+		"ID": 117,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 1005,
+		"affinity_SeaPresentAffinity": 1,
+		"serif": "とても…胸が熱いんだ…\n感謝の言葉ではとても足りない…",
+		"face": "normal",
+		"voice_cue_name": "ritto_0042"
+	},
+	{
+		"ID": 118,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 1005,
+		"affinity_SeaPresentAffinity": 2,
+		"serif": "口うるさい私に…\nどういう風の吹きまわしだ…？",
+		"face": "smile",
+		"voice_cue_name": "ritto_0039"
+	},
+	{
+		"ID": 119,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 1005,
+		"affinity_SeaPresentAffinity": 3,
+		"serif": "ありがたくいただく！",
+		"face": "smile",
+		"voice_cue_name": "ritto_0003"
+	},
+	{
+		"ID": 120,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 1005,
+		"affinity_SeaPresentAffinity": 4,
+		"serif": "申し訳ないな…",
+		"face": "sad",
+		"voice_cue_name": "ritto_0008"
+	},
+	{
+		"ID": 121,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 4007,
+		"affinity_SeaPresentAffinity": 1,
+		"serif": "こういうの欲しかったんです！\nその、うれしい、です…",
+		"face": "smile",
+		"voice_cue_name": "shekina_0041"
+	},
+	{
+		"ID": 122,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 4007,
+		"affinity_SeaPresentAffinity": 2,
+		"serif": "わ、私の好みを…\nいつの間に調べたんですか！？",
+		"face": "smile",
+		"voice_cue_name": "shekina_0021"
+	},
+	{
+		"ID": 123,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 4007,
+		"affinity_SeaPresentAffinity": 3,
+		"serif": "あ、ありがとうございます…",
+		"face": "smile",
+		"voice_cue_name": "shekina_0005"
+	},
+	{
+		"ID": 124,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 4007,
+		"affinity_SeaPresentAffinity": 4,
+		"serif": "感謝します",
+		"face": "normal",
+		"voice_cue_name": "shekina_0030"
+	},
+	{
+		"ID": 125,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 6001,
+		"affinity_SeaPresentAffinity": 1,
+		"serif": "別に…うれしくなんか…\nごめん、やっぱり…うれしい…",
+		"face": "smile",
+		"voice_cue_name": "asukurepiosu_0041"
+	},
+	{
+		"ID": 126,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 6001,
+		"affinity_SeaPresentAffinity": 2,
+		"serif": "これで貸しを返したつもり…？\nい、いえ！　十分よ！！",
+		"face": "smile",
+		"voice_cue_name": "asukurepiosu_0042"
+	},
+	{
+		"ID": 127,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 6001,
+		"affinity_SeaPresentAffinity": 3,
+		"serif": "な、なんで！？　もらうけど…",
+		"face": "smile",
+		"voice_cue_name": "asukurepiosu_0030"
+	},
+	{
+		"ID": 128,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 6001,
+		"affinity_SeaPresentAffinity": 4,
+		"serif": "あら、ありがとう",
+		"face": "normal",
+		"voice_cue_name": "asukurepiosu_0002"
+	},
+	{
+		"ID": 129,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 2017,
+		"affinity_SeaPresentAffinity": 1,
+		"serif": "ヤグのこと甘やかしていいの～？\nいいの…？そっかぁ♪",
+		"face": "smile",
+		"voice_cue_name": "yagurushi_0041"
+	},
+	{
+		"ID": 130,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 2017,
+		"affinity_SeaPresentAffinity": 2,
+		"serif": "マスターは優しいなぁ…\nヤグとってもうれしいよ～！",
+		"face": "smile",
+		"voice_cue_name": "yagurushi_0042"
+	},
+	{
+		"ID": 131,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 2017,
+		"affinity_SeaPresentAffinity": 3,
+		"serif": "やった～！もらっちゃった～",
+		"face": "normal",
+		"voice_cue_name": "yagurushi_0030"
+	},
+	{
+		"ID": 132,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 2017,
+		"affinity_SeaPresentAffinity": 4,
+		"serif": "ありがと～",
+		"face": "normal",
+		"voice_cue_name": "yagurushi_0004"
+	},
+	{
+		"ID": 133,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 3021,
+		"affinity_SeaPresentAffinity": 1,
+		"serif": "ボーの空白を…埋めようと…\nしてくれたのですね…？",
+		"face": "smile",
+		"voice_cue_name": "gaebuide_0041"
+	},
+	{
+		"ID": 134,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 3021,
+		"affinity_SeaPresentAffinity": 2,
+		"serif": "このような…ボーの手にあまります…\nああ、どうしたらいいんでしょう…",
+		"face": "smile",
+		"voice_cue_name": "gaebuide_0042"
+	},
+	{
+		"ID": 135,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 3021,
+		"affinity_SeaPresentAffinity": 3,
+		"serif": "ボーのようなものに…すみません",
+		"face": "sad",
+		"voice_cue_name": "gaebuide_0030"
+	},
+	{
+		"ID": 136,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 3021,
+		"affinity_SeaPresentAffinity": 4,
+		"serif": "もったいないです…",
+		"face": "sad",
+		"voice_cue_name": "gaebuide_0004"
+	},
+	{
+		"ID": 137,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 5016,
+		"affinity_SeaPresentAffinity": 1,
+		"serif": "わたくしの労苦が報われましたね\n今後もこの調子でお願いします",
+		"face": "smile",
+		"voice_cue_name": "Flabellum_0041"
+	},
+	{
+		"ID": 138,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 5016,
+		"affinity_SeaPresentAffinity": 2,
+		"serif": "悪くありませんね　\n…あなたのチョイスとは思えません",
+		"face": "smile",
+		"voice_cue_name": "Flabellum_0021"
+	},
+	{
+		"ID": 139,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 5016,
+		"affinity_SeaPresentAffinity": 3,
+		"serif": "多少は気が利くようになりましたか？\nいい傾向です",
+		"face": "normal",
+		"voice_cue_name": "Flabellum_0030"
+	},
+	{
+		"ID": 140,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 5016,
+		"affinity_SeaPresentAffinity": 4,
+		"serif": "…まあいいでしょう　\n物には罪はありませんから",
+		"face": "normal",
+		"voice_cue_name": "Flabellum_0004"
+	},
+	{
+		"ID": 141,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 1026,
+		"affinity_SeaPresentAffinity": 1,
+		"serif": "うん、いいわ…とってもいい！\n私これ、大好きよ！",
+		"face": "smile",
+		"voice_cue_name": "caladbolg_0042"
+	},
+	{
+		"ID": 142,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 1026,
+		"affinity_SeaPresentAffinity": 2,
+		"serif": "とっても可愛い…！\nマスター、ありがとう！",
+		"face": "smile",
+		"voice_cue_name": "caladbolg_0041"
+	},
+	{
+		"ID": 143,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 1026,
+		"affinity_SeaPresentAffinity": 3,
+		"serif": "まぁ、うれしいわ！",
+		"face": "smile",
+		"voice_cue_name": "caladbolg_0030"
+	},
+	{
+		"ID": 144,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 1026,
+		"affinity_SeaPresentAffinity": 4,
+		"serif": "あら、いいの？",
+		"face": "normal",
+		"voice_cue_name": "caladbolg_0004"
+	},
+	{
+		"ID": 145,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 1028,
+		"affinity_SeaPresentAffinity": 1,
+		"serif": "貰うのは馴れていたつもりだけど…\n相手がマスターだと、勝手が違うね…",
+		"face": "normal",
+		"voice_cue_name": "dainsleif_0042"
+	},
+	{
+		"ID": 146,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 1028,
+		"affinity_SeaPresentAffinity": 2,
+		"serif": "おぬしにもこのような\n細やかな気遣いができたとはね…！",
+		"face": "normal",
+		"voice_cue_name": "dainsleif_0040"
+	},
+	{
+		"ID": 147,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 1028,
+		"affinity_SeaPresentAffinity": 3,
+		"serif": "ありがとう、いただくよ",
+		"face": "normal",
+		"voice_cue_name": "dainsleif_0030"
+	},
+	{
+		"ID": 148,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 1028,
+		"affinity_SeaPresentAffinity": 4,
+		"serif": "いただこう",
+		"face": "usual",
+		"voice_cue_name": "dainsleif_0006"
+	},
+	{
+		"ID": 149,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 5007,
+		"affinity_SeaPresentAffinity": 1,
+		"serif": "すまない、理解が追いつかない…\nだが…感謝する、ありがとう…",
+		"face": "smile",
+		"voice_cue_name": "buryunaku_0042"
+	},
+	{
+		"ID": 150,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 5007,
+		"affinity_SeaPresentAffinity": 2,
+		"serif": "戦績への報酬と理解した…\n光栄の極みだ、マスター",
+		"face": "smile",
+		"voice_cue_name": "buryunaku_0041"
+	},
+	{
+		"ID": 151,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 5007,
+		"affinity_SeaPresentAffinity": 3,
+		"serif": "ブリューナクに…？了解した",
+		"face": "normal",
+		"voice_cue_name": "buryunaku_0030"
+	},
+	{
+		"ID": 152,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 5007,
+		"affinity_SeaPresentAffinity": 4,
+		"serif": "確かに受け取った",
+		"face": "normal",
+		"voice_cue_name": "buryunaku_0003"
+	},
+	{
+		"ID": 153,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 3006,
+		"affinity_SeaPresentAffinity": 1,
+		"serif": "それ、あたいに、か？\nそ、そっか…ありがとなマスター！",
+		"face": "smile",
+		"voice_cue_name": "torisyula_0041"
+	},
+	{
+		"ID": 154,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 3006,
+		"affinity_SeaPresentAffinity": 2,
+		"serif": "あたいは別にプレゼントなんて…\nまあ、嬉しいけどさ…",
+		"face": "smile",
+		"voice_cue_name": "torisyula_0030"
+	},
+	{
+		"ID": 155,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 3006,
+		"affinity_SeaPresentAffinity": 3,
+		"serif": "ふーん？まあ、悪くないな　\nありがとよ、マスター",
+		"face": "normal",
+		"voice_cue_name": "torisyula_0006"
+	},
+	{
+		"ID": 156,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 3006,
+		"affinity_SeaPresentAffinity": 4,
+		"serif": "んー？\nまあ、貰っとく",
+		"face": "usual",
+		"voice_cue_name": "torisyula_0003"
+	},
+	{
+		"ID": 157,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 2003,
+		"affinity_SeaPresentAffinity": 1,
+		"serif": "マスター…ありがとう！！\nもう神対応しちゃうよ～♪",
+		"face": "smile",
+		"voice_cue_name": "loveryus_0039"
+	},
+	{
+		"ID": 158,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 2003,
+		"affinity_SeaPresentAffinity": 2,
+		"serif": "や～んマスター！\nいつも応援、ありがと♪",
+		"face": "smile",
+		"voice_cue_name": "loveryus_0030"
+	},
+	{
+		"ID": 159,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 2003,
+		"affinity_SeaPresentAffinity": 3,
+		"serif": "いいのいいの！？",
+		"face": "normal",
+		"voice_cue_name": "loveryus_0021"
+	},
+	{
+		"ID": 160,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 2003,
+		"affinity_SeaPresentAffinity": 4,
+		"serif": "ありがと～",
+		"face": "normal",
+		"voice_cue_name": "loveryus_0005"
+	},
+	{
+		"ID": 161,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 3018,
+		"affinity_SeaPresentAffinity": 1,
+		"serif": "…嬉しいです\n私の一生の宝にします",
+		"face": "smile",
+		"voice_cue_name": "forcas_0041"
+	},
+	{
+		"ID": 162,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 3018,
+		"affinity_SeaPresentAffinity": 2,
+		"serif": "ありがとうございます！\n必ず、このお礼はします！",
+		"face": "smile",
+		"voice_cue_name": "forcas_0030"
+	},
+	{
+		"ID": 163,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 3018,
+		"affinity_SeaPresentAffinity": 3,
+		"serif": "…ありがとうございます\n大事にします",
+		"face": "normal",
+		"voice_cue_name": "forcas_0039"
+	},
+	{
+		"ID": 164,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 3018,
+		"affinity_SeaPresentAffinity": 4,
+		"serif": "モノで懐柔はされません\nでも気持ちは受け取っておきます",
+		"face": "usual",
+		"voice_cue_name": "forcas_0003"
+	},
+	{
+		"ID": 165,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 3014,
+		"affinity_SeaPresentAffinity": 1,
+		"serif": "この中にマスターのトゥルースが…\n詰まっているのですね…♪",
+		"face": "smile",
+		"voice_cue_name": "ithuriel_kyara_2001"
+	},
+	{
+		"ID": 166,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 3014,
+		"affinity_SeaPresentAffinity": 2,
+		"serif": "いくらわたくしがかわいいからって…\nこんなひいきしていいんですの…？",
+		"face": "smile",
+		"voice_cue_name": "ithuriel_0021"
+	},
+	{
+		"ID": 167,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 3014,
+		"affinity_SeaPresentAffinity": 3,
+		"serif": "まぁ、ありがとうございます",
+		"face": "smile",
+		"voice_cue_name": "ithuriel_0030"
+	},
+	{
+		"ID": 168,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 3014,
+		"affinity_SeaPresentAffinity": 4,
+		"serif": "いただいておきますわ",
+		"face": "sad",
+		"voice_cue_name": "ithuriel_0003"
+	},
+	{
+		"ID": 169,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 5005,
+		"affinity_SeaPresentAffinity": 1,
+		"serif": "はは…これはもう…\nその気になっていいってことだよな…",
+		"face": "smile",
+		"voice_cue_name": "vajura_0020"
+	},
+	{
+		"ID": 170,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 5005,
+		"affinity_SeaPresentAffinity": 2,
+		"serif": "なんだなんだ～？\nなにか企んでるのか～♪",
+		"face": "smile",
+		"voice_cue_name": "vajura_0005"
+	},
+	{
+		"ID": 171,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 5005,
+		"affinity_SeaPresentAffinity": 3,
+		"serif": "はは、いいのか！",
+		"face": "smile",
+		"voice_cue_name": "vajura_0007"
+	},
+	{
+		"ID": 172,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 5005,
+		"affinity_SeaPresentAffinity": 4,
+		"serif": "お～、わるいね～",
+		"face": "usual",
+		"voice_cue_name": "vajura_0003"
+	},
+	{
+		"ID": 173,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 2010,
+		"affinity_SeaPresentAffinity": 1,
+		"serif": "ありがとう！\nその、キミとお揃いだと、嬉しいな…",
+		"face": "smile",
+		"voice_cue_name": "ukonbasara_0021"
+	},
+	{
+		"ID": 174,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 2010,
+		"affinity_SeaPresentAffinity": 2,
+		"serif": "えっと、どうしよっか\n私からもお返ししたいなぁ…",
+		"face": "smile",
+		"voice_cue_name": "ukonbasara_0006"
+	},
+	{
+		"ID": 175,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 2010,
+		"affinity_SeaPresentAffinity": 3,
+		"serif": "私に？…ホントに？",
+		"face": "smile",
+		"voice_cue_name": "ukonbasara_0030"
+	},
+	{
+		"ID": 176,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 2010,
+		"affinity_SeaPresentAffinity": 4,
+		"serif": "ん？ありがとう",
+		"face": "sad",
+		"voice_cue_name": "ukonbasara_0022"
+	},
+	{
+		"ID": 177,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 6002,
+		"affinity_SeaPresentAffinity": 1,
+		"serif": "ありがとうー！\n今日はずっとこれを見てるねー",
+		"face": "smile",
+		"voice_cue_name": "ganbantein_0042"
+	},
+	{
+		"ID": 178,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 6002,
+		"affinity_SeaPresentAffinity": 2,
+		"serif": "えっと、どうしよっか\n私からもお返ししたいなぁ…",
+		"face": "smile",
+		"voice_cue_name": "ganbantein_0021"
+	},
+	{
+		"ID": 179,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 6002,
+		"affinity_SeaPresentAffinity": 3,
+		"serif": "あれ？結構嬉しい？",
+		"face": "smile",
+		"voice_cue_name": "ganbantein_0004"
+	},
+	{
+		"ID": 180,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 6002,
+		"affinity_SeaPresentAffinity": 4,
+		"serif": "えっとありがとう…でいいの？",
+		"face": "usual",
+		"voice_cue_name": "ganbantein_0003"
+	},
+	{
+		"ID": 181,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 5021,
+		"affinity_SeaPresentAffinity": 1,
+		"serif": "わたくしのために…はい。マスター\nだと思って大切にいたします",
+		"face": "smile",
+		"voice_cue_name": "sefer_0041"
+	},
+	{
+		"ID": 182,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 5021,
+		"affinity_SeaPresentAffinity": 2,
+		"serif": "まあ、プレゼントですか？\nその、なんだか照れてしまいますね",
+		"face": "smile",
+		"voice_cue_name": "sefer_0042"
+	},
+	{
+		"ID": 183,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 5021,
+		"affinity_SeaPresentAffinity": 3,
+		"serif": "ありがとうございます\n大切にさせて頂きますね",
+		"face": "smile",
+		"voice_cue_name": "sefer_0030"
+	},
+	{
+		"ID": 184,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 5021,
+		"affinity_SeaPresentAffinity": 4,
+		"serif": "…わたくしに？\nよろしいのですか？",
+		"face": "usual",
+		"voice_cue_name": "sefer_0003"
+	},
+	{
+		"ID": 185,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 1014,
+		"affinity_SeaPresentAffinity": 1,
+		"serif": "大切にします…\n一生の宝物にします",
+		"face": "smile",
+		"voice_cue_name": "tyrufing_0041"
+	},
+	{
+		"ID": 186,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 1014,
+		"affinity_SeaPresentAffinity": 2,
+		"serif": "いただくものがなんでも\nアナタからのものなら…",
+		"face": "smile",
+		"voice_cue_name": "tyrufing_0021"
+	},
+	{
+		"ID": 187,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 1014,
+		"affinity_SeaPresentAffinity": 3,
+		"serif": "私なんかのために…\nありがとうございます…",
+		"face": "smile",
+		"voice_cue_name": "tyrufing_0005"
+	},
+	{
+		"ID": 188,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 1014,
+		"affinity_SeaPresentAffinity": 4,
+		"serif": "贈答品ですか…\nありがたく頂戴します",
+		"face": "usual",
+		"voice_cue_name": "tyrufing_0003"
+	},
+	{
+		"ID": 189,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 3020,
+		"affinity_SeaPresentAffinity": 1,
+		"serif": "もしかしてわたし、狙われてる？\nそ、そっか～…♪",
+		"face": "smile",
+		"voice_cue_name": "pisear_1008"
+	},
+	{
+		"ID": 190,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 3020,
+		"affinity_SeaPresentAffinity": 2,
+		"serif": "なんでこんなによくしてくれるの？\nううん、ちょっと気になって～…",
+		"face": "smile",
+		"voice_cue_name": "pisear_0042"
+	},
+	{
+		"ID": 191,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 3020,
+		"affinity_SeaPresentAffinity": 3,
+		"serif": "わぁ、急にどうしたの～？",
+		"face": "smile",
+		"voice_cue_name": "pisear_0005"
+	},
+	{
+		"ID": 192,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 3020,
+		"affinity_SeaPresentAffinity": 4,
+		"serif": "ありがと～",
+		"face": "usual",
+		"voice_cue_name": "pisear_0030"
+	},
+	{
+		"ID": 193,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 4008,
+		"affinity_SeaPresentAffinity": 1,
+		"serif": "さ、さすがにこれだけ貰っちゃったらさ、\nお返しとか、必要だよね…？",
+		"face": "smile",
+		"voice_cue_name": "otyinusu_0041"
+	},
+	{
+		"ID": 194,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 4008,
+		"affinity_SeaPresentAffinity": 2,
+		"serif": "このプレゼントって…あたしに？\nうわ、どーしよ…すっごい嬉しい！",
+		"face": "smile",
+		"voice_cue_name": "otyinusu_0020"
+	},
+	{
+		"ID": 195,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 4008,
+		"affinity_SeaPresentAffinity": 3,
+		"serif": "あたしに！？ありがと～！",
+		"face": "smile",
+		"voice_cue_name": "otyinusu_0005"
+	},
+	{
+		"ID": 196,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 4008,
+		"affinity_SeaPresentAffinity": 4,
+		"serif": "え？くれるの？",
+		"face": "usual",
+		"voice_cue_name": "otyinusu_0004"
+	},
+	{
+		"ID": 197,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 6004,
+		"affinity_SeaPresentAffinity": 1,
+		"serif": "あはっ♪さっすがマスター\nサプライズ感大事だよね♪",
+		"face": "smile",
+		"voice_cue_name": "kadokeusu_0041"
+	},
+	{
+		"ID": 198,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 6004,
+		"affinity_SeaPresentAffinity": 2,
+		"serif": "ありがとっ♪君の気持ち\nこもってるみたいだもんね♪",
+		"face": "smile",
+		"voice_cue_name": "kadokeusu_0030"
+	},
+	{
+		"ID": 199,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 6004,
+		"affinity_SeaPresentAffinity": 3,
+		"serif": "ふふ…こういうの、結構いいよね\nマスターもわかってきたね",
+		"face": "smile",
+		"voice_cue_name": "kadokeusu_0005"
+	},
+	{
+		"ID": 200,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 6004,
+		"affinity_SeaPresentAffinity": 4,
+		"serif": "んん～イタズラもなしかぁ\nふつうのプレゼントだね",
+		"face": "usual",
+		"voice_cue_name": "kadokeusu_0003"
+	},
+	{
+		"ID": 201,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 6005,
+		"affinity_SeaPresentAffinity": 1,
+		"serif": "ねえ、マスターってもしかして\n私のこと…期待しちゃってもいいの？",
+		"face": "smile",
+		"voice_cue_name": "keryukeion_0041"
+	},
+	{
+		"ID": 202,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 6005,
+		"affinity_SeaPresentAffinity": 2,
+		"serif": "こ、これだけ貰っちゃうと、\nそろそろお返し考えないとね～",
+		"face": "smile",
+		"voice_cue_name": "keryukeion_0021"
+	},
+	{
+		"ID": 203,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 6005,
+		"affinity_SeaPresentAffinity": 3,
+		"serif": "さすがマスター！\n私のことわかってるじゃん♪",
+		"face": "smile",
+		"voice_cue_name": "keryukeion_0020"
+	},
+	{
+		"ID": 204,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 6005,
+		"affinity_SeaPresentAffinity": 4,
+		"serif": "お、貢物かな～？",
+		"face": "usual",
+		"voice_cue_name": "keryukeion_0003"
+	},
+	{
+		"ID": 205,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 2006,
+		"affinity_SeaPresentAffinity": 1,
+		"serif": "マスターと一緒にいると\n大切なものがどんどん増えてくね",
+		"face": "smile",
+		"voice_cue_name": "daguda_0041"
+	},
+	{
+		"ID": 206,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 2006,
+		"affinity_SeaPresentAffinity": 2,
+		"serif": "ダグダにくれるの！？\nマスターったら、ステキ！",
+		"face": "smile",
+		"voice_cue_name": "daguda_0020"
+	},
+	{
+		"ID": 207,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 2006,
+		"affinity_SeaPresentAffinity": 3,
+		"serif": "わぁっ！ありがと！\nえへへ、なにかな～？",
+		"face": "smile",
+		"voice_cue_name": "daguda_0030"
+	},
+	{
+		"ID": 208,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 2006,
+		"affinity_SeaPresentAffinity": 4,
+		"serif": "え？あ、ありがと…なにか\n頑張らないといけないの？",
+		"face": "sad",
+		"voice_cue_name": "daguda_0022"
+	},
+	{
+		"ID": 209,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 1013,
+		"affinity_SeaPresentAffinity": 1,
+		"serif": "いつの間にか君の\n研究対象にされていたとはね…！",
+		"face": "smile",
+		"voice_cue_name": "paracelsus_0042"
+	},
+	{
+		"ID": 210,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 1013,
+		"affinity_SeaPresentAffinity": 2,
+		"serif": "わたくしの好きなものを…\n観察していたのかね…？",
+		"face": "smile",
+		"voice_cue_name": "paracelsus_0041"
+	},
+	{
+		"ID": 211,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 1013,
+		"affinity_SeaPresentAffinity": 3,
+		"serif": "ありがとう、いただくよ",
+		"face": "normal",
+		"voice_cue_name": "paracelsus_0030"
+	},
+	{
+		"ID": 212,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 1013,
+		"affinity_SeaPresentAffinity": 4,
+		"serif": "いただいておこう",
+		"face": "usual",
+		"voice_cue_name": "paracelsus_0003"
+	},
+	{
+		"ID": 213,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 1010,
+		"affinity_SeaPresentAffinity": 1,
+		"serif": "あなたの疑いようのない想い…\n確かに受け取りましたわ…",
+		"face": "smile",
+		"voice_cue_name": "furagaraha_0041"
+	},
+	{
+		"ID": 214,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 1010,
+		"affinity_SeaPresentAffinity": 2,
+		"serif": "それ以上は言わないで\nもう、わかっていますから…",
+		"face": "smile",
+		"voice_cue_name": "furagaraha_0042"
+	},
+	{
+		"ID": 215,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 1010,
+		"affinity_SeaPresentAffinity": 3,
+		"serif": "あなたの気持ち、いただきました",
+		"face": "normal",
+		"voice_cue_name": "furagaraha_0030"
+	},
+	{
+		"ID": 216,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 1010,
+		"affinity_SeaPresentAffinity": 4,
+		"serif": "いただきますわ",
+		"face": "usual",
+		"voice_cue_name": "furagaraha_0003"
+	},
+	{
+		"ID": 217,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 4006,
+		"affinity_SeaPresentAffinity": 1,
+		"serif": "アズサはどれくらい尽くせば…\nこの恩をお返しできるのでしょうか！",
+		"face": "smile",
+		"voice_cue_name": "azusa_0041"
+	},
+	{
+		"ID": 218,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 4006,
+		"affinity_SeaPresentAffinity": 2,
+		"serif": "ああ、この感動を…\nアズサはどう表現すればよいのか…！",
+		"face": "smile",
+		"voice_cue_name": "azusa_0020"
+	},
+	{
+		"ID": 219,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 4006,
+		"affinity_SeaPresentAffinity": 3,
+		"serif": "なんと、わたくしにこのような…！",
+		"face": "smile",
+		"voice_cue_name": "azusa_0005"
+	},
+	{
+		"ID": 220,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 4006,
+		"affinity_SeaPresentAffinity": 4,
+		"serif": "ありがとうございます",
+		"face": "usual",
+		"voice_cue_name": "azusa_0030"
+	},
+	{
+		"ID": 221,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 2002,
+		"affinity_SeaPresentAffinity": 1,
+		"serif": "私は喜びを表現するのが苦手です\nですが、すごく…嬉しいです…",
+		"face": "smile",
+		"voice_cue_name": "aimuru_0042"
+	},
+	{
+		"ID": 222,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 2002,
+		"affinity_SeaPresentAffinity": 2,
+		"serif": "ありがとうございます\nお礼は戦果で示します！",
+		"face": "smile",
+		"voice_cue_name": "aimuru_0005"
+	},
+	{
+		"ID": 223,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 2002,
+		"affinity_SeaPresentAffinity": 3,
+		"serif": "お心遣い、感謝いたします",
+		"face": "sad",
+		"voice_cue_name": "aimuru_0030"
+	},
+	{
+		"ID": 224,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 2002,
+		"affinity_SeaPresentAffinity": 4,
+		"serif": "支給品ですね？\nいただきます",
+		"face": "normal",
+		"voice_cue_name": "aimuru_0003"
+	},
+	{
+		"ID": 225,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 4013,
+		"affinity_SeaPresentAffinity": 1,
+		"serif": "素敵…とても美しい贈り物です\nお気遣い感謝いたします、マスター",
+		"face": "smile",
+		"voice_cue_name": "aphrodite_0042"
+	},
+	{
+		"ID": 226,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 4013,
+		"affinity_SeaPresentAffinity": 2,
+		"serif": "この贈り物は…ふふっ、私に対する\n気持ちと考えてよろしいですか？",
+		"face": "smile",
+		"voice_cue_name": "aphrodite_0030"
+	},
+	{
+		"ID": 227,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 4013,
+		"affinity_SeaPresentAffinity": 3,
+		"serif": "マスターから頂けるものならば\nなんであろうと嬉しいですわ♪",
+		"face": "smile",
+		"voice_cue_name": "aphrodite_0005"
+	},
+	{
+		"ID": 228,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 4013,
+		"affinity_SeaPresentAffinity": 4,
+		"serif": "あら、わたしにくださるのですか？",
+		"face": "sad",
+		"voice_cue_name": "aphrodite_0004"
+	},
+	{
+		"ID": 229,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 6011,
+		"affinity_SeaPresentAffinity": 1,
+		"serif": "も、もうっ、こんなに貰っちゃったら\nお返し考えないとじゃないですか～",
+		"face": "smile",
+		"voice_cue_name": "vanargand_0021"
+	},
+	{
+		"ID": 230,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 6011,
+		"affinity_SeaPresentAffinity": 2,
+		"serif": "マスターさんからのプレゼントだ♪\nえへへ、中身はなにかな～",
+		"face": "smile",
+		"voice_cue_name": "vanargand_0030"
+	},
+	{
+		"ID": 231,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 6011,
+		"affinity_SeaPresentAffinity": 3,
+		"serif": "え？くれるんですか～？\nお肉だと嬉しいな～",
+		"face": "smile",
+		"voice_cue_name": "vanargand_0005"
+	},
+	{
+		"ID": 232,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 6011,
+		"affinity_SeaPresentAffinity": 4,
+		"serif": "ありがとうございま～す",
+		"face": "usual",
+		"voice_cue_name": "vanargand_0004"
+	},
+	{
+		"ID": 233,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 4004,
+		"affinity_SeaPresentAffinity": 1,
+		"serif": "マスターが笑顔をくれるだけで\nエロースはキュンキュンするんです♪",
+		"face": "smile",
+		"voice_cue_name": "erosu_0041"
+	},
+	{
+		"ID": 234,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 4004,
+		"affinity_SeaPresentAffinity": 2,
+		"serif": "マスターって罪作りですねぇ～\n嬉しいけど困っちゃうなぁ～",
+		"face": "smile",
+		"voice_cue_name": "erosu_0030"
+	},
+	{
+		"ID": 235,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 4004,
+		"affinity_SeaPresentAffinity": 3,
+		"serif": "も～、本気にしちゃいますよ？\nふふふ♪",
+		"face": "smile",
+		"voice_cue_name": "erosu_0005"
+	},
+	{
+		"ID": 236,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 4004,
+		"affinity_SeaPresentAffinity": 4,
+		"serif": "乙女のハートを物で釣ろうなんて～\nこのこのっ♪",
+		"face": "normal",
+		"voice_cue_name": "erosu_0002"
+	},
+	{
+		"ID": 237,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 2007,
+		"affinity_SeaPresentAffinity": 1,
+		"serif": "この物品から溢れる情報量…♪\nマスター、ありがとうございます！",
+		"face": "smile",
+		"voice_cue_name": "sharuuru_0030"
+	},
+	{
+		"ID": 238,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 2007,
+		"affinity_SeaPresentAffinity": 2,
+		"serif": "ふふっ…マスターから\n親愛の情を感じます♪",
+		"face": "smile",
+		"voice_cue_name": "sharuuru_0005"
+	},
+	{
+		"ID": 239,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 2007,
+		"affinity_SeaPresentAffinity": 3,
+		"serif": "この物品…\nさっそく年代測定を！",
+		"face": "angry",
+		"voice_cue_name": "sharuuru_0006"
+	},
+	{
+		"ID": 240,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 2007,
+		"affinity_SeaPresentAffinity": 4,
+		"serif": "情報量は少ないですが…\n調査に使えるかも…？",
+		"face": "sad",
+		"voice_cue_name": "sharuuru_0003"
+	},
+	{
+		"ID": 241,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 2019,
+		"affinity_SeaPresentAffinity": 1,
+		"serif": "も～ますた～はダメだな！ダメ！\nシユウをダメにするたつじんな！",
+		"face": "smile",
+		"voice_cue_name": "chihyu_0041"
+	},
+	{
+		"ID": 242,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 2019,
+		"affinity_SeaPresentAffinity": 2,
+		"serif": "ますた～はシユウがほんとうにすきな！\nシユウもすき！",
+		"face": "normal",
+		"voice_cue_name": "chihyu_0042"
+	},
+	{
+		"ID": 243,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 2019,
+		"affinity_SeaPresentAffinity": 3,
+		"serif": "あめとむちってやつか！？\nむちはだめだな！？",
+		"face": "normal",
+		"voice_cue_name": "chihyu_0030"
+	},
+	{
+		"ID": 244,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 2019,
+		"affinity_SeaPresentAffinity": 4,
+		"serif": "おかしか！？おかしでない？",
+		"face": "angry",
+		"voice_cue_name": "chihyu_0002"
+	},
+	{
+		"ID": 245,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 1003,
+		"affinity_SeaPresentAffinity": 1,
+		"serif": "貴方からもらったものは\nマカロンの包みだって大切ですわ♪",
+		"face": "smile",
+		"voice_cue_name": "durandaru_0030"
+	},
+	{
+		"ID": 246,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 1003,
+		"affinity_SeaPresentAffinity": 2,
+		"serif": "贈り物に心がこもってるの\nわたくし、わかっていますわよ",
+		"face": "smile",
+		"voice_cue_name": "durandaru_0020"
+	},
+	{
+		"ID": 247,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 1003,
+		"affinity_SeaPresentAffinity": 3,
+		"serif": "マカロンですの？それとも紅茶？\nふふっ、楽しみですわ",
+		"face": "smile",
+		"voice_cue_name": "durandaru_0005"
+	},
+	{
+		"ID": 248,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 1003,
+		"affinity_SeaPresentAffinity": 4,
+		"serif": "あら、ありがとう。いただきますわ",
+		"face": "normal",
+		"voice_cue_name": "durandaru_0003"
+	},
+	{
+		"ID": 249,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 3002,
+		"affinity_SeaPresentAffinity": 1,
+		"serif": "うー、嬉しいけど！嬉しいけど！\nなにを返せばいいのさー",
+		"face": "smile",
+		"voice_cue_name": "toraidento_0041"
+	},
+	{
+		"ID": 250,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 3002,
+		"affinity_SeaPresentAffinity": 2,
+		"serif": "わぁ、ちょうど欲しいと思ってたんだ！\nこれってちょっと奇跡的？",
+		"face": "smile",
+		"voice_cue_name": "toraidento_0030"
+	},
+	{
+		"ID": 251,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 3002,
+		"affinity_SeaPresentAffinity": 3,
+		"serif": "え、プレゼント！？\nなにかな、なにかな～",
+		"face": "smile",
+		"voice_cue_name": "toraidento_0005"
+	},
+	{
+		"ID": 252,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 3002,
+		"affinity_SeaPresentAffinity": 4,
+		"serif": "やったー！マスターありがとー！",
+		"face": "normal",
+		"voice_cue_name": "toraidento_0003"
+	},
+	{
+		"ID": 253,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 5004,
+		"affinity_SeaPresentAffinity": 1,
+		"serif": "これいいよね～。何だよもう…\nアタシのこと、わかりきってるね～",
+		"face": "smile",
+		"voice_cue_name": "burafumasutora_0041"
+	},
+	{
+		"ID": 254,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 5004,
+		"affinity_SeaPresentAffinity": 2,
+		"serif": "いいね～♪アンタの気持ちが\n伝わってくるのが特にいいね",
+		"face": "smile",
+		"voice_cue_name": "burafumasutora_0030"
+	},
+	{
+		"ID": 255,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 5004,
+		"affinity_SeaPresentAffinity": 3,
+		"serif": "ふふふ…アンタにしては\n頑張ったんじゃないかな",
+		"face": "smile",
+		"voice_cue_name": "burafumasutora_0005"
+	},
+	{
+		"ID": 256,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 5004,
+		"affinity_SeaPresentAffinity": 4,
+		"serif": "ふーん。ま、いいんじゃない？",
+		"face": "sad",
+		"voice_cue_name": "burafumasutora_0003"
+	},
+	{
+		"ID": 257,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 6006,
+		"affinity_SeaPresentAffinity": 1,
+		"serif": "こんな素晴らしい一品…！\n貰ってしまって…いいのですか？",
+		"face": "smile",
+		"voice_cue_name": "misutoru_0041"
+	},
+	{
+		"ID": 258,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 6006,
+		"affinity_SeaPresentAffinity": 2,
+		"serif": "ありがとうございます…\nこんな素敵な物を頂けるなんて…",
+		"face": "smile",
+		"voice_cue_name": "misutoru_0030"
+	},
+	{
+		"ID": 259,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 6006,
+		"affinity_SeaPresentAffinity": 3,
+		"serif": "も、勿体ないですよ…\n私にあげちゃうなんて…",
+		"face": "sad",
+		"voice_cue_name": "misutoru_0042"
+	},
+	{
+		"ID": 260,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 6006,
+		"affinity_SeaPresentAffinity": 4,
+		"serif": "わ、私より相応しい相手に\n渡すべきですよ…",
+		"face": "sad",
+		"voice_cue_name": "misutoru_0034"
+	},
+	{
+		"ID": 261,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 1025,
+		"affinity_SeaPresentAffinity": 1,
+		"serif": "私は…主君のお役に…\n立てているのですね！！",
+		"face": "smile",
+		"voice_cue_name": "muramasa_0041"
+	},
+	{
+		"ID": 262,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 1025,
+		"affinity_SeaPresentAffinity": 2,
+		"serif": "かような褒美をいただくなど…\nますます精進せねばなりませんね！",
+		"face": "smile",
+		"voice_cue_name": "muramasa_0030"
+	},
+	{
+		"ID": 263,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 1025,
+		"affinity_SeaPresentAffinity": 3,
+		"serif": "なんというお心遣い…！",
+		"face": "angry",
+		"voice_cue_name": "muramasa_0004"
+	},
+	{
+		"ID": 264,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 1025,
+		"affinity_SeaPresentAffinity": 4,
+		"serif": "頂戴いたします",
+		"face": "sad",
+		"voice_cue_name": "muramasa_0003"
+	},
+	{
+		"ID": 265,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 3005,
+		"affinity_SeaPresentAffinity": 1,
+		"serif": "あたいをモノで釣ろうなんて…\nま、今回はしかたなく釣られてやる！",
+		"face": "smile",
+		"voice_cue_name": "roon_0040"
+	},
+	{
+		"ID": 266,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 3005,
+		"affinity_SeaPresentAffinity": 2,
+		"serif": "ゴミクズなりにわかってきたな！\nいただいてくよっ！",
+		"face": "smile",
+		"voice_cue_name": "roon_0041"
+	},
+	{
+		"ID": 267,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 3005,
+		"affinity_SeaPresentAffinity": 3,
+		"serif": "これであたいが満足するとでも？",
+		"face": "angry",
+		"voice_cue_name": "roon_0007"
+	},
+	{
+		"ID": 268,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 3005,
+		"affinity_SeaPresentAffinity": 4,
+		"serif": "しかたないからもらってやるわ",
+		"face": "usual",
+		"voice_cue_name": "roon_0003"
+	},
+	{
+		"ID": 269,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 1002,
+		"affinity_SeaPresentAffinity": 1,
+		"serif": "…こんなの、卑怯だよ\nとにかく……卑怯！",
+		"face": "smile",
+		"voice_cue_name": "revatein_0042"
+	},
+	{
+		"ID": 270,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 1002,
+		"affinity_SeaPresentAffinity": 2,
+		"serif": "…モノに頼るとか情けない\n…努力は認めるけど",
+		"face": "normal",
+		"voice_cue_name": "revatein_0040"
+	},
+	{
+		"ID": 271,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 1002,
+		"affinity_SeaPresentAffinity": 3,
+		"serif": "……ありがとう",
+		"face": "normal",
+		"voice_cue_name": "revatein_0030"
+	},
+	{
+		"ID": 272,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 1002,
+		"affinity_SeaPresentAffinity": 4,
+		"serif": "…もらっとく",
+		"face": "usual",
+		"voice_cue_name": "revatein_0003"
+	},
+	{
+		"ID": 273,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 3010,
+		"affinity_SeaPresentAffinity": 1,
+		"serif": "あなたをお守りする立場なのに…\n想いがあふれてしまいそう…",
+		"face": "smile",
+		"voice_cue_name": "rhongomiant_0041"
+	},
+	{
+		"ID": 274,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 3010,
+		"affinity_SeaPresentAffinity": 2,
+		"serif": "あなたのお気持ちに…！\n全身全霊お答えします！",
+		"face": "smile",
+		"voice_cue_name": "rhongomiant_0030"
+	},
+	{
+		"ID": 275,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 3010,
+		"affinity_SeaPresentAffinity": 3,
+		"serif": "ああ…ありがとうございます！",
+		"face": "smile",
+		"voice_cue_name": "rhongomiant_0004"
+	},
+	{
+		"ID": 276,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 3010,
+		"affinity_SeaPresentAffinity": 4,
+		"serif": "お気遣いいただかなくても…",
+		"face": "sad",
+		"voice_cue_name": "rhongomiant_0008"
+	},
+	{
+		"ID": 277,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 5024,
+		"affinity_SeaPresentAffinity": 1,
+		"serif": "報酬とは、別…個人的に…？\nつまり…プレゼントっすよね…？",
+		"face": "smile",
+		"voice_cue_name": "saika_0041"
+	},
+	{
+		"ID": 278,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 5024,
+		"affinity_SeaPresentAffinity": 2,
+		"serif": "今まで以上に働けってことじゃ…\nないんすか…？ち、違うの！？",
+		"face": "smile",
+		"voice_cue_name": "saika_0042"
+	},
+	{
+		"ID": 279,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 5024,
+		"affinity_SeaPresentAffinity": 3,
+		"serif": "…MVP的な感じすか？",
+		"face": "smile",
+		"voice_cue_name": "saika_0030"
+	},
+	{
+		"ID": 280,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 5024,
+		"affinity_SeaPresentAffinity": 4,
+		"serif": "受け取ったっす",
+		"face": "normal",
+		"voice_cue_name": "saika_0004"
+	},
+	{
+		"ID": 281,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 4003,
+		"affinity_SeaPresentAffinity": 1,
+		"serif": "キミのキモチは分かったよ！\nボクに独占されたいんだね！！",
+		"face": "smile",
+		"voice_cue_name": "aporon_0021"
+	},
+	{
+		"ID": 282,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 4003,
+		"affinity_SeaPresentAffinity": 2,
+		"serif": "ボク。キミのこと\nどんどん好きになっちゃうな…",
+		"face": "smile",
+		"voice_cue_name": "aporon_0042"
+	},
+	{
+		"ID": 283,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 4003,
+		"affinity_SeaPresentAffinity": 3,
+		"serif": "わーい！ねえねえ\nこれお姉ちゃんにあげてもいい？",
+		"face": "smile",
+		"voice_cue_name": "aporon_0004"
+	},
+	{
+		"ID": 284,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 4003,
+		"affinity_SeaPresentAffinity": 4,
+		"serif": "お姉ちゃんからじゃないのか…",
+		"face": "normal",
+		"voice_cue_name": "aporon_0008"
+	},
+	{
+		"ID": 285,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 1007,
+		"affinity_SeaPresentAffinity": 1,
+		"serif": "家宝に致します！\n…大げさでしょうか？",
+		"face": "smile",
+		"voice_cue_name": "Arondaito_0041"
+	},
+	{
+		"ID": 286,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 1007,
+		"affinity_SeaPresentAffinity": 2,
+		"serif": "この御恩、忠義で返します",
+		"face": "smile",
+		"voice_cue_name": "Arondaito_0020"
+	},
+	{
+		"ID": 287,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 1007,
+		"affinity_SeaPresentAffinity": 3,
+		"serif": "ありがとうございます\n大事にします…",
+		"face": "smile",
+		"voice_cue_name": "Arondaito_0030"
+	},
+	{
+		"ID": 288,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 1007,
+		"affinity_SeaPresentAffinity": 4,
+		"serif": "頂戴いたします",
+		"face": "normal",
+		"voice_cue_name": "Arondaito_0003"
+	},
+	{
+		"ID": 289,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 1006,
+		"affinity_SeaPresentAffinity": 1,
+		"serif": "ど、どうしてこんな…\n困りますよ…",
+		"face": "smile",
+		"voice_cue_name": "nageruring_0042"
+	},
+	{
+		"ID": 290,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 1006,
+		"affinity_SeaPresentAffinity": 2,
+		"serif": "えっ…くれるんですか？\n…参ったな…",
+		"face": "smile",
+		"voice_cue_name": "nageruring_0041"
+	},
+	{
+		"ID": 291,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 1006,
+		"affinity_SeaPresentAffinity": 3,
+		"serif": "わあ、素敵ですね！\n…そこまででもないですけど",
+		"face": "smile",
+		"voice_cue_name": "nageruring_0030"
+	},
+	{
+		"ID": 292,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 1006,
+		"affinity_SeaPresentAffinity": 4,
+		"serif": "ありがとうございます！\n…あんまりうれしくないけど",
+		"face": "normal",
+		"voice_cue_name": "nageruring_0004"
+	},
+	{
+		"ID": 293,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 1001,
+		"affinity_SeaPresentAffinity": 1,
+		"serif": "あ、穴があったら入りたい…\n顔が…熱い…",
+		"face": "smile",
+		"voice_cue_name": "masamune_0042"
+	},
+	{
+		"ID": 294,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 1001,
+		"affinity_SeaPresentAffinity": 2,
+		"serif": "褒美はやはりうれしいものだ…！\n剣士の誉れに他ならない！",
+		"face": "smile",
+		"voice_cue_name": "masamune_0041"
+	},
+	{
+		"ID": 295,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 1001,
+		"affinity_SeaPresentAffinity": 3,
+		"serif": "心遣い、感謝する",
+		"face": "smile",
+		"voice_cue_name": "masamune_0030"
+	},
+	{
+		"ID": 296,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 1001,
+		"affinity_SeaPresentAffinity": 4,
+		"serif": "かたじけない",
+		"face": "normal",
+		"voice_cue_name": "masamune_0003"
+	},
+	{
+		"ID": 297,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 6014,
+		"affinity_SeaPresentAffinity": 1,
+		"serif": "そう貰ってばかりはおれんな\nマスターよ、お返しはなにがいい？",
+		"face": "smile",
+		"voice_cue_name": "ptah_0042"
+	},
+	{
+		"ID": 298,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 6014,
+		"affinity_SeaPresentAffinity": 2,
+		"serif": "我に贈り物？受け取ろう\nふふ、中身はなにであろうな…",
+		"face": "smile",
+		"voice_cue_name": "ptah_0041"
+	},
+	{
+		"ID": 299,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 6014,
+		"affinity_SeaPresentAffinity": 3,
+		"serif": "これを、我にか？\nふふ、優しいのだな",
+		"face": "smile",
+		"voice_cue_name": "ptah_0030"
+	},
+	{
+		"ID": 300,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 6014,
+		"affinity_SeaPresentAffinity": 4,
+		"serif": "母に贈り物か？",
+		"face": "normal",
+		"voice_cue_name": "ptah_0003"
+	},
+	{
+		"ID": 301,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 3017,
+		"affinity_SeaPresentAffinity": 1,
+		"serif": "よく私の好みを見抜いたな\n褒めてやろう♪",
+		"face": "smile",
+		"voice_cue_name": "wotan_0041"
+	},
+	{
+		"ID": 302,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 3017,
+		"affinity_SeaPresentAffinity": 2,
+		"serif": "そ…そうか…私にくれるのか\n気が利くじゃないか…",
+		"face": "smile",
+		"voice_cue_name": "wotan_0039"
+	},
+	{
+		"ID": 303,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 3017,
+		"affinity_SeaPresentAffinity": 3,
+		"serif": "少しはわかっているようだな\nふふっ…",
+		"face": "smile",
+		"voice_cue_name": "wotan_0020"
+	},
+	{
+		"ID": 304,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 3017,
+		"affinity_SeaPresentAffinity": 4,
+		"serif": "私の趣味について\n今度じっくり教えてやる…",
+		"face": "normal",
+		"voice_cue_name": "wotan_0003"
+	},
+	{
+		"ID": 305,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 2013,
+		"affinity_SeaPresentAffinity": 1,
+		"serif": "…別にドキドキしてないし\nこんなんでなびかないからね…！",
+		"face": "smile",
+		"voice_cue_name": "reshef_0042"
+	},
+	{
+		"ID": 306,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 2013,
+		"affinity_SeaPresentAffinity": 2,
+		"serif": "プレゼントくらいで…\nあたしは変わらないから！",
+		"face": "smile",
+		"voice_cue_name": "reshef_0039"
+	},
+	{
+		"ID": 307,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 2013,
+		"affinity_SeaPresentAffinity": 3,
+		"serif": "…なにか企んでないでしょーね",
+		"face": "smile",
+		"voice_cue_name": "reshef_0022"
+	},
+	{
+		"ID": 308,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 2013,
+		"affinity_SeaPresentAffinity": 4,
+		"serif": "もらっといてあげるけど",
+		"face": "normal",
+		"voice_cue_name": "reshef_0003"
+	},
+	{
+		"ID": 309,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 2012,
+		"affinity_SeaPresentAffinity": 1,
+		"serif": "あら、中身はなにかしら？\nまあ、あなたの贈り物ならなんでも…",
+		"face": "smile",
+		"voice_cue_name": "srand_0020"
+	},
+	{
+		"ID": 310,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 2012,
+		"affinity_SeaPresentAffinity": 2,
+		"serif": "さすがマスター\nあたしの趣味をわかってるわね♪",
+		"face": "smile",
+		"voice_cue_name": "srand_0021"
+	},
+	{
+		"ID": 311,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 2012,
+		"affinity_SeaPresentAffinity": 3,
+		"serif": "あら、気が利くわね、ゴージャスな\nプレゼントを期待してるわ",
+		"face": "smile",
+		"voice_cue_name": "srand_0004"
+	},
+	{
+		"ID": 312,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 2012,
+		"affinity_SeaPresentAffinity": 4,
+		"serif": "このあたしにプレゼント？\n地味なモノだったら承知しないわよ",
+		"face": "normal",
+		"voice_cue_name": "srand_0003"
+	},
+	{
+		"ID": 313,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 5020,
+		"affinity_SeaPresentAffinity": 1,
+		"serif": "なにもらっても嬉しいよ！\nだっておまえからのだもん！",
+		"face": "smile",
+		"voice_cue_name": "tasuramu_0041"
+	},
+	{
+		"ID": 314,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 5020,
+		"affinity_SeaPresentAffinity": 2,
+		"serif": "あたしからもなんか上げられればな～\n肩たたき券とか！",
+		"face": "smile",
+		"voice_cue_name": "tasuramu_0039"
+	},
+	{
+		"ID": 315,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 5020,
+		"affinity_SeaPresentAffinity": 3,
+		"serif": "プレゼントなんて気が利くじゃんか～！",
+		"face": "smile",
+		"voice_cue_name": "tasuramu_0020"
+	},
+	{
+		"ID": 316,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 5020,
+		"affinity_SeaPresentAffinity": 4,
+		"serif": "わ～い！これっておいしいやつか！？",
+		"face": "normal",
+		"voice_cue_name": "tasuramu_0004"
+	},
+	{
+		"ID": 317,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 6003,
+		"affinity_SeaPresentAffinity": 1,
+		"serif": "こ、これ私に！？\n貰っちゃっていいの！？",
+		"face": "smile",
+		"voice_cue_name": "tyurusosu_0021"
+	},
+	{
+		"ID": 318,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 6003,
+		"affinity_SeaPresentAffinity": 2,
+		"serif": "ありがとう♪\nこれ欲しかったんだ～♪",
+		"face": "smile",
+		"voice_cue_name": "tyurusosu_0030"
+	},
+	{
+		"ID": 319,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 6003,
+		"affinity_SeaPresentAffinity": 3,
+		"serif": "貰っていいの？\nありがとね、マスター！",
+		"face": "smile",
+		"voice_cue_name": "tyurusosu_0005"
+	},
+	{
+		"ID": 320,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 6003,
+		"affinity_SeaPresentAffinity": 4,
+		"serif": "ホントはお酒がよかったんだけど…\nわがままはイケナイか",
+		"face": "normal",
+		"voice_cue_name": "tyurusosu_0003"
+	},
+	{
+		"ID": 321,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 3009,
+		"affinity_SeaPresentAffinity": 1,
+		"serif": "君主としてではなく…貴方として\n私に贈り物を…くれるのですね…？",
+		"face": "smile",
+		"voice_cue_name": "seiryu_0042"
+	},
+	{
+		"ID": 322,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 3009,
+		"affinity_SeaPresentAffinity": 2,
+		"serif": "我が活躍が耳に入りましたか\nありがたき幸せ！",
+		"face": "smile",
+		"voice_cue_name": "seiryu_0041"
+	},
+	{
+		"ID": 323,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 3009,
+		"affinity_SeaPresentAffinity": 3,
+		"serif": "褒美、感謝いたします",
+		"face": "smile",
+		"voice_cue_name": "seiryu_0030"
+	},
+	{
+		"ID": 324,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 3009,
+		"affinity_SeaPresentAffinity": 4,
+		"serif": "頂戴しましょう",
+		"face": "normal",
+		"voice_cue_name": "seiryu_0003"
+	},
+	{
+		"ID": 325,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 3007,
+		"affinity_SeaPresentAffinity": 1,
+		"serif": "君主としてではなく…貴方として\n私に贈り物を…くれるのですね…？",
+		"face": "smile",
+		"voice_cue_name": "gaiborugu_0042"
+	},
+	{
+		"ID": 326,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 3007,
+		"affinity_SeaPresentAffinity": 2,
+		"serif": "我が活躍が耳に入りましたか\nありがたき幸せ！",
+		"face": "smile",
+		"voice_cue_name": "gaiborugu_0039"
+	},
+	{
+		"ID": 327,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 3007,
+		"affinity_SeaPresentAffinity": 3,
+		"serif": "褒美、感謝いたします",
+		"face": "smile",
+		"voice_cue_name": "gaiborugu_0030"
+	},
+	{
+		"ID": 328,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 3007,
+		"affinity_SeaPresentAffinity": 4,
+		"serif": "頂戴しましょう",
+		"face": "normal",
+		"voice_cue_name": "gaiborugu_0003"
+	},
+	{
+		"ID": 329,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 2011,
+		"affinity_SeaPresentAffinity": 1,
+		"serif": "これを受け取ったからには…\n責任を果たさねばなりませんね…！",
+		"face": "smile",
+		"voice_cue_name": "Wazra_0042"
+	},
+	{
+		"ID": 330,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 2011,
+		"affinity_SeaPresentAffinity": 2,
+		"serif": "契約のしるし…でしょうか？\n大切にしないといけませんね！",
+		"face": "smile",
+		"voice_cue_name": "Wazra_0040"
+	},
+	{
+		"ID": 331,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 2011,
+		"affinity_SeaPresentAffinity": 3,
+		"serif": "ふふ、ありがとうございます！",
+		"face": "smile",
+		"voice_cue_name": "Wazra_0030"
+	},
+	{
+		"ID": 332,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 2011,
+		"affinity_SeaPresentAffinity": 4,
+		"serif": "いただいておきます",
+		"face": "normal",
+		"voice_cue_name": "Wazra_0003"
+	},
+	{
+		"ID": 333,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 5002,
+		"affinity_SeaPresentAffinity": 1,
+		"serif": "サンキュー！マスターから貰った\nプレゼントは全部大切な宝物だよ？",
+		"face": "smile",
+		"voice_cue_name": "furaikugeru_0041"
+	},
+	{
+		"ID": 334,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 5002,
+		"affinity_SeaPresentAffinity": 2,
+		"serif": "ワオ、こんなに貰っちゃっていいの！？\nマスター、太っ腹！",
+		"face": "smile",
+		"voice_cue_name": "furaikugeru_0021"
+	},
+	{
+		"ID": 335,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 5002,
+		"affinity_SeaPresentAffinity": 3,
+		"serif": "これ、わたしに？\nサンキュー、マスター！",
+		"face": "smile",
+		"voice_cue_name": "furaikugeru_0030"
+	},
+	{
+		"ID": 336,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 5002,
+		"affinity_SeaPresentAffinity": 4,
+		"serif": "ありがとね♪",
+		"face": "normal",
+		"voice_cue_name": "furaikugeru_0004"
+	},
+	{
+		"ID": 337,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 5027,
+		"affinity_SeaPresentAffinity": 1,
+		"serif": "すごくうれしいよ…\nありがとうね、マスターくん♪",
+		"face": "happy",
+		"voice_cue_name": "freischotz_0041"
+	},
+	{
+		"ID": 338,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 5027,
+		"affinity_SeaPresentAffinity": 2,
+		"serif": "えっ、わっ！ありがとう！\nお返しはなにが良いかな？",
+		"face": "happy",
+		"voice_cue_name": "freischotz_0042"
+	},
+	{
+		"ID": 339,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 5027,
+		"affinity_SeaPresentAffinity": 3,
+		"serif": "ありがと～",
+		"face": "happy",
+		"voice_cue_name": "freischotz_0030"
+	},
+	{
+		"ID": 340,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 5027,
+		"affinity_SeaPresentAffinity": 4,
+		"serif": "マスターくん、いい人だよね♪",
+		"face": "normal",
+		"voice_cue_name": "freischotz_0005"
+	},
+	{
+		"ID": 341,
+		"same_character_id_UnitUnit": 210142,
+		"character_id": 0,
+		"affinity_SeaPresentAffinity": 1,
+		"serif": "この気持ちを\nどうお伝えすればいいのでしょうか…",
+		"face": "smile",
+		"voice_cue_name": "tyrufing_k_0041"
+	},
+	{
+		"ID": 342,
+		"same_character_id_UnitUnit": 210142,
+		"character_id": 0,
+		"affinity_SeaPresentAffinity": 2,
+		"serif": "これを私に！？\n感謝します、マスター",
+		"face": "smile",
+		"voice_cue_name": "tyrufing_k_0030"
+	},
+	{
+		"ID": 343,
+		"same_character_id_UnitUnit": 210142,
+		"character_id": 0,
+		"affinity_SeaPresentAffinity": 3,
+		"serif": "ありがとうございます、マスター",
+		"face": "smile",
+		"voice_cue_name": "tyrufing_k_0005"
+	},
+	{
+		"ID": 344,
+		"same_character_id_UnitUnit": 210142,
+		"character_id": 0,
+		"affinity_SeaPresentAffinity": 4,
+		"serif": "いくら強欲であっても\n好みはあるのですが…",
+		"face": "normal",
+		"voice_cue_name": "tyrufing_k_0008"
+	},
+	{
+		"ID": 345,
+		"same_character_id_UnitUnit": 220042,
+		"character_id": 0,
+		"affinity_SeaPresentAffinity": 1,
+		"serif": "え？これをボクに…\nプレゼント？あ、ありがとうっ！",
+		"face": "shy",
+		"voice_cue_name": "parashu_k_0042"
+	},
+	{
+		"ID": 346,
+		"same_character_id_UnitUnit": 220042,
+		"character_id": 0,
+		"affinity_SeaPresentAffinity": 2,
+		"serif": "わざわざ選んでくれたのかい？\n本当にありがとう！",
+		"face": "shy",
+		"voice_cue_name": "parashu_k_0041"
+	},
+	{
+		"ID": 347,
+		"same_character_id_UnitUnit": 220042,
+		"character_id": 0,
+		"affinity_SeaPresentAffinity": 3,
+		"serif": "ボクにかい？いただくよ",
+		"face": "shy",
+		"voice_cue_name": "parashu_k_0030"
+	},
+	{
+		"ID": 348,
+		"same_character_id_UnitUnit": 220042,
+		"character_id": 0,
+		"affinity_SeaPresentAffinity": 4,
+		"serif": "そう…ありがとう",
+		"face": "normal",
+		"voice_cue_name": "parashu_k_0004"
+	},
+	{
+		"ID": 349,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 5025,
+		"affinity_SeaPresentAffinity": 1,
+		"serif": "……！ありがとうございます。",
+		"face": "happy",
+		"voice_cue_name": "megumin_0004"
+	},
+	{
+		"ID": 350,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 5025,
+		"affinity_SeaPresentAffinity": 2,
+		"serif": "いいのですか？\n本当にいいのですか！？",
+		"face": "happy",
+		"voice_cue_name": "megumin_0001"
+	},
+	{
+		"ID": 351,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 5025,
+		"affinity_SeaPresentAffinity": 3,
+		"serif": "もらってあげるのも\nやぶさかではありません",
+		"face": "irregular",
+		"voice_cue_name": "megumin_0027"
+	},
+	{
+		"ID": 352,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 5025,
+		"affinity_SeaPresentAffinity": 4,
+		"serif": "なるほど、プレゼントですか？",
+		"face": "normal",
+		"voice_cue_name": "megumin_0003"
+	},
+	{
+		"ID": 353,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 1034,
+		"affinity_SeaPresentAffinity": 1,
+		"serif": "これを私に…？\nありがとう、うれしい",
+		"face": "smile",
+		"voice_cue_name": "dakunesu_0011"
+	},
+	{
+		"ID": 354,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 1034,
+		"affinity_SeaPresentAffinity": 2,
+		"serif": "いいのか？\nお返しできるものはないのだが…",
+		"face": "smile",
+		"voice_cue_name": "dakunesu_0004"
+	},
+	{
+		"ID": 355,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 1034,
+		"affinity_SeaPresentAffinity": 3,
+		"serif": "ありがとう、受け取っておく",
+		"face": "usual",
+		"voice_cue_name": "dakunesu_0003"
+	},
+	{
+		"ID": 356,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 1034,
+		"affinity_SeaPresentAffinity": 4,
+		"serif": "ん、これは…？",
+		"face": "sad",
+		"voice_cue_name": "dakunesu_0026"
+	},
+	{
+		"ID": 357,
+		"same_character_id_UnitUnit": 240012,
+		"character_id": 0,
+		"affinity_SeaPresentAffinity": 1,
+		"serif": "これをいただけるのですか…？\n感謝します…嬉しいです…",
+		"face": "smile",
+		"voice_cue_name": "arutemisu_k_0021"
+	},
+	{
+		"ID": 358,
+		"same_character_id_UnitUnit": 240012,
+		"character_id": 0,
+		"affinity_SeaPresentAffinity": 2,
+		"serif": "私にプレゼントだなんて…\nありがとうございます",
+		"face": "smile",
+		"voice_cue_name": "arutemisu_k_0042"
+	},
+	{
+		"ID": 359,
+		"same_character_id_UnitUnit": 240012,
+		"character_id": 0,
+		"affinity_SeaPresentAffinity": 3,
+		"serif": "マスター、ありがとうございます",
+		"face": "normal",
+		"voice_cue_name": "arutemisu_k_0030"
+	},
+	{
+		"ID": 360,
+		"same_character_id_UnitUnit": 240012,
+		"character_id": 0,
+		"affinity_SeaPresentAffinity": 4,
+		"serif": "いちおう頂いておきます",
+		"face": "normal",
+		"voice_cue_name": "arutemisu_k_0003"
+	},
+	{
+		"ID": 361,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 3025,
+		"affinity_SeaPresentAffinity": 1,
+		"serif": "頂いてもいいのですか？\n嬉しいです、とても…！",
+		"face": "smile",
+		"voice_cue_name": "minerva_0021"
+	},
+	{
+		"ID": 362,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 3025,
+		"affinity_SeaPresentAffinity": 2,
+		"serif": "これを私に？\nありがとうございます！",
+		"face": "smile",
+		"voice_cue_name": "minerva_0006"
+	},
+	{
+		"ID": 363,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 3025,
+		"affinity_SeaPresentAffinity": 3,
+		"serif": "ありがとうございます",
+		"face": "normal",
+		"voice_cue_name": "minerva_0030"
+	},
+	{
+		"ID": 364,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 3025,
+		"affinity_SeaPresentAffinity": 4,
+		"serif": "これは…\nいえ、なんでもありません…",
+		"face": "sad",
+		"voice_cue_name": "minerva_0003"
+	},
+	{
+		"ID": 365,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 6017,
+		"affinity_SeaPresentAffinity": 1,
+		"serif": "え……！これ…くれるの？いいの？\n本当に！？ありがとう！！",
+		"face": "smile",
+		"voice_cue_name": "akua_0072"
+	},
+	{
+		"ID": 366,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 6017,
+		"affinity_SeaPresentAffinity": 2,
+		"serif": "わああ！ありがとう！",
+		"face": "smile",
+		"voice_cue_name": "akua_0084"
+	},
+	{
+		"ID": 367,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 6017,
+		"affinity_SeaPresentAffinity": 3,
+		"serif": "あら、あなた気が利くわね！\nありがたく頂戴します！",
+		"face": "normal",
+		"voice_cue_name": "akua_0048"
+	},
+	{
+		"ID": 368,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 6017,
+		"affinity_SeaPresentAffinity": 4,
+		"serif": "とりあえずもらっておくわね",
+		"face": "normal",
+		"voice_cue_name": "akua_0045"
+	},
+	{
+		"ID": 369,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 1036,
+		"affinity_SeaPresentAffinity": 1,
+		"serif": "ありがとう…\n私の宝物の一つにするわ",
+		"face": "smile",
+		"voice_cue_name": "ragnarok_0030"
+	},
+	{
+		"ID": 370,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 1036,
+		"affinity_SeaPresentAffinity": 2,
+		"serif": "嬉しいけど…いいのかしら…",
+		"face": "smile",
+		"voice_cue_name": "ragnarok_0042"
+	},
+	{
+		"ID": 371,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 1036,
+		"affinity_SeaPresentAffinity": 3,
+		"serif": "ありがとう",
+		"face": "normal",
+		"voice_cue_name": "ragnarok_0004"
+	},
+	{
+		"ID": 372,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 1036,
+		"affinity_SeaPresentAffinity": 4,
+		"serif": "気持ちは嬉しいよ",
+		"face": "normal",
+		"voice_cue_name": "ragnarok_0002"
+	},
+	{
+		"ID": 373,
+		"same_character_id_UnitUnit": 210143,
+		"character_id": 0,
+		"affinity_SeaPresentAffinity": 1,
+		"serif": "こんな物…いただいていいんですか？\nありがとうございますっ！",
+		"face": "smile",
+		"voice_cue_name": "tyrufing_0030"
+	},
+	{
+		"ID": 374,
+		"same_character_id_UnitUnit": 210143,
+		"character_id": 0,
+		"affinity_SeaPresentAffinity": 2,
+		"serif": "マスターから私に…\n嬉しいですっ",
+		"face": "smile",
+		"voice_cue_name": "tyrufing_0005"
+	},
+	{
+		"ID": 375,
+		"same_character_id_UnitUnit": 210143,
+		"character_id": 0,
+		"affinity_SeaPresentAffinity": 3,
+		"serif": "これを私に…？\nありがとうございます",
+		"face": "normal",
+		"voice_cue_name": "tyrufing_0004"
+	},
+	{
+		"ID": 376,
+		"same_character_id_UnitUnit": 210143,
+		"character_id": 0,
+		"affinity_SeaPresentAffinity": 4,
+		"serif": "あ、はいっ…\nありがとうございます",
+		"face": "normal",
+		"voice_cue_name": "tyrufing_0003"
+	},
+	{
+		"ID": 377,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 4017,
+		"affinity_SeaPresentAffinity": 1,
+		"serif": "これを頂けるのですか！？\n（やったやったやったやった～！）",
+		"face": "smile",
+		"voice_cue_name": "suiha_0020"
+	},
+	{
+		"ID": 378,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 4017,
+		"affinity_SeaPresentAffinity": 2,
+		"serif": "感謝します\n（わぁい！これ欲しかったんだ～！）",
+		"face": "smile",
+		"voice_cue_name": "suiha_0005"
+	},
+	{
+		"ID": 379,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 4017,
+		"affinity_SeaPresentAffinity": 3,
+		"serif": "ありがとうございます",
+		"face": "normal",
+		"voice_cue_name": "suiha_0030"
+	},
+	{
+		"ID": 380,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 4017,
+		"affinity_SeaPresentAffinity": 4,
+		"serif": "なるほど。これもまた\n勇気を得るためなのですね",
+		"face": "normal」",
+		"voice_cue_name": "suiha_0040"
+	},
+	{
+		"ID": 381,
+		"same_character_id_UnitUnit": 230012,
+		"character_id": 0,
+		"affinity_SeaPresentAffinity": 1,
+		"serif": "マスター…！\n本当にありがとうございます",
+		"face": "smile",
+		"voice_cue_name": "ronginusu_k_0020"
+	},
+	{
+		"ID": 382,
+		"same_character_id_UnitUnit": 230012,
+		"character_id": 0,
+		"affinity_SeaPresentAffinity": 2,
+		"serif": "これを頂いてもいいのですか…？",
+		"face": "normal",
+		"voice_cue_name": "ronginusu_k_0005"
+	},
+	{
+		"ID": 383,
+		"same_character_id_UnitUnit": 230012,
+		"character_id": 0,
+		"affinity_SeaPresentAffinity": 3,
+		"serif": "ありがとうございます",
+		"face": "normal",
+		"voice_cue_name": "ronginusu_k_0030"
+	},
+	{
+		"ID": 384,
+		"same_character_id_UnitUnit": 230012,
+		"character_id": 0,
+		"affinity_SeaPresentAffinity": 4,
+		"serif": "いただきます…",
+		"face": "normal",
+		"voice_cue_name": "ronginusu_k_0032"
+	},
+	{
+		"ID": 385,
+		"same_character_id_UnitUnit": 210012,
+		"character_id": 0,
+		"affinity_SeaPresentAffinity": 1,
+		"serif": "これを頂けるのですか…！\n主君のお心遣い、痛み入ります",
+		"face": "shy",
+		"voice_cue_name": "masamune_k_0021"
+	},
+	{
+		"ID": 386,
+		"same_character_id_UnitUnit": 210012,
+		"character_id": 0,
+		"affinity_SeaPresentAffinity": 2,
+		"serif": "感謝いたします",
+		"face": "normal",
+		"voice_cue_name": "masamune_k_0030"
+	},
+	{
+		"ID": 387,
+		"same_character_id_UnitUnit": 210012,
+		"character_id": 0,
+		"affinity_SeaPresentAffinity": 3,
+		"serif": "かたじけない",
+		"face": "normal",
+		"voice_cue_name": "masamune_k_0004"
+	},
+	{
+		"ID": 388,
+		"same_character_id_UnitUnit": 210012,
+		"character_id": 0,
+		"affinity_SeaPresentAffinity": 4,
+		"serif": "…いただきます",
+		"face": "sad",
+		"voice_cue_name": "masamune_k_0008"
+	},
+	{
+		"ID": 389,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 1035,
+		"affinity_SeaPresentAffinity": 1,
+		"serif": "ありがとう！これ欲しかったの！\nマスターの愛、とっても感じるよ～",
+		"face": "happy",
+		"voice_cue_name": "damocles_0020"
+	},
+	{
+		"ID": 390,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 1035,
+		"affinity_SeaPresentAffinity": 2,
+		"serif": "わーい、マスターありがとう！",
+		"face": "normal",
+		"voice_cue_name": "damocles_0021"
+	},
+	{
+		"ID": 391,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 1035,
+		"affinity_SeaPresentAffinity": 3,
+		"serif": "ありがとー！",
+		"face": "usual",
+		"voice_cue_name": "damocles_0041"
+	},
+	{
+		"ID": 392,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 1035,
+		"affinity_SeaPresentAffinity": 4,
+		"serif": "ふ～ん…",
+		"face": "sad",
+		"voice_cue_name": "damocles_0028"
+	},
+	{
+		"ID": 393,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 6020,
+		"affinity_SeaPresentAffinity": 1,
+		"serif": "お、お兄ちゃんからの贈り物…\nはい、大切にしますねっ！",
+		"face": "smile",
+		"voice_cue_name": "ness_0021"
+	},
+	{
+		"ID": 394,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 6020,
+		"affinity_SeaPresentAffinity": 2,
+		"serif": "マスターがわたしのために？\nありがたくいただきますっ！",
+		"face": "smile",
+		"voice_cue_name": "ness_0004"
+	},
+	{
+		"ID": 395,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 6020,
+		"affinity_SeaPresentAffinity": 3,
+		"serif": "贈り物…わたしに、ですか…\nあの、ありがとうございます",
+		"face": "normal",
+		"voice_cue_name": "ness_0030"
+	},
+	{
+		"ID": 396,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 6020,
+		"affinity_SeaPresentAffinity": 4,
+		"serif": "ありがとうございます、マスター",
+		"face": "usual",
+		"voice_cue_name": "ness_0001"
+	},
+	{
+		"ID": 397,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 2025,
+		"affinity_SeaPresentAffinity": 1,
+		"serif": "まさかプレゼントをくれるなんて…\n私、すっごく幸せです！",
+		"face": "smile",
+		"voice_cue_name": "hercule_0020"
+	},
+	{
+		"ID": 398,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 2025,
+		"affinity_SeaPresentAffinity": 2,
+		"serif": "わざわざ贈り物だなんて…\nふふっ、大切にしますね！",
+		"face": "smile",
+		"voice_cue_name": "hercule_0005"
+	},
+	{
+		"ID": 399,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 2025,
+		"affinity_SeaPresentAffinity": 3,
+		"serif": "私にプレゼント…ですか？\nありがとうございます、マスター！",
+		"face": "normal",
+		"voice_cue_name": "hercule_0004"
+	},
+	{
+		"ID": 400,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 2025,
+		"affinity_SeaPresentAffinity": 4,
+		"serif": "プレゼントですか？\nあ、ありがとうございます…",
+		"face": "usual",
+		"voice_cue_name": "hercule_0008"
+	},
+	{
+		"ID": 401,
+		"same_character_id_UnitUnit": 210022,
+		"character_id": 0,
+		"affinity_SeaPresentAffinity": 1,
+		"serif": "うん…あ、ありがと…\nなにニヤニヤしてんのよ？",
+		"face": "smile",
+		"voice_cue_name": "revatein_k_0021"
+	},
+	{
+		"ID": 402,
+		"same_character_id_UnitUnit": 210022,
+		"character_id": 0,
+		"affinity_SeaPresentAffinity": 2,
+		"serif": "わざわざ私のために？\nうん…その…ありがと…",
+		"face": "smile",
+		"voice_cue_name": "revatein_k_0030"
+	},
+	{
+		"ID": 403,
+		"same_character_id_UnitUnit": 210022,
+		"character_id": 0,
+		"affinity_SeaPresentAffinity": 3,
+		"serif": "へぇ、贈り物か…まぁ\n受け取っておくよ…うん…",
+		"face": "normal",
+		"voice_cue_name": "revatein_k_0004"
+	},
+	{
+		"ID": 404,
+		"same_character_id_UnitUnit": 210022,
+		"character_id": 0,
+		"affinity_SeaPresentAffinity": 4,
+		"serif": "プレゼント…？\nわざわざ私に…？ふぅん…",
+		"face": "usual",
+		"voice_cue_name": "revatein_k_0028"
+	},
+	{
+		"ID": 405,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 3026,
+		"affinity_SeaPresentAffinity": 1,
+		"serif": "こ、これをもらっていいのか？\nふふっ、かんしゃするぞっ！",
+		"face": "smile",
+		"voice_cue_name": "grayside_00２１"
+	},
+	{
+		"ID": 406,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 3026,
+		"affinity_SeaPresentAffinity": 2,
+		"serif": "これをあたしに？ふふっ\nたいせつにさせてもらうぞっ！",
+		"face": "smile",
+		"voice_cue_name": "grayside_0005"
+	},
+	{
+		"ID": 407,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 3026,
+		"affinity_SeaPresentAffinity": 3,
+		"serif": "おおっ、これは…\nありがたくもらっておくぞ！",
+		"face": "normal",
+		"voice_cue_name": "grayside_000４"
+	},
+	{
+		"ID": 408,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 3026,
+		"affinity_SeaPresentAffinity": 4,
+		"serif": "む？プレゼントか…\nありがとう、マスター",
+		"face": "usual",
+		"voice_cue_name": "grayside_000１"
+	},
+	{
+		"ID": 409,
+		"same_character_id_UnitUnit": 250022,
+		"character_id": 0,
+		"affinity_SeaPresentAffinity": 1,
+		"serif": "マスターからのヘァピィな贈り物？\nお返しにベァットなバカンスね！",
+		"face": "smile",
+		"voice_cue_name": "furaikugeru_k_0020"
+	},
+	{
+		"ID": 410,
+		"same_character_id_UnitUnit": 250022,
+		"character_id": 0,
+		"affinity_SeaPresentAffinity": 2,
+		"serif": "わたしへの貢ぎ物はオフコース！\nでもお礼はちゃんとしてあげる！",
+		"face": "smile",
+		"voice_cue_name": "furaikugeru_k_0041"
+	},
+	{
+		"ID": 411,
+		"same_character_id_UnitUnit": 250022,
+		"character_id": 0,
+		"affinity_SeaPresentAffinity": 3,
+		"serif": "センキュー、マスター！\nお返しはナッシングだけどね！",
+		"face": "normal",
+		"voice_cue_name": "furaikugeru_k_0005"
+	},
+	{
+		"ID": 412,
+		"same_character_id_UnitUnit": 250022,
+		"character_id": 0,
+		"affinity_SeaPresentAffinity": 4,
+		"serif": "プレゼント？お～\nとりあえずセンキュー？",
+		"face": "usual",
+		"voice_cue_name": "furaikugeru_k_0004"
+	},
+	{
+		"ID": 413,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 1038,
+		"affinity_SeaPresentAffinity": 1,
+		"serif": "あなたから、もらえるなんて\n私は絶幸せ者ね…ふふふ",
+		"face": "shy",
+		"voice_cue_name": "almace_0005"
+	},
+	{
+		"ID": 414,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 1038,
+		"affinity_SeaPresentAffinity": 2,
+		"serif": "プレゼント…特別なものよね\n絶嬉しいわ…ありがとう",
+		"face": "shy",
+		"voice_cue_name": "almace_0030"
+	},
+	{
+		"ID": 415,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 1038,
+		"affinity_SeaPresentAffinity": 3,
+		"serif": "いいの？　そう…ありがとう",
+		"face": "normal",
+		"voice_cue_name": "almace_0004"
+	},
+	{
+		"ID": 416,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 1038,
+		"affinity_SeaPresentAffinity": 4,
+		"serif": "どーも",
+		"face": "usual",
+		"voice_cue_name": "almace_0003"
+	},
+	{
+		"ID": 417,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 5032,
+		"affinity_SeaPresentAffinity": 1,
+		"serif": "与えたり、与えられたり。この先も\nずっと、主様とこの関係を…",
+		"face": "shy",
+		"voice_cue_name": "tiphereth_t_0020"
+	},
+	{
+		"ID": 418,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 5032,
+		"affinity_SeaPresentAffinity": 2,
+		"serif": "ふふっ…いつもは与える側ですから\nこのような経験は新鮮です",
+		"face": "happy",
+		"voice_cue_name": "tiphereth_t_0005"
+	},
+	{
+		"ID": 419,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 5032,
+		"affinity_SeaPresentAffinity": 3,
+		"serif": "よいのですか？\nこんな素晴らしいものを…",
+		"face": "surprise",
+		"voice_cue_name": "tiphereth_t_0002"
+	},
+	{
+		"ID": 420,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 5032,
+		"affinity_SeaPresentAffinity": 4,
+		"serif": "ありがとうございます、主様",
+		"face": "usual",
+		"voice_cue_name": "tiphereth_t_0030"
+	},
+	{
+		"ID": 421,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 3028,
+		"affinity_SeaPresentAffinity": 1,
+		"serif": "…嬉しいな。先輩にはいつも、\n大切なものをもらってばかりだ",
+		"face": "happy",
+		"voice_cue_name": "herena_a_0020"
+	},
+	{
+		"ID": 422,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 3028,
+		"affinity_SeaPresentAffinity": 2,
+		"serif": "どうもありがとう。お返しは\n槍と釘どっちがいい？…くふっ",
+		"face": "happy",
+		"voice_cue_name": "herena_a_0005"
+	},
+	{
+		"ID": 423,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 3028,
+		"affinity_SeaPresentAffinity": 3,
+		"serif": "これをヘレナにくれるのか？\nありがとう。大事にするよ",
+		"face": "sad",
+		"voice_cue_name": "herena_a_0030"
+	},
+	{
+		"ID": 424,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 3028,
+		"affinity_SeaPresentAffinity": 4,
+		"serif": "先輩は本当、いいセンスをしているな。\n…これは嘘じゃなくて、お世辞だぞ？",
+		"face": "usual",
+		"voice_cue_name": "herena_a_0003"
+	},
+	{
+		"ID": 425,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 3032,
+		"affinity_SeaPresentAffinity": 1,
+		"serif": "これでもっと完全に近づける…\nありがとう、マスター…ふふんっ",
+		"face": "happy",
+		"voice_cue_name": "gaedearg_ge_0004"
+	},
+	{
+		"ID": 426,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 3032,
+		"affinity_SeaPresentAffinity": 2,
+		"serif": "その…か、感謝するわ…\n…なっ、なんでもない！　ふんっ",
+		"face": "angry",
+		"voice_cue_name": "gaedearg_ge_0030"
+	},
+	{
+		"ID": 427,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 3032,
+		"affinity_SeaPresentAffinity": 3,
+		"serif": "あら、これをわたしに？\nさすがね、わかってるじゃない",
+		"face": "normal",
+		"voice_cue_name": "gaedearg_ge_0040"
+	},
+	{
+		"ID": 428,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 3032,
+		"affinity_SeaPresentAffinity": 4,
+		"serif": "完全なわたしにこれ以上\n必要なものがあるのかしら…？",
+		"face": "usual",
+		"voice_cue_name": "gaedearg_ge_0028"
+	},
+	{
+		"ID": 429,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 4019,
+		"affinity_SeaPresentAffinity": 1,
+		"serif": "お前様の目利きも\nあなどれないようね",
+		"face": "happy",
+		"voice_cue_name": "failnaught_a_0005"
+	},
+	{
+		"ID": 430,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 4019,
+		"affinity_SeaPresentAffinity": 2,
+		"serif": "ふふん、合格点よ\n受け取るに値するわ",
+		"face": "happy",
+		"voice_cue_name": "failnaught_a_0004"
+	},
+	{
+		"ID": 431,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 4019,
+		"affinity_SeaPresentAffinity": 3,
+		"serif": "まあ、いいけれど",
+		"face": "normal",
+		"voice_cue_name": "failnaught_a_0032"
+	},
+	{
+		"ID": 432,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 4019,
+		"affinity_SeaPresentAffinity": 4,
+		"serif": "こんなもの…正気かしら？",
+		"face": "angry",
+		"voice_cue_name": "failnaught_a_0013"
+	},
+	{
+		"ID": 433,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 6018,
+		"affinity_SeaPresentAffinity": 1,
+		"serif": "これは…！ありがとうございます！\n必ず私のお店にも置きますね！",
+		"face": "smile",
+		"voice_cue_name": "wizu_0021"
+	},
+	{
+		"ID": 434,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 6018,
+		"affinity_SeaPresentAffinity": 2,
+		"serif": "そんな、私なんかに…！\n嬉しいです！大事にしますね！",
+		"face": "smile",
+		"voice_cue_name": "wizu_0005"
+	},
+	{
+		"ID": 435,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 6018,
+		"affinity_SeaPresentAffinity": 3,
+		"serif": "あら、いいんですか？\nどうもありがとうございます",
+		"face": "normal",
+		"voice_cue_name": "wizu_0004"
+	},
+	{
+		"ID": 436,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 6018,
+		"affinity_SeaPresentAffinity": 4,
+		"serif": "あっ、ありがとうございます",
+		"face": "normal",
+		"voice_cue_name": "wizu_0004"
+	},
+	{
+		"ID": 437,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 5026,
+		"affinity_SeaPresentAffinity": 1,
+		"serif": "これを私に！？\n一生大事にします！",
+		"face": "happy",
+		"voice_cue_name": "yunyun_0042"
+	},
+	{
+		"ID": 438,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 5026,
+		"affinity_SeaPresentAffinity": 2,
+		"serif": "あげるのは慣れてますが\nもらうのは新鮮で嬉しいです！",
+		"face": "happy",
+		"voice_cue_name": "yunyun_0005"
+	},
+	{
+		"ID": 439,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 5026,
+		"affinity_SeaPresentAffinity": 3,
+		"serif": "これを私に？\nありがとうございます",
+		"face": "normal",
+		"voice_cue_name": "yunyun_0004"
+	},
+	{
+		"ID": 440,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 5026,
+		"affinity_SeaPresentAffinity": 4,
+		"serif": "えっと…ありがとうございます",
+		"face": "sad",
+		"voice_cue_name": "yunyun_0028"
+	},
+	{
+		"ID": 441,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 5031,
+		"affinity_SeaPresentAffinity": 1,
+		"serif": "貴方が選んでくれた最適解…\nずっと大切にするわ、マスター",
+		"face": "happy",
+		"voice_cue_name": "solomon_t_0005"
+	},
+	{
+		"ID": 442,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 5031,
+		"affinity_SeaPresentAffinity": 2,
+		"serif": "ふふっ、素敵なプレゼントね？\nグラウも喜んでくれるかな",
+		"face": "happy",
+		"voice_cue_name": "solomon_t_0005"
+	},
+	{
+		"ID": 443,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 5031,
+		"affinity_SeaPresentAffinity": 3,
+		"serif": "ありがとう、マスター\n後で私もお返しするわ",
+		"face": "usual",
+		"voice_cue_name": "solomon_t_0030"
+	},
+	{
+		"ID": 444,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 5031,
+		"affinity_SeaPresentAffinity": 4,
+		"serif": "これは…いったい何に\n使えばいいのかしら",
+		"face": "sad",
+		"voice_cue_name": "solomon_t_0028"
+	},
+	{
+		"ID": 445,
+		"same_character_id_UnitUnit": 210023,
+		"character_id": 0,
+		"affinity_SeaPresentAffinity": 1,
+		"serif": "嬉しい…大切にする",
+		"face": "shy",
+		"voice_cue_name": "revatein_ge_0005"
+	},
+	{
+		"ID": 446,
+		"same_character_id_UnitUnit": 210023,
+		"character_id": 0,
+		"affinity_SeaPresentAffinity": 2,
+		"serif": "いいの…？\nありがと、マスター",
+		"face": "smile",
+		"voice_cue_name": "revatein_ge_0030"
+	},
+	{
+		"ID": 447,
+		"same_character_id_UnitUnit": 210023,
+		"character_id": 0,
+		"affinity_SeaPresentAffinity": 3,
+		"serif": "もらえるものは\nもらっておこうかな",
+		"face": "normal",
+		"voice_cue_name": "revatein_ge_0004"
+	},
+	{
+		"ID": 448,
+		"same_character_id_UnitUnit": 210023,
+		"character_id": 0,
+		"affinity_SeaPresentAffinity": 4,
+		"serif": "お返しは\n期待しないでね",
+		"face": "usual",
+		"voice_cue_name": "revatein_ge_0003"
+	},
+	{
+		"ID": 449,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 3031,
+		"affinity_SeaPresentAffinity": 1,
+		"serif": "この感情はなに？驚き、嬉しさ、\nそれだけじゃない…不思議な感覚ね",
+		"face": "smile",
+		"voice_cue_name": "cassius_ge_0002"
+	},
+	{
+		"ID": 450,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 3031,
+		"affinity_SeaPresentAffinity": 2,
+		"serif": "これはわたしに必要なもの？\n…そう。ありがとう、御館様…",
+		"face": "normal",
+		"voice_cue_name": "cassius_ge_0022"
+	},
+	{
+		"ID": 451,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 3031,
+		"affinity_SeaPresentAffinity": 3,
+		"serif": "このプレゼント…わたしなりに\n意味を見出してみようと思う",
+		"face": "normal",
+		"voice_cue_name": "cassius_ge_0003"
+	},
+	{
+		"ID": 452,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 3031,
+		"affinity_SeaPresentAffinity": 4,
+		"serif": "価値はわからないけれど、\n御館様が与えてくれるなら…",
+		"face": "normal",
+		"voice_cue_name": "cassius_ge_0028"
+	},
+	{
+		"ID": 453,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 1042,
+		"affinity_SeaPresentAffinity": 1,
+		"serif": "マスターがくれた宝物…\nずっとずっと、大切にするからねっ！",
+		"face": "smile",
+		"voice_cue_name": "morabeaga_l_0004"
+	},
+	{
+		"ID": 454,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 1042,
+		"affinity_SeaPresentAffinity": 2,
+		"serif": "私たちの好きなもの、\n知ってくれてたんだっ…嬉しいなぁ！",
+		"face": "smile",
+		"voice_cue_name": "morabeaga_l_0042"
+	},
+	{
+		"ID": 455,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 1042,
+		"affinity_SeaPresentAffinity": 3,
+		"serif": "えへへっ、ありがとう！\nプレゼント、大事にするねっ",
+		"face": "normal",
+		"voice_cue_name": "morabeaga_l_0030"
+	},
+	{
+		"ID": 456,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 1042,
+		"affinity_SeaPresentAffinity": 4,
+		"serif": "ぷ、プレゼント…本当にいいの？\nお返しとか、した方がいいのかな…",
+		"face": "sad",
+		"voice_cue_name": "morabeaga_l_0022"
+	},
+	{
+		"ID": 457,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 6025,
+		"affinity_SeaPresentAffinity": 1,
+		"serif": "えへへ…♪しっかり受け取ったよ、\nマスターさんのミラクル！",
+		"face": "smile",
+		"voice_cue_name": "chalice_t_0005"
+	},
+	{
+		"ID": 458,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 6025,
+		"affinity_SeaPresentAffinity": 2,
+		"serif": "こんなに良いものくれるのっ！？\nマスターさん、マジ天使…！",
+		"face": "smile",
+		"voice_cue_name": "chalice_t_0006"
+	},
+	{
+		"ID": 459,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 6025,
+		"affinity_SeaPresentAffinity": 3,
+		"serif": "カリスちゃんにプレゼント？\n嬉しいな～、ふふふっ♪",
+		"face": "normal",
+		"voice_cue_name": "chalice_t_0003"
+	},
+	{
+		"ID": 460,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 6025,
+		"affinity_SeaPresentAffinity": 4,
+		"serif": "わ、ありがと！\nすぐ開けちゃってもいいのかな？",
+		"face": "usual",
+		"voice_cue_name": "chalice_t_0030"
+	},
+	{
+		"ID": 461,
+		"same_character_id_UnitUnit": 210144,
+		"character_id": 0,
+		"affinity_SeaPresentAffinity": 1,
+		"serif": "ふふっ…とってもしあわせです♪\nだいすきですよ、お兄さんっ！",
+		"face": "normal",
+		"voice_cue_name": "tyrufing_lo_0042"
+	},
+	{
+		"ID": 462,
+		"same_character_id_UnitUnit": 210144,
+		"character_id": 0,
+		"affinity_SeaPresentAffinity": 2,
+		"serif": "わぁぁ、すてきなプレゼント！\nすごくすごーくうれしいですっ♪",
+		"face": "normal",
+		"voice_cue_name": "tyrufing_lo_0020"
+	},
+	{
+		"ID": 463,
+		"same_character_id_UnitUnit": 210144,
+		"character_id": 0,
+		"affinity_SeaPresentAffinity": 3,
+		"serif": "ほんとうにいいんですか？\nえへへ…たいせつにしますねっ",
+		"face": "usual",
+		"voice_cue_name": "tyrufing_lo_0005"
+	},
+	{
+		"ID": 464,
+		"same_character_id_UnitUnit": 210144,
+		"character_id": 0,
+		"affinity_SeaPresentAffinity": 4,
+		"serif": "これを私に？\nあ、ありがとうございますっ！",
+		"face": "usual",
+		"voice_cue_name": "tyrufing_lo_0030"
+	},
+	{
+		"ID": 465,
+		"same_character_id_UnitUnit": 250312,
+		"character_id": 0,
+		"affinity_SeaPresentAffinity": 1,
+		"serif": "こ、こんなさいてきかいを\nおもいつくなんて…さすがだわ！",
+		"face": "happy",
+		"voice_cue_name": "solomon_lo_0021"
+	},
+	{
+		"ID": 466,
+		"same_character_id_UnitUnit": 250312,
+		"character_id": 0,
+		"affinity_SeaPresentAffinity": 2,
+		"serif": "いいの、こんなにすてきなもの…？\nありがとうっ！　ふふふっ…♪",
+		"face": "happy",
+		"voice_cue_name": "solomon_lo_0020"
+	},
+	{
+		"ID": 467,
+		"same_character_id_UnitUnit": 250312,
+		"character_id": 0,
+		"affinity_SeaPresentAffinity": 3,
+		"serif": "これ、くれるの？\nうん！　もらっておくわね！",
+		"face": "usual",
+		"voice_cue_name": "solomon_lo_0030"
+	},
+	{
+		"ID": 468,
+		"same_character_id_UnitUnit": 250312,
+		"character_id": 0,
+		"affinity_SeaPresentAffinity": 4,
+		"serif": "ぷ、ぷれぜんとをもらうなんて、\n私のけいかくにはなかった…！",
+		"face": "surprise",
+		"voice_cue_name": "solomon_lo_0022"
+	},
+	{
+		"ID": 469,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 2031,
+		"affinity_SeaPresentAffinity": 1,
+		"serif": "一番良いリボンを結んで、\n大事に保管しておかないと…♪",
+		"face": "happy",
+		"voice_cue_name": "nyoikinkobou_c_0021"
+	},
+	{
+		"ID": 470,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 2031,
+		"affinity_SeaPresentAffinity": 2,
+		"serif": "今度はワタシがお返しするね！\nあげたいもの、たくさんあるから…",
+		"face": "happy",
+		"voice_cue_name": "nyoikinkobou_c_0005"
+	},
+	{
+		"ID": 471,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 2031,
+		"affinity_SeaPresentAffinity": 3,
+		"serif": "すごく素敵なプレゼントだね！\nほら、ビコウも喜んでるよ",
+		"face": "usual",
+		"voice_cue_name": "nyoikinkobou_c_0020"
+	},
+	{
+		"ID": 472,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 2031,
+		"affinity_SeaPresentAffinity": 4,
+		"serif": "わぁ…これかわいいね！\nありがとう、お師様！",
+		"face": "normal",
+		"voice_cue_name": "nyoikinkobou_c_0030"
+	},
+	{
+		"ID": 473,
+		"same_character_id_UnitUnit": 230182,
+		"character_id": 0,
+		"affinity_SeaPresentAffinity": 1,
+		"serif": "…マスターの気持ちを感じます\n肌身離さず、大切にしますね",
+		"face": "normal",
+		"voice_cue_name": "forcas_c_0021"
+	},
+	{
+		"ID": 474,
+		"same_character_id_UnitUnit": 230182,
+		"character_id": 0,
+		"affinity_SeaPresentAffinity": 2,
+		"serif": "ふふっ…いいですね\nこの気持ち…悪くありません",
+		"face": "normal",
+		"voice_cue_name": "forcas_c_0005"
+	},
+	{
+		"ID": 475,
+		"same_character_id_UnitUnit": 230182,
+		"character_id": 0,
+		"affinity_SeaPresentAffinity": 3,
+		"serif": "私に褒美など不要なのですが…\nでも…考えて下さったんですね",
+		"face": "normal",
+		"voice_cue_name": "forcas_c_0004"
+	},
+	{
+		"ID": 476,
+		"same_character_id_UnitUnit": 230182,
+		"character_id": 0,
+		"affinity_SeaPresentAffinity": 4,
+		"serif": "お気持ちは頂きますが…\n物で私を釣ろうと？",
+		"face": "usual",
+		"voice_cue_name": "forcas_c_0030"
+	},
+	{
+		"ID": 477,
+		"same_character_id_UnitUnit": 210024,
+		"character_id": 0,
+		"affinity_SeaPresentAffinity": 1,
+		"serif": "ふふっ…ありがと、たいせつにする\n…え？私がすなおだと、おかしい？",
+		"face": "smile",
+		"voice_cue_name": "revatein_lo_0005"
+	},
+	{
+		"ID": 478,
+		"same_character_id_UnitUnit": 210024,
+		"character_id": 0,
+		"affinity_SeaPresentAffinity": 2,
+		"serif": "マスターってものずきだよね\nこんな私にプレゼントなんて…",
+		"face": "normal",
+		"voice_cue_name": "revatein_lo_0007"
+	},
+	{
+		"ID": 479,
+		"same_character_id_UnitUnit": 210024,
+		"character_id": 0,
+		"affinity_SeaPresentAffinity": 3,
+		"serif": "ふぅん…私にくれるんだ？\nありがと、もらっておく",
+		"face": "normal",
+		"voice_cue_name": "revatein_lo_0030"
+	},
+	{
+		"ID": 480,
+		"same_character_id_UnitUnit": 210024,
+		"character_id": 0,
+		"affinity_SeaPresentAffinity": 4,
+		"serif": "これくらいのプレゼント、\nそんなにうれしくないし…",
+		"face": "surprise",
+		"voice_cue_name": "revatein_lo_0027"
+	},
+	{
+		"ID": 481,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 4020,
+		"affinity_SeaPresentAffinity": 1,
+		"serif": "う～～～っ！？師匠…！\n変な気分にさせるなって！",
+		"face": "surprise",
+		"voice_cue_name": "hyoha_c_0028"
+	},
+	{
+		"ID": 482,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 4020,
+		"affinity_SeaPresentAffinity": 2,
+		"serif": "これ…なんか間違って…\nいや…え…そういうこと！？",
+		"face": "surprise",
+		"voice_cue_name": "hyoha_c_0022"
+	},
+	{
+		"ID": 483,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 4020,
+		"affinity_SeaPresentAffinity": 3,
+		"serif": "修行に使えそうな物だな！\n分かってるじゃん、師匠！",
+		"face": "smile",
+		"voice_cue_name": "hyoha_c_0030"
+	},
+	{
+		"ID": 484,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 4020,
+		"affinity_SeaPresentAffinity": 4,
+		"serif": "これを使ってみるのも\n修行の一環ってことなのか？",
+		"face": "usual",
+		"voice_cue_name": "hyoha_c_0039"
+	},
+	{
+		"ID": 485,
+		"same_character_id_UnitUnit": 230312,
+		"character_id": 0,
+		"affinity_SeaPresentAffinity": 1,
+		"serif": "おやかたしゃまがえらんでくれた…\nわたしのために…ふふふ…♪",
+		"face": "happy",
+		"voice_cue_name": "cassius_lo_0006"
+	},
+	{
+		"ID": 486,
+		"same_character_id_UnitUnit": 230312,
+		"character_id": 0,
+		"affinity_SeaPresentAffinity": 2,
+		"serif": "このぷれぜんと、わたしににあう？\nそう…ありがとうっ…♪",
+		"face": "happy",
+		"voice_cue_name": "cassius_lo_0030"
+	},
+	{
+		"ID": 487,
+		"same_character_id_UnitUnit": 230312,
+		"character_id": 0,
+		"affinity_SeaPresentAffinity": 3,
+		"serif": "ふしぎ…ぷれぜんとをもらうと、\nこころのおくがぽかぽかするの…",
+		"face": "normal",
+		"voice_cue_name": "cassius_lo_0005"
+	},
+	{
+		"ID": 488,
+		"same_character_id_UnitUnit": 230312,
+		"character_id": 0,
+		"affinity_SeaPresentAffinity": 4,
+		"serif": "おやかたしゃま、これはなぁに？\nわたしにぷれぜんと？そう…",
+		"face": "normal",
+		"voice_cue_name": "cassius_lo_0002"
+	},
+	{
+		"ID": 489,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 1046,
+		"affinity_SeaPresentAffinity": 1,
+		"serif": "わ～！これ欲しかったんだぁ！\nありがとね、だんちょー！",
+		"face": "happy",
+		"voice_cue_name": "murgleys_c_0021"
+	},
+	{
+		"ID": 490,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 1046,
+		"affinity_SeaPresentAffinity": 2,
+		"serif": "今日のだんちょー、ふとっぱら♪\nボーナスでももらったの？",
+		"face": "happy",
+		"voice_cue_name": "murgleys_c_0004"
+	},
+	{
+		"ID": 491,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 1046,
+		"affinity_SeaPresentAffinity": 3,
+		"serif": "ふ～ん、悪くないわね\nカステラほどじゃないけど",
+		"face": "normal",
+		"voice_cue_name": "murgleys_c_0039"
+	},
+	{
+		"ID": 492,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 1046,
+		"affinity_SeaPresentAffinity": 4,
+		"serif": "…なにこれ？\nくれるっていうなら、貰っとくけど",
+		"face": "angry",
+		"voice_cue_name": "murgleys_c_0022"
+	},
+	{
+		"ID": 493,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 2030,
+		"affinity_SeaPresentAffinity": 1,
+		"serif": "なんで私の欲しいものを知って…？\nまさか、当主様も時間操作を！？",
+		"face": "shy",
+		"voice_cue_name": "risanautr_l_0023"
+	},
+	{
+		"ID": 494,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 2030,
+		"affinity_SeaPresentAffinity": 2,
+		"serif": "当主様のプレゼントだもの\nもらえると知ってても嬉しいわ！",
+		"face": "normal",
+		"voice_cue_name": "risanautr_l_0005"
+	},
+	{
+		"ID": 495,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 2030,
+		"affinity_SeaPresentAffinity": 3,
+		"serif": "箱の中身、当ててみようか？\nうふふ、冗談よ。ありがとう！",
+		"face": "normal",
+		"voice_cue_name": "risanautr_l_0030"
+	},
+	{
+		"ID": 496,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 2030,
+		"affinity_SeaPresentAffinity": 4,
+		"serif": "うふふ…何度繰り返しても、\nこの瞬間は気恥ずかしいものね",
+		"face": "normal",
+		"voice_cue_name": "risanautr_l_0004"
+	},
+	{
+		"ID": 497,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 6032,
+		"affinity_SeaPresentAffinity": 1,
+		"serif": "え！？ヤバ…いいの？\nじゃあ、もらうね、ありがと",
+		"face": "shy",
+		"voice_cue_name": "orpheus_c_0021"
+	},
+	{
+		"ID": 498,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 6032,
+		"affinity_SeaPresentAffinity": 2,
+		"serif": "あっ♪これ欲しかったヤツ！\nリーダーさっすが♪やるじゃん",
+		"face": "normal",
+		"voice_cue_name": "orpheus_c_0020"
+	},
+	{
+		"ID": 499,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 6032,
+		"affinity_SeaPresentAffinity": 3,
+		"serif": "あたしにくれんの？\nあんがと！大事にすんね！",
+		"face": "normal",
+		"voice_cue_name": "orpheus_c_0030"
+	},
+	{
+		"ID": 500,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 6032,
+		"affinity_SeaPresentAffinity": 4,
+		"serif": "あんがと、リーダー！\n高くなかった？大丈夫？",
+		"face": "normal",
+		"voice_cue_name": "orpheus_c_0004"
+	},
+	{
+		"ID": 501,
+		"same_character_id_UnitUnit": 230013,
+		"character_id": 0,
+		"affinity_SeaPresentAffinity": 1,
+		"serif": "わ、わたし…こんなにしあわせで\nほんとうにいいんでしょうか…！？",
+		"face": "sad",
+		"voice_cue_name": "ronginusu_lo_0042"
+	},
+	{
+		"ID": 502,
+		"same_character_id_UnitUnit": 230013,
+		"character_id": 0,
+		"affinity_SeaPresentAffinity": 2,
+		"serif": "わあっ、ありがとうございます！\nずっとずっとだいじにしますね♪",
+		"face": "happy",
+		"voice_cue_name": "ronginusu_lo_0020"
+	},
+	{
+		"ID": 503,
+		"same_character_id_UnitUnit": 230013,
+		"character_id": 0,
+		"affinity_SeaPresentAffinity": 3,
+		"serif": "う、うれしいです！\nおにいさんのプレゼント…えへへ♪",
+		"face": "happy",
+		"voice_cue_name": "ronginusu_lo_0005"
+	},
+	{
+		"ID": 504,
+		"same_character_id_UnitUnit": 230013,
+		"character_id": 0,
+		"affinity_SeaPresentAffinity": 4,
+		"serif": "ふえっ、わたしに…！？\nだ、だれかとまちがえてませんか？",
+		"face": "sad",
+		"voice_cue_name": "ronginusu_lo_0022"
+	},
+	{
+		"ID": 505,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 4011,
+		"affinity_SeaPresentAffinity": 1,
+		"serif": "本当にありがとう！\n必ずお返しするね！",
+		"face": "happy",
+		"voice_cue_name": "madoka_0004"
+	},
+	{
+		"ID": 506,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 4011,
+		"affinity_SeaPresentAffinity": 2,
+		"serif": "こんな豪華なものもらっていいの？\nありがとう！大事にするね！",
+		"face": "normal",
+		"voice_cue_name": "madoka_0006"
+	},
+	{
+		"ID": 507,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 4011,
+		"affinity_SeaPresentAffinity": 3,
+		"serif": "わあ！素敵なプレゼントありがとう！",
+		"face": "happy",
+		"voice_cue_name": "madoka_0030"
+	},
+	{
+		"ID": 508,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 4011,
+		"affinity_SeaPresentAffinity": 4,
+		"serif": "わたしへのプレゼント？",
+		"face": "normal",
+		"voice_cue_name": "madoka_0022"
+	},
+	{
+		"ID": 509,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 5014,
+		"affinity_SeaPresentAffinity": 1,
+		"serif": "私の好みはぜんぶお見通し…\nなのかしら？ふふっ♪",
+		"face": "happy",
+		"voice_cue_name": "mami_0005"
+	},
+	{
+		"ID": 510,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 5014,
+		"affinity_SeaPresentAffinity": 2,
+		"serif": "こんな素敵なプレゼント、\n本当にもらっていいのかしら…？",
+		"face": "normal",
+		"voice_cue_name": "mami_0004"
+	},
+	{
+		"ID": 511,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 5014,
+		"affinity_SeaPresentAffinity": 3,
+		"serif": "あなたって優しいのね\nそういう心遣い、素敵だと思うわ",
+		"face": "happy",
+		"voice_cue_name": "mami_0002"
+	},
+	{
+		"ID": 512,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 5014,
+		"affinity_SeaPresentAffinity": 4,
+		"serif": "あら…これを私に？\nありがとう、いただいておくわね",
+		"face": "normal",
+		"voice_cue_name": "mami_0030"
+	},
+	{
+		"ID": 513,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 5037,
+		"affinity_SeaPresentAffinity": 1,
+		"serif": "えへえへ…お兄さまがわたしに\nプレゼントをくれましたっ♪",
+		"face": "normal",
+		"voice_cue_name": "logistille_c_0042"
+	},
+	{
+		"ID": 514,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 5037,
+		"affinity_SeaPresentAffinity": 2,
+		"serif": "い、いけません、マスターさんっ…\nそんなに優しくされたら、わたし…！",
+		"face": "surprise",
+		"voice_cue_name": "logistille_c_0023"
+	},
+	{
+		"ID": 515,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 5037,
+		"affinity_SeaPresentAffinity": 3,
+		"serif": "ふわぁあっ、素敵っ…！\n本当にもらっていいんですかっ？",
+		"face": "normal",
+		"voice_cue_name": "logistille_c_0020"
+	},
+	{
+		"ID": 516,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 5037,
+		"affinity_SeaPresentAffinity": 4,
+		"serif": "マスターさんからプレゼント！？\nひえぇっ、恐れ多いですぅっ…！",
+		"face": "sad",
+		"voice_cue_name": "logistille_c_0024"
+	},
+	{
+		"ID": 517,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 1020,
+		"affinity_SeaPresentAffinity": 1,
+		"serif": "わっ、すごい豪華じゃん！\n嬉しい！ぜったい大事にするから！",
+		"face": "normal",
+		"voice_cue_name": "sayaka_0041"
+	},
+	{
+		"ID": 518,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 1020,
+		"affinity_SeaPresentAffinity": 2,
+		"serif": "あはは、照れちゃうな～\nもらっちゃっていいの？",
+		"face": "shy",
+		"voice_cue_name": "sayaka_0005"
+	},
+	{
+		"ID": 519,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 1020,
+		"affinity_SeaPresentAffinity": 3,
+		"serif": "おっ、ラッキー♪\nありがたくもらっちゃうね！",
+		"face": "usual",
+		"voice_cue_name": "sayaka_0021"
+	},
+	{
+		"ID": 520,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 1020,
+		"affinity_SeaPresentAffinity": 4,
+		"serif": "なになに～？それ私にくれるの？",
+		"face": "usual",
+		"voice_cue_name": "sayaka_0004"
+	},
+	{
+		"ID": 521,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 3015,
+		"affinity_SeaPresentAffinity": 1,
+		"serif": "こんなすげえの、ホントにいいのか？\nあ、ありがとな…恩に着るよ",
+		"face": "normal",
+		"voice_cue_name": "kyoko_0042"
+	},
+	{
+		"ID": 522,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 3015,
+		"affinity_SeaPresentAffinity": 2,
+		"serif": "おおっ、気が利くじゃん！\nなかなかやるねえ♪",
+		"face": "happy",
+		"voice_cue_name": "kyoko_0020"
+	},
+	{
+		"ID": 523,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 3015,
+		"affinity_SeaPresentAffinity": 3,
+		"serif": "なんだそれ、アタシにくれんの？\nサンキュな",
+		"face": "usual",
+		"voice_cue_name": "kyoko_0030"
+	},
+	{
+		"ID": 524,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 3015,
+		"affinity_SeaPresentAffinity": 4,
+		"serif": "こんなので懐柔しようったって、\nそう簡単にはいかねーぞ？",
+		"face": "usual",
+		"voice_cue_name": "kyoko_0004"
+	},
+	{
+		"ID": 525,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 5013,
+		"affinity_SeaPresentAffinity": 1,
+		"serif": "いつか必ずお返しするから\n待っていて",
+		"face": "shy",
+		"voice_cue_name": "homura_0030"
+	},
+	{
+		"ID": 526,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 5013,
+		"affinity_SeaPresentAffinity": 2,
+		"serif": "貴方って、\n思った通りお人好しなのね",
+		"face": "normal",
+		"voice_cue_name": "homura_0042"
+	},
+	{
+		"ID": 527,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 5013,
+		"affinity_SeaPresentAffinity": 3,
+		"serif": "プレゼント、ありがとう\n大切にするわ",
+		"face": "normal",
+		"voice_cue_name": "homura_0004"
+	},
+	{
+		"ID": 528,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 5013,
+		"affinity_SeaPresentAffinity": 4,
+		"serif": "どうしてわたしにこれを？\n貴方なりの好意、なのかしら",
+		"face": "angry",
+		"voice_cue_name": "homura_0028"
+	},
+	{
+		"ID": 529,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 4022,
+		"affinity_SeaPresentAffinity": 1,
+		"serif": "…ボクにこれを？\nふふっ…素敵だね",
+		"face": "normal",
+		"voice_cue_name": "ichiibal_c_0004"
+	},
+	{
+		"ID": 530,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 4022,
+		"affinity_SeaPresentAffinity": 2,
+		"serif": "こんなプレゼント貰えるなんて…\n思わず、舞い上がってしまうよ",
+		"face": "normal",
+		"voice_cue_name": "ichiibal_c_0030"
+	},
+	{
+		"ID": 531,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 4022,
+		"affinity_SeaPresentAffinity": 3,
+		"serif": "ボクが可愛いからプレゼント？\nふふっ、当然だよね、ドヤッ☆",
+		"face": "normal",
+		"voice_cue_name": "ichiibal_c_0006"
+	},
+	{
+		"ID": 532,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 4022,
+		"affinity_SeaPresentAffinity": 4,
+		"serif": "なるほど、お兄さんの\n趣味は変わっているみたいだね",
+		"face": "surprise",
+		"voice_cue_name": "ichiibal_c_0040"
+	},
+	{
+		"ID": 533,
+		"same_character_id_UnitUnit": 250322,
+		"character_id": 0,
+		"affinity_SeaPresentAffinity": 1,
+		"serif": "主様のプレゼントはすべて、\nかけがえのないものばかりです…",
+		"face": "surprise",
+		"voice_cue_name": "tiphereth_ca_0006"
+	},
+	{
+		"ID": 534,
+		"same_character_id_UnitUnit": 250322,
+		"character_id": 0,
+		"affinity_SeaPresentAffinity": 2,
+		"serif": "私の喜ぶ顔が見たい、と…？\nもうっ…照れてしまいます…",
+		"face": "surprise",
+		"voice_cue_name": "tiphereth_ca_0023"
+	},
+	{
+		"ID": 535,
+		"same_character_id_UnitUnit": 250322,
+		"character_id": 0,
+		"affinity_SeaPresentAffinity": 3,
+		"serif": "ありがとうございます！\n大切にさせていただきますね",
+		"face": "normal",
+		"voice_cue_name": "tiphereth_ca_0030"
+	},
+	{
+		"ID": 536,
+		"same_character_id_UnitUnit": 250322,
+		"character_id": 0,
+		"affinity_SeaPresentAffinity": 4,
+		"serif": "私にはもったいないです…！\nでも、主様がくださるなら…",
+		"face": "surprise",
+		"voice_cue_name": "tiphereth_ca_0042"
+	},
+	{
+		"ID": 537,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 20001,
+		"affinity_SeaPresentAffinity": 1,
+		"serif": "あ～、もうっ！こんなの想定外！\nどんな顔で受け取ればいいの～！？",
+		"face": "sad",
+		"voice_cue_name": "aegis_c_0042"
+	},
+	{
+		"ID": 538,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 20001,
+		"affinity_SeaPresentAffinity": 2,
+		"serif": "えへへ…隊長からプレゼント…\nこ、コホンッ！感謝する…！",
+		"face": "shy",
+		"voice_cue_name": "aegis_c_0005"
+	},
+	{
+		"ID": 539,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 20001,
+		"affinity_SeaPresentAffinity": 3,
+		"serif": "隊員に褒美とは…さすが隊長だ！\nこれからもずっとついていくぞ！",
+		"face": "angry",
+		"voice_cue_name": "aegis_c_0004"
+	},
+	{
+		"ID": 540,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 20001,
+		"affinity_SeaPresentAffinity": 4,
+		"serif": "ほう、プレゼントか\nありがたくいただこう",
+		"face": "usual",
+		"voice_cue_name": "aegis_c_0039"
+	},
+	{
+		"ID": 541,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 2022,
+		"affinity_SeaPresentAffinity": 1,
+		"serif": "こ、こんなに優しくされたら、\n勘違いしてしまうじゃないか…",
+		"face": "surprise",
+		"voice_cue_name": "banko_0042"
+	},
+	{
+		"ID": 542,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 2022,
+		"affinity_SeaPresentAffinity": 2,
+		"serif": "ありがとう…\nマスターは、優しいな…ふふ",
+		"face": "shy",
+		"voice_cue_name": "banko_0005"
+	},
+	{
+		"ID": 543,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 2022,
+		"affinity_SeaPresentAffinity": 3,
+		"serif": "えぇと…お、お返しは\n何をあげたらいいのだ…？",
+		"face": "surprise",
+		"voice_cue_name": "banko_0028"
+	},
+	{
+		"ID": 544,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 2022,
+		"affinity_SeaPresentAffinity": 4,
+		"serif": "わ、我に、これを？\n何かの間違いではないか…？",
+		"face": "angry",
+		"voice_cue_name": "banko_0022"
+	},
+	{
+		"ID": 545,
+		"same_character_id_UnitUnit": 240192,
+		"character_id": 0,
+		"affinity_SeaPresentAffinity": 1,
+		"serif": "ふふっ…お前様は本当に、\n私のことが大好きみたいね？",
+		"face": "shy",
+		"voice_cue_name": "failnaught_ca_0005"
+	},
+	{
+		"ID": 546,
+		"same_character_id_UnitUnit": 240192,
+		"character_id": 0,
+		"affinity_SeaPresentAffinity": 2,
+		"serif": "これを私に？\nそ、そうっ…大切にするわね",
+		"face": "shy",
+		"voice_cue_name": "failnaught_ca_0040"
+	},
+	{
+		"ID": 547,
+		"same_character_id_UnitUnit": 240192,
+		"character_id": 0,
+		"affinity_SeaPresentAffinity": 3,
+		"serif": "なかなかいいセンスね\nお前様にしては上出来よ…ふふっ",
+		"face": "normal",
+		"voice_cue_name": "failnaught_ca_0004"
+	},
+	{
+		"ID": 548,
+		"same_character_id_UnitUnit": 240192,
+		"character_id": 0,
+		"affinity_SeaPresentAffinity": 4,
+		"serif": "あら、貢物かしら？\nいただいておくわね",
+		"face": "usual",
+		"voice_cue_name": "failnaught_ca_0022"
+	},
+	{
+		"ID": 549,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 3034,
+		"affinity_SeaPresentAffinity": 1,
+		"serif": "君の気持ち、伝わってきたよ\n胸がいっぱいになっちゃった…ふふ",
+		"face": "usual",
+		"voice_cue_name": "grandepieu_di_0005"
+	},
+	{
+		"ID": 550,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 3034,
+		"affinity_SeaPresentAffinity": 2,
+		"serif": "お姉さんをこんなに喜ばせて\nどうするつもり？もうっ…♪",
+		"face": "usual",
+		"voice_cue_name": "grandepieu_di_0002"
+	},
+	{
+		"ID": 551,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 3034,
+		"affinity_SeaPresentAffinity": 3,
+		"serif": "君は優しい子だね\nお姉さん、とっても嬉しいよ",
+		"face": "normal",
+		"voice_cue_name": "grandepieu_di_0004"
+	},
+	{
+		"ID": 552,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 3034,
+		"affinity_SeaPresentAffinity": 4,
+		"serif": "私にくれるの？\nふふ、ありがとう",
+		"face": "normal",
+		"voice_cue_name": "grandepieu_di_0030"
+	},
+	{
+		"ID": 553,
+		"same_character_id_UnitUnit": 230313,
+		"character_id": 0,
+		"affinity_SeaPresentAffinity": 1,
+		"serif": "御館様はいつもこうして、\nわたしの心を満たしてくれる…♪",
+		"face": "smile",
+		"voice_cue_name": "cassius_ca_0042"
+	},
+	{
+		"ID": 554,
+		"same_character_id_UnitUnit": 230313,
+		"character_id": 0,
+		"affinity_SeaPresentAffinity": 2,
+		"serif": "御館様がくれるからかしら\n心の底から、大切だって思えるの…",
+		"face": "smile",
+		"voice_cue_name": "cassius_ca_0005"
+	},
+	{
+		"ID": 555,
+		"same_character_id_UnitUnit": 230313,
+		"character_id": 0,
+		"affinity_SeaPresentAffinity": 3,
+		"serif": "ふふっ、とっても素敵ね\n胸の中があたたかくなる…",
+		"face": "smile",
+		"voice_cue_name": "cassius_ca_0020"
+	},
+	{
+		"ID": 556,
+		"same_character_id_UnitUnit": 230313,
+		"character_id": 0,
+		"affinity_SeaPresentAffinity": 4,
+		"serif": "ありがとう、御館様\nあなたの想い受け取ったわ",
+		"face": "normal",
+		"voice_cue_name": "cassius_ca_0030"
+	}
+]

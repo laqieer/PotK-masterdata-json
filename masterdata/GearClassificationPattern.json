@@ -1,0 +1,218 @@
+[
+	{
+		"ID": 1,
+		"kind_GearKind": 1,
+		"name": "通常剣",
+		"attack_classification_GearAttackClassification": 2
+	},
+	{
+		"ID": 2,
+		"kind_GearKind": 1,
+		"name": "刀",
+		"attack_classification_GearAttackClassification": 2
+	},
+	{
+		"ID": 3,
+		"kind_GearKind": 1,
+		"name": "投剣",
+		"attack_classification_GearAttackClassification": 4
+	},
+	{
+		"ID": 4,
+		"kind_GearKind": 1,
+		"name": "双剣",
+		"attack_classification_GearAttackClassification": 2
+	},
+	{
+		"ID": 5,
+		"kind_GearKind": 1,
+		"name": "大剣",
+		"attack_classification_GearAttackClassification": 2
+	},
+	{
+		"ID": 6,
+		"kind_GearKind": 1,
+		"name": "その他剣",
+		"attack_classification_GearAttackClassification": 1
+	},
+	{
+		"ID": 7,
+		"kind_GearKind": 2,
+		"name": "通常斧",
+		"attack_classification_GearAttackClassification": 2
+	},
+	{
+		"ID": 8,
+		"kind_GearKind": 2,
+		"name": "槌",
+		"attack_classification_GearAttackClassification": 3
+	},
+	{
+		"ID": 9,
+		"kind_GearKind": 2,
+		"name": "グローブ",
+		"attack_classification_GearAttackClassification": 3
+	},
+	{
+		"ID": 10,
+		"kind_GearKind": 2,
+		"name": "鎌",
+		"attack_classification_GearAttackClassification": 2
+	},
+	{
+		"ID": 11,
+		"kind_GearKind": 2,
+		"name": "その他斧",
+		"attack_classification_GearAttackClassification": 1
+	},
+	{
+		"ID": 12,
+		"kind_GearKind": 3,
+		"name": "通常槍",
+		"attack_classification_GearAttackClassification": 4
+	},
+	{
+		"ID": 13,
+		"kind_GearKind": 3,
+		"name": "重槍",
+		"attack_classification_GearAttackClassification": 4
+	},
+	{
+		"ID": 14,
+		"kind_GearKind": 3,
+		"name": "薙刀",
+		"attack_classification_GearAttackClassification": 2
+	},
+	{
+		"ID": 15,
+		"kind_GearKind": 3,
+		"name": "その他槍",
+		"attack_classification_GearAttackClassification": 1
+	},
+	{
+		"ID": 16,
+		"kind_GearKind": 4,
+		"name": "通常弓",
+		"attack_classification_GearAttackClassification": 5
+	},
+	{
+		"ID": 17,
+		"kind_GearKind": 4,
+		"name": "クロスボウ",
+		"attack_classification_GearAttackClassification": 5
+	},
+	{
+		"ID": 18,
+		"kind_GearKind": 4,
+		"name": "その他弓",
+		"attack_classification_GearAttackClassification": 1
+	},
+	{
+		"ID": 19,
+		"kind_GearKind": 5,
+		"name": "通常銃",
+		"attack_classification_GearAttackClassification": 6
+	},
+	{
+		"ID": 20,
+		"kind_GearKind": 5,
+		"name": "バズーカ",
+		"attack_classification_GearAttackClassification": 6
+	},
+	{
+		"ID": 21,
+		"kind_GearKind": 5,
+		"name": "射撃銃",
+		"attack_classification_GearAttackClassification": 5
+	},
+	{
+		"ID": 22,
+		"kind_GearKind": 5,
+		"name": "腕輪",
+		"attack_classification_GearAttackClassification": 6
+	},
+	{
+		"ID": 23,
+		"kind_GearKind": 5,
+		"name": "長銃",
+		"attack_classification_GearAttackClassification": 6
+	},
+	{
+		"ID": 24,
+		"kind_GearKind": 5,
+		"name": "二丁拳銃",
+		"attack_classification_GearAttackClassification": 6
+	},
+	{
+		"ID": 25,
+		"kind_GearKind": 5,
+		"name": "ガンランス",
+		"attack_classification_GearAttackClassification": 6
+	},
+	{
+		"ID": 26,
+		"kind_GearKind": 5,
+		"name": "その他銃",
+		"attack_classification_GearAttackClassification": 1
+	},
+	{
+		"ID": 27,
+		"kind_GearKind": 6,
+		"name": "通常杖",
+		"attack_classification_GearAttackClassification": 6
+	},
+	{
+		"ID": 28,
+		"kind_GearKind": 6,
+		"name": "その他杖",
+		"attack_classification_GearAttackClassification": 1
+	},
+	{
+		"ID": 29,
+		"kind_GearKind": 8,
+		"name": "魔法",
+		"attack_classification_GearAttackClassification": 6
+	},
+	{
+		"ID": 30,
+		"kind_GearKind": 8,
+		"name": "斬撃",
+		"attack_classification_GearAttackClassification": 2
+	},
+	{
+		"ID": 31,
+		"kind_GearKind": 8,
+		"name": "打撃",
+		"attack_classification_GearAttackClassification": 3
+	},
+	{
+		"ID": 32,
+		"kind_GearKind": 8,
+		"name": "刺突",
+		"attack_classification_GearAttackClassification": 4
+	},
+	{
+		"ID": 33,
+		"kind_GearKind": 8,
+		"name": "射撃",
+		"attack_classification_GearAttackClassification": 5
+	},
+	{
+		"ID": 34,
+		"kind_GearKind": 8,
+		"name": "その他",
+		"attack_classification_GearAttackClassification": 1
+	},
+	{
+		"ID": 35,
+		"kind_GearKind": 7,
+		"name": "盾",
+		"attack_classification_GearAttackClassification": 1
+	},
+	{
+		"ID": 36,
+		"kind_GearKind": 10,
+		"name": "装飾品",
+		"attack_classification_GearAttackClassification": 1
+	}
+]

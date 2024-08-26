@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 601414,
+		"script": "# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_ferris\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# voice 6014 \"ptah_0028\"\n@プタハ\nたしかに\nあれらは温かな人の営み\nされど、ここはそこから少し遠い…\n\n# textflame 0 0\n@\nプタハは切なげに\nガラス越しの夜景を指で撫でる\n\n# textflame 1 1\n@プタハ\n近いようで遠く、\n触れられそうでふれられぬ…\n\n# voice 6014 \"ptah_0022\"\n# face %(unit_a)s \"sad\"\n@プタハ\nこれはまるで…\nいや、よそう\n\n# textflame 0 0\n@\nそれでもやはり寂しそうなプタハに\nかける言葉が見つからないまま\n観覧車は回り続ける…\n;;--------------------------------------\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

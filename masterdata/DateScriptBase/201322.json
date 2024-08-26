@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 201322,
+		"script": "# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_drive\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# voice 2013 \"reshef_0026\"\n# face %(unit_a)s \"angry\"\n@レシェフ\n…そういうのいらない\n\n@レシェフ\n今日は主導権握ろうと思って\nドライブに連れてきたんでしょ？\n\n# voice 2013 \"reshef_0027\"\n@レシェフ\nもっとグイグイ…\n俺様すればいいじゃん！\n\n# textflame 0 0\n@\nいつものように\n激しくまくし立てるレシェフ\n\n@\n…でも助手席をちらりと見ると\n少し、緊張しているような…？\n\n# textflame 1 1\n@レシェフ\nあたしも…\nノコノコと\nついてきたわけだから…\n\n# voice 2013 \"reshef_0007\"\n@レシェフ\n今日は仕方ないから\n従ってあげるって…\n意思表示でしょ！わかれ！\n\n# textflame 0 0\n@\nそこまでいうと\nうつむき気味に…\nレシェフは急に静かになった\n\n# face %(unit_a)s \"normal\"\n# voice 2013 \"reshef_0042\"\n# textflame 1 1\n@レシェフ\nなるべくおとなしく…\nかわいくしてて、あげるって…\n決めてきたんだから…\n\n# textflame 0 0\n@\nマスターは誓う\n今日はなるべく男らしく\nかっこよくエスコートしようと――\n;;--------------------------------------\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

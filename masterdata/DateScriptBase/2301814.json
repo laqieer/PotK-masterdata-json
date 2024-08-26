@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 2301814,
+		"script": ";;B\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_castle\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# face %(unit_a)s \"sad\"\n# voice 530181 \"forcas_c_0003\"\n# textflame 1 1\n@フォルカス\nそ…そうですか…\n\n@フォルカス\n確かに…どんな想いも\n最後は単純な言葉に\n集約されるのかも…\n\n@フォルカス\nでしたら私のこの想いも\nそんなに複雑な物では\nないのかもしれませんね\n\n# voice 530181 \"forcas_c_0042\"\n@フォルカス\nあ…いえ…なんでも…\n\n# textflame 0 0\n@\nフォルカスはマスターを\nそわそわしながら見つめる\n\n# voice 530181 \"forcas_c_0002\"\n# textflame 1 1\n@フォルカス\nすみません、その…\nもう少し、おそばに\n行っても構いませんか？\n\n# textflame 0 0\n@\nもちろん、と答えるマスター\nその傍らにフォルカスが立つ\n\n# face %(unit_a)s \"normal\"\n# voice 530181 \"forcas_c_0004\"\n# textflame 1 1\n@フォルカス\n…この距離でも、充分に\nマスターを感じられます\n\n@フォルカス\nいつも背後から\n見ているばかりですが…\n\n@フォルカス\n本当はこうして…\n横に立っていたい…\n\n@フォルカス\n…すみません\n変なことを言ってしまって\n\n@フォルカス\n…今の言葉は忘れて下さい\n\n# textflame 0 0\n@\nそういいながらも\n少しだけ距離を縮める\nフォルカスであった\n\n;;-----------------------------------------\n# waitandnext 2\n# fadeout \"black\" 1.2\n"
+	}
+]

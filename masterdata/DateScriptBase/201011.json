@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 201011,
+		"script": ";;A そう訓練してるからね（小）\n;;B 同じ海の仲間だからね（大）\n;;C 羨ましい？（中）\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_aquarium_day\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 0 0\n# face %(unit_a)s \"usual\"\n@\n昼の日差しを避けて\nマスターはウコンバサラと一緒に\n水族館へとやって来た\n\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 2010 \"ukonbasara_0021\"\n@ウコンバサラ\nわぁ…！\n今の、見えたかな！？\n\n# voice 2010 \"ukonbasara_0004\"\n# face %(unit_a)s \"smile\"\n@ウコンバサラ\nすごいなぁ…\n\n@ウコンバサラ\n海の動物って\nあんなに息を\n合わせられるものなんだね\n\n# select \"そう訓練してるからね\" \"select_label_01\" \"同じ海の仲間だからね\" \"select_label_02\" \"羨ましい？\" \"select_label_03\"\n海の動物って\nあんなに息を\n合わせられるものなんだね\n\n# label \"select_label_01\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_02\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_03\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_end\"\n# waitandnext 0.1\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

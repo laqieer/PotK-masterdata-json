@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 91013298,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# voice 1013 \"paracelsus_0028\"\n# se \"SE_0733\"\n# face %(unit_a)s \"sad\"\n@パラケルスス\nふむ…\n\n# textflame 1 1\n@パラケルスス\nこんな結果になるとはね\n予想外だったよ\n\n# textflame 1 1\n@パラケルスス\nでも、まあ\nこれはこれで仕方ない\n\n# textflame 1 1\n@パラケルスス\n誰にだって失敗はある\n人は失敗から学び、\n成長していくものだからね\n\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n@パラケルスス\nさあ、マスター\nまだ研究は、\n始まったばかりだよ\n\n# textflame 1 1\n@パラケルスス\n次の機会までに、\nわたくしのことをもっと\n観察しておいてくれ\n\n# textflame 1 1\n@パラケルスス\n君のこれからの伸びしろに\n期待している\n\n# textflame 0 0\n@\n不正解ではあったが、\n彼女はまだ期待してくれている\n\n# textflame 0 0\n@\n今度こそは必ず正解をし、\n彼女の期待に応えなければ…\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

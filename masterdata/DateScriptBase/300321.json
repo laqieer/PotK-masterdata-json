@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 300321,
+		"script": ";;A 疲れ取れた？ (小当り)\n;;B 大胆だね… (大当たり)\n;;C 裸の付き合いだ (中当たり)\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_onsen\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 0 0\n@\nマスターは\n方天画戟を誘って\n水着着用型温泉にやってきた\n\n# face %(unit_a)s \"smile\"\n# voice 3003 \"hotengageki_0005\"\n# textflame 1 1\n@方天画戟\nはぁ～～…\nこの世の極楽ってやつだな…！！\n\n# voice 3003 \"hotengageki_0001\"\n@方天画戟\n配下を労うのも君主の役目…\nなかなか板についてきたな、主君！\n\n# select \"疲れ取れた？\" \"select_label_01\" \"大胆だね…\" \"select_label_02\" \"裸の付き合いだ\" \"select_label_03\"\n配下を労うのも君主の役目…\nなかなか板についてきたな、主君！\n\n# label \"select_label_01\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_02\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_03\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_end\"\n# waitandnext 0.1\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

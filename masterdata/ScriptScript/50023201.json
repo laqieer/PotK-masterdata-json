@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 50023201,
+		"script": "# script \"lisp\"\n# background \"highland_snow\"\n;;背景仮\n# bgm \"bgm032\" 0\n# body 500231\n# mask 500231 off\n# pos 500231 3\n# textboxarrow 0 2\n# voice 5002 \"furaikugeru_0022\"\n# chara 500231\n@フライクーゲル\nワ～ォ！\n町のどこもかしこもキラキラ\nゴ～～～～ジャスぅっ！\n\n# chara 500231\n# face 500231 \"shy\"\n@フライクーゲル\nあ～、もう！\nなんてドリ～ミィで素敵なのぉ\nクリスマスってば！！\n\n# voice 5002 \"furaikugeru_0039\"\n# chara 500231\n# face 500231 \"happy\"\n@フライクーゲル\nこんな素敵でスペシャルな時期に\n盛り上がらないなんてぇ～、\nもぉ～ナンセンスよね☆\n\n# chara 500231\n# face 500231 \"smile\"\n@フライクーゲル\nこれはマスターや\nみんなだけじゃなく…\n町の人達とも盛り上がるべきよね！\n\n# voice 5002 \"furaikugeru_0004\"\n# chara 500231\n# face 500231 \"happy\"\n@フライクーゲル\nやっぱりぃ～、\nこのコスチュームなら…\nサンタクロースになるっきゃない！\n\n# chara 500231\n@フライクーゲル\n町の人達みぃ～～～んなに、\nプレゼントを配らなくっちゃ！！\n# voice 5002 \"furaikugeru_0029\"\n\n# leftout 500231 0.3\n# textflame 0 0\n@\nフライクーゲルはそう叫ぶと、\n超高速スキップで町にプレゼントを\n探しに出かけて行った"
+	}
+]

@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 91002398,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# se \"SE_0733\"\n# face %(unit_a)s \"sad\"\n@レーヴァテイン\n…不正解\n\n# face %(unit_a)s \"usual\"\n# voice 1002 \"revatein_0036\"\n@レーヴァテイン\nじゃあ、おごってよね\nジュース…\n\n@レーヴァテイン\nあー、でも…\nやっぱいいや\n\n# voice 1002 \"revatein_0003\"\n@レーヴァテイン\nそんな気分じゃなくなったわ\n\n# voice 1002 \"revatein_0013\"\n@レーヴァテイン\nなんか…ムカつく\n\n# textflame 0 0\n@\nと、尻を軽く蹴ってくる彼女\n\n# textflame 1 1\n@レーヴァテイン\n今日はもう帰りましょ\n\n# textflame 0 0\n@\n一瞬見せた悲し気な瞳が、\nマスターの目に焼きついた\n\n@\nデート中のはずなのに\nそんな思いをさせてしまうなんて…\n\n@\n次は絶対に間違えないように\nしないといけないな…\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

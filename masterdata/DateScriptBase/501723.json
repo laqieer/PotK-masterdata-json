@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 501723,
+		"script": ";;A中あたり\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_room\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# voice 5017 \"grimoire_0010\"\n# face %(unit_a)s \"angry\"\n@グリモワール\n緊張してるにきまってるじゃない！！\nもっと気を遣いなさいよね！？\n\n# textflame 0 0\n@\nグリモワールは紫の鳥のぬいぐるみを\nこれでもかと、きつく抱きしめて\nぷるぷると振るえている…\n\n@\nマスターは\n彼女の緊張をほぐすために\nぬいぐるみの話を振ってみる\n\n# voice 5017 \"grimoire_0005\"\n# face %(unit_a)s \"normal\"\n# textflame 1 1\n@グリモワール\nこれ…？\nこれはね、クロピヨっていうの！\nワタシの眷属ね！\n\n# face %(unit_a)s \"smile\"\n@グリモワール\n最高の抱き心地なのよ♪\nでも、貸してあげないわ！\n\n# eye %(unit_a)s \"close\"\n@グリモワール\nコホン…\nまぁ…でも可哀想だから\n代わりに…\n\n# textflame 0 0\n@\nそう言って\nグリモワールは…\n\n@\nマスターの膝の上に\nちょこんと座るのだった…\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

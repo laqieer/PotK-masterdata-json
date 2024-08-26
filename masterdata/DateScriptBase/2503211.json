@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 2503211,
+		"script": ";;A,中\n;;B,大\n;;C,小\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_hauntedhouse\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# face %(unit_a)s \"shy\"\n# voice 550321 \"tiphereth_ca_0025\"\n@ティファレト\n…ひゃっ！！\n\n# textflame 0 0\n@\nホラーハウスの道中\nマスターと共に\n歩くティファレト\n\n# textflame 0 0\n@\n時折悲鳴を上げたり\n立ち止まったりしながら、\n着々と前へ進んでいく\n\n# textflame 1 1\n# voice 550321 \"tiphereth_ca_0008\"\n@ティファレト\nはぁああ…\nこういった趣向のものは\nやはり怖いですね…\n\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n@ティファレト\nごめんなさい主様\n隣でうるさくしてしまって…\n\n# textflame 1 1\n# face %(unit_a)s \"shy\"\n# voice 550321 \"tiphereth_ca_0002\"\n@ティファレト\nところで…\n主様は怖くないのですか？\n\n# select \"割と得意なんだ\" \"select_label_01\" \"へ、平気だよ…？\" \"select_label_02\" \"ものすごく怖い！\" \"select_label_03\"\nところで…\n主様は怖くないのですか？\n\n# label \"select_label_01\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_02\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_03\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_end\"\n# waitandnext 0.1\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

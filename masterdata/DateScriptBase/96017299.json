@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 96017299,
+		"script": ";;//正解\n# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body 2601711\n# pos 2601711 3\n# mask 2601711 off\n# chara 2601711\n# fadein \"black\" 0.5\n# textflame 1 1\n# face 2601711 \"normal\"\n# se \"SE_0732\"\n# voice 6017 \"akua_0020\"\n@アクア\n正解！\n感心、感心！\n\n@アクア\n正解できなかったら\nもう一問出そうかと思ってたけど\n必要なかったみたいね\n\n# face 2601711 \"usual\"\n@アクア\nじゃあ、特別に今度は\nあなたに問題を出させてあげるわ\n\n@アクア\n私だってしばらく\nあなたと一緒にいるわけだし\nだいたいのことは知ってるわよ！\n\n;;モノローグ\n# textflame 0 0\n@\nその後、互いに問題を出し合い\nなごやかに帰途に就いた\n\n;;モノローグ\n@\nアクアと\nより分かり合えたような\n気がした\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

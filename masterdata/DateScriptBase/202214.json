@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 202214,
+		"script": ";;A\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_ferris\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# face %(unit_a)s \"angry\"\n# voice 2022 \"banko_0034\"\n@盤古\nい、いや…\nそなたのせいでは、ない…\n\n@盤古\n我がいつまでも\n人混みに慣れないのが\nいけないのだ…うう…\n\n@盤古\n…ん、クウ？\nうん…な、なるほど？\n\n# face %(unit_a)s \"normal\"\n# voice 2022 \"banko_0028\"\n@盤古\nその…いま、クウがな？\n\n@盤古\nいっそのこと、\nショック療法を\n試してはどうか、と…\n\n@盤古\n意味がよくわからないが…\nどういうことだ？\n\n# face %(unit_a)s \"surprise\"\n# voice 2022 \"banko_0023\"\n@盤古\n…えっ！？\nわ、我を人混みに\n放り出そう、というのか…！？\n\n# voice 2022 \"banko_0035\"\n@盤古\nい、いやだ！\n我はマスターと一緒にいる！\n\n@盤古\n絶対に離れないぞ！\nお願いだっ、\n我を見捨てないでくれぇええ…！\n\n# textflame 0 0\n@\nその後…\nマスターの服にしがみついて\n離れなくなってしまった盤古\n\n@\nマスターのデート服は、\nたった一日でデロンデロンに\n伸びてしまったのだった…\n;;-----------------------------------------\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

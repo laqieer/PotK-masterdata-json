@@ -1,0 +1,62 @@
+[
+	{
+		"ID": 5266,
+		"unitID": 2601811,
+		"questionID": 9601801,
+		"script": ";;杖,3\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n# voice 260181 \"wizu_0001\"\n@ウィズ\nマスターさん、\n今日一日、\n本当にありがとうございました\n\n@ウィズ\nでも、本当に良かったんですか？\n一緒に出掛ける相手が私で…\n\n# voice 260181 \"wizu_0026\"\n@ウィズ\nだって、私…\n\n@ウィズ\nリッチーなのに……\n\n@ウィズ\nあ、あの…\nそんな私のこと、どこまで理解して\n下さっているのか…\n\n@ウィズ\nクイズを出しても良いですか？\n\n@ウィズ\nそれじゃ、いきますね？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の武器属性は分かりますか？　\n\n# se \"SE_0734\"\n# select \"銃\" \"select_label_1\" \"槍\" \"select_label_2\" \"杖\" \"select_label_3\"\n私の武器属性は分かりますか？　\n"
+	},
+	{
+		"ID": 5267,
+		"unitID": 2601811,
+		"questionID": 9601802,
+		"script": ";;リッチー,1\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n# voice 260181 \"wizu_0001\"\n@ウィズ\nマスターさん、\n今日一日、\n本当にありがとうございました\n\n@ウィズ\nでも、本当に良かったんですか？\n一緒に出掛ける相手が私で…\n\n# voice 260181 \"wizu_0026\"\n@ウィズ\nだって、私…\n\n@ウィズ\nリッチーなのに……\n\n@ウィズ\nあ、あの…\nそんな私のこと、どこまで理解して\n下さっているのか…\n\n@ウィズ\nクイズを出しても良いですか？\n\n@ウィズ\nそれじゃ、いきますね？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私は実は、魔王軍の幹部で\nこうも呼ばれています。\n\n# se \"SE_0734\"\n# select \"リッチー\" \"select_label_1\" \"アークプリースト\" \"select_label_2\" \"クルセイダー\" \"select_label_3\"\n私は実は、魔王軍の幹部で\nこうも呼ばれています。\n"
+	},
+	{
+		"ID": 5268,
+		"unitID": 2601811,
+		"questionID": 9601803,
+		"script": ";;闇,1\n# face %(unit_a)s \"normal\"\n# voice 260181 \"wizu_0001\"\n# textflame 1 1\n@ウィズ\nマスターさん、\n今日はありがとうございました\n\n@ウィズ\nこれは私からのプレゼントです\n\n# face %(unit_a)s \"usual\"\n# voice 260181 \"wizu_0022\"\n@ウィズ\nえ？なにって…\n『徳の高いブーメランパンツ』\nです\n\n# textflame 0 0\n@\n選ぶアイテムに、\n独特のセンスを放つ彼女\n受け取るのを戸惑っていると…\n\n# textflame 1 1\n@ウィズ\nもしかして、\nプレゼントだと気が引けますか？\n\n@ウィズ\nそうだ、それでは今から出す\nクイズに正解出来たら、\nその報酬というのはどうですか？\n\n# voice 260181 \"wizu_0004\"\n@ウィズ\nそれじゃあ、いきますよ\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の属性はどれでしょう？\n\n# se \"SE_0734\"\n# select \"闇\" \"select_label_1\" \"氷\" \"select_label_2\" \"雷\" \"select_label_3\"\n私の属性はどれでしょう？\n"
+	},
+	{
+		"ID": 5269,
+		"unitID": 2601811,
+		"questionID": 9601804,
+		"script": ";;幹部,2\n# face %(unit_a)s \"normal\"\n# voice 260181 \"wizu_0001\"\n# textflame 1 1\n@ウィズ\nマスターさん、\n今日はありがとうございました\n\n@ウィズ\nこれは私からのプレゼントです\n\n# face %(unit_a)s \"usual\"\n# voice 260181 \"wizu_0022\"\n@ウィズ\nえ？なにって…\n『徳の高いブーメランパンツ』\nです\n\n# textflame 0 0\n@\n選ぶアイテムに、\n独特のセンスを放つ彼女\n受け取るのを戸惑っていると…\n\n# textflame 1 1\n@ウィズ\nもしかして、\nプレゼントだと気が引けますか？\n\n@ウィズ\nそうだ、それでは今から出す\nクイズに正解出来たら、\nその報酬というのはどうですか？\n\n# voice 260181 \"wizu_0004\"\n@ウィズ\nそれじゃあ、いきますよ\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私はこう見えて、魔王軍の…？\n\n# se \"SE_0734\"\n# select \"役員\" \"select_label_1\" \"幹部\" \"select_label_2\" \"頭領\" \"select_label_3\"\n私はこう見えて、魔王軍の…？\n"
+	},
+	{
+		"ID": 5270,
+		"unitID": 2601811,
+		"questionID": 9601805,
+		"script": ";;アンデッドの王,1\n# face %(unit_a)s \"normal\"\n# voice 260181 \"wizu_0001\"\n# textflame 1 1\n@ウィズ\nマスターさんは、\nこのあと帰ってなにをしますか？\n\n@ウィズ\n私は迷える魂を天に還します\n\n# face %(unit_a)s \"usual\"\n@ウィズ\nでも、帰る前に…\n一つだけお願いがあるんです\nよろしいでしょうか？\n\n@ウィズ\n私の出すクイズに答えて\n下さったら、今日は笑顔で\n帰れそうな気がするんです\n\n@ウィズ\nお願い…できますか？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私はこうも呼ばれてましたね\n\n# se \"SE_0734\"\n# select \"アンデッドの王\" \"select_label_1\" \"アンティークの王\" \"select_label_2\" \"アンリミテッドの王\" \"select_label_3\"\n私はこうも呼ばれてましたね\n"
+	},
+	{
+		"ID": 5271,
+		"unitID": 2601811,
+		"questionID": 9601806,
+		"script": ";;ドレインタッチ,2\n# face %(unit_a)s \"normal\"\n# voice 260181 \"wizu_0001\"\n# textflame 1 1\n@ウィズ\nマスターさんは、\nこのあと帰ってなにをしますか？\n\n@ウィズ\n私は迷える魂を天に還します\n\n# face %(unit_a)s \"usual\"\n@ウィズ\nでも、帰る前に…\n一つだけお願いがあるんです\nよろしいでしょうか？\n\n@ウィズ\n私の出すクイズに答えて\n下さったら、今日は笑顔で\n帰れそうな気がするんです\n\n@ウィズ\nお願い…できますか？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私がカズマさんに教えたスキルは\n何でしょうか？\n\n# se \"SE_0734\"\n# select \"ソフトタッチ\" \"select_label_1\" \"ドレインタッチ\" \"select_label_2\" \"ブラインドタッチ\" \"select_label_3\"\n私がカズマさんに教えたスキルは\n何でしょうか？\n"
+	},
+	{
+		"ID": 5272,
+		"unitID": 2601811,
+		"questionID": 9601807,
+		"script": ";;茶色,2\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n@ウィズ\nふぅ…\n\n# face %(unit_a)s \"normal\"\n# voice 260181 \"wizu_0001\"\n@ウィズ\nとても暑いですね\n少し休みましょうか\n\n@ウィズ\nそうだ、マスターさん、\n休憩がてら私のクイズに\n答えて頂けますか？\n\n@ウィズ\nそれでは行きますよ\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の髪の色は…？\n\n# se \"SE_0734\"\n# select \"黄色\" \"select_label_1\" \"茶色\" \"select_label_2\" \"緑\" \"select_label_3\"\n私の髪の色は…？\n"
+	},
+	{
+		"ID": 5273,
+		"unitID": 2601811,
+		"questionID": 9601808,
+		"script": ";;魔道具店,1\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n@ウィズ\nふぅ…\n\n# face %(unit_a)s \"normal\"\n# voice 260181 \"wizu_0001\"\n@ウィズ\nとても暑いですね\n少し休みましょうか\n\n@ウィズ\nそうだ、マスターさん、\n休憩がてら私のクイズに\n答えて頂けますか？\n\n@ウィズ\nそれでは行きますよ\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私が経営しているお店は\nどんなお店でしょうか？\n\n# se \"SE_0734\"\n# select \"魔道具店\" \"select_label_1\" \"お総菜屋さん\" \"select_label_2\" \"ガールズバー\" \"select_label_3\"\n私が経営しているお店は\nどんなお店でしょうか？\n"
+	},
+	{
+		"ID": 5274,
+		"unitID": 2601811,
+		"questionID": 9601809,
+		"script": "\n;;私,3\n# se \"SE_0734\"\n# select \"あたし\" \"select_label_1\" \"オレ\" \"select_label_2\" \"私\" \"select_label_3\"\nウィズの一人称は\n次のうちどれ？\n"
+	},
+	{
+		"ID": 5275,
+		"unitID": 2601811,
+		"questionID": 9601810,
+		"script": "\n;;堀江由衣,1\n# se \"SE_0734\"\n# select \"堀江由衣\" \"select_label_1\" \"雨宮天\" \"select_label_2\" \"茅野愛衣\" \"select_label_3\"\nウィズの声優は誰かわかる？\n"
+	}
+]

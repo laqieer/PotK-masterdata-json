@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 3100212,
+		"script": ";;B　ふたりでのんびりしよう\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_planetarium\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# voice 210023 \"revatein_ge_0004\"\n# face %(unit_a)s \"normal\"\n@レーヴァテイン\nうん…すごくいい\nマスターもいつも\n大変そうだし\n\n# textflame 0 0\n@\nレーヴァテインだって\nいつもみんなの面倒をみて\nご苦労様、と労うマスター\n\n# voice 210023 \"revatein_ge_0030\"\n# textflame 1 1\n@レーヴァテイン\nありがと\nマスターは、優しいね\n\n@レーヴァテイン\nずっと気づいてたよ\nちゃんとみんなのことを\n気遣ってくれてるの\n\n@レーヴァテイン\n私も、そう…\nマスターのおかげで\n救われたこと、あるもの\n\n# voice 210023 \"revatein_ge_0002\"\n@レーヴァテイン\n…私ね、本当は\nひとりでいられる場所が好きなの\n\n# face %(unit_a)s \"smile\"\n@レーヴァテイン\nでも今日は、\nマスターとここにいるのが、\nたまらなく嬉しい\n\n@レーヴァテイン\n不思議な気持ちで\nなんだか、普段とは\n全然違うのだけど…\n\n# voice 210023 \"revatein_ge_0020\"\n@レーヴァテイン\nこの気持ちを感じるのは、\nそんなにめんどくさそうでは\nないような気がするの\n\n# textflame 0 0\n@\nレーヴァテインはそう言って、\n幸せそうに目を細めたのだった\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

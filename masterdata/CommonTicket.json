@@ -1,0 +1,1255 @@
+[
+	{
+		"ID": 1000001,
+		"name": "10月召喚コインA",
+		"description": "6周年記念！対象のガチャから手に入るコイン。コイン交換所で交換が可能",
+		"type_CommonTicketType": 1,
+		"icon_id": 0
+	},
+	{
+		"ID": 1000002,
+		"name": "10月召喚コインB",
+		"description": "6周年記念！対象のガチャから手に入るコイン。コイン交換所で交換が可能",
+		"type_CommonTicketType": 1,
+		"icon_id": 0
+	},
+	{
+		"ID": 1000003,
+		"name": "10月召喚コインC",
+		"description": "6周年記念！対象のガチャから手に入るコイン。コイン交換所で交換が可能",
+		"type_CommonTicketType": 1,
+		"icon_id": 0
+	},
+	{
+		"ID": 1000004,
+		"name": "10月召喚コインD",
+		"description": "6周年記念！対象のガチャから手に入るコイン。コイン交換所で交換が可能",
+		"type_CommonTicketType": 1,
+		"icon_id": 0
+	},
+	{
+		"ID": 1000005,
+		"name": "11月召喚コインA",
+		"description": "対象のガチャから手に入るコイン。コイン交換所で交換が可能",
+		"type_CommonTicketType": 1,
+		"icon_id": 0
+	},
+	{
+		"ID": 1000006,
+		"name": "11月召喚コインB",
+		"description": "対象のガチャから手に入るコイン。コイン交換所で交換が可能",
+		"type_CommonTicketType": 1,
+		"icon_id": 0
+	},
+	{
+		"ID": 1000007,
+		"name": "11月召喚コインC",
+		"description": "対象のガチャから手に入るコイン。コイン交換所で交換が可能",
+		"type_CommonTicketType": 1,
+		"icon_id": 0
+	},
+	{
+		"ID": 1000008,
+		"name": "11月召喚コインD",
+		"description": "対象のガチャから手に入るコイン。コイン交換所で交換が可能",
+		"type_CommonTicketType": 1,
+		"icon_id": 0
+	},
+	{
+		"ID": 1000009,
+		"name": "11月召喚コイン（未使用）",
+		"description": "未使用",
+		"type_CommonTicketType": 1,
+		"icon_id": 0
+	},
+	{
+		"ID": 1000010,
+		"name": "11月召喚コインE",
+		"description": "対象のガチャから手に入るコイン。コイン交換所で交換が可能",
+		"type_CommonTicketType": 1,
+		"icon_id": 0
+	},
+	{
+		"ID": 1000011,
+		"name": "11月召喚コインF",
+		"description": "対象のガチャから手に入るコイン。コイン交換所で交換が可能",
+		"type_CommonTicketType": 1,
+		"icon_id": 0
+	},
+	{
+		"ID": 1000012,
+		"name": "12月召喚コインA",
+		"description": "対象のガチャから手に入るコイン。コイン交換所で交換が可能",
+		"type_CommonTicketType": 1,
+		"icon_id": 0
+	},
+	{
+		"ID": 1000013,
+		"name": "12月召喚コインB",
+		"description": "対象のガチャから手に入るコイン。コイン交換所で交換が可能",
+		"type_CommonTicketType": 1,
+		"icon_id": 0
+	},
+	{
+		"ID": 1000014,
+		"name": "12月召喚コインC",
+		"description": "対象のガチャから手に入るコイン。コイン交換所で交換が可能",
+		"type_CommonTicketType": 1,
+		"icon_id": 0
+	},
+	{
+		"ID": 1000015,
+		"name": "1月召喚コインA",
+		"description": "対象のガチャから手に入るコイン。コイン交換所で交換が可能",
+		"type_CommonTicketType": 1,
+		"icon_id": 1000001
+	},
+	{
+		"ID": 1000016,
+		"name": "1月召喚コインB",
+		"description": "対象のガチャから手に入るコイン。コイン交換所で交換が可能",
+		"type_CommonTicketType": 1,
+		"icon_id": 1000002
+	},
+	{
+		"ID": 1000017,
+		"name": "1月召喚コインC",
+		"description": "対象のガチャから手に入るコイン。コイン交換所で交換が可能",
+		"type_CommonTicketType": 1,
+		"icon_id": 1000003
+	},
+	{
+		"ID": 2000001,
+		"name": "賀正コイン",
+		"description": "正月イベントで手に入るコイン。コイン交換所で交換が可能。※期限後に姫石への変換はございません",
+		"type_CommonTicketType": 2,
+		"icon_id": 0
+	},
+	{
+		"ID": 3000002,
+		"name": "ギルドバトルコイン",
+		"description": "ギルドバトルイベントで手に入るコイン。コイン交換所で交換が可能。※期限後に姫石への変換はございません",
+		"type_CommonTicketType": 3,
+		"icon_id": 0
+	},
+	{
+		"ID": 1000018,
+		"name": "1月召喚コインD",
+		"description": "対象のガチャから手に入るコイン。コイン交換所で交換が可能",
+		"type_CommonTicketType": 1,
+		"icon_id": 1000004
+	},
+	{
+		"ID": 1000019,
+		"name": "1月召喚コインE",
+		"description": "対象のガチャから手に入るコイン。コイン交換所で交換が可能",
+		"type_CommonTicketType": 1,
+		"icon_id": 1000001
+	},
+	{
+		"ID": 1000020,
+		"name": "1月召喚コインF",
+		"description": "対象のガチャから手に入るコイン。コイン交換所で交換が可能",
+		"type_CommonTicketType": 1,
+		"icon_id": 1000002
+	},
+	{
+		"ID": 1000021,
+		"name": "2月召喚コインA",
+		"description": "対象のガチャから手に入るコイン。コイン交換所で交換が可能",
+		"type_CommonTicketType": 1,
+		"icon_id": 1000003
+	},
+	{
+		"ID": 1000022,
+		"name": "2月召喚コインB",
+		"description": "対象のガチャから手に入るコイン。コイン交換所で交換が可能",
+		"type_CommonTicketType": 1,
+		"icon_id": 1000004
+	},
+	{
+		"ID": 2000003,
+		"name": "バレンタインコイン",
+		"description": "バレンタインイベントで手に入るコイン。コイン交換所で交換が可能。※期限後に姫石への変換はございません",
+		"type_CommonTicketType": 2,
+		"icon_id": 0
+	},
+	{
+		"ID": 1000023,
+		"name": "2月召喚コインC",
+		"description": "対象のガチャから手に入るコイン。コイン交換所で交換が可能",
+		"type_CommonTicketType": 1,
+		"icon_id": 1000001
+	},
+	{
+		"ID": 1000024,
+		"name": "2月召喚コインD",
+		"description": "対象のガチャから手に入るコイン。コイン交換所で交換が可能",
+		"type_CommonTicketType": 1,
+		"icon_id": 1000002
+	},
+	{
+		"ID": 1000025,
+		"name": "マナシードorAPチャージ選べる召喚コイン",
+		"description": "対象のガチャから手に入るコイン。コイン交換所で交換が可能",
+		"type_CommonTicketType": 1,
+		"icon_id": 1000003
+	},
+	{
+		"ID": 1000026,
+		"name": "2月召喚コインE",
+		"description": "対象のガチャから手に入るコイン。コイン交換所で交換が可能",
+		"type_CommonTicketType": 1,
+		"icon_id": 1000004
+	},
+	{
+		"ID": 2000005,
+		"name": "ダーインスレイヴコイン",
+		"description": "ダーインスレイヴキャンペーンで手に入るコイン。コイン交換所で交換が可能。※期限後に姫石への変換はございません",
+		"type_CommonTicketType": 4,
+		"icon_id": 0
+	},
+	{
+		"ID": 2000004,
+		"name": "PSYCHO-PASS 2コラボコイン",
+		"description": "PSYCHO-PASS 2コラボイベントで手に入るコイン。コイン交換所で交換が可能。※期限後に姫石への変換はございません",
+		"type_CommonTicketType": 2,
+		"icon_id": 0
+	},
+	{
+		"ID": 1000027,
+		"name": "3月召喚コインA",
+		"description": "対象のガチャから手に入るコイン。コイン交換所で交換が可能",
+		"type_CommonTicketType": 1,
+		"icon_id": 1000001
+	},
+	{
+		"ID": 1000028,
+		"name": "3月召喚コインB",
+		"description": "対象のガチャから手に入るコイン。コイン交換所で交換が可能",
+		"type_CommonTicketType": 1,
+		"icon_id": 1000002
+	},
+	{
+		"ID": 4000001,
+		"name": "軍団戦コイン",
+		"description": "軍団戦イベントで手に入るコイン。コイン交換所で交換が可能。※期限後に姫石への変換はございません",
+		"type_CommonTicketType": 1,
+		"icon_id": 4000001
+	},
+	{
+		"ID": 1000029,
+		"name": "アロンダイト・暴走ガチャ召喚コイン",
+		"description": "対象のガチャから手に入るコイン。コイン交換所で交換が可能",
+		"type_CommonTicketType": 1,
+		"icon_id": 1000003
+	},
+	{
+		"ID": 1000030,
+		"name": "軍団戦リリース記念ガチャ召喚コイン",
+		"description": "対象のガチャから手に入るコイン。コイン交換所で交換が可能",
+		"type_CommonTicketType": 1,
+		"icon_id": 1000004
+	},
+	{
+		"ID": 2000006,
+		"name": "ファンキル学園コイン",
+		"description": "ファンキル学園イベントで手に入るコイン。コイン交換所で交換が可能。※期限後に姫石への変換はございません",
+		"type_CommonTicketType": 2,
+		"icon_id": 0
+	},
+	{
+		"ID": 1000031,
+		"name": "生放送記念召喚コイン",
+		"description": "生放送記念育成素材ガチャから手に入るコイン。コイン交換所で交換が可能。※期限後に姫石への変換はございません",
+		"type_CommonTicketType": 1,
+		"icon_id": 1000001
+	},
+	{
+		"ID": 1000032,
+		"name": "3月召喚コインC",
+		"description": "対象のガチャから手に入るコイン。コイン交換所で交換が可能",
+		"type_CommonTicketType": 1,
+		"icon_id": 1000002
+	},
+	{
+		"ID": 1000033,
+		"name": "4月召喚コインA",
+		"description": "対象のガチャから手に入るコイン。コイン交換所で交換が可能",
+		"type_CommonTicketType": 1,
+		"icon_id": 1000002
+	},
+	{
+		"ID": 1000034,
+		"name": "4月召喚コインB",
+		"description": "対象のガチャから手に入るコイン。コイン交換所で交換が可能",
+		"type_CommonTicketType": 1,
+		"icon_id": 1000003
+	},
+	{
+		"ID": 5000001,
+		"name": "6.5周年記念スペシャルイベントコイン",
+		"description": "ログインボーナス、各種イベントで手に入るコイン。コイン交換所で交換が可能",
+		"type_CommonTicketType": 1,
+		"icon_id": 5000001
+	},
+	{
+		"ID": 1000035,
+		"name": "ロンゴミアント・暴走ガチャ召喚コイン",
+		"description": "対象のガチャから手に入るコイン。コイン交換所で交換が可能",
+		"type_CommonTicketType": 1,
+		"icon_id": 1000004
+	},
+	{
+		"ID": 4000002,
+		"name": "軍団戦コイン",
+		"description": "軍団戦イベントで手に入るコイン。コイン交換所で交換が可能。※期限後に姫石への変換はございません",
+		"type_CommonTicketType": 1,
+		"icon_id": 4000001
+	},
+	{
+		"ID": 1000036,
+		"name": "軍団戦開催記念ガチャ召喚コイン",
+		"description": "対象のガチャから手に入るコイン。コイン交換所で交換が可能",
+		"type_CommonTicketType": 1,
+		"icon_id": 1000001
+	},
+	{
+		"ID": 1000038,
+		"name": "盤古召喚コイン",
+		"description": "対象のガチャから手に入るコイン。コイン交換所で交換が可能",
+		"type_CommonTicketType": 1,
+		"icon_id": 1000002
+	},
+	{
+		"ID": 1000039,
+		"name": "クラウ・ソラス召喚コイン",
+		"description": "対象のガチャから手に入るコイン。コイン交換所で交換が可能",
+		"type_CommonTicketType": 1,
+		"icon_id": 1000003
+	},
+	{
+		"ID": 1000040,
+		"name": "立花 響召喚コイン",
+		"description": "対象のガチャから手に入るコイン。コイン交換所で交換が可能",
+		"type_CommonTicketType": 1,
+		"icon_id": 1000004
+	},
+	{
+		"ID": 1000041,
+		"name": "小日向 未来召喚コイン",
+		"description": "対象のガチャから手に入るコイン。コイン交換所で交換が可能",
+		"type_CommonTicketType": 1,
+		"icon_id": 1000001
+	},
+	{
+		"ID": 1000042,
+		"name": "レーヴァテイン召喚コイン",
+		"description": "対象のガチャから手に入るコイン。コイン交換所で交換が可能",
+		"type_CommonTicketType": 1,
+		"icon_id": 1000002
+	},
+	{
+		"ID": 2000007,
+		"name": "戦姫絶唱シンフォギアXDコラボコイン",
+		"description": "戦姫絶唱シンフォギアXDコラボクエストで手に入るコイン。コイン交換所で交換が可能。※期限後に姫石への変換はございません",
+		"type_CommonTicketType": 2,
+		"icon_id": 0
+	},
+	{
+		"ID": 1000043,
+		"name": "雪音 クリス召喚コイン",
+		"description": "対象のガチャから手に入るコイン。コイン交換所で交換が可能",
+		"type_CommonTicketType": 1,
+		"icon_id": 1000003
+	},
+	{
+		"ID": 1000044,
+		"name": "ソロモン召喚コイン",
+		"description": "対象のガチャから手に入るコイン。コイン交換所で交換が可能",
+		"type_CommonTicketType": 1,
+		"icon_id": 1000002
+	},
+	{
+		"ID": 1000045,
+		"name": "オティヌス召喚コイン",
+		"description": "対象のガチャから手に入るコイン。コイン交換所で交換が可能",
+		"type_CommonTicketType": 1,
+		"icon_id": 1000001
+	},
+	{
+		"ID": 4000003,
+		"name": "軍団戦コイン",
+		"description": "軍団戦イベントで手に入るコイン。コイン交換所で交換が可能。※期限後に姫石への変換はございません",
+		"type_CommonTicketType": 1,
+		"icon_id": 4000001
+	},
+	{
+		"ID": 1000046,
+		"name": "軍団戦開催記念ガチャ召喚コイン",
+		"description": "対象のガチャから手に入るコイン。コイン交換所で交換が可能",
+		"type_CommonTicketType": 1,
+		"icon_id": 1000003
+	},
+	{
+		"ID": 1000047,
+		"name": "イージス召喚コイン",
+		"description": "対象のガチャから手に入るコイン。コイン交換所で交換が可能",
+		"type_CommonTicketType": 1,
+		"icon_id": 1000004
+	},
+	{
+		"ID": 1000048,
+		"name": "ラグナロク召喚コイン",
+		"description": "対象のガチャから手に入るコイン。コイン交換所で交換が可能",
+		"type_CommonTicketType": 1,
+		"icon_id": 1000001
+	},
+	{
+		"ID": 1000049,
+		"name": "グランテピエ召喚コイン",
+		"description": "対象のガチャから手に入るコイン。コイン交換所で交換が可能",
+		"type_CommonTicketType": 1,
+		"icon_id": 1000002
+	},
+	{
+		"ID": 2000008,
+		"name": "ウェディングコイン",
+		"description": "ウェディングイベントで手に入るコイン。コイン交換所で交換が可能。※期限後に姫石への変換はございません",
+		"type_CommonTicketType": 2,
+		"icon_id": 0
+	},
+	{
+		"ID": 2000009,
+		"name": "誰ガ為のアルケミストコラボコイン",
+		"description": "誰ガ為のアルケミストコラボイベントで手に入るコイン。コイン交換所で交換が可能。※期限後に姫石への変換はございません",
+		"type_CommonTicketType": 2,
+		"icon_id": 0
+	},
+	{
+		"ID": 1000050,
+		"name": "イチイバル召喚コイン",
+		"description": "対象のガチャから手に入るコイン。コイン交換所で交換が可能",
+		"type_CommonTicketType": 1,
+		"icon_id": 1000003
+	},
+	{
+		"ID": 1000051,
+		"name": "ラキナ召喚コイン",
+		"description": "対象のガチャから手に入るコイン。コイン交換所で交換が可能",
+		"type_CommonTicketType": 1,
+		"icon_id": 1000004
+	},
+	{
+		"ID": 1000052,
+		"name": "アハト召喚コイン",
+		"description": "対象のガチャから手に入るコイン。コイン交換所で交換が可能",
+		"type_CommonTicketType": 1,
+		"icon_id": 1000001
+	},
+	{
+		"ID": 1000053,
+		"name": "ロジェスティラ召喚コイン",
+		"description": "対象のガチャから手に入るコイン。コイン交換所で交換が可能",
+		"type_CommonTicketType": 1,
+		"icon_id": 1000002
+	},
+	{
+		"ID": 1000054,
+		"name": "軍団戦開催記念ガチャ召喚コイン",
+		"description": "対象のガチャから手に入るコイン。コイン交換所で交換が可能",
+		"type_CommonTicketType": 1,
+		"icon_id": 1000003
+	},
+	{
+		"ID": 1000055,
+		"name": "ラブリュス召喚コイン",
+		"description": "対象のガチャから手に入るコイン。コイン交換所で交換が可能",
+		"type_CommonTicketType": 1,
+		"icon_id": 1000004
+	},
+	{
+		"ID": 4000004,
+		"name": "軍団戦コイン",
+		"description": "軍団戦イベントで手に入るコイン。コイン交換所で交換が可能。※期限後に姫石への変換はございません",
+		"type_CommonTicketType": 1,
+		"icon_id": 4000001
+	},
+	{
+		"ID": 1000056,
+		"name": "ティファレト召喚コイン",
+		"description": "対象のガチャから手に入るコイン。コイン交換所で交換が可能",
+		"type_CommonTicketType": 1,
+		"icon_id": 1000001
+	},
+	{
+		"ID": 1000057,
+		"name": "リサナウト召喚コイン",
+		"description": "対象のガチャから手に入るコイン。コイン交換所で交換が可能",
+		"type_CommonTicketType": 1,
+		"icon_id": 1000002
+	},
+	{
+		"ID": 1000058,
+		"name": "イージス 海上編ver.召喚コイン",
+		"description": "対象のガチャから手に入るコイン。コイン交換所で交換が可能",
+		"type_CommonTicketType": 1,
+		"icon_id": 1000003
+	},
+	{
+		"ID": 2000010,
+		"name": "海上コイン",
+		"description": "海上編イベントで手に入るコイン。コイン交換所で交換が可能。※期限後に姫石への変換はございません",
+		"type_CommonTicketType": 2,
+		"icon_id": 0
+	},
+	{
+		"ID": 2000011,
+		"name": "プールコイン",
+		"description": "海上編イベントで手に入るコイン。コイン交換所で交換が可能。※期限後に姫石への変換はございません",
+		"type_CommonTicketType": 2,
+		"icon_id": 0
+	},
+	{
+		"ID": 2000012,
+		"name": "ジャングルコイン",
+		"description": "海上編イベントで手に入るコイン。コイン交換所で交換が可能。※期限後に姫石への変換はございません",
+		"type_CommonTicketType": 2,
+		"icon_id": 0
+	},
+	{
+		"ID": 2000013,
+		"name": "ビーチコイン",
+		"description": "海上編イベントで手に入るコイン。コイン交換所で交換が可能。※期限後に姫石への変換はございません",
+		"type_CommonTicketType": 2,
+		"icon_id": 0
+	},
+	{
+		"ID": 1000059,
+		"name": "イージス召喚コイン",
+		"description": "対象のガチャから手に入るコイン。コイン交換所で交換が可能",
+		"type_CommonTicketType": 1,
+		"icon_id": 1000004
+	},
+	{
+		"ID": 1000060,
+		"name": "盤古 海上編ver.召喚コイン",
+		"description": "対象のガチャから手に入るコイン。コイン交換所で交換が可能",
+		"type_CommonTicketType": 1,
+		"icon_id": 1000001
+	},
+	{
+		"ID": 1000061,
+		"name": "盤古召喚コイン",
+		"description": "対象のガチャから手に入るコイン。コイン交換所で交換が可能",
+		"type_CommonTicketType": 1,
+		"icon_id": 1000002
+	},
+	{
+		"ID": 1000062,
+		"name": "アロンダイト召喚コイン",
+		"description": "対象のガチャから手に入るコイン。コイン交換所で交換が可能",
+		"type_CommonTicketType": 1,
+		"icon_id": 1000003
+	},
+	{
+		"ID": 1000063,
+		"name": "軍団戦開催記念ガチャ召喚コイン",
+		"description": "対象のガチャから手に入るコイン。コイン交換所で交換が可能",
+		"type_CommonTicketType": 1,
+		"icon_id": 1000004
+	},
+	{
+		"ID": 4000005,
+		"name": "軍団戦コイン",
+		"description": "軍団戦イベントで手に入るコイン。コイン交換所で交換が可能。※期限後に姫石への変換はございません",
+		"type_CommonTicketType": 1,
+		"icon_id": 4000001
+	},
+	{
+		"ID": 1000064,
+		"name": "アルマス召喚コイン",
+		"description": "対象のガチャから手に入るコイン。コイン交換所で交換が可能",
+		"type_CommonTicketType": 1,
+		"icon_id": 1000001
+	},
+	{
+		"ID": 1000065,
+		"name": "フェイルノート 海上編ver.召喚コイン",
+		"description": "対象のガチャから手に入るコイン。コイン交換所で交換が可能",
+		"type_CommonTicketType": 1,
+		"icon_id": 1000002
+	},
+	{
+		"ID": 1000066,
+		"name": "グランテピエ 海上編ver.召喚コイン",
+		"description": "対象のガチャから手に入るコイン。コイン交換所で交換が可能",
+		"type_CommonTicketType": 1,
+		"icon_id": 1000003
+	},
+	{
+		"ID": 1000067,
+		"name": "グランテピエ召喚コイン",
+		"description": "対象のガチャから手に入るコイン。コイン交換所で交換が可能",
+		"type_CommonTicketType": 1,
+		"icon_id": 1000004
+	},
+	{
+		"ID": 4000006,
+		"name": "軍団戦コイン",
+		"description": "軍団戦イベントで手に入るコイン。コイン交換所で交換が可能。※期限後に姫石への変換はございません",
+		"type_CommonTicketType": 1,
+		"icon_id": 4000001
+	},
+	{
+		"ID": 1000068,
+		"name": "レーヴァテイン召喚コイン",
+		"description": "対象のガチャから手に入るコイン。コイン交換所で交換が可能",
+		"type_CommonTicketType": 1,
+		"icon_id": 1000001
+	},
+	{
+		"ID": 1000069,
+		"name": "ラグナロク召喚コイン",
+		"description": "対象のガチャから手に入るコイン。コイン交換所で交換が可能",
+		"type_CommonTicketType": 1,
+		"icon_id": 1000002
+	},
+	{
+		"ID": 1000070,
+		"name": "スイハ召喚コイン",
+		"description": "対象のガチャから手に入るコイン。コイン交換所で交換が可能",
+		"type_CommonTicketType": 1,
+		"icon_id": 1000003
+	},
+	{
+		"ID": 1000071,
+		"name": "ティファレト召喚コイン",
+		"description": "対象のガチャから手に入るコイン。コイン交換所で交換が可能",
+		"type_CommonTicketType": 1,
+		"icon_id": 1000004
+	},
+	{
+		"ID": 1000072,
+		"name": "フェイルノート召喚コイン",
+		"description": "対象のガチャから手に入るコイン。コイン交換所で交換が可能",
+		"type_CommonTicketType": 1,
+		"icon_id": 1000001
+	},
+	{
+		"ID": 1000073,
+		"name": "カシウス召喚コイン",
+		"description": "対象のガチャから手に入るコイン。コイン交換所で交換が可能",
+		"type_CommonTicketType": 1,
+		"icon_id": 1000002
+	},
+	{
+		"ID": 1000074,
+		"name": "カシウス 海上編ver.召喚コイン",
+		"description": "対象のガチャから手に入るコイン。コイン交換所で交換が可能",
+		"type_CommonTicketType": 1,
+		"icon_id": 1000002
+	},
+	{
+		"ID": 1000075,
+		"name": "ギャラルホルン召喚コイン",
+		"description": "対象のガチャから手に入るコイン。コイン交換所で交換が可能",
+		"type_CommonTicketType": 1,
+		"icon_id": 1000004
+	},
+	{
+		"ID": 1000076,
+		"name": "ワズラ召喚コイン",
+		"description": "対象のガチャから手に入るコイン。コイン交換所で交換が可能",
+		"type_CommonTicketType": 1,
+		"icon_id": 1000001
+	},
+	{
+		"ID": 1000077,
+		"name": "アルテミス召喚コイン",
+		"description": "対象のガチャから手に入るコイン。コイン交換所で交換が可能",
+		"type_CommonTicketType": 1,
+		"icon_id": 1000002
+	},
+	{
+		"ID": 2000014,
+		"name": "でんぱ組.incコラボコイン",
+		"description": "でんぱ組.incコラボイベントで手に入るコイン。コイン交換所で交換が可能。※期限後に姫石への変換はございません",
+		"type_CommonTicketType": 2,
+		"icon_id": 0
+	},
+	{
+		"ID": 1000078,
+		"name": "フリズスキャールヴ召喚コイン",
+		"description": "対象のガチャから手に入るコイン。コイン交換所で交換が可能",
+		"type_CommonTicketType": 1,
+		"icon_id": 1000003
+	},
+	{
+		"ID": 1000079,
+		"name": "オルフェウス召喚コイン",
+		"description": "対象のガチャから手に入るコイン。コイン交換所で交換が可能",
+		"type_CommonTicketType": 1,
+		"icon_id": 1000004
+	},
+	{
+		"ID": 2000015,
+		"name": "ハロウィンコイン",
+		"description": "ハロウィンイベントで手に入るコイン。コイン交換所で交換が可能。※期限後に姫石への変換はございません",
+		"type_CommonTicketType": 2,
+		"icon_id": 2000015
+	},
+	{
+		"ID": 1000080,
+		"name": "ミュルグレス召喚コイン",
+		"description": "対象のガチャから手に入るコイン。コイン交換所で交換が可能",
+		"type_CommonTicketType": 1,
+		"icon_id": 1000001
+	},
+	{
+		"ID": 2000016,
+		"name": "誓約コイン",
+		"description": "誓約ミッションで手に入るコイン。コイン交換所で交換が可能。※期限後に姫石への変換はございません",
+		"type_CommonTicketType": 2,
+		"icon_id": 2000016
+	},
+	{
+		"ID": 2000017,
+		"name": "7th Anniversaryコイン",
+		"description": "7周年の各イベントで手に入るコイン。コイン交換所で交換が可能。※期限後に姫石への変換はございません",
+		"type_CommonTicketType": 2,
+		"icon_id": 2000017
+	},
+	{
+		"ID": 1000081,
+		"name": "グレイプニル召喚コイン",
+		"description": "対象のガチャから手に入るコイン。コイン交換所で交換が可能",
+		"type_CommonTicketType": 1,
+		"icon_id": 1000002
+	},
+	{
+		"ID": 1000082,
+		"name": "ティルフィング召喚コイン",
+		"description": "対象のガチャから手に入るコイン。コイン交換所で交換が可能",
+		"type_CommonTicketType": 1,
+		"icon_id": 1000003
+	},
+	{
+		"ID": 1000083,
+		"name": "ユグドラシル召喚コイン",
+		"description": "対象のガチャから手に入るコイン。コイン交換所で交換が可能",
+		"type_CommonTicketType": 1,
+		"icon_id": 1000004
+	},
+	{
+		"ID": 1000084,
+		"name": "セツナ召喚コイン",
+		"description": "対象のガチャから手に入るコイン。コイン交換所で交換が可能",
+		"type_CommonTicketType": 1,
+		"icon_id": 1000001
+	},
+	{
+		"ID": 1000085,
+		"name": "メラ召喚コイン",
+		"description": "対象のガチャから手に入るコイン。コイン交換所で交換が可能",
+		"type_CommonTicketType": 1,
+		"icon_id": 1000002
+	},
+	{
+		"ID": 4000007,
+		"name": "軍団戦コイン",
+		"description": "軍団戦イベントで手に入るコイン。コイン交換所で交換が可能。※期限後に姫石への変換はございません",
+		"type_CommonTicketType": 1,
+		"icon_id": 4000001
+	},
+	{
+		"ID": 1000086,
+		"name": "青龍偃月刀召喚コイン",
+		"description": "対象のガチャから手に入るコイン。コイン交換所で交換が可能",
+		"type_CommonTicketType": 1,
+		"icon_id": 1000003
+	},
+	{
+		"ID": 1000087,
+		"name": "シユウ召喚コイン",
+		"description": "対象のガチャから手に入るコイン。コイン交換所で交換が可能",
+		"type_CommonTicketType": 1,
+		"icon_id": 1000004
+	},
+	{
+		"ID": 1000088,
+		"name": "エルキュール召喚コイン",
+		"description": "対象のガチャから手に入るコイン。コイン交換所で交換が可能",
+		"type_CommonTicketType": 1,
+		"icon_id": 1000001
+	},
+	{
+		"ID": 2000018,
+		"name": "クリスマスコイン",
+		"description": "クリスマスイベントで手に入るコイン。コイン交換所で交換が可能。※期限後に姫石への変換はございません",
+		"type_CommonTicketType": 2,
+		"icon_id": 2000018
+	},
+	{
+		"ID": 1000089,
+		"name": "ゲイボルグ召喚コイン",
+		"description": "対象のガチャから手に入るコイン。コイン交換所で交換が可能",
+		"type_CommonTicketType": 1,
+		"icon_id": 1000002
+	},
+	{
+		"ID": 1000090,
+		"name": "アダマス召喚コイン",
+		"description": "対象のガチャから手に入るコイン。コイン交換所で交換が可能",
+		"type_CommonTicketType": 1,
+		"icon_id": 1000003
+	},
+	{
+		"ID": 1000091,
+		"name": "マナナン召喚コイン",
+		"description": "対象のガチャから手に入るコイン。コイン交換所で交換が可能",
+		"type_CommonTicketType": 1,
+		"icon_id": 1000004
+	},
+	{
+		"ID": 4000008,
+		"name": "軍団戦コイン",
+		"description": "軍団戦イベントで手に入るコイン。コイン交換所で交換が可能。※期限後に姫石への変換はございません",
+		"type_CommonTicketType": 1,
+		"icon_id": 4000001
+	},
+	{
+		"ID": 1000092,
+		"name": "キズナアイ召喚コイン",
+		"description": "対象のガチャから手に入るコイン。コイン交換所で交換が可能",
+		"type_CommonTicketType": 1,
+		"icon_id": 1000001
+	},
+	{
+		"ID": 2000019,
+		"name": "キズナアイコラボコイン",
+		"description": "キズナアイコラボイベントで手に入るコイン。コイン交換所で交換が可能。※期限後に姫石への変換はございません",
+		"type_CommonTicketType": 2,
+		"icon_id": 2000019
+	},
+	{
+		"ID": 1000093,
+		"name": "ブラックアイ召喚コイン",
+		"description": "対象のガチャから手に入るコイン。コイン交換所で交換が可能",
+		"type_CommonTicketType": 1,
+		"icon_id": 1000002
+	},
+	{
+		"ID": 1000094,
+		"name": "フォルカス召喚コイン",
+		"description": "対象のガチャから手に入るコイン。コイン交換所で交換が可能",
+		"type_CommonTicketType": 1,
+		"icon_id": 1000003
+	},
+	{
+		"ID": 1000095,
+		"name": "ソロモン召喚コイン",
+		"description": "対象のガチャから手に入るコイン。コイン交換所で交換が可能",
+		"type_CommonTicketType": 1,
+		"icon_id": 1000004
+	},
+	{
+		"ID": 1000096,
+		"name": "マクリル召喚コイン",
+		"description": "対象のガチャから手に入るコイン。コイン交換所で交換が可能",
+		"type_CommonTicketType": 1,
+		"icon_id": 1000001
+	},
+	{
+		"ID": 4000009,
+		"name": "軍団戦コイン",
+		"description": "軍団戦イベントで手に入るコイン。コイン交換所で交換が可能。※期限後に姫石への変換はございません",
+		"type_CommonTicketType": 1,
+		"icon_id": 4000001
+	},
+	{
+		"ID": 1000097,
+		"name": "めぐみん召喚コイン",
+		"description": "対象のガチャから手に入るコイン。コイン交換所で交換が可能",
+		"type_CommonTicketType": 1,
+		"icon_id": 1000002
+	},
+	{
+		"ID": 1000098,
+		"name": "フェイルノート召喚コイン",
+		"description": "対象のガチャから手に入るコイン。コイン交換所で交換が可能",
+		"type_CommonTicketType": 1,
+		"icon_id": 1000003
+	},
+	{
+		"ID": 1000099,
+		"name": "グレイプニル召喚コイン",
+		"description": "対象のガチャから手に入るコイン。コイン交換所で交換が可能",
+		"type_CommonTicketType": 1,
+		"icon_id": 1000004
+	},
+	{
+		"ID": 1000100,
+		"name": "ダモクレス召喚コイン",
+		"description": "対象のガチャから手に入るコイン。コイン交換所で交換が可能",
+		"type_CommonTicketType": 1,
+		"icon_id": 1000001
+	},
+	{
+		"ID": 1000101,
+		"name": "草薙剣召喚コイン",
+		"description": "対象のガチャから手に入るコイン。コイン交換所で交換が可能",
+		"type_CommonTicketType": 1,
+		"icon_id": 1000002
+	},
+	{
+		"ID": 1000102,
+		"name": "Happy Valentineコイン",
+		"description": "対象のガチャから手に入るコイン。コイン交換所で交換が可能。※期限後に姫石への変換はございません。",
+		"type_CommonTicketType": 1,
+		"icon_id": 1000102
+	},
+	{
+		"ID": 1000103,
+		"name": "アマテラス召喚コイン",
+		"description": "対象のガチャから手に入るコイン。コイン交換所で交換が可能",
+		"type_CommonTicketType": 1,
+		"icon_id": 1000003
+	},
+	{
+		"ID": 1000104,
+		"name": "シラサギ召喚コイン",
+		"description": "対象のガチャから手に入るコイン。コイン交換所で交換が可能",
+		"type_CommonTicketType": 1,
+		"icon_id": 1000004
+	},
+	{
+		"ID": 1000105,
+		"name": "ブレイクスルーコイン",
+		"description": "対象のガチャから手に入るコイン。コイン交換所で交換が可能。※期限後に姫石への変換はございません。",
+		"type_CommonTicketType": 1,
+		"icon_id": 1000045
+	},
+	{
+		"ID": 1000106,
+		"name": "イージス召喚コイン",
+		"description": "対象のガチャから手に入るコイン。コイン交換所で交換が可能",
+		"type_CommonTicketType": 1,
+		"icon_id": 1000001
+	},
+	{
+		"ID": 1000107,
+		"name": "レーヴァテインコイン",
+		"description": "対象のガチャから手に入るコイン。コイン交換所で交換が可能。※期限後に姫石への変換はございません。",
+		"type_CommonTicketType": 1,
+		"icon_id": 1000002
+	},
+	{
+		"ID": 1000108,
+		"name": "神楽めあ召喚コイン",
+		"description": "対象のガチャから手に入るコイン。コイン交換所で交換が可能",
+		"type_CommonTicketType": 1,
+		"icon_id": 1000003
+	},
+	{
+		"ID": 1000109,
+		"name": "犬山たまき召喚コイン",
+		"description": "対象のガチャから手に入るコイン。コイン交換所で交換が可能",
+		"type_CommonTicketType": 1,
+		"icon_id": 1000004
+	},
+	{
+		"ID": 2000020,
+		"name": "めあたまコラボコイン",
+		"description": "めあたまコラボイベントで手に入るコイン。コイン交換所で交換が可能。※期限後に姫石への変換はございません",
+		"type_CommonTicketType": 2,
+		"icon_id": 2000020
+	},
+	{
+		"ID": 4000010,
+		"name": "軍団戦コイン",
+		"description": "軍団戦イベントで手に入るコイン。コイン交換所で交換が可能。※期限後に姫石への変換はございません",
+		"type_CommonTicketType": 1,
+		"icon_id": 4000001
+	},
+	{
+		"ID": 1000110,
+		"name": "与一コイン",
+		"description": "対象のガチャから手に入るコイン。コイン交換所で交換が可能。※期限後に姫石への変換はございません。",
+		"type_CommonTicketType": 1,
+		"icon_id": 1000001
+	},
+	{
+		"ID": 1000111,
+		"name": "ウコンバサラ召喚コイン",
+		"description": "対象のガチャから手に入るコイン。コイン交換所で交換が可能",
+		"type_CommonTicketType": 1,
+		"icon_id": 1000002
+	},
+	{
+		"ID": 2000021,
+		"name": "600万DL記念軍団戦コイン",
+		"description": "軍団戦イベントで手に入るコイン。コイン交換所で交換が可能。※期限後に姫石への変換はございません",
+		"type_CommonTicketType": 2,
+		"icon_id": 0
+	},
+	{
+		"ID": 1000112,
+		"name": "フリズスキャールヴコイン",
+		"description": "対象のガチャから手に入るコイン。コイン交換所で交換が可能。※期限後に姫石への変換はございません。",
+		"type_CommonTicketType": 1,
+		"icon_id": 1000003
+	},
+	{
+		"ID": 1000113,
+		"name": "シェキナーコイン",
+		"description": "対象のガチャから手に入るコイン。コイン交換所で交換が可能。※期限後に姫石への変換はございません。",
+		"type_CommonTicketType": 1,
+		"icon_id": 1000004
+	},
+	{
+		"ID": 1000114,
+		"name": "フライシュッツコイン",
+		"description": "対象のガチャから手に入るコイン。コイン交換所で交換が可能。※期限後に姫石への変換はございません。",
+		"type_CommonTicketType": 1,
+		"icon_id": 1000001
+	},
+	{
+		"ID": 2000022,
+		"name": "エイプリルフールコイン",
+		"description": "エイプリルフールイベントで手に入るコイン。コイン交換所で交換が可能。※期限後に姫石への変換はございません",
+		"type_CommonTicketType": 2,
+		"icon_id": 2000022
+	},
+	{
+		"ID": 1000115,
+		"name": "リットゥコイン",
+		"description": "対象のガチャから手に入るコイン。コイン交換所で交換が可能。※期限後に姫石への変換はございません。",
+		"type_CommonTicketType": 1,
+		"icon_id": 1000002
+	},
+	{
+		"ID": 1000116,
+		"name": "アスカロン召喚コイン",
+		"description": "対象のガチャから手に入るコイン。コイン交換所で交換が可能。",
+		"type_CommonTicketType": 1,
+		"icon_id": 1000003
+	},
+	{
+		"ID": 1000117,
+		"name": "七支刀コイン",
+		"description": "対象のガチャから手に入るコイン。コイン交換所で交換が可能。※期限後に姫石への変換はございません。",
+		"type_CommonTicketType": 1,
+		"icon_id": 1000004
+	},
+	{
+		"ID": 2000023,
+		"name": "スライム倒して300年コラボコイン",
+		"description": "スライム倒して300年コラボイベントで手に入るコイン。コイン交換所で交換が可能。※期限後に姫石への変換はございません",
+		"type_CommonTicketType": 2,
+		"icon_id": 2000023
+	},
+	{
+		"ID": 1000118,
+		"name": "ベルフェゴールコイン",
+		"description": "対象のガチャから手に入るコイン。コイン交換所で交換が可能。※期限後に姫石への変換はございません。",
+		"type_CommonTicketType": 1,
+		"icon_id": 1000001
+	},
+	{
+		"ID": 1000119,
+		"name": "アズサ召喚コイン",
+		"description": "対象のガチャから手に入るコイン。コイン交換所で交換が可能。",
+		"type_CommonTicketType": 1,
+		"icon_id": 1000002
+	},
+	{
+		"ID": 1000120,
+		"name": "ライカ召喚コイン",
+		"description": "対象のガチャから手に入るコイン。コイン交換所で交換が可能。",
+		"type_CommonTicketType": 1,
+		"icon_id": 1000003
+	},
+	{
+		"ID": 1000121,
+		"name": "ハルカラ召喚コイン",
+		"description": "対象のガチャから手に入るコイン。コイン交換所で交換が可能。",
+		"type_CommonTicketType": 1,
+		"icon_id": 1000004
+	},
+	{
+		"ID": 6000001,
+		"name": "シークレットリーコイン",
+		"description": "対象のガチャなどから手に入るコイン。コイン交換所で交換が可能。※有効期限はございません。",
+		"type_CommonTicketType": 6,
+		"icon_id": 6000001
+	},
+	{
+		"ID": 1000122,
+		"name": "ぬりかべ召喚コイン",
+		"description": "対象のガチャから手に入るコイン。コイン交換所で交換が可能。",
+		"type_CommonTicketType": 1,
+		"icon_id": 1000002
+	},
+	{
+		"ID": 2000024,
+		"name": "ラグナドールコラボコイン",
+		"description": "ラグナドールコラボイベントで手に入るコイン。コイン交換所で交換が可能。※期限後に姫石への変換はございません",
+		"type_CommonTicketType": 2,
+		"icon_id": 0
+	},
+	{
+		"ID": 1000123,
+		"name": "滝夜叉姫召喚コイン",
+		"description": "対象のガチャから手に入るコイン。コイン交換所で交換が可能。",
+		"type_CommonTicketType": 1,
+		"icon_id": 1000003
+	},
+	{
+		"ID": 1000124,
+		"name": "アポロン召喚コイン",
+		"description": "対象のガチャから手に入るコイン。コイン交換所で交換が可能。",
+		"type_CommonTicketType": 1,
+		"icon_id": 1000004
+	},
+	{
+		"ID": 4000011,
+		"name": "軍団戦コイン",
+		"description": "軍団戦イベントで手に入るコイン。コイン交換所で交換が可能。※期限後に姫石への変換はございません",
+		"type_CommonTicketType": 1,
+		"icon_id": 4000001
+	},
+	{
+		"ID": 1000125,
+		"name": "マサムネ召喚コイン",
+		"description": "対象のガチャから手に入るコイン。コイン交換所で交換が可能。",
+		"type_CommonTicketType": 1,
+		"icon_id": 1000002
+	},
+	{
+		"ID": 4000012,
+		"name": "軍団戦コイン",
+		"description": "軍団戦イベントで手に入るコイン。コイン交換所で交換が可能。※期限後に姫石への変換はございません",
+		"type_CommonTicketType": 1,
+		"icon_id": 4000001
+	},
+	{
+		"ID": 1000126,
+		"name": "白雪みしろ召喚コイン",
+		"description": "対象のガチャから手に入るコイン。コイン交換所で交換が可能。",
+		"type_CommonTicketType": 1,
+		"icon_id": 1000003
+	},
+	{
+		"ID": 1000127,
+		"name": "鬼灯わらべ召喚コイン",
+		"description": "対象のガチャから手に入るコイン。コイン交換所で交換が可能。",
+		"type_CommonTicketType": 1,
+		"icon_id": 1000004
+	},
+	{
+		"ID": 4000013,
+		"name": "軍団戦コイン",
+		"description": "軍団戦イベントで手に入るコイン。コイン交換所で交換が可能。※期限後に姫石への変換はございません",
+		"type_CommonTicketType": 1,
+		"icon_id": 4000001
+	},
+	{
+		"ID": 1000128,
+		"name": "メギド召喚コイン",
+		"description": "対象のガチャから手に入るコイン。コイン交換所で交換が可能。",
+		"type_CommonTicketType": 1,
+		"icon_id": 1000002
+	},
+	{
+		"ID": 4000014,
+		"name": "軍団戦コイン",
+		"description": "軍団戦イベントで手に入るコイン。コイン交換所で交換が可能。※期限後に姫石への変換はございません",
+		"type_CommonTicketType": 1,
+		"icon_id": 4000001
+	},
+	{
+		"ID": 2000025,
+		"name": "8th Anniversaryコイン",
+		"description": "8周年の各イベントで手に入るコイン。コイン交換所で交換が可能。※期限後に姫石への変換はございません",
+		"type_CommonTicketType": 2,
+		"icon_id": 2000025
+	},
+	{
+		"ID": 4000015,
+		"name": "軍団戦コイン",
+		"description": "軍団戦イベントで手に入るコイン。コイン交換所で交換が可能。※期限後に姫石への変換はございません",
+		"type_CommonTicketType": 1,
+		"icon_id": 4000015
+	},
+	{
+		"ID": 4000016,
+		"name": "軍団戦コイン",
+		"description": "軍団戦イベントで手に入るコイン。コイン交換所で交換が可能。※期限後に姫石への変換はございません",
+		"type_CommonTicketType": 1,
+		"icon_id": 4000001
+	},
+	{
+		"ID": 1000129,
+		"name": "エンメル召喚コイン",
+		"description": "対象のガチャから手に入るコイン。コイン交換所で交換が可能。",
+		"type_CommonTicketType": 1,
+		"icon_id": 1000003
+	},
+	{
+		"ID": 1000130,
+		"name": "超ファンギル祭コイン",
+		"description": "超ファンギル祭で手に入るコイン。コイン交換所で交換が可能。※期限後に姫石への変換はございません。",
+		"type_CommonTicketType": 1,
+		"icon_id": 1000045
+	},
+	{
+		"ID": 4000017,
+		"name": "軍団戦コイン",
+		"description": "軍団戦イベントで手に入るコイン。コイン交換所で交換が可能。※期限後に姫石への変換はございません",
+		"type_CommonTicketType": 1,
+		"icon_id": 4000015
+	},
+	{
+		"ID": 1000131,
+		"name": "超ファンギル祭コイン",
+		"description": "超ファンギル祭で手に入るコイン。コイン交換所で交換が可能。※期限後に姫石への変換はございません。",
+		"type_CommonTicketType": 1,
+		"icon_id": 1000045
+	},
+	{
+		"ID": 1000132,
+		"name": "超ファンギル祭コイン",
+		"description": "超ファンギル祭で手に入るコイン。コイン交換所で交換が可能。※期限後に姫石への変換はございません。",
+		"type_CommonTicketType": 1,
+		"icon_id": 1000045
+	},
+	{
+		"ID": 1000133,
+		"name": "超ファンギル祭コイン",
+		"description": "超ファンギル祭で手に入るコイン。コイン交換所で交換が可能。※期限後に姫石への変換はございません。",
+		"type_CommonTicketType": 1,
+		"icon_id": 1000045
+	},
+	{
+		"ID": 4000018,
+		"name": "軍団戦コイン",
+		"description": "軍団戦イベントで手に入るコイン。コイン交換所で交換が可能。※期限後に姫石への変換はございません",
+		"type_CommonTicketType": 1,
+		"icon_id": 4000001
+	},
+	{
+		"ID": 1000134,
+		"name": "超ファンギル祭コイン",
+		"description": "超ファンギル祭で手に入るコイン。コイン交換所で交換が可能。※期限後に姫石への変換はございません。",
+		"type_CommonTicketType": 1,
+		"icon_id": 1000045
+	},
+	{
+		"ID": 1000135,
+		"name": "マスターコイン",
+		"description": "ミッション報酬などで手に入るコイン。コイン交換所で様々な育成素材と交換が可能。※期限後に姫石への変換はございません。",
+		"type_CommonTicketType": 1,
+		"icon_id": 6000002
+	}
+]

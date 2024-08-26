@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 96003398,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# se \"SE_0733\"\n# face %(unit_a)s \"usual\"\n# voice 6003 \"tyurusosu_0013\"\n@テュルソス\n…ふぅ、思った通りね\n\n@テュルソス\nやっぱりマスターは、\n私のことあんまりわかってないかも\n\n# voice 6003 \"tyurusosu_0001\"\n# face %(unit_a)s \"sad\"\n@テュルソス\nあのね、マスター？\n私はお酒だけじゃないんだから\n\n@テュルソス\nま、まあ、お酒が一番\n大好きなのは認めるけど…\n\n# eye %(unit_a)s \"close\"\n@テュルソス\nそれ以外の私も、\nマスターには知ってもらいたいからさ\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"usual\"\n@テュルソス\nこれからも、\nこういうクイズを\nどんどん出していくから\n\n# face %(unit_a)s \"smile\"\n# voice 6003 \"tyurusosu_0004\"\n@テュルソス\n私のこと、\nちゃ～んと勉強しておいてね♪\n\n# voice 6003 \"tyurusosu_0036\"\n@テュルソス\nこれでもマスターには、\nけっこう期待してるんだから！\n\n# textflame 0 0\n@\nテュルソスはそう言うと、\n期待のこもった瞳を\nこちらに向ける\n\n@\n彼女の期待に応えるためにも\n次のクイズには\n絶対に正解するぞ…\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

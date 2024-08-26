@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 200822,
+		"script": "# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_onsen\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# voice 2008 \"perun_0005\"\n@ペルーン\nそれそれぇ♪\nマスター、わかってるぅ！\n\n# textflame 1 1\n@ペルーン\nもっと渋い声でいってぇ！\nこう、お腹のそこから\n思わずこぼれ出る感じで…！\n\n# textflame 0 0\n@\nペルーンのリクエストに\n精一杯応えるマスター\n\n# textflame 1 1\n@ペルーン\nおしいなぁ…♪\n若さがにじみ出ちゃってるなぁ…！\n\n# textflame 0 0\n@\nそう言いながらも\nペルーンは満面の笑みである\n\n# textflame 1 1\n@ペルーン\nマスターがおじいちゃんになったら\n毎日温泉につかれるお家に\n引っ越そうね！\n\n# textflame 1 1\n# voice 2008 \"perun_0020\"\n@ペルーン\nそれで、毎日…\n極楽～極楽～♪\nって！楽しそうだねぇ～…！\n\n# textflame 0 0\n@\n湯けむりの向こうの\nはるか未来に\n思いを馳せる二人だった――\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

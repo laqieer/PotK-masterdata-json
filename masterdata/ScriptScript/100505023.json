@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 100505023,
+		"script": "# background \"400_angel_town_daytime\"\n# bgmfile \"bgm276\" \"BgmLostRagnarokEvent\" 0\n# body 3103811\n# pos 3103811 3\n# mask 3103811 off\n# scale 3103811 0.8 0\n# alpha 3103811 0 0\n# body 3200111\n# pos 3200111 4\n# scale 3200111 0.8 0\n# alpha 3200111 0 0\n# body 3104011\n# pos 3104011 4\n# scale 3104011 0.8 0\n# body 3104111\n# pos 3104111 2\n# scale 3104111 0.8 0\n# body 3300111\n# mask 3300111 off\n# pos 3300111 3\n# scale 3300111 0.8 0\n# alpha 3300111 0 0\n# body 3501711\n# pos 3501711 3\n# mask 3501711 off\n# scale 3501711 0.8 0\n# alpha 3501711 0 0\n# textwindow \"nomal\"\n# textflame 1 1\n# textboxarrow 0 3\n# face 3104011 \"happy\"\n# voice 1040 \"morallta_0021\"\n@モラルタ\nおおっと～！\nここでグリモワールちゃん\nお得意の火炎攻撃だ～っ\n\n@モラルタ\nこれは効いてるかっ？\n効いているのか、弟く～ん？\n\n# voice 1041 \"beagallta_0009\"\n# textboxarrow 0 1\n# face 3104111 \"usual\"\n@ベガルタ\nええと、火炎攻撃ってなに…？\n全く熱くないんだけど…\n\n# textboxarrow 0 3\n@モラルタ\nざんね～ん！\nグリモワールちゃんの攻撃、\n空振り～っ\n\n# voice 350171 \"grimoire_ge_0009\"\n# alpha 3104011 0 0.5\n# alpha 3104111 0 0.5\n# alpha 3501711 1 0.5\n# textboxarrow 0 2\n# face 3501711 \"surprise\"\n@グリモワール\nはぁっ？\nなんなのよ、こいつらっ…\n\n# voice 1038 \"almace_0028\"\n# face 3103811 \"worry\"\n# alpha 3103811 1 0.5\n# alpha 3501711 0 0.5\n@アルマス\nあの二人、遊んでる…\n"
+	}
+]

@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 2401913,
+		"script": ";;A\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_cafe\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# face %(unit_a)s \"angry\"\n# voice 540191 \"failnaught_ca_0023\"\n@フェイルノート\nなっ…どこにっ！？\n\n@フェイルノート\nい、いえ、いいわ\nクリームくらい自分で…！\n\n@フェイルノート\nどうせこの辺りに…\nついてない、わね\n\n@フェイルノート\nこっちも違う…\nここも…あ、あら…？\n\n# voice 540191 \"failnaught_ca_0009\"\n@フェイルノート\nわ、笑わないでちょうだいっ！\nくぅうう～っ…！\n\n# face %(unit_a)s \"sad\"\n# voice 540191 \"failnaught_ca_0013\"\n@フェイルノート\nはぁ…もういいわ\nお前様が拭いなさい\n\n@フェイルノート\nいい？\n私に触れる許可なんて\n滅多に出さないのだから\n\n# face %(unit_a)s \"angry\"\n@フェイルノート\n光栄に思…わぷっ！？\nち、ちょっと…むう～っ！\n\n# voice 540191 \"failnaught_ca_0010\"\n@フェイルノート\nお・ま・え・さ・ま～？\nわざと雑にやったでしょう…！\n\n@フェイルノート\n綺麗になった？うるさい！\nごまかそうとしても無駄よ！\n\n@フェイルノート\nほら、お前様の顔も\nクリームだらけじゃない\n拭ってあげる…！\n\n@フェイルノート\nいいから早く！\n私に顔を向けなさいっ！\n\n# textflame 0 0\n@\n顔を乱暴にこすられ\n悲鳴を上げてしまうマスター\n\n@\n仲良しな二人の様子に、\n店内にはくすくすと\n微笑みがこぼれたのだった\n;;-----------------------------------------\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

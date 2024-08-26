@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 10252201,
+		"script": ";;【村人・ムラマサ】\n;;習得スキル：攻撃想定\n;;【EP1】(フリ)\n# script \"lisp\"\n# background \"forest\"\n# bgm \"bgm002\" 0\n# body 102521\n# mask 102521 off\n# pos 102521 3\n# alpha 102521 0 0\n# textflame 0 0\n@\n隊に新しく入った姫・ムラマサ\n\n@\nしかし彼女は、\nマスター達の知る\nムラマサとは違っており…\n\n;;吹き出し大きく\n# alpha 102521 1 0.5\n# textflame 1 1\n# textboxarrow 0 2\n# chara 102521\n# textsize 36\n# voice 1025 \"muramasa_battle_0003\"\n# face 102521 \"angry\"\n@ムラマサ\nやぁっ！\n\n# textsize 24\n# face 102521 \"surprise\"\n@ムラマサ\nはぁ…はぁ…はぁ…\n\n# voice 1025 \"muramasa_kyara_1004\"\n@ムラマサ\n…あ、主君！\n\n# textflame 0 0\n@\n森で剣の修行中だった彼女\n\n# textflame 1 1\n# textboxarrow 0 2\n# chara 102521\n# face 102521 \"sad\"\n@ムラマサ\nやっぱり…\n\n# voice 1025 \"muramasa_0019\"\n@ムラマサ\nダメですね、私…\n\n# textflame 0 0\n@\nいきなりどうしたの？\nマスターが尋ねる\n\n# textflame 1 1\n# textboxarrow 0 2\n# chara 102521\n@ムラマサ\nやはり私は、\nこの世界の住人じゃ\nないんです…\n\n# voice 1025 \"muramasa_0013\"\n@ムラマサ\n特訓を重ねても…\n全然強くなれないし…\n\n# textflame 0 0\n@\nそうかな？とマスター\n\n# textflame 1 1\n# textboxarrow 0 2\n# chara 102521\n@ムラマサ\nそうですよ…主君は私を\nよくこっちの世界のムラマサと\n似ていると仰いますが…\n\n@ムラマサ\n私は彼女のように\n強くもないし、\n剣も持っていない…\n\n# voice 1025 \"muramasa_0017\"\n@ムラマサ\n全然、別物…\n劣化版なんです…\n\n# textflame 0 0\n@\n悲し気な目を落とす彼女\n\n@\n彼女は似てないと言うが…\n自信がないところなんかも\nそっくりなんだけどな…\n\n@\nそう思ってしまうマスターだった\n\n# textflame 1 1\n# textboxarrow 0 2\n# chara 102521\n@ムラマサ\nせめて…強力な剣があれば…"
+	}
+]

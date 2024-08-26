@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 110204002,
+		"script": "# script \"lisp\"\n# background \"plain\"\n# bgmfile \"bgm400_1\" \"BgmIntegralNoahEvent\" 0\n# body 103611\n# pos 103611 2\n# scale 103611 0.8 0\n# body 196\n# pos 196 4\n# scale 196 0.8 0\n# layer 103611 1\n# layer 196 2\n# mask 103611 off\n# mask 196 off\n# textwindow \"nomal\"\n# face 103611 \"usual\"\n# face 196 \"normal\"\n# textflame 1 1\n# textboxarrow 0 3\n# voice 9943 \"almace_navikan_0001\"\n@アルマス\nお疲れ様\nこの初心者クエストを\n最後までクリアすると\n\n# face 196 \"happy\"\n# voice 9943 \"almace_navikan_0006\"\n@アルマス\n姫石がたくさんもらえるから\n絶・頑張って！\n\n# textboxarrow 0 1\n# voice 1036 \"ragnarok_0001\"\n@ラグナロク\nクエストの中には\n『メタルガーデン』といって\n\n# textboxarrow 0 1\n@ラグナロク\n経験値が大量に獲得できる\nクエストもあるわ\n\n# face 196 \"normal\"\n# textboxarrow 0 3\n# voice 9943 \"almace_navi_0063\"\n@アルマス\n『メタルガーデン』には、\n色々な種類があるのよ\nね、ラグナロク\n\n# textboxarrow 0 1\n# voice 1036 \"ragnarok_0003\"\n@ラグナロク\nええ、『封鍵の庭園』という\n専用の鍵で解放できるクエストでは\nさらに大量の経験値が獲得できるわ\n\n# textboxarrow 0 3\n@アルマス\n今回は私が特別に\nこの『メタルキー』をあげるわ\n\n# face 196 \"happy\"\n# textboxarrow 0 3\n@アルマス\nチャレンジしてみて"
+	}
+]

@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 291002199,
+		"script": ";;//正解\n# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body 2100221\n# pos 2100221 3\n# mask 2100221 off\n# chara 2100221\n# fadein \"black\" 0.5\n# textflame 1 1\n# face 2100221 \"smile\"\n# se \"SE_0732\"\n# voice 210022 \"revatein_k_0006\"\n@レーヴァテイン\nうん、正解だよマスター\n\n;;モノローグ\n# textflame 0 0\n@\nどこか満足そうな彼女に、\n突然クイズを出してきた理由を\n尋ねる\n\n# textflame 1 1\n@レーヴァテイン\n別に…\nちょっとそんな気分に\nなっただけ\n\n;;モノローグ\n# textflame 0 0\n@\nそっけないが、\nどこか嬉しそうな表情に\n思わず見蕩れてしまう\n\n# face 2100221 \"normal\"\n# textflame 1 1\n@レーヴァテイン\n…さ、確認は済んだし帰ろう…\nほら、マスターも…\n\n;;モノローグ\n# textflame 0 0\n@\nそう言って早足で歩き出す彼女\nその後ろを急いでついていく\n\n;;モノローグ\n@\nそういえば、クイズの内容は\n彼女―レーヴァテインのことだった\n\n;;モノローグ\n@\nもしかしたら、\n自分がレーヴァテインのことを\n知っていたのが嬉しかったのだろうか\n\n;;モノローグ\n@\nそれが事実かは分からないが、\n先を歩く彼女の足取りは\n普段より軽やかだった…\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

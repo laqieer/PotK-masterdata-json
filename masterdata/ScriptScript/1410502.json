@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 1410502,
+		"script": ";;バトル\n;;【４－１－２（バトル後）】\n# background \"004_outland\"\n# bgm \"bgm005\" 0\n# body 24\n# pos 24 1\n# scale 24 0.8 0\n# alpha 24 1 0\n# body 4\n# pos 4 5\n# scale 4 0.8 0\n# alpha 4 1 0\n# body 0\n# pos 0 3\n# scale 0 0.8 0\n# alpha 0 1 0\n# body 6\n# pos 6 3\n# scale 6 0.8 0\n# alpha 6 0 0\n# textboxarrow 0 1\n# voice 1014 \"tyrufing_0010\"\n# face 24 \"angry\"\n@ティルフィング\n私は反対よ！\nトトは、必ず王都に連れて行く！\n\n# textboxarrow 0 3\n# voice 9998 \"toto_0053\"\n@トト\nティルフィング…！\n\n# textboxarrow 0 2\n@デュリン\nいや、でもさ…\n\n# textboxarrow 0 1\n# face 24 \"angry\"\n@ティルフィング\n“祀官様”\n…ナパルさんとの約束でしょ！？\n\n@ティルフィング\n王都のフレンネル公の元へ\nトトを連れてゆく…\n\n# textboxarrow 0 1\n@ティルフィング\nそれは、ナパルさんが命を賭して\n私達に託した使命じゃない！\n\n# alpha 6 1 0.5\n# alpha 0 0 0.5\n# textboxarrow 0 2\n@ディーン\nチッ…\nさすがは“悪魔の子”ナパル…\n余計なお荷物を遺してくれるぜ\n\n# voice 1014 \"tyrufing_0009\"\n# textboxarrow 0 1\n@ティルフィング\n…なんですか？\n\n# textboxarrow 0 2\n@ディーン\nい、いや…！\nそうか、\nティルフィングは反対なのか…\n\n# face 4 \"angry\"\n# textboxarrow 0 3\n@トト\n当たり前だろ！\nティルフィングは、\nいつだって僕の味方だもん！\n\n@トト\n部外者は、どっか行ってろよ！\n\n# textboxarrow 0 2\n# face 6 \"angry\"\n# voice 9997 \"deen_0010\"\n@ディーン\nぐぬ…このクソガキ…っ！\n\n# alpha 6 0 0.5\n# alpha 0 1 0.5\n# textboxarrow 0 2\n@デュリン\nともかく、\n教会に掛け合ってみないことには\n始まらない…急ぎましょう"
+	}
+]

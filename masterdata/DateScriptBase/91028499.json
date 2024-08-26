@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 91028499,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# se \"SE_0732\"\n# voice 1028 \"dainsleif_0001\"\n@ダーインスレイヴ\nおぬし…\n\n# voice 1028 \"dainsleif_0004\"\n# face %(unit_a)s \"normal\"\n@ダーインスレイヴ\nちゃんと\n分かってくれていたのだな\n\n# voice 1028 \"dainsleif_0020\"\n@ダーインスレイヴ\n嬉しいぞ…\n\n# eye %(unit_a)s \"close\"\n@ダーインスレイヴ\n誓おう\n\n# eye %(unit_a)s \"normal\"\n# voice 1028 \"dainsleif_0003\"\n@ダーインスレイヴ\n決しておぬしを…\n不幸にせぬことを…\n\n@ダーインスレイヴ\n幸福へと…導くことを…\n\n# face %(unit_a)s \"usual\"\n@ダーインスレイヴ\nでは、行こうか\nマスター\n\n# textflame 0 0\n@\nと、手を差し出す彼女\n\n@\nその顔はとても幸せそうで…\n\n@\nマスターは彼女との絆が\nより一層強く深まったのを\n実感した…\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

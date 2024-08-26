@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 94006198,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# se \"SE_0733\"\n# face %(unit_a)s \"sad\"\n# voice 4006 \"azusa_0013\"\n@梓弓\n残念…不正解です\n\n@梓弓\nやはり、急な出題でしたから\nマスターの心の準備が\n出来ていなかったんでしょうね\n\n@梓弓\nまた別な機会に、\nこうした問題を出題することも\nあると思いますので…\n\n# face %(unit_a)s \"normal\"\n@梓弓\nその時には、\nぜひ正解して下さいね？\nでは、まいりま…\n\n# face %(unit_a)s \"sad\"\n# voice 4006 \"azusa_0022\"\n@梓弓\nはうあ！？\n\n# voice 4006 \"azusa_0001\"\n@梓弓\nマスター！\nこちらの道からまいりましょう\nそちらの道はイヤな予感がします\n\n@梓弓\n少々遠回りですが…\nでも、その方がわたくしのことを\nしっかりと観察できるでしょうから…\n\n# textflame 0 0\n@\n梓弓はそう言って顔を赤くした\n次はしっかりと\n答えられるようにしなければ！\n\n@\nそう決意し、\n梓弓の隣を歩くマスターであった\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

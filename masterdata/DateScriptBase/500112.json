@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 500112,
+		"script": ";;選択肢C(大当たり)\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_church\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# voice 5001 \"keraunosu_0013\"\n# eye %(unit_a)s \"close\"\n@ケラウノス\n私なんでもできちゃうからな～\n祈るようなこともないし\n\n# eye %(unit_a)s \"normal\"\n# textflame 0 0\n@\nケラウノスはそう言って\nどこかつまらなそうに\n天井を仰いだ\n\n# textflame 0 0\n@\nサラ…と彼女の青い髪が揺れる\n\n# textflame 1 1\n@ケラウノス\n結局…自力で\nなんとかするしかないでしょ？\n祈って済むならみんなしてるよ\n\n# textflame 1 1\n@ケラウノス\nそんなんだったらさ\n神様なんていらないよね～\nなにしてくれるわけでもないし\n\n# textflame 0 0\n@\nケラウノスは\n天井画の天使達を\n眺めたままつぶやく\n\n# voice 5001 \"keraunosu_0004\"\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@ケラウノス\n…ま、私は私で\n勝手に好きにやるけど\n\n# voice 5001 \"keraunosu_0002\"\n# textflame 1 1\n@ケラウノス\n君のために祈るのなら…\n悪くないかなって思うかな\n\n# textflame 0 0\n@\nそう言ってマスターを\n見つめるケラウノスは\nまるで女神のように見えた――\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

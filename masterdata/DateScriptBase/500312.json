@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 500312,
+		"script": "# script \"lisp\"\n# fadein \"black\" 0.5\n# background %(background)s\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n;; face %(unit_a)s \"close\"\n# textflame 1 1\n# voice 5003 \"yatanokagami_0039\"\n@八咫鏡\nふっ、そうじゃのう…\n人の数ほどあるもの\nなのかもしれんな\n\n# face %(unit_a)s \"angry\"\n# textflame 1 1\n@八咫鏡\nここには一柱の神しかおらんが\nその考え方は\nわらわとは相容れん\n\n# face 5003 \"yatanokagami_0003\"\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n@八咫鏡\nしかし、否定しようなどとは\nこれっぽっちも思わん\n\n# textflame 0 0\n@\n気軽に聞いたにも関わらず\n八咫鏡から返ってきたのは\n少し、難しい話だった\n\n;; face %(unit_a)s \"close\"\n# textflame 1 1\n@八咫鏡\n瑣末なことじゃよ\nいつの世も…\n時代を転がすのは人間じゃ\n\n# face %(unit_a)s \"usual\"\n# textflame 0 0\n@\n八咫鏡は清らかな瞳で\nマスターをまっすぐに見つめる\n\n# voice 5003 \"yatanokagami_0029\"\n# textflame 1 1\n@八咫鏡\nお主のあり方、信じるもの\nそれを貫くがよい\n\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@八咫鏡\nそういう姿が\nわらわは好きじゃぞ\n\n# textflame 0 0\n@\n差し込む光が照らした八咫鏡は\n美しく輝いて、なんだか本当に\n神様みたいだった――\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 100723,
+		"script": ";;水着かわいいね！　中\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_onsen\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# voice 1007 \"Arondaito_0030\"\n@アロンダイト\nえ！？\nありがとうございます！\n\n# face %(unit_a)s \"angry\"\n# voice 1007 \"Arondaito_0009\"\n@アロンダイト\n…って、誤魔化されませんよ！\n\n@アロンダイト\nだいたい、言うなら\nもっと、こうムードと言うか…\n\n@アロンダイト\nというか不義！不義です\n騎士にかわいさなど\n求めないでいただきたい！\n\n@アロンダイト\nそもそも主君と騎士の\n関係というのはですね…\n\n# textflame 0 0\n@\n一生懸命説教する\nアロンダイトと\n極楽の湯船を楽しんだ…\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

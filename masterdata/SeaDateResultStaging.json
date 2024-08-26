@@ -1,0 +1,30 @@
+[
+	{
+		"ID": 1,
+		"name": "最大",
+		"trust_min": 4.0,
+		"trust_max": 0.0,
+		"home_result_SeaHomeResult": 1
+	},
+	{
+		"ID": 2,
+		"name": "高",
+		"trust_min": 2.5,
+		"trust_max": 4.0,
+		"home_result_SeaHomeResult": 2
+	},
+	{
+		"ID": 3,
+		"name": "中",
+		"trust_min": 0.20000000298023224,
+		"trust_max": 2.5,
+		"home_result_SeaHomeResult": 3
+	},
+	{
+		"ID": 4,
+		"name": "低",
+		"trust_min": 0.0,
+		"trust_max": 0.20000000298023224,
+		"home_result_SeaHomeResult": 4
+	}
+]

@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 401122,
+		"script": ";;A\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_fireworks\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# face %(unit_a)s \"sad\"\n# voice 4011 \"madoka_0028\"\n# textflame 1 1\n@%(unitName:unit_a)s\nううんと…\n\n@%(unitName:unit_a)s\nもし戻れたなら、\nって考えることは\n何度もあるけど\n\n# face %(unit_a)s \"angry\"\n@%(unitName:unit_a)s\nでも今は、\nわたしにできることを\n精一杯がんばりたい\n\n@%(unitName:unit_a)s\nこっちの世界で\n困ってる人たちを、\nもっと助けたいって思ってるよ\n\n# face %(unit_a)s \"normal\"\n# voice 4011 \"madoka_0003\"\n@%(unitName:unit_a)s\nそうすればいつかきっと、\n見滝原のみんなに\nまた会えるって思うから\n\n# face %(unit_a)s \"happy\"\n# voice 4011 \"madoka_0001\"\n@%(unitName:unit_a)s\n…ふふふっ\nあなたは本当に優しいね、\nマスター\n\n# voice 4011 \"madoka_0004\"\n@%(unitName:unit_a)s\nこれからも一緒にがんばろうね！\n約束だよ？\n…えへへっ！\n\n# textflame 0 0\n@\nきらびやかな花火の下で、\n共闘の契りを交わす二人\n\n@\n二人はそれから何も言わず、\n静かに花火を見上げていた…\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

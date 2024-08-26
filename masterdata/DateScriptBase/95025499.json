@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 95025499,
+		"script": ";;//正解\n# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# face %(unit_a)s \"happy\"\n# voice 5025 \"megumin_0004\"\n# se \"SE_0732\"\n@めぐみん\n正解です、マスター！\n\n@めぐみん\n安心しました\nてっきり私のことを\n知らないかと思っていたので…\n\n@めぐみん\n…………\n\n@めぐみん\n少し遠回りして帰りましょうか\n\n# face %(unit_a)s \"irregular\"\n# voice 5025 \"megumin_0005\"\n@めぐみん\nでは今度はマスターが\n私にクイズを出してください\n\n# face %(unit_a)s \"shy\"\n@めぐみん\n私が全問正解してさしあげますよ！\n\n# textflame 0 0\n@\n照れた表情を浮かべる\nめぐみん\n\n@\nその笑顔が続くよう\nめぐみんが喜ぶようにと\n\n@\n爆裂魔法のことについて\n答えも知らないコアな\n問題を出しながら帰った\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

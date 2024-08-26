@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 501412,
+		"script": ";;A\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_shop\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# face %(unit_a)s \"happy\"\n# voice 5014 \"mami_0040\"\n# textflame 1 1\n@%(unitName:unit_a)s\n素敵！\nちょうど新調しようと\n思ってたところなの\n\n# face %(unit_a)s \"sad\"\n# voice 5014 \"mami_0028\"\n@%(unitName:unit_a)s\nでも…いいの？\nそのティーセット、\nけっこう高いわよ？\n\n@%(unitName:unit_a)s\nこっちなら、\nもう少し手頃な\n値段で買えるみたいだけど…\n\n# textflame 0 0\n@\nいつも、力を貸してくれてるから、\nその感謝の気持ちだよ\nとマスターは笑顔で答える\n\n# face %(unit_a)s \"happy\"\n# voice 5014 \"mami_0005\"\n# textflame 1 1\n@%(unitName:unit_a)s\n…ふふふっ\nマスターって\n変なところで強情よね？\n\n# voice 5014 \"mami_0030\"\n@%(unitName:unit_a)s\nとっても嬉しいわ\nありがとう、マスター！\n\n@%(unitName:unit_a)s\nそうだ！\nお礼に私も、とっておきの茶葉を\nプレゼントしてあげるわね\n\n@%(unitName:unit_a)s\nそのティーセットを使って、\n二人で紅茶を楽しみましょう♪\n\n# textflame 0 0\n@\n満面の笑みを浮かべるマミに\nマスターも安心した表情を見せる\n\n@\n買い物を続けながら、\n午後のティータイムを\n待ち遠しく思う二人だった…\n\n;;-----------------------------------------\n# waitandnext 2\n# fadeout \"black\" 1.2\n"
+	}
+]

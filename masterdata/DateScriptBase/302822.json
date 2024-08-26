@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 302822,
+		"script": ";;Bも、もちろんだよ大\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_onsen\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# face %(unit_a)s \"happy\"\n# textflame 1 1\n@ヘレナ\nへえ？自信があるみたいだな\n強がりじゃなければいいが…くふっ\n\n# face %(unit_a)s \"usual\"\n@ヘレナ\nところで先輩、\nヘレナの水着を見て\nなにか思うことはあるか？\n\n# voice 3028 \"herena_a_0004\"\n@ヘレナ\n…くふっ、そうか\n露出も多いから\nドキドキしているんだな？\n\n# face %(unit_a)s \"close\"\n@ヘレナ\n実は、ヘレナもなんだ\nこんな格好を先輩に\n見られていると…\n\n@ヘレナ\n恥ずかしくて、顔が熱くなって…\nでも、もっと先輩に\n見てほしいと思ってしまう\n\n# face %(unit_a)s \"sad\"\n# voice 3028 \"herena_a_0002\"\n@ヘレナ\nなあ、先輩\n\n@ヘレナ\nもっと近くで、\nヘレナを見てくれないか…？\n\n# face %(unit_a)s \"happy\"\n# voice 3028 \"herena_a_0005\"\n@ヘレナ\n…くふふっ！\nさて、いまのは冗談か本音か…\n先輩はどっちだと思う？\n\n@ヘレナ\nおや、顔が赤いぞ？\n温泉のせい、って…くふっ\n先輩の嘘はわかりやすいな\n\n;;モノローグ\n# textflame 0 0\n@\nすっかり手玉に取られ\nマスターは赤い顔を背ける\n\n;;モノローグ\n@\nその後、心も体も温まり\n二人は温泉を後にした\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

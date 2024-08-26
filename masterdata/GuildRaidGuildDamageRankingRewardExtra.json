@@ -1,0 +1,602 @@
+[
+	{
+		"ID": 1121123011,
+		"period_GuildRaidPeriod": 112,
+		"condition_id_GuildRaidRankingRewardCondition": 112301,
+		"reward_type_CommonGuildRewardType": 1,
+		"reward_id": 1041,
+		"reward_quantity": 1
+	},
+	{
+		"ID": 1121123021,
+		"period_GuildRaidPeriod": 112,
+		"condition_id_GuildRaidRankingRewardCondition": 112302,
+		"reward_type_CommonGuildRewardType": 1,
+		"reward_id": 1042,
+		"reward_quantity": 1
+	},
+	{
+		"ID": 1121123031,
+		"period_GuildRaidPeriod": 112,
+		"condition_id_GuildRaidRankingRewardCondition": 112303,
+		"reward_type_CommonGuildRewardType": 1,
+		"reward_id": 1043,
+		"reward_quantity": 1
+	},
+	{
+		"ID": 1131133011,
+		"period_GuildRaidPeriod": 113,
+		"condition_id_GuildRaidRankingRewardCondition": 113301,
+		"reward_type_CommonGuildRewardType": 1,
+		"reward_id": 1041,
+		"reward_quantity": 1
+	},
+	{
+		"ID": 1131133021,
+		"period_GuildRaidPeriod": 113,
+		"condition_id_GuildRaidRankingRewardCondition": 113302,
+		"reward_type_CommonGuildRewardType": 1,
+		"reward_id": 1042,
+		"reward_quantity": 1
+	},
+	{
+		"ID": 1131133031,
+		"period_GuildRaidPeriod": 113,
+		"condition_id_GuildRaidRankingRewardCondition": 113303,
+		"reward_type_CommonGuildRewardType": 1,
+		"reward_id": 1043,
+		"reward_quantity": 1
+	},
+	{
+		"ID": 1141143011,
+		"period_GuildRaidPeriod": 114,
+		"condition_id_GuildRaidRankingRewardCondition": 114301,
+		"reward_type_CommonGuildRewardType": 1,
+		"reward_id": 1041,
+		"reward_quantity": 1
+	},
+	{
+		"ID": 1141143021,
+		"period_GuildRaidPeriod": 114,
+		"condition_id_GuildRaidRankingRewardCondition": 114302,
+		"reward_type_CommonGuildRewardType": 1,
+		"reward_id": 1042,
+		"reward_quantity": 1
+	},
+	{
+		"ID": 1141143031,
+		"period_GuildRaidPeriod": 114,
+		"condition_id_GuildRaidRankingRewardCondition": 114303,
+		"reward_type_CommonGuildRewardType": 1,
+		"reward_id": 1043,
+		"reward_quantity": 1
+	},
+	{
+		"ID": 1151153011,
+		"period_GuildRaidPeriod": 115,
+		"condition_id_GuildRaidRankingRewardCondition": 115301,
+		"reward_type_CommonGuildRewardType": 1,
+		"reward_id": 1041,
+		"reward_quantity": 1
+	},
+	{
+		"ID": 1151153021,
+		"period_GuildRaidPeriod": 115,
+		"condition_id_GuildRaidRankingRewardCondition": 115302,
+		"reward_type_CommonGuildRewardType": 1,
+		"reward_id": 1042,
+		"reward_quantity": 1
+	},
+	{
+		"ID": 1151153031,
+		"period_GuildRaidPeriod": 115,
+		"condition_id_GuildRaidRankingRewardCondition": 115303,
+		"reward_type_CommonGuildRewardType": 1,
+		"reward_id": 1043,
+		"reward_quantity": 1
+	},
+	{
+		"ID": 1161163011,
+		"period_GuildRaidPeriod": 116,
+		"condition_id_GuildRaidRankingRewardCondition": 116301,
+		"reward_type_CommonGuildRewardType": 1,
+		"reward_id": 1041,
+		"reward_quantity": 1
+	},
+	{
+		"ID": 1161163021,
+		"period_GuildRaidPeriod": 116,
+		"condition_id_GuildRaidRankingRewardCondition": 116302,
+		"reward_type_CommonGuildRewardType": 1,
+		"reward_id": 1042,
+		"reward_quantity": 1
+	},
+	{
+		"ID": 1161163031,
+		"period_GuildRaidPeriod": 116,
+		"condition_id_GuildRaidRankingRewardCondition": 116303,
+		"reward_type_CommonGuildRewardType": 1,
+		"reward_id": 1043,
+		"reward_quantity": 1
+	},
+	{
+		"ID": 1171173011,
+		"period_GuildRaidPeriod": 117,
+		"condition_id_GuildRaidRankingRewardCondition": 117301,
+		"reward_type_CommonGuildRewardType": 1,
+		"reward_id": 1041,
+		"reward_quantity": 1
+	},
+	{
+		"ID": 1171173021,
+		"period_GuildRaidPeriod": 117,
+		"condition_id_GuildRaidRankingRewardCondition": 117302,
+		"reward_type_CommonGuildRewardType": 1,
+		"reward_id": 1042,
+		"reward_quantity": 1
+	},
+	{
+		"ID": 1171173031,
+		"period_GuildRaidPeriod": 117,
+		"condition_id_GuildRaidRankingRewardCondition": 117303,
+		"reward_type_CommonGuildRewardType": 1,
+		"reward_id": 1043,
+		"reward_quantity": 1
+	},
+	{
+		"ID": 1181163011,
+		"period_GuildRaidPeriod": 118,
+		"condition_id_GuildRaidRankingRewardCondition": 118301,
+		"reward_type_CommonGuildRewardType": 1,
+		"reward_id": 1041,
+		"reward_quantity": 1
+	},
+	{
+		"ID": 1181163021,
+		"period_GuildRaidPeriod": 118,
+		"condition_id_GuildRaidRankingRewardCondition": 118302,
+		"reward_type_CommonGuildRewardType": 1,
+		"reward_id": 1042,
+		"reward_quantity": 1
+	},
+	{
+		"ID": 1181163031,
+		"period_GuildRaidPeriod": 118,
+		"condition_id_GuildRaidRankingRewardCondition": 118303,
+		"reward_type_CommonGuildRewardType": 1,
+		"reward_id": 1043,
+		"reward_quantity": 1
+	},
+	{
+		"ID": 1191163011,
+		"period_GuildRaidPeriod": 119,
+		"condition_id_GuildRaidRankingRewardCondition": 119301,
+		"reward_type_CommonGuildRewardType": 1,
+		"reward_id": 1041,
+		"reward_quantity": 1
+	},
+	{
+		"ID": 1191163021,
+		"period_GuildRaidPeriod": 119,
+		"condition_id_GuildRaidRankingRewardCondition": 119302,
+		"reward_type_CommonGuildRewardType": 1,
+		"reward_id": 1042,
+		"reward_quantity": 1
+	},
+	{
+		"ID": 1191163031,
+		"period_GuildRaidPeriod": 119,
+		"condition_id_GuildRaidRankingRewardCondition": 119303,
+		"reward_type_CommonGuildRewardType": 1,
+		"reward_id": 1043,
+		"reward_quantity": 1
+	},
+	{
+		"ID": 1201163011,
+		"period_GuildRaidPeriod": 120,
+		"condition_id_GuildRaidRankingRewardCondition": 120301,
+		"reward_type_CommonGuildRewardType": 1,
+		"reward_id": 1041,
+		"reward_quantity": 1
+	},
+	{
+		"ID": 1201163021,
+		"period_GuildRaidPeriod": 120,
+		"condition_id_GuildRaidRankingRewardCondition": 120302,
+		"reward_type_CommonGuildRewardType": 1,
+		"reward_id": 1042,
+		"reward_quantity": 1
+	},
+	{
+		"ID": 1201163031,
+		"period_GuildRaidPeriod": 120,
+		"condition_id_GuildRaidRankingRewardCondition": 120303,
+		"reward_type_CommonGuildRewardType": 1,
+		"reward_id": 1043,
+		"reward_quantity": 1
+	},
+	{
+		"ID": 1211163011,
+		"period_GuildRaidPeriod": 121,
+		"condition_id_GuildRaidRankingRewardCondition": 121301,
+		"reward_type_CommonGuildRewardType": 1,
+		"reward_id": 1041,
+		"reward_quantity": 1
+	},
+	{
+		"ID": 1211163021,
+		"period_GuildRaidPeriod": 121,
+		"condition_id_GuildRaidRankingRewardCondition": 121302,
+		"reward_type_CommonGuildRewardType": 1,
+		"reward_id": 1042,
+		"reward_quantity": 1
+	},
+	{
+		"ID": 1211163031,
+		"period_GuildRaidPeriod": 121,
+		"condition_id_GuildRaidRankingRewardCondition": 121303,
+		"reward_type_CommonGuildRewardType": 1,
+		"reward_id": 1043,
+		"reward_quantity": 1
+	},
+	{
+		"ID": 1221163011,
+		"period_GuildRaidPeriod": 122,
+		"condition_id_GuildRaidRankingRewardCondition": 122301,
+		"reward_type_CommonGuildRewardType": 1,
+		"reward_id": 1041,
+		"reward_quantity": 1
+	},
+	{
+		"ID": 1221163021,
+		"period_GuildRaidPeriod": 122,
+		"condition_id_GuildRaidRankingRewardCondition": 122302,
+		"reward_type_CommonGuildRewardType": 1,
+		"reward_id": 1042,
+		"reward_quantity": 1
+	},
+	{
+		"ID": 1221163031,
+		"period_GuildRaidPeriod": 122,
+		"condition_id_GuildRaidRankingRewardCondition": 122303,
+		"reward_type_CommonGuildRewardType": 1,
+		"reward_id": 1043,
+		"reward_quantity": 1
+	},
+	{
+		"ID": 1231163011,
+		"period_GuildRaidPeriod": 123,
+		"condition_id_GuildRaidRankingRewardCondition": 122301,
+		"reward_type_CommonGuildRewardType": 1,
+		"reward_id": 1041,
+		"reward_quantity": 1
+	},
+	{
+		"ID": 1231163021,
+		"period_GuildRaidPeriod": 123,
+		"condition_id_GuildRaidRankingRewardCondition": 122302,
+		"reward_type_CommonGuildRewardType": 1,
+		"reward_id": 1042,
+		"reward_quantity": 1
+	},
+	{
+		"ID": 1231163031,
+		"period_GuildRaidPeriod": 123,
+		"condition_id_GuildRaidRankingRewardCondition": 122303,
+		"reward_type_CommonGuildRewardType": 1,
+		"reward_id": 1043,
+		"reward_quantity": 1
+	},
+	{
+		"ID": 1251253011,
+		"period_GuildRaidPeriod": 125,
+		"condition_id_GuildRaidRankingRewardCondition": 125301,
+		"reward_type_CommonGuildRewardType": 1,
+		"reward_id": 1041,
+		"reward_quantity": 1
+	},
+	{
+		"ID": 1251253021,
+		"period_GuildRaidPeriod": 125,
+		"condition_id_GuildRaidRankingRewardCondition": 125302,
+		"reward_type_CommonGuildRewardType": 1,
+		"reward_id": 1042,
+		"reward_quantity": 1
+	},
+	{
+		"ID": 1251253031,
+		"period_GuildRaidPeriod": 125,
+		"condition_id_GuildRaidRankingRewardCondition": 125303,
+		"reward_type_CommonGuildRewardType": 1,
+		"reward_id": 1043,
+		"reward_quantity": 1
+	},
+	{
+		"ID": 1261263011,
+		"period_GuildRaidPeriod": 126,
+		"condition_id_GuildRaidRankingRewardCondition": 126301,
+		"reward_type_CommonGuildRewardType": 1,
+		"reward_id": 1041,
+		"reward_quantity": 1
+	},
+	{
+		"ID": 1261263021,
+		"period_GuildRaidPeriod": 126,
+		"condition_id_GuildRaidRankingRewardCondition": 126302,
+		"reward_type_CommonGuildRewardType": 1,
+		"reward_id": 1042,
+		"reward_quantity": 1
+	},
+	{
+		"ID": 1261263031,
+		"period_GuildRaidPeriod": 126,
+		"condition_id_GuildRaidRankingRewardCondition": 126303,
+		"reward_type_CommonGuildRewardType": 1,
+		"reward_id": 1043,
+		"reward_quantity": 1
+	},
+	{
+		"ID": 1281283011,
+		"period_GuildRaidPeriod": 128,
+		"condition_id_GuildRaidRankingRewardCondition": 128301,
+		"reward_type_CommonGuildRewardType": 1,
+		"reward_id": 1041,
+		"reward_quantity": 1
+	},
+	{
+		"ID": 1281283021,
+		"period_GuildRaidPeriod": 128,
+		"condition_id_GuildRaidRankingRewardCondition": 128302,
+		"reward_type_CommonGuildRewardType": 1,
+		"reward_id": 1042,
+		"reward_quantity": 1
+	},
+	{
+		"ID": 1281283031,
+		"period_GuildRaidPeriod": 128,
+		"condition_id_GuildRaidRankingRewardCondition": 128303,
+		"reward_type_CommonGuildRewardType": 1,
+		"reward_id": 1043,
+		"reward_quantity": 1
+	},
+	{
+		"ID": 1291293011,
+		"period_GuildRaidPeriod": 129,
+		"condition_id_GuildRaidRankingRewardCondition": 129301,
+		"reward_type_CommonGuildRewardType": 1,
+		"reward_id": 1041,
+		"reward_quantity": 1
+	},
+	{
+		"ID": 1291293021,
+		"period_GuildRaidPeriod": 129,
+		"condition_id_GuildRaidRankingRewardCondition": 129302,
+		"reward_type_CommonGuildRewardType": 1,
+		"reward_id": 1042,
+		"reward_quantity": 1
+	},
+	{
+		"ID": 1291293031,
+		"period_GuildRaidPeriod": 129,
+		"condition_id_GuildRaidRankingRewardCondition": 129303,
+		"reward_type_CommonGuildRewardType": 1,
+		"reward_id": 1043,
+		"reward_quantity": 1
+	},
+	{
+		"ID": 1301303011,
+		"period_GuildRaidPeriod": 130,
+		"condition_id_GuildRaidRankingRewardCondition": 130301,
+		"reward_type_CommonGuildRewardType": 1,
+		"reward_id": 1041,
+		"reward_quantity": 1
+	},
+	{
+		"ID": 1301303021,
+		"period_GuildRaidPeriod": 130,
+		"condition_id_GuildRaidRankingRewardCondition": 130302,
+		"reward_type_CommonGuildRewardType": 1,
+		"reward_id": 1042,
+		"reward_quantity": 1
+	},
+	{
+		"ID": 1301303031,
+		"period_GuildRaidPeriod": 130,
+		"condition_id_GuildRaidRankingRewardCondition": 130303,
+		"reward_type_CommonGuildRewardType": 1,
+		"reward_id": 1043,
+		"reward_quantity": 1
+	},
+	{
+		"ID": 1311313011,
+		"period_GuildRaidPeriod": 131,
+		"condition_id_GuildRaidRankingRewardCondition": 131301,
+		"reward_type_CommonGuildRewardType": 1,
+		"reward_id": 1041,
+		"reward_quantity": 1
+	},
+	{
+		"ID": 1311313021,
+		"period_GuildRaidPeriod": 131,
+		"condition_id_GuildRaidRankingRewardCondition": 131302,
+		"reward_type_CommonGuildRewardType": 1,
+		"reward_id": 1042,
+		"reward_quantity": 1
+	},
+	{
+		"ID": 1311313031,
+		"period_GuildRaidPeriod": 131,
+		"condition_id_GuildRaidRankingRewardCondition": 131303,
+		"reward_type_CommonGuildRewardType": 1,
+		"reward_id": 1043,
+		"reward_quantity": 1
+	},
+	{
+		"ID": 1321323011,
+		"period_GuildRaidPeriod": 132,
+		"condition_id_GuildRaidRankingRewardCondition": 132301,
+		"reward_type_CommonGuildRewardType": 1,
+		"reward_id": 1041,
+		"reward_quantity": 1
+	},
+	{
+		"ID": 1321323021,
+		"period_GuildRaidPeriod": 132,
+		"condition_id_GuildRaidRankingRewardCondition": 132302,
+		"reward_type_CommonGuildRewardType": 1,
+		"reward_id": 1042,
+		"reward_quantity": 1
+	},
+	{
+		"ID": 1321323031,
+		"period_GuildRaidPeriod": 132,
+		"condition_id_GuildRaidRankingRewardCondition": 132303,
+		"reward_type_CommonGuildRewardType": 1,
+		"reward_id": 1043,
+		"reward_quantity": 1
+	},
+	{
+		"ID": 1331333011,
+		"period_GuildRaidPeriod": 133,
+		"condition_id_GuildRaidRankingRewardCondition": 133301,
+		"reward_type_CommonGuildRewardType": 1,
+		"reward_id": 1041,
+		"reward_quantity": 1
+	},
+	{
+		"ID": 1331333021,
+		"period_GuildRaidPeriod": 133,
+		"condition_id_GuildRaidRankingRewardCondition": 133302,
+		"reward_type_CommonGuildRewardType": 1,
+		"reward_id": 1042,
+		"reward_quantity": 1
+	},
+	{
+		"ID": 1331333031,
+		"period_GuildRaidPeriod": 133,
+		"condition_id_GuildRaidRankingRewardCondition": 133303,
+		"reward_type_CommonGuildRewardType": 1,
+		"reward_id": 1043,
+		"reward_quantity": 1
+	},
+	{
+		"ID": 1341343011,
+		"period_GuildRaidPeriod": 134,
+		"condition_id_GuildRaidRankingRewardCondition": 134301,
+		"reward_type_CommonGuildRewardType": 1,
+		"reward_id": 1041,
+		"reward_quantity": 1
+	},
+	{
+		"ID": 1341343021,
+		"period_GuildRaidPeriod": 134,
+		"condition_id_GuildRaidRankingRewardCondition": 134302,
+		"reward_type_CommonGuildRewardType": 1,
+		"reward_id": 1042,
+		"reward_quantity": 1
+	},
+	{
+		"ID": 1341343031,
+		"period_GuildRaidPeriod": 134,
+		"condition_id_GuildRaidRankingRewardCondition": 134303,
+		"reward_type_CommonGuildRewardType": 1,
+		"reward_id": 1043,
+		"reward_quantity": 1
+	},
+	{
+		"ID": 1351353011,
+		"period_GuildRaidPeriod": 135,
+		"condition_id_GuildRaidRankingRewardCondition": 135301,
+		"reward_type_CommonGuildRewardType": 1,
+		"reward_id": 1041,
+		"reward_quantity": 1
+	},
+	{
+		"ID": 1351353021,
+		"period_GuildRaidPeriod": 135,
+		"condition_id_GuildRaidRankingRewardCondition": 135302,
+		"reward_type_CommonGuildRewardType": 1,
+		"reward_id": 1042,
+		"reward_quantity": 1
+	},
+	{
+		"ID": 1351353031,
+		"period_GuildRaidPeriod": 135,
+		"condition_id_GuildRaidRankingRewardCondition": 135303,
+		"reward_type_CommonGuildRewardType": 1,
+		"reward_id": 1043,
+		"reward_quantity": 1
+	},
+	{
+		"ID": 1361363011,
+		"period_GuildRaidPeriod": 136,
+		"condition_id_GuildRaidRankingRewardCondition": 136301,
+		"reward_type_CommonGuildRewardType": 1,
+		"reward_id": 1041,
+		"reward_quantity": 1
+	},
+	{
+		"ID": 1361363021,
+		"period_GuildRaidPeriod": 136,
+		"condition_id_GuildRaidRankingRewardCondition": 136302,
+		"reward_type_CommonGuildRewardType": 1,
+		"reward_id": 1042,
+		"reward_quantity": 1
+	},
+	{
+		"ID": 1361363031,
+		"period_GuildRaidPeriod": 136,
+		"condition_id_GuildRaidRankingRewardCondition": 136303,
+		"reward_type_CommonGuildRewardType": 1,
+		"reward_id": 1043,
+		"reward_quantity": 1
+	},
+	{
+		"ID": 1371373011,
+		"period_GuildRaidPeriod": 137,
+		"condition_id_GuildRaidRankingRewardCondition": 137301,
+		"reward_type_CommonGuildRewardType": 1,
+		"reward_id": 1041,
+		"reward_quantity": 1
+	},
+	{
+		"ID": 1371373021,
+		"period_GuildRaidPeriod": 137,
+		"condition_id_GuildRaidRankingRewardCondition": 137302,
+		"reward_type_CommonGuildRewardType": 1,
+		"reward_id": 1042,
+		"reward_quantity": 1
+	},
+	{
+		"ID": 1371373031,
+		"period_GuildRaidPeriod": 137,
+		"condition_id_GuildRaidRankingRewardCondition": 137303,
+		"reward_type_CommonGuildRewardType": 1,
+		"reward_id": 1043,
+		"reward_quantity": 1
+	},
+	{
+		"ID": 1381383011,
+		"period_GuildRaidPeriod": 138,
+		"condition_id_GuildRaidRankingRewardCondition": 138301,
+		"reward_type_CommonGuildRewardType": 1,
+		"reward_id": 1041,
+		"reward_quantity": 1
+	},
+	{
+		"ID": 1381383021,
+		"period_GuildRaidPeriod": 138,
+		"condition_id_GuildRaidRankingRewardCondition": 138302,
+		"reward_type_CommonGuildRewardType": 1,
+		"reward_id": 1042,
+		"reward_quantity": 1
+	},
+	{
+		"ID": 1381383031,
+		"period_GuildRaidPeriod": 138,
+		"condition_id_GuildRaidRankingRewardCondition": 138303,
+		"reward_type_CommonGuildRewardType": 1,
+		"reward_id": 1043,
+		"reward_quantity": 1
+	}
+]

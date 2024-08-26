@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 96008598,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# fadein \"black\" 0.5\n# textflame 1 1\n# body 0\n# pos 0 3\n# scale 0 0.8 0\n# mask 0 off\n# voice 9999 \"durin_0010\"\n@デュリン\n全然ハズレ！\n…ちょっと～、なにしてんの！\n\n# textflame 1 1\n@デュリン\nデートの相手なんだから\nもっとちゃんとわかってなきゃ\nダメじゃない！\n\n# textflame 1 1\n@デュリン\nいい機会だから、その子のこと\n改めてちゃんと勉強しときなさい！\nいいわね！！\n\n# textflame 0 0\n@\nデュリンの言うとおり\n%(unitName:unit_a)sのことを\nもっと理解しておかないとな…\n"
+	}
+]

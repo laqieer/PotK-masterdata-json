@@ -1,0 +1,26 @@
+[
+	{
+		"ID": 114,
+		"unitID": 2600111,
+		"scriptID": "kaerimichi",
+		"script": "ほんっとしょうがないわねえ！\n頼りないからもう少し\n一緒にいてあげるわ！"
+	},
+	{
+		"ID": 128,
+		"unitID": 2600111,
+		"scriptID": "kaeru",
+		"script": "じゃあ、帰るわよー"
+	},
+	{
+		"ID": 142,
+		"unitID": 2600111,
+		"scriptID": "kaeru_ok",
+		"script": "@%(unitName:unit_a)s\nまったく…\n私が一緒にいてあげるわよ！\nほら、行きましょ！"
+	},
+	{
+		"ID": 156,
+		"unitID": 2600111,
+		"scriptID": "kaeru_ng",
+		"script": "@%(unitName:unit_a)s\nなにいってんの！\nそろそろ帰るわよ"
+	}
+]

@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 91005198,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# se \"SE_0733\"\n# voice 1005 \"ritto_0013\"\n@リットゥ\nなんだ、\nわからなかったのか？\n\n# voice 1005 \"ritto_0007\"\n# eye %(unit_a)s \"close\"\n# face %(unit_a)s \"normal\"\n@リットゥ\n仕方のない奴だな\nだが、いきなり質問した私にも\n多少の非があったな\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"usual\"\n@リットゥ\nだが…この調子では、\n私が頭を垂れるまでには、、\nまだまだ時間がかかりそうだな？\n\n@リットゥ\nなあ、マスター、\nこれからも私を従わせたいのならば…\n\n# voice 1005 \"ritto_0026\"\n@リットゥ\nまずは私のことを、\nもっと知ってもらう必要があるぞ？\n\n# textflame 0 0\n@\n彼女の瞳に真っ直ぐ見つめられ、\nドキッと胸が高鳴るマスター\n\n# voice 1005 \"ritto_0036\"\n# textflame 1 1\n@リットゥ\nだから、頼むぞ？\n私も期待しているからな\n\n# textflame 0 0\n@\n期待が込められた瞳を、\nこれ以上裏切るわけにはいかない…\n\n@\nもっと彼女のことを知って、\n期待に応えてみせようと、\nマスターは胸の内で誓うのだった…\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

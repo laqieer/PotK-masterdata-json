@@ -1,0 +1,290 @@
+[
+	{
+		"ID": 4298,
+		"unitID": 2200421,
+		"questionID": 29200401,
+		"script": "# voice 220042 \"parashu_k_0001\"\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n@パラシュ\nマスター、少しいいかい？\n\n@パラシュ\nボクが司るのは“暴食”\nつまり理想を目指す力だ\n\n# textflame 1 1\n# voice 220042 \"parashu_k_0007\"\n@パラシュ\nだからね、マスターがボクを\nどれだけ理解しているか\n気になるんだ\n\n# voice 220042 \"parashu_k_0001\"\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n@パラシュ\nというわけでクイズの時間だよ\n\n# textflame 1 1\n@%(unitName:unit_a)s\nボクの武具種は分かる？　\n\n;;斧\n# se \"SE_0734\"\n# select \"斧\" \"select_label_1\" \"銃\" \"select_label_2\" \"槍\" \"select_label_3\"\nボクの武具種は分かる？　\n"
+	},
+	{
+		"ID": 4299,
+		"unitID": 2200421,
+		"questionID": 29200402,
+		"script": "# voice 220042 \"parashu_k_0001\"\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n@パラシュ\nマスター、少しいいかい？\n\n@パラシュ\nボクが司るのは“暴食”\nつまり理想を目指す力だ\n\n# textflame 1 1\n# voice 220042 \"parashu_k_0007\"\n@パラシュ\nだからね、マスターがボクを\nどれだけ理解しているか\n気になるんだ\n\n# face %(unit_a)s \"normal\"\n@パラシュ\nというわけでクイズの時間だよ\n\n# textflame 1 1\n@%(unitName:unit_a)s\nボクはこれの影響を受けているんだ。\n\n;;黒のバイブス\n# se \"SE_0734\"\n# select \"黒のパンプス\" \"select_label_1\" \"黒のバイブス\" \"select_label_2\" \"黒のバスタブ\" \"select_label_3\"\nボクはこれの影響を受けているんだ。\n"
+	},
+	{
+		"ID": 4300,
+		"unitID": 2200421,
+		"questionID": 29200403,
+		"script": "# voice 220042 \"parashu_k_0001\"\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n@パラシュ\nマスター、少しいいかい？\n\n@パラシュ\nボクが司るのは“暴食”\nつまり理想を目指す力だ\n\n# textflame 1 1\n# voice 220042 \"parashu_k_0007\"\n@パラシュ\nだからね、マスターがボクを\nどれだけ理解しているか\n気になるんだ\n\n# face %(unit_a)s \"normal\"\n@パラシュ\nというわけでクイズの時間だよ\n\n# textflame 1 1\n@%(unitName:unit_a)s\nボクのキラーズ『パラシュ』はどんな伝承に登場する？\n\n;;インド神話群\n# se \"SE_0734\"\n# select \"北欧神話群\" \"select_label_1\" \"ギリシャ神話群\" \"select_label_2\" \"インド神話群\" \"select_label_3\"\nボクのキラーズ『パラシュ』はどんな伝承に登場する？\n"
+	},
+	{
+		"ID": 4301,
+		"unitID": 2200421,
+		"questionID": 29200404,
+		"script": "# voice 220042 \"parashu_k_0001\"\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n@パラシュ\nマスター、少しいいかい？\n\n@パラシュ\nボクが司るのは“暴食”\nつまり理想を目指す力だ\n\n# textflame 1 1\n# voice 220042 \"parashu_k_0007\"\n@パラシュ\nだからね、マスターがボクを\nどれだけ理解しているか\n気になるんだ\n\n# face %(unit_a)s \"normal\"\n@パラシュ\nというわけでクイズの時間だよ\n\n# textflame 1 1\n@%(unitName:unit_a)s\nボクが背負う、七つの大罪の業は？\n\n;;暴食\n# se \"SE_0734\"\n# select \"暴食\" \"select_label_1\" \"傲慢\" \"select_label_2\" \"憤怒\" \"select_label_3\"\nボクが背負う、七つの大罪の業は？\n"
+	},
+	{
+		"ID": 4302,
+		"unitID": 2200421,
+		"questionID": 29200405,
+		"script": "# voice 220042 \"parashu_k_0001\"\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n@パラシュ\nマスター、少しいいかい？\n\n@パラシュ\nボクが司るのは“暴食”\nつまり理想を目指す力だ\n\n# textflame 1 1\n# voice 220042 \"parashu_k_0007\"\n@パラシュ\nだからね、マスターがボクを\nどれだけ理解しているか\n気になるんだ\n\n# face %(unit_a)s \"normal\"\n@パラシュ\nというわけでクイズの時間だよ\n\n# textflame 1 1\n@%(unitName:unit_a)s\nボクのキラーズ「パラシュ」の持ち主は…？\n\n;;ラーマ\n# se \"SE_0734\"\n# select \"ローマ\" \"select_label_1\" \"ラーマ\" \"select_label_2\" \"パーマ\" \"select_label_3\"\nボクのキラーズ「パラシュ」の持ち主は…？\n"
+	},
+	{
+		"ID": 4303,
+		"unitID": 2200421,
+		"questionID": 29200406,
+		"script": "# voice 220042 \"parashu_k_0001\"\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n@パラシュ\nマスター、少しいいかい？\n\n@パラシュ\nボクが司るのは“暴食”\nつまり理想を目指す力だ\n\n# textflame 1 1\n# voice 220042 \"parashu_k_0007\"\n@パラシュ\nだからね、マスターがボクを\nどれだけ理解しているか\n気になるんだ\n\n# face %(unit_a)s \"normal\"\n@パラシュ\nというわけでクイズの時間だよ\n\n# textflame 1 1\n@%(unitName:unit_a)s\nボクのキラーズ\n「パラシュ」の持ち主ラーマは\n何の化身かな？\n\n;;ヴィシュヌ\n# se \"SE_0734\"\n# select \"犬\" \"select_label_1\" \"アテナ\" \"select_label_2\" \"ヴィシュヌ\" \"select_label_3\"\nボクのキラーズ「パラシュ」の持ち主\nラーマは何の化身かな？\n"
+	},
+	{
+		"ID": 4304,
+		"unitID": 2200421,
+		"questionID": 29200407,
+		"script": "# voice 220042 \"parashu_k_0001\"\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n@パラシュ\nマスター、少しいいかい？\n\n@パラシュ\nボクが司るのは“暴食”\nつまり理想を目指す力だ\n\n# textflame 1 1\n# voice 220042 \"parashu_k_0007\"\n@パラシュ\nだからね、マスターがボクを\nどれだけ理解しているか\n気になるんだ\n\n# face %(unit_a)s \"normal\"\n@パラシュ\nというわけでクイズの時間だよ\n\n# textflame 1 1\n@%(unitName:unit_a)s\nボクのキラーズ「パラシュ」は\nどんな武器？\n\n;;斧\n# se \"SE_0734\"\n# select \"斧\" \"select_label_1\" \"ドリル\" \"select_label_2\" \"ハンマー\" \"select_label_3\"\nボクのキラーズ「パラシュ」は\nどんな武器？\n"
+	},
+	{
+		"ID": 4305,
+		"unitID": 2200421,
+		"questionID": 29200408,
+		"script": "# voice 220042 \"parashu_k_0001\"\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n@パラシュ\nマスター、少しいいかい？\n\n@パラシュ\nボクが司るのは“暴食”\nつまり理想を目指す力だ\n\n# textflame 1 1\n# voice 220042 \"parashu_k_0007\"\n@パラシュ\nだからね、マスターがボクを\nどれだけ理解しているか\n気になるんだ\n\n# face %(unit_a)s \"normal\"\n@パラシュ\nというわけでクイズの時間だよ\n\n# textflame 1 1\n@%(unitName:unit_a)s\nボクのキラーズ「パラシュ」は\n誰から授かったもの？\n\n;;シヴァ\n# se \"SE_0734\"\n# select \"乳母\" \"select_label_1\" \"シヴァ\" \"select_label_2\" \"リバー\" \"select_label_3\"\nボクのキラーズ「パラシュ」は\n誰から授かったもの？\n"
+	},
+	{
+		"ID": 4306,
+		"unitID": 2200421,
+		"questionID": 29200409,
+		"script": "# voice 220042 \"parashu_k_0001\"\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n@パラシュ\nマスター、少しいいかい？\n\n@パラシュ\nボクが司るのは“暴食”\nつまり理想を目指す力だ\n\n# textflame 1 1\n# voice 220042 \"parashu_k_0007\"\n@パラシュ\nだからね、マスターがボクを\nどれだけ理解しているか\n気になるんだ\n\n# face %(unit_a)s \"normal\"\n@パラシュ\nというわけでクイズの時間だよ\n\n# textflame 1 1\n@%(unitName:unit_a)s\nボクのキラーズ「パラシュ」を\nくれたシヴァはどんな神？\n\n;;破壊神\n# se \"SE_0734\"\n# select \"笑いの神\" \"select_label_1\" \"七福神\" \"select_label_2\" \"破壊神\" \"select_label_3\"\nボクのキラーズ「パラシュ」を\nくれたシヴァはどんな神？\n"
+	},
+	{
+		"ID": 4307,
+		"unitID": 2200421,
+		"questionID": 29200410,
+		"script": "# voice 220042 \"parashu_k_0001\"\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n@パラシュ\nマスター、少しいいかい？\n\n@パラシュ\nボクが司るのは“暴食”\nつまり理想を目指す力だ\n\n# textflame 1 1\n# voice 220042 \"parashu_k_0007\"\n@パラシュ\nだからね、マスターがボクを\nどれだけ理解しているか\n気になるんだ\n\n# face %(unit_a)s \"normal\"\n@パラシュ\nというわけでクイズの時間だよ\n\n# textflame 1 1\n@%(unitName:unit_a)s\nボクのキラーズ「パラシュ」を\nくれたシヴァの額には\n何があったと言われる？\n\n;;目\n# se \"SE_0734\"\n# select \"目\" \"select_label_1\" \"口\" \"select_label_2\" \"耳\" \"select_label_3\"\nボクのキラーズ「パラシュ」を\nくれたシヴァの額には\n何があったと言われる？\n"
+	},
+	{
+		"ID": 4308,
+		"unitID": 2200421,
+		"questionID": 29200411,
+		"script": "# voice 220042 \"parashu_k_0001\"\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n@パラシュ\nマスター、このまま無言で帰るのは\nつまらないだろう？\n\n@パラシュ\nだからクイズを出してあげるよ\n\n# voice 220042 \"parashu_k_0004\"\n# textflame 1 1\n# face %(unit_a)s \"shy\"\n@パラシュ\nふふっ、ボクに関するクイズだから、\nマスターにとっては簡単さ\n\n@パラシュ\nさあ、じゃあ出題するよ\n\n# textflame 1 1\n@%(unitName:unit_a)s\nボクの属性は知ってる？\n\n;;風\n# se \"SE_0734\"\n# select \"風\" \"select_label_1\" \"火\" \"select_label_2\" \"氷\" \"select_label_3\"\nボクの属性は知ってる？\n"
+	},
+	{
+		"ID": 4309,
+		"unitID": 2200421,
+		"questionID": 29200412,
+		"script": "# voice 220042 \"parashu_k_0001\"\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n@パラシュ\nマスター、このまま無言で帰るのは\nつまらないだろう？\n\n@パラシュ\nだからクイズを出してあげるよ\n\n# voice 220042 \"parashu_k_0004\"\n# textflame 1 1\n# face %(unit_a)s \"shy\"\n@パラシュ\nふふっ、ボクに関するクイズだから、\nマスターにとっては簡単さ\n\n@パラシュ\nさあ、じゃあ出題するよ\n\n# textflame 1 1\n@%(unitName:unit_a)s\nボクの身長は…\n\n;;152cm \n# se \"SE_0734\"\n# select \"158cm\" \"select_label_1\" \"152cm \" \"select_label_2\" \"160cm\" \"select_label_3\"\nボクの身長は…\n"
+	},
+	{
+		"ID": 4310,
+		"unitID": 2200421,
+		"questionID": 29200413,
+		"script": "# voice 220042 \"parashu_k_0001\"\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n@パラシュ\nマスター、このまま無言で帰るのは\nつまらないだろう？\n\n@パラシュ\nだからクイズを出してあげるよ\n\n# voice 220042 \"parashu_k_0004\"\n# textflame 1 1\n# face %(unit_a)s \"shy\"\n@パラシュ\nふふっ、ボクに関するクイズだから、\nマスターにとっては簡単さ\n\n@パラシュ\nさあ、じゃあ出題するよ\n\n# textflame 1 1\n@%(unitName:unit_a)s\nボクの誕生日は…？\n\n;;7月21日\n# se \"SE_0734\"\n# select \"5月21日\" \"select_label_1\" \"6月21日\" \"select_label_2\" \"7月21日\" \"select_label_3\"\nボクの誕生日は…？\n"
+	},
+	{
+		"ID": 4311,
+		"unitID": 2200421,
+		"questionID": 29200414,
+		"script": "# voice 220042 \"parashu_k_0001\"\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n@パラシュ\nマスター、このまま無言で帰るのは\nつまらないだろう？\n\n@パラシュ\nだからクイズを出してあげるよ\n\n# voice 220042 \"parashu_k_0004\"\n# textflame 1 1\n# face %(unit_a)s \"shy\"\n@パラシュ\nふふっ、ボクに関するクイズだから、\nマスターにとっては簡単さ\n\n@パラシュ\nさあ、じゃあ出題するよ\n\n# textflame 1 1\n@%(unitName:unit_a)s\nボクの星座は…？\n\n;;かに座\n# se \"SE_0734\"\n# select \"かに座\" \"select_label_1\" \"いて座\" \"select_label_2\" \"てんびん座\" \"select_label_3\"\nボクの星座は…？\n"
+	},
+	{
+		"ID": 4312,
+		"unitID": 2200421,
+		"questionID": 29200415,
+		"script": "# voice 220042 \"parashu_k_0001\"\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n@パラシュ\nマスター、このまま無言で帰るのは\nつまらないだろう？\n\n@パラシュ\nだからクイズを出してあげるよ\n\n# voice 220042 \"parashu_k_0004\"\n# textflame 1 1\n# face %(unit_a)s \"shy\"\n@パラシュ\nふふっ、ボクに関するクイズだから、\nマスターにとっては簡単さ\n\n@パラシュ\nさあ、じゃあ出題するよ\n\n# textflame 1 1\n@%(unitName:unit_a)s\nボクが好きなものは…\n\n;;薔薇\n# se \"SE_0734\"\n# select \"牡丹\" \"select_label_1\" \"薔薇\" \"select_label_2\" \"菫\" \"select_label_3\"\nボクが好きなものは…\n"
+	},
+	{
+		"ID": 4313,
+		"unitID": 2200421,
+		"questionID": 29200416,
+		"script": "# voice 220042 \"parashu_k_0001\"\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n@パラシュ\nマスター、このまま無言で帰るのは\nつまらないだろう？\n\n@パラシュ\nだからクイズを出してあげるよ\n\n# voice 220042 \"parashu_k_0004\"\n# textflame 1 1\n# face %(unit_a)s \"shy\"\n@パラシュ\nふふっ、ボクに関するクイズだから、\nマスターにとっては簡単さ\n\n@パラシュ\nさあ、じゃあ出題するよ\n\n# textflame 1 1\n@%(unitName:unit_a)s\nボクの好きな数字は…？\n\n;;21\n# se \"SE_0734\"\n# select \"15\" \"select_label_1\" \"25\" \"select_label_2\" \"21\" \"select_label_3\"\nボクの好きな数字は…？\n"
+	},
+	{
+		"ID": 4314,
+		"unitID": 2200421,
+		"questionID": 29200417,
+		"script": "# voice 220042 \"parashu_k_0001\"\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n@パラシュ\nマスター、このまま無言で帰るのは\nつまらないだろう？\n\n@パラシュ\nだからクイズを出してあげるよ\n\n# voice 220042 \"parashu_k_0004\"\n# textflame 1 1\n# face %(unit_a)s \"shy\"\n@パラシュ\nふふっ、ボクに関するクイズだから、\nマスターにとっては簡単さ\n\n@パラシュ\nさあ、じゃあ出題するよ\n\n# textflame 1 1\n@%(unitName:unit_a)s\nボクの血液型は…？　\n\n;;Ａ型\n# se \"SE_0734\"\n# select \"Ａ型\" \"select_label_1\" \"Ｏ型\" \"select_label_2\" \"Ｂ型\" \"select_label_3\"\nボクの血液型は…？　\n"
+	},
+	{
+		"ID": 4315,
+		"unitID": 2200421,
+		"questionID": 29200418,
+		"script": "# voice 220042 \"parashu_k_0001\"\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n@パラシュ\nマスター、このまま無言で帰るのは\nつまらないだろう？\n\n@パラシュ\nだからクイズを出してあげるよ\n\n# voice 220042 \"parashu_k_0004\"\n# textflame 1 1\n# face %(unit_a)s \"shy\"\n@パラシュ\nふふっ、ボクに関するクイズだから、\nマスターにとっては簡単さ\n\n@パラシュ\nさあ、じゃあ出題するよ\n\n# textflame 1 1\n@%(unitName:unit_a)s\nボクの出身地はわかりますか…？\n\n;;カイラス山\n# se \"SE_0734\"\n# select \"ウグイス山\" \"select_label_1\" \"カイラス山\" \"select_label_2\" \"ライコス山\" \"select_label_3\"\nボクの出身地はわかりますか…？\n"
+	},
+	{
+		"ID": 4316,
+		"unitID": 2200421,
+		"questionID": 29200420,
+		"script": "# voice 220042 \"parashu_k_0001\"\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n@パラシュ\nマスター、このまま無言で帰るのは\nつまらないだろう？\n\n@パラシュ\nだからクイズを出してあげるよ\n\n# voice 220042 \"parashu_k_0004\"\n# textflame 1 1\n# face %(unit_a)s \"shy\"\n@パラシュ\nふふっ、ボクに関するクイズだから、\nマスターにとっては簡単さ\n\n@パラシュ\nさあ、じゃあ出題するよ\n\n# textflame 1 1\n@%(unitName:unit_a)s\nボクのコードネームを知っているの…？\n\n;;グラトニー\n# se \"SE_0734\"\n# select \"グラトニー\" \"select_label_1\" \"グラディウス\" \"select_label_2\" \"グラッチェ\" \"select_label_3\"\nボクのコードネームを知っているの…？\n"
+	},
+	{
+		"ID": 4317,
+		"unitID": 2200421,
+		"questionID": 29200421,
+		"script": "# voice 220042 \"parashu_k_0001\"\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n@パラシュ\nマスター、\nその、いいかな？\n\n@パラシュ\n突然で悪いけど、\nクイズを出してもいいかい？\n\n# textflame 1 1\n# voice 220042 \"parashu_k_0007\"\n@パラシュ\n理由は特にあるわけじゃないよ\nふと思い立っただけ\n\n# face %(unit_a)s \"normal\"\n@パラシュ\nさてと、それじゃあ問題だ\n\n# textflame 1 1\n@%(unitName:unit_a)s\nボクの覚えるスキルは\nなんですか？\n\n;;粛清の黒\n# se \"SE_0734\"\n# select \"粛清の黒\" \"select_label_1\" \"粛清の青\" \"select_label_2\" \"粛清の白\" \"select_label_3\"\nボクの覚えるスキルは\nなんですか？\n"
+	},
+	{
+		"ID": 4318,
+		"unitID": 2200421,
+		"questionID": 29200422,
+		"script": "# voice 220042 \"parashu_k_0001\"\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n@パラシュ\nマスター、\nその、いいかな？\n\n@パラシュ\n突然で悪いけど、\nクイズを出してもいいかい？\n\n# textflame 1 1\n# voice 220042 \"parashu_k_0007\"\n@パラシュ\n理由は特にあるわけじゃないよ\nふと思い立っただけ\n\n# face %(unit_a)s \"normal\"\n@パラシュ\nさてと、それじゃあ問題だ\n\n# textflame 1 1\n@%(unitName:unit_a)s\nボクの解放スキルは知ってるの？\n\n;;暗澹たる衝動\n# se \"SE_0734\"\n# select \"暗澹たる衝撃\" \"select_label_1\" \"暗澹たる衝動\" \"select_label_2\" \"暗澹たる賞状\" \"select_label_3\"\nボクの解放スキルは知ってるの？\n"
+	},
+	{
+		"ID": 4319,
+		"unitID": 2200421,
+		"questionID": 29200423,
+		"script": "# voice 220042 \"parashu_k_0001\"\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n@パラシュ\nマスター、\nその、いいかな？\n\n@パラシュ\n突然で悪いけど、\nクイズを出してもいいかい？\n\n# textflame 1 1\n# voice 220042 \"parashu_k_0007\"\n@パラシュ\n理由は特にあるわけじゃないよ\nふと思い立っただけ\n\n# face %(unit_a)s \"normal\"\n@パラシュ\nさてと、それじゃあ問題だ\n\n# textflame 1 1\n@%(unitName:unit_a)s\nボクの☆６のリーダースキルは…？\n\n;;黒風の嵐轟\n# se \"SE_0734\"\n# select \"黒火の嵐轟\" \"select_label_1\" \"黒砂の嵐轟\" \"select_label_2\" \"黒風の嵐轟\" \"select_label_3\"\nボクの☆６のリーダースキルは…？\n"
+	},
+	{
+		"ID": 4320,
+		"unitID": 2200421,
+		"questionID": 29200424,
+		"script": "# voice 220042 \"parashu_k_0001\"\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n@パラシュ\nマスター、\nその、いいかな？\n\n@パラシュ\n突然で悪いけど、\nクイズを出してもいいかい？\n\n# textflame 1 1\n# voice 220042 \"parashu_k_0007\"\n@パラシュ\n理由は特にあるわけじゃないよ\nふと思い立っただけ\n\n# face %(unit_a)s \"normal\"\n@パラシュ\nさてと、それじゃあ問題だ\n\n# textflame 1 1\n@%(unitName:unit_a)s\nボクの参加した戦場はどうなる？\n\n;;更地になる\n# se \"SE_0734\"\n# select \"更地になる\" \"select_label_1\" \"温泉が出る\" \"select_label_2\" \"雷雨になる\" \"select_label_3\"\nボクの参加した戦場はどうなる？\n"
+	},
+	{
+		"ID": 4321,
+		"unitID": 2200421,
+		"questionID": 29200425,
+		"script": "# voice 220042 \"parashu_k_0001\"\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n@パラシュ\nマスター、\nその、いいかな？\n\n@パラシュ\n突然で悪いけど、\nクイズを出してもいいかい？\n\n# textflame 1 1\n# voice 220042 \"parashu_k_0007\"\n@パラシュ\n理由は特にあるわけじゃないよ\nふと思い立っただけ\n\n# face %(unit_a)s \"normal\"\n@パラシュ\nさてと、それじゃあ問題だ\n\n# textflame 1 1\n@%(unitName:unit_a)s\nボクが覚える付与スキルは？\n\n;;果て無き暴食\n# se \"SE_0734\"\n# select \"果て無き飲食\" \"select_label_1\" \"果て無き暴食\" \"select_label_2\" \"果て無き捕食\" \"select_label_3\"\nボクが覚える付与スキルは？\n"
+	},
+	{
+		"ID": 4322,
+		"unitID": 2200421,
+		"questionID": 29200426,
+		"script": "# voice 220042 \"parashu_k_0001\"\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n@パラシュ\nマスター、\nその、いいかな？\n\n@パラシュ\n突然で悪いけど、\nクイズを出してもいいかい？\n\n# textflame 1 1\n# voice 220042 \"parashu_k_0007\"\n@パラシュ\n理由は特にあるわけじゃないよ\nふと思い立っただけ\n\n# face %(unit_a)s \"normal\"\n@パラシュ\nさてと、それじゃあ問題だ\n\n# textflame 1 1\n@%(unitName:unit_a)s\nボクが覚える付与スキルは？\n\n;;深遠の黒印\n# se \"SE_0734\"\n# select \"深遠の捺印\" \"select_label_1\" \"深遠の刻印\" \"select_label_2\" \"深遠の黒印\" \"select_label_3\"\nボクが覚える付与スキルは？\n"
+	},
+	{
+		"ID": 4323,
+		"unitID": 2200421,
+		"questionID": 29200427,
+		"script": "# voice 220042 \"parashu_k_0001\"\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n@パラシュ\nマスター、\nその、いいかな？\n\n@パラシュ\n突然で悪いけど、\nクイズを出してもいいかい？\n\n# textflame 1 1\n# voice 220042 \"parashu_k_0007\"\n@パラシュ\n理由は特にあるわけじゃないよ\nふと思い立っただけ\n\n# face %(unit_a)s \"normal\"\n@パラシュ\nさてと、それじゃあ問題だ\n\n# textflame 1 1\n@%(unitName:unit_a)s\nボクが取得したスキルは？\n\n;;黒式・恐威断\n# se \"SE_0734\"\n# select \"黒式・恐威断\" \"select_label_1\" \"黒式・憑依断\" \"select_label_2\" \"黒式・刃斬断\" \"select_label_3\"\nボクが取得したスキルは？\n"
+	},
+	{
+		"ID": 4324,
+		"unitID": 2200421,
+		"questionID": 29200428,
+		"script": "# voice 220042 \"parashu_k_0001\"\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n@パラシュ\nマスター、\nその、いいかな？\n\n@パラシュ\n突然で悪いけど、\nクイズを出してもいいかい？\n\n# textflame 1 1\n# voice 220042 \"parashu_k_0007\"\n@パラシュ\n理由は特にあるわけじゃないよ\nふと思い立っただけ\n\n# face %(unit_a)s \"normal\"\n@パラシュ\nさてと、それじゃあ問題だ\n\n# textflame 1 1\n@%(unitName:unit_a)s\nボクが取得したスキルは？\n\n;;黒式・烈空断\n# se \"SE_0734\"\n# select \"黒式・烈空斬\" \"select_label_1\" \"黒式・烈空断\" \"select_label_2\" \"黒式・波動弾\" \"select_label_3\"\nボクが取得したスキルは？\n\n"
+	},
+	{
+		"ID": 4325,
+		"unitID": 2200421,
+		"questionID": 29200429,
+		"script": "# voice 220042 \"parashu_k_0001\"\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n@パラシュ\nマスター、\nその、いいかな？\n\n@パラシュ\n突然で悪いけど、\nクイズを出してもいいかい？\n\n# textflame 1 1\n# voice 220042 \"parashu_k_0007\"\n@パラシュ\n理由は特にあるわけじゃないよ\nふと思い立っただけ\n\n# face %(unit_a)s \"normal\"\n@パラシュ\nさてと、それじゃあ問題だ\n\n# textflame 1 1\n@%(unitName:unit_a)s\nボクがバラを好きな理由は…？\n\n;;返り血を浴びても色あせないから\n# se \"SE_0734\"\n# select \"風水的に縁起がいいから\" \"select_label_1\" \"食物繊維が豊富だから\" \"select_label_2\" \"返り血を浴びても色あせないから\" \"select_label_3\"\nボクがバラを好きな理由は…？\n"
+	},
+	{
+		"ID": 4326,
+		"unitID": 2200421,
+		"questionID": 29200430,
+		"script": "# voice 220042 \"parashu_k_0001\"\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n@パラシュ\nマスター、\nその、いいかな？\n\n@パラシュ\n突然で悪いけど、\nクイズを出してもいいかい？\n\n# textflame 1 1\n# voice 220042 \"parashu_k_0007\"\n@パラシュ\n理由は特にあるわけじゃないよ\nふと思い立っただけ\n\n# face %(unit_a)s \"normal\"\n@パラシュ\nさてと、それじゃあ問題だ\n\n# textflame 1 1\n@%(unitName:unit_a)s\nボクが嫌いなのは…？\n\n;;妥協\n# se \"SE_0734\"\n# select \"妥協\" \"select_label_1\" \"研鑽\" \"select_label_2\" \"自由\" \"select_label_3\"\nボクが嫌いなのは…？\n"
+	},
+	{
+		"ID": 4327,
+		"unitID": 2200421,
+		"questionID": 29200431,
+		"script": "# voice 220042 \"parashu_k_0001\"\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n@パラシュ\nマスター、ちょっといい？\n\n@パラシュ\nデートも楽しかったんだけど、\n最後の締めに問題を出そうと思って…\n\n# voice 220042 \"parashu_k_0004\"\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n@パラシュ\n気構えなくていいよ、\n簡単なクイズさ\n\n@パラシュ\nそれじゃあ、行くよ？\n\n# textflame 1 1\n@%(unitName:unit_a)s\n七つの大罪の「暴食」は英語で何と言う？\n\n;;Gluttony\n# se \"SE_0734\"\n# select \"Gluttony\" \"select_label_1\" \"Pride\" \"select_label_2\" \"Lust\" \"select_label_3\"\n七つの大罪の「暴食」は英語で何と言う？\n"
+	},
+	{
+		"ID": 4328,
+		"unitID": 2200421,
+		"questionID": 29200432,
+		"script": "# voice 220042 \"parashu_k_0001\"\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n@パラシュ\nマスター、ちょっといい？\n\n@パラシュ\nデートも楽しかったんだけど、\n最後の締めに問題を出そうと思って…\n\n# voice 220042 \"parashu_k_0004\"\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n@パラシュ\n気構えなくていいよ、\n簡単なクイズさ\n\n@パラシュ\nそれじゃあ、行くよ？\n\n# textflame 1 1\n@%(unitName:unit_a)s\nボクの誕生月を英語で言うと…？\n\n;;July\n# se \"SE_0734\"\n# select \"January\" \"select_label_1\" \"July\" \"select_label_2\" \"May\" \"select_label_3\"\nボクの誕生月を英語で言うと…？\n"
+	},
+	{
+		"ID": 4329,
+		"unitID": 2200421,
+		"questionID": 29200433,
+		"script": "# voice 220042 \"parashu_k_0001\"\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n@パラシュ\nマスター、ちょっといい？\n\n@パラシュ\nデートも楽しかったんだけど、\n最後の締めに問題を出そうと思って…\n\n# voice 220042 \"parashu_k_0004\"\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n@パラシュ\n気構えなくていいよ、\n簡単なクイズさ\n\n@パラシュ\nそれじゃあ、行くよ？\n\n# textflame 1 1\n@%(unitName:unit_a)s\nボクの瞳の色は何色？\n\n;;緑色\n# se \"SE_0734\"\n# select \"青色\" \"select_label_1\" \"銀色\" \"select_label_2\" \"緑色\" \"select_label_3\"\nボクの瞳の色は何色？\n"
+	},
+	{
+		"ID": 4330,
+		"unitID": 2200421,
+		"questionID": 29200434,
+		"script": "# voice 220042 \"parashu_k_0001\"\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n@パラシュ\nマスター、ちょっといい？\n\n@パラシュ\nデートも楽しかったんだけど、\n最後の締めに問題を出そうと思って…\n\n# voice 220042 \"parashu_k_0004\"\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n@パラシュ\n気構えなくていいよ、\n簡単なクイズさ\n\n@パラシュ\nそれじゃあ、行くよ？\n\n# textflame 1 1\n@%(unitName:unit_a)s\nボクと誕生月が同じなのは…？\n\n;;アルテミス\n# se \"SE_0734\"\n# select \"アルテミス\" \"select_label_1\" \"アロンダイト\" \"select_label_2\" \"ダグダ\" \"select_label_3\"\nボクと誕生月が同じなのは…？\n"
+	},
+	{
+		"ID": 4331,
+		"unitID": 2200421,
+		"questionID": 29200435,
+		"script": "# voice 220042 \"parashu_k_0001\"\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n@パラシュ\nマスター、ちょっといい？\n\n@パラシュ\nデートも楽しかったんだけど、\n最後の締めに問題を出そうと思って…\n\n# voice 220042 \"parashu_k_0004\"\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n@パラシュ\n気構えなくていいよ、\n簡単なクイズさ\n\n@パラシュ\nそれじゃあ、行くよ？\n\n# textflame 1 1\n@%(unitName:unit_a)s\nボクの星座を英語で言うと…？\n\n;;Cancer\n# se \"SE_0734\"\n# select \"Capricorn\" \"select_label_1\" \"Cancer\" \"select_label_2\" \"Aquarius\" \"select_label_3\"\nボクの星座を英語で言うと…？\n"
+	},
+	{
+		"ID": 4332,
+		"unitID": 2200421,
+		"questionID": 29200436,
+		"script": "# voice 220042 \"parashu_k_0001\"\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n@パラシュ\nマスター、ちょっといい？\n\n@パラシュ\nデートも楽しかったんだけど、\n最後の締めに問題を出そうと思って…\n\n# voice 220042 \"parashu_k_0004\"\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n@パラシュ\n気構えなくていいよ、\n簡単なクイズさ\n\n@パラシュ\nそれじゃあ、行くよ？\n\n# textflame 1 1\n@%(unitName:unit_a)s\nボクの好きな数字２１が\n最強なカードゲームと言えば？\n\n;;ブラックジャック\n# se \"SE_0734\"\n# select \"七並べ\" \"select_label_1\" \"ポーカー\" \"select_label_2\" \"ブラックジャック\" \"select_label_3\"\nボクの好きな数字２１が\n最強なカードゲームと言えば？\n"
+	},
+	{
+		"ID": 4333,
+		"unitID": 2200421,
+		"questionID": 29200437,
+		"script": "# voice 220042 \"parashu_k_0001\"\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n@パラシュ\nマスター、ちょっといい？\n\n@パラシュ\nデートも楽しかったんだけど、\n最後の締めに問題を出そうと思って…\n\n# voice 220042 \"parashu_k_0004\"\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n@パラシュ\n気構えなくていいよ、\n簡単なクイズさ\n\n@パラシュ\nそれじゃあ、行くよ？\n\n# textflame 1 1\n@%(unitName:unit_a)s\nアルファベットの\n21番目と言えば？\n\n;;Ｕ\n# se \"SE_0734\"\n# select \"Ｕ\" \"select_label_1\" \"Ｖ\" \"select_label_2\" \"Ｗ\" \"select_label_3\"\nアルファベットの\n21番目と言えば？\n"
+	},
+	{
+		"ID": 4334,
+		"unitID": 2200421,
+		"questionID": 29200438,
+		"script": "# voice 220042 \"parashu_k_0001\"\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n@パラシュ\nマスター、ちょっといい？\n\n@パラシュ\nデートも楽しかったんだけど、\n最後の締めに問題を出そうと思って…\n\n# voice 220042 \"parashu_k_0004\"\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n@パラシュ\n気構えなくていいよ、\n簡単なクイズさ\n\n@パラシュ\nそれじゃあ、行くよ？\n\n# textflame 1 1\n@%(unitName:unit_a)s\nボクと同じ血液型なのは誰かな？\n\n;;リットゥ\n# se \"SE_0734\"\n# select \"フラガラッハ\" \"select_label_1\" \"リットゥ\" \"select_label_2\" \"アダマス\" \"select_label_3\"\nボクと同じ血液型なのは誰かな？\n"
+	},
+	{
+		"ID": 4335,
+		"unitID": 2200421,
+		"questionID": 29200439,
+		"script": "# voice 220042 \"parashu_k_0001\"\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n@パラシュ\nマスター、ちょっといい？\n\n@パラシュ\nデートも楽しかったんだけど、\n最後の締めに問題を出そうと思って…\n\n# voice 220042 \"parashu_k_0004\"\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n@パラシュ\n気構えなくていいよ、\n簡単なクイズさ\n\n@パラシュ\nそれじゃあ、行くよ？\n\n# textflame 1 1\n@%(unitName:unit_a)s\nボクと違う血液型なのは誰かな？\n\n;;グラム\n# se \"SE_0734\"\n# select \"デュランダル\" \"select_label_1\" \"アロンダイト\" \"select_label_2\" \"グラム\" \"select_label_3\"\nボクと違う血液型なのは誰かな？\n"
+	},
+	{
+		"ID": 4336,
+		"unitID": 2200421,
+		"questionID": 29200440,
+		"script": "# voice 220042 \"parashu_k_0001\"\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n@パラシュ\nマスター、ちょっといい？\n\n@パラシュ\nデートも楽しかったんだけど、\n最後の締めに問題を出そうと思って…\n\n# voice 220042 \"parashu_k_0004\"\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n@パラシュ\n気構えなくていいよ、\n簡単なクイズさ\n\n@パラシュ\nそれじゃあ、行くよ？\n\n# textflame 1 1\n@%(unitName:unit_a)s\n1輪の赤いバラには\nどんな意味がある？\n\n;;一目ぼれ\n# se \"SE_0734\"\n# select \"一目ぼれ\" \"select_label_1\" \"殺害予告\" \"select_label_2\" \"空腹\" \"select_label_3\"\n1輪の赤いバラには\nどんな意味がある？\n"
+	},
+	{
+		"ID": 4337,
+		"unitID": 2200421,
+		"questionID": 29200441,
+		"script": "\n;;ボク\n# se \"SE_0734\"\n# select \"ボク\" \"select_label_1\" \"オレ\" \"select_label_2\" \"ワイ\" \"select_label_3\"\nパラシュの一人称は\n次のうちどれ？\n"
+	},
+	{
+		"ID": 4338,
+		"unitID": 2200421,
+		"questionID": 29200442,
+		"script": "\n;;キミ\n# se \"SE_0734\"\n# select \"お前\" \"select_label_1\" \"キミ\" \"select_label_2\" \"アンタ\" \"select_label_3\"\nパラシュはアンタのこと、\nなんて呼んでる？\n"
+	},
+	{
+		"ID": 4339,
+		"unitID": 2200421,
+		"questionID": 29200443,
+		"script": "\n;;77cm\n# se \"SE_0734\"\n# select \"85cm\" \"select_label_1\" \"90cm\" \"select_label_2\" \"77cm\" \"select_label_3\"\nパラシュの\nバストサイズがどのくらいか\nアンタ…知ってるの？\n"
+	},
+	{
+		"ID": 4340,
+		"unitID": 2200421,
+		"questionID": 29200444,
+		"script": "\n;;55cm\n# se \"\"SE_0734\"\"\n# select \"55cm\" \"select_label_1\" \"60cm\" \"select_label_2\" \"62cm\" \"select_label_3\"\nパラシュの\nウエストサイズがどのくらいか\nアンタ…知ってるの？\n"
+	},
+	{
+		"ID": 4341,
+		"unitID": 2200421,
+		"questionID": 29200445,
+		"script": "\n;;77cm\n# se \"SE_0734\"\n# select \"84cm\" \"select_label_1\" \"77cm\" \"select_label_2\" \"87cm\" \"select_label_3\"\nパラシュの\nヒップサイズがどのくらいか\nアンタ…知ってるの？\n"
+	},
+	{
+		"ID": 4342,
+		"unitID": 2200421,
+		"questionID": 29200446,
+		"script": "\n;;41ｋｇ\n# se \"SE_0734\"\n# select \"38kg\" \"select_label_1\" \"52kg\" \"select_label_2\" \"41kg\" \"select_label_3\"\nパラシュの体重は\n次のうちどれ？\n"
+	},
+	{
+		"ID": 4343,
+		"unitID": 2200421,
+		"questionID": 29200447,
+		"script": "\n;;209\n# se \"SE_0734\"\n# select \"209\" \"select_label_1\" \"218\" \"select_label_2\" \"233\" \"select_label_3\"\nパラシュの\nバスト＋ウエスト＋ヒップは\nいくつかわかる？\n"
+	},
+	{
+		"ID": 4344,
+		"unitID": 2200421,
+		"questionID": 29200448,
+		"script": "\n;;金色\n# se \"SE_0734\"\n# select \"ピンク色\" \"select_label_1\" \"金色\" \"select_label_2\" \"黒色\" \"select_label_3\"\nパラシュの髪の色は\n次のうちどれ？\n"
+	},
+	{
+		"ID": 4345,
+		"unitID": 2200421,
+		"questionID": 29200450,
+		"script": "\n;;伊瀬茉莉也\n# se \"SE_0734\"\n# select \"伊瀬茉莉也\" \"select_label_1\" \"伊藤静\" \"select_label_2\" \"佐藤利奈\" \"select_label_3\"\nパラシュの声優は誰？\n"
+	}
+]

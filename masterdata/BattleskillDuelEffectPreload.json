@@ -1,0 +1,1277 @@
+[
+	{
+		"ID": 1,
+		"duel_effect_id": 1,
+		"effect_file_name": "ef705_duel_sword_hit_moon"
+	},
+	{
+		"ID": 2,
+		"duel_effect_id": 1,
+		"effect_file_name": "ef725_duel_damage_hit_sword"
+	},
+	{
+		"ID": 3,
+		"duel_effect_id": 2,
+		"effect_file_name": "ef709_duel_spear_attack_star_s"
+	},
+	{
+		"ID": 4,
+		"duel_effect_id": 2,
+		"effect_file_name": "ef711_duel_spear_hit_star"
+	},
+	{
+		"ID": 5,
+		"duel_effect_id": 2,
+		"effect_file_name": "ef713_duel_damage_hit"
+	},
+	{
+		"ID": 6,
+		"duel_effect_id": 3,
+		"effect_file_name": "ef720_duel_spear_attack_moon_l"
+	},
+	{
+		"ID": 7,
+		"duel_effect_id": 3,
+		"effect_file_name": "ef713_duel_damage_hit"
+	},
+	{
+		"ID": 8,
+		"duel_effect_id": 4,
+		"effect_file_name": "ef720_duel_spear_attack_moon_l"
+	},
+	{
+		"ID": 9,
+		"duel_effect_id": 4,
+		"effect_file_name": "ef713_duel_damage_hit"
+	},
+	{
+		"ID": 10,
+		"duel_effect_id": 5,
+		"effect_file_name": "ef715_duel_sword_hit_sun"
+	},
+	{
+		"ID": 11,
+		"duel_effect_id": 6,
+		"effect_file_name": "ef715_duel_sword_hit_sun"
+	},
+	{
+		"ID": 12,
+		"duel_effect_id": 9,
+		"effect_file_name": "ef726_duel_chocolate_damage"
+	},
+	{
+		"ID": 13,
+		"duel_effect_id": 13,
+		"effect_file_name": "ef1014_denpa_nemu"
+	},
+	{
+		"ID": 14,
+		"duel_effect_id": 13,
+		"effect_file_name": "ef730_duel_denpa_nemu"
+	},
+	{
+		"ID": 15,
+		"duel_effect_id": 13,
+		"effect_file_name": "ef1014_f2_16_inwomusubu_1"
+	},
+	{
+		"ID": 16,
+		"duel_effect_id": 13,
+		"effect_file_name": "ef1014_f2_28_inwomusubu_2"
+	},
+	{
+		"ID": 17,
+		"duel_effect_id": 13,
+		"effect_file_name": "ef1014_f3_09_inwomusubu_3"
+	},
+	{
+		"ID": 18,
+		"duel_effect_id": 13,
+		"effect_file_name": "ef1014_f4_01_denpa_nemu"
+	},
+	{
+		"ID": 19,
+		"duel_effect_id": 13,
+		"effect_file_name": "ef1014_f4_03_fdenpa_nemu"
+	},
+	{
+		"ID": 20,
+		"duel_effect_id": 16,
+		"effect_file_name": "ef740_ice_beam_76f"
+	},
+	{
+		"ID": 21,
+		"duel_effect_id": 16,
+		"effect_file_name": "ef740_ice_finish_165f"
+	},
+	{
+		"ID": 22,
+		"duel_effect_id": 16,
+		"effect_file_name": "ef740_ice_impact_bursts_102f"
+	},
+	{
+		"ID": 23,
+		"duel_effect_id": 16,
+		"effect_file_name": "ef740_ice_mountain_80f"
+	},
+	{
+		"ID": 24,
+		"duel_effect_id": 16,
+		"effect_file_name": "ef740_ice_rose_storm_75f"
+	},
+	{
+		"ID": 25,
+		"duel_effect_id": 16,
+		"effect_file_name": "ef740_ice_solid_21f"
+	},
+	{
+		"ID": 26,
+		"duel_effect_id": 16,
+		"effect_file_name": "ef740_impact_finish_167f"
+	},
+	{
+		"ID": 27,
+		"duel_effect_id": 10,
+		"effect_file_name": "ef1009_denpa_mirin"
+	},
+	{
+		"ID": 28,
+		"duel_effect_id": 10,
+		"effect_file_name": "ef1009_f0_13_power_burst"
+	},
+	{
+		"ID": 29,
+		"duel_effect_id": 10,
+		"effect_file_name": "ef1009_f3_17_eff_pikin"
+	},
+	{
+		"ID": 30,
+		"duel_effect_id": 10,
+		"effect_file_name": "ef728_effect_sword"
+	},
+	{
+		"ID": 31,
+		"duel_effect_id": 10,
+		"effect_file_name": "ef727_f1_15_furiharai"
+	},
+	{
+		"ID": 32,
+		"duel_effect_id": 10,
+		"effect_file_name": "ef727_f2_15_sky_move"
+	},
+	{
+		"ID": 33,
+		"duel_effect_id": 10,
+		"effect_file_name": "ef727_f2_22_sky_move_srow"
+	},
+	{
+		"ID": 34,
+		"duel_effect_id": 10,
+		"effect_file_name": "ef727_f3_17_zan_Particle"
+	},
+	{
+		"ID": 35,
+		"duel_effect_id": 11,
+		"effect_file_name": "ef1011_denpa_pinkii"
+	},
+	{
+		"ID": 36,
+		"duel_effect_id": 11,
+		"effect_file_name": "ef731_duel_denpa_panda"
+	},
+	{
+		"ID": 37,
+		"duel_effect_id": 14,
+		"effect_file_name": "ef1012_denpa_eitaso"
+	},
+	{
+		"ID": 38,
+		"duel_effect_id": 14,
+		"effect_file_name": "ef1012_f0_14_ring_flash"
+	},
+	{
+		"ID": 39,
+		"duel_effect_id": 14,
+		"effect_file_name": "ef1012_f1_06_denpa_pkpk_move"
+	},
+	{
+		"ID": 40,
+		"duel_effect_id": 14,
+		"effect_file_name": "ef1012_f4_04_syutyusen"
+	},
+	{
+		"ID": 41,
+		"duel_effect_id": 14,
+		"effect_file_name": "ef1012_f7_26_junp"
+	},
+	{
+		"ID": 42,
+		"duel_effect_id": 14,
+		"effect_file_name": "ef1012_f8_14_sheeld"
+	},
+	{
+		"ID": 43,
+		"duel_effect_id": 15,
+		"effect_file_name": "ef1013_denpa_risa"
+	},
+	{
+		"ID": 44,
+		"duel_effect_id": 15,
+		"effect_file_name": "ef1013_f2_18_sp_eff"
+	},
+	{
+		"ID": 45,
+		"duel_effect_id": 15,
+		"effect_file_name": "ef1013_f3_28_denpa_flash_eff"
+	},
+	{
+		"ID": 46,
+		"duel_effect_id": 15,
+		"effect_file_name": "ef1013_f8_05_denpa_mark"
+	},
+	{
+		"ID": 47,
+		"duel_effect_id": 15,
+		"effect_file_name": "ef1013_f10_28_fsheeld"
+	},
+	{
+		"ID": 48,
+		"duel_effect_id": 12,
+		"effect_file_name": "ef1010_denpa_moga"
+	},
+	{
+		"ID": 49,
+		"duel_effect_id": 12,
+		"effect_file_name": "ef732_moga_bazooka"
+	},
+	{
+		"ID": 50,
+		"duel_effect_id": 12,
+		"effect_file_name": "ef729_duel_denpa_moga"
+	},
+	{
+		"ID": 51,
+		"duel_effect_id": 12,
+		"effect_file_name": "ef729_Weapon_eff"
+	},
+	{
+		"ID": 52,
+		"duel_effect_id": 12,
+		"effect_file_name": "ef729_f0_15_f1_12_f2_0_f3_26_bursts_eff"
+	},
+	{
+		"ID": 53,
+		"duel_effect_id": 12,
+		"effect_file_name": "ef729_Capsule"
+	},
+	{
+		"ID": 54,
+		"duel_effect_id": 12,
+		"effect_file_name": "ef729_sky_move"
+	},
+	{
+		"ID": 55,
+		"duel_effect_id": 12,
+		"effect_file_name": "ef729_Weapon_eff_finish"
+	},
+	{
+		"ID": 56,
+		"duel_effect_id": 17,
+		"effect_file_name": "ef741_31f_dash_lunaris"
+	},
+	{
+		"ID": 57,
+		"duel_effect_id": 17,
+		"effect_file_name": "ef741_35f_sky_move_srow_lunaris"
+	},
+	{
+		"ID": 58,
+		"duel_effect_id": 17,
+		"effect_file_name": "ef741_65f_dark_hall_lunaris"
+	},
+	{
+		"ID": 59,
+		"duel_effect_id": 17,
+		"effect_file_name": "ef741_67f_dark_Javelin_lunaris"
+	},
+	{
+		"ID": 60,
+		"duel_effect_id": 17,
+		"effect_file_name": "ef741_131f_Dark_Swarm_lunaris"
+	},
+	{
+		"ID": 61,
+		"duel_effect_id": 17,
+		"effect_file_name": "ef741_236f_dark_finish_lunaris"
+	},
+	{
+		"ID": 62,
+		"duel_effect_id": 17,
+		"effect_file_name": "ef743_effect_lance_lunaris"
+	},
+	{
+		"ID": 63,
+		"duel_effect_id": 17,
+		"effect_file_name": "ef1021_brave_frontier_lunaris"
+	},
+	{
+		"ID": 64,
+		"duel_effect_id": 17,
+		"effect_file_name": "ef1021_f6_3_bg_kuro"
+	},
+	{
+		"ID": 66,
+		"duel_effect_id": 18,
+		"effect_file_name": "ef744_effect_sword_excalibur"
+	},
+	{
+		"ID": 68,
+		"duel_effect_id": 18,
+		"effect_file_name": "ef1022_p3_saint_excalibur_growup"
+	},
+	{
+		"ID": 69,
+		"duel_effect_id": 18,
+		"effect_file_name": "ef745_p1_duel_excalibur"
+	},
+	{
+		"ID": 74,
+		"duel_effect_id": 19,
+		"effect_file_name": "ef746_effect_sword_kanon"
+	},
+	{
+		"ID": 75,
+		"duel_effect_id": 19,
+		"effect_file_name": "ef1023_p1_rise_kanon"
+	},
+	{
+		"ID": 76,
+		"duel_effect_id": 19,
+		"effect_file_name": "ef1023_p2_pointup_eff"
+	},
+	{
+		"ID": 77,
+		"duel_effect_id": 19,
+		"effect_file_name": "ef1023_p3_furiorosi_eff"
+	},
+	{
+		"ID": 78,
+		"duel_effect_id": 19,
+		"effect_file_name": "ef1023_p4_dash_pointup_eff"
+	},
+	{
+		"ID": 79,
+		"duel_effect_id": 19,
+		"effect_file_name": "ef1023_p5_zangeki_1_eff"
+	},
+	{
+		"ID": 81,
+		"duel_effect_id": 19,
+		"effect_file_name": "ef1023_p7_kiriage_eff"
+	},
+	{
+		"ID": 82,
+		"duel_effect_id": 19,
+		"effect_file_name": "ef1023_p8_kiriorosi_eff"
+	},
+	{
+		"ID": 83,
+		"duel_effect_id": 19,
+		"effect_file_name": "ef1023_p9_kiriharai_eff"
+	},
+	{
+		"ID": 84,
+		"duel_effect_id": 19,
+		"effect_file_name": "ef1023_p10_jump_giri_eff"
+	},
+	{
+		"ID": 85,
+		"duel_effect_id": 19,
+		"effect_file_name": "ef1023_p11_zengamen_eff"
+	},
+	{
+		"ID": 86,
+		"duel_effect_id": 19,
+		"effect_file_name": "ef1023_p12_high_slash_eff"
+	},
+	{
+		"ID": 87,
+		"duel_effect_id": 19,
+		"effect_file_name": "ef1023_p13_finish_blow_charge"
+	},
+	{
+		"ID": 88,
+		"duel_effect_id": 19,
+		"effect_file_name": "ef747_p1_duel_kanon"
+	},
+	{
+		"ID": 89,
+		"duel_effect_id": 19,
+		"effect_file_name": "ef747_p2_finish_blow"
+	},
+	{
+		"ID": 90,
+		"duel_effect_id": 20,
+		"effect_file_name": "ef1024_p1_ultimate_eros"
+	},
+	{
+		"ID": 91,
+		"duel_effect_id": 20,
+		"effect_file_name": "ef748_unit_attach_effect_eros"
+	},
+	{
+		"ID": 92,
+		"duel_effect_id": 20,
+		"effect_file_name": "ef1024_p2_high_jump"
+	},
+	{
+		"ID": 93,
+		"duel_effect_id": 20,
+		"effect_file_name": "ef1024_p3_sky_stop"
+	},
+	{
+		"ID": 94,
+		"duel_effect_id": 20,
+		"effect_file_name": "ef1024_p4_arrow_diffusion"
+	},
+	{
+		"ID": 95,
+		"duel_effect_id": 20,
+		"effect_file_name": "ef749_p1_duel_eros"
+	},
+	{
+		"ID": 96,
+		"duel_effect_id": 20,
+		"effect_file_name": "ef749_p2_finish_arrow_charge"
+	},
+	{
+		"ID": 97,
+		"duel_effect_id": 20,
+		"effect_file_name": "ef749_p3_finish_arrow_burst"
+	},
+	{
+		"ID": 98,
+		"duel_effect_id": 20,
+		"effect_file_name": "ef749_p4_arrow_swarm_skystop"
+	},
+	{
+		"ID": 99,
+		"duel_effect_id": 20,
+		"effect_file_name": "ef749_p5_arrow_swarm_attack"
+	},
+	{
+		"ID": 100,
+		"duel_effect_id": 20,
+		"effect_file_name": "ef749_p6_finish_arrow_impact"
+	},
+	{
+		"ID": 101,
+		"duel_effect_id": 20,
+		"effect_file_name": "ef749_p7_last_explosion"
+	},
+	{
+		"ID": 102,
+		"duel_effect_id": 23,
+		"effect_file_name": "ef752_p1_duel_ukonvasara"
+	},
+	{
+		"ID": 103,
+		"duel_effect_id": 23,
+		"effect_file_name": "ef753_effect_axs_ukonvasara_p1"
+	},
+	{
+		"ID": 104,
+		"duel_effect_id": 23,
+		"effect_file_name": "ef754_effect_axs_ukonvasara_p2"
+	},
+	{
+		"ID": 105,
+		"duel_effect_id": 23,
+		"effect_file_name": "ef755_effect_ukonvasara_bip"
+	},
+	{
+		"ID": 106,
+		"duel_effect_id": 23,
+		"effect_file_name": "ef1027_p1_ukonvasara"
+	},
+	{
+		"ID": 107,
+		"duel_effect_id": 24,
+		"effect_file_name": "ef1028_p1_Ithuriel"
+	},
+	{
+		"ID": 108,
+		"duel_effect_id": 24,
+		"effect_file_name": "ef756_p1_duel_Ithuriel"
+	},
+	{
+		"ID": 109,
+		"duel_effect_id": 24,
+		"effect_file_name": "ef757_effect_spear_Ithuriel_shuuto"
+	},
+	{
+		"ID": 110,
+		"duel_effect_id": 24,
+		"effect_file_name": "ef758_effect_spear_Ithuriel_stop"
+	},
+	{
+		"ID": 111,
+		"duel_effect_id": 24,
+		"effect_file_name": "ef759_effect_spear_Ithuriel_move"
+	},
+	{
+		"ID": 112,
+		"duel_effect_id": 25,
+		"effect_file_name": "ef1025_wedding_masamune"
+	},
+	{
+		"ID": 113,
+		"duel_effect_id": 32,
+		"effect_file_name": "ef731_duel_denpa_panda_yukata"
+	},
+	{
+		"ID": 114,
+		"duel_effect_id": 32,
+		"effect_file_name": "ef1011_denpa_pinkii_yukata"
+	},
+	{
+		"ID": 115,
+		"duel_effect_id": 35,
+		"effect_file_name": "ef730_duel_denpa_nemu_yukata"
+	},
+	{
+		"ID": 116,
+		"duel_effect_id": 35,
+		"effect_file_name": "ef1014_denpa_nemu_yukata"
+	},
+	{
+		"ID": 117,
+		"duel_effect_id": 35,
+		"effect_file_name": "ef1014_f4_03_fdenpa_nemu_yukata"
+	},
+	{
+		"ID": 118,
+		"duel_effect_id": 42,
+		"effect_file_name": "ef1033_sayaka"
+	},
+	{
+		"ID": 119,
+		"duel_effect_id": 40,
+		"effect_file_name": "ef1035_homura_obj"
+	},
+	{
+		"ID": 120,
+		"duel_effect_id": 40,
+		"effect_file_name": "ef1035_homura_weaponr"
+	},
+	{
+		"ID": 121,
+		"duel_effect_id": 40,
+		"effect_file_name": "ef1035_homura_c1_hit"
+	},
+	{
+		"ID": 122,
+		"duel_effect_id": 40,
+		"effect_file_name": "ef1035_homura_c2_hit"
+	},
+	{
+		"ID": 123,
+		"duel_effect_id": 40,
+		"effect_file_name": "ef1035_homura_effect_cam"
+	},
+	{
+		"ID": 124,
+		"duel_effect_id": 43,
+		"effect_file_name": "ef1038_madoka_homura_obj"
+	},
+	{
+		"ID": 125,
+		"duel_effect_id": 43,
+		"effect_file_name": "ef1038_madoka_homura"
+	},
+	{
+		"ID": 126,
+		"duel_effect_id": 43,
+		"effect_file_name": "ef1038_homura"
+	},
+	{
+		"ID": 127,
+		"duel_effect_id": 43,
+		"effect_file_name": "ef1038_madoka_A"
+	},
+	{
+		"ID": 128,
+		"duel_effect_id": 43,
+		"effect_file_name": "ef1038_madoka_B"
+	},
+	{
+		"ID": 129,
+		"duel_effect_id": 41,
+		"effect_file_name": "ef1039_kyouko_c1_chain"
+	},
+	{
+		"ID": 130,
+		"duel_effect_id": 41,
+		"effect_file_name": "ef1039_kyouko_c2"
+	},
+	{
+		"ID": 131,
+		"duel_effect_id": 41,
+		"effect_file_name": "ef1039_kyouko_spear01"
+	},
+	{
+		"ID": 132,
+		"duel_effect_id": 41,
+		"effect_file_name": "ef1039_kyouko_spear02"
+	},
+	{
+		"ID": 133,
+		"duel_effect_id": 41,
+		"effect_file_name": "ef1039_kyouko_spear03"
+	},
+	{
+		"ID": 134,
+		"duel_effect_id": 41,
+		"effect_file_name": "ef1039_kyouko_weapon"
+	},
+	{
+		"ID": 135,
+		"duel_effect_id": 31,
+		"effect_file_name": "ef1034_madoka_all"
+	},
+	{
+		"ID": 136,
+		"duel_effect_id": 31,
+		"effect_file_name": "ef1034_madoka_bow_ver2"
+	},
+	{
+		"ID": 137,
+		"duel_effect_id": 31,
+		"effect_file_name": "ef1034_madoka_prefab"
+	},
+	{
+		"ID": 138,
+		"duel_effect_id": 39,
+		"effect_file_name": "ef1036_mami"
+	},
+	{
+		"ID": 139,
+		"duel_effect_id": 39,
+		"effect_file_name": "ef1036_mami_ribon"
+	},
+	{
+		"ID": 140,
+		"duel_effect_id": 39,
+		"effect_file_name": "ef1036_mami2"
+	},
+	{
+		"ID": 141,
+		"duel_effect_id": 44,
+		"effect_file_name": "ef1040_menma"
+	},
+	{
+		"ID": 142,
+		"duel_effect_id": 44,
+		"effect_file_name": "ef1040_menma_weapon"
+	},
+	{
+		"ID": 143,
+		"duel_effect_id": 45,
+		"effect_file_name": "ef1041_anaru"
+	},
+	{
+		"ID": 144,
+		"duel_effect_id": 45,
+		"effect_file_name": "ef1041_anaru2_ddd"
+	},
+	{
+		"ID": 145,
+		"duel_effect_id": 45,
+		"effect_file_name": "ef1041_anaru3_ddd"
+	},
+	{
+		"ID": 146,
+		"duel_effect_id": 45,
+		"effect_file_name": "ef1041_anaru4_ddd"
+	},
+	{
+		"ID": 147,
+		"duel_effect_id": 46,
+		"effect_file_name": "ef1041_turuko_menma_unit"
+	},
+	{
+		"ID": 148,
+		"duel_effect_id": 46,
+		"effect_file_name": "ef1041_turuko_obj"
+	},
+	{
+		"ID": 149,
+		"duel_effect_id": 46,
+		"effect_file_name": "ef1041_turuko_psychopath"
+	},
+	{
+		"ID": 150,
+		"duel_effect_id": 47,
+		"effect_file_name": "ef1043_heiwabusters_anaru"
+	},
+	{
+		"ID": 151,
+		"duel_effect_id": 47,
+		"effect_file_name": "ef1043_heiwabusters_ef"
+	},
+	{
+		"ID": 152,
+		"duel_effect_id": 47,
+		"effect_file_name": "ef1043_heiwabusters_menma"
+	},
+	{
+		"ID": 153,
+		"duel_effect_id": 47,
+		"effect_file_name": "ef1043_heiwabusters_obj"
+	},
+	{
+		"ID": 154,
+		"duel_effect_id": 47,
+		"effect_file_name": "ef1043_heiwabusters_turuko"
+	},
+	{
+		"ID": 155,
+		"duel_effect_id": 55,
+		"effect_file_name": "ef1053_shita"
+	},
+	{
+		"ID": 156,
+		"duel_effect_id": 58,
+		"effect_file_name": "ef1052_flabellum_01"
+	},
+	{
+		"ID": 157,
+		"duel_effect_id": 59,
+		"effect_file_name": "ef1052_flabellum_02"
+	},
+	{
+		"ID": 158,
+		"duel_effect_id": 27,
+		"effect_file_name": "ef1029_longinus_mekakusi"
+	},
+	{
+		"ID": 159,
+		"duel_effect_id": 27,
+		"effect_file_name": "ef1029_longinus_swimwear"
+	},
+	{
+		"ID": 160,
+		"duel_effect_id": 28,
+		"effect_file_name": "ef1030_akane_dominator01"
+	},
+	{
+		"ID": 161,
+		"duel_effect_id": 28,
+		"effect_file_name": "ef1030_akane_dominator02"
+	},
+	{
+		"ID": 162,
+		"duel_effect_id": 28,
+		"effect_file_name": "ef1030_akane_eyes"
+	},
+	{
+		"ID": 163,
+		"duel_effect_id": 28,
+		"effect_file_name": "ef1030_akane_psychopath_01"
+	},
+	{
+		"ID": 164,
+		"duel_effect_id": 28,
+		"effect_file_name": "ef1030_akane_psychopath_02"
+	},
+	{
+		"ID": 165,
+		"duel_effect_id": 29,
+		"effect_file_name": "ef1031_yayoi_dominator01"
+	},
+	{
+		"ID": 166,
+		"duel_effect_id": 29,
+		"effect_file_name": "ef1031_yayoi_dominator02"
+	},
+	{
+		"ID": 167,
+		"duel_effect_id": 29,
+		"effect_file_name": "ef1031_yayoi_eyes"
+	},
+	{
+		"ID": 168,
+		"duel_effect_id": 29,
+		"effect_file_name": "ef1031_yayoi_psychopath_01"
+	},
+	{
+		"ID": 169,
+		"duel_effect_id": 29,
+		"effect_file_name": "ef1031_yayoi_psychopath_02"
+	},
+	{
+		"ID": 170,
+		"duel_effect_id": 30,
+		"effect_file_name": "ef1032_laevateinn_swimwear_01"
+	},
+	{
+		"ID": 171,
+		"duel_effect_id": 30,
+		"effect_file_name": "ef1032_laevateinn_swimwear_obj"
+	},
+	{
+		"ID": 172,
+		"duel_effect_id": 30,
+		"effect_file_name": "ef1032_laevateinn_swimwear_sword"
+	},
+	{
+		"ID": 173,
+		"duel_effect_id": 48,
+		"effect_file_name": "ef1044_draupnir"
+	},
+	{
+		"ID": 174,
+		"duel_effect_id": 48,
+		"effect_file_name": "ef1044_hlwMjo"
+	},
+	{
+		"ID": 175,
+		"duel_effect_id": 48,
+		"effect_file_name": "ef1044_hlwMjo2_ddd"
+	},
+	{
+		"ID": 176,
+		"duel_effect_id": 49,
+		"effect_file_name": "ef1045_hlwBasho"
+	},
+	{
+		"ID": 177,
+		"duel_effect_id": 49,
+		"effect_file_name": "ef1045_hlwBasho_weapon"
+	},
+	{
+		"ID": 178,
+		"duel_effect_id": 50,
+		"effect_file_name": "ef1047_lucina"
+	},
+	{
+		"ID": 179,
+		"duel_effect_id": 50,
+		"effect_file_name": "ef1047_lucina_weaponl"
+	},
+	{
+		"ID": 180,
+		"duel_effect_id": 50,
+		"effect_file_name": "ef1047_lucina_weaponr"
+	},
+	{
+		"ID": 181,
+		"duel_effect_id": 51,
+		"effect_file_name": "ef1046_michele"
+	},
+	{
+		"ID": 182,
+		"duel_effect_id": 51,
+		"effect_file_name": "ef1046_michele_weaponl_ddd"
+	},
+	{
+		"ID": 183,
+		"duel_effect_id": 51,
+		"effect_file_name": "ef1046_michele_weaponr_ddd"
+	},
+	{
+		"ID": 184,
+		"duel_effect_id": 53,
+		"effect_file_name": "ef1048_tirufingu"
+	},
+	{
+		"ID": 185,
+		"duel_effect_id": 53,
+		"effect_file_name": "ef1048_tirufingu_weaponr"
+	},
+	{
+		"ID": 186,
+		"duel_effect_id": 54,
+		"effect_file_name": "ef1049_tirufingu"
+	},
+	{
+		"ID": 187,
+		"duel_effect_id": 54,
+		"effect_file_name": "ef1049_tirufingu_bip"
+	},
+	{
+		"ID": 188,
+		"duel_effect_id": 54,
+		"effect_file_name": "ef1049_tirufingu_weaponr"
+	},
+	{
+		"ID": 189,
+		"duel_effect_id": 60,
+		"effect_file_name": "ef1051_yagurushi_01"
+	},
+	{
+		"ID": 190,
+		"duel_effect_id": 60,
+		"effect_file_name": "ef1051_yagurushi_Head"
+	},
+	{
+		"ID": 191,
+		"duel_effect_id": 60,
+		"effect_file_name": "ef1051_yagurushi_obj"
+	},
+	{
+		"ID": 192,
+		"duel_effect_id": 61,
+		"effect_file_name": "ef1051_yagurushi_02"
+	},
+	{
+		"ID": 193,
+		"duel_effect_id": 61,
+		"effect_file_name": "ef1051_yagurushi_Head"
+	},
+	{
+		"ID": 194,
+		"duel_effect_id": 61,
+		"effect_file_name": "ef1051_yagurushi_obj"
+	},
+	{
+		"ID": 195,
+		"duel_effect_id": 62,
+		"effect_file_name": "ef1057_exgramme"
+	},
+	{
+		"ID": 196,
+		"duel_effect_id": 63,
+		"effect_file_name": "ef1058_exgramme"
+	},
+	{
+		"ID": 197,
+		"duel_effect_id": 66,
+		"effect_file_name": "ef1059_anniversarylevateinn"
+	},
+	{
+		"ID": 198,
+		"duel_effect_id": 66,
+		"effect_file_name": "ef1059_anniversarylevateinn_BG"
+	},
+	{
+		"ID": 199,
+		"duel_effect_id": 66,
+		"effect_file_name": "ef1059_anniversarylevateinn_parts"
+	},
+	{
+		"ID": 200,
+		"duel_effect_id": 67,
+		"effect_file_name": "ef1060_anniversarylevateinn"
+	},
+	{
+		"ID": 201,
+		"duel_effect_id": 67,
+		"effect_file_name": "ef1059_anniversarylevateinn_BG"
+	},
+	{
+		"ID": 202,
+		"duel_effect_id": 67,
+		"effect_file_name": "ef1059_anniversarylevateinn_parts"
+	},
+	{
+		"ID": 203,
+		"duel_effect_id": 69,
+		"effect_file_name": "ef1067_myuruniru"
+	},
+	{
+		"ID": 204,
+		"duel_effect_id": 70,
+		"effect_file_name": "ef1004_attack_rune_6s"
+	},
+	{
+		"ID": 205,
+		"duel_effect_id": 71,
+		"effect_file_name": "ef1061_exaimuru"
+	},
+	{
+		"ID": 206,
+		"duel_effect_id": 71,
+		"effect_file_name": "ef1061_exaimuru_map"
+	},
+	{
+		"ID": 207,
+		"duel_effect_id": 72,
+		"effect_file_name": "ef1062_exaimuru"
+	},
+	{
+		"ID": 208,
+		"duel_effect_id": 72,
+		"effect_file_name": "ef1061_exaimuru_map"
+	},
+	{
+		"ID": 209,
+		"duel_effect_id": 73,
+		"effect_file_name": "ef1063_ascalon"
+	},
+	{
+		"ID": 210,
+		"duel_effect_id": 73,
+		"effect_file_name": "ef1063_ascalon_bunshin"
+	},
+	{
+		"ID": 211,
+		"duel_effect_id": 73,
+		"effect_file_name": "ef1063_ascalon_weapon"
+	},
+	{
+		"ID": 212,
+		"duel_effect_id": 74,
+		"effect_file_name": "ef1064_ascalon"
+	},
+	{
+		"ID": 213,
+		"duel_effect_id": 74,
+		"effect_file_name": "ef1063_ascalon_bunshin"
+	},
+	{
+		"ID": 214,
+		"duel_effect_id": 74,
+		"effect_file_name": "ef1063_ascalon_weapon"
+	},
+	{
+		"ID": 215,
+		"duel_effect_id": 74,
+		"effect_file_name": "ef1064_ascalon_Bip"
+	},
+	{
+		"ID": 216,
+		"duel_effect_id": 75,
+		"effect_file_name": "ef1061_exaimuru"
+	},
+	{
+		"ID": 217,
+		"duel_effect_id": 75,
+		"effect_file_name": "ef1061_exaimuru_map"
+	},
+	{
+		"ID": 218,
+		"duel_effect_id": 76,
+		"effect_file_name": "ef1062_exaimuru"
+	},
+	{
+		"ID": 219,
+		"duel_effect_id": 77,
+		"effect_file_name": "ef1071_DevilHomura"
+	},
+	{
+		"ID": 220,
+		"duel_effect_id": 80,
+		"effect_file_name": "ef1072_wazura"
+	},
+	{
+		"ID": 221,
+		"duel_effect_id": 81,
+		"effect_file_name": "ef1073_wazura"
+	},
+	{
+		"ID": 222,
+		"duel_effect_id": 82,
+		"effect_file_name": "ef1037_Umadoka_01"
+	},
+	{
+		"ID": 223,
+		"duel_effect_id": 82,
+		"effect_file_name": "ef1037_Umadoka_bow"
+	},
+	{
+		"ID": 224,
+		"duel_effect_id": 83,
+		"effect_file_name": "ef1071_DevilHomura"
+	},
+	{
+		"ID": 225,
+		"duel_effect_id": 84,
+		"effect_file_name": "ef1068_othinus"
+	},
+	{
+		"ID": 226,
+		"duel_effect_id": 84,
+		"effect_file_name": "ef1068_othinus_LHand"
+	},
+	{
+		"ID": 227,
+		"duel_effect_id": 84,
+		"effect_file_name": "ef1068_othinus_op"
+	},
+	{
+		"ID": 228,
+		"duel_effect_id": 84,
+		"effect_file_name": "ef1068_othinus_RHand"
+	},
+	{
+		"ID": 229,
+		"duel_effect_id": 84,
+		"effect_file_name": "ef1068_othinus_weaponl"
+	},
+	{
+		"ID": 230,
+		"duel_effect_id": 84,
+		"effect_file_name": "ef1068_othinus_weaponr"
+	},
+	{
+		"ID": 231,
+		"duel_effect_id": 85,
+		"effect_file_name": "ef1069_othinus"
+	},
+	{
+		"ID": 232,
+		"duel_effect_id": 85,
+		"effect_file_name": "ef1068_othinus_LHand"
+	},
+	{
+		"ID": 233,
+		"duel_effect_id": 85,
+		"effect_file_name": "ef1068_othinus_op"
+	},
+	{
+		"ID": 234,
+		"duel_effect_id": 85,
+		"effect_file_name": "ef1068_othinus_RHand"
+	},
+	{
+		"ID": 235,
+		"duel_effect_id": 85,
+		"effect_file_name": "ef1068_othinus_weaponl"
+	},
+	{
+		"ID": 236,
+		"duel_effect_id": 85,
+		"effect_file_name": "ef1068_othinus_weaponr"
+	},
+	{
+		"ID": 237,
+		"duel_effect_id": 86,
+		"effect_file_name": "ef1083_ValentineTirufingu5"
+	},
+	{
+		"ID": 238,
+		"duel_effect_id": 86,
+		"effect_file_name": "ef1083_ValentineTirufingu5_weapon"
+	},
+	{
+		"ID": 239,
+		"duel_effect_id": 87,
+		"effect_file_name": "ef1083_ValentineTirufingu6"
+	},
+	{
+		"ID": 240,
+		"duel_effect_id": 87,
+		"effect_file_name": "ef1083_ValentineTirufingu6_weapon"
+	},
+	{
+		"ID": 241,
+		"duel_effect_id": 88,
+		"effect_file_name": "ef1087_fate_saver_map"
+	},
+	{
+		"ID": 242,
+		"duel_effect_id": 88,
+		"effect_file_name": "ef1087_fate_saver_scene01"
+	},
+	{
+		"ID": 243,
+		"duel_effect_id": 88,
+		"effect_file_name": "ef1087_fate_saver_scene02"
+	},
+	{
+		"ID": 244,
+		"duel_effect_id": 89,
+		"effect_file_name": "ef1087_fate_saver_map"
+	},
+	{
+		"ID": 245,
+		"duel_effect_id": 89,
+		"effect_file_name": "ef1087_fate_saver_scene01"
+	},
+	{
+		"ID": 246,
+		"duel_effect_id": 89,
+		"effect_file_name": "ef1087_fate_saver_scene02"
+	},
+	{
+		"ID": 247,
+		"duel_effect_id": 90,
+		"effect_file_name": "ef1081_Forcas"
+	},
+	{
+		"ID": 248,
+		"duel_effect_id": 90,
+		"effect_file_name": "ef1081_Forcas_Rhand"
+	},
+	{
+		"ID": 249,
+		"duel_effect_id": 90,
+		"effect_file_name": "ef1081_Forcas_weaponr"
+	},
+	{
+		"ID": 250,
+		"duel_effect_id": 91,
+		"effect_file_name": "ef1082_Forcas"
+	},
+	{
+		"ID": 251,
+		"duel_effect_id": 91,
+		"effect_file_name": "ef1081_Forcas_Rhand"
+	},
+	{
+		"ID": 252,
+		"duel_effect_id": 91,
+		"effect_file_name": "ef1081_Forcas_weaponr"
+	},
+	{
+		"ID": 253,
+		"duel_effect_id": 92,
+		"effect_file_name": "ef1090_fate_Rider_map"
+	},
+	{
+		"ID": 254,
+		"duel_effect_id": 92,
+		"effect_file_name": "ef1090_fate_Rider"
+	},
+	{
+		"ID": 255,
+		"duel_effect_id": 93,
+		"effect_file_name": "ef1090_fate_Rider_map"
+	},
+	{
+		"ID": 256,
+		"duel_effect_id": 93,
+		"effect_file_name": "ef1090_fate_Rider"
+	},
+	{
+		"ID": 257,
+		"duel_effect_id": 94,
+		"effect_file_name": "ef1094_810004_excalibur_01"
+	},
+	{
+		"ID": 258,
+		"duel_effect_id": 94,
+		"effect_file_name": "ef1094_810004_excalibur_02"
+	},
+	{
+		"ID": 259,
+		"duel_effect_id": 95,
+		"effect_file_name": "ef1085_Aphrodite"
+	},
+	{
+		"ID": 260,
+		"duel_effect_id": 95,
+		"effect_file_name": "ef1085_Aphrodite_weapon"
+	},
+	{
+		"ID": 261,
+		"duel_effect_id": 96,
+		"effect_file_name": "ef1086_Aphrodite"
+	},
+	{
+		"ID": 262,
+		"duel_effect_id": 96,
+		"effect_file_name": "ef1085_Aphrodite_weapon"
+	}
+]

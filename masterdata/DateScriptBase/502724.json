@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 502724,
+		"script": ";;//すこし上がる\n;;B\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_onsen\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# voice 5027 \"freischotz_0004\"\n# face %(unit_a)s \"normal\"\n@フライシュッツ\nそうだね、\nこういう日もあって良いのかもね\n\n@フライシュッツ\nうーん、気持ちいいな…\n\n# textflame 0 0\n@\nすっかりリラックスした様子で\nうとうとし始めるフライシュッツ\n\n# face %(unit_a)s \"happy\"\n# textflame 1 1\n@フライシュッツ\n心地よすぎて…\n眠くなってきちゃったよ…\n\n# textflame 0 0\n;;モノローグ\n@\nやがて寝息を立て始める\nマスターは無理に起こしたりせず\n\n;;モノローグ\n@\nフライシュッツが起きるまで\nそっとしておいてあげるのであった\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

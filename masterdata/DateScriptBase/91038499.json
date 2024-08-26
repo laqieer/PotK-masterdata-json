@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 91038499,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# se \"SE_0732\"\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n;;-----------------------------------------\n@アルマス\n………\n\n# face %(unit_a)s \"smile\"\n# voice 210381 \"almace_0004\"\n@アルマス\n正解\n\n@アルマス\nふふっ！\nさすがマスターね\n\n# face %(unit_a)s \"usual\"\n# voice 210381 \"almace_0002\"\n@アルマス\nどう？\n少しは楽しめた？\n\n# face %(unit_a)s \"surprise\"\n@アルマス\nえ？\nクイズを出した\n私の方が嬉しそう？\n\n# face %(unit_a)s \"usual\"\n# voice 210381 \"almace_0003\"\n@アルマス\nそりゃ…私のことを\n知っててくれてるのは\n正直…嬉しい、かな\n\n# face %(unit_a)s \"angry\"\n@アルマス\nって！嘘！\n今のはなし！\n\n@アルマス\n私のことを知ってたからって\n全然、嬉しくないんだから！\n\n# textflame 0 0\n@\nそうは言っているが、\nマスターは彼女との絆が\nより強くなっているのを感じていた\n\n;;-----------------------------------------\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

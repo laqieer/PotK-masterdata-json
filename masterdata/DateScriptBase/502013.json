@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 502013,
+		"script": ";;A魚獲り上手いんだね（中）\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_stream_day\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n@タスラム\nあたしの投石には\n魂がこもってるからな！\n\n# textflame 0 0\n@\nタスラムは\n胸を張ってにやりと笑った\n\n# textflame 1 1\n# eye %(unit_a)s \"close\"\n@タスラム\nこんな魚なんて\n何百匹だって獲れるさ！\nなんなら今からでも…\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"sad\"\n# voice 5020 \"tasuramu_0022\"\n@タスラム\nえー！？そんなに食べれない？\n\n# face %(unit_a)s \"usual\"\n@タスラム\n情けないなぁ、大丈夫！\n余った分はあたしが食べてやる！\n\n# face %(unit_a)s \"sad\"\n@タスラム\nえ？一度冷静に？\n\n# eye %(unit_a)s \"close\"\n@タスラム\n…………\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"usual\"\n@タスラム\nや、やっぱムリだな\n食べ盛りって\n言っても限界あるし…\n\n# textflame 0 0\n@\n流石に百匹は食べれないのか\nタスラムは、たははと笑いながら\n頬をかいた\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

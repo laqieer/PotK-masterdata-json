@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 503724,
+		"script": ";;A\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_fireworks\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# face %(unit_a)s \"surprise\"\n# voice 550371 \"logistille_c_0024\"\n# textflame 1 1\n@ロジェスティラ\nわっ――ひゃあぁーっ！？\n\n# voice 550371 \"logistille_c_0031\"\n@ロジェスティラ\nす、すみませっ…！！\nいいいきなり\n近づかれたのでっ…！\n\n@ロジェスティラ\nそっ、そうですよね！\n耳の近くで言わないと\n聞こえませんよねっ…！\n\n@ロジェスティラ\nじゃあ…どうぞっ…！\n\n# face %(unit_a)s \"sad\"\n# voice 550371 \"logistille_c_0023\"\n@ロジェスティラ\nひうっ…！\nあ、い、息がぁ…！\nくすぐったっ…ひゃわあーっ！！\n\n# face %(unit_a)s \"surprise\"\n@ロジェスティラ\nごめんなさいっ、ごめんなさいっ！\nこんなの無理ですっ、\n恥ずかしすぎますぅっ…！\n\n# voice 550371 \"logistille_c_0022\"\n@ロジェスティラ\nえっ…？\n今度はわたしが\nマスターさんの耳に…！？\n\n# face %(unit_a)s \"sad\"\n# voice 550371 \"logistille_c_0032\"\n@ロジェスティラ\nわ、わかりました…！\nやってみますっ…！\n\n# voice 550371 \"logistille_c_0001\"\n@ロジェスティラ\n…マスターさんっ！\n聞こえていますかっ？\n\n# face %(unit_a)s \"surprise\"\n# voice 550371 \"logistille_c_0022\"\n@ロジェスティラ\nえっと…今日は楽しい\nデートをありが――え？\n急に離れて、どうしたんですか？\n\n# voice 550371 \"logistille_c_0008\"\n@ロジェスティラ\nあ、あははっ…\nマスターさんも、\nお耳は苦手なんですね…？\n\n@ロジェスティラ\nあの…\nでは、花火を見るのに\n集中しませんか？\n\n# textflame 0 0\n@\n結局、花火が終わるまで\n会話はほとんどできなかったが\n\n@\n二人の間の距離は、\n前よりも縮まった気が\nしたのだった\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

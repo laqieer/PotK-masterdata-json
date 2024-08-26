@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 303222,
+		"script": ";;Cまだ一緒にいたい\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_room\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# voice 230321 \"gaedearg_ge_0003\"\n# face %(unit_a)s \"normal\"\n@ガ・ジャルグ\nたしかに…\nこんな遅くまで\nデートしてたんだものね\n\n@ガ・ジャルグ\nそれじゃあ、早く\n部屋に行きましょう？\n\n# voice 230321 \"gaedearg_ge_0007\"\n# face %(unit_a)s \"angry\"\n@ガ・ジャルグ\n完全なるわたしが\nあなたの疲れを\n癒してあげる！\n\n@ガ・ジャルグ\nわたしの手にかかれば、\nマスターひとり癒すくらい\n簡単なんだからっ\n\n# voice 230321 \"gaedearg_ge_0028\"\n# face %(unit_a)s \"normal\"\n@ガ・ジャルグ\nそれに…\nあなたにはいつも\n褒めてもらってるし\n\n@ガ・ジャルグ\n今日くらいは、\n感謝の気持ちを\n伝えてもいいかなって…\n\n# face %(unit_a)s \"sad\"\n@ガ・ジャルグ\n…なんだか素直だね、って？\nそっ、そうかしら…！？\n\n@ガ・ジャルグ\nわたしはいつも通りよ！\nほらっ、マスター\n早く行きましょう…！\n\n# textflame 0 0\n@\nガ・ジャルグに引っ張られて\n部屋に入っていくマスター\n\n# textflame 0 0\n@\n二人で穏やかな時間を\n過ごしたのだった…\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

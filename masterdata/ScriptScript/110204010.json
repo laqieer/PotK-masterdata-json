@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 110204010,
+		"script": ";;------------------------------------------------------------\n;;背景：平原\n;;ステージ9：211002048\n;;戦闘なし会話のみ\n;;------------------------------------------------------------\n# script \"lisp\"\n# background \"plain\"\n# bgmfile \"bgm400_1\" \"BgmIntegralNoahEvent\" 0\n# body 103611\n# pos 103611 2\n# scale 103611 0.8 0\n# body 196\n# pos 196 4\n# scale 196 0.8 0\n# layer 103611 1\n# layer 196 2\n# mask 103611 off\n# mask 196 off\n# textwindow \"nomal\"\n# face 103611 \"usual\"\n# face 196 \"normal\"\n# textflame 1 1\n# textboxarrow 0 3\n# voice 9943 \"almace_navikan_0002\"\n@アルマス\nそういえば、\nもうショップは覗いてみた？\n\n# textboxarrow 0 1\n# voice 1036 \"ragnarok_0003\"\n@ラグナロク\nショップでは『ゼニー』や\n『ファンキルメダル』、『レアメダル』を\n利用して\n\n# face 103611 \"happy\"\n@ラグナロク\n姫の育成に必要な素材などを\n購入することができるのよ\n\n@ラグナロク\n購入数の上限まで購入した商品も\n次の月になれば\nまた購入できるようになるわ\n\n# face 196 \"happy\"\n# textboxarrow 0 3\n@アルマス\nショップには他にもユニットや\nアイテムの所持枠の解放や\n\n@アルマス\n『キラーズチケット交換所』に\n『レアメダルスロット』なんかも\nあるから\n\n@アルマス\n定期的に覗くようにした方が\nいいわよ"
+	}
+]

@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 302112,
+		"script": ";;B大\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_ferris\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 3021 \"gaebuide_0003\"\n@ガ・ボー\n…はい、そんな気がします\n\n@ガ・ボー\nボーと近い魂を持った誰かが…\nきっと姉様のような方が…\n\n# face %(unit_a)s \"smile\"\n@ガ・ボー\nどこかに…\nいるような気がするんです\n\n# textflame 0 0\n@\nガ・ボーは\nますます遠くを見つめるように\nガラスに頬を寄せた\n\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@ガ・ボー\nボーが未熟で半人前なのは\n魂が２つに分かれてしまったから…\n\n# textflame 0 0\n@\n苦しそうにガ・ボーは\n胸を抑える\n\n# voice 3021 \"gaebuide_0008\"\n# textflame 1 1\n@ガ・ボー\nこの埋まらない喪失感は…\nきっとそのせい…\n\n# textflame 0 0\n@\nマスターは言葉に詰まる…\nどう、言ってあげたらいいのか\n伸ばした手で宙を掴むしかない\n\n# face %(unit_a)s \"normal\"\n# textflame 1 1\n@ガ・ボー\nそんなことばかり\n前は…考えていました\n\n@ガ・ボー\n…………\n\n# face %(unit_a)s \"smile\"\n# voice 3021 \"gaebuide_0005\"\n@ガ・ボー\nマスターに\n出会うまでは…\n\n# textflame 0 0\n@\n振り向いてガ・ボーは\n穏やかなとびっきりの笑顔を見せる\n\n# textflame 0 0\n@\n吸い込まれそうな美しい瞳を\nマスターは息を飲んで\n見つめるしかなかった――\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

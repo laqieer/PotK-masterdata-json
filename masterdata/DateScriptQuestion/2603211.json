@@ -1,0 +1,302 @@
+[
+	{
+		"ID": 5961,
+		"unitID": 2603211,
+		"questionID": 9603201,
+		"script": ";;杖,1\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 560321 \"orpheus_c_0004\"\n@オルフェウス\nなんかさー、\n夏ってよさげだよね～\n平和って感じでさ～\n\n@オルフェウス\n世界中が、夏みたいに\nずっとテンアゲで\nバブみがあったら…\n\n@オルフェウス\nあたしも\nもっと自由で\nいられるのかも\n\n# voice 560321 \"orpheus_c_0001\"\n@オルフェウス\nそうだ、\nここは占いで決めてみる系で\nよくない？\n\n@オルフェウス\nあたしが出すクイズに\nリーダーが正解できたら、\nあたしは自由に…\n\n@オルフェウス\nそう、世界は平和に\nなるってことで！\n\n# eye %(unit_a)s \"close\"\n@オルフェウス\nじゃ、いくっしょ♪\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしの武器属性は知ってるっしょ？　\n\n# se \"SE_0734\"\n# select \"杖\" \"select_label_1\" \"槍\" \"select_label_2\" \"剣\" \"select_label_3\"\nあたしの武器属性は知ってるっしょ？　\n"
+	},
+	{
+		"ID": 5962,
+		"unitID": 2603211,
+		"questionID": 9603202,
+		"script": ";;フォルセティ,2\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 560321 \"orpheus_c_0004\"\n@オルフェウス\nなんかさー、\n夏ってよさげだよね～\n平和って感じでさ～\n\n@オルフェウス\n世界中が、夏みたいに\nずっとテンアゲで\nバブみがあったら…\n\n@オルフェウス\nあたしも\nもっと自由で\nいられるのかも\n\n# voice 560321 \"orpheus_c_0001\"\n@オルフェウス\nそうだ、\nここは占いで決めてみる系で\nよくない？\n\n@オルフェウス\nあたしが出すクイズに\nリーダーが正解できたら、\nあたしは自由に…\n\n@オルフェウス\nそう、世界は平和に\nなるってことで！\n\n# eye %(unit_a)s \"close\"\n@オルフェウス\nじゃ、いくっしょ♪\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしがコマンドされたのは…？\n\n# se \"SE_0734\"\n# select \"フォルテッシモ\" \"select_label_1\" \"フォルセティ\" \"select_label_2\" \"フォルクス\" \"select_label_3\"\nあたしがコマンドされたのは…？\n"
+	},
+	{
+		"ID": 5963,
+		"unitID": 2603211,
+		"questionID": 9603203,
+		"script": ";;ギリシャ神話,3\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 560321 \"orpheus_c_0004\"\n@オルフェウス\nなんかさー、\n夏ってよさげだよね～\n平和って感じでさ～\n\n@オルフェウス\n世界中が、夏みたいに\nずっとテンアゲで\nバブみがあったら…\n\n@オルフェウス\nあたしも\nもっと自由で\nいられるのかも\n\n# voice 560321 \"orpheus_c_0001\"\n@オルフェウス\nそうだ、\nここは占いで決めてみる系で\nよくない？\n\n@オルフェウス\nあたしが出すクイズに\nリーダーが正解できたら、\nあたしは自由に…\n\n@オルフェウス\nそう、世界は平和に\nなるってことで！\n\n# eye %(unit_a)s \"close\"\n@オルフェウス\nじゃ、いくっしょ♪\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしのキラーズ『オルフェウス』は\nどんな伝承に登場するか知ってる？\n\n# se \"SE_0734\"\n# select \"インド神話\" \"select_label_1\" \"日本神話群\" \"select_label_2\" \"ギリシャ神話\" \"select_label_3\"\nあたしのキラーズ『オルフェウス』は\nどんな伝承に登場するか知ってる？\n"
+	},
+	{
+		"ID": 5964,
+		"unitID": 2603211,
+		"questionID": 9603204,
+		"script": ";;司法神,1\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 560321 \"orpheus_c_0004\"\n@オルフェウス\nなんかさー、\n夏ってよさげだよね～\n平和って感じでさ～\n\n@オルフェウス\n世界中が、夏みたいに\nずっとテンアゲで\nバブみがあったら…\n\n@オルフェウス\nあたしも\nもっと自由で\nいられるのかも\n\n# voice 560321 \"orpheus_c_0001\"\n@オルフェウス\nそうだ、\nここは占いで決めてみる系で\nよくない？\n\n@オルフェウス\nあたしが出すクイズに\nリーダーが正解できたら、\nあたしは自由に…\n\n@オルフェウス\nそう、世界は平和に\nなるってことで！\n\n# eye %(unit_a)s \"close\"\n@オルフェウス\nじゃ、いくっしょ♪\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしがコマンドされた『フォルセティ』は\nどんな神？\n\n# se \"SE_0734\"\n# select \"司法神\" \"select_label_1\" \"健康神\" \"select_label_2\" \"軍神\" \"select_label_3\"\nあたしがコマンドされた『フォルセティ』は\nどんな神？\n"
+	},
+	{
+		"ID": 5965,
+		"unitID": 2603211,
+		"questionID": 9603205,
+		"script": ";;グリトニル,3\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 560321 \"orpheus_c_0004\"\n@オルフェウス\nなんかさー、\n夏ってよさげだよね～\n平和って感じでさ～\n\n@オルフェウス\n世界中が、夏みたいに\nずっとテンアゲで\nバブみがあったら…\n\n@オルフェウス\nあたしも\nもっと自由で\nいられるのかも\n\n# voice 560321 \"orpheus_c_0001\"\n@オルフェウス\nそうだ、\nここは占いで決めてみる系で\nよくない？\n\n@オルフェウス\nあたしが出すクイズに\nリーダーが正解できたら、\nあたしは自由に…\n\n@オルフェウス\nそう、世界は平和に\nなるってことで！\n\n# eye %(unit_a)s \"close\"\n@オルフェウス\nじゃ、いくっしょ♪\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしがコマンドされた『フォルセティ』が\n神や人を和解させた宮廷はどこ？\n\n# se \"SE_0734\"\n# select \"グリドル\" \"select_label_1\" \"イングリモングリ\" \"select_label_2\" \"グリトニル\" \"select_label_3\"\nあたしがコマンドされた『フォルセティ』が\n神や人を和解させた宮廷はどこ？\n"
+	},
+	{
+		"ID": 5966,
+		"unitID": 2603211,
+		"questionID": 9603206,
+		"script": ";;竪琴,3\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 560321 \"orpheus_c_0004\"\n@オルフェウス\nなんかさー、\n夏ってよさげだよね～\n平和って感じでさ～\n\n@オルフェウス\n世界中が、夏みたいに\nずっとテンアゲで\nバブみがあったら…\n\n@オルフェウス\nあたしも\nもっと自由で\nいられるのかも\n\n# voice 560321 \"orpheus_c_0001\"\n@オルフェウス\nそうだ、\nここは占いで決めてみる系で\nよくない？\n\n@オルフェウス\nあたしが出すクイズに\nリーダーが正解できたら、\nあたしは自由に…\n\n@オルフェウス\nそう、世界は平和に\nなるってことで！\n\n# eye %(unit_a)s \"close\"\n@オルフェウス\nじゃ、いくっしょ♪\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしのキラーズ『オルフェウス』は\nどんな楽器？\n\n# se \"SE_0734\"\n# select \"尺八\" \"select_label_1\" \"クラリネット\" \"select_label_2\" \"竪琴\" \"select_label_3\"\nあたしのキラーズ『オルフェウス』は\nどんな楽器？\n"
+	},
+	{
+		"ID": 5967,
+		"unitID": 2603211,
+		"questionID": 9603207,
+		"script": ";;妻を取り戻すため,1\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 560321 \"orpheus_c_0004\"\n@オルフェウス\nなんかさー、\n夏ってよさげだよね～\n平和って感じでさ～\n\n@オルフェウス\n世界中が、夏みたいに\nずっとテンアゲで\nバブみがあったら…\n\n@オルフェウス\nあたしも\nもっと自由で\nいられるのかも\n\n# voice 560321 \"orpheus_c_0001\"\n@オルフェウス\nそうだ、\nここは占いで決めてみる系で\nよくない？\n\n@オルフェウス\nあたしが出すクイズに\nリーダーが正解できたら、\nあたしは自由に…\n\n@オルフェウス\nそう、世界は平和に\nなるってことで！\n\n# eye %(unit_a)s \"close\"\n@オルフェウス\nじゃ、いくっしょ♪\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしのキラーズ『オルフェウス』が\n冥府に向かった理由は知ってる？\n\n# se \"SE_0734\"\n# select \"妻を取り戻すため\" \"select_label_1\" \"鬼を殺すため\" \"select_label_2\" \"出稼ぎのため\" \"select_label_3\"\nあたしのキラーズ『オルフェウス』が\n冥府に向かった理由は知ってる？\n"
+	},
+	{
+		"ID": 5968,
+		"unitID": 2603211,
+		"questionID": 9603208,
+		"script": ";;ケルベロス,2\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 560321 \"orpheus_c_0004\"\n@オルフェウス\nなんかさー、\n夏ってよさげだよね～\n平和って感じでさ～\n\n@オルフェウス\n世界中が、夏みたいに\nずっとテンアゲで\nバブみがあったら…\n\n@オルフェウス\nあたしも\nもっと自由で\nいられるのかも\n\n# voice 560321 \"orpheus_c_0001\"\n@オルフェウス\nそうだ、\nここは占いで決めてみる系で\nよくない？\n\n@オルフェウス\nあたしが出すクイズに\nリーダーが正解できたら、\nあたしは自由に…\n\n@オルフェウス\nそう、世界は平和に\nなるってことで！\n\n# eye %(unit_a)s \"close\"\n@オルフェウス\nじゃ、いくっしょ♪\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしのキラーズ『オルフェウス』が\nおとなしくさせたのは？\n\n# se \"SE_0734\"\n# select \"デロべロス\" \"select_label_1\" \"ケルベロス\" \"select_label_2\" \"ゲルマンデス\" \"select_label_3\"\nあたしのキラーズ『オルフェウス』が\nおとなしくさせたのは？\n"
+	},
+	{
+		"ID": 5969,
+		"unitID": 2603211,
+		"questionID": 9603209,
+		"script": ";;コマンドキラーズ,2\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 560321 \"orpheus_c_0004\"\n@オルフェウス\nなんかさー、\n夏ってよさげだよね～\n平和って感じでさ～\n\n@オルフェウス\n世界中が、夏みたいに\nずっとテンアゲで\nバブみがあったら…\n\n@オルフェウス\nあたしも\nもっと自由で\nいられるのかも\n\n# voice 560321 \"orpheus_c_0001\"\n@オルフェウス\nそうだ、\nここは占いで決めてみる系で\nよくない？\n\n@オルフェウス\nあたしが出すクイズに\nリーダーが正解できたら、\nあたしは自由に…\n\n@オルフェウス\nそう、世界は平和に\nなるってことで！\n\n# eye %(unit_a)s \"close\"\n@オルフェウス\nじゃ、いくっしょ♪\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしはこの一員だし！\n\n# se \"SE_0734\"\n# select \"エンシェントキラーズ\" \"select_label_1\" \"コマンドキラーズ\" \"select_label_2\" \"イミテイトキラーズ\" \"select_label_3\"\nあたしはこの一員だし！\n"
+	},
+	{
+		"ID": 5970,
+		"unitID": 2603211,
+		"questionID": 9603210,
+		"script": ";;エウリュディケー,2\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 560321 \"orpheus_c_0004\"\n@オルフェウス\nなんかさー、\n夏ってよさげだよね～\n平和って感じでさ～\n\n@オルフェウス\n世界中が、夏みたいに\nずっとテンアゲで\nバブみがあったら…\n\n@オルフェウス\nあたしも\nもっと自由で\nいられるのかも\n\n# voice 560321 \"orpheus_c_0001\"\n@オルフェウス\nそうだ、\nここは占いで決めてみる系で\nよくない？\n\n@オルフェウス\nあたしが出すクイズに\nリーダーが正解できたら、\nあたしは自由に…\n\n@オルフェウス\nそう、世界は平和に\nなるってことで！\n\n# eye %(unit_a)s \"close\"\n@オルフェウス\nじゃ、いくっしょ♪\n;;---------------------------------\n\n@%(unitName:unit_a)s\n『オルフェウス』の妻の名前って\nわかる？\n\n# se \"SE_0734\"\n# select \"キャサリン\" \"select_label_1\" \"エウリュディケー\" \"select_label_2\" \"正子\" \"select_label_3\"\n『オルフェウス』の妻の名前って\nわかる？\n"
+	},
+	{
+		"ID": 5971,
+		"unitID": 2603211,
+		"questionID": 9603211,
+		"script": ";;風,3\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 560321 \"orpheus_c_0004\"\n@オルフェウス\nあ～、楽しかった～♪\n\n# voice 560321 \"orpheus_c_0030\"\n# eye %(unit_a)s \"close\"\n@オルフェウス\n今日は誘ってくれて、\nあざっす、リーダー！\nセッション、エモかったよ♪\n\n@オルフェウス\nなんかリーダーとは\n音楽性の相性、\nガチハマりって感じ\n\n@オルフェウス\nこれからもよろ……\n\n# face %(unit_a)s \"normal\"\n@オルフェウス\n…って、そうだ！\n\n# voice 560321 \"orpheus_c_0001\"\n@オルフェウス\nこれからも、\nずっ友でいられるか…\nずっ友検定しようよ！\n\n@オルフェウス\n今からクイズを出すから、\n答えてね！\n\n@オルフェウス\nそんじゃ、いくよ！？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしの属性は知ってる系？\n勿論知ってるっしょ？？\n\n# se \"SE_0734\"\n# select \"氷\" \"select_label_1\" \"水\" \"select_label_2\" \"風\" \"select_label_3\"\nあたしの属性は知ってる系？\n勿論知ってるっしょ？？\n"
+	},
+	{
+		"ID": 5972,
+		"unitID": 2603211,
+		"questionID": 9603212,
+		"script": ";;166cm ,2\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 560321 \"orpheus_c_0004\"\n@オルフェウス\nあ～、楽しかった～♪\n\n# voice 560321 \"orpheus_c_0030\"\n# eye %(unit_a)s \"close\"\n@オルフェウス\n今日は誘ってくれて、\nあざっす、リーダー！\nセッション、エモかったよ♪\n\n@オルフェウス\nなんかリーダーとは\n音楽性の相性、\nガチハマりって感じ\n\n@オルフェウス\nこれからもよろ……\n\n# face %(unit_a)s \"normal\"\n@オルフェウス\n…って、そうだ！\n\n# voice 560321 \"orpheus_c_0001\"\n@オルフェウス\nこれからも、\nずっ友でいられるか…\nずっ友検定しようよ！\n\n@オルフェウス\n今からクイズを出すから、\n答えてね！\n\n@オルフェウス\nそんじゃ、いくよ！？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしの身長は\n何センチかわかるっしょ？\n\n# se \"SE_0734\"\n# select \"167cm\" \"select_label_1\" \"166cm \" \"select_label_2\" \"168cm\" \"select_label_3\"\nあたしの身長は\n何センチかわかるっしょ？\n"
+	},
+	{
+		"ID": 5973,
+		"unitID": 2603211,
+		"questionID": 9603213,
+		"script": ";;10月1日,3\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 560321 \"orpheus_c_0004\"\n@オルフェウス\nあ～、楽しかった～♪\n\n# voice 560321 \"orpheus_c_0030\"\n# eye %(unit_a)s \"close\"\n@オルフェウス\n今日は誘ってくれて、\nあざっす、リーダー！\nセッション、エモかったよ♪\n\n@オルフェウス\nなんかリーダーとは\n音楽性の相性、\nガチハマりって感じ\n\n@オルフェウス\nこれからもよろ……\n\n# face %(unit_a)s \"normal\"\n@オルフェウス\n…って、そうだ！\n\n# voice 560321 \"orpheus_c_0001\"\n@オルフェウス\nこれからも、\nずっ友でいられるか…\nずっ友検定しようよ！\n\n@オルフェウス\n今からクイズを出すから、\n答えてね！\n\n@オルフェウス\nそんじゃ、いくよ！？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしの誕生日は知ってる系？\n\n# se \"SE_0734\"\n# select \"9月1日\" \"select_label_1\" \"11月1日\" \"select_label_2\" \"10月1日\" \"select_label_3\"\nあたしの誕生日は知ってる系？\n"
+	},
+	{
+		"ID": 5974,
+		"unitID": 2603211,
+		"questionID": 9603214,
+		"script": ";;天秤座,1\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 560321 \"orpheus_c_0004\"\n@オルフェウス\nあ～、楽しかった～♪\n\n# voice 560321 \"orpheus_c_0030\"\n# eye %(unit_a)s \"close\"\n@オルフェウス\n今日は誘ってくれて、\nあざっす、リーダー！\nセッション、エモかったよ♪\n\n@オルフェウス\nなんかリーダーとは\n音楽性の相性、\nガチハマりって感じ\n\n@オルフェウス\nこれからもよろ……\n\n# face %(unit_a)s \"normal\"\n@オルフェウス\n…って、そうだ！\n\n# voice 560321 \"orpheus_c_0001\"\n@オルフェウス\nこれからも、\nずっ友でいられるか…\nずっ友検定しようよ！\n\n@オルフェウス\n今からクイズを出すから、\n答えてね！\n\n@オルフェウス\nそんじゃ、いくよ！？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしの星座は知ってる系？\n\n# se \"SE_0734\"\n# select \"天秤座\" \"select_label_1\" \"射手座\" \"select_label_2\" \"双子座\" \"select_label_3\"\nあたしの星座は知ってる系？\n"
+	},
+	{
+		"ID": 5975,
+		"unitID": 2603211,
+		"questionID": 9603215,
+		"script": ";;音楽,2\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 560321 \"orpheus_c_0004\"\n@オルフェウス\nあ～、楽しかった～♪\n\n# voice 560321 \"orpheus_c_0030\"\n# eye %(unit_a)s \"close\"\n@オルフェウス\n今日は誘ってくれて、\nあざっす、リーダー！\nセッション、エモかったよ♪\n\n@オルフェウス\nなんかリーダーとは\n音楽性の相性、\nガチハマりって感じ\n\n@オルフェウス\nこれからもよろ……\n\n# face %(unit_a)s \"normal\"\n@オルフェウス\n…って、そうだ！\n\n# voice 560321 \"orpheus_c_0001\"\n@オルフェウス\nこれからも、\nずっ友でいられるか…\nずっ友検定しようよ！\n\n@オルフェウス\n今からクイズを出すから、\n答えてね！\n\n@オルフェウス\nそんじゃ、いくよ！？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしが好きなのは、\nとりま、これ！\n\n# se \"SE_0734\"\n# select \"ろくろを回す\" \"select_label_1\" \"音楽\" \"select_label_2\" \"料理\" \"select_label_3\"\nあたしが好きなのは、\nとりま、これ！\n"
+	},
+	{
+		"ID": 5976,
+		"unitID": 2603211,
+		"questionID": 9603216,
+		"script": ";;おしゃれ,3\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 560321 \"orpheus_c_0004\"\n@オルフェウス\nあ～、楽しかった～♪\n\n# voice 560321 \"orpheus_c_0030\"\n# eye %(unit_a)s \"close\"\n@オルフェウス\n今日は誘ってくれて、\nあざっす、リーダー！\nセッション、エモかったよ♪\n\n@オルフェウス\nなんかリーダーとは\n音楽性の相性、\nガチハマりって感じ\n\n@オルフェウス\nこれからもよろ……\n\n# face %(unit_a)s \"normal\"\n@オルフェウス\n…って、そうだ！\n\n# voice 560321 \"orpheus_c_0001\"\n@オルフェウス\nこれからも、\nずっ友でいられるか…\nずっ友検定しようよ！\n\n@オルフェウス\n今からクイズを出すから、\n答えてね！\n\n@オルフェウス\nそんじゃ、いくよ！？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしの趣味は\nこれなんだよね～！\n\n# se \"SE_0734\"\n# select \"盆栽\" \"select_label_1\" \"囲碁\" \"select_label_2\" \"おしゃれ\" \"select_label_3\"\nあたしの趣味は\nこれなんだよね～！\n"
+	},
+	{
+		"ID": 5977,
+		"unitID": 2603211,
+		"questionID": 9603217,
+		"script": ";;Ｏ型,3\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 560321 \"orpheus_c_0004\"\n@オルフェウス\nあ～、楽しかった～♪\n\n# voice 560321 \"orpheus_c_0030\"\n# eye %(unit_a)s \"close\"\n@オルフェウス\n今日は誘ってくれて、\nあざっす、リーダー！\nセッション、エモかったよ♪\n\n@オルフェウス\nなんかリーダーとは\n音楽性の相性、\nガチハマりって感じ\n\n@オルフェウス\nこれからもよろ……\n\n# face %(unit_a)s \"normal\"\n@オルフェウス\n…って、そうだ！\n\n# voice 560321 \"orpheus_c_0001\"\n@オルフェウス\nこれからも、\nずっ友でいられるか…\nずっ友検定しようよ！\n\n@オルフェウス\n今からクイズを出すから、\n答えてね！\n\n@オルフェウス\nそんじゃ、いくよ！？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしの血液型は知ってるっしょ？\n\n# se \"SE_0734\"\n# select \"ＡＢ型\" \"select_label_1\" \"Ａ型\" \"select_label_2\" \"Ｏ型\" \"select_label_3\"\nあたしの血液型は知ってるっしょ？\n"
+	},
+	{
+		"ID": 5978,
+		"unitID": 2603211,
+		"questionID": 9603218,
+		"script": ";;フランス,1\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 560321 \"orpheus_c_0004\"\n@オルフェウス\nあ～、楽しかった～♪\n\n# voice 560321 \"orpheus_c_0030\"\n# eye %(unit_a)s \"close\"\n@オルフェウス\n今日は誘ってくれて、\nあざっす、リーダー！\nセッション、エモかったよ♪\n\n@オルフェウス\nなんかリーダーとは\n音楽性の相性、\nガチハマりって感じ\n\n@オルフェウス\nこれからもよろ……\n\n# face %(unit_a)s \"normal\"\n@オルフェウス\n…って、そうだ！\n\n# voice 560321 \"orpheus_c_0001\"\n@オルフェウス\nこれからも、\nずっ友でいられるか…\nずっ友検定しようよ！\n\n@オルフェウス\n今からクイズを出すから、\n答えてね！\n\n@オルフェウス\nそんじゃ、いくよ！？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしの出身地はどーこだ？\n\n# se \"SE_0734\"\n# select \"フランス\" \"select_label_1\" \"アメリカ\" \"select_label_2\" \"中国\" \"select_label_3\"\nあたしの出身地はどーこだ？\n"
+	},
+	{
+		"ID": 5979,
+		"unitID": 2603211,
+		"questionID": 9603219,
+		"script": ";;作詞作曲,3\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 560321 \"orpheus_c_0004\"\n@オルフェウス\nあ～、楽しかった～♪\n\n# voice 560321 \"orpheus_c_0030\"\n# eye %(unit_a)s \"close\"\n@オルフェウス\n今日は誘ってくれて、\nあざっす、リーダー！\nセッション、エモかったよ♪\n\n@オルフェウス\nなんかリーダーとは\n音楽性の相性、\nガチハマりって感じ\n\n@オルフェウス\nこれからもよろ……\n\n# face %(unit_a)s \"normal\"\n@オルフェウス\n…って、そうだ！\n\n# voice 560321 \"orpheus_c_0001\"\n@オルフェウス\nこれからも、\nずっ友でいられるか…\nずっ友検定しようよ！\n\n@オルフェウス\n今からクイズを出すから、\n答えてね！\n\n@オルフェウス\nそんじゃ、いくよ！？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしは暇があったら\nコレをしてるね！\n\n# se \"SE_0734\"\n# select \"百人一首\" \"select_label_1\" \"脳内トリップ\" \"select_label_2\" \"作詞作曲\" \"select_label_3\"\nあたしは暇があったら\nコレをしてるね！\n"
+	},
+	{
+		"ID": 5980,
+		"unitID": 2603211,
+		"questionID": 9603220,
+		"script": ";;コマンド,3\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 560321 \"orpheus_c_0004\"\n@オルフェウス\nあ～、楽しかった～♪\n\n# voice 560321 \"orpheus_c_0030\"\n# eye %(unit_a)s \"close\"\n@オルフェウス\n今日は誘ってくれて、\nあざっす、リーダー！\nセッション、エモかったよ♪\n\n@オルフェウス\nなんかリーダーとは\n音楽性の相性、\nガチハマりって感じ\n\n@オルフェウス\nこれからもよろ……\n\n# face %(unit_a)s \"normal\"\n@オルフェウス\n…って、そうだ！\n\n# voice 560321 \"orpheus_c_0001\"\n@オルフェウス\nこれからも、\nずっ友でいられるか…\nずっ友検定しようよ！\n\n@オルフェウス\n今からクイズを出すから、\n答えてね！\n\n@オルフェウス\nそんじゃ、いくよ！？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしは、\nオルフェウス・神令・フォルセティ\n『神令』と書いて何て読む？\n\n# se \"SE_0734\"\n# select \"サマンサ\" \"select_label_1\" \"シンレイ\" \"select_label_2\" \"コマンド\" \"select_label_3\"\nあたしは、\nオルフェウス・神令・フォルセティ\n『神令』と書いて何て読む？\n"
+	},
+	{
+		"ID": 5981,
+		"unitID": 2603211,
+		"questionID": 9603221,
+		"script": ";;風音神の共鳴,3\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n@オルフェウス\n………\n\n# textflame 0 0\n@\nどうしたの？\n目を閉じている彼女に\nマスターが尋ねる\n\n# face %(unit_a)s \"normal\"\n# voice 560321 \"orpheus_c_0005\"\n# textflame 1 1\n@オルフェウス\nヤババ！\nキタこれ！\n\n# textflame 0 0\n@\nえ？どういうこと\n驚くマスター\n\n# textflame 1 1\n@オルフェウス\n今、\nヤバめなフレーズ、\n脳に直撃ったからっ！\n\n# textflame 0 0\n@\n…と、言ったかと思うと、\n物凄い勢いでメモに書き留める\nそして、書き終わると顔を上げる\n\n# voice 560321 \"orpheus_c_0031\"\n# textflame 1 1\n@オルフェウス\nごめん、リーダー、待たせちゃって\nけど、インスピレーションって\n大事っしょ？\n\n@オルフェウス\nそうだ、リーダーの\nインスピレーションも\n試してみよっか？\n\n@オルフェウス\nクイズを出すから、\nインスピレーションきかせて、\n正解してね！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしの覚える\nリーダースキルってなーんだ？\n\n# se \"SE_0734\"\n# select \"嵐音神の共鳴\" \"select_label_1\" \"封音神の共鳴\" \"select_label_2\" \"風音神の共鳴\" \"select_label_3\"\nあたしの覚える\nリーダースキルってなーんだ？\n"
+	},
+	{
+		"ID": 5982,
+		"unitID": 2603211,
+		"questionID": 9603222,
+		"script": ";;神威天元,1\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n@オルフェウス\n………\n\n# textflame 0 0\n@\nどうしたの？\n目を閉じている彼女に\nマスターが尋ねる\n\n# face %(unit_a)s \"normal\"\n# voice 560321 \"orpheus_c_0005\"\n# textflame 1 1\n@オルフェウス\nヤババ！\nキタこれ！\n\n# textflame 0 0\n@\nえ？どういうこと\n驚くマスター\n\n# textflame 1 1\n@オルフェウス\n今、\nヤバめなフレーズ、\n脳に直撃ったからっ！\n\n# textflame 0 0\n@\n…と、言ったかと思うと、\n物凄い勢いでメモに書き留める\nそして、書き終わると顔を上げる\n\n# voice 560321 \"orpheus_c_0031\"\n# textflame 1 1\n@オルフェウス\nごめん、リーダー、待たせちゃって\nけど、インスピレーションって\n大事っしょ？\n\n@オルフェウス\nそうだ、リーダーの\nインスピレーションも\n試してみよっか？\n\n@オルフェウス\nクイズを出すから、\nインスピレーションきかせて、\n正解してね！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしの覚えるスキルを知ってる系？\n\n# se \"SE_0734\"\n# select \"神威天元\" \"select_label_1\" \"神威検便\" \"select_label_2\" \"神威変化\" \"select_label_3\"\nあたしの覚えるスキルを知ってる系？\n"
+	},
+	{
+		"ID": 5983,
+		"unitID": 2603211,
+		"questionID": 9603223,
+		"script": ";;音楽を愛せし必杖,2\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n@オルフェウス\n………\n\n# textflame 0 0\n@\nどうしたの？\n目を閉じている彼女に\nマスターが尋ねる\n\n# face %(unit_a)s \"normal\"\n# voice 560321 \"orpheus_c_0005\"\n# textflame 1 1\n@オルフェウス\nヤババ！\nキタこれ！\n\n# textflame 0 0\n@\nえ？どういうこと\n驚くマスター\n\n# textflame 1 1\n@オルフェウス\n今、\nヤバめなフレーズ、\n脳に直撃ったからっ！\n\n# textflame 0 0\n@\n…と、言ったかと思うと、\n物凄い勢いでメモに書き留める\nそして、書き終わると顔を上げる\n\n# voice 560321 \"orpheus_c_0031\"\n# textflame 1 1\n@オルフェウス\nごめん、リーダー、待たせちゃって\nけど、インスピレーションって\n大事っしょ？\n\n@オルフェウス\nそうだ、リーダーの\nインスピレーションも\n試してみよっか？\n\n@オルフェウス\nクイズを出すから、\nインスピレーションきかせて、\n正解してね！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしの覚えるスキルを知ってる系？\n\n# se \"SE_0734\"\n# select \"歌を愛せし必杖\" \"select_label_1\" \"音楽を愛せし必杖\" \"select_label_2\" \"王子を愛せし必杖\" \"select_label_3\"\nあたしの覚えるスキルを知ってる系？\n"
+	},
+	{
+		"ID": 5984,
+		"unitID": 2603211,
+		"questionID": 9603224,
+		"script": ";;愛嬌を奏でる旋律,3\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n@オルフェウス\n………\n\n# textflame 0 0\n@\nどうしたの？\n目を閉じている彼女に\nマスターが尋ねる\n\n# face %(unit_a)s \"normal\"\n# voice 560321 \"orpheus_c_0005\"\n# textflame 1 1\n@オルフェウス\nヤババ！\nキタこれ！\n\n# textflame 0 0\n@\nえ？どういうこと\n驚くマスター\n\n# textflame 1 1\n@オルフェウス\n今、\nヤバめなフレーズ、\n脳に直撃ったからっ！\n\n# textflame 0 0\n@\n…と、言ったかと思うと、\n物凄い勢いでメモに書き留める\nそして、書き終わると顔を上げる\n\n# voice 560321 \"orpheus_c_0031\"\n# textflame 1 1\n@オルフェウス\nごめん、リーダー、待たせちゃって\nけど、インスピレーションって\n大事っしょ？\n\n@オルフェウス\nそうだ、リーダーの\nインスピレーションも\n試してみよっか？\n\n@オルフェウス\nクイズを出すから、\nインスピレーションきかせて、\n正解してね！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしの覚えるスキルを知ってる系？\n\n# se \"SE_0734\"\n# select \"愛嬌を奏でる戦慄\" \"select_label_1\" \"愛嬌を奏でる選抜\" \"select_label_2\" \"愛嬌を奏でる旋律\" \"select_label_3\"\nあたしの覚えるスキルを知ってる系？\n"
+	},
+	{
+		"ID": 5985,
+		"unitID": 2603211,
+		"questionID": 9603225,
+		"script": ";;蒼の再跳,2\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n@オルフェウス\n………\n\n# textflame 0 0\n@\nどうしたの？\n目を閉じている彼女に\nマスターが尋ねる\n\n# face %(unit_a)s \"normal\"\n# voice 560321 \"orpheus_c_0005\"\n# textflame 1 1\n@オルフェウス\nヤババ！\nキタこれ！\n\n# textflame 0 0\n@\nえ？どういうこと\n驚くマスター\n\n# textflame 1 1\n@オルフェウス\n今、\nヤバめなフレーズ、\n脳に直撃ったからっ！\n\n# textflame 0 0\n@\n…と、言ったかと思うと、\n物凄い勢いでメモに書き留める\nそして、書き終わると顔を上げる\n\n# voice 560321 \"orpheus_c_0031\"\n# textflame 1 1\n@オルフェウス\nごめん、リーダー、待たせちゃって\nけど、インスピレーションって\n大事っしょ？\n\n@オルフェウス\nそうだ、リーダーの\nインスピレーションも\n試してみよっか？\n\n@オルフェウス\nクイズを出すから、\nインスピレーションきかせて、\n正解してね！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしの覚えるスキルを知ってる系？\n\n# se \"SE_0734\"\n# select \"桃色の再跳\" \"select_label_1\" \"蒼の再跳\" \"select_label_2\" \"赤の再跳\" \"select_label_3\"\nあたしの覚えるスキルを知ってる系？\n"
+	},
+	{
+		"ID": 5986,
+		"unitID": 2603211,
+		"questionID": 9603226,
+		"script": ";;蒼の団結【疾風】,1\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n@オルフェウス\n………\n\n# textflame 0 0\n@\nどうしたの？\n目を閉じている彼女に\nマスターが尋ねる\n\n# face %(unit_a)s \"normal\"\n# voice 560321 \"orpheus_c_0005\"\n# textflame 1 1\n@オルフェウス\nヤババ！\nキタこれ！\n\n# textflame 0 0\n@\nえ？どういうこと\n驚くマスター\n\n# textflame 1 1\n@オルフェウス\n今、\nヤバめなフレーズ、\n脳に直撃ったからっ！\n\n# textflame 0 0\n@\n…と、言ったかと思うと、\n物凄い勢いでメモに書き留める\nそして、書き終わると顔を上げる\n\n# voice 560321 \"orpheus_c_0031\"\n# textflame 1 1\n@オルフェウス\nごめん、リーダー、待たせちゃって\nけど、インスピレーションって\n大事っしょ？\n\n@オルフェウス\nそうだ、リーダーの\nインスピレーションも\n試してみよっか？\n\n@オルフェウス\nクイズを出すから、\nインスピレーションきかせて、\n正解してね！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしの覚えるスキルを知ってる系？\n\n# se \"SE_0734\"\n# select \"蒼の団結【疾風】\" \"select_label_1\" \"蒼の酸欠【疾風】\" \"select_label_2\" \"蒼の終結【疾風】\" \"select_label_3\"\nあたしの覚えるスキルを知ってる系？\n"
+	},
+	{
+		"ID": 5987,
+		"unitID": 2603211,
+		"questionID": 9603227,
+		"script": ";;虚に奏でる神の鼓動,2\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n@オルフェウス\n………\n\n# textflame 0 0\n@\nどうしたの？\n目を閉じている彼女に\nマスターが尋ねる\n\n# face %(unit_a)s \"normal\"\n# voice 560321 \"orpheus_c_0005\"\n# textflame 1 1\n@オルフェウス\nヤババ！\nキタこれ！\n\n# textflame 0 0\n@\nえ？どういうこと\n驚くマスター\n\n# textflame 1 1\n@オルフェウス\n今、\nヤバめなフレーズ、\n脳に直撃ったからっ！\n\n# textflame 0 0\n@\n…と、言ったかと思うと、\n物凄い勢いでメモに書き留める\nそして、書き終わると顔を上げる\n\n# voice 560321 \"orpheus_c_0031\"\n# textflame 1 1\n@オルフェウス\nごめん、リーダー、待たせちゃって\nけど、インスピレーションって\n大事っしょ？\n\n@オルフェウス\nそうだ、リーダーの\nインスピレーションも\n試してみよっか？\n\n@オルフェウス\nクイズを出すから、\nインスピレーションきかせて、\n正解してね！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしの覚えるデュエルスキル\n知ってるっしょ？\n\n# se \"SE_0734\"\n# select \"虚に奏でる神の舞踏\" \"select_label_1\" \"虚に奏でる神の鼓動\" \"select_label_2\" \"虚に奏でる神の心音\" \"select_label_3\"\nあたしの覚えるデュエルスキル\n知ってるっしょ？\n"
+	},
+	{
+		"ID": 5988,
+		"unitID": 2603211,
+		"questionID": 9603228,
+		"script": ";;樹令『疾風の旋律』,2\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n@オルフェウス\n………\n\n# textflame 0 0\n@\nどうしたの？\n目を閉じている彼女に\nマスターが尋ねる\n\n# face %(unit_a)s \"normal\"\n# voice 560321 \"orpheus_c_0005\"\n# textflame 1 1\n@オルフェウス\nヤババ！\nキタこれ！\n\n# textflame 0 0\n@\nえ？どういうこと\n驚くマスター\n\n# textflame 1 1\n@オルフェウス\n今、\nヤバめなフレーズ、\n脳に直撃ったからっ！\n\n# textflame 0 0\n@\n…と、言ったかと思うと、\n物凄い勢いでメモに書き留める\nそして、書き終わると顔を上げる\n\n# voice 560321 \"orpheus_c_0031\"\n# textflame 1 1\n@オルフェウス\nごめん、リーダー、待たせちゃって\nけど、インスピレーションって\n大事っしょ？\n\n@オルフェウス\nそうだ、リーダーの\nインスピレーションも\n試してみよっか？\n\n@オルフェウス\nクイズを出すから、\nインスピレーションきかせて、\n正解してね！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしの覚えるキャラクタースキル\n知ってるっしょ？\n\n# se \"SE_0734\"\n# select \"樹令『漆黒の旋律』\" \"select_label_1\" \"樹令『疾風の旋律』\" \"select_label_2\" \"樹令『疾病の旋律』\" \"select_label_3\"\nあたしの覚えるキャラクタースキル\n知ってるっしょ？\n"
+	},
+	{
+		"ID": 5989,
+		"unitID": 2603211,
+		"questionID": 9603229,
+		"script": ";;反界障壁【疾風】,3\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n@オルフェウス\n………\n\n# textflame 0 0\n@\nどうしたの？\n目を閉じている彼女に\nマスターが尋ねる\n\n# face %(unit_a)s \"normal\"\n# voice 560321 \"orpheus_c_0005\"\n# textflame 1 1\n@オルフェウス\nヤババ！\nキタこれ！\n\n# textflame 0 0\n@\nえ？どういうこと\n驚くマスター\n\n# textflame 1 1\n@オルフェウス\n今、\nヤバめなフレーズ、\n脳に直撃ったからっ！\n\n# textflame 0 0\n@\n…と、言ったかと思うと、\n物凄い勢いでメモに書き留める\nそして、書き終わると顔を上げる\n\n# voice 560321 \"orpheus_c_0031\"\n# textflame 1 1\n@オルフェウス\nごめん、リーダー、待たせちゃって\nけど、インスピレーションって\n大事っしょ？\n\n@オルフェウス\nそうだ、リーダーの\nインスピレーションも\n試してみよっか？\n\n@オルフェウス\nクイズを出すから、\nインスピレーションきかせて、\n正解してね！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしが覚える強力なスキルって\nわかる～？\n\n# se \"SE_0734\"\n# select \"反界障壁【神風】\" \"select_label_1\" \"反界障壁【烈風】\" \"select_label_2\" \"反界障壁【疾風】\" \"select_label_3\"\nあたしが覚える強力なスキルって\nわかる～？\n"
+	},
+	{
+		"ID": 5990,
+		"unitID": 2603211,
+		"questionID": 9603230,
+		"script": ";;疾風の蒼印,1\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n@オルフェウス\n………\n\n# textflame 0 0\n@\nどうしたの？\n目を閉じている彼女に\nマスターが尋ねる\n\n# face %(unit_a)s \"normal\"\n# voice 560321 \"orpheus_c_0005\"\n# textflame 1 1\n@オルフェウス\nヤババ！\nキタこれ！\n\n# textflame 0 0\n@\nえ？どういうこと\n驚くマスター\n\n# textflame 1 1\n@オルフェウス\n今、\nヤバめなフレーズ、\n脳に直撃ったからっ！\n\n# textflame 0 0\n@\n…と、言ったかと思うと、\n物凄い勢いでメモに書き留める\nそして、書き終わると顔を上げる\n\n# voice 560321 \"orpheus_c_0031\"\n# textflame 1 1\n@オルフェウス\nごめん、リーダー、待たせちゃって\nけど、インスピレーションって\n大事っしょ？\n\n@オルフェウス\nそうだ、リーダーの\nインスピレーションも\n試してみよっか？\n\n@オルフェウス\nクイズを出すから、\nインスピレーションきかせて、\n正解してね！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしが覚える強力なスキルって\nわかる～？\n\n# se \"SE_0734\"\n# select \"疾風の蒼印\" \"select_label_1\" \"痛風の蒼印\" \"select_label_2\" \"旋毛風の蒼印\" \"select_label_3\"\nあたしが覚える強力なスキルって\nわかる～？\n"
+	},
+	{
+		"ID": 5991,
+		"unitID": 2603211,
+		"questionID": 9603231,
+		"script": ";;やや強く,2\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 560321 \"orpheus_c_0001\"\n@オルフェウス\nねぇ、リーダー\n\n@オルフェウス\n今日一日、\nリーダーとデートしてみて、\n考えたんだ\n\n@オルフェウス\nもしリーダーか音楽、\nどっちかを選べって言われたら、\nあたし、どっちを選ぶかな～って\n\n@オルフェウス\nねぇ、どっちだと思う？\n\n# voice 560321 \"orpheus_c_0002\"\n@オルフェウス\nそうだ！\nクイズで正解してくれたら、\nリーダーを選んじゃおっかな\n\n@オルフェウス\nいくよ！？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n音楽の用語の『メゾフォルテ』って\nどんな意味？\n\n# se \"SE_0734\"\n# select \"非常に強く\" \"select_label_1\" \"やや強く\" \"select_label_2\" \"だんだん強く\" \"select_label_3\"\n音楽の用語の『メゾフォルテ』って\nどんな意味？\n"
+	},
+	{
+		"ID": 5992,
+		"unitID": 2603211,
+		"questionID": 9603232,
+		"script": ";;October,3\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 560321 \"orpheus_c_0001\"\n@オルフェウス\nねぇ、リーダー\n\n@オルフェウス\n今日一日、\nリーダーとデートしてみて、\n考えたんだ\n\n@オルフェウス\nもしリーダーか音楽、\nどっちかを選べって言われたら、\nあたし、どっちを選ぶかな～って\n\n@オルフェウス\nねぇ、どっちだと思う？\n\n# voice 560321 \"orpheus_c_0002\"\n@オルフェウス\nそうだ！\nクイズで正解してくれたら、\nリーダーを選んじゃおっかな\n\n@オルフェウス\nいくよ！？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしの誕生月を英語で言うと…？\n\n# se \"SE_0734\"\n# select \"January\" \"select_label_1\" \"November\" \"select_label_2\" \"October\" \"select_label_3\"\nあたしの誕生月を英語で言うと…？\n"
+	},
+	{
+		"ID": 5993,
+		"unitID": 2603211,
+		"questionID": 9603233,
+		"script": ";;ヒョウハ,1\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 560321 \"orpheus_c_0001\"\n@オルフェウス\nねぇ、リーダー\n\n@オルフェウス\n今日一日、\nリーダーとデートしてみて、\n考えたんだ\n\n@オルフェウス\nもしリーダーか音楽、\nどっちかを選べって言われたら、\nあたし、どっちを選ぶかな～って\n\n@オルフェウス\nねぇ、どっちだと思う？\n\n# voice 560321 \"orpheus_c_0002\"\n@オルフェウス\nそうだ！\nクイズで正解してくれたら、\nリーダーを選んじゃおっかな\n\n@オルフェウス\nいくよ！？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしとノリが合うのは…？\n\n# se \"SE_0734\"\n# select \"ヒョウハ\" \"select_label_1\" \"スイハ\" \"select_label_2\" \"エルキュール\" \"select_label_3\"\nあたしとノリが合うのは…？\n"
+	},
+	{
+		"ID": 5994,
+		"unitID": 2603211,
+		"questionID": 9603234,
+		"script": ";;リサナウト,3\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 560321 \"orpheus_c_0001\"\n@オルフェウス\nねぇ、リーダー\n\n@オルフェウス\n今日一日、\nリーダーとデートしてみて、\n考えたんだ\n\n@オルフェウス\nもしリーダーか音楽、\nどっちかを選べって言われたら、\nあたし、どっちを選ぶかな～って\n\n@オルフェウス\nねぇ、どっちだと思う？\n\n# voice 560321 \"orpheus_c_0002\"\n@オルフェウス\nそうだ！\nクイズで正解してくれたら、\nリーダーを選んじゃおっかな\n\n@オルフェウス\nいくよ！？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしと誕生月が同じなのは\n誰かわかる？\n\n# se \"SE_0734\"\n# select \"ブリューナク\" \"select_label_1\" \"グングニル\" \"select_label_2\" \"リサナウト\" \"select_label_3\"\nあたしと誕生月が同じなのは\n誰かわかる？\n"
+	},
+	{
+		"ID": 5995,
+		"unitID": 2603211,
+		"questionID": 9603235,
+		"script": ";;Libra,3\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 560321 \"orpheus_c_0001\"\n@オルフェウス\nねぇ、リーダー\n\n@オルフェウス\n今日一日、\nリーダーとデートしてみて、\n考えたんだ\n\n@オルフェウス\nもしリーダーか音楽、\nどっちかを選べって言われたら、\nあたし、どっちを選ぶかな～って\n\n@オルフェウス\nねぇ、どっちだと思う？\n\n# voice 560321 \"orpheus_c_0002\"\n@オルフェウス\nそうだ！\nクイズで正解してくれたら、\nリーダーを選んじゃおっかな\n\n@オルフェウス\nいくよ！？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしの星座を英語で言うと？\n\n# se \"SE_0734\"\n# select \"Virgo\" \"select_label_1\" \"Aquarius\" \"select_label_2\" \"Libra\" \"select_label_3\"\nあたしの星座を英語で言うと？\n"
+	},
+	{
+		"ID": 5996,
+		"unitID": 2603211,
+		"questionID": 9603236,
+		"script": ";;シャンソン,2\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 560321 \"orpheus_c_0001\"\n@オルフェウス\nねぇ、リーダー\n\n@オルフェウス\n今日一日、\nリーダーとデートしてみて、\n考えたんだ\n\n@オルフェウス\nもしリーダーか音楽、\nどっちかを選べって言われたら、\nあたし、どっちを選ぶかな～って\n\n@オルフェウス\nねぇ、どっちだと思う？\n\n# voice 560321 \"orpheus_c_0002\"\n@オルフェウス\nそうだ！\nクイズで正解してくれたら、\nリーダーを選んじゃおっかな\n\n@オルフェウス\nいくよ！？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしの好きな『歌』を\nフランス語で言うと？\n\n# se \"SE_0734\"\n# select \"ジャクソン\" \"select_label_1\" \"シャンソン\" \"select_label_2\" \"タイソン\" \"select_label_3\"\nあたしの好きな『歌』を\nフランス語で言うと？\n"
+	},
+	{
+		"ID": 5997,
+		"unitID": 2603211,
+		"questionID": 9603237,
+		"script": ";;リタルダンド,3\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 560321 \"orpheus_c_0001\"\n@オルフェウス\nねぇ、リーダー\n\n@オルフェウス\n今日一日、\nリーダーとデートしてみて、\n考えたんだ\n\n@オルフェウス\nもしリーダーか音楽、\nどっちかを選べって言われたら、\nあたし、どっちを選ぶかな～って\n\n@オルフェウス\nねぇ、どっちだと思う？\n\n# voice 560321 \"orpheus_c_0002\"\n@オルフェウス\nそうだ！\nクイズで正解してくれたら、\nリーダーを選んじゃおっかな\n\n@オルフェウス\nいくよ！？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしの好きな音楽の用語で\n『だんだん遅く』を意味するのは？\n\n# se \"SE_0734\"\n# select \"アラルガンド\" \"select_label_1\" \"アッチェレランド\" \"select_label_2\" \"リタルダンド\" \"select_label_3\"\nあたしの好きな音楽の用語で\n『だんだん遅く』を意味するのは？\n"
+	},
+	{
+		"ID": 5998,
+		"unitID": 2603211,
+		"questionID": 9603238,
+		"script": ";;ヒョウハ,2\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 560321 \"orpheus_c_0001\"\n@オルフェウス\nねぇ、リーダー\n\n@オルフェウス\n今日一日、\nリーダーとデートしてみて、\n考えたんだ\n\n@オルフェウス\nもしリーダーか音楽、\nどっちかを選べって言われたら、\nあたし、どっちを選ぶかな～って\n\n@オルフェウス\nねぇ、どっちだと思う？\n\n# voice 560321 \"orpheus_c_0002\"\n@オルフェウス\nそうだ！\nクイズで正解してくれたら、\nリーダーを選んじゃおっかな\n\n@オルフェウス\nいくよ！？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしと同じ血液型なのは？\n\n# se \"SE_0734\"\n# select \"アポロン\" \"select_label_1\" \"ヒョウハ\" \"select_label_2\" \"ロンゴミアント\" \"select_label_3\"\nあたしと同じ血液型なのは？\n"
+	},
+	{
+		"ID": 5999,
+		"unitID": 2603211,
+		"questionID": 9603239,
+		"script": ";;パラシュ,1\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 560321 \"orpheus_c_0001\"\n@オルフェウス\nねぇ、リーダー\n\n@オルフェウス\n今日一日、\nリーダーとデートしてみて、\n考えたんだ\n\n@オルフェウス\nもしリーダーか音楽、\nどっちかを選べって言われたら、\nあたし、どっちを選ぶかな～って\n\n@オルフェウス\nねぇ、どっちだと思う？\n\n# voice 560321 \"orpheus_c_0002\"\n@オルフェウス\nそうだ！\nクイズで正解してくれたら、\nリーダーを選んじゃおっかな\n\n@オルフェウス\nいくよ！？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしと違う血液型なのは\n誰かわかる？\n\n# se \"SE_0734\"\n# select \"パラシュ\" \"select_label_1\" \"オティヌス\" \"select_label_2\" \"テュルソス\" \"select_label_3\"\nあたしと違う血液型なのは\n誰かわかる？\n"
+	},
+	{
+		"ID": 6000,
+		"unitID": 2603211,
+		"questionID": 9603240,
+		"script": ";;フラベルム,1\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 560321 \"orpheus_c_0001\"\n@オルフェウス\nねぇ、リーダー\n\n@オルフェウス\n今日一日、\nリーダーとデートしてみて、\n考えたんだ\n\n@オルフェウス\nもしリーダーか音楽、\nどっちかを選べって言われたら、\nあたし、どっちを選ぶかな～って\n\n@オルフェウス\nねぇ、どっちだと思う？\n\n# voice 560321 \"orpheus_c_0002\"\n@オルフェウス\nそうだ！\nクイズで正解してくれたら、\nリーダーを選んじゃおっかな\n\n@オルフェウス\nいくよ！？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしと違う誕生月なのは\n誰かわかる？\n\n# se \"SE_0734\"\n# select \"フラベルム\" \"select_label_1\" \"アフロディーテ\" \"select_label_2\" \"リサナウト\" \"select_label_3\"\nあたしと違う誕生月なのは\n誰かわかる？\n"
+	},
+	{
+		"ID": 6001,
+		"unitID": 2603211,
+		"questionID": 9603241,
+		"script": "\n;;あたし,2\n# se \"SE_0734\"\n# select \"私\" \"select_label_1\" \"あたし\" \"select_label_2\" \"ヒョウハ\" \"select_label_3\"\nオルフェウスの一人称は\n次のうちどれ？\n"
+	},
+	{
+		"ID": 6002,
+		"unitID": 2603211,
+		"questionID": 9603242,
+		"script": "\n;;リーダー,3\n# se \"SE_0734\"\n# select \"マスター\" \"select_label_1\" \"親方\" \"select_label_2\" \"リーダー\" \"select_label_3\"\nオルフェウスはあなたのこと、\nなんて呼んでる？\n"
+	},
+	{
+		"ID": 6003,
+		"unitID": 2603211,
+		"questionID": 9603243,
+		"script": "\n;;92cm,1\n# se \"SE_0734\"\n# select \"92cm\" \"select_label_1\" \"90cm\" \"select_label_2\" \"94cm\" \"select_label_3\"\nオルフェウスの\nバストサイズがどのくらいか\nあなたは知ってるの？\n"
+	},
+	{
+		"ID": 6004,
+		"unitID": 2603211,
+		"questionID": 9603244,
+		"script": "\n;;64cm,3\n# se \"SE_0734\"\n# select \"70cm\" \"select_label_1\" \"60cm\" \"select_label_2\" \"64cm\" \"select_label_3\"\nオルフェウスの\nウエストサイズがどのくらいか\nあなたは知ってるの？\n"
+	},
+	{
+		"ID": 6005,
+		"unitID": 2603211,
+		"questionID": 9603245,
+		"script": "\n;;86cm,3\n# se \"SE_0734\"\n# select \"90cm\" \"select_label_1\" \"89cm\" \"select_label_2\" \"86cm\" \"select_label_3\"\nオルフェウスの\nヒップサイズがどのくらいか\nあなたは知ってるの？\n"
+	},
+	{
+		"ID": 6006,
+		"unitID": 2603211,
+		"questionID": 9603246,
+		"script": "\n;;49㎏,2\n# se \"SE_0734\"\n# select \"56㎏\" \"select_label_1\" \"49㎏\" \"select_label_2\" \"52kg\" \"select_label_3\"\nオルフェウスの体重は\n次のうちどれ？\n"
+	},
+	{
+		"ID": 6007,
+		"unitID": 2603211,
+		"questionID": 9603247,
+		"script": "\n;;242,3\n# se \"SE_0734\"\n# select \"240\" \"select_label_1\" \"238\" \"select_label_2\" \"242\" \"select_label_3\"\nオルフェウスの\nバスト＋ウエスト＋ヒップは\nいくつかわかる？\n"
+	},
+	{
+		"ID": 6008,
+		"unitID": 2603211,
+		"questionID": 9603248,
+		"script": "\n;;オレンジ,2\n# se \"SE_0734\"\n# select \"ピンク\" \"select_label_1\" \"オレンジ\" \"select_label_2\" \"シルバー\" \"select_label_3\"\nオルフェウスの髪の色は\n次のうちどれ？\n"
+	},
+	{
+		"ID": 6009,
+		"unitID": 2603211,
+		"questionID": 9603249,
+		"script": "\n;;参加してない,1\n# se \"SE_0734\"\n# select \"参加してない\" \"select_label_1\" \"５位\" \"select_label_2\" \"８位\" \"select_label_3\"\nオルフェウスは\n第5回人気投票で\n何位だったでしょう？\n"
+	},
+	{
+		"ID": 6010,
+		"unitID": 2603211,
+		"questionID": 9603250,
+		"script": "\n;;平流エレン,1\n# se \"SE_0734\"\n# select \"平流エレン\" \"select_label_1\" \"大久保瑠美\" \"select_label_2\" \"⾓元明⽇⾹\" \"select_label_3\"\nオルフェウスの声優は誰？\n"
+	}
+]

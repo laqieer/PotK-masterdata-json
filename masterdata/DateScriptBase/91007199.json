@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 91007199,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# se \"SE_0732\"\n# voice 1007 \"Arondaito_0004\"\n@アロンダイト\n…ふっ\n\n@アロンダイト\nすごいですね、マスター\n当たっています…\n\n# eye %(unit_a)s \"close\"\n@アロンダイト\nこんなことまで、\n覚えていただいている\nなんて…\n\n# eye %(unit_a)s \"normal\"\n@アロンダイト\nやはりマスター、\nあなたはとても\nお優しい方です\n\n# face %(unit_a)s \"smile\"\n# voice 1007 \"Arondaito_0041\"\n@アロンダイト\nマスター、\nありがとうございます…\n嬉しいです、とても\n\n# textflame 0 0\n@\n普段は表情の硬い彼女が、\n幸せそうな笑顔を見せる\n\n@\nそんなアロンダイトの笑顔を眺め、\n彼女との絆が深まったことを\n実感するマスターであった\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

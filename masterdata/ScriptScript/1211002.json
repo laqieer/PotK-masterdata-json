@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 1211002,
+		"script": "# script \"lisp\"\n# body 101411\n# body 4\n# body 0\n# textwindow \"close\"\n# serif 1\n# textboxarrow 1 3\n# pos 4 4\n# chara 4\n# face 4 \"angry\"\n# face 0 \"angry\"\n@トト\nイヤだ！\n離せって！\n離せよ、バカっ！！\n\n# pos 0 2\n# chara 0\n# leftin 0 0.3\n\n# voice 9999 \"durin_0009\"\n# textwindow \"nomal\"\n# serif 0\n# textboxarrow 0 1\n# chara 0\n@デュリン\nなんで、そんなに嫌がんのよ？\n教会のほうが安心でしょうが\n\n# face 4 \"sad\"\n# serif 1\n# textboxarrow 1 3\n# chara 4\n@トト\n…………\n\n# voice 9999 \"durin_0014\"\n# serif 0\n# textboxarrow 0 1\n# chara 0\n@デュリン\nなによ、黙り込んで…\n教会が嫌な理由でもあるわけ？\n言ってごらんなさいよ？\n\n# serif 1\n# textboxarrow 1 3\n# chara 4\n@トト\n…バカ\n\n# voice 9999 \"durin_0052\"\n# serif 0\n# textboxarrow 0 1\n# chara 0\n@デュリン\nああん！？\n\n# voice 1014 \"tyrufing_0027\"\n# leftout 0 0.3\n# serif 0\n# textboxarrow 0 1\n# pos 101411 1\n# chara 101411\n# leftin 101411 0.3\n@ティルフィング\nデュリン…相手は子供でしょ\nほら、教会が見えて来たわ\n\n# serif 1\n# textboxarrow 1 3\n# chara 4\n@トト\n…！"
+	}
+]

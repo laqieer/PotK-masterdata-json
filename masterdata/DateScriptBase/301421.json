@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 301421,
+		"script": ";;A 隣にいてくれるだけでいい（大）\n;;B そいつぁうっかりしてました（小）\n;;C たまには見てもらおうかと（中）\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_drive\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 0 0\n# face %(unit_a)s \"usual\"\n@\nマスターは\nイシューリエルを誘って\nドライブにやってきた\n\n# face %(unit_a)s \"sad\"\n# voice 3014 \"ithuriel_0009\"\n# textflame 1 1\n@イシューリエル\n考えましたわねマスター…\n\n@イシューリエル\nわたくしに顔色を悟られぬよう\nドライブを選ぶとは…\n\n# face %(unit_a)s \"usual\"\n@イシューリエル\nでもこれでは\nわたくしのかわいい顔が\n見られないではないですか？\n\n# select \"隣にいてくれるだけでいい\" \"select_label_01\" \"そいつぁうっかりしてました\" \"select_label_02\" \"たまには見てもらおうかと\" \"select_label_03\"\nでもこれでは\nわたくしのかわいい顔が\n見られないではないですか？\n\n# label \"select_label_01\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_02\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_03\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_end\"\n# waitandnext 0.1\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

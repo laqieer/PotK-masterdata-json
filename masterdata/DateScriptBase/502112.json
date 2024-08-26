@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 502112,
+		"script": ";;A ここは祈るところでは？(大当たり)\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_church\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n@セファー\nもちろん\n教会とは神に祈るところです\n\n# eye %(unit_a)s \"close\"\n@セファー\nですが…\nそれが全てではありません\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"smile\"\n# voice 5021 \"sefer_0002\"\n@セファー\n街の人々の憩いとなり\n人々の和を保つ…\n\n@セファー\nそういう役割もあるんです\n\n# face %(unit_a)s \"angry\"\n@セファー\nそもそも\n教会の成り立ちというのがですね…\n\n# face %(unit_a)s \"smile\"\n# voice 5021 \"sefer_0022\"\n@セファー\nあっ、それにはまず\n神様の話をしなくてはいけませんね！\n\n@セファー\nあぁ、でもあれも話したいですし、\nこれも話したいです…\n\n# textflame 0 0\n@\nいろいろ聞かせてくれる？\nと、笑いながら答えるマスター\n\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n@セファー\n！！\n\n# face %(unit_a)s \"smile\"\n@セファー\nそうですか…\nでは、遠慮なく！\n\n# textflame 0 0\n@\n説明好きの血が騒ぎだした\nセファーは教会知識を語りだす\n\n# textflame 0 0\n@\nその顔はとても楽しそうで\n時間はあっという間に過ぎていった…\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

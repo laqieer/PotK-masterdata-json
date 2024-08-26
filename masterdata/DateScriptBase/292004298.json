@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 292004298,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 220042 \"parashu_k_0022\"\n# se \"SE_0733\"\n@パラシュ\nあ、あれ…違うよ、マスター\nもしかして、難しかったかい？\n\n# voice 220042 \"parashu_k_0028\"\n@パラシュ\nいや、でも急にクイズなんて始めた\nボクが悪いね\n\n@パラシュ\nマスターも別の問題ならあっさり\n答えられたはず\n\n# voice 220042 \"parashu_k_0031\"\n@パラシュ\nだから、\n急に変なことしてゴメンね\nマスター\n\n# textflame 0 0\n@\n瞳を潤ませながら、\n謝ってくるパラシュに\n罪悪感が募る\n\n@\n次は絶対に正解を出してみせる\nそう、固く誓った…\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

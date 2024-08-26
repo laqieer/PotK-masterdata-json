@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 7010021,
+		"script": ";;-------------------------------------\n;;塔シナリオ　ガブリエル　遭遇\n;;-------------------------------------\n# script \"lisp\"\n# body 960030\n# pos 960030 3\n# mask 960030 off\n;;◆背景はそのまま-----------------------------------------------\n# textflame 1 1\n# textboxarrow 0 2\n# voice 9971 \"gabriel_0001\"\n# chara 960030\n@ガブリエル\n私に何用ですか\n悪しき異物達よ…\n\n# textflame 1 1\n# textboxarrow 0 2\n# chara 960030\n@ガブリエル\n神への冒涜だと\n知っての行為ですか？\n\n# textflame 1 1\n# textboxarrow 0 2\n# voice 9971 \"gabriel_0004\"\n# chara 960030\n@ガブリエル\n無知ということならば\n慈悲を与えましょう\n\n# textflame 1 1\n# textboxarrow 0 2\n# chara 960030\n@ガブリエル\nさぁ、すみやかに去りなさい\n\n# textflame 1 1\n# textboxarrow 0 2\n# chara 960030\n@ガブリエル\n…………\n\n# textflame 1 1\n# textboxarrow 0 2\n# voice 9971 \"gabriel_0027\"\n# chara 960030\n@ガブリエル\nまさかここまで人間が\n愚かとは思いませんでした\n\n# textflame 1 1\n# textboxarrow 0 2\n# chara 960030\n@ガブリエル\nならば、神の名の下に、\nこのガブリエルが\n粛清いたしましょう\n\n# textflame 1 1\n# textboxarrow 0 2\n# chara 960030\n@ガブリエル\nアナタ達が抱いた\n希望が無意味だったか\n\n# textflame 1 1\n# textboxarrow 0 2\n# voice 9971 \"gabriel_0020\"\n# chara 960030\n@ガブリエル\n身をもって\n味わわせてあげましょう\n"
+	}
+]

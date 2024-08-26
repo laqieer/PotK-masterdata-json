@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 2500222,
+		"script": ";;a\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_shipboard\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# face 2500221 \"smile\"\n@フライクーゲル\nそりゃもうオフコース！\n\n# voice 250022 \"furaikugeru_k_0020\"\n@フライクーゲル\nこんなビューティフルな夜の海で\nマスターと二人きりのランデブー\nだしね！\n\n@フライクーゲル\nそれに夜の海は不思議と\nテンションあがっちゃうからさ\n\n@フライクーゲル\nわたしのためにここの生き物には\n不眠不休でロマンチックな\n舞台作りに励んでもらうよ！\n\n# voice 250022 \"furaikugeru_k_0005\"\n@フライクーゲル\nさあマスター！\nヘァピィな船上を一緒に\n朝まで堪能しましょ！\n\n# textflame 0 0\n;;モノローグ\n@\n船上で舞うようにしながら\n声をあげるフライクーゲル\n\n;;モノローグ\n@\nとても楽しそうにする彼女を\n見るマスターもまた、\n満足気に笑うのだった…\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

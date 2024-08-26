@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 100212103,
+		"script": ";;//背景：火事\n# script \"lisp\"\n# background \"imperial_city_destroyed\"\n# bgmfile \"bgm276\" \"BgmLostRagnarokEvent\" 0\n# textwindow \"close\"\n# se \"SE_0753\"\n# textflame 1 1\n# serif 1\n@男１\n誰か！\n誰か助けてくれぇっ…！\n\n# serif 1\n# textwindow \"close\"\n# serif 0\n# textwindow \"nomal\"\n@女１\nここから出してぇっ…！\nゴホッ…ゴホッ…苦しい…\n\n@母親\nマリア！\nマリア、どこに行ったの！？\nお願い返事を…ゴホッゴホッ…\n\n# serif 0\n# textwindow \"close\"\n# serif 1\n@男２\nなんでだよっ…\nなんでこんなことになってんだよ…\nなんで町が…\n\n# serif 1\n@男２\n町全体が…\n燃えてるんだよぉ！？"
+	}
+]

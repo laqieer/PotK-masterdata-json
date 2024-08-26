@@ -1,0 +1,9 @@
+[
+	{
+		"ID": 1,
+		"name": "シーズンチケット",
+		"max_quantity": 99,
+		"description": "クラスマッチのシーズン対戦数を１増やすチケット。",
+		"increase_match": 1
+	}
+]

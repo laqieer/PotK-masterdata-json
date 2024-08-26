@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 93032199,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 330321 \"gaedearg_ge_0028\"\n# se \"SE_0732\"\n@ガ・ジャルグ\n………その答え\n\n# voice 330321 \"gaedearg_ge_0004\"\n@ガ・ジャルグ\n正解よ\n\n# voice 330321 \"gaedearg_ge_0032\"\n@ガ・ジャルグ\nいいわ\n\n# face %(unit_a)s \"smile\"\n@ガ・ジャルグ\n今日のデート、\n完璧だったってことに\nしてあげる\n\n@ガ・ジャルグ\nでも、わたしは至高の存在\n\n@ガ・ジャルグ\n次はもっともっと完璧な\nプランを練ってくるのね\n\n# textflame 0 0\n@\n高慢な態度は崩さないが、\nその瞳は嬉しさに満ちている\n\n# textflame 0 0\n@\nマスターも、\n彼女と距離が縮まったことに\n素直に喜んでいた\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

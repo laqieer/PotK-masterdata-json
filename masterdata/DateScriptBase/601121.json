@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 601121,
+		"script": ";;,男として当然のこと（小）\n;;,甘えてもいいの？（中）\n;;,たまには頼られたい（大）\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_room\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 0 0\n@\nデートを終えたマスターは\nヴァナルガンドを部屋まで\n送り届けた\n\n# textflame 1 1\n# voice 6011 \"vanargand_0030\"\n@ヴァナルガンド\n今日はデートに誘ってくれて\nありがとうございました、\nマスターさん\n\n# voice 6011 \"vanargand_0004\"\n@ヴァナルガンド\nその、わたしの方がいっぱい\n甘えちゃいましたね～…\n\n# select \"男として当然のこと\" \"select_label_01\" \"甘えてもいいの？\" \"select_label_02\" \"たまには頼られたい\" \"select_label_03\"\nその、わたしの方がいっぱい\n甘えちゃいましたね～…\n\n# label \"select_label_01\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_02\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_03\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# textflame 1 1\n# waitandnext 0.1\n\n# label \"select_label_end\"\n# waitandnext 2\n# fadeout \"black\" 1.2\n"
+	}
+]

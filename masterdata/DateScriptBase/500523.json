@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 500523,
+		"script": ";;A ヴァジュラにぴったりだ（中）\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_fireworks\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# voice 5005 \"vajura_0005\"\n# face %(unit_a)s \"smile\"\n@ヴァジュラ\nはっはっは！\n派手にドカンと行くところか？\nその通りだな！\n\n# textflame 0 0\n@\nヴァジュラは\nマスターの肩を叩きながら\n大声で笑ってみせる\n\n# face %(unit_a)s \"normal\"\n# eye %(unit_a)s \"close\"\n# textflame 1 1\n@ヴァジュラ\nおっと！\n「激しく輝いたあとに\n消え行く儚さもキミにピッタリだ」\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"smile\"\n# voice 5005 \"vajura_0007\"\n@ヴァジュラ\nなんて口説き文句、\nマスターは言わないよな？\n\n@ヴァジュラ\nな、そうだろ？\nはははっ♪\n\n# textflame 0 0\n@\n全部お見通しだと\n苦笑いするマスター\n先に彼女に言われてしまった\n\n# textflame 1 1\n# voice 5005 \"vajura_0003\"\n@ヴァジュラ\n…口説き文句は\nあたしに読まれないようなの\n考えないとダメだぞ♪\n\n# textflame 0 0\n@\n豪快に笑いながらも\n自分のセリフが恥ずかしかったのか\n少し頬の赤いヴァジュラだった…\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

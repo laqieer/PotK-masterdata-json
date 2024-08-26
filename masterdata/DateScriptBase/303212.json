@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 303212,
+		"script": ";;大B適度に褒める\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_ferris\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# face %(unit_a)s \"normal\"\n# voice 230321 \"gaedearg_ge_0007\"\n# textflame 1 1\n@ガ・ジャルグ\nふふんっ、当然よ\nわたしは至高の存在だもの！\n\n# voice 230321 \"gaedearg_ge_0004\"\n@ガ・ジャルグ\nやっぱりマスターに\n褒めてもらうのは\n気持ちがいいわね…\n\n@ガ・ジャルグ\nせっかくのデートだし、\nたまにはお返ししてあげる\n\n# face %(unit_a)s \"smile\"\n@ガ・ジャルグ\nさっ、マスター\n隣に座りなさい？\n\n@ガ・ジャルグ\nあなたには特別に、\nわたしの髪を\n触らせてあげるわ！\n\n# voice 230321 \"gaedearg_ge_0004\"\n@ガ・ジャルグ\nふふんっ、どう？\n\n@ガ・ジャルグ\n鮮やかで煌びやかで…\n極上の触り心地でしょう？\n\n@ガ・ジャルグ\nあら…ずいぶん\n嬉しそうじゃない\nまあ、当然よね！\n\n# face %(unit_a)s \"usual\"\n# voice 230321 \"gaedearg_ge_0028\"\n@ガ・ジャルグ\nそうね…\nもしマスターが\nこれからも褒めてくれるなら\n\n@ガ・ジャルグ\nこうしてまた、\n至高の存在であるわたしに\n触れる権利をあげるわ\n\n# face %(unit_a)s \"normal\"\n# voice 230321 \"gaedearg_ge_0007\"\n@ガ・ジャルグ\n楽しみにしておくことね？\nふふんっ！\n\n# textflame 0 0\n@\n機嫌のいい\nガ・ジャルグを見て\n頬をほころばせるマスター\n\n# textflame 0 0\n@\n並んで座ったまま、\n二人は夜景を楽しんだ…\n\n;;-----------------------------------------\n# waitandnext 2\n# fadeout \"black\" 1.2\n"
+	}
+]

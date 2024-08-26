@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 3300113,
+		"script": ";;B\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_stream_day\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# face %(unit_a)s \"normal\"\n# voice 230013 \"ronginusu_lo_0022\"\n# textflame 1 1\n@ロンギヌス\nわ、ありがとうございます…！\n\n@ロンギヌス\nおにいさんにそばに\nいてもらえたら、\nとってもあんしんです…！\n\n@ロンギヌス\nう～っ…\nだんだんふるえも\nとまってきました…\n\n# face %(unit_a)s \"angry\"\n# voice 230013 \"ronginusu_lo_battle_0001\"\n@ロンギヌス\nみててください、\nおにいさん！\n…えいっ！\n\n# face %(unit_a)s \"normal\"\n# voice 230013 \"ronginusu_lo_0004\"\n@ロンギヌス\nわっ、と…とと…！\nはぁ、うまくとべましたぁ…！\n\n@ロンギヌス\nありがとうございます！\nおにいさんのおかげで…え？\n\n# face %(unit_a)s \"sad\"\n# voice 230013 \"ronginusu_lo_0028\"\n@ロンギヌス\nわたしのじつりょく…ですか？\nいえっ、おにいさんが\nいてくれたから…！\n\n# face %(unit_a)s \"happy\"\n# voice 230013 \"ronginusu_lo_0042\"\n@ロンギヌス\nでも…えへへ♪\nほめられるのは\nうれしいですっ\n\n@ロンギヌス\nわたし、またひとつ\nじぶんにじしんを\nもてたきがします…♪\n\n# textflame 0 0\n@\nやり遂げた達成感で、\n表情をぱあっと\n明るくするロンギヌス\n\n@\nそうしてまた一歩、\n前に足を踏み出すのだった…\n\n;;-----------------------------------------\n# waitandnext 2\n# fadeout \"black\" 1.2\n"
+	}
+]

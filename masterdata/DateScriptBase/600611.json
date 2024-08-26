@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 600611,
+		"script": ";;ボーッとしよう,中\n;;噴水で水遊びしよう,小\n;;ご飯を食べよう,大\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background %(background)s\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 0 0\n@\nミストルティンを誘い、\n公園にやってきたのだが…\n\n# voice 6006 \"misutoru_0022\"\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@ミストルティン\n…ひゃあっ！？\nす、すみませんマスター！\n\n# textflame 1 1\n@ミストルティン\nただボーッとしてるだけじゃ\nつまらないですよね…\n\n# textflame 1 1\n@ミストルティン\n私、いつもひとりでいるので…\n人といる時はなにをすればいいのか…\n\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@ミストルティン\n今日はマスターが一緒ですから、\nなにかした方がいいですよね…\n;;----------------------------------------\n\n# voice 6006 \"misutoru_0028\"\n# textflame 1 1\n@%(unitName:unit_a)s\nえ、ええと…\n\n# select \"ボーッとしよう\" \"select_label_01\" \"噴水で水遊びしよう\" \"select_label_02\" \"ご飯を食べよう\" \"select_label_03\"\nえ、ええと…\n\n# label \"select_label_01\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_02\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_03\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_end\"\n# waitandnext 0.1\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

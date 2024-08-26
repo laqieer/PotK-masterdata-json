@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 101221,
+		"script": ";;A あ、やばいかわいいかも… \n;;B すみません失礼しました\n;;C おとなしく言うことを聞け\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_room\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 0 0\n@\nアダマスに散々からかわれたので\nさすがにむっとして\n部屋に押しかけたマスターだったが…\n\n# face %(unit_a)s \"sad\"\n# voice 1012 \"adamasu_0004\"\n# textflame 1 1\n@アダマス\nあ……う……あ……\nな、なに…なんで…\n\n# voice 1012 \"adamasu_0042\"\n# textflame 1 1\n@アダマス\nか、勝手に人の部屋に！\n入ってきてるのよぉ…っ…！\n\n# select \"あ、やばいかわいいかも…\" \"select_label_01\" \"すみません失礼しました\" \"select_label_02\" \"おとなしく言うことを聞け\" \"select_label_03\"\nか、勝手に人の部屋に！\n入ってきてるのよぉ…っ…！\n\n# label \"select_label_01\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_02\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_03\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_end\"\n# waitandnext 0.1\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

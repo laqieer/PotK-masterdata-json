@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 401013,
+		"script": ";;選択肢A(中当たり)\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_park_day\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 4010 \"Abaris_0003\"\n@アバリス\nそうなんです…！\n感謝を忘れてはいけません！\n\n# textflame 0 0\n@\nそういってアバリスは\n眩しそうに太陽を\n見上げている\n\n@\nが…これは暑い\nこのままじゃ二人とも熱中症だ\n\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n# voice 4010 \"Abaris_0001\"\n@アバリス\n…どうしました、マスター？\n\n# textflame 0 0\n@\n冷たいものでも飲みに行かない？\nと声をかける\n\n# voice 4010 \"Abaris_0031\"\n# textflame 1 1\n@アバリス\n…！\nあ、すみません！！\n\n# voice 4010 \"Abaris_0005\"\n# face %(unit_a)s \"smile\"\n@アバリス\nじっと太陽ばかり見つめていても\n汗をかくだけですよね…\nええ、冷たいものでも飲みましょう！\n\n# textflame 0 0\n@\n太陽に照らされる\nアバリスも素敵だが…\n\n@\nせっかくのデート\nいろいろと二人で\n楽しみたいマスターなのだった\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

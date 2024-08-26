@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 93014198,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# se \"SE_0733\"\n# face %(unit_a)s \"sad\"\n# voice 3014 \"ithuriel_0013\"\n@イシューリエル\nなんということ…\n不正解ですわ！\n\n@イシューリエル\nまさか、こんな簡単な\nクイズにも答えられないとは…\n\n# face %(unit_a)s \"usual\"\n@イシューリエル\nわざと間違えて\nわたくしの気を引こうという\n作戦なのですね…？\n\n@イシューリエル\nそ、そうに決まってます！\n\n# voice 3014 \"ithuriel_0015\"\n# face %(unit_a)s \"sad\"\n@イシューリエル\nそう…ですよね…？\n\n# textflame 0 0\n@\n…と、尋ねる彼女は、\nとても弱々しく儚げで…\n\n# textflame 0 0\n@\nデート中にこんなにも\nがっかりさせてしまうなんて…\n\n# textflame 0 0\n@\nいつも元気な彼女が好きだから、\n次は間違えないようにしないとな…\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

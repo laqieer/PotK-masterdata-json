@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 4101413,
+		"script": ";;B\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_cafe\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 210144 \"tyrufing_lo_0004\"\n@ティルフィング\nそっか…！\nふたりでわければ、\nやすくすみますね！\n\n# face %(unit_a)s \"surprise\"\n@ティルフィング\nあ…でも、\nそれだとちょっと\nこまっちゃいます…\n\n@ティルフィング\nほら、みてください\nメニューのしゃしん\n\n@ティルフィング\nこのトッピング、ひとつしか\nのってないみたいなんです\n\n# face %(unit_a)s \"sad\"\n# voice 210144 \"tyrufing_lo_0028\"\n@ティルフィング\nこの形だと、\nはんぶんこには\nできなさそうです…\n\n# face %(unit_a)s \"surprise\"\n@ティルフィング\nえ？\nたべていいよって…\nだ、ダメですっ！\n\n# face %(unit_a)s \"usual\"\n@ティルフィング\nせっかくお兄さんが、\n私のために\nたのんでくれるんですから\n\n# face %(unit_a)s \"angry\"\n# voice 210144 \"tyrufing_lo_0013\"\n@ティルフィング\nちゃんとはんぶんこにできる\nほうほうをかんがえてみますね！\nむむむっ…！\n\n# textflame 0 0\n@\nパフェの写真をじっと見つめて、\nかわいらしく悩むティルフィング\n\n# textflame 0 0\n@\nその様子を見守りながら、\nティルフィングの出す答えを\n楽しみに待つマスターだった…\n\n;;-----------------------------------------\n# waitandnext 2\n# fadeout \"black\" 1.2\n"
+	}
+]

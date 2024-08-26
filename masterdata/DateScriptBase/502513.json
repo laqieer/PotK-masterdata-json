@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 502513,
+		"script": ";;A中-------------------\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_castle\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# voice 5025 \"megumin_0026\"\n@めぐみん\nいえ、ちょっとお城には\n色々と思い出があるので\n\n# textflame 0 0\n@\nそうなんだ\nお城に普段から縁があるなんて\nさすが冒険者、とマスター\n\n# textflame 0 0\n@\nすごいな、\nと感心した様子で続ける\n\n# textflame 1 1\n@めぐみん\nそ、そういった類いのものでは…\n\n;;モノローグ\n# textflame 0 0\n@\n今日は中を探索してみようか\nめぐみんとなら財宝とか見つかるかも\nと、わくわくした様子のマスター\n\n# textflame 1 1\n@めぐみん\n冒険者といっても\n私は盗賊職では\nないのですよ？\n\n# voice 5025 \"megumin_0004\"\n# face %(unit_a)s \"happy\"\n@めぐみん\n…でもマスターと一緒なら\n面白そうです\n行ってみましょう！\n\n;;モノローグ\n# textflame 0 0\n@\nそうして二人は\nお城の探索をして過ごした\n\n# waitandnext 2\n# fadeout \"black\" 1.2\n"
+	}
+]

@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 200625,
+		"script": ";;また一緒に来ようね,大\n;;温泉は美容にいいらしいよ,中\n;;本当に気持ちいいよね,小\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_onsen\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 0 0\n@\nマスターはダグダとふたりで\n水着着用の温泉に来ていた\n\n# face %(unit_a)s \"smile\"\n# voice 2006 \"daguda_0020\"\n# textflame 1 1\n@ダグダ\nえへへ\n気持ちいいねぇマスター\n\n# textflame 0 0\n@\n水着での混浴泉で\n穏やかに言葉を交わす\n\n# textflame 1 1\n@ダグダ\n温泉でマスターと\nのんびーりできるなんて\n;;----------------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nこういうのを\n「極楽極楽～♪」\nって言うのかな？\n\n# textflame 0 0\n@\n本当に気持ちいいよね\n\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n@ダグダ\nそうだよね～\n家のお風呂とはまた別って感じ！\n\n# voice 2006 \"daguda_0004\"\n# textflame 1 1\n@ダグダ\nマスター疲れてるでしょ？\nえへへ、後でマサージしてあげる♪\n\n# textflame 0 0\n@\nダグダがマサージと口にして驚く\nそんなことしたら疲れるだろうに…\n\n# textflame 1 1\n@ダグダ\nいいの！\nダグダがマスターに\nサービスしたいんだから♪\n\n# textflame 1 1\n@ダグダ\nでもサービスは\nちょっとだけだからね\n\n# textflame 0 0\n@\nそう言って\nはにかむダグダだった――\n;;----------------------------------------\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

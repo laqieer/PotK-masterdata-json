@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 91006198,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# se \"SE_0733\"\n# face %(unit_a)s \"sad\"\n# voice 1006 \"nageruring_0026\"\n@ナーゲルリング\nむぅ…\n不正解です…\n\n;;//文字小さく\n# textsize 20\n@ナーゲルリング\n正解してくれると\n思ってたのになぁ…\n\n# textsize 24\n@ナーゲルリング\n問題が難しすぎましたかね？\n\n# face %(unit_a)s \"normal\"\n@ナーゲルリング\nきっと、そうです！\nまた今度クイズをやりましょう！\n\n# voice 1006 \"nageruring_0036\"\n@ナーゲルリング\nその時こそは、\n正解してくださいね、マスター！\n\n# textflame 0 0\n@\nせっかくのデートなのに\n彼女に気を使わせてしまった…\n\n@\n今度こそは絶対に正解して、\n彼女を笑顔にしたい！\n\n@\nそのためにも彼女のことを\nもっと知っておかないとな…\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

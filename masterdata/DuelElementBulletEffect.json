@@ -1,0 +1,110 @@
+[
+	{
+		"ID": 1,
+		"bullet_prefab_name": "ef324_bow_bullet",
+		"element_CommonElement": 2,
+		"effect_name": "ef529_bow_fire_bullet"
+	},
+	{
+		"ID": 2,
+		"bullet_prefab_name": "ef324_bow_bullet",
+		"element_CommonElement": 3,
+		"effect_name": "ef529_bow_wind_bullet"
+	},
+	{
+		"ID": 3,
+		"bullet_prefab_name": "ef324_bow_bullet",
+		"element_CommonElement": 4,
+		"effect_name": "ef529_bow_thunder_bullet"
+	},
+	{
+		"ID": 4,
+		"bullet_prefab_name": "ef324_bow_bullet",
+		"element_CommonElement": 5,
+		"effect_name": "ef529_bow_ice_bullet"
+	},
+	{
+		"ID": 5,
+		"bullet_prefab_name": "ef324_bow_bullet",
+		"element_CommonElement": 7,
+		"effect_name": "ef529_bow_holy_bullet"
+	},
+	{
+		"ID": 6,
+		"bullet_prefab_name": "ef324_bow_bullet",
+		"element_CommonElement": 8,
+		"effect_name": "ef529_bow_dark_bullet"
+	},
+	{
+		"ID": 7,
+		"bullet_prefab_name": "ef325_axe_bullet",
+		"element_CommonElement": 2,
+		"effect_name": "ef527_axe_fire_throw"
+	},
+	{
+		"ID": 8,
+		"bullet_prefab_name": "ef325_axe_bullet",
+		"element_CommonElement": 3,
+		"effect_name": "ef527_axe_wind_throw"
+	},
+	{
+		"ID": 9,
+		"bullet_prefab_name": "ef325_axe_bullet",
+		"element_CommonElement": 4,
+		"effect_name": "ef527_axe_thunder_throw"
+	},
+	{
+		"ID": 10,
+		"bullet_prefab_name": "ef325_axe_bullet",
+		"element_CommonElement": 5,
+		"effect_name": "ef527_axe_ice_throw"
+	},
+	{
+		"ID": 11,
+		"bullet_prefab_name": "ef325_axe_bullet",
+		"element_CommonElement": 7,
+		"effect_name": "ef527_axe_holy_throw"
+	},
+	{
+		"ID": 12,
+		"bullet_prefab_name": "ef325_axe_bullet",
+		"element_CommonElement": 8,
+		"effect_name": "ef527_axe_dark_throw"
+	},
+	{
+		"ID": 13,
+		"bullet_prefab_name": "ef326_spear_bullet",
+		"element_CommonElement": 2,
+		"effect_name": "ef528_spear_fire_throw"
+	},
+	{
+		"ID": 14,
+		"bullet_prefab_name": "ef326_spear_bullet",
+		"element_CommonElement": 3,
+		"effect_name": "ef528_spear_wind_throw"
+	},
+	{
+		"ID": 15,
+		"bullet_prefab_name": "ef326_spear_bullet",
+		"element_CommonElement": 4,
+		"effect_name": "ef528_spear_thunder_throw"
+	},
+	{
+		"ID": 16,
+		"bullet_prefab_name": "ef326_spear_bullet",
+		"element_CommonElement": 5,
+		"effect_name": "ef528_spear_ice_throw"
+	},
+	{
+		"ID": 17,
+		"bullet_prefab_name": "ef326_spear_bullet",
+		"element_CommonElement": 7,
+		"effect_name": "ef528_spear_holy_throw"
+	},
+	{
+		"ID": 18,
+		"bullet_prefab_name": "ef326_spear_bullet",
+		"element_CommonElement": 8,
+		"effect_name": "ef528_spear_dark_throw"
+	}
+]

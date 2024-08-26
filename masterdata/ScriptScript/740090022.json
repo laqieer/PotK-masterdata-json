@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 740090022,
+		"script": ";;サンゴ上級突入時\n# script \"lisp\"\n# body 302911\n# mask 302911 off\n# pos 302911 3\n# scale 302911 0.8 0\n# textflame 1 1\n# textboxarrow 0 2\n# chara 302911\n# voice 3029 \"sango_unit_0010\"\n@サンゴ\nよし！　わたし、頑張る！"
+	}
+]

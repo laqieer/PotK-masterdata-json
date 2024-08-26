@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 603212,
+		"script": ";;B\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_concert\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# face %(unit_a)s \"normal\"\n# voice 560321 \"orpheus_c_0004\"\n# textflame 1 1\n@オルフェウス\nおっ、いい感じ♪\nやるじゃんマスター♪\n\n@オルフェウス\nやっぱライブは\nこのノリっしょ！\n\n@オルフェウス\nやってみたら、\n意外と楽しいことって\nあるよね♪\n\n# voice 560321 \"orpheus_c_0020\"\n# eye %(unit_a)s \"close\"\n@オルフェウス\nよっしゃー\nあたしも負けてらんないし！\nまだまだテンアゲでいくよ♪\n\n# eye %(unit_a)s \"normal\"\n@オルフェウス\nって、リーダー大丈夫？\n無理してない？\n\n@オルフェウス\nふふっ、そうこなくちゃ♪\n\n@オルフェウス\nライブはまだまだ\nこれからだもんね♪\n\n@オルフェウス\n完全燃焼で動けなく\nなるぐらいマジで行くよ♪\n\n@オルフェウス\nそれそれそれ！\nギュンギュン来てる♪\n\n# voice 560321 \"orpheus_c_0039\"\n# eye %(unit_a)s \"close\"\n@オルフェウス\nおおっ、リーダーも\nやる気満々じゃん♪\nいい感じ♪\n\n# eye %(unit_a)s \"normal\"\n@オルフェウス\nはぁ…やっと１曲目が\n終わったところだね♪\n\n@オルフェウス\nでもでもライブは\n後何曲もあるもんね…♪\n\n# voice 560321 \"orpheus_c_0005\"\n# eye %(unit_a)s \"close\"\n@オルフェウス\nあははは、ホントヤバ♪\n今夜はサイコーの１日だね♪\n\n# textflame 0 0\n@\nその後も二人は\nライブで声援を送り続け…\n\n@\n時間を忘れるほど\n充実した一夜を\n過ごすのだった…\n\n;;-----------------------------------------\n# waitandnext 2\n# fadeout \"black\" 1.2\n"
+	}
+]

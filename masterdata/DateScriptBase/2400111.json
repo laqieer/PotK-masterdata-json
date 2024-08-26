@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 2400111,
+		"script": ";;B:一緒に中に入ってみよう\n;;C:聖歌隊の歌を聞いていこう\n;;A:懺悔室というのもあるよ\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_church\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# face %(unit_a)s \"usual\"\n# textflame 0 0\n@\nアルテミスを誘って、\n教会にやってきた\nマスター\n\n# textflame 1 1\n@アルテミス\n教会ですか…\nたしか“愛”を誓う場所ですよね\n\n# eye %(unit_a)s \"close\"\n@アルテミス\n私から見れば\n愛なんて“色欲”を隠す\nただの言い訳なのですが…\n\n# voice 240012 \"arutemisu_k_0002\"\n# eye %(unit_a)s \"normal\"\n@アルテミス\nこのような場所に連れてきた理由を\n聞かせていただけますか？\n\n# select \"懺悔室というのもあるよ\" \"select_label_01\" \"一緒に中に入ってみよう\" \"select_label_02\" \"聖歌隊の歌を聞いていこう\" \"select_label_03\"\nこのような場所に連れてきた理由を\n聞かせていただけますか？\n\n# label \"select_label_01\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_02\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_03\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_end\"\n# waitandnext 0.1\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

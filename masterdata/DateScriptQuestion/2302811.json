@@ -1,0 +1,302 @@
+[
+	{
+		"ID": 5116,
+		"unitID": 2302811,
+		"questionID": 9302801,
+		"script": ";;槍,1\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 3028 \"herena_a_0002\"\n@ヘレナ\nなあ、先輩\nこのまま帰るのも\n味気ないと思わないかい？\n\n@ヘレナ\nちょっと賭けでもしないか？\n\n@ヘレナ\n今からヘレナがクイズを出す\n\n@ヘレナ\n先輩が正解できたら、\nかき氷をおごってあげよう\n\n@ヘレナ\nでも間違えたら、\nヘレナにかき氷をおごるんだ\nどう？\n\n# textflame 0 0\n@\n彼女が得意の交渉を持ち掛けてきた\n\n# textflame 1 1\n# face %(unit_a)s \"happy\"\n# voice 3028 \"herena_a_0004\"\n@ヘレナ\n先輩だったらヘレナのこと、\nなんでも知ってるよね？\nくふっ\n\n@ヘレナ\nじゃあ、行くよ\n;;---------------------------------\n\n@%(unitName:unit_a)s\nヘレナの武器属性は分かる？　\n\n# se \"SE_0734\"\n# select \"槍\" \"select_label_1\" \"銃\" \"select_label_2\" \"弓\" \"select_label_3\"\nヘレナの武器属性は分かる？　\n"
+	},
+	{
+		"ID": 5117,
+		"unitID": 2302811,
+		"questionID": 9302802,
+		"script": ";;ロキ,3\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 3028 \"herena_a_0002\"\n@ヘレナ\nなあ、先輩\nこのまま帰るのも\n味気ないと思わないかい？\n\n@ヘレナ\nちょっと賭けでもしないか？\n\n@ヘレナ\n今からヘレナがクイズを出す\n\n@ヘレナ\n先輩が正解できたら、\nかき氷をおごってあげよう\n\n@ヘレナ\nでも間違えたら、\nヘレナにかき氷をおごるんだ\nどう？\n\n# textflame 0 0\n@\n彼女が得意の交渉を持ち掛けてきた\n\n# textflame 1 1\n# face %(unit_a)s \"happy\"\n# voice 3028 \"herena_a_0004\"\n@ヘレナ\n先輩だったらヘレナのこと、\nなんでも知ってるよね？\nくふっ\n\n@ヘレナ\nじゃあ、行くよ\n;;---------------------------------\n\n@%(unitName:unit_a)s\nヘレナにドミネイトされた悪神は？\n\n# se \"SE_0734\"\n# select \"ルカ\" \"select_label_1\" \"オミ\" \"select_label_2\" \"ロキ\" \"select_label_3\"\nヘレナにドミネイトされた悪神は？\n"
+	},
+	{
+		"ID": 5118,
+		"unitID": 2302811,
+		"questionID": 9302803,
+		"script": ";;カトリック教会,2\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 3028 \"herena_a_0002\"\n@ヘレナ\nなあ、先輩\nこのまま帰るのも\n味気ないと思わないかい？\n\n@ヘレナ\nちょっと賭けでもしないか？\n\n@ヘレナ\n今からヘレナがクイズを出す\n\n@ヘレナ\n先輩が正解できたら、\nかき氷をおごってあげよう\n\n@ヘレナ\nでも間違えたら、\nヘレナにかき氷をおごるんだ\nどう？\n\n# textflame 0 0\n@\n彼女が得意の交渉を持ち掛けてきた\n\n# textflame 1 1\n# face %(unit_a)s \"happy\"\n# voice 3028 \"herena_a_0004\"\n@ヘレナ\n先輩だったらヘレナのこと、\nなんでも知ってるよね？\nくふっ\n\n@ヘレナ\nじゃあ、行くよ\n;;---------------------------------\n\n@%(unitName:unit_a)s\nヘレナのキラーズは\nどの教派に伝えられている？\n\n# se \"SE_0734\"\n# select \"プロテスタント\" \"select_label_1\" \"カトリック教会\" \"select_label_2\" \"正教会\" \"select_label_3\"\nヘレナのキラーズは\nどの教派に伝えられている？\n"
+	},
+	{
+		"ID": 5119,
+		"unitID": 2302811,
+		"questionID": 9302804,
+		"script": ";;聖釘,3\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 3028 \"herena_a_0002\"\n@ヘレナ\nなあ、先輩\nこのまま帰るのも\n味気ないと思わないかい？\n\n@ヘレナ\nちょっと賭けでもしないか？\n\n@ヘレナ\n今からヘレナがクイズを出す\n\n@ヘレナ\n先輩が正解できたら、\nかき氷をおごってあげよう\n\n@ヘレナ\nでも間違えたら、\nヘレナにかき氷をおごるんだ\nどう？\n\n# textflame 0 0\n@\n彼女が得意の交渉を持ち掛けてきた\n\n# textflame 1 1\n# face %(unit_a)s \"happy\"\n# voice 3028 \"herena_a_0004\"\n@ヘレナ\n先輩だったらヘレナのこと、\nなんでも知ってるよね？\nくふっ\n\n@ヘレナ\nじゃあ、行くよ\n;;---------------------------------\n\n@%(unitName:unit_a)s\nヘレナのキラーズはなに？\n\n# se \"SE_0734\"\n# select \"聖剣\" \"select_label_1\" \"聖斧\" \"select_label_2\" \"聖釘\" \"select_label_3\"\nヘレナのキラーズはなに？\n"
+	},
+	{
+		"ID": 5120,
+		"unitID": 2302811,
+		"questionID": 9302805,
+		"script": ";;キリスト,1\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 3028 \"herena_a_0002\"\n@ヘレナ\nなあ、先輩\nこのまま帰るのも\n味気ないと思わないかい？\n\n@ヘレナ\nちょっと賭けでもしないか？\n\n@ヘレナ\n今からヘレナがクイズを出す\n\n@ヘレナ\n先輩が正解できたら、\nかき氷をおごってあげよう\n\n@ヘレナ\nでも間違えたら、\nヘレナにかき氷をおごるんだ\nどう？\n\n# textflame 0 0\n@\n彼女が得意の交渉を持ち掛けてきた\n\n# textflame 1 1\n# face %(unit_a)s \"happy\"\n# voice 3028 \"herena_a_0004\"\n@ヘレナ\n先輩だったらヘレナのこと、\nなんでも知ってるよね？\nくふっ\n\n@ヘレナ\nじゃあ、行くよ\n;;---------------------------------\n\n@%(unitName:unit_a)s\nヘレナのキラーズ「聖釘」は\n誰を磔にしていたかわかる？\n\n# se \"SE_0734\"\n# select \"キリスト\" \"select_label_1\" \"伊達政宗\" \"select_label_2\" \"織田信長\" \"select_label_3\"\nヘレナのキラーズ「聖釘」は\n誰を磔にしていたかわかる？\n"
+	},
+	{
+		"ID": 5121,
+		"unitID": 2302811,
+		"questionID": 9302806,
+		"script": ";;悪戯好きな神,1\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 3028 \"herena_a_0002\"\n@ヘレナ\nなあ、先輩\nこのまま帰るのも\n味気ないと思わないかい？\n\n@ヘレナ\nちょっと賭けでもしないか？\n\n@ヘレナ\n今からヘレナがクイズを出す\n\n@ヘレナ\n先輩が正解できたら、\nかき氷をおごってあげよう\n\n@ヘレナ\nでも間違えたら、\nヘレナにかき氷をおごるんだ\nどう？\n\n# textflame 0 0\n@\n彼女が得意の交渉を持ち掛けてきた\n\n# textflame 1 1\n# face %(unit_a)s \"happy\"\n# voice 3028 \"herena_a_0004\"\n@ヘレナ\n先輩だったらヘレナのこと、\nなんでも知ってるよね？\nくふっ\n\n@ヘレナ\nじゃあ、行くよ\n;;---------------------------------\n\n@%(unitName:unit_a)s\nヘレナにドミネイトされた\nロキとはどんな神？\n\n# se \"SE_0734\"\n# select \"悪戯好きな神\" \"select_label_1\" \"オシャレ好きな神\" \"select_label_2\" \"オジサン好きな神\" \"select_label_3\"\nヘレナにドミネイトされた\nロキとはどんな神？\n"
+	},
+	{
+		"ID": 5122,
+		"unitID": 2302811,
+		"questionID": 9302807,
+		"script": ";;ゴルゴダの丘,2\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 3028 \"herena_a_0002\"\n@ヘレナ\nなあ、先輩\nこのまま帰るのも\n味気ないと思わないかい？\n\n@ヘレナ\nちょっと賭けでもしないか？\n\n@ヘレナ\n今からヘレナがクイズを出す\n\n@ヘレナ\n先輩が正解できたら、\nかき氷をおごってあげよう\n\n@ヘレナ\nでも間違えたら、\nヘレナにかき氷をおごるんだ\nどう？\n\n# textflame 0 0\n@\n彼女が得意の交渉を持ち掛けてきた\n\n# textflame 1 1\n# face %(unit_a)s \"happy\"\n# voice 3028 \"herena_a_0004\"\n@ヘレナ\n先輩だったらヘレナのこと、\nなんでも知ってるよね？\nくふっ\n\n@ヘレナ\nじゃあ、行くよ\n;;---------------------------------\n\n@%(unitName:unit_a)s\nヘレナのキラーズ「聖釘」が\n見つかった場所はどこの跡地？\n\n# se \"SE_0734\"\n# select \"やすらぎの丘\" \"select_label_1\" \"ゴルゴダの丘\" \"select_label_2\" \"ゴルゴンゾーラの丘\" \"select_label_3\"\nヘレナのキラーズ「聖釘」が\n見つかった場所はどこの跡地？\n"
+	},
+	{
+		"ID": 5123,
+		"unitID": 2302811,
+		"questionID": 9302808,
+		"script": ";;十字架,3\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 3028 \"herena_a_0002\"\n@ヘレナ\nなあ、先輩\nこのまま帰るのも\n味気ないと思わないかい？\n\n@ヘレナ\nちょっと賭けでもしないか？\n\n@ヘレナ\n今からヘレナがクイズを出す\n\n@ヘレナ\n先輩が正解できたら、\nかき氷をおごってあげよう\n\n@ヘレナ\nでも間違えたら、\nヘレナにかき氷をおごるんだ\nどう？\n\n# textflame 0 0\n@\n彼女が得意の交渉を持ち掛けてきた\n\n# textflame 1 1\n# face %(unit_a)s \"happy\"\n# voice 3028 \"herena_a_0004\"\n@ヘレナ\n先輩だったらヘレナのこと、\nなんでも知ってるよね？\nくふっ\n\n@ヘレナ\nじゃあ、行くよ\n;;---------------------------------\n\n@%(unitName:unit_a)s\nヘレナのキラーズ「聖釘」と一緒に\nゴルゴダの丘で見つかったものは？\n\n# se \"SE_0734\"\n# select \"聖杯\" \"select_label_1\" \"いばらの冠\" \"select_label_2\" \"十字架\" \"select_label_3\"\nヘレナのキラーズ「聖釘」と一緒に\nゴルゴダの丘で見つかったものは？\n"
+	},
+	{
+		"ID": 5124,
+		"unitID": 2302811,
+		"questionID": 9302809,
+		"script": ";;閉ざす者,3\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 3028 \"herena_a_0002\"\n@ヘレナ\nなあ、先輩\nこのまま帰るのも\n味気ないと思わないかい？\n\n@ヘレナ\nちょっと賭けでもしないか？\n\n@ヘレナ\n今からヘレナがクイズを出す\n\n@ヘレナ\n先輩が正解できたら、\nかき氷をおごってあげよう\n\n@ヘレナ\nでも間違えたら、\nヘレナにかき氷をおごるんだ\nどう？\n\n# textflame 0 0\n@\n彼女が得意の交渉を持ち掛けてきた\n\n# textflame 1 1\n# face %(unit_a)s \"happy\"\n# voice 3028 \"herena_a_0004\"\n@ヘレナ\n先輩だったらヘレナのこと、\nなんでも知ってるよね？\nくふっ\n\n@ヘレナ\nじゃあ、行くよ\n;;---------------------------------\n\n@%(unitName:unit_a)s\nヘレナにドミネイトされたロキは\nどんな意味を持つ？\n\n# se \"SE_0734\"\n# select \"開ける者\" \"select_label_1\" \"壊す者\" \"select_label_2\" \"閉ざす者\" \"select_label_3\"\nヘレナにドミネイトされたロキは\nどんな意味を持つ？\n"
+	},
+	{
+		"ID": 5125,
+		"unitID": 2302811,
+		"questionID": 9302810,
+		"script": ";;アスガルズ,2\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 3028 \"herena_a_0002\"\n@ヘレナ\nなあ、先輩\nこのまま帰るのも\n味気ないと思わないかい？\n\n@ヘレナ\nちょっと賭けでもしないか？\n\n@ヘレナ\n今からヘレナがクイズを出す\n\n@ヘレナ\n先輩が正解できたら、\nかき氷をおごってあげよう\n\n@ヘレナ\nでも間違えたら、\nヘレナにかき氷をおごるんだ\nどう？\n\n# textflame 0 0\n@\n彼女が得意の交渉を持ち掛けてきた\n\n# textflame 1 1\n# face %(unit_a)s \"happy\"\n# voice 3028 \"herena_a_0004\"\n@ヘレナ\n先輩だったらヘレナのこと、\nなんでも知ってるよね？\nくふっ\n\n@ヘレナ\nじゃあ、行くよ\n;;---------------------------------\n\n@%(unitName:unit_a)s\nヘレナにドミネイトされたロキは\nどこに住んでいる？\n\n# se \"SE_0734\"\n# select \"アスファルト\" \"select_label_1\" \"アスガルズ\" \"select_label_2\" \"アルファルファ\" \"select_label_3\"\nヘレナにドミネイトされたロキは\nどこに住んでいる？\n"
+	},
+	{
+		"ID": 5126,
+		"unitID": 2302811,
+		"questionID": 9302811,
+		"script": ";;風,3\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 3028 \"herena_a_0022\"\n@ヘレナ\nえ？なんだ、ニール？\n\n;;モノローグ\n# textflame 0 0\n@\nと、彼女がニールに耳を近づける\n\n# textflame 1 1\n@ヘレナ\nふん、ふん\n\n# voice 3028 \"herena_a_0040\"\n@ヘレナ\nなるほど\n\n# face %(unit_a)s \"usual\"\n# voice 3028 \"herena_a_0004\"\n@ヘレナ\n先輩、ニールが\nクイズに答えて\n欲しいそうだ、くふっ\n\n;;モノローグ\n# textflame 0 0\n@\n本当にニールがそんなことを\n言ったかどうかは分からないが、\n受けることにする\n\n# textflame 1 1\n@ヘレナ\nじゃあ、いくぞ\n\n;;モノローグ\n# textflame 0 0\n@\nとにかく彼女のクイズが始まった\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nヘレナの属性はしってる？\n\n# se \"SE_0734\"\n# select \"氷\" \"select_label_1\" \"炎\" \"select_label_2\" \"風\" \"select_label_3\"\nヘレナの属性はしってる？\n"
+	},
+	{
+		"ID": 5127,
+		"unitID": 2302811,
+		"questionID": 9302812,
+		"script": ";;155cm ,1\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 3028 \"herena_a_0022\"\n@ヘレナ\nえ？なんだ、ニール？\n\n;;モノローグ\n# textflame 0 0\n@\nと、彼女がニールに耳を近づける\n\n# textflame 1 1\n@ヘレナ\nふん、ふん\n\n# voice 3028 \"herena_a_0040\"\n@ヘレナ\nなるほど\n\n# face %(unit_a)s \"usual\"\n# voice 3028 \"herena_a_0004\"\n@ヘレナ\n先輩、ニールが\nクイズに答えて\n欲しいそうだ、くふっ\n\n;;モノローグ\n# textflame 0 0\n@\n本当にニールがそんなことを\n言ったかどうかは分からないが、\n受けることにする\n\n# textflame 1 1\n@ヘレナ\nじゃあ、いくぞ\n\n;;モノローグ\n# textflame 0 0\n@\nとにかく彼女のクイズが始まった\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nヘレナの身長は何センチかわかる？\n\n# se \"SE_0734\"\n# select \"155cm \" \"select_label_1\" \"166cm\" \"select_label_2\" \"177cm\" \"select_label_3\"\nヘレナの身長は何センチかわかる？\n"
+	},
+	{
+		"ID": 5128,
+		"unitID": 2302811,
+		"questionID": 9302813,
+		"script": ";;09/14,3\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 3028 \"herena_a_0022\"\n@ヘレナ\nえ？なんだ、ニール？\n\n;;モノローグ\n# textflame 0 0\n@\nと、彼女がニールに耳を近づける\n\n# textflame 1 1\n@ヘレナ\nふん、ふん\n\n# voice 3028 \"herena_a_0040\"\n@ヘレナ\nなるほど\n\n# face %(unit_a)s \"usual\"\n# voice 3028 \"herena_a_0004\"\n@ヘレナ\n先輩、ニールが\nクイズに答えて\n欲しいそうだ、くふっ\n\n;;モノローグ\n# textflame 0 0\n@\n本当にニールがそんなことを\n言ったかどうかは分からないが、\n受けることにする\n\n# textflame 1 1\n@ヘレナ\nじゃあ、いくぞ\n\n;;モノローグ\n# textflame 0 0\n@\nとにかく彼女のクイズが始まった\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nヘレナの誕生日はしってる？\n\n# se \"SE_0734\"\n# select \"8月14日\" \"select_label_1\" \"7月14日\" \"select_label_2\" \"9月14日\" \"select_label_3\"\nヘレナの誕生日はしってる？\n"
+	},
+	{
+		"ID": 5129,
+		"unitID": 2302811,
+		"questionID": 9302814,
+		"script": ";;おとめ座,1\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 3028 \"herena_a_0022\"\n@ヘレナ\nえ？なんだ、ニール？\n\n;;モノローグ\n# textflame 0 0\n@\nと、彼女がニールに耳を近づける\n\n# textflame 1 1\n@ヘレナ\nふん、ふん\n\n# voice 3028 \"herena_a_0040\"\n@ヘレナ\nなるほど\n\n# face %(unit_a)s \"usual\"\n# voice 3028 \"herena_a_0004\"\n@ヘレナ\n先輩、ニールが\nクイズに答えて\n欲しいそうだ、くふっ\n\n;;モノローグ\n# textflame 0 0\n@\n本当にニールがそんなことを\n言ったかどうかは分からないが、\n受けることにする\n\n# textflame 1 1\n@ヘレナ\nじゃあ、いくぞ\n\n;;モノローグ\n# textflame 0 0\n@\nとにかく彼女のクイズが始まった\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nヘレナの星座はしってる？\n\n# se \"SE_0734\"\n# select \"おとめ座\" \"select_label_1\" \"いて座\" \"select_label_2\" \"かに座\" \"select_label_3\"\nヘレナの星座はしってる？\n"
+	},
+	{
+		"ID": 5130,
+		"unitID": 2302811,
+		"questionID": 9302815,
+		"script": ";;うそをつく事,1\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 3028 \"herena_a_0022\"\n@ヘレナ\nえ？なんだ、ニール？\n\n;;モノローグ\n# textflame 0 0\n@\nと、彼女がニールに耳を近づける\n\n# textflame 1 1\n@ヘレナ\nふん、ふん\n\n# voice 3028 \"herena_a_0040\"\n@ヘレナ\nなるほど\n\n# face %(unit_a)s \"usual\"\n# voice 3028 \"herena_a_0004\"\n@ヘレナ\n先輩、ニールが\nクイズに答えて\n欲しいそうだ、くふっ\n\n;;モノローグ\n# textflame 0 0\n@\n本当にニールがそんなことを\n言ったかどうかは分からないが、\n受けることにする\n\n# textflame 1 1\n@ヘレナ\nじゃあ、いくぞ\n\n;;モノローグ\n# textflame 0 0\n@\nとにかく彼女のクイズが始まった\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nヘレナの好きなことはわかる？\n\n# se \"SE_0734\"\n# select \"うそをつく事\" \"select_label_1\" \"善いことをする事\" \"select_label_2\" \"体を鍛えること\" \"select_label_3\"\nヘレナの好きなことはわかる？\n"
+	},
+	{
+		"ID": 5131,
+		"unitID": 2302811,
+		"questionID": 9302816,
+		"script": ";;人間観察,3\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 3028 \"herena_a_0022\"\n@ヘレナ\nえ？なんだ、ニール？\n\n;;モノローグ\n# textflame 0 0\n@\nと、彼女がニールに耳を近づける\n\n# textflame 1 1\n@ヘレナ\nふん、ふん\n\n# voice 3028 \"herena_a_0040\"\n@ヘレナ\nなるほど\n\n# face %(unit_a)s \"usual\"\n# voice 3028 \"herena_a_0004\"\n@ヘレナ\n先輩、ニールが\nクイズに答えて\n欲しいそうだ、くふっ\n\n;;モノローグ\n# textflame 0 0\n@\n本当にニールがそんなことを\n言ったかどうかは分からないが、\n受けることにする\n\n# textflame 1 1\n@ヘレナ\nじゃあ、いくぞ\n\n;;モノローグ\n# textflame 0 0\n@\nとにかく彼女のクイズが始まった\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nヘレナの趣味は？\n\n# se \"SE_0734\"\n# select \"昆虫観察\" \"select_label_1\" \"保護観察\" \"select_label_2\" \"人間観察\" \"select_label_3\"\nヘレナの趣味は？\n"
+	},
+	{
+		"ID": 5132,
+		"unitID": 2302811,
+		"questionID": 9302817,
+		"script": ";;ＡＢ型,3\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 3028 \"herena_a_0022\"\n@ヘレナ\nえ？なんだ、ニール？\n\n;;モノローグ\n# textflame 0 0\n@\nと、彼女がニールに耳を近づける\n\n# textflame 1 1\n@ヘレナ\nふん、ふん\n\n# voice 3028 \"herena_a_0040\"\n@ヘレナ\nなるほど\n\n# face %(unit_a)s \"usual\"\n# voice 3028 \"herena_a_0004\"\n@ヘレナ\n先輩、ニールが\nクイズに答えて\n欲しいそうだ、くふっ\n\n;;モノローグ\n# textflame 0 0\n@\n本当にニールがそんなことを\n言ったかどうかは分からないが、\n受けることにする\n\n# textflame 1 1\n@ヘレナ\nじゃあ、いくぞ\n\n;;モノローグ\n# textflame 0 0\n@\nとにかく彼女のクイズが始まった\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nヘレナの血液型はしってる？\n\n# se \"SE_0734\"\n# select \"Ｏ型\" \"select_label_1\" \"Ｂ型\" \"select_label_2\" \"ＡＢ型\" \"select_label_3\"\nヘレナの血液型はしってる？\n"
+	},
+	{
+		"ID": 5133,
+		"unitID": 2302811,
+		"questionID": 9302818,
+		"script": ";;アスガルズ,1\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 3028 \"herena_a_0022\"\n@ヘレナ\nえ？なんだ、ニール？\n\n;;モノローグ\n# textflame 0 0\n@\nと、彼女がニールに耳を近づける\n\n# textflame 1 1\n@ヘレナ\nふん、ふん\n\n# voice 3028 \"herena_a_0040\"\n@ヘレナ\nなるほど\n\n# face %(unit_a)s \"usual\"\n# voice 3028 \"herena_a_0004\"\n@ヘレナ\n先輩、ニールが\nクイズに答えて\n欲しいそうだ、くふっ\n\n;;モノローグ\n# textflame 0 0\n@\n本当にニールがそんなことを\n言ったかどうかは分からないが、\n受けることにする\n\n# textflame 1 1\n@ヘレナ\nじゃあ、いくぞ\n\n;;モノローグ\n# textflame 0 0\n@\nとにかく彼女のクイズが始まった\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nヘレナの出身地はわかる？\n\n# se \"SE_0734\"\n# select \"アスガルズ\" \"select_label_1\" \"アルカトラズ\" \"select_label_2\" \"アトランティス\" \"select_label_3\"\nヘレナの出身地はわかる？\n"
+	},
+	{
+		"ID": 5134,
+		"unitID": 2302811,
+		"questionID": 9302819,
+		"script": ";;ニール,2\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 3028 \"herena_a_0022\"\n@ヘレナ\nえ？なんだ、ニール？\n\n;;モノローグ\n# textflame 0 0\n@\nと、彼女がニールに耳を近づける\n\n# textflame 1 1\n@ヘレナ\nふん、ふん\n\n# voice 3028 \"herena_a_0040\"\n@ヘレナ\nなるほど\n\n# face %(unit_a)s \"usual\"\n# voice 3028 \"herena_a_0004\"\n@ヘレナ\n先輩、ニールが\nクイズに答えて\n欲しいそうだ、くふっ\n\n;;モノローグ\n# textflame 0 0\n@\n本当にニールがそんなことを\n言ったかどうかは分からないが、\n受けることにする\n\n# textflame 1 1\n@ヘレナ\nじゃあ、いくぞ\n\n;;モノローグ\n# textflame 0 0\n@\nとにかく彼女のクイズが始まった\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nヘレナのパートナーの\n名前はわかる？\n\n# se \"SE_0734\"\n# select \"ヒール\" \"select_label_1\" \"ニール\" \"select_label_2\" \"ビール\" \"select_label_3\"\nヘレナのパートナーの\n名前はわかる？\n"
+	},
+	{
+		"ID": 5135,
+		"unitID": 2302811,
+		"questionID": 9302820,
+		"script": ";;小機械獣,3\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 3028 \"herena_a_0022\"\n@ヘレナ\nえ？なんだ、ニール？\n\n;;モノローグ\n# textflame 0 0\n@\nと、彼女がニールに耳を近づける\n\n# textflame 1 1\n@ヘレナ\nふん、ふん\n\n# voice 3028 \"herena_a_0040\"\n@ヘレナ\nなるほど\n\n# face %(unit_a)s \"usual\"\n# voice 3028 \"herena_a_0004\"\n@ヘレナ\n先輩、ニールが\nクイズに答えて\n欲しいそうだ、くふっ\n\n;;モノローグ\n# textflame 0 0\n@\n本当にニールがそんなことを\n言ったかどうかは分からないが、\n受けることにする\n\n# textflame 1 1\n@ヘレナ\nじゃあ、いくぞ\n\n;;モノローグ\n# textflame 0 0\n@\nとにかく彼女のクイズが始まった\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nヘレナのパートナーの\nニールの正体はなに？\n\n# se \"SE_0734\"\n# select \"動物\" \"select_label_1\" \"人間\" \"select_label_2\" \"小機械獣\" \"select_label_3\"\nヘレナのパートナーの\nニールの正体はなに？\n"
+	},
+	{
+		"ID": 5136,
+		"unitID": 2302811,
+		"questionID": 9302821,
+		"script": ";;風悪神の悪戯,2\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 3028 \"herena_a_0038\"\n@ヘレナ\n…う…うぅ\n\n;;モノローグ\n# textflame 0 0\n@\n突如、お腹をおさえ、\nうずくまる彼女\n\n@\nどうしたの、大丈夫？\nと心配そうに尋ねるマスター\n\n# textflame 1 1\n# voice 3028 \"herena_a_0015\"\n@ヘレナ\nうぅ…先輩に、\nちょっと答えてもらいたい\nことがあるんだ\n\n@ヘレナ\n先輩が正しい答えを言ってくれたら、\nこの腹痛も治りそうな気がする\n\n# textflame 0 0\n@\nいきなりの展開に慌てるマスター\n\n@\nそんなことがあるのかと\n疑問に思いつつも\n答えることにする\n\n# textflame 1 1\n@ヘレナ\n準備はいい？\nじゃあ問題\n;;---------------------------------\n\n@%(unitName:unit_a)s\nヘレナのおぼえる\nリーダースキルってしってる？\n\n# se \"SE_0734\"\n# select \"北風たちの悪戯\" \"select_label_1\" \"風悪神の悪戯\" \"select_label_2\" \"風神の悪戯\" \"select_label_3\"\nヘレナのおぼえる\nリーダースキルってしってる？\n"
+	},
+	{
+		"ID": 5137,
+		"unitID": 2302811,
+		"questionID": 9302822,
+		"script": ";;理を破る者達,2\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 3028 \"herena_a_0038\"\n@ヘレナ\n…う…うぅ\n\n;;モノローグ\n# textflame 0 0\n@\n突如、お腹をおさえ、\nうずくまる彼女\n\n@\nどうしたの、大丈夫？\nと心配そうに尋ねるマスター\n\n# textflame 1 1\n# voice 3028 \"herena_a_0015\"\n@ヘレナ\nうぅ…先輩に、\nちょっと答えてもらいたい\nことがあるんだ\n\n@ヘレナ\n先輩が正しい答えを言ってくれたら、\nこの腹痛も治りそうな気がする\n\n# textflame 0 0\n@\nいきなりの展開に慌てるマスター\n\n@\nそんなことがあるのかと\n疑問に思いつつも\n答えることにする\n\n# textflame 1 1\n@ヘレナ\n準備はいい？\nじゃあ問題\n;;---------------------------------\n\n@%(unitName:unit_a)s\nヘレナのおぼえるスキルって\nしってる？\n\n# se \"SE_0734\"\n# select \"記録を破る者達\" \"select_label_1\" \"理を破る者達\" \"select_label_2\" \"ルールを破る者達\" \"select_label_3\"\nヘレナのおぼえるスキルって\nしってる？\n"
+	},
+	{
+		"ID": 5138,
+		"unitID": 2302811,
+		"questionID": 9302823,
+		"script": ";;風悪神の術策,3\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 3028 \"herena_a_0038\"\n@ヘレナ\n…う…うぅ\n\n;;モノローグ\n# textflame 0 0\n@\n突如、お腹をおさえ、\nうずくまる彼女\n\n@\nどうしたの、大丈夫？\nと心配そうに尋ねるマスター\n\n# textflame 1 1\n# voice 3028 \"herena_a_0015\"\n@ヘレナ\nうぅ…先輩に、\nちょっと答えてもらいたい\nことがあるんだ\n\n@ヘレナ\n先輩が正しい答えを言ってくれたら、\nこの腹痛も治りそうな気がする\n\n# textflame 0 0\n@\nいきなりの展開に慌てるマスター\n\n@\nそんなことがあるのかと\n疑問に思いつつも\n答えることにする\n\n# textflame 1 1\n@ヘレナ\n準備はいい？\nじゃあ問題\n;;---------------------------------\n\n@%(unitName:unit_a)s\nヘレナの☆６の\nリーダースキルはしってる？\n\n# se \"SE_0734\"\n# select \"風悪神の策略\" \"select_label_1\" \"風悪神の術中\" \"select_label_2\" \"風悪神の術策\" \"select_label_3\"\nヘレナの☆６の\nリーダースキルはしってる？\n"
+	},
+	{
+		"ID": 5139,
+		"unitID": 2302811,
+		"questionID": 9302824,
+		"script": ";;翻弄する狡智,1\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 3028 \"herena_a_0038\"\n@ヘレナ\n…う…うぅ\n\n;;モノローグ\n# textflame 0 0\n@\n突如、お腹をおさえ、\nうずくまる彼女\n\n@\nどうしたの、大丈夫？\nと心配そうに尋ねるマスター\n\n# textflame 1 1\n# voice 3028 \"herena_a_0015\"\n@ヘレナ\nうぅ…先輩に、\nちょっと答えてもらいたい\nことがあるんだ\n\n@ヘレナ\n先輩が正しい答えを言ってくれたら、\nこの腹痛も治りそうな気がする\n\n# textflame 0 0\n@\nいきなりの展開に慌てるマスター\n\n@\nそんなことがあるのかと\n疑問に思いつつも\n答えることにする\n\n# textflame 1 1\n@ヘレナ\n準備はいい？\nじゃあ問題\n;;---------------------------------\n\n@%(unitName:unit_a)s\nヘレナがおぼえる\n付与スキルってわかるよね？\n\n# se \"SE_0734\"\n# select \"翻弄する狡智\" \"select_label_1\" \"翻弄するコーチ\" \"select_label_2\" \"翻弄する高知\" \"select_label_3\"\nヘレナがおぼえる\n付与スキルってわかるよね？\n"
+	},
+	{
+		"ID": 5140,
+		"unitID": 2302811,
+		"questionID": 9302825,
+		"script": ";;魔界劣獣,3\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 3028 \"herena_a_0038\"\n@ヘレナ\n…う…うぅ\n\n;;モノローグ\n# textflame 0 0\n@\n突如、お腹をおさえ、\nうずくまる彼女\n\n@\nどうしたの、大丈夫？\nと心配そうに尋ねるマスター\n\n# textflame 1 1\n# voice 3028 \"herena_a_0015\"\n@ヘレナ\nうぅ…先輩に、\nちょっと答えてもらいたい\nことがあるんだ\n\n@ヘレナ\n先輩が正しい答えを言ってくれたら、\nこの腹痛も治りそうな気がする\n\n# textflame 0 0\n@\nいきなりの展開に慌てるマスター\n\n@\nそんなことがあるのかと\n疑問に思いつつも\n答えることにする\n\n# textflame 1 1\n@ヘレナ\n準備はいい？\nじゃあ問題\n;;---------------------------------\n\n@%(unitName:unit_a)s\nヘレナがおぼえる\n付与スキルってわかる？\n\n# se \"SE_0734\"\n# select \"魔界優獣\" \"select_label_1\" \"魔界マ獣\" \"select_label_2\" \"魔界劣獣\" \"select_label_3\"\nヘレナがおぼえる\n付与スキルってわかる？\n"
+	},
+	{
+		"ID": 5141,
+		"unitID": 2302811,
+		"questionID": 9302826,
+		"script": ";;終末の聖釘,2\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 3028 \"herena_a_0038\"\n@ヘレナ\n…う…うぅ\n\n;;モノローグ\n# textflame 0 0\n@\n突如、お腹をおさえ、\nうずくまる彼女\n\n@\nどうしたの、大丈夫？\nと心配そうに尋ねるマスター\n\n# textflame 1 1\n# voice 3028 \"herena_a_0015\"\n@ヘレナ\nうぅ…先輩に、\nちょっと答えてもらいたい\nことがあるんだ\n\n@ヘレナ\n先輩が正しい答えを言ってくれたら、\nこの腹痛も治りそうな気がする\n\n# textflame 0 0\n@\nいきなりの展開に慌てるマスター\n\n@\nそんなことがあるのかと\n疑問に思いつつも\n答えることにする\n\n# textflame 1 1\n@ヘレナ\n準備はいい？\nじゃあ問題\n;;---------------------------------\n\n@%(unitName:unit_a)s\nヘレナのおぼえる\nデュエルスキルはしってる？\n\n# se \"SE_0734\"\n# select \"始発の聖釘\" \"select_label_1\" \"終末の聖釘\" \"select_label_2\" \"期末の聖釘\" \"select_label_3\"\nヘレナのおぼえる\nデュエルスキルはしってる？\n"
+	},
+	{
+		"ID": 5142,
+		"unitID": 2302811,
+		"questionID": 9302827,
+		"script": ";;理砕『巨人の機転』,2\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 3028 \"herena_a_0038\"\n@ヘレナ\n…う…うぅ\n\n;;モノローグ\n# textflame 0 0\n@\n突如、お腹をおさえ、\nうずくまる彼女\n\n@\nどうしたの、大丈夫？\nと心配そうに尋ねるマスター\n\n# textflame 1 1\n# voice 3028 \"herena_a_0015\"\n@ヘレナ\nうぅ…先輩に、\nちょっと答えてもらいたい\nことがあるんだ\n\n@ヘレナ\n先輩が正しい答えを言ってくれたら、\nこの腹痛も治りそうな気がする\n\n# textflame 0 0\n@\nいきなりの展開に慌てるマスター\n\n@\nそんなことがあるのかと\n疑問に思いつつも\n答えることにする\n\n# textflame 1 1\n@ヘレナ\n準備はいい？\nじゃあ問題\n;;---------------------------------\n\n@%(unitName:unit_a)s\nヘレナのおぼえる\nコマンドスキルはしってる？\n\n# se \"SE_0734\"\n# select \"理砕『巨人の二点』\" \"select_label_1\" \"理砕『巨人の機転』\" \"select_label_2\" \"理砕『巨人の辞典』\" \"select_label_3\"\nヘレナのおぼえる\nコマンドスキルはしってる？\n"
+	},
+	{
+		"ID": 5143,
+		"unitID": 2302811,
+		"questionID": 9302828,
+		"script": ";;見透す狡智,1\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 3028 \"herena_a_0038\"\n@ヘレナ\n…う…うぅ\n\n;;モノローグ\n# textflame 0 0\n@\n突如、お腹をおさえ、\nうずくまる彼女\n\n@\nどうしたの、大丈夫？\nと心配そうに尋ねるマスター\n\n# textflame 1 1\n# voice 3028 \"herena_a_0015\"\n@ヘレナ\nうぅ…先輩に、\nちょっと答えてもらいたい\nことがあるんだ\n\n@ヘレナ\n先輩が正しい答えを言ってくれたら、\nこの腹痛も治りそうな気がする\n\n# textflame 0 0\n@\nいきなりの展開に慌てるマスター\n\n@\nそんなことがあるのかと\n疑問に思いつつも\n答えることにする\n\n# textflame 1 1\n@ヘレナ\n準備はいい？\nじゃあ問題\n;;---------------------------------\n\n@%(unitName:unit_a)s\nヘレナのおぼえる\nコマンドスキルはしってる？\n\n# se \"SE_0734\"\n# select \"見透す狡智\" \"select_label_1\" \"見透す知性\" \"select_label_2\" \"見透す悪意\" \"select_label_3\"\nヘレナのおぼえる\nコマンドスキルはしってる？\n"
+	},
+	{
+		"ID": 5144,
+		"unitID": 2302811,
+		"questionID": 9302829,
+		"script": ";;飄逸の狡智,3\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 3028 \"herena_a_0038\"\n@ヘレナ\n…う…うぅ\n\n;;モノローグ\n# textflame 0 0\n@\n突如、お腹をおさえ、\nうずくまる彼女\n\n@\nどうしたの、大丈夫？\nと心配そうに尋ねるマスター\n\n# textflame 1 1\n# voice 3028 \"herena_a_0015\"\n@ヘレナ\nうぅ…先輩に、\nちょっと答えてもらいたい\nことがあるんだ\n\n@ヘレナ\n先輩が正しい答えを言ってくれたら、\nこの腹痛も治りそうな気がする\n\n# textflame 0 0\n@\nいきなりの展開に慌てるマスター\n\n@\nそんなことがあるのかと\n疑問に思いつつも\n答えることにする\n\n# textflame 1 1\n@ヘレナ\n準備はいい？\nじゃあ問題\n;;---------------------------------\n\n@%(unitName:unit_a)s\nヘレナがおぼえる\n付与スキルってわかる？\n\n# se \"SE_0734\"\n# select \"飄逸の河内\" \"select_label_1\" \"飄逸の高地\" \"select_label_2\" \"飄逸の狡智\" \"select_label_3\"\nヘレナがおぼえる\n付与スキルってわかる？\n"
+	},
+	{
+		"ID": 5145,
+		"unitID": 2302811,
+		"questionID": 9302830,
+		"script": ";;狡知の抵抗,3\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 3028 \"herena_a_0038\"\n@ヘレナ\n…う…うぅ\n\n;;モノローグ\n# textflame 0 0\n@\n突如、お腹をおさえ、\nうずくまる彼女\n\n@\nどうしたの、大丈夫？\nと心配そうに尋ねるマスター\n\n# textflame 1 1\n# voice 3028 \"herena_a_0015\"\n@ヘレナ\nうぅ…先輩に、\nちょっと答えてもらいたい\nことがあるんだ\n\n@ヘレナ\n先輩が正しい答えを言ってくれたら、\nこの腹痛も治りそうな気がする\n\n# textflame 0 0\n@\nいきなりの展開に慌てるマスター\n\n@\nそんなことがあるのかと\n疑問に思いつつも\n答えることにする\n\n# textflame 1 1\n@ヘレナ\n準備はいい？\nじゃあ問題\n;;---------------------------------\n\n@%(unitName:unit_a)s\nヘレナがおぼえる\n付与スキルってわかる？\n\n# se \"SE_0734\"\n# select \"参謀の抵抗\" \"select_label_1\" \"策士の抵抗\" \"select_label_2\" \"狡知の抵抗\" \"select_label_3\"\nヘレナがおぼえる\n付与スキルってわかる？\n"
+	},
+	{
+		"ID": 5146,
+		"unitID": 2302811,
+		"questionID": 9302831,
+		"script": ";;女,3\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 3028 \"herena_a_0003\"\n@ヘレナ\n……ああ\nそういえば\n\n# textflame 0 0\n@\nマスターの顔を\nじっと観察してくる彼女\n\n# textflame 1 1\n@ヘレナ\n………\n\n# textflame 0 0\n@\nどうしたの？\nと、尋ねるマスターに…\n\n# textflame 1 1\n@ヘレナ\n先輩はヘレナのこと、\nどれくらい知ってるのかな～って\n気になってね\n\n@ヘレナ\n試してもいいかな？\n\n# voice 3028 \"herena_a_0004\"\n@ヘレナ\nヘレナのこと、\nよく観察してたら\n答えられるよね？くふっ\n;;---------------------------------\n\n@%(unitName:unit_a)s\nヘレナにドミネイトされたロキは\n何に変身できる？\n\n# se \"SE_0734\"\n# select \"キリン\" \"select_label_1\" \"山羊\" \"select_label_2\" \"女\" \"select_label_3\"\nヘレナにドミネイトされたロキは\n何に変身できる？\n"
+	},
+	{
+		"ID": 5147,
+		"unitID": 2302811,
+		"questionID": 9302832,
+		"script": ";;September,3\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 3028 \"herena_a_0003\"\n@ヘレナ\n……ああ\nそういえば\n\n# textflame 0 0\n@\nマスターの顔を\nじっと観察してくる彼女\n\n# textflame 1 1\n@ヘレナ\n………\n\n# textflame 0 0\n@\nどうしたの？\nと、尋ねるマスターに…\n\n# textflame 1 1\n@ヘレナ\n先輩はヘレナのこと、\nどれくらい知ってるのかな～って\n気になってね\n\n@ヘレナ\n試してもいいかな？\n\n# voice 3028 \"herena_a_0004\"\n@ヘレナ\nヘレナのこと、\nよく観察してたら\n答えられるよね？くふっ\n;;---------------------------------\n\n@%(unitName:unit_a)s\nヘレナの誕生月を\n英語で言うと…？\n\n# se \"SE_0734\"\n# select \"January\" \"select_label_1\" \"August\" \"select_label_2\" \"September\" \"select_label_3\"\nヘレナの誕生月を\n英語で言うと…？\n"
+	},
+	{
+		"ID": 5148,
+		"unitID": 2302811,
+		"questionID": 9302833,
+		"script": ";;ヨルムンガンド,2\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 3028 \"herena_a_0003\"\n@ヘレナ\n……ああ\nそういえば\n\n# textflame 0 0\n@\nマスターの顔を\nじっと観察してくる彼女\n\n# textflame 1 1\n@ヘレナ\n………\n\n# textflame 0 0\n@\nどうしたの？\nと、尋ねるマスターに…\n\n# textflame 1 1\n@ヘレナ\n先輩はヘレナのこと、\nどれくらい知ってるのかな～って\n気になってね\n\n@ヘレナ\n試してもいいかな？\n\n# voice 3028 \"herena_a_0004\"\n@ヘレナ\nヘレナのこと、\nよく観察してたら\n答えられるよね？くふっ\n;;---------------------------------\n\n@%(unitName:unit_a)s\nヘレナにドミネイトされた\nロキの子どもの名は？\n\n# se \"SE_0734\"\n# select \"オーディン\" \"select_label_1\" \"ヨルムンガンド\" \"select_label_2\" \"アングルボザ\" \"select_label_3\"\nヘレナにドミネイトされた\nロキの子どもの名は？\n"
+	},
+	{
+		"ID": 5149,
+		"unitID": 2302811,
+		"questionID": 9302834,
+		"script": ";;ダグダ,3\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 3028 \"herena_a_0003\"\n@ヘレナ\n……ああ\nそういえば\n\n# textflame 0 0\n@\nマスターの顔を\nじっと観察してくる彼女\n\n# textflame 1 1\n@ヘレナ\n………\n\n# textflame 0 0\n@\nどうしたの？\nと、尋ねるマスターに…\n\n# textflame 1 1\n@ヘレナ\n先輩はヘレナのこと、\nどれくらい知ってるのかな～って\n気になってね\n\n@ヘレナ\n試してもいいかな？\n\n# voice 3028 \"herena_a_0004\"\n@ヘレナ\nヘレナのこと、\nよく観察してたら\n答えられるよね？くふっ\n;;---------------------------------\n\n@%(unitName:unit_a)s\nヘレナと誕生月が\n同じなのは誰？\n\n# se \"SE_0734\"\n# select \"ピサール\" \"select_label_1\" \"フランキスカ\" \"select_label_2\" \"ダグダ\" \"select_label_3\"\nヘレナと誕生月が\n同じなのは誰？\n"
+	},
+	{
+		"ID": 5150,
+		"unitID": 2302811,
+		"questionID": 9302835,
+		"script": ";;Virgo ,2\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 3028 \"herena_a_0003\"\n@ヘレナ\n……ああ\nそういえば\n\n# textflame 0 0\n@\nマスターの顔を\nじっと観察してくる彼女\n\n# textflame 1 1\n@ヘレナ\n………\n\n# textflame 0 0\n@\nどうしたの？\nと、尋ねるマスターに…\n\n# textflame 1 1\n@ヘレナ\n先輩はヘレナのこと、\nどれくらい知ってるのかな～って\n気になってね\n\n@ヘレナ\n試してもいいかな？\n\n# voice 3028 \"herena_a_0004\"\n@ヘレナ\nヘレナのこと、\nよく観察してたら\n答えられるよね？くふっ\n;;---------------------------------\n\n@%(unitName:unit_a)s\nヘレナの星座を\n英語で言うと？\n\n# se \"SE_0734\"\n# select \"Capricorn\" \"select_label_1\" \"Virgo \" \"select_label_2\" \"Taurus\" \"select_label_3\"\nヘレナの星座を\n英語で言うと？\n"
+	},
+	{
+		"ID": 5151,
+		"unitID": 2302811,
+		"questionID": 9302836,
+		"script": ";;レーヴァテイン,2\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 3028 \"herena_a_0003\"\n@ヘレナ\n……ああ\nそういえば\n\n# textflame 0 0\n@\nマスターの顔を\nじっと観察してくる彼女\n\n# textflame 1 1\n@ヘレナ\n………\n\n# textflame 0 0\n@\nどうしたの？\nと、尋ねるマスターに…\n\n# textflame 1 1\n@ヘレナ\n先輩はヘレナのこと、\nどれくらい知ってるのかな～って\n気になってね\n\n@ヘレナ\n試してもいいかな？\n\n# voice 3028 \"herena_a_0004\"\n@ヘレナ\nヘレナのこと、\nよく観察してたら\n答えられるよね？くふっ\n;;---------------------------------\n\n@%(unitName:unit_a)s\nヘレナと交流があるのは\nだれかしってる？\n\n# se \"SE_0734\"\n# select \"マサムネ\" \"select_label_1\" \"レーヴァテイン\" \"select_label_2\" \"草薙剣\" \"select_label_3\"\nヘレナと交流があるのは\nだれかしってる？\n"
+	},
+	{
+		"ID": 5152,
+		"unitID": 2302811,
+		"questionID": 9302837,
+		"script": ";;カリス【天使】,2\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 3028 \"herena_a_0003\"\n@ヘレナ\n……ああ\nそういえば\n\n# textflame 0 0\n@\nマスターの顔を\nじっと観察してくる彼女\n\n# textflame 1 1\n@ヘレナ\n………\n\n# textflame 0 0\n@\nどうしたの？\nと、尋ねるマスターに…\n\n# textflame 1 1\n@ヘレナ\n先輩はヘレナのこと、\nどれくらい知ってるのかな～って\n気になってね\n\n@ヘレナ\n試してもいいかな？\n\n# voice 3028 \"herena_a_0004\"\n@ヘレナ\nヘレナのこと、\nよく観察してたら\n答えられるよね？くふっ\n;;---------------------------------\n\n@%(unitName:unit_a)s\nヘレナと同じ、ディスラプターズに\n入っているのはだれ？\n\n# se \"SE_0734\"\n# select \"パリス【天使】\" \"select_label_1\" \"カリス【天使】\" \"select_label_2\" \"リリス【天使】\" \"select_label_3\"\nヘレナと同じ、ディスラプターズに\n入っているのはだれ？\n"
+	},
+	{
+		"ID": 5153,
+		"unitID": 2302811,
+		"questionID": 9302838,
+		"script": ";;ペルーン,3\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 3028 \"herena_a_0003\"\n@ヘレナ\n……ああ\nそういえば\n\n# textflame 0 0\n@\nマスターの顔を\nじっと観察してくる彼女\n\n# textflame 1 1\n@ヘレナ\n………\n\n# textflame 0 0\n@\nどうしたの？\nと、尋ねるマスターに…\n\n# textflame 1 1\n@ヘレナ\n先輩はヘレナのこと、\nどれくらい知ってるのかな～って\n気になってね\n\n@ヘレナ\n試してもいいかな？\n\n# voice 3028 \"herena_a_0004\"\n@ヘレナ\nヘレナのこと、\nよく観察してたら\n答えられるよね？くふっ\n;;---------------------------------\n\n@%(unitName:unit_a)s\nヘレナと同じ血液型なのは？\n\n# se \"SE_0734\"\n# select \"ミトゥム\" \"select_label_1\" \"ダグダ\" \"select_label_2\" \"ペルーン\" \"select_label_3\"\nヘレナと同じ血液型なのは？\n"
+	},
+	{
+		"ID": 5154,
+		"unitID": 2302811,
+		"questionID": 9302839,
+		"script": ";;アイム―ル,2\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 3028 \"herena_a_0003\"\n@ヘレナ\n……ああ\nそういえば\n\n# textflame 0 0\n@\nマスターの顔を\nじっと観察してくる彼女\n\n# textflame 1 1\n@ヘレナ\n………\n\n# textflame 0 0\n@\nどうしたの？\nと、尋ねるマスターに…\n\n# textflame 1 1\n@ヘレナ\n先輩はヘレナのこと、\nどれくらい知ってるのかな～って\n気になってね\n\n@ヘレナ\n試してもいいかな？\n\n# voice 3028 \"herena_a_0004\"\n@ヘレナ\nヘレナのこと、\nよく観察してたら\n答えられるよね？くふっ\n;;---------------------------------\n\n@%(unitName:unit_a)s\nヘレナと違う血液型なのは\n誰かわかる？\n\n# se \"SE_0734\"\n# select \"ペルーン\" \"select_label_1\" \"アイム―ル\" \"select_label_2\" \"メギド\" \"select_label_3\"\nヘレナと違う血液型なのは\n誰かわかる？\n"
+	},
+	{
+		"ID": 5155,
+		"unitID": 2302811,
+		"questionID": 9302840,
+		"script": ";;アロンダイト,1\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 3028 \"herena_a_0003\"\n@ヘレナ\n……ああ\nそういえば\n\n# textflame 0 0\n@\nマスターの顔を\nじっと観察してくる彼女\n\n# textflame 1 1\n@ヘレナ\n………\n\n# textflame 0 0\n@\nどうしたの？\nと、尋ねるマスターに…\n\n# textflame 1 1\n@ヘレナ\n先輩はヘレナのこと、\nどれくらい知ってるのかな～って\n気になってね\n\n@ヘレナ\n試してもいいかな？\n\n# voice 3028 \"herena_a_0004\"\n@ヘレナ\nヘレナのこと、\nよく観察してたら\n答えられるよね？くふっ\n;;---------------------------------\n\n@%(unitName:unit_a)s\nヘレナと違う誕生月なのは\n誰かわかる？\n\n# se \"SE_0734\"\n# select \"アロンダイト\" \"select_label_1\" \"ダグダ\" \"select_label_2\" \"ダモクレス\" \"select_label_3\"\nヘレナと違う誕生月なのは\n誰かわかる？\n"
+	},
+	{
+		"ID": 5156,
+		"unitID": 2302811,
+		"questionID": 9302841,
+		"script": "\n;;ヘレナ,3\n# se \"SE_0734\"\n# select \"私\" \"select_label_1\" \"ワシ\" \"select_label_2\" \"ヘレナ\" \"select_label_3\"\nヘレナの一人称は\n次のうちどれでしょう？\n"
+	},
+	{
+		"ID": 5157,
+		"unitID": 2302811,
+		"questionID": 9302842,
+		"script": "\n;;先輩,2\n# se \"SE_0734\"\n# select \"マスター\" \"select_label_1\" \"先輩\" \"select_label_2\" \"アンタ\" \"select_label_3\"\nヘレナはマスターのこと、\nなんと呼んでますか？\n"
+	},
+	{
+		"ID": 5158,
+		"unitID": 2302811,
+		"questionID": 9302843,
+		"script": "\n;;68cm,1\n# se \"SE_0734\"\n# select \"68cm\" \"select_label_1\" \"85cm\" \"select_label_2\" \"87cm\" \"select_label_3\"\nヘレナの\nバストサイズがどのくらいか\nマスターは…ご存知ですか？\n"
+	},
+	{
+		"ID": 5159,
+		"unitID": 2302811,
+		"questionID": 9302844,
+		"script": "\n;;54cm,1\n# se \"SE_0734\"\n# select \"54cm\" \"select_label_1\" \"60cm\" \"select_label_2\" \"62cm\" \"select_label_3\"\nヘレナの\nウエストサイズがどのくらいか\nマスターは…ご存知でしょうか？\n"
+	},
+	{
+		"ID": 5160,
+		"unitID": 2302811,
+		"questionID": 9302845,
+		"script": "\n;;66cm,2\n# se \"SE_0734\"\n# select \"75cm\" \"select_label_1\" \"66cm\" \"select_label_2\" \"86cm\" \"select_label_3\"\nヘレナの\nヒップサイズがどのくらいか\nマスターは…ご存知でしょうか？\n"
+	},
+	{
+		"ID": 5161,
+		"unitID": 2302811,
+		"questionID": 9302846,
+		"script": "\n;;42ｋｇ,1\n# se \"SE_0734\"\n# select \"42ｋｇ\" \"select_label_1\" \"45kg\" \"select_label_2\" \"51kg\" \"select_label_3\"\nヘレナの体重は\n次のうちどれでしょう？\n"
+	},
+	{
+		"ID": 5162,
+		"unitID": 2302811,
+		"questionID": 9302847,
+		"script": "\n;;188,2\n# se \"SE_0734\"\n# select \"199\" \"select_label_1\" \"188\" \"select_label_2\" \"177\" \"select_label_3\"\nヘレナの\nバスト＋ウエスト＋ヒップは\nどのくらいかわかりますか？\n"
+	},
+	{
+		"ID": 5163,
+		"unitID": 2302811,
+		"questionID": 9302848,
+		"script": "\n;;緑色,1\n# se \"SE_0734\"\n# select \"緑色\" \"select_label_1\" \"黄色\" \"select_label_2\" \"ピンク\" \"select_label_3\"\nヘレナの髪の色は\n次のうちどれでしょう？\n"
+	},
+	{
+		"ID": 5164,
+		"unitID": 2302811,
+		"questionID": 9302849,
+		"script": "\n;;10位,3\n# se \"SE_0734\"\n# select \"１位\" \"select_label_1\" \"8位\" \"select_label_2\" \"10位\" \"select_label_3\"\nヘレナは\n第４回人気投票で\n何位だったでしょうか？\n"
+	},
+	{
+		"ID": 5165,
+		"unitID": 2302811,
+		"questionID": 9302850,
+		"script": "\n;;優木かな,1\n# se \"SE_0734\"\n# select \"優木かな\" \"select_label_1\" \"五十嵐裕美\" \"select_label_2\" \"下田屋有依\" \"select_label_3\"\nヘレナの声優は誰でしょう？\n"
+	}
+]

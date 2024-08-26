@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 1440102,
+		"script": "# script \"lisp\"\n# background \"004_observatory\"\n# bgm \"bgm004\" 0\n# scale 101411 0.8 0\n# scale 0 0.8 0\n# scale 4 0.8 0\n# scale 6 0.8 0\n# layer 0 1\n# body 101411\n# pos 101411 1\n# body 0\n# pos 0 2\n# body 4\n# pos 4 3\n# body 6\n# pos 6 5\n# voice 9997 \"deen_0010\"\n# face 6 \"angry\"\n# serif 0\n# textboxarrow 0 3\n# chara 6\n@ディーン\nクソッ！\nなんなんだよ、この矢の雨は！！\n\n# voice 9997 \"deen_0027\"\n# textboxarrow 0 3\n# chara 6\n@ディーン\n夜の闇に紛れて、どこから\n飛んでくるかわかんねぇぞ！？\n…うはっ！！\n\n# face 101411 \"angry\"\n# textboxarrow 0 1\n# chara 101411\n@ティルフィング\n気配が読めないだけに、\n私も弓矢の軌道を\n見切ることが出来ません！\n\n# voice 9999 \"durin_0026\"\n# face 0 \"angry\"\n# textboxarrow 0 1\n# chara 0\n@デュリン\n険しい山道で、異族の闇討ちに\n耐えるのもギリギリだってのに…\nもう、最悪っ！\n\n# voice 9997 \"deen_0015\"\n# serif 1\n# textboxarrow 1 3\n# chara 6\n@ディーン\nあの、クソ爺ぃ…会ったら、\nブッ飛ばしてやる！\n…やめろ、バカヤローっ！！！\n\n# textboxarrow 0 1\n# chara 101411\n@ティルフィング\nトト、\n絶対に私の背後から離れないで！\n気を抜いちゃダメよ！\n\n# voice 9998 \"toto_0026\"\n# face 4 \"angry\"\n# serif 1\n# textboxarrow 1 2\n# chara 4\n@トト\nう、うん！\n…ヒッ！\n\n# voice 9999 \"durin_0038\"\n# textboxarrow 0 1\n# chara 0\n@デュリン\nああん、もう…！\n入域許可証を借りたいだけなのに…\n\n# voice 9999 \"durin_0027\"\n# textboxarrow 0 1\n# chara 0\n@デュリン\nなんでこんな目に\n遭わなきゃなんないのよっ！？"
+	}
+]

@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 95027298,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# se \"SE_0733\"\n@フライシュッツ\nうーん、残念\nちょっと難しかったかな…\n\n# textflame 0 0\n@\nあからさまに肩を落とす\nフライシュッツ\n\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 5027 \"freischotz_0008\"\n@フライシュッツ\n次はもっと\n簡単なのを用意するから\n絶対当ててね？\n\n@フライシュッツ\nさ、マスターくん\n遅くならないうちに帰ろう\n\n# textflame 0 0\n@\nさみしげな笑顔を浮かべる彼女\n申し訳ない気持ちになっていく\n\n@\nその気持ちは\n帰りの時間中続いた…\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 603222,
+		"script": ";;A\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_onsen\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# face %(unit_a)s \"normal\"\n# voice 560321 \"orpheus_c_0039\"\n# textflame 1 1\n@オルフェウス\nさっすがリーダー♪\nわかってるね♪\n\n@オルフェウス\nどんなにアツくたって\nあたしはよゆーだし！\n\n@オルフェウス\nふう、いい気持ち…\nマジ、チルいよねー\n\n# voice 560321 \"orpheus_c_0024\"\n# face %(unit_a)s \"angry\"\n@オルフェウス\nって…アツっ！？\n\n# voice 560321 \"orpheus_c_0022\"\n# face %(unit_a)s \"shy\"\n@オルフェウス\nあっ…いやいや！\n全然アツくないし！\nよゆーだし！\n\n@オルフェウス\nふふーん♪\nマジ逝っちゃう前に\nギブした方がいいんじゃない？\n\n@オルフェウス\nあたしこれ位なら…\nなっ、何時間だって\nヘーキだし！\n\n# textflame 0 0\n@\n二人はその後、\n数分に渡り熱湯の\n我慢大会を続けた…\n\n# voice 560321 \"orpheus_c_0015\"\n# face %(unit_a)s \"angry\"\n# textflame 1 1\n@オルフェウス\nう…ぐ…リーダー…\nそろそろ終焉じゃ…\nないの…？\n\n# face %(unit_a)s \"sad\"\n@オルフェウス\nうぅ、ダメ…\nマジもう無理…\n\n# voice 560321 \"orpheus_c_0011\"\n# face %(unit_a)s \"angry\"\n@オルフェウス\nあーーーもう！\nあっつーい！\n\n@オルフェウス\n水風呂水風呂！\nのぼせちゃうっての！\n\n@オルフェウス\nもうあたしの\n負けでいいから！\n\n# voice 560321 \"orpheus_c_0027\"\n# face %(unit_a)s \"shy\"\n@オルフェウス\nしょうがないなぁ…\nリーダーってば\n負けず嫌いなんだから♪\n\n# textflame 0 0\n@\n勝負を終えるなり、\n慌てて水風呂に入る\nマスターとオルフェウス\n\n@\nそんなふたりの間には、\n心地よい満足感が生まれていた\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

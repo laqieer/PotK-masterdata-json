@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 2101424,
+		"script": ";;//ちょっと上がる\n;;A\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_shipboard\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# voice 210142 \"tyrufing_k_0027\"\n# face %(unit_a)s \"sad\"\n@ティルフィング\nもう…\nちゃんと聞いてください\n\n# textflame 0 0\n@\nごめんね、それでどうしたの？\nとマスターは聞き返すが、\n彼女は首を振って黙ってしまった\n\n@\n自分が思ったことを\n素直に言える勇気があれば…\n\n@\nそう悔いるマスターだったが、\n気まずい空気だけが流れていた\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

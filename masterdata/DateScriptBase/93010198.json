@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 93010198,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# se \"SE_0733\"\n# face %(unit_a)s \"sad\"\n# voice 3010 \"rhongomiant_0042\"\n@ロンゴミアント\nあの…\nち、違います…\n\n# face %(unit_a)s \"normal\"\n# voice 3010 \"rhongomiant_kyara_1009\"\n# textflame 1 1\n@ロンゴミアント\nあ、でも…\n安心して下さい…！\n\n# textflame 1 1\n@ロンゴミアント\n私はマスターから離れません\nどんな時も…\n\n# face %(unit_a)s \"angry\"\n# voice 3010 \"rhongomiant_event_1002\"\n# textflame 1 1\n@ロンゴミアント\n私をもっと知ってもらうためにも\nあなたをもっとお守りいたしますから\n\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@ロンゴミアント\n…………\n\n# textflame 0 0\n@\n…と、残念そうに肩を落とす\n\n# textflame 0 0\n@\nデート中にこんなに\nがっかりさせてしまうなんて…\n\n# textflame 0 0\n@\n健気な笑顔が好きだから\n彼女のことを\nちゃんと知っておかないとな…\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

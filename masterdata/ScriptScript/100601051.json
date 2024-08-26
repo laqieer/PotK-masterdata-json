@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 100601051,
+		"script": ";;第1話　タイトル：\n;;//背景：ケイオスリオン\n# bgmfile \"bgm295_296\" \"BgmLostRagnarokBattle003\" 0\n# background \"201_border\"\n# body 3103811\n# pos 3103811 3\n# scale 3103811 0.8 0\n# alpha 3103811 1 0\n# body 3200411\n# pos 3200411 5\n# scale 3200411 0.8 0\n# alpha 3200411 1 0\n# body 139\n# pos 139 1\n# scale 139 0.8 0\n# alpha 139 1 0\n# body 3300411\n# pos 3300411 1\n# scale 3300411 0.8 0\n# alpha 3300411 0 0\n# fadein \"black\" 2\n# textboxarrow 0 3\n# face 3103811 \"angry\"\n# voice 320041 \"parashu_a_0003\"\n@パラシュ\n皇帝陛下の計算通りだね\n君がアルマスだろ？\n\n# voice 1038 \"almace_unit_0008\"\n# textboxarrow 0 2\n@アルマス\nそうよ！\n私がロストラグナロクに終焉を\nもたらす者！\n\n@アルマス\n斬ル姫アルマスよ！\n\n# voice 9967 \"titania_0026\"\n# textboxarrow 0 1\n@ティターニア\nその名乗り、気に入ってるんですね…\n\n# face 3200411 \"angry\"\n# textboxarrow 0 3\n@パラシュ\nパラシュ・D. plug・アスタロスだ\nアルマス、君を通しはしない\n\n# textboxarrow 0 2\n@アルマス\nこっちも、はい、そうですかって\n退くわけにはいかないのよ！\n\n# face 3200411 \"normal\"\n# textboxarrow 0 3\n@パラシュ\nいいよ\n君は君の理想をぶつけるんだ\nボクはそれを潰す\n\n# alpha 3300411 1 0.5\n# alpha 139 0 0.5\n# textboxarrow 0 1\n# se \"SE_5207\"\n# voice 330041 \"amenonuboko_t_0003\"\n@天沼矛\n私も加勢しますよ～っ\n\n# textboxarrow 0 2\n@アルマス\n悪いわね！\n一騎討ちに拘ってる場合じゃ\nないから！\n\n# textboxarrow 0 3\n@パラシュ\n一向に構わない\nむしろ、その程度でボクに勝てると\n思ってるのなら、がっかりだよ"
+	}
+]

@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 100204033,
+		"script": "# script \"lisp\"\n# background \"forest\"\n# bgmfile \"bgm271\" \"BgmLostRagnarokEvent\" 0\n# textwindow \"nomal\"\n;;天沼矛\n# body 3300411\n# pos 3300411 5\n# scale 3300411 0.8 0\n# layer 3300411 1\n# alpha 3300411 0 0.5\n;;アルマス\n# body 3103811\n# pos 3103811 2\n# scale 3103811 0.8 0\n# layer 3103811 2\n;;ティニ\n# body 139\n# pos 139 4\n# scale 139 0.8 0\n# layer 139 3\n;;ギル\n# body 137\n# pos 137 1\n# scale 137 0.8 0\n# alpha 137 0 0\n;;ユノ\n# body 154\n# pos 154 5\n# scale 154 0.8 0\n# alpha 154 0 0\n# textwindow \"nomal\"\n# textflame 1 1\n# textboxarrow 0 3\n# face 139 \"sad\"\n# face 3103811 \"angry\"\n@ティターニア\nやっと見つけましたよ、アルマス！\nやはり天沼矛も一緒だったのですね…\n\n# textboxarrow 0 1\n# voice 1038 \"almace_0045\"\n@アルマス\nティニ、私を止めようとしても\n無駄だからね！\n\n# face 139 \"worry\"\n# textboxarrow 0 3\n@ティターニア\nそれは諦めました…\nせめてなにか対策を――\n\n# alpha 137 1 0.5\n# move 139 5 0.5\n# move 3103811 3 0.5\n# face 3103811 \"surprise\"\n# face 139 \"surprise\"\n# face 137 \"surprise\"\n# textboxarrow 0 1\n@ギル\n助けてくれぇっ！\n\n# textboxarrow 0 2\n# voice 1038 \"almace_0056\"\n@アルマス\nギル！？\nその傷…なにがあったのっ…？\n\n# face 137 \"sad\"\n# textboxarrow 0 1\n# voice 9969 \"gill_0040\"\n@ギル\n町外れの「奴隷区」にっ…\nユノが寄っていきたいって言って…\nあの化け物がっ…！\n\n# fadeout \"black\" 1\n# waitandnext 1"
+	}
+]

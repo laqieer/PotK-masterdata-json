@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 100922,
+		"script": "# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_room\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n@バルムンク\nやっぱり…\nここなら誰にもバレませんから…\n\n# textflame 0 0\n@\n目立つことを恐れるバルムンクは\nマスターと親密であることを\n必死で隠そうとしていた\n\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 1009 \"barumunku_0031\"\n@バルムンク\nマスターはなにも悪くないのに…\nごめんなさい…\n\n# textflame 0 0\n@\nマスターはなにも気にしていなかった\nバルムンクがそれで安心するなら\nいくらでも付き合うと\n\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# voice 1009 \"barumunku_0030\"\n@バルムンク\nありがとうございます…！\nあの、ですね…？\n\n# textflame 1 1\n@バルムンク\n最近思うんです。\n始めは、目立ちたくない…\nそれだけだったんですけど…\n\n# textflame 1 1\n# voice 1009 \"barumunku_0004\"\n@バルムンク\n最近は、\n秘密ってなんかいいなって…\n\n# textflame 1 1\n@バルムンク\n本当に、マスターを\nひとりじめしてる\nそんな気がして…\n\n# textflame 0 0\n@\nそっと服の裾をつかむバルムンクの\n吸い込まれそうな上目遣いに\nマスターは見惚れていた――\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 931002499,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# se \"SE_0732\"\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n@レーヴァテイン\n………\n\n# voice 210023 \"revatein_ge_0032\"\n@レーヴァテイン\n…おっけ\n\n# face %(unit_a)s \"normal\"\n@レーヴァテイン\n正解よ\n\n# voice 210023 \"revatein_ge_0004\"\n@レーヴァテイン\nじゃあ、もう少しだけ\n一緒にいよっか\n\n@レーヴァテイン\nせっかく、ここまで来たしね\n\n# face %(unit_a)s \"shy\"\n# voice 210023 \"revatein_ge_0002\"\n@レーヴァテイン\nおっけ…\nで、どうしたい？\n\n@レーヴァテイン\nマスターが行きたいとこ、\n行こうよ\n\n# textflame 0 0\n@\n夕焼けを背に見せた\nとびっきりの笑顔に、\nドキリとするマスターだった\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

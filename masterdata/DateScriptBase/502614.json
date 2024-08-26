@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 502614,
+		"script": ";;小Cあえて褒めない\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_cafe\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# face %(unit_a)s \"angry\"\n# textflame 1 1\n@ゆんゆん\n…なんですか、その\n含むところがありそうな言い方は\n\n# textflame 0 0\n@\n別に深い意味じゃなくて…\n友達同士なら普通、同じ席とか\n気にしないよね？\n\n# textflame 1 1\n@ゆんゆん\n友達同士なら普通…って\n\n# face %(unit_a)s \"sad\"\n# voice 250261 \"yunyun_battle_0005\"\n@ゆんゆん\nもしかして、私が\n友達というのがどういうものか\n知らないって思ってるんですか！？\n\n# textflame 0 0\n@\nいや、そんなことは…\n\n# face %(unit_a)s \"angry\"\n# textflame 1 1\n@ゆんゆん\n言っておきますけどこう見えても、\n学生時代はよく、友達と色んな\nお店を巡ったんですよ！\n\n@ゆんゆん\n女の子に人気のオシャレなお店とか！\n私のおごりで！\n\n@ゆんゆん\nお値段は張るけどおいしいお店とか！\n私のおごりで！\n\n@ゆんゆん\n他には……！\n\n# textflame 0 0\n@\n息巻いて友達（？）との\n思い出を語るゆんゆん\n\n# textflame 0 0\n@\nなぜか悲しい気持ちになったが\n話は盛り上がった\n\n;;-----------------------------------------\n# waitandnext 2\n# fadeout \"black\" 1.2\n"
+	}
+]

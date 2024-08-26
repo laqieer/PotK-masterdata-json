@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 510131258,
+		"script": "# background \"transparency\"\n# body 960028\n# mask 960028 off\n# pos 960028 3\n# scale 960028 0.8 0\n# textwindow \"nomal\"\n# voice 8063 \"wolf_0033\"\n# textflame 1 1\n@ウルファー\nいいだろう！\n\n# se \"SE_0712\"\n# voice 8063 \"wolf_unit_0009\"\n@ウルファー\n決めたぜ！\n今夜は、お前の中で大・噴・火ァァァ\n\n# fadein \"red\" 0.7\n# textwindow \"close\"\n# alpha 960028 0 0\n# se \"SE_4756\"\n# waitandnext 0.7"
+	}
+]

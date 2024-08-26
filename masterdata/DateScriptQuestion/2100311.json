@@ -1,0 +1,302 @@
+[
+	{
+		"ID": 3001,
+		"unitID": 2100311,
+		"questionID": 9100301,
+		"script": ";;シャルル王,1\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# voice 1003 \"durandaru_0001\"\n@デュランダル\nマスター、今日は\nありがとうございます！\nとても楽しかったのです！\n\n@デュランダル\nマスターに\n楽しませていただいたお礼に、\n\n@デュランダル\nわたくしもなにか、\nお礼がしたいのです！\n\n@デュランダル\nマスターに\n楽しんでいただくには…\nそうですわ！\n\n# face %(unit_a)s \"normal\"\n@デュランダル\nこれから、\nわたくしに関する\nクイズを出題いたしますわ\n\n# voice 1003 \"durandaru_0036\"\n@デュランダル\n楽しんでいただければ\n嬉しいのです！\nでは、いきますよ！\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nわたくしのキラーズ『デュランダル』を\n天使からまず授かったのは\n誰ですの？\n\n# se \"SE_0734\"\n# select  \"シャルル王\" \"select_label_1\" \"リア王\" \"select_label_2\" \"アーサー王\" \"select_label_3\"\nわたくしのキラーズ『デュランダル』を\n天使からまず授かったのは\n誰ですの？\n"
+	},
+	{
+		"ID": 3002,
+		"unitID": 2100311,
+		"questionID": 9100302,
+		"script": ";;剣,2\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# voice 1003 \"durandaru_0001\"\n@デュランダル\nマスター、今日は\nありがとうございます！\nとても楽しかったのです！\n\n@デュランダル\nマスターに\n楽しませていただいたお礼に、\n\n@デュランダル\nわたくしもなにか、\nお礼がしたいのです！\n\n@デュランダル\nマスターに\n楽しんでいただくには…\nそうですわ！\n\n# face %(unit_a)s \"normal\"\n@デュランダル\nこれから、\nわたくしに関する\nクイズを出題いたしますわ\n\n# voice 1003 \"durandaru_0036\"\n@デュランダル\n楽しんでいただければ\n嬉しいのです！\nでは、いきますよ！\n;;--------------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nわたくしのキラーズ『デュランダル』は\nどんな武器でしたの？\n切れ味抜群ですわ♪\n\n# se \"SE_0734\"\n# select  \"弓\" \"select_label_1\" \"剣\" \"select_label_2\" \"槍\" \"select_label_3\"\nわたくしのキラーズ『デュランダル』は\nどんな武器でしたの？\n切れ味抜群ですわ♪\n"
+	},
+	{
+		"ID": 3003,
+		"unitID": 2100311,
+		"questionID": 9100303,
+		"script": ";;ローラン,3\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# voice 1003 \"durandaru_0001\"\n@デュランダル\nマスター、今日は\nありがとうございます！\nとても楽しかったのです！\n\n@デュランダル\nマスターに\n楽しませていただいたお礼に、\n\n@デュランダル\nわたくしもなにか、\nお礼がしたいのです！\n\n@デュランダル\nマスターに\n楽しんでいただくには…\nそうですわ！\n\n# face %(unit_a)s \"normal\"\n@デュランダル\nこれから、\nわたくしに関する\nクイズを出題いたしますわ\n\n# voice 1003 \"durandaru_0036\"\n@デュランダル\n楽しんでいただければ\n嬉しいのです！\nでは、いきますよ！\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nわたくしのキラーズ『デュランダル』は\nシャルル王からさらに\n誰の手に渡ったでしょうか？\n\n# se \"SE_0734\"\n# select  \"ムーラン\" \"select_label_1\" \"トーラン\" \"select_label_2\" \"ローラン\" \"select_label_3\"\nわたくしのキラーズ『デュランダル』は\nシャルル王からさらに\n誰の手に渡ったでしょうか？\n"
+	},
+	{
+		"ID": 3004,
+		"unitID": 2100311,
+		"questionID": 9100304,
+		"script": ";;ヘクトール,1\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# voice 1003 \"durandaru_0001\"\n@デュランダル\nマスター、今日は\nありがとうございます！\nとても楽しかったのです！\n\n@デュランダル\nマスターに\n楽しませていただいたお礼に、\n\n@デュランダル\nわたくしもなにか、\nお礼がしたいのです！\n\n@デュランダル\nマスターに\n楽しんでいただくには…\nそうですわ！\n\n# face %(unit_a)s \"normal\"\n@デュランダル\nこれから、\nわたくしに関する\nクイズを出題いたしますわ\n\n# voice 1003 \"durandaru_0036\"\n@デュランダル\n楽しんでいただければ\n嬉しいのです！\nでは、いきますよ！\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nわたくしのキラーズ『デュランダル』を\n使った、『イーリアス』に登場する\nトロイアの英雄の名前は？\n\n# se \"SE_0734\"\n# select  \"ヘクトール\" \"select_label_1\" \"アガメムノン\" \"select_label_2\" \"アイアース\" \"select_label_3\"\nわたくしのキラーズ『デュランダル』を\n使った、『イーリアス』に登場する\nトロイアの英雄の名前は？\n"
+	},
+	{
+		"ID": 3005,
+		"unitID": 2100311,
+		"questionID": 9100305,
+		"script": ";;岩（もしくは大理石）,2\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# voice 1003 \"durandaru_0001\"\n@デュランダル\nマスター、今日は\nありがとうございます！\nとても楽しかったのです！\n\n@デュランダル\nマスターに\n楽しませていただいたお礼に、\n\n@デュランダル\nわたくしもなにか、\nお礼がしたいのです！\n\n@デュランダル\nマスターに\n楽しんでいただくには…\nそうですわ！\n\n# face %(unit_a)s \"normal\"\n@デュランダル\nこれから、\nわたくしに関する\nクイズを出題いたしますわ\n\n# voice 1003 \"durandaru_0036\"\n@デュランダル\n楽しんでいただければ\n嬉しいのです！\nでは、いきますよ！\n;;--------------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nロンスヴァルの谷で瀕死になった\nローランが、わたくしを叩きつけて\n折ろうとしましたが、なににですの？\n\n# se \"SE_0734\"\n# select  \"巨木（もしくは大黒柱）\" \"select_label_1\" \"岩（もしくは大理石）\" \"select_label_2\" \"自分の頭（もしくは腹筋）\" \"select_label_3\"\nロンスヴァルの谷で瀕死になった\nローランが、わたくしを叩きつけて\n折ろうとしましたが、なににですの？\n"
+	},
+	{
+		"ID": 3006,
+		"unitID": 2100311,
+		"questionID": 9100306,
+		"script": ";;シャルルマーニュ,3\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# voice 1003 \"durandaru_0001\"\n@デュランダル\nマスター、今日は\nありがとうございます！\nとても楽しかったのです！\n\n@デュランダル\nマスターに\n楽しませていただいたお礼に、\n\n@デュランダル\nわたくしもなにか、\nお礼がしたいのです！\n\n@デュランダル\nマスターに\n楽しんでいただくには…\nそうですわ！\n\n# face %(unit_a)s \"normal\"\n@デュランダル\nこれから、\nわたくしに関する\nクイズを出題いたしますわ\n\n# voice 1003 \"durandaru_0036\"\n@デュランダル\n楽しんでいただければ\n嬉しいのです！\nでは、いきますよ！\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nローランの死後\nわたくしのキラーズ『デュランダル』は\nどこに渡ったでしょう？\n\n# se \"SE_0734\"\n# select  \"アルカディア\" \"select_label_1\" \"トロイア\" \"select_label_2\" \"シャルルマーニュ\" \"select_label_3\"\nローランの死後\nわたくしのキラーズ『デュランダル』は\nどこに渡ったでしょう？\n"
+	},
+	{
+		"ID": 3007,
+		"unitID": 2100311,
+		"questionID": 9100307,
+		"script": ";;ローランの歌,1\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# voice 1003 \"durandaru_0001\"\n@デュランダル\nマスター、今日は\nありがとうございます！\nとても楽しかったのです！\n\n@デュランダル\nマスターに\n楽しませていただいたお礼に、\n\n@デュランダル\nわたくしもなにか、\nお礼がしたいのです！\n\n@デュランダル\nマスターに\n楽しんでいただくには…\nそうですわ！\n\n# face %(unit_a)s \"normal\"\n@デュランダル\nこれから、\nわたくしに関する\nクイズを出題いたしますわ\n\n# voice 1003 \"durandaru_0036\"\n@デュランダル\n楽しんでいただければ\n嬉しいのです！\nでは、いきますよ！\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nわたくしのキラーズ『デュランダル』が\n登場するフランスの\n叙事詩の名前はなんですの？\n\n# se \"SE_0734\"\n# select  \"ローランの歌\" \"select_label_1\" \"ローランの唄\" \"select_label_2\" \"ローランの詩\" \"select_label_3\"\nわたくしのキラーズ『デュランダル』が\n登場するフランスの\n叙事詩の名前はなんですの？\n"
+	},
+	{
+		"ID": 3008,
+		"unitID": 2100311,
+		"questionID": 9100308,
+		"script": ";;不滅の刃,2\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# voice 1003 \"durandaru_0001\"\n@デュランダル\nマスター、今日は\nありがとうございます！\nとても楽しかったのです！\n\n@デュランダル\nマスターに\n楽しませていただいたお礼に、\n\n@デュランダル\nわたくしもなにか、\nお礼がしたいのです！\n\n@デュランダル\nマスターに\n楽しんでいただくには…\nそうですわ！\n\n# face %(unit_a)s \"normal\"\n@デュランダル\nこれから、\nわたくしに関する\nクイズを出題いたしますわ\n\n# voice 1003 \"durandaru_0036\"\n@デュランダル\n楽しんでいただければ\n嬉しいのです！\nでは、いきますよ！\n;;--------------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nわたくしのキラーズ\n『デュランダル』の名前は、\nなにを意味するのでしょう？\n\n# se \"SE_0734\"\n# select  \"最強の刃\" \"select_label_1\" \"不滅の刃\" \"select_label_2\" \"無二の刃\" \"select_label_3\"\nわたくしのキラーズ\n『デュランダル』の名前は、\nなにを意味するのでしょう？\n"
+	},
+	{
+		"ID": 3009,
+		"unitID": 2100311,
+		"questionID": 9100309,
+		"script": ";;聖ペテロの歯,3\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# voice 1003 \"durandaru_0001\"\n@デュランダル\nマスター、今日は\nありがとうございます！\nとても楽しかったのです！\n\n@デュランダル\nマスターに\n楽しませていただいたお礼に、\n\n@デュランダル\nわたくしもなにか、\nお礼がしたいのです！\n\n@デュランダル\nマスターに\n楽しんでいただくには…\nそうですわ！\n\n# face %(unit_a)s \"normal\"\n@デュランダル\nこれから、\nわたくしに関する\nクイズを出題いたしますわ\n\n# voice 1003 \"durandaru_0036\"\n@デュランダル\n楽しんでいただければ\n嬉しいのです！\nでは、いきますよ！\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nわたくしのキラーズ『デュランダル』の\n黄金の柄の中には、この中で\nどんな聖遺物が入っているでしょう？\n\n# se \"SE_0734\"\n# select  \"聖ベニーニュの肋骨\" \"select_label_1\" \"聖ウルスラの大腿骨\" \"select_label_2\" \"聖ペテロの歯\" \"select_label_3\"\nわたくしのキラーズ『デュランダル』の\n黄金の柄の中には、この中で\nどんな聖遺物が入っているでしょう？\n"
+	},
+	{
+		"ID": 3010,
+		"unitID": 2100311,
+		"questionID": 9100310,
+		"script": ";;ロングソード,1\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# voice 1003 \"durandaru_0001\"\n@デュランダル\nマスター、今日は\nありがとうございます！\nとても楽しかったのです！\n\n@デュランダル\nマスターに\n楽しませていただいたお礼に、\n\n@デュランダル\nわたくしもなにか、\nお礼がしたいのです！\n\n@デュランダル\nマスターに\n楽しんでいただくには…\nそうですわ！\n\n# face %(unit_a)s \"normal\"\n@デュランダル\nこれから、\nわたくしに関する\nクイズを出題いたしますわ\n\n# voice 1003 \"durandaru_0036\"\n@デュランダル\n楽しんでいただければ\n嬉しいのです！\nでは、いきますよ！\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nわたくしのキラーズ『デュランダル』は\n一般的にどんな剣ですの？\nあくまで差別化のための名前ですのよ\n\n# se \"SE_0734\"\n# select  \"ロングソード\" \"select_label_1\" \"グレートソード\" \"select_label_2\" \"レイピア\" \"select_label_3\"\nわたくしのキラーズ『デュランダル』は\n一般的にどんな剣ですの？\nあくまで差別化のための名前ですのよ\n"
+	},
+	{
+		"ID": 3011,
+		"unitID": 2100311,
+		"questionID": 9100311,
+		"script": ";;空を眺める,1\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n@デュランダル\n…そう言えばマスターは、\nわたくしのことを\nどれぐらいご存じですか？\n\n# face %(unit_a)s \"angry\"\n@デュランダル\n…ちょっと\n試させていただきますわ！\n\n# face %(unit_a)s \"normal\"\n@デュランダル\nわたくしに関する質問に…\n正解して下さると嬉しいですわ\n\n# voice 1003 \"durandaru_0036\"\n@デュランダル\n準備はよろしいですか？\nでは、まいりますわよ？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nわたくしの趣味は…\nなんだと思いますの？\n\n# se \"SE_0734\"\n# select  \"空を眺める\" \"select_label_1\" \"海を眺める\" \"select_label_2\" \"山を眺める\" \"select_label_3\"\nわたくしの趣味は…\nなんだと思いますの？\n"
+	},
+	{
+		"ID": 3012,
+		"unitID": 2100311,
+		"questionID": 9100312,
+		"script": ";;さそり座,2\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n@デュランダル\n…そう言えばマスターは、\nわたくしのことを\nどれぐらいご存じですか？\n\n# face %(unit_a)s \"angry\"\n@デュランダル\n…ちょっと\n試させていただきますわ！\n\n# face %(unit_a)s \"normal\"\n@デュランダル\nわたくしに関する質問に…\n正解して下さると嬉しいですわ\n\n# voice 1003 \"durandaru_0036\"\n@デュランダル\n準備はよろしいですか？\nでは、まいりますわよ？\n;;--------------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nわたくしの星座は\nなに座ですの？\n\n# se \"SE_0734\"\n# select  \"うお座\" \"select_label_1\" \"さそり座\" \"select_label_2\" \"やぎ座\" \"select_label_3\"\nわたくしの星座は\nなに座ですの？\n"
+	},
+	{
+		"ID": 3013,
+		"unitID": 2100311,
+		"questionID": 9100313,
+		"script": ";;天界,3\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n@デュランダル\n…そう言えばマスターは、\nわたくしのことを\nどれぐらいご存じですか？\n\n# face %(unit_a)s \"angry\"\n@デュランダル\n…ちょっと\n試させていただきますわ！\n\n# face %(unit_a)s \"normal\"\n@デュランダル\nわたくしに関する質問に…\n正解して下さると嬉しいですわ\n\n# voice 1003 \"durandaru_0036\"\n@デュランダル\n準備はよろしいですか？\nでは、まいりますわよ？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nわたくしの出身地は\nどこだと思いますの？\nお空の上にありますの♪\n\n# se \"SE_0734\"\n# select  \"妖界\" \"select_label_1\" \"魔界\" \"select_label_2\" \"天界\" \"select_label_3\"\nわたくしの出身地は\nどこだと思いますの？\nお空の上にありますの♪\n"
+	},
+	{
+		"ID": 3014,
+		"unitID": 2100311,
+		"questionID": 9100314,
+		"script": ";;Ａ型,1\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n@デュランダル\n…そう言えばマスターは、\nわたくしのことを\nどれぐらいご存じですか？\n\n# face %(unit_a)s \"angry\"\n@デュランダル\n…ちょっと\n試させていただきますわ！\n\n# face %(unit_a)s \"normal\"\n@デュランダル\nわたくしに関する質問に…\n正解して下さると嬉しいですわ\n\n# voice 1003 \"durandaru_0036\"\n@デュランダル\n準備はよろしいですか？\nでは、まいりますわよ？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nわたくしの血液型は\nなんでしょう？\n几帳面だと言われますわ！\n\n# se \"SE_0734\"\n# select  \"Ａ型\" \"select_label_1\" \"Ｂ型\" \"select_label_2\" \"Ｏ型\" \"select_label_3\"\nわたくしの血液型は\nなんでしょう？\n几帳面だと言われますわ！\n"
+	},
+	{
+		"ID": 3015,
+		"unitID": 2100311,
+		"questionID": 9100315,
+		"script": ";;褒められること,2\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n@デュランダル\n…そう言えばマスターは、\nわたくしのことを\nどれぐらいご存じですか？\n\n# face %(unit_a)s \"angry\"\n@デュランダル\n…ちょっと\n試させていただきますわ！\n\n# face %(unit_a)s \"normal\"\n@デュランダル\nわたくしに関する質問に…\n正解して下さると嬉しいですわ\n\n# voice 1003 \"durandaru_0036\"\n@デュランダル\n準備はよろしいですか？\nでは、まいりますわよ？\n;;--------------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nわたくしは、あることをされるのが\n大好きですの♪\nそれは、いったいなんですの？\n\n# se \"SE_0734\"\n# select  \"ナデナデされること\" \"select_label_1\" \"褒められること\" \"select_label_2\" \"いじめられること\" \"select_label_3\"\nわたくしは、あることをされるのが\n大好きですの♪\nそれは、いったいなんですの？\n"
+	},
+	{
+		"ID": 3016,
+		"unitID": 2100311,
+		"questionID": 9100316,
+		"script": ";;戦闘力,3\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n@デュランダル\n…そう言えばマスターは、\nわたくしのことを\nどれぐらいご存じですか？\n\n# face %(unit_a)s \"angry\"\n@デュランダル\n…ちょっと\n試させていただきますわ！\n\n# face %(unit_a)s \"normal\"\n@デュランダル\nわたくしに関する質問に…\n正解して下さると嬉しいですわ\n\n# voice 1003 \"durandaru_0036\"\n@デュランダル\n準備はよろしいですか？\nでは、まいりますわよ？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nわたくしは、あることに圧倒的な\n自信をもっておりますのよ♪\nそれはいったいなんですの？\n\n# se \"SE_0734\"\n# select  \"経済力\" \"select_label_1\" \"女子力\" \"select_label_2\" \"戦闘力\" \"select_label_3\"\nわたくしは、あることに圧倒的な\n自信をもっておりますのよ♪\nそれはいったいなんですの？\n"
+	},
+	{
+		"ID": 3017,
+		"unitID": 2100311,
+		"questionID": 9100317,
+		"script": ";;ナーゲルリング,1\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n@デュランダル\n…そう言えばマスターは、\nわたくしのことを\nどれぐらいご存じですか？\n\n# face %(unit_a)s \"angry\"\n@デュランダル\n…ちょっと\n試させていただきますわ！\n\n# face %(unit_a)s \"normal\"\n@デュランダル\nわたくしに関する質問に…\n正解して下さると嬉しいですわ\n\n# voice 1003 \"durandaru_0036\"\n@デュランダル\n準備はよろしいですか？\nでは、まいりますわよ？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nわたくしには\n親友と呼べる人がおりますの♪\nそれは…誰ですの？\n\n# se \"SE_0734\"\n# select  \"ナーゲルリング\" \"select_label_1\" \"スラーンド\" \"select_label_2\" \"グングニル\" \"select_label_3\"\nわたくしには\n親友と呼べる人がおりますの♪\nそれは…誰ですの？\n"
+	},
+	{
+		"ID": 3018,
+		"unitID": 2100311,
+		"questionID": 9100318,
+		"script": ";;140cm,2\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n@デュランダル\n…そう言えばマスターは、\nわたくしのことを\nどれぐらいご存じですか？\n\n# face %(unit_a)s \"angry\"\n@デュランダル\n…ちょっと\n試させていただきますわ！\n\n# face %(unit_a)s \"normal\"\n@デュランダル\nわたくしに関する質問に…\n正解して下さると嬉しいですわ\n\n# voice 1003 \"durandaru_0036\"\n@デュランダル\n準備はよろしいですか？\nでは、まいりますわよ？\n;;--------------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nわたくしの身長は\nどれぐらいですの？\n\n# se \"SE_0734\"\n# select  \"136cm\" \"select_label_1\" \"140cm\" \"select_label_2\" \"156cm\" \"select_label_3\"\nわたくしの身長は\nどれぐらいですの？\n"
+	},
+	{
+		"ID": 3019,
+		"unitID": 2100311,
+		"questionID": 9100319,
+		"script": ";;エクスカリバー,3\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n@デュランダル\n…そう言えばマスターは、\nわたくしのことを\nどれぐらいご存じですか？\n\n# face %(unit_a)s \"angry\"\n@デュランダル\n…ちょっと\n試させていただきますわ！\n\n# face %(unit_a)s \"normal\"\n@デュランダル\nわたくしに関する質問に…\n正解して下さると嬉しいですわ\n\n# voice 1003 \"durandaru_0036\"\n@デュランダル\n準備はよろしいですか？\nでは、まいりますわよ？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nわたくしと仲良しのキラーズは\nこの中ではどなたですの？\n\n# se \"SE_0734\"\n# select  \"タスラム\" \"select_label_1\" \"ゲイボルグ\" \"select_label_2\" \"エクスカリバー\" \"select_label_3\"\nわたくしと仲良しのキラーズは\nこの中ではどなたですの？\n"
+	},
+	{
+		"ID": 3020,
+		"unitID": 2100311,
+		"questionID": 9100320,
+		"script": ";;11月7日,1\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n@デュランダル\n…そう言えばマスターは、\nわたくしのことを\nどれぐらいご存じですか？\n\n# face %(unit_a)s \"angry\"\n@デュランダル\n…ちょっと\n試させていただきますわ！\n\n# face %(unit_a)s \"normal\"\n@デュランダル\nわたくしに関する質問に…\n正解して下さると嬉しいですわ\n\n# voice 1003 \"durandaru_0036\"\n@デュランダル\n準備はよろしいですか？\nでは、まいりますわよ？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nわたくしの誕生日は\nいつですの？\nプレゼントは大歓迎ですの♪\n\n# se \"SE_0734\"\n# select  \"11月7日\" \"select_label_1\" \"10月31日\" \"select_label_2\" \"12月25日\" \"select_label_3\"\nわたくしの誕生日は\nいつですの？\nプレゼントは大歓迎ですの♪\n"
+	},
+	{
+		"ID": 3021,
+		"unitID": 2100311,
+		"questionID": 9100321,
+		"script": ";;剣騎帝,1\n# textflame 1 1\n# face %(unit_a)s \"angry\"\n# voice 1003 \"durandaru_0001\"\n@デュランダル\nマスター！\n突然ですが、質問ですわ！\n\n# face %(unit_a)s \"sad\"\n@デュランダル\nどんな質問か、ですか？\nわたくしに関する\n質問に決まっていますわ♪\n\n@デュランダル\n正解して下されば\n嬉しいのですけれど…\n\n# voice 1003 \"durandaru_0036\"\n# face %(unit_a)s \"normal\"\n@デュランダル\nでは、まいりますね？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nわたくしが☆4の時のジョブは\nいったいなんですの？\n\n# se \"SE_0734\"\n# select  \"剣騎帝\" \"select_label_1\" \"弓騎帝\" \"select_label_2\" \"槍騎帝\" \"select_label_3\"\nわたくしが☆4の時のジョブは\nいったいなんですの？\n"
+	},
+	{
+		"ID": 3022,
+		"unitID": 2100311,
+		"questionID": 9100322,
+		"script": ";;フェニックスナイト,2\n# textflame 1 1\n# face %(unit_a)s \"angry\"\n# voice 1003 \"durandaru_0001\"\n@デュランダル\nマスター！\n突然ですが、質問ですわ！\n\n# face %(unit_a)s \"sad\"\n@デュランダル\nどんな質問か、ですか？\nわたくしに関する\n質問に決まっていますわ♪\n\n@デュランダル\n正解して下されば\n嬉しいのですけれど…\n\n# voice 1003 \"durandaru_0036\"\n# face %(unit_a)s \"normal\"\n@デュランダル\nでは、まいりますね？\n;;--------------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nわたくしが☆5の時の\nジョブはなんですの？\n\n# se \"SE_0734\"\n# select  \"ウィングナイト\" \"select_label_1\" \"フェニックスナイト\" \"select_label_2\" \"剣聖\" \"select_label_3\"\nわたくしが☆5の時の\nジョブはなんですの？\n"
+	},
+	{
+		"ID": 3023,
+		"unitID": 2100311,
+		"questionID": 9100323,
+		"script": ";;レディグラッツェ,3\n# textflame 1 1\n# face %(unit_a)s \"angry\"\n# voice 1003 \"durandaru_0001\"\n@デュランダル\nマスター！\n突然ですが、質問ですわ！\n\n# face %(unit_a)s \"sad\"\n@デュランダル\nどんな質問か、ですか？\nわたくしに関する\n質問に決まっていますわ♪\n\n@デュランダル\n正解して下されば\n嬉しいのですけれど…\n\n# voice 1003 \"durandaru_0036\"\n# face %(unit_a)s \"normal\"\n@デュランダル\nでは、まいりますね？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nわたくしの☆６の\n固有スキルは\nなんですの？\n\n# se \"SE_0734\"\n# select  \"リュミエールフレイア\" \"select_label_1\" \"グリンインパクト\" \"select_label_2\" \"レディグラッツェ\" \"select_label_3\"\nわたくしの☆６の\n固有スキルは\nなんですの？\n"
+	},
+	{
+		"ID": 3024,
+		"unitID": 2100311,
+		"questionID": 9100324,
+		"script": ";;闇刃付与,1\n# textflame 1 1\n# face %(unit_a)s \"angry\"\n# voice 1003 \"durandaru_0001\"\n@デュランダル\nマスター！\n突然ですが、質問ですわ！\n\n# face %(unit_a)s \"sad\"\n@デュランダル\nどんな質問か、ですか？\nわたくしに関する\n質問に決まっていますわ♪\n\n@デュランダル\n正解して下されば\n嬉しいのですけれど…\n\n# voice 1003 \"durandaru_0036\"\n# face %(unit_a)s \"normal\"\n@デュランダル\nでは、まいりますね？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nわたくしの☆４の\nレベルアップで覚える\nスキルはなんですの？\n\n# se \"SE_0734\"\n# select  \"闇刃付与\" \"select_label_1\" \"炎刃付与\" \"select_label_2\" \"氷刃付与\" \"select_label_3\"\nわたくしの☆４の\nレベルアップで覚える\nスキルはなんですの？\n"
+	},
+	{
+		"ID": 3025,
+		"unitID": 2100311,
+		"questionID": 9100325,
+		"script": ";;いない,2\n# textflame 1 1\n# face %(unit_a)s \"angry\"\n# voice 1003 \"durandaru_0001\"\n@デュランダル\nマスター！\n突然ですが、質問ですわ！\n\n# face %(unit_a)s \"sad\"\n@デュランダル\nどんな質問か、ですか？\nわたくしに関する\n質問に決まっていますわ♪\n\n@デュランダル\n正解して下されば\n嬉しいのですけれど…\n\n# voice 1003 \"durandaru_0036\"\n# face %(unit_a)s \"normal\"\n@デュランダル\nでは、まいりますね？\n;;--------------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nわたくしのライバルは\n誰ですの？\n\n# se \"SE_0734\"\n# select  \"シタ\" \"select_label_1\" \"いない\" \"select_label_2\" \"グリモワール\" \"select_label_3\"\nわたくしのライバルは\n誰ですの？\n"
+	},
+	{
+		"ID": 3026,
+		"unitID": 2100311,
+		"questionID": 9100326,
+		"script": ";;ロードナイト,3\n# textflame 1 1\n# face %(unit_a)s \"angry\"\n# voice 1003 \"durandaru_0001\"\n@デュランダル\nマスター！\n突然ですが、質問ですわ！\n\n# face %(unit_a)s \"sad\"\n@デュランダル\nどんな質問か、ですか？\nわたくしに関する\n質問に決まっていますわ♪\n\n@デュランダル\n正解して下されば\n嬉しいのですけれど…\n\n# voice 1003 \"durandaru_0036\"\n# face %(unit_a)s \"normal\"\n@デュランダル\nでは、まいりますね？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nわたくしが☆3の時は\nどんなジョブですの？\n\n# se \"SE_0734\"\n# select  \"フェニックスナイト\" \"select_label_1\" \"アーマーナイト\" \"select_label_2\" \"ロードナイト\" \"select_label_3\"\nわたくしが☆3の時は\nどんなジョブですの？\n"
+	},
+	{
+		"ID": 3027,
+		"unitID": 2100311,
+		"questionID": 9100327,
+		"script": ";;アロンダイト,1\n# textflame 1 1\n# face %(unit_a)s \"angry\"\n# voice 1003 \"durandaru_0001\"\n@デュランダル\nマスター！\n突然ですが、質問ですわ！\n\n# face %(unit_a)s \"sad\"\n@デュランダル\nどんな質問か、ですか？\nわたくしに関する\n質問に決まっていますわ♪\n\n@デュランダル\n正解して下されば\n嬉しいのですけれど…\n\n# voice 1003 \"durandaru_0036\"\n# face %(unit_a)s \"normal\"\n@デュランダル\nでは、まいりますね？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nわたくしと仲良しさんは\nエクスカリバーと\nもう一人…誰ですの？\n\n# se \"SE_0734\"\n# select  \"アロンダイト\" \"select_label_1\" \"シストルム\" \"select_label_2\" \"アイムール\" \"select_label_3\"\nわたくしと仲良しさんは\nエクスカリバーと\nもう一人…誰ですの？\n"
+	},
+	{
+		"ID": 3028,
+		"unitID": 2100311,
+		"questionID": 9100328,
+		"script": ";;氷剣将の靭風,2\n# textflame 1 1\n# face %(unit_a)s \"angry\"\n# voice 1003 \"durandaru_0001\"\n@デュランダル\nマスター！\n突然ですが、質問ですわ！\n\n# face %(unit_a)s \"sad\"\n@デュランダル\nどんな質問か、ですか？\nわたくしに関する\n質問に決まっていますわ♪\n\n@デュランダル\n正解して下されば\n嬉しいのですけれど…\n\n# voice 1003 \"durandaru_0036\"\n# face %(unit_a)s \"normal\"\n@デュランダル\nでは、まいりますね？\n;;--------------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nわたくしの☆５の\nリーダースキルはなんですの？\n\n# se \"SE_0734\"\n# select  \"炎剣将の靭風\" \"select_label_1\" \"氷剣将の靭風\" \"select_label_2\" \"闇剣将の靭風\" \"select_label_3\"\nわたくしの☆５の\nリーダースキルはなんですの？\n"
+	},
+	{
+		"ID": 3029,
+		"unitID": 2100311,
+		"questionID": 9100329,
+		"script": ";;氷剣神の寵愛,3\n# textflame 1 1\n# face %(unit_a)s \"angry\"\n# voice 1003 \"durandaru_0001\"\n@デュランダル\nマスター！\n突然ですが、質問ですわ！\n\n# face %(unit_a)s \"sad\"\n@デュランダル\nどんな質問か、ですか？\nわたくしに関する\n質問に決まっていますわ♪\n\n@デュランダル\n正解して下されば\n嬉しいのですけれど…\n\n# voice 1003 \"durandaru_0036\"\n# face %(unit_a)s \"normal\"\n@デュランダル\nでは、まいりますね？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nわたくしの☆６の\nリーダースキルはなんですの？\n\n# se \"SE_0734\"\n# select  \"闇剣神の寵愛\" \"select_label_1\" \"炎剣神の寵愛\" \"select_label_2\" \"氷剣神の寵愛\" \"select_label_3\"\nわたくしの☆６の\nリーダースキルはなんですの？\n"
+	},
+	{
+		"ID": 3030,
+		"unitID": 2100311,
+		"questionID": 9100330,
+		"script": ";;レディクラージュ,1\n# textflame 1 1\n# face %(unit_a)s \"angry\"\n# voice 1003 \"durandaru_0001\"\n@デュランダル\nマスター！\n突然ですが、質問ですわ！\n\n# face %(unit_a)s \"sad\"\n@デュランダル\nどんな質問か、ですか？\nわたくしに関する\n質問に決まっていますわ♪\n\n@デュランダル\n正解して下されば\n嬉しいのですけれど…\n\n# voice 1003 \"durandaru_0036\"\n# face %(unit_a)s \"normal\"\n@デュランダル\nでは、まいりますね？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nわたくしの☆５の\n固有スキルはなんですの？\n\n# se \"SE_0734\"\n# select  \"レディクラージュ\" \"select_label_1\" \"ミラーインパクト\" \"select_label_2\" \"ブライトフレイア\" \"select_label_3\"\nわたくしの☆５の\n固有スキルはなんですの？\n"
+	},
+	{
+		"ID": 3031,
+		"unitID": 2100311,
+		"questionID": 9100331,
+		"script": ";;人間観察,1\n# textflame 1 1\n# face %(unit_a)s \"angry\"\n# voice 1003 \"durandaru_0001\"\n@デュランダル\nマスターには\nわたくしに\n負けない切れ味を感じるんですの\n\n# face %(unit_a)s \"normal\"\n@デュランダル\nそれは…\n『知識の切れ味』ですわ♪\n\n# face %(unit_a)s \"smile\"\n@デュランダル\nそのわたくしの期待に\nぜひ応えて下さい、\nマスター♪\n\n@デュランダル\nわたくしに関する\nクイズを出題いたしますわ\n頑張って下さいね♪\n\n# voice 1003 \"durandaru_0036\"\n@デュランダル\nそれでは行きますわ！\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nわたくしの親友である\nナーゲルリングの\n趣味は、なんですの？\n\n# se \"SE_0734\"\n# select  \"人間観察\" \"select_label_1\" \"人間賛歌\" \"select_label_2\" \"人間山脈\" \"select_label_3\"\nわたくしの親友である\nナーゲルリングの\n趣味は、なんですの？\n"
+	},
+	{
+		"ID": 3032,
+		"unitID": 2100311,
+		"questionID": 9100332,
+		"script": ";;デュランダル,2\n# textflame 1 1\n# face %(unit_a)s \"angry\"\n# voice 1003 \"durandaru_0001\"\n@デュランダル\nマスターには\nわたくしに\n負けない切れ味を感じるんですの\n\n# face %(unit_a)s \"normal\"\n@デュランダル\nそれは…\n『知識の切れ味』ですわ♪\n\n# face %(unit_a)s \"smile\"\n@デュランダル\nそのわたくしの期待に\nぜひ応えて下さい、\nマスター♪\n\n@デュランダル\nわたくしに関する\nクイズを出題いたしますわ\n頑張って下さいね♪\n\n# voice 1003 \"durandaru_0036\"\n@デュランダル\nそれでは行きますわ！\n;;--------------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nわたくしと親友の\nナーゲルリング…\n胸が大きいのはどちらですの？\n\n# se \"SE_0734\"\n# select  \"同じ\" \"select_label_1\" \"デュランダル\" \"select_label_2\" \"ナーゲルリング\" \"select_label_3\"\nわたくしと親友の\nナーゲルリング…\n胸が大きいのはどちらですの？\n"
+	},
+	{
+		"ID": 3033,
+		"unitID": 2100311,
+		"questionID": 9100333,
+		"script": ";;東ゴート,3\n# textflame 1 1\n# face %(unit_a)s \"angry\"\n# voice 1003 \"durandaru_0001\"\n@デュランダル\nマスターには\nわたくしに\n負けない切れ味を感じるんですの\n\n# face %(unit_a)s \"normal\"\n@デュランダル\nそれは…\n『知識の切れ味』ですわ♪\n\n# face %(unit_a)s \"smile\"\n@デュランダル\nそのわたくしの期待に\nぜひ応えて下さい、\nマスター♪\n\n@デュランダル\nわたくしに関する\nクイズを出題いたしますわ\n頑張って下さいね♪\n\n# voice 1003 \"durandaru_0036\"\n@デュランダル\nそれでは行きますわ！\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nわたくしの親友\nナーゲルリングの\n出身地はどこですの？\n\n# se \"SE_0734\"\n# select  \"南ゴート\" \"select_label_1\" \"西ゴート\" \"select_label_2\" \"東ゴート\" \"select_label_3\"\nわたくしの親友\nナーゲルリングの\n出身地はどこですの？\n"
+	},
+	{
+		"ID": 3034,
+		"unitID": 2100311,
+		"questionID": 9100334,
+		"script": ";;小さいもの,1\n# textflame 1 1\n# face %(unit_a)s \"angry\"\n# voice 1003 \"durandaru_0001\"\n@デュランダル\nマスターには\nわたくしに\n負けない切れ味を感じるんですの\n\n# face %(unit_a)s \"normal\"\n@デュランダル\nそれは…\n『知識の切れ味』ですわ♪\n\n# face %(unit_a)s \"smile\"\n@デュランダル\nそのわたくしの期待に\nぜひ応えて下さい、\nマスター♪\n\n@デュランダル\nわたくしに関する\nクイズを出題いたしますわ\n頑張って下さいね♪\n\n# voice 1003 \"durandaru_0036\"\n@デュランダル\nそれでは行きますわ！\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nわたくしの親友\nナーゲルリングの\n好きなものはなんですの？\n\n# se \"SE_0734\"\n# select  \"小さいもの\" \"select_label_1\" \"大きいもの\" \"select_label_2\" \"ぷよぷよしたもの\" \"select_label_3\"\nわたくしの親友\nナーゲルリングの\n好きなものはなんですの？\n"
+	},
+	{
+		"ID": 3035,
+		"unitID": 2100311,
+		"questionID": 9100335,
+		"script": ";;みずがめ座,2\n# textflame 1 1\n# face %(unit_a)s \"angry\"\n# voice 1003 \"durandaru_0001\"\n@デュランダル\nマスターには\nわたくしに\n負けない切れ味を感じるんですの\n\n# face %(unit_a)s \"normal\"\n@デュランダル\nそれは…\n『知識の切れ味』ですわ♪\n\n# face %(unit_a)s \"smile\"\n@デュランダル\nそのわたくしの期待に\nぜひ応えて下さい、\nマスター♪\n\n@デュランダル\nわたくしに関する\nクイズを出題いたしますわ\n頑張って下さいね♪\n\n# voice 1003 \"durandaru_0036\"\n@デュランダル\nそれでは行きますわ！\n;;--------------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nわたくしの親友\nナーゲルリングの星座は\nなに座ですの？\n\n# se \"SE_0734\"\n# select  \"しし座\" \"select_label_1\" \"みずがめ座\" \"select_label_2\" \"てんびん座\" \"select_label_3\"\nわたくしの親友\nナーゲルリングの星座は\nなに座ですの？\n"
+	},
+	{
+		"ID": 3036,
+		"unitID": 2100311,
+		"questionID": 9100336,
+		"script": ";;青系,3\n# textflame 1 1\n# face %(unit_a)s \"angry\"\n# voice 1003 \"durandaru_0001\"\n@デュランダル\nマスターには\nわたくしに\n負けない切れ味を感じるんですの\n\n# face %(unit_a)s \"normal\"\n@デュランダル\nそれは…\n『知識の切れ味』ですわ♪\n\n# face %(unit_a)s \"smile\"\n@デュランダル\nそのわたくしの期待に\nぜひ応えて下さい、\nマスター♪\n\n@デュランダル\nわたくしに関する\nクイズを出題いたしますわ\n頑張って下さいね♪\n\n# voice 1003 \"durandaru_0036\"\n@デュランダル\nそれでは行きますわ！\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nわたくしの髪の毛の色は\nどんな色ですの？\n見ていただければわかりますわね♪\n\n# se \"SE_0734\"\n# select  \"黒\" \"select_label_1\" \"赤系\" \"select_label_2\" \"青系\" \"select_label_3\"\nわたくしの髪の毛の色は\nどんな色ですの？\n見ていただければわかりますわね♪\n"
+	},
+	{
+		"ID": 3037,
+		"unitID": 2100311,
+		"questionID": 9100337,
+		"script": ";;緑,1\n# textflame 1 1\n# face %(unit_a)s \"angry\"\n# voice 1003 \"durandaru_0001\"\n@デュランダル\nマスターには\nわたくしに\n負けない切れ味を感じるんですの\n\n# face %(unit_a)s \"normal\"\n@デュランダル\nそれは…\n『知識の切れ味』ですわ♪\n\n# face %(unit_a)s \"smile\"\n@デュランダル\nそのわたくしの期待に\nぜひ応えて下さい、\nマスター♪\n\n@デュランダル\nわたくしに関する\nクイズを出題いたしますわ\n頑張って下さいね♪\n\n# voice 1003 \"durandaru_0036\"\n@デュランダル\nそれでは行きますわ！\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nわたくしの瞳の色は\nなに色ですの？\n…じっと見て下さいね♪\n\n# se \"SE_0734\"\n# select  \"緑\" \"select_label_1\" \"茶\" \"select_label_2\" \"赤\" \"select_label_3\"\nわたくしの瞳の色は\nなに色ですの？\n…じっと見て下さいね♪\n"
+	},
+	{
+		"ID": 3038,
+		"unitID": 2100311,
+		"questionID": 9100338,
+		"script": ";;鍋の日,2\n# textflame 1 1\n# face %(unit_a)s \"angry\"\n# voice 1003 \"durandaru_0001\"\n@デュランダル\nマスターには\nわたくしに\n負けない切れ味を感じるんですの\n\n# face %(unit_a)s \"normal\"\n@デュランダル\nそれは…\n『知識の切れ味』ですわ♪\n\n# face %(unit_a)s \"smile\"\n@デュランダル\nそのわたくしの期待に\nぜひ応えて下さい、\nマスター♪\n\n@デュランダル\nわたくしに関する\nクイズを出題いたしますわ\n頑張って下さいね♪\n\n# voice 1003 \"durandaru_0036\"\n@デュランダル\nそれでは行きますわ！\n;;--------------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nわたくしの誕生日11月７日は\nとある記念日ですの\nいったいなんですの？\n\n# se \"SE_0734\"\n# select  \"釜の日\" \"select_label_1\" \"鍋の日\" \"select_label_2\" \"フライパンの日\" \"select_label_3\"\nわたくしの誕生日11月７日は\nとある記念日ですの\nいったいなんですの？\n"
+	},
+	{
+		"ID": 3039,
+		"unitID": 2100311,
+		"questionID": 9100339,
+		"script": ";;Scorpio,3\n# textflame 1 1\n# face %(unit_a)s \"angry\"\n# voice 1003 \"durandaru_0001\"\n@デュランダル\nマスターには\nわたくしに\n負けない切れ味を感じるんですの\n\n# face %(unit_a)s \"normal\"\n@デュランダル\nそれは…\n『知識の切れ味』ですわ♪\n\n# face %(unit_a)s \"smile\"\n@デュランダル\nそのわたくしの期待に\nぜひ応えて下さい、\nマスター♪\n\n@デュランダル\nわたくしに関する\nクイズを出題いたしますわ\n頑張って下さいね♪\n\n# voice 1003 \"durandaru_0036\"\n@デュランダル\nそれでは行きますわ！\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nわたくしの星座さそり座の\n英語読みは\n次のうち…どれですの？\n\n# se \"SE_0734\"\n# select  \"Cancer\" \"select_label_1\" \"Virgo\" \"select_label_2\" \"Scorpio\" \"select_label_3\"\nわたくしの星座さそり座の\n英語読みは\n次のうち…どれですの？\n"
+	},
+	{
+		"ID": 3040,
+		"unitID": 2100311,
+		"questionID": 9100340,
+		"script": ";;フランス叙事詩群,1\n# textflame 1 1\n# face %(unit_a)s \"angry\"\n# voice 1003 \"durandaru_0001\"\n@デュランダル\nマスターには\nわたくしに\n負けない切れ味を感じるんですの\n\n# face %(unit_a)s \"normal\"\n@デュランダル\nそれは…\n『知識の切れ味』ですわ♪\n\n# face %(unit_a)s \"smile\"\n@デュランダル\nそのわたくしの期待に\nぜひ応えて下さい、\nマスター♪\n\n@デュランダル\nわたくしに関する\nクイズを出題いたしますわ\n頑張って下さいね♪\n\n# voice 1003 \"durandaru_0036\"\n@デュランダル\nそれでは行きますわ！\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nわたくしの属するクラスタは\n次のうち、どれですの？\n\n# se \"SE_0734\"\n# select  \"フランス叙事詩群\" \"select_label_1\" \"北欧神話群\" \"select_label_2\" \"アイスランド神話群\" \"select_label_3\"\nわたくしの属するクラスタは\n次のうち、どれですの？\n"
+	},
+	{
+		"ID": 3041,
+		"unitID": 2100311,
+		"questionID": 9100341,
+		"script": "\n;;わたくし,1\n# se \"SE_0734\"\n# select \"わたくし\" \"select_label_1\" \"あたし\" \"select_label_2\" \"ミー\" \"select_label_3\"\nデュランダルの一人称は\n次のうちどれ？\n"
+	},
+	{
+		"ID": 3042,
+		"unitID": 2100311,
+		"questionID": 9100342,
+		"script": "\n;;マスター,1\n# se \"SE_0734\"\n# select \"マスター\" \"select_label_1\" \"あなた\" \"select_label_2\" \"アナタ\" \"select_label_3\"\nデュランダルはアンタのこと\nなんて呼んでる？\n"
+	},
+	{
+		"ID": 3043,
+		"unitID": 2100311,
+		"questionID": 9100343,
+		"script": "\n;;73,3\n# se \"SE_0734\"\n# select \"76\" \"select_label_1\" \"82\" \"select_label_2\" \"73\" \"select_label_3\"\nデュランダルの\nバストサイズがどのくらいか\nアンタ…知ってるの？\n"
+	},
+	{
+		"ID": 3044,
+		"unitID": 2100311,
+		"questionID": 9100344,
+		"script": "\n;;53,3\n# se \"SE_0734\"\n# select \"54\" \"select_label_1\" \"60\" \"select_label_2\" \"53\" \"select_label_3\"\nデュランダルの\nウエストサイズがどのくらいか\nアンタ…知ってるの？\n"
+	},
+	{
+		"ID": 3045,
+		"unitID": 2100311,
+		"questionID": 9100345,
+		"script": "\n;;71,2\n# se \"SE_0734\"\n# select \"76\" \"select_label_1\" \"71\" \"select_label_2\" \"82\" \"select_label_3\"\nデュランダルの\nヒップサイズがどのくらいか\nアンタ…知ってるの？\n"
+	},
+	{
+		"ID": 3046,
+		"unitID": 2100311,
+		"questionID": 9100346,
+		"script": "\n;;34,2\n# se \"SE_0734\"\n# select \"39\" \"select_label_1\" \"34\" \"select_label_2\" \"45\" \"select_label_3\"\nデュランダルの体重は\n次のうちどれ？\n"
+	},
+	{
+		"ID": 3047,
+		"unitID": 2100311,
+		"questionID": 9100347,
+		"script": "\n;;197,3\n# se \"SE_0734\"\n# select \"206\" \"select_label_1\" \"224\" \"select_label_2\" \"197\" \"select_label_3\"\nデュランダルの\nバスト＋ウエスト＋ヒップは\nいくつかわかる？\n"
+	},
+	{
+		"ID": 3048,
+		"unitID": 2100311,
+		"questionID": 9100348,
+		"script": "\n;;ブルー,3\n# se \"SE_0734\"\n# select \"レッド\" \"select_label_1\" \"イエロー\" \"select_label_2\" \"ブルー\" \"select_label_3\"\nデュランダルの水着の色は\n次のうちどれ？\n"
+	},
+	{
+		"ID": 3049,
+		"unitID": 2100311,
+		"questionID": 9100349,
+		"script": "\n;;25位,1\n# se \"SE_0734\"\n# select \"25位\" \"select_label_1\" \"29位\" \"select_label_2\" \"32位\" \"select_label_3\"\nデュランダルは\n第２回人気投票で\n何位だったでしょう？\n"
+	},
+	{
+		"ID": 3050,
+		"unitID": 2100311,
+		"questionID": 9100350,
+		"script": "\n;;ゆかな,1\n# se \"SE_0734\"\n# select \"ゆかな\" \"select_label_1\" \"小清水亜美\" \"select_label_2\" \"名塚佳織\" \"select_label_3\"\nデュランダルの声優は誰？\n"
+	}
+]

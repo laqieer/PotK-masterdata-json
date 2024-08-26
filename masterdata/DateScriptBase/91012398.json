@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 91012398,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# se \"SE_0733\"\n# face %(unit_a)s \"sad\"\n# voice 1012 \"adamasu_0026\"\n@アダマス\nぜんっぜんダメね…\n\n# voice 1012 \"adamasu_0027\"\n# face %(unit_a)s \"angry\"\n@アダマス\nあんた…その程度で\nあたしを誘ったわけ？\n正気なの？\n\n@アダマス\nせめてもっと\nうまくやりなさいよね～\n\n# voice 1012 \"adamasu_0031\"\n# eye %(unit_a)s \"normal\"\n@アダマス\n…まぁ、さすがに\n少し意地悪だったかもね\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"normal\"\n@アダマス\nでも次はないわよ\n…ちゃんと忘れないで\n覚えておきなさい！\n\n# textflame 0 0\n@\nがっかりした様子を\n強がって隠す彼女の顔が\nマスターの目に焼きついた\n\n@\nデート中のはずなのに\n悲しい思いをさせてしまうなんて…\n\n@\nチャンスをくれたのだ\n次は絶対に間違えないように\nしないといけないな…\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

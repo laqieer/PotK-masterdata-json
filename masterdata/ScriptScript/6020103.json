@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 6020103,
+		"script": "# script \"lisp\"\n# body 400131\n# pos 400131 2\n# scale 400131 0.8 0\n# body 100111\n# pos 100111 4\n# scale 100111 0.8 0\n# textflame 1 1\n# textboxarrow 0 3\n# chara 100111\n@マサムネ\n主君、この森林を抜ければ\nユグドラシル付近に到着します。\n\n# serif 1\n# textboxarrow 1 1\n# chara 400131\n@アルテミス\nマスター、もうしばらくのご辛抱を…\n『触』の影響で、異族の動きも\n活発になってるようです。\n\n# serif 0\n# textboxarrow 0 3\n# chara 100111\n@マサムネ\nユグドラシルへ行けば\n『蝕』の原因も分かるやもしれませぬ\n\n# serif 1\n# textboxarrow 1 1\n# face 400131 \"angry\"\n# chara 400131\n@アルテミス\nマスター！異族が近づいています！\n排除いたします！！"
+	}
+]

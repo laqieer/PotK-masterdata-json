@@ -1,0 +1,26 @@
+[
+	{
+		"ID": 289,
+		"unitID": 2600311,
+		"scriptID": "kaerimichi",
+		"script": "マスター、まだまだ帰さないよ？\nもう一軒いっちゃうよ～！！"
+	},
+	{
+		"ID": 303,
+		"unitID": 2600311,
+		"scriptID": "kaeru",
+		"script": "満足、満足！\n今日はもう帰ろっか"
+	},
+	{
+		"ID": 317,
+		"unitID": 2600311,
+		"scriptID": "kaeru_ok",
+		"script": "@%(unitName:unit_a)s\nよ～しっ！\nハシゴしちゃうよ～！"
+	},
+	{
+		"ID": 331,
+		"unitID": 2600311,
+		"scriptID": "kaeru_ng",
+		"script": "@%(unitName:unit_a)s\nうーん、ごめん\n今日もう飲めないやっ"
+	}
+]

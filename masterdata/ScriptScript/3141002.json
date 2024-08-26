@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 3141002,
+		"script": "# script \"lisp\"\n# body 100423\n# pos 100423 1\n# body 300433\n# pos 300433 5\n# body 500333\n# pos 500333 3\n# textboxarrow 0 1\n# face 100423 \"angry\"\n# voice 1004 \"kusanagi_1006\"\n# chara 100423\n@草薙剣\nそちは、なにを考えておるのじゃ！\n仲間に刃を向けるとは！！\n神器として恥ずかしくないのか！\n\n# serif 1\n# textboxarrow 1 2\n# voice 5003 \"yatanokagami_0015\"\n# face 500333 \"angry\"\n# chara 500333\n@八咫鏡\n…それじゃ\n\n# serif 0\n# face 100423 \"surprise\"\n# textboxarrow 0 1\n# voice 1004 \"kusanagi_0023\"\n# chara 100423\n@草薙剣\nなぬ？？\n\n# textboxarrow 0 3\n# voice 3004 \"amenonuboko_0009\"\n# face 300433 \"worry\"\n# chara 300433\n@天沼矛\nどうしたんですか…八咫ちゃん？\nいつものイタズラにしては\n性質が悪いですよぉ…\n\n# serif 1\n# textboxarrow 1 2\n# voice 5003 \"yatanokagami_0011\"\n# chara 500333\n@八咫鏡\nよせ…神器など無意味じゃ！\nええい、問答無用！！\n\n# voice 5003 \"yatanokagami_0029\""
+	}
+]

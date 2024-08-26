@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 95031399,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# se \"SE_0732\"\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n@ソロモン\nその答え…\n\n# voice 250311 \"solomon_t_0005\"\n@ソロモン\n正解よ\n\n# voice 250311 \"solomon_t_0002\"\n@ソロモン\n正解したマスターには、\n景品として私のキスを差し上げるわ\n\n# textflame 0 0\n@\n一瞬、ドキリとするマスター\n\n# voice 250311 \"solomon_t_0020\"\n# face %(unit_a)s \"happy\"\n# textflame 1 1\n@ソロモン\nなんてね♪\n真に受けたかしら？\n\n@ソロモン\nふふふ\n\n# textflame 0 0\n@\n２度も冗談に踊らされるも、\nマスターは彼女の輝くような笑顔に\n癒されていた\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

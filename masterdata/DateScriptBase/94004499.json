@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 94004499,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# se \"SE_0732\"\n# voice 4004 \"erosu_0006\"\n@エロース\nやったぁ♪\n\n@エロース\nさっすがですぅ～♪\nエロースのマスターは、\nひと味違いますぅ～\n\n# face %(unit_a)s \"normal\"\n@エロース\n正解したご褒美はぁ…\n特別にエロースのこと…\nハグしてもいいですよぉ～♪\n\n# face %(unit_a)s \"smile\"\n# voice 4004 \"erosu_0036\"\n@エロース\nささっ！遠慮せずに、\nハグしてください～♪\n\n# voice 4004 \"erosu_0004\"\n@エロース\nマスターがしないなら、\nエロースがマスターのこと\nハグしちゃいますよぉ～？\n\n# face %(unit_a)s \"sad\"\n# voice 4004 \"erosu_0014\"\n@エロース\nあ～、もう！\nどこに行くんですかぁ～\n\n# textflame 0 0\n@\n追いかけっこをしながら、\nエロースとの絆が深まったのを\n感じるマスターだった…\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

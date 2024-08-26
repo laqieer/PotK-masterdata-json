@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 501423,
+		"script": ";;C\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_shipboard\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# face %(unit_a)s \"normal\"\n# voice 5014 \"mami_0004\"\n# textflame 1 1\n@%(unitName:unit_a)s\nゆったり過ごす、か…\nそれもいいわね\n\n@%(unitName:unit_a)s\nパーティーは\nこれからしばらく続くわけだし\n\n@%(unitName:unit_a)s\nとりあえず今は…\n潮風を楽しんだり、\n波のきらめきを眺めたりして…\n\n# voice 5014 \"mami_0003\"\n@%(unitName:unit_a)s\nこの優雅な雰囲気を\n楽しむのも悪くないわ\n\n# voice 5014 \"mami_0004\"\n@%(unitName:unit_a)s\nふふ…こうしてただ\nぼんやりするだけでも、\n案外悪くないものね♪\n\n@%(unitName:unit_a)s\nもうしばらくの間、\nこの空気に\n浸っていようかしら\n\n# textflame 0 0\n@\nマスターはマミに頷き、\n乗客たちの歓声や\n船の音に耳を傾ける\n\n@\n二人の間に会話はないが、\nそれでも彼らの心は\n満たされていた…\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

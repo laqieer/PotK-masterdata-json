@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 2100111,
+		"script": ";;C:魚を学ぶため\n;;B:『ふれあいコーナー』に行くため\n;;A:二人で一緒に楽しむため\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_aquarium_day\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 0 0\n# face %(unit_a)s \"normal\"\n@\nマサムネを誘って\n水族館へと\nやってきたマスター\n\n# voice 210012 \"masamune_k_0006\"\n# textflame 1 1\n@マサムネ\nいろんな魚がおりますな…\n主君はどの魚がご所望ですか？\n\n@マサムネ\n拙者がこの銛を使い、\n見事ご所望の魚を\n仕留めてみせよう\n\n# textflame 0 0\n@\n銛を振り上げ意気揚々の彼女に\n水族館に来た理由は\n魚をとるためではない、と告げた\n\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n@マサムネ\nなんと？\nでは、何のためにここへ？\n\n# select \"二人で一緒に楽しむため\" \"select_label_01\" \"『ふれあいコーナー』に行くため\" \"select_label_02\" \"魚を学ぶため\" \"select_label_03\"\nなんと？\nでは、何のためにここへ？\n\n# label \"select_label_01\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_02\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_03\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_end\"\n# waitandnext 0.1\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

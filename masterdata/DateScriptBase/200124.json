@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 200124,
+		"script": "# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_room\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# voice 2001 \"myuruniru_0004\"\n@ミョルニル\nしかたないなぁマスタは～\n\n# textflame 1 1\n@ミョルニル\nは～い、ど～ぞ♪\n\n# textflame 0 0\n@\n差し出されたのは\nミョルニル愛用のヤギの抱きぐるみ\n\n# textflame 0 0\n@\nものすごくふかふかで\n気持ちよかった…\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

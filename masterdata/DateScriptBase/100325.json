@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 100325,
+		"script": ";;さすが、淑女の鏡！,小\n;;それってさじ加減じゃ…,中\n;;たーまや～！,大\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_fireworks\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# voice 1003 \"durandaru_0021\"\n@デュランダル\nたーまや～！\nですわ！\n\n# textflame 0 0\n@\n淑女という振る舞いとは\n決して言えない様子の\nデュランダル…\n\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@デュランダル\nふふふ、マスターは今、\n淑女らしくないと\n思われましたね？\n;;----------------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nいえ、時と場所に合わせて\n適切な行動をとる…\nこれも淑女のたしなみなのです！\n\n# textflame 0 0\n@\nさすが、淑女の鏡！\n\n# textflame 1 1\n# face %(unit_a)s \"angry\"\n# voice 1003 \"durandaru_0014\"\n@デュランダル\nいえ、とんでもないですわ！\n\n# face %(unit_a)s \"normal\"\n@デュランダル\nわたくしはまだまだ修行の身…\n\n# voice 1003 \"durandaru_0029\"\n@デュランダル\n先ほどの掛け声も\nもう少しこう…\nお腹からですね…\n\n# textflame 0 0\n@\n淑女への道は難しいと\n彼女を見ながら実感する、\nマスターだった\n;;----------------------------------------\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

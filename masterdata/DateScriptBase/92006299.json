@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 92006299,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# voice 2006 \"daguda_0039\"\n# face %(unit_a)s \"smile\"\n# se \"SE_0732\"\n@ダグダ\nすご～い！\n正解だよ～！！\n\n@ダグダ\nいきなり問題出して、\n答えられるかなって\n思ったんだけど…\n\n@ダグダ\nちゃ～んと\n正解してくれたね♪\nさっすがマスタ～！\n\n# voice 2006 \"daguda_0004\"\n@ダグダ\nうふふふっ♪\n\n@ダグダ\nこれからもこの調子で\nよろしくね～♪\n\n# textflame 0 0\n@\nそう言ってにっこり笑うダグダ\nマスターは彼女との絆が\nいっそう深まるのを実感した…\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

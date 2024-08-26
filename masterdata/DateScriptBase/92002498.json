@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 92002498,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# se \"SE_0733\"\n# voice 2002 \"aimuru_0009\"\n@アイムール\n残念、ハズレです\n\n@アイムール\nどうやらマスターは\n私についてあまり\n詳しくないようですね\n\n# voice 2002 \"aimuru_0042\"\n@アイムール\nならば、\nもっと私を知って欲しいです\n\n# face %(unit_a)s \"normal\"\n@アイムール\nそうすれば、\nいつ質問されても\n平気ですからね\n\n# textflame 0 0\n@\nそう言って微笑むアイムール\n\n# textflame 1 1\n# voice 2002 \"aimuru_0001\"\n# face %(unit_a)s \"smile\"\n@アイムール\nそれではマスター\n一緒に帰りましょう\n\n# textflame 0 0\n@\n隣に立つアイムールと一緒に、\n帰路につくマスター\n\n@\n今回の質問を\n答えることはできなかった\n\n@\nだから今度は必ず正解して、\n名誉挽回するぞ！\n\n@\n胸に手を当て\n自分の心に誓ったマスターであった\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

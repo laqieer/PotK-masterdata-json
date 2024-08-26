@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 401125,
+		"script": ";;青はずれ\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_fireworks\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# face %(unit_a)s \"normal\"\n# textflame 0 0\n@\n帰り道…\n大きな音が聞こえ、\n二人は振り返る\n\n@\n見上げると、\n空には色とりどりの花火が\n打ち上げられていた\n\n# face %(unit_a)s \"happy\"\n# voice 4011 \"madoka_0041\"\n# textflame 1 1\n@%(unitName:unit_a)s\nわぁ…きれい！\nそっか、今日って\n花火大会なんだね\n\n# face %(unit_a)s \"normal\"\n@%(unitName:unit_a)s\n花火を見てると、\n夏が来たって感じがするね\n\n@%(unitName:unit_a)s\nなんだか\n見滝原にいたときのこと\n思い出しちゃうなあ\n\n# textflame 0 0\n@\n花火大会、楽しもう\nとマスターが声をかける\n\n# textflame 1 1\n# voice 4011 \"madoka_0003\"\n@%(unitName:unit_a)s\nあ、うん！そうだね！\nせっかくのお祭りだもんね\n\n@%(unitName:unit_a)s\n今はとにかく\nこの時間を楽しまないと！\n\n# textflame 0 0\n@\n憂鬱な気持ちを吹き飛ばした\nまどか\n\n@\nほんの少しでも\n息抜きになればいいな…と、\nマスターは心の中で思うのだった\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

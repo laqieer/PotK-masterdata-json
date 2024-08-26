@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 4100212,
+		"script": ";;C\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_park_day\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# face %(unit_a)s \"normal\"\n# voice 210024 \"revatein_lo_0039\"\n# textflame 1 1\n@レーヴァテイン\nベンチのうえね…\nたしかに、ねるには\nちょうどよさそうだけど\n\n@レーヴァテイン\nとりあえずやってみようか\nよいしょっ、と…\n\n# face %(unit_a)s \"smile\"\n# voice 210024 \"revatein_lo_0004\"\n@レーヴァテイン\nうん、いいかも…\nおひさまにあたってたから、\nけっこうあったかい…\n\n# face %(unit_a)s \"surprise\"\n# voice 210024 \"revatein_lo_0028\"\n@レーヴァテイン\nあぁ、でも…したがかたいから、\nねるにはむいてないかな…\n\n# face %(unit_a)s \"normal\"\n# voice 210024 \"revatein_lo_0001\"\n@レーヴァテイン\n…そうだ、マスター\nここにすわってくれる？\n\n# face %(unit_a)s \"smile\"\n# voice 210024 \"revatein_lo_0005\"\n@レーヴァテイン\nよし、これでいい…\nマスターのひざまくらつき…♪\n\n@レーヴァテイン\nきょうのおひるねはこれできまり…\nそれじゃマスター、\nしばらくこのままで…\n\n# eye %(unit_a)s \"close\"\n# textflame 0 0\n@\n良いお昼寝スポットを見つけ、\nレーヴァテインは満足そうに\n眠りに入る\n\n@\n彼女の頭をなでながら、\nマスターは公園に流れる\nのどかな空気を楽しんだ…\n\n;;-----------------------------------------\n# waitandnext 2\n# fadeout \"black\" 1.2\n"
+	}
+]

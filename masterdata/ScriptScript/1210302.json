@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 1210302,
+		"script": ";;■□■２－１改修案■□■\n;;【２－１－２（バトル前）】\n;;整形済み\n# script \"lisp\"\n# background \"ghost_town\"\n# bgm \"bgm023_024\" 0\n# textwindow \"nomal\"\n# body 24\n# pos 24 2\n# scale 24 0.8 0\n# alpha 24 1 0\n# body 0\n# pos 0 4\n# scale 0 0.8 0\n# alpha 0 0 0\n# textboxarrow 0 1\n# face 24 \"angry\"\n# voice 1014 \"tyrufing_0037\"\n@ティルフィング\n細い路地が入り組んで…迷路みたい\nこの村を熟知してるあの子を\n探し出すのは、骨が折れるわね\n\n# alpha 0 1 0.5\n# textboxarrow 0 3\n# face 0 \"angry\"\n# voice 9999 \"durin_0027\"\n@デュリン\nゼェ…ハァ…\nま、待ちなさいよ、ティルフィング！\n早過ぎるっての…！\n\n# textboxarrow 0 1\n@ティルフィング\nでも…\n一刻も早く、あの子を見つけないと\n\n# textboxarrow 0 3\n# voice 9999 \"durin_0052\"\n@デュリン\nだいたい、教会本部に\nなんて言えばいいのよ！？\nタダで請け負ったなんて知れたら…\n\n# textboxarrow 0 1\n# face 24 \"normal\"\n@ティルフィング\nデュリンが報告しなきゃ\nいいことじゃない\n\n# textboxarrow 0 3\n# voice 9999 \"durin_0010\"\n@デュリン\nそういうことを言ってんじゃないの！\nたかが、タダ働きって\n思ってんのかもしんないけどね…\n\n@デュリン\nその行為は、いずれ世界を\n危機に晒すことになるのよ！？\n\n# textboxarrow 0 1\n# face 24 \"surprise\"\n# voice 1014 \"tyrufing_0022\"\n@ティルフィング\n世界を、危機に…！？\n\n# se \"SE_0617\"\n# waitandnext 0.5\n\n# textboxarrow 0 3\n# voice 9999 \"durin_0049\"\n@デュリン\n…っ！\nもう、また異族…！\nティルフィング！！"
+	}
+]

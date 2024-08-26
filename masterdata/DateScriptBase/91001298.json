@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 91001298,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# se \"SE_0733\"\n# voice 1001 \"masamune_0017\"\n# face %(unit_a)s \"sad\"\n@マサムネ\nさ、さにあらず…！\n不正解だ…\n\n@マサムネ\nなんと…\nかような問題を外すとは…\n\n@マサムネ\n主君は…拙者のことを\nなにも理解しておらぬのだな…\n\n# voice 1001 \"masamune_0028\"\n@マサムネ\n…残念だ\n\n@マサムネ\nい、いや…\nしかし、それも\n拙者の未熟がゆえ…\n\n# voice 1001 \"masamune_0003\"\n# face %(unit_a)s \"angry\"\n@マサムネ\n主君に振り向いてもらえるよう…\nさらに精進いたす！\n\n# textflame 0 0\n@\nと、言い放った彼女は\n明らかに無理をしていて…\n\n@\nせっかくのデート中なのに…\nあんな顔をさせちゃうなんて…\n\n@\nどんな質問も答えられるよう、\nこっちこそ精進しないとな…\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

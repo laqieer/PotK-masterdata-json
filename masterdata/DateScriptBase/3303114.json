@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 3303114,
+		"script": ";;C\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_planetarium\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# voice 530311 \"cassius_ca_0004\"\n@カシウス\nふふ、よかった…♪\n喜んでくれているのね\n\n@カシウス\nもし、御館様が退屈していたら…\nそう思うと、少し不安だったの\nでも、よかったわ\n\n@カシウス\n御館様も星を見るのが\n好きなのかしら\n\n@カシウス\n御館様さえよければ、\nまた一緒にここに…\n\n# voice 530311 \"cassius_ca_0022\"\n# face %(unit_a)s \"normal\"\n@カシウス\n…うん？\nプラネタリウムじゃ\nなくてもいいの？\n\n@カシウス\nそれって…もしかして\n\n@カシウス\nわたしと一緒なら、\nどこにいても\n嬉しいということ？\n\n# voice 530311 \"cassius_ca_0005\"\n# face %(unit_a)s \"smile\"\n@カシウス\n…ふふっ♪\nそう…そうなのね\n\n# voice 530311 \"cassius_ca_0001\"\n@カシウス\n御館様、\nよければもう一度\n言ってくれる？\n\n@カシウス\n御館様の気持ち、\n何度でも受け止めたいの\nだから…\n\n# textflame 0 0\n@\nカシウスに向き直り\n素直な気持ちを伝えるマスター\n\n@\n喜びを隠せない笑顔で、\nカシウスもこくっと\nうなずくのだった…\n;;-----------------------------------------\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

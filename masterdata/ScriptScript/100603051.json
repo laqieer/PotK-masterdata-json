@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 100603051,
+		"script": ";;第3話　タイトル：\n;;//背景：大穴\n# background \"101_hole\"\n# bgmfile \"bgm166\" \"BgmPJZero001\" 0\n# body 1600221\n# pos 1600221 3\n# scale 1600221 0.8 0\n# alpha 1600221 1 0\n# mask 1600221 off\n# body 3600211\n# pos 3600211 4\n# scale 3600211 0.8 0\n# alpha 3600211 0 0\n# textwindow \"nomal\"\n# textboxarrow 0 2\n# textflame 1 1\n# face 1600221 \"trouble\"\n# voice 16002 \"gambanteinnm_0037\"\n@ガンバンテイン\n酷い瘴気だ…\nしかし、予想通り死に至るほどの\nものではないな\n\n@ガンバンテイン\nユグドラシルという巨大な「蓋」を\n失い、慌てて一時凌ぎの毒をまいたと\nいったところか？\n\n@ガンバンテイン\nユグドラシルが消滅して、およそ\n三ヶ月か…世界は急変したな…\n\n@ガンバンテイン\nこの変化で最も恩恵を受けたのは\n果たして誰だったのか\n\n# face 1600221 \"normal\"\n@ガンバンテイン\nさて、この「大穴」の下に本当に\n地底世界があるのかな？\n\n;;//ガンバンテインが結界に阻まれる\n# se \"SE_9174\"\n# textwindow \"close\"\n# fadein \"white\" 0.5\n# waitandnext 0.5\n\n# voice 16002 \"gambanteinnm_0040\"\n# face 1600221 \"trouble\"\n# textboxarrow 0 2\n# textwindow \"nomal\"\n@ガンバンテイン\nははあ…結界か\nこうなるとティルフィングが言って\nいたことの信憑性が増すね\n\n# voice 16002 \"gambanteinnm_0007\"\n# face 1600221 \"smile_1\"\n@ガンバンテイン\n面白い\n俺の意識が失われるまで、\nもう一仕事していこうじゃないか"
+	}
+]

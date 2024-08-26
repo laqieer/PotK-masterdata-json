@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 3110101,
+		"script": "# script \"lisp\"\n# background \"foot_mountain_village\"\n# bgm \"bgm001\" 0\n# body 101411\n# mask 101411 off\n# pos 101411 3\n# textboxarrow 0 2\n# imageset 0 \"battle_ev03\"\n# imagealpha 0 0 0\n# chara 101411\n@ティルフィング\n…！マスター、気をつけてください。\nここには「物防」の高い異族が\n多く生息しているようです\n\n# imagealpha 0 1 0\n# imagepos 0 0 0\n# chara 101411\n@ティルフィング\nマスターはご存知かもしれませんが、\n敵の物防が高く魔防が低いときは\n魔弾による攻撃が有効です\n\n# chara 101411\n@ティルフィング\nもし、攻撃が効かずに苦戦するなら\n魔弾が使える者を中心に\nメンバーを組んで挑戦してください"
+	}
+]

@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 92020499,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# se \"SE_0732\"\n# voice 2020 \"harpe_0005\"\n@ハルパー\nうふふっ♪\n正解です\n\n@ハルパー\nすごいですね、マスター\nこんな問題を答えられるとは…\n\n# face %(unit_a)s \"angry\"\n@ハルパー\nどれだけいつも…\n私に注視しているんでしょう？\n\n# voice 2020 \"harpe_0004\"\n@ハルパー\nふふっ\nやめてほしいですね\nそういうの…\n\n# face %(unit_a)s \"smile\"\n@ハルパー\nまぁ…でも\n答えを間違うよりは…マシですが\n\n# textflame 0 0\n@\n彼女はさっきまでとは違う\n茶目っ気におびた笑顔を見せてくれた\n\n@\nその笑顔が見れたことで\n彼女との絆が\nまた深まった…気がする…\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 301521,
+		"script": ";;A,大\n;;B,中\n;;C,小\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_room\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# face %(unit_a)s \"normal\"\n# textflame 0 0\n@\nお出かけの帰り…\n杏子たちが住む部屋に\n訪れたマスター\n\n@\n一緒に住んでいる他の姫たちと\n上手くやれているか\n様子を見に来たのだ\n\n# face %(unit_a)s \"angry\"\n# textflame 1 1\n@%(unitName:unit_a)s\nほら、上がりなよ\n…うわっ！　なんだこれ！？\n\n# face %(unit_a)s \"sad\"\n# voice 3015 \"kyoko_0027\"\n@%(unitName:unit_a)s\nはぁ～、またあいつら\n散らかしたまま出かけやがって\n\n@%(unitName:unit_a)s\n掃除する身にもなれっての\nまったく…\n\n@%(unitName:unit_a)s\n…ん、なんだよその顔\nなんか文句でもあんのか？\n\n# select \"けっこう家庭的だね\" \"select_label_01\" \"姫たちと仲良くなれた？\" \"select_label_02\" \"お腹減った…\" \"select_label_03\"\n…ん、なんだよその顔\nなんか文句でもあんのか？\n\n# label \"select_label_01\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_02\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_03\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# textflame 1 1\n# waitandnext 0.1\n\n# label \"select_label_end\"\n# waitandnext 2\n# fadeout \"black\" 1.2\n"
+	}
+]

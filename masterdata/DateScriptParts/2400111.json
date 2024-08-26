@@ -1,0 +1,26 @@
+[
+	{
+		"ID": 16,
+		"unitID": 2400111,
+		"scriptID": "kaerimichi",
+		"script": "マスター\nやはりもう少しだけ\n一緒にいませんか？"
+	},
+	{
+		"ID": 43,
+		"unitID": 2400111,
+		"scriptID": "kaeru",
+		"script": "マスター、\nそろそろ帰りましょう"
+	},
+	{
+		"ID": 70,
+		"unitID": 2400111,
+		"scriptID": "kaeru_ok",
+		"script": "@%(unitName:unit_a)s\nあの、その、\n私でよろしければ…\nよろしくお願いします！"
+	},
+	{
+		"ID": 97,
+		"unitID": 2400111,
+		"scriptID": "kaeru_ng",
+		"script": "@%(unitName:unit_a)s\nすみません\n今日は帰ります"
+	}
+]

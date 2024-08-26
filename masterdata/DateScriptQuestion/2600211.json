@@ -1,0 +1,302 @@
+[
+	{
+		"ID": 2101,
+		"unitID": 2600211,
+		"questionID": 9600201,
+		"script": ";;息子,1\n# face %(unit_a)s \"usual\"\n@ガンバンテイン\n…………\n\n# voice 6002 \"ganbantein_0023\"\n@ガンバンテイン\n…え？\n\n@ガンバンテイン\n今…？\n\n@ガンバンテイン\n考え事だよ\n\n# eye %(unit_a)s \"close\"\n@ガンバンテイン\nなに考えてたかって…？\nえ～と…\n\n# eye %(unit_a)s \"normal\"\n# voice 6002 \"ganbantein_0002\"\n@ガンバンテイン\n…なんだっけ？\n\n@ガンバンテイン\nあ、クイズだ、クイズ\n\n@ガンバンテイン\n今からマスターに出す\nクイズを考えたんだよ～\n\n# voice 6002 \"ganbantein_0036\"\n# face %(unit_a)s \"smile\"\n@ガンバンテイン\nじゃあ、いくよ～？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしのキラーズ\n『ガンバンテイン』はオーディンから\nとある人に渡されたんだ～\n\n# se \"SE_0734\"\n# select \"息子\" \"select_label_1\" \"兄\" \"select_label_2\" \"幼なじみ\" \"select_label_3\"\nあたしのキラーズ\n『ガンバンテイン』はオーディンから\nとある人に渡されたんだ～\n"
+	},
+	{
+		"ID": 2102,
+		"unitID": 2600211,
+		"questionID": 9600202,
+		"script": ";;オーディン,2\n# face %(unit_a)s \"usual\"\n@ガンバンテイン\n…………\n\n# voice 6002 \"ganbantein_0023\"\n@ガンバンテイン\n…え？\n\n@ガンバンテイン\n今…？\n\n@ガンバンテイン\n考え事だよ\n\n# eye %(unit_a)s \"close\"\n@ガンバンテイン\nなに考えてたかって…？\nえ～と…\n\n# eye %(unit_a)s \"normal\"\n# voice 6002 \"ganbantein_0002\"\n@ガンバンテイン\n…なんだっけ？\n\n@ガンバンテイン\nあ、クイズだ、クイズ\n\n@ガンバンテイン\n今からマスターに出す\nクイズを考えたんだよ～\n\n# voice 6002 \"ganbantein_0036\"\n# face %(unit_a)s \"smile\"\n@ガンバンテイン\nじゃあ、いくよ～？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしのキラーズ\n『ガンバンテイン』の持ち主って\n誰だか知ってる～？\n\n# se \"SE_0734\"\n# select \"ゼウス\" \"select_label_1\" \"オーディン\" \"select_label_2\" \"ブラフマー\" \"select_label_3\"\nあたしのキラーズ\n『ガンバンテイン』の持ち主って\n誰だか知ってる～？\n"
+	},
+	{
+		"ID": 2103,
+		"unitID": 2600211,
+		"questionID": 9600203,
+		"script": ";;フレーバルズ,3\n# face %(unit_a)s \"usual\"\n@ガンバンテイン\n…………\n\n# voice 6002 \"ganbantein_0023\"\n@ガンバンテイン\n…え？\n\n@ガンバンテイン\n今…？\n\n@ガンバンテイン\n考え事だよ\n\n# eye %(unit_a)s \"close\"\n@ガンバンテイン\nなに考えてたかって…？\nえ～と…\n\n# eye %(unit_a)s \"normal\"\n# voice 6002 \"ganbantein_0002\"\n@ガンバンテイン\n…なんだっけ？\n\n@ガンバンテイン\nあ、クイズだ、クイズ\n\n@ガンバンテイン\n今からマスターに出す\nクイズを考えたんだよ～\n\n# voice 6002 \"ganbantein_0036\"\n# face %(unit_a)s \"smile\"\n@ガンバンテイン\nじゃあ、いくよ～？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしのキラーズ\n『ガンバンテイン』をオーディンに\n渡したのは誰～？\n\n# se \"SE_0734\"\n# select \"フレーバー\" \"select_label_1\" \"フレミング\" \"select_label_2\" \"フレーバルズ\" \"select_label_3\"\nあたしのキラーズ\n『ガンバンテイン』をオーディンに\n渡したのは誰～？\n"
+	},
+	{
+		"ID": 2104,
+		"unitID": 2600211,
+		"questionID": 9600204,
+		"script": ";;巨人,1\n# face %(unit_a)s \"usual\"\n@ガンバンテイン\n…………\n\n# voice 6002 \"ganbantein_0023\"\n@ガンバンテイン\n…え？\n\n@ガンバンテイン\n今…？\n\n@ガンバンテイン\n考え事だよ\n\n# eye %(unit_a)s \"close\"\n@ガンバンテイン\nなに考えてたかって…？\nえ～と…\n\n# eye %(unit_a)s \"normal\"\n# voice 6002 \"ganbantein_0002\"\n@ガンバンテイン\n…なんだっけ？\n\n@ガンバンテイン\nあ、クイズだ、クイズ\n\n@ガンバンテイン\n今からマスターに出す\nクイズを考えたんだよ～\n\n# voice 6002 \"ganbantein_0036\"\n# face %(unit_a)s \"smile\"\n@ガンバンテイン\nじゃあ、いくよ～？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nオーディンがあたしのキラーズ\n『ガンバンテイン』を貰った\nフレーバルズってどんな人なの？\n\n# se \"SE_0734\"\n# select \"巨人\" \"select_label_1\" \"小人\" \"select_label_2\" \"ドワーフ\" \"select_label_3\"\nオーディンがあたしのキラーズ\n『ガンバンテイン』を貰った\nフレーバルズってどんな人なの？\n"
+	},
+	{
+		"ID": 2105,
+		"unitID": 2600211,
+		"questionID": 9600205,
+		"script": ";;戦争と死の神,2\n# face %(unit_a)s \"usual\"\n@ガンバンテイン\n…………\n\n# voice 6002 \"ganbantein_0023\"\n@ガンバンテイン\n…え？\n\n@ガンバンテイン\n今…？\n\n@ガンバンテイン\n考え事だよ\n\n# eye %(unit_a)s \"close\"\n@ガンバンテイン\nなに考えてたかって…？\nえ～と…\n\n# eye %(unit_a)s \"normal\"\n# voice 6002 \"ganbantein_0002\"\n@ガンバンテイン\n…なんだっけ？\n\n@ガンバンテイン\nあ、クイズだ、クイズ\n\n@ガンバンテイン\n今からマスターに出す\nクイズを考えたんだよ～\n\n# voice 6002 \"ganbantein_0036\"\n# face %(unit_a)s \"smile\"\n@ガンバンテイン\nじゃあ、いくよ～？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしのキラーズ\n『ガンバンテイン』の持ち主\nオーディンってどんな神様～？\n\n# se \"SE_0734\"\n# select \"豊穣と実りの神\" \"select_label_1\" \"戦争と死の神\" \"select_label_2\" \"色欲とエロスの神\" \"select_label_3\"\nあたしのキラーズ\n『ガンバンテイン』の持ち主\nオーディンってどんな神様～？\n"
+	},
+	{
+		"ID": 2106,
+		"unitID": 2600211,
+		"questionID": 9600206,
+		"script": ";;北欧神話群,3\n# face %(unit_a)s \"usual\"\n@ガンバンテイン\n…………\n\n# voice 6002 \"ganbantein_0023\"\n@ガンバンテイン\n…え？\n\n@ガンバンテイン\n今…？\n\n@ガンバンテイン\n考え事だよ\n\n# eye %(unit_a)s \"close\"\n@ガンバンテイン\nなに考えてたかって…？\nえ～と…\n\n# eye %(unit_a)s \"normal\"\n# voice 6002 \"ganbantein_0002\"\n@ガンバンテイン\n…なんだっけ？\n\n@ガンバンテイン\nあ、クイズだ、クイズ\n\n@ガンバンテイン\n今からマスターに出す\nクイズを考えたんだよ～\n\n# voice 6002 \"ganbantein_0036\"\n# face %(unit_a)s \"smile\"\n@ガンバンテイン\nじゃあ、いくよ～？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしのキラーズ\n『ガンバンテイン』は\nどんな伝承に登場する～？\n\n# se \"SE_0734\"\n# select \"フィンランド神話群\" \"select_label_1\" \"ギリシア神話群\" \"select_label_2\" \"北欧神話群\" \"select_label_3\"\nあたしのキラーズ\n『ガンバンテイン』は\nどんな伝承に登場する～？\n"
+	},
+	{
+		"ID": 2107,
+		"unitID": 2600211,
+		"questionID": 9600207,
+		"script": ";;魔法の杖,1\n# face %(unit_a)s \"usual\"\n@ガンバンテイン\n…………\n\n# voice 6002 \"ganbantein_0023\"\n@ガンバンテイン\n…え？\n\n@ガンバンテイン\n今…？\n\n@ガンバンテイン\n考え事だよ\n\n# eye %(unit_a)s \"close\"\n@ガンバンテイン\nなに考えてたかって…？\nえ～と…\n\n# eye %(unit_a)s \"normal\"\n# voice 6002 \"ganbantein_0002\"\n@ガンバンテイン\n…なんだっけ？\n\n@ガンバンテイン\nあ、クイズだ、クイズ\n\n@ガンバンテイン\n今からマスターに出す\nクイズを考えたんだよ～\n\n# voice 6002 \"ganbantein_0036\"\n# face %(unit_a)s \"smile\"\n@ガンバンテイン\nじゃあ、いくよ～？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしのキラーズ\n『ガンバンテイン』の名前には\nどんな意味があるの～？\n\n# se \"SE_0734\"\n# select \"魔法の杖\" \"select_label_1\" \"魔法の剣\" \"select_label_2\" \"魔法の斧\" \"select_label_3\"\nあたしのキラーズ\n『ガンバンテイン』の名前には\nどんな意味があるの～？\n"
+	},
+	{
+		"ID": 2108,
+		"unitID": 2600211,
+		"questionID": 9600208,
+		"script": ";;魔法を無効化,2\n# face %(unit_a)s \"usual\"\n@ガンバンテイン\n…………\n\n# voice 6002 \"ganbantein_0023\"\n@ガンバンテイン\n…え？\n\n@ガンバンテイン\n今…？\n\n@ガンバンテイン\n考え事だよ\n\n# eye %(unit_a)s \"close\"\n@ガンバンテイン\nなに考えてたかって…？\nえ～と…\n\n# eye %(unit_a)s \"normal\"\n# voice 6002 \"ganbantein_0002\"\n@ガンバンテイン\n…なんだっけ？\n\n@ガンバンテイン\nあ、クイズだ、クイズ\n\n@ガンバンテイン\n今からマスターに出す\nクイズを考えたんだよ～\n\n# voice 6002 \"ganbantein_0036\"\n# face %(unit_a)s \"smile\"\n@ガンバンテイン\nじゃあ、いくよ～？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしのキラーズ\n『ガンバンテイン』には\nどんな力があるの～？\n\n# se \"SE_0734\"\n# select \"ネズミを操る\" \"select_label_1\" \"魔法を無効化\" \"select_label_2\" \"野菜を漬物にする\" \"select_label_3\"\nあたしのキラーズ\n『ガンバンテイン』には\nどんな力があるの～？\n"
+	},
+	{
+		"ID": 2109,
+		"unitID": 2600211,
+		"questionID": 9600209,
+		"script": ";;ヘルモーズ,3\n# face %(unit_a)s \"usual\"\n@ガンバンテイン\n…………\n\n# voice 6002 \"ganbantein_0023\"\n@ガンバンテイン\n…え？\n\n@ガンバンテイン\n今…？\n\n@ガンバンテイン\n考え事だよ\n\n# eye %(unit_a)s \"close\"\n@ガンバンテイン\nなに考えてたかって…？\nえ～と…\n\n# eye %(unit_a)s \"normal\"\n# voice 6002 \"ganbantein_0002\"\n@ガンバンテイン\n…なんだっけ？\n\n@ガンバンテイン\nあ、クイズだ、クイズ\n\n@ガンバンテイン\n今からマスターに出す\nクイズを考えたんだよ～\n\n# voice 6002 \"ganbantein_0036\"\n# face %(unit_a)s \"smile\"\n@ガンバンテイン\nじゃあ、いくよ～？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしのキラーズ\n『ガンバンテイン』はオーディンから\nとある人に渡されたんだ～\n\n# se \"SE_0734\"\n# select \"ヘルメース\" \"select_label_1\" \"オティヌス\" \"select_label_2\" \"ヘルモーズ\" \"select_label_3\"\nあたしのキラーズ\n『ガンバンテイン』はオーディンから\nとある人に渡されたんだ～\n"
+	},
+	{
+		"ID": 2110,
+		"unitID": 2600211,
+		"questionID": 9600210,
+		"script": ";;スキールニル,1\n# face %(unit_a)s \"usual\"\n@ガンバンテイン\n…………\n\n# voice 6002 \"ganbantein_0023\"\n@ガンバンテイン\n…え？\n\n@ガンバンテイン\n今…？\n\n@ガンバンテイン\n考え事だよ\n\n# eye %(unit_a)s \"close\"\n@ガンバンテイン\nなに考えてたかって…？\nえ～と…\n\n# eye %(unit_a)s \"normal\"\n# voice 6002 \"ganbantein_0002\"\n@ガンバンテイン\n…なんだっけ？\n\n@ガンバンテイン\nあ、クイズだ、クイズ\n\n@ガンバンテイン\n今からマスターに出す\nクイズを考えたんだよ～\n\n# voice 6002 \"ganbantein_0036\"\n# face %(unit_a)s \"smile\"\n@ガンバンテイン\nじゃあ、いくよ～？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしのキラーズ\n『ガンバンテイン』はオーディンと\nほかに誰が使ったんだっけ～？\n\n# se \"SE_0734\"\n# select \"スキールニル\" \"select_label_1\" \"スモークニル\" \"select_label_2\" \"ステーキニル\" \"select_label_3\"\nあたしのキラーズ\n『ガンバンテイン』はオーディンと\nほかに誰が使ったんだっけ～？\n"
+	},
+	{
+		"ID": 2111,
+		"unitID": 2600211,
+		"questionID": 9600211,
+		"script": ";; 風,1\n# voice 6002 \"ganbantein_0001\"\n# face %(unit_a)s \"usual\"\n@ガンバンテイン\nねぇ、マスタ～\n\n# voice 6002 \"ganbantein_0003\"\n@ガンバンテイン\n今から問題出してあげよっか？\n\n@ガンバンテイン\nなんのって…\nガンバンテインの問題だよ～\n\n@ガンバンテイン\nなんでって…\n\n# face %(unit_a)s \"smile\"\n@ガンバンテイン\nマスターはあたしのこと、\nどれだけ分かってるか知りたいから\n\n# voice 6002 \"ganbantein_0036\"\n@ガンバンテイン\nじゃあ、いくよ～\n問題～！第１問～！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしの属性は知ってる～？\n\n# se \"SE_0734\"\n# select \"風\" \"select_label_1\" \"炎\" \"select_label_2\" \"雷\" \"select_label_3\"\nあたしの属性は知ってる～？\n"
+	},
+	{
+		"ID": 2112,
+		"unitID": 2600211,
+		"questionID": 9600212,
+		"script": ";;148cm,2\n# voice 6002 \"ganbantein_0001\"\n# face %(unit_a)s \"usual\"\n@ガンバンテイン\nねぇ、マスタ～\n\n# voice 6002 \"ganbantein_0003\"\n@ガンバンテイン\n今から問題出してあげよっか？\n\n@ガンバンテイン\nなんのって…\nガンバンテインの問題だよ～\n\n@ガンバンテイン\nなんでって…\n\n# face %(unit_a)s \"smile\"\n@ガンバンテイン\nマスターはあたしのこと、\nどれだけ分かってるか知りたいから\n\n# voice 6002 \"ganbantein_0036\"\n@ガンバンテイン\nじゃあ、いくよ～\n問題～！第１問～！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしの身長、わかる～？\n\n# se \"SE_0734\"\n# select \"160cm\" \"select_label_1\" \"148cm\" \"select_label_2\" \"172cm\" \"select_label_3\"\nあたしの身長、わかる～？\n"
+	},
+	{
+		"ID": 2113,
+		"unitID": 2600211,
+		"questionID": 9600213,
+		"script": ";;9月18日,3\n# voice 6002 \"ganbantein_0001\"\n# face %(unit_a)s \"usual\"\n@ガンバンテイン\nねぇ、マスタ～\n\n# voice 6002 \"ganbantein_0003\"\n@ガンバンテイン\n今から問題出してあげよっか？\n\n@ガンバンテイン\nなんのって…\nガンバンテインの問題だよ～\n\n@ガンバンテイン\nなんでって…\n\n# face %(unit_a)s \"smile\"\n@ガンバンテイン\nマスターはあたしのこと、\nどれだけ分かってるか知りたいから\n\n# voice 6002 \"ganbantein_0036\"\n@ガンバンテイン\nじゃあ、いくよ～\n問題～！第１問～！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしの誕生日…\n知っててほしいなぁ～\n\n# se \"SE_0734\"\n# select \"7月18日\" \"select_label_1\" \"11月18日\" \"select_label_2\" \"9月18日\" \"select_label_3\"\nあたしの誕生日…\n知っててほしいなぁ～\n"
+	},
+	{
+		"ID": 2114,
+		"unitID": 2600211,
+		"questionID": 9600214,
+		"script": ";;おとめ座,1\n# voice 6002 \"ganbantein_0001\"\n# face %(unit_a)s \"usual\"\n@ガンバンテイン\nねぇ、マスタ～\n\n# voice 6002 \"ganbantein_0003\"\n@ガンバンテイン\n今から問題出してあげよっか？\n\n@ガンバンテイン\nなんのって…\nガンバンテインの問題だよ～\n\n@ガンバンテイン\nなんでって…\n\n# face %(unit_a)s \"smile\"\n@ガンバンテイン\nマスターはあたしのこと、\nどれだけ分かってるか知りたいから\n\n# voice 6002 \"ganbantein_0036\"\n@ガンバンテイン\nじゃあ、いくよ～\n問題～！第１問～！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしの星座はわかる～？\n\n# se \"SE_0734\"\n# select \"おとめ座\" \"select_label_1\" \"てんびん座\" \"select_label_2\" \"うお座\" \"select_label_3\"\nあたしの星座はわかる～？\n"
+	},
+	{
+		"ID": 2115,
+		"unitID": 2600211,
+		"questionID": 9600215,
+		"script": ";;大きいもの,2\n# voice 6002 \"ganbantein_0001\"\n# face %(unit_a)s \"usual\"\n@ガンバンテイン\nねぇ、マスタ～\n\n# voice 6002 \"ganbantein_0003\"\n@ガンバンテイン\n今から問題出してあげよっか？\n\n@ガンバンテイン\nなんのって…\nガンバンテインの問題だよ～\n\n@ガンバンテイン\nなんでって…\n\n# face %(unit_a)s \"smile\"\n@ガンバンテイン\nマスターはあたしのこと、\nどれだけ分かってるか知りたいから\n\n# voice 6002 \"ganbantein_0036\"\n@ガンバンテイン\nじゃあ、いくよ～\n問題～！第１問～！\n;;---------------------------------\n\n@%(unitName:unit_a)s\n あたしが好きなものはね～…\n\n# se \"SE_0734\"\n# select \"小さいもの\" \"select_label_1\" \"大きいもの\" \"select_label_2\" \"ひらべったいもの\" \"select_label_3\"\n あたしが好きなものはね～…\n"
+	},
+	{
+		"ID": 2116,
+		"unitID": 2600211,
+		"questionID": 9600216,
+		"script": ";;マイペース,3\n# voice 6002 \"ganbantein_0001\"\n# face %(unit_a)s \"usual\"\n@ガンバンテイン\nねぇ、マスタ～\n\n# voice 6002 \"ganbantein_0003\"\n@ガンバンテイン\n今から問題出してあげよっか？\n\n@ガンバンテイン\nなんのって…\nガンバンテインの問題だよ～\n\n@ガンバンテイン\nなんでって…\n\n# face %(unit_a)s \"smile\"\n@ガンバンテイン\nマスターはあたしのこと、\nどれだけ分かってるか知りたいから\n\n# voice 6002 \"ganbantein_0036\"\n@ガンバンテイン\nじゃあ、いくよ～\n問題～！第１問～！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたし、こうだって\nよく言われるかもぉ～\n\n# se \"SE_0734\"\n# select \"ハイテンション\" \"select_label_1\" \"ハイペース\" \"select_label_2\" \"マイペース\" \"select_label_3\"\nあたし、こうだって\nよく言われるかもぉ～\n"
+	},
+	{
+		"ID": 2117,
+		"unitID": 2600211,
+		"questionID": 9600217,
+		"script": ";;O型,1\n# voice 6002 \"ganbantein_0001\"\n# face %(unit_a)s \"usual\"\n@ガンバンテイン\nねぇ、マスタ～\n\n# voice 6002 \"ganbantein_0003\"\n@ガンバンテイン\n今から問題出してあげよっか？\n\n@ガンバンテイン\nなんのって…\nガンバンテインの問題だよ～\n\n@ガンバンテイン\nなんでって…\n\n# face %(unit_a)s \"smile\"\n@ガンバンテイン\nマスターはあたしのこと、\nどれだけ分かってるか知りたいから\n\n# voice 6002 \"ganbantein_0036\"\n@ガンバンテイン\nじゃあ、いくよ～\n問題～！第１問～！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしの血液型、わかる～？\n\n# se \"SE_0734\"\n# select \"O型\" \"select_label_1\" \"A型\" \"select_label_2\" \"B型\" \"select_label_3\"\nあたしの血液型、わかる～？\n"
+	},
+	{
+		"ID": 2118,
+		"unitID": 2600211,
+		"questionID": 9600218,
+		"script": ";;アスガルズ,2\n# voice 6002 \"ganbantein_0001\"\n# face %(unit_a)s \"usual\"\n@ガンバンテイン\nねぇ、マスタ～\n\n# voice 6002 \"ganbantein_0003\"\n@ガンバンテイン\n今から問題出してあげよっか？\n\n@ガンバンテイン\nなんのって…\nガンバンテインの問題だよ～\n\n@ガンバンテイン\nなんでって…\n\n# face %(unit_a)s \"smile\"\n@ガンバンテイン\nマスターはあたしのこと、\nどれだけ分かってるか知りたいから\n\n# voice 6002 \"ganbantein_0036\"\n@ガンバンテイン\nじゃあ、いくよ～\n問題～！第１問～！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしの出身地、わかる～？\n\n# se \"SE_0734\"\n# select \"ローマ\" \"select_label_1\" \"アスガルズ\" \"select_label_2\" \"西の都\" \"select_label_3\"\nあたしの出身地、わかる～？\n"
+	},
+	{
+		"ID": 2119,
+		"unitID": 2600211,
+		"questionID": 9600219,
+		"script": ";;ぼーっとする,3\n# voice 6002 \"ganbantein_0001\"\n# face %(unit_a)s \"usual\"\n@ガンバンテイン\nねぇ、マスタ～\n\n# voice 6002 \"ganbantein_0003\"\n@ガンバンテイン\n今から問題出してあげよっか？\n\n@ガンバンテイン\nなんのって…\nガンバンテインの問題だよ～\n\n@ガンバンテイン\nなんでって…\n\n# face %(unit_a)s \"smile\"\n@ガンバンテイン\nマスターはあたしのこと、\nどれだけ分かってるか知りたいから\n\n# voice 6002 \"ganbantein_0036\"\n@ガンバンテイン\nじゃあ、いくよ～\n問題～！第１問～！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしの趣味はどれかわかるかな～？\n\n# se \"SE_0734\"\n# select \"ブランコ\" \"select_label_1\" \"勉強\" \"select_label_2\" \"ぼーっとする\" \"select_label_3\"\nあたしの趣味はどれかわかるかな～？\n"
+	},
+	{
+		"ID": 2120,
+		"unitID": 2600211,
+		"questionID": 9600220,
+		"script": ";;マスターの隣,1\n# voice 6002 \"ganbantein_0001\"\n# face %(unit_a)s \"usual\"\n@ガンバンテイン\nねぇ、マスタ～\n\n# voice 6002 \"ganbantein_0003\"\n@ガンバンテイン\n今から問題出してあげよっか？\n\n@ガンバンテイン\nなんのって…\nガンバンテインの問題だよ～\n\n@ガンバンテイン\nなんでって…\n\n# face %(unit_a)s \"smile\"\n@ガンバンテイン\nマスターはあたしのこと、\nどれだけ分かってるか知りたいから\n\n# voice 6002 \"ganbantein_0036\"\n@ガンバンテイン\nじゃあ、いくよ～\n問題～！第１問～！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしが\n１番ぼーっとできる場所はねぇ… \n\n# se \"SE_0734\"\n# select \"マスターの隣\" \"select_label_1\" \"桜の下\" \"select_label_2\" \"山の頂上\" \"select_label_3\"\nあたしが\n１番ぼーっとできる場所はねぇ… \n"
+	},
+	{
+		"ID": 2121,
+		"unitID": 2600211,
+		"questionID": 9600221,
+		"script": ";;魔弾の呼吸,1\n# voice 6002 \"ganbantein_0001\"\n# face %(unit_a)s \"usual\"\n@ガンバンテイン\nねぇ、マスタ～\n\n# voice 6002 \"ganbantein_0004\"\n# face %(unit_a)s \"smile\"\n@ガンバンテイン\nデート、楽しかったね～\n\n@ガンバンテイン\nそうだ\n楽しいと言えば～\nクイズも楽しいよね\n\n# voice 6002 \"ganbantein_0005\"\n@ガンバンテイン\n今からマスターに\nクイズ出しちゃお\n\n# voice 6002 \"ganbantein_0036\"\n@ガンバンテイン\nしっかり答えてね～！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nハロウィンバージョンの\nあたしが覚えるスキルで…\nあれ…？なんだっけ？\n\n# se \"SE_0734\"\n# select \"魔弾の呼吸\" \"select_label_1\" \"魔弾の咆哮\" \"select_label_2\" \"魔弾の追求\" \"select_label_3\"\nハロウィンバージョンの\nあたしが覚えるスキルで…\nあれ…？なんだっけ？\n"
+	},
+	{
+		"ID": 2122,
+		"unitID": 2600211,
+		"questionID": 9600222,
+		"script": ";;杖皇,2\n# voice 6002 \"ganbantein_0001\"\n# face %(unit_a)s \"usual\"\n@ガンバンテイン\nねぇ、マスタ～\n\n# voice 6002 \"ganbantein_0004\"\n# face %(unit_a)s \"smile\"\n@ガンバンテイン\nデート、楽しかったね～\n\n@ガンバンテイン\nそうだ\n楽しいと言えば～\nクイズも楽しいよね\n\n# voice 6002 \"ganbantein_0005\"\n@ガンバンテイン\n今からマスターに\nクイズ出しちゃお\n\n# voice 6002 \"ganbantein_0036\"\n@ガンバンテイン\nしっかり答えてね～！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしのハロウィンバージョンの\n☆６のジョブ名、わかる～？\n\n# se \"SE_0734\"\n# select \"騎杖皇\" \"select_label_1\" \"杖皇\" \"select_label_2\" \"騎杖姫\" \"select_label_3\"\nあたしのハロウィンバージョンの\n☆６のジョブ名、わかる～？\n"
+	},
+	{
+		"ID": 2123,
+		"unitID": 2600211,
+		"questionID": 9600223,
+		"script": ";;浄毒の心得,3\n# voice 6002 \"ganbantein_0001\"\n# face %(unit_a)s \"usual\"\n@ガンバンテイン\nねぇ、マスタ～\n\n# voice 6002 \"ganbantein_0004\"\n# face %(unit_a)s \"smile\"\n@ガンバンテイン\nデート、楽しかったね～\n\n@ガンバンテイン\nそうだ\n楽しいと言えば～\nクイズも楽しいよね\n\n# voice 6002 \"ganbantein_0005\"\n@ガンバンテイン\n今からマスターに\nクイズ出しちゃお\n\n# voice 6002 \"ganbantein_0036\"\n@ガンバンテイン\nしっかり答えてね～！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nハロウィンバージョンのあたしが\n覚えるスキルで…\nあれ…？なんだっけ？\n\n# se \"SE_0734\"\n# select \"毒毒の心得\" \"select_label_1\" \"毒舌の心得\" \"select_label_2\" \"浄毒の心得\" \"select_label_3\"\nハロウィンバージョンのあたしが\n覚えるスキルで…\nあれ…？なんだっけ？\n"
+	},
+	{
+		"ID": 2124,
+		"unitID": 2600211,
+		"questionID": 9600224,
+		"script": ";;神官の覇気,1\n# voice 6002 \"ganbantein_0001\"\n# face %(unit_a)s \"usual\"\n@ガンバンテイン\nねぇ、マスタ～\n\n# voice 6002 \"ganbantein_0004\"\n# face %(unit_a)s \"smile\"\n@ガンバンテイン\nデート、楽しかったね～\n\n@ガンバンテイン\nそうだ\n楽しいと言えば～\nクイズも楽しいよね\n\n# voice 6002 \"ganbantein_0005\"\n@ガンバンテイン\n今からマスターに\nクイズ出しちゃお\n\n# voice 6002 \"ganbantein_0036\"\n@ガンバンテイン\nしっかり答えてね～！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしのハロウィンバージョン\n☆６のリーダースキルって\nわかる～？\n\n# se \"SE_0734\"\n# select \"風杖神の魔煙\" \"select_label_1\" \"神官の怒気\" \"select_label_2\" \"神官の霊気\" \"select_label_3\"\nあたしのハロウィンバージョン\n☆６のリーダースキルって\nわかる～？\n"
+	},
+	{
+		"ID": 2125,
+		"unitID": 2600211,
+		"questionID": 9600225,
+		"script": ";;グングニル,2\n# voice 6002 \"ganbantein_0001\"\n# face %(unit_a)s \"usual\"\n@ガンバンテイン\nねぇ、マスタ～\n\n# voice 6002 \"ganbantein_0004\"\n# face %(unit_a)s \"smile\"\n@ガンバンテイン\nデート、楽しかったね～\n\n@ガンバンテイン\nそうだ\n楽しいと言えば～\nクイズも楽しいよね\n\n# voice 6002 \"ganbantein_0005\"\n@ガンバンテイン\n今からマスターに\nクイズ出しちゃお\n\n# voice 6002 \"ganbantein_0036\"\n@ガンバンテイン\nしっかり答えてね～！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nガンバンテインはこの子と\n仲がいいんだって～\nあ、ガンバンテインってあたしか\n\n# se \"SE_0734\"\n# select \"マサムネ\" \"select_label_1\" \"グングニル\" \"select_label_2\" \"アスカロン\" \"select_label_3\"\nガンバンテインはこの子と\n仲がいいんだって～\nあ、ガンバンテインってあたしか\n"
+	},
+	{
+		"ID": 2126,
+		"unitID": 2600211,
+		"questionID": 9600226,
+		"script": ";;はろうぃ～ん・まいんど,3\n# voice 6002 \"ganbantein_0001\"\n# face %(unit_a)s \"usual\"\n@ガンバンテイン\nねぇ、マスタ～\n\n# voice 6002 \"ganbantein_0004\"\n# face %(unit_a)s \"smile\"\n@ガンバンテイン\nデート、楽しかったね～\n\n@ガンバンテイン\nそうだ\n楽しいと言えば～\nクイズも楽しいよね\n\n# voice 6002 \"ganbantein_0005\"\n@ガンバンテイン\n今からマスターに\nクイズ出しちゃお\n\n# voice 6002 \"ganbantein_0036\"\n@ガンバンテイン\nしっかり答えてね～！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nハロウィンバージョンの\nあたしが覚えるスキルで…\nあれ…？なんだっけ？\n\n# se \"SE_0734\"\n# select \"はろうぃ～ん・ういんど\" \"select_label_1\" \"はろうぃ～ん・すたいる\" \"select_label_2\" \"はろうぃ～ん・まいんど\" \"select_label_3\"\nハロウィンバージョンの\nあたしが覚えるスキルで…\nあれ…？なんだっけ？\n"
+	},
+	{
+		"ID": 2127,
+		"unitID": 2600211,
+		"questionID": 9600227,
+		"script": ";;野犬,1\n# voice 6002 \"ganbantein_0001\"\n# face %(unit_a)s \"usual\"\n@ガンバンテイン\nねぇ、マスタ～\n\n# voice 6002 \"ganbantein_0004\"\n# face %(unit_a)s \"smile\"\n@ガンバンテイン\nデート、楽しかったね～\n\n@ガンバンテイン\nそうだ\n楽しいと言えば～\nクイズも楽しいよね\n\n# voice 6002 \"ganbantein_0005\"\n@ガンバンテイン\n今からマスターに\nクイズ出しちゃお\n\n# voice 6002 \"ganbantein_0036\"\n@ガンバンテイン\nしっかり答えてね～！\n;;---------------------------------\n\n@%(unitName:unit_a)s\n「ラヴィングガード」を覚えた時に\n襲われた動物ってなんだっけ？\n\n# se \"SE_0734\"\n# select \"野犬\" \"select_label_1\" \"野兎\" \"select_label_2\" \"野郎\" \"select_label_3\"\n「ラヴィングガード」を覚えた時に\n襲われた動物ってなんだっけ？\n"
+	},
+	{
+		"ID": 2128,
+		"unitID": 2600211,
+		"questionID": 9600228,
+		"script": ";;シェアハピガード,2\n# voice 6002 \"ganbantein_0001\"\n# face %(unit_a)s \"usual\"\n@ガンバンテイン\nねぇ、マスタ～\n\n# voice 6002 \"ganbantein_0004\"\n# face %(unit_a)s \"smile\"\n@ガンバンテイン\nデート、楽しかったね～\n\n@ガンバンテイン\nそうだ\n楽しいと言えば～\nクイズも楽しいよね\n\n# voice 6002 \"ganbantein_0005\"\n@ガンバンテイン\n今からマスターに\nクイズ出しちゃお\n\n# voice 6002 \"ganbantein_0036\"\n@ガンバンテイン\nしっかり答えてね～！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしが習得したスキルを\n覚えてる～？\n\n# se \"SE_0734\"\n# select \"シェアハウス\" \"select_label_1\" \"シェアハピガード\" \"select_label_2\" \"シェアカレシ\" \"select_label_3\"\nあたしが習得したスキルを\n覚えてる～？\n"
+	},
+	{
+		"ID": 2129,
+		"unitID": 2600211,
+		"questionID": 9600229,
+		"script": ";;ラヴィングガード,3\n# voice 6002 \"ganbantein_0001\"\n# face %(unit_a)s \"usual\"\n@ガンバンテイン\nねぇ、マスタ～\n\n# voice 6002 \"ganbantein_0004\"\n# face %(unit_a)s \"smile\"\n@ガンバンテイン\nデート、楽しかったね～\n\n@ガンバンテイン\nそうだ\n楽しいと言えば～\nクイズも楽しいよね\n\n# voice 6002 \"ganbantein_0005\"\n@ガンバンテイン\n今からマスターに\nクイズ出しちゃお\n\n# voice 6002 \"ganbantein_0036\"\n@ガンバンテイン\nしっかり答えてね～！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしが習得したスキルを\n覚えてる～？\n\n# se \"SE_0734\"\n# select \"ラヴィングパンチ\" \"select_label_1\" \"ラヴィングキック\" \"select_label_2\" \"ラヴィングガード\" \"select_label_3\"\nあたしが習得したスキルを\n覚えてる～？\n"
+	},
+	{
+		"ID": 2130,
+		"unitID": 2600211,
+		"questionID": 9600230,
+		"script": ";;パンプキンガード,1\n# voice 6002 \"ganbantein_0001\"\n# face %(unit_a)s \"usual\"\n@ガンバンテイン\nねぇ、マスタ～\n\n# voice 6002 \"ganbantein_0004\"\n# face %(unit_a)s \"smile\"\n@ガンバンテイン\nデート、楽しかったね～\n\n@ガンバンテイン\nそうだ\n楽しいと言えば～\nクイズも楽しいよね\n\n# voice 6002 \"ganbantein_0005\"\n@ガンバンテイン\n今からマスターに\nクイズ出しちゃお\n\n# voice 6002 \"ganbantein_0036\"\n@ガンバンテイン\nしっかり答えてね～！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nハロウィンバージョンのあたしが\n覚えるスキルで…\nあれ…？なんだっけ？\n\n# se \"SE_0734\"\n# select \"パンプキンガード\" \"select_label_1\" \"パンプキンシチュー\" \"select_label_2\" \"パンプキンパイ\" \"select_label_3\"\nハロウィンバージョンのあたしが\n覚えるスキルで…\nあれ…？なんだっけ？\n"
+	},
+	{
+		"ID": 2131,
+		"unitID": 2600211,
+		"questionID": 9600231,
+		"script": ";;人見知りしない,1\n# voice 6002 \"ganbantein_0028\"\n# face %(unit_a)s \"usual\"\n@ガンバンテイン\n…なんだろう？\n\n# face %(unit_a)s \"smile\"\n@ガンバンテイン\nマスターのそばにいると、\nすぐぼーっとしちゃうんだなぁ～\n\n# face %(unit_a)s \"smile\"\n@ガンバンテイン\nえ？いつも？\n\n@ガンバンテイン\nそうだけど…\n\n# voice 6002 \"ganbantein_0003\"\n@ガンバンテイン\nあ、ぼーっとしないように\nクイズしよう、クイズ\n\n# face %(unit_a)s \"smile\"\n# voice 6002 \"ganbantein_0036\"\n@ガンバンテイン\nあたし問題考えるから\nマスター答えてね？\n\n@ガンバンテイン\nじゃあいくよ～？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしの性格はぁ…\nうーんとね…\n\n# se \"SE_0734\"\n# select \"人見知りしない\" \"select_label_1\" \"人見知りしちゃう\" \"select_label_2\" \"人を見下しちゃう\" \"select_label_3\"\nあたしの性格はぁ…\nうーんとね…\n"
+	},
+	{
+		"ID": 2132,
+		"unitID": 2600211,
+		"questionID": 9600232,
+		"script": ";;Virgo,2\n# voice 6002 \"ganbantein_0028\"\n# face %(unit_a)s \"usual\"\n@ガンバンテイン\n…なんだろう？\n\n# face %(unit_a)s \"smile\"\n@ガンバンテイン\nマスターのそばにいると、\nすぐぼーっとしちゃうんだなぁ～\n\n# face %(unit_a)s \"smile\"\n@ガンバンテイン\nえ？いつも？\n\n@ガンバンテイン\nそうだけど…\n\n# voice 6002 \"ganbantein_0003\"\n@ガンバンテイン\nあ、ぼーっとしないように\nクイズしよう、クイズ\n\n# face %(unit_a)s \"smile\"\n# voice 6002 \"ganbantein_0036\"\n@ガンバンテイン\nあたし問題考えるから\nマスター答えてね？\n\n@ガンバンテイン\nじゃあいくよ～？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしの星座を\n英語で言うとなーんだ？\n\n# se \"SE_0734\"\n# select \"Sagittarius\" \"select_label_1\" \"Virgo\" \"select_label_2\" \"Scorpio\" \"select_label_3\"\nあたしの星座を\n英語で言うとなーんだ？\n"
+	},
+	{
+		"ID": 2133,
+		"unitID": 2600211,
+		"questionID": 9600233,
+		"script": ";;September,3\n# voice 6002 \"ganbantein_0028\"\n# face %(unit_a)s \"usual\"\n@ガンバンテイン\n…なんだろう？\n\n# face %(unit_a)s \"smile\"\n@ガンバンテイン\nマスターのそばにいると、\nすぐぼーっとしちゃうんだなぁ～\n\n# face %(unit_a)s \"smile\"\n@ガンバンテイン\nえ？いつも？\n\n@ガンバンテイン\nそうだけど…\n\n# voice 6002 \"ganbantein_0003\"\n@ガンバンテイン\nあ、ぼーっとしないように\nクイズしよう、クイズ\n\n# face %(unit_a)s \"smile\"\n# voice 6002 \"ganbantein_0036\"\n@ガンバンテイン\nあたし問題考えるから\nマスター答えてね？\n\n@ガンバンテイン\nじゃあいくよ～？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしの誕生月を\n英語で言うとなーんだ？\n\n# se \"SE_0734\"\n# select \"December\" \"select_label_1\" \"November\" \"select_label_2\" \"September\" \"select_label_3\"\nあたしの誕生月を\n英語で言うとなーんだ？\n"
+	},
+	{
+		"ID": 2134,
+		"unitID": 2600211,
+		"questionID": 9600234,
+		"script": ";;黒色,1\n# voice 6002 \"ganbantein_0028\"\n# face %(unit_a)s \"usual\"\n@ガンバンテイン\n…なんだろう？\n\n# face %(unit_a)s \"smile\"\n@ガンバンテイン\nマスターのそばにいると、\nすぐぼーっとしちゃうんだなぁ～\n\n# face %(unit_a)s \"smile\"\n@ガンバンテイン\nえ？いつも？\n\n@ガンバンテイン\nそうだけど…\n\n# voice 6002 \"ganbantein_0003\"\n@ガンバンテイン\nあ、ぼーっとしないように\nクイズしよう、クイズ\n\n# face %(unit_a)s \"smile\"\n# voice 6002 \"ganbantein_0036\"\n@ガンバンテイン\nあたし問題考えるから\nマスター答えてね？\n\n@ガンバンテイン\nじゃあいくよ～？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしの瞳の色は\n何色かな～？\n\n# se \"SE_0734\"\n# select \"黒色\" \"select_label_1\" \"黄色\" \"select_label_2\" \"赤色\" \"select_label_3\"\nあたしの瞳の色は\n何色かな～？\n"
+	},
+	{
+		"ID": 2135,
+		"unitID": 2600211,
+		"questionID": 9600235,
+		"script": ";;茶色,2\n# voice 6002 \"ganbantein_0028\"\n# face %(unit_a)s \"usual\"\n@ガンバンテイン\n…なんだろう？\n\n# face %(unit_a)s \"smile\"\n@ガンバンテイン\nマスターのそばにいると、\nすぐぼーっとしちゃうんだなぁ～\n\n# face %(unit_a)s \"smile\"\n@ガンバンテイン\nえ？いつも？\n\n@ガンバンテイン\nそうだけど…\n\n# voice 6002 \"ganbantein_0003\"\n@ガンバンテイン\nあ、ぼーっとしないように\nクイズしよう、クイズ\n\n# face %(unit_a)s \"smile\"\n# voice 6002 \"ganbantein_0036\"\n@ガンバンテイン\nあたし問題考えるから\nマスター答えてね？\n\n@ガンバンテイン\nじゃあいくよ～？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしの髪の色を\n答えてくれる～？\n\n# se \"SE_0734\"\n# select \"黒色\" \"select_label_1\" \"茶色\" \"select_label_2\" \"水色\" \"select_label_3\"\nあたしの髪の色を\n答えてくれる～？\n"
+	},
+	{
+		"ID": 2136,
+		"unitID": 2600211,
+		"questionID": 9600236,
+		"script": ";;3個,3\n# voice 6002 \"ganbantein_0028\"\n# face %(unit_a)s \"usual\"\n@ガンバンテイン\n…なんだろう？\n\n# face %(unit_a)s \"smile\"\n@ガンバンテイン\nマスターのそばにいると、\nすぐぼーっとしちゃうんだなぁ～\n\n# face %(unit_a)s \"smile\"\n@ガンバンテイン\nえ？いつも？\n\n@ガンバンテイン\nそうだけど…\n\n# voice 6002 \"ganbantein_0003\"\n@ガンバンテイン\nあ、ぼーっとしないように\nクイズしよう、クイズ\n\n# face %(unit_a)s \"smile\"\n# voice 6002 \"ganbantein_0036\"\n@ガンバンテイン\nあたし問題考えるから\nマスター答えてね？\n\n@ガンバンテイン\nじゃあいくよ～？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしの名前には\n「ン」が何個入ってるでしょ～？\n\n# se \"SE_0734\"\n# select \"2個\" \"select_label_1\" \"4個\" \"select_label_2\" \"3個\" \"select_label_3\"\nあたしの名前には\n「ン」が何個入ってるでしょ～？\n"
+	},
+	{
+		"ID": 2137,
+		"unitID": 2600211,
+		"questionID": 9600237,
+		"script": ";;オティヌス,1\n# voice 6002 \"ganbantein_0028\"\n# face %(unit_a)s \"usual\"\n@ガンバンテイン\n…なんだろう？\n\n# face %(unit_a)s \"smile\"\n@ガンバンテイン\nマスターのそばにいると、\nすぐぼーっとしちゃうんだなぁ～\n\n# face %(unit_a)s \"smile\"\n@ガンバンテイン\nえ？いつも？\n\n@ガンバンテイン\nそうだけど…\n\n# voice 6002 \"ganbantein_0003\"\n@ガンバンテイン\nあ、ぼーっとしないように\nクイズしよう、クイズ\n\n# face %(unit_a)s \"smile\"\n# voice 6002 \"ganbantein_0036\"\n@ガンバンテイン\nあたし問題考えるから\nマスター答えてね？\n\n@ガンバンテイン\nじゃあいくよ～？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしと同じ誕生日の\n姫ってだーれだ？ \n\n# se \"SE_0734\"\n# select \"オティヌス\" \"select_label_1\" \"エロース\" \"select_label_2\" \"ウコンバサラ\" \"select_label_3\"\nあたしと同じ誕生日の\n姫ってだーれだ？ \n"
+	},
+	{
+		"ID": 2138,
+		"unitID": 2600211,
+		"questionID": 9600238,
+		"script": ";;エロース,2\n# voice 6002 \"ganbantein_0028\"\n# face %(unit_a)s \"usual\"\n@ガンバンテイン\n…なんだろう？\n\n# face %(unit_a)s \"smile\"\n@ガンバンテイン\nマスターのそばにいると、\nすぐぼーっとしちゃうんだなぁ～\n\n# face %(unit_a)s \"smile\"\n@ガンバンテイン\nえ？いつも？\n\n@ガンバンテイン\nそうだけど…\n\n# voice 6002 \"ganbantein_0003\"\n@ガンバンテイン\nあ、ぼーっとしないように\nクイズしよう、クイズ\n\n# face %(unit_a)s \"smile\"\n# voice 6002 \"ganbantein_0036\"\n@ガンバンテイン\nあたし問題考えるから\nマスター答えてね？\n\n@ガンバンテイン\nじゃあいくよ～？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしと同じ血液型なのは\nだーれだ？\n\n# se \"SE_0734\"\n# select \"アスクレピオス\" \"select_label_1\" \"エロース\" \"select_label_2\" \"ロンギヌス\" \"select_label_3\"\nあたしと同じ血液型なのは\nだーれだ？\n"
+	},
+	{
+		"ID": 2139,
+		"unitID": 2600211,
+		"questionID": 9600239,
+		"script": ";;アスクレピオス,3\n# voice 6002 \"ganbantein_0028\"\n# face %(unit_a)s \"usual\"\n@ガンバンテイン\n…なんだろう？\n\n# face %(unit_a)s \"smile\"\n@ガンバンテイン\nマスターのそばにいると、\nすぐぼーっとしちゃうんだなぁ～\n\n# face %(unit_a)s \"smile\"\n@ガンバンテイン\nえ？いつも？\n\n@ガンバンテイン\nそうだけど…\n\n# voice 6002 \"ganbantein_0003\"\n@ガンバンテイン\nあ、ぼーっとしないように\nクイズしよう、クイズ\n\n# face %(unit_a)s \"smile\"\n# voice 6002 \"ganbantein_0036\"\n@ガンバンテイン\nあたし問題考えるから\nマスター答えてね？\n\n@ガンバンテイン\nじゃあいくよ～？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしと違う血液型なのは\n誰かわかる～？\n\n# se \"SE_0734\"\n# select \"ヴァジュラ\" \"select_label_1\" \"エロース\" \"select_label_2\" \"アスクレピオス\" \"select_label_3\"\nあたしと違う血液型なのは\n誰かわかる～？\n"
+	},
+	{
+		"ID": 2140,
+		"unitID": 2600211,
+		"questionID": 9600240,
+		"script": ";;グングニル,1\n# voice 6002 \"ganbantein_0028\"\n# face %(unit_a)s \"usual\"\n@ガンバンテイン\n…なんだろう？\n\n# face %(unit_a)s \"smile\"\n@ガンバンテイン\nマスターのそばにいると、\nすぐぼーっとしちゃうんだなぁ～\n\n# face %(unit_a)s \"smile\"\n@ガンバンテイン\nえ？いつも？\n\n@ガンバンテイン\nそうだけど…\n\n# voice 6002 \"ganbantein_0003\"\n@ガンバンテイン\nあ、ぼーっとしないように\nクイズしよう、クイズ\n\n# face %(unit_a)s \"smile\"\n# voice 6002 \"ganbantein_0036\"\n@ガンバンテイン\nあたし問題考えるから\nマスター答えてね？\n\n@ガンバンテイン\nじゃあいくよ～？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしと同じ誕生日の人って\nだーれだ？\n\n# se \"SE_0734\"\n# select \"グングニル\" \"select_label_1\" \"ピナーカ\" \"select_label_2\" \"アポロン\" \"select_label_3\"\nあたしと同じ誕生日の人って\nだーれだ？\n"
+	},
+	{
+		"ID": 2141,
+		"unitID": 2600211,
+		"questionID": 9600241,
+		"script": "\n;;あたし,1\n# se \"SE_0734\"\n# select \"あたし\" \"select_label_1\" \"私\" \"select_label_2\" \"ウチ\" \"select_label_3\"\nガンバンテインの一人称は\n次のうちどれ？\n"
+	},
+	{
+		"ID": 2142,
+		"unitID": 2600211,
+		"questionID": 9600242,
+		"script": "\n;;マスター,2\n# se \"SE_0734\"\n# select \"ご主人\" \"select_label_1\" \"マスター\" \"select_label_2\" \"キミ\" \"select_label_3\"\nガンバンテインはアンタのこと、\nなんて呼んでる？\n"
+	},
+	{
+		"ID": 2143,
+		"unitID": 2600211,
+		"questionID": 9600243,
+		"script": "\n;;74,1\n# se \"SE_0734\"\n# select \"74\" \"select_label_1\" \"80\" \"select_label_2\" \"82\" \"select_label_3\"\nガンバンテインの\nバストサイズがどのくらいか\nアンタ…知ってるの？\n"
+	},
+	{
+		"ID": 2144,
+		"unitID": 2600211,
+		"questionID": 9600244,
+		"script": "\n;;56,2\n# se \"SE_0734\"\n# select \"60\" \"select_label_1\" \"56\" \"select_label_2\" \"61\" \"select_label_3\"\nガンバンテインの\nウエストサイズがどのくらいか\nアンタ…知ってるの？\n"
+	},
+	{
+		"ID": 2145,
+		"unitID": 2600211,
+		"questionID": 9600245,
+		"script": "\n;;77,2\n# se \"SE_0734\"\n# select \"73\" \"select_label_1\" \"77\" \"select_label_2\" \"79\" \"select_label_3\"\nガンバンテインの\nヒップサイズがどのくらいか\nアンタ…知ってるの？\n"
+	},
+	{
+		"ID": 2146,
+		"unitID": 2600211,
+		"questionID": 9600246,
+		"script": "\n;;40,2\n# se \"SE_0734\"\n# select \"35\" \"select_label_1\" \"40\" \"select_label_2\" \"41\" \"select_label_3\"\nガンバンテインの体重は\n次のうちどれ？\n"
+	},
+	{
+		"ID": 2147,
+		"unitID": 2600211,
+		"questionID": 9600247,
+		"script": "\n;;207,2\n# se \"SE_0734\"\n# select \"213\" \"select_label_1\" \"207\" \"select_label_2\" \"220\" \"select_label_3\"\nガンバンテインの\nバスト＋ウエスト＋ヒップは\nいくつかわかる？\n"
+	},
+	{
+		"ID": 2148,
+		"unitID": 2600211,
+		"questionID": 9600248,
+		"script": "\n;;水色のストライプ,3\n# se \"SE_0734\"\n# select \"赤色のドット\" \"select_label_1\" \"黄色の花柄\" \"select_label_2\" \"水色のストライプ\" \"select_label_3\"\nガンバンテインの水着の色は\n次のうちどれ？\n"
+	},
+	{
+		"ID": 2149,
+		"unitID": 2600211,
+		"questionID": 9600249,
+		"script": "\n;;50位,3\n# se \"SE_0734\"\n# select \"53位\" \"select_label_1\" \"57位\" \"select_label_2\" \"50位\" \"select_label_3\"\nガンバンテインは\n第２回人気投票で\n何位だったでしょう？\n"
+	},
+	{
+		"ID": 2150,
+		"unitID": 2600211,
+		"questionID": 9600250,
+		"script": "\n;;若林直美,3\n# se \"SE_0734\"\n# select \"今井麻美\" \"select_label_1\" \"釘宮理恵\" \"select_label_2\" \"若林直美\" \"select_label_3\"\nガンバンテインの声優は誰？\n"
+	}
+]

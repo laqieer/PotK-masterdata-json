@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 91046199,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# se \"SE_0732\"\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n@ミュルグレス\n………その答え\n\n# face %(unit_a)s \"happy\"\n# voice 540201 \"murgleys_c_0005\"\n@ミュルグレス\n大正解～！\n\n@ミュルグレス\nさすがはだんちょー！\nミュルのこと、よくわかってるじゃない\n\n# textflame 0 0\n@\nそう言う彼女にマスターは尋ねる\n正解したご褒美はなにかあるの？\n\n# face %(unit_a)s \"normal\"\n# textflame 1 1\n@ミュルグレス\n今日一日、ミュルと\nデートできたんだから、\nそれ自体がご褒美でしょ♪\n\n# textflame 0 0\n@\n嬉しそうに微笑む彼女\n\n@\nその屈託のない笑顔もご褒美だよ\n心の中でそう呟くマスターだった\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 96005199,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# voice 6005 \"keryukeion_0039\"\n# se \"SE_0732\"\n@ケーリュケイオン\nすごいよ！\nさすが私のマスターだね♪\n\n# voice 6005 \"keryukeion_0003\"\n# textflame 1 1\n@ケーリュケイオン\nうん…本当に、嬉しい…\n実はちょっと不安だったんだ\n君って誰にでも優しいからさ\n\n# textflame 1 1\n@ケーリュケイオン\nでも、ちゃんと私のこと\n見ていてくれてたんだね…\n\n# voice 6005 \"keryukeion_kyara_1023\"\n# textflame 1 1\n@ケーリュケイオン\nありがとうマスター！\n\n# textflame 1 1\n@ケーリュケイオン\nこれからもずっとずーっと！\n私のこと見ててね♪\n\n# textflame 0 0\n@\nマスターを見つめて\n嬉しそうに微笑む\nケーリュケイオン\n\n# textflame 0 0\n@\n彼女の笑顔を見ていると\n心が温かくなるのを感じたマスター\n\n# textflame 0 0\n@\n彼女との絆が深まった気がする…\nそう思い、安心したマスターであった\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

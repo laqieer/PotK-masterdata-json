@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 6004072,
+		"script": "# sclipt \"lisp\"\n# body 100621\n# pos 100621 3\n# scale 100621 0.8 0\n# mask 100621 off\n# textflame 1 1\n# textboxarrow 0 2\n# chara 100621\n# face 100621 \"sad\"\n@ナーゲルリング\nあぁああ！\nもう！\n\n# textflame 0 0\n@マスター\nナーゲルリング、落ち着いて！\n\n# textflame 1 1\n# textboxarrow 0 2\n# chara 100621\n@ナーゲルリング\n結局、会長も\n自分が良ければいいの！？\n\n# chara 100621\n@ナーゲルリング\n私にはここしかない…\n私の居場所を…取らないで！"
+	}
+]

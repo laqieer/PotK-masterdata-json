@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 101412,
+		"script": ";;B 残念だ (大当たり)\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_ferris\"\n# bgmfile \"bgm258\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 1014 \"tyrufing_0015\"\n@ティルフィング\n…！？\nそれはどういう意味ですか？\n\n# voice 1014 \"tyrufing_0027\"\n@ティルフィング\nやはり“キル姫”の私が\n楽しむなんて…\n\n# textflame 0 0\n@\n勘違いをしてるティルフィングに\nそうじゃないと首を振る\n\n# textflame 0 0\n@\nこの二人だけの時間が\nそう長くないから…と伝えた\n\n# textflame 1 1\n# voice 1014 \"tyrufing_0047\"\n@ティルフィング\nそういうことですか…\n\n# face %(unit_a)s \"smile\"\n# voice 1014 \"tyrufing_0005\"\n@ティルフィング\nそうですね…\nこのまま時が止まれば…\n\n@ティルフィング\nそう思ってしまいますね\n\n# eye %(unit_a)s \"close\"\n@ティルフィング\nでも、限りがあるからこそ\n大事にしたいと\n思うのかもしれません\n\n# eye %(unit_a)s \"normal\"\n@ティルフィング\nですからこの時間…\nマスターのすべてをください\n\n# voice 1014 \"tyrufing_0046\"\n@ティルフィング\n今だけでかまいません\n私のことだけを考えて\n私のために在ってくれますか？\n\n# textflame 0 0\n@\nマスターは静かに頷く\nそして…\n\n# textflame 0 0\n@\nお互いのことだけを考え\nお互いのためだけに存在する\n\n# textflame 0 0\n@\nそんな濃密で忘れがたい時間を\n地上に降りるまで過ごした…\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

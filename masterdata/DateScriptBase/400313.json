@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 400313,
+		"script": ";;モノより思い出　中\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_aquarium_day\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n@アポロン\nう、うん…？\nそれってどういうこと？\n\n# textflame 0 0\n@\nアルテミスなら\nお土産よりもアポロンが\n楽しんできた思い出を喜ぶだろう\n\n@\nそうアポロンに告げると\n成程と彼女は納得した\n\n# face %(unit_a)s \"normal\"\n# textflame 1 1\n# voice 4003 \"aporon_0040\"\n@アポロン\n確かにお姉ちゃんは、\nボクのお話の方を喜ぶかも…\nうーん、じゃあ！\n\n# face %(unit_a)s \"smile\"\n# voice 4003 \"aporon_0006\"\n@アポロン\n楽しい思い出を\n全力で作らないとね！\nよ～し！マスター！\n\n# voice 4003 \"aporon_0005\"\n@アポロン\n水族館を三周するぐらいの\n勢いで全力で楽しむよ～！\n\n# textflame 0 0\n@\n気炎を上げるアポロンと\n全力で水族館を楽しんだ\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

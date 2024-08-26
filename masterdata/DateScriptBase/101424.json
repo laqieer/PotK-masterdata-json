@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 101424,
+		"script": ";;A 綺麗だね（小）\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_onsen\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# voice 1014 \"tyrufing_0004\"\n# face %(unit_a)s \"smile\"\n@ティルフィング\nそうですか！\nでは、こちらに！\n\n# textflame 0 0\n@\nティルフィングは\nへちまのスポンジを\n力強く構える\n\n# textflame 1 1\n# voice 1014 \"tyrufing_0003\"\n# face %(unit_a)s \"angry\"\n@ティルフィング\nでは…参ります！\n\n@ティルフィング\nむっ…マスターの背中\nやはり大きいのですね\n流し甲斐があります\n\n@ティルフィング\nですが、まだ本番はこれからです\n\n# textflame 0 0\n@\n次の瞬間、ティルフィングの\n背中を擦る力が強くなり…\n\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 1014 \"tyrufing_0022\"\n@ティルフィング\nあっ！？\nマスターまだ終わっていません！\n\n# face %(unit_a)s \"angry\"\n# voice 1014 \"tyrufing_0029\"\n@ティルフィング\n渾身の力で、マスターの\n背中からあらゆる汚れを\nこそぎ落とします！\n\n# textflame 0 0\n@\nマスターの背中が赤く擦りむけるまで\nそう時間はかからなかった…\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 92030299,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# se \"SE_0732\"\n# textflame 1 1\n# face %(unit_a)s \"shy\"\n@リサナウト\n……その答え\n\n# face %(unit_a)s \"normal\"\n# voice 2030 \"risanautr_l_0020\"\n@リサナウト\n大正解！\n\n# voice 2030 \"risanautr_l_0004\"\n@リサナウト\nふふっ！\n正解してくれると思った\n\n@リサナウト\nそれははじめから\n確定事象だったのよ\n\n# textflame 0 0\n@\n…と、\nとても嬉しそうに\n微笑むリサナウト\n\n# textflame 1 1\n@リサナウト\n今、この瞬間を止めて、\n何度も噛み締めたいけど…\n\n# voice 2030 \"risanautr_l_0003\"\n@リサナウト\nまた来年に取っておくわ\n\n# textflame 0 0\n@\nその輝かしい笑顔に、\n来年が待ち遠しくなる\nマスターだった\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

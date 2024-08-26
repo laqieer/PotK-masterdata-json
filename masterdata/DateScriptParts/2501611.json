@@ -1,0 +1,26 @@
+[
+	{
+		"ID": 117,
+		"unitID": 2501611,
+		"scriptID": "kaerimichi",
+		"script": "そうですね、やはりもう少しだけ\n一緒にいましょうか\n…汚らしい目を向けないでください"
+	},
+	{
+		"ID": 131,
+		"unitID": 2501611,
+		"scriptID": "kaeru",
+		"script": "さぁ、早く帰りましょう\nすぐにでもうがいと\n手洗いをしたいですね"
+	},
+	{
+		"ID": 145,
+		"unitID": 2501611,
+		"scriptID": "kaeru_ok",
+		"script": "@%(unitName:unit_a)s\nそんな雑巾を絞ったような\n顔で誘われたら…\n行くしかないじゃないですか"
+	},
+	{
+		"ID": 159,
+		"unitID": 2501611,
+		"scriptID": "kaeru_ng",
+		"script": "@%(unitName:unit_a)s\nこれ以上一緒にいると\n穢れがうつってしまいますし、\n今日は帰らせてもらいますね"
+	}
+]

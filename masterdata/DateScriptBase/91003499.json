@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 91003499,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# voice 1003 \"durandaru_0041\"\n# se \"SE_0732\"\n@デュランダル\nやりますわね、マスター！\nさすがの切れ味ですわっ♪\n\n@デュランダル\nやはり、わたくしの\n期待していたとおりですわね、\nマスター？\n\n@デュランダル\nマスターの『知識の切れ味』に\n感動いたしましたわ、\nわたくし！\n\n# voice 1003 \"durandaru_0004\"\n@デュランダル\nさすが、わたくしが\n全身全霊でお仕えする\nおかたですわ…ぽっ♪\n\n# textflame 0 0\n@\nデュランダルは頬を赤らめ、\n憧れにも似た眼差しを\nマスターに向けた\n\n@\nどうやら彼女の信頼を\nさらに深めることが\n出来たようだ\n\n@\nそしてそれは、\n二人の絆のよりいっそうの\n強まりを意味するのだった…\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

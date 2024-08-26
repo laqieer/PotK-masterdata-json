@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 92013199,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# voice 2013 \"reshef_0020\"\n# se \"SE_0732\"\n@レシェフ\nさすが、マスター！\n気合いの大正解だね！\n\n@レシェフ\nやるじゃん♪\n\n# voice 2013 \"reshef_0022\"\n# face %(unit_a)s \"sad\"\n@レシェフ\nえ？\n今度はマスターから、\nあたしに問題…？\n\n# voice 2013 \"reshef_0042\"\n@レシェフ\nなによ、それ？\nあたしのこと疑ってんの？\n\n# face %(unit_a)s \"usual\"\n@レシェフ\nあたしは\nそんなのしなくても\n大丈～夫！\n\n# textflame 0 0\n@\n勝手なんだから\n…と、笑うマスター\n\n@\nでも、彼女の\n嬉しそうな顔を見ていると、\n\n@\nそんなことは\nどうでも良くなって…\n\n@\n二人の絆が\nまた深まったのを実感した…\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 4100225,
+		"script": ";;青はずれ\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_room\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 0 0\n@\nデートの帰り…\n眠そうなレーヴァテインを\n部屋まで送ったマスター\n\n@\nすぐに帰ろうとするが、\n寝ぼけたレーヴァテインに\n呼び止められる\n\n# textflame 1 1\n# face %(unit_a)s \"angry\"\n# voice 210024 \"revatein_lo_0028\"\n@レーヴァテイン\nむぅ…まって…\nもうかえるつもり？\n\n# voice 210024 \"revatein_lo_0007\"\n@レーヴァテイン\nふぅん…わかった\n私はひとりでねるから\n\n@レーヴァテイン\n…いいよ、あやまらなくて\nべつにおこったりしてない\n\n@レーヴァテイン\nマスターにだって、\nいろんなじじょうがある…\nそれくらいわかってるし\n\n# voice 210024 \"revatein_lo_0027\"\n@レーヴァテイン\nじゃあね、おやすみ…\n\n# textflame 0 0\n@\nすねた口調で話し、\n背を向けて眠りはじめる\nレーヴァテイン\n\n@\n心の中で謝りながら、\n眠るレーヴァテインの頭を\nマスターはそっと撫でた…\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

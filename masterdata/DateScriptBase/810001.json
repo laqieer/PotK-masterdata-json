@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 810001,
+		"script": "# script \"lisp\"\n# background %(background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# serif 0\n# textwindow \"close\"\n# serif 1\n@Mrクイズマン\n大正解！！！\nよくわかったじゃないか\n\n# serif 1\n@Mrクイズマン\nそんな賢い君には気になるアノ子と\n距離がグッと近づく\nこのバイブルをあげよう！！\n\n# serif 1\n@Mrクイズマン\n頑張れYO!!さらば！！！\n\n# serif 1\n# textwindow \"close\"\n# serif 0\n# textwindow \"nomal\"\n@\n何だったんだろう…\n(でもなんだかこのバイブルで\nもっと仲良くなれる気がしてきた)\""
+	}
+]

@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 2303113,
+		"script": ";;C\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_stream_day\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n@カシウス\nん…おやかたしゃまも\nひなたぼっこ、する？\n\n# voice 230312 \"cassius_lo_0003\"\n@カシウス\nうん、かまわない…\nどうぞ…\n\n@カシウス\nなつのおひしゃまは、\nちょくせつあたるとあついから…\n\n@カシウス\nこうして、こもれびをとおして\nあびるとちょうどいい…\n\n# voice 230312 \"cassius_lo_0002\"\n@カシウス\n…どう？\nひなたぼっこ、たのしめてる？\n\n@カシウス\n…そう\nそれならよかった\n\n# face %(unit_a)s \"happy\"\n# voice 230312 \"cassius_lo_0005\"\n@カシウス\nふふ…\nおやかたしゃまといっしょだと、\nいつもよりもっとあったかい…\n\n@カシウス\nおつきしゃまがでてくるまで、\nずっとこうしていたいな…\n\n# textflame 0 0\n@\nカシウスの穏やかな\n横顔を見ながら、\n満足そうに微笑むマスター\n\n@\n木々のざわめきの中、\n二人はともに\n安らかな時間を過ごした…\n\n;;-----------------------------------------\n# waitandnext 2\n# fadeout \"black\" 1.2\n"
+	}
+]

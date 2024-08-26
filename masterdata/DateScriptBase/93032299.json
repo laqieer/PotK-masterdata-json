@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 93032299,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 330321 \"gaedearg_ge_0028\"\n# se \"SE_0732\"\n@ガ・ジャルグ\n……その答え\n\n@ガ・ジャルグ\n正解だわ\n\n# face %(unit_a)s \"smile\"\n# voice 330321 \"gaedearg_ge_0004\"\n@ガ・ジャルグ\nふふ、七色には及ばなくても、\nあなたも一応の輝きは\n持っているみたいね\n\n# voice 330321 \"gaedearg_ge_0032\"\n@ガ・ジャルグ\nいいわ\n\n@ガ・ジャルグ\nまた、一緒に出掛けてあげる\n\n@ガ・ジャルグ\nな、なに黙ってるのっ！？\nわたしが言ってあげてるんだから\n感謝の言葉はないのっ！？\n\n;;モノローグ\n# textflame 0 0\n@\n彼女との時間、それこそ\n七色の輝きに包まれた\n至高の時間\n\n;;モノローグ\n# textflame 0 0\n@\nマスターは彼女とまた\n距離が近づいたことに、\n大きな喜びを感じていた\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

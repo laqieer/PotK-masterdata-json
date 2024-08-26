@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 92005498,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# se \"SE_0733\"\n# voice 2005 \"mitwumu_0017\"\n# face %(unit_a)s \"sad\"\n@ミトゥム\n忘れてるよなぁ…\n\n@ミトゥム\nマスターはミトゥムよりは\n頭いいはずだから…\n\n# face %(unit_a)s \"normal\"\n# voice 2005 \"mitwumu_0008\"\n@ミトゥム\nもしかしたら\n覚えててくれてるかな\nって思ったけど…\n\n# face %(unit_a)s \"sad\"\n@ミトゥム\n…………\n\n# textflame 0 0\n@\n彼女のあまりに\nがっかりした顔に\nマスターの心はギュッと痛んだ\n\n@\nデート中のはずなのに…\nなにやってるんだろう\n\n@\n急に聞かれても間違えないように\nしっかりと心に刻んでおかないとな…\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

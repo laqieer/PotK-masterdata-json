@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 400512,
+		"script": "# script \"lisp\"\n# fadein \"black\" 0.5\n# background %(background)s\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 4005 \"yoichi_0002\"\n@与一\nえ…あの…\n憧れがないと言ったら\n嘘になりますが…\n\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n# voice 4005 \"yoichi_0003\"\n@与一\nやはり、与一には\n身の丈に合った生活が\n似合っていると思います！\n\n# textflame 0 0\n@\n与一はそう言って\n慎ましく笑う\n\n# textflame 1 1\n@与一\nお城のてっぺん誰かに\nお世話してもらうのを\n待つよりも…\n\n# textflame 1 1\n# voice 4005 \"yoichi_0004\"\n@与一\n頑張って早起きして\nオニギリを握って鍛錬に出かける…\nそれでいいんです\n\n# textflame 0 0\n@\n与一の笑顔には一片の曇りもなく\n心からそう思っているのが\nよくわかった\n\n# textflame 1 1\n# voice 4005 \"yoichi_0032\"\n@与一\nそれに…\nマスターのおそばにいられる日々が\n与一にとっては一番贅沢ですから！\n\n# textflame 0 0\n@\n二人は\n自分達らしい日々に戻るべく\n城を後にした――\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

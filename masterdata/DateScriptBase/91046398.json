@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 91046398,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# se \"SE_0733\"\n# textflame 1 1\n# face %(unit_a)s \"angry\"\n@ミュルグレス\nその答え…\n\n# voice 510461 \"murgleys_c_0027\"\n@ミュルグレス\n不正解！！\n\n# voice 510461 \"murgleys_c_0011\"\n@ミュルグレス\n…ったく\nダメじゃん、だんちょー！\n\n# textflame 0 0\n@\nこれは高額の報酬を\n要求されるパターンだ…\nと怯えるマスター\n\n@\nだが………\n\n# face %(unit_a)s \"sad\"\n# voice 510461 \"murgleys_c_0015\"\n# textflame 1 1\n@ミュルグレス\nもう報酬なんていらない\n\n# textflame 0 0\n@\n彼女はそっぽを向いて、\n拗ねてしまった\n\n# textflame 1 1\n@ミュルグレス\n…やっぱり少し貰う\n\n# textflame 0 0\n@\nツッコミたい気持ちを抑えながら\n彼女との距離が開いてしまったことを\nマスターは後悔するのだった…\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

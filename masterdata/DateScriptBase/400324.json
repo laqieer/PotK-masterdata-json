@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 400324,
+		"script": ";;ファンになったよ　小\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_room\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 4003 \"aporon_0007\"\n@アポロン\n元々ファンだったくせに～♪\n\n# eye %(unit_a)s \"close\"\n@アポロン\nまぁ、マスターは\n最近よくやってると思うから\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"smile\"\n# voice 4003 \"aporon_0030\"\n@アポロン\nお姉ちゃんはあげられないけど\nアポロンからのごほーびだよ♪\n\n@\n上機嫌になったアポロンが\n引いてくれた一曲は\n\n@\n激しいながらも\nどこか安らぎを覚えるような\n音色だった\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

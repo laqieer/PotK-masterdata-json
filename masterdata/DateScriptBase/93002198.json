@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 93002198,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# se \"SE_0733\"\n# face %(unit_a)s \"sad\"\n# voice 3002 \"toraidento_0013\"\n@トライデント\nえぇー！？\n\n# face %(unit_a)s \"normal\"\n@トライデント\nっと、ごめんごめん、\nおっきな声出して…\n\n# voice 3002 \"toraidento_0019\"\n# face %(unit_a)s \"sad\"\n@トライデント\nでもまさか…\nハズレちゃうなんてなぁ…\n\n# face %(unit_a)s \"normal\"\n@トライデント\nまぁでも、\n誰しも間違いはあるものだと思うし…\n\n# voice 3002 \"toraidento_0004\"\n@トライデント\nふふふ、また次の機会にでも\n挽回してくれれば大丈夫だよ！\n\n@トライデント\nむしろこっちが、\nいきなり変な質問を\nしちゃったわけだし…\n\n@トライデント\nうぅ、変な空気になっちゃったぁ\nほんともうしわけぇ～\n\n# textflame 0 0\n@\n気まずそうにしながらも、\n明るく振る舞う彼女の表情は\nどこかぎこちない笑顔を浮かべている\n\n@\n次こそは彼女に辛い想いを\nさせないように努力しようと\n決意するマスターであった\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

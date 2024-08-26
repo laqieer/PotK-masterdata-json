@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 302114,
+		"script": ";;A 小\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_ferris\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n@%(unitName:unit_a)s\n@ガ・ボー\n…わからないんです\n\n@ガ・ボー\nだから…探しようもないんです\n\n# textflame 0 0\n@\nガ・ボーの横顔は\nとても寂しそうだった\n\n# voice 3021 \"gaebuide_0003\"\n# face %(unit_a)s \"normal\"\n# textflame 1 1\n@ガ・ボー\n気長に探します\nマスターといたら\n見つかる気がしますから\n\n# textflame 0 0\n@\nマスターとガ・ボーは\n並んで一緒に\n遥か彼方を眺め続けた…\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

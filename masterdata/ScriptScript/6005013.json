@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 6005013,
+		"script": ";;1話戦闘後\n# script \"lisp\"\n# background \"corridor_daytime\"\n# bgm \"bgm003\" 0\n# body 91\n# pos 91 2\n# scale 91 0.8 0\n# body 92\n# pos 92 4\n# scale 92 0.8 0\n# body 200531\n# pos 200531 3\n# alpha 200531 0 0\n# body 201621\n# pos 201621 2\n# alpha 201621 0 0\n# textflame 1 1\n# textboxarrow 0 1\n# chara 201621\n# voice 2016 \"shita_0009\"\n# face 92 \"sad\"\n@シタ\nあら…ミトゥムちゃん？\n急におとなしくなって\n反省したのですか？\n\n# textboxarrow 0 3\n# chara 200531\n@ミトゥム\nごめんなさい…\n\n# emotionbody 5200 3 91 10 245\n# effectpattern 5200 1 3\n# effectstart 5200\n# textboxarrow 0 1\n# chara 201621\n# voice 2016 \"shita_0004\"\n# face 91 \"happy\"\n@シタ\nいいんですよ\nちゃんと謝れるなんて\nさすが私の自慢の妹です♪\n\n# effectskip 2000\n@シタ\nでは約束を復唱しましょう！\n\n# textboxarrow 0 3\n# chara 200531\n# voice 2005 \"mitwumu_0003\"\n# face 92 \"shy\"\n@ミトゥム\n生徒会室には殴り込みません！\nそしてお姉ちゃん大好きです！\n\n;;//モヤモヤ吹き出し\n# textflame 0 0\n# textwindow \"moya\"\n# textboxarrow 0 0\n@マスター\n二つ目必要あった！？\n\n# textflame 1 1\n# textwindow \"nomal\"\n# textboxarrow 0 1\n# chara 201621\n# face 91 \"normal\"\n@シタ\nさて…\nそこで立っているあなた？\n\n@シタ\n私達に話があるのでしょう？\n構いませんが、グラウンドまで\nご足労願えますか？"
+	}
+]

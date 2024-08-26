@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 100412,
+		"script": "# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_ferris\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# voice 1004 \"kusanagi_0021\"\n@草薙剣\nたまにはよいことを言うな！\nたしかに、遠くばかりを見て\n己を省みることを忘れてはならん\n\n# eye %(unit_a)s \"close\"\n# textflame 1 1\n@草薙剣\n灯台下暗し…\nいやこの場合は…\n\n# voice 1004 \"kusanagi_0028\"\n# textflame 1 1\n@草薙剣\nうーむ…\n\n# textflame 0 0\n@\n草薙剣は\nうまい言い回しを\n考えているようだった\n\n# textflame 1 1\n@草薙剣\n観覧車下暗し…いや違うな\nうーむ…\n\n# voice 1004 \"kusanagi_0003\"\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"normal\"\n# textflame 1 1\n@草薙剣\n…観覧車の中を見よ！\nというのはどうだ！\n\n# textflame 0 0\n@\nそして、向かいに座った\nマスターの顔を\n草薙剣はじっくりと見つめる\n\n# voice 1004 \"kusanagi_0004\"\n# face %(unit_a)s \"angry\"\n# textflame 1 1\n@草薙剣\nふふん♪\n余がそちのことを忘れておらんか\n心配になったのか？\n\n# textflame 1 1\n@草薙剣\n余を侮るでない！\nそちのことは…\n毎日欠かさず考えておる！\n\n# textflame 0 0\n@\n自信満面に胸を張る草薙剣\nその姿に、思わず笑みが溢れる\nマスターなのであった――\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

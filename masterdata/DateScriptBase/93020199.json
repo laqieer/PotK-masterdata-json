@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 93020199,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# se \"SE_0732\"\n# voice 3020 \"pisear_0039\"\n@ピサール\nへぇ～、\nさすがマスターだね～\n\n@ピサール\nちゃんとわたしのこと、\n見ててくれてたんだぁ…\n\n@ピサール\nうん…なんていうか…\n\n# voice 3020 \"pisear_0030\"\n@ピサール\nありがとね…マスター\n\n# textflame 0 0\n@\nそう言って見せた彼女の笑顔は、\nまるで天使の微笑みのようで…\n\n@\n彼女との距離が、\nさらに縮まったのを感じた…\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

@@ -1,0 +1,14 @@
+[
+	{
+		"ID": 1,
+		"age_limit": 13,
+		"currency": "JPY",
+		"charge_limit_per_month": 3000.0
+	},
+	{
+		"ID": 2,
+		"age_limit": 17,
+		"currency": "JPY",
+		"charge_limit_per_month": 10000.0
+	}
+]

@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 2401923,
+		"script": ";;B\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_room\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# voice 540191 \"failnaught_ca_0022\"\n# textflame 1 1\n@フェイルノート\nえ…？\n私のぬいぐるみに\n興味があるの？\n\n# voice 540191 \"failnaught_ca_0004\"\n@フェイルノート\nそう…ふふっ\nそれなら好都合ね\n\n@フェイルノート\n上がりなさい\nとっておきのコレクションを\nお前様に見せてあげる\n\n@フェイルノート\n気に入ったものがあれば\n貸出も許可するわよ？\n\n# voice 540191 \"failnaught_ca_0003\"\n@フェイルノート\n私とお前様の仲だもの\n遠慮しないで？ふふふ…\n\n# voice 540191 \"failnaught_ca_0001\"\n@フェイルノート\n…今日はありがとう\nお前様\n\n@フェイルノート\n楽しませてくれたお礼に、\n今夜は私がお前様をもてなすわ\nふふっ\n\n# textflame 0 0\n@\nその後、フェイルノートの\nぬいぐるみコレクションを楽しみ…\n\n@\n二人だけの穏やかな時間を\nゆったりと過ごしたのだった\n;;-----------------------------------------\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

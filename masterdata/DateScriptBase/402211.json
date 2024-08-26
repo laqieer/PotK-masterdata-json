@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 402211,
+		"script": ";;A,中\n;;B,大\n;;C,小\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_shop\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# face %(unit_a)s \"surprise\"\n# voice 540221 \"ichiibal_c_0022\"\n# textflame 1 1\n@イチイバル\nおや？\nあれって…\n\n# textflame 0 0\n@\n商店街へ到着するなり\nイチイバルがある商品に\n目を止める\n\n# face %(unit_a)s \"normal\"\n# textflame 1 1\n@イチイバル\nこれ…気になってたんだ\n\n# textflame 0 0\n@\nイチイバルは\n店に飾られている\n船の模型を指さした\n\n# voice 540221 \"ichiibal_c_0003\"\n# textflame 1 1\n@イチイバル\n確か、有名な職人が\n作った物らしいんだよね\n\n# voice 540221 \"ichiibal_c_0041\"\n@イチイバル\nへえ…ここがこうなって\nああなって…なるほど…\n\n# textflame 0 0\n@\nイチイバルは食い入るように\n模型の細部を観察する\n\n# voice 540221 \"ichiibal_c_0004\"\n# textflame 1 1\n@イチイバル\n…うん、分かった\nもう充分だよ\n\n# select \"よし買おう\" \"select_label_01\" \"模型が好き？\" \"select_label_02\" \"船が好き？\" \"select_label_03\"\n…うん、分かった\nもう充分だよ\n\n# label \"select_label_01\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_02\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_03\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_end\"\n# waitandnext 0.1\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

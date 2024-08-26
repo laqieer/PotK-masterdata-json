@@ -1,0 +1,4458 @@
+[
+	{
+		"ID": 1,
+		"same_character_id": 210231,
+		"face": "smile",
+		"serif": "いつかマスターと牧場で\nゆっくりヨーグルト作りしたいです,私が作るヨーグルト…\n本当に美味しいんですからっ♪",
+		"voice": "ascalon_kyara_1028,ascalon_kyara_2028",
+		"background": "sea_resort_day"
+	},
+	{
+		"ID": 2,
+		"same_character_id": 220161,
+		"face": "smile",
+		"serif": "うふふ\nわたしとマスターの絆は永遠ですわ！,…なーんて♪",
+		"voice": "shita_kyara_ex_1002,shita_kyara_ex_2002",
+		"background": "sea_resort_day"
+	},
+	{
+		"ID": 3,
+		"same_character_id": 250081,
+		"face": "smile",
+		"serif": "そう、そうやって私だけを\n見ていなさい,あなたによそ見の\n権利はないわ、いい？,それで一番の美女を\n自分のものにできるのだから",
+		"voice": "bashosen_kyara_1025,bashosen_kyara_2025,bashosen_kyara_3025",
+		"background": "sea_resort_day"
+	},
+	{
+		"ID": 4,
+		"same_character_id": 230081,
+		"face": "usual",
+		"serif": "マスターの匂いは覚えた,これでそなたは我から\n離れられないからな,これからずっと、覚悟していろ",
+		"voice": "gunguniru_kyara_ex_1002,gunguniru_kyara_ex_2002,gunguniru_kyara_ex_3002",
+		"background": "sea_resort_day"
+	},
+	{
+		"ID": 5,
+		"same_character_id": 250031,
+		"face": "smile",
+		"serif": "お主に従うという気持ちに\n一点の曇りもない,見よ、この澄み切った感じ！,どうじゃ！お主も嬉しいじゃろ？\nう、嬉しいじゃろ？",
+		"voice": "yatanokagami_kyara_ex_1002,yatanokagami_kyara_ex_2002,yatanokagami_kyara_ex_3002",
+		"background": "sea_resort_day"
+	},
+	{
+		"ID": 6,
+		"same_character_id": 240021,
+		"face": "sad",
+		"serif": "矢ってのは、\n弓が居て初めて飛んで行けんだ,オイラにはあんたという\n弓がいてくれて、ホントに心強いよ",
+		"voice": "pinaka_kyara_ex_1002,pinaka_kyara_ex_2002",
+		"background": "sea_resort_day"
+	},
+	{
+		"ID": 7,
+		"same_character_id": 260081,
+		"face": "smile",
+		"serif": "誰かを支えたい、助けたいって\n気持ちとはまた違う、,そんな気持ちをマスターに感じたんだ\n変…かな？",
+		"voice": "guridavoru_kyara_ex_1002,guridavoru_kyara_ex_2002",
+		"background": "sea_resort_day"
+	},
+	{
+		"ID": 8,
+		"same_character_id": 210091,
+		"face": "smile",
+		"serif": "今でも目立ちたくないという\n気持ちは変わりません…,でも、マスターと一緒にいて、,それが結果的に\n目立ってしまうということなら、,私は、目立つ方を選びます\nマスターと一緒なら…",
+		"voice": "barumunku_kyara_ex_1002,barumunku_kyara_ex_2002,barumunku_kyara_ex_3002,barumunku_kyara_ex_4002",
+		"background": "sea_resort_day"
+	},
+	{
+		"ID": 9,
+		"same_character_id": 240051,
+		"face": "smile",
+		"serif": "弓士と弓…２つの呼吸が合うことで、\n本来の実力が発揮できます,与一とマスターも、\n今、そんな関係になれたと思います",
+		"voice": "yoichi_kyara_ex_1002,yoichi_kyara_ex_2002",
+		"background": "sea_resort_day"
+	},
+	{
+		"ID": 10,
+		"same_character_id": 220081,
+		"face": "smile",
+		"serif": "マスターが歳をとってヨボヨボに\nなっても、私はずーっと一緒だよ",
+		"voice": "perun_kyara_0018",
+		"background": "sea_resort_day"
+	},
+	{
+		"ID": 11,
+		"same_character_id": 230041,
+		"face": "smile",
+		"serif": "マスターといっしょにいられる、\nこのひとときが大好きですー,いつまでもこうして、\n二人でゆったりしていたいですねぇ♪",
+		"voice": "amenonuboko_kyara_ex_1002,amenonuboko_kyara_ex_2002",
+		"background": "sea_resort_day"
+	},
+	{
+		"ID": 12,
+		"same_character_id": 220201,
+		"face": "normal",
+		"serif": "ふふ、あなたといると\n不思議と気持ちが楽になります,皆に好かれるマスターとして\nあり続けてくださいね,なにかあったらわたくしが\n首を落としますから",
+		"voice": "harpe_kyara_1026,harpe_kyara_2026,harpe_kyara_3026",
+		"background": "sea_resort_day"
+	},
+	{
+		"ID": 13,
+		"same_character_id": 210081,
+		"face": "smile",
+		"serif": "今さらだけどね、私 わかったんだ,マスターは嘘偽りない心で\n接してくれてるって！,てことで、これからもよろしくね！",
+		"voice": "guramu_kyara_ex_1002,guramu_kyara_ex_2002,guramu_kyara_ex_3002",
+		"background": "sea_resort_day"
+	},
+	{
+		"ID": 14,
+		"same_character_id": 230241,
+		"face": "normal",
+		"serif": "改めて言うのも変な話だけど、\nいつも頼りにしてるわ、ありがと…",
+		"voice": "tonbokiri_kyara_0018",
+		"background": "sea_resort_day"
+	},
+	{
+		"ID": 15,
+		"same_character_id": 210041,
+		"face": "smile",
+		"serif": "のう、マスター余はな、\nマスターのことが好きじゃぞ,マスターはどうかの？",
+		"voice": "kusanagi_kyara_ex_1002,kusanagi_kyara_ex_2002",
+		"background": "sea_resort_day"
+	},
+	{
+		"ID": 16,
+		"same_character_id": 240011,
+		"face": "smile",
+		"serif": "月が輝けるのは太陽があるからです,…私にとってあなたは、\nなくてはならない存在になりました,だから、近くにいてくれて、\n本当にありがとうございます",
+		"voice": "arutemisu_kyara_ex_1002,arutemisu_kyara_ex_2002,arutemisu_kyara_ex_3002",
+		"background": "sea_resort_day"
+	},
+	{
+		"ID": 17,
+		"same_character_id": 210121,
+		"face": "sad",
+		"serif": "まさかあんたにここまで\n心を預けようなんて思うとはね…,あたしもドＳ卒業かしらね…,なんて言うと思ったかあああ！,あたしの一番のお気に入りの\n玩具ってだけで、勘違いすんな！！",
+		"voice": "adamasu_kyara_ex_1002,adamasu_kyara_ex_2002,adamasu_kyara_ex_3002,adamasu_kyara_ex_4002",
+		"background": "sea_resort_day"
+	},
+	{
+		"ID": 18,
+		"same_character_id": 250061,
+		"face": "smile",
+		"serif": "愛は私の心を満たし、,愛以外の全てへの興味を\n奪い去ってしまったわ…,他の瑣末事に関わる暇があるなら、\n貴方との一刻にあてたいの…",
+		"voice": "megido_kyara_ex_1002,megido_kyara_ex_2002,megido_kyara_ex_3002",
+		"background": "sea_resort_day"
+	},
+	{
+		"ID": 19,
+		"same_character_id": 250011,
+		"face": "smile",
+		"serif": "ちょっと恥ずかしいんだけど、\n改めて言うね？,マスターのこと、だーい好きだよっ！",
+		"voice": "keraunosu_kyara_ex_1002,keraunosu_kyara_ex_2002",
+		"background": "sea_resort_day"
+	},
+	{
+		"ID": 20,
+		"same_character_id": 230031,
+		"face": "smile",
+		"serif": "決めたよオレは主君についていく,オレが主君に天下を\n獲らせてやるからよ",
+		"voice": "hotengageki_kyara_ex_1002,hotengageki_kyara_ex_2002",
+		"background": "sea_resort_day"
+	},
+	{
+		"ID": 21,
+		"same_character_id": 260131,
+		"face": "smile",
+		"serif": "これからもマスターの\n傍でがんばるにゃ,たとえマスターが死んでも,ミイラにして\nず～っと一緒にいるのにゃ",
+		"voice": "sistrum_kyara_1018,sistrum_kyara_2018,sistrum_kyara_3018",
+		"background": "sea_resort_day"
+	},
+	{
+		"ID": 22,
+		"same_character_id": 210271,
+		"face": "sad",
+		"serif": "信頼するマスターとの絆が\n深まるのは、慊焉とせぬ…な,え、あ…その…,う、嬉しいって意味だ…\nう、うむ",
+		"voice": "solais_kyara_1018,solais_kyara_2018,solais_kyara_3018",
+		"background": "sea_resort_day"
+	},
+	{
+		"ID": 23,
+		"same_character_id": 240101,
+		"face": "sad",
+		"serif": "いつから気づいていたんですか…？\nそういうのはずるいです…",
+		"voice": "Abaris_kyara_0028",
+		"background": "sea_resort_day"
+	},
+	{
+		"ID": 24,
+		"same_character_id": 230011,
+		"face": "smile",
+		"serif": "ずっと探していた、\nなにも考えず笑える場所…,マスターのいる場所が…\nきっとそうなのかなって…思います,だから私、マスターのために…\nこれからも頑張りますね",
+		"voice": "ronginus_kyara_ex_1002,ronginus_kyara_ex_2002,ronginus_kyara_ex_3002",
+		"background": "sea_resort_day"
+	},
+	{
+		"ID": 25,
+		"same_character_id": 220011,
+		"face": "smile",
+		"serif": "もう、仕方ないなぁ！ ,これからもマスタのことは、\nミョルニルちゃんが守ってあげるよ！",
+		"voice": "myuruniru_kyara_1025,myuruniru_kyara_2025",
+		"background": "sea_resort_day"
+	},
+	{
+		"ID": 26,
+		"same_character_id": 210111,
+		"face": "sad",
+		"serif": "鞘なきこの身を\n嘆くこともありましたが、,マスターの元に収まることができ、,むしろ良かったのではないかと\n思っております…！",
+		"voice": "excalibur_kyara_ex_1002,excalibur_kyara_ex_2002,excalibur_kyara_ex_3002",
+		"background": "sea_resort_day"
+	},
+	{
+		"ID": 27,
+		"same_character_id": 220051,
+		"face": "usual",
+		"serif": "へへへ！,ミトゥム様とマスターが手を組めば、どんな敵も怖くねぇな！",
+		"voice": "mitwumu_kyara_ex_1002,mitwumu_kyara_ex_2002",
+		"background": "sea_resort_day"
+	},
+	{
+		"ID": 28,
+		"same_character_id": 210051,
+		"face": "smile",
+		"serif": "マスターの心の炎、\nたしかに見させてもらった,その熱き思いを、\n私の聖域でもっと輝かせてみないか？",
+		"voice": "ritto_kyara_ex_1002,ritto_kyara_ex_2002",
+		"background": "sea_beach_day"
+	},
+	{
+		"ID": 29,
+		"same_character_id": 220041,
+		"face": "smile",
+		"serif": "君の理想を叶えることが、\n今のボクの理想だ,大丈夫、ボクに任せてくれ\n修行にも一層の気合いを入れるからね,だからこれからも、\nよろしく…ふふっ、少し照れくさいな",
+		"voice": "parashu_kyara_ex_1002,parashu_kyara_ex_2002,parashu_kyara_ex_3002",
+		"background": "sea_beach_day"
+	},
+	{
+		"ID": 30,
+		"same_character_id": 230181,
+		"face": "smile",
+		"serif": "私は地獄のキラーズを持つ,それに呼応するバイブスを\n持つマスターなんて,一生現れないと思っていたんです\nだから感謝しています",
+		"voice": "forcas_kyara_1027,forcas_kyara_2027,forcas_kyara_3027",
+		"background": "sea_beach_day"
+	},
+	{
+		"ID": 31,
+		"same_character_id": 240071,
+		"face": "smile",
+		"serif": "たしかに私はふだんから\n派手な格好が好きです,だっていやでも\nあなたの目に留まるでしょ？",
+		"voice": "shekina_kyara_1025,shekina_kyara_2025",
+		"background": "sea_beach_day"
+	},
+	{
+		"ID": 32,
+		"same_character_id": 250171,
+		"face": "smile",
+		"serif": "互いを知ることは\nいいことですものね、,君と二人ならなおさら",
+		"voice": "grimoire_kyara_1018,grimoire_kyara_2018",
+		"background": "sea_beach_day"
+	},
+	{
+		"ID": 33,
+		"same_character_id": 260011,
+		"face": "smile",
+		"serif": "ほら、私の側にずっといなさい,じゃないとあなた、傷の手当て\n一つ満足にできないじゃない,…私にもっともっと甘えなさいよ",
+		"voice": "asukurepiosu_kyara_ex_1002,asukurepiosu_kyara_ex_2002,asukurepiosu_kyara_ex_3002",
+		"background": "sea_beach_day"
+	},
+	{
+		"ID": 34,
+		"same_character_id": 210261,
+		"face": "smile",
+		"serif": "一緒にいるんだから、\n心が通じ合うのはあたりまえでしょ,私はマスターのこと好きだもの",
+		"voice": "caladbolg_kyara_1017,caladbolg_kyara_2017",
+		"background": "sea_beach_day"
+	},
+	{
+		"ID": 35,
+		"same_character_id": 210281,
+		"face": "smile",
+		"serif": "いま改めて確信した,おぬしはまごうことなき\nわたしのマスターだ、と",
+		"voice": "dainsleif_kyara_ex_1002,dainsleif_kyara_ex_2002",
+		"background": "sea_beach_day"
+	},
+	{
+		"ID": 36,
+		"same_character_id": 220171,
+		"face": "smile",
+		"serif": "マスターのこと、\nお姉ちゃんと同じくらい大好きだよ！,えっ、どっちが好きか…？\n意地悪な質問しないでよ～！",
+		"voice": "yagurushi_kyara_ex_1002,yagurushi_kyara_ex_2002",
+		"background": "sea_beach_day"
+	},
+	{
+		"ID": 37,
+		"same_character_id": 220031,
+		"face": "smile",
+		"serif": "どれだけ多くの人達が私を見てても、,私が見ているのは\nマスターだけなんだからね",
+		"voice": "loveryus_kyara_1027,loveryus_kyara_2027",
+		"background": "sea_beach_day"
+	},
+	{
+		"ID": 38,
+		"same_character_id": 230061,
+		"face": "smile",
+		"serif": "あんたになら\nあたいの背中を預けられる…,これからも頼んだよ、マスター!!",
+		"voice": "torisyula_kyara_ex_1002,torisyula_kyara_ex_2002",
+		"background": "sea_beach_day"
+	},
+	{
+		"ID": 39,
+		"same_character_id": 230211,
+		"face": "smile",
+		"serif": "今なにを考えていたか、ですか？\n…姉様のことでは…ないです…",
+		"voice": "gaebuide_kyara_0026",
+		"background": "sea_beach_day"
+	},
+	{
+		"ID": 40,
+		"same_character_id": 250161,
+		"face": "smile",
+		"serif": "あなたに,一瞬でも慈悲の言葉をかけそうに\nなった自分を罰したい気分です",
+		"voice": "Flabellum_kyara_1017,Flabellum_kyara_2017",
+		"background": "sea_beach_day"
+	},
+	{
+		"ID": 41,
+		"same_character_id": 250071,
+		"face": "smile",
+		"serif": "全ての勝利はマスターのために\nブリューナクはどこまでも付き従おう",
+		"voice": "buryunaku_kyara_ex_0002",
+		"background": "sea_beach_day"
+	},
+	{
+		"ID": 42,
+		"same_character_id": 210141,
+		"face": "smile",
+		"serif": "あの…マスター…,マスターの願いって\n私が叶えることができますか？",
+		"voice": "tyrufing_kyara_1026,tyrufing_kyara_2026",
+		"background": "sea_beach_day"
+	},
+	{
+		"ID": 43,
+		"same_character_id": 210131,
+		"face": "smile",
+		"serif": "君は、もはや研究対象という\n領域を超えている",
+		"voice": "paracelsus_kyara_0027",
+		"background": "sea_beach_day"
+	},
+	{
+		"ID": 44,
+		"same_character_id": 220061,
+		"face": "smile",
+		"serif": "も～、だめだよ,そんなに優しくされたら、\nず～っと甘えちゃうよ？",
+		"voice": "daguda_kyara_1026,daguda_kyara_2026",
+		"background": "sea_beach_day"
+	},
+	{
+		"ID": 45,
+		"same_character_id": 250051,
+		"face": "smile",
+		"serif": "初めて会った時、,前に会った気がするって\n言ったの覚えてる？,とっさに出た一言だったけど、,もしかしたら本当なのかもしれない\nって最近は思ってるよ",
+		"voice": "vajura_kyara_ex_1002,vajura_kyara_ex_2002,vajura_kyara_ex_3002,vajura_kyara_ex_4002",
+		"background": "sea_beach_day"
+	},
+	{
+		"ID": 46,
+		"same_character_id": 260021,
+		"face": "smile",
+		"serif": "マスターはね、あたしにとって,すっごくすーっごく\n大きな存在なんだよー",
+		"voice": "ganbantein_kyara_ex_1002,ganbantein_kyara_ex_2002",
+		"background": "sea_beach_day"
+	},
+	{
+		"ID": 47,
+		"same_character_id": 260041,
+		"face": "smile",
+		"serif": "今晩、ヒマ？,鍵、開けとくから\n私の部屋に遊びに来てよ！,一晩、ゆっくりしようよ～\n話とか…ね♪",
+		"voice": "kadokeusu_kyara_ex_1002,kadokeusu_kyara_ex_2002,kadokeusu_kyara_ex_3002",
+		"background": "sea_beach_day"
+	},
+	{
+		"ID": 48,
+		"same_character_id": 210101,
+		"face": "smile",
+		"serif": "わたしにとって\nなにより大切なのは帰るべき場所…,それを授けてくれた\nマスターのためならば、,わたしはいくらでも美しく、\nそして強くなれますわ！",
+		"voice": "furagaraha_kyara_ex_1002,furagaraha_kyara_ex_2002,furagaraha_kyara_ex_3002",
+		"background": "sea_beach_day"
+	},
+	{
+		"ID": 49,
+		"same_character_id": 220101,
+		"face": "smile",
+		"serif": "君と一緒がいいんだ、\n全部君と一緒が…",
+		"voice": "ukonbasara_kyara_0026",
+		"background": "sea_beach_day"
+	},
+	{
+		"ID": 50,
+		"same_character_id": 230141,
+		"face": "smile",
+		"serif": "真実はもうわかっていますの、\nでも、言ってほしい",
+		"voice": "ithuriel_kyara_0028",
+		"background": "sea_beach_day"
+	},
+	{
+		"ID": 51,
+		"same_character_id": 230201,
+		"face": "smile",
+		"serif": "マスターにはこのアイスを\nはんぶんこしてあげるね～,特別だからね～♪",
+		"voice": "pisear_kyara_ex_1002,pisear_kyara_ex_2002",
+		"background": "sea_beach_day"
+	},
+	{
+		"ID": 52,
+		"same_character_id": 240061,
+		"face": "smile",
+		"serif": "あなた様とともに過ごせたこと、\n光栄に思います,これからも、\n何卒よろしくお願いいたしますね",
+		"voice": "azusa_kyara_ex_1002,azusa_kyara_ex_2002",
+		"background": "sea_beach_day"
+	},
+	{
+		"ID": 53,
+		"same_character_id": 240081,
+		"face": "smile",
+		"serif": "マスターは、\nエラそうじゃないとこがいいよね！,…そんなだから、\nあたしも素直に従えるのかな？,マスターの選んだ道なら、\nどこまでもついてっちゃえるよ！",
+		"voice": "otyinusu_kyara_ex_1002,otyinusu_kyara_ex_2002,otyinusu_kyara_ex_3002",
+		"background": "sea_beach_day"
+	},
+	{
+		"ID": 54,
+		"same_character_id": 250211,
+		"face": "smile",
+		"serif": "わたくし、マスターになら全部お見せしても\n良いと思っているんです…,全部というのは、全知の書に\n書かれていた全項目を指します！,世界のすべての謎のみならず、奇跡すら体現することを可能とする叡智は、\n人類の祖に与えられたのにもかかわらず歴史の中で散逸してしまい今となってはそれを知るものはいないと言われているのですが今一度あなたにそのすべてをお伝えすることこそ私の最大限の愛情表現でありつまり愛の告白ともいえるわけであってそれもこれも素直に好きと…",
+		"voice": "sefer_kyara_1025,sefer_kyara_2025,sefer_kyara_3025",
+		"background": "sea_beach_day"
+	},
+	{
+		"ID": 55,
+		"same_character_id": 260051,
+		"face": "smile",
+		"serif": "ダーメ、どんなに親しくても\n情報はタダにはしてあげない,対価をもらうのは私のポリシーだし,…でも、オマケつけてあげる\nわ・た・し♪　…なんてどう？",
+		"voice": "keryukeion_kyara_ex_1002,keryukeion_kyara_ex_2002,keryukeion_kyara_ex_3002",
+		"background": "sea_beach_day"
+	},
+	{
+		"ID": 56,
+		"same_character_id": 210251,
+		"face": "smile",
+		"serif": "心から忠義を誓える主君に\n仕えることができる…,武士にとって\nこれほど名誉のことはありません",
+		"voice": "muramasa_kyara_ex_1002,muramasa_kyara_ex_2002",
+		"background": "sea_jungle_day"
+	},
+	{
+		"ID": 57,
+		"same_character_id": 210021,
+		"face": "smile",
+		"serif": "…見つけたよ。私の居場所",
+		"voice": "revatein2_kyara_ex_0002",
+		"background": "sea_jungle_day"
+	},
+	{
+		"ID": 58,
+		"same_character_id": 220071,
+		"face": "smile",
+		"serif": "マスターの邪魔になるものは、\n全て破壊しましょう！,…ふふふっ、初めてです,破壊衝動とは無関係に、\nそんなことを思ったのは…",
+		"voice": "sharuuru_kyara_ex_1002,sharuuru_kyara_ex_2002,sharuuru_kyara_ex_3002",
+		"background": "sea_jungle_day"
+	},
+	{
+		"ID": 59,
+		"same_character_id": 220191,
+		"face": "smile",
+		"serif": "マスターといると寂しくない、\n皆もマスターがいるからいる,マスターが中心で、皆がいて、\nシユウはマスターの隣がいい",
+		"voice": "chihyu_kyara_1027,chihyu_kyara_2027",
+		"background": "sea_jungle_day"
+	},
+	{
+		"ID": 60,
+		"same_character_id": 230021,
+		"face": "smile",
+		"serif": "マスターと一緒なら、,な～んでもなんとかなるって感じ、\nするよね",
+		"voice": "toraidento_kyara_1017,toraidento_kyara_2017",
+		"background": "sea_jungle_day"
+	},
+	{
+		"ID": 61,
+		"same_character_id": 230101,
+		"face": "smile",
+		"serif": "マスター、\nあ、いえ、なんでもありません,今日もお傍においていただいて、\nうれしいです",
+		"voice": "rhongomiant_kyara_1017,rhongomiant_kyara_2017",
+		"background": "sea_jungle_day"
+	},
+	{
+		"ID": 62,
+		"same_character_id": 240131,
+		"face": "smile",
+		"serif": "マスターへの想いが\n胸に溢れていきます,恥ずかしがらずに、\n触ってください,ドキドキと鼓動を打ち、\n熱くなってしまったことを,直に確かめてほしいのです",
+		"voice": "aphrodite_kyara_ex_1002,aphrodite_kyara_ex_2002,aphrodite_kyara_ex_3002,aphrodite_kyara_ex_4002",
+		"background": "sea_jungle_day"
+	},
+	{
+		"ID": 63,
+		"same_character_id": 250041,
+		"face": "smile",
+		"serif": "あっはっは！\nアンタってばサイコーだね！,これからも、\n一緒にいろんなものを創っていこっ",
+		"voice": "burafumasutora_kyara_ex_1002,burafumasutora_kyara_ex_2002",
+		"background": "sea_jungle_day"
+	},
+	{
+		"ID": 64,
+		"same_character_id": 260061,
+		"face": "smile",
+		"serif": "マ、マスターなら…\nマスターなら、,もう少しだけ\n側に来てもいいですよ…？",
+		"voice": "misutoru_kyara_ex_1002,misutoru_kyara_ex_2002",
+		"background": "sea_jungle_day"
+	},
+	{
+		"ID": 65,
+		"same_character_id": 260111,
+		"face": "smile",
+		"serif": "マスターさん、わたしね、\n皆と一緒が好きなんです,暖かくて幸せで、\nでも誰かと二人なら,マスターさんの傍が\nいいなって思うんです",
+		"voice": "vanargand_kyara_1025,vanargand_kyara_2025,vanargand_kyara_3025",
+		"background": "sea_jungle_day"
+	},
+	{
+		"ID": 66,
+		"same_character_id": 240041,
+		"face": "smile",
+		"serif": "なんだか\nずっと近くなれた気がしますぅ,これからもよろしくお願いしますね、\nあ・な・た♪",
+		"voice": "erosu_kyara_ex_1002,erosu_kyara_ex_2002",
+		"background": "sea_jungle_day"
+	},
+	{
+		"ID": 67,
+		"same_character_id": 210031,
+		"face": "smile",
+		"serif": "わたくし、\nようやくですが気づきましたの,良き淑女には、\n良きパートナーが側にいると…,うふふ。これからも\nよろしくお願いしますね、マスター",
+		"voice": "durandaru_kyara_ex_1002,durandaru_kyara_ex_2002,durandaru_kyara_ex_3002",
+		"background": "sea_jungle_day"
+	},
+	{
+		"ID": 68,
+		"same_character_id": 220021,
+		"face": "smile",
+		"serif": "私にとって、\n特別というのは本当に特別です,本当に意味がおわかりですか？\nちょっと待ってください,わかってもらうために\nどうするか考えてますから",
+		"voice": "aimuru_kyara_1025,aimuru_kyara_2025,aimuru_kyara_3025",
+		"background": "sea_jungle_day"
+	},
+	{
+		"ID": 69,
+		"same_character_id": 230051,
+		"face": "smile",
+		"serif": "あたいをこき使おうと\nしてるだけのことはあるね…,これからも頼むよ、《マスター》",
+		"voice": "roon_kyara_ex_1002,roon_kyara_ex_2002",
+		"background": "sea_jungle_day"
+	},
+	{
+		"ID": 70,
+		"same_character_id": 250241,
+		"face": "smile",
+		"serif": "今までこんなに人のこと\n考えたことないからわからんわ…",
+		"voice": "saika_kyara_0025",
+		"background": "sea_jungle_day"
+	},
+	{
+		"ID": 71,
+		"same_character_id": 210011,
+		"face": "smile",
+		"serif": "名もなき拙者に\nマサムネと名をくれただけでなく、,心の拠り所も与えてくださるとは…,拙者、主君の刀になれて\n光栄でござる",
+		"voice": "masamune_kyara_ex_1002,masamune_kyara_ex_2002,masamune_kyara_ex_3002",
+		"background": "sea_jungle_day"
+	},
+	{
+		"ID": 72,
+		"same_character_id": 210071,
+		"face": "smile",
+		"serif": "もう、仕方ないですね\nでも大丈夫です,マスターには私がついていますから",
+		"voice": "arondaito_kyara_2025,arondaito_kyara_3025",
+		"background": "sea_jungle_day"
+	},
+	{
+		"ID": 73,
+		"same_character_id": 220131,
+		"face": "smile",
+		"serif": "まさかあんたが、,ここまであたしの心に\n入り込んでくるなんてね…,それも嫌じゃない、だなんて…",
+		"voice": "reshef_kyara_ex_1002,reshef_kyara_ex_2002,reshef_kyara_ex_3002",
+		"background": "sea_jungle_day"
+	},
+	{
+		"ID": 74,
+		"same_character_id": 220121,
+		"face": "smile",
+		"serif": "無理するなって、\nどういうことよ！,あたしのなにを知っているというの",
+		"voice": "srand_kyara_1017,srand_kyara_2017",
+		"background": "sea_jungle_day"
+	},
+	{
+		"ID": 75,
+		"same_character_id": 230091,
+		"face": "smile",
+		"serif": "主君のような徳と知を兼ね備えた\n御仁に仕えることができ、,私は本当に幸せものだと\n思っております,ただ、その、願わくば\nヒゲを蓄えていただければもっと…",
+		"voice": "seiryu_kyara_ex_1002,seiryu_kyara_ex_2002,seiryu_kyara_ex_3002",
+		"background": "sea_jungle_day"
+	},
+	{
+		"ID": 76,
+		"same_character_id": 230171,
+		"face": "smile",
+		"serif": "何度も言うが、わたしはお前の\n配下ではない、同胞だぞ",
+		"voice": "wotan_kyara_0017",
+		"background": "sea_jungle_day"
+	},
+	{
+		"ID": 77,
+		"same_character_id": 240031,
+		"face": "smile",
+		"serif": "これからは、\n大好きなマスターにも,変なヤツが近寄らないように、\n守ってあげなきゃ！,怪しいヤツは\nミナゴロシにしちゃうぞ～♪",
+		"voice": "aporon_kyara_ex_1002,aporon_kyara_ex_2002,aporon_kyara_ex_3002",
+		"background": "sea_jungle_day"
+	},
+	{
+		"ID": 78,
+		"same_character_id": 250201,
+		"face": "smile",
+		"serif": "特別に…あたまポンポンってするの\n許してやる…,あと、どうしてもギュッって\nしたいなら考えてやる…",
+		"voice": "tasuramu_kyara_ex_1002,tasuramu_kyara_ex_2002",
+		"background": "sea_jungle_day"
+	},
+	{
+		"ID": 79,
+		"same_character_id": 260031,
+		"face": "smile",
+		"serif": "ふふっ、マスターと飲むなら、,どんな安酒だっておいしく、\n気持ちよく酔えちゃうよ,マスターってば、実はお酒の神様か\nなにかなんじゃない？,…なんちゃってね！",
+		"voice": "tyurusosu_kyara_ex_1002,tyurusosu_kyara_ex_2002,tyurusosu_kyara_ex_3002,tyurusosu_kyara_ex_4002",
+		"background": "sea_jungle_day"
+	},
+	{
+		"ID": 80,
+		"same_character_id": 260141,
+		"face": "smile",
+		"serif": "そなたはかわいい、\n目に入れてしまいたいほどだ,これからも最上のマスターを\n目指してすくすく育つのだぞ",
+		"voice": "ptah_kyara_1018,ptah_kyara_2018",
+		"background": "sea_jungle_day"
+	},
+	{
+		"ID": 81,
+		"same_character_id": 250021,
+		"face": "smile",
+		"serif": "えへへ,やっぱりわたしのダァリンは、\nマスターオンリー♪",
+		"voice": "furaikugeru_kyara_ex_1002,furaikugeru_kyara_ex_2002",
+		"background": "sea_jungle_day"
+	},
+	{
+		"ID": 82,
+		"same_character_id": 210061,
+		"face": "smile",
+		"serif": "あの、私本当に\nどこにもいかなくていいですか？,ここにいていいんですか？",
+		"voice": "nageruring_kyara_4018,nageruring_kyara_5018",
+		"background": "sea_jungle_day"
+	},
+	{
+		"ID": 83,
+		"same_character_id": 230071,
+		"face": "smile",
+		"serif": "私はマスターの槍だ,いつなんどき、,どのような壁がマスターの前に\n立ちはだかったとしても、,私が必ず貫き通して見せよう,だから、マスターも私を信じて、\n全てを任せてほしい…！",
+		"voice": "gaiborugu_kyara_ex_1002,gaiborugu_kyara_ex_2002,gaiborugu_kyara_ex_3002,gaiborugu_kyara_ex_4002,gaiborugu_kyara_ex_5002",
+		"background": "sea_jungle_day"
+	},
+	{
+		"ID": 84,
+		"same_character_id": 220111,
+		"face": "smile",
+		"serif": "このワズラ、\nマスターのお側から離れません,これは契約です絶対なのです\nわかりましたね？",
+		"voice": "wazra_kyara_ex_1002,wazra_kyara_ex_2002",
+		"background": "sea_jungle_day"
+	},
+	{
+		"ID": 85,
+		"same_character_id": 340071,
+		"face": "happy",
+		"serif": "貴方のバイブスと共鳴したあの日…\n私の中で何かが弾けたんです,その時に思いました。\n,この聖鎖された力を、\nあなたのために使おうと",
+		"voice": "shekina_t_kyara_ex_1002,shekina_t_kyara_ex_2002,shekina_t_kyara_ex_3002",
+		"background": "fairy_world"
+	},
+	{
+		"ID": 86,
+		"same_character_id": 350081,
+		"face": "happy",
+		"serif": "妾が認めるわ。\n妾にとっての本当のパートナーはあなたよ。,これからもずーっと隣に居続けなさい！",
+		"voice": "bashosen_a_kyara_ex_1002,bashosen_a_kyara_ex_2002",
+		"background": "fairy_world"
+	},
+	{
+		"ID": 87,
+		"same_character_id": 310011,
+		"face": "shy",
+		"serif": "もう誰とも心通わすことはない、\nそう思ったこともあった。,なのに…,今はこうして我を忘れてしまうような\n甘味な言葉を紡いでしまいそうになる…",
+		"voice": "masamune_ge_kyara_ex_1002,masamune_ge_kyara_ex_2002,masamune_ge_kyara_ex_3002",
+		"background": "fairy_world"
+	},
+	{
+		"ID": 88,
+		"same_character_id": 330041,
+		"face": "happy",
+		"serif": "わたしを縛る聖なる鎖は\nもうありません。,ですが、そんな鎖よりも,もっともっと強くて頑丈なつながりを\nあなた様との間に感じます…",
+		"voice": "amenonuboko_t_kyara_ex_1002,amenonuboko_t_kyara_ex_2002,amenonuboko_t_kyara_ex_3002",
+		"background": "fairy_world"
+	},
+	{
+		"ID": 89,
+		"same_character_id": 310131,
+		"face": "shy",
+		"serif": "失敗も成功も共有できる関係。,私と君は\nそんな関係を構築することができた。,この研究が終わったら、\n君にも名前を書いてほしい。,この世に一冊の共同著書にしよう",
+		"voice": "paracelsus_a_kyara_ex_1002,paracelsus_a_kyara_ex_2002,paracelsus_a_kyara_ex_3002,paracelsus_a_kyara_ex_4002",
+		"background": "fairy_world"
+	},
+	{
+		"ID": 90,
+		"same_character_id": 360111,
+		"face": "happy",
+		"serif": "マスターさんを守らなきゃって思ったら\n,敵を倒すことだけしか考えられなくて、\n口調も変わっちゃうんです,それぐらいマスターさんのことが\n大切なんですよ～？",
+		"voice": "vanargand_t_kyara_ex_1002,vanargand_t_kyara_ex_2002,vanargand_t_kyara_ex_3002",
+		"background": "fairy_world"
+	},
+	{
+		"ID": 91,
+		"same_character_id": 340101,
+		"face": "shy",
+		"serif": "風に揺ぐものはあっても、\n風は揺らぎません。,私の気持ちもそれは同じで…,マスター以外には\n揺らいだりしないのですよ？",
+		"voice": "abaris_a_kyara_ex_1002,abaris_a_kyara_ex_2002,abaris_a_kyara_ex_3002",
+		"background": "fairy_world"
+	},
+	{
+		"ID": 92,
+		"same_character_id": 350011,
+		"face": "happy",
+		"serif": "獣刻されていた私が、\nこうして自分の意志を持って暮らせるのも、,ぜーんぶ、マスターのおかげなんだよね…,マスターありがと！\nだーいすきだよっ！",
+		"voice": "keraunosu_ge_kyara_ex_1002,keraunosu_ge_kyara_ex_2002,keraunosu_ge_kyara_ex_3002",
+		"background": "fairy_world"
+	},
+	{
+		"ID": 93,
+		"same_character_id": 320171,
+		"face": "shy",
+		"serif": "ねえ、マスター。,お姉ちゃんでいっぱいなはずの胸が\nマスターでいっぱいになっていく…,今にも弾けちゃいそうだよ…",
+		"voice": "yagurushi_a_kyara_ex_1002,yagurushi_a_kyara_ex_2002,yagurushi_a_kyara_ex_3002",
+		"background": "fairy_world"
+	},
+	{
+		"ID": 94,
+		"same_character_id": 320161,
+		"face": "happy",
+		"serif": "マスターは約束を破らないって\n信じてますからね♪,契約違反がわかった時は,…わかってますよね",
+		"voice": "shita_a_kyara_ex_1002,shita_a_kyara_ex_2002,shita_a_kyara_ex_3002",
+		"background": "fairy_world"
+	},
+	{
+		"ID": 95,
+		"same_character_id": 330071,
+		"face": "happy",
+		"serif": "私はゲイボルグ…。\n識別系統Ｌ・◯六ではない…。,ふふ、当たり前と言ってくれるのか、主よ。感謝す…。,いや、ありがとう、マスター",
+		"voice": "gaiborugu_a_kyara_ex_1002,gaiborugu_a_kyara_ex_2002,gaiborugu_a_kyara_ex_3002",
+		"background": "fairy_world"
+	},
+	{
+		"ID": 96,
+		"same_character_id": 310381,
+		"face": "shy1",
+		"serif": "嫌いだったわ\nマスターってだけでなにもしないあなたが,……それは間違いだった,あなたは、力になりたくてもなれなくて、\nそれでも方法を探して…,悔しかったでしょ？苦しかったでしょ？,でも安心して。その気持ちは、\n私が全部受け取ったから",
+		"voice": "almace_kyara_ex_1002,almace_kyara_ex_2002,almace_kyara_ex_3002,almace_kyara_ex_4002,almace_kyara_ex_5002",
+		"background": "fairy_world"
+	},
+	{
+		"ID": 97,
+		"same_character_id": 320011,
+		"face": "happy",
+		"serif": "ミョルニルちゃんね、\nマスタとも繋がったのがわかったよ！,ふっふっふー,それはね、心、なんだよ！",
+		"voice": "myuruniru_ge_kyara_ex_1002,myuruniru_ge_kyara_ex_2002,myuruniru_ge_kyara_ex_3002",
+		"background": "fairy_world"
+	},
+	{
+		"ID": 98,
+		"same_character_id": 360061,
+		"face": "shy",
+		"serif": "ドリュアスは、\n木の寿命が終わると同時に死ぬそうです。,私は…,マスター様が終わるときまで、\nずっと一緒にいたいです…",
+		"voice": "misutoru_ge_kyara_ex_1002,misutoru_ge_kyara_ex_2002,misutoru_ge_kyara_ex_3002",
+		"background": "fairy_world"
+	},
+	{
+		"ID": 99,
+		"same_character_id": 310071,
+		"face": "happy",
+		"serif": "私にとって…,マスター、\nあなたはまさに理想の主です,終生の忠誠をここに,決して私は\nあなたを裏切りません",
+		"voice": "arondaito_ge_kyara_ex_1002,arondaito_ge_kyara_ex_2002,arondaito_ge_kyara_ex_3002,arondaito_ge_kyara_ex_4002",
+		"background": "fairy_world"
+	},
+	{
+		"ID": 100,
+		"same_character_id": 340081,
+		"face": "happy",
+		"serif": "マスターになら,あたしの底を\n見せてあげてもいいかもね,君にだけ、\n本当のあたしを教えるよ…",
+		"voice": "otyinusu_a_kyara_ex_1002,otyinusu_a_kyara_ex_2002,otyinusu_a_kyara_ex_3002",
+		"background": "fairy_world"
+	},
+	{
+		"ID": 101,
+		"same_character_id": 310401,
+		"face": "shy",
+		"serif": "私と、あなたと、\nベガが一緒に笑って暮らせたらそれで良い！,でも、バレないように、\n私とだけ、手を繋いでくれたら…。,えへへ、もっと嬉しいかも",
+		"voice": "morallta_kyara_ex_1002_1,morallta_kyara_ex_2002_1,morallta_kyara_ex_3002_1",
+		"background": "fairy_world"
+	},
+	{
+		"ID": 102,
+		"same_character_id": 310411,
+		"face": "irregular",
+		"serif": "光なんて嫌い。,世界なんて闇に包まれて、\n沈んでいけばいい。,わたしと貴方だけを残してね",
+		"voice": "beagallta_kyara_ex_1002_1,beagallta_kyara_ex_2002_1,beagallta_kyara_ex_3002_1",
+		"background": "fairy_world"
+	},
+	{
+		"ID": 103,
+		"same_character_id": 350241,
+		"face": "shy",
+		"serif": "あんな、マスター,うちをあそこから解放してくれたこと、\nほんま感謝してる,だから、こうして\n素のうちで気持ちを伝えたいんよ…,…ありがとう、マスター！",
+		"voice": "saika_a_kyara_ex_1002,saika_a_kyara_ex_2002,saika_a_kyara_ex_3002,saika_a_kyara_ex_4002",
+		"background": "fairy_world"
+	},
+	{
+		"ID": 104,
+		"same_character_id": 320031,
+		"face": "shy",
+		"serif": "マスターに歯向かおうだなんて、,ラブリュスちゃんが\nぜーったいに許さないんだからっ！,だから、ずーっと側に居させてね\nマスター！",
+		"voice": "loveryus_t_kyara_ex_1002,loveryus_t_kyara_ex_2002,loveryus_t_kyara_ex_3002",
+		"background": "fairy_world"
+	},
+	{
+		"ID": 105,
+		"same_character_id": 320191,
+		"face": "happy",
+		"serif": "ますた～…\nその…,ほらっ、マーラーカオだ！\nたべていいぞっ,いっぱい、\nいーっぱいせわになったし、,…これからもっともっと、\nせわになりたいからなっ",
+		"voice": "chihyu_a_kyara_ex_1002,chihyu_a_kyara_ex_2002,chihyu_a_kyara_ex_3002,chihyu_a_kyara_ex_4002",
+		"background": "fairy_world"
+	},
+	{
+		"ID": 106,
+		"same_character_id": 330181,
+		"face": "happy",
+		"serif": "他人に自分と同じ能力を求めるだなんて、\n自分勝手とはわかっているのですが…,マスター、どうか…,どうかこの気持ちを察してください…",
+		"voice": "forcas_t_kyara_ex_1002,forcas_t_kyara_ex_2002,forcas_t_kyara_ex_3002",
+		"background": "fairy_world"
+	},
+	{
+		"ID": 107,
+		"same_character_id": 4103800,
+		"face": "shy1",
+		"serif": "嫌いだったわ\nマスターってだけでなにもしないあなたが,……それは間違いだった,あなたは、力になりたくてもなれなくて、\nそれでも方法を探して…,悔しかったでしょ？苦しかったでしょ？,でも安心して。その気持ちは、\n私が全部受け取ったから",
+		"voice": "almace_kyara_ex_1002,almace_kyara_ex_2002,almace_kyara_ex_3002,almace_kyara_ex_4002,almace_kyara_ex_5002",
+		"background": "fairy_world"
+	},
+	{
+		"ID": 108,
+		"same_character_id": 4104000,
+		"face": "shy",
+		"serif": "私と、あなたと、\nベガが一緒に笑って暮らせたらそれで良い！,でも、バレないように、\n私とだけ、手を繋いでくれたら…。,えへへ、もっと嬉しいかも",
+		"voice": "morallta_kyara_ex_1002_1,morallta_kyara_ex_2002_1,morallta_kyara_ex_3002_1",
+		"background": "fairy_world"
+	},
+	{
+		"ID": 109,
+		"same_character_id": 4104100,
+		"face": "irregular",
+		"serif": "光なんて嫌い。,世界なんて闇に包まれて、\n沈んでいけばいい。,わたしと貴方だけを残してね",
+		"voice": "beagallta_kyara_ex_1002_1,beagallta_kyara_ex_2002_1,beagallta_kyara_ex_3002_1",
+		"background": "fairy_world"
+	},
+	{
+		"ID": 110,
+		"same_character_id": 340061,
+		"face": "happy",
+		"serif": "深まった絆の温かさ、\n体に広がっているのがわかります,ふつつか者ですが,これからもどうぞ\nよろしくお願いいたします",
+		"voice": "azusa_ge_kyara_ex_1002,azusa_ge_kyara_ex_2002,azusa_ge_kyara_ex_3002",
+		"background": "fairy_world"
+	},
+	{
+		"ID": 111,
+		"same_character_id": 360021,
+		"face": "shy",
+		"serif": "こんなに私を酷使するなんて、\n悪魔みたいなマスターだねー？,でもそれでいいよ。,あず・ゆー・らいく・いっと。",
+		"voice": "ganbantein_a_kyara_ex_1002,ganbantein_a_kyara_ex_2002,ganbantein_a_kyara_ex_3002",
+		"background": "fairy_world"
+	},
+	{
+		"ID": 112,
+		"same_character_id": 310021,
+		"face": "happy",
+		"serif": "ふぅ～、こうやって一息つけるのは\nあなたの前だけ…,ほら、あなたは私のマスターだからさ\nリーダーのリーダーってやつ…,ふふっ\n頼りにしてるよ、マスター",
+		"voice": "revatein_ge_kyara_ex_1002,revatein_ge_kyara_ex_2002,revatein_ge_kyara_ex_3002",
+		"background": "fairy_world"
+	},
+	{
+		"ID": 113,
+		"same_character_id": 330281,
+		"face": "shy",
+		"serif": "いいよ、先輩,何でもへレナが叶えてみせよう,どんなことでも、\n言葉と釘でなんとかしてみせるさ,…だからヘレナを、\nもっと大事にするんだぞ？",
+		"voice": "herena_a_kyara_ex_1002,herena_a_kyara_ex_2002,herena_a_kyara_ex_3002,herena_a_kyara_ex_4002",
+		"background": "fairy_world"
+	},
+	{
+		"ID": 114,
+		"same_character_id": 330201,
+		"face": "shy",
+		"serif": "死ぬしか楽園に行く道はないの\nだから頑張っても無駄よね,でも、きみのためなら…,少しくらいは頑張ってもいいかもね",
+		"voice": "pisear_t_kyara_ex_1002,pisear_t_kyara_ex_2002,pisear_t_kyara_ex_3002",
+		"background": "fairy_world"
+	},
+	{
+		"ID": 115,
+		"same_character_id": 360251,
+		"face": "shy",
+		"serif": "マスターさんの願い、叶えたくなっちゃった,だから、側にいて良い…かな？",
+		"voice": "chalice_t_kyara_ex_1002,chalice_t_kyara_ex_2002",
+		"background": "fairy_world"
+	},
+	{
+		"ID": 116,
+		"same_character_id": 310251,
+		"face": "happy",
+		"serif": "この心は、もうオロチからは逃れられないと\n思っていたのに,なのに、今はこうして主君のもとにいます…,主君と過ごす時間は、\n我を忘れてしまうような甘美な時間です…",
+		"voice": "muramasa_ge_kyara_ex_1002,muramasa_ge_kyara_ex_2002,muramasa_ge_kyara_ex_3002",
+		"background": "fairy_world"
+	},
+	{
+		"ID": 117,
+		"same_character_id": 330011,
+		"face": "happy",
+		"serif": "今こうしてマスターと\n平穏に過ごせているということは,私の祈りは天に届いたということ…,これからもマスターのために\nこの力を使いたいと思います",
+		"voice": "ronginusu_t_kyara_ex_1002,ronginusu_t_kyara_ex_2002,ronginusu_t_kyara_ex_3002",
+		"background": "fairy_world"
+	},
+	{
+		"ID": 118,
+		"same_character_id": 350311,
+		"face": "happy",
+		"serif": "これからも私は、\nマスターを守り続けるわ。,円周率やルート２のように\nずーっとね。,ふふっ、前にも言ったでしょ？,貴方の側を片時も離れない、って",
+		"voice": "solomon_t_kyara_ex_1002,solomon_t_kyara_ex_2002,solomon_t_kyara_ex_3002,solomon_t_kyara_ex_4002",
+		"background": "fairy_world"
+	},
+	{
+		"ID": 119,
+		"same_character_id": 330101,
+		"face": "shy",
+		"serif": "この世は、ほの暗い地獄。,ですが、あなたがいるから…,少しだけ、\nほんの少しだけですが…,明るくなった気がします",
+		"voice": "rhongomiant_a_kyara_ex_1002,rhongomiant_a_kyara_ex_2002,rhongomiant_a_kyara_ex_3002,rhongomiant_a_kyara_ex_4002",
+		"background": "fairy_world"
+	},
+	{
+		"ID": 120,
+		"same_character_id": 250271,
+		"face": "smile",
+		"serif": "…気づいたら\nマスターくんの事でいっぱいになってた,何よりも大切なのはマスターくんだって,呪いなんか来たって\n絶対に負けたりなんかしないよ！,だって…\nおねーちゃんの大切な人だもん",
+		"voice": "freischotz_kyara_ex_2002,freischotz_kyara_ex_3002,freischotz_kyara_ex_4002,freischotz_kyara_ex_5002",
+		"background": "sea_beach_day"
+	},
+	{
+		"ID": 121,
+		"same_character_id": 220042,
+		"face": "shy",
+		"serif": "自分だけの理想よりも…,マスターと共通の理想を\n一緒に叶えたい…,そう強く思ったんだ",
+		"voice": "parashu_k_kyara_ex_1002,parashu_k_kyara_ex_2002,parashu_k_kyara_ex_3002",
+		"background": "sea_beach_day"
+	},
+	{
+		"ID": 122,
+		"same_character_id": 210142,
+		"face": "happy",
+		"serif": "…アナタと親密になって\n…嬉しい？　私が？　なぜ…？,どうして\nこんな気持ちが湧いてくるんでしょう…",
+		"voice": "tyrufing_k_kyara_1018,tyrufing_k_kyara_2018",
+		"background": "sea_beach_day"
+	},
+	{
+		"ID": 123,
+		"same_character_id": 310231,
+		"face": "shy",
+		"serif": "私を包んでいた嫉妬の氷、\nマスターはそれを溶かしてくれたんですっ！,そんな力を持つマスターが羨ましい…,ふふっ…なんて冗談ですよっ",
+		"voice": "ascalon_a_kyara_ex_1002,ascalon_a_kyara_ex_2002,ascalon_a_kyara_ex_3002",
+		"background": "fairy_world"
+	},
+	{
+		"ID": 124,
+		"same_character_id": 350171,
+		"face": "happy",
+		"serif": "マスターはワタシから逃げないのね\n憤怒に狂うこのワタシから…,それは一体どうしてかしら？,…まぁいいわ。キミがワタシの隣にいる\nその事実だけで十分,たとえ世界が滅んでも\nキミだけは救ってあげる",
+		"voice": "grimoire_ge_kyara_ex_1002,grimoire_ge_kyara_ex_2002,grimoire_ge_kyara_ex_3002,grimoire_ge_kyara_ex_4002",
+		"background": "fairy_world"
+	},
+	{
+		"ID": 125,
+		"same_character_id": 250251,
+		"face": "happy",
+		"serif": "マスターならば我が爆裂魔法を\n存分に活躍させてくれます！,私にとって、いろんな意味で、\n唯一無二の大切な人です",
+		"voice": "megumin_kyara_ex_1002,megumin_kyara_ex_2002",
+		"background": "sea_beach_day"
+	},
+	{
+		"ID": 126,
+		"same_character_id": 210341,
+		"face": "happy",
+		"serif": "マスター、あなたを守るため、\nこの体のすべてを捧げよう,…個人的な趣味はさておき、\n純粋にあなたの力になりたいのだ…！",
+		"voice": "dakunesu_kyara_ex_1002,dakunesu_kyara_ex_2002",
+		"background": "sea_beach_day"
+	},
+	{
+		"ID": 127,
+		"same_character_id": 230251,
+		"face": "smile",
+		"serif": "改めて言うことではありませんが、\nマスターがあってこその私なのです,これからもよろしくお願いしますね",
+		"voice": "minerva_kyara_ex_1002,minerva_kyara_ex_2002",
+		"background": "sea_beach_day"
+	},
+	{
+		"ID": 128,
+		"same_character_id": 240012,
+		"face": "smile",
+		"serif": "マスターと共に高みを目指したい…,心からそう思います",
+		"voice": "arutemisu_k_kyara_ex_1002,arutemisu_k_kyara_ex_2002",
+		"background": "sea_beach_day"
+	},
+	{
+		"ID": 129,
+		"same_character_id": 240171,
+		"face": "happy",
+		"serif": "マスター、\nこれからも共に歩んでいきましょう,…あっ、い、言えた！",
+		"voice": "suiha_kyara_ex_1002,suiha_kyara_ex_2002",
+		"background": "sea_beach_day"
+	},
+	{
+		"ID": 130,
+		"same_character_id": 210361,
+		"face": "smile",
+		"serif": "今、こうして私が話せるのも、\nマスターのおかげなんだよね…,マスター、ありがと",
+		"voice": "ragnarok_kyara_ex_1002,ragnarok_kyara_ex_2002",
+		"background": "sea_beach_day"
+	},
+	{
+		"ID": 131,
+		"same_character_id": 230012,
+		"face": "happy",
+		"serif": "マスターのためなら、\nこの力のすべてを託しても良い…,それが今の、私の正直な気持ちです",
+		"voice": "ronginusu_k_kyara_ex_1002,ronginusu_k_kyara_ex_2002",
+		"background": "sea_beach_day"
+	},
+	{
+		"ID": 132,
+		"same_character_id": 260171,
+		"face": "smile",
+		"serif": "マスター、\nあなたはやれる子だって信じてたわ,これからは私と一緒に\nアクシズ教を広めていきま…,あっ、冗談だから！\nそんな冷たい目で見ないでー！",
+		"voice": "akua_kyara_ex_2002,akua_kyara_ex_3002,akua_kyara_ex_1002",
+		"background": "sea_beach_day"
+	},
+	{
+		"ID": 133,
+		"same_character_id": 210143,
+		"face": "smile",
+		"serif": "あの…マスター…,マスターの願いって\n私が叶えることができますか？",
+		"voice": "tyrufing_kyara_1026,tyrufing_kyara_2026",
+		"background": "sea_beach_day"
+	},
+	{
+		"ID": 134,
+		"same_character_id": 340131,
+		"face": "happy",
+		"serif": "マスター、お分かりですか？,わたしの胸に美しく閃く想い…,狂おしくわたしを貫く\n雷のような愛を！",
+		"voice": "aphrodite_a_kyara_ex_1002,aphrodite_a_kyara_ex_2002,aphrodite_a_kyara_ex_3002",
+		"background": "fairy_world"
+	},
+	{
+		"ID": 135,
+		"same_character_id": 350021,
+		"face": "shy",
+		"serif": "からっぽだったわたしのハートは…,すっかり、\nきみの弾薬で満たされたよ,きみがわたしを\n撃ち抜いたんだ、ダーリン",
+		"voice": "furaikugeru_t_kyara_ex_1002,furaikugeru_t_kyara_ex_2002,furaikugeru_t_kyara_ex_3002",
+		"background": "fairy_world"
+	},
+	{
+		"ID": 136,
+		"same_character_id": 210012,
+		"face": "shy",
+		"serif": "ただの刀である\n拙者がおこがましいのですが,背中を向けられるのは主君だけだと、\n改めて実感いたしました",
+		"voice": "masamune_k_kyara_ex_1002,masamune_k_kyara_ex_2002",
+		"background": "sea_beach_day"
+	},
+	{
+		"ID": 137,
+		"same_character_id": 210351,
+		"face": "happy",
+		"serif": "…うん、クレスも覚悟、決めたよ！,…いつ、頭の上から剣が\n落ちてくるかわからなくても,落ちてくる剣に黙って当たらなきゃ\nいけないってこと、ないもんね,マスターとクレスのどっちが\n死にそうになっても絶対に諦めない！",
+		"voice": "damocles_kyara_ex_1002,damocles_kyara_ex_2002,damocles_kyara_ex_3002,damocles_kyara_ex_4002",
+		"background": "sea_beach_day"
+	},
+	{
+		"ID": 138,
+		"same_character_id": 260201,
+		"face": "happy",
+		"serif": "わたし、わかりましたから。\n好きになることは、悪くないんです！,気持ちに流されたりしなければ、\nいいんです,だ、だから…,…お兄ちゃん、\nわたしと、腕を組んでみてくれる…？",
+		"voice": "ness_kyara_ex_1002,ness_kyara_ex_2002,ness_kyara_ex_3002,ness_kyara_ex_4002",
+		"background": "sea_beach_day"
+	},
+	{
+		"ID": 139,
+		"same_character_id": 220251,
+		"face": "happy",
+		"serif": "私はみんなの\n《希望》になりたいと思っています,…でも、私にとっての《希望》は\nマスターなんです！,これからも、\n私の背中を押してくださいねっ",
+		"voice": "hercule_kyara_ex_1002,hercule_kyara_ex_2002,hercule_kyara_ex_3002",
+		"background": "sea_beach_day"
+	},
+	{
+		"ID": 140,
+		"same_character_id": 210022,
+		"face": "happy",
+		"serif": "なにもかもがめんどくさいのに,マスターのためなら\n《がんばろう》って思えるんだよね,ふふっ、なんでかな",
+		"voice": "revatein_k_kyara_ex_1002,revatein_k_kyara_ex_2002,revatein_k_kyara_ex_3002",
+		"background": "sea_beach_day"
+	},
+	{
+		"ID": 141,
+		"same_character_id": 320041,
+		"face": "shy",
+		"serif": "罪には罰を…\nそして、功績には褒賞を,それは当然のことだろう？,だからマスター…,ここまで従ってきたボクを\n誉めてくれるかい？",
+		"voice": "parashu_a_kyara_ex_1002,parashu_a_kyara_ex_2002,parashu_a_kyara_ex_3002,parashu_a_kyara_ex_4002",
+		"background": "fairy_world"
+	},
+	{
+		"ID": 142,
+		"same_character_id": 340011,
+		"face": "happy",
+		"serif": "マスターが一緒にいてくれるので…,迷いなく矢を放てるのです,これからも私を導いてくださいね",
+		"voice": "arutemisu_ge_kyara_ex_1002,arutemisu_ge_kyara_ex_2002,arutemisu_ge_kyara_ex_3002",
+		"background": "fairy_world"
+	},
+	{
+		"ID": 143,
+		"same_character_id": 230261,
+		"face": "smile",
+		"serif": "マスターがしんじ、\nつきすすむ《せいぎ》に,あたしもいっしょに\nつれていってくれないか？",
+		"voice": "grayside_kyara_ex_1002,grayside_kyara_ex_2002",
+		"background": "sea_beach_day"
+	},
+	{
+		"ID": 144,
+		"same_character_id": 250022,
+		"face": "smile",
+		"serif": "サッドでベァッドな\n表情は好きなんだけど…,なんだろ…,マスターのは\n別にノーサンキューかな",
+		"voice": "furaikugeru_k_kyara_ex_1002,furaikugeru_k_kyara_ex_2002,furaikugeru_k_kyara_ex_3002",
+		"background": "sea_beach_day"
+	},
+	{
+		"ID": 145,
+		"same_character_id": 310407,
+		"face": "shy",
+		"serif": "私と、あなたと、\nベガが一緒に笑って暮らせたらそれで良い！,でも、バレないように、\n私とだけ、手を繋いでくれたら…。,えへへ、もっと嬉しいかも",
+		"voice": "morallta_kyara_ex_1002_1,morallta_kyara_ex_2002_1,morallta_kyara_ex_3002_1",
+		"background": "fairy_world"
+	},
+	{
+		"ID": 146,
+		"same_character_id": 310417,
+		"face": "shy",
+		"serif": "光なんて嫌い。,世界なんて闇に包まれて、\n沈んでいけばいい。,わたしと貴方だけを残してね",
+		"voice": "beagallta_kyara_ex_1002_1,beagallta_kyara_ex_2002_1,beagallta_kyara_ex_3002_1",
+		"background": "fairy_world"
+	},
+	{
+		"ID": 147,
+		"same_character_id": 340041,
+		"face": "happy",
+		"serif": "高鳴る愛の鼓動が\n抑えきれませ～ん,…マスターのせいなんですから、\n受け止めてください～！",
+		"voice": "erosu_t_kyara_ex_1002,erosu_t_kyara_ex_2002",
+		"background": "fairy_world"
+	},
+	{
+		"ID": 148,
+		"same_character_id": 320121,
+		"face": "happy",
+		"serif": "マスターは本当にあたしを\n信じてくれるんだねぇ。,ほら、あたしって口では\n大きいこと言うからさぁ,でも、ここまで信じられると、\nそれを真実にしてみたくなるよね,あたしの全力、\n全部マスターのために使ってあげるわ,そんなあたしを見て\n痺れちゃいなよ？,―なんてね♪",
+		"voice": "srand_ge_kyara_ex_1002,srand_ge_kyara_ex_2002,srand_ge_kyara_ex_3002,srand_ge_kyara_ex_4002,srand_ge_kyara_ex_5002,srand_ge_kyara_ex_6002",
+		"background": "fairy_world"
+	},
+	{
+		"ID": 149,
+		"same_character_id": 310141,
+		"face": "happy",
+		"serif": "私が目覚めた理由、\nそれはただ一つの事のためと思っていました,ですが今は、今は違います…,そう、あなたと再び会うためだったのですね",
+		"voice": "tyrufing_lo_kyara_ex_1002,tyrufing_lo_kyara_ex_2002,tyrufing_lo_kyara_ex_3002",
+		"background": "fairy_world"
+	},
+	{
+		"ID": 150,
+		"same_character_id": 350321,
+		"face": "happy",
+		"serif": "これがバイブス…,ああ、分かります…\n分かってしまいます…,私たちに必要だったのは…\n人の心だった",
+		"voice": "tiphereth_t_kyara_ex_1002,tiphereth_t_kyara_ex_2002,tiphereth_t_kyara_ex_3002",
+		"background": "fairy_world"
+	},
+	{
+		"ID": 151,
+		"same_character_id": 330211,
+		"face": "happy",
+		"serif": "ボーは穢れてて…\nそれに、半人前です,でも、マスターはそれで良いと\n言ってくれました,半人前のボーと半人前のマスター、\n二人で一人前ですね…",
+		"voice": "gaebuide_ge_kyara_ex_1002,gaebuide_ge_kyara_ex_2002,gaebuide_ge_kyara_ex_3002",
+		"background": "fairy_world"
+	},
+	{
+		"ID": 152,
+		"same_character_id": 360271,
+		"face": "happy",
+		"serif": "いいの、かな。,私が…、私なんかが、\nこんな嬉しいことばっかりしてもらって",
+		"voice": "emiria_kyara_1018,emiria_kyara_2018",
+		"background": "fairy_world"
+	},
+	{
+		"ID": 153,
+		"same_character_id": 320291,
+		"face": "shy",
+		"serif": "あぁ……,レムは今、このときのために\n生まれてきたんですね",
+		"voice": "remu_kyara_1018,remu_kyara_2018",
+		"background": "fairy_world"
+	},
+	{
+		"ID": 154,
+		"same_character_id": 350331,
+		"face": "happy",
+		"serif": "ご褒美に\n蒸かし芋をご馳走してあげるわ",
+		"voice": "ramu_kyara_1018",
+		"background": "fairy_world"
+	},
+	{
+		"ID": 155,
+		"same_character_id": 350332,
+		"face": "angry",
+		"serif": "ラムに任せなさい",
+		"voice": "ramu_yousyou_unit_1008",
+		"background": "fairy_world"
+	},
+	{
+		"ID": 161,
+		"same_character_id": 310081,
+		"face": "happy",
+		"serif": "ああ、バルムンク以外に\n大切な者が出来てしまうなんて…,これは罪かしら…？\nいいえ、この気持ちが罪なわけがない,私の翼をマスターに預けます\n君の未来に平穏あれ！",
+		"voice": "guramu_t_kyara_ex_1002,guramu_t_kyara_ex_2002,guramu_t_kyara_ex_3002",
+		"background": "fairy_world"
+	},
+	{
+		"ID": 162,
+		"same_character_id": 340191,
+		"face": "happy",
+		"serif": "ふんっ、\nここまでの旅路、見事よ,ふふっ、ダメね…\n言い方を変えましょうか,あなたは今や、私と同じぐらい\n輝きを見せているわ",
+		"voice": "failnaught_a_kyara_ex_1002,failnaught_a_kyara_ex_2002,failnaught_a_kyara_ex_3002",
+		"background": "fairy_world"
+	},
+	{
+		"ID": 163,
+		"same_character_id": 320292,
+		"face": "happy",
+		"serif": "あは、ははは\nあはははは――",
+		"voice": "remu_onika_unit_1006",
+		"background": "fairy_world"
+	},
+	{
+		"ID": 164,
+		"same_character_id": 320071,
+		"face": "happy",
+		"serif": "私は、よく広い心に\n深い愛情があると言われますが,マスターには敵いませんね",
+		"voice": "sharuuru_ge_kyara_ex_1002,sharuuru_ge_kyara_ex_2002",
+		"background": "fairy_world"
+	},
+	{
+		"ID": 165,
+		"same_character_id": 310091,
+		"face": "happy",
+		"serif": "もう…こんなに頼られたら、\nち、力を貸すしかないわよね,ええ、あなたの傍なら、\nどんな過酷な場所であっても,咲き誇ることが出来るわ…！",
+		"voice": "barumunku_t_kyara_ex_1002,barumunku_t_kyara_ex_2002,barumunku_t_kyara_ex_3002",
+		"background": "fairy_world"
+	},
+	{
+		"ID": 166,
+		"same_character_id": 360252,
+		"face": "shy",
+		"serif": "マスターさんの願い、叶えたくなっちゃった,だから、側にいて良い…かな？",
+		"voice": "chalice_t_kyara_ex_1002,chalice_t_kyara_ex_2002",
+		"background": "fairy_world"
+	},
+	{
+		"ID": 167,
+		"same_character_id": 330182,
+		"face": "shy",
+		"serif": "他人に自分と同じ能力を求めるだなんて、\n自分勝手とはわかっているのですが…,マスター、どうか…,どうかこの気持ちを察してください…",
+		"voice": "forcas_t_kyara_ex_1002,forcas_t_kyara_ex_2002,forcas_t_kyara_ex_3002",
+		"background": "fairy_world"
+	},
+	{
+		"ID": 168,
+		"same_character_id": 330311,
+		"face": "happy",
+		"serif": "空っぽだったわたしの中を\n御館様との記憶が満たしていく…,わたしは…\n空虚ではないのね…,仲間が…そして、\nあなたが居てくれるのだから",
+		"voice": "cassius_ge_kyara_ex_1002,cassius_ge_kyara_ex_2002,cassius_ge_kyara_ex_3002",
+		"background": "fairy_world"
+	},
+	{
+		"ID": 169,
+		"same_character_id": 340102,
+		"face": "smile",
+		"serif": "風に揺ぐものはあっても、\n風は揺らぎません。,私の気持ちもそれは同じで…,マスター以外には\n揺らいだりしないのですよ？",
+		"voice": "abaris_a_kyara_ex_1002,abaris_a_kyara_ex_2002,abaris_a_kyara_ex_3002",
+		"background": "fairy_world"
+	},
+	{
+		"ID": 170,
+		"same_character_id": 350312,
+		"face": "shy",
+		"serif": "これからも私は、\nマスターを守り続けるわ。,円周率やルート２のように\nずーっとね。,ふふっ、前にも言ったでしょ？,貴方の側を片時も離れない、って",
+		"voice": "solomon_t_kyara_ex_1002,solomon_t_kyara_ex_2002,solomon_t_kyara_ex_3002,solomon_t_kyara_ex_4002",
+		"background": "fairy_world"
+	},
+	{
+		"ID": 171,
+		"same_character_id": 330321,
+		"face": "shy",
+		"serif": "ふん…このわたしが\nあなたの進む先に虹をかけてあげる,感謝しなさい,あなたの未来は\n七色に輝いているわ",
+		"voice": "gaedearg_ge_kyara_ex_1002,gaedearg_ge_kyara_ex_2002,gaedearg_ge_kyara_ex_3002",
+		"background": "fairy_world"
+	},
+	{
+		"ID": 172,
+		"same_character_id": 320051,
+		"face": "happy",
+		"serif": "わたしには感情の音色が\n聴こえるんです,…でも、なんていうか…\nやっぱり心が落ちつかないときもあって,そんなとき…こうして\nマスターの隣にいてもいいですか？",
+		"voice": "mitwumu_t_kyara_ex_1002,mitwumu_t_kyara_ex_2002,mitwumu_t_kyara_ex_3002",
+		"background": "fairy_world"
+	},
+	{
+		"ID": 173,
+		"same_character_id": 360081,
+		"face": "shy",
+		"serif": "自分が望むことを相手にもせよ…\n黄金律というやつだよ,一見平和的に見えるけど、\nただのエゴにもなりうる,でもね、エゴでも私は\n君に世話を焼きたくなるんだ",
+		"voice": "guridavoru_a_kyara_ex_1002,guridavoru_a_kyara_ex_2002,guridavoru_a_kyara_ex_3002",
+		"background": "fairy_world"
+	},
+	{
+		"ID": 174,
+		"same_character_id": 330282,
+		"face": "shy",
+		"serif": "いいよ、先輩,何でもへレナが叶えてみせよう,どんなことでも、\n言葉と釘でなんとかしてみせるさ,…だからヘレナを、\nもっと大事にするんだぞ？",
+		"voice": "herena_a_kyara_ex_1002,herena_a_kyara_ex_2002,herena_a_kyara_ex_3002,herena_a_kyara_ex_4002",
+		"background": "fairy_world"
+	},
+	{
+		"ID": 175,
+		"same_character_id": 340082,
+		"face": "shy",
+		"serif": "マスターになら,あたしの底を\n見せてあげてもいいかもね,君にだけ、\n本当のあたしを教えるよ…",
+		"voice": "otyinusu_a_kyara_ex_1002,otyinusu_a_kyara_ex_2002,otyinusu_a_kyara_ex_3002",
+		"background": "fairy_world"
+	},
+	{
+		"ID": 176,
+		"same_character_id": 340171,
+		"face": "happy",
+		"serif": "こんなにもあなたに\n変えられてしまったか,それを良しとするには\nもう少し掛かりそう…,もうしばらく共に行こう、\nマスター",
+		"voice": "suiha_c_kyara_ex_1002,suiha_c_kyara_ex_2002,suiha_c_kyara_ex_3002",
+		"background": "fairy_world"
+	},
+	{
+		"ID": 177,
+		"same_character_id": 320201,
+		"face": "shy",
+		"serif": "危機感もなく近づいて…\nあなたって馬鹿なのかしら？,私はあなたを傷つけそうで\n怖くなってきたのに…,はぁ…触れられないなんて、\nもどかしいわねぇ…",
+		"voice": "harpe_t_kyara_ex_1002,harpe_t_kyara_ex_2002,harpe_t_kyara_ex_3002",
+		"background": "fairy_world"
+	},
+	{
+		"ID": 178,
+		"same_character_id": 310031,
+		"face": "happy",
+		"serif": "わたくしは破壊と狂乱をもたらす者,戦場以外に居場所はないと\n思っていましたのに…,貴方の傍は\n何だか安心するのですわ♪",
+		"voice": "durandaru_a_kyara_ex_1002,durandaru_a_kyara_ex_2002,durandaru_a_kyara_ex_3002",
+		"background": "fairy_world"
+	},
+	{
+		"ID": 179,
+		"same_character_id": 350211,
+		"face": "shy",
+		"serif": "あなたを前にすると、\nいつものように騙せなくなる…,思考が上手く\n回らなくなってしまうのです,この気持ちはまるで…\nいえ、何でもありません",
+		"voice": "sefer_a_kyara_ex_1002,sefer_a_kyara_ex_2002,sefer_a_kyara_ex_3002",
+		"background": "fairy_world"
+	},
+	{
+		"ID": 180,
+		"same_character_id": 310111,
+		"face": "happy",
+		"serif": "ああ、聖なるかな\n我が君…,私はあなた様以上の\n光を知りません,この命に代えても\nその輝きをお守りいたします！",
+		"voice": "excalibur_t_kyara_ex_1002,excalibur_t_kyara_ex_2002,excalibur_t_kyara_ex_3002",
+		"background": "fairy_world"
+	},
+	{
+		"ID": 181,
+		"same_character_id": 340051,
+		"face": "happy",
+		"serif": "マスターと\n心が繋がった実感がします,…これが\n信頼というものなんですね,すごく幸せです",
+		"voice": "yoichi_ge_kyara_ex_1002,yoichi_ge_kyara_ex_2002,yoichi_ge_kyara_ex_3002",
+		"background": "fairy_world"
+	},
+	{
+		"ID": 182,
+		"same_character_id": 350271,
+		"face": "happy",
+		"serif": "あ～あ、これで、もう…\nマスターくんからは逃げられないね,でも、それでもいいかなって\n思うお姉さんがいるの,今までより、少しだけ\nマスターくんを見ててあげる",
+		"voice": "freischotz_c_kyara_ex_1002,freischotz_c_kyara_ex_2002,freischotz_c_kyara_ex_3002",
+		"background": "fairy_world"
+	},
+	{
+		"ID": 183,
+		"same_character_id": 330141,
+		"face": "happy",
+		"serif": "マスターを想う気持ちが\n強くなればなるほど,わたくしだけのものに\nしたくなりますわ…,この気持ちはなんなんですの？",
+		"voice": "ithuriel_a_kyara_ex_1002,ithuriel_a_kyara_ex_2002,ithuriel_a_kyara_ex_3002",
+		"background": "fairy_world"
+	},
+	{
+		"ID": 184,
+		"same_character_id": 360041,
+		"face": "smile",
+		"serif": "やっぱり私とマスターは\n運命の糸で結ばれていたんだね！,漆黒の翼に誓って、\nこれからも君を支え続けるわ！,だから君も、私を絶対離さないでね？\n約束だよ？",
+		"voice": "kadokeusu_ge_kyara_ex_1002,kadokeusu_ge_kyara_ex_2002,kadokeusu_ge_kyara_ex_3002",
+		"background": "fairy_world"
+	},
+	{
+		"ID": 185,
+		"same_character_id": 310351,
+		"face": "shy",
+		"serif": "すべてのものを\n平等に愛し、殺す…,これが、マスター達が\n感じる愛なのかな,でも、大丈夫だよね\n愛はいつでもクレス様のものだもん",
+		"voice": "damocles_c_kyara_ex_1002,damocles_c_kyara_ex_2002,damocles_c_kyara_ex_3002",
+		"background": "fairy_world"
+	},
+	{
+		"ID": 186,
+		"same_character_id": 410021,
+		"face": "happy",
+		"serif": "ふぅ～、こうやって一息つけるのは\nあなたの前だけ…,ほら、あなたは私のマスターだからさ\nリーダーのリーダーってやつ…,ふふっ\n頼りにしてるよ、マスター",
+		"voice": "revatein_ge_kyara_ex_1002,revatein_ge_kyara_ex_2002,revatein_ge_kyara_ex_3002",
+		"background": "fairy_world"
+	},
+	{
+		"ID": 187,
+		"same_character_id": 430280,
+		"face": "happy",
+		"serif": "いいよ、先輩,何でもへレナが叶えてみせよう,どんなことでも、\n言葉と釘でなんとかしてみせるさ,…だからヘレナを、\nもっと大事にするんだぞ？",
+		"voice": "herena_a_kyara_ex_1002,herena_a_kyara_ex_2002,herena_a_kyara_ex_3002,herena_a_kyara_ex_4002",
+		"background": "fairy_world"
+	},
+	{
+		"ID": 188,
+		"same_character_id": 460250,
+		"face": "happy",
+		"serif": "マスターさんの願い、叶えたくなっちゃった,だから、側にいて良い…かな？",
+		"voice": "chalice_t_kyara_ex_1002,chalice_t_kyara_ex_2002",
+		"background": "fairy_world"
+	},
+	{
+		"ID": 189,
+		"same_character_id": 450310,
+		"face": "happy",
+		"serif": "これからも私は、\nマスターを守り続けるわ。,円周率やルート２のように\nずーっとね。,ふふっ、前にも言ったでしょ？,貴方の側を片時も離れない、って",
+		"voice": "solomon_t_kyara_ex_1002,solomon_t_kyara_ex_2002,solomon_t_kyara_ex_3002,solomon_t_kyara_ex_4002",
+		"background": "fairy_world"
+	},
+	{
+		"ID": 190,
+		"same_character_id": 450320,
+		"face": "happy",
+		"serif": "これがバイブス…,ああ、分かります…\n分かってしまいます…,私たちに必要だったのは…\n人の心だった",
+		"voice": "tiphereth_t_kyara_ex_1002,tiphereth_t_kyara_ex_2002,tiphereth_t_kyara_ex_3002",
+		"background": "fairy_world"
+	},
+	{
+		"ID": 191,
+		"same_character_id": 440190,
+		"face": "happy",
+		"serif": "ふんっ、\nここまでの旅路、見事よ,ふふっ、ダメね…\n言い方を変えましょうか,あなたは今や、私と同じぐらい\n輝きを見せているわ",
+		"voice": "failnaught_a_kyara_ex_1002,failnaught_a_kyara_ex_2002,failnaught_a_kyara_ex_3002",
+		"background": "fairy_world"
+	},
+	{
+		"ID": 192,
+		"same_character_id": 430310,
+		"face": "happy",
+		"serif": "空っぽだったわたしの中を\n御館様との記憶が満たしていく…,わたしは…\n空虚ではないのね…,仲間が…そして、\nあなたが居てくれるのだから",
+		"voice": "cassius_ge_kyara_ex_1002,cassius_ge_kyara_ex_2002,cassius_ge_kyara_ex_3002",
+		"background": "fairy_world"
+	},
+	{
+		"ID": 193,
+		"same_character_id": 430320,
+		"face": "happy",
+		"serif": "ふん…このわたしが\nあなたの進む先に虹をかけてあげる,感謝しなさい,あなたの未来は\n七色に輝いているわ",
+		"voice": "gaedearg_ge_kyara_ex_1002,gaedearg_ge_kyara_ex_2002,gaedearg_ge_kyara_ex_3002",
+		"background": "fairy_world"
+	},
+	{
+		"ID": 194,
+		"same_character_id": 320192,
+		"face": "shy",
+		"serif": "ますた～…\nその…,ほらっ、マーラーカオだ！\nたべていいぞっ,いっぱい、\nいーっぱいせわになったし、,…これからもっともっと、\nせわになりたいからなっ",
+		"voice": "chihyu_a_kyara_ex_1002,chihyu_a_kyara_ex_2002,chihyu_a_kyara_ex_3002,chihyu_a_kyara_ex_4002",
+		"background": "fairy_world"
+	},
+	{
+		"ID": 195,
+		"same_character_id": 360112,
+		"face": "smile",
+		"serif": "マスターさんを守らなきゃって思ったら\n,敵を倒すことだけしか考えられなくて、\n口調も変わっちゃうんです,それぐらいマスターさんのことが\n大切なんですよ～？",
+		"voice": "vanargand_t_kyara_ex_1002,vanargand_t_kyara_ex_2002,vanargand_t_kyara_ex_3002",
+		"background": "fairy_world"
+	},
+	{
+		"ID": 196,
+		"same_character_id": 310181,
+		"face": "smile",
+		"serif": "いつも応援ありがとう、マスター♪,ワタシたち、\n最高のパートナーってやつだよね！,これからも、\nピカピカッと笑顔で頑張ろぉ～ぅ☆",
+		"voice": "denparley_u_kyara_ex_1002,denparley_u_kyara_ex_2002,denparley_u_kyara_ex_3002",
+		"background": "fairy_world"
+	},
+	{
+		"ID": 197,
+		"same_character_id": 320251,
+		"face": "shy",
+		"serif": "私の希望は世界を救済すること…\nそれが全てだったのに…,あなたという一人の存在に\n心を乱されるなんて…,不要な感情、だけど…\nどうして消せないのでしょう…",
+		"voice": "hercule_c_kyara_ex_1002,hercule_c_kyara_ex_2002,hercule_c_kyara_ex_3002",
+		"background": "fairy_world"
+	},
+	{
+		"ID": 198,
+		"same_character_id": 310061,
+		"face": "shy",
+		"serif": "…マスター、\n私、おかしくなったのでしょうか？,エノ様よりも、\nマスターの声が聞きたいんです",
+		"voice": "nageruring_t_kyara_ex_1002,nageruring_t_kyara_ex_2002",
+		"background": "fairy_world"
+	},
+	{
+		"ID": 199,
+		"same_character_id": 330261,
+		"face": "smile",
+		"serif": "うむ\nおまえにたよられるのは悪くない,主ではなく、\n子分のたのみとして手をかしてやろう,だまってあたしだけを信じろ\nいいな？",
+		"voice": "grayside_c_kyara_ex_1002,grayside_c_kyara_ex_2002,grayside_c_kyara_ex_3002",
+		"background": "fairy_world"
+	},
+	{
+		"ID": 200,
+		"same_character_id": 360272,
+		"face": "shy",
+		"serif": "いいの、かな。,私が…、私なんかが、\nこんな嬉しいことばっかり\nしてもらって",
+		"voice": "emiria_kyara_1018,emiria_kyara_2018",
+		"background": "fairy_world"
+	},
+	{
+		"ID": 201,
+		"same_character_id": 330251,
+		"face": "shy",
+		"serif": "…気づくと、\nいつもあなたを目で追っています,私が目を奪われるなんて…\nこれもきっとバイブスの影響ですね,ああ…\nあなたのことを解明しなくては…！",
+		"voice": "minerva_c_kyara_ex_1002,minerva_c_kyara_ex_2002,minerva_c_kyara_ex_3002",
+		"background": "fairy_world"
+	},
+	{
+		"ID": 202,
+		"same_character_id": 330031,
+		"face": "shy",
+		"serif": "オレの破壊の力は役に立っているか？,いや、その…。,オレとしたことが、\n柄にもなく心配になってよ…",
+		"voice": "hotengageki_a_kyara_ex_1002,hotengageki_a_kyara_ex_2002,hotengageki_a_kyara_ex_3002",
+		"background": "fairy_world"
+	},
+	{
+		"ID": 203,
+		"same_character_id": 350031,
+		"face": "shy",
+		"serif": "お主のすべてを検索し終えた,お主の言動にウソや偽りはない,ならば、わらわはお主の進む道に\n真実を映しだそう",
+		"voice": "yatanokagami_ge_kyara_ex_1002,yatanokagami_ge_kyara_ex_2002,yatanokagami_ge_kyara_ex_3002",
+		"background": "fairy_world"
+	},
+	{
+		"ID": 204,
+		"same_character_id": 360201,
+		"face": "shy",
+		"serif": "まったく…\n潔く死を受け入れるべきなのです,…なのに、\n敢えて運命に抗うとは愚か者ですね,そんなお兄ちゃんの未来は…\nわたしが責任持って見届けてあげます",
+		"voice": "ness_c_kyara_ex_1002,ness_c_kyara_ex_2002,ness_c_kyara_ex_3002",
+		"background": "fairy_world"
+	},
+	{
+		"ID": 205,
+		"same_character_id": 350333,
+		"face": "smile",
+		"serif": "ご褒美に\n蒸かし芋をご馳走してあげるわ",
+		"voice": "ramu_kyara_1018",
+		"background": "fairy_world"
+	},
+	{
+		"ID": 206,
+		"same_character_id": 310361,
+		"face": "happy",
+		"serif": "過去は結果でしかない\n変えられるのは未来だけ,けれど後悔という闇は人を飲み込む\nその時はこの御旗を探して,これはお前の道しるべ\n闇を裂き、お前を連れ出す光の剣よ",
+		"voice": "ragnarok_c_kyara_ex_1002,ragnarok_c_kyara_ex_2002,ragnarok_c_kyara_ex_3002",
+		"background": "fairy_world"
+	},
+	{
+		"ID": 207,
+		"same_character_id": 320293,
+		"face": "smile",
+		"serif": "あぁ……,レムは今、\nこのときのために\n生まれてきたんですね",
+		"voice": "remu_kyara_1018,remu_kyara_2018",
+		"background": "fairy_world"
+	},
+	{
+		"ID": 208,
+		"same_character_id": 350201,
+		"face": "happy",
+		"serif": "おまえが気にしねぇなら、\nあたしはずっと傍にいるぞ,一緒に戦って飯食って…\nそんで寝るまで話すんだ,どうなっても知らねーぞ\n覚悟しとけよなっ！",
+		"voice": "tasuramu_ge_kyara_ex_1002,tasuramu_ge_kyara_ex_2002,tasuramu_ge_kyara_ex_3002",
+		"background": "fairy_world"
+	},
+	{
+		"ID": 209,
+		"same_character_id": 320061,
+		"face": "happy",
+		"serif": "見ててよ～\n,ダグダ、きっと力をうまく\nコントロールできるようになるからっ",
+		"voice": "daguda_ge_kyara_ex_1002,daguda_ge_kyara_ex_2002",
+		"background": "fairy_world"
+	},
+	{
+		"ID": 210,
+		"same_character_id": 330012,
+		"face": "shy",
+		"serif": "今こうしてマスターと\n平穏に過ごせているということは,私の祈りは天に届いたということ…,これからもマスターのために\nこの力を使いたいと思います",
+		"voice": "ronginusu_t_kyara_ex_1002,ronginusu_t_kyara_ex_2002,ronginusu_t_kyara_ex_3002",
+		"background": "fairy_world"
+	},
+	{
+		"ID": 211,
+		"same_character_id": 350313,
+		"face": "happy",
+		"serif": "これからも私は、\nマスターを守り続けるわ。,円周率やルート２のように\nずーっとね。,ふふっ、前にも言ったでしょ？,貴方の側を片時も離れない、って",
+		"voice": "solomon_t_kyara_ex_1002,solomon_t_kyara_ex_2002,solomon_t_kyara_ex_3002,solomon_t_kyara_ex_4002",
+		"background": "fairy_world"
+	},
+	{
+		"ID": 212,
+		"same_character_id": 250321,
+		"face": "happy",
+		"serif": "これがバイブス…,ああ、分かります…\n分かってしまいます…,私たちに必要だったのは…\n人の心だった",
+		"voice": "tiphereth_t_kyara_ex_1002,tiphereth_t_kyara_ex_2002,tiphereth_t_kyara_ex_3002",
+		"background": "sea_beach_day"
+	},
+	{
+		"ID": 213,
+		"same_character_id": 210381,
+		"face": "happy",
+		"serif": "嫌いだったわ\nマスターってだけでなにもしないあなたが,……それは間違いだった,あなたは、力になりたくてもなれなくて、\nそれでも方法を探して…,悔しかったでしょ？苦しかったでしょ？,でも安心して。その気持ちは、\n私が全部受け取ったから",
+		"voice": "almace_kyara_ex_1002,almace_kyara_ex_2002,almace_kyara_ex_3002,almace_kyara_ex_4002,almace_kyara_ex_5002",
+		"background": "sea_beach_day"
+	},
+	{
+		"ID": 214,
+		"same_character_id": 320301,
+		"face": "shy",
+		"serif": "誰かと一緒に\n時の流れに身をゆだねる…,それがとても尊いことだって\n教えてくれたのは,当主様…あなたよ",
+		"voice": "risanautr_l_kyara_ex_1002,risanautr_l_kyara_ex_2002,risanautr_l_kyara_ex_3002",
+		"background": "fairy_world"
+	},
+	{
+		"ID": 215,
+		"same_character_id": 360051,
+		"face": "happy",
+		"serif": "私とマスターの間に、\n扉なんて必要ないでしょ？,だからほら、これからは\n内緒事無しでお願いね♪,私も…\nそう、漆黒の翼に誓うから♪",
+		"voice": "keryukeion_ge_kyara_ex_1002,keryukeion_ge_kyara_ex_2002,keryukeion_ge_kyara_ex_3002",
+		"background": "fairy_world"
+	},
+	{
+		"ID": 216,
+		"same_character_id": 310051,
+		"face": "happy",
+		"serif": "いくら鍛えてやっても、\nお前の甘さは抜けないな,もっとも、そんなお前だからこそ,私…いや、\n隊の連中は惹かれるのだろう",
+		"voice": "ritto_a_kyara_ex_1002,ritto_a_kyara_ex_2002,ritto_a_kyara_ex_3002",
+		"background": "fairy_world"
+	},
+	{
+		"ID": 217,
+		"same_character_id": 230281,
+		"face": "happy",
+		"serif": "いいよ、先輩,何でもへレナが叶えてみせよう,どんなことでも、\n言葉と釘でなんとかしてみせるさ,…だからヘレナを、\nもっと大事にするんだぞ？",
+		"voice": "herena_a_kyara_ex_1002,herena_a_kyara_ex_2002,herena_a_kyara_ex_3002,herena_a_kyara_ex_4002",
+		"background": "sea_beach_day"
+	},
+	{
+		"ID": 218,
+		"same_character_id": 310421,
+		"face": "happy",
+		"serif": "マスターとなら、\nどんな悲劇も乗り越えられるよ,つらいことも一緒なら、\n喜劇にだって変えられる,きっとその先に、\n明るい未来が待ってると思うんだっ！",
+		"voice": "morabeaga_l_kyara_ex_1002,morabeaga_l_kyara_ex_2002,morabeaga_l_kyara_ex_3002",
+		"background": "fairy_world"
+	},
+	{
+		"ID": 219,
+		"same_character_id": 240191,
+		"face": "smile",
+		"serif": "ふんっ、\nここまでの旅路、見事よ,ふふっ、ダメね…\n言い方を変えましょうか,あなたは今や、私と同じぐらい\n輝きを見せているわ",
+		"voice": "failnaught_a_kyara_ex_1002,failnaught_a_kyara_ex_2002,failnaught_a_kyara_ex_3002",
+		"background": "sea_beach_day"
+	},
+	{
+		"ID": 220,
+		"same_character_id": 230321,
+		"face": "shy",
+		"serif": "ふん…このわたしが\nあなたの進む先に虹をかけてあげる,感謝しなさい,あなたの未来は\n七色に輝いているわ",
+		"voice": "gaedearg_ge_kyara_ex_1002,gaedearg_ge_kyara_ex_2002,gaedearg_ge_kyara_ex_3002",
+		"background": "sea_beach_day"
+	},
+	{
+		"ID": 221,
+		"same_character_id": 320021,
+		"face": "happy",
+		"serif": "この身に宿るは冥界の番人、\n死神の力,ですがご安心を\nマスターに死は与えません,捕食者アイムール、\nその身を守護すると誓います",
+		"voice": "aimuru_a_kyara_ex_1002,aimuru_a_kyara_ex_2002,aimuru_a_kyara_ex_3002",
+		"background": "fairy_world"
+	},
+	{
+		"ID": 222,
+		"same_character_id": 360131,
+		"face": "happy",
+		"serif": "子供たちだけでなく、これからは\nマスターの頼みも聞いてあげるにゃ,何かあったら、\nすぐボクに相談してにゃ！",
+		"voice": "sistrum_ge_kyara_ex_1002,sistrum_ge_kyara_ex_2002",
+		"background": "fairy_world"
+	},
+	{
+		"ID": 223,
+		"same_character_id": 250311,
+		"face": "happy",
+		"serif": "これからも私は、\nマスターを守り続けるわ。,円周率やルート２のように\nずーっとね。,ふふっ、前にも言ったでしょ？,貴方の側を片時も離れない、って",
+		"voice": "solomon_t_kyara_ex_1002,solomon_t_kyara_ex_2002,solomon_t_kyara_ex_3002,solomon_t_kyara_ex_4002",
+		"background": "sea_beach_day"
+	},
+	{
+		"ID": 224,
+		"same_character_id": 250261,
+		"face": "happy",
+		"serif": "私にできることなら、\nなんでも言って下さい！,マスターさんのためなら、\n精一杯頑張りますから…！",
+		"voice": "yunyun_kyara_ex_1002,yunyun_kyara_ex_2002",
+		"background": "sea_beach_day"
+	},
+	{
+		"ID": 225,
+		"same_character_id": 260181,
+		"face": "happy",
+		"serif": "ふふっ。いつもいろいろと\nありがとうございます,…今度、お礼に一緒に\nお食事でもいかがですか…？",
+		"voice": "wizu_kyara_ex_1002,wizu_kyara_ex_2002",
+		"background": "sea_beach_day"
+	},
+	{
+		"ID": 226,
+		"same_character_id": 210023,
+		"face": "happy",
+		"serif": "ふぅ～、こうやって一息つけるのは\nあなたの前だけ…,ほら、あなたは私のマスターだからさ\nリーダーのリーダーってやつ…,ふふっ\n頼りにしてるよ、マスター",
+		"voice": "revatein_ge_kyara_ex_1002,revatein_ge_kyara_ex_2002,revatein_ge_kyara_ex_3002",
+		"background": "sea_beach_day"
+	},
+	{
+		"ID": 227,
+		"same_character_id": 230311,
+		"face": "happy",
+		"serif": "空っぽだったわたしの中を\n御館様との記憶が満たしていく…,わたしは…\n空虚ではないのね…,仲間が…そして、\nあなたが居てくれるのだから",
+		"voice": "cassius_ge_kyara_ex_1002,cassius_ge_kyara_ex_2002,cassius_ge_kyara_ex_3002",
+		"background": "sea_beach_day"
+	},
+	{
+		"ID": 228,
+		"same_character_id": 210421,
+		"face": "happy",
+		"serif": "マスターとなら、\nどんな悲劇も乗り越えられるよ,つらいことも一緒なら、\n喜劇にだって変えられる,きっとその先に、\n明るい未来が待ってると思うんだっ！",
+		"voice": "morabeaga_l_kyara_ex_1002,morabeaga_l_kyara_ex_2002,morabeaga_l_kyara_ex_3002",
+		"background": "sea_beach_day"
+	},
+	{
+		"ID": 229,
+		"same_character_id": 260251,
+		"face": "shy",
+		"serif": "マスターさんの願い、叶えたくなっちゃった,だから、側にいて良い…かな？",
+		"voice": "chalice_t_kyara_ex_1002,chalice_t_kyara_ex_2002",
+		"background": "sea_beach_day"
+	},
+	{
+		"ID": 230,
+		"same_character_id": 350071,
+		"face": "happy",
+		"serif": "マスターは我の…\nそして皆の至宝だ,決して敵の手に渡しはしない,このブリューナク、\n命に代えても守り抜く",
+		"voice": "buryunaku_a_kyara_ex_1002,buryunaku_a_kyara_ex_2002,buryunaku_a_kyara_ex_3002",
+		"background": "fairy_world"
+	},
+	{
+		"ID": 231,
+		"same_character_id": 330241,
+		"face": "happy",
+		"serif": "殿は変わった人よね,強くないのに、\n人を惹きつける何かを持ってる…,私も、\n殿のそんなところに惹かれたのよ",
+		"voice": "tonbokiri_t_kyara_ex_1002,tonbokiri_t_kyara_ex_2002,tonbokiri_t_kyara_ex_3002",
+		"background": "fairy_world"
+	},
+	{
+		"ID": 232,
+		"same_character_id": 340021,
+		"face": "happy",
+		"serif": "今までは、誰か、困ってる奴を\n守ってやりたいって思ってたけど,今はさ、マスターだけを\n守りたいって気持ちなんだ…,ははっ、なんか、\nオイラらしくないよな…",
+		"voice": "pinaka_ge_kyara_ex_1002,pinaka_ge_kyara_ex_2002,pinaka_ge_kyara_ex_3002",
+		"background": "fairy_world"
+	},
+	{
+		"ID": 233,
+		"same_character_id": 320131,
+		"face": "happy",
+		"serif": "あ、あんたになら言ってもいいかな,実はあたしは闇の力が…,な、なんでもない！",
+		"voice": "reshef_ge_kyara_ex_1002,reshef_ge_kyara_ex_2002,reshef_ge_kyara_ex_3002",
+		"background": "fairy_world"
+	},
+	{
+		"ID": 234,
+		"same_character_id": 310012,
+		"face": "shy",
+		"serif": "もう誰とも心通わすことはない、\nそう思ったこともあった。,なのに…,今はこうして我を忘れてしまうような\n甘味な言葉を紡いでしまいそうになる…",
+		"voice": "masamune_ge_kyara_ex_1002,masamune_ge_kyara_ex_2002,masamune_ge_kyara_ex_3002",
+		"background": "fairy_world"
+	},
+	{
+		"ID": 235,
+		"same_character_id": 310072,
+		"face": "happy",
+		"serif": "私にとって…,マスター、\nあなたはまさに理想の主です,終生の忠誠をここに,決して私は\nあなたを裏切りません",
+		"voice": "arondaito_ge_kyara_ex_1002,arondaito_ge_kyara_ex_2002,arondaito_ge_kyara_ex_3002,arondaito_ge_kyara_ex_4002",
+		"background": "fairy_world"
+	},
+	{
+		"ID": 236,
+		"same_character_id": 510383,
+		"face": "happy",
+		"serif": "こんな穏やかな時間が、\n少しでも長く続いて欲しい,前の私じゃ、\n考えられない感情だわ,ふふっ。\nこのことは、みんなには内緒ね",
+		"voice": "almace_iz_kyara_ex_1002,almace_iz_kyara_ex_2002,almace_iz_kyara_ex_3002",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 237,
+		"same_character_id": 510143,
+		"face": "happy",
+		"serif": "ようやく届きました…\nアナタの純潔な想いが…,…私はずっと、\n探していたのかもしれません,この美しき色を…\nアナタという温もりを…",
+		"voice": "tyrufing_iz_kyara_ex_1002,tyrufing_iz_kyara_ex_2002,tyrufing_iz_kyara_ex_3002",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 238,
+		"same_character_id": 550023,
+		"face": "happy",
+		"serif": "きみと一緒にいられるなら、\n滅びゆく世界を見届けるのでもいい…,そんなことを、思い始めてるんだ",
+		"voice": "furaikugeru_iz_kyara_ex_1002,furaikugeru_iz_kyara_ex_2002",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 239,
+		"same_character_id": 340111,
+		"face": "happy",
+		"serif": "あなたがそばに居てくれると、\n不思議と力がわいてくるの,できればこのままずっと…\nううん、何でもない",
+		"voice": "madoka_kyara_1027,madoka_kyara_2027",
+		"background": "fairy_world"
+	},
+	{
+		"ID": 240,
+		"same_character_id": 350141,
+		"face": "happy",
+		"serif": "これからも私のそばで…,一緒に…戦いましょうね！",
+		"voice": "mami_kyara_1028,mami_kyara_2028",
+		"background": "fairy_world"
+	},
+	{
+		"ID": 241,
+		"same_character_id": 540013,
+		"face": "happy",
+		"serif": "…本音を申し上げます\n,アナタの心が高潔だとかは\n関係ありません,…私が作る理想の世界にいてほしい\nそう思っています",
+		"voice": "arutemisu_iz_kyara_ex_1002,arutemisu_iz_kyara_ex_2002,arutemisu_iz_kyara_ex_3002",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 242,
+		"same_character_id": 310201,
+		"face": "happy",
+		"serif": "どんなことがあっても\nあんたは私が守るからね,安心して",
+		"voice": "sayaka_kyara_1028,sayaka_kyara_2028",
+		"background": "fairy_world"
+	},
+	{
+		"ID": 243,
+		"same_character_id": 350131,
+		"face": "happy",
+		"serif": "これからも一緒に魔女も、\nあなたの敵も倒し続けましょう,それがきっとお互いの大切な存在を\n幸せにする最良の策よ",
+		"voice": "homura_kyara_1028,homura_kyara_2028",
+		"background": "fairy_world"
+	},
+	{
+		"ID": 244,
+		"same_character_id": 330151,
+		"face": "happy",
+		"serif": "あんたってさ,アタシの親父くらい\n優しくて尊敬できて,…素敵、だよ",
+		"voice": "kyoko_kyara_1027,kyoko_kyara_2027,kyoko_kyara_3027",
+		"background": "fairy_world"
+	},
+	{
+		"ID": 245,
+		"same_character_id": 320302,
+		"face": "shy",
+		"serif": "誰かと一緒に\n時の流れに身をゆだねる…,それがとても尊いことだって\n教えてくれたのは,当主様…あなたよ",
+		"voice": "risanautr_l_kyara_ex_1002,risanautr_l_kyara_ex_2002,risanautr_l_kyara_ex_3002",
+		"background": "fairy_world"
+	},
+	{
+		"ID": 246,
+		"same_character_id": 350172,
+		"face": "happy",
+		"serif": "マスターはワタシから逃げないのね\n憤怒に狂うこのワタシから…,それは一体どうしてかしら？,…まぁいいわ。キミがワタシの隣にいる\nその事実だけで十分,たとえ世界が滅んでも\nキミだけは救ってあげる",
+		"voice": "grimoire_ge_kyara_ex_1002,grimoire_ge_kyara_ex_2002,grimoire_ge_kyara_ex_3002,grimoire_ge_kyara_ex_4002",
+		"background": "fairy_world"
+	},
+	{
+		"ID": 247,
+		"same_character_id": 530013,
+		"face": "happy",
+		"serif": "愛で世界を満たしたい…\n,あなたと出会ってから、\nその願いが変わり始めているんです,今、私が愛で満たしたいのは…\nふふっ、やっぱり言えません",
+		"voice": "ronginusu_iz_kyara_ex_1002,ronginusu_iz_kyara_ex_2002,ronginusu_iz_kyara_ex_3002",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 248,
+		"same_character_id": 540172,
+		"face": "happy",
+		"serif": "マスター、\nこれからも共に歩んでいきましょう,…あっ、い、言えた！",
+		"voice": "suiha_kyara_ex_1002,suiha_kyara_ex_2002",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 249,
+		"same_character_id": 320081,
+		"face": "happy",
+		"serif": "マスター,キミが正義を行うなら\nあたしはどこまでもついてくよ！",
+		"voice": "perun_t_kyara_ex_1002,perun_t_kyara_ex_2002",
+		"background": "fairy_world"
+	},
+	{
+		"ID": 250,
+		"same_character_id": 10065,
+		"face": "happy",
+		"serif": "あの、私本当に\nどこにもいかなくていいですか？,ここにいていいんですか？",
+		"voice": "nageruring_kyara_4018,nageruring_kyara_5018",
+		"background": "schoolgate_daytime"
+	},
+	{
+		"ID": 251,
+		"same_character_id": 10075,
+		"face": "happy",
+		"serif": "もう、仕方ないですね\nでも大丈夫です,マスターには私がついていますから",
+		"voice": "arondaito_kyara_2025,arondaito_kyara_3025",
+		"background": "schoolgate_daytime"
+	},
+	{
+		"ID": 252,
+		"same_character_id": 20035,
+		"face": "happy",
+		"serif": "どれだけ多くの人達が私を見てても、,私が見ているのは\nマスターだけなんだからね",
+		"voice": "loveryus_kyara_1027,loveryus_kyara_2027",
+		"background": "schoolgate_daytime"
+	},
+	{
+		"ID": 253,
+		"same_character_id": 20065,
+		"face": "happy",
+		"serif": "も～、だめだよ,そんなに優しくされたら、\nず～っと甘えちゃうよ？",
+		"voice": "daguda_kyara_1026,daguda_kyara_2026",
+		"background": "schoolgate_daytime"
+	},
+	{
+		"ID": 254,
+		"same_character_id": 20175,
+		"face": "happy",
+		"serif": "マスターのこと、\nお姉ちゃんと同じくらい大好きだよ！,えっ、どっちが好きか…？\n意地悪な質問しないでよ～！",
+		"voice": "yagurushi_kyara_ex_1002,yagurushi_kyara_ex_2002",
+		"background": "schoolgate_daytime"
+	},
+	{
+		"ID": 255,
+		"same_character_id": 30064,
+		"face": "happy",
+		"serif": "あんたになら\nあたいの背中を預けられる…,これからも頼んだよ、マスター!!",
+		"voice": "torisyula_kyara_ex_1002,torisyula_kyara_ex_2002",
+		"background": "schoolgate_daytime"
+	},
+	{
+		"ID": 256,
+		"same_character_id": 30185,
+		"face": "happy",
+		"serif": "私は地獄のキラーズを持つ,それに呼応するバイブスを\n持つマスターなんて,一生現れないと思っていたんです\nだから感謝しています",
+		"voice": "forcas_kyara_1027,forcas_kyara_2027,forcas_kyara_3027",
+		"background": "schoolgate_daytime"
+	},
+	{
+		"ID": 257,
+		"same_character_id": 40075,
+		"face": "happy",
+		"serif": "たしかに私はふだんから\n派手な格好が好きです,だっていやでも\nあなたの目に留まるでしょ？",
+		"voice": "shekina_kyara_1025,shekina_kyara_2025",
+		"background": "schoolgate_daytime"
+	},
+	{
+		"ID": 258,
+		"same_character_id": 40076,
+		"face": "happy",
+		"serif": "たしかに私はふだんから\n派手な格好が好きです,だっていやでも\nあなたの目に留まるでしょ？",
+		"voice": "shekina_kyara_1025,shekina_kyara_2025",
+		"background": "schoolgate_daytime"
+	},
+	{
+		"ID": 259,
+		"same_character_id": 50014,
+		"face": "happy",
+		"serif": "ちょっと恥ずかしいんだけど、\n改めて言うね？,マスターのこと、だーい好きだよっ！",
+		"voice": "keraunosu_kyara_ex_1002,keraunosu_kyara_ex_2002",
+		"background": "schoolgate_daytime"
+	},
+	{
+		"ID": 260,
+		"same_character_id": 50015,
+		"face": "happy",
+		"serif": "ちょっと恥ずかしいんだけど、\n改めて言うね？,マスターのこと、だーい好きだよっ！",
+		"voice": "keraunosu_kyara_ex_1002,keraunosu_kyara_ex_2002",
+		"background": "schoolgate_daytime"
+	},
+	{
+		"ID": 261,
+		"same_character_id": 50172,
+		"face": "happy",
+		"serif": "互いを知ることは\nいいことですものね、,君と二人ならなおさら",
+		"voice": "grimoire_kyara_1018,grimoire_kyara_2018",
+		"background": "schoolgate_daytime"
+	},
+	{
+		"ID": 262,
+		"same_character_id": 60085,
+		"face": "happy",
+		"serif": "誰かを支えたい、助けたいって\n気持ちとはまた違う、,そんな気持ちをマスターに感じたんだ\n変…かな？",
+		"voice": "guridavoru_kyara_ex_1002,guridavoru_kyara_ex_2002",
+		"background": "schoolgate_daytime"
+	},
+	{
+		"ID": 263,
+		"same_character_id": 50086,
+		"face": "happy",
+		"serif": "そう、そうやって私だけを\n見ていなさい,あなたによそ見の\n権利はないわ、いい？,それで一番の美女を\n自分のものにできるのだから",
+		"voice": "bashosen_kyara_1025,bashosen_kyara_2025,bashosen_kyara_3025",
+		"background": "schoolgate_daytime"
+	},
+	{
+		"ID": 264,
+		"same_character_id": 40056,
+		"face": "happy",
+		"serif": "弓士と弓…２つの呼吸が合うことで、\n本来の実力が発揮できます,与一とマスターも、\n今、そんな関係になれたと思います",
+		"voice": "yoichi_kyara_ex_1002,yoichi_kyara_ex_2002",
+		"background": "schoolgate_daytime"
+	},
+	{
+		"ID": 265,
+		"same_character_id": 20164,
+		"face": "happy",
+		"serif": "うふふ\nわたしとマスターの絆は永遠ですわ！,…なーんて♪",
+		"voice": "shita_kyara_ex_1002,shita_kyara_ex_2002",
+		"background": "schoolgate_daytime"
+	},
+	{
+		"ID": 266,
+		"same_character_id": 20054,
+		"face": "happy",
+		"serif": "へへへ！,ミトゥム様とマスターが手を組めば、どんな敵も怖くねぇな！",
+		"voice": "mitwumu_kyara_ex_1002,mitwumu_kyara_ex_2002",
+		"background": "schoolgate_daytime"
+	},
+	{
+		"ID": 267,
+		"same_character_id": 60063,
+		"face": "happy",
+		"serif": "マ、マスターなら…\nマスターなら、,もう少しだけ\n側に来てもいいですよ…？",
+		"voice": "misutoru_kyara_ex_1002,misutoru_kyara_ex_2002",
+		"background": "schoolgate_daytime"
+	},
+	{
+		"ID": 268,
+		"same_character_id": 10253,
+		"face": "happy",
+		"serif": "心から忠義を誓える主君に\n仕えることができる…,武士にとって\nこれほど名誉のことはありません",
+		"voice": "muramasa_kyara_ex_1002,muramasa_kyara_ex_2002",
+		"background": "schoolgate_daytime"
+	},
+	{
+		"ID": 269,
+		"same_character_id": 30202,
+		"face": "happy",
+		"serif": "マスターにはこのアイスを\nはんぶんこしてあげるね～,特別だからね～♪",
+		"voice": "pisear_kyara_ex_1002,pisear_kyara_ex_2002",
+		"background": "schoolgate_daytime"
+	},
+	{
+		"ID": 270,
+		"same_character_id": 50034,
+		"face": "happy",
+		"serif": "お主に従うという気持ちに\n一点の曇りもない,見よ、この澄み切った感じ！,どうじゃ！お主も嬉しいじゃろ？\nう、嬉しいじゃろ？",
+		"voice": "yatanokagami_kyara_ex_1002,yatanokagami_kyara_ex_2002,yatanokagami_kyara_ex_3002",
+		"background": "schoolgate_daytime"
+	},
+	{
+		"ID": 271,
+		"same_character_id": 10017,
+		"face": "happy",
+		"serif": "名もなき拙者に\nマサムネと名をくれただけでなく、,心の拠り所も与えてくださるとは…,拙者、主君の刀になれて\n光栄でござる",
+		"voice": "masamune_kyara_ex_1002,masamune_kyara_ex_2002,masamune_kyara_ex_3002",
+		"background": "schoolgate_daytime"
+	},
+	{
+		"ID": 272,
+		"same_character_id": 10282,
+		"face": "happy",
+		"serif": "いま改めて確信した,おぬしはまごうことなき\nわたしのマスターだ、と",
+		"voice": "dainsleif_kyara_ex_1002,dainsleif_kyara_ex_2002",
+		"background": "schoolgate_daytime"
+	},
+	{
+		"ID": 273,
+		"same_character_id": 30035,
+		"face": "happy",
+		"serif": "決めたよオレは主君についていく,オレが主君に天下を\n獲らせてやるからよ",
+		"voice": "hotengageki_kyara_ex_1002,hotengageki_kyara_ex_2002",
+		"background": "schoolgate_daytime"
+	},
+	{
+		"ID": 274,
+		"same_character_id": 50043,
+		"face": "happy",
+		"serif": "あっはっは！\nアンタってばサイコーだね！,これからも、\n一緒にいろんなものを創っていこっ",
+		"voice": "burafumasutora_kyara_ex_1002,burafumasutora_kyara_ex_2002",
+		"background": "schoolgate_daytime"
+	},
+	{
+		"ID": 275,
+		"same_character_id": 40084,
+		"face": "happy",
+		"serif": "マスターは、\nエラそうじゃないとこがいいよね！,…そんなだから、\nあたしも素直に従えるのかな？,マスターの選んだ道なら、\nどこまでもついてっちゃえるよ！",
+		"voice": "otyinusu_kyara_ex_1002,otyinusu_kyara_ex_2002,otyinusu_kyara_ex_3002",
+		"background": "schoolgate_daytime"
+	},
+	{
+		"ID": 276,
+		"same_character_id": 10085,
+		"face": "happy",
+		"serif": "今さらだけどね、私 わかったんだ,マスターは嘘偽りない心で\n接してくれてるって！,てことで、これからもよろしくね！",
+		"voice": "guramu_kyara_ex_1002,guramu_kyara_ex_2002,guramu_kyara_ex_3002",
+		"background": "schoolgate_daytime"
+	},
+	{
+		"ID": 277,
+		"same_character_id": 20048,
+		"face": "happy",
+		"serif": "君の理想を叶えることが、\n今のボクの理想だ,大丈夫、ボクに任せてくれ\n修行にも一層の気合いを入れるからね,だからこれからも、\nよろしく…ふふっ、少し照れくさいな",
+		"voice": "parashu_kyara_ex_1002,parashu_kyara_ex_2002,parashu_kyara_ex_3002",
+		"background": "schoolgate_daytime"
+	},
+	{
+		"ID": 278,
+		"same_character_id": 10054,
+		"face": "happy",
+		"serif": "マスターの心の炎、\nたしかに見させてもらった,その熱き思いを、\n私の聖域でもっと輝かせてみないか？",
+		"voice": "ritto_kyara_ex_1002,ritto_kyara_ex_2002",
+		"background": "schoolgate_daytime"
+	},
+	{
+		"ID": 279,
+		"same_character_id": 50202,
+		"face": "happy",
+		"serif": "特別に…あたまポンポンってするの\n許してやる…,あと、どうしてもギュッって\nしたいなら考えてやる…",
+		"voice": "tasuramu_kyara_ex_1002,tasuramu_kyara_ex_2002",
+		"background": "schoolgate_daytime"
+	},
+	{
+		"ID": 280,
+		"same_character_id": 20202,
+		"face": "happy",
+		"serif": "ふふ、あなたといると\n不思議と気持ちが楽になります,皆に好かれるマスターとして\nあり続けてくださいね,なにかあったらわたくしが\n首を落としますから",
+		"voice": "harpe_kyara_1026,harpe_kyara_2026,harpe_kyara_3026",
+		"background": "schoolgate_daytime"
+	},
+	{
+		"ID": 281,
+		"same_character_id": 50027,
+		"face": "happy",
+		"serif": "えへへ,やっぱりわたしのダァリンは、\nマスターオンリー♪",
+		"voice": "furaikugeru_kyara_ex_1002,furaikugeru_kyara_ex_2002",
+		"background": "schoolgate_daytime"
+	},
+	{
+		"ID": 282,
+		"same_character_id": 30024,
+		"face": "happy",
+		"serif": "マスターと一緒なら、,な～んでもなんとかなるって感じ、\nするよね",
+		"voice": "toraidento_kyara_1017,toraidento_kyara_2017",
+		"background": "schoolgate_daytime"
+	},
+	{
+		"ID": 283,
+		"same_character_id": 10149,
+		"face": "happy",
+		"serif": "あの…マスター…,マスターの願いって\n私が叶えることができますか？",
+		"voice": "tyrufing_kyara_1027,tyrufing_kyara_2027",
+		"background": "schoolgate_daytime"
+	},
+	{
+		"ID": 284,
+		"same_character_id": 10027,
+		"face": "happy",
+		"serif": "…見つけたよ。私の居場所",
+		"voice": "revatein2_kyara_ex_0002",
+		"background": "schoolgate_daytime"
+	},
+	{
+		"ID": 285,
+		"same_character_id": 520043,
+		"face": "happy",
+		"serif": "どうしてだろう…？,キミとなら、どんな難関な壁だって\n越えられる気がするんだ,こんな不思議な感覚は、\nいままでなかったよ…",
+		"voice": "parashu_iz_kyara_ex_1002,parashu_iz_kyara_ex_2002,parashu_iz_kyara_ex_3002",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 286,
+		"same_character_id": 510013,
+		"face": "happy",
+		"serif": "拙者の忠義の刃で、\nそなたを守ることを誓おう,このマサムネ、\n一度結んだ約束を違えることはなし,…主君よ、\nそなたの色で拙者を導いてくれ",
+		"voice": "masamune_iz_kyara_ex_1002,masamune_iz_kyara_ex_2002,masamune_iz_kyara_ex_3002",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 287,
+		"same_character_id": 330312,
+		"face": "happy",
+		"serif": "空っぽだったわたしの中を\n御館様との記憶が満たしていく…,わたしは…\n空虚ではないのね…,仲間が…そして、\nあなたが居てくれるのだから",
+		"voice": "cassius_ge_kyara_ex_1002,cassius_ge_kyara_ex_2002,cassius_ge_kyara_ex_3002",
+		"background": "fairy_world"
+	},
+	{
+		"ID": 288,
+		"same_character_id": 350322,
+		"face": "happy",
+		"serif": "これがバイブス…,ああ、分かります…\n分かってしまいます…,私たちに必要だったのは…\n人の心だった",
+		"voice": "tiphereth_t_kyara_ex_1002,tiphereth_t_kyara_ex_2002,tiphereth_t_kyara_ex_3002",
+		"background": "fairy_world"
+	},
+	{
+		"ID": 289,
+		"same_character_id": 510023,
+		"face": "happy",
+		"serif": "あなたを守ることだけは…,なんか、めんどくさくない",
+		"voice": "revatein_iz_kyara_ex_1002,revatein_iz_kyara_ex_2002",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 290,
+		"same_character_id": 550272,
+		"face": "happy",
+		"serif": "おねーちゃん、,絶対にマスターくんとだけは\nお別れしたくないから、,この手…離さないでね？",
+		"voice": "freischotz_kyara_2028,freischotz_kyara_3028,freischotz_kyara_4028",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 291,
+		"same_character_id": 530181,
+		"face": "happy",
+		"serif": "マスター、\n今までもそう呼んでいましたが…,改めて、誓います,この槍をあなたに捧げましょう",
+		"voice": "forcas_c_kyara_ex_1002,forcas_c_kyara_ex_2002,forcas_c_kyara_ex_3002",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 292,
+		"same_character_id": 540201,
+		"face": "happy",
+		"serif": "雲行きなんか変えられる\nどんな雲もあたしの焔で払ってやるよ,だからさ、\n師匠は自分の信じる道を行くんだ！,その胸に宿る光、\n最後まで絶対に絶やすなよ！",
+		"voice": "hyoha_c_kyara_ex_1002,hyoha_c_kyara_ex_2002,hyoha_c_kyara_ex_3002",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 293,
+		"same_character_id": 310232,
+		"face": "shy",
+		"serif": "私を包んでいた嫉妬の氷、\nマスターはそれを溶かしてくれたんですっ！,そんな力を持つマスターが羨ましい…,ふふっ…なんて冗談ですよっ",
+		"voice": "ascalon_a_kyara_ex_1002,ascalon_a_kyara_ex_2002,ascalon_a_kyara_ex_3002",
+		"background": "fairy_world"
+	},
+	{
+		"ID": 294,
+		"same_character_id": 340192,
+		"face": "happy",
+		"serif": "ふんっ、\nここまでの旅路、見事よ,ふふっ、ダメね…\n言い方を変えましょうか,あなたは今や、私と同じぐらい\n輝きを見せているわ",
+		"voice": "failnaught_a_kyara_ex_1002,failnaught_a_kyara_ex_2002,failnaught_a_kyara_ex_3002",
+		"background": "fairy_world"
+	},
+	{
+		"ID": 295,
+		"same_character_id": 510352,
+		"face": "happy",
+		"serif": "…うん、クレスも覚悟、決めたよ！,…いつ、頭の上から剣が\n落ちてくるかわからなくても,落ちてくる剣に黙って当たらなきゃ\nいけないってこと、ないもんね,マスターとクレスのどっちが\n死にそうになっても絶対に諦めない！",
+		"voice": "damocles_kyara_ex_1002,damocles_kyara_ex_2002,damocles_kyara_ex_3002,damocles_kyara_ex_4002",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 296,
+		"same_character_id": 550371,
+		"face": "happy",
+		"serif": "優しくて、仲間思いで…\nとっても素敵な方…,そんなマスターさんのお側にいれて、\nわたしは幸せです…,えへへ…これからも、\nお役に立てるようがんばりますね",
+		"voice": "logistille_c_kyara_ex_1002,logistille_c_kyara_ex_2002,logistille_c_kyara_ex_3002",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 297,
+		"same_character_id": 360311,
+		"face": "happy",
+		"serif": "ボクはキミのことを\n信じてるぜ？,キミと一緒なら、どんな敵だって\nちょちょいのちょいさ",
+		"voice": "hestia_kyara_1018,hestia_kyara_2018",
+		"background": "fairy_world"
+	},
+	{
+		"ID": 298,
+		"same_character_id": 310451,
+		"face": "happy",
+		"serif": "独りでは敵わなくとも、\n互いを補完し合えば,より強力な敵を打ち破ることが\n出来るのです",
+		"voice": "ryu_unit_1006,ryu_unit_2006",
+		"background": "fairy_world"
+	},
+	{
+		"ID": 299,
+		"same_character_id": 310441,
+		"face": "happy",
+		"serif": "あなたとの絆は,私にとって\n大切なものになったよ",
+		"voice": "aiz_kyara_1018,aiz_kyara_2018",
+		"background": "fairy_world"
+	},
+	{
+		"ID": 300,
+		"same_character_id": 520252,
+		"face": "happy",
+		"serif": "私の希望がひとつだけ叶うなら…,これからもずっと、\nマスターの傍にいさせてください…",
+		"voice": "hercule_im_kyara_ex_1002,hercule_im_kyara_ex_2002",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 301,
+		"same_character_id": 340211,
+		"face": "happy",
+		"serif": "この先も,マスター様を\nサポートさせていただきますね",
+		"voice": "lilliluka_kyara_1017,lilliluka_kyara_2017",
+		"background": "fairy_world"
+	},
+	{
+		"ID": 302,
+		"same_character_id": 350361,
+		"face": "happy",
+		"serif": "貴方様にそこまで\n思って頂けるなんて…,わたくしは……\n春姫は幸せです",
+		"voice": "haruhime_kyara_1017,haruhime_kyara_1018",
+		"background": "fairy_world"
+	},
+	{
+		"ID": 303,
+		"same_character_id": 310382,
+		"face": "shy1",
+		"serif": "嫌いだったわ\nマスターってだけでなにもしないあなたが,……それは間違いだった,あなたは、力になりたくてもなれなくて、\nそれでも方法を探して…,悔しかったでしょ？苦しかったでしょ？,でも安心して。その気持ちは、\n私が全部受け取ったから",
+		"voice": "almace_kyara_ex_1002,almace_kyara_ex_2002,almace_kyara_ex_3002,almace_kyara_ex_4002,almace_kyara_ex_5002",
+		"background": "fairy_world"
+	},
+	{
+		"ID": 304,
+		"same_character_id": 310422,
+		"face": "happy",
+		"serif": "マスターとなら、\nどんな悲劇も乗り越えられるよ,つらいことも一緒なら、\n喜劇にだって変えられる,きっとその先に、\n明るい未来が待ってると思うんだっ！",
+		"voice": "morabeaga_l_kyara_ex_1002,morabeaga_l_kyara_ex_2002,morabeaga_l_kyara_ex_3002",
+		"background": "fairy_world"
+	},
+	{
+		"ID": 305,
+		"same_character_id": 50062,
+		"face": "smile",
+		"serif": "愛は私の心を満たし、,愛以外の全てへの興味を\n奪い去ってしまったわ…,他の瑣末事に関わる暇があるなら、\n貴方との一刻にあてたいの…",
+		"voice": "megido_kyara_ex_1002,megido_kyara_ex_2002,megido_kyara_ex_3002",
+		"background": "schoolgate_daytime"
+	},
+	{
+		"ID": 306,
+		"same_character_id": 360141,
+		"face": "smile",
+		"serif": "さあ…目を閉じ、３つ数えよ,…そうだ、そなたは強い子だ\n今のそなたに出来ぬことはない,愛しき我が子の進む先を\n母も見届けるとしよう",
+		"voice": "ptah_a_kyara_ex_1002,ptah_a_kyara_ex_2002,ptah_a_kyara_ex_3002",
+		"background": "fairy_world"
+	},
+	{
+		"ID": 307,
+		"same_character_id": 560321,
+		"face": "happy",
+		"serif": "イエーイ♪,あたしとリーダーは\nずっ友に認定されましたー",
+		"voice": "orpheus_c_kyara_ex_1002,orpheus_c_kyara_ex_2002",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 308,
+		"same_character_id": 530262,
+		"face": "smile",
+		"serif": "マスターのしめす《せいぎ》――,それはあたしにとっても《せいぎ》だっ,だから、あたしとおまえのみちが\nわかれることはけっしてないぞ",
+		"voice": "grayside_im_kyara_ex_1002,grayside_im_kyara_ex_2002,grayside_im_kyara_ex_3002",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 309,
+		"same_character_id": 360031,
+		"face": "smile",
+		"serif": "いいよ、私が君を支えてあげる…,ふふっ、冗談だと思った？\n実はかなり本気なんだよね,やっと見つけた人だもの、\nそうそう逃す手はないよね？",
+		"voice": "tyurusosu_a_kyara_ex_1002,tyurusosu_a_kyara_ex_2002,tyurusosu_a_kyara_ex_3002",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 310,
+		"same_character_id": 330171,
+		"face": "happy",
+		"serif": "お前には、私の背に乗る\n資格をあげましょうっ！,…あら？\n私なりの最大の称賛なのだけど…,ふふっ…それぐらいマスターのことを認めているということよ",
+		"voice": "wotan_ge_kyara_ex_1002,wotan_ge_kyara_ex_2002,wotan_ge_kyara_ex_3002",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 311,
+		"same_character_id": 530252,
+		"face": "happy",
+		"serif": "信頼し支え合うことで\n共に高みへ至る,そのような良き関係が、\nあなたとなら築けると思います,これからも頼りにしていますね、\nマスター",
+		"voice": "minerva_im_kyara_ex_1002,minerva_im_kyara_ex_2002,minerva_im_kyara_ex_3002",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 312,
+		"same_character_id": 520311,
+		"face": "happy",
+		"serif": "お師様、\nどうかワタシを導いてください,かつて天竺へ向かった\n法師様のように",
+		"voice": "nyoikinkobou_c_kyara_ex_1002,nyoikinkobou_c_kyara_ex_2002",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 313,
+		"same_character_id": 540131,
+		"face": "happy",
+		"serif": "ああ…,雷光のように\nこの身をつらぬくあなたへの愛が,あふれ出しそうですわ！",
+		"voice": "aphrodite_a_kyara_1018,aphrodite_a_kyara_2018,aphrodite_a_kyara_3018",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 314,
+		"same_character_id": 560111,
+		"face": "happy",
+		"serif": "この感じ、いったい何なんでしょう～？,守りたいとも違うし、\n支えたいとも違う感じです,いつかこれが分かったら、\nちゃんとマスターさんにも伝えますね",
+		"voice": "vanargand_t_kyara_1027,vanargand_t_kyara_2027,vanargand_t_kyara_3027",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 315,
+		"same_character_id": 510461,
+		"face": "happy",
+		"serif": "まぁ、だんちょーもミュルのことを\n理解してきたみたいだし、,これからは少し安めの報酬で\n手伝ってあげないでもないわ,少しだけどね\nほんの少し！",
+		"voice": "murgleys_c_kyara_ex_1002,murgleys_c_kyara_ex_2002,murgleys_c_kyara_ex_3002",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 316,
+		"same_character_id": 560202,
+		"face": "happy",
+		"serif": "どこまでも一緒にいますよ、マスター,それがキル姫の規律ですから…\nいえ、わたしがそうしたいのです…,だから、お兄ちゃん…\nわたしと指切りしてくれる？",
+		"voice": "ness_im_kyara_ex_1002,ness_im_kyara_ex_2002,ness_im_kyara_ex_3002",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 317,
+		"same_character_id": 540221,
+		"face": "happy",
+		"serif": "キミが目指す未来、\nボクもそれを見届けるとしよう,どんな時も隣で支えてあげるのが、\nお友達の役目だからね,これからもよろしくしてあげるよ、\nお兄さん",
+		"voice": "ichiibal_c_kyara_ex_1002,ichiibal_c_kyara_ex_2002,ichiibal_c_kyara_ex_3002",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 318,
+		"same_character_id": 510251,
+		"face": "smile",
+		"serif": "主君との絆という名の\n共鳴を感じます,オロチによって、\n塞がれていた心の闇は…,主君のお陰で\n吹き飛んでいきました！",
+		"voice": "muramasa_ge_kyara_1018,muramasa_ge_kyara_2018,muramasa_ge_kyara_3018",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 319,
+		"same_character_id": 330313,
+		"face": "happy",
+		"serif": "空っぽだったわたしの中を\n御館様との記憶が満たしていく…,わたしは…\n空虚ではないのね…,仲間が…そして、\nあなたが居てくれるのだから",
+		"voice": "cassius_ge_kyara_ex_1002,cassius_ge_kyara_ex_2002,cassius_ge_kyara_ex_3002",
+		"background": "fairy_world"
+	},
+	{
+		"ID": 320,
+		"same_character_id": 330081,
+		"face": "shy1",
+		"serif": "我が弱音を吐けるのは、,そなたの前だけだな…",
+		"voice": "gunguniru_a_kyara_ex_1002,gunguniru_a_kyara_ex_2002",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 321,
+		"same_character_id": 520191,
+		"face": "shy",
+		"serif": "ふふふっ,マスターとシユウは\nあいしょうばっちりだな！",
+		"voice": "chihyu_a_kyara_1018,chihyu_a_kyara_2018",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 322,
+		"same_character_id": 310022,
+		"face": "happy",
+		"serif": "ふぅ～、こうやって一息つけるのは\nあなたの前だけ…,ほら、あなたは私のマスターだからさ\nリーダーのリーダーってやつ…,ふふっ\n頼りにしてるよ、マスター",
+		"voice": "revatein_ge_kyara_ex_1002,revatein_ge_kyara_ex_2002,revatein_ge_kyara_ex_3002",
+		"background": "fairy_world"
+	},
+	{
+		"ID": 323,
+		"same_character_id": 20102,
+		"face": "happy",
+		"serif": "君と一緒がいいんだ、\n全部君と一緒が…",
+		"voice": "ukonbasara_kyara_0026",
+		"background": "schoolgate_daytime"
+	},
+	{
+		"ID": 324,
+		"same_character_id": 230182,
+		"face": "happy",
+		"serif": "マスター、\n今までもそう呼んでいましたが…,改めて、誓います,この槍をあなたに捧げましょう",
+		"voice": "forcas_c_kyara_ex_1002,forcas_c_kyara_ex_2002,forcas_c_kyara_ex_3002",
+		"background": "sea_beach_day"
+	},
+	{
+		"ID": 325,
+		"same_character_id": 220311,
+		"face": "happy",
+		"serif": "お師様、\nどうかワタシを導いてください,かつて天竺へ向かった\n法師様のように",
+		"voice": "nyoikinkobou_c_kyara_ex_1002,nyoikinkobou_c_kyara_ex_2002",
+		"background": "sea_beach_day"
+	},
+	{
+		"ID": 326,
+		"same_character_id": 210144,
+		"face": "close",
+		"serif": "なんだかほんとうの\nお兄さんみたいです,いっしょにいると、\nなんだかうれしくって、楽しくって…,えへへ…えがおになっちゃいます",
+		"voice": "tyrufing_lo_kyara_ex_1002,tyrufing_lo_kyara_ex_2002,tyrufing_lo_kyara_ex_3002",
+		"background": "sea_beach_day"
+	},
+	{
+		"ID": 327,
+		"same_character_id": 250312,
+		"face": "happy",
+		"serif": "私だけだとうまくいかないの,でも、お兄さんといっしょなら…,さいてきかいになるとおもうわ",
+		"voice": "solomon_lo_kyara_ex_1002,solomon_lo_kyara_ex_2002,solomon_lo_kyara_ex_3002",
+		"background": "sea_beach_day"
+	},
+	{
+		"ID": 328,
+		"same_character_id": 230312,
+		"face": "happy",
+		"serif": "おやかたしゃまとなら、こわくない…,つないだてのぬくもりがあるから…,えんかんのおそとへでても、\nまよわないとおもうの…",
+		"voice": "cassius_lo_kyara_ex_1002,cassius_lo_kyara_ex_2002,cassius_lo_kyara_ex_3002",
+		"background": "sea_beach_day"
+	},
+	{
+		"ID": 329,
+		"same_character_id": 210024,
+		"face": "smile",
+		"serif": "べつに…マスターといると、\nあんしんできるし…それだけ,だから、いっしょにいるだけ…,いいからほら、\nうごきたくないから、おんぶ…",
+		"voice": "revatein_lo_kyara_ex_1002,revatein_lo_kyara_ex_2002,revatein_lo_kyara_ex_3002",
+		"background": "sea_beach_day"
+	},
+	{
+		"ID": 330,
+		"same_character_id": 240201,
+		"face": "smile",
+		"serif": "雲行きなんか変えられる\nどんな雲もあたしの焔で払ってやるよ,だからさ、\n師匠は自分の信じる道を行くんだ！,その胸に宿る光、\n最後まで絶対に絶やすなよ！",
+		"voice": "hyoha_c_kyara_ex_1002,hyoha_c_kyara_ex_2002,hyoha_c_kyara_ex_3002",
+		"background": "sea_beach_day"
+	},
+	{
+		"ID": 331,
+		"same_character_id": 210461,
+		"face": "happy",
+		"serif": "まぁ、だんちょーもミュルのことを\n理解してきたみたいだし、,これからは少し安めの報酬で\n手伝ってあげないでもないわ,少しだけどね\nほんの少し！",
+		"voice": "murgleys_c_kyara_ex_1002,murgleys_c_kyara_ex_2002,murgleys_c_kyara_ex_3002",
+		"background": "sea_beach_day"
+	},
+	{
+		"ID": 332,
+		"same_character_id": 220301,
+		"face": "shy",
+		"serif": "誰かと一緒に\n時の流れに身をゆだねる…,それがとても尊いことだって\n教えてくれたのは,当主様…あなたよ",
+		"voice": "risanautr_l_kyara_ex_1002,risanautr_l_kyara_ex_2002,risanautr_l_kyara_ex_3002",
+		"background": "sea_beach_day"
+	},
+	{
+		"ID": 333,
+		"same_character_id": 550171,
+		"face": "happy",
+		"serif": "ワタシの怒り、,キミは認めてくれるわよねっ",
+		"voice": "grimoire_ge_kyara_1018,grimoire_ge_kyara_2018",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 334,
+		"same_character_id": 50162,
+		"face": "happy",
+		"serif": "あなたに,一瞬でも慈悲の言葉をかけそうに\nなった自分を罰したい気分です",
+		"voice": "Flabellum_kyara_1017,Flabellum_kyara_2017",
+		"background": "schoolgate_daytime"
+	},
+	{
+		"ID": 335,
+		"same_character_id": 260321,
+		"face": "happy",
+		"serif": "イエーイ♪,あたしとリーダーは\nずっ友に認定されましたー",
+		"voice": "orpheus_c_kyara_ex_1002,orpheus_c_kyara_ex_2002",
+		"background": "sea_beach_day"
+	},
+	{
+		"ID": 336,
+		"same_character_id": 230013,
+		"face": "happy",
+		"serif": "もっともっと、\nおにいさんにあまえちゃいますね,だ、だから…その,だっこ…してください",
+		"voice": "ronginusu_lo_kyara_ex_1002,ronginusu_lo_kyara_ex_2002,ronginusu_lo_kyara_ex_3002",
+		"background": "sea_beach_day"
+	},
+	{
+		"ID": 337,
+		"same_character_id": 510231,
+		"face": "shy",
+		"serif": "これがバイブスの繋がり,あぁっ…嫉妬の氷が\n解けてしまいそうですっ…！",
+		"voice": "ascalon_a_kyara_1018,ascalon_a_kyara_2018",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 338,
+		"same_character_id": 250141,
+		"face": "happy",
+		"serif": "これからも私のそばで…,一緒に…戦いましょうね！",
+		"voice": "mami_kyara_1028,mami_kyara_2028",
+		"background": "sea_beach_day"
+	},
+	{
+		"ID": 339,
+		"same_character_id": 240111,
+		"face": "happy",
+		"serif": "あなたがそばに居てくれると、\n不思議と力がわいてくるの,できればこのままずっと…\nううん、何でもない",
+		"voice": "madoka_kyara_1027,madoka_kyara_2027",
+		"background": "sea_beach_day"
+	},
+	{
+		"ID": 340,
+		"same_character_id": 250371,
+		"face": "happy",
+		"serif": "優しくて、仲間思いで…\nとっても素敵な方…,そんなマスターさんのお側にいれて、\nわたしは幸せです…,えへへ…これからも、\nお役に立てるようがんばりますね",
+		"voice": "logistille_c_kyara_ex_1002,logistille_c_kyara_ex_2002,logistille_c_kyara_ex_3002",
+		"background": "sea_beach_day"
+	},
+	{
+		"ID": 341,
+		"same_character_id": 250131,
+		"face": "happy",
+		"serif": "これからも一緒に魔女も、\nあなたの敵も倒し続けましょう,それがきっとお互いの大切な存在を\n幸せにする最良の策よ",
+		"voice": "homura_kyara_1028,homura_kyara_2028",
+		"background": "sea_beach_day"
+	},
+	{
+		"ID": 342,
+		"same_character_id": 210201,
+		"face": "happy",
+		"serif": "どんなことがあっても\nあんたは私が守るからね,安心して",
+		"voice": "sayaka_kyara_1028,sayaka_kyara_2028",
+		"background": "sea_beach_day"
+	},
+	{
+		"ID": 343,
+		"same_character_id": 230151,
+		"face": "happy",
+		"serif": "あんたってさ,アタシの親父くらい\n優しくて尊敬できて,…素敵、だよ",
+		"voice": "kyoko_kyara_1027,kyoko_kyara_2027,kyoko_kyara_3027",
+		"background": "sea_beach_day"
+	},
+	{
+		"ID": 344,
+		"same_character_id": 240221,
+		"face": "happy",
+		"serif": "キミが目指す未来、\nボクもそれを見届けるとしよう,どんな時も隣で支えてあげるのが、\nお友達の役目だからね,これからもよろしくしてあげるよ、\nお兄さん",
+		"voice": "ichiibal_c_kyara_ex_1002,ichiibal_c_kyara_ex_2002,ichiibal_c_kyara_ex_3002",
+		"background": "sea_beach_day"
+	},
+	{
+		"ID": 345,
+		"same_character_id": 340012,
+		"face": "happy",
+		"serif": "マスターが一緒にいてくれるので…,迷いなく矢を放てるのです,これからも私を導いてくださいね",
+		"voice": "arutemisu_ge_kyara_ex_1002,arutemisu_ge_kyara_ex_2002,arutemisu_ge_kyara_ex_3002",
+		"background": "fairy_world"
+	},
+	{
+		"ID": 346,
+		"same_character_id": 320042,
+		"face": "shy",
+		"serif": "罪には罰を…\nそして、功績には褒賞を,それは当然のことだろう？,だからマスター…,ここまで従ってきたボクを\n誉めてくれるかい？",
+		"voice": "parashu_a_kyara_ex_1002,parashu_a_kyara_ex_2002,parashu_a_kyara_ex_3002,parashu_a_kyara_ex_4002",
+		"background": "fairy_world"
+	},
+	{
+		"ID": 347,
+		"same_character_id": 310261,
+		"face": "shy",
+		"serif": "これは、あえて\n伝えてこなかった予言なんだけど…,これから先、マスターの隣には,ずっと私がいることになっているの",
+		"voice": "caladbolg_t_kyara_ex_1002,caladbolg_t_kyara_ex_2002,caladbolg_t_kyara_ex_3002",
+		"background": "fairy_world"
+	},
+	{
+		"ID": 348,
+		"same_character_id": 310281,
+		"face": "shy",
+		"serif": "いつもは人を監督する立場だが…,たまには監督される側に\nなってみるのもいいかもしれん,マスターになら、\n安心して任せられるな",
+		"voice": "dainsleif_t_kyara_ex_1002,dainsleif_t_kyara_ex_2002,dainsleif_t_kyara_ex_3002",
+		"background": "fairy_world"
+	},
+	{
+		"ID": 351,
+		"same_character_id": 50281,
+		"face": "shy",
+		"serif": "私、恋人が欲しいと\nずーっと願っていました。,でも、気づかないだけで、\nこんな近くに居たんですね…,これからも\nよろしくお願いしますねっ",
+		"voice": "gabriel_dg_kyara_ex_1002,gabriel_dg_kyara_ex_2002,gabriel_dg_kyara_ex_3002",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 352,
+		"same_character_id": 510362,
+		"face": "shy",
+		"serif": "決してあなたを\n失わせたりしない,これは誓いよ,全てを救い、そして平和となった世界を、\nあなたと共に歩きたいわ",
+		"voice": "ragnarok_im_kyara_ex_1002,ragnarok_im_kyara_ex_2002,ragnarok_im_kyara_ex_3002",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 353,
+		"same_character_id": 310383,
+		"face": "happy",
+		"serif": "ねえ、マスター,いつかわたしの学校にも\n遊びにきてみない？,色々案内したいところがあるのよ\nきっと、絶・楽しいわ！",
+		"voice": "almace_g_kyara_1026,almace_g_kyara_2026,almace_g_kyara_3026",
+		"background": "schoolgate_daytime"
+	},
+	{
+		"ID": 354,
+		"same_character_id": 60331,
+		"face": "smile_1",
+		"serif": "…不思議ですね…,あなたと過ごしている間は、\n苦しい過去を忘れられる…,…こんなに穏やかな気持ちは、\n久しぶりかもしれません…",
+		"voice": "fuelie_kyara_ex_1002,fuelie_kyara_ex_2002,fuelie_kyara_ex_3002",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 355,
+		"same_character_id": 310142,
+		"face": "happy",
+		"serif": "あの…マスター…,マスターの願いって\n私が叶えることができますか？",
+		"voice": "tyrufing_kyara_1026,tyrufing_kyara_2026",
+		"background": "fairy_world"
+	},
+	{
+		"ID": 356,
+		"same_character_id": 10311,
+		"face": "shy",
+		"serif": "この温もりは…兄さん…？,はっ！いや、これはその…,気にしないで！！",
+		"voice": "yomi_kyara_2012,yomi_kyara_3012,yomi_kyara_4012",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 357,
+		"same_character_id": 20231,
+		"face": "shy",
+		"serif": "やぁん♪,……なによう、そう言ったほうが\n可愛いって教えてもらったの！,変な顔しないでよう！",
+		"voice": "shayna_kyara_1013,shayna_kyara_2013,shayna_kyara_3013",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 358,
+		"same_character_id": 20241,
+		"face": "shy",
+		"serif": "きゃっ…,どうやらいたずら好きの\nこの豚さんは、,一度首を跳ねなきゃいけないようね",
+		"voice": "rosa_kyara_2013,rosa_kyara_3013,rosa_kyara_4013",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 359,
+		"same_character_id": 40161,
+		"face": "",
+		"serif": "何これ…,ちょっと体が変な感じするかも…,ドキドキする…",
+		"voice": "almira_kyara_1012,almira_kyara_2012,almira_kyara_3012",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 360,
+		"same_character_id": 60121,
+		"face": "happy",
+		"serif": "力を望むときこそ、,契約は結ばれる",
+		"voice": "uroboros_kyara_1018,uroboros_kyara_2018",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 361,
+		"same_character_id": 10331,
+		"face": "smile1",
+		"serif": "すごい…,この私の剣に、\n力が宿ったような…,そんな感覚です！",
+		"voice": "chloe_kyara_1012,chloe_kyara_2012,chloe_kyara_3012",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 362,
+		"same_character_id": 10371,
+		"face": "happy",
+		"serif": "安心して背中を預けられる存在…,ありがとう,アナタに出会えて\n本当に良かった",
+		"voice": "yauras_kyara_ex_1002,yauras_kyara_ex_2002,yauras_kyara_ex_3002",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 363,
+		"same_character_id": 20261,
+		"face": "smile",
+		"serif": "アタシが鍛冶に捧げる気持ちと\n同じくらいの気持ちを,アタシに向けられるの？,中途半端な想いなら\n承知しないよ！",
+		"voice": "miuna_kyara_1013,miuna_kyara_2013,miuna_kyara_3013",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 364,
+		"same_character_id": 10191,
+		"face": "happy",
+		"serif": "いつか元の世界に\n戻るその日まで…,あなたは私が守るわ！",
+		"voice": "kanon_kyara_1018,kanon_kyara_2018",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 365,
+		"same_character_id": 60211,
+		"face": "happy",
+		"serif": "どんな厚い雲にも\n銀の裏地がある…,必ずいいことがあるんだって,わたしもいつか、わたしを\n包んでくれるひとにあえるかな",
+		"voice": "lizbeth_kyara_1013,lizbeth_kyara_2013,lizbeth_kyara_3013",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 366,
+		"same_character_id": 50291,
+		"face": "shy",
+		"serif": "私はやりたいようにやるわよ,そこは間違えないでね",
+		"voice": "albell_kyara_1028,albell_kyara_2028",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 367,
+		"same_character_id": 10391,
+		"face": "smile",
+		"serif": "私、こんなに突き放そうとしてるのに\n…君は懲りないんだね,…ううん,そういう真っ直ぐなところ、\nいいとは思ってる",
+		"voice": "setsuna_kyara_2025,setsuna_kyara_3025,setsuna_kyara_4025",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 368,
+		"same_character_id": 50301,
+		"face": "smile",
+		"serif": "キミに触られるのは嫌じゃないけど,ボクのこと怖くないの？,結構怖がられるんだけどなー",
+		"voice": "lucille_kyara_1013,lucille_kyara_2013,lucille_kyara_3013",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 369,
+		"same_character_id": 20271,
+		"face": "shy",
+		"serif": "心を許してもいい、って\n私が思うなんて…,アナタは不思議な人です,…褒めてるんですよ？",
+		"voice": "acht_kyara_1018,acht_kyara_2018,acht_kyara_3018",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 370,
+		"same_character_id": 60261,
+		"face": "smile",
+		"serif": "気持ちはわかるけど、だぁめ,…ふふ,ダメって言われるほうが、\n燃えちゃうんでしょう？",
+		"voice": "vier_kyara_1013,vier_kyara_2013,vier_kyara_3013",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 371,
+		"same_character_id": 60281,
+		"face": "shy",
+		"serif": "ふふ…とても気分がいいよ…,あったかくて、ふわふわして…",
+		"voice": "rofia_kyara_1028,rofia_kyara_2028",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 372,
+		"same_character_id": 50341,
+		"face": "",
+		"serif": "いいよ,いつか…\nいつかあたしの本当の力,教えてあげよっかな",
+		"voice": "mela_kyara_1028,mela_kyara_2028,mela_kyara_3028",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 373,
+		"same_character_id": 50351,
+		"face": "happy",
+		"serif": "らしくないけど…待ってたよ、\nキミが来るの,…さて、キミが重ねてきた歴史…,…お姉さんが紐解いてあげる",
+		"voice": "kaya_kyara_1018,kaya_kyara_2018,kaya_kyara_3018",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 374,
+		"same_character_id": 60291,
+		"face": "",
+		"serif": "困った時にあなたを\n捜している自分に気がついたわ,こんなこと知ったら\n兄さんは怒るでしょうね,ふふっ",
+		"voice": "emmer_kyara_1018,emmer_kyara_2018,emmer_kyara_3018",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 375,
+		"same_character_id": 603011,
+		"face": "happy",
+		"serif": "おさんぽ、好きなの\n気まぐれに、ふらふらしたいの,…あなたとなら、今度いっしょに\n行ってもいいかな,する？おさんぽ",
+		"voice": "zwei_kyara_1026,zwei_kyara_2026,zwei_kyara_3026",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 376,
+		"same_character_id": 104311,
+		"face": "happy1",
+		"serif": "ふふ…私が気になるのね？,いいわよ…遠慮しないで,もっと近づいても…",
+		"voice": "siewa_kyara_1017,siewa_kyara_2017,siewa_kyara_3017",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 377,
+		"same_character_id": 510471,
+		"face": "shy",
+		"serif": "何か私にして欲しいことは\nないかしら？,一つだけ、\n何でも言うことを聞いてあげるわ",
+		"voice": "senjougahara_kyara_ex_1002,senjougahara_kyara_ex_2002",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 378,
+		"same_character_id": 560341,
+		"face": "happy",
+		"serif": "わたし、しばらくはこの辺り、\nうろうろしてると思いますから――,見かけたら、\n話しかけてくださいね",
+		"voice": "hatikuji_kyara_1005,hatikuji_kyara_2005",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 379,
+		"same_character_id": 550321,
+		"face": "happy",
+		"serif": "主様のお気持ち、\nこの胸に確かに伝わりました,あなたのその優しさを、\nその深き愛を、,私と主様との誓約にも\nさせていただけませんか？",
+		"voice": "tiphereth_ca_kyara_ex_1002,tiphereth_ca_kyara_ex_2002,tiphereth_ca_kyara_ex_3002",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 380,
+		"same_character_id": 550381,
+		"face": "happy",
+		"serif": "撫子のこと,ちゃんと見ててね",
+		"voice": "sengoku_kyara_classchange_1002,sengoku_kyara_classchange_2002",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 381,
+		"same_character_id": 530331,
+		"face": "happy",
+		"serif": "誰にでも優しいって、,やっぱり無責任だからね",
+		"voice": "hanekawa_kyara_1027,hanekawa_kyara_2027",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 382,
+		"same_character_id": 510481,
+		"face": "happy",
+		"serif": "儂は怪異の王とまで呼ばれた、\n怪異殺しの怪異,やってできんことはないわ",
+		"voice": "shinobu_kyara_1001,shinobu_kyara_2001",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 383,
+		"same_character_id": 520321,
+		"face": "happy",
+		"serif": "あ、鞄を持たせてくれ,さ、行くぞ、先輩",
+		"voice": "kanbaru_kyara_ex_1002,kanbaru_kyara_ex_2002",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 384,
+		"same_character_id": 350051,
+		"face": "happy",
+		"serif": "キミに立ちふさがる障害を――,全部あたしの運で跪かせてやる。,だから、いつだって\nあたしを見てろよなっ！",
+		"voice": "vajura_ge_kyara_ex_1002,vajura_ge_kyara_ex_2002,vajura_ge_kyara_ex_3002",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 385,
+		"same_character_id": 540191,
+		"face": "happy",
+		"serif": "お前様となら、どんな闘いも\n負ける気がしないわ,これからもお前様が私を支え\n私がお前様を守る,それを二人の誓約としましょう\nどうかしら？",
+		"voice": "failnaught_ca_kyara_ex_1002,failnaught_ca_kyara_ex_2002,failnaught_ca_kyara_ex_3002",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 386,
+		"same_character_id": 340072,
+		"face": "happy",
+		"serif": "貴方のバイブスと共鳴したあの日…\n私の中で何かが弾けたんです,その時に思いました。\n,この聖鎖された力を、\nあなたのために使おうと",
+		"voice": "shekina_t_kyara_ex_1002,shekina_t_kyara_ex_2002,shekina_t_kyara_ex_3002",
+		"background": "fairy_world"
+	},
+	{
+		"ID": 387,
+		"same_character_id": 320162,
+		"face": "happy",
+		"serif": "マスターは約束を破らないって\n信じてますからね♪,契約違反がわかった時は,…わかってますよね",
+		"voice": "shita_a_kyara_ex_1002,shita_a_kyara_ex_2002,shita_a_kyara_ex_3002",
+		"background": "fairy_world"
+	},
+	{
+		"ID": 388,
+		"same_character_id": 530311,
+		"face": "happy",
+		"serif": "ずっと、空っぽだったの\n考えても、見つからなくて,だけど、御館様が\n心を満たしてくれた,次はわたしが御館様を満たす番、\nわたし達二人の新たな誓約ね",
+		"voice": "cassius_ca_kyara_ex_1002,cassius_ca_kyara_ex_2002,cassius_ca_kyara_ex_3002",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 389,
+		"same_character_id": 350022,
+		"face": "shy",
+		"serif": "からっぽだったわたしのハートは…,すっかり、\nきみの弾薬で満たされたよ,きみがわたしを\n撃ち抜いたんだ、ダーリン",
+		"voice": "furaikugeru_t_kyara_ex_1002,furaikugeru_t_kyara_ex_2002,furaikugeru_t_kyara_ex_3002",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 390,
+		"same_character_id": 5200011,
+		"face": "shy",
+		"serif": "あなたのことも、\nあなたが大切にしている人達も,全て私が守ってみせるわ\nイージスの名にかけて,だって私達…仲間だからね",
+		"voice": "aegis_c_kyara_ex_1002,aegis_c_kyara_ex_2002,aegis_c_kyara_ex_3002",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 391,
+		"same_character_id": 310101,
+		"face": "happy",
+		"serif": "あなたとともにここまで来れたこと…\n誇りに思いますわ,神の美の輝きに\n目をくらませることなく,ずっとわたしを\n見ていてくださいね",
+		"voice": "furagaraha_t_kyara_ex_1002,furagaraha_t_kyara_ex_2002,furagaraha_t_kyara_ex_3002",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 392,
+		"same_character_id": 330051,
+		"face": "happy",
+		"serif": "お前の傍は心地が良い…,私の邪魔をしないし、\n私の望むものをいつもくれる…,だから私も、\nお前の望みに応えると約束しよう",
+		"voice": "roon_ge_kyara_ex_1002,roon_ge_kyara_ex_2002,roon_ge_kyara_ex_3002",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 393,
+		"same_character_id": 560351,
+		"face": "smile",
+		"serif": "いつでもあなたなら助けに\n来てくれそうな気がします,不思議な気持ちです,ずっとこうして寄り添って\nいられるといいですね",
+		"voice": "kushinada_kyara_1026,kushinada_kyara_2026,kushinada_kyara_3026",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 394,
+		"same_character_id": 10321,
+		"face": "shy",
+		"serif": "こんな時間まで任務に\n付き合ってくれてありがとう！,それじゃ、\nもうひと頑張りいきますか！",
+		"voice": "sakura_kyara_1027,sakura_kyara_2027",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 395,
+		"same_character_id": 30231,
+		"face": "shy",
+		"serif": "五芒の印は最強……,格の違いを見せてあげる",
+		"voice": "kikyo_unit_1008,kikyo_unit_2008",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 396,
+		"same_character_id": 40151,
+		"face": "shy",
+		"serif": "あらあら、百合の華紋が\n気になるんですの？,そのうち見れるんじゃないかしら",
+		"voice": "yuri_kyara_1011,yuri_kyara_2011",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 397,
+		"same_character_id": 50231,
+		"face": "shy",
+		"serif": "ふあぁ…,力が…満ちてくよ…",
+		"voice": "hiiragi_kyara_1014,hiiragi_kyara_2014",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 398,
+		"same_character_id": 40152,
+		"face": "shy",
+		"serif": "あらあら、百合の華紋が\n気になるんですの？,そのうち見れるんじゃないかしら",
+		"voice": "yuri_kyara_1011,yuri_kyara_2011",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 399,
+		"same_character_id": 30271,
+		"face": "shy",
+		"serif": "やっぱり笑っていたいわよね\n落ち込んだ時は言ってね,そんな時は\nウズメちゃん呼んで遊ぼ♪,下品だけど楽しい娘よ",
+		"voice": "amaterasu_kyara_1009,amaterasu_kyara_2009,amaterasu_kyara_3009",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 400,
+		"same_character_id": 40181,
+		"face": "happy",
+		"serif": "夜のとばりが降りる時、\n闇の力が発揮される…,うん、ようやく調子が出てきたよ,さあ、行こう…ソチにボクの\n実力を見せてあげるよ…",
+		"voice": "yomi_kyara_2008,yomi_kyara_3008,yomi_kyara_4008",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 401,
+		"same_character_id": 60221,
+		"face": "happy",
+		"serif": "大丈夫だよ,わたしは\nなあんにも変わらないから♪",
+		"voice": "tsukuyomi_kyara_1014,tsukuyomi_kyara_2014",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 402,
+		"same_character_id": 30291,
+		"face": "smile",
+		"serif": "わたしに外の世界を\n教えてくれてありがとう,わたし、きみのために\n頑張るからね！",
+		"voice": "sango_kyara_1028,sango_kyara_2028",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 403,
+		"same_character_id": 510363,
+		"face": "shy",
+		"serif": "あなたが見守ってくれたから\n私はここまでこられた…,今度は私があなたの行く末を\n見守ってあげる,どこまでも行きましょう\nこの御旗があなたの未来を照らすわ",
+		"voice": "ragnarok_n_kyara_ex_1002,ragnarok_n_kyara_ex_2002,ragnarok_n_kyara_ex_3002",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 404,
+		"same_character_id": 540202,
+		"face": "happy",
+		"serif": "雲行きなんか変えられる\nどんな雲もあたしの焔で払ってやるよ,だからさ、\n師匠は自分の信じる道を行くんだ！,その胸に宿る光、\n最後まで絶対に絶やすなよ！",
+		"voice": "hyoha_c_kyara_ex_1002,hyoha_c_kyara_ex_2002,hyoha_c_kyara_ex_3002",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 405,
+		"same_character_id": 520312,
+		"face": "shy",
+		"serif": "お師様、\nどうかワタシを導いてください,かつて天竺へ向かった\n法師様のように",
+		"voice": "nyoikinkobou_c_kyara_ex_1002,nyoikinkobou_c_kyara_ex_2002",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 406,
+		"same_character_id": 560361,
+		"face": "smile",
+		"serif": "我が聲を受け、\nそして関心を引くうぬの存在…,かような邂逅があるのなら、\n不確かな我の運命も…愉快だ",
+		"voice": "uroboros_d_kyara_ex_1002,uroboros_d_kyara_ex_2002",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 407,
+		"same_character_id": 530014,
+		"face": "happy",
+		"serif": "マスターのためなら、\nこの力のすべてを託しても良い…,それが今の、私の正直な気持ちです",
+		"voice": "ronginusu_k_kyara_ex_1002,ronginusu_k_kyara_ex_2002",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 408,
+		"same_character_id": 330021,
+		"face": "usual",
+		"serif": "いつか出来上がったら\nマスターに見せてあげるね,トライデントの英雄譚っ☆,キミのことも\nたーくさんっ、書いてあるよっ！",
+		"voice": "toraidento_ge_kyara_ex_1002,toraidento_ge_kyara_ex_2002,toraidento_ge_kyara_ex_3002",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 409,
+		"same_character_id": 50101,
+		"face": "happy",
+		"serif": "流石です,あなたを信頼してよかった",
+		"voice": "akane_kyara_1017,akane_kyara_2017",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 410,
+		"same_character_id": 50111,
+		"face": "happy",
+		"serif": "あなたのためなら\n命を賭けてもいい,そう思います",
+		"voice": "yayoi_kyara_1018,yayoi_kyara_2018",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 411,
+		"same_character_id": 5200021,
+		"face": "happy",
+		"serif": "貴方は、私に過剰な期待を\n向けませんね,それに、気を抜いたところを見ても、\n普段どおりにしてくださる,…その自然な優しさ、\n救われます…",
+		"voice": "dafne_kyara_ex_1002,dafne_kyara_ex_2002,dafne_kyara_ex_3002",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 412,
+		"same_character_id": 510141,
+		"face": "shy",
+		"serif": "…アナタと親密になって\n…嬉しい？　私が？　なぜ…？,どうして\nこんな気持ちが湧いてくるんでしょう…",
+		"voice": "tyrufing_k_kyara_1018,tyrufing_k_kyara_2018",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 413,
+		"same_character_id": 560251,
+		"face": "shy",
+		"serif": "マスターさんなら…\nううん、マスターさんだから,どんな大きな願いでも、\n叶えたいと思えるんだ,きっとそれは優しい願いだって、\nわたしは信じてる",
+		"voice": "chalice_di_kyara_ex_1002,chalice_di_kyara_ex_2002,chalice_di_kyara_ex_3002",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 414,
+		"same_character_id": 510071,
+		"face": "shy",
+		"serif": "あなたと一緒にいれば、\n答えが出せる気がします,例え、それがどんな答えでも、\n後悔はしないと思います",
+		"voice": "arondaito_bo_kyara_ex_1002,arondaito_bo_kyara_ex_2002",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 415,
+		"same_character_id": 20301,
+		"face": "shy",
+		"serif": "誰かと一緒に時の流れに\n身をゆだねる…,それがとても尊いことだって\n教えてくれたのは,当主様…あなたよ",
+		"voice": "risanautr_l_kyara_ex_1002,risanautr_l_kyara_ex_2002,risanautr_l_kyara_ex_3002",
+		"background": "schoolgate_daytime"
+	},
+	{
+		"ID": 416,
+		"same_character_id": 350041,
+		"face": "shy",
+		"serif": "手伝い以上のことは\nするつもりなかったんだけどね…,これがキル姫とマスターの絆なら\n受け入れてあげる,アンタの目標じゃなくて\nアンタ自身のために動くよ",
+		"voice": "burafumasutora_t_kyara_ex_1002,burafumasutora_t_kyara_ex_2002,burafumasutora_t_kyara_ex_3002",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 417,
+		"same_character_id": 310271,
+		"face": "shy",
+		"serif": "契約は絶対だからね,あなたに勝利と栄光を,そのかわり私の頭を撫でてほしい\n対価はそれで十分だ",
+		"voice": "solais_a_kyara_ex_1002,solais_a_kyara_ex_2002,solais_a_kyara_ex_3002",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 418,
+		"same_character_id": 30019,
+		"face": "happy",
+		"serif": "ずっと探していた、\nなにも考えず笑える場所…,マスターのいる場所が…\nきっとそうなのかなって…思います,だから私、マスターのために…\nこれからも頑張りますね",
+		"voice": "ronginus_kyara_ex_1002,ronginus_kyara_ex_2002,ronginus_kyara_ex_3002",
+		"background": "schoolgate_daytime"
+	},
+	{
+		"ID": 419,
+		"same_character_id": 10066,
+		"face": "shy",
+		"serif": "あの、私本当に\nどこにもいかなくていいですか？,ここにいていいんですか？",
+		"voice": "nageruring_kyara_4018,nageruring_kyara_5018",
+		"background": "schoolgate_daytime"
+	},
+	{
+		"ID": 420,
+		"same_character_id": 40057,
+		"face": "happy",
+		"serif": "弓士と弓…２つの呼吸が合うことで、\n本来の実力が発揮できます,与一とマスターも、\n今、そんな関係になれたと思います",
+		"voice": "yoichi_kyara_ex_1002,yoichi_kyara_ex_2002",
+		"background": "schoolgate_daytime"
+	},
+	{
+		"ID": 421,
+		"same_character_id": 60231,
+		"face": "",
+		"serif": "いろんな楽しいところに、,これからも案内してね",
+		"voice": "ccsakura_g_kyara_1027,ccsakura_g_kyara_2027",
+		"background": "schoolgate_daytime"
+	},
+	{
+		"ID": 422,
+		"same_character_id": 60233,
+		"face": "",
+		"serif": "この世界にきて、\nいろんな事が起こって、,それを乗り越えて…\n少しだけ成長できたかなって思うの",
+		"voice": "ccsakura_g_kyara_ex_1002,ccsakura_g_kyara_ex_2002",
+		"background": "schoolgate_daytime"
+	},
+	{
+		"ID": 423,
+		"same_character_id": 60234,
+		"face": "smile",
+		"serif": "いろんな楽しいところに、,これからも案内してね",
+		"voice": "ccsakura_g_kyara_1027,ccsakura_g_kyara_2027",
+		"background": "schoolgate_daytime"
+	},
+	{
+		"ID": 424,
+		"same_character_id": 440200,
+		"face": "",
+		"serif": "雲行きなんか変えられる\nどんな雲もあたしの焔で払ってやるよ,だからさ、\n師匠は自分の信じる道を行くんだ！,その胸に宿る光、\n最後まで絶対に絶やすなよ！",
+		"voice": "hyoha_c_kyara_ex_1002,hyoha_c_kyara_ex_2002,hyoha_c_kyara_ex_3002",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 425,
+		"same_character_id": 450370,
+		"face": "",
+		"serif": "優しくて、仲間思いで…\nとっても素敵な方…,そんなマスターさんのお側にいれて、\nわたしは幸せです…,えへへ…これからも、\nお役に立てるようがんばりますね",
+		"voice": "logistille_c_kyara_ex_1002,logistille_c_kyara_ex_2002,logistille_c_kyara_ex_3002",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 426,
+		"same_character_id": 460320,
+		"face": "",
+		"serif": "イエーイ♪,あたしとリーダーは\nずっ友に認定されましたー",
+		"voice": "orpheus_c_kyara_ex_1002,orpheus_c_kyara_ex_2002",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 427,
+		"same_character_id": 420310,
+		"face": "",
+		"serif": "お師様、\nどうかワタシを導いてください,かつて天竺へ向かった\n法師様のように",
+		"voice": "nyoikinkobou_c_kyara_ex_1002,nyoikinkobou_c_kyara_ex_2002",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 428,
+		"same_character_id": 410460,
+		"face": "",
+		"serif": "まぁ、だんちょーもミュルのことを\n理解してきたみたいだし、,これからは少し安めの報酬で\n手伝ってあげないでもないわ,少しだけどね\nほんの少し！",
+		"voice": "murgleys_c_kyara_ex_1002,murgleys_c_kyara_ex_2002,murgleys_c_kyara_ex_3002",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 429,
+		"same_character_id": 440220,
+		"face": "",
+		"serif": "キミが目指す未来、\nボクもそれを見届けるとしよう,どんな時も隣で支えてあげるのが、\nお友達の役目だからね,これからもよろしくしてあげるよ、\nお兄さん",
+		"voice": "ichiibal_c_kyara_ex_1002,ichiibal_c_kyara_ex_2002,ichiibal_c_kyara_ex_3002",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 430,
+		"same_character_id": 4200010,
+		"face": "",
+		"serif": "あなたのことも、\nあなたが大切にしている人達も,全て私が守ってみせるわ\nイージスの名にかけて,だって私達…仲間だからね",
+		"voice": "aegis_c_kyara_ex_1002,aegis_c_kyara_ex_2002,aegis_c_kyara_ex_3002",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 431,
+		"same_character_id": 410420,
+		"face": "",
+		"serif": "マスターとなら、\nどんな悲劇も乗り越えられるよ,つらいことも一緒なら、\n喜劇にだって変えられる,きっとその先に、\n明るい未来が待ってると思うんだっ！",
+		"voice": "morabeaga_l_kyara_ex_1002,morabeaga_l_kyara_ex_2002,morabeaga_l_kyara_ex_3002",
+		"background": "fairy_world"
+	},
+	{
+		"ID": 432,
+		"same_character_id": 420300,
+		"face": "",
+		"serif": "誰かと一緒に\n時の流れに身をゆだねる…,それがとても尊いことだって\n教えてくれたのは,当主様…あなたよ",
+		"voice": "risanautr_l_kyara_ex_1002,risanautr_l_kyara_ex_2002,risanautr_l_kyara_ex_3002",
+		"background": "fairy_world"
+	},
+	{
+		"ID": 433,
+		"same_character_id": 560203,
+		"face": "happy",
+		"serif": "わたし、わかりましたから。\n好きになることは、悪くないんです！,気持ちに流されたりしなければ、\nいいんです,だ、だから…,…お兄ちゃん、\nわたしと、腕を組んでみてくれる…？",
+		"voice": "ness_kyara_ex_1002,ness_kyara_ex_2002,ness_kyara_ex_3002,ness_kyara_ex_4002",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 434,
+		"same_character_id": 530253,
+		"face": "happy",
+		"serif": "改めて言うことではありませんが、\nマスターがあってこその私なのです,これからもよろしくお願いしますね",
+		"voice": "minerva_kyara_ex_1002,minerva_kyara_ex_2002",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 435,
+		"same_character_id": 530281,
+		"face": "happy",
+		"serif": "先輩は人を信じすぎだと思うぞ？,ヘレナは、先輩が悪い人\nに騙されないか心配だ,だけど…そんな真っすぐな先輩が\nヘレナは大好きだ",
+		"voice": "herena_di_kyara_ex_1002,herena_di_kyara_ex_2002,herena_di_kyara_ex_3002",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 436,
+		"same_character_id": 4401900,
+		"face": "",
+		"serif": "お前様となら、どんな闘いも\n負ける気がしないわ,これからもお前様が私を支え\n私がお前様を守る,それを二人の誓約としましょう\nどうかしら？",
+		"voice": "failnaught_ca_kyara_ex_1002,failnaught_ca_kyara_ex_2002,failnaught_ca_kyara_ex_3002",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 437,
+		"same_character_id": 4501700,
+		"face": "",
+		"serif": "マスターはワタシから逃げないのね\n憤怒に狂うこのワタシから…,それは一体どうしてかしら？,…まぁいいわ。キミがワタシの隣にいる\nその事実だけで十分,たとえ世界が滅んでも\nキミだけは救ってあげる",
+		"voice": "grimoire_ge_kyara_ex_1002,grimoire_ge_kyara_ex_2002,grimoire_ge_kyara_ex_3002,grimoire_ge_kyara_ex_4002",
+		"background": "fairy_world"
+	},
+	{
+		"ID": 438,
+		"same_character_id": 530101,
+		"face": "happy",
+		"serif": "あなたの中に哀しみが\n生まれることがないよう、,今度こそ、あなたを守ると\n誓わせてください",
+		"voice": "rhongomiant_bo_kyara_ex_1002,rhongomiant_bo_kyara_ex_2002",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 439,
+		"same_character_id": 520221,
+		"face": "shy",
+		"serif": "待て…我は、\n一人でいることも多いが…,一人よりも、二人っきりの方が\n好き、だぞ…？",
+		"voice": "banko_kyara_1027,banko_kyara_2027",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 440,
+		"same_character_id": 530351,
+		"face": "happy",
+		"serif": "わたしが辛くて悲しい時は\n助けてもらうから、,だから今は、\nもう少しだけ頑張らせて",
+		"voice": "tachibanahibiki_kyara_ex_1002,tachibanahibiki_kyara_ex_2002",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 441,
+		"same_character_id": 560371,
+		"face": "angry",
+		"serif": "戦いはイヤだけど、,わたしに出来ることをしないまま\n諦めるのはもっとイヤ,だからわたしも戦う",
+		"voice": "miku_kyara_ex_1002,miku_kyara_ex_2002,miku_kyara_ex_3002",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 442,
+		"same_character_id": 540231,
+		"face": "shy",
+		"serif": "意外と相性いいのかもな……,な、なんでもねーッ！",
+		"voice": "yukinechris_kyara_ex_1002,yukinechris_kyara_ex_2002",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 443,
+		"same_character_id": 510024,
+		"face": "shy",
+		"serif": "家族なんだし、\nこれからは遠慮しないから,もちろん今までも\n遠慮してなかったけど…,それ以上にってこと\n覚悟しといてよね…ふふっ",
+		"voice": "revatein_iz_ha_kyara_ex_1002,revatein_iz_ha_kyara_ex_2002,revatein_iz_ha_kyara_ex_3002",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 444,
+		"same_character_id": 540081,
+		"face": "happy",
+		"serif": "マスターには、\n悪戯をする相手じゃなくて,一緒に悪戯をしてくれる\n相棒になってほしいな",
+		"voice": "otyinusu_bo_kyara_ex_1002,otyinusu_bo_kyara_ex_2002",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 445,
+		"same_character_id": 550311,
+		"face": "happy",
+		"serif": "これからもマスターを支え、\n守り抜くと決めたの,こんな感情は計算になかったけど\nこれが私の最適解,貴方にとっても、\nそうであるといいな",
+		"voice": "solomon_di_kyara_ex_1002,solomon_di_kyara_ex_2002,solomon_di_kyara_ex_3002",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 446,
+		"same_character_id": 510491,
+		"face": "",
+		"serif": "あなたには、きっともっと\n色々話してもいいんだろうなと思う,だからいつか話したいな,それでわたしのこと、覚えてて\n…なんてね",
+		"voice": "lakinna_kyara_ex_1002,lakinna_kyara_ex_2002,lakinna_kyara_ex_3002",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 447,
+		"same_character_id": 520271,
+		"face": "",
+		"serif": "私は屈しません,私は棄てません,願いのために、\n努力を続けます",
+		"voice": "acht_c_kyara_ex_1002,acht_c_kyara_ex_2002,acht_c_kyara_ex_3002",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 448,
+		"same_character_id": 530341,
+		"face": "",
+		"serif": "弟みたいに思ってた君が、\nこんなに頼もしい存在になるなんて,今でもちょっとびっくり、かな,もう、拗ねない拗ねない\n頼りにしてますよ、マスター",
+		"voice": "grandepieu_di_kyara_ex_1002,grandepieu_di_kyara_ex_2002,grandepieu_di_kyara_ex_3002",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 449,
+		"same_character_id": 540222,
+		"face": "",
+		"serif": "キミが目指す未来、\nボクもそれを見届けるとしよう,どんな時も隣で支えてあげるのが、\nお友達の役目だからね,これからもよろしくしてあげるよ、\nお兄さん",
+		"voice": "ichiibal_c_kyara_ex_1002,ichiibal_c_kyara_ex_2002,ichiibal_c_kyara_ex_3002",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 450,
+		"same_character_id": 550372,
+		"face": "",
+		"serif": "優しくて、仲間思いで…\nとっても素敵な方…,そんなマスターさんのお側にいれて、\nわたしは幸せです…,えへへ…これからも、\nお役に立てるようがんばりますね",
+		"voice": "logistille_c_kyara_ex_1002,logistille_c_kyara_ex_2002,logistille_c_kyara_ex_3002",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 451,
+		"same_character_id": 520031,
+		"face": "",
+		"serif": "……この気持ち、\nなんなんだろう？,壊すこと以外で、\n楽しいって思っちゃった",
+		"voice": "loveryus_bo_kyara_ex_1002,loveryus_bo_kyara_ex_2002",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 452,
+		"same_character_id": 520301,
+		"face": "",
+		"serif": "あなたの未来は、\n見ないようにしているの,確定したものはつまらないし、\nきっとその方がいいと思うから,あなたの可能性を、私とクロノスに\nこれからも見せてちょうだい",
+		"voice": "risanautr_ca_kyara_ex_1002,risanautr_ca_kyara_ex_2002,risanautr_ca_kyara_ex_3002",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 453,
+		"same_character_id": 250322,
+		"face": "happy",
+		"serif": "主様のお気持ち、\nこの胸に確かに伝わりました,あなたのその優しさを、\nその深き愛を、,私と主様との誓約にも\nさせていただけませんか？",
+		"voice": "tiphereth_ca_kyara_ex_1002,tiphereth_ca_kyara_ex_2002,tiphereth_ca_kyara_ex_3002",
+		"background": "sea_beach_day"
+	},
+	{
+		"ID": 454,
+		"same_character_id": 2200011,
+		"face": "",
+		"serif": "あなたのことも、\nあなたが大切にしている人達も,全て私が守ってみせるわ\nイージスの名にかけて,だって私達…仲間だからね",
+		"voice": "aegis_c_kyara_ex_1002,aegis_c_kyara_ex_2002,aegis_c_kyara_ex_3002",
+		"background": "sea_beach_day"
+	},
+	{
+		"ID": 455,
+		"same_character_id": 220221,
+		"face": "",
+		"serif": "待て…我は、\n一人でいることも多いが…,一人よりも、二人っきりの方が\n好き、だぞ…？",
+		"voice": "banko_kyara_1027,banko_kyara_2027",
+		"background": "sea_beach_day"
+	},
+	{
+		"ID": 456,
+		"same_character_id": 510381,
+		"face": "",
+		"serif": "あなたと一緒なら、\n不可能なんてない気がするわ,私が前に進むために、\nあなたが必要っていうか…,だから、端的に言うと…\n絶・頼りにしてるってことっ！",
+		"voice": "almace_ca_kyara_ex_1002,almace_ca_kyara_ex_2002,almace_ca_kyara_ex_3002",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 457,
+		"same_character_id": 240192,
+		"face": "",
+		"serif": "お前様となら、どんな闘いも\n負ける気がしないわ,これからもお前様が私を支え\n私がお前様を守る,それを二人の誓約としましょう\nどうかしら？",
+		"voice": "failnaught_ca_kyara_ex_1002,failnaught_ca_kyara_ex_2002,failnaught_ca_kyara_ex_3002",
+		"background": "sea_beach_day"
+	},
+	{
+		"ID": 458,
+		"same_character_id": 230341,
+		"face": "",
+		"serif": "弟みたいに思ってた君が、\nこんなに頼もしい存在になるなんて,今でもちょっとびっくり、かな,もう、拗ねない拗ねない\n頼りにしてますよ、マスター",
+		"voice": "grandepieu_di_kyara_ex_1002,grandepieu_di_kyara_ex_2002,grandepieu_di_kyara_ex_3002",
+		"background": "sea_beach_day"
+	},
+	{
+		"ID": 459,
+		"same_character_id": 540173,
+		"face": "",
+		"serif": "マスター…\nそ、その…い、言いますよ…？,今まで、我々と共にいてくれて…,あ、ありがとう、ございます。",
+		"voice": "suiha_im_25hd_kyara_ex_1002,suiha_im_25hd_kyara_ex_2002,suiha_im_25hd_kyara_ex_3002",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 460,
+		"same_character_id": 5200031,
+		"face": "",
+		"serif": "ギャラルはね、マスターのこと、\nいっぱいいっぱい大好きだよ,だから、これからも\nずっと一緒がいいの,ギャラルをひとりにしないって、\n約束してね",
+		"voice": "gjallarhorn_kyara_ex_1002,gjallarhorn_kyara_ex_2002,gjallarhorn_kyara_ex_3002",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 461,
+		"same_character_id": 230313,
+		"face": "",
+		"serif": "ずっと、空っぽだったの\n考えても、見つからなくて,だけど、御館様が\n心を満たしてくれた,次はわたしが御館様を満たす番、\nわたし達二人の新たな誓約ね",
+		"voice": "cassius_ca_kyara_ex_1002,cassius_ca_kyara_ex_2002,cassius_ca_kyara_ex_3002",
+		"background": "sea_beach_day"
+	},
+	{
+		"ID": 462,
+		"same_character_id": 320111,
+		"face": "happy",
+		"serif": "契約外のことはしませんよ\nそれはワズラの信念です,ですから、ここに\n新たな契約を結びましょう,いつか契約が完了し、\nマスターの夢が叶う…その時まで―",
+		"voice": "wazra_a_kyara_ex_1002,wazra_a_kyara_ex_2002,wazra_a_kyara_ex_3002",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 463,
+		"same_character_id": 540011,
+		"face": "",
+		"serif": "マスターと共に高みを目指したい…,心からそう思います",
+		"voice": "arutemisu_k_kyara_ex_1002,arutemisu_k_kyara_ex_2002",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 464,
+		"same_character_id": 5200041,
+		"face": "happy",
+		"serif": "わらわの視界の先には、\nいつだってそなたがいる,いつしかそれが当たり前になっていた\n故に聞きたい,そなたにわらわは、\nどう映っておるのじゃろう…",
+		"voice": "hlidskjalf_kyara_ex_1002,hlidskjalf_kyara_ex_2002,hlidskjalf_kyara_ex_3002",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 465,
+		"same_character_id": 560322,
+		"face": "",
+		"serif": "イエーイ♪,あたしとリーダーは\nずっ友に認定されましたー",
+		"voice": "orpheus_c_kyara_ex_1002,orpheus_c_kyara_ex_2002",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 466,
+		"same_character_id": 510462,
+		"face": "happy",
+		"serif": "まぁ、だんちょーもミュルのことを\n理解してきたみたいだし、,これからは少し安めの報酬で\n手伝ってあげないでもないわ,少しだけどね\nほんの少し！",
+		"voice": "murgleys_c_kyara_ex_1002,murgleys_c_kyara_ex_2002,murgleys_c_kyara_ex_3002",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 467,
+		"same_character_id": 5200051,
+		"face": "happy",
+		"serif": "この鎖は罪の証…\nいえ、決意の証でございます,ご主人様との繋がりは、\n私にとって救いなのです,どうかこれからも、\n離さないでくださいねっ",
+		"voice": "gleipnir_kyara_ex_1002,gleipnir_kyara_ex_2002,gleipnir_kyara_ex_3002",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 468,
+		"same_character_id": 610141,
+		"face": "",
+		"serif": "今なら迷わずに言えます。,マスター。アナタは私にとって、\nかけがえない存在です,どうか、いつまでも\n傍にいてください",
+		"voice": "tyrufing_7th_kyara_ex_1002,tyrufing_7th_kyara_ex_2002,tyrufing_7th_kyara_ex_3002",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 469,
+		"same_character_id": 510382,
+		"face": "",
+		"serif": "あなたと一緒なら、\n不可能なんてない気がするわ,私が前に進むために、\nあなたが必要っていうか…,だから、端的に言うと…\n絶・頼りにしてるってことっ！",
+		"voice": "almace_ca_kyara_ex_1002,almace_ca_kyara_ex_2002,almace_ca_kyara_ex_3002",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 470,
+		"same_character_id": 510384,
+		"face": "happy",
+		"serif": "世界がこんなにも広かったなんて\n知らなかったわ,いつか、世界の果てに\n行ってみたいわね",
+		"voice": "almace_m_kyara_1025,almace_m_kyara_2025",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 471,
+		"same_character_id": 5200061,
+		"face": "happy",
+		"serif": "どうか忘れないで\nあなたが旅路で得たものを,あなたは決して、\nひとりではないことを,この生がある限り、私は\nいつまでもあなたを支え続けるわ",
+		"voice": "yggdrasill_ca_kyara_ex_1002,yggdrasill_ca_kyara_ex_2002,yggdrasill_ca_kyara_ex_3002",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 472,
+		"same_character_id": 10392,
+		"face": "",
+		"serif": "そう…君はあくまで、幻影兵たる\n我らを尊重しようとするんだ,…その真っ直ぐさ…,壊してしまうには惜しいほど…\n『嫉妬』してしまう",
+		"voice": "setsuna_d_kyara_ex_1002,setsuna_d_kyara_ex_2002,setsuna_d_kyara_ex_3002",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 473,
+		"same_character_id": 50342,
+		"face": "",
+		"serif": "あたしたちの面倒だっていう\n『怠惰』さごと受け入れるなんて…,あなたって、面倒事が好きなの？,…ふふっ、そういう頑固なヒト、\n嫌いじゃないよ",
+		"voice": "mela_d_kyara_ex_1002,mela_d_kyara_ex_2002,mela_d_kyara_ex_3002",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 474,
+		"same_character_id": 330091,
+		"face": "happy",
+		"serif": "この青龍偃月刀、\n一層の忠誠を貴方へ,貴方の信頼の念が、\n私を奮い立たせます,抜山蓋世…私達の力、\nこの世界に示しましょう",
+		"voice": "seiryu_t_kyara_ex_1002,seiryu_t_kyara_ex_2002,seiryu_t_kyara_ex_3002",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 475,
+		"same_character_id": 30131,
+		"face": "",
+		"serif": "マスターに出会えて\n良かったって思ってるよ？,つまんない世界が\nとっても楽しくなったし、それに…,…いや、なんでもない！",
+		"voice": "ildana_kyara_1027,ildana_kyara_2027,ildana_kyara_3027",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 476,
+		"same_character_id": 620191,
+		"face": "happy",
+		"serif": "マスターといると寂しくない、\n皆もマスターがいるからいる,マスターが中心で、皆がいて、\nシユウはマスターの隣がいい",
+		"voice": "chihyu_kyara_1027,chihyu_kyara_2027",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 477,
+		"same_character_id": 520253,
+		"face": "happy",
+		"serif": "私の希望がひとつだけ叶うなら…,これからもずっと、\nマスターの傍にいさせてください…",
+		"voice": "hercule_im_kyara_ex_1002,hercule_im_kyara_ex_2002",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 478,
+		"same_character_id": 630071,
+		"face": "happy",
+		"serif": "私はマスターの槍だ,いつなんどき、,どのような壁がマスターの前に\n立ちはだかったとしても、,私が必ず貫き通して見せよう,だから、マスターも私を信じて、\n全てを任せてほしい…！",
+		"voice": "gaiborugu_kyara_ex_1002,gaiborugu_kyara_ex_2002,gaiborugu_kyara_ex_3002,gaiborugu_kyara_ex_4002,gaiborugu_kyara_ex_5002",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 479,
+		"same_character_id": 310121,
+		"face": "happy",
+		"serif": "あんたのことは大好きよ,だから、燃やすのは\n最後にしてあげるわ,気に入ったものは最後まで\n取っておく主義だもの",
+		"voice": "adamasu_a_kyara_ex_1002,adamasu_a_kyara_ex_2002,adamasu_a_kyara_ex_3002",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 480,
+		"same_character_id": 650401,
+		"face": "happy",
+		"serif": "君がいないと、\n私は私じゃなくなっちゃうよ…,それくらい、君は\nもう私の一部なんだもん,だから、これからも\n私を楽しませてね",
+		"voice": "manannan_ura_kyara_ex_1002,manannan_ura_kyara_ex_2002,manannan_ura_kyara_ex_3002",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 481,
+		"same_character_id": 5200071,
+		"face": "shy",
+		"serif": "え、えっと…,ここまで来れたのも、\nマスターくんのおかげだね,本当に、ありがとう",
+		"voice": "kizunaai_kyara_ex_1002,kizunaai_kyara_ex_2002,kizunaai_kyara_ex_3002",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 482,
+		"same_character_id": 5200072,
+		"face": "shy",
+		"serif": "え、えっと…,ここまで来れたのも、\nマスターくんのおかげだね,本当に、ありがとう",
+		"voice": "kizunaai_kyara_ex_1002,kizunaai_kyara_ex_2002,kizunaai_kyara_ex_3002",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 483,
+		"same_character_id": 5200081,
+		"face": "shy",
+		"serif": "へぇ…\nなかなかやるじゃん,照れてる？\nなにそれ…？",
+		"voice": "kizunaai_b_kyara_ex_1002,kizunaai_b_kyara_ex_2002",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 484,
+		"same_character_id": 630181,
+		"face": "",
+		"serif": "私は地獄のキラーズを持つ,それに呼応するバイブスを\n持つマスターなんて,一生現れないと思っていたんです\nだから感謝してます",
+		"voice": "forcas_kyara_1027,forcas_kyara_2027,forcas_kyara_3027",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 485,
+		"same_character_id": 650311,
+		"face": "",
+		"serif": "一緒にいるだけで嬉しいなんて…,こんな気持ち、始めてだわ",
+		"voice": "solomon_kyara_ex_1002,solomon_kyara_ex_2002",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 486,
+		"same_character_id": 660381,
+		"face": "happy",
+		"serif": "いいよ、\n私の全てをあなたにあげる,だから、\nあなたの全ては私のものだね,私達は二人で一つ…\n誰にも邪魔させないよ",
+		"voice": "maclir_ura_kyara_ex_1002,maclir_ura_kyara_ex_2002,maclir_ura_kyara_ex_3002",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 487,
+		"same_character_id": 550251,
+		"face": "happy",
+		"serif": "マスターならば我が爆裂魔法を\n存分に活躍させてくれます！,私にとって、いろんな意味で、\n唯一無二の大切な人です",
+		"voice": "megumin_kyara_ex_1002,megumin_kyara_ex_2002",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 488,
+		"same_character_id": 6200051,
+		"face": "happy",
+		"serif": "この鎖は罪の証…\nいえ、決意の証でございます,ご主人様との繋がりは、\n私にとって救いなのです,どうかこれからも、\n離さないでくださいねっ",
+		"voice": "gleipnir_kyara_ex_1002,gleipnir_kyara_ex_2002,gleipnir_kyara_ex_3002",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 489,
+		"same_character_id": 540192,
+		"face": "happy",
+		"serif": "お前様となら、どんな闘いも\n負ける気がしないわ,これからもお前様が私を支え\n私がお前様を守る,それを二人の誓約としましょう\nどうかしら？",
+		"voice": "failnaught_ca_kyara_ex_1002,failnaught_ca_kyara_ex_2002,failnaught_ca_kyara_ex_3002",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 490,
+		"same_character_id": 610351,
+		"face": "",
+		"serif": "…うん、クレスも覚悟、決めたよ！,…いつ、頭の上から剣が\n落ちてくるかわからなくても,落ちてくる剣に黙って当たらなきゃ\nいけないってこと、ないもんね,マスターとクレスのどっちが\n死にそうになっても絶対に諦めない！",
+		"voice": "damocles_kyara_ex_1002,damocles_kyara_ex_2002,damocles_kyara_ex_3002,damocles_kyara_ex_4002",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 491,
+		"same_character_id": 310041,
+		"face": "",
+		"serif": "この草薙剣、\nそちに最大級の信を置いておる,それだけのことを、\nそちはしたのじゃ,感謝しておるぞ、マスター",
+		"voice": "kusanagi_ge_kyara_ex_1002,kusanagi_ge_kyara_ex_2002,kusanagi_ge_kyara_ex_3002",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 492,
+		"same_character_id": 530361,
+		"face": "smile",
+		"serif": "神のお告げによると、\nあなたとわたしは結ばれる運命,信じるか信じないかは\nあなた次第…ふふっ",
+		"voice": "shirasagi_kyara_ex_1002,shirasagi_kyara_ex_2002",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 493,
+		"same_character_id": 530271,
+		"face": "shy",
+		"serif": "やっぱり笑っていたいわよね\n落ち込んだ時は言ってね,そんな時は\nウズメちゃん呼んで遊ぼ♪,下品だけど楽しい娘よ",
+		"voice": "amaterasu_kyara_1009,amaterasu_kyara_2009,amaterasu_kyara_3009",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 494,
+		"same_character_id": 5200012,
+		"face": "shy",
+		"serif": "あなたのことも、\nあなたが大切にしている人達も,全て私が守ってみせるわ\nイージスの名にかけて,だって私達…仲間だからね",
+		"voice": "aegis_c_kyara_ex_1002,aegis_c_kyara_ex_2002,aegis_c_kyara_ex_3002",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 495,
+		"same_character_id": 610021,
+		"face": "happy",
+		"serif": "…あなたもついてないね,私に気に入られると、\nろくなことないよ…？",
+		"voice": "revatein_kyara_ex_1002,revatein_kyara_ex_2002",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 496,
+		"same_character_id": 510501,
+		"face": "happy",
+		"serif": "なんで、あんたがマスターさんなのか\n何となくわかった,すこーしだけ、あんたのために\n頑張ってあげる。感謝してよね,あたしメンヘラだから。\n絶対はなさないよ",
+		"voice": "kaguramea_kyara_ex_1002,kaguramea_kyara_ex_2002,kaguramea_kyara_ex_3002",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 497,
+		"same_character_id": 510502,
+		"face": "happy",
+		"serif": "なんで、あんたがマスターさんなのか\n何となくわかった,すこーしだけ、あんたのために\n頑張ってあげる。感謝してよね,あたしメンヘラだから。\n絶対はなさないよ",
+		"voice": "kaguramea_kyara_ex_1002,kaguramea_kyara_ex_2002,kaguramea_kyara_ex_3002",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 498,
+		"same_character_id": 530371,
+		"face": "happy",
+		"serif": "これからも、\n末永くよろしくね,ご主人様っ！",
+		"voice": "inuyamatamaki_kyara_ex_1002,inuyamatamaki_kyara_ex_2002",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 499,
+		"same_character_id": 530372,
+		"face": "happy",
+		"serif": "これからも、\n末永くよろしくね,ご主人様っ！",
+		"voice": "inuyamatamaki_kyara_ex_1002,inuyamatamaki_kyara_ex_2002",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 500,
+		"same_character_id": 640051,
+		"face": "happy",
+		"serif": "弓士と弓…２つの呼吸が合うことで、\n本来の実力が発揮できます,与一とマスターも、\n今、そんな関係になれたと思います",
+		"voice": "yoichi_kyara_ex_1002,yoichi_kyara_ex_2002",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 501,
+		"same_character_id": 320101,
+		"face": "happy",
+		"serif": "いつか、みんなで\n国を作りたいなぁ…,仲間だけの世界で、\nみんなで楽しく過ごすんだよ,まだまだ、先のことだけど、\n絶対だからね？約束だよ",
+		"voice": "ukonbasara_a_kyara_ex_1002,ukonbasara_a_kyara_ex_2002,ukonbasara_a_kyara_ex_3002",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 502,
+		"same_character_id": 6200041,
+		"face": "happy",
+		"serif": "わらわの視界の先には、\nいつだってそなたがいる,いつしかそれが当たり前になっていた\n故に聞きたい,そなたにわらわは、\nどう映っておるのじゃろう…",
+		"voice": "hlidskjalf_kyara_ex_1002,hlidskjalf_kyara_ex_2002,hlidskjalf_kyara_ex_3002",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 503,
+		"same_character_id": 640071,
+		"face": "happy",
+		"serif": "たしかに私はふだんから\n派手な格好が好きです,だっていやでも\nあなたの目に留まるでしょ？",
+		"voice": "shekina_kyara_1025,shekina_kyara_2025",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 504,
+		"same_character_id": 650271,
+		"face": "happy",
+		"serif": "…気づいたら\nマスターくんの事でいっぱいになってた,何よりも大切なのはマスターくんだって,呪いなんか来たって\n絶対に負けたりなんかしないよ！,だって…\nおねーちゃんの大切な人だもん",
+		"voice": "freischotz_kyara_ex_2002,freischotz_kyara_ex_3002,freischotz_kyara_ex_4002,freischotz_kyara_ex_5002",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 505,
+		"same_character_id": 610051,
+		"face": "happy",
+		"serif": "マスターの心の炎、\nたしかに見させてもらった,その熱き思いを、\n私の聖域でもっと輝かせてみないか？",
+		"voice": "ritto_kyara_ex_1002,ritto_kyara_ex_2002",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 506,
+		"same_character_id": 510511,
+		"face": "happy",
+		"serif": "ご主人様の背中が大好きです\n温かくて頼り甲斐があって,でも、ただ追いかけるのではなく\n隣を並んで歩きたい…,もっとご主人様の傍にいっても\nいいですか？",
+		"voice": "shichishito_kyara_ex_1002,shichishito_kyara_ex_2002,shichishito_kyara_ex_3002",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 507,
+		"same_character_id": 510232,
+		"face": "happy",
+		"serif": "これがバイブスの繋がり,あぁっ…嫉妬の氷が\n解けてしまいそうですっ…！",
+		"voice": "ascalon_a_kyara_1018,ascalon_a_kyara_2018",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 508,
+		"same_character_id": 6200091,
+		"face": "happy",
+		"serif": "いいわぁ、契約完了よぉ,あなたの意思の可能性を、\n最後まで見届けることにするわぁ,安心なさぁい\n堕ちる時も、付き添ってあげるからぁ",
+		"voice": "belphegor_sea_kyara_ex_1002,belphegor_sea_kyara_ex_2002,belphegor_sea_kyara_ex_3002",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 509,
+		"same_character_id": 510521,
+		"face": "happy",
+		"serif": "不思議だよね。こっちでは\n高原の魔女、なんて呼ばれない,私を私として見てくれる,それが、ちょっとだけ嬉しい…\nような気がする",
+		"voice": "azusa_kyara_ex_1002,azusa_kyara_ex_2002,azusa_kyara_ex_3002",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 510,
+		"same_character_id": 510522,
+		"face": "happy",
+		"serif": "不思議だよね。こっちでは\n高原の魔女、なんて呼ばれない,私を私として見てくれる,それが、ちょっとだけ嬉しい…\nような気がする",
+		"voice": "azusa_kyara_ex_1002,azusa_kyara_ex_2002,azusa_kyara_ex_3002",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 511,
+		"same_character_id": 5200101,
+		"face": "happy",
+		"serif": "この気持ちが何なのか、\n我にはわかりません,ただ、あなたといれば、我はさらに\n成長できる確信があります,いつか、我が真の意味で\n最強になれるまで、あなたとともに",
+		"voice": "raika_kyara_ex_1002,raika_kyara_ex_2002,raika_kyara_ex_3002",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 512,
+		"same_character_id": 560401,
+		"face": "happy",
+		"serif": "マスターさんのおかげで、\n自分に自信が持てた気がしますっ！,ホントですから！,で、でも失敗した時のために、\nこれからも見守ってください",
+		"voice": "harukara_kyara_ex_1002,harukara_kyara_ex_2002,harukara_kyara_ex_3002",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 513,
+		"same_character_id": 620041,
+		"face": "happy",
+		"serif": "君の理想を叶えることが、\n今のボクの理想だ,大丈夫、ボクに任せてくれ\n修行にも一層の気合いを入れるからね,だからこれからも、\nよろしく…ふふっ、少し照れくさいな",
+		"voice": "parashu_kyara_ex_1002,parashu_kyara_ex_2002,parashu_kyara_ex_3002",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 514,
+		"same_character_id": 630141,
+		"face": "happy",
+		"serif": "真実はもうわかっていますの、\nでも、言ってほしい",
+		"voice": "ithuriel_kyara_0028",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 515,
+		"same_character_id": 610381,
+		"face": "shy",
+		"serif": "嫌いだったわ\nマスターってだけでなにもしないあなたが,……それは間違いだった,あなたは、力になりたくてもなれなくて、\nそれでも方法を探して…,悔しかったでしょ？苦しかったでしょ？,でも安心して。その気持ちは、\n私が全部受け取ったから",
+		"voice": "almace_kyara_ex_1002,almace_kyara_ex_2002,almace_kyara_ex_3002,almace_kyara_ex_4002,almace_kyara_ex_5002",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 516,
+		"same_character_id": 630261,
+		"face": "happy",
+		"serif": "マスターがしんじ、\nつきすすむ《せいぎ》に,あたしもいっしょに\nつれていってくれないか？",
+		"voice": "grayside_kyara_ex_1002,grayside_kyara_ex_2002",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 517,
+		"same_character_id": 520331,
+		"face": "shy",
+		"serif": "頼ってほしいのに、\nいつも頼ってばっかりだね…,あなたには、素直に甘えちゃう\n…みたいです",
+		"voice": "nurikabe_kyara_ex_1002,nurikabe_kyara_ex_2002",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 518,
+		"same_character_id": 530381,
+		"face": "happy",
+		"serif": "そなたは頼もしくて助かる,わらわの心も、\n救われておるのだぞ",
+		"voice": "takiyashahime_kyara_ex_1002,takiyashahime_kyara_ex_2002",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 519,
+		"same_character_id": 660391,
+		"face": "happy",
+		"serif": "温かくて優しい熱…\nこれが《愛》なのかしら,だけど、これだけじゃ物足りないわ\nもっともっと私に頂戴！,あなたの《愛》で満たされて、\n気持ち良くなりたいのよ",
+		"voice": "asmodeus_sea_kyara_ex_1002,asmodeus_sea_kyara_ex_2002,asmodeus_sea_kyara_ex_3002",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 520,
+		"same_character_id": 640041,
+		"face": "happy",
+		"serif": "なんだか\nずっと近くなれた気がしますぅ,これからもよろしくお願いしますね、\nあ・な・た♪",
+		"voice": "erosu_kyara_ex_1002,erosu_kyara_ex_2002",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 521,
+		"same_character_id": 340031,
+		"face": "happy",
+		"serif": "ねえ、たまにはさ、ボクの悩みを\n聞いてもらってもいいかな？,マスターになら、ボクの弱いところも\n全部見せれるよ,……こんなこと言うの、\nマスターにだけなんだからね！",
+		"voice": "aporon_t_kyara_ex_1002,aporon_t_kyara_ex_2002,aporon_t_kyara_ex_3002",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 522,
+		"same_character_id": 640251,
+		"face": "shy",
+		"serif": "ベルね、もう全部はいらないよ,お兄ちゃんのおかげで、\n心がいっぱいになったんだ,ベルの気持ち、\nお兄ちゃんにも分けてあげるよ",
+		"voice": "beelzebub_sea_kyara_ex_1002,beelzebub_sea_kyara_ex_2002,beelzebub_sea_kyara_ex_3002",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 523,
+		"same_character_id": 610142,
+		"face": "happy",
+		"serif": "今なら迷わずに言えます。,マスター。アナタは私にとって、\nかけがえない存在です,どうか、いつまでも\n傍にいてください",
+		"voice": "tyrufing_7th_kyara_ex_1002,tyrufing_7th_kyara_ex_2002,tyrufing_7th_kyara_ex_3002",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 524,
+		"same_character_id": 620311,
+		"face": "happy",
+		"serif": "お師様、\nどうかワタシを導いてください,かつて天竺へ向かった\n法師様のように",
+		"voice": "nyoikinkobou_c_kyara_ex_1002,nyoikinkobou_c_kyara_ex_2002",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 525,
+		"same_character_id": 510014,
+		"face": "happy",
+		"serif": "ただの刀である\n拙者がおこがましいのですが,背中を向けられるのは主君だけだと、\n改めて実感いたしました",
+		"voice": "masamune_k_kyara_ex_1002,masamune_k_kyara_ex_2002",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 526,
+		"same_character_id": 630251,
+		"face": "happy",
+		"serif": "改めて言うことではありませんが、\nマスターがあってこその私なのです,これからもよろしくお願いしますね",
+		"voice": "minerva_kyara_ex_1002,minerva_kyara_ex_2002",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 527,
+		"same_character_id": 650402,
+		"face": "happy",
+		"serif": "君がいないと、\n私は私じゃなくなっちゃうよ…,それくらい、君は\nもう私の一部なんだもん,だから、これからも\n私を楽しませてね",
+		"voice": "manannan_ura_kyara_ex_1002,manannan_ura_kyara_ex_2002,manannan_ura_kyara_ex_3002",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 528,
+		"same_character_id": 630311,
+		"face": "",
+		"serif": "ずっと、空っぽだったの\n考えても、見つからなくて,だけど、御館様が\n心を満たしてくれた,次はわたしが御館様を満たす番、\nわたし達二人の新たな誓約ね",
+		"voice": "cassius_ca_kyara_ex_1002,cassius_ca_kyara_ex_2002,cassius_ca_kyara_ex_3002",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 529,
+		"same_character_id": 560411,
+		"face": "happy",
+		"serif": "ふふっ…！,ご主人様のお世話は、\nみしろにお任せくださいねっ！",
+		"voice": "shirayukimishiro_kyara_ex_1002,shirayukimishiro_kyara_ex_2002",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 530,
+		"same_character_id": 510531,
+		"face": "happy",
+		"serif": "おーしっ！,マスター様のために、\nもっともっと頑張らなっ！",
+		"voice": "hoozukiwarabe_kyara_ex_1002,hoozukiwarabe_kyara_ex_2002",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 531,
+		"same_character_id": 660382,
+		"face": "",
+		"serif": "いいよ、\n私の全てをあなたにあげる,だから、\nあなたの全ては私のものだね,私達は二人で一つ…\n誰にも邪魔させないよ",
+		"voice": "maclir_ura_kyara_ex_1002,maclir_ura_kyara_ex_2002,maclir_ura_kyara_ex_3002",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 532,
+		"same_character_id": 610511,
+		"face": "",
+		"serif": "ご主人様の背中が大好きです\n温かくて頼り甲斐があって,でも、ただ追いかけるのではなく\n隣を並んで歩きたい…,もっとご主人様の傍にいっても\nいいですか？",
+		"voice": "shichishito_kyara_ex_1002,shichishito_kyara_ex_2002,shichishito_kyara_ex_3002",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 533,
+		"same_character_id": 630281,
+		"face": "",
+		"serif": "先輩は人を信じすぎだと思うぞ？,ヘレナは、先輩が悪い人\nに騙されないか心配だ,だけど…そんな真っすぐな先輩が\nヘレナは大好きだ",
+		"voice": "herena_di_kyara_ex_1002,herena_di_kyara_ex_2002,herena_di_kyara_ex_3002",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 534,
+		"same_character_id": 6200111,
+		"face": "happy",
+		"serif": "完全に理解したわ\nあなたには私の力が必要なのね,いいわよ、傍にいても,あなたのことは私が守るわ\nどんな災厄からもね",
+		"voice": "pandora_kyara_ex_1002,pandora_kyara_ex_2002,pandora_kyara_ex_3002",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 535,
+		"same_character_id": 620301,
+		"face": "happy",
+		"serif": "あなたの未来は、\n見ないようにしているの,確定したものはつまらないし、\nきっとその方がいいと思うから,あなたの可能性を、私とクロノスに\nこれからも見せてちょうだい",
+		"voice": "risanautr_ca_kyara_ex_1002,risanautr_ca_kyara_ex_2002,risanautr_ca_kyara_ex_3002",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 536,
+		"same_character_id": 650371,
+		"face": "happy",
+		"serif": "優しくて、仲間思いで…\nとっても素敵な方…,そんなマスターさんのお側にいれて、\nわたしは幸せです…,えへへ…これからも、\nお役に立てるようがんばりますね",
+		"voice": "logistille_c_kyara_ex_1002,logistille_c_kyara_ex_2002,logistille_c_kyara_ex_3002",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 537,
+		"same_character_id": 660321,
+		"face": "happy",
+		"serif": "イエーイ♪,あたしとリーダーは\nずっ友に認定されましたー",
+		"voice": "orpheus_c_kyara_ex_1002,orpheus_c_kyara_ex_2002",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 538,
+		"same_character_id": 6200031,
+		"face": "happy",
+		"serif": "ギャラルはね、マスターのこと、\nいっぱいいっぱい大好きだよ,だから、これからも\nずっと一緒がいいの,ギャラルをひとりにしないって、\n約束してね",
+		"voice": "gjallarhorn_kyara_ex_1002,gjallarhorn_kyara_ex_2002,gjallarhorn_kyara_ex_3002",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 539,
+		"same_character_id": 350061,
+		"face": "happy",
+		"serif": "滅びの力を持つ身ですが…\n貴方だけは滅ぼしたくありませんわ,これが変化というのなら、\n私も受け入れましょう,この気持ちは\n私にとって救いなのですから",
+		"voice": "megido_ge_kyara_ex_1002,megido_ge_kyara_ex_2002,megido_ge_kyara_ex_3002",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 540,
+		"same_character_id": 620251,
+		"face": "happy",
+		"serif": "私はみんなの\n《希望》になりたいと思っています,…でも、私にとっての《希望》は\nマスターなんです！,これからも、\n私の背中を押してくださいねっ",
+		"voice": "hercule_kyara_ex_1002,hercule_kyara_ex_2002,hercule_kyara_ex_3002",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 541,
+		"same_character_id": 640171,
+		"face": "happy",
+		"serif": "マスター、\nこれからも共に歩んでいきましょう,…あっ、い、言えた！",
+		"voice": "suiha_kyara_ex_1002,suiha_kyara_ex_2002",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 542,
+		"same_character_id": 610143,
+		"face": "happy",
+		"serif": "今なら迷わずに言えます。,マスター。アナタは私にとって、\nかけがえない存在です,どうか、いつまでも\n傍にいてください",
+		"voice": "tyrufing_7th_kyara_ex_1002,tyrufing_7th_kyara_ex_2002,tyrufing_7th_kyara_ex_3002",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 543,
+		"same_character_id": 6200121,
+		"face": "happy",
+		"serif": "マスター様の専属補佐官は、\nミーミルの役目です,いつか旅が終わったとしても、\nそれは変わりません,マスター様のお役に立てることが、\n私の喜びなのです",
+		"voice": "mimir_kyara_ex_1002,mimir_kyara_ex_2002,mimir_kyara_ex_3002",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 544,
+		"same_character_id": 650321,
+		"face": "happy",
+		"serif": "主様のお気持ち、\nこの胸に確かに伝わりました,あなたのその優しさを、\nその深き愛を、,私と主様との誓約にも\nさせていただけませんか？",
+		"voice": "tiphereth_ca_kyara_ex_1002,tiphereth_ca_kyara_ex_2002,tiphereth_ca_kyara_ex_3002",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 545,
+		"same_character_id": 640221,
+		"face": "happy",
+		"serif": "キミが目指す未来、\nボクもそれを見届けるとしよう,どんな時も隣で支えてあげるのが、\nお友達の役目だからね,これからもよろしくしてあげるよ、\nお兄さん",
+		"voice": "ichiibal_c_kyara_ex_1002,ichiibal_c_kyara_ex_2002,ichiibal_c_kyara_ex_3002",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 546,
+		"same_character_id": 640201,
+		"face": "",
+		"serif": "雲行きなんか変えられる\nどんな雲もあたしの焔で払ってやるよ,だからさ、\n師匠は自分の信じる道を行くんだ！,その胸に宿る光、\n最後まで絶対に絶やすなよ！",
+		"voice": "hyoha_c_kyara_ex_1002,hyoha_c_kyara_ex_2002,hyoha_c_kyara_ex_3002",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 547,
+		"same_character_id": 610071,
+		"face": "happy",
+		"serif": "もう、仕方ないですね\nでも大丈夫です,マスターには私がついていますから",
+		"voice": "arondaito_kyara_2025,arondaito_kyara_3025",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 548,
+		"same_character_id": 610461,
+		"face": "happy",
+		"serif": "まぁ、だんちょーもミュルのことを\n理解してきたみたいだし、,これからは少し安めの報酬で\n手伝ってあげないでもないわ,少しだけどね。\nほんの少し！",
+		"voice": "murgleys_c_kyara_ex_1002,murgleys_c_kyara_ex_2002,murgleys_c_kyara_ex_3002",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 549,
+		"same_character_id": 620161,
+		"face": "happy",
+		"serif": "うふふ\nわたしとマスターの絆は永遠ですわ！,…なーんて♪",
+		"voice": "shita_kyara_ex_1002,shita_kyara_ex_2002",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 550,
+		"same_character_id": 640191,
+		"face": "happy",
+		"serif": "お前様となら、どんな闘いも\n負ける気がしないわ,これからもお前様が私を支え\n私がお前様を守る,それを二人の誓約としましょう\nどうかしら？",
+		"voice": "failnaught_ca_kyara_ex_1002,failnaught_ca_kyara_ex_2002,failnaught_ca_kyara_ex_3002",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 551,
+		"same_character_id": 660291,
+		"face": "smile",
+		"serif": "…あなたと一緒に戦う日々も、\n決して楽な道のりではないわ,でも…どうしてかしら\nどんなときもそれを嫌とは思わないの,私にこんな時間をくれて…\nありがとう",
+		"voice": "emmer_c_kyara_ex_1002,emmer_c_kyara_ex_2002,emmer_c_kyara_ex_3002",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 552,
+		"same_character_id": 610352,
+		"face": "happy",
+		"serif": "…うん、クレスも覚悟、決めたよ！,…いつ、頭の上から剣が\n落ちてくるかわからなくても,落ちてくる剣に黙って当たらなきゃ\nいけないってこと、ないもんね,マスターとクレスのどっちが\n死にそうになっても絶対に諦めない！",
+		"voice": "damocles_kyara_ex_1002,damocles_kyara_ex_2002,damocles_kyara_ex_3002,damocles_kyara_ex_4002",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 553,
+		"same_character_id": 610382,
+		"face": "happy",
+		"serif": "あなたと一緒なら、\n不可能なんてない気がするわ,私が前に進むために、\nあなたが必要っていうか…,だから、端的に言うと…\n絶・頼りにしてるってことっ！",
+		"voice": "almace_ca_kyara_ex_1002,almace_ca_kyara_ex_2002,almace_ca_kyara_ex_3002",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 554,
+		"same_character_id": 650272,
+		"face": "",
+		"serif": "…気づいたら\nマスターくんの事でいっぱいになってた,何よりも大切なのはマスターくんだって,呪いなんか来たって\n絶対に負けたりなんかしないよ！,だって…\nおねーちゃんの大切な人だもん",
+		"voice": "freischotz_kyara_ex_2002,freischotz_kyara_ex_3002,freischotz_kyara_ex_4002,freischotz_kyara_ex_5002",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 555,
+		"same_character_id": 620281,
+		"face": "",
+		"serif": "",
+		"voice": "",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 556,
+		"same_character_id": 630341,
+		"face": "",
+		"serif": "弟みたいに思ってた君が、\nこんなに頼もしい存在になるなんて,今でもちょっとびっくり、かな,もう、拗ねない拗ねない\n頼りにしてますよ、マスター",
+		"voice": "grandepieu_di_kyara_ex_1002,grandepieu_di_kyara_ex_2002,grandepieu_di_kyara_ex_3002",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 557,
+		"same_character_id": 630312,
+		"face": "",
+		"serif": "ずっと、空っぽだったの\n考えても、見つからなくて,だけど、御館様が\n心を満たしてくれた,次はわたしが御館様を満たす番、\nわたし達二人の新たな誓約ね",
+		"voice": "cassius_ca_kyara_ex_1002,cassius_ca_kyara_ex_2002,cassius_ca_kyara_ex_3002",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 558,
+		"same_character_id": 620312,
+		"face": "happy",
+		"serif": "お師様、\nどうかワタシを導いてください,かつて天竺へ向かった\n法師様のように",
+		"voice": "nyoikinkobou_c_kyara_ex_1002,nyoikinkobou_c_kyara_ex_2002",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 559,
+		"same_character_id": 6200011,
+		"face": "",
+		"serif": "あなたのことも、\nあなたが大切にしている人達も,全て私が守ってみせるわ\nイージスの名にかけて,だって私達…仲間だからね",
+		"voice": "aegis_c_kyara_ex_1002,aegis_c_kyara_ex_2002,aegis_c_kyara_ex_3002",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 560,
+		"same_character_id": 630252,
+		"face": "happy",
+		"serif": "改めて言うことではありませんが、\nマスターがあってこその私なのです,これからもよろしくお願いしますね",
+		"voice": "minerva_kyara_ex_1002,minerva_kyara_ex_2002",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 561,
+		"same_character_id": 6200112,
+		"face": "happy",
+		"serif": "完全に理解したわ\nあなたには私の力が必要なのね,いいわよ、傍にいても,あなたのことは私が守るわ\nどんな災厄からもね",
+		"voice": "pandora_kyara_ex_1002,pandora_kyara_ex_2002,pandora_kyara_ex_3002",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 562,
+		"same_character_id": 650161,
+		"face": "happy",
+		"serif": "あなたに,一瞬でも慈悲の言葉をかけそうに\nなった自分を罰したい気分です",
+		"voice": "Flabellum_kyara_1017,Flabellum_kyara_2017",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 563,
+		"same_character_id": 660421,
+		"face": "happy",
+		"serif": "浄化の泉では満たせない心を、\nアナタは癒してくれました,今度は私がアナタを支え、\nアナタを癒して差し上げます,見守る立場ではなく、\nアナタの隣に並んで",
+		"voice": "urthr_kyara_ex_1002,urthr_kyara_ex_2002,urthr_kyara_ex_3002",
+		"background": "mirror_elysium"
+	},
+	{
+		"ID": 564,
+		"same_character_id": 6200042,
+		"face": "happy",
+		"serif": "わらわの視界の先には、\nいつだってそなたがいる,いつしかそれが当たり前になっていた\n故に聞きたい,そなたにわらわは、\nどう映っておるのじゃろう…",
+		"voice": "hlidskjalf_kyara_ex_1002,hlidskjalf_kyara_ex_2002,hlidskjalf_kyara_ex_3002",
+		"background": "mirror_elysium"
+	}
+]

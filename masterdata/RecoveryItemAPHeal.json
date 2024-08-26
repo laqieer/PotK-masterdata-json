@@ -1,0 +1,38 @@
+[
+	{
+		"ID": 1,
+		"name": "APチャージスモール",
+		"recovery_amount": 30,
+		"description": "APが30回復する"
+	},
+	{
+		"ID": 2,
+		"name": "APチャージミドル",
+		"recovery_amount": 70,
+		"description": "APが70回復する"
+	},
+	{
+		"ID": 3,
+		"name": "APチャージラージ",
+		"recovery_amount": 150,
+		"description": "APが150回復する"
+	},
+	{
+		"ID": 4,
+		"name": "まどか☆マギカAPチャージスモール",
+		"recovery_amount": 30,
+		"description": "APが30回復する"
+	},
+	{
+		"ID": 5,
+		"name": "まどか☆マギカAPチャージミドル",
+		"recovery_amount": 70,
+		"description": "APが70回復する"
+	},
+	{
+		"ID": 6,
+		"name": "まどか☆マギカAPチャージラージ",
+		"recovery_amount": 150,
+		"description": "APが150回復する"
+	}
+]

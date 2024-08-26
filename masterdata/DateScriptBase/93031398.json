@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 93031398,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# se \"SE_0733\"\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n@カシウス\nその答え…\n\n@カシウス\n不正解\n\n@カシウス\n…そろそろ夏も終わり\n\n# face %(unit_a)s \"sad\"\n# voice 230311 \"cassius_ge_0028\"\n@カシウス\n季節は巡るけど、\n御館様との円環は\n変化を得られなかったわ\n\n@カシウス\n季節が終わるように…\nわたしたちの繋がりも\n終わらぬよう願いたいものね\n\n# textflame 0 0\n@\n発する言葉は難解だが、\n彼女が悲しんでいることは\n伝わってくる\n\n# textflame 0 0\n@\n二度と彼女にそんな思いをさせない…\nそう心に固く誓うマスターだった…\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 301422,
+		"script": ";;A 隣にいてくれるだけでいい (大)\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_drive\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# voice 3014 \"ithuriel_0028\"\n# face %(unit_a)s \"usual\"\n@イシューリエル\n車を運転する男子って\n自信家に変身するのでしょうか\n\n# voice 3014 \"ithuriel_1015\"\n# eye %(unit_a)s \"close\"\n@イシューリエル\nそんなこと\nさらっと言ってしまうのですね…\n\n# textflame 0 0\n@\nマスターの運転の腕を疑って\nやいのやいのと騒いでいた\nイシューリエルが急に黙る\n\n# eye %(unit_a)s \"normal\"\n# textflame 1 1\n@イシューリエル\nじゃあ質問させていただきますわ\n\n@イシューリエル\n早朝、寝癖がついたまま\n寝ぼけて半目のわたくしでも…\n\n# face %(unit_a)s \"sad\"\n@イシューリエル\nいてくれるだけで…\nうれしいと思うのですか？\n\n# textflame 0 0\n@\nマスターは頷く\n隣の彼女にわかるように\nなるべく大きく\n\n# textflame 1 1\n@イシューリエル\nでも…でも！\nせっかく一緒にいるなら！\n\n# face %(unit_a)s \"smile\"\n# voice 3014 \"ithuriel_0042\"\n@イシューリエル\nなるべく…\nかわいいわたくしのほうが\nいいですわよね…？\n\n# textflame 0 0\n@\nマスターは少し考えてから\n同じように大きくうなづく\n彼女の日々の努力を知っているから\n\n# textflame 0 0\n@\n車を降りたら、\n今日の彼女の姿に\n目いっぱいの「かわいい」を送ろう\n\n# textflame 0 0\n@\nそう心に誓うマスターだった――\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

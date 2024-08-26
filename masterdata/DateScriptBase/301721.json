@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 301721,
+		"script": ";;起こしてる,大\n;;そんなわけない,中\n;;大切な同胞,小\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_room\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 0 0\n@\n夜も更けた頃、\nヴォータンの部屋に\nお邪魔したマスターは…\n\n# voice 3017 \"wotan_0002\"\n# face %(unit_a)s \"angry\"\n# textflame 1 1\n@ヴォータン\n部屋に入れた\n私が言うのも難だが…\nヘンな気は起こすなよ？\n\n@ヴォータン\n私はキラープリンセスであって、\nお前はマスターとはいえ人間だ\n親密な関係になるのは問題が…\n;;----------------------------------------\n\n# voice 3017 \"wotan_0022\"\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@%(unitName:unit_a)s\nなんだその目は…\nまさかお前、私にヘンな気\n起こしてるのか！？\n\n# select \"起こしてる\" \"select_label_01\" \"そんなわけない\" \"select_label_02\" \"大切な同胞\" \"select_label_03\"\nなんだその目は…\nまさかお前、私にヘンな気\n起こしてるのか！？\n\n# label \"select_label_01\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_02\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_03\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# textflame 1 1\n# waitandnext 0.1\n\n# label \"select_label_end\"\n# waitandnext 1.2\n# fadeout \"black\" 2\n"
+	}
+]

@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 202012,
+		"script": "# script \"lisp\"\n# fadein \"black\" 0.5\n# background %(background)s\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# voice 2020 \"harpe_0028\"\n@ハルパー\nマスターの貧相な感性で\nはたしてどれほど理解できているのか\nはなはだ疑問ですが…\n\n# voice 2020 \"harpe_0031\"\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@ハルパー\n…いいえ、少々言い過ぎました\n\n# face %(unit_a)s \"normal\"\n# textflame 1 1\n@ハルパー\nただ、星の美しさを理解しているなら\n私に言うべきことがあるのでは？\n\n# textflame 0 0\n@\nハルパーは\nどこか拗ねたように言う\n\n# textflame 1 1\n@ハルパー\n私がロマンチストなことは認めます\n星を見るのは大好きですし…\n\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@ハルパー\nプラネタリウムは、ええと…\n…デートの定番でもあるでしょうし…\n\n# textflame 0 0\n@\n暗闇の中でもわかるほど\nハルパーは照れたようにつぶやく\n\n# voice 2020 \"harpe_0001\"\n;; face %(unit_a)s \"close\"\n# textflame 1 1\n@ハルパー\nコホン、ここは男らしく…\n「一緒に夜空の星を見に行こう」\n…というべきではなくて？\n\n# textflame 0 0\n@\nここを出たら\nハルパーと次の約束をしよう\nそう思うマスターであった――\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

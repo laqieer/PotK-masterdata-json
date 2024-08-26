@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 300513,
+		"script": "# script \"lisp\"\n# fadein \"black\" 0.5\n# background %(background)s\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# voice 3005 \"roon_0004\"\n@ルーン\n…ぼちぼち。悪くない\n\n# textflame 0 0\n@\nそう言ってルーンは\n岩の上に腰掛ける\n\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@ルーン\nあたいに渓流なんて\nミスマッチ…\nそうと思わないか？\n\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n@ルーン\nもっとド派手で過激で…\n趣味の悪そうなところが\nあたいらしいだろ？\n\n# textflame 0 0\n@\n珍しく彼女は\n自虐しているのかもしれなかった\nマスターは首を振る\n\n# voice 3005 \"roon_0023\"\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@ルーン\n…じっとしてると\n綺麗だから似合うって？\n\n# voice 3005 \"roon_0007\"\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@ルーン\nフッ…あとで覚えとけよ\nゴ・ミ・ク・ズ♪\n\n# textflame 0 0\n@\nそうは言いつつも\nまんざらでもなさそうに\n水の流れを見つめるルーンだった…\n;;--------------------------------------\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

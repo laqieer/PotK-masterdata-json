@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 102611,
+		"script": ";;消えないといいのにね,小\n;;急いだらくぐれるかな,中\n;;虹の向こうに行こう,大\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background %(background)s\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 0 0\n@\nマスターは\nカラドボルグを誘って\n朝の散歩にやってきた\n\n# textflame 1 1\n@カラドボルグ\n昨日の夜は\nあいにくの雨だったけれど…\n\n# voice 1026 \"caladbolg_0002\"\n# textflame 1 1\n@カラドボルグ\n今朝は本当によく晴れたわ！\n私を誘ってくれた理由は…\nあれ、でしょ？\n;;----------------------------------------\n\n# textflame 1 1\n@\nそう言ってカラドボルグは\n空に大きくかかった\n虹を指差した\n\n# select \"消えないといいのにね\" \"select_label_01\" \"急いだらくぐれるかな\" \"select_label_02\" \"虹の向こうに行こう\" \"select_label_03\"\nそう言ってカラドボルグは\n空に大きくかかった\n虹を指差した\n\n# label \"select_label_01\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_02\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_03\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_end\"\n# waitandnext 0.1\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 3100222,
+		"script": ";;C遠回りしようか\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_drive\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# voice 210023 \"revatein_ge_0003\"\n# face %(unit_a)s \"shy\"\n@レーヴァテイン\n…………うん\n\n@レーヴァテイン\n寄りたいところとかあったら…\nまかせるね\n\n# voice 210023 \"revatein_ge_0002\"\n@レーヴァテイン\nねえ、マスター？\nマスターも、私ともっと\n一緒にいたいって思ったんだよね？\n\n# textflame 0 0\n@\nもちろんだと\nマスターは頷いた\n\n# voice 210023 \"revatein_ge_0004\"\n# textflame 1 1\n@レーヴァテイン\nそっか…同じ気持ちだね\n不思議だわ…\n\n# face %(unit_a)s \"normal\"\n@レーヴァテイン\n誰かと一緒にいるなんて\nめんどうなことばっかりだと\n思ってたのに\n\n@レーヴァテイン\nマスター相手だと…\nなんでも、楽しくなるような\n気がするの\n\n@レーヴァテイン\nきっと今日も、マスター以外に\n誘われていても、\nめんどうだって断ったわ\n\n# voice 210023 \"revatein_ge_0001\"\n@レーヴァテイン\nこの意味…わかるよね？\nマスター…\n\n# textflame 0 0\n@\nレーヴァテインの瞳は\nマスターの心を捉え、\n離さなかった\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

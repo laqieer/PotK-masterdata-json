@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 500822,
+		"script": "# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_room\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n@芭蕉扇\nあなた…？\n今夜は……\nこれ、だから……\n\n# textflame 0 0\n@\n芭蕉扇が胸に抱くものを見て\nマスターの思考が停止する\nいや、それってあの…\n\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n@芭蕉扇\n…新婚夫婦の伝家の宝刀\nイエス／ノー枕よ…！\n\n# textflame 1 1\n# voice 5008 \"bashosen_0004\"\n@芭蕉扇\nこれ以上の会話は不要だわ…\n私の気持ちは…\nもう伝わってるでしょ！\n\n# textflame 0 0\n@\n耳まで真っ赤になった芭蕉扇\nマスターは困り顔で…\n彼女の肩を抱いた\n\n# textflame 0 0\n@\nが…\nとたんに芭蕉扇は\n逃げるように身を引いた\n\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n@芭蕉扇\n～～～！！！\nや、やっぱり無理！\n\n# textflame 1 1\n# face %(unit_a)s \"angry\"\n# voice 5008 \"bashosen_0007\"\n@芭蕉扇\nふ、ふんっ！\n\n# textflame 1 1\n@芭蕉扇\nやってみたかっただけだもん…\nどうせ無理してますよぉ～だ！\n\n# textflame 0 0\n@\n真っ赤な顔を覆い隠し、\nかわいい声をあげて\nその場を立ち去る芭蕉扇だった…\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

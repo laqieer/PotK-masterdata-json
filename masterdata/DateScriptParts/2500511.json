@@ -1,0 +1,26 @@
+[
+	{
+		"ID": 170,
+		"unitID": 2500511,
+		"scriptID": "kaerimichi",
+		"script": "マスター、帰ろうっての？\nまだまだこれからでしょ！"
+	},
+	{
+		"ID": 184,
+		"unitID": 2500511,
+		"scriptID": "kaeru",
+		"script": "あー、ごめん\nそろそろ帰るわ！"
+	},
+	{
+		"ID": 198,
+		"unitID": 2500511,
+		"scriptID": "kaeru_ok",
+		"script": "@%(unitName:unit_a)s\nおっ！いいねえ～！\n何処に連れて行ってくれるんだい？"
+	},
+	{
+		"ID": 212,
+		"unitID": 2500511,
+		"scriptID": "kaeru_ng",
+		"script": "@%(unitName:unit_a)s\nごめんごめん、\nこれからサーフィンするんだ！\nいい波が来てるらしくてさ～"
+	}
+]

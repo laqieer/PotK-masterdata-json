@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 295032498,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# se \"SE_0733\"\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n@ティファレト\n……主様\n\n# textflame 1 1\n@ティファレト\n…その答え\n\n# textflame 1 1\n# voice 550321 \"tiphereth_ca_0026\"\n@ティファレト\n不正解です\n\n# textflame 1 1\n@ティファレト\n……ごめんなさい\n\n# textflame 1 1\n@ティファレト\n夏の陽気に、\n心が浮ついていたようです…\n\n# textflame 1 1\n# voice 550321 \"tiphereth_ca_0031\"\n@ティファレト\n主様を試すような真似をして、\n申し訳ございませんでした\n\n# textflame 0 0\n@\n深々と頭を下げる彼女\n\n# textflame 0 0\n@\nしかし、\nその目は明らかに\n悲しそうで…\n\n# textflame 0 0\n@\nマスターは\n彼女を傷つけてしまったことを、\n激しく後悔するのだった…\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

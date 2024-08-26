@@ -1,0 +1,26 @@
+[
+	{
+		"ID": 226,
+		"unitID": 2200711,
+		"scriptID": "kaerimichi",
+		"script": "マスター、実はとっておきの\n情報を仕入れたんです！\nこの先に面白い場所があるらしく…\n\n@シャルウル\n行ってみませんか…？"
+	},
+	{
+		"ID": 241,
+		"unitID": 2200711,
+		"scriptID": "kaeru",
+		"script": "そろそろ帰りましょうか\nマスター"
+	},
+	{
+		"ID": 256,
+		"unitID": 2200711,
+		"scriptID": "kaeru_ok",
+		"script": "@%(unitName:unit_a)s\nご一緒させていただきます\n私の情報によれば、この先に\nいい場所があるらしく…\n\n@シャルウル\n行ってみましょう"
+	},
+	{
+		"ID": 271,
+		"unitID": 2200711,
+		"scriptID": "kaeru_ng",
+		"script": "@%(unitName:unit_a)s\nそろそろ遅い時間ですし… \n私の情報によるとこの先は危険です \n帰りましょうマスター"
+	}
+]

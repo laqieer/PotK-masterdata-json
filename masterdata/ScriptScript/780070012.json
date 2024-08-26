@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 780070012,
+		"script": ";;ルーシャ中級突入時\n# script \"lisp\"\n# body 503011\n# mask 503011 off\n# pos 503011 3\n# scale 503011 0.8 0\n# textflame 1 1\n# textboxarrow 0 2\n# chara 503011\n# voice 5030 \"lucille_unit_0010\"\n@ルーシャ\n行くよー！"
+	}
+]

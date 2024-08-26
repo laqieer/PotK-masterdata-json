@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 92020198,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# face %(unit_a)s \"sad\"\n# fadein \"black\" 0.5\n# textflame 1 1\n# se \"SE_0733\"\n@ハルパー\nむ…\n\n# voice 2020 \"harpe_0027\"\n@ハルパー\nありえない\n\n@ハルパー\nあ、いえ…なんでもありません\n\n@ハルパー\nマスターが無能なことくらい\n私、わかっていましたし…\n\n# voice 2020 \"harpe_0004\"\n# face %(unit_a)s \"angry\"\n@ハルパー\nちょっと\n試してみたかっただけですから…\n\n# textflame 0 0\n@\n彼女はそう言うと\n珍しくニッコリ笑ってくれた\n\n# textflame 0 0\n@\nデート中のはずなのに…\nこんな痛々しく\n気を遣わせちゃうなんて…\n\n@\n…………\n\n@\n笑顔でずっと居て欲しいから\n彼女のことちゃんと\n知っておかないとな…\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

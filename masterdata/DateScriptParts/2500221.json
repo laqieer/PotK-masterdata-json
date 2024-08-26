@@ -1,0 +1,26 @@
+[
+	{
+		"ID": 409,
+		"unitID": 2500221,
+		"scriptID": "kaerimichi",
+		"script": "うぅん、まだ遊びたい気分…\nマスター！もっとエンジョイしない？"
+	},
+	{
+		"ID": 410,
+		"unitID": 2500221,
+		"scriptID": "kaeru_ok",
+		"script": "@%(unitName:unit_a)s\nマスター、物足りない感じ？\nいいよ、付き合ったげる！"
+	},
+	{
+		"ID": 411,
+		"unitID": 2500221,
+		"scriptID": "kaeru",
+		"script": "マスターは「ヘァピィ」？\nわたしも同じ気持ちだよ！"
+	},
+	{
+		"ID": 412,
+		"unitID": 2500221,
+		"scriptID": "kaeru_ng",
+		"script": "@%(unitName:unit_a)s\n残念だけど今日はここまで！\n焦らされた顔もとってもナ～イス！"
+	}
+]

@@ -1,0 +1,302 @@
+[
+	{
+		"ID": 3751,
+		"unitID": 2301711,
+		"questionID": 9301701,
+		"script": ";;オーディン,1\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 3017 \"wotan_0002\"\n@ヴォータン\nマスター\n少しだけ止まるのだ\n\n# face %(unit_a)s \"normal\"\n@ヴォータン\nそんな警戒しなくてもいい\n\n@ヴォータン\nただ、お前に\nクイズを出そうと思ってな…\n\n@ヴォータン\n私のことを\nどれぐらい知っているのか…\n\n@ヴォータン\n私に関するクイズを出すから、\nお前はそれに答えるだけだ\n\n# voice 3017 \"wotan_0036\"\n@ヴォータン\nそれでは…いくぞ！\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私のキラーズ『ヴォータン』は\n北欧神話に出てくる神の別名だが\nその神の名前はなんていう？\n\n# se \"SE_0734\"\n# select  \"オーディン\" \"select_label_1\" \"グングニル\" \"select_label_2\" \"シグルズ\" \"select_label_3\"\n私のキラーズ『ヴォータン』は\n北欧神話に出てくる神の別名だが\nその神の名前はなんていう？\n"
+	},
+	{
+		"ID": 3752,
+		"unitID": 2301711,
+		"questionID": 9301702,
+		"script": ";;剣,2\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 3017 \"wotan_0002\"\n@ヴォータン\nマスター\n少しだけ止まるのだ\n\n# face %(unit_a)s \"normal\"\n@ヴォータン\nそんな警戒しなくてもいい\n\n@ヴォータン\nただ、お前に\nクイズを出そうと思ってな…\n\n@ヴォータン\n私のことを\nどれぐらい知っているのか…\n\n@ヴォータン\n私に関するクイズを出すから、\nお前はそれに答えるだけだ\n\n# voice 3017 \"wotan_0036\"\n@ヴォータン\nそれでは…いくぞ！\n;;--------------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私のキラーズ『ヴォータン』は\n自らの槍でジークフリートの\n何を砕いたと言われている？\n\n# se \"SE_0734\"\n# select  \"斧\" \"select_label_1\" \"剣\" \"select_label_2\" \"盾\" \"select_label_3\"\n私のキラーズ『ヴォータン』は\n自らの槍でジークフリートの\n何を砕いたと言われている？\n"
+	},
+	{
+		"ID": 3753,
+		"unitID": 2301711,
+		"questionID": 9301703,
+		"script": ";;ニーベルングの指環,3\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 3017 \"wotan_0002\"\n@ヴォータン\nマスター\n少しだけ止まるのだ\n\n# face %(unit_a)s \"normal\"\n@ヴォータン\nそんな警戒しなくてもいい\n\n@ヴォータン\nただ、お前に\nクイズを出そうと思ってな…\n\n@ヴォータン\n私のことを\nどれぐらい知っているのか…\n\n@ヴォータン\n私に関するクイズを出すから、\nお前はそれに答えるだけだ\n\n# voice 3017 \"wotan_0036\"\n@ヴォータン\nそれでは…いくぞ！\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私のキラーズ『ヴォータン』は\nワーグナーの書いた楽劇に\n登場するが、その楽劇のタイトルは？\n\n# se \"SE_0734\"\n# select  \"タンホイザー\" \"select_label_1\" \"パルジファル\" \"select_label_2\" \"ニーベルングの指環\" \"select_label_3\"\n私のキラーズ『ヴォータン』は\nワーグナーの書いた楽劇に\n登場するが、その楽劇のタイトルは？\n"
+	},
+	{
+		"ID": 3754,
+		"unitID": 2301711,
+		"questionID": 9301704,
+		"script": ";;戦争,1\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 3017 \"wotan_0002\"\n@ヴォータン\nマスター\n少しだけ止まるのだ\n\n# face %(unit_a)s \"normal\"\n@ヴォータン\nそんな警戒しなくてもいい\n\n@ヴォータン\nただ、お前に\nクイズを出そうと思ってな…\n\n@ヴォータン\n私のことを\nどれぐらい知っているのか…\n\n@ヴォータン\n私に関するクイズを出すから、\nお前はそれに答えるだけだ\n\n# voice 3017 \"wotan_0036\"\n@ヴォータン\nそれでは…いくぞ！\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私のキラーズ『ヴォータン』は\n北欧神話で○○と死の神と\n言われている？\n\n# se \"SE_0734\"\n# select  \"戦争\" \"select_label_1\" \"真実\" \"select_label_2\" \"知恵\" \"select_label_3\"\n私のキラーズ『ヴォータン』は\n北欧神話で○○と死の神と\n言われている？\n"
+	},
+	{
+		"ID": 3755,
+		"unitID": 2301711,
+		"questionID": 9301705,
+		"script": ";;自らの命,2\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 3017 \"wotan_0002\"\n@ヴォータン\nマスター\n少しだけ止まるのだ\n\n# face %(unit_a)s \"normal\"\n@ヴォータン\nそんな警戒しなくてもいい\n\n@ヴォータン\nただ、お前に\nクイズを出そうと思ってな…\n\n@ヴォータン\n私のことを\nどれぐらい知っているのか…\n\n@ヴォータン\n私に関するクイズを出すから、\nお前はそれに答えるだけだ\n\n# voice 3017 \"wotan_0036\"\n@ヴォータン\nそれでは…いくぞ！\n;;--------------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私のキラーズ『ヴォータン』は\n知識に対し貪欲であったそうで\nなにを代償に差し出すこともあった？\n\n# se \"SE_0734\"\n# select  \"自らの子ども\" \"select_label_1\" \"自らの命\" \"select_label_2\" \"自らの記憶\" \"select_label_3\"\n私のキラーズ『ヴォータン』は\n知識に対し貪欲であったそうで\nなにを代償に差し出すこともあった？\n"
+	},
+	{
+		"ID": 3756,
+		"unitID": 2301711,
+		"questionID": 9301706,
+		"script": ";;片目,3\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 3017 \"wotan_0002\"\n@ヴォータン\nマスター\n少しだけ止まるのだ\n\n# face %(unit_a)s \"normal\"\n@ヴォータン\nそんな警戒しなくてもいい\n\n@ヴォータン\nただ、お前に\nクイズを出そうと思ってな…\n\n@ヴォータン\n私のことを\nどれぐらい知っているのか…\n\n@ヴォータン\n私に関するクイズを出すから、\nお前はそれに答えるだけだ\n\n# voice 3017 \"wotan_0036\"\n@ヴォータン\nそれでは…いくぞ！\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私のキラーズ『ヴォータン』は\n魔術を会得する代償として\nなにを失ったと思う？\n\n# se \"SE_0734\"\n# select  \"家族\" \"select_label_1\" \"地位\" \"select_label_2\" \"片目\" \"select_label_3\"\n私のキラーズ『ヴォータン』は\n魔術を会得する代償として\nなにを失ったと思う？\n"
+	},
+	{
+		"ID": 3757,
+		"unitID": 2301711,
+		"questionID": 9301707,
+		"script": ";;グリームニル,1\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 3017 \"wotan_0002\"\n@ヴォータン\nマスター\n少しだけ止まるのだ\n\n# face %(unit_a)s \"normal\"\n@ヴォータン\nそんな警戒しなくてもいい\n\n@ヴォータン\nただ、お前に\nクイズを出そうと思ってな…\n\n@ヴォータン\n私のことを\nどれぐらい知っているのか…\n\n@ヴォータン\n私に関するクイズを出すから、\nお前はそれに答えるだけだ\n\n# voice 3017 \"wotan_0036\"\n@ヴォータン\nそれでは…いくぞ！\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私のキラーズ『ヴォータン』が\n変装した姿としてハールバルズと\n誰が知られているか？\n\n# se \"SE_0734\"\n# select  \"グリームニル\" \"select_label_1\" \"アグナル\" \"select_label_2\" \"ゲイルロズ\" \"select_label_3\"\n私のキラーズ『ヴォータン』が\n変装した姿としてハールバルズと\n誰が知られているか？\n"
+	},
+	{
+		"ID": 3758,
+		"unitID": 2301711,
+		"questionID": 9301708,
+		"script": ";;馬,2\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 3017 \"wotan_0002\"\n@ヴォータン\nマスター\n少しだけ止まるのだ\n\n# face %(unit_a)s \"normal\"\n@ヴォータン\nそんな警戒しなくてもいい\n\n@ヴォータン\nただ、お前に\nクイズを出そうと思ってな…\n\n@ヴォータン\n私のことを\nどれぐらい知っているのか…\n\n@ヴォータン\n私に関するクイズを出すから、\nお前はそれに答えるだけだ\n\n# voice 3017 \"wotan_0036\"\n@ヴォータン\nそれでは…いくぞ！\n;;--------------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私のキラーズ『ヴォータン』は\n八本足のなにの動物を\n愛していたか？\n\n# se \"SE_0734\"\n# select  \"蛸\" \"select_label_1\" \"馬\" \"select_label_2\" \"龍\" \"select_label_3\"\n私のキラーズ『ヴォータン』は\n八本足のなにの動物を\n愛していたか？\n"
+	},
+	{
+		"ID": 3759,
+		"unitID": 2301711,
+		"questionID": 9301709,
+		"script": ";;ワタリガラス,3\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 3017 \"wotan_0002\"\n@ヴォータン\nマスター\n少しだけ止まるのだ\n\n# face %(unit_a)s \"normal\"\n@ヴォータン\nそんな警戒しなくてもいい\n\n@ヴォータン\nただ、お前に\nクイズを出そうと思ってな…\n\n@ヴォータン\n私のことを\nどれぐらい知っているのか…\n\n@ヴォータン\n私に関するクイズを出すから、\nお前はそれに答えるだけだ\n\n# voice 3017 \"wotan_0036\"\n@ヴォータン\nそれでは…いくぞ！\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私のキラーズ『ヴォータン』は\nなにを世界中に飛ばして\n様々な情報を得ていたか？\n\n# se \"SE_0734\"\n# select  \"綿毛\" \"select_label_1\" \"テレパシー\" \"select_label_2\" \"ワタリガラス\" \"select_label_3\"\n私のキラーズ『ヴォータン』は\nなにを世界中に飛ばして\n様々な情報を得ていたか？\n"
+	},
+	{
+		"ID": 3760,
+		"unitID": 2301711,
+		"questionID": 9301710,
+		"script": ";;ワイン,1\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 3017 \"wotan_0002\"\n@ヴォータン\nマスター\n少しだけ止まるのだ\n\n# face %(unit_a)s \"normal\"\n@ヴォータン\nそんな警戒しなくてもいい\n\n@ヴォータン\nただ、お前に\nクイズを出そうと思ってな…\n\n@ヴォータン\n私のことを\nどれぐらい知っているのか…\n\n@ヴォータン\n私に関するクイズを出すから、\nお前はそれに答えるだけだ\n\n# voice 3017 \"wotan_0036\"\n@ヴォータン\nそれでは…いくぞ！\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私のキラーズ『ヴォータン』が\n好んで飲んでいたとされている\nアルコール飲料はなんだ？\n\n# se \"SE_0734\"\n# select  \"ワイン\" \"select_label_1\" \"ウォッカ\" \"select_label_2\" \"テキーラ\" \"select_label_3\"\n私のキラーズ『ヴォータン』が\n好んで飲んでいたとされている\nアルコール飲料はなんだ？\n"
+	},
+	{
+		"ID": 3761,
+		"unitID": 2301711,
+		"questionID": 9301711,
+		"script": ";;闇,1\n# textflame 1 1\n# voice 3017 \"wotan_0001\"\n@ヴォータン\nマスター\nちょっといいか？\n\n@ヴォータン\n私はお前の配下になった\nつもりはないが…\n\n@ヴォータン\n私を配下に置こうとしている\nお前を試してもいいか？\n\n@ヴォータン\nどれくらい私のことを\n理解してくれているのか…\n\n@ヴォータン\n私のことに関する質問で\nお前の理解力をみせてくれ！\n\n# voice 3017 \"wotan_0036\"\n@ヴォータン\n準備はいいか？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nお前に…\n私の属性が分かるのか？\n\n# se \"SE_0734\"\n# select  \"闇\" \"select_label_1\" \"雷\" \"select_label_2\" \"光\" \"select_label_3\"\nお前に…\n私の属性が分かるのか？\n"
+	},
+	{
+		"ID": 3762,
+		"unitID": 2301711,
+		"questionID": 9301712,
+		"script": ";;165cm,2\n# textflame 1 1\n# voice 3017 \"wotan_0001\"\n@ヴォータン\nマスター\nちょっといいか？\n\n@ヴォータン\n私はお前の配下になった\nつもりはないが…\n\n@ヴォータン\n私を配下に置こうとしている\nお前を試してもいいか？\n\n@ヴォータン\nどれくらい私のことを\n理解してくれているのか…\n\n@ヴォータン\n私のことに関する質問で\nお前の理解力をみせてくれ！\n\n# voice 3017 \"wotan_0036\"\n@ヴォータン\n準備はいいか？\n;;--------------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私の身長くらい\nお前なら知っているだろ？\n\n# se \"SE_0734\"\n# select  \"160cm\" \"select_label_1\" \"165cm\" \"select_label_2\" \"163cm\" \"select_label_3\"\n私の身長くらい\nお前なら知っているだろ？\n"
+	},
+	{
+		"ID": 3763,
+		"unitID": 2301711,
+		"questionID": 9301713,
+		"script": ";;9月27日,3\n# textflame 1 1\n# voice 3017 \"wotan_0001\"\n@ヴォータン\nマスター\nちょっといいか？\n\n@ヴォータン\n私はお前の配下になった\nつもりはないが…\n\n@ヴォータン\n私を配下に置こうとしている\nお前を試してもいいか？\n\n@ヴォータン\nどれくらい私のことを\n理解してくれているのか…\n\n@ヴォータン\n私のことに関する質問で\nお前の理解力をみせてくれ！\n\n# voice 3017 \"wotan_0036\"\n@ヴォータン\n準備はいいか？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私の誕生日など\nさすがに覚えてないよな？\n\n# se \"SE_0734\"\n# select  \"8月12日\" \"select_label_1\" \"7月21日\" \"select_label_2\" \"9月27日\" \"select_label_3\"\n私の誕生日など\nさすがに覚えてないよな？\n"
+	},
+	{
+		"ID": 3764,
+		"unitID": 2301711,
+		"questionID": 9301714,
+		"script": ";;てんびん座,1\n# textflame 1 1\n# voice 3017 \"wotan_0001\"\n@ヴォータン\nマスター\nちょっといいか？\n\n@ヴォータン\n私はお前の配下になった\nつもりはないが…\n\n@ヴォータン\n私を配下に置こうとしている\nお前を試してもいいか？\n\n@ヴォータン\nどれくらい私のことを\n理解してくれているのか…\n\n@ヴォータン\n私のことに関する質問で\nお前の理解力をみせてくれ！\n\n# voice 3017 \"wotan_0036\"\n@ヴォータン\n準備はいいか？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私の星座を答えられるか？\n\n# se \"SE_0734\"\n# select  \"てんびん座\" \"select_label_1\" \"かに座\" \"select_label_2\" \"しし座\" \"select_label_3\"\n私の星座を答えられるか？\n"
+	},
+	{
+		"ID": 3765,
+		"unitID": 2301711,
+		"questionID": 9301715,
+		"script": ";;横柄,2\n# textflame 1 1\n# voice 3017 \"wotan_0001\"\n@ヴォータン\nマスター\nちょっといいか？\n\n@ヴォータン\n私はお前の配下になった\nつもりはないが…\n\n@ヴォータン\n私を配下に置こうとしている\nお前を試してもいいか？\n\n@ヴォータン\nどれくらい私のことを\n理解してくれているのか…\n\n@ヴォータン\n私のことに関する質問で\nお前の理解力をみせてくれ！\n\n# voice 3017 \"wotan_0036\"\n@ヴォータン\n準備はいいか？\n;;--------------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私は周りから見ると\n○○な性格だとよく言われるんだ…\n\n# se \"SE_0734\"\n# select  \"お淑やか\" \"select_label_1\" \"横柄\" \"select_label_2\" \"猟奇的\" \"select_label_3\"\n私は周りから見ると\n○○な性格だとよく言われるんだ…\n"
+	},
+	{
+		"ID": 3766,
+		"unitID": 2301711,
+		"questionID": 9301716,
+		"script": ";;メンタル,3\n# textflame 1 1\n# voice 3017 \"wotan_0001\"\n@ヴォータン\nマスター\nちょっといいか？\n\n@ヴォータン\n私はお前の配下になった\nつもりはないが…\n\n@ヴォータン\n私を配下に置こうとしている\nお前を試してもいいか？\n\n@ヴォータン\nどれくらい私のことを\n理解してくれているのか…\n\n@ヴォータン\n私のことに関する質問で\nお前の理解力をみせてくれ！\n\n# voice 3017 \"wotan_0036\"\n@ヴォータン\n準備はいいか？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nあんまり知っていて欲しくないけど\n私の弱い部分ってどこだ？\n\n# se \"SE_0734\"\n# select  \"耳\" \"select_label_1\" \"わき腹\" \"select_label_2\" \"メンタル\" \"select_label_3\"\nあんまり知っていて欲しくないけど\n私の弱い部分ってどこだ？\n"
+	},
+	{
+		"ID": 3767,
+		"unitID": 2301711,
+		"questionID": 9301717,
+		"script": ";;Ａ型,1\n# textflame 1 1\n# voice 3017 \"wotan_0001\"\n@ヴォータン\nマスター\nちょっといいか？\n\n@ヴォータン\n私はお前の配下になった\nつもりはないが…\n\n@ヴォータン\n私を配下に置こうとしている\nお前を試してもいいか？\n\n@ヴォータン\nどれくらい私のことを\n理解してくれているのか…\n\n@ヴォータン\n私のことに関する質問で\nお前の理解力をみせてくれ！\n\n# voice 3017 \"wotan_0036\"\n@ヴォータン\n準備はいいか？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私の血液型が\n答えられないとでも言うのか？\n\n# se \"SE_0734\"\n# select  \"Ａ型\" \"select_label_1\" \"Ｏ型\" \"select_label_2\" \"ＡＢ型\" \"select_label_3\"\n私の血液型が\n答えられないとでも言うのか？\n"
+	},
+	{
+		"ID": 3768,
+		"unitID": 2301711,
+		"questionID": 9301718,
+		"script": ";;アスガルズ,2\n# textflame 1 1\n# voice 3017 \"wotan_0001\"\n@ヴォータン\nマスター\nちょっといいか？\n\n@ヴォータン\n私はお前の配下になった\nつもりはないが…\n\n@ヴォータン\n私を配下に置こうとしている\nお前を試してもいいか？\n\n@ヴォータン\nどれくらい私のことを\n理解してくれているのか…\n\n@ヴォータン\n私のことに関する質問で\nお前の理解力をみせてくれ！\n\n# voice 3017 \"wotan_0036\"\n@ヴォータン\n準備はいいか？\n;;--------------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私の出身地だぞ？\n知らないとは言わせない…\nさあ、なんだ？\n\n# se \"SE_0734\"\n# select  \"ヘルヘイム\" \"select_label_1\" \"アスガルズ\" \"select_label_2\" \"ミズガルズ\" \"select_label_3\"\n私の出身地だぞ？\n知らないとは言わせない…\nさあ、なんだ？\n"
+	},
+	{
+		"ID": 3769,
+		"unitID": 2301711,
+		"questionID": 9301719,
+		"script": ";;自分より劣るもの,3\n# textflame 1 1\n# voice 3017 \"wotan_0001\"\n@ヴォータン\nマスター\nちょっといいか？\n\n@ヴォータン\n私はお前の配下になった\nつもりはないが…\n\n@ヴォータン\n私を配下に置こうとしている\nお前を試してもいいか？\n\n@ヴォータン\nどれくらい私のことを\n理解してくれているのか…\n\n@ヴォータン\n私のことに関する質問で\nお前の理解力をみせてくれ！\n\n# voice 3017 \"wotan_0036\"\n@ヴォータン\n準備はいいか？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nお前には分からないだろうが\n一応聞いてやる…\n私の好きなものはなんだ？\n\n# se \"SE_0734\"\n# select  \"先端が尖ったもの\" \"select_label_1\" \"とにかく硬いもの\" \"select_label_2\" \"自分より劣るもの\" \"select_label_3\"\nお前には分からないだろうが\n一応聞いてやる…\n私の好きなものはなんだ？\n"
+	},
+	{
+		"ID": 3770,
+		"unitID": 2301711,
+		"questionID": 9301720,
+		"script": ";;変装,1\n# textflame 1 1\n# voice 3017 \"wotan_0001\"\n@ヴォータン\nマスター\nちょっといいか？\n\n@ヴォータン\n私はお前の配下になった\nつもりはないが…\n\n@ヴォータン\n私を配下に置こうとしている\nお前を試してもいいか？\n\n@ヴォータン\nどれくらい私のことを\n理解してくれているのか…\n\n@ヴォータン\n私のことに関する質問で\nお前の理解力をみせてくれ！\n\n# voice 3017 \"wotan_0036\"\n@ヴォータン\n準備はいいか？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私の趣味だが、お前には\n見せたことないかもしれないな…\nなんだと思う？\n\n# se \"SE_0734\"\n# select  \"変装\" \"select_label_1\" \"彫刻\" \"select_label_2\" \"腹話術\" \"select_label_3\"\n私の趣味だが、お前には\n見せたことないかもしれないな…\nなんだと思う？\n"
+	},
+	{
+		"ID": 3771,
+		"unitID": 2301711,
+		"questionID": 9301721,
+		"script": ";;見下している,1\n# textflame 1 1\n# voice 3017 \"wotan_0001\"\n@ヴォータン\nマスターに\n今から私についての\n質問をするぞ！\n\n@ヴォータン\n別にいいだろ？\n\n# textflame 0 0\n@\n彼女の圧に押されて\nとりあえず頷く\n\n# textflame 1 1\n@ヴォータン\nそうか、やりたいか！\n\n# voice 3017 \"wotan_0006\"\n@ヴォータン\nだが、\n間違えたら許さないからな！\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私は自分以外のものを\nどういう風に見ていると思う？\n\n# se \"SE_0734\"\n# select  \"見下している\" \"select_label_1\" \"尊敬している\" \"select_label_2\" \"無関心\" \"select_label_3\"\n私は自分以外のものを\nどういう風に見ていると思う？\n"
+	},
+	{
+		"ID": 3772,
+		"unitID": 2301711,
+		"questionID": 9301722,
+		"script": ";;砕く,2\n# textflame 1 1\n# voice 3017 \"wotan_0001\"\n@ヴォータン\nマスターに\n今から私についての\n質問をするぞ！\n\n@ヴォータン\n別にいいだろ？\n\n# textflame 0 0\n@\n彼女の圧に押されて\nとりあえず頷く\n\n# textflame 1 1\n@ヴォータン\nそうか、やりたいか！\n\n# voice 3017 \"wotan_0006\"\n@ヴォータン\nだが、\n間違えたら許さないからな！\n;;--------------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私がスキル発動時に言う\n「すべてを○○神槍の力よ！」\n○○にはなにが入る？\n\n# se \"SE_0734\"\n# select  \"貫く\" \"select_label_1\" \"砕く\" \"select_label_2\" \"滅ぼす\" \"select_label_3\"\n私がスキル発動時に言う\n「すべてを○○神槍の力よ！」\n○○にはなにが入る？\n"
+	},
+	{
+		"ID": 3773,
+		"unitID": 2301711,
+		"questionID": 9301723,
+		"script": ";;女扱い,3\n# textflame 1 1\n# voice 3017 \"wotan_0001\"\n@ヴォータン\nマスターに\n今から私についての\n質問をするぞ！\n\n@ヴォータン\n別にいいだろ？\n\n# textflame 0 0\n@\n彼女の圧に押されて\nとりあえず頷く\n\n# textflame 1 1\n@ヴォータン\nそうか、やりたいか！\n\n# voice 3017 \"wotan_0006\"\n@ヴォータン\nだが、\n間違えたら許さないからな！\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私はあれが嫌いだ…\nまさか忘れたとは言わせんぞ\n\n# se \"SE_0734\"\n# select  \"にらめっこ\" \"select_label_1\" \"真剣勝負\" \"select_label_2\" \"女扱い\" \"select_label_3\"\n私はあれが嫌いだ…\nまさか忘れたとは言わせんぞ\n"
+	},
+	{
+		"ID": 3774,
+		"unitID": 2301711,
+		"questionID": 9301724,
+		"script": ";;槍神,1\n# textflame 1 1\n# voice 3017 \"wotan_0001\"\n@ヴォータン\nマスターに\n今から私についての\n質問をするぞ！\n\n@ヴォータン\n別にいいだろ？\n\n# textflame 0 0\n@\n彼女の圧に押されて\nとりあえず頷く\n\n# textflame 1 1\n@ヴォータン\nそうか、やりたいか！\n\n# voice 3017 \"wotan_0006\"\n@ヴォータン\nだが、\n間違えたら許さないからな！\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私の☆６のジョブとか\nお前が覚えているわけないか…\n\n# se \"SE_0734\"\n# select  \"槍神\" \"select_label_1\" \"槍将\" \"select_label_2\" \"槍帝\" \"select_label_3\"\n私の☆６のジョブとか\nお前が覚えているわけないか…\n"
+	},
+	{
+		"ID": 3775,
+		"unitID": 2301711,
+		"questionID": 9301725,
+		"script": ";;ガ・ボー,2\n# textflame 1 1\n# voice 3017 \"wotan_0001\"\n@ヴォータン\nマスターに\n今から私についての\n質問をするぞ！\n\n@ヴォータン\n別にいいだろ？\n\n# textflame 0 0\n@\n彼女の圧に押されて\nとりあえず頷く\n\n# textflame 1 1\n@ヴォータン\nそうか、やりたいか！\n\n# voice 3017 \"wotan_0006\"\n@ヴォータン\nだが、\n間違えたら許さないからな！\n;;--------------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私と同じ闇属性で槍使いの子は\nこの中の誰かな？\n\n# se \"SE_0734\"\n# select  \"イシューリエル\" \"select_label_1\" \"ガ・ボー\" \"select_label_2\" \"方天画戟\" \"select_label_3\"\n私と同じ闇属性で槍使いの子は\nこの中の誰かな？\n"
+	},
+	{
+		"ID": 3776,
+		"unitID": 2301711,
+		"questionID": 9301726,
+		"script": ";;骸骨,3\n# textflame 1 1\n# voice 3017 \"wotan_0001\"\n@ヴォータン\nマスターに\n今から私についての\n質問をするぞ！\n\n@ヴォータン\n別にいいだろ？\n\n# textflame 0 0\n@\n彼女の圧に押されて\nとりあえず頷く\n\n# textflame 1 1\n@ヴォータン\nそうか、やりたいか！\n\n# voice 3017 \"wotan_0006\"\n@ヴォータン\nだが、\n間違えたら許さないからな！\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私が手に持っている槍には\nどんな装飾がしてあった？\n\n# se \"SE_0734\"\n# select  \"リボン\" \"select_label_1\" \"鎖\" \"select_label_2\" \"骸骨\" \"select_label_3\"\n私が手に持っている槍には\nどんな装飾がしてあった？\n"
+	},
+	{
+		"ID": 3777,
+		"unitID": 2301711,
+		"questionID": 9301727,
+		"script": ";;,1\n# textflame 1 1\n# voice 3017 \"wotan_0001\"\n@ヴォータン\nマスターに\n今から私についての\n質問をするぞ！\n\n@ヴォータン\n別にいいだろ？\n\n# textflame 0 0\n@\n彼女の圧に押されて\nとりあえず頷く\n\n# textflame 1 1\n@ヴォータン\nそうか、やりたいか！\n\n# voice 3017 \"wotan_0006\"\n@ヴォータン\nだが、\n間違えたら許さないからな！\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nマスターの配下というのが\n気に入らなかった私は\nお前のことをなんと言った？\n\n# se \"SE_0734\"\n# select  \"同胞\" \"select_label_1\" \"大馬鹿者\" \"select_label_2\" \"下僕\" \"select_label_3\"\nマスターの配下というのが\n気に入らなかった私は\nお前のことをなんと言った？\n"
+	},
+	{
+		"ID": 3778,
+		"unitID": 2301711,
+		"questionID": 9301728,
+		"script": ";;槍神の天眼,2\n# textflame 1 1\n# voice 3017 \"wotan_0001\"\n@ヴォータン\nマスターに\n今から私についての\n質問をするぞ！\n\n@ヴォータン\n別にいいだろ？\n\n# textflame 0 0\n@\n彼女の圧に押されて\nとりあえず頷く\n\n# textflame 1 1\n@ヴォータン\nそうか、やりたいか！\n\n# voice 3017 \"wotan_0006\"\n@ヴォータン\nだが、\n間違えたら許さないからな！\n;;--------------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私のリーダースキルの名称\nちゃんと把握しているのか？\n\n# se \"SE_0734\"\n# select  \"槍神の憤怒\" \"select_label_1\" \"槍神の天眼\" \"select_label_2\" \"槍神の聖域\" \"select_label_3\"\n私のリーダースキルの名称\nちゃんと把握しているのか？\n"
+	},
+	{
+		"ID": 3779,
+		"unitID": 2301711,
+		"questionID": 9301729,
+		"script": ";;グランドキング,3\n# textflame 1 1\n# voice 3017 \"wotan_0001\"\n@ヴォータン\nマスターに\n今から私についての\n質問をするぞ！\n\n@ヴォータン\n別にいいだろ？\n\n# textflame 0 0\n@\n彼女の圧に押されて\nとりあえず頷く\n\n# textflame 1 1\n@ヴォータン\nそうか、やりたいか！\n\n# voice 3017 \"wotan_0006\"\n@ヴォータン\nだが、\n間違えたら許さないからな！\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私がキャラクタークエストEP3で\n取得したスキル名を\nマスターは覚えているか？\n\n# se \"SE_0734\"\n# select  \"グランドスピア\" \"select_label_1\" \"グランドナイト\" \"select_label_2\" \"グランドキング\" \"select_label_3\"\n私がキャラクタークエストEP3で\n取得したスキル名を\nマスターは覚えているか？\n"
+	},
+	{
+		"ID": 3780,
+		"unitID": 2301711,
+		"questionID": 9301730,
+		"script": ";;キングヘッジ,1\n# textflame 1 1\n# voice 3017 \"wotan_0001\"\n@ヴォータン\nマスターに\n今から私についての\n質問をするぞ！\n\n@ヴォータン\n別にいいだろ？\n\n# textflame 0 0\n@\n彼女の圧に押されて\nとりあえず頷く\n\n# textflame 1 1\n@ヴォータン\nそうか、やりたいか！\n\n# voice 3017 \"wotan_0006\"\n@ヴォータン\nだが、\n間違えたら許さないからな！\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私がキャラクタークエストEP2で\n取得したスキル名を\nマスターは覚えているか？\n\n# se \"SE_0734\"\n# select  \"キングヘッジ\" \"select_label_1\" \"ゴッドヘッジ\" \"select_label_2\" \"カイザーヘッジ\" \"select_label_3\"\n私がキャラクタークエストEP2で\n取得したスキル名を\nマスターは覚えているか？\n"
+	},
+	{
+		"ID": 3781,
+		"unitID": 2301711,
+		"questionID": 9301731,
+		"script": ";;グングニル,1\n# textflame 1 1\n# face %(unit_a)s \"angry\"\n# voice 3017 \"wotan_0002\"\n@ヴォータン\nおい、マスター\n\n# face %(unit_a)s \"normal\"\n@ヴォータン\nちょっとだけ\n私に付き合ってくれ\n\n@ヴォータン\nお前に答えてもらいたい\nことがあるんだ…\n\n@ヴォータン\n内容は私に関するものだ\n\n@ヴォータン\nまあ、お前が嫌だと言っても\n無理やりにでも答えさせるが…\n\n# voice 3017 \"wotan_0020\"\n@ヴォータン\nそうか、やりたいか…\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私はキラーズの記憶から\n持ち主も、武器同士も同じの\n親友がいる。それは誰だ？\n\n# se \"SE_0734\"\n# select  \"グングニル\" \"select_label_1\" \"トリシューラ\" \"select_label_2\" \"イシューリエル\" \"select_label_3\"\n私はキラーズの記憶から\n持ち主も、武器同士も同じの\n親友がいる。それは誰だ？\n"
+	},
+	{
+		"ID": 3782,
+		"unitID": 2301711,
+		"questionID": 9301732,
+		"script": ";;オティヌス,2\n# textflame 1 1\n# face %(unit_a)s \"angry\"\n# voice 3017 \"wotan_0002\"\n@ヴォータン\nおい、マスター\n\n# face %(unit_a)s \"normal\"\n@ヴォータン\nちょっとだけ\n私に付き合ってくれ\n\n@ヴォータン\nお前に答えてもらいたい\nことがあるんだ…\n\n@ヴォータン\n内容は私に関するものだ\n\n@ヴォータン\nまあ、お前が嫌だと言っても\n無理やりにでも答えさせるが…\n\n# voice 3017 \"wotan_0020\"\n@ヴォータン\nそうか、やりたいか…\n;;--------------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私の親友、覚えているか？\nヒントはなし、だ\n\n# se \"SE_0734\"\n# select  \"アルテミス\" \"select_label_1\" \"オティヌス\" \"select_label_2\" \"シェキナー\" \"select_label_3\"\n私の親友、覚えているか？\nヒントはなし、だ\n"
+	},
+	{
+		"ID": 3783,
+		"unitID": 2301711,
+		"questionID": 9301733,
+		"script": ";;カンバンテイン,3\n# textflame 1 1\n# face %(unit_a)s \"angry\"\n# voice 3017 \"wotan_0002\"\n@ヴォータン\nおい、マスター\n\n# face %(unit_a)s \"normal\"\n@ヴォータン\nちょっとだけ\n私に付き合ってくれ\n\n@ヴォータン\nお前に答えてもらいたい\nことがあるんだ…\n\n@ヴォータン\n内容は私に関するものだ\n\n@ヴォータン\nまあ、お前が嫌だと言っても\n無理やりにでも答えさせるが…\n\n# voice 3017 \"wotan_0020\"\n@ヴォータン\nそうか、やりたいか…\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私はキラーズの記憶から\n持ち主が同じだと言われている\nあの子と仲が良いのだが？\n\n# se \"SE_0734\"\n# select  \"アスクレピオス\" \"select_label_1\" \"カドケウス\" \"select_label_2\" \"カンバンテイン\" \"select_label_3\"\n私はキラーズの記憶から\n持ち主が同じだと言われている\nあの子と仲が良いのだが？\n"
+	},
+	{
+		"ID": 3784,
+		"unitID": 2301711,
+		"questionID": 9301734,
+		"script": ";;グラム,1\n# textflame 1 1\n# face %(unit_a)s \"angry\"\n# voice 3017 \"wotan_0002\"\n@ヴォータン\nおい、マスター\n\n# face %(unit_a)s \"normal\"\n@ヴォータン\nちょっとだけ\n私に付き合ってくれ\n\n@ヴォータン\nお前に答えてもらいたい\nことがあるんだ…\n\n@ヴォータン\n内容は私に関するものだ\n\n@ヴォータン\nまあ、お前が嫌だと言っても\n無理やりにでも答えさせるが…\n\n# voice 3017 \"wotan_0020\"\n@ヴォータン\nそうか、やりたいか…\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私がキラーズの記憶から\n因縁のあるキル姫は誰だと思う？\n\n# se \"SE_0734\"\n# select  \"グラム\" \"select_label_1\" \"アロンダイト\" \"select_label_2\" \"アダマス\" \"select_label_3\"\n私がキラーズの記憶から\n因縁のあるキル姫は誰だと思う？\n"
+	},
+	{
+		"ID": 3785,
+		"unitID": 2301711,
+		"questionID": 9301735,
+		"script": ";;バルムンク,2\n# textflame 1 1\n# face %(unit_a)s \"angry\"\n# voice 3017 \"wotan_0002\"\n@ヴォータン\nおい、マスター\n\n# face %(unit_a)s \"normal\"\n@ヴォータン\nちょっとだけ\n私に付き合ってくれ\n\n@ヴォータン\nお前に答えてもらいたい\nことがあるんだ…\n\n@ヴォータン\n内容は私に関するものだ\n\n@ヴォータン\nまあ、お前が嫌だと言っても\n無理やりにでも答えさせるが…\n\n# voice 3017 \"wotan_0020\"\n@ヴォータン\nそうか、やりたいか…\n;;--------------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私がキラーズの記憶から\n因縁のあるキル姫は誰だと思う？\n\n# se \"SE_0734\"\n# select  \"クラウ・ソラス\" \"select_label_1\" \"バルムンク\" \"select_label_2\" \"アスカロン\" \"select_label_3\"\n私がキラーズの記憶から\n因縁のあるキル姫は誰だと思う？\n"
+	},
+	{
+		"ID": 3786,
+		"unitID": 2301711,
+		"questionID": 9301736,
+		"script": ";;金,3\n# textflame 1 1\n# face %(unit_a)s \"angry\"\n# voice 3017 \"wotan_0002\"\n@ヴォータン\nおい、マスター\n\n# face %(unit_a)s \"normal\"\n@ヴォータン\nちょっとだけ\n私に付き合ってくれ\n\n@ヴォータン\nお前に答えてもらいたい\nことがあるんだ…\n\n@ヴォータン\n内容は私に関するものだ\n\n@ヴォータン\nまあ、お前が嫌だと言っても\n無理やりにでも答えさせるが…\n\n# voice 3017 \"wotan_0020\"\n@ヴォータン\nそうか、やりたいか…\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私の髪色を覚えてるか？\nこんな簡単な問題を\nまさか間違えるわけないよな？\n\n# se \"SE_0734\"\n# select  \"銀\" \"select_label_1\" \"黒\" \"select_label_2\" \"赤\" \"select_label_3\"\n私の髪色を覚えてるか？\nこんな簡単な問題を\nまさか間違えるわけないよな？\n"
+	},
+	{
+		"ID": 3787,
+		"unitID": 2301711,
+		"questionID": 9301737,
+		"script": ";;頭蓋骨,1\n# textflame 1 1\n# face %(unit_a)s \"angry\"\n# voice 3017 \"wotan_0002\"\n@ヴォータン\nおい、マスター\n\n# face %(unit_a)s \"normal\"\n@ヴォータン\nちょっとだけ\n私に付き合ってくれ\n\n@ヴォータン\nお前に答えてもらいたい\nことがあるんだ…\n\n@ヴォータン\n内容は私に関するものだ\n\n@ヴォータン\nまあ、お前が嫌だと言っても\n無理やりにでも答えさせるが…\n\n# voice 3017 \"wotan_0020\"\n@ヴォータン\nそうか、やりたいか…\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私が腰にぶら下げている物\nなんだったか覚えているか？\n\n# se \"SE_0734\"\n# select  \"頭蓋骨\" \"select_label_1\" \"ひょうたん\" \"select_label_2\" \"十字架\" \"select_label_3\"\n私が腰にぶら下げている物\nなんだったか覚えているか？\n"
+	},
+	{
+		"ID": 3788,
+		"unitID": 2301711,
+		"questionID": 9301738,
+		"script": ";;壁,2\n# textflame 1 1\n# face %(unit_a)s \"angry\"\n# voice 3017 \"wotan_0002\"\n@ヴォータン\nおい、マスター\n\n# face %(unit_a)s \"normal\"\n@ヴォータン\nちょっとだけ\n私に付き合ってくれ\n\n@ヴォータン\nお前に答えてもらいたい\nことがあるんだ…\n\n@ヴォータン\n内容は私に関するものだ\n\n@ヴォータン\nまあ、お前が嫌だと言っても\n無理やりにでも答えさせるが…\n\n# voice 3017 \"wotan_0020\"\n@ヴォータン\nそうか、やりたいか…\n;;--------------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私の出身地であるアスガルズは\nアース神族の王国だが\nその周りはなにに囲まれていた？\n\n# se \"SE_0734\"\n# select  \"山\" \"select_label_1\" \"壁\" \"select_label_2\" \"海\" \"select_label_3\"\n私の出身地であるアスガルズは\nアース神族の王国だが\nその周りはなにに囲まれていた？\n"
+	},
+	{
+		"ID": 3789,
+		"unitID": 2301711,
+		"questionID": 9301739,
+		"script": ";;レーヴァテイン,3\n# textflame 1 1\n# face %(unit_a)s \"angry\"\n# voice 3017 \"wotan_0002\"\n@ヴォータン\nおい、マスター\n\n# face %(unit_a)s \"normal\"\n@ヴォータン\nちょっとだけ\n私に付き合ってくれ\n\n@ヴォータン\nお前に答えてもらいたい\nことがあるんだ…\n\n@ヴォータン\n内容は私に関するものだ\n\n@ヴォータン\nまあ、お前が嫌だと言っても\n無理やりにでも答えさせるが…\n\n# voice 3017 \"wotan_0020\"\n@ヴォータン\nそうか、やりたいか…\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私の誕生月と同じなのは\nこの中の誰だか分かるか？\n\n# se \"SE_0734\"\n# select  \"エロース\" \"select_label_1\" \"テュルソス\" \"select_label_2\" \"レーヴァテイン\" \"select_label_3\"\n私の誕生月と同じなのは\nこの中の誰だか分かるか？\n"
+	},
+	{
+		"ID": 3790,
+		"unitID": 2301711,
+		"questionID": 9301740,
+		"script": ";;ムラマサ,1\n# textflame 1 1\n# face %(unit_a)s \"angry\"\n# voice 3017 \"wotan_0002\"\n@ヴォータン\nおい、マスター\n\n# face %(unit_a)s \"normal\"\n@ヴォータン\nちょっとだけ\n私に付き合ってくれ\n\n@ヴォータン\nお前に答えてもらいたい\nことがあるんだ…\n\n@ヴォータン\n内容は私に関するものだ\n\n@ヴォータン\nまあ、お前が嫌だと言っても\n無理やりにでも答えさせるが…\n\n# voice 3017 \"wotan_0020\"\n@ヴォータン\nそうか、やりたいか…\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私の血液型と同じなのは\nこの中の誰だか分かるか？\n少し、難しいかもしれないな\n\n# se \"SE_0734\"\n# select  \"ムラマサ\" \"select_label_1\" \"ゲイボルグ\" \"select_label_2\" \"カラドボルグ\" \"select_label_3\"\n私の血液型と同じなのは\nこの中の誰だか分かるか？\n少し、難しいかもしれないな\n"
+	},
+	{
+		"ID": 3791,
+		"unitID": 2301711,
+		"questionID": 9301741,
+		"script": "\n;;私,1\n# se \"SE_0734\"\n# select \"私\" \"select_label_1\" \"ワタシ\" \"select_label_2\" \"わたくし\" \"select_label_3\"\nヴォータンの一人称は\n次のうちどれ？\n"
+	},
+	{
+		"ID": 3792,
+		"unitID": 2301711,
+		"questionID": 9301742,
+		"script": "\n;;お前,2\n# se \"SE_0734\"\n# select \"主君\" \"select_label_1\" \"お前\" \"select_label_2\" \"あなた\" \"select_label_3\"\nヴォータンはアンタのこと、\nなんて呼んでる？\n"
+	},
+	{
+		"ID": 3793,
+		"unitID": 2301711,
+		"questionID": 9301743,
+		"script": "\n;;82,2\n# se \"SE_0734\"\n# select \"84\" \"select_label_1\" \"82\" \"select_label_2\" \"90\" \"select_label_3\"\nヴォータンの\nバストサイズがどのくらいか\nアンタ…知ってるの？\n"
+	},
+	{
+		"ID": 3794,
+		"unitID": 2301711,
+		"questionID": 9301744,
+		"script": "\n;;58,3\n# se \"SE_0734\"\n# select \"55\" \"select_label_1\" \"61\" \"select_label_2\" \"58\" \"select_label_3\"\nヴォータンの\nウエストサイズがどのくらいか\nアンタ…知ってるの？\n"
+	},
+	{
+		"ID": 3795,
+		"unitID": 2301711,
+		"questionID": 9301745,
+		"script": "\n;;85,3\n# se \"SE_0734\"\n# select \"84\" \"select_label_1\" \"90\" \"select_label_2\" \"85\" \"select_label_3\"\nヴォータンの\nヒップサイズがどのくらいか\nアンタ…知ってるの？\n"
+	},
+	{
+		"ID": 3796,
+		"unitID": 2301711,
+		"questionID": 9301746,
+		"script": "\n;;49,2\n# se \"SE_0734\"\n# select \"46\" \"select_label_1\" \"49\" \"select_label_2\" \"52\" \"select_label_3\"\nヴォータンの体重は\n次のうちどれ？\n"
+	},
+	{
+		"ID": 3797,
+		"unitID": 2301711,
+		"questionID": 9301747,
+		"script": "\n;;225,1\n# se \"SE_0734\"\n# select \"225\" \"select_label_1\" \"223\" \"select_label_2\" \"241\" \"select_label_3\"\nヴォータンの\nバスト＋ウエスト＋ヒップは\nいくつかわかる？\n"
+	},
+	{
+		"ID": 3798,
+		"unitID": 2301711,
+		"questionID": 9301748,
+		"script": "\n;;白,1\n# se \"SE_0734\"\n# select \"白\" \"select_label_1\" \"赤\" \"select_label_2\" \"緑\" \"select_label_3\"\nヴォータンの水着の色は\n次のうちどれ？\n"
+	},
+	{
+		"ID": 3799,
+		"unitID": 2301711,
+		"questionID": 9301749,
+		"script": "\n;;61位,2\n# se \"SE_0734\"\n# select \"66位\" \"select_label_1\" \"61位\" \"select_label_2\" \"68位\" \"select_label_3\"\nヴォータンは\n第２回人気投票で\n何位だったでしょう？\n"
+	},
+	{
+		"ID": 3800,
+		"unitID": 2301711,
+		"questionID": 9301750,
+		"script": "\n;;大久保瑠美 ,1\n# se \"SE_0734\"\n# select \"大久保瑠美\" \"select_label_1\" \"加藤英美里\" \"select_label_2\" \"浅川悠\" \"select_label_3\"\nヴォータンの声優は誰？\n"
+	}
+]

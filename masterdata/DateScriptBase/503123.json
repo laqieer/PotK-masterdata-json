@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 503123,
+		"script": ";;\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_shipboard\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# voice 250311 \"solomon_t_0005\"\n# face %(unit_a)s \"usual\"\n@ソロモン\nふふっ…ええ、\nもちろん付き合うわ、\nマスター\n\n@ソロモン\nそうだ…次の勝負は\n私の戦略を貴方に教えながら、\nなんてどうかな？\n\n# voice 250311 \"solomon_t_0028\"\n@ソロモン\nハンデ、というわけではないわ\nただ…\n\n@ソロモン\n私がいつも\n何を考えて戦っているか、\n貴方に知ってほしくて\n\n@ソロモン\nそうすれば、\n万が一私が\n間違った解を導いても\n\n@ソロモン\nあなたが私を\n正しい解法へと\n引き戻してくれる…\n\n# voice 250311 \"solomon_t_0004\"\n# face %(unit_a)s \"happy\"\n@ソロモン\n…ふふっ\n私の心を覗かせるみたいで\n照れてしまうけど\n\n@ソロモン\nでもマスターには、\nもっと私のことを\n理解してほしいから…ね\n\n# voice 250311 \"solomon_t_0003\"\n@ソロモン\nさあ、最後の一手をどうぞ\n\n@ソロモン\n次こそ私に勝ってみせてね？\n期待してるわ…ふふっ\n\n# textflame 0 0\n@\nその後もソロモンに負けつづけ\n格の違いを思い知らされる\nマスターだったが…\n\n@\n心の距離は、以前より\nもっと縮まった気がした\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

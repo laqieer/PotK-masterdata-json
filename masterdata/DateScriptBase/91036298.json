@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 91036298,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# se \"SE_0733\"\n# face %(unit_a)s \"sad\"\n@ラグナロク\nそう…\nそれがマスターの答えか…\n\n# textflame 0 0\n@\nラグナロクの冷めた声色に\n自分が間違えてしまったことを知った\n\n# textflame 1 1\n# voice 1036 \"ragnarok_0003\"\n@ラグナロク\nマスターが気に病むことはないよ\nきっとこれが正しいやり方だと\n私も思っているから\n\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n@ラグナロク\nいつかは失われる絆なら\n最初から深く関わらないほうが\n失ったときの痛みは少なくなる…\n\n# textflame 0 0\n@\nラグナロクは悲しげに眉を落とすと\nこちらに背を向けて\n帰り道を歩き始めていく\n\n# textflame 0 0\n@\nここぞという時に\n彼女に応えられなかった自分が\nどうしようもなく情けなく思えた…\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

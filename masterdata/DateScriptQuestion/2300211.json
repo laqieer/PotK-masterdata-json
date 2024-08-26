@@ -1,0 +1,302 @@
+[
+	{
+		"ID": 2951,
+		"unitID": 2300211,
+		"questionID": 9300201,
+		"script": ";;ポセイドン,1\n# textflame 1 1\n# voice 3002 \"toraidento_0001\"\n@トライデント\nおぉっと、マスター？\nちょっといい？\n\n@トライデント\nんっとね、\nべつに深い意味はないんだけど…\n\n@トライデント\nちょっと、\nマスターに質問をしたいなーって\n思うんだけど…\n\n@トライデント\n時間は大丈夫？\n\n# voice 3002 \"toraidento_unit_1005\"\n# face %(unit_a)s \"smile\"\n@トライデント\nうん、大丈夫だよね！\nそういうわけでぇ…\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nこのトライデントの…\nあ、キラーズの方のね？\n元の持ち主は誰だったでしょ～？\n\n# se \"SE_0734\"\n# select  \"ポセイドン\" \"select_label_1\" \"アテナ\" \"select_label_2\" \"クロノス\" \"select_label_3\"\nこのトライデントの…\nあ、キラーズの方のね？\n元の持ち主は誰だったでしょ～？\n"
+	},
+	{
+		"ID": 2952,
+		"unitID": 2300211,
+		"questionID": 9300202,
+		"script": ";;ギリシャ神話,2\n# textflame 1 1\n# voice 3002 \"toraidento_0001\"\n@トライデント\nおぉっと、マスター？\nちょっといい？\n\n@トライデント\nんっとね、\nべつに深い意味はないんだけど…\n\n@トライデント\nちょっと、\nマスターに質問をしたいなーって\n思うんだけど…\n\n@トライデント\n時間は大丈夫？\n\n# voice 3002 \"toraidento_unit_1005\"\n# face %(unit_a)s \"smile\"\n@トライデント\nうん、大丈夫だよね！\nそういうわけでぇ…\n;;--------------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私のキラーズ『トライデント』は\nなんの神話に出てたかって…\nキミは知ってるかな！？\n\n# se \"SE_0734\"\n# select  \"北欧神話\" \"select_label_1\" \"ギリシャ神話\" \"select_label_2\" \"インド神話\" \"select_label_3\"\n私のキラーズ『トライデント』は\nなんの神話に出てたかって…\nキミは知ってるかな！？\n"
+	},
+	{
+		"ID": 2953,
+		"unitID": 2300211,
+		"questionID": 9300203,
+		"script": ";;巨人サイクロプス,3\n# textflame 1 1\n# voice 3002 \"toraidento_0001\"\n@トライデント\nおぉっと、マスター？\nちょっといい？\n\n@トライデント\nんっとね、\nべつに深い意味はないんだけど…\n\n@トライデント\nちょっと、\nマスターに質問をしたいなーって\n思うんだけど…\n\n@トライデント\n時間は大丈夫？\n\n# voice 3002 \"toraidento_unit_1005\"\n# face %(unit_a)s \"smile\"\n@トライデント\nうん、大丈夫だよね！\nそういうわけでぇ…\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私のキラーズ『トライデント』は\nいったい誰が創ったものかな～？\n\n# se \"SE_0734\"\n# select  \"ヴェルンド\" \"select_label_1\" \"ヘパイストス\" \"select_label_2\" \"巨人サイクロプス\" \"select_label_3\"\n私のキラーズ『トライデント』は\nいったい誰が創ったものかな～？\n"
+	},
+	{
+		"ID": 2954,
+		"unitID": 2300211,
+		"questionID": 9300204,
+		"script": ";;ゼウスたち,1\n# textflame 1 1\n# voice 3002 \"toraidento_0001\"\n@トライデント\nおぉっと、マスター？\nちょっといい？\n\n@トライデント\nんっとね、\nべつに深い意味はないんだけど…\n\n@トライデント\nちょっと、\nマスターに質問をしたいなーって\n思うんだけど…\n\n@トライデント\n時間は大丈夫？\n\n# voice 3002 \"toraidento_unit_1005\"\n# face %(unit_a)s \"smile\"\n@トライデント\nうん、大丈夫だよね！\nそういうわけでぇ…\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私のキラーズ『トライデント』の\n作られた場所って\n誰が解放した場所だと思う？\n\n# se \"SE_0734\"\n# select  \"ゼウスたち\" \"select_label_1\" \"天使たち\" \"select_label_2\" \"悪魔たち\" \"select_label_3\"\n私のキラーズ『トライデント』の\n作られた場所って\n誰が解放した場所だと思う？\n"
+	},
+	{
+		"ID": 2955,
+		"unitID": 2300211,
+		"questionID": 9300205,
+		"script": ";;奇跡を起こす際,2\n# textflame 1 1\n# voice 3002 \"toraidento_0001\"\n@トライデント\nおぉっと、マスター？\nちょっといい？\n\n@トライデント\nんっとね、\nべつに深い意味はないんだけど…\n\n@トライデント\nちょっと、\nマスターに質問をしたいなーって\n思うんだけど…\n\n@トライデント\n時間は大丈夫？\n\n# voice 3002 \"toraidento_unit_1005\"\n# face %(unit_a)s \"smile\"\n@トライデント\nうん、大丈夫だよね！\nそういうわけでぇ…\n;;--------------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私のキラーズ『トライデント』は\n戦場以外でも活躍したんだけど\nそれってどういう時だったと思う？\n\n# se \"SE_0734\"\n# select  \"宴会の際\" \"select_label_1\" \"奇跡を起こす際\" \"select_label_2\" \"お祈りをする際\" \"select_label_3\"\n私のキラーズ『トライデント』は\n戦場以外でも活躍したんだけど\nそれってどういう時だったと思う？\n"
+	},
+	{
+		"ID": 2956,
+		"unitID": 2300211,
+		"questionID": 9300206,
+		"script": ";;天の覇権を競い争った時,3\n# textflame 1 1\n# voice 3002 \"toraidento_0001\"\n@トライデント\nおぉっと、マスター？\nちょっといい？\n\n@トライデント\nんっとね、\nべつに深い意味はないんだけど…\n\n@トライデント\nちょっと、\nマスターに質問をしたいなーって\n思うんだけど…\n\n@トライデント\n時間は大丈夫？\n\n# voice 3002 \"toraidento_unit_1005\"\n# face %(unit_a)s \"smile\"\n@トライデント\nうん、大丈夫だよね！\nそういうわけでぇ…\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私のキラーズ『トライデント』は\nどういう時に作られたかって\nキミは知ってるかな？\n\n# se \"SE_0734\"\n# select  \"敵の神を滅ぼそうとした時\" \"select_label_1\" \"地上を滅ぼそうとした時\" \"select_label_2\" \"天の覇権を競い争った時\" \"select_label_3\"\n私のキラーズ『トライデント』は\nどういう時に作られたかって\nキミは知ってるかな？\n"
+	},
+	{
+		"ID": 2957,
+		"unitID": 2300211,
+		"questionID": 9300207,
+		"script": ";;天の覇権を競い争った時,1\n# textflame 1 1\n# voice 3002 \"toraidento_0001\"\n@トライデント\nおぉっと、マスター？\nちょっといい？\n\n@トライデント\nんっとね、\nべつに深い意味はないんだけど…\n\n@トライデント\nちょっと、\nマスターに質問をしたいなーって\n思うんだけど…\n\n@トライデント\n時間は大丈夫？\n\n# voice 3002 \"toraidento_unit_1005\"\n# face %(unit_a)s \"smile\"\n@トライデント\nうん、大丈夫だよね！\nそういうわけでぇ…\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私のキラーズ『トライデント』は\nどういう時に作られたかって\nキミは知ってるかな？\n\n# se \"SE_0734\"\n# select  \"天の覇権を競い争った時\" \"select_label_1\" \"地上を滅ぼそうとした時\" \"select_label_2\" \"敵の神を滅ぼそうとした時\" \"select_label_3\"\n私のキラーズ『トライデント』は\nどういう時に作られたかって\nキミは知ってるかな？\n"
+	},
+	{
+		"ID": 2958,
+		"unitID": 2300211,
+		"questionID": 9300208,
+		"script": ";;塩水の泉,2\n# textflame 1 1\n# voice 3002 \"toraidento_0001\"\n@トライデント\nおぉっと、マスター？\nちょっといい？\n\n@トライデント\nんっとね、\nべつに深い意味はないんだけど…\n\n@トライデント\nちょっと、\nマスターに質問をしたいなーって\n思うんだけど…\n\n@トライデント\n時間は大丈夫？\n\n# voice 3002 \"toraidento_unit_1005\"\n# face %(unit_a)s \"smile\"\n@トライデント\nうん、大丈夫だよね！\nそういうわけでぇ…\n;;--------------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私のキラーズ『トライデント』を\n地面で打つとなにが湧き出たって\n言われてるでしょーかっ！？\n\n# se \"SE_0734\"\n# select  \"マグマ\" \"select_label_1\" \"塩水の泉\" \"select_label_2\" \"泥水\" \"select_label_3\"\n私のキラーズ『トライデント』を\n地面で打つとなにが湧き出たって\n言われてるでしょーかっ！？\n"
+	},
+	{
+		"ID": 2959,
+		"unitID": 2300211,
+		"questionID": 9300209,
+		"script": ";;横に置く,3\n# textflame 1 1\n# voice 3002 \"toraidento_0001\"\n@トライデント\nおぉっと、マスター？\nちょっといい？\n\n@トライデント\nんっとね、\nべつに深い意味はないんだけど…\n\n@トライデント\nちょっと、\nマスターに質問をしたいなーって\n思うんだけど…\n\n@トライデント\n時間は大丈夫？\n\n# voice 3002 \"toraidento_unit_1005\"\n# face %(unit_a)s \"smile\"\n@トライデント\nうん、大丈夫だよね！\nそういうわけでぇ…\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私のキラーズ『トライデント』が\n起こした大洪水はどうやって\n収まるって言われてるかな？\n\n# se \"SE_0734\"\n# select  \"折る\" \"select_label_1\" \"頭に置く\" \"select_label_2\" \"横に置く\" \"select_label_3\"\n私のキラーズ『トライデント』が\n起こした大洪水はどうやって\n収まるって言われてるかな？\n"
+	},
+	{
+		"ID": 2960,
+		"unitID": 2300211,
+		"questionID": 9300210,
+		"script": ";;三叉の槍,1\n# textflame 1 1\n# voice 3002 \"toraidento_0001\"\n@トライデント\nおぉっと、マスター？\nちょっといい？\n\n@トライデント\nんっとね、\nべつに深い意味はないんだけど…\n\n@トライデント\nちょっと、\nマスターに質問をしたいなーって\n思うんだけど…\n\n@トライデント\n時間は大丈夫？\n\n# voice 3002 \"toraidento_unit_1005\"\n# face %(unit_a)s \"smile\"\n@トライデント\nうん、大丈夫だよね！\nそういうわけでぇ…\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私のキラーズ『トライデント』が\nどんな形をしているかーって\nキミは当然わかるよね！？\n\n# se \"SE_0734\"\n# select  \"三叉の槍\" \"select_label_1\" \"美しい剣\" \"select_label_2\" \"黄金の盾\" \"select_label_3\"\n私のキラーズ『トライデント』が\nどんな形をしているかーって\nキミは当然わかるよね！？\n"
+	},
+	{
+		"ID": 2961,
+		"unitID": 2300211,
+		"questionID": 9300211,
+		"script": ";;槍,1\n# textflame 1 1\n# voice 3002 \"toraidento_0001\"\n@トライデント\nそうだマスター\n\n@トライデント\nちょうどいい機会だから、\n今のうちに聞いちゃってもいいよね！\n\n@トライデント\nなにをって？そんなの当然、\nマスターがトライデントのことを\nどれくらい理解できてるかだよ～\n\n@トライデント\nだからね？\nちょーっとだけ、\n質問してもいいよね！？\n\n# voice 3002 \"toraidento_unit_1005\"\n# face %(unit_a)s \"smile\"\n@トライデント\nん、よし！\nさっそくいっちゃうよ～！\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nはい！私の武具種はいったい\nなんでしょーか！？\n\n# se \"SE_0734\"\n# select  \"槍\" \"select_label_1\" \"剣\" \"select_label_2\" \"杖\" \"select_label_3\"\nはい！私の武具種はいったい\nなんでしょーか！？\n"
+	},
+	{
+		"ID": 2962,
+		"unitID": 2300211,
+		"questionID": 9300212,
+		"script": ";;トラブルメイカー,2\n# textflame 1 1\n# voice 3002 \"toraidento_0001\"\n@トライデント\nそうだマスター\n\n@トライデント\nちょうどいい機会だから、\n今のうちに聞いちゃってもいいよね！\n\n@トライデント\nなにをって？そんなの当然、\nマスターがトライデントのことを\nどれくらい理解できてるかだよ～\n\n@トライデント\nだからね？\nちょーっとだけ、\n質問してもいいよね！？\n\n# voice 3002 \"toraidento_unit_1005\"\n# face %(unit_a)s \"smile\"\n@トライデント\nん、よし！\nさっそくいっちゃうよ～！\n;;--------------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nトライデントは\n天性のなんだと思う？\n\n# se \"SE_0734\"\n# select  \"釣り師\" \"select_label_1\" \"トラブルメイカー\" \"select_label_2\" \"料理人\" \"select_label_3\"\nトライデントは\n天性のなんだと思う？\n"
+	},
+	{
+		"ID": 2963,
+		"unitID": 2300211,
+		"questionID": 9300213,
+		"script": ";;12月11日,3\n# textflame 1 1\n# voice 3002 \"toraidento_0001\"\n@トライデント\nそうだマスター\n\n@トライデント\nちょうどいい機会だから、\n今のうちに聞いちゃってもいいよね！\n\n@トライデント\nなにをって？そんなの当然、\nマスターがトライデントのことを\nどれくらい理解できてるかだよ～\n\n@トライデント\nだからね？\nちょーっとだけ、\n質問してもいいよね！？\n\n# voice 3002 \"toraidento_unit_1005\"\n# face %(unit_a)s \"smile\"\n@トライデント\nん、よし！\nさっそくいっちゃうよ～！\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nトライデントの誕生日\nちゃんと覚えててくれてる？\n大事なことだよー？ \n\n# se \"SE_0734\"\n# select  \"12月12日\" \"select_label_1\" \"12月10日\" \"select_label_2\" \"12月11日\" \"select_label_3\"\nトライデントの誕生日\nちゃんと覚えててくれてる？\n大事なことだよー？ \n"
+	},
+	{
+		"ID": 2964,
+		"unitID": 2300211,
+		"questionID": 9300214,
+		"script": ";;O型,1\n# textflame 1 1\n# voice 3002 \"toraidento_0001\"\n@トライデント\nそうだマスター\n\n@トライデント\nちょうどいい機会だから、\n今のうちに聞いちゃってもいいよね！\n\n@トライデント\nなにをって？そんなの当然、\nマスターがトライデントのことを\nどれくらい理解できてるかだよ～\n\n@トライデント\nだからね？\nちょーっとだけ、\n質問してもいいよね！？\n\n# voice 3002 \"toraidento_unit_1005\"\n# face %(unit_a)s \"smile\"\n@トライデント\nん、よし！\nさっそくいっちゃうよ～！\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私の血液型って\nマスターはわかってるかなー？\n\n# se \"SE_0734\"\n# select  \"O型\" \"select_label_1\" \"A型\" \"select_label_2\" \"B型\" \"select_label_3\"\n私の血液型って\nマスターはわかってるかなー？\n"
+	},
+	{
+		"ID": 2965,
+		"unitID": 2300211,
+		"questionID": 9300215,
+		"script": ";;いて座,2\n# textflame 1 1\n# voice 3002 \"toraidento_0001\"\n@トライデント\nそうだマスター\n\n@トライデント\nちょうどいい機会だから、\n今のうちに聞いちゃってもいいよね！\n\n@トライデント\nなにをって？そんなの当然、\nマスターがトライデントのことを\nどれくらい理解できてるかだよ～\n\n@トライデント\nだからね？\nちょーっとだけ、\n質問してもいいよね！？\n\n# voice 3002 \"toraidento_unit_1005\"\n# face %(unit_a)s \"smile\"\n@トライデント\nん、よし！\nさっそくいっちゃうよ～！\n;;--------------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私がなに座か…\nマスター、当ててみて？\n\n# se \"SE_0734\"\n# select  \"しし座\" \"select_label_1\" \"いて座\" \"select_label_2\" \"みずがめ座\" \"select_label_3\"\n私がなに座か…\nマスター、当ててみて？\n"
+	},
+	{
+		"ID": 2966,
+		"unitID": 2300211,
+		"questionID": 9300216,
+		"script": ";;オリュンポス,3\n# textflame 1 1\n# voice 3002 \"toraidento_0001\"\n@トライデント\nそうだマスター\n\n@トライデント\nちょうどいい機会だから、\n今のうちに聞いちゃってもいいよね！\n\n@トライデント\nなにをって？そんなの当然、\nマスターがトライデントのことを\nどれくらい理解できてるかだよ～\n\n@トライデント\nだからね？\nちょーっとだけ、\n質問してもいいよね！？\n\n# voice 3002 \"toraidento_unit_1005\"\n# face %(unit_a)s \"smile\"\n@トライデント\nん、よし！\nさっそくいっちゃうよ～！\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nトライデントがどこから来たのか…\nそうそう、出身地がどこかって\nキミならわかるよね！？\n\n# se \"SE_0734\"\n# select  \"天界\" \"select_label_1\" \"メソポタミア\" \"select_label_2\" \"オリュンポス\" \"select_label_3\"\nトライデントがどこから来たのか…\nそうそう、出身地がどこかって\nキミならわかるよね！？\n"
+	},
+	{
+		"ID": 2967,
+		"unitID": 2300211,
+		"questionID": 9300217,
+		"script": ";;水源を見つける,1\n# textflame 1 1\n# voice 3002 \"toraidento_0001\"\n@トライデント\nそうだマスター\n\n@トライデント\nちょうどいい機会だから、\n今のうちに聞いちゃってもいいよね！\n\n@トライデント\nなにをって？そんなの当然、\nマスターがトライデントのことを\nどれくらい理解できてるかだよ～\n\n@トライデント\nだからね？\nちょーっとだけ、\n質問してもいいよね！？\n\n# voice 3002 \"toraidento_unit_1005\"\n# face %(unit_a)s \"smile\"\n@トライデント\nん、よし！\nさっそくいっちゃうよ～！\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nマスターはトライデントの特技\nなんだかわかってるかなー？\n\n# se \"SE_0734\"\n# select  \"水源を見つける\" \"select_label_1\" \"火を消す\" \"select_label_2\" \"泳ぐこと\" \"select_label_3\"\nマスターはトライデントの特技\nなんだかわかってるかなー？\n"
+	},
+	{
+		"ID": 2968,
+		"unitID": 2300211,
+		"questionID": 9300218,
+		"script": ";;魚,2\n# textflame 1 1\n# voice 3002 \"toraidento_0001\"\n@トライデント\nそうだマスター\n\n@トライデント\nちょうどいい機会だから、\n今のうちに聞いちゃってもいいよね！\n\n@トライデント\nなにをって？そんなの当然、\nマスターがトライデントのことを\nどれくらい理解できてるかだよ～\n\n@トライデント\nだからね？\nちょーっとだけ、\n質問してもいいよね！？\n\n# voice 3002 \"toraidento_unit_1005\"\n# face %(unit_a)s \"smile\"\n@トライデント\nん、よし！\nさっそくいっちゃうよ～！\n;;--------------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私の好きなものって\nマスターさんはわかってる？\n実物持ってきてくれてもいいよ？\n\n# se \"SE_0734\"\n# select  \"肉\" \"select_label_1\" \"魚\" \"select_label_2\" \"野菜\" \"select_label_3\"\n私の好きなものって\nマスターさんはわかってる？\n実物持ってきてくれてもいいよ？\n"
+	},
+	{
+		"ID": 2969,
+		"unitID": 2300211,
+		"questionID": 9300219,
+		"script": ";;ダイビング,3\n# textflame 1 1\n# voice 3002 \"toraidento_0001\"\n@トライデント\nそうだマスター\n\n@トライデント\nちょうどいい機会だから、\n今のうちに聞いちゃってもいいよね！\n\n@トライデント\nなにをって？そんなの当然、\nマスターがトライデントのことを\nどれくらい理解できてるかだよ～\n\n@トライデント\nだからね？\nちょーっとだけ、\n質問してもいいよね！？\n\n# voice 3002 \"toraidento_unit_1005\"\n# face %(unit_a)s \"smile\"\n@トライデント\nん、よし！\nさっそくいっちゃうよ～！\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nトライデントの趣味はなんでしょう！\nマスターならわかるよね！？\n\n# se \"SE_0734\"\n# select  \"ウォーキング\" \"select_label_1\" \"ランニング\" \"select_label_2\" \"ダイビング\" \"select_label_3\"\nトライデントの趣味はなんでしょう！\nマスターならわかるよね！？\n"
+	},
+	{
+		"ID": 2970,
+		"unitID": 2300211,
+		"questionID": 9300220,
+		"script": ";;水,1\n# textflame 1 1\n# voice 3002 \"toraidento_0001\"\n@トライデント\nそうだマスター\n\n@トライデント\nちょうどいい機会だから、\n今のうちに聞いちゃってもいいよね！\n\n@トライデント\nなにをって？そんなの当然、\nマスターがトライデントのことを\nどれくらい理解できてるかだよ～\n\n@トライデント\nだからね？\nちょーっとだけ、\n質問してもいいよね！？\n\n# voice 3002 \"toraidento_unit_1005\"\n# face %(unit_a)s \"smile\"\n@トライデント\nん、よし！\nさっそくいっちゃうよ～！\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nトライデントはなにがないと\n力が出ないでしょーか！？\n\n# se \"SE_0734\"\n# select  \"水\" \"select_label_1\" \"アイス\" \"select_label_2\" \"食べ物\" \"select_label_3\"\nトライデントはなにがないと\n力が出ないでしょーか！？\n"
+	},
+	{
+		"ID": 2971,
+		"unitID": 2300211,
+		"questionID": 9300221,
+		"script": ";;トリシューラ,1\n# textflame 1 1\n# voice 3002 \"toraidento_0001\"\n@トライデント\nマスター？\nちょっと時間いいかな？\n\n# face %(unit_a)s \"sad\"\n@トライデント\nいやいや\nなにかやっちゃったとかじゃなくて～\n\n@トライデント\nちょっとした乙女心っていうか…\nと、とにかく！\n質問させてもらっても良い？\n\n# face %(unit_a)s \"normal\"\n@トライデント\n内容は私に関してだから、\nマスターには正解してほしいなぁ…\n\n# voice 3002 \"toraidento_0004\"\n# face %(unit_a)s \"smile\"\n@トライデント\nじゃあ、質問！\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私とライバルで\n同じ三叉の矛なのは\n誰でしょ～か！？\n\n# se \"SE_0734\"\n# select  \"トリシューラ\" \"select_label_1\" \"ブリューナク\" \"select_label_2\" \"グングニル\" \"select_label_3\"\n私とライバルで\n同じ三叉の矛なのは\n誰でしょ～か！？\n"
+	},
+	{
+		"ID": 2972,
+		"unitID": 2300211,
+		"questionID": 9300222,
+		"script": ";;聖槍将の滅気,2\n# textflame 1 1\n# voice 3002 \"toraidento_0001\"\n@トライデント\nマスター？\nちょっと時間いいかな？\n\n# face %(unit_a)s \"sad\"\n@トライデント\nいやいや\nなにかやっちゃったとかじゃなくて～\n\n@トライデント\nちょっとした乙女心っていうか…\nと、とにかく！\n質問させてもらっても良い？\n\n# face %(unit_a)s \"normal\"\n@トライデント\n内容は私に関してだから、\nマスターには正解してほしいなぁ…\n\n# voice 3002 \"toraidento_0004\"\n# face %(unit_a)s \"smile\"\n@トライデント\nじゃあ、質問！\n;;--------------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nトライデントが☆５のときに\nどんなリーダースキルをもってるか\nちゃんとわかってるー？\n\n# se \"SE_0734\"\n# select  \"聖槍将の加護\" \"select_label_1\" \"聖槍将の滅気\" \"select_label_2\" \"聖槍将の祈り\" \"select_label_3\"\nトライデントが☆５のときに\nどんなリーダースキルをもってるか\nちゃんとわかってるー？\n"
+	},
+	{
+		"ID": 2973,
+		"unitID": 2300211,
+		"questionID": 9300223,
+		"script": ";;氷鎧槍皇の真髄,3\n# textflame 1 1\n# voice 3002 \"toraidento_0001\"\n@トライデント\nマスター？\nちょっと時間いいかな？\n\n# face %(unit_a)s \"sad\"\n@トライデント\nいやいや\nなにかやっちゃったとかじゃなくて～\n\n@トライデント\nちょっとした乙女心っていうか…\nと、とにかく！\n質問させてもらっても良い？\n\n# face %(unit_a)s \"normal\"\n@トライデント\n内容は私に関してだから、\nマスターには正解してほしいなぁ…\n\n# voice 3002 \"toraidento_0004\"\n# face %(unit_a)s \"smile\"\n@トライデント\nじゃあ、質問！\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nトライデントが☆６のときに\nどんなリーダースキルをもってるか\nちゃんとわかってるー？\n\n# se \"SE_0734\"\n# select  \"氷鎧槍皇の威光\" \"select_label_1\" \"氷鎧槍皇の息吹\" \"select_label_2\" \"氷鎧槍皇の真髄\" \"select_label_3\"\nトライデントが☆６のときに\nどんなリーダースキルをもってるか\nちゃんとわかってるー？\n"
+	},
+	{
+		"ID": 2974,
+		"unitID": 2300211,
+		"questionID": 9300224,
+		"script": ";;堅守・斧撃,1\n# textflame 1 1\n# voice 3002 \"toraidento_0001\"\n@トライデント\nマスター？\nちょっと時間いいかな？\n\n# face %(unit_a)s \"sad\"\n@トライデント\nいやいや\nなにかやっちゃったとかじゃなくて～\n\n@トライデント\nちょっとした乙女心っていうか…\nと、とにかく！\n質問させてもらっても良い？\n\n# face %(unit_a)s \"normal\"\n@トライデント\n内容は私に関してだから、\nマスターには正解してほしいなぁ…\n\n# voice 3002 \"toraidento_0004\"\n# face %(unit_a)s \"smile\"\n@トライデント\nじゃあ、質問！\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私が☆５のときに\nどんなスキルを手に入れるか\nキミは覚えてる？\n\n# se \"SE_0734\"\n# select  \"堅守・斧撃\" \"select_label_1\" \"堅守・剣撃\" \"select_label_2\" \"軟守・衝撃\" \"select_label_3\"\n私が☆５のときに\nどんなスキルを手に入れるか\nキミは覚えてる？\n"
+	},
+	{
+		"ID": 2975,
+		"unitID": 2300211,
+		"questionID": 9300225,
+		"script": ";;命中率補助,2\n# textflame 1 1\n# voice 3002 \"toraidento_0001\"\n@トライデント\nマスター？\nちょっと時間いいかな？\n\n# face %(unit_a)s \"sad\"\n@トライデント\nいやいや\nなにかやっちゃったとかじゃなくて～\n\n@トライデント\nちょっとした乙女心っていうか…\nと、とにかく！\n質問させてもらっても良い？\n\n# face %(unit_a)s \"normal\"\n@トライデント\n内容は私に関してだから、\nマスターには正解してほしいなぁ…\n\n# voice 3002 \"toraidento_0004\"\n# face %(unit_a)s \"smile\"\n@トライデント\nじゃあ、質問！\n;;--------------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私が☆６のときに\nどんなスキルを手に入れるか\nキミは覚えてる？\n\n# se \"SE_0734\"\n# select  \"攻撃力補助\" \"select_label_1\" \"命中率補助\" \"select_label_2\" \"防御力補助\" \"select_label_3\"\n私が☆６のときに\nどんなスキルを手に入れるか\nキミは覚えてる？\n"
+	},
+	{
+		"ID": 2976,
+		"unitID": 2300211,
+		"questionID": 9300226,
+		"script": ";;ケラウノス,3\n# textflame 1 1\n# voice 3002 \"toraidento_0001\"\n@トライデント\nマスター？\nちょっと時間いいかな？\n\n# face %(unit_a)s \"sad\"\n@トライデント\nいやいや\nなにかやっちゃったとかじゃなくて～\n\n@トライデント\nちょっとした乙女心っていうか…\nと、とにかく！\n質問させてもらっても良い？\n\n# face %(unit_a)s \"normal\"\n@トライデント\n内容は私に関してだから、\nマスターには正解してほしいなぁ…\n\n# voice 3002 \"toraidento_0004\"\n# face %(unit_a)s \"smile\"\n@トライデント\nじゃあ、質問！\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nさて！私と姉妹の子って\n次のうち誰でしょー！！\nマスターならわかるよね！？\n\n# se \"SE_0734\"\n# select  \"ケーリュケイオン\" \"select_label_1\" \"テュルソス\" \"select_label_2\" \"ケラウノス\" \"select_label_3\"\nさて！私と姉妹の子って\n次のうち誰でしょー！！\nマスターならわかるよね！？\n"
+	},
+	{
+		"ID": 2977,
+		"unitID": 2300211,
+		"questionID": 9300227,
+		"script": ";;スターライトラン,1\n# textflame 1 1\n# voice 3002 \"toraidento_0001\"\n@トライデント\nマスター？\nちょっと時間いいかな？\n\n# face %(unit_a)s \"sad\"\n@トライデント\nいやいや\nなにかやっちゃったとかじゃなくて～\n\n@トライデント\nちょっとした乙女心っていうか…\nと、とにかく！\n質問させてもらっても良い？\n\n# face %(unit_a)s \"normal\"\n@トライデント\n内容は私に関してだから、\nマスターには正解してほしいなぁ…\n\n# voice 3002 \"toraidento_0004\"\n# face %(unit_a)s \"smile\"\n@トライデント\nじゃあ、質問！\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私のキャラクタークエスト\nEpisode2をクリアすることで\n覚えられるスキルはなーんだ？\n\n# se \"SE_0734\"\n# select  \"スターライトラン\" \"select_label_1\" \"スターライトウォーク\" \"select_label_2\" \"スターライトバースト\" \"select_label_3\"\n私のキャラクタークエスト\nEpisode2をクリアすることで\n覚えられるスキルはなーんだ？\n"
+	},
+	{
+		"ID": 2978,
+		"unitID": 2300211,
+		"questionID": 9300228,
+		"script": ";;スターリーエイド,2\n# textflame 1 1\n# voice 3002 \"toraidento_0001\"\n@トライデント\nマスター？\nちょっと時間いいかな？\n\n# face %(unit_a)s \"sad\"\n@トライデント\nいやいや\nなにかやっちゃったとかじゃなくて～\n\n@トライデント\nちょっとした乙女心っていうか…\nと、とにかく！\n質問させてもらっても良い？\n\n# face %(unit_a)s \"normal\"\n@トライデント\n内容は私に関してだから、\nマスターには正解してほしいなぁ…\n\n# voice 3002 \"toraidento_0004\"\n# face %(unit_a)s \"smile\"\n@トライデント\nじゃあ、質問！\n;;--------------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私のキャラクタークエスト\nEpisode3をクリアすることで\n覚えられるスキルはなーんだ？\n\n# se \"SE_0734\"\n# select  \"スターリーライド\" \"select_label_1\" \"スターリーエイド\" \"select_label_2\" \"スターリーフォーム\" \"select_label_3\"\n私のキャラクタークエスト\nEpisode3をクリアすることで\n覚えられるスキルはなーんだ？\n"
+	},
+	{
+		"ID": 2979,
+		"unitID": 2300211,
+		"questionID": 9300229,
+		"script": ";;グランジェネラル,3\n# textflame 1 1\n# voice 3002 \"toraidento_0001\"\n@トライデント\nマスター？\nちょっと時間いいかな？\n\n# face %(unit_a)s \"sad\"\n@トライデント\nいやいや\nなにかやっちゃったとかじゃなくて～\n\n@トライデント\nちょっとした乙女心っていうか…\nと、とにかく！\n質問させてもらっても良い？\n\n# face %(unit_a)s \"normal\"\n@トライデント\n内容は私に関してだから、\nマスターには正解してほしいなぁ…\n\n# voice 3002 \"toraidento_0004\"\n# face %(unit_a)s \"smile\"\n@トライデント\nじゃあ、質問！\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nトライデントの☆５のときのジョブを\n当ててみてよ！\n\n# se \"SE_0734\"\n# select  \"ナイトジェネラル\" \"select_label_1\" \"ランサージェネラル\" \"select_label_2\" \"グランジェネラル\" \"select_label_3\"\nトライデントの☆５のときのジョブを\n当ててみてよ！\n"
+	},
+	{
+		"ID": 2980,
+		"unitID": 2300211,
+		"questionID": 9300230,
+		"script": ";;鎧槍皇,1\n# textflame 1 1\n# voice 3002 \"toraidento_0001\"\n@トライデント\nマスター？\nちょっと時間いいかな？\n\n# face %(unit_a)s \"sad\"\n@トライデント\nいやいや\nなにかやっちゃったとかじゃなくて～\n\n@トライデント\nちょっとした乙女心っていうか…\nと、とにかく！\n質問させてもらっても良い？\n\n# face %(unit_a)s \"normal\"\n@トライデント\n内容は私に関してだから、\nマスターには正解してほしいなぁ…\n\n# voice 3002 \"toraidento_0004\"\n# face %(unit_a)s \"smile\"\n@トライデント\nじゃあ、質問！\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nトライデントの☆６のときのジョブを\n当ててみてよ！\n\n# se \"SE_0734\"\n# select  \"鎧槍皇\" \"select_label_1\" \"槍神\" \"select_label_2\" \"剣皇\" \"select_label_3\"\nトライデントの☆６のときのジョブを\n当ててみてよ！\n"
+	},
+	{
+		"ID": 2981,
+		"unitID": 2300211,
+		"questionID": 9300231,
+		"script": ";;12月1日,1\n# textflame 1 1\n# voice 3002 \"toraidento_0001\"\n@トライデント\nいいこと思い付いたよマスター\n\n@トライデント\nせっかくこうして、\n長い時間を一緒に過ごしてるんだし\n\n@トライデント\nここで一つ\n私についての質問をして\n確認をしようと思ったんだよ\n\n@トライデント\nマスターならちゃんと\nトライデントのことを\n見てくれてるって…\n\n# voice 3002 \"toraidento_0036\"\n# face %(unit_a)s \"smile\"\n@トライデント\n信じてるからね！\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私と姉妹のケラウノスの\n誕生日はいつでしょうかー！\n\n# se \"SE_0734\"\n# select  \"12月1日\" \"select_label_1\" \"12月2日\" \"select_label_2\" \"12月3日\" \"select_label_3\"\n私と姉妹のケラウノスの\n誕生日はいつでしょうかー！\n"
+	},
+	{
+		"ID": 2982,
+		"unitID": 2300211,
+		"questionID": 9300232,
+		"script": ";;トライデントで地面を三回叩いた,2\n# textflame 1 1\n# voice 3002 \"toraidento_0001\"\n@トライデント\nいいこと思い付いたよマスター\n\n@トライデント\nせっかくこうして、\n長い時間を一緒に過ごしてるんだし\n\n@トライデント\nここで一つ\n私についての質問をして\n確認をしようと思ったんだよ\n\n@トライデント\nマスターならちゃんと\nトライデントのことを\n見てくれてるって…\n\n# voice 3002 \"toraidento_0036\"\n# face %(unit_a)s \"smile\"\n@トライデント\n信じてるからね！\n;;--------------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私の『トライデント』の持ち主は\nどーやって大洪水を\n引き起こしたでしょう！\n\n# se \"SE_0734\"\n# select  \"トライデントで地面を掘った\" \"select_label_1\" \"トライデントで地面を三回叩いた\" \"select_label_2\" \"トライデントを地面に刺した\" \"select_label_3\"\n私の『トライデント』の持ち主は\nどーやって大洪水を\n引き起こしたでしょう！\n"
+	},
+	{
+		"ID": 2983,
+		"unitID": 2300211,
+		"questionID": 9300233,
+		"script": ";;ロンゴミアント,3\n# textflame 1 1\n# voice 3002 \"toraidento_0001\"\n@トライデント\nいいこと思い付いたよマスター\n\n@トライデント\nせっかくこうして、\n長い時間を一緒に過ごしてるんだし\n\n@トライデント\nここで一つ\n私についての質問をして\n確認をしようと思ったんだよ\n\n@トライデント\nマスターならちゃんと\nトライデントのことを\n見てくれてるって…\n\n# voice 3002 \"toraidento_0036\"\n# face %(unit_a)s \"smile\"\n@トライデント\n信じてるからね！\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私は１２月生まれだけど\n次のうち誰が同じ月の生まれか\nマスターに当ててもらおっかな？\n\n# se \"SE_0734\"\n# select  \"ムラマサ\" \"select_label_1\" \"メギド\" \"select_label_2\" \"ロンゴミアント\" \"select_label_3\"\n私は１２月生まれだけど\n次のうち誰が同じ月の生まれか\nマスターに当ててもらおっかな？\n"
+	},
+	{
+		"ID": 2984,
+		"unitID": 2300211,
+		"questionID": 9300234,
+		"script": ";;December,1\n# textflame 1 1\n# voice 3002 \"toraidento_0001\"\n@トライデント\nいいこと思い付いたよマスター\n\n@トライデント\nせっかくこうして、\n長い時間を一緒に過ごしてるんだし\n\n@トライデント\nここで一つ\n私についての質問をして\n確認をしようと思ったんだよ\n\n@トライデント\nマスターならちゃんと\nトライデントのことを\n見てくれてるって…\n\n# voice 3002 \"toraidento_0036\"\n# face %(unit_a)s \"smile\"\n@トライデント\n信じてるからね！\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nマスターは私の誕生月の１２月を\n英語にしたらなんて言うのか\nわかってるかな？\n\n# se \"SE_0734\"\n# select  \"December\" \"select_label_1\" \"November\" \"select_label_2\" \"October\" \"select_label_3\"\nマスターは私の誕生月の１２月を\n英語にしたらなんて言うのか\nわかってるかな？\n"
+	},
+	{
+		"ID": 2985,
+		"unitID": 2300211,
+		"questionID": 9300235,
+		"script": ";;sagittarius,2\n# textflame 1 1\n# voice 3002 \"toraidento_0001\"\n@トライデント\nいいこと思い付いたよマスター\n\n@トライデント\nせっかくこうして、\n長い時間を一緒に過ごしてるんだし\n\n@トライデント\nここで一つ\n私についての質問をして\n確認をしようと思ったんだよ\n\n@トライデント\nマスターならちゃんと\nトライデントのことを\n見てくれてるって…\n\n# voice 3002 \"toraidento_0036\"\n# face %(unit_a)s \"smile\"\n@トライデント\n信じてるからね！\n;;--------------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nマスターならきっと\n私の星座のいて座を英語にしても\nちゃんと言えちゃうよね？\n\n# se \"SE_0734\"\n# select  \"scorpio\" \"select_label_1\" \"sagittarius\" \"select_label_2\" \"taurus\" \"select_label_3\"\nマスターならきっと\n私の星座のいて座を英語にしても\nちゃんと言えちゃうよね？\n"
+	},
+	{
+		"ID": 2986,
+		"unitID": 2300211,
+		"questionID": 9300236,
+		"script": ";;パラケルスス,3\n# textflame 1 1\n# voice 3002 \"toraidento_0001\"\n@トライデント\nいいこと思い付いたよマスター\n\n@トライデント\nせっかくこうして、\n長い時間を一緒に過ごしてるんだし\n\n@トライデント\nここで一つ\n私についての質問をして\n確認をしようと思ったんだよ\n\n@トライデント\nマスターならちゃんと\nトライデントのことを\n見てくれてるって…\n\n# voice 3002 \"toraidento_0036\"\n# face %(unit_a)s \"smile\"\n@トライデント\n信じてるからね！\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私と同じいて座の人って\n誰がいるかな～？\n次のうちからずばっと当ててね！\n\n# se \"SE_0734\"\n# select  \"フォルカス\" \"select_label_1\" \"フラべルム\" \"select_label_2\" \"パラケルスス\" \"select_label_3\"\n私と同じいて座の人って\n誰がいるかな～？\n次のうちからずばっと当ててね！\n"
+	},
+	{
+		"ID": 2987,
+		"unitID": 2300211,
+		"questionID": 9300237,
+		"script": ";;ウルトラC,1\n# textflame 1 1\n# voice 3002 \"toraidento_0001\"\n@トライデント\nいいこと思い付いたよマスター\n\n@トライデント\nせっかくこうして、\n長い時間を一緒に過ごしてるんだし\n\n@トライデント\nここで一つ\n私についての質問をして\n確認をしようと思ったんだよ\n\n@トライデント\nマスターならちゃんと\nトライデントのことを\n見てくれてるって…\n\n# voice 3002 \"toraidento_0036\"\n# face %(unit_a)s \"smile\"\n@トライデント\n信じてるからね！\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私が一目置かれてる理由って\nなにを連発するからでしょう！\n\n# se \"SE_0734\"\n# select  \"ウルトラC\" \"select_label_1\" \"曲芸\" \"select_label_2\" \"いろんな成功\" \"select_label_3\"\n私が一目置かれてる理由って\nなにを連発するからでしょう！\n"
+	},
+	{
+		"ID": 2988,
+		"unitID": 2300211,
+		"questionID": 9300238,
+		"script": ";;マイペース,2\n# textflame 1 1\n# voice 3002 \"toraidento_0001\"\n@トライデント\nいいこと思い付いたよマスター\n\n@トライデント\nせっかくこうして、\n長い時間を一緒に過ごしてるんだし\n\n@トライデント\nここで一つ\n私についての質問をして\n確認をしようと思ったんだよ\n\n@トライデント\nマスターならちゃんと\nトライデントのことを\n見てくれてるって…\n\n# voice 3002 \"toraidento_0036\"\n# face %(unit_a)s \"smile\"\n@トライデント\n信じてるからね！\n;;--------------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n天性のトラブルメイカーって\n言われちゃってる私の性格のこと\n次のうちなんて呼ぶでしょう！\n\n# se \"SE_0734\"\n# select  \"自信家\" \"select_label_1\" \"マイペース\" \"select_label_2\" \"野心家\" \"select_label_3\"\n天性のトラブルメイカーって\n言われちゃってる私の性格のこと\n次のうちなんて呼ぶでしょう！\n"
+	},
+	{
+		"ID": 2989,
+		"unitID": 2300211,
+		"questionID": 9300239,
+		"script": ";;あっさり自分で解決する,3\n# textflame 1 1\n# voice 3002 \"toraidento_0001\"\n@トライデント\nいいこと思い付いたよマスター\n\n@トライデント\nせっかくこうして、\n長い時間を一緒に過ごしてるんだし\n\n@トライデント\nここで一つ\n私についての質問をして\n確認をしようと思ったんだよ\n\n@トライデント\nマスターならちゃんと\nトライデントのことを\n見てくれてるって…\n\n# voice 3002 \"toraidento_0036\"\n# face %(unit_a)s \"smile\"\n@トライデント\n信じてるからね！\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n周りを巻き込んで大混乱させて\n最後はけっきょくどうなるでしょう？\n…巻き込んでるのはもうしわけぇ～\n\n# se \"SE_0734\"\n# select  \"全部なかったことになる\" \"select_label_1\" \"事件は迷宮入りする\" \"select_label_2\" \"あっさり自分で解決する\" \"select_label_3\"\n周りを巻き込んで大混乱させて\n最後はけっきょくどうなるでしょう？\n…巻き込んでるのはもうしわけぇ～\n"
+	},
+	{
+		"ID": 2990,
+		"unitID": 2300211,
+		"questionID": 9300240,
+		"script": ";;ティタノマキアー,1\n# textflame 1 1\n# voice 3002 \"toraidento_0001\"\n@トライデント\nいいこと思い付いたよマスター\n\n@トライデント\nせっかくこうして、\n長い時間を一緒に過ごしてるんだし\n\n@トライデント\nここで一つ\n私についての質問をして\n確認をしようと思ったんだよ\n\n@トライデント\nマスターならちゃんと\nトライデントのことを\n見てくれてるって…\n\n# voice 3002 \"toraidento_0036\"\n# face %(unit_a)s \"smile\"\n@トライデント\n信じてるからね！\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私のキラーズ『トライデント』が\n作られた時にやってた競い合い…\nあれはなんて言われてたでしょう！\n\n# se \"SE_0734\"\n# select  \"ティタノマキアー\" \"select_label_1\" \"デウスエクスマキナ\" \"select_label_2\" \"ラグナロク\" \"select_label_3\"\n私のキラーズ『トライデント』が\n作られた時にやってた競い合い…\nあれはなんて言われてたでしょう！\n"
+	},
+	{
+		"ID": 2991,
+		"unitID": 2300211,
+		"questionID": 9300241,
+		"script": "\n;;私,2\n# se \"SE_0734\"\n# select \"ワタシ\" \"select_label_1\" \"私\" \"select_label_2\" \"アタイ\" \"select_label_3\"\nトライデントの一人称は\n次のうちどれ？\n"
+	},
+	{
+		"ID": 2992,
+		"unitID": 2300211,
+		"questionID": 9300242,
+		"script": "\n;;マスター,2\n# se \"SE_0734\"\n# select \"ご主人様\" \"select_label_1\" \"マスター\" \"select_label_2\" \"主\" \"select_label_3\"\nトライデントはアンタのこと\nなんて呼んでる？\n"
+	},
+	{
+		"ID": 2993,
+		"unitID": 2300211,
+		"questionID": 9300243,
+		"script": "\n;;72,3\n# se \"SE_0734\"\n# select \"75\" \"select_label_1\" \"81\" \"select_label_2\" \"72\" \"select_label_3\"\nトライデントの\nバストサイズがどのくらいか\nアンタ…知ってるの？\n"
+	},
+	{
+		"ID": 2994,
+		"unitID": 2300211,
+		"questionID": 9300244,
+		"script": "\n;;54,3\n# se \"SE_0734\"\n# select \"53\" \"select_label_1\" \"59\" \"select_label_2\" \"54\" \"select_label_3\"\nトライデントの\nウエストサイズがどのくらいか\nアンタ…知ってるの？\n"
+	},
+	{
+		"ID": 2995,
+		"unitID": 2300211,
+		"questionID": 9300245,
+		"script": "\n;;78,1\n# se \"SE_0734\"\n# select \"78\" \"select_label_1\" \"77\" \"select_label_2\" \"83\" \"select_label_3\"\nトライデントの\nヒップサイズがどのくらいか\nアンタ…知ってるの？\n"
+	},
+	{
+		"ID": 2996,
+		"unitID": 2300211,
+		"questionID": 9300246,
+		"script": "\n;;37,1\n# se \"SE_0734\"\n# select \"37\" \"select_label_1\" \"39\" \"select_label_2\" \"45\" \"select_label_3\"\nトライデントの体重は\n次のうちどれ？\n"
+	},
+	{
+		"ID": 2997,
+		"unitID": 2300211,
+		"questionID": 9300247,
+		"script": "\n;;204,3\n# se \"SE_0734\"\n# select \"205\" \"select_label_1\" \"223\" \"select_label_2\" \"204\" \"select_label_3\"\nトライデントの\nバスト＋ウエスト＋ヒップは\nいくつかわかる？\n"
+	},
+	{
+		"ID": 2998,
+		"unitID": 2300211,
+		"questionID": 9300248,
+		"script": "\n;;ピンク,3\n# se \"SE_0734\"\n# select \"紫\" \"select_label_1\" \"黄緑\" \"select_label_2\" \"ピンク\" \"select_label_3\"\nトライデントの水着の色は\n次のうちどれ？\n"
+	},
+	{
+		"ID": 2999,
+		"unitID": 2300211,
+		"questionID": 9300249,
+		"script": "\n;;77位,2\n# se \"SE_0734\"\n# select \"17位\" \"select_label_1\" \"77位\" \"select_label_2\" \"84位\" \"select_label_3\"\nトライデントは\n第２回人気投票で\n何位だったでしょう？\n"
+	},
+	{
+		"ID": 3000,
+		"unitID": 2300211,
+		"questionID": 9300250,
+		"script": "\n;;斎藤千和,2\n# se \"SE_0734\"\n# select \"高橋李依\" \"select_label_1\" \"斎藤千和\" \"select_label_2\" \"内田真礼\" \"select_label_3\"\nトライデントの声優は誰？\n"
+	}
+]

@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 600423,
+		"script": "# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_room\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# voice 6004 \"kadokeusu_0028\"\n@カドケウス\nほんと～に？\nんん～？\n\n# textflame 0 0\n@\nカドケウスは\nマスターに顔を寄せ\n至近距離からその目を覗き込む\n\n# face %(unit_a)s \"smile\"\n# voice 6004 \"kadokeusu_0004\"\n# textflame 1 1\n@カドケウス\nうん\n信じてあげる♪\n\n# face %(unit_a)s \"normal\"\n# textflame 1 1\n@カドケウス\nま、マスターは嘘とか\n苦手そうなかんじだし\n\n# textflame 1 1\n@カドケウス\nでも、そうか～\nマスターも私とまったり\nのんびりしたかったんだ～\n\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@カドケウス\nふふ…\nじゃあまず座って\nお茶でも飲みなよ\n\n# textflame 1 1\n@カドケウス\nもちろんイタズラ抜きだから\n安心して？\n\n# textflame 0 0\n@\n結局、ご機嫌なカドケウスと\n他愛もない会話を\n彼女が寝入るまで楽しんだ――\n;;----------------------------------------\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

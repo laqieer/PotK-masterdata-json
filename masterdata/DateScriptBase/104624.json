@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 104624,
+		"script": ";;A\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_fireworks\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# face %(unit_a)s \"angry\"\n# textflame 1 1\n@ミュルグレス\nぐ…っ！\n\n@ミュルグレス\nうるさいわね！\nさっきはさっき、\n今は今よ！\n\n# voice 510461 \"murgleys_c_0027\"\n@ミュルグレス\nまったく…\n\n@ミュルグレス\n『ミュルグレスと一緒なら\nなんだって楽しいよ』\nくらい言えないわけ？\n\n@ミュルグレス\nそしたらミュルも\n\n@ミュルグレス\nだんちょーと一緒だと\nいつも以上に楽しいわ\n…って言ってあげたかもなのに！\n\n@ミュルグレス\nかもだけどね、かも！\n本気じゃないから！\n\n# voice 510461 \"murgleys_c_0001\"\n@ミュルグレス\nそんなことより、\n花火終わっちゃうよ？\n一緒に見ようよ、だんちょー\n\n# textflame 0 0\n@\n何が本音で\n何が嘘かわからない\nミュルグレスの言葉…\n\n@\nでも、花火が楽しいと言ったのは\nきっと本音だろうと\n夜空を見上げながらマスターは思った\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

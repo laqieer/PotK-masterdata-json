@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 36027121,
+		"script": ";;【エミリア】\n;;スキル効果　EP3：不明 \n;;※EP4：キャラクエなし\n;;【EP1】\n# script \"lisp\"\n# background \"plain\"\n# bgm \"bgm002\" 0\n# body 3602711\n# pos 3602711 3\n# scale 3602711 0.8 0\n# alpha 3602711 1 0\n# mask 3602711 off\n# textflame 0 0\n@\n戦闘で怪我をしてしまったマスターを\n魔法で癒してくれるエミリア\n\n# face 3602711 \"happy\"\n# imageset 1 \"c3602711\"\n# imagealpha 1 0 0\n# imagelayer 1 1\n@\nありがとう\nそう言うマスターに\nエミリアが優しく微笑む\n\n;;■一枚絵指定\n;;背景：森（光が差し込んでいる）\n;;表情：優しくいたわるようなイメージです。\n;;構図：こちらを覗きこむようなイメージになります。\n;;ボイス：「ううん、お礼を言うのは私の方。\n;;　　　　　ほとんど知らない私のことを命がけで助けてくれたじゃない。\n;;　　　　　ケガの治療なんて、当たり前なんだから」emiria_kyara_0027\n# textwindow \"close\"\n# fadein \"white\" 3\n# imagealpha 1 1 0\n# imagepos 1 0 0\n# alpha 3602711 0 0\n# voice 6027 \"emiria_kyara_0025\"\n\n# frameout 0 1\n# waitandnext 0.8\n\n# fadeout \"black\" 2\n# waitandnext 2"
+	}
+]

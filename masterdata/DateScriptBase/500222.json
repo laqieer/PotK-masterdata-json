@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 500222,
+		"script": ";;A花火、好きなの？\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_fireworks\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# voice 5002 \"furaikugeru_0004\"\n@フライクーゲル\nうん、大好き！\nゴージャスに咲くのがいいよね！\n\n@フライクーゲル\nこう、ドンって飛び出て、\nぱあっと夜空を照らすの！\n\n# textflame 0 0\n@\nまるでフライクーゲルみたいだ\nそうマスターが言うと\n彼女が少し頬を赤くした\n\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n@フライクーゲル\n…マスターにはわたしが、\nあんな風に見えてるんだ？\n\n# voice 5002 \"furaikugeru_0008\"\n@フライクーゲル\nなんかちょっと嬉しいっていうか\n照れくさいっていうか…\n\n# textflame 0 0\n@\nフライクーゲルは花火と違って\nすぐ静かにはならないけど\nとマスターが付け加える\n\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# voice 5002 \"furaikugeru_0022\"\n@フライクーゲル\nオォウ！\n言うね、マスター！\n\n@フライクーゲル\nでもさ、\n毎日をエンジョイしないと\n損だからね！\n\n# voice 5002 \"furaikugeru_0006\"\n@フライクーゲル\nマスターだって、暗く沈んでるよりは\n明るくさわいでる方が好きでしょ？\n\n# textflame 0 0\n@\nマスターが頷くと、フライクーゲルは\nまさに天に咲く大輪のような\n笑みを見せた\n\n# textflame 0 0\n@\nいつもよりテンション高めの\nフライクーゲルと一緒に\n騒がしくも楽しく夜空の花を堪能した\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

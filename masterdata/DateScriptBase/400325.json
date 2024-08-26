@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 400325,
+		"script": ";;はずれ\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_room\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n# voice 4003 \"aporon_0029\"\n@アポロン\nボクの竪琴をいっちょ！\n聴いてくれないかな～！？\nいくよー！？\n\n# textflame 0 0\n@\nここはライブハウス…\nではなく、アポロンの部屋\n\n# face %(unit_a)s \"normal\"\n@\nたった一人の観客であるマスターに\nアポロンはウインクすると、\n竪琴を奏で始めた\n\n@\nその素敵な音色に\n思わずうっとりするマスター\n\n;;//暗転、時間経過\n# fadeout \"black\" 1.5\n# waitandnext 2\n\n# fadein \"black\" 1\n# textflame 1 1\n@アポロン\nねえねえ、どうだった？\n凄かったでしょ？\n\n# eye %(unit_a)s \"close\"\n@アポロン\nボクの想像の中では\n観客がいっぱいいたんだけど…\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"smile\"\n# voice 4003 \"aporon_0004\"\n@アポロン\nそこでもボクは\nマスターのためだけに\n弾いてたからね\n\n;;-----------------------------------------\n# textflame 0 0\n@\nアポロンはニシシと笑うと\n照れたのか頬を掻く\n\n@\nファンになったよ\n\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 4003 \"aporon_0007\"\n@アポロン\n元々ファンだったくせに～♪\n\n# eye %(unit_a)s \"close\"\n@アポロン\nまぁ、マスターは\n最近よくやってると思うから\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"smile\"\n# voice 4003 \"aporon_0030\"\n@アポロン\nお姉ちゃんはあげられないけど\nアポロンからのごほーびだよ♪\n\n@\n上機嫌になったアポロンが\n引いてくれた一曲は\n\n@\n激しいながらも\nどこか安らぎを覚えるような\n音色だった\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

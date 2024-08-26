@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 96032198,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# se \"SE_0733\"\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n@オルフェウス\nその答え…\n\n# voice 560321 \"orpheus_c_0013\"\n@オルフェウス\n不正解～！\n\n# voice 560321 \"orpheus_c_0027\"\n@オルフェウス\nちょっと～！\nマジ、テンさげなんだけど！！\n\n@オルフェウス\nま、こんなクイズに\n間違えたからって、\n平和が来ないわけじゃないけど\n\n@オルフェウス\nでも…\nそれでもリーダーなら、\n正解してくれるって思ってたのに\n\n# voice 560321 \"orpheus_c_0026\"\n@オルフェウス\nあ～あ、バリショックだし\nあたし見る目なかった系かも…\n\n# textflame 0 0\n@\nマスターは、彼女の期待に\n応えられなかったことを\n痛く反省するのだった…\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

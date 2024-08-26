@@ -1,0 +1,302 @@
+[
+	{
+		"ID": 2301,
+		"unitID": 2301411,
+		"questionID": 9301401,
+		"script": ";;槍,1\n# textflame 1 1\n# voice 3014 \"ithuriel_0001\"\n# face %(unit_a)s \"usual\"\n# eye %(unit_a)s \"close\"\n@イシューリエル\nマスター…\n\n# eye %(unit_a)s \"normal\"\n# voice 3014 \"ithuriel_0003\"\n@イシューリエル\n隠しても無駄ですわよ\n\n# face %(unit_a)s \"usual\"\n@イシューリエル\nあなたはわたくしのこと…\n\n# face %(unit_a)s \"angry\"\n@イシューリエル\nもっと知りたいと思っている！\n\n# face %(unit_a)s \"smile\"\n# voice 3014 \"ithuriel_0004\"\n@イシューリエル\nいいですわよ！\n\n@イシューリエル\nそういうことでしたら、\n今からクイズを\n出して差し上げましょう\n\n# voice 3014 \"ithuriel_0006\"\n@イシューリエル\nさあ、参りますわ！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたくしのキラーズはどんな武器か\nお分かりになりますの？\n\n# se \"SE_0734\"\n# select  \"槍\" \"select_label_1\" \"剣\" \"select_label_2\" \"斧\" \"select_label_3\"\nわたくしのキラーズはどんな武器か\nお分かりになりますの？\n"
+	},
+	{
+		"ID": 2302,
+		"unitID": 2301411,
+		"questionID": 9301402,
+		"script": ";;天使,2\n# textflame 1 1\n# voice 3014 \"ithuriel_0001\"\n# face %(unit_a)s \"usual\"\n# eye %(unit_a)s \"close\"\n@イシューリエル\nマスター…\n\n# eye %(unit_a)s \"normal\"\n# voice 3014 \"ithuriel_0003\"\n@イシューリエル\n隠しても無駄ですわよ\n\n# face %(unit_a)s \"usual\"\n@イシューリエル\nあなたはわたくしのこと…\n\n# face %(unit_a)s \"angry\"\n@イシューリエル\nもっと知りたいと思っている！\n\n# face %(unit_a)s \"smile\"\n# voice 3014 \"ithuriel_0004\"\n@イシューリエル\nいいですわよ！\n\n@イシューリエル\nそういうことでしたら、\n今からクイズを\n出して差し上げましょう\n\n# voice 3014 \"ithuriel_0006\"\n@イシューリエル\nさあ、参りますわ！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたくしのキラーズの持ち主\n『イシューリエル』はなんの名前か\nお分かりになりますの？\n\n# se \"SE_0734\"\n# select  \"悪魔\" \"select_label_1\" \"天使\" \"select_label_2\" \"犬\" \"select_label_3\"\nわたくしのキラーズの持ち主\n『イシューリエル』はなんの名前か\nお分かりになりますの？\n"
+	},
+	{
+		"ID": 2303,
+		"unitID": 2301411,
+		"questionID": 9301403,
+		"script": ";;サタン,3\n# textflame 1 1\n# voice 3014 \"ithuriel_0001\"\n# face %(unit_a)s \"usual\"\n# eye %(unit_a)s \"close\"\n@イシューリエル\nマスター…\n\n# eye %(unit_a)s \"normal\"\n# voice 3014 \"ithuriel_0003\"\n@イシューリエル\n隠しても無駄ですわよ\n\n# face %(unit_a)s \"usual\"\n@イシューリエル\nあなたはわたくしのこと…\n\n# face %(unit_a)s \"angry\"\n@イシューリエル\nもっと知りたいと思っている！\n\n# face %(unit_a)s \"smile\"\n# voice 3014 \"ithuriel_0004\"\n@イシューリエル\nいいですわよ！\n\n@イシューリエル\nそういうことでしたら、\n今からクイズを\n出して差し上げましょう\n\n# voice 3014 \"ithuriel_0006\"\n@イシューリエル\nさあ、参りますわ！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたくしのキラーズの持ち主\n『イシューリエル』は誰の正体を\n暴いたことがあるかご存知かしら？\n\n# se \"SE_0734\"\n# select  \"ウリエル\" \"select_label_1\" \"ゼウス\" \"select_label_2\" \"サタン\" \"select_label_3\"\nわたくしのキラーズの持ち主\n『イシューリエル』は誰の正体を\n暴いたことがあるかご存知かしら？\n"
+	},
+	{
+		"ID": 2304,
+		"unitID": 2301411,
+		"questionID": 9301404,
+		"script": ";;ガブリエル,1\n# textflame 1 1\n# voice 3014 \"ithuriel_0001\"\n# face %(unit_a)s \"usual\"\n# eye %(unit_a)s \"close\"\n@イシューリエル\nマスター…\n\n# eye %(unit_a)s \"normal\"\n# voice 3014 \"ithuriel_0003\"\n@イシューリエル\n隠しても無駄ですわよ\n\n# face %(unit_a)s \"usual\"\n@イシューリエル\nあなたはわたくしのこと…\n\n# face %(unit_a)s \"angry\"\n@イシューリエル\nもっと知りたいと思っている！\n\n# face %(unit_a)s \"smile\"\n# voice 3014 \"ithuriel_0004\"\n@イシューリエル\nいいですわよ！\n\n@イシューリエル\nそういうことでしたら、\n今からクイズを\n出して差し上げましょう\n\n# voice 3014 \"ithuriel_0006\"\n@イシューリエル\nさあ、参りますわ！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたくしのキラーズの持ち主\n『イシューリエル』が仕えていた\n大天使の名前を知ってるの？\n\n# se \"SE_0734\"\n# select  \"ガブリエル\" \"select_label_1\" \"ゼウス\" \"select_label_2\" \"ウリエル\" \"select_label_3\"\nわたくしのキラーズの持ち主\n『イシューリエル』が仕えていた\n大天使の名前を知ってるの？\n"
+	},
+	{
+		"ID": 2305,
+		"unitID": 2301411,
+		"questionID": 9301405,
+		"script": ";;ヘブライ神話群,2\n# textflame 1 1\n# voice 3014 \"ithuriel_0001\"\n# face %(unit_a)s \"usual\"\n# eye %(unit_a)s \"close\"\n@イシューリエル\nマスター…\n\n# eye %(unit_a)s \"normal\"\n# voice 3014 \"ithuriel_0003\"\n@イシューリエル\n隠しても無駄ですわよ\n\n# face %(unit_a)s \"usual\"\n@イシューリエル\nあなたはわたくしのこと…\n\n# face %(unit_a)s \"angry\"\n@イシューリエル\nもっと知りたいと思っている！\n\n# face %(unit_a)s \"smile\"\n# voice 3014 \"ithuriel_0004\"\n@イシューリエル\nいいですわよ！\n\n@イシューリエル\nそういうことでしたら、\n今からクイズを\n出して差し上げましょう\n\n# voice 3014 \"ithuriel_0006\"\n@イシューリエル\nさあ、参りますわ！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたくしのキラーズの持ち主\n『イシューリエル』はどんな神話に\n出てくるとお思いですの？\n\n# se \"SE_0734\"\n# select  \"ギリシア神話\" \"select_label_1\" \"ヘブライ神話群\" \"select_label_2\" \"北欧神話\" \"select_label_3\"\nわたくしのキラーズの持ち主\n『イシューリエル』はどんな神話に\n出てくるとお思いですの？\n"
+	},
+	{
+		"ID": 2306,
+		"unitID": 2301411,
+		"questionID": 9301406,
+		"script": ";;ヒキガエル,3\n# textflame 1 1\n# voice 3014 \"ithuriel_0001\"\n# face %(unit_a)s \"usual\"\n# eye %(unit_a)s \"close\"\n@イシューリエル\nマスター…\n\n# eye %(unit_a)s \"normal\"\n# voice 3014 \"ithuriel_0003\"\n@イシューリエル\n隠しても無駄ですわよ\n\n# face %(unit_a)s \"usual\"\n@イシューリエル\nあなたはわたくしのこと…\n\n# face %(unit_a)s \"angry\"\n@イシューリエル\nもっと知りたいと思っている！\n\n# face %(unit_a)s \"smile\"\n# voice 3014 \"ithuriel_0004\"\n@イシューリエル\nいいですわよ！\n\n@イシューリエル\nそういうことでしたら、\n今からクイズを\n出して差し上げましょう\n\n# voice 3014 \"ithuriel_0006\"\n@イシューリエル\nさあ、参りますわ！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたくしのキラーズの持ち主が\n正体を暴いたサタンはエデンに来た時\nなにに化けたかご存知ですの？\n\n# se \"SE_0734\"\n# select  \" ヘビ\" \"select_label_1\" \"トカゲ\" \"select_label_2\" \"ヒキガエル\" \"select_label_3\"\nわたくしのキラーズの持ち主が\n正体を暴いたサタンはエデンに来た時\nなにに化けたかご存知ですの？\n"
+	},
+	{
+		"ID": 2307,
+		"unitID": 2301411,
+		"questionID": 9301407,
+		"script": ";;エデン,1\n# textflame 1 1\n# voice 3014 \"ithuriel_0001\"\n# face %(unit_a)s \"usual\"\n# eye %(unit_a)s \"close\"\n@イシューリエル\nマスター…\n\n# eye %(unit_a)s \"normal\"\n# voice 3014 \"ithuriel_0003\"\n@イシューリエル\n隠しても無駄ですわよ\n\n# face %(unit_a)s \"usual\"\n@イシューリエル\nあなたはわたくしのこと…\n\n# face %(unit_a)s \"angry\"\n@イシューリエル\nもっと知りたいと思っている！\n\n# face %(unit_a)s \"smile\"\n# voice 3014 \"ithuriel_0004\"\n@イシューリエル\nいいですわよ！\n\n@イシューリエル\nそういうことでしたら、\n今からクイズを\n出して差し上げましょう\n\n# voice 3014 \"ithuriel_0006\"\n@イシューリエル\nさあ、参りますわ！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたくしのキラーズの持ち主が\n正体を暴いたサタンは\nどこに忍びこんだかお分かりですの\n\n# se \"SE_0734\"\n# select  \"エデン\" \"select_label_1\" \"シデン\" \"select_label_2\" \"キデン\" \"select_label_3\"\nわたくしのキラーズの持ち主が\n正体を暴いたサタンは\nどこに忍びこんだかお分かりですの\n"
+	},
+	{
+		"ID": 2308,
+		"unitID": 2301411,
+		"questionID": 9301408,
+		"script": ";;イヴ,2\n# textflame 1 1\n# voice 3014 \"ithuriel_0001\"\n# face %(unit_a)s \"usual\"\n# eye %(unit_a)s \"close\"\n@イシューリエル\nマスター…\n\n# eye %(unit_a)s \"normal\"\n# voice 3014 \"ithuriel_0003\"\n@イシューリエル\n隠しても無駄ですわよ\n\n# face %(unit_a)s \"usual\"\n@イシューリエル\nあなたはわたくしのこと…\n\n# face %(unit_a)s \"angry\"\n@イシューリエル\nもっと知りたいと思っている！\n\n# face %(unit_a)s \"smile\"\n# voice 3014 \"ithuriel_0004\"\n@イシューリエル\nいいですわよ！\n\n@イシューリエル\nそういうことでしたら、\n今からクイズを\n出して差し上げましょう\n\n# voice 3014 \"ithuriel_0006\"\n@イシューリエル\nさあ、参りますわ！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたくしのキラーズの持ち主が\n正体を暴いたサタンは\n誰をそそのかしたかご存知ですの\n\n# se \"SE_0734\"\n# select  \"レブ\" \"select_label_1\" \"イヴ\" \"select_label_2\" \"ヘヴン\" \"select_label_3\"\nわたくしのキラーズの持ち主が\n正体を暴いたサタンは\n誰をそそのかしたかご存知ですの\n"
+	},
+	{
+		"ID": 2309,
+		"unitID": 2301411,
+		"questionID": 9301409,
+		"script": ";;悪魔,3\n# textflame 1 1\n# voice 3014 \"ithuriel_0001\"\n# face %(unit_a)s \"usual\"\n# eye %(unit_a)s \"close\"\n@イシューリエル\nマスター…\n\n# eye %(unit_a)s \"normal\"\n# voice 3014 \"ithuriel_0003\"\n@イシューリエル\n隠しても無駄ですわよ\n\n# face %(unit_a)s \"usual\"\n@イシューリエル\nあなたはわたくしのこと…\n\n# face %(unit_a)s \"angry\"\n@イシューリエル\nもっと知りたいと思っている！\n\n# face %(unit_a)s \"smile\"\n# voice 3014 \"ithuriel_0004\"\n@イシューリエル\nいいですわよ！\n\n@イシューリエル\nそういうことでしたら、\n今からクイズを\n出して差し上げましょう\n\n# voice 3014 \"ithuriel_0006\"\n@イシューリエル\nさあ、参りますわ！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたくしのキラーズの持ち主が\n正体を暴いたサタンとは\n何者かおわかりですの？\n\n# se \"SE_0734\"\n# select  \"勇者\" \"select_label_1\" \" 英雄\" \"select_label_2\" \"悪魔\" \"select_label_3\"\nわたくしのキラーズの持ち主が\n正体を暴いたサタンとは\n何者かおわかりですの？\n"
+	},
+	{
+		"ID": 2310,
+		"unitID": 2301411,
+		"questionID": 9301410,
+		"script": ";;ラファエル,1\n# textflame 1 1\n# voice 3014 \"ithuriel_0001\"\n# face %(unit_a)s \"usual\"\n# eye %(unit_a)s \"close\"\n@イシューリエル\nマスター…\n\n# eye %(unit_a)s \"normal\"\n# voice 3014 \"ithuriel_0003\"\n@イシューリエル\n隠しても無駄ですわよ\n\n# face %(unit_a)s \"usual\"\n@イシューリエル\nあなたはわたくしのこと…\n\n# face %(unit_a)s \"angry\"\n@イシューリエル\nもっと知りたいと思っている！\n\n# face %(unit_a)s \"smile\"\n# voice 3014 \"ithuriel_0004\"\n@イシューリエル\nいいですわよ！\n\n@イシューリエル\nそういうことでしたら、\n今からクイズを\n出して差し上げましょう\n\n# voice 3014 \"ithuriel_0006\"\n@イシューリエル\nさあ、参りますわ！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたくしのキラーズの持ち主が\n仕えていた大天使ガブリエルと同じ\n三大天使なのは？\n\n# se \"SE_0734\"\n# select  \"ラファエル\" \"select_label_1\" \"ダニエル\" \"select_label_2\" \"マイケル\" \"select_label_3\"\nわたくしのキラーズの持ち主が\n仕えていた大天使ガブリエルと同じ\n三大天使なのは？\n"
+	},
+	{
+		"ID": 2311,
+		"unitID": 2301411,
+		"questionID": 9301411,
+		"script": ";;光,1\n# textflame 1 1\n# voice 3014 \"ithuriel_0001\"\n# face %(unit_a)s \"usual\"\n# eye %(unit_a)s \"close\"\n@イシューリエル\nマスター、\nわたくしの目は\n誤魔化されませんわ\n\n# eye %(unit_a)s \"normal\"\n@イシューリエル\n今日のデート中…\n\n# face %(unit_a)s \"smile\"\n# voice 3014 \"ithuriel_0004\"\n@イシューリエル\nずっとわたくしに\n見惚れていましたね？\n\n# voice 3014 \"ithuriel_0003\"\n# face %(unit_a)s \"usual\"\n@イシューリエル\nそれは嬉しいのですが、\nわたくしの可愛さだけでなく、\n心にも目を向けて欲しいものですわ\n\n# face %(unit_a)s \"smile\"\n@イシューリエル\nということで、\n今からクイズ出しても\nよろしいかしら？\n\n# voice 3014 \"ithuriel_0006\"\n@イシューリエル\nいきますわよ!?\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたくしの属性は\nご存じですの？\n\n# se \"SE_0734\"\n# select  \"光\" \"select_label_1\" \"炎\" \"select_label_2\" \"闇\" \"select_label_3\"\nわたくしの属性は\nご存じですの？\n"
+	},
+	{
+		"ID": 2312,
+		"unitID": 2301411,
+		"questionID": 9301412,
+		"script": ";;160㎝,2\n# textflame 1 1\n# voice 3014 \"ithuriel_0001\"\n# face %(unit_a)s \"usual\"\n# eye %(unit_a)s \"close\"\n@イシューリエル\nマスター、\nわたくしの目は\n誤魔化されませんわ\n\n# eye %(unit_a)s \"normal\"\n@イシューリエル\n今日のデート中…\n\n# face %(unit_a)s \"smile\"\n# voice 3014 \"ithuriel_0004\"\n@イシューリエル\nずっとわたくしに\n見惚れていましたね？\n\n# voice 3014 \"ithuriel_0003\"\n# face %(unit_a)s \"usual\"\n@イシューリエル\nそれは嬉しいのですが、\nわたくしの可愛さだけでなく、\n心にも目を向けて欲しいものですわ\n\n# face %(unit_a)s \"smile\"\n@イシューリエル\nということで、\n今からクイズ出しても\nよろしいかしら？\n\n# voice 3014 \"ithuriel_0006\"\n@イシューリエル\nいきますわよ!?\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたくしの身長はわかりますの？\n\n# se \"SE_0734\"\n# select  \"162cm\" \"select_label_1\" \"160cm\" \"select_label_2\" \"165cm\" \"select_label_3\"\nわたくしの身長はわかりますの？\n"
+	},
+	{
+		"ID": 2313,
+		"unitID": 2301411,
+		"questionID": 9301413,
+		"script": ";;3月16日,3\n# textflame 1 1\n# voice 3014 \"ithuriel_0001\"\n# face %(unit_a)s \"usual\"\n# eye %(unit_a)s \"close\"\n@イシューリエル\nマスター、\nわたくしの目は\n誤魔化されませんわ\n\n# eye %(unit_a)s \"normal\"\n@イシューリエル\n今日のデート中…\n\n# face %(unit_a)s \"smile\"\n# voice 3014 \"ithuriel_0004\"\n@イシューリエル\nずっとわたくしに\n見惚れていましたね？\n\n# voice 3014 \"ithuriel_0003\"\n# face %(unit_a)s \"usual\"\n@イシューリエル\nそれは嬉しいのですが、\nわたくしの可愛さだけでなく、\n心にも目を向けて欲しいものですわ\n\n# face %(unit_a)s \"smile\"\n@イシューリエル\nということで、\n今からクイズ出しても\nよろしいかしら？\n\n# voice 3014 \"ithuriel_0006\"\n@イシューリエル\nいきますわよ!?\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたくしの誕生日を\n答えて欲しいですの\n\n# se \"SE_0734\"\n# select  \"12月16日\" \"select_label_1\" \"8月16日\" \"select_label_2\" \"3月16日\" \"select_label_3\"\nわたくしの誕生日を\n答えて欲しいですの\n"
+	},
+	{
+		"ID": 2314,
+		"unitID": 2301411,
+		"questionID": 9301414,
+		"script": ";;うお座,1\n# textflame 1 1\n# voice 3014 \"ithuriel_0001\"\n# face %(unit_a)s \"usual\"\n# eye %(unit_a)s \"close\"\n@イシューリエル\nマスター、\nわたくしの目は\n誤魔化されませんわ\n\n# eye %(unit_a)s \"normal\"\n@イシューリエル\n今日のデート中…\n\n# face %(unit_a)s \"smile\"\n# voice 3014 \"ithuriel_0004\"\n@イシューリエル\nずっとわたくしに\n見惚れていましたね？\n\n# voice 3014 \"ithuriel_0003\"\n# face %(unit_a)s \"usual\"\n@イシューリエル\nそれは嬉しいのですが、\nわたくしの可愛さだけでなく、\n心にも目を向けて欲しいものですわ\n\n# face %(unit_a)s \"smile\"\n@イシューリエル\nということで、\n今からクイズ出しても\nよろしいかしら？\n\n# voice 3014 \"ithuriel_0006\"\n@イシューリエル\nいきますわよ!?\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたくしの星座を知っていますの？\n\n# se \"SE_0734\"\n# select  \"うお座\" \"select_label_1\" \"やぎ座\" \"select_label_2\" \"おとめ座\" \"select_label_3\"\nわたくしの星座を知っていますの？\n"
+	},
+	{
+		"ID": 2315,
+		"unitID": 2301411,
+		"questionID": 9301415,
+		"script": ";;カエル,2\n# textflame 1 1\n# voice 3014 \"ithuriel_0001\"\n# face %(unit_a)s \"usual\"\n# eye %(unit_a)s \"close\"\n@イシューリエル\nマスター、\nわたくしの目は\n誤魔化されませんわ\n\n# eye %(unit_a)s \"normal\"\n@イシューリエル\n今日のデート中…\n\n# face %(unit_a)s \"smile\"\n# voice 3014 \"ithuriel_0004\"\n@イシューリエル\nずっとわたくしに\n見惚れていましたね？\n\n# voice 3014 \"ithuriel_0003\"\n# face %(unit_a)s \"usual\"\n@イシューリエル\nそれは嬉しいのですが、\nわたくしの可愛さだけでなく、\n心にも目を向けて欲しいものですわ\n\n# face %(unit_a)s \"smile\"\n@イシューリエル\nということで、\n今からクイズ出しても\nよろしいかしら？\n\n# voice 3014 \"ithuriel_0006\"\n@イシューリエル\nいきますわよ!?\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたくしの好きなものを\nご存知ですの？\n\n# se \"SE_0734\"\n# select  \"ヘビ\" \"select_label_1\" \"カエル\" \"select_label_2\" \"パンダ\" \"select_label_3\"\nわたくしの好きなものを\nご存知ですの？\n"
+	},
+	{
+		"ID": 2316,
+		"unitID": 2301411,
+		"questionID": 9301416,
+		"script": ";;人間観察,3\n# textflame 1 1\n# voice 3014 \"ithuriel_0001\"\n# face %(unit_a)s \"usual\"\n# eye %(unit_a)s \"close\"\n@イシューリエル\nマスター、\nわたくしの目は\n誤魔化されませんわ\n\n# eye %(unit_a)s \"normal\"\n@イシューリエル\n今日のデート中…\n\n# face %(unit_a)s \"smile\"\n# voice 3014 \"ithuriel_0004\"\n@イシューリエル\nずっとわたくしに\n見惚れていましたね？\n\n# voice 3014 \"ithuriel_0003\"\n# face %(unit_a)s \"usual\"\n@イシューリエル\nそれは嬉しいのですが、\nわたくしの可愛さだけでなく、\n心にも目を向けて欲しいものですわ\n\n# face %(unit_a)s \"smile\"\n@イシューリエル\nということで、\n今からクイズ出しても\nよろしいかしら？\n\n# voice 3014 \"ithuriel_0006\"\n@イシューリエル\nいきますわよ!?\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたくしの趣味って\nお分かりになりますの…？\n\n# se \"SE_0734\"\n# select  \"アリの行列を観察\" \"select_label_1\" \"アサガオ観察\" \"select_label_2\" \"人間観察\" \"select_label_3\"\nわたくしの趣味って\nお分かりになりますの…？\n"
+	},
+	{
+		"ID": 2317,
+		"unitID": 2301411,
+		"questionID": 9301417,
+		"script": ";;Ａ型,1\n# textflame 1 1\n# voice 3014 \"ithuriel_0001\"\n# face %(unit_a)s \"usual\"\n# eye %(unit_a)s \"close\"\n@イシューリエル\nマスター、\nわたくしの目は\n誤魔化されませんわ\n\n# eye %(unit_a)s \"normal\"\n@イシューリエル\n今日のデート中…\n\n# face %(unit_a)s \"smile\"\n# voice 3014 \"ithuriel_0004\"\n@イシューリエル\nずっとわたくしに\n見惚れていましたね？\n\n# voice 3014 \"ithuriel_0003\"\n# face %(unit_a)s \"usual\"\n@イシューリエル\nそれは嬉しいのですが、\nわたくしの可愛さだけでなく、\n心にも目を向けて欲しいものですわ\n\n# face %(unit_a)s \"smile\"\n@イシューリエル\nということで、\n今からクイズ出しても\nよろしいかしら？\n\n# voice 3014 \"ithuriel_0006\"\n@イシューリエル\nいきますわよ!?\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたくしの血液型を\n知っていますの？\n\n# se \"SE_0734\"\n# select  \"Ａ型\" \"select_label_1\" \" Ｏ型\" \"select_label_2\" \"Ｂ型\" \"select_label_3\"\nわたくしの血液型を\n知っていますの？\n"
+	},
+	{
+		"ID": 2318,
+		"unitID": 2301411,
+		"questionID": 9301418,
+		"script": ";;エデン,2\n# textflame 1 1\n# voice 3014 \"ithuriel_0001\"\n# face %(unit_a)s \"usual\"\n# eye %(unit_a)s \"close\"\n@イシューリエル\nマスター、\nわたくしの目は\n誤魔化されませんわ\n\n# eye %(unit_a)s \"normal\"\n@イシューリエル\n今日のデート中…\n\n# face %(unit_a)s \"smile\"\n# voice 3014 \"ithuriel_0004\"\n@イシューリエル\nずっとわたくしに\n見惚れていましたね？\n\n# voice 3014 \"ithuriel_0003\"\n# face %(unit_a)s \"usual\"\n@イシューリエル\nそれは嬉しいのですが、\nわたくしの可愛さだけでなく、\n心にも目を向けて欲しいものですわ\n\n# face %(unit_a)s \"smile\"\n@イシューリエル\nということで、\n今からクイズ出しても\nよろしいかしら？\n\n# voice 3014 \"ithuriel_0006\"\n@イシューリエル\nいきますわよ!?\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたくしの出身地を\nお答えいただけます？\n\n# se \"SE_0734\"\n# select  \"オデン\" \"select_label_1\" \"エデン\" \"select_label_2\" \"スノーデン\" \"select_label_3\"\nわたくしの出身地を\nお答えいただけます？\n"
+	},
+	{
+		"ID": 2319,
+		"unitID": 2301411,
+		"questionID": 9301419,
+		"script": ";;チンワ,3\n# textflame 1 1\n# voice 3014 \"ithuriel_0001\"\n# face %(unit_a)s \"usual\"\n# eye %(unit_a)s \"close\"\n@イシューリエル\nマスター、\nわたくしの目は\n誤魔化されませんわ\n\n# eye %(unit_a)s \"normal\"\n@イシューリエル\n今日のデート中…\n\n# face %(unit_a)s \"smile\"\n# voice 3014 \"ithuriel_0004\"\n@イシューリエル\nずっとわたくしに\n見惚れていましたね？\n\n# voice 3014 \"ithuriel_0003\"\n# face %(unit_a)s \"usual\"\n@イシューリエル\nそれは嬉しいのですが、\nわたくしの可愛さだけでなく、\n心にも目を向けて欲しいものですわ\n\n# face %(unit_a)s \"smile\"\n@イシューリエル\nということで、\n今からクイズ出しても\nよろしいかしら？\n\n# voice 3014 \"ithuriel_0006\"\n@イシューリエル\nいきますわよ!?\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたくしの好きなものである\n「カエル」は中国語では\nなんというかご存知ですの？\n\n# se \"SE_0734\"\n# select  \"マタワ\" \"select_label_1\" \"シリワ\" \"select_label_2\" \"チンワ\" \"select_label_3\"\nわたくしの好きなものである\n「カエル」は中国語では\nなんというかご存知ですの？\n"
+	},
+	{
+		"ID": 2320,
+		"unitID": 2301411,
+		"questionID": 9301420,
+		"script": ";;ピパピパ,1\n# textflame 1 1\n# voice 3014 \"ithuriel_0001\"\n# face %(unit_a)s \"usual\"\n# eye %(unit_a)s \"close\"\n@イシューリエル\nマスター、\nわたくしの目は\n誤魔化されませんわ\n\n# eye %(unit_a)s \"normal\"\n@イシューリエル\n今日のデート中…\n\n# face %(unit_a)s \"smile\"\n# voice 3014 \"ithuriel_0004\"\n@イシューリエル\nずっとわたくしに\n見惚れていましたね？\n\n# voice 3014 \"ithuriel_0003\"\n# face %(unit_a)s \"usual\"\n@イシューリエル\nそれは嬉しいのですが、\nわたくしの可愛さだけでなく、\n心にも目を向けて欲しいものですわ\n\n# face %(unit_a)s \"smile\"\n@イシューリエル\nということで、\n今からクイズ出しても\nよろしいかしら？\n\n# voice 3014 \"ithuriel_0006\"\n@イシューリエル\nいきますわよ!?\n;;---------------------------------\n\n@%(unitName:unit_a)s\n「カエル」のクイズですの\nコモリガエルと呼ばれるのは\nどれかお分かりですの？ \n\n# se \"SE_0734\"\n# select  \"ピパピパ\" \"select_label_1\" \"ペリペリ\" \"select_label_2\" \"チュパチュパ\" \"select_label_3\"\n「カエル」のクイズですの\nコモリガエルと呼ばれるのは\nどれかお分かりですの？ \n"
+	},
+	{
+		"ID": 2321,
+		"unitID": 2301411,
+		"questionID": 9301421,
+		"script": ";;両生類,1\n# textflame 1 1\n# voice 3014 \"ithuriel_0001\"\n# face %(unit_a)s \"usual\"\n# eye %(unit_a)s \"close\"\n@イシューリエル\nマスター、\nわたくしの目は\n誤魔化されませんわ\n\n# eye %(unit_a)s \"normal\"\n@イシューリエル\n今日のデート中…\n\n# face %(unit_a)s \"smile\"\n# voice 3014 \"ithuriel_0004\"\n@イシューリエル\nずっとわたくしに\n見惚れていましたね？\n\n# voice 3014 \"ithuriel_0003\"\n# face %(unit_a)s \"usual\"\n@イシューリエル\nそれは嬉しいのですが、\nわたくしの可愛さだけでなく、\n心にも目を向けて欲しいものですわ\n\n# face %(unit_a)s \"smile\"\n@イシューリエル\nということで、\n今からクイズ出しても\nよろしいかしら？\n\n# voice 3014 \"ithuriel_0006\"\n@イシューリエル\nいきますわよ!?\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたくしの好きな\n「カエル」のクイズですの\nカエルが何類かはお分かりですの？\n\n# se \"SE_0734\"\n# select  \"両生類\" \"select_label_1\" \"爬虫類\" \"select_label_2\" \"人類\" \"select_label_3\"\nわたくしの好きな\n「カエル」のクイズですの\nカエルが何類かはお分かりですの？\n"
+	},
+	{
+		"ID": 2322,
+		"unitID": 2301411,
+		"questionID": 9301422,
+		"script": ";;神竜騎神,2\n# textflame 1 1\n# voice 3014 \"ithuriel_0001\"\n# face %(unit_a)s \"usual\"\n# eye %(unit_a)s \"close\"\n@イシューリエル\nマスター、\nわたくしの目は\n誤魔化されませんわ\n\n# eye %(unit_a)s \"normal\"\n@イシューリエル\n今日のデート中…\n\n# face %(unit_a)s \"smile\"\n# voice 3014 \"ithuriel_0004\"\n@イシューリエル\nずっとわたくしに\n見惚れていましたね？\n\n# voice 3014 \"ithuriel_0003\"\n# face %(unit_a)s \"usual\"\n@イシューリエル\nそれは嬉しいのですが、\nわたくしの可愛さだけでなく、\n心にも目を向けて欲しいものですわ\n\n# face %(unit_a)s \"smile\"\n@イシューリエル\nということで、\n今からクイズ出しても\nよろしいかしら？\n\n# voice 3014 \"ithuriel_0006\"\n@イシューリエル\nいきますわよ!?\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたくしの☆６のジョブ名\nおわかりですの…？\n\n# se \"SE_0734\"\n# select  \"神槍騎士\" \"select_label_1\" \"神竜騎神\" \"select_label_2\" \"竜騎神\" \"select_label_3\"\nわたくしの☆６のジョブ名\nおわかりですの…？\n"
+	},
+	{
+		"ID": 2323,
+		"unitID": 2301411,
+		"questionID": 9301423,
+		"script": ";;見切り,3\n# textflame 1 1\n# voice 3014 \"ithuriel_0001\"\n# face %(unit_a)s \"usual\"\n# eye %(unit_a)s \"close\"\n@イシューリエル\nマスター、\nわたくしの目は\n誤魔化されませんわ\n\n# eye %(unit_a)s \"normal\"\n@イシューリエル\n今日のデート中…\n\n# face %(unit_a)s \"smile\"\n# voice 3014 \"ithuriel_0004\"\n@イシューリエル\nずっとわたくしに\n見惚れていましたね？\n\n# voice 3014 \"ithuriel_0003\"\n# face %(unit_a)s \"usual\"\n@イシューリエル\nそれは嬉しいのですが、\nわたくしの可愛さだけでなく、\n心にも目を向けて欲しいものですわ\n\n# face %(unit_a)s \"smile\"\n@イシューリエル\nということで、\n今からクイズ出しても\nよろしいかしら？\n\n# voice 3014 \"ithuriel_0006\"\n@イシューリエル\nいきますわよ!?\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたくしが覚える\nコマンドスキルは\nどれかお分かりですの？\n\n# se \"SE_0734\"\n# select  \"雷切\" \"select_label_1\" \"値切り\" \"select_label_2\" \"見切り\" \"select_label_3\"\nわたくしが覚える\nコマンドスキルは\nどれかお分かりですの？\n"
+	},
+	{
+		"ID": 2324,
+		"unitID": 2301411,
+		"questionID": 9301424,
+		"script": ";;光騎神の極風,1\n# textflame 1 1\n# voice 3014 \"ithuriel_0001\"\n# face %(unit_a)s \"usual\"\n# eye %(unit_a)s \"close\"\n@イシューリエル\nマスター、\nわたくしの目は\n誤魔化されませんわ\n\n# eye %(unit_a)s \"normal\"\n@イシューリエル\n今日のデート中…\n\n# face %(unit_a)s \"smile\"\n# voice 3014 \"ithuriel_0004\"\n@イシューリエル\nずっとわたくしに\n見惚れていましたね？\n\n# voice 3014 \"ithuriel_0003\"\n# face %(unit_a)s \"usual\"\n@イシューリエル\nそれは嬉しいのですが、\nわたくしの可愛さだけでなく、\n心にも目を向けて欲しいものですわ\n\n# face %(unit_a)s \"smile\"\n@イシューリエル\nということで、\n今からクイズ出しても\nよろしいかしら？\n\n# voice 3014 \"ithuriel_0006\"\n@イシューリエル\nいきますわよ!?\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたくしの☆６のリーダースキル\nおわかりですの…？\n\n# se \"SE_0734\"\n# select  \"光騎神の極風\" \"select_label_1\" \"光騎神の突風\" \"select_label_2\" \"光騎神の微風\" \"select_label_3\"\nわたくしの☆６のリーダースキル\nおわかりですの…？\n"
+	},
+	{
+		"ID": 2325,
+		"unitID": 2301411,
+		"questionID": 9301425,
+		"script": ";;洞察力,2\n# textflame 1 1\n# voice 3014 \"ithuriel_0001\"\n# face %(unit_a)s \"usual\"\n# eye %(unit_a)s \"close\"\n@イシューリエル\nマスター、\nわたくしの目は\n誤魔化されませんわ\n\n# eye %(unit_a)s \"normal\"\n@イシューリエル\n今日のデート中…\n\n# face %(unit_a)s \"smile\"\n# voice 3014 \"ithuriel_0004\"\n@イシューリエル\nずっとわたくしに\n見惚れていましたね？\n\n# voice 3014 \"ithuriel_0003\"\n# face %(unit_a)s \"usual\"\n@イシューリエル\nそれは嬉しいのですが、\nわたくしの可愛さだけでなく、\n心にも目を向けて欲しいものですわ\n\n# face %(unit_a)s \"smile\"\n@イシューリエル\nということで、\n今からクイズ出しても\nよろしいかしら？\n\n# voice 3014 \"ithuriel_0006\"\n@イシューリエル\nいきますわよ!?\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたくしは\nこれに優れているとよく言われますの\n\n# se \"SE_0734\"\n# select  \"恫喝力\" \"select_label_1\" \"洞察力\" \"select_label_2\" \"盗撮力\" \"select_label_3\"\nわたくしは\nこれに優れているとよく言われますの\n"
+	},
+	{
+		"ID": 2326,
+		"unitID": 2301411,
+		"questionID": 9301426,
+		"script": ";;これぞトゥルース,3\n# textflame 1 1\n# voice 3014 \"ithuriel_0001\"\n# face %(unit_a)s \"usual\"\n# eye %(unit_a)s \"close\"\n@イシューリエル\nマスター、\nわたくしの目は\n誤魔化されませんわ\n\n# eye %(unit_a)s \"normal\"\n@イシューリエル\n今日のデート中…\n\n# face %(unit_a)s \"smile\"\n# voice 3014 \"ithuriel_0004\"\n@イシューリエル\nずっとわたくしに\n見惚れていましたね？\n\n# voice 3014 \"ithuriel_0003\"\n# face %(unit_a)s \"usual\"\n@イシューリエル\nそれは嬉しいのですが、\nわたくしの可愛さだけでなく、\n心にも目を向けて欲しいものですわ\n\n# face %(unit_a)s \"smile\"\n@イシューリエル\nということで、\n今からクイズ出しても\nよろしいかしら？\n\n# voice 3014 \"ithuriel_0006\"\n@イシューリエル\nいきますわよ!?\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたくしのキメ台詞は\nお分かりですよね？\n\n# se \"SE_0734\"\n# select  \"これぞコンチャース\" \"select_label_1\" \"これぞチワース\" \"select_label_2\" \"これぞトゥルース\" \"select_label_3\"\nわたくしのキメ台詞は\nお分かりですよね？\n"
+	},
+	{
+		"ID": 2327,
+		"unitID": 2301411,
+		"questionID": 9301427,
+		"script": ";;ヤドクガエル,1\n# textflame 1 1\n# voice 3014 \"ithuriel_0001\"\n# face %(unit_a)s \"usual\"\n# eye %(unit_a)s \"close\"\n@イシューリエル\nマスター、\nわたくしの目は\n誤魔化されませんわ\n\n# eye %(unit_a)s \"normal\"\n@イシューリエル\n今日のデート中…\n\n# face %(unit_a)s \"smile\"\n# voice 3014 \"ithuriel_0004\"\n@イシューリエル\nずっとわたくしに\n見惚れていましたね？\n\n# voice 3014 \"ithuriel_0003\"\n# face %(unit_a)s \"usual\"\n@イシューリエル\nそれは嬉しいのですが、\nわたくしの可愛さだけでなく、\n心にも目を向けて欲しいものですわ\n\n# face %(unit_a)s \"smile\"\n@イシューリエル\nということで、\n今からクイズ出しても\nよろしいかしら？\n\n# voice 3014 \"ithuriel_0006\"\n@イシューリエル\nいきますわよ!?\n;;---------------------------------\n\n@%(unitName:unit_a)s\n「カエル」のクイズですの\nその毒を吹き矢に塗った事が\n由来となっているカエルは？\n\n# se \"SE_0734\"\n# select  \"ヤドクガエル\" \"select_label_1\" \"アマガエル\" \"select_label_2\" \"ガマガエル\" \"select_label_3\"\n「カエル」のクイズですの\nその毒を吹き矢に塗った事が\n由来となっているカエルは？\n"
+	},
+	{
+		"ID": 2328,
+		"unitID": 2301411,
+		"questionID": 9301428,
+		"script": ";;スウィートアイズ,2\n# textflame 1 1\n# voice 3014 \"ithuriel_0001\"\n# face %(unit_a)s \"usual\"\n# eye %(unit_a)s \"close\"\n@イシューリエル\nマスター、\nわたくしの目は\n誤魔化されませんわ\n\n# eye %(unit_a)s \"normal\"\n@イシューリエル\n今日のデート中…\n\n# face %(unit_a)s \"smile\"\n# voice 3014 \"ithuriel_0004\"\n@イシューリエル\nずっとわたくしに\n見惚れていましたね？\n\n# voice 3014 \"ithuriel_0003\"\n# face %(unit_a)s \"usual\"\n@イシューリエル\nそれは嬉しいのですが、\nわたくしの可愛さだけでなく、\n心にも目を向けて欲しいものですわ\n\n# face %(unit_a)s \"smile\"\n@イシューリエル\nということで、\n今からクイズ出しても\nよろしいかしら？\n\n# voice 3014 \"ithuriel_0006\"\n@イシューリエル\nいきますわよ!?\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたくしが習得したスキルは\n覚えていますの？\n\n# se \"SE_0734\"\n# select  \"スウィートメモリー\" \"select_label_1\" \"スウィートアイズ\" \"select_label_2\" \"スウィートペイン\" \"select_label_3\"\nわたくしが習得したスキルは\n覚えていますの？\n"
+	},
+	{
+		"ID": 2329,
+		"unitID": 2301411,
+		"questionID": 9301429,
+		"script": ";;ジャッジドアイズ,3\n# textflame 1 1\n# voice 3014 \"ithuriel_0001\"\n# face %(unit_a)s \"usual\"\n# eye %(unit_a)s \"close\"\n@イシューリエル\nマスター、\nわたくしの目は\n誤魔化されませんわ\n\n# eye %(unit_a)s \"normal\"\n@イシューリエル\n今日のデート中…\n\n# face %(unit_a)s \"smile\"\n# voice 3014 \"ithuriel_0004\"\n@イシューリエル\nずっとわたくしに\n見惚れていましたね？\n\n# voice 3014 \"ithuriel_0003\"\n# face %(unit_a)s \"usual\"\n@イシューリエル\nそれは嬉しいのですが、\nわたくしの可愛さだけでなく、\n心にも目を向けて欲しいものですわ\n\n# face %(unit_a)s \"smile\"\n@イシューリエル\nということで、\n今からクイズ出しても\nよろしいかしら？\n\n# voice 3014 \"ithuriel_0006\"\n@イシューリエル\nいきますわよ!?\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたくしが習得したスキルは\n覚えていますの？\n\n# se \"SE_0734\"\n# select  \"ジャッジドハンズ\" \"select_label_1\" \"ジャッジドノーズ\" \"select_label_2\" \"ジャッジドアイズ\" \"select_label_3\"\nわたくしが習得したスキルは\n覚えていますの？\n"
+	},
+	{
+		"ID": 2330,
+		"unitID": 2301411,
+		"questionID": 9301430,
+		"script": ";;アンジュ,1\n# textflame 1 1\n# voice 3014 \"ithuriel_0001\"\n# face %(unit_a)s \"usual\"\n# eye %(unit_a)s \"close\"\n@イシューリエル\nマスター、\nわたくしの目は\n誤魔化されませんわ\n\n# eye %(unit_a)s \"normal\"\n@イシューリエル\n今日のデート中…\n\n# face %(unit_a)s \"smile\"\n# voice 3014 \"ithuriel_0004\"\n@イシューリエル\nずっとわたくしに\n見惚れていましたね？\n\n# voice 3014 \"ithuriel_0003\"\n# face %(unit_a)s \"usual\"\n@イシューリエル\nそれは嬉しいのですが、\nわたくしの可愛さだけでなく、\n心にも目を向けて欲しいものですわ\n\n# face %(unit_a)s \"smile\"\n@イシューリエル\nということで、\n今からクイズ出しても\nよろしいかしら？\n\n# voice 3014 \"ithuriel_0006\"\n@イシューリエル\nいきますわよ!?\n;;---------------------------------\n\n@%(unitName:unit_a)s\n『イシューリエル』とは\n天使の名前なのですが\n『天使』をフランス語で言うと？\n\n# se \"SE_0734\"\n# select  \"アンジュ\" \"select_label_1\" \"インジュ\" \"select_label_2\" \"バンジュ\" \"select_label_3\"\n『イシューリエル』とは\n天使の名前なのですが\n『天使』をフランス語で言うと？\n"
+	},
+	{
+		"ID": 2331,
+		"unitID": 2301411,
+		"questionID": 9301431,
+		"script": ";;アンジェロ,1\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n@イシューリエル\nあなたはわたくしを\nどれほど想って下さって\nいるのか…\n\n@イシューリエル\n推察と検証を重ねた…\n証拠が欲しい\n\n# voice 3014 \"ithuriel_0003\"\n# face %(unit_a)s \"angry\"\n@イシューリエル\nそう、愛の証拠が！\n\n# eye %(unit_a)s \"close\"\n@イシューリエル\nということで、\nわたくしのことを\nどれほど知って下さっているか…\n\n# voice 3014 \"ithuriel_0005\"\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"smile\"\n@イシューリエル\nテストさせて頂きますわね♪\n;;---------------------------------\n\n@%(unitName:unit_a)s\n『イシューリエル』とは\n天使の名前なのですが\n『天使』をイタリア語で言うと？\n\n# se \"SE_0734\"\n# select \"アンジェロ\" \"select_label_1\" \"ジェロニモ\" \"select_label_2\" \"エンジーナロ\" \"select_label_3\"\n『イシューリエル』とは\n天使の名前なのですが\n『天使』をイタリア語で言うと？\n"
+	},
+	{
+		"ID": 2332,
+		"unitID": 2301411,
+		"questionID": 9301432,
+		"script": ";;Pisces,2\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n@イシューリエル\nあなたはわたくしを\nどれほど想って下さって\nいるのか…\n\n@イシューリエル\n推察と検証を重ねた…\n証拠が欲しい\n\n# voice 3014 \"ithuriel_0003\"\n# face %(unit_a)s \"angry\"\n@イシューリエル\nそう、愛の証拠が！\n\n# eye %(unit_a)s \"close\"\n@イシューリエル\nということで、\nわたくしのことを\nどれほど知って下さっているか…\n\n# voice 3014 \"ithuriel_0005\"\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"smile\"\n@イシューリエル\nテストさせて頂きますわね♪\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたくしの星座を\n英語で言えますかしら？\n\n# se \"SE_0734\"\n# select \"Capricorn\" \"select_label_1\" \"Pisces\" \"select_label_2\" \"Gemini\" \"select_label_3\"\nわたくしの星座を\n英語で言えますかしら？\n"
+	},
+	{
+		"ID": 2333,
+		"unitID": 2301411,
+		"questionID": 9301433,
+		"script": ";;March,3\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n@イシューリエル\nあなたはわたくしを\nどれほど想って下さって\nいるのか…\n\n@イシューリエル\n推察と検証を重ねた…\n証拠が欲しい\n\n# voice 3014 \"ithuriel_0003\"\n# face %(unit_a)s \"angry\"\n@イシューリエル\nそう、愛の証拠が！\n\n# eye %(unit_a)s \"close\"\n@イシューリエル\nということで、\nわたくしのことを\nどれほど知って下さっているか…\n\n# voice 3014 \"ithuriel_0005\"\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"smile\"\n@イシューリエル\nテストさせて頂きますわね♪\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたくしの誕生月を\n英語で答えて下さいます？\n\n# se \"SE_0734\"\n# select \"September\" \"select_label_1\" \"June\" \"select_label_2\" \"March\" \"select_label_3\"\nわたくしの誕生月を\n英語で答えて下さいます？\n"
+	},
+	{
+		"ID": 2334,
+		"unitID": 2301411,
+		"questionID": 9301434,
+		"script": ";;金髪,1\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n@イシューリエル\nあなたはわたくしを\nどれほど想って下さって\nいるのか…\n\n@イシューリエル\n推察と検証を重ねた…\n証拠が欲しい\n\n# voice 3014 \"ithuriel_0003\"\n# face %(unit_a)s \"angry\"\n@イシューリエル\nそう、愛の証拠が！\n\n# eye %(unit_a)s \"close\"\n@イシューリエル\nということで、\nわたくしのことを\nどれほど知って下さっているか…\n\n# voice 3014 \"ithuriel_0005\"\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"smile\"\n@イシューリエル\nテストさせて頂きますわね♪\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたくしの髪の色は…？\n\n# se \"SE_0734\"\n# select \"金髪\" \"select_label_1\" \"赤髪\" \"select_label_2\" \"青髪\" \"select_label_3\"\nわたくしの髪の色は…？\n"
+	},
+	{
+		"ID": 2335,
+		"unitID": 2301411,
+		"questionID": 9301435,
+		"script": ";;メギド,2\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n@イシューリエル\nあなたはわたくしを\nどれほど想って下さって\nいるのか…\n\n@イシューリエル\n推察と検証を重ねた…\n証拠が欲しい\n\n# voice 3014 \"ithuriel_0003\"\n# face %(unit_a)s \"angry\"\n@イシューリエル\nそう、愛の証拠が！\n\n# eye %(unit_a)s \"close\"\n@イシューリエル\nということで、\nわたくしのことを\nどれほど知って下さっているか…\n\n# voice 3014 \"ithuriel_0005\"\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"smile\"\n@イシューリエル\nテストさせて頂きますわね♪\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたくしが敬意を払う\nキラープリンセスはどなたか\nお分かりになりますの？\n\n# se \"SE_0734\"\n# select \"ローザ\" \"select_label_1\" \"メギド\" \"select_label_2\" \"アイムール\" \"select_label_3\"\nわたくしが敬意を払う\nキラープリンセスはどなたか\nお分かりになりますの？\n"
+	},
+	{
+		"ID": 2336,
+		"unitID": 2301411,
+		"questionID": 9301436,
+		"script": ";;ロンギヌス,3\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n@イシューリエル\nあなたはわたくしを\nどれほど想って下さって\nいるのか…\n\n@イシューリエル\n推察と検証を重ねた…\n証拠が欲しい\n\n# voice 3014 \"ithuriel_0003\"\n# face %(unit_a)s \"angry\"\n@イシューリエル\nそう、愛の証拠が！\n\n# eye %(unit_a)s \"close\"\n@イシューリエル\nということで、\nわたくしのことを\nどれほど知って下さっているか…\n\n# voice 3014 \"ithuriel_0005\"\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"smile\"\n@イシューリエル\nテストさせて頂きますわね♪\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたくしが敬意を払う\nキラープリンセスはどなたか\nお分かりになりますの？\n\n# se \"SE_0734\"\n# select \"シユウ\" \"select_label_1\" \"ダグダ\" \"select_label_2\" \"ロンギヌス\" \"select_label_3\"\nわたくしが敬意を払う\nキラープリンセスはどなたか\nお分かりになりますの？\n"
+	},
+	{
+		"ID": 2337,
+		"unitID": 2301411,
+		"questionID": 9301437,
+		"script": ";;疑い深い,1\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n@イシューリエル\nあなたはわたくしを\nどれほど想って下さって\nいるのか…\n\n@イシューリエル\n推察と検証を重ねた…\n証拠が欲しい\n\n# voice 3014 \"ithuriel_0003\"\n# face %(unit_a)s \"angry\"\n@イシューリエル\nそう、愛の証拠が！\n\n# eye %(unit_a)s \"close\"\n@イシューリエル\nということで、\nわたくしのことを\nどれほど知って下さっているか…\n\n# voice 3014 \"ithuriel_0005\"\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"smile\"\n@イシューリエル\nテストさせて頂きますわね♪\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたくしの性格として\n合っているものは\nどれかお分かりになりますの？\n\n# se \"SE_0734\"\n# select \"疑い深い\" \"select_label_1\" \"嫉妬深い\" \"select_label_2\" \"笑いのツボが浅い\" \"select_label_3\"\nわたくしの性格として\n合っているものは\nどれかお分かりになりますの？\n"
+	},
+	{
+		"ID": 2338,
+		"unitID": 2301411,
+		"questionID": 9301438,
+		"script": ";;蛙,2\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n@イシューリエル\nあなたはわたくしを\nどれほど想って下さって\nいるのか…\n\n@イシューリエル\n推察と検証を重ねた…\n証拠が欲しい\n\n# voice 3014 \"ithuriel_0003\"\n# face %(unit_a)s \"angry\"\n@イシューリエル\nそう、愛の証拠が！\n\n# eye %(unit_a)s \"close\"\n@イシューリエル\nということで、\nわたくしのことを\nどれほど知って下さっているか…\n\n# voice 3014 \"ithuriel_0005\"\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"smile\"\n@イシューリエル\nテストさせて頂きますわね♪\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたくしの好きな\n「カエル」のクイズですの\nカエルを漢字で書くと？\n\n# se \"SE_0734\"\n# select \"蜻\" \"select_label_1\" \"蛙\" \"select_label_2\" \"蛉\" \"select_label_3\"\nわたくしの好きな\n「カエル」のクイズですの\nカエルを漢字で書くと？\n"
+	},
+	{
+		"ID": 2339,
+		"unitID": 2301411,
+		"questionID": 9301439,
+		"script": ";;リットゥ,3\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n@イシューリエル\nあなたはわたくしを\nどれほど想って下さって\nいるのか…\n\n@イシューリエル\n推察と検証を重ねた…\n証拠が欲しい\n\n# voice 3014 \"ithuriel_0003\"\n# face %(unit_a)s \"angry\"\n@イシューリエル\nそう、愛の証拠が！\n\n# eye %(unit_a)s \"close\"\n@イシューリエル\nということで、\nわたくしのことを\nどれほど知って下さっているか…\n\n# voice 3014 \"ithuriel_0005\"\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"smile\"\n@イシューリエル\nテストさせて頂きますわね♪\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたくしと仲の良い方は\nこの中で誰かわかりますの？\n\n# se \"SE_0734\"\n# select \"シタ\" \"select_label_1\" \"蜻蛉切\" \"select_label_2\" \"リットゥ\" \"select_label_3\"\nわたくしと仲の良い方は\nこの中で誰かわかりますの？\n"
+	},
+	{
+		"ID": 2340,
+		"unitID": 2301411,
+		"questionID": 9301440,
+		"script": ";;シェキナー,1\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n@イシューリエル\nあなたはわたくしを\nどれほど想って下さって\nいるのか…\n\n@イシューリエル\n推察と検証を重ねた…\n証拠が欲しい\n\n# voice 3014 \"ithuriel_0003\"\n# face %(unit_a)s \"angry\"\n@イシューリエル\nそう、愛の証拠が！\n\n# eye %(unit_a)s \"close\"\n@イシューリエル\nということで、\nわたくしのことを\nどれほど知って下さっているか…\n\n# voice 3014 \"ithuriel_0005\"\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"smile\"\n@イシューリエル\nテストさせて頂きますわね♪\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたくしと仲の良い方は\nこの中で誰かわかりますの？\n\n# se \"SE_0734\"\n# select \"シェキナー\" \"select_label_1\" \"アバリス\" \"select_label_2\" \"フォルカス\" \"select_label_3\"\nわたくしと仲の良い方は\nこの中で誰かわかりますの？\n"
+	},
+	{
+		"ID": 2341,
+		"unitID": 2301411,
+		"questionID": 9301441,
+		"script": "\n;;わたくし,1\n# se \"SE_0734\"\n# select \"わたくし\" \"select_label_1\" \"わたし\" \"select_label_2\" \"あたし\" \"select_label_3\"\nイシューリエルの一人称は\n次のうちどれ？\n"
+	},
+	{
+		"ID": 2342,
+		"unitID": 2301411,
+		"questionID": 9301442,
+		"script": "\n;;マスター,2\n# se \"SE_0734\"\n# select \"ご主人\" \"select_label_1\" \"マスター\" \"select_label_2\" \"貴様\" \"select_label_3\"\nイシューリエルはアンタのこと、\nなんて呼んでる？\n"
+	},
+	{
+		"ID": 2343,
+		"unitID": 2301411,
+		"questionID": 9301443,
+		"script": "\n;;83,3\n# se \"SE_0734\"\n# select \"81\" \"select_label_1\" \"85\" \"select_label_2\" \"83\" \"select_label_3\"\nイシューリエルの\nバストサイズがどのくらいか\nアンタ…知ってるの\n"
+	},
+	{
+		"ID": 2344,
+		"unitID": 2301411,
+		"questionID": 9301444,
+		"script": "\n;;59,1\n# se \"SE_0734\"\n# select \"59\" \"select_label_1\" \"55\" \"select_label_2\" \"61\" \"select_label_3\"\nイシューリエルの\nウエストサイズがどのくらいか\nアンタ…知ってるの？\n"
+	},
+	{
+		"ID": 2345,
+		"unitID": 2301411,
+		"questionID": 9301445,
+		"script": "\n;;83,2\n# se \"SE_0734\"\n# select \"80\" \"select_label_1\" \"83\" \"select_label_2\" \"86\" \"select_label_3\"\nイシューリエルの\nヒップサイズがどのくらいか\nアンタ…知ってるの？\n"
+	},
+	{
+		"ID": 2346,
+		"unitID": 2301411,
+		"questionID": 9301446,
+		"script": "\n;;47,3\n# se \"SE_0734\"\n# select \"42\" \"select_label_1\" \"48\" \"select_label_2\" \"47\" \"select_label_3\"\nイシューリエルの体重は\n次のうちどれ？\n"
+	},
+	{
+		"ID": 2347,
+		"unitID": 2301411,
+		"questionID": 9301447,
+		"script": "\n;;225,1\n# se \"SE_0734\"\n# select \"225\" \"select_label_1\" \"216\" \"select_label_2\" \"232\" \"select_label_3\"\nイシューリエルの\nバスト＋ウエスト＋ヒップは\nいくつかわかる？\n"
+	},
+	{
+		"ID": 2348,
+		"unitID": 2301411,
+		"questionID": 9301448,
+		"script": "\n;;水色,2\n# se \"SE_0734\"\n# select \"赤色\" \"select_label_1\" \"水色\" \"select_label_2\" \"黄色\" \"select_label_3\"\nイシューリエルの水着の色は\n次のうちどれ？\n"
+	},
+	{
+		"ID": 2349,
+		"unitID": 2301411,
+		"questionID": 9301449,
+		"script": "\n;;29位,3\n# se \"SE_0734\"\n# select \"28位\" \"select_label_1\" \"27位\" \"select_label_2\" \"29位\" \"select_label_3\"\nイシューリエルは\n第２回人気投票で\n何位だったでしょう？\n"
+	},
+	{
+		"ID": 2350,
+		"unitID": 2301411,
+		"questionID": 9301450,
+		"script": "\n;;村川梨衣,1\n# se \"SE_0734\"\n# select \"村川梨衣\" \"select_label_1\" \"山本希望\" \"select_label_2\" \"小岩井ことり\" \"select_label_3\"\nイシューリエルの声優は誰？\n"
+	}
+]

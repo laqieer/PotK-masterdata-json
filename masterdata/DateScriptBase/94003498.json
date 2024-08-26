@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 94003498,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# se \"SE_0733\"\n# face %(unit_a)s \"sad\"\n@アポロン\nざーんねーんでしたー！\n\n# voice 4003 \"aporon_0008\"\n@アポロン\nマスター…\nそれじゃダメダメだよ？\n\n@アポロン\nボクのこと知らなすぎぃ…\nそんなんじゃ、\nこの先心配になっちゃうかもだし…\n\n# face %(unit_a)s \"normal\"\n@アポロン\nだからマスターは、\nこれから先も、\nちゃんとボクのことを見るよーに！\n\n@アポロン\nボクだって、\nお姉ちゃんだけじゃなく、\nマスターのことも大事なわけだし…\n\n# voice 4003 \"aporon_0010\"\n# face %(unit_a)s \"angry\"\n@アポロン\nん～～もぉっ！とにかく！\n今度間違ったら、\nただじゃおかないから！\n\n# face %(unit_a)s \"sad\"\n@アポロン\nはぁ…帰ってお姉ちゃんに、\nいっぱい甘えたいよぉ～\n\n# textflame 0 0\n@\nぐったりとした様子でいるアポロン…\nどれだけ期待してたのかが、\n伝わってくるようだった…\n\n@\n彼女の様子を見ながらマスターは、\n今度こそはと、意気込むのであった…\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 302512,
+		"script": "# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_park_night\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n@ミネルヴァ\nいいえ、眠くなんて…\n\n# voice 3025 \"minerva_0004\"\n# face %(unit_a)s \"smile\"\n@ミネルヴァ\n実は…\nもうしばらくここにいたいって\nそれだけを言いたかったんです…\n\n# textflame 0 0\n@\nそれなら\nもっとゆっくりできるように\n肩を貸そうか？とマスター\n\n# face %(unit_a)s \"sad\"\n# textflame 0 0\n@\nミネルヴァは一瞬驚いたものの…\n\n# face %(unit_a)s \"normal\"\n# textflame 1 1\n@ミネルヴァ\nほ、本当によろしいのですか？\n\n# textflame 0 0\n@\nマスターは頷いた\n\n# textflame 1 1\n@ミネルヴァ\nあ、ありがとうございます\nそれじゃあ、お言葉に甘えて…\n\n# textflame 0 0\n@\nミネルヴァがその小さな体を\nこちらに預けてくる\n\n# voice 3025 \"minerva_0005\"\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@ミネルヴァ\nマスターは優しいですね…\n\n\n# eye %(unit_a)s \"close\"\n@ミネルヴァ\n…………\n\n# textflame 0 0\n@\nよほど信頼してくれているのか\n程なくして、寝息がきこえてくる\nとてもあどけない寝顔だ…\n\n@\n胸の奥から愛おしさで\n満たされていくマスターだった\n\n# waitandnext 2\n# fadeout \"black\" 1.2\n"
+	}
+]

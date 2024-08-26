@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 601711,
+		"script": ";;B:生き生きしてるね\n;;C:こういうのが好きなんだね\n;;A:飲み過ぎはよくないよ\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background %(background)s\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 0 0\n@\nマスターはアクアを誘って\n夜の街を歩くことにした\n\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n@アクア\nうふふふっ、さすがはマスター\n私が行きたい場所が\nよく分かってるわね！\n\n# face %(unit_a)s \"usual\"\n@アクア\nあ、ねえねえ、あのお店、\nシュワシュワ一杯半額ですって！\n\n@アクア\nそれに、あの屋台の串焼き\n美味しそう！\n\n@アクア\nおじさ～ん！\nそれひとつちょうだい！\n\n# face %(unit_a)s \"smile\"\n@アクア\n…ん～、おいし～\n\n# textflames 0 0\n@\n夜の街を歩くアクアは\n輝いていた\n\n# textflames 0 0\n@\nそれを見ているだけで\nマスターも楽しくなる\n\n# textflames 0 0\n@\nいつの間にか彼女は\n屋台のテーブルに陣取って\nシュワシュワを飲んでいた\n;;----------------------------------------\n\n# select \"飲み過ぎはよくないよ\" \"select_label_01\" \"生き生きしてるね\" \"select_label_02\" \"こういうのが好きなんだね\" \"select_label_03\"\nいつの間にか彼女は\n屋台のテーブルに陣取って\nシュワシュワを飲んでいた\n\n# label \"select_label_01\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_02\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_03\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_end\"\n# waitandnext 0.1\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

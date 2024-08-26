@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 200713,
+		"script": "# script \"lisp\"\n# fadein \"black\" 0.5\n# background %(background)s\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# voice 2007 \"sharuuru_0022\"\n# face %(unit_a)s \"sad\"\n@シャルウル\nそうだったのですか…！？\n\n# face %(unit_a)s \"smile\"\n# voice 2007 \"sharuuru_0004\"\n@シャルウル\nまさかマスターと\n同好の士であったなんて、\n嬉しいです♪\n\n@シャルウル\nであれば、\nあの布についても\nもちろんご存じですよね？\n\n# face %(unit_a)s \"normal\"\n# voice 2007 \"sharuuru_0003\"\n@シャルウル\nあの伝説的な\n人物が使用していたという\nハンカチの切れ端です！\n\n@シャルウル\nやはり伝説の存在となれば、\nハンカチも伝説的…\n\n# face %(unit_a)s \"sad\"\n@シャルウル\nえ、なんですか？\nあちらの展示がすごいんですか…？\n\n# voice 2007 \"sharuuru_0022\"\n@シャルウル\nはっ、あれは\nメガネの化石！？\n\n@シャルウル\nよくこの時代まで破壊されずに\n残っていたものです…\n\n# face %(unit_a)s \"smile\"\n@シャルウル\nマスターは\n新館のほうがおすすめなんですか？\nそれは楽しみです！\n\n# textflame 0 0\n@\n珍しくはしゃぐ彼女の\n意外な一面に触れたのだった\n;;--------------------------------------\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

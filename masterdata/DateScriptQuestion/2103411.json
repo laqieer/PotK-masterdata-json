@@ -1,0 +1,62 @@
+[
+	{
+		"ID": 4356,
+		"unitID": 2103411,
+		"questionID": 9103401,
+		"script": ";;■□■クイズ導入パターン1_ダクネス\n# textflame 1 1\n# voice 1034 \"dakunesu_0001\"\n# face %(unit_a)s \"usual\"\n@ダクネス\nマスター\n少しだけいいか？\n\n# textflame 1 1\n@ダクネス\n実は確認したいことがあるのだ\n\n# face %(unit_a)s \"smile\"\n# voice 1034 \"dakunesu_0003\"\n@ダクネス\n試すわけではないのだが\nマスターがどれだけ私を知っているか\nそれが知りたい\n\n@ダクネス\n今から私についての問題を出す\nだから答えてほしい\n\n@ダクネス\nでは、いくぞ\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私の武具種は分かるか？　\n\n;;剣\n# se \"SE_0734\"\n# select \"剣\" \"select_label_1\" \"銃\" \"select_label_2\" \"槍\" \"select_label_3\"\n私の武具種は分かるか？\n"
+	},
+	{
+		"ID": 4357,
+		"unitID": 2103411,
+		"questionID": 9103402,
+		"script": ";;■□■クイズ導入パターン1_ダクネス\n# textflame 1 1\n# voice 1034 \"dakunesu_0001\"\n# face %(unit_a)s \"normal\"\n@ダクネス\nマスター\n少しだけいいか？\n\n# textflame 1 1\n@ダクネス\n実は確認したいことがあるのだ\n\n# face %(unit_a)s \"smile\"\n# voice 1034 \"dakunesu_0003\"\n@ダクネス\n試すわけではないのだが\nマスターがどれだけ私を知っているか\nそれが知りたい\n\n# face %(unit_a)s \"usual\"\n@ダクネス\n今から私についての問題を出す\nだから答えてほしい\n\n@ダクネス\nでは、いくぞ\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私の冒険者としての職業はどれだ？\n\n;;クルセイダー\n# se \"SE_0734\"\n# select \"アークウィザード\" \"select_label_1\" \"クルセイダー\" \"select_label_2\" \"アークプリースト\" \"select_label_3\"\n私の冒険者としての職業はどれだ？\n"
+	},
+	{
+		"ID": 4358,
+		"unitID": 2103411,
+		"questionID": 9103403,
+		"script": "\n;;雷\n# se \"SE_0734\"\n# select \"炎\" \"select_label_1\" \"氷\" \"select_label_2\" \"雷\" \"select_label_3\"\nこのすばコラボでの\nダクネスの属性は？\n"
+	},
+	{
+		"ID": 4359,
+		"unitID": 2103411,
+		"questionID": 9103404,
+		"script": ";;■□■クイズ導入パターン2_ダクネス\n# textflame 1 1\n# voice 1034 \"dakunesu_0001\"\n# face %(unit_a)s \"normal\"\n@ダクネス\nマスター\n\n# face %(unit_a)s \"smile\"\n# voice 1034 \"dakunesu_0003\"\n@ダクネス\n私もこの世界にきてしばらく経つ\nそこでこの機会に\n確かめておきたいことがある\n\n@ダクネス\nどれだけ私を理解しているか、\nそれを今日は知りたい\n\n# face %(unit_a)s \"usual\"\n@ダクネス\n準備はできているか？\nでは私について答えてくれ\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私と一緒に\nこの世界にやってきたのは？\n\n;;アクア\n# se \"SE_0734\"\n# select \"アクア\" \"select_label_1\" \"アリア\" \"select_label_2\" \"マリア\" \"select_label_3\"\n私と一緒に\nこの世界にやってきたのは？\n"
+	},
+	{
+		"ID": 4360,
+		"unitID": 2103411,
+		"questionID": 9103405,
+		"script": ";;■□■クイズ導入パターン3_ダクネス\n# textflame 1 1\n# voice 1034 \"dakunesu_0001\"\n# face %(unit_a)s \"normal\"\n@ダクネス\n突然だが確認したいことがある\n\n# face %(unit_a)s \"smile\"\n# voice 1034 \"dakunesu_0003\"\n@ダクネス\nマスターはいつも\n私に何やら熱い\n視線を送っているだろう？\n\n@ダクネス\nいや、それはいいんだ\n…むしろ、それがいいんだ\n\n# face %(unit_a)s \"shy\"\n@ダクネス\nだが私は\nその視線で\nマスターが私の何を捕らえたのか\n\n@ダクネス\n私の何を見ているのか\n気になってしょうがない\n\n@ダクネス\nマスターは私のことを\nどれだけ知ったのか知りたい\n\n# face %(unit_a)s \"usual\"\n@ダクネス\nこれからクイズを出すから\n答えてほしい\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私が重んじているのはどれだ？\n\n;;騎士道精神\n# se \"SE_0734\"\n# select \"武士道精神\" \"select_label_1\" \"騎士道精神\" \"select_label_2\" \"スポーツ精神\" \"select_label_3\"\n私が重んじているのはどれだ？\n"
+	},
+	{
+		"ID": 4361,
+		"unitID": 2103411,
+		"questionID": 9103406,
+		"script": ";;■□■クイズ導入パターン3_ダクネス\n# textflame 1 1\n# voice 1034 \"dakunesu_0001\"\n# face %(unit_a)s \"normal\"\n@ダクネス\n突然だが確認したいことがある\n\n# face %(unit_a)s \"smile\"\n# voice 1034 \"dakunesu_0003\"\n@ダクネス\nマスターはいつも\n私に何やら熱い\n視線を送っているだろう？\n\n@ダクネス\nいや、それはいいんだ\n…むしろ、それがいいんだ\n\n# face %(unit_a)s \"shy\"\n@ダクネス\nだが私は\nその視線で\nマスターが私の何を捕らえたのか\n\n@ダクネス\n私の何を見ているのか\n気になってしょうがない\n\n@ダクネス\nマスターは私のことを\nどれだけ知ったのか知りたい\n\n# face %(unit_a)s \"usual\"\n@ダクネス\nこれからクイズを出すから\n答えてほしい\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私の適正なポジションはどれだ？\n\n;;前衛\n# se \"SE_0734\"\n# select \"看護\" \"select_label_1\" \"後衛\" \"select_label_2\" \"前衛\" \"select_label_3\"\n私の適正なポジションはどれだ？\n"
+	},
+	{
+		"ID": 4362,
+		"unitID": 2103411,
+		"questionID": 9103407,
+		"script": ";;■□■クイズ導入パターン4_ダクネス\n# textflame 1 1\n# voice 1034 \"dakunesu_0001\"\n# face %(unit_a)s \"normal\"\n@ダクネス\nマスター\n少し試したいことがあるのだが…\n\n@ダクネス\nこの世界にやってきて\n他の姫ともいい関係を築けている\n\n@ダクネス\nだがまだ話したことのない姫が\nいるのも事実なのだ\n\n# face %(unit_a)s \"smile\"\n# voice 1034 \"dakunesu_0003\"\n@ダクネス\nなので会話のきっかけとして\n私を知ってもらえるクイズを\n考えてみたのだ\n\n@ダクネス\n少し付き合ってもらえないだろうか？\n\n# face %(unit_a)s \"usual\"\n@ダクネス\nでは問題だ\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私が自信を持っているのはどれだ？\n\n;;防御力\n# se \"SE_0734\"\n# select \"防御力\" \"select_label_1\" \"命中力\" \"select_label_2\" \"回避力\" \"select_label_3\"\n私が自信を持っているのはどれだ？\n"
+	},
+	{
+		"ID": 4363,
+		"unitID": 2103411,
+		"questionID": 9103408,
+		"script": ";;■□■クイズ導入パターン4_ダクネス\n# textflame 1 1\n# voice 1034 \"dakunesu_0001\"\n# face %(unit_a)s \"normal\"\n@ダクネス\nマスター\n少し試したいことがあるのだが…\n\n@ダクネス\nこの世界にやってきて\n他の姫ともいい関係を築けている\n\n@ダクネス\nだがまだ話したことのない姫が\nいるのも事実なのだ\n\n# face %(unit_a)s \"smile\"\n# voice 1034 \"dakunesu_0003\"\n@ダクネス\nなので会話のきっかけとして\n私を知ってもらえるクイズを\n考えてみたのだ\n\n@ダクネス\n少し付き合ってもらえないだろうか？\n\n# face %(unit_a)s \"usual\"\n@ダクネス\nでは問題だ\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私の武器は次のうちどれだ？\n\n;;両手剣\n# se \"SE_0734\"\n# select \"トンファー\" \"select_label_1\" \"両手剣\" \"select_label_2\" \"拳\" \"select_label_3\"\n私の武器は次のうちどれだ？\n"
+	},
+	{
+		"ID": 4364,
+		"unitID": 2103411,
+		"questionID": 9103409,
+		"script": "\n;;私\n# se \"SE_0734\"\n# select \"俺\" \"select_label_1\" \"拙者\" \"select_label_2\" \"私\" \"select_label_3\"\nダクネスの一人称は\n次のうちどれ？\n"
+	},
+	{
+		"ID": 4365,
+		"unitID": 2103411,
+		"questionID": 9103410,
+		"script": "\n;;茅野愛衣\n# se \"SE_0734\"\n# select \"茅野愛衣\" \"select_label_1\" \"雨宮天\" \"select_label_2\" \"高橋李依\" \"select_label_3\"\nダクネスの声優は誰？\n"
+	}
+]

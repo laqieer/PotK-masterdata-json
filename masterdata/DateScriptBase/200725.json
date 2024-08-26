@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 200725,
+		"script": ";;なにか壊す物を！,中\n;;黙って手を添える,大\n;;病気か！？,小\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_drive\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 0 0\n@\nデート後、マスターはシャルウルを\n真夜中のドライブに誘った\n\n# voice 2007 \"sharuuru_0004\"\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@シャルウル\nふふっ。マスターの運転する車の\n助手席に座れるなんて光栄です♪\n\n# textflame 1 1\n@シャルウル\n主人と秘書は、やっぱり\nこうでなければなりませんね♪\n\n# textflame 0 0\n@\n車は見晴らしの最高の\nスポットに通りかかる\n\n# voice 2007 \"sharuuru_0040\"\n# face %(unit_a)s \"normal\"\n# textflame 1 1\n@シャルウル\nこれは…！\n素敵な夜景ですね…！\n\n# textflame 1 1\n@シャルウル\n私でさえ知らない…\nこんな穴場を知っているなんて…\n\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@シャルウル\nああ…どうしましょう\n胸がドキドキします…\n;;----------------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n破壊衝動に似ているようで\nどこか違うような…\n\n# textflame 0 0\n@\n病気か！？\n\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 2007 \"sharuuru_0024\"\n@シャルウル\nまさかこの世界に\n新たな病原菌が…？\n\n# voice 2007 \"sharuuru_0012\"\n# face %(unit_a)s \"angry\"\n# textflame 1 1\n@シャルウル\n急いで調査に向かいましょう！\nこうしている間にも、事態は\n悪化しているかもしれません！\n\n# textflame 1 1\n@シャルウル\n車を飛ばして下さい、マスター！\nナビゲートは私が！\n\n# textflame 0 0\n@\nこうしてふたりは深夜のハイウェイを\n風となって走り続けたのだった…\n;;----------------------------------------\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 93014298,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# se \"SE_0733\"\n# eye %(unit_a)s \"close\"\n@イシューリエル\n真実はいつも一つ…\n\n# face %(unit_a)s \"angry\"\n# eye %(unit_a)s \"normal\"\n# voice 3014 \"ithuriel_0010\"\n@イシューリエル\nその解答…\n不正解ですわ！\n\n@イシューリエル\nなんて事でしょう…\n\n# face %(unit_a)s \"sad\"\n# voice 3014 \"ithuriel_0017\"\n@イシューリエル\nマスターは\nわたくしの可愛さしか\n見ていなかったのですね…\n\n@イシューリエル\nもっと…\n深いところで\n繋がりたかった…\n\n@イシューリエル\n今度は…\n間違えないで下さいね…？\n\n@\n彼女はあからさまに\n肩を落としていた…\n\n# textflame 0 0\n@\nせっかくのデートなのに…\n\n@\nまたチャンスをくれるのなら、\nもう間違えないようにしないとな…\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

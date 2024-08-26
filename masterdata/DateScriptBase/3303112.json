@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 3303112,
+		"script": ";;A\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_planetarium\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n@カシウス\n切ない気持ち…\nわかる気がする\n\n@カシウス\n星って、あんなに遠い\n空の彼方に浮かんでいて\n\n@カシウス\n見送る人もいないまま\nひっそりと消えていく…\nそんな存在だから\n\n# voice 530311 \"cassius_ca_0002\"\n@カシウス\nでも見て、御館様？\nあそこに浮かぶ二つの星を\n\n@カシウス\nとても近くで寄り添って…\nまるで久遠を誓い合ったみたい\n\n@カシウス\nあれだけ近くにいれば、\nきっと寂しさを\n感じることもないわ\n\n# voice 530311 \"cassius_ca_0001\"\n# face %(unit_a)s \"normal\"\n@カシウス\n…ね、御館様\n\n@カシウス\nもしあなたが\n寂しい気持ちになったら…\nいつでもわたしに伝えて？\n\n@カシウス\nあの星と同じように、\nわたしが隣に寄り添うから\n\n@カシウス\nそれからずっと、\n寂しさが消えてなくなるまで…\n他愛のない話を続けましょう\n\n# voice 530311 \"cassius_ca_0004\"\n# face %(unit_a)s \"smile\"\n@カシウス\nあなたがいつも\nわたしにそうしてくれるように…\nふふっ♪\n\n# textflame 0 0\n@\n自らの想いを伝えるために\n懸命に言葉を紡ぐカシウス\n\n@\nそんなカシウスに、\nマスターも安心した表情で\n笑いかけるのだった\n;;-----------------------------------------\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

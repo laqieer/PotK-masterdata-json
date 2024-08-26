@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 3100214,
+		"script": ";;C　ムーは留守番？\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_planetarium\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# voice 210023 \"revatein_ge_0003\"\n# face %(unit_a)s \"usual\"\n@レーヴァテイン\nうん…\nだって、せっかく\nマスターが誘ってくれたし\n\n@レーヴァテイン\nマスターとふたりで\n出かけるって言ったら\nムーに茶化されたの\n\n# voice 210023 \"revatein_ge_0028\"\n@レーヴァテイン\nずーっとニヤニヤしてて…\nなんだったんだろう\n\n@レーヴァテイン\n…あ、今のマスターも\n同じような顔してる\n\n# textflame 0 0\n@\n指摘され、慌てて\n口元を隠すマスター\n\n# face %(unit_a)s \"normal\"\n# voice 210023 \"revatein_ge_0004\"\n# textflame 1 1\n@レーヴァテイン\nもう…なんなの\n変なマスター\n\n@レーヴァテイン\nまあ、いいけどね\nそれだけ楽しみだったんでしょ？\n\n# voice 210023 \"revatein_ge_0002\"\n@レーヴァテイン\nほら、プラネタリウム始まるよ\n星空が綺麗だよ、マスター\n\n# textflame 0 0\n@\nレーヴァテインが綺麗だと\n指さす星を、マスターも眺める\n\n# textflame 0 0\n@\nゆったりとした時間を\nふたりは楽しんだのだった\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 92006198,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# se \"SE_0733\"\n# face %(unit_a)s \"smile\"\n# voice 2006 \"daguda_0005\"\n@ダグダ\nやった～！\nハズレだよ、不正解っ！\n\n# voice 2006 \"daguda_0022\"\n# face %(unit_a)s \"sad\"\n@ダグダ\n…え？\nハズレたのに\nなんか嬉しそう？\n\n@ダグダ\nう～ん…ダグダのことを\nわかってくれてないのは\n確かに悲しいけど…\n\n# face %(unit_a)s \"smile\"\n@ダグダ\nでも、おんぶして\nもらえるから♪\nダグダの勝ちぃ～！\n\n@ダグダ\nさ、ほらっ、マスター！\n早くしゃがんで！\nおんぶ、おんぶっ！\n\n# textflame 0 0\n@\nそう言うと、ダグダは\nマスターの背中に\n抱きついてくる\n\n@\nこのシチュエーションも\n美味しいと言えば美味しいけれど…\n\n@\nダグダのためにならないよな\n次はしっかり正解するように\n彼女のことをしっかり調べよう…\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

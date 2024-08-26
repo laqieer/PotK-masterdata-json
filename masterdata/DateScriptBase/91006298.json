@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 91006298,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# se \"SE_0733\"\n# voice 1006 \"nageruring_0026\"\n# face %(unit_a)s \"sad\"\n@ナーゲルリング\n違います…\n\n;;//文字小さく\n# textsize 20\n@ナーゲルリング\nどうして…\n\n;;//文字小さく\n@ナーゲルリング\nマスターなら\n大丈夫だと思ってたのに…\n\n# textsize 24\n@ナーゲルリング\nどうやらマスターは、\n私のことに関しては\nまだまだ勉強不足なようですね\n\n# face %(unit_a)s \"usual\"\n@ナーゲルリング\nそれが確認できて安心しました\nだからって、\n気を抜かないでくださいね？\n\n# voice 1006 \"nageruring_0003\"\n# face %(unit_a)s \"smile\"\n@ナーゲルリング\nこれからは…\nもっと私を知ってもらいますから\nそれでは、行きましょう！\n\n# textflame 0 0\n@\n笑顔でそう言って歩き出す\nナーゲルリング\n\n@\n今度こそは必ず正解して、\n彼女を喜ばせようと誓う\nマスターなのであった\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

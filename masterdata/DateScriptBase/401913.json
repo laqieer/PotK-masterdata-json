@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 401913,
+		"script": ";;A中ブランドショップ\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_shop\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# face 2401911 \"normal\"\n# voice 240191 \"failnaught_a_0003\"\n# textflame 1 1\n@フェイルノート\nそうね。常日頃の生活から\n本物に囲まれることで\n慧眼を養うのよ\n\n@フェイルノート\nまずは食器類から\n人を作るのは、食だもの\nその環境を整えなさい\n\n# textflame 0 0\n@\nそう言うと、フェイルノートは\n迷わず一番高級な食器を\n手に取った…\n\n# face 2401911 \"smile\"\n# voice 240191 \"failnaught_a_0004\"\n# textflame 1 1\n@フェイルノート\nふふふ、まぁ、このくらいの\nグレードならば、合格かしらね\n\n# face 2401911 \"normal\"\n# voice 240191 \"failnaught_a_0009\"\n@フェイルノート\n決まっているでしょう？\n私のディナーのお供に\nふさわしいのかどうかよ\n\n@フェイルノート\nこの私と一緒に食事をする以上\n中途半端など認めないわ！\n\n# face 2401911 \"angry\"\n@フェイルノート\n…って、あっ、その、別にこれは\n常日頃から食事を共にしたいとか\nそういう意味ではなくて…\n\n@フェイルノート\nこ、こほん！お前様が望むなら！\nそのくらい付き合ってあげても\nやぶさかでは、ないけれどね！\n\n# voice 240191 \"failnaught_a_0007\"\n@フェイルノート\nさあお前様。次は食材売り場へ。\nメインディッシュからデザートに\n至るまで、全て本物を選ぶわよ！\n\n# textflame 0 0\n@\nなんだかんだで、\nフェイルノートもショッピングを\n満喫しているのだった\n\n;;-----------------------------------------\n# waitandnext 2\n# fadeout \"black\" 1.2\n"
+	}
+]

@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 931040101,
+		"script": ";;------------------------------------\n;;第3話『珠玉の終幕』\n;; （しゅぎょくのしゅうまく）\n;;------------------------------------\n;;背景：紙芝居のような舞台\n# script \"lisp\"\n# background \"101_plain_daytime\"\n# bgmfile \"bgm263\" \"BgmLostRagnarok001\" 0\n# textwindow \"nomal\"\n;;モラ\n# body 3104011\n# pos 3104011 4\n# scale 3104011 0.8 0\n# layer 3104011 1\n;;ベガ\n# body 3104111\n# pos 3104111 2\n# scale 3104111 0.8 0\n# layer 3104111 2\n# face 3104111 \"usual\"\n# textflame 1 1\n# face 3104011 \"angry\"\n# textboxarrow 0 3\n@モラ\n時を刻んで幾千里\nついに見つけた\nかの剣を\n\n# face 3104111 \"happy\"\n# textboxarrow 0 1\n@ベガ\n振るって下さい我がために\n実は私はお姫様\nかの国から逃れしお姫様\n\n# textboxarrow 0 3\n@モラ\nそれはまことか？\n嘘か？うつつか？\n幻か？\n\n# textboxarrow 0 1\n@ベガ\n私は哀れなお姫様\nうつつであれば良かったと\n国を思って涙出ず\n\n# textboxarrow 0 3\n@モラ\nそうだ私が終わらせよう\n滅びた国を取り戻そう\n二人で国を取り戻そう\n\n# face 3104111 \"angry\"\n# textboxarrow 0 0\n@モラ＆ベガ\n二人の剣で取り戻そう！\n二人の国を取り戻そう！\n\n# face 3104111 \"happy\"\n# face 3104011 \"happy\"\n# textboxarrow 0 3\n@モラ\nああ、終幕です！\n幕が閉じます…\nパチパチパチ！\n\n# textboxarrow 0 1\n@ベガ\n私も拍手を\nパチパチパチ！\n\n# textboxarrow 0 0\n@モラ＆ベガ\nさあ、終幕終幕！\n\n# voice 1041 \"beagallta_kyara_1001\"\n# voice 1040 \"morallta_kyara_1001\"\n@モラ＆ベガ\nねえねえ知ってる？\nねえ知ってる？\nこんなお話し、ねえ知ってる？"
+	}
+]

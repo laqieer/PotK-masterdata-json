@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 93025498,
+		"script": ";;//不正解\n# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 3025 \"minerva_0027\"\n# se \"SE_0733\"\n@ミネルヴァ\nマスター、その解答は…\n\n# textflame 0 0\n@\nミネルヴァの表情が陰ったのを見て\n自分が間違ったことに気が付いた\n\n# textflame 1 1\n@ミネルヴァ\nマスターには私の話を\nいろいろ聞いてもらっていたけど\nもしかして、迷惑だったのかな…\n\n# face %(unit_a)s \"smile\"\n@ミネルヴァ\nさぁ、帰りましょうマスター\n大丈夫です\n一人で歩けます…\n\n# textflame 0 0\n@\n歩き始めるミネルヴァは\n誰かの支えが必要なほど弱々しかった\n\n@\nしかし、今の自分に彼女を\n支えてあげる資格はない…\n\n@\n楽しかったデートが\n後味の悪いものになってしまった…\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

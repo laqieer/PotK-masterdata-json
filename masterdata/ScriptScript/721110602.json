@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 721110602,
+		"script": ";;-----------------------------------------\n# script \"lisp\"\n# background \"aerial_shoot\"\n# bgm \"bgm010\" 0\n;;-----------------------------------------\n# body 300221\n# pos 300221 3\n# scale 300221 1 0\n# layer 300221 3\n# mask 300221 off\n# alpha 300221 0 0\n# brightness 300221 0 0\n;;-----------------------------------------\n# frameout 0 0\n# textwindow \"close\"\n# fadein \"black\" 1\n# waitandnext 1.5\n\n# voice 9967 \"wait_20\"\n# textflame 0 0\n# textwindow \"nomal\"\n# textalign \"center\"\n# textsize 30\n@\n★6解放ユニット追加\n# waitandnext 1\n\n# alpha 300221 1 1\n# textalign \"center\"\n@\n★6解放ユニット追加\n\n# voice 3002 \"toraidento_unit_3005\"\n# textflame 1 1\n# textboxarrow 0 2\n# textsize 24\n@？？？\nではでは、行っくよ～！\n\n# voice 9967 \"wait_30\"\n# fadein \"white\" 2\n# brightness 300221 1 0\n# textflame 0 0\n# textalign \"center\"\n# textsize 32\n@\nトライデント\n\n# face 300221 \"shy\"\n# voice 3002 \"toraidento_unit_4005\"\n# textflame 1 1\n# textboxarrow 0 2\n# textsize 24\n@トライデント\nあ…そういえば\n作戦聞いてなかった！\nど、どうしよ…\n\n# voice 9967 \"wait_10\"\n# alpha 300221 0 0\n# fadein \"white\" 0.5\n# textflame 0 0\n# textalign \"center\"\n# textsize 28\n@\nユニットの詳細は\nお知らせをチェック！\n\n# bgm \"stop\"\n# fadeout \"black\" 2\n# se \"SE_0050\"\n# waitandnext 2\n# textflame 0 0\n# textalign \"center\"\n@\nユニットの詳細は\nお知らせをチェック！"
+	}
+]

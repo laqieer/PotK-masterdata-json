@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 601425,
+		"script": ";;今が本番だった,大\n;;頑張ります…,小\n;;次のデートの話？,中\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_room\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 0 0\n@\nマスターはデートの終わりに、\nプタハを部屋まで送り届けていた\n\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@プタハ\n今日は一日、\n楽しい時間を過ごさせて貰ったぞ、\nマスター\n\n@プタハ\nこれであれば、\n本番も上手くいくだろう\nこの我が保証するぞ\n;;----------------------------------------\n\n# face %(unit_a)s \"normal\"\n# textflame 1 1\n@%(unitName:unit_a)s\n…どうした？\nいつか想い人を誘うための、\nその予行練習だったのだろう？\n\n# textflame 0 0\n@\n頑張ります…\n\n# textflame 1 1\n# voice 6014 \"ptah_0003\"\n@プタハ\nそうとも、\nそなたはもっと自信を持つといい\n\n@プタハ\n今日のことは、我にとっても\n素晴らしい時間だった\nそなたの想い人が誰であろうと\n\n# voice 6014 \"ptah_0009\"\n# eye %(unit_a)s \"close\"\n@プタハ\nほれ、そんな自信なさげな顔を\nするでない\n可愛い顔が台なしだぞ？\n\n# textflame 0 0\n@\nプタハはそのまま、マスターの機嫌が\n上向くまで甘やかし続けた…\n;;----------------------------------------\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

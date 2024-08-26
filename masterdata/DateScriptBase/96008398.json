@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 96008398,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# se \"SE_0733\"\n@グリダヴォル\n…………\n\n# face %(unit_a)s \"sad\"\n@グリダヴォル\nは、はずれー！！\n\n# voice 6008 \"guridavoru_0031\"\n@グリダヴォル\nや、ごめん…\n急にクイズとか出しちゃって\nおかしいよね…？\n\n@グリダヴォル\nなんか…急に…\nもっと楽しくならないかなって\n思っちゃって…\n\n@グリダヴォル\nでも…さ…\n\n# face %(unit_a)s \"smile\"\n@グリダヴォル\nまた今度…\nクイズを出したときは\n間違えないでくれるといいな！\n\n# textflame 0 0\n@\n彼女の困ったような\n悲しいような笑顔が\nマスターの眼に焼付いた\n\n@\nデート中のはずなのに…\n複雑な顔させてしまうなんて…\n\n@\nまた今度って言ってたし…\n次の機会は絶対間違えないように\nしないといけないな…\n\n# fadeout　\"black\" 1.2\n# waitandnext 2"
+	}
+]

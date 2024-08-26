@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 201121,
+		"script": ";;A 必要書類はお持ちですか？（ちょっと上がる）\n;;B 印鑑はお忘れないですか？（すごく上がる）\n;;C 覚悟はよろしいですか？（上がる）\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_room\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 0 0\n# face %(unit_a)s \"usual\"\n@\nワズラの部屋に\n招かれたマスター\n\n# textflame 1 1\n# eye %(unit_a)s \"close\"\n# voice 2011 \"Wazra_0003\"\n@ワズラ\n…ついにこの日が来たのですね\nついに…\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"angry\"\n@ワズラ\n仮契約から\n本契約に移行ですね！？\n\n# select \"必要書類はお持ちですか？\" \"select_label_01\" \"印鑑はお忘れないですか？\" \"select_label_02\" \"覚悟はよろしいですか？\" \"select_label_03\"\n仮契約から\n本契約に移行ですね！？\n\n# label \"select_label_01\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_02\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_03\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_end\"\n# waitandnext 0.1\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

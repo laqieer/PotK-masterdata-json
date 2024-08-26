@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 600224,
+		"script": ";;B 寝てる？（小）\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_fireworks\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 6002 \"ganbantein_0003\"\n@ガンバンテイン\n…んー？\n寝てないよ？\n\n@ガンバンテイン\nちょっと意識がなかっただけ？\n\n# face %(unit_a)s \"angry\"\n@ガンバンテイン\nそれまではちゃーんと\n花火みててたから\n\n# face %(unit_a)s \"smile\"\n@ガンバンテイン\nあ、でももっといいもの\n見つけたかもしれないなー\n\n# textflame 0 0\n@\nガンバンテインは花火の方を\n見ないで、マスターをじっと\n見ていた\n\n# textflame 1 1\n# voice 6002 \"ganbantein_0004\"\n@ガンバンテイン\n花火を見て嬉しそうな\nマスターを見てるのー\nとっても楽しいかなー\n\n# face %(unit_a)s \"usual\"\n# voice 6002 \"ganbantein_0023\"\n@ガンバンテイン\nあれ？なんでマスターも\nこっちを見てるの？\n\n# textflame 0 0\n@\nマスターは自分も\nガンバンテインを見ているのが\n楽しいと答える\n\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n@ガンバンテイン\nそう？ふーん。そーなんだ\nなんだか、にらめっこみたいだね♪\n\n# textflame 0 0\n@\nそういってニコニコ顔の\nガンバンテイン\n\n# textflame 0 0\n@\n結局、花火そっちのけで\nにらめっこ？をする\n二人だった―\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

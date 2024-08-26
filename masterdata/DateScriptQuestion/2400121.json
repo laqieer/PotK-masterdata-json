@@ -1,0 +1,290 @@
+[
+	{
+		"ID": 4415,
+		"unitID": 2400121,
+		"questionID": 29400101,
+		"script": ";;弓,1\n# voice 240012 \"arutemisu_k_0001\"\n# textflame 1 1\n# face 2400121 \"usual\"\n@アルテミス\nすみません、マスター\n\n@アルテミス\nこれからもマスターを\n守っていくために\n一つクイズを出させてください\n\n# face 2400121 \"normal\"\n@アルテミス\n敵を知るにはまず味方から…\n\n# face 2400121 \"usual\"\n@アルテミス\nマスターが私のことを\nどれだけ知っているかで\n私が取るべき行動も変わってきます\n\n@アルテミス\nでは、出題いたします\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の武具種は分かりますか？　\n\n# se \"SE_0734\"\n# select \"弓\" \"select_label_1\" \"銃\" \"select_label_2\" \"槍\" \"select_label_3\"\n私の武具種は分かりますか？　\n"
+	},
+	{
+		"ID": 4416,
+		"unitID": 2400121,
+		"questionID": 29400102,
+		"script": ";;黒のバイブス,2\n# voice 240012 \"arutemisu_k_0001\"\n# textflame 1 1\n# face 2400121 \"usual\"\n@アルテミス\nすみません、マスター\n\n@アルテミス\nこれからもマスターを\n守っていくために\n一つクイズを出させてください\n\n# face 2400121 \"normal\"\n@アルテミス\n敵を知るにはまず味方から…\n\n# face 2400121 \"usual\"\n@アルテミス\nマスターが私のことを\nどれだけ知っているかで\n私が取るべき行動も変わってきます\n\n@アルテミス\nでは、出題いたします\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私はあるものの影響を受けています\nわかりますか？\n\n# se \"SE_0734\"\n# select \"白のパンプス\" \"select_label_1\" \"黒のバイブス\" \"select_label_2\" \"青のバイブル\" \"select_label_3\"\n私はあるものの影響を受けています\nわかりますか？\n"
+	},
+	{
+		"ID": 4417,
+		"unitID": 2400121,
+		"questionID": 29400103,
+		"script": ";;ギリシア神話,3\n# voice 240012 \"arutemisu_k_0001\"\n# textflame 1 1\n# face 2400121 \"usual\"\n@アルテミス\nすみません、マスター\n\n@アルテミス\nこれからもマスターを\n守っていくために\n一つクイズを出させてください\n\n# face 2400121 \"normal\"\n@アルテミス\n敵を知るにはまず味方から…\n\n# face 2400121 \"usual\"\n@アルテミス\nマスターが私のことを\nどれだけ知っているかで\n私が取るべき行動も変わってきます\n\n@アルテミス\nでは、出題いたします\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私のキラーズ『アルテミス』は\nどんな伝承に登場しますか？\n\n# se \"SE_0734\"\n# select \"日本神話\" \"select_label_1\" \"北欧神話\" \"select_label_2\" \"ギリシア神話\" \"select_label_3\"\n私のキラーズ『アルテミス』は\nどんな伝承に登場しますか？\n"
+	},
+	{
+		"ID": 4418,
+		"unitID": 2400121,
+		"questionID": 29400104,
+		"script": ";;色欲,1\n# voice 240012 \"arutemisu_k_0001\"\n# textflame 1 1\n# face 2400121 \"usual\"\n@アルテミス\nすみません、マスター\n\n@アルテミス\nこれからもマスターを\n守っていくために\n一つクイズを出させてください\n\n# face 2400121 \"normal\"\n@アルテミス\n敵を知るにはまず味方から…\n\n# face 2400121 \"usual\"\n@アルテミス\nマスターが私のことを\nどれだけ知っているかで\n私が取るべき行動も変わってきます\n\n@アルテミス\nでは、出題いたします\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私は七つの大罪の一つを抱えています\n何だかわかりますか？\n\n# se \"SE_0734\"\n# select \"色欲\" \"select_label_1\" \"強欲\" \"select_label_2\" \"憤怒\" \"select_label_3\"\n私は七つの大罪の一つを抱えています\n何だかわかりますか？\n"
+	},
+	{
+		"ID": 4419,
+		"unitID": 2400121,
+		"questionID": 29400105,
+		"script": ";;周りが見えなくなる,2\n# voice 240012 \"arutemisu_k_0001\"\n# textflame 1 1\n# face 2400121 \"usual\"\n@アルテミス\nすみません、マスター\n\n@アルテミス\nこれからもマスターを\n守っていくために\n一つクイズを出させてください\n\n# face 2400121 \"normal\"\n@アルテミス\n敵を知るにはまず味方から…\n\n# face 2400121 \"usual\"\n@アルテミス\nマスターが私のことを\nどれだけ知っているかで\n私が取るべき行動も変わってきます\n\n@アルテミス\nでは、出題いたします\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私は激昂するとどうなりますか？\n\n# se \"SE_0734\"\n# select \"毛が逆立つ\" \"select_label_1\" \"周りが見えなくなる\" \"select_label_2\" \"巨大化する\" \"select_label_3\"\n私は激昂するとどうなりますか？\n"
+	},
+	{
+		"ID": 4420,
+		"unitID": 2400121,
+		"questionID": 29400106,
+		"script": ";;熊,3\n# voice 240012 \"arutemisu_k_0001\"\n# textflame 1 1\n# face 2400121 \"usual\"\n@アルテミス\nすみません、マスター\n\n@アルテミス\nこれからもマスターを\n守っていくために\n一つクイズを出させてください\n\n# face 2400121 \"normal\"\n@アルテミス\n敵を知るにはまず味方から…\n\n# face 2400121 \"usual\"\n@アルテミス\nマスターが私のことを\nどれだけ知っているかで\n私が取るべき行動も変わってきます\n\n@アルテミス\nでは、出題いたします\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私のキラーズの持ち主アルテミスと\n特に深い関わりのある獣と言えば\n何だと思いますか？\n\n# se \"SE_0734\"\n# select \"狼\" \"select_label_1\" \"猪\" \"select_label_2\" \"熊\" \"select_label_3\"\n私のキラーズの持ち主アルテミスと\n特に深い関わりのある獣と言えば\n何だと思いますか？\n"
+	},
+	{
+		"ID": 4421,
+		"unitID": 2400121,
+		"questionID": 29400107,
+		"script": ";;動物の姿に変える,1\n# voice 240012 \"arutemisu_k_0001\"\n# textflame 1 1\n# face 2400121 \"usual\"\n@アルテミス\nすみません、マスター\n\n@アルテミス\nこれからもマスターを\n守っていくために\n一つクイズを出させてください\n\n# face 2400121 \"normal\"\n@アルテミス\n敵を知るにはまず味方から…\n\n# face 2400121 \"usual\"\n@アルテミス\nマスターが私のことを\nどれだけ知っているかで\n私が取るべき行動も変わってきます\n\n@アルテミス\nでは、出題いたします\n;;---------------------------------\n\n@%(unitName:unit_a)s\n逸話では私は激高すると\n相手をどうしますか？\n\n# se \"SE_0734\"\n# select \"動物の姿に変える\" \"select_label_1\" \"投げ飛ばす\" \"select_label_2\" \"滅茶苦茶罵る\" \"select_label_3\"\n逸話では私は激高すると\n相手をどうしますか？\n"
+	},
+	{
+		"ID": 4422,
+		"unitID": 2400121,
+		"questionID": 29400108,
+		"script": ";;自分の息子に殺された,2\n# voice 240012 \"arutemisu_k_0001\"\n# textflame 1 1\n# face 2400121 \"usual\"\n@アルテミス\nすみません、マスター\n\n@アルテミス\nこれからもマスターを\n守っていくために\n一つクイズを出させてください\n\n# face 2400121 \"normal\"\n@アルテミス\n敵を知るにはまず味方から…\n\n# face 2400121 \"usual\"\n@アルテミス\nマスターが私のことを\nどれだけ知っているかで\n私が取るべき行動も変わってきます\n\n@アルテミス\nでは、出題いたします\n;;---------------------------------\n\n@%(unitName:unit_a)s\n逸話では\n私によって熊の姿に変えられた者は\nどうなりましたか？\n\n# se \"SE_0734\"\n# select \"ハチミツを塗られた\" \"select_label_1\" \"自分の息子に殺された\" \"select_label_2\" \"死んだふりをした\" \"select_label_3\"\n逸話では\n私によって熊の姿に変えられた者は\nどうなりましたか？\n"
+	},
+	{
+		"ID": 4423,
+		"unitID": 2400121,
+		"questionID": 29400109,
+		"script": ";;黒奏官,3\n# voice 240012 \"arutemisu_k_0001\"\n# textflame 1 1\n# face 2400121 \"usual\"\n@アルテミス\nすみません、マスター\n\n@アルテミス\nこれからもマスターを\n守っていくために\n一つクイズを出させてください\n\n# face 2400121 \"normal\"\n@アルテミス\n敵を知るにはまず味方から…\n\n# face 2400121 \"usual\"\n@アルテミス\nマスターが私のことを\nどれだけ知っているかで\n私が取るべき行動も変わってきます\n\n@アルテミス\nでは、出題いたします\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私がかつて仕えていたのは…？\n\n# se \"SE_0734\"\n# select \"官房長官\" \"select_label_1\" \"白奏官\" \"select_label_2\" \"黒奏官\" \"select_label_3\"\n私がかつて仕えていたのは…？\n"
+	},
+	{
+		"ID": 4424,
+		"unitID": 2400121,
+		"questionID": 29400110,
+		"script": ";;ブラックキラーズ,1\n# voice 240012 \"arutemisu_k_0001\"\n# textflame 1 1\n# face 2400121 \"usual\"\n@アルテミス\nすみません、マスター\n\n@アルテミス\nこれからもマスターを\n守っていくために\n一つクイズを出させてください\n\n# face 2400121 \"normal\"\n@アルテミス\n敵を知るにはまず味方から…\n\n# face 2400121 \"usual\"\n@アルテミス\nマスターが私のことを\nどれだけ知っているかで\n私が取るべき行動も変わってきます\n\n@アルテミス\nでは、出題いたします\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私が属しているのは…？\n\n# se \"SE_0734\"\n# select \"ブラックキラーズ\" \"select_label_1\" \"エンシェントキラーズ\" \"select_label_2\" \"チェリーキラーズ\" \"select_label_3\"\n私が属しているのは…？\n"
+	},
+	{
+		"ID": 4425,
+		"unitID": 2400121,
+		"questionID": 29400111,
+		"script": ";;風,1\n# face 2400121 \"usual\"\n# textflame 1 1\n# voice 240012 \"arutemisu_k_0001\"\n@アルテミス\nマスター\nこのまま帰るのも\n味気ないと思いませんか？\n\n# face %(unit_a)s \"smile\"\n@アルテミス\n戯れにクイズなんて\nいかがでしょうか\n\n@アルテミス\nマスターが私のことを\nどれだけ知っているか…\n少し気になりまして\n\n# face %(unit_a)s \"usual\"\n@アルテミス\n本当にただの戯れですよ\nそれでは、いきます\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の属性…ご存知ですか…？\n\n# se \"SE_0734\"\n# select \"風\" \"select_label_1\" \"炎\" \"select_label_2\" \"雷\" \"select_label_3\"\n私の属性…ご存知ですか…？\n"
+	},
+	{
+		"ID": 4426,
+		"unitID": 2400121,
+		"questionID": 29400112,
+		"script": ";;168cm,2\n# face 2400121 \"usual\"\n# textflame 1 1\n# voice 240012 \"arutemisu_k_0001\"\n@アルテミス\nマスター\nこのまま帰るのも\n味気ないと思いませんか？\n\n# face %(unit_a)s \"smile\"\n@アルテミス\n戯れにクイズなんて\nいかがでしょうか\n\n@アルテミス\nマスターが私のことを\nどれだけ知っているか…\n少し気になりまして\n\n# face %(unit_a)s \"usual\"\n@アルテミス\n本当にただの戯れですよ\nそれでは、いきます\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の身長はご存知ですか？\n\n# se \"SE_0734\"\n# select \"170cm\" \"select_label_1\" \"168cm\" \"select_label_2\" \"172cm\" \"select_label_3\"\n私の身長はご存知ですか？\n"
+	},
+	{
+		"ID": 4427,
+		"unitID": 2400121,
+		"questionID": 29400113,
+		"script": ";;7月4日,3\n# face 2400121 \"usual\"\n# textflame 1 1\n# voice 240012 \"arutemisu_k_0001\"\n@アルテミス\nマスター\nこのまま帰るのも\n味気ないと思いませんか？\n\n# face %(unit_a)s \"smile\"\n@アルテミス\n戯れにクイズなんて\nいかがでしょうか\n\n@アルテミス\nマスターが私のことを\nどれだけ知っているか…\n少し気になりまして\n\n# face %(unit_a)s \"usual\"\n@アルテミス\n本当にただの戯れですよ\nそれでは、いきます\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の誕生日はご存知ですか？\n\n# se \"SE_0734\"\n# select \"11月4日\" \"select_label_1\" \"10月4日\" \"select_label_2\" \"7月4日\" \"select_label_3\"\n私の誕生日はご存知ですか？\n"
+	},
+	{
+		"ID": 4428,
+		"unitID": 2400121,
+		"questionID": 29400114,
+		"script": ";;かに座,1\n# face 2400121 \"usual\"\n# textflame 1 1\n# voice 240012 \"arutemisu_k_0001\"\n@アルテミス\nマスター\nこのまま帰るのも\n味気ないと思いませんか？\n\n# face %(unit_a)s \"smile\"\n@アルテミス\n戯れにクイズなんて\nいかがでしょうか\n\n@アルテミス\nマスターが私のことを\nどれだけ知っているか…\n少し気になりまして\n\n# face %(unit_a)s \"usual\"\n@アルテミス\n本当にただの戯れですよ\nそれでは、いきます\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の星座はご存知ですか…？\n\n# se \"SE_0734\"\n# select \"かに座\" \"select_label_1\" \"乙女座\" \"select_label_2\" \"おひつじ座\" \"select_label_3\"\n私の星座はご存知ですか…？\n"
+	},
+	{
+		"ID": 4429,
+		"unitID": 2400121,
+		"questionID": 29400115,
+		"script": ";;月夜,2\n# face 2400121 \"usual\"\n# textflame 1 1\n# voice 240012 \"arutemisu_k_0001\"\n@アルテミス\nマスター\nこのまま帰るのも\n味気ないと思いませんか？\n\n# face %(unit_a)s \"smile\"\n@アルテミス\n戯れにクイズなんて\nいかがでしょうか\n\n@アルテミス\nマスターが私のことを\nどれだけ知っているか…\n少し気になりまして\n\n# face %(unit_a)s \"usual\"\n@アルテミス\n本当にただの戯れですよ\nそれでは、いきます\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私が好きなものは何でしょうか？\nお答えください\n\n# se \"SE_0734\"\n# select \"黄昏\" \"select_label_1\" \"月夜\" \"select_label_2\" \"朝日\" \"select_label_3\"\n私が好きなものは何でしょうか？\nお答えください\n"
+	},
+	{
+		"ID": 4430,
+		"unitID": 2400121,
+		"questionID": 29400116,
+		"script": ";;規律,3\n# face 2400121 \"usual\"\n# textflame 1 1\n# voice 240012 \"arutemisu_k_0001\"\n@アルテミス\nマスター\nこのまま帰るのも\n味気ないと思いませんか？\n\n# face %(unit_a)s \"smile\"\n@アルテミス\n戯れにクイズなんて\nいかがでしょうか\n\n@アルテミス\nマスターが私のことを\nどれだけ知っているか…\n少し気になりまして\n\n# face %(unit_a)s \"usual\"\n@アルテミス\n本当にただの戯れですよ\nそれでは、いきます\n;;---------------------------------\n\n@%(unitName:unit_a)s\nそうですね\n私は男性にも女性にも\nこれを求めますね…\n\n# se \"SE_0734\"\n# select \"お金\" \"select_label_1\" \"恋愛\" \"select_label_2\" \"規律\" \"select_label_3\"\nそうですね\n私は男性にも女性にも\nこれを求めますね…\n"
+	},
+	{
+		"ID": 4431,
+		"unitID": 2400121,
+		"questionID": 29400117,
+		"script": ";;A型,1\n# face 2400121 \"usual\"\n# textflame 1 1\n# voice 240012 \"arutemisu_k_0001\"\n@アルテミス\nマスター\nこのまま帰るのも\n味気ないと思いませんか？\n\n# face %(unit_a)s \"smile\"\n@アルテミス\n戯れにクイズなんて\nいかがでしょうか\n\n@アルテミス\nマスターが私のことを\nどれだけ知っているか…\n少し気になりまして\n\n# face %(unit_a)s \"usual\"\n@アルテミス\n本当にただの戯れですよ\nそれでは、いきます\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の血液型、ご存知ですか…？\n\n# se \"SE_0734\"\n# select \"A型\" \"select_label_1\" \"AB型\" \"select_label_2\" \"B型\" \"select_label_3\"\n私の血液型、ご存知ですか…？\n"
+	},
+	{
+		"ID": 4432,
+		"unitID": 2400121,
+		"questionID": 29400118,
+		"script": ";;オリュンポス,2\n# face 2400121 \"usual\"\n# textflame 1 1\n# voice 240012 \"arutemisu_k_0001\"\n@アルテミス\nマスター\nこのまま帰るのも\n味気ないと思いませんか？\n\n# face %(unit_a)s \"smile\"\n@アルテミス\n戯れにクイズなんて\nいかがでしょうか\n\n@アルテミス\nマスターが私のことを\nどれだけ知っているか…\n少し気になりまして\n\n# face %(unit_a)s \"usual\"\n@アルテミス\n本当にただの戯れですよ\nそれでは、いきます\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の出身地ですが、ご存知ですか…？\n\n# se \"SE_0734\"\n# select \"ネオポリス\" \"select_label_1\" \"オリュンポス\" \"select_label_2\" \"ポリネシア\" \"select_label_3\"\n私の出身地ですが、ご存知ですか…？\n"
+	},
+	{
+		"ID": 4433,
+		"unitID": 2400121,
+		"questionID": 29400119,
+		"script": ";;節制3\n# face 2400121 \"usual\"\n# textflame 1 1\n# voice 240012 \"arutemisu_k_0001\"\n@アルテミス\nマスター\nこのまま帰るのも\n味気ないと思いませんか？\n\n# face %(unit_a)s \"smile\"\n@アルテミス\n戯れにクイズなんて\nいかがでしょうか\n\n@アルテミス\nマスターが私のことを\nどれだけ知っているか…\n少し気になりまして\n\n# face %(unit_a)s \"usual\"\n@アルテミス\n本当にただの戯れですよ\nそれでは、いきます\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私は性格上、この傾向が強いです…\nわかりますか？\n\n# se \"SE_0734\"\n# select \"怠惰\" \"select_label_1\" \"浪費\" \"select_label_2\" \"節制\" \"select_label_3\"\n私は性格上、この傾向が強いです…\nわかりますか？\n"
+	},
+	{
+		"ID": 4434,
+		"unitID": 2400121,
+		"questionID": 29400120,
+		"script": ";;ラスト,1\n# face 2400121 \"usual\"\n# textflame 1 1\n# voice 240012 \"arutemisu_k_0001\"\n@アルテミス\nマスター\nこのまま帰るのも\n味気ないと思いませんか？\n\n# face %(unit_a)s \"smile\"\n@アルテミス\n戯れにクイズなんて\nいかがでしょうか\n\n@アルテミス\nマスターが私のことを\nどれだけ知っているか…\n少し気になりまして\n\n# face %(unit_a)s \"usual\"\n@アルテミス\n本当にただの戯れですよ\nそれでは、いきます\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私のコードネームをご存知ですか？\n\n# se \"SE_0734\"\n# select \"ラスト\" \"select_label_1\" \"バスト\" \"select_label_2\" \"フィスト\" \"select_label_3\"\n私のコードネームをご存知ですか？\n"
+	},
+	{
+		"ID": 4435,
+		"unitID": 2400121,
+		"questionID": 29400121,
+		"script": ";;粛清の黒,1\n# face 2400121 \"usual\"\n# textflame 1 1\n# voice 240012 \"arutemisu_k_0001\"\n@アルテミス\nマスター、少しよろしいでしょうか\n\n# face 240012 \"normal\"\n@アルテミス\n突然ではありますが\nここでクイズを出したいと思います\n\n# eye %(unit_a)s \"close\"\n@アルテミス\n身構えないでください\nたいした問題ではありません\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"usual\"\n@アルテミス\n私のことを知っていれば、\nですが…\nふふっ…\n\n@アルテミス\nそれでは、問題です\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の覚えるスキルはどれですか…？\n\n# se \"SE_0734\"\n# select \"粛清の黒\" \"select_label_1\" \"粛清の赤\" \"select_label_2\" \"粛清の白\" \"select_label_3\"\n私の覚えるスキルはどれですか…？\n"
+	},
+	{
+		"ID": 4436,
+		"unitID": 2400121,
+		"questionID": 29400122,
+		"script": ";;暗澹たる衝動,2\n# face 2400121 \"usual\"\n# textflame 1 1\n# voice 240012 \"arutemisu_k_0001\"\n@アルテミス\nマスター、少しよろしいでしょうか\n\n# face 240012 \"normal\"\n@アルテミス\n突然ではありますが\nここでクイズを出したいと思います\n\n# eye %(unit_a)s \"close\"\n@アルテミス\n身構えないでください\nたいした問題ではありません\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"usual\"\n@アルテミス\n私のことを知っていれば、\nですが…\nふふっ…\n\n@アルテミス\nそれでは、問題です\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の解放スキルはご存知ですか？\n\n# se \"SE_0734\"\n# select \"暗澹たる症状\" \"select_label_1\" \"暗澹たる衝動\" \"select_label_2\" \"暗澹たる砲撃\" \"select_label_3\"\n私の解放スキルはご存知ですか？\n"
+	},
+	{
+		"ID": 4437,
+		"unitID": 2400121,
+		"questionID": 29400123,
+		"script": ";;黒風の嵐轟,3\n# face 2400121 \"usual\"\n# textflame 1 1\n# voice 240012 \"arutemisu_k_0001\"\n@アルテミス\nマスター、少しよろしいでしょうか\n\n# face 240012 \"normal\"\n@アルテミス\n突然ではありますが\nここでクイズを出したいと思います\n\n# eye %(unit_a)s \"close\"\n@アルテミス\n身構えないでください\nたいした問題ではありません\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"usual\"\n@アルテミス\n私のことを知っていれば、\nですが…\nふふっ…\n\n@アルテミス\nそれでは、問題です\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の☆６のリーダースキルは\nご存知ですか？\n\n# se \"SE_0734\"\n# select \"黒風の雪\" \"select_label_1\" \"黒風の雨\" \"select_label_2\" \"黒風の嵐轟\" \"select_label_3\"\n私の☆６のリーダースキルは\nご存知ですか？\n"
+	},
+	{
+		"ID": 4438,
+		"unitID": 2400121,
+		"questionID": 29400124,
+		"script": ";;7人,1\n# face 2400121 \"usual\"\n# textflame 1 1\n# voice 240012 \"arutemisu_k_0001\"\n@アルテミス\nマスター、少しよろしいでしょうか\n\n# face 240012 \"normal\"\n@アルテミス\n突然ではありますが\nここでクイズを出したいと思います\n\n# eye %(unit_a)s \"close\"\n@アルテミス\n身構えないでください\nたいした問題ではありません\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"usual\"\n@アルテミス\n私のことを知っていれば、\nですが…\nふふっ…\n\n@アルテミス\nそれでは、問題です\n;;---------------------------------\n\n@%(unitName:unit_a)s\nブラックキラーズは\n全部で何人かわかりますか？\n\n# se \"SE_0734\"\n# select \"7人\" \"select_label_1\" \"8人\" \"select_label_2\" \"12人\" \"select_label_3\"\nブラックキラーズは\n全部で何人かわかりますか？\n"
+	},
+	{
+		"ID": 4439,
+		"unitID": 2400121,
+		"questionID": 29400125,
+		"script": ";;粛清の黒,2\n# face 2400121 \"usual\"\n# textflame 1 1\n# voice 240012 \"arutemisu_k_0001\"\n@アルテミス\nマスター、少しよろしいでしょうか\n\n# face 240012 \"normal\"\n@アルテミス\n突然ではありますが\nここでクイズを出したいと思います\n\n# eye %(unit_a)s \"close\"\n@アルテミス\n身構えないでください\nたいした問題ではありません\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"usual\"\n@アルテミス\n私のことを知っていれば、\nですが…\nふふっ…\n\n@アルテミス\nそれでは、問題です\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私が覚える付与スキルは\nおわかりですか…？\n\n# se \"SE_0734\"\n# select \"粛清の白\" \"select_label_1\" \"粛清の黒\" \"select_label_2\" \"粛清の茶\" \"select_label_3\"\n私が覚える付与スキルは\nおわかりですか…？\n"
+	},
+	{
+		"ID": 4440,
+		"unitID": 2400121,
+		"questionID": 29400126,
+		"script": ";;深遠の黒印,3\n# face 2400121 \"usual\"\n# textflame 1 1\n# voice 240012 \"arutemisu_k_0001\"\n@アルテミス\nマスター、少しよろしいでしょうか\n\n# face 240012 \"normal\"\n@アルテミス\n突然ではありますが\nここでクイズを出したいと思います\n\n# eye %(unit_a)s \"close\"\n@アルテミス\n身構えないでください\nたいした問題ではありません\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"usual\"\n@アルテミス\n私のことを知っていれば、\nですが…\nふふっ…\n\n@アルテミス\nそれでは、問題です\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私が覚える付与スキルは\nおわかりですか…？\n\n# se \"SE_0734\"\n# select \"久遠の黒印\" \"select_label_1\" \"永遠の黒印\" \"select_label_2\" \"深遠の黒印\" \"select_label_3\"\n私が覚える付与スキルは\nおわかりですか…？\n"
+	},
+	{
+		"ID": 4441,
+		"unitID": 2400121,
+		"questionID": 29400127,
+		"script": ";;黒式・蒼月嵐,1\n# face 2400121 \"usual\"\n# textflame 1 1\n# voice 240012 \"arutemisu_k_0001\"\n@アルテミス\nマスター、少しよろしいでしょうか\n\n# face 240012 \"normal\"\n@アルテミス\n突然ではありますが\nここでクイズを出したいと思います\n\n# eye %(unit_a)s \"close\"\n@アルテミス\n身構えないでください\nたいした問題ではありません\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"usual\"\n@アルテミス\n私のことを知っていれば、\nですが…\nふふっ…\n\n@アルテミス\nそれでは、問題です\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私が取得したスキルは\n知っていますか…？\n\n# se \"SE_0734\"\n# select \"黒式・蒼月嵐\" \"select_label_1\" \"黒式・満月嵐 \" \"select_label_2\" \"黒式・三日月嵐\" \"select_label_3\"\n私が取得したスキルは\n知っていますか…？\n"
+	},
+	{
+		"ID": 4442,
+		"unitID": 2400121,
+		"questionID": 29400128,
+		"script": ";;黒式・月輝,2\n# face 2400121 \"usual\"\n# textflame 1 1\n# voice 240012 \"arutemisu_k_0001\"\n@アルテミス\nマスター、少しよろしいでしょうか\n\n# face 240012 \"normal\"\n@アルテミス\n突然ではありますが\nここでクイズを出したいと思います\n\n# eye %(unit_a)s \"close\"\n@アルテミス\n身構えないでください\nたいした問題ではありません\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"usual\"\n@アルテミス\n私のことを知っていれば、\nですが…\nふふっ…\n\n@アルテミス\nそれでは、問題です\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私が取得したスキルは\n知っていますか…？\n\n# se \"SE_0734\"\n# select \"黒式・光輝\" \"select_label_1\" \"黒式・月輝\" \"select_label_2\" \"黒式・土輝\" \"select_label_3\"\n私が取得したスキルは\n知っていますか…？\n"
+	},
+	{
+		"ID": 4443,
+		"unitID": 2400121,
+		"questionID": 29400129,
+		"script": ";;拒絶の堅殻,3\n# face 2400121 \"usual\"\n# textflame 1 1\n# voice 240012 \"arutemisu_k_0001\"\n@アルテミス\nマスター、少しよろしいでしょうか\n\n# face 240012 \"normal\"\n@アルテミス\n突然ではありますが\nここでクイズを出したいと思います\n\n# eye %(unit_a)s \"close\"\n@アルテミス\n身構えないでください\nたいした問題ではありません\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"usual\"\n@アルテミス\n私のことを知っていれば、\nですが…\nふふっ…\n\n@アルテミス\nそれでは、問題です\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私が覚えるデュエルスキルは\nおわかりですか…？\n\n# se \"SE_0734\"\n# select \"拒絶の闇\" \"select_label_1\" \"拒絶の壁\" \"select_label_2\" \"拒絶の堅殻\" \"select_label_3\"\n私が覚えるデュエルスキルは\nおわかりですか…？\n"
+	},
+	{
+		"ID": 4444,
+		"unitID": 2400121,
+		"questionID": 29400130,
+		"script": ";;色欲の王器,1\n# face 2400121 \"usual\"\n# textflame 1 1\n# voice 240012 \"arutemisu_k_0001\"\n@アルテミス\nマスター、少しよろしいでしょうか\n\n# face 240012 \"normal\"\n@アルテミス\n突然ではありますが\nここでクイズを出したいと思います\n\n# eye %(unit_a)s \"close\"\n@アルテミス\n身構えないでください\nたいした問題ではありません\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"usual\"\n@アルテミス\n私のことを知っていれば、\nですが…\nふふっ…\n\n@アルテミス\nそれでは、問題です\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私のスキルで王姫型限定の\nスキルはどれでしょうか？\n\n# se \"SE_0734\"\n# select \"色欲の王器\" \"select_label_1\" \"色欲の食器\" \"select_label_2\" \"色欲の壺\" \"select_label_3\"\n私のスキルで王姫型限定の\nスキルはどれでしょうか？\n"
+	},
+	{
+		"ID": 4445,
+		"unitID": 2400121,
+		"questionID": 29400131,
+		"script": ";;Lust,1\n# textflame 1 1\n@アルテミス\n…つかぬ事をお伺いします\n\n# face 2400121 \"usual\"\n@アルテミス\nマスターは私のことを\nどれだけお知りになって\nいるのでしょうか\n\n@アルテミス\n私が司っているのは“色欲”\nそんな私と二人きりだなんて\n何も知らないだけか、それとも…\n\n# voice 240012 \"arutemisu_k_0002\"\n@アルテミス\nいえ、このクイズで見極めます\nお答えをお願いします\n;;---------------------------------\n\n@%(unitName:unit_a)s\n七つの大罪の「色欲」は\n英語で何と言うのですか？\n\n# se \"SE_0734\"\n# select \"Lust\" \"select_label_1\" \"Pride\" \"select_label_2\" \"Gluttony\" \"select_label_3\"\n七つの大罪の「色欲」は\n英語で何と言うのですか？\n"
+	},
+	{
+		"ID": 4446,
+		"unitID": 2400121,
+		"questionID": 29400132,
+		"script": ";;July,2\n# textflame 1 1\n@アルテミス\n…つかぬ事をお伺いします\n\n# face 2400121 \"usual\"\n@アルテミス\nマスターは私のことを\nどれだけお知りになって\nいるのでしょうか\n\n@アルテミス\n私が司っているのは“色欲”\nそんな私と二人きりだなんて\n何も知らないだけか、それとも…\n\n# voice 240012 \"arutemisu_k_0002\"\n@アルテミス\nいえ、このクイズで見極めます\nお答えをお願いします\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の誕生月「７月」を\n英語で言うと…？\n\n# se \"SE_0734\"\n# select \"February\" \"select_label_1\" \"July\" \"select_label_2\" \"August\" \"select_label_3\"\n私の誕生月「７月」を\n英語で言うと…？\n"
+	},
+	{
+		"ID": 4447,
+		"unitID": 2400121,
+		"questionID": 29400133,
+		"script": ";;青,3\n# textflame 1 1\n@アルテミス\n…つかぬ事をお伺いします\n\n# face 2400121 \"usual\"\n@アルテミス\nマスターは私のことを\nどれだけお知りになって\nいるのでしょうか\n\n@アルテミス\n私が司っているのは“色欲”\nそんな私と二人きりだなんて\n何も知らないだけか、それとも…\n\n# voice 240012 \"arutemisu_k_0002\"\n@アルテミス\nいえ、このクイズで見極めます\nお答えをお願いします\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の瞳の色、ご存知ですか？\n\n# se \"SE_0734\"\n# select \"黒\" \"select_label_1\" \"赤\" \"select_label_2\" \"青\" \"select_label_3\"\n私の瞳の色、ご存知ですか？\n"
+	},
+	{
+		"ID": 4448,
+		"unitID": 2400121,
+		"questionID": 29400134,
+		"script": ";;シャルウル,1\n# textflame 1 1\n@アルテミス\n…つかぬ事をお伺いします\n\n# face 2400121 \"usual\"\n@アルテミス\nマスターは私のことを\nどれだけお知りになって\nいるのでしょうか\n\n@アルテミス\n私が司っているのは“色欲”\nそんな私と二人きりだなんて\n何も知らないだけか、それとも…\n\n# voice 240012 \"arutemisu_k_0002\"\n@アルテミス\nいえ、このクイズで見極めます\nお答えをお願いします\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私と同じ誕生月の方を\n選んでください…\n\n# se \"SE_0734\"\n# select \"シャルウル\" \"select_label_1\" \"ワズラ\" \"select_label_2\" \"ミストルティン\" \"select_label_3\"\n私と同じ誕生月の方を\n選んでください…\n"
+	},
+	{
+		"ID": 4449,
+		"unitID": 2400121,
+		"questionID": 29400135,
+		"script": ";;Cancer,2\n# textflame 1 1\n@アルテミス\n…つかぬ事をお伺いします\n\n# face 2400121 \"usual\"\n@アルテミス\nマスターは私のことを\nどれだけお知りになって\nいるのでしょうか\n\n@アルテミス\n私が司っているのは“色欲”\nそんな私と二人きりだなんて\n何も知らないだけか、それとも…\n\n# voice 240012 \"arutemisu_k_0002\"\n@アルテミス\nいえ、このクイズで見極めます\nお答えをお願いします\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私、かに座なのですが\nかに座を英語で言うと…？\n\n# se \"SE_0734\"\n# select \"Capricorn\" \"select_label_1\" \"Cancer\" \"select_label_2\" \"Gemini\" \"select_label_3\"\n私、かに座なのですが\nかに座を英語で言うと…？\n"
+	},
+	{
+		"ID": 4450,
+		"unitID": 2400121,
+		"questionID": 29400136,
+		"script": ";;金,3\n# textflame 1 1\n@アルテミス\n…つかぬ事をお伺いします\n\n# face 2400121 \"usual\"\n@アルテミス\nマスターは私のことを\nどれだけお知りになって\nいるのでしょうか\n\n@アルテミス\n私が司っているのは“色欲”\nそんな私と二人きりだなんて\n何も知らないだけか、それとも…\n\n# voice 240012 \"arutemisu_k_0002\"\n@アルテミス\nいえ、このクイズで見極めます\nお答えをお願いします\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の髪の毛の色…\n一部がこの色なのですが…\n\n# se \"SE_0734\"\n# select \"銀\" \"select_label_1\" \"赤\" \"select_label_2\" \"金\" \"select_label_3\"\n私の髪の毛の色…\n一部がこの色なのですが…\n"
+	},
+	{
+		"ID": 4451,
+		"unitID": 2400121,
+		"questionID": 29400137,
+		"script": ";;真面目です,1\n# textflame 1 1\n@アルテミス\n…つかぬ事をお伺いします\n\n# face 2400121 \"usual\"\n@アルテミス\nマスターは私のことを\nどれだけお知りになって\nいるのでしょうか\n\n@アルテミス\n私が司っているのは“色欲”\nそんな私と二人きりだなんて\n何も知らないだけか、それとも…\n\n# voice 240012 \"arutemisu_k_0002\"\n@アルテミス\nいえ、このクイズで見極めます\nお答えをお願いします\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私は性格上、この傾向にあります\nどれでしょうか…？\n\n# se \"SE_0734\"\n# select \"真面目です\" \"select_label_1\" \"明るいです\" \"select_label_2\" \"ケチです\" \"select_label_3\"\n私は性格上、この傾向にあります\nどれでしょうか…？\n"
+	},
+	{
+		"ID": 4452,
+		"unitID": 2400121,
+		"questionID": 29400138,
+		"script": ";;デュランダル,2\n# textflame 1 1\n@アルテミス\n…つかぬ事をお伺いします\n\n# face 2400121 \"usual\"\n@アルテミス\nマスターは私のことを\nどれだけお知りになって\nいるのでしょうか\n\n@アルテミス\n私が司っているのは“色欲”\nそんな私と二人きりだなんて\n何も知らないだけか、それとも…\n\n# voice 240012 \"arutemisu_k_0002\"\n@アルテミス\nいえ、このクイズで見極めます\nお答えをお願いします\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私と血液型が同じ方は\nどなたでしょうか…？\n\n# se \"SE_0734\"\n# select \"ペルーン\" \"select_label_1\" \"デュランダル\" \"select_label_2\" \"ピナーカ\" \"select_label_3\"\n私と血液型が同じ方は\nどなたでしょうか…？\n"
+	},
+	{
+		"ID": 4453,
+		"unitID": 2400121,
+		"questionID": 29400139,
+		"script": ";;バルムンク,3\n# textflame 1 1\n@アルテミス\n…つかぬ事をお伺いします\n\n# face 2400121 \"usual\"\n@アルテミス\nマスターは私のことを\nどれだけお知りになって\nいるのでしょうか\n\n@アルテミス\n私が司っているのは“色欲”\nそんな私と二人きりだなんて\n何も知らないだけか、それとも…\n\n# voice 240012 \"arutemisu_k_0002\"\n@アルテミス\nいえ、このクイズで見極めます\nお答えをお願いします\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私と血液型が違う方は\nどなたでしょうか…？\n\n# se \"SE_0734\"\n# select \"アスカロン\" \"select_label_1\" \"アイムール\" \"select_label_2\" \"バルムンク\" \"select_label_3\"\n私と血液型が違う方は\nどなたでしょうか…？\n"
+	},
+	{
+		"ID": 4454,
+		"unitID": 2400121,
+		"questionID": 29400140,
+		"script": ";;アポロン,1\n# textflame 1 1\n@アルテミス\n…つかぬ事をお伺いします\n\n# face 2400121 \"usual\"\n@アルテミス\nマスターは私のことを\nどれだけお知りになって\nいるのでしょうか\n\n@アルテミス\n私が司っているのは“色欲”\nそんな私と二人きりだなんて\n何も知らないだけか、それとも…\n\n# voice 240012 \"arutemisu_k_0002\"\n@アルテミス\nいえ、このクイズで見極めます\nお答えをお願いします\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私と同じ誕生日のキラープリンセスは\n次のうちどなたかわかりますか…？\n\n# se \"SE_0734\"\n# select \"アポロン\" \"select_label_1\" \"エロース\" \"select_label_2\" \"レーヴァテイン\" \"select_label_3\"\n私と同じ誕生日のキラープリンセスは\n次のうちどなたかわかりますか…？\n"
+	},
+	{
+		"ID": 4455,
+		"unitID": 2400121,
+		"questionID": 29400141,
+		"script": "\n;;私,1\n# se \"SE_0734\"\n# select \"私\" \"select_label_1\" \"貴方\" \"select_label_2\" \"ボク\" \"select_label_3\"\nアルテミスの一人称は\n次のうちどれ？\n"
+	},
+	{
+		"ID": 4456,
+		"unitID": 2400121,
+		"questionID": 29400142,
+		"script": "\n;;マスター,2\n# se \"SE_0734\"\n# select \"お前\" \"select_label_1\" \"マスター\" \"select_label_2\" \"下僕\" \"select_label_3\"\nアルテミスはアンタのこと、\nなんて呼んでる？\n"
+	},
+	{
+		"ID": 4457,
+		"unitID": 2400121,
+		"questionID": 29400143,
+		"script": "\n;;95cm,3\n# se \"SE_0734\"\n# select \"85cm\" \"select_label_1\" \"90cm\" \"select_label_2\" \"95cm\" \"select_label_3\"\nアルテミスの\nバストサイズがどのくらいか\nアンタ…知ってるの？\n"
+	},
+	{
+		"ID": 4458,
+		"unitID": 2400121,
+		"questionID": 29400144,
+		"script": "\n;;61cm,1\n# se \"SE_0734\"\n# select \"61cm\" \"select_label_1\" \"60cm\" \"select_label_2\" \"62cm\" \"select_label_3\"\nアルテミスの\nウエストサイズがどのくらいか\nアンタ…知ってるの？\n"
+	},
+	{
+		"ID": 4459,
+		"unitID": 2400121,
+		"questionID": 29400145,
+		"script": "\n;;89cm,2\n# se \"SE_0734\"\n# select \"84cm\" \"select_label_1\" \"89cm\" \"select_label_2\" \"87cm\" \"select_label_3\"\nアルテミスの\nヒップサイズがどのくらいか\nアンタ…知ってるの？\n"
+	},
+	{
+		"ID": 4460,
+		"unitID": 2400121,
+		"questionID": 29400146,
+		"script": "\n;;54kg,3\n# se \"SE_0734\"\n# select \"52kg\" \"select_label_1\" \"42kg\" \"select_label_2\" \"54kg\" \"select_label_3\"\nアルテミスの体重は\n次のうちどれ？\n"
+	},
+	{
+		"ID": 4461,
+		"unitID": 2400121,
+		"questionID": 29400147,
+		"script": "\n;;245,1\n# se \"SE_0734\"\n# select \"245\" \"select_label_1\" \"251\" \"select_label_2\" \"233\" \"select_label_3\"\nアルテミスの\nバスト＋ウエスト＋ヒップは\nいくつかわかる？\n"
+	},
+	{
+		"ID": 4462,
+		"unitID": 2400121,
+		"questionID": 29400150,
+		"script": "\n;;佐藤利奈,1\n# se \"SE_0734\"\n# select \"佐藤利奈\" \"select_label_1\" \"高垣彩陽\" \"select_label_2\" \"優木かな\" \"select_label_3\"\nアルテミスの声優は誰？\n"
+	}
+]

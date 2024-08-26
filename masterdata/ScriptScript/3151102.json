@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 3151102,
+		"script": "# script \"lisp\"\n# background \"colosseum_rise\"\n# bgm \"bgm007\" 0\n# body 101411\n# pos 101411 2\n# body 0\n# pos 0 4\n# textboxarrow 0 3\n# face 0 \"angry\"\n# chara 0\n@デュリン\n１匹だけじゃなく…\nエネミースキルを持ってる奴が\n何匹もいるなんて\n\n# textboxarrow 0 3\n# chara 0\n@デュリン\nまったく…\nどうなってるのよ！\n\n# serif 1\n# textboxarrow 1 1\n# face 101411 \"sad\"\n# chara 101411\n@ティルフィング\nエネミースキルを持った異族が、\nこれ以上出現すると厳しいですね…\n\n# serif 0\n# textboxarrow 0 3\n# face 0 \"occur\"\n# voice 9999 \"durin_0027\"\n# chara 0\n@デュリン\n新種の異族か…\nったく、面倒事ばかりだわね\n\n# serif 1\n# textboxarrow 1 1\n# chara 101411\n@ティルフィング\nはい…\n"
+	}
+]

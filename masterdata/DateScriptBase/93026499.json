@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 93026499,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# se \"SE_0732\"\n# voice 3026 \"grayside_0005\"\n;;-----------------------------------------\n@グラーシーザ\nおおっ！せいかいだ、マスター！\nさすがだな！\n\n@グラーシーザ\nこうもたやすく、こたえられるとは\nちょっと、おどろかされたぞ？\n\n@グラーシーザ\nひょっとして、これくらいは\nかんたんだったか？\n\n@グラーシーザ\nともあれ、ありがとうマスター\nしらなかったらと、しんぱいだったが\nおかげで、すっきりしたぞ！\n\n@グラーシーザ\nだが、マスターには、まだまだ\nたくさん、あたしのことを\nしってほしい\n\n@グラーシーザ\nだから、また\nこうして、さそってくれると\nうれしいぞ\n\n# textflame 0 0\n@\n満面の笑みでそう告げる\nグラーシーザの様子に\nマスターもうれしく思う\n\n@\nこのとき\nたしかに彼女との絆が強まるのを\nマスターは感じるのだった…\n\n;;-----------------------------------------\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

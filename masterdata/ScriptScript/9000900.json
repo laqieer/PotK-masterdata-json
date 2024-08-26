@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 9000900,
+		"script": "# script \"lisp\"\n# background \"makabe_gate\"\n# bgmfile \"bgm173\" \"BgmPJZero003\" 0\n# textsize 36\n# textflame 0 0\n@\n　 反乱分子を粛清する\n　　 黒奏官に仕える\n\n# textflame 0 0\n@\n　 最凶最悪のキル姫\n“ブラックキラーズ”降臨！\n\n# textsize 34\n# body 100161\n# pos 100161 3\n# mask 100161 off\n# scale 100161 0.8 0\n# fadein \"black\" 0.5\n@\n　　   “憤怒”を纏う\n　　  必殺のマサムネ\n\n# fadein \"black\" 0.5\n# alpha 100161 0 0\n# body 400151\n# pos 400151 3\n# mask 400151 off\n# scale 400151 0.8 0 \n@\n　　“色欲”を背負いし\n　　 堅牢のアルテミス\n\n# textsize 24\n# fadein \"black\" 0.5\n# pos 100161 1\n# alpha 100161 1 0\n# move 400151 5 0\n# layer 100161 2\n# layer 400151 1\n@\n“ブラックキラーズ”のスキルは\n・ユニット初のカウンターアタック！\n・味方ユニットの命中率補正持ち！\n\n# textflame 0 0\n# textsize 36\n@\n　　闇堕つキラーズ\n　　  天上に現る！\n"
+	}
+]

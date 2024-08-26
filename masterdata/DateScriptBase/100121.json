@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 100121,
+		"script": ";;混浴、嫌だった？,大\n;;だって別々は寂しいもの,小\n;;ええ、確信犯です,中\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_onsen\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 0 0\n@\nマスターは\nマサムネを誘って\n水着着用の温泉にやってきた\n\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@マサムネ\n温泉と聞いて\n舞い上がってしまった\n拙者の落ち度とはいえ…\n;;----------------------------------------\n\n# voice 1001 \"masamune_0019\"\n# textflame 1 1\n@%(unitName:unit_a)s\n最も確認すべきことが\n抜け落ちていた…\nなんたる不覚…\n\n# select \"混浴、嫌だった？\" \"select_label_01\" \"だって別々は寂しいもの\" \"select_label_02\" \"ええ、確信犯です\" \"select_label_03\"\n最も確認すべきことが\n抜け落ちていた…\nなんたる不覚…\n\n# label \"select_label_01\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_02\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_03\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# textflame 1 1\n# waitandnext 0.1\n\n# label \"select_label_end\"\n# waitandnext 1.2\n# fadeout \"black\" 2\n"
+	}
+]

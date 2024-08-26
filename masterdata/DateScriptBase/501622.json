@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 501622,
+		"script": ";;B 大当たり\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_fireworks\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# voice 5016 \"Flabellum_0005\"\n# face %(unit_a)s \"smile\"\n@フラベルム\n花火のように？\n…そう。それは素敵ですね\n\n# eye %(unit_a)s \"close\"\n@フラベルム\nほんの一瞬、花開き輝く…\n確かにけがれとは\n無縁の生き方ですね\n\n# textflame 0 0\n@\nマスターの言葉に\n珍しくフラベルムは\n表情と言葉を一致させた\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"normal\"\n# textflame 1 1\n@フラベルム\n…そう、いい生き方だとは思いますが\n一つだけ問題がありますね\n\n@フラベルム\n花火のように一瞬で終わっては\nわたくしが困ってしまいます\n\n# face %(unit_a)s \"smile\"\n@フラベルム\nわたくしは\nこれからもマスターとは一緒に…\n\n# textflame 0 0\n@\n一際大きな花火が上がる\nその轟音にフラベルムの言葉が\nかき消された…\n\n@\nしかしマスターは聞き返さなかった\nすでに十分気持ちは伝わっていた…\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

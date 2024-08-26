@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 301010013,
+		"script": ";;-----------------------------------------\n;;キズナアイコラボ_イベントシナリオ天上編ED\n;;-----------------------------------------\n# script \"lisp\"\n# background \"bg_black\"\n# bgm \"bgm014\" 0\n;;-----------------------------------------\n# body 52000711\n# pos 52000711 3\n# scale 52000711 0.8 0\n# layer 52000711 3\n# mask 52000711 off\n# alpha 52000711 0 0\n;;-----------------------------------------\n# imageset 0 \"black\"\n# imagealpha 0 0 0\n# imagelayer 0 1\n;;-----------------------------------------\n# textwindow \"close\"\n# waitandnext 0.2\n\n# background \"imperial_city\"\n# imagealpha 0 1 0\n# imagepos 0 0 0\n# waitandnext 0.3\n\n# alpha 52000711 1 0\n# face 52000711 \"happy\"\n# imagealpha 0 0 0.5\n# imagerightout 0 0.5\n# waitandnext 0.5\n\n# textflame 1 1\n# textwindow \"nomal\"\n# textboxarrow 0 2\n# voice 20007 \"kizunaai_0006\"\n@キズナアイ\n@キズナアイ\nやったー！\nこれで、天上編はクリアだねっ！\n\n# face 52000711 \"normal\"\n@キズナアイ\n天上世界の真実とか\n異族の正体とか\n\n@キズナアイ\nシナリオプレイしてる間、\n驚きっぱなしだったよー\n\n@キズナアイ\n特に10章がおすすめだね\n今まで隠されてきたことが、\n全部わかってさ\n\n@キズナアイ\nバトルも派手で、\n映画を見てるみたいだったよー\n\n@キズナアイ\nここから次のシナリオはどうなるのか\nすっごく気になるし、\nこのまま続けていこうかっ！\n\n# fadeout \"black\" 1\n# waitandnext 1"
+	}
+]

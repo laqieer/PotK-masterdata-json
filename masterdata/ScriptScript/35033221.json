@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 35033221,
+		"script": ";;【ラム（幼少期）】\n;;スキル効果　EP3：不明 \n;;※EP4：キャラクエなし\n;;【EP1】\n# script \"lisp\"\n# background \"plain\"\n# bgm \"bgm002\" 0\n# body 3503321\n# pos 3503321 3\n# scale 3503321 0.8 0\n# alpha 3503321 1 0\n# mask 3503321 off\n# textflame 0 0\n@\n飛び抜けた才能をもつ神童\n\n@\n彼女の戦う様を目の当たりにして\nそれが誇張されたものではないと\nわかる\n\n# imageset 1 \"c3503321\"\n# imagealpha 1 0 0\n# imagelayer 1 1\n@\nあれだけの戦いの後なのに\n息一つ乱していない彼女は\nマスターに向かって優しく微笑んだ\n\n;;■一枚絵指定\n;;背景：平原（昼）\n;;表情：照れている感じです\n;;構図：照れて、そっぽを向いているイメージです\n;;ボイス：「ラムがついてる。\n;;　　　　　だから何も心配することなんてないわ」\n# textwindow \"close\"\n# fadein \"white\" 3\n# imagealpha 1 1 0\n# imagepos 1 0 0\n# alpha 3503321 0 0\n# voice 5033 \"ramu_yousyou_unit_0006\"\n\n# frameout 0 1\n# waitandnext 0.8\n\n# fadeout \"black\" 1.5\n# waitandnext 1.5"
+	}
+]

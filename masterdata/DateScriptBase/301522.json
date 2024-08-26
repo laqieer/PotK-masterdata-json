@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 301522,
+		"script": ";;A\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_room\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# face %(unit_a)s \"angry\"\n# voice 3015 \"kyoko_0019\"\n# textflame 1 1\n@%(unitName:unit_a)s\nは？あのさぁ～…\nアタシだって好きで\nこんなことしてねーよ！\n\n@%(unitName:unit_a)s\n他のヤツらがだらしないから、\n仕方なくやってるだけだっての\n\n@%(unitName:unit_a)s\n…かぁ～、なんだよその顔！\nほんっとムカつく！\n\n# voice 3015 \"kyoko_0011\"\n@%(unitName:unit_a)s\nほら、掃除するぞ！\nマスターも手伝え！\n\n@%(unitName:unit_a)s\n当たり前だろ？\nマスターは客人である前に\n姫達のマスターだろうが\n\n@%(unitName:unit_a)s\nだったら姫の不始末は\nマスターの責任でもある\n…そうだろ？\n\n@%(unitName:unit_a)s\nわかったら、\nあいつらが帰ってくるまでに\n片付けるぞ！\n\n# textflame 0 0\n@\n杏子と共に気合いを入れて\n掃除に取り掛かるマスター\n\n@\n家事を通じて、二人の間には\nまたひとつ絆が生まれたのだった…\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

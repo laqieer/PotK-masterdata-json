@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 503212,
+		"script": ";;B,なにか欲しいものは？（大あたり）\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_shop\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# face %(unit_a)s \"sad\"\n# voice 250321 \"tiphereth_t_0028\"\n# textflame 1 1\n@ティファレト\n欲しいものですか？\nええと…\n\n# face %(unit_a)s \"surprise\"\n@ティファレト\n…そういえば\n日向ぼっこをするときに\n\n@ティファレト\n外で使える大きな敷物が\n欲しいと思っていたのです\n\n# face %(unit_a)s \"usual\"\n# voice 250321 \"tiphereth_t_0004\"\n@ティファレト\n主様や、他の姫達と\n並んで横になれるようにと…\n\n# face %(unit_a)s \"normal\"\n# voice 250321 \"tiphereth_t_0030\"\n@ティファレト\n買ってくださるのですか？\n感謝いたします、主様\n\n;;モノローグ\n# textflame 0 0\n@\nその後\n敷物を買った帰り道…\n\n# face %(unit_a)s \"sad\"\n# voice 250321 \"tiphereth_t_0002\"\n# textflame 1 1\n@ティファレト\nあの…主様？\n\n# face %(unit_a)s \"usual\"\n@ティファレト\nさっそくなのですが、\n明日のお昼に\n日向ぼっこをしませんか？\n\n@ティファレト\nできれば…\n私と主様の二人だけで、\nと思うのですが…\n\n# face %(unit_a)s \"angry\"\n# voice 250321 \"tiphereth_t_0015\"\n@ティファレト\nふ、深い意味はないのです！\n\n@ティファレト\nまずはお試しで、主様に\n敷物の寝心地を\n確認していただこうかと…\n\n# face %(unit_a)s \"normal\"\n# voice 250321 \"tiphereth_t_0020\"\n@ティファレト\nよろしいのですか？\nあぁ…ありがとうございます！\n\n@ティファレト\nふふっ…\n明日になるのが\n待ち遠しいですね\n\n;;モノローグ\n# textflame 0 0\n@\n頬に手を当てながら\n明日の予定に思いをはせる\nティファレトだった\n\n;;-----------------------------------------\n# waitandnext 2\n# fadeout \"black\" 1.2\n"
+	}
+]

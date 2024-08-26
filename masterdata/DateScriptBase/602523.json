@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 602523,
+		"script": ";;中C終わるからこそ…\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_fireworks\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n@カリス\n終わるからこそ、\n綺麗に見えるのかも…って？\n\n# face %(unit_a)s \"smile\"\n# voice 260251 \"chalice_t_0005\"\n@カリス\n…ふふふっ。今日のマスターさん、\nなんだかロマンチックだね～？\n\n@カリス\n…でも、たしかにね\nいつかは終わっちゃう花火を、\n二人で並んで見上げてる…\n\n# voice 260251 \"chalice_t_0004\"\n@カリス\nこの瞬間を、\nカリスちゃんとマスターさんの\n二人だけが共有してるんだ…\n\n# face %(unit_a)s \"usual\"\n# voice 260251 \"chalice_t_0003\"\n@カリス\nそれって、ちょっと切ないけど…\nなんだかとっても\n大事だなって気がする！\n\n# face %(unit_a)s \"shy\"\n# voice 260251 \"chalice_t_0001\"\n@カリス\n…ねえ、マスターさん\n\n@カリス\nわたしと君の時間も、\nいつかは終わっちゃう\nものなのかもしれないけど…\n\n# face %(unit_a)s \"smile\"\n# voice 260251 \"chalice_t_0005\"\n@カリス\n二人で起こしたミラクルは、\nいつまで経っても絶対に\n忘れないと思うんだ！\n\n@カリス\nこれからも二人で、\nたくさんミラクルを\n起こしていきたいな\n\n# face %(unit_a)s \"usual\"\n@カリス\n二人の願いを…\nううん、二人だけじゃなくて\n\n@カリス\nみんなの願いを、\nもっとたくさん\n叶えていきたいな…\n\n@カリス\nいつか、みんなの願いが\n叶う日まで…\n\n# face %(unit_a)s \"smile\"\n# voice 260251 \"chalice_t_0004\"\n@カリス\nずーっと一緒にいてね、\nマスターさん…\n\n# textflame 0 0\n@\nカリスがそっとマスターに\n寄り添う\n\n@\n大空に舞い上がる花火を\nいつまでも幸せそうに\n眺めながら…\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

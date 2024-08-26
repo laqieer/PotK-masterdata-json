@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 200311,
+		"script": ";;今日は見る側で,中\n;;乱入しちゃう？,小\n;;今度出よう,大\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background %(background)s\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 0 0\n@\nマスターは\nラブリュスを誘って\nライブハウスにやってきた\n\n# face %(unit_a)s \"sad\"\n# voice 2003 \"loveryus_0015\"\n# textflame 1 1\n@ラブリュス\nうぅぅ…\nどうして、どうして…\n;;----------------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nステージに立ってるのが\nラブリュスちゃんじゃないの～！？\n\n# select \"今日は見る側で\" \"select_label_01\" \"乱入しちゃう？\" \"select_label_02\" \"今度出よう\" \"select_label_03\"\nステージに立ってるのが\nラブリュスちゃんじゃないの～！？\n\n# label \"select_label_01\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_02\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_03\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_end\"\n# waitandnext 0.1\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

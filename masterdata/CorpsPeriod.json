@@ -1,0 +1,232 @@
+[
+	{
+		"ID": 1,
+		"setting_CorpsSetting": 1,
+		"start_at": "2021-03-13 00:00:00",
+		"end_at": "2021-03-31 23:59:59",
+		"end_at_disp": "2017-06-30 23:59:59",
+		"trade_coin_id": 4000001,
+		"banner_id": 104,
+		"priority": 7
+	},
+	{
+		"ID": 2,
+		"setting_CorpsSetting": 2,
+		"start_at": "2021-04-17 00:00:00",
+		"end_at": "2021-04-30 23:59:59",
+		"end_at_disp": "2017-06-30 23:59:59",
+		"trade_coin_id": 4000002,
+		"banner_id": 105,
+		"priority": 16
+	},
+	{
+		"ID": 3,
+		"setting_CorpsSetting": 3,
+		"start_at": "2022-02-19 00:00:00",
+		"end_at": "2022-03-03 23:59:59",
+		"end_at_disp": "2017-06-30 23:59:59",
+		"trade_coin_id": 4000003,
+		"banner_id": 106,
+		"priority": 10
+	},
+	{
+		"ID": 4,
+		"setting_CorpsSetting": 4,
+		"start_at": "2021-06-19 00:00:00",
+		"end_at": "2021-06-30 23:59:59",
+		"end_at_disp": "2017-06-30 23:59:59",
+		"trade_coin_id": 4000004,
+		"banner_id": 107,
+		"priority": 5
+	},
+	{
+		"ID": 5,
+		"setting_CorpsSetting": 5,
+		"start_at": "2021-07-17 00:00:00",
+		"end_at": "2021-07-31 23:59:59",
+		"end_at_disp": "2017-06-30 23:59:59",
+		"trade_coin_id": 4000005,
+		"banner_id": 108,
+		"priority": 9
+	},
+	{
+		"ID": 6,
+		"setting_CorpsSetting": 6,
+		"start_at": "2021-08-14 00:00:00",
+		"end_at": "2021-08-31 23:59:59",
+		"end_at_disp": "2017-06-30 23:59:59",
+		"trade_coin_id": 4000006,
+		"banner_id": 109,
+		"priority": 1
+	},
+	{
+		"ID": 7,
+		"setting_CorpsSetting": 7,
+		"start_at": "2021-11-13 00:00:00",
+		"end_at": "2021-11-30 23:59:59",
+		"end_at_disp": "2017-06-30 23:59:59",
+		"trade_coin_id": 4000007,
+		"banner_id": 110,
+		"priority": 4
+	},
+	{
+		"ID": 8,
+		"setting_CorpsSetting": 8,
+		"start_at": "2021-12-18 00:00:00",
+		"end_at": "2021-12-31 23:59:59",
+		"end_at_disp": "2017-06-30 23:59:59",
+		"trade_coin_id": 4000008,
+		"banner_id": 111,
+		"priority": 21
+	},
+	{
+		"ID": 9,
+		"setting_CorpsSetting": 9,
+		"start_at": "2022-01-15 00:00:00",
+		"end_at": "2022-01-31 23:59:59",
+		"end_at_disp": "2017-06-30 23:59:59",
+		"trade_coin_id": 4000009,
+		"banner_id": 112,
+		"priority": 8
+	},
+	{
+		"ID": 10,
+		"setting_CorpsSetting": 4,
+		"start_at": "2022-02-16 00:00:00",
+		"end_at": "2022-02-28 23:59:59",
+		"end_at_disp": "2022-03-31 23:59:59",
+		"trade_coin_id": 4000010,
+		"banner_id": 107,
+		"priority": 10
+	},
+	{
+		"ID": 11,
+		"setting_CorpsSetting": 10,
+		"start_at": "2022-03-19 00:00:00",
+		"end_at": "2022-03-31 23:59:59",
+		"end_at_disp": "2022-03-31 23:59:59",
+		"trade_coin_id": 2000021,
+		"banner_id": 113,
+		"priority": 8
+	},
+	{
+		"ID": 12,
+		"setting_CorpsSetting": 11,
+		"start_at": "2022-06-15 00:00:00",
+		"end_at": "2022-06-30 23:59:59",
+		"end_at_disp": "2022-03-31 23:59:59",
+		"trade_coin_id": 4000011,
+		"banner_id": 114,
+		"priority": 1
+	},
+	{
+		"ID": 13,
+		"setting_CorpsSetting": 12,
+		"start_at": "2022-07-16 00:00:00",
+		"end_at": "2022-07-31 23:59:59",
+		"end_at_disp": "2022-03-31 23:59:59",
+		"trade_coin_id": 4000012,
+		"banner_id": 115,
+		"priority": 1
+	},
+	{
+		"ID": 14,
+		"setting_CorpsSetting": 13,
+		"start_at": "2022-08-20 00:00:00",
+		"end_at": "2022-08-31 23:59:59",
+		"end_at_disp": "2022-03-31 23:59:59",
+		"trade_coin_id": 4000013,
+		"banner_id": 116,
+		"priority": 19
+	},
+	{
+		"ID": 15,
+		"setting_CorpsSetting": 14,
+		"start_at": "2024-01-19 00:00:00",
+		"end_at": "2024-01-31 23:59:59",
+		"end_at_disp": "2022-03-31 23:59:59",
+		"trade_coin_id": 4000014,
+		"banner_id": 117,
+		"priority": 1
+	},
+	{
+		"ID": 16,
+		"setting_CorpsSetting": 15,
+		"start_at": "2022-11-19 00:00:00",
+		"end_at": "2022-11-30 23:59:59",
+		"end_at_disp": "2023-03-31 23:59:59",
+		"trade_coin_id": 4000015,
+		"banner_id": 118,
+		"priority": 1
+	},
+	{
+		"ID": 17,
+		"setting_CorpsSetting": 16,
+		"start_at": "2023-01-14 00:00:00",
+		"end_at": "2023-01-31 23:59:59",
+		"end_at_disp": "2023-03-31 23:59:59",
+		"trade_coin_id": 4000016,
+		"banner_id": 119,
+		"priority": 1
+	},
+	{
+		"ID": 18,
+		"setting_CorpsSetting": 17,
+		"start_at": "2023-03-18 00:00:00",
+		"end_at": "2023-03-31 23:59:59",
+		"end_at_disp": "2023-03-31 23:59:59",
+		"trade_coin_id": 4000017,
+		"banner_id": 120,
+		"priority": 1
+	},
+	{
+		"ID": 19,
+		"setting_CorpsSetting": 18,
+		"start_at": "2023-12-15 00:00:00",
+		"end_at": "2023-12-31 23:59:59",
+		"end_at_disp": "2017-06-30 23:59:59",
+		"trade_coin_id": 4000018,
+		"banner_id": 105,
+		"priority": 1
+	},
+	{
+		"ID": 20,
+		"setting_CorpsSetting": 4,
+		"start_at": "2024-02-16 00:00:00",
+		"end_at": "2024-02-29 23:59:59",
+		"end_at_disp": "2022-03-31 23:59:59",
+		"trade_coin_id": 4000010,
+		"banner_id": 107,
+		"priority": 10
+	},
+	{
+		"ID": 21,
+		"setting_CorpsSetting": 11,
+		"start_at": "2024-03-15 00:00:00",
+		"end_at": "2024-03-31 23:59:59",
+		"end_at_disp": "2022-03-31 23:59:59",
+		"trade_coin_id": 4000011,
+		"banner_id": 114,
+		"priority": 1
+	},
+	{
+		"ID": 22,
+		"setting_CorpsSetting": 5,
+		"start_at": "2024-04-18 00:00:00",
+		"end_at": "2024-04-30 23:59:59",
+		"end_at_disp": "2017-06-30 23:59:59",
+		"trade_coin_id": 4000005,
+		"banner_id": 108,
+		"priority": 9
+	},
+	{
+		"ID": 23,
+		"setting_CorpsSetting": 3,
+		"start_at": "2024-05-16 00:00:00",
+		"end_at": "2024-05-27 14:59:59",
+		"end_at_disp": "2017-06-30 23:59:59",
+		"trade_coin_id": 4000003,
+		"banner_id": 106,
+		"priority": 10
+	}
+]

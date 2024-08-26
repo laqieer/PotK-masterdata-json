@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 202103193,
+		"script": ";;-----------------------------------------\n;;SEA5章_19-3\n;;-----------------------------------------\n# script \"lisp\"\n# background \"bg_black\"\n# bgmfile \"bgm214\" \"BgmAncientKillers001\" 0\n;;-----------------------------------------\n;;スイハfeat\n# body 6401711\n# pos 6401711 2\n# scale 6401711 0.8 0\n# layer 6401711 2\n# mask 6401711 off\n# alpha 6401711 0 0\n;;神令ラグナロクシルエット\n# body 3103611\n# pos 3103611 4\n# scale 3103611 0.8 0\n# layer 3103611 4\n# alpha 3103611 0 0\n# brightness 3103611 0 0\n;;-----------------------------------------\n# imageset 0 \"black\"\n# imagealpha 0 0 0\n# imagelayer 0 3\n;;-----------------------------------------\n;;背景：町（夜）：town_night_2\n# textwindow \"close\"\n# waitandnext 0.2\n\n# background \"town_night_2\"\n# imagealpha 0 1 0\n# imagepos 0 0 0\n# waitandnext 0.3\n\n;;スイハと神令ラグナロクのシルエットが対峙する\n# face 6401711 \"angry\"\n# alpha 6401711 1 0\n# alpha 3103611 1 0\n# imagealpha 0 0 0.5\n# imagerightout 0 0.5\n# waitandnext 0.5\n\n# textflame 1 1\n# textwindow \"nomal\"\n# textboxarrow 0 1\n@スイハ\nいざ、尋常に！\n\n# textboxarrow 0 3\n@？？？？？\n…………\n\n# fadeout \"black\" 1\n# waitandnext 1"
+	}
+]

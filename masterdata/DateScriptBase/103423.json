@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 103423,
+		"script": ";;B　中\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_onsen\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# face 2103411 \"sad\"\n# voice 1034 \"dakunesu_0026\"\n# textflame 1 1\n@ダクネス\n他の姫達にか？\n確かにそういった声を\n掛けられることもあるが…\n\n# voice 1034 \"dakunesu_0003\"\n# face 2103411 \"smile\"\n@ダクネス\nだからこそ、\nそうやって声を掛けてくる\n仲間を助けたいのだ\n\n# textflame 0 0\n@\nそうか、\nと感心するマスター\n\n# face 2103411 \"shy\"\n# voice 1034 \"dakunesu_0027\"\n# textflame 1 1\n@ダクネス\nそれに魔王に酷い目に\n遭わされるのは女騎士の仕事と\n決まっているからな\n\n@ダクネス\nそんなおいし…\nつらい目に他の姫を\nあわせるわけにはいかない\n\n# textflame 0 0\n;;モノローグ\n@\n何やら違う方向の\n言葉が聞こえてきた気がするが…\n\n;;モノローグ\n@\nけれどみんなを守りたいのは\n本心なのだろうと、マスター\n\n;;モノローグ\n@\nありがとう、\nと自然と声が出ていた\n\n# face 2103411 \"normal\"\n# textflame 1 1\n@ダクネス\n…………\n\n@ダクネス\nいや、いいんだ\n\n;;モノローグ\n# textflame 0 0\n@\nそのまま二人は\n体の芯が温まるまで\nゆっくりと温泉を堪能した\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

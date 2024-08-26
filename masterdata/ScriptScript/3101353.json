@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 3101353,
+		"script": "# script \"lisp\"\n# background \"foot_mountain_village\"\n# bgmfile \"bgm175\" \"BgmGakuen001\" 0\n# body 0\n# pos 0 3\n# envbody 1111 9 0\n# effectpattern 1111 1 0\n# effectstart 1111\n# textboxarrow 0 2\n# chara 0\n# face 0 \"happy\"\n# voice 9999 \"durin_0045\"\n@デュリン\nハッピーニューイヤー！\n\n# face 0 \"normal\"\n# chara 0\n@デュリン\nさぁて、\nお正月といえばなにが\n思い浮かぶかしら？\n\n# emotionbody 2222 10 0 -5 140\n# effectpattern 2222 2\n# effectstart 2222\n# jump 0\n# chara 0\n@デュリン\nそうよね！\nお年玉よね！\n\n# effectskip 2222\n# chara 0\n# face 0 \"proud\"\n# voice 9999 \"durin_0020\"\n@デュリン\nいくつになっても\n欲しいわよねぇ～\n\n# chara 0\n# se \"SE_0607\"\n# face 0 \"normal\"\n@デュリン\nそこで！\n今年はアタシからアンタ達へ\nお年玉を用意したわっ\n\n# chara 0\n@デュリン\n大吉みたいな良い結果の敵なら\nたくさんポイントが稼げるわ！\n\n# chara 0\n# face 0 \"happy\"\n@デュリン\nこのクエストでスコアを貯めて\nごほうびをGETしてよね！\n\n# chara 0\n# voice 9999 \"durin_0005\"\n@デュリン\n去年は\nいっぱい遊んでくれて\nありがとー！\n\n# chara 0\n# se \"SE_0607\"\n@デュリン\nもっともーっと楽しくしていくから、\n今年もファントムオブキルを\nよろしくね！"
+	}
+]

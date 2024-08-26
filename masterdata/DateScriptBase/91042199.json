@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 91042199,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# se \"SE_0732\"\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n@モラベガ\nマスター、\nその答え…\n\n# face %(unit_a)s \"smile\"\n# voice 210421 \"morabeaga_l_0004\"\n@モラベガ\n正解だよ！\n\n@モラベガ\nすごいね、マスター\n私たちのこと、\nちゃんと見ててくれてたんだね\n\n@モラベガ\nこれで、また立てるよ！\n明日から始まる\n私たちの新しい舞台に！！\n\n# textflame 0 0\n@\n嬉しそうに宣言する彼女\n\n# textflame 0 0\n@\n彼女との距離が縮まり、\n胸に熱いものを感じる\nマスターだった…\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 100105011,
+		"script": ";;5_1_1\n;;第9話　タイトル：世界蛇の毒\n;;//背景：壁の穴\n# script \"lisp\"\n# background \"101_cave\"\n# bgmfile \"bgm276\" \"BgmLostRagnarokEvent\" 0\n# body 3100111\n# pos 3100111 4\n# scale 3100111 0.8 0\n# body 3103811\n# pos 3103811 2\n# scale 3103811 0.8 0\n# mask 3103811 off\n# textwindow \"nomal\"\n# textflame 1 1\n# face 3100111 \"angry\"\n# voice 310011 \"masamune_ge_0004\"\n# textboxarrow 0 3\n@マサムネ\nどうした？その程度では\n我が氷刃を防ぐこともままならんぞ\n\n# face 3103811 \"worry\"\n# voice 1038 \"almace_battle_0005\"\n# textboxarrow 0 1\n@アルマス\n…なんだか、おかしい\nあの刀を受けているだけで…\n手足の動きが鈍って…\n\n# textboxarrow 0 3\n@マサムネ\n世界蛇の毒が効いてきたようだな\nもはやまともに戦うことは敵うまい\n\n# voice 1038 \"almace_0015\"\n# textboxarrow 0 1\n@アルマス\nそういうこと…\n\n# face 3103811 \"angry\"\n@アルマス\nでも、私は絶対に諦めないっ\n\n# se \"SE_5648\"\n# voice 310011 \"masamune_ge_0006\"\n# textboxarrow 0 3\n@マサムネ\nその意気や良し\nこの刃の露と消えよ！"
+	}
+]

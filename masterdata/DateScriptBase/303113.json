@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 303113,
+		"script": ";;中C楽しそうでよかった\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_aquarium_day\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 230311 \"cassius_ge_0022\"\n@カシウス\nえ…？　わたし、\nそんなに楽しそうにしてた…？\n\n@カシウス\nうん…まったく\n自覚がなかった…\nどうしてわかったの？\n\n@カシウス\n表情が、いつもより柔らかい？\n\n@カシウス\nそうなんだ…\nさっきのわたし、\nどんな表情をしていたの？\n\n# face %(unit_a)s \"angry\"\n# voice 230311 \"cassius_ge_0028\"\n@カシウス\nむ…こんな感じ？\nそれとも…むむむ…こう？\n\n@カシウス\nこれだと、口角が上がりすぎ？\nむう…よくわからない…\n\n# face %(unit_a)s \"normal\"\n# voice 230311 \"cassius_ge_0001\"\n@カシウス\n…御館様、\nわたしの顔、触って？\n\n@カシウス\nどんな表情だったか、\n御館様が動かしてみて…\n\n# face %(unit_a)s \"angry\"\n# voice 230311 \"cassius_ge_0028\"\n@カシウス\n…むっ…\nむう…むむむ…\n\n@カシウス\n…おやかたひゃま？\n\n@カシウス\nすこし、楽しんでいない…？\n\n@カシウス\nそんなことはない…？\n本当に…？\n\n@カシウス\nむう…結局、\nどんな表情だったか\nわからなかった…\n\n# face %(unit_a)s \"normal\"\n@カシウス\n…まあ、いい\n\n# face %(unit_a)s \"smile\"\n# voice 230311 \"cassius_ge_0004\"\n@カシウス\n御館様と一緒にいれば、\nきっとまたすぐに…ね\n\n# textflame 0 0\n@\nそう呟いて、カシウスは\nまた表情を柔らかくする\n\n# textflame 0 0\n@\nその顔だよ、と思いながらも\nマスターは声に出さず…\n微笑ましくカシウスを見ていた\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

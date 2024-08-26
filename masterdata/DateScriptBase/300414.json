@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 300414,
+		"script": "# script \"lisp\"\n# fadein \"black\" 0.5\n# background %(background)s\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n@天沼矛\nええ、愉快です♪\n見ていて飽きませんね！\n\n# textflame 1 1\n@天沼矛\nじー…\n\n# textflame 1 1\n@天沼矛\nぐるぐる～…\n\n# textflame 1 1\n@天沼矛\n…………\n\n# textflame 0 0\n@\n水槽にかじりつく\n天沼矛が満足するまで\nずっと魚達を観察し続けた…\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

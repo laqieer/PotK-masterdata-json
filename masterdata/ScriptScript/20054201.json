@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 20054201,
+		"script": ";;【EP1】\n# script \"lisp\"\n# background \"Schoolyard_evening\"\n# bgm \"bgm002\" 0\n# body 92\n# mask 92 off\n# pos 92 3\n# body 200511\n# pos 200511 3\n# alpha 200511 0 0\n# alpha 92 0 0\n# textflame 0 0\n@\n放課後のラグナロク女学園――\n運動部の掛け声がこだまする\nグラウンドの隅で……\n\n@\nしゃがんだままじっと動かない\nミトゥムを発見する\n見回り中のマスター……\n\n@\n明らかに、どう見ても\n…挙動不審極まりない！\n\n# alpha 92 1 0.5\n# textflame 1 1\n# textboxarrow 0 2\n# chara 92\n# face 92 \"surprise\"\n@ミトゥム\nっっっ！！！！！！！！\n\n@ミトゥム\nしーー！\nしーーーー！\n\n# face 92 \"angry\"\n# voice 2005 \"mitwumu_0009\"\n@ミトゥム\nなに驚かせてくれてんだよ…\nバカ！\n\n@ミトゥム\n今…すげーデリケートな\nことしてるんだから…！\n\n# textflame 0 0\n@\nますます意味がわからない…\n\n# textflame 1 1\n# textboxarrow 0 2\n# chara 92\n# voice 2005 \"mitwumu_0011\"\n@ミトゥム\nとにかく動くな…\n声出すな、息するな…！\n\n# textflame 0 0\n@\nいや…それ死んじゃいます…\n\n@\nマスターに小声でまくし立てると\nミトゥムは再びじっと動かなくなる\n\n@\nどうやらなにかの様子を\n伺っている…？\n\n# textflame 1 1\n# textboxarrow 0 2\n# chara 92\n@ミトゥム\nいいか…とにかくミトゥムの\n邪魔するなよ…\nそこでじっとしてろマスター…\n\n# textflame 0 0\n@\nミトゥムはジリジリと…\n前方の草むらに\nにじり寄り始める…\n\n# textflame 1 1\n# textboxarrow 0 2\n# face 92 \"usual\"\n# chara 92\n@ミトゥム\nよーし、いいぞ…\n動くなよー…\n\n# imageset 0 \"black\"\n# imagealpha 0 0 0\n# textflame 0 0\n@\nその時だった\n\n# imagealpha 0 1 0\n# imagepos 0 0 0 \n# fadein \"white\" 0.5\n@\n草むらから勢いよく\nなにかが飛び出してきた！！\n\n@\nマスターは突如視界を失う\nそして…\n\n@\nなんだかモフッとする！！"
+	}
+]

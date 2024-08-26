@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 20202201,
+		"script": ";;【EP1】\n# script \"lisp\"\n# background \"classroom03_daytime\"\n# bgm \"bgm003\" 0\n# body 202021\n# pos 202021 3\n# mask 202021 off\n# alpha 202021 0 0\n# face 202021 \"angry\"\n# textflame 0 0\n@\n放課後――\n\n@\n突然、ハルパーに\n呼びつけられたマスターは…\n\n# alpha 202021 1 0.5\n# textflame 1 1\n# textboxarrow 0 2\n# chara 202021\n# face 202021 \"sad\"\n# voice 2020 \"harpe_0019\"\n@ハルパー\n赤点は取っていない？\nええ、その通りですね\nでは…\n\n@ハルパー\n赤点を取っていない…\n補習を受けなくてもいい…\n\n# face 202021 \"angry\"\n@ハルパー\nなぜこの２つが\nイコールになると考えたのかを\n１５０文字以内で述べなさい\n\n# textflame 0 0\n@\n…こんな調子で\nいきなり補習を\n受けることになったのである\n\n@\n問答無用のようなので…\n腹をくくって配られたプリントに\n目を落とすマスターだったが…\n\n@\n難しい！！\nしかも一問しかない…！？\n\n# textflame 1 1\n# textboxarrow 0 2\n# chara 202021\n# face 202021 \"happy\"\n# voice 2020 \"harpe_0020\"\n@ハルパー\n今現在、私が授業で教えている範囲\nすべての知識を総動員すれば\nその問題は解けるはずですわ\n\n# face 202021 \"sad\"\n# voice 2020 \"harpe_0019\"\n@ハルパー\n合格点？\n部分点はあるのか…？\n\n# face 202021 \"shy\"\n# voice 2020 \"harpe_0021\"\n@ハルパー\n面白いことを言いますね\n問題は一問だけですよ？\n\n# voice 2020 \"harpe_0004\"\n@ハルパー\n正解と不正解\nそれ以外になにがあると？\n\n# textflame 0 0\n@\n満面の笑み…！\n\n# voice 2020 \"harpe_0020\"\n# face 202021 \"normal\"\n# textflame 1 1\n# textboxarrow 0 2\n# chara 202021\n@ハルパー\nちなみに、\n正解するまで帰しません\n\n# textflame 0 0\n@\nいつも通り厳しいが\nいつものハルパーとどこか違う…\n\n@\n漠然とした違和感を覚えつつ、\nマスターは\n静かに覚悟を決めた…"
+	}
+]

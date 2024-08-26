@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 503714,
+		"script": ";;C\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_museum2\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# face 2503711 \"sad\"\n# voice 550371 \"logistille_c_0023\"\n# textflame 1 1\n@ロジェスティラ\nええええぇっ！？\nお、恐ろしい魔術って…！！\n\n@ロジェスティラ\nそ、そうですねっ…\nたしかに、いざという時には\n必要になりますよね…\n\n# face 2503711 \"angry\"\n# voice 550371 \"logistille_c_0033\"\n@ロジェスティラ\nわかりました、やりますっ！\nマスターさんの期待に\n応えてみせますっ…！\n\n@ロジェスティラ\n一瞬で敵を葬れるような、\n恐ろしい魔術を\n完成させますね…！！\n\n# face 2503711 \"surprise\"\n# voice 550371 \"logistille_c_0022\"\n@ロジェスティラ\nえっ、誤解？\nどういうことでしょう…？\n\n@ロジェスティラ\nああっ！恐ろしいって、\nおばけとかの話でしたかっ…！\n\n# face 2503711 \"normal\"\n# voice 550371 \"logistille_c_0040\"\n@ロジェスティラ\nなるほど…！\nホラーハウス的なものを作って、\nみなさんに楽しんでもらうと！\n\n@ロジェスティラ\nとても良いと思いますっ！\nさっそくいろいろ\n試してみますねっ…！\n\n# textflame 0 0\n@\n後日、姫たち専用の\nホラーハウスが建てられ、\nそれなりの人気を博したのだが\n\n@\n一番怖がっていたのが\nロジェスティラだったことは、\n二人だけの秘密になった…\n\n;;-----------------------------------------\n# waitandnext 2\n# fadeout \"black\" 1.2\n"
+	}
+]

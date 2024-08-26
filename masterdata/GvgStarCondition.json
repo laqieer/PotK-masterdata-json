@@ -1,0 +1,35 @@
+[
+	{
+		"ID": 1,
+		"breakaway_condition_GvgBreakawayCondition": 1,
+		"player_gauge_condition": 0,
+		"player_gauge_value": 0,
+		"enemy_gauge_condition": 1,
+		"enemy_gauge_value": 0,
+		"remain_turn_condition": 0,
+		"remain_turn_value": 0,
+		"star_num": 3
+	},
+	{
+		"ID": 2,
+		"breakaway_condition_GvgBreakawayCondition": 2,
+		"player_gauge_condition": 0,
+		"player_gauge_value": 0,
+		"enemy_gauge_condition": 1,
+		"enemy_gauge_value": 0,
+		"remain_turn_condition": 0,
+		"remain_turn_value": 0,
+		"star_num": 2
+	},
+	{
+		"ID": 3,
+		"breakaway_condition_GvgBreakawayCondition": 3,
+		"player_gauge_condition": 0,
+		"player_gauge_value": 0,
+		"enemy_gauge_condition": 0,
+		"enemy_gauge_value": 0,
+		"remain_turn_condition": 0,
+		"remain_turn_value": 0,
+		"star_num": 1
+	}
+]

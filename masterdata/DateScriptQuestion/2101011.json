@@ -1,0 +1,302 @@
+[
+	{
+		"ID": 2701,
+		"unitID": 2101011,
+		"questionID": 9101001,
+		"script": ";;癒えない傷,1\n# face %(unit_a)s \"smile\"\n# voice 1010 \"furagaraha_0001\"\n@フラガラッハ\nマスター\nわたし、最近思う事が\nありますの\n\n@フラガラッハ\nわたし、クイズに答えるのが\n大好きなのですけれど\n\n# face %(unit_a)s \"smile\"\n@フラガラッハ\n出す方も\n楽しいのではないかと…\n\n@フラガラッハ\nなので\n出してみても、いいですか？\n\n# face %(unit_a)s \"normal\"\n# voice 1010 \"furagaraha_0036\"\n@フラガラッハ\nありがとうございます\nでは、行きますね？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしのキラーズ『フラガラッハ』は\n斬りつけた敵に対してとある効果を\n発揮しますが、わかるかしら？\n\n# se \"SE_0734\"\n# select \"癒えない傷\" \"select_label_1\" \"腐敗する傷\" \"select_label_2\" \"燃え上がる傷\" \"select_label_3\"\nわたしのキラーズ『フラガラッハ』は\n斬りつけた敵に対してとある効果を\n発揮しますが、わかるかしら？\n"
+	},
+	{
+		"ID": 2702,
+		"unitID": 2101011,
+		"questionID": 9101002,
+		"script": ";;剣,2\n# face %(unit_a)s \"smile\"\n# voice 1010 \"furagaraha_0001\"\n@フラガラッハ\nマスター\nわたし、最近思う事が\nありますの\n\n@フラガラッハ\nわたし、クイズに答えるのが\n大好きなのですけれど\n\n# face %(unit_a)s \"smile\"\n@フラガラッハ\n出す方も\n楽しいのではないかと…\n\n@フラガラッハ\nなので\n出してみても、いいですか？\n\n# face %(unit_a)s \"normal\"\n# voice 1010 \"furagaraha_0036\"\n@フラガラッハ\nありがとうございます\nでは、行きますね？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしのキラーズ『フラガラッハ』は\nどのような武器だったかしら？\n\n# se \"SE_0734\"\n# select \"槍\" \"select_label_1\" \"剣\" \"select_label_2\" \"弓\" \"select_label_3\"\nわたしのキラーズ『フラガラッハ』は\nどのような武器だったかしら？\n"
+	},
+	{
+		"ID": 2703,
+		"unitID": 2101011,
+		"questionID": 9101003,
+		"script": ";;ルー,3\n# face %(unit_a)s \"smile\"\n# voice 1010 \"furagaraha_0001\"\n@フラガラッハ\nマスター\nわたし、最近思う事が\nありますの\n\n@フラガラッハ\nわたし、クイズに答えるのが\n大好きなのですけれど\n\n# face %(unit_a)s \"smile\"\n@フラガラッハ\n出す方も\n楽しいのではないかと…\n\n@フラガラッハ\nなので\n出してみても、いいですか？\n\n# face %(unit_a)s \"normal\"\n# voice 1010 \"furagaraha_0036\"\n@フラガラッハ\nありがとうございます\nでは、行きますね？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしのキラーズ『フラガラッハ』を\n所持していたのは\n誰だったかしら？\n\n# se \"SE_0734\"\n# select \"エスス\" \"select_label_1\" \"ルゴス\" \"select_label_2\" \"ルー\" \"select_label_3\"\nわたしのキラーズ『フラガラッハ』を\n所持していたのは\n誰だったかしら？\n"
+	},
+	{
+		"ID": 2704,
+		"unitID": 2101011,
+		"questionID": 9101004,
+		"script": ";;マナナン・マクリル,1\n# face %(unit_a)s \"smile\"\n# voice 1010 \"furagaraha_0001\"\n@フラガラッハ\nマスター\nわたし、最近思う事が\nありますの\n\n@フラガラッハ\nわたし、クイズに答えるのが\n大好きなのですけれど\n\n# face %(unit_a)s \"smile\"\n@フラガラッハ\n出す方も\n楽しいのではないかと…\n\n@フラガラッハ\nなので\n出してみても、いいですか？\n\n# face %(unit_a)s \"normal\"\n# voice 1010 \"furagaraha_0036\"\n@フラガラッハ\nありがとうございます\nでは、行きますね？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしのキラーズ『フラガラッハ』を\n光神ルーに渡したのは\n誰だか覚えているかしら？\n\n# se \"SE_0734\"\n# select \"マナナン・マクリル\" \"select_label_1\" \"ケルヌンノス\" \"select_label_2\" \"テウタテス\" \"select_label_3\"\nわたしのキラーズ『フラガラッハ』を\n光神ルーに渡したのは\n誰だか覚えているかしら？\n"
+	},
+	{
+		"ID": 2705,
+		"unitID": 2101011,
+		"questionID": 9101005,
+		"script": ";;ケルト神話,2\n# face %(unit_a)s \"smile\"\n# voice 1010 \"furagaraha_0001\"\n@フラガラッハ\nマスター\nわたし、最近思う事が\nありますの\n\n@フラガラッハ\nわたし、クイズに答えるのが\n大好きなのですけれど\n\n# face %(unit_a)s \"smile\"\n@フラガラッハ\n出す方も\n楽しいのではないかと…\n\n@フラガラッハ\nなので\n出してみても、いいですか？\n\n# face %(unit_a)s \"normal\"\n# voice 1010 \"furagaraha_0036\"\n@フラガラッハ\nありがとうございます\nでは、行きますね？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしのキラーズ『フラガラッハ』は\nなんの神話に登場したかしら？\n\n# se \"SE_0734\"\n# select \"マヤ神話\" \"select_label_1\" \"ケルト神話\" \"select_label_2\" \"インカ神話\" \"select_label_3\"\nわたしのキラーズ『フラガラッハ』は\nなんの神話に登場したかしら？\n"
+	},
+	{
+		"ID": 2706,
+		"unitID": 2101011,
+		"questionID": 9101006,
+		"script": ";;応答するもの,3\n# face %(unit_a)s \"smile\"\n# voice 1010 \"furagaraha_0001\"\n@フラガラッハ\nマスター\nわたし、最近思う事が\nありますの\n\n@フラガラッハ\nわたし、クイズに答えるのが\n大好きなのですけれど\n\n# face %(unit_a)s \"smile\"\n@フラガラッハ\n出す方も\n楽しいのではないかと…\n\n@フラガラッハ\nなので\n出してみても、いいですか？\n\n# face %(unit_a)s \"normal\"\n# voice 1010 \"furagaraha_0036\"\n@フラガラッハ\nありがとうございます\nでは、行きますね？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしのキラーズ『フラガラッハ』は\n二つ名があるのですけれど…\n覚えているかしら？\n\n# se \"SE_0734\"\n# select \"反応するもの\" \"select_label_1\" \"返答するもの\" \"select_label_2\" \"応答するもの\" \"select_label_3\"\nわたしのキラーズ『フラガラッハ』は\n二つ名があるのですけれど…\n覚えているかしら？\n"
+	},
+	{
+		"ID": 2707,
+		"unitID": 2101011,
+		"questionID": 9101007,
+		"script": ";;風を操る,1\n# face %(unit_a)s \"smile\"\n# voice 1010 \"furagaraha_0001\"\n@フラガラッハ\nマスター\nわたし、最近思う事が\nありますの\n\n@フラガラッハ\nわたし、クイズに答えるのが\n大好きなのですけれど\n\n# face %(unit_a)s \"smile\"\n@フラガラッハ\n出す方も\n楽しいのではないかと…\n\n@フラガラッハ\nなので\n出してみても、いいですか？\n\n# face %(unit_a)s \"normal\"\n# voice 1010 \"furagaraha_0036\"\n@フラガラッハ\nありがとうございます\nでは、行きますね？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしのキラーズ『フラガラッハ』は\n特殊な能力があるのですけれど\nわかりますよね？\n\n# se \"SE_0734\"\n# select \"風を操る\" \"select_label_1\" \"火を操る\" \"select_label_2\" \"水を操る\" \"select_label_3\"\nわたしのキラーズ『フラガラッハ』は\n特殊な能力があるのですけれど\nわかりますよね？\n"
+	},
+	{
+		"ID": 2708,
+		"unitID": 2101011,
+		"questionID": 9101008,
+		"script": ";;鎧,2\n# face %(unit_a)s \"smile\"\n# voice 1010 \"furagaraha_0001\"\n@フラガラッハ\nマスター\nわたし、最近思う事が\nありますの\n\n@フラガラッハ\nわたし、クイズに答えるのが\n大好きなのですけれど\n\n# face %(unit_a)s \"smile\"\n@フラガラッハ\n出す方も\n楽しいのではないかと…\n\n@フラガラッハ\nなので\n出してみても、いいですか？\n\n# face %(unit_a)s \"normal\"\n# voice 1010 \"furagaraha_0036\"\n@フラガラッハ\nありがとうございます\nでは、行きますね？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしのキラーズ『フラガラッハ』の\n一撃は、ある物でも受け止められない\nと言われるのだけれど…\n\n# se \"SE_0734\"\n# select \"盾\" \"select_label_1\" \"鎧\" \"select_label_2\" \"生身\" \"select_label_3\"\nわたしのキラーズ『フラガラッハ』の\n一撃は、ある物でも受け止められない\nと言われるのだけれど…\n"
+	},
+	{
+		"ID": 2709,
+		"unitID": 2101011,
+		"questionID": 9101009,
+		"script": ";;ひとりでに抜ける,3\n# face %(unit_a)s \"smile\"\n# voice 1010 \"furagaraha_0001\"\n@フラガラッハ\nマスター\nわたし、最近思う事が\nありますの\n\n@フラガラッハ\nわたし、クイズに答えるのが\n大好きなのですけれど\n\n# face %(unit_a)s \"smile\"\n@フラガラッハ\n出す方も\n楽しいのではないかと…\n\n@フラガラッハ\nなので\n出してみても、いいですか？\n\n# face %(unit_a)s \"normal\"\n# voice 1010 \"furagaraha_0036\"\n@フラガラッハ\nありがとうございます\nでは、行きますね？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしのキラーズ『フラガラッハ』は\n抜こうと思ったら\nどうなるのだったかしら？\n\n# se \"SE_0734\"\n# select \"抜けない\" \"select_label_1\" \"持ち主を斬りつける\" \"select_label_2\" \"ひとりでに抜ける\" \"select_label_3\"\nわたしのキラーズ『フラガラッハ』は\n抜こうと思ったら\nどうなるのだったかしら？\n"
+	},
+	{
+		"ID": 2710,
+		"unitID": 2101011,
+		"questionID": 9101010,
+		"script": ";;敵を勝手に倒す,1\n# face %(unit_a)s \"smile\"\n# voice 1010 \"furagaraha_0001\"\n@フラガラッハ\nマスター\nわたし、最近思う事が\nありますの\n\n@フラガラッハ\nわたし、クイズに答えるのが\n大好きなのですけれど\n\n# face %(unit_a)s \"smile\"\n@フラガラッハ\n出す方も\n楽しいのではないかと…\n\n@フラガラッハ\nなので\n出してみても、いいですか？\n\n# face %(unit_a)s \"normal\"\n# voice 1010 \"furagaraha_0036\"\n@フラガラッハ\nありがとうございます\nでは、行きますね？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしのキラーズ『フラガラッハ』を\n敵に向かって投げると\n一体なにが起きるかしら？\n\n# se \"SE_0734\"\n# select \"敵を勝手に倒す\" \"select_label_1\" \"どこかに飛んでいく\" \"select_label_2\" \"空中に留まる\" \"select_label_3\"\nわたしのキラーズ『フラガラッハ』を\n敵に向かって投げると\n一体なにが起きるかしら？\n"
+	},
+	{
+		"ID": 2711,
+		"unitID": 2101011,
+		"questionID": 9101011,
+		"script": ";;風に吹かれる,1\n# face %(unit_a)s \"normal\"\n@フラガラッハ\nあなたがわたしの\nマスターになって\nどれくらい経ったでしょうか？\n\n# eye %(unit_a)s \"close\"\n@フラガラッハ\nいえ…\n深い意味はないのですわ\n\n# eye %(unit_a)s \"normal\"\n# voice 1010 \"furagaraha_0003\"\n@フラガラッハ\nマスターがどれくらい\nわたしの事をご存知なのか\n少し気になって…\n\n@フラガラッハ\n失礼ですが\nここら辺で簡単なクイズを\n出しても？\n\n# face %(unit_a)s \"smile\"\n# voice 1010 \"furagaraha_0004\"\n@フラガラッハ\n大丈夫ですわ\n全部、わたしの事ですから\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしの趣味は\nなんでしょう？\n\n# se \"SE_0734\"\n# select \"風に吹かれる\" \"select_label_1\" \"敵を斬る\" \"select_label_2\" \"寝る\" \"select_label_3\"\nわたしの趣味は\nなんでしょう？\n"
+	},
+	{
+		"ID": 2712,
+		"unitID": 2101011,
+		"questionID": 9101012,
+		"script": ";;しし座,2\n# face %(unit_a)s \"normal\"\n@フラガラッハ\nあなたがわたしの\nマスターになって\nどれくらい経ったでしょうか？\n\n# eye %(unit_a)s \"close\"\n@フラガラッハ\nいえ…\n深い意味はないのですわ\n\n# eye %(unit_a)s \"normal\"\n# voice 1010 \"furagaraha_0003\"\n@フラガラッハ\nマスターがどれくらい\nわたしの事をご存知なのか\n少し気になって…\n\n@フラガラッハ\n失礼ですが\nここら辺で簡単なクイズを\n出しても？\n\n# face %(unit_a)s \"smile\"\n# voice 1010 \"furagaraha_0004\"\n@フラガラッハ\n大丈夫ですわ\n全部、わたしの事ですから\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしの星座はなに座でしょうか？\n\n# se \"SE_0734\"\n# select \"おうし座\" \"select_label_1\" \"しし座\" \"select_label_2\" \"みずがめ座\" \"select_label_3\"\nわたしの星座はなに座でしょうか？\n"
+	},
+	{
+		"ID": 2713,
+		"unitID": 2101011,
+		"questionID": 9101013,
+		"script": ";;ティル・ナ・ノーグ,3\n# face %(unit_a)s \"normal\"\n@フラガラッハ\nあなたがわたしの\nマスターになって\nどれくらい経ったでしょうか？\n\n# eye %(unit_a)s \"close\"\n@フラガラッハ\nいえ…\n深い意味はないのですわ\n\n# eye %(unit_a)s \"normal\"\n# voice 1010 \"furagaraha_0003\"\n@フラガラッハ\nマスターがどれくらい\nわたしの事をご存知なのか\n少し気になって…\n\n@フラガラッハ\n失礼ですが\nここら辺で簡単なクイズを\n出しても？\n\n# face %(unit_a)s \"smile\"\n# voice 1010 \"furagaraha_0004\"\n@フラガラッハ\n大丈夫ですわ\n全部、わたしの事ですから\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしの出身地はどこですか？\n\n# se \"SE_0734\"\n# select \"イングランド\" \"select_label_1\" \"ゲルマニア\" \"select_label_2\" \"ティル・ナ・ノーグ\" \"select_label_3\"\nわたしの出身地はどこですか？\n"
+	},
+	{
+		"ID": 2714,
+		"unitID": 2101011,
+		"questionID": 9101014,
+		"script": ";;O型,1\n# face %(unit_a)s \"normal\"\n@フラガラッハ\nあなたがわたしの\nマスターになって\nどれくらい経ったでしょうか？\n\n# eye %(unit_a)s \"close\"\n@フラガラッハ\nいえ…\n深い意味はないのですわ\n\n# eye %(unit_a)s \"normal\"\n# voice 1010 \"furagaraha_0003\"\n@フラガラッハ\nマスターがどれくらい\nわたしの事をご存知なのか\n少し気になって…\n\n@フラガラッハ\n失礼ですが\nここら辺で簡単なクイズを\n出しても？\n\n# face %(unit_a)s \"smile\"\n# voice 1010 \"furagaraha_0004\"\n@フラガラッハ\n大丈夫ですわ\n全部、わたしの事ですから\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしの血液型は\nもちろん、知っていますわよね？\n\n# se \"SE_0734\"\n# select \"O型\" \"select_label_1\" \"A型\" \"select_label_2\" \"B型\" \"select_label_3\"\nわたしの血液型は\nもちろん、知っていますわよね？\n"
+	},
+	{
+		"ID": 2715,
+		"unitID": 2101011,
+		"questionID": 9101015,
+		"script": ";;クイズに答える,2\n# face %(unit_a)s \"normal\"\n@フラガラッハ\nあなたがわたしの\nマスターになって\nどれくらい経ったでしょうか？\n\n# eye %(unit_a)s \"close\"\n@フラガラッハ\nいえ…\n深い意味はないのですわ\n\n# eye %(unit_a)s \"normal\"\n# voice 1010 \"furagaraha_0003\"\n@フラガラッハ\nマスターがどれくらい\nわたしの事をご存知なのか\n少し気になって…\n\n@フラガラッハ\n失礼ですが\nここら辺で簡単なクイズを\n出しても？\n\n# face %(unit_a)s \"smile\"\n# voice 1010 \"furagaraha_0004\"\n@フラガラッハ\n大丈夫ですわ\n全部、わたしの事ですから\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしの好きなものは\nなにかしら？\n\n# se \"SE_0734\"\n# select \"質問をする\" \"select_label_1\" \"クイズに答える\" \"select_label_2\" \"報復をする\" \"select_label_3\"\nわたしの好きなものは\nなにかしら？\n"
+	},
+	{
+		"ID": 2716,
+		"unitID": 2101011,
+		"questionID": 9101016,
+		"script": ";薬草を見つける;必ず主の元に戻る勘,3\n# face 敵の位置がわかる勘%(unit_a)s \"normal\"\n@フラガラッハ\nあなたがわたしの\nマスターになって\nどれくらい経ったでしょうか？\n\n# eye %(unit_a)s \"close\"\n@フラガラッハ\nいえ…\n深い意味はないのですわ\n\n# eye %(unit_a)s \"normal\"\n# voice 1010 \"furagaraha_0003\"\n@フラガラッハ\nマスターがどれくらい\nわたしの事をご存知なのか\n少し気になって…\n\n@フラガラッハ\n失礼ですが\nここら辺で簡単なクイズを\n出しても？\n\n# face %(unit_a)s \"smile\"\n# voice 1010 \"furagaraha_0004\"\n@フラガラッハ\n大丈夫ですわ\n全部、わたしの事ですから\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしには、一種の特技と\n言ってもいい勘があるのだけれど\nわかるかしら？\n\n# se \"SE_0734\"\n# select \"薬草を見つける勘\" \"select_label_1\" \"敵の位置がわかる勘\" \"select_label_2\" \"必ず主の元に戻る勘\" \"select_label_3\"\nわたしには、一種の特技と\n言ってもいい勘があるのだけれど\nわかるかしら？\n"
+	},
+	{
+		"ID": 2717,
+		"unitID": 2101011,
+		"questionID": 9101017,
+		"script": ";;ブリューナク,1\n# face %(unit_a)s \"normal\"\n@フラガラッハ\nあなたがわたしの\nマスターになって\nどれくらい経ったでしょうか？\n\n# eye %(unit_a)s \"close\"\n@フラガラッハ\nいえ…\n深い意味はないのですわ\n\n# eye %(unit_a)s \"normal\"\n# voice 1010 \"furagaraha_0003\"\n@フラガラッハ\nマスターがどれくらい\nわたしの事をご存知なのか\n少し気になって…\n\n@フラガラッハ\n失礼ですが\nここら辺で簡単なクイズを\n出しても？\n\n# face %(unit_a)s \"smile\"\n# voice 1010 \"furagaraha_0004\"\n@フラガラッハ\n大丈夫ですわ\n全部、わたしの事ですから\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしにも親友はいるけど…\n誰だかご存じ？\n\n# se \"SE_0734\"\n# select \"ブリューナク\" \"select_label_1\" \"シタ\" \"select_label_2\" \"トライデント\" \"select_label_3\"\nわたしにも親友はいるけど…\n誰だかご存じ？\n"
+	},
+	{
+		"ID": 2718,
+		"unitID": 2101011,
+		"questionID": 9101018,
+		"script": ";;170cm,2\n# face %(unit_a)s \"normal\"\n@フラガラッハ\nあなたがわたしの\nマスターになって\nどれくらい経ったでしょうか？\n\n# eye %(unit_a)s \"close\"\n@フラガラッハ\nいえ…\n深い意味はないのですわ\n\n# eye %(unit_a)s \"normal\"\n# voice 1010 \"furagaraha_0003\"\n@フラガラッハ\nマスターがどれくらい\nわたしの事をご存知なのか\n少し気になって…\n\n@フラガラッハ\n失礼ですが\nここら辺で簡単なクイズを\n出しても？\n\n# face %(unit_a)s \"smile\"\n# voice 1010 \"furagaraha_0004\"\n@フラガラッハ\n大丈夫ですわ\n全部、わたしの事ですから\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしの身長は\nどのくらいかしら？\n\n# se \"SE_0734\"\n# select \"165cm\" \"select_label_1\" \"170cm\" \"select_label_2\" \"175cm\" \"select_label_3\"\nわたしの身長は\nどのくらいかしら？\n"
+	},
+	{
+		"ID": 2719,
+		"unitID": 2101011,
+		"questionID": 9101019,
+		"script": ";;ダグダ,3\n# face %(unit_a)s \"normal\"\n@フラガラッハ\nあなたがわたしの\nマスターになって\nどれくらい経ったでしょうか？\n\n# eye %(unit_a)s \"close\"\n@フラガラッハ\nいえ…\n深い意味はないのですわ\n\n# eye %(unit_a)s \"normal\"\n# voice 1010 \"furagaraha_0003\"\n@フラガラッハ\nマスターがどれくらい\nわたしの事をご存知なのか\n少し気になって…\n\n@フラガラッハ\n失礼ですが\nここら辺で簡単なクイズを\n出しても？\n\n# face %(unit_a)s \"smile\"\n# voice 1010 \"furagaraha_0004\"\n@フラガラッハ\n大丈夫ですわ\n全部、わたしの事ですから\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしと仲が良いキラーズは\nこの中ではどなた？\n\n# se \"SE_0734\"\n# select \"ハルパー\" \"select_label_1\" \"トライデント\" \"select_label_2\" \"ダグダ\" \"select_label_3\"\nわたしと仲が良いキラーズは\nこの中ではどなた？\n"
+	},
+	{
+		"ID": 2720,
+		"unitID": 2101011,
+		"questionID": 9101020,
+		"script": ";;8月10日,1\n# face %(unit_a)s \"normal\"\n@フラガラッハ\nあなたがわたしの\nマスターになって\nどれくらい経ったでしょうか？\n\n# eye %(unit_a)s \"close\"\n@フラガラッハ\nいえ…\n深い意味はないのですわ\n\n# eye %(unit_a)s \"normal\"\n# voice 1010 \"furagaraha_0003\"\n@フラガラッハ\nマスターがどれくらい\nわたしの事をご存知なのか\n少し気になって…\n\n@フラガラッハ\n失礼ですが\nここら辺で簡単なクイズを\n出しても？\n\n# face %(unit_a)s \"smile\"\n# voice 1010 \"furagaraha_0004\"\n@フラガラッハ\n大丈夫ですわ\n全部、わたしの事ですから\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしの誕生日は\n何月何日かしら？\n\n# se \"SE_0734\"\n# select \"8月10日\" \"select_label_1\" \"7月4日\" \"select_label_2\" \"9月10日\" \"select_label_3\"\nわたしの誕生日は\n何月何日かしら？\n"
+	},
+	{
+		"ID": 2721,
+		"unitID": 2101011,
+		"questionID": 9101021,
+		"script": ";;ブレイド,1\n# face %(unit_a)s \"normal\"\n# voice 1010 \"furagaraha_0001\"\n@フラガラッハ\n…マスター\n少し、よろしくて？\n\n# face %(unit_a)s \"smile\"\n@フラガラッハ\n突然なのですけれど\nクイズを出してもよろしいかしら？\n\n# eye %(unit_a)s \"close\"\n@フラガラッハ\nいえ、深い意味はないの…\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"sad\"\n@フラガラッハ\nただ、マスターがわたしのことを\nどれくらいご存じか、\n確かめたくて…\n\n# face %(unit_a)s \"smile\"\n@フラガラッハ\nいいのですの？\nでは、いきますね？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしが☆3の時のジョブは\nなんでしょう？\n\n# se \"SE_0734\"\n# select \"ブレイド\" \"select_label_1\" \"ソードマスター\" \"select_label_2\" \"アークドラグナー\" \"select_label_3\"\nわたしが☆3の時のジョブは\nなんでしょう？\n"
+	},
+	{
+		"ID": 2722,
+		"unitID": 2101011,
+		"questionID": 9101022,
+		"script": ";;ソードマスター,2\n# face %(unit_a)s \"normal\"\n# voice 1010 \"furagaraha_0001\"\n@フラガラッハ\n…マスター\n少し、よろしくて？\n\n# face %(unit_a)s \"smile\"\n@フラガラッハ\n突然なのですけれど\nクイズを出してもよろしいかしら？\n\n# eye %(unit_a)s \"close\"\n@フラガラッハ\nいえ、深い意味はないの…\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"sad\"\n@フラガラッハ\nただ、マスターがわたしのことを\nどれくらいご存じか、\n確かめたくて…\n\n# face %(unit_a)s \"smile\"\n@フラガラッハ\nいいのですの？\nでは、いきますね？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしが☆4の時のジョブは\nなんだったかしら？\n\n# se \"SE_0734\"\n# select \"フェニックスナイト\" \"select_label_1\" \"ソードマスター\" \"select_label_2\" \"剣聖\" \"select_label_3\"\nわたしが☆4の時のジョブは\nなんだったかしら？\n"
+	},
+	{
+		"ID": 2723,
+		"unitID": 2101011,
+		"questionID": 9101023,
+		"script": ";;剣聖,3\n# face %(unit_a)s \"normal\"\n# voice 1010 \"furagaraha_0001\"\n@フラガラッハ\n…マスター\n少し、よろしくて？\n\n# face %(unit_a)s \"smile\"\n@フラガラッハ\n突然なのですけれど\nクイズを出してもよろしいかしら？\n\n# eye %(unit_a)s \"close\"\n@フラガラッハ\nいえ、深い意味はないの…\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"sad\"\n@フラガラッハ\nただ、マスターがわたしのことを\nどれくらいご存じか、\n確かめたくて…\n\n# face %(unit_a)s \"smile\"\n@フラガラッハ\nいいのですの？\nでは、いきますね？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしが☆5の時の\nジョブはなにかしら？\n\n# se \"SE_0734\"\n# select \"フェニックスナイト\" \"select_label_1\" \"ソードマスター\" \"select_label_2\" \"剣聖\" \"select_label_3\"\nわたしが☆5の時の\nジョブはなにかしら？\n"
+	},
+	{
+		"ID": 2724,
+		"unitID": 2101011,
+		"questionID": 9101024,
+		"script": ";;薄幸の憫笑,1\n# face %(unit_a)s \"normal\"\n# voice 1010 \"furagaraha_0001\"\n@フラガラッハ\n…マスター\n少し、よろしくて？\n\n# face %(unit_a)s \"smile\"\n@フラガラッハ\n突然なのですけれど\nクイズを出してもよろしいかしら？\n\n# eye %(unit_a)s \"close\"\n@フラガラッハ\nいえ、深い意味はないの…\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"sad\"\n@フラガラッハ\nただ、マスターがわたしのことを\nどれくらいご存じか、\n確かめたくて…\n\n# face %(unit_a)s \"smile\"\n@フラガラッハ\nいいのですの？\nでは、いきますね？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしの☆5の\nリーダースキルはなにかしら？\n\n# se \"SE_0734\"\n# select \"薄幸の憫笑\" \"select_label_1\" \" 凍槍士の氷陣\" \"select_label_2\" \"轟天雷の共鳴\" \"select_label_3\"\nわたしの☆5の\nリーダースキルはなにかしら？\n"
+	},
+	{
+		"ID": 2725,
+		"unitID": 2101011,
+		"questionID": 9101025,
+		"script": ";;いない,2\n# face %(unit_a)s \"normal\"\n# voice 1010 \"furagaraha_0001\"\n@フラガラッハ\n…マスター\n少し、よろしくて？\n\n# face %(unit_a)s \"smile\"\n@フラガラッハ\n突然なのですけれど\nクイズを出してもよろしいかしら？\n\n# eye %(unit_a)s \"close\"\n@フラガラッハ\nいえ、深い意味はないの…\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"sad\"\n@フラガラッハ\nただ、マスターがわたしのことを\nどれくらいご存じか、\n確かめたくて…\n\n# face %(unit_a)s \"smile\"\n@フラガラッハ\nいいのですの？\nでは、いきますね？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしのライバルは\nいったい誰でしょう？\n\n# se \"SE_0734\"\n# select \"デュランダル\" \"select_label_1\" \"いない\" \"select_label_2\" \"トリシューラ\" \"select_label_3\"\nわたしのライバルは\nいったい誰でしょう？\n"
+	},
+	{
+		"ID": 2726,
+		"unitID": 2101011,
+		"questionID": 9101026,
+		"script": ";;薄幸の冷笑,3\n# face %(unit_a)s \"normal\"\n# voice 1010 \"furagaraha_0001\"\n@フラガラッハ\n…マスター\n少し、よろしくて？\n\n# face %(unit_a)s \"smile\"\n@フラガラッハ\n突然なのですけれど\nクイズを出してもよろしいかしら？\n\n# eye %(unit_a)s \"close\"\n@フラガラッハ\nいえ、深い意味はないの…\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"sad\"\n@フラガラッハ\nただ、マスターがわたしのことを\nどれくらいご存じか、\n確かめたくて…\n\n# face %(unit_a)s \"smile\"\n@フラガラッハ\nいいのですの？\nでは、いきますね？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしの☆３の\nリーダースキルを\n覚えているかしら？\n\n# se \"SE_0734\"\n# select \"癒術師の祈り\" \"select_label_1\" \"昏冥の共鳴\" \"select_label_2\" \"薄幸の冷笑\" \"select_label_3\"\nわたしの☆３の\nリーダースキルを\n覚えているかしら？\n"
+	},
+	{
+		"ID": 2727,
+		"unitID": 2101011,
+		"questionID": 9101027,
+		"script": ";;いない,1\n# face %(unit_a)s \"normal\"\n# voice 1010 \"furagaraha_0001\"\n@フラガラッハ\n…マスター\n少し、よろしくて？\n\n# face %(unit_a)s \"smile\"\n@フラガラッハ\n突然なのですけれど\nクイズを出してもよろしいかしら？\n\n# eye %(unit_a)s \"close\"\n@フラガラッハ\nいえ、深い意味はないの…\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"sad\"\n@フラガラッハ\nただ、マスターがわたしのことを\nどれくらいご存じか、\n確かめたくて…\n\n# face %(unit_a)s \"smile\"\n@フラガラッハ\nいいのですの？\nでは、いきますね？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしが尊敬している\nキラープリンセスは誰でしょう？\nふふ、わかるかしら？\n\n# se \"SE_0734\"\n# select \"いない\" \"select_label_1\" \"パラシュ\" \"select_label_2\" \"ナーゲルリング\" \"select_label_3\"\nわたしが尊敬している\nキラープリンセスは誰でしょう？\nふふ、わかるかしら？\n"
+	},
+	{
+		"ID": 2728,
+		"unitID": 2101011,
+		"questionID": 9101028,
+		"script": ";;落幸の結界,2\n# face %(unit_a)s \"normal\"\n# voice 1010 \"furagaraha_0001\"\n@フラガラッハ\n…マスター\n少し、よろしくて？\n\n# face %(unit_a)s \"smile\"\n@フラガラッハ\n突然なのですけれど\nクイズを出してもよろしいかしら？\n\n# eye %(unit_a)s \"close\"\n@フラガラッハ\nいえ、深い意味はないの…\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"sad\"\n@フラガラッハ\nただ、マスターがわたしのことを\nどれくらいご存じか、\n確かめたくて…\n\n# face %(unit_a)s \"smile\"\n@フラガラッハ\nいいのですの？\nでは、いきますね？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしがレベルアップによって\n取得するスキルは\n次のうちどれでしょう？\n\n# se \"SE_0734\"\n# select \"力の鼓動\" \"select_label_1\" \"落幸の結界\" \"select_label_2\" \"闇鎧付与\" \"select_label_3\"\nわたしがレベルアップによって\n取得するスキルは\n次のうちどれでしょう？\n"
+	},
+	{
+		"ID": 2729,
+		"unitID": 2101011,
+		"questionID": 9101029,
+		"script": ";;薄幸の微笑,3\n# face %(unit_a)s \"normal\"\n# voice 1010 \"furagaraha_0001\"\n@フラガラッハ\n…マスター\n少し、よろしくて？\n\n# face %(unit_a)s \"smile\"\n@フラガラッハ\n突然なのですけれど\nクイズを出してもよろしいかしら？\n\n# eye %(unit_a)s \"close\"\n@フラガラッハ\nいえ、深い意味はないの…\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"sad\"\n@フラガラッハ\nただ、マスターがわたしのことを\nどれくらいご存じか、\n確かめたくて…\n\n# face %(unit_a)s \"smile\"\n@フラガラッハ\nいいのですの？\nでは、いきますね？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしが☆４の時の\nリーダースキルは\n覚えていらして？\n\n# se \"SE_0734\"\n# select \"神竜の号令\" \"select_label_1\" \"白風の号令\" \"select_label_2\" \"薄幸の微笑\" \"select_label_3\"\nわたしが☆４の時の\nリーダースキルは\n覚えていらして？\n"
+	},
+	{
+		"ID": 2730,
+		"unitID": 2101011,
+		"questionID": 9101030,
+		"script": ";;反撃強化,1\n# face %(unit_a)s \"normal\"\n# voice 1010 \"furagaraha_0001\"\n@フラガラッハ\n…マスター\n少し、よろしくて？\n\n# face %(unit_a)s \"smile\"\n@フラガラッハ\n突然なのですけれど\nクイズを出してもよろしいかしら？\n\n# eye %(unit_a)s \"close\"\n@フラガラッハ\nいえ、深い意味はないの…\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"sad\"\n@フラガラッハ\nただ、マスターがわたしのことを\nどれくらいご存じか、\n確かめたくて…\n\n# face %(unit_a)s \"smile\"\n@フラガラッハ\nいいのですの？\nでは、いきますね？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしが最初に覚える\nスキルはなんでしょう？\n\n# se \"SE_0734\"\n# select \"反撃強化\" \"select_label_1\" \"守陣形・弓\" \"select_label_2\" \"急襲\" \"select_label_3\"\nわたしが最初に覚える\nスキルはなんでしょう？\n"
+	},
+	{
+		"ID": 2731,
+		"unitID": 2101011,
+		"questionID": 9101031,
+		"script": ";;戦略会議,1\n# face %(unit_a)s \"sad\"\n# voice 1010 \"furagaraha_0001\"\n@フラガラッハ\nマスター\n実は…\n最近気になっている事があるの\n\n# eye %(unit_a)s \"close\"\n@フラガラッハ\nいえ、大したことではないのよ\n\n# face %(unit_a)s \"normal\"\n# eye %(unit_a)s \"normal\"\n@フラガラッハ\nマスターが\nきちんとわたしを見ているのか…\n\n@フラガラッハ\n今日、ここで\n確かめさせてもらっても\nいいかしら？\n\n# face %(unit_a)s \"smile\"\n# voice 1010 \"furagaraha_0004\"\n@フラガラッハ\nふふ、簡単なクイズですわ\n\n@フラガラッハ\nでは、行きますよ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしの親友である\nブリューナクの趣味は\nなんでしょう？\n\n# se \"SE_0734\"\n# select \"戦略会議\" \"select_label_1\" \"昼寝\" \"select_label_2\" \"料理\" \"select_label_3\"\nわたしの親友である\nブリューナクの趣味は\nなんでしょう？\n"
+	},
+	{
+		"ID": 2732,
+		"unitID": 2101011,
+		"questionID": 9101032,
+		"script": ";;ブリューナク,2\n# face %(unit_a)s \"sad\"\n# voice 1010 \"furagaraha_0001\"\n@フラガラッハ\nマスター\n実は…\n最近気になっている事があるの\n\n# eye %(unit_a)s \"close\"\n@フラガラッハ\nいえ、大したことではないのよ\n\n# face %(unit_a)s \"normal\"\n# eye %(unit_a)s \"normal\"\n@フラガラッハ\nマスターが\nきちんとわたしを見ているのか…\n\n@フラガラッハ\n今日、ここで\n確かめさせてもらっても\nいいかしら？\n\n# face %(unit_a)s \"smile\"\n# voice 1010 \"furagaraha_0004\"\n@フラガラッハ\nふふ、簡単なクイズですわ\n\n@フラガラッハ\nでは、行きますよ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしの親友である\nブリューナクとは\nどちらが背が高いですか？\n\n# se \"SE_0734\"\n# select \"フラガラッハ\" \"select_label_1\" \"ブリューナク\" \"select_label_2\" \"同じ\" \"select_label_3\"\nわたしの親友である\nブリューナクとは\nどちらが背が高いですか？\n"
+	},
+	{
+		"ID": 2733,
+		"unitID": 2101011,
+		"questionID": 9101033,
+		"script": ";;ティル・ナ・ノーグ ,3\n# face %(unit_a)s \"sad\"\n# voice 1010 \"furagaraha_0001\"\n@フラガラッハ\nマスター\n実は…\n最近気になっている事があるの\n\n# eye %(unit_a)s \"close\"\n@フラガラッハ\nいえ、大したことではないのよ\n\n# face %(unit_a)s \"normal\"\n# eye %(unit_a)s \"normal\"\n@フラガラッハ\nマスターが\nきちんとわたしを見ているのか…\n\n@フラガラッハ\n今日、ここで\n確かめさせてもらっても\nいいかしら？\n\n# face %(unit_a)s \"smile\"\n# voice 1010 \"furagaraha_0004\"\n@フラガラッハ\nふふ、簡単なクイズですわ\n\n@フラガラッハ\nでは、行きますよ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしの親友である\nブリューナクの出身地は\nどこですか？\n\n# se \"SE_0734\"\n# select \"天界\" \"select_label_1\" \"アブー山\" \"select_label_2\" \"ティル・ナ・ノーグ\" \"select_label_3\"\nわたしの親友である\nブリューナクの出身地は\nどこですか？\n"
+	},
+	{
+		"ID": 2734,
+		"unitID": 2101011,
+		"questionID": 9101034,
+		"script": ";;腕,1\n# face %(unit_a)s \"sad\"\n# voice 1010 \"furagaraha_0001\"\n@フラガラッハ\nマスター\n実は…\n最近気になっている事があるの\n\n# eye %(unit_a)s \"close\"\n@フラガラッハ\nいえ、大したことではないのよ\n\n# face %(unit_a)s \"normal\"\n# eye %(unit_a)s \"normal\"\n@フラガラッハ\nマスターが\nきちんとわたしを見ているのか…\n\n@フラガラッハ\n今日、ここで\n確かめさせてもらっても\nいいかしら？\n\n# face %(unit_a)s \"smile\"\n# voice 1010 \"furagaraha_0004\"\n@フラガラッハ\nふふ、簡単なクイズですわ\n\n@フラガラッハ\nでは、行きますよ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしの親友である\nブリューナクの好きなものは\nなんでしょう？\n\n# se \"SE_0734\"\n# select \"腕\" \"select_label_1\" \"扇風機\" \"select_label_2\" \"足\" \"select_label_3\"\nわたしの親友である\nブリューナクの好きなものは\nなんでしょう？\n"
+	},
+	{
+		"ID": 2735,
+		"unitID": 2101011,
+		"questionID": 9101035,
+		"script": ";;なし,2\n# face %(unit_a)s \"sad\"\n# voice 1010 \"furagaraha_0001\"\n@フラガラッハ\nマスター\n実は…\n最近気になっている事があるの\n\n# eye %(unit_a)s \"close\"\n@フラガラッハ\nいえ、大したことではないのよ\n\n# face %(unit_a)s \"normal\"\n# eye %(unit_a)s \"normal\"\n@フラガラッハ\nマスターが\nきちんとわたしを見ているのか…\n\n@フラガラッハ\n今日、ここで\n確かめさせてもらっても\nいいかしら？\n\n# face %(unit_a)s \"smile\"\n# voice 1010 \"furagaraha_0004\"\n@フラガラッハ\nふふ、簡単なクイズですわ\n\n@フラガラッハ\nでは、行きますよ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしの口癖を\n覚えているかしら？\nふふ、よく言ってるあれよ\n\n# se \"SE_0734\"\n# select \"これぞトゥルース\" \"select_label_1\" \"なし\" \"select_label_2\" \"うん、いいわね…好きだわ\" \"select_label_3\"\nわたしの口癖を\n覚えているかしら？\nふふ、よく言ってるあれよ\n"
+	},
+	{
+		"ID": 2736,
+		"unitID": 2101011,
+		"questionID": 9101036,
+		"script": ";;秘密特訓,3\n# face %(unit_a)s \"sad\"\n# voice 1010 \"furagaraha_0001\"\n@フラガラッハ\nマスター\n実は…\n最近気になっている事があるの\n\n# eye %(unit_a)s \"close\"\n@フラガラッハ\nいえ、大したことではないのよ\n\n# face %(unit_a)s \"normal\"\n# eye %(unit_a)s \"normal\"\n@フラガラッハ\nマスターが\nきちんとわたしを見ているのか…\n\n@フラガラッハ\n今日、ここで\n確かめさせてもらっても\nいいかしら？\n\n# face %(unit_a)s \"smile\"\n# voice 1010 \"furagaraha_0004\"\n@フラガラッハ\nふふ、簡単なクイズですわ\n\n@フラガラッハ\nでは、行きますよ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしの親友である\nゲイボルグの趣味は\nおわかりになって？\n\n# se \"SE_0734\"\n# select \"子守り\" \"select_label_1\" \"狭いところで寝る\" \"select_label_2\" \"秘密特訓\" \"select_label_3\"\nわたしの親友である\nゲイボルグの趣味は\nおわかりになって？\n"
+	},
+	{
+		"ID": 2737,
+		"unitID": 2101011,
+		"questionID": 9101037,
+		"script": ";;ブロンズ,1\n# face %(unit_a)s \"sad\"\n# voice 1010 \"furagaraha_0001\"\n@フラガラッハ\nマスター\n実は…\n最近気になっている事があるの\n\n# eye %(unit_a)s \"close\"\n@フラガラッハ\nいえ、大したことではないのよ\n\n# face %(unit_a)s \"normal\"\n# eye %(unit_a)s \"normal\"\n@フラガラッハ\nマスターが\nきちんとわたしを見ているのか…\n\n@フラガラッハ\n今日、ここで\n確かめさせてもらっても\nいいかしら？\n\n# face %(unit_a)s \"smile\"\n# voice 1010 \"furagaraha_0004\"\n@フラガラッハ\nふふ、簡単なクイズですわ\n\n@フラガラッハ\nでは、行きますよ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしの髪の色は\n何色でしょう？\nこっち見るのは、禁止よ？\n\n# se \"SE_0734\"\n# select \"ブロンズ\" \"select_label_1\" \"シルバー\" \"select_label_2\" \"ブラック\" \"select_label_3\"\nわたしの髪の色は\n何色でしょう？\nこっち見るのは、禁止よ？\n"
+	},
+	{
+		"ID": 2738,
+		"unitID": 2101011,
+		"questionID": 9101038,
+		"script": ";;翡翠,2\n# face %(unit_a)s \"sad\"\n# voice 1010 \"furagaraha_0001\"\n@フラガラッハ\nマスター\n実は…\n最近気になっている事があるの\n\n# eye %(unit_a)s \"close\"\n@フラガラッハ\nいえ、大したことではないのよ\n\n# face %(unit_a)s \"normal\"\n# eye %(unit_a)s \"normal\"\n@フラガラッハ\nマスターが\nきちんとわたしを見ているのか…\n\n@フラガラッハ\n今日、ここで\n確かめさせてもらっても\nいいかしら？\n\n# face %(unit_a)s \"smile\"\n# voice 1010 \"furagaraha_0004\"\n@フラガラッハ\nふふ、簡単なクイズですわ\n\n@フラガラッハ\nでは、行きますよ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしの瞳の色は\n何色ですか？\nもっと見つめてもいいのですのよ？\n\n# se \"SE_0734\"\n# select \"真紅\" \"select_label_1\" \"翡翠\" \"select_label_2\" \"漆黒\" \"select_label_3\"\nわたしの瞳の色は\n何色ですか？\nもっと見つめてもいいのですのよ？\n"
+	},
+	{
+		"ID": 2739,
+		"unitID": 2101011,
+		"questionID": 9101039,
+		"script": ";;Leo,3\n# face %(unit_a)s \"sad\"\n# voice 1010 \"furagaraha_0001\"\n@フラガラッハ\nマスター\n実は…\n最近気になっている事があるの\n\n# eye %(unit_a)s \"close\"\n@フラガラッハ\nいえ、大したことではないのよ\n\n# face %(unit_a)s \"normal\"\n# eye %(unit_a)s \"normal\"\n@フラガラッハ\nマスターが\nきちんとわたしを見ているのか…\n\n@フラガラッハ\n今日、ここで\n確かめさせてもらっても\nいいかしら？\n\n# face %(unit_a)s \"smile\"\n# voice 1010 \"furagaraha_0004\"\n@フラガラッハ\nふふ、簡単なクイズですわ\n\n@フラガラッハ\nでは、行きますよ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしの星座しし座の\n英語読みは\n次のうちどれでしょう？\n\n# se \"SE_0734\"\n# select \"Gemini\" \"select_label_1\" \"Libra\" \"select_label_2\" \"Leo\" \"select_label_3\"\nわたしの星座しし座の\n英語読みは\n次のうちどれでしょう？\n"
+	},
+	{
+		"ID": 2740,
+		"unitID": 2101011,
+		"questionID": 9101040,
+		"script": ";;クイズ,1\n# face %(unit_a)s \"sad\"\n# voice 1010 \"furagaraha_0001\"\n@フラガラッハ\nマスター\n実は…\n最近気になっている事があるの\n\n# eye %(unit_a)s \"close\"\n@フラガラッハ\nいえ、大したことではないのよ\n\n# face %(unit_a)s \"normal\"\n# eye %(unit_a)s \"normal\"\n@フラガラッハ\nマスターが\nきちんとわたしを見ているのか…\n\n@フラガラッハ\n今日、ここで\n確かめさせてもらっても\nいいかしら？\n\n# face %(unit_a)s \"smile\"\n# voice 1010 \"furagaraha_0004\"\n@フラガラッハ\nふふ、簡単なクイズですわ\n\n@フラガラッハ\nでは、行きますよ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしの好きなものは\nおわかりですか？\n本当はわたしがされたいくらいです\n\n# se \"SE_0734\"\n# select \"クイズ\" \"select_label_1\" \"デート\" \"select_label_2\" \"鍛錬\" \"select_label_3\"\nわたしの好きなものは\nおわかりですか？\n本当はわたしがされたいくらいです\n"
+	},
+	{
+		"ID": 2741,
+		"unitID": 2101011,
+		"questionID": 9101041,
+		"script": "\n;;わたし,1\n# se \"SE_0734\"\n# select \"わたし\" \"select_label_1\" \"ワタシ\" \"select_label_2\" \"わたくし\" \"select_label_3\"\nフラガラッハの一人称は\n次のうちどれ？\n"
+	},
+	{
+		"ID": 2742,
+		"unitID": 2101011,
+		"questionID": 9101042,
+		"script": "\n;;マスター,2\n# se \"SE_0734\"\n# select \"ご主人様\" \"select_label_1\" \"マスター\" \"select_label_2\" \"きみ\" \"select_label_3\"\nフラガラッハはアンタのこと、\nなんて呼んでる？\n"
+	},
+	{
+		"ID": 2743,
+		"unitID": 2101011,
+		"questionID": 9101043,
+		"script": "\n;;84,3\n# se \"SE_0734\"\n# select \"82\" \"select_label_1\" \"88\" \"select_label_2\" \"84\" \"select_label_3\"\nフラガラッハの\nバストサイズがどのくらいか\nアンタ…知ってるの？\n"
+	},
+	{
+		"ID": 2744,
+		"unitID": 2101011,
+		"questionID": 9101044,
+		"script": "\n;;57,1\n# se \"SE_0734\"\n# select \"57\" \"select_label_1\" \"54\" \"select_label_2\" \"60\" \"select_label_3\"\nフラガラッハの\nウエストサイズがどのくらいか\nアンタ…知ってるの？\n"
+	},
+	{
+		"ID": 2745,
+		"unitID": 2101011,
+		"questionID": 9101045,
+		"script": "\n;;86,2\n# se \"SE_0734\"\n# select \"84\" \"select_label_1\" \"86\" \"select_label_2\" \"90\" \"select_label_3\"\nフラガラッハの\nヒップサイズがどのくらいか\nアンタ…知ってるの？\n"
+	},
+	{
+		"ID": 2746,
+		"unitID": 2101011,
+		"questionID": 9101046,
+		"script": "\n;;51,3\n# se \"SE_0734\"\n# select \"45\" \"select_label_1\" \"55\" \"select_label_2\" \"51\" \"select_label_3\"\nフラガラッハの体重は\n次のうちどれ？\n"
+	},
+	{
+		"ID": 2747,
+		"unitID": 2101011,
+		"questionID": 9101047,
+		"script": "\n;;227,1\n# se \"SE_0734\"\n# select \"227\" \"select_label_1\" \"220\" \"select_label_2\" \"238\" \"select_label_3\"\nフラガラッハの\nバスト＋ウエスト＋ヒップは\nいくつかわかる？\n"
+	},
+	{
+		"ID": 2748,
+		"unitID": 2101011,
+		"questionID": 9101048,
+		"script": "\n;;水色,2\n# se \"SE_0734\"\n# select \"赤\" \"select_label_1\" \"水色\" \"select_label_2\" \"黒\" \"select_label_3\"\nフラガラッハの水着の色は\n次のうちどれ？\n"
+	},
+	{
+		"ID": 2749,
+		"unitID": 2101011,
+		"questionID": 9101049,
+		"script": "\n;;62位,3\n# se \"SE_0734\"\n# select \"17位\" \"select_label_1\" \"69位\" \"select_label_2\" \"62位\" \"select_label_3\"\nフラガラッハは\n第２回人気投票で\n何位だったでしょう？\n"
+	},
+	{
+		"ID": 2750,
+		"unitID": 2101011,
+		"questionID": 9101050,
+		"script": "\n;;瀬戸麻沙美,1\n# se \"SE_0734\"\n# select \"瀬戸麻沙美\" \"select_label_1\" \"花澤香菜\" \"select_label_2\" \"藤田咲\" \"select_label_3\"\nフラガラッハの声優は誰？\n"
+	}
+]

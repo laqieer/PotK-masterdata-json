@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 501311,
+		"script": ";;A,大\n;;B,小\n;;C,中\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_cave\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# face %(unit_a)s \"angry\"\n# textflame 0 0\n@\n軽い気持ちで\n夜の洞窟探検へ\n出かけることにしたマスター\n\n@\n異族に遭遇するかもしれないと\n心配したほむらが\n同行することになった\n\n# textflame 1 1\n@%(unitName:unit_a)s\nこのあたりには\n怪しい気配はないようね\n\n# voice 5013 \"homura_0002\"\n@%(unitName:unit_a)s\n先を急ぎましょう\nいつ敵が現れてもおかしくない\n\n@%(unitName:unit_a)s\n何かあってからじゃ遅いのよ\n気を引き締めないと―\n\n# voice 5013 \"homura_0022\"\n@%(unitName:unit_a)s\nっ！\n今の物音は！？\n\n# select \"動物じゃない？\" \"select_label_01\" \"おばけかもしれないね\" \"select_label_02\" \"ごめん、転んだ…\" \"select_label_03\"\n今の物音は！？\n\n# label \"select_label_01\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_02\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_03\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_end\"\n# waitandnext 0.1\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

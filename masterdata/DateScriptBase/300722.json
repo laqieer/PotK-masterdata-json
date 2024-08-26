@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 300722,
+		"script": ";;でもいい湯だ　大\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_onsen\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 3007 \"gaiborugu_0039\"\n@ゲイボルグ\n…それは、そうだな\nたしかにいい湯加減だ\n\n# eye %(unit_a)s \"close\"\n@ゲイボルグ\n歩き詰めだったからな\n疲れた身体に染みるのだろう\n\n# textflame 0 0\n@\nそう言いつつも、恥ずかし気に\n身を逸らすゲイボルグの姿が、\nマスターの目に留まる\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@ゲイボルグ\nなんだ？\n私は別に…普通にしているぞ\n\n# face %(unit_a)s \"angry\"\n# voice 3007 \"gaiborugu_0013\"\n@ゲイボルグ\n…そもそも\nどうして貴様はそんなに\n平常なんだ？\n\n@ゲイボルグ\n仮にも男女が同じ湯船に\n浸かっているというのに…\n\n# face %(unit_a)s \"sad\"\n# voice 3007 \"gaiborugu_0042\"\n@ゲイボルグ\nいや、それは私が意識し過ぎなのか？\nだが、だが…！\n\n# textflame 0 0\n@\n葛藤を続けるゲイボルグと一緒に\n身体の芯まで温まった…\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

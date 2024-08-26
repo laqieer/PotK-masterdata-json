@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 202511,
+		"script": ";;A:こっちも一緒にお茶できてうれしい\n;;B:このカフェは気に入った？\n;;C:好きなものを注文していいからね？\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_cafe\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 0 0\n@\nエルキュールが以前から\n興味を持っていたカフェに\n彼女を誘ったマスター\n\n# textflame 1 1\n@エルキュール\nふぅ…こうしてマスターと\nカフェでお茶するのも\nなんだか楽しいですね\n\n@エルキュール\nこの島にいると、\nどうしても海や自然で\n遊びたくなりますから\n\n@エルキュール\nマスターと\nのんびり過ごせて\nとても楽しいです\n\n# select \"こっちも一緒にお茶できてうれしい\" \"select_label_01\" \"このカフェは気に入った？\" \"select_label_02\" \"好きなものを注文していいからね？\" \"select_label_03\"\nマスターと\nのんびり過ごせて\nとても楽しいです\n\n# label \"select_label_01\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_02\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_03\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_end\"\n# waitandnext 0.1\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

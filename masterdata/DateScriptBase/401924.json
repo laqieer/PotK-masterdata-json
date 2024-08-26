@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 401924,
+		"script": ";;A小付き合ってくれてありがとう\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_onsen\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# voice 240191 \"failnaught_a_0007\"\n# face 2401911 \"normal\"\n@フェイルノート\nそう、それでいいの\nもっと感謝するべきだわ\n\n@フェイルノート\nまったく、お前様に合わせたばかりに\n貴重な一日を潰してしまったわ\n\n@フェイルノート\nこの私の時間を奪うなんて\nどれだけ大それたことをしたか…\n理解はしているのでしょう？\n\n@フェイルノート\nお前様には、真に私に\nふさわしい人物に\nなってもらわないとね\n\n# voice 240191 \"failnaught_a_0004\"\n# face 2401911 \"smile\"\n@フェイルノート\nだから…\nもっと私に、お前様にしかない\n魅力をアピールなさい\n\n@フェイルノート\n輝ける者であると証明して\nくれなければ、お前様に\n目をかけた意味がないもの\n\n# face 2401911 \"angry\"\n@フェイルノート\nただ…これだけは\n覚えておきなさい\n\n@フェイルノート\nこの私が、一日を割いてでも\n寄り添おうなどと考えたのは、\nお前様以外にはいないのよ\n\n# voice 240191 \"failnaught_a_0020\"\n# face 2401911 \"smile\"\n@フェイルノート\nふふふ……期待しているわ\nお前様の、これからの成長をね\n\n# textflame 0 0\n@\nフェイルノートの\n説教なのか励ましなのか\nよくわからない言葉\n\n# textflame 0 0\n@\nそれを聞きながら\nゆっくりと二人で温泉を\n楽しんだのだった\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

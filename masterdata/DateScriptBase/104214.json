@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 104214,
+		"script": ";;小B悲しい物語\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_castle\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 210421 \"morabeaga_l_0039\"\n@モラベガ\n悲しい物語…？\nやっぱり、マスターも\nそう思うんだ\n\n# face %(unit_a)s \"sad\"\n@モラベガ\nそうだよね…きっとこの場所で、\nたくさんの人たちが\n悲しい想いをしたんだよね…\n\n# voice 210421 \"morabeaga_l_0015\"\n@モラベガ\nそう思ったら、\nなんだか悲しい気持ちに\nなってきちゃった…\n\n# voice 210421 \"morabeaga_l_0023\"\n@モラベガ\n…ひゃっ！？\nマ、マスター？\n\n@モラベガ\nどうしたのっ、いきなり？\n私たちの肩を\n引き寄せたりしてっ…\n\n@モラベガ\n私たちが悲しそうにしてたから、\n元気づけようと思って…？\n\n# face %(unit_a)s \"normal\"\n# voice 210421 \"morabeaga_l_0004\"\n@モラベガ\n…ふふっ\n大丈夫だよ、マスター…？\n\n@モラベガ\n私たちも、それにマスターも…\nこれまでたくさん\n辛いことに出会ってきたと思う\n\n@モラベガ\nでもね？\nこうしてマスターと\n一緒にいられる今は…\n\n# face %(unit_a)s \"smile\"\n@モラベガ\n私たちにとって、\nすっごく楽しい時間なんだっ！\n\n@モラベガ\nいつか…悲しかったことを、\n懐かしいなぁって笑って\n思い返せるようになるくらい…\n\n@モラベガ\n幸せな物語を、もっとたくさん\n積み重ねていきたいんだっ…！\n\n# face %(unit_a)s \"normal\"\n# voice 210421 \"morabeaga_l_0001\"\n@モラベガ\nだから…マスター！\n\n@モラベガ\nこれからも、私たちと\n楽しい時間を過ごしてくれる…？\n\n# textflame 0 0\n@\nマスターの温もりを感じながら、\nモラベガは明るく\nそう問いかける\n\n# textflame 0 0\n@\n返事をする代わりに、\nマスターはモラベガの肩を\nさらに強く引き寄せた…\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

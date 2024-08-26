@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 2100211,
+		"script": ";;B:寝てても大丈夫だよ\n;;C:こっちも少し眠いかも\n;;A:遊ばなくていいの？\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_park_day\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 0 0\n# face %(unit_a)s \"normal\"\n;;モノローグ\n@\nレーヴァテインを連れて\nマスターは自然豊かな公園を\n訪れていた\n\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n@レーヴァテイン\nふぅん…\nどんな場所かと思って来たけど\n悪くないじゃん…\n\n;;モノローグ\n# textflame 0 0\n@\nそう呟きながらあたりを見渡し、\nそしてベンチに座った\n\n# textflame 1 1\n@レーヴァテイン\n静かだし\nなにもしなくて済むのは\nいいことだしね…\n\n# voice 210022 \"revatein_k_0027\"\n# face %(unit_a)s \"normal\"\n@レーヴァテイン\nふぅ…なんだか落ち着いたら\n眠くなってきたかも…\n\n# select \"遊ばなくていいの？\" \"select_label_01\" \"寝てても大丈夫だよ\" \"select_label_02\" \"こっちも少し眠いかも\" \"select_label_03\"\nふぅ…なんだか落ち着いたら\n眠くなってきたかも…\n\n# label \"select_label_01\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_02\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_03\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_end\"\n# waitandnext 0.1\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

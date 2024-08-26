@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 300822,
+		"script": "# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_fireworks\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 3008 \"gunguniru_0003\"\n@グングニル\nそうなのかもしれない\n…いや、きっとそうなのだろうな\n\n# textflame 1 1\n@グングニル\nしかし…それだけでは\n心もとないと思ってしまう\n\n# textflame 0 0\n@\nグングニルは\n唇をきゅっと結んで\nマスターを見つめた\n\n# textflame 1 1\n@グングニル\nまた…\n…ければ…\n\n# textflame 0 0\n@\n特大の破裂音…\nグングニルの声は\nかき消されてしまう\n\n# textflame 0 0\n@\nいつもなら言い直さないはずなのに\nグングニルは改めて言葉を発した\n\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n@グングニル\nまた…そなたと出会えたならば…\nまた、二人で花火を見ようと…\n\n# voice 3008 \"gunguniru_0013\"\n# textflame 1 1\n@グングニル\nそう、言ってくれなければ…\n不安で、受け入れられぬ…\n\n# textflame 0 0\n@\n連続で弾けては咲く花火が\nグングニルのシルエットを\n美しくかたどっていた――\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

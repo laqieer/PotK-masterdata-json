@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 302612,
+		"script": ";;b\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_shop\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# voice 3026 \"grayside_0004\"\n@グラーシーザ\nたのしんでるとも！\nあたしは買い物が、すきだからな！\n\n@グラーシーザ\nマスターは、かいものは\nすきではないのか？\n\n@グラーシーザ\nん、あたしとだから\nすごくたのしい…だと？\n\n@グラーシーザ\nそうか…うむ\nそれは、ちょうじょう！\n\n@グラーシーザ\nでは、もっと、たのしませてやるから\nどんどん、品を見てまわろう！\n\n# face %(unit_a)s \"smile\"\n@グラーシーザ\nほら、ぼーっとしてると\nおいてくぞ！\n\n# textflame 0 0\n@\nうれしそうに前を歩く彼女を\n追いかけるマスター\n\nその後も買い物を楽しみ\n楽しい一日を過ごすことが\nできたのだった…\n\n;;-----------------------------------------\n# waitandnext 2\n# fadeout \"black\" 1.2\n"
+	}
+]

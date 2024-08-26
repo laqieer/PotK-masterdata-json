@@ -1,0 +1,114 @@
+[
+	{
+		"ID": 1,
+		"name": "姫石",
+		"description": "未使用",
+		"medal_flg": 0,
+		"file_name": "slot_icon_01f"
+	},
+	{
+		"ID": 2,
+		"name": "武具",
+		"description": "",
+		"medal_flg": 0,
+		"file_name": "slot_icon_02f"
+	},
+	{
+		"ID": 3,
+		"name": "ユニット",
+		"description": "",
+		"medal_flg": 0,
+		"file_name": "slot_icon_03f"
+	},
+	{
+		"ID": 4,
+		"name": "ゼニー",
+		"description": "",
+		"medal_flg": 0,
+		"file_name": "slot_icon_04f"
+	},
+	{
+		"ID": 5,
+		"name": "レアメダル",
+		"description": "",
+		"medal_flg": 1,
+		"file_name": "slot_icon_05f"
+	},
+	{
+		"ID": 6,
+		"name": "支給品",
+		"description": "",
+		"medal_flg": 0,
+		"file_name": "slot_icon_06f"
+	},
+	{
+		"ID": 7,
+		"name": "マナポイント",
+		"description": "未使用",
+		"medal_flg": 0,
+		"file_name": "slot_icon_07f"
+	},
+	{
+		"ID": 8,
+		"name": "バトルメダル",
+		"description": "未使用",
+		"medal_flg": 0,
+		"file_name": "slot_icon_08f"
+	},
+	{
+		"ID": 9,
+		"name": "宝箱",
+		"description": "",
+		"medal_flg": 0,
+		"file_name": "slot_icon_09f"
+	},
+	{
+		"ID": 10,
+		"name": "周年①",
+		"description": "",
+		"medal_flg": 0,
+		"file_name": "slot_icon_10f"
+	},
+	{
+		"ID": 11,
+		"name": "周年②",
+		"description": "",
+		"medal_flg": 0,
+		"file_name": "slot_icon_11f"
+	},
+	{
+		"ID": 12,
+		"name": "周年③",
+		"description": "",
+		"medal_flg": 0,
+		"file_name": "slot_icon_12f"
+	},
+	{
+		"ID": 13,
+		"name": "ピックアップ",
+		"description": "",
+		"medal_flg": 0,
+		"file_name": "slot_icon_13f"
+	},
+	{
+		"ID": 14,
+		"name": "レアメダル大量",
+		"description": "",
+		"medal_flg": 1,
+		"file_name": "slot_icon_14f"
+	},
+	{
+		"ID": 15,
+		"name": "500万DL記念",
+		"description": "",
+		"medal_flg": 0,
+		"file_name": "slot_icon_15f"
+	},
+	{
+		"ID": 16,
+		"name": "限定武具",
+		"description": "",
+		"medal_flg": 0,
+		"file_name": "slot_icon_16f"
+	}
+]

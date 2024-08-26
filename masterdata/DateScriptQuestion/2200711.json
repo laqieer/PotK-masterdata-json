@@ -1,0 +1,302 @@
+[
+	{
+		"ID": 2801,
+		"unitID": 2200711,
+		"questionID": 9200701,
+		"script": ";;ニンギルス,1\n# voice 2007 \"sharuuru_0001\"\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@シャルウル\nマスターは\nきちんと情報収集を\nしていますか？\n\n# face %(unit_a)s \"normal\"\n# voice 2007 \"sharuuru_0040\"\n# textflame 1 1\n@シャルウル\nなるほど、していると…\n\n# textflame 1 1\n@シャルウル\nでは、ここで確認してみても\nよろしいですか？\n\n# textflame 1 1\n@シャルウル\nマスターの\n情報収集能力を見せてもらいますね\n\n# voice 2007 \"sharuuru_0036\"\n# textflame 1 1\n@シャルウル\nでは、行きますよ？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私のキラーズ『シャルウル』の\n持ち主は誰でしょうか？\n\n# se \"SE_0734\"\n# select  \"ニンギルス\" \"select_label_1\" \"イナンナ\" \"select_label_2\" \"ウッコ\" \"select_label_3\"\n私のキラーズ『シャルウル』の\n持ち主は誰でしょうか？\n"
+	},
+	{
+		"ID": 2802,
+		"unitID": 2200711,
+		"questionID": 9200702,
+		"script": ";;棍棒,2\n# voice 2007 \"sharuuru_0001\"\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@シャルウル\nマスターは\nきちんと情報収集を\nしていますか？\n\n# face %(unit_a)s \"normal\"\n# voice 2007 \"sharuuru_0040\"\n# textflame 1 1\n@シャルウル\nなるほど、していると…\n\n# textflame 1 1\n@シャルウル\nでは、ここで確認してみても\nよろしいですか？\n\n# textflame 1 1\n@シャルウル\nマスターの\n情報収集能力を見せてもらいますね\n\n# voice 2007 \"sharuuru_0036\"\n# textflame 1 1\n@シャルウル\nでは、行きますよ？\n;;--------------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私のキラーズ『シャルウル』は\nどのような武器ですか？\n\n# se \"SE_0734\"\n# select  \"斧\" \"select_label_1\" \"棍棒\" \"select_label_2\" \"槍\" \"select_label_3\"\n私のキラーズ『シャルウル』は\nどのような武器ですか？\n"
+	},
+	{
+		"ID": 2803,
+		"unitID": 2200711,
+		"questionID": 9200703,
+		"script": ";;双頭の鷲,3\n# voice 2007 \"sharuuru_0001\"\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@シャルウル\nマスターは\nきちんと情報収集を\nしていますか？\n\n# face %(unit_a)s \"normal\"\n# voice 2007 \"sharuuru_0040\"\n# textflame 1 1\n@シャルウル\nなるほど、していると…\n\n# textflame 1 1\n@シャルウル\nでは、ここで確認してみても\nよろしいですか？\n\n# textflame 1 1\n@シャルウル\nマスターの\n情報収集能力を見せてもらいますね\n\n# voice 2007 \"sharuuru_0036\"\n# textflame 1 1\n@シャルウル\nでは、行きますよ？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私のキラーズ『シャルウル』の\n持ち主である、ニンギルスの\nシンボルはなんですか？\n\n# se \"SE_0734\"\n# select  \"双頭の虎\" \"select_label_1\" \"双頭の鷹\" \"select_label_2\" \"双頭の鷲\" \"select_label_3\"\n私のキラーズ『シャルウル』の\n持ち主である、ニンギルスの\nシンボルはなんですか？\n"
+	},
+	{
+		"ID": 2804,
+		"unitID": 2200711,
+		"questionID": 9200704,
+		"script": ";;会話,1\n# voice 2007 \"sharuuru_0001\"\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@シャルウル\nマスターは\nきちんと情報収集を\nしていますか？\n\n# face %(unit_a)s \"normal\"\n# voice 2007 \"sharuuru_0040\"\n# textflame 1 1\n@シャルウル\nなるほど、していると…\n\n# textflame 1 1\n@シャルウル\nでは、ここで確認してみても\nよろしいですか？\n\n# textflame 1 1\n@シャルウル\nマスターの\n情報収集能力を見せてもらいますね\n\n# voice 2007 \"sharuuru_0036\"\n# textflame 1 1\n@シャルウル\nでは、行きますよ？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私のキラーズ『シャルウル』は\n持ち主となにが出来ましたか？\n\n# se \"SE_0734\"\n# select  \"会話\" \"select_label_1\" \"食事\" \"select_label_2\" \"昼寝\" \"select_label_3\"\n私のキラーズ『シャルウル』は\n持ち主となにが出来ましたか？\n"
+	},
+	{
+		"ID": 2805,
+		"unitID": 2200711,
+		"questionID": 9200705,
+		"script": ";;ニヌルタ,2\n# voice 2007 \"sharuuru_0001\"\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@シャルウル\nマスターは\nきちんと情報収集を\nしていますか？\n\n# face %(unit_a)s \"normal\"\n# voice 2007 \"sharuuru_0040\"\n# textflame 1 1\n@シャルウル\nなるほど、していると…\n\n# textflame 1 1\n@シャルウル\nでは、ここで確認してみても\nよろしいですか？\n\n# textflame 1 1\n@シャルウル\nマスターの\n情報収集能力を見せてもらいますね\n\n# voice 2007 \"sharuuru_0036\"\n# textflame 1 1\n@シャルウル\nでは、行きますよ？\n;;--------------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私のキラーズ『シャルウル』の\n持ち主であるニンギルスと\n同一視される神の名前はなんですか？\n\n# se \"SE_0734\"\n# select  \"アヌルタ\" \"select_label_1\" \"ニヌルタ\" \"select_label_2\" \"ジャカルタ\" \"select_label_3\"\n私のキラーズ『シャルウル』の\n持ち主であるニンギルスと\n同一視される神の名前はなんですか？\n"
+	},
+	{
+		"ID": 2806,
+		"unitID": 2200711,
+		"questionID": 9200706,
+		"script": ";;すべてのものを破壊するもの,3\n# voice 2007 \"sharuuru_0001\"\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@シャルウル\nマスターは\nきちんと情報収集を\nしていますか？\n\n# face %(unit_a)s \"normal\"\n# voice 2007 \"sharuuru_0040\"\n# textflame 1 1\n@シャルウル\nなるほど、していると…\n\n# textflame 1 1\n@シャルウル\nでは、ここで確認してみても\nよろしいですか？\n\n# textflame 1 1\n@シャルウル\nマスターの\n情報収集能力を見せてもらいますね\n\n# voice 2007 \"sharuuru_0036\"\n# textflame 1 1\n@シャルウル\nでは、行きますよ？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私のキラーズ『シャルウル』の\n名前にはどんな意味がありますか？\n\n# se \"SE_0734\"\n# select  \"すべての悪を敷くもの\" \"select_label_1\" \"すべての人を殺すもの\" \"select_label_2\" \"すべてのものを破壊するもの\" \"select_label_3\"\n私のキラーズ『シャルウル』の\n名前にはどんな意味がありますか？\n"
+	},
+	{
+		"ID": 2807,
+		"unitID": 2200711,
+		"questionID": 9200707,
+		"script": ";;戦闘の洪水,1\n# voice 2007 \"sharuuru_0001\"\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@シャルウル\nマスターは\nきちんと情報収集を\nしていますか？\n\n# face %(unit_a)s \"normal\"\n# voice 2007 \"sharuuru_0040\"\n# textflame 1 1\n@シャルウル\nなるほど、していると…\n\n# textflame 1 1\n@シャルウル\nでは、ここで確認してみても\nよろしいですか？\n\n# textflame 1 1\n@シャルウル\nマスターの\n情報収集能力を見せてもらいますね\n\n# voice 2007 \"sharuuru_0036\"\n# textflame 1 1\n@シャルウル\nでは、行きますよ？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私のキラーズ『シャルウル』は\nなんと謳われていますか？\n\n# se \"SE_0734\"\n# select  \"戦闘の洪水\" \"select_label_1\" \"戦闘の厄災\" \"select_label_2\" \"戦闘の戒め\" \"select_label_3\"\n私のキラーズ『シャルウル』は\nなんと謳われていますか？\n"
+	},
+	{
+		"ID": 2808,
+		"unitID": 2200711,
+		"questionID": 9200708,
+		"script": ";;エンリル神の洪水,2\n# voice 2007 \"sharuuru_0001\"\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@シャルウル\nマスターは\nきちんと情報収集を\nしていますか？\n\n# face %(unit_a)s \"normal\"\n# voice 2007 \"sharuuru_0040\"\n# textflame 1 1\n@シャルウル\nなるほど、していると…\n\n# textflame 1 1\n@シャルウル\nでは、ここで確認してみても\nよろしいですか？\n\n# textflame 1 1\n@シャルウル\nマスターの\n情報収集能力を見せてもらいますね\n\n# voice 2007 \"sharuuru_0036\"\n# textflame 1 1\n@シャルウル\nでは、行きますよ？\n;;--------------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私のキラーズ『シャルウル』の\n持ち主である、ニンギルスは\nなんと称されていますか？\n\n# se \"SE_0734\"\n# select  \"エンリル神の厄災\" \"select_label_1\" \"エンリル神の洪水\" \"select_label_2\" \"エンリル神の悪魔\" \"select_label_3\"\n私のキラーズ『シャルウル』の\n持ち主である、ニンギルスは\nなんと称されていますか？\n"
+	},
+	{
+		"ID": 2809,
+		"unitID": 2200711,
+		"questionID": 9200709,
+		"script": ";;洪水のように諸都市を破壊しつくす,3\n# voice 2007 \"sharuuru_0001\"\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@シャルウル\nマスターは\nきちんと情報収集を\nしていますか？\n\n# face %(unit_a)s \"normal\"\n# voice 2007 \"sharuuru_0040\"\n# textflame 1 1\n@シャルウル\nなるほど、していると…\n\n# textflame 1 1\n@シャルウル\nでは、ここで確認してみても\nよろしいですか？\n\n# textflame 1 1\n@シャルウル\nマスターの\n情報収集能力を見せてもらいますね\n\n# voice 2007 \"sharuuru_0036\"\n# textflame 1 1\n@シャルウル\nでは、行きますよ？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私のキラーズ『シャルウル』の\n持ち主は、戦神として\nなんと表現されていますか？\n\n# se \"SE_0734\"\n# select  \"洪水のような暴君\" \"select_label_1\" \"洪水のように人々を殺す\" \"select_label_2\" \"洪水のように諸都市を破壊しつくす\" \"select_label_3\"\n私のキラーズ『シャルウル』の\n持ち主は、戦神として\nなんと表現されていますか？\n"
+	},
+	{
+		"ID": 2810,
+		"unitID": 2200711,
+		"questionID": 9200710,
+		"script": ";;長距離を飛行する,1\n# voice 2007 \"sharuuru_0001\"\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@シャルウル\nマスターは\nきちんと情報収集を\nしていますか？\n\n# face %(unit_a)s \"normal\"\n# voice 2007 \"sharuuru_0040\"\n# textflame 1 1\n@シャルウル\nなるほど、していると…\n\n# textflame 1 1\n@シャルウル\nでは、ここで確認してみても\nよろしいですか？\n\n# textflame 1 1\n@シャルウル\nマスターの\n情報収集能力を見せてもらいますね\n\n# voice 2007 \"sharuuru_0036\"\n# textflame 1 1\n@シャルウル\nでは、行きますよ？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私のキラーズ『シャルウル』は\n主との交信以外に\nなにができましたか？\n\n# se \"SE_0734\"\n# select  \"長距離を飛行する\" \"select_label_1\" \"水を出す\" \"select_label_2\" \"竜巻を起こす\" \"select_label_3\"\n私のキラーズ『シャルウル』は\n主との交信以外に\nなにができましたか？\n"
+	},
+	{
+		"ID": 2811,
+		"unitID": 2200711,
+		"questionID": 9200711,
+		"script": ";;世話を焼く,1\n# voice 2007 \"sharuuru_0001\"\n# textflame 1 1\n@シャルウル\nあなたが私の\nマスターになって\nどれくらい経ったでしょうか？\n\n# textflame 1 1\n@シャルウル\nいえ…\n特に深い意味があるわけでは\nないのですけど…\n\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@シャルウル\nマスターがどれくらい\n私の事を知っているのか\n少し気になりまして…\n\n# textflame 1 1\n@シャルウル\n失礼ですが\n簡単な質問をさせていただいても\nよろしいですか？\n\n# voice 2007 \"sharuuru_0036\"\n# face %(unit_a)s \"normal\"\n# textflame 1 1\n@シャルウル\n大丈夫です\n全部、私自身に関してですから\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私の趣味は\nなんでしょうか？\n\n# se \"SE_0734\"\n# select  \"世話を焼く\" \"select_label_1\" \"料理\" \"select_label_2\" \"昼寝\" \"select_label_3\"\n私の趣味は\nなんでしょうか？\n"
+	},
+	{
+		"ID": 2812,
+		"unitID": 2200711,
+		"questionID": 9200712,
+		"script": ";;かに座,2\n# voice 2007 \"sharuuru_0001\"\n# textflame 1 1\n@シャルウル\nあなたが私の\nマスターになって\nどれくらい経ったでしょうか？\n\n# textflame 1 1\n@シャルウル\nいえ…\n特に深い意味があるわけでは\nないのですけど…\n\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@シャルウル\nマスターがどれくらい\n私の事を知っているのか\n少し気になりまして…\n\n# textflame 1 1\n@シャルウル\n失礼ですが\n簡単な質問をさせていただいても\nよろしいですか？\n\n# voice 2007 \"sharuuru_0036\"\n# face %(unit_a)s \"normal\"\n# textflame 1 1\n@シャルウル\n大丈夫です\n全部、私自身に関してですから\n;;--------------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私の星座はなんでしょうか？\n\n# se \"SE_0734\"\n# select  \"さそり座\" \"select_label_1\" \"かに座\" \"select_label_2\" \"いて座\" \"select_label_3\"\n私の星座はなんでしょうか？\n"
+	},
+	{
+		"ID": 2813,
+		"unitID": 2200711,
+		"questionID": 9200713,
+		"script": ";;メソポタミア,3\n# voice 2007 \"sharuuru_0001\"\n# textflame 1 1\n@シャルウル\nあなたが私の\nマスターになって\nどれくらい経ったでしょうか？\n\n# textflame 1 1\n@シャルウル\nいえ…\n特に深い意味があるわけでは\nないのですけど…\n\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@シャルウル\nマスターがどれくらい\n私の事を知っているのか\n少し気になりまして…\n\n# textflame 1 1\n@シャルウル\n失礼ですが\n簡単な質問をさせていただいても\nよろしいですか？\n\n# voice 2007 \"sharuuru_0036\"\n# face %(unit_a)s \"normal\"\n# textflame 1 1\n@シャルウル\n大丈夫です\n全部、私自身に関してですから\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私の出身地は\nどこでしょうか？\n\n# se \"SE_0734\"\n# select  \"インド\" \"select_label_1\" \"アフリカ\" \"select_label_2\" \"メソポタミア\" \"select_label_3\"\n私の出身地は\nどこでしょうか？\n"
+	},
+	{
+		"ID": 2814,
+		"unitID": 2200711,
+		"questionID": 9200714,
+		"script": ";;AB型,1\n# voice 2007 \"sharuuru_0001\"\n# textflame 1 1\n@シャルウル\nあなたが私の\nマスターになって\nどれくらい経ったでしょうか？\n\n# textflame 1 1\n@シャルウル\nいえ…\n特に深い意味があるわけでは\nないのですけど…\n\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@シャルウル\nマスターがどれくらい\n私の事を知っているのか\n少し気になりまして…\n\n# textflame 1 1\n@シャルウル\n失礼ですが\n簡単な質問をさせていただいても\nよろしいですか？\n\n# voice 2007 \"sharuuru_0036\"\n# face %(unit_a)s \"normal\"\n# textflame 1 1\n@シャルウル\n大丈夫です\n全部、私自身に関してですから\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私の血液型は\nご存知ですか？\n\n# se \"SE_0734\"\n# select  \"AB型\" \"select_label_1\" \"A型\" \"select_label_2\" \"B型\" \"select_label_3\"\n私の血液型は\nご存知ですか？\n"
+	},
+	{
+		"ID": 2815,
+		"unitID": 2200711,
+		"questionID": 9200715,
+		"script": ";;お風呂,2\n# voice 2007 \"sharuuru_0001\"\n# textflame 1 1\n@シャルウル\nあなたが私の\nマスターになって\nどれくらい経ったでしょうか？\n\n# textflame 1 1\n@シャルウル\nいえ…\n特に深い意味があるわけでは\nないのですけど…\n\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@シャルウル\nマスターがどれくらい\n私の事を知っているのか\n少し気になりまして…\n\n# textflame 1 1\n@シャルウル\n失礼ですが\n簡単な質問をさせていただいても\nよろしいですか？\n\n# voice 2007 \"sharuuru_0036\"\n# face %(unit_a)s \"normal\"\n# textflame 1 1\n@シャルウル\n大丈夫です\n全部、私自身に関してですから\n;;--------------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私の好きなものは\nなんでしょうか？\n\n# se \"SE_0734\"\n# select  \"布団\" \"select_label_1\" \"お風呂\" \"select_label_2\" \"日光浴\" \"select_label_3\"\n私の好きなものは\nなんでしょうか？\n"
+	},
+	{
+		"ID": 2816,
+		"unitID": 2200711,
+		"questionID": 9200716,
+		"script": ";;ミトゥム,3\n# voice 2007 \"sharuuru_0001\"\n# textflame 1 1\n@シャルウル\nあなたが私の\nマスターになって\nどれくらい経ったでしょうか？\n\n# textflame 1 1\n@シャルウル\nいえ…\n特に深い意味があるわけでは\nないのですけど…\n\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@シャルウル\nマスターがどれくらい\n私の事を知っているのか\n少し気になりまして…\n\n# textflame 1 1\n@シャルウル\n失礼ですが\n簡単な質問をさせていただいても\nよろしいですか？\n\n# voice 2007 \"sharuuru_0036\"\n# face %(unit_a)s \"normal\"\n# textflame 1 1\n@シャルウル\n大丈夫です\n全部、私自身に関してですから\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私の親友は\nこの中の誰ですか？\n\n# se \"SE_0734\"\n# select  \"タスラム\" \"select_label_1\" \"シタ\" \"select_label_2\" \"ミトゥム\" \"select_label_3\"\n私の親友は\nこの中の誰ですか？\n"
+	},
+	{
+		"ID": 2817,
+		"unitID": 2200711,
+		"questionID": 9200717,
+		"script": ";;170cm,1\n# voice 2007 \"sharuuru_0001\"\n# textflame 1 1\n@シャルウル\nあなたが私の\nマスターになって\nどれくらい経ったでしょうか？\n\n# textflame 1 1\n@シャルウル\nいえ…\n特に深い意味があるわけでは\nないのですけど…\n\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@シャルウル\nマスターがどれくらい\n私の事を知っているのか\n少し気になりまして…\n\n# textflame 1 1\n@シャルウル\n失礼ですが\n簡単な質問をさせていただいても\nよろしいですか？\n\n# voice 2007 \"sharuuru_0036\"\n# face %(unit_a)s \"normal\"\n# textflame 1 1\n@シャルウル\n大丈夫です\n全部、私自身に関してですから\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私の身長は\nどれくらいでしょうか？\n\n# se \"SE_0734\"\n# select  \"170cm\" \"select_label_1\" \"181cm\" \"select_label_2\" \"175cm\" \"select_label_3\"\n私の身長は\nどれくらいでしょうか？\n"
+	},
+	{
+		"ID": 2818,
+		"unitID": 2200711,
+		"questionID": 9200718,
+		"script": ";;7月20日,2\n# voice 2007 \"sharuuru_0001\"\n# textflame 1 1\n@シャルウル\nあなたが私の\nマスターになって\nどれくらい経ったでしょうか？\n\n# textflame 1 1\n@シャルウル\nいえ…\n特に深い意味があるわけでは\nないのですけど…\n\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@シャルウル\nマスターがどれくらい\n私の事を知っているのか\n少し気になりまして…\n\n# textflame 1 1\n@シャルウル\n失礼ですが\n簡単な質問をさせていただいても\nよろしいですか？\n\n# voice 2007 \"sharuuru_0036\"\n# face %(unit_a)s \"normal\"\n# textflame 1 1\n@シャルウル\n大丈夫です\n全部、私自身に関してですから\n;;--------------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私の誕生日は\n何月何日でしょうか？\n\n# se \"SE_0734\"\n# select  \"7月7日\" \"select_label_1\" \"7月20日\" \"select_label_2\" \"12月5日\" \"select_label_3\"\n私の誕生日は\n何月何日でしょうか？\n"
+	},
+	{
+		"ID": 2819,
+		"unitID": 2200711,
+		"questionID": 9200719,
+		"script": ";;いない,3\n# voice 2007 \"sharuuru_0001\"\n# textflame 1 1\n@シャルウル\nあなたが私の\nマスターになって\nどれくらい経ったでしょうか？\n\n# textflame 1 1\n@シャルウル\nいえ…\n特に深い意味があるわけでは\nないのですけど…\n\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@シャルウル\nマスターがどれくらい\n私の事を知っているのか\n少し気になりまして…\n\n# textflame 1 1\n@シャルウル\n失礼ですが\n簡単な質問をさせていただいても\nよろしいですか？\n\n# voice 2007 \"sharuuru_0036\"\n# face %(unit_a)s \"normal\"\n# textflame 1 1\n@シャルウル\n大丈夫です\n全部、私自身に関してですから\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私のライバルは\n誰でしたか？\n\n# se \"SE_0734\"\n# select  \"ケラウノス\" \"select_label_1\" \"シタ\" \"select_label_2\" \"いない\" \"select_label_3\"\n私のライバルは\n誰でしたか？\n"
+	},
+	{
+		"ID": 2820,
+		"unitID": 2200711,
+		"questionID": 9200720,
+		"script": ";;斧,1\n# voice 2007 \"sharuuru_0001\"\n# textflame 1 1\n@シャルウル\nあなたが私の\nマスターになって\nどれくらい経ったでしょうか？\n\n# textflame 1 1\n@シャルウル\nいえ…\n特に深い意味があるわけでは\nないのですけど…\n\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@シャルウル\nマスターがどれくらい\n私の事を知っているのか\n少し気になりまして…\n\n# textflame 1 1\n@シャルウル\n失礼ですが\n簡単な質問をさせていただいても\nよろしいですか？\n\n# voice 2007 \"sharuuru_0036\"\n# face %(unit_a)s \"normal\"\n# textflame 1 1\n@シャルウル\n大丈夫です\n全部、私自身に関してですから\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私が扱う得物は\nなんでしょうか？\n\n# se \"SE_0734\"\n# select  \"斧\" \"select_label_1\" \"剣\" \"select_label_2\" \"槍\" \"select_label_3\"\n私が扱う得物は\nなんでしょうか？\n"
+	},
+	{
+		"ID": 2821,
+		"unitID": 2200711,
+		"questionID": 9200721,
+		"script": ";;ファイター,1\n# voice 2007 \"sharuuru_0001\"\n# textflame 1 1\n@シャルウル\n…マスター\n少しよろしいですか？\n\n# textflame 1 1\n@シャルウル\nいえ、新しい情報ではなく…\n\n# textflame 1 1\n@シャルウル\nマスターに\n質問をしてみてもいいですか？\n\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@シャルウル\nあ、深い意味はないですよ？\nただ、マスターがどれだけ\n私を知っているのか気になりまして…\n\n# face %(unit_a)s \"normal\"\n# voice 2007 \"sharuuru_0036\"\n# textflame 1 1\n@シャルウル\nよろしいですか？\nでは、さっそくいきますよ\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私が☆4の時のジョブは\nいったいなんだったでしょうか？\n\n# se \"SE_0734\"\n# select  \"ファイター\" \"select_label_1\" \"アーチャー\" \"select_label_2\" \"ベルセルク\" \"select_label_3\"\n私が☆4の時のジョブは\nいったいなんだったでしょうか？\n"
+	},
+	{
+		"ID": 2822,
+		"unitID": 2200711,
+		"questionID": 9200722,
+		"script": ";;ウォリアー,2\n# voice 2007 \"sharuuru_0001\"\n# textflame 1 1\n@シャルウル\n…マスター\n少しよろしいですか？\n\n# textflame 1 1\n@シャルウル\nいえ、新しい情報ではなく…\n\n# textflame 1 1\n@シャルウル\nマスターに\n質問をしてみてもいいですか？\n\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@シャルウル\nあ、深い意味はないですよ？\nただ、マスターがどれだけ\n私を知っているのか気になりまして…\n\n# face %(unit_a)s \"normal\"\n# voice 2007 \"sharuuru_0036\"\n# textflame 1 1\n@シャルウル\nよろしいですか？\nでは、さっそくいきますよ\n;;--------------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私が☆5の時のジョブは\nなんだったでしょうか？\n\n# se \"SE_0734\"\n# select  \"イェーガー\" \"select_label_1\" \"ウォリアー\" \"select_label_2\" \"ビショップ\" \"select_label_3\"\n私が☆5の時のジョブは\nなんだったでしょうか？\n"
+	},
+	{
+		"ID": 2823,
+		"unitID": 2200711,
+		"questionID": 9200723,
+		"script": ";;聖斧将の滅気,3\n# voice 2007 \"sharuuru_0001\"\n# textflame 1 1\n@シャルウル\n…マスター\n少しよろしいですか？\n\n# textflame 1 1\n@シャルウル\nいえ、新しい情報ではなく…\n\n# textflame 1 1\n@シャルウル\nマスターに\n質問をしてみてもいいですか？\n\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@シャルウル\nあ、深い意味はないですよ？\nただ、マスターがどれだけ\n私を知っているのか気になりまして…\n\n# face %(unit_a)s \"normal\"\n# voice 2007 \"sharuuru_0036\"\n# textflame 1 1\n@シャルウル\nよろしいですか？\nでは、さっそくいきますよ\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私の☆5の\nリーダースキルは\nなんでしょうか？\n\n# se \"SE_0734\"\n# select  \"風射手の風陣\" \"select_label_1\" \"昏冥の共鳴\" \"select_label_2\" \"聖斧将の滅気\" \"select_label_3\"\n私の☆5の\nリーダースキルは\nなんでしょうか？\n"
+	},
+	{
+		"ID": 2824,
+		"unitID": 2200711,
+		"questionID": 9200724,
+		"script": ";;斧神の極意,1\n# voice 2007 \"sharuuru_0001\"\n# textflame 1 1\n@シャルウル\n…マスター\n少しよろしいですか？\n\n# textflame 1 1\n@シャルウル\nいえ、新しい情報ではなく…\n\n# textflame 1 1\n@シャルウル\nマスターに\n質問をしてみてもいいですか？\n\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@シャルウル\nあ、深い意味はないですよ？\nただ、マスターがどれだけ\n私を知っているのか気になりまして…\n\n# face %(unit_a)s \"normal\"\n# voice 2007 \"sharuuru_0036\"\n# textflame 1 1\n@シャルウル\nよろしいですか？\nでは、さっそくいきますよ\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私の☆6の\nリーダースキルはなんですか？\n\n# se \"SE_0734\"\n# select  \"斧神の極意\" \"select_label_1\" \"極乱風の共鳴\" \"select_label_2\" \"真旋風の共鳴\" \"select_label_3\"\n私の☆6の\nリーダースキルはなんですか？\n"
+	},
+	{
+		"ID": 2825,
+		"unitID": 2200711,
+		"questionID": 9200725,
+		"script": ";;先制時命中・回避アップ,2\n# voice 2007 \"sharuuru_0001\"\n# textflame 1 1\n@シャルウル\n…マスター\n少しよろしいですか？\n\n# textflame 1 1\n@シャルウル\nいえ、新しい情報ではなく…\n\n# textflame 1 1\n@シャルウル\nマスターに\n質問をしてみてもいいですか？\n\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@シャルウル\nあ、深い意味はないですよ？\nただ、マスターがどれだけ\n私を知っているのか気になりまして…\n\n# face %(unit_a)s \"normal\"\n# voice 2007 \"sharuuru_0036\"\n# textflame 1 1\n@シャルウル\nよろしいですか？\nでは、さっそくいきますよ\n;;--------------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私が覚えるスキル\n『先攻配慮』は\nどんな効果でしょうか？\n\n# se \"SE_0734\"\n# select  \"先制時防御・攻撃力アップ\" \"select_label_1\" \"先制時命中・回避アップ\" \"select_label_2\" \"先制時攻撃力アップ\" \"select_label_3\"\n私が覚えるスキル\n『先攻配慮』は\nどんな効果でしょうか？\n"
+	},
+	{
+		"ID": 2826,
+		"unitID": 2200711,
+		"questionID": 9200726,
+		"script": ";;斧神,3\n# voice 2007 \"sharuuru_0001\"\n# textflame 1 1\n@シャルウル\n…マスター\n少しよろしいですか？\n\n# textflame 1 1\n@シャルウル\nいえ、新しい情報ではなく…\n\n# textflame 1 1\n@シャルウル\nマスターに\n質問をしてみてもいいですか？\n\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@シャルウル\nあ、深い意味はないですよ？\nただ、マスターがどれだけ\n私を知っているのか気になりまして…\n\n# face %(unit_a)s \"normal\"\n# voice 2007 \"sharuuru_0036\"\n# textflame 1 1\n@シャルウル\nよろしいですか？\nでは、さっそくいきますよ\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私が☆６の時は\nどんなジョブでしたか？\n\n# se \"SE_0734\"\n# select  \"弓神\" \"select_label_1\" \"剣神\" \"select_label_2\" \"斧神\" \"select_label_3\"\n私が☆６の時は\nどんなジョブでしたか？\n"
+	},
+	{
+		"ID": 2827,
+		"unitID": 2200711,
+		"questionID": 9200727,
+		"script": ";;先行配慮,1\n# voice 2007 \"sharuuru_0001\"\n# textflame 1 1\n@シャルウル\n…マスター\n少しよろしいですか？\n\n# textflame 1 1\n@シャルウル\nいえ、新しい情報ではなく…\n\n# textflame 1 1\n@シャルウル\nマスターに\n質問をしてみてもいいですか？\n\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@シャルウル\nあ、深い意味はないですよ？\nただ、マスターがどれだけ\n私を知っているのか気になりまして…\n\n# face %(unit_a)s \"normal\"\n# voice 2007 \"sharuuru_0036\"\n# textflame 1 1\n@シャルウル\nよろしいですか？\nでは、さっそくいきますよ\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私の☆5の\n固有スキルはなんですか？\n\n# se \"SE_0734\"\n# select  \"先行配慮\" \"select_label_1\" \"剛剣-瞬力-\" \"select_label_2\" \"シークレットローズ\" \"select_label_3\"\n私の☆5の\n固有スキルはなんですか？\n"
+	},
+	{
+		"ID": 2828,
+		"unitID": 2200711,
+		"questionID": 9200728,
+		"script": ";;必殺UP,2\n# voice 2007 \"sharuuru_0001\"\n# textflame 1 1\n@シャルウル\n…マスター\n少しよろしいですか？\n\n# textflame 1 1\n@シャルウル\nいえ、新しい情報ではなく…\n\n# textflame 1 1\n@シャルウル\nマスターに\n質問をしてみてもいいですか？\n\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@シャルウル\nあ、深い意味はないですよ？\nただ、マスターがどれだけ\n私を知っているのか気になりまして…\n\n# face %(unit_a)s \"normal\"\n# voice 2007 \"sharuuru_0036\"\n# textflame 1 1\n@シャルウル\nよろしいですか？\nでは、さっそくいきますよ\n;;--------------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私が最初に覚える\nスキルはなんでしたか？\n\n# se \"SE_0734\"\n# select  \"見切り\" \"select_label_1\" \"必殺UP\" \"select_label_2\" \"物防強化\" \"select_label_3\"\n私が最初に覚える\nスキルはなんでしたか？\n"
+	},
+	{
+		"ID": 2829,
+		"unitID": 2200711,
+		"questionID": 9200729,
+		"script": ";;斧戦士の滅眼,3\n# voice 2007 \"sharuuru_0001\"\n# textflame 1 1\n@シャルウル\n…マスター\n少しよろしいですか？\n\n# textflame 1 1\n@シャルウル\nいえ、新しい情報ではなく…\n\n# textflame 1 1\n@シャルウル\nマスターに\n質問をしてみてもいいですか？\n\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@シャルウル\nあ、深い意味はないですよ？\nただ、マスターがどれだけ\n私を知っているのか気になりまして…\n\n# face %(unit_a)s \"normal\"\n# voice 2007 \"sharuuru_0036\"\n# textflame 1 1\n@シャルウル\nよろしいですか？\nでは、さっそくいきますよ\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私の☆4の\nリーダースキルは\nなんでしたか？\n\n# se \"SE_0734\"\n# select  \"絶対零度の加護\" \"select_label_1\" \"極乱風の共鳴\" \"select_label_2\" \"斧戦士の滅眼\" \"select_label_3\"\n私の☆4の\nリーダースキルは\nなんでしたか？\n"
+	},
+	{
+		"ID": 2830,
+		"unitID": 2200711,
+		"questionID": 9200730,
+		"script": ";;疾風配慮,1\n# voice 2007 \"sharuuru_0001\"\n# textflame 1 1\n@シャルウル\n…マスター\n少しよろしいですか？\n\n# textflame 1 1\n@シャルウル\nいえ、新しい情報ではなく…\n\n# textflame 1 1\n@シャルウル\nマスターに\n質問をしてみてもいいですか？\n\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@シャルウル\nあ、深い意味はないですよ？\nただ、マスターがどれだけ\n私を知っているのか気になりまして…\n\n# face %(unit_a)s \"normal\"\n# voice 2007 \"sharuuru_0036\"\n# textflame 1 1\n@シャルウル\nよろしいですか？\nでは、さっそくいきますよ\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私の☆6の\n固有スキルは\nなんでしょうか？\n\n# se \"SE_0734\"\n# select  \"疾風配慮\" \"select_label_1\" \"反撃強化\" \"select_label_2\" \"起死回生\" \"select_label_3\"\n私の☆6の\n固有スキルは\nなんでしょうか？\n"
+	},
+	{
+		"ID": 2831,
+		"unitID": 2200711,
+		"questionID": 9200731,
+		"script": ";;体を動かす事,1\n# voice 2007 \"sharuuru_0001\"\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n@シャルウル\n…マスター\n今日は、楽しかったですね\n\n# textflame 1 1\n@シャルウル\n今日のこの楽しさが\nこれから先も…\nずっと続くといいですね\n\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@シャルウル\nですが、そのためには\nどうしても確認しなければ\nならない事があります\n\n# face %(unit_a)s \"angry\"\n# textflame 1 1\n@シャルウル\nマスターが\nどのくらい私を理解しているか、\nです！\n\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@シャルウル\nそれを確認するために\n質問をしてもよろしいでしょうか？\n\n# face %(unit_a)s \"smile\"\n# voice 2007 \"sharuuru_0030\"\n# textflame 1 1\n@シャルウル\nありがとうございます\nでは、行きますよ？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私の親友であるミトゥムの\n趣味はご存知でしょうか？\n\n# se \"SE_0734\"\n# select  \"体を動かす事\" \"select_label_1\" \"昼寝\" \"select_label_2\" \"料理\" \"select_label_3\"\n私の親友であるミトゥムの\n趣味はご存知でしょうか？\n"
+	},
+	{
+		"ID": 2832,
+		"unitID": 2200711,
+		"questionID": 9200732,
+		"script": ";;シャルウル,2\n# voice 2007 \"sharuuru_0001\"\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n@シャルウル\n…マスター\n今日は、楽しかったですね\n\n# textflame 1 1\n@シャルウル\n今日のこの楽しさが\nこれから先も…\nずっと続くといいですね\n\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@シャルウル\nですが、そのためには\nどうしても確認しなければ\nならない事があります\n\n# face %(unit_a)s \"angry\"\n# textflame 1 1\n@シャルウル\nマスターが\nどのくらい私を理解しているか、\nです！\n\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@シャルウル\nそれを確認するために\n質問をしてもよろしいでしょうか？\n\n# face %(unit_a)s \"smile\"\n# voice 2007 \"sharuuru_0030\"\n# textflame 1 1\n@シャルウル\nありがとうございます\nでは、行きますよ？\n;;--------------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私と親友のミトゥムは\nどちらが背が高いでしょうか？\n\n# se \"SE_0734\"\n# select  \"ミトゥム\" \"select_label_1\" \"シャルウル\" \"select_label_2\" \"同じ\" \"select_label_3\"\n私と親友のミトゥムは\nどちらが背が高いでしょうか？\n"
+	},
+	{
+		"ID": 2833,
+		"unitID": 2200711,
+		"questionID": 9200733,
+		"script": ";;ライオン,3\n# voice 2007 \"sharuuru_0001\"\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n@シャルウル\n…マスター\n今日は、楽しかったですね\n\n# textflame 1 1\n@シャルウル\n今日のこの楽しさが\nこれから先も…\nずっと続くといいですね\n\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@シャルウル\nですが、そのためには\nどうしても確認しなければ\nならない事があります\n\n# face %(unit_a)s \"angry\"\n# textflame 1 1\n@シャルウル\nマスターが\nどのくらい私を理解しているか、\nです！\n\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@シャルウル\nそれを確認するために\n質問をしてもよろしいでしょうか？\n\n# face %(unit_a)s \"smile\"\n# voice 2007 \"sharuuru_0030\"\n# textflame 1 1\n@シャルウル\nありがとうございます\nでは、行きますよ？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私の親友のミトゥムは\nとある動物が好きなのですが\nご存知ですか？\n\n# se \"SE_0734\"\n# select  \"猫\" \"select_label_1\" \"犬\" \"select_label_2\" \"ライオン\" \"select_label_3\"\n私の親友のミトゥムは\nとある動物が好きなのですが\nご存知ですか？\n"
+	},
+	{
+		"ID": 2834,
+		"unitID": 2200711,
+		"questionID": 9200734,
+		"script": ";;メソポタミア,1\n# voice 2007 \"sharuuru_0001\"\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n@シャルウル\n…マスター\n今日は、楽しかったですね\n\n# textflame 1 1\n@シャルウル\n今日のこの楽しさが\nこれから先も…\nずっと続くといいですね\n\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@シャルウル\nですが、そのためには\nどうしても確認しなければ\nならない事があります\n\n# face %(unit_a)s \"angry\"\n# textflame 1 1\n@シャルウル\nマスターが\nどのくらい私を理解しているか、\nです！\n\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@シャルウル\nそれを確認するために\n質問をしてもよろしいでしょうか？\n\n# face %(unit_a)s \"smile\"\n# voice 2007 \"sharuuru_0030\"\n# textflame 1 1\n@シャルウル\nありがとうございます\nでは、行きますよ？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私の親友のミトゥムは\nどこの出身ですか？\n\n# se \"SE_0734\"\n# select  \"メソポタミア\" \"select_label_1\" \"アイスランド\" \"select_label_2\" \"エジプト\" \"select_label_3\"\n私の親友のミトゥムは\nどこの出身ですか？\n"
+	},
+	{
+		"ID": 2835,
+		"unitID": 2200711,
+		"questionID": 9200735,
+		"script": ";;緑,2\n# voice 2007 \"sharuuru_0001\"\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n@シャルウル\n…マスター\n今日は、楽しかったですね\n\n# textflame 1 1\n@シャルウル\n今日のこの楽しさが\nこれから先も…\nずっと続くといいですね\n\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@シャルウル\nですが、そのためには\nどうしても確認しなければ\nならない事があります\n\n# face %(unit_a)s \"angry\"\n# textflame 1 1\n@シャルウル\nマスターが\nどのくらい私を理解しているか、\nです！\n\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@シャルウル\nそれを確認するために\n質問をしてもよろしいでしょうか？\n\n# face %(unit_a)s \"smile\"\n# voice 2007 \"sharuuru_0030\"\n# textflame 1 1\n@シャルウル\nありがとうございます\nでは、行きますよ？\n;;--------------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私の髪の色は何色でしょうか？\nこれはさすがに分かりますよね \n\n# se \"SE_0734\"\n# select  \"白\" \"select_label_1\" \"緑\" \"select_label_2\" \"赤\" \"select_label_3\"\n私の髪の色は何色でしょうか？\nこれはさすがに分かりますよね \n"
+	},
+	{
+		"ID": 2836,
+		"unitID": 2200711,
+		"questionID": 9200736,
+		"script": ";;バスグッズ,3\n# voice 2007 \"sharuuru_0001\"\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n@シャルウル\n…マスター\n今日は、楽しかったですね\n\n# textflame 1 1\n@シャルウル\n今日のこの楽しさが\nこれから先も…\nずっと続くといいですね\n\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@シャルウル\nですが、そのためには\nどうしても確認しなければ\nならない事があります\n\n# face %(unit_a)s \"angry\"\n# textflame 1 1\n@シャルウル\nマスターが\nどのくらい私を理解しているか、\nです！\n\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@シャルウル\nそれを確認するために\n質問をしてもよろしいでしょうか？\n\n# face %(unit_a)s \"smile\"\n# voice 2007 \"sharuuru_0030\"\n# textflame 1 1\n@シャルウル\nありがとうございます\nでは、行きますよ？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私がお風呂へ\n大量に持ち込むものは\nなんでしょう？\n\n# se \"SE_0734\"\n# select  \"なにも持ち込まない\" \"select_label_1\" \"小説\" \"select_label_2\" \"バスグッズ\" \"select_label_3\"\n私がお風呂へ\n大量に持ち込むものは\nなんでしょう？\n"
+	},
+	{
+		"ID": 2837,
+		"unitID": 2200711,
+		"questionID": 9200737,
+		"script": ";;黄緑,1\n# voice 2007 \"sharuuru_0001\"\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n@シャルウル\n…マスター\n今日は、楽しかったですね\n\n# textflame 1 1\n@シャルウル\n今日のこの楽しさが\nこれから先も…\nずっと続くといいですね\n\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@シャルウル\nですが、そのためには\nどうしても確認しなければ\nならない事があります\n\n# face %(unit_a)s \"angry\"\n# textflame 1 1\n@シャルウル\nマスターが\nどのくらい私を理解しているか、\nです！\n\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@シャルウル\nそれを確認するために\n質問をしてもよろしいでしょうか？\n\n# face %(unit_a)s \"smile\"\n# voice 2007 \"sharuuru_0030\"\n# textflame 1 1\n@シャルウル\nありがとうございます\nでは、行きますよ？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私の瞳の色は\n何色でしょうか？\n\n# se \"SE_0734\"\n# select  \"黄緑\" \"select_label_1\" \"青\" \"select_label_2\" \"黒\" \"select_label_3\"\n私の瞳の色は\n何色でしょうか？\n"
+	},
+	{
+		"ID": 2838,
+		"unitID": 2200711,
+		"questionID": 9200738,
+		"script": ";;アポロ１１号の月面着陸,2\n# voice 2007 \"sharuuru_0001\"\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n@シャルウル\n…マスター\n今日は、楽しかったですね\n\n# textflame 1 1\n@シャルウル\n今日のこの楽しさが\nこれから先も…\nずっと続くといいですね\n\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@シャルウル\nですが、そのためには\nどうしても確認しなければ\nならない事があります\n\n# face %(unit_a)s \"angry\"\n# textflame 1 1\n@シャルウル\nマスターが\nどのくらい私を理解しているか、\nです！\n\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@シャルウル\nそれを確認するために\n質問をしてもよろしいでしょうか？\n\n# face %(unit_a)s \"smile\"\n# voice 2007 \"sharuuru_0030\"\n# textflame 1 1\n@シャルウル\nありがとうございます\nでは、行きますよ？\n;;--------------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私の誕生日7月20日に\n大きな出来事がありましたが\nそれがなにかわかりますか？\n\n# se \"SE_0734\"\n# select  \"戦争終結\" \"select_label_1\" \"アポロ１１号の月面着陸\" \"select_label_2\" \"オリンピック\" \"select_label_3\"\n私の誕生日7月20日に\n大きな出来事がありましたが\nそれがなにかわかりますか？\n"
+	},
+	{
+		"ID": 2839,
+		"unitID": 2200711,
+		"questionID": 9200739,
+		"script": ";;Cancer,3\n# voice 2007 \"sharuuru_0001\"\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n@シャルウル\n…マスター\n今日は、楽しかったですね\n\n# textflame 1 1\n@シャルウル\n今日のこの楽しさが\nこれから先も…\nずっと続くといいですね\n\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@シャルウル\nですが、そのためには\nどうしても確認しなければ\nならない事があります\n\n# face %(unit_a)s \"angry\"\n# textflame 1 1\n@シャルウル\nマスターが\nどのくらい私を理解しているか、\nです！\n\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@シャルウル\nそれを確認するために\n質問をしてもよろしいでしょうか？\n\n# face %(unit_a)s \"smile\"\n# voice 2007 \"sharuuru_0030\"\n# textflame 1 1\n@シャルウル\nありがとうございます\nでは、行きますよ？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私の星座かに座の\n英語読みは\n次のうちどれですか？\n\n# se \"SE_0734\"\n# select  \"Aries\" \"select_label_1\" \"Virgo\" \"select_label_2\" \"Cancer\" \"select_label_3\"\n私の星座かに座の\n英語読みは\n次のうちどれですか？\n"
+	},
+	{
+		"ID": 2840,
+		"unitID": 2200711,
+		"questionID": 9200740,
+		"script": ";;シュメール神話群,1\n# voice 2007 \"sharuuru_0001\"\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n@シャルウル\n…マスター\n今日は、楽しかったですね\n\n# textflame 1 1\n@シャルウル\n今日のこの楽しさが\nこれから先も…\nずっと続くといいですね\n\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@シャルウル\nですが、そのためには\nどうしても確認しなければ\nならない事があります\n\n# face %(unit_a)s \"angry\"\n# textflame 1 1\n@シャルウル\nマスターが\nどのくらい私を理解しているか、\nです！\n\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@シャルウル\nそれを確認するために\n質問をしてもよろしいでしょうか？\n\n# face %(unit_a)s \"smile\"\n# voice 2007 \"sharuuru_0030\"\n# textflame 1 1\n@シャルウル\nありがとうございます\nでは、行きますよ？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私の属するクラスタは\nなんでしょうか？\n\n# se \"SE_0734\"\n# select  \"シュメール神話群\" \"select_label_1\" \"中国神話群\" \"select_label_2\" \"ケルト神話群\" \"select_label_3\"\n私の属するクラスタは\nなんでしょうか？\n"
+	},
+	{
+		"ID": 2841,
+		"unitID": 2200711,
+		"questionID": 9200741,
+		"script": "\n;;私,2\n# se \"SE_0734\"\n# select \"ワタシ\" \"select_label_1\" \"私\" \"select_label_2\" \"ぼく\" \"select_label_3\"\nシャルウルの一人称は\n次のうちどれ？\n"
+	},
+	{
+		"ID": 2842,
+		"unitID": 2200711,
+		"questionID": 9200742,
+		"script": "\n;;マスター,2\n# se \"SE_0734\"\n# select \"ご主人様\" \"select_label_1\" \"マスター\" \"select_label_2\" \"あなた\" \"select_label_3\"\nシャルウルはアンタのこと、\nなんて呼んでる？\n"
+	},
+	{
+		"ID": 2843,
+		"unitID": 2200711,
+		"questionID": 9200743,
+		"script": "\n;;93,2\n# se \"SE_0734\"\n# select \"84\" \"select_label_1\" \"93\" \"select_label_2\" \"90\" \"select_label_3\"\nシャルウルの\nバストサイズがどのくらいか\nアンタ…知ってるの？\n"
+	},
+	{
+		"ID": 2844,
+		"unitID": 2200711,
+		"questionID": 9200744,
+		"script": "\n;;63,3\n# se \"SE_0734\"\n# select \"56\" \"select_label_1\" \"62\" \"select_label_2\" \"63\" \"select_label_3\"\nシャルウルの\nウエストサイズがどのくらいか\nアンタ…知ってるの？\n"
+	},
+	{
+		"ID": 2845,
+		"unitID": 2200711,
+		"questionID": 9200745,
+		"script": "\n;;93,3\n# se \"SE_0734\"\n# select \"91\" \"select_label_1\" \"85\" \"select_label_2\" \"93\" \"select_label_3\"\nシャルウルの\nヒップサイズがどのくらいか\nアンタ…知ってるの？\n"
+	},
+	{
+		"ID": 2846,
+		"unitID": 2200711,
+		"questionID": 9200746,
+		"script": "\n;;57,3\n# se \"SE_0734\"\n# select \"53\" \"select_label_1\" \"47\" \"select_label_2\" \"57\" \"select_label_3\"\nシャルウルの体重は\n次のうちどれ？\n"
+	},
+	{
+		"ID": 2847,
+		"unitID": 2200711,
+		"questionID": 9200747,
+		"script": "\n;;249,2\n# se \"SE_0734\"\n# select \"225\" \"select_label_1\" \"249\" \"select_label_2\" \"243\" \"select_label_3\"\nシャルウルの\nバスト＋ウエスト＋ヒップは\nいくつかわかる？\n"
+	},
+	{
+		"ID": 2848,
+		"unitID": 2200711,
+		"questionID": 9200748,
+		"script": "\n;;黒,2\n# se \"SE_0734\"\n# select \"赤\" \"select_label_1\" \"黒\" \"select_label_2\" \"白\" \"select_label_3\"\nシャルウルの水着の色は\n次のうちどれ？\n"
+	},
+	{
+		"ID": 2849,
+		"unitID": 2200711,
+		"questionID": 9200749,
+		"script": "\n;;69位,2\n# se \"SE_0734\"\n# select \"53位\" \"select_label_1\" \"69位\" \"select_label_2\" \"76位\" \"select_label_3\"\nシャルウルは\n第２回人気投票で\n何位だったでしょう？\n"
+	},
+	{
+		"ID": 2850,
+		"unitID": 2200711,
+		"questionID": 9200750,
+		"script": "\n;;浅川悠,1\n# se \"SE_0734\"\n# select \"浅川悠\" \"select_label_1\" \"清都ありさ\" \"select_label_2\" \"瀬戸麻沙美\" \"select_label_3\"\nシャルウルの声優は誰？\n"
+	}
+]

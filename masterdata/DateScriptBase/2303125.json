@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 2303125,
+		"script": ";;青はずれ\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_drive\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 0 0\n@\nお出かけの帰り、\nカシウスと車で帰るマスター\n\n@\n運転中のマスターが\n握っているハンドルを、\nカシウスは興味深く眺めていた\n\n# textflame 1 1\n# voice 230312 \"cassius_lo_0002\"\n@カシウス\nはんどるって、\nきれいなえんかんね…\nさわってもいい？\n\n@カシウス\n…だめなの？\nいまさわると、あぶない？\n\n# face %(unit_a)s \"sad\"\n# voice 230312 \"cassius_lo_0019\"\n@カシウス\nそう…ざんねん…\nせっかくこのみの\nえんかんなのに…\n\n@カシウス\nじゃあ…はんどるのほかに、\nなにかまんまるな\nものってないかしら？\n\n# voice 230312 \"cassius_lo_0039\"\n@カシウス\nどーなつ？\nわあ…これって、おかし？\n\n@カシウス\nみんなにおみやげ？\nそっか…\nおやかたしゃま、やさしい\n\n# voice 230312 \"cassius_lo_0004\"\n@カシウス\nまんまるな、おかし…\nふふっ…たのしみ…\n\n# textflame 0 0\n@\n待ちきれない様子のカシウスに\nマスターは微笑みつつ、\n帰路につくのだった\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

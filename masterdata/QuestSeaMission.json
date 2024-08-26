@@ -1,0 +1,3359 @@
+[
+	{
+		"ID": 1,
+		"quest_s_QuestSeaS": 277000001,
+		"priority": 1,
+		"name": "1人も離脱せずにステージクリア",
+		"entity_type_CommonRewardType": 4,
+		"entity_id": 0,
+		"quantity": 50000
+	},
+	{
+		"ID": 2,
+		"quest_s_QuestSeaS": 277000001,
+		"priority": 2,
+		"name": "6ターン以内にステージクリア",
+		"entity_type_CommonRewardType": 17,
+		"entity_id": 0,
+		"quantity": 30
+	},
+	{
+		"ID": 3,
+		"quest_s_QuestSeaS": 277000002,
+		"priority": 1,
+		"name": "1人も離脱せずにステージクリア",
+		"entity_type_CommonRewardType": 20,
+		"entity_id": 532,
+		"quantity": 1
+	},
+	{
+		"ID": 4,
+		"quest_s_QuestSeaS": 277000003,
+		"priority": 1,
+		"name": "1人も離脱せずにステージクリア",
+		"entity_type_CommonRewardType": 4,
+		"entity_id": 0,
+		"quantity": 50000
+	},
+	{
+		"ID": 5,
+		"quest_s_QuestSeaS": 277000003,
+		"priority": 2,
+		"name": "5ターン以内にステージクリア",
+		"entity_type_CommonRewardType": 17,
+		"entity_id": 0,
+		"quantity": 30
+	},
+	{
+		"ID": 6,
+		"quest_s_QuestSeaS": 277000004,
+		"priority": 1,
+		"name": "6ターン以内にステージクリア",
+		"entity_type_CommonRewardType": 20,
+		"entity_id": 532,
+		"quantity": 1
+	},
+	{
+		"ID": 7,
+		"quest_s_QuestSeaS": 277000005,
+		"priority": 1,
+		"name": "1人も離脱せずにステージクリア",
+		"entity_type_CommonRewardType": 4,
+		"entity_id": 0,
+		"quantity": 50000
+	},
+	{
+		"ID": 8,
+		"quest_s_QuestSeaS": 277000005,
+		"priority": 2,
+		"name": "5ターン以内にステージクリア",
+		"entity_type_CommonRewardType": 17,
+		"entity_id": 0,
+		"quantity": 30
+	},
+	{
+		"ID": 9,
+		"quest_s_QuestSeaS": 277000006,
+		"priority": 1,
+		"name": "6ターン以内にステージクリア",
+		"entity_type_CommonRewardType": 20,
+		"entity_id": 532,
+		"quantity": 1
+	},
+	{
+		"ID": 10,
+		"quest_s_QuestSeaS": 277000007,
+		"priority": 1,
+		"name": "1人も離脱せずにステージクリア",
+		"entity_type_CommonRewardType": 4,
+		"entity_id": 0,
+		"quantity": 50000
+	},
+	{
+		"ID": 11,
+		"quest_s_QuestSeaS": 277000007,
+		"priority": 2,
+		"name": "6ターン以内にステージクリア",
+		"entity_type_CommonRewardType": 17,
+		"entity_id": 0,
+		"quantity": 30
+	},
+	{
+		"ID": 12,
+		"quest_s_QuestSeaS": 277000007,
+		"priority": 3,
+		"name": "レンタルユニットを含め剣を使うジョブ\nのみでステージクリア",
+		"entity_type_CommonRewardType": 10,
+		"entity_id": 0,
+		"quantity": 1
+	},
+	{
+		"ID": 13,
+		"quest_s_QuestSeaS": 277000008,
+		"priority": 1,
+		"name": "1人も離脱せずにステージクリア",
+		"entity_type_CommonRewardType": 4,
+		"entity_id": 0,
+		"quantity": 50000
+	},
+	{
+		"ID": 14,
+		"quest_s_QuestSeaS": 277000008,
+		"priority": 2,
+		"name": "10ターン以内にステージクリア",
+		"entity_type_CommonRewardType": 17,
+		"entity_id": 0,
+		"quantity": 30
+	},
+	{
+		"ID": 15,
+		"quest_s_QuestSeaS": 277000008,
+		"priority": 3,
+		"name": "6ターン以内にステージクリア",
+		"entity_type_CommonRewardType": 20,
+		"entity_id": 3,
+		"quantity": 1
+	},
+	{
+		"ID": 16,
+		"quest_s_QuestSeaS": 277000010,
+		"priority": 1,
+		"name": "1人も離脱せずにステージクリア",
+		"entity_type_CommonRewardType": 4,
+		"entity_id": 0,
+		"quantity": 50000
+	},
+	{
+		"ID": 17,
+		"quest_s_QuestSeaS": 277000010,
+		"priority": 2,
+		"name": "6ターン以内にステージクリア",
+		"entity_type_CommonRewardType": 17,
+		"entity_id": 0,
+		"quantity": 30
+	},
+	{
+		"ID": 18,
+		"quest_s_QuestSeaS": 277000011,
+		"priority": 1,
+		"name": "1人も離脱せずにステージクリア",
+		"entity_type_CommonRewardType": 4,
+		"entity_id": 0,
+		"quantity": 50000
+	},
+	{
+		"ID": 19,
+		"quest_s_QuestSeaS": 277000012,
+		"priority": 1,
+		"name": "1人も離脱せずにステージクリア",
+		"entity_type_CommonRewardType": 4,
+		"entity_id": 0,
+		"quantity": 50000
+	},
+	{
+		"ID": 20,
+		"quest_s_QuestSeaS": 277000012,
+		"priority": 2,
+		"name": "6ターン以内にステージクリア",
+		"entity_type_CommonRewardType": 17,
+		"entity_id": 0,
+		"quantity": 30
+	},
+	{
+		"ID": 21,
+		"quest_s_QuestSeaS": 277000013,
+		"priority": 1,
+		"name": "1人も離脱せずにステージクリア",
+		"entity_type_CommonRewardType": 4,
+		"entity_id": 0,
+		"quantity": 50000
+	},
+	{
+		"ID": 22,
+		"quest_s_QuestSeaS": 277000013,
+		"priority": 2,
+		"name": "6ターン以内にステージクリア",
+		"entity_type_CommonRewardType": 20,
+		"entity_id": 532,
+		"quantity": 1
+	},
+	{
+		"ID": 23,
+		"quest_s_QuestSeaS": 277000014,
+		"priority": 1,
+		"name": "1人も離脱せずにステージクリア",
+		"entity_type_CommonRewardType": 17,
+		"entity_id": 0,
+		"quantity": 30
+	},
+	{
+		"ID": 24,
+		"quest_s_QuestSeaS": 277000015,
+		"priority": 1,
+		"name": "8ターン以内にステージクリア",
+		"entity_type_CommonRewardType": 20,
+		"entity_id": 532,
+		"quantity": 1
+	},
+	{
+		"ID": 25,
+		"quest_s_QuestSeaS": 277000016,
+		"priority": 1,
+		"name": "1人も離脱せずにステージクリア",
+		"entity_type_CommonRewardType": 4,
+		"entity_id": 0,
+		"quantity": 50000
+	},
+	{
+		"ID": 26,
+		"quest_s_QuestSeaS": 277000016,
+		"priority": 2,
+		"name": "8ターン以内にステージクリア",
+		"entity_type_CommonRewardType": 17,
+		"entity_id": 0,
+		"quantity": 30
+	},
+	{
+		"ID": 27,
+		"quest_s_QuestSeaS": 277000016,
+		"priority": 3,
+		"name": "レンタルユニットを含め剣を使うジョブ\nのみでステージクリア",
+		"entity_type_CommonRewardType": 10,
+		"entity_id": 0,
+		"quantity": 1
+	},
+	{
+		"ID": 28,
+		"quest_s_QuestSeaS": 277000017,
+		"priority": 1,
+		"name": "1人も離脱せずにステージクリア",
+		"entity_type_CommonRewardType": 4,
+		"entity_id": 0,
+		"quantity": 50000
+	},
+	{
+		"ID": 29,
+		"quest_s_QuestSeaS": 277000017,
+		"priority": 2,
+		"name": "8ターン以内にステージクリア",
+		"entity_type_CommonRewardType": 17,
+		"entity_id": 0,
+		"quantity": 30
+	},
+	{
+		"ID": 30,
+		"quest_s_QuestSeaS": 277000017,
+		"priority": 3,
+		"name": "レンタルユニットを含め剣を使うジョブ\nのみでステージクリア",
+		"entity_type_CommonRewardType": 20,
+		"entity_id": 532,
+		"quantity": 1
+	},
+	{
+		"ID": 31,
+		"quest_s_QuestSeaS": 277000018,
+		"priority": 1,
+		"name": "1人も離脱せずにステージクリア",
+		"entity_type_CommonRewardType": 4,
+		"entity_id": 0,
+		"quantity": 50000
+	},
+	{
+		"ID": 32,
+		"quest_s_QuestSeaS": 277000018,
+		"priority": 2,
+		"name": "5ターン以内にステージクリア",
+		"entity_type_CommonRewardType": 17,
+		"entity_id": 0,
+		"quantity": 30
+	},
+	{
+		"ID": 33,
+		"quest_s_QuestSeaS": 277000019,
+		"priority": 1,
+		"name": "1人も離脱せずにステージクリア",
+		"entity_type_CommonRewardType": 20,
+		"entity_id": 532,
+		"quantity": 1
+	},
+	{
+		"ID": 34,
+		"quest_s_QuestSeaS": 277000020,
+		"priority": 1,
+		"name": "1人も離脱せずにステージクリア",
+		"entity_type_CommonRewardType": 4,
+		"entity_id": 0,
+		"quantity": 50000
+	},
+	{
+		"ID": 35,
+		"quest_s_QuestSeaS": 277000020,
+		"priority": 2,
+		"name": "5ターン以内にステージクリア",
+		"entity_type_CommonRewardType": 17,
+		"entity_id": 0,
+		"quantity": 30
+	},
+	{
+		"ID": 36,
+		"quest_s_QuestSeaS": 277000021,
+		"priority": 1,
+		"name": "6ターン以内にステージクリア",
+		"entity_type_CommonRewardType": 20,
+		"entity_id": 532,
+		"quantity": 1
+	},
+	{
+		"ID": 37,
+		"quest_s_QuestSeaS": 277000022,
+		"priority": 1,
+		"name": "1人も離脱せずにステージクリア",
+		"entity_type_CommonRewardType": 4,
+		"entity_id": 0,
+		"quantity": 50000
+	},
+	{
+		"ID": 38,
+		"quest_s_QuestSeaS": 277000022,
+		"priority": 2,
+		"name": "5ターン以内にステージクリア",
+		"entity_type_CommonRewardType": 17,
+		"entity_id": 0,
+		"quantity": 30
+	},
+	{
+		"ID": 39,
+		"quest_s_QuestSeaS": 277000023,
+		"priority": 1,
+		"name": "7ターン以内にステージクリア",
+		"entity_type_CommonRewardType": 20,
+		"entity_id": 532,
+		"quantity": 1
+	},
+	{
+		"ID": 40,
+		"quest_s_QuestSeaS": 277000024,
+		"priority": 1,
+		"name": "1人も離脱せずにステージクリア",
+		"entity_type_CommonRewardType": 17,
+		"entity_id": 0,
+		"quantity": 30
+	},
+	{
+		"ID": 41,
+		"quest_s_QuestSeaS": 277000024,
+		"priority": 2,
+		"name": "7ターン以内にステージクリア",
+		"entity_type_CommonRewardType": 10,
+		"entity_id": 0,
+		"quantity": 1
+	},
+	{
+		"ID": 42,
+		"quest_s_QuestSeaS": 277000025,
+		"priority": 1,
+		"name": "1人も離脱せずにステージクリア",
+		"entity_type_CommonRewardType": 4,
+		"entity_id": 0,
+		"quantity": 50000
+	},
+	{
+		"ID": 43,
+		"quest_s_QuestSeaS": 277000025,
+		"priority": 2,
+		"name": "10ターン以内にステージクリア",
+		"entity_type_CommonRewardType": 17,
+		"entity_id": 0,
+		"quantity": 30
+	},
+	{
+		"ID": 44,
+		"quest_s_QuestSeaS": 277000025,
+		"priority": 3,
+		"name": "6ターン以内にステージクリア",
+		"entity_type_CommonRewardType": 20,
+		"entity_id": 3,
+		"quantity": 1
+	},
+	{
+		"ID": 45,
+		"quest_s_QuestSeaS": 277000026,
+		"priority": 1,
+		"name": "1人も離脱せずにステージクリア",
+		"entity_type_CommonRewardType": 4,
+		"entity_id": 0,
+		"quantity": 50000
+	},
+	{
+		"ID": 46,
+		"quest_s_QuestSeaS": 277000026,
+		"priority": 2,
+		"name": "5ターン以内にステージクリア",
+		"entity_type_CommonRewardType": 17,
+		"entity_id": 0,
+		"quantity": 30
+	},
+	{
+		"ID": 47,
+		"quest_s_QuestSeaS": 277000027,
+		"priority": 1,
+		"name": "1人も離脱せずにステージクリア",
+		"entity_type_CommonRewardType": 4,
+		"entity_id": 0,
+		"quantity": 50000
+	},
+	{
+		"ID": 48,
+		"quest_s_QuestSeaS": 277000027,
+		"priority": 2,
+		"name": "5ターン以内にステージクリア",
+		"entity_type_CommonRewardType": 17,
+		"entity_id": 0,
+		"quantity": 30
+	},
+	{
+		"ID": 49,
+		"quest_s_QuestSeaS": 277000028,
+		"priority": 1,
+		"name": "1人も離脱せずにステージクリア",
+		"entity_type_CommonRewardType": 4,
+		"entity_id": 0,
+		"quantity": 50000
+	},
+	{
+		"ID": 50,
+		"quest_s_QuestSeaS": 277000028,
+		"priority": 2,
+		"name": "6ターン以内にステージクリア",
+		"entity_type_CommonRewardType": 17,
+		"entity_id": 0,
+		"quantity": 30
+	},
+	{
+		"ID": 51,
+		"quest_s_QuestSeaS": 277000029,
+		"priority": 1,
+		"name": "1人も離脱せずにステージクリア",
+		"entity_type_CommonRewardType": 20,
+		"entity_id": 532,
+		"quantity": 1
+	},
+	{
+		"ID": 52,
+		"quest_s_QuestSeaS": 277000030,
+		"priority": 1,
+		"name": "1人も離脱せずにステージクリア",
+		"entity_type_CommonRewardType": 4,
+		"entity_id": 0,
+		"quantity": 50000
+	},
+	{
+		"ID": 53,
+		"quest_s_QuestSeaS": 277000030,
+		"priority": 2,
+		"name": "6ターン以内にステージクリア",
+		"entity_type_CommonRewardType": 17,
+		"entity_id": 0,
+		"quantity": 30
+	},
+	{
+		"ID": 54,
+		"quest_s_QuestSeaS": 277000031,
+		"priority": 1,
+		"name": "6ターン以内にステージクリア",
+		"entity_type_CommonRewardType": 20,
+		"entity_id": 532,
+		"quantity": 1
+	},
+	{
+		"ID": 55,
+		"quest_s_QuestSeaS": 277000032,
+		"priority": 1,
+		"name": "1人も離脱せずにステージクリア",
+		"entity_type_CommonRewardType": 17,
+		"entity_id": 0,
+		"quantity": 30
+	},
+	{
+		"ID": 56,
+		"quest_s_QuestSeaS": 277000032,
+		"priority": 2,
+		"name": "6ターン以内にステージクリア",
+		"entity_type_CommonRewardType": 10,
+		"entity_id": 0,
+		"quantity": 1
+	},
+	{
+		"ID": 57,
+		"quest_s_QuestSeaS": 277000033,
+		"priority": 1,
+		"name": "1人も離脱せずにステージクリア",
+		"entity_type_CommonRewardType": 4,
+		"entity_id": 0,
+		"quantity": 50000
+	},
+	{
+		"ID": 58,
+		"quest_s_QuestSeaS": 277000033,
+		"priority": 2,
+		"name": "10ターン以内にステージクリア",
+		"entity_type_CommonRewardType": 17,
+		"entity_id": 0,
+		"quantity": 30
+	},
+	{
+		"ID": 59,
+		"quest_s_QuestSeaS": 277000033,
+		"priority": 3,
+		"name": "6ターン以内にステージクリア",
+		"entity_type_CommonRewardType": 20,
+		"entity_id": 3,
+		"quantity": 1
+	},
+	{
+		"ID": 60,
+		"quest_s_QuestSeaS": 277000034,
+		"priority": 1,
+		"name": "1人も離脱せずにステージクリア",
+		"entity_type_CommonRewardType": 4,
+		"entity_id": 0,
+		"quantity": 50000
+	},
+	{
+		"ID": 61,
+		"quest_s_QuestSeaS": 277000034,
+		"priority": 2,
+		"name": "6ターン以内にステージクリア",
+		"entity_type_CommonRewardType": 17,
+		"entity_id": 0,
+		"quantity": 30
+	},
+	{
+		"ID": 62,
+		"quest_s_QuestSeaS": 277000035,
+		"priority": 1,
+		"name": "1人も離脱せずにステージクリア",
+		"entity_type_CommonRewardType": 20,
+		"entity_id": 532,
+		"quantity": 1
+	},
+	{
+		"ID": 63,
+		"quest_s_QuestSeaS": 277000036,
+		"priority": 1,
+		"name": "1人も離脱せずにステージクリア",
+		"entity_type_CommonRewardType": 4,
+		"entity_id": 0,
+		"quantity": 50000
+	},
+	{
+		"ID": 64,
+		"quest_s_QuestSeaS": 277000036,
+		"priority": 2,
+		"name": "6ターン以内にステージクリア",
+		"entity_type_CommonRewardType": 17,
+		"entity_id": 0,
+		"quantity": 30
+	},
+	{
+		"ID": 65,
+		"quest_s_QuestSeaS": 277000037,
+		"priority": 1,
+		"name": "6ターン以内にステージクリア",
+		"entity_type_CommonRewardType": 20,
+		"entity_id": 532,
+		"quantity": 1
+	},
+	{
+		"ID": 66,
+		"quest_s_QuestSeaS": 277000038,
+		"priority": 1,
+		"name": "1人も離脱せずにステージクリア",
+		"entity_type_CommonRewardType": 4,
+		"entity_id": 0,
+		"quantity": 50000
+	},
+	{
+		"ID": 67,
+		"quest_s_QuestSeaS": 277000038,
+		"priority": 2,
+		"name": "6ターン以内にステージクリア",
+		"entity_type_CommonRewardType": 17,
+		"entity_id": 0,
+		"quantity": 30
+	},
+	{
+		"ID": 68,
+		"quest_s_QuestSeaS": 277000039,
+		"priority": 1,
+		"name": "6ターン以内にステージクリア",
+		"entity_type_CommonRewardType": 20,
+		"entity_id": 532,
+		"quantity": 1
+	},
+	{
+		"ID": 69,
+		"quest_s_QuestSeaS": 277000040,
+		"priority": 1,
+		"name": "1人も離脱せずにステージクリア",
+		"entity_type_CommonRewardType": 4,
+		"entity_id": 0,
+		"quantity": 50000
+	},
+	{
+		"ID": 70,
+		"quest_s_QuestSeaS": 277000040,
+		"priority": 2,
+		"name": "8ターン以内にステージクリア",
+		"entity_type_CommonRewardType": 17,
+		"entity_id": 0,
+		"quantity": 30
+	},
+	{
+		"ID": 71,
+		"quest_s_QuestSeaS": 277000041,
+		"priority": 1,
+		"name": "1人も離脱せずにステージクリア",
+		"entity_type_CommonRewardType": 4,
+		"entity_id": 0,
+		"quantity": 50000
+	},
+	{
+		"ID": 72,
+		"quest_s_QuestSeaS": 277000041,
+		"priority": 2,
+		"name": "10ターン以内にステージクリア",
+		"entity_type_CommonRewardType": 17,
+		"entity_id": 0,
+		"quantity": 30
+	},
+	{
+		"ID": 73,
+		"quest_s_QuestSeaS": 277000041,
+		"priority": 3,
+		"name": "8ターン以内にステージクリア",
+		"entity_type_CommonRewardType": 20,
+		"entity_id": 3,
+		"quantity": 1
+	},
+	{
+		"ID": 74,
+		"quest_s_QuestSeaS": 277000042,
+		"priority": 1,
+		"name": "1人も離脱せずにステージクリア",
+		"entity_type_CommonRewardType": 4,
+		"entity_id": 0,
+		"quantity": 50000
+	},
+	{
+		"ID": 75,
+		"quest_s_QuestSeaS": 277000042,
+		"priority": 2,
+		"name": "5ターン以内にステージクリア",
+		"entity_type_CommonRewardType": 17,
+		"entity_id": 0,
+		"quantity": 30
+	},
+	{
+		"ID": 76,
+		"quest_s_QuestSeaS": 277000043,
+		"priority": 1,
+		"name": "1人も離脱せずにステージクリア",
+		"entity_type_CommonRewardType": 4,
+		"entity_id": 0,
+		"quantity": 50000
+	},
+	{
+		"ID": 77,
+		"quest_s_QuestSeaS": 277000043,
+		"priority": 2,
+		"name": "7ターン以内にステージクリア",
+		"entity_type_CommonRewardType": 17,
+		"entity_id": 0,
+		"quantity": 30
+	},
+	{
+		"ID": 78,
+		"quest_s_QuestSeaS": 277000044,
+		"priority": 1,
+		"name": "1人も離脱せずにステージクリア",
+		"entity_type_CommonRewardType": 4,
+		"entity_id": 0,
+		"quantity": 50000
+	},
+	{
+		"ID": 79,
+		"quest_s_QuestSeaS": 277000044,
+		"priority": 2,
+		"name": "7ターン以内にステージクリア",
+		"entity_type_CommonRewardType": 17,
+		"entity_id": 0,
+		"quantity": 30
+	},
+	{
+		"ID": 80,
+		"quest_s_QuestSeaS": 277000045,
+		"priority": 1,
+		"name": "1人も離脱せずにステージクリア",
+		"entity_type_CommonRewardType": 20,
+		"entity_id": 532,
+		"quantity": 1
+	},
+	{
+		"ID": 81,
+		"quest_s_QuestSeaS": 277000046,
+		"priority": 1,
+		"name": "1人も離脱せずにステージクリア",
+		"entity_type_CommonRewardType": 4,
+		"entity_id": 0,
+		"quantity": 50000
+	},
+	{
+		"ID": 82,
+		"quest_s_QuestSeaS": 277000046,
+		"priority": 2,
+		"name": "6ターン以内にステージクリア",
+		"entity_type_CommonRewardType": 17,
+		"entity_id": 0,
+		"quantity": 30
+	},
+	{
+		"ID": 83,
+		"quest_s_QuestSeaS": 277000047,
+		"priority": 1,
+		"name": "8ターン以内にステージクリア",
+		"entity_type_CommonRewardType": 20,
+		"entity_id": 532,
+		"quantity": 1
+	},
+	{
+		"ID": 84,
+		"quest_s_QuestSeaS": 277000048,
+		"priority": 1,
+		"name": "1人も離脱せずにステージクリア",
+		"entity_type_CommonRewardType": 4,
+		"entity_id": 0,
+		"quantity": 50000
+	},
+	{
+		"ID": 85,
+		"quest_s_QuestSeaS": 277000048,
+		"priority": 2,
+		"name": "8ターン以内にステージクリア",
+		"entity_type_CommonRewardType": 17,
+		"entity_id": 0,
+		"quantity": 30
+	},
+	{
+		"ID": 86,
+		"quest_s_QuestSeaS": 277000049,
+		"priority": 1,
+		"name": "1人も離脱せずにステージクリア",
+		"entity_type_CommonRewardType": 4,
+		"entity_id": 0,
+		"quantity": 50000
+	},
+	{
+		"ID": 87,
+		"quest_s_QuestSeaS": 277000049,
+		"priority": 2,
+		"name": "10ターン以内にステージクリア",
+		"entity_type_CommonRewardType": 17,
+		"entity_id": 0,
+		"quantity": 30
+	},
+	{
+		"ID": 88,
+		"quest_s_QuestSeaS": 277000049,
+		"priority": 3,
+		"name": "7ターン以内にステージクリア",
+		"entity_type_CommonRewardType": 20,
+		"entity_id": 3,
+		"quantity": 1
+	},
+	{
+		"ID": 89,
+		"quest_s_QuestSeaS": 277000050,
+		"priority": 1,
+		"name": "1人も離脱せずにステージクリア",
+		"entity_type_CommonRewardType": 4,
+		"entity_id": 0,
+		"quantity": 50000
+	},
+	{
+		"ID": 90,
+		"quest_s_QuestSeaS": 277000050,
+		"priority": 2,
+		"name": "5ターン以内にステージクリア",
+		"entity_type_CommonRewardType": 17,
+		"entity_id": 0,
+		"quantity": 30
+	},
+	{
+		"ID": 91,
+		"quest_s_QuestSeaS": 277000051,
+		"priority": 1,
+		"name": "1人も離脱せずにステージクリア",
+		"entity_type_CommonRewardType": 4,
+		"entity_id": 0,
+		"quantity": 50000
+	},
+	{
+		"ID": 92,
+		"quest_s_QuestSeaS": 277000051,
+		"priority": 2,
+		"name": "5ターン以内にステージクリア",
+		"entity_type_CommonRewardType": 17,
+		"entity_id": 0,
+		"quantity": 30
+	},
+	{
+		"ID": 93,
+		"quest_s_QuestSeaS": 277000052,
+		"priority": 1,
+		"name": "1人も離脱せずにステージクリア",
+		"entity_type_CommonRewardType": 4,
+		"entity_id": 0,
+		"quantity": 50000
+	},
+	{
+		"ID": 94,
+		"quest_s_QuestSeaS": 277000052,
+		"priority": 2,
+		"name": "5ターン以内にステージクリア",
+		"entity_type_CommonRewardType": 17,
+		"entity_id": 0,
+		"quantity": 30
+	},
+	{
+		"ID": 95,
+		"quest_s_QuestSeaS": 277000053,
+		"priority": 1,
+		"name": "1人も離脱せずにステージクリア",
+		"entity_type_CommonRewardType": 4,
+		"entity_id": 0,
+		"quantity": 50000
+	},
+	{
+		"ID": 96,
+		"quest_s_QuestSeaS": 277000053,
+		"priority": 2,
+		"name": "6ターン以内にステージクリア",
+		"entity_type_CommonRewardType": 20,
+		"entity_id": 532,
+		"quantity": 1
+	},
+	{
+		"ID": 97,
+		"quest_s_QuestSeaS": 277000054,
+		"priority": 1,
+		"name": "1人も離脱せずにステージクリア",
+		"entity_type_CommonRewardType": 4,
+		"entity_id": 0,
+		"quantity": 50000
+	},
+	{
+		"ID": 98,
+		"quest_s_QuestSeaS": 277000054,
+		"priority": 2,
+		"name": "5ターン以内にステージクリア",
+		"entity_type_CommonRewardType": 17,
+		"entity_id": 0,
+		"quantity": 30
+	},
+	{
+		"ID": 99,
+		"quest_s_QuestSeaS": 277000055,
+		"priority": 1,
+		"name": "1人も離脱せずにステージクリア",
+		"entity_type_CommonRewardType": 4,
+		"entity_id": 0,
+		"quantity": 50000
+	},
+	{
+		"ID": 100,
+		"quest_s_QuestSeaS": 277000055,
+		"priority": 2,
+		"name": "6ターン以内にステージクリア",
+		"entity_type_CommonRewardType": 17,
+		"entity_id": 0,
+		"quantity": 30
+	},
+	{
+		"ID": 101,
+		"quest_s_QuestSeaS": 277000056,
+		"priority": 1,
+		"name": "1人も離脱せずにステージクリア",
+		"entity_type_CommonRewardType": 4,
+		"entity_id": 0,
+		"quantity": 50000
+	},
+	{
+		"ID": 102,
+		"quest_s_QuestSeaS": 277000056,
+		"priority": 2,
+		"name": "6ターン以内にステージクリア",
+		"entity_type_CommonRewardType": 17,
+		"entity_id": 0,
+		"quantity": 30
+	},
+	{
+		"ID": 103,
+		"quest_s_QuestSeaS": 277000057,
+		"priority": 1,
+		"name": "1人も離脱せずにステージクリア",
+		"entity_type_CommonRewardType": 4,
+		"entity_id": 0,
+		"quantity": 50000
+	},
+	{
+		"ID": 104,
+		"quest_s_QuestSeaS": 277000057,
+		"priority": 2,
+		"name": "5ターン以内にステージクリア",
+		"entity_type_CommonRewardType": 20,
+		"entity_id": 532,
+		"quantity": 1
+	},
+	{
+		"ID": 105,
+		"quest_s_QuestSeaS": 277000058,
+		"priority": 1,
+		"name": "1人も離脱せずにステージクリア",
+		"entity_type_CommonRewardType": 4,
+		"entity_id": 0,
+		"quantity": 50000
+	},
+	{
+		"ID": 106,
+		"quest_s_QuestSeaS": 277000058,
+		"priority": 2,
+		"name": "6ターン以内にステージクリア",
+		"entity_type_CommonRewardType": 17,
+		"entity_id": 0,
+		"quantity": 30
+	},
+	{
+		"ID": 107,
+		"quest_s_QuestSeaS": 277000059,
+		"priority": 1,
+		"name": "1人も離脱せずにステージクリア",
+		"entity_type_CommonRewardType": 4,
+		"entity_id": 0,
+		"quantity": 50000
+	},
+	{
+		"ID": 108,
+		"quest_s_QuestSeaS": 277000059,
+		"priority": 2,
+		"name": "6ターン以内にステージクリア",
+		"entity_type_CommonRewardType": 17,
+		"entity_id": 0,
+		"quantity": 30
+	},
+	{
+		"ID": 109,
+		"quest_s_QuestSeaS": 277000060,
+		"priority": 1,
+		"name": "1人も離脱せずにステージクリア",
+		"entity_type_CommonRewardType": 4,
+		"entity_id": 0,
+		"quantity": 50000
+	},
+	{
+		"ID": 110,
+		"quest_s_QuestSeaS": 277000060,
+		"priority": 2,
+		"name": "7ターン以内にステージクリア",
+		"entity_type_CommonRewardType": 17,
+		"entity_id": 0,
+		"quantity": 30
+	},
+	{
+		"ID": 111,
+		"quest_s_QuestSeaS": 277000061,
+		"priority": 1,
+		"name": "1人も離脱せずにステージクリア",
+		"entity_type_CommonRewardType": 4,
+		"entity_id": 0,
+		"quantity": 50000
+	},
+	{
+		"ID": 112,
+		"quest_s_QuestSeaS": 277000061,
+		"priority": 2,
+		"name": "7ターン以内にステージクリア",
+		"entity_type_CommonRewardType": 17,
+		"entity_id": 0,
+		"quantity": 30
+	},
+	{
+		"ID": 113,
+		"quest_s_QuestSeaS": 277000062,
+		"priority": 1,
+		"name": "6ターン以内にステージクリア",
+		"entity_type_CommonRewardType": 20,
+		"entity_id": 532,
+		"quantity": 1
+	},
+	{
+		"ID": 114,
+		"quest_s_QuestSeaS": 277000063,
+		"priority": 1,
+		"name": "1人も離脱せずにステージクリア",
+		"entity_type_CommonRewardType": 4,
+		"entity_id": 0,
+		"quantity": 50000
+	},
+	{
+		"ID": 115,
+		"quest_s_QuestSeaS": 277000063,
+		"priority": 2,
+		"name": "7ターン以内にステージクリア",
+		"entity_type_CommonRewardType": 17,
+		"entity_id": 0,
+		"quantity": 30
+	},
+	{
+		"ID": 116,
+		"quest_s_QuestSeaS": 277000064,
+		"priority": 1,
+		"name": "1人も離脱せずにステージクリア",
+		"entity_type_CommonRewardType": 4,
+		"entity_id": 0,
+		"quantity": 50000
+	},
+	{
+		"ID": 117,
+		"quest_s_QuestSeaS": 277000064,
+		"priority": 2,
+		"name": "7ターン以内にステージクリア",
+		"entity_type_CommonRewardType": 20,
+		"entity_id": 3,
+		"quantity": 1
+	},
+	{
+		"ID": 118,
+		"quest_s_QuestSeaS": 277000100,
+		"priority": 1,
+		"name": "1人も離脱せずにステージクリア",
+		"entity_type_CommonRewardType": 4,
+		"entity_id": 0,
+		"quantity": 50000
+	},
+	{
+		"ID": 119,
+		"quest_s_QuestSeaS": 277000100,
+		"priority": 2,
+		"name": "レンタルユニットを含め4人以下で\nステージクリア",
+		"entity_type_CommonRewardType": 17,
+		"entity_id": 0,
+		"quantity": 30
+	},
+	{
+		"ID": 120,
+		"quest_s_QuestSeaS": 277000101,
+		"priority": 1,
+		"name": "1人も離脱せずにステージクリア",
+		"entity_type_CommonRewardType": 20,
+		"entity_id": 532,
+		"quantity": 1
+	},
+	{
+		"ID": 121,
+		"quest_s_QuestSeaS": 277000102,
+		"priority": 1,
+		"name": "1人も離脱せずにステージクリア",
+		"entity_type_CommonRewardType": 4,
+		"entity_id": 0,
+		"quantity": 50000
+	},
+	{
+		"ID": 122,
+		"quest_s_QuestSeaS": 277000102,
+		"priority": 2,
+		"name": "5ターン以内にステージクリア",
+		"entity_type_CommonRewardType": 17,
+		"entity_id": 0,
+		"quantity": 30
+	},
+	{
+		"ID": 123,
+		"quest_s_QuestSeaS": 277000103,
+		"priority": 1,
+		"name": "6ターン以内にステージクリア",
+		"entity_type_CommonRewardType": 20,
+		"entity_id": 532,
+		"quantity": 1
+	},
+	{
+		"ID": 124,
+		"quest_s_QuestSeaS": 277000104,
+		"priority": 1,
+		"name": "1人も離脱せずにステージクリア",
+		"entity_type_CommonRewardType": 4,
+		"entity_id": 0,
+		"quantity": 50000
+	},
+	{
+		"ID": 125,
+		"quest_s_QuestSeaS": 277000104,
+		"priority": 2,
+		"name": "5ターン以内にステージクリア",
+		"entity_type_CommonRewardType": 17,
+		"entity_id": 0,
+		"quantity": 30
+	},
+	{
+		"ID": 126,
+		"quest_s_QuestSeaS": 277000105,
+		"priority": 1,
+		"name": "1人も離脱せずにステージクリア",
+		"entity_type_CommonRewardType": 4,
+		"entity_id": 0,
+		"quantity": 50000
+	},
+	{
+		"ID": 127,
+		"quest_s_QuestSeaS": 277000105,
+		"priority": 2,
+		"name": "10ターン以内にステージクリア",
+		"entity_type_CommonRewardType": 17,
+		"entity_id": 0,
+		"quantity": 30
+	},
+	{
+		"ID": 128,
+		"quest_s_QuestSeaS": 277000105,
+		"priority": 3,
+		"name": "6ターン以内にステージクリア",
+		"entity_type_CommonRewardType": 20,
+		"entity_id": 3,
+		"quantity": 1
+	},
+	{
+		"ID": 129,
+		"quest_s_QuestSeaS": 277000106,
+		"priority": 1,
+		"name": "1人も離脱せずにステージクリア",
+		"entity_type_CommonRewardType": 4,
+		"entity_id": 0,
+		"quantity": 50000
+	},
+	{
+		"ID": 130,
+		"quest_s_QuestSeaS": 277000106,
+		"priority": 2,
+		"name": "レンタルユニットを含め4人以下で\nステージクリア",
+		"entity_type_CommonRewardType": 17,
+		"entity_id": 0,
+		"quantity": 30
+	},
+	{
+		"ID": 131,
+		"quest_s_QuestSeaS": 277000107,
+		"priority": 1,
+		"name": "1人も離脱せずにステージクリア",
+		"entity_type_CommonRewardType": 20,
+		"entity_id": 532,
+		"quantity": 1
+	},
+	{
+		"ID": 132,
+		"quest_s_QuestSeaS": 277000108,
+		"priority": 1,
+		"name": "1人も離脱せずにステージクリア",
+		"entity_type_CommonRewardType": 4,
+		"entity_id": 0,
+		"quantity": 50000
+	},
+	{
+		"ID": 133,
+		"quest_s_QuestSeaS": 277000108,
+		"priority": 2,
+		"name": "5ターン以内にステージクリア",
+		"entity_type_CommonRewardType": 17,
+		"entity_id": 0,
+		"quantity": 30
+	},
+	{
+		"ID": 134,
+		"quest_s_QuestSeaS": 277000109,
+		"priority": 1,
+		"name": "6ターン以内にステージクリア",
+		"entity_type_CommonRewardType": 20,
+		"entity_id": 532,
+		"quantity": 1
+	},
+	{
+		"ID": 135,
+		"quest_s_QuestSeaS": 277000110,
+		"priority": 1,
+		"name": "1人も離脱せずにステージクリア",
+		"entity_type_CommonRewardType": 4,
+		"entity_id": 0,
+		"quantity": 50000
+	},
+	{
+		"ID": 136,
+		"quest_s_QuestSeaS": 277000110,
+		"priority": 2,
+		"name": "5ターン以内にステージクリア",
+		"entity_type_CommonRewardType": 17,
+		"entity_id": 0,
+		"quantity": 30
+	},
+	{
+		"ID": 137,
+		"quest_s_QuestSeaS": 277000111,
+		"priority": 1,
+		"name": "1人も離脱せずにステージクリア",
+		"entity_type_CommonRewardType": 4,
+		"entity_id": 0,
+		"quantity": 50000
+	},
+	{
+		"ID": 138,
+		"quest_s_QuestSeaS": 277000111,
+		"priority": 2,
+		"name": "10ターン以内にステージクリア",
+		"entity_type_CommonRewardType": 17,
+		"entity_id": 0,
+		"quantity": 30
+	},
+	{
+		"ID": 139,
+		"quest_s_QuestSeaS": 277000111,
+		"priority": 3,
+		"name": "6ターン以内にステージクリア",
+		"entity_type_CommonRewardType": 20,
+		"entity_id": 3,
+		"quantity": 1
+	},
+	{
+		"ID": 140,
+		"quest_s_QuestSeaS": 277000112,
+		"priority": 1,
+		"name": "1人も離脱せずにステージクリア",
+		"entity_type_CommonRewardType": 4,
+		"entity_id": 0,
+		"quantity": 50000
+	},
+	{
+		"ID": 141,
+		"quest_s_QuestSeaS": 277000112,
+		"priority": 2,
+		"name": "レンタルユニットを含め4人以下で\nステージクリア",
+		"entity_type_CommonRewardType": 17,
+		"entity_id": 0,
+		"quantity": 30
+	},
+	{
+		"ID": 142,
+		"quest_s_QuestSeaS": 277000113,
+		"priority": 1,
+		"name": "1人も離脱せずにステージクリア",
+		"entity_type_CommonRewardType": 20,
+		"entity_id": 532,
+		"quantity": 1
+	},
+	{
+		"ID": 143,
+		"quest_s_QuestSeaS": 277000114,
+		"priority": 1,
+		"name": "1人も離脱せずにステージクリア",
+		"entity_type_CommonRewardType": 4,
+		"entity_id": 0,
+		"quantity": 50000
+	},
+	{
+		"ID": 144,
+		"quest_s_QuestSeaS": 277000114,
+		"priority": 2,
+		"name": "5ターン以内にステージクリア",
+		"entity_type_CommonRewardType": 17,
+		"entity_id": 0,
+		"quantity": 30
+	},
+	{
+		"ID": 145,
+		"quest_s_QuestSeaS": 277000115,
+		"priority": 1,
+		"name": "6ターン以内にステージクリア",
+		"entity_type_CommonRewardType": 20,
+		"entity_id": 532,
+		"quantity": 1
+	},
+	{
+		"ID": 146,
+		"quest_s_QuestSeaS": 277000116,
+		"priority": 1,
+		"name": "1人も離脱せずにステージクリア",
+		"entity_type_CommonRewardType": 4,
+		"entity_id": 0,
+		"quantity": 50000
+	},
+	{
+		"ID": 147,
+		"quest_s_QuestSeaS": 277000116,
+		"priority": 2,
+		"name": "5ターン以内にステージクリア",
+		"entity_type_CommonRewardType": 17,
+		"entity_id": 0,
+		"quantity": 30
+	},
+	{
+		"ID": 148,
+		"quest_s_QuestSeaS": 277000117,
+		"priority": 1,
+		"name": "1人も離脱せずにステージクリア",
+		"entity_type_CommonRewardType": 4,
+		"entity_id": 0,
+		"quantity": 50000
+	},
+	{
+		"ID": 149,
+		"quest_s_QuestSeaS": 277000117,
+		"priority": 2,
+		"name": "10ターン以内にステージクリア",
+		"entity_type_CommonRewardType": 17,
+		"entity_id": 0,
+		"quantity": 30
+	},
+	{
+		"ID": 150,
+		"quest_s_QuestSeaS": 277000117,
+		"priority": 3,
+		"name": "6ターン以内にステージクリア",
+		"entity_type_CommonRewardType": 20,
+		"entity_id": 3,
+		"quantity": 1
+	},
+	{
+		"ID": 151,
+		"quest_s_QuestSeaS": 277000118,
+		"priority": 1,
+		"name": "1人も離脱せずにステージクリア",
+		"entity_type_CommonRewardType": 4,
+		"entity_id": 0,
+		"quantity": 50000
+	},
+	{
+		"ID": 152,
+		"quest_s_QuestSeaS": 277000118,
+		"priority": 2,
+		"name": "レンタルユニットを含め4人以下で\nステージクリア",
+		"entity_type_CommonRewardType": 17,
+		"entity_id": 0,
+		"quantity": 30
+	},
+	{
+		"ID": 153,
+		"quest_s_QuestSeaS": 277000119,
+		"priority": 1,
+		"name": "1人も離脱せずにステージクリア",
+		"entity_type_CommonRewardType": 20,
+		"entity_id": 532,
+		"quantity": 1
+	},
+	{
+		"ID": 154,
+		"quest_s_QuestSeaS": 277000120,
+		"priority": 1,
+		"name": "1人も離脱せずにステージクリア",
+		"entity_type_CommonRewardType": 4,
+		"entity_id": 0,
+		"quantity": 50000
+	},
+	{
+		"ID": 155,
+		"quest_s_QuestSeaS": 277000120,
+		"priority": 2,
+		"name": "5ターン以内にステージクリア",
+		"entity_type_CommonRewardType": 17,
+		"entity_id": 0,
+		"quantity": 30
+	},
+	{
+		"ID": 156,
+		"quest_s_QuestSeaS": 277000121,
+		"priority": 1,
+		"name": "6ターン以内にステージクリア",
+		"entity_type_CommonRewardType": 20,
+		"entity_id": 532,
+		"quantity": 1
+	},
+	{
+		"ID": 157,
+		"quest_s_QuestSeaS": 277000122,
+		"priority": 1,
+		"name": "1人も離脱せずにステージクリア",
+		"entity_type_CommonRewardType": 4,
+		"entity_id": 0,
+		"quantity": 50000
+	},
+	{
+		"ID": 158,
+		"quest_s_QuestSeaS": 277000122,
+		"priority": 2,
+		"name": "5ターン以内にステージクリア",
+		"entity_type_CommonRewardType": 17,
+		"entity_id": 0,
+		"quantity": 30
+	},
+	{
+		"ID": 159,
+		"quest_s_QuestSeaS": 277000123,
+		"priority": 1,
+		"name": "1人も離脱せずにステージクリア",
+		"entity_type_CommonRewardType": 4,
+		"entity_id": 0,
+		"quantity": 50000
+	},
+	{
+		"ID": 160,
+		"quest_s_QuestSeaS": 277000123,
+		"priority": 2,
+		"name": "10ターン以内にステージクリア",
+		"entity_type_CommonRewardType": 17,
+		"entity_id": 0,
+		"quantity": 30
+	},
+	{
+		"ID": 161,
+		"quest_s_QuestSeaS": 277000123,
+		"priority": 3,
+		"name": "6ターン以内にステージクリア",
+		"entity_type_CommonRewardType": 20,
+		"entity_id": 3,
+		"quantity": 1
+	},
+	{
+		"ID": 162,
+		"quest_s_QuestSeaS": 277000124,
+		"priority": 1,
+		"name": "1人も離脱せずにステージクリア",
+		"entity_type_CommonRewardType": 4,
+		"entity_id": 0,
+		"quantity": 50000
+	},
+	{
+		"ID": 163,
+		"quest_s_QuestSeaS": 277000124,
+		"priority": 2,
+		"name": "レンタルユニットを含め4人以下で\nステージクリア",
+		"entity_type_CommonRewardType": 17,
+		"entity_id": 0,
+		"quantity": 30
+	},
+	{
+		"ID": 164,
+		"quest_s_QuestSeaS": 277000125,
+		"priority": 1,
+		"name": "1人も離脱せずにステージクリア",
+		"entity_type_CommonRewardType": 20,
+		"entity_id": 532,
+		"quantity": 1
+	},
+	{
+		"ID": 165,
+		"quest_s_QuestSeaS": 277000126,
+		"priority": 1,
+		"name": "1人も離脱せずにステージクリア",
+		"entity_type_CommonRewardType": 4,
+		"entity_id": 0,
+		"quantity": 50000
+	},
+	{
+		"ID": 166,
+		"quest_s_QuestSeaS": 277000126,
+		"priority": 2,
+		"name": "5ターン以内にステージクリア",
+		"entity_type_CommonRewardType": 17,
+		"entity_id": 0,
+		"quantity": 30
+	},
+	{
+		"ID": 167,
+		"quest_s_QuestSeaS": 277000127,
+		"priority": 1,
+		"name": "6ターン以内にステージクリア",
+		"entity_type_CommonRewardType": 20,
+		"entity_id": 532,
+		"quantity": 1
+	},
+	{
+		"ID": 168,
+		"quest_s_QuestSeaS": 277000128,
+		"priority": 1,
+		"name": "1人も離脱せずにステージクリア",
+		"entity_type_CommonRewardType": 4,
+		"entity_id": 0,
+		"quantity": 50000
+	},
+	{
+		"ID": 169,
+		"quest_s_QuestSeaS": 277000128,
+		"priority": 2,
+		"name": "5ターン以内にステージクリア",
+		"entity_type_CommonRewardType": 17,
+		"entity_id": 0,
+		"quantity": 30
+	},
+	{
+		"ID": 170,
+		"quest_s_QuestSeaS": 277000129,
+		"priority": 1,
+		"name": "1人も離脱せずにステージクリア",
+		"entity_type_CommonRewardType": 4,
+		"entity_id": 0,
+		"quantity": 50000
+	},
+	{
+		"ID": 171,
+		"quest_s_QuestSeaS": 277000129,
+		"priority": 2,
+		"name": "10ターン以内にステージクリア",
+		"entity_type_CommonRewardType": 17,
+		"entity_id": 0,
+		"quantity": 30
+	},
+	{
+		"ID": 172,
+		"quest_s_QuestSeaS": 277000129,
+		"priority": 3,
+		"name": "6ターン以内にステージクリア",
+		"entity_type_CommonRewardType": 20,
+		"entity_id": 3,
+		"quantity": 1
+	},
+	{
+		"ID": 173,
+		"quest_s_QuestSeaS": 277000130,
+		"priority": 1,
+		"name": "1人も離脱せずにステージクリア",
+		"entity_type_CommonRewardType": 4,
+		"entity_id": 0,
+		"quantity": 50000
+	},
+	{
+		"ID": 174,
+		"quest_s_QuestSeaS": 277000130,
+		"priority": 2,
+		"name": "レンタルユニットを含め4人以下で\nステージクリア",
+		"entity_type_CommonRewardType": 17,
+		"entity_id": 0,
+		"quantity": 30
+	},
+	{
+		"ID": 175,
+		"quest_s_QuestSeaS": 277000131,
+		"priority": 1,
+		"name": "1人も離脱せずにステージクリア",
+		"entity_type_CommonRewardType": 20,
+		"entity_id": 532,
+		"quantity": 1
+	},
+	{
+		"ID": 176,
+		"quest_s_QuestSeaS": 277000132,
+		"priority": 1,
+		"name": "1人も離脱せずにステージクリア",
+		"entity_type_CommonRewardType": 4,
+		"entity_id": 0,
+		"quantity": 50000
+	},
+	{
+		"ID": 177,
+		"quest_s_QuestSeaS": 277000132,
+		"priority": 2,
+		"name": "5ターン以内にステージクリア",
+		"entity_type_CommonRewardType": 17,
+		"entity_id": 0,
+		"quantity": 30
+	},
+	{
+		"ID": 178,
+		"quest_s_QuestSeaS": 277000133,
+		"priority": 1,
+		"name": "6ターン以内にステージクリア",
+		"entity_type_CommonRewardType": 20,
+		"entity_id": 532,
+		"quantity": 1
+	},
+	{
+		"ID": 179,
+		"quest_s_QuestSeaS": 277000134,
+		"priority": 1,
+		"name": "1人も離脱せずにステージクリア",
+		"entity_type_CommonRewardType": 4,
+		"entity_id": 0,
+		"quantity": 50000
+	},
+	{
+		"ID": 180,
+		"quest_s_QuestSeaS": 277000134,
+		"priority": 2,
+		"name": "5ターン以内にステージクリア",
+		"entity_type_CommonRewardType": 17,
+		"entity_id": 0,
+		"quantity": 30
+	},
+	{
+		"ID": 181,
+		"quest_s_QuestSeaS": 277000135,
+		"priority": 1,
+		"name": "1人も離脱せずにステージクリア",
+		"entity_type_CommonRewardType": 4,
+		"entity_id": 0,
+		"quantity": 50000
+	},
+	{
+		"ID": 182,
+		"quest_s_QuestSeaS": 277000135,
+		"priority": 2,
+		"name": "10ターン以内にステージクリア",
+		"entity_type_CommonRewardType": 17,
+		"entity_id": 0,
+		"quantity": 30
+	},
+	{
+		"ID": 183,
+		"quest_s_QuestSeaS": 277000135,
+		"priority": 3,
+		"name": "6ターン以内にステージクリア",
+		"entity_type_CommonRewardType": 20,
+		"entity_id": 3,
+		"quantity": 1
+	},
+	{
+		"ID": 184,
+		"quest_s_QuestSeaS": 277000201,
+		"priority": 1,
+		"name": "1人も離脱せずにステージクリア",
+		"entity_type_CommonRewardType": 4,
+		"entity_id": 0,
+		"quantity": 50000
+	},
+	{
+		"ID": 185,
+		"quest_s_QuestSeaS": 277000201,
+		"priority": 2,
+		"name": "レンタルユニットを含め4人以下で\nステージクリア",
+		"entity_type_CommonRewardType": 17,
+		"entity_id": 0,
+		"quantity": 30
+	},
+	{
+		"ID": 186,
+		"quest_s_QuestSeaS": 277000202,
+		"priority": 1,
+		"name": "1人も離脱せずにステージクリア",
+		"entity_type_CommonRewardType": 20,
+		"entity_id": 532,
+		"quantity": 1
+	},
+	{
+		"ID": 187,
+		"quest_s_QuestSeaS": 277000202,
+		"priority": 2,
+		"name": "レンタルユニットを含め4人以下で\nステージクリア",
+		"entity_type_CommonRewardType": 17,
+		"entity_id": 0,
+		"quantity": 30
+	},
+	{
+		"ID": 188,
+		"quest_s_QuestSeaS": 277000203,
+		"priority": 1,
+		"name": "1人も離脱せずにステージクリア",
+		"entity_type_CommonRewardType": 4,
+		"entity_id": 0,
+		"quantity": 50000
+	},
+	{
+		"ID": 189,
+		"quest_s_QuestSeaS": 277000203,
+		"priority": 2,
+		"name": "6ターン以内にステージクリア",
+		"entity_type_CommonRewardType": 20,
+		"entity_id": 532,
+		"quantity": 1
+	},
+	{
+		"ID": 190,
+		"quest_s_QuestSeaS": 277000204,
+		"priority": 1,
+		"name": "1人も離脱せずにステージクリア",
+		"entity_type_CommonRewardType": 4,
+		"entity_id": 0,
+		"quantity": 50000
+	},
+	{
+		"ID": 191,
+		"quest_s_QuestSeaS": 277000204,
+		"priority": 2,
+		"name": "5ターン以内にステージクリア",
+		"entity_type_CommonRewardType": 17,
+		"entity_id": 0,
+		"quantity": 30
+	},
+	{
+		"ID": 192,
+		"quest_s_QuestSeaS": 277000205,
+		"priority": 1,
+		"name": "1人も離脱せずにステージクリア",
+		"entity_type_CommonRewardType": 4,
+		"entity_id": 0,
+		"quantity": 50000
+	},
+	{
+		"ID": 193,
+		"quest_s_QuestSeaS": 277000205,
+		"priority": 2,
+		"name": "10ターン以内にステージクリア",
+		"entity_type_CommonRewardType": 17,
+		"entity_id": 0,
+		"quantity": 30
+	},
+	{
+		"ID": 194,
+		"quest_s_QuestSeaS": 277000205,
+		"priority": 3,
+		"name": "6ターン以内にステージクリア",
+		"entity_type_CommonRewardType": 20,
+		"entity_id": 3,
+		"quantity": 1
+	},
+	{
+		"ID": 195,
+		"quest_s_QuestSeaS": 277000206,
+		"priority": 1,
+		"name": "1人も離脱せずにステージクリア",
+		"entity_type_CommonRewardType": 20,
+		"entity_id": 532,
+		"quantity": 1
+	},
+	{
+		"ID": 196,
+		"quest_s_QuestSeaS": 277000206,
+		"priority": 2,
+		"name": "10ターン以内にステージクリア",
+		"entity_type_CommonRewardType": 4,
+		"entity_id": 0,
+		"quantity": 50000
+	},
+	{
+		"ID": 197,
+		"quest_s_QuestSeaS": 277000207,
+		"priority": 1,
+		"name": "1人も離脱せずにステージクリア",
+		"entity_type_CommonRewardType": 4,
+		"entity_id": 0,
+		"quantity": 50000
+	},
+	{
+		"ID": 198,
+		"quest_s_QuestSeaS": 277000207,
+		"priority": 2,
+		"name": "6ターン以内にステージクリア",
+		"entity_type_CommonRewardType": 17,
+		"entity_id": 0,
+		"quantity": 30
+	},
+	{
+		"ID": 199,
+		"quest_s_QuestSeaS": 277000208,
+		"priority": 1,
+		"name": "1人も離脱せずにステージクリア",
+		"entity_type_CommonRewardType": 20,
+		"entity_id": 532,
+		"quantity": 1
+	},
+	{
+		"ID": 200,
+		"quest_s_QuestSeaS": 277000208,
+		"priority": 2,
+		"name": "レンタルユニットを含め4人以下で\nステージクリア",
+		"entity_type_CommonRewardType": 17,
+		"entity_id": 0,
+		"quantity": 30
+	},
+	{
+		"ID": 201,
+		"quest_s_QuestSeaS": 277000209,
+		"priority": 1,
+		"name": "1人も離脱せずにステージクリア",
+		"entity_type_CommonRewardType": 20,
+		"entity_id": 3,
+		"quantity": 1
+	},
+	{
+		"ID": 202,
+		"quest_s_QuestSeaS": 277000209,
+		"priority": 2,
+		"name": "8ターン以内にステージクリア",
+		"entity_type_CommonRewardType": 17,
+		"entity_id": 0,
+		"quantity": 30
+	},
+	{
+		"ID": 203,
+		"quest_s_QuestSeaS": 277000210,
+		"priority": 1,
+		"name": "1人も離脱せずにステージクリア",
+		"entity_type_CommonRewardType": 4,
+		"entity_id": 0,
+		"quantity": 50000
+	},
+	{
+		"ID": 204,
+		"quest_s_QuestSeaS": 277000210,
+		"priority": 2,
+		"name": "8ターン以内にステージクリア",
+		"entity_type_CommonRewardType": 17,
+		"entity_id": 0,
+		"quantity": 30
+	},
+	{
+		"ID": 205,
+		"quest_s_QuestSeaS": 277000210,
+		"priority": 3,
+		"name": "レンタルユニットを含め剣を使うジョブ\nのみでステージクリア",
+		"entity_type_CommonRewardType": 10,
+		"entity_id": 0,
+		"quantity": 1
+	},
+	{
+		"ID": 206,
+		"quest_s_QuestSeaS": 277000211,
+		"priority": 1,
+		"name": "1人も離脱せずにステージクリア",
+		"entity_type_CommonRewardType": 4,
+		"entity_id": 0,
+		"quantity": 50000
+	},
+	{
+		"ID": 207,
+		"quest_s_QuestSeaS": 277000211,
+		"priority": 2,
+		"name": "10ターン以内にステージクリア",
+		"entity_type_CommonRewardType": 17,
+		"entity_id": 0,
+		"quantity": 30
+	},
+	{
+		"ID": 208,
+		"quest_s_QuestSeaS": 277000211,
+		"priority": 3,
+		"name": "6ターン以内にステージクリア",
+		"entity_type_CommonRewardType": 1,
+		"entity_id": 704051,
+		"quantity": 1
+	},
+	{
+		"ID": 209,
+		"quest_s_QuestSeaS": 277000300,
+		"priority": 1,
+		"name": "1人も離脱せずにステージクリア",
+		"entity_type_CommonRewardType": 4,
+		"entity_id": 0,
+		"quantity": 50000
+	},
+	{
+		"ID": 210,
+		"quest_s_QuestSeaS": 277000300,
+		"priority": 2,
+		"name": "レンタルユニットを含め4人以下で\nステージクリア",
+		"entity_type_CommonRewardType": 17,
+		"entity_id": 0,
+		"quantity": 30
+	},
+	{
+		"ID": 211,
+		"quest_s_QuestSeaS": 277000301,
+		"priority": 1,
+		"name": "1人も離脱せずにステージクリア",
+		"entity_type_CommonRewardType": 4,
+		"entity_id": 0,
+		"quantity": 50000
+	},
+	{
+		"ID": 212,
+		"quest_s_QuestSeaS": 277000301,
+		"priority": 2,
+		"name": "8ターン以内にステージクリア",
+		"entity_type_CommonRewardType": 17,
+		"entity_id": 0,
+		"quantity": 30
+	},
+	{
+		"ID": 213,
+		"quest_s_QuestSeaS": 277000302,
+		"priority": 1,
+		"name": "1人も離脱せずにステージクリア",
+		"entity_type_CommonRewardType": 20,
+		"entity_id": 532,
+		"quantity": 1
+	},
+	{
+		"ID": 214,
+		"quest_s_QuestSeaS": 277000302,
+		"priority": 2,
+		"name": "5ターン以内にステージクリア",
+		"entity_type_CommonRewardType": 17,
+		"entity_id": 0,
+		"quantity": 30
+	},
+	{
+		"ID": 215,
+		"quest_s_QuestSeaS": 277000303,
+		"priority": 1,
+		"name": "1人も離脱せずにステージクリア",
+		"entity_type_CommonRewardType": 20,
+		"entity_id": 3,
+		"quantity": 1
+	},
+	{
+		"ID": 216,
+		"quest_s_QuestSeaS": 277000303,
+		"priority": 2,
+		"name": "8ターン以内にステージクリア",
+		"entity_type_CommonRewardType": 17,
+		"entity_id": 0,
+		"quantity": 30
+	},
+	{
+		"ID": 217,
+		"quest_s_QuestSeaS": 277000304,
+		"priority": 1,
+		"name": "1人も離脱せずにステージクリア",
+		"entity_type_CommonRewardType": 4,
+		"entity_id": 0,
+		"quantity": 50000
+	},
+	{
+		"ID": 218,
+		"quest_s_QuestSeaS": 277000304,
+		"priority": 2,
+		"name": "6ターン以内にステージクリア",
+		"entity_type_CommonRewardType": 17,
+		"entity_id": 0,
+		"quantity": 30
+	},
+	{
+		"ID": 219,
+		"quest_s_QuestSeaS": 277000304,
+		"priority": 3,
+		"name": "レンタルユニットを含め剣を使うジョブ\nのみでステージクリア",
+		"entity_type_CommonRewardType": 10,
+		"entity_id": 0,
+		"quantity": 1
+	},
+	{
+		"ID": 220,
+		"quest_s_QuestSeaS": 277000305,
+		"priority": 1,
+		"name": "1人も離脱せずにステージクリア",
+		"entity_type_CommonRewardType": 4,
+		"entity_id": 0,
+		"quantity": 50000
+	},
+	{
+		"ID": 221,
+		"quest_s_QuestSeaS": 277000305,
+		"priority": 2,
+		"name": "8ターン以内にステージクリア",
+		"entity_type_CommonRewardType": 17,
+		"entity_id": 0,
+		"quantity": 30
+	},
+	{
+		"ID": 222,
+		"quest_s_QuestSeaS": 277000306,
+		"priority": 1,
+		"name": "1人も離脱せずにステージクリア",
+		"entity_type_CommonRewardType": 4,
+		"entity_id": 0,
+		"quantity": 50000
+	},
+	{
+		"ID": 223,
+		"quest_s_QuestSeaS": 277000306,
+		"priority": 2,
+		"name": "6ターン以内にステージクリア",
+		"entity_type_CommonRewardType": 17,
+		"entity_id": 0,
+		"quantity": 30
+	},
+	{
+		"ID": 224,
+		"quest_s_QuestSeaS": 277000307,
+		"priority": 1,
+		"name": "1人も離脱せずにステージクリア",
+		"entity_type_CommonRewardType": 20,
+		"entity_id": 532,
+		"quantity": 1
+	},
+	{
+		"ID": 225,
+		"quest_s_QuestSeaS": 277000307,
+		"priority": 2,
+		"name": "レンタルユニットを含め4人以下で\nステージクリア",
+		"entity_type_CommonRewardType": 17,
+		"entity_id": 0,
+		"quantity": 30
+	},
+	{
+		"ID": 226,
+		"quest_s_QuestSeaS": 277000308,
+		"priority": 1,
+		"name": "1人も離脱せずにステージクリア",
+		"entity_type_CommonRewardType": 4,
+		"entity_id": 0,
+		"quantity": 50000
+	},
+	{
+		"ID": 227,
+		"quest_s_QuestSeaS": 277000308,
+		"priority": 2,
+		"name": "8ターン以内にステージクリア",
+		"entity_type_CommonRewardType": 17,
+		"entity_id": 0,
+		"quantity": 30
+	},
+	{
+		"ID": 228,
+		"quest_s_QuestSeaS": 277000308,
+		"priority": 3,
+		"name": "レンタルユニットを含め4人以下で\nステージクリア",
+		"entity_type_CommonRewardType": 10,
+		"entity_id": 0,
+		"quantity": 1
+	},
+	{
+		"ID": 229,
+		"quest_s_QuestSeaS": 277000309,
+		"priority": 1,
+		"name": "1人も離脱せずにステージクリア",
+		"entity_type_CommonRewardType": 20,
+		"entity_id": 3,
+		"quantity": 1
+	},
+	{
+		"ID": 230,
+		"quest_s_QuestSeaS": 277000309,
+		"priority": 2,
+		"name": "6ターン以内にステージクリア",
+		"entity_type_CommonRewardType": 17,
+		"entity_id": 0,
+		"quantity": 30
+	},
+	{
+		"ID": 231,
+		"quest_s_QuestSeaS": 277000309,
+		"priority": 3,
+		"name": "レンタルユニットを含め4人以下で\nステージクリア",
+		"entity_type_CommonRewardType": 10,
+		"entity_id": 0,
+		"quantity": 1
+	},
+	{
+		"ID": 232,
+		"quest_s_QuestSeaS": 277000400,
+		"priority": 1,
+		"name": "1人も離脱せずにステージクリア",
+		"entity_type_CommonRewardType": 4,
+		"entity_id": 0,
+		"quantity": 50000
+	},
+	{
+		"ID": 233,
+		"quest_s_QuestSeaS": 277000400,
+		"priority": 2,
+		"name": "6ターン以内にステージクリア",
+		"entity_type_CommonRewardType": 17,
+		"entity_id": 0,
+		"quantity": 30
+	},
+	{
+		"ID": 234,
+		"quest_s_QuestSeaS": 277000401,
+		"priority": 1,
+		"name": "1人も離脱せずにステージクリア",
+		"entity_type_CommonRewardType": 4,
+		"entity_id": 0,
+		"quantity": 50000
+	},
+	{
+		"ID": 235,
+		"quest_s_QuestSeaS": 277000401,
+		"priority": 2,
+		"name": "8ターン以内にステージクリア",
+		"entity_type_CommonRewardType": 17,
+		"entity_id": 0,
+		"quantity": 30
+	},
+	{
+		"ID": 236,
+		"quest_s_QuestSeaS": 277000402,
+		"priority": 1,
+		"name": "1人も離脱せずにステージクリア",
+		"entity_type_CommonRewardType": 20,
+		"entity_id": 532,
+		"quantity": 1
+	},
+	{
+		"ID": 237,
+		"quest_s_QuestSeaS": 277000402,
+		"priority": 2,
+		"name": "レンタルユニットを含め4人以下で\nステージクリア",
+		"entity_type_CommonRewardType": 17,
+		"entity_id": 0,
+		"quantity": 30
+	},
+	{
+		"ID": 238,
+		"quest_s_QuestSeaS": 277000403,
+		"priority": 1,
+		"name": "1人も離脱せずにステージクリア",
+		"entity_type_CommonRewardType": 20,
+		"entity_id": 3,
+		"quantity": 1
+	},
+	{
+		"ID": 239,
+		"quest_s_QuestSeaS": 277000403,
+		"priority": 2,
+		"name": "レンタルユニットを含め剣を使うジョブ\nのみでステージクリア",
+		"entity_type_CommonRewardType": 17,
+		"entity_id": 0,
+		"quantity": 30
+	},
+	{
+		"ID": 240,
+		"quest_s_QuestSeaS": 277000404,
+		"priority": 1,
+		"name": "1人も離脱せずにステージクリア",
+		"entity_type_CommonRewardType": 4,
+		"entity_id": 0,
+		"quantity": 50000
+	},
+	{
+		"ID": 241,
+		"quest_s_QuestSeaS": 277000404,
+		"priority": 2,
+		"name": "6ターン以内にステージクリア",
+		"entity_type_CommonRewardType": 17,
+		"entity_id": 0,
+		"quantity": 30
+	},
+	{
+		"ID": 242,
+		"quest_s_QuestSeaS": 277000404,
+		"priority": 3,
+		"name": "レンタルユニットを含め剣を使うジョブ\nのみでステージクリア",
+		"entity_type_CommonRewardType": 10,
+		"entity_id": 0,
+		"quantity": 1
+	},
+	{
+		"ID": 243,
+		"quest_s_QuestSeaS": 277000405,
+		"priority": 1,
+		"name": "1人も離脱せずにステージクリア",
+		"entity_type_CommonRewardType": 4,
+		"entity_id": 0,
+		"quantity": 50000
+	},
+	{
+		"ID": 244,
+		"quest_s_QuestSeaS": 277000405,
+		"priority": 2,
+		"name": "6ターン以内にステージクリア",
+		"entity_type_CommonRewardType": 17,
+		"entity_id": 0,
+		"quantity": 30
+	},
+	{
+		"ID": 245,
+		"quest_s_QuestSeaS": 277000406,
+		"priority": 1,
+		"name": "1人も離脱せずにステージクリア",
+		"entity_type_CommonRewardType": 4,
+		"entity_id": 0,
+		"quantity": 50000
+	},
+	{
+		"ID": 246,
+		"quest_s_QuestSeaS": 277000406,
+		"priority": 2,
+		"name": "レンタルユニットを含め4人以下でステージクリア",
+		"entity_type_CommonRewardType": 17,
+		"entity_id": 0,
+		"quantity": 30
+	},
+	{
+		"ID": 247,
+		"quest_s_QuestSeaS": 277000407,
+		"priority": 1,
+		"name": "1人も離脱せずにステージクリア",
+		"entity_type_CommonRewardType": 20,
+		"entity_id": 532,
+		"quantity": 1
+	},
+	{
+		"ID": 248,
+		"quest_s_QuestSeaS": 277000407,
+		"priority": 2,
+		"name": "8ターン以内にステージクリア",
+		"entity_type_CommonRewardType": 17,
+		"entity_id": 0,
+		"quantity": 30
+	},
+	{
+		"ID": 249,
+		"quest_s_QuestSeaS": 277000408,
+		"priority": 1,
+		"name": "1人も離脱せずにステージクリア",
+		"entity_type_CommonRewardType": 20,
+		"entity_id": 3,
+		"quantity": 1
+	},
+	{
+		"ID": 250,
+		"quest_s_QuestSeaS": 277000408,
+		"priority": 2,
+		"name": "レンタルユニットを含め剣を使うジョブのみでステージクリア",
+		"entity_type_CommonRewardType": 17,
+		"entity_id": 0,
+		"quantity": 30
+	},
+	{
+		"ID": 251,
+		"quest_s_QuestSeaS": 277000409,
+		"priority": 1,
+		"name": "1人も離脱せずにステージクリア",
+		"entity_type_CommonRewardType": 4,
+		"entity_id": 0,
+		"quantity": 50000
+	},
+	{
+		"ID": 252,
+		"quest_s_QuestSeaS": 277000409,
+		"priority": 2,
+		"name": "8ターン以内にステージクリア",
+		"entity_type_CommonRewardType": 17,
+		"entity_id": 0,
+		"quantity": 30
+	},
+	{
+		"ID": 253,
+		"quest_s_QuestSeaS": 277000409,
+		"priority": 3,
+		"name": "6ターン以内にステージクリア",
+		"entity_type_CommonRewardType": 10,
+		"entity_id": 0,
+		"quantity": 1
+	},
+	{
+		"ID": 254,
+		"quest_s_QuestSeaS": 277000501,
+		"priority": 1,
+		"name": "1人も離脱せずにステージクリア",
+		"entity_type_CommonRewardType": 4,
+		"entity_id": 0,
+		"quantity": 50000
+	},
+	{
+		"ID": 255,
+		"quest_s_QuestSeaS": 277000501,
+		"priority": 2,
+		"name": "レンタルユニットを含め4人以下でステージクリア",
+		"entity_type_CommonRewardType": 17,
+		"entity_id": 0,
+		"quantity": 30
+	},
+	{
+		"ID": 256,
+		"quest_s_QuestSeaS": 277000502,
+		"priority": 1,
+		"name": "1人も離脱せずにステージクリア",
+		"entity_type_CommonRewardType": 20,
+		"entity_id": 532,
+		"quantity": 1
+	},
+	{
+		"ID": 257,
+		"quest_s_QuestSeaS": 277000502,
+		"priority": 2,
+		"name": "レンタルユニットを含め4人以下でステージクリア",
+		"entity_type_CommonRewardType": 17,
+		"entity_id": 0,
+		"quantity": 30
+	},
+	{
+		"ID": 258,
+		"quest_s_QuestSeaS": 277000503,
+		"priority": 1,
+		"name": "1人も離脱せずにステージクリア",
+		"entity_type_CommonRewardType": 4,
+		"entity_id": 0,
+		"quantity": 50000
+	},
+	{
+		"ID": 259,
+		"quest_s_QuestSeaS": 277000503,
+		"priority": 2,
+		"name": "6ターン以内にステージクリア",
+		"entity_type_CommonRewardType": 20,
+		"entity_id": 532,
+		"quantity": 1
+	},
+	{
+		"ID": 260,
+		"quest_s_QuestSeaS": 277000504,
+		"priority": 1,
+		"name": "1人も離脱せずにステージクリア",
+		"entity_type_CommonRewardType": 4,
+		"entity_id": 0,
+		"quantity": 50000
+	},
+	{
+		"ID": 261,
+		"quest_s_QuestSeaS": 277000504,
+		"priority": 2,
+		"name": "5ターン以内にステージクリア",
+		"entity_type_CommonRewardType": 17,
+		"entity_id": 0,
+		"quantity": 30
+	},
+	{
+		"ID": 262,
+		"quest_s_QuestSeaS": 277000505,
+		"priority": 1,
+		"name": "1人も離脱せずにステージクリア",
+		"entity_type_CommonRewardType": 4,
+		"entity_id": 0,
+		"quantity": 50000
+	},
+	{
+		"ID": 263,
+		"quest_s_QuestSeaS": 277000505,
+		"priority": 2,
+		"name": "10ターン以内にステージクリア",
+		"entity_type_CommonRewardType": 17,
+		"entity_id": 0,
+		"quantity": 30
+	},
+	{
+		"ID": 264,
+		"quest_s_QuestSeaS": 277000505,
+		"priority": 3,
+		"name": "6ターン以内にステージクリア",
+		"entity_type_CommonRewardType": 20,
+		"entity_id": 3,
+		"quantity": 1
+	},
+	{
+		"ID": 265,
+		"quest_s_QuestSeaS": 277000506,
+		"priority": 1,
+		"name": "1人も離脱せずにステージクリア",
+		"entity_type_CommonRewardType": 20,
+		"entity_id": 532,
+		"quantity": 1
+	},
+	{
+		"ID": 266,
+		"quest_s_QuestSeaS": 277000506,
+		"priority": 2,
+		"name": "10ターン以内にステージクリア",
+		"entity_type_CommonRewardType": 4,
+		"entity_id": 0,
+		"quantity": 50000
+	},
+	{
+		"ID": 267,
+		"quest_s_QuestSeaS": 277000507,
+		"priority": 1,
+		"name": "1人も離脱せずにステージクリア",
+		"entity_type_CommonRewardType": 4,
+		"entity_id": 0,
+		"quantity": 50000
+	},
+	{
+		"ID": 268,
+		"quest_s_QuestSeaS": 277000507,
+		"priority": 2,
+		"name": "6ターン以内にステージクリア",
+		"entity_type_CommonRewardType": 17,
+		"entity_id": 0,
+		"quantity": 30
+	},
+	{
+		"ID": 269,
+		"quest_s_QuestSeaS": 277000508,
+		"priority": 1,
+		"name": "1人も離脱せずにステージクリア",
+		"entity_type_CommonRewardType": 20,
+		"entity_id": 532,
+		"quantity": 1
+	},
+	{
+		"ID": 270,
+		"quest_s_QuestSeaS": 277000508,
+		"priority": 2,
+		"name": "レンタルユニットを含め4人以下でステージクリア",
+		"entity_type_CommonRewardType": 17,
+		"entity_id": 0,
+		"quantity": 30
+	},
+	{
+		"ID": 271,
+		"quest_s_QuestSeaS": 277000509,
+		"priority": 1,
+		"name": "1人も離脱せずにステージクリア",
+		"entity_type_CommonRewardType": 20,
+		"entity_id": 3,
+		"quantity": 1
+	},
+	{
+		"ID": 272,
+		"quest_s_QuestSeaS": 277000509,
+		"priority": 2,
+		"name": "8ターン以内にステージクリア",
+		"entity_type_CommonRewardType": 17,
+		"entity_id": 0,
+		"quantity": 30
+	},
+	{
+		"ID": 273,
+		"quest_s_QuestSeaS": 277000510,
+		"priority": 1,
+		"name": "1人も離脱せずにステージクリア",
+		"entity_type_CommonRewardType": 4,
+		"entity_id": 0,
+		"quantity": 50000
+	},
+	{
+		"ID": 274,
+		"quest_s_QuestSeaS": 277000510,
+		"priority": 2,
+		"name": "8ターン以内にステージクリア",
+		"entity_type_CommonRewardType": 17,
+		"entity_id": 0,
+		"quantity": 30
+	},
+	{
+		"ID": 275,
+		"quest_s_QuestSeaS": 277000510,
+		"priority": 3,
+		"name": "6ターン以内にステージクリア",
+		"entity_type_CommonRewardType": 10,
+		"entity_id": 0,
+		"quantity": 1
+	},
+	{
+		"ID": 276,
+		"quest_s_QuestSeaS": 277000511,
+		"priority": 1,
+		"name": "1人も離脱せずにステージクリア",
+		"entity_type_CommonRewardType": 4,
+		"entity_id": 0,
+		"quantity": 50000
+	},
+	{
+		"ID": 277,
+		"quest_s_QuestSeaS": 277000511,
+		"priority": 2,
+		"name": "6ターン以内にステージクリア",
+		"entity_type_CommonRewardType": 17,
+		"entity_id": 0,
+		"quantity": 30
+	},
+	{
+		"ID": 278,
+		"quest_s_QuestSeaS": 277000512,
+		"priority": 1,
+		"name": "1人も離脱せずにステージクリア",
+		"entity_type_CommonRewardType": 4,
+		"entity_id": 0,
+		"quantity": 50000
+	},
+	{
+		"ID": 279,
+		"quest_s_QuestSeaS": 277000512,
+		"priority": 2,
+		"name": "8ターン以内にステージクリア",
+		"entity_type_CommonRewardType": 17,
+		"entity_id": 0,
+		"quantity": 30
+	},
+	{
+		"ID": 280,
+		"quest_s_QuestSeaS": 277000513,
+		"priority": 1,
+		"name": "1人も離脱せずにステージクリア",
+		"entity_type_CommonRewardType": 20,
+		"entity_id": 532,
+		"quantity": 1
+	},
+	{
+		"ID": 281,
+		"quest_s_QuestSeaS": 277000513,
+		"priority": 2,
+		"name": "レンタルユニットを含め4人以下で\nステージクリア",
+		"entity_type_CommonRewardType": 17,
+		"entity_id": 0,
+		"quantity": 30
+	},
+	{
+		"ID": 282,
+		"quest_s_QuestSeaS": 277000514,
+		"priority": 1,
+		"name": "1人も離脱せずにステージクリア",
+		"entity_type_CommonRewardType": 20,
+		"entity_id": 3,
+		"quantity": 1
+	},
+	{
+		"ID": 283,
+		"quest_s_QuestSeaS": 277000514,
+		"priority": 2,
+		"name": "6ターン以内にステージクリア",
+		"entity_type_CommonRewardType": 17,
+		"entity_id": 0,
+		"quantity": 30
+	},
+	{
+		"ID": 284,
+		"quest_s_QuestSeaS": 277000515,
+		"priority": 1,
+		"name": "1人も離脱せずにステージクリア",
+		"entity_type_CommonRewardType": 4,
+		"entity_id": 0,
+		"quantity": 50000
+	},
+	{
+		"ID": 285,
+		"quest_s_QuestSeaS": 277000515,
+		"priority": 2,
+		"name": "6ターン以内にステージクリア",
+		"entity_type_CommonRewardType": 17,
+		"entity_id": 0,
+		"quantity": 30
+	},
+	{
+		"ID": 286,
+		"quest_s_QuestSeaS": 277000515,
+		"priority": 3,
+		"name": "レンタルユニットを含め4人以下で\nステージクリア",
+		"entity_type_CommonRewardType": 10,
+		"entity_id": 0,
+		"quantity": 1
+	},
+	{
+		"ID": 287,
+		"quest_s_QuestSeaS": 277000516,
+		"priority": 1,
+		"name": "1人も離脱せずにステージクリア",
+		"entity_type_CommonRewardType": 4,
+		"entity_id": 0,
+		"quantity": 50000
+	},
+	{
+		"ID": 288,
+		"quest_s_QuestSeaS": 277000516,
+		"priority": 2,
+		"name": "8ターン以内にステージクリア",
+		"entity_type_CommonRewardType": 17,
+		"entity_id": 0,
+		"quantity": 30
+	},
+	{
+		"ID": 289,
+		"quest_s_QuestSeaS": 277000517,
+		"priority": 1,
+		"name": "1人も離脱せずにステージクリア",
+		"entity_type_CommonRewardType": 4,
+		"entity_id": 0,
+		"quantity": 50000
+	},
+	{
+		"ID": 290,
+		"quest_s_QuestSeaS": 277000517,
+		"priority": 2,
+		"name": "8ターン以内にステージクリア",
+		"entity_type_CommonRewardType": 17,
+		"entity_id": 0,
+		"quantity": 30
+	},
+	{
+		"ID": 291,
+		"quest_s_QuestSeaS": 277000518,
+		"priority": 1,
+		"name": "1人も離脱せずにステージクリア",
+		"entity_type_CommonRewardType": 20,
+		"entity_id": 532,
+		"quantity": 1
+	},
+	{
+		"ID": 292,
+		"quest_s_QuestSeaS": 277000518,
+		"priority": 2,
+		"name": "レンタルユニットを含め4人以下で\nステージクリア",
+		"entity_type_CommonRewardType": 17,
+		"entity_id": 0,
+		"quantity": 30
+	},
+	{
+		"ID": 293,
+		"quest_s_QuestSeaS": 277000519,
+		"priority": 1,
+		"name": "1人も離脱せずにステージクリア",
+		"entity_type_CommonRewardType": 20,
+		"entity_id": 3,
+		"quantity": 1
+	},
+	{
+		"ID": 294,
+		"quest_s_QuestSeaS": 277000519,
+		"priority": 2,
+		"name": "6ターン以内にステージクリア",
+		"entity_type_CommonRewardType": 17,
+		"entity_id": 0,
+		"quantity": 30
+	},
+	{
+		"ID": 295,
+		"quest_s_QuestSeaS": 277000520,
+		"priority": 1,
+		"name": "1人も離脱せずにステージクリア",
+		"entity_type_CommonRewardType": 4,
+		"entity_id": 0,
+		"quantity": 50000
+	},
+	{
+		"ID": 296,
+		"quest_s_QuestSeaS": 277000520,
+		"priority": 2,
+		"name": "8ターン以内にステージクリア",
+		"entity_type_CommonRewardType": 17,
+		"entity_id": 0,
+		"quantity": 30
+	},
+	{
+		"ID": 297,
+		"quest_s_QuestSeaS": 277000520,
+		"priority": 3,
+		"name": "レンタルユニットを含め4人以下で\nステージクリア",
+		"entity_type_CommonRewardType": 10,
+		"entity_id": 0,
+		"quantity": 1
+	},
+	{
+		"ID": 298,
+		"quest_s_QuestSeaS": 277000521,
+		"priority": 1,
+		"name": "1人も離脱せずにステージクリア",
+		"entity_type_CommonRewardType": 4,
+		"entity_id": 0,
+		"quantity": 50000
+	},
+	{
+		"ID": 299,
+		"quest_s_QuestSeaS": 277000521,
+		"priority": 2,
+		"name": "6ターン以内にステージクリア",
+		"entity_type_CommonRewardType": 17,
+		"entity_id": 0,
+		"quantity": 30
+	},
+	{
+		"ID": 300,
+		"quest_s_QuestSeaS": 277000522,
+		"priority": 1,
+		"name": "1人も離脱せずにステージクリア",
+		"entity_type_CommonRewardType": 4,
+		"entity_id": 0,
+		"quantity": 50000
+	},
+	{
+		"ID": 301,
+		"quest_s_QuestSeaS": 277000522,
+		"priority": 2,
+		"name": "8ターン以内にステージクリア",
+		"entity_type_CommonRewardType": 17,
+		"entity_id": 0,
+		"quantity": 30
+	},
+	{
+		"ID": 302,
+		"quest_s_QuestSeaS": 277000523,
+		"priority": 1,
+		"name": "1人も離脱せずにステージクリア",
+		"entity_type_CommonRewardType": 20,
+		"entity_id": 532,
+		"quantity": 1
+	},
+	{
+		"ID": 303,
+		"quest_s_QuestSeaS": 277000523,
+		"priority": 2,
+		"name": "レンタルユニットを含め4人以下でステージクリア",
+		"entity_type_CommonRewardType": 17,
+		"entity_id": 0,
+		"quantity": 30
+	},
+	{
+		"ID": 304,
+		"quest_s_QuestSeaS": 277000524,
+		"priority": 1,
+		"name": "1人も離脱せずにステージクリア",
+		"entity_type_CommonRewardType": 20,
+		"entity_id": 3,
+		"quantity": 1
+	},
+	{
+		"ID": 305,
+		"quest_s_QuestSeaS": 277000524,
+		"priority": 2,
+		"name": "6ターン以内にステージクリア",
+		"entity_type_CommonRewardType": 17,
+		"entity_id": 0,
+		"quantity": 30
+	},
+	{
+		"ID": 306,
+		"quest_s_QuestSeaS": 277000525,
+		"priority": 1,
+		"name": "1人も離脱せずにステージクリア",
+		"entity_type_CommonRewardType": 4,
+		"entity_id": 0,
+		"quantity": 50000
+	},
+	{
+		"ID": 307,
+		"quest_s_QuestSeaS": 277000525,
+		"priority": 2,
+		"name": "8ターン以内にステージクリア",
+		"entity_type_CommonRewardType": 17,
+		"entity_id": 0,
+		"quantity": 30
+	},
+	{
+		"ID": 308,
+		"quest_s_QuestSeaS": 277000525,
+		"priority": 3,
+		"name": "6ターン以内にステージクリア",
+		"entity_type_CommonRewardType": 10,
+		"entity_id": 0,
+		"quantity": 1
+	},
+	{
+		"ID": 309,
+		"quest_s_QuestSeaS": 277000526,
+		"priority": 1,
+		"name": "1人も離脱せずにステージクリア",
+		"entity_type_CommonRewardType": 4,
+		"entity_id": 0,
+		"quantity": 50000
+	},
+	{
+		"ID": 310,
+		"quest_s_QuestSeaS": 277000526,
+		"priority": 2,
+		"name": "レンタルユニットを含め4人以下で\nステージクリア",
+		"entity_type_CommonRewardType": 17,
+		"entity_id": 0,
+		"quantity": 30
+	},
+	{
+		"ID": 311,
+		"quest_s_QuestSeaS": 277000527,
+		"priority": 1,
+		"name": "1人も離脱せずにステージクリア",
+		"entity_type_CommonRewardType": 4,
+		"entity_id": 0,
+		"quantity": 50000
+	},
+	{
+		"ID": 312,
+		"quest_s_QuestSeaS": 277000527,
+		"priority": 2,
+		"name": "6ターン以内にステージクリア",
+		"entity_type_CommonRewardType": 17,
+		"entity_id": 0,
+		"quantity": 30
+	},
+	{
+		"ID": 313,
+		"quest_s_QuestSeaS": 277000528,
+		"priority": 1,
+		"name": "1人も離脱せずにステージクリア",
+		"entity_type_CommonRewardType": 20,
+		"entity_id": 532,
+		"quantity": 1
+	},
+	{
+		"ID": 314,
+		"quest_s_QuestSeaS": 277000528,
+		"priority": 2,
+		"name": "レンタルユニットを含め5人以下で\nステージクリア",
+		"entity_type_CommonRewardType": 17,
+		"entity_id": 0,
+		"quantity": 30
+	},
+	{
+		"ID": 315,
+		"quest_s_QuestSeaS": 277000529,
+		"priority": 1,
+		"name": "1人も離脱せずにステージクリア",
+		"entity_type_CommonRewardType": 20,
+		"entity_id": 3,
+		"quantity": 1
+	},
+	{
+		"ID": 316,
+		"quest_s_QuestSeaS": 277000529,
+		"priority": 2,
+		"name": "6ターン以内にステージクリア",
+		"entity_type_CommonRewardType": 17,
+		"entity_id": 0,
+		"quantity": 30
+	},
+	{
+		"ID": 317,
+		"quest_s_QuestSeaS": 277000530,
+		"priority": 1,
+		"name": "1人も離脱せずにステージクリア",
+		"entity_type_CommonRewardType": 4,
+		"entity_id": 0,
+		"quantity": 50000
+	},
+	{
+		"ID": 318,
+		"quest_s_QuestSeaS": 277000530,
+		"priority": 2,
+		"name": "8ターン以内にステージクリア",
+		"entity_type_CommonRewardType": 17,
+		"entity_id": 0,
+		"quantity": 30
+	},
+	{
+		"ID": 319,
+		"quest_s_QuestSeaS": 277000530,
+		"priority": 3,
+		"name": "レンタルユニットを含め4人以下で\nステージクリア",
+		"entity_type_CommonRewardType": 10,
+		"entity_id": 0,
+		"quantity": 1
+	},
+	{
+		"ID": 320,
+		"quest_s_QuestSeaS": 277000601,
+		"priority": 1,
+		"name": "1人も離脱せずにステージクリア",
+		"entity_type_CommonRewardType": 20,
+		"entity_id": 532,
+		"quantity": 1
+	},
+	{
+		"ID": 321,
+		"quest_s_QuestSeaS": 277000601,
+		"priority": 2,
+		"name": "レンタルユニットを含め3人以下でステージクリア",
+		"entity_type_CommonRewardType": 17,
+		"entity_id": 0,
+		"quantity": 30
+	},
+	{
+		"ID": 322,
+		"quest_s_QuestSeaS": 277000601,
+		"priority": 3,
+		"name": "6ターン以内にステージクリア",
+		"entity_type_CommonRewardType": 4,
+		"entity_id": 0,
+		"quantity": 50000
+	},
+	{
+		"ID": 323,
+		"quest_s_QuestSeaS": 277000602,
+		"priority": 1,
+		"name": "1人も離脱せずにステージクリア",
+		"entity_type_CommonRewardType": 4,
+		"entity_id": 0,
+		"quantity": 50000
+	},
+	{
+		"ID": 324,
+		"quest_s_QuestSeaS": 277000602,
+		"priority": 2,
+		"name": "レンタルユニットを含め3人以下でステージクリア",
+		"entity_type_CommonRewardType": 20,
+		"entity_id": 532,
+		"quantity": 1
+	},
+	{
+		"ID": 325,
+		"quest_s_QuestSeaS": 277000602,
+		"priority": 3,
+		"name": "6ターン以内にステージクリア",
+		"entity_type_CommonRewardType": 17,
+		"entity_id": 0,
+		"quantity": 30
+	},
+	{
+		"ID": 326,
+		"quest_s_QuestSeaS": 277000603,
+		"priority": 1,
+		"name": "1人も離脱せずにステージクリア",
+		"entity_type_CommonRewardType": 17,
+		"entity_id": 0,
+		"quantity": 30
+	},
+	{
+		"ID": 327,
+		"quest_s_QuestSeaS": 277000603,
+		"priority": 2,
+		"name": "レンタルユニットを含め3人以下でステージクリア",
+		"entity_type_CommonRewardType": 4,
+		"entity_id": 0,
+		"quantity": 50000
+	},
+	{
+		"ID": 328,
+		"quest_s_QuestSeaS": 277000603,
+		"priority": 3,
+		"name": "5ターン以内にステージクリア",
+		"entity_type_CommonRewardType": 20,
+		"entity_id": 532,
+		"quantity": 1
+	},
+	{
+		"ID": 329,
+		"quest_s_QuestSeaS": 277000604,
+		"priority": 1,
+		"name": "1人も離脱せずにステージクリア",
+		"entity_type_CommonRewardType": 4,
+		"entity_id": 0,
+		"quantity": 50000
+	},
+	{
+		"ID": 330,
+		"quest_s_QuestSeaS": 277000604,
+		"priority": 2,
+		"name": "レンタルユニットを含め2人以下でステージクリア",
+		"entity_type_CommonRewardType": 20,
+		"entity_id": 532,
+		"quantity": 1
+	},
+	{
+		"ID": 331,
+		"quest_s_QuestSeaS": 277000604,
+		"priority": 3,
+		"name": "6ターン以内にステージクリア",
+		"entity_type_CommonRewardType": 17,
+		"entity_id": 0,
+		"quantity": 30
+	},
+	{
+		"ID": 332,
+		"quest_s_QuestSeaS": 277000605,
+		"priority": 1,
+		"name": "1人も離脱せずにステージクリア",
+		"entity_type_CommonRewardType": 17,
+		"entity_id": 0,
+		"quantity": 30
+	},
+	{
+		"ID": 333,
+		"quest_s_QuestSeaS": 277000605,
+		"priority": 2,
+		"name": "レンタルユニットを含め2人以下でステージクリア",
+		"entity_type_CommonRewardType": 4,
+		"entity_id": 0,
+		"quantity": 50000
+	},
+	{
+		"ID": 334,
+		"quest_s_QuestSeaS": 277000605,
+		"priority": 3,
+		"name": "6ターン以内にステージクリア",
+		"entity_type_CommonRewardType": 20,
+		"entity_id": 532,
+		"quantity": 1
+	},
+	{
+		"ID": 335,
+		"quest_s_QuestSeaS": 277000606,
+		"priority": 1,
+		"name": "1人も離脱せずにステージクリア",
+		"entity_type_CommonRewardType": 20,
+		"entity_id": 532,
+		"quantity": 1
+	},
+	{
+		"ID": 336,
+		"quest_s_QuestSeaS": 277000606,
+		"priority": 2,
+		"name": "レンタルユニットを含め2人以下でステージクリア",
+		"entity_type_CommonRewardType": 17,
+		"entity_id": 0,
+		"quantity": 30
+	},
+	{
+		"ID": 337,
+		"quest_s_QuestSeaS": 277000606,
+		"priority": 3,
+		"name": "5ターン以内にステージクリア",
+		"entity_type_CommonRewardType": 10,
+		"entity_id": 0,
+		"quantity": 1
+	},
+	{
+		"ID": 338,
+		"quest_s_QuestSeaS": 277000607,
+		"priority": 1,
+		"name": "1人も離脱せずにステージクリア",
+		"entity_type_CommonRewardType": 17,
+		"entity_id": 0,
+		"quantity": 30
+	},
+	{
+		"ID": 339,
+		"quest_s_QuestSeaS": 277000607,
+		"priority": 2,
+		"name": "レンタルユニットを含め2人以下でステージクリア",
+		"entity_type_CommonRewardType": 4,
+		"entity_id": 0,
+		"quantity": 50000
+	},
+	{
+		"ID": 340,
+		"quest_s_QuestSeaS": 277000607,
+		"priority": 3,
+		"name": "6ターン以内にステージクリア",
+		"entity_type_CommonRewardType": 20,
+		"entity_id": 532,
+		"quantity": 1
+	},
+	{
+		"ID": 341,
+		"quest_s_QuestSeaS": 277000608,
+		"priority": 1,
+		"name": "1人も離脱せずにステージクリア",
+		"entity_type_CommonRewardType": 20,
+		"entity_id": 532,
+		"quantity": 1
+	},
+	{
+		"ID": 342,
+		"quest_s_QuestSeaS": 277000608,
+		"priority": 2,
+		"name": "レンタルユニットを含め2人以下でステージクリア",
+		"entity_type_CommonRewardType": 17,
+		"entity_id": 0,
+		"quantity": 30
+	},
+	{
+		"ID": 343,
+		"quest_s_QuestSeaS": 277000608,
+		"priority": 3,
+		"name": "6ターン以内にステージクリア",
+		"entity_type_CommonRewardType": 4,
+		"entity_id": 0,
+		"quantity": 50000
+	},
+	{
+		"ID": 344,
+		"quest_s_QuestSeaS": 277000609,
+		"priority": 1,
+		"name": "1人も離脱せずにステージクリア",
+		"entity_type_CommonRewardType": 4,
+		"entity_id": 0,
+		"quantity": 50000
+	},
+	{
+		"ID": 345,
+		"quest_s_QuestSeaS": 277000609,
+		"priority": 2,
+		"name": "レンタルユニットを含め3人以下でステージクリア",
+		"entity_type_CommonRewardType": 20,
+		"entity_id": 532,
+		"quantity": 1
+	},
+	{
+		"ID": 346,
+		"quest_s_QuestSeaS": 277000609,
+		"priority": 3,
+		"name": "5ターン以内にステージクリア",
+		"entity_type_CommonRewardType": 10,
+		"entity_id": 0,
+		"quantity": 1
+	},
+	{
+		"ID": 347,
+		"quest_s_QuestSeaS": 277000610,
+		"priority": 1,
+		"name": "1人も離脱せずにステージクリア",
+		"entity_type_CommonRewardType": 17,
+		"entity_id": 0,
+		"quantity": 30
+	},
+	{
+		"ID": 348,
+		"quest_s_QuestSeaS": 277000610,
+		"priority": 2,
+		"name": "レンタルユニットを含め3人以下でステージクリア",
+		"entity_type_CommonRewardType": 20,
+		"entity_id": 532,
+		"quantity": 1
+	},
+	{
+		"ID": 349,
+		"quest_s_QuestSeaS": 277000610,
+		"priority": 3,
+		"name": "6ターン以内にステージクリア",
+		"entity_type_CommonRewardType": 4,
+		"entity_id": 0,
+		"quantity": 50000
+	},
+	{
+		"ID": 350,
+		"quest_s_QuestSeaS": 277000611,
+		"priority": 1,
+		"name": "1人も離脱せずにステージクリア",
+		"entity_type_CommonRewardType": 17,
+		"entity_id": 0,
+		"quantity": 30
+	},
+	{
+		"ID": 351,
+		"quest_s_QuestSeaS": 277000611,
+		"priority": 2,
+		"name": "レンタルユニットを含め3人以下でステージクリア",
+		"entity_type_CommonRewardType": 20,
+		"entity_id": 532,
+		"quantity": 1
+	},
+	{
+		"ID": 352,
+		"quest_s_QuestSeaS": 277000611,
+		"priority": 3,
+		"name": "6ターン以内にステージクリア",
+		"entity_type_CommonRewardType": 4,
+		"entity_id": 0,
+		"quantity": 50000
+	},
+	{
+		"ID": 353,
+		"quest_s_QuestSeaS": 277000612,
+		"priority": 1,
+		"name": "1人も離脱せずにステージクリア",
+		"entity_type_CommonRewardType": 17,
+		"entity_id": 0,
+		"quantity": 30
+	},
+	{
+		"ID": 354,
+		"quest_s_QuestSeaS": 277000612,
+		"priority": 2,
+		"name": "レンタルユニットを含め3人以下でステージクリア",
+		"entity_type_CommonRewardType": 20,
+		"entity_id": 532,
+		"quantity": 1
+	},
+	{
+		"ID": 355,
+		"quest_s_QuestSeaS": 277000612,
+		"priority": 3,
+		"name": "5ターン以内にステージクリア",
+		"entity_type_CommonRewardType": 10,
+		"entity_id": 0,
+		"quantity": 1
+	},
+	{
+		"ID": 356,
+		"quest_s_QuestSeaS": 277000613,
+		"priority": 1,
+		"name": "1人も離脱せずにステージクリア",
+		"entity_type_CommonRewardType": 17,
+		"entity_id": 0,
+		"quantity": 30
+	},
+	{
+		"ID": 357,
+		"quest_s_QuestSeaS": 277000613,
+		"priority": 2,
+		"name": "レンタルユニットを含め3人以下でステージクリア",
+		"entity_type_CommonRewardType": 20,
+		"entity_id": 532,
+		"quantity": 1
+	},
+	{
+		"ID": 358,
+		"quest_s_QuestSeaS": 277000613,
+		"priority": 3,
+		"name": "6ターン以内にステージクリア",
+		"entity_type_CommonRewardType": 4,
+		"entity_id": 0,
+		"quantity": 50000
+	},
+	{
+		"ID": 359,
+		"quest_s_QuestSeaS": 277000614,
+		"priority": 1,
+		"name": "1人も離脱せずにステージクリア",
+		"entity_type_CommonRewardType": 17,
+		"entity_id": 0,
+		"quantity": 30
+	},
+	{
+		"ID": 360,
+		"quest_s_QuestSeaS": 277000614,
+		"priority": 2,
+		"name": "レンタルユニットを含め3人以下でステージクリア",
+		"entity_type_CommonRewardType": 20,
+		"entity_id": 532,
+		"quantity": 1
+	},
+	{
+		"ID": 361,
+		"quest_s_QuestSeaS": 277000614,
+		"priority": 3,
+		"name": "6ターン以内にステージクリア",
+		"entity_type_CommonRewardType": 4,
+		"entity_id": 0,
+		"quantity": 50000
+	},
+	{
+		"ID": 362,
+		"quest_s_QuestSeaS": 277000615,
+		"priority": 1,
+		"name": "1人も離脱せずにステージクリア",
+		"entity_type_CommonRewardType": 17,
+		"entity_id": 0,
+		"quantity": 30
+	},
+	{
+		"ID": 363,
+		"quest_s_QuestSeaS": 277000615,
+		"priority": 2,
+		"name": "レンタルユニットを含め2人以下でステージクリア",
+		"entity_type_CommonRewardType": 20,
+		"entity_id": 532,
+		"quantity": 1
+	},
+	{
+		"ID": 364,
+		"quest_s_QuestSeaS": 277000615,
+		"priority": 3,
+		"name": "5ターン以内にステージクリア",
+		"entity_type_CommonRewardType": 10,
+		"entity_id": 0,
+		"quantity": 1
+	},
+	{
+		"ID": 365,
+		"quest_s_QuestSeaS": 277000616,
+		"priority": 1,
+		"name": "1人も離脱せずにステージクリア",
+		"entity_type_CommonRewardType": 17,
+		"entity_id": 0,
+		"quantity": 30
+	},
+	{
+		"ID": 366,
+		"quest_s_QuestSeaS": 277000616,
+		"priority": 2,
+		"name": "レンタルユニットを含め3人以下でステージクリア",
+		"entity_type_CommonRewardType": 20,
+		"entity_id": 532,
+		"quantity": 1
+	},
+	{
+		"ID": 367,
+		"quest_s_QuestSeaS": 277000616,
+		"priority": 3,
+		"name": "6ターン以内にステージクリア",
+		"entity_type_CommonRewardType": 4,
+		"entity_id": 0,
+		"quantity": 50000
+	},
+	{
+		"ID": 368,
+		"quest_s_QuestSeaS": 277000617,
+		"priority": 1,
+		"name": "1人も離脱せずにステージクリア",
+		"entity_type_CommonRewardType": 17,
+		"entity_id": 0,
+		"quantity": 30
+	},
+	{
+		"ID": 369,
+		"quest_s_QuestSeaS": 277000617,
+		"priority": 2,
+		"name": "レンタルユニットを含め3人以下でステージクリア",
+		"entity_type_CommonRewardType": 20,
+		"entity_id": 532,
+		"quantity": 1
+	},
+	{
+		"ID": 370,
+		"quest_s_QuestSeaS": 277000617,
+		"priority": 3,
+		"name": "6ターン以内にステージクリア",
+		"entity_type_CommonRewardType": 4,
+		"entity_id": 0,
+		"quantity": 50000
+	},
+	{
+		"ID": 371,
+		"quest_s_QuestSeaS": 277000618,
+		"priority": 1,
+		"name": "1人も離脱せずにステージクリア",
+		"entity_type_CommonRewardType": 17,
+		"entity_id": 0,
+		"quantity": 30
+	},
+	{
+		"ID": 372,
+		"quest_s_QuestSeaS": 277000618,
+		"priority": 2,
+		"name": "レンタルユニットを含め3人以下でステージクリア",
+		"entity_type_CommonRewardType": 20,
+		"entity_id": 532,
+		"quantity": 1
+	},
+	{
+		"ID": 373,
+		"quest_s_QuestSeaS": 277000618,
+		"priority": 3,
+		"name": "5ターン以内にステージクリア",
+		"entity_type_CommonRewardType": 10,
+		"entity_id": 0,
+		"quantity": 1
+	}
+]

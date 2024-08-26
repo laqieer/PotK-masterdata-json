@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 600822,
+		"script": "# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_drive\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\na@グリダヴォル\nえ…あっ、うん…\n\n# textflame 0 0\n@\n運転を始めてから\nマスターはずっと\nグリダヴォルの視線を感じていた\n\n# textflame 1 1\n@グリダヴォル\n景色もキレイなんだけど…\n運転してるマスターってなんだか…\n\n;; face %(unit_a)s \"close\"\n# voice 6008 \"guridavoru_0004\"\n# textflame 1 1\n@グリダヴォル\nいつもと違う顔してて…\nなんていうか…\n\n# textflame 0 0\n@\nグリダヴォルは車に乗ってから\nずっとこの調子で静かだった…\n\n# face %(unit_a)s \"normal\"\n# textflame 1 1\n@グリダヴォル\nいっつも頼りないな～って\n思ってたけど…\n\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@グリダヴォル\n今日の君は…\n全部任せちゃっても\n大丈夫かなって感じがするよ…？\n\n# textflame 1 1\n@グリダヴォル\n…なんか…うまく言えないけど…\n\n# textflame 0 0\n@\n二人を乗せた車は\n夜の海岸線をどこまでも進む――\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 393001398,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# se \"SE_0733\"\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n@ロンギヌス\nそのこたえ…\n\n@ロンギヌス\nふせいかいです\n\n# voice 230013 \"ronginusu_lo_0031\"\n@ロンギヌス\nごめんなさい、\nむずかしかったですよね…？\n\n@ロンギヌス\nあぁ…もっと、もっと\nはやくなかよくなってれば…\n\n@ロンギヌス\nそしたら、\nわたしのこと、\nもっとよくしってもらえたのに…\n\n# textflame 0 0\n@\n落ち込んだ表情を見せる彼女\n\n@\nマスターは\n正解できなかった自分を\n激しく責めるのだった…\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

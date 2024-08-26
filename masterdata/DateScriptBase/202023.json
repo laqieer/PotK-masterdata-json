@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 202023,
+		"script": "# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_drive\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# voice 2020 \"harpe_0005\"\n@ハルパー\nあら…？\nそんなことも\n言えるようになったんですね…\n\n# textflame 0 0\n@\nハルパーの\nものすごく艶っぽい声が\n車内に響く\n\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n@ハルパー\n…強引さでは\n負けないつもりでしたけれど\n私に張り合おうというのね？\n\n# textflame 1 1\n@ハルパー\nあなたの強引さ…\nせいぜい期待しておきます…♪\n\n# textflame 0 0\n@\nハルパーがクスクスと\n小悪魔的に微笑む中…\n\n# textflame 0 0\n@\nマスターはハンドルを強く握り\nアクセルを踏み込んだ――\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

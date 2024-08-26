@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 240021101,
+		"script": ";;【EP1】(フリ)\n# script \"lisp\"\n# background \"sea_resort_day\"\n# bgmfile \"bgm234\" \"BgmSeaEventBattle\" 0\n# body 2400211\n# pos 2400211 3\n# mask 2400211 off\n# textflame 1 1\n# textboxarrow 0 2\n# chara 2400211\n# voice 4002 \"pinaka_0009\"\n# face 2400211 \"angry\"\n@ピナーカ\nはあっ？なんだよこれ！？\nおい、マスター！\n話が全然違うじゃねぇか！！\n\n@ピナーカ\n楽しいことをしに行くって言うから\nオイラはてっきり\n強ぇ奴と戦えると思ってたのに…\n\n# face 2400211 \"sad\"\n@ピナーカ\n…は？戦いに来たんじゃなくて\nプールに、遊びに…？\n\n# face 2400211 \"angry\"\n# voice 4002 \"pinaka_0023\"\n@ピナーカ\nはぁ～！？\nなんだよ、それ！\nつまんねぇな…！\n\n@ピナーカ\n…え？\n息抜きも大事だからって？\n\n@ピナーカ\nそんなもんいらねぇよ！\n今のオイラはとにかく暴れてぇんだ！\n\n# textflame 0 0\n@\nしかし、折角のプールだ\nピナーカにも楽しんでほしいから\n自分と一緒に遊ぼう、と誘うマスター\n\n# textflame 1 1\n# textboxarrow 0 2\n# chara 2400211\n# voice 4002 \"pinaka_0039\"\n# face 2400211 \"usual\"\n@ピナーカ\n一緒にって…あのよぉ…\nここにはアンタと遊びたいって奴が\nいっぱいいるんだぞ\n\n@ピナーカ\nオイラより\n他のキル姫を誘えばいいだろ\n\n# face 2400211 \"sad\"\n@ピナーカ\n…は？\nオイラと一緒に楽しみたい、だと？\n\n@ピナーカ\n…アンタって、物好きだよなぁ\n\n# face 2400211 \"smile\"\n# voice 4002 \"pinaka_0004\"\n@ピナーカ\n仕方ないな…\nアンタがそこまで言うなら\n少しだけ付き合ってやるよ\n\n# textflame 0 0\n@\nピナーカはそう言うと\nつんとそっぽを向いてしまう\n\n# textflame 0 0\n@\nしかし、照れているのか\n彼女の頬は赤く染まっていた"
+	}
+]

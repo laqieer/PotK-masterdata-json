@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 104614,
+		"script": ";;A\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_concert\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# face %(unit_a)s \"normal\"\n# textflame 1 1\n@ミュルグレス\nちょっと、だんちょー！\n\n# face %(unit_a)s \"happy\"\n# voice 510461 \"murgleys_c_0004\"\n@ミュルグレス\n音楽のこと\nわかってるじゃない！\n意外～！！\n\n@ミュルグレス\nトライアングルは\n演奏にすっごい熟練が必要になる\nツウ好みの楽器！\n\n@ミュルグレス\nミュルには\nありきたりの楽器なんて\n似合わないって言いたいんでしょ？\n\n# voice 510461 \"murgleys_c_0005\"\n@ミュルグレス\nライブハウスの熱気の影響かな～\n今日のだんちょー\nいつもよりコメントが冴えてるね！\n\n# textflame 0 0\n@\n愛想笑いを浮かべるしかないマスター\n\n# voice 510461 \"murgleys_c_0001\"\n# textflame 1 1\n@ミュルグレス\nそうと決まれば\nこのライブが終わったら\nさっそく楽器屋さんに行くわよ！\n\n@ミュルグレス\nミュルってば\nカタチから入るタイプだからさ～\n\n@ミュルグレス\nいちばん高級なヤツが欲しいんだぁ\n買ってくれるでしょ？\nだんちょ～う\n\n# textflame 0 0\n@\nひきつった笑いを浮かべるマスター\n\n# face %(unit_a)s \"angry\"\n# textflame 1 1\n@ミュルグレス\nなによ、だんちょー\nその顔は？\n\n# voice 510461 \"murgleys_c_0009\"\n@ミュルグレス\n…もしかして\n冗談のつもりで\nトライアングルって言ったとか？\n\n# voice 510461 \"murgleys_c_0027\"\n@ミュルグレス\nミュルを侮辱しようとするなんて\nだんちょーでも許さない！\n罰としてカステラおごってもらうから\n\n# textflame 0 0\n@\nそういってマスターの手を引き\nカステラ売り場へ歩いていく\nミュルグレス\n\n@\nライブはいいの？と言いかけるも\n２人きりの時間を大事にしたいと\n思い直したマスターだった…\n\n;;-----------------------------------------\n# waitandnext 2\n# fadeout \"black\" 1.2\n"
+	}
+]

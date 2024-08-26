@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 93021399,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# se \"SE_0732\"\n# voice 3021 \"gaebuide_0030\"\n@ガ・ボー\n…正解です\n\n# face %(unit_a)s \"normal\"\n@ガ・ボー\nちゃんと…\nわかってくれている人も\nいるのですね…\n\n# face %(unit_a)s \"smile\"\n@ガ・ボー\nほんの少しだけ…\n自信が持てそうな気がします\n\n# voice 3021 \"gaebuide_0005\"\n@ガ・ボー\n…ふふ\n\n# textflame 0 0\n@\n彼女が笑った\n自分のことを知ってもらえていたのが、\n相当嬉しかったのだろう\n\n@\nマスターは彼女との絆が\n今まで以上に深まったのを\n実感した…\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

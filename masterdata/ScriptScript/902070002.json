@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 902070002,
+		"script": ";;【世田谷美術館二階大広間】\n;;戦闘突入後のためこのクエストの戦闘BGMをそのまま再生\n# script \"lisp\"\n# background \"laboratory_area\"\n# body 18\n# pos 18 3\n# face 18 \"angry_1\"\n# scale 18 0.8 0\n# body 960017\n# pos 960017 5\n# alpha 960017 0 0\n# scale 960017 0.8 0\n# body 19\n# pos 19 1\n# alpha 19 0 0\n# face 19 \"normal\"\n# scale 19 0.8 0\n# serif 0\n# textflame 1 1\n# textboxarrow 0 2\n# voice 9993 \"valyn_0065\"\n# chara 18\n@ヴァリン\nゼロ！ゼロ、目を覚ましてっ！\nこんな悪魔の罠に\n負けてんじゃないわよ！\n\n# voice 8031 \"belphegor_0004\"\n# alpha 960017 1 0.5\n# face 960017 \"smile\"\n# serif 1\n# textflame 1 1\n# textboxarrow 1 3\n# chara 960017\n@ベルフェゴール\n無駄だって言ってるのにぃ、\nお馬鹿なお嬢さんねぇ\n\n# serif 1\n# textboxarrow 1 3\n# chara 960017\n@ベルフェゴール\n安心なさい\nあなた達もすぐ、\n『夢の国』に招待してあげるわぁ\n\n# serif 1\n# textboxarrow 1 3\n# voice 8031 \"belphegor_0005\"\n# chara 960017\n@ベルフェゴール\n怠惰な夢に溺れて\n幸せなまま死になさぁい\n\n# voice 9991 \"arun_prolo_1029\"\n# leftin 19 0.5\n# alpha 19 1 0.5\n# face 19 \"angry\"\n# serif 0\n# textboxarrow 0 1\n# chara 19\n@アルン\n皆さん！ベルフェゴールを倒せば\nゼロにかけられた魔法も\n解けるはずです！\n\n# serif 0\n# textboxarrow 0 1\n# chara 19\n@アルン\nあの悪魔を討ちましょうっ\n\n# voice 8031 \"belphegor_0007\"\n# serif 1\n# textboxarrow 1 3\n# chara 960017\n# face 960017 \"normal\"\n@ベルフェゴール\nあらあら、まだ抗うつもりなのぉ？"
+	}
+]

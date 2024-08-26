@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 95005498,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# se \"SE_0733\"\n# face %(unit_a)s \"angry\"\n# voice 5005 \"vajura_0013\"\n@ヴァジュラ\nブーッ！\nマスター\n不正解です！\n\n# face %(unit_a)s \"sad\"\n@ヴァジュラ\nあぁ～あ\n残念でした…\n\n# voice 5005 \"vajura_0008\"\n@ヴァジュラ\nなんか…\n楽しんでたのは…\nあたしだけなのかな…？\n\n# voice 5005 \"vajura_0019\"\n@ヴァジュラ\n嬉しくて…\n一人で舞い上がっちゃって…\n\n@ヴァジュラ\nまぁた…\n失敗しちゃったな…\n\n# textflame 0 0\n@\n彼女が無理矢理作った笑顔に\nマスターの心はギュッと痛んだ\n\n@\nデート中のはずなのに…\nなにやってるんだろう\n\n@\nもう彼女を悲しませないように、\nしっかりと心に刻んでおかないとな…\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

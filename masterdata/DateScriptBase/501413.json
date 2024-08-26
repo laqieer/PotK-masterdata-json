@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 501413,
+		"script": ";;C\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_shop\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 5014 \"mami_0022\"\n@%(unitName:unit_a)s\nえっ？\n水鉄砲？\n\n@%(unitName:unit_a)s\nたしかに戦闘では銃を使うけど…\n水鉄砲じゃさすがに戦えないし、\n海やプールで使おうかしら\n\n# face %(unit_a)s \"angry\"\n# voice 5014 \"mami_0014\"\n@%(unitName:unit_a)s\n…え、冗談？もうっ！\n人をからかうのは良くないわよ？\n\n# face %(unit_a)s \"normal\"\n@%(unitName:unit_a)s\nそうね、でも…\nこれで遊ぶのは\n面白いかもしれないわね\n\n# voice 5014 \"mami_0004\"\n@%(unitName:unit_a)s\n隊のみんなを集めて、\n水鉄砲撃ち合いバトル！\nほら、けっこう楽しそうじゃない？\n\n@%(unitName:unit_a)s\nふふ、あなたも賛成ね\nそうと決まれば\nたくさん買っていくわよ！\n\n# textflame 0 0\n@\nいつになくテンションの高い\nマミの姿を見て、\n笑みを浮かべるマスター\n\n@\nそれからしばらくの間、\n隊では水鉄砲遊びが\n大いに流行るのだった\n\n;;-----------------------------------------\n# waitandnext 2\n# fadeout \"black\" 1.2\n"
+	}
+]

@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 202211,
+		"script": ";;A,小\n;;B,大\n;;C,中\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_ferris\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 2022 \"banko_0027\"\n@盤古\nふう…\nやっと座れた…\n\n@盤古\nここは、\nまるでお家の中のようで\n落ち着くな…\n\n@盤古\n遊園地の中、\nどこもかしこも\n人だらけだったから\n\n# face %(unit_a)s \"angry\"\n@盤古\nずっと緊張してばかりで…\nクレープ？の味も\nよくわからなかった…\n\n# face %(unit_a)s \"normal\"\n# voice 2022 \"banko_0004\"\n@盤古\nそれに比べると、\nここはとても快適だ\n\n@盤古\nこのまま、観覧車の中で\nずっと過ごせたらいいのに…\n\n# select \"無理させてごめんね\" \"select_label_01\" \"好きなだけ乗ろう！\" \"select_label_02\" \"お家に帰りたい？\" \"select_label_03\"\nこのまま、観覧車の中で\nずっと過ごせたらいいのに…\n\n# label \"select_label_01\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_02\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_03\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_end\"\n# waitandnext 0.1\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

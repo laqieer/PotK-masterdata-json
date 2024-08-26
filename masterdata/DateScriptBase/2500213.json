@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 2500213,
+		"script": ";;b\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_concert\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# face 2500221 \"smile\"\n# voice 250022 \"furaikugeru_k_0005\"\n# textflame 1 1\n@フライクーゲル\nもっちろん！\nこんなヘヴィで凶悪なビートを\n刻まれたらノリノリになっちゃう！\n\n@フライクーゲル\nわたしのハートも\nすっごく揺さぶられちゃってるし\n案外悪くないよ！\n\n@フライクーゲル\nほらほら、マスターも一緒に！\nわたしと、この会場で\nいっちばん盛り上がっちゃお！\n\n@フライクーゲル\n目立ち過ぎるのも\n問題じゃないかって？\nノープロブレムッ！\n\n# voice 250022 \"furaikugeru_k_0041\"\n@フライクーゲル\n恥ずかしそうにしちゃう\nマスターの顔が拝めるチャンスだし\nわたしはとってもヘァピィだよ！\n\n;;モノローグ\n# textflame 0 0\n@\n問題大ありじゃない？と\nそう返しながら苦笑いするマスター\n\n;;モノローグ\n@\nしかし、熱狂するライブハウスを\n心から楽しむ彼女を見て\n一緒に楽しもうとするのだった…\n\n# waitandnext 2\n# fadeout \"black\" 1.2\n"
+	}
+]

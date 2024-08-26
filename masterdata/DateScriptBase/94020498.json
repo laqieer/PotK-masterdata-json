@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 94020498,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# se \"SE_0733\"\n# textflame 1 1\n# face %(unit_a)s \"surprise\"\n@ヒョウハ\nその答え…\n\n# face %(unit_a)s \"angry\"\n# voice 540201 \"hyoha_c_0034\"\n@ヒョウハ\n不正解！！\n\n# voice 540201 \"hyoha_c_0028\"\n@ヒョウハ\nもう！\n師匠の矢は、\n全然的外れだ！！\n\n@ヒョウハ\nもっとちゃんと、\n心を射抜いてくれよな！？\n\n# face %(unit_a)s \"surprise\"\n# voice 540201 \"hyoha_c_0027\"\n@ヒョウハ\nせっかく…\n頼りにしてたのに…\n\n# face %(unit_a)s \"angry\"\n# voice 540201 \"hyoha_c_0038\"\n@ヒョウハ\nくそぉぉぉぉ！\nもっと師匠に見てもらえるように…\n\n@ヒョウハ\n超爆・燃え上がっていくぞぉぉぉ！\nファイアア！\n\n# textflame 0 0\n@\n悔しさと悲しさが\n入り混じった声で叫ぶ彼女\n\n@\n的になるというのは\nクイズに正解してほしかった\nということなのだろう\n\n@\n正解できず、ヒョウハを\n傷付けてしまったことに\n心を痛めるマスターだった…\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

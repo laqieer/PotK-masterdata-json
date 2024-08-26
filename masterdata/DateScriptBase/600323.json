@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 600323,
+		"script": ";;A よし、もう一杯！\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_onsen\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# voice 6003 \"tyurusosu_0004\"\n# textflame 1 1\n@テュルソス\nその調子その調子！\nはい！次はワイン！\n\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n@テュルソス\n次は…カクテル！\n\n# textflame 0 0\n@\n次々差し出される酒を\nマスターは一気飲みしていく！\n\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# voice 6003 \"tyurusosu_0005\"\n@テュルソス\nいいねいいね！\n私も負けられないよ！\n\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n@テュルソス\nはい、ウィスキーにブランデー！\n\n# textflame 0 0\n@\nグラスの中身を飲み干すと\nマスターの視界が歪んできた…\n\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 6003 \"tyurusosu_0022\"\n@テュルソス\nあれ、マスター？\n大丈夫？\n\n# textflame 1 1\n@テュルソス\nあっ…のぼせちゃった？\n\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# voice 6003 \"tyurusosu_0008\"\n@テュルソス\nあはは…\nごめんごめん…\n\n# textflame 0 0\n@\nグラス片手のテュルソスに\n介抱されるマスターだった…\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

@@ -1,0 +1,26 @@
+[
+	{
+		"ID": 230,
+		"unitID": 2300211,
+		"scriptID": "kaerimichi",
+		"script": "んん～…。そうだっ！\nケラウノスもいないしー、\nマスターもうちょっと遊んでこっ☆"
+	},
+	{
+		"ID": 245,
+		"unitID": 2300211,
+		"scriptID": "kaeru",
+		"script": "う～ん！いっぱい遊んだね～☆\nじゃあ、帰ろっか！\n手繋いでいく？えへへっ"
+	},
+	{
+		"ID": 260,
+		"unitID": 2300211,
+		"scriptID": "kaeru_ok",
+		"script": "@%(unitName:unit_a)s\n二人っきり！？\nいいよ～！"
+	},
+	{
+		"ID": 275,
+		"unitID": 2300211,
+		"scriptID": "kaeru_ng",
+		"script": "@%(unitName:unit_a)s\nマスターもうしわけぇ～\nこれから別の予定がぁ…"
+	}
+]

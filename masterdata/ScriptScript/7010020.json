@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 7010020,
+		"script": "# script \"lisp\"\n# background \"006_church\"\n# bgmfile \"bgm217\" \"BgmTower001\" 0\n# body 29\n# pos 29 3\n# scale 29 0.8 0\n# mask 29 off\n# subfillrect 1 \"black\" 0 0 1\n# textflame 0 0\n@\n大樹ユグドラシルに\n起きた異変は鎮静され、\n再び平穏が訪れた\n\n@\nだが、その平穏は\n新たな階層の出現により\n崩されるのだった\n\n# subfillrect 1 \"black\" 1 1 0\n# textflame 1 1\n# textboxarrow 0 2\n@女性祀官\nお集まりいただき\nありがとうございます\n\n@女性祀官\n先ほど、ユグドラシルで\n再び異変を感知いたしました\n\n@女性祀官\n情報によるとユグドラシルの上空で\n新たな『驚異』が\n確認されたとのこと\n\n@女性祀官\nそこであなたには以前と同様に\n異変の中心である\n『驚異』を討伐してもらいます\n\n@女性祀官\nでは、こちらへ…\n\n# imageset 0 \"bg_black\"\n# imagealpha 0 0 0\n# textflame 0 0\n@\n祀官は教会の地下にある\n特別な祭壇へとマスターを導くと\n冠をかぶせ目を閉じるように告げた\n\n# body 810004\n# pos 810004 1\n# scale 810004 0.8 0\n# mask 810004 off\n# alpha 810004 0 0\n# body 910013\n# pos 910013 5\n# scale 910013 0.8 0\n# mask 910013 off\n# alpha 910013 0 0\n# fadeout \"black\" 2\n# waitandnext 2\n\n# bgmfile \"bgm222\" \"BgmTowerBattle\" 0\n# fadein \"black\" 1\n# alpha 910013 1 2\n# alpha 810004 1 2\n# layer 910013 5\n# layer 810004 4\n# imagealpha 0 1 0\n# imagepos 0 0 0\n# imagescale 0 2 0\n# textflame 1 1\n# textboxarrow 0 0\n# wait 2\n@女性祀官\nこれから先、\nあなたの前には\nさまざまな敵が現れるでしょう\n\n@女性祀官\nそれらを\n全て乗り越えてきてください\n…この度もご武運を祈っております"
+	}
+]

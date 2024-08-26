@@ -1,0 +1,62 @@
+[
+	{
+		"ID": 1,
+		"key": "POINT_LEADER_FACTOR",
+		"value": 2.0
+	},
+	{
+		"ID": 2,
+		"key": "POINT_NO_LEADER_FACTOR",
+		"value": 1.0
+	},
+	{
+		"ID": 3,
+		"key": "POINT_COST_FACTOR",
+		"value": 1.0
+	},
+	{
+		"ID": 4,
+		"key": "POINT_RARITY_FACTOR",
+		"value": 7.0
+	},
+	{
+		"ID": 5,
+		"key": "POINT_BASE_FACTOR",
+		"value": 12.0
+	},
+	{
+		"ID": 6,
+		"key": "RESPAWN_BASE_FACTOR",
+		"value": 1.0
+	},
+	{
+		"ID": 7,
+		"key": "RESPAWN_RARITY_FACTOR",
+		"value": 1.0
+	},
+	{
+		"ID": 8,
+		"key": "RESPAWN_COST_FACTOR",
+		"value": 0.20000000298023224
+	},
+	{
+		"ID": 9,
+		"key": "TURNS_FACTOR",
+		"value": 1.0
+	},
+	{
+		"ID": 10,
+		"key": "TIME_OUT_DEFAULT",
+		"value": 30.0
+	},
+	{
+		"ID": 11,
+		"key": "TIME_OUT_LOCATE_UNITS",
+		"value": 50.0
+	},
+	{
+		"ID": 12,
+		"key": "TIME_OUT_MOVE_UNIT_REQUEST",
+		"value": 20.0
+	}
+]

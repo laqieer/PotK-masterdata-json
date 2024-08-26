@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 601412,
+		"script": "# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_ferris\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n# voice 6014 \"ptah_0003\"\n@プタハ\nそうとも\n我はこの風景が見たかった…\n\n@プタハ\nそう、ずっとずっと昔から\n暗く冷たい夜も、人の子らが\n怯える必要のない、この…\n\n# textflame 0 0\n@\nそう言って、プタハは少し寂しそうな\nけれど慈愛に満ちた表情を浮かべる\n\n# voice 6014 \"ptah_0002\"\n# face %(unit_a)s \"normal\"\n# textflame 1 1\n@プタハ\n少し自分語りが過ぎてしまった\nそれよりもマスター、\nもう少し近くへ\n\n# face %(unit_a)s \"sad\"\n@プタハ\n夏の夜とはいえ\nこの高度ではいささか冷える\nそなたも寒かろう？\n\n# voice 6014 \"ptah_0028\"\n# face %(unit_a)s \"normal\"\n@プタハ\nそれに…\n\n# face %(unit_a)s \"smile\"\n@プタハ\n少しだけ、ほんの少しだけ…\n弱気になっている我を、\nどうかそなたの熱で温めておくれ…\n\n# textflame 0 0\n@\n言われるがまま\nマスターはプタハの隣に移動する\n\n@\nそのままふたり\n流れる夜景の灯に揺られながら\n静かに肩を寄せ合った…\n;;--------------------------------------\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 277006193,
+		"script": ";;-----------------------------------------\n;;線香花火獲得\n;;-----------------------------------------\n# script \"lisp\"\n# background \"sea_palmbeach_night\"\n# bgm \"stop\"\n;;-----------------------------------------\n# imageset 0 \"14999999\"\n# imagealpha 0 0 0\n# imagelayer 0 1\n# imagescale 0 1.3 0\n;;-----------------------------------------\n# fadein \"black\" 1\n# textwindow \"close\"\n# waitandnext 1.5\n\n# textflame 0 0\n# textwindow \"nomal\"\n@\nそれから、マスターは\nグランテピエに教わりながら\n線香花火を作っていく\n\n# textflame 0 0\n@\n何度か異族の出現に\n邪魔をされてしまったが……\n\n# imagealpha 0 1 1\n# imagepos 0 -100 -30\n# textflame 0 0\n@\n指導のおかげで\n器用ではないマスターでも\nなんとか線香花火の形になった\n\n# fadeout \"black\" 1\n# waitandnext 1"
+	}
+]

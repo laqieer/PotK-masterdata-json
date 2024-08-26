@@ -1,0 +1,29 @@
+[
+	{
+		"ID": 101,
+		"reward_group_id": 1,
+		"reward_type_id_CommonRewardType": 16,
+		"reward_id": 292,
+		"reward_quantity": 1,
+		"reward_title": "イラストコンプリート称号",
+		"reward_message": "神聖プール王国所属ユニットの欠片をコンプリートした報酬として称号をプレゼント"
+	},
+	{
+		"ID": 102,
+		"reward_group_id": 2,
+		"reward_type_id_CommonRewardType": 16,
+		"reward_id": 293,
+		"reward_quantity": 1,
+		"reward_title": "イラストコンプリート称号",
+		"reward_message": "海浜ビーチ帝国所属ユニットの欠片をコンプリートした報酬として称号をプレゼント"
+	},
+	{
+		"ID": 103,
+		"reward_group_id": 3,
+		"reward_type_id_CommonRewardType": 16,
+		"reward_id": 294,
+		"reward_quantity": 1,
+		"reward_title": "イラストコンプリート称号",
+		"reward_message": "ジャングル連合所属ユニットの欠片をコンプリートした報酬として称号をプレゼント"
+	}
+]

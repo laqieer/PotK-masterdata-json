@@ -1,0 +1,26 @@
+[
+	{
+		"ID": 176,
+		"unitID": 2400811,
+		"scriptID": "kaerimichi",
+		"script": "うんっ！やっぱり\nマスターと一緒は楽しいね！\nもう少し一緒にいたいな～！"
+	},
+	{
+		"ID": 190,
+		"unitID": 2400811,
+		"scriptID": "kaeru",
+		"script": "たくさん遊んだら疲れちゃったね！\nまたデートしようね、マスター\nばいばーい！"
+	},
+	{
+		"ID": 204,
+		"unitID": 2400811,
+		"scriptID": "kaeru_ok",
+		"script": "@%(unitName:unit_a)s\nおっけー！\nどこ行こっか？"
+	},
+	{
+		"ID": 218,
+		"unitID": 2400811,
+		"scriptID": "kaeru_ng",
+		"script": "@%(unitName:unit_a)s\nごめんっ！今日は帰らなきゃ！\nまた今度ね、マスターっ！"
+	}
+]

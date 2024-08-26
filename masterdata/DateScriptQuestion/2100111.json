@@ -1,0 +1,302 @@
+[
+	{
+		"ID": 3651,
+		"unitID": 2100111,
+		"questionID": 9100101,
+		"script": ";;剣,1\n# textflame 1 1\n# voice 1001 \"masamune_0001\"\n@マサムネ\n今日、主君に付いてきたのは…\n\n@マサムネ\n忠義のため…\n\n@マサムネ\n拙者は主君に尽くしておるが…\n主君は拙者のことをどこまで\n目をかけて下さっているのか…\n\n# face %(unit_a)s \"smile\"\n@マサムネ\n問うてみても…\nよいだろうか…？\n\n# voice 1001 \"masamune_0036\"\n# face %(unit_a)s \"angry\"\n@マサムネ\nで、では…いざ！\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n拙者のキラーズ『マサムネ』は\nどのような武器か、\nお分かりでしょうか？\n\n# se \"SE_0734\"\n# select  \"剣\" \"select_label_1\" \"弓\" \"select_label_2\" \"銃\" \"select_label_3\"\n拙者のキラーズ『マサムネ』は\nどのような武器か、\nお分かりでしょうか？\n"
+	},
+	{
+		"ID": 3652,
+		"unitID": 2100111,
+		"questionID": 9100102,
+		"script": ";;刀工の名,2\n# textflame 1 1\n# voice 1001 \"masamune_0001\"\n@マサムネ\n今日、主君に付いてきたのは…\n\n@マサムネ\n忠義のため…\n\n@マサムネ\n拙者は主君に尽くしておるが…\n主君は拙者のことをどこまで\n目をかけて下さっているのか…\n\n# face %(unit_a)s \"smile\"\n@マサムネ\n問うてみても…\nよいだろうか…？\n\n# voice 1001 \"masamune_0036\"\n# face %(unit_a)s \"angry\"\n@マサムネ\nで、では…いざ！\n;;--------------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n拙者のキラーズ『マサムネ』とは\n元々なんの名かわかりますか？\n\n# se \"SE_0734\"\n# select  \"金属の名\" \"select_label_1\" \"刀工の名\" \"select_label_2\" \"将軍の名\" \"select_label_3\"\n拙者のキラーズ『マサムネ』とは\n元々なんの名かわかりますか？\n"
+	},
+	{
+		"ID": 3653,
+		"unitID": 2100111,
+		"questionID": 9100103,
+		"script": ";;正宗,3\n# textflame 1 1\n# voice 1001 \"masamune_0001\"\n@マサムネ\n今日、主君に付いてきたのは…\n\n@マサムネ\n忠義のため…\n\n@マサムネ\n拙者は主君に尽くしておるが…\n主君は拙者のことをどこまで\n目をかけて下さっているのか…\n\n# face %(unit_a)s \"smile\"\n@マサムネ\n問うてみても…\nよいだろうか…？\n\n# voice 1001 \"masamune_0036\"\n# face %(unit_a)s \"angry\"\n@マサムネ\nで、では…いざ！\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n刀工・マサムネを\n漢字ではどう書くでしょうか？\n\n# se \"SE_0734\"\n# select  \"将宗\" \"select_label_1\" \"政宗\" \"select_label_2\" \"正宗\" \"select_label_3\"\n刀工・マサムネを\n漢字ではどう書くでしょうか？\n"
+	},
+	{
+		"ID": 3654,
+		"unitID": 2100111,
+		"questionID": 9100104,
+		"script": ";;鎌倉時代から南北朝時代,1\n# textflame 1 1\n# voice 1001 \"masamune_0001\"\n@マサムネ\n今日、主君に付いてきたのは…\n\n@マサムネ\n忠義のため…\n\n@マサムネ\n拙者は主君に尽くしておるが…\n主君は拙者のことをどこまで\n目をかけて下さっているのか…\n\n# face %(unit_a)s \"smile\"\n@マサムネ\n問うてみても…\nよいだろうか…？\n\n# voice 1001 \"masamune_0036\"\n# face %(unit_a)s \"angry\"\n@マサムネ\nで、では…いざ！\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n刀工・正宗は\nいつの時代を生きたと\n言われていますか？\n\n# se \"SE_0734\"\n# select  \"鎌倉時代から南北朝時代\" \"select_label_1\" \"江戸時代から明治時代\" \"select_label_2\" \"戦国時代から安土桃山時代\" \"select_label_3\"\n刀工・正宗は\nいつの時代を生きたと\n言われていますか？\n"
+	},
+	{
+		"ID": 3655,
+		"unitID": 2100111,
+		"questionID": 9100105,
+		"script": ";;相模国,2\n# textflame 1 1\n# voice 1001 \"masamune_0001\"\n@マサムネ\n今日、主君に付いてきたのは…\n\n@マサムネ\n忠義のため…\n\n@マサムネ\n拙者は主君に尽くしておるが…\n主君は拙者のことをどこまで\n目をかけて下さっているのか…\n\n# face %(unit_a)s \"smile\"\n@マサムネ\n問うてみても…\nよいだろうか…？\n\n# voice 1001 \"masamune_0036\"\n# face %(unit_a)s \"angry\"\n@マサムネ\nで、では…いざ！\n;;--------------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n刀工・正宗は\nどこの国で活躍したと\n言われていますか？\n\n# se \"SE_0734\"\n# select  \"山城国\" \"select_label_1\" \"相模国\" \"select_label_2\" \"武蔵国\" \"select_label_3\"\n刀工・正宗は\nどこの国で活躍したと\n言われていますか？\n\nいつの時代を生きたと\n言われていますか？\n\n# se \"SE_0734\"\n# select  \"鎌倉時代から南北朝時代\" \"select_label_1\" \"江戸時代から明治時代\" \"select_label_2\" \"戦国時代から安土桃山時代\" \"select_label_3\"\n刀工・正宗は\nいつの時代を生きたと\n言われていますか？\n"
+	},
+	{
+		"ID": 3656,
+		"unitID": 2100111,
+		"questionID": 9100106,
+		"script": ";;神奈川県,3\n# textflame 1 1\n# voice 1001 \"masamune_0001\"\n@マサムネ\n今日、主君に付いてきたのは…\n\n@マサムネ\n忠義のため…\n\n@マサムネ\n拙者は主君に尽くしておるが…\n主君は拙者のことをどこまで\n目をかけて下さっているのか…\n\n# face %(unit_a)s \"smile\"\n@マサムネ\n問うてみても…\nよいだろうか…？\n\n# voice 1001 \"masamune_0036\"\n# face %(unit_a)s \"angry\"\n@マサムネ\nで、では…いざ！\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n刀工・正宗が活躍した、\n相模国は今のどのあたりか\nご存知でしょうか？\n\n# se \"SE_0734\"\n# select  \"福島県\" \"select_label_1\" \"千葉県\" \"select_label_2\" \"神奈川県\" \"select_label_3\"\n刀工・正宗が活躍した、\n相模国は今のどのあたりか\nご存知でしょうか？\n"
+	},
+	{
+		"ID": 3657,
+		"unitID": 2100111,
+		"questionID": 9100107,
+		"script": ";;13画,1\n# textflame 1 1\n# voice 1001 \"masamune_0001\"\n@マサムネ\n今日、主君に付いてきたのは…\n\n@マサムネ\n忠義のため…\n\n@マサムネ\n拙者は主君に尽くしておるが…\n主君は拙者のことをどこまで\n目をかけて下さっているのか…\n\n# face %(unit_a)s \"smile\"\n@マサムネ\n問うてみても…\nよいだろうか…？\n\n# voice 1001 \"masamune_0036\"\n# face %(unit_a)s \"angry\"\n@マサムネ\nで、では…いざ！\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n『正宗』という漢字の画数は\nいくつかおわかりでしょうか？\n\n# se \"SE_0734\"\n# select  \"13画\" \"select_label_1\" \"20画\" \"select_label_2\" \"18画\" \"select_label_3\"\n『正宗』という漢字の画数は\nいくつかおわかりでしょうか？\n"
+	},
+	{
+		"ID": 3658,
+		"unitID": 2100111,
+		"questionID": 9100108,
+		"script": ";;鎌倉幕府,2\n# textflame 1 1\n# voice 1001 \"masamune_0001\"\n@マサムネ\n今日、主君に付いてきたのは…\n\n@マサムネ\n忠義のため…\n\n@マサムネ\n拙者は主君に尽くしておるが…\n主君は拙者のことをどこまで\n目をかけて下さっているのか…\n\n# face %(unit_a)s \"smile\"\n@マサムネ\n問うてみても…\nよいだろうか…？\n\n# voice 1001 \"masamune_0036\"\n# face %(unit_a)s \"angry\"\n@マサムネ\nで、では…いざ！\n;;--------------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n刀匠・正宗は\n何幕府のお抱えであったか\nご存知でしょうか？\n\n# se \"SE_0734\"\n# select  \"江戸幕府\" \"select_label_1\" \"鎌倉幕府\" \"select_label_2\" \"室町幕府\" \"select_label_3\"\n刀匠・正宗は\n何幕府のお抱えであったか\nご存知でしょうか？\n"
+	},
+	{
+		"ID": 3659,
+		"unitID": 2100111,
+		"questionID": 9100109,
+		"script": ";;大名や武士,3\n# textflame 1 1\n# voice 1001 \"masamune_0001\"\n@マサムネ\n今日、主君に付いてきたのは…\n\n@マサムネ\n忠義のため…\n\n@マサムネ\n拙者は主君に尽くしておるが…\n主君は拙者のことをどこまで\n目をかけて下さっているのか…\n\n# face %(unit_a)s \"smile\"\n@マサムネ\n問うてみても…\nよいだろうか…？\n\n# voice 1001 \"masamune_0036\"\n# face %(unit_a)s \"angry\"\n@マサムネ\nで、では…いざ！\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n刀匠・正宗の作る刀は\n江戸時代初期に\n誰にもてはやされたでしょうか？\n\n# se \"SE_0734\"\n# select  \"農民\" \"select_label_1\" \"商人\" \"select_label_2\" \"大名や武士\" \"select_label_3\"\n刀匠・正宗の作る刀は\n江戸時代初期に\n誰にもてはやされたでしょうか？\n"
+	},
+	{
+		"ID": 3660,
+		"unitID": 2100111,
+		"questionID": 9100110,
+		"script": ";;正宗でなければ刀でなし,1\n# textflame 1 1\n# voice 1001 \"masamune_0001\"\n@マサムネ\n今日、主君に付いてきたのは…\n\n@マサムネ\n忠義のため…\n\n@マサムネ\n拙者は主君に尽くしておるが…\n主君は拙者のことをどこまで\n目をかけて下さっているのか…\n\n# face %(unit_a)s \"smile\"\n@マサムネ\n問うてみても…\nよいだろうか…？\n\n# voice 1001 \"masamune_0036\"\n# face %(unit_a)s \"angry\"\n@マサムネ\nで、では…いざ！\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n刀匠・正宗の作る刀は\n大名や武士になんと言って\nもてはやされたでしょうか？\n\n# se \"SE_0734\"\n# select  \"正宗でなければ刀でなし\" \"select_label_1\" \"正宗に斬れぬものなし\" \"select_label_2\" \"正宗なら100人乗っても大丈夫\" \"select_label_3\"\n刀匠・正宗の作る刀は\n大名や武士になんと言って\nもてはやされたでしょうか？\n"
+	},
+	{
+		"ID": 3661,
+		"unitID": 2100111,
+		"questionID": 9100111,
+		"script": ";;炎,1\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 1001 \"masamune_0002\"\n@マサムネ\nあ…あの…\nちょっと、いいか…？\n\n@マサムネ\n今日はなぜ…\n拙者を誘ってくれたのだ…？\n\n@マサムネ\nあ、いや…！\n良い！\n答えずとも良い！\n\n# face %(unit_a)s \"smile\"\n@マサムネ\nそ、その代わりと\n言ってはなんだが…\n\n@マサムネ\n拙者にまつわる問題に\n答えてみてくれないだろうか…\n\n# voice 1001 \"masamune_0003\"\n@マサムネ\n主君には簡単だと思う…\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n拙者の属性はご存知でしょうか？\n\n# se \"SE_0734\"\n# select  \"炎\" \"select_label_1\" \"闇\" \"select_label_2\" \"雷\" \"select_label_3\"\n拙者の属性はご存知でしょうか？\n"
+	},
+	{
+		"ID": 3662,
+		"unitID": 2100111,
+		"questionID": 9100112,
+		"script": ";;159㎝,2\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 1001 \"masamune_0002\"\n@マサムネ\nあ…あの…\nちょっと、いいか…？\n\n@マサムネ\n今日はなぜ…\n拙者を誘ってくれたのだ…？\n\n@マサムネ\nあ、いや…！\n良い！\n答えずとも良い！\n\n# face %(unit_a)s \"smile\"\n@マサムネ\nそ、その代わりと\n言ってはなんだが…\n\n@マサムネ\n拙者にまつわる問題に\n答えてみてくれないだろうか…\n\n# voice 1001 \"masamune_0003\"\n@マサムネ\n主君には簡単だと思う…\n;;--------------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n拙者の身長はご存知でしょうか？\n\n# se \"SE_0734\"\n# select  \"160cm\" \"select_label_1\" \"159cm\" \"select_label_2\" \"172cm\" \"select_label_3\"\n拙者の身長はご存知でしょうか？\n"
+	},
+	{
+		"ID": 3663,
+		"unitID": 2100111,
+		"questionID": 9100113,
+		"script": ";;3月22日,3\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 1001 \"masamune_0002\"\n@マサムネ\nあ…あの…\nちょっと、いいか…？\n\n@マサムネ\n今日はなぜ…\n拙者を誘ってくれたのだ…？\n\n@マサムネ\nあ、いや…！\n良い！\n答えずとも良い！\n\n# face %(unit_a)s \"smile\"\n@マサムネ\nそ、その代わりと\n言ってはなんだが…\n\n@マサムネ\n拙者にまつわる問題に\n答えてみてくれないだろうか…\n\n# voice 1001 \"masamune_0003\"\n@マサムネ\n主君には簡単だと思う…\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n拙者の誕生日を\nご存知でしょうか？\n\n# se \"SE_0734\"\n# select  \"5月22日\" \"select_label_1\" \"8月22日\" \"select_label_2\" \"3月22日\" \"select_label_3\"\n拙者の誕生日を\nご存知でしょうか？\n"
+	},
+	{
+		"ID": 3664,
+		"unitID": 2100111,
+		"questionID": 9100114,
+		"script": ";;おひつじ座,1\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 1001 \"masamune_0002\"\n@マサムネ\nあ…あの…\nちょっと、いいか…？\n\n@マサムネ\n今日はなぜ…\n拙者を誘ってくれたのだ…？\n\n@マサムネ\nあ、いや…！\n良い！\n答えずとも良い！\n\n# face %(unit_a)s \"smile\"\n@マサムネ\nそ、その代わりと\n言ってはなんだが…\n\n@マサムネ\n拙者にまつわる問題に\n答えてみてくれないだろうか…\n\n# voice 1001 \"masamune_0003\"\n@マサムネ\n主君には簡単だと思う…\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n拙者の星座を\n知っておられますか？\n\n# se \"SE_0734\"\n# select  \"おひつじ座\" \"select_label_1\" \"うお座\" \"select_label_2\" \"さそり座\" \"select_label_3\"\n拙者の星座を\n知っておられますか？\n"
+	},
+	{
+		"ID": 3665,
+		"unitID": 2100111,
+		"questionID": 9100115,
+		"script": ";;質実剛健,2\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 1001 \"masamune_0002\"\n@マサムネ\nあ…あの…\nちょっと、いいか…？\n\n@マサムネ\n今日はなぜ…\n拙者を誘ってくれたのだ…？\n\n@マサムネ\nあ、いや…！\n良い！\n答えずとも良い！\n\n# face %(unit_a)s \"smile\"\n@マサムネ\nそ、その代わりと\n言ってはなんだが…\n\n@マサムネ\n拙者にまつわる問題に\n答えてみてくれないだろうか…\n\n# voice 1001 \"masamune_0003\"\n@マサムネ\n主君には簡単だと思う…\n;;--------------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n拙者が好きなものは\nなにかわかりますか？\n\n# se \"SE_0734\"\n# select  \"天真爛漫\" \"select_label_1\" \"質実剛健\" \"select_label_2\" \"酒池肉林\" \"select_label_3\"\n拙者が好きなものは\nなにかわかりますか？\n"
+	},
+	{
+		"ID": 3666,
+		"unitID": 2100111,
+		"questionID": 9100116,
+		"script": ";;厳しい,3\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 1001 \"masamune_0002\"\n@マサムネ\nあ…あの…\nちょっと、いいか…？\n\n@マサムネ\n今日はなぜ…\n拙者を誘ってくれたのだ…？\n\n@マサムネ\nあ、いや…！\n良い！\n答えずとも良い！\n\n# face %(unit_a)s \"smile\"\n@マサムネ\nそ、その代わりと\n言ってはなんだが…\n\n@マサムネ\n拙者にまつわる問題に\n答えてみてくれないだろうか…\n\n# voice 1001 \"masamune_0003\"\n@マサムネ\n主君には簡単だと思う…\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n拙者は人にも自分にも…？\n\n# se \"SE_0734\"\n# select  \"エロい\" \"select_label_1\" \"甘い\" \"select_label_2\" \"厳しい\" \"select_label_3\"\n拙者は人にも自分にも…？\n"
+	},
+	{
+		"ID": 3667,
+		"unitID": 2100111,
+		"questionID": 9100117,
+		"script": ";;Ａ型,1\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 1001 \"masamune_0002\"\n@マサムネ\nあ…あの…\nちょっと、いいか…？\n\n@マサムネ\n今日はなぜ…\n拙者を誘ってくれたのだ…？\n\n@マサムネ\nあ、いや…！\n良い！\n答えずとも良い！\n\n# face %(unit_a)s \"smile\"\n@マサムネ\nそ、その代わりと\n言ってはなんだが…\n\n@マサムネ\n拙者にまつわる問題に\n答えてみてくれないだろうか…\n\n# voice 1001 \"masamune_0003\"\n@マサムネ\n主君には簡単だと思う…\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n拙者の血液型はご存知ですか？\n\n# se \"SE_0734\"\n# select  \"Ａ型\" \"select_label_1\" \"Ｏ型\" \"select_label_2\" \"Ｂ型\" \"select_label_3\"\n拙者の血液型はご存知ですか？\n"
+	},
+	{
+		"ID": 3668,
+		"unitID": 2100111,
+		"questionID": 9100118,
+		"script": ";;相模国,2\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 1001 \"masamune_0002\"\n@マサムネ\nあ…あの…\nちょっと、いいか…？\n\n@マサムネ\n今日はなぜ…\n拙者を誘ってくれたのだ…？\n\n@マサムネ\nあ、いや…！\n良い！\n答えずとも良い！\n\n# face %(unit_a)s \"smile\"\n@マサムネ\nそ、その代わりと\n言ってはなんだが…\n\n@マサムネ\n拙者にまつわる問題に\n答えてみてくれないだろうか…\n\n# voice 1001 \"masamune_0003\"\n@マサムネ\n主君には簡単だと思う…\n;;--------------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n拙者の出身地はご存知ですか？\n\n# se \"SE_0734\"\n# select  \"下野国\" \"select_label_1\" \"相模国\" \"select_label_2\" \"近江国\" \"select_label_3\"\n拙者の出身地はご存知ですか？\n"
+	},
+	{
+		"ID": 3669,
+		"unitID": 2100111,
+		"questionID": 9100119,
+		"script": ";;素振り,3\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 1001 \"masamune_0002\"\n@マサムネ\nあ…あの…\nちょっと、いいか…？\n\n@マサムネ\n今日はなぜ…\n拙者を誘ってくれたのだ…？\n\n@マサムネ\nあ、いや…！\n良い！\n答えずとも良い！\n\n# face %(unit_a)s \"smile\"\n@マサムネ\nそ、その代わりと\n言ってはなんだが…\n\n@マサムネ\n拙者にまつわる問題に\n答えてみてくれないだろうか…\n\n# voice 1001 \"masamune_0003\"\n@マサムネ\n主君には簡単だと思う…\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n拙者の趣味は…\n\n# se \"SE_0734\"\n# select  \"刀鍛冶\" \"select_label_1\" \"みねうち\" \"select_label_2\" \"素振り\" \"select_label_3\"\n拙者の趣味は…\n"
+	},
+	{
+		"ID": 3670,
+		"unitID": 2100111,
+		"questionID": 9100120,
+		"script": ";;武士道精神,1\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 1001 \"masamune_0002\"\n@マサムネ\nあ…あの…\nちょっと、いいか…？\n\n@マサムネ\n今日はなぜ…\n拙者を誘ってくれたのだ…？\n\n@マサムネ\nあ、いや…！\n良い！\n答えずとも良い！\n\n# face %(unit_a)s \"smile\"\n@マサムネ\nそ、その代わりと\n言ってはなんだが…\n\n@マサムネ\n拙者にまつわる問題に\n答えてみてくれないだろうか…\n\n# voice 1001 \"masamune_0003\"\n@マサムネ\n主君には簡単だと思う…\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n拙者はこれを貫き\n生きていると言っても\n過言ではありませぬ！\n\n# se \"SE_0734\"\n# select  \"武士道精神\" \"select_label_1\" \"騎士道精神\" \"select_label_2\" \"任侠道精神\" \"select_label_3\"\n拙者はこれを貫き\n生きていると言っても\n過言ではありませぬ！\n"
+	},
+	{
+		"ID": 3671,
+		"unitID": 2100111,
+		"questionID": 9100121,
+		"script": ";;笑い方,1\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 1001 \"masamune_0001\"\n@マサムネ\nな、なぁ主君…\n\n@マサムネ\nこれは…\n\n# voice 1001 \"masamune_0042\"\n@マサムネ\nで、“でーと”というやつだろ…？\n\n@マサムネ\nあ、相手が拙者で…\n良いのか…？\n\n@マサムネ\nあ、待て！\n答えるな…！\nすまぬ！\n\n# voice 1001 \"masamune_0036\"\n# face %(unit_a)s \"angry\"\n@マサムネ\n代わりに…\nこの問いに答えてくれ！\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n拙者は恥ずかしながら\nこれのやり方がわからないのです…\n\n# se \"SE_0734\"\n# select  \"笑い方\" \"select_label_1\" \"怒り方\" \"select_label_2\" \"素振り\" \"select_label_3\"\n拙者は恥ずかしながら\nこれのやり方がわからないのです…\n"
+	},
+	{
+		"ID": 3672,
+		"unitID": 2100111,
+		"questionID": 9100122,
+		"script": ";;剣皇,2\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 1001 \"masamune_0001\"\n@マサムネ\nな、なぁ主君…\n\n@マサムネ\nこれは…\n\n# voice 1001 \"masamune_0042\"\n@マサムネ\nで、“でーと”というやつだろ…？\n\n@マサムネ\nあ、相手が拙者で…\n良いのか…？\n\n@マサムネ\nあ、待て！\n答えるな…！\nすまぬ！\n\n# voice 1001 \"masamune_0036\"\n# face %(unit_a)s \"angry\"\n@マサムネ\n代わりに…\nこの問いに答えてくれ！\n;;--------------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n拙者の☆６のジョブ名を\nご存知でしょうか？\n\n# se \"SE_0734\"\n# select  \"剣聖\" \"select_label_1\" \"剣皇\" \"select_label_2\" \"剣客\" \"select_label_3\"\n拙者の☆６のジョブ名を\nご存知でしょうか？\n"
+	},
+	{
+		"ID": 3673,
+		"unitID": 2100111,
+		"questionID": 9100123,
+		"script": ";;鎧武者断斬,3\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 1001 \"masamune_0001\"\n@マサムネ\nな、なぁ主君…\n\n@マサムネ\nこれは…\n\n# voice 1001 \"masamune_0042\"\n@マサムネ\nで、“でーと”というやつだろ…？\n\n@マサムネ\nあ、相手が拙者で…\n良いのか…？\n\n@マサムネ\nあ、待て！\n答えるな…！\nすまぬ！\n\n# voice 1001 \"masamune_0036\"\n# face %(unit_a)s \"angry\"\n@マサムネ\n代わりに…\nこの問いに答えてくれ！\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n拙者が取得した\nスキルは覚えておられますか？\n\n# se \"SE_0734\"\n# select  \"鎧武者ダンダン\" \"select_label_1\" \"鎧武者ダンカン\" \"select_label_2\" \"鎧武者断斬\" \"select_label_3\"\n拙者が取得した\nスキルは覚えておられますか？\n"
+	},
+	{
+		"ID": 3674,
+		"unitID": 2100111,
+		"questionID": 9100124,
+		"script": ";;炎軍の覇気,1\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 1001 \"masamune_0001\"\n@マサムネ\nな、なぁ主君…\n\n@マサムネ\nこれは…\n\n# voice 1001 \"masamune_0042\"\n@マサムネ\nで、“でーと”というやつだろ…？\n\n@マサムネ\nあ、相手が拙者で…\n良いのか…？\n\n@マサムネ\nあ、待て！\n答えるな…！\nすまぬ！\n\n# voice 1001 \"masamune_0036\"\n# face %(unit_a)s \"angry\"\n@マサムネ\n代わりに…\nこの問いに答えてくれ！\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n拙者の☆６の\nリーダースキルはご存知ですか？\n\n# se \"SE_0734\"\n# select  \"炎軍の覇気\" \"select_label_1\" \"炎軍のやる気\" \"select_label_2\" \"炎軍の死ぬ気\" \"select_label_3\"\n拙者の☆６の\nリーダースキルはご存知ですか？\n"
+	},
+	{
+		"ID": 3675,
+		"unitID": 2100111,
+		"questionID": 9100125,
+		"script": ";;草薙剣,2\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 1001 \"masamune_0001\"\n@マサムネ\nな、なぁ主君…\n\n@マサムネ\nこれは…\n\n# voice 1001 \"masamune_0042\"\n@マサムネ\nで、“でーと”というやつだろ…？\n\n@マサムネ\nあ、相手が拙者で…\n良いのか…？\n\n@マサムネ\nあ、待て！\n答えるな…！\nすまぬ！\n\n# voice 1001 \"masamune_0036\"\n# face %(unit_a)s \"angry\"\n@マサムネ\n代わりに…\nこの問いに答えてくれ！\n;;--------------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n拙者が尊敬しているのは…\n\n# se \"SE_0734\"\n# select  \"フォルカス\" \"select_label_1\" \"草薙剣\" \"select_label_2\" \"方天画戟\" \"select_label_3\"\n拙者が尊敬しているのは…\n"
+	},
+	{
+		"ID": 3676,
+		"unitID": 2100111,
+		"questionID": 9100126,
+		"script": ";;与一,3\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 1001 \"masamune_0001\"\n@マサムネ\nな、なぁ主君…\n\n@マサムネ\nこれは…\n\n# voice 1001 \"masamune_0042\"\n@マサムネ\nで、“でーと”というやつだろ…？\n\n@マサムネ\nあ、相手が拙者で…\n良いのか…？\n\n@マサムネ\nあ、待て！\n答えるな…！\nすまぬ！\n\n# voice 1001 \"masamune_0036\"\n# face %(unit_a)s \"angry\"\n@マサムネ\n代わりに…\nこの問いに答えてくれ！\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n拙者と仲が良いのは…\n\n# se \"SE_0734\"\n# select  \"弥一\" \"select_label_1\" \"喜一\" \"select_label_2\" \"与一\" \"select_label_3\"\n拙者と仲が良いのは…\n"
+	},
+	{
+		"ID": 3677,
+		"unitID": 2100111,
+		"questionID": 9100127,
+		"script": ";;斧の呼吸,1\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 1001 \"masamune_0001\"\n@マサムネ\nな、なぁ主君…\n\n@マサムネ\nこれは…\n\n# voice 1001 \"masamune_0042\"\n@マサムネ\nで、“でーと”というやつだろ…？\n\n@マサムネ\nあ、相手が拙者で…\n良いのか…？\n\n@マサムネ\nあ、待て！\n答えるな…！\nすまぬ！\n\n# voice 1001 \"masamune_0036\"\n# face %(unit_a)s \"angry\"\n@マサムネ\n代わりに…\nこの問いに答えてくれ！\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n拙者が覚える\n付与スキルはわかりますか？\n\n# se \"SE_0734\"\n# select  \"斧の呼吸\" \"select_label_1\" \"槍の呼吸\" \"select_label_2\" \"杖の呼吸\" \"select_label_3\"\n拙者が覚える\n付与スキルはわかりますか？\n"
+	},
+	{
+		"ID": 3678,
+		"unitID": 2100111,
+		"questionID": 9100128,
+		"script": ";;天空心眼断,2\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 1001 \"masamune_0001\"\n@マサムネ\nな、なぁ主君…\n\n@マサムネ\nこれは…\n\n# voice 1001 \"masamune_0042\"\n@マサムネ\nで、“でーと”というやつだろ…？\n\n@マサムネ\nあ、相手が拙者で…\n良いのか…？\n\n@マサムネ\nあ、待て！\n答えるな…！\nすまぬ！\n\n# voice 1001 \"masamune_0036\"\n# face %(unit_a)s \"angry\"\n@マサムネ\n代わりに…\nこの問いに答えてくれ！\n;;--------------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n拙者が取得した\nスキルは覚えておられますか？\n\n# se \"SE_0734\"\n# select  \"海底心眼断\" \"select_label_1\" \"天空心眼断\" \"select_label_2\" \"地下鉄心眼断\" \"select_label_3\"\n拙者が取得した\nスキルは覚えておられますか？\n"
+	},
+	{
+		"ID": 3679,
+		"unitID": 2100111,
+		"questionID": 9100129,
+		"script": ";;華炎千斬り,3\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 1001 \"masamune_0001\"\n@マサムネ\nな、なぁ主君…\n\n@マサムネ\nこれは…\n\n# voice 1001 \"masamune_0042\"\n@マサムネ\nで、“でーと”というやつだろ…？\n\n@マサムネ\nあ、相手が拙者で…\n良いのか…？\n\n@マサムネ\nあ、待て！\n答えるな…！\nすまぬ！\n\n# voice 1001 \"masamune_0036\"\n# face %(unit_a)s \"angry\"\n@マサムネ\n代わりに…\nこの問いに答えてくれ！\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n拙者が取得した\nスキルは覚えておられますか？\n\n# se \"SE_0734\"\n# select  \"豪勢千斬り\" \"select_label_1\" \"豪華千斬り\" \"select_label_2\" \"華炎千斬り\" \"select_label_3\"\n拙者が取得した\nスキルは覚えておられますか？\n"
+	},
+	{
+		"ID": 3680,
+		"unitID": 2100111,
+		"questionID": 9100130,
+		"script": ";;八咫鏡,1\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 1001 \"masamune_0001\"\n@マサムネ\nな、なぁ主君…\n\n@マサムネ\nこれは…\n\n# voice 1001 \"masamune_0042\"\n@マサムネ\nで、“でーと”というやつだろ…？\n\n@マサムネ\nあ、相手が拙者で…\n良いのか…？\n\n@マサムネ\nあ、待て！\n答えるな…！\nすまぬ！\n\n# voice 1001 \"masamune_0036\"\n# face %(unit_a)s \"angry\"\n@マサムネ\n代わりに…\nこの問いに答えてくれ！\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n拙者はこの方には\n敬意を払っております\n\n# se \"SE_0734\"\n# select  \"八咫鏡\" \"select_label_1\" \"フォルカス\" \"select_label_2\" \"方天画戟\" \"select_label_3\"\n拙者はこの方には\n敬意を払っております\n"
+	},
+	{
+		"ID": 3681,
+		"unitID": 2100111,
+		"questionID": 9100131,
+		"script": ";;天沼矛,1\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 1001 \"masamune_0001\"\n@マサムネ\nしゅ、主君…\n\n@マサムネ\nも、もう…帰るのか？\n\n# voice 1001 \"masamune_0042\"\n@マサムネ\n…………\n\n# face %(unit_a)s \"normal\"\n@マサムネ\nそ、そうだ…！\n\n@マサムネ\nい、今から質問を\nさせてもらう！\n\n@マサムネ\nよ～く考えて、\n答えてみてくれ！\n\n# voice 1001 \"masamune_0036\"\n# face %(unit_a)s \"angry\"\n@マサムネ\nでは…参る！\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n拙者はこの方にも\n敬意を払っております\n\n# se \"SE_0734\"\n# select  \"天沼矛\" \"select_label_1\" \"アスカロン\" \"select_label_2\" \"パラシュ\" \"select_label_3\"\n拙者はこの方にも\n敬意を払っております\n"
+	},
+	{
+		"ID": 3682,
+		"unitID": 2100111,
+		"questionID": 9100132,
+		"script": ";;Aries,2\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 1001 \"masamune_0001\"\n@マサムネ\nしゅ、主君…\n\n@マサムネ\nも、もう…帰るのか？\n\n# voice 1001 \"masamune_0042\"\n@マサムネ\n…………\n\n# face %(unit_a)s \"normal\"\n@マサムネ\nそ、そうだ…！\n\n@マサムネ\nい、今から質問を\nさせてもらう！\n\n@マサムネ\nよ～く考えて、\n答えてみてくれ！\n\n# voice 1001 \"masamune_0036\"\n# face %(unit_a)s \"angry\"\n@マサムネ\nでは…参る！\n;;--------------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n拙者の星座を英語で言うと？\n\n# se \"SE_0734\"\n# select  \"Cancer\" \"select_label_1\" \"Aries\" \"select_label_2\" \"Scorpio\" \"select_label_3\"\n拙者の星座を英語で言うと？\n"
+	},
+	{
+		"ID": 3683,
+		"unitID": 2100111,
+		"questionID": 9100133,
+		"script": ";;March,3\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 1001 \"masamune_0001\"\n@マサムネ\nしゅ、主君…\n\n@マサムネ\nも、もう…帰るのか？\n\n# voice 1001 \"masamune_0042\"\n@マサムネ\n…………\n\n# face %(unit_a)s \"normal\"\n@マサムネ\nそ、そうだ…！\n\n@マサムネ\nい、今から質問を\nさせてもらう！\n\n@マサムネ\nよ～く考えて、\n答えてみてくれ！\n\n# voice 1001 \"masamune_0036\"\n# face %(unit_a)s \"angry\"\n@マサムネ\nでは…参る！\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n拙者の誕生月を英語で言うと？\n\n# se \"SE_0734\"\n# select  \"June\" \"select_label_1\" \"August\" \"select_label_2\" \"March\" \"select_label_3\"\n拙者の誕生月を英語で言うと？\n"
+	},
+	{
+		"ID": 3684,
+		"unitID": 2100111,
+		"questionID": 9100134,
+		"script": ";;紫色,1\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 1001 \"masamune_0001\"\n@マサムネ\nしゅ、主君…\n\n@マサムネ\nも、もう…帰るのか？\n\n# voice 1001 \"masamune_0042\"\n@マサムネ\n…………\n\n# face %(unit_a)s \"normal\"\n@マサムネ\nそ、そうだ…！\n\n@マサムネ\nい、今から質問を\nさせてもらう！\n\n@マサムネ\nよ～く考えて、\n答えてみてくれ！\n\n# voice 1001 \"masamune_0036\"\n# face %(unit_a)s \"angry\"\n@マサムネ\nでは…参る！\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n拙者の瞳の色は\n何色かおわかりでしょうか？\n\n# se \"SE_0734\"\n# select  \"紫色\" \"select_label_1\" \"黄色\" \"select_label_2\" \"スカイブルー\" \"select_label_3\"\n拙者の瞳の色は\n何色かおわかりでしょうか？\n"
+	},
+	{
+		"ID": 3685,
+		"unitID": 2100111,
+		"questionID": 9100135,
+		"script": ";;黒髪,2\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 1001 \"masamune_0001\"\n@マサムネ\nしゅ、主君…\n\n@マサムネ\nも、もう…帰るのか？\n\n# voice 1001 \"masamune_0042\"\n@マサムネ\n…………\n\n# face %(unit_a)s \"normal\"\n@マサムネ\nそ、そうだ…！\n\n@マサムネ\nい、今から質問を\nさせてもらう！\n\n@マサムネ\nよ～く考えて、\n答えてみてくれ！\n\n# voice 1001 \"masamune_0036\"\n# face %(unit_a)s \"angry\"\n@マサムネ\nでは…参る！\n;;--------------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n拙者の髪色は…？\n\n# se \"SE_0734\"\n# select  \"金髪\" \"select_label_1\" \"黒髪\" \"select_label_2\" \"銀髪\" \"select_label_3\"\n拙者の髪色は…？\n"
+	},
+	{
+		"ID": 3686,
+		"unitID": 2100111,
+		"questionID": 9100136,
+		"script": ";;仁義,3\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 1001 \"masamune_0001\"\n@マサムネ\nしゅ、主君…\n\n@マサムネ\nも、もう…帰るのか？\n\n# voice 1001 \"masamune_0042\"\n@マサムネ\n…………\n\n# face %(unit_a)s \"normal\"\n@マサムネ\nそ、そうだ…！\n\n@マサムネ\nい、今から質問を\nさせてもらう！\n\n@マサムネ\nよ～く考えて、\n答えてみてくれ！\n\n# voice 1001 \"masamune_0036\"\n# face %(unit_a)s \"angry\"\n@マサムネ\nでは…参る！\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n拙者が重んじるのは…\n\n# se \"SE_0734\"\n# select  \"名声\" \"select_label_1\" \"人気\" \"select_label_2\" \"仁義\" \"select_label_3\"\n拙者が重んじるのは…\n"
+	},
+	{
+		"ID": 3687,
+		"unitID": 2100111,
+		"questionID": 9100137,
+		"script": ";;ムラマサ,1\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 1001 \"masamune_0001\"\n@マサムネ\nしゅ、主君…\n\n@マサムネ\nも、もう…帰るのか？\n\n# voice 1001 \"masamune_0042\"\n@マサムネ\n…………\n\n# face %(unit_a)s \"normal\"\n@マサムネ\nそ、そうだ…！\n\n@マサムネ\nい、今から質問を\nさせてもらう！\n\n@マサムネ\nよ～く考えて、\n答えてみてくれ！\n\n# voice 1001 \"masamune_0036\"\n# face %(unit_a)s \"angry\"\n@マサムネ\nでは…参る！\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n拙者の妹と言えば\n誰かご存知でしょうか？\n\n# se \"SE_0734\"\n# select  \"ムラマサ\" \"select_label_1\" \"与一\" \"select_label_2\" \"ヤグルシ\" \"select_label_3\"\n拙者の妹と言えば\n誰かご存知でしょうか？\n"
+	},
+	{
+		"ID": 3688,
+		"unitID": 2100111,
+		"questionID": 9100138,
+		"script": ";;アスカロン,2\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 1001 \"masamune_0001\"\n@マサムネ\nしゅ、主君…\n\n@マサムネ\nも、もう…帰るのか？\n\n# voice 1001 \"masamune_0042\"\n@マサムネ\n…………\n\n# face %(unit_a)s \"normal\"\n@マサムネ\nそ、そうだ…！\n\n@マサムネ\nい、今から質問を\nさせてもらう！\n\n@マサムネ\nよ～く考えて、\n答えてみてくれ！\n\n# voice 1001 \"masamune_0036\"\n# face %(unit_a)s \"angry\"\n@マサムネ\nでは…参る！\n;;--------------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n拙者と同じ血液型なのは\n誰かおわかりでしょうか？\n\n# se \"SE_0734\"\n# select  \"シユウ\" \"select_label_1\" \"アスカロン\" \"select_label_2\" \"アフロディーテ\" \"select_label_3\"\n拙者と同じ血液型なのは\n誰かおわかりでしょうか？\n"
+	},
+	{
+		"ID": 3689,
+		"unitID": 2100111,
+		"questionID": 9100139,
+		"script": ";;シユウ,3\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 1001 \"masamune_0001\"\n@マサムネ\nしゅ、主君…\n\n@マサムネ\nも、もう…帰るのか？\n\n# voice 1001 \"masamune_0042\"\n@マサムネ\n…………\n\n# face %(unit_a)s \"normal\"\n@マサムネ\nそ、そうだ…！\n\n@マサムネ\nい、今から質問を\nさせてもらう！\n\n@マサムネ\nよ～く考えて、\n答えてみてくれ！\n\n# voice 1001 \"masamune_0036\"\n# face %(unit_a)s \"angry\"\n@マサムネ\nでは…参る！\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n拙者と違う血液型なのは\n誰かおわかりでしょうか？\n\n# se \"SE_0734\"\n# select  \"フォルカス\" \"select_label_1\" \"アスカロン\" \"select_label_2\" \"シユウ\" \"select_label_3\"\n拙者と違う血液型なのは\n誰かおわかりでしょうか？\n"
+	},
+	{
+		"ID": 3690,
+		"unitID": 2100111,
+		"questionID": 9100140,
+		"script": ";;ティルフィング,1\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 1001 \"masamune_0001\"\n@マサムネ\nしゅ、主君…\n\n@マサムネ\nも、もう…帰るのか？\n\n# voice 1001 \"masamune_0042\"\n@マサムネ\n…………\n\n# face %(unit_a)s \"normal\"\n@マサムネ\nそ、そうだ…！\n\n@マサムネ\nい、今から質問を\nさせてもらう！\n\n@マサムネ\nよ～く考えて、\n答えてみてくれ！\n\n# voice 1001 \"masamune_0036\"\n# face %(unit_a)s \"angry\"\n@マサムネ\nでは…参る！\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n拙者と同じ誕生月なのは\n誰かおわかりでしょうか？\n\n# se \"SE_0734\"\n# select  \"ティルフィング\" \"select_label_1\" \"テュルソス\" \"select_label_2\" \"ミストルティン\" \"select_label_3\"\n拙者と同じ誕生月なのは\n誰かおわかりでしょうか？\n"
+	},
+	{
+		"ID": 3691,
+		"unitID": 2100111,
+		"questionID": 9100141,
+		"script": "\n;;拙者,1\n# se \"SE_0734\"\n# select \"拙者\" \"select_label_1\" \"小生\" \"select_label_2\" \"我\" \"select_label_3\"\nマサムネの一人称は\n次のうちどれ？\n"
+	},
+	{
+		"ID": 3692,
+		"unitID": 2100111,
+		"questionID": 9100142,
+		"script": "\n;;主君,3\n# se \"SE_0734\"\n# select \"ご主人\" \"select_label_1\" \"マスター\" \"select_label_2\" \"主君\" \"select_label_3\"\nマサムネはアンタのこと\nなんて呼んでる？\n"
+	},
+	{
+		"ID": 3693,
+		"unitID": 2100111,
+		"questionID": 9100143,
+		"script": "\n;;87,2\n# se \"SE_0734\"\n# select \"80\" \"select_label_1\" \"87\" \"select_label_2\" \"82\" \"select_label_3\"\nマサムネの\nバストサイズがどのくらいか\nアンタ…知ってるの？\n"
+	},
+	{
+		"ID": 3694,
+		"unitID": 2100111,
+		"questionID": 9100144,
+		"script": "\n;;56,1\n# se \"SE_0734\"\n# select \"56\" \"select_label_1\" \"60\" \"select_label_2\" \"61\" \"select_label_3\"\nマサムネの\nウエストサイズがどのくらいか\nアンタ…知ってるの？\n"
+	},
+	{
+		"ID": 3695,
+		"unitID": 2100111,
+		"questionID": 9100145,
+		"script": "\n;;85,1\n# se \"SE_0734\"\n# select \"85\" \"select_label_1\" \"82\" \"select_label_2\" \"88\" \"select_label_3\"\nマサムネの\nヒップサイズがどのくらいか\nアンタ…知ってるの？\n"
+	},
+	{
+		"ID": 3696,
+		"unitID": 2100111,
+		"questionID": 9100146,
+		"script": "\n;;48,3\n# se \"SE_0734\"\n# select \"45\" \"select_label_1\" \"51\" \"select_label_2\" \"48\" \"select_label_3\"\nマサムネの体重は\n次のうちどれ？\n"
+	},
+	{
+		"ID": 3697,
+		"unitID": 2100111,
+		"questionID": 9100147,
+		"script": "\n;;228,2\n# se \"SE_0734\"\n# select \"222\" \"select_label_1\" \"228\" \"select_label_2\" \"232\" \"select_label_3\"\nマサムネの\nバスト＋ウエスト＋ヒップは\nいくつかわかる？\n"
+	},
+	{
+		"ID": 3698,
+		"unitID": 2100111,
+		"questionID": 9100148,
+		"script": "\n;;黒,1\n# se \"SE_0734\"\n# select \"黒\" \"select_label_1\" \"黄\" \"select_label_2\" \"赤\" \"select_label_3\"\nマサムネの水着の色は\n次のうちどれ？\n"
+	},
+	{
+		"ID": 3699,
+		"unitID": 2100111,
+		"questionID": 9100149,
+		"script": "\n;;8位,2\n# se \"SE_0734\"\n# select \"5位\" \"select_label_1\" \"8位\" \"select_label_2\" \"18位\" \"select_label_3\"\nマサムネは\n第２回人気投票で\n何位だったでしょう？\n"
+	},
+	{
+		"ID": 3700,
+		"unitID": 2100111,
+		"questionID": 9100150,
+		"script": "\n;;井上麻里奈,3\n# se \"SE_0734\"\n# select \"斎藤千和\" \"select_label_1\" \"小林ゆう\" \"select_label_2\" \"井上麻里奈\" \"select_label_3\"\nマサムネの声優は誰？\n"
+	}
+]

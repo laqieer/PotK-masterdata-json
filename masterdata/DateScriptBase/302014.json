@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 302014,
+		"script": "# script \"lisp\"\n# fadein \"black\" 0.5\n# background %(background)s\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 3020 \"pisear_0027\"\n@ピサール\nえ～別にいいでしょ～\n見えなくたって～…\n\n# textflame 0 0\n@\n水槽に体をつけたまま\nピサールは視線だけ\nマスターに向ける\n\n# voice 3020 \"pisear_kyara_1013\"\n# textflame 1 1\n@ピサール\nマスターはわたしを\n見れてばいいでしょ～？\n\n# textflame 0 0\n@\nその通りだなと笑いながら\n水槽にひっついてだらける彼女を\nいつまでも眺めていた…\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

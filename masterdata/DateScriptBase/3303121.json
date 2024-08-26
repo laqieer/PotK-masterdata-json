@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 3303121,
+		"script": ";;A中\n;;B大\n;;C小\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_onsen\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# eye %(unit_a)s \"close\"\n# textflame 0 0\n@\nカシウスとマスターは\n日頃の疲れを癒すために\n二人で温泉にやってきていた\n\n@\n気持ち良さそうに\n目を閉じるカシウス\nそして、沈黙が続く\n\n@\nすると、パッと\nカシウスが目を開いた\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"usual\"\n# voice 530311 \"cassius_ca_0011\"\n# textflame 1 1\n@カシウス\nこれではせっかく\n御館様と来た意味がないわ\n\n@カシウス\n……でも\nなにをすればいいの？\n\n# select \"背中流そうか\" \"select_label_01\" \"おしゃべりしない？\" \"select_label_02\" \"温泉を楽しもう！\" \"select_label_03\"\n……でも\nなにをすればいいの？\n\n# label \"select_label_01\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_02\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_03\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# textflame 1 1\n# waitandnext 0.1\n\n# label \"select_label_end\"\n# waitandnext 2\n# fadeout \"black\" 1.2\n"
+	}
+]

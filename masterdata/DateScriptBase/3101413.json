@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 3101413,
+		"script": "# script \"lisp\"\n# fadein \"black\" 0.5\n# background %(background)s\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# voice 1014 \"tyrufing_0005\"\n@ティルフィング\nふふっ…あんな風に泳げたら、\nきっと水の中が\nもっと楽しくなりますね\n\n@\nそう言って、ティルフィングは\n水槽を見てまわる\n\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n# voice 1014 \"tyrufing_0001\"\n@ティルフィング\nマスター、見てください\nあっちの水槽には\nすごくカラフルな魚がっ…！\n\n# textflame 0 0\n@\n急かすティルフィングに手を引かれ、\n騒がしくも楽しい時間は、\nあわただしく過ぎていった…\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

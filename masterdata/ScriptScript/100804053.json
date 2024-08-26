@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 100804053,
+		"script": "# background \"underground_world_2\"\n# bgmfile \"bgm271\" \"BgmLostRagnarokEvent\" 0\n# body 3810001\n# pos 3810001 3\n# scale 3810001 0.8 0\n# alpha 3810001 1 0\n# mask 3810001 off\n# body 3101411\n# pos 3101411 3\n# scale 3101411 0.8 0\n# alpha 3101411 0 0\n# mask 3101411 off\n# body 3503211\n# pos 3503211 3\n# scale 3503211 0.8 0\n# alpha 3503211 0 0\n# mask 3503211 off\n# textboxarrow 0 2\n@ハルモニア兵\n斬ル姫を決して教皇様に\n近づけてはなりません！\n命を賭してお守りしましょう！\n\n# alpha 3810001 0 0.5\n# alpha 3101411 1 0.5\n# face 3101411 \"angry\"\n# voice 310141 \"tyrufing_lo_0037\"\n@ティルフィング\nお願いです\n道を空けて下さい\n私は教皇と話したいだけなんです\n\n# alpha 3810001 1 0.5\n# alpha 3101411 0 0.5\n@ハルモニア兵\nそのような戯れ言を…！\n\n# serif 1\n@ティファレト\n構いません\n道を空けなさい\n\n# serif 1\n# textwindow \"close\"\n# serif 0\n# textwindow \"nomal\"\n@ハルモニア兵\n教皇様！？\nあまりに危険ですっ…\n今は護衛の斬ル姫も――\n\n# alpha 3810001 0 0.5\n# alpha 3503211 1 0.5\n;; # face 3503211 \"\"\n# voice 5032 \"tiphereth_t_0003\"\n@ティファレト\n心配はいりません\nさあ、ティルフィング\n中へどうぞ"
+	}
+]

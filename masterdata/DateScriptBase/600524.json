@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 600524,
+		"script": "# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_room\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# face %(unit_a)s \"angry\"\n@ケーリュケイオン\nそれとこれとは話がべ～つ♪\n\n@ケーリュケイオン\nこれは私のポリシーだから、\n変えられないし\n変えるつもりもないの\n\n# face %(unit_a)s \"sad\"\n@ケーリュケイオン\nもちろん、マスターのお願いなら\nどんなことでも調べてくるけど…\n\n# voice 6005 \"keryukeion_0004\"\n# face %(unit_a)s \"smile\"\n@ケーリュケイオン\nやっぱり\nご褒美があるとないとじゃ\n気の入り方も違うしね～♪\n\n# textflame 0 0\n@\nそう言って笑うケーリュケイオン\nの笑顔はとても魅力的だった\n;;----------------------------------------\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 500123,
+		"script": ";;選択肢A(中当たり)\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_drive\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# voice 5001 \"keraunosu_0003\"\n@ケラウノス\n言うね～♪\n君にしてはびっくりの\nプレイボーイ発言だねぇ！\n\n# face %(unit_a)s \"normal\"\n@ケラウノス\nそういうの…\n\n# face %(unit_a)s \"smile\"\n@ケラウノス\n全然キライじゃないよ\nむしろ好き！\n\n# textflame 0 0\n@\n助手席のケラウノスは\n足を組んで気取りだす\n\n# voice 5001 \"keraunosu_0005\"\n# textflame 1 1\n@ケラウノス\nサングラス持ってくればよかった！\nそのほうが雰囲気出たのに～♪\nあははっ♪\n\n# textflame 0 0\n@\n美女は助手席に乗ると\n本当に映えるんだと知る\nマスターなのであった…\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

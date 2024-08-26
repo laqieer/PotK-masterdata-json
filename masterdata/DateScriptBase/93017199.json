@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 93017199,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# se \"SE_0732\"\n# voice 3017 \"wotan_0003\"\n@ヴォータン\nでかした！\nさすが、私のマスターだ！\n\n@ヴォータン\nやればできるじゃないか！\n\n@ヴォータン\nお前のこと\nほんの少しだけ見直したぞ！\n\n# voice 3017 \"wotan_0030\"\n@ヴォータン\nクイズに正解してくれて\n礼を言うぞ！\n\n# textflame 0 0\n@\nまさかクイズに正解しただけで、\n彼女がこんなにも喜んでくれるとは\n思いもしてなかった\n\n@\nそれだけに\nマスターも彼女の笑顔が見られて\n心から嬉しく思った\n\n@\nまた彼女との絆が\n深まったのを実感した…\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

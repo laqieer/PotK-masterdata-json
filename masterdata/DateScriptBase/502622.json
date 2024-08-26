@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 502622,
+		"script": ";;大A寂しいよね…\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_onsen\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n@ゆんゆん\nはい…そうですね\n同じことを考えてました\n\n# face %(unit_a)s \"normal\"\n# voice 250261 \"yunyun_0022\"\n@ゆんゆん\nあっ！違うわよ！\n\n@ゆんゆん\n一緒に入りたいって\n言っているわけじゃないんだからね！\n\n# textflame 0 0\n@\n分かってる\nと、マスターは答えた\n\n# textflame 1 1\n@ゆんゆん\nだ、だったらいいわ…\n\n# voice 250261 \"yunyun_0028\"\n@ゆんゆん\nだけど、\nどうしてもって言うなら…\n\n@ゆんゆん\n…………\n\n@ゆんゆん\nや、やっぱり無理！\nとにかく、あとで会いましょう！\n\n# textflame 0 0\n@\n大慌てで去って行くゆんゆん\n\n# textflame 0 0\n@\nマスターはそんな彼女を見て\nとても微笑ましく思った\n\n;;-----------------------------------------\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 3160042,
+		"script": "# script \"lisp\"\n# background \"antiquity\"\n# bgm \"bgm001\" 0\n# body 0\n# mask 0 off\n# pos 0 5\n# face 0 \"angry\"\n# scale 0 0.7 0\n# body 24\n# mask 24 off\n# pos 24 1\n# scale 24 0.8 0\n# textflame 1 1\n# textboxarrow 0 3\n# voice 9999 \"durin_0052\"\n# textflame 1 1\n@デュリン\nったく、いないじゃないの！\nガセなんじゃないのその情報！！\n\n# serif 1\n# voice 1014 \"tyrufing_0002\"\n# textboxarrow 1 1\n# face 24 \"sad\"\n@ティルフィング\nあのでも…かなり昔から\nこの古城には妖ないし、\n美女の幽霊がいると噂されてます…\n\n# serif 0\n# textboxarrow 0 3\n# voice 9999 \"durin_0028\"\n@デュリン\nそんな気配さっぱりないじゃない\nうじゃうじゃ異族と魔物がいて\nただの危険な建物よ！\n\n# serif 1\n# textboxarrow 1 1\n# voice 1014 \"tyrufing_0013\"\n# face 24 \"angry\"\n@ティルフィング\nしかし…\nもう少しだけ\n確認に進みましょう\n\n# serif 0\n# textboxarrow 0 3\n# voice 9999 \"durin_0027\"\n# face 0 \"worry\"\n@デュリン\nはぁ…ティルはこうなっちゃうと\n絶対聞く耳持たないんだから…\n\n# face 0 \"occur\"\n@デュリン\nじゃあ、もう少しだけね\n行くわよ！\n\n# face 24 \"normal\"\n# serif 1\n# textboxarrow 1 1\n@ティルフィング\nはい！\n"
+	}
+]

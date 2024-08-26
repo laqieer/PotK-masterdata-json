@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 300314,
+		"script": ";;C小当り\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_hauntedhouse\"\n# bgmfile \"bgm257\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# voice 3003 \"hotengageki_0025\"\n# face %(unit_a)s \"sad\"\n@方天画戟\n…っ！\n\n# voice 3003 \"hotengageki_0004\"\n# face %(unit_a)s \"normal\"\n@方天画戟\nこの方天画戟に…\n後ろから忍び寄るとは\nいい度胸だ！！\n\n# textflame 0 0\n@\nマスターの視界に\n派手にぶっ飛ばされる\nお化けが横切った\n\n@\nこのあと係員に\nむちゃくちゃ平謝りする\n未来が見えるマスターだった…\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

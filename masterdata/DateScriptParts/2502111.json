@@ -1,0 +1,26 @@
+[
+	{
+		"ID": 175,
+		"unitID": 2502111,
+		"scriptID": "kaerimichi",
+		"script": "まだマスターについて\n知るべきことがたくさんあります…\nというわけで、次に行きましょう！"
+	},
+	{
+		"ID": 189,
+		"unitID": 2502111,
+		"scriptID": "kaeru",
+		"script": "今日はマスターについて\nたくさん知ることができました\nでは、そろそろ帰りましょうか"
+	},
+	{
+		"ID": 203,
+		"unitID": 2502111,
+		"scriptID": "kaeru_ok",
+		"script": "@%(unitName:unit_a)s\n少々お待ちください\n手帳を持ってまいりますので！"
+	},
+	{
+		"ID": 217,
+		"unitID": 2502111,
+		"scriptID": "kaeru_ng",
+		"script": "@%(unitName:unit_a)s\nすみません…それが…\n手帳のページ数が少なく…\n家に予備を取りに行かねばですね…"
+	}
+]

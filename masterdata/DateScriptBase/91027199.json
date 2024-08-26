@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 91027199,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# voice 1027 \"solais_0021\"\n# se \"SE_0732\"\n@クラウ・ソラス\n私の誇りは…\nしっかりあなたに\n伝わっていたようだ！\n\n# voice 1027 \"solais_0031\"\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n@クラウ・ソラス\n不躾な質問を\nしてしまってすまない…\n\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n@クラウ・ソラス\n…でもお陰で\nとても清々しい気分になれたよ\n\n# voice 1027 \"solais_0003\"\n# textflame 0 0\n@\n照れたようにうつむく彼女は\nとても嬉しそうだった\n\n# textflame 0 0\n@\nそんな表情をみることが出来て\n彼女との絆が\nまた深まったのを実感した…\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

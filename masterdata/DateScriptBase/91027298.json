@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 91027298,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# se \"SE_0733\"\n# face %(unit_a)s \"sad\"\n# voice 1027 \"solais_0015\"\n@クラウ・ソラス\n残念、不正解だ…\n\n# voice 1027 \"solais_0031\"\n# textflame 1 1\n@クラウ・ソラス\nいや、いいんだ！\n何事も順序が大切だからね\n\n# textflame 1 1\n@クラウ・ソラス\n一方的に知ってほしいなどと…\nわがままがすぎるというものだ\n\n# voice 1027 \"solais_0008\"\n# textflame 1 1\n@クラウ・ソラス\nもっとゆっくり…\n距離を縮めていかないとね…？\n\n# voice 1027 \"solais_0027\"\n# textflame 1 1\n# eye %(unit_a)s \"close\"\n@クラウ・ソラス\n…………\n\n# textflame 0 0\n@\n彼女はうつむいた顔は\nあからさまにしょんぼりしていた…\n\n# textflame 1 1\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"smile\"\n@クラウ・ソラス\n戻るとしようか…！\n\n# textflame 0 0\n@\nさっきまで楽しそうだったのに\n台無しにしてしまった\nせっかくのデートなのに…\n\n# textflame 0 0\n@\nどんな質問にも答えられるように\n彼女のことを\n復習しておかないとな…\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

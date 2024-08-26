@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 95005399,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# se \"SE_0732\"\n# voice 5005 \"vajura_0041\"\n@ヴァジュラ\nすげぇな！\n正解だ！\n\n@ヴァジュラ\nさっきの射的も\nそうだったけどさ…\n\n# face %(unit_a)s \"usual\"\n@ヴァジュラ\nキミって\n“バチコーン！”\nって\n\n@ヴァジュラ\nあたしのハート\n撃ち抜いてくれるよな\n\n# face %(unit_a)s \"smile\"\n# voice 5005 \"vajura_0004\"\n@ヴァジュラ\nへへ、ホントいい腕した\nスナイパーだよ！\n\n# voice 5005 \"vajura_0036\"\n@ヴァジュラ\nまた…\n遊びに行こうな？\n\n# textflame 0 0\n@\n嬉しそうな笑顔で\n誘ってくれる彼女…\n\n@\nマスターは２人の絆が\nまた深まったのを実感した…\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 501424,
+		"script": ";;B\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_shipboard\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# face %(unit_a)s \"normal\"\n# voice 5014 \"mami_0003\"\n# textflame 1 1\n@%(unitName:unit_a)s\nそうね、おなかも空いてきたし…\nまずは腹ごしらえかしら\n\n@%(unitName:unit_a)s\nそれじゃさっそく、\n料理をよそいに行きましょう！\n\n# face %(unit_a)s \"happy\"\n# voice 5014 \"mami_0020\"\n@%(unitName:unit_a)s\nわぁ…\n船のパーティーだからか、\n海の幸がたくさんあるわね\n\n# voice 5014 \"mami_0001\"\n@%(unitName:unit_a)s\nあなたはどれにする？\n私は…こっちにしようかしら\n\n# voice 5014 \"mami_0004\"\n@%(unitName:unit_a)s\nふふ…こうしてお皿を並べると、\nお互いの好みがわかって\n楽しいわよね♪\n\n@%(unitName:unit_a)s\nあっ、見て！\n向こうにデザートも並んでるわ！\n\n@%(unitName:unit_a)s\n後でいっしょに\n選びに行きましょう\nふふっ、楽しみね♪\n\n# textflame 0 0\n@\n豪勢な料理の数々に\n二人はしばし舌鼓を打つ\n\n@\n食後には甘いお菓子とともに\n何気ない会話を楽しんだ…\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

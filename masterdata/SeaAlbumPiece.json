@@ -1,0 +1,812 @@
+[
+	{
+		"ID": 101,
+		"album_id": 1,
+		"piece_id": 1,
+		"same_character_id": 230241,
+		"name": "蜻蛉切の欠片",
+		"count": 3,
+		"is_released": 0
+	},
+	{
+		"ID": 102,
+		"album_id": 1,
+		"piece_id": 2,
+		"same_character_id": 210081,
+		"name": "グラムの欠片",
+		"count": 3,
+		"is_released": 0
+	},
+	{
+		"ID": 103,
+		"album_id": 1,
+		"piece_id": 3,
+		"same_character_id": 220201,
+		"name": "ハルパーの欠片",
+		"count": 3,
+		"is_released": 0
+	},
+	{
+		"ID": 104,
+		"album_id": 1,
+		"piece_id": 4,
+		"same_character_id": 230041,
+		"name": "天沼矛の欠片",
+		"count": 3,
+		"is_released": 0
+	},
+	{
+		"ID": 105,
+		"album_id": 1,
+		"piece_id": 5,
+		"same_character_id": 220081,
+		"name": "ペルーンの欠片",
+		"count": 3,
+		"is_released": 0
+	},
+	{
+		"ID": 106,
+		"album_id": 1,
+		"piece_id": 6,
+		"same_character_id": 240051,
+		"name": "与一の欠片",
+		"count": 3,
+		"is_released": 0
+	},
+	{
+		"ID": 107,
+		"album_id": 1,
+		"piece_id": 7,
+		"same_character_id": 210091,
+		"name": "バルムンクの欠片",
+		"count": 3,
+		"is_released": 0
+	},
+	{
+		"ID": 108,
+		"album_id": 1,
+		"piece_id": 8,
+		"same_character_id": 260081,
+		"name": "グリダヴォルの欠片",
+		"count": 3,
+		"is_released": 0
+	},
+	{
+		"ID": 109,
+		"album_id": 1,
+		"piece_id": 9,
+		"same_character_id": 240021,
+		"name": "ピナーカの欠片",
+		"count": 3,
+		"is_released": 0
+	},
+	{
+		"ID": 110,
+		"album_id": 1,
+		"piece_id": 10,
+		"same_character_id": 250031,
+		"name": "八咫鏡の欠片",
+		"count": 3,
+		"is_released": 0
+	},
+	{
+		"ID": 111,
+		"album_id": 1,
+		"piece_id": 11,
+		"same_character_id": 230081,
+		"name": "グングニルの欠片",
+		"count": 3,
+		"is_released": 0
+	},
+	{
+		"ID": 112,
+		"album_id": 1,
+		"piece_id": 12,
+		"same_character_id": 250081,
+		"name": "芭蕉扇の欠片",
+		"count": 3,
+		"is_released": 0
+	},
+	{
+		"ID": 113,
+		"album_id": 1,
+		"piece_id": 13,
+		"same_character_id": 210231,
+		"name": "アスカロンの欠片",
+		"count": 3,
+		"is_released": 0
+	},
+	{
+		"ID": 114,
+		"album_id": 1,
+		"piece_id": 14,
+		"same_character_id": 220161,
+		"name": "シタの欠片",
+		"count": 3,
+		"is_released": 0
+	},
+	{
+		"ID": 115,
+		"album_id": 1,
+		"piece_id": 15,
+		"same_character_id": 220051,
+		"name": "ミトゥムの欠片",
+		"count": 3,
+		"is_released": 0
+	},
+	{
+		"ID": 116,
+		"album_id": 1,
+		"piece_id": 16,
+		"same_character_id": 210111,
+		"name": "エクスカリバーの欠片",
+		"count": 3,
+		"is_released": 0
+	},
+	{
+		"ID": 117,
+		"album_id": 1,
+		"piece_id": 17,
+		"same_character_id": 220011,
+		"name": "ミョルニルの欠片",
+		"count": 3,
+		"is_released": 0
+	},
+	{
+		"ID": 118,
+		"album_id": 1,
+		"piece_id": 18,
+		"same_character_id": 230011,
+		"name": "ロンギヌスの欠片",
+		"count": 3,
+		"is_released": 0
+	},
+	{
+		"ID": 119,
+		"album_id": 1,
+		"piece_id": 19,
+		"same_character_id": 210041,
+		"name": "草薙剣の欠片",
+		"count": 3,
+		"is_released": 0
+	},
+	{
+		"ID": 120,
+		"album_id": 1,
+		"piece_id": 20,
+		"same_character_id": 240101,
+		"name": "アバリスの欠片",
+		"count": 3,
+		"is_released": 0
+	},
+	{
+		"ID": 121,
+		"album_id": 1,
+		"piece_id": 21,
+		"same_character_id": 210271,
+		"name": "クラウ・ソラスの欠片",
+		"count": 3,
+		"is_released": 0
+	},
+	{
+		"ID": 122,
+		"album_id": 1,
+		"piece_id": 22,
+		"same_character_id": 260131,
+		"name": "シストルムの欠片",
+		"count": 3,
+		"is_released": 0
+	},
+	{
+		"ID": 123,
+		"album_id": 1,
+		"piece_id": 23,
+		"same_character_id": 230031,
+		"name": "方天画戟の欠片",
+		"count": 3,
+		"is_released": 0
+	},
+	{
+		"ID": 124,
+		"album_id": 1,
+		"piece_id": 24,
+		"same_character_id": 250011,
+		"name": "ケラウノスの欠片",
+		"count": 3,
+		"is_released": 0
+	},
+	{
+		"ID": 125,
+		"album_id": 1,
+		"piece_id": 25,
+		"same_character_id": 250061,
+		"name": "メギドの欠片",
+		"count": 3,
+		"is_released": 0
+	},
+	{
+		"ID": 126,
+		"album_id": 1,
+		"piece_id": 26,
+		"same_character_id": 210121,
+		"name": "アダマスの欠片",
+		"count": 3,
+		"is_released": 0
+	},
+	{
+		"ID": 127,
+		"album_id": 1,
+		"piece_id": 27,
+		"same_character_id": 240011,
+		"name": "アルテミスの欠片",
+		"count": 3,
+		"is_released": 0
+	},
+	{
+		"ID": 128,
+		"album_id": 1,
+		"piece_id": 28,
+		"same_character_id": 0,
+		"name": "",
+		"count": 0,
+		"is_released": 1
+	},
+	{
+		"ID": 129,
+		"album_id": 1,
+		"piece_id": 29,
+		"same_character_id": 0,
+		"name": "",
+		"count": 0,
+		"is_released": 1
+	},
+	{
+		"ID": 130,
+		"album_id": 1,
+		"piece_id": 30,
+		"same_character_id": 0,
+		"name": "",
+		"count": 0,
+		"is_released": 1
+	},
+	{
+		"ID": 201,
+		"album_id": 2,
+		"piece_id": 1,
+		"same_character_id": 210051,
+		"name": "リットゥの欠片",
+		"count": 3,
+		"is_released": 0
+	},
+	{
+		"ID": 202,
+		"album_id": 2,
+		"piece_id": 2,
+		"same_character_id": 220041,
+		"name": "パラシュの欠片",
+		"count": 3,
+		"is_released": 0
+	},
+	{
+		"ID": 203,
+		"album_id": 2,
+		"piece_id": 3,
+		"same_character_id": 230181,
+		"name": "フォルカスの欠片",
+		"count": 3,
+		"is_released": 0
+	},
+	{
+		"ID": 204,
+		"album_id": 2,
+		"piece_id": 4,
+		"same_character_id": 240071,
+		"name": "シェキナーの欠片",
+		"count": 3,
+		"is_released": 0
+	},
+	{
+		"ID": 205,
+		"album_id": 2,
+		"piece_id": 5,
+		"same_character_id": 250171,
+		"name": "グリモワールの欠片",
+		"count": 3,
+		"is_released": 0
+	},
+	{
+		"ID": 206,
+		"album_id": 2,
+		"piece_id": 6,
+		"same_character_id": 260011,
+		"name": "アスクレピオスの欠片",
+		"count": 3,
+		"is_released": 0
+	},
+	{
+		"ID": 207,
+		"album_id": 2,
+		"piece_id": 7,
+		"same_character_id": 210261,
+		"name": "カラドボルグの欠片",
+		"count": 3,
+		"is_released": 0
+	},
+	{
+		"ID": 208,
+		"album_id": 2,
+		"piece_id": 8,
+		"same_character_id": 210281,
+		"name": "ダーインスレイヴの欠片",
+		"count": 3,
+		"is_released": 0
+	},
+	{
+		"ID": 209,
+		"album_id": 2,
+		"piece_id": 9,
+		"same_character_id": 220171,
+		"name": "ヤグルシの欠片",
+		"count": 3,
+		"is_released": 0
+	},
+	{
+		"ID": 210,
+		"album_id": 2,
+		"piece_id": 10,
+		"same_character_id": 220031,
+		"name": "ラブリュスの欠片",
+		"count": 3,
+		"is_released": 0
+	},
+	{
+		"ID": 211,
+		"album_id": 2,
+		"piece_id": 11,
+		"same_character_id": 230061,
+		"name": "トリシューラの欠片",
+		"count": 3,
+		"is_released": 0
+	},
+	{
+		"ID": 212,
+		"album_id": 2,
+		"piece_id": 12,
+		"same_character_id": 230211,
+		"name": "ガ・ボーの欠片",
+		"count": 3,
+		"is_released": 0
+	},
+	{
+		"ID": 213,
+		"album_id": 2,
+		"piece_id": 13,
+		"same_character_id": 250161,
+		"name": "フラベルムの欠片",
+		"count": 3,
+		"is_released": 0
+	},
+	{
+		"ID": 214,
+		"album_id": 2,
+		"piece_id": 14,
+		"same_character_id": 250071,
+		"name": "ブリューナクの欠片",
+		"count": 3,
+		"is_released": 0
+	},
+	{
+		"ID": 215,
+		"album_id": 2,
+		"piece_id": 15,
+		"same_character_id": 210141,
+		"name": "ティルフィングの欠片",
+		"count": 3,
+		"is_released": 0
+	},
+	{
+		"ID": 216,
+		"album_id": 2,
+		"piece_id": 16,
+		"same_character_id": 210131,
+		"name": "パラケルススの欠片",
+		"count": 3,
+		"is_released": 0
+	},
+	{
+		"ID": 217,
+		"album_id": 2,
+		"piece_id": 17,
+		"same_character_id": 220061,
+		"name": "ダグダの欠片",
+		"count": 3,
+		"is_released": 0
+	},
+	{
+		"ID": 218,
+		"album_id": 2,
+		"piece_id": 18,
+		"same_character_id": 250051,
+		"name": "ヴァジュラの欠片",
+		"count": 3,
+		"is_released": 0
+	},
+	{
+		"ID": 219,
+		"album_id": 2,
+		"piece_id": 19,
+		"same_character_id": 260021,
+		"name": "ガンバンテインの欠片",
+		"count": 3,
+		"is_released": 0
+	},
+	{
+		"ID": 220,
+		"album_id": 2,
+		"piece_id": 20,
+		"same_character_id": 260041,
+		"name": "カドケウスの欠片",
+		"count": 3,
+		"is_released": 0
+	},
+	{
+		"ID": 221,
+		"album_id": 2,
+		"piece_id": 21,
+		"same_character_id": 210101,
+		"name": "フラガラッハの欠片",
+		"count": 3,
+		"is_released": 0
+	},
+	{
+		"ID": 222,
+		"album_id": 2,
+		"piece_id": 22,
+		"same_character_id": 220101,
+		"name": "ウコンバサラの欠片",
+		"count": 3,
+		"is_released": 0
+	},
+	{
+		"ID": 223,
+		"album_id": 2,
+		"piece_id": 23,
+		"same_character_id": 230141,
+		"name": "イシューリエルの欠片",
+		"count": 3,
+		"is_released": 0
+	},
+	{
+		"ID": 224,
+		"album_id": 2,
+		"piece_id": 24,
+		"same_character_id": 230201,
+		"name": "ピサールの欠片",
+		"count": 3,
+		"is_released": 0
+	},
+	{
+		"ID": 225,
+		"album_id": 2,
+		"piece_id": 25,
+		"same_character_id": 240061,
+		"name": "梓弓の欠片",
+		"count": 3,
+		"is_released": 0
+	},
+	{
+		"ID": 226,
+		"album_id": 2,
+		"piece_id": 26,
+		"same_character_id": 240081,
+		"name": "オティヌスの欠片",
+		"count": 3,
+		"is_released": 0
+	},
+	{
+		"ID": 227,
+		"album_id": 2,
+		"piece_id": 27,
+		"same_character_id": 250211,
+		"name": "セファーの欠片",
+		"count": 3,
+		"is_released": 0
+	},
+	{
+		"ID": 228,
+		"album_id": 2,
+		"piece_id": 28,
+		"same_character_id": 260051,
+		"name": "ケーリュケイオンの欠片",
+		"count": 3,
+		"is_released": 0
+	},
+	{
+		"ID": 229,
+		"album_id": 2,
+		"piece_id": 29,
+		"same_character_id": 0,
+		"name": "",
+		"count": 0,
+		"is_released": 1
+	},
+	{
+		"ID": 230,
+		"album_id": 2,
+		"piece_id": 30,
+		"same_character_id": 0,
+		"name": "",
+		"count": 0,
+		"is_released": 1
+	},
+	{
+		"ID": 301,
+		"album_id": 3,
+		"piece_id": 1,
+		"same_character_id": 210251,
+		"name": "ムラマサの欠片",
+		"count": 3,
+		"is_released": 0
+	},
+	{
+		"ID": 302,
+		"album_id": 3,
+		"piece_id": 2,
+		"same_character_id": 210021,
+		"name": "レーヴァテインの欠片",
+		"count": 3,
+		"is_released": 0
+	},
+	{
+		"ID": 303,
+		"album_id": 3,
+		"piece_id": 3,
+		"same_character_id": 220071,
+		"name": "シャルウルの欠片",
+		"count": 3,
+		"is_released": 0
+	},
+	{
+		"ID": 304,
+		"album_id": 3,
+		"piece_id": 4,
+		"same_character_id": 220191,
+		"name": "シユウの欠片",
+		"count": 3,
+		"is_released": 0
+	},
+	{
+		"ID": 305,
+		"album_id": 3,
+		"piece_id": 5,
+		"same_character_id": 230021,
+		"name": "トライデントの欠片",
+		"count": 3,
+		"is_released": 0
+	},
+	{
+		"ID": 306,
+		"album_id": 3,
+		"piece_id": 6,
+		"same_character_id": 230101,
+		"name": "ロンゴミアントの欠片",
+		"count": 3,
+		"is_released": 0
+	},
+	{
+		"ID": 307,
+		"album_id": 3,
+		"piece_id": 7,
+		"same_character_id": 240131,
+		"name": "アフロディーテの欠片",
+		"count": 3,
+		"is_released": 0
+	},
+	{
+		"ID": 308,
+		"album_id": 3,
+		"piece_id": 8,
+		"same_character_id": 250041,
+		"name": "ブラフマーストラの欠片",
+		"count": 3,
+		"is_released": 0
+	},
+	{
+		"ID": 309,
+		"album_id": 3,
+		"piece_id": 9,
+		"same_character_id": 260061,
+		"name": "ミストルティンの欠片",
+		"count": 3,
+		"is_released": 0
+	},
+	{
+		"ID": 310,
+		"album_id": 3,
+		"piece_id": 10,
+		"same_character_id": 260111,
+		"name": "ヴァナルガンドの欠片",
+		"count": 3,
+		"is_released": 0
+	},
+	{
+		"ID": 311,
+		"album_id": 3,
+		"piece_id": 11,
+		"same_character_id": 240041,
+		"name": "エロースの欠片",
+		"count": 3,
+		"is_released": 0
+	},
+	{
+		"ID": 312,
+		"album_id": 3,
+		"piece_id": 12,
+		"same_character_id": 210031,
+		"name": "デュランダルの欠片",
+		"count": 3,
+		"is_released": 0
+	},
+	{
+		"ID": 313,
+		"album_id": 3,
+		"piece_id": 13,
+		"same_character_id": 220021,
+		"name": "アイムールの欠片",
+		"count": 3,
+		"is_released": 0
+	},
+	{
+		"ID": 314,
+		"album_id": 3,
+		"piece_id": 14,
+		"same_character_id": 230051,
+		"name": "ルーンの欠片",
+		"count": 3,
+		"is_released": 0
+	},
+	{
+		"ID": 315,
+		"album_id": 3,
+		"piece_id": 15,
+		"same_character_id": 250241,
+		"name": "雑賀の欠片",
+		"count": 3,
+		"is_released": 0
+	},
+	{
+		"ID": 316,
+		"album_id": 3,
+		"piece_id": 16,
+		"same_character_id": 210011,
+		"name": "マサムネの欠片",
+		"count": 3,
+		"is_released": 0
+	},
+	{
+		"ID": 317,
+		"album_id": 3,
+		"piece_id": 17,
+		"same_character_id": 210071,
+		"name": "アロンダイトの欠片",
+		"count": 3,
+		"is_released": 0
+	},
+	{
+		"ID": 318,
+		"album_id": 3,
+		"piece_id": 18,
+		"same_character_id": 220131,
+		"name": "レシェフの欠片",
+		"count": 3,
+		"is_released": 0
+	},
+	{
+		"ID": 319,
+		"album_id": 3,
+		"piece_id": 19,
+		"same_character_id": 220121,
+		"name": "スラーンドの欠片",
+		"count": 3,
+		"is_released": 0
+	},
+	{
+		"ID": 320,
+		"album_id": 3,
+		"piece_id": 20,
+		"same_character_id": 230091,
+		"name": "青龍偃月刀の欠片",
+		"count": 3,
+		"is_released": 0
+	},
+	{
+		"ID": 321,
+		"album_id": 3,
+		"piece_id": 21,
+		"same_character_id": 230171,
+		"name": "ヴォータンの欠片",
+		"count": 3,
+		"is_released": 0
+	},
+	{
+		"ID": 322,
+		"album_id": 3,
+		"piece_id": 22,
+		"same_character_id": 240031,
+		"name": "アポロンの欠片",
+		"count": 3,
+		"is_released": 0
+	},
+	{
+		"ID": 323,
+		"album_id": 3,
+		"piece_id": 23,
+		"same_character_id": 250201,
+		"name": "タスラムの欠片",
+		"count": 3,
+		"is_released": 0
+	},
+	{
+		"ID": 324,
+		"album_id": 3,
+		"piece_id": 24,
+		"same_character_id": 260031,
+		"name": "テュルソスの欠片",
+		"count": 3,
+		"is_released": 0
+	},
+	{
+		"ID": 325,
+		"album_id": 3,
+		"piece_id": 25,
+		"same_character_id": 260141,
+		"name": "プタハの欠片",
+		"count": 3,
+		"is_released": 0
+	},
+	{
+		"ID": 326,
+		"album_id": 3,
+		"piece_id": 26,
+		"same_character_id": 250021,
+		"name": "フライクーゲルの欠片",
+		"count": 3,
+		"is_released": 0
+	},
+	{
+		"ID": 327,
+		"album_id": 3,
+		"piece_id": 27,
+		"same_character_id": 210061,
+		"name": "ナーゲルリングの欠片",
+		"count": 3,
+		"is_released": 0
+	},
+	{
+		"ID": 328,
+		"album_id": 3,
+		"piece_id": 28,
+		"same_character_id": 230071,
+		"name": "ゲイボルグの欠片",
+		"count": 3,
+		"is_released": 0
+	},
+	{
+		"ID": 329,
+		"album_id": 3,
+		"piece_id": 29,
+		"same_character_id": 220111,
+		"name": "ワズラの欠片",
+		"count": 3,
+		"is_released": 0
+	},
+	{
+		"ID": 330,
+		"album_id": 3,
+		"piece_id": 30,
+		"same_character_id": 0,
+		"name": "",
+		"count": 0,
+		"is_released": 1
+	}
+]

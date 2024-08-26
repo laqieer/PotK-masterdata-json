@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 503224,
+		"script": ";;A小：すごく楽しそうだね\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_shipboard\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n@ティファレト\nえっ…あっ！\n\n@ティファレト\nも、申し訳ありません！\n私ったら\n気分が高揚しすぎて…！\n\n@ティファレト\nうぅ…\nお恥ずかしいところを\n見られてしまいました\n\n@ティファレト\n…でも、\n仕方ありません\n\n@ティファレト\n主様と二人きりで…\nこんなにも綺麗な景色を\n堪能できているのですから\n\n@ティファレト\n楽しい気分に\nなってしまうのは\n当然のことですっ…\n\n@ティファレト\n…っ、主様？\nなにをにやけているのですかっ\nもう！\n\n@ティファレト\nううっ…\nいけませんよ、主様…！\n\n;;モノローグ\n# textflame 0 0\n@\n照れるティファレトに\n詰め寄られつつも\n笑顔を隠せないマスター\n\n;;モノローグ\n# textflame 0 0\n@\n船は二人を乗せて\n夜の海を進んでいく…\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

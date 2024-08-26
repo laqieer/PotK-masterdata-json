@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 3420101,
+		"script": "# script \"lisp\"\n# background \"flower_garden\"\n# bgm \"bgm005\" 0\n# body 101413\n# pos 101413 2\n# face 101413 \"angry\"\n# body 0\n# pos 0 4\n# face 0 \"occur\"\n# serif 0\n# textflame 1 1\n# textboxarrow 0 3\n# voice 9999 \"durin_0028\"\n@デュリン\nそれで？　こんなところに来て…\n今日はなんなの？\n\n# serif 1\n# textflame 1 1\n# textboxarrow 1 1\n# face 101413 \"sad\"\n@ティルフィング\nあの…普段の異族とは\n少し違う雰囲気を感じたんです…\n\n# serif 0\n# voice 9999 \"durin_0039\"\n# face 0 \"worry\"\n@デュリン\n少し違う？\nこっから見た限り、\nいつも通りにしか見えないけど…？\n\n# serif 1\n# voice 1014 \"tyrufing_0003\"\n@ティルフィング\n…新しいマナというか\n新しい精霊の気配が\n異族からするんですが\n\n# face 101413 \"angry\"\n# serif 1\n@ティルフィング\n戦ってみないと\nわからないかもしれません…\n\n# face 0 \"usual\"\n# serif 0\n# voice 9999 \"durin_0044\"\n@デュリン\nそれって、\n“新種の進化精霊”ってこと？\n\n# serif 1\n@ティルフィング\nかも…しれません\n\n# face 0 \"normal\"\n# serif 0\n# voice 9999 \"durin_0021\"\n@デュリン\nおおおお！\n\n# face 0 \"usual\"\n# serif 0\n@デュリン\nだったら容赦なく\n異族を倒し続けるしかないわね！\nさぁ、行くわよ！！"
+	}
+]

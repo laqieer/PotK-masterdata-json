@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 402223,
+		"script": ";;A\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_drive\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# face %(unit_a)s \"angry\"\n# voice 540221 \"ichiibal_c_0019\"\n# textflame 1 1\n@イチイバル\n眠いんだけど…\n眠りたくないよ…\n\n@イチイバル\nお兄さんの声…\nもっと聞きたいんだ…\n\n@イチイバル\n分からないけど…\nボク、なんか変かもしれない…\n\n@イチイバル\n今日はなんだか\nお兄さんと離れたくないんだ\n\n# voice 540221 \"ichiibal_c_0031\"\n@イチイバル\nごめんね、わがまま言って\n\n@イチイバル\nでもこんな気持ちになったの\n初めてだから…そのまま\n言うしか出来ないよ…\n\n@イチイバル\nきっと、眠たくて\n思考が回らないんだと思う\n\n# face %(unit_a)s \"normal\"\n# voice 540221 \"ichiibal_c_0004\"\n@イチイバル\nふふっ\nそういうことに\nしておいてくれないかい？\n\n@イチイバル\nそれにしても…おかしいよね\n明日も明後日もお兄さんは\n傍にいてくれるのに\n\n@イチイバル\n今日が終わるの…\n凄く嫌だなって…\n\n# eye %(unit_a)s \"close\"\n@イチイバル\nお願い…後ちょっとだけ…\nてへっ…すー…すー…\n\n# textflame 0 0\n@\n可愛らしいイチイバルの\n寝息が車内を満たしていった…\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

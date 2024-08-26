@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 500514,
+		"script": ";;A もう飲んでるし！（小）\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_town_day\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# voice 5005 \"vajura_0001\"\n@ヴァジュラ\nかったいこと言うなって～！\nほら、マスターも！\n\n# textflame 0 0\n@\nそう言ってヴァジュラは\nいつの間にか買った瓶を\nマスターに手渡した\n\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n@ヴァジュラ\n動いてれば\n酒が抜けるのも早いから！\n\n# face %(unit_a)s \"smile\"\n# voice 5005 \"vajura_0005\"\n@ヴァジュラ\nほらほら\nぐいっと！\n\n# textflame 0 0\n@\nまったく調子がよい…と思いつつ\nぐいっと一口飲み干す\nマスターだった…\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

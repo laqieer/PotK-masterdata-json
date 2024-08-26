@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 3101321,
+		"script": "# script \"lisp\"\n# background \"plain\"\n# bgm \"bgm001\" 0\n# body 810004\n# mask 810004 off\n# pos 810004 5\n# scale 810004 0.8 0\n# body 806009\n# mask 806009 off\n# pos 806009 1\n# scale 806009 0.8 0\n# textflame 1 1\n# textboxarrow 0 3\n@異族の大将\nおいおいMAIよ…回復はうれしいんやけど、なんか力でぇへんわ\n\n# serif 1\n# textboxarrow 1 1\n@MAIちゃん\n大将ごめーん、ちょっとだけ失敗しちゃった(てへ)\n\n# serif 0\n# textboxarrow 0 3\n@異族の大将\nたしかに回復は気持ち良かった。\n\n# voice 9994 \"izokutaisho_0042\"\n@異族の大将\nけどな…副作用スゴすぎるてー\nまた負けたかー今回のクリア報酬は姫石4個プレゼントや！\n\n# serif 1\n# textboxarrow 1 1\n@MAIちゃん\nあ！そうそう、これから公開予定の『ファンキル学園』にあたしや\nかわいいキル姫たちが登場予定です♪\n\n# serif 1\n# textboxarrow 1 1\n@MAIちゃん\n公開をお楽しみに～♪\n\n# serif 0\n# textboxarrow 0 3\n@異族の大将\nちゃっかり宣伝か…そういうとこ、しっかりしとうよな。\n\n@異族の大将\nクリア報酬の姫石の数は\nニコ生のコメント数に応じて\n変わるねんて、やから…\n\n# textwindow \"toge\"\n# jump 810004\n# voice 9994 \"izokutaisho_0027\"\n@異族の大将\n6月24日(金)の　\n『ファンキルニコ生』も\nみんな見てや～！！"
+	}
+]

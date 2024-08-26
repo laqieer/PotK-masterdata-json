@@ -1,0 +1,302 @@
+[
+	{
+		"ID": 5861,
+		"unitID": 2104611,
+		"questionID": 9104601,
+		"script": ";;剣,3\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n@ミュルグレス\nそうだ\n\n# voice 510461 \"murgleys_c_0001\"\n@ミュルグレス\n今日一日で\nだんちょーがミュルのこと、\nどれくらい理解したか\n\n@ミュルグレス\nテストしてあげる\n\n@ミュルグレス\n今からミュルに関する\nクイズを出すから！\n\n# voice 510461 \"murgleys_c_0004\"\n@ミュルグレス\nま、だんちょーなら\n楽勝で答えられるよね？\n\n@ミュルグレス\nじゃ、いくよ\n;;---------------------------------\n\n@%(unitName:unit_a)s\nミュルの武器属性はわかるの～？　\n\n# se \"SE_0734\"\n# select \"槍\" \"select_label_1\" \"弓\" \"select_label_2\" \"剣\" \"select_label_3\"\nミュルの武器属性はわかるの～？　\n"
+	},
+	{
+		"ID": 5862,
+		"unitID": 2104611,
+		"questionID": 9104602,
+		"script": ";;ガヌロン伯,2\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n@ミュルグレス\nそうだ\n\n# voice 510461 \"murgleys_c_0001\"\n@ミュルグレス\n今日一日で\nだんちょーがミュルのこと、\nどれくらい理解したか\n\n@ミュルグレス\nテストしてあげる\n\n@ミュルグレス\n今からミュルに関する\nクイズを出すから！\n\n# voice 510461 \"murgleys_c_0004\"\n@ミュルグレス\nま、だんちょーなら\n楽勝で答えられるよね？\n\n@ミュルグレス\nじゃ、いくよ\n;;---------------------------------\n\n@%(unitName:unit_a)s\nミュルのキラーズ『ミュルグレス』は\n誰の剣かわかる？\n\n# se \"SE_0734\"\n# select \"マカロン伯\" \"select_label_1\" \"ガヌロン伯\" \"select_label_2\" \"ガビロン伯\" \"select_label_3\"\nミュルのキラーズ『ミュルグレス』は\n誰の剣かわかる？\n"
+	},
+	{
+		"ID": 5863,
+		"unitID": 2104611,
+		"questionID": 9104603,
+		"script": ";;フランス神話,3\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n@ミュルグレス\nそうだ\n\n# voice 510461 \"murgleys_c_0001\"\n@ミュルグレス\n今日一日で\nだんちょーがミュルのこと、\nどれくらい理解したか\n\n@ミュルグレス\nテストしてあげる\n\n@ミュルグレス\n今からミュルに関する\nクイズを出すから！\n\n# voice 510461 \"murgleys_c_0004\"\n@ミュルグレス\nま、だんちょーなら\n楽勝で答えられるよね？\n\n@ミュルグレス\nじゃ、いくよ\n;;---------------------------------\n\n@%(unitName:unit_a)s\nミュルのキラーズ、『ミュルグレス』は\n何に登場するかわかるかな？\n\n# se \"SE_0734\"\n# select \"ギリシャ神話\" \"select_label_1\" \"北欧神話\" \"select_label_2\" \"フランス神話\" \"select_label_3\"\nミュルのキラーズ、『ミュルグレス』は\n何に登場するかわかるかな？\n"
+	},
+	{
+		"ID": 5864,
+		"unitID": 2104611,
+		"questionID": 9104604,
+		"script": ";;シャルルマーニュ,3\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n@ミュルグレス\nそうだ\n\n# voice 510461 \"murgleys_c_0001\"\n@ミュルグレス\n今日一日で\nだんちょーがミュルのこと、\nどれくらい理解したか\n\n@ミュルグレス\nテストしてあげる\n\n@ミュルグレス\n今からミュルに関する\nクイズを出すから！\n\n# voice 510461 \"murgleys_c_0004\"\n@ミュルグレス\nま、だんちょーなら\n楽勝で答えられるよね？\n\n@ミュルグレス\nじゃ、いくよ\n;;---------------------------------\n\n@%(unitName:unit_a)s\nミュルのキラーズ、『ミュルグレス』の\n持ち主が仕えたのは？\n\n# se \"SE_0734\"\n# select \"ビジョルニーヌ\" \"select_label_1\" \"ラインハルト\" \"select_label_2\" \"シャルルマーニュ\" \"select_label_3\"\nミュルのキラーズ、『ミュルグレス』の\n持ち主が仕えたのは？\n"
+	},
+	{
+		"ID": 5865,
+		"unitID": 2104611,
+		"questionID": 9104605,
+		"script": ";;英雄ローラン,1\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n@ミュルグレス\nそうだ\n\n# voice 510461 \"murgleys_c_0001\"\n@ミュルグレス\n今日一日で\nだんちょーがミュルのこと、\nどれくらい理解したか\n\n@ミュルグレス\nテストしてあげる\n\n@ミュルグレス\n今からミュルに関する\nクイズを出すから！\n\n# voice 510461 \"murgleys_c_0004\"\n@ミュルグレス\nま、だんちょーなら\n楽勝で答えられるよね？\n\n@ミュルグレス\nじゃ、いくよ\n;;---------------------------------\n\n@%(unitName:unit_a)s\nミュルのキラーズ、『ミュルグレス』の\n持ち主が討ったのは…？\n\n# se \"SE_0734\"\n# select \"英雄ローラン\" \"select_label_1\" \"英雄モーラン\" \"select_label_2\" \"英雄ローラ\" \"select_label_3\"\nミュルのキラーズ、『ミュルグレス』の\n持ち主が討ったのは…？\n"
+	},
+	{
+		"ID": 5866,
+		"unitID": 2104611,
+		"questionID": 9104606,
+		"script": ";;死の剣,1\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n@ミュルグレス\nそうだ\n\n# voice 510461 \"murgleys_c_0001\"\n@ミュルグレス\n今日一日で\nだんちょーがミュルのこと、\nどれくらい理解したか\n\n@ミュルグレス\nテストしてあげる\n\n@ミュルグレス\n今からミュルに関する\nクイズを出すから！\n\n# voice 510461 \"murgleys_c_0004\"\n@ミュルグレス\nま、だんちょーなら\n楽勝で答えられるよね？\n\n@ミュルグレス\nじゃ、いくよ\n;;---------------------------------\n\n@%(unitName:unit_a)s\nミュルのキラーズ『ミュルグレス』は\nどんな意味を持つか知ってる？\n\n# se \"SE_0734\"\n# select \"死の剣\" \"select_label_1\" \"火の剣\" \"select_label_2\" \"美の剣\" \"select_label_3\"\nミュルのキラーズ『ミュルグレス』は\nどんな意味を持つか知ってる？\n"
+	},
+	{
+		"ID": 5867,
+		"unitID": 2104611,
+		"questionID": 9104607,
+		"script": ";;雷神,2\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n@ミュルグレス\nそうだ\n\n# voice 510461 \"murgleys_c_0001\"\n@ミュルグレス\n今日一日で\nだんちょーがミュルのこと、\nどれくらい理解したか\n\n@ミュルグレス\nテストしてあげる\n\n@ミュルグレス\n今からミュルに関する\nクイズを出すから！\n\n# voice 510461 \"murgleys_c_0004\"\n@ミュルグレス\nま、だんちょーなら\n楽勝で答えられるよね？\n\n@ミュルグレス\nじゃ、いくよ\n;;---------------------------------\n\n@%(unitName:unit_a)s\nミュルにコマンドされた『トール』は\nどんな神様か知ってるかな？\n\n# se \"SE_0734\"\n# select \"風神\" \"select_label_1\" \"雷神\" \"select_label_2\" \"鬼神\" \"select_label_3\"\nミュルにコマンドされた『トール』は\nどんな神様か知ってるかな？\n"
+	},
+	{
+		"ID": 5868,
+		"unitID": 2104611,
+		"questionID": 9104608,
+		"script": ";;オーディン,2\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n@ミュルグレス\nそうだ\n\n# voice 510461 \"murgleys_c_0001\"\n@ミュルグレス\n今日一日で\nだんちょーがミュルのこと、\nどれくらい理解したか\n\n@ミュルグレス\nテストしてあげる\n\n@ミュルグレス\n今からミュルに関する\nクイズを出すから！\n\n# voice 510461 \"murgleys_c_0004\"\n@ミュルグレス\nま、だんちょーなら\n楽勝で答えられるよね？\n\n@ミュルグレス\nじゃ、いくよ\n;;---------------------------------\n\n@%(unitName:unit_a)s\nミュルにコマンドされた『トール』は\n誰の息子とされている？\n\n# se \"SE_0734\"\n# select \"パラディン\" \"select_label_1\" \"オーディン\" \"select_label_2\" \"ディーン\" \"select_label_3\"\nミュルにコマンドされた『トール』は\n誰の息子とされている？\n"
+	},
+	{
+		"ID": 5869,
+		"unitID": 2104611,
+		"questionID": 9104609,
+		"script": ";;北欧神話,1\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n@ミュルグレス\nそうだ\n\n# voice 510461 \"murgleys_c_0001\"\n@ミュルグレス\n今日一日で\nだんちょーがミュルのこと、\nどれくらい理解したか\n\n@ミュルグレス\nテストしてあげる\n\n@ミュルグレス\n今からミュルに関する\nクイズを出すから！\n\n# voice 510461 \"murgleys_c_0004\"\n@ミュルグレス\nま、だんちょーなら\n楽勝で答えられるよね？\n\n@ミュルグレス\nじゃ、いくよ\n;;---------------------------------\n\n@%(unitName:unit_a)s\nミュルにコマンドされた『トール』は\nどんな神話に登場する？\n\n# se \"SE_0734\"\n# select \"北欧神話\" \"select_label_1\" \"日本神話\" \"select_label_2\" \"ギリシャ神話\" \"select_label_3\"\nミュルにコマンドされた『トール』は\nどんな神話に登場する？\n"
+	},
+	{
+		"ID": 5870,
+		"unitID": 2104611,
+		"questionID": 9104610,
+		"script": ";;ミョルニル,1\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n@ミュルグレス\nそうだ\n\n# voice 510461 \"murgleys_c_0001\"\n@ミュルグレス\n今日一日で\nだんちょーがミュルのこと、\nどれくらい理解したか\n\n@ミュルグレス\nテストしてあげる\n\n@ミュルグレス\n今からミュルに関する\nクイズを出すから！\n\n# voice 510461 \"murgleys_c_0004\"\n@ミュルグレス\nま、だんちょーなら\n楽勝で答えられるよね？\n\n@ミュルグレス\nじゃ、いくよ\n;;---------------------------------\n\n@%(unitName:unit_a)s\nミュルにコマンドされた『トール』の\n使っていた武器といえば？\n\n# se \"SE_0734\"\n# select \"ミョルニル\" \"select_label_1\" \"ミョルミョル\" \"select_label_2\" \"一斗缶\" \"select_label_3\"\nミュルにコマンドされた『トール』の\n使っていた武器といえば？\n"
+	},
+	{
+		"ID": 5871,
+		"unitID": 2104611,
+		"questionID": 9104611,
+		"script": ";;雷,2\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 510461 \"murgleys_c_0001\"\n@ミュルグレス\nで、出るんだって…\n\n# textflame 0 0\n@\n出るってなにが？\nそう尋ねるマスターに、\n彼女は…\n\n# textflame 1 1\n@ミュルグレス\n隊のみんなが言ってたんだけど、\nこの辺りに出るらしいの…\nオバケ……\n\n# textflame 0 0\n@\nオバケを怖がるなんて\n女の子らしいところもあるんだな、と\n心の中で微笑むマスター\n\n# face %(unit_a)s \"angry\"\n# voice 510461 \"murgleys_c_0009\"\n# textflame 1 1\n@ミュルグレス\n…なによ、その顔は\n今、オバケを怖がるなんてかわいい\nとか考えてたんじゃない？\n\n@ミュルグレス\nオバケなんて怖がるわけないでしょ\nだんちょーってば\nミュルのこと全然わかってない\n\n@ミュルグレス\n…そんなことないって？\nそれならこのクイズに答えてよ\nミュルを理解してればわかるはずよね\n\n@ミュルグレス\nい、いくわよ！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nミュルの属性はしってる？\n\n# se \"SE_0734\"\n# select \"風\" \"select_label_1\" \"雷\" \"select_label_2\" \"光\" \"select_label_3\"\nミュルの属性はしってる？\n"
+	},
+	{
+		"ID": 5872,
+		"unitID": 2104611,
+		"questionID": 9104612,
+		"script": ";;144cm ,1\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 510461 \"murgleys_c_0001\"\n@ミュルグレス\nで、出るんだって…\n\n# textflame 0 0\n@\n出るってなにが？\nそう尋ねるマスターに、\n彼女は…\n\n# textflame 1 1\n@ミュルグレス\n隊のみんなが言ってたんだけど、\nこの辺りに出るらしいの…\nオバケ……\n\n# textflame 0 0\n@\nオバケを怖がるなんて\n女の子らしいところもあるんだな、と\n心の中で微笑むマスター\n\n# face %(unit_a)s \"angry\"\n# voice 510461 \"murgleys_c_0009\"\n# textflame 1 1\n@ミュルグレス\n…なによ、その顔は\n今、オバケを怖がるなんてかわいい\nとか考えてたんじゃない？\n\n@ミュルグレス\nオバケなんて怖がるわけないでしょ\nだんちょーってば\nミュルのこと全然わかってない\n\n@ミュルグレス\n…そんなことないって？\nそれならこのクイズに答えてよ\nミュルを理解してればわかるはずよね\n\n@ミュルグレス\nい、いくわよ！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nミュルの身長は何センチかな～？\n\n# se \"SE_0734\"\n# select \"144cm \" \"select_label_1\" \"150cm\" \"select_label_2\" \"148cm\" \"select_label_3\"\nミュルの身長は何センチかな～？\n"
+	},
+	{
+		"ID": 5873,
+		"unitID": 2104611,
+		"questionID": 9104613,
+		"script": ";;11月8日,1\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 510461 \"murgleys_c_0001\"\n@ミュルグレス\nで、出るんだって…\n\n# textflame 0 0\n@\n出るってなにが？\nそう尋ねるマスターに、\n彼女は…\n\n# textflame 1 1\n@ミュルグレス\n隊のみんなが言ってたんだけど、\nこの辺りに出るらしいの…\nオバケ……\n\n# textflame 0 0\n@\nオバケを怖がるなんて\n女の子らしいところもあるんだな、と\n心の中で微笑むマスター\n\n# face %(unit_a)s \"angry\"\n# voice 510461 \"murgleys_c_0009\"\n# textflame 1 1\n@ミュルグレス\n…なによ、その顔は\n今、オバケを怖がるなんてかわいい\nとか考えてたんじゃない？\n\n@ミュルグレス\nオバケなんて怖がるわけないでしょ\nだんちょーってば\nミュルのこと全然わかってない\n\n@ミュルグレス\n…そんなことないって？\nそれならこのクイズに答えてよ\nミュルを理解してればわかるはずよね\n\n@ミュルグレス\nい、いくわよ！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nミュルの誕生日はしってるかな～？\n\n# se \"SE_0734\"\n# select \"11月8日\" \"select_label_1\" \"11月20日\" \"select_label_2\" \"10月31日\" \"select_label_3\"\nミュルの誕生日はしってるかな～？\n"
+	},
+	{
+		"ID": 5874,
+		"unitID": 2104611,
+		"questionID": 9104614,
+		"script": ";;さそり座,2\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 510461 \"murgleys_c_0001\"\n@ミュルグレス\nで、出るんだって…\n\n# textflame 0 0\n@\n出るってなにが？\nそう尋ねるマスターに、\n彼女は…\n\n# textflame 1 1\n@ミュルグレス\n隊のみんなが言ってたんだけど、\nこの辺りに出るらしいの…\nオバケ……\n\n# textflame 0 0\n@\nオバケを怖がるなんて\n女の子らしいところもあるんだな、と\n心の中で微笑むマスター\n\n# face %(unit_a)s \"angry\"\n# voice 510461 \"murgleys_c_0009\"\n# textflame 1 1\n@ミュルグレス\n…なによ、その顔は\n今、オバケを怖がるなんてかわいい\nとか考えてたんじゃない？\n\n@ミュルグレス\nオバケなんて怖がるわけないでしょ\nだんちょーってば\nミュルのこと全然わかってない\n\n@ミュルグレス\n…そんなことないって？\nそれならこのクイズに答えてよ\nミュルを理解してればわかるはずよね\n\n@ミュルグレス\nい、いくわよ！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nミュルの星座は何かな？\n\n# se \"SE_0734\"\n# select \"いて座\" \"select_label_1\" \"さそり座\" \"select_label_2\" \"おとめ座\" \"select_label_3\"\nミュルの星座は何かな？\n"
+	},
+	{
+		"ID": 5875,
+		"unitID": 2104611,
+		"questionID": 9104615,
+		"script": ";;焼き菓子,3\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 510461 \"murgleys_c_0001\"\n@ミュルグレス\nで、出るんだって…\n\n# textflame 0 0\n@\n出るってなにが？\nそう尋ねるマスターに、\n彼女は…\n\n# textflame 1 1\n@ミュルグレス\n隊のみんなが言ってたんだけど、\nこの辺りに出るらしいの…\nオバケ……\n\n# textflame 0 0\n@\nオバケを怖がるなんて\n女の子らしいところもあるんだな、と\n心の中で微笑むマスター\n\n# face %(unit_a)s \"angry\"\n# voice 510461 \"murgleys_c_0009\"\n# textflame 1 1\n@ミュルグレス\n…なによ、その顔は\n今、オバケを怖がるなんてかわいい\nとか考えてたんじゃない？\n\n@ミュルグレス\nオバケなんて怖がるわけないでしょ\nだんちょーってば\nミュルのこと全然わかってない\n\n@ミュルグレス\n…そんなことないって？\nそれならこのクイズに答えてよ\nミュルを理解してればわかるはずよね\n\n@ミュルグレス\nい、いくわよ！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nミュルの好きな食べ物はなにかな？\n\n# se \"SE_0734\"\n# select \"煮物\" \"select_label_1\" \"ゆでたまご\" \"select_label_2\" \"焼き菓子\" \"select_label_3\"\nミュルの好きな食べ物はなにかな？\n"
+	},
+	{
+		"ID": 5876,
+		"unitID": 2104611,
+		"questionID": 9104616,
+		"script": ";;他人をからかうこと,3\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 510461 \"murgleys_c_0001\"\n@ミュルグレス\nで、出るんだって…\n\n# textflame 0 0\n@\n出るってなにが？\nそう尋ねるマスターに、\n彼女は…\n\n# textflame 1 1\n@ミュルグレス\n隊のみんなが言ってたんだけど、\nこの辺りに出るらしいの…\nオバケ……\n\n# textflame 0 0\n@\nオバケを怖がるなんて\n女の子らしいところもあるんだな、と\n心の中で微笑むマスター\n\n# face %(unit_a)s \"angry\"\n# voice 510461 \"murgleys_c_0009\"\n# textflame 1 1\n@ミュルグレス\n…なによ、その顔は\n今、オバケを怖がるなんてかわいい\nとか考えてたんじゃない？\n\n@ミュルグレス\nオバケなんて怖がるわけないでしょ\nだんちょーってば\nミュルのこと全然わかってない\n\n@ミュルグレス\n…そんなことないって？\nそれならこのクイズに答えてよ\nミュルを理解してればわかるはずよね\n\n@ミュルグレス\nい、いくわよ！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nミュルの趣味はな～んだ？？\n\n# se \"SE_0734\"\n# select \"犬の肉球を嗅ぐこと\" \"select_label_1\" \"1人相撲\" \"select_label_2\" \"他人をからかうこと\" \"select_label_3\"\nミュルの趣味はな～んだ？？\n"
+	},
+	{
+		"ID": 5877,
+		"unitID": 2104611,
+		"questionID": 9104617,
+		"script": ";;Ｂ型,1\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 510461 \"murgleys_c_0001\"\n@ミュルグレス\nで、出るんだって…\n\n# textflame 0 0\n@\n出るってなにが？\nそう尋ねるマスターに、\n彼女は…\n\n# textflame 1 1\n@ミュルグレス\n隊のみんなが言ってたんだけど、\nこの辺りに出るらしいの…\nオバケ……\n\n# textflame 0 0\n@\nオバケを怖がるなんて\n女の子らしいところもあるんだな、と\n心の中で微笑むマスター\n\n# face %(unit_a)s \"angry\"\n# voice 510461 \"murgleys_c_0009\"\n# textflame 1 1\n@ミュルグレス\n…なによ、その顔は\n今、オバケを怖がるなんてかわいい\nとか考えてたんじゃない？\n\n@ミュルグレス\nオバケなんて怖がるわけないでしょ\nだんちょーってば\nミュルのこと全然わかってない\n\n@ミュルグレス\n…そんなことないって？\nそれならこのクイズに答えてよ\nミュルを理解してればわかるはずよね\n\n@ミュルグレス\nい、いくわよ！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nミュルの血液型は何でしょ～？\n\n# se \"SE_0734\"\n# select \"Ｂ型\" \"select_label_1\" \"Ｏ型\" \"select_label_2\" \"Ａ型\" \"select_label_3\"\nミュルの血液型は何でしょ～？\n"
+	},
+	{
+		"ID": 5878,
+		"unitID": 2104611,
+		"questionID": 9104618,
+		"script": ";;フランス,2\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 510461 \"murgleys_c_0001\"\n@ミュルグレス\nで、出るんだって…\n\n# textflame 0 0\n@\n出るってなにが？\nそう尋ねるマスターに、\n彼女は…\n\n# textflame 1 1\n@ミュルグレス\n隊のみんなが言ってたんだけど、\nこの辺りに出るらしいの…\nオバケ……\n\n# textflame 0 0\n@\nオバケを怖がるなんて\n女の子らしいところもあるんだな、と\n心の中で微笑むマスター\n\n# face %(unit_a)s \"angry\"\n# voice 510461 \"murgleys_c_0009\"\n# textflame 1 1\n@ミュルグレス\n…なによ、その顔は\n今、オバケを怖がるなんてかわいい\nとか考えてたんじゃない？\n\n@ミュルグレス\nオバケなんて怖がるわけないでしょ\nだんちょーってば\nミュルのこと全然わかってない\n\n@ミュルグレス\n…そんなことないって？\nそれならこのクイズに答えてよ\nミュルを理解してればわかるはずよね\n\n@ミュルグレス\nい、いくわよ！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nミュルの出身地はどこだかわかる？\n\n# se \"SE_0734\"\n# select \"ニューヨーク\" \"select_label_1\" \"フランス\" \"select_label_2\" \"エジプト\" \"select_label_3\"\nミュルの出身地はどこだかわかる？\n"
+	},
+	{
+		"ID": 5879,
+		"unitID": 2104611,
+		"questionID": 9104619,
+		"script": ";;カステラ,1\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 510461 \"murgleys_c_0001\"\n@ミュルグレス\nで、出るんだって…\n\n# textflame 0 0\n@\n出るってなにが？\nそう尋ねるマスターに、\n彼女は…\n\n# textflame 1 1\n@ミュルグレス\n隊のみんなが言ってたんだけど、\nこの辺りに出るらしいの…\nオバケ……\n\n# textflame 0 0\n@\nオバケを怖がるなんて\n女の子らしいところもあるんだな、と\n心の中で微笑むマスター\n\n# face %(unit_a)s \"angry\"\n# voice 510461 \"murgleys_c_0009\"\n# textflame 1 1\n@ミュルグレス\n…なによ、その顔は\n今、オバケを怖がるなんてかわいい\nとか考えてたんじゃない？\n\n@ミュルグレス\nオバケなんて怖がるわけないでしょ\nだんちょーってば\nミュルのこと全然わかってない\n\n@ミュルグレス\n…そんなことないって？\nそれならこのクイズに答えてよ\nミュルを理解してればわかるはずよね\n\n@ミュルグレス\nい、いくわよ！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nミュルは焼き菓子の中でも\nコレが一番好きなの！\n\n# se \"SE_0734\"\n# select \"カステラ\" \"select_label_1\" \"クッキー\" \"select_label_2\" \"マドレーヌ\" \"select_label_3\"\nミュルは焼き菓子の中でも\nコレが一番好きなの！\n"
+	},
+	{
+		"ID": 5880,
+		"unitID": 2104611,
+		"questionID": 9104620,
+		"script": ";;八つ裂きね,3\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 510461 \"murgleys_c_0001\"\n@ミュルグレス\nで、出るんだって…\n\n# textflame 0 0\n@\n出るってなにが？\nそう尋ねるマスターに、\n彼女は…\n\n# textflame 1 1\n@ミュルグレス\n隊のみんなが言ってたんだけど、\nこの辺りに出るらしいの…\nオバケ……\n\n# textflame 0 0\n@\nオバケを怖がるなんて\n女の子らしいところもあるんだな、と\n心の中で微笑むマスター\n\n# face %(unit_a)s \"angry\"\n# voice 510461 \"murgleys_c_0009\"\n# textflame 1 1\n@ミュルグレス\n…なによ、その顔は\n今、オバケを怖がるなんてかわいい\nとか考えてたんじゃない？\n\n@ミュルグレス\nオバケなんて怖がるわけないでしょ\nだんちょーってば\nミュルのこと全然わかってない\n\n@ミュルグレス\n…そんなことないって？\nそれならこのクイズに答えてよ\nミュルを理解してればわかるはずよね\n\n@ミュルグレス\nい、いくわよ！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nミュルの口癖は…？\n\n# se \"SE_0734\"\n# select \"八ツ橋ね\" \"select_label_1\" \"八幡山ね\" \"select_label_2\" \"八つ裂きね\" \"select_label_3\"\nミュルの口癖は…？\n"
+	},
+	{
+		"ID": 5881,
+		"unitID": 2104611,
+		"questionID": 9104621,
+		"script": ";;雷暴神の共鳴,2\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 510461 \"murgleys_c_0001\"\n@ミュルグレス\nだんちょー、\n今日のデート……\n\n# textflame 0 0\n@\nうん、楽しかったね！\nとマスターが\n先んじて返事をしようとすると…\n\n# textflame 1 1\n@ミュルグレス\n付き合ってあげたんだから\nその報酬は？\n\n# textflame 0 0\n@\n唖然とするマスターに\n彼女はきょとんとした顔で続ける\n\n# face %(unit_a)s \"angry\"\n# voice 510461 \"murgleys_c_0022\"\n# textflame 1 1\n@ミュルグレス\n当然でしょ\n報酬もなしにミュルが\nついてくるとでも思ってたわけ？\n\n@ミュルグレス\nうーん、どのくらい貰うかは…\nこれから出すクイズに\n正解できるかどうかで決めるわ\n;;---------------------------------\n\n@%(unitName:unit_a)s\nミュルのリーダースキルは\n知ってるかな？\n\n# se \"SE_0734\"\n# select \"横暴神の共鳴\" \"select_label_1\" \"雷暴神の共鳴\" \"select_label_2\" \"雷鳴神の共鳴\" \"select_label_3\"\nミュルのリーダースキルは\n知ってるかな？\n"
+	},
+	{
+		"ID": 5882,
+		"unitID": 2104611,
+		"questionID": 9104622,
+		"script": ";;猜疑されし必剣,2\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 510461 \"murgleys_c_0001\"\n@ミュルグレス\nだんちょー、\n今日のデート……\n\n# textflame 0 0\n@\nうん、楽しかったね！\nとマスターが\n先んじて返事をしようとすると…\n\n# textflame 1 1\n@ミュルグレス\n付き合ってあげたんだから\nその報酬は？\n\n# textflame 0 0\n@\n唖然とするマスターに\n彼女はきょとんとした顔で続ける\n\n# face %(unit_a)s \"angry\"\n# voice 510461 \"murgleys_c_0022\"\n# textflame 1 1\n@ミュルグレス\n当然でしょ\n報酬もなしにミュルが\nついてくるとでも思ってたわけ？\n\n@ミュルグレス\nうーん、どのくらい貰うかは…\nこれから出すクイズに\n正解できるかどうかで決めるわ\n;;---------------------------------\n\n@%(unitName:unit_a)s\nミュルの覚えるスキルは\n知ってるかな？\n\n# se \"SE_0734\"\n# select \"猜疑されし炎剣\" \"select_label_1\" \"猜疑されし必剣\" \"select_label_2\" \"猜疑されし光剣\" \"select_label_3\"\nミュルの覚えるスキルは\n知ってるかな？\n"
+	},
+	{
+		"ID": 5883,
+		"unitID": 2104611,
+		"questionID": 9104623,
+		"script": ";;トールの豪放,1\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 510461 \"murgleys_c_0001\"\n@ミュルグレス\nだんちょー、\n今日のデート……\n\n# textflame 0 0\n@\nうん、楽しかったね！\nとマスターが\n先んじて返事をしようとすると…\n\n# textflame 1 1\n@ミュルグレス\n付き合ってあげたんだから\nその報酬は？\n\n# textflame 0 0\n@\n唖然とするマスターに\n彼女はきょとんとした顔で続ける\n\n# face %(unit_a)s \"angry\"\n# voice 510461 \"murgleys_c_0022\"\n# textflame 1 1\n@ミュルグレス\n当然でしょ\n報酬もなしにミュルが\nついてくるとでも思ってたわけ？\n\n@ミュルグレス\nうーん、どのくらい貰うかは…\nこれから出すクイズに\n正解できるかどうかで決めるわ\n;;---------------------------------\n\n@%(unitName:unit_a)s\nミュルが覚えるスキルはわかる？\n\n# se \"SE_0734\"\n# select \"トールの豪放\" \"select_label_1\" \"ハウルの豪放\" \"select_label_2\" \"ソウルの豪放\" \"select_label_3\"\nミュルが覚えるスキルはわかる？\n"
+	},
+	{
+		"ID": 5884,
+		"unitID": 2104611,
+		"questionID": 9104624,
+		"script": ";;樹令『紫電の術計』,2\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 510461 \"murgleys_c_0001\"\n@ミュルグレス\nだんちょー、\n今日のデート……\n\n# textflame 0 0\n@\nうん、楽しかったね！\nとマスターが\n先んじて返事をしようとすると…\n\n# textflame 1 1\n@ミュルグレス\n付き合ってあげたんだから\nその報酬は？\n\n# textflame 0 0\n@\n唖然とするマスターに\n彼女はきょとんとした顔で続ける\n\n# face %(unit_a)s \"angry\"\n# voice 510461 \"murgleys_c_0022\"\n# textflame 1 1\n@ミュルグレス\n当然でしょ\n報酬もなしにミュルが\nついてくるとでも思ってたわけ？\n\n@ミュルグレス\nうーん、どのくらい貰うかは…\nこれから出すクイズに\n正解できるかどうかで決めるわ\n;;---------------------------------\n\n@%(unitName:unit_a)s\nミュルが覚えるコマンドスキルはわかる？\n\n# se \"SE_0734\"\n# select \"樹令『私電の術計』\" \"select_label_1\" \"樹令『紫電の術計』\" \"select_label_2\" \"樹令『都電の術計』\" \"select_label_3\"\nミュルが覚えるコマンドスキルはわかる？\n"
+	},
+	{
+		"ID": 5885,
+		"unitID": 2104611,
+		"questionID": 9104625,
+		"script": ";;死の痺雷,3\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 510461 \"murgleys_c_0001\"\n@ミュルグレス\nだんちょー、\n今日のデート……\n\n# textflame 0 0\n@\nうん、楽しかったね！\nとマスターが\n先んじて返事をしようとすると…\n\n# textflame 1 1\n@ミュルグレス\n付き合ってあげたんだから\nその報酬は？\n\n# textflame 0 0\n@\n唖然とするマスターに\n彼女はきょとんとした顔で続ける\n\n# face %(unit_a)s \"angry\"\n# voice 510461 \"murgleys_c_0022\"\n# textflame 1 1\n@ミュルグレス\n当然でしょ\n報酬もなしにミュルが\nついてくるとでも思ってたわけ？\n\n@ミュルグレス\nうーん、どのくらい貰うかは…\nこれから出すクイズに\n正解できるかどうかで決めるわ\n;;---------------------------------\n\n@%(unitName:unit_a)s\nミュルが覚えるデュエルスキルは\nわかるかな～？\n\n# se \"SE_0734\"\n# select \"木の痺雷\" \"select_label_1\" \"美の痺雷\" \"select_label_2\" \"死の痺雷\" \"select_label_3\"\nミュルが覚えるデュエルスキルは\nわかるかな～？\n"
+	},
+	{
+		"ID": 5886,
+		"unitID": 2104611,
+		"questionID": 9104626,
+		"script": ";;虚を裂く神の轟刃,3\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 510461 \"murgleys_c_0001\"\n@ミュルグレス\nだんちょー、\n今日のデート……\n\n# textflame 0 0\n@\nうん、楽しかったね！\nとマスターが\n先んじて返事をしようとすると…\n\n# textflame 1 1\n@ミュルグレス\n付き合ってあげたんだから\nその報酬は？\n\n# textflame 0 0\n@\n唖然とするマスターに\n彼女はきょとんとした顔で続ける\n\n# face %(unit_a)s \"angry\"\n# voice 510461 \"murgleys_c_0022\"\n# textflame 1 1\n@ミュルグレス\n当然でしょ\n報酬もなしにミュルが\nついてくるとでも思ってたわけ？\n\n@ミュルグレス\nうーん、どのくらい貰うかは…\nこれから出すクイズに\n正解できるかどうかで決めるわ\n;;---------------------------------\n\n@%(unitName:unit_a)s\nミュルの覚えるデュエルスキルは\nわかるかな～？\n\n# se \"SE_0734\"\n# select \"虚を裂く神の出刃\" \"select_label_1\" \"虚を裂く神の入れ刃\" \"select_label_2\" \"虚を裂く神の轟刃\" \"select_label_3\"\nミュルの覚えるデュエルスキルは\nわかるかな～？\n"
+	},
+	{
+		"ID": 5887,
+		"unitID": 2104611,
+		"questionID": 9104627,
+		"script": ";;智将の謀略,3\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 510461 \"murgleys_c_0001\"\n@ミュルグレス\nだんちょー、\n今日のデート……\n\n# textflame 0 0\n@\nうん、楽しかったね！\nとマスターが\n先んじて返事をしようとすると…\n\n# textflame 1 1\n@ミュルグレス\n付き合ってあげたんだから\nその報酬は？\n\n# textflame 0 0\n@\n唖然とするマスターに\n彼女はきょとんとした顔で続ける\n\n# face %(unit_a)s \"angry\"\n# voice 510461 \"murgleys_c_0022\"\n# textflame 1 1\n@ミュルグレス\n当然でしょ\n報酬もなしにミュルが\nついてくるとでも思ってたわけ？\n\n@ミュルグレス\nうーん、どのくらい貰うかは…\nこれから出すクイズに\n正解できるかどうかで決めるわ\n;;---------------------------------\n\n@%(unitName:unit_a)s\nミュルのコマンドスキルはわかるかな～？\n\n# se \"SE_0734\"\n# select \"大将の謀略\" \"select_label_1\" \"武将の謀略\" \"select_label_2\" \"智将の謀略\" \"select_label_3\"\nミュルのコマンドスキルはわかるかな～？\n"
+	},
+	{
+		"ID": 5888,
+		"unitID": 2104611,
+		"questionID": 9104628,
+		"script": ";;蒼の再跳,3\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 510461 \"murgleys_c_0001\"\n@ミュルグレス\nだんちょー、\n今日のデート……\n\n# textflame 0 0\n@\nうん、楽しかったね！\nとマスターが\n先んじて返事をしようとすると…\n\n# textflame 1 1\n@ミュルグレス\n付き合ってあげたんだから\nその報酬は？\n\n# textflame 0 0\n@\n唖然とするマスターに\n彼女はきょとんとした顔で続ける\n\n# face %(unit_a)s \"angry\"\n# voice 510461 \"murgleys_c_0022\"\n# textflame 1 1\n@ミュルグレス\n当然でしょ\n報酬もなしにミュルが\nついてくるとでも思ってたわけ？\n\n@ミュルグレス\nうーん、どのくらい貰うかは…\nこれから出すクイズに\n正解できるかどうかで決めるわ\n;;---------------------------------\n\n@%(unitName:unit_a)s\nミュルの覚えるスキルはわかるかな～？\n\n# se \"SE_0734\"\n# select \"朱の再跳\" \"select_label_1\" \"白の再跳\" \"select_label_2\" \"蒼の再跳\" \"select_label_3\"\nミュルの覚えるスキルはわかるかな～？\n"
+	},
+	{
+		"ID": 5889,
+		"unitID": 2104611,
+		"questionID": 9104629,
+		"script": ";;蒼の団結【紫電】,1\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 510461 \"murgleys_c_0001\"\n@ミュルグレス\nだんちょー、\n今日のデート……\n\n# textflame 0 0\n@\nうん、楽しかったね！\nとマスターが\n先んじて返事をしようとすると…\n\n# textflame 1 1\n@ミュルグレス\n付き合ってあげたんだから\nその報酬は？\n\n# textflame 0 0\n@\n唖然とするマスターに\n彼女はきょとんとした顔で続ける\n\n# face %(unit_a)s \"angry\"\n# voice 510461 \"murgleys_c_0022\"\n# textflame 1 1\n@ミュルグレス\n当然でしょ\n報酬もなしにミュルが\nついてくるとでも思ってたわけ？\n\n@ミュルグレス\nうーん、どのくらい貰うかは…\nこれから出すクイズに\n正解できるかどうかで決めるわ\n;;---------------------------------\n\n@%(unitName:unit_a)s\nミュルが覚える付与スキルはわかるかな～？\n\n# se \"SE_0734\"\n# select \"蒼の団結【紫電】\" \"select_label_1\" \"蒼の決断【紫電】\" \"select_label_2\" \"蒼の結実【紫電】\" \"select_label_3\"\nミュルが覚える付与スキルはわかるかな～？\n"
+	},
+	{
+		"ID": 5890,
+		"unitID": 2104611,
+		"questionID": 9104630,
+		"script": ";;世界樹の神徒【紫電】,3\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 510461 \"murgleys_c_0001\"\n@ミュルグレス\nだんちょー、\n今日のデート……\n\n# textflame 0 0\n@\nうん、楽しかったね！\nとマスターが\n先んじて返事をしようとすると…\n\n# textflame 1 1\n@ミュルグレス\n付き合ってあげたんだから\nその報酬は？\n\n# textflame 0 0\n@\n唖然とするマスターに\n彼女はきょとんとした顔で続ける\n\n# face %(unit_a)s \"angry\"\n# voice 510461 \"murgleys_c_0022\"\n# textflame 1 1\n@ミュルグレス\n当然でしょ\n報酬もなしにミュルが\nついてくるとでも思ってたわけ？\n\n@ミュルグレス\nうーん、どのくらい貰うかは…\nこれから出すクイズに\n正解できるかどうかで決めるわ\n;;---------------------------------\n\n@%(unitName:unit_a)s\nミュルが覚える付与スキルはわかるかな～？\n\n# se \"SE_0734\"\n# select \"針葉樹の神徒【紫電】\" \"select_label_1\" \"広葉樹の神徒【紫電】\" \"select_label_2\" \"世界樹の神徒【紫電】\" \"select_label_3\"\nミュルが覚える付与スキルはわかるかな～？\n"
+	},
+	{
+		"ID": 5891,
+		"unitID": 2104611,
+		"questionID": 9104631,
+		"script": ";;大根おろし,1\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 510461 \"murgleys_c_0027\"\n@ミュルグレス\n……はぁ\n\n# textflame 0 0\n@\n大きなため息\nどうしたの？と、\nマスターが尋ねると、\n\n# textflame 1 1\n@ミュルグレス\nだんちょーに付いて行けば、\nたくさんおいしい思いが\nできると思ってたのに……\n\n# face %(unit_a)s \"angry\"\n@ミュルグレス\nデートの最中なのに、\n人助けさせられたし…最悪\n\n# voice 510461 \"murgleys_c_0002\"\n@ミュルグレス\nだんちょー！\n\n@ミュルグレス\n今からクイズ出すから、\n答えられなかったら\n人助けの分の報酬、支払ってよね！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nミュルが好きなカステラに\n江戸時代の日本で\nかけていたと云われるものは？\n\n# se \"SE_0734\"\n# select \"大根おろし\" \"select_label_1\" \"チョコレート\" \"select_label_2\" \"ソース\" \"select_label_3\"\nミュルが好きなカステラに\n江戸時代の日本で\nかけていたと云われるものは？\n"
+	},
+	{
+		"ID": 5892,
+		"unitID": 2104611,
+		"questionID": 9104632,
+		"script": ";;November,1\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 510461 \"murgleys_c_0027\"\n@ミュルグレス\n……はぁ\n\n# textflame 0 0\n@\n大きなため息\nどうしたの？と、\nマスターが尋ねると、\n\n# textflame 1 1\n@ミュルグレス\nだんちょーに付いて行けば、\nたくさんおいしい思いが\nできると思ってたのに……\n\n# face %(unit_a)s \"angry\"\n@ミュルグレス\nデートの最中なのに、\n人助けさせられたし…最悪\n\n# voice 510461 \"murgleys_c_0002\"\n@ミュルグレス\nだんちょー！\n\n@ミュルグレス\n今からクイズ出すから、\n答えられなかったら\n人助けの分の報酬、支払ってよね！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nミュルの誕生月を英語で言うと…？\n\n# se \"SE_0734\"\n# select \"November\" \"select_label_1\" \"May\" \"select_label_2\" \"September\" \"select_label_3\"\nミュルの誕生月を英語で言うと…？\n"
+	},
+	{
+		"ID": 5893,
+		"unitID": 2104611,
+		"questionID": 9104633,
+		"script": ";;スペイン,3\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 510461 \"murgleys_c_0027\"\n@ミュルグレス\n……はぁ\n\n# textflame 0 0\n@\n大きなため息\nどうしたの？と、\nマスターが尋ねると、\n\n# textflame 1 1\n@ミュルグレス\nだんちょーに付いて行けば、\nたくさんおいしい思いが\nできると思ってたのに……\n\n# face %(unit_a)s \"angry\"\n@ミュルグレス\nデートの最中なのに、\n人助けさせられたし…最悪\n\n# voice 510461 \"murgleys_c_0002\"\n@ミュルグレス\nだんちょー！\n\n@ミュルグレス\n今からクイズ出すから、\n答えられなかったら\n人助けの分の報酬、支払ってよね！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nミュルの好きなカステラのルーツは\nどこにあると云われてるか知ってる？\n\n# se \"SE_0734\"\n# select \"中国\" \"select_label_1\" \"インド\" \"select_label_2\" \"スペイン\" \"select_label_3\"\nミュルの好きなカステラのルーツは\nどこにあると云われてるか知ってる？\n"
+	},
+	{
+		"ID": 5894,
+		"unitID": 2104611,
+		"questionID": 9104634,
+		"script": ";;フラベルム,2\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 510461 \"murgleys_c_0027\"\n@ミュルグレス\n……はぁ\n\n# textflame 0 0\n@\n大きなため息\nどうしたの？と、\nマスターが尋ねると、\n\n# textflame 1 1\n@ミュルグレス\nだんちょーに付いて行けば、\nたくさんおいしい思いが\nできると思ってたのに……\n\n# face %(unit_a)s \"angry\"\n@ミュルグレス\nデートの最中なのに、\n人助けさせられたし…最悪\n\n# voice 510461 \"murgleys_c_0002\"\n@ミュルグレス\nだんちょー！\n\n@ミュルグレス\n今からクイズ出すから、\n答えられなかったら\n人助けの分の報酬、支払ってよね！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nミュルと誕生月が同じなのは誰？\n\n# se \"SE_0734\"\n# select \"ティルフィング\" \"select_label_1\" \"フラベルム\" \"select_label_2\" \"パラシュ\" \"select_label_3\"\nミュルと誕生月が同じなのは誰？\n"
+	},
+	{
+		"ID": 5895,
+		"unitID": 2104611,
+		"questionID": 9104635,
+		"script": ";;Scorpio,2\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 510461 \"murgleys_c_0027\"\n@ミュルグレス\n……はぁ\n\n# textflame 0 0\n@\n大きなため息\nどうしたの？と、\nマスターが尋ねると、\n\n# textflame 1 1\n@ミュルグレス\nだんちょーに付いて行けば、\nたくさんおいしい思いが\nできると思ってたのに……\n\n# face %(unit_a)s \"angry\"\n@ミュルグレス\nデートの最中なのに、\n人助けさせられたし…最悪\n\n# voice 510461 \"murgleys_c_0002\"\n@ミュルグレス\nだんちょー！\n\n@ミュルグレス\n今からクイズ出すから、\n答えられなかったら\n人助けの分の報酬、支払ってよね！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nミュルの星座を英語で言うと？\n\n# se \"SE_0734\"\n# select \"Pisces\" \"select_label_1\" \"Scorpio\" \"select_label_2\" \"Taurus\" \"select_label_3\"\nミュルの星座を英語で言うと？\n"
+	},
+	{
+		"ID": 5896,
+		"unitID": 2104611,
+		"questionID": 9104636,
+		"script": ";;ヒョウハ,1\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 510461 \"murgleys_c_0027\"\n@ミュルグレス\n……はぁ\n\n# textflame 0 0\n@\n大きなため息\nどうしたの？と、\nマスターが尋ねると、\n\n# textflame 1 1\n@ミュルグレス\nだんちょーに付いて行けば、\nたくさんおいしい思いが\nできると思ってたのに……\n\n# face %(unit_a)s \"angry\"\n@ミュルグレス\nデートの最中なのに、\n人助けさせられたし…最悪\n\n# voice 510461 \"murgleys_c_0002\"\n@ミュルグレス\nだんちょー！\n\n@ミュルグレス\n今からクイズ出すから、\n答えられなかったら\n人助けの分の報酬、支払ってよね！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nミュルがからかいやすいと\n思ってるのは\nこの中でだーれだ？\n\n# se \"SE_0734\"\n# select \"ヒョウハ\" \"select_label_1\" \"フォルカス\" \"select_label_2\" \"イチイバル\" \"select_label_3\"\nミュルがからかいやすいと\n思ってるのは\nこの中でだーれだ？\n"
+	},
+	{
+		"ID": 5897,
+		"unitID": 2104611,
+		"questionID": 9104637,
+		"script": ";;デュランダル,3\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 510461 \"murgleys_c_0027\"\n@ミュルグレス\n……はぁ\n\n# textflame 0 0\n@\n大きなため息\nどうしたの？と、\nマスターが尋ねると、\n\n# textflame 1 1\n@ミュルグレス\nだんちょーに付いて行けば、\nたくさんおいしい思いが\nできると思ってたのに……\n\n# face %(unit_a)s \"angry\"\n@ミュルグレス\nデートの最中なのに、\n人助けさせられたし…最悪\n\n# voice 510461 \"murgleys_c_0002\"\n@ミュルグレス\nだんちょー！\n\n@ミュルグレス\n今からクイズ出すから、\n答えられなかったら\n人助けの分の報酬、支払ってよね！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nミュルと同じく『ローランの歌』に登場する武器を\nキラーズとしているのは誰でしょー？\n\n# se \"SE_0734\"\n# select \"如意金箍棒\" \"select_label_1\" \"オルフェウス\" \"select_label_2\" \"デュランダル\" \"select_label_3\"\nミュルと同じく『ローランの歌』に登場する武器を\nキラーズとしているのは誰でしょー？\n"
+	},
+	{
+		"ID": 5898,
+		"unitID": 2104611,
+		"questionID": 9104638,
+		"script": ";;グリモワール,3\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 510461 \"murgleys_c_0027\"\n@ミュルグレス\n……はぁ\n\n# textflame 0 0\n@\n大きなため息\nどうしたの？と、\nマスターが尋ねると、\n\n# textflame 1 1\n@ミュルグレス\nだんちょーに付いて行けば、\nたくさんおいしい思いが\nできると思ってたのに……\n\n# face %(unit_a)s \"angry\"\n@ミュルグレス\nデートの最中なのに、\n人助けさせられたし…最悪\n\n# voice 510461 \"murgleys_c_0002\"\n@ミュルグレス\nだんちょー！\n\n@ミュルグレス\n今からクイズ出すから、\n答えられなかったら\n人助けの分の報酬、支払ってよね！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nミュルと同じ血液型なのは？\n\n# se \"SE_0734\"\n# select \"スラーンド\" \"select_label_1\" \"グングニル\" \"select_label_2\" \"グリモワール\" \"select_label_3\"\nミュルと同じ血液型なのは？\n"
+	},
+	{
+		"ID": 5899,
+		"unitID": 2104611,
+		"questionID": 9104639,
+		"script": ";;グングニル,3\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 510461 \"murgleys_c_0027\"\n@ミュルグレス\n……はぁ\n\n# textflame 0 0\n@\n大きなため息\nどうしたの？と、\nマスターが尋ねると、\n\n# textflame 1 1\n@ミュルグレス\nだんちょーに付いて行けば、\nたくさんおいしい思いが\nできると思ってたのに……\n\n# face %(unit_a)s \"angry\"\n@ミュルグレス\nデートの最中なのに、\n人助けさせられたし…最悪\n\n# voice 510461 \"murgleys_c_0002\"\n@ミュルグレス\nだんちょー！\n\n@ミュルグレス\n今からクイズ出すから、\n答えられなかったら\n人助けの分の報酬、支払ってよね！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nミュルと違う血液型なのは誰かわかる？\n\n# se \"SE_0734\"\n# select \"ピナーカ\" \"select_label_1\" \"グリモワール\" \"select_label_2\" \"グングニル\" \"select_label_3\"\nミュルと違う血液型なのは誰かわかる？\n"
+	},
+	{
+		"ID": 5900,
+		"unitID": 2104611,
+		"questionID": 9104640,
+		"script": ";;マサムネ,3\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 510461 \"murgleys_c_0027\"\n@ミュルグレス\n……はぁ\n\n# textflame 0 0\n@\n大きなため息\nどうしたの？と、\nマスターが尋ねると、\n\n# textflame 1 1\n@ミュルグレス\nだんちょーに付いて行けば、\nたくさんおいしい思いが\nできると思ってたのに……\n\n# face %(unit_a)s \"angry\"\n@ミュルグレス\nデートの最中なのに、\n人助けさせられたし…最悪\n\n# voice 510461 \"murgleys_c_0002\"\n@ミュルグレス\nだんちょー！\n\n@ミュルグレス\n今からクイズ出すから、\n答えられなかったら\n人助けの分の報酬、支払ってよね！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nミュルと違う誕生月なのは誰かわかる？\n\n# se \"SE_0734\"\n# select \"フラベルム\" \"select_label_1\" \"アスクレピオス\" \"select_label_2\" \"マサムネ\" \"select_label_3\"\nミュルと違う誕生月なのは誰かわかる？\n"
+	},
+	{
+		"ID": 5901,
+		"unitID": 2104611,
+		"questionID": 9104641,
+		"script": "\n;;ミュル,3\n# se \"SE_0734\"\n# select \"わたくし\" \"select_label_1\" \"ウチ\" \"select_label_2\" \"ミュル\" \"select_label_3\"\nミュルグレスの一人称は\n次のうちどれ？\n"
+	},
+	{
+		"ID": 5902,
+		"unitID": 2104611,
+		"questionID": 9104642,
+		"script": "\n;;だんちょー,2\n# se \"SE_0734\"\n# select \"マスター\" \"select_label_1\" \"だんちょー\" \"select_label_2\" \"司令官\" \"select_label_3\"\nミュルグレスはあなたのこと、\nなんて呼んでる？\n"
+	},
+	{
+		"ID": 5903,
+		"unitID": 2104611,
+		"questionID": 9104643,
+		"script": "\n;;71cm,1\n# se \"SE_0734\"\n# select \"71cm\" \"select_label_1\" \"81cm\" \"select_label_2\" \"91cm\" \"select_label_3\"\nミュルグレスの\nバストサイズがどのくらいか\nあなたは知ってるの？\n"
+	},
+	{
+		"ID": 5904,
+		"unitID": 2104611,
+		"questionID": 9104644,
+		"script": "\n;;56cm,1\n# se \"SE_0734\"\n# select \"56cm\" \"select_label_1\" \"58cm\" \"select_label_2\" \"60cm\" \"select_label_3\"\nミュルグレスの\nウエストサイズがどのくらいか\nあなたは知ってるの？\n"
+	},
+	{
+		"ID": 5905,
+		"unitID": 2104611,
+		"questionID": 9104645,
+		"script": "\n;;74cm,2\n# se \"SE_0734\"\n# select \"80cm\" \"select_label_1\" \"74cm\" \"select_label_2\" \"79cm\" \"select_label_3\"\nミュルグレスの\nヒップサイズがどのくらいか\nあなたは知ってるの？\n"
+	},
+	{
+		"ID": 5906,
+		"unitID": 2104611,
+		"questionID": 9104646,
+		"script": "\n;;36ｋｇ,1\n# se \"SE_0734\"\n# select \"36ｋｇ\" \"select_label_1\" \"51kg\" \"select_label_2\" \"48kg\" \"select_label_3\"\nミュルグレスの体重は\n次のうちどれ？\n"
+	},
+	{
+		"ID": 5907,
+		"unitID": 2104611,
+		"questionID": 9104647,
+		"script": "\n;;201,2\n# se \"SE_0734\"\n# select \"199\" \"select_label_1\" \"201\" \"select_label_2\" \"200\" \"select_label_3\"\nミュルグレスの\nバスト＋ウエスト＋ヒップは\nいくつかわかる？\n"
+	},
+	{
+		"ID": 5908,
+		"unitID": 2104611,
+		"questionID": 9104648,
+		"script": "\n;;金髪,3\n# se \"SE_0734\"\n# select \"赤髪\" \"select_label_1\" \"緑髪\" \"select_label_2\" \"金髪\" \"select_label_3\"\nミュルグレスの髪の色は\n次のうちどれ？\n"
+	},
+	{
+		"ID": 5909,
+		"unitID": 2104611,
+		"questionID": 9104649,
+		"script": "\n;;参加してない,3\n# se \"SE_0734\"\n# select \"６位\" \"select_label_1\" \"１５位\" \"select_label_2\" \"参加していない\" \"select_label_3\"\nミュルグレスは\n第5回人気投票で\n何位だったでしょう？\n"
+	},
+	{
+		"ID": 5910,
+		"unitID": 2104611,
+		"questionID": 9104650,
+		"script": "\n;;岩井映美⾥,3\n# se \"SE_0734\"\n# select \"秦佐和子\" \"select_label_1\" \"佐倉綾音\" \"select_label_2\" \"岩井映美⾥\" \"select_label_3\"\nミュルグレスの声優は誰？\n"
+	}
+]

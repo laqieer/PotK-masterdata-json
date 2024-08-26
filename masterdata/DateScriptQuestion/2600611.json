@@ -1,0 +1,302 @@
+[
+	{
+		"ID": 2901,
+		"unitID": 2600611,
+		"questionID": 9600601,
+		"script": ";;バルドル,1\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 6006 \"misutoru_0001\"\n@ミストルティン\nマスター\nその…\n\n@ミストルティン\n質問してもよろしいですか…？\n\n@ミストルティン\nいえ、その…\n無理にとは…\n\n# voice 6006 \"misutoru_kyara_1013\"\n@ミストルティン\nえ、いいんですか…？\n\n# face %(unit_a)s \"normal\"\n@ミストルティン\nで、では…\n質問させてもらいますね\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私のキラーズ『ミストルティン』は\nとある神を殺したのですが…\nその、わかりますか？\n\n# se \"SE_0734\"\n# select  \"バルドル\" \"select_label_1\" \"ウル\" \"select_label_2\" \"オーズ\" \"select_label_3\"\n私のキラーズ『ミストルティン』は\nとある神を殺したのですが…\nその、わかりますか？\n"
+	},
+	{
+		"ID": 2902,
+		"unitID": 2600611,
+		"questionID": 9600602,
+		"script": ";;ヤドリギ,2\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 6006 \"misutoru_0001\"\n@ミストルティン\nマスター\nその…\n\n@ミストルティン\n質問してもよろしいですか…？\n\n@ミストルティン\nいえ、その…\n無理にとは…\n\n# voice 6006 \"misutoru_kyara_1013\"\n@ミストルティン\nえ、いいんですか…？\n\n# face %(unit_a)s \"normal\"\n@ミストルティン\nで、では…\n質問させてもらいますね\n;;--------------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私のキラーズ『ミストルティン』は\nどのような武器でしたか…？\n\n# se \"SE_0734\"\n# select  \"槍\" \"select_label_1\" \"ヤドリギ\" \"select_label_2\" \"弓\" \"select_label_3\"\n私のキラーズ『ミストルティン』は\nどのような武器でしたか…？\n"
+	},
+	{
+		"ID": 2903,
+		"unitID": 2600611,
+		"questionID": 9600603,
+		"script": ";;ヘズ,3\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 6006 \"misutoru_0001\"\n@ミストルティン\nマスター\nその…\n\n@ミストルティン\n質問してもよろしいですか…？\n\n@ミストルティン\nいえ、その…\n無理にとは…\n\n# voice 6006 \"misutoru_kyara_1013\"\n@ミストルティン\nえ、いいんですか…？\n\n# face %(unit_a)s \"normal\"\n@ミストルティン\nで、では…\n質問させてもらいますね\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私のキラーズ『ミストルティン』は\n誰に使われましたか？\n\n# se \"SE_0734\"\n# select  \"オーディン\" \"select_label_1\" \"ロキ\" \"select_label_2\" \"ヘズ\" \"select_label_3\"\n私のキラーズ『ミストルティン』は\n誰に使われましたか？\n"
+	},
+	{
+		"ID": 2904,
+		"unitID": 2600611,
+		"questionID": 9600604,
+		"script": ";;非力なヤドリギだったから,1\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 6006 \"misutoru_0001\"\n@ミストルティン\nマスター\nその…\n\n@ミストルティン\n質問してもよろしいですか…？\n\n@ミストルティン\nいえ、その…\n無理にとは…\n\n# voice 6006 \"misutoru_kyara_1013\"\n@ミストルティン\nえ、いいんですか…？\n\n# face %(unit_a)s \"normal\"\n@ミストルティン\nで、では…\n質問させてもらいますね\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私のキラーズ『ミストルティン』は\nバルドルを傷つけない誓いを\n立てなかったのはなぜですか？\n\n# se \"SE_0734\"\n# select  \"非力なヤドリギだったから\" \"select_label_1\" \"影が薄かったから\" \"select_label_2\" \"その場にいなかったから\" \"select_label_3\"\n私のキラーズ『ミストルティン』は\nバルドルを傷つけない誓いを\n立てなかったのはなぜですか？\n"
+	},
+	{
+		"ID": 2905,
+		"unitID": 2600611,
+		"questionID": 9600605,
+		"script": ";;北欧神話,2\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 6006 \"misutoru_0001\"\n@ミストルティン\nマスター\nその…\n\n@ミストルティン\n質問してもよろしいですか…？\n\n@ミストルティン\nいえ、その…\n無理にとは…\n\n# voice 6006 \"misutoru_kyara_1013\"\n@ミストルティン\nえ、いいんですか…？\n\n# face %(unit_a)s \"normal\"\n@ミストルティン\nで、では…\n質問させてもらいますね\n;;--------------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私のキラーズ『ミストルティン』は\nなんの神話に登場しましたか？\n\n# se \"SE_0734\"\n# select  \"ケルト神話\" \"select_label_1\" \"北欧神話\" \"select_label_2\" \"マヤ神話\" \"select_label_3\"\n私のキラーズ『ミストルティン』は\nなんの神話に登場しましたか？\n"
+	},
+	{
+		"ID": 2906,
+		"unitID": 2600611,
+		"questionID": 9600606,
+		"script": ";;ロキ,3\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 6006 \"misutoru_0001\"\n@ミストルティン\nマスター\nその…\n\n@ミストルティン\n質問してもよろしいですか…？\n\n@ミストルティン\nいえ、その…\n無理にとは…\n\n# voice 6006 \"misutoru_kyara_1013\"\n@ミストルティン\nえ、いいんですか…？\n\n# face %(unit_a)s \"normal\"\n@ミストルティン\nで、では…\n質問させてもらいますね\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私のキラーズ『ミストルティン』は\n誰に利用されましたか？\n\n# se \"SE_0734\"\n# select  \"オーディン\" \"select_label_1\" \"ウル\" \"select_label_2\" \"ロキ\" \"select_label_3\"\n私のキラーズ『ミストルティン』は\n誰に利用されましたか？\n"
+	},
+	{
+		"ID": 2907,
+		"unitID": 2600611,
+		"questionID": 9600607,
+		"script": ";;剣,1\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 6006 \"misutoru_0001\"\n@ミストルティン\nマスター\nその…\n\n@ミストルティン\n質問してもよろしいですか…？\n\n@ミストルティン\nいえ、その…\n無理にとは…\n\n# voice 6006 \"misutoru_kyara_1013\"\n@ミストルティン\nえ、いいんですか…？\n\n# face %(unit_a)s \"normal\"\n@ミストルティン\nで、では…\n質問させてもらいますね\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私のキラーズ『ミストルティン』と\n同じ名前の武器があるのですが\nその武器はなんですか？\n\n# se \"SE_0734\"\n# select  \"剣\" \"select_label_1\" \"槍\" \"select_label_2\" \"弓\" \"select_label_3\"\n私のキラーズ『ミストルティン』と\n同じ名前の武器があるのですが\nその武器はなんですか？\n"
+	},
+	{
+		"ID": 2908,
+		"unitID": 2600611,
+		"questionID": 9600608,
+		"script": ";;ミスティルテイン,2\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 6006 \"misutoru_0001\"\n@ミストルティン\nマスター\nその…\n\n@ミストルティン\n質問してもよろしいですか…？\n\n@ミストルティン\nいえ、その…\n無理にとは…\n\n# voice 6006 \"misutoru_kyara_1013\"\n@ミストルティン\nえ、いいんですか…？\n\n# face %(unit_a)s \"normal\"\n@ミストルティン\nで、では…\n質問させてもらいますね\n;;--------------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私のキラーズ『ミストルティン』の\n正式名称はなんですか？\n\n# se \"SE_0734\"\n# select  \"ミストルトルティン\" \"select_label_1\" \"ミスティルテイン\" \"select_label_2\" \"ミスティルトイン\" \"select_label_3\"\n私のキラーズ『ミストルティン』の\n正式名称はなんですか？\n"
+	},
+	{
+		"ID": 2909,
+		"unitID": 2600611,
+		"questionID": 9600609,
+		"script": ";;矢,3\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 6006 \"misutoru_0001\"\n@ミストルティン\nマスター\nその…\n\n@ミストルティン\n質問してもよろしいですか…？\n\n@ミストルティン\nいえ、その…\n無理にとは…\n\n# voice 6006 \"misutoru_kyara_1013\"\n@ミストルティン\nえ、いいんですか…？\n\n# face %(unit_a)s \"normal\"\n@ミストルティン\nで、では…\n質問させてもらいますね\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私のキラーズ『ミストルティン』は\n投げた時になにになりましたか？\n\n# se \"SE_0734\"\n# select  \"剣\" \"select_label_1\" \"槍\" \"select_label_2\" \"矢\" \"select_label_3\"\n私のキラーズ『ミストルティン』は\n投げた時になにになりましたか？\n"
+	},
+	{
+		"ID": 2910,
+		"unitID": 2600611,
+		"questionID": 9600610,
+		"script": ";;ラグナロク,1\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 6006 \"misutoru_0001\"\n@ミストルティン\nマスター\nその…\n\n@ミストルティン\n質問してもよろしいですか…？\n\n@ミストルティン\nいえ、その…\n無理にとは…\n\n# voice 6006 \"misutoru_kyara_1013\"\n@ミストルティン\nえ、いいんですか…？\n\n# face %(unit_a)s \"normal\"\n@ミストルティン\nで、では…\n質問させてもらいますね\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私のキラーズ『ミストルティン』は\nなにを引き起こす要因と\nなりましたか？\n\n# se \"SE_0734\"\n# select  \"ラグナロク\" \"select_label_1\" \"巫女の予言\" \"select_label_2\" \"バルバトス\" \"select_label_3\"\n私のキラーズ『ミストルティン』は\nなにを引き起こす要因と\nなりましたか？\n"
+	},
+	{
+		"ID": 2911,
+		"unitID": 2600611,
+		"questionID": 9600611,
+		"script": ";;日陰を探す,1\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 6006 \"misutoru_0009\"\n@ミストルティン\nあの…\n私とマスターが知り合って\nどれくらい経ったでしょうか…？\n\n# voice 6006 \"misutoru_0022\"\n@ミストルティン\nいえ…！\nふ、深い意味はないです…\n\n@ミストルティン\nただ…その、\nマスターが私の事を\nどれくらい知ってくださっているか…\n\n# voice 6006 \"misutoru_0003\"\n@ミストルティン\nはい、気になったんです…\n\n# face %(unit_a)s \"normal\"\n@ミストルティン\nちょっと聞いてみても\nいいですか…？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私の趣味って\nご存知ですか…？\n\n# se \"SE_0734\"\n# select  \"日陰を探す\" \"select_label_1\" \"昼寝\" \"select_label_2\" \"日向ぼっこ\" \"select_label_3\"\n私の趣味って\nご存知ですか…？\n"
+	},
+	{
+		"ID": 2912,
+		"unitID": 2600611,
+		"questionID": 9600612,
+		"script": ";;おとめ座,2\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 6006 \"misutoru_0009\"\n@ミストルティン\nあの…\n私とマスターが知り合って\nどれくらい経ったでしょうか…？\n\n# voice 6006 \"misutoru_0022\"\n@ミストルティン\nいえ…！\nふ、深い意味はないです…\n\n@ミストルティン\nただ…その、\nマスターが私の事を\nどれくらい知ってくださっているか…\n\n# voice 6006 \"misutoru_0003\"\n@ミストルティン\nはい、気になったんです…\n\n# face %(unit_a)s \"normal\"\n@ミストルティン\nちょっと聞いてみても\nいいですか…？\n;;--------------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私の星座って\nなんでしょうか…？\n\n# se \"SE_0734\"\n# select  \"いて座\" \"select_label_1\" \"おとめ座\" \"select_label_2\" \"みずがめ座\" \"select_label_3\"\n私の星座って\nなんでしょうか…？\n"
+	},
+	{
+		"ID": 2913,
+		"unitID": 2600611,
+		"questionID": 9600613,
+		"script": ";;アスガルズ,3\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 6006 \"misutoru_0009\"\n@ミストルティン\nあの…\n私とマスターが知り合って\nどれくらい経ったでしょうか…？\n\n# voice 6006 \"misutoru_0022\"\n@ミストルティン\nいえ…！\nふ、深い意味はないです…\n\n@ミストルティン\nただ…その、\nマスターが私の事を\nどれくらい知ってくださっているか…\n\n# voice 6006 \"misutoru_0003\"\n@ミストルティン\nはい、気になったんです…\n\n# face %(unit_a)s \"normal\"\n@ミストルティン\nちょっと聞いてみても\nいいですか…？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私の出身地は\nご存知ですか…？\n\n# se \"SE_0734\"\n# select  \"ネーデルラント\" \"select_label_1\" \"東スラブ\" \"select_label_2\" \"アスガルズ\" \"select_label_3\"\n私の出身地は\nご存知ですか…？\n"
+	},
+	{
+		"ID": 2914,
+		"unitID": 2600611,
+		"questionID": 9600614,
+		"script": ";;A型,1\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 6006 \"misutoru_0009\"\n@ミストルティン\nあの…\n私とマスターが知り合って\nどれくらい経ったでしょうか…？\n\n# voice 6006 \"misutoru_0022\"\n@ミストルティン\nいえ…！\nふ、深い意味はないです…\n\n@ミストルティン\nただ…その、\nマスターが私の事を\nどれくらい知ってくださっているか…\n\n# voice 6006 \"misutoru_0003\"\n@ミストルティン\nはい、気になったんです…\n\n# face %(unit_a)s \"normal\"\n@ミストルティン\nちょっと聞いてみても\nいいですか…？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nけ、血液型の相性ってありますよね\n私の血液型って知っていますか？\n\n# se \"SE_0734\"\n# select  \"A型\" \"select_label_1\" \"B型\" \"select_label_2\" \"AB型\" \"select_label_3\"\nけ、血液型の相性ってありますよね\n私の血液型って知っていますか？\n"
+	},
+	{
+		"ID": 2915,
+		"unitID": 2600611,
+		"questionID": 9600615,
+		"script": ";;8月25日,2\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 6006 \"misutoru_0009\"\n@ミストルティン\nあの…\n私とマスターが知り合って\nどれくらい経ったでしょうか…？\n\n# voice 6006 \"misutoru_0022\"\n@ミストルティン\nいえ…！\nふ、深い意味はないです…\n\n@ミストルティン\nただ…その、\nマスターが私の事を\nどれくらい知ってくださっているか…\n\n# voice 6006 \"misutoru_0003\"\n@ミストルティン\nはい、気になったんです…\n\n# face %(unit_a)s \"normal\"\n@ミストルティン\nちょっと聞いてみても\nいいですか…？\n;;--------------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私の誕生日は\n何月何日ですか？\n\n# se \"SE_0734\"\n# select  \"8月23日\" \"select_label_1\" \"8月25日\" \"select_label_2\" \"8月20日\" \"select_label_3\"\n私の誕生日は\n何月何日ですか？\n"
+	},
+	{
+		"ID": 2916,
+		"unitID": 2600611,
+		"questionID": 9600616,
+		"script": ";;155cm,3\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 6006 \"misutoru_0009\"\n@ミストルティン\nあの…\n私とマスターが知り合って\nどれくらい経ったでしょうか…？\n\n# voice 6006 \"misutoru_0022\"\n@ミストルティン\nいえ…！\nふ、深い意味はないです…\n\n@ミストルティン\nただ…その、\nマスターが私の事を\nどれくらい知ってくださっているか…\n\n# voice 6006 \"misutoru_0003\"\n@ミストルティン\nはい、気になったんです…\n\n# face %(unit_a)s \"normal\"\n@ミストルティン\nちょっと聞いてみても\nいいですか…？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nわ、私の身長って\nわかりますか…？\n\n# se \"SE_0734\"\n# select  \"158cm\" \"select_label_1\" \"145cm\" \"select_label_2\" \"155cm\" \"select_label_3\"\nわ、私の身長って\nわかりますか…？\n"
+	},
+	{
+		"ID": 2917,
+		"unitID": 2600611,
+		"questionID": 9600617,
+		"script": ";;杖,1\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 6006 \"misutoru_0009\"\n@ミストルティン\nあの…\n私とマスターが知り合って\nどれくらい経ったでしょうか…？\n\n# voice 6006 \"misutoru_0022\"\n@ミストルティン\nいえ…！\nふ、深い意味はないです…\n\n@ミストルティン\nただ…その、\nマスターが私の事を\nどれくらい知ってくださっているか…\n\n# voice 6006 \"misutoru_0003\"\n@ミストルティン\nはい、気になったんです…\n\n# face %(unit_a)s \"normal\"\n@ミストルティン\nちょっと聞いてみても\nいいですか…？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私の武器は\n覚えていますか？\n\n# se \"SE_0734\"\n# select  \"杖\" \"select_label_1\" \"槍\" \"select_label_2\" \"剣\" \"select_label_3\"\n私の武器は\n覚えていますか？\n"
+	},
+	{
+		"ID": 2918,
+		"unitID": 2600611,
+		"questionID": 9600618,
+		"script": ";;森,2\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 6006 \"misutoru_0009\"\n@ミストルティン\nあの…\n私とマスターが知り合って\nどれくらい経ったでしょうか…？\n\n# voice 6006 \"misutoru_0022\"\n@ミストルティン\nいえ…！\nふ、深い意味はないです…\n\n@ミストルティン\nただ…その、\nマスターが私の事を\nどれくらい知ってくださっているか…\n\n# voice 6006 \"misutoru_0003\"\n@ミストルティン\nはい、気になったんです…\n\n# face %(unit_a)s \"normal\"\n@ミストルティン\nちょっと聞いてみても\nいいですか…？\n;;--------------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私の好きなものは\n知っていますか？\n\n# se \"SE_0734\"\n# select  \"海\" \"select_label_1\" \"森\" \"select_label_2\" \"谷\" \"select_label_3\"\n私の好きなものは\n知っていますか？\n"
+	},
+	{
+		"ID": 2919,
+		"unitID": 2600611,
+		"questionID": 9600619,
+		"script": ";;いない,3\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 6006 \"misutoru_0009\"\n@ミストルティン\nあの…\n私とマスターが知り合って\nどれくらい経ったでしょうか…？\n\n# voice 6006 \"misutoru_0022\"\n@ミストルティン\nいえ…！\nふ、深い意味はないです…\n\n@ミストルティン\nただ…その、\nマスターが私の事を\nどれくらい知ってくださっているか…\n\n# voice 6006 \"misutoru_0003\"\n@ミストルティン\nはい、気になったんです…\n\n# face %(unit_a)s \"normal\"\n@ミストルティン\nちょっと聞いてみても\nいいですか…？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私の親友って\n誰ですか？\n\n# se \"SE_0734\"\n# select  \"セファー\" \"select_label_1\" \"ペルーン\" \"select_label_2\" \"いない\" \"select_label_3\"\n私の親友って\n誰ですか？\n"
+	},
+	{
+		"ID": 2920,
+		"unitID": 2600611,
+		"questionID": 9600620,
+		"script": ";;自分に自信がない,1\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 6006 \"misutoru_0009\"\n@ミストルティン\nあの…\n私とマスターが知り合って\nどれくらい経ったでしょうか…？\n\n# voice 6006 \"misutoru_0022\"\n@ミストルティン\nいえ…！\nふ、深い意味はないです…\n\n@ミストルティン\nただ…その、\nマスターが私の事を\nどれくらい知ってくださっているか…\n\n# voice 6006 \"misutoru_0003\"\n@ミストルティン\nはい、気になったんです…\n\n# face %(unit_a)s \"normal\"\n@ミストルティン\nちょっと聞いてみても\nいいですか…？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私にはとある欠点があるのですが\nわかりますか…？\n\n# se \"SE_0734\"\n# select  \"自分に自信がない\" \"select_label_1\" \"ドジをする\" \"select_label_2\" \"落ち着きがない\" \"select_label_3\"\n私にはとある欠点があるのですが\nわかりますか…？\n"
+	},
+	{
+		"ID": 2921,
+		"unitID": 2600611,
+		"questionID": 9600621,
+		"script": ";;プリースト,1\n# textflame 1 1\n# voice 6006 \"misutoru_0001\"\n@ミストルティン\n…マスター\n少し、よろしいですか？\n\n@ミストルティン\n突然なんですけど\n質問をしてもいいでしょうか…？\n\n# face %(unit_a)s \"sad\"\n@ミストルティン\nいえ、\n深い意味はないのですが…\n\n@ミストルティン\n最近、マスターが私のことを\nどれくらいご存じか、\nちょっと知りたくなりまして…\n\n# voice 6006 \"misutoru_0036\"\n# face %(unit_a)s \"smile\"\n@ミストルティン\nいいんですか？\nでは、出しますね…\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私が☆３だった時の\nジョブを覚えていますか…？\n\n# se \"SE_0734\"\n# select  \"プリースト\" \"select_label_1\" \"ソードマスター\" \"select_label_2\" \"アークドラグナー\" \"select_label_3\"\n私が☆３だった時の\nジョブを覚えていますか…？\n"
+	},
+	{
+		"ID": 2922,
+		"unitID": 2600611,
+		"questionID": 9600622,
+		"script": ";;ビショップ,2\n# textflame 1 1\n# voice 6006 \"misutoru_0001\"\n@ミストルティン\n…マスター\n少し、よろしいですか？\n\n@ミストルティン\n突然なんですけど\n質問をしてもいいでしょうか…？\n\n# face %(unit_a)s \"sad\"\n@ミストルティン\nいえ、\n深い意味はないのですが…\n\n@ミストルティン\n最近、マスターが私のことを\nどれくらいご存じか、\nちょっと知りたくなりまして…\n\n# voice 6006 \"misutoru_0036\"\n# face %(unit_a)s \"smile\"\n@ミストルティン\nいいんですか？\nでは、出しますね…\n;;--------------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私が☆４だった時は\nどんなジョブでしたか…？\n\n# se \"SE_0734\"\n# select  \"ブレイブランサー\" \"select_label_1\" \"ビショップ\" \"select_label_2\" \"ホーリーランサー\" \"select_label_3\"\n私が☆４だった時は\nどんなジョブでしたか…？\n"
+	},
+	{
+		"ID": 2923,
+		"unitID": 2600611,
+		"questionID": 9600623,
+		"script": ";;聖司祭の滅気,3\n# textflame 1 1\n# voice 6006 \"misutoru_0001\"\n@ミストルティン\n…マスター\n少し、よろしいですか？\n\n@ミストルティン\n突然なんですけど\n質問をしてもいいでしょうか…？\n\n# face %(unit_a)s \"sad\"\n@ミストルティン\nいえ、\n深い意味はないのですが…\n\n@ミストルティン\n最近、マスターが私のことを\nどれくらいご存じか、\nちょっと知りたくなりまして…\n\n# voice 6006 \"misutoru_0036\"\n# face %(unit_a)s \"smile\"\n@ミストルティン\nいいんですか？\nでは、出しますね…\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私が☆5の時のリーダースキルは\nなんでしたか…？\n\n# se \"SE_0734\"\n# select  \"剣豪の覇気\" \"select_label_1\" \"賢者の覇気\" \"select_label_2\" \"聖司祭の滅気\" \"select_label_3\"\n私が☆5の時のリーダースキルは\nなんでしたか…？\n"
+	},
+	{
+		"ID": 2924,
+		"unitID": 2600611,
+		"questionID": 9600624,
+		"script": ";;司祭の滅気,1\n# textflame 1 1\n# voice 6006 \"misutoru_0001\"\n@ミストルティン\n…マスター\n少し、よろしいですか？\n\n@ミストルティン\n突然なんですけど\n質問をしてもいいでしょうか…？\n\n# face %(unit_a)s \"sad\"\n@ミストルティン\nいえ、\n深い意味はないのですが…\n\n@ミストルティン\n最近、マスターが私のことを\nどれくらいご存じか、\nちょっと知りたくなりまして…\n\n# voice 6006 \"misutoru_0036\"\n# face %(unit_a)s \"smile\"\n@ミストルティン\nいいんですか？\nでは、出しますね…\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私の☆4の\nリーダースキルは\n覚えていますか…？\n\n# se \"SE_0734\"\n# select  \"司祭の滅気\" \"select_label_1\" \"賢者の威風\" \"select_label_2\" \"剣豪の覇気\" \"select_label_3\"\n私の☆4の\nリーダースキルは\n覚えていますか…？\n"
+	},
+	{
+		"ID": 2925,
+		"unitID": 2600611,
+		"questionID": 9600625,
+		"script": ";;グングニル,2\n# textflame 1 1\n# voice 6006 \"misutoru_0001\"\n@ミストルティン\n…マスター\n少し、よろしいですか？\n\n@ミストルティン\n突然なんですけど\n質問をしてもいいでしょうか…？\n\n# face %(unit_a)s \"sad\"\n@ミストルティン\nいえ、\n深い意味はないのですが…\n\n@ミストルティン\n最近、マスターが私のことを\nどれくらいご存じか、\nちょっと知りたくなりまして…\n\n# voice 6006 \"misutoru_0036\"\n# face %(unit_a)s \"smile\"\n@ミストルティン\nいいんですか？\nでは、出しますね…\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nわ、私のライバルって\n誰ですか…？\n\n# se \"SE_0734\"\n# select  \"ヴァジュラ\" \"select_label_1\" \"グングニル\" \"select_label_2\" \"アスカロン\" \"select_label_3\"\nわ、私のライバルって\n誰ですか…？\n"
+	},
+	{
+		"ID": 2926,
+		"unitID": 2600611,
+		"questionID": 9600626,
+		"script": ";;花嫁の喜び,3\n# textflame 1 1\n# voice 6006 \"misutoru_0001\"\n@ミストルティン\n…マスター\n少し、よろしいですか？\n\n@ミストルティン\n突然なんですけど\n質問をしてもいいでしょうか…？\n\n# face %(unit_a)s \"sad\"\n@ミストルティン\nいえ、\n深い意味はないのですが…\n\n@ミストルティン\n最近、マスターが私のことを\nどれくらいご存じか、\nちょっと知りたくなりまして…\n\n# voice 6006 \"misutoru_0036\"\n# face %(unit_a)s \"smile\"\n@ミストルティン\nいいんですか？\nでは、出しますね…\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私がウェディング姿だった時の\n☆６のリーダースキルは\nなんでしたか…？\n\n# se \"SE_0734\"\n# select  \"風銃神の寵愛\" \"select_label_1\" \"光剣神の寵愛\" \"select_label_2\" \"花嫁の喜び\" \"select_label_3\"\n私がウェディング姿だった時の\n☆６のリーダースキルは\nなんでしたか…？\n"
+	},
+	{
+		"ID": 2927,
+		"unitID": 2600611,
+		"questionID": 9600627,
+		"script": ";;花嫁の口づけ,1\n# textflame 1 1\n# voice 6006 \"misutoru_0001\"\n@ミストルティン\n…マスター\n少し、よろしいですか？\n\n@ミストルティン\n突然なんですけど\n質問をしてもいいでしょうか…？\n\n# face %(unit_a)s \"sad\"\n@ミストルティン\nいえ、\n深い意味はないのですが…\n\n@ミストルティン\n最近、マスターが私のことを\nどれくらいご存じか、\nちょっと知りたくなりまして…\n\n# voice 6006 \"misutoru_0036\"\n# face %(unit_a)s \"smile\"\n@ミストルティン\nいいんですか？\nでは、出しますね…\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私がウェディング姿の時に\n覚えるスキルで\n蘇生スキルの名前はなんですか…？\n\n# se \"SE_0734\"\n# select  \"花嫁の口づけ\" \"select_label_1\" \"シャイネスブーケ\" \"select_label_2\" \"花嫁の嗜み\" \"select_label_3\"\n私がウェディング姿の時に\n覚えるスキルで\n蘇生スキルの名前はなんですか…？\n"
+	},
+	{
+		"ID": 2928,
+		"unitID": 2600611,
+		"questionID": 9600628,
+		"script": ";;花嫁の癒し,2\n# textflame 1 1\n# voice 6006 \"misutoru_0001\"\n@ミストルティン\n…マスター\n少し、よろしいですか？\n\n@ミストルティン\n突然なんですけど\n質問をしてもいいでしょうか…？\n\n# face %(unit_a)s \"sad\"\n@ミストルティン\nいえ、\n深い意味はないのですが…\n\n@ミストルティン\n最近、マスターが私のことを\nどれくらいご存じか、\nちょっと知りたくなりまして…\n\n# voice 6006 \"misutoru_0036\"\n# face %(unit_a)s \"smile\"\n@ミストルティン\nいいんですか？\nでは、出しますね…\n;;--------------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私がウェディング姿の時に\n一番最初に覚えるスキルは\nなんですか…？\n\n# se \"SE_0734\"\n# select  \"花嫁の嗜み\" \"select_label_1\" \"花嫁の癒し\" \"select_label_2\" \"花嫁の心得\" \"select_label_3\"\n私がウェディング姿の時に\n一番最初に覚えるスキルは\nなんですか…？\n"
+	},
+	{
+		"ID": 2929,
+		"unitID": 2600611,
+		"questionID": 9600629,
+		"script": ";;温室へどうぞ,3\n# textflame 1 1\n# voice 6006 \"misutoru_0001\"\n@ミストルティン\n…マスター\n少し、よろしいですか？\n\n@ミストルティン\n突然なんですけど\n質問をしてもいいでしょうか…？\n\n# face %(unit_a)s \"sad\"\n@ミストルティン\nいえ、\n深い意味はないのですが…\n\n@ミストルティン\n最近、マスターが私のことを\nどれくらいご存じか、\nちょっと知りたくなりまして…\n\n# voice 6006 \"misutoru_0036\"\n# face %(unit_a)s \"smile\"\n@ミストルティン\nいいんですか？\nでは、出しますね…\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私が制服を着ていた時の\nリーダースキルは\n覚えていますか…？\n\n# se \"SE_0734\"\n# select  \"毎日平和なのが一番さ\" \"select_label_1\" \"わたしの型\" \"select_label_2\" \"温室へどうぞ\" \"select_label_3\"\n私が制服を着ていた時の\nリーダースキルは\n覚えていますか…？\n"
+	},
+	{
+		"ID": 2930,
+		"unitID": 2600611,
+		"questionID": 9600630,
+		"script": ";;命中・必殺UP,1\n# textflame 1 1\n# voice 6006 \"misutoru_0001\"\n@ミストルティン\n…マスター\n少し、よろしいですか？\n\n@ミストルティン\n突然なんですけど\n質問をしてもいいでしょうか…？\n\n# face %(unit_a)s \"sad\"\n@ミストルティン\nいえ、\n深い意味はないのですが…\n\n@ミストルティン\n最近、マスターが私のことを\nどれくらいご存じか、\nちょっと知りたくなりまして…\n\n# voice 6006 \"misutoru_0036\"\n# face %(unit_a)s \"smile\"\n@ミストルティン\nいいんですか？\nでは、出しますね…\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私が制服を着ていた時の\nスキルで、命中と必殺が\n上がるスキルはなんですか？\n\n# se \"SE_0734\"\n# select  \"命中・必殺UP\" \"select_label_1\" \"技巧の心得\" \"select_label_2\" \"妙技の心得\" \"select_label_3\"\n私が制服を着ていた時の\nスキルで、命中と必殺が\n上がるスキルはなんですか？\n"
+	},
+	{
+		"ID": 2931,
+		"unitID": 2600611,
+		"questionID": 9600631,
+		"script": ";;スカウト,1\n# textflame 1 1\n# voice 6006 \"misutoru_0001\"\n# face %(unit_a)s \"sad\"\n@ミストルティン\nマスター\n実は、最近気になっていることが\nあります…\n\n# voice 6006 \"misutoru_0028\"\n@ミストルティン\nその…\nたいしたことでは\nないのですが…\n\n@ミストルティン\nマスターは\nきちんと私のことを\n見てくれているのか…\n\n@ミストルティン\nあの…\n今日、確かめてみても\nいいですか？\n\n# voice 6006 \"misutoru_0036\"\n# face %(unit_a)s \"normal\"\n@ミストルティン\nでは、質問させて\nいただきますね…？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私のライバルである\nグングニルの趣味は\nなんでしょうか…？\n\n# se \"SE_0734\"\n# select  \"スカウト\" \"select_label_1\" \"昼寝\" \"select_label_2\" \"ご飯\" \"select_label_3\"\n私のライバルである\nグングニルの趣味は\nなんでしょうか…？\n"
+	},
+	{
+		"ID": 2932,
+		"unitID": 2600611,
+		"questionID": 9600632,
+		"script": ";;グングニル,2\n# textflame 1 1\n# voice 6006 \"misutoru_0001\"\n# face %(unit_a)s \"sad\"\n@ミストルティン\nマスター\n実は、最近気になっていることが\nあります…\n\n# voice 6006 \"misutoru_0028\"\n@ミストルティン\nその…\nたいしたことでは\nないのですが…\n\n@ミストルティン\nマスターは\nきちんと私のことを\n見てくれているのか…\n\n@ミストルティン\nあの…\n今日、確かめてみても\nいいですか？\n\n# voice 6006 \"misutoru_0036\"\n# face %(unit_a)s \"normal\"\n@ミストルティン\nでは、質問させて\nいただきますね…？\n;;--------------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私とライバルである\nグングニルは\nどちらが背が高いですか？\n\n# se \"SE_0734\"\n# select  \"同じ\" \"select_label_1\" \"グングニル\" \"select_label_2\" \"ミストルティン\" \"select_label_3\"\n私とライバルである\nグングニルは\nどちらが背が高いですか？\n"
+	},
+	{
+		"ID": 2933,
+		"unitID": 2600611,
+		"questionID": 9600633,
+		"script": ";;アスガルズ,3\n# textflame 1 1\n# voice 6006 \"misutoru_0001\"\n# textflame 1 1\n# voice 6006 \"misutoru_0001\"\n# face %(unit_a)s \"sad\"\n@ミストルティン\nマスター\n実は、最近気になっていることが\nあります…\n\n# voice 6006 \"misutoru_0028\"\n@ミストルティン\nその…\nたいしたことでは\nないのですが…\n\n@ミストルティン\nマスターは\nきちんと私のことを\n見てくれているのか…\n\n@ミストルティン\nあの…\n今日、確かめてみても\nいいですか？\n\n# voice 6006 \"misutoru_0036\"\n# face %(unit_a)s \"normal\"\n@ミストルティン\nでは、質問させて\nいただきますね…？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私のライバルである\nグングニルの出身地は\nどこですか？\n\n# se \"SE_0734\"\n# select  \"オリュンポス\" \"select_label_1\" \"ギリシャ\" \"select_label_2\" \"アスガルズ\" \"select_label_3\"\n私のライバルである\nグングニルの出身地は\nどこですか？\n"
+	},
+	{
+		"ID": 2934,
+		"unitID": 2600611,
+		"questionID": 9600634,
+		"script": ";;眼帯をしている人,1\n# textflame 1 1\n# voice 6006 \"misutoru_0001\"\n# face %(unit_a)s \"sad\"\n@ミストルティン\nマスター\n実は、最近気になっていることが\nあります…\n\n# voice 6006 \"misutoru_0028\"\n@ミストルティン\nその…\nたいしたことでは\nないのですが…\n\n@ミストルティン\nマスターは\nきちんと私のことを\n見てくれているのか…\n\n@ミストルティン\nあの…\n今日、確かめてみても\nいいですか？\n\n# voice 6006 \"misutoru_0036\"\n# face %(unit_a)s \"normal\"\n@ミストルティン\nでは、質問させて\nいただきますね…？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私のライバルである\nグングニルの好きなものは\nなんですか？\n\n# se \"SE_0734\"\n# select  \"眼帯をしている人\" \"select_label_1\" \"強い人\" \"select_label_2\" \"気が弱い人\" \"select_label_3\"\n私のライバルである\nグングニルの好きなものは\nなんですか？\n"
+	},
+	{
+		"ID": 2935,
+		"unitID": 2600611,
+		"questionID": 9600635,
+		"script": ";;ダグダ,2\n# textflame 1 1\n# voice 6006 \"misutoru_0001\"\n# face %(unit_a)s \"sad\"\n@ミストルティン\nマスター\n実は、最近気になっていることが\nあります…\n\n# voice 6006 \"misutoru_0028\"\n@ミストルティン\nその…\nたいしたことでは\nないのですが…\n\n@ミストルティン\nマスターは\nきちんと私のことを\n見てくれているのか…\n\n@ミストルティン\nあの…\n今日、確かめてみても\nいいですか？\n\n# voice 6006 \"misutoru_0036\"\n# face %(unit_a)s \"normal\"\n@ミストルティン\nでは、質問させて\nいただきますね…？\n;;--------------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私と違う誕生月なのは\nどなたでしょうか？\n\n# se \"SE_0734\"\n# select  \"エロース\" \"select_label_1\" \"ダグダ\" \"select_label_2\" \"エルキュール\" \"select_label_3\"\n私と違う誕生月なのは\nどなたでしょうか？\n"
+	},
+	{
+		"ID": 2936,
+		"unitID": 2600611,
+		"questionID": 9600636,
+		"script": ";;ピンク,3\n# textflame 1 1\n# voice 6006 \"misutoru_0001\"\n# textflame 1 1\n# voice 6006 \"misutoru_0001\"\n# face %(unit_a)s \"sad\"\n@ミストルティン\nマスター\n実は、最近気になっていることが\nあります…\n\n# voice 6006 \"misutoru_0028\"\n@ミストルティン\nその…\nたいしたことでは\nないのですが…\n\n@ミストルティン\nマスターは\nきちんと私のことを\n見てくれているのか…\n\n@ミストルティン\nあの…\n今日、確かめてみても\nいいですか？\n\n# voice 6006 \"misutoru_0036\"\n# face %(unit_a)s \"normal\"\n@ミストルティン\nでは、質問させて\nいただきますね…？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nわ、私の髪の色は\n何色ですか…？\n\n# se \"SE_0734\"\n# select  \"黒\" \"select_label_1\" \"シルバー\" \"select_label_2\" \"ピンク\" \"select_label_3\"\nわ、私の髪の色は\n何色ですか…？\n"
+	},
+	{
+		"ID": 2937,
+		"unitID": 2600611,
+		"questionID": 9600637,
+		"script": ";;ピンク,1\n# textflame 1 1\n# voice 6006 \"misutoru_0001\"\n# face %(unit_a)s \"sad\"\n@ミストルティン\nマスター\n実は、最近気になっていることが\nあります…\n\n# voice 6006 \"misutoru_0028\"\n@ミストルティン\nその…\nたいしたことでは\nないのですが…\n\n@ミストルティン\nマスターは\nきちんと私のことを\n見てくれているのか…\n\n@ミストルティン\nあの…\n今日、確かめてみても\nいいですか？\n\n# voice 6006 \"misutoru_0036\"\n# face %(unit_a)s \"normal\"\n@ミストルティン\nでは、質問させて\nいただきますね…？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私の瞳の色は\n何色ですか？\n\n# se \"SE_0734\"\n# select  \"ピンク\" \"select_label_1\" \"白\" \"select_label_2\" \"紫\" \"select_label_3\"\n私の瞳の色は\n何色ですか？\n"
+	},
+	{
+		"ID": 2938,
+		"unitID": 2600611,
+		"questionID": 9600638,
+		"script": ";;Virgo,2\n# textflame 1 1\n# voice 6006 \"misutoru_0001\"\n# face %(unit_a)s \"sad\"\n@ミストルティン\nマスター\n実は、最近気になっていることが\nあります…\n\n# voice 6006 \"misutoru_0028\"\n@ミストルティン\nその…\nたいしたことでは\nないのですが…\n\n@ミストルティン\nマスターは\nきちんと私のことを\n見てくれているのか…\n\n@ミストルティン\nあの…\n今日、確かめてみても\nいいですか？\n\n# voice 6006 \"misutoru_0036\"\n# face %(unit_a)s \"normal\"\n@ミストルティン\nでは、質問させて\nいただきますね…？\n;;--------------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私の星座であるおとめ座の\n英語読みは、\n次のうちどれですか？\n\n# se \"SE_0734\"\n# select  \"Libra\" \"select_label_1\" \"Virgo\" \"select_label_2\" \"Capricorn\" \"select_label_3\"\n私の星座であるおとめ座の\n英語読みは、\n次のうちどれですか？\n"
+	},
+	{
+		"ID": 2939,
+		"unitID": 2600611,
+		"questionID": 9600639,
+		"script": ";;エロース,3\n# textflame 1 1\n# voice 6006 \"misutoru_0001\"\n# textflame 1 1\n# voice 6006 \"misutoru_0001\"\n# face %(unit_a)s \"sad\"\n@ミストルティン\nマスター\n実は、最近気になっていることが\nあります…\n\n# voice 6006 \"misutoru_0028\"\n@ミストルティン\nその…\nたいしたことでは\nないのですが…\n\n@ミストルティン\nマスターは\nきちんと私のことを\n見てくれているのか…\n\n@ミストルティン\nあの…\n今日、確かめてみても\nいいですか？\n\n# voice 6006 \"misutoru_0036\"\n# face %(unit_a)s \"normal\"\n@ミストルティン\nでは、質問させて\nいただきますね…？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私と同じ誕生月なのは\nどなたでしょうか？\n\n# se \"SE_0734\"\n# select  \"ミネルヴァ\" \"select_label_1\" \"ダグダ\" \"select_label_2\" \"エロース\" \"select_label_3\"\n私と同じ誕生月なのは\nどなたでしょうか？\n"
+	},
+	{
+		"ID": 2940,
+		"unitID": 2600611,
+		"questionID": 9600640,
+		"script": ";;ヴァナルガンド,1\n# textflame 1 1\n# voice 6006 \"misutoru_0001\"\n# face %(unit_a)s \"sad\"\n@ミストルティン\nマスター\n実は、最近気になっていることが\nあります…\n\n# voice 6006 \"misutoru_0028\"\n@ミストルティン\nその…\nたいしたことでは\nないのですが…\n\n@ミストルティン\nマスターは\nきちんと私のことを\n見てくれているのか…\n\n@ミストルティン\nあの…\n今日、確かめてみても\nいいですか？\n\n# voice 6006 \"misutoru_0036\"\n# face %(unit_a)s \"normal\"\n@ミストルティン\nでは、質問させて\nいただきますね…？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n次の中で\n私と同じ星座は\n誰ですか？\n\n# se \"SE_0734\"\n# select  \"ヴァナルガンド\" \"select_label_1\" \"ワズラ\" \"select_label_2\" \"バルムンク\" \"select_label_3\"\n次の中で\n私と同じ星座は\n誰ですか？\n"
+	},
+	{
+		"ID": 2941,
+		"unitID": 2600611,
+		"questionID": 9600641,
+		"script": "\n;;私,1\n# se \"SE_0734\"\n# select \"私\" \"select_label_1\" \"わたくし\" \"select_label_2\" \"あたし\" \"select_label_3\"\nミストルティンの一人称は\n次のうちどれ？\n"
+	},
+	{
+		"ID": 2942,
+		"unitID": 2600611,
+		"questionID": 9600642,
+		"script": "\n;;マスター,1\n# se \"SE_0734\"\n# select \"マスター\" \"select_label_1\" \"おまえ\" \"select_label_2\" \"あんた\" \"select_label_3\"\nミストルティンはアンタのこと、\nなんて呼んでる？\n"
+	},
+	{
+		"ID": 2943,
+		"unitID": 2600611,
+		"questionID": 9600643,
+		"script": "\n;;79,2\n# se \"SE_0734\"\n# select \"76\" \"select_label_1\" \"79\" \"select_label_2\" \"82\" \"select_label_3\"\nミストルティンの\nバストサイズがどのくらいか\nアンタ…知ってるの？\n"
+	},
+	{
+		"ID": 2944,
+		"unitID": 2600611,
+		"questionID": 9600644,
+		"script": "\n;;57,2\n# se \"SE_0734\"\n# select \"54\" \"select_label_1\" \"57\" \"select_label_2\" \"60\" \"select_label_3\"\nミストルティンの\nウエストサイズがどのくらいか\nアンタ…知ってるの？\n"
+	},
+	{
+		"ID": 2945,
+		"unitID": 2600611,
+		"questionID": 9600645,
+		"script": "\n;;82,3\n# se \"SE_0734\"\n# select \"79\" \"select_label_1\" \"85\" \"select_label_2\" \"82\" \"select_label_3\"\nミストルティンの\nヒップサイズがどのくらいか\nアンタ…知ってるの？\n"
+	},
+	{
+		"ID": 2946,
+		"unitID": 2600611,
+		"questionID": 9600646,
+		"script": "\n;;43,3\n# se \"SE_0734\"\n# select \"40\" \"select_label_1\" \"46\" \"select_label_2\" \"43\" \"select_label_3\"\nミストルティンの体重は\n次のうちどれ？\n"
+	},
+	{
+		"ID": 2947,
+		"unitID": 2600611,
+		"questionID": 9600647,
+		"script": "\n;;218,2\n# se \"SE_0734\"\n# select \"209\" \"select_label_1\" \"218\" \"select_label_2\" \"227\" \"select_label_3\"\nミストルティンの\nバスト＋ウエスト＋ヒップは\nいくつかわかる？\n"
+	},
+	{
+		"ID": 2948,
+		"unitID": 2600611,
+		"questionID": 9600648,
+		"script": "\n;;白,2\n# se \"SE_0734\"\n# select \"赤\" \"select_label_1\" \"白\" \"select_label_2\" \"緑\" \"select_label_3\"\nミストルティンの水着の色は\n次のうちどれ？\n"
+	},
+	{
+		"ID": 2949,
+		"unitID": 2600611,
+		"questionID": 9600649,
+		"script": "\n;;20位,1\n# se \"SE_0734\"\n# select \"20位\" \"select_label_1\" \"22位\" \"select_label_2\" \"27位\" \"select_label_3\"\nミストルティンは\n第２回人気投票で\n何位だったでしょう？\n"
+	},
+	{
+		"ID": 2950,
+		"unitID": 2600611,
+		"questionID": 9600650,
+		"script": "\n;;茅野愛衣,1\n# se \"SE_0734\"\n# select \"茅野愛衣\" \"select_label_1\" \"戸松遥\" \"select_label_2\" \"早見沙織\" \"select_label_3\"\nミストルティンの声優は誰？\n"
+	}
+]

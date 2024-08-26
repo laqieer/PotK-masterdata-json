@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 503223,
+		"script": ";;A緊張してる中\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_shipboard\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# voice 250321 \"tiphereth_t_0004\"\n# face %(unit_a)s \"surprise\"\n@ティファレト\nえ？\nふふっ…\n主様は心配性ですね\n\n# face %(unit_a)s \"usual\"\n@ティファレト\n大丈夫ですよ\n確かに夜の海は\n恐ろしくもありますが…\n\n@ティファレト\n今は私が\n主様のそばにいます\n\n# face %(unit_a)s \"close\"\n@ティファレト\nどんなに危険な\n状況になっても、\n必ず助けて差し上げます\n\n;;モノローグ\n# textflame 0 0\n@\nティファレトの頼もしさを\n称えるマスター\n\n# textflame 1 1\n# voice 250321 \"tiphereth_t_0005\"\n# face %(unit_a)s \"normal\"\n@ティファレト\nふふっ…\n主様ほどではありませんよ\n\n@ティファレト\nあなたの頼もしいお姿に\n私は何度\n救われたことか…\n\n@ティファレト\nですから、今度は私の番\nずっと主様の\nそばにいつづけます\n\n# voice 250321 \"tiphereth_t_0003\"\n# face %(unit_a)s \"usual\"\n@ティファレト\nそして、主様を守ります\n何度でも、どんなときでも…\n\n;;モノローグ\n# textflame 0 0\n@\nティファレトの\nまっすぐな決意を受け止め\n\n;;モノローグ\n# textflame 0 0\n@\n照れくさそうに\n目を逸らすマスターだった…\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

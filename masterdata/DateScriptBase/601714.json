@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 601714,
+		"script": ";;A:飲み過ぎは良くないよ\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background %(background)s\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# face %(unit_a)s \"angry\"\n@アクア\nなに言ってるの！\nまだちょっと飲んだだけよ！？\n\n@アクア\nそれにこんなに楽しいことが\n体に悪いわけがないわ！\n\n# eye %(unit_a)s \"close\"\n@アクア\nんぐっ、んぐっ、んぐっ…\nぷっは～！\n\n# face %(unit_a)s \"smile\"\n# eye %(unit_a)s \"normal\"\n@アクア\nすみませ～ん\nシュワシュワ\nじゃんじゃん持ってきて～\n\n# face %(unit_a)s \"irregular\"\n@アクア\nほらほら、\nマスターも楽しいでしょ～？\n\n@アクア\nやっぱり、\nリゾートの夜といったら\nこうじゃなくっちゃね！\n\n# textflames 0 0\n@\n楽しそうなアクアを見ていると\n確かにマスターも楽しくなる\n\n# face %(unit_a)s \"smile\"\n@アクア\nそうでしょ、そうでしょ\n盛り上がって来たじゃない！\n\n# textflames 0 0\n@\nアクアはこの上なく上機嫌だが\nやはり飲み過ぎは心配だ\n\n# textflames 0 0\n@\n適当なところで\n帰ることにしよう\n\n# textflames 0 0\n@\nマスターは\nそう固く心に誓うのだった\n;;--------------------------------------\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

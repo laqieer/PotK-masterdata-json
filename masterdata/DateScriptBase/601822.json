@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 601822,
+		"script": ";;A大自分が買いに行くよ\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_shipboard\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask 2601811 on\n# chara %(unit_a)s\n# face %(unit_a)s \"normal\"\n# voice 260181 \"wizu_0005\"\n# textflame 1 1\n@ウィズ\n本当ですか！？\n絶対、絶対に約束ですよ！\n\n# face %(unit_a)s \"sad\"\n# voice 260181 \"wizu_0026\"\n@ウィズ\n…って、無理ですよね\n元の世界に帰ったら\n会えなくなりますから\n\n# face %(unit_a)s \"usual\"\n@ウィズ\nその気持ちだけでも嬉しいです\nあなたが応援してくれてるって思うと\nそれだけで頑張れそうです\n\n@ウィズ\nだけど、今だけはお店のことは\n忘れて…\n\n@ウィズ\nこうやって、ふたりで波の音を\n聞いていたい気分です…\n\n# textflame 0 0\n@\n会話をやめて\n静かな波の音に耳を傾ける\n\n# textflame 0 0\n@\nそれからのふたりの間には、\nゆったりとした\n優しい時間が漂っていた\n\n;;-----------------------------------------\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

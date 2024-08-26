@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 103812,
+		"script": ";;B,パウンドケーキはどう？（大あたり）\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_cafe\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# face %(unit_a)s \"surprise\"\n# voice 210381 \"almace_0039\"\n# textflame 1 1\n@アルマス\nあら、それを勧めるってことは\n私の好物を覚えていたの？\nふーん？　ふーーん？\n\n@アルマス\nん？私がパウンドケーキが\n好きな理由？\n\n# face %(unit_a)s \"usual\"\n# voice 210381 \"almace_0004\"\n@アルマス\nふふ、それは食べてみればわかる…\nって、食べさせて、って何？\n\n@アルマス\nまさか……あーん！？\n\n# face %(unit_a)s \"angry\"\n# voice 210381 \"almace_0035\"\n@アルマス\nそ、そんなこと\nやるわけないでしょ！\n恥ずかしい…\n\n@アルマス\nはあ…急に何を言い出すかと思えば\n…あら？\n\n# face %(unit_a)s \"surprise\"\n# voice 210381 \"almace_0002\"\n@アルマス\nあなた、ほら、ここ。\n口の横に、クリームついてるわ\n\n;;モノローグ\n# textflame 0 0\n@\nアルマスはクリームを\n指ですくうと、\nペロリと舐め取った\n\n# face %(unit_a)s \"usual\"\n# voice 210381 \"almace_0004\"\n# textflame 1 1\n@アルマス\nこれでよし、と。\n…今度は、そんなに\n顔を真っ赤にしてどうしたの？\n\n# face %(unit_a)s \"surprise\"\n@アルマス\nへっ！？今のって、\nあーん…よりも\n高度なイチャつき方！？\n\n@アルマス\nわわわっ、忘れて！\n絶忘れてよぉ…ばかぁ！\n\n;;モノローグ\n# textflame 0 0 \n@\nまるで照れ隠しのように\nアルマスはケーキを\n矢継ぎ早に口に運び続ける\n\n;;モノローグ\n@\nそんな様子のアルマスを\n微笑ましく眺めながら\nお茶を楽しんだのだった\n\n;;-----------------------------------------\n# waitandnext 2\n# fadeout \"black\" 1.2\n"
+	}
+]

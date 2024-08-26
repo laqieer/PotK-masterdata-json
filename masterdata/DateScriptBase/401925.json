@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 401925,
+		"script": ";;A小付き合ってくれてありがとう\n;;B中楽しかったのは本当\n;;C大もう少し一緒にいたい\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_onsen\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 0 0\n@\nフェイルノートを連れて、\n水着着用の温泉へやってきた\nマスター\n\n# voice 240191 \"failnaught_a_0001\"\n# textflame 1 1\n@フェイルノート\nお前様、この私を\n散々連れまわした気分はどう？\n\n@フェイルノート\nもしかして、\nその疲れを癒そうと思って\n温泉に来た、ということかしら？\n\n@フェイルノート\nその気配りは\n加点に値するわ\n\n# face 2401911 \"smile\"\n# voice 240191 \"failnaught_a_0003\"\n@フェイルノート\n今日のデートは総合的に見て\n満点とはいかないけれど\nまあ、少しは楽しめたわね\n\n# textflame 0 0\n@\nマスターは、\n付き合ってくれてありがとう\nとお礼をする\n\n# face 2401911 \"normal\"\n# voice 240191 \"failnaught_a_0007\"\n# textflame 1 1\n@フェイルノート\nそう、それでいいの\nもっと感謝するべきだわ\n\n@フェイルノート\nまったく、お前様に合わせたばかりに\n貴重な一日を潰してしまったわ\n\n@フェイルノート\nこの私の時間を奪うなんて\nどれだけ大それたことをしたか…\n理解はしているのでしょう？\n\n@フェイルノート\nお前様には、真に私に\nふさわしい人物に\nなってもらわないとね\n\n# textflame 0 0\n@\nフェイルノートの\n説教なのか励ましなのか\nよくわからない言葉\n\n# textflame 0 0\n@\nそれを聞きながら\nゆっくりと二人で温泉を\n楽しんだのだった\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

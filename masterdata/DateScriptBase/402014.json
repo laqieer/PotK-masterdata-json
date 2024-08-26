@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 402014,
+		"script": ";;C\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_park_night\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# face %(unit_a)s \"surprise\"\n# voice 540201 \"hyoha_c_0028\"\n# textflame 1 1\n@ヒョウハ\nそりゃ、楽しければ\nそれでいいけどさ…\n\n@ヒョウハ\nそれだと、遊ぶのと\n変わらないんじゃないか？\n\n@ヒョウハ\nつまり、みんなと遊ぶことと\n同じってことだよな？\n\n# voice 540201 \"hyoha_c_0002\"\n@ヒョウハ\n…師匠はそれでいいのか？\n\n@ヒョウハ\nあたしはさ\nデートって、特別なことだと\n思ってた…\n\n@ヒョウハ\nだからさ、嬉しかったんだ\n師匠がわたしをデートに\n誘ってくれたことが\n\n@ヒョウハ\n師匠があたしを特別だって\n思ってくれたって\n気がして…\n\n@ヒョウハ\nあたし、師匠の\n特別な存在になりたいんだ\n\n# voice 540201 \"hyoha_c_0027\"\n@ヒョウハ\nうぅ…自分で言ってて\n良く分からなくなってきた\n\n# face %(unit_a)s \"angry\"\n@ヒョウハ\n…と、とにかく！\n師匠がいいんだよ！\nあたしは師匠が一番だ！\n\n# face %(unit_a)s \"surprise\"\n@ヒョウハ\n師匠もそうだと…\nいいんだけどさ…\n\n# voice 540201 \"hyoha_c_0028\"\n@ヒョウハ\nうぅ…何言ってんだろ\nちょっと頭冷やしてくる…\n\n# textflame 0 0\n@\nそう言って、ヒョウハは\n背中を向ける\n\n@\nマスターはそんなヒョウハに\nもっと色々話そうと\n提案する\n\n# textflame 1 1\n# voice 540201 \"hyoha_c_0022\"\n@ヒョウハ\nえ？もっと色々話す？\n…うん、わかった\n\n# textflame 0 0\n@\nこうして、二人は\n自分の思いを口にすることで\n少しだけ心の距離が近づいたのだった\n\n;;-----------------------------------------\n# waitandnext 2\n# fadeout \"black\" 1.2\n"
+	}
+]

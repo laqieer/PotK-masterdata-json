@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 600412,
+		"script": "# script \"lisp\"\n# fadein \"black\" 0.5\n# background %(background)s\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# voice 6004 \"kadokeusu_0004\"\n@カドケウス\nもっちろんいっぱいあるよ～\nでも、全部は買えないからさぁ\n\n# textflame 1 1\n@カドケウス\n誰かが…私にくれたり\nあげたりしないかぎりはね～\n\n# voice 6004 \"kadokeusu_0005\"\n# textflame 1 1\n@カドケウス\nふふふ\nそんな高いものじゃないけど～\nちょっと数が多いんだ～\n\n# textflame 1 1\n@カドケウス\nだ・か・ら～\n\n# textflame 1 1\n@カドケウス\n誰かが、おごってくれたり\nプレゼントしてくれないかぎりは\n全部そろえられないんだ～\n\n# textflame 0 0\n@\n上目遣いで見つめるカドケウス\nやがてその視線に根負けして\nマスターは頷いてしまう\n\n# textflame 1 1\n@カドケウス\nんふふ♪冗談だよ～！\n全部プレゼントしてなんて\n言わないから～\n\n# textflame 1 1\n@カドケウス\nなにか一つだけ\nマスターが私のために\n選んでくれたものを\n\n# textflame 1 1\n@カドケウス\n私のためだけに\n選んでくれたものを\nプレゼントして欲しいな？\n\n# textflame 1 1\n@カドケウス\nマスターがどんなものを\nプレゼントしてくれるのか\n楽しみ～♪\n\n# textflame 0 0\n@\nカドケウスを喜ばせるには\nなにを買えばいいのか\n\n# textflame 0 0\n@\n笑顔で見守る\nカドケウスを意識しながら、\nこの難問に挑戦するマスターだった\n;;--------------------------------------\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

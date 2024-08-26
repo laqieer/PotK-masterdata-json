@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 2101425,
+		"script": ";;え？　どうかした？ //ちょっと上がる\n;;思わず見惚れてたよ //すごく上がる\n;;波の音も気持ちいいね //上がる\n;;青・黒ティルフィング_デート\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_shipboard\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 0 0\n# face %(unit_a)s \"usual\"\n@\nティルフィングを誘って\n遊覧船に乗ることにした\nマスター\n\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n@ティルフィング\nふぅ…\n風が気持ちいいですね\nマスター\n\n# textflame 0 0\n@\n心地よさげに目を細め、\n髪をかきあげる\nティルフィング\n\n# textflame 1 1\n@ティルフィング\n…マスター？\nどうかしましたか？\n\n# textflame 0 0\n@\nえ？　どうかした？\nとマスター\n\n# textflame 1 1\n# voice 210142 \"tyrufing_k_0027\"\n# face %(unit_a)s \"sad\"\n@ティルフィング\nもう…\nちゃんと聞いてください\n\n# textflame 0 0\n@\nごめんね、それでどうしたの？\nとマスターは聞き返すが、\n彼女は首を振って黙ってしまった\n\n@\n自分が思ったことを\n素直に言える勇気があれば…\n\n@\nそう悔いるマスターだったが、\n気まずい空気だけが流れていた\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

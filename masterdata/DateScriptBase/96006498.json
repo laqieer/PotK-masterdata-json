@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 96006498,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# se \"SE_0733\"\n# face %(unit_a)s \"sad\"\n# voice 6006 \"misutoru_0028\"\n@ミストルティン\n不正解です…\n\n@ミストルティン\nやっぱり\nマスターは私のことなんか\n見ていないですよね…\n\n# voice 6006 \"misutoru_kyara_1013\"\n@ミストルティン\n…え？\nそんなことはない、ですか\n\n# face %(unit_a)s \"normal\"\n@ミストルティン\nありがとうございます\nそのお言葉だけでも嬉しいです…\n\n# face %(unit_a)s \"sad\"\n@ミストルティン\n今日は、たまたま\n調子が悪かっただけって\nことですよね？\n\n@ミストルティン\n次は、正解してくださいね？\n\n# textflame 0 0\n@\nミストルティンは\nマスターの目を真っ直ぐに\n見つめる\n\n@\nその目は\nどこか期待するような光を\n宿している\n\n@\nこんなすがるような目で見られたら、\nなんとか勉強するしかない…！\n\n@\n次は笑顔を見られるように\n頑張ろう…！\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

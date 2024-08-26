@@ -1,0 +1,62 @@
+[
+	{
+		"ID": 6053,
+		"unitID": 2401111,
+		"questionID": 9401101,
+		"script": ";;弓,2\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n@%(unitName:unit_a)s\n………\n\n# textflame 0 0\n@\n空を見つめる彼女に\nマスターが尋ねる\nどうしたの…？\n\n# eye %(unit_a)s \"close\"\n# textflame 1 1\n@%(unitName:unit_a)s\nううん\n\n# voice 4011 \"madoka_0030\"\n@%(unitName:unit_a)s\nありがとう、マスター\n今日はとっても楽しかったよ\n\n@%(unitName:unit_a)s\n楽しくて\n見滝原中学の時の、\n夏休みを思い出しちゃった\n\n# eye %(unit_a)s \"normal\"\n# voice 4011 \"madoka_0001\"\n@%(unitName:unit_a)s\nマスター、\nわたしが通っていた中学の名前、\n知ってた？\n\n@%(unitName:unit_a)s\nそうだ！\nわたしのこと、\nどれくらい知ってるか…\n\n@%(unitName:unit_a)s\n今からクイズにして\n質問するね\n\n# voice 4011 \"madoka_0004\"\n@%(unitName:unit_a)s\nいくよ！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしの武器はなに？　\n\n# se \"SE_0734\"\n# select \"剣\" \"select_label_1\" \"弓\" \"select_label_2\" \"斧\" \"select_label_3\"\nわたしの武器はなに？　\n"
+	},
+	{
+		"ID": 6054,
+		"unitID": 2401111,
+		"questionID": 9401102,
+		"script": ";;ピンク,3\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n@%(unitName:unit_a)s\n………\n\n# textflame 0 0\n@\n空を見つめる彼女に\nマスターが尋ねる\nどうしたの…？\n\n# eye %(unit_a)s \"close\"\n# textflame 1 1\n@%(unitName:unit_a)s\nううん\n\n# voice 4011 \"madoka_0030\"\n@%(unitName:unit_a)s\nありがとう、マスター\n今日はとっても楽しかったよ\n\n@%(unitName:unit_a)s\n楽しくて\n見滝原中学の時の、\n夏休みを思い出しちゃった\n\n# eye %(unit_a)s \"normal\"\n# voice 4011 \"madoka_0001\"\n@%(unitName:unit_a)s\nマスター、\nわたしが通っていた中学の名前、\n知ってた？\n\n@%(unitName:unit_a)s\nそうだ！\nわたしのこと、\nどれくらい知ってるか…\n\n@%(unitName:unit_a)s\n今からクイズにして\n質問するね\n\n# voice 4011 \"madoka_0004\"\n@%(unitName:unit_a)s\nいくよ！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしのソウルジェムの色は？\n\n# se \"SE_0734\"\n# select \"白\" \"select_label_1\" \"黄\" \"select_label_2\" \"ピンク\" \"select_label_3\"\nわたしのソウルジェムの色は？\n"
+	},
+	{
+		"ID": 6055,
+		"unitID": 2401111,
+		"questionID": 9401103,
+		"script": ";;光,1\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n@%(unitName:unit_a)s\n………\n\n# textflame 0 0\n@\n空を見つめる彼女に\nどうしたの…？と\nマスターが尋ねる\n\n# voice 4011 \"madoka_0028\"\n# textflame 1 1\n@%(unitName:unit_a)s\nわたし、このままずっと\nこの世界にいるのかなあ…\n\n# textflame 0 0\n@\n異世界からやって来たという彼女\nやはり不安は拭い切れないのだろう\n\n@\n大丈夫だよ、\n必ず帰れるよ\nと優しく告げるマスター\n\n# face %(unit_a)s \"normal\"\n# voice 4011 \"madoka_0003\"\n# textflame 1 1\n@%(unitName:unit_a)s\nありがとう\n\n# textflame 0 0\n@\n君の事なら何でも答えられるよ、\n問題を出してみて\nと、提案するマスター\n\n# voice 4011 \"madoka_0022\"\n# textflame 1 1\n@%(unitName:unit_a)s\nほんとうに？\n\n@%(unitName:unit_a)s\nじゃあ、いくよ！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしの属性はどれ？\n\n# se \"SE_0734\"\n# select \"光\" \"select_label_1\" \"闇\" \"select_label_2\" \"氷\" \"select_label_3\"\nわたしの属性はどれ？\n"
+	},
+	{
+		"ID": 6056,
+		"unitID": 2401111,
+		"questionID": 9401104,
+		"script": ";;専業主夫,2\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n@%(unitName:unit_a)s\n………\n\n# textflame 0 0\n@\n空を見つめる彼女に\nどうしたの…？と\nマスターが尋ねる\n\n# voice 4011 \"madoka_0028\"\n# textflame 1 1\n@%(unitName:unit_a)s\nわたし、このままずっと\nこの世界にいるのかなあ…\n\n# textflame 0 0\n@\n異世界からやって来たという彼女\nやはり不安は拭い切れないのだろう\n\n@\n大丈夫だよ、\n必ず帰れるよ\nと優しく告げるマスター\n\n# face %(unit_a)s \"normal\"\n# voice 4011 \"madoka_0003\"\n# textflame 1 1\n@%(unitName:unit_a)s\nありがとう\n\n# textflame 0 0\n@\n君の事なら何でも答えられるよ、\n問題を出してみて\nと、提案するマスター\n\n# voice 4011 \"madoka_0022\"\n# textflame 1 1\n@%(unitName:unit_a)s\nほんとうに？\n\n@%(unitName:unit_a)s\nじゃあ、いくよ！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしのお父さんは…\n\n# se \"SE_0734\"\n# select \"ビジネスマン\" \"select_label_1\" \"専業主夫\" \"select_label_2\" \"花屋さん\" \"select_label_3\"\nわたしのお父さんは…\n"
+	},
+	{
+		"ID": 6057,
+		"unitID": 2401111,
+		"questionID": 9401105,
+		"script": ";;保健委員,1\n# voice 4011 \"madoka_0001\"\n# textflame 1 1\n@%(unitName:unit_a)s\nありがとうね、マスター\n\n# textflame 0 0\n@\nどうしたの、急に？\nマスターが尋ねる\n\n# voice 4011 \"madoka_0003\"\n# textflame 1 1\n@%(unitName:unit_a)s\n外の世界から来たわたしにも、\nみんなと同じように接してくれて\n\n# textflame 0 0\n@\nそんなの当たり前だよ、\nキル姫もまどかも大切な仲間だから\nと、答えるマスター\n\n# face %(unit_a)s \"happy\"\n# voice 4011 \"madoka_0030\"\n# textflame 1 1\n@%(unitName:unit_a)s\nありがとう！\n嬉しいなぁ\n\n# textflame 0 0\n@\nふと思いついたように、\n彼女がマスターに尋ねた\n\n# face %(unit_a)s \"normal\"\n# textflame 1 1\n@%(unitName:unit_a)s\nそうだ\n\n# voice 4011 \"madoka_0002\"\n@%(unitName:unit_a)s\nマスターがわたしのこと、\nどれくらい知っているのか\n聞いてみてもいいかな？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしは学校のクラスで何委員？\n\n# se \"SE_0734\"\n# select \"保健委員\" \"select_label_1\" \"給食委員\" \"select_label_2\" \"学級委員\" \"select_label_3\"\nわたしは学校のクラスで何委員？\n"
+	},
+	{
+		"ID": 6058,
+		"unitID": 2401111,
+		"questionID": 9401106,
+		"script": ";;タツヤ,2\n# voice 4011 \"madoka_0001\"\n# textflame 1 1\n@%(unitName:unit_a)s\nありがとうね、マスター\n\n# textflame 0 0\n@\nどうしたの、急に？\nマスターが尋ねる\n\n# voice 4011 \"madoka_0003\"\n# textflame 1 1\n@%(unitName:unit_a)s\n外の世界から来たわたしにも、\nみんなと同じように接してくれて\n\n# textflame 0 0\n@\nそんなの当たり前だよ、\nキル姫もまどかも大切な仲間だから\nと、答えるマスター\n\n# face %(unit_a)s \"happy\"\n# voice 4011 \"madoka_0030\"\n# textflame 1 1\n@%(unitName:unit_a)s\nありがとう！\n嬉しいなぁ\n\n# textflame 0 0\n@\nふと思いついたように、\n彼女がマスターに尋ねた\n\n# face %(unit_a)s \"normal\"\n# textflame 1 1\n@%(unitName:unit_a)s\nそうだ\n\n# voice 4011 \"madoka_0002\"\n@%(unitName:unit_a)s\nマスターがわたしのこと、\nどれくらい知っているのか\n聞いてみてもいいかな？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしの弟の名前は？\n\n# se \"SE_0734\"\n# select \"タクヤ\" \"select_label_1\" \"タツヤ\" \"select_label_2\" \"タスク\" \"select_label_3\"\nわたしの弟の名前は？\n"
+	},
+	{
+		"ID": 6059,
+		"unitID": 2401111,
+		"questionID": 9401107,
+		"script": ";;ピンク,3\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 4011 \"madoka_0001\"\n@%(unitName:unit_a)s\n今日はありがとう\n\n@%(unitName:unit_a)s\nマスターは不思議な人だね\n\n# textflame 0 0\n@\nどうして？\nと、尋ねるマスター\n\n# face %(unit_a)s \"sad\"\n# voice 4011 \"madoka_0028\"\n# textflame 1 1\n@%(unitName:unit_a)s\nえっと…\n\n@%(unitName:unit_a)s\nううん、\nなんでもない\n\n# textflame 0 0\n@\nなぜか答えてくれない彼女\n\n@\nそんな彼女にマスターは提案する\nじゃあ、君が出すクイズに\n正解できたら教えてくれる？\n\n# face %(unit_a)s \"normal\"\n# voice 4011 \"madoka_0022\"\n# textflame 1 1\n@%(unitName:unit_a)s\nえ？クイズ？\n\n@%(unitName:unit_a)s\nわかった、いいよ\n\n@%(unitName:unit_a)s\nじゃ、いくよ！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしの髪の色は？\n\n# se \"SE_0734\"\n# select \"青色\" \"select_label_1\" \"黄色\" \"select_label_2\" \"ピンク\" \"select_label_3\"\nわたしの髪の色は？\n"
+	},
+	{
+		"ID": 6060,
+		"unitID": 2401111,
+		"questionID": 9401108,
+		"script": ";;キュゥべえ,2\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 4011 \"madoka_0001\"\n@%(unitName:unit_a)s\n今日はありがとう\n\n@%(unitName:unit_a)s\nマスターは不思議な人だね\n\n# textflame 0 0\n@\nどうして？\nと、尋ねるマスター\n\n# face %(unit_a)s \"sad\"\n# voice 4011 \"madoka_0028\"\n# textflame 1 1\n@%(unitName:unit_a)s\nえっと…\n\n@%(unitName:unit_a)s\nううん、\nなんでもない\n\n# textflame 0 0\n@\nなぜか答えてくれない彼女\n\n@\nそんな彼女にマスターは提案する\nじゃあ、君が出すクイズに\n正解できたら教えてくれる？\n\n# face %(unit_a)s \"normal\"\n# voice 4011 \"madoka_0022\"\n# textflame 1 1\n@%(unitName:unit_a)s\nえ？クイズ？\n\n@%(unitName:unit_a)s\nわかった、いいよ\n\n@%(unitName:unit_a)s\nじゃ、いくよ！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしが魔法少女の\n契約をしたのは誰と？\n\n# se \"SE_0734\"\n# select \"ペーペー\" \"select_label_1\" \"キュゥべえ\" \"select_label_2\" \"ドンべえ\" \"select_label_3\"\nわたしが魔法少女の\n契約をしたのは誰と？\n"
+	},
+	{
+		"ID": 6061,
+		"unitID": 2401111,
+		"questionID": 9401109,
+		"script": "\n;;わたし,1\n# se \"SE_0734\"\n# select \"わたし\" \"select_label_1\" \"オレ\" \"select_label_2\" \"まどか\" \"select_label_3\"\n鹿目 まどかの一人称は\n次のうちどれ？\n"
+	},
+	{
+		"ID": 6062,
+		"unitID": 2401111,
+		"questionID": 9401110,
+		"script": "\n;;悠木碧,1\n# se \"SE_0734\"\n# select \"悠木碧\" \"select_label_1\" \"水橋かおり\" \"select_label_2\" \"斎藤千和\" \"select_label_3\"\n鹿目 まどかの声優は誰？\n"
+	}
+]

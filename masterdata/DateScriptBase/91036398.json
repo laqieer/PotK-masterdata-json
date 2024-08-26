@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 91036398,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# se \"SE_0733\"\n# face %(unit_a)s \"sad\"\n# voice 1036 \"ragnarok_0013\"\n@ラグナロク\n…残念だけど、不正解\n\n@ラグナロク\n気にしないで\n最初に言ったでしょ？\n試す意図はない、って…\n\n@ラグナロク\nごめんなさい\n変なことを聞いてしまったから\n空気が悪くなったわね…\n\n# face %(unit_a)s \"usual\"\n# voice 1036 \"ragnarok_0003\"\n@ラグナロク\n帰りましょうか\n今日のクイズのことは忘れて…\n\n# textflame 0 0\n@\n周囲にまとわりつく空気が\nどんよりと重くなっていくのを感じた\n\n@\n忘れて、\nとラグナロクには言われたが\n\n@\nこの息苦しさは\n忘れられそうになかった…\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

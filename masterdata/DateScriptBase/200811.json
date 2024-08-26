@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 200811,
+		"script": "# script \"lisp\"\n# fadein \"black\" 0.5\n# background %(background)s\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 0 0\n# face %(unit_a)s \"usual\"\n@\nマスターは\nペルーンを連れて\n森林浴にやってきた\n\n# textflame 1 1\n# voice 2008 \"perun_0001\"\n@ペルーン\nあ！\nマスターマスター！\nこのお花の名前知ってる？\n\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n@ペルーン\nわ、この樹おっきぃ～！\n樹齢…100年はいってるね！\n\n# select \"詳しいんだね \" \"select_label_01\" \"知らないことばかり\" \"select_label_02\" \"この花の名前は？\" \"select_label_03\"\nわ、この樹おっきぃ～！\n樹齢…100年はいってるね！\n\n# label \"select_label_01\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_02\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_03\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_end\"\n# waitandnext 0.1\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

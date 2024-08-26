@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 2000113,
+		"script": ";;A\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_hauntedhouse\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# face %(unit_a)s \"shy\"\n# voice 5200011 \"aegis_c_0005\"\n@イージス\nフフッ♪\nそうそう、それでいいんだ！\n\n@イージス\nでは行くぞ！\n堂々としておけば\n何も怖くは…\n\n# face %(unit_a)s \"sad\"\n# voice 5200011 \"aegis_c_battle_0007\"\n@イージス\n…うわぁあああっ！？\n\n;;演出：画面揺れ\n;;ＳＥ：ドシーン！（二人が倒れる音）\n# alpha %(unit_a)s 0 0.3\n# shake 1 0.5\n# se \"SE_0905\"\n# se \"SE_0846\"\n# textwindow \"close\"\n# waitandnext 1\n\n# alpha %(unit_a)s 0 0.3\n# voice 5200011 \"aegis_c_0031\"\n# textwindow \"nomal\"\n@イージス\nい、いたた…\nすまない、大丈夫かっ！？\nつまづいてしまって…！\n\n# face %(unit_a)s \"angry\"\n# voice 5200011 \"aegis_c_0024\"\n@イージス\n…ってぇ！？\nどどどどこ触ってるの、\nハレンチぃいいっ！！\n\n@イージス\nいやごめんっ、\n私のせいだよね！？\nすぐに離れるから！\n\n# face %(unit_a)s \"sad\"\n# voice 5200011 \"aegis_c_0015\"\n@イージス\nあ、あれっ？\n紐が引っかかってる…！\n\n@イージス\nわわっ！？待って隊長！\nそれ以上動くと脱げるっ！\n\n@イージス\nだ、誰か～！\nスタッフさ～ん、助けて～！！\n\n# textflame 0 0\n@\nなんだなんだ？と\nぞろぞろ集まってくる\nホラーハウスのスタッフたち\n\n# textflame 0 0\n@\nお化けに取り囲まれ、\nマスターは恐怖のあまり\n気絶してしまったのだった…\n;;-----------------------------------------\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 92010398,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# se \"SE_0733\"\n# face %(unit_a)s \"sad\"\n# voice 2010 \"ukonbasara_0015\"\n@ウコンバサラ\n…………\n\n@ウコンバサラ\n…違うよ\n\n# voice 2010 \"ukonbasara_0008\"\n@ウコンバサラ\nちょっと…ショックだな…\n\n# face %(unit_a)s \"usual\"\n@ウコンバサラ\nねぇ、マスター…\n\n@ウコンバサラ\n私のそばから…\n\n# face %(unit_a)s \"sad\"\n@ウコンバサラ\nいなくならないでね？\n\n@ウコンバサラ\nずっと…\n一緒にいて欲しいな…\n\n# textflame 0 0\n@\n失う恐怖に俯く彼女…\nその悲痛な表情が目に焼きついた…\n\n@\nデート中のはずなのに\nそんな思いをさせてしまうなんて…\n\n@\n次こそは、\n絶対に間違えないように\nしないとな…\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

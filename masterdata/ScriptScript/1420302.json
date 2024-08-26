@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 1420302,
+		"script": "# script \"lisp\"\n# body 101411\n# pos 101411 1\n# body 0\n# pos 0 2\n# body 7\n# pos 7 3\n# body 6\n# pos 6 5\n# scale 101411 0.8 0\n# scale 0 0.7 0\n# scale 7 0.8 0\n# scale 6 0.8 0\n# layer 0 1\n# textboxarrow 0 2\n# face 7 \"angry\"\n# chara 7\n@？？？\nええい、この！\nゴチャゴチャゴチャゴチャ\n現れおって！！\n\n# serif 1\n# textboxarrow 1 1\n# face 101411 \"angry\"\n# chara 101411\n@ティルフィング\nお爺さん、大丈夫ですか！？\n私の背後に…\n\n# serif 0\n# textboxarrow 0 2\n# chara 7\n@？？？\n喝ーーっ！！！\n\n# serif 1\n# voice 1014 \"tyrufing_0022\"\n# face 101411 \"surprised\"\n# textboxarrow 1 1\n# chara 101411\n@ティルフィング\nえっ！？\n\n# serif 0\n# textboxarrow 0 2\n# chara 7\n@？？？\n寄るな、この異族めが！！\nおぬしにくれてやるイモは無いと\n言うとろうが！！\n\n# serif 1\n# textboxarrow 1 1\n# chara 101411\n@ティルフィング\nい、いえ…私は…\n\n# serif 0\n# textboxarrow 0 3\n# face 6 \"angry\"\n# voice 9997 \"deen_0001\"\n# chara 6\n@ディーン\nおい、爺さん…いい加減にしろよ？\n俺たちは、助けに来てやって…\n\n# serif 1\n# textboxarrow 1 2\n# chara 7\n@？？？\n現れたな、異族の親分！\nおのれ…このワシが\n成敗してくれるわーっ！！！\n\n# serif 0\n# face 6 \"sad\"\n# textboxarrow 0 3\n# chara 6\n@ディーン\nちょちょ、ちょっと待てって！！\n\n# serif 1\n# textboxarrow 1 1\n# chara 0\n@デュリン\nダメだ、相手にしてらんないわ\nティルフィング、\n異族の殲滅に集中して\n\n# serif 0\n# face 101411 \"normal\"\n# textboxarrow 0 1\n# chara 101411\n@ティルフィング\nえ、ええ…！"
+	}
+]

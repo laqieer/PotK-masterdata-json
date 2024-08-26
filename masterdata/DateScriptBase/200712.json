@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 200712,
+		"script": "# script \"lisp\"\n# fadein \"black\" 0.5\n# background %(background)s\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# voice 2007 \"sharuuru_0005\"\n@シャルウル\nふふっ…♪\n私と一緒に\n勉強がしたかったんですか？\n\n# textflame 0 0\n@\nシャルウルはマスターを見つめ\n優しく微笑んだ\n\n# textflame 1 1\n@シャルウル\nやはり勉強とは\n互いの情報を共有する、\n素晴らしい行為ですよね♪\n\n# voice 2007 \"sharuuru_0003\"\n# textflame 1 1\n@シャルウル\nでは、どんどん\n見ていきましょう！\n\n# voice 2007 \"sharuuru_0040\"\n# face %(unit_a)s \"normal\"\n# textflame 1 1\n@シャルウル\nあっ、綺麗な石があります♪\nこれも貴重な一品なのでしょうね…\n\n# textflame 0 0\n@\nシャルウルが指さしたそれは、\nお土産品として\n売られている物だった\n\n# voice 2007 \"sharuuru_0031\"\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@シャルウル\nす、すみません…\n私としたことが\n少し舞い上がってしまいました\n\n# face %(unit_a)s \"normal\"\n# textflame 1 1\n@シャルウル\nでも、本当に美しいですね…\n\n# voice 2007 \"sharuuru_0001\"\n# textflame 1 1\n@シャルウル\nあの、マスター…\nこの石、一緒に購入しませんか？\n\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@シャルウル\n今日という日を記念して\nお互いにプレゼントをするんです\n\n# textflame 0 0\n@\nシャルウルの提案に\nマスターは頷いた\n\n# voice 2007 \"sharuuru_0005\"\n# textflame 1 1\n@シャルウル\nふふっ♪\n\n# textflame 1 1\n@シャルウル\n勉強ではありませんが\nこれも素敵な情報の…\n思い出の共有…ですね\n;;--------------------------------------\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

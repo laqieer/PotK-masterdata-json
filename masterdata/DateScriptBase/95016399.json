@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 95016399,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# se \"SE_0732\"\n# voice 5016 \"Flabellum_0028\"\n;;flabellum_0028\n@フラベルム\nふむ…\n\n@フラベルム\n難なく正解して、\nつまらないです\n\n# voice 5016 \"Flabellum_0019\"\n# face %(unit_a)s \"smile\"\n@フラベルム\nあなたが間違えた時のため、\n罵倒する言葉を大量に用意\nしてきたというのに…\n\n# textflame 0 0\n@\nその言葉を聞いて、\n心底正解してよかったと\n胸をなで下ろすマスターだった\n\n# face %(unit_a)s \"normal\"\n# textflame 1 1\n# voice 5016 \"Flabellum_0004\"\n@フラベルム\nあーあ、せっかくの\n機会を失ってしまいました\n本当に、残念ですね\n\n# textflame 0 0\n@\nと言いながらも、\nフラベルムの表情が少し\n明るいのはなぜだろう\n\n@\nこれは憶測でしかないけれど、\nクイズに正解したことを\n喜んでいるのかもしれない\n\n@\nだとすると、フラベルムとの\n絆がより深まったように感じる\nマスターであった\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

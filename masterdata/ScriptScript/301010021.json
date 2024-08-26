@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 301010021,
+		"script": ";;-----------------------------------------\n;;キズナアイコラボ_イベントシナリオ地上編OP\n;;-----------------------------------------\n# script \"lisp\"\n# background \"makabe\"\n# bgmfile \"bgm150\" \"BgmPJZero001\" 0\n;;-----------------------------------------\n# body 52000711\n# pos 52000711 3\n# scale 52000711 0.8 0\n# layer 52000711 3\n# mask 52000711 off\n# alpha 52000711 0 0\n;;-----------------------------------------\n# textwindow \"close\"\n# fadein \"black\" 1\n# waitandnext 1.5\n\n# alpha 52000711 1 1\n# waitandnext 1\n\n# textflame 1 1\n# textwindow \"nomal\"\n# textboxarrow 0 2\n@キズナアイ\nおおー、ここが地上世界…\n\n# voice 20007 \"kizunaai_0013\"\n# face 52000711 \"sad\"\n@キズナアイ\nって…なにここ…\nすっごく怖い…\n\n# face 52000711 \"normal\"\n@キズナアイ\nえっと…地上編は\n悪魔や魔獣がたくさんいる\n世界なんだ…\n\n@キズナアイ\nそれに対抗するために、\nキラーメイルっていう\n存在がいるんだって\n\n# face 52000711 \"surprise\"\n@キズナアイ\nキラーメイル？\nキル姫じゃないんだ\n\n@キズナアイ\nけど名前が似てるし、\nもしかして関係あるのかな？\n\n# voice 20007 \"kizunaai_0028\"\n# face 52000711 \"sad\"\n@キズナアイ\nう～ん…\nやってみればわかるかな\n\n# imageset 0 \"black\"\n# imagealpha 0 0 0\n# imagelayer 0 1\n# face 52000711 \"normal\"\n@キズナアイ\nそれじゃあ、\nひとまずプレイしてみよう！\n\n;;暗転挟む\n# imagealpha 0 1 0\n# imagepos 0 0 30\n# imageleftin 0 0.5\n# textwindow \"close\"\n# waitandnext 0.5\n\n# background \"bg_black\"\n# alpha 52000711 0 0\n# waitandnext 0.5"
+	}
+]

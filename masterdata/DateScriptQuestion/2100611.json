@@ -1,0 +1,302 @@
+[
+	{
+		"ID": 3601,
+		"unitID": 2100611,
+		"questionID": 9100601,
+		"script": ";;剣,1\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 1006 \"nageruring_kyara_1018\"\n@ナーゲルリング\nあの…マスター\nちょっといいですか？\n\n@ナーゲルリング\nすごく突然なんですけど…\n\n@ナーゲルリング\n私に関する簡単なクイズを\n出してもいいですか？\n\n# voice 1006 \"nageruring_0030\"\n# face %(unit_a)s \"smile\"\n@ナーゲルリング\nそうですか！\nありがとうございます♪\n\n# voice 1006 \"nageruring_0036\"\n@ナーゲルリング\nそれでは…\nよろしくお願いします！\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私のキラーズ『ナーゲルリング』は\n英雄ディートリヒ・フォン・ベルンの\n伝説に登場するなんでしたか？\n\n# se \"SE_0734\"\n# select  \"剣\" \"select_label_1\" \"槍\" \"select_label_2\" \"斧\" \"select_label_3\"\n私のキラーズ『ナーゲルリング』は\n英雄ディートリヒ・フォン・ベルンの\n伝説に登場するなんでしたか？\n"
+	},
+	{
+		"ID": 3602,
+		"unitID": 2100611,
+		"questionID": 9100602,
+		"script": ";;グリム,2\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 1006 \"nageruring_kyara_1018\"\n@ナーゲルリング\nあの…マスター\nちょっといいですか？\n\n@ナーゲルリング\nすごく突然なんですけど…\n\n@ナーゲルリング\n私に関する簡単なクイズを\n出してもいいですか？\n\n# voice 1006 \"nageruring_0030\"\n# face %(unit_a)s \"smile\"\n@ナーゲルリング\nそうですか！\nありがとうございます♪\n\n# voice 1006 \"nageruring_0036\"\n@ナーゲルリング\nそれでは…\nよろしくお願いします！\n;;--------------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私のキラーズ『ナーゲルリング』は\n小人アルプリスが鍛え\n巨人の誰が持っていた剣ですか？\n\n# se \"SE_0734\"\n# select  \"ガイラ\" \"select_label_1\" \"グリム\" \"select_label_2\" \"ドルジ\" \"select_label_3\"\n私のキラーズ『ナーゲルリング』は\n小人アルプリスが鍛え\n巨人の誰が持っていた剣ですか？\n"
+	},
+	{
+		"ID": 3603,
+		"unitID": 2100611,
+		"questionID": 9100603,
+		"script": ";;アルプリス,3\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 1006 \"nageruring_kyara_1018\"\n@ナーゲルリング\nあの…マスター\nちょっといいですか？\n\n@ナーゲルリング\nすごく突然なんですけど…\n\n@ナーゲルリング\n私に関する簡単なクイズを\n出してもいいですか？\n\n# voice 1006 \"nageruring_0030\"\n# face %(unit_a)s \"smile\"\n@ナーゲルリング\nそうですか！\nありがとうございます♪\n\n# voice 1006 \"nageruring_0036\"\n@ナーゲルリング\nそれでは…\nよろしくお願いします！\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私のキラーズ『ナーゲルリング』を\n巨人グリムから盗んだ小人の名は\nなんでしょうか？\n\n# se \"SE_0734\"\n# select  \"アルシンド\" \"select_label_1\" \"アリマタ\" \"select_label_2\" \"アルプリス\" \"select_label_3\"\n私のキラーズ『ナーゲルリング』を\n巨人グリムから盗んだ小人の名は\nなんでしょうか？\n"
+	},
+	{
+		"ID": 3604,
+		"unitID": 2100611,
+		"questionID": 9100604,
+		"script": ";;ディートリヒ,1\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 1006 \"nageruring_kyara_1018\"\n@ナーゲルリング\nあの…マスター\nちょっといいですか？\n\n@ナーゲルリング\nすごく突然なんですけど…\n\n@ナーゲルリング\n私に関する簡単なクイズを\n出してもいいですか？\n\n# voice 1006 \"nageruring_0030\"\n# face %(unit_a)s \"smile\"\n@ナーゲルリング\nそうですか！\nありがとうございます♪\n\n# voice 1006 \"nageruring_0036\"\n@ナーゲルリング\nそれでは…\nよろしくお願いします！\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私のキラーズ『ナーゲルリング』を\n「こんな鋭い剣を初めて見た」と\n褒め称えた人物は誰ですか？\n\n# se \"SE_0734\"\n# select  \"ディートリヒ\" \"select_label_1\" \"デーザリア\" \"select_label_2\" \"ドールキ\" \"select_label_3\"\n私のキラーズ『ナーゲルリング』を\n「こんな鋭い剣を初めて見た」と\n褒め称えた人物は誰ですか？\n"
+	},
+	{
+		"ID": 3605,
+		"unitID": 2100611,
+		"questionID": 9100605,
+		"script": ";;ハイメ,2\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 1006 \"nageruring_kyara_1018\"\n@ナーゲルリング\nあの…マスター\nちょっといいですか？\n\n@ナーゲルリング\nすごく突然なんですけど…\n\n@ナーゲルリング\n私に関する簡単なクイズを\n出してもいいですか？\n\n# voice 1006 \"nageruring_0030\"\n# face %(unit_a)s \"smile\"\n@ナーゲルリング\nそうですか！\nありがとうございます♪\n\n# voice 1006 \"nageruring_0036\"\n@ナーゲルリング\nそれでは…\nよろしくお願いします！\n;;--------------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私のキラーズ『ナーゲルリング』は\nディートリヒから配下の騎士である\n誰に渡されたでしょうか？\n\n# se \"SE_0734\"\n# select  \"マルシ\" \"select_label_1\" \"ハイメ\" \"select_label_2\" \"フルイ\" \"select_label_3\"\n私のキラーズ『ナーゲルリング』は\nディートリヒから配下の騎士である\n誰に渡されたでしょうか？\n"
+	},
+	{
+		"ID": 3606,
+		"unitID": 2100611,
+		"questionID": 9100606,
+		"script": ";;ブルートガング,3\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 1006 \"nageruring_kyara_1018\"\n@ナーゲルリング\nあの…マスター\nちょっといいですか？\n\n@ナーゲルリング\nすごく突然なんですけど…\n\n@ナーゲルリング\n私に関する簡単なクイズを\n出してもいいですか？\n\n# voice 1006 \"nageruring_0030\"\n# face %(unit_a)s \"smile\"\n@ナーゲルリング\nそうですか！\nありがとうございます♪\n\n# voice 1006 \"nageruring_0036\"\n@ナーゲルリング\nそれでは…\nよろしくお願いします！\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私のキラーズ『ナーゲルリング』を\n渡されたある配下の\n以前の剣の名前はなんでしょう？\n\n# se \"SE_0734\"\n# select  \"ブルブラッドブレード\" \"select_label_1\" \"ブルードソード\" \"select_label_2\" \"ブルートガング\" \"select_label_3\"\n私のキラーズ『ナーゲルリング』を\n渡されたある配下の\n以前の剣の名前はなんでしょう？\n"
+	},
+	{
+		"ID": 3607,
+		"unitID": 2100611,
+		"questionID": 9100607,
+		"script": ";;小人アルプリス,1\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 1006 \"nageruring_kyara_1018\"\n@ナーゲルリング\nあの…マスター\nちょっといいですか？\n\n@ナーゲルリング\nすごく突然なんですけど…\n\n@ナーゲルリング\n私に関する簡単なクイズを\n出してもいいですか？\n\n# voice 1006 \"nageruring_0030\"\n# face %(unit_a)s \"smile\"\n@ナーゲルリング\nそうですか！\nありがとうございます♪\n\n# voice 1006 \"nageruring_0036\"\n@ナーゲルリング\nそれでは…\nよろしくお願いします！\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私のキラーズ『ナーゲルリング』は\n誰によって鍛えられた剣でしたか？\n\n# se \"SE_0734\"\n# select  \"小人アルプリス\" \"select_label_1\" \"小人ユートス\" \"select_label_2\" \"小人キシルア\" \"select_label_3\"\n私のキラーズ『ナーゲルリング』は\n誰によって鍛えられた剣でしたか？\n"
+	},
+	{
+		"ID": 3608,
+		"unitID": 2100611,
+		"questionID": 9100608,
+		"script": ";;シュツルータン,2\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 1006 \"nageruring_kyara_1018\"\n@ナーゲルリング\nあの…マスター\nちょっといいですか？\n\n@ナーゲルリング\nすごく突然なんですけど…\n\n@ナーゲルリング\n私に関する簡単なクイズを\n出してもいいですか？\n\n# voice 1006 \"nageruring_0030\"\n# face %(unit_a)s \"smile\"\n@ナーゲルリング\nそうですか！\nありがとうございます♪\n\n# voice 1006 \"nageruring_0036\"\n@ナーゲルリング\nそれでは…\nよろしくお願いします！\n;;--------------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私のキラーズ『ナーゲルリング』は\nハイメの手に渡った後に\nなんという巨人を打ち倒しましたか？\n\n# se \"SE_0734\"\n# select  \"ジュークアマンタ\" \"select_label_1\" \"シュツルータン\" \"select_label_2\" \"ジュルツウーゴ\" \"select_label_3\"\n私のキラーズ『ナーゲルリング』は\nハイメの手に渡った後に\nなんという巨人を打ち倒しましたか？\n"
+	},
+	{
+		"ID": 3609,
+		"unitID": 2100611,
+		"questionID": 9100609,
+		"script": ";;鋭さ,3\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 1006 \"nageruring_kyara_1018\"\n@ナーゲルリング\nあの…マスター\nちょっといいですか？\n\n@ナーゲルリング\nすごく突然なんですけど…\n\n@ナーゲルリング\n私に関する簡単なクイズを\n出してもいいですか？\n\n# voice 1006 \"nageruring_0030\"\n# face %(unit_a)s \"smile\"\n@ナーゲルリング\nそうですか！\nありがとうございます♪\n\n# voice 1006 \"nageruring_0036\"\n@ナーゲルリング\nそれでは…\nよろしくお願いします！\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私のキラーズ『ナーゲルリング』は\n他の剣とどのような特徴の違いが\nあることで知られていますか？\n\n# se \"SE_0734\"\n# select  \"硬さ\" \"select_label_1\" \"長さ\" \"select_label_2\" \"鋭さ\" \"select_label_3\"\n私のキラーズ『ナーゲルリング』は\n他の剣とどのような特徴の違いが\nあることで知られていますか？\n"
+	},
+	{
+		"ID": 3610,
+		"unitID": 2100611,
+		"questionID": 9100610,
+		"script": ";;英雄叙事詩,1\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 1006 \"nageruring_kyara_1018\"\n@ナーゲルリング\nあの…マスター\nちょっといいですか？\n\n@ナーゲルリング\nすごく突然なんですけど…\n\n@ナーゲルリング\n私に関する簡単なクイズを\n出してもいいですか？\n\n# voice 1006 \"nageruring_0030\"\n# face %(unit_a)s \"smile\"\n@ナーゲルリング\nそうですか！\nありがとうございます♪\n\n# voice 1006 \"nageruring_0036\"\n@ナーゲルリング\nそれでは…\nよろしくお願いします！\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私のキラーズ『ナーゲルリング』は\n中世ドイツのなんという物語に\n出てくる剣でしたか？\n\n# se \"SE_0734\"\n# select  \"英雄叙事詩\" \"select_label_1\" \"ナルト叙事詩\" \"select_label_2\" \"ギルガメシュ叙事詩\" \"select_label_3\"\n私のキラーズ『ナーゲルリング』は\n中世ドイツのなんという物語に\n出てくる剣でしたか？\n"
+	},
+	{
+		"ID": 3611,
+		"unitID": 2100611,
+		"questionID": 9100611,
+		"script": ";;闇,1\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 1006 \"nageruring_kyara_1018\"\n@ナーゲルリング\nあの、マスター！\n\n@ナーゲルリング\nちょっとだけ時間を\nもらってもいいですか？\n\n@ナーゲルリング\n本当にすぐ終わりますから！\n\n# voice 1006 \"nageruring_0030\"\n# face %(unit_a)s \"smile\"\n@ナーゲルリング\nふふっ\nありがとうございます♪\n\n@ナーゲルリング\nそれで…マスターには\nクイズに答えてもらいます！\n\n@ナーゲルリング\n問題は私に関するもので\nそんなに難しくはないと思います！\n\n# voice 1006 \"nageruring_0036\"\n@ナーゲルリング\nそれでは、いきますよ～！\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私の属性はわかりますよね？\n\n# se \"SE_0734\"\n# select  \"闇\" \"select_label_1\" \"光\" \"select_label_2\" \"氷\" \"select_label_3\"\n私の属性はわかりますよね？\n"
+	},
+	{
+		"ID": 3612,
+		"unitID": 2100611,
+		"questionID": 9100612,
+		"script": ";;139cm,2\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 1006 \"nageruring_kyara_1018\"\n@ナーゲルリング\nあの、マスター！\n\n@ナーゲルリング\nちょっとだけ時間を\nもらってもいいですか？\n\n@ナーゲルリング\n本当にすぐ終わりますから！\n\n# voice 1006 \"nageruring_0030\"\n# face %(unit_a)s \"smile\"\n@ナーゲルリング\nふふっ\nありがとうございます♪\n\n@ナーゲルリング\nそれで…マスターには\nクイズに答えてもらいます！\n\n@ナーゲルリング\n問題は私に関するもので\nそんなに難しくはないと思います！\n\n# voice 1006 \"nageruring_0036\"\n@ナーゲルリング\nそれでは、いきますよ～！\n;;--------------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nマスターは私の身長とか\nわかったりしますか？\n\n# se \"SE_0734\"\n# select  \"145cm\" \"select_label_1\" \"139cm\" \"select_label_2\" \"148cm\" \"select_label_3\"\nマスターは私の身長とか\nわかったりしますか？\n"
+	},
+	{
+		"ID": 3613,
+		"unitID": 2100611,
+		"questionID": 9100613,
+		"script": ";;2月3日,3\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 1006 \"nageruring_kyara_1018\"\n@ナーゲルリング\nあの、マスター！\n\n@ナーゲルリング\nちょっとだけ時間を\nもらってもいいですか？\n\n@ナーゲルリング\n本当にすぐ終わりますから！\n\n# voice 1006 \"nageruring_0030\"\n# face %(unit_a)s \"smile\"\n@ナーゲルリング\nふふっ\nありがとうございます♪\n\n@ナーゲルリング\nそれで…マスターには\nクイズに答えてもらいます！\n\n@ナーゲルリング\n問題は私に関するもので\nそんなに難しくはないと思います！\n\n# voice 1006 \"nageruring_0036\"\n@ナーゲルリング\nそれでは、いきますよ～！\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私の誕生日は…\nさすがに覚えていないですよね？\n\n# se \"SE_0734\"\n# select  \"2月23日\" \"select_label_1\" \"1月8日\" \"select_label_2\" \"2月3日\" \"select_label_3\"\n私の誕生日は…\nさすがに覚えていないですよね？\n"
+	},
+	{
+		"ID": 3614,
+		"unitID": 2100611,
+		"questionID": 9100614,
+		"script": ";;みずがめ座,1\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 1006 \"nageruring_kyara_1018\"\n@ナーゲルリング\nあの、マスター！\n\n@ナーゲルリング\nちょっとだけ時間を\nもらってもいいですか？\n\n@ナーゲルリング\n本当にすぐ終わりますから！\n\n# voice 1006 \"nageruring_0030\"\n# face %(unit_a)s \"smile\"\n@ナーゲルリング\nふふっ\nありがとうございます♪\n\n@ナーゲルリング\nそれで…マスターには\nクイズに答えてもらいます！\n\n@ナーゲルリング\n問題は私に関するもので\nそんなに難しくはないと思います！\n\n# voice 1006 \"nageruring_0036\"\n@ナーゲルリング\nそれでは、いきますよ～！\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nさすがに私の星座は\n知らないですよね？\n\n# se \"SE_0734\"\n# select  \"みずがめ座\" \"select_label_1\" \"うお座\" \"select_label_2\" \"てんびん座\" \"select_label_3\"\nさすがに私の星座は\n知らないですよね？\n"
+	},
+	{
+		"ID": 3615,
+		"unitID": 2100611,
+		"questionID": 9100615,
+		"script": ";;強引,2\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 1006 \"nageruring_kyara_1018\"\n@ナーゲルリング\nあの、マスター！\n\n@ナーゲルリング\nちょっとだけ時間を\nもらってもいいですか？\n\n@ナーゲルリング\n本当にすぐ終わりますから！\n\n# voice 1006 \"nageruring_0030\"\n# face %(unit_a)s \"smile\"\n@ナーゲルリング\nふふっ\nありがとうございます♪\n\n@ナーゲルリング\nそれで…マスターには\nクイズに答えてもらいます！\n\n@ナーゲルリング\n問題は私に関するもので\nそんなに難しくはないと思います！\n\n# voice 1006 \"nageruring_0036\"\n@ナーゲルリング\nそれでは、いきますよ～！\n;;--------------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私は自分の性格上\n○○な人に惹かれがちです…\n\n# se \"SE_0734\"\n# select  \"温厚\" \"select_label_1\" \"強引\" \"select_label_2\" \"派手\" \"select_label_3\"\n私は自分の性格上\n○○な人に惹かれがちです…\n"
+	},
+	{
+		"ID": 3616,
+		"unitID": 2100611,
+		"questionID": 9100616,
+		"script": ";;主人が変わること,3\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 1006 \"nageruring_kyara_1018\"\n@ナーゲルリング\nあの、マスター！\n\n@ナーゲルリング\nちょっとだけ時間を\nもらってもいいですか？\n\n@ナーゲルリング\n本当にすぐ終わりますから！\n\n# voice 1006 \"nageruring_0030\"\n# face %(unit_a)s \"smile\"\n@ナーゲルリング\nふふっ\nありがとうございます♪\n\n@ナーゲルリング\nそれで…マスターには\nクイズに答えてもらいます！\n\n@ナーゲルリング\n問題は私に関するもので\nそんなに難しくはないと思います！\n\n# voice 1006 \"nageruring_0036\"\n@ナーゲルリング\nそれでは、いきますよ～！\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私がトラウマにしていること\nマスターなら知っていますよね？\n\n# se \"SE_0734\"\n# select  \"主人の扱いが雑なこと\" \"select_label_1\" \"主人を傷つけること\" \"select_label_2\" \"主人が変わること\" \"select_label_3\"\n私がトラウマにしていること\nマスターなら知っていますよね？\n"
+	},
+	{
+		"ID": 3617,
+		"unitID": 2100611,
+		"questionID": 9100617,
+		"script": ";;Ｂ型,1\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 1006 \"nageruring_kyara_1018\"\n@ナーゲルリング\nあの、マスター！\n\n@ナーゲルリング\nちょっとだけ時間を\nもらってもいいですか？\n\n@ナーゲルリング\n本当にすぐ終わりますから！\n\n# voice 1006 \"nageruring_0030\"\n# face %(unit_a)s \"smile\"\n@ナーゲルリング\nふふっ\nありがとうございます♪\n\n@ナーゲルリング\nそれで…マスターには\nクイズに答えてもらいます！\n\n@ナーゲルリング\n問題は私に関するもので\nそんなに難しくはないと思います！\n\n# voice 1006 \"nageruring_0036\"\n@ナーゲルリング\nそれでは、いきますよ～！\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私の血液型とかって\nマスターは知っていますか？\n\n# se \"SE_0734\"\n# select  \"Ｂ型\" \"select_label_1\" \"Ａ型\" \"select_label_2\" \"ＡＢ型\" \"select_label_3\"\n私の血液型とかって\nマスターは知っていますか？\n"
+	},
+	{
+		"ID": 3618,
+		"unitID": 2100611,
+		"questionID": 9100618,
+		"script": ";;東ゴート,2\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 1006 \"nageruring_kyara_1018\"\n@ナーゲルリング\nあの、マスター！\n\n@ナーゲルリング\nちょっとだけ時間を\nもらってもいいですか？\n\n@ナーゲルリング\n本当にすぐ終わりますから！\n\n# voice 1006 \"nageruring_0030\"\n# face %(unit_a)s \"smile\"\n@ナーゲルリング\nふふっ\nありがとうございます♪\n\n@ナーゲルリング\nそれで…マスターには\nクイズに答えてもらいます！\n\n@ナーゲルリング\n問題は私に関するもので\nそんなに難しくはないと思います！\n\n# voice 1006 \"nageruring_0036\"\n@ナーゲルリング\nそれでは、いきますよ～！\n;;--------------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私の出身地ですが\nさすがにマスター覚えてますよね？\n\n# se \"SE_0734\"\n# select  \"ヴァンダル\" \"select_label_1\" \"東ゴート\" \"select_label_2\" \"チューリング\" \"select_label_3\"\n私の出身地ですが\nさすがにマスター覚えてますよね？\n"
+	},
+	{
+		"ID": 3619,
+		"unitID": 2100611,
+		"questionID": 9100619,
+		"script": ";;小さいもの,3\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 1006 \"nageruring_kyara_1018\"\n@ナーゲルリング\nあの、マスター！\n\n@ナーゲルリング\nちょっとだけ時間を\nもらってもいいですか？\n\n@ナーゲルリング\n本当にすぐ終わりますから！\n\n# voice 1006 \"nageruring_0030\"\n# face %(unit_a)s \"smile\"\n@ナーゲルリング\nふふっ\nありがとうございます♪\n\n@ナーゲルリング\nそれで…マスターには\nクイズに答えてもらいます！\n\n@ナーゲルリング\n問題は私に関するもので\nそんなに難しくはないと思います！\n\n# voice 1006 \"nageruring_0036\"\n@ナーゲルリング\nそれでは、いきますよ～！\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私はとにかく○○に\n目がないのですが\nそれはなんでしょうか？\n\n# se \"SE_0734\"\n# select  \"光るもの\" \"select_label_1\" \"柔らかいもの\" \"select_label_2\" \"小さいもの\" \"select_label_3\"\n私はとにかく○○に\n目がないのですが\nそれはなんでしょうか？\n"
+	},
+	{
+		"ID": 3620,
+		"unitID": 2100611,
+		"questionID": 9100620,
+		"script": ";;人間観察,1\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 1006 \"nageruring_kyara_1018\"\n@ナーゲルリング\nあの、マスター！\n\n@ナーゲルリング\nちょっとだけ時間を\nもらってもいいですか？\n\n@ナーゲルリング\n本当にすぐ終わりますから！\n\n# voice 1006 \"nageruring_0030\"\n# face %(unit_a)s \"smile\"\n@ナーゲルリング\nふふっ\nありがとうございます♪\n\n@ナーゲルリング\nそれで…マスターには\nクイズに答えてもらいます！\n\n@ナーゲルリング\n問題は私に関するもので\nそんなに難しくはないと思います！\n\n# voice 1006 \"nageruring_0036\"\n@ナーゲルリング\nそれでは、いきますよ～！\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私の変わっていると言われる\n趣味はなんだと思いますか？\n\n# se \"SE_0734\"\n# select  \"人間観察\" \"select_label_1\" \"昆虫飼育\" \"select_label_2\" \"妄想\" \"select_label_3\"\n私の変わっていると言われる\n趣味はなんだと思いますか？\n"
+	},
+	{
+		"ID": 3621,
+		"unitID": 2100611,
+		"questionID": 9100621,
+		"script": ";;八方美人,1\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 1006 \"nageruring_0001\"\n@ナーゲルリング\nマスターは\nクイズとかやりますか？\n\n@ナーゲルリング\nそうですよね…\nあんまりやらないですよね\n\n@ナーゲルリング\nでも、私から\n簡単なクイズを出しても\nいいですか？\n\n# face %(unit_a)s \"sad\"\n@ナーゲルリング\n私に関するクイズなんですけど…\n答えてくれますか？\n\n# voice 1006 \"nageruring_0030\"\n# face %(unit_a)s \"smile\"\n@ナーゲルリング\nありがとうございます♪\n\n# voice 1006 \"nageruring_0036\"\n# face %(unit_a)s \"usual\"\n@ナーゲルリング\nそれでは問題です…\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私は自分の居場所を実感できずに\n表向きは常に○○に\n振る舞ってしまいます…\n\n# se \"SE_0734\"\n# select  \"八方美人\" \"select_label_1\" \"高圧的\" \"select_label_2\" \"借りてきた猫のよう\" \"select_label_3\"\n私は自分の居場所を実感できずに\n表向きは常に○○に\n振る舞ってしまいます…\n"
+	},
+	{
+		"ID": 3622,
+		"unitID": 2100611,
+		"questionID": 9100622,
+		"script": ";;忠誠心,2\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 1006 \"nageruring_0001\"\n@ナーゲルリング\nマスターは\nクイズとかやりますか？\n\n@ナーゲルリング\nそうですよね…\nあんまりやらないですよね\n\n@ナーゲルリング\nでも、私から\n簡単なクイズを出しても\nいいですか？\n\n# face %(unit_a)s \"sad\"\n@ナーゲルリング\n私に関するクイズなんですけど…\n答えてくれますか？\n\n# voice 1006 \"nageruring_0030\"\n# face %(unit_a)s \"smile\"\n@ナーゲルリング\nありがとうございます♪\n\n# voice 1006 \"nageruring_0036\"\n# face %(unit_a)s \"usual\"\n@ナーゲルリング\nそれでは問題です…\n;;--------------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私は○○が薄いと言われますが\nそれはなんでしょうか？\n\n# se \"SE_0734\"\n# select  \"猜疑心\" \"select_label_1\" \"忠誠心\" \"select_label_2\" \"羞恥心\" \"select_label_3\"\n私は○○が薄いと言われますが\nそれはなんでしょうか？\n"
+	},
+	{
+		"ID": 3623,
+		"unitID": 2100611,
+		"questionID": 9100623,
+		"script": ";;ネズミ,3\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 1006 \"nageruring_0001\"\n@ナーゲルリング\nマスターは\nクイズとかやりますか？\n\n@ナーゲルリング\nそうですよね…\nあんまりやらないですよね\n\n@ナーゲルリング\nでも、私から\n簡単なクイズを出しても\nいいですか？\n\n# face %(unit_a)s \"sad\"\n@ナーゲルリング\n私に関するクイズなんですけど…\n答えてくれますか？\n\n# voice 1006 \"nageruring_0030\"\n# face %(unit_a)s \"smile\"\n@ナーゲルリング\nありがとうございます♪\n\n# voice 1006 \"nageruring_0036\"\n# face %(unit_a)s \"usual\"\n@ナーゲルリング\nそれでは問題です…\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私が腰からぶら下げていたカゴには\nなんの動物が入っていましたか？\n\n# se \"SE_0734\"\n# select  \"カメレオン\" \"select_label_1\" \"ハト\" \"select_label_2\" \"ネズミ\" \"select_label_3\"\n私が腰からぶら下げていたカゴには\nなんの動物が入っていましたか？\n"
+	},
+	{
+		"ID": 3624,
+		"unitID": 2100611,
+		"questionID": 9100624,
+		"script": ";;ツインテール,1\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 1006 \"nageruring_0001\"\n@ナーゲルリング\nマスターは\nクイズとかやりますか？\n\n@ナーゲルリング\nそうですよね…\nあんまりやらないですよね\n\n@ナーゲルリング\nでも、私から\n簡単なクイズを出しても\nいいですか？\n\n# face %(unit_a)s \"sad\"\n@ナーゲルリング\n私に関するクイズなんですけど…\n答えてくれますか？\n\n# voice 1006 \"nageruring_0030\"\n# face %(unit_a)s \"smile\"\n@ナーゲルリング\nありがとうございます♪\n\n# voice 1006 \"nageruring_0036\"\n# face %(unit_a)s \"usual\"\n@ナーゲルリング\nそれでは問題です…\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私の髪型はどれですか？\n定義が曖昧だったりしますが…\n\n# se \"SE_0734\"\n# select  \"ツインテール\" \"select_label_1\" \"ストレートロング\" \"select_label_2\" \"ポニーテール\" \"select_label_3\"\n私の髪型はどれですか？\n定義が曖昧だったりしますが…\n"
+	},
+	{
+		"ID": 3625,
+		"unitID": 2100611,
+		"questionID": 9100625,
+		"script": ";;水色,2\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 1006 \"nageruring_0001\"\n@ナーゲルリング\nマスターは\nクイズとかやりますか？\n\n@ナーゲルリング\nそうですよね…\nあんまりやらないですよね\n\n@ナーゲルリング\nでも、私から\n簡単なクイズを出しても\nいいですか？\n\n# face %(unit_a)s \"sad\"\n@ナーゲルリング\n私に関するクイズなんですけど…\n答えてくれますか？\n\n# voice 1006 \"nageruring_0030\"\n# face %(unit_a)s \"smile\"\n@ナーゲルリング\nありがとうございます♪\n\n# voice 1006 \"nageruring_0036\"\n# face %(unit_a)s \"usual\"\n@ナーゲルリング\nそれでは問題です…\n;;--------------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私の目の色ってわかりますか？\nわからないなら、それでいいです…\n\n# se \"SE_0734\"\n# select  \"赤色\" \"select_label_1\" \"水色\" \"select_label_2\" \"黄色\" \"select_label_3\"\n私の目の色ってわかりますか？\nわからないなら、それでいいです…\n"
+	},
+	{
+		"ID": 3626,
+		"unitID": 2100611,
+		"questionID": 9100626,
+		"script": ";;クロスビリーヴ,3\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 1006 \"nageruring_0001\"\n@ナーゲルリング\nマスターは\nクイズとかやりますか？\n\n@ナーゲルリング\nそうですよね…\nあんまりやらないですよね\n\n@ナーゲルリング\nでも、私から\n簡単なクイズを出しても\nいいですか？\n\n# face %(unit_a)s \"sad\"\n@ナーゲルリング\n私に関するクイズなんですけど…\n答えてくれますか？\n\n# voice 1006 \"nageruring_0030\"\n# face %(unit_a)s \"smile\"\n@ナーゲルリング\nありがとうございます♪\n\n# voice 1006 \"nageruring_0036\"\n# face %(unit_a)s \"usual\"\n@ナーゲルリング\nそれでは問題です…\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nEpisode１と２をクリアすると覚える\nスキル…マスターは知っていますか？\n\n# se \"SE_0734\"\n# select  \"エナジービリーヴ\" \"select_label_1\" \"ロストビリーヴ\" \"select_label_2\" \"クロスビリーヴ\" \"select_label_3\"\nEpisode１と２をクリアすると覚える\nスキル…マスターは知っていますか？\n"
+	},
+	{
+		"ID": 3627,
+		"unitID": 2100611,
+		"questionID": 9100627,
+		"script": ";;お上がりなさいませ,1\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 1006 \"nageruring_0001\"\n@ナーゲルリング\nマスターは\nクイズとかやりますか？\n\n@ナーゲルリング\nそうですよね…\nあんまりやらないですよね\n\n@ナーゲルリング\nでも、私から\n簡単なクイズを出しても\nいいですか？\n\n# face %(unit_a)s \"sad\"\n@ナーゲルリング\n私に関するクイズなんですけど…\n答えてくれますか？\n\n# voice 1006 \"nageruring_0030\"\n# face %(unit_a)s \"smile\"\n@ナーゲルリング\nありがとうございます♪\n\n# voice 1006 \"nageruring_0036\"\n# face %(unit_a)s \"usual\"\n@ナーゲルリング\nそれでは問題です…\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nメイドの格好をした時の私が\n覚えたスキルはなんでしたか？\n\n# se \"SE_0734\"\n# select  \"お上がりなさいませ\" \"select_label_1\" \"お帰りなさいませ\" \"select_label_2\" \"いってらっしゃいませ\" \"select_label_3\"\nメイドの格好をした時の私が\n覚えたスキルはなんでしたか？\n"
+	},
+	{
+		"ID": 3628,
+		"unitID": 2100611,
+		"questionID": 9100628,
+		"script": ";;わたしとみんなのカフェ,2\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 1006 \"nageruring_0001\"\n@ナーゲルリング\nマスターは\nクイズとかやりますか？\n\n@ナーゲルリング\nそうですよね…\nあんまりやらないですよね\n\n@ナーゲルリング\nでも、私から\n簡単なクイズを出しても\nいいですか？\n\n# face %(unit_a)s \"sad\"\n@ナーゲルリング\n私に関するクイズなんですけど…\n答えてくれますか？\n\n# voice 1006 \"nageruring_0030\"\n# face %(unit_a)s \"smile\"\n@ナーゲルリング\nありがとうございます♪\n\n# voice 1006 \"nageruring_0036\"\n# face %(unit_a)s \"usual\"\n@ナーゲルリング\nそれでは問題です…\n;;--------------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nメイド服姿の私のリーダースキル名を\nマスターは知っていますか？\n\n# se \"SE_0734\"\n# select  \"愛情たっぷり召し上がれ\" \"select_label_1\" \"わたしとみんなのカフェ\" \"select_label_2\" \"ラブラブキュン\" \"select_label_3\"\nメイド服姿の私のリーダースキル名を\nマスターは知っていますか？\n"
+	},
+	{
+		"ID": 3629,
+		"unitID": 2100611,
+		"questionID": 9100629,
+		"script": ";;剣聖の滅気,3\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 1006 \"nageruring_0001\"\n@ナーゲルリング\nマスターは\nクイズとかやりますか？\n\n@ナーゲルリング\nそうですよね…\nあんまりやらないですよね\n\n@ナーゲルリング\nでも、私から\n簡単なクイズを出しても\nいいですか？\n\n# face %(unit_a)s \"sad\"\n@ナーゲルリング\n私に関するクイズなんですけど…\n答えてくれますか？\n\n# voice 1006 \"nageruring_0030\"\n# face %(unit_a)s \"smile\"\n@ナーゲルリング\nありがとうございます♪\n\n# voice 1006 \"nageruring_0036\"\n# face %(unit_a)s \"usual\"\n@ナーゲルリング\nそれでは問題です…\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私の☆５のリーダースキル名が\nなんだったかわかりますか？\n\n# se \"SE_0734\"\n# select  \"剣聖の破滅\" \"select_label_1\" \"剣聖の失念\" \"select_label_2\" \"剣聖の滅気\" \"select_label_3\"\n私の☆５のリーダースキル名が\nなんだったかわかりますか？\n"
+	},
+	{
+		"ID": 3630,
+		"unitID": 2100611,
+		"questionID": 9100630,
+		"script": ";;弓,1\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 1006 \"nageruring_0001\"\n@ナーゲルリング\nマスターは\nクイズとかやりますか？\n\n@ナーゲルリング\nそうですよね…\nあんまりやらないですよね\n\n@ナーゲルリング\nでも、私から\n簡単なクイズを出しても\nいいですか？\n\n# face %(unit_a)s \"sad\"\n@ナーゲルリング\n私に関するクイズなんですけど…\n答えてくれますか？\n\n# voice 1006 \"nageruring_0030\"\n# face %(unit_a)s \"smile\"\n@ナーゲルリング\nありがとうございます♪\n\n# voice 1006 \"nageruring_0036\"\n# face %(unit_a)s \"usual\"\n@ナーゲルリング\nそれでは問題です…\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nメイドの格好をした私の\n「チョーク落とし」はどの武具種に\n絶大な力を発揮しますか？\n\n# se \"SE_0734\"\n# select  \"弓\" \"select_label_1\" \"槍\" \"select_label_2\" \"銃\" \"select_label_3\"\nメイドの格好をした私の\n「チョーク落とし」はどの武具種に\n絶大な力を発揮しますか？\n"
+	},
+	{
+		"ID": 3631,
+		"unitID": 2100611,
+		"questionID": 9100631,
+		"script": ";;デュランダル,1\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 1006 \"nageruring_0001\"\n@ナーゲルリング\nマスターに\n聞きたいことがあります…\n\n@ナーゲルリング\nマスターは私のこと、\nどれくらい理解していますか？\n\n@ナーゲルリング\n私はそれが知りたいです…\nだからクイズを出そうと思います\n\n@ナーゲルリング\n私に関する問題を出して、\nどのくらい知っているかを\n確かめていきます\n\n# voice 1006 \"nageruring_0036\"\n@ナーゲルリング\nマスター\nよろしくお願いします！\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n持ち主がどちらも英雄だったことで\n私が仲良くしている子は誰ですか？\n\n# se \"SE_0734\"\n# select  \"デュランダル\" \"select_label_1\" \"カラドボルグ\" \"select_label_2\" \"ダーインスレイヴ\" \"select_label_3\"\n持ち主がどちらも英雄だったことで\n私が仲良くしている子は誰ですか？\n"
+	},
+	{
+		"ID": 3632,
+		"unitID": 2100611,
+		"questionID": 9100632,
+		"script": ";;アロンダイト,2\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 1006 \"nageruring_0001\"\n@ナーゲルリング\nマスターに\n聞きたいことがあります…\n\n@ナーゲルリング\nマスターは私のこと、\nどれくらい理解していますか？\n\n@ナーゲルリング\n私はそれが知りたいです…\nだからクイズを出そうと思います\n\n@ナーゲルリング\n私に関する問題を出して、\nどのくらい知っているかを\n確かめていきます\n\n# voice 1006 \"nageruring_0036\"\n@ナーゲルリング\nマスター\nよろしくお願いします！\n;;--------------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n事務的な付き合い程度で\n心地よい距離感であるキル姫は\nこの中の誰だと思いますか？\n\n# se \"SE_0734\"\n# select  \"マサムネ\" \"select_label_1\" \"アロンダイト\" \"select_label_2\" \"バルムンク\" \"select_label_3\"\n事務的な付き合い程度で\n心地よい距離感であるキル姫は\nこの中の誰だと思いますか？\n"
+	},
+	{
+		"ID": 3633,
+		"unitID": 2100611,
+		"questionID": 9100633,
+		"script": ";;エクスカリバー,3\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 1006 \"nageruring_0001\"\n@ナーゲルリング\nマスターに\n聞きたいことがあります…\n\n@ナーゲルリング\nマスターは私のこと、\nどれくらい理解していますか？\n\n@ナーゲルリング\n私はそれが知りたいです…\nだからクイズを出そうと思います\n\n@ナーゲルリング\n私に関する問題を出して、\nどのくらい知っているかを\n確かめていきます\n\n# voice 1006 \"nageruring_0036\"\n@ナーゲルリング\nマスター\nよろしくお願いします！\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n持ち主がどちらも騎士だったことで\n気が合って分かり合える存在である\nキル姫は誰だと思いますか？\n\n# se \"SE_0734\"\n# select  \"ティルフィング\" \"select_label_1\" \"グラム\" \"select_label_2\" \"エクスカリバー\" \"select_label_3\"\n持ち主がどちらも騎士だったことで\n気が合って分かり合える存在である\nキル姫は誰だと思いますか？\n"
+	},
+	{
+		"ID": 3634,
+		"unitID": 2100611,
+		"questionID": 9100634,
+		"script": ";;髪飾り,1\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 1006 \"nageruring_0001\"\n@ナーゲルリング\nマスターに\n聞きたいことがあります…\n\n@ナーゲルリング\nマスターは私のこと、\nどれくらい理解していますか？\n\n@ナーゲルリング\n私はそれが知りたいです…\nだからクイズを出そうと思います\n\n@ナーゲルリング\n私に関する問題を出して、\nどのくらい知っているかを\n確かめていきます\n\n# voice 1006 \"nageruring_0036\"\n@ナーゲルリング\nマスター\nよろしくお願いします！\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私とマスターで街に出かけた時に\nマスターが私にくれたものを\n覚えてくれていますか？\n\n# se \"SE_0734\"\n# select  \"髪飾り\" \"select_label_1\" \"アイスクリーム\" \"select_label_2\" \"指輪\" \"select_label_3\"\n私とマスターで街に出かけた時に\nマスターが私にくれたものを\n覚えてくれていますか？\n"
+	},
+	{
+		"ID": 3635,
+		"unitID": 2100611,
+		"questionID": 9100635,
+		"script": ";;シユウ,2\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 1006 \"nageruring_0001\"\n@ナーゲルリング\nマスターに\n聞きたいことがあります…\n\n@ナーゲルリング\nマスターは私のこと、\nどれくらい理解していますか？\n\n@ナーゲルリング\n私はそれが知りたいです…\nだからクイズを出そうと思います\n\n@ナーゲルリング\n私に関する問題を出して、\nどのくらい知っているかを\n確かめていきます\n\n# voice 1006 \"nageruring_0036\"\n@ナーゲルリング\nマスター\nよろしくお願いします！\n;;--------------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nこの中で私よりも背の低い子は\n誰だと思いますか、マスター？\n\n# se \"SE_0734\"\n# select  \"ペルーン\" \"select_label_1\" \"シユウ\" \"select_label_2\" \"天沼矛\" \"select_label_3\"\nこの中で私よりも背の低い子は\n誰だと思いますか、マスター？\n"
+	},
+	{
+		"ID": 3636,
+		"unitID": 2100611,
+		"questionID": 9100636,
+		"script": ";;金色,3\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 1006 \"nageruring_0001\"\n@ナーゲルリング\nマスターに\n聞きたいことがあります…\n\n@ナーゲルリング\nマスターは私のこと、\nどれくらい理解していますか？\n\n@ナーゲルリング\n私はそれが知りたいです…\nだからクイズを出そうと思います\n\n@ナーゲルリング\n私に関する問題を出して、\nどのくらい知っているかを\n確かめていきます\n\n# voice 1006 \"nageruring_0036\"\n@ナーゲルリング\nマスター\nよろしくお願いします！\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nマスターは私の髪色を\n覚えていますか？\nこっちを見るのは禁止ですよ\n\n# se \"SE_0734\"\n# select  \"青色\" \"select_label_1\" \"黒色\" \"select_label_2\" \"金色\" \"select_label_3\"\nマスターは私の髪色を\n覚えていますか？\nこっちを見るのは禁止ですよ\n"
+	},
+	{
+		"ID": 3637,
+		"unitID": 2100611,
+		"questionID": 9100637,
+		"script": ";;赤色,1\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 1006 \"nageruring_0001\"\n@ナーゲルリング\nマスターに\n聞きたいことがあります…\n\n@ナーゲルリング\nマスターは私のこと、\nどれくらい理解していますか？\n\n@ナーゲルリング\n私はそれが知りたいです…\nだからクイズを出そうと思います\n\n@ナーゲルリング\n私に関する問題を出して、\nどのくらい知っているかを\n確かめていきます\n\n# voice 1006 \"nageruring_0036\"\n@ナーゲルリング\nマスター\nよろしくお願いします！\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私が普段からよく頭に付けている\n飾り物の色は何色ですか？\n\n# se \"SE_0734\"\n# select  \"赤色\" \"select_label_1\" \"黄色\" \"select_label_2\" \"黒色\" \"select_label_3\"\n私が普段からよく頭に付けている\n飾り物の色は何色ですか？\n"
+	},
+	{
+		"ID": 3638,
+		"unitID": 2100611,
+		"questionID": 9100638,
+		"script": ";;猫耳,2\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 1006 \"nageruring_0001\"\n@ナーゲルリング\nマスターに\n聞きたいことがあります…\n\n@ナーゲルリング\nマスターは私のこと、\nどれくらい理解していますか？\n\n@ナーゲルリング\n私はそれが知りたいです…\nだからクイズを出そうと思います\n\n@ナーゲルリング\n私に関する問題を出して、\nどのくらい知っているかを\n確かめていきます\n\n# voice 1006 \"nageruring_0036\"\n@ナーゲルリング\nマスター\nよろしくお願いします！\n;;--------------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私がメイドの格好をした時に\n頭に付けていたのはなんでしたか？\n\n# se \"SE_0734\"\n# select  \"リボン\" \"select_label_1\" \"猫耳\" \"select_label_2\" \"角\" \"select_label_3\"\n私がメイドの格好をした時に\n頭に付けていたのはなんでしたか？\n"
+	},
+	{
+		"ID": 3639,
+		"unitID": 2100611,
+		"questionID": 9100639,
+		"script": ";;与一,3\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 1006 \"nageruring_0001\"\n@ナーゲルリング\nマスターに\n聞きたいことがあります…\n\n@ナーゲルリング\nマスターは私のこと、\nどれくらい理解していますか？\n\n@ナーゲルリング\n私はそれが知りたいです…\nだからクイズを出そうと思います\n\n@ナーゲルリング\n私に関する問題を出して、\nどのくらい知っているかを\n確かめていきます\n\n# voice 1006 \"nageruring_0036\"\n@ナーゲルリング\nマスター\nよろしくお願いします！\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私の生まれた月と同じ子なのは\nこの中の誰だと思いますか？\n\n# se \"SE_0734\"\n# select  \"グラム\" \"select_label_1\" \"ピナーカ\" \"select_label_2\" \"与一\" \"select_label_3\"\n私の生まれた月と同じ子なのは\nこの中の誰だと思いますか？\n"
+	},
+	{
+		"ID": 3640,
+		"unitID": 2100611,
+		"questionID": 9100640,
+		"script": ";;草薙剣,1\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 1006 \"nageruring_0001\"\n@ナーゲルリング\nマスターに\n聞きたいことがあります…\n\n@ナーゲルリング\nマスターは私のこと、\nどれくらい理解していますか？\n\n@ナーゲルリング\n私はそれが知りたいです…\nだからクイズを出そうと思います\n\n@ナーゲルリング\n私に関する問題を出して、\nどのくらい知っているかを\n確かめていきます\n\n# voice 1006 \"nageruring_0036\"\n@ナーゲルリング\nマスター\nよろしくお願いします！\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nこの中で私の血液型と同じ子は\n誰だか分かりますか？\n\n# se \"SE_0734\"\n# select  \"草薙剣\" \"select_label_1\" \"アロンダイト\" \"select_label_2\" \"カラドボルグ\" \"select_label_3\"\nこの中で私の血液型と同じ子は\n誰だか分かりますか？\n"
+	},
+	{
+		"ID": 3641,
+		"unitID": 2100611,
+		"questionID": 9100641,
+		"script": "\n;;私,1\n# se \"SE_0734\"\n# select \"私\" \"select_label_1\" \"ワタシ\" \"select_label_2\" \"わたし\" \"select_label_3\"\nナーゲルリングの一人称は\n次のうちどれ？\n"
+	},
+	{
+		"ID": 3642,
+		"unitID": 2100611,
+		"questionID": 9100642,
+		"script": "\n;;マスター,1\n# se \"SE_0734\"\n# select \"マスター\" \"select_label_1\" \"ご主人様\" \"select_label_2\" \"お前\" \"select_label_3\"\nナーゲルリングはアンタのこと、\nなんて呼んでる？\n"
+	},
+	{
+		"ID": 3643,
+		"unitID": 2100611,
+		"questionID": 9100643,
+		"script": "\n;;69,1\n# se \"SE_0734\"\n# select \"69\" \"select_label_1\" \"71\" \"select_label_2\" \"77\" \"select_label_3\"\nナーゲルリングの\nバストサイズがどのくらいか\nアンタ…知ってるの？\n"
+	},
+	{
+		"ID": 3644,
+		"unitID": 2100611,
+		"questionID": 9100644,
+		"script": "\n;;53,2\n# se \"SE_0734\"\n# select \"52\" \"select_label_1\" \"53\" \"select_label_2\" \"58\" \"select_label_3\"\nナーゲルリングの\nウエストサイズがどのくらいか\nアンタ…知ってるの？\n"
+	},
+	{
+		"ID": 3645,
+		"unitID": 2100611,
+		"questionID": 9100645,
+		"script": "\n;;67,2\n# se \"SE_0734\"\n# select \"72\" \"select_label_1\" \"67\" \"select_label_2\" \"78\" \"select_label_3\"\nナーゲルリングの\nヒップサイズがどのくらいか\nアンタ…知ってるの？\n"
+	},
+	{
+		"ID": 3646,
+		"unitID": 2100611,
+		"questionID": 9100646,
+		"script": "\n;;35,3\n# se \"SE_0734\"\n# select \"38\" \"select_label_1\" \"41\" \"select_label_2\" \"35\" \"select_label_3\"\nナーゲルリングの体重は\n次のうちどれ？\n"
+	},
+	{
+		"ID": 3647,
+		"unitID": 2100611,
+		"questionID": 9100647,
+		"script": "\n;;189,3\n# se \"SE_0734\"\n# select \"195\" \"select_label_1\" \"213\" \"select_label_2\" \"189\" \"select_label_3\"\nナーゲルリングの\nバスト＋ウエスト＋ヒップは\nいくつかわかる？\n"
+	},
+	{
+		"ID": 3648,
+		"unitID": 2100611,
+		"questionID": 9100648,
+		"script": "\n;;黒,3\n# se \"SE_0734\"\n# select \"白\" \"select_label_1\" \"赤\" \"select_label_2\" \"黒\" \"select_label_3\"\nナーゲルリングの水着の色は\n次のうちどれ？\n"
+	},
+	{
+		"ID": 3649,
+		"unitID": 2100611,
+		"questionID": 9100649,
+		"script": "\n;;24位,3\n# se \"SE_0734\"\n# select \"17位\" \"select_label_1\" \"31位\" \"select_label_2\" \"24位\" \"select_label_3\"\nナーゲルリングは\n第２回人気投票で\n何位だったでしょう？\n"
+	},
+	{
+		"ID": 3650,
+		"unitID": 2100611,
+		"questionID": 9100650,
+		"script": "\n;;茅原実里,3\n# se \"SE_0734\"\n# select \"内田真礼\" \"select_label_1\" \"堀江由衣\" \"select_label_2\" \"茅原実里\" \"select_label_3\"\nナーゲルリングの声優は誰？\n"
+	}
+]

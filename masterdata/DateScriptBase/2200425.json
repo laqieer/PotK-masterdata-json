@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 2200425,
+		"script": "# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_fireworks\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 0 0\n# face 2200421 \"usual\"\n@\nパラシュを誘って\n花火を見ることにした\nマスター\n\n# voice 220042 \"parashu_k_0041\"\n# textflame 1 1\n# face 2200421 \"shy\"\n@パラシュ\nわぁっ！\n綺麗だね\n\n@パラシュ\n初めて見た時は\n驚きが強かったけど、\n今は楽しめるようになったよ\n\n# textflame 0 0\n@\nそう楽しげに笑う\nパラシュ\nそこに一際大きな花火が上がった\n\n# fadein \"white\" 0.5\n# se \"SE_0605\"\n\n# voice 220042 \"parashu_k_0021\"\n# textflame 1 1\n@パラシュ\nうわぁっ！？\nすごい音…\n;;----------------------------------------\n\n# face 2200421 \"normal\"\n# textflame 1 1\n@%(unitName:unit_a)s\nって…今、笑ったでしょ？\n\n# textflame 0 0\n@\nううん、笑ってないよ\nと、マスター\n\n# textflame 1 1\n# face 2200421 \"usual\"\n# voice 220042 \"parashu_k_0001\"\n@パラシュ\nマスター、\nそんな言葉じゃ\n誤魔化されないよ\n\n# textflame 0 0\n@\n頬を赤らめつつも\nパラシュはこちらを\n睨みつけてくる\n\n@\nごめん、つい…と謝ると、\n彼女は不機嫌そうに息を吐いた\n\n# textflame 1 1\n# face 2200421 \"normal\"\n@パラシュ\nはあ…これじゃあ\nこっちが悪者みたいだ\nもういいよ、花火を見よう\n\n# textflame 0 0\n@\nそう言って花火に\n集中するパラシュ\n\n@\n許してもらったとはいえ、\n申し訳なさを感じてしまい\n集中することができなかった…\n;;--------------------------------------\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

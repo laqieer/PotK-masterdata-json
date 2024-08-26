@@ -1,0 +1,182 @@
+[
+	{
+		"ID": 1,
+		"original_effect_name": "ef512_sword_locus_hit",
+		"element_CommonElement": 2,
+		"change_effect_name": "ef526_sword_fire_hit"
+	},
+	{
+		"ID": 2,
+		"original_effect_name": "ef512_sword_locus_hit",
+		"element_CommonElement": 3,
+		"change_effect_name": "ef526_sword_wind_hit"
+	},
+	{
+		"ID": 3,
+		"original_effect_name": "ef512_sword_locus_hit",
+		"element_CommonElement": 4,
+		"change_effect_name": "ef526_sword_thunder_hit"
+	},
+	{
+		"ID": 4,
+		"original_effect_name": "ef512_sword_locus_hit",
+		"element_CommonElement": 5,
+		"change_effect_name": "ef526_sword_ice_hit"
+	},
+	{
+		"ID": 5,
+		"original_effect_name": "ef512_sword_locus_hit",
+		"element_CommonElement": 7,
+		"change_effect_name": "ef526_sword_holy_hit"
+	},
+	{
+		"ID": 6,
+		"original_effect_name": "ef512_sword_locus_hit",
+		"element_CommonElement": 8,
+		"change_effect_name": "ef526_sword_dark_hit"
+	},
+	{
+		"ID": 7,
+		"original_effect_name": "ef513_hatchet_locus_hit",
+		"element_CommonElement": 2,
+		"change_effect_name": "ef527_axe_fire_hit"
+	},
+	{
+		"ID": 8,
+		"original_effect_name": "ef513_hatchet_locus_hit",
+		"element_CommonElement": 3,
+		"change_effect_name": "ef527_axe_wind_hit"
+	},
+	{
+		"ID": 9,
+		"original_effect_name": "ef513_hatchet_locus_hit",
+		"element_CommonElement": 4,
+		"change_effect_name": "ef527_axe_thunder_hit"
+	},
+	{
+		"ID": 10,
+		"original_effect_name": "ef513_hatchet_locus_hit",
+		"element_CommonElement": 5,
+		"change_effect_name": "ef527_axe_ice_hit"
+	},
+	{
+		"ID": 11,
+		"original_effect_name": "ef513_hatchet_locus_hit",
+		"element_CommonElement": 7,
+		"change_effect_name": "ef527_axe_holy_hit"
+	},
+	{
+		"ID": 12,
+		"original_effect_name": "ef513_hatchet_locus_hit",
+		"element_CommonElement": 8,
+		"change_effect_name": "ef527_axe_dark_hit"
+	},
+	{
+		"ID": 13,
+		"original_effect_name": "ef514_spear_locus_hit",
+		"element_CommonElement": 2,
+		"change_effect_name": "ef528_spear_fire_hit"
+	},
+	{
+		"ID": 14,
+		"original_effect_name": "ef514_spear_locus_hit",
+		"element_CommonElement": 3,
+		"change_effect_name": "ef528_spear_wind_hit"
+	},
+	{
+		"ID": 15,
+		"original_effect_name": "ef514_spear_locus_hit",
+		"element_CommonElement": 4,
+		"change_effect_name": "ef528_spear_thunder_hit"
+	},
+	{
+		"ID": 16,
+		"original_effect_name": "ef514_spear_locus_hit",
+		"element_CommonElement": 5,
+		"change_effect_name": "ef528_spear_ice_hit"
+	},
+	{
+		"ID": 17,
+		"original_effect_name": "ef514_spear_locus_hit",
+		"element_CommonElement": 7,
+		"change_effect_name": "ef528_spear_holy_hit"
+	},
+	{
+		"ID": 18,
+		"original_effect_name": "ef514_spear_locus_hit",
+		"element_CommonElement": 8,
+		"change_effect_name": "ef528_spear_dark_hit"
+	},
+	{
+		"ID": 19,
+		"original_effect_name": "ef521_bow_locus_hit",
+		"element_CommonElement": 2,
+		"change_effect_name": "ef529_bow_fire_hit"
+	},
+	{
+		"ID": 20,
+		"original_effect_name": "ef521_bow_locus_hit",
+		"element_CommonElement": 3,
+		"change_effect_name": "ef529_bow_wind_hit"
+	},
+	{
+		"ID": 21,
+		"original_effect_name": "ef521_bow_locus_hit",
+		"element_CommonElement": 4,
+		"change_effect_name": "ef529_bow_thunder_hit"
+	},
+	{
+		"ID": 22,
+		"original_effect_name": "ef521_bow_locus_hit",
+		"element_CommonElement": 5,
+		"change_effect_name": "ef529_bow_ice_hit"
+	},
+	{
+		"ID": 23,
+		"original_effect_name": "ef521_bow_locus_hit",
+		"element_CommonElement": 7,
+		"change_effect_name": "ef529_bow_holy_hit"
+	},
+	{
+		"ID": 24,
+		"original_effect_name": "ef521_bow_locus_hit",
+		"element_CommonElement": 8,
+		"change_effect_name": "ef529_bow_dark_hit"
+	},
+	{
+		"ID": 25,
+		"original_effect_name": "ef530_blow_locus_hit",
+		"element_CommonElement": 2,
+		"change_effect_name": "ef530_blow_fire_hit"
+	},
+	{
+		"ID": 26,
+		"original_effect_name": "ef530_blow_locus_hit",
+		"element_CommonElement": 3,
+		"change_effect_name": "ef530_blow_wind_hit"
+	},
+	{
+		"ID": 27,
+		"original_effect_name": "ef530_blow_locus_hit",
+		"element_CommonElement": 4,
+		"change_effect_name": "ef530_blow_thunder_hit"
+	},
+	{
+		"ID": 28,
+		"original_effect_name": "ef530_blow_locus_hit",
+		"element_CommonElement": 5,
+		"change_effect_name": "ef530_blow_ice_hit"
+	},
+	{
+		"ID": 29,
+		"original_effect_name": "ef530_blow_locus_hit",
+		"element_CommonElement": 7,
+		"change_effect_name": "ef530_blow_holy_hit"
+	},
+	{
+		"ID": 30,
+		"original_effect_name": "ef530_blow_locus_hit",
+		"element_CommonElement": 8,
+		"change_effect_name": "ef530_blow_dark_hit"
+	}
+]

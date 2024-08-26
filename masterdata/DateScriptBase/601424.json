@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 601424,
+		"script": "# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_room\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# voice 6014 \"ptah_0003\"\n@プタハ\nそうとも、\nそなたはもっと自信を持つといい\n\n@プタハ\n今日のことは、我にとっても\n素晴らしい時間だった\nそなたの想い人が誰であろうと\n\n# voice 6014 \"ptah_0009\"\n# eye %(unit_a)s \"close\"\n@プタハ\nほれ、そんな自信なさげな顔を\nするでない\n可愛い顔が台なしだぞ？\n\n# textflame 0 0\n@\nプタハはそのまま、マスターの機嫌が\n上向くまで甘やかし続けた…\n;;----------------------------------------\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

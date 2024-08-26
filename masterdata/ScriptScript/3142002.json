@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 3142002,
+		"script": "# script \"lisp\"\n# body 200411\n# pos 200411 1\n# body 500420\n# pos 500420 5\n# body 300631\n# pos 300631 3\n# scale 300631 0.8 0\n# scale 500420 0.8 0\n# scale 200411 0.8 0\n# textboxarrow 0 1\n# chara 200411\n# face 200411 \"shy\"\n# voice 2004 \"parashu_0027\"\n# serif 0\n@パラシュ\nボクは買い物に出かける予定が\nあったのに、まったく…\n\n# serif 0\n# textboxarrow 0 2\n# chara 300631\n# face 300631 \"angry\"\n# voice 3006 \"torisyula_0014\"\n@トリシューラ\nだまれ！\n\n# serif 1\n# textboxarrow 1 3\n# chara 500420\n# face 500420 \"sad\"\n@ブラフマーストラ\nこの時間は瞑想すると決めてるの\nこんな邪魔が入るなんて\n\n# serif 0\n# textboxarrow 0 2\n# chara 300631\n# voice 3006 \"torisyula_kyara_1021\"\n@トリシューラ\nったく、そんなこったから、\nトリムルティの威厳も\nクソもねぇんじゃねぇか！！\n\n# serif 1\n# textboxarrow 1 3\n# chara 500420\n# face 500420 \"amazed\"\n@ブラフマーストラ\n別に…三神一体とか\nこの世界では\nどうでもいいじゃないの…\n\n# serif 0\n# textboxarrow 0 2\n# chara 300631\n# voice 3006 \"torisyula_0010\"\n@トリシューラ\nあんただ、あんた！\nあんたがそんなだからあたいまで\n被害喰うんだよ！\n\n# serif 1\n# textboxarrow 1 1\n# chara 200411\n# voice 2004 \"parashu_0022\"\n@パラシュ\n？？\n\n# serif 0\n# textboxarrow 0 2\n# chara 300631\n# voice 3006 \"torisyula_0029\"\n@トリシューラ\n…いいから、\n気合い入れやがれっ！"
+	}
+]

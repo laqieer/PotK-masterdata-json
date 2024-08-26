@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 95037398,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# se \"SE_0733\"\n# textflame 1 1\n# face %(unit_a)s \"angry\"\n@ロジェスティラ\nその答え…\n\n# voice 550371 \"logistille_c_0019\"\n@ロジェスティラ\n不正解です！\n\n# face %(unit_a)s \"sad\"\n@ロジェスティラ\n…なので、\nわたしのお願いは\n大丈夫ですので、ので…\n\n# textflame 0 0\n@\nそんなこと言わずに教えてよ、\nとマスターが言うも…\n\n# voice 550371 \"logistille_c_0034\"\n# textflame 1 1\n@ロジェスティラ\nい、いいえ…\n\n@ロジェスティラ\n来年の夏まで…\n取っておきます\n\n# textflame 0 0\n@\nマスターは、彼女との\n距離が遠くなってしまったことを\n深く後悔するのだった…\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

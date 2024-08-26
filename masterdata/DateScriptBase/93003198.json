@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 93003198,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# face %(unit_a)s \"angry\"\n# se \"SE_0733\"\n# voice 3003 \"hotengageki_0007\"\n@方天画戟\nかぁ！\n惜しかったな！\n\n# eye %(unit_a)s \"close\"\n# face %(unit_a)s \"normal\"\n@方天画戟\n気にすることはない！\nこれを機に\n覚えてくれればいいんだよ\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"normal\"\n@方天画戟\n…ズバッと当ててほしかった\nところもあるが…\n\n# voice 3003 \"hotengageki_0008\"\n@方天画戟\n君主が完璧とも\n限らんのが世の常さ…\n\n# textflame 0 0\n@\nそううつむいてつぶやく彼女は\nどこか残念そうだった\n\n@\nデート中にこんなに\nがっかりさせてしまうなんて…\n\n@\n…………\n\n@\n彼女の無邪気な笑顔が好きだから\n方天画戟のことを\nちゃんと知っておかないとな…\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

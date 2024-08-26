@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 902040002,
+		"script": ";;戦闘後\n# script \"lisp\"\n# background \"laboratory_area\"\n# bgm \"bgm100\" 0\n# scale 23 0.8 0\n# body 23\n# pos 23 1\n# scale 20 0.8 0\n# body 20\n# pos 20 3\n# scale 18 0.8 0\n# body 18\n# pos 18 5\n# textflame 1 1\n# textboxarrow 0 3\n# chara 18\n# voice 9993 \"valyn_0039\"\n@ヴァリン\n鍵が開いたわ！\nアスカ、よくやったわねっ\n\n# serif 1\n# textboxarrow 1 2\n# chara 20\n# voice 9992 \"aska_0005\"\n# face 20 \"smile\"\n@アスカ\nえへへっ…\nお母さんが守ってくれたんだと思う\n\n# serif 0\n# textboxarrow 0 1\n# scale 1200641 0.8 0\n# body 1200641\n# pos 1200641 5\n# alpha 1200641 0 0\n# chara 23\n# voice 11002 \"laevateinm_0004\"\n# face 23 \"angry_1\"\n@ゼロ\nよし！\n急いであの大広間まで向かうぞ！\n\n# serif 1\n# textboxarrow 1 3\n# alpha 18 0 0.5\n# rightin 1200641 0.5\n# alpha 1200641 1 0.5\n# chara 1200641\n# voice 12006 \"dagdam_0023\"\n# face 1200641 \"smile_1\"\n@ダグダ\nアスカ、無事で良かった…\n\n# serif 0\n# textboxarrow 0 2\n# chara 20\n# voice 9992 \"aska_0004\"\n# face 20 \"normal\"\n@アスカ\nダグダさん達がついてるって思ったら\n怖くても前に進めたんだ\n…お父さん、助け出せるよね？\n\n# serif 1\n# textboxarrow 1 3\n# chara 1200641\n# voice 12006 \"dagdam_0032\"\n# face 1200641 \"normal_1\"\n@ダグダ\n…ああ、もちろんだ\n一緒に助けだそう"
+	}
+]

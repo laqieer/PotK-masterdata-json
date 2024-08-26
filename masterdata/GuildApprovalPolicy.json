@@ -1,0 +1,37 @@
+[
+	{
+		"ID": 1,
+		"name": "誰でも",
+		"default_manual": 0
+	},
+	{
+		"ID": 2,
+		"name": "マスターレベル20以上",
+		"default_manual": 0
+	},
+	{
+		"ID": 4,
+		"name": "マスターレベル60以上",
+		"default_manual": 0
+	},
+	{
+		"ID": 6,
+		"name": "マスターレベル100以上",
+		"default_manual": 0
+	},
+	{
+		"ID": 8,
+		"name": "マスターレベル140以上",
+		"default_manual": 0
+	},
+	{
+		"ID": 9,
+		"name": "天帝経験者のみ",
+		"default_manual": 0
+	},
+	{
+		"ID": 10,
+		"name": "要ギルド紹介文確認",
+		"default_manual": 1
+	}
+]

@@ -1,0 +1,26 @@
+[
+	{
+		"ID": 421,
+		"unitID": 2302811,
+		"scriptID": "kaerimichi",
+		"script": "なあ先輩…\nどこか、別のところにも行かないか？"
+	},
+	{
+		"ID": 422,
+		"unitID": 2302811,
+		"scriptID": "kaeru_ok",
+		"script": "@%(unitName:unit_a)s\nふふっ、先輩とは気が合うなあ\n実はヘレナも\n同じ気持ちなんだ"
+	},
+	{
+		"ID": 423,
+		"unitID": 2302811,
+		"scriptID": "kaeru",
+		"script": "今日は楽しかったぞ\nそろそろ帰ろうか"
+	},
+	{
+		"ID": 424,
+		"unitID": 2302811,
+		"scriptID": "kaeru_ng",
+		"script": "@%(unitName:unit_a)s\n残念だが、今日はおあずけだ\n…くふっ"
+	}
+]

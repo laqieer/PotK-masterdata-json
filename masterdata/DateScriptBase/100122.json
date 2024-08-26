@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 100122,
+		"script": "# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_onsen\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# voice 1001 \"masamune_0001\"\n# face %(unit_a)s \"sad\"\n@マサムネ\n主君…\n\n@マサムネ\nその質問は…\nずるいだろう…\n\n# textflame 0 0\n@\nマサムネはうつむいて\nタオルをぎゅっと握った\n\n# voice 1001 \"masamune_0042\"\n# textflame 1 1\n@マサムネ\n確認こそ失念したが\n誘われた時点で、その…\n\n@マサムネ\n一瞬は頭を過ぎった…\nそうなった場合の想像もした…\n\n# textflame 0 0\n@\nマサムネは上目遣いで\nマスターを見上げる\n頬が、赤い…\n\n# face %(unit_a)s \"angry\"\n# voice 1001 \"masamune_0028\"\n# textflame 1 1\n@マサムネ\nそれでも…\n拒まず拙者はやってきた…！\n\n# face %(unit_a)s \"sad\"\n@マサムネ\nこんなことを言わせるなんて…\nそなたは…いじわるだ…\n\n# textflame 0 0\n@\n困らせてしまったけれど\nマスターがきちんと謝ると\nマサムネはすぐ許してくれた\n\n@\n早く入ろう、という彼女と笑顔で\n湯に浸かる前から\n心が温まるマスターだった――\n;;----------------------------------------\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

@@ -1,0 +1,26 @@
+[
+	{
+		"ID": 477,
+		"unitID": 2100241,
+		"scriptID": "kaerimichi",
+		"script": "このままかえるの…\nなんだか、つまんない…"
+	},
+	{
+		"ID": 478,
+		"unitID": 2100241,
+		"scriptID": "kaeru_ok",
+		"script": "@%(unitName:unit_a)s\nマスター、あそびたりないの？\n…ふふ、いいよ"
+	},
+	{
+		"ID": 479,
+		"unitID": 2100241,
+		"scriptID": "kaeru",
+		"script": "きょうは…ありがと"
+	},
+	{
+		"ID": 480,
+		"unitID": 2100241,
+		"scriptID": "kaeru_ng",
+		"script": "@%(unitName:unit_a)s\nねむくなってきちゃったから\nきょうはかえる…"
+	}
+]

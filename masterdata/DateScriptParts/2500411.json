@@ -1,0 +1,26 @@
+[
+	{
+		"ID": 228,
+		"unitID": 2500411,
+		"scriptID": "kaerimichi",
+		"script": "遊び足りない系？\nまぁ、遊びも極めれば\nなんとやらって言うしね\n\n@ブラフマーストラ\nよーし、アタシがいい感じに\n導いてあげるから、\nもうちょっと遊んでいこっか！"
+	},
+	{
+		"ID": 243,
+		"unitID": 2500411,
+		"scriptID": "kaeru",
+		"script": "今日もいい感じに\nアンタを導けた気がするよ\nんじゃ、帰ろっか！"
+	},
+	{
+		"ID": 258,
+		"unitID": 2500411,
+		"scriptID": "kaeru_ok",
+		"script": "@%(unitName:unit_a)s\nおっ！アンタが導いてくれるの～？\n楽しみだね～。さっ、どこ行く？"
+	},
+	{
+		"ID": 273,
+		"unitID": 2500411,
+		"scriptID": "kaeru_ng",
+		"script": "@%(unitName:unit_a)s\nん～、ごめん\n今日はなんか帰りたい系なんだ～"
+	}
+]

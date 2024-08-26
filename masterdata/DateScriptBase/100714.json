@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 100714,
+		"script": ";;では口づけを…　小\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_castle\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n# voice 1007 \"Arondaito_0022\"\n@アロンダイト\n…！？\nなっ、なっ、なっ！？\n\n@アロンダイト\nち、忠誠心を試しているのですか！？\n\n# face %(unit_a)s \"angry\"\n@アロンダイト\nなにを笑っているのですか…\nもう、マスター！\n\n@\n古城をアロンダイトと\n楽しく駆け回ることに\nなったのだった…\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

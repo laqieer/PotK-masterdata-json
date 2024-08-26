@@ -1,0 +1,302 @@
+[
+	{
+		"ID": 2251,
+		"unitID": 2101311,
+		"questionID": 9101301,
+		"script": ";;錬金術師,1\n# face %(unit_a)s \"usual\"\n# voice 1013 \"paracelsus_0001\"\n# textflame 1 1\n@パラケルスス\nマスター\nちょっとだけいいか？\n\n# textflame 1 1\n@パラケルスス\n君がわたくしのことを\nどれだけ知っているのか…\n\n# textflame 1 1\n@パラケルスス\n簡単に言ってしまえば、\nわたくしに関するクイズだね\n\n# textflame 1 1\n@パラケルスス\nそんな深く考えず、\n気楽に答えてくれて構わない\n\n# textflame 1 1\n@パラケルスス\nなに、難しいものではないよ\nいつも側にいるんだ、\nすぐにでも分かるはずさ\n\n# voice 1013 \"paracelsus_0036\"\n# textflame 1 1\n@パラケルスス\nそれでは…行くぞ！\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nわたくしのキラーズ\n『パラケルスス』は医師かつ○○師で\nあったのですが知っているか？\n\n# se \"SE_0734\"\n# select  \"錬金術師\" \"select_label_1\" \"霊媒師\" \"select_label_2\" \"魔術師\" \"select_label_3\"\nわたくしのキラーズ\n『パラケルスス』は医師かつ○○師で\nあったのですが知っているか？\n"
+	},
+	{
+		"ID": 2252,
+		"unitID": 2101311,
+		"questionID": 9101302,
+		"script": ";;短剣,2\n# face %(unit_a)s \"usual\"\n# voice 1013 \"paracelsus_0001\"\n# textflame 1 1\n@パラケルスス\nマスター\nちょっとだけいいか？\n\n# textflame 1 1\n@パラケルスス\n君がわたくしのことを\nどれだけ知っているのか…\n\n# textflame 1 1\n@パラケルスス\n簡単に言ってしまえば、\nわたくしに関するクイズだね\n\n# textflame 1 1\n@パラケルスス\nそんな深く考えず、\n気楽に答えてくれて構わない\n\n# textflame 1 1\n@パラケルスス\nなに、難しいものではないよ\nいつも側にいるんだ、\nすぐにでも分かるはずさ\n\n# voice 1013 \"paracelsus_0036\"\n# textflame 1 1\n@パラケルスス\nそれでは…行くぞ！\n;;--------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nわたくしのキラーズ\n『パラケルスス』が持ち歩いた\nアゾットとはなんだか分かるか？\n\n# se \"SE_0734\"\n# select  \"杖\" \"select_label_1\" \"短剣\" \"select_label_2\" \"爆薬\" \"select_label_3\"\nわたくしのキラーズ\n『パラケルスス』が持ち歩いた\nアゾットとはなんだか分かるか？\n"
+	},
+	{
+		"ID": 2253,
+		"unitID": 2101311,
+		"questionID": 9101303,
+		"script": ";;悪魔,3\n# face %(unit_a)s \"usual\"\n# voice 1013 \"paracelsus_0001\"\n# textflame 1 1\n@パラケルスス\nマスター\nちょっとだけいいか？\n\n# textflame 1 1\n@パラケルスス\n君がわたくしのことを\nどれだけ知っているのか…\n\n# textflame 1 1\n@パラケルスス\n簡単に言ってしまえば、\nわたくしに関するクイズだね\n\n# textflame 1 1\n@パラケルスス\nそんな深く考えず、\n気楽に答えてくれて構わない\n\n# textflame 1 1\n@パラケルスス\nなに、難しいものではないよ\nいつも側にいるんだ、\nすぐにでも分かるはずさ\n\n# voice 1013 \"paracelsus_0036\"\n# textflame 1 1\n@パラケルスス\nそれでは…行くぞ！\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nわたくしのキラーズ\n『パラケルスス』の短剣の水晶部分は\nなにが封じ込められていた？\n\n# se \"SE_0734\"\n# select  \"死者の霊\" \"select_label_1\" \"天使\" \"select_label_2\" \"悪魔\" \"select_label_3\"\nわたくしのキラーズ\n『パラケルスス』の短剣の水晶部分は\nなにが封じ込められていた？\n"
+	},
+	{
+		"ID": 2254,
+		"unitID": 2101311,
+		"questionID": 9101304,
+		"script": ";;賢者の石,1\n# face %(unit_a)s \"usual\"\n# voice 1013 \"paracelsus_0001\"\n# textflame 1 1\n@パラケルスス\nマスター\nちょっとだけいいか？\n\n# textflame 1 1\n@パラケルスス\n君がわたくしのことを\nどれだけ知っているのか…\n\n# textflame 1 1\n@パラケルスス\n簡単に言ってしまえば、\nわたくしに関するクイズだね\n\n# textflame 1 1\n@パラケルスス\nそんな深く考えず、\n気楽に答えてくれて構わない\n\n# textflame 1 1\n@パラケルスス\nなに、難しいものではないよ\nいつも側にいるんだ、\nすぐにでも分かるはずさ\n\n# voice 1013 \"paracelsus_0036\"\n# textflame 1 1\n@パラケルスス\nそれでは…行くぞ！\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nわたくしのキラーズ\n『パラケルスス』の短剣の中に○○が\n入っていたことを知っているか？\n\n# se \"SE_0734\"\n# select  \"賢者の石\" \"select_label_1\" \"魔法の石\" \"select_label_2\" \"魔法\" \"select_label_3\"\nわたくしのキラーズ\n『パラケルスス』の短剣の中に○○が\n入っていたことを知っているか？\n"
+	},
+	{
+		"ID": 2255,
+		"unitID": 2101311,
+		"questionID": 9101305,
+		"script": ";;剣の柄,2\n# face %(unit_a)s \"usual\"\n# voice 1013 \"paracelsus_0001\"\n# textflame 1 1\n@パラケルスス\nマスター\nちょっとだけいいか？\n\n# textflame 1 1\n@パラケルスス\n君がわたくしのことを\nどれだけ知っているのか…\n\n# textflame 1 1\n@パラケルスス\n簡単に言ってしまえば、\nわたくしに関するクイズだね\n\n# textflame 1 1\n@パラケルスス\nそんな深く考えず、\n気楽に答えてくれて構わない\n\n# textflame 1 1\n@パラケルスス\nなに、難しいものではないよ\nいつも側にいるんだ、\nすぐにでも分かるはずさ\n\n# voice 1013 \"paracelsus_0036\"\n# textflame 1 1\n@パラケルスス\nそれでは…行くぞ！\n;;--------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nわたくしのキラーズ\n『パラケルスス』の肖像画には\nよく○○と描かれているがわかるか？\n\n# se \"SE_0734\"\n# select  \"金\" \"select_label_1\" \"剣の柄\" \"select_label_2\" \"悪魔\" \"select_label_3\"\nわたくしのキラーズ\n『パラケルスス』の肖像画には\nよく○○と描かれているがわかるか？\n"
+	},
+	{
+		"ID": 2256,
+		"unitID": 2101311,
+		"questionID": 9101306,
+		"script": ";;医師,3\n# face %(unit_a)s \"usual\"\n# voice 1013 \"paracelsus_0001\"\n# textflame 1 1\n@パラケルスス\nマスター\nちょっとだけいいか？\n\n# textflame 1 1\n@パラケルスス\n君がわたくしのことを\nどれだけ知っているのか…\n\n# textflame 1 1\n@パラケルスス\n簡単に言ってしまえば、\nわたくしに関するクイズだね\n\n# textflame 1 1\n@パラケルスス\nそんな深く考えず、\n気楽に答えてくれて構わない\n\n# textflame 1 1\n@パラケルスス\nなに、難しいものではないよ\nいつも側にいるんだ、\nすぐにでも分かるはずさ\n\n# voice 1013 \"paracelsus_0036\"\n# textflame 1 1\n@パラケルスス\nそれでは…行くぞ！\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nわたくしのキラーズ\n『パラケルスス』は錬金術師かつ\n○○であったのだがそれはなんだ？\n\n# se \"SE_0734\"\n# select  \"建築家\" \"select_label_1\" \"政治家\" \"select_label_2\" \"医師\" \"select_label_3\"\nわたくしのキラーズ\n『パラケルスス』は錬金術師かつ\n○○であったのだがそれはなんだ？\n"
+	},
+	{
+		"ID": 2257,
+		"unitID": 2101311,
+		"questionID": 9101307,
+		"script": ";;ホムンクルス,1\n# face %(unit_a)s \"usual\"\n# voice 1013 \"paracelsus_0001\"\n# textflame 1 1\n@パラケルスス\nマスター\nちょっとだけいいか？\n\n# textflame 1 1\n@パラケルスス\n君がわたくしのことを\nどれだけ知っているのか…\n\n# textflame 1 1\n@パラケルスス\n簡単に言ってしまえば、\nわたくしに関するクイズだね\n\n# textflame 1 1\n@パラケルスス\nそんな深く考えず、\n気楽に答えてくれて構わない\n\n# textflame 1 1\n@パラケルスス\nなに、難しいものではないよ\nいつも側にいるんだ、\nすぐにでも分かるはずさ\n\n# voice 1013 \"paracelsus_0036\"\n# textflame 1 1\n@パラケルスス\nそれでは…行くぞ！\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nわたくしのキラーズ\n『パラケルスス』はなにを\n生み出すことに成功した？\n\n# se \"SE_0734\"\n# select  \"ホムンクルス\" \"select_label_1\" \"ダイヤモンド\" \"select_label_2\" \"不老不死の薬\" \"select_label_3\"\nわたくしのキラーズ\n『パラケルスス』はなにを\n生み出すことに成功した？\n"
+	},
+	{
+		"ID": 2258,
+		"unitID": 2101311,
+		"questionID": 9101308,
+		"script": ";;服用量,2\n# face %(unit_a)s \"usual\"\n# voice 1013 \"paracelsus_0001\"\n# textflame 1 1\n@パラケルスス\nマスター\nちょっとだけいいか？\n\n# textflame 1 1\n@パラケルスス\n君がわたくしのことを\nどれだけ知っているのか…\n\n# textflame 1 1\n@パラケルスス\n簡単に言ってしまえば、\nわたくしに関するクイズだね\n\n# textflame 1 1\n@パラケルスス\nそんな深く考えず、\n気楽に答えてくれて構わない\n\n# textflame 1 1\n@パラケルスス\nなに、難しいものではないよ\nいつも側にいるんだ、\nすぐにでも分かるはずさ\n\n# voice 1013 \"paracelsus_0036\"\n# textflame 1 1\n@パラケルスス\nそれでは…行くぞ！\n;;--------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nわたくしのキラーズ\n『パラケルスス』の格言は\n「○○こそが毒を作る」？\n\n# se \"SE_0734\"\n# select  \"弱者\" \"select_label_1\" \"服用量\" \"select_label_2\" \"生命力\" \"select_label_3\"\nわたくしのキラーズ\n『パラケルスス』の格言は\n「○○こそが毒を作る」？\n"
+	},
+	{
+		"ID": 2259,
+		"unitID": 2101311,
+		"questionID": 9101309,
+		"script": ";;ルター,3\n# face %(unit_a)s \"usual\"\n# voice 1013 \"paracelsus_0001\"\n# textflame 1 1\n@パラケルスス\nマスター\nちょっとだけいいか？\n\n# textflame 1 1\n@パラケルスス\n君がわたくしのことを\nどれだけ知っているのか…\n\n# textflame 1 1\n@パラケルスス\n簡単に言ってしまえば、\nわたくしに関するクイズだね\n\n# textflame 1 1\n@パラケルスス\nそんな深く考えず、\n気楽に答えてくれて構わない\n\n# textflame 1 1\n@パラケルスス\nなに、難しいものではないよ\nいつも側にいるんだ、\nすぐにでも分かるはずさ\n\n# voice 1013 \"paracelsus_0036\"\n# textflame 1 1\n@パラケルスス\nそれでは…行くぞ！\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nわたくしのキラーズ\n『パラケルスス』は「医学界の○○」\nと呼ばれていた？ \n\n# se \"SE_0734\"\n# select  \"ノックス\" \"select_label_1\" \"シモンズ\" \"select_label_2\" \"ルター\" \"select_label_3\"\nわたくしのキラーズ\n『パラケルスス』は「医学界の○○」\nと呼ばれていた？ \n"
+	},
+	{
+		"ID": 2260,
+		"unitID": 2101311,
+		"questionID": 9101310,
+		"script": ";;アゾット,1\n# face %(unit_a)s \"usual\"\n# voice 1013 \"paracelsus_0001\"\n# textflame 1 1\n@パラケルスス\nマスター\nちょっとだけいいか？\n\n# textflame 1 1\n@パラケルスス\n君がわたくしのことを\nどれだけ知っているのか…\n\n# textflame 1 1\n@パラケルスス\n簡単に言ってしまえば、\nわたくしに関するクイズだね\n\n# textflame 1 1\n@パラケルスス\nそんな深く考えず、\n気楽に答えてくれて構わない\n\n# textflame 1 1\n@パラケルスス\nなに、難しいものではないよ\nいつも側にいるんだ、\nすぐにでも分かるはずさ\n\n# voice 1013 \"paracelsus_0036\"\n# textflame 1 1\n@パラケルスス\nそれでは…行くぞ！\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nわたくしのキラーズ\n『パラケルスス』が持っていた\n武器の名前はどれだか分かるか？\n\n# se \"SE_0734\"\n# select  \"アゾット\" \"select_label_1\" \"ジャマダハル\" \"select_label_2\" \"フォルシオン\" \"select_label_3\"\nわたくしのキラーズ\n『パラケルスス』が持っていた\n武器の名前はどれだか分かるか？\n"
+	},
+	{
+		"ID": 2261,
+		"unitID": 2101311,
+		"questionID": 9101311,
+		"script": ";;風,1\n# face %(unit_a)s \"usual\"\n# voice 1013 \"paracelsus_0001\"\n# textflame 1 1\n@パラケルスス\nマスター？\n突然で悪いんだが…\n\n# textflame 1 1\n@パラケルスス\nちょっとだけわたくしに、\n付き合ってくれたまえ\n\n# textflame 1 1\n@パラケルスス\n今すぐに研究をしたい\nことがあるんだ…\n\n# textflame 1 1\n@パラケルスス\nだから、とりあえず\nわたくしの出すクイズに、\n答えてくれ\n\n# textflame 1 1\n@パラケルスス\nなに、案ずることはない\nごく簡単な、わたくしに関する\nクイズなのだからな…\n\n# textflame 1 1\n@パラケルスス\nそれでは、行くぞ\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nわたくしの属性を答えてみろ\n\n# se \"SE_0734\"\n# select  \"風\" \"select_label_1\" \"雷\" \"select_label_2\" \"氷\" \"select_label_3\"\nわたくしの属性を答えてみろ\n"
+	},
+	{
+		"ID": 2262,
+		"unitID": 2101311,
+		"questionID": 9101312,
+		"script": ";;153cm,2\n# face %(unit_a)s \"usual\"\n# voice 1013 \"paracelsus_0001\"\n# textflame 1 1\n@パラケルスス\nマスター？\n突然で悪いんだが…\n\n# textflame 1 1\n@パラケルスス\nちょっとだけわたくしに、\n付き合ってくれたまえ\n\n# textflame 1 1\n@パラケルスス\n今すぐに研究をしたい\nことがあるんだ…\n\n# textflame 1 1\n@パラケルスス\nだから、とりあえず\nわたくしの出すクイズに、\n答えてくれ\n\n# textflame 1 1\n@パラケルスス\nなに、案ずることはない\nごく簡単な、わたくしに関する\nクイズなのだからな…\n\n# textflame 1 1\n@パラケルスス\nそれでは、行くぞ\n;;--------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nわたくしの身長は\nちゃんと調べているか？\n\n# se \"SE_0734\"\n# select  \"155cm\" \"select_label_1\" \"153cm\" \"select_label_2\" \"150cm\" \"select_label_3\"\nわたくしの身長は\nちゃんと調べているか？\n"
+	},
+	{
+		"ID": 2263,
+		"unitID": 2101311,
+		"questionID": 9101313,
+		"script": ";;12月17日,3\n# face %(unit_a)s \"usual\"\n# voice 1013 \"paracelsus_0001\"\n# textflame 1 1\n@パラケルスス\nマスター？\n突然で悪いんだが…\n\n# textflame 1 1\n@パラケルスス\nちょっとだけわたくしに、\n付き合ってくれたまえ\n\n# textflame 1 1\n@パラケルスス\n今すぐに研究をしたい\nことがあるんだ…\n\n# textflame 1 1\n@パラケルスス\nだから、とりあえず\nわたくしの出すクイズに、\n答えてくれ\n\n# textflame 1 1\n@パラケルスス\nなに、案ずることはない\nごく簡単な、わたくしに関する\nクイズなのだからな…\n\n# textflame 1 1\n@パラケルスス\nそれでは、行くぞ\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nわたくしの誕生日は\nさすがに分かっているよな？\n\n# se \"SE_0734\"\n# select  \"10月21日\" \"select_label_1\" \"11月15日\" \"select_label_2\" \"12月17日\" \"select_label_3\"\nわたくしの誕生日は\nさすがに分かっているよな？\n"
+	},
+	{
+		"ID": 2264,
+		"unitID": 2101311,
+		"questionID": 9101314,
+		"script": ";;いて座,1\n# face %(unit_a)s \"usual\"\n# voice 1013 \"paracelsus_0001\"\n# textflame 1 1\n@パラケルスス\nマスター？\n突然で悪いんだが…\n\n# textflame 1 1\n@パラケルスス\nちょっとだけわたくしに、\n付き合ってくれたまえ\n\n# textflame 1 1\n@パラケルスス\n今すぐに研究をしたい\nことがあるんだ…\n\n# textflame 1 1\n@パラケルスス\nだから、とりあえず\nわたくしの出すクイズに、\n答えてくれ\n\n# textflame 1 1\n@パラケルスス\nなに、案ずることはない\nごく簡単な、わたくしに関する\nクイズなのだからな…\n\n# textflame 1 1\n@パラケルスス\nそれでは、行くぞ\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nさすがにわたくしの星座は\n知っているだろう？\n\n# se \"SE_0734\"\n# select  \"いて座\" \"select_label_1\" \"しし座\" \"select_label_2\" \"かに座\" \"select_label_3\"\nさすがにわたくしの星座は\n知っているだろう？\n"
+	},
+	{
+		"ID": 2265,
+		"unitID": 2101311,
+		"questionID": 9101315,
+		"script": ";;アスクレピオス,2\n# face %(unit_a)s \"usual\"\n# voice 1013 \"paracelsus_0001\"\n# textflame 1 1\n@パラケルスス\nマスター？\n突然で悪いんだが…\n\n# textflame 1 1\n@パラケルスス\nちょっとだけわたくしに、\n付き合ってくれたまえ\n\n# textflame 1 1\n@パラケルスス\n今すぐに研究をしたい\nことがあるんだ…\n\n# textflame 1 1\n@パラケルスス\nだから、とりあえず\nわたくしの出すクイズに、\n答えてくれ\n\n# textflame 1 1\n@パラケルスス\nなに、案ずることはない\nごく簡単な、わたくしに関する\nクイズなのだからな…\n\n# textflame 1 1\n@パラケルスス\nそれでは、行くぞ\n;;--------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nわたくしが同じ医術を司るものとして\n話が合って仲が良いのは誰だ？\n\n# se \"SE_0734\"\n# select  \"メギド\" \"select_label_1\" \"アスクレピオス\" \"select_label_2\" \"リットゥ\" \"select_label_3\"\nわたくしが同じ医術を司るものとして\n話が合って仲が良いのは誰だ？\n"
+	},
+	{
+		"ID": 2266,
+		"unitID": 2101311,
+		"questionID": 9101316,
+		"script": ";;古い考え方,3\n# face %(unit_a)s \"usual\"\n# voice 1013 \"paracelsus_0001\"\n# textflame 1 1\n@パラケルスス\nマスター？\n突然で悪いんだが…\n\n# textflame 1 1\n@パラケルスス\nちょっとだけわたくしに、\n付き合ってくれたまえ\n\n# textflame 1 1\n@パラケルスス\n今すぐに研究をしたい\nことがあるんだ…\n\n# textflame 1 1\n@パラケルスス\nだから、とりあえず\nわたくしの出すクイズに、\n答えてくれ\n\n# textflame 1 1\n@パラケルスス\nなに、案ずることはない\nごく簡単な、わたくしに関する\nクイズなのだからな…\n\n# textflame 1 1\n@パラケルスス\nそれでは、行くぞ\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nわたくしは自分の知識と考えに\n自信があるから○○が嫌い…\nマスターも分かるはずだ\n\n# se \"SE_0734\"\n# select  \"作り話\" \"select_label_1\" \"教養のない人\" \"select_label_2\" \"古い考え方\" \"select_label_3\"\nわたくしは自分の知識と考えに\n自信があるから○○が嫌い…\nマスターも分かるはずだ\n"
+	},
+	{
+		"ID": 2267,
+		"unitID": 2101311,
+		"questionID": 9101317,
+		"script": ";;AB型,1\n# face %(unit_a)s \"usual\"\n# voice 1013 \"paracelsus_0001\"\n# textflame 1 1\n@パラケルスス\nマスター？\n突然で悪いんだが…\n\n# textflame 1 1\n@パラケルスス\nちょっとだけわたくしに、\n付き合ってくれたまえ\n\n# textflame 1 1\n@パラケルスス\n今すぐに研究をしたい\nことがあるんだ…\n\n# textflame 1 1\n@パラケルスス\nだから、とりあえず\nわたくしの出すクイズに、\n答えてくれ\n\n# textflame 1 1\n@パラケルスス\nなに、案ずることはない\nごく簡単な、わたくしに関する\nクイズなのだからな…\n\n# textflame 1 1\n@パラケルスス\nそれでは、行くぞ\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nわたくしがマスターに血液型を\n伝えたことはあったかな…？\n\n# se \"SE_0734\"\n# select  \"AB型\" \"select_label_1\" \"O型\" \"select_label_2\" \"B型\" \"select_label_3\"\nわたくしがマスターに血液型を\n伝えたことはあったかな…？\n"
+	},
+	{
+		"ID": 2268,
+		"unitID": 2101311,
+		"questionID": 9101318,
+		"script": ";;スイス,2\n# face %(unit_a)s \"usual\"\n# voice 1013 \"paracelsus_0001\"\n# textflame 1 1\n@パラケルスス\nマスター？\n突然で悪いんだが…\n\n# textflame 1 1\n@パラケルスス\nちょっとだけわたくしに、\n付き合ってくれたまえ\n\n# textflame 1 1\n@パラケルスス\n今すぐに研究をしたい\nことがあるんだ…\n\n# textflame 1 1\n@パラケルスス\nだから、とりあえず\nわたくしの出すクイズに、\n答えてくれ\n\n# textflame 1 1\n@パラケルスス\nなに、案ずることはない\nごく簡単な、わたくしに関する\nクイズなのだからな…\n\n# textflame 1 1\n@パラケルスス\nそれでは、行くぞ\n;;--------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nわたくしの出身地くらい\n答えられて当然だな\n\n# se \"SE_0734\"\n# select  \"イギリス\" \"select_label_1\" \"スイス\" \"select_label_2\" \"ドイツ\" \"select_label_3\"\nわたくしの出身地くらい\n答えられて当然だな\n"
+	},
+	{
+		"ID": 2269,
+		"unitID": 2101311,
+		"questionID": 9101319,
+		"script": ";;水銀,3\n# face %(unit_a)s \"usual\"\n# voice 1013 \"paracelsus_0001\"\n# textflame 1 1\n@パラケルスス\nマスター？\n突然で悪いんだが…\n\n# textflame 1 1\n@パラケルスス\nちょっとだけわたくしに、\n付き合ってくれたまえ\n\n# textflame 1 1\n@パラケルスス\n今すぐに研究をしたい\nことがあるんだ…\n\n# textflame 1 1\n@パラケルスス\nだから、とりあえず\nわたくしの出すクイズに、\n答えてくれ\n\n# textflame 1 1\n@パラケルスス\nなに、案ずることはない\nごく簡単な、わたくしに関する\nクイズなのだからな…\n\n# textflame 1 1\n@パラケルスス\nそれでは、行くぞ\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n変わってるとよく言われる…\nわたくしの好きなものが分かるか？\n\n# se \"SE_0734\"\n# select  \"消毒液\" \"select_label_1\" \"悪魔\" \"select_label_2\" \"水銀\" \"select_label_3\"\n変わってるとよく言われる…\nわたくしの好きなものが分かるか？\n"
+	},
+	{
+		"ID": 2270,
+		"unitID": 2101311,
+		"questionID": 9101320,
+		"script": ";;研究,1\n# face %(unit_a)s \"usual\"\n# voice 1013 \"paracelsus_0001\"\n# textflame 1 1\n@パラケルスス\nマスター？\n突然で悪いんだが…\n\n# textflame 1 1\n@パラケルスス\nちょっとだけわたくしに、\n付き合ってくれたまえ\n\n# textflame 1 1\n@パラケルスス\n今すぐに研究をしたい\nことがあるんだ…\n\n# textflame 1 1\n@パラケルスス\nだから、とりあえず\nわたくしの出すクイズに、\n答えてくれ\n\n# textflame 1 1\n@パラケルスス\nなに、案ずることはない\nごく簡単な、わたくしに関する\nクイズなのだからな…\n\n# textflame 1 1\n@パラケルスス\nそれでは、行くぞ\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nわたくしを形成している\n全てと言っても過言ではない\n趣味はなんだと思う？\n\n# se \"SE_0734\"\n# select  \"研究\" \"select_label_1\" \"戦闘\" \"select_label_2\" \"読書\" \"select_label_3\"\nわたくしを形成している\n全てと言っても過言ではない\n趣味はなんだと思う？\n"
+	},
+	{
+		"ID": 2271,
+		"unitID": 2101311,
+		"questionID": 9101321,
+		"script": ";;探究心,1\n# voice 1013 \"paracelsus_0001\"\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n@パラケルスス\nなあ…君は、\nクイズとかは得意か？\n\n# textflame 1 1\n@パラケルスス\nクイズと言っても、\nわたくしのことを分かっていれば\n解ける問題ばかりだ\n\n# textflame 1 1\n@パラケルスス\nどうだ？\nやってみるか？\n\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@パラケルスス\n君なら余裕だろ？\nわたくしのマスター\n\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n@パラケルスス\nそれでは、問題…\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nわたくし、自分の中のとある感情を\n抑えることができないのだが…\nそれがなんだか分かるかな？\n\n# se \"SE_0734\"\n# select  \"探究心\" \"select_label_1\" \"いたずら心\" \"select_label_2\" \"母性本能\" \"select_label_3\"\nわたくし、自分の中のとある感情を\n抑えることができないのだが…\nそれがなんだか分かるかな？\n"
+	},
+	{
+		"ID": 2272,
+		"unitID": 2101311,
+		"questionID": 9101322,
+		"script": ";;惨忍になる,2\n# voice 1013 \"paracelsus_0001\"\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n@パラケルスス\nなあ…君は、\nクイズとかは得意か？\n\n# textflame 1 1\n@パラケルスス\nクイズと言っても、\nわたくしのことを分かっていれば\n解ける問題ばかりだ\n\n# textflame 1 1\n@パラケルスス\nどうだ？\nやってみるか？\n\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@パラケルスス\n君なら余裕だろ？\nわたくしのマスター\n\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n@パラケルスス\nそれでは、問題…\n;;--------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nわたくし、自分の記憶のせいで\n戦闘時に人が変わるのだが…\nどう変わってるか知ってたか？\n\n# se \"SE_0734\"\n# select  \"おてんばになる\" \"select_label_1\" \"惨忍になる\" \"select_label_2\" \"逃げ腰になる\" \"select_label_3\"\nわたくし、自分の記憶のせいで\n戦闘時に人が変わるのだが…\nどう変わってるか知ってたか？\n"
+	},
+	{
+		"ID": 2273,
+		"unitID": 2101311,
+		"questionID": 9101323,
+		"script": ";;80,3\n# voice 1013 \"paracelsus_0001\"\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n@パラケルスス\nなあ…君は、\nクイズとかは得意か？\n\n# textflame 1 1\n@パラケルスス\nクイズと言っても、\nわたくしのことを分かっていれば\n解ける問題ばかりだ\n\n# textflame 1 1\n@パラケルスス\nどうだ？\nやってみるか？\n\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@パラケルスス\n君なら余裕だろ？\nわたくしのマスター\n\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n@パラケルスス\nそれでは、問題…\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nわたくしの好きな水銀の\n原子番号が何番か分かるか？\n\n# se \"SE_0734\"\n# select  \"15\" \"select_label_1\" \"30\" \"select_label_2\" \"80\" \"select_label_3\"\nわたくしの好きな水銀の\n原子番号が何番か分かるか？\n"
+	},
+	{
+		"ID": 2274,
+		"unitID": 2101311,
+		"questionID": 9101324,
+		"script": ";;剣神,1\n# voice 1013 \"paracelsus_0001\"\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n@パラケルスス\nなあ…君は、\nクイズとかは得意か？\n\n# textflame 1 1\n@パラケルスス\nクイズと言っても、\nわたくしのことを分かっていれば\n解ける問題ばかりだ\n\n# textflame 1 1\n@パラケルスス\nどうだ？\nやってみるか？\n\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@パラケルスス\n君なら余裕だろ？\nわたくしのマスター\n\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n@パラケルスス\nそれでは、問題…\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nわたくしの☆６のジョブ名は\nなんだか知っているか？\n\n# se \"SE_0734\"\n# select  \"剣神\" \"select_label_1\" \"剣豪\" \"select_label_2\" \"剣王\" \"select_label_3\"\nわたくしの☆６のジョブ名は\nなんだか知っているか？\n"
+	},
+	{
+		"ID": 2275,
+		"unitID": 2101311,
+		"questionID": 9101325,
+		"script": ";;イタリア,2\n# voice 1013 \"paracelsus_0001\"\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n@パラケルスス\nなあ…君は、\nクイズとかは得意か？\n\n# textflame 1 1\n@パラケルスス\nクイズと言っても、\nわたくしのことを分かっていれば\n解ける問題ばかりだ\n\n# textflame 1 1\n@パラケルスス\nどうだ？\nやってみるか？\n\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@パラケルスス\n君なら余裕だろ？\nわたくしのマスター\n\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n@パラケルスス\nそれでは、問題…\n;;--------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nわたくしの出身地スイスの\n南側に位置する国はどこだ？\n\n# se \"SE_0734\"\n# select  \"ドイツ\" \"select_label_1\" \"イタリア\" \"select_label_2\" \"オーストラリア\" \"select_label_3\"\nわたくしの出身地スイスの\n南側に位置する国はどこだ？\n"
+	},
+	{
+		"ID": 2276,
+		"unitID": 2101311,
+		"questionID": 9101326,
+		"script": ";;フライクーゲル,3\n# voice 1013 \"paracelsus_0001\"\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n@パラケルスス\nなあ…君は、\nクイズとかは得意か？\n\n# textflame 1 1\n@パラケルスス\nクイズと言っても、\nわたくしのことを分かっていれば\n解ける問題ばかりだ\n\n# textflame 1 1\n@パラケルスス\nどうだ？\nやってみるか？\n\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@パラケルスス\n君なら余裕だろ？\nわたくしのマスター\n\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n@パラケルスス\nそれでは、問題…\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nわたくしが近代技術を\nもちいる者同士として\n仲良くしているのは誰だ？\n\n# se \"SE_0734\"\n# select  \"メギド\" \"select_label_1\" \"シェキナー\" \"select_label_2\" \"フライクーゲル\" \"select_label_3\"\nわたくしが近代技術を\nもちいる者同士として\n仲良くしているのは誰だ？\n"
+	},
+	{
+		"ID": 2277,
+		"unitID": 2101311,
+		"questionID": 9101327,
+		"script": ";;回避,1\n# voice 1013 \"paracelsus_0001\"\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n@パラケルスス\nなあ…君は、\nクイズとかは得意か？\n\n# textflame 1 1\n@パラケルスス\nクイズと言っても、\nわたくしのことを分かっていれば\n解ける問題ばかりだ\n\n# textflame 1 1\n@パラケルスス\nどうだ？\nやってみるか？\n\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@パラケルスス\n君なら余裕だろ？\nわたくしのマスター\n\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n@パラケルスス\nそれでは、問題…\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nわたくしのスキル「ドラゴンキラー」\n相手が竜属性の場合に命中と\nなにが上がるか把握してるか？\n\n# se \"SE_0734\"\n# select  \"回避\" \"select_label_1\" \"物攻\" \"select_label_2\" \"HP\" \"select_label_3\"\nわたくしのスキル「ドラゴンキラー」\n相手が竜属性の場合に命中と\nなにが上がるか把握してるか？\n"
+	},
+	{
+		"ID": 2278,
+		"unitID": 2101311,
+		"questionID": 9101328,
+		"script": ";;剣神の導き,2\n# voice 1013 \"paracelsus_0001\"\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n@パラケルスス\nなあ…君は、\nクイズとかは得意か？\n\n# textflame 1 1\n@パラケルスス\nクイズと言っても、\nわたくしのことを分かっていれば\n解ける問題ばかりだ\n\n# textflame 1 1\n@パラケルスス\nどうだ？\nやってみるか？\n\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@パラケルスス\n君なら余裕だろ？\nわたくしのマスター\n\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n@パラケルスス\nそれでは、問題…\n;;--------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nわたくしのリーダースキルの名称\nマスターは知っているか？\n\n# se \"SE_0734\"\n# select  \"剣神の波紋\" \"select_label_1\" \"剣神の導き\" \"select_label_2\" \"剣神の知略\" \"select_label_3\"\nわたくしのリーダースキルの名称\nマスターは知っているか？\n"
+	},
+	{
+		"ID": 2279,
+		"unitID": 2101311,
+		"questionID": 9101329,
+		"script": ";;コミットダガー,3\n# voice 1013 \"paracelsus_0001\"\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n@パラケルスス\nなあ…君は、\nクイズとかは得意か？\n\n# textflame 1 1\n@パラケルスス\nクイズと言っても、\nわたくしのことを分かっていれば\n解ける問題ばかりだ\n\n# textflame 1 1\n@パラケルスス\nどうだ？\nやってみるか？\n\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@パラケルスス\n君なら余裕だろ？\nわたくしのマスター\n\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n@パラケルスス\nそれでは、問題…\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nこの前、わたくしが取得した\nスキル名を覚えているか？\n\n# se \"SE_0734\"\n# select  \"アゾットダガー\" \"select_label_1\" \"コズミックダガー\" \"select_label_2\" \"コミットダガー\" \"select_label_3\"\nこの前、わたくしが取得した\nスキル名を覚えているか？\n"
+	},
+	{
+		"ID": 2280,
+		"unitID": 2101311,
+		"questionID": 9101330,
+		"script": ";;アクセプトダガー,1\n# voice 1013 \"paracelsus_0001\"\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n@パラケルスス\nなあ…君は、\nクイズとかは得意か？\n\n# textflame 1 1\n@パラケルスス\nクイズと言っても、\nわたくしのことを分かっていれば\n解ける問題ばかりだ\n\n# textflame 1 1\n@パラケルスス\nどうだ？\nやってみるか？\n\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@パラケルスス\n君なら余裕だろ？\nわたくしのマスター\n\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n@パラケルスス\nそれでは、問題…\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nこの前、わたくしが取得した\nスキル名を覚えているか？\n\n# se \"SE_0734\"\n# select  \"アクセプトダガー\" \"select_label_1\" \"アクションダガー\" \"select_label_2\" \"アメイジングダガー\" \"select_label_3\"\nこの前、わたくしが取得した\nスキル名を覚えているか？\n"
+	},
+	{
+		"ID": 2281,
+		"unitID": 2101311,
+		"questionID": 9101331,
+		"script": ";;リットゥ,1\n# face %(unit_a)s \"usual\"\n# voice 1013 \"paracelsus_0001\"\n# textflame 1 1\n@パラケルスス\nマスターに\n聞きたいことがある…\n\n# textflame 1 1\n@パラケルスス\nマスターはわたくしのことを、\nどの程度理解してるのだろうか？\n\n# textflame 1 1\n@パラケルスス\nわたくしはそれが知りたい…\n\n# textflame 1 1\n@パラケルスス\nだから、今からクイズを\n出したいと思う\n\n# voice 1013 \"paracelsus_0036\"\n# textflame 1 1\n@パラケルスス\nマスター、ちゃんと答えてくれ\nそれじゃあ、行くぞ？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nわたくしが過去のとある出来事から\n仲が悪いのは誰だ？\n\n# se \"SE_0734\"\n# select  \"リットゥ\" \"select_label_1\" \"タスラム\" \"select_label_2\" \"テュルソス\" \"select_label_3\"\nわたくしが過去のとある出来事から\n仲が悪いのは誰だ？\n"
+	},
+	{
+		"ID": 2282,
+		"unitID": 2101311,
+		"questionID": 9101332,
+		"script": ";;メギド,2\n# face %(unit_a)s \"usual\"\n# voice 1013 \"paracelsus_0001\"\n# textflame 1 1\n@パラケルスス\nマスターに\n聞きたいことがある…\n\n# textflame 1 1\n@パラケルスス\nマスターはわたくしのことを、\nどの程度理解してるのだろうか？\n\n# textflame 1 1\n@パラケルスス\nわたくしはそれが知りたい…\n\n# textflame 1 1\n@パラケルスス\nだから、今からクイズを\n出したいと思う\n\n# voice 1013 \"paracelsus_0036\"\n# textflame 1 1\n@パラケルスス\nマスター、ちゃんと答えてくれ\nそれじゃあ、行くぞ？\n;;--------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nわたくしが過去のとある出来事から\n仲が悪いのは誰だ？\n\n# se \"SE_0734\"\n# select  \"ピナーカ\" \"select_label_1\" \"メギド\" \"select_label_2\" \"ハルパー\" \"select_label_3\"\nわたくしが過去のとある出来事から\n仲が悪いのは誰だ？\n"
+	},
+	{
+		"ID": 2283,
+		"unitID": 2101311,
+		"questionID": 9101333,
+		"script": ";;曖昧かつ抽象,3\n# face %(unit_a)s \"usual\"\n# voice 1013 \"paracelsus_0001\"\n# textflame 1 1\n@パラケルスス\nマスターに\n聞きたいことがある…\n\n# textflame 1 1\n@パラケルスス\nマスターはわたくしのことを、\nどの程度理解してるのだろうか？\n\n# textflame 1 1\n@パラケルスス\nわたくしはそれが知りたい…\n\n# textflame 1 1\n@パラケルスス\nだから、今からクイズを\n出したいと思う\n\n# voice 1013 \"paracelsus_0036\"\n# textflame 1 1\n@パラケルスス\nマスター、ちゃんと答えてくれ\nそれじゃあ、行くぞ？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nわたくしは\n「恋など、○○の極みだ」と\n思っているが、わかるか？\n\n# se \"SE_0734\"\n# select  \"錯覚かつ幻想\" \"select_label_1\" \"幸福かつ絶頂\" \"select_label_2\" \"曖昧かつ抽象\" \"select_label_3\"\nわたくしは\n「恋など、○○の極みだ」と\n思っているが、わかるか？\n"
+	},
+	{
+		"ID": 2284,
+		"unitID": 2101311,
+		"questionID": 9101334,
+		"script": ";;Hg ,1\n# face %(unit_a)sAg \"usual\"\n# voice 1013 \"paracelsus_0001\"\n# textflame 1 1\n@パラケルスス\nマスターに\n聞きたいことがある…\n\n# textflame 1 1\n@パラケルスス\nマスターはわたくしのことを、\nどの程度理解してるのだろうか？\n\n# textflame 1 1\n@パラケルスス\nわたくしはそれが知りたい…\n\n# textflame 1 1\n@パラケルスス\nだから、今からクイズを\n出したいと思う\n\n# voice 1013 \"paracelsus_0036\"\n# textflame 1 1\n@パラケルスス\nマスター、ちゃんと答えてくれ\nそれじゃあ、行くぞ？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nわたくしが好きな\n「水銀」の元素記号はわかるか？\n\n# se \"SE_0734\"\n# select  \"Hg\" \"select_label_1\" \"Ag\" \"select_label_2\" \"Au\" \"select_label_3\"\nわたくしが好きな\n「水銀」の元素記号はわかるか？\n"
+	},
+	{
+		"ID": 2285,
+		"unitID": 2101311,
+		"questionID": 9101335,
+		"script": ";;ウコンバサラ,2\n# face %(unit_a)s \"usual\"\n# voice 1013 \"paracelsus_0001\"\n# textflame 1 1\n@パラケルスス\nマスターに\n聞きたいことがある…\n\n# textflame 1 1\n@パラケルスス\nマスターはわたくしのことを、\nどの程度理解してるのだろうか？\n\n# textflame 1 1\n@パラケルスス\nわたくしはそれが知りたい…\n\n# textflame 1 1\n@パラケルスス\nだから、今からクイズを\n出したいと思う\n\n# voice 1013 \"paracelsus_0036\"\n# textflame 1 1\n@パラケルスス\nマスター、ちゃんと答えてくれ\nそれじゃあ、行くぞ？\n;;--------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nわたくしと同じ身長の\nキル姫を知っているか？\n\n# se \"SE_0734\"\n# select  \"アポロン\" \"select_label_1\" \"ウコンバサラ\" \"select_label_2\" \"グリモワール\" \"select_label_3\"\nわたくしと同じ身長の\nキル姫を知っているか？\n"
+	},
+	{
+		"ID": 2286,
+		"unitID": 2101311,
+		"questionID": 9101336,
+		"script": ";;茶色,3\n# face %(unit_a)s \"usual\"\n# voice 1013 \"paracelsus_0001\"\n# textflame 1 1\n@パラケルスス\nマスターに\n聞きたいことがある…\n\n# textflame 1 1\n@パラケルスス\nマスターはわたくしのことを、\nどの程度理解してるのだろうか？\n\n# textflame 1 1\n@パラケルスス\nわたくしはそれが知りたい…\n\n# textflame 1 1\n@パラケルスス\nだから、今からクイズを\n出したいと思う\n\n# voice 1013 \"paracelsus_0036\"\n# textflame 1 1\n@パラケルスス\nマスター、ちゃんと答えてくれ\nそれじゃあ、行くぞ？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nわたくしの髪色くらい\nもちろん分かるよな？\n\n# se \"SE_0734\"\n# select  \"黒色\" \"select_label_1\" \"赤色\" \"select_label_2\" \"茶色\" \"select_label_3\"\nわたくしの髪色くらい\nもちろん分かるよな？\n"
+	},
+	{
+		"ID": 2287,
+		"unitID": 2101311,
+		"questionID": 9101337,
+		"script": ";;ゴーグル,1\n# face %(unit_a)s \"usual\"\n# voice 1013 \"paracelsus_0001\"\n# textflame 1 1\n@パラケルスス\nマスターに\n聞きたいことがある…\n\n# textflame 1 1\n@パラケルスス\nマスターはわたくしのことを、\nどの程度理解してるのだろうか？\n\n# textflame 1 1\n@パラケルスス\nわたくしはそれが知りたい…\n\n# textflame 1 1\n@パラケルスス\nだから、今からクイズを\n出したいと思う\n\n# voice 1013 \"paracelsus_0036\"\n# textflame 1 1\n@パラケルスス\nマスター、ちゃんと答えてくれ\nそれじゃあ、行くぞ？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nマスター、わたくしがよく\n頭に付けている物が分かるか？\n\n# se \"SE_0734\"\n# select  \"ゴーグル\" \"select_label_1\" \"カチューシャ\" \"select_label_2\" \"花飾り\" \"select_label_3\"\nマスター、わたくしがよく\n頭に付けている物が分かるか？\n"
+	},
+	{
+		"ID": 2288,
+		"unitID": 2101311,
+		"questionID": 9101338,
+		"script": ";;性愛に積極的になる,2\n# face %(unit_a)s \"usual\"\n# voice 1013 \"paracelsus_0001\"\n# textflame 1 1\n@パラケルスス\nマスターに\n聞きたいことがある…\n\n# textflame 1 1\n@パラケルスス\nマスターはわたくしのことを、\nどの程度理解してるのだろうか？\n\n# textflame 1 1\n@パラケルスス\nわたくしはそれが知りたい…\n\n# textflame 1 1\n@パラケルスス\nだから、今からクイズを\n出したいと思う\n\n# voice 1013 \"paracelsus_0036\"\n# textflame 1 1\n@パラケルスス\nマスター、ちゃんと答えてくれ\nそれじゃあ、行くぞ？\n;;--------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nわたくしは戦闘時だけでなく\n普段も悪魔憑き状態になるが…\nその際はどんな感じに変わる？\n\n# se \"SE_0734\"\n# select  \"呂律が回らなくなる\" \"select_label_1\" \"性愛に積極的になる\" \"select_label_2\" \"暴れまわる\" \"select_label_3\"\nわたくしは戦闘時だけでなく\n普段も悪魔憑き状態になるが…\nその際はどんな感じに変わる？\n"
+	},
+	{
+		"ID": 2289,
+		"unitID": 2101311,
+		"questionID": 9101339,
+		"script": ";;トライデント,3\n# face %(unit_a)s \"usual\"\n# voice 1013 \"paracelsus_0001\"\n# textflame 1 1\n@パラケルスス\nマスターに\n聞きたいことがある…\n\n# textflame 1 1\n@パラケルスス\nマスターはわたくしのことを、\nどの程度理解してるのだろうか？\n\n# textflame 1 1\n@パラケルスス\nわたくしはそれが知りたい…\n\n# textflame 1 1\n@パラケルスス\nだから、今からクイズを\n出したいと思う\n\n# voice 1013 \"paracelsus_0036\"\n# textflame 1 1\n@パラケルスス\nマスター、ちゃんと答えてくれ\nそれじゃあ、行くぞ？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nわたくしの誕生月と同じ子が\nいるんだけど誰か分かるか？\n\n# se \"SE_0734\"\n# select  \"アスクレピオス\" \"select_label_1\" \"アロンダイト\" \"select_label_2\" \"トライデント\" \"select_label_3\"\nわたくしの誕生月と同じ子が\nいるんだけど誰か分かるか？\n"
+	},
+	{
+		"ID": 2290,
+		"unitID": 2101311,
+		"questionID": 9101340,
+		"script": ";;ハルパー,1\n# face %(unit_a)s \"usual\"\n# voice 1013 \"paracelsus_0001\"\n# textflame 1 1\n@パラケルスス\nマスターに\n聞きたいことがある…\n\n# textflame 1 1\n@パラケルスス\nマスターはわたくしのことを、\nどの程度理解してるのだろうか？\n\n# textflame 1 1\n@パラケルスス\nわたくしはそれが知りたい…\n\n# textflame 1 1\n@パラケルスス\nだから、今からクイズを\n出したいと思う\n\n# voice 1013 \"paracelsus_0036\"\n# textflame 1 1\n@パラケルスス\nマスター、ちゃんと答えてくれ\nそれじゃあ、行くぞ？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nわたくしの血液型と同じ子が\nいるんだけど誰か分かるか？\n\n# se \"SE_0734\"\n# select  \"ハルパー\" \"select_label_1\" \"天沼矛\" \"select_label_2\" \"テュルソス\" \"select_label_3\"\nわたくしの血液型と同じ子が\nいるんだけど誰か分かるか？\n"
+	},
+	{
+		"ID": 2291,
+		"unitID": 2101311,
+		"questionID": 9101341,
+		"script": "\n;;わたくし,1\n# se \"SE_0734\"\n# select \"わたくし\" \"select_label_1\" \"ワタシ\" \"select_label_2\" \"わたし\" \"select_label_3\"\nパラケルススの一人称は\n次のうちどれ？\n"
+	},
+	{
+		"ID": 2292,
+		"unitID": 2101311,
+		"questionID": 9101342,
+		"script": "\n;;マスター,2\n# se \"SE_0734\"\n# select \"ご主人様\" \"select_label_1\" \"マスター\" \"select_label_2\" \"お前\" \"select_label_3\"\nパラケルススはアンタのこと、\nなんて呼んでる？\n"
+	},
+	{
+		"ID": 2293,
+		"unitID": 2101311,
+		"questionID": 9101343,
+		"script": "\n;;82,2\n# se \"SE_0734\"\n# select \"77\" \"select_label_1\" \"82\" \"select_label_2\" \"83\" \"select_label_3\"\nパラケルススの\nバストサイズがどのくらいか\nアンタ…知ってるの？\n"
+	},
+	{
+		"ID": 2294,
+		"unitID": 2101311,
+		"questionID": 9101344,
+		"script": "\n;;57,3\n# se \"SE_0734\"\n# select \"54\" \"select_label_1\" \"60\" \"select_label_2\" \"57\" \"select_label_3\"\nパラケルススの\nウエストサイズがどのくらいか\nアンタ…知ってるの？\n"
+	},
+	{
+		"ID": 2295,
+		"unitID": 2101311,
+		"questionID": 9101345,
+		"script": "\n;;82,3\n# se \"SE_0734\"\n# select \"79\" \"select_label_1\" \"85\" \"select_label_2\" \"82\" \"select_label_3\"\nパラケルススの\nヒップサイズがどのくらいか\nアンタ…知ってるの？\n"
+	},
+	{
+		"ID": 2296,
+		"unitID": 2101311,
+		"questionID": 9101346,
+		"script": "\n;;44,3\n# se \"SE_0734\"\n# select \"41\" \"select_label_1\" \"47\" \"select_label_2\" \"44\" \"select_label_3\"\nパラケルススの体重は\n次のうちどれ？\n"
+	},
+	{
+		"ID": 2297,
+		"unitID": 2101311,
+		"questionID": 9101347,
+		"script": "\n;;221,1\n# se \"SE_0734\"\n# select \"221\" \"select_label_1\" \"210\" \"select_label_2\" \"228\" \"select_label_3\"\nパラケルススの\nバスト＋ウエスト＋ヒップは\nいくつかわかる？\n"
+	},
+	{
+		"ID": 2298,
+		"unitID": 2101311,
+		"questionID": 9101348,
+		"script": "\n;;緑,2\n# se \"SE_0734\"\n# select \"白\" \"select_label_1\" \"緑\" \"select_label_2\" \"赤\" \"select_label_3\"\nパラケルススの水着の色は\n次のうちどれ？\n"
+	},
+	{
+		"ID": 2299,
+		"unitID": 2101311,
+		"questionID": 9101349,
+		"script": "\n;;73位,3\n# se \"SE_0734\"\n# select \"65位\" \"select_label_1\" \"80位\" \"select_label_2\" \"73位\" \"select_label_3\"\nパラケルススは\n第２回人気投票で\n何位だったでしょう？\n"
+	},
+	{
+		"ID": 2300,
+		"unitID": 2101311,
+		"questionID": 9101350,
+		"script": "\n;;喜多村英梨,1\n# se \"SE_0734\"\n# select \"喜多村英梨\" \"select_label_1\" \"優木かな\" \"select_label_2\" \"山本希望\" \"select_label_3\"\nパラケルススの声優は誰？\n"
+	}
+]

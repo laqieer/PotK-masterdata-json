@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 300221,
+		"script": ";;今行くよ,大\n;;ちょっと船酔いで,小\n;;落ちそうだから,中\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_shipboard\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 0 0\n@\nマスターはデートの終わりに\nトライデントを連れて\n船上を満喫していた\n\n# voice 3002 \"toraidento_0021\"\n# textflame 1 1\n@トライデント\n見て見て、あそこの海面光ってる～\n夜光虫かなぁ？\n;;----------------------------------------\n\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@%(unitName:unit_a)s\nマスターもこっち来なよ～\n夜風が気持ちいいよー？\n\n# select \"今行くよ\" \"select_label_01\" \"ちょっと船酔いで\" \"select_label_02\" \"落ちそうだから\" \"select_label_03\"\nマスターもこっち来なよ～\n夜風が気持ちいいよー？\n\n# label \"select_label_01\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_02\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_03\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# textflame 1 1\n# waitandnext 0.1\n\n# label \"select_label_end\"\n# waitandnext 2\n# fadeout \"black\" 1.2\n"
+	}
+]

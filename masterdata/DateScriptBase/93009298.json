@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 93009298,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# se \"SE_0733\"\n# face %(unit_a)s \"sad\"\n# voice 3009 \"seiryu_0027\"\n@青龍偃月刀\n…やれやれ\n\n# face %(unit_a)s \"angry\"\n@青龍偃月刀\nどうやら精進が\n足りないようですね\n\n# voice 3009 \"seiryu_0028\"\n@青龍偃月刀\n将がそんなことでは…\n困りますよ\n\n# eye %(unit_a)s \"close\"\n@青龍偃月刀\n優秀な家来を\n惚れさせたくば…\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"usual\"\n# voice 3009 \"seiryu_0036\"\n@青龍偃月刀\nもっと勉強してください…\nでないと…\n\n@青龍偃月刀\n離れていっちゃいますよ…？\n\n# textflame 0 0\n@\nその顔は悲しみに満ちていて…\n\n@\nデート中のはずなのに…\nあんな想いをさせてしまった\n\n@\nどんな質問も答えられるように\n彼女のこと\n復習しておかないとだな…\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

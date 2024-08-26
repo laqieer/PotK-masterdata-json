@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 100814,
+		"script": "# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_park_day\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n@%(unitName:unit_a)s\nあ…そ、そうだよね\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私こそムチャ振りして\nごめんね！\n\n# textflame 0 0\n@\nちょっと正直過ぎたかもしれない\n逆に謝られてしまった…\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

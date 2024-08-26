@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 92002198,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# se \"SE_0733\"\n# voice 2002 \"aimuru_0013\"\n@アイムール\nそうですね…\n\n@アイムール\nこのクイズはマスターにとって\n難しすぎましたか\n\n@アイムール\nでしたら、\n今度からはもっと簡単な質問に\nさせていただきますね\n\n@アイムール\n自分から質問をしておいて\nなんなのですが、\nやっぱり正解して貰いたいですし…\n\n@アイムール\nあ、いえ…マスターを\n責めているわけではありません\n\n# voice 2002 \"aimuru_0003\"\n@アイムール\nでは、そろそろ帰りましょうか\n\n# textflame 0 0\n@\nアイムールに\n余計な気を使わせてしまった\n\n@\nそれもこれもクイズに\n正解できなかった自分のせい…\n\n@\n次こそは絶対に正解しよう！\nそう意気込むマスターであった\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

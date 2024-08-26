@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 2300122,
+		"script": "# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_drive\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# voice 230012 \"ronginusu_k_0009\"\n@ロンギヌス\n楽しいだなんて、そんな…\nマスターは楽しいんですか？\n\n# textflame 0 0\n@\nロンギヌスと一緒だから楽しいよ\nと伝えるマスター\n\n# textflame 1 1\n@ロンギヌス\nな、何をいきなり…\n\n@ロンギヌス\n…でも、本当は私も楽しいです\n\n# face %(unit_a)s \"smile\"\n# voice 230012 \"ronginusu_k_0005\"\n@ロンギヌス\nマスターが楽しいと思うことを\n私も楽しいと思える…\nなんだか、嬉しいですね\n\n# textflame 0 0\n@\nロンギヌスが頬を緩めて\nやわらかい笑顔を浮かべる\n\n@\n気を許した相手にだけ見せる\nその笑顔を見れたことで\n今回は最高のドライブになった…\n\n# waitandnext 2\n# fadeout \"black\" 1.2"
+	}
+]

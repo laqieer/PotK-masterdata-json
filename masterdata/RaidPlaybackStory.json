@@ -1,0 +1,30 @@
+[
+	{
+		"ID": 1,
+		"name": "白鯨攻略戦",
+		"period_id": 111,
+		"priority": 4,
+		"display_expire_at": "2018-12-17 23:59:59"
+	},
+	{
+		"ID": 2,
+		"name": "白鯨攻略戦",
+		"period_id": 114,
+		"priority": 3,
+		"display_expire_at": "2019-06-03 23:59:59"
+	},
+	{
+		"ID": 3,
+		"name": "ダンジョンのない世界で出会った冒険者 ギルドレイド",
+		"period_id": 120,
+		"priority": 2,
+		"display_expire_at": "2020-03-23 14:59:59"
+	},
+	{
+		"ID": 4,
+		"name": "<物語>シリーズ コラボ ギルドレイド",
+		"period_id": 125,
+		"priority": 1,
+		"display_expire_at": "2020-12-15 14:59:59"
+	}
+]

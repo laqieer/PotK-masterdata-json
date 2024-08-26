@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 93024298,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# se \"SE_0733\"\n# face %(unit_a)s \"sad\"\n# voice 3024 \"tonbokiri_0017\"\n@蜻蛉切\n…あ\n\n@蜻蛉切\n………う、うん\n\n@蜻蛉切\nハズレ\n\n# face %(unit_a)s \"normal\"\n@蜻蛉切\nまったくもう、ホントに\nばか殿なんだからっ！\nあはは\n\n@蜻蛉切\n…………\n\n# textflame 0 0\n@\n彼女はほんの少しだけ\nがっかりしたような表情を見せた\n\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# voice 3024 \"tonbokiri_0008\"\n@蜻蛉切\nえっと…行こっか、殿\n\n# textflame 0 0\n@\nあんな顔させちゃった\nデート中のはずなのに…\n\n@\nちゃんと\nどんな質問も答えられるように\n復習しておかないとだな…\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

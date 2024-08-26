@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 400213,
+		"script": "# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_fireworks\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 4002 \"pinaka_0005\"\n@ピナーカ\nあぁ…\nすーっとイライラが\n抜けていった気がするわ\n\n# textflame 0 0\n@\nそんなに溜め込むほど\nイライラすることが\nあったのだろうか…\n\n# textflame 1 1\n@ピナーカ\nあぁ～っとだな…\nイライラというよりは…\nモヤモヤ…というか…\n\n# textflame 1 1\n@ピナーカ\nうう～ん…\n\n# textflame 1 1\n# face %(unit_a)s \"angry\"\n@ピナーカ\nんぁぁあ～！！\n細かいことは気にすんな！！\n\n# textflame 0 0\n@\n思い切りピナーカに\n背中を叩かれたタイミングで\n今夜一番の花火が咲いた――\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

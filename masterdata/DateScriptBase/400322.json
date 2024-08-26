@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 400322,
+		"script": ";;そうかもって思ってた　大\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_room\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 4003 \"aporon_0023\"\n@アポロン\n…え？\n\n# face %(unit_a)s \"smile\"\n# voice 4003 \"aporon_0005\"\n@アポロン\nあははっ！\nうわー、マスターってば\nじいしきかじょーだよ！\n\n# eye %(unit_a)s \"close\"\n# face %(unit_a)s \"normal\"\n@アポロン\nまー、うん、合ってるんだよね\nこれって以心伝心ってやつ？\n\n# eye %(unit_a)s \"normal\"\n# voice 4003 \"aporon_0039\"\n@アポロン\nマスターちょっと\nボクのこと好きすぎるんじゃない？\n\n# textflame 0 0\n@\nアポロンはバンバンと\nマスターの背中を叩く\nその頬はゆるみ、口は弧を描いている\n\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# voice 4003 \"aporon_0021\"\n@アポロン\nマスターはアポロンの\n一番のファンってことで！\n\n# face %(unit_a)s \"normal\"\n@アポロン\nでもそこまで言っといて\nこれからボク以外の娘に\n目移りしたら…\n\n# textflame 0 0\n@\nそれ以上は口にせず笑った\nアポロンはコツンとマスターの\n胸を叩いてウインクした\n\n# textflame 0 0\n@\nアポロンと部屋で\n騒がしくも甘いひとときを過ごした…\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

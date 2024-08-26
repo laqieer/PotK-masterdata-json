@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 110150541,
+		"script": ";;-----------------------------------------\n;;【PUNK】新章ストーリー15章\n;;第5話　タイトル：絶望世界から\n;;5_4_1\n;;背景：室内\n;;-----------------------------------------\n# script \"lisp\"\n# background \"church_room\"\n# bgmfile \"bgm276\" \"BgmLostRagnarokEvent\" 0\n;;-----------------------------------------\n;;エルキュール(エンシェント)\n# body 202511\n# pos 202511 3\n# scale 202511 0.8 0\n# layer 202511 3\n# alpha 202511 0 0\n;;ピーサル\n# body 3302011\n# pos 3302011 3\n# scale 3302011 0.8 0\n# layer 3302011 3\n# alpha 3302011 0 0\n;;-----------------------------------------\n# move 3302011 4 0\n# alpha 3302011 1 0\n# face 3302011 \"normal\"\n# move 202511 2 0\n# alpha 202511 1 0\n# face 202511 \"angry\"\n# voice 2025 \"hercule_0037\"\n# textboxarrow 0 1\n@エルキュール\n止めて下さい、ピサール！\nあなたと私が戦うことなど\nないんです！\n\n# voice 330201 \"pisear_t_0031\"\n# textboxarrow 0 3\n@ピサール\nごめんね～\nマスターの命令だから～\nそれに～\n\n# textboxarrow 0 3\n@ピサール\nこの方が、らしいっていうの～？\nみんなを救いたいなら～\n\n# voice 330201 \"pisear_t_0005\"\n# textboxarrow 0 3\n@ピサール\nみんなを殺すのが一番よ～\n死こそ救済\n面倒だけど、楽園に送ってあげる\n\n# voice 2025 \"hercule_unit_0006\"\n# textboxarrow 0 1\n@エルキュール\n希望の光は、誰にも消せません！"
+	}
+]

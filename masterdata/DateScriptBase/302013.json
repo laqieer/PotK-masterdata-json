@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 302013,
+		"script": "# script \"lisp\"\n# fadein \"black\" 0.5\n# background %(background)s\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# voice 3020 \"pisear_kyara_3001\"\n# face %(unit_a)s \"sad\"\n@ピサール\nえ～…だって～\n水槽気持ちいいんだも～ん\n\n# textflame 0 0\n@\nそうは言っても\n他のお客さんの\n迷惑になってはいけない\n\n# textflame 1 1\n@ピサール\nやだ～…\nマスターが\nお母さんみたいなこと言ってる～\n\n# textflame 0 0\n@\nしぶしぶ水槽から離れた彼女は\nマスターを恨めしげに見つめる\n\n# textflame 1 1\n@ピサール\nだってマスターにくっついたら\n暑くて溶けちゃうでしょ～？\n\n# face %(unit_a)s \"smile\"\n# voice 3020 \"pisear_0004\"\n# textflame 1 1\n@ピサール\nマスターが冷たかったら…\nいくらでもひっつくのに～…\n\n# textflame 0 0\n@\n口を尖らせるピサールだったが…\n\n# textflame 0 0\n@\nそのあと買ってもらった\nアイスを片手に\nマスターの腕にじゃれるのだった…\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

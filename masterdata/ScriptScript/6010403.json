@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 6010403,
+		"script": ";;バトル終了\n# script \"lisp\"\n# background \"beach\"\n# bgm \"bgm002\" 0\n# body 600851\n# pos 600851 3\n# mask 600851 off\n# scale 600851 0.8 0\n# alpha 600851 0 0\n# body 201751\n# pos 201751 4\n# scale 201751 0.8 0\n# alpha 201751 0 0\n# textflame 0 0\n@\n異族を浄化すると\n少女はこれまでどおり\n前後の記憶を失い、\n\n# textflame 0 0\n@\nすっきりした顔で\nその場から立ち去った\n\n# serif 1\n# textboxarrow 1 2\n# alpha 600851 1 0.5\n# chara 600851\n# voice 6008 \"guridavoru_0019\"\n# face 600851 \"sad\"\n@グリダヴォル\n無事解決した…\nってことでいいんだよね？\n\n# serif 0\n# textflame 0 0\n# textboxarrow 0 0\n@マスター\nたぶんね\n\n# serif 0\n# textboxarrow 0 0\n@マスター\nそれで、\nヤグルシのお姉さんのことだけど\n\n# serif 1\n# textboxarrow 1 2\n# chara 600851\n# face 600851 \"usual\"\n@グリダヴォル\nそれなら、来週、\nビーチバレー大会があるんだよね\n\n# serif 0\n# textboxarrow 0 0\n@マスター\nあ、なるほど！\n二人でそれに参加して、\n仲直りのキッカケにするのか！\n\n# serif 1\n# textboxarrow 1 2\n# chara 600851\n@グリダヴォル\n水着コンテストもあるけど…\nそれは違うと思うし\n\n# serif 0\n# textboxarrow 0 0\n@マスター\nどうかな、ヤグルシ？\n\n# serif 1\n# textboxarrow 1 3\n# mask 600851 on\n# move 600851 2 0.5\n# alpha 201751 1 0.5\n# chara 201751\n# voice 2017 \"yagurushi_0003\"\n# face 201751 \"angry\"\n@ヤグルシ\n参加する！\nそれでヤグ、お姉ちゃんと\n絶対に仲直りする！\n"
+	}
+]

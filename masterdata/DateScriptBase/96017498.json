@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 96017498,
+		"script": ";;//不正解\n# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body 2601711\n# pos 2601711 3\n# mask 2601711 off\n# chara 2601711\n# fadein \"black\" 0.5\n# textflame 1 1\n# face 2601711 \"sad\"\n# se \"SE_0733\"\n@アクア\nえ…不正解…\nそんなぁ…\n\n;;モノローグ\n# textflame 0 0\n@\nなんだかアクアがものすごく\n落ち込んでしまった\n\n# textflame 1 1\n@アクア\nもう！どうしてみんな\n私の神々しさが分からないのよ！\n\n@アクア\n私、アクシズ教の本尊なのよ？\n水の女神アクアなのよ？\n\n@アクア\nもっと私を称えて\n甘やかしてよ～！\n\n@アクア\nぐすん…\n\n;;モノローグ\n# textflame 0 0\n@\nなんとかなぐさめようとしてみたが\nアクアの気分は落ち込んだままだった\n\n;;モノローグ\n@\nこんなことなら\n彼女の質問に答えられるように\n準備をしておくべきだった…\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

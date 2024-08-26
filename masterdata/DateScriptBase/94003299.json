@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 94003299,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# se \"SE_0732\"\n# voice 4003 \"aporon_0041\"\n@アポロン\nまさかほんとに正解するなんて…\n\n@アポロン\nそれにびっくりなくらい、\n正確な答えだったかも…\n\n@アポロン\nこれはちょっぴり意外だったよ\n\n# eye %(unit_a)s \"close\"\n@アポロン\nまぁ、でも？\nこれくらいマスターなら、\n余裕って感じかもしれないし\n\n@アポロン\nまだまだ確認する必要はあるかも…\n\n# eye %(unit_a)s \"normal\"\n@アポロン\n次はもーっと難しいこと聞いて、\nマスターを試してあげるから！\n\n# face %(unit_a)s \"smile\"\n# voice 4003 \"aporon_0036\"\n@アポロン\n楽しみにしながら、\nちゃーんと準備しといてね！\n\n# textflame 0 0\n@\nまるでこちらを挑発するように、\n彼女はにまりと笑みを浮かべるが、\nそこに確かな絆の深まりを感じた…\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

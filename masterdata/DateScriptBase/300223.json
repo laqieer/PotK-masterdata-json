@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 300223,
+		"script": "# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_shipboard\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# voice 3002 \"toraidento_0004\"\n@トライデント\n大丈夫だよ～！\n落ちても、トライデントが\nすぐに助けてあげるから！\n\n# face %(unit_a)s \"sad\"\n@トライデント\n全然大丈夫じゃない？\nそうかな～…\n\n# face %(unit_a)s \"smile\"\n@トライデント\nいっそ、夜のダイビングとかも\nいいかもね！\n\n@トライデント\nいろいろ準備が必要かもだけど\nけっこう楽しそう！\n\n@トライデント\nマスターはどう思う？\n予定空いてたら一緒に行く？\n\n# textflame 0 0\n@\nそのままダイビング話で盛り上がり\n船上の景色を楽しむことなく\nデートを終えた…\n;;----------------------------------------\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

@@ -1,0 +1,392 @@
+[
+	{
+		"ID": 1001,
+		"name": "一蓮托生の称号",
+		"description": "ギルドを設立した証",
+		"rarity_GuildEmblemRarity": 1
+	},
+	{
+		"ID": 1002,
+		"name": "明星の集団の称号",
+		"description": "ギルドメンバーが5人になった証",
+		"rarity_GuildEmblemRarity": 1
+	},
+	{
+		"ID": 1003,
+		"name": "暁の集団の称号",
+		"description": "ギルドメンバーが10人になった証",
+		"rarity_GuildEmblemRarity": 1
+	},
+	{
+		"ID": 1004,
+		"name": "大山の集団の称号",
+		"description": "ギルドメンバーが15人になった証",
+		"rarity_GuildEmblemRarity": 2
+	},
+	{
+		"ID": 1005,
+		"name": "海原の集団の称号",
+		"description": "ギルドメンバーが20人になった証",
+		"rarity_GuildEmblemRarity": 2
+	},
+	{
+		"ID": 1006,
+		"name": "黒奏の集団",
+		"description": "粛清の黒討伐戦で高い戦果を残した証",
+		"rarity_GuildEmblemRarity": 4
+	},
+	{
+		"ID": 1007,
+		"name": "雲海の集団の称号",
+		"description": "ギルドメンバーが25人になった証",
+		"rarity_GuildEmblemRarity": 3
+	},
+	{
+		"ID": 1008,
+		"name": "蒼天の集団の称号",
+		"description": "ギルドメンバーが30人になった証",
+		"rarity_GuildEmblemRarity": 3
+	},
+	{
+		"ID": 1009,
+		"name": "黒奏の軍団",
+		"description": "イベント「粛清の黒」で好成績を収めた証",
+		"rarity_GuildEmblemRarity": 4
+	},
+	{
+		"ID": 1010,
+		"name": "聖夜の集団",
+		"description": "Holy Knight討伐戦で好成績を収めた証",
+		"rarity_GuildEmblemRarity": 4
+	},
+	{
+		"ID": 1011,
+		"name": "黒の軍団",
+		"description": "イベント「粛清の黒」で好成績を収めた証",
+		"rarity_GuildEmblemRarity": 4
+	},
+	{
+		"ID": 1012,
+		"name": "聖杯に導かれし者たち",
+		"description": " 「Fate/stay night」討伐戦で優秀なギルドに送られる証",
+		"rarity_GuildEmblemRarity": 4
+	},
+	{
+		"ID": 1013,
+		"name": "街を救った英雄たち",
+		"description": "[このすばコラボ]討伐戦で好成績を収めた証",
+		"rarity_GuildEmblemRarity": 4
+	},
+	{
+		"ID": 1014,
+		"name": "ダークレギオン",
+		"description": "粛清の黒討伐戦で高い戦果を残した証",
+		"rarity_GuildEmblemRarity": 4
+	},
+	{
+		"ID": 1015,
+		"name": "白の集団",
+		"description": "白き正義の執行者たち討伐戦で高い戦果を残した証",
+		"rarity_GuildEmblemRarity": 4
+	},
+	{
+		"ID": 1016,
+		"name": "零奏の軍団",
+		"description": "白き正義の執行者たち討伐戦で高い戦果を残した証",
+		"rarity_GuildEmblemRarity": 4
+	},
+	{
+		"ID": 1017,
+		"name": "セイントレギオン",
+		"description": "白き正義の執行者たち討伐戦で高い戦果を残した証",
+		"rarity_GuildEmblemRarity": 4
+	},
+	{
+		"ID": 1018,
+		"name": "オーシャンズレギオン",
+		"description": "討伐戦で高い戦果を残した証",
+		"rarity_GuildEmblemRarity": 4
+	},
+	{
+		"ID": 1019,
+		"name": "カオスレギオン",
+		"description": "粛清の黒＆白き正義の執行者たち討伐戦で高い戦果を残した証",
+		"rarity_GuildEmblemRarity": 4
+	},
+	{
+		"ID": 1020,
+		"name": "仮装の集団",
+		"description": "ハロウィンの甘い誘惑討伐戦で高い戦果を残した証",
+		"rarity_GuildEmblemRarity": 4
+	},
+	{
+		"ID": 1021,
+		"name": "記憶を辿る者たち",
+		"description": "イベント「喪失の際会」討伐戦で高い戦果を残した証",
+		"rarity_GuildEmblemRarity": 4
+	},
+	{
+		"ID": 1022,
+		"name": "未知への考究",
+		"description": "イベント「揺るがなき礎」討伐戦で高い戦果を残した証",
+		"rarity_GuildEmblemRarity": 4
+	},
+	{
+		"ID": 1023,
+		"name": "運命に導かれた者たち",
+		"description": "イベント「妖精結合序曲（テイルリンクプレリュード）」討伐戦で高い戦果を残した証",
+		"rarity_GuildEmblemRarity": 4
+	},
+	{
+		"ID": 1024,
+		"name": "学園を守る者たち",
+		"description": "さくらコラボイベント討伐戦で高い戦果を残した証",
+		"rarity_GuildEmblemRarity": 4
+	},
+	{
+		"ID": 1025,
+		"name": "喜劇と悲劇の演者達",
+		"description": "イベント「凶器の舞台」討伐戦で高い戦果を残した証",
+		"rarity_GuildEmblemRarity": 4
+	},
+	{
+		"ID": 1026,
+		"name": "地獄の皇帝と神の炎",
+		"description": "イベント「ロストラグナロク -戒律の斬ル姫-」討伐戦で高い戦果を残した証",
+		"rarity_GuildEmblemRarity": 4
+	},
+	{
+		"ID": 1027,
+		"name": "メデューサの追憶",
+		"description": "イベント「憂国の情景」討伐戦で高い戦果を残した証",
+		"rarity_GuildEmblemRarity": 4
+	},
+	{
+		"ID": 1028,
+		"name": "悪戯な微笑み",
+		"description": "「Phantom of RE:UNION」討伐戦で高い戦果を残した証",
+		"rarity_GuildEmblemRarity": 4
+	},
+	{
+		"ID": 1029,
+		"name": "理想郷を求めし者達",
+		"description": "イベント「ロストラグナロク -輪廻の斬ル姫-」討伐戦で高い戦果を残した証",
+		"rarity_GuildEmblemRarity": 4
+	},
+	{
+		"ID": 1030,
+		"name": "愉悦に浸る獣たち",
+		"description": "イベント「憂国の情景 -ロンゴミアント編-」討伐戦で高い戦果を残した証",
+		"rarity_GuildEmblemRarity": 4
+	},
+	{
+		"ID": 1031,
+		"name": "総武会の勝者たち",
+		"description": "イベント「ロストラグナロク -業果の斬ル姫-」討伐戦で高い戦果を残した証",
+		"rarity_GuildEmblemRarity": 4
+	},
+	{
+		"ID": 1032,
+		"name": "隠れ里の守護者たち",
+		"description": "イベント「ロストラグナロク -手を挙げて愛を語れば-」討伐戦で高い戦果を残した証",
+		"rarity_GuildEmblemRarity": 4
+	},
+	{
+		"ID": 1033,
+		"name": "愛らしき天使たち",
+		"description": "イベント「ロストラグナロク -天使の翼は翻る反旗-」討伐戦で高い戦果を残した証",
+		"rarity_GuildEmblemRarity": 4
+	},
+	{
+		"ID": 1034,
+		"name": "盤上に集いし姫たち",
+		"description": "イベント「ロストラグナロク -王道往くは悪魔で姫-」討伐戦で高い戦果を残した証",
+		"rarity_GuildEmblemRarity": 4
+	},
+	{
+		"ID": 1035,
+		"name": "秩序を破壊せし獣たち",
+		"description": "イベント「ロストラグナロク -獣廻るディストピア-」討伐戦で高い戦果を残した証",
+		"rarity_GuildEmblemRarity": 4
+	},
+	{
+		"ID": 1036,
+		"name": "あなたがた 勤勉･･･ですね",
+		"description": "Re:ゼロコラボイベント討伐戦で勤勉に戦果を残した証",
+		"rarity_GuildEmblemRarity": 4
+	},
+	{
+		"ID": 1040,
+		"name": "ファントム オブ キル【公式】",
+		"description": "ファントム オブ キル【公式】",
+		"rarity_GuildEmblemRarity": 4
+	},
+	{
+		"ID": 1037,
+		"name": "撃滅戦の頂を征し者たち",
+		"description": "ギルドレイドイベント　ダメージランキング総合1位ギルドの証\n次のイベント終了まで使用できる",
+		"rarity_GuildEmblemRarity": 4
+	},
+	{
+		"ID": 1038,
+		"name": "選ばれし撃滅戦の豪傑たち",
+		"description": "ギルドレイドイベント　ダメージランキング2～3位ギルドの証\n次のイベント終了まで使用できる",
+		"rarity_GuildEmblemRarity": 4
+	},
+	{
+		"ID": 1039,
+		"name": "選ばれし撃滅戦の強者たち",
+		"description": "ギルドレイドイベント　ダメージランキング4～10位ギルドの証\n次のイベント終了まで使用できる",
+		"rarity_GuildEmblemRarity": 4
+	},
+	{
+		"ID": 1041,
+		"name": "撃滅戦の頂きを征し者たち",
+		"description": "ギルドレイドイベント　ダメージランキング総合1位ギルドの証\n次のイベント終了まで使用できる",
+		"rarity_GuildEmblemRarity": 4
+	},
+	{
+		"ID": 1042,
+		"name": "選ばれし撃滅戦の豪傑たち",
+		"description": "ギルドレイドイベント　ダメージランキング2～3位ギルドの証\n次のイベント終了まで使用できる",
+		"rarity_GuildEmblemRarity": 4
+	},
+	{
+		"ID": 1043,
+		"name": "選ばれし撃滅戦の強者たち",
+		"description": "ギルドレイドイベント　ダメージランキング4～10位ギルドの証\n次のイベント終了まで使用できる",
+		"rarity_GuildEmblemRarity": 4
+	},
+	{
+		"ID": 1044,
+		"name": "バレンタイン禁止令",
+		"description": "イベント「バレンタイン狂想曲」討伐戦で高い戦果を残した証",
+		"rarity_GuildEmblemRarity": 4
+	},
+	{
+		"ID": 1046,
+		"name": "レッツハント・トレジャーエッグ",
+		"description": "イベント「レッツハント・トレジャーエッグ」討伐戦で好成績を収めた証",
+		"rarity_GuildEmblemRarity": 4
+	},
+	{
+		"ID": 1050,
+		"name": "化物語",
+		"description": "イベント「〈物語〉シリーズ」ギルド討伐戦で一定の戦果を残した証",
+		"rarity_GuildEmblemRarity": 4
+	},
+	{
+		"ID": 1051,
+		"name": "偽物語",
+		"description": "イベント「〈物語〉シリーズ」ギルド討伐戦で一定の戦果を残した証",
+		"rarity_GuildEmblemRarity": 4
+	},
+	{
+		"ID": 1052,
+		"name": "傷物語",
+		"description": "イベント「〈物語〉シリーズ」ギルド討伐戦で一定の戦果を残した証",
+		"rarity_GuildEmblemRarity": 4
+	},
+	{
+		"ID": 1053,
+		"name": "猫物語",
+		"description": "イベント「〈物語〉シリーズ」ギルド討伐戦で一定の戦果を残した証",
+		"rarity_GuildEmblemRarity": 4
+	},
+	{
+		"ID": 1054,
+		"name": "燃え上がれ！超爆・バレンタイン",
+		"description": "燃え上がれ！超爆・バレンタイン　ギルド討伐戦で一定の戦果を残した証",
+		"rarity_GuildEmblemRarity": 4
+	},
+	{
+		"ID": 1055,
+		"name": "集合的サイコパス",
+		"description": "「新たなる監視官」　ギルド討伐戦で一定の戦果を残した証",
+		"rarity_GuildEmblemRarity": 4
+	},
+	{
+		"ID": 1056,
+		"name": "70億の絶唱",
+		"description": "「響け、つなぐ世界の交響曲」　ギルド討伐戦で一定の戦果を残した証",
+		"rarity_GuildEmblemRarity": 4
+	},
+	{
+		"ID": 1057,
+		"name": "監視官の絆",
+		"description": "「監視官の絆」ギルド討伐戦で一定の戦果を残した証",
+		"rarity_GuildEmblemRarity": 4
+	},
+	{
+		"ID": 1058,
+		"name": "最高の仲間たち",
+		"description": "7周年記念ギルド討伐戦で一定の戦果を残した証",
+		"rarity_GuildEmblemRarity": 4
+	},
+	{
+		"ID": 1059,
+		"name": "愛だよね！",
+		"description": "You are my Valentineギルド討伐戦で一定の戦果を残した証",
+		"rarity_GuildEmblemRarity": 4
+	},
+	{
+		"ID": 1060,
+		"name": "シークレットリーエバーサマー",
+		"description": "イベント『水遊びと涼風、祭の熱気 ギルド討伐戦』で一定の戦果を残した証",
+		"rarity_GuildEmblemRarity": 4
+	},
+	{
+		"ID": 1061,
+		"name": "百鬼夜行の王",
+		"description": "イベント『あやかしと刀の姫たち ギルド討伐戦』で1～3位にランクインした証",
+		"rarity_GuildEmblemRarity": 4
+	},
+	{
+		"ID": 1062,
+		"name": "大妖怪",
+		"description": "イベント『あやかしと刀の姫たち ギルド討伐戦』で4～50位にランクインした証",
+		"rarity_GuildEmblemRarity": 4
+	},
+	{
+		"ID": 1063,
+		"name": "魑魅魍魎",
+		"description": "イベント『あやかしと刀の姫たち ギルド討伐戦』で51～200位にランクインした証",
+		"rarity_GuildEmblemRarity": 4
+	},
+	{
+		"ID": 1064,
+		"name": "約束の地カマクランド！",
+		"description": "イベント『永遠プレイバック・サマー ギルド討伐戦』で一定の戦果を残した証",
+		"rarity_GuildEmblemRarity": 4
+	},
+	{
+		"ID": 1065,
+		"name": "異聞不可分フォーハング",
+		"description": "イベント『異聞不可分フォーハング ギルド討伐戦』で一定の戦果を残した証",
+		"rarity_GuildEmblemRarity": 4
+	},
+	{
+		"ID": 1066,
+		"name": "不可欠彩度レルム",
+		"description": "イベント『不可欠彩度レルム 第3部 ギルド討伐戦』で一定の成果を収めた証",
+		"rarity_GuildEmblemRarity": 4
+	},
+	{
+		"ID": 1067,
+		"name": "不可思議仕儀ツークンフト",
+		"description": "イベント『不可思議仕儀ツークンフト 第1部 ギルド討伐戦』で一定の戦果を収めた証",
+		"rarity_GuildEmblemRarity": 4
+	},
+	{
+		"ID": 1068,
+		"name": "ウルズの泉と過ごす日々",
+		"description": "イベント『ウルズの泉と過ごす日々 ギルド討伐戦』で一定の戦果を収めた証",
+		"rarity_GuildEmblemRarity": 4
+	},
+	{
+		"ID": 1069,
+		"name": "カボチャの灯火が照らす夜",
+		"description": "イベント『カボチャの灯火が照らす夜 ギルド討伐戦』で一定の戦果を収めた証",
+		"rarity_GuildEmblemRarity": 4
+	}
+]

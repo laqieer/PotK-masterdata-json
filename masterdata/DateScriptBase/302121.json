@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 302121,
+		"script": ";;A どこまでいこうか (中)\n;;B 誰か迎えに行く？ (大)\n;;C 君しか乗せたくない (小)\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_drive\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 0 0\n@\nマスターは\nガ・ボーを\nドライブに連れ出していた\n\n# face %(unit_a)s \"smile\"\n# voice 3021 \"gaebuide_0006\"\n# textflame 1 1\n@ガ・ボー\n車って、便利ですよね\n…ずっと遠くまでいける\n\n@ガ・ボー\n誰かを迎えにいって\n乗せてあげられる…\n\n# select \"どこまでいこうか\" \"select_label_01\" \"誰か迎えに行く？\" \"select_label_02\" \"君しか乗せたくない\" \"select_label_03\"\n誰かを迎えにいって\n乗せてあげられる…\n\n# label \"select_label_01\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_02\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_03\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_end\"\n# waitandnext 0.1\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

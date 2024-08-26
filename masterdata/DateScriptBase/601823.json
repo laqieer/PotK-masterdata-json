@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 601823,
+		"script": ";;B中いまは忘れよう\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_shipboard\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask 2601811 on\n# chara %(unit_a)s\n# face %(unit_a)s \"usual\"\n# voice 260181 \"wizu_0003\"\n# textflame 1 1\n@ウィズ\n…そうですね\nせっかく誘ってくれたのですから\n今だけはお店のことは忘れます\n\n@ウィズ\nそれよりも、今のあなたとの\n時間を大切にしたいです\n\n# face %(unit_a)s \"normal\"\n@ウィズ\nあ、ほら！\n今、水面で何か跳ねましたよ！\n\n# face %(unit_a)s \"usual\"\n@ウィズ\n…暗くて\nよく見えませんでしたね\n\n@ウィズ\n夜の海は、ゆったりとして好きですが\n今度は、あなたと昼の海にも\n来てみたいです\n\n# face %(unit_a)s \"normal\"\n# voice 260181 \"wizu_0004\"\n@ウィズ\n約束、してくださいね\n\n# textflame 0 0\n@\nウィズはそう言って\n小指を立てて差し出してくる\n\n# textflame 0 0\n@\nマスターはそこに\n優しく自分の小指を絡めると…\n\n# textflame 0 0\n@\nまたいつか必ず、と\n答えるのだった\n\n;;-----------------------------------------\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

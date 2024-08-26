@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 601321,
+		"script": ";;A まぁ騙されたと思って (中当たり)\n;;B 一緒に入りたかった (大当たり)\n;;C それ～、ばしゃ～ん！ (小当り)\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_onsen\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 0 0\n# face %(unit_a)s \"usual\"\n@\nマスターはシストルムを誘って\n水着着用型温泉にやってきたのだが…\n\n;;トゲトゲ吹き出し\n;;文字大きく\n# serif 0\n# textwindow \"close\"\n# serif 1\n# textwindow \"toge\"\n# textsize 32\n# face %(unit_a)s \"angry\"\n# voice 6013 \"sistrum_0025\"\n@シストルム\nシャーーーーッ！！\n\n;;トゲトゲ吹き出し\n# serif 1\n# textwindow \"toge\"\n# textsize 24\n@シストルム\nこのあっつい水たまりに\n入れっていうのにゃ！？\n\n;;トゲトゲ吹き出し\n;;文字大きく\n# serif 1\n# textwindow \"toge\"\n# textsize 32\n@シストルム\n信じられにゃい！！\n\n# select \"まぁ騙されたと思って\" \"select_label_01\" \"一緒に入りたかった\" \"select_label_02\" \"それ～、ばしゃ～ん！\" \"select_label_03\"\n信じられにゃい！！\n\n# label \"select_label_01\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_02\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_03\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_end\"\n# waitandnext 0.1\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

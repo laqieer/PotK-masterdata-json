@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 414140112,
+		"script": ";;-----------------------------------------\n# script \"lisp\"\n;;-----------------------------------------\n;;木村AD\n# body 802701\n# pos 802701 2\n# scale 802701 0.8 0\n# layer 802701 2\n# alpha 802701 0 0\n# mask 802701 off\n;;NAVE\n# body 802801\n# pos 802801 4\n# scale 802801 0.8 0\n# layer 802801 2\n# alpha 802801 0 0\n# mask 802801 off\n;;タマさん\n# body 802901\n# pos 802901 2\n# scale 802901 0.8 0\n# layer 802901 2\n# alpha 802901 0 0\n# mask 802901 off\n;;ウルファー\n# body 803001\n# pos 803001 4\n# scale 803001 0.8 0\n# layer 803001 2\n# alpha 803001 0 0\n# mask 803001 off\n;;-----------------------------------------\n# textwindow \"nomal\"\n# alpha 802701 1 0.5\n# mask 802701 off\n# voice 8064 \"kimura_0004\"\n# textflame 1 1\n# textboxarrow 0 1\n@木村AD\nよしっ、席に着いたな！\n\n# mask 802801 off\n# alpha 802801 1 0.5\n# voice 8061 \"nave_battle_0001\"\n# textboxarrow 0 3\n@NAVE\n俺たちも忘れてもらっちゃ困るぜ\nバーン！\n\n# alpha 802701 0 0.5\n# alpha 802901 1 0.5\n# mask 802901 off\n# voice 8062 \"tama_0001\"\n# textboxarrow 0 1\n@タマさん\n僕も久々の登場です\nお手柔らかにお願いしますー！\n\n# alpha 802801 0 0.5\n# alpha 803001 1 0.5\n# mask 803001 off\n# voice 8063 \"wolf_0033\"\n# textboxarrow 0 3\n@ウルフ\nいいだろう\n今日はこのブラッディ・ウルフが\n直々に相手してやるぜ！\n"
+	}
+]

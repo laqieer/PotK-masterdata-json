@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 6001004,
+		"script": "# script \"lisp\"\n# background \"beach\"\n# bgm \"bgm102\" 0\n# se \"SE_0607\"\n# textsize 36\n# textflame 0 0\n@\n　新水着ユニット登場！\n\n# body 101461\n# pos 101461 3\n# mask 101461 off\n# rightin 101461 0.5\n# scale 101461 0.8 0\n# fadein \"white\" 0.5\n# voice 1014 \"tyrufing_event_0009\"\n# face 101461 \"shy\"\n@\n　　ティルフィング!\n\n# se \"SE_0602\"\n@\n　  新ジョブ！　忍神！！\n\n# textsize 28\n# se \"SE_0673\"\n# face 101461 \"happy\"\n@\n       　　初の2マス剣\n「スローイングダガー」装備可能！\n\n# textsize 36\n# fadein \"white\" 0.5\n# alpha 101461 0 0\n# body 500251\n# pos 500251 3\n# mask 500251 off\n# scale 500251 0.8 0 \n# leftin 500251 0.5\n# voice 5002 \"furaikugeru_0021\"\n@\n　　フライクーゲル！！\n\n# textsize 29\n# se \"SE_0602\"\n# face 500251 \"happy\"\n@\n　　　 射程3マス攻撃！\n周囲も巻き込むデュエルスキル！！\n\n# textsize 24\n# fadein \"white\" 0.5\n# pos 101461 1\n# alpha 101461 1 0\n# move 500251 5 0\n# layer 101461 2\n# layer 500251 1\n# voicedelay 1014 \"tyrufing_0008\" 0.5\n# voice 5002 \"furaikugeru_0006\"\n@\n　　水着に着替えた彼女たちの\n　初登場を記念したガチャを開催中！\n詳細はゲーム内のお知らせをチェック！！\n"
+	}
+]

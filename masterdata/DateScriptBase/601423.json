@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 601423,
+		"script": "# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_room\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# voice 6014 \"ptah_0013\"\n@プタハ\nそれは、我とか？\n\n@プタハ\nなるほど、\nまだ練習が足りぬということだな？\n\n# voice 6014 \"ptah_0032\"\n@プタハ\nよかろう。この我が\nそなたの納得するまで\n付き合おうではないか\n\n@プタハ\n差し当たって今夜は、\n睦言の真似でもしてみるか？\n\n# textflame 0 0\n@\n誘うようなプタハの言葉に\nマスターが赤面する\n\n# voice 6014 \"ptah_0005\"\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@プタハ\nふふ、そう顔を赤くするでない\n冗談だ…\n\n@プタハ\nまあ、そなたが望むのであれば\n我に否やはないがな？\n\n# textflame 0 0\n@\nそんなすれ違い気味の会話を\n交えながら\nふたりの夜は過ぎていった…\n;;----------------------------------------\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

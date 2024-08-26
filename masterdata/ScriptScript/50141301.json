@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 50141301,
+		"script": "# script \"lisp\"\n# background \"foot_mountain_village\"\n# bgm \"bgm002\" 0\n# body 501411\n# mask 501411 off\n# pos 501411 3\n# textboxarrow 0 2\n# textflame 0 0\n@\n夕暮れ時─\n街の喫茶店\n\n# textflame 0 0\n@\nさっきまでの激しい戦闘を\nまるで思わせない\n優雅な少女が一人\n\n# voice 5014 \"mami_0004\"\n# textflame 1 1\n# chara 501411\n@巴マミ\n…あ、マスター\n\n# chara 501411\n@巴マミ\nえぇ、戦いの後の\nティータイムを\nしてたところよ\n\n# voice 5014 \"mami_0007\"\n# chara 501411\n# face 501411 \"happy\"\n@巴マミ\n…本当に？\n褒めてもらえて嬉しい\n明日もがんばるわ\n\n# textflame 0 0\n@\nにっこりと微笑み、\n紅茶を口に運ぶ彼女\n\n# voice 5014 \"mami_0022\"\n# textflame 1 1\n# chara 501411\n# face 501411 \"surprise\"\n@巴マミ\n…え？みなさんと…？\n\n# chara 501411\n# face 501411 \"sad1\"\n@巴マミ\n…………\n\n# voice 5014 \"mami_0028\"\n# chara 501411\n@巴マミ\n戦いの後は…\nなるべく一人でいたいの\n\n# voice 5014 \"mami_0026\"\n# chara 501411\n# face 501411 \"surprise\"\n@巴マミ\n…え？\n戦いの時以外も…\n一人が多いかしらね？\n\n# voice 5014 \"mami_0027\"\n# chara 501411\n# face 501411 \"normal\"\n@巴マミ\nそんなことない…\nと言いたいところだけど\n\n# voice 5014 \"mami_0019\"\n# chara 501411\n@巴マミ\nマスターの言うとおりかも\n知れないわ\n\n# voice 5014 \"mami_0017\"\n# chara 501411\n# face 501411 \"sad2\"\n@巴マミ\n私…もう誰かといるのは…\n\n# chara 501411\n@巴マミ\n怖いの…\n\n# textflame 0 0\n@\n悲しみの表情を浮かべながら、\nマミが紅茶を口に運んだ"
+	}
+]

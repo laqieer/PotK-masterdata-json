@@ -1,0 +1,26 @@
+[
+	{
+		"ID": 287,
+		"unitID": 2400311,
+		"scriptID": "kaerimichi",
+		"script": "マスター…あのね…\nボクともうちょっと\n遊んでくれないかな…？"
+	},
+	{
+		"ID": 301,
+		"unitID": 2400311,
+		"scriptID": "kaeru",
+		"script": "ごめんね～\nこれからお姉ちゃんと\n遊びに行くんだ～じゃあね～"
+	},
+	{
+		"ID": 315,
+		"unitID": 2400311,
+		"scriptID": "kaeru_ok",
+		"script": "@%(unitName:unit_a)s\nふふふっ\nお姉ちゃんには内緒で、\nもうすこしあそんじゃおっか♪"
+	},
+	{
+		"ID": 329,
+		"unitID": 2400311,
+		"scriptID": "kaeru_ng",
+		"script": "@%(unitName:unit_a)s\nお姉ちゃんが心配するから\n今日はもう帰ろっかな…"
+	}
+]

@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 293031399,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# se \"SE_0732\"\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n@カシウス\nそのこたえ…\n\n# face %(unit_a)s \"happy\"\n# voice 230312 \"cassius_lo_0005\"\n@カシウス\nせいかい\n\n# voice 230312 \"cassius_lo_0001\"\n@カシウス\nじゃあ、おやかたしゃま\nだっこ、いい？\n\n# textflame 0 0\n@\n彼女の要望通り、\nだっこをしてあげるマスター\n\n@\n空を見上げる彼女が呟く\n\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n@カシウス\nなつはもうすぐおわるけど…\n\n@カシウス\nあきがきて、\nふゆがきて、\nはるがきて、\n\n@カシウス\nまたなつがやってくる\n\n# face %(unit_a)s \"happy\"\n# voice 230312 \"cassius_lo_0003\"\n@カシウス\nそれが“えんかん”\n\n@カシウス\nらいねんもまたこようね\n\n# textflame 0 0\n@\n微笑む彼女\n\n@\nその笑顔は\n真夏の太陽のように、\n眩しかった\n\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

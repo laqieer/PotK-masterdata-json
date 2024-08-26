@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 92019398,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# se \"SE_0733\"\n# face %(unit_a)s \"sad\"\n# voice 2019 \"chihyu_0014\"\n@シユウ\nむぐ～…\nはずれだ、ますた～\n\n@シユウ\nかんたんだとおもったのになー\nシユウのよそうがはずれたのか？\n\n# eye %(unit_a)s \"close\"\n# face %(unit_a)s \"usual\"\n# voice 2019 \"chihyu_0028\"\n@シユウ\nますた～はしかたないなぁ\nシユウはいいこだから\nゆるしてあげるぞ\n\n# eye %(unit_a)s \"normal\"\n@シユウ\nあ、でも、\nまたしつもんはするからな！\n\n@シユウ\nだからな、ますた～\nそのときはぜったいに\nせいかいするんだぞ？\n\n# textflame 0 0\n@\n自分が間違えたせいで\n彼女に変な気を使わせてしまった\n\n@\n今度こそは絶対に正解して\n彼女の笑顔を見るぞ！\n\n@\n心からそう思うマスターであった\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

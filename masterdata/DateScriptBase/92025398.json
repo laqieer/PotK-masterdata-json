@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 92025398,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# se \"SE_0733\"\n;;-----------------------------------------\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 2025 \"hercule_0024\"\n@エルキュール\nはずれです、マスター…\n\n@エルキュール\nあ、でも…私のことを\n知ってもらえたという意味では\nよかった…んですよね…？\n\n@エルキュール\n間違えちゃっても\nこれから知っていってもらえれば\nそれでいいですから\n\n# textflame 0 0\n@\nそう言う彼女だったが、\n複雑そうな表情でこちらを\n見ている\n\n# textflame 1 1\n@エルキュール\nさあっ、マスター\n帰りますよ\n\n# textflame 0 0\n@\n背中を向けて歩き出す彼女\nその姿がいつもより小さく見える\n\n@\nそんな姿に二度とさせないためにも\nもっと彼女のことを知っていこうと\n心に誓った…\n\n;;-----------------------------------------\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 502712,
+		"script": ";;A大-------------------\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_ferris\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# voice 5027 \"freischotz_0022\"\n# face %(unit_a)s \"usual\"\n@フライシュッツ\nえ、いいの？\nマスターくんもいるし\nきっと待ち時間も楽しいよね\n\n# voice 5027 \"freischotz_0004\"\n# face %(unit_a)s \"normal\"\n@フライシュッツ\nあ、ちょっと子供みたいに\nはしゃぎすぎかな？\n\n# textflame 0 0\n@\nそんなことはないよ\n今日はぞんぶんに楽しんじゃおうよ！\nとマスター\n\n# textflame 1 1\n@フライシュッツ\nそうだよね\n時間はたっぷりあるし…\n\n@フライシュッツ\nよし、たくさん遊んで\nマスターくんとの思い出作っちゃうよ\n\n# textflame 0 0\n@\nと、そこで風に観覧車が揺らぐ\n\n# shake 0 0.5\n# textflame 1 1\n@フライシュッツ\nわわっ！\n\n# voice 5027 \"freischotz_0020\"\n# face %(unit_a)s \"happy\"\n@フライシュッツ\nうふふ…\nさっそく一つ目の思い出\n出来ちゃったな…\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

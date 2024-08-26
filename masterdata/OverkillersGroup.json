@@ -1,0 +1,72 @@
+[
+	{
+		"ID": 1,
+		"child_unit_id": 3603123,
+		"parent_unit_id": "3104413,3104513,3402113,3503613",
+		"parameter_no": "10441,10451,40211,60311",
+		"is_for_all_units": 0
+	},
+	{
+		"ID": 2,
+		"child_unit_id": 3603113,
+		"parent_unit_id": "3104413,3104513,3402113,3503613",
+		"parameter_no": "10442,10452,40212,50362",
+		"is_for_all_units": 0
+	},
+	{
+		"ID": 3,
+		"child_unit_id": 602323,
+		"parent_unit_id": "300193,100663,400573,5302533,5602033",
+		"parameter_no": "60239,60239,60239,60239,60238",
+		"is_for_all_units": 0
+	},
+	{
+		"ID": 4,
+		"child_unit_id": 601213,
+		"parent_unit_id": "103113,202313,202413,401613,103313,101914,103713,202613,602113,502913,103913,503013,202713,602613,602813,503413,503513,602913,603013,104313,603313,5603613,52000213,5202713,5104913,103923,503423,6602913",
+		"parameter_no": "60129,60129,60129,60129,60129,60129,60129,60129,2001,2001,60129,2001,60128,2001,2001,2001,2001,2001,2001,60129,2001,2001,60129,60128,60129,60129,2001,2001",
+		"is_for_all_units": 0
+	},
+	{
+		"ID": 5,
+		"child_unit_id": 501214,
+		"parent_unit_id": "501014,501114",
+		"parameter_no": "2003,2003",
+		"is_for_all_units": 0
+	},
+	{
+		"ID": 6,
+		"child_unit_id": 52000723,
+		"parent_unit_id": "52000713,52000813",
+		"parameter_no": "2003,2003",
+		"is_for_all_units": 0
+	},
+	{
+		"ID": 7,
+		"child_unit_id": 5105223,
+		"parent_unit_id": "5105213,52001013,5604013",
+		"parameter_no": "2004,2002,2003",
+		"is_for_all_units": 0
+	},
+	{
+		"ID": 8,
+		"child_unit_id": 202813,
+		"parent_unit_id": "",
+		"parameter_no": "",
+		"is_for_all_units": 1
+	},
+	{
+		"ID": 9,
+		"child_unit_id": 62001213,
+		"parent_unit_id": "",
+		"parameter_no": "",
+		"is_for_all_units": 1
+	},
+	{
+		"ID": 10,
+		"child_unit_id": 6202813,
+		"parent_unit_id": "",
+		"parameter_no": "",
+		"is_for_all_units": 1
+	}
+]

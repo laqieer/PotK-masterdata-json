@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 93009499,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# se \"SE_0732\"\n# voice 3009 \"seiryu_0003\"\n@青龍偃月刀\n正解です\n\n# voice 3009 \"seiryu_0004\"\n@青龍偃月刀\nやはり…\n貴方にお仕えするのは\n至上の喜び…\n\n# eye %(unit_a)s \"close\"\n@青龍偃月刀\nだからこそ…\n仕える身ではなく…\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"usual\"\n@青龍偃月刀\n対等の身でいたい…\nせめて今だけでも…\n\n# voice 3009 \"seiryu_0042\"\n@青龍偃月刀\nいけませんか…？\n\n# textflame 0 0\n@\n潤んだ瞳で、\nじっと見つめてくる彼女\n\n@\nその瞳は\n真っすぐで、\n眩しくて…\n\n@\nマスターは二人の絆が\nまた深まったのを実感した…\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

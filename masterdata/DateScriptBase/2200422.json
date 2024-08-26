@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 2200422,
+		"script": ";;B:パラシュの反応が可愛くて\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_fireworks\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# face 2200421 \"angry\"\n# voice 220042 \"parashu_k_0024\"\n@パラシュ\nか、かわっ！？\nなにを急にっ！？\n\n# textflame 0 0\n@\nいつも大人びて見えるから、\nああいう顔は新鮮で可愛かった\n\n# textflame 1 1\n@パラシュ\nも、もうっ…！\n変なことを言わないでよ\n\n# face 2200421 \"shy\"\n# voice 220042 \"parashu_k_0019\"\n@パラシュ\nで、でも…その…\n可愛いって言ってもらえて…\n\n# face 2200421 \"angry\"\n@パラシュ\nう、うれし―\nな、何でもないっ！\n\n# textflame 0 0\n@\nぷいと、顔を背けるパラシュ\nしかしその顔は真っ赤に\n染まっていた…\n;;--------------------------------------\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

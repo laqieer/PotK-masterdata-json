@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 101413,
+		"script": ";;C 綺麗だね（中）\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_ferris\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# voice 1014 \"tyrufing_0004\"\n@ティルフィング\nそうですね。この景色は\n宝石のように美しいですね\n\n# textflame 0 0\n@\nうむとうなずくティルフィング\nそれがおかしくて笑ってしまう\n\n# textflame 1 1\n# face %(unit_a)s \"angry\"\n# voice 1014 \"tyrufing_0024\"\n@ティルフィング\nむっ…確かに私なんかが\n夜景について語るのは無粋かも\nしれませんが笑わなくても\n\n# textflame 0 0\n@\nマスターはさらに笑ってから\nそうではないと答える\n\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 1014 \"tyrufing_0022\"\n@ティルフィング\n…この夜景が綺麗ではないと？\n\n# textflame 0 0\n@\nもちろん夜景は綺麗だと\nマスターは認める\n\n# textflame 0 0\n@\nだが、自分が綺麗だと言ったのは\nティルフィングのことだと続けた\n\n# textflame 1 1\n@ティルフィング\nなっ！？\nマ、マスター！\n\n# face %(unit_a)s \"smile\"\n# voice 1014 \"tyrufing_0062\"\n@ティルフィング\nそ、そんな直接的な言葉は\n…少し困ります\n\n@ティルフィング\nいえ！？嫌ではないです\nないのですが…\n\n# textflame 0 0\n@\n月明かりしかないが\nティルフィングの顔が\n赤くなっていくのがわかる\n\n# textflame 0 0\n@\nそれを指摘すると\nわずかにだがティルフィングが\n拗ねたような表情になる\n\n# textflame 1 1\n# voice 1014 \"tyrufing_0049\"\n@ティルフィング\n私を困らせて\n楽しんでいませんか？\nまったく…\n\n# textflame 0 0\n@\n珍しくティルフィングが\n表情を変えるのを\nマスターは楽しんだのだった\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

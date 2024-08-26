@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 91005499,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# se \"SE_0732\"\n# voice 1005 \"ritto_0041\"\n@リットゥ\nすばらしい、大正解だっ！\n\n# eye %(unit_a)s \"close\"\n@リットゥ\nさすが、と言うべきかな\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"smile\"\n# voice 1005 \"ritto_0004\"\n@リットゥ\nお前はちゃんと私のことを、\n見ていてくれたんだな…\n\n# voice 1005 \"ritto_0036\"\n@リットゥ\nありがとう、\nこれからもどうか、\n見守っていてくれると助かる\n\n# textflame 0 0\n@\n当然、こちらこそよろしくと、\n彼女と握手をする。\n\n@\n笑みを浮かべながらも、\n炎のように熱い意志を持つ彼女と、\n強い絆を、より固めていくのだった\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 50111301,
+		"script": "# script \"lisp\"\n# background \"antiquity\"\n# bgm \"bgm003\" 0\n# body 501111\n# pos 501111 3\n# mask 501111 off\n# textboxarrow 0 2\n# voice 5011 \"yayoi_0040\"\n# textflame 1 1\n# chara 501111\n@六合塚弥生\nキラープリンセスは人間ではない\n異族を討伐する武器だ…\n\n# chara 501111\n@六合塚弥生\nそう思っているマスターも\nかなりいると聞きました\n\n# voice 5011 \"yayoi_0008\"\n# chara 501111\n@六合塚弥生\nしかしあなたはそうではない\nことあるごとに彼女たちを\n「仲間」と呼び、かつ大切にしている\n\n# voice 5011 \"yayoi_0001\"\n# chara 501111\n@六合塚弥生\nあなたはどうしてそのような態度で\n彼女たちに接しているんですか？\n\n# textflame 0 0\n@\nマスターとキラープリンセスの関係性\nそれは弥生にとって\nこの世界に来てからの関心事だった\n\n# textflame 1 1\n# voice 5011 \"yayoi_0004\"\n# chara 501111\n@六合塚弥生\nキラープリンセスと\n執行官はよく似ています\n\n# voice 5011 \"yayoi_0019\"\n# chara 501111\n@六合塚弥生\n私の世界では、執行官と\n必要以上に親しくする監視官は\n批判されがちです\n\n# voice 5011 \"yayoi_0040\"\n# chara 501111\n@六合塚弥生\nもしかしてあなたもこの世界では\nマスターとして異端なのでは？\n\n# voice 5011 \"yayoi_0027\"\n# face 501111 \"angry\"\n# chara 501111\n@六合塚弥生\n…どうやら図星のようですね\n\n# voice 5011 \"yayoi_0007\"\n# face 501111 \"amazed\"\n# chara 501111\n@六合塚弥生\nどういうわけか私は\nそういうタイプの監視官に\nつくづく縁があるようですね\n\n# textflame 0 0\n@\nなぜ弥生がため息をつくのか\nマスターにはわからなかった\n\n# textflame 0 0\n@\nしかし態度とは裏腹に、弥生の目には\nマスターへの興味が浮かんでいた"
+	}
+]

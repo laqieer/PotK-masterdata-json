@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 600811,
+		"script": "# script \"lisp\"\n# fadein \"black\" 0.5\n# background %(background)s\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 0 0\n@\nたまには外でご飯を食べようと\nマスターはグリダヴォルと\nランチをしにカフェにやってきた\n\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n@グリダヴォル\n噂は聞いてたけど\nやっぱり人気があるんだね！\nでも店員さん、大変そう…\n\n# textflame 1 1\n# voice 6008 \"guridavoru_0015\"\n@グリダヴォル\nうぅぅ…\n手伝いたくてウズウズしてきた…\n\n# select \"行ってきなよ\" \"select_label_01\" \"落ち着いて…\" \"select_label_02\" \"なに食べる？\" \"select_label_03\"\nうぅぅ…\n手伝いたくてウズウズしてきた…\n\n# label \"select_label_01\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_02\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_03\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_end\"\n# waitandnext 0.1\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 94004398,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# se \"SE_0733\"\n# voice 4004 \"erosu_0028\"\n@エロース\nうう～ん…どうしたものかなぁ\n\n@エロース\nそれじゃあマスターには、\nエロースがお仕置きを…\n\n# voice 4004 \"erosu_0009\"\n@エロース\nって、本当にそんなこと\nしませんよぅ\n\n# face %(unit_a)s \"normal\"\n@エロース\nマスターはエロースにとって\n大切な人なんですもん\n\n# face %(unit_a)s \"angry\"\n@エロース\nでも次までに、\nエロースのことについて\n調べておくことっ！\n\n# face %(unit_a)s \"usual\"\n# voice 4004 \"erosu_0004\"\n@エロース\nそれで、マスターのことは\n許しちゃいますぅ♪\n\n# textflame 0 0\n@\nクイズを正解できなくて、\nきっとエロースは内心では\n悲しんでいるだろう\n\n@\nそんな彼女のため、\n次回は正解しようと\n誓うマスターだった\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

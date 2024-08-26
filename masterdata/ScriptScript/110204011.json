@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 110204011,
+		"script": ";;------------------------------------------------------------\n;;背景：平原\n;;ステージ10：211002049\n;;戦闘後会話のみ\n;;------------------------------------------------------------\n# script \"lisp\"\n# background \"plain\"\n# bgmfile \"bgm400_1\" \"BgmIntegralNoahEvent\" 0\n# body 103611\n# pos 103611 2\n# scale 103611 0.8 0\n# body 196\n# pos 196 4\n# scale 196 0.8 0\n# layer 103611 1\n# layer 196 2\n# mask 103611 off\n# mask 196 off\n# textwindow \"nomal\"\n# face 103611 \"usual\"\n# face 196 \"normal\"\n# textflame 1 1\n# textboxarrow 0 3\n# voice 9943 \"almace_navikan_0001\"\n@アルマス\nキル姫には\n武具の熟練度というものが\nあるわ\n\n@アルマス\n要はどれだけ、\nその武具種を使いこなせてるかって\nことね\n\n# voice 1036 \"ragnarok_0003\"\n# textboxarrow 0 1\n@ラグナロク\n強い武具を装備するためには\n高い熟練度が必要よ\n\n# textboxarrow 0 3\n@アルマス\n武具を装備した状態で\n敵を倒すとその武具種の\n熟練度が上昇していくわ\n\n@アルマス\nつまり敵を倒せば\n倒すほど強くなれるって\nことね\n\n# textboxarrow 0 1\n@ラグナロク\nもちろん、武具を装備していないと\n熟練度は上がっていかないから\n注意が必要よ"
+	}
+]

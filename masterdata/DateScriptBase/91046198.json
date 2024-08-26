@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 91046198,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# se \"SE_0733\"\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n@ミュルグレス\n………その答え\n\n# face %(unit_a)s \"angry\"\n@ミュルグレス\n不正解！\n\n# voice 510461 \"murgleys_c_0027\"\n@ミュルグレス\nだんちょーには\nガッカリだわ\n\n@ミュルグレス\n正解したら、\nご褒美あげようと思ってたのに\n\n# textflame 0 0\n@\nどんなご褒美？\nと尋ねるも…\n\n# voice 510461 \"murgleys_c_0009\"\n# textflame 1 1\n@ミュルグレス\nえ？そんなの\n教えるわけないじゃん\n\n@ミュルグレス\nミュルのことが全然わかってない\nだんちょーは罰ゲームとして、\n一人で帰ってもらうからね\n\n# alpha %(unit_a)s 0 0.5\n# textflame 0 0\n@\nそう言って、先に行ってしまう彼女\n\n@\nその背中からは\n悲しみが感じられて…\n\n@\nマスターは、\n彼女を傷つけてしまったことを\n反省するのだった…\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

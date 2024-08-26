@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 93032498,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# se \"SE_0733\"\n@ガ・ジャルグ\n………\n\n# voice 230321 \"gaedearg_ge_0028\"\n@ガ・ジャルグ\nその答え…\n\n@ガ・ジャルグ\n不正解よ\n\n@ガ・ジャルグ\nこんな問題も分からないなんて…\n\n@ガ・ジャルグ\nこの七色の輝きを持つ\n至高の存在であるわたしのことを…\n\n# voice 230321 \"gaedearg_ge_0027\"\n@ガ・ジャルグ\nあなたのせいで、\nまた雨が降ってきたみたい\n\n@ガ・ジャルグ\n私の心の中に…\n土砂降りの雨が\n\n@ガ・ジャルグ\nさようなら\n\n# textflame 0 0\n@\n彼女の虹色の輝きは、\n深い悲しみで陰ってしまった\n\n# textflame 0 0\n@\nマスターは、彼女の心に\n虹を架けられなかったことを\n痛く後悔していた\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

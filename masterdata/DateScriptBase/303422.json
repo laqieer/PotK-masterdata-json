@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 303422,
+		"script": ";;B\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_room\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# face %(unit_a)s \"normal\"\n# voice 530341 \"grandepieu_di_0022\"\n# textflame 1 1\n@グランテピエ\nえっ？\nそ、そんなこと…ないよ？\n\n@グランテピエ\n私はお姉さんだもん、\n寂しいだなんて…わっ！\n\n# face %(unit_a)s \"surprise\"\n# voice 530341 \"grandepieu_di_0028\"\n@グランテピエ\nあうう…\nは、恥ずかしいよ、マスター\n\n@グランテピエ\nいつもは私が、\n君の頭をなでてあげる方なのに…\n\n# voice 530341 \"grandepieu_di_0014\"\n@グランテピエ\nもうっ…\nお姉さんを甘やかす\n弟なんていないよ？\n\n# face %(unit_a)s \"usual\"\n@グランテピエ\nでも…ふふ…\n君は優しいね\n\n@グランテピエ\n…本当はね？\n君の言う通り、\nすこし寂しかったんだ\n\n@グランテピエ\n君とのお出かけが\nとっても楽しかったから\n\n@グランテピエ\nこのまま別れるのは\n寂しいなって…そう思ってた\n\n# face %(unit_a)s \"normal\"\n# voice 530341 \"grandepieu_di_0001\"\n@グランテピエ\nだから…マスター、\nよかったら私と\n一緒にいてくれる？\n\n@グランテピエ\n今夜だけでもいいから…\n私のそばに、いてほしいな\n\n# textflame 0 0\n@\nもちろん、と応えるマスターに\nグランテピエは笑顔を返す\n\n@\nこれからも時々\n甘えてみようかな…と、\n心の中で考えながら…\n;;-----------------------------------------\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

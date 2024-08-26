@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 100414,
+		"script": "# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_ferris\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n@草薙剣\nもちろんだ！\n余は常に人の世の\n平安を願っておる！\n\n# voice 1004 \"kusanagi_0023\"\n# textflame 1 1\n@草薙剣\nお、おお？\n人があんなに小さく見えるぞ！\n\n# eye %(unit_a)s \"close\"\n# textflame 1 1\n@草薙剣\n…あ、いや、コホン\n\n# textflame 0 0\n@\n胸を張る草薙剣の\n自信に満ちたその笑顔も\n観覧車の中では子供のようだった…\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

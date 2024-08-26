@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 20091301,
+		"script": "# script \"lisp\"\n# background \"town\"\n# bgm \"bgm002\" 0\n# body 200911\n# mask 200911 off\n# pos 200911 3\n# face 200911 \"angry\"\n# textboxarrow 0 2\n# voice 2009 \"nemu_0001\"\n# chara 200911\n@ねむ\nマスタ〜\n早く、早く〜\n次はあの店に入ろ〜っ♪\n\n# textflame 0 0\n@\n戦闘の合間の休日\nねむの食べ歩きに\n付き合わされているマスター\n\n# face 200911 \"normal\"\n# textflame 1 0\n# chara 200911\n@ねむ\nえっと、ねむはね〜\nこれください！\nあ、おばちゃん！ごはん大盛りで！\n\n# face 200911 \"shy\"\n# voice 2009 \"nemu_0005\"\n# chara 200911\n@ねむ\nやだ、おばちゃ〜ん！\n彼氏とかじゃないですよ〜！\nお友達…？いや、マスター！\n\n# textflame 0 0\n@\n持ち前の明るさで、\n初対面のお店のおばさんとも\nすぐに仲良くなってしまうねむ\n\n# textflame 1 0\n# chara 200911\n@ねむ\nえ〜、サービス！？\n食べていいんですか〜？\nやったー♪\n\n# voice 2009 \"nemu_0006\"\n\n# face 200911 \"angry\"\n# chara 200911\n@ねむ\nえ？これ？３杯目！\nいいじゃ〜ん！\n休みの時に栄養補給しとかないと！\n\n# chara 200911\n@ねむ\nこの斧、重いからね〜！\nすんごい体力使っちゃうの！\n\n# textflame 0 0\n@\n確かに彼女の戦闘はパワーはあるが、\nスピードにやや難点が…\n\n# face 200911 \"normal\"\n# textflame 1 0\n# chara 200911\n@ねむ\nおかわり〜！\n…え？なに、マスター？\n\n# face 200911 \"angry\"\n# voice 2009 \"nemu_0009\"\n# chara 200911\n@ねむ\nお金ないの〜！？\nもう！経験値ばっか溜めないで\nちょっとはお金貯めたらぁ？\n\n# face 200911 \"amazed\"\n# voice 2009 \"nemu_0013\"\n# chara 200911\n@ねむ\nはぁ〜あ、これが斧じゃなくて\n打ち出の小槌だったらなぁ〜\nえい！えい！\n\n#se \"SE_4100\"\n\n#se \"SE_4100\"\n\n# textflame 0 0\n@\n自分の武器である斧を振るねむ\n「危ない、危ない！」\n\n# textflame 0 0\n@\nマイペースなねむに\n翻弄されっ放しのマスターであった"
+	}
+]

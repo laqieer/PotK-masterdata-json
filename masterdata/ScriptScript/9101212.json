@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 9101212,
+		"script": ";;//戦闘1\n# script \"lisp\"\n# background \"town_night\"\n# bgm \"bgm002\" 0\n;;ダモクレス(仮)\n# body 103521\n# pos 103521 4\n# mask 103521 on\n# alpha 103521 1 0\n# scale 103521 0.8 0\n;;ネス(仮)\n# body 602021\n# pos 602021 2\n# mask 602021 on\n# alpha 602021 1 0\n# scale 602021 0.8 0\n# face 602021 \"sad\"\n# waitandnext 0.1\n\n# textflame 1 1\n# textboxarrow 0 1\n# chara 602021\n# voice 6020 \"ness_0028\"\n@ネス\n…なぜこんな場所に異族が？\nハロウィンと、なにか\n関係があるのでしょうか…\n\n# textflame 0 0\n@\nと、倒した異族について\n考え込むネス\n\n# face 103521 \"happy\"\n# textflame 1 1\n# textboxarrow 0 3\n# chara 602021\n# voice 1035 \"damocles_0021\"\n@ダモクレス\nおっしまーい！\nほら、マスター！ネス！\nはやくお菓子もらいにいこう！\n\n# textflame 0 0\n@\nお菓子集めを始めたいダモクレスが\nマスターの腕をひっぱって走り出す\n\n# rightout 103521 0.5\n# se \"SE_5575\"\n# waitandnext 1\n\n@\n考え込んだネスを\n置き去りにしたことに\n気がつかないまま…"
+	}
+]

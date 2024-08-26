@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 293001199,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# se \"SE_0732\"\n# voice 230012 \"ronginusu_k_0041\"\n@ロンギヌス\nあ、正解です…\n\n@ロンギヌス\nマスターにとっては\n簡単すぎたでしょうか？\n\n@ロンギヌス\nこんなことまで知られているのは\nなんだか戸惑いますね…\n\n@ロンギヌス\n悪い気分ではありませんが\nなんだか恥ずかしいです…\n\n# textflame 0 0\n@\nロンギヌスの頬が\nかすかに赤くなる\n\n@\nそれは普段は見ることが出来ない\n彼女の貴重な一面だった\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

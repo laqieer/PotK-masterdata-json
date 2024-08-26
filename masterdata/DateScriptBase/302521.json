@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 302521,
+		"script": ";;,あ、甘い…\n;;,に、苦い…\n;;,か、辛い…\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_room\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 0 0\n@\nミネルヴァにお願いされて\n彼女の部屋までやってきた\nマスター\n\n@\nテーブルに座るよう促されると\nしばらくして見た目も華やかな\n料理が運ばれてくる\n\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# voice 3025 \"minerva_0004\"\n@ミネルヴァ\nはい、お待たせしました\n夏の暑い日にピッタリの\n薬膳と呼ばれているメニューです\n\n# face %(unit_a)s \"normal\"\n@ミネルヴァ\n最近、マスターに疲れが\nたまってるみたいだったから\nいろいろ調べて取り寄せてみたんです\n\n# eye %(unit_a)s \"normal\"\n# voice 3025 \"minerva_0002\"\n@ミネルヴァ\nどうでしょうか？\nお口に合えばいいんですが…\n\n# select \"あ、甘い…\" \"select_label_01\" \"に、苦い…\" \"select_label_02\" \"か、辛い…\" \"select_label_03\"\nどうでしょうか？\nお口に合えばいいんですが…\n\n# label \"select_label_01\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_02\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_03\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# textflame 1 1\n# waitandnext 0.1\n\n# label \"select_label_end\"\n# waitandnext 2\n# fadeout \"black\" 1.2"
+	}
+]

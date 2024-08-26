@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 96032298,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# se \"SE_0733\"\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n@オルフェウス\nその答え…\n\n# voice 560321 \"orpheus_c_0027\"\n@オルフェウス\n不正解～～～！！\n\n@オルフェウス\nちょっち難しすぎたかな～？\n\n@オルフェウス\nてことで、リーダーは\nずっ友検定失格です！\n\n# voice 560321 \"orpheus_c_0013\"\n@オルフェウス\nざんね～ん！！\n\n@オルフェウス\nあ～あ、\nリーダーとは音楽性の相性、\nバッチリだと思ってたのに…\n\n# textflame 0 0\n@\nそう言って、\n寂しげな目を見せる彼女\n\n@\nマスターは、\n心の距離が離れてしまったことを\n痛く後悔するのだった…\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

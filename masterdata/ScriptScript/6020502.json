@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 6020502,
+		"script": ";;バトル中スクリプト\n;;数ターン経過後\n# script \"lisp\"\n# body 100111\n# pos 100111 3\n# mask 100111 off\n# scale 100111 0.8 0\n# body 100161\n# pos 100161 2\n# scale 100161 0.8 0\n# body 400151\n# pos 400151 4\n# scale 400151 0.8 0\n# alpha 100161 0 0\n# alpha 400151 0 0\n# textflame 1 1\n# textboxarrow 0 2\n# chara 100111\n# face 100111 \"angry\"\n@マサムネ\n合図だ！\n皆、離れろ！\n\n# textboxarrow 0 1\n# alpha 100111 0 0.3\n# rightin 100161 0.5\n# rightin 400151 0.5\n# alpha 100161 1 0\n# alpha 400151 1 0\n# chara 100161\n# voice 10016 \"masamune_k_battle_0008\"\n# face 100161 \"angry\"\n# face 400151 \"angry\"\n@ラース\nぐっ…\n\n# textboxarrow 0 3\n# chara 400151\n# voice 40015 \"arutemisu_k_0024\"\n@ラスト\nしまった…！！！\n"
+	}
+]

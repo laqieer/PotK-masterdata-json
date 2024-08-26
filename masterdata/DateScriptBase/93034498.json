@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 93034498,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# se \"SE_0733\"\n# face %(unit_a)s \"surprise\"\n# textflame 1 1\n@グランテピエ\n……その答え\n\n@グランテピエ\n不正解、だよ\n\n# voice 530341 \"grandepieu_di_0011\"\n@グランテピエ\n残念、これじゃ教えられません\n\n@グランテピエ\nさ、帰ろっか\n\n# textflame 0 0\n@\n一人、歩いていく彼女\n\n@\nその背中は、とても小さく儚げで…\n\n# voice 530341 \"grandepieu_di_0013\"\n# textsize 19\n# textflame 1 1\n@グランテピエ\nもう…私だって……\n甘えたい時があるのに……\n\n# textsize 24\n# textflame 0 0\n@\n彼女の呟きは波の音にかき消され、\nマスターの耳には届かなかった…\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

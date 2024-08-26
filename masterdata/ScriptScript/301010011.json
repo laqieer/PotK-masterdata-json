@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 301010011,
+		"script": ";;-----------------------------------------\n;;キズナアイコラボ_イベントシナリオ天上編OP\n;;-----------------------------------------\n# script \"lisp\"\n# background \"imperial_city\"\n# bgm \"bgm035\" 0\n;;-----------------------------------------\n# body 52000711\n# pos 52000711 3\n# scale 52000711 0.8 0\n# layer 52000711 3\n# mask 52000711 off\n# alpha 52000711 0 0\n;;-----------------------------------------\n# textwindow \"close\"\n# fadein \"black\" 1\n# waitandnext 1.5\n\n# alpha 52000711 1 1\n# waitandnext 1\n\n# textflame 1 1\n# textwindow \"nomal\"\n# textboxarrow 0 2\n@キズナアイ\nおおー、ここが天上編の中心部\n王都だね\n\n@キズナアイ\nすっごくキレイ…！\n奥に見えるのがユグドラシルかな\n\n@キズナアイ\nファンキルって、\nユグドラシルを中心に\n2つの世界が上下に分かれてるの\n\n@キズナアイ\n今回はそのうちの上の世界\n天上世界を中心にしたお話の\n天上編をプレイしていくよ\n\n@キズナアイ\n記憶のないマスターくんと、\nキル姫ティルフィングちゃんが\n本当のマスターになるために\n\n@キズナアイ\n世界の中央にあるラグナロク教会に\n向かうっていうのが、\n天上編のあらすじ\n\n@キズナアイ\nこの世界では、\n異族っていう化け物が\n人を襲ってるんだって\n\n# voice 20007 \"kizunaai_0004\"\n# face 52000711 \"happy\"\n@キズナアイ\n2人の物語がどうなるのか、\nすっごく楽しみ！\n\n# imageset 0 \"black\"\n# imagealpha 0 0 0\n# imagelayer 0 1\n# face 52000711 \"normal\"\n@キズナアイ\nそれじゃあ、\n実際にプレイしていこうか\n\n;;暗転挟む\n# imagealpha 0 1 0\n# imagepos 0 0 30\n# imageleftin 0 0.5\n# textwindow \"close\"\n# waitandnext 0.5\n\n# background \"bg_black\"\n# alpha 52000711 0 0\n# waitandnext 0.5"
+	}
+]

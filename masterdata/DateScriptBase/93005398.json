@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 93005398,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# se \"SE_0733\"\n# voice 3005 \"roon_0039\"\n# face %(unit_a)s \"sad\"\n@ルーン\n…ほぉ？\n\n# face %(unit_a)s \"angry\"\n@ルーン\n不正解だよ、バカ\n\n@ルーン\nせっかく\nあたいのペットに\nしてやろうと思ったのに…\n\n# voice 3005 \"roon_0004\"\n@ルーン\n…つまんねぇ\n\n@ルーン\nもっと、あたいのことを\n分かってくれる\n従順なペットを探すか…\n\n# textflame 0 0\n@\n背中を向け、\n歩いて行く彼女\n\n@\nその背中はいつもより小さく、\n悲し気に見える\n\n@\n二度と間違えないようにしよう…\nそう心に強く誓うマスターだった…\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

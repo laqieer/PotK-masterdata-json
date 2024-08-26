@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 602023,
+		"script": "# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_room\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 6020 \"ness_0022\"\n@ネス\nなっ、そ、そう、ですか…\nわたしと一緒なら…\n\n# face %(unit_a)s \"smile\"\n@ネス\nそ、そういうことなら\n問題はありませんねっ\n\n@ネス\n規律を守ったうえで\nこのひとときを楽しみましょう\n\n# face %(unit_a)s \"normal\"\n@ネス\nあっ、いくら二人きりといっても、\n決して変なことは\nしませんからね…\n\n# face %(unit_a)s \"sad\"\n@ネス\n…二人きり？\n\n@ネス\nマスターと部屋で二人きり！？\nあわわわ…\n\n# voice 6020 \"ness_0002\"\n# face %(unit_a)s \"normal\"\n@ネス\nあ、あの、マスター！\nもう少し離れてもらえますか！？\n\n@ネス\nそうです！\nそれ以上\n近づいたらダメですよ！\n\n;;モノローグ\n# textflame 0 0\n@\nその後、彼女と一緒に\n楽しいやり取りの時間を\n過ごすことができた\n\n;;モノローグ\n@\n微妙に距離を\n保ちながら…\n;;----------------------------------------\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

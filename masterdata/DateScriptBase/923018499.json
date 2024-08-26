@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 923018499,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# se \"SE_0732\"\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n@フォルカス\nその答え…\n\n# face %(unit_a)s \"normal\"\n# voice 530181 \"forcas_c_0006\"\n@フォルカス\n正解です\n\n@フォルカス\nマスターの元にやってきて、\nマスターと一緒にいて…\n\n@フォルカス\nなんというか、温かな…\n\n@フォルカス\n時には熱い気持ちになります\nそう、まるで真夏の太陽のような\n\n# voice 530181 \"forcas_c_0005\"\n@フォルカス\nふふ、ということで\nこれからもよろしくお願いしますね、\nマスター\n\n# textflame 0 0\n@\nその笑顔は\n太陽のように\n眩しく、美しく…\n\n@\nマスターの胸にも\n喜びという熱い思いが\nこみ上げてくるのだった\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

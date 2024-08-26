@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 400721,
+		"script": ";;A とりあえず見せてごらん？ (中)\n;;B この水着で規律は無理では… (小)\n;;C 全体的に規格外だもんね… (大)\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_room\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# face %(unit_a)s \"normal\"\n# textflame 0 0\n@\nマスターは\nシェキナーに招かれて\n部屋を訪れていた\n\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@シェキナー\n今日来ていただいたのは…\n折り入って相談があってなのです\n\n# face %(unit_a)s \"normal\"\n# voice 4007 \"shekina_0042\"\n# textflame 1 1\n@シェキナー\n常々、皆に規律を守るよう\n訴えている私ですが…\n\n# voice 4007 \"shekina_0013\"\n# face %(unit_a)s \"sad\"\n@シェキナー\n逆に私の派手好きが…\n和を乱しているのではないかと…\n不安になったのです！\n\n# select \"とりあえず見せてごらん？\" \"select_label_01\" \"この水着で規律は無理では…\" \"select_label_02\" \"全体的に規格外だもんね…\" \"select_label_03\"\n逆に私の派手好きが…\n和を乱しているのではないかと…\n不安になったのです！\n\n# label \"select_label_01\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_02\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_03\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_end\"\n# waitandnext 0.1\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

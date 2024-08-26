@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 94011198,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# se \"SE_0733\"\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n@%(unitName:unit_a)s\nその答え…\n\n# voice 4011 \"madoka_0028\"\n@%(unitName:unit_a)s\n不正解だよ\n\n# voice 4011 \"madoka_0031\"\n@%(unitName:unit_a)s\nごめんね、\n急にクイズなんて出して…\n\n@%(unitName:unit_a)s\nこっちの世界でも、\nたくさん思い出を作りたいから…\n\n# voice 4011 \"madoka_0008\"\n@%(unitName:unit_a)s\nこれからも、よろしくね\nマスター\n\n# textflame 0 0\n@\nとは言うものの、\n彼女の目は悲し気で…\n\n@\nマスターは、彼女を\n喜ばせてあげられなかったことを、\n深く後悔するのだった…\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

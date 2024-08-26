@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 1210702,
+		"script": ";;■□■２－１改修案■□■\n;;【２－１－３（バトル前）】\n;;整形済み\n# script \"lisp\"\n# background \"ghost_town\"\n# bgm \"bgm005\" 0\n# textwindow \"nomal\"\n# body 24\n# pos 24 2\n# scale 24 0.8 0\n# alpha 24 1 0\n# body 0\n# pos 0 4\n# scale 0 0.8 0\n# alpha 0 1 0\n# textboxarrow 0 3\n# face 0 \"angry\"\n# voice 9999 \"durin_0052\"\n@デュリン\nは…？\nアンタ、なんか勘違いしてない？\n\n# face 0 \"serious\"\n@デュリン\n教会で祀っているのは“伝説の武器”\n…神々なんかじゃないわよ？\n\n# textboxarrow 0 1\n# face 24 \"normal\"\n# voice 1014 \"tyrufing_0003\"\n@ティルフィング\n私達キラープリンセスの\n祖ともいえる伝説の武器が、\n教会で崇拝されているんです\n\n@ティルフィング\nいえ、むしろ…\n\n@ティルフィング\nあまりに強大なその力を鎮めるため、\n武器それぞれに教会が建立されている\nと言ったほうがいいですね\n\n# textboxarrow 0 3\n@デュリン\n神話の話よ\n昔々…神と悪魔が対立し、全世界を\n巻き込んだ\"神魔大戦\"が勃発した\n\n# face 0 \"serious2\"\n@デュリン\n世界を二分したその闘いにピリオドを\n打ったのが、ティルフィングをはじめ\nとする伝説の武器の数々…\n\n# face 0 \"serious\"\n@デュリン\nその武器を崇めるところから、\nラグナロク教会は始まったってこと\n\n# textboxarrow 0 1\n# voice 1014 \"tyrufing_0003\"\n@ティルフィング\nわかりやすく言えば…私が名を冠する\n“魔剣・ティルフィング”が存在し、\nそれを安置する教会があるのです\n\n# bgm \"bgm023_024\" 0\n# textboxarrow 0 3\n# face 0 \"occur\"\n# voice 9999 \"durin_0044\"\n@デュリン\nともかく、\n今はあの子を探すことに全力を…\nん…？あ！ い、居たぁーっ！！\n\n# textboxarrow 0 1\n# face 24 \"angry\"\n# voice 1014 \"tyrufing_0037\"\n@ティルフィング\nどこ！？\n\n# textboxarrow 0 3\n# face 0 \"angry\"\n@デュリン\nあの奥！！\n異族に追われてる！！"
+	}
+]

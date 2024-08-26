@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 502022,
+		"script": ";;Aこちらもお湯をかける(大)\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_onsen\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# voice 5020 \"tasuramu_0020\"\n@タスラム\nきゃー♪\n\n# face %(unit_a)s \"usual\"\n@タスラム\nやったな！？\n\n# textflame 0 0\n@\n温泉の中で\nお湯のかけあいが始まる\n\n# textflame 1 1\n# face %(unit_a)s \"angry\"\n# voice 5020 \"tasuramu_0006\"\n@タスラム\nま、負けるか！\nこっちには武器もあるぞ！\n\n# textflame 0 0\n@\nタスラムは風呂桶を取り出すと\nそれにお湯を汲んでかけ始めた\n\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# voice 5020 \"tasuramu_0005\"\n@タスラム\nはっはっは！\n圧倒的湯量には勝てまい～♪\n\n# textflame 0 0\n@\n桶を使ってざっさばっさと\nお湯をかけてくるタスラム\n\n# textflame 0 0\n@\nマスターもそれに対抗\nふたりの戦いは係員に\n怒られるまで続いたのだった\n\n# textflame 1 1\n# voice 5020 \"tasuramu_0003\"\n@タスラム\nいい汗かいたな！\nお風呂上がりには牛乳飲むぞ！\n\n# textflame 0 0\n@\nタスラムと温泉でいい汗を流した\n騒がしくも楽しい時間だった…\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

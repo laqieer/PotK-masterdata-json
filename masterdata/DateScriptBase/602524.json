@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 602524,
+		"script": ";;小Aまだまだ続くよ！\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_room\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n@カリス\nあ、そっか…\nまだはじまった\nばっかりだもんね\n\n# voice 260251 \"chalice_t_0003\"\n@カリス\n…うん、そうだっ！\n先のことばっかり\n考えるのはなし！\n\n@カリス\n今はこの花火を\n全力で楽しもう！\n\n@カリス\nあ…\nいいこと考えた！\n\n# face %(unit_a)s \"smile\"\n# voice 260251 \"chalice_t_0002\"\n@カリス\nねえマスターさん！\n帰ったらみんなで\n一緒に花火しようよ！\n\n@カリス\n花火をたくさん用意して、\nみんなを集めて…\n\n@カリス\n明日も明後日もその次も、\n何度でも花火を打ち上げるの！\nすっごく楽しそうじゃない？\n\n# voice 260251 \"chalice_t_0005\"\n@カリス\nふふふっ♪\n終わらない花火なんて\nないって思ってたけど…\n\n@カリス\n終わらせたくないって\n強く思いつづければ、\nきっと願いは叶う…\n\n# face %(unit_a)s \"normal\"\n# voice 260251 \"chalice_t_0001\"\n@カリス\nそうだよねっ、\nマスターさん！\n\n# textflame 0 0\n@\n切ない気分を\n吹き飛ばしたカリスに、\nマスターは笑顔で応える\n\n@\nこれからの計画を立てながら、\nワクワクが止まらない\nカリスだった…\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 3303122,
+		"script": ";;B\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_onsen\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# face %(unit_a)s \"smile\"\n# voice 530311 \"cassius_ca_0032\"\n# textflame 1 1\n@カシウス\nそうね\nそうしましょう\n\n@カシウス\n御館様のこと、\nわたしにもっと教えてほしい…\n\n# textflame 0 0\n@\n…それからしばらく\n二人は何気ない雑談を続けた\n\n# voice 530311 \"cassius_ca_0004\"\n# textflame 1 1\n@カシウス\nふふっ…\nやっぱり御館様はすごいわ\n\n@カシウス\nわたしはまだ、\n思いを話したり\n感情を表に出したり…\n\n@カシウス\n自分のことを伝えるのが\n苦手なのだけど\n\n@カシウス\n御館様は\nそんなわたしの変化に\nすぐ気づいてくれる\n\n@カシウス\nそして、わたしのために\n力を尽くして支えてくれる…\n\n@カシウス\nそんなあなただから、\nわたしは安心して\n隣にいられるのだと思う\n\n# voice 530311 \"cassius_ca_0001\"\n@カシウス\n御館様…\nずっとわたしの\nそばにいてくれる？\n\n@カシウス\n…ううん\nもう一度、ちゃんと伝えるわ\n\n# voice 530311 \"cassius_ca_0004\"\n@カシウス\nわたしはずっと、永遠に…\n御館様のそばにいるわ\n\n@カシウス\nだから御館様も、\nわたしのそばにいてほしい…\n\n# textflame 0 0\n@\n湯舟の中で肩を寄せ、\n穏やかな時間を共有する二人\n\n@\nマスターの隣で、\nカシウスは幸せそうに\nそっと目を閉じるのだった…\n;;-----------------------------------------\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

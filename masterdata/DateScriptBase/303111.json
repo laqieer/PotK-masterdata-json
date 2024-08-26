@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 303111,
+		"script": ";;小A泳ぎ方、わかりそう？\n;;大B魚って面白いよね\n;;中C楽しそうでよかった\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_aquarium_day\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# face %(unit_a)s \"normal\"\n# textflame 0 0\n@\nカシウスの要望で、\n二人は水族館へと\n向かっていた…\n\n@\n泳ぎ方を覚えたいという\nカシウスは水槽の中の魚を\n食い入るように見つめていた\n\n# textflame 1 1\n# voice 230311 \"cassius_ge_0002\"\n@カシウス\n魚たちは、水の中を\n一日中泳いでいる…\n\n@カシウス\n姿形はちがっても\n基本的な動きはきっと同じ…\n\n@カシウス\n彼らを観察すれば、\nおのずと泳ぎ方が\nわかってくるはず…\n\n# face %(unit_a)s \"smile\"\n# voice 230311 \"cassius_ge_0004\"\n@カシウス\nふふっ…\n\n@カシウス\nどの魚も、楽しそうに\n泳ぎ回ってるわ…\n\n# select \"泳ぎ方、わかりそう？\" \"select_label_01\" \"魚って面白いよね\" \"select_label_02\" \"楽しそうでよかった\" \"select_label_03\"\nどの魚も、楽しそうに\n泳ぎ回ってるわ…\n\n# label \"select_label_01\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_02\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_03\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_end\"\n# waitandnext 0.1\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

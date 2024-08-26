@@ -1,0 +1,20 @@
+[
+	{
+		"ID": 1,
+		"prefix": "マップ",
+		"suffix": "",
+		"interval": 1
+	},
+	{
+		"ID": 2,
+		"prefix": "深海",
+		"suffix": "m",
+		"interval": 100
+	},
+	{
+		"ID": 3,
+		"prefix": "第",
+		"suffix": "層",
+		"interval": 1
+	}
+]

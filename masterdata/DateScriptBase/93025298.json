@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 93025298,
+		"script": ";;//不正解\n# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 3025 \"minerva_0027\"\n# se \"SE_0733\"\n@ミネルヴァ\nマスター、不正解です…\n少し難しかったでしょうか…\n\n# voice 3025 \"minerva_0034\"\n@ミネルヴァ\n気を落とさないでください\n問題が悪かったんです\nマスターは悪くありません\n\n@ミネルヴァ\n第二問は…やめておきます\nもし次も当ててもらえなかったらと\n思うと…私は…\n\n# face %(unit_a)s \"normal\"\n# voice 3025 \"minerva_0008\"\n@ミネルヴァ\n…いえ、なんでもありません\nさぁ、帰りましょうか\n\n# textflame 0 0\n@\n気丈に振る舞う彼女だったが\nその声は明らかに震えていた\n\n@\nなぜ当てることが出来なかったのか…\n二度と悲しませないためにも\nもっと彼女について知っていこう\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

@@ -1,0 +1,26 @@
+[
+	{
+		"ID": 405,
+		"unitID": 2302611,
+		"scriptID": "kaerimichi",
+		"script": "な、なあマスター…しょうじき\nまだあそびたりないのだが…"
+	},
+	{
+		"ID": 406,
+		"unitID": 2302611,
+		"scriptID": "kaeru_ok",
+		"script": "@%(unitName:unit_a)s\nなに、これから？\nいいぞ、あたしもさんせいだ！"
+	},
+	{
+		"ID": 407,
+		"unitID": 2302611,
+		"scriptID": "kaeru",
+		"script": "マスターといると、たのしくて\nじかんを、わすれてしまうな"
+	},
+	{
+		"ID": 408,
+		"unitID": 2302611,
+		"scriptID": "kaeru_ng",
+		"script": "@%(unitName:unit_a)s\nす、すまないがきょうはもう…\nさすがにつかれたぞ…"
+	}
+]

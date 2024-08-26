@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 10013201,
+		"script": "# script \"lisp\"\n# background \"foot_mountain_village\"\n# bgm \"bgm002\" 0\n# body 100132\n# mask 100132 off\n# pos 100132 3\n# face 100132 \"sad\"\n# textwindow \"moya\"\n# textboxarrow 0 0\n# voice 1001 \"masamune_0028\"\n# chara 100132\n@マサムネ\n…はぁ\n\n# face 100132 \"normal\"\n# textwindow \"nomal\"\n# textboxarrow 0 2\n# chara 100132\n@マサムネ\n…む、主君よ\n拙者に何か用か？\n\n# chara 100132\n@マサムネ\nそれは一体…何なのだ？\n形の整った木の細工…\n…ほう、積木というのか\n\n# voice 1001 \"masamune_0039\"\n# chara 100132\n@マサムネ\nどうやって遊ぶものなのだ？\n…ふむ、文字通り積み上げて\n家や動物を作って…\n\n# voice 1001 \"masamune_0040\"\n# chara 100132\n@マサムネ\n独創性を養う一人遊びというわけか…\n邪魔をして悪かったな、主君よ\n引き続き楽しんでくだされ\n\n# chara 100132\n@マサムネ\nむ…二人でも遊べる…と？\n積木くずし…？\n崩してしまうのか？\n\n# chara 100132\n@マサムネ\nふむ…規則正しく積み上げた積木を\n交互に抜き、崩した方が負け…\nその名も…『時円雅』\n\n# chara 100132\n@マサムネ\n今は戦の合間の小休止、\n息抜きも必要だ\nこのマサムネ、お相手つかまつる\n\n# voice 1001 \"masamune_0030\"\n# chara 100132\n@マサムネ\n…まずは見本を見せてくれると？\nそれはかたじけない\nむ…むむ！…な、なんと！？\n\n# face 100132 \"surprise\"\n# voice 1001 \"masamune_0022\"\n# chara 100132\n@マサムネ\n重なった積木の砦から、\n礎を一本抜き取ったというのに…\nびくともしておらぬ…\n\n# face 100132 \"sad\"\n# textwindow \"moya\"\n# textboxarrow 0 0\n# chara 100132\n@マサムネ\n次はこちらの番…\n今の拙者に…\nできるであろうか…\n\n# textflame 0 0\n@\nなぜかマサムネは、自信なさげな\n表情をしていた"
+	}
+]

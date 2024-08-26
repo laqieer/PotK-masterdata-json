@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 110204018,
+		"script": ";;------------------------------------------------------------\n;;背景：平原\n;;ステージ17：211002056\n;;戦闘後会話のみ\n;;------------------------------------------------------------\n# script \"lisp\"\n# background \"plain\"\n# bgmfile \"bgm403\" \"BgmIntegralNoahEvent\" 0\n# body 103611\n# pos 103611 2\n# scale 103611 0.8 0\n# body 196\n# pos 196 4\n# scale 196 0.8 0\n# layer 103611 1\n# layer 196 2\n# mask 103611 off\n# mask 196 off\n# textwindow \"nomal\"\n# face 103611 \"happy\"\n# face 196 \"happy\"\n# textflame 1 1\n# textboxarrow 0 1\n# voice 1036 \"ragnarok_0001\"\n@ラグナロク\n初心者クエスト、お疲れ様\n\n@ラグナロク\n姫石１５個を報酬に用意しておいたわ\n大事に使うのよ\n\n# face 196 \"normal\"\n# face 103611 \"usual\"\n# textboxarrow 0 3\n# voice 9943 \"almace_navikan_0003\"\n@アルマス\nさてと、\nこれですべての説明が\n終わったわけだけど\n\n@アルマス\n全部、覚えられた？\n\n@アルマス\nもし、忘れた場合は『MENU』の\n『ストーリー一覧』から\n見直すことができるわよ\n\n# textboxarrow 0 1\n@ラグナロク\nこれから先は\n『ストーリークエスト』を\n進めてもいいし\n\n@ラグナロク\n『限定イベントクエスト』に\n参加するのもいいわね\n\n# textboxarrow 0 3\n@アルマス\n『限定イベントクエスト』は\nそこでしか入手できない武具や\n素材なんかもあるわよ\n\n# face 103611 \"happy\"\n# face 196 \"happy\"\n@アルマス\nそれじゃ、\n私たちの戦いを始めるわよ！"
+	}
+]

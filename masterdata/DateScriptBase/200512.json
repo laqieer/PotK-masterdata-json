@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 200512,
+		"script": ";;C大当たり\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_hauntedhouse\"\n# bgmfile \"bgm257\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# eye %(unit_a)s \"close\"\n@ミトゥム\nだ～か～ら～\nミトゥム様に怖いものなんて…\n\n# voice 2005 \"mitwumu_0023\"\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"sad\"\n@ミトゥム\nあ、いや……\n一つだけあったわ……\n\n# textflame 0 0\n@\nなにかを思い出したように\nミトゥムの顔が青ざめる…\n\n# textflame 1 1\n@ミトゥム\n……えちゃん\n\n# textflame 0 0\n@\n絞り出すようにつぶやくミトゥム…\nマスターはよく聞き取れず\n恐る恐る聞き返すと…\n\n# face %(unit_a)s \"angry\"\n# textflame 1 1\n@ミトゥム\n…姉ちゃん！\nシタ姉ちゃんだよ！！\n\n# face %(unit_a)s \"normal\"\n@ミトゥム\n…悪いことは言わないから\n絶対怒らせちゃダメだからな…\n\n@ミトゥム\nあ、今日のデートの報告も\n下手なこと言うんじゃねぇぞ？\n絶対聞かれると思うけど…\n\n# voice 2005 \"mitwumu_0036\"\n@ミトゥム\nホント…\nちゃんと覚えとけよ…\nマスター…\n\n# textflame 0 0\n@\n二人の脳裏に\nシタの眼が笑っていない\n笑顔が浮かぶ…\n\n@\nホラーハウスのせいではなく\n冷や汗が止まらなくなる\n二人なのであった――\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

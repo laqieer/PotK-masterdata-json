@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 3300701,
+		"script": ";;【EP7】戦闘前\n# script \"lisp\"\n# background \"front_secretbase\"\n# bgm \"bgm008\" 0\n;;ティル\n# body 24\n# pos 24 5\n# alpha 24 0 0\n;;めんま\n# body 102111\n# pos 102111 1\n# alpha 102111 0 0\n;;デュリン\n# body 0\n# pos 0 3\n# alpha 0 0 0\n;;のけモン\n# body 900023\n# pos 900023 3\n# mask 900023 off\n# imageset 1 \"bg_black\"\n# imagepos 1 0 0\n# imagealpha 1 0 0\n# serif 0\n# textboxarrow 0 2\n# se \"SE_0646\"\n# chara 900023\n# face 0 \"angry\"\n# face 24 \"angry\"\n# face 102111 \"angry\"\n@？？？\n※※※※※※※※※\n\n# textboxarrow 0 0\n# imagepos 1 0 0\n# imagealpha 1 1 0.5\n# waitandnext 0.5\n\n# imagepos 1 0 0\n# imagealpha 1 0 0.5\n# alpha 900023 0 0\n# alpha 24 1 0\n# alpha 102111 1 0\n# alpha 0 1 0\n# serif 1\n# textboxarrow 1 2\n# chara 0\n# voice 9999 \"durin_0023\"\n@デュリン\nなによ、あいつ！\n他の異族とは明らかに違うわ！\n\n# serif 0\n# textboxarrow 0 1\n# chara 102111\n@めんま\nあれは…なかよしきんぐっ！！\n\n# serif 1\n# textboxarrow 1 2\n# chara 0\n@デュリン\nなかよし…きんぐ…！？\n\n# serif 1\n# textboxarrow 1 2\n# chara 0\n@デュリン\nな、なに？なかよしきんぐって？\n\n# serif 0\n# textboxarrow 0 3\n# chara 24\n# voice 1014 \"tyrufing_0035\"\n@ティルフィング\nデュリン、\n今は考えている余裕はありません！\n行きます！\n"
+	}
+]

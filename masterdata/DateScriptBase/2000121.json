@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 2000121,
+		"script": ";;A大\n;;B小\n;;C中\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_shipboard\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# face %(unit_a)s \"usual\"\n# textflame 0 0\n@\n優雅な雰囲気の\n船上パーティーに\nやってきた二人\n\n# textflame 1 1\n@イージス\n見てみろ隊長！\n仲睦まじい男女がいっぱいだ！\n\n# face %(unit_a)s \"sad\"\n# voice 5200011 \"aegis_c_0039\"\n@イージス\nなんだか大人な雰囲気だな\n正直、こういうのは\nあまり慣れないのだが…\n\n@イージス\nこういう時に\nぴったりの台本は…\nあった！\n\n# voice 5200011 \"aegis_c_0028\"\n@イージス\nふむふむ…\nロマンチックで\n甘い空気を演出する？\n\n# voice 5200011 \"aegis_c_0015\"\n@イージス\nど、どうしよう？\nそんなのどうやればいいのか…\n\n@イージス\n隊長、甘い空気というのは\nどうすれば出せるのだろう？\n\n# select \"自然体でいいと思う\" \"select_label_01\" \"ダンスでもしてみる？\" \"select_label_02\" \"諦めた方が…\" \"select_label_03\"\n隊長、甘い空気というのは\nどうすれば出せるのだろう？\n\n# label \"select_label_01\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_02\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_03\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# textflame 1 1\n# waitandnext 0.1\n\n# label \"select_label_end\"\n# waitandnext 2\n# fadeout \"black\" 1.2\n"
+	}
+]

@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 96014399,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# se \"SE_0732\"\n# voice 6014 \"ptah_0021\"\n@プタハ\nこれはすごいな…\n\n@プタハ\n我が想像していたより\n知っていてくれたのう\n\n# voice 6014 \"ptah_0030\"\n@プタハ\nそなたにクイズを出してよかった…\n礼を言おう\n\n# voice 6014 \"ptah_0004\"\n@プタハ\nこんな嬉しい気持ちは\n久しぶりだ\n\n@プタハ\nたまにはこうやって\n交流を深めるのもよいな…\n\n# textflame 0 0\n@\nプタハの嬉しそうな顔を\n近くで見れてよかった\n\n@\nプタハの笑顔を見て\nマスターは二人の絆が\nより深まったのを感じた…\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

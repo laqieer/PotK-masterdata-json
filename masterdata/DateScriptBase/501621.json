@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 501621,
+		"script": ";;A 気に入った？ 中\n;;B きみの方がきれいだ 小\n;;C 花火のようにありたいね 大\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_fireworks\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 0 0\n@\n日が暮れてから、マスターと\nフラベルムは花火大会を見にきていた\n\n# eye %(unit_a)s \"close\"\n# voice 5016 \"Flabellum_0004\"\n# textflame 1 1\n@フラベルム\n…花火ですか\n\n# face %(unit_a)s \"normal\"\n# eye %(unit_a)s \"normal\"\n# textflame 1 1\n@フラベルム\nすぐに消える華やかさ\n人の生き様のようですね\n目を奪われるとはこのことです\n\n# select \"気に入った？\" \"select_label_01\" \"きみの方がきれいだ\" \"select_label_02\" \"花火のようにありたいね\" \"select_label_03\"\nすぐに消える華やかさ\n人の生き様のようですね\n目を奪われるとはこのことです\n\n# label \"select_label_01\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_02\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_03\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_end\"\n# waitandnext 0.1\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

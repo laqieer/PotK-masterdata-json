@@ -1,0 +1,26 @@
+[
+	{
+		"ID": 168,
+		"unitID": 2600411,
+		"scriptID": "kaerimichi",
+		"script": "@カドケウス\nえいっ！\n\n# textflame 0 0\n@\nカドケウスに\n財布を奪われてしまったマスター\n\n# textflame 1 1\n@カドケウス\nアハハハ！返してほしかったら\n私についてきてね～！\nそのまま帰ったら全部使うんだから！"
+	},
+	{
+		"ID": 182,
+		"unitID": 2600411,
+		"scriptID": "kaeru",
+		"script": "楽しかったねー\nマスターのおごりなら\nまたデートしてもいいよ～！"
+	},
+	{
+		"ID": 196,
+		"unitID": 2600411,
+		"scriptID": "kaeru_ok",
+		"script": "@%(unitName:unit_a)s\nしかたないな～！\nその代わり\n全部言うこと聞いてね～"
+	},
+	{
+		"ID": 210,
+		"unitID": 2600411,
+		"scriptID": "kaeru_ng",
+		"script": "@%(unitName:unit_a)s\nうーん、疲れちゃった！\nまた今度なら\nデートしてあげてもいいよ！"
+	}
+]

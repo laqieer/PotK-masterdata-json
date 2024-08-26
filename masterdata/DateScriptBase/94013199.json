@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 94013199,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# se \"SE_0732\"\n# voice 4013 \"aphrodite_0020\"\n@アフロディーテ\nその通りですわ\n見事、正解なさりましたね\n\n@アフロディーテ\nマスターとわたしの距離が\nまた一つ縮まったのを\n感じますわ…\n\n# eye %(unit_a)s \"close\"\n# voice 4013 \"aphrodite_0004\"\n@アフロディーテ\nマスターのわたしに対する愛に\n偽りはないようですね\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"normal\"\n# voice 4013 \"aphrodite_0003\"\n@アフロディーテ\nわかっておりましたよ\nあなたのお気持ちに\n嘘はないことを\n\n@アフロディーテ\n…でも、こうして\n確かめてみたくなるのが\n女心というものなのですよ\n\n# textflame 0 0\n@\nアフロディーテはそう言うと、\nいたずらっぽく\n笑みを浮かべる\n\n@\n彼女の嬉しそうな笑顔を見て\nマスターは二人の絆が\n深まったのを実感した…\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

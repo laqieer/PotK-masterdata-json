@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 200223,
+		"script": ";;アイムールがね　中\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_fireworks\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n@アイムール\nはっ、え！？\n\n# face %(unit_a)s \"angry\"\n# voice 2002 \"aimuru_0022\"\n@アイムール\n私が花火より綺麗だなんて、\nなにをいきなり言い出すのですか！\n\n# voice 2002 \"aimuru_0013\"\n@アイムール\n知りません！\nいつもそうやって、\n私をからかって…\n\n# textflame 0 0\n@\nからかってないと伝えると、\nアイムールはぐっと言葉に詰まり\n\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n@アイムール\n…本気で言っているところが、\nマスターのどうしようもない所です\n\n@アイムール\n……………\n\n# textflame 0 0\n@\n怒ってしまったのか、\nアイムールは黙り込んでしまった\n\n# textflame 1 1\n# voice 2002 \"aimuru_0042\"\n# face %(unit_a)s \"smile\"\n@アイムール\n…ですが、\nありがとうございます\n\n# textflame 0 0\n@\nそうそっと囁いた\nアイムールの顔は、\nやはり花火より美しかった\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

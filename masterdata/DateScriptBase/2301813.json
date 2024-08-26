@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 2301813,
+		"script": ";;A\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_castle\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 530181 \"forcas_c_0004\"\n@フォルカス\nふふっ\nマスターもそう思いますか？\n\n# voice 530181 \"forcas_c_0003\"\n@フォルカス\n古城なのに、\nまったく古さを\n感じさせませんよね\n\n@フォルカス\nきっと、基礎が\nしっかりしているのだと\n思います\n\n# face %(unit_a)s \"sad\"\n# voice 530181 \"forcas_c_002\"\n@フォルカス\n…え？\n私、みたい…ですか？\n\n@フォルカス\n皆を支えてくれて感謝してる\nなんて、勿体ない言葉です\n\n# face %(unit_a)s \"normal\"\n# voice 530181 \"forcas_c_0004\"\n@フォルカス\n…でも、凄く嬉しいです\n\n@フォルカス\nマスターはちゃんと私のことを\n見てくれてたんですね\n\n# voice 530181 \"forcas_c_0001\"\n@フォルカス\nこれからも、私を見てて\nくれますか？\n\n# textflame 0 0\n@\n照れているのか、頬を赤くした\nフォルカスが\nマスターをジッと見上げるのだった\n\n;;-----------------------------------------\n# waitandnext 2\n# fadeout \"black\" 1.2\n"
+	}
+]

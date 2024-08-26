@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 302023,
+		"script": "# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_onsen\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# voice 3020 \"pisear_kyara_1027\"\n@ピサール\nわかった～…\nマスター、わたしをのぼせさせて…\n\n# textflame 1 1\n@ピサール\n介抱するふりして\nイタズラする気なんでしょ～？\n\n# textflame 0 0\n@\nピサールはマスターを\nじっと見つめる\n\n@\n一生懸命否定する\nマスターだったが…\n\n# textflame 1 1\n@ピサール\n抵抗したくても\n力が出ないわたしに～…\n無理やり…\n\n# voice 3020 \"pisear_0004\"\n# textflame 1 1\n@ピサール\nまぁ、ほどほどにね\n\n# textflame 0 0\n@\n最後の一言に思わず\nずっこけてしまうマスターだった\n;;----------------------------------------\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

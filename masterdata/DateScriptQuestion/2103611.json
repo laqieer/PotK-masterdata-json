@@ -1,0 +1,302 @@
+[
+	{
+		"ID": 4473,
+		"unitID": 2103611,
+		"questionID": 9103601,
+		"script": ";;剣,1\n# textflame 1 1\n# voice 1036 \"ragnarok_0030\"\n# face 2103611 \"smile\"\n@ラグナロク\nありがとう\n少しの間だったけど\n楽しかったわ\n\n@ラグナロク\nお礼に私もマスターを\n楽しませてあげたいんだけど…\n\n# face 2103611 \"usual\"\n@ラグナロク\nそうね、クイズなんかどうかしら？\n\n@ラグナロク\nじゃあ、私に関する問題\nを出すわね\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の武具種はわかるわよね？　\n\n# se \"SE_0734\"\n# select \"剣\" \"select_label_1\" \"銃\" \"select_label_2\" \"槍\" \"select_label_3\"\n私の武具種はわかるわよね？　\n"
+	},
+	{
+		"ID": 4474,
+		"unitID": 2103611,
+		"questionID": 9103602,
+		"script": ";;剣,2\n# textflame 1 1\n# voice 1036 \"ragnarok_0030\"\n# face 2103611 \"smile\"\n@ラグナロク\nありがとう\n少しの間だったけど\n楽しかったわ\n\n@ラグナロク\nお礼に私もマスターを\n楽しませてあげたいんだけど…\n\n# face 2103611 \"usual\"\n@ラグナロク\nそうね、クイズなんかどうかしら？\n\n@ラグナロク\nじゃあ、私に関する問題\nを出すわね\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私のキラーズ「レーヴァテイン」は\nどんな武器だといわれている？\n\n# se \"SE_0734\"\n# select \"槍\" \"select_label_1\" \"剣\" \"select_label_2\" \"斧\" \"select_label_3\"\n私のキラーズ「レーヴァテイン」は\nどんな武器だといわれている？\n"
+	},
+	{
+		"ID": 4475,
+		"unitID": 2103611,
+		"questionID": 9103603,
+		"script": ";;北欧神話群,3\n# textflame 1 1\n# voice 1036 \"ragnarok_0030\"\n# face 2103611 \"smile\"\n@ラグナロク\nありがとう\n少しの間だったけど\n楽しかったわ\n\n@ラグナロク\nお礼に私もマスターを\n楽しませてあげたいんだけど…\n\n# face 2103611 \"usual\"\n@ラグナロク\nそうね、クイズなんかどうかしら？\n\n@ラグナロク\nじゃあ、私に関する問題\nを出すわね\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私のキラーズ「レーヴァテイン」は\nどんな伝承に登場する？\n\n# se \"SE_0734\"\n# select \"エジプト神話群\" \"select_label_1\" \"ギリシア神話群\" \"select_label_2\" \"北欧神話群\" \"select_label_3\"\n私のキラーズ「レーヴァテイン」は\nどんな伝承に登場する？\n"
+	},
+	{
+		"ID": 4476,
+		"unitID": 2103611,
+		"questionID": 9103604,
+		"script": ";;雄鶏ヴィゾーヴニル,1\n# textflame 1 1\n# voice 1036 \"ragnarok_0030\"\n# face 2103611 \"smile\"\n@ラグナロク\nありがとう\n少しの間だったけど\n楽しかったわ\n\n@ラグナロク\nお礼に私もマスターを\n楽しませてあげたいんだけど…\n\n# face 2103611 \"usual\"\n@ラグナロク\nそうね、クイズなんかどうかしら？\n\n@ラグナロク\nじゃあ、私に関する問題\nを出すわね\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私のキラーズ「レーヴァテイン」は\n何を殺せる剣といわれている？\n\n# se \"SE_0734\"\n# select \"雄鶏ヴィゾーヴニル\" \"select_label_1\" \"雌鶏ヴィゾーヴニル\" \"select_label_2\" \"地鶏ヴィゾーヴニル\" \"select_label_3\"\n私のキラーズ「レーヴァテイン」は\n何を殺せる剣といわれている？\n"
+	},
+	{
+		"ID": 4477,
+		"unitID": 2103611,
+		"questionID": 9103605,
+		"script": ";;世界樹の頂,2\n# textflame 1 1\n# voice 1036 \"ragnarok_0030\"\n# face 2103611 \"smile\"\n@ラグナロク\nありがとう\n少しの間だったけど\n楽しかったわ\n\n@ラグナロク\nお礼に私もマスターを\n楽しませてあげたいんだけど…\n\n# face 2103611 \"usual\"\n@ラグナロク\nそうね、クイズなんかどうかしら？\n\n@ラグナロク\nじゃあ、私に関する問題\nを出すわね\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私のキラーズ「レーヴァテイン」で\n殺せる雄鶏はどこにいる？\n\n# se \"SE_0734\"\n# select \"教会の屋根の上\" \"select_label_1\" \"世界樹の頂\" \"select_label_2\" \"鶏小屋\" \"select_label_3\"\n私のキラーズ「レーヴァテイン」で\n殺せる雄鶏はどこにいる？\n"
+	},
+	{
+		"ID": 4478,
+		"unitID": 2103611,
+		"questionID": 9103606,
+		"script": ";;狡猾なロプトル,3\n# textflame 1 1\n# voice 1036 \"ragnarok_0030\"\n# face 2103611 \"smile\"\n@ラグナロク\nありがとう\n少しの間だったけど\n楽しかったわ\n\n@ラグナロク\nお礼に私もマスターを\n楽しませてあげたいんだけど…\n\n# face 2103611 \"usual\"\n@ラグナロク\nそうね、クイズなんかどうかしら？\n\n@ラグナロク\nじゃあ、私に関する問題\nを出すわね\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私のキラーズ「レーヴァテイン」を\n鍛えたといわれるのは誰かわかる？\n\n# se \"SE_0734\"\n# select \"狡猾なアルプス\" \"select_label_1\" \"狡猾なアクセル\" \"select_label_2\" \"狡猾なロプトル\" \"select_label_3\"\n私のキラーズ「レーヴァテイン」を\n鍛えたといわれるのは誰かわかる？\n"
+	},
+	{
+		"ID": 4479,
+		"unitID": 2103611,
+		"questionID": 9103607,
+		"script": ";;女巨人シンモラ,1\n# textflame 1 1\n# voice 1036 \"ragnarok_0030\"\n# face 2103611 \"smile\"\n@ラグナロク\nありがとう\n少しの間だったけど\n楽しかったわ\n\n@ラグナロク\nお礼に私もマスターを\n楽しませてあげたいんだけど…\n\n# face 2103611 \"usual\"\n@ラグナロク\nそうね、クイズなんかどうかしら？\n\n@ラグナロク\nじゃあ、私に関する問題\nを出すわね\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私のキラーズ「レーヴァテイン」を\n保管したといわれているのは\n誰かわかる？\n\n# se \"SE_0734\"\n# select \"女巨人シンモラ\" \"select_label_1\" \"女巨人シンシア\" \"select_label_2\" \"女巨人シンシン\" \"select_label_3\"\n私のキラーズ「レーヴァテイン」を\n保管したといわれているのは\n誰かわかる？\n"
+	},
+	{
+		"ID": 4480,
+		"unitID": 2103611,
+		"questionID": 9103608,
+		"script": ";;巨人スルト,2\n# textflame 1 1\n# voice 1036 \"ragnarok_0030\"\n# face 2103611 \"smile\"\n@ラグナロク\nありがとう\n少しの間だったけど\n楽しかったわ\n\n@ラグナロク\nお礼に私もマスターを\n楽しませてあげたいんだけど…\n\n# face 2103611 \"usual\"\n@ラグナロク\nそうね、クイズなんかどうかしら？\n\n@ラグナロク\nじゃあ、私に関する問題\nを出すわね\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私のキラーズ「レーヴァテイン」を\nラグナロクの際に振るったのは誰？\n\n# se \"SE_0734\"\n# select \" 巨人ハンシン\" \"select_label_1\" \"巨人スルト\" \"select_label_2\" \"巨人バルト\" \"select_label_3\"\n私のキラーズ「レーヴァテイン」を\nラグナロクの際に振るったのは誰？\n"
+	},
+	{
+		"ID": 4481,
+		"unitID": 2103611,
+		"questionID": 9103609,
+		"script": ";;世界を焼き尽くした,3\n# textflame 1 1\n# voice 1036 \"ragnarok_0030\"\n# face 2103611 \"smile\"\n@ラグナロク\nありがとう\n少しの間だったけど\n楽しかったわ\n\n@ラグナロク\nお礼に私もマスターを\n楽しませてあげたいんだけど…\n\n# face 2103611 \"usual\"\n@ラグナロク\nそうね、クイズなんかどうかしら？\n\n@ラグナロク\nじゃあ、私に関する問題\nを出すわね\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私のキラーズ「レーヴァテイン」を\n振るったスルトは世界をどうした？\n\n# se \"SE_0734\"\n# select \"世界を潤した\" \"select_label_1\" \"世界をベトベトにした\" \"select_label_2\" \"世界を焼き尽くした\" \"select_label_3\"\n私のキラーズ「レーヴァテイン」を\n振るったスルトは世界をどうした？\n"
+	},
+	{
+		"ID": 4482,
+		"unitID": 2103611,
+		"questionID": 9103610,
+		"script": ";;夫婦,1\n# textflame 1 1\n# voice 1036 \"ragnarok_0030\"\n# face 2103611 \"smile\"\n@ラグナロク\nありがとう\n少しの間だったけど\n楽しかったわ\n\n@ラグナロク\nお礼に私もマスターを\n楽しませてあげたいんだけど…\n\n# face 2103611 \"usual\"\n@ラグナロク\nそうね、クイズなんかどうかしら？\n\n@ラグナロク\nじゃあ、私に関する問題\nを出すわね\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私のキラーズ「レーヴァテイン」を\n保管してた女巨人シンモラとスルトは\nどんな関係？\n\n# se \"SE_0734\"\n# select \"夫婦\" \"select_label_1\" \"友達\" \"select_label_2\" \"金銭関係\" \"select_label_3\"\n私のキラーズ「レーヴァテイン」を\n保管してた女巨人シンモラとスルトは\nどんな関係？\n"
+	},
+	{
+		"ID": 4483,
+		"unitID": 2103611,
+		"questionID": 9103611,
+		"script": ";;炎,1\n# textflame 1 1\n# voice 1036 \"ragnarok_0001\"\n# face 2103611 \"usual\"\n@ラグナロク\nマスター\n少し私に時間をくれない？\n\n# eye %(unit_a)s \"close\"\n@ラグナロク\n絆がいつかは切れるとしても\n記憶や思い出は\n残り続けて欲しいから…\n\n# eye %(unit_a)s \"normal\"\n@ラグナロク\n今のマスターの記憶に\n私のことがどれだけあるのか…\nそれが知りたいの\n\n@ラグナロク\n今から出す私のクイズに\n答えてみて\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の属性は知ってるわよね？\n\n# se \"SE_0734\"\n# select \"炎\" \"select_label_1\" \"氷\" \"select_label_2\" \"闇\" \"select_label_3\"\n私の属性は知ってるわよね？\n"
+	},
+	{
+		"ID": 4484,
+		"unitID": 2103611,
+		"questionID": 9103612,
+		"script": ";;164cm ,2\n# textflame 1 1\n# voice 1036 \"ragnarok_0001\"\n# face 2103611 \"usual\"\n@ラグナロク\nマスター\n少し私に時間をくれない？\n\n# eye %(unit_a)s \"close\"\n@ラグナロク\n絆がいつかは切れるとしても\n記憶や思い出は\n残り続けて欲しいから…\n\n# eye %(unit_a)s \"normal\"\n@ラグナロク\n今のマスターの記憶に\n私のことがどれだけあるのか…\nそれが知りたいの\n\n@ラグナロク\n今から出す私のクイズに\n答えてみて\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の身長、知ってるかしら…？\n\n# se \"SE_0734\"\n# select \"165cm\" \"select_label_1\" \"164cm \" \"select_label_2\" \"166cm\" \"select_label_3\"\n私の身長、知ってるかしら…？\n"
+	},
+	{
+		"ID": 4485,
+		"unitID": 2103611,
+		"questionID": 9103613,
+		"script": ";;9月9日,3\n# textflame 1 1\n# voice 1036 \"ragnarok_0001\"\n# face 2103611 \"usual\"\n@ラグナロク\nマスター\n少し私に時間をくれない？\n\n# eye %(unit_a)s \"close\"\n@ラグナロク\n絆がいつかは切れるとしても\n記憶や思い出は\n残り続けて欲しいから…\n\n# eye %(unit_a)s \"normal\"\n@ラグナロク\n今のマスターの記憶に\n私のことがどれだけあるのか…\nそれが知りたいの\n\n@ラグナロク\n今から出す私のクイズに\n答えてみて\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の誕生日は知ってるかしら？\n\n# se \"SE_0734\"\n# select \"8月9日\" \"select_label_1\" \"7月9日\" \"select_label_2\" \"9月9日\" \"select_label_3\"\n私の誕生日は知ってるかしら？\n"
+	},
+	{
+		"ID": 4486,
+		"unitID": 2103611,
+		"questionID": 9103614,
+		"script": ";;おとめ座,1\n# textflame 1 1\n# voice 1036 \"ragnarok_0001\"\n# face 2103611 \"usual\"\n@ラグナロク\nマスター\n少し私に時間をくれない？\n\n# eye %(unit_a)s \"close\"\n@ラグナロク\n絆がいつかは切れるとしても\n記憶や思い出は\n残り続けて欲しいから…\n\n# eye %(unit_a)s \"normal\"\n@ラグナロク\n今のマスターの記憶に\n私のことがどれだけあるのか…\nそれが知りたいの\n\n@ラグナロク\n今から出す私のクイズに\n答えてみて\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の星座は知ってる？\n\n# se \"SE_0734\"\n# select \"おとめ座\" \"select_label_1\" \"いて座\" \"select_label_2\" \"うお座\" \"select_label_3\"\n私の星座は知ってる？\n"
+	},
+	{
+		"ID": 4487,
+		"unitID": 2103611,
+		"questionID": 9103615,
+		"script": ";;困っている人を助ける,2\n# textflame 1 1\n# voice 1036 \"ragnarok_0001\"\n# face 2103611 \"usual\"\n@ラグナロク\nマスター\n少し私に時間をくれない？\n\n# eye %(unit_a)s \"close\"\n@ラグナロク\n絆がいつかは切れるとしても\n記憶や思い出は\n残り続けて欲しいから…\n\n# eye %(unit_a)s \"normal\"\n@ラグナロク\n今のマスターの記憶に\n私のことがどれだけあるのか…\nそれが知りたいの\n\n@ラグナロク\n今から出す私のクイズに\n答えてみて\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の好きなものはわかるでしょ？\n\n# se \"SE_0734\"\n# select \"ドッキリ\" \"select_label_1\" \"困っている人を助ける\" \"select_label_2\" \"お酒\" \"select_label_3\"\n私の好きなものはわかるでしょ？\n"
+	},
+	{
+		"ID": 4488,
+		"unitID": 2103611,
+		"questionID": 9103616,
+		"script": ";;お昼寝,3\n# textflame 1 1\n# voice 1036 \"ragnarok_0001\"\n# face 2103611 \"usual\"\n@ラグナロク\nマスター\n少し私に時間をくれない？\n\n# eye %(unit_a)s \"close\"\n@ラグナロク\n絆がいつかは切れるとしても\n記憶や思い出は\n残り続けて欲しいから…\n\n# eye %(unit_a)s \"normal\"\n@ラグナロク\n今のマスターの記憶に\n私のことがどれだけあるのか…\nそれが知りたいの\n\n@ラグナロク\n今から出す私のクイズに\n答えてみて\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の趣味はこれね！\n\n# se \"SE_0734\"\n# select \"家庭菜園\" \"select_label_1\" \"料理\" \"select_label_2\" \"お昼寝\" \"select_label_3\"\n私の趣味はこれね！\n"
+	},
+	{
+		"ID": 4489,
+		"unitID": 2103611,
+		"questionID": 9103617,
+		"script": ";;Ｂ型,1\n# textflame 1 1\n# voice 1036 \"ragnarok_0001\"\n# face 2103611 \"usual\"\n@ラグナロク\nマスター\n少し私に時間をくれない？\n\n# eye %(unit_a)s \"close\"\n@ラグナロク\n絆がいつかは切れるとしても\n記憶や思い出は\n残り続けて欲しいから…\n\n# eye %(unit_a)s \"normal\"\n@ラグナロク\n今のマスターの記憶に\n私のことがどれだけあるのか…\nそれが知りたいの\n\n@ラグナロク\n今から出す私のクイズに\n答えてみて\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の血液型はどれ…？　\n\n# se \"SE_0734\"\n# select \"Ｂ型\" \"select_label_1\" \"Ｏ型\" \"select_label_2\" \"ＡＢ型\" \"select_label_3\"\n私の血液型はどれ…？　\n"
+	},
+	{
+		"ID": 4490,
+		"unitID": 2103611,
+		"questionID": 9103618,
+		"script": ";;ムスペルヘイム,2\n# textflame 1 1\n# voice 1036 \"ragnarok_0001\"\n# face 2103611 \"usual\"\n@ラグナロク\nマスター\n少し私に時間をくれない？\n\n# eye %(unit_a)s \"close\"\n@ラグナロク\n絆がいつかは切れるとしても\n記憶や思い出は\n残り続けて欲しいから…\n\n# eye %(unit_a)s \"normal\"\n@ラグナロク\n今のマスターの記憶に\n私のことがどれだけあるのか…\nそれが知りたいの\n\n@ラグナロク\n今から出す私のクイズに\n答えてみて\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の出身地はわかる…？\n\n# se \"SE_0734\"\n# select \"ペレストロイカ\" \"select_label_1\" \"ムスペルヘイム\" \"select_label_2\" \"ブカレスト\" \"select_label_3\"\n私の出身地はわかる…？\n"
+	},
+	{
+		"ID": 4491,
+		"unitID": 2103611,
+		"questionID": 9103619,
+		"script": ";;怠惰なこと,3\n# textflame 1 1\n# voice 1036 \"ragnarok_0001\"\n# face 2103611 \"usual\"\n@ラグナロク\nマスター\n少し私に時間をくれない？\n\n# eye %(unit_a)s \"close\"\n@ラグナロク\n絆がいつかは切れるとしても\n記憶や思い出は\n残り続けて欲しいから…\n\n# eye %(unit_a)s \"normal\"\n@ラグナロク\n今のマスターの記憶に\n私のことがどれだけあるのか…\nそれが知りたいの\n\n@ラグナロク\n今から出す私のクイズに\n答えてみて\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の嫌いな事はこれね！\n\n# se \"SE_0734\"\n# select \"困ってる人を助ける\" \"select_label_1\" \"お昼寝\" \"select_label_2\" \"怠惰なこと\" \"select_label_3\"\n私の嫌いな事はこれね！\n"
+	},
+	{
+		"ID": 4492,
+		"unitID": 2103611,
+		"questionID": 9103620,
+		"script": ";;レーヴァテイン,1\n# textflame 1 1\n# voice 1036 \"ragnarok_0001\"\n# face 2103611 \"usual\"\n@ラグナロク\nマスター\n少し私に時間をくれない？\n\n# eye %(unit_a)s \"close\"\n@ラグナロク\n絆がいつかは切れるとしても\n記憶や思い出は\n残り続けて欲しいから…\n\n# eye %(unit_a)s \"normal\"\n@ラグナロク\n今のマスターの記憶に\n私のことがどれだけあるのか…\nそれが知りたいの\n\n@ラグナロク\n今から出す私のクイズに\n答えてみて\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私に似たキル姫がいるの？誰かしら？\n\n# se \"SE_0734\"\n# select \"レーヴァテイン\" \"select_label_1\" \"アスカロン\" \"select_label_2\" \"ティルフィング\" \"select_label_3\"\n私に似たキル姫がいるの？誰かしら？\n"
+	},
+	{
+		"ID": 4493,
+		"unitID": 2103611,
+		"questionID": 9103621,
+		"script": ";;白き革命,1\n# textflame 0 0\n@\nどうかした？と尋ねると\nラグナロクはかすかに笑う\n# textflame 1 1\n# face 2103611 \"usual\"\n\n@ラグナロク\nいや、ふと気になったの\nあなたは私のことを\nどれくらい知っているのかって\n\n# voice 1036 \"ragnarok_0002\"\n@ラグナロク\n試す意図はないんだけれど\n一つクイズに答えてくれない？\n\n@ラグナロク\nそれじゃあ、いくわよ…\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の覚えるスキル知ってる…？\n\n# se \"SE_0734\"\n# select \"白き革命\" \"select_label_1\" \"白きＴシャツ\" \"select_label_2\" \"白き発明\" \"select_label_3\"\n私の覚えるスキル知ってる…？\n"
+	},
+	{
+		"ID": 4494,
+		"unitID": 2103611,
+		"questionID": 9103622,
+		"script": ";;白の古代龍,2\n# textflame 0 0\n@\nどうかした？と尋ねると\nラグナロクはかすかに笑う\n\n# textflame 1 1\n# face 2103611 \"usual\"\n@ラグナロク\nいや、ふと気になったの\nあなたは私のことを\nどれくらい知っているのかって\n\n# voice 1036 \"ragnarok_0002\"\n@ラグナロク\n試す意図はないんだけれど\n一つクイズに答えてくれない？\n\n@ラグナロク\nそれじゃあ、いくわよ…\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私のコマンドスキルは知ってる？\n\n# se \"SE_0734\"\n# select \"白の古代犬\" \"select_label_1\" \"白の古代龍\" \"select_label_2\" \"白の古代鯉\" \"select_label_3\"\n私のコマンドスキルは知ってる？\n"
+	},
+	{
+		"ID": 4495,
+		"unitID": 2103611,
+		"questionID": 9103623,
+		"script": ";;神竜の咆哮,3\n# textflame 0 0\n@\nどうかした？と尋ねると\nラグナロクはかすかに笑う\n\n# textflame 1 1\n# face 2103611 \"usual\"\n@ラグナロク\nいや、ふと気になったの\nあなたは私のことを\nどれくらい知っているのかって\n\n# voice 1036 \"ragnarok_0002\"\n@ラグナロク\n試す意図はないんだけれど\n一つクイズに答えてくれない？\n\n@ラグナロク\nそれじゃあ、いくわよ…\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の☆６の\nリーダースキルは知ってる…？\n\n# se \"SE_0734\"\n# select \"神竜の登校\" \"select_label_1\" \"神竜の高校\" \"select_label_2\" \"神竜の咆哮\" \"select_label_3\"\n私の☆６の\nリーダースキルは知ってる…？\n"
+	},
+	{
+		"ID": 4496,
+		"unitID": 2103611,
+		"questionID": 9103624,
+		"script": ";;明星の白印,1\n# textflame 0 0\n@\nどうかした？と尋ねると\nラグナロクはかすかに笑う\n\n# textflame 1 1\n# face 2103611 \"usual\"\n@ラグナロク\nいや、ふと気になったの\nあなたは私のことを\nどれくらい知っているのかって\n\n# voice 1036 \"ragnarok_0002\"\n@ラグナロク\n試す意図はないんだけれど\n一つクイズに答えてくれない？\n\n@ラグナロク\nそれじゃあ、いくわよ…\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私が覚える付与スキルは\nどれでしょう…？\n\n# se \"SE_0734\"\n# select \"明星の白印\" \"select_label_1\" \"明星の※印\" \"select_label_2\" \"明星の御印\" \"select_label_3\"\n私が覚える付与スキルは\nどれでしょう…？\n"
+	},
+	{
+		"ID": 4497,
+		"unitID": 2103611,
+		"questionID": 9103625,
+		"script": ";;白の再起,2\n# textflame 0 0\n@\nどうかした？と尋ねると\nラグナロクはかすかに笑う\n\n# textflame 1 1\n# face 2103611 \"usual\"\n@ラグナロク\nいや、ふと気になったの\nあなたは私のことを\nどれくらい知っているのかって\n\n# voice 1036 \"ragnarok_0002\"\n@ラグナロク\n試す意図はないんだけれど\n一つクイズに答えてくれない？\n\n@ラグナロク\nそれじゃあ、いくわよ…\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私が覚える付与スキルって\nわかる…？\n\n# se \"SE_0734\"\n# select \"白の待機\" \"select_label_1\" \"白の再起\" \"select_label_2\" \"白の苗木\" \"select_label_3\"\n私が覚える付与スキルって\nわかる…？\n"
+	},
+	{
+		"ID": 4498,
+		"unitID": 2103611,
+		"questionID": 9103626,
+		"script": ";;反逆の零地点,3\n# textflame 0 0\n@\nどうかした？と尋ねると\nラグナロクはかすかに笑う\n\n# textflame 1 1\n# face 2103611 \"usual\"\n@ラグナロク\nいや、ふと気になったの\nあなたは私のことを\nどれくらい知っているのかって\n\n# voice 1036 \"ragnarok_0002\"\n@ラグナロク\n試す意図はないんだけれど\n一つクイズに答えてくれない？\n\n@ラグナロク\nそれじゃあ、いくわよ…\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私が取得したデュエルスキルは\n覚えてる？\n\n# se \"SE_0734\"\n# select \"反発の零地点\" \"select_label_1\" \"散髪の零地点\" \"select_label_2\" \"反逆の零地点\" \"select_label_3\"\n私が取得したデュエルスキルは\n覚えてる？\n"
+	},
+	{
+		"ID": 4499,
+		"unitID": 2103611,
+		"questionID": 9103627,
+		"script": ";;遍く革命旗,1\n# textflame 0 0\n@\nどうかした？と尋ねると\nラグナロクはかすかに笑う\n\n# textflame 1 1\n# face 2103611 \"usual\"\n@ラグナロク\nいや、ふと気になったの\nあなたは私のことを\nどれくらい知っているのかって\n\n# voice 1036 \"ragnarok_0002\"\n@ラグナロク\n試す意図はないんだけれど\n一つクイズに答えてくれない？\n\n@ラグナロク\nそれじゃあ、いくわよ…\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私が覚える付与スキルは\nどれでしょう…？\n\n# se \"SE_0734\"\n# select \"遍く革命旗\" \"select_label_1\" \"傾く革命旗\" \"select_label_2\" \"驚く革命旗\" \"select_label_3\"\n私が覚える付与スキルは\nどれでしょう…？\n"
+	},
+	{
+		"ID": 4500,
+		"unitID": 2103611,
+		"questionID": 9103628,
+		"script": ";;責任感,2\n# textflame 0 0\n@\nどうかした？と尋ねると\nラグナロクはかすかに笑う\n\n# textflame 1 1\n# face 2103611 \"usual\"\n@ラグナロク\nいや、ふと気になったの\nあなたは私のことを\nどれくらい知っているのかって\n\n# voice 1036 \"ragnarok_0002\"\n@ラグナロク\n試す意図はないんだけれど\n一つクイズに答えてくれない？\n\n@ラグナロク\nそれじゃあ、いくわよ…\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私はこれが強い方かな…\nどれかわかる？\n\n# se \"SE_0734\"\n# select \"尻相撲\" \"select_label_1\" \"責任感\" \"select_label_2\" \"関西訛り\" \"select_label_3\"\n私はこれが強い方かな…\nどれかわかる？\n"
+	},
+	{
+		"ID": 4501,
+		"unitID": 2103611,
+		"questionID": 9103629,
+		"script": ";;人を信じられない,3\n# textflame 0 0\n@\nどうかした？と尋ねると\nラグナロクはかすかに笑う\n\n# textflame 1 1\n# face 2103611 \"usual\"\n@ラグナロク\nいや、ふと気になったの\nあなたは私のことを\nどれくらい知っているのかって\n\n# voice 1036 \"ragnarok_0002\"\n@ラグナロク\n試す意図はないんだけれど\n一つクイズに答えてくれない？\n\n@ラグナロク\nそれじゃあ、いくわよ…\n;;---------------------------------\n\n@%(unitName:unit_a)s\nどちらかといえば\n私はこういう性格…どれかわかる？\n\n# se \"SE_0734\"\n# select \"人懐っこい\" \"select_label_1\" \"人を信じられる\" \"select_label_2\" \"人を信じられない\" \"select_label_3\"\nどちらかといえば\n私はこういう性格…どれかわかる？\n"
+	},
+	{
+		"ID": 4502,
+		"unitID": 2103611,
+		"questionID": 9103630,
+		"script": ";;少し不愛想かも,1\n# textflame 0 0\n@\nどうかした？と尋ねると\nラグナロクはかすかに笑う\n\n# textflame 1 1\n# face 2103611 \"usual\"\n@ラグナロク\nいや、ふと気になったの\nあなたは私のことを\nどれくらい知っているのかって\n\n# voice 1036 \"ragnarok_0002\"\n@ラグナロク\n試す意図はないんだけれど\n一つクイズに答えてくれない？\n\n@ラグナロク\nそれじゃあ、いくわよ…\n;;---------------------------------\n\n@%(unitName:unit_a)s\nどちらかといえば\n私はこういう性格…どれかわかる？\n\n# se \"SE_0734\"\n# select \"少し不愛想かも\" \"select_label_1\" \"少し毛深いかも\" \"select_label_2\" \"少し脂っこいかも\" \"select_label_3\"\nどちらかといえば\n私はこういう性格…どれかわかる？\n"
+	},
+	{
+		"ID": 4503,
+		"unitID": 2103611,
+		"questionID": 9103631,
+		"script": ";;南の果て,1\n# eye %(unit_a)s \"close\"\n@ラグナロク\nせっかくのデートなのに\nこのままお開き…というのも\n少し物足りないと思わない？\n\n# eye %(unit_a)s \"normal\"\n# face 103611 \"usual\"\n@ラグナロク\nだからちょっとした余興…\nクイズを出題しようと思うの\n\n# voice 1036 \"ragnarok_0002\"\n@ラグナロク\n問題内容は、私について…\nだからマスターにとっては\n簡単かもしれないわね\n\n@ラグナロク\nそれじゃあ、問題よ\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の出身地であるムスペルヘイムは\n世界のどこにあると云われている？\n\n# se \"SE_0734\"\n# select \"南の果て\" \"select_label_1\" \"北の果て\" \"select_label_2\" \"西の果て\" \"select_label_3\"\n私の出身地であるムスペルヘイムは\n世界のどこにあると云われている？\n"
+	},
+	{
+		"ID": 4504,
+		"unitID": 2103611,
+		"questionID": 9103632,
+		"script": ";;September,2\n# eye %(unit_a)s \"close\"\n@ラグナロク\nせっかくのデートなのに\nこのままお開き…というのも\n少し物足りないと思わない？\n\n# eye %(unit_a)s \"normal\"\n# face 103611 \"usual\"\n@ラグナロク\nだからちょっとした余興…\nクイズを出題しようと思うの\n\n# voice 1036 \"ragnarok_0002\"\n@ラグナロク\n問題内容は、私について…\nだからマスターにとっては\n簡単かもしれないわね\n\n@ラグナロク\nそれじゃあ、問題よ\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の誕生月を英語で言うとどれ？\n\n# se \"SE_0734\"\n# select \"January\" \"select_label_1\" \"September\" \"select_label_2\" \"December\" \"select_label_3\"\n私の誕生月を英語で言うとどれ？\n"
+	},
+	{
+		"ID": 4505,
+		"unitID": 2103611,
+		"questionID": 9103633,
+		"script": ";;nap,3\n# eye %(unit_a)s \"close\"\n@ラグナロク\nせっかくのデートなのに\nこのままお開き…というのも\n少し物足りないと思わない？\n\n# eye %(unit_a)s \"normal\"\n# face 103611 \"usual\"\n@ラグナロク\nだからちょっとした余興…\nクイズを出題しようと思うの\n\n# voice 1036 \"ragnarok_0002\"\n@ラグナロク\n問題内容は、私について…\nだからマスターにとっては\n簡単かもしれないわね\n\n@ラグナロク\nそれじゃあ、問題よ\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の大好きなお昼寝は\n英語で言うとどれ？\n\n# se \"SE_0734\"\n# select \"rap\" \"select_label_1\" \"sap\" \"select_label_2\" \"nap\" \"select_label_3\"\n私の大好きなお昼寝は\n英語で言うとどれ？\n"
+	},
+	{
+		"ID": 4506,
+		"unitID": 2103611,
+		"questionID": 9103634,
+		"script": ";;ペルーン,1\n# eye %(unit_a)s \"close\"\n@ラグナロク\nせっかくのデートなのに\nこのままお開き…というのも\n少し物足りないと思わない？\n\n# eye %(unit_a)s \"normal\"\n# face 103611 \"usual\"\n@ラグナロク\nだからちょっとした余興…\nクイズを出題しようと思うの\n\n# voice 1036 \"ragnarok_0002\"\n@ラグナロク\n問題内容は、私について…\nだからマスターにとっては\n簡単かもしれないわね\n\n@ラグナロク\nそれじゃあ、問題よ\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私と誕生月が同じなのは誰でしょう？\n\n# se \"SE_0734\"\n# select \"ペルーン\" \"select_label_1\" \"グラム\" \"select_label_2\" \"ヤグルシ\" \"select_label_3\"\n私と誕生月が同じなのは誰でしょう？\n"
+	},
+	{
+		"ID": 4507,
+		"unitID": 2103611,
+		"questionID": 9103635,
+		"script": ";;Virgo,2\n# eye %(unit_a)s \"close\"\n@ラグナロク\nせっかくのデートなのに\nこのままお開き…というのも\n少し物足りないと思わない？\n\n# eye %(unit_a)s \"normal\"\n# face 103611 \"usual\"\n@ラグナロク\nだからちょっとした余興…\nクイズを出題しようと思うの\n\n# voice 1036 \"ragnarok_0002\"\n@ラグナロク\n問題内容は、私について…\nだからマスターにとっては\n簡単かもしれないわね\n\n@ラグナロク\nそれじゃあ、問題よ\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の星座を英語で言うと何でしょう？\n\n# se \"SE_0734\"\n# select \"Capricorn\" \"select_label_1\" \"Virgo\" \"select_label_2\" \"Aquarius\" \"select_label_3\"\n私の星座を英語で言うと何でしょう？\n"
+	},
+	{
+		"ID": 4508,
+		"unitID": 2103611,
+		"questionID": 9103636,
+		"script": ";;エンシェントキラーズ,3\n# eye %(unit_a)s \"close\"\n@ラグナロク\nせっかくのデートなのに\nこのままお開き…というのも\n少し物足りないと思わない？\n\n# eye %(unit_a)s \"normal\"\n# face 103611 \"usual\"\n@ラグナロク\nだからちょっとした余興…\nクイズを出題しようと思うの\n\n# voice 1036 \"ragnarok_0002\"\n@ラグナロク\n問題内容は、私について…\nだからマスターにとっては\n簡単かもしれないわね\n\n@ラグナロク\nそれじゃあ、問題よ\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の親友はこの子たちね…\nさて、どれでしょう？\n\n# se \"SE_0734\"\n# select \"ファーストキラーズ\" \"select_label_1\" \"ブラックキラーズ\" \"select_label_2\" \"エンシェントキラーズ\" \"select_label_3\"\n私の親友はこの子たちね…\nさて、どれでしょう？\n"
+	},
+	{
+		"ID": 4509,
+		"unitID": 2103611,
+		"questionID": 9103637,
+		"script": ";;エンシェントキラーズ,1\n# eye %(unit_a)s \"close\"\n@ラグナロク\nせっかくのデートなのに\nこのままお開き…というのも\n少し物足りないと思わない？\n\n# eye %(unit_a)s \"normal\"\n# face 103611 \"usual\"\n@ラグナロク\nだからちょっとした余興…\nクイズを出題しようと思うの\n\n# voice 1036 \"ragnarok_0002\"\n@ラグナロク\n問題内容は、私について…\nだからマスターにとっては\n簡単かもしれないわね\n\n@ラグナロク\nそれじゃあ、問題よ\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私はこれに属しているわ…\nどれかわかる？\n\n# se \"SE_0734\"\n# select \"エンシェントキラーズ\" \"select_label_1\" \"ブラックキラーズ\" \"select_label_2\" \"レアキラーズ\" \"select_label_3\"\n私はこれに属しているわ…\nどれかわかる？\n"
+	},
+	{
+		"ID": 4510,
+		"unitID": 2103611,
+		"questionID": 9103638,
+		"script": ";;トリシューラ,2\n# eye %(unit_a)s \"close\"\n@ラグナロク\nせっかくのデートなのに\nこのままお開き…というのも\n少し物足りないと思わない？\n\n# eye %(unit_a)s \"normal\"\n# face 103611 \"usual\"\n@ラグナロク\nだからちょっとした余興…\nクイズを出題しようと思うの\n\n# voice 1036 \"ragnarok_0002\"\n@ラグナロク\n問題内容は、私について…\nだからマスターにとっては\n簡単かもしれないわね\n\n@ラグナロク\nそれじゃあ、問題よ\n;;---------------------------------\n\n@%(unitName:unit_a)s\nこの中で、私と同じ血液型なのは\nだれかわかる？\n\n# se \"SE_0734\"\n# select \"クラウ・ソラス\" \"select_label_1\" \"トリシューラ\" \"select_label_2\" \"ヤグルシ\" \"select_label_3\"\nこの中で、私と同じ血液型なのは\nだれかわかる？\n"
+	},
+	{
+		"ID": 4511,
+		"unitID": 2103611,
+		"questionID": 9103639,
+		"script": ";;ヤグルシ,3\n# eye %(unit_a)s \"close\"\n@ラグナロク\nせっかくのデートなのに\nこのままお開き…というのも\n少し物足りないと思わない？\n\n# eye %(unit_a)s \"normal\"\n# face 103611 \"usual\"\n@ラグナロク\nだからちょっとした余興…\nクイズを出題しようと思うの\n\n# voice 1036 \"ragnarok_0002\"\n@ラグナロク\n問題内容は、私について…\nだからマスターにとっては\n簡単かもしれないわね\n\n@ラグナロク\nそれじゃあ、問題よ\n;;---------------------------------\n\n@%(unitName:unit_a)s\nこの中で、私と違う血液型なのは\n誰かわかる？\n\n# se \"SE_0734\"\n# select \"ゲイボルグ\" \"select_label_1\" \"トリシューラ\" \"select_label_2\" \"ヤグルシ\" \"select_label_3\"\nこの中で、私と違う血液型なのは\n誰かわかる？\n"
+	},
+	{
+		"ID": 4512,
+		"unitID": 2103611,
+		"questionID": 9103640,
+		"script": ";;灼熱の国,1\n# eye %(unit_a)s \"close\"\n@ラグナロク\nせっかくのデートなのに\nこのままお開き…というのも\n少し物足りないと思わない？\n\n# eye %(unit_a)s \"normal\"\n# face 103611 \"usual\"\n@ラグナロク\nだからちょっとした余興…\nクイズを出題しようと思うの\n\n# voice 1036 \"ragnarok_0002\"\n@ラグナロク\n問題内容は、私について…\nだからマスターにとっては\n簡単かもしれないわね\n\n@ラグナロク\nそれじゃあ、問題よ\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の出身地であるムスペルヘイムは\nどんな国と呼ばれている？\n\n# se \"SE_0734\"\n# select \"灼熱の国\" \"select_label_1\" \"氷の国\" \"select_label_2\" \"雷神の国\" \"select_label_3\"\n私の出身地であるムスペルヘイムは\nどんな国と呼ばれている？\n"
+	},
+	{
+		"ID": 4513,
+		"unitID": 2103611,
+		"questionID": 9103641,
+		"script": "\n;;私,1\n# se \"SE_0734\"\n# select \"私\" \"select_label_1\" \"オレ\" \"select_label_2\" \"オイ\" \"select_label_3\"\nラグナロクの一人称は\n次のうちどれ？\n"
+	},
+	{
+		"ID": 4514,
+		"unitID": 2103611,
+		"questionID": 9103642,
+		"script": "\n;;マスター,1\n# se \"SE_0734\"\n# select \"マスター\" \"select_label_1\" \"お前\" \"select_label_2\" \"ユー\" \"select_label_3\"\nラグナロクはアンタのこと、\nなんて呼んでる？\n"
+	},
+	{
+		"ID": 4515,
+		"unitID": 2103611,
+		"questionID": 9103643,
+		"script": "\n;;85cm,2\n# se \"SE_0734\"\n# select \"80cm\" \"select_label_1\" \"85cm\" \"select_label_2\" \"90cm\" \"select_label_3\"\nラグナロクの\nバストサイズがどのくらいか\nアンタ…知ってるの？\n"
+	},
+	{
+		"ID": 4516,
+		"unitID": 2103611,
+		"questionID": 9103644,
+		"script": "\n;;58cm,2\n# se \"SE_0734\"\n# select \"56cm\" \"select_label_1\" \"58cm\" \"select_label_2\" \"62cm\" \"select_label_3\"\nラグナロクの\nウエストサイズがどのくらいか\nアンタ…知ってるの？\n"
+	},
+	{
+		"ID": 4517,
+		"unitID": 2103611,
+		"questionID": 9103645,
+		"script": "\n;;83cm,3\n# se \"SE_0734\"\n# select \"84cm\" \"select_label_1\" \"87cm\" \"select_label_2\" \"83cm\" \"select_label_3\"\nラグナロクの\nヒップサイズがどのくらいか\nアンタ…知ってるの？\n"
+	},
+	{
+		"ID": 4518,
+		"unitID": 2103611,
+		"questionID": 9103646,
+		"script": "\n;;47kg,3\n# se \"SE_0734\"\n# select \"52kg\" \"select_label_1\" \"42kg\" \"select_label_2\" \"47kg\" \"select_label_3\"\nラグナロクの体重は\n次のうちどれ？\n"
+	},
+	{
+		"ID": 4519,
+		"unitID": 2103611,
+		"questionID": 9103647,
+		"script": "\n;;226,1\n# se \"SE_0734\"\n# select \"226\" \"select_label_1\" \"228\" \"select_label_2\" \"233\" \"select_label_3\"\nラグナロクの\nバスト＋ウエスト＋ヒップは\nいくつかわかる？\n"
+	},
+	{
+		"ID": 4520,
+		"unitID": 2103611,
+		"questionID": 9103648,
+		"script": "\n;;銀,1\n# se \"SE_0734\"\n# select \"銀\" \"select_label_1\" \"黄\" \"select_label_2\" \"赤\" \"select_label_3\"\nラグナロクの髪の色は\n次のうちどれ？\n"
+	},
+	{
+		"ID": 4521,
+		"unitID": 2103611,
+		"questionID": 9103649,
+		"script": "\n;;2位,2\n# se \"SE_0734\"\n# select \"1位\" \"select_label_1\" \"2位\" \"select_label_2\" \"3位\" \"select_label_3\"\nラグナロクは\n第３回人気投票で\n何位だったでしょう？\n"
+	},
+	{
+		"ID": 4522,
+		"unitID": 2103611,
+		"questionID": 9103650,
+		"script": "\n;;ゆかな,2\n# se \"SE_0734\"\n# select \"近藤玲奈\" \"select_label_1\" \"ゆかな\" \"select_label_2\" \"下田屋有依\" \"select_label_3\"\nラグナロクの声優は誰？\n"
+	}
+]

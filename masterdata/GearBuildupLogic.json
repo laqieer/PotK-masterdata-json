@@ -1,0 +1,52 @@
+[
+	{
+		"ID": 1,
+		"base_param": 0,
+		"base_rate": 50,
+		"material_rank1": 10,
+		"material_rank2": 20,
+		"material_rank3": 30,
+		"material_rank4": 40,
+		"material_rank5": 50
+	},
+	{
+		"ID": 2,
+		"base_param": 1,
+		"base_rate": 40,
+		"material_rank1": 0,
+		"material_rank2": 10,
+		"material_rank3": 20,
+		"material_rank4": 30,
+		"material_rank5": 40
+	},
+	{
+		"ID": 3,
+		"base_param": 2,
+		"base_rate": 30,
+		"material_rank1": 0,
+		"material_rank2": 0,
+		"material_rank3": 10,
+		"material_rank4": 20,
+		"material_rank5": 30
+	},
+	{
+		"ID": 4,
+		"base_param": 3,
+		"base_rate": 20,
+		"material_rank1": 0,
+		"material_rank2": 0,
+		"material_rank3": 0,
+		"material_rank4": 10,
+		"material_rank5": 20
+	},
+	{
+		"ID": 5,
+		"base_param": 4,
+		"base_rate": 10,
+		"material_rank1": 0,
+		"material_rank2": 0,
+		"material_rank3": 0,
+		"material_rank4": 0,
+		"material_rank5": 10
+	}
+]

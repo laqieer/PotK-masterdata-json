@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 901040002,
+		"script": "# script \"lisp\"\n# scale 23 0.8 0\n# body 23\n# pos 23 5\n# scale 1300111 0.8 0\n# body 1300111\n# pos 1300111 1\n# face 1300111 \"normal\"\n# textflame 1 1\n# textboxarrow 0 3\n# chara 23\n# face 23 \"surprise\"\n# voice 11002 \"laevateinm_0024\"\n@ゼロ\nなっ…！？\n\n# serif 1\n# textboxarrow 1 1\n# chara 1300111\n# face 1300111 \"angry_1\"\n# voice 13001 \"longinusm_0002\"\n@ロンギヌス\n…邪魔をするな\n\n# serif 0\n# textboxarrow 0 3\n# chara 23\n# face 23 \"angry_2\"\n# voice 11002 \"laevateinm_0010\"\n@ゼロ\nそれはこっちの台詞だ！\n…お前、キラーメイルだな\nどうして俺達の邪魔をする！？\n"
+	}
+]

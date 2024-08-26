@@ -1,0 +1,26 @@
+[
+	{
+		"ID": 12,
+		"unitID": 2202011,
+		"scriptID": "kaerimichi",
+		"script": "はぁ…。よろしいですか？\nこういう時は男性から\n引き止めるものですよ？"
+	},
+	{
+		"ID": 39,
+		"unitID": 2202011,
+		"scriptID": "kaeru",
+		"script": "さぁ、帰りましょう\nこれ以上居ても\nなにもありませんし"
+	},
+	{
+		"ID": 66,
+		"unitID": 2202011,
+		"scriptID": "kaeru_ok",
+		"script": "@%(unitName:unit_a)s\nはい、ご一緒させていただきます\n事と次第によっては即座に\n首を切り落としますが"
+	},
+	{
+		"ID": 93,
+		"unitID": 2202011,
+		"scriptID": "kaeru_ng",
+		"script": "@%(unitName:unit_a)s\nすみません\n今日は帰りますね\nふふ、物足りなさそうないい顔です"
+	}
+]

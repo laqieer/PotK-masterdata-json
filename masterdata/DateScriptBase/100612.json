@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 100612,
+		"script": "# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_hauntedhouse\"\n# bgmfile \"bgm257\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 1006 \"nageruring_0038\"\n@ナーゲルリング\nきゃっ――！？\n\n# face %(unit_a)s \"angry\"\n@ナーゲルリング\nどどど、どさくさに紛れて\nなに触ってるんですか！？\n\n# face %(unit_a)s \"sad\"\n@ナーゲルリング\nま、まあ触りたいって言うなら\n触らせてあげても…\n\n# voice 1006 \"nageruring_0022\"\n@ナーゲルリング\nはっ、私ったらなにを…！？\n\n# voice 1006 \"nageruring_0015\"\n@ナーゲルリング\nう…\nい、今だけですよ…\n\n# face %(unit_a)s \"usual\"\n@ナーゲルリング\n今だけは、こうしてても\n怒りませんから…\n\n@ナーゲルリング\nむしろ、私のそばを\n離れちゃ…\n許しませんから…\n\n# voice 1006 \"nageruring_0007\"\n# face %(unit_a)s \"angry\"\n@ナーゲルリング\n…なにニヤニヤしてるんですか\nバカ…\n;;--------------------------------------\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

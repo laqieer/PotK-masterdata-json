@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 1420102,
+		"script": "# script \"lisp\"\n# body 101411\n# pos 101411 1\n# body 0\n# pos 0 2\n# body 4\n# pos 4 3\n# body 6\n# pos 6 5\n# scale 101411 0.8 0\n# scale 0 0.7 0\n# scale 4 0.8 0\n# scale 6 0.8 0\n# layer 0 1\n# textboxarrow 0 1\n# face 101411 \"angry\"\n# chara 101411\n@ティルフィング\n…！\n待って、異族です！\nトト、下がって！\n\n# serif 1\n# textboxarrow 1 3\n# voice 9997 \"deen_0024\"\n# chara 6\n@ディーン\nっ！？\nマジかよ…あの爺さん、\n異族の群れに突っ込んでいくぞ！\n\n# serif 0\n# textboxarrow 0 1\n# chara 0\n@デュリン\nあんな無防備で…！？\nなに考えてんのよ！？\n\n# serif 1\n# textboxarrow 1 2\n# chara 4\n@トト\nもしかして…\n僕の首飾りみたいな物を\n持ってるんじゃ…？\n\n# serif 0\n# textboxarrow 0 1\n# chara 0\n@デュリン\n賢者の石を…？\nまさか…\n\n# serif 1\n# textboxarrow 1 1\n# face 101411 \"surprised\"\n# voice 1014 \"tyrufing_0023\"\n# chara 101411\n@ティルフィング\nえ…！？異族を一喝した…！？\n確かに、\n異族も距離を置いてるみたい…\n\n# serif 1\n# textboxarrow 1 1\n# chara 101411\n@ティルフィング\n異族を退かせるなんて、\nなにか特殊な力がなければ…\n\n# serif 0\n# face 6 \"angry\"\n# textboxarrow 0 3\n# chara 6\n@ディーン\nいや、待て…違うぞ！\n一斉に襲いかかった！\n\n# serif 0\n# textboxarrow 0 3\n# chara 6\n@ディーン\n何の策もねぇ！\nただ、無鉄砲なだけだ！\n\n# serif 1\n# textboxarrow 1 1\n# chara 0\n@デュリン\nティルフィング、急いで！\nもう…なにを考えてるのよ、\nあの爺さん！"
+	}
+]

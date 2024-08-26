@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 50181101,
+		"script": "# script \"lisp\"\n# background \"flower_garden\"\n# bgm \"bgm003\" 0\n# body 501811\n# mask 501811 off\n# pos 501811 3\n# textflame 1 1\n# textboxarrow 0 2\n# textflame 0 0\n@\n花畑にて一人\nたたずむ少女\n\n# textflame 0 0\n@\n彼女の名は暁美ほむら\n“別次元の世界”から\nやってきた魔法少女\n\n# textflame 1 1\n# textboxarrow 0 2\n# voice 5018 \"devilhomura_0002\"\n@暁美ほむら\nあら？\n居たの？\n\n# textflame 0 0\n@\nほむらが発する言葉\n一言一言に迫力のような\nものを感じるマスター\n\n# textflame 0 0\n@\n彼女は、以前とは明らかに\n雰囲気が変わっていた\n\n# textflame 1 1\n# textboxarrow 0 2\n# voice 5018 \"devilhomura_0005\"\n@暁美ほむら\n…え？私の中で\nなにか変化したこと？\n\n# face 501811 \"sad\"\n@暁美ほむら\n………\n\n# textflame 0 0\n@\n少し考えた彼女が口を開いた\n\n# face 501811 \"amazed\"\n# textflame 1 1\n# textboxarrow 0 2\n# voice 5018 \"devilhomura_0003\"\n@暁美ほむら\nそうね…\n\n# face 501811 \"usual\"\n# textflame 1 1\n# textboxarrow 0 2\n@暁美ほむら\n私は、まどかが幸せになれる\n世界を望む…\n\n@暁美ほむら\nその想いは変わらないわ\n\n# voice 5018 \"devilhomura_0005\"\n@暁美ほむら\n変わったとしたら…\n\n# face 501811 \"normal\"\n# voice 5018 \"devilhomura_0003\"\n@暁美ほむら\n今の私は…\nそのためなら\n何だってできるってこと\n\n@暁美ほむら\nその気になれば…\n\n@暁美ほむら\n世界を壊し、\n改変することだって\n\n# voice 5018 \"devilhomura_0005\"\n@暁美ほむら\n今の私なら…\n迷うことなく\nやってのけられるわ\n\n# textflame 0 0\n@\nゆっくりと優しげに話す彼女の\n瞳の奥の怪しい光に\n戦慄を覚えるマスターだった"
+	}
+]

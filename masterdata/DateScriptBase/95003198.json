@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 95003198,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# se \"SE_0733\"\n# voice 5003 \"yatanokagami_0003\"\n# face %(unit_a)s \"angry\"\n@八咫鏡\n…うぬ\nやっぱり難しかったか\n\n# face %(unit_a)s \"usual\"\n@八咫鏡\nいや、よいよい\n\n# voice 5003 \"yatanokagami_0015\"\n@八咫鏡\nちょっとした戯れ\n不正解でもよいのじゃ…\n\n# textflame 0 0\n@\n彼女の笑顔は\nなんだか無理しているように見えた\n\n# textflame 1 1\n@八咫鏡\n…………\n\n# textflame 0 0\n@\nデート中のはずなのに…\n無理した笑顔をさせちゃうなんて…\n\n@\n…………\n\n@\n自然な笑顔で居て欲しいから…\n彼女のことちゃんと\n知っておかないとな…\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 27700121,
+		"script": ";;第2幕突入時\n# script \"lisp\"\n# body 2102311\n# pos 2102311 3\n# scale 2102311 0.8 0\n# body 2100911\n# pos 2100911 1\n# scale 2100911 0.8 0\n# face 2100911 \"angry\"\n# body 2100811\n# pos 2100811 5\n# scale 2100811 0.8 0\n# face 2100811 \"sad\"\n# textflame 1 1\n# textboxarrow 0 1\n@バルムンク\nあのグングニルってやつ…\n強い…！\n\n# face 2102311 \"smile\"\n# textboxarrow 0 2\n@アスカロン\n大丈夫！上の橋の方は手薄だよ！\nひとまずそっちに行こう！\n\n# textboxarrow 0 1\n# face 2100911 \"angry\"\n@バルムンク\nそうだね\n二人とも、行くよ！\n\n"
+	}
+]

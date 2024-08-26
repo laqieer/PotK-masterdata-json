@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 9101250,
+		"script": ";;(EP5)\n;;Happy Halloween！\n;;//背景：夜の街\n# script \"lisp\"\n# background \"town_night\"\n# bgmfile \"bgm071_072\" \"BgmHalloween001\" 0\n# layer 103521 1\n# body 103521\n# pos 103521 4\n# mask 103521 on\n# alpha 103521 1 0\n# scale 103521 0.8 0\n# face 103521 \"angry\"\n# body 602021\n# pos 602021 2\n# mask 602021 off\n# alpha 602021 1 0\n# face 602021 \"angry\"\n# scale 602021 0.8 0\n# textflame 0 0\n@\n広場では大勢の人が大騒ぎしている\nやはり異族が現れたらしい\n\n# textflame 1 1\n# textboxarrow 0 1\n# chara 602021\n# voice 6020 \"ness_0009\"\n@ネス\n…やはり、ここにも！\n急ぎましょう！\n\n# face 103521 \"happy\"\n# textflame 1 1\n# textboxarrow 0 3\n# chara 103521\n# voice 1035 \"damocles_0004\"\n@ダモクレス\nせめて苦しまないように\n死なせてあげないとね～\n\n# textflame 0 0\n@\n騒ぎの中心にたどり着いた3人の前に\nお菓子を持った魔女を囲む\n異族の集団が見えた\n\n# textflame 1 1\n# textboxarrow 0 1\n# chara 602021\n@ネス\nおばさま！\nそのお菓子をこちらに投げてください！\n\n# textflame 0 0\n@\n魔女のおばさんは戸惑いながらも\nお菓子の入った大きな袋を\nこちらに向かって投げる\n\n@\nマスターが袋を受け取ると、\n異族はお菓子を追うように\nこちらに近寄ってきた\n\n@\nやはり異族達は\nお菓子の甘い匂いに釣られて\n集まっているようだ"
+	}
+]

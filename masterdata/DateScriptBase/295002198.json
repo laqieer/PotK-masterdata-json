@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 295002198,
+		"script": ";;//不正解\n# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body 2500221\n# pos 2500221 3\n# mask 2500221 off\n# chara 2500221\n# fadein \"black\" 0.5\n# textflame 1 1\n# se \"SE_0733\"\n# face 2500221 \"usual\"\n@フライクーゲル\n残念でした！不正解っ！\n\n# face 2500221 \"smile\"\n# voice 250022 \"furaikugeru_k_0004\"\n@フライクーゲル\nアハッ、ハズレとわかった瞬間の\nマスターのそのベァットな顔\nたっまんないっ！\n\n# face 2500221 \"usual\"\n@フライクーゲル\nわたしについて知っとかないと\nいつまたサッドでベァットな\n顔を晒すことになるかわからないよ？\n\n@フライクーゲル\nまっ、わたしはそれでもいいけど！\n\n;;モノローグ\n# alpha 2500221 0 0.5\n# textflame 0 0\n@\n言いながら背を向けて\n彼女は先に帰っていこうとする\n\n;;モノローグ\n@\nその背中を見ながらマスターは\n一瞬見えた彼女の残念そうな顔を\n思い出して、胸を痛めるのだった\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

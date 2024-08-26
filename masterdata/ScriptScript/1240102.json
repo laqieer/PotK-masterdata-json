@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 1240102,
+		"script": ";;■□■２－４改修案■□■\n;;整形済み\n;;【２－４－１（バトル後）】\n# script \"lisp\"\n# background \"forest\"\n# bgm \"bgm004\" 0\n# body 24\n# pos 24 2\n# scale 24 0.8 0\n# alpha 24 1 1\n# body 4\n# pos 4 4\n# scale 4 0.8 0\n# alpha 4 1 1\n;;バトル\n# face 4 \"angry\"\n# textboxarrow 0 1\n# face 24 \"mad2\"\n# voice 1014 \"tyrufing_0068\"\n@ティルフィング\n待って！！\n\n# textboxarrow 0 3\n# voice 9998 \"toto_0013\"\n@トト\nイヤだ！！\n\n# textboxarrow 0 1\n@ティルフィング\n待って！\n大丈夫よ、私達は…\n\n# textboxarrow 0 3\n@トト\n“私達”は…なんだよ！\nお前たちは“貧乏人を見捨てる”\nラグナロクだろ！？\n\n# textboxarrow 0 1\n# face 24 \"angry\"\n# voice 1014 \"tyrufing_0037\"\n@ティルフィング\n！！\n\n# textboxarrow 0 3\n# voice 9998 \"toto_0011\"\n@トト\nお前たちのせいで、\nエゼル村は“悪魔に呪われし村”に\nなったんだろ！？\n\n@トト\nみんな言ってる…\nそんなキル姫なんかに、\nなにが出来るって言うんだよ！\n\n# textboxarrow 0 1\n# face 24 \"mad2\"\n# voice 1014 \"tyrufing_0069\"\n@ティルフィング\nトト！！"
+	}
+]

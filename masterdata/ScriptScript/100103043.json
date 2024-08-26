@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 100103043,
+		"script": ";;1章3話4 戦闘後\n;;//魔獣化マサムネが姿を現す\n# script \"lisp\"\n# background \"101_city_night3\"\n;;# bgmfile \"bgm275\" \"BgmLostRagnarokEvent\" 0\n# frameout 0 0\n# buttonsout 0 0\n# bgm \"stop\"\n# serif 0\n# textwindow \"close\"\n# body 1100111\n# pos 1100111 3\n# scale 1100111 0.8 0\n# brightness 1100111 0.3 0\n# mask 1100111 off\n# face 1100111 \"mad\"\n# eye 1100111 \"mad\"\n# fadeout \"black\" 0\n# subfillrect 0 \"black\" 0.2 0 0.6\n# waitandnext 0.5\n\n# framein 1 0\n# buttonsin 1 0\n# fadein \"black\" 0.5\n;;@？？？（魔獣化マサムネ♂）\n# serif 1\n# textwindow \"normal\"\n# textflame 1 1\n# textboxarrow 1 2\n# chara 1100111\n@？？？\nグウウウ…\nグアアアア…！\n"
+	}
+]

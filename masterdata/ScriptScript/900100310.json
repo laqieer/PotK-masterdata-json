@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 900100310,
+		"script": ";;背景：（プール）\n# script \"lisp\"\n# background \"sea_resort_day\"\n# bgmfile \"bgm227\" \"BgmSeaEvent\" 0\n# body 2500311\n# pos 2500311 4\n# scale 2500311 0.8 0\n# body 2202011\n# pos 2202011 2\n# scale 2202011 0.8 0\n# voice 2020 \"harpe_0004\"\n# textflame 1 1\n# textboxarrow 0 1\n# face 2500311 \"usual\"\n@ハルパー\n…まぁ、お子様にしては\nなかなか巧みな戦いぶりでしたわね\n敵の薄いところを的確につきましたし\n\n# voice 5003 \"yatanokagami_0003\"\n# textboxarrow 0 3\n@八咫鏡\nお主こそな…\n実力もさることながら、\n隙をついて背後より確実に仕留める…\n\n# voice 5003 \"yatanokagami_0005\"\n# face 2500311 \"smile\"\n@八咫鏡\n思わず見惚れるほどの\n鮮やかさであったのう！\n\n# voice 2020 \"harpe_0028\"\n# textboxarrow 0 1\n# face 2202011 \"smile\"\n@ハルパー\nあら？…思いのほか\n見る目があるようですわね\n…少し、興味が湧いてまいりましたわ\n\n# textboxarrow 0 3\n@八咫鏡\nわらわも、もう少しばかり\nお主という者を\n見定めてみとうなったのじゃ\n\n# voice 5003 \"yatanokagami_0004\"\n@八咫鏡\n良ければ\nあそこのプールにでも入りながら\n少し話さぬか？\n\n# voice 2020 \"harpe_0036\"\n# textboxarrow 0 1\n@ハルパー\nふふふ、喜んで\nでは、参りましょう\n\n# textflame 0 0\n@\n先ほどの殺伐とした\n雰囲気はどこへやら、\n二人はプールへ向かっていく\n\n@\n仲睦まじいその後ろ姿を\n四つん這いになったまま見送る\nマスターであった…"
+	}
+]

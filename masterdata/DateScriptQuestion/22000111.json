@@ -1,0 +1,302 @@
+[
+	{
+		"ID": 6253,
+		"unitID": 22000111,
+		"questionID": 92000101,
+		"script": ";;特殊,1\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n@イージス\n一つ、隊長は皆を守る\n一つ、隊長は皆を率いる\n一つ、隊長は皆を支える\n\n@イージス\n一つ、隊長は皆のことを熟知する\n一つ、隊長は皆に感謝する\nこの五ヶ条が、隊長の心得だ\n\n# voice 5200011 \"aegis_c_0002\"\n@イージス\nつまり…貴様が隊長ならば、\n私のことも熟知していなければ\nならない\n\n# voice 5200011 \"aegis_c_0004\"\n@イージス\nということで、クイズだ\n今から私に関する問題に答えてみろ\n\n@イージス\n間違いは許されんぞ\n\n@イージス\nいいな？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私の武器属性は分かるか？　\n\n# se \"SE_0734\"\n# select \"特殊\" \"select_label_1\" \"槍\" \"select_label_2\" \"剣\" \"select_label_3\"\n私の武器属性は分かるか？　\n"
+	},
+	{
+		"ID": 6254,
+		"unitID": 22000111,
+		"questionID": 92000102,
+		"script": ";;盾,2\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n@イージス\n一つ、隊長は皆を守る\n一つ、隊長は皆を率いる\n一つ、隊長は皆を支える\n\n@イージス\n一つ、隊長は皆のことを熟知する\n一つ、隊長は皆に感謝する\nこの五ヶ条が、隊長の心得だ\n\n# voice 5200011 \"aegis_c_0002\"\n@イージス\nつまり…貴様が隊長ならば、\n私のことも熟知していなければ\nならない\n\n# voice 5200011 \"aegis_c_0004\"\n@イージス\nということで、クイズだ\n今から私に関する問題に答えてみろ\n\n@イージス\n間違いは許されんぞ\n\n@イージス\nいいな？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私のキラーズ『イージス』は\nどんな武具だと云われている？\n\n# se \"SE_0734\"\n# select \"剣\" \"select_label_1\" \"盾\" \"select_label_2\" \"潜水艦\" \"select_label_3\"\n私のキラーズ『イージス』は\nどんな武具だと云われている？\n"
+	},
+	{
+		"ID": 6255,
+		"unitID": 22000111,
+		"questionID": 92000103,
+		"script": ";;ギリシア神話,1\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n@イージス\n一つ、隊長は皆を守る\n一つ、隊長は皆を率いる\n一つ、隊長は皆を支える\n\n@イージス\n一つ、隊長は皆のことを熟知する\n一つ、隊長は皆に感謝する\nこの五ヶ条が、隊長の心得だ\n\n# voice 5200011 \"aegis_c_0002\"\n@イージス\nつまり…貴様が隊長ならば、\n私のことも熟知していなければ\nならない\n\n# voice 5200011 \"aegis_c_0004\"\n@イージス\nということで、クイズだ\n今から私に関する問題に答えてみろ\n\n@イージス\n間違いは許されんぞ\n\n@イージス\nいいな？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私のキラーズ『イージス』は\nどんな伝承に登場するか知っているか？\n\n# se \"SE_0734\"\n# select \"ギリシア神話\" \"select_label_1\" \"日本神話\" \"select_label_2\" \"インド神話\" \"select_label_3\"\n私のキラーズ『イージス』は\nどんな伝承に登場するか知っているか？\n"
+	},
+	{
+		"ID": 6256,
+		"unitID": 22000111,
+		"questionID": 92000104,
+		"script": ";;アテナ,3\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n@イージス\n一つ、隊長は皆を守る\n一つ、隊長は皆を率いる\n一つ、隊長は皆を支える\n\n@イージス\n一つ、隊長は皆のことを熟知する\n一つ、隊長は皆に感謝する\nこの五ヶ条が、隊長の心得だ\n\n# voice 5200011 \"aegis_c_0002\"\n@イージス\nつまり…貴様が隊長ならば、\n私のことも熟知していなければ\nならない\n\n# voice 5200011 \"aegis_c_0004\"\n@イージス\nということで、クイズだ\n今から私に関する問題に答えてみろ\n\n@イージス\n間違いは許されんぞ\n\n@イージス\nいいな？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私のキラーズ『イージス』は\n誰の持っていた盾と云われている？\n\n# se \"SE_0734\"\n# select \"サテア\" \"select_label_1\" \"マイケル\" \"select_label_2\" \"アテナ\" \"select_label_3\"\n私のキラーズ『イージス』は\n誰の持っていた盾と云われている？\n"
+	},
+	{
+		"ID": 6257,
+		"unitID": 22000111,
+		"questionID": 92000105,
+		"script": ";;ゼウス,1\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n@イージス\n一つ、隊長は皆を守る\n一つ、隊長は皆を率いる\n一つ、隊長は皆を支える\n\n@イージス\n一つ、隊長は皆のことを熟知する\n一つ、隊長は皆に感謝する\nこの五ヶ条が、隊長の心得だ\n\n# voice 5200011 \"aegis_c_0002\"\n@イージス\nつまり…貴様が隊長ならば、\n私のことも熟知していなければ\nならない\n\n# voice 5200011 \"aegis_c_0004\"\n@イージス\nということで、クイズだ\n今から私に関する問題に答えてみろ\n\n@イージス\n間違いは許されんぞ\n\n@イージス\nいいな？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私のキラーズ『イージス』は\nアテナが誰から貰ったと\n云われている？\n\n# se \"SE_0734\"\n# select \"ゼウス\" \"select_label_1\" \"ジェームス\" \"select_label_2\" \"デビル\" \"select_label_3\"\n私のキラーズ『イージス』は\nアテナが誰から貰ったと\n云われている？\n"
+	},
+	{
+		"ID": 6258,
+		"unitID": 22000111,
+		"questionID": 92000106,
+		"script": ";;災厄を払う魔よけの力,1\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n@イージス\n一つ、隊長は皆を守る\n一つ、隊長は皆を率いる\n一つ、隊長は皆を支える\n\n@イージス\n一つ、隊長は皆のことを熟知する\n一つ、隊長は皆に感謝する\nこの五ヶ条が、隊長の心得だ\n\n# voice 5200011 \"aegis_c_0002\"\n@イージス\nつまり…貴様が隊長ならば、\n私のことも熟知していなければ\nならない\n\n# voice 5200011 \"aegis_c_0004\"\n@イージス\nということで、クイズだ\n今から私に関する問題に答えてみろ\n\n@イージス\n間違いは許されんぞ\n\n@イージス\nいいな？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私のキラーズ『イージス』はどんな\n力を持っていると云われている？\n\n# se \"SE_0734\"\n# select \"災厄を払う魔よけの力\" \"select_label_1\" \"あらゆる病気を治す力\" \"select_label_2\" \"台本を書く力\" \"select_label_3\"\n私のキラーズ『イージス』はどんな\n力を持っていると云われている？\n"
+	},
+	{
+		"ID": 6259,
+		"unitID": 22000111,
+		"questionID": 92000107,
+		"script": ";;メドゥーサの首,1\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n@イージス\n一つ、隊長は皆を守る\n一つ、隊長は皆を率いる\n一つ、隊長は皆を支える\n\n@イージス\n一つ、隊長は皆のことを熟知する\n一つ、隊長は皆に感謝する\nこの五ヶ条が、隊長の心得だ\n\n# voice 5200011 \"aegis_c_0002\"\n@イージス\nつまり…貴様が隊長ならば、\n私のことも熟知していなければ\nならない\n\n# voice 5200011 \"aegis_c_0004\"\n@イージス\nということで、クイズだ\n今から私に関する問題に答えてみろ\n\n@イージス\n間違いは許されんぞ\n\n@イージス\nいいな？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私のキラーズ『イージス』に\nはめ込まれたものは　\n何かわかるか？\n\n# se \"SE_0734\"\n# select \"メドゥーサの首\" \"select_label_1\" \"緋色の宝石\" \"select_label_2\" \"タラバガニ\" \"select_label_3\"\n私のキラーズ『イージス』に\nはめ込まれたものは　\n何かわかるか？\n"
+	},
+	{
+		"ID": 6260,
+		"unitID": 22000111,
+		"questionID": 92000108,
+		"script": ";;目を合わせた者を石化する,2\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n@イージス\n一つ、隊長は皆を守る\n一つ、隊長は皆を率いる\n一つ、隊長は皆を支える\n\n@イージス\n一つ、隊長は皆のことを熟知する\n一つ、隊長は皆に感謝する\nこの五ヶ条が、隊長の心得だ\n\n# voice 5200011 \"aegis_c_0002\"\n@イージス\nつまり…貴様が隊長ならば、\n私のことも熟知していなければ\nならない\n\n# voice 5200011 \"aegis_c_0004\"\n@イージス\nということで、クイズだ\n今から私に関する問題に答えてみろ\n\n@イージス\n間違いは許されんぞ\n\n@イージス\nいいな？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私のキラーズ『イージス』に\nはめ込まれた\nメドゥーサの首といえば？\n\n# se \"SE_0734\"\n# select \"触った者を樹木化する\" \"select_label_1\" \"目を合わせた者を石化する\" \"select_label_2\" \"声を聞いた者を果実化する\" \"select_label_3\"\n私のキラーズ『イージス』に\nはめ込まれた\nメドゥーサの首といえば？\n"
+	},
+	{
+		"ID": 6261,
+		"unitID": 22000111,
+		"questionID": 92000109,
+		"script": ";;死者の国を支配する女王,3\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n@イージス\n一つ、隊長は皆を守る\n一つ、隊長は皆を率いる\n一つ、隊長は皆を支える\n\n@イージス\n一つ、隊長は皆のことを熟知する\n一つ、隊長は皆に感謝する\nこの五ヶ条が、隊長の心得だ\n\n# voice 5200011 \"aegis_c_0002\"\n@イージス\nつまり…貴様が隊長ならば、\n私のことも熟知していなければ\nならない\n\n# voice 5200011 \"aegis_c_0004\"\n@イージス\nということで、クイズだ\n今から私に関する問題に答えてみろ\n\n@イージス\n間違いは許されんぞ\n\n@イージス\nいいな？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私の名にある『ヘル』は\nどんな女王か知っているか？\n\n# se \"SE_0734\"\n# select \"お菓子の国を支配する女王\" \"select_label_1\" \"侍の国を支配する女王\" \"select_label_2\" \"死者の国を支配する女王\" \"select_label_3\"\n私の名にある『ヘル』は\nどんな女王か知っているか？\n"
+	},
+	{
+		"ID": 6262,
+		"unitID": 22000111,
+		"questionID": 92000110,
+		"script": ";;北欧神話,3\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n@イージス\n一つ、隊長は皆を守る\n一つ、隊長は皆を率いる\n一つ、隊長は皆を支える\n\n@イージス\n一つ、隊長は皆のことを熟知する\n一つ、隊長は皆に感謝する\nこの五ヶ条が、隊長の心得だ\n\n# voice 5200011 \"aegis_c_0002\"\n@イージス\nつまり…貴様が隊長ならば、\n私のことも熟知していなければ\nならない\n\n# voice 5200011 \"aegis_c_0004\"\n@イージス\nということで、クイズだ\n今から私に関する問題に答えてみろ\n\n@イージス\n間違いは許されんぞ\n\n@イージス\nいいな？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私の名にある『ヘル』は\nどんな神話に登場するか\n知っているか？\n\n# se \"SE_0734\"\n# select \"インド神話\" \"select_label_1\" \"ギリシア神話\" \"select_label_2\" \"北欧神話\" \"select_label_3\"\n私の名にある『ヘル』は\nどんな神話に登場するか\n知っているか？\n"
+	},
+	{
+		"ID": 6263,
+		"unitID": 22000111,
+		"questionID": 92000111,
+		"script": ";;闇,2\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n@イージス\n……正直\n\n@イージス\n私は入隊以来、\n貴様のような者が隊長で大丈夫かと、\n不安を持っていた\n\n@イージス\nしかし、今日のデートは……\nそんな不安を吹き飛ばすほど、\n楽しかったのは事実\n\n# voice 550321 \"tiphereth_ca_0004\"\n@イージス\nさすがは隊長と言ったところか…\n\n# face %(unit_a)s \"angry\"\n@イージス\nだが…！\nまだ完全に認めたわけではない！\n\n@イージス\n今一度、\n貴様が隊長にふさわしいのか、\n試してやる！\n\n# voice 550321 \"tiphereth_ca_0002\"\n@イージス\n私の出すクイズに\n答えることが出来るかな？\n\n@イージス\n行くぞ！\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私の属性は知っているか？\n\n# se \"SE_0734\"\n# select \"風\" \"select_label_1\" \"闇\" \"select_label_2\" \"氷\" \"select_label_3\"\n私の属性は知っているか？\n"
+	},
+	{
+		"ID": 6264,
+		"unitID": 22000111,
+		"questionID": 92000112,
+		"script": ";;162cm ,3\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n@イージス\n……正直\n\n@イージス\n私は入隊以来、\n貴様のような者が隊長で大丈夫かと、\n不安を持っていた\n\n@イージス\nしかし、今日のデートは……\nそんな不安を吹き飛ばすほど、\n楽しかったのは事実\n\n# voice 550321 \"tiphereth_ca_0004\"\n@イージス\nさすがは隊長と言ったところか…\n\n# face %(unit_a)s \"angry\"\n@イージス\nだが…！\nまだ完全に認めたわけではない！\n\n@イージス\n今一度、\n貴様が隊長にふさわしいのか、\n試してやる！\n\n# voice 550321 \"tiphereth_ca_0002\"\n@イージス\n私の出すクイズに\n答えることが出来るかな？\n\n@イージス\n行くぞ！\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私の身長は何センチかわかるか？\n\n# se \"SE_0734\"\n# select \"167cm\" \"select_label_1\" \"169cm\" \"select_label_2\" \"162cm \" \"select_label_3\"\n私の身長は何センチかわかるか？\n"
+	},
+	{
+		"ID": 6265,
+		"unitID": 22000111,
+		"questionID": 92000113,
+		"script": ";;7月28日,3\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n@イージス\n……正直\n\n@イージス\n私は入隊以来、\n貴様のような者が隊長で大丈夫かと、\n不安を持っていた\n\n@イージス\nしかし、今日のデートは……\nそんな不安を吹き飛ばすほど、\n楽しかったのは事実\n\n# voice 550321 \"tiphereth_ca_0004\"\n@イージス\nさすがは隊長と言ったところか…\n\n# face %(unit_a)s \"angry\"\n@イージス\nだが…！\nまだ完全に認めたわけではない！\n\n@イージス\n今一度、\n貴様が隊長にふさわしいのか、\n試してやる！\n\n# voice 550321 \"tiphereth_ca_0002\"\n@イージス\n私の出すクイズに\n答えることが出来るかな？\n\n@イージス\n行くぞ！\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私の誕生日は知っているか？\n\n# se \"SE_0734\"\n# select \"8月28日\" \"select_label_1\" \"9月28日\" \"select_label_2\" \"7月28日\" \"select_label_3\"\n私の誕生日は知っているか？\n"
+	},
+	{
+		"ID": 6266,
+		"unitID": 22000111,
+		"questionID": 92000114,
+		"script": ";;しし座,2\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n@イージス\n……正直\n\n@イージス\n私は入隊以来、\n貴様のような者が隊長で大丈夫かと、\n不安を持っていた\n\n@イージス\nしかし、今日のデートは……\nそんな不安を吹き飛ばすほど、\n楽しかったのは事実\n\n# voice 550321 \"tiphereth_ca_0004\"\n@イージス\nさすがは隊長と言ったところか…\n\n# face %(unit_a)s \"angry\"\n@イージス\nだが…！\nまだ完全に認めたわけではない！\n\n@イージス\n今一度、\n貴様が隊長にふさわしいのか、\n試してやる！\n\n# voice 550321 \"tiphereth_ca_0002\"\n@イージス\n私の出すクイズに\n答えることが出来るかな？\n\n@イージス\n行くぞ！\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私の星座は知っているか？\n\n# se \"SE_0734\"\n# select \"てんびん座\" \"select_label_1\" \"しし座\" \"select_label_2\" \"やぎ座\" \"select_label_3\"\n私の星座は知っているか？\n"
+	},
+	{
+		"ID": 6267,
+		"unitID": 22000111,
+		"questionID": 92000115,
+		"script": ";;キモ可愛いもの,2\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n@イージス\n……正直\n\n@イージス\n私は入隊以来、\n貴様のような者が隊長で大丈夫かと、\n不安を持っていた\n\n@イージス\nしかし、今日のデートは……\nそんな不安を吹き飛ばすほど、\n楽しかったのは事実\n\n# voice 550321 \"tiphereth_ca_0004\"\n@イージス\nさすがは隊長と言ったところか…\n\n# face %(unit_a)s \"angry\"\n@イージス\nだが…！\nまだ完全に認めたわけではない！\n\n@イージス\n今一度、\n貴様が隊長にふさわしいのか、\n試してやる！\n\n# voice 550321 \"tiphereth_ca_0002\"\n@イージス\n私の出すクイズに\n答えることが出来るかな？\n\n@イージス\n行くぞ！\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私の好きなものは知っているか？\n\n# se \"SE_0734\"\n# select \"ウザ可愛いもの\" \"select_label_1\" \"キモ可愛いもの\" \"select_label_2\" \"うすら怖いもの\" \"select_label_3\"\n私の好きなものは知っているか？\n"
+	},
+	{
+		"ID": 6268,
+		"unitID": 22000111,
+		"questionID": 92000116,
+		"script": ";;カオスリーパー,1\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n@イージス\n……正直\n\n@イージス\n私は入隊以来、\n貴様のような者が隊長で大丈夫かと、\n不安を持っていた\n\n@イージス\nしかし、今日のデートは……\nそんな不安を吹き飛ばすほど、\n楽しかったのは事実\n\n# voice 550321 \"tiphereth_ca_0004\"\n@イージス\nさすがは隊長と言ったところか…\n\n# face %(unit_a)s \"angry\"\n@イージス\nだが…！\nまだ完全に認めたわけではない！\n\n@イージス\n今一度、\n貴様が隊長にふさわしいのか、\n試してやる！\n\n# voice 550321 \"tiphereth_ca_0002\"\n@イージス\n私の出すクイズに\n答えることが出来るかな？\n\n@イージス\n行くぞ！\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私の好きなものといえばこれだな！\n\n# se \"SE_0734\"\n# select \"カオスリーパー\" \"select_label_1\" \"チョークスリーパー\" \"select_label_2\" \"カカオリーパー\" \"select_label_3\"\n私の好きなものといえばこれだな！\n"
+	},
+	{
+		"ID": 6269,
+		"unitID": 22000111,
+		"questionID": 92000117,
+		"script": ";;Ａ型,3\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n@イージス\n……正直\n\n@イージス\n私は入隊以来、\n貴様のような者が隊長で大丈夫かと、\n不安を持っていた\n\n@イージス\nしかし、今日のデートは……\nそんな不安を吹き飛ばすほど、\n楽しかったのは事実\n\n# voice 550321 \"tiphereth_ca_0004\"\n@イージス\nさすがは隊長と言ったところか…\n\n# face %(unit_a)s \"angry\"\n@イージス\nだが…！\nまだ完全に認めたわけではない！\n\n@イージス\n今一度、\n貴様が隊長にふさわしいのか、\n試してやる！\n\n# voice 550321 \"tiphereth_ca_0002\"\n@イージス\n私の出すクイズに\n答えることが出来るかな？\n\n@イージス\n行くぞ！\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私の血液型は知っているか？\n\n# se \"SE_0734\"\n# select \"ＡＢ型\" \"select_label_1\" \"Ｏ型\" \"select_label_2\" \"Ａ型\" \"select_label_3\"\n私の血液型は知っているか？\n"
+	},
+	{
+		"ID": 6270,
+		"unitID": 22000111,
+		"questionID": 92000118,
+		"script": ";;トリトニス湖,3\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n@イージス\n……正直\n\n@イージス\n私は入隊以来、\n貴様のような者が隊長で大丈夫かと、\n不安を持っていた\n\n@イージス\nしかし、今日のデートは……\nそんな不安を吹き飛ばすほど、\n楽しかったのは事実\n\n# voice 550321 \"tiphereth_ca_0004\"\n@イージス\nさすがは隊長と言ったところか…\n\n# face %(unit_a)s \"angry\"\n@イージス\nだが…！\nまだ完全に認めたわけではない！\n\n@イージス\n今一度、\n貴様が隊長にふさわしいのか、\n試してやる！\n\n# voice 550321 \"tiphereth_ca_0002\"\n@イージス\n私の出すクイズに\n答えることが出来るかな？\n\n@イージス\n行くぞ！\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私の出身地はわかるか？\n\n# se \"SE_0734\"\n# select \"バイカル湖\" \"select_label_1\" \"ブライエス湖\" \"select_label_2\" \"トリトニス湖\" \"select_label_3\"\n私の出身地はわかるか？\n"
+	},
+	{
+		"ID": 6271,
+		"unitID": 22000111,
+		"questionID": 92000119,
+		"script": ";;ロキ,2\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n@イージス\n……正直\n\n@イージス\n私は入隊以来、\n貴様のような者が隊長で大丈夫かと、\n不安を持っていた\n\n@イージス\nしかし、今日のデートは……\nそんな不安を吹き飛ばすほど、\n楽しかったのは事実\n\n# voice 550321 \"tiphereth_ca_0004\"\n@イージス\nさすがは隊長と言ったところか…\n\n# face %(unit_a)s \"angry\"\n@イージス\nだが…！\nまだ完全に認めたわけではない！\n\n@イージス\n今一度、\n貴様が隊長にふさわしいのか、\n試してやる！\n\n# voice 550321 \"tiphereth_ca_0002\"\n@イージス\n私の出すクイズに\n答えることが出来るかな？\n\n@イージス\n行くぞ！\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私の名にある『ヘル』は\n誰の娘と云われている？\n\n\n# se \"SE_0734\"\n# select \"バッキ―\" \"select_label_1\" \"ロキ\" \"select_label_2\" \"サキ\" \"select_label_3\"\n私の名にある『ヘル』は\n誰の娘と云われている？\n\n"
+	},
+	{
+		"ID": 6272,
+		"unitID": 22000111,
+		"questionID": 92000120,
+		"script": ";;オーディン,2\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n@イージス\n……正直\n\n@イージス\n私は入隊以来、\n貴様のような者が隊長で大丈夫かと、\n不安を持っていた\n\n@イージス\nしかし、今日のデートは……\nそんな不安を吹き飛ばすほど、\n楽しかったのは事実\n\n# voice 550321 \"tiphereth_ca_0004\"\n@イージス\nさすがは隊長と言ったところか…\n\n# face %(unit_a)s \"angry\"\n@イージス\nだが…！\nまだ完全に認めたわけではない！\n\n@イージス\n今一度、\n貴様が隊長にふさわしいのか、\n試してやる！\n\n# voice 550321 \"tiphereth_ca_0002\"\n@イージス\n私の出すクイズに\n答えることが出来るかな？\n\n@イージス\n行くぞ！\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私の名にある『ヘル』は誰によって\nニブルヘイムに追放されたと\n云われている？\n\n# se \"SE_0734\"\n# select \"パラディン\" \"select_label_1\" \"オーディン\" \"select_label_2\" \"ガイコクディン\" \"select_label_3\"\n私の名にある『ヘル』は誰によって\nニブルヘイムに追放されたと\n云われている？\n"
+	},
+	{
+		"ID": 6273,
+		"unitID": 22000111,
+		"questionID": 92000121,
+		"script": ";;冥護神の顕現,3\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n@イージス\nその…あの……\n\n# voice 5200011 \"aegis_c_0015\"\n@イージス\nえっと、こういう時の台本は…\n\n# textflame 0 0\n@\nサーフボードにトランスフォームした\n盾からノートを取り出すイージス\n\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n@イージス\nあ、あった！なになに…\n\n@イージス\n『今日はとっても楽しかったね』\n\n@イージス\n『最後に私のこと、どれぐらい\n分かってるか試してもいい？』\n\n@イージス\n『もし正解したら……私を……』\n\n# face %(unit_a)s \"angry\"\n# voice 5200011 \"aegis_c_0007\"\n@イージス\nこ、これ以上は正解してからだ…！\nい、いくぞ！！\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私の覚えるリーダースキルを\n知っているか？\n\n# se \"SE_0734\"\n# select \"冥護神の喧伝\" \"select_label_1\" \"冥護神の権限\" \"select_label_2\" \"冥護神の顕現\" \"select_label_3\"\n私の覚えるリーダースキルを\n知っているか？\n"
+	},
+	{
+		"ID": 6274,
+		"unitID": 22000111,
+		"questionID": 92000122,
+		"script": ";;境界を護りし必盾,2\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n@イージス\nその…あの……\n\n# voice 5200011 \"aegis_c_0015\"\n@イージス\nえっと、こういう時の台本は…\n\n# textflame 0 0\n@\nサーフボードにトランスフォームした\n盾からノートを取り出すイージス\n\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n@イージス\nあ、あった！なになに…\n\n@イージス\n『今日はとっても楽しかったね』\n\n@イージス\n『最後に私のこと、どれぐらい\n分かってるか試してもいい？』\n\n@イージス\n『もし正解したら……私を……』\n\n# face %(unit_a)s \"angry\"\n# voice 5200011 \"aegis_c_0007\"\n@イージス\nこ、これ以上は正解してからだ…！\nい、いくぞ！！\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私の覚えるスキルを知っているか？\n\n# se \"SE_0734\"\n# select \"協会を護りし必盾\" \"select_label_1\" \"境界を護りし必盾\" \"select_label_2\" \"教会を護りし必盾\" \"select_label_3\"\n私の覚えるスキルを知っているか？\n"
+	},
+	{
+		"ID": 6275,
+		"unitID": 22000111,
+		"questionID": 92000123,
+		"script": ";;冥護神の共鳴,1\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n@イージス\nその…あの……\n\n# voice 5200011 \"aegis_c_0015\"\n@イージス\nえっと、こういう時の台本は…\n\n# textflame 0 0\n@\nサーフボードにトランスフォームした\n盾からノートを取り出すイージス\n\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n@イージス\nあ、あった！なになに…\n\n@イージス\n『今日はとっても楽しかったね』\n\n@イージス\n『最後に私のこと、どれぐらい\n分かってるか試してもいい？』\n\n@イージス\n『もし正解したら……私を……』\n\n# face %(unit_a)s \"angry\"\n# voice 5200011 \"aegis_c_0007\"\n@イージス\nこ、これ以上は正解してからだ…！\nい、いくぞ！！\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私の☆６のリーダースキルは\n知っているか？\n\n# se \"SE_0734\"\n# select \"冥護神の共鳴\" \"select_label_1\" \"大明神の共鳴\" \"select_label_2\" \"七福神の共鳴\" \"select_label_3\"\n私の☆６のリーダースキルは\n知っているか？\n"
+	},
+	{
+		"ID": 6276,
+		"unitID": 22000111,
+		"questionID": 92000124,
+		"script": ";;冥界の聖域,3\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n@イージス\nその…あの……\n\n# voice 5200011 \"aegis_c_0015\"\n@イージス\nえっと、こういう時の台本は…\n\n# textflame 0 0\n@\nサーフボードにトランスフォームした\n盾からノートを取り出すイージス\n\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n@イージス\nあ、あった！なになに…\n\n@イージス\n『今日はとっても楽しかったね』\n\n@イージス\n『最後に私のこと、どれぐらい\n分かってるか試してもいい？』\n\n@イージス\n『もし正解したら……私を……』\n\n# face %(unit_a)s \"angry\"\n# voice 5200011 \"aegis_c_0007\"\n@イージス\nこ、これ以上は正解してからだ…！\nい、いくぞ！！\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私が覚える付与スキルはどれだ？\n\n# se \"SE_0734\"\n# select \"明海の聖域\" \"select_label_1\" \"冥界の声域\" \"select_label_2\" \"冥界の聖域\" \"select_label_3\"\n私が覚える付与スキルはどれだ？\n"
+	},
+	{
+		"ID": 6277,
+		"unitID": 22000111,
+		"questionID": 92000125,
+		"script": ";;アブソリュート・プロテクション,2\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n@イージス\nその…あの……\n\n# voice 5200011 \"aegis_c_0015\"\n@イージス\nえっと、こういう時の台本は…\n\n# textflame 0 0\n@\nサーフボードにトランスフォームした\n盾からノートを取り出すイージス\n\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n@イージス\nあ、あった！なになに…\n\n@イージス\n『今日はとっても楽しかったね』\n\n@イージス\n『最後に私のこと、どれぐらい\n分かってるか試してもいい？』\n\n@イージス\n『もし正解したら……私を……』\n\n# face %(unit_a)s \"angry\"\n# voice 5200011 \"aegis_c_0007\"\n@イージス\nこ、これ以上は正解してからだ…！\nい、いくぞ！！\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私が覚える付与スキルはどれだ？\n\n# se \"SE_0734\"\n# select \"アブノーマル・プロダクション\" \"select_label_1\" \"アブソリュート・プロテクション\" \"select_label_2\" \"サティスファクション・プロテイン\" \"select_label_3\"\n私が覚える付与スキルはどれだ？\n"
+	},
+	{
+		"ID": 6278,
+		"unitID": 22000111,
+		"questionID": 92000126,
+		"script": ";;イージス・バッシュ,1\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n@イージス\nその…あの……\n\n# voice 5200011 \"aegis_c_0015\"\n@イージス\nえっと、こういう時の台本は…\n\n# textflame 0 0\n@\nサーフボードにトランスフォームした\n盾からノートを取り出すイージス\n\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n@イージス\nあ、あった！なになに…\n\n@イージス\n『今日はとっても楽しかったね』\n\n@イージス\n『最後に私のこと、どれぐらい\n分かってるか試してもいい？』\n\n@イージス\n『もし正解したら……私を……』\n\n# face %(unit_a)s \"angry\"\n# voice 5200011 \"aegis_c_0007\"\n@イージス\nこ、これ以上は正解してからだ…！\nい、いくぞ！！\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私の覚えるコマンドスキルは\n知っているか？\n\n# se \"SE_0734\"\n# select \"イージス・バッシュ\" \"select_label_1\" \"イージス・ダンク\" \"select_label_2\" \"イージス・パンチ\" \"select_label_3\"\n私の覚えるコマンドスキルは\n知っているか？\n"
+	},
+	{
+		"ID": 6279,
+		"unitID": 22000111,
+		"questionID": 92000127,
+		"script": ";;ヘルの隠匿,1\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n@イージス\nその…あの……\n\n# voice 5200011 \"aegis_c_0015\"\n@イージス\nえっと、こういう時の台本は…\n\n# textflame 0 0\n@\nサーフボードにトランスフォームした\n盾からノートを取り出すイージス\n\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n@イージス\nあ、あった！なになに…\n\n@イージス\n『今日はとっても楽しかったね』\n\n@イージス\n『最後に私のこと、どれぐらい\n分かってるか試してもいい？』\n\n@イージス\n『もし正解したら……私を……』\n\n# face %(unit_a)s \"angry\"\n# voice 5200011 \"aegis_c_0007\"\n@イージス\nこ、これ以上は正解してからだ…！\nい、いくぞ！！\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私の覚える付け替えスキルは\n知っているか？\n\n# se \"SE_0734\"\n# select \"ヘルの隠匿\" \"select_label_1\" \"ヘルの隠居\" \"select_label_2\" \"ヘルの隠蔽\" \"select_label_3\"\n私の覚える付け替えスキルは\n知っているか？\n"
+	},
+	{
+		"ID": 6280,
+		"unitID": 22000111,
+		"questionID": 92000128,
+		"script": ";;想定内だ,2\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n@イージス\nその…あの……\n\n# voice 5200011 \"aegis_c_0015\"\n@イージス\nえっと、こういう時の台本は…\n\n# textflame 0 0\n@\nサーフボードにトランスフォームした\n盾からノートを取り出すイージス\n\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n@イージス\nあ、あった！なになに…\n\n@イージス\n『今日はとっても楽しかったね』\n\n@イージス\n『最後に私のこと、どれぐらい\n分かってるか試してもいい？』\n\n@イージス\n『もし正解したら……私を……』\n\n# face %(unit_a)s \"angry\"\n# voice 5200011 \"aegis_c_0007\"\n@イージス\nこ、これ以上は正解してからだ…！\nい、いくぞ！！\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私の口癖はわかるか？\n\n# se \"SE_0734\"\n# select \"規格外だ\" \"select_label_1\" \"想定内だ\" \"select_label_2\" \"予定外だ\" \"select_label_3\"\n私の口癖はわかるか？\n"
+	},
+	{
+		"ID": 6281,
+		"unitID": 22000111,
+		"questionID": 92000129,
+		"script": ";;虚に刻む神の矜持,1\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n@イージス\nその…あの……\n\n# voice 5200011 \"aegis_c_0015\"\n@イージス\nえっと、こういう時の台本は…\n\n# textflame 0 0\n@\nサーフボードにトランスフォームした\n盾からノートを取り出すイージス\n\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n@イージス\nあ、あった！なになに…\n\n@イージス\n『今日はとっても楽しかったね』\n\n@イージス\n『最後に私のこと、どれぐらい\n分かってるか試してもいい？』\n\n@イージス\n『もし正解したら……私を……』\n\n# face %(unit_a)s \"angry\"\n# voice 5200011 \"aegis_c_0007\"\n@イージス\nこ、これ以上は正解してからだ…！\nい、いくぞ！！\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私が覚える解放スキルはわかるか？\n\n# se \"SE_0734\"\n# select \"虚に刻む神の矜持\" \"select_label_1\" \"虚に刻む神の銀二\" \"select_label_2\" \"虚に刻む神の欣一\" \"select_label_3\"\n私が覚える解放スキルはわかるか？\n"
+	},
+	{
+		"ID": 6282,
+		"unitID": 22000111,
+		"questionID": 92000130,
+		"script": ";;蒼の団結【冥界】,3\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n@イージス\nその…あの……\n\n# voice 5200011 \"aegis_c_0015\"\n@イージス\nえっと、こういう時の台本は…\n\n# textflame 0 0\n@\nサーフボードにトランスフォームした\n盾からノートを取り出すイージス\n\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n@イージス\nあ、あった！なになに…\n\n@イージス\n『今日はとっても楽しかったね』\n\n@イージス\n『最後に私のこと、どれぐらい\n分かってるか試してもいい？』\n\n@イージス\n『もし正解したら……私を……』\n\n# face %(unit_a)s \"angry\"\n# voice 5200011 \"aegis_c_0007\"\n@イージス\nこ、これ以上は正解してからだ…！\nい、いくぞ！！\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私が覚える付与スキルは\n知っているか？\n\n# se \"SE_0734\"\n# select \"蒼の団結【魔界】\" \"select_label_1\" \"蒼の団結【陰界】\" \"select_label_2\" \"蒼の団結【冥界】\" \"select_label_3\"\n私が覚える付与スキルは\n知っているか？\n"
+	},
+	{
+		"ID": 6283,
+		"unitID": 22000111,
+		"questionID": 92000131,
+		"script": ";;カオスリーパー,3\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 5200011 \"aegis_c_0002\"\n@イージス\n隊長、貴様に聞きたいことがっ…\n\n@イージス\nえっ、きゃあっ！\n\n# voice 5200011 \"aegis_c_0031\"\n@イージス\nご、ごめんなさいっ…\n決して抱き着いたわけじゃなくて…\n\n@イージス\nそう、身体検査！\n隊長に異常がないか確認しただけよ！\n問題なし！\n\n# textflame 0 0\n@\n慌てふためく彼女にマスターが尋ねる\nあの、聞きたいことって…？\n\n# textflame 1 1\n# voice 5200011 \"aegis_c_0022\"\n@イージス\nそ、そうだった！\n隊長が私のこと、\nどれくらい知ってるかクイズよ！\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私の好きな『カオちゃん』とは\n何のことかわかるな？\n\n# se \"SE_0734\"\n# select \"顔が牛の人\" \"select_label_1\" \"カオスビーバー\" \"select_label_2\" \"カオスリーパー\" \"select_label_3\"\n私の好きな『カオちゃん』とは\n何のことかわかるな？\n"
+	},
+	{
+		"ID": 6284,
+		"unitID": 22000111,
+		"questionID": 92000132,
+		"script": ";;July,1\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 5200011 \"aegis_c_0002\"\n@イージス\n隊長、貴様に聞きたいことがっ…\n\n@イージス\nえっ、きゃあっ！\n\n# voice 5200011 \"aegis_c_0031\"\n@イージス\nご、ごめんなさいっ…\n決して抱き着いたわけじゃなくて…\n\n@イージス\nそう、身体検査！\n隊長に異常がないか確認しただけよ！\n問題なし！\n\n# textflame 0 0\n@\n慌てふためく彼女にマスターが尋ねる\nあの、聞きたいことって…？\n\n# textflame 1 1\n# voice 5200011 \"aegis_c_0022\"\n@イージス\nそ、そうだった！\n隊長が私のこと、\nどれくらい知ってるかクイズよ！\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私の誕生月を英語で言うと…？\n\n# se \"SE_0734\"\n# select \"July\" \"select_label_1\" \"January\" \"select_label_2\" \"September\" \"select_label_3\"\n私の誕生月を英語で言うと…？\n"
+	},
+	{
+		"ID": 6285,
+		"unitID": 22000111,
+		"questionID": 92000133,
+		"script": ";;アテナの祭り,3\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 5200011 \"aegis_c_0002\"\n@イージス\n隊長、貴様に聞きたいことがっ…\n\n@イージス\nえっ、きゃあっ！\n\n# voice 5200011 \"aegis_c_0031\"\n@イージス\nご、ごめんなさいっ…\n決して抱き着いたわけじゃなくて…\n\n@イージス\nそう、身体検査！\n隊長に異常がないか確認しただけよ！\n問題なし！\n\n# textflame 0 0\n@\n慌てふためく彼女にマスターが尋ねる\nあの、聞きたいことって…？\n\n# textflame 1 1\n# voice 5200011 \"aegis_c_0022\"\n@イージス\nそ、そうだった！\n隊長が私のこと、\nどれくらい知ってるかクイズよ！\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私の誕生日に\n行われていた祭りはわかるか？\n\n# se \"SE_0734\"\n# select \"デビルの祭り\" \"select_label_1\" \"テヘナの祭り\" \"select_label_2\" \"アテナの祭り\" \"select_label_3\"\n私の誕生日に\n行われていた祭りはわかるか？\n"
+	},
+	{
+		"ID": 6286,
+		"unitID": 22000111,
+		"questionID": 92000134,
+		"script": ";;アポロン,1\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 5200011 \"aegis_c_0002\"\n@イージス\n隊長、貴様に聞きたいことがっ…\n\n@イージス\nえっ、きゃあっ！\n\n# voice 5200011 \"aegis_c_0031\"\n@イージス\nご、ごめんなさいっ…\n決して抱き着いたわけじゃなくて…\n\n@イージス\nそう、身体検査！\n隊長に異常がないか確認しただけよ！\n問題なし！\n\n# textflame 0 0\n@\n慌てふためく彼女にマスターが尋ねる\nあの、聞きたいことって…？\n\n# textflame 1 1\n# voice 5200011 \"aegis_c_0022\"\n@イージス\nそ、そうだった！\n隊長が私のこと、\nどれくらい知ってるかクイズよ！\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私と誕生月が同じなのは誰だ？\n\n# se \"SE_0734\"\n# select \"アポロン\" \"select_label_1\" \"オティヌス\" \"select_label_2\" \"ロンゴミアント\" \"select_label_3\"\n私と誕生月が同じなのは誰だ？\n"
+	},
+	{
+		"ID": 6287,
+		"unitID": 22000111,
+		"questionID": 92000135,
+		"script": ";;Leo,1\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 5200011 \"aegis_c_0002\"\n@イージス\n隊長、貴様に聞きたいことがっ…\n\n@イージス\nえっ、きゃあっ！\n\n# voice 5200011 \"aegis_c_0031\"\n@イージス\nご、ごめんなさいっ…\n決して抱き着いたわけじゃなくて…\n\n@イージス\nそう、身体検査！\n隊長に異常がないか確認しただけよ！\n問題なし！\n\n# textflame 0 0\n@\n慌てふためく彼女にマスターが尋ねる\nあの、聞きたいことって…？\n\n# textflame 1 1\n# voice 5200011 \"aegis_c_0022\"\n@イージス\nそ、そうだった！\n隊長が私のこと、\nどれくらい知ってるかクイズよ！\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私の星座を英語で言うと？\n\n# se \"SE_0734\"\n# select \"Leo\" \"select_label_1\" \"Capricorn\" \"select_label_2\" \"Aquarius\" \"select_label_3\"\n私の星座を英語で言うと？\n"
+	},
+	{
+		"ID": 6288,
+		"unitID": 22000111,
+		"questionID": 92000136,
+		"script": ";;腐敗している,1\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 5200011 \"aegis_c_0002\"\n@イージス\n隊長、貴様に聞きたいことがっ…\n\n@イージス\nえっ、きゃあっ！\n\n# voice 5200011 \"aegis_c_0031\"\n@イージス\nご、ごめんなさいっ…\n決して抱き着いたわけじゃなくて…\n\n@イージス\nそう、身体検査！\n隊長に異常がないか確認しただけよ！\n問題なし！\n\n# textflame 0 0\n@\n慌てふためく彼女にマスターが尋ねる\nあの、聞きたいことって…？\n\n# textflame 1 1\n# voice 5200011 \"aegis_c_0022\"\n@イージス\nそ、そうだった！\n隊長が私のこと、\nどれくらい知ってるかクイズよ！\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私の名にある『ヘル』の\n半身はどうなっている？\n\n# se \"SE_0734\"\n# select \"腐敗している\" \"select_label_1\" \"花が咲いている\" \"select_label_2\" \"石化している\" \"select_label_3\"\n私の名にある『ヘル』の\n半身はどうなっている？\n"
+	},
+	{
+		"ID": 6289,
+		"unitID": 22000111,
+		"questionID": 92000137,
+		"script": ";;シミュレーションノート,3\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 5200011 \"aegis_c_0002\"\n@イージス\n隊長、貴様に聞きたいことがっ…\n\n@イージス\nえっ、きゃあっ！\n\n# voice 5200011 \"aegis_c_0031\"\n@イージス\nご、ごめんなさいっ…\n決して抱き着いたわけじゃなくて…\n\n@イージス\nそう、身体検査！\n隊長に異常がないか確認しただけよ！\n問題なし！\n\n# textflame 0 0\n@\n慌てふためく彼女にマスターが尋ねる\nあの、聞きたいことって…？\n\n# textflame 1 1\n# voice 5200011 \"aegis_c_0022\"\n@イージス\nそ、そうだった！\n隊長が私のこと、\nどれくらい知ってるかクイズよ！\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私の趣味はこれを作成することだな…\n\n# se \"SE_0734\"\n# select \"ウエディングノート\" \"select_label_1\" \"エンディングノート\" \"select_label_2\" \"シミュレーションノート\" \"select_label_3\"\n私の趣味はこれを作成することだな…\n"
+	},
+	{
+		"ID": 6290,
+		"unitID": 22000111,
+		"questionID": 92000138,
+		"script": ";;パラシュ,3\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 5200011 \"aegis_c_0002\"\n@イージス\n隊長、貴様に聞きたいことがっ…\n\n@イージス\nえっ、きゃあっ！\n\n# voice 5200011 \"aegis_c_0031\"\n@イージス\nご、ごめんなさいっ…\n決して抱き着いたわけじゃなくて…\n\n@イージス\nそう、身体検査！\n隊長に異常がないか確認しただけよ！\n問題なし！\n\n# textflame 0 0\n@\n慌てふためく彼女にマスターが尋ねる\nあの、聞きたいことって…？\n\n# textflame 1 1\n# voice 5200011 \"aegis_c_0022\"\n@イージス\nそ、そうだった！\n隊長が私のこと、\nどれくらい知ってるかクイズよ！\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私と同じ血液型なのは？\n\n# se \"SE_0734\"\n# select \"レーヴァテイン\" \"select_label_1\" \"グラム\" \"select_label_2\" \"パラシュ\" \"select_label_3\"\n私と同じ血液型なのは？\n"
+	},
+	{
+		"ID": 6291,
+		"unitID": 22000111,
+		"questionID": 92000139,
+		"script": ";;レーヴァテイン,2\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 5200011 \"aegis_c_0002\"\n@イージス\n隊長、貴様に聞きたいことがっ…\n\n@イージス\nえっ、きゃあっ！\n\n# voice 5200011 \"aegis_c_0031\"\n@イージス\nご、ごめんなさいっ…\n決して抱き着いたわけじゃなくて…\n\n@イージス\nそう、身体検査！\n隊長に異常がないか確認しただけよ！\n問題なし！\n\n# textflame 0 0\n@\n慌てふためく彼女にマスターが尋ねる\nあの、聞きたいことって…？\n\n# textflame 1 1\n# voice 5200011 \"aegis_c_0022\"\n@イージス\nそ、そうだった！\n隊長が私のこと、\nどれくらい知ってるかクイズよ！\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私と違う血液型なのは\n誰かわかるか？\n\n# se \"SE_0734\"\n# select \"パラシュ\" \"select_label_1\" \"レーヴァテイン\" \"select_label_2\" \"アスカロン\" \"select_label_3\"\n私と違う血液型なのは\n誰かわかるか？\n"
+	},
+	{
+		"ID": 6292,
+		"unitID": 22000111,
+		"questionID": 92000140,
+		"script": ";;ワズラ,3\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 5200011 \"aegis_c_0002\"\n@イージス\n隊長、貴様に聞きたいことがっ…\n\n@イージス\nえっ、きゃあっ！\n\n# voice 5200011 \"aegis_c_0031\"\n@イージス\nご、ごめんなさいっ…\n決して抱き着いたわけじゃなくて…\n\n@イージス\nそう、身体検査！\n隊長に異常がないか確認しただけよ！\n問題なし！\n\n# textflame 0 0\n@\n慌てふためく彼女にマスターが尋ねる\nあの、聞きたいことって…？\n\n# textflame 1 1\n# voice 5200011 \"aegis_c_0022\"\n@イージス\nそ、そうだった！\n隊長が私のこと、\nどれくらい知ってるかクイズよ！\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私と違う誕生月なのは\n誰かわかるか？\n\n# se \"SE_0734\"\n# select \"アポロン\" \"select_label_1\" \"アイムール\" \"select_label_2\" \"ワズラ\" \"select_label_3\"\n私と違う誕生月なのは\n誰かわかるか？\n"
+	},
+	{
+		"ID": 6293,
+		"unitID": 22000111,
+		"questionID": 92000141,
+		"script": "\n;;私,1\n# se \"SE_0734\"\n# select \"私\" \"select_label_1\" \"オレ\" \"select_label_2\" \"拙者\" \"select_label_3\"\nイージスの一人称は\n次のうちどれ？\n"
+	},
+	{
+		"ID": 6294,
+		"unitID": 22000111,
+		"questionID": 92000142,
+		"script": "\n;;隊長,2\n# se \"SE_0734\"\n# select \"ユー\" \"select_label_1\" \"隊長\" \"select_label_2\" \"アンタ\" \"select_label_3\"\nイージスはあなたのこと、\nなんて呼んでる？\n"
+	},
+	{
+		"ID": 6295,
+		"unitID": 22000111,
+		"questionID": 92000143,
+		"script": "\n;;84cm,2\n# se \"SE_0734\"\n# select \"85cm\" \"select_label_1\" \"84cm\" \"select_label_2\" \"86cm\" \"select_label_3\"\nイージスの\nバストサイズがどのくらいか\nあなたは知ってるの？\n"
+	},
+	{
+		"ID": 6296,
+		"unitID": 22000111,
+		"questionID": 92000144,
+		"script": "\n;;57cm,1\n# se \"SE_0734\"\n# select \"57cm\" \"select_label_1\" \"60cm\" \"select_label_2\" \"62cm\" \"select_label_3\"\nイージスの\nウエストサイズがどのくらいか\nあなたは知ってるの？\n"
+	},
+	{
+		"ID": 6297,
+		"unitID": 22000111,
+		"questionID": 92000145,
+		"script": "\n;;82cm,2\n# se \"SE_0734\"\n# select \"85cm\" \"select_label_1\" \"82cm\" \"select_label_2\" \"87cm\" \"select_label_3\"\nイージスの\nヒップサイズがどのくらいか\nあなたは知ってるの？\n"
+	},
+	{
+		"ID": 6298,
+		"unitID": 22000111,
+		"questionID": 92000146,
+		"script": "\n;;48ｋｇ,3\n# se \"SE_0734\"\n# select \"51kg\" \"select_label_1\" \"44kg\" \"select_label_2\" \"48ｋｇ\" \"select_label_3\"\nイージスの体重は\n次のうちどれ？\n"
+	},
+	{
+		"ID": 6299,
+		"unitID": 22000111,
+		"questionID": 92000147,
+		"script": "\n;;223,1\n# se \"SE_0734\"\n# select \"223\" \"select_label_1\" \"226\" \"select_label_2\" \"230\" \"select_label_3\"\nイージスの\nバスト＋ウエスト＋ヒップは\nいくつかわかる？\n"
+	},
+	{
+		"ID": 6300,
+		"unitID": 22000111,
+		"questionID": 92000148,
+		"script": "\n;;紅色,1\n# se \"SE_0734\"\n# select \"紅色\" \"select_label_1\" \"青色\" \"select_label_2\" \"シルバー\" \"select_label_3\"\nイージスの髪の色は\n次のうちどれ？\n"
+	},
+	{
+		"ID": 6301,
+		"unitID": 22000111,
+		"questionID": 92000149,
+		"script": "\n;;参加していない,3\n# se \"SE_0734\"\n# select \"4位\" \"select_label_1\" \"15位\" \"select_label_2\" \"参加していない\" \"select_label_3\"\nイージスは\n第5回人気投票で\n何位だったでしょう？\n"
+	},
+	{
+		"ID": 6302,
+		"unitID": 22000111,
+		"questionID": 92000150,
+		"script": "\n;;福緒唯,3\n# se \"SE_0734\"\n# select \"近藤玲奈\" \"select_label_1\" \"鷲見友美ジェナ\" \"select_label_2\" \"福緒唯\" \"select_label_3\"\nイージスの声優は誰？\n"
+	}
+]

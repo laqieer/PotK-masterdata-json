@@ -1,0 +1,62 @@
+[
+	{
+		"ID": 138,
+		"name": "☆",
+		"index": 0,
+		"sell_rarity_medal": 0,
+		"skill_levelup_rate": 100,
+		"indicator_level_rate": 1.0,
+		"reincarnation_level": 2,
+		"trust_rate": 0.009999999776482582
+	},
+	{
+		"ID": 167,
+		"name": "☆☆",
+		"index": 1,
+		"sell_rarity_medal": 0,
+		"skill_levelup_rate": 100,
+		"indicator_level_rate": 1.0,
+		"reincarnation_level": 2,
+		"trust_rate": 0.019999999552965164
+	},
+	{
+		"ID": 383,
+		"name": "☆☆☆",
+		"index": 2,
+		"sell_rarity_medal": 3,
+		"skill_levelup_rate": 100,
+		"indicator_level_rate": 1.0,
+		"reincarnation_level": 2,
+		"trust_rate": 0.029999999329447746
+	},
+	{
+		"ID": 642,
+		"name": "☆☆☆☆",
+		"index": 3,
+		"sell_rarity_medal": 10,
+		"skill_levelup_rate": 100,
+		"indicator_level_rate": 1.0,
+		"reincarnation_level": 2,
+		"trust_rate": 0.05000000074505806
+	},
+	{
+		"ID": 803,
+		"name": "☆☆☆☆☆",
+		"index": 4,
+		"sell_rarity_medal": 20,
+		"skill_levelup_rate": 100,
+		"indicator_level_rate": 1.0,
+		"reincarnation_level": 2,
+		"trust_rate": 0.20000000298023224
+	},
+	{
+		"ID": 991,
+		"name": "☆☆☆☆☆☆",
+		"index": 5,
+		"sell_rarity_medal": 30,
+		"skill_levelup_rate": 100,
+		"indicator_level_rate": 1.0,
+		"reincarnation_level": 2,
+		"trust_rate": 0.20000000298023224
+	}
+]

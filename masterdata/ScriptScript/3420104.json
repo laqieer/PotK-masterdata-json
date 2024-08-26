@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 3420104,
+		"script": "# script \"lisp\"\n# background \"flower_garden\"\n# bgm \"bgm005\" 0\n# body 101413\n# pos 101413 2\n# face 101413 \"angry\"\n# body 0\n# pos 0 4\n# serif 0\n# face 0 \"sad\"\n# textflame 1 1\n# textboxarrow 0 3\n# voice 9999 \"durin_0028\"\n@デュリン\nう〜ん、でもちょっと足りなくない？\nマナンがいないわ…\n\n# serif 1\n# textflame 1 1\n# textboxarrow 1 1\n@ティルフィング\nまだこの先に強敵がいそうです\nそこからも気配がします…\n\n# face 0 \"normal\"\n# serif 0\n# voice 9999 \"durin_0040\"\n@デュリン\nなるほど、ちゃんといるんじゃない\nじゃあ、早速\nマナン収集に行きましょ！\n\n# face 101413 \"sad\"\n# serif 1\n@ティルフィング\nあ、でも…私、まだ…\n新しいジョブにつけるほど…\n\n# serif 0\n# voice 9999 \"durin_0037\"\n@デュリン\nあ、そうだったわね\nじゃあ、しっかり強化してから\n次に向かいましょ！！\n\n# face 0 \"usual\"\n# serif 0\n# voice 9999 \"durin_0004\"\n@デュリン\nふふ、ティルとも随分\n長い付き合いだけど…\n\n# face 0 \"happy\"\n# serif 0\n# voice 9999 \"durin_0046\"\n@デュリン\nアンタが成長していく姿を\n見るのはいいわね！\n\n# face 101413 \"shy\"\n# serif 1\n# voice 1014 \"tyrufing_0066\"\n@ティルフィング\nデュリン…\n\n# face 0 \"usual\"\n# serif 0\n# voice 9999 \"durin_0045\"\n@デュリン\nしっかり強化して\nアイツに新しいアンタを\n見せつけちゃいましょ！\n\n# face 101413 \"surprised\"\n# serif 1\n# voice 1014 \"tyrufing_0043\"\n@ティルフィング\nねえ、デュリン…アイツって…\nディーンのことですか？\n\n# face 0 \"angry\"\n# serif 0\n# voice 9999 \"durin_0052\"\n@デュリン\nちょ、なんでよ！！\n\n# face 0 \"worry\"\n# serif 0\n# voice 9999 \"durin_0027\"\n@デュリン\nまったく…\nこういうところは\nなかなか成長しないもんねえ…"
+	}
+]

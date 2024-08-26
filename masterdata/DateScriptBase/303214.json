@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 303214,
+		"script": ";;小Cあえて褒めない\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_ferris\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# face %(unit_a)s \"sad\"\n# voice 230321 \"gaedearg_ge_0022\"\n# textflame 1 1\n@ガ・ジャルグ\nえ、景色が綺麗…？\nまあ、そうね\nわたしほどじゃないけど\n\n# voice 230321 \"gaedearg_ge_0028\"\n@ガ・ジャルグ\n次はどこに行こうかって？\nええと、どうしようかしら…？\n\n# face %(unit_a)s \"angry\"\n@ガ・ジャルグ\n…ねえ、マスター\nあなたわざと\n話題を変えてるでしょう？\n\n@ガ・ジャルグ\nあっ、目をそらした！\nやっぱりそうなのね…！\n\n@ガ・ジャルグ\nねえっ、なんで\n褒めてくれないの！？\n\n@ガ・ジャルグ\nいつもはちゃんと\n褒めてくれるじゃないっ、\nなんで今だけ…！\n\n# voice 230321 \"gaedearg_ge_0009\"\n@ガ・ジャルグ\nな、なに笑ってるの…\n\n# voice 230321 \"gaedearg_ge_0042\"\n@ガ・ジャルグ\nううっ、なによっ！\nわたしを困らせるのが\nそんなに面白い…！？\n\n@ガ・ジャルグ\nもういいっ！\nあなたとはもう\n一緒にいてあげない…！\n\n@ガ・ジャルグ\nふんっ…！\nいまさらそんな風に\n謝ったって…\n\n@ガ・ジャルグ\n…………\n\n# face %(unit_a)s \"sad\"\n# voice 230321 \"gaedearg_ge_0028\"\n@ガ・ジャルグ\n…今日の、帰り道…\n\n@ガ・ジャルグ\nたくさんわたしを\n褒めてくれないと…\n許さないんだからっ…！\n\n# textflame 0 0\n@\n観覧車を降りて\n帰路についた二人\n\n# textflame 0 0\n@\n不機嫌な顔をしつつも、\n褒められる嬉しさを隠せない\nガ・ジャルグだった\n\n;;-----------------------------------------\n# waitandnext 2\n# fadeout \"black\" 1.2\n"
+	}
+]

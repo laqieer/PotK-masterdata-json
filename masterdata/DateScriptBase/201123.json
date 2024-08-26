@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 201123,
+		"script": ";;C 覚悟はよろしいですか？\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_room\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n# voice 2011 \"Wazra_0003\"\n@ワズラ\nもちろんです…\n契約において一番大事なもの\nそれは覚悟！\n\n# face %(unit_a)s \"sad\"\n# voice 2011 \"Wazra_0015\"\n@ワズラ\n契約方法について\n事前確認をしていなかったのは\n今回最大の落ち度ですが…\n\n# textflame 0 0\n@\nワズラの声は\n緊張で若干上ずっている…\n\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n@ワズラ\nマスターとの本契約ならば！\nどんな条件でも！\n受け入れましょう！！\n\n# face %(unit_a)s \"angry\"\n# voice 2011 \"Wazra_0036\"\n@ワズラ\nさぁどうぞ…\n契約の場において\nワズラに二言はありません！\n\n# textflame 0 0\n@\nワズラの気合いに押されながら…\nそっと右手を差し出して\n\n# textflame 0 0\n@\n信頼の握手を求める、\nマスターだった…\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

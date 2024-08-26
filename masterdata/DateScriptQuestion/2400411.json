@@ -1,0 +1,302 @@
+[
+	{
+		"ID": 3401,
+		"unitID": 2400411,
+		"questionID": 9400401,
+		"script": ";;愛の神,1\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# voice 4004 \"erosu_0001\"\n@エロース\nねぇねぇマスター\nクイズ、しませんっ？\n\n# voice 4004 \"erosu_0004\"\n@エロース\nふふっ\n別に難しいことじゃ\nありませんよぉ\n\n# face %(unit_a)s \"usual\"\n@エロース\nこれは、マスターがエロースのこと\nどれだけ知ってるかのテストですぅ\n\n# face %(unit_a)s \"smile\"\n@エロース\nいつもエロースと一緒にいる\nマスターなら大丈夫です♪\n\n# voice 4004 \"erosu_0036\"\n@エロース\nきっと、全部正解できますよ～\n;;---------------------------------\n\n@%(unitName:unit_a)s\nさてさて～\nキラーズ『エロース』の持ち主は\nなんの神様でしょ～？\n\n# se \"SE_0734\"\n# select \"愛の神\" \"select_label_1\" \"恋愛の神\" \"select_label_2\" \"破壊の神\" \"select_label_3\"\nさてさて～\nキラーズ『エロース』の持ち主は\nなんの神様でしょ～？\n"
+	},
+	{
+		"ID": 3402,
+		"unitID": 2400411,
+		"questionID": 9400402,
+		"script": ";;弓,2\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# voice 4004 \"erosu_0001\"\n@エロース\nねぇねぇマスター\nクイズ、しませんっ？\n\n# voice 4004 \"erosu_0004\"\n@エロース\nふふっ\n別に難しいことじゃ\nありませんよぉ\n\n# face %(unit_a)s \"usual\"\n@エロース\nこれは、マスターがエロースのこと\nどれだけ知ってるかのテストですぅ\n\n# face %(unit_a)s \"smile\"\n@エロース\nいつもエロースと一緒にいる\nマスターなら大丈夫です♪\n\n# voice 4004 \"erosu_0036\"\n@エロース\nきっと、全部正解できますよ～\n;;---------------------------------\n\n@%(unitName:unit_a)s\nキラーズ『エロース』はぁ\nどんな武器でしょうかぁ？\n\n# se \"SE_0734\"\n# select \"剣\" \"select_label_1\" \"弓\" \"select_label_2\" \"槍\" \"select_label_3\"\nキラーズ『エロース』はぁ\nどんな武器でしょうかぁ？\n"
+	},
+	{
+		"ID": 3403,
+		"unitID": 2400411,
+		"questionID": 9400403,
+		"script": ";;黄金でできた矢,3\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# voice 4004 \"erosu_0001\"\n@エロース\nねぇねぇマスター\nクイズ、しませんっ？\n\n# voice 4004 \"erosu_0004\"\n@エロース\nふふっ\n別に難しいことじゃ\nありませんよぉ\n\n# face %(unit_a)s \"usual\"\n@エロース\nこれは、マスターがエロースのこと\nどれだけ知ってるかのテストですぅ\n\n# face %(unit_a)s \"smile\"\n@エロース\nいつもエロースと一緒にいる\nマスターなら大丈夫です♪\n\n# voice 4004 \"erosu_0036\"\n@エロース\nきっと、全部正解できますよ～\n;;---------------------------------\n\n@%(unitName:unit_a)s\nキラーズ『エロース』はぁ\n鉛でできた矢ともうひとつ\nどんなものがあるでしょ～？\n\n# se \"SE_0734\"\n# select \"チタンでできた矢\" \"select_label_1\" \"鋼でできた矢\" \"select_label_2\" \"黄金でできた矢\" \"select_label_3\"\nキラーズ『エロース』はぁ\n鉛でできた矢ともうひとつ\nどんなものがあるでしょ～？\n"
+	},
+	{
+		"ID": 3404,
+		"unitID": 2400411,
+		"questionID": 9400404,
+		"script": ";;愛情にとりつかれる,1\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# voice 4004 \"erosu_0001\"\n@エロース\nねぇねぇマスター\nクイズ、しませんっ？\n\n# voice 4004 \"erosu_0004\"\n@エロース\nふふっ\n別に難しいことじゃ\nありませんよぉ\n\n# face %(unit_a)s \"usual\"\n@エロース\nこれは、マスターがエロースのこと\nどれだけ知ってるかのテストですぅ\n\n# face %(unit_a)s \"smile\"\n@エロース\nいつもエロースと一緒にいる\nマスターなら大丈夫です♪\n\n# voice 4004 \"erosu_0036\"\n@エロース\nきっと、全部正解できますよ～\n;;---------------------------------\n\n@%(unitName:unit_a)s\nキラーズ『エロース』の\n黄金の矢で射られちゃった人はぁ\nどうなっちゃうでしょ～？\n\n# se \"SE_0734\"\n# select \"愛情にとりつかれる\" \"select_label_1\" \"死ぬ\" \"select_label_2\" \"夢を見る\" \"select_label_3\"\nキラーズ『エロース』の\n黄金の矢で射られちゃった人はぁ\nどうなっちゃうでしょ～？\n"
+	},
+	{
+		"ID": 3405,
+		"unitID": 2400411,
+		"questionID": 9400405,
+		"script": ";;恋を嫌悪する,2\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# voice 4004 \"erosu_0001\"\n@エロース\nねぇねぇマスター\nクイズ、しませんっ？\n\n# voice 4004 \"erosu_0004\"\n@エロース\nふふっ\n別に難しいことじゃ\nありませんよぉ\n\n# face %(unit_a)s \"usual\"\n@エロース\nこれは、マスターがエロースのこと\nどれだけ知ってるかのテストですぅ\n\n# face %(unit_a)s \"smile\"\n@エロース\nいつもエロースと一緒にいる\nマスターなら大丈夫です♪\n\n# voice 4004 \"erosu_0036\"\n@エロース\nきっと、全部正解できますよ～\n;;---------------------------------\n\n@%(unitName:unit_a)s\nキラーズ『エロース』の\n鉛の矢で射られちゃった人はぁ\nどうなっちゃうでしょ～？\n\n# se \"SE_0734\"\n# select \"射った人を好きになる\" \"select_label_1\" \"恋を嫌悪する\" \"select_label_2\" \"妄想する\" \"select_label_3\"\nキラーズ『エロース』の\n鉛の矢で射られちゃった人はぁ\nどうなっちゃうでしょ～？\n"
+	},
+	{
+		"ID": 3406,
+		"unitID": 2400411,
+		"questionID": 9400406,
+		"script": ";;アフロディーテ,3\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# voice 4004 \"erosu_0001\"\n@エロース\nねぇねぇマスター\nクイズ、しませんっ？\n\n# voice 4004 \"erosu_0004\"\n@エロース\nふふっ\n別に難しいことじゃ\nありませんよぉ\n\n# face %(unit_a)s \"usual\"\n@エロース\nこれは、マスターがエロースのこと\nどれだけ知ってるかのテストですぅ\n\n# face %(unit_a)s \"smile\"\n@エロース\nいつもエロースと一緒にいる\nマスターなら大丈夫です♪\n\n# voice 4004 \"erosu_0036\"\n@エロース\nきっと、全部正解できますよ～\n;;---------------------------------\n\n@%(unitName:unit_a)s\nキラーズ『エロース』の\nお母さんが誰だかわかりますかぁ？\n\n# se \"SE_0734\"\n# select \"アテナ\" \"select_label_1\" \"アルテミス\" \"select_label_2\" \"アフロディーテ\" \"select_label_3\"\nキラーズ『エロース』の\nお母さんが誰だかわかりますかぁ？\n"
+	},
+	{
+		"ID": 3407,
+		"unitID": 2400411,
+		"questionID": 9400407,
+		"script": ";;プシュケー,1\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# voice 4004 \"erosu_0001\"\n@エロース\nねぇねぇマスター\nクイズ、しませんっ？\n\n# voice 4004 \"erosu_0004\"\n@エロース\nふふっ\n別に難しいことじゃ\nありませんよぉ\n\n# face %(unit_a)s \"usual\"\n@エロース\nこれは、マスターがエロースのこと\nどれだけ知ってるかのテストですぅ\n\n# face %(unit_a)s \"smile\"\n@エロース\nいつもエロースと一緒にいる\nマスターなら大丈夫です♪\n\n# voice 4004 \"erosu_0036\"\n@エロース\nきっと、全部正解できますよ～\n;;---------------------------------\n\n@%(unitName:unit_a)s\nキラーズ『エロース』の持ち主が\n鉛の矢で射かけようとしたのは\n一体誰でしょ～？\n\n# se \"SE_0734\"\n# select \"プシュケー\" \"select_label_1\" \"ゼウス\" \"select_label_2\" \"アポロン\" \"select_label_3\"\nキラーズ『エロース』の持ち主が\n鉛の矢で射かけようとしたのは\n一体誰でしょ～？\n"
+	},
+	{
+		"ID": 3408,
+		"unitID": 2400411,
+		"questionID": 9400408,
+		"script": ";;黄金の矢が自分に当たった,2\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# voice 4004 \"erosu_0001\"\n@エロース\nねぇねぇマスター\nクイズ、しませんっ？\n\n# voice 4004 \"erosu_0004\"\n@エロース\nふふっ\n別に難しいことじゃ\nありませんよぉ\n\n# face %(unit_a)s \"usual\"\n@エロース\nこれは、マスターがエロースのこと\nどれだけ知ってるかのテストですぅ\n\n# face %(unit_a)s \"smile\"\n@エロース\nいつもエロースと一緒にいる\nマスターなら大丈夫です♪\n\n# voice 4004 \"erosu_0036\"\n@エロース\nきっと、全部正解できますよ～\n;;---------------------------------\n\n@%(unitName:unit_a)s\nキラーズ『エロース』の持ち主は\nプシュケーに恋をするんですけどぉ\nそれはどうしてでしょうかぁ？\n\n# se \"SE_0734\"\n# select \"占い\" \"select_label_1\" \"黄金の矢が自分に当たった\" \"select_label_2\" \"鉛の矢が自分に当たった\" \"select_label_3\"\nキラーズ『エロース』の持ち主は\nプシュケーに恋をするんですけどぉ\nそれはどうしてでしょうかぁ？\n"
+	},
+	{
+		"ID": 3409,
+		"unitID": 2400411,
+		"questionID": 9400409,
+		"script": ";;冥界,3\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# voice 4004 \"erosu_0001\"\n@エロース\nねぇねぇマスター\nクイズ、しませんっ？\n\n# voice 4004 \"erosu_0004\"\n@エロース\nふふっ\n別に難しいことじゃ\nありませんよぉ\n\n# face %(unit_a)s \"usual\"\n@エロース\nこれは、マスターがエロースのこと\nどれだけ知ってるかのテストですぅ\n\n# face %(unit_a)s \"smile\"\n@エロース\nいつもエロースと一緒にいる\nマスターなら大丈夫です♪\n\n# voice 4004 \"erosu_0036\"\n@エロース\nきっと、全部正解できますよ～\n;;---------------------------------\n\n@%(unitName:unit_a)s\nキラーズ『エロース』の持ち主が\n離れ離れになってしまった恋人と\n再会したのはどこでしょ～？\n\n# se \"SE_0734\"\n# select \"地上\" \"select_label_1\" \"天界\" \"select_label_2\" \"冥界\" \"select_label_3\"\nキラーズ『エロース』の持ち主が\n離れ離れになってしまった恋人と\n再会したのはどこでしょ～？\n"
+	},
+	{
+		"ID": 3410,
+		"unitID": 2400411,
+		"questionID": 9400410,
+		"script": ";;足,1\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# voice 4004 \"erosu_0001\"\n@エロース\nねぇねぇマスター\nクイズ、しませんっ？\n\n# voice 4004 \"erosu_0004\"\n@エロース\nふふっ\n別に難しいことじゃ\nありませんよぉ\n\n# face %(unit_a)s \"usual\"\n@エロース\nこれは、マスターがエロースのこと\nどれだけ知ってるかのテストですぅ\n\n# face %(unit_a)s \"smile\"\n@エロース\nいつもエロースと一緒にいる\nマスターなら大丈夫です♪\n\n# voice 4004 \"erosu_0036\"\n@エロース\nきっと、全部正解できますよ～\n;;---------------------------------\n\n@%(unitName:unit_a)s\nキラーズ『エロース』の持ち主は\n自分に矢をあてちゃうんですけどぉ\nそれは身体のどこでしょうかぁ？\n\n# se \"SE_0734\"\n# select \"足\" \"select_label_1\" \"腕\" \"select_label_2\" \"肩\" \"select_label_3\"\nキラーズ『エロース』の持ち主は\n自分に矢をあてちゃうんですけどぉ\nそれは身体のどこでしょうかぁ？\n"
+	},
+	{
+		"ID": 3411,
+		"unitID": 2400411,
+		"questionID": 9400411,
+		"script": ";;光,1\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 4004 \"erosu_0001\"\n@エロース\nさて、マスター♪\nクイズのお時間ですよ～♪\n\n# voice 4004 \"erosu_0022\"\n# face %(unit_a)s \"sad\"\n@エロース\nむむ？\nなんですか？\nその不思議そうな表情は～\n\n@エロース\nえ？\n急でびっくりした…？\n\n# face %(unit_a)s \"smile\"\n@エロース\nもう、なにを言ってるんですかぁ\n恋はいつだって、突然始まるんです\n\n# face %(unit_a)s \"usual\"\n@エロース\nだったら、クイズだって\n急に始まっていいですよねぇ？\n\n# face %(unit_a)s \"smile\"\n@エロース\nえへっ、さすがに今のは\nちょっと強引でしたかぁ？\n\n# voice 4004 \"erosu_0004\"\n@エロース\nでもま、いいじゃないですかぁ♪\nエロースと、クイズしましょ？\nえへっ♪\n;;---------------------------------\n\n@%(unitName:unit_a)s\nねぇ、マスター？\nエロースの属性はどれか\nすぐわかりますよねぇ？\n\n# se \"SE_0734\"\n# select \"光\" \"select_label_1\" \"風\" \"select_label_2\" \"炎\" \"select_label_3\"\nねぇ、マスター？\nエロースの属性はどれか\nすぐわかりますよねぇ？\n"
+	},
+	{
+		"ID": 3412,
+		"unitID": 2400411,
+		"questionID": 9400412,
+		"script": ";;8月13日,2\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 4004 \"erosu_0001\"\n@エロース\nさて、マスター♪\nクイズのお時間ですよ～♪\n\n# voice 4004 \"erosu_0022\"\n# face %(unit_a)s \"sad\"\n@エロース\nむむ？\nなんですか？\nその不思議そうな表情は～\n\n@エロース\nえ？\n急でびっくりした…？\n\n# face %(unit_a)s \"smile\"\n@エロース\nもう、なにを言ってるんですかぁ\n恋はいつだって、突然始まるんです\n\n# face %(unit_a)s \"usual\"\n@エロース\nだったら、クイズだって\n急に始まっていいですよねぇ？\n\n# face %(unit_a)s \"smile\"\n@エロース\nえへっ、さすがに今のは\nちょっと強引でしたかぁ？\n\n# voice 4004 \"erosu_0004\"\n@エロース\nでもま、いいじゃないですかぁ♪\nエロースと、クイズしましょ？\nえへっ♪\n;;---------------------------------\n\n@%(unitName:unit_a)s\nマスターはぁ\nエロースの誕生日がいつか\n知ってますかぁ？\n\n# se \"SE_0734\"\n# select \"2月14日\" \"select_label_1\" \"8月13日\" \"select_label_2\" \"11月11日\" \"select_label_3\"\nマスターはぁ\nエロースの誕生日がいつか\n知ってますかぁ？\n"
+	},
+	{
+		"ID": 3413,
+		"unitID": 2400411,
+		"questionID": 9400413,
+		"script": ";;しし座,3\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 4004 \"erosu_0001\"\n@エロース\nさて、マスター♪\nクイズのお時間ですよ～♪\n\n# voice 4004 \"erosu_0022\"\n# face %(unit_a)s \"sad\"\n@エロース\nむむ？\nなんですか？\nその不思議そうな表情は～\n\n@エロース\nえ？\n急でびっくりした…？\n\n# face %(unit_a)s \"smile\"\n@エロース\nもう、なにを言ってるんですかぁ\n恋はいつだって、突然始まるんです\n\n# face %(unit_a)s \"usual\"\n@エロース\nだったら、クイズだって\n急に始まっていいですよねぇ？\n\n# face %(unit_a)s \"smile\"\n@エロース\nえへっ、さすがに今のは\nちょっと強引でしたかぁ？\n\n# voice 4004 \"erosu_0004\"\n@エロース\nでもま、いいじゃないですかぁ♪\nエロースと、クイズしましょ？\nえへっ♪\n;;---------------------------------\n\n@%(unitName:unit_a)s\nエロースの星座のこと\nマスターはわかりますか？\n\n# se \"SE_0734\"\n# select \"うお座\" \"select_label_1\" \"おとめ座\" \"select_label_2\" \"しし座\" \"select_label_3\"\nエロースの星座のこと\nマスターはわかりますか？\n"
+	},
+	{
+		"ID": 3414,
+		"unitID": 2400411,
+		"questionID": 9400414,
+		"script": ";;Ｏ型,1\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 4004 \"erosu_0001\"\n@エロース\nさて、マスター♪\nクイズのお時間ですよ～♪\n\n# voice 4004 \"erosu_0022\"\n# face %(unit_a)s \"sad\"\n@エロース\nむむ？\nなんですか？\nその不思議そうな表情は～\n\n@エロース\nえ？\n急でびっくりした…？\n\n# face %(unit_a)s \"smile\"\n@エロース\nもう、なにを言ってるんですかぁ\n恋はいつだって、突然始まるんです\n\n# face %(unit_a)s \"usual\"\n@エロース\nだったら、クイズだって\n急に始まっていいですよねぇ？\n\n# face %(unit_a)s \"smile\"\n@エロース\nえへっ、さすがに今のは\nちょっと強引でしたかぁ？\n\n# voice 4004 \"erosu_0004\"\n@エロース\nでもま、いいじゃないですかぁ♪\nエロースと、クイズしましょ？\nえへっ♪\n;;---------------------------------\n\n@%(unitName:unit_a)s\n血液型占いとか、女の子はみんな\n好きですよねぇ？ちなみにぃ…\nエロースの血液型はなんでしょ～？\n\n# se \"SE_0734\"\n# select \"Ｏ型\" \"select_label_1\" \"ＡＢ型\" \"select_label_2\" \"Ｂ型\" \"select_label_3\"\n血液型占いとか、女の子はみんな\n好きですよねぇ？ちなみにぃ…\nエロースの血液型はなんでしょ～？\n"
+	},
+	{
+		"ID": 3415,
+		"unitID": 2400411,
+		"questionID": 9400415,
+		"script": ";;恋バナ,2\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 4004 \"erosu_0001\"\n@エロース\nさて、マスター♪\nクイズのお時間ですよ～♪\n\n# voice 4004 \"erosu_0022\"\n# face %(unit_a)s \"sad\"\n@エロース\nむむ？\nなんですか？\nその不思議そうな表情は～\n\n@エロース\nえ？\n急でびっくりした…？\n\n# face %(unit_a)s \"smile\"\n@エロース\nもう、なにを言ってるんですかぁ\n恋はいつだって、突然始まるんです\n\n# face %(unit_a)s \"usual\"\n@エロース\nだったら、クイズだって\n急に始まっていいですよねぇ？\n\n# face %(unit_a)s \"smile\"\n@エロース\nえへっ、さすがに今のは\nちょっと強引でしたかぁ？\n\n# voice 4004 \"erosu_0004\"\n@エロース\nでもま、いいじゃないですかぁ♪\nエロースと、クイズしましょ？\nえへっ♪\n;;---------------------------------\n\n@%(unitName:unit_a)s\n次はサービス問題ですよぉ？\nエロースの好きなことを\n言ってみてくださいねぇ？\n\n# se \"SE_0734\"\n# select \"妄想\" \"select_label_1\" \"恋バナ\" \"select_label_2\" \"うわさ話\" \"select_label_3\"\n次はサービス問題ですよぉ？\nエロースの好きなことを\n言ってみてくださいねぇ？\n"
+	},
+	{
+		"ID": 3416,
+		"unitID": 2400411,
+		"questionID": 9400416,
+		"script": ";;恋のサポート,3\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 4004 \"erosu_0001\"\n@エロース\nさて、マスター♪\nクイズのお時間ですよ～♪\n\n# voice 4004 \"erosu_0022\"\n# face %(unit_a)s \"sad\"\n@エロース\nむむ？\nなんですか？\nその不思議そうな表情は～\n\n@エロース\nえ？\n急でびっくりした…？\n\n# face %(unit_a)s \"smile\"\n@エロース\nもう、なにを言ってるんですかぁ\n恋はいつだって、突然始まるんです\n\n# face %(unit_a)s \"usual\"\n@エロース\nだったら、クイズだって\n急に始まっていいですよねぇ？\n\n# face %(unit_a)s \"smile\"\n@エロース\nえへっ、さすがに今のは\nちょっと強引でしたかぁ？\n\n# voice 4004 \"erosu_0004\"\n@エロース\nでもま、いいじゃないですかぁ♪\nエロースと、クイズしましょ？\nえへっ♪\n;;---------------------------------\n\n@%(unitName:unit_a)s\nエロースの趣味を\n覚えていますかぁ？\n\n# se \"SE_0734\"\n# select \"野次馬\" \"select_label_1\" \"恋の邪魔\" \"select_label_2\" \"恋のサポート\" \"select_label_3\"\nエロースの趣味を\n覚えていますかぁ？\n"
+	},
+	{
+		"ID": 3417,
+		"unitID": 2400411,
+		"questionID": 9400417,
+		"script": ";;アダマス,1\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 4004 \"erosu_0001\"\n@エロース\nさて、マスター♪\nクイズのお時間ですよ～♪\n\n# voice 4004 \"erosu_0022\"\n# face %(unit_a)s \"sad\"\n@エロース\nむむ？\nなんですか？\nその不思議そうな表情は～\n\n@エロース\nえ？\n急でびっくりした…？\n\n# face %(unit_a)s \"smile\"\n@エロース\nもう、なにを言ってるんですかぁ\n恋はいつだって、突然始まるんです\n\n# face %(unit_a)s \"usual\"\n@エロース\nだったら、クイズだって\n急に始まっていいですよねぇ？\n\n# face %(unit_a)s \"smile\"\n@エロース\nえへっ、さすがに今のは\nちょっと強引でしたかぁ？\n\n# voice 4004 \"erosu_0004\"\n@エロース\nでもま、いいじゃないですかぁ♪\nエロースと、クイズしましょ？\nえへっ♪\n;;---------------------------------\n\n@%(unitName:unit_a)s\nエロースと仲がいいのはぁ\nさてさて、誰でしょ～？\n\n# se \"SE_0734\"\n# select \"アダマス\" \"select_label_1\" \"アルテミス\" \"select_label_2\" \"アスクレピオス\" \"select_label_3\"\nエロースと仲がいいのはぁ\nさてさて、誰でしょ～？\n"
+	},
+	{
+		"ID": 3418,
+		"unitID": 2400411,
+		"questionID": 9400418,
+		"script": ";;慈愛に満ちている,2\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 4004 \"erosu_0001\"\n@エロース\nさて、マスター♪\nクイズのお時間ですよ～♪\n\n# voice 4004 \"erosu_0022\"\n# face %(unit_a)s \"sad\"\n@エロース\nむむ？\nなんですか？\nその不思議そうな表情は～\n\n@エロース\nえ？\n急でびっくりした…？\n\n# face %(unit_a)s \"smile\"\n@エロース\nもう、なにを言ってるんですかぁ\n恋はいつだって、突然始まるんです\n\n# face %(unit_a)s \"usual\"\n@エロース\nだったら、クイズだって\n急に始まっていいですよねぇ？\n\n# face %(unit_a)s \"smile\"\n@エロース\nえへっ、さすがに今のは\nちょっと強引でしたかぁ？\n\n# voice 4004 \"erosu_0004\"\n@エロース\nでもま、いいじゃないですかぁ♪\nエロースと、クイズしましょ？\nえへっ♪\n;;---------------------------------\n\n@%(unitName:unit_a)s\nエロースの性格ってぇ\nマスターはこの中でどれが\n一番近いと思いますかぁ？\n\n# se \"SE_0734\"\n# select \"暴れん坊\" \"select_label_1\" \"慈愛に満ちている\" \"select_label_2\" \"泣き虫\" \"select_label_3\"\nエロースの性格ってぇ\nマスターはこの中でどれが\n一番近いと思いますかぁ？\n"
+	},
+	{
+		"ID": 3419,
+		"unitID": 2400411,
+		"questionID": 9400419,
+		"script": ";;オリュンポス,3\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 4004 \"erosu_0001\"\n@エロース\nさて、マスター♪\nクイズのお時間ですよ～♪\n\n# voice 4004 \"erosu_0022\"\n# face %(unit_a)s \"sad\"\n@エロース\nむむ？\nなんですか？\nその不思議そうな表情は～\n\n@エロース\nえ？\n急でびっくりした…？\n\n# face %(unit_a)s \"smile\"\n@エロース\nもう、なにを言ってるんですかぁ\n恋はいつだって、突然始まるんです\n\n# face %(unit_a)s \"usual\"\n@エロース\nだったら、クイズだって\n急に始まっていいですよねぇ？\n\n# face %(unit_a)s \"smile\"\n@エロース\nえへっ、さすがに今のは\nちょっと強引でしたかぁ？\n\n# voice 4004 \"erosu_0004\"\n@エロース\nでもま、いいじゃないですかぁ♪\nエロースと、クイズしましょ？\nえへっ♪\n;;---------------------------------\n\n@%(unitName:unit_a)s\nエロースの出身地がどこか\nマスターは覚えてますかぁ？\n\n# se \"SE_0734\"\n# select \"ヘリコン\" \"select_label_1\" \"パルナッソス\" \"select_label_2\" \"オリュンポス\" \"select_label_3\"\nエロースの出身地がどこか\nマスターは覚えてますかぁ？\n"
+	},
+	{
+		"ID": 3420,
+		"unitID": 2400411,
+		"questionID": 9400420,
+		"script": ";;アフロディーテ,1\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 4004 \"erosu_0001\"\n@エロース\nさて、マスター♪\nクイズのお時間ですよ～♪\n\n# voice 4004 \"erosu_0022\"\n# face %(unit_a)s \"sad\"\n@エロース\nむむ？\nなんですか？\nその不思議そうな表情は～\n\n@エロース\nえ？\n急でびっくりした…？\n\n# face %(unit_a)s \"smile\"\n@エロース\nもう、なにを言ってるんですかぁ\n恋はいつだって、突然始まるんです\n\n# face %(unit_a)s \"usual\"\n@エロース\nだったら、クイズだって\n急に始まっていいですよねぇ？\n\n# face %(unit_a)s \"smile\"\n@エロース\nえへっ、さすがに今のは\nちょっと強引でしたかぁ？\n\n# voice 4004 \"erosu_0004\"\n@エロース\nでもま、いいじゃないですかぁ♪\nエロースと、クイズしましょ？\nえへっ♪\n;;---------------------------------\n\n@%(unitName:unit_a)s\nエロースと仲がいいのはぁ\nさてさて、誰でしょ～？\n\n# se \"SE_0734\"\n# select \"アフロディーテ\" \"select_label_1\" \"ヴァナルガンド\" \"select_label_2\" \"アスカロン\" \"select_label_3\"\nエロースと仲がいいのはぁ\nさてさて、誰でしょ～？\n"
+	},
+	{
+		"ID": 3421,
+		"unitID": 2400411,
+		"questionID": 9400421,
+		"script": ";;恋バナ,1\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# voice 4004 \"erosu_0020\"\n@エロース\nじゃ～ん♪\nじゃじゃ～ん♪\n\n@エロース\n第何回…か忘れましたけどぉ、\nエロースクイズの時間ですぅ～\n\n# eye %(unit_a)s \"close\"\n# voice 4004 \"erosu_0001\"\n@エロース\nマスター、心の準備は\nいいですかぁ？\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"usual\"\n@エロース\nもしクイズに正解できなかったら、\nとてもつらい罰ゲームが…\n\n# face %(unit_a)s \"smile\"\n# voice 4004 \"erosu_0036\"\n@エロース\nって、そんなのないですけど、\n頑張ってくださいねぇ～♪\n;;---------------------------------\n\n@%(unitName:unit_a)s\nエロースは毎晩、深夜会を\n開催していますが、主に\nどんなことを話しているでしょ～？\n\n# se \"SE_0734\"\n# select \"恋バナ\" \"select_label_1\" \"反省会\" \"select_label_2\" \"悪口\" \"select_label_3\"\nエロースは毎晩、深夜会を\n開催していますが、主に\nどんなことを話しているでしょ～？\n"
+	},
+	{
+		"ID": 3422,
+		"unitID": 2400411,
+		"questionID": 9400422,
+		"script": ";;弓,2\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# voice 4004 \"erosu_0020\"\n@エロース\nじゃ～ん♪\nじゃじゃ～ん♪\n\n@エロース\n第何回…か忘れましたけどぉ、\nエロースクイズの時間ですぅ～\n\n# eye %(unit_a)s \"close\"\n# voice 4004 \"erosu_0001\"\n@エロース\nマスター、心の準備は\nいいですかぁ？\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"usual\"\n@エロース\nもしクイズに正解できなかったら、\nとてもつらい罰ゲームが…\n\n# face %(unit_a)s \"smile\"\n# voice 4004 \"erosu_0036\"\n@エロース\nって、そんなのないですけど、\n頑張ってくださいねぇ～♪\n;;---------------------------------\n\n@%(unitName:unit_a)s\nエロースの武器は\nどんな形をしてるでしょ～？\n\n# se \"SE_0734\"\n# select \"杖\" \"select_label_1\" \"弓\" \"select_label_2\" \"剣\" \"select_label_3\"\nエロースの武器は\nどんな形をしてるでしょ～？\n"
+	},
+	{
+		"ID": 3423,
+		"unitID": 2400411,
+		"questionID": 9400423,
+		"script": ";;アロンダイト,3\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# voice 4004 \"erosu_0020\"\n@エロース\nじゃ～ん♪\nじゃじゃ～ん♪\n\n@エロース\n第何回…か忘れましたけどぉ、\nエロースクイズの時間ですぅ～\n\n# eye %(unit_a)s \"close\"\n# voice 4004 \"erosu_0001\"\n@エロース\nマスター、心の準備は\nいいですかぁ？\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"usual\"\n@エロース\nもしクイズに正解できなかったら、\nとてもつらい罰ゲームが…\n\n# face %(unit_a)s \"smile\"\n# voice 4004 \"erosu_0036\"\n@エロース\nって、そんなのないですけど、\n頑張ってくださいねぇ～♪\n;;---------------------------------\n\n@%(unitName:unit_a)s\nちなみにぃ…\nエロースと身長が同じ姫って\nマスターはわかりますかぁ？\n\n# se \"SE_0734\"\n# select \"グリモワール\" \"select_label_1\" \"カドケウス\" \"select_label_2\" \"アロンダイト\" \"select_label_3\"\nちなみにぃ…\nエロースと身長が同じ姫って\nマスターはわかりますかぁ？\n"
+	},
+	{
+		"ID": 3424,
+		"unitID": 2400411,
+		"questionID": 9400424,
+		"script": ";;弓神の降臨,1\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# voice 4004 \"erosu_0020\"\n@エロース\nじゃ～ん♪\nじゃじゃ～ん♪\n\n@エロース\n第何回…か忘れましたけどぉ、\nエロースクイズの時間ですぅ～\n\n# eye %(unit_a)s \"close\"\n# voice 4004 \"erosu_0001\"\n@エロース\nマスター、心の準備は\nいいですかぁ？\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"usual\"\n@エロース\nもしクイズに正解できなかったら、\nとてもつらい罰ゲームが…\n\n# face %(unit_a)s \"smile\"\n# voice 4004 \"erosu_0036\"\n@エロース\nって、そんなのないですけど、\n頑張ってくださいねぇ～♪\n;;---------------------------------\n\n@%(unitName:unit_a)s\nエロースのジョブが弓神だった時の\nリーダースキルってぇ、マスターは\nわかりますかぁ～？\n\n# se \"SE_0734\"\n# select \"弓神の降臨\" \"select_label_1\" \"弓神の黄昏\" \"select_label_2\" \"弓神の帰還\" \"select_label_3\"\nエロースのジョブが弓神だった時の\nリーダースキルってぇ、マスターは\nわかりますかぁ～？\n"
+	},
+	{
+		"ID": 3425,
+		"unitID": 2400411,
+		"questionID": 9400425,
+		"script": ";;花嫁の祝福,2\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# voice 4004 \"erosu_0020\"\n@エロース\nじゃ～ん♪\nじゃじゃ～ん♪\n\n@エロース\n第何回…か忘れましたけどぉ、\nエロースクイズの時間ですぅ～\n\n# eye %(unit_a)s \"close\"\n# voice 4004 \"erosu_0001\"\n@エロース\nマスター、心の準備は\nいいですかぁ？\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"usual\"\n@エロース\nもしクイズに正解できなかったら、\nとてもつらい罰ゲームが…\n\n# face %(unit_a)s \"smile\"\n# voice 4004 \"erosu_0036\"\n@エロース\nって、そんなのないですけど、\n頑張ってくださいねぇ～♪\n;;---------------------------------\n\n@%(unitName:unit_a)s\nエロースがウェディングドレスを\n着てた時のリーダースキルって\nなんでしたっけぇ～？\n\n# se \"SE_0734\"\n# select \"花嫁の行進\" \"select_label_1\" \"花嫁の祝福\" \"select_label_2\" \"花嫁の福音\" \"select_label_3\"\nエロースがウェディングドレスを\n着てた時のリーダースキルって\nなんでしたっけぇ～？\n"
+	},
+	{
+		"ID": 3426,
+		"unitID": 2400411,
+		"questionID": 9400426,
+		"script": ";;猪突猛矢,3\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# voice 4004 \"erosu_0020\"\n@エロース\nじゃ～ん♪\nじゃじゃ～ん♪\n\n@エロース\n第何回…か忘れましたけどぉ、\nエロースクイズの時間ですぅ～\n\n# eye %(unit_a)s \"close\"\n# voice 4004 \"erosu_0001\"\n@エロース\nマスター、心の準備は\nいいですかぁ？\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"usual\"\n@エロース\nもしクイズに正解できなかったら、\nとてもつらい罰ゲームが…\n\n# face %(unit_a)s \"smile\"\n# voice 4004 \"erosu_0036\"\n@エロース\nって、そんなのないですけど、\n頑張ってくださいねぇ～♪\n;;---------------------------------\n\n@%(unitName:unit_a)s\n弓神のジョブの時なんですけどぉ\nEP２のクエストをクリアすると習得\nできるスキルを言ってください～ \n\n# se \"SE_0734\"\n# select \"猪突猛撃\" \"select_label_1\" \"猪突猛進\" \"select_label_2\" \"猪突猛矢\" \"select_label_3\"\n弓神のジョブの時なんですけどぉ\nEP２のクエストをクリアすると習得\nできるスキルを言ってください～ \n"
+	},
+	{
+		"ID": 3427,
+		"unitID": 2400411,
+		"questionID": 9400427,
+		"script": ";;純・猪突猛心,1\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# voice 4004 \"erosu_0020\"\n@エロース\nじゃ～ん♪\nじゃじゃ～ん♪\n\n@エロース\n第何回…か忘れましたけどぉ、\nエロースクイズの時間ですぅ～\n\n# eye %(unit_a)s \"close\"\n# voice 4004 \"erosu_0001\"\n@エロース\nマスター、心の準備は\nいいですかぁ？\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"usual\"\n@エロース\nもしクイズに正解できなかったら、\nとてもつらい罰ゲームが…\n\n# face %(unit_a)s \"smile\"\n# voice 4004 \"erosu_0036\"\n@エロース\nって、そんなのないですけど、\n頑張ってくださいねぇ～♪\n;;---------------------------------\n\n@%(unitName:unit_a)s\n弓神のジョブの時なんですけどぉ\nEP３のクエストをクリアすると習得\nできるスキルを言ってください～\n\n# se \"SE_0734\"\n# select \"純・猪突猛心\" \"select_label_1\" \"爆・猪突猛心\" \"select_label_2\" \"激・猪突猛心\" \"select_label_3\"\n弓神のジョブの時なんですけどぉ\nEP３のクエストをクリアすると習得\nできるスキルを言ってください～\n"
+	},
+	{
+		"ID": 3428,
+		"unitID": 2400411,
+		"questionID": 9400428,
+		"script": ";;AB型,2\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# voice 4004 \"erosu_0020\"\n@エロース\nじゃ～ん♪\nじゃじゃ～ん♪\n\n@エロース\n第何回…か忘れましたけどぉ、\nエロースクイズの時間ですぅ～\n\n# eye %(unit_a)s \"close\"\n# voice 4004 \"erosu_0001\"\n@エロース\nマスター、心の準備は\nいいですかぁ？\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"usual\"\n@エロース\nもしクイズに正解できなかったら、\nとてもつらい罰ゲームが…\n\n# face %(unit_a)s \"smile\"\n# voice 4004 \"erosu_0036\"\n@エロース\nって、そんなのないですけど、\n頑張ってくださいねぇ～♪\n;;---------------------------------\n\n@%(unitName:unit_a)s\nエロースの血液型は\nOですけどぉ…\nアダマスの血液型はどれでしょ～？\n\n# se \"SE_0734\"\n# select \"O型\" \"select_label_1\" \"AB型\" \"select_label_2\" \"A型\" \"select_label_3\"\nエロースの血液型は\nOですけどぉ…\nアダマスの血液型はどれでしょ～？\n"
+	},
+	{
+		"ID": 3429,
+		"unitID": 2400411,
+		"questionID": 9400429,
+		"script": ";;ユニットをすり抜ける,3\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# voice 4004 \"erosu_0020\"\n@エロース\nじゃ～ん♪\nじゃじゃ～ん♪\n\n@エロース\n第何回…か忘れましたけどぉ、\nエロースクイズの時間ですぅ～\n\n# eye %(unit_a)s \"close\"\n# voice 4004 \"erosu_0001\"\n@エロース\nマスター、心の準備は\nいいですかぁ？\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"usual\"\n@エロース\nもしクイズに正解できなかったら、\nとてもつらい罰ゲームが…\n\n# face %(unit_a)s \"smile\"\n# voice 4004 \"erosu_0036\"\n@エロース\nって、そんなのないですけど、\n頑張ってくださいねぇ～♪\n;;---------------------------------\n\n@%(unitName:unit_a)s\nエロースのスキル\nブライダルステップはぁ…\nどんな効果があるでしょ～？\n\n# se \"SE_0734\"\n# select \"速度が上がる\" \"select_label_1\" \"敵単体に大ダメージ\" \"select_label_2\" \"ユニットをすり抜ける\" \"select_label_3\"\nエロースのスキル\nブライダルステップはぁ…\nどんな効果があるでしょ～？\n"
+	},
+	{
+		"ID": 3430,
+		"unitID": 2400411,
+		"questionID": 9400430,
+		"script": ";;獣属性,1\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# voice 4004 \"erosu_0020\"\n@エロース\nじゃ～ん♪\nじゃじゃ～ん♪\n\n@エロース\n第何回…か忘れましたけどぉ、\nエロースクイズの時間ですぅ～\n\n# eye %(unit_a)s \"close\"\n# voice 4004 \"erosu_0001\"\n@エロース\nマスター、心の準備は\nいいですかぁ？\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"usual\"\n@エロース\nもしクイズに正解できなかったら、\nとてもつらい罰ゲームが…\n\n# face %(unit_a)s \"smile\"\n# voice 4004 \"erosu_0036\"\n@エロース\nって、そんなのないですけど、\n頑張ってくださいねぇ～♪\n;;---------------------------------\n\n@%(unitName:unit_a)s\nエロースのスキルでぇ\n猪突猛矢は、どんな属性に\n効果があるでしょうか～？\n\n# se \"SE_0734\"\n# select \"獣属性\" \"select_label_1\" \"風属性\" \"select_label_2\" \"炎属性\" \"select_label_3\"\nエロースのスキルでぇ\n猪突猛矢は、どんな属性に\n効果があるでしょうか～？\n"
+	},
+	{
+		"ID": 3431,
+		"unitID": 2400411,
+		"questionID": 9400431,
+		"script": ";;左利きの日,1\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 4004 \"erosu_0001\"\n@エロース\nねぇ、マスター？\n\n@エロース\n今、みんなの間で\nなにが流行ってるか…\n知ってますかぁ？\n\n# eye %(unit_a)s \"close\"\n# voice 4004 \"erosu_0004\"\n@エロース\n実は、意外なんですけどぉ…\nクイズが流行ってるみたい\nなんですよぉ\n\n# eye %(unit_a)s \"normal\"\n@エロース\nと、いうわけでぇ…\n\n# face %(unit_a)s \"smile\"\n@エロース\nマスターは\nエロースの出す質問に\n答えてくださいねぇ♪\n\n# face %(unit_a)s \"angry\"\n@エロース\n内容はずばり！\nエロースのことですぅ\n\n# face %(unit_a)s \"smile\"\n# voice 4004 \"erosu_0036\"\n@エロース\nいつも一緒にいるマスターなら、\nきっと正解できますよぉ～♪\n;;---------------------------------\n\n@%(unitName:unit_a)s\nエロースの誕生日のぉ…\n８月１３日って、国際なんの日\nって言われてるでしょう～？\n\n# se \"SE_0734\"\n# select \"左利きの日\" \"select_label_1\" \"右利きの日\" \"select_label_2\" \"両利きの日\" \"select_label_3\"\nエロースの誕生日のぉ…\n８月１３日って、国際なんの日\nって言われてるでしょう～？\n"
+	},
+	{
+		"ID": 3432,
+		"unitID": 2400411,
+		"questionID": 9400432,
+		"script": ";;August,2\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 4004 \"erosu_0001\"\n@エロース\nねぇ、マスター？\n\n@エロース\n今、みんなの間で\nなにが流行ってるか…\n知ってますかぁ？\n\n# eye %(unit_a)s \"close\"\n# voice 4004 \"erosu_0004\"\n@エロース\n実は、意外なんですけどぉ…\nクイズが流行ってるみたい\nなんですよぉ\n\n# eye %(unit_a)s \"normal\"\n@エロース\nと、いうわけでぇ…\n\n# face %(unit_a)s \"smile\"\n@エロース\nマスターは\nエロースの出す質問に\n答えてくださいねぇ♪\n\n# face %(unit_a)s \"angry\"\n@エロース\n内容はずばり！\nエロースのことですぅ\n\n# face %(unit_a)s \"smile\"\n# voice 4004 \"erosu_0036\"\n@エロース\nいつも一緒にいるマスターなら、\nきっと正解できますよぉ～♪\n;;---------------------------------\n\n@%(unitName:unit_a)s\nエロースの誕生月は\n８月ですけどぉ…８月は\n英語でなんというでしょ～？\n\n# se \"SE_0734\"\n# select \"September\" \"select_label_1\" \"August\" \"select_label_2\" \"July\" \"select_label_3\"\nエロースの誕生月は\n８月ですけどぉ…８月は\n英語でなんというでしょ～？\n"
+	},
+	{
+		"ID": 3433,
+		"unitID": 2400411,
+		"questionID": 9400433,
+		"script": ";;ヴァナルガンド,3\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 4004 \"erosu_0001\"\n@エロース\nねぇ、マスター？\n\n@エロース\n今、みんなの間で\nなにが流行ってるか…\n知ってますかぁ？\n\n# eye %(unit_a)s \"close\"\n# voice 4004 \"erosu_0004\"\n@エロース\n実は、意外なんですけどぉ…\nクイズが流行ってるみたい\nなんですよぉ\n\n# eye %(unit_a)s \"normal\"\n@エロース\nと、いうわけでぇ…\n\n# face %(unit_a)s \"smile\"\n@エロース\nマスターは\nエロースの出す質問に\n答えてくださいねぇ♪\n\n# face %(unit_a)s \"angry\"\n@エロース\n内容はずばり！\nエロースのことですぅ\n\n# face %(unit_a)s \"smile\"\n# voice 4004 \"erosu_0036\"\n@エロース\nいつも一緒にいるマスターなら、\nきっと正解できますよぉ～♪\n;;---------------------------------\n\n@%(unitName:unit_a)s\nエロースと同じでぇ…\n８月生まれなのは\n誰でしょう～？\n\n# se \"SE_0734\"\n# select \"ロンゴミアント\" \"select_label_1\" \"アバリス\" \"select_label_2\" \"ヴァナルガンド\" \"select_label_3\"\nエロースと同じでぇ…\n８月生まれなのは\n誰でしょう～？\n"
+	},
+	{
+		"ID": 3434,
+		"unitID": 2400411,
+		"questionID": 9400434,
+		"script": ";;Leo,1\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 4004 \"erosu_0001\"\n@エロース\nねぇ、マスター？\n\n@エロース\n今、みんなの間で\nなにが流行ってるか…\n知ってますかぁ？\n\n# eye %(unit_a)s \"close\"\n# voice 4004 \"erosu_0004\"\n@エロース\n実は、意外なんですけどぉ…\nクイズが流行ってるみたい\nなんですよぉ\n\n# eye %(unit_a)s \"normal\"\n@エロース\nと、いうわけでぇ…\n\n# face %(unit_a)s \"smile\"\n@エロース\nマスターは\nエロースの出す質問に\n答えてくださいねぇ♪\n\n# face %(unit_a)s \"angry\"\n@エロース\n内容はずばり！\nエロースのことですぅ\n\n# face %(unit_a)s \"smile\"\n# voice 4004 \"erosu_0036\"\n@エロース\nいつも一緒にいるマスターなら、\nきっと正解できますよぉ～♪\n;;---------------------------------\n\n@%(unitName:unit_a)s\nエロースの星座は\nしし座なんですけどぉ…\n英語でなんというでしょ～？\n\n# se \"SE_0734\"\n# select \"Leo\" \"select_label_1\" \"Neo\" \"select_label_2\" \"Mao\" \"select_label_3\"\nエロースの星座は\nしし座なんですけどぉ…\n英語でなんというでしょ～？\n"
+	},
+	{
+		"ID": 3435,
+		"unitID": 2400411,
+		"questionID": 9400435,
+		"script": ";;6月12日 ,2\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 4004 \"erosu_0001\"\n@エロース\nねぇ、マスター？\n\n@エロース\n今、みんなの間で\nなにが流行ってるか…\n知ってますかぁ？\n\n# eye %(unit_a)s \"close\"\n# voice 4004 \"erosu_0004\"\n@エロース\n実は、意外なんですけどぉ…\nクイズが流行ってるみたい\nなんですよぉ\n\n# eye %(unit_a)s \"normal\"\n@エロース\nと、いうわけでぇ…\n\n# face %(unit_a)s \"smile\"\n@エロース\nマスターは\nエロースの出す質問に\n答えてくださいねぇ♪\n\n# face %(unit_a)s \"angry\"\n@エロース\n内容はずばり！\nエロースのことですぅ\n\n# face %(unit_a)s \"smile\"\n# voice 4004 \"erosu_0036\"\n@エロース\nいつも一緒にいるマスターなら、\nきっと正解できますよぉ～♪\n;;---------------------------------\n\n@%(unitName:unit_a)s\nエロースの好きなことは恋バナ\nなんですけどぉ…恋人の日って\nいつか知ってますか～？\n\n# se \"SE_0734\"\n# select \"5月11日\" \"select_label_1\" \"6月12日 \" \"select_label_2\" \"3月6日\" \"select_label_3\"\nエロースの好きなことは恋バナ\nなんですけどぉ…恋人の日って\nいつか知ってますか～？\n"
+	},
+	{
+		"ID": 3436,
+		"unitID": 2400411,
+		"questionID": 9400436,
+		"script": ";;１２人,3\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 4004 \"erosu_0001\"\n@エロース\nねぇ、マスター？\n\n@エロース\n今、みんなの間で\nなにが流行ってるか…\n知ってますかぁ？\n\n# eye %(unit_a)s \"close\"\n# voice 4004 \"erosu_0004\"\n@エロース\n実は、意外なんですけどぉ…\nクイズが流行ってるみたい\nなんですよぉ\n\n# eye %(unit_a)s \"normal\"\n@エロース\nと、いうわけでぇ…\n\n# face %(unit_a)s \"smile\"\n@エロース\nマスターは\nエロースの出す質問に\n答えてくださいねぇ♪\n\n# face %(unit_a)s \"angry\"\n@エロース\n内容はずばり！\nエロースのことですぅ\n\n# face %(unit_a)s \"smile\"\n# voice 4004 \"erosu_0036\"\n@エロース\nいつも一緒にいるマスターなら、\nきっと正解できますよぉ～♪\n;;---------------------------------\n\n@%(unitName:unit_a)s\nエロースの出身地の\nオリュンポスにはぁ、合計で\n何人の神様がいるでしょ～？\n\n# se \"SE_0734\"\n# select \"ひとり\" \"select_label_1\" \"１００人\" \"select_label_2\" \"１２人\" \"select_label_3\"\nエロースの出身地の\nオリュンポスにはぁ、合計で\n何人の神様がいるでしょ～？\n"
+	},
+	{
+		"ID": 3437,
+		"unitID": 2400411,
+		"questionID": 9400437,
+		"script": ";;金髪,1\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 4004 \"erosu_0001\"\n@エロース\nねぇ、マスター？\n\n@エロース\n今、みんなの間で\nなにが流行ってるか…\n知ってますかぁ？\n\n# eye %(unit_a)s \"close\"\n# voice 4004 \"erosu_0004\"\n@エロース\n実は、意外なんですけどぉ…\nクイズが流行ってるみたい\nなんですよぉ\n\n# eye %(unit_a)s \"normal\"\n@エロース\nと、いうわけでぇ…\n\n# face %(unit_a)s \"smile\"\n@エロース\nマスターは\nエロースの出す質問に\n答えてくださいねぇ♪\n\n# face %(unit_a)s \"angry\"\n@エロース\n内容はずばり！\nエロースのことですぅ\n\n# face %(unit_a)s \"smile\"\n# voice 4004 \"erosu_0036\"\n@エロース\nいつも一緒にいるマスターなら、\nきっと正解できますよぉ～♪\n;;---------------------------------\n\n@%(unitName:unit_a)s\nこっち見ちゃダメですよぉ～？\nエロースの髪の色はぁ…\n何色でしたっけ～？\n\n# se \"SE_0734\"\n# select \"金髪\" \"select_label_1\" \"赤髪\" \"select_label_2\" \"銀髪\" \"select_label_3\"\nこっち見ちゃダメですよぉ～？\nエロースの髪の色はぁ…\n何色でしたっけ～？\n"
+	},
+	{
+		"ID": 3438,
+		"unitID": 2400411,
+		"questionID": 9400438,
+		"script": ";;赤,2\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 4004 \"erosu_0001\"\n@エロース\nねぇ、マスター？\n\n@エロース\n今、みんなの間で\nなにが流行ってるか…\n知ってますかぁ？\n\n# eye %(unit_a)s \"close\"\n# voice 4004 \"erosu_0004\"\n@エロース\n実は、意外なんですけどぉ…\nクイズが流行ってるみたい\nなんですよぉ\n\n# eye %(unit_a)s \"normal\"\n@エロース\nと、いうわけでぇ…\n\n# face %(unit_a)s \"smile\"\n@エロース\nマスターは\nエロースの出す質問に\n答えてくださいねぇ♪\n\n# face %(unit_a)s \"angry\"\n@エロース\n内容はずばり！\nエロースのことですぅ\n\n# face %(unit_a)s \"smile\"\n# voice 4004 \"erosu_0036\"\n@エロース\nいつも一緒にいるマスターなら、\nきっと正解できますよぉ～♪\n;;---------------------------------\n\n@%(unitName:unit_a)s\nエロースの瞳の色とかってぇ\nマスターは覚えてますかぁ～？\n見つめるのはなしですぅ～！\n\n# se \"SE_0734\"\n# select \"緑\" \"select_label_1\" \"赤\" \"select_label_2\" \"青\" \"select_label_3\"\nエロースの瞳の色とかってぇ\nマスターは覚えてますかぁ～？\n見つめるのはなしですぅ～！\n"
+	},
+	{
+		"ID": 3439,
+		"unitID": 2400411,
+		"questionID": 9400439,
+		"script": ";;グングニル,3\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 4004 \"erosu_0001\"\n@エロース\nねぇ、マスター？\n\n@エロース\n今、みんなの間で\nなにが流行ってるか…\n知ってますかぁ？\n\n# eye %(unit_a)s \"close\"\n# voice 4004 \"erosu_0004\"\n@エロース\n実は、意外なんですけどぉ…\nクイズが流行ってるみたい\nなんですよぉ\n\n# eye %(unit_a)s \"normal\"\n@エロース\nと、いうわけでぇ…\n\n# face %(unit_a)s \"smile\"\n@エロース\nマスターは\nエロースの出す質問に\n答えてくださいねぇ♪\n\n# face %(unit_a)s \"angry\"\n@エロース\n内容はずばり！\nエロースのことですぅ\n\n# face %(unit_a)s \"smile\"\n# voice 4004 \"erosu_0036\"\n@エロース\nいつも一緒にいるマスターなら、\nきっと正解できますよぉ～♪\n;;---------------------------------\n\n@%(unitName:unit_a)s\nエロースの血液型と\n一緒じゃないのは\nこの中で誰でしょうか～？\n\n# se \"SE_0734\"\n# select \"テュルソス\" \"select_label_1\" \"スラーンド\" \"select_label_2\" \"グングニル\" \"select_label_3\"\nエロースの血液型と\n一緒じゃないのは\nこの中で誰でしょうか～？\n"
+	},
+	{
+		"ID": 3440,
+		"unitID": 2400411,
+		"questionID": 9400440,
+		"script": ";;アポロン,1\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 4004 \"erosu_0001\"\n@エロース\nねぇ、マスター？\n\n@エロース\n今、みんなの間で\nなにが流行ってるか…\n知ってますかぁ？\n\n# eye %(unit_a)s \"close\"\n# voice 4004 \"erosu_0004\"\n@エロース\n実は、意外なんですけどぉ…\nクイズが流行ってるみたい\nなんですよぉ\n\n# eye %(unit_a)s \"normal\"\n@エロース\nと、いうわけでぇ…\n\n# face %(unit_a)s \"smile\"\n@エロース\nマスターは\nエロースの出す質問に\n答えてくださいねぇ♪\n\n# face %(unit_a)s \"angry\"\n@エロース\n内容はずばり！\nエロースのことですぅ\n\n# face %(unit_a)s \"smile\"\n# voice 4004 \"erosu_0036\"\n@エロース\nいつも一緒にいるマスターなら、\nきっと正解できますよぉ～♪\n;;---------------------------------\n\n@%(unitName:unit_a)s\nオリュンポスの神々でぇ\n４番目の神様って誰だったか\nマスターは知ってますかぁ？\n\n# se \"SE_0734\"\n# select \"アポロン\" \"select_label_1\" \"アフロディーテ\" \"select_label_2\" \"ゼウス\" \"select_label_3\"\nオリュンポスの神々でぇ\n４番目の神様って誰だったか\nマスターは知ってますかぁ？\n"
+	},
+	{
+		"ID": 3441,
+		"unitID": 2400411,
+		"questionID": 9400441,
+		"script": "\n;;エロース,1\n# se \"SE_0734\"\n# select \"エロース\" \"select_label_1\" \"ワタシ\" \"select_label_2\" \"あたし\" \"select_label_3\"\nエロースの一人称は\n次のうちどれ？\n"
+	},
+	{
+		"ID": 3442,
+		"unitID": 2400411,
+		"questionID": 9400442,
+		"script": "\n;;マスター,2\n# se \"SE_0734\"\n# select \"キミ\" \"select_label_1\" \"マスター\" \"select_label_2\" \"そなた\" \"select_label_3\"\nエロースはアンタのこと、\nなんて呼んでる？\n"
+	},
+	{
+		"ID": 3443,
+		"unitID": 2400411,
+		"questionID": 9400443,
+		"script": "\n;;94,3\n# se \"SE_0734\"\n# select \"91\" \"select_label_1\" \"97\" \"select_label_2\" \"94\" \"select_label_3\"\nエロースの\nバストサイズがどのくらいか\nアンタ…知ってるの？\n"
+	},
+	{
+		"ID": 3444,
+		"unitID": 2400411,
+		"questionID": 9400444,
+		"script": "\n;;60,1\n# se \"SE_0734\"\n# select \"60\" \"select_label_1\" \"54\" \"select_label_2\" \"62\" \"select_label_3\"\nエロースの\nウエストサイズがどのくらいか\nアンタ…知ってるの？\n"
+	},
+	{
+		"ID": 3445,
+		"unitID": 2400411,
+		"questionID": 9400445,
+		"script": "\n;;87,2\n# se \"SE_0734\"\n# select \"84\" \"select_label_1\" \"87\" \"select_label_2\" \"90\" \"select_label_3\"\nエロースの\nヒップサイズがどのくらいか\nアンタ…知ってるの？\n"
+	},
+	{
+		"ID": 3446,
+		"unitID": 2400411,
+		"questionID": 9400446,
+		"script": "\n;;50,3\n# se \"SE_0734\"\n# select \"47\" \"select_label_1\" \"53\" \"select_label_2\" \"50\" \"select_label_3\"\nエロースの体重は\n次のうちどれ？\n"
+	},
+	{
+		"ID": 3447,
+		"unitID": 2400411,
+		"questionID": 9400447,
+		"script": "\n;;241,1\n# se \"SE_0734\"\n# select \"241\" \"select_label_1\" \"229\" \"select_label_2\" \"247\" \"select_label_3\"\nエロースの\nバスト＋ウエスト＋ヒップは\nいくつかわかる？\n"
+	},
+	{
+		"ID": 3448,
+		"unitID": 2400411,
+		"questionID": 9400448,
+		"script": "\n;;白,2\n# se \"SE_0734\"\n# select \"赤\" \"select_label_1\" \"白\" \"select_label_2\" \"青\" \"select_label_3\"\nエロースの水着の色は\n次のうちどれ？\n"
+	},
+	{
+		"ID": 3449,
+		"unitID": 2400411,
+		"questionID": 9400449,
+		"script": "\n;;9位,3\n# se \"SE_0734\"\n# select \"23位\" \"select_label_1\" \"16位\" \"select_label_2\" \"9位\" \"select_label_3\"\nエロースは\n第２回人気投票で\n何位だったでしょう？\n"
+	},
+	{
+		"ID": 3450,
+		"unitID": 2400411,
+		"questionID": 9400450,
+		"script": "\n;;伊藤静,1\n# se \"SE_0734\"\n# select \"伊藤静\" \"select_label_1\" \"伊藤かな恵\" \"select_label_2\" \"伊藤美紀\" \"select_label_3\"\nエロースの声優は誰？\n"
+	}
+]

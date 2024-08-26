@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 3303111,
+		"script": ";;A,大\n;;B,中\n;;C,小\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_planetarium\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 0 0\n@\n星空を見たいという\nカシウスを連れて、\nプラネタリウムにやってきた\n\n@\nふとマスターが横を見ると…\nカシウスがじっと\n自分の顔を見つめていた\n\n# face %(unit_a)s \"usual\"\n# voice 530311 \"cassius_ca_0031\"\n# textflame 1 1\n@カシウス\nあ…ごめんなさい\nじろじろ見てしまって\n\n@カシウス\nその…御館様に\n尋ねてみたいことがあって\n\n# voice 530311 \"cassius_ca_0001\"\n@カシウス\n御館様は、どんな気持ちで\nこの星空を見ているの？\n\n# select \"切ない気持ち\" \"select_label_01\" \"感動する気持ち\" \"select_label_02\" \"嬉しい気持ち\" \"select_label_03\"\n御館様は、どんな気持ちで\nこの星空を見ているの？\n\n# label \"select_label_01\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_02\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_03\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_end\"\n# waitandnext 0.1\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

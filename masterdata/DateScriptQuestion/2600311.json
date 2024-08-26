@@ -1,0 +1,302 @@
+[
+	{
+		"ID": 3951,
+		"unitID": 2600311,
+		"questionID": 9600301,
+		"script": ";;ディオニソス,1\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# voice 6003 \"tyurusosu_0001\"\n@テュルソス\nねえマスター、\n今日は楽しかったね！\n\n# face %(unit_a)s \"usual\"\n@テュルソス\nでも、まだ帰るには\n早いと思わない？\n\n# eye %(unit_a)s \"close\"\n@テュルソス\nねえ、これからどこか飲みに…\n行かない、か\nうーん、残念！\n\n# eye %(unit_a)s \"normal\"\n@テュルソス\nあ、じゃあさ、\n私に関する質問するから、\n答えてくれない？\n\n# face %(unit_a)s \"smile\"\n# voice 6003 \"tyurusosu_0036\"\n@テュルソス\n正解したら大人しく帰るから\nね、いいでしょ？\nじゃあ、始めるよ！\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私のキラーズ『テュルソス』の\n持ち主って、誰だったかしら？\n\n# se \"SE_0734\"\n# select \"ディオニソス\" \"select_label_1\" \"ゼウス\" \"select_label_2\" \"ヘラ\" \"select_label_3\"\n私のキラーズ『テュルソス』の\n持ち主って、誰だったかしら？\n"
+	},
+	{
+		"ID": 3952,
+		"unitID": 2600311,
+		"questionID": 9600302,
+		"script": ";;杖,2\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# voice 6003 \"tyurusosu_0001\"\n@テュルソス\nねえマスター、\n今日は楽しかったね！\n\n# face %(unit_a)s \"usual\"\n@テュルソス\nでも、まだ帰るには\n早いと思わない？\n\n# eye %(unit_a)s \"close\"\n@テュルソス\nねえ、これからどこか飲みに…\n行かない、か\nうーん、残念！\n\n# eye %(unit_a)s \"normal\"\n@テュルソス\nあ、じゃあさ、\n私に関する質問するから、\n答えてくれない？\n\n# face %(unit_a)s \"smile\"\n# voice 6003 \"tyurusosu_0036\"\n@テュルソス\n正解したら大人しく帰るから\nね、いいでしょ？\nじゃあ、始めるよ！\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私のキラーズ『テュルソス』って\nどんな武器だったかな？\n\n# se \"SE_0734\"\n# select \"槍\" \"select_label_1\" \"杖\" \"select_label_2\" \"弓\" \"select_label_3\"\n私のキラーズ『テュルソス』って\nどんな武器だったかな？\n"
+	},
+	{
+		"ID": 3953,
+		"unitID": 2600311,
+		"questionID": 9600303,
+		"script": ";;セメレー,3\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# voice 6003 \"tyurusosu_0001\"\n@テュルソス\nねえマスター、\n今日は楽しかったね！\n\n# face %(unit_a)s \"usual\"\n@テュルソス\nでも、まだ帰るには\n早いと思わない？\n\n# eye %(unit_a)s \"close\"\n@テュルソス\nねえ、これからどこか飲みに…\n行かない、か\nうーん、残念！\n\n# eye %(unit_a)s \"normal\"\n@テュルソス\nあ、じゃあさ、\n私に関する質問するから、\n答えてくれない？\n\n# face %(unit_a)s \"smile\"\n# voice 6003 \"tyurusosu_0036\"\n@テュルソス\n正解したら大人しく帰るから\nね、いいでしょ？\nじゃあ、始めるよ！\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私のキラーズ『テュルソス』の持ち主\nディオニソスは\nゼウスと誰の息子だったっけ？\n\n# se \"SE_0734\"\n# select \"アンドロメダ\" \"select_label_1\" \"パーシパエー\" \"select_label_2\" \"セメレー\" \"select_label_3\"\n私のキラーズ『テュルソス』の持ち主\nディオニソスは\nゼウスと誰の息子だったっけ？\n"
+	},
+	{
+		"ID": 3954,
+		"unitID": 2600311,
+		"questionID": 9600304,
+		"script": ";;ギリシャ神話,1\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# voice 6003 \"tyurusosu_0001\"\n@テュルソス\nねえマスター、\n今日は楽しかったね！\n\n# face %(unit_a)s \"usual\"\n@テュルソス\nでも、まだ帰るには\n早いと思わない？\n\n# eye %(unit_a)s \"close\"\n@テュルソス\nねえ、これからどこか飲みに…\n行かない、か\nうーん、残念！\n\n# eye %(unit_a)s \"normal\"\n@テュルソス\nあ、じゃあさ、\n私に関する質問するから、\n答えてくれない？\n\n# face %(unit_a)s \"smile\"\n# voice 6003 \"tyurusosu_0036\"\n@テュルソス\n正解したら大人しく帰るから\nね、いいでしょ？\nじゃあ、始めるよ！\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私のキラーズ『テュルソス』は\nどんな神話に登場する？\n\n# se \"SE_0734\"\n# select \"ギリシャ神話\" \"select_label_1\" \"日本神話\" \"select_label_2\" \"シュメール神話\" \"select_label_3\"\n私のキラーズ『テュルソス』は\nどんな神話に登場する？\n"
+	},
+	{
+		"ID": 3955,
+		"unitID": 2600311,
+		"questionID": 9600305,
+		"script": ";;ヘーラー,2\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# voice 6003 \"tyurusosu_0001\"\n@テュルソス\nねえマスター、\n今日は楽しかったね！\n\n# face %(unit_a)s \"usual\"\n@テュルソス\nでも、まだ帰るには\n早いと思わない？\n\n# eye %(unit_a)s \"close\"\n@テュルソス\nねえ、これからどこか飲みに…\n行かない、か\nうーん、残念！\n\n# eye %(unit_a)s \"normal\"\n@テュルソス\nあ、じゃあさ、\n私に関する質問するから、\n答えてくれない？\n\n# face %(unit_a)s \"smile\"\n# voice 6003 \"tyurusosu_0036\"\n@テュルソス\n正解したら大人しく帰るから\nね、いいでしょ？\nじゃあ、始めるよ！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nディオニソスの母セメレーは、とある\n人物の怒りを買ってしまって命を\n落としたんだけれど、それは誰？\n\n# se \"SE_0734\"\n# select \"アテナ\" \"select_label_1\" \"ヘーラー\" \"select_label_2\" \"アフロディーテ\" \"select_label_3\"\nディオニソスの母セメレーは、とある\n人物の怒りを買ってしまって命を\n落としたんだけれど、それは誰？\n"
+	},
+	{
+		"ID": 3956,
+		"unitID": 2600311,
+		"questionID": 9600306,
+		"script": ";;松かさ,3\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# voice 6003 \"tyurusosu_0001\"\n@テュルソス\nねえマスター、\n今日は楽しかったね！\n\n# face %(unit_a)s \"usual\"\n@テュルソス\nでも、まだ帰るには\n早いと思わない？\n\n# eye %(unit_a)s \"close\"\n@テュルソス\nねえ、これからどこか飲みに…\n行かない、か\nうーん、残念！\n\n# eye %(unit_a)s \"normal\"\n@テュルソス\nあ、じゃあさ、\n私に関する質問するから、\n答えてくれない？\n\n# face %(unit_a)s \"smile\"\n# voice 6003 \"tyurusosu_0036\"\n@テュルソス\n正解したら大人しく帰るから\nね、いいでしょ？\nじゃあ、始めるよ！\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私のキラーズ『テュルソス』の先端に\nは、大地を肥沃にするこの神を象徴\nする植物が付いてるわ。それはなに？\n\n# se \"SE_0734\"\n# select \"ラフレシア\" \"select_label_1\" \"ひまわり\" \"select_label_2\" \"松かさ\" \"select_label_3\"\n私のキラーズ『テュルソス』の先端に\nは、大地を肥沃にするこの神を象徴\nする植物が付いてるわ。それはなに？\n"
+	},
+	{
+		"ID": 3957,
+		"unitID": 2600311,
+		"questionID": 9600307,
+		"script": ";;冥界から母セメレーを救い出した,1\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# voice 6003 \"tyurusosu_0001\"\n@テュルソス\nねえマスター、\n今日は楽しかったね！\n\n# face %(unit_a)s \"usual\"\n@テュルソス\nでも、まだ帰るには\n早いと思わない？\n\n# eye %(unit_a)s \"close\"\n@テュルソス\nねえ、これからどこか飲みに…\n行かない、か\nうーん、残念！\n\n# eye %(unit_a)s \"normal\"\n@テュルソス\nあ、じゃあさ、\n私に関する質問するから、\n答えてくれない？\n\n# face %(unit_a)s \"smile\"\n# voice 6003 \"tyurusosu_0036\"\n@テュルソス\n正解したら大人しく帰るから\nね、いいでしょ？\nじゃあ、始めるよ！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nヘーラーに激怒されたデュオニソスは\n彼女から逃げ切り神性を得たんだけど\nその際ある事を試したわ。それは？\n\n# se \"SE_0734\"\n# select \"冥界から母セメレーを救い出した\" \"select_label_1\" \"ゼウスの浮気グセをなおした\" \"select_label_2\" \"オリーブの大食い記録を更新した\" \"select_label_3\"\nヘーラーに激怒されたデュオニソスは\n彼女から逃げ切り神性を得たんだけど\nその際ある事を試したわ。それは？\n"
+	},
+	{
+		"ID": 3958,
+		"unitID": 2600311,
+		"questionID": 9600308,
+		"script": ";;アメジスト,2\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# voice 6003 \"tyurusosu_0001\"\n@テュルソス\nねえマスター、\n今日は楽しかったね！\n\n# face %(unit_a)s \"usual\"\n@テュルソス\nでも、まだ帰るには\n早いと思わない？\n\n# eye %(unit_a)s \"close\"\n@テュルソス\nねえ、これからどこか飲みに…\n行かない、か\nうーん、残念！\n\n# eye %(unit_a)s \"normal\"\n@テュルソス\nあ、じゃあさ、\n私に関する質問するから、\n答えてくれない？\n\n# face %(unit_a)s \"smile\"\n# voice 6003 \"tyurusosu_0036\"\n@テュルソス\n正解したら大人しく帰るから\nね、いいでしょ？\nじゃあ、始めるよ！\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私のキラーズ『テュルソス』の持ち主\nディオニソスに関わりの深い宝石は\n次のうちどれ？\n\n# se \"SE_0734\"\n# select \"ダイヤモンド\" \"select_label_1\" \"アメジスト\" \"select_label_2\" \"ルビー\" \"select_label_3\"\n私のキラーズ『テュルソス』の持ち主\nディオニソスに関わりの深い宝石は\n次のうちどれ？\n"
+	},
+	{
+		"ID": 3959,
+		"unitID": 2600311,
+		"questionID": 9600309,
+		"script": ";;バッカス,3\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# voice 6003 \"tyurusosu_0001\"\n@テュルソス\nねえマスター、\n今日は楽しかったね！\n\n# face %(unit_a)s \"usual\"\n@テュルソス\nでも、まだ帰るには\n早いと思わない？\n\n# eye %(unit_a)s \"close\"\n@テュルソス\nねえ、これからどこか飲みに…\n行かない、か\nうーん、残念！\n\n# eye %(unit_a)s \"normal\"\n@テュルソス\nあ、じゃあさ、\n私に関する質問するから、\n答えてくれない？\n\n# face %(unit_a)s \"smile\"\n# voice 6003 \"tyurusosu_0036\"\n@テュルソス\n正解したら大人しく帰るから\nね、いいでしょ？\nじゃあ、始めるよ！\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私のキラーズ『テュルソス』の持ち主\nディオニソスのローマ神話での\n呼び名はなんだったっけ？\n\n# se \"SE_0734\"\n# select \"ユピテル\" \"select_label_1\" \"ミネルバ\" \"select_label_2\" \"バッカス\" \"select_label_3\"\n私のキラーズ『テュルソス』の持ち主\nディオニソスのローマ神話での\n呼び名はなんだったっけ？\n"
+	},
+	{
+		"ID": 3960,
+		"unitID": 2600311,
+		"questionID": 9600310,
+		"script": ";;イーノー,1\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# voice 6003 \"tyurusosu_0001\"\n@テュルソス\nねえマスター、\n今日は楽しかったね！\n\n# face %(unit_a)s \"usual\"\n@テュルソス\nでも、まだ帰るには\n早いと思わない？\n\n# eye %(unit_a)s \"close\"\n@テュルソス\nねえ、これからどこか飲みに…\n行かない、か\nうーん、残念！\n\n# eye %(unit_a)s \"normal\"\n@テュルソス\nあ、じゃあさ、\n私に関する質問するから、\n答えてくれない？\n\n# face %(unit_a)s \"smile\"\n# voice 6003 \"tyurusosu_0036\"\n@テュルソス\n正解したら大人しく帰るから\nね、いいでしょ？\nじゃあ、始めるよ！\n;;---------------------------------\n\n@%(unitName:unit_a)s\n生まれたばかりの\nディオニソスを引き取って育てた\nセメレーの妹の名前は？\n\n# se \"SE_0734\"\n# select \"イーノー\" \"select_label_1\" \"ダメナノー\" \"select_label_2\" \"ドウデモイイノー\" \"select_label_3\"\n生まれたばかりの\nディオニソスを引き取って育てた\nセメレーの妹の名前は？\n"
+	},
+	{
+		"ID": 3961,
+		"unitID": 2600311,
+		"questionID": 9600311,
+		"script": ";;飲酒,1\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# voice 6003 \"tyurusosu_0001\"\n@テュルソス\n今日は楽しかったね、\nマスター？\n\n# face %(unit_a)s \"usual\"\n@テュルソス\n…ところで、さ\nマスターって、\n私のことをどこまで知ってる？\n\n# voice 6003 \"tyurusosu_0004\"\n@テュルソス\nちょっと確認させて\nもらっちゃっていいかな？\n\n# voice 6003 \"tyurusosu_0036\"\n# face %(unit_a)s \"smile\"\n@テュルソス\nこれから、クイズを出すね\nわかるかな～♪\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の趣味ってなーんだ？\n私といったら、これよね？\n\n# se \"SE_0734\"\n# select \"飲酒\" \"select_label_1\" \"断食\" \"select_label_2\" \"食い倒れ\" \"select_label_3\"\n私の趣味ってなーんだ？\n私といったら、これよね？\n"
+	},
+	{
+		"ID": 3962,
+		"unitID": 2600311,
+		"questionID": 9600312,
+		"script": ";;てんびん座,2\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# voice 6003 \"tyurusosu_0001\"\n@テュルソス\n今日は楽しかったね、\nマスター？\n\n# face %(unit_a)s \"usual\"\n@テュルソス\n…ところで、さ\nマスターって、\n私のことをどこまで知ってる？\n\n# voice 6003 \"tyurusosu_0004\"\n@テュルソス\nちょっと確認させて\nもらっちゃっていいかな？\n\n# voice 6003 \"tyurusosu_0036\"\n# face %(unit_a)s \"smile\"\n@テュルソス\nこれから、クイズを出すね\nわかるかな～♪\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の星座はなーんだ？\n誕生日は１０月１５日よ♪\n\n# se \"SE_0734\"\n# select \"やぎ座\" \"select_label_1\" \"てんびん座\" \"select_label_2\" \"うお座\" \"select_label_3\"\n私の星座はなーんだ？\n誕生日は１０月１５日よ♪\n"
+	},
+	{
+		"ID": 3963,
+		"unitID": 2600311,
+		"questionID": 9600313,
+		"script": ";;オリュンポス,3\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# voice 6003 \"tyurusosu_0001\"\n@テュルソス\n今日は楽しかったね、\nマスター？\n\n# face %(unit_a)s \"usual\"\n@テュルソス\n…ところで、さ\nマスターって、\n私のことをどこまで知ってる？\n\n# voice 6003 \"tyurusosu_0004\"\n@テュルソス\nちょっと確認させて\nもらっちゃっていいかな？\n\n# voice 6003 \"tyurusosu_0036\"\n# face %(unit_a)s \"smile\"\n@テュルソス\nこれから、クイズを出すね\nわかるかな～♪\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の出身地って\nどこだったっけ？\n神々の山って言えばわかる？\n\n# se \"SE_0734\"\n# select \"アララト山\" \"select_label_1\" \"富士山\" \"select_label_2\" \"オリュンポス\" \"select_label_3\"\n私の出身地って\nどこだったっけ？\n神々の山って言えばわかる？\n"
+	},
+	{
+		"ID": 3964,
+		"unitID": 2600311,
+		"questionID": 9600314,
+		"script": ";;O型,1\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# voice 6003 \"tyurusosu_0001\"\n@テュルソス\n今日は楽しかったね、\nマスター？\n\n# face %(unit_a)s \"usual\"\n@テュルソス\n…ところで、さ\nマスターって、\n私のことをどこまで知ってる？\n\n# voice 6003 \"tyurusosu_0004\"\n@テュルソス\nちょっと確認させて\nもらっちゃっていいかな？\n\n# voice 6003 \"tyurusosu_0036\"\n# face %(unit_a)s \"smile\"\n@テュルソス\nこれから、クイズを出すね\nわかるかな～♪\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の血液型は\nなにかな？\nみんな聞けば納得するかも♪\n\n# se \"SE_0734\"\n# select \"O型\" \"select_label_1\" \"Ｂ型\" \"select_label_2\" \"A型\" \"select_label_3\"\n私の血液型は\nなにかな？\nみんな聞けば納得するかも♪\n"
+	},
+	{
+		"ID": 3965,
+		"unitID": 2600311,
+		"questionID": 9600315,
+		"script": ";;酒席,2\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# voice 6003 \"tyurusosu_0001\"\n@テュルソス\n今日は楽しかったね、\nマスター？\n\n# face %(unit_a)s \"usual\"\n@テュルソス\n…ところで、さ\nマスターって、\n私のことをどこまで知ってる？\n\n# voice 6003 \"tyurusosu_0004\"\n@テュルソス\nちょっと確認させて\nもらっちゃっていいかな？\n\n# voice 6003 \"tyurusosu_0036\"\n# face %(unit_a)s \"smile\"\n@テュルソス\nこれから、クイズを出すね\nわかるかな～♪\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私は、あるものが大好きなのよ♪\n私と言えば想像出来ると思うけど\nずばり、なにかな？\n\n# se \"SE_0734\"\n# select \"主席\" \"select_label_1\" \"酒席\" \"select_label_2\" \"指定席\" \"select_label_3\"\n私は、あるものが大好きなのよ♪\n私と言えば想像出来ると思うけど\nずばり、なにかな？\n"
+	},
+	{
+		"ID": 3966,
+		"unitID": 2600311,
+		"questionID": 9600316,
+		"script": ";;自尊心,3\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# voice 6003 \"tyurusosu_0001\"\n@テュルソス\n今日は楽しかったね、\nマスター？\n\n# face %(unit_a)s \"usual\"\n@テュルソス\n…ところで、さ\nマスターって、\n私のことをどこまで知ってる？\n\n# voice 6003 \"tyurusosu_0004\"\n@テュルソス\nちょっと確認させて\nもらっちゃっていいかな？\n\n# voice 6003 \"tyurusosu_0036\"\n# face %(unit_a)s \"smile\"\n@テュルソス\nこれから、クイズを出すね\nわかるかな～♪\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私は、これがすごく強いって\n言われるんだけど\nなにが強いと思う？\n\n# se \"SE_0734\"\n# select \"羞恥心\" \"select_label_1\" \"虚栄心\" \"select_label_2\" \"自尊心\" \"select_label_3\"\n私は、これがすごく強いって\n言われるんだけど\nなにが強いと思う？\n"
+	},
+	{
+		"ID": 3967,
+		"unitID": 2600311,
+		"questionID": 9600317,
+		"script": ";;ヴァジュラ,1\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# voice 6003 \"tyurusosu_0001\"\n@テュルソス\n今日は楽しかったね、\nマスター？\n\n# face %(unit_a)s \"usual\"\n@テュルソス\n…ところで、さ\nマスターって、\n私のことをどこまで知ってる？\n\n# voice 6003 \"tyurusosu_0004\"\n@テュルソス\nちょっと確認させて\nもらっちゃっていいかな？\n\n# voice 6003 \"tyurusosu_0036\"\n# face %(unit_a)s \"smile\"\n@テュルソス\nこれから、クイズを出すね\nわかるかな～♪\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私には、すっごく大切な\n親友がいるのよ♪\nそれって誰だっけ？\n\n# se \"SE_0734\"\n# select \"ヴァジュラ\" \"select_label_1\" \"グングニル\" \"select_label_2\" \"ロンギヌス\" \"select_label_3\"\n私には、すっごく大切な\n親友がいるのよ♪\nそれって誰だっけ？\n"
+	},
+	{
+		"ID": 3968,
+		"unitID": 2600311,
+		"questionID": 9600318,
+		"script": ";;159cm,2\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# voice 6003 \"tyurusosu_0001\"\n@テュルソス\n今日は楽しかったね、\nマスター？\n\n# face %(unit_a)s \"usual\"\n@テュルソス\n…ところで、さ\nマスターって、\n私のことをどこまで知ってる？\n\n# voice 6003 \"tyurusosu_0004\"\n@テュルソス\nちょっと確認させて\nもらっちゃっていいかな？\n\n# voice 6003 \"tyurusosu_0036\"\n# face %(unit_a)s \"smile\"\n@テュルソス\nこれから、クイズを出すね\nわかるかな～♪\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の身長って\nどれぐらいか知ってる？\n\n# se \"SE_0734\"\n# select \"149cm\" \"select_label_1\" \"159cm\" \"select_label_2\" \"169cm\" \"select_label_3\"\n私の身長って\nどれぐらいか知ってる？\n"
+	},
+	{
+		"ID": 3969,
+		"unitID": 2600311,
+		"questionID": 9600319,
+		"script": ";;ケラウノス,3\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# voice 6003 \"tyurusosu_0001\"\n@テュルソス\n今日は楽しかったね、\nマスター？\n\n# face %(unit_a)s \"usual\"\n@テュルソス\n…ところで、さ\nマスターって、\n私のことをどこまで知ってる？\n\n# voice 6003 \"tyurusosu_0004\"\n@テュルソス\nちょっと確認させて\nもらっちゃっていいかな？\n\n# voice 6003 \"tyurusosu_0036\"\n# face %(unit_a)s \"smile\"\n@テュルソス\nこれから、クイズを出すね\nわかるかな～♪\n;;---------------------------------\n\n@%(unitName:unit_a)s\nこのキラーズは、嫌いじゃないけど\n私とは微妙な関係…かな？\nさあ、誰でしょう？\n\n# se \"SE_0734\"\n# select \"グラム\" \"select_label_1\" \"ダーインスレイヴ\" \"select_label_2\" \"ケラウノス\" \"select_label_3\"\nこのキラーズは、嫌いじゃないけど\n私とは微妙な関係…かな？\nさあ、誰でしょう？\n"
+	},
+	{
+		"ID": 3970,
+		"unitID": 2600311,
+		"questionID": 9600320,
+		"script": ";;10月15日,1\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# voice 6003 \"tyurusosu_0001\"\n@テュルソス\n今日は楽しかったね、\nマスター？\n\n# face %(unit_a)s \"usual\"\n@テュルソス\n…ところで、さ\nマスターって、\n私のことをどこまで知ってる？\n\n# voice 6003 \"tyurusosu_0004\"\n@テュルソス\nちょっと確認させて\nもらっちゃっていいかな？\n\n# voice 6003 \"tyurusosu_0036\"\n# face %(unit_a)s \"smile\"\n@テュルソス\nこれから、クイズを出すね\nわかるかな～♪\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の誕生日はいつ？\nあ、プレゼントはお酒がいいわ♪\n\n# se \"SE_0734\"\n# select \"10月15日\" \"select_label_1\" \"1月15日\" \"select_label_2\" \"8月15日\" \"select_label_3\"\n私の誕生日はいつ？\nあ、プレゼントはお酒がいいわ♪\n"
+	},
+	{
+		"ID": 3971,
+		"unitID": 2600311,
+		"questionID": 9600321,
+		"script": ";;ビショップ,1\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 6003 \"tyurusosu_0001\"\n@テュルソス\nねえマスター？\n君、私がお酒にしか\n興味がないって思ってるでしょ？\n\n# eye %(unit_a)s \"close\"\n@テュルソス\nま、まあ…お酒は大好きだけど、\nそれ以外の私についても\nもっと知ってもらいたいかもね？\n\n# eye %(unit_a)s \"normal\"\n@テュルソス\nあ、そうだ！\nマスターが私のことを\nどれぐらい知ってるか…\n\n# face %(unit_a)s \"smile\"\n# voice 6003 \"tyurusosu_0003\"\n@テュルソス\nこれから、私に関する\nクイズを出すわね♪\n答えられるかな…？\n\n# voice 6003 \"tyurusosu_0036\"\n@テュルソス\nそれじゃ、行くよ！\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私が☆4の時のジョブって\nなんだったかしら？\n\n# se \"SE_0734\"\n# select \"ビショップ\" \"select_label_1\" \"クレリック\" \"select_label_2\" \"ソードマスター\" \"select_label_3\"\n私が☆4の時のジョブって\nなんだったかしら？\n"
+	},
+	{
+		"ID": 3972,
+		"unitID": 2600311,
+		"questionID": 9600322,
+		"script": ";;アークビショップ,2\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 6003 \"tyurusosu_0001\"\n@テュルソス\nねえマスター？\n君、私がお酒にしか\n興味がないって思ってるでしょ？\n\n# eye %(unit_a)s \"close\"\n@テュルソス\nま、まあ…お酒は大好きだけど、\nそれ以外の私についても\nもっと知ってもらいたいかもね？\n\n# eye %(unit_a)s \"normal\"\n@テュルソス\nあ、そうだ！\nマスターが私のことを\nどれぐらい知ってるか…\n\n# face %(unit_a)s \"smile\"\n# voice 6003 \"tyurusosu_0003\"\n@テュルソス\nこれから、私に関する\nクイズを出すわね♪\n答えられるかな…？\n\n# voice 6003 \"tyurusosu_0036\"\n@テュルソス\nそれじゃ、行くよ！\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私が☆5の時の\nジョブはなんだった？\n\n# se \"SE_0734\"\n# select \"槍輝帝\" \"select_label_1\" \"アークビショップ\" \"select_label_2\" \"剣聖\" \"select_label_3\"\n私が☆5の時の\nジョブはなんだった？\n"
+	},
+	{
+		"ID": 3973,
+		"unitID": 2600311,
+		"questionID": 9600323,
+		"script": ";;風杖皇の防陣,3\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 6003 \"tyurusosu_0001\"\n@テュルソス\nねえマスター？\n君、私がお酒にしか\n興味がないって思ってるでしょ？\n\n# eye %(unit_a)s \"close\"\n@テュルソス\nま、まあ…お酒は大好きだけど、\nそれ以外の私についても\nもっと知ってもらいたいかもね？\n\n# eye %(unit_a)s \"normal\"\n@テュルソス\nあ、そうだ！\nマスターが私のことを\nどれぐらい知ってるか…\n\n# face %(unit_a)s \"smile\"\n# voice 6003 \"tyurusosu_0003\"\n@テュルソス\nこれから、私に関する\nクイズを出すわね♪\n答えられるかな…？\n\n# voice 6003 \"tyurusosu_0036\"\n@テュルソス\nそれじゃ、行くよ！\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の☆６の\nリーダースキルは\nなんだったかな？\n\n# se \"SE_0734\"\n# select \"風斧皇の防陣\" \"select_label_1\" \"風剣皇の防陣\" \"select_label_2\" \"風杖皇の防陣\" \"select_label_3\"\n私の☆６の\nリーダースキルは\nなんだったかな？\n"
+	},
+	{
+		"ID": 3974,
+		"unitID": 2600311,
+		"questionID": 9600324,
+		"script": ";;酒煉百発百酎陣,1\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 6003 \"tyurusosu_0001\"\n@テュルソス\nねえマスター？\n君、私がお酒にしか\n興味がないって思ってるでしょ？\n\n# eye %(unit_a)s \"close\"\n@テュルソス\nま、まあ…お酒は大好きだけど、\nそれ以外の私についても\nもっと知ってもらいたいかもね？\n\n# eye %(unit_a)s \"normal\"\n@テュルソス\nあ、そうだ！\nマスターが私のことを\nどれぐらい知ってるか…\n\n# face %(unit_a)s \"smile\"\n# voice 6003 \"tyurusosu_0003\"\n@テュルソス\nこれから、私に関する\nクイズを出すわね♪\n答えられるかな…？\n\n# voice 6003 \"tyurusosu_0036\"\n@テュルソス\nそれじゃ、行くよ！\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の☆５の\n固有スキルは\nなんだったかしら♪\n\n# se \"SE_0734\"\n# select \"酒煉百発百酎陣\" \"select_label_1\" \"酒煉百戦百勝陣\" \"select_label_2\" \"酒煉一日一善陣\" \"select_label_3\"\n私の☆５の\n固有スキルは\nなんだったかしら♪\n"
+	},
+	{
+		"ID": 3975,
+		"unitID": 2600311,
+		"questionID": 9600325,
+		"script": ";;いない,2\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 6003 \"tyurusosu_0001\"\n@テュルソス\nねえマスター？\n君、私がお酒にしか\n興味がないって思ってるでしょ？\n\n# eye %(unit_a)s \"close\"\n@テュルソス\nま、まあ…お酒は大好きだけど、\nそれ以外の私についても\nもっと知ってもらいたいかもね？\n\n# eye %(unit_a)s \"normal\"\n@テュルソス\nあ、そうだ！\nマスターが私のことを\nどれぐらい知ってるか…\n\n# face %(unit_a)s \"smile\"\n# voice 6003 \"tyurusosu_0003\"\n@テュルソス\nこれから、私に関する\nクイズを出すわね♪\n答えられるかな…？\n\n# voice 6003 \"tyurusosu_0036\"\n@テュルソス\nそれじゃ、行くよ！\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私のライバルは\n誰だったかな？\n\n# se \"SE_0734\"\n# select \"カドケウス\" \"select_label_1\" \"いない\" \"select_label_2\" \"シタ\" \"select_label_3\"\n私のライバルは\n誰だったかな？\n"
+	},
+	{
+		"ID": 3976,
+		"unitID": 2600311,
+		"questionID": 9600326,
+		"script": ";;プリースト,3\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 6003 \"tyurusosu_0001\"\n@テュルソス\nねえマスター？\n君、私がお酒にしか\n興味がないって思ってるでしょ？\n\n# eye %(unit_a)s \"close\"\n@テュルソス\nま、まあ…お酒は大好きだけど、\nそれ以外の私についても\nもっと知ってもらいたいかもね？\n\n# eye %(unit_a)s \"normal\"\n@テュルソス\nあ、そうだ！\nマスターが私のことを\nどれぐらい知ってるか…\n\n# face %(unit_a)s \"smile\"\n# voice 6003 \"tyurusosu_0003\"\n@テュルソス\nこれから、私に関する\nクイズを出すわね♪\n答えられるかな…？\n\n# voice 6003 \"tyurusosu_0036\"\n@テュルソス\nそれじゃ、行くよ！\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私が☆3の時のジョブって\nなんだかわかる？\n\n# se \"SE_0734\"\n# select \"バーサーカー\" \"select_label_1\" \"ウィングナイト\" \"select_label_2\" \"プリースト\" \"select_label_3\"\n私が☆3の時のジョブって\nなんだかわかる？\n"
+	},
+	{
+		"ID": 3977,
+		"unitID": 2600311,
+		"questionID": 9600327,
+		"script": ";;聖司祭の滅気,1\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 6003 \"tyurusosu_0001\"\n@テュルソス\nねえマスター？\n君、私がお酒にしか\n興味がないって思ってるでしょ？\n\n# eye %(unit_a)s \"close\"\n@テュルソス\nま、まあ…お酒は大好きだけど、\nそれ以外の私についても\nもっと知ってもらいたいかもね？\n\n# eye %(unit_a)s \"normal\"\n@テュルソス\nあ、そうだ！\nマスターが私のことを\nどれぐらい知ってるか…\n\n# face %(unit_a)s \"smile\"\n# voice 6003 \"tyurusosu_0003\"\n@テュルソス\nこれから、私に関する\nクイズを出すわね♪\n答えられるかな…？\n\n# voice 6003 \"tyurusosu_0036\"\n@テュルソス\nそれじゃ、行くよ！\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の☆５の\nリーダースキルは\nなんだったかな？\n\n# se \"SE_0734\"\n# select \"聖司祭の滅気\" \"select_label_1\" \"聖司祭の元気\" \"select_label_2\" \"聖司祭のやる気\" \"select_label_3\"\n私の☆５の\nリーダースキルは\nなんだったかな？\n"
+	},
+	{
+		"ID": 3978,
+		"unitID": 2600311,
+		"questionID": 9600328,
+		"script": ";;技巧の鼓動,2\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 6003 \"tyurusosu_0001\"\n@テュルソス\nねえマスター？\n君、私がお酒にしか\n興味がないって思ってるでしょ？\n\n# eye %(unit_a)s \"close\"\n@テュルソス\nま、まあ…お酒は大好きだけど、\nそれ以外の私についても\nもっと知ってもらいたいかもね？\n\n# eye %(unit_a)s \"normal\"\n@テュルソス\nあ、そうだ！\nマスターが私のことを\nどれぐらい知ってるか…\n\n# face %(unit_a)s \"smile\"\n# voice 6003 \"tyurusosu_0003\"\n@テュルソス\nこれから、私に関する\nクイズを出すわね♪\n答えられるかな…？\n\n# voice 6003 \"tyurusosu_0036\"\n@テュルソス\nそれじゃ、行くよ！\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の☆４の\nレベルアップスキルは\nなんだかわかる？\n\n# se \"SE_0734\"\n# select \"技巧の衝撃\" \"select_label_1\" \"技巧の鼓動\" \"select_label_2\" \"技巧の巧技\" \"select_label_3\"\n私の☆４の\nレベルアップスキルは\nなんだかわかる？\n"
+	},
+	{
+		"ID": 3979,
+		"unitID": 2600311,
+		"questionID": 9600329,
+		"script": ";;堅塁の領域,3\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 6003 \"tyurusosu_0001\"\n@テュルソス\nねえマスター？\n君、私がお酒にしか\n興味がないって思ってるでしょ？\n\n# eye %(unit_a)s \"close\"\n@テュルソス\nま、まあ…お酒は大好きだけど、\nそれ以外の私についても\nもっと知ってもらいたいかもね？\n\n# eye %(unit_a)s \"normal\"\n@テュルソス\nあ、そうだ！\nマスターが私のことを\nどれぐらい知ってるか…\n\n# face %(unit_a)s \"smile\"\n# voice 6003 \"tyurusosu_0003\"\n@テュルソス\nこれから、私に関する\nクイズを出すわね♪\n答えられるかな…？\n\n# voice 6003 \"tyurusosu_0036\"\n@テュルソス\nそれじゃ、行くよ！\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の☆６の\nレベルアップスキルは\nなんだったかな？\n\n# se \"SE_0734\"\n# select \"進塁の領域\" \"select_label_1\" \"盗塁の領域\" \"select_label_2\" \"堅塁の領域\" \"select_label_3\"\n私の☆６の\nレベルアップスキルは\nなんだかわかる？\n"
+	},
+	{
+		"ID": 3980,
+		"unitID": 2600311,
+		"questionID": 9600330,
+		"script": ";;酒宴千客万来陣,1\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 6003 \"tyurusosu_0001\"\n@テュルソス\nねえマスター？\n君、私がお酒にしか\n興味がないって思ってるでしょ？\n\n# eye %(unit_a)s \"close\"\n@テュルソス\nま、まあ…お酒は大好きだけど、\nそれ以外の私についても\nもっと知ってもらいたいかもね？\n\n# eye %(unit_a)s \"normal\"\n@テュルソス\nあ、そうだ！\nマスターが私のことを\nどれぐらい知ってるか…\n\n# face %(unit_a)s \"smile\"\n# voice 6003 \"tyurusosu_0003\"\n@テュルソス\nこれから、私に関する\nクイズを出すわね♪\n答えられるかな…？\n\n# voice 6003 \"tyurusosu_0036\"\n@テュルソス\nそれじゃ、行くよ！\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の☆６の\n固有スキルはなんだった？\n\n# se \"SE_0734\"\n# select \"酒宴千客万来陣\" \"select_label_1\" \"酒宴商売繁盛陣\" \"select_label_2\" \"酒宴大無礼講陣\" \"select_label_3\"\n私の☆６の\n固有スキルはなんだった？\n"
+	},
+	{
+		"ID": 3981,
+		"unitID": 2600311,
+		"questionID": 9600331,
+		"script": ";;飲酒,1\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 6003 \"tyurusosu_0001\"\n@テュルソス\nねえ、マスター\n今日はもう、\nこれでおひらき？\n\n# voice 6003 \"tyurusosu_0004\"\n@テュルソス\n私…もうちょっと\nマスターと一緒に\nこうしていたいかも…\n\n# face %(unit_a)s \"smile\"\n@テュルソス\n…あ、そうだ\nこうしない？\n\n# face %(unit_a)s \"usual\"\n@テュルソス\nこれから、\n私に関する\nクイズを出すわ\n\n@テュルソス\nそれに正解したら、\nもうちょっとこのまま\n一緒にいよう？\n\n# face %(unit_a)s \"smile\"\n# voice 6003 \"tyurusosu_0036\"\n@テュルソス\nオーケー？やった！\nじゃあ、さっそくいくわね♪\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の親友ヴァジュラの趣味って\nなんだかわかる？\nこれだから気が合うのよ♪\n\n# se \"SE_0734\"\n# select \"飲酒\" \"select_label_1\" \"ポエム\" \"select_label_2\" \"登山\" \"select_label_3\"\n私の親友ヴァジュラの趣味って\nなんだかわかる？\nこれだから気が合うのよ♪\n"
+	},
+	{
+		"ID": 3982,
+		"unitID": 2600311,
+		"questionID": 9600332,
+		"script": ";;ヴァジュラ,2\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 6003 \"tyurusosu_0001\"\n@テュルソス\nねえ、マスター\n今日はもう、\nこれでおひらき？\n\n# voice 6003 \"tyurusosu_0004\"\n@テュルソス\n私…もうちょっと\nマスターと一緒に\nこうしていたいかも…\n\n# face %(unit_a)s \"smile\"\n@テュルソス\n…あ、そうだ\nこうしない？\n\n# face %(unit_a)s \"usual\"\n@テュルソス\nこれから、\n私に関する\nクイズを出すわ\n\n@テュルソス\nそれに正解したら、\nもうちょっとこのまま\n一緒にいよう？\n\n# face %(unit_a)s \"smile\"\n# voice 6003 \"tyurusosu_0036\"\n@テュルソス\nオーケー？やった！\nじゃあ、さっそくいくわね♪\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私と親友のヴァジュラは\nどっちが胸が大きいと思う？\n…もう、じろじろ見ないで！\n\n# se \"SE_0734\"\n# select \"テュルソス\" \"select_label_1\" \"ヴァジュラ\" \"select_label_2\" \"同じ\" \"select_label_3\"\n私と親友のヴァジュラは\nどっちが胸が大きいと思う？\n…もう、じろじろ見ないで！\n"
+	},
+	{
+		"ID": 3983,
+		"unitID": 2600311,
+		"questionID": 9600333,
+		"script": ";;須弥山,3\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 6003 \"tyurusosu_0001\"\n@テュルソス\nねえ、マスター\n今日はもう、\nこれでおひらき？\n\n# voice 6003 \"tyurusosu_0004\"\n@テュルソス\n私…もうちょっと\nマスターと一緒に\nこうしていたいかも…\n\n# face %(unit_a)s \"smile\"\n@テュルソス\n…あ、そうだ\nこうしない？\n\n# face %(unit_a)s \"usual\"\n@テュルソス\nこれから、\n私に関する\nクイズを出すわ\n\n@テュルソス\nそれに正解したら、\nもうちょっとこのまま\n一緒にいよう？\n\n# face %(unit_a)s \"smile\"\n# voice 6003 \"tyurusosu_0036\"\n@テュルソス\nオーケー？やった！\nじゃあ、さっそくいくわね♪\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の親友ヴァジュラは\nどこの出身かな？\n\n# se \"SE_0734\"\n# select \"ティル・ナ・ノーグ\" \"select_label_1\" \"オリュンポス\" \"select_label_2\" \"須弥山\" \"select_label_3\"\n私の親友ヴァジュラは\nどこの出身かな？\n"
+	},
+	{
+		"ID": 3984,
+		"unitID": 2600311,
+		"questionID": 9600334,
+		"script": ";;目立つこと,1\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 6003 \"tyurusosu_0001\"\n@テュルソス\nねえ、マスター\n今日はもう、\nこれでおひらき？\n\n# voice 6003 \"tyurusosu_0004\"\n@テュルソス\n私…もうちょっと\nマスターと一緒に\nこうしていたいかも…\n\n# face %(unit_a)s \"smile\"\n@テュルソス\n…あ、そうだ\nこうしない？\n\n# face %(unit_a)s \"usual\"\n@テュルソス\nこれから、\n私に関する\nクイズを出すわ\n\n@テュルソス\nそれに正解したら、\nもうちょっとこのまま\n一緒にいよう？\n\n# face %(unit_a)s \"smile\"\n# voice 6003 \"tyurusosu_0036\"\n@テュルソス\nオーケー？やった！\nじゃあ、さっそくいくわね♪\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の親友ヴァジュラの\n好きなものってなんだった？\n\n# se \"SE_0734\"\n# select \"目立つこと\" \"select_label_1\" \"無視されること\" \"select_label_2\" \"愛されること\" \"select_label_3\"\n私の親友ヴァジュラの\n好きなものってなんだった？\n"
+	},
+	{
+		"ID": 3985,
+		"unitID": 2600311,
+		"questionID": 9600335,
+		"script": ";;みずがめ座,2\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 6003 \"tyurusosu_0001\"\n@テュルソス\nねえ、マスター\n今日はもう、\nこれでおひらき？\n\n# voice 6003 \"tyurusosu_0004\"\n@テュルソス\n私…もうちょっと\nマスターと一緒に\nこうしていたいかも…\n\n# face %(unit_a)s \"smile\"\n@テュルソス\n…あ、そうだ\nこうしない？\n\n# face %(unit_a)s \"usual\"\n@テュルソス\nこれから、\n私に関する\nクイズを出すわ\n\n@テュルソス\nそれに正解したら、\nもうちょっとこのまま\n一緒にいよう？\n\n# face %(unit_a)s \"smile\"\n# voice 6003 \"tyurusosu_0036\"\n@テュルソス\nオーケー？やった！\nじゃあ、さっそくいくわね♪\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の親友ヴァジュラは\n星座はなんだったかな？\n\n# se \"SE_0734\"\n# select \"しし座\" \"select_label_1\" \"みずがめ座\" \"select_label_2\" \"てんびん座\" \"select_label_3\"\n私の親友ヴァジュラは\n星座はなんだったかな？\n"
+	},
+	{
+		"ID": 3986,
+		"unitID": 2600311,
+		"questionID": 9600336,
+		"script": ";;金,3\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 6003 \"tyurusosu_0001\"\n@テュルソス\nねえ、マスター\n今日はもう、\nこれでおひらき？\n\n# voice 6003 \"tyurusosu_0004\"\n@テュルソス\n私…もうちょっと\nマスターと一緒に\nこうしていたいかも…\n\n# face %(unit_a)s \"smile\"\n@テュルソス\n…あ、そうだ\nこうしない？\n\n# face %(unit_a)s \"usual\"\n@テュルソス\nこれから、\n私に関する\nクイズを出すわ\n\n@テュルソス\nそれに正解したら、\nもうちょっとこのまま\n一緒にいよう？\n\n# face %(unit_a)s \"smile\"\n# voice 6003 \"tyurusosu_0036\"\n@テュルソス\nオーケー？やった！\nじゃあ、さっそくいくわね♪\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の髪の毛の色は？\nすぐにわかるよね♪\n\n# se \"SE_0734\"\n# select \"緑\" \"select_label_1\" \"赤\" \"select_label_2\" \"金\" \"select_label_3\"\n私の髪の毛の色は？\nすぐにわかるよね♪\n"
+	},
+	{
+		"ID": 3987,
+		"unitID": 2600311,
+		"questionID": 9600337,
+		"script": ";;緑,1\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 6003 \"tyurusosu_0001\"\n@テュルソス\nねえ、マスター\n今日はもう、\nこれでおひらき？\n\n# voice 6003 \"tyurusosu_0004\"\n@テュルソス\n私…もうちょっと\nマスターと一緒に\nこうしていたいかも…\n\n# face %(unit_a)s \"smile\"\n@テュルソス\n…あ、そうだ\nこうしない？\n\n# face %(unit_a)s \"usual\"\n@テュルソス\nこれから、\n私に関する\nクイズを出すわ\n\n@テュルソス\nそれに正解したら、\nもうちょっとこのまま\n一緒にいよう？\n\n# face %(unit_a)s \"smile\"\n# voice 6003 \"tyurusosu_0036\"\n@テュルソス\nオーケー？やった！\nじゃあ、さっそくいくわね♪\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の瞳の色は何色？\nうふふ、じっと見つめても\nかまわないわよ？\n\n# se \"SE_0734\"\n# select \"緑\" \"select_label_1\" \"青\" \"select_label_2\" \"赤\" \"select_label_3\"\n私の瞳の色は何色？\nうふふ、じっと見つめても\nかまわないわよ？\n"
+	},
+	{
+		"ID": 3988,
+		"unitID": 2600311,
+		"questionID": 9600338,
+		"script": ";;きのこの日,2\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 6003 \"tyurusosu_0001\"\n@テュルソス\nねえ、マスター\n今日はもう、\nこれでおひらき？\n\n# voice 6003 \"tyurusosu_0004\"\n@テュルソス\n私…もうちょっと\nマスターと一緒に\nこうしていたいかも…\n\n# face %(unit_a)s \"smile\"\n@テュルソス\n…あ、そうだ\nこうしない？\n\n# face %(unit_a)s \"usual\"\n@テュルソス\nこれから、\n私に関する\nクイズを出すわ\n\n@テュルソス\nそれに正解したら、\nもうちょっとこのまま\n一緒にいよう？\n\n# face %(unit_a)s \"smile\"\n# voice 6003 \"tyurusosu_0036\"\n@テュルソス\nオーケー？やった！\nじゃあ、さっそくいくわね♪\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の誕生日１０月１５日は\nとある記念日なんだけど…\nズバリ、なんだと思う？\n\n# se \"SE_0734\"\n# select \"たけのこの日\" \"select_label_1\" \"きのこの日\" \"select_label_2\" \"つくしの日\" \"select_label_3\"\n私の誕生日１０月１５日は\nとある記念日なんだけど…\nズバリ、なんだと思う？\n"
+	},
+	{
+		"ID": 3989,
+		"unitID": 2600311,
+		"questionID": 9600339,
+		"script": ";;Libra,3\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 6003 \"tyurusosu_0001\"\n@テュルソス\nねえ、マスター\n今日はもう、\nこれでおひらき？\n\n# voice 6003 \"tyurusosu_0004\"\n@テュルソス\n私…もうちょっと\nマスターと一緒に\nこうしていたいかも…\n\n# face %(unit_a)s \"smile\"\n@テュルソス\n…あ、そうだ\nこうしない？\n\n# face %(unit_a)s \"usual\"\n@テュルソス\nこれから、\n私に関する\nクイズを出すわ\n\n@テュルソス\nそれに正解したら、\nもうちょっとこのまま\n一緒にいよう？\n\n# face %(unit_a)s \"smile\"\n# voice 6003 \"tyurusosu_0036\"\n@テュルソス\nオーケー？やった！\nじゃあ、さっそくいくわね♪\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の星座てんびん座の\n英語読みは\n次のうちどれかな♪\n\n# se \"SE_0734\"\n# select \"Taurus\" \"select_label_1\" \"Pisces\" \"select_label_2\" \"Libra\" \"select_label_3\"\n私の星座てんびん座の\n英語読みは\n次のうちどれかな♪\n"
+	},
+	{
+		"ID": 3990,
+		"unitID": 2600311,
+		"questionID": 9600340,
+		"script": ";;ギリシャ神話群,1\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 6003 \"tyurusosu_0001\"\n@テュルソス\nねえ、マスター\n今日はもう、\nこれでおひらき？\n\n# voice 6003 \"tyurusosu_0004\"\n@テュルソス\n私…もうちょっと\nマスターと一緒に\nこうしていたいかも…\n\n# face %(unit_a)s \"smile\"\n@テュルソス\n…あ、そうだ\nこうしない？\n\n# face %(unit_a)s \"usual\"\n@テュルソス\nこれから、\n私に関する\nクイズを出すわ\n\n@テュルソス\nそれに正解したら、\nもうちょっとこのまま\n一緒にいよう？\n\n# face %(unit_a)s \"smile\"\n# voice 6003 \"tyurusosu_0036\"\n@テュルソス\nオーケー？やった！\nじゃあ、さっそくいくわね♪\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の属するクラスタは\n次のうち、どれかな？\n\n# se \"SE_0734\"\n# select \"ギリシャ神話群\" \"select_label_1\" \"日本神話群\" \"select_label_2\" \"北欧神話群\" \"select_label_3\"\n私の属するクラスタは\n次のうち、どれかな？\n"
+	},
+	{
+		"ID": 3991,
+		"unitID": 2600311,
+		"questionID": 9600341,
+		"script": "\n;;私,1\n# se \"SE_0734\"\n# select \"私\" \"select_label_1\" \"俺様\" \"select_label_2\" \"あたし\" \"select_label_3\"\nテュルソスの一人称は\n次のうちどれ？\n"
+	},
+	{
+		"ID": 3992,
+		"unitID": 2600311,
+		"questionID": 9600342,
+		"script": "\n;;君,2\n# se \"SE_0734\"\n# select \"あなた\" \"select_label_1\" \"君\" \"select_label_2\" \"おまえ\" \"select_label_3\"\nテュルソスはアンタのこと、\nなんて呼んでる？\n"
+	},
+	{
+		"ID": 3993,
+		"unitID": 2600311,
+		"questionID": 9600343,
+		"script": "\n;;88,3\n# se \"SE_0734\"\n# select \"83\" \"select_label_1\" \"89\" \"select_label_2\" \"88\" \"select_label_3\"\nテュルソスの\nバストサイズがどのくらいか\nアンタ…知ってるの？\n"
+	},
+	{
+		"ID": 3994,
+		"unitID": 2600311,
+		"questionID": 9600344,
+		"script": "\n;;57,1\n# se \"SE_0734\"\n# select \"57\" \"select_label_1\" \"54\" \"select_label_2\" \"60\" \"select_label_3\"\nテュルソスの\nウエストサイズがどのくらいか\nアンタ…知ってるの？\n"
+	},
+	{
+		"ID": 3995,
+		"unitID": 2600311,
+		"questionID": 9600345,
+		"script": "\n;;87,2\n# se \"SE_0734\"\n# select \"84\" \"select_label_1\" \"87\" \"select_label_2\" \"90\" \"select_label_3\"\nテュルソスの\nヒップサイズがどのくらいか\nアンタ…知ってるの？\n"
+	},
+	{
+		"ID": 3996,
+		"unitID": 2600311,
+		"questionID": 9600346,
+		"script": "\n;;47,3\n# se \"SE_0734\"\n# select \"45\" \"select_label_1\" \"51\" \"select_label_2\" \"47\" \"select_label_3\"\nテュルソスの体重は\n次のうちどれ？\n"
+	},
+	{
+		"ID": 3997,
+		"unitID": 2600311,
+		"questionID": 9600347,
+		"script": "\n;;232,1\n# se \"SE_0734\"\n# select \"232\" \"select_label_1\" \"221\" \"select_label_2\" \"239\" \"select_label_3\"\nテュルソスの\nバスト＋ウエスト＋ヒップは\nいくつかわかる？ \n"
+	},
+	{
+		"ID": 3998,
+		"unitID": 2600311,
+		"questionID": 9600348,
+		"script": "\n;;白,2\n# se \"SE_0734\"\n# select \"紫\" \"select_label_1\" \"白\" \"select_label_2\" \"桃色\" \"select_label_3\"\nテュルソスの水着の色は\n次のうちどれ？\n"
+	},
+	{
+		"ID": 3999,
+		"unitID": 2600311,
+		"questionID": 9600349,
+		"script": "\n;;81位,3\n# se \"SE_0734\"\n# select \"85位\" \"select_label_1\" \"88位\" \"select_label_2\" \"81位\" \"select_label_3\"\nテュルソスは\n第２回人気投票で\n何位だったでしょう？\n"
+	},
+	{
+		"ID": 4000,
+		"unitID": 2600311,
+		"questionID": 9600350,
+		"script": "\n;;能登麻美子,1\n# se \"SE_0734\"\n# select \"能登麻美子\" \"select_label_1\" \"井澤詩織\" \"select_label_2\" \"大原さやか\" \"select_label_3\"\nテュルソスの声優は誰？\n"
+	}
+]

@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 300311,
+		"script": ";;A さわさわ… (中当たり)\n;;B 怖いものないの？ (大当たり)\n;;C ねぇ、後ろ後ろ (小当り)\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_hauntedhouse\"\n# bgmfile \"bgm257\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 0 0\n@\nマスターは\n方天画戟を誘って\nホラーハウスにやってきた\n\n# voice 4001 \"arutemisu_0005\"\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n@方天画戟\n度胸試しってやつか？\n天下人たるもの鉄の心臓が必要！\n望むところだ主君！\n\n# face %(unit_a)s \"normal\"\n# voice 4001 \"arutemisu_0007\"\n# textflame 1 1\n@方天画戟\nそうは言ってもだ…\nこんな子供騙しで\nオレがビビるとでも思ったか？\n\n# select \"さわさわ…\" \"select_label_01\" \"怖いものないの？\" \"select_label_02\" \"ねぇ、後ろ後ろ\" \"select_label_03\"\nそうは言ってもだ…\nこんな子供騙しで\nオレがビビるとでも思ったか？\n\n# label \"select_label_01\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_02\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_03\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_end\"\n# waitandnext 0.1\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

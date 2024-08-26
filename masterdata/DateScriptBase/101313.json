@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 101313,
+		"script": "# script \"lisp\"\n# fadein \"black\" 0.5\n# background %(background)s\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# voice 1013 \"paracelsus_0040\"\n@パラケルスス\nうむ、まったく\n理解していないのが\nよくわかったよ\n\n# textflame 0 0\n@\nバレてました…\n\n# textflame 1 1\n@パラケルスス\nまあいいさ\n話を合わせる気があるのは\n僥倖だね\n\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@パラケルスス\n…反論の一つでもしようなら\n一日かけて論破するところだった\n\n# textflame 0 0\n@\n顔をしかめたのが目に入ったのか\nパラケルススは意地悪な顔で笑う\n\n# textflame 1 1\n@パラケルスス\nなんだ…むしろご希望だったのか\nそんなにわたくしの高説が\n恋しかったとは！\n\n# textflame 0 0\n@\n意気揚々とまくしたてる\n彼女に圧倒されながらも\n自然に笑みが溢れるマスターだった…\n;;--------------------------------------\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

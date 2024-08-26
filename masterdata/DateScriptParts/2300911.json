@@ -1,0 +1,26 @@
+[
+	{
+		"ID": 290,
+		"unitID": 2300911,
+		"scriptID": "kaerimichi",
+		"script": "主君、もう少しおともしても\nよろしいでしょうか？"
+	},
+	{
+		"ID": 304,
+		"unitID": 2300911,
+		"scriptID": "kaeru",
+		"script": "主君、そろそろ帰りましょう\n鍛錬の時間ですよ！\nなんですか、その顔は"
+	},
+	{
+		"ID": 318,
+		"unitID": 2300911,
+		"scriptID": "kaeru_ok",
+		"script": "@%(unitName:unit_a)s\n主君、ありがとうございます\n是非、ご一緒させてください…"
+	},
+	{
+		"ID": 332,
+		"unitID": 2300911,
+		"scriptID": "kaeru_ng",
+		"script": "@%(unitName:unit_a)s\n主君、夜道は危険です\n暗くなる前に帰りましょう"
+	}
+]

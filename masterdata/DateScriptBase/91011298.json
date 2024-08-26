@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 91011298,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# se \"SE_0733\"\n# face %(unit_a)s \"sad\"\n# voice 1011 \"excalibur_0031\"\n@エクスカリバー\n…無念でなりません\n\n# textflame 1 1\n@エクスカリバー\nあなたの剣であるなどと\nなんという思い上がり…！\n\n# voice 1011 \"excalibur_0015\"\n# textflame 1 1\n@エクスカリバー\nこれまで以上の精進を…\nしなければなりませんね…\n\n# textflame 1 1\n@エクスカリバー\nこのままでは…\nあなたのそばにいる意味が…\nありませんから…\n\n# voice 1011 \"excalibur_0027\"\n# textflame 1 1\n@エクスカリバー\n…………\n\n# textflame 0 0\n@\n彼女はあからさまに\n肩を落としていた…\nそれでも彼女は笑顔をつくる\n\n# textflame 1 1\n@エクスカリバー\n…今日は戻りましょう！\n\n# textflame 0 0\n@\nさっきまで楽しそうだったのに\n台無しにしてしまった\nせっかくのデートなのに…\n\n# textflame 0 0\n@\nどんな質問にも答えられるように\n彼女のことを\n復習しておかないとな…\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

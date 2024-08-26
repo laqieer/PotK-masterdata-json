@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 502412,
+		"script": ";;B大\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_cave\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 5024 \"saika_0023\"\n@雑賀\n意識しないように\nしとったのにぃー！\n\n# voice 5024 \"saika_0042\"\n@雑賀\n…なんでハッキリいうん？\n\n# textflame 0 0\n@\n顔を両手でおおって\n座り込んでしまう雑賀\n\n# face %(unit_a)s \"normal\"\n# textflame 1 1\n@雑賀\n…コホン\n\n@雑賀\n…洞窟は好きっすけど、\nマスターとふたりきりで来たら\n\n# voice 5024 \"saika_0034\"\n@雑賀\nなんかこう…\n意味が変わるじゃないっすか…\n\n# textflame 0 0\n@\n雑賀はしゃがんだまま見上げる\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

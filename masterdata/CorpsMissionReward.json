@@ -1,0 +1,2012 @@
+[
+	{
+		"ID": 10,
+		"setting_id": 1,
+		"priority": 1,
+		"name": "ステージを1つ以上クリア",
+		"entity_type_CommonRewardType": 40,
+		"entity_id": 4000001,
+		"quantity": 600,
+		"reward_name": "軍団戦コイン600枚"
+	},
+	{
+		"ID": 20,
+		"setting_id": 1,
+		"priority": 2,
+		"name": "ステージを2つ以上クリア",
+		"entity_type_CommonRewardType": 40,
+		"entity_id": 4000001,
+		"quantity": 800,
+		"reward_name": "軍団戦コイン800枚"
+	},
+	{
+		"ID": 30,
+		"setting_id": 1,
+		"priority": 3,
+		"name": "ステージを3つ以上クリア",
+		"entity_type_CommonRewardType": 40,
+		"entity_id": 4000001,
+		"quantity": 1000,
+		"reward_name": "軍団戦コイン1000枚"
+	},
+	{
+		"ID": 40,
+		"setting_id": 1,
+		"priority": 4,
+		"name": "ステージを4つ以上クリア",
+		"entity_type_CommonRewardType": 40,
+		"entity_id": 4000001,
+		"quantity": 1500,
+		"reward_name": "軍団戦コイン1500枚"
+	},
+	{
+		"ID": 50,
+		"setting_id": 1,
+		"priority": 5,
+		"name": "ステージを5つ以上クリア",
+		"entity_type_CommonRewardType": 40,
+		"entity_id": 4000001,
+		"quantity": 2500,
+		"reward_name": "軍団戦コイン2500枚"
+	},
+	{
+		"ID": 60,
+		"setting_id": 1,
+		"priority": 6,
+		"name": "ステージを全てクリア",
+		"entity_type_CommonRewardType": 40,
+		"entity_id": 4000001,
+		"quantity": 3000,
+		"reward_name": "軍団戦コイン3000枚"
+	},
+	{
+		"ID": 70,
+		"setting_id": 1,
+		"priority": 8,
+		"name": "ステージを全てクリア",
+		"entity_type_CommonRewardType": 16,
+		"entity_id": 1354,
+		"quantity": 1,
+		"reward_name": "称号「師旅奏官『翠怒』」"
+	},
+	{
+		"ID": 1010,
+		"setting_id": 2,
+		"priority": 1,
+		"name": "ステージを1つ以上クリア",
+		"entity_type_CommonRewardType": 40,
+		"entity_id": 4000002,
+		"quantity": 400,
+		"reward_name": "軍団戦コイン400枚"
+	},
+	{
+		"ID": 1020,
+		"setting_id": 2,
+		"priority": 2,
+		"name": "ステージを2つ以上クリア",
+		"entity_type_CommonRewardType": 40,
+		"entity_id": 4000002,
+		"quantity": 500,
+		"reward_name": "軍団戦コイン500枚"
+	},
+	{
+		"ID": 1030,
+		"setting_id": 2,
+		"priority": 3,
+		"name": "ステージを3つ以上クリア",
+		"entity_type_CommonRewardType": 40,
+		"entity_id": 4000002,
+		"quantity": 700,
+		"reward_name": "軍団戦コイン700枚"
+	},
+	{
+		"ID": 1040,
+		"setting_id": 2,
+		"priority": 4,
+		"name": "ステージを4つ以上クリア",
+		"entity_type_CommonRewardType": 40,
+		"entity_id": 4000002,
+		"quantity": 1000,
+		"reward_name": "軍団戦コイン1000枚"
+	},
+	{
+		"ID": 1050,
+		"setting_id": 2,
+		"priority": 5,
+		"name": "ステージを5つ以上クリア",
+		"entity_type_CommonRewardType": 40,
+		"entity_id": 4000002,
+		"quantity": 1400,
+		"reward_name": "軍団戦コイン1400枚"
+	},
+	{
+		"ID": 1060,
+		"setting_id": 2,
+		"priority": 6,
+		"name": "ステージを6つ以上クリア",
+		"entity_type_CommonRewardType": 40,
+		"entity_id": 4000002,
+		"quantity": 1900,
+		"reward_name": "軍団戦コイン1900枚"
+	},
+	{
+		"ID": 1070,
+		"setting_id": 2,
+		"priority": 7,
+		"name": "ステージを7つ以上クリア",
+		"entity_type_CommonRewardType": 40,
+		"entity_id": 4000002,
+		"quantity": 2500,
+		"reward_name": "軍団戦コイン2500枚"
+	},
+	{
+		"ID": 1080,
+		"setting_id": 2,
+		"priority": 8,
+		"name": "ステージを8つ以上クリア",
+		"entity_type_CommonRewardType": 40,
+		"entity_id": 4000002,
+		"quantity": 3200,
+		"reward_name": "軍団戦コイン3200枚"
+	},
+	{
+		"ID": 1090,
+		"setting_id": 2,
+		"priority": 9,
+		"name": "ステージを全てクリア",
+		"entity_type_CommonRewardType": 40,
+		"entity_id": 4000002,
+		"quantity": 4000,
+		"reward_name": "軍団戦コイン4000枚"
+	},
+	{
+		"ID": 1091,
+		"setting_id": 2,
+		"priority": 9,
+		"name": "ステージを全てクリア",
+		"entity_type_CommonRewardType": 16,
+		"entity_id": 1395,
+		"quantity": 1,
+		"reward_name": "称号「師旅奏官『白哀』」"
+	},
+	{
+		"ID": 2010,
+		"setting_id": 3,
+		"priority": 1,
+		"name": "ステージを1つ以上クリア",
+		"entity_type_CommonRewardType": 40,
+		"entity_id": 4000003,
+		"quantity": 400,
+		"reward_name": "軍団戦コイン400枚"
+	},
+	{
+		"ID": 2020,
+		"setting_id": 3,
+		"priority": 2,
+		"name": "ステージを2つ以上クリア",
+		"entity_type_CommonRewardType": 40,
+		"entity_id": 4000003,
+		"quantity": 500,
+		"reward_name": "軍団戦コイン500枚"
+	},
+	{
+		"ID": 2030,
+		"setting_id": 3,
+		"priority": 3,
+		"name": "ステージを3つ以上クリア",
+		"entity_type_CommonRewardType": 40,
+		"entity_id": 4000003,
+		"quantity": 700,
+		"reward_name": "軍団戦コイン700枚"
+	},
+	{
+		"ID": 2040,
+		"setting_id": 3,
+		"priority": 4,
+		"name": "ステージを4つ以上クリア",
+		"entity_type_CommonRewardType": 40,
+		"entity_id": 4000003,
+		"quantity": 1000,
+		"reward_name": "軍団戦コイン1000枚"
+	},
+	{
+		"ID": 2050,
+		"setting_id": 3,
+		"priority": 5,
+		"name": "ステージを5つ以上クリア",
+		"entity_type_CommonRewardType": 40,
+		"entity_id": 4000003,
+		"quantity": 1400,
+		"reward_name": "軍団戦コイン1400枚"
+	},
+	{
+		"ID": 2060,
+		"setting_id": 3,
+		"priority": 6,
+		"name": "ステージを6つ以上クリア",
+		"entity_type_CommonRewardType": 40,
+		"entity_id": 4000003,
+		"quantity": 1900,
+		"reward_name": "軍団戦コイン1900枚"
+	},
+	{
+		"ID": 2070,
+		"setting_id": 3,
+		"priority": 7,
+		"name": "ステージを7つ以上クリア",
+		"entity_type_CommonRewardType": 40,
+		"entity_id": 4000003,
+		"quantity": 2500,
+		"reward_name": "軍団戦コイン2500枚"
+	},
+	{
+		"ID": 2080,
+		"setting_id": 3,
+		"priority": 8,
+		"name": "ステージを8つ以上クリア",
+		"entity_type_CommonRewardType": 40,
+		"entity_id": 4000003,
+		"quantity": 3200,
+		"reward_name": "軍団戦コイン3200枚"
+	},
+	{
+		"ID": 2090,
+		"setting_id": 3,
+		"priority": 9,
+		"name": "ステージを全てクリア",
+		"entity_type_CommonRewardType": 40,
+		"entity_id": 4000003,
+		"quantity": 4000,
+		"reward_name": "軍団戦コイン4000枚"
+	},
+	{
+		"ID": 2091,
+		"setting_id": 3,
+		"priority": 9,
+		"name": "ステージを全てクリア",
+		"entity_type_CommonRewardType": 16,
+		"entity_id": 1404,
+		"quantity": 1,
+		"reward_name": "称号「師旅奏官『橙喜』」"
+	},
+	{
+		"ID": 3010,
+		"setting_id": 4,
+		"priority": 1,
+		"name": "ステージを1つ以上クリア",
+		"entity_type_CommonRewardType": 40,
+		"entity_id": 4000010,
+		"quantity": 500,
+		"reward_name": "軍団戦コイン500枚"
+	},
+	{
+		"ID": 3011,
+		"setting_id": 99,
+		"priority": 1,
+		"name": "ステージを1つ以上クリア",
+		"entity_type_CommonRewardType": 40,
+		"entity_id": 2000008,
+		"quantity": 100,
+		"reward_name": "ウェディングコイン100枚"
+	},
+	{
+		"ID": 3020,
+		"setting_id": 4,
+		"priority": 2,
+		"name": "ステージを2つ以上クリア",
+		"entity_type_CommonRewardType": 40,
+		"entity_id": 4000010,
+		"quantity": 600,
+		"reward_name": "軍団戦コイン600枚"
+	},
+	{
+		"ID": 3030,
+		"setting_id": 4,
+		"priority": 3,
+		"name": "ステージを3つ以上クリア",
+		"entity_type_CommonRewardType": 40,
+		"entity_id": 4000010,
+		"quantity": 800,
+		"reward_name": "軍団戦コイン800枚"
+	},
+	{
+		"ID": 3040,
+		"setting_id": 4,
+		"priority": 4,
+		"name": "ステージを4つ以上クリア",
+		"entity_type_CommonRewardType": 40,
+		"entity_id": 4000010,
+		"quantity": 1100,
+		"reward_name": "軍団戦コイン1100枚"
+	},
+	{
+		"ID": 3041,
+		"setting_id": 99,
+		"priority": 4,
+		"name": "ステージを4つ以上クリア",
+		"entity_type_CommonRewardType": 40,
+		"entity_id": 2000008,
+		"quantity": 200,
+		"reward_name": "ウェディングコイン200枚"
+	},
+	{
+		"ID": 3050,
+		"setting_id": 4,
+		"priority": 5,
+		"name": "ステージを5つ以上クリア",
+		"entity_type_CommonRewardType": 40,
+		"entity_id": 4000010,
+		"quantity": 1500,
+		"reward_name": "軍団戦コイン1500枚"
+	},
+	{
+		"ID": 3051,
+		"setting_id": 99,
+		"priority": 5,
+		"name": "ステージを5つ以上クリア",
+		"entity_type_CommonRewardType": 40,
+		"entity_id": 2000008,
+		"quantity": 200,
+		"reward_name": "ウェディングコイン200枚"
+	},
+	{
+		"ID": 3060,
+		"setting_id": 4,
+		"priority": 6,
+		"name": "ステージを6つ以上クリア",
+		"entity_type_CommonRewardType": 40,
+		"entity_id": 4000010,
+		"quantity": 2000,
+		"reward_name": "軍団戦コイン2000枚"
+	},
+	{
+		"ID": 3061,
+		"setting_id": 99,
+		"priority": 6,
+		"name": "ステージを6つ以上クリア",
+		"entity_type_CommonRewardType": 40,
+		"entity_id": 2000008,
+		"quantity": 300,
+		"reward_name": "ウェディングコイン300枚"
+	},
+	{
+		"ID": 3070,
+		"setting_id": 4,
+		"priority": 7,
+		"name": "ステージを7つ以上クリア",
+		"entity_type_CommonRewardType": 40,
+		"entity_id": 4000010,
+		"quantity": 2700,
+		"reward_name": "軍団戦コイン2700枚"
+	},
+	{
+		"ID": 3071,
+		"setting_id": 99,
+		"priority": 7,
+		"name": "ステージを7つ以上クリア",
+		"entity_type_CommonRewardType": 40,
+		"entity_id": 2000008,
+		"quantity": 500,
+		"reward_name": "ウェディングコイン500枚"
+	},
+	{
+		"ID": 3080,
+		"setting_id": 4,
+		"priority": 8,
+		"name": "ステージを8つ以上クリア",
+		"entity_type_CommonRewardType": 40,
+		"entity_id": 4000010,
+		"quantity": 3400,
+		"reward_name": "軍団戦コイン3400枚"
+	},
+	{
+		"ID": 3090,
+		"setting_id": 4,
+		"priority": 9,
+		"name": "ステージを全てクリア",
+		"entity_type_CommonRewardType": 40,
+		"entity_id": 4000010,
+		"quantity": 4500,
+		"reward_name": "軍団戦コイン4500枚"
+	},
+	{
+		"ID": 3091,
+		"setting_id": 4,
+		"priority": 9,
+		"name": "ステージを全てクリア",
+		"entity_type_CommonRewardType": 16,
+		"entity_id": 1410,
+		"quantity": 1,
+		"reward_name": "称号「師旅奏官『蒼楽』」"
+	},
+	{
+		"ID": 4010,
+		"setting_id": 5,
+		"priority": 1,
+		"name": "ステージを1つ以上クリア",
+		"entity_type_CommonRewardType": 40,
+		"entity_id": 4000005,
+		"quantity": 400,
+		"reward_name": "軍団戦コイン400枚"
+	},
+	{
+		"ID": 4020,
+		"setting_id": 5,
+		"priority": 2,
+		"name": "ステージを2つ以上クリア",
+		"entity_type_CommonRewardType": 40,
+		"entity_id": 4000005,
+		"quantity": 500,
+		"reward_name": "軍団戦コイン500枚"
+	},
+	{
+		"ID": 4030,
+		"setting_id": 5,
+		"priority": 3,
+		"name": "ステージを3つ以上クリア",
+		"entity_type_CommonRewardType": 40,
+		"entity_id": 4000005,
+		"quantity": 700,
+		"reward_name": "軍団戦コイン700枚"
+	},
+	{
+		"ID": 4040,
+		"setting_id": 5,
+		"priority": 4,
+		"name": "ステージを4つ以上クリア",
+		"entity_type_CommonRewardType": 40,
+		"entity_id": 4000005,
+		"quantity": 1000,
+		"reward_name": "軍団戦コイン1000枚"
+	},
+	{
+		"ID": 4050,
+		"setting_id": 5,
+		"priority": 5,
+		"name": "ステージを5つ以上クリア",
+		"entity_type_CommonRewardType": 40,
+		"entity_id": 4000005,
+		"quantity": 1400,
+		"reward_name": "軍団戦コイン1400枚"
+	},
+	{
+		"ID": 4060,
+		"setting_id": 5,
+		"priority": 6,
+		"name": "ステージを6つ以上クリア",
+		"entity_type_CommonRewardType": 40,
+		"entity_id": 4000005,
+		"quantity": 1900,
+		"reward_name": "軍団戦コイン1900枚"
+	},
+	{
+		"ID": 4070,
+		"setting_id": 5,
+		"priority": 7,
+		"name": "ステージを7つ以上クリア",
+		"entity_type_CommonRewardType": 40,
+		"entity_id": 4000005,
+		"quantity": 2500,
+		"reward_name": "軍団戦コイン2500枚"
+	},
+	{
+		"ID": 4080,
+		"setting_id": 5,
+		"priority": 8,
+		"name": "ステージを8つ以上クリア",
+		"entity_type_CommonRewardType": 40,
+		"entity_id": 4000005,
+		"quantity": 3200,
+		"reward_name": "軍団戦コイン3200枚"
+	},
+	{
+		"ID": 4090,
+		"setting_id": 5,
+		"priority": 9,
+		"name": "ステージを全てクリア",
+		"entity_type_CommonRewardType": 40,
+		"entity_id": 4000005,
+		"quantity": 4000,
+		"reward_name": "軍団戦コイン4000枚"
+	},
+	{
+		"ID": 4091,
+		"setting_id": 5,
+		"priority": 9,
+		"name": "ステージを全てクリア",
+		"entity_type_CommonRewardType": 16,
+		"entity_id": 1354,
+		"quantity": 1,
+		"reward_name": "称号「師旅奏官『翠怒』」"
+	},
+	{
+		"ID": 5010,
+		"setting_id": 6,
+		"priority": 1,
+		"name": "ステージを1つ以上クリア",
+		"entity_type_CommonRewardType": 40,
+		"entity_id": 4000006,
+		"quantity": 50,
+		"reward_name": "軍団戦コイン50枚"
+	},
+	{
+		"ID": 5020,
+		"setting_id": 6,
+		"priority": 2,
+		"name": "ステージを2つ以上クリア",
+		"entity_type_CommonRewardType": 40,
+		"entity_id": 4000006,
+		"quantity": 100,
+		"reward_name": "軍団戦コイン100枚"
+	},
+	{
+		"ID": 5030,
+		"setting_id": 6,
+		"priority": 3,
+		"name": "ステージを3つ以上クリア",
+		"entity_type_CommonRewardType": 40,
+		"entity_id": 4000006,
+		"quantity": 150,
+		"reward_name": "軍団戦コイン150枚"
+	},
+	{
+		"ID": 5040,
+		"setting_id": 6,
+		"priority": 4,
+		"name": "ステージを4つ以上クリア",
+		"entity_type_CommonRewardType": 40,
+		"entity_id": 4000006,
+		"quantity": 200,
+		"reward_name": "軍団戦コイン200枚"
+	},
+	{
+		"ID": 5050,
+		"setting_id": 6,
+		"priority": 5,
+		"name": "ステージを5つ以上クリア",
+		"entity_type_CommonRewardType": 40,
+		"entity_id": 4000006,
+		"quantity": 250,
+		"reward_name": "軍団戦コイン250枚"
+	},
+	{
+		"ID": 5060,
+		"setting_id": 6,
+		"priority": 6,
+		"name": "ステージを6つ以上クリア",
+		"entity_type_CommonRewardType": 40,
+		"entity_id": 4000006,
+		"quantity": 300,
+		"reward_name": "軍団戦コイン300枚"
+	},
+	{
+		"ID": 5070,
+		"setting_id": 6,
+		"priority": 7,
+		"name": "ステージを7つ以上クリア",
+		"entity_type_CommonRewardType": 40,
+		"entity_id": 4000006,
+		"quantity": 350,
+		"reward_name": "軍団戦コイン350枚"
+	},
+	{
+		"ID": 5080,
+		"setting_id": 6,
+		"priority": 8,
+		"name": "ステージを8つ以上クリア",
+		"entity_type_CommonRewardType": 40,
+		"entity_id": 4000006,
+		"quantity": 400,
+		"reward_name": "軍団戦コイン400枚"
+	},
+	{
+		"ID": 5090,
+		"setting_id": 6,
+		"priority": 9,
+		"name": "ステージを9つ以上クリア",
+		"entity_type_CommonRewardType": 40,
+		"entity_id": 4000006,
+		"quantity": 450,
+		"reward_name": "軍団戦コイン450枚"
+	},
+	{
+		"ID": 5100,
+		"setting_id": 6,
+		"priority": 10,
+		"name": "ステージを10以上クリア",
+		"entity_type_CommonRewardType": 40,
+		"entity_id": 4000006,
+		"quantity": 500,
+		"reward_name": "軍団戦コイン500枚"
+	},
+	{
+		"ID": 5110,
+		"setting_id": 6,
+		"priority": 11,
+		"name": "ステージを11以上クリア",
+		"entity_type_CommonRewardType": 40,
+		"entity_id": 4000006,
+		"quantity": 550,
+		"reward_name": "軍団戦コイン550枚"
+	},
+	{
+		"ID": 5120,
+		"setting_id": 6,
+		"priority": 12,
+		"name": "ステージを12以上クリア",
+		"entity_type_CommonRewardType": 40,
+		"entity_id": 4000006,
+		"quantity": 600,
+		"reward_name": "軍団戦コイン600枚"
+	},
+	{
+		"ID": 5130,
+		"setting_id": 6,
+		"priority": 13,
+		"name": "ステージを13以上クリア",
+		"entity_type_CommonRewardType": 40,
+		"entity_id": 4000006,
+		"quantity": 650,
+		"reward_name": "軍団戦コイン650枚"
+	},
+	{
+		"ID": 5140,
+		"setting_id": 6,
+		"priority": 14,
+		"name": "ステージを14以上クリア",
+		"entity_type_CommonRewardType": 40,
+		"entity_id": 4000006,
+		"quantity": 700,
+		"reward_name": "軍団戦コイン700枚"
+	},
+	{
+		"ID": 5150,
+		"setting_id": 6,
+		"priority": 15,
+		"name": "ステージを15以上クリア",
+		"entity_type_CommonRewardType": 40,
+		"entity_id": 4000006,
+		"quantity": 750,
+		"reward_name": "軍団戦コイン750枚"
+	},
+	{
+		"ID": 5160,
+		"setting_id": 6,
+		"priority": 16,
+		"name": "ステージを16以上クリア",
+		"entity_type_CommonRewardType": 40,
+		"entity_id": 4000006,
+		"quantity": 800,
+		"reward_name": "軍団戦コイン800枚"
+	},
+	{
+		"ID": 5170,
+		"setting_id": 6,
+		"priority": 17,
+		"name": "ステージを17以上クリア",
+		"entity_type_CommonRewardType": 40,
+		"entity_id": 4000006,
+		"quantity": 850,
+		"reward_name": "軍団戦コイン850枚"
+	},
+	{
+		"ID": 5180,
+		"setting_id": 6,
+		"priority": 18,
+		"name": "ステージを18以上クリア",
+		"entity_type_CommonRewardType": 40,
+		"entity_id": 4000006,
+		"quantity": 900,
+		"reward_name": "軍団戦コイン900枚"
+	},
+	{
+		"ID": 5190,
+		"setting_id": 6,
+		"priority": 19,
+		"name": "ステージを19以上クリア",
+		"entity_type_CommonRewardType": 40,
+		"entity_id": 4000006,
+		"quantity": 950,
+		"reward_name": "軍団戦コイン950枚"
+	},
+	{
+		"ID": 5200,
+		"setting_id": 6,
+		"priority": 20,
+		"name": "ステージを20以上クリア",
+		"entity_type_CommonRewardType": 40,
+		"entity_id": 4000006,
+		"quantity": 1000,
+		"reward_name": "軍団戦コイン1000枚"
+	},
+	{
+		"ID": 5210,
+		"setting_id": 6,
+		"priority": 21,
+		"name": "ステージを21以上クリア",
+		"entity_type_CommonRewardType": 40,
+		"entity_id": 4000006,
+		"quantity": 1050,
+		"reward_name": "軍団戦コイン1050枚"
+	},
+	{
+		"ID": 5220,
+		"setting_id": 6,
+		"priority": 22,
+		"name": "ステージを22以上クリア",
+		"entity_type_CommonRewardType": 40,
+		"entity_id": 4000006,
+		"quantity": 1100,
+		"reward_name": "軍団戦コイン1100枚"
+	},
+	{
+		"ID": 5230,
+		"setting_id": 6,
+		"priority": 23,
+		"name": "ステージを23以上クリア",
+		"entity_type_CommonRewardType": 40,
+		"entity_id": 4000006,
+		"quantity": 1150,
+		"reward_name": "軍団戦コイン1150枚"
+	},
+	{
+		"ID": 5240,
+		"setting_id": 6,
+		"priority": 24,
+		"name": "ステージを24以上クリア",
+		"entity_type_CommonRewardType": 40,
+		"entity_id": 4000006,
+		"quantity": 1200,
+		"reward_name": "軍団戦コイン1200枚"
+	},
+	{
+		"ID": 5250,
+		"setting_id": 6,
+		"priority": 25,
+		"name": "ステージを25以上クリア",
+		"entity_type_CommonRewardType": 40,
+		"entity_id": 4000006,
+		"quantity": 1250,
+		"reward_name": "軍団戦コイン1250枚"
+	},
+	{
+		"ID": 5251,
+		"setting_id": 6,
+		"priority": 25,
+		"name": "ステージを25以上クリア",
+		"entity_type_CommonRewardType": 16,
+		"entity_id": 1459,
+		"quantity": 1,
+		"reward_name": "称号「歴闘奏官『破軍』」"
+	},
+	{
+		"ID": 5252,
+		"setting_id": 7,
+		"priority": 1,
+		"name": "ステージを1つ以上クリア",
+		"entity_type_CommonRewardType": 40,
+		"entity_id": 4000007,
+		"quantity": 400,
+		"reward_name": "軍団戦コイン400枚"
+	},
+	{
+		"ID": 5253,
+		"setting_id": 7,
+		"priority": 2,
+		"name": "ステージを2つ以上クリア",
+		"entity_type_CommonRewardType": 40,
+		"entity_id": 4000007,
+		"quantity": 500,
+		"reward_name": "軍団戦コイン500枚"
+	},
+	{
+		"ID": 5254,
+		"setting_id": 7,
+		"priority": 3,
+		"name": "ステージを3つ以上クリア",
+		"entity_type_CommonRewardType": 40,
+		"entity_id": 4000007,
+		"quantity": 700,
+		"reward_name": "軍団戦コイン700枚"
+	},
+	{
+		"ID": 5255,
+		"setting_id": 7,
+		"priority": 4,
+		"name": "ステージを4つ以上クリア",
+		"entity_type_CommonRewardType": 40,
+		"entity_id": 4000007,
+		"quantity": 1000,
+		"reward_name": "軍団戦コイン1000枚"
+	},
+	{
+		"ID": 5256,
+		"setting_id": 7,
+		"priority": 5,
+		"name": "ステージを5つ以上クリア",
+		"entity_type_CommonRewardType": 40,
+		"entity_id": 4000007,
+		"quantity": 1400,
+		"reward_name": "軍団戦コイン1400枚"
+	},
+	{
+		"ID": 5257,
+		"setting_id": 7,
+		"priority": 6,
+		"name": "ステージを6つ以上クリア",
+		"entity_type_CommonRewardType": 40,
+		"entity_id": 4000007,
+		"quantity": 1900,
+		"reward_name": "軍団戦コイン1900枚"
+	},
+	{
+		"ID": 5258,
+		"setting_id": 7,
+		"priority": 7,
+		"name": "ステージを7つ以上クリア",
+		"entity_type_CommonRewardType": 40,
+		"entity_id": 4000007,
+		"quantity": 2500,
+		"reward_name": "軍団戦コイン2500枚"
+	},
+	{
+		"ID": 5259,
+		"setting_id": 7,
+		"priority": 8,
+		"name": "ステージを8つ以上クリア",
+		"entity_type_CommonRewardType": 40,
+		"entity_id": 4000007,
+		"quantity": 3200,
+		"reward_name": "軍団戦コイン3200枚"
+	},
+	{
+		"ID": 5260,
+		"setting_id": 7,
+		"priority": 9,
+		"name": "ステージを全てクリア",
+		"entity_type_CommonRewardType": 40,
+		"entity_id": 4000007,
+		"quantity": 4000,
+		"reward_name": "軍団戦コイン4000枚"
+	},
+	{
+		"ID": 5261,
+		"setting_id": 7,
+		"priority": 9,
+		"name": "ステージを全てクリア",
+		"entity_type_CommonRewardType": 16,
+		"entity_id": 1485,
+		"quantity": 1,
+		"reward_name": "称号「制勝奏官『征討』」"
+	},
+	{
+		"ID": 5262,
+		"setting_id": 8,
+		"priority": 1,
+		"name": "ステージを1つ以上クリア",
+		"entity_type_CommonRewardType": 40,
+		"entity_id": 4000008,
+		"quantity": 500,
+		"reward_name": "軍団戦コイン500枚"
+	},
+	{
+		"ID": 5263,
+		"setting_id": 8,
+		"priority": 1,
+		"name": "ステージを1つ以上クリア",
+		"entity_type_CommonRewardType": 40,
+		"entity_id": 2000018,
+		"quantity": 100,
+		"reward_name": "クリスマスコイン100枚"
+	},
+	{
+		"ID": 5264,
+		"setting_id": 8,
+		"priority": 2,
+		"name": "ステージを2つ以上クリア",
+		"entity_type_CommonRewardType": 40,
+		"entity_id": 4000008,
+		"quantity": 600,
+		"reward_name": "軍団戦コイン600枚"
+	},
+	{
+		"ID": 5265,
+		"setting_id": 8,
+		"priority": 3,
+		"name": "ステージを3つ以上クリア",
+		"entity_type_CommonRewardType": 40,
+		"entity_id": 4000008,
+		"quantity": 800,
+		"reward_name": "軍団戦コイン800枚"
+	},
+	{
+		"ID": 5266,
+		"setting_id": 8,
+		"priority": 4,
+		"name": "ステージを4つ以上クリア",
+		"entity_type_CommonRewardType": 40,
+		"entity_id": 4000008,
+		"quantity": 1100,
+		"reward_name": "軍団戦コイン1100枚"
+	},
+	{
+		"ID": 5267,
+		"setting_id": 8,
+		"priority": 4,
+		"name": "ステージを4つ以上クリア",
+		"entity_type_CommonRewardType": 40,
+		"entity_id": 2000018,
+		"quantity": 200,
+		"reward_name": "クリスマスコイン200枚"
+	},
+	{
+		"ID": 5268,
+		"setting_id": 8,
+		"priority": 5,
+		"name": "ステージを5つ以上クリア",
+		"entity_type_CommonRewardType": 40,
+		"entity_id": 4000008,
+		"quantity": 1500,
+		"reward_name": "軍団戦コイン1500枚"
+	},
+	{
+		"ID": 5269,
+		"setting_id": 8,
+		"priority": 5,
+		"name": "ステージを5つ以上クリア",
+		"entity_type_CommonRewardType": 40,
+		"entity_id": 2000018,
+		"quantity": 200,
+		"reward_name": "クリスマスコイン200枚"
+	},
+	{
+		"ID": 5270,
+		"setting_id": 8,
+		"priority": 6,
+		"name": "ステージを6つ以上クリア",
+		"entity_type_CommonRewardType": 40,
+		"entity_id": 4000008,
+		"quantity": 2000,
+		"reward_name": "軍団戦コイン2000枚"
+	},
+	{
+		"ID": 5271,
+		"setting_id": 8,
+		"priority": 6,
+		"name": "ステージを6つ以上クリア",
+		"entity_type_CommonRewardType": 40,
+		"entity_id": 2000018,
+		"quantity": 300,
+		"reward_name": "クリスマスコイン300枚"
+	},
+	{
+		"ID": 5272,
+		"setting_id": 8,
+		"priority": 7,
+		"name": "ステージを7つ以上クリア",
+		"entity_type_CommonRewardType": 40,
+		"entity_id": 4000008,
+		"quantity": 2700,
+		"reward_name": "軍団戦コイン2700枚"
+	},
+	{
+		"ID": 5273,
+		"setting_id": 8,
+		"priority": 7,
+		"name": "ステージを7つ以上クリア",
+		"entity_type_CommonRewardType": 40,
+		"entity_id": 2000018,
+		"quantity": 500,
+		"reward_name": "クリスマスコイン500枚"
+	},
+	{
+		"ID": 5274,
+		"setting_id": 8,
+		"priority": 8,
+		"name": "ステージを8つ以上クリア",
+		"entity_type_CommonRewardType": 40,
+		"entity_id": 4000008,
+		"quantity": 3400,
+		"reward_name": "軍団戦コイン3400枚"
+	},
+	{
+		"ID": 5275,
+		"setting_id": 8,
+		"priority": 9,
+		"name": "ステージを全てクリア",
+		"entity_type_CommonRewardType": 40,
+		"entity_id": 4000008,
+		"quantity": 4500,
+		"reward_name": "軍団戦コイン4500枚"
+	},
+	{
+		"ID": 5276,
+		"setting_id": 8,
+		"priority": 9,
+		"name": "ステージを全てクリア",
+		"entity_type_CommonRewardType": 16,
+		"entity_id": 1489,
+		"quantity": 1,
+		"reward_name": "称号「異聞奏官『狂乱』」"
+	},
+	{
+		"ID": 5277,
+		"setting_id": 9,
+		"priority": 1,
+		"name": "ステージを1つ以上クリア",
+		"entity_type_CommonRewardType": 40,
+		"entity_id": 4000009,
+		"quantity": 500,
+		"reward_name": "軍団戦コイン500枚"
+	},
+	{
+		"ID": 5278,
+		"setting_id": 9,
+		"priority": 2,
+		"name": "ステージを2つ以上クリア",
+		"entity_type_CommonRewardType": 40,
+		"entity_id": 4000009,
+		"quantity": 600,
+		"reward_name": "軍団戦コイン600枚"
+	},
+	{
+		"ID": 5279,
+		"setting_id": 9,
+		"priority": 3,
+		"name": "ステージを3つ以上クリア",
+		"entity_type_CommonRewardType": 40,
+		"entity_id": 4000009,
+		"quantity": 800,
+		"reward_name": "軍団戦コイン800枚"
+	},
+	{
+		"ID": 5280,
+		"setting_id": 9,
+		"priority": 4,
+		"name": "ステージを4つ以上クリア",
+		"entity_type_CommonRewardType": 40,
+		"entity_id": 4000009,
+		"quantity": 1100,
+		"reward_name": "軍団戦コイン1100枚"
+	},
+	{
+		"ID": 5281,
+		"setting_id": 9,
+		"priority": 5,
+		"name": "ステージを5つ以上クリア",
+		"entity_type_CommonRewardType": 40,
+		"entity_id": 4000009,
+		"quantity": 1500,
+		"reward_name": "軍団戦コイン1500枚"
+	},
+	{
+		"ID": 5282,
+		"setting_id": 9,
+		"priority": 6,
+		"name": "ステージを6つ以上クリア",
+		"entity_type_CommonRewardType": 40,
+		"entity_id": 4000009,
+		"quantity": 2000,
+		"reward_name": "軍団戦コイン2000枚"
+	},
+	{
+		"ID": 5283,
+		"setting_id": 9,
+		"priority": 7,
+		"name": "ステージを7つ以上クリア",
+		"entity_type_CommonRewardType": 40,
+		"entity_id": 4000009,
+		"quantity": 2700,
+		"reward_name": "軍団戦コイン2700枚"
+	},
+	{
+		"ID": 5284,
+		"setting_id": 9,
+		"priority": 8,
+		"name": "ステージを8つ以上クリア",
+		"entity_type_CommonRewardType": 40,
+		"entity_id": 4000009,
+		"quantity": 3400,
+		"reward_name": "軍団戦コイン3400枚"
+	},
+	{
+		"ID": 5285,
+		"setting_id": 9,
+		"priority": 9,
+		"name": "ステージを全てクリア",
+		"entity_type_CommonRewardType": 40,
+		"entity_id": 4000009,
+		"quantity": 4500,
+		"reward_name": "軍団戦コイン4500枚"
+	},
+	{
+		"ID": 5286,
+		"setting_id": 9,
+		"priority": 9,
+		"name": "ステージを全てクリア",
+		"entity_type_CommonRewardType": 16,
+		"entity_id": 1520,
+		"quantity": 1,
+		"reward_name": "称号「異聞奏官『悲哀』」"
+	},
+	{
+		"ID": 5287,
+		"setting_id": 10,
+		"priority": 1,
+		"name": "ステージを1つ以上クリア",
+		"entity_type_CommonRewardType": 40,
+		"entity_id": 2000021,
+		"quantity": 500,
+		"reward_name": "600万DL記念軍団戦コイン500枚"
+	},
+	{
+		"ID": 5288,
+		"setting_id": 10,
+		"priority": 2,
+		"name": "ステージを2つ以上クリア",
+		"entity_type_CommonRewardType": 40,
+		"entity_id": 2000021,
+		"quantity": 600,
+		"reward_name": "600万DL記念軍団戦コイン600枚"
+	},
+	{
+		"ID": 5289,
+		"setting_id": 10,
+		"priority": 3,
+		"name": "ステージを3つ以上クリア",
+		"entity_type_CommonRewardType": 40,
+		"entity_id": 2000021,
+		"quantity": 800,
+		"reward_name": "600万DL記念軍団戦コイン800枚"
+	},
+	{
+		"ID": 5290,
+		"setting_id": 10,
+		"priority": 4,
+		"name": "ステージを4つ以上クリア",
+		"entity_type_CommonRewardType": 40,
+		"entity_id": 2000021,
+		"quantity": 1100,
+		"reward_name": "600万DL記念軍団戦コイン1100枚"
+	},
+	{
+		"ID": 5291,
+		"setting_id": 10,
+		"priority": 5,
+		"name": "ステージを5つ以上クリア",
+		"entity_type_CommonRewardType": 40,
+		"entity_id": 2000021,
+		"quantity": 1500,
+		"reward_name": "600万DL記念軍団戦コイン1500枚"
+	},
+	{
+		"ID": 5292,
+		"setting_id": 10,
+		"priority": 6,
+		"name": "ステージを6つ以上クリア",
+		"entity_type_CommonRewardType": 40,
+		"entity_id": 2000021,
+		"quantity": 2000,
+		"reward_name": "600万DL記念軍団戦コイン2000枚"
+	},
+	{
+		"ID": 5293,
+		"setting_id": 10,
+		"priority": 7,
+		"name": "ステージを7つ以上クリア",
+		"entity_type_CommonRewardType": 40,
+		"entity_id": 2000021,
+		"quantity": 2700,
+		"reward_name": "600万DL記念軍団戦コイン2700枚"
+	},
+	{
+		"ID": 5294,
+		"setting_id": 10,
+		"priority": 8,
+		"name": "ステージを8つ以上クリア",
+		"entity_type_CommonRewardType": 40,
+		"entity_id": 2000021,
+		"quantity": 3400,
+		"reward_name": "600万DL記念軍団戦コイン3400枚"
+	},
+	{
+		"ID": 5295,
+		"setting_id": 10,
+		"priority": 9,
+		"name": "ステージを全てクリア",
+		"entity_type_CommonRewardType": 40,
+		"entity_id": 2000021,
+		"quantity": 4500,
+		"reward_name": "600万DL記念軍団戦コイン4500枚"
+	},
+	{
+		"ID": 5296,
+		"setting_id": 10,
+		"priority": 9,
+		"name": "ステージを全てクリア",
+		"entity_type_CommonRewardType": 16,
+		"entity_id": 1534,
+		"quantity": 1,
+		"reward_name": "称号「欣幸奏官『祝銘』」"
+	},
+	{
+		"ID": 5297,
+		"setting_id": 11,
+		"priority": 1,
+		"name": "ステージを1つ以上クリア",
+		"entity_type_CommonRewardType": 40,
+		"entity_id": 4000011,
+		"quantity": 500,
+		"reward_name": "軍団戦コイン500枚"
+	},
+	{
+		"ID": 5298,
+		"setting_id": 11,
+		"priority": 2,
+		"name": "ステージを2つ以上クリア",
+		"entity_type_CommonRewardType": 40,
+		"entity_id": 4000011,
+		"quantity": 600,
+		"reward_name": "軍団戦コイン600枚"
+	},
+	{
+		"ID": 5299,
+		"setting_id": 11,
+		"priority": 3,
+		"name": "ステージを3つ以上クリア",
+		"entity_type_CommonRewardType": 40,
+		"entity_id": 4000011,
+		"quantity": 800,
+		"reward_name": "軍団戦コイン800枚"
+	},
+	{
+		"ID": 5300,
+		"setting_id": 11,
+		"priority": 4,
+		"name": "ステージを4つ以上クリア",
+		"entity_type_CommonRewardType": 40,
+		"entity_id": 4000011,
+		"quantity": 1100,
+		"reward_name": "軍団戦コイン1100枚"
+	},
+	{
+		"ID": 5301,
+		"setting_id": 11,
+		"priority": 5,
+		"name": "ステージを5つ以上クリア",
+		"entity_type_CommonRewardType": 40,
+		"entity_id": 4000011,
+		"quantity": 1500,
+		"reward_name": "軍団戦コイン1500枚"
+	},
+	{
+		"ID": 5302,
+		"setting_id": 11,
+		"priority": 6,
+		"name": "ステージを6つ以上クリア",
+		"entity_type_CommonRewardType": 40,
+		"entity_id": 4000011,
+		"quantity": 2000,
+		"reward_name": "軍団戦コイン2000枚"
+	},
+	{
+		"ID": 5303,
+		"setting_id": 11,
+		"priority": 7,
+		"name": "ステージを7つ以上クリア",
+		"entity_type_CommonRewardType": 40,
+		"entity_id": 4000011,
+		"quantity": 2700,
+		"reward_name": "軍団戦コイン2700枚"
+	},
+	{
+		"ID": 5304,
+		"setting_id": 11,
+		"priority": 8,
+		"name": "ステージを8つ以上クリア",
+		"entity_type_CommonRewardType": 40,
+		"entity_id": 4000011,
+		"quantity": 3400,
+		"reward_name": "軍団戦コイン3400枚"
+	},
+	{
+		"ID": 5305,
+		"setting_id": 11,
+		"priority": 9,
+		"name": "ステージを全てクリア",
+		"entity_type_CommonRewardType": 40,
+		"entity_id": 4000011,
+		"quantity": 4500,
+		"reward_name": "軍団戦コイン4500枚"
+	},
+	{
+		"ID": 5306,
+		"setting_id": 11,
+		"priority": 9,
+		"name": "ステージを全てクリア",
+		"entity_type_CommonRewardType": 16,
+		"entity_id": 1586,
+		"quantity": 1,
+		"reward_name": "称号「協奏奏官『一心』」"
+	},
+	{
+		"ID": 5307,
+		"setting_id": 12,
+		"priority": 1,
+		"name": "ステージを1つ以上クリア",
+		"entity_type_CommonRewardType": 40,
+		"entity_id": 4000012,
+		"quantity": 500,
+		"reward_name": "軍団戦コイン500枚"
+	},
+	{
+		"ID": 5308,
+		"setting_id": 12,
+		"priority": 2,
+		"name": "ステージを2つ以上クリア",
+		"entity_type_CommonRewardType": 40,
+		"entity_id": 4000012,
+		"quantity": 600,
+		"reward_name": "軍団戦コイン600枚"
+	},
+	{
+		"ID": 5309,
+		"setting_id": 12,
+		"priority": 3,
+		"name": "ステージを3つ以上クリア",
+		"entity_type_CommonRewardType": 40,
+		"entity_id": 4000012,
+		"quantity": 800,
+		"reward_name": "軍団戦コイン800枚"
+	},
+	{
+		"ID": 5310,
+		"setting_id": 12,
+		"priority": 4,
+		"name": "ステージを4つ以上クリア",
+		"entity_type_CommonRewardType": 40,
+		"entity_id": 4000012,
+		"quantity": 1100,
+		"reward_name": "軍団戦コイン1100枚"
+	},
+	{
+		"ID": 5311,
+		"setting_id": 12,
+		"priority": 5,
+		"name": "ステージを5つ以上クリア",
+		"entity_type_CommonRewardType": 40,
+		"entity_id": 4000012,
+		"quantity": 1500,
+		"reward_name": "軍団戦コイン1500枚"
+	},
+	{
+		"ID": 5312,
+		"setting_id": 12,
+		"priority": 6,
+		"name": "ステージを6つ以上クリア",
+		"entity_type_CommonRewardType": 40,
+		"entity_id": 4000012,
+		"quantity": 2000,
+		"reward_name": "軍団戦コイン2000枚"
+	},
+	{
+		"ID": 5313,
+		"setting_id": 12,
+		"priority": 7,
+		"name": "ステージを7つ以上クリア",
+		"entity_type_CommonRewardType": 40,
+		"entity_id": 4000012,
+		"quantity": 2700,
+		"reward_name": "軍団戦コイン2700枚"
+	},
+	{
+		"ID": 5314,
+		"setting_id": 12,
+		"priority": 8,
+		"name": "ステージを8つ以上クリア",
+		"entity_type_CommonRewardType": 40,
+		"entity_id": 4000012,
+		"quantity": 3400,
+		"reward_name": "軍団戦コイン3400枚"
+	},
+	{
+		"ID": 5315,
+		"setting_id": 12,
+		"priority": 9,
+		"name": "ステージを全てクリア",
+		"entity_type_CommonRewardType": 40,
+		"entity_id": 4000012,
+		"quantity": 4500,
+		"reward_name": "軍団戦コイン4500枚"
+	},
+	{
+		"ID": 5316,
+		"setting_id": 12,
+		"priority": 9,
+		"name": "ステージを全てクリア",
+		"entity_type_CommonRewardType": 16,
+		"entity_id": 1595,
+		"quantity": 1,
+		"reward_name": "称号「異聞奏官『赤日』」"
+	},
+	{
+		"ID": 5317,
+		"setting_id": 13,
+		"priority": 1,
+		"name": "ステージを1つ以上クリア",
+		"entity_type_CommonRewardType": 40,
+		"entity_id": 4000013,
+		"quantity": 500,
+		"reward_name": "軍団戦コイン500枚"
+	},
+	{
+		"ID": 5318,
+		"setting_id": 13,
+		"priority": 2,
+		"name": "ステージを2つ以上クリア",
+		"entity_type_CommonRewardType": 40,
+		"entity_id": 4000013,
+		"quantity": 600,
+		"reward_name": "軍団戦コイン600枚"
+	},
+	{
+		"ID": 5319,
+		"setting_id": 13,
+		"priority": 3,
+		"name": "ステージを3つ以上クリア",
+		"entity_type_CommonRewardType": 40,
+		"entity_id": 4000013,
+		"quantity": 800,
+		"reward_name": "軍団戦コイン800枚"
+	},
+	{
+		"ID": 5320,
+		"setting_id": 13,
+		"priority": 4,
+		"name": "ステージを4つ以上クリア",
+		"entity_type_CommonRewardType": 40,
+		"entity_id": 4000013,
+		"quantity": 1100,
+		"reward_name": "軍団戦コイン1100枚"
+	},
+	{
+		"ID": 5321,
+		"setting_id": 13,
+		"priority": 5,
+		"name": "ステージを5つ以上クリア",
+		"entity_type_CommonRewardType": 40,
+		"entity_id": 4000013,
+		"quantity": 1500,
+		"reward_name": "軍団戦コイン1500枚"
+	},
+	{
+		"ID": 5322,
+		"setting_id": 13,
+		"priority": 6,
+		"name": "ステージを6つ以上クリア",
+		"entity_type_CommonRewardType": 40,
+		"entity_id": 4000013,
+		"quantity": 2000,
+		"reward_name": "軍団戦コイン2000枚"
+	},
+	{
+		"ID": 5323,
+		"setting_id": 13,
+		"priority": 7,
+		"name": "ステージを7つ以上クリア",
+		"entity_type_CommonRewardType": 40,
+		"entity_id": 4000013,
+		"quantity": 2700,
+		"reward_name": "軍団戦コイン2700枚"
+	},
+	{
+		"ID": 5324,
+		"setting_id": 13,
+		"priority": 8,
+		"name": "ステージを8つ以上クリア",
+		"entity_type_CommonRewardType": 40,
+		"entity_id": 4000013,
+		"quantity": 3400,
+		"reward_name": "軍団戦コイン3400枚"
+	},
+	{
+		"ID": 5325,
+		"setting_id": 13,
+		"priority": 9,
+		"name": "ステージを全てクリア",
+		"entity_type_CommonRewardType": 40,
+		"entity_id": 4000013,
+		"quantity": 4500,
+		"reward_name": "軍団戦コイン4500枚"
+	},
+	{
+		"ID": 5326,
+		"setting_id": 13,
+		"priority": 9,
+		"name": "ステージを全てクリア",
+		"entity_type_CommonRewardType": 16,
+		"entity_id": 1608,
+		"quantity": 1,
+		"reward_name": "称号「異聞奏官『華氷』」 "
+	},
+	{
+		"ID": 5327,
+		"setting_id": 14,
+		"priority": 1,
+		"name": "ステージを1つ以上クリア",
+		"entity_type_CommonRewardType": 40,
+		"entity_id": 4000014,
+		"quantity": 500,
+		"reward_name": "軍団戦コイン500枚"
+	},
+	{
+		"ID": 5328,
+		"setting_id": 14,
+		"priority": 2,
+		"name": "ステージを2つ以上クリア",
+		"entity_type_CommonRewardType": 40,
+		"entity_id": 4000014,
+		"quantity": 600,
+		"reward_name": "軍団戦コイン600枚"
+	},
+	{
+		"ID": 5329,
+		"setting_id": 14,
+		"priority": 3,
+		"name": "ステージを3つ以上クリア",
+		"entity_type_CommonRewardType": 40,
+		"entity_id": 4000014,
+		"quantity": 800,
+		"reward_name": "軍団戦コイン800枚"
+	},
+	{
+		"ID": 5330,
+		"setting_id": 14,
+		"priority": 4,
+		"name": "ステージを4つ以上クリア",
+		"entity_type_CommonRewardType": 40,
+		"entity_id": 4000014,
+		"quantity": 1100,
+		"reward_name": "軍団戦コイン1100枚"
+	},
+	{
+		"ID": 5331,
+		"setting_id": 14,
+		"priority": 5,
+		"name": "ステージを5つ以上クリア",
+		"entity_type_CommonRewardType": 40,
+		"entity_id": 4000014,
+		"quantity": 1500,
+		"reward_name": "軍団戦コイン1500枚"
+	},
+	{
+		"ID": 5332,
+		"setting_id": 14,
+		"priority": 6,
+		"name": "ステージを6つ以上クリア",
+		"entity_type_CommonRewardType": 40,
+		"entity_id": 4000014,
+		"quantity": 2000,
+		"reward_name": "軍団戦コイン2000枚"
+	},
+	{
+		"ID": 5333,
+		"setting_id": 14,
+		"priority": 7,
+		"name": "ステージを7つ以上クリア",
+		"entity_type_CommonRewardType": 40,
+		"entity_id": 4000014,
+		"quantity": 2700,
+		"reward_name": "軍団戦コイン2700枚"
+	},
+	{
+		"ID": 5334,
+		"setting_id": 14,
+		"priority": 8,
+		"name": "ステージを8つ以上クリア",
+		"entity_type_CommonRewardType": 40,
+		"entity_id": 4000014,
+		"quantity": 3400,
+		"reward_name": "軍団戦コイン3400枚"
+	},
+	{
+		"ID": 5335,
+		"setting_id": 14,
+		"priority": 9,
+		"name": "ステージを全てクリア",
+		"entity_type_CommonRewardType": 40,
+		"entity_id": 4000014,
+		"quantity": 4500,
+		"reward_name": "軍団戦コイン4500枚"
+	},
+	{
+		"ID": 5336,
+		"setting_id": 14,
+		"priority": 9,
+		"name": "ステージを全てクリア",
+		"entity_type_CommonRewardType": 16,
+		"entity_id": 1652,
+		"quantity": 1,
+		"reward_name": "称号「幻獣奏官『聖火』」"
+	},
+	{
+		"ID": 5337,
+		"setting_id": 15,
+		"priority": 1,
+		"name": "ステージを1つ以上クリア",
+		"entity_type_CommonRewardType": 40,
+		"entity_id": 4000015,
+		"quantity": 800,
+		"reward_name": "軍団戦コイン800枚"
+	},
+	{
+		"ID": 5338,
+		"setting_id": 15,
+		"priority": 2,
+		"name": "ステージを2つ以上クリア",
+		"entity_type_CommonRewardType": 40,
+		"entity_id": 4000015,
+		"quantity": 1200,
+		"reward_name": "軍団戦コイン1200枚"
+	},
+	{
+		"ID": 5339,
+		"setting_id": 15,
+		"priority": 3,
+		"name": "ステージを3つ以上クリア",
+		"entity_type_CommonRewardType": 40,
+		"entity_id": 4000015,
+		"quantity": 1600,
+		"reward_name": "軍団戦コイン1600枚"
+	},
+	{
+		"ID": 5340,
+		"setting_id": 15,
+		"priority": 4,
+		"name": "ステージを4つ以上クリア",
+		"entity_type_CommonRewardType": 40,
+		"entity_id": 4000015,
+		"quantity": 2000,
+		"reward_name": "軍団戦コイン2000枚"
+	},
+	{
+		"ID": 5341,
+		"setting_id": 15,
+		"priority": 5,
+		"name": "ステージを5つ以上クリア",
+		"entity_type_CommonRewardType": 40,
+		"entity_id": 4000015,
+		"quantity": 2400,
+		"reward_name": "軍団戦コイン2400枚"
+	},
+	{
+		"ID": 5342,
+		"setting_id": 15,
+		"priority": 6,
+		"name": "ステージを6つ以上クリア",
+		"entity_type_CommonRewardType": 40,
+		"entity_id": 4000015,
+		"quantity": 3200,
+		"reward_name": "軍団戦コイン3200枚"
+	},
+	{
+		"ID": 5343,
+		"setting_id": 15,
+		"priority": 7,
+		"name": "ステージを全てクリア",
+		"entity_type_CommonRewardType": 40,
+		"entity_id": 4000015,
+		"quantity": 6000,
+		"reward_name": "軍団戦コイン6000枚"
+	},
+	{
+		"ID": 5344,
+		"setting_id": 15,
+		"priority": 7,
+		"name": "ステージを全てクリア",
+		"entity_type_CommonRewardType": 16,
+		"entity_id": 1689,
+		"quantity": 1,
+		"reward_name": "称号「重奏奏官『絢爛』」"
+	},
+	{
+		"ID": 5345,
+		"setting_id": 16,
+		"priority": 1,
+		"name": "ステージを1つ以上クリア",
+		"entity_type_CommonRewardType": 40,
+		"entity_id": 4000016,
+		"quantity": 500,
+		"reward_name": "軍団戦コイン500枚"
+	},
+	{
+		"ID": 5346,
+		"setting_id": 16,
+		"priority": 2,
+		"name": "ステージを2つ以上クリア",
+		"entity_type_CommonRewardType": 40,
+		"entity_id": 4000016,
+		"quantity": 600,
+		"reward_name": "軍団戦コイン600枚"
+	},
+	{
+		"ID": 5347,
+		"setting_id": 16,
+		"priority": 3,
+		"name": "ステージを3つ以上クリア",
+		"entity_type_CommonRewardType": 40,
+		"entity_id": 4000016,
+		"quantity": 800,
+		"reward_name": "軍団戦コイン800枚"
+	},
+	{
+		"ID": 5348,
+		"setting_id": 16,
+		"priority": 4,
+		"name": "ステージを4つ以上クリア",
+		"entity_type_CommonRewardType": 40,
+		"entity_id": 4000016,
+		"quantity": 1100,
+		"reward_name": "軍団戦コイン1100枚"
+	},
+	{
+		"ID": 5349,
+		"setting_id": 16,
+		"priority": 5,
+		"name": "ステージを5つ以上クリア",
+		"entity_type_CommonRewardType": 40,
+		"entity_id": 4000016,
+		"quantity": 1500,
+		"reward_name": "軍団戦コイン1500枚"
+	},
+	{
+		"ID": 5350,
+		"setting_id": 16,
+		"priority": 6,
+		"name": "ステージを6つ以上クリア",
+		"entity_type_CommonRewardType": 40,
+		"entity_id": 4000016,
+		"quantity": 2000,
+		"reward_name": "軍団戦コイン2000枚"
+	},
+	{
+		"ID": 5351,
+		"setting_id": 16,
+		"priority": 7,
+		"name": "ステージを7つ以上クリア",
+		"entity_type_CommonRewardType": 40,
+		"entity_id": 4000016,
+		"quantity": 2700,
+		"reward_name": "軍団戦コイン2700枚"
+	},
+	{
+		"ID": 5352,
+		"setting_id": 16,
+		"priority": 8,
+		"name": "ステージを8つ以上クリア",
+		"entity_type_CommonRewardType": 40,
+		"entity_id": 4000016,
+		"quantity": 3400,
+		"reward_name": "軍団戦コイン3400枚"
+	},
+	{
+		"ID": 5353,
+		"setting_id": 16,
+		"priority": 9,
+		"name": "ステージを全てクリア",
+		"entity_type_CommonRewardType": 40,
+		"entity_id": 4000016,
+		"quantity": 4500,
+		"reward_name": "軍団戦コイン4500枚"
+	},
+	{
+		"ID": 5354,
+		"setting_id": 16,
+		"priority": 9,
+		"name": "ステージを全てクリア",
+		"entity_type_CommonRewardType": 16,
+		"entity_id": 1730,
+		"quantity": 1,
+		"reward_name": "称号「合奏奏官『轟音』」"
+	},
+	{
+		"ID": 5355,
+		"setting_id": 17,
+		"priority": 1,
+		"name": "ステージを1つ以上クリア",
+		"entity_type_CommonRewardType": 40,
+		"entity_id": 4000017,
+		"quantity": 500,
+		"reward_name": "軍団戦コイン500枚"
+	},
+	{
+		"ID": 5356,
+		"setting_id": 17,
+		"priority": 2,
+		"name": "ステージを2つ以上クリア",
+		"entity_type_CommonRewardType": 40,
+		"entity_id": 4000017,
+		"quantity": 600,
+		"reward_name": "軍団戦コイン600枚"
+	},
+	{
+		"ID": 5357,
+		"setting_id": 17,
+		"priority": 3,
+		"name": "ステージを3つ以上クリア",
+		"entity_type_CommonRewardType": 40,
+		"entity_id": 4000017,
+		"quantity": 800,
+		"reward_name": "軍団戦コイン800枚"
+	},
+	{
+		"ID": 5358,
+		"setting_id": 17,
+		"priority": 4,
+		"name": "ステージを4つ以上クリア",
+		"entity_type_CommonRewardType": 40,
+		"entity_id": 4000017,
+		"quantity": 1100,
+		"reward_name": "軍団戦コイン1100枚"
+	},
+	{
+		"ID": 5359,
+		"setting_id": 17,
+		"priority": 5,
+		"name": "ステージを5つ以上クリア",
+		"entity_type_CommonRewardType": 40,
+		"entity_id": 4000017,
+		"quantity": 1500,
+		"reward_name": "軍団戦コイン1500枚"
+	},
+	{
+		"ID": 5360,
+		"setting_id": 17,
+		"priority": 6,
+		"name": "ステージを6つ以上クリア",
+		"entity_type_CommonRewardType": 40,
+		"entity_id": 4000017,
+		"quantity": 2000,
+		"reward_name": "軍団戦コイン2000枚"
+	},
+	{
+		"ID": 5361,
+		"setting_id": 17,
+		"priority": 7,
+		"name": "ステージを7つ以上クリア",
+		"entity_type_CommonRewardType": 40,
+		"entity_id": 4000017,
+		"quantity": 2700,
+		"reward_name": "軍団戦コイン2700枚"
+	},
+	{
+		"ID": 5362,
+		"setting_id": 17,
+		"priority": 8,
+		"name": "ステージを8つ以上クリア",
+		"entity_type_CommonRewardType": 40,
+		"entity_id": 4000017,
+		"quantity": 3400,
+		"reward_name": "軍団戦コイン3400枚"
+	},
+	{
+		"ID": 5363,
+		"setting_id": 17,
+		"priority": 9,
+		"name": "ステージを全てクリア",
+		"entity_type_CommonRewardType": 40,
+		"entity_id": 4000017,
+		"quantity": 4500,
+		"reward_name": "軍団戦コイン4500枚"
+	},
+	{
+		"ID": 5364,
+		"setting_id": 17,
+		"priority": 9,
+		"name": "ステージを全てクリア",
+		"entity_type_CommonRewardType": 16,
+		"entity_id": 1766,
+		"quantity": 1,
+		"reward_name": "称号「異界奏官『忍夢』」"
+	},
+	{
+		"ID": 5365,
+		"setting_id": 18,
+		"priority": 1,
+		"name": "ステージを1つ以上クリア",
+		"entity_type_CommonRewardType": 40,
+		"entity_id": 4000018,
+		"quantity": 400,
+		"reward_name": "軍団戦コイン400枚"
+	},
+	{
+		"ID": 5366,
+		"setting_id": 18,
+		"priority": 2,
+		"name": "ステージを2つ以上クリア",
+		"entity_type_CommonRewardType": 40,
+		"entity_id": 4000018,
+		"quantity": 500,
+		"reward_name": "軍団戦コイン500枚"
+	},
+	{
+		"ID": 5367,
+		"setting_id": 18,
+		"priority": 3,
+		"name": "ステージを3つ以上クリア",
+		"entity_type_CommonRewardType": 40,
+		"entity_id": 4000018,
+		"quantity": 700,
+		"reward_name": "軍団戦コイン700枚"
+	},
+	{
+		"ID": 5368,
+		"setting_id": 18,
+		"priority": 4,
+		"name": "ステージを4つ以上クリア",
+		"entity_type_CommonRewardType": 40,
+		"entity_id": 4000018,
+		"quantity": 1000,
+		"reward_name": "軍団戦コイン1000枚"
+	},
+	{
+		"ID": 5369,
+		"setting_id": 18,
+		"priority": 5,
+		"name": "ステージを5つ以上クリア",
+		"entity_type_CommonRewardType": 40,
+		"entity_id": 4000018,
+		"quantity": 1400,
+		"reward_name": "軍団戦コイン1400枚"
+	},
+	{
+		"ID": 5370,
+		"setting_id": 18,
+		"priority": 6,
+		"name": "ステージを6つ以上クリア",
+		"entity_type_CommonRewardType": 40,
+		"entity_id": 4000018,
+		"quantity": 1900,
+		"reward_name": "軍団戦コイン1900枚"
+	},
+	{
+		"ID": 5371,
+		"setting_id": 18,
+		"priority": 7,
+		"name": "ステージを7つ以上クリア",
+		"entity_type_CommonRewardType": 40,
+		"entity_id": 4000018,
+		"quantity": 2500,
+		"reward_name": "軍団戦コイン2500枚"
+	},
+	{
+		"ID": 5372,
+		"setting_id": 18,
+		"priority": 8,
+		"name": "ステージを8つ以上クリア",
+		"entity_type_CommonRewardType": 40,
+		"entity_id": 4000018,
+		"quantity": 3200,
+		"reward_name": "軍団戦コイン3200枚"
+	},
+	{
+		"ID": 5373,
+		"setting_id": 18,
+		"priority": 9,
+		"name": "ステージを全てクリア",
+		"entity_type_CommonRewardType": 40,
+		"entity_id": 4000018,
+		"quantity": 4000,
+		"reward_name": "軍団戦コイン4000枚"
+	},
+	{
+		"ID": 5374,
+		"setting_id": 18,
+		"priority": 9,
+		"name": "ステージを全てクリア",
+		"entity_type_CommonRewardType": 16,
+		"entity_id": 1395,
+		"quantity": 1,
+		"reward_name": "称号「師旅奏官『白哀』」"
+	}
+]

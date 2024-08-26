@@ -1,0 +1,302 @@
+[
+	{
+		"ID": 4001,
+		"unitID": 2300911,
+		"questionID": 9300901,
+		"script": ";;大刀,1\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 3009 \"seiryu_0001\"\n@青龍偃月刀\nさぁ主君よ、勉学の時間です\n\n# face %(unit_a)s \"angry\"\n@青龍偃月刀\nあっ、逃げるな！\n待ちなさい！\n\n# face %(unit_a)s \"sad\"\n@青龍偃月刀\nよいですか？\n貴方は私の主なのですよ？\n\n# face %(unit_a)s \"usual\"\n# voice 3009 \"seiryu_0003\"\n@青龍偃月刀\nならば、私のことを\n理解しているのは当然でしょう？\n\n# voice 3009 \"seiryu_0036\"\n@青龍偃月刀\nということで参ります！\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私のキラーズ『青龍偃月刀』は\nどんな武器でしょうか？\n\n# se \"SE_0734\"\n# select \"大刀\" \"select_label_1\" \"斧\" \"select_label_2\" \"槍\" \"select_label_3\"\n私のキラーズ『青龍偃月刀』は\nどんな武器でしょうか？\n"
+	},
+	{
+		"ID": 4002,
+		"unitID": 2300911,
+		"questionID": 9300902,
+		"script": ";;関羽,2\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 3009 \"seiryu_0001\"\n@青龍偃月刀\nさぁ主君よ、勉学の時間です\n\n# face %(unit_a)s \"angry\"\n@青龍偃月刀\nあっ、逃げるな！\n待ちなさい！\n\n# face %(unit_a)s \"sad\"\n@青龍偃月刀\nよいですか？\n貴方は私の主なのですよ？\n\n# face %(unit_a)s \"usual\"\n# voice 3009 \"seiryu_0003\"\n@青龍偃月刀\nならば、私のことを\n理解しているのは当然でしょう？\n\n# voice 3009 \"seiryu_0036\"\n@青龍偃月刀\nということで参ります！\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私のキラーズの持ち主は\nお分かりですか？\n\n# se \"SE_0734\"\n# select \"織田信長\" \"select_label_1\" \"関羽\" \"select_label_2\" \"曹操\" \"select_label_3\"\n私のキラーズの持ち主は\nお分かりですか？\n"
+	},
+	{
+		"ID": 4003,
+		"unitID": 2300911,
+		"questionID": 9300903,
+		"script": ";;薙刀,3\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 3009 \"seiryu_0001\"\n@青龍偃月刀\nさぁ主君よ、勉学の時間です\n\n# face %(unit_a)s \"angry\"\n@青龍偃月刀\nあっ、逃げるな！\n待ちなさい！\n\n# face %(unit_a)s \"sad\"\n@青龍偃月刀\nよいですか？\n貴方は私の主なのですよ？\n\n# face %(unit_a)s \"usual\"\n# voice 3009 \"seiryu_0003\"\n@青龍偃月刀\nならば、私のことを\n理解しているのは当然でしょう？\n\n# voice 3009 \"seiryu_0036\"\n@青龍偃月刀\nということで参ります！\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私のキラーズ『青龍偃月刀』は\n日本のどんな武器に似ていますか？\n\n# se \"SE_0734\"\n# select \"脇差\" \"select_label_1\" \"大太刀\" \"select_label_2\" \"薙刀\" \"select_label_3\"\n私のキラーズ『青龍偃月刀』は\n日本のどんな武器に似ていますか？\n"
+	},
+	{
+		"ID": 4004,
+		"unitID": 2300911,
+		"questionID": 9300904,
+		"script": ";;刃が幅広,1\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 3009 \"seiryu_0001\"\n@青龍偃月刀\nさぁ主君よ、勉学の時間です\n\n# face %(unit_a)s \"angry\"\n@青龍偃月刀\nあっ、逃げるな！\n待ちなさい！\n\n# face %(unit_a)s \"sad\"\n@青龍偃月刀\nよいですか？\n貴方は私の主なのですよ？\n\n# face %(unit_a)s \"usual\"\n# voice 3009 \"seiryu_0003\"\n@青龍偃月刀\nならば、私のことを\n理解しているのは当然でしょう？\n\n# voice 3009 \"seiryu_0036\"\n@青龍偃月刀\nということで参ります！\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私のキラーズ『青龍偃月刀』と\n薙刀の違いはわかりますか？\n\n# se \"SE_0734\"\n# select \"刃が幅広\" \"select_label_1\" \"刃がギザギザ\" \"select_label_2\" \"刃がなんか光ってる\" \"select_label_3\"\n私のキラーズ『青龍偃月刀』と\n薙刀の違いはわかりますか？\n"
+	},
+	{
+		"ID": 4005,
+		"unitID": 2300911,
+		"questionID": 9300905,
+		"script": ";;馬上,2\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 3009 \"seiryu_0001\"\n@青龍偃月刀\nさぁ主君よ、勉学の時間です\n\n# face %(unit_a)s \"angry\"\n@青龍偃月刀\nあっ、逃げるな！\n待ちなさい！\n\n# face %(unit_a)s \"sad\"\n@青龍偃月刀\nよいですか？\n貴方は私の主なのですよ？\n\n# face %(unit_a)s \"usual\"\n# voice 3009 \"seiryu_0003\"\n@青龍偃月刀\nならば、私のことを\n理解しているのは当然でしょう？\n\n# voice 3009 \"seiryu_0036\"\n@青龍偃月刀\nということで参ります！\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私のキラーズ『青龍偃月刀』は\n主にどこで振るわれた武器か\nわかりますか？\n\n# se \"SE_0734\"\n# select \"城壁\" \"select_label_1\" \"馬上\" \"select_label_2\" \"城内\" \"select_label_3\"\n私のキラーズ『青龍偃月刀』は\n主にどこで振るわれた武器か\nわかりますか？\n"
+	},
+	{
+		"ID": 4006,
+		"unitID": 2300911,
+		"questionID": 9300906,
+		"script": ";;三国志演義,3\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 3009 \"seiryu_0001\"\n@青龍偃月刀\nさぁ主君よ、勉学の時間です\n\n# face %(unit_a)s \"angry\"\n@青龍偃月刀\nあっ、逃げるな！\n待ちなさい！\n\n# face %(unit_a)s \"sad\"\n@青龍偃月刀\nよいですか？\n貴方は私の主なのですよ？\n\n# face %(unit_a)s \"usual\"\n# voice 3009 \"seiryu_0003\"\n@青龍偃月刀\nならば、私のことを\n理解しているのは当然でしょう？\n\n# voice 3009 \"seiryu_0036\"\n@青龍偃月刀\nということで参ります！\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私のキラーズ『青龍偃月刀』は\nどんな物語に登場しますか？\n\n# se \"SE_0734\"\n# select \"イソップ物語\" \"select_label_1\" \"ギリシア神話\" \"select_label_2\" \"三国志演義\" \"select_label_3\"\n私のキラーズ『青龍偃月刀』は\nどんな物語に登場しますか？\n"
+	},
+	{
+		"ID": 4007,
+		"unitID": 2300911,
+		"questionID": 9300907,
+		"script": ";;劉備,1\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 3009 \"seiryu_0001\"\n@青龍偃月刀\nさぁ主君よ、勉学の時間です\n\n# face %(unit_a)s \"angry\"\n@青龍偃月刀\nあっ、逃げるな！\n待ちなさい！\n\n# face %(unit_a)s \"sad\"\n@青龍偃月刀\nよいですか？\n貴方は私の主なのですよ？\n\n# face %(unit_a)s \"usual\"\n# voice 3009 \"seiryu_0003\"\n@青龍偃月刀\nならば、私のことを\n理解しているのは当然でしょう？\n\n# voice 3009 \"seiryu_0036\"\n@青龍偃月刀\nということで参ります！\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私のキラーズの持ち主の関羽は\n誰に仕えた武将かわかりますか？\n\n# se \"SE_0734\"\n# select \"劉備\" \"select_label_1\" \"曹操\" \"select_label_2\" \"孫権\" \"select_label_3\"\n私のキラーズの持ち主の関羽は\n誰に仕えた武将かわかりますか？\n"
+	},
+	{
+		"ID": 4008,
+		"unitID": 2300911,
+		"questionID": 9300908,
+		"script": ";;魏・呉・蜀,2\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 3009 \"seiryu_0001\"\n@青龍偃月刀\nさぁ主君よ、勉学の時間です\n\n# face %(unit_a)s \"angry\"\n@青龍偃月刀\nあっ、逃げるな！\n待ちなさい！\n\n# face %(unit_a)s \"sad\"\n@青龍偃月刀\nよいですか？\n貴方は私の主なのですよ？\n\n# face %(unit_a)s \"usual\"\n# voice 3009 \"seiryu_0003\"\n@青龍偃月刀\nならば、私のことを\n理解しているのは当然でしょう？\n\n# voice 3009 \"seiryu_0036\"\n@青龍偃月刀\nということで参ります！\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私のキラーズの持ち主・関羽が\n活躍した時代の\n三国とはどれですか？\n\n# se \"SE_0734\"\n# select \"白・發・中\" \"select_label_1\" \"魏・呉・蜀\" \"select_label_2\" \"日・独・伊\" \"select_label_3\"\n私のキラーズの持ち主・関羽が\n活躍した時代の\n三国とはどれですか？\n"
+	},
+	{
+		"ID": 4009,
+		"unitID": 2300911,
+		"questionID": 9300909,
+		"script": ";;張飛,3\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 3009 \"seiryu_0001\"\n@青龍偃月刀\nさぁ主君よ、勉学の時間です\n\n# face %(unit_a)s \"angry\"\n@青龍偃月刀\nあっ、逃げるな！\n待ちなさい！\n\n# face %(unit_a)s \"sad\"\n@青龍偃月刀\nよいですか？\n貴方は私の主なのですよ？\n\n# face %(unit_a)s \"usual\"\n# voice 3009 \"seiryu_0003\"\n@青龍偃月刀\nならば、私のことを\n理解しているのは当然でしょう？\n\n# voice 3009 \"seiryu_0036\"\n@青龍偃月刀\nということで参ります！\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私のキラーズの持ち主・関羽と\n『桃園の誓い』を交わしたのは\n劉備ともう一人は誰でしょうか？\n\n# se \"SE_0734\"\n# select \"馬超\" \"select_label_1\" \"趙雲\" \"select_label_2\" \"張飛\" \"select_label_3\"\n私のキラーズの持ち主・関羽と\n『桃園の誓い』を交わしたのは\n劉備ともう一人は誰でしょうか？\n"
+	},
+	{
+		"ID": 4010,
+		"unitID": 2300911,
+		"questionID": 9300910,
+		"script": ";;桃園の誓い,1\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 3009 \"seiryu_0001\"\n@青龍偃月刀\nさぁ主君よ、勉学の時間です\n\n# face %(unit_a)s \"angry\"\n@青龍偃月刀\nあっ、逃げるな！\n待ちなさい！\n\n# face %(unit_a)s \"sad\"\n@青龍偃月刀\nよいですか？\n貴方は私の主なのですよ？\n\n# face %(unit_a)s \"usual\"\n# voice 3009 \"seiryu_0003\"\n@青龍偃月刀\nならば、私のことを\n理解しているのは当然でしょう？\n\n# voice 3009 \"seiryu_0036\"\n@青龍偃月刀\nということで参ります！\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私のキラーズの持ち主・関羽と\n劉備と張飛が交わした\n誓いと言えば？\n\n# se \"SE_0734\"\n# select \"桃園の誓い\" \"select_label_1\" \"楽園の誓い\" \"select_label_2\" \"梨園の誓い\" \"select_label_3\"\n私のキラーズの持ち主・関羽と\n劉備と張飛が交わした\n誓いと言えば？\n"
+	},
+	{
+		"ID": 4011,
+		"unitID": 2300911,
+		"questionID": 9300911,
+		"script": ";;風,1\n# textflame 1 1\n# eye %(unit_a)s \"close\"\n# voice 3009 \"seiryu_0003\"\n@青龍偃月刀\n優秀な家来を持つなら、\n将もまた優秀であるべき\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"angry\"\n# voice 3009 \"seiryu_0022\"\n@青龍偃月刀\nは？\nなにをとぼけたことを\n言ってるんです？\n\n# face %(unit_a)s \"usual\"\n@青龍偃月刀\n優秀な家来とは\n私に決まってるじゃないですか？\n\n@青龍偃月刀\nやはり私にふさわしいのは、\n優秀な将\n\n# eye %(unit_a)s \"close\"\n# voice 3009 \"seiryu_0001\"\n@青龍偃月刀\nということで主君、\n試させて頂きます\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の属性はご存知ですか？\n\n# se \"SE_0734\"\n# select \"風\" \"select_label_1\" \"闇\" \"select_label_2\" \"炎\" \"select_label_3\"\n私の属性はご存知ですか？\n"
+	},
+	{
+		"ID": 4012,
+		"unitID": 2300911,
+		"questionID": 9300912,
+		"script": ";;161㎝,2\n# textflame 1 1\n# eye %(unit_a)s \"close\"\n# voice 3009 \"seiryu_0003\"\n@青龍偃月刀\n優秀な家来を持つなら、\n将もまた優秀であるべき\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"angry\"\n# voice 3009 \"seiryu_0022\"\n@青龍偃月刀\nは？\nなにをとぼけたことを\n言ってるんです？\n\n# face %(unit_a)s \"usual\"\n@青龍偃月刀\n優秀な家来とは\n私に決まってるじゃないですか？\n\n@青龍偃月刀\nやはり私にふさわしいのは、\n優秀な将\n\n# eye %(unit_a)s \"close\"\n# voice 3009 \"seiryu_0001\"\n@青龍偃月刀\nということで主君、\n試させて頂きます\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の身長はご存知ですか？\n\n# se \"SE_0734\"\n# select \"165cm\" \"select_label_1\" \"161cm\" \"select_label_2\" \"172cm\" \"select_label_3\"\n私の身長はご存知ですか？\n"
+	},
+	{
+		"ID": 4013,
+		"unitID": 2300911,
+		"questionID": 9300913,
+		"script": ";;6月24日,3\n# textflame 1 1\n# eye %(unit_a)s \"close\"\n# voice 3009 \"seiryu_0003\"\n@青龍偃月刀\n優秀な家来を持つなら、\n将もまた優秀であるべき\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"angry\"\n# voice 3009 \"seiryu_0022\"\n@青龍偃月刀\nは？\nなにをとぼけたことを\n言ってるんです？\n\n# face %(unit_a)s \"usual\"\n@青龍偃月刀\n優秀な家来とは\n私に決まってるじゃないですか？\n\n@青龍偃月刀\nやはり私にふさわしいのは、\n優秀な将\n\n# eye %(unit_a)s \"close\"\n# voice 3009 \"seiryu_0001\"\n@青龍偃月刀\nということで主君、\n試させて頂きます\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の誕生日はご存知でしょうか？\n\n# se \"SE_0734\"\n# select \"12月24日\" \"select_label_1\" \"7月24日\" \"select_label_2\" \"6月24日\" \"select_label_3\"\n私の誕生日はご存知でしょうか？\n"
+	},
+	{
+		"ID": 4014,
+		"unitID": 2300911,
+		"questionID": 9300914,
+		"script": ";;かに座,1\n# textflame 1 1\n# eye %(unit_a)s \"close\"\n# voice 3009 \"seiryu_0003\"\n@青龍偃月刀\n優秀な家来を持つなら、\n将もまた優秀であるべき\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"angry\"\n# voice 3009 \"seiryu_0022\"\n@青龍偃月刀\nは？\nなにをとぼけたことを\n言ってるんです？\n\n# face %(unit_a)s \"usual\"\n@青龍偃月刀\n優秀な家来とは\n私に決まってるじゃないですか？\n\n@青龍偃月刀\nやはり私にふさわしいのは、\n優秀な将\n\n# eye %(unit_a)s \"close\"\n# voice 3009 \"seiryu_0001\"\n@青龍偃月刀\nということで主君、\n試させて頂きます\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の星座はお分かりですか？\n\n# se \"SE_0734\"\n# select \"かに座\" \"select_label_1\" \"いて座\" \"select_label_2\" \"おうし座\" \"select_label_3\"\n私の星座はお分かりですか？\n"
+	},
+	{
+		"ID": 4015,
+		"unitID": 2300911,
+		"questionID": 9300915,
+		"script": ";;ヒゲが似合う人,2\n# textflame 1 1\n# eye %(unit_a)s \"close\"\n# voice 3009 \"seiryu_0003\"\n@青龍偃月刀\n優秀な家来を持つなら、\n将もまた優秀であるべき\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"angry\"\n# voice 3009 \"seiryu_0022\"\n@青龍偃月刀\nは？\nなにをとぼけたことを\n言ってるんです？\n\n# face %(unit_a)s \"usual\"\n@青龍偃月刀\n優秀な家来とは\n私に決まってるじゃないですか？\n\n@青龍偃月刀\nやはり私にふさわしいのは、\n優秀な将\n\n# eye %(unit_a)s \"close\"\n# voice 3009 \"seiryu_0001\"\n@青龍偃月刀\nということで主君、\n試させて頂きます\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私が好きな人のタイプは\nお分かりですか？\n\n# se \"SE_0734\"\n# select \"帽子が似合う人\" \"select_label_1\" \"ヒゲが似合う人\" \"select_label_2\" \"腰が低い人\" \"select_label_3\"\n私が好きな人のタイプは\nお分かりですか？\n"
+	},
+	{
+		"ID": 4016,
+		"unitID": 2300911,
+		"questionID": 9300916,
+		"script": ";;プライド,3\n# textflame 1 1\n# eye %(unit_a)s \"close\"\n# voice 3009 \"seiryu_0003\"\n@青龍偃月刀\n優秀な家来を持つなら、\n将もまた優秀であるべき\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"angry\"\n# voice 3009 \"seiryu_0022\"\n@青龍偃月刀\nは？\nなにをとぼけたことを\n言ってるんです？\n\n# face %(unit_a)s \"usual\"\n@青龍偃月刀\n優秀な家来とは\n私に決まってるじゃないですか？\n\n@青龍偃月刀\nやはり私にふさわしいのは、\n優秀な将\n\n# eye %(unit_a)s \"close\"\n# voice 3009 \"seiryu_0001\"\n@青龍偃月刀\nということで主君、\n試させて頂きます\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私はこれが高いと\nよく言われますね…\n\n# se \"SE_0734\"\n# select \"体温\" \"select_label_1\" \"お値段\" \"select_label_2\" \"プライド\" \"select_label_3\"\n私はこれが高いと\nよく言われますね…\n"
+	},
+	{
+		"ID": 4017,
+		"unitID": 2300911,
+		"questionID": 9300917,
+		"script": ";;Ａ型,1\n# textflame 1 1\n# eye %(unit_a)s \"close\"\n# voice 3009 \"seiryu_0003\"\n@青龍偃月刀\n優秀な家来を持つなら、\n将もまた優秀であるべき\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"angry\"\n# voice 3009 \"seiryu_0022\"\n@青龍偃月刀\nは？\nなにをとぼけたことを\n言ってるんです？\n\n# face %(unit_a)s \"usual\"\n@青龍偃月刀\n優秀な家来とは\n私に決まってるじゃないですか？\n\n@青龍偃月刀\nやはり私にふさわしいのは、\n優秀な将\n\n# eye %(unit_a)s \"close\"\n# voice 3009 \"seiryu_0001\"\n@青龍偃月刀\nということで主君、\n試させて頂きます\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の血液型は\nおわかりになりますか？\n\n# se \"SE_0734\"\n# select \"Ａ型\" \"select_label_1\" \"Ｏ型\" \"select_label_2\" \"Ｂ型\" \"select_label_3\"\n私の血液型は\nおわかりになりますか？\n"
+	},
+	{
+		"ID": 4018,
+		"unitID": 2300911,
+		"questionID": 9300918,
+		"script": ";;蜀,2\n# textflame 1 1\n# eye %(unit_a)s \"close\"\n# voice 3009 \"seiryu_0003\"\n@青龍偃月刀\n優秀な家来を持つなら、\n将もまた優秀であるべき\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"angry\"\n# voice 3009 \"seiryu_0022\"\n@青龍偃月刀\nは？\nなにをとぼけたことを\n言ってるんです？\n\n# face %(unit_a)s \"usual\"\n@青龍偃月刀\n優秀な家来とは\n私に決まってるじゃないですか？\n\n@青龍偃月刀\nやはり私にふさわしいのは、\n優秀な将\n\n# eye %(unit_a)s \"close\"\n# voice 3009 \"seiryu_0001\"\n@青龍偃月刀\nということで主君、\n試させて頂きます\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の出身地はご存知ですか？\n\n# se \"SE_0734\"\n# select \"魏\" \"select_label_1\" \"蜀\" \"select_label_2\" \"呉\" \"select_label_3\"\n私の出身地はご存知ですか？\n"
+	},
+	{
+		"ID": 4019,
+		"unitID": 2300911,
+		"questionID": 9300919,
+		"script": ";;読書,3\n# textflame 1 1\n# eye %(unit_a)s \"close\"\n# voice 3009 \"seiryu_0003\"\n@青龍偃月刀\n優秀な家来を持つなら、\n将もまた優秀であるべき\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"angry\"\n# voice 3009 \"seiryu_0022\"\n@青龍偃月刀\nは？\nなにをとぼけたことを\n言ってるんです？\n\n# face %(unit_a)s \"usual\"\n@青龍偃月刀\n優秀な家来とは\n私に決まってるじゃないですか？\n\n@青龍偃月刀\nやはり私にふさわしいのは、\n優秀な将\n\n# eye %(unit_a)s \"close\"\n# voice 3009 \"seiryu_0001\"\n@青龍偃月刀\nということで主君、\n試させて頂きます\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の趣味はなんでしょうか？ \n\n# se \"SE_0734\"\n# select \"昆虫採集\" \"select_label_1\" \"プラモづくり\" \"select_label_2\" \"読書\" \"select_label_3\"\n私の趣味はなんでしょうか？ \n"
+	},
+	{
+		"ID": 4020,
+		"unitID": 2300911,
+		"questionID": 9300920,
+		"script": ";;自意識,1\n# textflame 1 1\n# eye %(unit_a)s \"close\"\n# voice 3009 \"seiryu_0003\"\n@青龍偃月刀\n優秀な家来を持つなら、\n将もまた優秀であるべき\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"angry\"\n# voice 3009 \"seiryu_0022\"\n@青龍偃月刀\nは？\nなにをとぼけたことを\n言ってるんです？\n\n# face %(unit_a)s \"usual\"\n@青龍偃月刀\n優秀な家来とは\n私に決まってるじゃないですか？\n\n@青龍偃月刀\nやはり私にふさわしいのは、\n優秀な将\n\n# eye %(unit_a)s \"close\"\n# voice 3009 \"seiryu_0001\"\n@青龍偃月刀\nということで主君、\n試させて頂きます\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私はこれが過剰だと\nよく言われますね…\n\n# se \"SE_0734\"\n# select \"自意識\" \"select_label_1\" \"汗\" \"select_label_2\" \"リアクション\" \"select_label_3\"\n私はこれが過剰だと\nよく言われますね…\n"
+	},
+	{
+		"ID": 4021,
+		"unitID": 2300911,
+		"questionID": 9300921,
+		"script": ";;九十点,1\n# textflame 1 1\n# eye %(unit_a)s \"close\"\n@青龍偃月刀\nその……\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"usual\"\n# voice 3009 \"seiryu_0001\"\n@青龍偃月刀\n主君のため、\n戦う日々は私の誇りです\n\n# face %(unit_a)s \"sad\"\n@青龍偃月刀\nそれで…あの…\n無礼なのは承知しております…\nですが…\n\n# voice 3009 \"seiryu_0042\"\n@青龍偃月刀\nもしよろしければ…\n褒美を頂けないでしょうか…？\n\n@青龍偃月刀\n私のことを…\n目にかけて下さっているとの\n褒美を…\n\n# face %(unit_a)s \"usual\"\n# voice 5021 \"sefer_0036\"\n@青龍偃月刀\n参りますよ…？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私が主君に課した試験の点数は\n何点だったか覚えていますか？\n\n# se \"SE_0734\"\n# select \"九十点\" \"select_label_1\" \"十点\" \"select_label_2\" \"三十点\" \"select_label_3\"\n私が主君に課した試験の点数は\n何点だったか覚えていますか？\n"
+	},
+	{
+		"ID": 4022,
+		"unitID": 2300911,
+		"questionID": 9300922,
+		"script": ";;槍騎皇,2\n# textflame 1 1\n# eye %(unit_a)s \"close\"\n@青龍偃月刀\nその……\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"usual\"\n# voice 3009 \"seiryu_0001\"\n@青龍偃月刀\n主君のため、\n戦う日々は私の誇りです\n\n# face %(unit_a)s \"sad\"\n@青龍偃月刀\nそれで…あの…\n無礼なのは承知しております…\nですが…\n\n# voice 3009 \"seiryu_0042\"\n@青龍偃月刀\nもしよろしければ…\n褒美を頂けないでしょうか…？\n\n@青龍偃月刀\n私のことを…\n目にかけて下さっているとの\n褒美を…\n\n# face %(unit_a)s \"usual\"\n# voice 5021 \"sefer_0036\"\n@青龍偃月刀\n参りますよ…？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の☆６のジョブ名は\nおわかりですか？\n\n# se \"SE_0734\"\n# select \"槍キル姫\" \"select_label_1\" \"槍騎皇\" \"select_label_2\" \"槍おてんば\" \"select_label_3\"\n私の☆６のジョブ名は\nおわかりですか？\n"
+	},
+	{
+		"ID": 4023,
+		"unitID": 2300911,
+		"questionID": 9300923,
+		"script": ";;厳しい,3\n# textflame 1 1\n# eye %(unit_a)s \"close\"\n@青龍偃月刀\nその……\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"usual\"\n# voice 3009 \"seiryu_0001\"\n@青龍偃月刀\n主君のため、\n戦う日々は私の誇りです\n\n# face %(unit_a)s \"sad\"\n@青龍偃月刀\nそれで…あの…\n無礼なのは承知しております…\nですが…\n\n# voice 3009 \"seiryu_0042\"\n@青龍偃月刀\nもしよろしければ…\n褒美を頂けないでしょうか…？\n\n@青龍偃月刀\n私のことを…\n目にかけて下さっているとの\n褒美を…\n\n# face %(unit_a)s \"usual\"\n# voice 5021 \"sefer_0036\"\n@青龍偃月刀\n参りますよ…？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私は自分にも人にも…？\n\n# se \"SE_0734\"\n# select \"イヤらしい\" \"select_label_1\" \"優しい\" \"select_label_2\" \"厳しい\" \"select_label_3\"\n私は自分にも人にも…？\n"
+	},
+	{
+		"ID": 4024,
+		"unitID": 2300911,
+		"questionID": 9300924,
+		"script": ";;風槍騎皇の覇道,1\n# textflame 1 1\n# eye %(unit_a)s \"close\"\n@青龍偃月刀\nその……\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"usual\"\n# voice 3009 \"seiryu_0001\"\n@青龍偃月刀\n主君のため、\n戦う日々は私の誇りです\n\n# face %(unit_a)s \"sad\"\n@青龍偃月刀\nそれで…あの…\n無礼なのは承知しております…\nですが…\n\n# voice 3009 \"seiryu_0042\"\n@青龍偃月刀\nもしよろしければ…\n褒美を頂けないでしょうか…？\n\n@青龍偃月刀\n私のことを…\n目にかけて下さっているとの\n褒美を…\n\n# face %(unit_a)s \"usual\"\n# voice 5021 \"sefer_0036\"\n@青龍偃月刀\n参りますよ…？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の☆６の\nリーダースキルはこれですね…\n\n# se \"SE_0734\"\n# select \"風槍騎皇の覇道\" \"select_label_1\" \"風槍騎皇の花道\" \"select_label_2\" \"風槍騎皇のケンカ道\" \"select_label_3\"\n私の☆６の\nリーダースキルはこれですね…\n"
+	},
+	{
+		"ID": 4025,
+		"unitID": 2300911,
+		"questionID": 9300925,
+		"script": ";;芭蕉扇,2\n# textflame 1 1\n# eye %(unit_a)s \"close\"\n@青龍偃月刀\nその……\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"usual\"\n# voice 3009 \"seiryu_0001\"\n@青龍偃月刀\n主君のため、\n戦う日々は私の誇りです\n\n# face %(unit_a)s \"sad\"\n@青龍偃月刀\nそれで…あの…\n無礼なのは承知しております…\nですが…\n\n# voice 3009 \"seiryu_0042\"\n@青龍偃月刀\nもしよろしければ…\n褒美を頂けないでしょうか…？\n\n@青龍偃月刀\n私のことを…\n目にかけて下さっているとの\n褒美を…\n\n# face %(unit_a)s \"usual\"\n# voice 5021 \"sefer_0036\"\n@青龍偃月刀\n参りますよ…？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私が敬意を払っているのは\nこの方ですね…\n\n# se \"SE_0734\"\n# select \"方天画戟\" \"select_label_1\" \"芭蕉扇\" \"select_label_2\" \"与一\" \"select_label_3\"\n私が敬意を払っているのは\nこの方ですね…\n"
+	},
+	{
+		"ID": 4026,
+		"unitID": 2300911,
+		"questionID": 9300926,
+		"script": ";;方天画戟,3\n# textflame 1 1\n# eye %(unit_a)s \"close\"\n@青龍偃月刀\nその……\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"usual\"\n# voice 3009 \"seiryu_0001\"\n@青龍偃月刀\n主君のため、\n戦う日々は私の誇りです\n\n# face %(unit_a)s \"sad\"\n@青龍偃月刀\nそれで…あの…\n無礼なのは承知しております…\nですが…\n\n# voice 3009 \"seiryu_0042\"\n@青龍偃月刀\nもしよろしければ…\n褒美を頂けないでしょうか…？\n\n@青龍偃月刀\n私のことを…\n目にかけて下さっているとの\n褒美を…\n\n# face %(unit_a)s \"usual\"\n# voice 5021 \"sefer_0036\"\n@青龍偃月刀\n参りますよ…？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私と犬猿の仲なのは…？\n\n# se \"SE_0734\"\n# select \"アスカロン\" \"select_label_1\" \"芭蕉扇\" \"select_label_2\" \"方天画戟\" \"select_label_3\"\n私と犬猿の仲なのは…？\n"
+	},
+	{
+		"ID": 4027,
+		"unitID": 2300911,
+		"questionID": 9300927,
+		"script": ";;漆黒,1\n# textflame 1 1\n# eye %(unit_a)s \"close\"\n@青龍偃月刀\nその……\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"usual\"\n# voice 3009 \"seiryu_0001\"\n@青龍偃月刀\n主君のため、\n戦う日々は私の誇りです\n\n# face %(unit_a)s \"sad\"\n@青龍偃月刀\nそれで…あの…\n無礼なのは承知しております…\nですが…\n\n# voice 3009 \"seiryu_0042\"\n@青龍偃月刀\nもしよろしければ…\n褒美を頂けないでしょうか…？\n\n@青龍偃月刀\n私のことを…\n目にかけて下さっているとの\n褒美を…\n\n# face %(unit_a)s \"usual\"\n# voice 5021 \"sefer_0036\"\n@青龍偃月刀\n参りますよ…？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私が覚える\nデュエルスキルはわかりますか？\n\n# se \"SE_0734\"\n# select \"漆黒\" \"select_label_1\" \"純白\" \"select_label_2\" \"深緑\" \"select_label_3\"\n私が覚える\nデュエルスキルはわかりますか？\n"
+	},
+	{
+		"ID": 4028,
+		"unitID": 2300911,
+		"questionID": 9300928,
+		"script": ";;詭道十四変化,2\n# textflame 1 1\n# eye %(unit_a)s \"close\"\n@青龍偃月刀\nその……\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"usual\"\n# voice 3009 \"seiryu_0001\"\n@青龍偃月刀\n主君のため、\n戦う日々は私の誇りです\n\n# face %(unit_a)s \"sad\"\n@青龍偃月刀\nそれで…あの…\n無礼なのは承知しております…\nですが…\n\n# voice 3009 \"seiryu_0042\"\n@青龍偃月刀\nもしよろしければ…\n褒美を頂けないでしょうか…？\n\n@青龍偃月刀\n私のことを…\n目にかけて下さっているとの\n褒美を…\n\n# face %(unit_a)s \"usual\"\n# voice 5021 \"sefer_0036\"\n@青龍偃月刀\n参りますよ…？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私が取得したスキルは覚えてますか？\n\n# se \"SE_0734\"\n# select \"詭道七変化\" \"select_label_1\" \"詭道十四変化\" \"select_label_2\" \"詭道百変化\" \"select_label_3\"\n私が取得したスキルは覚えてますか？\n"
+	},
+	{
+		"ID": 4029,
+		"unitID": 2300911,
+		"questionID": 9300929,
+		"script": ";;百戦百勝閃,3\n# textflame 1 1\n# eye %(unit_a)s \"close\"\n@青龍偃月刀\nその……\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"usual\"\n# voice 3009 \"seiryu_0001\"\n@青龍偃月刀\n主君のため、\n戦う日々は私の誇りです\n\n# face %(unit_a)s \"sad\"\n@青龍偃月刀\nそれで…あの…\n無礼なのは承知しております…\nですが…\n\n# voice 3009 \"seiryu_0042\"\n@青龍偃月刀\nもしよろしければ…\n褒美を頂けないでしょうか…？\n\n@青龍偃月刀\n私のことを…\n目にかけて下さっているとの\n褒美を…\n\n# face %(unit_a)s \"usual\"\n# voice 5021 \"sefer_0036\"\n@青龍偃月刀\n参りますよ…？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私が取得したスキルは覚えてますか？\n\n# se \"SE_0734\"\n# select \"億戦億勝閃\" \"select_label_1\" \"十戦十勝閃\" \"select_label_2\" \"百戦百勝閃\" \"select_label_3\"\n私が取得したスキルは覚えてますか？\n"
+	},
+	{
+		"ID": 4030,
+		"unitID": 2300911,
+		"questionID": 9300930,
+		"script": ";;集団行動,1\n# textflame 1 1\n# eye %(unit_a)s \"close\"\n@青龍偃月刀\nその……\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"usual\"\n# voice 3009 \"seiryu_0001\"\n@青龍偃月刀\n主君のため、\n戦う日々は私の誇りです\n\n# face %(unit_a)s \"sad\"\n@青龍偃月刀\nそれで…あの…\n無礼なのは承知しております…\nですが…\n\n# voice 3009 \"seiryu_0042\"\n@青龍偃月刀\nもしよろしければ…\n褒美を頂けないでしょうか…？\n\n@青龍偃月刀\n私のことを…\n目にかけて下さっているとの\n褒美を…\n\n# face %(unit_a)s \"usual\"\n# voice 5021 \"sefer_0036\"\n@青龍偃月刀\n参りますよ…？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私はこれが得意ですね\n\n# se \"SE_0734\"\n# select \"集団行動\" \"select_label_1\" \"単独行動\" \"select_label_2\" \"恋愛行動\" \"select_label_3\"\n私はこれが得意ですね\n"
+	},
+	{
+		"ID": 4031,
+		"unitID": 2300911,
+		"questionID": 9300931,
+		"script": ";;亀,1\n# textflame 1 1\n# voice 3009 \"seiryu_0001\"\n@青龍偃月刀\n…主君\n\n# eye %(unit_a)s \"close\"\n# voice 3009 \"seiryu_0003\"\n@青龍偃月刀\nなぜだか今、\nふと主君と家来…\nその主従を飛び越えてみたくなる…\n\n# eye %(unit_a)s \"normal\"\n@青龍偃月刀\nそんな気持ちになりました\n\n# voice 3009 \"seiryu_0027\"\n@青龍偃月刀\n…………\n\n# face %(unit_a)s \"sad\"\n# voice 5021 \"sefer_0036\"\n@青龍偃月刀\n私のこと…\nどれだけ理解しているか\n試してもよろしいですか？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n今、私が座っている動物は？\n\n# se \"SE_0734\"\n# select \"亀\" \"select_label_1\" \"鶴\" \"select_label_2\" \"犬\" \"select_label_3\"\n今、私が座っている動物は？\n"
+	},
+	{
+		"ID": 4032,
+		"unitID": 2300911,
+		"questionID": 9300932,
+		"script": ";;Cancer,2\n# textflame 1 1\n# voice 3009 \"seiryu_0001\"\n@青龍偃月刀\n…主君\n\n# eye %(unit_a)s \"close\"\n# voice 3009 \"seiryu_0003\"\n@青龍偃月刀\nなぜだか今、\nふと主君と家来…\nその主従を飛び越えてみたくなる…\n\n# eye %(unit_a)s \"normal\"\n@青龍偃月刀\nそんな気持ちになりました\n\n# voice 3009 \"seiryu_0027\"\n@青龍偃月刀\n…………\n\n# face %(unit_a)s \"sad\"\n# voice 5021 \"sefer_0036\"\n@青龍偃月刀\n私のこと…\nどれだけ理解しているか\n試してもよろしいですか？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の星座はかに座なのですが\nかに座を英語で言うと？\n\n# se \"SE_0734\"\n# select \"Virgo\" \"select_label_1\" \"Cancer\" \"select_label_2\" \"Scorpio\" \"select_label_3\"\n私の星座はかに座なのですが\nかに座を英語で言うと？\n"
+	},
+	{
+		"ID": 4033,
+		"unitID": 2300911,
+		"questionID": 9300933,
+		"script": ";;June,3\n# textflame 1 1\n# voice 3009 \"seiryu_0001\"\n@青龍偃月刀\n…主君\n\n# eye %(unit_a)s \"close\"\n# voice 3009 \"seiryu_0003\"\n@青龍偃月刀\nなぜだか今、\nふと主君と家来…\nその主従を飛び越えてみたくなる…\n\n# eye %(unit_a)s \"normal\"\n@青龍偃月刀\nそんな気持ちになりました\n\n# voice 3009 \"seiryu_0027\"\n@青龍偃月刀\n…………\n\n# face %(unit_a)s \"sad\"\n# voice 5021 \"sefer_0036\"\n@青龍偃月刀\n私のこと…\nどれだけ理解しているか\n試してもよろしいですか？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の誕生月は6月なのですが\nそれを英語で言うと？\n\n# se \"SE_0734\"\n# select \"July\" \"select_label_1\" \"August\" \"select_label_2\" \"June\" \"select_label_3\"\n私の誕生月は6月なのですが\nそれを英語で言うと？\n"
+	},
+	{
+		"ID": 4034,
+		"unitID": 2300911,
+		"questionID": 9300934,
+		"script": ";;せいりゅうえんげつとう,1\n# textflame 1 1\n# voice 3009 \"seiryu_0001\"\n@青龍偃月刀\n…主君\n\n# eye %(unit_a)s \"close\"\n# voice 3009 \"seiryu_0003\"\n@青龍偃月刀\nなぜだか今、\nふと主君と家来…\nその主従を飛び越えてみたくなる…\n\n# eye %(unit_a)s \"normal\"\n@青龍偃月刀\nそんな気持ちになりました\n\n# voice 3009 \"seiryu_0027\"\n@青龍偃月刀\n…………\n\n# face %(unit_a)s \"sad\"\n# voice 5021 \"sefer_0036\"\n@青龍偃月刀\n私のこと…\nどれだけ理解しているか\n試してもよろしいですか？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n今さらですが\n私の名前『青龍偃月刀』\nなんと読みますか？\n\n# se \"SE_0734\"\n# select \"せいりゅうえんげつとう\" \"select_label_1\" \"せいりゅうざんげつとう\" \"select_label_2\" \"せいりゅうこうげつとう\" \"select_label_3\"\n今さらですが\n私の名前『青龍偃月刀』\nなんと読みますか？\n"
+	},
+	{
+		"ID": 4035,
+		"unitID": 2300911,
+		"questionID": 9300935,
+		"script": ";;茶髪,2\n# textflame 1 1\n# voice 3009 \"seiryu_0001\"\n@青龍偃月刀\n…主君\n\n# eye %(unit_a)s \"close\"\n# voice 3009 \"seiryu_0003\"\n@青龍偃月刀\nなぜだか今、\nふと主君と家来…\nその主従を飛び越えてみたくなる…\n\n# eye %(unit_a)s \"normal\"\n@青龍偃月刀\nそんな気持ちになりました\n\n# voice 3009 \"seiryu_0027\"\n@青龍偃月刀\n…………\n\n# face %(unit_a)s \"sad\"\n# voice 5021 \"sefer_0036\"\n@青龍偃月刀\n私のこと…\nどれだけ理解しているか\n試してもよろしいですか？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の髪の色は…？\n\n# se \"SE_0734\"\n# select \"金髪\" \"select_label_1\" \"茶髪\" \"select_label_2\" \"ピンク\" \"select_label_3\"\n私の髪の色は…？\n"
+	},
+	{
+		"ID": 4036,
+		"unitID": 2300911,
+		"questionID": 9300936,
+		"script": ";;龍,3\n# textflame 1 1\n# voice 3009 \"seiryu_0001\"\n@青龍偃月刀\n…主君\n\n# eye %(unit_a)s \"close\"\n# voice 3009 \"seiryu_0003\"\n@青龍偃月刀\nなぜだか今、\nふと主君と家来…\nその主従を飛び越えてみたくなる…\n\n# eye %(unit_a)s \"normal\"\n@青龍偃月刀\nそんな気持ちになりました\n\n# voice 3009 \"seiryu_0027\"\n@青龍偃月刀\n…………\n\n# face %(unit_a)s \"sad\"\n# voice 5021 \"sefer_0036\"\n@青龍偃月刀\n私のこと…\nどれだけ理解しているか\n試してもよろしいですか？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の傘のてっぺんに\n付いているのは\nなんでしょうか？\n\n# se \"SE_0734\"\n# select \"虎\" \"select_label_1\" \"鶴\" \"select_label_2\" \"龍\" \"select_label_3\"\n私の傘のてっぺんに\n付いているのは\nなんでしょうか？\n"
+	},
+	{
+		"ID": 4037,
+		"unitID": 2300911,
+		"questionID": 9300937,
+		"script": ";;ドレミの日,1\n# textflame 1 1\n# voice 3009 \"seiryu_0001\"\n@青龍偃月刀\n…主君\n\n# eye %(unit_a)s \"close\"\n# voice 3009 \"seiryu_0003\"\n@青龍偃月刀\nなぜだか今、\nふと主君と家来…\nその主従を飛び越えてみたくなる…\n\n# eye %(unit_a)s \"normal\"\n@青龍偃月刀\nそんな気持ちになりました\n\n# voice 3009 \"seiryu_0027\"\n@青龍偃月刀\n…………\n\n# face %(unit_a)s \"sad\"\n# voice 5021 \"sefer_0036\"\n@青龍偃月刀\n私のこと…\nどれだけ理解しているか\n試してもよろしいですか？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の誕生日は\nとある記念日なのですが\nご存知でしょうか？\n\n# se \"SE_0734\"\n# select \"ドレミの日\" \"select_label_1\" \"肉の日\" \"select_label_2\" \"ショートケーキの日\" \"select_label_3\"\n私の誕生日は\nとある記念日なのですが\nご存知でしょうか？\n"
+	},
+	{
+		"ID": 4038,
+		"unitID": 2300911,
+		"questionID": 9300938,
+		"script": ";;グングニル,2\n# textflame 1 1\n# voice 3009 \"seiryu_0001\"\n@青龍偃月刀\n…主君\n\n# eye %(unit_a)s \"close\"\n# voice 3009 \"seiryu_0003\"\n@青龍偃月刀\nなぜだか今、\nふと主君と家来…\nその主従を飛び越えてみたくなる…\n\n# eye %(unit_a)s \"normal\"\n@青龍偃月刀\nそんな気持ちになりました\n\n# voice 3009 \"seiryu_0027\"\n@青龍偃月刀\n…………\n\n# face %(unit_a)s \"sad\"\n# voice 5021 \"sefer_0036\"\n@青龍偃月刀\n私のこと…\nどれだけ理解しているか\n試してもよろしいですか？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私と同じ血液型なのは\n誰かおわかりですか？\n\n# se \"SE_0734\"\n# select \"レシェフ\" \"select_label_1\" \"グングニル\" \"select_label_2\" \"草薙剣\" \"select_label_3\"\n私と同じ血液型なのは\n誰かおわかりですか？\n"
+	},
+	{
+		"ID": 4039,
+		"unitID": 2300911,
+		"questionID": 9300939,
+		"script": ";;レシェフ,3\n# textflame 1 1\n# voice 3009 \"seiryu_0001\"\n@青龍偃月刀\n…主君\n\n# eye %(unit_a)s \"close\"\n# voice 3009 \"seiryu_0003\"\n@青龍偃月刀\nなぜだか今、\nふと主君と家来…\nその主従を飛び越えてみたくなる…\n\n# eye %(unit_a)s \"normal\"\n@青龍偃月刀\nそんな気持ちになりました\n\n# voice 3009 \"seiryu_0027\"\n@青龍偃月刀\n…………\n\n# face %(unit_a)s \"sad\"\n# voice 5021 \"sefer_0036\"\n@青龍偃月刀\n私のこと…\nどれだけ理解しているか\n試してもよろしいですか？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私と違う血液型なのは\n誰かおわかりですか？\n\n# se \"SE_0734\"\n# select \"パラシュ\" \"select_label_1\" \"ティルフィング\" \"select_label_2\" \"レシェフ\" \"select_label_3\"\n私と違う血液型なのは\n誰かおわかりですか？\n"
+	},
+	{
+		"ID": 4040,
+		"unitID": 2300911,
+		"questionID": 9300940,
+		"script": ";;アダマス,1\n# textflame 1 1\n# voice 3009 \"seiryu_0001\"\n@青龍偃月刀\n…主君\n\n# eye %(unit_a)s \"close\"\n# voice 3009 \"seiryu_0003\"\n@青龍偃月刀\nなぜだか今、\nふと主君と家来…\nその主従を飛び越えてみたくなる…\n\n# eye %(unit_a)s \"normal\"\n@青龍偃月刀\nそんな気持ちになりました\n\n# voice 3009 \"seiryu_0027\"\n@青龍偃月刀\n…………\n\n# face %(unit_a)s \"sad\"\n# voice 5021 \"sefer_0036\"\n@青龍偃月刀\n私のこと…\nどれだけ理解しているか\n試してもよろしいですか？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私と同じ誕生月なのは\n誰かおわかりですか？\n\n# se \"SE_0734\"\n# select \"アダマス\" \"select_label_1\" \"アポロン\" \"select_label_2\" \"エロース\" \"select_label_3\"\n私と同じ誕生月なのは\n誰かおわかりですか？\n"
+	},
+	{
+		"ID": 4041,
+		"unitID": 2300911,
+		"questionID": 9300941,
+		"script": "\n;;私,1\n# se \"SE_0734\"\n# select \"私\" \"select_label_1\" \"ミー\" \"select_label_2\" \"オレ\" \"select_label_3\"\n青龍偃月刀の一人称は\n次のうちどれ？\n"
+	},
+	{
+		"ID": 4042,
+		"unitID": 2300911,
+		"questionID": 9300942,
+		"script": "\n;;主君,2\n# se \"SE_0734\"\n# select \"マスター\" \"select_label_1\" \"主君\" \"select_label_2\" \"ご主人様\" \"select_label_3\"\n青龍偃月刀はアンタのこと、\nなんて呼んでる？\n"
+	},
+	{
+		"ID": 4043,
+		"unitID": 2300911,
+		"questionID": 9300943,
+		"script": "\n;;88,3\n# se \"SE_0734\"\n# select \"80\" \"select_label_1\" \"82\" \"select_label_2\" \"88\" \"select_label_3\"\n青龍偃月刀の\nバストサイズがどのくらいか\nアンタ…知ってるの？\n"
+	},
+	{
+		"ID": 4044,
+		"unitID": 2300911,
+		"questionID": 9300944,
+		"script": "\n;;58,1\n# se \"SE_0734\"\n# select \"58\" \"select_label_1\" \"60\" \"select_label_2\" \"61\" \"select_label_3\"\n青龍偃月刀の\nウエストサイズがどのくらいか\nアンタ…知ってるの？\n"
+	},
+	{
+		"ID": 4045,
+		"unitID": 2300911,
+		"questionID": 9300945,
+		"script": "\n;;88,2\n# se \"SE_0734\"\n# select \"85\" \"select_label_1\" \"88\" \"select_label_2\" \"91\" \"select_label_3\"\n青龍偃月刀の\nヒップサイズがどのくらいか\nアンタ…知ってるの？\n"
+	},
+	{
+		"ID": 4046,
+		"unitID": 2300911,
+		"questionID": 9300946,
+		"script": "\n;;50,3\n# se \"SE_0734\"\n# select \"47\" \"select_label_1\" \"53\" \"select_label_2\" \"50\" \"select_label_3\"\n青龍偃月刀の体重は\n次のうちどれ？\n"
+	},
+	{
+		"ID": 4047,
+		"unitID": 2300911,
+		"questionID": 9300947,
+		"script": "\n;;234,1\n# se \"SE_0734\"\n# select \"234\" \"select_label_1\" \"225\" \"select_label_2\" \"230\" \"select_label_3\"\n青龍偃月刀の\nバスト＋ウエスト＋ヒップは\nいくつかわかる？\n"
+	},
+	{
+		"ID": 4048,
+		"unitID": 2300911,
+		"questionID": 9300948,
+		"script": "\n;;傘,2\n# se \"SE_0734\"\n# select \"杖\" \"select_label_1\" \"傘\" \"select_label_2\" \"団扇\" \"select_label_3\"\n青龍偃月刀が水着姿で持っている物は\n次のうちどれ？\n"
+	},
+	{
+		"ID": 4049,
+		"unitID": 2300911,
+		"questionID": 9300949,
+		"script": "\n;;43位,3\n# se \"SE_0734\"\n# select \"59位\" \"select_label_1\" \"19位\" \"select_label_2\" \"43位\" \"select_label_3\"\n青龍偃月刀は\n第２回人気投票で\n何位だったでしょう？\n"
+	},
+	{
+		"ID": 4050,
+		"unitID": 2300911,
+		"questionID": 9300950,
+		"script": "\n;;川澄綾子,1\n# se \"SE_0734\"\n# select \"川澄綾子\" \"select_label_1\" \"戸田めぐみ\" \"select_label_2\" \"後藤沙緒里\" \"select_label_3\"\n青龍偃月刀の声優は誰？\n"
+	}
+]

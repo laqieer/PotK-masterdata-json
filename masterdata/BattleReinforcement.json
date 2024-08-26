@@ -1,0 +1,205 @@
+[
+	{
+		"ID": 1,
+		"name": "1ターン目",
+		"reinforcement_logic_BattleReinforcementLogic": 1,
+		"arg1_value": 1,
+		"arg2_value": 0
+	},
+	{
+		"ID": 2,
+		"name": "2ターン目",
+		"reinforcement_logic_BattleReinforcementLogic": 1,
+		"arg1_value": 2,
+		"arg2_value": 0
+	},
+	{
+		"ID": 3,
+		"name": "3ターン目",
+		"reinforcement_logic_BattleReinforcementLogic": 1,
+		"arg1_value": 3,
+		"arg2_value": 0
+	},
+	{
+		"ID": 4,
+		"name": "4ターン目",
+		"reinforcement_logic_BattleReinforcementLogic": 1,
+		"arg1_value": 4,
+		"arg2_value": 0
+	},
+	{
+		"ID": 5,
+		"name": "5ターン目",
+		"reinforcement_logic_BattleReinforcementLogic": 1,
+		"arg1_value": 5,
+		"arg2_value": 0
+	},
+	{
+		"ID": 6,
+		"name": "6ターン目",
+		"reinforcement_logic_BattleReinforcementLogic": 1,
+		"arg1_value": 6,
+		"arg2_value": 0
+	},
+	{
+		"ID": 7,
+		"name": "7ターン目",
+		"reinforcement_logic_BattleReinforcementLogic": 1,
+		"arg1_value": 7,
+		"arg2_value": 0
+	},
+	{
+		"ID": 8,
+		"name": "8ターン目",
+		"reinforcement_logic_BattleReinforcementLogic": 1,
+		"arg1_value": 8,
+		"arg2_value": 0
+	},
+	{
+		"ID": 9,
+		"name": "9ターン目",
+		"reinforcement_logic_BattleReinforcementLogic": 1,
+		"arg1_value": 9,
+		"arg2_value": 0
+	},
+	{
+		"ID": 10,
+		"name": "10ターン目",
+		"reinforcement_logic_BattleReinforcementLogic": 1,
+		"arg1_value": 10,
+		"arg2_value": 0
+	},
+	{
+		"ID": 11,
+		"name": "11ターン目",
+		"reinforcement_logic_BattleReinforcementLogic": 1,
+		"arg1_value": 11,
+		"arg2_value": 0
+	},
+	{
+		"ID": 12,
+		"name": "12ターン目",
+		"reinforcement_logic_BattleReinforcementLogic": 1,
+		"arg1_value": 12,
+		"arg2_value": 0
+	},
+	{
+		"ID": 13,
+		"name": "13ターン目",
+		"reinforcement_logic_BattleReinforcementLogic": 1,
+		"arg1_value": 13,
+		"arg2_value": 0
+	},
+	{
+		"ID": 14,
+		"name": "14ターン目",
+		"reinforcement_logic_BattleReinforcementLogic": 1,
+		"arg1_value": 14,
+		"arg2_value": 0
+	},
+	{
+		"ID": 15,
+		"name": "15ターン目",
+		"reinforcement_logic_BattleReinforcementLogic": 1,
+		"arg1_value": 15,
+		"arg2_value": 0
+	},
+	{
+		"ID": 16,
+		"name": "16ターン目",
+		"reinforcement_logic_BattleReinforcementLogic": 1,
+		"arg1_value": 16,
+		"arg2_value": 0
+	},
+	{
+		"ID": 17,
+		"name": "17ターン目",
+		"reinforcement_logic_BattleReinforcementLogic": 1,
+		"arg1_value": 17,
+		"arg2_value": 0
+	},
+	{
+		"ID": 18,
+		"name": "18ターン目",
+		"reinforcement_logic_BattleReinforcementLogic": 1,
+		"arg1_value": 18,
+		"arg2_value": 0
+	},
+	{
+		"ID": 19,
+		"name": "19ターン目",
+		"reinforcement_logic_BattleReinforcementLogic": 1,
+		"arg1_value": 19,
+		"arg2_value": 0
+	},
+	{
+		"ID": 20,
+		"name": "20ターン目",
+		"reinforcement_logic_BattleReinforcementLogic": 1,
+		"arg1_value": 20,
+		"arg2_value": 0
+	},
+	{
+		"ID": 999,
+		"name": "999ターン目",
+		"reinforcement_logic_BattleReinforcementLogic": 1,
+		"arg1_value": 999,
+		"arg2_value": 0
+	},
+	{
+		"ID": 22,
+		"name": "4匹撃破",
+		"reinforcement_logic_BattleReinforcementLogic": 2,
+		"arg1_value": 0,
+		"arg2_value": 4
+	},
+	{
+		"ID": 23,
+		"name": "グループ1全滅",
+		"reinforcement_logic_BattleReinforcementLogic": 2,
+		"arg1_value": 1,
+		"arg2_value": 0
+	},
+	{
+		"ID": 24,
+		"name": "グループ1一体撃破",
+		"reinforcement_logic_BattleReinforcementLogic": 2,
+		"arg1_value": 1,
+		"arg2_value": 1
+	},
+	{
+		"ID": 25,
+		"name": "",
+		"reinforcement_logic_BattleReinforcementLogic": 3,
+		"arg1_value": 1,
+		"arg2_value": 0
+	},
+	{
+		"ID": 26,
+		"name": "",
+		"reinforcement_logic_BattleReinforcementLogic": 4,
+		"arg1_value": 2,
+		"arg2_value": 0
+	},
+	{
+		"ID": 27,
+		"name": "",
+		"reinforcement_logic_BattleReinforcementLogic": 5,
+		"arg1_value": 3,
+		"arg2_value": 0
+	},
+	{
+		"ID": 28,
+		"name": "",
+		"reinforcement_logic_BattleReinforcementLogic": 6,
+		"arg1_value": 5,
+		"arg2_value": 0
+	},
+	{
+		"ID": 29,
+		"name": "",
+		"reinforcement_logic_BattleReinforcementLogic": 7,
+		"arg1_value": 19,
+		"arg2_value": 0
+	}
+]

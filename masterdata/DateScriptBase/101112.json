@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 101112,
+		"script": "# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_castle\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# voice 1011 \"excalibur_0004\"\n@エクスカリバー\n本当に無欲なお方ですね\nあなたらしい…\n\n# eye %(unit_a)s \"close\"\n# textflame 1 1\n@エクスカリバー\nはるか極東に\n人は城、人は石垣と言った\n君主がいたそうです\n\n# voice 1011 \"excalibur_0001\"\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n@エクスカリバー\nまさにマスターに\nふさわしい言葉だとは\n思いませんか？\n\n# textflame 0 0\n@\nマスターは\n自分に力を貸してくれる\n心強い仲間の顔を思い浮かべた\n\n# textflame 1 1\n@エクスカリバー\n私はあなたの剣ですが…\n城にも石垣にもなりましょう\n\n# textflame 0 0\n@\nとても心強くはあるのだけれど\n今はそういう堅い話は\n抜きにしたいとマスターが伝える\n\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@エクスカリバー\nそれはなぜ…\n\n# voice 1011 \"excalibur_0023\"\n# textflame 1 1\n@エクスカリバー\nえっ、今はデート中だから！？\n\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@エクスカリバー\nし、失礼しました！では…、\nエスコートをお願いします\n\n# textflame 0 0\n@\nやや頬を赤く染めつつも\nどこか嬉しそうな\nエクスカリバーだった――\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

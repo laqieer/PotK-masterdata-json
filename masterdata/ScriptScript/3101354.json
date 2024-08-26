@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 3101354,
+		"script": "# script \"lisp\"\n# background \"colosseum_rise\"\n# bgmfile \"bgm177\" \"BgmGakuen001\" 0\n# body 810004\n# pos 810004 3\n# scale 810004 0.8 0\n# mask 810004 off\n# body 821008\n# pos 821008 5\n# scale 821008 0.8 0\n# entry 1234 821008\n# pos 1234 1\n# scale 1234 0.8 0\n# alpha 821008 0 0\n# alpha 1234 0 0\n# emotionbody 9999 10 810004 -100 250\n# effectpattern 9999 4 0\n# effectstart 9999\n# textflame 1 1\n# textboxarrow 0 2\n# chara 810004\n# voice 9994 \"izokutaisho_0044\"\n@異族の大将\nまいどです！\n2017年始まって1ヶ月\nどない？調子ええ？\n\n# effectskip 9999\n# textflame 1 1\n# textboxarrow 0 2\n# chara 810004\n# se \"SE_9022\"\n# voice 9994 \"izokutaisho_0073\"\n@異族の大将\nにしても寒いな\n尻もとからさぶい！でも\nこんな冬も嫌いじゃない\n\n# envbody 8888 10 0\n# effectpattern 8888 1 0\n# effectstart 8888\n# textflame 1 1\n# textboxarrow 0 2\n# chara 810004\n# se \"SE_0607\"\n# voice 9994 \"izokutaisho_0028\"\n@異族の大将\nというわけで今月もきたで\nニコ生クエスト\n\n# effectskip 8888\n# alpha 821008 1 1\n# alpha 1234 1 1\n# textflame 1 1\n# textboxarrow 0 2\n# chara 810004\n@異族の大将\nもうすぐ節分やから\nうちの鬼たちが張り切りすぎて…\n\n# textflame 1 1\n# textboxarrow 0 2\n# chara 810004\n@異族の大将\nなんでかつられて\n他の異族も頑張っとうわ\n\n# textflame 1 1\n# textboxarrow 0 2\n# chara 810004\n# voice 9994 \"izokutaisho_0074\"\n@異族の大将\n昔からなんやいうたら\n鬼は負けることが多いけどな\n今回は勝たせてもらうで！！"
+	}
+]

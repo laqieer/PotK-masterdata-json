@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 500814,
+		"script": "# script \"lisp\"\n# fadein \"black\" 0.5\n# background %(background)s\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n@芭蕉扇\nあなた…？\n今なんとおっしゃって？\n\n# textflame 0 0\n@\n彼女の表情が急に一変した…\n\n# textflame 1 1\n# face %(unit_a)s \"angry\"\n@芭蕉扇\n妻として、夫の無謀な\n金銭感覚は\n看過できないわ…！\n\n# textflame 0 0\n@\n立派なお城の下で\n意外な堅実さを\n知るマスターであった…\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

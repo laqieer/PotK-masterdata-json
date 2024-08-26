@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 600513,
+		"script": "# script \"lisp\"\n# fadein \"black\" 0.5\n# background %(background)s\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# voice 6005 \"keryukeion_0003\"\n@ケーリュケイオン\n…そうね\nマスターがそう言ってくれるなら\n少し待ちましょうか\n\n# textflame 0 0\n@\n待ち時間中、マスターは\nケーリュケイオンがなぜこの店に\n執心なのか聞いてみた\n\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@ケーリュケイオン\n理由…？\n\n# textflame 1 1\n@ケーリュケイオン\nう～ん…\nちょっとした意地というか\nなんというか…\n\n# textflame 1 1\n@ケーリュケイオン\nこの間カドケウスと話してたら\nこのお店の話が出て…\n\n# textflame 1 1\n@ケーリュケイオン\nその時の私は\nこの限定フェアのこと知らなくて…\n\n# textflame 1 1\n@ケーリュケイオン\n悔しかったの\n\n# voice 6005 \"keryukeion_0004\"\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@ケーリュケイオン\nでも今日はマスターと一緒だから…\nうん、これはもう私の勝ちよね！\n乙女的にも！\n\n# textflame 0 0\n@\n話している内に機嫌のよくなった\nケーリュケイオンと一緒に、\n待ち時間を談笑して過ごした…\n\n;;--------------------------------------\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

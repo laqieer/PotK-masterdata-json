@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 300324,
+		"script": ";;A小当り\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_onsen\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# eye %(unit_a)s \"close\"\n@方天画戟\nいいや…\nまだ満足できないね…\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"normal\"\n# voice 3003 \"hotengageki_0005\"\n@方天画戟\n当然…\nこのあとはさぞ盛大な\n宴会が用意されてるんだろうな？\n\n# textflame 0 0\n@\nその期待に満ちた顔を\n裏切るわけにはいかず…\n\n@\n風呂上り、\n思い切り食べて飲んで\nお互いを労った…\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

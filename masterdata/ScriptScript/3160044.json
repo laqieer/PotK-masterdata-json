@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 3160044,
+		"script": "# script \"lisp\"\n# background \"antiquity\"\n# bgm \"bgm001\" 0\n# body 0\n# mask 0 off\n# pos 0 5\n# face 0 \"occur\"\n# scale 24 0.7 0\n# body 24\n# mask 24 off\n# pos 24 1\n# scale 24 0.8 0\n# textflame 1 1\n# textboxarrow 0 3\n# voice 9999 \"durin_0010\"\n@デュリン\nはぁ～！？\nアンタまでなに言い出すのよ！\n\n@デュリン\nバイブスが疼くって\n異族しかいないじゃないのさ！\n\n# serif 1\n# textboxarrow 1 1\n# face 24 \"sad\"\n@ティルフィング\nマスターも\nこう言ってるのですし、\nもう少しだけ…\n\n# serif 0\n# textboxarrow 0 3\n# voice 9999 \"durin_0049\"\n# face 0 \"serious\"\n@デュリン\nだいだい、\nアタシ達はこんなところで\n寄り道するほど暇じゃないのよ！\n\n# serif 1\n# textboxarrow 1 1\n# face 24 \"surprise\"\n@ティルフィング\nデュリン落ち着いて\nどの道こんなに異族が溢れている\n場所を放置するわけには…\n\n# serif 0\n# textboxarrow 0 3\n# voice 9999 \"durin_0028\"\n# face 0 \"occur\"\n@デュリン\nぐぬぬ…\n\n# face 0 \"angry\"\n@デュリン\nもう、キラープリンセスか宝箱か\n知らないけど…見つからなかったら\n次の町でチョコ１００個だからね！\n\n# serif 1\n# textboxarrow 1 1\n# face 24 \"happy\"\n# voice 1014 \"tyrufing_0046\"\n@ティルフィング\n行きましょう、マスター\n"
+	}
+]

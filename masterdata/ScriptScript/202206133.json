@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 202206133,
+		"script": ";;-----------------------------------------\n;;ウェディングイベント3_3\n;;-----------------------------------------\n# script \"lisp\"\n# background \"201_room\"\n# bgm \"bgm005\" 0\n;;-----------------------------------------\n;;マスターアルマス\n# body 196\n# pos 196 4\n# scale 196 0.8 0\n# layer 196 4\n# mask 196 off\n# alpha 196 1 0\n# face 196 \"angry\"\n;;グラーシーザ\n# body 302611\n# pos 302611 2\n# scale 302611 0.8 0\n# layer 302611 2\n# mask 302611 off\n# alpha 302611 1 0\n# face 302611 \"sad\"\n;;-----------------------------------------\n# textwindow \"close\"\n# fadein \"black\" 1\n# waitandnext 1\n\n# voice 9943 \"almace_navikan_0001\"\n# textflame 1 1\n# textboxarrow 0 3\n# textwindow \"normal\"\n@アルマス\nねぇ！\nどうしたのってグラーシーザ！\n\n# textboxarrow 0 1\n@グラーシーザ\n…あのおじさんはしかくの話をしていた\n\n# voice 9943 \"almace_navikan_0048\"\n# face 196 \"normal\"\n# textboxarrow 0 3\n@アルマス\nええ、理由はわからないけど\n自分には資格がないって…\nグラーシーザは何か知ってるの？\n\n# textboxarrow 0 1\n@グラーシーザ\nりゆうじたいはしらない\nだが、しかくがないというきもちは\nあたしにもわかる、おなじだから\n\n# face 302611 \"normal\"\n# textboxarrow 0 1\n@グラーシーザ\nアルマス、お前には話そう\n\n# textboxarrow 0 1\n@グラーシーザ\nあたしが\nスランプにおちいった理由を…\n\n# fadeout \"black\" 1\n# waitandnext 1"
+	}
+]

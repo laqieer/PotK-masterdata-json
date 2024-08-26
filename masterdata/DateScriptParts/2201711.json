@@ -1,0 +1,26 @@
+[
+	{
+		"ID": 115,
+		"unitID": 2201711,
+		"scriptID": "kaerimichi",
+		"script": "実はヤグ、今日はお姉ちゃんに\n少し遅くかもって伝えてるんだ～"
+	},
+	{
+		"ID": 129,
+		"unitID": 2201711,
+		"scriptID": "kaeru",
+		"script": "お姉ちゃんが待ってるから、\nヤグ、そろそろ帰りたいな～"
+	},
+	{
+		"ID": 143,
+		"unitID": 2201711,
+		"scriptID": "kaeru_ok",
+		"script": "@%(unitName:unit_a)s\nわ～い！\nヤグ、マスターと一緒なら\nどこにでも行くよ～！"
+	},
+	{
+		"ID": 157,
+		"unitID": 2201711,
+		"scriptID": "kaeru_ng",
+		"script": "@%(unitName:unit_a)s\nうーん、そろそろお姉ちゃんに\n心配かけちゃうかも…\n今日はヤグ、帰るねえ"
+	}
+]

@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 300113,
+		"script": "# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_church\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# voice 3001 \"ronginusu_kyara_1004\"\n@ロンギヌス\nそう思います\n祈るという行為が…\n良き結果を願う気持ちが…\n\n# textflame 1 1\n# eye %(unit_a)s \"close\"\n@ロンギヌス\n積み重なっていくことが\n大切なんだと思うんです\n\n# textflame 0 0\n@\nロンギヌスは胸の前で手を合わせ\n静かに目を伏せた\n\n# voice 3001 \"ronginusu_0003\"\n# textflame 1 1\n@ロンギヌス\n小さな働きかけに\n世界はきっといつか\n耳を傾けてくれているはずです…\n\n# textflame 0 0\n@\n清く尊いロンギヌスの思いが\n天に届くことを\n願うマスターだった…\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

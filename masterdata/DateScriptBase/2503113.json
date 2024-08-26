@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 2503113,
+		"script": ";;C\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_shop\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 250312 \"solomon_lo_0022\"\n@ソロモン\nえ…？\nそ、そうだったかな？\n\n# face %(unit_a)s \"sad\"\n# voice 250312 \"solomon_lo_0028\"\n@ソロモン\nおかしいな…\nおかいものりすとには\nはいってなかったような…\n\n# face %(unit_a)s \"surprise\"\n# voice 250312 \"solomon_lo_0023\"\n@ソロモン\nえっ、ちゃんとかいてある？\nほんとだ！\n\n# face %(unit_a)s \"usual\"\n@ソロモン\nうーん…たいのだれかが\nかってにいれたのかな？\n\n@ソロモン\n…し、しょうがない！\nこういうごらくも\nたまにはひつようだろうし\n\n# face %(unit_a)s \"happy\"\n# voice 250312 \"solomon_lo_0004\"\n@ソロモン\nさっそくかいましょ、\nおにいさん！ふふっ♪\n\n@ソロモン\n…え？うれしそう？\nそ、そんなことないわよ？\nほら、はやくっ！\n\n# textflame 0 0\n@\nマスターの袖を\nぐいぐい引っ張り、\nお店へと急ぐソロモン\n\n@\nその足取りには、\n隠せない嬉しさが\nにじみでていた\n\n;;-----------------------------------------\n# waitandnext 2\n# fadeout \"black\" 1.2\n"
+	}
+]

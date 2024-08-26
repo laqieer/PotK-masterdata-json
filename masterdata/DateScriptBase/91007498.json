@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 91007498,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# se \"SE_0733\"\n# face %(unit_a)s \"sad\"\n# voice 1007 \"Arondaito_0017\"\n@アロンダイト\n仕方ありません\n\n# textflame 0 0\n@\nアロンダイトの出した問題に\n正解できず、落ち込んでしまう\nマスター\n\n# face %(unit_a)s \"normal\"\n# textflame 1 1\n@アロンダイト\nマスター\nそんなに落ち込まないでください\n\n@アロンダイト\nこれは、ただの遊びなんですから\nね…？\n\n# textflame 0 0\n@\n落ち込むマスターを心配して\n励ましてくれるアロンダイト\n\n@\nそうしてくれるのはありがたいが、\nマスターの悔しいという気持ちが\nなくなるわけではない\n\n@\n次があるなら、彼女のことを\nもっと知っておこうと思う\nマスターであった\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

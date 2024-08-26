@@ -1,0 +1,302 @@
+[
+	{
+		"ID": 5767,
+		"unitID": 2402011,
+		"questionID": 9402001,
+		"script": ";;弓,2\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 540201 \"hyoha_c_0002\"\n@ヒョウハ\nなぁ、師匠！\n\n@ヒョウハ\nあたしは曖昧な事が嫌いだから、\n白黒ハッキリさせたいんだ！\n\n@ヒョウハ\nだからさっ\n師匠があたしのこと\nどれだけ知ってるか\n\n@ヒョウハ\nクイズで試させてもらうぞ！\n\n# voice 540201 \"hyoha_c_0005\"\n@ヒョウハ\nじゃあ、超爆・燃え上がって\nいってみよぉぉぉ！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしの武器属性は知ってるだろ？　\n\n# se \"SE_0734\"\n# select \"槍\" \"select_label_1\" \"弓\" \"select_label_2\" \"斧\" \"select_label_3\"\nあたしの武器属性は知ってるだろ？　\n"
+	},
+	{
+		"ID": 5768,
+		"unitID": 2402011,
+		"questionID": 9402002,
+		"script": ";;テュール,3\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 540201 \"hyoha_c_0002\"\n@ヒョウハ\nなぁ、師匠！\n\n@ヒョウハ\nあたしは曖昧な事が嫌いだから、\n白黒ハッキリさせたいんだ！\n\n@ヒョウハ\nだからさっ\n師匠があたしのこと\nどれだけ知ってるか\n\n@ヒョウハ\nクイズで試させてもらうぞ！\n\n# voice 540201 \"hyoha_c_0005\"\n@ヒョウハ\nじゃあ、超爆・燃え上がって\nいってみよぉぉぉ！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしがコマンドされたのは？\n\n# se \"SE_0734\"\n# select \"チュール\" \"select_label_1\" \"ビール\" \"select_label_2\" \"テュール\" \"select_label_3\"\nあたしがコマンドされたのは？\n"
+	},
+	{
+		"ID": 5769,
+		"unitID": 2402011,
+		"questionID": 9402003,
+		"script": ";;日本神話群,3\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 540201 \"hyoha_c_0002\"\n@ヒョウハ\nなぁ、師匠！\n\n@ヒョウハ\nあたしは曖昧な事が嫌いだから、\n白黒ハッキリさせたいんだ！\n\n@ヒョウハ\nだからさっ\n師匠があたしのこと\nどれだけ知ってるか\n\n@ヒョウハ\nクイズで試させてもらうぞ！\n\n# voice 540201 \"hyoha_c_0005\"\n@ヒョウハ\nじゃあ、超爆・燃え上がって\nいってみよぉぉぉ！\n;;---------------------------------\n\n@%(unitName:unit_a)s\n『ヒョウハ』はどんな伝承に\n登場するか知ってるだろ？\n\n# se \"SE_0734\"\n# select \"ギリシャ神話\" \"select_label_1\" \"インド神話\" \"select_label_2\" \"日本神話群\" \"select_label_3\"\n『ヒョウハ』はどんな伝承に\n登場するか知ってるだろ？\n"
+	},
+	{
+		"ID": 5770,
+		"unitID": 2402011,
+		"questionID": 9402004,
+		"script": ";;軍神,2\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 540201 \"hyoha_c_0002\"\n@ヒョウハ\nなぁ、師匠！\n\n@ヒョウハ\nあたしは曖昧な事が嫌いだから、\n白黒ハッキリさせたいんだ！\n\n@ヒョウハ\nだからさっ\n師匠があたしのこと\nどれだけ知ってるか\n\n@ヒョウハ\nクイズで試させてもらうぞ！\n\n# voice 540201 \"hyoha_c_0005\"\n@ヒョウハ\nじゃあ、超爆・燃え上がって\nいってみよぉぉぉ！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしがコマンドされた『テュール』は\nどんな神と云われている？\n\n# se \"SE_0734\"\n# select \"農耕の神\" \"select_label_1\" \"軍神\" \"select_label_2\" \"学業の神\" \"select_label_3\"\nあたしがコマンドされた『テュール』は\nどんな神と云われている？\n"
+	},
+	{
+		"ID": 5771,
+		"unitID": 2402011,
+		"questionID": 9402005,
+		"script": ";;隻腕,3\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 540201 \"hyoha_c_0002\"\n@ヒョウハ\nなぁ、師匠！\n\n@ヒョウハ\nあたしは曖昧な事が嫌いだから、\n白黒ハッキリさせたいんだ！\n\n@ヒョウハ\nだからさっ\n師匠があたしのこと\nどれだけ知ってるか\n\n@ヒョウハ\nクイズで試させてもらうぞ！\n\n# voice 540201 \"hyoha_c_0005\"\n@ヒョウハ\nじゃあ、超爆・燃え上がって\nいってみよぉぉぉ！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしがコマンドされた\n『テュール』は…？\n\n# se \"SE_0734\"\n# select \"隻眼\" \"select_label_1\" \"碧眼\" \"select_label_2\" \"隻腕\" \"select_label_3\"\nあたしがコマンドされた\n『テュール』は…？\n"
+	},
+	{
+		"ID": 5772,
+		"unitID": 2402011,
+		"questionID": 9402006,
+		"script": ";;フェンリル,3\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 540201 \"hyoha_c_0002\"\n@ヒョウハ\nなぁ、師匠！\n\n@ヒョウハ\nあたしは曖昧な事が嫌いだから、\n白黒ハッキリさせたいんだ！\n\n@ヒョウハ\nだからさっ\n師匠があたしのこと\nどれだけ知ってるか\n\n@ヒョウハ\nクイズで試させてもらうぞ！\n\n# voice 540201 \"hyoha_c_0005\"\n@ヒョウハ\nじゃあ、超爆・燃え上がって\nいってみよぉぉぉ！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしがコマンドされた\n『テュール』の腕を\nかみちぎったのは…？\n\n# se \"SE_0734\"\n# select \"フェアリー\" \"select_label_1\" \"シルバ\" \"select_label_2\" \"フェンリル\" \"select_label_3\"\nあたしがコマンドされた\n『テュール』の腕を\nかみちぎったのは…？\n"
+	},
+	{
+		"ID": 5773,
+		"unitID": 2402011,
+		"questionID": 9402007,
+		"script": ";;兵破,2\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 540201 \"hyoha_c_0002\"\n@ヒョウハ\nなぁ、師匠！\n\n@ヒョウハ\nあたしは曖昧な事が嫌いだから、\n白黒ハッキリさせたいんだ！\n\n@ヒョウハ\nだからさっ\n師匠があたしのこと\nどれだけ知ってるか\n\n@ヒョウハ\nクイズで試させてもらうぞ！\n\n# voice 540201 \"hyoha_c_0005\"\n@ヒョウハ\nじゃあ、超爆・燃え上がって\nいってみよぉぉぉ！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしのキラーズ『ヒョウハ』を\n漢字で書くと…？\n\n# se \"SE_0734\"\n# select \"豹破\" \"select_label_1\" \"兵破\" \"select_label_2\" \"氷破\" \"select_label_3\"\nあたしのキラーズ『ヒョウハ』を\n漢字で書くと…？\n"
+	},
+	{
+		"ID": 5774,
+		"unitID": 2402011,
+		"questionID": 9402008,
+		"script": ";;雲,1\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 540201 \"hyoha_c_0002\"\n@ヒョウハ\nなぁ、師匠！\n\n@ヒョウハ\nあたしは曖昧な事が嫌いだから、\n白黒ハッキリさせたいんだ！\n\n@ヒョウハ\nだからさっ\n師匠があたしのこと\nどれだけ知ってるか\n\n@ヒョウハ\nクイズで試させてもらうぞ！\n\n# voice 540201 \"hyoha_c_0005\"\n@ヒョウハ\nじゃあ、超爆・燃え上がって\nいってみよぉぉぉ！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしのキラーズ『ヒョウハ』は\nどこに隠れている妖怪を撃ち抜いた？\n\n# se \"SE_0734\"\n# select \"雲\" \"select_label_1\" \"山\" \"select_label_2\" \"海\" \"select_label_3\"\nあたしのキラーズ『ヒョウハ』は\nどこに隠れている妖怪を撃ち抜いた？\n"
+	},
+	{
+		"ID": 5775,
+		"unitID": 2402011,
+		"questionID": 9402009,
+		"script": ";;コマンドキラーズ,3\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 540201 \"hyoha_c_0002\"\n@ヒョウハ\nなぁ、師匠！\n\n@ヒョウハ\nあたしは曖昧な事が嫌いだから、\n白黒ハッキリさせたいんだ！\n\n@ヒョウハ\nだからさっ\n師匠があたしのこと\nどれだけ知ってるか\n\n@ヒョウハ\nクイズで試させてもらうぞ！\n\n# voice 540201 \"hyoha_c_0005\"\n@ヒョウハ\nじゃあ、超爆・燃え上がって\nいってみよぉぉぉ！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしはこれの一員だよ！\n\n# se \"SE_0734\"\n# select \"コマンドサンボ\" \"select_label_1\" \"ウインクキラーズ\" \"select_label_2\" \"コマンドキラーズ\" \"select_label_3\"\nあたしはこれの一員だよ！\n"
+	},
+	{
+		"ID": 5776,
+		"unitID": 2402011,
+		"questionID": 9402010,
+		"script": ";;源頼光,1\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 540201 \"hyoha_c_0002\"\n@ヒョウハ\nなぁ、師匠！\n\n@ヒョウハ\nあたしは曖昧な事が嫌いだから、\n白黒ハッキリさせたいんだ！\n\n@ヒョウハ\nだからさっ\n師匠があたしのこと\nどれだけ知ってるか\n\n@ヒョウハ\nクイズで試させてもらうぞ！\n\n# voice 540201 \"hyoha_c_0005\"\n@ヒョウハ\nじゃあ、超爆・燃え上がって\nいってみよぉぉぉ！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしのキラーズ『兵破』の\n持ち主で、鵺を退治したのは？\n\n# se \"SE_0734\"\n# select \"源頼光\" \"select_label_1\" \"源頼朝\" \"select_label_2\" \"平清盛\" \"select_label_3\"\nあたしのキラーズ『兵破』の\n持ち主で、鵺を退治したのは？\n"
+	},
+	{
+		"ID": 5777,
+		"unitID": 2402011,
+		"questionID": 9402011,
+		"script": ";;炎,1\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 540201 \"hyoha_c_0002\"\n@ヒョウハ\nな、なぁ師匠…！\n\n# textflame 0 0\n@\nなにやら落ち着かない様子で\n話しかけてくるヒョウハ\n\n@\nそのことを尋ねてみると、\n\n# textflame 1 1\n# face %(unit_a)s \"surprise\"\n# voice 540201 \"hyoha_c_0008\"\n@ヒョウハ\nそ、そうか？\nさっき食べたホットチリドッグが\n辛すぎたからかな\n\n# textflame 0 0\n@\nもう一時間以上も前なのに…\nマスターが不思議そうな\n顔をしていると、\n\n# textflame 1 1\n# face %(unit_a)s \"angry\"\n@ヒョウハ\nそんなことはどうでもいい…！\n今からクイズを出すぞ！！\nちゃんと答えるんだぞ！！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしの属性は知ってるか？\n\n# se \"SE_0734\"\n# select \"炎\" \"select_label_1\" \"風\" \"select_label_2\" \"水\" \"select_label_3\"\nあたしの属性は知ってるか？\n"
+	},
+	{
+		"ID": 5778,
+		"unitID": 2402011,
+		"questionID": 9402012,
+		"script": ";;170cm ,3\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 540201 \"hyoha_c_0002\"\n@ヒョウハ\nな、なぁ師匠…！\n\n# textflame 0 0\n@\nなにやら落ち着かない様子で\n話しかけてくるヒョウハ\n\n@\nそのことを尋ねてみると、\n\n# textflame 1 1\n# face %(unit_a)s \"surprise\"\n# voice 540201 \"hyoha_c_0008\"\n@ヒョウハ\nそ、そうか？\nさっき食べたホットチリドッグが\n辛すぎたからかな\n\n# textflame 0 0\n@\nもう一時間以上も前なのに…\nマスターが不思議そうな\n顔をしていると、\n\n# textflame 1 1\n# face %(unit_a)s \"angry\"\n@ヒョウハ\nそんなことはどうでもいい…！\n今からクイズを出すぞ！！\nちゃんと答えるんだぞ！！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしの身長は\n何センチかわかるか？\n\n# se \"SE_0734\"\n# select \"169cm\" \"select_label_1\" \"168cm\" \"select_label_2\" \"170cm \" \"select_label_3\"\nあたしの身長は\n何センチかわかるか？\n"
+	},
+	{
+		"ID": 5779,
+		"unitID": 2402011,
+		"questionID": 9402013,
+		"script": ";;8月29日,2\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 540201 \"hyoha_c_0002\"\n@ヒョウハ\nな、なぁ師匠…！\n\n# textflame 0 0\n@\nなにやら落ち着かない様子で\n話しかけてくるヒョウハ\n\n@\nそのことを尋ねてみると、\n\n# textflame 1 1\n# face %(unit_a)s \"surprise\"\n# voice 540201 \"hyoha_c_0008\"\n@ヒョウハ\nそ、そうか？\nさっき食べたホットチリドッグが\n辛すぎたからかな\n\n# textflame 0 0\n@\nもう一時間以上も前なのに…\nマスターが不思議そうな\n顔をしていると、\n\n# textflame 1 1\n# face %(unit_a)s \"angry\"\n@ヒョウハ\nそんなことはどうでもいい…！\n今からクイズを出すぞ！！\nちゃんと答えるんだぞ！！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしの誕生日は知ってるか？\n\n# se \"SE_0734\"\n# select \"9月29日\" \"select_label_1\" \"8月29日\" \"select_label_2\" \"10月29日\" \"select_label_3\"\nあたしの誕生日は知ってるか？\n"
+	},
+	{
+		"ID": 5780,
+		"unitID": 2402011,
+		"questionID": 9402014,
+		"script": ";;乙女座,1\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 540201 \"hyoha_c_0002\"\n@ヒョウハ\nな、なぁ師匠…！\n\n# textflame 0 0\n@\nなにやら落ち着かない様子で\n話しかけてくるヒョウハ\n\n@\nそのことを尋ねてみると、\n\n# textflame 1 1\n# face %(unit_a)s \"surprise\"\n# voice 540201 \"hyoha_c_0008\"\n@ヒョウハ\nそ、そうか？\nさっき食べたホットチリドッグが\n辛すぎたからかな\n\n# textflame 0 0\n@\nもう一時間以上も前なのに…\nマスターが不思議そうな\n顔をしていると、\n\n# textflame 1 1\n# face %(unit_a)s \"angry\"\n@ヒョウハ\nそんなことはどうでもいい…！\n今からクイズを出すぞ！！\nちゃんと答えるんだぞ！！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしの星座は知ってるか？\n\n# se \"SE_0734\"\n# select \"乙女座\" \"select_label_1\" \"射手座\" \"select_label_2\" \"山羊座\" \"select_label_3\"\nあたしの星座は知ってるか？\n"
+	},
+	{
+		"ID": 5781,
+		"unitID": 2402011,
+		"questionID": 9402015,
+		"script": ";;辛いもの,3\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 540201 \"hyoha_c_0002\"\n@ヒョウハ\nな、なぁ師匠…！\n\n# textflame 0 0\n@\nなにやら落ち着かない様子で\n話しかけてくるヒョウハ\n\n@\nそのことを尋ねてみると、\n\n# textflame 1 1\n# face %(unit_a)s \"surprise\"\n# voice 540201 \"hyoha_c_0008\"\n@ヒョウハ\nそ、そうか？\nさっき食べたホットチリドッグが\n辛すぎたからかな\n\n# textflame 0 0\n@\nもう一時間以上も前なのに…\nマスターが不思議そうな\n顔をしていると、\n\n# textflame 1 1\n# face %(unit_a)s \"angry\"\n@ヒョウハ\nそんなことはどうでもいい…！\n今からクイズを出すぞ！！\nちゃんと答えるんだぞ！！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしが好きなのは…\n\n# se \"SE_0734\"\n# select \"甘いもの\" \"select_label_1\" \"酸っぱいもの\" \"select_label_2\" \"辛いもの\" \"select_label_3\"\nあたしが好きなのは…\n"
+	},
+	{
+		"ID": 5782,
+		"unitID": 2402011,
+		"questionID": 9402016,
+		"script": ";;トレーニング,1\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 540201 \"hyoha_c_0002\"\n@ヒョウハ\nな、なぁ師匠…！\n\n# textflame 0 0\n@\nなにやら落ち着かない様子で\n話しかけてくるヒョウハ\n\n@\nそのことを尋ねてみると、\n\n# textflame 1 1\n# face %(unit_a)s \"surprise\"\n# voice 540201 \"hyoha_c_0008\"\n@ヒョウハ\nそ、そうか？\nさっき食べたホットチリドッグが\n辛すぎたからかな\n\n# textflame 0 0\n@\nもう一時間以上も前なのに…\nマスターが不思議そうな\n顔をしていると、\n\n# textflame 1 1\n# face %(unit_a)s \"angry\"\n@ヒョウハ\nそんなことはどうでもいい…！\n今からクイズを出すぞ！！\nちゃんと答えるんだぞ！！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしの趣味はこれだな！\n\n# se \"SE_0734\"\n# select \"トレーニング\" \"select_label_1\" \"座禅\" \"select_label_2\" \"乗馬\" \"select_label_3\"\nあたしの趣味はこれだな！\n"
+	},
+	{
+		"ID": 5783,
+		"unitID": 2402011,
+		"questionID": 9402017,
+		"script": ";;Ｏ型,2\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 540201 \"hyoha_c_0002\"\n@ヒョウハ\nな、なぁ師匠…！\n\n# textflame 0 0\n@\nなにやら落ち着かない様子で\n話しかけてくるヒョウハ\n\n@\nそのことを尋ねてみると、\n\n# textflame 1 1\n# face %(unit_a)s \"surprise\"\n# voice 540201 \"hyoha_c_0008\"\n@ヒョウハ\nそ、そうか？\nさっき食べたホットチリドッグが\n辛すぎたからかな\n\n# textflame 0 0\n@\nもう一時間以上も前なのに…\nマスターが不思議そうな\n顔をしていると、\n\n# textflame 1 1\n# face %(unit_a)s \"angry\"\n@ヒョウハ\nそんなことはどうでもいい…！\n今からクイズを出すぞ！！\nちゃんと答えるんだぞ！！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしの血液型は知ってるか？\n\n# se \"SE_0734\"\n# select \"ＡＢ型\" \"select_label_1\" \"Ｏ型\" \"select_label_2\" \"Ａ型\" \"select_label_3\"\nあたしの血液型は知ってるか？\n"
+	},
+	{
+		"ID": 5784,
+		"unitID": 2402011,
+		"questionID": 9402018,
+		"script": ";;靴,1\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 540201 \"hyoha_c_0002\"\n@ヒョウハ\nな、なぁ師匠…！\n\n# textflame 0 0\n@\nなにやら落ち着かない様子で\n話しかけてくるヒョウハ\n\n@\nそのことを尋ねてみると、\n\n# textflame 1 1\n# face %(unit_a)s \"surprise\"\n# voice 540201 \"hyoha_c_0008\"\n@ヒョウハ\nそ、そうか？\nさっき食べたホットチリドッグが\n辛すぎたからかな\n\n# textflame 0 0\n@\nもう一時間以上も前なのに…\nマスターが不思議そうな\n顔をしていると、\n\n# textflame 1 1\n# face %(unit_a)s \"angry\"\n@ヒョウハ\nそんなことはどうでもいい…！\n今からクイズを出すぞ！！\nちゃんと答えるんだぞ！！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしがこだわってるものは…？\n\n# se \"SE_0734\"\n# select \"靴\" \"select_label_1\" \"服\" \"select_label_2\" \"リストバンド\" \"select_label_3\"\nあたしがこだわってるものは…？\n"
+	},
+	{
+		"ID": 5785,
+		"unitID": 2402011,
+		"questionID": 9402019,
+		"script": ";;超爆,3\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 540201 \"hyoha_c_0002\"\n@ヒョウハ\nな、なぁ師匠…！\n\n# textflame 0 0\n@\nなにやら落ち着かない様子で\n話しかけてくるヒョウハ\n\n@\nそのことを尋ねてみると、\n\n# textflame 1 1\n# face %(unit_a)s \"surprise\"\n# voice 540201 \"hyoha_c_0008\"\n@ヒョウハ\nそ、そうか？\nさっき食べたホットチリドッグが\n辛すぎたからかな\n\n# textflame 0 0\n@\nもう一時間以上も前なのに…\nマスターが不思議そうな\n顔をしていると、\n\n# textflame 1 1\n# face %(unit_a)s \"angry\"\n@ヒョウハ\nそんなことはどうでもいい…！\n今からクイズを出すぞ！！\nちゃんと答えるんだぞ！！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしの口癖はこれだよ！\n\n# se \"SE_0734\"\n# select \"超絶\" \"select_label_1\" \"超越\" \"select_label_2\" \"超爆\" \"select_label_3\"\nあたしの口癖はこれだよ！\n"
+	},
+	{
+		"ID": 5786,
+		"unitID": 2402011,
+		"questionID": 9402020,
+		"script": ";;コマンド,1\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 540201 \"hyoha_c_0002\"\n@ヒョウハ\nな、なぁ師匠…！\n\n# textflame 0 0\n@\nなにやら落ち着かない様子で\n話しかけてくるヒョウハ\n\n@\nそのことを尋ねてみると、\n\n# textflame 1 1\n# face %(unit_a)s \"surprise\"\n# voice 540201 \"hyoha_c_0008\"\n@ヒョウハ\nそ、そうか？\nさっき食べたホットチリドッグが\n辛すぎたからかな\n\n# textflame 0 0\n@\nもう一時間以上も前なのに…\nマスターが不思議そうな\n顔をしていると、\n\n# textflame 1 1\n# face %(unit_a)s \"angry\"\n@ヒョウハ\nそんなことはどうでもいい…！\n今からクイズを出すぞ！！\nちゃんと答えるんだぞ！！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしの名前は、\nヒョウハ・神令・テュール\n『神令』と書いて何と読む？\n\n# se \"SE_0734\"\n# select \"コマンド\" \"select_label_1\" \"ゴッドサイン\" \"select_label_2\" \"ガッデム\" \"select_label_3\"\nあたしの名前は、\nヒョウハ・神令・テュール\n『神令』と書いて何と読む？\n"
+	},
+	{
+		"ID": 5787,
+		"unitID": 2402011,
+		"questionID": 9402021,
+		"script": ";;炎熱神の共鳴,2\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 540201 \"hyoha_c_0002\"\n@ヒョウハ\nなあ、師匠\nあたしと師匠って結構\n一緒にいるよな？\n\n# textflame 0 0\n@\nそうだね\nマスターが頷く\n\n# textflame 1 1\n@ヒョウハ\nじゃあ、それだけ\nあたしのことを知ってるって\nことだよな？\n\n@ヒョウハ\n師匠が\nあたしに詳しいってとこ、\n見せてくれ！！\n\n# voice 540201 \"hyoha_c_0005\"\n@ヒョウハ\nそれを証明するには\nクイズが一番だ！！\n行くぞ！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしの覚えるリーダースキルを\n知ってるか？\n\n# se \"SE_0734\"\n# select \"炎熱神の饗宴\" \"select_label_1\" \"炎熱神の共鳴\" \"select_label_2\" \"炎熱神の教典\" \"select_label_3\"\nあたしの覚えるリーダースキルを\n知ってるか？\n"
+	},
+	{
+		"ID": 5788,
+		"unitID": 2402011,
+		"questionID": 9402022,
+		"script": ";;神威天元,3\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 540201 \"hyoha_c_0002\"\n@ヒョウハ\nなあ、師匠\nあたしと師匠って結構\n一緒にいるよな？\n\n# textflame 0 0\n@\nそうだね\nマスターが頷く\n\n# textflame 1 1\n@ヒョウハ\nじゃあ、それだけ\nあたしのことを知ってるって\nことだよな？\n\n@ヒョウハ\n師匠が\nあたしに詳しいってとこ、\n見せてくれ！！\n\n# voice 540201 \"hyoha_c_0005\"\n@ヒョウハ\nそれを証明するには\nクイズが一番だ！！\n行くぞ！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしの覚えるスキルを知ってるか？\n\n# se \"SE_0734\"\n# select \"神威天然\" \"select_label_1\" \"神威点線\" \"select_label_2\" \"神威天元\" \"select_label_3\"\nあたしの覚えるスキルを知ってるか？\n"
+	},
+	{
+		"ID": 5789,
+		"unitID": 2402011,
+		"questionID": 9402023,
+		"script": ";;思いを貫きし必弓,3\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 540201 \"hyoha_c_0002\"\n@ヒョウハ\nなあ、師匠\nあたしと師匠って結構\n一緒にいるよな？\n\n# textflame 0 0\n@\nそうだね\nマスターが頷く\n\n# textflame 1 1\n@ヒョウハ\nじゃあ、それだけ\nあたしのことを知ってるって\nことだよな？\n\n@ヒョウハ\n師匠が\nあたしに詳しいってとこ、\n見せてくれ！！\n\n# voice 540201 \"hyoha_c_0005\"\n@ヒョウハ\nそれを証明するには\nクイズが一番だ！！\n行くぞ！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしの覚えるスキルを知ってるか？\n\n# se \"SE_0734\"\n# select \"思いを貫きし弾弓\" \"select_label_1\" \"思いを貫きし破弓\" \"select_label_2\" \"思いを貫きし必弓\" \"select_label_3\"\nあたしの覚えるスキルを知ってるか？\n"
+	},
+	{
+		"ID": 5790,
+		"unitID": 2402011,
+		"questionID": 9402024,
+		"script": ";;超爆・封絶の灯,2\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 540201 \"hyoha_c_0002\"\n@ヒョウハ\nなあ、師匠\nあたしと師匠って結構\n一緒にいるよな？\n\n# textflame 0 0\n@\nそうだね\nマスターが頷く\n\n# textflame 1 1\n@ヒョウハ\nじゃあ、それだけ\nあたしのことを知ってるって\nことだよな？\n\n@ヒョウハ\n師匠が\nあたしに詳しいってとこ、\n見せてくれ！！\n\n# voice 540201 \"hyoha_c_0005\"\n@ヒョウハ\nそれを証明するには\nクイズが一番だ！！\n行くぞ！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしの覚えるスキルを知ってるか？\n\n# se \"SE_0734\"\n# select \"超楽・封絶の灯\" \"select_label_1\" \"超爆・封絶の灯\" \"select_label_2\" \"超濁・封絶の灯\" \"select_label_3\"\nあたしの覚えるスキルを知ってるか？\n"
+	},
+	{
+		"ID": 5791,
+		"unitID": 2402011,
+		"questionID": 9402025,
+		"script": ";;蒼の再跳,2\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 540201 \"hyoha_c_0002\"\n@ヒョウハ\nなあ、師匠\nあたしと師匠って結構\n一緒にいるよな？\n\n# textflame 0 0\n@\nそうだね\nマスターが頷く\n\n# textflame 1 1\n@ヒョウハ\nじゃあ、それだけ\nあたしのことを知ってるって\nことだよな？\n\n@ヒョウハ\n師匠が\nあたしに詳しいってとこ、\n見せてくれ！！\n\n# voice 540201 \"hyoha_c_0005\"\n@ヒョウハ\nそれを証明するには\nクイズが一番だ！！\n行くぞ！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしの覚えるスキルを知ってるか？\n\n# se \"SE_0734\"\n# select \"赤の再跳\" \"select_label_1\" \"蒼の再跳\" \"select_label_2\" \"緑の再跳\" \"select_label_3\"\nあたしの覚えるスキルを知ってるか？\n"
+	},
+	{
+		"ID": 5792,
+		"unitID": 2402011,
+		"questionID": 9402026,
+		"script": ";;紅蓮の聖域,1\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 540201 \"hyoha_c_0002\"\n@ヒョウハ\nなあ、師匠\nあたしと師匠って結構\n一緒にいるよな？\n\n# textflame 0 0\n@\nそうだね\nマスターが頷く\n\n# textflame 1 1\n@ヒョウハ\nじゃあ、それだけ\nあたしのことを知ってるって\nことだよな？\n\n@ヒョウハ\n師匠が\nあたしに詳しいってとこ、\n見せてくれ！！\n\n# voice 540201 \"hyoha_c_0005\"\n@ヒョウハ\nそれを証明するには\nクイズが一番だ！！\n行くぞ！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしの覚えるスキルを知ってるか？\n\n# se \"SE_0734\"\n# select \"紅蓮の聖域\" \"select_label_1\" \"紅蓮の聖地\" \"select_label_2\" \"紅蓮の聖杯\" \"select_label_3\"\nあたしの覚えるスキルを知ってるか？\n"
+	},
+	{
+		"ID": 5793,
+		"unitID": 2402011,
+		"questionID": 9402027,
+		"script": ";;虚に灯す神の爆炎,1\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 540201 \"hyoha_c_0002\"\n@ヒョウハ\nなあ、師匠\nあたしと師匠って結構\n一緒にいるよな？\n\n# textflame 0 0\n@\nそうだね\nマスターが頷く\n\n# textflame 1 1\n@ヒョウハ\nじゃあ、それだけ\nあたしのことを知ってるって\nことだよな？\n\n@ヒョウハ\n師匠が\nあたしに詳しいってとこ、\n見せてくれ！！\n\n# voice 540201 \"hyoha_c_0005\"\n@ヒョウハ\nそれを証明するには\nクイズが一番だ！！\n行くぞ！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしの覚えるデュエルスキルを\n知ってるか？\n\n# se \"SE_0734\"\n# select \"虚に灯す神の爆炎\" \"select_label_1\" \"虚に灯す神の爆煙\" \"select_label_2\" \"虚に灯す神の爆音\" \"select_label_3\"\nあたしの覚えるデュエルスキルを\n知ってるか？\n"
+	},
+	{
+		"ID": 5794,
+		"unitID": 2402011,
+		"questionID": 9402028,
+		"script": ";;樹令『紅蓮の灯』,1\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 540201 \"hyoha_c_0002\"\n@ヒョウハ\nなあ、師匠\nあたしと師匠って結構\n一緒にいるよな？\n\n# textflame 0 0\n@\nそうだね\nマスターが頷く\n\n# textflame 1 1\n@ヒョウハ\nじゃあ、それだけ\nあたしのことを知ってるって\nことだよな？\n\n@ヒョウハ\n師匠が\nあたしに詳しいってとこ、\n見せてくれ！！\n\n# voice 540201 \"hyoha_c_0005\"\n@ヒョウハ\nそれを証明するには\nクイズが一番だ！！\n行くぞ！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしの覚えるスキルを知ってるか？\n\n# se \"SE_0734\"\n# select \"樹令『紅蓮の灯』\" \"select_label_1\" \"樹令『紺碧の灯』\" \"select_label_2\" \"樹令『紫煙の灯』\" \"select_label_3\"\nあたしの覚えるスキルを知ってるか？\n"
+	},
+	{
+		"ID": 5795,
+		"unitID": 2402011,
+		"questionID": 9402029,
+		"script": ";;紅蓮の蒼印,3\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 540201 \"hyoha_c_0002\"\n@ヒョウハ\nなあ、師匠\nあたしと師匠って結構\n一緒にいるよな？\n\n# textflame 0 0\n@\nそうだね\nマスターが頷く\n\n# textflame 1 1\n@ヒョウハ\nじゃあ、それだけ\nあたしのことを知ってるって\nことだよな？\n\n@ヒョウハ\n師匠が\nあたしに詳しいってとこ、\n見せてくれ！！\n\n# voice 540201 \"hyoha_c_0005\"\n@ヒョウハ\nそれを証明するには\nクイズが一番だ！！\n行くぞ！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしの覚えるスキルを知ってるか？\n\n# se \"SE_0734\"\n# select \"紅蓮の押印\" \"select_label_1\" \"紅蓮の捺印\" \"select_label_2\" \"紅蓮の蒼印\" \"select_label_3\"\nあたしの覚えるスキルを知ってるか？\n"
+	},
+	{
+		"ID": 5796,
+		"unitID": 2402011,
+		"questionID": 9402030,
+		"script": ";;蒼の団結【紅蓮】,2\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 540201 \"hyoha_c_0002\"\n@ヒョウハ\nなあ、師匠\nあたしと師匠って結構\n一緒にいるよな？\n\n# textflame 0 0\n@\nそうだね\nマスターが頷く\n\n# textflame 1 1\n@ヒョウハ\nじゃあ、それだけ\nあたしのことを知ってるって\nことだよな？\n\n@ヒョウハ\n師匠が\nあたしに詳しいってとこ、\n見せてくれ！！\n\n# voice 540201 \"hyoha_c_0005\"\n@ヒョウハ\nそれを証明するには\nクイズが一番だ！！\n行くぞ！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしの覚えるスキルを知ってるか？\n\n# se \"SE_0734\"\n# select \"蒼の団結【愚鈍】\" \"select_label_1\" \"蒼の団結【紅蓮】\" \"select_label_2\" \"蒼の団結【馬簾】\" \"select_label_3\"\nあたしの覚えるスキルを知ってるか？\n"
+	},
+	{
+		"ID": 5797,
+		"unitID": 2402011,
+		"questionID": 9402031,
+		"script": ";;スコヴィル,1\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 540201 \"hyoha_c_0002\"\n@ヒョウハ\nあたしはヒョウハ\n\n@ヒョウハ\nそう、\n妖怪変化を射抜いた\n『兵破』の矢だ！\n\n@ヒョウハ\nでも、今日は的でもいいかも\n\n# textflame 0 0\n@\nどういうこと？\nマスターが尋ねる\n\n# textflame 1 1\n# face %(unit_a)s \"angry\"\n# voice 540201 \"hyoha_c_0001\"\n@ヒョウハ\n師匠！今からクイズを出すから、\nちゃんと正解して\nあたしの心を射抜いてみろ！！\n\n# textflame 0 0\n@\n相変わらず、あまりこちらの\n話を聞いてくれないヒョウハ\n仕方なくクイズを受けることにする\n\n# textflame 1 1\n@ヒョウハ\nじゃあ、行くぞぉぉぉ！！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしは辛いものが好きなんだけど\n辛さを表す単位って知ってるか？\n\n# se \"SE_0734\"\n# select \"スコヴィル\" \"select_label_1\" \"ビルマイル\" \"select_label_2\" \"カプサイシン\" \"select_label_3\"\nあたしは辛いものが好きなんだけど\n辛さを表す単位って知ってるか？\n"
+	},
+	{
+		"ID": 5798,
+		"unitID": 2402011,
+		"questionID": 9402032,
+		"script": ";;August,1\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 540201 \"hyoha_c_0002\"\n@ヒョウハ\nあたしはヒョウハ\n\n@ヒョウハ\nそう、\n妖怪変化を射抜いた\n『兵破』の矢だ！\n\n@ヒョウハ\nでも、今日は的でもいいかも\n\n# textflame 0 0\n@\nどういうこと？\nマスターが尋ねる\n\n# textflame 1 1\n# face %(unit_a)s \"angry\"\n# voice 540201 \"hyoha_c_0001\"\n@ヒョウハ\n師匠！今からクイズを出すから、\nちゃんと正解して\nあたしの心を射抜いてみろ！！\n\n# textflame 0 0\n@\n相変わらず、あまりこちらの\n話を聞いてくれないヒョウハ\n仕方なくクイズを受けることにする\n\n# textflame 1 1\n@ヒョウハ\nじゃあ、行くぞぉぉぉ！！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしの誕生月を\n英語で言うと…？\n\n# se \"SE_0734\"\n# select \"August\" \"select_label_1\" \"January\" \"select_label_2\" \"July\" \"select_label_3\"\nあたしの誕生月を\n英語で言うと…？\n"
+	},
+	{
+		"ID": 5799,
+		"unitID": 2402011,
+		"questionID": 9402033,
+		"script": ";;スイハ,2\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 540201 \"hyoha_c_0002\"\n@ヒョウハ\nあたしはヒョウハ\n\n@ヒョウハ\nそう、\n妖怪変化を射抜いた\n『兵破』の矢だ！\n\n@ヒョウハ\nでも、今日は的でもいいかも\n\n# textflame 0 0\n@\nどういうこと？\nマスターが尋ねる\n\n# textflame 1 1\n# face %(unit_a)s \"angry\"\n# voice 540201 \"hyoha_c_0001\"\n@ヒョウハ\n師匠！今からクイズを出すから、\nちゃんと正解して\nあたしの心を射抜いてみろ！！\n\n# textflame 0 0\n@\n相変わらず、あまりこちらの\n話を聞いてくれないヒョウハ\n仕方なくクイズを受けることにする\n\n# textflame 1 1\n@ヒョウハ\nじゃあ、行くぞぉぉぉ！！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしの誕生日は\n実はアイツと一緒なんだよな…\nアイツって誰だかわかるか？\n\n# se \"SE_0734\"\n# select \"エルキュール\" \"select_label_1\" \"スイハ\" \"select_label_2\" \"フライシュッツ\" \"select_label_3\"\nあたしの誕生日は\n実はアイツと一緒なんだよな…\nアイツって誰だかわかるか？\n"
+	},
+	{
+		"ID": 5800,
+		"unitID": 2402011,
+		"questionID": 9402034,
+		"script": ";;エルキュール,3\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 540201 \"hyoha_c_0002\"\n@ヒョウハ\nあたしはヒョウハ\n\n@ヒョウハ\nそう、\n妖怪変化を射抜いた\n『兵破』の矢だ！\n\n@ヒョウハ\nでも、今日は的でもいいかも\n\n# textflame 0 0\n@\nどういうこと？\nマスターが尋ねる\n\n# textflame 1 1\n# face %(unit_a)s \"angry\"\n# voice 540201 \"hyoha_c_0001\"\n@ヒョウハ\n師匠！今からクイズを出すから、\nちゃんと正解して\nあたしの心を射抜いてみろ！！\n\n# textflame 0 0\n@\n相変わらず、あまりこちらの\n話を聞いてくれないヒョウハ\n仕方なくクイズを受けることにする\n\n# textflame 1 1\n@ヒョウハ\nじゃあ、行くぞぉぉぉ！！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしと誕生月が同じなのは\n誰かわかるか？\n\n# se \"SE_0734\"\n# select \"フライシュッツ\" \"select_label_1\" \"ミネルヴァ\" \"select_label_2\" \"エルキュール\" \"select_label_3\"\nあたしと誕生月が同じなのは\n誰かわかるか？\n"
+	},
+	{
+		"ID": 5801,
+		"unitID": 2402011,
+		"questionID": 9402035,
+		"script": ";;Virgo,3\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 540201 \"hyoha_c_0002\"\n@ヒョウハ\nあたしはヒョウハ\n\n@ヒョウハ\nそう、\n妖怪変化を射抜いた\n『兵破』の矢だ！\n\n@ヒョウハ\nでも、今日は的でもいいかも\n\n# textflame 0 0\n@\nどういうこと？\nマスターが尋ねる\n\n# textflame 1 1\n# face %(unit_a)s \"angry\"\n# voice 540201 \"hyoha_c_0001\"\n@ヒョウハ\n師匠！今からクイズを出すから、\nちゃんと正解して\nあたしの心を射抜いてみろ！！\n\n# textflame 0 0\n@\n相変わらず、あまりこちらの\n話を聞いてくれないヒョウハ\n仕方なくクイズを受けることにする\n\n# textflame 1 1\n@ヒョウハ\nじゃあ、行くぞぉぉぉ！！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしの星座を英語で言うと？\n\n# se \"SE_0734\"\n# select \"Libra\" \"select_label_1\" \"Aquarius\" \"select_label_2\" \"Virgo\" \"select_label_3\"\nあたしの星座を英語で言うと？\n"
+	},
+	{
+		"ID": 5802,
+		"unitID": 2402011,
+		"questionID": 9402036,
+		"script": ";;スイハ,2\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 540201 \"hyoha_c_0002\"\n@ヒョウハ\nあたしはヒョウハ\n\n@ヒョウハ\nそう、\n妖怪変化を射抜いた\n『兵破』の矢だ！\n\n@ヒョウハ\nでも、今日は的でもいいかも\n\n# textflame 0 0\n@\nどういうこと？\nマスターが尋ねる\n\n# textflame 1 1\n# face %(unit_a)s \"angry\"\n# voice 540201 \"hyoha_c_0001\"\n@ヒョウハ\n師匠！今からクイズを出すから、\nちゃんと正解して\nあたしの心を射抜いてみろ！！\n\n# textflame 0 0\n@\n相変わらず、あまりこちらの\n話を聞いてくれないヒョウハ\n仕方なくクイズを受けることにする\n\n# textflame 1 1\n@ヒョウハ\nじゃあ、行くぞぉぉぉ！！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしはアイツに勝つ為に\nトレーニングしてるんだ！\nアイツって誰かわかるだろ？\n\n# se \"SE_0734\"\n# select \"ミネルヴァ\" \"select_label_1\" \"スイハ\" \"select_label_2\" \"フライシュッツ\" \"select_label_3\"\nあたしはアイツに勝つ為に\nトレーニングしてるんだ！\nアイツって誰かわかるだろ？\n"
+	},
+	{
+		"ID": 5803,
+		"unitID": 2402011,
+		"questionID": 9402037,
+		"script": ";;ニョイキンコボウ,3\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 540201 \"hyoha_c_0002\"\n@ヒョウハ\nあたしはヒョウハ\n\n@ヒョウハ\nそう、\n妖怪変化を射抜いた\n『兵破』の矢だ！\n\n@ヒョウハ\nでも、今日は的でもいいかも\n\n# textflame 0 0\n@\nどういうこと？\nマスターが尋ねる\n\n# textflame 1 1\n# face %(unit_a)s \"angry\"\n# voice 540201 \"hyoha_c_0001\"\n@ヒョウハ\n師匠！今からクイズを出すから、\nちゃんと正解して\nあたしの心を射抜いてみろ！！\n\n# textflame 0 0\n@\n相変わらず、あまりこちらの\n話を聞いてくれないヒョウハ\n仕方なくクイズを受けることにする\n\n# textflame 1 1\n@ヒョウハ\nじゃあ、行くぞぉぉぉ！！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしの尊敬するニョイ子さんって\n誰のことだかわかるか？\n\n# se \"SE_0734\"\n# select \"ニョイキンボウ\" \"select_label_1\" \"ニョイコボウ\" \"select_label_2\" \"ニョイキンコボウ\" \"select_label_3\"\nあたしの尊敬するニョイ子さんって\n誰のことだかわかるか？\n"
+	},
+	{
+		"ID": 5804,
+		"unitID": 2402011,
+		"questionID": 9402038,
+		"script": ";;オティヌス,3\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 540201 \"hyoha_c_0002\"\n@ヒョウハ\nあたしはヒョウハ\n\n@ヒョウハ\nそう、\n妖怪変化を射抜いた\n『兵破』の矢だ！\n\n@ヒョウハ\nでも、今日は的でもいいかも\n\n# textflame 0 0\n@\nどういうこと？\nマスターが尋ねる\n\n# textflame 1 1\n# face %(unit_a)s \"angry\"\n# voice 540201 \"hyoha_c_0001\"\n@ヒョウハ\n師匠！今からクイズを出すから、\nちゃんと正解して\nあたしの心を射抜いてみろ！！\n\n# textflame 0 0\n@\n相変わらず、あまりこちらの\n話を聞いてくれないヒョウハ\n仕方なくクイズを受けることにする\n\n# textflame 1 1\n@ヒョウハ\nじゃあ、行くぞぉぉぉ！！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしと同じ血液型なのは？\n\n# se \"SE_0734\"\n# select \"アポロン\" \"select_label_1\" \"ロンゴミアント\" \"select_label_2\" \"オティヌス\" \"select_label_3\"\nあたしと同じ血液型なのは？\n"
+	},
+	{
+		"ID": 5805,
+		"unitID": 2402011,
+		"questionID": 9402039,
+		"script": ";;パラシュ,1\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 540201 \"hyoha_c_0002\"\n@ヒョウハ\nあたしはヒョウハ\n\n@ヒョウハ\nそう、\n妖怪変化を射抜いた\n『兵破』の矢だ！\n\n@ヒョウハ\nでも、今日は的でもいいかも\n\n# textflame 0 0\n@\nどういうこと？\nマスターが尋ねる\n\n# textflame 1 1\n# face %(unit_a)s \"angry\"\n# voice 540201 \"hyoha_c_0001\"\n@ヒョウハ\n師匠！今からクイズを出すから、\nちゃんと正解して\nあたしの心を射抜いてみろ！！\n\n# textflame 0 0\n@\n相変わらず、あまりこちらの\n話を聞いてくれないヒョウハ\n仕方なくクイズを受けることにする\n\n# textflame 1 1\n@ヒョウハ\nじゃあ、行くぞぉぉぉ！！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしと違う血液型なのは\n誰かわかるか？\n\n# se \"SE_0734\"\n# select \"パラシュ\" \"select_label_1\" \"ダグダ\" \"select_label_2\" \"テュルソス\" \"select_label_3\"\nあたしと違う血液型なのは\n誰かわかるか？\n"
+	},
+	{
+		"ID": 5806,
+		"unitID": 2402011,
+		"questionID": 9402040,
+		"script": ";;フライシュッツ,3\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 540201 \"hyoha_c_0002\"\n@ヒョウハ\nあたしはヒョウハ\n\n@ヒョウハ\nそう、\n妖怪変化を射抜いた\n『兵破』の矢だ！\n\n@ヒョウハ\nでも、今日は的でもいいかも\n\n# textflame 0 0\n@\nどういうこと？\nマスターが尋ねる\n\n# textflame 1 1\n# face %(unit_a)s \"angry\"\n# voice 540201 \"hyoha_c_0001\"\n@ヒョウハ\n師匠！今からクイズを出すから、\nちゃんと正解して\nあたしの心を射抜いてみろ！！\n\n# textflame 0 0\n@\n相変わらず、あまりこちらの\n話を聞いてくれないヒョウハ\n仕方なくクイズを受けることにする\n\n# textflame 1 1\n@ヒョウハ\nじゃあ、行くぞぉぉぉ！！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしと違う誕生月なのは\n誰かわかるか？\n\n# se \"SE_0734\"\n# select \"エルキュール\" \"select_label_1\" \"スイハ\" \"select_label_2\" \"フライシュッツ\" \"select_label_3\"\nあたしと違う誕生月なのは\n誰かわかるか？\n"
+	},
+	{
+		"ID": 5807,
+		"unitID": 2402011,
+		"questionID": 9402041,
+		"script": "\n;;あたし,2\n# se \"SE_0734\"\n# select \"私\" \"select_label_1\" \"あたし\" \"select_label_2\" \"ヒョウハ\" \"select_label_3\"\nヒョウハの一人称は\n次のうちどれ？\n"
+	},
+	{
+		"ID": 5808,
+		"unitID": 2402011,
+		"questionID": 9402042,
+		"script": "\n;;師匠,1\n# se \"SE_0734\"\n# select \"師匠\" \"select_label_1\" \"マスター\" \"select_label_2\" \"親方\" \"select_label_3\"\nヒョウハはあなたのこと、\nなんて呼んでる？\n"
+	},
+	{
+		"ID": 5809,
+		"unitID": 2402011,
+		"questionID": 9402043,
+		"script": "\n;;88cm,3\n# se \"SE_0734\"\n# select \"86cm\" \"select_label_1\" \"87cm\" \"select_label_2\" \"88cm\" \"select_label_3\"\nヒョウハの\nバストサイズがどのくらいか\nあなたは知ってるの？\n"
+	},
+	{
+		"ID": 5810,
+		"unitID": 2402011,
+		"questionID": 9402044,
+		"script": "\n;;63cm,2\n# se \"SE_0734\"\n# select \"59cm\" \"select_label_1\" \"63cm\" \"select_label_2\" \"60cm\" \"select_label_3\"\nヒョウハの\nウエストサイズがどのくらいか\nあなたは知ってるの？\n"
+	},
+	{
+		"ID": 5811,
+		"unitID": 2402011,
+		"questionID": 9402045,
+		"script": "\n;;88cm,1\n# se \"SE_0734\"\n# select \"88cm\" \"select_label_1\" \"90cm\" \"select_label_2\" \"89cm\" \"select_label_3\"\nヒョウハの\nヒップサイズがどのくらいか\nあなたは知ってるの？\n"
+	},
+	{
+		"ID": 5812,
+		"unitID": 2402011,
+		"questionID": 9402046,
+		"script": "\n;;56㎏,3\n# se \"SE_0734\"\n# select \"50kg\" \"select_label_1\" \"52kg\" \"select_label_2\" \"56㎏\" \"select_label_3\"\nヒョウハの体重は\n次のうちどれ？\n"
+	},
+	{
+		"ID": 5813,
+		"unitID": 2402011,
+		"questionID": 9402047,
+		"script": "\n;;239,1\n# se \"SE_0734\"\n# select \"239\" \"select_label_1\" \"237\" \"select_label_2\" \"238\" \"select_label_3\"\nヒョウハの\nバスト＋ウエスト＋ヒップは\nいくつかわかる？\n"
+	},
+	{
+		"ID": 5814,
+		"unitID": 2402011,
+		"questionID": 9402048,
+		"script": "\n;;黒色,1\n# se \"SE_0734\"\n# select \"黒色\" \"select_label_1\" \"黄緑色\" \"select_label_2\" \"ゴールド\" \"select_label_3\"\nヒョウハの髪の色は\n次のうちどれ？\n"
+	},
+	{
+		"ID": 5815,
+		"unitID": 2402011,
+		"questionID": 9402049,
+		"script": "\n;;参加してない,3\n# se \"SE_0734\"\n# select \"４位\" \"select_label_1\" \"８位\" \"select_label_2\" \"参加してない\" \"select_label_3\"\nヒョウハは\n第5回人気投票で\n何位だったでしょう？\n"
+	},
+	{
+		"ID": 5816,
+		"unitID": 2402011,
+		"questionID": 9402050,
+		"script": "\n;;⾓元明⽇⾹,1\n# se \"SE_0734\"\n# select \"⾓元明⽇⾹\" \"select_label_1\" \"大久保瑠美\" \"select_label_2\" \"伊瀬茉莉也\" \"select_label_3\"\nヒョウハの声優は誰？\n"
+	}
+]

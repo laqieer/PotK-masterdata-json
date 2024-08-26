@@ -1,0 +1,50 @@
+[
+	{
+		"ID": 1,
+		"category_BattleFieldEffectCategory": 1,
+		"cancelable": 0,
+		"animation_controller_name": "",
+		"prefab_name": "field_boss_op/filed_boss_op_0000",
+		"effect_prefab_name1": "ef001_stup_pow_red",
+		"effect_prefab_name2": "ef014_power_down",
+		"effect_prefab_name3": "ef024_heal_l",
+		"is_unmask": 0,
+		"is_view_back": 1
+	},
+	{
+		"ID": 2,
+		"category_BattleFieldEffectCategory": 2,
+		"cancelable": 0,
+		"animation_controller_name": "",
+		"prefab_name": "pvp_battle/pvp_change_enemy",
+		"effect_prefab_name1": "",
+		"effect_prefab_name2": "",
+		"effect_prefab_name3": "",
+		"is_unmask": 0,
+		"is_view_back": 0
+	},
+	{
+		"ID": 3,
+		"category_BattleFieldEffectCategory": 2,
+		"cancelable": 0,
+		"animation_controller_name": "",
+		"prefab_name": "pvp_battle/pvp_change_player",
+		"effect_prefab_name1": "",
+		"effect_prefab_name2": "",
+		"effect_prefab_name3": "",
+		"is_unmask": 0,
+		"is_view_back": 0
+	},
+	{
+		"ID": 4,
+		"category_BattleFieldEffectCategory": 2,
+		"cancelable": 0,
+		"animation_controller_name": "",
+		"prefab_name": "pvp_battle/dir_TurnStart",
+		"effect_prefab_name1": "",
+		"effect_prefab_name2": "",
+		"effect_prefab_name3": "",
+		"is_unmask": 0,
+		"is_view_back": 0
+	}
+]

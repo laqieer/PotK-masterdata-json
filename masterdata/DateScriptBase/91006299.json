@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 91006299,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# voice 1006 \"nageruring_0041\"\n# se \"SE_0732\"\n@ナーゲルリング\nやったー！\n正解です、マスター！\n\n@ナーゲルリング\n私のことをちゃんと\n知ってくれているのですね…\n\n# voice 1006 \"nageruring_0030\"\n@ナーゲルリング\nありがとうございます♪\n\n# face %(unit_a)s \"sad\"\n@ナーゲルリング\nクイズを出すの\n本当はすごく不安でした…\n\n# face %(unit_a)s \"smile\"\n@ナーゲルリング\nでも…良かったです！\nマスターが正解してくれて…\n\n# voice 1006 \"nageruring_0004\"\n@ナーゲルリング\n私…今、\nすごく嬉しい気持ちで\nいっぱいです！\n\n# textflame 0 0\n@\n顔をくしゃっとさせて\n喜ぶ彼女を見て、\nこちらまで嬉しくなる…\n\n@\nマスターは彼女との絆が\nまた深まったのを実感した…\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

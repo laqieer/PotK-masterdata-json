@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 2301821,
+		"script": ";;A中\n;;B大\n;;C小\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_onsen\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# face %(unit_a)s \"usual\"\n# textflame 0 0\n@\nフォルカスとのデート後…\n日頃の疲れを癒やそうと\n温泉を訪れることにした\n\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 530181 \"forcas_c_0004\"\n@フォルカス\n温泉はいいものですね\nマスター…\n\n@フォルカス\n身体も心も清められて\nいくかのような気持ちです…\n\n@フォルカス\nこれで明日からも\n存分に働けますね\n\n@フォルカス\n今日はここに来ることが\n出来て本当に良かったです\n\n# voice 530181 \"forcas_c_0001\"\n@フォルカス\nマスターが元気でいることが\n私にとっての幸せですから\n\n@フォルカス\nはぁ…暖かい…\n\n# voice 530181 \"forcas_c_0004\"\n@フォルカス\n気持ちがよくて\nつい眠くなってしまいますね\n\n# select \"ここで寝たら危ない\" \"select_label_01\" \"寝ても構わない\" \"select_label_02\" \"そろそろ上がろうか\" \"select_label_03\"\n気持ちがよくて\nつい眠くなってしまいますね\n\n# label \"select_label_01\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_02\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_03\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# textflame 1 1\n# waitandnext 0.1\n\n# label \"select_label_end\"\n# waitandnext 2\n# fadeout \"black\" 1.2\n"
+	}
+]

@@ -1,0 +1,135 @@
+[
+	{
+		"ID": 1,
+		"rule_no": 1,
+		"value_type_GvgRuleType": 2,
+		"value_operator_GvgRuleOperator": 2,
+		"value": "59"
+	},
+	{
+		"ID": 2,
+		"rule_no": 2,
+		"value_type_GvgRuleType": 3,
+		"value_operator_GvgRuleOperator": 1,
+		"value": "490000019,490000021"
+	},
+	{
+		"ID": 3,
+		"rule_no": 3,
+		"value_type_GvgRuleType": 1,
+		"value_operator_GvgRuleOperator": 1,
+		"value": "5,6"
+	},
+	{
+		"ID": 4,
+		"rule_no": 4,
+		"value_type_GvgRuleType": 3,
+		"value_operator_GvgRuleOperator": 1,
+		"value": "490000010,490000015"
+	},
+	{
+		"ID": 5,
+		"rule_no": 5,
+		"value_type_GvgRuleType": 2,
+		"value_operator_GvgRuleOperator": 2,
+		"value": "59"
+	},
+	{
+		"ID": 6,
+		"rule_no": 5,
+		"value_type_GvgRuleType": 1,
+		"value_operator_GvgRuleOperator": 1,
+		"value": "1,2,3,4,6,8"
+	},
+	{
+		"ID": 7,
+		"rule_no": 6,
+		"value_type_GvgRuleType": 1,
+		"value_operator_GvgRuleOperator": 1,
+		"value": "2,3,4,5,6,8"
+	},
+	{
+		"ID": 8,
+		"rule_no": 6,
+		"value_type_GvgRuleType": 3,
+		"value_operator_GvgRuleOperator": 1,
+		"value": "490000010,490000015,490000021,490000013,490000017"
+	},
+	{
+		"ID": 9,
+		"rule_no": 7,
+		"value_type_GvgRuleType": 3,
+		"value_operator_GvgRuleOperator": 1,
+		"value": "490000015,490000019,490000021"
+	},
+	{
+		"ID": 10,
+		"rule_no": 9,
+		"value_type_GvgRuleType": 2,
+		"value_operator_GvgRuleOperator": 4,
+		"value": "51"
+	},
+	{
+		"ID": 11,
+		"rule_no": 9,
+		"value_type_GvgRuleType": 3,
+		"value_operator_GvgRuleOperator": 1,
+		"value": "490000010,490000015,490000017,490000019"
+	},
+	{
+		"ID": 12,
+		"rule_no": 8,
+		"value_type_GvgRuleType": 1,
+		"value_operator_GvgRuleOperator": 1,
+		"value": "3,4"
+	},
+	{
+		"ID": 13,
+		"rule_no": 10,
+		"value_type_GvgRuleType": 1,
+		"value_operator_GvgRuleOperator": 1,
+		"value": "1,2,3,4,6,8"
+	},
+	{
+		"ID": 14,
+		"rule_no": 10,
+		"value_type_GvgRuleType": 3,
+		"value_operator_GvgRuleOperator": 1,
+		"value": "490000010,490000015,490000021,490000019,490000017"
+	},
+	{
+		"ID": 15,
+		"rule_no": 11,
+		"value_type_GvgRuleType": 1,
+		"value_operator_GvgRuleOperator": 1,
+		"value": "2,3,4,5,6,8"
+	},
+	{
+		"ID": 16,
+		"rule_no": 12,
+		"value_type_GvgRuleType": 3,
+		"value_operator_GvgRuleOperator": 1,
+		"value": "490000010,490000021,490000017"
+	},
+	{
+		"ID": 17,
+		"rule_no": 13,
+		"value_type_GvgRuleType": 1,
+		"value_operator_GvgRuleOperator": 1,
+		"value": "5,6,8"
+	},
+	{
+		"ID": 18,
+		"rule_no": 14,
+		"value_type_GvgRuleType": 3,
+		"value_operator_GvgRuleOperator": 1,
+		"value": "490000019,490000021,490000017"
+	},
+	{
+		"ID": 19,
+		"rule_no": 15,
+		"value_type_GvgRuleType": 3,
+		"value_operator_GvgRuleOperator": 1,
+		"value": "490000010,490000015,490000019,490000021,490000017"
+	}
+]

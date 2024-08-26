@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 96017398,
+		"script": ";;//不正解\n# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body 2601711\n# pos 2601711 3\n# mask 2601711 off\n# chara 2601711\n# fadein \"black\" 0.5\n# textflame 1 1\n# face 2601711 \"angry\"\n# se \"SE_0733\"\n@アクア\nちょっと！ハズレよ！\n\n# face 2601711 \"sad\"\n@アクア\nはぁ…この世界には\nまだまだ私の威光が\n届いてないのかしら…\n\n;;モノローグ\n# textflame 0 0\n@\nアクアはがっくりと\nうなだれている\n\n# textflame 1 1\n@アクア\nいいわ…あなたが\n悪いわけじゃないの\n\n;;モノローグ\n# textflame 0 0\n@\nアクアは落ち込んでしまった\nさっきまで流れていた楽しい空気は\n一気に冷え切ってしまった\n\n;;モノローグ\n@\nこんなことにならないよう\n次は彼女の質問に\n答えられるようにしておかなければ…\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 201914,
+		"script": ";;B　新しく注文する？\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_cafe\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 2019 \"chihyu_0022\"\n@シユウ\nせんりゃくてきてったいか！？\n\n# textflame 1 1\n@シユウ\nううーんでもなー\nもったいないおばけが\nこーひーすてたらでるし…\n\n# textflame 0 0\n@\n代わりに飲んであげると言うと\n我慢していたのかシユウは喜んで\n珈琲をこちらへと渡した\n\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n@シユウ\nやっぱりむりはよくないな…\n\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# voice 2019 \"chihyu_0005\"\n@シユウ\nすみません！\nおれんじじゅーすを！\n\n# textflame 0 0\n@\n甘く騒がしいひと時を\nカフェで過ごした…\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

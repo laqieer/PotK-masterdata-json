@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 94017498,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# se \"SE_0733\"\n# face %(unit_a)s \"sad\"\n# voice 4017 \"suiha_0022\"\n@スイハ\nえ…あ…不正解です\n（そんな…当ててもらえなかった…\nどうしよう…）\n\n@スイハ\n…………\n（当ててくれると思ってたから、\n次に何て言うか考えてないよ…）\n\n# voice 4017 \"suiha_0031\"\n@スイハ\n…急に聞いてすみませんでした\n（うぅ…こんな時でも\n対応できるようにしなきゃ）\n\n@スイハ\n…行きましょうか\n（マスターに私のこと知って\nもらえるよう頑張らないと！）\n\n# textflame 0 0\n@\nスイハは帰り道を早足で進んでいく\n\n@\n自然と開いていく距離感に\n次は必ず正解しようという気持ちが\n強くなっていった\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

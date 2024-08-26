@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 503113,
+		"script": ";;中Bそんなに楽しみだった？\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_ferris\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# face %(unit_a)s \"normal\"\n# voice 250311 \"solomon_t_0022\"\n# textflame 1 1\n@ソロモン\nえっ！？\nえ、ええ…\n\n@ソロモン\nだって、せっかく貴方と\n二人きりでいられるから…\n一秒も無駄にしたくなくて\n\n@ソロモン\nそれに、マスターには\n最大限楽しんで\nほしかったから…\n\n@ソロモン\nえっ？\nま、マスターも\n計画を立ててたの…！？\n\n# voice 250311 \"solomon_t_0005\"\n# face %(unit_a)s \"happy\"\n@ソロモン\nそれってつまり、マスターも…\nふふっ…！\n\n# face %(unit_a)s \"normal\"\n# voice 250311 \"solomon_t_0001\"\n@ソロモン\nマスター…その計画、\n私に教えてくれないかしら？\n\n@ソロモン\n貴方の考える最適解を\n私も知っておきたいわ\n\n@ソロモン\n私の解と、貴方の解\nこうしてお互いの最適解を\n合わせることで…\n\n@ソロモン\n私と貴方はもっと、\n極限まで近づくことが\nできる気がする\n\n# voice 250311 \"solomon_t_0002\"\n@ソロモン\n私…これからも\n貴方のすぐ側に\nいつづけたいと思うの\n\n# face %(unit_a)s \"happy\"\n# voice 250311 \"solomon_t_0005\"\n@ソロモン\nどうかよろしく、マスター\n\n# textflame 0 0\n@\nそれから二人は、\nお互いの考えた\nデートプランを教えあい\n\n@\n二人にとっての最適解を\n共に探し求めるのだった…\n\n;;-----------------------------------------\n# waitandnext 2\n# fadeout \"black\" 1.2\n"
+	}
+]

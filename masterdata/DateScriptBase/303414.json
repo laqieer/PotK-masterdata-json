@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 303414,
+		"script": ";;B\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_park_evening\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 530341 \"grandepieu_di_0005\"\n@グランテピエ\nあはは、お疲れ様\nいっぱい遊んでくれてたものね\n\n@グランテピエ\nそこのベンチで\nしばらく休んでいこう\n\n# voice 530341 \"grandepieu_di_0002\"\n@グランテピエ\nそうだ…\n私が君のことを\n癒してあげようか？\n\n@グランテピエ\n膝枕、好きでしょう？\nやってあげる\n\n# face %(unit_a)s \"usual\"\n# voice 530341 \"grandepieu_di_0004\"\n@グランテピエ\nふふ、大丈夫だよ\n恥ずかしがらなくても\n\n@グランテピエ\n私達以外には\nもう誰もいないから…ね？\n\n@グランテピエ\nさぁ、おいで？\nふふふ…♪\n\n# textflame 0 0\n@\nグランテピエの声に\n誘われるまま、\nマスターはベンチへ向かう\n\n@\n結局いつもの調子になったが、\nそれも悪くないと感じる\nマスターなのだった\n;;-----------------------------------------\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

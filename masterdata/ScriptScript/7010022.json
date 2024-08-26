@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 7010022,
+		"script": ";;-------------------------------------\n;;塔シナリオ　ラファエル　遭遇\n;;-------------------------------------\n# script \"lisp\"\n# body 960031\n# pos 960031 3\n# mask 960031 off\n;;◆背景はそのまま-----------------------------------------------\n# textflame 1 1\n# textboxarrow 0 2\n# voice 9975 \"raphael_0001\"\n# chara 960031\n@ラファエル\n人間よ…\nアナタ方が私に出会うまで\nいくつもの障害があったことでしょう\n\n# textflame 1 1\n# textboxarrow 0 2\n# chara 960031\n@ラファエル\nにも関わらず、\nアナタ方は天へと向かい続ける…\n\n# textflame 1 1\n# textboxarrow 0 2\n# chara 960031\n@ラファエル\nその執着心は\nどこから生まれるのですか？\n\n# textflame 1 1\n# textboxarrow 0 2\n# chara 960031\n@ラファエル\nその行動の先には\n“消滅”という道しか\n残されていないというのに…\n\n# textflame 1 1\n# textboxarrow 0 2\n# voice 9975 \"raphael_0004\"\n# face 960031 \"surprise\"\n# chara 960031\n@ラファエル\nまったく、\n人間は本当におもしろい生き物です\n\n# textflame 1 1\n# textboxarrow 0 2\n# face 960031 \"normal\"\n# chara 960031\n@ラファエル\nよろしい\nこのラファエルが\n道を正してあげましょう\n\n# textflame 1 1\n# textboxarrow 0 2\n# voice 9975 \"raphael_0032\"\n# chara 960031\n@ラファエル\n…世に在るものはすべて\n破壊と創造を繰り返すもの\n\n# textflame 1 1\n# textboxarrow 0 2\n# chara 960031\n@ラファエル\nご安心を。アナタ方が滅びたところで\n世界にはなに一つ影響などありません\n\n# textflame 1 1\n# textboxarrow 0 2\n# chara 960031\n@ラファエル\n仮に影響があったとしても、\nまた新たな体系はすぐに築かれます\n\n# textflame 1 1\n# textboxarrow 0 2\n# voice 9975 \"raphael_0041\"\n# chara 960031\n@ラファエル\nさぁ、人の子よ\n悔い改めなさい"
+	}
+]

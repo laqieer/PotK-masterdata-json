@@ -1,0 +1,22 @@
+[
+	{
+		"ID": 1,
+		"name": "クエスト/バトル",
+		"priority": 10
+	},
+	{
+		"ID": 2,
+		"name": "ユニット",
+		"priority": 20
+	},
+	{
+		"ID": 3,
+		"name": "武具",
+		"priority": 30
+	},
+	{
+		"ID": 4,
+		"name": "その他",
+		"priority": 40
+	}
+]

@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 3400100,
+		"script": "# script \"lisp\"\n# background \"halloween\"\n# bgmfile \"bgm069\" \"BgmHalloween001\" 0\n# se \"SE_0607\"\n# body 500841\n# pos 500841 1\n# scale 500841 0.8 0\n# face 500841 \"happy\"\n# body 600231\n# pos 600231 3\n# scale 600231 0.8 0\n# face 600231 \"smile\"\n# body 200151\n# pos 200151 5\n# scale 200151 0.8 0\n# face 200151 \"happy\"\n# layer 500841 1\n# layer 600231 3\n# layer 200151 2\n# textsize 34\n# textflame 0 0\n# voice 2001 \"myuruniru_0006\"\n@\n　 ハッピーハロウィン！\n  ついに彼女達が★6解放！\n\n# textflame 0 0\n# textsize 27\n@\n　　　　 そして今年…\n仮装パーティーに参加したのは…\n\n# textflame 0 0\n# textsize 33\n# se \"SE_0673\"\n# fadein \"white\" 0.5\n# alpha 500841 0 0\n# alpha 600231 0 0\n# alpha 200151 0 0\n# body 201951\n# pos 201951 4\n# scale 201951 0.8 0\n# body 301411\n# pos 301411 2\n# scale 301411 0.8 0\n# layer 301411 4\n# layer 201951 5\n# voice 2019 \"chihyu_event_0010\"\n@\n   シユウとイシューリエル！\n\n# voicedelay 3014 \"ithuriel_event_0010\" 0.2\n# textflame 0 0\n@\n　期間限定ユニットとして\n　　  ガチャで登場中！\n\n# se \"SE_0602\"\n# face 201951 \"surprise\"\n# face 301411 \"surprise\"\n# textflame 0 0\n# textsize 30\n@\n★6ハロウィンユニットは全員\n光属性に有利になるスキル持ち！\n\n# face 201951 \"happy\"\n# face 301411 \"happy\"\n# voice 2019 \"chihyu_0042\"\n# voice 3014 \"ithuriel_0020\"\n# textflame 0 0\n# textsize 33\n@\n　　 遊んでくれないと\n　  イタズラしちゃうぞ！\n"
+	}
+]

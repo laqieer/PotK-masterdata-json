@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 295032199,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# se \"SE_0732\"\n# textflame 1 1\n# face %(unit_a)s \"happy\"\n@ティファレト\n主様、その答え…\n\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 550321 \"tiphereth_ca_0004\"\n@ティファレト\n正解です\n\n# textflame 1 1\n# voice 550321 \"tiphereth_ca_0006\"\n@ティファレト\nふふ、とても嬉しいです\n\n# textflame 1 1\n# eye %(unit_a)s \"close\"\n# voice 550321 \"tiphereth_ca_0005\"\n@ティファレト\nあぁ…時間が止まって、\nこのままずっと２人で\n太陽を見ていられたらいいのに\n\n# textflame 0 0\n@\n微笑む彼女\n\n# textflame 0 0\n@\n夏の太陽の下、２人の距離は\nぐっと近づいたのだった…\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 502514,
+		"script": ";;C小-------------------\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_castle\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# face %(unit_a)s \"worry\"\n# voice 5025 \"megumin_0026\"\n@めぐみん\nじ、実は、城を\n爆裂魔法の的に\nしたことがありまして\n\n;;モノローグ\n# textflame 0 0\n@\nその話聞きたいな、\nとマスター\n\n# textflame 1 1\n@めぐみん\n本当ですか！？\n聞かせましょう！\n聞かせましょうとも！\n\n# textsize 22\n@めぐみん\nその城は随分古く\n私の推理によれば\n誰も住んでいないはずだったのですが\n\n# textsize 24\n@めぐみん\n実は！とある大物賞金首が……\n\n;;モノローグ\n# textflame 0 0\n@\nお城の見物という\n当初の目的からそれたものの\n楽しい冒険譚に花が咲いた\n\n# waitandnext 2\n# fadeout \"black\" 1.2\n"
+	}
+]

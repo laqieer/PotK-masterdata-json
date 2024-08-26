@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 500425,
+		"script": ";;なれると思うよ,小\n;;すでになっている,中\n;;忘れられるのは嫌？,大\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_fireworks\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# face %(unit_a)s \"usual\"\n# textflame 0 0\n@\nマスターとブラフマーストラは\n花火大会に足を運んだ\n\n# voice 5004 \"burafumasutora_0039\"\n# textflame 1 1\n@ブラフマーストラ\nおお～、これはいいね～\nこういう華やかなのは\nアタシ好み！\n\n# textflame 0 0\n@\n夜空を彩る鮮やかな閃光に\nブラフマーストラの視線は\n釘付けになっていた\n;;----------------------------------------\n\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@%(unitName:unit_a)s\nアタシもあんな花火みたいに\nいつまでも記憶に残る\n存在になりたいね～\n\n# textflame 0 0\n@\nなれると思うよ\n\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 5004 \"burafumasutora_0028\"\n@ブラフマーストラ\n本当にそう思う？\n\n# textflame 0 0\n@\n強くて、綺麗で、面倒見がよくて…\nと、彼女の長所を並べていく\n\n# voice 5004 \"burafumasutora_0008\"\n# face %(unit_a)s \"angry\"\n# textflame 1 1\n@ブラフマーストラ\nそ、そんな褒めないでよ\n\n# voice 5004 \"burafumasutora_0005\"\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n@ブラフマーストラ\nま、事実だけどね\nあははっ\n\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@ブラフマーストラ\nでも、そっかアンタにも\nそういう風に見えてたんだ～\nよかった～\n\n# textflame 0 0\n@\nその後、やたらと機嫌のいい\nブラフマーストラと\n花火見物を続けたのだった\n;;----------------------------------------\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

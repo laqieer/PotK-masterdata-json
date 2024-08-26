@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 241610431,
+		"script": ";;-----------------------------------------\n;;終焉サイドOP_3_1\n;;-----------------------------------------\n# script \"lisp\"\n# background \"bg_black\"\n# bgmfile \"bgm473_block\" \"BgmIntegralNoahEvent009\" 0\n;;-----------------------------------------\n# textwindow \"close\"\n# fadein \"black\" 1\n# waitandnext 1.5\n\n# textflame 1 1\n# textwindow \"nomal\"\n# textboxarrow 0 0\n@グレイプニル\n主様の下であれば、\n夢も現になる日がくることでしょうね\n\n@ギャラルホルン\nあっ…\n\n@フリズスキャールヴ\n…そなたは相も変わらず\n無粋じゃのう\n\n# textflame 0 0\n@\n夢のように鮮やかだった\n景色は闇のような黒へと染まる\n\n# textflame 0 0\n@\n真っ暗な世界に隠された\n神々が消すことのできなかった\n３つの火\n\n# textflame 0 0\n@\nその火の揺らめきは\n夢を見ていた\n\n# textflame 0 0\n@\nこれは夢だから\n幾度となく繰り返される『もしも』\n\n# textflame 0 0\n@\nでも、それだけならば\n『始まり』を思い出すこともなかった\n\n# textflame 0 0\n@\n淡く儚く\n優しくて残酷な夢を\n見続けるだけだったはずなのに\n\n# textflame 1 1\n# textboxarrow 0 0\n@ギャラルホルン\nギャラルは捨てられた\n\n@フリズスキャールヴ\nわらわはここに追いやられた\n\n@グレイプニル\n私の救いの手は届くことがなかった\n\n# textflame 0 0\n@\nここは『ユグドラシル』\n\n# textflame 0 0\n@\n力を持ってしまった\n彼女達を封印するには\nこの場所の力が必要だった\n\n# textflame 0 0\n@\nここは『ユグドラシル』\n\n# textflame 0 0\n@\n世界と繋がる場所\n\n# textflame 0 0\n@\nだから彼女達には\n世界の悲しみが、嘆きが\nすべて見えて、聞こえていた\n\n# textflame 0 0\n@\nいつの間にか\n真っ暗になっていたこの場所で…\n\n# fadeout \"black\" 0.5\n# waitandnext 0.5"
+	}
+]

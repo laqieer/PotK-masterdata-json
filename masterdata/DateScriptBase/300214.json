@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 300214,
+		"script": "# script \"lisp\"\n# fadein \"black\" 0.5\n# background %(background)s\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# face %(unit_a)s \"angry\"\n# textflame 1 1\n# voice 3002 \"toraidento_0013\"\n@トライデント\nふたりっきりでデートに来て\n最初の感想がそれ～っ！？\n\n# face %(unit_a)s \"normal\"\n# textflame 1 1\n@トライデント\nあ、でも気持ちはわかるよ\nあそこで泳いでるのとか\n脂が乗ってそうだよねっ\n\n# textflame 1 1\n@トライデント\nあっちのは海で見かけても\n狩るのは大変かな？\n\n# textflame 1 1\n@トライデント\nおっきーい！\nあれは確実に捕食者の顔だね！\nマスター、食べられちゃうかも？\n\n# textflame 0 0\n@\n話題は色気から遠く離れて\n戻ることはなく…\n\n# textflame 0 0\n@\nトライデントとふたり\n終始、海産物の話で盛り上がった…\n;;--------------------------------------\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

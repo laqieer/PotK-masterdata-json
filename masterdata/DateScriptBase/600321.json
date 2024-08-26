@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 600321,
+		"script": ";;A よし、もう一杯！(中)\n;;B もう無理…（小）\n;;C 朝まで飲むぞ！（大）\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_onsen\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 0 0\n@\n夜、テュルソスを誘い\n温泉へとやってきたが…\n\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# voice 6003 \"tyurusosu_0021\"\n@テュルソス\nん～♪美味しい～\n\n# face %(unit_a)s \"usual\"\n@テュルソス\nほらほら、君ももっと飲んで！\n注いであげる！\n\n# face %(unit_a)s \"smile\"\n# voice 6003 \"tyurusosu_0004\"\n@テュルソス\nやっぱり温泉で飲む\nお酒は最高だよね♪\n\n@テュルソス\nワインにビールに\nカクテル…\n\n@テュルソス\nぜーんぶ頼んじゃったから\nまだまだあるよ！\n\n# select \"よし、もう一杯！\" \"select_label_01\" \"もう無理…\" \"select_label_02\" \"朝まで飲むぞ！\" \"select_label_03\"\nぜーんぶ頼んじゃったから\nまだまだあるよ！\n\n# label \"select_label_01\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_02\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_03\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_end\"\n# waitandnext 0.1\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

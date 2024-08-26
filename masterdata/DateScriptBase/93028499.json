@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 93028499,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# se \"SE_0732\"\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n;;-----------------------------------------\n@ヘレナ\n………先輩\n\n# voice 3028 \"herena_a_0003\"\n@ヘレナ\n正解だ\n\n@ヘレナ\nへ～\n\n@ヘレナ\nヘレナのこと、\nよく観察してるな\n\n@ヘレナ\nでも、ヘレナも…\n\n@ヘレナ\nいつも先輩のこと、\n観察してるんだ\n\n# face %(unit_a)s \"happy\"\n# voice 3028 \"herena_a_0004\"\n@ヘレナ\n気づいてたかい？くふっ\n\n# textflame 0 0\n@\nと、悪戯っぽく笑う彼女\n\n# textflame 0 0\n@\nその言葉が\n本当か嘘か観察しようと、\n彼女の瞳を覗き込んだが…\n\n# voice 3028 \"herena_a_0005\"\n# textflame 1 1\n@ヘレナ\nふふふっ、\n先輩はヘレナに釘付けだな\nなんてね♪\n\n# textflame 0 0\n@\n嬉しそうに歩いていく彼女\nマスターは彼女と距離がぐっと\n縮まったことを実感していた\n\n;;-----------------------------------------\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

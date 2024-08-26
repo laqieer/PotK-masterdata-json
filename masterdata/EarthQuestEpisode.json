@@ -1,0 +1,732 @@
+[
+	{
+		"ID": 1,
+		"chapter_EarthQuestChapter": 1,
+		"episode": "",
+		"episode_name": "イミテーション",
+		"stage_index": 0,
+		"stage_BattleStage": 111205010,
+		"background_name": "underwild",
+		"script": 0
+	},
+	{
+		"ID": 2,
+		"chapter_EarthQuestChapter": 1,
+		"episode": "",
+		"episode_name": "召し上げられた神器",
+		"stage_index": 1,
+		"stage_BattleStage": 111205011,
+		"background_name": "underwild",
+		"script": 0
+	},
+	{
+		"ID": 3,
+		"chapter_EarthQuestChapter": 1,
+		"episode": "",
+		"episode_name": "天上世界への道",
+		"stage_index": 2,
+		"stage_BattleStage": 111205012,
+		"background_name": "underwild",
+		"script": 0
+	},
+	{
+		"ID": 4,
+		"chapter_EarthQuestChapter": 1,
+		"episode": "",
+		"episode_name": "七魔王",
+		"stage_index": 3,
+		"stage_BattleStage": 111205013,
+		"background_name": "underwild",
+		"script": 0
+	},
+	{
+		"ID": 5,
+		"chapter_EarthQuestChapter": 2,
+		"episode": "",
+		"episode_name": "第1話 マスターの適合者",
+		"stage_index": 4,
+		"stage_BattleStage": 110001001,
+		"background_name": "collapsecity",
+		"script": 901010001
+	},
+	{
+		"ID": 6,
+		"chapter_EarthQuestChapter": 2,
+		"episode": "",
+		"episode_name": "第2話 少女、アスカ",
+		"stage_index": 5,
+		"stage_BattleStage": 110001002,
+		"background_name": "collapsecity",
+		"script": 901020001
+	},
+	{
+		"ID": 7,
+		"chapter_EarthQuestChapter": 2,
+		"episode": "",
+		"episode_name": "第3話 蹂躙される人々",
+		"stage_index": 6,
+		"stage_BattleStage": 110001003,
+		"background_name": "collapsecity",
+		"script": 901030001
+	},
+	{
+		"ID": 8,
+		"chapter_EarthQuestChapter": 2,
+		"episode": "",
+		"episode_name": "第4話 孤高のキラーメイル",
+		"stage_index": 7,
+		"stage_BattleStage": 110001004,
+		"background_name": "suburbs",
+		"script": 901040001
+	},
+	{
+		"ID": 9,
+		"chapter_EarthQuestChapter": 2,
+		"episode": "",
+		"episode_name": "第5話 夢の国",
+		"stage_index": 8,
+		"stage_BattleStage": 110001005,
+		"background_name": "greencity",
+		"script": 901050001
+	},
+	{
+		"ID": 10,
+		"chapter_EarthQuestChapter": 2,
+		"episode": "",
+		"episode_name": "第6話 予期せぬ援軍",
+		"stage_index": 9,
+		"stage_BattleStage": 110001006,
+		"background_name": "greencity",
+		"script": 901060001
+	},
+	{
+		"ID": 11,
+		"chapter_EarthQuestChapter": 2,
+		"episode": "",
+		"episode_name": "第7話 魔壁の構造",
+		"stage_index": 10,
+		"stage_BattleStage": 110001007,
+		"background_name": "greencity",
+		"script": 901070001
+	},
+	{
+		"ID": 12,
+		"chapter_EarthQuestChapter": 2,
+		"episode": "",
+		"episode_name": "第8話 ダグダ、激昂",
+		"stage_index": 11,
+		"stage_BattleStage": 110001008,
+		"background_name": "suburbs",
+		"script": 901080001
+	},
+	{
+		"ID": 13,
+		"chapter_EarthQuestChapter": 2,
+		"episode": "",
+		"episode_name": "第9話 魔獣化、そして暴走",
+		"stage_index": 12,
+		"stage_BattleStage": 110001009,
+		"background_name": "suburbs",
+		"script": 901090001
+	},
+	{
+		"ID": 14,
+		"chapter_EarthQuestChapter": 3,
+		"episode": "",
+		"episode_name": "第1話 畏怖の矛先",
+		"stage_index": 13,
+		"stage_BattleStage": 110002001,
+		"background_name": "collapsecity",
+		"script": 902010001
+	},
+	{
+		"ID": 15,
+		"chapter_EarthQuestChapter": 3,
+		"episode": "",
+		"episode_name": "第2話 悪魔の夢",
+		"stage_index": 14,
+		"stage_BattleStage": 110002002,
+		"background_name": "collapsecity",
+		"script": 902020001
+	},
+	{
+		"ID": 16,
+		"chapter_EarthQuestChapter": 3,
+		"episode": "",
+		"episode_name": "第3話 抗う同志",
+		"stage_index": 15,
+		"stage_BattleStage": 110002003,
+		"background_name": "ashhill",
+		"script": 902030001
+	},
+	{
+		"ID": 17,
+		"chapter_EarthQuestChapter": 3,
+		"episode": "",
+		"episode_name": "第4話 少女の勇気",
+		"stage_index": 16,
+		"stage_BattleStage": 110002004,
+		"background_name": "greencity",
+		"script": 902040001
+	},
+	{
+		"ID": 18,
+		"chapter_EarthQuestChapter": 3,
+		"episode": "",
+		"episode_name": "第5話 父とは、親とは",
+		"stage_index": 17,
+		"stage_BattleStage": 110002005,
+		"background_name": "greencity",
+		"script": 902050001
+	},
+	{
+		"ID": 19,
+		"chapter_EarthQuestChapter": 3,
+		"episode": "",
+		"episode_name": "第6話 生きる希望",
+		"stage_index": 18,
+		"stage_BattleStage": 110002006,
+		"background_name": "colosseum_rise",
+		"script": 902060001
+	},
+	{
+		"ID": 20,
+		"chapter_EarthQuestChapter": 3,
+		"episode": "",
+		"episode_name": "第7話 甘美なる夢",
+		"stage_index": 19,
+		"stage_BattleStage": 110002007,
+		"background_name": "colosseum_rise",
+		"script": 902070001
+	},
+	{
+		"ID": 21,
+		"chapter_EarthQuestChapter": 3,
+		"episode": "",
+		"episode_name": "第8話 守りたい人との約束",
+		"stage_index": 20,
+		"stage_BattleStage": 110002008,
+		"background_name": "colosseum_rise",
+		"script": 902080001
+	},
+	{
+		"ID": 22,
+		"chapter_EarthQuestChapter": 3,
+		"episode": "",
+		"episode_name": "第9話 怠惰との決着",
+		"stage_index": 21,
+		"stage_BattleStage": 110002009,
+		"background_name": "suburbs",
+		"script": 902090001
+	},
+	{
+		"ID": 23,
+		"chapter_EarthQuestChapter": 3,
+		"episode": "",
+		"episode_name": "第10話 特異点",
+		"stage_index": 22,
+		"stage_BattleStage": 110002010,
+		"background_name": "colosseum_rise",
+		"script": 902100001
+	},
+	{
+		"ID": 24,
+		"chapter_EarthQuestChapter": 4,
+		"episode": "",
+		"episode_name": "第1話 干上がった世界",
+		"stage_index": 23,
+		"stage_BattleStage": 110003001,
+		"background_name": "mamon_wilderness",
+		"script": 903010001
+	},
+	{
+		"ID": 25,
+		"chapter_EarthQuestChapter": 4,
+		"episode": "",
+		"episode_name": "第2話 スナッチゲーム",
+		"stage_index": 24,
+		"stage_BattleStage": 110003002,
+		"background_name": "mamon_wilderness",
+		"script": 903020001
+	},
+	{
+		"ID": 26,
+		"chapter_EarthQuestChapter": 4,
+		"episode": "",
+		"episode_name": "第3話 レジスタンス",
+		"stage_index": 25,
+		"stage_BattleStage": 110003003,
+		"background_name": "mamon_wilderness",
+		"script": 903030001
+	},
+	{
+		"ID": 27,
+		"chapter_EarthQuestChapter": 4,
+		"episode": "",
+		"episode_name": "第4話 自然の摂理",
+		"stage_index": 26,
+		"stage_BattleStage": 110003004,
+		"background_name": "mamon_wilderness",
+		"script": 903040001
+	},
+	{
+		"ID": 28,
+		"chapter_EarthQuestChapter": 4,
+		"episode": "",
+		"episode_name": "第5話 老兵の頼み",
+		"stage_index": 27,
+		"stage_BattleStage": 110003005,
+		"background_name": "mamon_wilderness",
+		"script": 903050001
+	},
+	{
+		"ID": 29,
+		"chapter_EarthQuestChapter": 4,
+		"episode": "",
+		"episode_name": "第6話 生命の本質",
+		"stage_index": 28,
+		"stage_BattleStage": 110003006,
+		"background_name": "mamon_wilderness",
+		"script": 903060001
+	},
+	{
+		"ID": 30,
+		"chapter_EarthQuestChapter": 4,
+		"episode": "",
+		"episode_name": "第7話 最後の授業",
+		"stage_index": 29,
+		"stage_BattleStage": 110003007,
+		"background_name": "mamon_wilderness",
+		"script": 903070001
+	},
+	{
+		"ID": 31,
+		"chapter_EarthQuestChapter": 4,
+		"episode": "",
+		"episode_name": "第8話 強奪",
+		"stage_index": 30,
+		"stage_BattleStage": 110003008,
+		"background_name": "mamon_wilderness",
+		"script": 903080001
+	},
+	{
+		"ID": 32,
+		"chapter_EarthQuestChapter": 4,
+		"episode": "",
+		"episode_name": "第9話 託されたもの",
+		"stage_index": 31,
+		"stage_BattleStage": 110003009,
+		"background_name": "mamon_wilderness",
+		"script": 903090001
+	},
+	{
+		"ID": 33,
+		"chapter_EarthQuestChapter": 4,
+		"episode": "",
+		"episode_name": "第10話 地下通路へ",
+		"stage_index": 32,
+		"stage_BattleStage": 110003010,
+		"background_name": "mamon_wilderness",
+		"script": 903100001
+	},
+	{
+		"ID": 34,
+		"chapter_EarthQuestChapter": 5,
+		"episode": "",
+		"episode_name": "第1話 灼熱の世界",
+		"stage_index": 33,
+		"stage_BattleStage": 110004001,
+		"background_name": "devastated_city_fire",
+		"script": 904010001
+	},
+	{
+		"ID": 35,
+		"chapter_EarthQuestChapter": 5,
+		"episode": "",
+		"episode_name": "第2話 作戦名リベリオン",
+		"stage_index": 34,
+		"stage_BattleStage": 110004002,
+		"background_name": "devastated_city_fire",
+		"script": 904020001
+	},
+	{
+		"ID": 36,
+		"chapter_EarthQuestChapter": 5,
+		"episode": "",
+		"episode_name": "第3話 断絶の炎",
+		"stage_index": 35,
+		"stage_BattleStage": 110004003,
+		"background_name": "devastated_city_fire",
+		"script": 904030001
+	},
+	{
+		"ID": 37,
+		"chapter_EarthQuestChapter": 5,
+		"episode": "",
+		"episode_name": "第4話 再会",
+		"stage_index": 36,
+		"stage_BattleStage": 110004004,
+		"background_name": "devastated_city_fire",
+		"script": 904040001
+	},
+	{
+		"ID": 38,
+		"chapter_EarthQuestChapter": 5,
+		"episode": "",
+		"episode_name": "第5話 新たな力を示すもの",
+		"stage_index": 37,
+		"stage_BattleStage": 110004005,
+		"background_name": "devastated_city_fire",
+		"script": 904050001
+	},
+	{
+		"ID": 39,
+		"chapter_EarthQuestChapter": 5,
+		"episode": "",
+		"episode_name": "第6話 享楽の館",
+		"stage_index": 38,
+		"stage_BattleStage": 110004006,
+		"background_name": "asmodeus_countryofflame",
+		"script": 904060001
+	},
+	{
+		"ID": 40,
+		"chapter_EarthQuestChapter": 5,
+		"episode": "",
+		"episode_name": "第7話 繋がる絆",
+		"stage_index": 39,
+		"stage_BattleStage": 110004007,
+		"background_name": "asmodeus_countryofflame",
+		"script": 904070001
+	},
+	{
+		"ID": 41,
+		"chapter_EarthQuestChapter": 5,
+		"episode": "",
+		"episode_name": "第8話 共闘",
+		"stage_index": 40,
+		"stage_BattleStage": 110004008,
+		"background_name": "asmodeus_countryofflame_vapor",
+		"script": 904080001
+	},
+	{
+		"ID": 42,
+		"chapter_EarthQuestChapter": 5,
+		"episode": "",
+		"episode_name": "第9話 暴食襲来",
+		"stage_index": 41,
+		"stage_BattleStage": 110004009,
+		"background_name": "asmodeus_countryofflame_vapor",
+		"script": 904090001
+	},
+	{
+		"ID": 43,
+		"chapter_EarthQuestChapter": 5,
+		"episode": "",
+		"episode_name": "第10話 崩壊、そして…",
+		"stage_index": 42,
+		"stage_BattleStage": 110004010,
+		"background_name": "devastated_city_fire",
+		"script": 904100001
+	},
+	{
+		"ID": 44,
+		"chapter_EarthQuestChapter": 6,
+		"episode": "",
+		"episode_name": "第1話 魔獣を従える人間",
+		"stage_index": 43,
+		"stage_BattleStage": 110005001,
+		"background_name": "submerged_town",
+		"script": 905010001
+	},
+	{
+		"ID": 45,
+		"chapter_EarthQuestChapter": 6,
+		"episode": "",
+		"episode_name": "第2話 階層社会",
+		"stage_index": 44,
+		"stage_BattleStage": 110005002,
+		"background_name": "submerged_town",
+		"script": 905020001
+	},
+	{
+		"ID": 46,
+		"chapter_EarthQuestChapter": 6,
+		"episode": "",
+		"episode_name": "第3話 祈りを捧げる人々",
+		"stage_index": 45,
+		"stage_BattleStage": 110005003,
+		"background_name": "submerged_town_night",
+		"script": 905030001
+	},
+	{
+		"ID": 47,
+		"chapter_EarthQuestChapter": 6,
+		"episode": "",
+		"episode_name": "第4話 上層階の生活",
+		"stage_index": 46,
+		"stage_BattleStage": 110005004,
+		"background_name": "submerged_town",
+		"script": 905040001
+	},
+	{
+		"ID": 48,
+		"chapter_EarthQuestChapter": 6,
+		"episode": "",
+		"episode_name": "第5話 監禁、そして……",
+		"stage_index": 47,
+		"stage_BattleStage": 110005005,
+		"background_name": "submerged_town_night",
+		"script": 905050001
+	},
+	{
+		"ID": 49,
+		"chapter_EarthQuestChapter": 6,
+		"episode": "",
+		"episode_name": "第6話 天上世界の現状",
+		"stage_index": 48,
+		"stage_BattleStage": 110005006,
+		"background_name": "submerged_town",
+		"script": 905060001
+	},
+	{
+		"ID": 50,
+		"chapter_EarthQuestChapter": 6,
+		"episode": "",
+		"episode_name": "第7話 明かされた真実",
+		"stage_index": 49,
+		"stage_BattleStage": 110005007,
+		"background_name": "submerged_town",
+		"script": 905070001
+	},
+	{
+		"ID": 51,
+		"chapter_EarthQuestChapter": 6,
+		"episode": "",
+		"episode_name": "第8話 危険な選択",
+		"stage_index": 50,
+		"stage_BattleStage": 110005008,
+		"background_name": "submerged_town",
+		"script": 905080001
+	},
+	{
+		"ID": 52,
+		"chapter_EarthQuestChapter": 6,
+		"episode": "",
+		"episode_name": "第9話 力の代償",
+		"stage_index": 51,
+		"stage_BattleStage": 110005009,
+		"background_name": "submerged_town",
+		"script": 905090001
+	},
+	{
+		"ID": 53,
+		"chapter_EarthQuestChapter": 6,
+		"episode": "",
+		"episode_name": "第10話 反撃の狼煙",
+		"stage_index": 52,
+		"stage_BattleStage": 110005010,
+		"background_name": "submerged_town",
+		"script": 905100001
+	},
+	{
+		"ID": 54,
+		"chapter_EarthQuestChapter": 7,
+		"episode": "",
+		"episode_name": "第1話 それぞれの思惑",
+		"stage_index": 53,
+		"stage_BattleStage": 110006001,
+		"background_name": "006_church",
+		"script": 906010001
+	},
+	{
+		"ID": 55,
+		"chapter_EarthQuestChapter": 7,
+		"episode": "",
+		"episode_name": "第2話 生命の残存メモリ",
+		"stage_index": 54,
+		"stage_BattleStage": 110006002,
+		"background_name": "submerged_town",
+		"script": 906020001
+	},
+	{
+		"ID": 56,
+		"chapter_EarthQuestChapter": 7,
+		"episode": "",
+		"episode_name": "第3話 襲来する悪魔",
+		"stage_index": 55,
+		"stage_BattleStage": 110006003,
+		"background_name": "red_corridor",
+		"script": 906030001
+	},
+	{
+		"ID": 57,
+		"chapter_EarthQuestChapter": 7,
+		"episode": "",
+		"episode_name": "第4話 未来への別れ",
+		"stage_index": 56,
+		"stage_BattleStage": 110006004,
+		"background_name": "red_corridor_broken",
+		"script": 906040001
+	},
+	{
+		"ID": 58,
+		"chapter_EarthQuestChapter": 7,
+		"episode": "",
+		"episode_name": "第5話 下層民の蜂起",
+		"stage_index": 57,
+		"stage_BattleStage": 110006005,
+		"background_name": "submerged_town",
+		"script": 906050001
+	},
+	{
+		"ID": 59,
+		"chapter_EarthQuestChapter": 7,
+		"episode": "",
+		"episode_name": "第6話 暴走する“正義”",
+		"stage_index": 58,
+		"stage_BattleStage": 110006006,
+		"background_name": "upper_clean_floors",
+		"script": 906060001
+	},
+	{
+		"ID": 60,
+		"chapter_EarthQuestChapter": 7,
+		"episode": "",
+		"episode_name": "第7話 崩壊への序曲",
+		"stage_index": 59,
+		"stage_BattleStage": 110006007,
+		"background_name": "upper_clean_floors",
+		"script": 906070001
+	},
+	{
+		"ID": 61,
+		"chapter_EarthQuestChapter": 7,
+		"episode": "",
+		"episode_name": "第8話 最後の言葉",
+		"stage_index": 60,
+		"stage_BattleStage": 110006008,
+		"background_name": "upper_clean_floors",
+		"script": 906080001
+	},
+	{
+		"ID": 62,
+		"chapter_EarthQuestChapter": 7,
+		"episode": "",
+		"episode_name": "第9話 嫉妬の果て",
+		"stage_index": 61,
+		"stage_BattleStage": 110006009,
+		"background_name": "submerged_town",
+		"script": 906090001
+	},
+	{
+		"ID": 63,
+		"chapter_EarthQuestChapter": 7,
+		"episode": "",
+		"episode_name": "第10話 未来への道",
+		"stage_index": 62,
+		"stage_BattleStage": 110006010,
+		"background_name": "submerged_town",
+		"script": 906100001
+	},
+	{
+		"ID": 64,
+		"chapter_EarthQuestChapter": 8,
+		"episode": "",
+		"episode_name": "第1話 キラープリンセスの異変",
+		"stage_index": 63,
+		"stage_BattleStage": 110007001,
+		"background_name": "satan",
+		"script": 907010001
+	},
+	{
+		"ID": 65,
+		"chapter_EarthQuestChapter": 8,
+		"episode": "",
+		"episode_name": "第2話 失われていくもの",
+		"stage_index": 64,
+		"stage_BattleStage": 110007002,
+		"background_name": "satan",
+		"script": 907020001
+	},
+	{
+		"ID": 66,
+		"chapter_EarthQuestChapter": 8,
+		"episode": "",
+		"episode_name": "第3話 見捨てられた者達",
+		"stage_index": 65,
+		"stage_BattleStage": 110007003,
+		"background_name": "cocutos",
+		"script": 907030001
+	},
+	{
+		"ID": 67,
+		"chapter_EarthQuestChapter": 8,
+		"episode": "",
+		"episode_name": "第4話 七つの大罪",
+		"stage_index": 66,
+		"stage_BattleStage": 110007004,
+		"background_name": "cocutos",
+		"script": 907040001
+	},
+	{
+		"ID": 68,
+		"chapter_EarthQuestChapter": 8,
+		"episode": "",
+		"episode_name": "第5話 生まれ出ずる絶望",
+		"stage_index": 67,
+		"stage_BattleStage": 110007005,
+		"background_name": "cocutos",
+		"script": 907050001
+	},
+	{
+		"ID": 69,
+		"chapter_EarthQuestChapter": 8,
+		"episode": "",
+		"episode_name": "第6話 アルン",
+		"stage_index": 68,
+		"stage_BattleStage": 110007006,
+		"background_name": "cocutos",
+		"script": 907060001
+	},
+	{
+		"ID": 70,
+		"chapter_EarthQuestChapter": 8,
+		"episode": "",
+		"episode_name": "第7話 大切なもの",
+		"stage_index": 69,
+		"stage_BattleStage": 110007007,
+		"background_name": "satan",
+		"script": 907070001
+	},
+	{
+		"ID": 71,
+		"chapter_EarthQuestChapter": 8,
+		"episode": "",
+		"episode_name": "第8話 未来への一撃",
+		"stage_index": 70,
+		"stage_BattleStage": 110007008,
+		"background_name": "satan",
+		"script": 907080001
+	},
+	{
+		"ID": 72,
+		"chapter_EarthQuestChapter": 8,
+		"episode": "",
+		"episode_name": "第9話 崩れ去る魔壁",
+		"stage_index": 71,
+		"stage_BattleStage": 110007009,
+		"background_name": "satan",
+		"script": 907090001
+	},
+	{
+		"ID": 73,
+		"chapter_EarthQuestChapter": 8,
+		"episode": "",
+		"episode_name": "第10話 ――ZERO――",
+		"stage_index": 72,
+		"stage_BattleStage": 110007010,
+		"background_name": "ice-world",
+		"script": 907100001
+	}
+]

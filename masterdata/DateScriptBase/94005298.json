@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 94005298,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# se \"SE_0733\"\n# face %(unit_a)s \"sad\"\n@与一\n…あ\n\n@与一\nえっと…\n\n# voice 4005 \"yoichi_0017\"\n# face %(unit_a)s \"normal\"\n@与一\nハズレ…です\n\n# face %(unit_a)s \"usual\"\n@与一\n急にごめんなさい\nクイズなんか出しちゃって…\n\n@与一\n…………\n\n# textflame 0 0\n@\n彼女の表情は\nあからさまに落ち込んで見えた\n\n@\n彼女はほんの少しだけ\nがっかりしたような表情を見せた\n\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n@与一\nえっと…\n行きましょうかマスター\n\n# textflame 0 0\n@\nあんな顔させちゃった\nデート中のはずなのに…\n\n@\nちゃんと\nどんな質問も答えられるように\n復習しておかないとだな…\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

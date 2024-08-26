@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 1241003,
+		"script": ";;■□■２－４改修案■□■\n;;整形済み\n;;【２－４－４（バトル後）】\n# script \"lisp\"\n# background \"forest\"\n# bgm \"bgm031\" 0\n# body 24\n# pos 24 3\n# scale 24 0.8 0\n# alpha 24 0 0\n# mask 24 off\n# body 0\n# pos 0 3\n# scale 0 0.8 0\n# alpha 0 0 0\n# mask 0 off\n# body 4\n# pos 4 4\n# scale 4 0.8 0\n# alpha 4 1 0\n# body 5\n# pos 5 2\n# scale 5 0.8 0\n# alpha 5 1 0\n# face 4 \"angry\"\n# textboxarrow 0 1\n# face 5 \"angry\"\n# se \"SE_4824\"\n@祀官\nぐわ…っ！！\n\n# textboxarrow 0 3\n# voice 9998 \"toto_0039\"\n@トト\nし…祀官様！？\n\n# textboxarrow 0 1\n@祀官\nぐ…っ、ト、トト…\nこの首飾りをかけていろ…\n\n@祀官\n込められた“マナ”が、\n異族を呼び寄せる気を…\n抑えてくれ…る…うっ、グッ！！\n\n# alpha 4 0 0.5\n# alpha 5 0 0.5\n# alpha 24 1 0.5\n# textboxarrow 0 2\n# face 24 \"surprise\"\n# voice 1014 \"tyrufing_0038\"\n@ティルフィング\n異族の標的が…\n祀官様に変わった！？\n\n# alpha 4 1 0.5\n# alpha 5 1 0.5\n# alpha 24 0 0.5\n# textboxarrow 0 3\n@トト\nし、祀官様…どうして！？\n\n# textboxarrow 0 1\n@祀官\nわかるんだよ、お前の痛みが…\n俺も…“悪魔の子”と\n蔑まれた人間だからな…来い！\n\n# se \"SE_5575\"\n# alpha 4 0 0.5\n# alpha 5 0 0.5\n# alpha 0 1 0.5\n# textboxarrow 0 2\n@デュリン\n！？\n\n# face 0 \"serious\"\n# voice 9999 \"durin_1023\"\n@デュリン\nまさか…あの祀官が、\n追放されたナパル少年！？\n\n# face 0 \"angry\"\n@デュリン\nティルフィング、\n急いで二人を追って！\nあの男の背に異族が寄生してる！！"
+	}
+]

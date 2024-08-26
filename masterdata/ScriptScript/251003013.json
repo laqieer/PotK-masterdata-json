@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 251003013,
+		"script": ";;-----------------------------------------\n;;サイコパス1_3\n;;-----------------------------------------\n# script \"lisp\"\n# background \"forest\"\n# bgmfile \"bgm049\" \"BgmPPcollabo001\" 0\n;;-----------------------------------------\n# body 501011\n# pos 501011 3\n# scale 501011 0.8 0\n# layer 501011 3\n# mask 501011 off\n# alpha 501011 1 0\n;;-----------------------------------------\n# imageset 0 \"black\"\n# imagealpha 0 0 0\n# imagelayer 0 1\n;;-----------------------------------------\n;;背景イメージ：荒野（昼）\n# textwindow \"close\"\n# fadein \"black\" 0.5\n# waitandnext 0.5\n\n# textflame 1 1\n# textwindow \"nomal\"\n# textboxarrow 0 2\n# face 501011 \"normal\"\n@常守朱\n…執行完了しました\n\n# textflame 1 1\n# textboxarrow 0 2\n# face 501011 \"usual\"\n# voice 5010 \"akane_0028\"\n@常守朱\n私の攻撃は通じました\nつまり、例の異族では\nなかったのでしょうか？\n\n# textflame 0 0\n@\nそういわれても、マスターには\nその違いがわからない\n\n# textflame 1 1\n# textboxarrow 0 2\n# face 501011 \"sad\"\n@常守朱\n…キル姫さんに同行を\nお願いするべきでしたね\n\n# fadeout \"black\" 1\n# waitandnext 1"
+	}
+]

@@ -1,0 +1,302 @@
+[
+	{
+		"ID": 6203,
+		"unitID": 2503221,
+		"questionID": 29503201,
+		"script": ";;銃,1\n# textflame 1 1\n# face %(unit_a)s \"surprise\"\n@ティファレト\n………\n\n# textflame 0 0\n@\nどうしたの？\n尋ねるマスターに、\n彼女は言う\n\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 550321 \"tiphereth_ca_0026\"\n@ティファレト\nこのまま帰るのは、\nもったいない気がしまして…\n\n# textflame 1 1\n# face %(unit_a)s \"happy\"\n# voice 550321 \"tiphereth_ca_0002\"\n@ティファレト\n夏の夕焼けの下、\n少し日向ぼっこを\nしていきませんか？\n\n# textflame 1 1\n@ティファレト\n私は、太陽の下で\nのんびりと過ごす時間が、\nとても好きなものですから\n\n# textflame 1 1\n# face %(unit_a)s \"surprise\"\n@ティファレト\n……あ、でも、それじゃ\n主様は退屈ですよね\n\n# textflame 1 1\n@ティファレト\n…そうだ\n\n# textflame 1 1\n# face %(unit_a)s \"happy\"\n# voice 550321 \"tiphereth_ca_0001\"\n@ティファレト\n日向ぼっこの間、\n私の出すクイズに\n答えていただくのはどうですか？\n\n# textflame 1 1\n@ティファレト\nでは、行きますよ\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私の武器属性は分かりますか？　\n\n# se \"SE_0734\"\n# select \"銃\" \"select_label_1\" \"槍\" \"select_label_2\" \"弓\" \"select_label_3\"\n私の武器属性は分かりますか？　\n"
+	},
+	{
+		"ID": 6204,
+		"unitID": 2503221,
+		"questionID": 29503202,
+		"script": ";;６個目,3\n# textflame 1 1\n# face %(unit_a)s \"surprise\"\n@ティファレト\n………\n\n# textflame 0 0\n@\nどうしたの？\n尋ねるマスターに、\n彼女は言う\n\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 550321 \"tiphereth_ca_0026\"\n@ティファレト\nこのまま帰るのは、\nもったいない気がしまして…\n\n# textflame 1 1\n# face %(unit_a)s \"happy\"\n# voice 550321 \"tiphereth_ca_0002\"\n@ティファレト\n夏の夕焼けの下、\n少し日向ぼっこを\nしていきませんか？\n\n# textflame 1 1\n@ティファレト\n私は、太陽の下で\nのんびりと過ごす時間が、\nとても好きなものですから\n\n# textflame 1 1\n# face %(unit_a)s \"surprise\"\n@ティファレト\n……あ、でも、それじゃ\n主様は退屈ですよね\n\n# textflame 1 1\n@ティファレト\n…そうだ\n\n# textflame 1 1\n# face %(unit_a)s \"happy\"\n# voice 550321 \"tiphereth_ca_0001\"\n@ティファレト\n日向ぼっこの間、\n私の出すクイズに\n答えていただくのはどうですか？\n\n# textflame 1 1\n@ティファレト\nでは、行きますよ\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私はセフィロトの樹を構成する\n10のセフィラの何個目のセフィラ？\n\n# se \"SE_0734\"\n# select \"５個目\" \"select_label_1\" \"７個目\" \"select_label_2\" \"６個目\" \"select_label_3\"\n私はセフィロトの樹を構成する\n10のセフィラの何個目のセフィラ？\n"
+	},
+	{
+		"ID": 6205,
+		"unitID": 2503221,
+		"questionID": 29503203,
+		"script": ";;旧約聖書,3\n# textflame 1 1\n# face %(unit_a)s \"surprise\"\n@ティファレト\n………\n\n# textflame 0 0\n@\nどうしたの？\n尋ねるマスターに、\n彼女は言う\n\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 550321 \"tiphereth_ca_0026\"\n@ティファレト\nこのまま帰るのは、\nもったいない気がしまして…\n\n# textflame 1 1\n# face %(unit_a)s \"happy\"\n# voice 550321 \"tiphereth_ca_0002\"\n@ティファレト\n夏の夕焼けの下、\n少し日向ぼっこを\nしていきませんか？\n\n# textflame 1 1\n@ティファレト\n私は、太陽の下で\nのんびりと過ごす時間が、\nとても好きなものですから\n\n# textflame 1 1\n# face %(unit_a)s \"surprise\"\n@ティファレト\n……あ、でも、それじゃ\n主様は退屈ですよね\n\n# textflame 1 1\n@ティファレト\n…そうだ\n\n# textflame 1 1\n# face %(unit_a)s \"happy\"\n# voice 550321 \"tiphereth_ca_0001\"\n@ティファレト\n日向ぼっこの間、\n私の出すクイズに\n答えていただくのはどうですか？\n\n# textflame 1 1\n@ティファレト\nでは、行きますよ\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私はどんな伝承に登場するか\n知っていますか？\n\n# se \"SE_0734\"\n# select \"ギリシャ神話\" \"select_label_1\" \"日本神話\" \"select_label_2\" \"旧約聖書\" \"select_label_3\"\n私はどんな伝承に登場するか\n知っていますか？\n"
+	},
+	{
+		"ID": 6206,
+		"unitID": 2503221,
+		"questionID": 29503204,
+		"script": ";;太陽,3\n# textflame 1 1\n# face %(unit_a)s \"surprise\"\n@ティファレト\n………\n\n# textflame 0 0\n@\nどうしたの？\n尋ねるマスターに、\n彼女は言う\n\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 550321 \"tiphereth_ca_0026\"\n@ティファレト\nこのまま帰るのは、\nもったいない気がしまして…\n\n# textflame 1 1\n# face %(unit_a)s \"happy\"\n# voice 550321 \"tiphereth_ca_0002\"\n@ティファレト\n夏の夕焼けの下、\n少し日向ぼっこを\nしていきませんか？\n\n# textflame 1 1\n@ティファレト\n私は、太陽の下で\nのんびりと過ごす時間が、\nとても好きなものですから\n\n# textflame 1 1\n# face %(unit_a)s \"surprise\"\n@ティファレト\n……あ、でも、それじゃ\n主様は退屈ですよね\n\n# textflame 1 1\n@ティファレト\n…そうだ\n\n# textflame 1 1\n# face %(unit_a)s \"happy\"\n# voice 550321 \"tiphereth_ca_0001\"\n@ティファレト\n日向ぼっこの間、\n私の出すクイズに\n答えていただくのはどうですか？\n\n# textflame 1 1\n@ティファレト\nでは、行きますよ\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私のキラーズはセフィロトの樹の\nセフィラの一つで何を象徴しますか？\n\n# se \"SE_0734\"\n# select \"月\" \"select_label_1\" \"土壌\" \"select_label_2\" \"太陽\" \"select_label_3\"\n私のキラーズはセフィロトの樹の\nセフィラの一つで何を象徴しますか？\n"
+	},
+	{
+		"ID": 6207,
+		"unitID": 2503221,
+		"questionID": 29503205,
+		"script": ";;生命エネルギー,1\n# textflame 1 1\n# face %(unit_a)s \"surprise\"\n@ティファレト\n………\n\n# textflame 0 0\n@\nどうしたの？\n尋ねるマスターに、\n彼女は言う\n\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 550321 \"tiphereth_ca_0026\"\n@ティファレト\nこのまま帰るのは、\nもったいない気がしまして…\n\n# textflame 1 1\n# face %(unit_a)s \"happy\"\n# voice 550321 \"tiphereth_ca_0002\"\n@ティファレト\n夏の夕焼けの下、\n少し日向ぼっこを\nしていきませんか？\n\n# textflame 1 1\n@ティファレト\n私は、太陽の下で\nのんびりと過ごす時間が、\nとても好きなものですから\n\n# textflame 1 1\n# face %(unit_a)s \"surprise\"\n@ティファレト\n……あ、でも、それじゃ\n主様は退屈ですよね\n\n# textflame 1 1\n@ティファレト\n…そうだ\n\n# textflame 1 1\n# face %(unit_a)s \"happy\"\n# voice 550321 \"tiphereth_ca_0001\"\n@ティファレト\n日向ぼっこの間、\n私の出すクイズに\n答えていただくのはどうですか？\n\n# textflame 1 1\n@ティファレト\nでは、行きますよ\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私は何を供給すると云われているか\n知っていますか？\n\n# se \"SE_0734\"\n# select \"生命エネルギー\" \"select_label_1\" \"魔法エネルギー\" \"select_label_2\" \"熱エネルギー\" \"select_label_3\"\n私は何を供給すると云われているか\n知っていますか？\n"
+	},
+	{
+		"ID": 6208,
+		"unitID": 2503221,
+		"questionID": 29503206,
+		"script": ";;守護,3\n# textflame 1 1\n# face %(unit_a)s \"surprise\"\n@ティファレト\n………\n\n# textflame 0 0\n@\nどうしたの？\n尋ねるマスターに、\n彼女は言う\n\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 550321 \"tiphereth_ca_0026\"\n@ティファレト\nこのまま帰るのは、\nもったいない気がしまして…\n\n# textflame 1 1\n# face %(unit_a)s \"happy\"\n# voice 550321 \"tiphereth_ca_0002\"\n@ティファレト\n夏の夕焼けの下、\n少し日向ぼっこを\nしていきませんか？\n\n# textflame 1 1\n@ティファレト\n私は、太陽の下で\nのんびりと過ごす時間が、\nとても好きなものですから\n\n# textflame 1 1\n# face %(unit_a)s \"surprise\"\n@ティファレト\n……あ、でも、それじゃ\n主様は退屈ですよね\n\n# textflame 1 1\n@ティファレト\n…そうだ\n\n# textflame 1 1\n# face %(unit_a)s \"happy\"\n# voice 550321 \"tiphereth_ca_0001\"\n@ティファレト\n日向ぼっこの間、\n私の出すクイズに\n答えていただくのはどうですか？\n\n# textflame 1 1\n@ティファレト\nでは、行きますよ\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私が誓約を交わした天使ミカエルは\nどんな天使と云われているでしょう？\n\n# se \"SE_0734\"\n# select \"破滅\" \"select_label_1\" \"芸術\" \"select_label_2\" \"守護\" \"select_label_3\"\n私が誓約を交わした天使ミカエルは\nどんな天使と云われているでしょう？\n"
+	},
+	{
+		"ID": 6209,
+		"unitID": 2503221,
+		"questionID": 29503207,
+		"script": ";;ミカエル,1\n# textflame 1 1\n# face %(unit_a)s \"surprise\"\n@ティファレト\n………\n\n# textflame 0 0\n@\nどうしたの？\n尋ねるマスターに、\n彼女は言う\n\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 550321 \"tiphereth_ca_0026\"\n@ティファレト\nこのまま帰るのは、\nもったいない気がしまして…\n\n# textflame 1 1\n# face %(unit_a)s \"happy\"\n# voice 550321 \"tiphereth_ca_0002\"\n@ティファレト\n夏の夕焼けの下、\n少し日向ぼっこを\nしていきませんか？\n\n# textflame 1 1\n@ティファレト\n私は、太陽の下で\nのんびりと過ごす時間が、\nとても好きなものですから\n\n# textflame 1 1\n# face %(unit_a)s \"surprise\"\n@ティファレト\n……あ、でも、それじゃ\n主様は退屈ですよね\n\n# textflame 1 1\n@ティファレト\n…そうだ\n\n# textflame 1 1\n# face %(unit_a)s \"happy\"\n# voice 550321 \"tiphereth_ca_0001\"\n@ティファレト\n日向ぼっこの間、\n私の出すクイズに\n答えていただくのはどうですか？\n\n# textflame 1 1\n@ティファレト\nでは、行きますよ\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私が誓約を交わした天使は\nお分かりになりますか？\n\n# se \"SE_0734\"\n# select \"ミカエル\" \"select_label_1\" \"ハニエル\" \"select_label_2\" \"カマエル\" \"select_label_3\"\n私が誓約を交わした天使は\nお分かりになりますか？\n"
+	},
+	{
+		"ID": 6210,
+		"unitID": 2503221,
+		"questionID": 29503208,
+		"script": ";;黄色,1\n# textflame 1 1\n# face %(unit_a)s \"surprise\"\n@ティファレト\n………\n\n# textflame 0 0\n@\nどうしたの？\n尋ねるマスターに、\n彼女は言う\n\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 550321 \"tiphereth_ca_0026\"\n@ティファレト\nこのまま帰るのは、\nもったいない気がしまして…\n\n# textflame 1 1\n# face %(unit_a)s \"happy\"\n# voice 550321 \"tiphereth_ca_0002\"\n@ティファレト\n夏の夕焼けの下、\n少し日向ぼっこを\nしていきませんか？\n\n# textflame 1 1\n@ティファレト\n私は、太陽の下で\nのんびりと過ごす時間が、\nとても好きなものですから\n\n# textflame 1 1\n# face %(unit_a)s \"surprise\"\n@ティファレト\n……あ、でも、それじゃ\n主様は退屈ですよね\n\n# textflame 1 1\n@ティファレト\n…そうだ\n\n# textflame 1 1\n# face %(unit_a)s \"happy\"\n# voice 550321 \"tiphereth_ca_0001\"\n@ティファレト\n日向ぼっこの間、\n私の出すクイズに\n答えていただくのはどうですか？\n\n# textflame 1 1\n@ティファレト\nでは、行きますよ\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私のキラーズ『ティファレト』が\n象徴する色はご存知でしょうか？\n\n# se \"SE_0734\"\n# select \"黄色\" \"select_label_1\" \"青色\" \"select_label_2\" \"緑色\" \"select_label_3\"\n私のキラーズ『ティファレト』が\n象徴する色はご存知でしょうか？\n"
+	},
+	{
+		"ID": 6211,
+		"unitID": 2503221,
+		"questionID": 29503209,
+		"script": ";;金,2\n# textflame 1 1\n# face %(unit_a)s \"surprise\"\n@ティファレト\n………\n\n# textflame 0 0\n@\nどうしたの？\n尋ねるマスターに、\n彼女は言う\n\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 550321 \"tiphereth_ca_0026\"\n@ティファレト\nこのまま帰るのは、\nもったいない気がしまして…\n\n# textflame 1 1\n# face %(unit_a)s \"happy\"\n# voice 550321 \"tiphereth_ca_0002\"\n@ティファレト\n夏の夕焼けの下、\n少し日向ぼっこを\nしていきませんか？\n\n# textflame 1 1\n@ティファレト\n私は、太陽の下で\nのんびりと過ごす時間が、\nとても好きなものですから\n\n# textflame 1 1\n# face %(unit_a)s \"surprise\"\n@ティファレト\n……あ、でも、それじゃ\n主様は退屈ですよね\n\n# textflame 1 1\n@ティファレト\n…そうだ\n\n# textflame 1 1\n# face %(unit_a)s \"happy\"\n# voice 550321 \"tiphereth_ca_0001\"\n@ティファレト\n日向ぼっこの間、\n私の出すクイズに\n答えていただくのはどうですか？\n\n# textflame 1 1\n@ティファレト\nでは、行きますよ\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私のキラーズ『ティファレト』が\n象徴する金属はご存知でしょうか？\n\n# se \"SE_0734\"\n# select \"銀　\" \"select_label_1\" \"金\" \"select_label_2\" \"アルミ\" \"select_label_3\"\n私のキラーズ『ティファレト』が\n象徴する金属はご存知でしょうか？\n"
+	},
+	{
+		"ID": 6212,
+		"unitID": 2503221,
+		"questionID": 29503210,
+		"script": ";;神の如き者,3\n# textflame 1 1\n# face %(unit_a)s \"surprise\"\n@ティファレト\n………\n\n# textflame 0 0\n@\nどうしたの？\n尋ねるマスターに、\n彼女は言う\n\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 550321 \"tiphereth_ca_0026\"\n@ティファレト\nこのまま帰るのは、\nもったいない気がしまして…\n\n# textflame 1 1\n# face %(unit_a)s \"happy\"\n# voice 550321 \"tiphereth_ca_0002\"\n@ティファレト\n夏の夕焼けの下、\n少し日向ぼっこを\nしていきませんか？\n\n# textflame 1 1\n@ティファレト\n私は、太陽の下で\nのんびりと過ごす時間が、\nとても好きなものですから\n\n# textflame 1 1\n# face %(unit_a)s \"surprise\"\n@ティファレト\n……あ、でも、それじゃ\n主様は退屈ですよね\n\n# textflame 1 1\n@ティファレト\n…そうだ\n\n# textflame 1 1\n# face %(unit_a)s \"happy\"\n# voice 550321 \"tiphereth_ca_0001\"\n@ティファレト\n日向ぼっこの間、\n私の出すクイズに\n答えていただくのはどうですか？\n\n# textflame 1 1\n@ティファレト\nでは、行きますよ\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私が誓約を交わした\n天使ミカエルの異名は\nご存知でしょうか？\n\n# se \"SE_0734\"\n# select \"悪魔の如き者\" \"select_label_1\" \"天使の如き者\" \"select_label_2\" \"神の如き者\" \"select_label_3\"\n私が誓約を交わした\n天使ミカエルの異名は\nご存知でしょうか？\n"
+	},
+	{
+		"ID": 6213,
+		"unitID": 2503221,
+		"questionID": 29503211,
+		"script": ";;光,2\n# textflame 1 1\n# face %(unit_a)s \"happy\"\n# voice 550321 \"tiphereth_ca_0001\"\n@ティファレト\n主様、覚えていますか？\n\n# textflame 1 1\n@ティファレト\n以前、私が話した\n理想郷のこと\n\n# textflame 1 1\n@ティファレト\n力ある者が支配するのではなく、\n争いのない愛に満ちた世界を\n私は望むと…\n\n# textflame 1 1\n@ティファレト\nこの夕陽を見ていると、\n一層強く、そう思います\n\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 550321 \"tiphereth_ca_0031\"\n@ティファレト\n…ごめんなさい\n覚えてませんよね？\n\n# textflame 0 0\n@\nそんなことない！\nちゃんと覚えてるよ\nと答えるマスター\n\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 550321 \"tiphereth_ca_0004\"\n@ティファレト\nふふ、本当ですか？\nでは確かめさせて\nもらってもいいでしょうか？\n\n# textflame 0 0\n@\nイタズラっぽく微笑む\nティファレト\n\n# textflame 1 1\n@ティファレト\n覚えているかどうか、\nクイズにして出題させて頂きます\n\n# textflame 1 1\n@ティファレト\n主様、準備はいいですか？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私の属性はご存知でしょうか？\n\n# se \"SE_0734\"\n# select \"風\" \"select_label_1\" \"光\" \"select_label_2\" \"炎\" \"select_label_3\"\n私の属性はご存知でしょうか？\n"
+	},
+	{
+		"ID": 6214,
+		"unitID": 2503221,
+		"questionID": 29503212,
+		"script": ";;168cm ,1\n# textflame 1 1\n# face %(unit_a)s \"happy\"\n# voice 550321 \"tiphereth_ca_0001\"\n@ティファレト\n主様、覚えていますか？\n\n# textflame 1 1\n@ティファレト\n以前、私が話した\n理想郷のこと\n\n# textflame 1 1\n@ティファレト\n力ある者が支配するのではなく、\n争いのない愛に満ちた世界を\n私は望むと…\n\n# textflame 1 1\n@ティファレト\nこの夕陽を見ていると、\n一層強く、そう思います\n\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 550321 \"tiphereth_ca_0031\"\n@ティファレト\n…ごめんなさい\n覚えてませんよね？\n\n# textflame 0 0\n@\nそんなことない！\nちゃんと覚えてるよ\nと答えるマスター\n\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 550321 \"tiphereth_ca_0004\"\n@ティファレト\nふふ、本当ですか？\nでは確かめさせて\nもらってもいいでしょうか？\n\n# textflame 0 0\n@\nイタズラっぽく微笑む\nティファレト\n\n# textflame 1 1\n@ティファレト\n覚えているかどうか、\nクイズにして出題させて頂きます\n\n# textflame 1 1\n@ティファレト\n主様、準備はいいですか？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私の身長はお分かりになりますか？\n\n# se \"SE_0734\"\n# select \"168cm \" \"select_label_1\" \"169cm\" \"select_label_2\" \"149cm\" \"select_label_3\"\n私の身長はお分かりになりますか？\n"
+	},
+	{
+		"ID": 6215,
+		"unitID": 2503221,
+		"questionID": 29503213,
+		"script": ";;10月6日,1\n# textflame 1 1\n# face %(unit_a)s \"happy\"\n# voice 550321 \"tiphereth_ca_0001\"\n@ティファレト\n主様、覚えていますか？\n\n# textflame 1 1\n@ティファレト\n以前、私が話した\n理想郷のこと\n\n# textflame 1 1\n@ティファレト\n力ある者が支配するのではなく、\n争いのない愛に満ちた世界を\n私は望むと…\n\n# textflame 1 1\n@ティファレト\nこの夕陽を見ていると、\n一層強く、そう思います\n\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 550321 \"tiphereth_ca_0031\"\n@ティファレト\n…ごめんなさい\n覚えてませんよね？\n\n# textflame 0 0\n@\nそんなことない！\nちゃんと覚えてるよ\nと答えるマスター\n\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 550321 \"tiphereth_ca_0004\"\n@ティファレト\nふふ、本当ですか？\nでは確かめさせて\nもらってもいいでしょうか？\n\n# textflame 0 0\n@\nイタズラっぽく微笑む\nティファレト\n\n# textflame 1 1\n@ティファレト\n覚えているかどうか、\nクイズにして出題させて頂きます\n\n# textflame 1 1\n@ティファレト\n主様、準備はいいですか？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私の誕生日はご存知でしょうか？\n\n# se \"SE_0734\"\n# select \"10月6日\" \"select_label_1\" \"9月6日\" \"select_label_2\" \"12月6日\" \"select_label_3\"\n私の誕生日はご存知でしょうか？\n"
+	},
+	{
+		"ID": 6216,
+		"unitID": 2503221,
+		"questionID": 29503214,
+		"script": ";;てんびん座,2\n# textflame 1 1\n# face %(unit_a)s \"happy\"\n# voice 550321 \"tiphereth_ca_0001\"\n@ティファレト\n主様、覚えていますか？\n\n# textflame 1 1\n@ティファレト\n以前、私が話した\n理想郷のこと\n\n# textflame 1 1\n@ティファレト\n力ある者が支配するのではなく、\n争いのない愛に満ちた世界を\n私は望むと…\n\n# textflame 1 1\n@ティファレト\nこの夕陽を見ていると、\n一層強く、そう思います\n\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 550321 \"tiphereth_ca_0031\"\n@ティファレト\n…ごめんなさい\n覚えてませんよね？\n\n# textflame 0 0\n@\nそんなことない！\nちゃんと覚えてるよ\nと答えるマスター\n\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 550321 \"tiphereth_ca_0004\"\n@ティファレト\nふふ、本当ですか？\nでは確かめさせて\nもらってもいいでしょうか？\n\n# textflame 0 0\n@\nイタズラっぽく微笑む\nティファレト\n\n# textflame 1 1\n@ティファレト\n覚えているかどうか、\nクイズにして出題させて頂きます\n\n# textflame 1 1\n@ティファレト\n主様、準備はいいですか？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私の星座はご存知でしょうか？\n\n# se \"SE_0734\"\n# select \"いて座\" \"select_label_1\" \"てんびん座\" \"select_label_2\" \"しし座\" \"select_label_3\"\n私の星座はご存知でしょうか？\n"
+	},
+	{
+		"ID": 6217,
+		"unitID": 2503221,
+		"questionID": 29503215,
+		"script": ";;特にありません,3\n# textflame 1 1\n# face %(unit_a)s \"happy\"\n# voice 550321 \"tiphereth_ca_0001\"\n@ティファレト\n主様、覚えていますか？\n\n# textflame 1 1\n@ティファレト\n以前、私が話した\n理想郷のこと\n\n# textflame 1 1\n@ティファレト\n力ある者が支配するのではなく、\n争いのない愛に満ちた世界を\n私は望むと…\n\n# textflame 1 1\n@ティファレト\nこの夕陽を見ていると、\n一層強く、そう思います\n\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 550321 \"tiphereth_ca_0031\"\n@ティファレト\n…ごめんなさい\n覚えてませんよね？\n\n# textflame 0 0\n@\nそんなことない！\nちゃんと覚えてるよ\nと答えるマスター\n\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 550321 \"tiphereth_ca_0004\"\n@ティファレト\nふふ、本当ですか？\nでは確かめさせて\nもらってもいいでしょうか？\n\n# textflame 0 0\n@\nイタズラっぽく微笑む\nティファレト\n\n# textflame 1 1\n@ティファレト\n覚えているかどうか、\nクイズにして出題させて頂きます\n\n# textflame 1 1\n@ティファレト\n主様、準備はいいですか？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私の好きなものはご存知でしょうか？\n\n# se \"SE_0734\"\n# select \"みたらし団子\" \"select_label_1\" \"笹団子\" \"select_label_2\" \"特にありません\" \"select_label_3\"\n私の好きなものはご存知でしょうか？\n"
+	},
+	{
+		"ID": 6218,
+		"unitID": 2503221,
+		"questionID": 29503216,
+		"script": ";;日向ぼっこ,1\n# textflame 1 1\n# face %(unit_a)s \"happy\"\n# voice 550321 \"tiphereth_ca_0001\"\n@ティファレト\n主様、覚えていますか？\n\n# textflame 1 1\n@ティファレト\n以前、私が話した\n理想郷のこと\n\n# textflame 1 1\n@ティファレト\n力ある者が支配するのではなく、\n争いのない愛に満ちた世界を\n私は望むと…\n\n# textflame 1 1\n@ティファレト\nこの夕陽を見ていると、\n一層強く、そう思います\n\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 550321 \"tiphereth_ca_0031\"\n@ティファレト\n…ごめんなさい\n覚えてませんよね？\n\n# textflame 0 0\n@\nそんなことない！\nちゃんと覚えてるよ\nと答えるマスター\n\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 550321 \"tiphereth_ca_0004\"\n@ティファレト\nふふ、本当ですか？\nでは確かめさせて\nもらってもいいでしょうか？\n\n# textflame 0 0\n@\nイタズラっぽく微笑む\nティファレト\n\n# textflame 1 1\n@ティファレト\n覚えているかどうか、\nクイズにして出題させて頂きます\n\n# textflame 1 1\n@ティファレト\n主様、準備はいいですか？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私の趣味はご存知でしょうか？\n\n# se \"SE_0734\"\n# select \"日向ぼっこ\" \"select_label_1\" \"芝刈り\" \"select_label_2\" \"素潜り\" \"select_label_3\"\n私の趣味はご存知でしょうか？\n"
+	},
+	{
+		"ID": 6219,
+		"unitID": 2503221,
+		"questionID": 29503217,
+		"script": ";;Ａ型,3\n# textflame 1 1\n# face %(unit_a)s \"happy\"\n# voice 550321 \"tiphereth_ca_0001\"\n@ティファレト\n主様、覚えていますか？\n\n# textflame 1 1\n@ティファレト\n以前、私が話した\n理想郷のこと\n\n# textflame 1 1\n@ティファレト\n力ある者が支配するのではなく、\n争いのない愛に満ちた世界を\n私は望むと…\n\n# textflame 1 1\n@ティファレト\nこの夕陽を見ていると、\n一層強く、そう思います\n\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 550321 \"tiphereth_ca_0031\"\n@ティファレト\n…ごめんなさい\n覚えてませんよね？\n\n# textflame 0 0\n@\nそんなことない！\nちゃんと覚えてるよ\nと答えるマスター\n\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 550321 \"tiphereth_ca_0004\"\n@ティファレト\nふふ、本当ですか？\nでは確かめさせて\nもらってもいいでしょうか？\n\n# textflame 0 0\n@\nイタズラっぽく微笑む\nティファレト\n\n# textflame 1 1\n@ティファレト\n覚えているかどうか、\nクイズにして出題させて頂きます\n\n# textflame 1 1\n@ティファレト\n主様、準備はいいですか？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私の血液型はご存知でしょうか？\n\n# se \"SE_0734\"\n# select \"ＡＢ型\" \"select_label_1\" \"Ｂ型\" \"select_label_2\" \"Ａ型\" \"select_label_3\"\n私の血液型はご存知でしょうか？\n"
+	},
+	{
+		"ID": 6220,
+		"unitID": 2503221,
+		"questionID": 29503218,
+		"script": ";;エデン,2\n# textflame 1 1\n# face %(unit_a)s \"happy\"\n# voice 550321 \"tiphereth_ca_0001\"\n@ティファレト\n主様、覚えていますか？\n\n# textflame 1 1\n@ティファレト\n以前、私が話した\n理想郷のこと\n\n# textflame 1 1\n@ティファレト\n力ある者が支配するのではなく、\n争いのない愛に満ちた世界を\n私は望むと…\n\n# textflame 1 1\n@ティファレト\nこの夕陽を見ていると、\n一層強く、そう思います\n\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 550321 \"tiphereth_ca_0031\"\n@ティファレト\n…ごめんなさい\n覚えてませんよね？\n\n# textflame 0 0\n@\nそんなことない！\nちゃんと覚えてるよ\nと答えるマスター\n\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 550321 \"tiphereth_ca_0004\"\n@ティファレト\nふふ、本当ですか？\nでは確かめさせて\nもらってもいいでしょうか？\n\n# textflame 0 0\n@\nイタズラっぽく微笑む\nティファレト\n\n# textflame 1 1\n@ティファレト\n覚えているかどうか、\nクイズにして出題させて頂きます\n\n# textflame 1 1\n@ティファレト\n主様、準備はいいですか？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私の出身地はご存知でしょうか？\n\n# se \"SE_0734\"\n# select \"オデン\" \"select_label_1\" \"エデン\" \"select_label_2\" \"カデン\" \"select_label_3\"\n私の出身地はご存知でしょうか？\n"
+	},
+	{
+		"ID": 6221,
+		"unitID": 2503221,
+		"questionID": 29503219,
+		"script": ";;ガブリエル,3\n# textflame 1 1\n# face %(unit_a)s \"happy\"\n# voice 550321 \"tiphereth_ca_0001\"\n@ティファレト\n主様、覚えていますか？\n\n# textflame 1 1\n@ティファレト\n以前、私が話した\n理想郷のこと\n\n# textflame 1 1\n@ティファレト\n力ある者が支配するのではなく、\n争いのない愛に満ちた世界を\n私は望むと…\n\n# textflame 1 1\n@ティファレト\nこの夕陽を見ていると、\n一層強く、そう思います\n\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 550321 \"tiphereth_ca_0031\"\n@ティファレト\n…ごめんなさい\n覚えてませんよね？\n\n# textflame 0 0\n@\nそんなことない！\nちゃんと覚えてるよ\nと答えるマスター\n\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 550321 \"tiphereth_ca_0004\"\n@ティファレト\nふふ、本当ですか？\nでは確かめさせて\nもらってもいいでしょうか？\n\n# textflame 0 0\n@\nイタズラっぽく微笑む\nティファレト\n\n# textflame 1 1\n@ティファレト\n覚えているかどうか、\nクイズにして出題させて頂きます\n\n# textflame 1 1\n@ティファレト\n主様、準備はいいですか？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私が誓約を交わした天使ミカエルと\n同じ4大天使に数えられるのは？\n\n# se \"SE_0734\"\n# select \"タンブリエル\" \"select_label_1\" \"オロリエル\" \"select_label_2\" \"ガブリエル\" \"select_label_3\"\n私が誓約を交わした天使ミカエルと\n同じ4大天使に数えられるのは？\n"
+	},
+	{
+		"ID": 6222,
+		"unitID": 2503221,
+		"questionID": 29503220,
+		"script": ";;天秤,1\n# textflame 1 1\n# face %(unit_a)s \"happy\"\n# voice 550321 \"tiphereth_ca_0001\"\n@ティファレト\n主様、覚えていますか？\n\n# textflame 1 1\n@ティファレト\n以前、私が話した\n理想郷のこと\n\n# textflame 1 1\n@ティファレト\n力ある者が支配するのではなく、\n争いのない愛に満ちた世界を\n私は望むと…\n\n# textflame 1 1\n@ティファレト\nこの夕陽を見ていると、\n一層強く、そう思います\n\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 550321 \"tiphereth_ca_0031\"\n@ティファレト\n…ごめんなさい\n覚えてませんよね？\n\n# textflame 0 0\n@\nそんなことない！\nちゃんと覚えてるよ\nと答えるマスター\n\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 550321 \"tiphereth_ca_0004\"\n@ティファレト\nふふ、本当ですか？\nでは確かめさせて\nもらってもいいでしょうか？\n\n# textflame 0 0\n@\nイタズラっぽく微笑む\nティファレト\n\n# textflame 1 1\n@ティファレト\n覚えているかどうか、\nクイズにして出題させて頂きます\n\n# textflame 1 1\n@ティファレト\n主様、準備はいいですか？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私が誓約を交わした天使ミカエルが\n左手に持っていると\n云われているものは？\n\n# se \"SE_0734\"\n# select \"天秤\" \"select_label_1\" \"定規\" \"select_label_2\" \"ハサミ\" \"select_label_3\"\n私が誓約を交わした天使ミカエルが\n左手に持っていると\n云われているものは？\n"
+	},
+	{
+		"ID": 6223,
+		"unitID": 2503221,
+		"questionID": 29503221,
+		"script": ";;ライト・オブ・エデン,2\n# textflame 1 1\n# face %(unit_a)s \"happy\"\n# voice 550321 \"tiphereth_ca_0002\"\n@ティファレト\n意外でした\n\n# textflame 1 1\n@ティファレト\n夏とは、エネルギッシュで\n賑やかな季節だけだとばかり、\n思っていました\n\n# textflame 1 1\n@ティファレト\nでも……\n\n# textflame 0 0\n@\n海に目をやる彼女\n\n# textflame 1 1\n# voice 550321 \"tiphereth_ca_0004\"\n@ティファレト\nこのように、静かで\n美しい一面もあるのですね\n\n# textflame 1 1\n# eye %(unit_a)s \"close\"\n@ティファレト\n私は切に願います\n\n# textflame 1 1\n@ティファレト\nこの素晴らしい景色が、\nずっとずっと続いて欲しいと…\n\n# textflame 1 1\n# eye %(unit_a)s \"normal\"\n# voice 550321 \"tiphereth_ca_0001\"\n@ティファレト\n…そうだ、この美しき世界を\n共に守っていけるかどうか、\n願掛けをしませんか？\n\n# textflame 0 0\n@\nどういうこと？\nとマスターが首を傾げる\n\n# textflame 1 1\n@ティファレト\n私が出す問題に\n答えられるかどうか、です\n\n# textflame 0 0\n@\n面白そうだね\nやろう、\nとマスターが頷く\n\n# textflame 1 1\n# voice 550321 \"tiphereth_ca_0003\"\n@ティファレト\nはい、それではいきますよ\n主様、心の準備はいいですか？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私の覚えるスキルは\nご存知でしょうか？\n\n# se \"SE_0734\"\n# select \"ライト・オブ・オデン\" \"select_label_1\" \"ライト・オブ・エデン\" \"select_label_2\" \"ライト・オブ・カデン\" \"select_label_3\"\n私の覚えるスキルは\nご存知でしょうか？\n"
+	},
+	{
+		"ID": 6224,
+		"unitID": 2503221,
+		"questionID": 29503222,
+		"script": ";;誓宣『定められし救済』,3\n# textflame 1 1\n# face %(unit_a)s \"happy\"\n# voice 550321 \"tiphereth_ca_0002\"\n@ティファレト\n意外でした\n\n# textflame 1 1\n@ティファレト\n夏とは、エネルギッシュで\n賑やかな季節だけだとばかり、\n思っていました\n\n# textflame 1 1\n@ティファレト\nでも……\n\n# textflame 0 0\n@\n海に目をやる彼女\n\n# textflame 1 1\n# voice 550321 \"tiphereth_ca_0004\"\n@ティファレト\nこのように、静かで\n美しい一面もあるのですね\n\n# textflame 1 1\n# eye %(unit_a)s \"close\"\n@ティファレト\n私は切に願います\n\n# textflame 1 1\n@ティファレト\nこの素晴らしい景色が、\nずっとずっと続いて欲しいと…\n\n# textflame 1 1\n# eye %(unit_a)s \"normal\"\n# voice 550321 \"tiphereth_ca_0001\"\n@ティファレト\n…そうだ、この美しき世界を\n共に守っていけるかどうか、\n願掛けをしませんか？\n\n# textflame 0 0\n@\nどういうこと？\nとマスターが首を傾げる\n\n# textflame 1 1\n@ティファレト\n私が出す問題に\n答えられるかどうか、です\n\n# textflame 0 0\n@\n面白そうだね\nやろう、\nとマスターが頷く\n\n# textflame 1 1\n# voice 550321 \"tiphereth_ca_0003\"\n@ティファレト\nはい、それではいきますよ\n主様、心の準備はいいですか？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私の覚えるスキルは\nご存知でしょうか？\n\n# se \"SE_0734\"\n# select \"誓宣『定められし九歳』\" \"select_label_1\" \"誓宣『定められし休載』\" \"select_label_2\" \"誓宣『定められし救済』\" \"select_label_3\"\n私の覚えるスキルは\nご存知でしょうか？\n"
+	},
+	{
+		"ID": 6225,
+		"unitID": 2503221,
+		"questionID": 29503223,
+		"script": ";;光聖神の覇光,3\n# textflame 1 1\n# face %(unit_a)s \"happy\"\n# voice 550321 \"tiphereth_ca_0002\"\n@ティファレト\n意外でした\n\n# textflame 1 1\n@ティファレト\n夏とは、エネルギッシュで\n賑やかな季節だけだとばかり、\n思っていました\n\n# textflame 1 1\n@ティファレト\nでも……\n\n# textflame 0 0\n@\n海に目をやる彼女\n\n# textflame 1 1\n# voice 550321 \"tiphereth_ca_0004\"\n@ティファレト\nこのように、静かで\n美しい一面もあるのですね\n\n# textflame 1 1\n# eye %(unit_a)s \"close\"\n@ティファレト\n私は切に願います\n\n# textflame 1 1\n@ティファレト\nこの素晴らしい景色が、\nずっとずっと続いて欲しいと…\n\n# textflame 1 1\n# eye %(unit_a)s \"normal\"\n# voice 550321 \"tiphereth_ca_0001\"\n@ティファレト\n…そうだ、この美しき世界を\n共に守っていけるかどうか、\n願掛けをしませんか？\n\n# textflame 0 0\n@\nどういうこと？\nとマスターが首を傾げる\n\n# textflame 1 1\n@ティファレト\n私が出す問題に\n答えられるかどうか、です\n\n# textflame 0 0\n@\n面白そうだね\nやろう、\nとマスターが頷く\n\n# textflame 1 1\n# voice 550321 \"tiphereth_ca_0003\"\n@ティファレト\nはい、それではいきますよ\n主様、心の準備はいいですか？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私のリーダースキルは\nご存知でしょうか？\n\n# se \"SE_0734\"\n# select \"光聖神の箱\" \"select_label_1\" \"光聖神の加工\" \"select_label_2\" \"光聖神の覇光\" \"select_label_3\"\n私のリーダースキルは\nご存知でしょうか？\n"
+	},
+	{
+		"ID": 6226,
+		"unitID": 2503221,
+		"questionID": 29503224,
+		"script": ";;破魔戴天,2\n# textflame 1 1\n# face %(unit_a)s \"happy\"\n# voice 550321 \"tiphereth_ca_0002\"\n@ティファレト\n意外でした\n\n# textflame 1 1\n@ティファレト\n夏とは、エネルギッシュで\n賑やかな季節だけだとばかり、\n思っていました\n\n# textflame 1 1\n@ティファレト\nでも……\n\n# textflame 0 0\n@\n海に目をやる彼女\n\n# textflame 1 1\n# voice 550321 \"tiphereth_ca_0004\"\n@ティファレト\nこのように、静かで\n美しい一面もあるのですね\n\n# textflame 1 1\n# eye %(unit_a)s \"close\"\n@ティファレト\n私は切に願います\n\n# textflame 1 1\n@ティファレト\nこの素晴らしい景色が、\nずっとずっと続いて欲しいと…\n\n# textflame 1 1\n# eye %(unit_a)s \"normal\"\n# voice 550321 \"tiphereth_ca_0001\"\n@ティファレト\n…そうだ、この美しき世界を\n共に守っていけるかどうか、\n願掛けをしませんか？\n\n# textflame 0 0\n@\nどういうこと？\nとマスターが首を傾げる\n\n# textflame 1 1\n@ティファレト\n私が出す問題に\n答えられるかどうか、です\n\n# textflame 0 0\n@\n面白そうだね\nやろう、\nとマスターが頷く\n\n# textflame 1 1\n# voice 550321 \"tiphereth_ca_0003\"\n@ティファレト\nはい、それではいきますよ\n主様、心の準備はいいですか？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私が覚える付与スキルは\nご存知でしょうか？\n\n# se \"SE_0734\"\n# select \"不倶戴天\" \"select_label_1\" \"破魔戴天\" \"select_label_2\" \"浜退店\" \"select_label_3\"\n私が覚える付与スキルは\nご存知でしょうか？\n"
+	},
+	{
+		"ID": 6227,
+		"unitID": 2503221,
+		"questionID": 29503225,
+		"script": ";;救済への契り,3\n# textflame 1 1\n# face %(unit_a)s \"happy\"\n# voice 550321 \"tiphereth_ca_0002\"\n@ティファレト\n意外でした\n\n# textflame 1 1\n@ティファレト\n夏とは、エネルギッシュで\n賑やかな季節だけだとばかり、\n思っていました\n\n# textflame 1 1\n@ティファレト\nでも……\n\n# textflame 0 0\n@\n海に目をやる彼女\n\n# textflame 1 1\n# voice 550321 \"tiphereth_ca_0004\"\n@ティファレト\nこのように、静かで\n美しい一面もあるのですね\n\n# textflame 1 1\n# eye %(unit_a)s \"close\"\n@ティファレト\n私は切に願います\n\n# textflame 1 1\n@ティファレト\nこの素晴らしい景色が、\nずっとずっと続いて欲しいと…\n\n# textflame 1 1\n# eye %(unit_a)s \"normal\"\n# voice 550321 \"tiphereth_ca_0001\"\n@ティファレト\n…そうだ、この美しき世界を\n共に守っていけるかどうか、\n願掛けをしませんか？\n\n# textflame 0 0\n@\nどういうこと？\nとマスターが首を傾げる\n\n# textflame 1 1\n@ティファレト\n私が出す問題に\n答えられるかどうか、です\n\n# textflame 0 0\n@\n面白そうだね\nやろう、\nとマスターが頷く\n\n# textflame 1 1\n# voice 550321 \"tiphereth_ca_0003\"\n@ティファレト\nはい、それではいきますよ\n主様、心の準備はいいですか？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私が覚える付与スキルは\nご存知でしょうか？\n\n# se \"SE_0734\"\n# select \"救済へのチヂミ\" \"select_label_1\" \"救済へのもぎり\" \"select_label_2\" \"救済への契り\" \"select_label_3\"\n私が覚える付与スキルは\nご存知でしょうか？\n"
+	},
+	{
+		"ID": 6228,
+		"unitID": 2503221,
+		"questionID": 29503226,
+		"script": ";;誓約されし暁光の聖弾,3\n# textflame 1 1\n# face %(unit_a)s \"happy\"\n# voice 550321 \"tiphereth_ca_0002\"\n@ティファレト\n意外でした\n\n# textflame 1 1\n@ティファレト\n夏とは、エネルギッシュで\n賑やかな季節だけだとばかり、\n思っていました\n\n# textflame 1 1\n@ティファレト\nでも……\n\n# textflame 0 0\n@\n海に目をやる彼女\n\n# textflame 1 1\n# voice 550321 \"tiphereth_ca_0004\"\n@ティファレト\nこのように、静かで\n美しい一面もあるのですね\n\n# textflame 1 1\n# eye %(unit_a)s \"close\"\n@ティファレト\n私は切に願います\n\n# textflame 1 1\n@ティファレト\nこの素晴らしい景色が、\nずっとずっと続いて欲しいと…\n\n# textflame 1 1\n# eye %(unit_a)s \"normal\"\n# voice 550321 \"tiphereth_ca_0001\"\n@ティファレト\n…そうだ、この美しき世界を\n共に守っていけるかどうか、\n願掛けをしませんか？\n\n# textflame 0 0\n@\nどういうこと？\nとマスターが首を傾げる\n\n# textflame 1 1\n@ティファレト\n私が出す問題に\n答えられるかどうか、です\n\n# textflame 0 0\n@\n面白そうだね\nやろう、\nとマスターが頷く\n\n# textflame 1 1\n# voice 550321 \"tiphereth_ca_0003\"\n@ティファレト\nはい、それではいきますよ\n主様、心の準備はいいですか？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私の覚えるデュエルスキルは\nご存知でしょうか？\n\n# se \"SE_0734\"\n# select \"誓約されし暁光の聖杯\" \"select_label_1\" \"誓約されし暁光の祭壇\" \"select_label_2\" \"誓約されし暁光の聖弾\" \"select_label_3\"\n私の覚えるデュエルスキルは\nご存知でしょうか？\n"
+	},
+	{
+		"ID": 6229,
+		"unitID": 2503221,
+		"questionID": 29503227,
+		"script": ";;聖神の救済,2\n# textflame 1 1\n# face %(unit_a)s \"happy\"\n# voice 550321 \"tiphereth_ca_0002\"\n@ティファレト\n意外でした\n\n# textflame 1 1\n@ティファレト\n夏とは、エネルギッシュで\n賑やかな季節だけだとばかり、\n思っていました\n\n# textflame 1 1\n@ティファレト\nでも……\n\n# textflame 0 0\n@\n海に目をやる彼女\n\n# textflame 1 1\n# voice 550321 \"tiphereth_ca_0004\"\n@ティファレト\nこのように、静かで\n美しい一面もあるのですね\n\n# textflame 1 1\n# eye %(unit_a)s \"close\"\n@ティファレト\n私は切に願います\n\n# textflame 1 1\n@ティファレト\nこの素晴らしい景色が、\nずっとずっと続いて欲しいと…\n\n# textflame 1 1\n# eye %(unit_a)s \"normal\"\n# voice 550321 \"tiphereth_ca_0001\"\n@ティファレト\n…そうだ、この美しき世界を\n共に守っていけるかどうか、\n願掛けをしませんか？\n\n# textflame 0 0\n@\nどういうこと？\nとマスターが首を傾げる\n\n# textflame 1 1\n@ティファレト\n私が出す問題に\n答えられるかどうか、です\n\n# textflame 0 0\n@\n面白そうだね\nやろう、\nとマスターが頷く\n\n# textflame 1 1\n# voice 550321 \"tiphereth_ca_0003\"\n@ティファレト\nはい、それではいきますよ\n主様、心の準備はいいですか？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私の覚えるデュエルスキルは\nご存知でしょうか？\n\n# se \"SE_0734\"\n# select \"聖神の一振り\" \"select_label_1\" \"聖神の救済\" \"select_label_2\" \"聖神の息吹\" \"select_label_3\"\n私の覚えるデュエルスキルは\nご存知でしょうか？\n"
+	},
+	{
+		"ID": 6230,
+		"unitID": 2503221,
+		"questionID": 29503228,
+		"script": ";;聖なる翼,1\n# textflame 1 1\n# face %(unit_a)s \"happy\"\n# voice 550321 \"tiphereth_ca_0002\"\n@ティファレト\n意外でした\n\n# textflame 1 1\n@ティファレト\n夏とは、エネルギッシュで\n賑やかな季節だけだとばかり、\n思っていました\n\n# textflame 1 1\n@ティファレト\nでも……\n\n# textflame 0 0\n@\n海に目をやる彼女\n\n# textflame 1 1\n# voice 550321 \"tiphereth_ca_0004\"\n@ティファレト\nこのように、静かで\n美しい一面もあるのですね\n\n# textflame 1 1\n# eye %(unit_a)s \"close\"\n@ティファレト\n私は切に願います\n\n# textflame 1 1\n@ティファレト\nこの素晴らしい景色が、\nずっとずっと続いて欲しいと…\n\n# textflame 1 1\n# eye %(unit_a)s \"normal\"\n# voice 550321 \"tiphereth_ca_0001\"\n@ティファレト\n…そうだ、この美しき世界を\n共に守っていけるかどうか、\n願掛けをしませんか？\n\n# textflame 0 0\n@\nどういうこと？\nとマスターが首を傾げる\n\n# textflame 1 1\n@ティファレト\n私が出す問題に\n答えられるかどうか、です\n\n# textflame 0 0\n@\n面白そうだね\nやろう、\nとマスターが頷く\n\n# textflame 1 1\n# voice 550321 \"tiphereth_ca_0003\"\n@ティファレト\nはい、それではいきますよ\n主様、心の準備はいいですか？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私が覚えるスキルは\nご存知でしょうか？\n\n# se \"SE_0734\"\n# select \"聖なる翼\" \"select_label_1\" \"聖なる背中\" \"select_label_2\" \"聖なるくるぶし\" \"select_label_3\"\n私が覚えるスキルは\nご存知でしょうか？\n"
+	},
+	{
+		"ID": 6231,
+		"unitID": 2503221,
+		"questionID": 29503229,
+		"script": ";;ミカエルの守護,2\n# textflame 1 1\n# face %(unit_a)s \"happy\"\n# voice 550321 \"tiphereth_ca_0002\"\n@ティファレト\n意外でした\n\n# textflame 1 1\n@ティファレト\n夏とは、エネルギッシュで\n賑やかな季節だけだとばかり、\n思っていました\n\n# textflame 1 1\n@ティファレト\nでも……\n\n# textflame 0 0\n@\n海に目をやる彼女\n\n# textflame 1 1\n# voice 550321 \"tiphereth_ca_0004\"\n@ティファレト\nこのように、静かで\n美しい一面もあるのですね\n\n# textflame 1 1\n# eye %(unit_a)s \"close\"\n@ティファレト\n私は切に願います\n\n# textflame 1 1\n@ティファレト\nこの素晴らしい景色が、\nずっとずっと続いて欲しいと…\n\n# textflame 1 1\n# eye %(unit_a)s \"normal\"\n# voice 550321 \"tiphereth_ca_0001\"\n@ティファレト\n…そうだ、この美しき世界を\n共に守っていけるかどうか、\n願掛けをしませんか？\n\n# textflame 0 0\n@\nどういうこと？\nとマスターが首を傾げる\n\n# textflame 1 1\n@ティファレト\n私が出す問題に\n答えられるかどうか、です\n\n# textflame 0 0\n@\n面白そうだね\nやろう、\nとマスターが頷く\n\n# textflame 1 1\n# voice 550321 \"tiphereth_ca_0003\"\n@ティファレト\nはい、それではいきますよ\n主様、心の準備はいいですか？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私が覚える付替スキルは\nご存知でしょうか？\n\n# se \"SE_0734\"\n# select \"ミカエルの翼\" \"select_label_1\" \"ミカエルの守護\" \"select_label_2\" \"ミカエルの茶瓶\" \"select_label_3\"\n私が覚える付替スキルは\nご存知でしょうか？\n"
+	},
+	{
+		"ID": 6232,
+		"unitID": 2503221,
+		"questionID": 29503230,
+		"script": ";;聖神の遠見,1\n# textflame 1 1\n# face %(unit_a)s \"happy\"\n# voice 550321 \"tiphereth_ca_0002\"\n@ティファレト\n意外でした\n\n# textflame 1 1\n@ティファレト\n夏とは、エネルギッシュで\n賑やかな季節だけだとばかり、\n思っていました\n\n# textflame 1 1\n@ティファレト\nでも……\n\n# textflame 0 0\n@\n海に目をやる彼女\n\n# textflame 1 1\n# voice 550321 \"tiphereth_ca_0004\"\n@ティファレト\nこのように、静かで\n美しい一面もあるのですね\n\n# textflame 1 1\n# eye %(unit_a)s \"close\"\n@ティファレト\n私は切に願います\n\n# textflame 1 1\n@ティファレト\nこの素晴らしい景色が、\nずっとずっと続いて欲しいと…\n\n# textflame 1 1\n# eye %(unit_a)s \"normal\"\n# voice 550321 \"tiphereth_ca_0001\"\n@ティファレト\n…そうだ、この美しき世界を\n共に守っていけるかどうか、\n願掛けをしませんか？\n\n# textflame 0 0\n@\nどういうこと？\nとマスターが首を傾げる\n\n# textflame 1 1\n@ティファレト\n私が出す問題に\n答えられるかどうか、です\n\n# textflame 0 0\n@\n面白そうだね\nやろう、\nとマスターが頷く\n\n# textflame 1 1\n# voice 550321 \"tiphereth_ca_0003\"\n@ティファレト\nはい、それではいきますよ\n主様、心の準備はいいですか？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私の覚えるデュエルスキルは\nご存知でしょうか？\n\n# se \"SE_0734\"\n# select \"聖神の遠見\" \"select_label_1\" \"聖神の遠近\" \"select_label_2\" \"聖神の遠憲\" \"select_label_3\"\n私の覚えるデュエルスキルは\nご存知でしょうか？\n"
+	},
+	{
+		"ID": 6233,
+		"unitID": 2503221,
+		"questionID": 29503231,
+		"script": ";;アダムとイブが暮らしていた楽園,3\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 550321 \"tiphereth_ca_0001\"\n@ティファレト\n今日は誘って頂き、\nありがとうございました\n\n# textflame 1 1\n@ティファレト\n主様の優しさ、愛情の深さ…\nこの胸に確かに伝わりました\n\n# textflame 1 1\n@ティファレト\nなので、今日のこの日に、\n誓約をさせて頂きたく思います\n\n# textflame 1 1\n@ティファレト\n今から出す問題に\n正解して下さったら…\n\n# textflame 1 1\n@ティファレト\n私は身も心も、\n永遠に主様に捧げることを誓います\n\n# textflame 1 1\n# voice 550321 \"tiphereth_ca_0004\"\n@ティファレト\nでは、行きますよ\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私の出身地「エデン」といえば？\n\n# se \"SE_0734\"\n# select \"仏様が悟りを開いた場所\" \"select_label_1\" \"ショッピングモール\" \"select_label_2\" \"アダムとイブが暮らしていた楽園\" \"select_label_3\"\n私の出身地「エデン」といえば？\n"
+	},
+	{
+		"ID": 6234,
+		"unitID": 2503221,
+		"questionID": 29503232,
+		"script": ";;October,1\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 550321 \"tiphereth_ca_0001\"\n@ティファレト\n今日は誘って頂き、\nありがとうございました\n\n# textflame 1 1\n@ティファレト\n主様の優しさ、愛情の深さ…\nこの胸に確かに伝わりました\n\n# textflame 1 1\n@ティファレト\nなので、今日のこの日に、\n誓約をさせて頂きたく思います\n\n# textflame 1 1\n@ティファレト\n今から出す問題に\n正解して下さったら…\n\n# textflame 1 1\n@ティファレト\n私は身も心も、\n永遠に主様に捧げることを誓います\n\n# textflame 1 1\n# voice 550321 \"tiphereth_ca_0004\"\n@ティファレト\nでは、行きますよ\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私の誕生月を英語で言うと…？\n\n# se \"SE_0734\"\n# select \"October\" \"select_label_1\" \"May\" \"select_label_2\" \"September\" \"select_label_3\"\n私の誕生月を英語で言うと…？\n"
+	},
+	{
+		"ID": 6235,
+		"unitID": 2503221,
+		"questionID": 29503233,
+		"script": ";;Tiphereth,1\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 550321 \"tiphereth_ca_0001\"\n@ティファレト\n今日は誘って頂き、\nありがとうございました\n\n# textflame 1 1\n@ティファレト\n主様の優しさ、愛情の深さ…\nこの胸に確かに伝わりました\n\n# textflame 1 1\n@ティファレト\nなので、今日のこの日に、\n誓約をさせて頂きたく思います\n\n# textflame 1 1\n@ティファレト\n今から出す問題に\n正解して下さったら…\n\n# textflame 1 1\n@ティファレト\n私は身も心も、\n永遠に主様に捧げることを誓います\n\n# textflame 1 1\n# voice 550321 \"tiphereth_ca_0004\"\n@ティファレト\nでは、行きますよ\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私の名、ティファレトのスペルは？\n\n# se \"SE_0734\"\n# select \"Tiphereth\" \"select_label_1\" \"Keter\" \"select_label_2\" \"Chokhmah\" \"select_label_3\"\n私の名、ティファレトのスペルは？\n"
+	},
+	{
+		"ID": 6236,
+		"unitID": 2503221,
+		"questionID": 29503234,
+		"script": ";;ピサール,3\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 550321 \"tiphereth_ca_0001\"\n@ティファレト\n今日は誘って頂き、\nありがとうございました\n\n# textflame 1 1\n@ティファレト\n主様の優しさ、愛情の深さ…\nこの胸に確かに伝わりました\n\n# textflame 1 1\n@ティファレト\nなので、今日のこの日に、\n誓約をさせて頂きたく思います\n\n# textflame 1 1\n@ティファレト\n今から出す問題に\n正解して下さったら…\n\n# textflame 1 1\n@ティファレト\n私は身も心も、\n永遠に主様に捧げることを誓います\n\n# textflame 1 1\n# voice 550321 \"tiphereth_ca_0004\"\n@ティファレト\nでは、行きますよ\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私と誕生月が同じなのは\n次のうち誰でしょうか？\n\n# se \"SE_0734\"\n# select \"アダマス\" \"select_label_1\" \"フライクーゲル\" \"select_label_2\" \"ピサール\" \"select_label_3\"\n私と誕生月が同じなのは\n次のうち誰でしょうか？\n"
+	},
+	{
+		"ID": 6237,
+		"unitID": 2503221,
+		"questionID": 29503235,
+		"script": ";;Libra,2\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 550321 \"tiphereth_ca_0001\"\n@ティファレト\n今日は誘って頂き、\nありがとうございました\n\n# textflame 1 1\n@ティファレト\n主様の優しさ、愛情の深さ…\nこの胸に確かに伝わりました\n\n# textflame 1 1\n@ティファレト\nなので、今日のこの日に、\n誓約をさせて頂きたく思います\n\n# textflame 1 1\n@ティファレト\n今から出す問題に\n正解して下さったら…\n\n# textflame 1 1\n@ティファレト\n私は身も心も、\n永遠に主様に捧げることを誓います\n\n# textflame 1 1\n# voice 550321 \"tiphereth_ca_0004\"\n@ティファレト\nでは、行きますよ\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私の星座を英語で言うと？\n\n# se \"SE_0734\"\n# select \"Capricorn\" \"select_label_1\" \"Libra\" \"select_label_2\" \"Taurus \" \"select_label_3\"\n私の星座を英語で言うと？\n"
+	},
+	{
+		"ID": 6238,
+		"unitID": 2503221,
+		"questionID": 29503236,
+		"script": ";;知性,1\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 550321 \"tiphereth_ca_0001\"\n@ティファレト\n今日は誘って頂き、\nありがとうございました\n\n# textflame 1 1\n@ティファレト\n主様の優しさ、愛情の深さ…\nこの胸に確かに伝わりました\n\n# textflame 1 1\n@ティファレト\nなので、今日のこの日に、\n誓約をさせて頂きたく思います\n\n# textflame 1 1\n@ティファレト\n今から出す問題に\n正解して下さったら…\n\n# textflame 1 1\n@ティファレト\n私は身も心も、\n永遠に主様に捧げることを誓います\n\n# textflame 1 1\n# voice 550321 \"tiphereth_ca_0004\"\n@ティファレト\nでは、行きますよ\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私が誓約を交わした天使ミカエルは\n何を司る天使でしょうか？\n\n# se \"SE_0734\"\n# select \"知性\" \"select_label_1\" \"暴力\" \"select_label_2\" \"運\" \"select_label_3\"\n私が誓約を交わした天使ミカエルは\n何を司る天使でしょうか？\n"
+	},
+	{
+		"ID": 6239,
+		"unitID": 2503221,
+		"questionID": 29503237,
+		"script": ";;火,2\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 550321 \"tiphereth_ca_0001\"\n@ティファレト\n今日は誘って頂き、\nありがとうございました\n\n# textflame 1 1\n@ティファレト\n主様の優しさ、愛情の深さ…\nこの胸に確かに伝わりました\n\n# textflame 1 1\n@ティファレト\nなので、今日のこの日に、\n誓約をさせて頂きたく思います\n\n# textflame 1 1\n@ティファレト\n今から出す問題に\n正解して下さったら…\n\n# textflame 1 1\n@ティファレト\n私は身も心も、\n永遠に主様に捧げることを誓います\n\n# textflame 1 1\n# voice 550321 \"tiphereth_ca_0004\"\n@ティファレト\nでは、行きますよ\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私が誓約を交わした天使ミカエルは\n何を司る天使でしょうか？\n\n# se \"SE_0734\"\n# select \"水\" \"select_label_1\" \"火\" \"select_label_2\" \"闇\" \"select_label_3\"\n私が誓約を交わした天使ミカエルは\n何を司る天使でしょうか？\n"
+	},
+	{
+		"ID": 6240,
+		"unitID": 2503221,
+		"questionID": 29503238,
+		"script": ";;ミネルヴァ,1\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 550321 \"tiphereth_ca_0001\"\n@ティファレト\n今日は誘って頂き、\nありがとうございました\n\n# textflame 1 1\n@ティファレト\n主様の優しさ、愛情の深さ…\nこの胸に確かに伝わりました\n\n# textflame 1 1\n@ティファレト\nなので、今日のこの日に、\n誓約をさせて頂きたく思います\n\n# textflame 1 1\n@ティファレト\n今から出す問題に\n正解して下さったら…\n\n# textflame 1 1\n@ティファレト\n私は身も心も、\n永遠に主様に捧げることを誓います\n\n# textflame 1 1\n# voice 550321 \"tiphereth_ca_0004\"\n@ティファレト\nでは、行きますよ\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私と同じ血液型なのは？\n\n# se \"SE_0734\"\n# select \"ミネルヴァ\" \"select_label_1\" \"ロンギヌス\" \"select_label_2\" \"エルキュール\" \"select_label_3\"\n私と同じ血液型なのは？\n"
+	},
+	{
+		"ID": 6241,
+		"unitID": 2503221,
+		"questionID": 29503239,
+		"script": ";;シユウ,2\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 550321 \"tiphereth_ca_0001\"\n@ティファレト\n今日は誘って頂き、\nありがとうございました\n\n# textflame 1 1\n@ティファレト\n主様の優しさ、愛情の深さ…\nこの胸に確かに伝わりました\n\n# textflame 1 1\n@ティファレト\nなので、今日のこの日に、\n誓約をさせて頂きたく思います\n\n# textflame 1 1\n@ティファレト\n今から出す問題に\n正解して下さったら…\n\n# textflame 1 1\n@ティファレト\n私は身も心も、\n永遠に主様に捧げることを誓います\n\n# textflame 1 1\n# voice 550321 \"tiphereth_ca_0004\"\n@ティファレト\nでは、行きますよ\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私と違う血液型なのは\n誰かわかりますか？\n\n# se \"SE_0734\"\n# select \"アスカロン\" \"select_label_1\" \"シユウ\" \"select_label_2\" \"フォルカス\" \"select_label_3\"\n私と違う血液型なのは\n誰かわかりますか？\n"
+	},
+	{
+		"ID": 6242,
+		"unitID": 2503221,
+		"questionID": 29503240,
+		"script": ";;アフロディーテ,1\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 550321 \"tiphereth_ca_0001\"\n@ティファレト\n今日は誘って頂き、\nありがとうございました\n\n# textflame 1 1\n@ティファレト\n主様の優しさ、愛情の深さ…\nこの胸に確かに伝わりました\n\n# textflame 1 1\n@ティファレト\nなので、今日のこの日に、\n誓約をさせて頂きたく思います\n\n# textflame 1 1\n@ティファレト\n今から出す問題に\n正解して下さったら…\n\n# textflame 1 1\n@ティファレト\n私は身も心も、\n永遠に主様に捧げることを誓います\n\n# textflame 1 1\n# voice 550321 \"tiphereth_ca_0004\"\n@ティファレト\nでは、行きますよ\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私と同じ誕生月なのは\n誰かわかりますか？\n\n# se \"SE_0734\"\n# select \"アフロディーテ\" \"select_label_1\" \"フランキスカ\" \"select_label_2\" \"アロンダイト\" \"select_label_3\"\n私と同じ誕生月なのは\n誰かわかりますか？\n"
+	},
+	{
+		"ID": 6243,
+		"unitID": 2503221,
+		"questionID": 29503241,
+		"script": "\n;;私,2\n# se \"SE_0734\"\n# select \"ウチ\" \"select_label_1\" \"私\" \"select_label_2\" \"ワイ\" \"select_label_3\"\nティファレトの一人称は\n次のうちどれ？\n"
+	},
+	{
+		"ID": 6244,
+		"unitID": 2503221,
+		"questionID": 29503242,
+		"script": "\n;;主様,2\n# se \"SE_0734\"\n# select \"キミ\" \"select_label_1\" \"主様\" \"select_label_2\" \"ユー\" \"select_label_3\"\nティファレトは、あなたのこと\nなんて呼んでる？\n"
+	},
+	{
+		"ID": 6245,
+		"unitID": 2503221,
+		"questionID": 29503243,
+		"script": "\n;;92cm,1\n# se \"SE_0734\"\n# select \"92cm\" \"select_label_1\" \"90cm\" \"select_label_2\" \"87cm\" \"select_label_3\"\nティファレトの\nバストサイズがどのくらいか\n知ってる？\n"
+	},
+	{
+		"ID": 6246,
+		"unitID": 2503221,
+		"questionID": 29503244,
+		"script": "\n;;58cm,1\n# se \"SE_0734\"\n# select \"58cm\" \"select_label_1\" \"60cm\" \"select_label_2\" \"62cm\" \"select_label_3\"\nティファレトの\nウエストサイズがどのくらいか\n知ってる？\n"
+	},
+	{
+		"ID": 6247,
+		"unitID": 2503221,
+		"questionID": 29503245,
+		"script": "\n;;94cm,2\n# se \"SE_0734\"\n# select \"85cm\" \"select_label_1\" \"94cm\" \"select_label_2\" \"86cm\" \"select_label_3\"\nティファレトの\nヒップサイズがどのくらいか\n知ってる？\n"
+	},
+	{
+		"ID": 6248,
+		"unitID": 2503221,
+		"questionID": 29503246,
+		"script": "\n;;53ｋｇ,1\n# se \"SE_0734\"\n# select \"53ｋｇ\" \"select_label_1\" \"51kg\" \"select_label_2\" \"52kg\" \"select_label_3\"\nティファレトの体重は\n次のうちどれ？\n"
+	},
+	{
+		"ID": 6249,
+		"unitID": 2503221,
+		"questionID": 29503247,
+		"script": "\n;;244,3\n# se \"SE_0734\"\n# select \"255\" \"select_label_1\" \"266\" \"select_label_2\" \"244\" \"select_label_3\"\nティファレトの\nバスト＋ウエスト＋ヒップは\nいくつかわかる？\n"
+	},
+	{
+		"ID": 6250,
+		"unitID": 2503221,
+		"questionID": 29503248,
+		"script": "\n;;金色,2\n# se \"SE_0734\"\n# select \"赤色\" \"select_label_1\" \"金色\" \"select_label_2\" \"シルバー\" \"select_label_3\"\nティファレトの髪の色は\n次のうちどれ？\n"
+	},
+	{
+		"ID": 6251,
+		"unitID": 2503221,
+		"questionID": 29503249,
+		"script": "\n;;5位,3\n# se \"SE_0734\"\n# select \"３位\" \"select_label_1\" \"１１位\" \"select_label_2\" \"5位\" \"select_label_3\"\nティファレトは\n第６回人気投票で\n何位だったかわかる？\n"
+	},
+	{
+		"ID": 6252,
+		"unitID": 2503221,
+		"questionID": 29503250,
+		"script": "\n;;須田裕莉香,1\n# se \"SE_0734\"\n# select \"須田裕莉香\" \"select_label_1\" \"近藤玲奈\" \"select_label_2\" \"鷲見友美ジェナ\" \"select_label_3\"\nティファレトの声優は誰？\n"
+	}
+]

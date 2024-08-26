@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 110204001,
+		"script": ";;------------------------------------------------------------\n;;背景：平原\n;;ステージ1：211002040\n;;戦闘前会話\n;;------------------------------------------------------------\n# script \"lisp\"\n# background \"plain\"\n# bgmfile \"bgm400_1\" \"BgmIntegralNoahEvent\" 0\n# body 103611\n# pos 103611 2\n# scale 103611 0.8 0\n# body 196\n# pos 196 4\n# scale 196 0.8 0\n# layer 103611 1\n# layer 196 2\n# mask 103611 off\n# mask 196 off\n# textwindow \"nomal\"\n# face 103611 \"usual\"\n# face 196 \"normal\"\n# textflame 1 1\n# textboxarrow 0 1\n# voice 1036 \"ragnarok_0001\"\n@ラグナロク\nそれじゃ、改めて説明していくわね\n\n# textboxarrow 0 3\n# voice 9943 \"almace_navikan_0004\"\n@アルマス\n詳しく話していくから\n絶・集中して聞きなさい！\n\n# textboxarrow 0 1\n@ラグナロク\n前にも言ったと思うけど、\nユニット経験値が一定値貯まると\nレベルアップしてより強く成長できるわ\n\n# textboxarrow 0 3\n@アルマス\n難易度の高いクエストに挑みたいなら\nレベルを上げるのが近道ってことね\n\n# face 196 \"angry\"\n# textboxarrow 0 3\n@アルマス\n何事も実戦が一番！\n行くわよ！"
+	}
+]

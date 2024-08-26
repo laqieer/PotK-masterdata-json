@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 3101310,
+		"script": "# script \"lisp\"\n# background \"town\"\n# bgm \"bgm001\" 0\n# body 810004\n# mask 810004 off\n# pos 810004 3\n# textflame 1 1\n# textboxarrow 0 2\n@異族の大将\n最近思ってんけどさ、\n普通に戦ったら俺だいたい\n負けてるくない？\n\n# voice 9994 \"izokutaisho_0013\"\n# chara 810004\n@異族の大将\nやから…今回は…\nかけっこで勝負じゃ～！\n\n# jump 810004\n# chara 810004\n@異族の大将\n俺があっこのゴールについたら\n俺の勝ちな！\n文句は受け付けへん。\n\n# chara 810004\n@異族の大将\n元陸上部の力\nみせつけたるわ！\nじゃあ位置について…\n\n# voice 9994 \"izokutaisho_0014\"\n# fillrect \"blue\" 1.0 0 0.3\n# chara 810004\n@異族の大将\nあ、その前に…\n足遅くなる呪いかけたる！\nこれ最近覚えてん。\n\n# voice 9994 \"izokutaisho_0015\"\n# fillrect \"blue\" 1.0 0.3 0\n# chara 810004\n@異族の大将\n思うように動かれへんやろ？あれ、\n全然効いてないやつもおるっぽいけど\nまぁええわ！今回は勝てそうや！！"
+	}
+]

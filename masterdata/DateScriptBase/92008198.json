@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 92008198,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# face %(unit_a)s \"sad\"\n# fadein \"black\" 0.5\n# textflame 1 1\n# se \"SE_0733\"\n@ペルーン\n…あ\n\n@ペルーン\nそっかぁ…\n\n# voice 2008 \"perun_0031\"\n@ペルーン\n急に変な質問しちゃって…\nごめんね、マスター\n\n@ペルーン\nえっと、植物の問題のほうが\nもしかしてよかったかなぁ？\n\n# voice 2008 \"perun_0004\"\n# face %(unit_a)s \"smile\"\n@ペルーン\nそうじゃなかったら\nえっとー、\nおじいちゃんの豆知識とか？\n\n# textflame 0 0\n@\n彼女は\n必死に微妙な空気をかえようと\n笑ってくれた\n\n@\nデート中のはずなのに…\nこんな痛々しく\n気を遣わせちゃうなんて…\n\n@\n…………\n\n@\n笑顔でずっと居て欲しいから\n彼女のことちゃんと\n知っておかないとな…\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 500611,
+		"script": ";;A 寝坊しました:中当たり\n;;B つまみ食いしました:小あたり\n;;C のぞき見しました:大当たり\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_church\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 0 0\n@\nマスターは\nメギドを誘って\n教会へやってきた\n\n# eye %(unit_a)s \"close\"\n# voice 5006 \"megido_0022\"\n# textflame 1 1\n@メギド\n貴方が許されたいと願うならば\nここで懺悔なさい\n\n# eye %(unit_a)s \"normal\"\n# voice 5006 \"megido_0004\"\n# textflame 1 1\n@メギド\n…私がどうであれ\n神は貴方を許すでしょう\n\n# select \"寝坊しました\" \"select_label_01\" \"つまみ食いしました\" \"select_label_02\" \"のぞき見しました\" \"select_label_03\"\n…私がどうであれ\n神は貴方を許すでしょう\n\n# label \"select_label_01\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_02\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_03\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_end\"\n# waitandnext 0.1\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 4101423,
+		"script": ";;A\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_drive\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# face %(unit_a)s \"surprise\"\n# textflame 1 1\n@ティルフィング\nほんとですかっ？\nでもすごくむずかしそうですよね…\n\n# voice 210144 \"tyrufing_lo_0028\"\n@ティルフィング\nやることがいっぱいあって…\nこんがらがっちゃいそうです\n\n@ティルフィング\n…えっ？　そ、そんな！\nかしこくなんてないです、私！\n\n@ティルフィング\nそう…ですか？\nお兄さんには私が、\nそんなりっぱにみえてるんですね？\n\n# face %(unit_a)s \"usual\"\n# voice 210144 \"tyrufing_lo_0004\"\n@ティルフィング\nそういわれたら、\nなんだかできるきが\nしてきました…！\n\n# face %(unit_a)s \"normal\"\n# voice 210144 \"tyrufing_lo_0005\"\n@ティルフィング\n…えへへっ♪\nお兄さんはいつもこうして、\n私をゆうきづけてくれますね！\n\n@ティルフィング\nお兄さんといっしょなら…\nどんなことでも\nできちゃいそうです！\n\n@ティルフィング\nこれからもずっと\nいっしょにいさせてくださいねっ！\n\n# textflame 0 0\n@\n前を向いたまま\nもちろん、と\n強くうなずくマスター\n\n@\nゆるやかな二人のドライブは、\nティルフィングが眠るまで\n続いたのだった…\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

@@ -1,0 +1,26 @@
+[
+	{
+		"ID": 233,
+		"unitID": 2200211,
+		"scriptID": "kaerimichi",
+		"script": "マスター、本日の任務は完了ですか？\nアイムールの監視任務は\nマスターが家に帰るまでのはずです\n\n@アイムール\nマスターが家に帰るまで\n側で護衛をさせてもらいます"
+	},
+	{
+		"ID": 248,
+		"unitID": 2200211,
+		"scriptID": "kaeru",
+		"script": "任務完了しました\nアイムールは失礼します"
+	},
+	{
+		"ID": 263,
+		"unitID": 2200211,
+		"scriptID": "kaeru_ok",
+		"script": "@%(unitName:unit_a)s\n承知しました\nこのアイムール、\nご一緒させていただきます"
+	},
+	{
+		"ID": 278,
+		"unitID": 2200211,
+		"scriptID": "kaeru_ng",
+		"script": "@%(unitName:unit_a)s\nいえ、任務は\n完遂しましたので、\n本日はこれにて失礼します"
+	}
+]

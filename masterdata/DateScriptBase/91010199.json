@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 91010199,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# se \"SE_0732\"\n# voice 1010 \"furagaraha_0004\"\n@フラガラッハ\nええ、それで正解です！\n\n@フラガラッハ\n良かったですわ\nわかってくださらないのでは…と\n少し、心配してましたの\n\n# voice 1010 \"furagaraha_0004\"\n@フラガラッハ\n流石は、マスターですわ\n\n@フラガラッハ\nわたしのことを\nしっかり見ていて\nくださっていたなんて…\n\n@フラガラッハ\nこれからも\nよろしくお願い致しますわ\n\n# textflame 0 0\n@\nフラガラッハは\n微笑みながらこちらを\n見上げて来た\n\n@\nどうやら\n期待を裏切らずに済んだみたいだ\n\n@\nフラガラッハの嬉しそうな微笑みで\nマスターは二人の絆が\n深まったのを実感した…\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

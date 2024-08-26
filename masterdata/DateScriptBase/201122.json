@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 201122,
+		"script": ";;B 印鑑はお忘れないですか？\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_room\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n# voice 2011 \"Wazra_0003\"\n@ワズラ\nありません\nですが誤解なさらずに\n\n@ワズラ\n今回は…\nこれが最善と判断しました！\n\n# textflame 0 0\n@\nワズラは素早く\n懐からなにかを取り出した！\n\n# textflame 1 1\n@ワズラ\nマイ朱肉…\nそう、つまり拇印です\n\n# textflame 0 0\n@\nマスターは、思う\nなんとなく乗ってみたけど\nあとに引けなくなった\n\n# textflame 0 0\n@\n…本契約って、なんだ！！\n\n# textflame 1 1\n# eye %(unit_a)s \"close\"\n@ワズラ\nさまざまな契約を\n交わしてきましたが…\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"sad\"\n# voice 2011 \"Wazra_0015\"\n@ワズラ\n私とて緊張しています\n一世一代の契約ですから…\n\n# face %(unit_a)s \"angry\"\n@ワズラ\nでも覚悟は決めてきました\nあなたが責任を取ってくれるという\n気概を見せてくれたのですから…！\n\n# face %(unit_a)s \"smile\"\n# voice 2011 \"Wazra_0036\"\n@ワズラ\nふつつかものですが…\nどうぞよろしくお願いいたします！\n\n# textflame 0 0\n@\n人差し指を突き出す彼女の顔は\n指先を染めたインクよりも\n真っ赤だったーー\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

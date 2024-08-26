@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 293031198,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# se \"SE_0733\"\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n@カシウス\nおやかたしゃま…\n\n# voice 230312 \"cassius_lo_0028\"\n@カシウス\nふせいかい\n\n@カシウス\nおやかたしゃまでも、\nえんかんをくずすことは\nできないみたいね…\n\n# voice 230312 \"cassius_lo_0019\"\n@カシウス\nすこし…さびしいな\n\n@カシウス\nもうすこし、\nきょうというえんかんを\nつづけたかったのに…\n\n# textflame 0 0\n@\n言っていることは難しいが、\n彼女が悲しんでいるのは分かる\n\n@\nマスターは正解できなかったことを、\n深く後悔していた…\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

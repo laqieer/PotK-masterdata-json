@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 95021299,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# se \"SE_0732\"\n# voice 5021 \"sefer_0042\"\n@セファー\n大正解です！\n\n@セファー\n流石、マスターですね\n情報収集にも余念がないとは…\n\n@セファー\nいえ、とても\n嬉しいですよ\n\n# voice 5021 \"sefer_0005\"\n@セファー\nこれからも、わたくしを\nきちんと見ていてくださいね？\n\n# textflame 1 1\n@\nセファーは嬉しそうに\nまるを書くような動きで\n手帳になにか書きこんだ\n\n@\nセファーの喜ぶ姿を見て\nマスターは彼女との絆が\nまた深まったのを実感した\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

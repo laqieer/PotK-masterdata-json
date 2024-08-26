@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 303125,
+		"script": ";;青はずれ\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_room\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# face %(unit_a)s \"normal\"\n# textflame 0 0\n@\nデートの帰り…\nマスターは\nカシウスの部屋へと誘われた\n\n# textflame 0 0\n@\nカシウスいわく、\n料理の練習をするから\n味見役をしてほしいという\n\n# face %(unit_a)s \"normal\"\n# voice 230311 \"cassius_ge_0001\"\n# textflame 1 1\n@カシウス\nはい、御館様\nあーん…\n\n# textflame 0 0\n@\n少し照れながらも\n口をあけるマスター\n\n# textflame 1 1\n@カシウス\nどう…？\n前より良い味に\nできていると思うけれど…\n\n# voice 230311 \"cassius_ge_0004\"\n@カシウス\n…美味しい？\nそれはよかったわ…\n\n# voice 230311 \"cassius_ge_0022\"\n@カシウス\nえ？　最近はみるみる\n美味しくなってて\nすごいって…？\n\n@カシウス\nそう…\nだとしたら、嬉しい…\n\n# textflame 0 0\n@\nさすが、料理上手だね\nとカシウスを褒めるマスター\n\n# textflame 1 1\n@カシウス\n料理上手…？\nそんな風に言われたのは、初めて…\n\n@カシウス\nこの気持ち…\nきっと、誇らしいという\n感情なのね…\n\n@カシウス\nこれからも、御館様に\n喜んでもらえたら…\n\n@カシウス\nわたしももっと\n誇らしくなれる…\nそんな予感がするの\n\n# face %(unit_a)s \"smile\"\n# voice 230311 \"cassius_ge_0004\"\n@カシウス\nだから…期待していて？\n\n# textflame 0 0\n@\nそれから、\nカシウスは趣味の料理に\nさらに精を出すようになるのだった…\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 500121,
+		"script": ";;A 助手席の美女はステータス (中当たり)\n;;B 風になりたくなった (小あたり)\n;;C 君を逃さないため (大当たり)\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_drive\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 0 0\n@\nマスターはケラウノスを\nドライブに連れ出した\n\n# face %(unit_a)s \"smile\"\n# voice 5001 \"keraunosu_0020\"\n# textflame 1 1\n@ケラウノス\nいいね～夜のドライブ♪\nちょっとアダルトな感じ！\n\n# textflame 1 1\n@ケラウノス\n珍しく男前なお誘いで\nびっくりしちゃったよ\nどうしたの？\n\n# select \"助手席の美女はステータス\" \"select_label_01\" \"風になりたくなった\" \"select_label_02\" \"君を逃さないため\" \"select_label_03\"\n珍しく男前なお誘いで\nびっくりしちゃったよ\nどうしたの？\n\n# label \"select_label_01\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_02\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_03\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_end\"\n# waitandnext 0.1\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

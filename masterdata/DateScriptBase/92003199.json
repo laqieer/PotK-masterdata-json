@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 92003199,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# voice 2003 \"loveryus_0041\"\n# se \"SE_0732\"\n@ラブリュス\nさっすがマスター！\n\n# textflame 1 1\n@ラブリュス\nラブリュスちゃんのこと…\nちゃんと分かってるんだね♪\n\n# voice 2003 \"loveryus_0030\"\n# textflame 1 1\n@ラブリュス\n嬉しい…\nありがとうね、マスター♪\n\n# textflame 0 0\n@\nクイズに正解しただけで、\n満面の笑みを浮かべ\n嬉しそうなラブリュス\n\n# textflame 0 0\n@\nそんな顔を見ているだけで、\nこちらまで嬉しくなる\n\n# textflame 1 1\n@ラブリュス\nふふっ…\nほら、早く帰ろう♪\n\n# textflame 0 0\n@\n彼女がマスターの手を握り、\nニコッと笑いかけてくる\n\n# textflame 0 0\n@\n彼女との絆が\nまた深まったのを実感した…\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

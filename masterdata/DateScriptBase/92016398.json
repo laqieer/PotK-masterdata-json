@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 92016398,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# face %(unit_a)s \"sad\"\n# fadein \"black\" 0.5\n# textflame 1 1\n# se \"SE_0733\"\n# voice 2016 \"shita_0034\"\n@シタ\nう～ん……\n\n@シタ\nあの…ハズレです…\n\n@シタ\nあは…\n急にクイズとか…ないですよね？\n\n@シタ\nごめんなさい、なんか…\nわたし、変なことしちゃって…\n\n@シタ\n…………\n\n@シタ\nでも…マスター\nまた今度クイズを出したときは\n間違えないでくれますよね…？\n\n# textflame 0 0\n@\n彼女の困ったような\n悲しいような笑顔が\nマスターの眼に焼付いた\n\n@\nデート中のはずなのに…\n複雑な顔をさせてしまうなんて…\n\n@\nまた今度って言ってたし…\n次の機会は絶対間違えないように\nしないといけないな…\n\n# fadeout　\"black\" 1.2\n# waitandnext 2"
+	}
+]

@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 502123,
+		"script": ";;C 楽しかった（中）\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_room\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# voice 5021 \"sefer_0004\"\n@セファー\nそれならば安心しました\n\n@セファー\nデートというものを\n知識では知っていても\n実感がなかったので\n\n@セファー\nこれでいいのかと\n心配だったのですが…\n\n# voice 5021 \"sefer_0005\"\n@セファー\nふふっ、またひとつ、\n日記に書くべきことが増えましたね\n\n# textflame 0 0\n@\n笑顔のセファーを部屋まで\n無事送り届けた…\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

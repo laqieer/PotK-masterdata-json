@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 93028199,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# se \"SE_0732\"\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n;;-----------------------------------------\n@ヘレナ\n………\n\n# face %(unit_a)s \"happy\"\n# voice 3028 \"herena_a_0005\"\n@ヘレナ\nピンポン、正解～\n\n@ヘレナ\nすごいね、先輩\n\n# face %(unit_a)s \"sad\"\n# voice 3028 \"herena_a_0028\"\n@ヘレナ\nあ、でもヘレナが\nかき氷をおごらなきゃ\nならないのか～\n\n@ヘレナ\n仕方ないな～\n\n# face %(unit_a)s \"usual\"\n# voice 3028 \"herena_a_0004\"\n@ヘレナ\nじゃあ、\nおごってあげるから、\n売店まで行こうよ、くふっ\n\n;;モノローグ\n# textflame 0 0\n@\nそう言いながらも、\n嬉しそうな顔を見せるヘレナ\n\n;;モノローグ\n@\nマスターもまた、\n彼女と距離が縮まったことに\n喜びを感じていた\n\n;;-----------------------------------------\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

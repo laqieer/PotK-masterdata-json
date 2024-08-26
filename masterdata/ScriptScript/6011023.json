@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 6011023,
+		"script": ";;//２話バトル終了\n# script \"lisp\"\n# background \"rooftop_daytime\"\n# bgm \"bgm004\" 0\n# body 126\n# pos 126 3\n# scale 126 0.8 0\n# face 126 \"sad\"\n;;フライクーゲルボイス用\n# body 500271\n# alpha 500271 0 0\n# textflame 1 1\n# textboxarrow 0 2\n# chara 126\n@フライクーゲル\n…………\nマスター…\nわたし、今…\n\n# textflame 0 0\n@\nなにもなかった、\nそう言うように\n首を横に振るマスター\n\n# textflame 1 1\n# textboxarrow 0 2\n# chara 126\n@フライクーゲル\nありがとう\nでも、ごめん…ちょっと、\nひとりにさせてほしいな…\n;;//フライクーゲルout\n;;//２章終了"
+	}
+]

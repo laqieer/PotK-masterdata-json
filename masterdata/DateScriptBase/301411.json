@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 301411,
+		"script": ";;想像もつかない時間だ（小）\n;;重ねた時間は確かなもの（大）\n;;よく今日まで残ったね（中）\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_museum1\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 0 0\n# face %(unit_a)s \"usual\"\n@\nマスターは\nイシューリエルを連れて\n博物館にやってきた\n\n# voice 3014 \"ithuriel_0004\"\n# textflame 1 1\n@イシューリエル\n歴史というものは\n人の都合で曲げられたり\n塗り替えられたりしますが…\n\n# voice 3014 \"ithuriel_0003\"\n# textflame 1 1\n@イシューリエル\nですがわたくしは\nこう思うのです\n\n# eye %(unit_a)s \"close\"\n# textflame 1 1\n@イシューリエル\nここに陳列された品々が\n歩んできた時間だけは…\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"usual\"\n@イシューリエル\n事実として\n揺るぎないものだと…！\n\n# select \"想像もつかない時間だ\" \"select_label_01\" \"重ねた時間は確かなもの\" \"select_label_02\" \"よく今日まで残ったね\" \"select_label_03\"\n事実として\n揺るぎないものだと…！\n\n# label \"select_label_01\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_02\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_03\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_end\"\n# waitandnext 0.1\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

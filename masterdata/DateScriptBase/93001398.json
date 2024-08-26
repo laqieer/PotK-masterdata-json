@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 93001398,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# se \"SE_0733\"\n# face %(unit_a)s \"sad\"\n# voice 3001 \"ronginusu_unit_1006\"\n@ロンギヌス\n驚きましたよね…\nごめんなさい…\n\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@ロンギヌス\nマスターのおそばにいられて\n本当にうれしいんです\n\n# voice 3001 \"ronginusu_0015\"\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@ロンギヌス\nでも、いつか\n居場所がなくなってしまわないか\n心配で…\n\n# eye %(unit_a)s \"close\"\n# textflame 1 1\n@ロンギヌス\nどんなふうに\n思ってもらっているか\n確かめてみたかったんです…\n\n# voice 3001 \"ronginusu_0036\"\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@ロンギヌス\n…私、頑張りますから！\nおそばに…おいてください…\n\n# textflame 0 0\n@\n必死に懇願する彼女の顔が\nマスターの目に焼きついた\n\n# textflame 0 0\n@\nデート中のはずなのに\nこんな思いをさせてしまうなんて…\n\n# textflame 0 0\n@\n彼女はなにも悪くないのだ\n次は絶対に間違えないように\nしないといけないな…\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

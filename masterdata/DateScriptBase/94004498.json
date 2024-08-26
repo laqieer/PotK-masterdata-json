@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 94004498,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# se \"SE_0733\"\n# voice 4004 \"erosu_0024\"\n@エロース\nはわわっ\n\n@エロース\n…難しかったですかぁ～？\n\n# voice 4004 \"erosu_0015\"\n@エロース\nもし正解してたら、\nご褒美を考えていたのに、\n残念ですぅ～\n\n# face %(unit_a)s \"usual\"\n# voice 4004 \"erosu_0004\"\n@エロース\n仕方ないのでぇ、\nご褒美は今度また\n正解した時にあげますねぇ\n\n# textflame 0 0\n@\n問題に正解できなかったことを\nマスターは悔やんだ\n\n@\n別にご褒美のためではないが、\n次は頑張ろう\nと、思うマスターだった…\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

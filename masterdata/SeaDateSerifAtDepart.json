@@ -1,0 +1,3755 @@
+[
+	{
+		"ID": 1,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 3024,
+		"trust_provision_SeaHomeTrustProvisions": 2,
+		"serif": "構いませんけど",
+		"face": "normal",
+		"voice_cue_name": "tonbokiri_0003"
+	},
+	{
+		"ID": 2,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 3024,
+		"trust_provision_SeaHomeTrustProvisions": 3,
+		"serif": "い、いくわよ！　いくいく！",
+		"face": "normal",
+		"voice_cue_name": "tonbokiri_0004"
+	},
+	{
+		"ID": 3,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 3024,
+		"trust_provision_SeaHomeTrustProvisions": 4,
+		"serif": "浮かれてない…\n浮かれてるのはバレてない…！",
+		"face": "smile",
+		"voice_cue_name": "tonbokiri_00015"
+	},
+	{
+		"ID": 4,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 1008,
+		"trust_provision_SeaHomeTrustProvisions": 2,
+		"serif": "うん、いいけど",
+		"face": "normal",
+		"voice_cue_name": "guramu_0032"
+	},
+	{
+		"ID": 5,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 1008,
+		"trust_provision_SeaHomeTrustProvisions": 3,
+		"serif": "いいよ～、どこいくの？",
+		"face": "normal",
+		"voice_cue_name": "guramu_0003"
+	},
+	{
+		"ID": 6,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 1008,
+		"trust_provision_SeaHomeTrustProvisions": 4,
+		"serif": "二人きりで、だよね？\nふふ～！　もちろんオッケ～！",
+		"face": "smile",
+		"voice_cue_name": "guramu_0004"
+	},
+	{
+		"ID": 7,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 2020,
+		"trust_provision_SeaHomeTrustProvisions": 2,
+		"serif": "構いませんが",
+		"face": "normal",
+		"voice_cue_name": "harpe_0032"
+	},
+	{
+		"ID": 8,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 2020,
+		"trust_provision_SeaHomeTrustProvisions": 3,
+		"serif": "やぶさかではありませんが…？",
+		"face": "normal",
+		"voice_cue_name": "harpe_0003"
+	},
+	{
+		"ID": 9,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 2020,
+		"trust_provision_SeaHomeTrustProvisions": 4,
+		"serif": "誘ったからには…\n楽しませてくれるのですよね？",
+		"face": "smile",
+		"voice_cue_name": "harpe_0006"
+	},
+	{
+		"ID": 10,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 3004,
+		"trust_provision_SeaHomeTrustProvisions": 2,
+		"serif": "構いませんよ",
+		"face": "normal",
+		"voice_cue_name": "amenonuboko_0003"
+	},
+	{
+		"ID": 11,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 3004,
+		"trust_provision_SeaHomeTrustProvisions": 3,
+		"serif": "はい、お供いたします",
+		"face": "normal",
+		"voice_cue_name": "amenonuboko_0032"
+	},
+	{
+		"ID": 12,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 3004,
+		"trust_provision_SeaHomeTrustProvisions": 4,
+		"serif": "これはつまり…\n逢引…ですね♪",
+		"face": "smile",
+		"voice_cue_name": "amenonuboko_0006"
+	},
+	{
+		"ID": 13,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 2008,
+		"trust_provision_SeaHomeTrustProvisions": 2,
+		"serif": "いいよ～",
+		"face": "usual",
+		"voice_cue_name": "perun_0003"
+	},
+	{
+		"ID": 14,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 2008,
+		"trust_provision_SeaHomeTrustProvisions": 3,
+		"serif": "わぁ～！　いくいく～！",
+		"face": "smile",
+		"voice_cue_name": "perun_0032"
+	},
+	{
+		"ID": 15,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 2008,
+		"trust_provision_SeaHomeTrustProvisions": 4,
+		"serif": "マスターとデートだぁ！\nやったねぇ～！",
+		"face": "smile",
+		"voice_cue_name": "perun_0006"
+	},
+	{
+		"ID": 16,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 4005,
+		"trust_provision_SeaHomeTrustProvisions": 2,
+		"serif": "いいですよ",
+		"face": "usual",
+		"voice_cue_name": "yoichi_0003"
+	},
+	{
+		"ID": 17,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 4005,
+		"trust_provision_SeaHomeTrustProvisions": 3,
+		"serif": "はい！　喜んで！",
+		"face": "smile",
+		"voice_cue_name": "yoichi_0032"
+	},
+	{
+		"ID": 18,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 4005,
+		"trust_provision_SeaHomeTrustProvisions": 4,
+		"serif": "マスターと…お出かけ…\n二人きりで…お出かけ～…！",
+		"face": "smile",
+		"voice_cue_name": "yoichi_0021"
+	},
+	{
+		"ID": 19,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 1009,
+		"trust_provision_SeaHomeTrustProvisions": 2,
+		"serif": "いいですけど…",
+		"face": "normal",
+		"voice_cue_name": "barumunku_0002"
+	},
+	{
+		"ID": 20,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 1009,
+		"trust_provision_SeaHomeTrustProvisions": 3,
+		"serif": "私で…大丈夫ですか…！？",
+		"face": "normal",
+		"voice_cue_name": "barumunku_0003"
+	},
+	{
+		"ID": 21,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 1009,
+		"trust_provision_SeaHomeTrustProvisions": 4,
+		"serif": "見つからないように行きましょうね！\n…思いっきり楽しみたいので！",
+		"face": "smile",
+		"voice_cue_name": "barumunku_0020"
+	},
+	{
+		"ID": 22,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 6008,
+		"trust_provision_SeaHomeTrustProvisions": 2,
+		"serif": "うん、いいよ～",
+		"face": "usual",
+		"voice_cue_name": "Guridavoru_0003"
+	},
+	{
+		"ID": 23,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 6008,
+		"trust_provision_SeaHomeTrustProvisions": 3,
+		"serif": "君からなんて、珍しいね…！",
+		"face": "normal",
+		"voice_cue_name": "Guridavoru_0004"
+	},
+	{
+		"ID": 24,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 6008,
+		"trust_provision_SeaHomeTrustProvisions": 4,
+		"serif": "君が案内してくれるの！？\nなんか新鮮かも…ふふっ！",
+		"face": "smile",
+		"voice_cue_name": "Guridavoru_0021"
+	},
+	{
+		"ID": 25,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 4002,
+		"trust_provision_SeaHomeTrustProvisions": 2,
+		"serif": "あぁ、いいぜ",
+		"face": "usual",
+		"voice_cue_name": "pinaka_0003"
+	},
+	{
+		"ID": 26,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 4002,
+		"trust_provision_SeaHomeTrustProvisions": 3,
+		"serif": "あ、うん…わかった…いく",
+		"face": "normal",
+		"voice_cue_name": "pinaka_0004"
+	},
+	{
+		"ID": 27,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 4002,
+		"trust_provision_SeaHomeTrustProvisions": 4,
+		"serif": "な、なんだよ、惚れたか！？\nあはは、も、もちろんいいぜ！",
+		"face": "smile",
+		"voice_cue_name": "pinaka_0020"
+	},
+	{
+		"ID": 28,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 5003,
+		"trust_provision_SeaHomeTrustProvisions": 2,
+		"serif": "よかろう",
+		"face": "usual",
+		"voice_cue_name": "yatanokagami_0004"
+	},
+	{
+		"ID": 29,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 5003,
+		"trust_provision_SeaHomeTrustProvisions": 3,
+		"serif": "うむ、参ろうぞ",
+		"face": "angry",
+		"voice_cue_name": "yatanokagami_0003"
+	},
+	{
+		"ID": 30,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 5003,
+		"trust_provision_SeaHomeTrustProvisions": 4,
+		"serif": "わらわを逢引に誘うとは…\nお主、意外に大胆よのう♪",
+		"face": "smile",
+		"voice_cue_name": "yatanokagami_0006"
+	},
+	{
+		"ID": 31,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 3008,
+		"trust_provision_SeaHomeTrustProvisions": 2,
+		"serif": "いいだろう",
+		"face": "usual",
+		"voice_cue_name": "gunguniru_0003"
+	},
+	{
+		"ID": 32,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 3008,
+		"trust_provision_SeaHomeTrustProvisions": 3,
+		"serif": "ふふ…我を誘うとはな！",
+		"face": "normal",
+		"voice_cue_name": "gunguniru_0004"
+	},
+	{
+		"ID": 33,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 3008,
+		"trust_provision_SeaHomeTrustProvisions": 4,
+		"serif": "…期待してよいのだろうな？\n期待するからな！",
+		"face": "smile",
+		"voice_cue_name": "gunguniru_0042"
+	},
+	{
+		"ID": 34,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 5008,
+		"trust_provision_SeaHomeTrustProvisions": 2,
+		"serif": "しかたないわね",
+		"face": "usual",
+		"voice_cue_name": "bashosen_0003"
+	},
+	{
+		"ID": 35,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 5008,
+		"trust_provision_SeaHomeTrustProvisions": 3,
+		"serif": "行ってあげるわ",
+		"face": "normal",
+		"voice_cue_name": "bashosen_0004"
+	},
+	{
+		"ID": 36,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 5008,
+		"trust_provision_SeaHomeTrustProvisions": 4,
+		"serif": "誘われて当然よね…\nだって、正妻ですものっ！",
+		"face": "smile",
+		"voice_cue_name": "bashosen_0020"
+	},
+	{
+		"ID": 37,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 1023,
+		"trust_provision_SeaHomeTrustProvisions": 2,
+		"serif": "了解です",
+		"face": "usual",
+		"voice_cue_name": "ascalon_0003"
+	},
+	{
+		"ID": 38,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 1023,
+		"trust_provision_SeaHomeTrustProvisions": 3,
+		"serif": "はい、わかりました",
+		"face": "usual",
+		"voice_cue_name": "ascalon_0036"
+	},
+	{
+		"ID": 39,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 1023,
+		"trust_provision_SeaHomeTrustProvisions": 4,
+		"serif": "やったぁ！",
+		"face": "smile",
+		"voice_cue_name": "ascalon_0041"
+	},
+	{
+		"ID": 40,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 2016,
+		"trust_provision_SeaHomeTrustProvisions": 2,
+		"serif": "いいですよ",
+		"face": "normal",
+		"voice_cue_name": "shita_0009"
+	},
+	{
+		"ID": 41,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 2016,
+		"trust_provision_SeaHomeTrustProvisions": 3,
+		"serif": "急に…どうしたのですか？　ふふ！",
+		"face": "normal",
+		"voice_cue_name": "shita_0004"
+	},
+	{
+		"ID": 42,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 2016,
+		"trust_provision_SeaHomeTrustProvisions": 4,
+		"serif": "わたし、にやにやしていませんか…？\nふふ、楽しみです…！",
+		"face": "smile",
+		"voice_cue_name": "shita_0006"
+	},
+	{
+		"ID": 43,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 1012,
+		"trust_provision_SeaHomeTrustProvisions": 2,
+		"serif": "しかたないわね",
+		"face": "normal",
+		"voice_cue_name": "adamasu_0008"
+	},
+	{
+		"ID": 44,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 1012,
+		"trust_provision_SeaHomeTrustProvisions": 3,
+		"serif": "面倒だけど付き合ってあげる",
+		"face": "normal",
+		"voice_cue_name": "adamasu_0004"
+	},
+	{
+		"ID": 45,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 1012,
+		"trust_provision_SeaHomeTrustProvisions": 4,
+		"serif": "楽しくなかったら\nどうなるかわかってるわよね…♪",
+		"face": "smile",
+		"voice_cue_name": "adamasu_0005"
+	},
+	{
+		"ID": 46,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 4001,
+		"trust_provision_SeaHomeTrustProvisions": 2,
+		"serif": "はい、お供しましょう",
+		"face": "normal",
+		"voice_cue_name": "arutemisu_0002"
+	},
+	{
+		"ID": 47,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 4001,
+		"trust_provision_SeaHomeTrustProvisions": 3,
+		"serif": "私で…よいのですね？",
+		"face": "sad",
+		"voice_cue_name": "arutemisu_0004"
+	},
+	{
+		"ID": 48,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 4001,
+		"trust_provision_SeaHomeTrustProvisions": 4,
+		"serif": "視察…視察ですよね！？\nそれなら周りに示しもつきますし…！",
+		"face": "smile",
+		"voice_cue_name": "arutemisu_0005"
+	},
+	{
+		"ID": 49,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 1004,
+		"trust_provision_SeaHomeTrustProvisions": 2,
+		"serif": "よいだろう",
+		"face": "normal",
+		"voice_cue_name": "kusanagi_0003"
+	},
+	{
+		"ID": 50,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 1004,
+		"trust_provision_SeaHomeTrustProvisions": 3,
+		"serif": "うむ、参ろうではないか！",
+		"face": "normal",
+		"voice_cue_name": "kusanagi_0031"
+	},
+	{
+		"ID": 51,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 1004,
+		"trust_provision_SeaHomeTrustProvisions": 4,
+		"serif": "これは…あれか…？\n世に聞く、でぇとか！？",
+		"face": "smile",
+		"voice_cue_name": "kusanagi_0033"
+	},
+	{
+		"ID": 52,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 5006,
+		"trust_provision_SeaHomeTrustProvisions": 2,
+		"serif": "必要とあれば",
+		"face": "normal",
+		"voice_cue_name": "megido_0003"
+	},
+	{
+		"ID": 53,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 5006,
+		"trust_provision_SeaHomeTrustProvisions": 3,
+		"serif": "…お供しましょう",
+		"face": "sad",
+		"voice_cue_name": "megido_0040"
+	},
+	{
+		"ID": 54,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 5006,
+		"trust_provision_SeaHomeTrustProvisions": 4,
+		"serif": "なにかが起こるとも思えないけれど\n…少しくらいは期待してあげるわ",
+		"face": "smile",
+		"voice_cue_name": "megido_0021"
+	},
+	{
+		"ID": 55,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 5001,
+		"trust_provision_SeaHomeTrustProvisions": 2,
+		"serif": "いいよ～",
+		"face": "normal",
+		"voice_cue_name": "keraunosu_0003"
+	},
+	{
+		"ID": 56,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 5001,
+		"trust_provision_SeaHomeTrustProvisions": 3,
+		"serif": "おぉ！　いくいく～！",
+		"face": "smile",
+		"voice_cue_name": "keraunosu_0006"
+	},
+	{
+		"ID": 57,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 5001,
+		"trust_provision_SeaHomeTrustProvisions": 4,
+		"serif": "ずっと誘ってくれるの\n待ってたんだから…遅いぞ♪",
+		"face": "smile",
+		"voice_cue_name": "keraunosu_0020"
+	},
+	{
+		"ID": 58,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 3003,
+		"trust_provision_SeaHomeTrustProvisions": 2,
+		"serif": "ああ、いいぞ",
+		"face": "normal",
+		"voice_cue_name": "hotengageki_0040"
+	},
+	{
+		"ID": 59,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 3003,
+		"trust_provision_SeaHomeTrustProvisions": 3,
+		"serif": "つきあってやるよ",
+		"face": "normal",
+		"voice_cue_name": "hotengageki_kyara_2001"
+	},
+	{
+		"ID": 60,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 3003,
+		"trust_provision_SeaHomeTrustProvisions": 4,
+		"serif": "逢引ってやつか…？\n悪くないな♪",
+		"face": "smile",
+		"voice_cue_name": "hotengageki_0032"
+	},
+	{
+		"ID": 61,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 1027,
+		"trust_provision_SeaHomeTrustProvisions": 2,
+		"serif": "ああ、いこうか",
+		"face": "normal",
+		"voice_cue_name": "solais_0003"
+	},
+	{
+		"ID": 62,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 1027,
+		"trust_provision_SeaHomeTrustProvisions": 3,
+		"serif": "それは楽しそうだね",
+		"face": "normal",
+		"voice_cue_name": "solais_0021"
+	},
+	{
+		"ID": 63,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 1027,
+		"trust_provision_SeaHomeTrustProvisions": 4,
+		"serif": "どこに連れて行ってくれるんだい？\n期待しているよ！",
+		"face": "smile",
+		"voice_cue_name": "solais_0020"
+	},
+	{
+		"ID": 64,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 3001,
+		"trust_provision_SeaHomeTrustProvisions": 2,
+		"serif": "はい、いいですよ",
+		"face": "normal",
+		"voice_cue_name": "ronginusu_0003"
+	},
+	{
+		"ID": 65,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 3001,
+		"trust_provision_SeaHomeTrustProvisions": 3,
+		"serif": "私…で…合ってますか…？",
+		"face": "sad",
+		"voice_cue_name": "ronginusu_kyara_2004"
+	},
+	{
+		"ID": 66,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 3001,
+		"trust_provision_SeaHomeTrustProvisions": 4,
+		"serif": "あの、ええと…\nう、うれしいです…！",
+		"face": "smile",
+		"voice_cue_name": "ronginusu_0002"
+	},
+	{
+		"ID": 67,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 4010,
+		"trust_provision_SeaHomeTrustProvisions": 2,
+		"serif": "はい、お供します",
+		"face": "normal",
+		"voice_cue_name": "Abaris_0003"
+	},
+	{
+		"ID": 68,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 4010,
+		"trust_provision_SeaHomeTrustProvisions": 3,
+		"serif": "はい…喜んで",
+		"face": "smile",
+		"voice_cue_name": "Abaris_0032"
+	},
+	{
+		"ID": 69,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 4010,
+		"trust_provision_SeaHomeTrustProvisions": 4,
+		"serif": "私で大丈夫ですか…？\n相手をお間違いではないですか！？",
+		"face": "sad",
+		"voice_cue_name": "Abaris_0042"
+	},
+	{
+		"ID": 70,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 2001,
+		"trust_provision_SeaHomeTrustProvisions": 2,
+		"serif": "いいよ～",
+		"face": "normal",
+		"voice_cue_name": "myuruniru_0003"
+	},
+	{
+		"ID": 71,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 2001,
+		"trust_provision_SeaHomeTrustProvisions": 3,
+		"serif": "えぇ～！いくいく～",
+		"face": "smile",
+		"voice_cue_name": "myuruniru_0039"
+	},
+	{
+		"ID": 72,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 2001,
+		"trust_provision_SeaHomeTrustProvisions": 4,
+		"serif": "マスタとふたりきり？\n楽しみだねぇ～♪",
+		"face": "smile",
+		"voice_cue_name": "myuruniru_0042"
+	},
+	{
+		"ID": 73,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 6013,
+		"trust_provision_SeaHomeTrustProvisions": 2,
+		"serif": "いってあげるにゃ",
+		"face": "usual",
+		"voice_cue_name": "sistrum_0002"
+	},
+	{
+		"ID": 74,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 6013,
+		"trust_provision_SeaHomeTrustProvisions": 3,
+		"serif": "にゃ！いくにゃー！",
+		"face": "smile",
+		"voice_cue_name": "sistrum_unit_0013"
+	},
+	{
+		"ID": 75,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 6013,
+		"trust_provision_SeaHomeTrustProvisions": 4,
+		"serif": "どこにいくのにゃ？\nどこに連れて行ってくれるのにゃ♪",
+		"face": "smie",
+		"voice_cue_name": "sistrum_0029"
+	},
+	{
+		"ID": 76,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 1011,
+		"trust_provision_SeaHomeTrustProvisions": 2,
+		"serif": "護衛いたします",
+		"face": "usual",
+		"voice_cue_name": "excalibur_0003"
+	},
+	{
+		"ID": 77,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 1011,
+		"trust_provision_SeaHomeTrustProvisions": 3,
+		"serif": "任務ではないのですね…？",
+		"face": "usual",
+		"voice_cue_name": "excalibur_0042"
+	},
+	{
+		"ID": 78,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 1011,
+		"trust_provision_SeaHomeTrustProvisions": 4,
+		"serif": "これはつまり…\nプライベートな、お誘いですか…？",
+		"face": "smile",
+		"voice_cue_name": "excalibur_0004"
+	},
+	{
+		"ID": 79,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 2005,
+		"trust_provision_SeaHomeTrustProvisions": 2,
+		"serif": "しょーがねーなぁ",
+		"face": "normal",
+		"voice_cue_name": "mitwumu_0003"
+	},
+	{
+		"ID": 80,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 2005,
+		"trust_provision_SeaHomeTrustProvisions": 3,
+		"serif": "おう、いいぜー！",
+		"face": "smile",
+		"voice_cue_name": "mitwumu_0032"
+	},
+	{
+		"ID": 81,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 2005,
+		"trust_provision_SeaHomeTrustProvisions": 4,
+		"serif": "遊びに行くのか！？\nどこ行くんだ！？",
+		"face": "smile",
+		"voice_cue_name": "mitwumu_0029"
+	},
+	{
+		"ID": 82,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 3018,
+		"trust_provision_SeaHomeTrustProvisions": 2,
+		"serif": "予定もありませんし、\nかまいませんよ",
+		"face": "usual",
+		"voice_cue_name": "forcas_0032"
+	},
+	{
+		"ID": 83,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 3018,
+		"trust_provision_SeaHomeTrustProvisions": 3,
+		"serif": "マスターの頼みであれば\n…ぜひご一緒します",
+		"face": "smile",
+		"voice_cue_name": "forcas_0003"
+	},
+	{
+		"ID": 84,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 3018,
+		"trust_provision_SeaHomeTrustProvisions": 4,
+		"serif": "あなたに誘ってもらえるなんて\n光栄です！早く行きましょう",
+		"face": "smile",
+		"voice_cue_name": "forcas_0006"
+	},
+	{
+		"ID": 85,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 2004,
+		"trust_provision_SeaHomeTrustProvisions": 2,
+		"serif": "ボクと出掛けたい？\nそれは構わないけど…",
+		"face": "usual",
+		"voice_cue_name": "parashu_1003"
+	},
+	{
+		"ID": 86,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 2004,
+		"trust_provision_SeaHomeTrustProvisions": 3,
+		"serif": "も、もしかしてデートの\n申し込みかな？",
+		"face": "smile",
+		"voice_cue_name": "parashu_0032"
+	},
+	{
+		"ID": 87,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 2004,
+		"trust_provision_SeaHomeTrustProvisions": 4,
+		"serif": "誘ってくれてありがとう…\nうん、すごく嬉しいよ",
+		"face": "smile",
+		"voice_cue_name": "parashu_0030"
+	},
+	{
+		"ID": 88,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 5017,
+		"trust_provision_SeaHomeTrustProvisions": 2,
+		"serif": "ついていってあげるわ",
+		"face": "normal",
+		"voice_cue_name": "grimoire_0007"
+	},
+	{
+		"ID": 89,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 5017,
+		"trust_provision_SeaHomeTrustProvisions": 3,
+		"serif": "しかたなくよ、しかたなく！",
+		"face": "normal",
+		"voice_cue_name": "grimoire_0003"
+	},
+	{
+		"ID": 90,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 5017,
+		"trust_provision_SeaHomeTrustProvisions": 4,
+		"serif": "ちゃんとエスコートできるのね？\n期待していいのね…！",
+		"face": "smile",
+		"voice_cue_name": "grimoire_0021"
+	},
+	{
+		"ID": 91,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 1005,
+		"trust_provision_SeaHomeTrustProvisions": 2,
+		"serif": "かまわないぞ",
+		"face": "usual",
+		"voice_cue_name": "ritto_0007"
+	},
+	{
+		"ID": 92,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 1005,
+		"trust_provision_SeaHomeTrustProvisions": 3,
+		"serif": "ああ、もちろんだ…！",
+		"face": "usual",
+		"voice_cue_name": "ritto_0003"
+	},
+	{
+		"ID": 93,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 1005,
+		"trust_provision_SeaHomeTrustProvisions": 4,
+		"serif": "それはどういう意味…\nい、いや！なんでもない、いくぞ！",
+		"face": "smile",
+		"voice_cue_name": "ritto_0021"
+	},
+	{
+		"ID": 94,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 4007,
+		"trust_provision_SeaHomeTrustProvisions": 2,
+		"serif": "かまいませんが",
+		"face": "usual",
+		"voice_cue_name": "shekina_0003"
+	},
+	{
+		"ID": 95,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 4007,
+		"trust_provision_SeaHomeTrustProvisions": 3,
+		"serif": "私で、いいんですね…？",
+		"face": "sad",
+		"voice_cue_name": "shekina_0040"
+	},
+	{
+		"ID": 96,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 4007,
+		"trust_provision_SeaHomeTrustProvisions": 4,
+		"serif": "い、いきます！！\n…こほん、お供します",
+		"face": "smile",
+		"voice_cue_name": "shekina_0021"
+	},
+	{
+		"ID": 97,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 6001,
+		"trust_provision_SeaHomeTrustProvisions": 2,
+		"serif": "しょうがないわね、いいわよ",
+		"face": "normal",
+		"voice_cue_name": "asukurepiosu_0003"
+	},
+	{
+		"ID": 98,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 6001,
+		"trust_provision_SeaHomeTrustProvisions": 3,
+		"serif": "別に、いいけど…",
+		"face": "normal",
+		"voice_cue_name": "asukurepiosu_0040"
+	},
+	{
+		"ID": 99,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 6001,
+		"trust_provision_SeaHomeTrustProvisions": 4,
+		"serif": "行ってあげないこともないけど…\nえ、行く！　行くってば！",
+		"face": "smile",
+		"voice_cue_name": "asukurepiosu_0042"
+	},
+	{
+		"ID": 100,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 2017,
+		"trust_provision_SeaHomeTrustProvisions": 2,
+		"serif": "うん、いいよ～",
+		"face": "usual",
+		"voice_cue_name": "yagurushi_0003"
+	},
+	{
+		"ID": 101,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 2017,
+		"trust_provision_SeaHomeTrustProvisions": 3,
+		"serif": "ふたりきりで？いく～！",
+		"face": "usual",
+		"voice_cue_name": "yagurushi_0040"
+	},
+	{
+		"ID": 102,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 2017,
+		"trust_provision_SeaHomeTrustProvisions": 4,
+		"serif": "デート…だよね？\n楽しみで顔がにやけちゃうよ～…",
+		"face": "smile",
+		"voice_cue_name": "yagurushi_0042"
+	},
+	{
+		"ID": 103,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 3021,
+		"trust_provision_SeaHomeTrustProvisions": 2,
+		"serif": "ボーでよいのでしょうか…",
+		"face": "normal",
+		"voice_cue_name": "gaebuide_0003"
+	},
+	{
+		"ID": 104,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 3021,
+		"trust_provision_SeaHomeTrustProvisions": 3,
+		"serif": "ボーでよければ…ええ、もちろん",
+		"face": "normal",
+		"voice_cue_name": "gaebuide_0040"
+	},
+	{
+		"ID": 105,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 3021,
+		"trust_provision_SeaHomeTrustProvisions": 4,
+		"serif": "楽しんでいただけるか不安ですが…\nぜひお供させてください…",
+		"face": "smile",
+		"voice_cue_name": "gaebuide_0042"
+	},
+	{
+		"ID": 106,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 5016,
+		"trust_provision_SeaHomeTrustProvisions": 2,
+		"serif": "身の程知らずとはこのことですね\nまったく呆れてしまいます",
+		"face": "normal",
+		"voice_cue_name": "Flabellum_0009"
+	},
+	{
+		"ID": 107,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 5016,
+		"trust_provision_SeaHomeTrustProvisions": 3,
+		"serif": "悪くないですね　\n気分転換ぐらいにはなるでしょう",
+		"face": "normal",
+		"voice_cue_name": "Flabellum_0040"
+	},
+	{
+		"ID": 108,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 5016,
+		"trust_provision_SeaHomeTrustProvisions": 4,
+		"serif": "もう少し頻繁にこういった\nお誘いがあると思いましたわ",
+		"face": "smile",
+		"voice_cue_name": "Flabellum_0039"
+	},
+	{
+		"ID": 109,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 1026,
+		"trust_provision_SeaHomeTrustProvisions": 2,
+		"serif": "ええ、いいわよ",
+		"face": "normal",
+		"voice_cue_name": "caladbolg_0009"
+	},
+	{
+		"ID": 110,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 1026,
+		"trust_provision_SeaHomeTrustProvisions": 3,
+		"serif": "ふふ、それは楽しそうね！",
+		"face": "normal",
+		"voice_cue_name": "caladbolg_0004"
+	},
+	{
+		"ID": 111,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 1026,
+		"trust_provision_SeaHomeTrustProvisions": 4,
+		"serif": "私のことが好きだから？\nうん、もちろん行くわ！",
+		"face": "smile",
+		"voice_cue_name": "caladbolg_0041"
+	},
+	{
+		"ID": 112,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 1028,
+		"trust_provision_SeaHomeTrustProvisions": 2,
+		"serif": "ああ、お供しよう",
+		"face": "usual",
+		"voice_cue_name": "dainsleif_0003"
+	},
+	{
+		"ID": 113,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 1028,
+		"trust_provision_SeaHomeTrustProvisions": 3,
+		"serif": "お誘い、ありがとう",
+		"face": "usual",
+		"voice_cue_name": "dainsleif_0004"
+	},
+	{
+		"ID": 114,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 1028,
+		"trust_provision_SeaHomeTrustProvisions": 4,
+		"serif": "胸が踊るね…！\n楽しみにしているよ",
+		"face": "normal",
+		"voice_cue_name": "dainsleif_0007"
+	},
+	{
+		"ID": 115,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 5007,
+		"trust_provision_SeaHomeTrustProvisions": 2,
+		"serif": "承知した",
+		"face": "normal",
+		"voice_cue_name": "buryunaku_0003"
+	},
+	{
+		"ID": 116,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 5007,
+		"trust_provision_SeaHomeTrustProvisions": 3,
+		"serif": "護衛…ではないのだな？",
+		"face": "normal",
+		"voice_cue_name": "buryunaku_0004"
+	},
+	{
+		"ID": 117,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 5007,
+		"trust_provision_SeaHomeTrustProvisions": 4,
+		"serif": "慰労、ということでいいだろうか\nもったいない配慮だ…",
+		"face": "smile",
+		"voice_cue_name": "buryunaku_0042"
+	},
+	{
+		"ID": 118,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 3006,
+		"trust_provision_SeaHomeTrustProvisions": 2,
+		"serif": "あ？遊び？まあ、マスターが\n言うんならついてくけどさ…",
+		"face": "usual",
+		"voice_cue_name": "torisyula_0013"
+	},
+	{
+		"ID": 119,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 3006,
+		"trust_provision_SeaHomeTrustProvisions": 3,
+		"serif": "あたいと遊びに行きたいって？\n…ま、付き合ってやるよ",
+		"face": "normal",
+		"voice_cue_name": "torisyula_0005"
+	},
+	{
+		"ID": 120,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 3006,
+		"trust_provision_SeaHomeTrustProvisions": 4,
+		"serif": "あ、あたいをデートに！？\n待ってろ、今準備するから…！",
+		"face": "smile",
+		"voice_cue_name": "torisyula_0021"
+	},
+	{
+		"ID": 121,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 2003,
+		"trust_provision_SeaHomeTrustProvisions": 2,
+		"serif": "いいよ～",
+		"face": "normal",
+		"voice_cue_name": "loveryus_0003"
+	},
+	{
+		"ID": 122,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 2003,
+		"trust_provision_SeaHomeTrustProvisions": 3,
+		"serif": "いくいく～♪",
+		"face": "normal",
+		"voice_cue_name": "loveryus_0005"
+	},
+	{
+		"ID": 123,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 2003,
+		"trust_provision_SeaHomeTrustProvisions": 4,
+		"serif": "お忍びデートかぁ…\n見つからないようにしないとね♪",
+		"face": "smile",
+		"voice_cue_name": "loveryus_0021"
+	},
+	{
+		"ID": 124,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 5005,
+		"trust_provision_SeaHomeTrustProvisions": 4,
+		"serif": "お～し、行っちゃうか！\nもちろん二人でしっぽり…だよな！",
+		"face": "smile",
+		"voice_cue_name": "vajura_0007"
+	},
+	{
+		"ID": 125,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 5005,
+		"trust_provision_SeaHomeTrustProvisions": 3,
+		"serif": "い～ね、のった！",
+		"face": "smile",
+		"voice_cue_name": "vajura_0004"
+	},
+	{
+		"ID": 126,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 5005,
+		"trust_provision_SeaHomeTrustProvisions": 2,
+		"serif": "ああ、いってやるよ",
+		"face": "normal",
+		"voice_cue_name": "vajura_0003"
+	},
+	{
+		"ID": 127,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 6002,
+		"trust_provision_SeaHomeTrustProvisions": 4,
+		"serif": "特別な場所じゃなくていいよー\nきみがいればどこでもいいからー",
+		"face": "smile",
+		"voice_cue_name": "ganbantein_0020"
+	},
+	{
+		"ID": 128,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 6002,
+		"trust_provision_SeaHomeTrustProvisions": 3,
+		"serif": "あたしと？嬉しいけど\nマスターも変わってるねー",
+		"face": "smile",
+		"voice_cue_name": "ganbantein_0005"
+	},
+	{
+		"ID": 129,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 6002,
+		"trust_provision_SeaHomeTrustProvisions": 2,
+		"serif": "ぼーっとしててもいい？",
+		"face": "normal",
+		"voice_cue_name": "ganbantein_0003"
+	},
+	{
+		"ID": 130,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 1013,
+		"trust_provision_SeaHomeTrustProvisions": 4,
+		"serif": "わたくしを身近で研究したい…\nまさかそういうことかい？",
+		"face": "smile",
+		"voice_cue_name": "paracelsus_0041"
+	},
+	{
+		"ID": 131,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 1013,
+		"trust_provision_SeaHomeTrustProvisions": 3,
+		"serif": "気分転換に付き合おう",
+		"face": "smile",
+		"voice_cue_name": "paracelsus_0036"
+	},
+	{
+		"ID": 132,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 1013,
+		"trust_provision_SeaHomeTrustProvisions": 2,
+		"serif": "かまわないが？",
+		"face": "usual",
+		"voice_cue_name": "paracelsus_0004"
+	},
+	{
+		"ID": 133,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 5021,
+		"trust_provision_SeaHomeTrustProvisions": 4,
+		"serif": "まぁ…！是非、この手帳に\n新たな１ページを加えさせてください",
+		"face": "smile",
+		"voice_cue_name": "sefer_0041"
+	},
+	{
+		"ID": 134,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 5021,
+		"trust_provision_SeaHomeTrustProvisions": 3,
+		"serif": "これは、その…もしかして…\nデートのお誘いなのでしょうか！？",
+		"face": "smile",
+		"voice_cue_name": "sefer_0005"
+	},
+	{
+		"ID": 135,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 5021,
+		"trust_provision_SeaHomeTrustProvisions": 2,
+		"serif": "お出かけですか？\nもちろん、構いませんよ",
+		"face": "normal",
+		"voice_cue_name": "sefer_0003"
+	},
+	{
+		"ID": 136,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 4006,
+		"trust_provision_SeaHomeTrustProvisions": 4,
+		"serif": "アズサ…お誘いとあらば\nどこにでもお供いたします！",
+		"face": "smile",
+		"voice_cue_name": "azusa_0041"
+	},
+	{
+		"ID": 137,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 4006,
+		"trust_provision_SeaHomeTrustProvisions": 3,
+		"serif": "はい、参りましょう！",
+		"face": "smile",
+		"voice_cue_name": "azusa_0036"
+	},
+	{
+		"ID": 138,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 4006,
+		"trust_provision_SeaHomeTrustProvisions": 2,
+		"serif": "承知しました",
+		"face": "normal",
+		"voice_cue_name": "azusa_0003"
+	},
+	{
+		"ID": 139,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 3014,
+		"trust_provision_SeaHomeTrustProvisions": 4,
+		"serif": "かわいいわたくしを連れて…\n自慢して歩きたいのですね♪",
+		"face": "smile",
+		"voice_cue_name": "ithuriel_0032"
+	},
+	{
+		"ID": 140,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 3014,
+		"trust_provision_SeaHomeTrustProvisions": 3,
+		"serif": "ええ、お供いたしますわ",
+		"face": "smile",
+		"voice_cue_name": "ithuriel_0004"
+	},
+	{
+		"ID": 141,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 3014,
+		"trust_provision_SeaHomeTrustProvisions": 2,
+		"serif": "かまいませんわよ",
+		"face": "usual",
+		"voice_cue_name": "ithuriel_0003"
+	},
+	{
+		"ID": 142,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 2010,
+		"trust_provision_SeaHomeTrustProvisions": 4,
+		"serif": "うん…私も、キミに\n会いに行こうと思ってたんだ…",
+		"face": "smile",
+		"voice_cue_name": "ukonbasara_0020"
+	},
+	{
+		"ID": 143,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 2010,
+		"trust_provision_SeaHomeTrustProvisions": 3,
+		"serif": "…あの、えっと\nもしかしてこれは、デート、なのかな？",
+		"face": "smile",
+		"voice_cue_name": "ukonbasara_0005"
+	},
+	{
+		"ID": 144,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 2010,
+		"trust_provision_SeaHomeTrustProvisions": 2,
+		"serif": "もちろん\nどこへでもついて行くよ",
+		"face": "usual",
+		"voice_cue_name": "ukonbasara_0003"
+	},
+	{
+		"ID": 145,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 4008,
+		"trust_provision_SeaHomeTrustProvisions": 4,
+		"serif": "ちょちょ、ちょっと待って！？\n今準備してくるから～っ！！",
+		"face": "smile",
+		"voice_cue_name": "otyinusu_0020"
+	},
+	{
+		"ID": 146,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 4008,
+		"trust_provision_SeaHomeTrustProvisions": 3,
+		"serif": "それってさ、デートのお誘い、だよね？",
+		"face": "smile",
+		"voice_cue_name": "otyinusu_0041"
+	},
+	{
+		"ID": 147,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 4008,
+		"trust_provision_SeaHomeTrustProvisions": 2,
+		"serif": "なになに？どっか遊びに行くの～？",
+		"face": "usual",
+		"voice_cue_name": "otyinusu_0003"
+	},
+	{
+		"ID": 148,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 6004,
+		"trust_provision_SeaHomeTrustProvisions": 4,
+		"serif": "どこに行こうか？なにしようか？\nイタズラと同じくらい楽しみだね～",
+		"face": "smile",
+		"voice_cue_name": "kadokeusu_0020"
+	},
+	{
+		"ID": 149,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 6004,
+		"trust_provision_SeaHomeTrustProvisions": 3,
+		"serif": "うん。ちょっとは嬉しいかな\n君のイタズラ成功だね",
+		"face": "smile",
+		"voice_cue_name": "kadokeusu_0005"
+	},
+	{
+		"ID": 150,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 6004,
+		"trust_provision_SeaHomeTrustProvisions": 2,
+		"serif": "まぁいっかぁ\nでも、イタズラ付きだからね？",
+		"face": "usual",
+		"voice_cue_name": "kadokeusu_0003"
+	},
+	{
+		"ID": 151,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 6005,
+		"trust_provision_SeaHomeTrustProvisions": 4,
+		"serif": "デートのお誘い…だよね？\nうん…準備できてるよ",
+		"face": "smile",
+		"voice_cue_name": "keryukeion_0020"
+	},
+	{
+		"ID": 152,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 6005,
+		"trust_provision_SeaHomeTrustProvisions": 3,
+		"serif": "お、おおう？この私を出し抜く\nなんて、やるじゃないマスター…！",
+		"face": "smile",
+		"voice_cue_name": "keryukeion_0005"
+	},
+	{
+		"ID": 153,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 6005,
+		"trust_provision_SeaHomeTrustProvisions": 2,
+		"serif": "君がそうくることはお見通し！\nさ、行こっか！",
+		"face": "normal",
+		"voice_cue_name": "keryukeion_0003"
+	},
+	{
+		"ID": 154,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 1014,
+		"trust_provision_SeaHomeTrustProvisions": 4,
+		"serif": "…断るという選択肢は\n私にはありません！",
+		"face": "smile",
+		"voice_cue_name": "tyrufing_0046"
+	},
+	{
+		"ID": 155,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 1014,
+		"trust_provision_SeaHomeTrustProvisions": 3,
+		"serif": "…デートということですか？\nぜひ、行きます！",
+		"face": "smile",
+		"voice_cue_name": "tyrufing_0044"
+	},
+	{
+		"ID": 156,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 1014,
+		"trust_provision_SeaHomeTrustProvisions": 2,
+		"serif": "お出かけですか、わかりました\nお供しましょう",
+		"face": "normal",
+		"voice_cue_name": "tyrufing_0004"
+	},
+	{
+		"ID": 157,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 2006,
+		"trust_provision_SeaHomeTrustProvisions": 4,
+		"serif": "ダグダも誘おうとしてたんだ！\nえへへ、偶然だね♪",
+		"face": "smile",
+		"voice_cue_name": "daguda_0021"
+	},
+	{
+		"ID": 158,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 2006,
+		"trust_provision_SeaHomeTrustProvisions": 3,
+		"serif": "え、いいよー？\nでもずっとおんぶしてよね♪",
+		"face": "smile",
+		"voice_cue_name": "daguda_0036"
+	},
+	{
+		"ID": 159,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 2006,
+		"trust_provision_SeaHomeTrustProvisions": 2,
+		"serif": "今日は一日中だらだらしてる\nつもりだったんだけど…いいか",
+		"face": "normal",
+		"voice_cue_name": "daguda_0003"
+	},
+	{
+		"ID": 160,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 3020,
+		"trust_provision_SeaHomeTrustProvisions": 4,
+		"serif": "なんだか積極的だね～\nそういうの結構好きだよ～…？",
+		"face": "smile",
+		"voice_cue_name": "pisear_0042"
+	},
+	{
+		"ID": 161,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 3020,
+		"trust_provision_SeaHomeTrustProvisions": 3,
+		"serif": "うん、いこうか～",
+		"face": "smile",
+		"voice_cue_name": "pisear_0036"
+	},
+	{
+		"ID": 162,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 3020,
+		"trust_provision_SeaHomeTrustProvisions": 2,
+		"serif": "いいけど～",
+		"face": "normal",
+		"voice_cue_name": "pisear_0004"
+	},
+	{
+		"ID": 163,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 1010,
+		"trust_provision_SeaHomeTrustProvisions": 4,
+		"serif": "二人だけで過ごす…\n素敵な時間になりそうですわ",
+		"face": "smile",
+		"voice_cue_name": "furagaraha_0021"
+	},
+	{
+		"ID": 164,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 1010,
+		"trust_provision_SeaHomeTrustProvisions": 3,
+		"serif": "ええ、喜んで…",
+		"face": "smile",
+		"voice_cue_name": "furagaraha_0030"
+	},
+	{
+		"ID": 165,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 1010,
+		"trust_provision_SeaHomeTrustProvisions": 2,
+		"serif": "いいですわよ",
+		"face": "normal",
+		"voice_cue_name": "furagaraha_0005"
+	},
+	{
+		"ID": 166,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 3010,
+		"trust_provision_SeaHomeTrustProvisions": 4,
+		"serif": "あなたのいくところならば…\nどこにでも！",
+		"face": "smile",
+		"voice_cue_name": "rhongomiant_0021"
+	},
+	{
+		"ID": 167,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 3010,
+		"trust_provision_SeaHomeTrustProvisions": 3,
+		"serif": "もちろん参ります！",
+		"face": "smile",
+		"voice_cue_name": "rhongomiant_0020"
+	},
+	{
+		"ID": 168,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 3010,
+		"trust_provision_SeaHomeTrustProvisions": 2,
+		"serif": "お供いたします",
+		"face": "normal",
+		"voice_cue_name": "rhongomiant_0032"
+	},
+	{
+		"ID": 169,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 2007,
+		"trust_provision_SeaHomeTrustProvisions": 4,
+		"serif": "もちろんです\n断る理由などありません",
+		"face": "smile",
+		"voice_cue_name": "sharuuru_0005"
+	},
+	{
+		"ID": 170,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 2007,
+		"trust_provision_SeaHomeTrustProvisions": 3,
+		"serif": "偵察任務ですか？\n是非お供させて下さい",
+		"face": "smile",
+		"voice_cue_name": "sharuuru_0033"
+	},
+	{
+		"ID": 171,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 2007,
+		"trust_provision_SeaHomeTrustProvisions": 2,
+		"serif": "まだ仕事が残っていたのですが\nたまには息抜きもしましょうか",
+		"face": "normal",
+		"voice_cue_name": "sharuuru_0032"
+	},
+	{
+		"ID": 172,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 5004,
+		"trust_provision_SeaHomeTrustProvisions": 4,
+		"serif": "誘ってくれるの実は待ってんだよね\n女心わかってきたみたいね",
+		"face": "smile",
+		"voice_cue_name": "burafumasutora_0006"
+	},
+	{
+		"ID": 173,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 5004,
+		"trust_provision_SeaHomeTrustProvisions": 3,
+		"serif": "いいわよ。こっち方面でも\nアタシが鍛えてあげるよ",
+		"face": "smile",
+		"voice_cue_name": "burafumasutora_0020"
+	},
+	{
+		"ID": 174,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 5004,
+		"trust_provision_SeaHomeTrustProvisions": 2,
+		"serif": "しょうがない。つきあってあげる",
+		"face": "normal",
+		"voice_cue_name": "burafumasutora_0032"
+	},
+	{
+		"ID": 175,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 6006,
+		"trust_provision_SeaHomeTrustProvisions": 4,
+		"serif": "あの、それってデート…？\nいえっ！なんでもないです…",
+		"face": "smile",
+		"voice_cue_name": "misutoru_0005"
+	},
+	{
+		"ID": 176,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 6006,
+		"trust_provision_SeaHomeTrustProvisions": 3,
+		"serif": "それがマスターの望みなら…\n頑張ります…",
+		"face": "smile",
+		"voice_cue_name": "misutoru_0033"
+	},
+	{
+		"ID": 177,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 6006,
+		"trust_provision_SeaHomeTrustProvisions": 2,
+		"serif": "だ、大丈夫ですか？\n私なんかで…",
+		"face": "normal",
+		"voice_cue_name": "misutoru_0028"
+	},
+	{
+		"ID": 178,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 3002,
+		"trust_provision_SeaHomeTrustProvisions": 4,
+		"serif": "これって、デート…だよね？\nそっかぁ、マスターってば私のこと…",
+		"face": "smile",
+		"voice_cue_name": "toraidento_0042"
+	},
+	{
+		"ID": 179,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 3002,
+		"trust_provision_SeaHomeTrustProvisions": 3,
+		"serif": "トライデント、\nマスターとお出かけしたいなー♪",
+		"face": "smile",
+		"voice_cue_name": "toraidento_0020"
+	},
+	{
+		"ID": 180,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 3002,
+		"trust_provision_SeaHomeTrustProvisions": 2,
+		"serif": "マスター、遊びに行こっ！",
+		"face": "normal",
+		"voice_cue_name": "toraidento_0001"
+	},
+	{
+		"ID": 181,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 1003,
+		"trust_provision_SeaHomeTrustProvisions": 4,
+		"serif": "わたくし、喜んで\n行かせていただきますわ♪",
+		"face": "smile",
+		"voice_cue_name": "durandaru_0020"
+	},
+	{
+		"ID": 182,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 1003,
+		"trust_provision_SeaHomeTrustProvisions": 3,
+		"serif": "あら嬉しいわ。ちょうど貴方のことを\n考えていたの",
+		"face": "smile",
+		"voice_cue_name": "durandaru_0004"
+	},
+	{
+		"ID": 183,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 1003,
+		"trust_provision_SeaHomeTrustProvisions": 2,
+		"serif": "淑女のエスコートはお得意？",
+		"face": "normal",
+		"voice_cue_name": "durandaru_0002"
+	},
+	{
+		"ID": 184,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 3005,
+		"trust_provision_SeaHomeTrustProvisions": 4,
+		"serif": "なかなか度胸あるじゃない\n…ウズウズしてきたぜ！！",
+		"face": "smile",
+		"voice_cue_name": "roon_0041"
+	},
+	{
+		"ID": 185,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 3005,
+		"trust_provision_SeaHomeTrustProvisions": 3,
+		"serif": "面白くなかったらわかってるよな？",
+		"face": "smile",
+		"voice_cue_name": "roon_0007"
+	},
+	{
+		"ID": 186,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 3005,
+		"trust_provision_SeaHomeTrustProvisions": 2,
+		"serif": "チッ…めんどくせぇな…",
+		"face": "normal",
+		"voice_cue_name": "roon_0028"
+	},
+	{
+		"ID": 187,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 1025,
+		"trust_provision_SeaHomeTrustProvisions": 4,
+		"serif": "な、なんと…これは…\nつまり、その…あ、逢引ですか！？",
+		"face": "smile",
+		"voice_cue_name": "muramasa_0042"
+	},
+	{
+		"ID": 188,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 1025,
+		"trust_provision_SeaHomeTrustProvisions": 3,
+		"serif": "せ、拙者でよろしいのでしょうか！？",
+		"face": "smile",
+		"voice_cue_name": "muramasa_0004"
+	},
+	{
+		"ID": 189,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 1025,
+		"trust_provision_SeaHomeTrustProvisions": 2,
+		"serif": "お供いたします",
+		"face": "normal",
+		"voice_cue_name": "muramasa_0001"
+	},
+	{
+		"ID": 190,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 1002,
+		"trust_provision_SeaHomeTrustProvisions": 4,
+		"serif": "…期待しないでね\n断ったらあとがめんどくさそうなだけ",
+		"face": "smile",
+		"voice_cue_name": "revatein2_0042"
+	},
+	{
+		"ID": 191,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 1002,
+		"trust_provision_SeaHomeTrustProvisions": 3,
+		"serif": "…まあ、付き合ってあげる",
+		"face": "smile",
+		"voice_cue_name": "revatein2_0040"
+	},
+	{
+		"ID": 192,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 1002,
+		"trust_provision_SeaHomeTrustProvisions": 2,
+		"serif": "……いいけど",
+		"face": "usual",
+		"voice_cue_name": "revatein2_0003"
+	},
+	{
+		"ID": 193,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 6011,
+		"trust_provision_SeaHomeTrustProvisions": 4,
+		"serif": "これって、その、デートですよね～？\nな、なんだか急に恥ずかしく…",
+		"face": "smile",
+		"voice_cue_name": "vanargand_0021"
+	},
+	{
+		"ID": 194,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 6011,
+		"trust_provision_SeaHomeTrustProvisions": 3,
+		"serif": "えへへ、マスターさんとお出かけ\nとっても楽しみです～",
+		"face": "smile",
+		"voice_cue_name": "vanargand_0005"
+	},
+	{
+		"ID": 195,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 6011,
+		"trust_provision_SeaHomeTrustProvisions": 2,
+		"serif": "お出かけですか～？\nもちろんお付き合いしま～す",
+		"face": "usual",
+		"voice_cue_name": "vanargand_0032"
+	},
+	{
+		"ID": 196,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 2019,
+		"trust_provision_SeaHomeTrustProvisions": 4,
+		"serif": "しゆうもちょうどさそおうと\nおもってたとこ～♪",
+		"face": "smile",
+		"voice_cue_name": "chihyu_0020"
+	},
+	{
+		"ID": 197,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 2019,
+		"trust_provision_SeaHomeTrustProvisions": 3,
+		"serif": "いえいっ！ますた～！なにする～？\nシユウはじゅんびばんだんだな！",
+		"face": "smile",
+		"voice_cue_name": "chihyu_0033"
+	},
+	{
+		"ID": 198,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 2019,
+		"trust_provision_SeaHomeTrustProvisions": 2,
+		"serif": "あそびかーシユウは\nいそがしいんだけどなー？",
+		"face": "usual",
+		"voice_cue_name": "chihyu_0028"
+	},
+	{
+		"ID": 199,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 4013,
+		"trust_provision_SeaHomeTrustProvisions": 4,
+		"serif": "お待ちしておりました、マスター\nどこへなりと、お連れください",
+		"face": "smile",
+		"voice_cue_name": "aphrodite_0005"
+	},
+	{
+		"ID": 200,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 4013,
+		"trust_provision_SeaHomeTrustProvisions": 3,
+		"serif": "ええ、もちろん\nマスターがお望みなら、どこへでも",
+		"face": "smile",
+		"voice_cue_name": "aphrodite_0032"
+	},
+	{
+		"ID": 201,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 4013,
+		"trust_provision_SeaHomeTrustProvisions": 2,
+		"serif": "わたしの美しさが、マスターの\n心を動かしてしまいましたか…",
+		"face": "normal",
+		"voice_cue_name": "aphrodite_0004"
+	},
+	{
+		"ID": 202,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 2002,
+		"trust_provision_SeaHomeTrustProvisions": 4,
+		"serif": "デートですか。マスターと\nふたりきりならば、不快ではないです",
+		"face": "smile",
+		"voice_cue_name": "aimuru_0021"
+	},
+	{
+		"ID": 203,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 2002,
+		"trust_provision_SeaHomeTrustProvisions": 3,
+		"serif": "デート…？あぁ、任務ですね\n承知しました",
+		"face": "normal",
+		"voice_cue_name": "aimuru_0032"
+	},
+	{
+		"ID": 204,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 2002,
+		"trust_provision_SeaHomeTrustProvisions": 2,
+		"serif": "それは命令でしょうか？",
+		"face": "normal",
+		"voice_cue_name": "aimuru_0028"
+	},
+	{
+		"ID": 205,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 4004,
+		"trust_provision_SeaHomeTrustProvisions": 4,
+		"serif": "マスターのお部屋デートでも\nエロースは構いませんよ？",
+		"face": "smile",
+		"voice_cue_name": "erosu_0006"
+	},
+	{
+		"ID": 206,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 4004,
+		"trust_provision_SeaHomeTrustProvisions": 3,
+		"serif": "なにも決めないで、マスターと\nぶらっとするのもイイかもですね♪",
+		"face": "smile",
+		"voice_cue_name": "erosu_0004"
+	},
+	{
+		"ID": 207,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 4004,
+		"trust_provision_SeaHomeTrustProvisions": 2,
+		"serif": "はいはーい！\nエロースにお任せ！",
+		"face": "normal",
+		"voice_cue_name": "erosu_0032"
+	},
+	{
+		"ID": 208,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 5024,
+		"trust_provision_SeaHomeTrustProvisions": 4,
+		"serif": "これ…業務外、すか？\nそ、そすか…わかったっす…！",
+		"face": "smile",
+		"voice_cue_name": "saika_0020"
+	},
+	{
+		"ID": 209,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 5024,
+		"trust_provision_SeaHomeTrustProvisions": 3,
+		"serif": "付き合うっすよー",
+		"face": "smile",
+		"voice_cue_name": "saika_0033"
+	},
+	{
+		"ID": 210,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 5024,
+		"trust_provision_SeaHomeTrustProvisions": 2,
+		"serif": "まあ、いいすけど…",
+		"face": "normal",
+		"voice_cue_name": "saika_0032"
+	},
+	{
+		"ID": 211,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 4003,
+		"trust_provision_SeaHomeTrustProvisions": 4,
+		"serif": "にょにょ、デート！？",
+		"face": "smile",
+		"voice_cue_name": "aporon_0042"
+	},
+	{
+		"ID": 212,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 4003,
+		"trust_provision_SeaHomeTrustProvisions": 3,
+		"serif": "お姉ちゃんと一緒じゃダメかな～？",
+		"face": "sad",
+		"voice_cue_name": "aporon_0004"
+	},
+	{
+		"ID": 213,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 4003,
+		"trust_provision_SeaHomeTrustProvisions": 2,
+		"serif": "え、お姉ちゃんじゃなくて？",
+		"face": "normal",
+		"voice_cue_name": "aporon_0023"
+	},
+	{
+		"ID": 214,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 1007,
+		"trust_provision_SeaHomeTrustProvisions": 4,
+		"serif": "はい。マスターが望むのであれば\n私はそれに応えます",
+		"face": "smile",
+		"voice_cue_name": "Arondaito_0036"
+	},
+	{
+		"ID": 215,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 1007,
+		"trust_provision_SeaHomeTrustProvisions": 3,
+		"serif": "デートですか…私でよろしいのですか？",
+		"face": "sad",
+		"voice_cue_name": "Arondaito_0022"
+	},
+	{
+		"ID": 216,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 1007,
+		"trust_provision_SeaHomeTrustProvisions": 2,
+		"serif": "…デート？",
+		"face": "sad",
+		"voice_cue_name": "Arondaito_0008"
+	},
+	{
+		"ID": 217,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 1006,
+		"trust_provision_SeaHomeTrustProvisions": 4,
+		"serif": "こ、懲りない人ですね…\nあっ、いえその…！",
+		"face": "smile",
+		"voice_cue_name": "nageruring_0042"
+	},
+	{
+		"ID": 218,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 1006,
+		"trust_provision_SeaHomeTrustProvisions": 3,
+		"serif": "お出かけ、楽しみです！\n…まあ、悪気は無さそうだし…",
+		"face": "normal",
+		"voice_cue_name": "nageruring_0004"
+	},
+	{
+		"ID": 219,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 1006,
+		"trust_provision_SeaHomeTrustProvisions": 2,
+		"serif": "誘ってくれるんですか？\n…今じゃなくていいのに…",
+		"face": "usual",
+		"voice_cue_name": "nageruring_0028"
+	},
+	{
+		"ID": 220,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 1001,
+		"trust_provision_SeaHomeTrustProvisions": 4,
+		"serif": "引き受けた、どこへでもお供…\nいやまて。今…逢引と言ったか！？",
+		"face": "smile",
+		"voice_cue_name": "masamune_0042"
+	},
+	{
+		"ID": 221,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 1001,
+		"trust_provision_SeaHomeTrustProvisions": 3,
+		"serif": "無論、お供しよう",
+		"face": "normal",
+		"voice_cue_name": "masamune_0032"
+	},
+	{
+		"ID": 222,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 1001,
+		"trust_provision_SeaHomeTrustProvisions": 2,
+		"serif": "承知した",
+		"face": "normal",
+		"voice_cue_name": "masamune_0003"
+	},
+	{
+		"ID": 223,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 6014,
+		"trust_provision_SeaHomeTrustProvisions": 4,
+		"serif": "よかろう、マスター\n今日は存分に我に甘えるといい",
+		"face": "smile",
+		"voice_cue_name": "ptah_0021"
+	},
+	{
+		"ID": 224,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 6014,
+		"trust_provision_SeaHomeTrustProvisions": 3,
+		"serif": "我を外出に誘っておるのか？\n無論、付き合うとも",
+		"face": "normal",
+		"voice_cue_name": "ptah_0041"
+	},
+	{
+		"ID": 225,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 6014,
+		"trust_provision_SeaHomeTrustProvisions": 2,
+		"serif": "おや、出かけるのか？\n我もともに行こうか？",
+		"face": "normal",
+		"voice_cue_name": "ptah_0003"
+	},
+	{
+		"ID": 226,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 3017,
+		"trust_provision_SeaHomeTrustProvisions": 4,
+		"serif": "一体どこへ連れていくんだ？\n教えてくれてもいいだろう？",
+		"face": "smile",
+		"voice_cue_name": "wotan_0021"
+	},
+	{
+		"ID": 227,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 3017,
+		"trust_provision_SeaHomeTrustProvisions": 3,
+		"serif": "今日はなにをするんだ？\n一応期待はしておくぞ",
+		"face": "normal",
+		"voice_cue_name": "wotan_0004"
+	},
+	{
+		"ID": 228,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 3017,
+		"trust_provision_SeaHomeTrustProvisions": 2,
+		"serif": "接待か…まあ付き合ってやらん\nこともないが…",
+		"face": "normal",
+		"voice_cue_name": "wotan_0028"
+	},
+	{
+		"ID": 229,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 2013,
+		"trust_provision_SeaHomeTrustProvisions": 4,
+		"serif": "その勇気に免じて\n付き合ってあげるわ！",
+		"face": "smile",
+		"voice_cue_name": "reshef_0020"
+	},
+	{
+		"ID": 230,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 2013,
+		"trust_provision_SeaHomeTrustProvisions": 3,
+		"serif": "行き先、あたしが決めていいの？",
+		"face": "normal",
+		"voice_cue_name": "reshef_0033"
+	},
+	{
+		"ID": 231,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 2013,
+		"trust_provision_SeaHomeTrustProvisions": 2,
+		"serif": "あっそ、いいけど",
+		"face": "usual",
+		"voice_cue_name": "reshef_0032"
+	},
+	{
+		"ID": 232,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 2012,
+		"trust_provision_SeaHomeTrustProvisions": 4,
+		"serif": "いつも突然ね、マスターは\nふふっ、でもこっちも準備万端よ！",
+		"face": "smile",
+		"voice_cue_name": "srand_0020"
+	},
+	{
+		"ID": 233,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 2012,
+		"trust_provision_SeaHomeTrustProvisions": 3,
+		"serif": "い、今からデート！？ちょっと\n待ちなさい、準備してくるわ…！",
+		"face": "normal",
+		"voice_cue_name": "srand_0004"
+	},
+	{
+		"ID": 234,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 2012,
+		"trust_provision_SeaHomeTrustProvisions": 2,
+		"serif": "お出かけ？当然、あたしにふさわしい\n場所に連れてってくれるんでしょう？",
+		"face": "usual",
+		"voice_cue_name": "srand_0036"
+	},
+	{
+		"ID": 235,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 5020,
+		"trust_provision_SeaHomeTrustProvisions": 4,
+		"serif": "デートでも一撃入魂！",
+		"face": "smile",
+		"voice_cue_name": "tasuramu_0029"
+	},
+	{
+		"ID": 236,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 5020,
+		"trust_provision_SeaHomeTrustProvisions": 3,
+		"serif": "おーいいぜー！どこに行く！？",
+		"face": "usual",
+		"voice_cue_name": "tasuramu_0006"
+	},
+	{
+		"ID": 237,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 5020,
+		"trust_provision_SeaHomeTrustProvisions": 2,
+		"serif": "分かった戦いだな！？\nえ？…デート！？",
+		"face": "sad",
+		"voice_cue_name": "tasuramu_0022"
+	},
+	{
+		"ID": 238,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 6003,
+		"trust_provision_SeaHomeTrustProvisions": 4,
+		"serif": "どこか連れってくれるの？\n楽しみだなぁ～♪",
+		"face": "smile",
+		"voice_cue_name": "tyurusosu_0020"
+	},
+	{
+		"ID": 239,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 6003,
+		"trust_provision_SeaHomeTrustProvisions": 3,
+		"serif": "たまには気分転換もいいね\nよし、行こっか！",
+		"face": "usual",
+		"voice_cue_name": "tyurusosu_0032"
+	},
+	{
+		"ID": 240,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 6003,
+		"trust_provision_SeaHomeTrustProvisions": 2,
+		"serif": "他にやりことあったケド…\nわかった。早く行こ",
+		"face": "usual",
+		"voice_cue_name": "tyurusosu_0028"
+	},
+	{
+		"ID": 241,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 3009,
+		"trust_provision_SeaHomeTrustProvisions": 4,
+		"serif": "息抜きにしてはもったいないですが…\nもちろん参ります！",
+		"face": "smile",
+		"voice_cue_name": "seiryu_0021"
+	},
+	{
+		"ID": 242,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 3009,
+		"trust_provision_SeaHomeTrustProvisions": 3,
+		"serif": "どこへでもお供しましょう",
+		"face": "usual",
+		"voice_cue_name": "seiryu_0003"
+	},
+	{
+		"ID": 243,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 3009,
+		"trust_provision_SeaHomeTrustProvisions": 2,
+		"serif": "ええ、参りましょう",
+		"face": "usual",
+		"voice_cue_name": "seiryu_0032"
+	},
+	{
+		"ID": 244,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 3007,
+		"trust_provision_SeaHomeTrustProvisions": 4,
+		"serif": "私をデートに？ふふ、そうか…\nおまじないが功を奏したのかもな",
+		"face": "smile",
+		"voice_cue_name": "gaiborugu_0020"
+	},
+	{
+		"ID": 245,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 3007,
+		"trust_provision_SeaHomeTrustProvisions": 3,
+		"serif": "…思ったのだが、もしやこれは…\nデートの誘い、というものなのでは？",
+		"face": "normal",
+		"voice_cue_name": "gaiborugu_0040"
+	},
+	{
+		"ID": 246,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 3007,
+		"trust_provision_SeaHomeTrustProvisions": 2,
+		"serif": "私を誘いに？無論、どこへでも\nついて行こう。マスター",
+		"face": "normal",
+		"voice_cue_name": "gaiborugu_0020"
+	},
+	{
+		"ID": 247,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 2011,
+		"trust_provision_SeaHomeTrustProvisions": 4,
+		"serif": "では契約の時間を決めないと…！\n集合場所もですね！",
+		"face": "smile",
+		"voice_cue_name": "Wazra_0021"
+	},
+	{
+		"ID": 248,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 2011,
+		"trust_provision_SeaHomeTrustProvisions": 3,
+		"serif": "ワズラでよろしければ！",
+		"face": "normal",
+		"voice_cue_name": "Wazra_0005"
+	},
+	{
+		"ID": 249,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 2011,
+		"trust_provision_SeaHomeTrustProvisions": 2,
+		"serif": "構いませんよ？",
+		"face": "usual",
+		"voice_cue_name": "Wazra_0003"
+	},
+	{
+		"ID": 250,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 5002,
+		"trust_provision_SeaHomeTrustProvisions": 4,
+		"serif": "ふたりっきりで、お出かけ？\nえへへ、楽しみだな～",
+		"face": "smile",
+		"voice_cue_name": "furaikugeru_0021"
+	},
+	{
+		"ID": 251,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 5002,
+		"trust_provision_SeaHomeTrustProvisions": 3,
+		"serif": "どうしたのマスター？\nあ、もしかしてデートのお誘い？",
+		"face": "normal",
+		"voice_cue_name": "furaikugeru_0032"
+	},
+	{
+		"ID": 252,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 5002,
+		"trust_provision_SeaHomeTrustProvisions": 2,
+		"serif": "なになに？出かけるの？\nわたしも一緒していい？",
+		"face": "usual",
+		"voice_cue_name": "furaikugeru_0002"
+	},
+	{
+		"ID": 253,
+		"same_character_id_UnitUnit": 210142,
+		"character_id": 0,
+		"trust_provision_SeaHomeTrustProvisions": 4,
+		"serif": "ふふっ、マスターとなら\nどこにでもご一緒しますよ",
+		"face": "smile",
+		"voice_cue_name": "tyrufing_k_0020"
+	},
+	{
+		"ID": 254,
+		"same_character_id_UnitUnit": 210142,
+		"character_id": 0,
+		"trust_provision_SeaHomeTrustProvisions": 3,
+		"serif": "承知しました\nどちらに行きますか？",
+		"face": "normal",
+		"voice_cue_name": "tyrufing_k_0004"
+	},
+	{
+		"ID": 255,
+		"same_character_id_UnitUnit": 210142,
+		"character_id": 0,
+		"trust_provision_SeaHomeTrustProvisions": 2,
+		"serif": "任務ですか？\nならば参りましょう",
+		"face": "usual",
+		"voice_cue_name": "tyrufing_k_0003"
+	},
+	{
+		"ID": 256,
+		"same_character_id_UnitUnit": 220042,
+		"character_id": 0,
+		"trust_provision_SeaHomeTrustProvisions": 4,
+		"serif": "ふふっ、今日はどこに\n連れて行ってくれるんだい？",
+		"face": "shy",
+		"voice_cue_name": "parashu_k_0021"
+	},
+	{
+		"ID": 257,
+		"same_character_id_UnitUnit": 220042,
+		"character_id": 0,
+		"trust_provision_SeaHomeTrustProvisions": 3,
+		"serif": "ちょうど鍛錬が終ったところさ\nいいよ、行こうか",
+		"face": "normal",
+		"voice_cue_name": "parashu_k_0040"
+	},
+	{
+		"ID": 258,
+		"same_character_id_UnitUnit": 220042,
+		"character_id": 0,
+		"trust_provision_SeaHomeTrustProvisions": 2,
+		"serif": "命令なら仕方ないね",
+		"face": "usual",
+		"voice_cue_name": "parashu_k_0003"
+	},
+	{
+		"ID": 259,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 5027,
+		"trust_provision_SeaHomeTrustProvisions": 4,
+		"serif": "マスターくんとお出かけ！\nすっごく楽しみー♪",
+		"face": "happy",
+		"voice_cue_name": "freischotz_0021"
+	},
+	{
+		"ID": 260,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 5027,
+		"trust_provision_SeaHomeTrustProvisions": 3,
+		"serif": "うん！行こう行こう！",
+		"face": "normal",
+		"voice_cue_name": "freischotz_0032"
+	},
+	{
+		"ID": 261,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 5027,
+		"trust_provision_SeaHomeTrustProvisions": 2,
+		"serif": "どこに連れてってくれるの？",
+		"face": "usual",
+		"voice_cue_name": "freischotz_0003"
+	},
+	{
+		"ID": 262,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 5025,
+		"trust_provision_SeaHomeTrustProvisions": 4,
+		"serif": "ええ、是非ご一緒しましょう",
+		"face": "happy",
+		"voice_cue_name": "megumin_0005"
+	},
+	{
+		"ID": 263,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 5025,
+		"trust_provision_SeaHomeTrustProvisions": 3,
+		"serif": "行きましょう\nそれでどこにいくのです？",
+		"face": "happy",
+		"voice_cue_name": "megumin_0004"
+	},
+	{
+		"ID": 264,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 5025,
+		"trust_provision_SeaHomeTrustProvisions": 2,
+		"serif": "外出ですか？\nえ、私も一緒にですか…",
+		"face": "normal",
+		"voice_cue_name": "megumin_0003"
+	},
+	{
+		"ID": 265,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 1034,
+		"trust_provision_SeaHomeTrustProvisions": 4,
+		"serif": "さて今度はどんな楽しい場所に\n連れて行ってくれるのだ？",
+		"face": "shy",
+		"voice_cue_name": "dakunesu_0005"
+	},
+	{
+		"ID": 266,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 1034,
+		"trust_provision_SeaHomeTrustProvisions": 3,
+		"serif": "ああ、いいぞ？",
+		"face": "usual",
+		"voice_cue_name": "dakunesu_0004"
+	},
+	{
+		"ID": 267,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 1034,
+		"trust_provision_SeaHomeTrustProvisions": 2,
+		"serif": "行ってもいいが、\n敵はいないのだろう？",
+		"face": "angry",
+		"voice_cue_name": "dakunesu_0003"
+	},
+	{
+		"ID": 268,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 3025,
+		"trust_provision_SeaHomeTrustProvisions": 4,
+		"serif": "はい、行きます！\n今日はどこに行きますか？",
+		"face": "smile",
+		"voice_cue_name": "minerva_0020"
+	},
+	{
+		"ID": 269,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 3025,
+		"trust_provision_SeaHomeTrustProvisions": 3,
+		"serif": "いいですね、付いていきます",
+		"face": "smile",
+		"voice_cue_name": "minerva_0003"
+	},
+	{
+		"ID": 270,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 3025,
+		"trust_provision_SeaHomeTrustProvisions": 2,
+		"serif": "大丈夫です、行きましょう",
+		"face": "normal",
+		"voice_cue_name": "minerva_0003"
+	},
+	{
+		"ID": 271,
+		"same_character_id_UnitUnit": 240012,
+		"character_id": 0,
+		"trust_provision_SeaHomeTrustProvisions": 4,
+		"serif": "本日はどちらに参られますか？\nどこまでもついていきます",
+		"face": "smile",
+		"voice_cue_name": "arutemisu_k_0020"
+	},
+	{
+		"ID": 272,
+		"same_character_id_UnitUnit": 240012,
+		"character_id": 0,
+		"trust_provision_SeaHomeTrustProvisions": 3,
+		"serif": "お供いたします",
+		"face": "smile",
+		"voice_cue_name": "arutemisu_k_0005"
+	},
+	{
+		"ID": 273,
+		"same_character_id_UnitUnit": 240012,
+		"character_id": 0,
+		"trust_provision_SeaHomeTrustProvisions": 2,
+		"serif": "マスターがそう望むのでしたら",
+		"face": "normal",
+		"voice_cue_name": "arutemisu_k_0003"
+	},
+	{
+		"ID": 274,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 6017,
+		"trust_provision_SeaHomeTrustProvisions": 4,
+		"serif": "出かけるの？いいわよ！\nどこに連れて行ってくれるのかしら？",
+		"face": "smile",
+		"voice_cue_name": "akua_0062"
+	},
+	{
+		"ID": 275,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 6017,
+		"trust_provision_SeaHomeTrustProvisions": 3,
+		"serif": "わかったわ！行きましょう！",
+		"face": "smile",
+		"voice_cue_name": "akua_0071"
+	},
+	{
+		"ID": 276,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 6017,
+		"trust_provision_SeaHomeTrustProvisions": 2,
+		"serif": "え？出かけるの？\nそう…まあいいけど…",
+		"face": "sad",
+		"voice_cue_name": "akua_0055"
+	},
+	{
+		"ID": 277,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 1036,
+		"trust_provision_SeaHomeTrustProvisions": 4,
+		"serif": "今日の私は\nあなたと運命をともにしたい気分なの",
+		"face": "smile",
+		"voice_cue_name": "ragnarok_0005"
+	},
+	{
+		"ID": 278,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 1036,
+		"trust_provision_SeaHomeTrustProvisions": 3,
+		"serif": "ついていくよ",
+		"face": "smile",
+		"voice_cue_name": "ragnarok_0004"
+	},
+	{
+		"ID": 279,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 1036,
+		"trust_provision_SeaHomeTrustProvisions": 2,
+		"serif": "…行きましょうか",
+		"face": "usual",
+		"voice_cue_name": "ragnarok_0003"
+	},
+	{
+		"ID": 280,
+		"same_character_id_UnitUnit": 210143,
+		"character_id": 0,
+		"trust_provision_SeaHomeTrustProvisions": 4,
+		"serif": "わ、私ですか…？\nもちろん、お傍にっ…！",
+		"face": "smile",
+		"voice_cue_name": "tyrufing_0033"
+	},
+	{
+		"ID": 281,
+		"same_character_id_UnitUnit": 210143,
+		"character_id": 0,
+		"trust_provision_SeaHomeTrustProvisions": 3,
+		"serif": "お付き合いします",
+		"face": "smile",
+		"voice_cue_name": "tyrufing_0005"
+	},
+	{
+		"ID": 282,
+		"same_character_id_UnitUnit": 210143,
+		"character_id": 0,
+		"trust_provision_SeaHomeTrustProvisions": 2,
+		"serif": "見回りですか？　承知しました",
+		"face": "usual",
+		"voice_cue_name": "tyrufing_0003"
+	},
+	{
+		"ID": 283,
+		"same_character_id_UnitUnit": 230012,
+		"character_id": 0,
+		"trust_provision_SeaHomeTrustProvisions": 4,
+		"serif": "どこへでもお供いたします",
+		"face": "smile",
+		"voice_cue_name": "ronginusu_k_0005"
+	},
+	{
+		"ID": 284,
+		"same_character_id_UnitUnit": 230012,
+		"character_id": 0,
+		"trust_provision_SeaHomeTrustProvisions": 3,
+		"serif": "行きましょうか",
+		"face": "usual",
+		"voice_cue_name": "ronginusu_k_0003"
+	},
+	{
+		"ID": 285,
+		"same_character_id_UnitUnit": 230012,
+		"character_id": 0,
+		"trust_provision_SeaHomeTrustProvisions": 2,
+		"serif": "承知しました",
+		"face": "usual",
+		"voice_cue_name": "ronginusu_k_0033"
+	},
+	{
+		"ID": 286,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 4017,
+		"trust_provision_SeaHomeTrustProvisions": 4,
+		"serif": "はい、ご一緒します\n（マスターと一緒！嬉しいなぁ！）",
+		"face": "smile",
+		"voice_cue_name": "suiha_0005"
+	},
+	{
+		"ID": 287,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 4017,
+		"trust_provision_SeaHomeTrustProvisions": 3,
+		"serif": "承知しました",
+		"face": "normal",
+		"voice_cue_name": "suiha_0033"
+	},
+	{
+		"ID": 288,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 4017,
+		"trust_provision_SeaHomeTrustProvisions": 2,
+		"serif": "本日はどちらへ…？",
+		"face": "normal",
+		"voice_cue_name": "suiha_0032"
+	},
+	{
+		"ID": 289,
+		"same_character_id_UnitUnit": 210012,
+		"character_id": 0,
+		"trust_provision_SeaHomeTrustProvisions": 4,
+		"serif": "はい、参りましょう\nどこまでもお供いたします",
+		"face": "shy",
+		"voice_cue_name": "masamune_k_0036"
+	},
+	{
+		"ID": 290,
+		"same_character_id_UnitUnit": 210012,
+		"character_id": 0,
+		"trust_provision_SeaHomeTrustProvisions": 3,
+		"serif": "承知いたしました",
+		"face": "normal",
+		"voice_cue_name": "masamune_k_0040"
+	},
+	{
+		"ID": 291,
+		"same_character_id_UnitUnit": 210012,
+		"character_id": 0,
+		"trust_provision_SeaHomeTrustProvisions": 2,
+		"serif": "主君のご意思に従います",
+		"face": "normal",
+		"voice_cue_name": "masamune_k_0003"
+	},
+	{
+		"ID": 292,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 1035,
+		"trust_provision_SeaHomeTrustProvisions": 4,
+		"serif": "行く！もちろん行くよ！\nクレス、マスターと一緒がいい！",
+		"face": "happy",
+		"voice_cue_name": "damocles_0021"
+	},
+	{
+		"ID": 293,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 1035,
+		"trust_provision_SeaHomeTrustProvisions": 3,
+		"serif": "うん、クレスも行く！",
+		"face": "normal",
+		"voice_cue_name": "damocles_0020"
+	},
+	{
+		"ID": 294,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 1035,
+		"trust_provision_SeaHomeTrustProvisions": 2,
+		"serif": "そこに行けばいいの？",
+		"face": "normal",
+		"voice_cue_name": "damocles_0002"
+	},
+	{
+		"ID": 295,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 6020,
+		"trust_provision_SeaHomeTrustProvisions": 4,
+		"serif": "では、どこへ行きましょうか？\n少しくらいははしゃいでもいいかも…",
+		"face": "smile",
+		"voice_cue_name": "ness_0006"
+	},
+	{
+		"ID": 296,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 6020,
+		"trust_provision_SeaHomeTrustProvisions": 3,
+		"serif": "デ、デートですか？\nその、ハレンチなのはダメですよ？",
+		"face": "sad",
+		"voice_cue_name": "ness_0004"
+	},
+	{
+		"ID": 297,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 6020,
+		"trust_provision_SeaHomeTrustProvisions": 2,
+		"serif": "お出かけですか？\nまあ、いいですけど…",
+		"face": "usual",
+		"voice_cue_name": "ness_0039"
+	},
+	{
+		"ID": 298,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 2025,
+		"trust_provision_SeaHomeTrustProvisions": 4,
+		"serif": "いいですね！マスターと一緒なら\nとっても楽しそうです！",
+		"face": "smile",
+		"voice_cue_name": "hercule_0020"
+	},
+	{
+		"ID": 299,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 2025,
+		"trust_provision_SeaHomeTrustProvisions": 3,
+		"serif": "いいですよ！\nどこに行きましょうか？",
+		"face": "smile",
+		"voice_cue_name": "hercule_0005"
+	},
+	{
+		"ID": 300,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 2025,
+		"trust_provision_SeaHomeTrustProvisions": 2,
+		"serif": "一緒にお出かけですか？\nわかりました",
+		"face": "usual",
+		"voice_cue_name": "hercule_0004"
+	},
+	{
+		"ID": 301,
+		"same_character_id_UnitUnit": 210022,
+		"character_id": 0,
+		"trust_provision_SeaHomeTrustProvisions": 4,
+		"serif": "マスターと一緒にお出かけね…\n…準備するから待ってて",
+		"face": "usual",
+		"voice_cue_name": "revatein_k_0033"
+	},
+	{
+		"ID": 302,
+		"same_character_id_UnitUnit": 210022,
+		"character_id": 0,
+		"trust_provision_SeaHomeTrustProvisions": 3,
+		"serif": "まあ、少しくらい\n付き合ってあげてもいいかな…",
+		"face": "usual",
+		"voice_cue_name": "revatein_k_0005"
+	},
+	{
+		"ID": 303,
+		"same_character_id_UnitUnit": 210022,
+		"character_id": 0,
+		"trust_provision_SeaHomeTrustProvisions": 2,
+		"serif": "出かけるの？ふぅ～ん…\nえ、私も一緒に？めんどくさい…",
+		"face": "usual",
+		"voice_cue_name": "revatein_k_0003"
+	},
+	{
+		"ID": 304,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 3026,
+		"trust_provision_SeaHomeTrustProvisions": 4,
+		"serif": "ふふっ、さそってくれてうれしい！\nでは、さっそくじゅんびするか！",
+		"face": "smile",
+		"voice_cue_name": "grayside_0020"
+	},
+	{
+		"ID": 305,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 3026,
+		"trust_provision_SeaHomeTrustProvisions": 3,
+		"serif": "いっしょに行っていいのか？\nそうか、ならばついていこう！",
+		"face": "smile",
+		"voice_cue_name": "grayside_0005"
+	},
+	{
+		"ID": 306,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 3026,
+		"trust_provision_SeaHomeTrustProvisions": 2,
+		"serif": "ふむ、まあついていくとしよう",
+		"face": "usual",
+		"voice_cue_name": "grayside_0003"
+	},
+	{
+		"ID": 307,
+		"same_character_id_UnitUnit": 250022,
+		"character_id": 0,
+		"trust_provision_SeaHomeTrustProvisions": 4,
+		"serif": "オーケィ！なら今すぐレッツゴー！\nベァットな思い出を作らせてあげる！",
+		"face": "smile",
+		"voice_cue_name": "furaikugeru_k_0020"
+	},
+	{
+		"ID": 308,
+		"same_character_id_UnitUnit": 250022,
+		"character_id": 0,
+		"trust_provision_SeaHomeTrustProvisions": 3,
+		"serif": "マスターからのお誘いだなんて！\nそれで、誰のグリィフを見に行くの？",
+		"face": "smile",
+		"voice_cue_name": "furaikugeru_k_0005"
+	},
+	{
+		"ID": 309,
+		"same_character_id_UnitUnit": 250022,
+		"character_id": 0,
+		"trust_provision_SeaHomeTrustProvisions": 2,
+		"serif": "デートだなんてヘァピィなイベント\nこのわたしがクラッシュしてあげる！",
+		"face": "usual",
+		"voice_cue_name": "furaikugeru_k_0004"
+	},
+	{
+		"ID": 310,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 1038,
+		"trust_provision_SeaHomeTrustProvisions": 4,
+		"serif": "う、うん。一緒にいくわ…\n私も、待ってたから…",
+		"face": "shy",
+		"voice_cue_name": "almace_0003"
+	},
+	{
+		"ID": 311,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 1038,
+		"trust_provision_SeaHomeTrustProvisions": 3,
+		"serif": "ふたりっきりで出かけるって\nあなたそれ、まさか…っ！？",
+		"face": "surprise",
+		"voice_cue_name": "almace_0022"
+	},
+	{
+		"ID": 312,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 1038,
+		"trust_provision_SeaHomeTrustProvisions": 2,
+		"serif": "護衛につけばいいのね？",
+		"face": "usual",
+		"voice_cue_name": "almace_0033"
+	},
+	{
+		"ID": 313,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 5032,
+		"trust_provision_SeaHomeTrustProvisions": 4,
+		"serif": "私もそうしたいと思っていました\nさあ、参りましょうか",
+		"face": "happy",
+		"voice_cue_name": "tiphereth_t_0033"
+	},
+	{
+		"ID": 314,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 5032,
+		"trust_provision_SeaHomeTrustProvisions": 3,
+		"serif": "今日はどちらへ赴きましょう？\n私をお導きください。主様",
+		"face": "normal",
+		"voice_cue_name": "tiphereth_t_0001"
+	},
+	{
+		"ID": 315,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 5032,
+		"trust_provision_SeaHomeTrustProvisions": 2,
+		"serif": "主様には従いますが…\n邪念が見えておりますよ？",
+		"face": "usual",
+		"voice_cue_name": "tiphereth_t_0003"
+	},
+	{
+		"ID": 316,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 3028,
+		"trust_provision_SeaHomeTrustProvisions": 4,
+		"serif": "それはもしやデートのお誘いか？\nぜひともご一緒させてくれ",
+		"face": "happy",
+		"voice_cue_name": "herena_a_0033"
+	},
+	{
+		"ID": 317,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 3028,
+		"trust_provision_SeaHomeTrustProvisions": 3,
+		"serif": "ちょうど誘おうと思っていたんだ\nエスコートは任せるよ",
+		"face": "normal",
+		"voice_cue_name": "herena_a_0004"
+	},
+	{
+		"ID": 318,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 3028,
+		"trust_provision_SeaHomeTrustProvisions": 2,
+		"serif": "あぁ、ヘレナでよければ構わないよ",
+		"face": "usual",
+		"voice_cue_name": "herena_a_0003"
+	},
+	{
+		"ID": 319,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 3032,
+		"trust_provision_SeaHomeTrustProvisions": 4,
+		"serif": "あ、あなたがそこまで言うなら\n付き合ってあげる…",
+		"face": "smile",
+		"voice_cue_name": "gaedearg_ge_0032"
+	},
+	{
+		"ID": 320,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 3032,
+		"trust_provision_SeaHomeTrustProvisions": 3,
+		"serif": "あなたもようやく\nわたしの魅力がわかってきたようね",
+		"face": "normal",
+		"voice_cue_name": "gaedearg_ge_0004"
+	},
+	{
+		"ID": 321,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 3032,
+		"trust_provision_SeaHomeTrustProvisions": 2,
+		"serif": "至高の存在たるわたしと\nデートできることを感謝なさい！",
+		"face": "usual",
+		"voice_cue_name": "gaedearg_ge_0007"
+	},
+	{
+		"ID": 322,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 4019,
+		"trust_provision_SeaHomeTrustProvisions": 4,
+		"serif": "時間を割く価値はありそうね",
+		"face": "smile",
+		"voice_cue_name": "failnaught_a_0032"
+	},
+	{
+		"ID": 323,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 4019,
+		"trust_provision_SeaHomeTrustProvisions": 3,
+		"serif": "暇つぶしにはちょうどいいわ",
+		"face": "normal",
+		"voice_cue_name": "failnaught_a_0028"
+	},
+	{
+		"ID": 324,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 4019,
+		"trust_provision_SeaHomeTrustProvisions": 2,
+		"serif": "お願いするというのなら\nふさわしい態度があるでしょう？",
+		"face": "angry",
+		"voice_cue_name": "failnaught_a_0009"
+	},
+	{
+		"ID": 325,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 6018,
+		"trust_provision_SeaHomeTrustProvisions": 4,
+		"serif": "はい！どこへ連れて行って頂けるのか\n今からとても楽しみです！",
+		"face": "smile",
+		"voice_cue_name": "wizu_0003"
+	},
+	{
+		"ID": 326,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 6018,
+		"trust_provision_SeaHomeTrustProvisions": 3,
+		"serif": "たまには良いかもしれませんね\nご一緒させてください",
+		"face": "normal",
+		"voice_cue_name": "wizu_0004"
+	},
+	{
+		"ID": 327,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 6018,
+		"trust_provision_SeaHomeTrustProvisions": 2,
+		"serif": "わ、私とですか？\nでは…はい",
+		"face": "sad",
+		"voice_cue_name": "wizu_0022"
+	},
+	{
+		"ID": 328,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 5026,
+		"trust_provision_SeaHomeTrustProvisions": 4,
+		"serif": "もう！仕方ないわね！",
+		"face": "happy",
+		"voice_cue_name": "yunyun_0005"
+	},
+	{
+		"ID": 329,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 5026,
+		"trust_provision_SeaHomeTrustProvisions": 3,
+		"serif": "そこまで言うなら…\nはい、ご一緒します",
+		"face": "normal",
+		"voice_cue_name": "yunyun_0008"
+	},
+	{
+		"ID": 330,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 5026,
+		"trust_provision_SeaHomeTrustProvisions": 2,
+		"serif": "人違いじゃないですか？\n…私は、構いませんけど…",
+		"face": "sad",
+		"voice_cue_name": "yunyun_0028"
+	},
+	{
+		"ID": 331,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 5031,
+		"trust_provision_SeaHomeTrustProvisions": 4,
+		"serif": "ふふっ、ご一緒させてもらおうかな\nそれがあなたの最適解なら…",
+		"face": "happy",
+		"voice_cue_name": "solomon_t_0005"
+	},
+	{
+		"ID": 332,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 5031,
+		"trust_provision_SeaHomeTrustProvisions": 3,
+		"serif": "その…私なりに準備してくるから、\n少し待ってもらっていい？",
+		"face": "usual",
+		"voice_cue_name": "solomon_t_0003"
+	},
+	{
+		"ID": 333,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 5031,
+		"trust_provision_SeaHomeTrustProvisions": 2,
+		"serif": "計画は入念にね\nさっそく話し合いましょうか",
+		"face": "usual",
+		"voice_cue_name": "solomon_t_0033"
+	},
+	{
+		"ID": 334,
+		"same_character_id_UnitUnit": 210023,
+		"character_id": 0,
+		"trust_provision_SeaHomeTrustProvisions": 4,
+		"serif": "今日はどこに\n連れてってくれるの？",
+		"face": "shy",
+		"voice_cue_name": "revatein_ge_0002"
+	},
+	{
+		"ID": 335,
+		"same_character_id_UnitUnit": 210023,
+		"character_id": 0,
+		"trust_provision_SeaHomeTrustProvisions": 3,
+		"serif": "ん、しょうがないね\n私もついてくよ",
+		"face": "usual",
+		"voice_cue_name": "revatein_ge_0003"
+	},
+	{
+		"ID": 336,
+		"same_character_id_UnitUnit": 210023,
+		"character_id": 0,
+		"trust_provision_SeaHomeTrustProvisions": 2,
+		"serif": "はぁ…出かけるのは\nめんどくさい…",
+		"face": "angry",
+		"voice_cue_name": "revatein_ge_0013"
+	},
+	{
+		"ID": 337,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 3031,
+		"trust_provision_SeaHomeTrustProvisions": 4,
+		"serif": "なんだか、心が湧き立っているわ…\n今日はどこに連れて行ってくれる？",
+		"face": "smile",
+		"voice_cue_name": "cassius_ge_0004"
+	},
+	{
+		"ID": 338,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 3031,
+		"trust_provision_SeaHomeTrustProvisions": 3,
+		"serif": "あなたと共にいることの価値…\n少しずつだけど、わかってきたわ",
+		"face": "normal",
+		"voice_cue_name": "cassius_ge_0003"
+	},
+	{
+		"ID": 339,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 3031,
+		"trust_provision_SeaHomeTrustProvisions": 2,
+		"serif": "わたしとデート…？御館様は、\nそれに意味を見出しているの…？",
+		"face": "normal",
+		"voice_cue_name": "cassius_ge_0022"
+	},
+	{
+		"ID": 340,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 1042,
+		"trust_provision_SeaHomeTrustProvisions": 4,
+		"serif": "マスター。今日のデート…\n私たちを主役にしてくれる？",
+		"face": "smile",
+		"voice_cue_name": "morabeaga_l_0001"
+	},
+	{
+		"ID": 341,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 1042,
+		"trust_provision_SeaHomeTrustProvisions": 3,
+		"serif": "マスターの舞台に呼ばれるなんて…\n緊張するけど、楽しみだなぁ？",
+		"face": "normal",
+		"voice_cue_name": "morabeaga_l_0004"
+	},
+	{
+		"ID": 342,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 1042,
+		"trust_provision_SeaHomeTrustProvisions": 2,
+		"serif": "デートなんて上手くできるかな？\nううんっ、がんばってみるね…！",
+		"face": "normal",
+		"voice_cue_name": "morabeaga_l_0028"
+	},
+	{
+		"ID": 343,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 6025,
+		"trust_provision_SeaHomeTrustProvisions": 4,
+		"serif": "マスターさんの側にいられるなら\nどこでも楽しくなれちゃうよ♪",
+		"face": "smile",
+		"voice_cue_name": "chalice_t_0005"
+	},
+	{
+		"ID": 344,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 6025,
+		"trust_provision_SeaHomeTrustProvisions": 3,
+		"serif": "もちろんっ、一緒に行こう！\n今日のデートも楽しみだな～♪",
+		"face": "smile",
+		"voice_cue_name": "chalice_t_0033"
+	},
+	{
+		"ID": 345,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 6025,
+		"trust_provision_SeaHomeTrustProvisions": 2,
+		"serif": "良い感じの場所に\n連れて行ってね、マスターさん！",
+		"face": "usual",
+		"voice_cue_name": "chalice_t_0032"
+	},
+	{
+		"ID": 346,
+		"same_character_id_UnitUnit": 210144,
+		"character_id": 0,
+		"trust_provision_SeaHomeTrustProvisions": 4,
+		"serif": "は、はい…私でよければ\nつれていってくださいっ…！",
+		"face": "normal",
+		"voice_cue_name": "tyrufing_lo_0005"
+	},
+	{
+		"ID": 347,
+		"same_character_id_UnitUnit": 210144,
+		"character_id": 0,
+		"trust_provision_SeaHomeTrustProvisions": 3,
+		"serif": "いっしょにあそびにいくんですか？\nぜひぜひっ、いきましょう♪",
+		"face": "normal",
+		"voice_cue_name": "tyrufing_lo_0033"
+	},
+	{
+		"ID": 348,
+		"same_character_id_UnitUnit": 210144,
+		"character_id": 0,
+		"trust_provision_SeaHomeTrustProvisions": 2,
+		"serif": "私だけじゃなくて、\nみんなといっしょにあそびましょう",
+		"face": "usual",
+		"voice_cue_name": "tyrufing_lo_0003"
+	},
+	{
+		"ID": 349,
+		"same_character_id_UnitUnit": 250312,
+		"character_id": 0,
+		"trust_provision_SeaHomeTrustProvisions": 4,
+		"serif": "もちろんいっしょにいくわ！\nそれが私のさいてきかいだもの！",
+		"face": "happy",
+		"voice_cue_name": "solomon_lo_0020"
+	},
+	{
+		"ID": 350,
+		"same_character_id_UnitUnit": 250312,
+		"character_id": 0,
+		"trust_provision_SeaHomeTrustProvisions": 3,
+		"serif": "どこかにつれていってくれるの？\nええ、ふたりでいきましょ！",
+		"face": "happy",
+		"voice_cue_name": "solomon_lo_0007"
+	},
+	{
+		"ID": 351,
+		"same_character_id_UnitUnit": 250312,
+		"character_id": 0,
+		"trust_provision_SeaHomeTrustProvisions": 2,
+		"serif": "うん、だいじょうぶ！\nけいかくにししょうはないわ",
+		"face": "usual",
+		"voice_cue_name": "solomon_lo_0033"
+	},
+	{
+		"ID": 352,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 2031,
+		"trust_provision_SeaHomeTrustProvisions": 4,
+		"serif": "フフ…ワタシとデートするの、\nそんな楽しみにしてくれてるんだ♪",
+		"face": "happy",
+		"voice_cue_name": "nyoikinkobou_c_0005"
+	},
+	{
+		"ID": 353,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 2031,
+		"trust_provision_SeaHomeTrustProvisions": 3,
+		"serif": "実は行きたいところがあって…\n今日の行き先、そこでもいいかな？",
+		"face": "happy",
+		"voice_cue_name": "nyoikinkobou_c_0002"
+	},
+	{
+		"ID": 354,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 2031,
+		"trust_provision_SeaHomeTrustProvisions": 2,
+		"serif": "ワタシとデートしてみたいの？\nフフ、了解…さっそく行こうか",
+		"face": "usual",
+		"voice_cue_name": "nyoikinkobou_c_0032"
+	},
+	{
+		"ID": 355,
+		"same_character_id_UnitUnit": 230182,
+		"character_id": 0,
+		"trust_provision_SeaHomeTrustProvisions": 4,
+		"serif": "はい…待っていましたよ\nいつでも準備は出来ています",
+		"face": "happy",
+		"voice_cue_name": "forcas_c_0005"
+	},
+	{
+		"ID": 356,
+		"same_character_id_UnitUnit": 230182,
+		"character_id": 0,
+		"trust_provision_SeaHomeTrustProvisions": 3,
+		"serif": "プライベートの遊びですか\n…まあ、それが望みであれば",
+		"face": "usual",
+		"voice_cue_name": "forcas_c_0032"
+	},
+	{
+		"ID": 357,
+		"same_character_id_UnitUnit": 230182,
+		"character_id": 0,
+		"trust_provision_SeaHomeTrustProvisions": 2,
+		"serif": "同行するのは構いませんが…\n妙な勘違いはしないで下さいね",
+		"face": "usual",
+		"voice_cue_name": "forcas_c_0003"
+	},
+	{
+		"ID": 358,
+		"same_character_id_UnitUnit": 210024,
+		"character_id": 0,
+		"trust_provision_SeaHomeTrustProvisions": 4,
+		"serif": "あそびたいの？…いいよ、別に\nに、にやけてないしっ",
+		"face": "smile",
+		"voice_cue_name": "revatein_lo_0033"
+	},
+	{
+		"ID": 359,
+		"same_character_id_UnitUnit": 210024,
+		"character_id": 0,
+		"trust_provision_SeaHomeTrustProvisions": 3,
+		"serif": "おひるねしてもいい？\nねむくてねむくて…ふわぁあ…",
+		"face": "surprise",
+		"voice_cue_name": "revatein_lo_0002"
+	},
+	{
+		"ID": 360,
+		"same_character_id_UnitUnit": 210024,
+		"character_id": 0,
+		"trust_provision_SeaHomeTrustProvisions": 2,
+		"serif": "でかけるの？　めんどくさい…\nでもまぁ、つきあうよ",
+		"face": "normal",
+		"voice_cue_name": "revatein_lo_0028"
+	},
+	{
+		"ID": 361,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 4020,
+		"trust_provision_SeaHomeTrustProvisions": 4,
+		"serif": "つまりあれか…デートって\nヤツなんだな、これが",
+		"face": "normal",
+		"voice_cue_name": "hyoha_c_0042"
+	},
+	{
+		"ID": 362,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 4020,
+		"trust_provision_SeaHomeTrustProvisions": 3,
+		"serif": "息抜きも大事だもんな！\n気合い入れて遊ぶか！",
+		"face": "smile",
+		"voice_cue_name": "hyoha_c_0005"
+	},
+	{
+		"ID": 363,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 4020,
+		"trust_provision_SeaHomeTrustProvisions": 2,
+		"serif": "遊びに行くって？\n暇だしちょうどいいぞ",
+		"face": "usual",
+		"voice_cue_name": "hyoha_c_0032"
+	},
+	{
+		"ID": 364,
+		"same_character_id_UnitUnit": 230312,
+		"character_id": 0,
+		"trust_provision_SeaHomeTrustProvisions": 4,
+		"serif": "うん…きょうはいちにち、\nおやかたしゃまといっしょがいい…",
+		"face": "happy",
+		"voice_cue_name": "cassius_lo_0033"
+	},
+	{
+		"ID": 365,
+		"same_character_id_UnitUnit": 230312,
+		"character_id": 0,
+		"trust_provision_SeaHomeTrustProvisions": 3,
+		"serif": "おやかたしゃまのすきなばしょ、\nわたしにおしえてくれる？",
+		"face": "normal",
+		"voice_cue_name": "cassius_lo_0001"
+	},
+	{
+		"ID": 366,
+		"same_character_id_UnitUnit": 230312,
+		"character_id": 0,
+		"trust_provision_SeaHomeTrustProvisions": 2,
+		"serif": "わたしもついていく…\nこれからどこにむかうの？",
+		"face": "normal",
+		"voice_cue_name": "cassius_lo_0003"
+	},
+	{
+		"ID": 367,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 1046,
+		"trust_provision_SeaHomeTrustProvisions": 4,
+		"serif": "しょーがないなぁ♪\n付き合ってあげるよ、だんちょー",
+		"face": "happy",
+		"voice_cue_name": "murgleys_c_0032"
+	},
+	{
+		"ID": 368,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 1046,
+		"trust_provision_SeaHomeTrustProvisions": 3,
+		"serif": "おごってくれるならいいよ\nぜ～んぶ、おごってくれるならね",
+		"face": "normal",
+		"voice_cue_name": "murgleys_c_0004"
+	},
+	{
+		"ID": 369,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 1046,
+		"trust_provision_SeaHomeTrustProvisions": 2,
+		"serif": "え～？だんちょーとおでかけ？\nいつ？うーん、そこなら、まぁ…",
+		"face": "normal",
+		"voice_cue_name": "murgleys_c_0003"
+	},
+	{
+		"ID": 370,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 2030,
+		"trust_provision_SeaHomeTrustProvisions": 4,
+		"serif": "どの時間軸でも、当主様は\n私をデートに誘ってくれるのね…",
+		"face": "normal",
+		"voice_cue_name": "risanautr_l_0005"
+	},
+	{
+		"ID": 371,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 2030,
+		"trust_provision_SeaHomeTrustProvisions": 3,
+		"serif": "あえて未来は見ないでおくわ\nふふ…どんなデートになるのかしら？",
+		"face": "normal",
+		"voice_cue_name": "risanautr_l_0004"
+	},
+	{
+		"ID": 372,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 2030,
+		"trust_provision_SeaHomeTrustProvisions": 2,
+		"serif": "五秒後、当主様は私をデートに誘う…\nこれは予言ではない。確定事象よ",
+		"face": "normal",
+		"voice_cue_name": "risanautr_l_0032"
+	},
+	{
+		"ID": 373,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 6032,
+		"trust_provision_SeaHomeTrustProvisions": 4,
+		"serif": "マジ！？誘ってくれるの！？\nあーっ、早く準備しなきゃ♪",
+		"face": "normal",
+		"voice_cue_name": "orpheus_c_0020"
+	},
+	{
+		"ID": 374,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 6032,
+		"trust_provision_SeaHomeTrustProvisions": 3,
+		"serif": "リーダーもしかしてあたしに\n気がある感じ？冗談冗談♪",
+		"face": "normal",
+		"voice_cue_name": "orpheus_c_0004"
+	},
+	{
+		"ID": 375,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 6032,
+		"trust_provision_SeaHomeTrustProvisions": 2,
+		"serif": "えっ？あたし？\nいいけど、期待しないでよ？",
+		"face": "shy",
+		"voice_cue_name": "orpheus_c_0022"
+	},
+	{
+		"ID": 376,
+		"same_character_id_UnitUnit": 230013,
+		"character_id": 0,
+		"trust_provision_SeaHomeTrustProvisions": 4,
+		"serif": "おにいさんといっしょにおでかけ…！\nえへへ、きょうもたのしみです♪",
+		"face": "happy",
+		"voice_cue_name": "ronginusu_lo_0006"
+	},
+	{
+		"ID": 377,
+		"same_character_id_UnitUnit": 230013,
+		"character_id": 0,
+		"trust_provision_SeaHomeTrustProvisions": 3,
+		"serif": "わ、わたしでいいんですか？\nすぐにじゅんびしてきますね…！",
+		"face": "normal",
+		"voice_cue_name": "ronginusu_lo_0005"
+	},
+	{
+		"ID": 378,
+		"same_character_id_UnitUnit": 230013,
+		"character_id": 0,
+		"trust_provision_SeaHomeTrustProvisions": 2,
+		"serif": "は、はい…なんでしょう…？\nおでかけ？わ、わかりました！",
+		"face": "normal",
+		"voice_cue_name": "ronginusu_lo_0032"
+	},
+	{
+		"ID": 379,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 4011,
+		"trust_provision_SeaHomeTrustProvisions": 4,
+		"serif": "わぁっ、いいの？\nうん！行こう行こう！",
+		"face": "happy",
+		"voice_cue_name": "madoka_0021"
+	},
+	{
+		"ID": 380,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 4011,
+		"trust_provision_SeaHomeTrustProvisions": 3,
+		"serif": "えへへ…改まって誘われると、\nなんだか照れちゃうね",
+		"face": "happy",
+		"voice_cue_name": "madoka_0042"
+	},
+	{
+		"ID": 381,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 4011,
+		"trust_provision_SeaHomeTrustProvisions": 2,
+		"serif": "お出かけするの？\nうん、もちろんいいよ！",
+		"face": "normal",
+		"voice_cue_name": "madoka_0003"
+	},
+	{
+		"ID": 382,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 5014,
+		"trust_provision_SeaHomeTrustProvisions": 4,
+		"serif": "今日はどこに連れていってくれるの？\n楽しみね、ふふっ♪",
+		"face": "happy",
+		"voice_cue_name": "mami_0002"
+	},
+	{
+		"ID": 383,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 5014,
+		"trust_provision_SeaHomeTrustProvisions": 3,
+		"serif": "私にお誘い？うれしいわ！\nさっそく準備してくるわね",
+		"face": "normal",
+		"voice_cue_name": "mami_0020"
+	},
+	{
+		"ID": 384,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 5014,
+		"trust_provision_SeaHomeTrustProvisions": 2,
+		"serif": "そうね\nいっしょに行くわ",
+		"face": "normal",
+		"voice_cue_name": "mami_0003"
+	},
+	{
+		"ID": 385,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 5037,
+		"trust_provision_SeaHomeTrustProvisions": 4,
+		"serif": "これって…夢じゃない、よね…？\nお兄さまとデートできるなんて…！",
+		"face": "surprise",
+		"voice_cue_name": "logistille_c_0042"
+	},
+	{
+		"ID": 386,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 5037,
+		"trust_provision_SeaHomeTrustProvisions": 3,
+		"serif": "は、はいっ！もちろんですっ！\nわたしなんかでよければっ…！",
+		"face": "normal",
+		"voice_cue_name": "logistille_c_0003"
+	},
+	{
+		"ID": 387,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 5037,
+		"trust_provision_SeaHomeTrustProvisions": 2,
+		"serif": "わ、わたしとデートですかっ？\nお相手を間違えてませんか…！？",
+		"face": "sad",
+		"voice_cue_name": "logistille_c_0023"
+	},
+	{
+		"ID": 388,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 1020,
+		"trust_provision_SeaHomeTrustProvisions": 4,
+		"serif": "さやかちゃんの魅力に\nすっかりメロメロみたいだね～？",
+		"face": "shy",
+		"voice_cue_name": "sayaka_0042"
+	},
+	{
+		"ID": 389,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 1020,
+		"trust_provision_SeaHomeTrustProvisions": 3,
+		"serif": "私といっしょがいいの？\nそう言われると悪い気しないな～",
+		"face": "normal",
+		"voice_cue_name": "sayaka_0004"
+	},
+	{
+		"ID": 390,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 1020,
+		"trust_provision_SeaHomeTrustProvisions": 2,
+		"serif": "どこかに出かける感じ？\n私も暇だからついてくよ",
+		"face": "usual",
+		"voice_cue_name": "sayaka_0002"
+	},
+	{
+		"ID": 391,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 3015,
+		"trust_provision_SeaHomeTrustProvisions": 4,
+		"serif": "もちろん一緒に行ってやるよ\nアタシとマスターのよしみだからね！",
+		"face": "usual",
+		"voice_cue_name": "kyoko_0032"
+	},
+	{
+		"ID": 392,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 3015,
+		"trust_provision_SeaHomeTrustProvisions": 3,
+		"serif": "たまにはマスターと息抜きするのも\nいいかもしれないな",
+		"face": "normal",
+		"voice_cue_name": "kyoko_0004"
+	},
+	{
+		"ID": 393,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 3015,
+		"trust_provision_SeaHomeTrustProvisions": 2,
+		"serif": "異族の居場所教えなよ\nアタシがぶっ飛ばしてやるからさ",
+		"face": "happy",
+		"voice_cue_name": "kyoko_0002"
+	},
+	{
+		"ID": 394,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 5013,
+		"trust_provision_SeaHomeTrustProvisions": 4,
+		"serif": "貴方の安全はわたしが保証する\nさあ、いっしょに出かけましょう",
+		"face": "normal",
+		"voice_cue_name": "homura_0033"
+	},
+	{
+		"ID": 395,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 5013,
+		"trust_provision_SeaHomeTrustProvisions": 3,
+		"serif": "そうね。たまには軽い気持ちで\n外に出かけるのもいいかしら",
+		"face": "normal",
+		"voice_cue_name": "homura_0003"
+	},
+	{
+		"ID": 396,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 5013,
+		"trust_provision_SeaHomeTrustProvisions": 2,
+		"serif": "異族が出た？\nええ、付き合ってあげるわ",
+		"face": "angry",
+		"voice_cue_name": "homura_0029"
+	},
+	{
+		"ID": 397,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 4022,
+		"trust_provision_SeaHomeTrustProvisions": 4,
+		"serif": "お兄さんが行きたいところなら\nボクはどこだって楽しいよ",
+		"face": "normal",
+		"voice_cue_name": "ichiibal_c_0042"
+	},
+	{
+		"ID": 398,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 4022,
+		"trust_provision_SeaHomeTrustProvisions": 3,
+		"serif": "お兄さんと一緒にいると\nボクも変われる気がするよ",
+		"face": "normal",
+		"voice_cue_name": "ichiibal_c_0005"
+	},
+	{
+		"ID": 399,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 4022,
+		"trust_provision_SeaHomeTrustProvisions": 2,
+		"serif": "ボクとデートしたいってこと？\nどうなるか気になるね",
+		"face": "surprise",
+		"voice_cue_name": "ichiibal_c_0039"
+	},
+	{
+		"ID": 400,
+		"same_character_id_UnitUnit": 250322,
+		"character_id": 0,
+		"trust_provision_SeaHomeTrustProvisions": 4,
+		"serif": "ああ、主様が私をお誘いに…\nぜひご一緒させてください！",
+		"face": "surprise",
+		"voice_cue_name": "tiphereth_ca_0006"
+	},
+	{
+		"ID": 401,
+		"same_character_id_UnitUnit": 250322,
+		"character_id": 0,
+		"trust_provision_SeaHomeTrustProvisions": 3,
+		"serif": "主様がお望みでしたら、\n断る理由などございません",
+		"face": "normal",
+		"voice_cue_name": "tiphereth_ca_0033"
+	},
+	{
+		"ID": 402,
+		"same_character_id_UnitUnit": 250322,
+		"character_id": 0,
+		"trust_provision_SeaHomeTrustProvisions": 2,
+		"serif": "私でよろしいのですか？\nはい、お伴させていただきます！",
+		"face": "normal",
+		"voice_cue_name": "tiphereth_ca_0003"
+	},
+	{
+		"ID": 403,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 20001,
+		"trust_provision_SeaHomeTrustProvisions": 4,
+		"serif": "わ、わざわざ私を誘うってことは…\nそういうことだよね、隊長っ！？",
+		"face": "shy",
+		"voice_cue_name": "aegis_c_0021"
+	},
+	{
+		"ID": 404,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 20001,
+		"trust_provision_SeaHomeTrustProvisions": 3,
+		"serif": "そ、そんな顔されたら\n断れないじゃない…バカっ",
+		"face": "sad",
+		"voice_cue_name": "aegis_c_0027"
+	},
+	{
+		"ID": 405,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 20001,
+		"trust_provision_SeaHomeTrustProvisions": 2,
+		"serif": "同行者が必要か？\nならば私の出番だな",
+		"face": "usual",
+		"voice_cue_name": "aegis_c_0032"
+	},
+	{
+		"ID": 406,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 2022,
+		"trust_provision_SeaHomeTrustProvisions": 4,
+		"serif": "うむ…そなたと一緒なら、\nどこにでもついていくぞ",
+		"face": "shy",
+		"voice_cue_name": "banko_0033"
+	},
+	{
+		"ID": 407,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 2022,
+		"trust_provision_SeaHomeTrustProvisions": 3,
+		"serif": "外に行くのか…？\nこ、怖いけど、がんばる…！",
+		"face": "surprise",
+		"voice_cue_name": "banko_0022"
+	},
+	{
+		"ID": 408,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 2022,
+		"trust_provision_SeaHomeTrustProvisions": 2,
+		"serif": "上手くできるだろうか…\nこういうのは不慣れなのだ…",
+		"face": "angry",
+		"voice_cue_name": "banko_0013"
+	},
+	{
+		"ID": 409,
+		"same_character_id_UnitUnit": 240192,
+		"character_id": 0,
+		"trust_provision_SeaHomeTrustProvisions": 4,
+		"serif": "すっかり私に夢中じゃない\nふふ、困ったものね…",
+		"face": "shy",
+		"voice_cue_name": "failnaught_ca_0004"
+	},
+	{
+		"ID": 410,
+		"same_character_id_UnitUnit": 240192,
+		"character_id": 0,
+		"trust_provision_SeaHomeTrustProvisions": 3,
+		"serif": "お前様なら当然、\n私を誘うと思っていたわ",
+		"face": "normal",
+		"voice_cue_name": "failnaught_ca_0032"
+	},
+	{
+		"ID": 411,
+		"same_character_id_UnitUnit": 240192,
+		"character_id": 0,
+		"trust_provision_SeaHomeTrustProvisions": 2,
+		"serif": "期待しているわよ\n私を楽しませてみなさい",
+		"face": "usual",
+		"voice_cue_name": "failnaught_ca_0003"
+	},
+	{
+		"ID": 412,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 3034,
+		"trust_provision_SeaHomeTrustProvisions": 4,
+		"serif": "うん…君に任せるよ\n私のこと、エスコートしてね？",
+		"face": "usual",
+		"voice_cue_name": "grandepieu_di_0032"
+	},
+	{
+		"ID": 413,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 3034,
+		"trust_provision_SeaHomeTrustProvisions": 3,
+		"serif": "い、いいのかな、私で？\nもっと可愛い子の方が…",
+		"face": "normal",
+		"voice_cue_name": "grandepieu_di_0028"
+	},
+	{
+		"ID": 414,
+		"same_character_id_UnitUnit": 0,
+		"character_id": 3034,
+		"trust_provision_SeaHomeTrustProvisions": 2,
+		"serif": "さぁ、一緒に行こう\nどこへでも連れて行ってあげる",
+		"face": "normal",
+		"voice_cue_name": "grandepieu_di_0003"
+	},
+	{
+		"ID": 415,
+		"same_character_id_UnitUnit": 230313,
+		"character_id": 0,
+		"trust_provision_SeaHomeTrustProvisions": 4,
+		"serif": "そう…わたしと一緒がいいのね\nわたしもあなたと同じ気持ち…♪",
+		"face": "smile",
+		"voice_cue_name": "cassius_ca_0020"
+	},
+	{
+		"ID": 416,
+		"same_character_id_UnitUnit": 230313,
+		"character_id": 0,
+		"trust_provision_SeaHomeTrustProvisions": 3,
+		"serif": "ええ、行きましょう？\n御館様とのデート…ふふっ",
+		"face": "smile",
+		"voice_cue_name": "cassius_ca_0005"
+	},
+	{
+		"ID": 417,
+		"same_character_id_UnitUnit": 230313,
+		"character_id": 0,
+		"trust_provision_SeaHomeTrustProvisions": 2,
+		"serif": "ええと…困ったわ\nこういうの、まだ慣れていなくて…",
+		"face": "usual",
+		"voice_cue_name": "cassius_ca_0032"
+	}
+]

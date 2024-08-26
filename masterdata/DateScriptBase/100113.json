@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 100113,
+		"script": ";;今を大切にしよう 中\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_castle\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n# voice 1001 \"masamune_0031\"\n@マサムネ\n主君に気を遣わせてしまうとは…\n情けない限りだ…\n\n@マサムネ\nなにもこの句に込められた\n諸行無常を嘆いたのではない…！\n\n# textflame 0 0\n@\nマスターの気分を害したと思ったのか\nマサムネは必死で弁明した\n\n# eye %(unit_a)s \"close\"\n# textflame 1 1\n@マサムネ\n…ただの感傷なのだ\n古城というものはなぜか\n拙者の心に訴えるものがある\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"smile\"\n@マサムネ\n様々な過去があり、\nそして今も存在し続ける…\n\n# textflame 0 0\n@\n古城の過去を思い、\nうっとりとしたマサムネの横顔\n\n@\n美しいものに見惚れる\n彼女の乙女な心を\n大切に見つめるマスターだった…\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

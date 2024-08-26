@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 491002398,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# se \"SE_0733\"\n# textflame 1 1\n# face %(unit_a)s \"surprise\"\n@レーヴァテイン\nそのこたえ…\n\n# voice 210042 \"revatein_lo_0028\"\n@レーヴァテイン\nはずれよ\n\n# voice 210042 \"revatein_lo_0013\"\n@レーヴァテイン\nそっか…\nあんまりわかってないんだね\n\n# face %(unit_a)s \"normal\"\n@レーヴァテイン\n…ふわ～\n\n# face %(unit_a)s \"angry\"\n# voice 210042 \"revatein_lo_0027\"\n@レーヴァテイン\nなんだか、ねむくなった\n\n@レーヴァテイン\nかえろっか\n\n# textflame 0 0\n@\n素っ気なく言うが、\nその声は明らかに\n不機嫌になっていた…\n\n@\nマスターは、\n彼女を怒らせてしまったことを\n深く反省していた\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

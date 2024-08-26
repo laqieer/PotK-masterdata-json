@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 103412,
+		"script": ";;A--------------------------\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_hauntedhouse\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# voice 1034 \"dakunesu_0027\"\n# face %(unit_a)s \"shy\"\n@ダクネス\nいくら私といえど\nそれくらいは知っている\nだが擬似的なものでも…\n\n# voice 1034 \"dakunesu_0021\"\n@ダクネス\n手を抜かず全て受け止めることに\nその先の快…意味があるのだ\n\n@ダクネス\nそれに、本物が出ないとも限らない\n…むしろ出てきてほしい\n\n# face %(unit_a)s \"sad\"\n# voice 1034 \"dakunesu_0022\"\n@ダクネス\nひゃっ！？\n\n# textflame 0 0\n;;モノローグ\n@\n床のスイッチを踏んだのか\n壁からのエアーが襲いかかってくる\n\n# textflame 1 1\n# voice 1034 \"dakunesu_0026\"\n# face %(unit_a)s \"shy\"\n@ダクネス\nく、なかなかやるな…\n布地がない箇所を\n徹底的についてくるとは\n\n;;モノローグ\n# textflame 0 0\n@\nだからそういう楽しみ方じゃないよ\nとダクネスの手を握るマスター\n\n# textflame 1 1\n@ダクネス\nマ、マスター、一体何を！？\n\n;;モノローグ\n# textflame 0 0\n@\n普通の楽しみ方をしようよ、と\nそのまま進んでいく\n\n# face %(unit_a)s \"sad\"\n# voice 1034 \"dakunesu_0011\"\n# textflame 1 1\n@ダクネス\n普通だと！？\n\n# face %(unit_a)s \"shy\"\n# textflame 1 1\n@ダクネス\n片手を封じられたこの状況で！？\nああでも\n動きを制限されるのも…くうっ！\n\n;;モノローグ\n# textflame 0 0\n@\nやはり少し逸れた\n楽しみ方となってしまったが\n\n;;モノローグ\n@\nそれでも二人の手は\n出口まで結ばれたままだった\n\n# waitandnext 2\n# fadeout \"black\" 1.2\n"
+	}
+]

@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 102712,
+		"script": "# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_cave\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# face %(unit_a)s \"angry\"\n# voice 1027 \"solais_0028\"\n# eye %(unit_a)s \"close\"\n@クラウ・ソラス\nわざわざ洞窟なんかに来て\n採掘以外にすることなんて\nないと思うんだが…\n\n# textflame 0 0\n@\n薄暗くて狭い洞窟の中を\nおっかなびっくり探検するのが\n楽しいのでは…と告げるマスター\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@クラウ・ソラス\nいまいちピンとこないんだが…\n\n# face %(unit_a)s \"normal\"\n# voice 1027 \"solais_0002\"\n# textflame 1 1\n@クラウ・ソラス\n例えば私とマスターなら\nどんな風になるのかな？\n\n# textflame 0 0\n@\nもちろんマスターがエスコートして\n女の子のクラウ・ソラスは\nその腕につかまったりして…\n\n# face %(unit_a)s \"sad\"\n# voice 1027 \"solais_0022\"\n# textflame 1 1\n@クラウ・ソラス\nマスターの腕に…\n私がつかまって…\nこの狭い洞窟を…？\n\n# voice 1027 \"solais_0042\"\n# textflame 1 1\n@クラウ・ソラス\nそ、それだと…\nだいぶ密着することになるよね…？\nマズイんじゃないかな…それは！？\n\n# textflame 1 1\n@クラウ・ソラス\nいや、マスターがかまわないなら！？\n私としては\nやぶさかではないんだが…\n\n# voice 1027 \"solais_0023\"\n# textflame 1 1\n@クラウ・ソラス\nえ、ほんとに！？\nやるのかい！？\n\n# textflame 0 0\n@\n違う意味でビクビクしている\nクラウ・ソラスと\n洞窟探検を楽しんだのだった――\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

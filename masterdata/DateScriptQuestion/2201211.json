@@ -1,0 +1,302 @@
+[
+	{
+		"ID": 3851,
+		"unitID": 2201211,
+		"questionID": 9201201,
+		"script": ";;スラーンド,1\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 2012 \"srand_0001\"\n@スラーンド\nねぇ、マスター…\n\n@スラーンド\nマスターって\nあたしの事\nどれくらい知ってるの？\n\n# voice 2012 \"srand_0028\"\n# face %(unit_a)s \"sad\"\n@スラーンド\nん～…\nちょっと、言葉じゃ\nわからない！\n\n# face %(unit_a)s \"usual\"\n@スラーンド\nどうしよっか…\nあっ、そうだ！\n\n@スラーンド\n少し、クイズを\n出してみてもいい？\n\n@スラーンド\n大丈夫！\nあたしの事だから♪\n\n# voice 2012 \"srand_0036\"\n@スラーンド\nそれじゃ、いくよ！\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nあたしのキラーズ『スラーンド』は\n誰の持ち主だったかわかる？\n\n# se \"SE_0734\"\n# select  \"スラーンド\" \"select_label_1\" \"オーディン\" \"select_label_2\" \"ソルステイン\" \"select_label_3\"\nあたしのキラーズ『スラーンド』は\n誰の持ち主だったかわかる？\n"
+	},
+	{
+		"ID": 3852,
+		"unitID": 2201211,
+		"questionID": 9201202,
+		"script": ";;斧,2\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 2012 \"srand_0001\"\n@スラーンド\nねぇ、マスター…\n\n@スラーンド\nマスターって\nあたしの事\nどれくらい知ってるの？\n\n# voice 2012 \"srand_0028\"\n# face %(unit_a)s \"sad\"\n@スラーンド\nん～…\nちょっと、言葉じゃ\nわからない！\n\n# face %(unit_a)s \"usual\"\n@スラーンド\nどうしよっか…\nあっ、そうだ！\n\n@スラーンド\n少し、クイズを\n出してみてもいい？\n\n@スラーンド\n大丈夫！\nあたしの事だから♪\n\n# voice 2012 \"srand_0036\"\n@スラーンド\nそれじゃ、いくよ！\n;;--------------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nあたしのキラーズ『スラーンド』は\nどんな武器だった？\n\n# se \"SE_0734\"\n# select  \"剣\" \"select_label_1\" \"斧\" \"select_label_2\" \"槍\" \"select_label_3\"\nあたしのキラーズ『スラーンド』は\nどんな武器だった？\n"
+	},
+	{
+		"ID": 3853,
+		"unitID": 2201211,
+		"questionID": 9201203,
+		"script": ";;1エレ,3\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 2012 \"srand_0001\"\n@スラーンド\nねぇ、マスター…\n\n@スラーンド\nマスターって\nあたしの事\nどれくらい知ってるの？\n\n# voice 2012 \"srand_0028\"\n# face %(unit_a)s \"sad\"\n@スラーンド\nん～…\nちょっと、言葉じゃ\nわからない！\n\n# face %(unit_a)s \"usual\"\n@スラーンド\nどうしよっか…\nあっ、そうだ！\n\n@スラーンド\n少し、クイズを\n出してみてもいい？\n\n@スラーンド\n大丈夫！\nあたしの事だから♪\n\n# voice 2012 \"srand_0036\"\n@スラーンド\nそれじゃ、いくよ！\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nあたしのキラーズ『スラーンド』の\n刃先はどれくらいだった？\n\n# se \"SE_0734\"\n# select  \"4エレ\" \"select_label_1\" \"3エレ\" \"select_label_2\" \"1エレ\" \"select_label_3\"\nあたしのキラーズ『スラーンド』の\n刃先はどれくらいだった？\n"
+	},
+	{
+		"ID": 3854,
+		"unitID": 2201211,
+		"questionID": 9201204,
+		"script": ";;ソルステイン,1\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 2012 \"srand_0001\"\n@スラーンド\nねぇ、マスター…\n\n@スラーンド\nマスターって\nあたしの事\nどれくらい知ってるの？\n\n# voice 2012 \"srand_0028\"\n# face %(unit_a)s \"sad\"\n@スラーンド\nん～…\nちょっと、言葉じゃ\nわからない！\n\n# face %(unit_a)s \"usual\"\n@スラーンド\nどうしよっか…\nあっ、そうだ！\n\n@スラーンド\n少し、クイズを\n出してみてもいい？\n\n@スラーンド\n大丈夫！\nあたしの事だから♪\n\n# voice 2012 \"srand_0036\"\n@スラーンド\nそれじゃ、いくよ！\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nあたしのキラーズ『スラーンド』は\n誰に対抗するために\nスラーンドに渡された？\n\n# se \"SE_0734\"\n# select  \"ソルステイン\" \"select_label_1\" \"オーディン\" \"select_label_2\" \"松尾芭蕉\" \"select_label_3\"\nあたしのキラーズ『スラーンド』は\n誰に対抗するために\nスラーンドに渡された？\n"
+	},
+	{
+		"ID": 3855,
+		"unitID": 2201211,
+		"questionID": 9201205,
+		"script": ";;鋭い,2\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 2012 \"srand_0001\"\n@スラーンド\nねぇ、マスター…\n\n@スラーンド\nマスターって\nあたしの事\nどれくらい知ってるの？\n\n# voice 2012 \"srand_0028\"\n# face %(unit_a)s \"sad\"\n@スラーンド\nん～…\nちょっと、言葉じゃ\nわからない！\n\n# face %(unit_a)s \"usual\"\n@スラーンド\nどうしよっか…\nあっ、そうだ！\n\n@スラーンド\n少し、クイズを\n出してみてもいい？\n\n@スラーンド\n大丈夫！\nあたしの事だから♪\n\n# voice 2012 \"srand_0036\"\n@スラーンド\nそれじゃ、いくよ！\n;;--------------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nあたしのキラーズ『スラーンド』の\n刃は恐ろしい程どうだった？\n\n# se \"SE_0734\"\n# select  \"脆い\" \"select_label_1\" \"鋭い\" \"select_label_2\" \"頑丈\" \"select_label_3\"\nあたしのキラーズ『スラーンド』の\n刃は恐ろしい程どうだった？\n"
+	},
+	{
+		"ID": 3856,
+		"unitID": 2201211,
+		"questionID": 9201206,
+		"script": ";;ステイナル,3\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 2012 \"srand_0001\"\n@スラーンド\nねぇ、マスター…\n\n@スラーンド\nマスターって\nあたしの事\nどれくらい知ってるの？\n\n# voice 2012 \"srand_0028\"\n# face %(unit_a)s \"sad\"\n@スラーンド\nん～…\nちょっと、言葉じゃ\nわからない！\n\n# face %(unit_a)s \"usual\"\n@スラーンド\nどうしよっか…\nあっ、そうだ！\n\n@スラーンド\n少し、クイズを\n出してみてもいい？\n\n@スラーンド\n大丈夫！\nあたしの事だから♪\n\n# voice 2012 \"srand_0036\"\n@スラーンド\nそれじゃ、いくよ！\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nあたしのキラーズ『スラーンド』を\nスラーンドに授けたのは誰？\n\n# se \"SE_0734\"\n# select  \"オーディン\" \"select_label_1\" \"ソルステイン\" \"select_label_2\" \"ステイナル\" \"select_label_3\"\nあたしのキラーズ『スラーンド』を\nスラーンドに授けたのは誰？\n"
+	},
+	{
+		"ID": 3857,
+		"unitID": 2201211,
+		"questionID": 9201207,
+		"script": ";;エギルのサガ,1\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 2012 \"srand_0001\"\n@スラーンド\nねぇ、マスター…\n\n@スラーンド\nマスターって\nあたしの事\nどれくらい知ってるの？\n\n# voice 2012 \"srand_0028\"\n# face %(unit_a)s \"sad\"\n@スラーンド\nん～…\nちょっと、言葉じゃ\nわからない！\n\n# face %(unit_a)s \"usual\"\n@スラーンド\nどうしよっか…\nあっ、そうだ！\n\n@スラーンド\n少し、クイズを\n出してみてもいい？\n\n@スラーンド\n大丈夫！\nあたしの事だから♪\n\n# voice 2012 \"srand_0036\"\n@スラーンド\nそれじゃ、いくよ！\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nあたしのキラーズ『スラーンド』が\n登場する英雄譚の名前はなに？\n\n# se \"SE_0734\"\n# select  \"エギルのサガ\" \"select_label_1\" \"ペギルのサガ\" \"select_label_2\" \"テギルのサガ\" \"select_label_3\"\nあたしのキラーズ『スラーンド』が\n登場する英雄譚の名前はなに？\n"
+	},
+	{
+		"ID": 3858,
+		"unitID": 2201211,
+		"questionID": 9201208,
+		"script": ";;奴隷,2\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 2012 \"srand_0001\"\n@スラーンド\nねぇ、マスター…\n\n@スラーンド\nマスターって\nあたしの事\nどれくらい知ってるの？\n\n# voice 2012 \"srand_0028\"\n# face %(unit_a)s \"sad\"\n@スラーンド\nん～…\nちょっと、言葉じゃ\nわからない！\n\n# face %(unit_a)s \"usual\"\n@スラーンド\nどうしよっか…\nあっ、そうだ！\n\n@スラーンド\n少し、クイズを\n出してみてもいい？\n\n@スラーンド\n大丈夫！\nあたしの事だから♪\n\n# voice 2012 \"srand_0036\"\n@スラーンド\nそれじゃ、いくよ！\n;;--------------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nあたしのキラーズ『スラーンド』の\n持ち主であるスラーンドは\nどんな身分だった？\n\n# se \"SE_0734\"\n# select  \"王族\" \"select_label_1\" \"奴隷\" \"select_label_2\" \"平民\" \"select_label_3\"\nあたしのキラーズ『スラーンド』の\n持ち主であるスラーンドは\nどんな身分だった？\n"
+	},
+	{
+		"ID": 3859,
+		"unitID": 2201211,
+		"questionID": 9201209,
+		"script": ";;靴ひもを結ぶ,3\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 2012 \"srand_0001\"\n@スラーンド\nねぇ、マスター…\n\n@スラーンド\nマスターって\nあたしの事\nどれくらい知ってるの？\n\n# voice 2012 \"srand_0028\"\n# face %(unit_a)s \"sad\"\n@スラーンド\nん～…\nちょっと、言葉じゃ\nわからない！\n\n# face %(unit_a)s \"usual\"\n@スラーンド\nどうしよっか…\nあっ、そうだ！\n\n@スラーンド\n少し、クイズを\n出してみてもいい？\n\n@スラーンド\n大丈夫！\nあたしの事だから♪\n\n# voice 2012 \"srand_0036\"\n@スラーンド\nそれじゃ、いくよ！\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nあたしのキラーズ『スラーンド』は\nなにをしていたら\n首を刎ねられてしまった？\n\n# se \"SE_0734\"\n# select  \"食事\" \"select_label_1\" \"昼寝\" \"select_label_2\" \"靴ひもを結ぶ\" \"select_label_3\"\nあたしのキラーズ『スラーンド』は\nなにをしていたら\n首を刎ねられてしまった？\n"
+	},
+	{
+		"ID": 3860,
+		"unitID": 2201211,
+		"questionID": 9201210,
+		"script": ";;ステイナル,1\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 2012 \"srand_0001\"\n@スラーンド\nねぇ、マスター…\n\n@スラーンド\nマスターって\nあたしの事\nどれくらい知ってるの？\n\n# voice 2012 \"srand_0028\"\n# face %(unit_a)s \"sad\"\n@スラーンド\nん～…\nちょっと、言葉じゃ\nわからない！\n\n# face %(unit_a)s \"usual\"\n@スラーンド\nどうしよっか…\nあっ、そうだ！\n\n@スラーンド\n少し、クイズを\n出してみてもいい？\n\n@スラーンド\n大丈夫！\nあたしの事だから♪\n\n# voice 2012 \"srand_0036\"\n@スラーンド\nそれじゃ、いくよ！\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nあたしのキラーズ『スラーンド』の\n持ち主であるスラーンドは\n誰の奴隷だった？\n\n# se \"SE_0734\"\n# select  \"ステイナル\" \"select_label_1\" \"ペテルギウス\" \"select_label_2\" \"ロキ\" \"select_label_3\"\nあたしのキラーズ『スラーンド』の\n持ち主であるスラーンドは\n誰の奴隷だった？\n"
+	},
+	{
+		"ID": 3861,
+		"unitID": 2201211,
+		"questionID": 9201211,
+		"script": ";;派手な服を集める,1\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 2012 \"srand_0001\"\n@スラーンド\nねぇねぇ、マスター\n\n@スラーンド\n黙って歩くってのも\nなんだか地味だしさ\n\n@スラーンド\nクイズでもしながら\n歩かない？\n\n@スラーンド\n問題はあたしの事ね♪\n\n# voice 2012 \"srand_0036\"\n@スラーンド\n準備はいい？\nそれじゃあ、行くよ～！\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nあたしの趣味はなに？\n派手なのは大好き♪\n\n# se \"SE_0734\"\n# select  \"派手な服を集める\" \"select_label_1\" \"派手な装飾品を集める\" \"select_label_2\" \"派手な武器を集める\" \"select_label_3\"\nあたしの趣味はなに？\n派手なのは大好き♪\n"
+	},
+	{
+		"ID": 3862,
+		"unitID": 2201211,
+		"questionID": 9201212,
+		"script": ";;しし座,2\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 2012 \"srand_0001\"\n@スラーンド\nねぇねぇ、マスター\n\n@スラーンド\n黙って歩くってのも\nなんだか地味だしさ\n\n@スラーンド\nクイズでもしながら\n歩かない？\n\n@スラーンド\n問題はあたしの事ね♪\n\n# voice 2012 \"srand_0036\"\n@スラーンド\n準備はいい？\nそれじゃあ、行くよ～！\n;;--------------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nあたしの星座は\nなんだった？\nちなみに8月5日生まれ♪\n\n# se \"SE_0734\"\n# select  \"おうし座\" \"select_label_1\" \"しし座\" \"select_label_2\" \"いて座\" \"select_label_3\"\nあたしの星座は\nなんだった？\nちなみに8月5日生まれ♪\n"
+	},
+	{
+		"ID": 3863,
+		"unitID": 2201211,
+		"questionID": 9201213,
+		"script": ";;アイスランド,3\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 2012 \"srand_0001\"\n@スラーンド\nねぇねぇ、マスター\n\n@スラーンド\n黙って歩くってのも\nなんだか地味だしさ\n\n@スラーンド\nクイズでもしながら\n歩かない？\n\n@スラーンド\n問題はあたしの事ね♪\n\n# voice 2012 \"srand_0036\"\n@スラーンド\n準備はいい？\nそれじゃあ、行くよ～！\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nあたしの出身地は\nどこかしら？\n\n# se \"SE_0734\"\n# select  \"フィリピン\" \"select_label_1\" \"ノルウェー\" \"select_label_2\" \"アイスランド\" \"select_label_3\"\nあたしの出身地は\nどこかしら？\n"
+	},
+	{
+		"ID": 3864,
+		"unitID": 2201211,
+		"questionID": 9201214,
+		"script": ";;O型,1\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 2012 \"srand_0001\"\n@スラーンド\nねぇねぇ、マスター\n\n@スラーンド\n黙って歩くってのも\nなんだか地味だしさ\n\n@スラーンド\nクイズでもしながら\n歩かない？\n\n@スラーンド\n問題はあたしの事ね♪\n\n# voice 2012 \"srand_0036\"\n@スラーンド\n準備はいい？\nそれじゃあ、行くよ～！\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nあたしの血液型は\nなんだった？\n\n# se \"SE_0734\"\n# select  \"O型\" \"select_label_1\" \"A型\" \"select_label_2\" \"B型\" \"select_label_3\"\nあたしの血液型は\nなんだった？\n"
+	},
+	{
+		"ID": 3865,
+		"unitID": 2201211,
+		"questionID": 9201215,
+		"script": ";;おしゃれ,2\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 2012 \"srand_0001\"\n@スラーンド\nねぇねぇ、マスター\n\n@スラーンド\n黙って歩くってのも\nなんだか地味だしさ\n\n@スラーンド\nクイズでもしながら\n歩かない？\n\n@スラーンド\n問題はあたしの事ね♪\n\n# voice 2012 \"srand_0036\"\n@スラーンド\n準備はいい？\nそれじゃあ、行くよ～！\n;;--------------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nあたしの好きなものはなに？\n見た目でわかるよね！\n\n# se \"SE_0734\"\n# select  \"昼寝\" \"select_label_1\" \"おしゃれ\" \"select_label_2\" \"おまじない\" \"select_label_3\"\nあたしの好きなものはなに？\n見た目でわかるよね！\n"
+	},
+	{
+		"ID": 3866,
+		"unitID": 2201211,
+		"questionID": 9201216,
+		"script": ";;しゃがむ,3\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 2012 \"srand_0001\"\n@スラーンド\nねぇねぇ、マスター\n\n@スラーンド\n黙って歩くってのも\nなんだか地味だしさ\n\n@スラーンド\nクイズでもしながら\n歩かない？\n\n@スラーンド\n問題はあたしの事ね♪\n\n# voice 2012 \"srand_0036\"\n@スラーンド\n準備はいい？\nそれじゃあ、行くよ～！\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nあたし、前の持ち主が原因で\n嫌いな事があるのだけど\nわかる？\n\n# se \"SE_0734\"\n# select  \"止まる\" \"select_label_1\" \"走る\" \"select_label_2\" \"しゃがむ\" \"select_label_3\"\nあたし、前の持ち主が原因で\n嫌いな事があるのだけど\nわかる？\n"
+	},
+	{
+		"ID": 3867,
+		"unitID": 2201211,
+		"questionID": 9201217,
+		"script": ";;168cm,1\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 2012 \"srand_0001\"\n@スラーンド\nねぇねぇ、マスター\n\n@スラーンド\n黙って歩くってのも\nなんだか地味だしさ\n\n@スラーンド\nクイズでもしながら\n歩かない？\n\n@スラーンド\n問題はあたしの事ね♪\n\n# voice 2012 \"srand_0036\"\n@スラーンド\n準備はいい？\nそれじゃあ、行くよ～！\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nあたしの身長は\nなんセンチ？\n\n# se \"SE_0734\"\n# select  \"168cm\" \"select_label_1\" \"164cm\" \"select_label_2\" \"167cm\" \"select_label_3\"\nあたしの身長は\nなんセンチ？\n"
+	},
+	{
+		"ID": 3868,
+		"unitID": 2201211,
+		"questionID": 9201218,
+		"script": ";;見掛け倒し,2\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 2012 \"srand_0001\"\n@スラーンド\nねぇねぇ、マスター\n\n@スラーンド\n黙って歩くってのも\nなんだか地味だしさ\n\n@スラーンド\nクイズでもしながら\n歩かない？\n\n@スラーンド\n問題はあたしの事ね♪\n\n# voice 2012 \"srand_0036\"\n@スラーンド\n準備はいい？\nそれじゃあ、行くよ～！\n;;--------------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nあたしが恐れている言葉が\nあるんだけど\nわかる？\n\n# se \"SE_0734\"\n# select  \"役立たず\" \"select_label_1\" \"見掛け倒し\" \"select_label_2\" \"シャイガール\" \"select_label_3\"\nあたしが恐れている言葉が\nあるんだけど\nわかる？\n"
+	},
+	{
+		"ID": 3869,
+		"unitID": 2201211,
+		"questionID": 9201219,
+		"script": ";;いない,3\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 2012 \"srand_0001\"\n@スラーンド\nねぇねぇ、マスター\n\n@スラーンド\n黙って歩くってのも\nなんだか地味だしさ\n\n@スラーンド\nクイズでもしながら\n歩かない？\n\n@スラーンド\n問題はあたしの事ね♪\n\n# voice 2012 \"srand_0036\"\n@スラーンド\n準備はいい？\nそれじゃあ、行くよ～！\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nあたしの親友って誰？\nこの中から選んでみて？\n\n# se \"SE_0734\"\n# select  \"デュランダル\" \"select_label_1\" \"ミストルティン\" \"select_label_2\" \"いない\" \"select_label_3\"\nあたしの親友って誰？\nこの中から選んでみて？\n"
+	},
+	{
+		"ID": 3870,
+		"unitID": 2201211,
+		"questionID": 9201220,
+		"script": ";;8月5日,1\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 2012 \"srand_0001\"\n@スラーンド\nねぇねぇ、マスター\n\n@スラーンド\n黙って歩くってのも\nなんだか地味だしさ\n\n@スラーンド\nクイズでもしながら\n歩かない？\n\n@スラーンド\n問題はあたしの事ね♪\n\n# voice 2012 \"srand_0036\"\n@スラーンド\n準備はいい？\nそれじゃあ、行くよ～！\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nあたしの誕生日は\nわかるかな？\n\n# se \"SE_0734\"\n# select  \"8月5日\" \"select_label_1\" \"8月11日\" \"select_label_2\" \"8月13日\" \"select_label_3\"\nあたしの誕生日は\nわかるかな？\n"
+	},
+	{
+		"ID": 3871,
+		"unitID": 2201211,
+		"questionID": 9201221,
+		"script": ";;ウイングナイト,1\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 2012 \"srand_0001\"\n@スラーンド\nねぇねぇ、\nマスター？\n\n@スラーンド\n突然だけど\nクイズを出してもいい？\n\n@スラーンド\n内容は、あたしに関する事だから\nそんなに難しくないよ！\n\n# face %(unit_a)s \"smile\"\n@スラーンド\n大丈夫、マスターなら\n正解できるよ♪\n\n# voice 2012 \"srand_0036\"\n# face %(unit_a)s \"usual\"\n@スラーンド\nそれじゃあ、いくよ？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nあたしが☆4の時のジョブは\nなんだった？\n\n# se \"SE_0734\"\n# select  \"ウイングナイト\" \"select_label_1\" \"ウォーリア\" \"select_label_2\" \"ドラゴンナイト\" \"select_label_3\"\nあたしが☆4の時のジョブは\nなんだった？\n"
+	},
+	{
+		"ID": 3872,
+		"unitID": 2201211,
+		"questionID": 9201222,
+		"script": ";;フェニックスナイト,2\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 2012 \"srand_0001\"\n@スラーンド\nねぇねぇ、\nマスター？\n\n@スラーンド\n突然だけど\nクイズを出してもいい？\n\n@スラーンド\n内容は、あたしに関する事だから\nそんなに難しくないよ！\n\n# face %(unit_a)s \"smile\"\n@スラーンド\n大丈夫、マスターなら\n正解できるよ♪\n\n# voice 2012 \"srand_0036\"\n# face %(unit_a)s \"usual\"\n@スラーンド\nそれじゃあ、いくよ？\n;;--------------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nあたしが☆5の時のジョブは\nなんだったか覚えてるかなぁ？\n\n# se \"SE_0734\"\n# select  \"ロードナイト\" \"select_label_1\" \"フェニックスナイト\" \"select_label_2\" \"ウィングナイト\" \"select_label_3\"\nあたしが☆5の時のジョブは\nなんだったか覚えてるかなぁ？\n"
+	},
+	{
+		"ID": 3873,
+		"unitID": 2201211,
+		"questionID": 9201223,
+		"script": ";;斧聖将の彗眼,3\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 2012 \"srand_0001\"\n@スラーンド\nねぇねぇ、\nマスター？\n\n@スラーンド\n突然だけど\nクイズを出してもいい？\n\n@スラーンド\n内容は、あたしに関する事だから\nそんなに難しくないよ！\n\n# face %(unit_a)s \"smile\"\n@スラーンド\n大丈夫、マスターなら\n正解できるよ♪\n\n# voice 2012 \"srand_0036\"\n# face %(unit_a)s \"usual\"\n@スラーンド\nそれじゃあ、いくよ？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nあたしが☆5の\nリーダースキルは\nなに？\n\n# se \"SE_0734\"\n# select  \"斧聖将の紅眼\" \"select_label_1\" \"斧聖将の蒼眼\" \"select_label_2\" \"斧聖将の彗眼\" \"select_label_3\"\nあたしが☆5の\nリーダースキルは\nなに？\n"
+	},
+	{
+		"ID": 3874,
+		"unitID": 2201211,
+		"questionID": 9201224,
+		"script": ";;回避UP,1\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 2012 \"srand_0001\"\n@スラーンド\nねぇねぇ、\nマスター？\n\n@スラーンド\n突然だけど\nクイズを出してもいい？\n\n@スラーンド\n内容は、あたしに関する事だから\nそんなに難しくないよ！\n\n# face %(unit_a)s \"smile\"\n@スラーンド\n大丈夫、マスターなら\n正解できるよ♪\n\n# voice 2012 \"srand_0036\"\n# face %(unit_a)s \"usual\"\n@スラーンド\nそれじゃあ、いくよ？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nあたしの☆4の\nレベルアップスキルはなんだった？\n\n# se \"SE_0734\"\n# select  \"回避UP\" \"select_label_1\" \"強襲\" \"select_label_2\" \"魔攻強化\" \"select_label_3\"\nあたしの☆4の\nレベルアップスキルはなんだった？\n"
+	},
+	{
+		"ID": 3875,
+		"unitID": 2201211,
+		"questionID": 9201225,
+		"script": ";;氷斧神の慈眼,2\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 2012 \"srand_0001\"\n@スラーンド\nねぇねぇ、\nマスター？\n\n@スラーンド\n突然だけど\nクイズを出してもいい？\n\n@スラーンド\n内容は、あたしに関する事だから\nそんなに難しくないよ！\n\n# face %(unit_a)s \"smile\"\n@スラーンド\n大丈夫、マスターなら\n正解できるよ♪\n\n# voice 2012 \"srand_0036\"\n# face %(unit_a)s \"usual\"\n@スラーンド\nそれじゃあ、いくよ？\n;;--------------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nあたしが☆6の\nリーダースキルは\n覚えてる？\n\n# se \"SE_0734\"\n# select  \"炎斧神の慈眼\" \"select_label_1\" \"氷斧神の慈眼\" \"select_label_2\" \"風斧神の慈眼\" \"select_label_3\"\nあたしが☆6の\nリーダースキルは\n覚えてる？\n"
+	},
+	{
+		"ID": 3876,
+		"unitID": 2201211,
+		"questionID": 9201226,
+		"script": ";;見切り,3\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 2012 \"srand_0001\"\n@スラーンド\nねぇねぇ、\nマスター？\n\n@スラーンド\n突然だけど\nクイズを出してもいい？\n\n@スラーンド\n内容は、あたしに関する事だから\nそんなに難しくないよ！\n\n# face %(unit_a)s \"smile\"\n@スラーンド\n大丈夫、マスターなら\n正解できるよ♪\n\n# voice 2012 \"srand_0036\"\n# face %(unit_a)s \"usual\"\n@スラーンド\nそれじゃあ、いくよ？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nあたしの☆5の\nレベルアップスキルはなに？\n\n# se \"SE_0734\"\n# select  \"近戦必殺\" \"select_label_1\" \"魔力の心得\" \"select_label_2\" \"見切り\" \"select_label_3\"\nあたしの☆5の\nレベルアップスキルはなに？\n"
+	},
+	{
+		"ID": 3877,
+		"unitID": 2201211,
+		"questionID": 9201227,
+		"script": ";;物攻強化,1\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 2012 \"srand_0001\"\n@スラーンド\nねぇねぇ、\nマスター？\n\n@スラーンド\n突然だけど\nクイズを出してもいい？\n\n@スラーンド\n内容は、あたしに関する事だから\nそんなに難しくないよ！\n\n# face %(unit_a)s \"smile\"\n@スラーンド\n大丈夫、マスターなら\n正解できるよ♪\n\n# voice 2012 \"srand_0036\"\n# face %(unit_a)s \"usual\"\n@スラーンド\nそれじゃあ、いくよ？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nあたしの☆3レベルアップスキルは\nなんだったか覚えてる？\n\n# se \"SE_0734\"\n# select  \"物攻強化\" \"select_label_1\" \"見切り\" \"select_label_2\" \"急襲\" \"select_label_3\"\nあたしの☆3レベルアップスキルは\nなんだったか覚えてる？\n"
+	},
+	{
+		"ID": 3878,
+		"unitID": 2201211,
+		"questionID": 9201228,
+		"script": ";;ベットザブレイブ,2\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 2012 \"srand_0001\"\n@スラーンド\nねぇねぇ、\nマスター？\n\n@スラーンド\n突然だけど\nクイズを出してもいい？\n\n@スラーンド\n内容は、あたしに関する事だから\nそんなに難しくないよ！\n\n# face %(unit_a)s \"smile\"\n@スラーンド\n大丈夫、マスターなら\n正解できるよ♪\n\n# voice 2012 \"srand_0036\"\n# face %(unit_a)s \"usual\"\n@スラーンド\nそれじゃあ、いくよ？\n;;--------------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n次のうちあたしが\nキャラクエEP2で取得した\nスキルはどれ？\n\n# se \"SE_0734\"\n# select  \"ヒットオンジャッジ\" \"select_label_1\" \"ベットザブレイブ\" \"select_label_2\" \"グレィヴザライト\" \"select_label_3\"\n次のうちあたしが\nキャラクエEP2で取得した\nスキルはどれ？\n"
+	},
+	{
+		"ID": 3879,
+		"unitID": 2201211,
+		"questionID": 9201229,
+		"script": ";;ネイキッドザライフ,3\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 2012 \"srand_0001\"\n@スラーンド\nねぇねぇ、\nマスター？\n\n@スラーンド\n突然だけど\nクイズを出してもいい？\n\n@スラーンド\n内容は、あたしに関する事だから\nそんなに難しくないよ！\n\n# face %(unit_a)s \"smile\"\n@スラーンド\n大丈夫、マスターなら\n正解できるよ♪\n\n# voice 2012 \"srand_0036\"\n# face %(unit_a)s \"usual\"\n@スラーンド\nそれじゃあ、いくよ？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nあたしの\nキャラクエEP3\nで手に入るスキルはどれ？\n\n# se \"SE_0734\"\n# select  \"千重波スプラッシュ\" \"select_label_1\" \"ヒットオンバラージ\" \"select_label_2\" \"ネイキッドザライフ\" \"select_label_3\"\nあたしの\nキャラクエEP3\nで手に入るスキルはどれ？\n"
+	},
+	{
+		"ID": 3880,
+		"unitID": 2201211,
+		"questionID": 9201230,
+		"script": ";;いない,1\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 2012 \"srand_0001\"\n@スラーンド\nねぇねぇ、\nマスター？\n\n@スラーンド\n突然だけど\nクイズを出してもいい？\n\n@スラーンド\n内容は、あたしに関する事だから\nそんなに難しくないよ！\n\n# face %(unit_a)s \"smile\"\n@スラーンド\n大丈夫、マスターなら\n正解できるよ♪\n\n# voice 2012 \"srand_0036\"\n# face %(unit_a)s \"usual\"\n@スラーンド\nそれじゃあ、いくよ？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nあたしのライバルって\n誰かな？\n\n# se \"SE_0734\"\n# select  \"いない\" \"select_label_1\" \"デュランダル\" \"select_label_2\" \"パラシュ\" \"select_label_3\"\nあたしのライバルって\n誰かな？\n"
+	},
+	{
+		"ID": 3881,
+		"unitID": 2201211,
+		"questionID": 9201231,
+		"script": ";;水色,1\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 2012 \"srand_0001\"\n@スラーンド\nあたしは、マスターの事は\n大体知ってるわ\n\n@スラーンド\nでも、マスターは\nあたしの事\nどれくらいわかるかな？\n\n@スラーンド\nちょっと\n確認してみてもいい？\n\n# voice 2012 \"srand_0036\"\n@スラーンド\n準備はいい？\nじゃあ…行くよ？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nあたしの髪の色はなに？\nふふ、綺麗でしょ\n\n# se \"SE_0734\"\n# select  \"水色\" \"select_label_1\" \"黄色\" \"select_label_2\" \"緑色\" \"select_label_3\"\nあたしの髪の色はなに？\nふふ、綺麗でしょ\n"
+	},
+	{
+		"ID": 3882,
+		"unitID": 2201211,
+		"questionID": 9201232,
+		"script": ";;水色,2\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 2012 \"srand_0001\"\n@スラーンド\nあたしは、マスターの事は\n大体知ってるわ\n\n@スラーンド\nでも、マスターは\nあたしの事\nどれくらいわかるかな？\n\n@スラーンド\nちょっと\n確認してみてもいい？\n\n# voice 2012 \"srand_0036\"\n@スラーンド\n準備はいい？\nじゃあ…行くよ？\n;;--------------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nあたしの目の色は\n何色？\n\n# se \"SE_0734\"\n# select  \"紫色\" \"select_label_1\" \"水色\" \"select_label_2\" \"黄緑色\" \"select_label_3\"\nあたしの目の色は\n何色？\n"
+	},
+	{
+		"ID": 3883,
+		"unitID": 2201211,
+		"questionID": 9201233,
+		"script": ";;エロース,3\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 2012 \"srand_0001\"\n@スラーンド\nあたしは、マスターの事は\n大体知ってるわ\n\n@スラーンド\nでも、マスターは\nあたしの事\nどれくらいわかるかな？\n\n@スラーンド\nちょっと\n確認してみてもいい？\n\n# voice 2012 \"srand_0036\"\n@スラーンド\n準備はいい？\nじゃあ…行くよ？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nあたしの血液型はO型だけど\n次の中で同じ血液型は\n誰かな？\n\n# se \"SE_0734\"\n# select  \"アロンダイト\" \"select_label_1\" \"ウコンバサラ\" \"select_label_2\" \"エロース\" \"select_label_3\"\nあたしの血液型はO型だけど\n次の中で同じ血液型は\n誰かな？\n"
+	},
+	{
+		"ID": 3884,
+		"unitID": 2201211,
+		"questionID": 9201234,
+		"script": ";;August,1\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 2012 \"srand_0001\"\n@スラーンド\nあたしは、マスターの事は\n大体知ってるわ\n\n@スラーンド\nでも、マスターは\nあたしの事\nどれくらいわかるかな？\n\n@スラーンド\nちょっと\n確認してみてもいい？\n\n# voice 2012 \"srand_0036\"\n@スラーンド\n準備はいい？\nじゃあ…行くよ？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nあたしの誕生日は８月だけど\n８月の英語読みはどれ？\n\n# se \"SE_0734\"\n# select  \"August\" \"select_label_1\" \"June\" \"select_label_2\" \"February\" \"select_label_3\"\nあたしの誕生日は８月だけど\n８月の英語読みはどれ？\n"
+	},
+	{
+		"ID": 3885,
+		"unitID": 2201211,
+		"questionID": 9201235,
+		"script": ";;エクスカリバー,2\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 2012 \"srand_0001\"\n@スラーンド\nあたしは、マスターの事は\n大体知ってるわ\n\n@スラーンド\nでも、マスターは\nあたしの事\nどれくらいわかるかな？\n\n@スラーンド\nちょっと\n確認してみてもいい？\n\n# voice 2012 \"srand_0036\"\n@スラーンド\n準備はいい？\nじゃあ…行くよ？\n;;--------------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nあたしの血液型はO型\nじゃあ、次のうちで\nO型じゃないのは誰？\n\n# se \"SE_0734\"\n# select  \"エロース\" \"select_label_1\" \"エクスカリバー\" \"select_label_2\" \"アフロディーテ\" \"select_label_3\"\nあたしの血液型はO型\nじゃあ、次のうちで\nO型じゃないのは誰？\n"
+	},
+	{
+		"ID": 3886,
+		"unitID": 2201211,
+		"questionID": 9201236,
+		"script": ";;斧,3\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 2012 \"srand_0001\"\n@スラーンド\nあたしは、マスターの事は\n大体知ってるわ\n\n@スラーンド\nでも、マスターは\nあたしの事\nどれくらいわかるかな？\n\n@スラーンド\nちょっと\n確認してみてもいい？\n\n# voice 2012 \"srand_0036\"\n@スラーンド\n準備はいい？\nじゃあ…行くよ？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nあたしが使う武器は\n次のうちどれ？\n\n# se \"SE_0734\"\n# select  \"剣\" \"select_label_1\" \"槍\" \"select_label_2\" \"斧\" \"select_label_3\"\nあたしが使う武器は\n次のうちどれ？\n"
+	},
+	{
+		"ID": 3887,
+		"unitID": 2201211,
+		"questionID": 9201237,
+		"script": ";;フラガラッハ,1\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 2012 \"srand_0001\"\n@スラーンド\nあたしは、マスターの事は\n大体知ってるわ\n\n@スラーンド\nでも、マスターは\nあたしの事\nどれくらいわかるかな？\n\n@スラーンド\nちょっと\n確認してみてもいい？\n\n# voice 2012 \"srand_0036\"\n@スラーンド\n準備はいい？\nじゃあ…行くよ？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nあたしの誕生日８月と\n同じ生まれは次のうち誰？\n\n# se \"SE_0734\"\n# select  \"フラガラッハ\" \"select_label_1\" \"レーヴァテイン\" \"select_label_2\" \"ダグダ\" \"select_label_3\"\nあたしの誕生日８月と\n同じ生まれは次のうち誰？\n"
+	},
+	{
+		"ID": 3888,
+		"unitID": 2201211,
+		"questionID": 9201238,
+		"script": ";;いない,2\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 2012 \"srand_0001\"\n@スラーンド\nあたしは、マスターの事は\n大体知ってるわ\n\n@スラーンド\nでも、マスターは\nあたしの事\nどれくらいわかるかな？\n\n@スラーンド\nちょっと\n確認してみてもいい？\n\n# voice 2012 \"srand_0036\"\n@スラーンド\n準備はいい？\nじゃあ…行くよ？\n;;--------------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nあたしが尊敬している\nキラーズは、誰？\n\n# se \"SE_0734\"\n# select  \"エロース\" \"select_label_1\" \"いない\" \"select_label_2\" \"草薙剣\" \"select_label_3\"\nあたしが尊敬している\nキラーズは、誰？\n"
+	},
+	{
+		"ID": 3889,
+		"unitID": 2201211,
+		"questionID": 9201239,
+		"script": ";;Leo,3\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 2012 \"srand_0001\"\n@スラーンド\nあたしは、マスターの事は\n大体知ってるわ\n\n@スラーンド\nでも、マスターは\nあたしの事\nどれくらいわかるかな？\n\n@スラーンド\nちょっと\n確認してみてもいい？\n\n# voice 2012 \"srand_0036\"\n@スラーンド\n準備はいい？\nじゃあ…行くよ？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nあたしの星座獅子座の\n英語読みは、次のうちどれ？\n\n# se \"SE_0734\"\n# select  \"Sagittarius\" \"select_label_1\" \"Aquarius\" \"select_label_2\" \"Leo\" \"select_label_3\"\nあたしの星座獅子座の\n英語読みは、次のうちどれ？\n"
+	},
+	{
+		"ID": 3890,
+		"unitID": 2201211,
+		"questionID": 9201240,
+		"script": ";;アイスランド神話群,1\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 2012 \"srand_0001\"\n@スラーンド\nあたしは、マスターの事は\n大体知ってるわ\n\n@スラーンド\nでも、マスターは\nあたしの事\nどれくらいわかるかな？\n\n@スラーンド\nちょっと\n確認してみてもいい？\n\n# voice 2012 \"srand_0036\"\n@スラーンド\n準備はいい？\nじゃあ…行くよ？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nあたしが属するクラスタは\n次のうち、どれ？\n\n# se \"SE_0734\"\n# select  \"アイスランド神話群\" \"select_label_1\" \"中国神話群\" \"select_label_2\" \"シュメール神話群\" \"select_label_3\"\nあたしが属するクラスタは\n次のうち、どれ？\n"
+	},
+	{
+		"ID": 3891,
+		"unitID": 2201211,
+		"questionID": 9201241,
+		"script": "\n;;あたし,1\n# se \"SE_0734\"\n# select \"あたし\" \"select_label_1\" \"ワタシ\" \"select_label_2\" \"わたし\" \"select_label_3\"\nスラーンドの一人称は\n次のうちどれ？\n"
+	},
+	{
+		"ID": 3892,
+		"unitID": 2201211,
+		"questionID": 9201242,
+		"script": "\n;;マスター,2\n# se \"SE_0734\"\n# select \"ご主人様\" \"select_label_1\" \"マスター\" \"select_label_2\" \"あなた\" \"select_label_3\"\nスラーンドはアンタのこと、\nなんて呼んでる？\n"
+	},
+	{
+		"ID": 3893,
+		"unitID": 2201211,
+		"questionID": 9201243,
+		"script": "\n;;90,3\n# se \"SE_0734\"\n# select \"84\" \"select_label_1\" \"95\" \"select_label_2\" \"90\" \"select_label_3\"\nスラーンドの\nバストサイズがどのくらいか\nアンタ…知ってるの？\n"
+	},
+	{
+		"ID": 3894,
+		"unitID": 2201211,
+		"questionID": 9201244,
+		"script": "\n;;59,2\n# se \"SE_0734\"\n# select \"55\" \"select_label_1\" \"59\" \"select_label_2\" \"61\" \"select_label_3\"\nスラーンドの\nウエストサイズがどのくらいか\nアンタ…知ってるの？\n"
+	},
+	{
+		"ID": 3895,
+		"unitID": 2201211,
+		"questionID": 9201245,
+		"script": "\n;;88,2\n# se \"SE_0734\"\n# select \"84\" \"select_label_1\" \"88\" \"select_label_2\" \"90\" \"select_label_3\"\nスラーンドの\nヒップサイズがどのくらいか\nアンタ…知ってるの？\n"
+	},
+	{
+		"ID": 3896,
+		"unitID": 2201211,
+		"questionID": 9201246,
+		"script": "\n;;52,1\n# se \"SE_0734\"\n# select \"52\" \"select_label_1\" \"46\" \"select_label_2\" \"50\" \"select_label_3\"\nスラーンドの体重は\n次のうちどれ？\n"
+	},
+	{
+		"ID": 3897,
+		"unitID": 2201211,
+		"questionID": 9201247,
+		"script": "\n;;237,1\n# se \"SE_0734\"\n# select \"237\" \"select_label_1\" \"223\" \"select_label_2\" \"241\" \"select_label_3\"\nスラーンドの\nバスト＋ウエスト＋ヒップは\nいくつかわかる？\n"
+	},
+	{
+		"ID": 3898,
+		"unitID": 2201211,
+		"questionID": 9201248,
+		"script": "\n;;青,3\n# se \"SE_0734\"\n# select \"赤\" \"select_label_1\" \"黒\" \"select_label_2\" \"青\" \"select_label_3\"\nスラーンドの水着の色は\n次のうちどれ？\n"
+	},
+	{
+		"ID": 3899,
+		"unitID": 2201211,
+		"questionID": 9201249,
+		"script": "\n;;76位,3\n# se \"SE_0734\"\n# select \"61位\" \"select_label_1\" \"83位\" \"select_label_2\" \"76位\" \"select_label_3\"\nスラーンドは\n第２回人気投票で\n何位だったでしょう？\n"
+	},
+	{
+		"ID": 3900,
+		"unitID": 2201211,
+		"questionID": 9201250,
+		"script": "\n;;喜多村英梨,3\n# se \"SE_0734\"\n# select \"山本希望\" \"select_label_1\" \"川澄綾子\" \"select_label_2\" \"喜多村英梨\" \"select_label_3\"\nスラーンドの声優は誰？\n"
+	}
+]

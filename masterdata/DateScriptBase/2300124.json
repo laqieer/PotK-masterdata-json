@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 2300124,
+		"script": "# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_drive\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n# voice 230012 \"ronginusu_k_0008\"\n@ロンギヌス\n…そうですか\n\n# textflame 0 0\n@\nもう一度言って？\nと聞き返すものの\nロンギヌスは頬を膨らませていた\n\n# textflame 1 1\n@ロンギヌス\nなんでもありません\nマスターは私のことより\n景色を見るほうが楽しそうですね\n\n# textflame 0 0\n@\n拗ねられてしまった…\n\n@\nロンギヌスのことを構わなかった\nことを悔やむドライブは\n島のハイウェイを降りるまで続いた…\n\n# waitandnext 2\n# fadeout \"black\" 1.2"
+	}
+]

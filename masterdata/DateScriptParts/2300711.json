@@ -1,0 +1,26 @@
+[
+	{
+		"ID": 292,
+		"unitID": 2300711,
+		"scriptID": "kaerimichi",
+		"script": "どうした、マスター？\n次はどこに行く？\n貴様が望むところに従うぞ"
+	},
+	{
+		"ID": 306,
+		"unitID": 2300711,
+		"scriptID": "kaeru",
+		"script": "すまない、マスター\n今日は帰らなければならない"
+	},
+	{
+		"ID": 320,
+		"unitID": 2300711,
+		"scriptID": "kaeru_ok",
+		"script": "@%(unitName:unit_a)s\nおぉ、ここぞの一撃だな…\nこれは首を縦に振るしかあるまい"
+	},
+	{
+		"ID": 334,
+		"unitID": 2300711,
+		"scriptID": "kaeru_ng",
+		"script": "@%(unitName:unit_a)s\n今か…。タイミングを\n逸したようだな\nまた誘ってくれ"
+	}
+]

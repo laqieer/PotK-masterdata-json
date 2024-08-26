@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 3120603,
+		"script": "# script \"lisp\"\n# background \"flower_garden\"\n# bgm \"bgm003\" 0\n# body 600121\n# mask 600121 off\n# pos 600121 3\n# textboxarrow 0 2\n# chara 600121\n@アスクレピオス\nへぇ～、なかなか調子いいじゃない！\n洗礼前とはいえ、\n確かに…噂になる程度のマスターね\n\n# textboxarrow 0 0\n# textwindow \"moya\"\n# chara 600121\n@アスクレピオス\n私にも合いそうな感じよね…\n\n# textboxarrow 0 2\n# textwindow \"nomal\"\n# chara 600121\n@アスクレピオス\nあ、いえ…なんでもないわ！\n次はいままでの総決算的に\nさまざまな異族が出てくるわよ\n\n# chara 600121\n@アスクレピオス\nリーダースキルやフレンドスキルも\n考えてチーム編成しないと、\n出来たマスターとは言えないかもね？"
+	}
+]

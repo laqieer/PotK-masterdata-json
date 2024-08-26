@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 91025299,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# se \"SE_0732\"\n# voice 1025 \"muramasa_0006\"\n@ムラマサ\nせ、正解にございます…\n\n@ムラマサ\n主君は…\n拙者のことを真剣に\n考えてくださっていたのですね\n\n@ムラマサ\n嬉しいです…\n\n# eye %(unit_a)s \"close\"\n# voice 1025 \"muramasa_0002\"\n@ムラマサ\nせ、拙者を…\n主君の正室にしていただけたら…\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"sad\"\n# voice 1025 \"muramasa_0042\"\n@ムラマサ\nあ、いや…！\nな、なんでもありませぬ！\n\n# face %(unit_a)s \"smile\"\n# textflame 0 0\n@\n顔を真っ赤にして照れる彼女\nだが、その声は\nとても嬉しそうで…\n\n@\nマスターは二人の絆が\nより深まったのを実感していた…\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

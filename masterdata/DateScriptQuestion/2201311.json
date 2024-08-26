@@ -1,0 +1,302 @@
+[
+	{
+		"ID": 3801,
+		"unitID": 2201311,
+		"questionID": 9201301,
+		"script": ";;悪疫,1\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 2013 \"reshef_0001\"\n@レシェフ\nねぇ、マスター\n\n@レシェフ\n運命をともにする二人だったら、\n当然お互いのこと\n知っていないとね？\n\n@レシェフ\nってことで、\n今からクイズ出すから、\n答えて？\n\n# voice 2013 \"reshef_0004\"\n# face %(unit_a)s \"smile\"\n@レシェフ\n大丈～夫！\n気合い、気合い！\n\n# face %(unit_a)s \"usual\"\n@レシェフ\n気合いがあれば、\n絶対解けるから！！\n\n# voice 2013 \"reshef_0036\"\n@レシェフ\nじゃあ、いくよ！？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nあたしのキラーズ『レシェフ』の\n持ち主はなんの神と言われている？\n\n# se \"SE_0734\"\n# select  \"悪疫\" \"select_label_1\" \"衝撃\" \"select_label_2\" \"完璧\" \"select_label_3\"\nあたしのキラーズ『レシェフ』の\n持ち主はなんの神と言われている？\n"
+	},
+	{
+		"ID": 3802,
+		"unitID": 2201311,
+		"questionID": 9201302,
+		"script": ";;レシェフ,2\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 2013 \"reshef_0001\"\n@レシェフ\nねぇ、マスター\n\n@レシェフ\n運命をともにする二人だったら、\n当然お互いのこと\n知っていないとね？\n\n@レシェフ\nってことで、\n今からクイズ出すから、\n答えて？\n\n# voice 2013 \"reshef_0004\"\n# face %(unit_a)s \"smile\"\n@レシェフ\n大丈～夫！\n気合い、気合い！\n\n# face %(unit_a)s \"usual\"\n@レシェフ\n気合いがあれば、\n絶対解けるから！！\n\n# voice 2013 \"reshef_0036\"\n@レシェフ\nじゃあ、いくよ！？\n;;--------------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nあたしのキラーズの\n持ち主はわかる？\n\n# se \"SE_0734\"\n# select  \"ゼウス\" \"select_label_1\" \"レシェフ\" \"select_label_2\" \"シェフ\" \"select_label_3\"\nあたしのキラーズの\n持ち主はわかる？\n"
+	},
+	{
+		"ID": 3803,
+		"unitID": 2201311,
+		"questionID": 9201303,
+		"script": ";;疫病の神,3\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 2013 \"reshef_0001\"\n@レシェフ\nねぇ、マスター\n\n@レシェフ\n運命をともにする二人だったら、\n当然お互いのこと\n知っていないとね？\n\n@レシェフ\nってことで、\n今からクイズ出すから、\n答えて？\n\n# voice 2013 \"reshef_0004\"\n# face %(unit_a)s \"smile\"\n@レシェフ\n大丈～夫！\n気合い、気合い！\n\n# face %(unit_a)s \"usual\"\n@レシェフ\n気合いがあれば、\n絶対解けるから！！\n\n# voice 2013 \"reshef_0036\"\n@レシェフ\nじゃあ、いくよ！？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nあたしのキラーズ『レシェフ』の\n持ち主はなんの神と云われてる？\n\n# se \"SE_0734\"\n# select  \"勉学の神\" \"select_label_1\" \"豊穣の神\" \"select_label_2\" \"疫病の神\" \"select_label_3\"\nあたしのキラーズ『レシェフ』の\n持ち主はなんの神と云われてる？\n"
+	},
+	{
+		"ID": 3804,
+		"unitID": 2201311,
+		"questionID": 9201304,
+		"script": ";;キプロス島,1\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 2013 \"reshef_0001\"\n@レシェフ\nねぇ、マスター\n\n@レシェフ\n運命をともにする二人だったら、\n当然お互いのこと\n知っていないとね？\n\n@レシェフ\nってことで、\n今からクイズ出すから、\n答えて？\n\n# voice 2013 \"reshef_0004\"\n# face %(unit_a)s \"smile\"\n@レシェフ\n大丈～夫！\n気合い、気合い！\n\n# face %(unit_a)s \"usual\"\n@レシェフ\n気合いがあれば、\n絶対解けるから！！\n\n# voice 2013 \"reshef_0036\"\n@レシェフ\nじゃあ、いくよ！？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nあたしのキラーズ『レシェフ』は\nどんな島で崇められていたと\n云われてる？\n\n# se \"SE_0734\"\n# select  \"キプロス島\" \"select_label_1\" \"八丈島\" \"select_label_2\" \"ひょうたん島\" \"select_label_3\"\nあたしのキラーズ『レシェフ』は\nどんな島で崇められていたと\n云われてる？\n"
+	},
+	{
+		"ID": 3805,
+		"unitID": 2201311,
+		"questionID": 9201305,
+		"script": ";;災害の神,2\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 2013 \"reshef_0001\"\n@レシェフ\nねぇ、マスター\n\n@レシェフ\n運命をともにする二人だったら、\n当然お互いのこと\n知っていないとね？\n\n@レシェフ\nってことで、\n今からクイズ出すから、\n答えて？\n\n# voice 2013 \"reshef_0004\"\n# face %(unit_a)s \"smile\"\n@レシェフ\n大丈～夫！\n気合い、気合い！\n\n# face %(unit_a)s \"usual\"\n@レシェフ\n気合いがあれば、\n絶対解けるから！！\n\n# voice 2013 \"reshef_0036\"\n@レシェフ\nじゃあ、いくよ！？\n;;--------------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n『レシェフ』はキプロス島の\nアモリ人にはどんな神だと\n恐れられたか知ってる？\n\n# se \"SE_0734\"\n# select  \"天空の神\" \"select_label_1\" \"災害の神\" \"select_label_2\" \"引っ越しの神\" \"select_label_3\"\n『レシェフ』はキプロス島の\nアモリ人にはどんな神だと\n恐れられたか知ってる？\n"
+	},
+	{
+		"ID": 3806,
+		"unitID": 2201311,
+		"questionID": 9201306,
+		"script": ";;カナーン神話群,3\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 2013 \"reshef_0001\"\n@レシェフ\nねぇ、マスター\n\n@レシェフ\n運命をともにする二人だったら、\n当然お互いのこと\n知っていないとね？\n\n@レシェフ\nってことで、\n今からクイズ出すから、\n答えて？\n\n# voice 2013 \"reshef_0004\"\n# face %(unit_a)s \"smile\"\n@レシェフ\n大丈～夫！\n気合い、気合い！\n\n# face %(unit_a)s \"usual\"\n@レシェフ\n気合いがあれば、\n絶対解けるから！！\n\n# voice 2013 \"reshef_0036\"\n@レシェフ\nじゃあ、いくよ！？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nあたしのキラーズ『レシェフ』は\nどんな伝承に登場する？\n\n# se \"SE_0734\"\n# select  \"フィンランド神話群\" \"select_label_1\" \"北欧神話群\" \"select_label_2\" \"カナーン神話群\" \"select_label_3\"\nあたしのキラーズ『レシェフ』は\nどんな伝承に登場する？\n"
+	},
+	{
+		"ID": 3807,
+		"unitID": 2201311,
+		"questionID": 9201307,
+		"script": ";;アモリ人,1\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 2013 \"reshef_0001\"\n@レシェフ\nねぇ、マスター\n\n@レシェフ\n運命をともにする二人だったら、\n当然お互いのこと\n知っていないとね？\n\n@レシェフ\nってことで、\n今からクイズ出すから、\n答えて？\n\n# voice 2013 \"reshef_0004\"\n# face %(unit_a)s \"smile\"\n@レシェフ\n大丈～夫！\n気合い、気合い！\n\n# face %(unit_a)s \"usual\"\n@レシェフ\n気合いがあれば、\n絶対解けるから！！\n\n# voice 2013 \"reshef_0036\"\n@レシェフ\nじゃあ、いくよ！？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n『レシェフ』はキプロス島の\nどんな人達に\n崇められていたか知ってる？\n\n# se \"SE_0734\"\n# select  \"アモリ人\" \"select_label_1\" \"タモリ人\" \"select_label_2\" \"エモリ人\" \"select_label_3\"\n『レシェフ』はキプロス島の\nどんな人達に\n崇められていたか知ってる？\n"
+	},
+	{
+		"ID": 3808,
+		"unitID": 2201311,
+		"questionID": 9201308,
+		"script": ";;稲妻,2\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 2013 \"reshef_0001\"\n@レシェフ\nねぇ、マスター\n\n@レシェフ\n運命をともにする二人だったら、\n当然お互いのこと\n知っていないとね？\n\n@レシェフ\nってことで、\n今からクイズ出すから、\n答えて？\n\n# voice 2013 \"reshef_0004\"\n# face %(unit_a)s \"smile\"\n@レシェフ\n大丈～夫！\n気合い、気合い！\n\n# face %(unit_a)s \"usual\"\n@レシェフ\n気合いがあれば、\n絶対解けるから！！\n\n# voice 2013 \"reshef_0036\"\n@レシェフ\nじゃあ、いくよ！？\n;;--------------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nあたしのキラーズ『レシェフ』の\n持ち主は「疫病の神」以外に\nなんの神と云われてる？\n\n# se \"SE_0734\"\n# select  \"隕石\" \"select_label_1\" \"稲妻\" \"select_label_2\" \"小麦\" \"select_label_3\"\nあたしのキラーズ『レシェフ』の\n持ち主は「疫病の神」以外に\nなんの神と云われてる？\n"
+	},
+	{
+		"ID": 3809,
+		"unitID": 2201311,
+		"questionID": 9201309,
+		"script": ";;燃え盛る光の炎,3\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 2013 \"reshef_0001\"\n@レシェフ\nねぇ、マスター\n\n@レシェフ\n運命をともにする二人だったら、\n当然お互いのこと\n知っていないとね？\n\n@レシェフ\nってことで、\n今からクイズ出すから、\n答えて？\n\n# voice 2013 \"reshef_0004\"\n# face %(unit_a)s \"smile\"\n@レシェフ\n大丈～夫！\n気合い、気合い！\n\n# face %(unit_a)s \"usual\"\n@レシェフ\n気合いがあれば、\n絶対解けるから！！\n\n# voice 2013 \"reshef_0036\"\n@レシェフ\nじゃあ、いくよ！？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n『レシェフ』とは\nどんな意味か知ってる？\n\n# se \"SE_0734\"\n# select  \"ほとばしるエナジー\" \"select_label_1\" \"荒れ狂う荒馬\" \"select_label_2\" \"燃え盛る光の炎\" \"select_label_3\"\n『レシェフ』とは\nどんな意味か知ってる？\n"
+	},
+	{
+		"ID": 3810,
+		"unitID": 2201311,
+		"questionID": 9201310,
+		"script": ";;悪魔,1\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 2013 \"reshef_0001\"\n@レシェフ\nねぇ、マスター\n\n@レシェフ\n運命をともにする二人だったら、\n当然お互いのこと\n知っていないとね？\n\n@レシェフ\nってことで、\n今からクイズ出すから、\n答えて？\n\n# voice 2013 \"reshef_0004\"\n# face %(unit_a)s \"smile\"\n@レシェフ\n大丈～夫！\n気合い、気合い！\n\n# face %(unit_a)s \"usual\"\n@レシェフ\n気合いがあれば、\n絶対解けるから！！\n\n# voice 2013 \"reshef_0036\"\n@レシェフ\nじゃあ、いくよ！？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n『レシェフ』は旧約聖書で\nどんな風に描かれている？\n\n# se \"SE_0734\"\n# select  \"悪魔\" \"select_label_1\" \"神\" \"select_label_2\" \"天使\" \"select_label_3\"\n『レシェフ』は旧約聖書で\nどんな風に描かれている？\n"
+	},
+	{
+		"ID": 3811,
+		"unitID": 2201311,
+		"questionID": 9201311,
+		"script": ";;炎,1\n# textflame 1 1\n# eye %(unit_a)s \"close\"\n# voice 2013 \"reshef_0001\"\n@レシェフ\nふと思ったの…\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"normal\"\n@レシェフ\n悪魔とか疫病神とか言われる\nあたしなんかといて\n楽しいのかなって…\n\n# eye %(unit_a)s \"close\"\n@レシェフ\n…………\n\n# voice 2013 \"reshef_0031\"\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"sad\"\n@レシェフ\nあぁ、ごめんごめん！\nせっかくのデートなのにっ\n\n# face %(unit_a)s \"smile\"\n@レシェフ\nじゃあ、\n今から楽しんでもらえるように\nクイズ出すから答えて！\n\n# face %(unit_a)s \"usual\"\n@レシェフ\n準備はいい！？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nあたしの属性は\n知ってるかな？\n\n# se \"SE_0734\"\n# select  \"炎\" \"select_label_1\" \"闇\" \"select_label_2\" \"雷\" \"select_label_3\"\nあたしの属性は\n知ってるかな？\n"
+	},
+	{
+		"ID": 3812,
+		"unitID": 2201311,
+		"questionID": 9201312,
+		"script": ";;161cm,2\n# textflame 1 1\n# eye %(unit_a)s \"close\"\n# voice 2013 \"reshef_0001\"\n@レシェフ\nふと思ったの…\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"normal\"\n@レシェフ\n悪魔とか疫病神とか言われる\nあたしなんかといて\n楽しいのかなって…\n\n# eye %(unit_a)s \"close\"\n@レシェフ\n…………\n\n# voice 2013 \"reshef_0031\"\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"sad\"\n@レシェフ\nあぁ、ごめんごめん！\nせっかくのデートなのにっ\n\n# face %(unit_a)s \"smile\"\n@レシェフ\nじゃあ、\n今から楽しんでもらえるように\nクイズ出すから答えて！\n\n# face %(unit_a)s \"usual\"\n@レシェフ\n準備はいい！？\n;;--------------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nあたしの身長は知ってる？\n\n# se \"SE_0734\"\n# select  \"165cm\" \"select_label_1\" \"161cm\" \"select_label_2\" \"172cm\" \"select_label_3\"\nあたしの身長は知ってる？\n"
+	},
+	{
+		"ID": 3813,
+		"unitID": 2201311,
+		"questionID": 9201313,
+		"script": ";;2月4日,3\n# textflame 1 1\n# eye %(unit_a)s \"close\"\n# voice 2013 \"reshef_0001\"\n@レシェフ\nふと思ったの…\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"normal\"\n@レシェフ\n悪魔とか疫病神とか言われる\nあたしなんかといて\n楽しいのかなって…\n\n# eye %(unit_a)s \"close\"\n@レシェフ\n…………\n\n# voice 2013 \"reshef_0031\"\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"sad\"\n@レシェフ\nあぁ、ごめんごめん！\nせっかくのデートなのにっ\n\n# face %(unit_a)s \"smile\"\n@レシェフ\nじゃあ、\n今から楽しんでもらえるように\nクイズ出すから答えて！\n\n# face %(unit_a)s \"usual\"\n@レシェフ\n準備はいい！？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nあたしの誕生日を覚えてる？\n\n# se \"SE_0734\"\n# select  \"12月4日\" \"select_label_1\" \"3月4日\" \"select_label_2\" \"2月4日\" \"select_label_3\"\nあたしの誕生日を覚えてる？\n"
+	},
+	{
+		"ID": 3814,
+		"unitID": 2201311,
+		"questionID": 9201314,
+		"script": ";;みずがめ座,1\n# textflame 1 1\n# eye %(unit_a)s \"close\"\n# voice 2013 \"reshef_0001\"\n@レシェフ\nふと思ったの…\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"normal\"\n@レシェフ\n悪魔とか疫病神とか言われる\nあたしなんかといて\n楽しいのかなって…\n\n# eye %(unit_a)s \"close\"\n@レシェフ\n…………\n\n# voice 2013 \"reshef_0031\"\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"sad\"\n@レシェフ\nあぁ、ごめんごめん！\nせっかくのデートなのにっ\n\n# face %(unit_a)s \"smile\"\n@レシェフ\nじゃあ、\n今から楽しんでもらえるように\nクイズ出すから答えて！\n\n# face %(unit_a)s \"usual\"\n@レシェフ\n準備はいい！？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nあたしの星座は\nわかるでしょ？\n\n# se \"SE_0734\"\n# select  \"みずがめ座\" \"select_label_1\" \"てんびん座\" \"select_label_2\" \"おとめ座\" \"select_label_3\"\nあたしの星座は\nわかるでしょ？\n"
+	},
+	{
+		"ID": 3815,
+		"unitID": 2201311,
+		"questionID": 9201315,
+		"script": ";;雨,2\n# textflame 1 1\n# eye %(unit_a)s \"close\"\n# voice 2013 \"reshef_0001\"\n@レシェフ\nふと思ったの…\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"normal\"\n@レシェフ\n悪魔とか疫病神とか言われる\nあたしなんかといて\n楽しいのかなって…\n\n# eye %(unit_a)s \"close\"\n@レシェフ\n…………\n\n# voice 2013 \"reshef_0031\"\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"sad\"\n@レシェフ\nあぁ、ごめんごめん！\nせっかくのデートなのにっ\n\n# face %(unit_a)s \"smile\"\n@レシェフ\nじゃあ、\n今から楽しんでもらえるように\nクイズ出すから答えて！\n\n# face %(unit_a)s \"usual\"\n@レシェフ\n準備はいい！？\n;;--------------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nあたしが好きなものは\nわかるでしょ？\n\n# se \"SE_0734\"\n# select  \"亀\" \"select_label_1\" \"雨\" \"select_label_2\" \"鮫\" \"select_label_3\"\nあたしが好きなものは\nわかるでしょ？\n"
+	},
+	{
+		"ID": 3816,
+		"unitID": 2201311,
+		"questionID": 9201316,
+		"script": ";;熱血,3\n# textflame 1 1\n# eye %(unit_a)s \"close\"\n# voice 2013 \"reshef_0001\"\n@レシェフ\nふと思ったの…\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"normal\"\n@レシェフ\n悪魔とか疫病神とか言われる\nあたしなんかといて\n楽しいのかなって…\n\n# eye %(unit_a)s \"close\"\n@レシェフ\n…………\n\n# voice 2013 \"reshef_0031\"\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"sad\"\n@レシェフ\nあぁ、ごめんごめん！\nせっかくのデートなのにっ\n\n# face %(unit_a)s \"smile\"\n@レシェフ\nじゃあ、\n今から楽しんでもらえるように\nクイズ出すから答えて！\n\n# face %(unit_a)s \"usual\"\n@レシェフ\n準備はいい！？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nあたしってば\nよくこんな風に言われるのよねー？\n\n# se \"SE_0734\"\n# select  \"鉄血\" \"select_label_1\" \"冷血\" \"select_label_2\" \"熱血\" \"select_label_3\"\nあたしってば\nよくこんな風に言われるのよねー？\n"
+	},
+	{
+		"ID": 3817,
+		"unitID": 2201311,
+		"questionID": 9201317,
+		"script": ";;ＡＢ型,1\n# textflame 1 1\n# eye %(unit_a)s \"close\"\n# voice 2013 \"reshef_0001\"\n@レシェフ\nふと思ったの…\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"normal\"\n@レシェフ\n悪魔とか疫病神とか言われる\nあたしなんかといて\n楽しいのかなって…\n\n# eye %(unit_a)s \"close\"\n@レシェフ\n…………\n\n# voice 2013 \"reshef_0031\"\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"sad\"\n@レシェフ\nあぁ、ごめんごめん！\nせっかくのデートなのにっ\n\n# face %(unit_a)s \"smile\"\n@レシェフ\nじゃあ、\n今から楽しんでもらえるように\nクイズ出すから答えて！\n\n# face %(unit_a)s \"usual\"\n@レシェフ\n準備はいい！？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nあたしの血液型、わかるでしょ？\n\n# se \"SE_0734\"\n# select  \"ＡＢ型\" \"select_label_1\" \"Ａ型\" \"select_label_2\" \"Ｂ型\" \"select_label_3\"\nあたしの血液型、わかるでしょ？\n"
+	},
+	{
+		"ID": 3818,
+		"unitID": 2201311,
+		"questionID": 9201318,
+		"script": ";;キプロス島,2\n# textflame 1 1\n# eye %(unit_a)s \"close\"\n# voice 2013 \"reshef_0001\"\n@レシェフ\nふと思ったの…\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"normal\"\n@レシェフ\n悪魔とか疫病神とか言われる\nあたしなんかといて\n楽しいのかなって…\n\n# eye %(unit_a)s \"close\"\n@レシェフ\n…………\n\n# voice 2013 \"reshef_0031\"\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"sad\"\n@レシェフ\nあぁ、ごめんごめん！\nせっかくのデートなのにっ\n\n# face %(unit_a)s \"smile\"\n@レシェフ\nじゃあ、\n今から楽しんでもらえるように\nクイズ出すから答えて！\n\n# face %(unit_a)s \"usual\"\n@レシェフ\n準備はいい！？\n;;--------------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nあたしの出身地、わかる？\n\n# se \"SE_0734\"\n# select  \"ボラボラ島\" \"select_label_1\" \"キプロス島\" \"select_label_2\" \"サンタマリア島\" \"select_label_3\"\nあたしの出身地、わかる？\n"
+	},
+	{
+		"ID": 3819,
+		"unitID": 2201311,
+		"questionID": 9201319,
+		"script": ";;髪飾り集め,3\n# textflame 1 1\n# eye %(unit_a)s \"close\"\n# voice 2013 \"reshef_0001\"\n@レシェフ\nふと思ったの…\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"normal\"\n@レシェフ\n悪魔とか疫病神とか言われる\nあたしなんかといて\n楽しいのかなって…\n\n# eye %(unit_a)s \"close\"\n@レシェフ\n…………\n\n# voice 2013 \"reshef_0031\"\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"sad\"\n@レシェフ\nあぁ、ごめんごめん！\nせっかくのデートなのにっ\n\n# face %(unit_a)s \"smile\"\n@レシェフ\nじゃあ、\n今から楽しんでもらえるように\nクイズ出すから答えて！\n\n# face %(unit_a)s \"usual\"\n@レシェフ\n準備はいい！？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nあたしの趣味はどれかわかる？\n\n# se \"SE_0734\"\n# select  \"入れ歯集め\" \"select_label_1\" \"眼鏡集め\" \"select_label_2\" \"髪飾り集め\" \"select_label_3\"\nあたしの趣味はどれかわかる？\n"
+	},
+	{
+		"ID": 3820,
+		"unitID": 2201311,
+		"questionID": 9201320,
+		"script": ";;我慢,1\n# textflame 1 1\n# eye %(unit_a)s \"close\"\n# voice 2013 \"reshef_0001\"\n@レシェフ\nふと思ったの…\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"normal\"\n@レシェフ\n悪魔とか疫病神とか言われる\nあたしなんかといて\n楽しいのかなって…\n\n# eye %(unit_a)s \"close\"\n@レシェフ\n…………\n\n# voice 2013 \"reshef_0031\"\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"sad\"\n@レシェフ\nあぁ、ごめんごめん！\nせっかくのデートなのにっ\n\n# face %(unit_a)s \"smile\"\n@レシェフ\nじゃあ、\n今から楽しんでもらえるように\nクイズ出すから答えて！\n\n# face %(unit_a)s \"usual\"\n@レシェフ\n準備はいい！？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nあたしはこれを一切しないね！\nなんだかわかる？\n\n# se \"SE_0734\"\n# select  \"我慢\" \"select_label_1\" \"わがまま\" \"select_label_2\" \"毒舌\" \"select_label_3\"\nあたしはこれを一切しないね！\nなんだかわかる？\n"
+	},
+	{
+		"ID": 3821,
+		"unitID": 2201311,
+		"questionID": 9201321,
+		"script": ";;やっはー！！,1\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 2013 \"reshef_0005\"\n@レシェフ\n今日は楽しかったなぁ…\n\n@レシェフ\nよし！\n“楽しい”の締めくくりに\nクイズ出しちゃおう！\n\n@レシェフ\nマスターの情熱で、\n絶対に正解してね！\n\n# voice 2013 \"reshef_0036\"\n@レシェフ\nじゃあ、いくよ！？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nあたしが気合を入れる時に\nよく言うのは？\n\n# se \"SE_0734\"\n# select  \"やっはー！\" \"select_label_1\" \"それは重畳！\" \"select_label_2\" \"これぞトゥルース！\" \"select_label_3\"\nあたしが気合を入れる時に\nよく言うのは？\n"
+	},
+	{
+		"ID": 3822,
+		"unitID": 2201311,
+		"questionID": 9201322,
+		"script": ";;斧皇,2\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 2013 \"reshef_0005\"\n@レシェフ\n今日は楽しかったなぁ…\n\n@レシェフ\nよし！\n“楽しい”の締めくくりに\nクイズ出しちゃおう！\n\n@レシェフ\nマスターの情熱で、\n絶対に正解してね！\n\n# voice 2013 \"reshef_0036\"\n@レシェフ\nじゃあ、いくよ！？\n;;--------------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nあたしの\n☆６のジョブ名、わかる？\n\n# se \"SE_0734\"\n# select  \"斧王\" \"select_label_1\" \"斧皇\" \"select_label_2\" \"斧姫\" \"select_label_3\"\nあたしの\n☆６のジョブ名、わかる？\n"
+	},
+	{
+		"ID": 3823,
+		"unitID": 2201311,
+		"questionID": 9201323,
+		"script": ";;薪割り,3\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 2013 \"reshef_0005\"\n@レシェフ\n今日は楽しかったなぁ…\n\n@レシェフ\nよし！\n“楽しい”の締めくくりに\nクイズ出しちゃおう！\n\n@レシェフ\nマスターの情熱で、\n絶対に正解してね！\n\n# voice 2013 \"reshef_0036\"\n@レシェフ\nじゃあ、いくよ！？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nあたしの休日に\nマスターがなにを\n手伝ってくれたか覚えてる？\n\n# se \"SE_0734\"\n# select  \"洗濯\" \"select_label_1\" \"芝刈り\" \"select_label_2\" \"薪割り\" \"select_label_3\"\nあたしの休日に\nマスターがなにを\n手伝ってくれたか覚えてる？\n"
+	},
+	{
+		"ID": 3824,
+		"unitID": 2201311,
+		"questionID": 9201324,
+		"script": ";;炎斧皇の覇道,1\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 2013 \"reshef_0005\"\n@レシェフ\n今日は楽しかったなぁ…\n\n@レシェフ\nよし！\n“楽しい”の締めくくりに\nクイズ出しちゃおう！\n\n@レシェフ\nマスターの情熱で、\n絶対に正解してね！\n\n# voice 2013 \"reshef_0036\"\n@レシェフ\nじゃあ、いくよ！？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nあたしの\n☆６のリーダースキル、わかる？\n\n# se \"SE_0734\"\n# select  \"炎斧皇の覇道\" \"select_label_1\" \"炎斧皇のあぜ道\" \"select_label_2\" \"炎斧皇の王道\" \"select_label_3\"\nあたしの\n☆６のリーダースキル、わかる？\n"
+	},
+	{
+		"ID": 3825,
+		"unitID": 2201311,
+		"questionID": 9201325,
+		"script": ";;アイムール,2\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 2013 \"reshef_0005\"\n@レシェフ\n今日は楽しかったなぁ…\n\n@レシェフ\nよし！\n“楽しい”の締めくくりに\nクイズ出しちゃおう！\n\n@レシェフ\nマスターの情熱で、\n絶対に正解してね！\n\n# voice 2013 \"reshef_0036\"\n@レシェフ\nじゃあ、いくよ！？\n;;--------------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nあたしと仲がいいのはこの子よ！\n\n# se \"SE_0734\"\n# select  \"フォルカス\" \"select_label_1\" \"アイムール\" \"select_label_2\" \"アスカロン\" \"select_label_3\"\nあたしと仲がいいのはこの子よ！\n"
+	},
+	{
+		"ID": 3826,
+		"unitID": 2201311,
+		"questionID": 9201326,
+		"script": ";;ミトゥム,3\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 2013 \"reshef_0005\"\n@レシェフ\n今日は楽しかったなぁ…\n\n@レシェフ\nよし！\n“楽しい”の締めくくりに\nクイズ出しちゃおう！\n\n@レシェフ\nマスターの情熱で、\n絶対に正解してね！\n\n# voice 2013 \"reshef_0036\"\n@レシェフ\nじゃあ、いくよ！？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nあたしと仲がいいのはどの子だ！？\n\n# se \"SE_0734\"\n# select  \"ムラマサ\" \"select_label_1\" \"マサムネ\" \"select_label_2\" \"ミトゥム\" \"select_label_3\"\nあたしと仲がいいのはどの子だ！？\n"
+	},
+	{
+		"ID": 3827,
+		"unitID": 2201311,
+		"questionID": 9201327,
+		"script": ";;復讐の刃,1\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 2013 \"reshef_0005\"\n@レシェフ\n今日は楽しかったなぁ…\n\n@レシェフ\nよし！\n“楽しい”の締めくくりに\nクイズ出しちゃおう！\n\n@レシェフ\nマスターの情熱で、\n絶対に正解してね！\n\n# voice 2013 \"reshef_0036\"\n@レシェフ\nじゃあ、いくよ！？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nあたしが覚える\n付与スキルってわかる？\n\n# se \"SE_0734\"\n# select  \"復讐の刃\" \"select_label_1\" \"復習の刃\" \"select_label_2\" \"福州の刃\" \"select_label_3\"\nあたしが覚える\n付与スキルってわかる？\n"
+	},
+	{
+		"ID": 3828,
+		"unitID": 2201311,
+		"questionID": 9201328,
+		"script": ";;煌炎のゆらめき,2\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 2013 \"reshef_0005\"\n@レシェフ\n今日は楽しかったなぁ…\n\n@レシェフ\nよし！\n“楽しい”の締めくくりに\nクイズ出しちゃおう！\n\n@レシェフ\nマスターの情熱で、\n絶対に正解してね！\n\n# voice 2013 \"reshef_0036\"\n@レシェフ\nじゃあ、いくよ！？\n;;--------------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nあたしが取得した\nスキルは覚えてる？\n\n# se \"SE_0734\"\n# select  \"煌炎のときめき\" \"select_label_1\" \"煌炎のゆらめき\" \"select_label_2\" \"煌炎のメキメキ\" \"select_label_3\"\nあたしが取得した\nスキルは覚えてる？\n"
+	},
+	{
+		"ID": 3829,
+		"unitID": 2201311,
+		"questionID": 9201329,
+		"script": ";;光焔の見切り,3\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 2013 \"reshef_0005\"\n@レシェフ\n今日は楽しかったなぁ…\n\n@レシェフ\nよし！\n“楽しい”の締めくくりに\nクイズ出しちゃおう！\n\n@レシェフ\nマスターの情熱で、\n絶対に正解してね！\n\n# voice 2013 \"reshef_0036\"\n@レシェフ\nじゃあ、いくよ！？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nあたしが取得した\nスキルは覚えてる？\n\n# se \"SE_0734\"\n# select  \"光焔の尻尾切り\" \"select_label_1\" \"光焔の値切り\" \"select_label_2\" \"光焔の見切り\" \"select_label_3\"\nあたしが取得した\nスキルは覚えてる？\n"
+	},
+	{
+		"ID": 3830,
+		"unitID": 2201311,
+		"questionID": 9201330,
+		"script": ";;シャルウル,1\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 2013 \"reshef_0005\"\n@レシェフ\n今日は楽しかったなぁ…\n\n@レシェフ\nよし！\n“楽しい”の締めくくりに\nクイズ出しちゃおう！\n\n@レシェフ\nマスターの情熱で、\n絶対に正解してね！\n\n# voice 2013 \"reshef_0036\"\n@レシェフ\nじゃあ、いくよ！？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nあたしは比較的\nこの子とも仲がいいわ！\n\n# se \"SE_0734\"\n# select  \"シャルウル\" \"select_label_1\" \"エロース\" \"select_label_2\" \"グングニル\" \"select_label_3\"\nあたしは比較的\nこの子とも仲がいいわ！\n"
+	},
+	{
+		"ID": 3831,
+		"unitID": 2201311,
+		"questionID": 9201331,
+		"script": ";;疫病神と呼ばれる事,1\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 2013 \"reshef_0028\"\n@レシェフ\nなんかさ…\n\n# face %(unit_a)s \"usual\"\n@レシェフ\nあんたの存在が、\nあたしの中で\nどんどん大きくなってる…\n\n# face %(unit_a)s \"sad\"\n@レシェフ\nこんなの…初めてだよ\n\n@レシェフ\nね、ねぇ…\n\n# face %(unit_a)s \"usual\"\n@レシェフ\nあたしのこと、\nどれだけ理解しているのか…\n聞いてみてもいい…？\n\n# voice 2013 \"reshef_0036\"\n@レシェフ\nじゃあ、行くよ？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nあたし、実は気にしてるんだよね…\n\n# se \"SE_0734\"\n# select  \"疫病神と呼ばれる事\" \"select_label_1\" \"わがままと言われる事\" \"select_label_2\" \"熱血と言われる事\" \"select_label_3\"\nあたし、実は気にしてるんだよね…\n"
+	},
+	{
+		"ID": 3832,
+		"unitID": 2201311,
+		"questionID": 9201332,
+		"script": ";;Aquarius,2\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 2013 \"reshef_0028\"\n@レシェフ\nなんかさ…\n\n# face %(unit_a)s \"usual\"\n@レシェフ\nあんたの存在が、\nあたしの中で\nどんどん大きくなってる…\n\n# face %(unit_a)s \"sad\"\n@レシェフ\nこんなの…初めてだよ\n\n@レシェフ\nね、ねぇ…\n\n# face %(unit_a)s \"usual\"\n@レシェフ\nあたしのこと、\nどれだけ理解しているのか…\n聞いてみてもいい…？\n\n# voice 2013 \"reshef_0036\"\n@レシェフ\nじゃあ、行くよ？\n;;--------------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nあたしの星座を英語で言うと？\n\n# se \"SE_0734\"\n# select  \"Cancer\" \"select_label_1\" \"Aquarius\" \"select_label_2\" \"Scorpio\" \"select_label_3\"\nあたしの星座を英語で言うと？\n"
+	},
+	{
+		"ID": 3833,
+		"unitID": 2201311,
+		"questionID": 9201333,
+		"script": ";;February,3\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 2013 \"reshef_0028\"\n@レシェフ\nなんかさ…\n\n# face %(unit_a)s \"usual\"\n@レシェフ\nあんたの存在が、\nあたしの中で\nどんどん大きくなってる…\n\n# face %(unit_a)s \"sad\"\n@レシェフ\nこんなの…初めてだよ\n\n@レシェフ\nね、ねぇ…\n\n# face %(unit_a)s \"usual\"\n@レシェフ\nあたしのこと、\nどれだけ理解しているのか…\n聞いてみてもいい…？\n\n# voice 2013 \"reshef_0036\"\n@レシェフ\nじゃあ、行くよ？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nあたしの誕生月を英語で言うと？\n\n# se \"SE_0734\"\n# select  \"June\" \"select_label_1\" \"August\" \"select_label_2\" \"February\" \"select_label_3\"\nあたしの誕生月を英語で言うと？\n"
+	},
+	{
+		"ID": 3834,
+		"unitID": 2201311,
+		"questionID": 9201334,
+		"script": ";;黄色,1\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 2013 \"reshef_0028\"\n@レシェフ\nなんかさ…\n\n# face %(unit_a)s \"usual\"\n@レシェフ\nあんたの存在が、\nあたしの中で\nどんどん大きくなってる…\n\n# face %(unit_a)s \"sad\"\n@レシェフ\nこんなの…初めてだよ\n\n@レシェフ\nね、ねぇ…\n\n# face %(unit_a)s \"usual\"\n@レシェフ\nあたしのこと、\nどれだけ理解しているのか…\n聞いてみてもいい…？\n\n# voice 2013 \"reshef_0036\"\n@レシェフ\nじゃあ、行くよ？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nあたしの瞳の色は何色？\n\n# se \"SE_0734\"\n# select  \"黄色\" \"select_label_1\" \"赤色\" \"select_label_2\" \"青色\" \"select_label_3\"\nあたしの瞳の色は何色？\n"
+	},
+	{
+		"ID": 3835,
+		"unitID": 2201311,
+		"questionID": 9201335,
+		"script": ";;黄色,2\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 2013 \"reshef_0028\"\n@レシェフ\nなんかさ…\n\n# face %(unit_a)s \"usual\"\n@レシェフ\nあんたの存在が、\nあたしの中で\nどんどん大きくなってる…\n\n# face %(unit_a)s \"sad\"\n@レシェフ\nこんなの…初めてだよ\n\n@レシェフ\nね、ねぇ…\n\n# face %(unit_a)s \"usual\"\n@レシェフ\nあたしのこと、\nどれだけ理解しているのか…\n聞いてみてもいい…？\n\n# voice 2013 \"reshef_0036\"\n@レシェフ\nじゃあ、行くよ？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nあたしの瞳の色は何色？\n\n# se \"SE_0734\"\n# select  \"赤色\" \"select_label_1\" \"黄色\" \"select_label_2\" \"青色\" \"select_label_3\"\nあたしの瞳の色は何色？\n"
+	},
+	{
+		"ID": 3836,
+		"unitID": 2201311,
+		"questionID": 9201336,
+		"script": ";;帽子,3\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 2013 \"reshef_0028\"\n@レシェフ\nなんかさ…\n\n# face %(unit_a)s \"usual\"\n@レシェフ\nあんたの存在が、\nあたしの中で\nどんどん大きくなってる…\n\n# face %(unit_a)s \"sad\"\n@レシェフ\nこんなの…初めてだよ\n\n@レシェフ\nね、ねぇ…\n\n# face %(unit_a)s \"usual\"\n@レシェフ\nあたしのこと、\nどれだけ理解しているのか…\n聞いてみてもいい…？\n\n# voice 2013 \"reshef_0036\"\n@レシェフ\nじゃあ、行くよ？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n休日に付き合ってくれたマスターに\nお礼に渡した物…覚えてる？\n\n# se \"SE_0734\"\n# select  \"サンダル\" \"select_label_1\" \"ネクタイ\" \"select_label_2\" \"帽子\" \"select_label_3\"\n休日に付き合ってくれたマスターに\nお礼に渡した物…覚えてる？\n"
+	},
+	{
+		"ID": 3837,
+		"unitID": 2201311,
+		"questionID": 9201337,
+		"script": ";;ペルーン,1\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 2013 \"reshef_0028\"\n@レシェフ\nなんかさ…\n\n# face %(unit_a)s \"usual\"\n@レシェフ\nあんたの存在が、\nあたしの中で\nどんどん大きくなってる…\n\n# face %(unit_a)s \"sad\"\n@レシェフ\nこんなの…初めてだよ\n\n@レシェフ\nね、ねぇ…\n\n# face %(unit_a)s \"usual\"\n@レシェフ\nあたしのこと、\nどれだけ理解しているのか…\n聞いてみてもいい…？\n\n# voice 2013 \"reshef_0036\"\n@レシェフ\nじゃあ、行くよ？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nあたしが対抗心を\n燃やすのはコイツだね！\n\n# se \"SE_0734\"\n# select  \"ペルーン\" \"select_label_1\" \"プルーン\" \"select_label_2\" \"バルーン\" \"select_label_3\"\nあたしが対抗心を\n燃やすのはコイツだね！\n"
+	},
+	{
+		"ID": 3838,
+		"unitID": 2201311,
+		"questionID": 9201338,
+		"script": ";;メギド,2\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 2013 \"reshef_0028\"\n@レシェフ\nなんかさ…\n\n# face %(unit_a)s \"usual\"\n@レシェフ\nあんたの存在が、\nあたしの中で\nどんどん大きくなってる…\n\n# face %(unit_a)s \"sad\"\n@レシェフ\nこんなの…初めてだよ\n\n@レシェフ\nね、ねぇ…\n\n# face %(unit_a)s \"usual\"\n@レシェフ\nあたしのこと、\nどれだけ理解しているのか…\n聞いてみてもいい…？\n\n# voice 2013 \"reshef_0036\"\n@レシェフ\nじゃあ、行くよ？\n;;--------------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nあたしと同じ血液型なのは\n誰かわかるかな？\n\n# se \"SE_0734\"\n# select  \"ロンゴミアント\" \"select_label_1\" \"メギド\" \"select_label_2\" \"ブリューナク\" \"select_label_3\"\nあたしと同じ血液型なのは\n誰かわかるかな？\n"
+	},
+	{
+		"ID": 3839,
+		"unitID": 2201311,
+		"questionID": 9201339,
+		"script": ";;ロンゴミアント,3\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 2013 \"reshef_0028\"\n@レシェフ\nなんかさ…\n\n# face %(unit_a)s \"usual\"\n@レシェフ\nあんたの存在が、\nあたしの中で\nどんどん大きくなってる…\n\n# face %(unit_a)s \"sad\"\n@レシェフ\nこんなの…初めてだよ\n\n@レシェフ\nね、ねぇ…\n\n# face %(unit_a)s \"usual\"\n@レシェフ\nあたしのこと、\nどれだけ理解しているのか…\n聞いてみてもいい…？\n\n# voice 2013 \"reshef_0036\"\n@レシェフ\nじゃあ、行くよ？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nあたしと違う血液型なのは\n誰かわかるかな？\n\n# se \"SE_0734\"\n# select  \"ルーン\" \"select_label_1\" \"メギド\" \"select_label_2\" \"ロンゴミアント\" \"select_label_3\"\nあたしと違う血液型なのは\n誰かわかるかな？\n"
+	},
+	{
+		"ID": 3840,
+		"unitID": 2201311,
+		"questionID": 9201340,
+		"script": ";;シェキナー,1\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 2013 \"reshef_0028\"\n@レシェフ\nなんかさ…\n\n# face %(unit_a)s \"usual\"\n@レシェフ\nあんたの存在が、\nあたしの中で\nどんどん大きくなってる…\n\n# face %(unit_a)s \"sad\"\n@レシェフ\nこんなの…初めてだよ\n\n@レシェフ\nね、ねぇ…\n\n# face %(unit_a)s \"usual\"\n@レシェフ\nあたしのこと、\nどれだけ理解しているのか…\n聞いてみてもいい…？\n\n# voice 2013 \"reshef_0036\"\n@レシェフ\nじゃあ、行くよ？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nあたしと同じ誕生月なのは\n誰かわかるかな？\n\n# se \"SE_0734\"\n# select  \"シェキナー\" \"select_label_1\" \"メギド\" \"select_label_2\" \"ブリューナク\" \"select_label_3\"\nあたしと同じ誕生月なのは\n誰かわかるかな？\n\n\n# textflame 1 1\n@%(unitName:unit_a)s\nあたしと違う血液型なのは\n誰かわかるかな？\n\n# se \"SE_0734\"\n# select  \"ルーン\" \"select_label_1\" \"メギド\" \"select_label_2\" \"ロンゴミアント\" \"select_label_3\"\nあたしと違う血液型なのは\n誰かわかるかな？\n"
+	},
+	{
+		"ID": 3841,
+		"unitID": 2201311,
+		"questionID": 9201341,
+		"script": "\n;;あたし,1\n# se \"SE_0734\"\n# select \"あたし\" \"select_label_1\" \"ミー\" \"select_label_2\" \"オレ\" \"select_label_3\"\nレシェフの一人称は\n次のうちどれ？\n"
+	},
+	{
+		"ID": 3842,
+		"unitID": 2201311,
+		"questionID": 9201342,
+		"script": "\n;;マスター,2\n# se \"SE_0734\"\n# select \"ご主人\" \"select_label_1\" \"マスター\" \"select_label_2\" \"キミ\" \"select_label_3\"\nレシェフはアンタのこと\nなんて呼んでる？\n"
+	},
+	{
+		"ID": 3843,
+		"unitID": 2201311,
+		"questionID": 9201343,
+		"script": "\n;;88,3\n# se \"SE_0734\"\n# select \"80\" \"select_label_1\" \"92\" \"select_label_2\" \"88\" \"select_label_3\"\nレシェフの\nバストサイズがどのくらいか\nアンタ…知ってるの？\n"
+	},
+	{
+		"ID": 3844,
+		"unitID": 2201311,
+		"questionID": 9201344,
+		"script": "\n;;59,1\n# se \"SE_0734\"\n# select \"59\" \"select_label_1\" \"60\" \"select_label_2\" \"61\" \"select_label_3\"\nレシェフの\nウエストサイズがどのくらいか\nアンタ…知ってるの？\n"
+	},
+	{
+		"ID": 3845,
+		"unitID": 2201311,
+		"questionID": 9201345,
+		"script": "\n;;87,2\n# se \"SE_0734\"\n# select \"79\" \"select_label_1\" \"87\" \"select_label_2\" \"85\" \"select_label_3\"\nレシェフの\nヒップサイズがどのくらいか\nアンタ…知ってるの？\n"
+	},
+	{
+		"ID": 3846,
+		"unitID": 2201311,
+		"questionID": 9201346,
+		"script": "\n;;54,3\n# se \"SE_0734\"\n# select \"41\" \"select_label_1\" \"47\" \"select_label_2\" \"54\" \"select_label_3\"\nレシェフの体重は\n次のうちどれ？\n"
+	},
+	{
+		"ID": 3847,
+		"unitID": 2201311,
+		"questionID": 9201347,
+		"script": "\n;;234,1\n# se \"SE_0734\"\n# select \"234\" \"select_label_1\" \"219\" \"select_label_2\" \"230\" \"select_label_3\"\nレシェフの\nバスト＋ウエスト＋ヒップは\nいくつかわかる？\n"
+	},
+	{
+		"ID": 3848,
+		"unitID": 2201311,
+		"questionID": 9201348,
+		"script": "\n;;ゼブラ柄,2\n# se \"SE_0734\"\n# select \"ヒョウ柄\" \"select_label_1\" \"ゼブラ柄\" \"select_label_2\" \"ドット柄\" \"select_label_3\"\nレシェフの水着の柄は\n次のうちどれ？\n"
+	},
+	{
+		"ID": 3849,
+		"unitID": 2201311,
+		"questionID": 9201349,
+		"script": "\n;;79位,2\n# se \"SE_0734\"\n# select \"59位\" \"select_label_1\" \"79位\" \"select_label_2\" \"31位\" \"select_label_3\"\nレシェフは\n第２回人気投票で\n何位だったでしょう？\n"
+	},
+	{
+		"ID": 3850,
+		"unitID": 2201311,
+		"questionID": 9201350,
+		"script": "\n;;今井麻美,1\n# se \"SE_0734\"\n# select \"今井麻美\" \"select_label_1\" \"下田麻美\" \"select_label_2\" \"沼倉愛美\" \"select_label_3\"\nレシェフの声優は誰？\n"
+	}
+]

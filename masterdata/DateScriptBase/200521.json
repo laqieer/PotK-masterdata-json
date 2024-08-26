@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 200521,
+		"script": ";;A 顔出しちゃダメ　中\n;;B …なにしてるの?　大\n;;C それ押しちゃダメ　小\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_drive\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 0 0\n@\nマスターはミトゥムを誘って\nドライブにやってきた\n\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# voice 2005 \"mitwumu_0005\"\n@ミトゥム\nひゃ～～！！\n飛ばせ飛ばせ～～！！\nぶち抜いちまえ～～！！\n\n@ミトゥム\n……っしょ…っと！\n\n# select \"顔出しちゃダメ\" \"select_label_01\" \"…なにしてるの？\" \"select_label_02\" \"それ押しちゃダメ\" \"select_label_03\"\n……っしょ…っと！\n\n# label \"select_label_01\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_02\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_03\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_end\"\n# waitandnext 0.1\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

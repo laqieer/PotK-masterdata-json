@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 201014,
+		"script": ";;A そう訓練してるからね（小）\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_museum1\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n@ウコンバサラ\nそれはそうかもしれないけど\nちょっと期待しちゃったんだ\n\n# face %(unit_a)s \"sad\"\n@ウコンバサラ\nもし秘訣があるのなら、\nもっとキミと仲良くなれる方法が\nあるのかもって…\n\n# voice 2010 \"ukonbasara_0028\"\n@ウコンバサラ\nけど、そうだね\n息を合わせるには特訓か…\n\n# textflame 0 0\n@\n連携のための特訓メニューに想いを\n馳せるウコンバサラの横で、\nマスターは静かに冷や汗をかいた…\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

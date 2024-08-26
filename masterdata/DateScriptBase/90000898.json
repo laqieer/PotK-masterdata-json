@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 90000898,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# fadein \"black\" 0.5\n# textflame 1 1\n# body 196\n# pos 196 3\n# scale 196 0.8 0\n# mask 196 off\n# face 196 \"angry\"\n# voice 9943 \"almace_navikan_0022\"\n# se \"SE_0733\"\n@アルマス\nダメじゃない\nちゃんとお姉ちゃんのことを\n知ってあげないと\n\n# textflame 1 1\n@アルマス\nお姉ちゃんも\nマスターにもっと知ってほしいって\n思ってるはずよ\n\n# textflame 1 1\n@アルマス\n頑張って\n知ってあげてね\n\n# textflame 0 0\n@\nアルマスの言葉のとおり、\nもっと彼女のことを知っていこう\nそう心に誓うのだった\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

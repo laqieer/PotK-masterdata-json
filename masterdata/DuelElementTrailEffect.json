@@ -1,0 +1,212 @@
+[
+	{
+		"ID": 1,
+		"kind_GearKind": 1,
+		"element_CommonElement": 1,
+		"trail_effect_name": "",
+		"trail_color_r": 0,
+		"trail_color_g": 0,
+		"trail_color_b": 0,
+		"trail_color_a": 0
+	},
+	{
+		"ID": 2,
+		"kind_GearKind": 1,
+		"element_CommonElement": 2,
+		"trail_effect_name": "ef526_sword_fire_shake",
+		"trail_color_r": 255,
+		"trail_color_g": 255,
+		"trail_color_b": 50,
+		"trail_color_a": 255
+	},
+	{
+		"ID": 3,
+		"kind_GearKind": 1,
+		"element_CommonElement": 3,
+		"trail_effect_name": "ef526_sword_wind_shake",
+		"trail_color_r": 120,
+		"trail_color_g": 255,
+		"trail_color_b": 180,
+		"trail_color_a": 255
+	},
+	{
+		"ID": 4,
+		"kind_GearKind": 1,
+		"element_CommonElement": 4,
+		"trail_effect_name": "ef526_sword_thunder_shake",
+		"trail_color_r": 255,
+		"trail_color_g": 96,
+		"trail_color_b": 255,
+		"trail_color_a": 255
+	},
+	{
+		"ID": 5,
+		"kind_GearKind": 1,
+		"element_CommonElement": 5,
+		"trail_effect_name": "ef526_sword_ice_shake",
+		"trail_color_r": 255,
+		"trail_color_g": 255,
+		"trail_color_b": 35,
+		"trail_color_a": 255
+	},
+	{
+		"ID": 6,
+		"kind_GearKind": 1,
+		"element_CommonElement": 7,
+		"trail_effect_name": "ef526_sword_holy_shake",
+		"trail_color_r": 220,
+		"trail_color_g": 250,
+		"trail_color_b": 255,
+		"trail_color_a": 255
+	},
+	{
+		"ID": 7,
+		"kind_GearKind": 1,
+		"element_CommonElement": 8,
+		"trail_effect_name": "ef526_sword_dark_shake",
+		"trail_color_r": 255,
+		"trail_color_g": 15,
+		"trail_color_b": 28,
+		"trail_color_a": 255
+	},
+	{
+		"ID": 8,
+		"kind_GearKind": 2,
+		"element_CommonElement": 1,
+		"trail_effect_name": "",
+		"trail_color_r": 0,
+		"trail_color_g": 0,
+		"trail_color_b": 0,
+		"trail_color_a": 0
+	},
+	{
+		"ID": 9,
+		"kind_GearKind": 2,
+		"element_CommonElement": 2,
+		"trail_effect_name": "ef527_axe_fire_shake",
+		"trail_color_r": 255,
+		"trail_color_g": 255,
+		"trail_color_b": 50,
+		"trail_color_a": 255
+	},
+	{
+		"ID": 10,
+		"kind_GearKind": 2,
+		"element_CommonElement": 3,
+		"trail_effect_name": "ef527_axe_wind_shake",
+		"trail_color_r": 120,
+		"trail_color_g": 255,
+		"trail_color_b": 180,
+		"trail_color_a": 255
+	},
+	{
+		"ID": 11,
+		"kind_GearKind": 2,
+		"element_CommonElement": 4,
+		"trail_effect_name": "ef527_axe_thunder_shake",
+		"trail_color_r": 255,
+		"trail_color_g": 255,
+		"trail_color_b": 35,
+		"trail_color_a": 255
+	},
+	{
+		"ID": 12,
+		"kind_GearKind": 2,
+		"element_CommonElement": 5,
+		"trail_effect_name": "ef527_axe_ice_shake",
+		"trail_color_r": 20,
+		"trail_color_g": 100,
+		"trail_color_b": 255,
+		"trail_color_a": 255
+	},
+	{
+		"ID": 13,
+		"kind_GearKind": 2,
+		"element_CommonElement": 7,
+		"trail_effect_name": "ef527_axe_holy_shake",
+		"trail_color_r": 220,
+		"trail_color_g": 250,
+		"trail_color_b": 255,
+		"trail_color_a": 255
+	},
+	{
+		"ID": 14,
+		"kind_GearKind": 2,
+		"element_CommonElement": 8,
+		"trail_effect_name": "ef527_axe_dark_shake",
+		"trail_color_r": 255,
+		"trail_color_g": 15,
+		"trail_color_b": 28,
+		"trail_color_a": 255
+	},
+	{
+		"ID": 15,
+		"kind_GearKind": 3,
+		"element_CommonElement": 1,
+		"trail_effect_name": "",
+		"trail_color_r": 0,
+		"trail_color_g": 0,
+		"trail_color_b": 0,
+		"trail_color_a": 0
+	},
+	{
+		"ID": 16,
+		"kind_GearKind": 3,
+		"element_CommonElement": 2,
+		"trail_effect_name": "ef528_spear_fire_shake",
+		"trail_color_r": 255,
+		"trail_color_g": 255,
+		"trail_color_b": 50,
+		"trail_color_a": 255
+	},
+	{
+		"ID": 17,
+		"kind_GearKind": 3,
+		"element_CommonElement": 3,
+		"trail_effect_name": "ef528_spear_wind_shake",
+		"trail_color_r": 120,
+		"trail_color_g": 255,
+		"trail_color_b": 180,
+		"trail_color_a": 255
+	},
+	{
+		"ID": 18,
+		"kind_GearKind": 3,
+		"element_CommonElement": 4,
+		"trail_effect_name": "ef528_spear_thunder_shake",
+		"trail_color_r": 255,
+		"trail_color_g": 255,
+		"trail_color_b": 35,
+		"trail_color_a": 255
+	},
+	{
+		"ID": 19,
+		"kind_GearKind": 3,
+		"element_CommonElement": 5,
+		"trail_effect_name": "ef528_spear_ice_shake",
+		"trail_color_r": 20,
+		"trail_color_g": 100,
+		"trail_color_b": 255,
+		"trail_color_a": 255
+	},
+	{
+		"ID": 20,
+		"kind_GearKind": 3,
+		"element_CommonElement": 7,
+		"trail_effect_name": "ef528_spear_holy_shake",
+		"trail_color_r": 220,
+		"trail_color_g": 250,
+		"trail_color_b": 255,
+		"trail_color_a": 255
+	},
+	{
+		"ID": 21,
+		"kind_GearKind": 3,
+		"element_CommonElement": 8,
+		"trail_effect_name": "ef528_spear_dark_shake",
+		"trail_color_r": 255,
+		"trail_color_g": 15,
+		"trail_color_b": 28,
+		"trail_color_a": 255
+	}
+]

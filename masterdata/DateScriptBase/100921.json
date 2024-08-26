@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 100921,
+		"script": "# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_room\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 0 0\n@\nマスターは\nバルムンクの部屋に\n招かれていた\n\n# textflame 1 1\n@バルムンク\nマスターとお出かけするのは\nとっても楽しいんですけど…\n\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# voice 1009 \"barumunku_0004\"\n@バルムンク\nやっぱりここが…\n一番、私らしくいられるので…\n\n# select \"リラックスできる？\" \"select_label_01\" \"秘密にできる？\" \"select_label_02\" \"大胆になれる？\" \"select_label_03\"\nやっぱりここが…\n一番、私らしくいられるので…\n\n# textwindow \"close\"\n# label \"select_label_01\"\n# labeljump \"select_label_end\"\n# waitandnext 0.1\n\n# textwindow \"close\"\n# label \"select_label_02\"\n# labeljump \"select_label_end\"\n# waitandnext 0.1\n\n# textwindow \"close\"\n# label \"select_label_03\"\n# labeljump \"select_label_end\"\n# waitandnext 0.1\n\n# label \"select_label_end\"\n# waitandnext 2\n# fadeout \"black\" 1.2"
+	}
+]

@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 2300114,
+		"script": "# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_town_night\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n# voice 230012 \"ronginusu_k_0023\"\n@ロンギヌス\nマスターは\nこういうのお嫌いですか…？\n\n# textflame 0 0\n@\nロンギヌスの表情が\nしゅんとしたものに変わっていく\n\n# textflame 1 1\n@ロンギヌス\n私が興味があるものを\nマスターにも知って\nもらいたかったのですが…\n\n# voice 230012 \"ronginusu_k_0031\"\n@ロンギヌス\nそのあたりの線引きは\nきちんとしておくべきでしたね…\nすみません…\n\n# textflame 0 0\n@\nそれっきりロンギヌスは\n口をつぐんでしまう\n\n@\n彼女にかける言葉が見つからない\n軽い気持ちの発言が\n気まずい結果を招いてしまった…\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

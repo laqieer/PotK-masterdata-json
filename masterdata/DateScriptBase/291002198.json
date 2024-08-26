@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 291002198,
+		"script": ";;//不正解\n# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body 2100221\n# pos 2100221 3\n# mask 2100221 off\n# chara 2100221\n# fadein \"black\" 0.5\n# textflame 1 1\n# face 2100221 \"sad\"\n# se \"SE_0733\"\n# voice 210022 \"revatein_k_0017\"\n@レーヴァテイン\n…残念、はずれだよマスター\n\n@レーヴァテイン\nまあ、そうだよね…\n\n;;モノローグ\n# textflame 0 0\n@\nいつもと変わらない声色で\nそう呟く彼女\n\n;;モノローグ\n@\nしかし、普段より\nその動きが緩慢な気がした\n\n;;モノローグ\n@\nクイズの内容は、彼女のこと―\n\n;;モノローグ\n@\nもしかしたらレーヴァテインは、\n自分のことを知っていて\nほしかったのかもしれない\n\n;;モノローグ\n@\nそう思うと、\n申し訳なさが沸いてくる\n\n# face 2100221 \"usual\"\n# textflame 1 1\n@レーヴァテイン\nとりあえず\nさっさと帰ろうよ…\n私、もう疲れたし…\n\n;;モノローグ\n# textflame 0 0\n@\nそう言って\n背を向けるレーヴァテインの\n表情はどこか悲しげだった\n\n;;モノローグ\n@\nそんな顔を二度とさせないよう、\nもっと彼女のことを知っていこうと、\n心に誓った…\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

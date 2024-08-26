@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 503122,
+		"script": ";;大Cもし僕が勝ったら…\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_shipboard\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# voice 250311 \"solomon_t_0022\"\n# face %(unit_a)s \"normal\"\n@ソロモン\nえっ…？\nもし自分が勝ったら\n大事なことを伝えたい…？\n\n@ソロモン\nそれってその、\nいったいどういうこと？\n\n# voice 250311 \"solomon_t_0023\"\n@ソロモン\n勝つまで内緒だって？\nそ、そんなっ…\n\n@ソロモン\nあっ、次は私の手番ね、\nええと…？\n\n# voice 250311 \"solomon_t_0013\"\n# face %(unit_a)s \"angry\"\n@ソロモン\n…ち、違うっ！\n迷ってなんかない、\n勝つにはあの手しかないもの！\n\n# face %(unit_a)s \"sad\"\n@ソロモン\nでも…ううっ…！！\n\n# face %(unit_a)s \"angry\"\n@ソロモン\n…っ！？\nな、なにっ、\n今の衝撃…！？\n\n# voice 250311 \"solomon_t_0027\"\n# face %(unit_a)s \"usual\"\n@ソロモン\nああ、船が少し\n揺れただけね…よかった…\n\n# face %(unit_a)s \"angry\"\n@ソロモン\nって、ああっ！？\n今の揺れで盤面がっ！\n\n# voice 250311 \"solomon_t_0026\"\n# face %(unit_a)s \"normal\"\n@ソロモン\n…し、仕切り直しよ、マスター！\nさっきの勝負は無効で、\nまた最初から…\n\n@ソロモン\nその…今度こそ、\n貴方が勝ったら\n伝えてくれていいわ\n\n# voice 250311 \"solomon_t_0022\"\n@ソロモン\nえ？\n手加減はしないでね…って？\n\n@ソロモン\nも、もちろん！\n当たり前よ、マスター…！\n\n# textflame 0 0\n@\n結局、最後まで\nソロモンが負けることは\n一度もなく…\n\n@\n彼女の表情には、\nマスターの伝えたいことが\n聞けなかった残念さと、\n\n@\n安堵の気持ちが\n入り混じっていたのだった\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

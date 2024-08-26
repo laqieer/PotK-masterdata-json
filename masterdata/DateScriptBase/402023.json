@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 402023,
+		"script": ";;A\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_room\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# face %(unit_a)s \"angry\"\n# voice 540201 \"hyoha_c_0023\"\n# textflame 1 1\n@ヒョウハ\nうわああああっ！？\nちょ、ちょっと師匠！？\n\n# face %(unit_a)s \"surprise\"\n# voice 540201 \"hyoha_c_0008\"\n@ヒョウハ\nあっ、その…嫌じゃないけど\n驚いたって言うか…\n\n# face %(unit_a)s \"smile\"\n# voice 540201 \"hyoha_c_0003\"\n@ヒョウハ\n…そのままでいい\n\n# face %(unit_a)s \"surprise\"\n# voice 540201 \"hyoha_c_0028\"\n@ヒョウハ\nうう…そうは言っても\n頭が爆発しちまいそう\n\n@ヒョウハ\nなんか、いつもと\n違うからか\n落ち着かないな…\n\n@ヒョウハ\nけど、ずっと一緒なのは\nこれからもかわらないからな\n\n# voice 540201 \"hyoha_c_0002\"\n@ヒョウハ\nえっとさ…\n何か話してくれよ\n\n@ヒョウハ\n話したいことはいっぱいある\nはずなのに、今は\nなかなか出てこないんだ\n\n@ヒョウハ\nそれにほら、\nいつもはあたしが\n師匠を引っ張ってくからさ\n\n@ヒョウハ\nたまには師匠があたしを\n引っ張ってくれても\nいいだろ？\n\n# textflame 0 0\n@\n照れ隠しをするヒョウハを\n笑いながら見つめるマスター\n\n@\n暖かい雰囲気の中、\n夜が更けていった…\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

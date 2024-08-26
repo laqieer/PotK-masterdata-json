@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 40045201,
+		"script": ";;途中までは、今までのエロースの衣装で\n# script \"lisp\"\n# background \"lake\"\n# bgm \"bgm002\" 0\n# body 400441\n# mask 400441 off\n# pos 400441 3\n# body 400451\n# mask 400451 off\n# pos 400451 3\n# alpha 400451 0 0\n# textflame 0 0\n@\n今日は戦闘の合間の休日\n\n# textflame 1 1\n# textboxarrow 0 2\n# chara 400411\n# voice 4004 \"erosu_0001\"\n# face 400441 \"normal\"\n@エロース\nねぇ、マスター\nそろそろ夏でしょ？\n\n# chara 400411\n# voice 4004 \"erosu_0004\"\n# face 400441 \"happy\"\n@エロース\nということでエロース、\n水中用の装備を調達してきましたぁ\n見てもらえますかぁ？\n\n# textflame 0 0\n@\n…と、言われたマスターは、\n彼女の部屋へと向かっていた\n\n@\n確かに一般人の前で\n武器を出すのは危険だし…\n\n@\nそれに防具がしっかりした\n装備があると安心だしな…\n\n@\nなどと思っていたマスターが、\n彼女の部屋に入って、\n目にしたものは…\n\n;;ここから水着エロースで\n# textflame 1 1\n# alpha 400441 0 0.8\n# alpha 400451 1 0.8\n# chara 400451\n# voice 4004 \"erosu_0020\"\n# face 400451 \"happy\"\n@エロース\nはぁい♪\nどうですか、マスター？\nエロースのニュー装備は？\n\n# textflame 0 0\n@\n！！\n\n@\nそれは、普段よりも際どい\n黒のセクシービキニだった\n\n# textflame 1 1\n# chara 400451\n@エロース\nいいでしょぉ、これ？\nこのニュー装備で、\n夏を乗り切っちゃいますよぉ！\n\n# textflame 0 0\n@\n装備が整って安心かと思いきや…\n前より危険度増してるじゃないの！\n\n# textflame 1 1\n# chara 400451\n# face 400451 \"surprise\"\n@エロース\nあら？どうなさったの？\n\n# textflame 0 0\n@\nツッコまざるを得ない\nマスターだった"
+	}
+]

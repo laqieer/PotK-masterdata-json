@@ -1,0 +1,974 @@
+[
+	{
+		"ID": 1,
+		"victory_value": 1,
+		"reward_type": "バトルメダル",
+		"reward_id": 0,
+		"reward_value": 20,
+		"reward_title": "ファンキルメダル×20枚",
+		"reward_description": "コロシアム初勝利の報酬です。"
+	},
+	{
+		"ID": 2,
+		"victory_value": 5,
+		"reward_type": "バトルメダル",
+		"reward_id": 0,
+		"reward_value": 20,
+		"reward_title": "ファンキルメダル×20枚",
+		"reward_description": "コロシアム通算5勝の報酬です。"
+	},
+	{
+		"ID": 3,
+		"victory_value": 10,
+		"reward_type": "バトルメダル",
+		"reward_id": 0,
+		"reward_value": 20,
+		"reward_title": "ファンキルメダル×20枚",
+		"reward_description": "コロシアム通算10勝の報酬です。"
+	},
+	{
+		"ID": 4,
+		"victory_value": 20,
+		"reward_type": "バトルメダル",
+		"reward_id": 0,
+		"reward_value": 20,
+		"reward_title": "ファンキルメダル×20枚",
+		"reward_description": "コロシアム通算20勝の報酬です。"
+	},
+	{
+		"ID": 5,
+		"victory_value": 30,
+		"reward_type": "バトルメダル",
+		"reward_id": 0,
+		"reward_value": 20,
+		"reward_title": "ファンキルメダル×20枚",
+		"reward_description": "コロシアム通算30勝の報酬です。"
+	},
+	{
+		"ID": 6,
+		"victory_value": 50,
+		"reward_type": "バトルメダル",
+		"reward_id": 0,
+		"reward_value": 20,
+		"reward_title": "ファンキルメダル×20枚",
+		"reward_description": "コロシアム通算50勝の報酬です。"
+	},
+	{
+		"ID": 7,
+		"victory_value": 77,
+		"reward_type": "バトルメダル",
+		"reward_id": 0,
+		"reward_value": 140,
+		"reward_title": "ファンキルメダル×140枚",
+		"reward_description": "コロシアム通算77勝の報酬です。"
+	},
+	{
+		"ID": 8,
+		"victory_value": 100,
+		"reward_type": "バトルメダル",
+		"reward_id": 0,
+		"reward_value": 40,
+		"reward_title": "ファンキルメダル×40枚",
+		"reward_description": "コロシアム通算100勝の報酬です。"
+	},
+	{
+		"ID": 9,
+		"victory_value": 150,
+		"reward_type": "バトルメダル",
+		"reward_id": 0,
+		"reward_value": 20,
+		"reward_title": "ファンキルメダル×20枚",
+		"reward_description": "コロシアム通算150勝の報酬です。"
+	},
+	{
+		"ID": 10,
+		"victory_value": 200,
+		"reward_type": "バトルメダル",
+		"reward_id": 0,
+		"reward_value": 20,
+		"reward_title": "ファンキルメダル×20枚",
+		"reward_description": "コロシアム通算200勝の報酬です。"
+	},
+	{
+		"ID": 11,
+		"victory_value": 250,
+		"reward_type": "バトルメダル",
+		"reward_id": 0,
+		"reward_value": 20,
+		"reward_title": "ファンキルメダル×20枚",
+		"reward_description": "コロシアム通算250勝の報酬です。"
+	},
+	{
+		"ID": 12,
+		"victory_value": 300,
+		"reward_type": "バトルメダル",
+		"reward_id": 0,
+		"reward_value": 20,
+		"reward_title": "ファンキルメダル×20枚",
+		"reward_description": "コロシアム通算300勝の報酬です。"
+	},
+	{
+		"ID": 13,
+		"victory_value": 350,
+		"reward_type": "バトルメダル",
+		"reward_id": 0,
+		"reward_value": 20,
+		"reward_title": "ファンキルメダル×20枚",
+		"reward_description": "コロシアム通算350勝の報酬です。"
+	},
+	{
+		"ID": 14,
+		"victory_value": 400,
+		"reward_type": "バトルメダル",
+		"reward_id": 0,
+		"reward_value": 20,
+		"reward_title": "ファンキルメダル×20枚",
+		"reward_description": "コロシアム通算400勝の報酬です。"
+	},
+	{
+		"ID": 15,
+		"victory_value": 450,
+		"reward_type": "バトルメダル",
+		"reward_id": 0,
+		"reward_value": 20,
+		"reward_title": "ファンキルメダル×20枚",
+		"reward_description": "コロシアム通算450勝の報酬です。"
+	},
+	{
+		"ID": 16,
+		"victory_value": 500,
+		"reward_type": "バトルメダル",
+		"reward_id": 0,
+		"reward_value": 20,
+		"reward_title": "ファンキルメダル×20枚",
+		"reward_description": "コロシアム通算500勝の報酬です。"
+	},
+	{
+		"ID": 17,
+		"victory_value": 550,
+		"reward_type": "バトルメダル",
+		"reward_id": 0,
+		"reward_value": 20,
+		"reward_title": "ファンキルメダル×20枚",
+		"reward_description": "コロシアム通算550勝の報酬です。"
+	},
+	{
+		"ID": 18,
+		"victory_value": 600,
+		"reward_type": "バトルメダル",
+		"reward_id": 0,
+		"reward_value": 20,
+		"reward_title": "ファンキルメダル×20枚",
+		"reward_description": "コロシアム通算600勝の報酬です。"
+	},
+	{
+		"ID": 19,
+		"victory_value": 650,
+		"reward_type": "バトルメダル",
+		"reward_id": 0,
+		"reward_value": 20,
+		"reward_title": "ファンキルメダル×20枚",
+		"reward_description": "コロシアム通算650勝の報酬です。"
+	},
+	{
+		"ID": 20,
+		"victory_value": 700,
+		"reward_type": "バトルメダル",
+		"reward_id": 0,
+		"reward_value": 20,
+		"reward_title": "ファンキルメダル×20枚",
+		"reward_description": "コロシアム通算700勝の報酬です。"
+	},
+	{
+		"ID": 21,
+		"victory_value": 750,
+		"reward_type": "バトルメダル",
+		"reward_id": 0,
+		"reward_value": 20,
+		"reward_title": "ファンキルメダル×20枚",
+		"reward_description": "コロシアム通算750勝の報酬です。"
+	},
+	{
+		"ID": 22,
+		"victory_value": 777,
+		"reward_type": "バトルメダル",
+		"reward_id": 0,
+		"reward_value": 140,
+		"reward_title": "ファンキルメダル×140枚",
+		"reward_description": "コロシアム通算777勝の報酬です。"
+	},
+	{
+		"ID": 23,
+		"victory_value": 800,
+		"reward_type": "バトルメダル",
+		"reward_id": 0,
+		"reward_value": 20,
+		"reward_title": "ファンキルメダル×20枚",
+		"reward_description": "コロシアム通算800勝の報酬です。"
+	},
+	{
+		"ID": 24,
+		"victory_value": 850,
+		"reward_type": "バトルメダル",
+		"reward_id": 0,
+		"reward_value": 20,
+		"reward_title": "ファンキルメダル×20枚",
+		"reward_description": "コロシアム通算850勝の報酬です。"
+	},
+	{
+		"ID": 25,
+		"victory_value": 900,
+		"reward_type": "バトルメダル",
+		"reward_id": 0,
+		"reward_value": 20,
+		"reward_title": "ファンキルメダル×20枚",
+		"reward_description": "コロシアム通算900勝の報酬です。"
+	},
+	{
+		"ID": 26,
+		"victory_value": 950,
+		"reward_type": "バトルメダル",
+		"reward_id": 0,
+		"reward_value": 20,
+		"reward_title": "ファンキルメダル×20枚",
+		"reward_description": "コロシアム通算950勝の報酬です。"
+	},
+	{
+		"ID": 27,
+		"victory_value": 1000,
+		"reward_type": "バトルメダル",
+		"reward_id": 0,
+		"reward_value": 40,
+		"reward_title": "ファンキルメダル×40枚",
+		"reward_description": "コロシアム通算1000勝の報酬です。"
+	},
+	{
+		"ID": 28,
+		"victory_value": 1100,
+		"reward_type": "バトルメダル",
+		"reward_id": 0,
+		"reward_value": 80,
+		"reward_title": "ファンキルメダル×80枚",
+		"reward_description": "コロシアム通算1100勝の報酬です。"
+	},
+	{
+		"ID": 29,
+		"victory_value": 1200,
+		"reward_type": "バトルメダル",
+		"reward_id": 0,
+		"reward_value": 80,
+		"reward_title": "ファンキルメダル×80枚",
+		"reward_description": "コロシアム通算1200勝の報酬です。"
+	},
+	{
+		"ID": 30,
+		"victory_value": 1300,
+		"reward_type": "バトルメダル",
+		"reward_id": 0,
+		"reward_value": 80,
+		"reward_title": "ファンキルメダル×80枚",
+		"reward_description": "コロシアム通算1300勝の報酬です。"
+	},
+	{
+		"ID": 31,
+		"victory_value": 1400,
+		"reward_type": "バトルメダル",
+		"reward_id": 0,
+		"reward_value": 80,
+		"reward_title": "ファンキルメダル×80枚",
+		"reward_description": "コロシアム通算1400勝の報酬です。"
+	},
+	{
+		"ID": 32,
+		"victory_value": 1500,
+		"reward_type": "バトルメダル",
+		"reward_id": 0,
+		"reward_value": 80,
+		"reward_title": "ファンキルメダル×80枚",
+		"reward_description": "コロシアム通算1500勝の報酬です。"
+	},
+	{
+		"ID": 33,
+		"victory_value": 1600,
+		"reward_type": "バトルメダル",
+		"reward_id": 0,
+		"reward_value": 80,
+		"reward_title": "ファンキルメダル×80枚",
+		"reward_description": "コロシアム通算1600勝の報酬です。"
+	},
+	{
+		"ID": 34,
+		"victory_value": 1700,
+		"reward_type": "バトルメダル",
+		"reward_id": 0,
+		"reward_value": 80,
+		"reward_title": "ファンキルメダル×80枚",
+		"reward_description": "コロシアム通算1700勝の報酬です。"
+	},
+	{
+		"ID": 35,
+		"victory_value": 1800,
+		"reward_type": "バトルメダル",
+		"reward_id": 0,
+		"reward_value": 80,
+		"reward_title": "ファンキルメダル×80枚",
+		"reward_description": "コロシアム通算1800勝の報酬です。"
+	},
+	{
+		"ID": 36,
+		"victory_value": 1900,
+		"reward_type": "バトルメダル",
+		"reward_id": 0,
+		"reward_value": 80,
+		"reward_title": "ファンキルメダル×80枚",
+		"reward_description": "コロシアム通算1900勝の報酬です。"
+	},
+	{
+		"ID": 37,
+		"victory_value": 2000,
+		"reward_type": "バトルメダル",
+		"reward_id": 0,
+		"reward_value": 160,
+		"reward_title": "ファンキルメダル×160枚",
+		"reward_description": "コロシアム通算2000勝の報酬です。"
+	},
+	{
+		"ID": 38,
+		"victory_value": 2100,
+		"reward_type": "バトルメダル",
+		"reward_id": 0,
+		"reward_value": 120,
+		"reward_title": "ファンキルメダル×120枚",
+		"reward_description": "コロシアム通算2100勝の報酬です。"
+	},
+	{
+		"ID": 39,
+		"victory_value": 2200,
+		"reward_type": "バトルメダル",
+		"reward_id": 0,
+		"reward_value": 120,
+		"reward_title": "ファンキルメダル×120枚",
+		"reward_description": "コロシアム通算2200勝の報酬です。"
+	},
+	{
+		"ID": 40,
+		"victory_value": 2300,
+		"reward_type": "バトルメダル",
+		"reward_id": 0,
+		"reward_value": 120,
+		"reward_title": "ファンキルメダル×120枚",
+		"reward_description": "コロシアム通算2300勝の報酬です。"
+	},
+	{
+		"ID": 41,
+		"victory_value": 2400,
+		"reward_type": "バトルメダル",
+		"reward_id": 0,
+		"reward_value": 120,
+		"reward_title": "ファンキルメダル×120枚",
+		"reward_description": "コロシアム通算2400勝の報酬です。"
+	},
+	{
+		"ID": 42,
+		"victory_value": 2500,
+		"reward_type": "バトルメダル",
+		"reward_id": 0,
+		"reward_value": 120,
+		"reward_title": "ファンキルメダル×120枚",
+		"reward_description": "コロシアム通算2500勝の報酬です。"
+	},
+	{
+		"ID": 43,
+		"victory_value": 2600,
+		"reward_type": "バトルメダル",
+		"reward_id": 0,
+		"reward_value": 120,
+		"reward_title": "ファンキルメダル×120枚",
+		"reward_description": "コロシアム通算2600勝の報酬です。"
+	},
+	{
+		"ID": 44,
+		"victory_value": 2700,
+		"reward_type": "バトルメダル",
+		"reward_id": 0,
+		"reward_value": 120,
+		"reward_title": "ファンキルメダル×120枚",
+		"reward_description": "コロシアム通算2700勝の報酬です。"
+	},
+	{
+		"ID": 45,
+		"victory_value": 2800,
+		"reward_type": "バトルメダル",
+		"reward_id": 0,
+		"reward_value": 120,
+		"reward_title": "ファンキルメダル×120枚",
+		"reward_description": "コロシアム通算2800勝の報酬です。"
+	},
+	{
+		"ID": 46,
+		"victory_value": 2900,
+		"reward_type": "バトルメダル",
+		"reward_id": 0,
+		"reward_value": 120,
+		"reward_title": "ファンキルメダル×120枚",
+		"reward_description": "コロシアム通算2900勝の報酬です。"
+	},
+	{
+		"ID": 47,
+		"victory_value": 3000,
+		"reward_type": "バトルメダル",
+		"reward_id": 0,
+		"reward_value": 240,
+		"reward_title": "ファンキルメダル×240枚",
+		"reward_description": "コロシアム通算3000勝の報酬です。"
+	},
+	{
+		"ID": 48,
+		"victory_value": 3100,
+		"reward_type": "バトルメダル",
+		"reward_id": 0,
+		"reward_value": 160,
+		"reward_title": "ファンキルメダル×160枚",
+		"reward_description": "コロシアム通算3100勝の報酬です。"
+	},
+	{
+		"ID": 49,
+		"victory_value": 3200,
+		"reward_type": "バトルメダル",
+		"reward_id": 0,
+		"reward_value": 160,
+		"reward_title": "ファンキルメダル×160枚",
+		"reward_description": "コロシアム通算3200勝の報酬です。"
+	},
+	{
+		"ID": 50,
+		"victory_value": 3300,
+		"reward_type": "バトルメダル",
+		"reward_id": 0,
+		"reward_value": 160,
+		"reward_title": "ファンキルメダル×160枚",
+		"reward_description": "コロシアム通算3300勝の報酬です。"
+	},
+	{
+		"ID": 51,
+		"victory_value": 3400,
+		"reward_type": "バトルメダル",
+		"reward_id": 0,
+		"reward_value": 160,
+		"reward_title": "ファンキルメダル×160枚",
+		"reward_description": "コロシアム通算3400勝の報酬です。"
+	},
+	{
+		"ID": 52,
+		"victory_value": 3500,
+		"reward_type": "バトルメダル",
+		"reward_id": 0,
+		"reward_value": 160,
+		"reward_title": "ファンキルメダル×160枚",
+		"reward_description": "コロシアム通算3500勝の報酬です。"
+	},
+	{
+		"ID": 53,
+		"victory_value": 3600,
+		"reward_type": "バトルメダル",
+		"reward_id": 0,
+		"reward_value": 160,
+		"reward_title": "ファンキルメダル×160枚",
+		"reward_description": "コロシアム通算3600勝の報酬です。"
+	},
+	{
+		"ID": 54,
+		"victory_value": 3700,
+		"reward_type": "バトルメダル",
+		"reward_id": 0,
+		"reward_value": 160,
+		"reward_title": "ファンキルメダル×160枚",
+		"reward_description": "コロシアム通算3700勝の報酬です。"
+	},
+	{
+		"ID": 55,
+		"victory_value": 3800,
+		"reward_type": "バトルメダル",
+		"reward_id": 0,
+		"reward_value": 160,
+		"reward_title": "ファンキルメダル×160枚",
+		"reward_description": "コロシアム通算3800勝の報酬です。"
+	},
+	{
+		"ID": 56,
+		"victory_value": 3900,
+		"reward_type": "バトルメダル",
+		"reward_id": 0,
+		"reward_value": 160,
+		"reward_title": "ファンキルメダル×160枚",
+		"reward_description": "コロシアム通算3900勝の報酬です。"
+	},
+	{
+		"ID": 57,
+		"victory_value": 4000,
+		"reward_type": "バトルメダル",
+		"reward_id": 0,
+		"reward_value": 320,
+		"reward_title": "ファンキルメダル×320枚",
+		"reward_description": "コロシアム通算4000勝の報酬です。"
+	},
+	{
+		"ID": 58,
+		"victory_value": 4100,
+		"reward_type": "バトルメダル",
+		"reward_id": 0,
+		"reward_value": 200,
+		"reward_title": "ファンキルメダル×200枚",
+		"reward_description": "コロシアム通算4100勝の報酬です。"
+	},
+	{
+		"ID": 59,
+		"victory_value": 4200,
+		"reward_type": "バトルメダル",
+		"reward_id": 0,
+		"reward_value": 200,
+		"reward_title": "ファンキルメダル×200枚",
+		"reward_description": "コロシアム通算4200勝の報酬です。"
+	},
+	{
+		"ID": 60,
+		"victory_value": 4300,
+		"reward_type": "バトルメダル",
+		"reward_id": 0,
+		"reward_value": 200,
+		"reward_title": "ファンキルメダル×200枚",
+		"reward_description": "コロシアム通算4300勝の報酬です。"
+	},
+	{
+		"ID": 61,
+		"victory_value": 4400,
+		"reward_type": "バトルメダル",
+		"reward_id": 0,
+		"reward_value": 200,
+		"reward_title": "ファンキルメダル×200枚",
+		"reward_description": "コロシアム通算4400勝の報酬です。"
+	},
+	{
+		"ID": 62,
+		"victory_value": 4500,
+		"reward_type": "バトルメダル",
+		"reward_id": 0,
+		"reward_value": 200,
+		"reward_title": "ファンキルメダル×200枚",
+		"reward_description": "コロシアム通算4500勝の報酬です。"
+	},
+	{
+		"ID": 63,
+		"victory_value": 4600,
+		"reward_type": "バトルメダル",
+		"reward_id": 0,
+		"reward_value": 200,
+		"reward_title": "ファンキルメダル×200枚",
+		"reward_description": "コロシアム通算4600勝の報酬です。"
+	},
+	{
+		"ID": 64,
+		"victory_value": 4700,
+		"reward_type": "バトルメダル",
+		"reward_id": 0,
+		"reward_value": 200,
+		"reward_title": "ファンキルメダル×200枚",
+		"reward_description": "コロシアム通算4700勝の報酬です。"
+	},
+	{
+		"ID": 65,
+		"victory_value": 4800,
+		"reward_type": "バトルメダル",
+		"reward_id": 0,
+		"reward_value": 200,
+		"reward_title": "ファンキルメダル×200枚",
+		"reward_description": "コロシアム通算4800勝の報酬です。"
+	},
+	{
+		"ID": 66,
+		"victory_value": 4900,
+		"reward_type": "バトルメダル",
+		"reward_id": 0,
+		"reward_value": 200,
+		"reward_title": "ファンキルメダル×200枚",
+		"reward_description": "コロシアム通算4900勝の報酬です。"
+	},
+	{
+		"ID": 67,
+		"victory_value": 5000,
+		"reward_type": "バトルメダル",
+		"reward_id": 0,
+		"reward_value": 400,
+		"reward_title": "ファンキルメダル×400枚",
+		"reward_description": "コロシアム通算5000勝の報酬です。"
+	},
+	{
+		"ID": 68,
+		"victory_value": 5100,
+		"reward_type": "バトルメダル",
+		"reward_id": 0,
+		"reward_value": 200,
+		"reward_title": "ファンキルメダル×200枚",
+		"reward_description": "コロシアム通算5100勝の報酬です。"
+	},
+	{
+		"ID": 69,
+		"victory_value": 5200,
+		"reward_type": "バトルメダル",
+		"reward_id": 0,
+		"reward_value": 200,
+		"reward_title": "ファンキルメダル×200枚",
+		"reward_description": "コロシアム通算5200勝の報酬です。"
+	},
+	{
+		"ID": 70,
+		"victory_value": 5300,
+		"reward_type": "バトルメダル",
+		"reward_id": 0,
+		"reward_value": 200,
+		"reward_title": "ファンキルメダル×200枚",
+		"reward_description": "コロシアム通算5300勝の報酬です。"
+	},
+	{
+		"ID": 71,
+		"victory_value": 5400,
+		"reward_type": "バトルメダル",
+		"reward_id": 0,
+		"reward_value": 200,
+		"reward_title": "ファンキルメダル×200枚",
+		"reward_description": "コロシアム通算5400勝の報酬です。"
+	},
+	{
+		"ID": 72,
+		"victory_value": 5500,
+		"reward_type": "バトルメダル",
+		"reward_id": 0,
+		"reward_value": 200,
+		"reward_title": "ファンキルメダル×200枚",
+		"reward_description": "コロシアム通算5500勝の報酬です。"
+	},
+	{
+		"ID": 73,
+		"victory_value": 5600,
+		"reward_type": "バトルメダル",
+		"reward_id": 0,
+		"reward_value": 200,
+		"reward_title": "ファンキルメダル×200枚",
+		"reward_description": "コロシアム通算5600勝の報酬です。"
+	},
+	{
+		"ID": 74,
+		"victory_value": 5700,
+		"reward_type": "バトルメダル",
+		"reward_id": 0,
+		"reward_value": 200,
+		"reward_title": "ファンキルメダル×200枚",
+		"reward_description": "コロシアム通算5700勝の報酬です。"
+	},
+	{
+		"ID": 75,
+		"victory_value": 5800,
+		"reward_type": "バトルメダル",
+		"reward_id": 0,
+		"reward_value": 200,
+		"reward_title": "ファンキルメダル×200枚",
+		"reward_description": "コロシアム通算5800勝の報酬です。"
+	},
+	{
+		"ID": 76,
+		"victory_value": 5900,
+		"reward_type": "バトルメダル",
+		"reward_id": 0,
+		"reward_value": 200,
+		"reward_title": "ファンキルメダル×200枚",
+		"reward_description": "コロシアム通算5900勝の報酬です。"
+	},
+	{
+		"ID": 77,
+		"victory_value": 6000,
+		"reward_type": "バトルメダル",
+		"reward_id": 0,
+		"reward_value": 200,
+		"reward_title": "ファンキルメダル×200枚",
+		"reward_description": "コロシアム通算6000勝の報酬です。"
+	},
+	{
+		"ID": 78,
+		"victory_value": 6100,
+		"reward_type": "バトルメダル",
+		"reward_id": 0,
+		"reward_value": 200,
+		"reward_title": "ファンキルメダル×200枚",
+		"reward_description": "コロシアム通算6100勝の報酬です。"
+	},
+	{
+		"ID": 79,
+		"victory_value": 6200,
+		"reward_type": "バトルメダル",
+		"reward_id": 0,
+		"reward_value": 200,
+		"reward_title": "ファンキルメダル×200枚",
+		"reward_description": "コロシアム通算6200勝の報酬です。"
+	},
+	{
+		"ID": 80,
+		"victory_value": 6300,
+		"reward_type": "バトルメダル",
+		"reward_id": 0,
+		"reward_value": 200,
+		"reward_title": "ファンキルメダル×200枚",
+		"reward_description": "コロシアム通算6300勝の報酬です。"
+	},
+	{
+		"ID": 81,
+		"victory_value": 6400,
+		"reward_type": "バトルメダル",
+		"reward_id": 0,
+		"reward_value": 200,
+		"reward_title": "ファンキルメダル×200枚",
+		"reward_description": "コロシアム通算6400勝の報酬です。"
+	},
+	{
+		"ID": 82,
+		"victory_value": 6500,
+		"reward_type": "バトルメダル",
+		"reward_id": 0,
+		"reward_value": 200,
+		"reward_title": "ファンキルメダル×200枚",
+		"reward_description": "コロシアム通算6500勝の報酬です。"
+	},
+	{
+		"ID": 83,
+		"victory_value": 6600,
+		"reward_type": "バトルメダル",
+		"reward_id": 0,
+		"reward_value": 200,
+		"reward_title": "ファンキルメダル×200枚",
+		"reward_description": "コロシアム通算6600勝の報酬です。"
+	},
+	{
+		"ID": 84,
+		"victory_value": 6700,
+		"reward_type": "バトルメダル",
+		"reward_id": 0,
+		"reward_value": 200,
+		"reward_title": "ファンキルメダル×200枚",
+		"reward_description": "コロシアム通算6700勝の報酬です。"
+	},
+	{
+		"ID": 85,
+		"victory_value": 6800,
+		"reward_type": "バトルメダル",
+		"reward_id": 0,
+		"reward_value": 200,
+		"reward_title": "ファンキルメダル×200枚",
+		"reward_description": "コロシアム通算6800勝の報酬です。"
+	},
+	{
+		"ID": 86,
+		"victory_value": 6900,
+		"reward_type": "バトルメダル",
+		"reward_id": 0,
+		"reward_value": 200,
+		"reward_title": "ファンキルメダル×200枚",
+		"reward_description": "コロシアム通算6900勝の報酬です。"
+	},
+	{
+		"ID": 87,
+		"victory_value": 7000,
+		"reward_type": "バトルメダル",
+		"reward_id": 0,
+		"reward_value": 200,
+		"reward_title": "ファンキルメダル×200枚",
+		"reward_description": "コロシアム通算7000勝の報酬です。"
+	},
+	{
+		"ID": 88,
+		"victory_value": 7100,
+		"reward_type": "バトルメダル",
+		"reward_id": 0,
+		"reward_value": 200,
+		"reward_title": "ファンキルメダル×200枚",
+		"reward_description": "コロシアム通算7100勝の報酬です。"
+	},
+	{
+		"ID": 89,
+		"victory_value": 7200,
+		"reward_type": "バトルメダル",
+		"reward_id": 0,
+		"reward_value": 200,
+		"reward_title": "ファンキルメダル×200枚",
+		"reward_description": "コロシアム通算7200勝の報酬です。"
+	},
+	{
+		"ID": 90,
+		"victory_value": 7300,
+		"reward_type": "バトルメダル",
+		"reward_id": 0,
+		"reward_value": 200,
+		"reward_title": "ファンキルメダル×200枚",
+		"reward_description": "コロシアム通算7300勝の報酬です。"
+	},
+	{
+		"ID": 91,
+		"victory_value": 7400,
+		"reward_type": "バトルメダル",
+		"reward_id": 0,
+		"reward_value": 200,
+		"reward_title": "ファンキルメダル×200枚",
+		"reward_description": "コロシアム通算7400勝の報酬です。"
+	},
+	{
+		"ID": 92,
+		"victory_value": 7500,
+		"reward_type": "バトルメダル",
+		"reward_id": 0,
+		"reward_value": 200,
+		"reward_title": "ファンキルメダル×200枚",
+		"reward_description": "コロシアム通算7500勝の報酬です。"
+	},
+	{
+		"ID": 93,
+		"victory_value": 7600,
+		"reward_type": "バトルメダル",
+		"reward_id": 0,
+		"reward_value": 200,
+		"reward_title": "ファンキルメダル×200枚",
+		"reward_description": "コロシアム通算7600勝の報酬です。"
+	},
+	{
+		"ID": 94,
+		"victory_value": 7700,
+		"reward_type": "バトルメダル",
+		"reward_id": 0,
+		"reward_value": 200,
+		"reward_title": "ファンキルメダル×200枚",
+		"reward_description": "コロシアム通算7700勝の報酬です。"
+	},
+	{
+		"ID": 95,
+		"victory_value": 7777,
+		"reward_type": "バトルメダル",
+		"reward_id": 0,
+		"reward_value": 140,
+		"reward_title": "ファンキルメダル×140枚",
+		"reward_description": "コロシアム通算7777勝の報酬です。"
+	},
+	{
+		"ID": 96,
+		"victory_value": 8888,
+		"reward_type": "バトルメダル",
+		"reward_id": 0,
+		"reward_value": 1760,
+		"reward_title": "ファンキルメダル×1760枚",
+		"reward_description": "コロシアム通算8888勝の報酬です。"
+	},
+	{
+		"ID": 97,
+		"victory_value": 9999,
+		"reward_type": "バトルメダル",
+		"reward_id": 0,
+		"reward_value": 1980,
+		"reward_title": "ファンキルメダル×1980枚",
+		"reward_description": "コロシアム通算9999勝の報酬です。"
+	},
+	{
+		"ID": 98,
+		"victory_value": 10000,
+		"reward_type": "バトルメダル",
+		"reward_id": 0,
+		"reward_value": 2000,
+		"reward_title": "ファンキルメダル×2000枚",
+		"reward_description": "コロシアム通算10000勝の報酬です。"
+	},
+	{
+		"ID": 99,
+		"victory_value": 11111,
+		"reward_type": "バトルメダル",
+		"reward_id": 0,
+		"reward_value": 2220,
+		"reward_title": "ファンキルメダル×2220枚",
+		"reward_description": "コロシアム通算11111勝の報酬です。"
+	},
+	{
+		"ID": 100,
+		"victory_value": 20000,
+		"reward_type": "バトルメダル",
+		"reward_id": 0,
+		"reward_value": 3000,
+		"reward_title": "ファンキルメダル×3000枚",
+		"reward_description": "コロシアム通算20000勝の報酬です。"
+	},
+	{
+		"ID": 101,
+		"victory_value": 22222,
+		"reward_type": "バトルメダル",
+		"reward_id": 0,
+		"reward_value": 3500,
+		"reward_title": "ファンキルメダル×3500枚",
+		"reward_description": "コロシアム通算22222勝の報酬です。"
+	},
+	{
+		"ID": 102,
+		"victory_value": 30000,
+		"reward_type": "バトルメダル",
+		"reward_id": 0,
+		"reward_value": 4000,
+		"reward_title": "ファンキルメダル×4000枚",
+		"reward_description": "コロシアム通算30000勝の報酬です。"
+	},
+	{
+		"ID": 103,
+		"victory_value": 33333,
+		"reward_type": "バトルメダル",
+		"reward_id": 0,
+		"reward_value": 4500,
+		"reward_title": "ファンキルメダル×4500枚",
+		"reward_description": "コロシアム通算33333勝の報酬です。"
+	},
+	{
+		"ID": 104,
+		"victory_value": 40000,
+		"reward_type": "バトルメダル",
+		"reward_id": 0,
+		"reward_value": 5000,
+		"reward_title": "ファンキルメダル×5000枚",
+		"reward_description": "コロシアム通算40000勝の報酬です。"
+	},
+	{
+		"ID": 105,
+		"victory_value": 44444,
+		"reward_type": "バトルメダル",
+		"reward_id": 0,
+		"reward_value": 5500,
+		"reward_title": "ファンキルメダル×5500枚",
+		"reward_description": "コロシアム通算44444勝の報酬です。"
+	},
+	{
+		"ID": 106,
+		"victory_value": 50000,
+		"reward_type": "バトルメダル",
+		"reward_id": 0,
+		"reward_value": 7000,
+		"reward_title": "ファンキルメダル×7000枚",
+		"reward_description": "コロシアム通算50000勝の報酬です。"
+	},
+	{
+		"ID": 107,
+		"victory_value": 60000,
+		"reward_type": "バトルメダル",
+		"reward_id": 0,
+		"reward_value": 8500,
+		"reward_title": "ファンキルメダル×8500枚",
+		"reward_description": "コロシアム通算60000勝の報酬です。"
+	},
+	{
+		"ID": 108,
+		"victory_value": 66666,
+		"reward_type": "バトルメダル",
+		"reward_id": 0,
+		"reward_value": 9000,
+		"reward_title": "ファンキルメダル×9000枚",
+		"reward_description": "コロシアム通算66666勝の報酬です。"
+	}
+]

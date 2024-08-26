@@ -1,0 +1,302 @@
+[
+	{
+		"ID": 6303,
+		"unitID": 2202211,
+		"questionID": 9202201,
+		"script": ";;斧,1\n# textflame 1 1\n# face %(unit_a)s \"angry\"\n# voice 2022 \"banko_0028\"\n@盤古\nえっと…、えっと…\n\n# textflame 1 1\n@盤古\nうんと…、その…\n\n# textflame 0 0\n@\nどうしたの？\n優しく尋ねるマスター\n\n# textflame 1 1\n# voice 2022 \"banko_0015\"\n@盤古\nうぅ……\n\n# textflame 0 0\n@\nだが彼女は、そのまま\n自分の空間に閉じこもってしまった\n\n@\nなにが言いたかったんだろう？\nと、疑問に思うマスター\n\n@\nすると、彼女のお付きの小人\nリク、カイ、クウが教えてくれた\n\n@\nクイズを出すから、\n答えて欲しいみたいです\n…と\n\n@\nどうやら、もう少し\nマスターと遊びたいらしい\n\n# textflame 1 1\n@盤古\n………いい？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n我の武器属性は分かるか…？　\n\n# se \"SE_0734\"\n# select \"斧\" \"select_label_1\" \"銃\" \"select_label_2\" \"槍\" \"select_label_3\"\n我の武器属性は分かるか…？　\n"
+	},
+	{
+		"ID": 6304,
+		"unitID": 2202211,
+		"questionID": 9202202,
+		"script": ";;宇宙開闢の創造神,1\n# textflame 1 1\n# face %(unit_a)s \"angry\"\n# voice 2022 \"banko_0028\"\n@盤古\nえっと…、えっと…\n\n# textflame 1 1\n@盤古\nうんと…、その…\n\n# textflame 0 0\n@\nどうしたの？\n優しく尋ねるマスター\n\n# textflame 1 1\n# voice 2022 \"banko_0015\"\n@盤古\nうぅ……\n\n# textflame 0 0\n@\nだが彼女は、そのまま\n自分の空間に閉じこもってしまった\n\n@\nなにが言いたかったんだろう？\nと、疑問に思うマスター\n\n@\nすると、彼女のお付きの小人\nリク、カイ、クウが教えてくれた\n\n@\nクイズを出すから、\n答えて欲しいみたいです\n…と\n\n@\nどうやら、もう少し\nマスターと遊びたいらしい\n\n# textflame 1 1\n@盤古\n………いい？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n我のキラーズ、『盤古』の持ち主は\n…どんな神だ…？\n\n# se \"SE_0734\"\n# select \"宇宙開闢の創造神\" \"select_label_1\" \"史上最強の戦闘神\" \"select_label_2\" \"諸行無常の悪魔神\" \"select_label_3\"\n我のキラーズ、『盤古』の持ち主は\n…どんな神だ…？\n"
+	},
+	{
+		"ID": 6305,
+		"unitID": 2202211,
+		"questionID": 9202203,
+		"script": ";;中国神話,1\n# textflame 1 1\n# face %(unit_a)s \"angry\"\n# voice 2022 \"banko_0028\"\n@盤古\nえっと…、えっと…\n\n# textflame 1 1\n@盤古\nうんと…、その…\n\n# textflame 0 0\n@\nどうしたの？\n優しく尋ねるマスター\n\n# textflame 1 1\n# voice 2022 \"banko_0015\"\n@盤古\nうぅ……\n\n# textflame 0 0\n@\nだが彼女は、そのまま\n自分の空間に閉じこもってしまった\n\n@\nなにが言いたかったんだろう？\nと、疑問に思うマスター\n\n@\nすると、彼女のお付きの小人\nリク、カイ、クウが教えてくれた\n\n@\nクイズを出すから、\n答えて欲しいみたいです\n…と\n\n@\nどうやら、もう少し\nマスターと遊びたいらしい\n\n# textflame 1 1\n@盤古\n………いい？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n我のキラーズ、『盤古』は\nどんな伝承に…登場する…？\n\n# se \"SE_0734\"\n# select \"中国神話\" \"select_label_1\" \"ギリシャ神話\" \"select_label_2\" \"ケルト神話\" \"select_label_3\"\n我のキラーズ、『盤古』は\nどんな伝承に…登場する…？\n"
+	},
+	{
+		"ID": 6306,
+		"unitID": 2202211,
+		"questionID": 9202204,
+		"script": ";;天地を切り分けた斧,2\n# textflame 1 1\n# face %(unit_a)s \"angry\"\n# voice 2022 \"banko_0028\"\n@盤古\nえっと…、えっと…\n\n# textflame 1 1\n@盤古\nうんと…、その…\n\n# textflame 0 0\n@\nどうしたの？\n優しく尋ねるマスター\n\n# textflame 1 1\n# voice 2022 \"banko_0015\"\n@盤古\nうぅ……\n\n# textflame 0 0\n@\nだが彼女は、そのまま\n自分の空間に閉じこもってしまった\n\n@\nなにが言いたかったんだろう？\nと、疑問に思うマスター\n\n@\nすると、彼女のお付きの小人\nリク、カイ、クウが教えてくれた\n\n@\nクイズを出すから、\n答えて欲しいみたいです\n…と\n\n@\nどうやら、もう少し\nマスターと遊びたいらしい\n\n# textflame 1 1\n@盤古\n………いい？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n我のキラーズ『盤古』は\nどんな斧だ…？\n\n# se \"SE_0734\"\n# select \"宇宙を切り裂いた斧\" \"select_label_1\" \"天地を切り分けた斧\" \"select_label_2\" \"百獣を倒した斧\" \"select_label_3\"\n我のキラーズ『盤古』は\nどんな斧だ…？\n"
+	},
+	{
+		"ID": 6307,
+		"unitID": 2202211,
+		"questionID": 9202205,
+		"script": ";;巨人,3\n# textflame 1 1\n# face %(unit_a)s \"angry\"\n# voice 2022 \"banko_0028\"\n@盤古\nえっと…、えっと…\n\n# textflame 1 1\n@盤古\nうんと…、その…\n\n# textflame 0 0\n@\nどうしたの？\n優しく尋ねるマスター\n\n# textflame 1 1\n# voice 2022 \"banko_0015\"\n@盤古\nうぅ……\n\n# textflame 0 0\n@\nだが彼女は、そのまま\n自分の空間に閉じこもってしまった\n\n@\nなにが言いたかったんだろう？\nと、疑問に思うマスター\n\n@\nすると、彼女のお付きの小人\nリク、カイ、クウが教えてくれた\n\n@\nクイズを出すから、\n答えて欲しいみたいです\n…と\n\n@\nどうやら、もう少し\nマスターと遊びたいらしい\n\n# textflame 1 1\n@盤古\n………いい？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n創造神『盤古』は…\nどんな人だ…？\n\n# se \"SE_0734\"\n# select \"小人\" \"select_label_1\" \"魔人\" \"select_label_2\" \"巨人\" \"select_label_3\"\n創造神『盤古』は…\nどんな人だ…？\n"
+	},
+	{
+		"ID": 6308,
+		"unitID": 2202211,
+		"questionID": 9202206,
+		"script": ";;太陽,2\n# textflame 1 1\n# face %(unit_a)s \"angry\"\n# voice 2022 \"banko_0028\"\n@盤古\nえっと…、えっと…\n\n# textflame 1 1\n@盤古\nうんと…、その…\n\n# textflame 0 0\n@\nどうしたの？\n優しく尋ねるマスター\n\n# textflame 1 1\n# voice 2022 \"banko_0015\"\n@盤古\nうぅ……\n\n# textflame 0 0\n@\nだが彼女は、そのまま\n自分の空間に閉じこもってしまった\n\n@\nなにが言いたかったんだろう？\nと、疑問に思うマスター\n\n@\nすると、彼女のお付きの小人\nリク、カイ、クウが教えてくれた\n\n@\nクイズを出すから、\n答えて欲しいみたいです\n…と\n\n@\nどうやら、もう少し\nマスターと遊びたいらしい\n\n# textflame 1 1\n@盤古\n………いい？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n創造神『盤古』の死後…\nその左目は…何になった…？\n\n# se \"SE_0734\"\n# select \"月\" \"select_label_1\" \"太陽\" \"select_label_2\" \"大岩\" \"select_label_3\"\n創造神『盤古』の死後…\nその左目は…何になった…？\n"
+	},
+	{
+		"ID": 6309,
+		"unitID": 2202211,
+		"questionID": 9202207,
+		"script": ";;月,3\n# textflame 1 1\n# face %(unit_a)s \"angry\"\n# voice 2022 \"banko_0028\"\n@盤古\nえっと…、えっと…\n\n# textflame 1 1\n@盤古\nうんと…、その…\n\n# textflame 0 0\n@\nどうしたの？\n優しく尋ねるマスター\n\n# textflame 1 1\n# voice 2022 \"banko_0015\"\n@盤古\nうぅ……\n\n# textflame 0 0\n@\nだが彼女は、そのまま\n自分の空間に閉じこもってしまった\n\n@\nなにが言いたかったんだろう？\nと、疑問に思うマスター\n\n@\nすると、彼女のお付きの小人\nリク、カイ、クウが教えてくれた\n\n@\nクイズを出すから、\n答えて欲しいみたいです\n…と\n\n@\nどうやら、もう少し\nマスターと遊びたいらしい\n\n# textflame 1 1\n@盤古\n………いい？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n創造神『盤古』の死後…\nその右目は…何になった…？\n\n# se \"SE_0734\"\n# select \"太陽\" \"select_label_1\" \"竜巻\" \"select_label_2\" \"月\" \"select_label_3\"\n創造神『盤古』の死後…\nその右目は…何になった…？\n"
+	},
+	{
+		"ID": 6310,
+		"unitID": 2202211,
+		"questionID": 9202208,
+		"script": ";;草木,3\n# textflame 1 1\n# face %(unit_a)s \"angry\"\n# voice 2022 \"banko_0028\"\n@盤古\nえっと…、えっと…\n\n# textflame 1 1\n@盤古\nうんと…、その…\n\n# textflame 0 0\n@\nどうしたの？\n優しく尋ねるマスター\n\n# textflame 1 1\n# voice 2022 \"banko_0015\"\n@盤古\nうぅ……\n\n# textflame 0 0\n@\nだが彼女は、そのまま\n自分の空間に閉じこもってしまった\n\n@\nなにが言いたかったんだろう？\nと、疑問に思うマスター\n\n@\nすると、彼女のお付きの小人\nリク、カイ、クウが教えてくれた\n\n@\nクイズを出すから、\n答えて欲しいみたいです\n…と\n\n@\nどうやら、もう少し\nマスターと遊びたいらしい\n\n# textflame 1 1\n@盤古\n………いい？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n創造神『盤古』の死後…\nその体毛は…何になった…？\n\n# se \"SE_0734\"\n# select \"雲\" \"select_label_1\" \"大地\" \"select_label_2\" \"草木\" \"select_label_3\"\n創造神『盤古』の死後…\nその体毛は…何になった…？\n"
+	},
+	{
+		"ID": 6311,
+		"unitID": 2202211,
+		"questionID": 9202209,
+		"script": ";;雷,2\n# textflame 1 1\n# face %(unit_a)s \"angry\"\n# voice 2022 \"banko_0028\"\n@盤古\nえっと…、えっと…\n\n# textflame 1 1\n@盤古\nうんと…、その…\n\n# textflame 0 0\n@\nどうしたの？\n優しく尋ねるマスター\n\n# textflame 1 1\n# voice 2022 \"banko_0015\"\n@盤古\nうぅ……\n\n# textflame 0 0\n@\nだが彼女は、そのまま\n自分の空間に閉じこもってしまった\n\n@\nなにが言いたかったんだろう？\nと、疑問に思うマスター\n\n@\nすると、彼女のお付きの小人\nリク、カイ、クウが教えてくれた\n\n@\nクイズを出すから、\n答えて欲しいみたいです\n…と\n\n@\nどうやら、もう少し\nマスターと遊びたいらしい\n\n# textflame 1 1\n@盤古\n………いい？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n創造神『盤古』の死後…\nその声は…何になった…？\n\n# se \"SE_0734\"\n# select \"電波\" \"select_label_1\" \"雷\" \"select_label_2\" \"音楽\" \"select_label_3\"\n創造神『盤古』の死後…\nその声は…何になった…？\n"
+	},
+	{
+		"ID": 6312,
+		"unitID": 2202211,
+		"questionID": 9202210,
+		"script": ";;雨,2\n# textflame 1 1\n# face %(unit_a)s \"angry\"\n# voice 2022 \"banko_0028\"\n@盤古\nえっと…、えっと…\n\n# textflame 1 1\n@盤古\nうんと…、その…\n\n# textflame 0 0\n@\nどうしたの？\n優しく尋ねるマスター\n\n# textflame 1 1\n# voice 2022 \"banko_0015\"\n@盤古\nうぅ……\n\n# textflame 0 0\n@\nだが彼女は、そのまま\n自分の空間に閉じこもってしまった\n\n@\nなにが言いたかったんだろう？\nと、疑問に思うマスター\n\n@\nすると、彼女のお付きの小人\nリク、カイ、クウが教えてくれた\n\n@\nクイズを出すから、\n答えて欲しいみたいです\n…と\n\n@\nどうやら、もう少し\nマスターと遊びたいらしい\n\n# textflame 1 1\n@盤古\n………いい？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n創造神『盤古』の死後…\nその汗は…何になった…？\n\n# se \"SE_0734\"\n# select \"虹\" \"select_label_1\" \"雨\" \"select_label_2\" \"塩\" \"select_label_3\"\n創造神『盤古』の死後…\nその汗は…何になった…？\n"
+	},
+	{
+		"ID": 6313,
+		"unitID": 2202211,
+		"questionID": 9202211,
+		"script": ";;風,1\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 2022 \"banko_0001\"\n@盤古\nマスター…\n\n# textflame 0 0\n@\nどうしたの？\nモジモジしている彼女に、\nマスターが尋ねる\n\n# textflame 1 1\n# voice 2022 \"\"\n@盤古\n我は、\n話すのが上手くは、\nないが…\n\n# textflame 1 1\n# voice 2022 \"banko_0028\"\n@盤古\nその…聞きたいことは、\nいっぱい、あるぞ…\n\n# textflame 1 1\n# voice 2022 \"\"\n@盤古\n聞いてみても…いいか…？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n我の属性、知ってるか…？\n\n# se \"SE_0734\"\n# select \"風\" \"select_label_1\" \"闇\" \"select_label_2\" \"炎\" \"select_label_3\"\n我の属性、知ってるか…？\n"
+	},
+	{
+		"ID": 6314,
+		"unitID": 2202211,
+		"questionID": 9202212,
+		"script": ";;157cm ,3\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 2022 \"banko_0001\"\n@盤古\nマスター…\n\n# textflame 0 0\n@\nどうしたの？\nモジモジしている彼女に、\nマスターが尋ねる\n\n# textflame 1 1\n# voice 2022 \"\"\n@盤古\n我は、\n話すのが上手くは、\nないが…\n\n# textflame 1 1\n# voice 2022 \"banko_0028\"\n@盤古\nその…聞きたいことは、\nいっぱい、あるぞ…\n\n# textflame 1 1\n# voice 2022 \"\"\n@盤古\n聞いてみても…いいか…？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n我の身長は…わかるか？\n\n# se \"SE_0734\"\n# select \"167cm\" \"select_label_1\" \"177cm\" \"select_label_2\" \"157cm \" \"select_label_3\"\n我の身長は…わかるか？\n"
+	},
+	{
+		"ID": 6315,
+		"unitID": 2202211,
+		"questionID": 9202213,
+		"script": ";;3月5日,3\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 2022 \"banko_0001\"\n@盤古\nマスター…\n\n# textflame 0 0\n@\nどうしたの？\nモジモジしている彼女に、\nマスターが尋ねる\n\n# textflame 1 1\n# voice 2022 \"\"\n@盤古\n我は、\n話すのが上手くは、\nないが…\n\n# textflame 1 1\n# voice 2022 \"banko_0028\"\n@盤古\nその…聞きたいことは、\nいっぱい、あるぞ…\n\n# textflame 1 1\n# voice 2022 \"\"\n@盤古\n聞いてみても…いいか…？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n我の誕生日…知ってるか？\n\n# se \"SE_0734\"\n# select \"3月5日\" \"select_label_1\" \"5月5日\" \"select_label_2\" \"7月5日\" \"select_label_3\"\n我の誕生日…知ってるか？\n"
+	},
+	{
+		"ID": 6316,
+		"unitID": 2202211,
+		"questionID": 9202214,
+		"script": ";;うお座,3\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 2022 \"banko_0001\"\n@盤古\nマスター…\n\n# textflame 0 0\n@\nどうしたの？\nモジモジしている彼女に、\nマスターが尋ねる\n\n# textflame 1 1\n# voice 2022 \"\"\n@盤古\n我は、\n話すのが上手くは、\nないが…\n\n# textflame 1 1\n# voice 2022 \"banko_0028\"\n@盤古\nその…聞きたいことは、\nいっぱい、あるぞ…\n\n# textflame 1 1\n# voice 2022 \"\"\n@盤古\n聞いてみても…いいか…？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n我の星座…知ってるか？\n\n# se \"SE_0734\"\n# select \"いて座\" \"select_label_1\" \"みずがめ座\" \"select_label_2\" \"うお座\" \"select_label_3\"\n我の星座…知ってるか？\n"
+	},
+	{
+		"ID": 6317,
+		"unitID": 2202211,
+		"questionID": 9202215,
+		"script": ";;マスター,3\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 2022 \"banko_0001\"\n@盤古\nマスター…\n\n# textflame 0 0\n@\nどうしたの？\nモジモジしている彼女に、\nマスターが尋ねる\n\n# textflame 1 1\n# voice 2022 \"\"\n@盤古\n我は、\n話すのが上手くは、\nないが…\n\n# textflame 1 1\n# voice 2022 \"banko_0028\"\n@盤古\nその…聞きたいことは、\nいっぱい、あるぞ…\n\n# textflame 1 1\n# voice 2022 \"\"\n@盤古\n聞いてみても…いいか…？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n我の好きなもの…わかるか？\n\n# se \"SE_0734\"\n# select \"おしゃれ\" \"select_label_1\" \"水浴び\" \"select_label_2\" \"マスター\" \"select_label_3\"\n我の好きなもの…わかるか？\n"
+	},
+	{
+		"ID": 6318,
+		"unitID": 2202211,
+		"questionID": 9202216,
+		"script": ";;単純作業,1\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 2022 \"banko_0001\"\n@盤古\nマスター…\n\n# textflame 0 0\n@\nどうしたの？\nモジモジしている彼女に、\nマスターが尋ねる\n\n# textflame 1 1\n# voice 2022 \"\"\n@盤古\n我は、\n話すのが上手くは、\nないが…\n\n# textflame 1 1\n# voice 2022 \"banko_0028\"\n@盤古\nその…聞きたいことは、\nいっぱい、あるぞ…\n\n# textflame 1 1\n# voice 2022 \"\"\n@盤古\n聞いてみても…いいか…？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n我の趣味…わかるか？\n\n# se \"SE_0734\"\n# select \"単純作業\" \"select_label_1\" \"プログラミング\" \"select_label_2\" \"トリックアート\" \"select_label_3\"\n我の趣味…わかるか？\n"
+	},
+	{
+		"ID": 6319,
+		"unitID": 2202211,
+		"questionID": 9202217,
+		"script": ";;Ｏ型,2\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 2022 \"banko_0001\"\n@盤古\nマスター…\n\n# textflame 0 0\n@\nどうしたの？\nモジモジしている彼女に、\nマスターが尋ねる\n\n# textflame 1 1\n# voice 2022 \"\"\n@盤古\n我は、\n話すのが上手くは、\nないが…\n\n# textflame 1 1\n# voice 2022 \"banko_0028\"\n@盤古\nその…聞きたいことは、\nいっぱい、あるぞ…\n\n# textflame 1 1\n# voice 2022 \"\"\n@盤古\n聞いてみても…いいか…？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n我の血液型…わかるか？\n\n# se \"SE_0734\"\n# select \"ＡＢ型\" \"select_label_1\" \"Ｏ型\" \"select_label_2\" \"Ｂ型\" \"select_label_3\"\n我の血液型…わかるか？\n"
+	},
+	{
+		"ID": 6320,
+		"unitID": 2202211,
+		"questionID": 9202218,
+		"script": ";;原始空間,1\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 2022 \"banko_0001\"\n@盤古\nマスター…\n\n# textflame 0 0\n@\nどうしたの？\nモジモジしている彼女に、\nマスターが尋ねる\n\n# textflame 1 1\n# voice 2022 \"\"\n@盤古\n我は、\n話すのが上手くは、\nないが…\n\n# textflame 1 1\n# voice 2022 \"banko_0028\"\n@盤古\nその…聞きたいことは、\nいっぱい、あるぞ…\n\n# textflame 1 1\n# voice 2022 \"\"\n@盤古\n聞いてみても…いいか…？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n我の出身地…わかるか？\n\n# se \"SE_0734\"\n# select \"原始空間\" \"select_label_1\" \"中国\" \"select_label_2\" \"日本\" \"select_label_3\"\n我の出身地…わかるか？\n"
+	},
+	{
+		"ID": 6321,
+		"unitID": 2202211,
+		"questionID": 9202219,
+		"script": ";;リク、カイ、クウ,2\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 2022 \"banko_0001\"\n@盤古\nマスター…\n\n# textflame 0 0\n@\nどうしたの？\nモジモジしている彼女に、\nマスターが尋ねる\n\n# textflame 1 1\n# voice 2022 \"\"\n@盤古\n我は、\n話すのが上手くは、\nないが…\n\n# textflame 1 1\n# voice 2022 \"banko_0028\"\n@盤古\nその…聞きたいことは、\nいっぱい、あるぞ…\n\n# textflame 1 1\n# voice 2022 \"\"\n@盤古\n聞いてみても…いいか…？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n我の小人たちの…\n名前わかるか？\n\n# se \"SE_0734\"\n# select \"ショウ、チク、バイ\" \"select_label_1\" \"リク、カイ、クウ\" \"select_label_2\" \"ダイ、チュウ、ショウ\" \"select_label_3\"\n我の小人たちの…\n名前わかるか？\n"
+	},
+	{
+		"ID": 6322,
+		"unitID": 2202211,
+		"questionID": 9202220,
+		"script": ";;引っ込み思案,1\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 2022 \"banko_0001\"\n@盤古\nマスター…\n\n# textflame 0 0\n@\nどうしたの？\nモジモジしている彼女に、\nマスターが尋ねる\n\n# textflame 1 1\n# voice 2022 \"\"\n@盤古\n我は、\n話すのが上手くは、\nないが…\n\n# textflame 1 1\n# voice 2022 \"banko_0028\"\n@盤古\nその…聞きたいことは、\nいっぱい、あるぞ…\n\n# textflame 1 1\n# voice 2022 \"\"\n@盤古\n聞いてみても…いいか…？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n我は、こんな性格と…\n云われる…\n\n# se \"SE_0734\"\n# select \"引っ込み思案\" \"select_label_1\" \"根明\" \"select_label_2\" \"パリピ\" \"select_label_3\"\n我は、こんな性格と…\n云われる…\n"
+	},
+	{
+		"ID": 6323,
+		"unitID": 2202211,
+		"questionID": 9202221,
+		"script": ";;原初の神,2\n# textflame 1 1\n# face %(unit_a)s \"angry\"\n# voice 2022 \"banko_0024\"\n@盤古\n……うぅぅ\n\n# textflame 0 0\n@\n突如、両手で顔を覆う盤古\n\n# textflame 0 0\n@\nどうしたの？\n心配そうにマスターが尋ねる\n\n# textflame 1 1\n# face %(unit_a)s \"surprise\"\n# voice 2022 \"banko_0015\"\n@盤古\nなぜか…\n左目がうずく……\n\n# textflame 0 0\n@\nえ？大丈夫？\n慌てるマスターに\n恥ずかしそうに顔を赤らめる盤古\n\n# textflame 1 1\n# voice 2022 \"banko_0028\"\n@盤古\nよく分からないが…\n\n# textflame 1 1\n@盤古\n我が出す問題に\nマスターが正解してくれたら…、\n治まる気がするのだ…\n\n# textflame 1 1\n@盤古\n…いくぞ？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n我の覚える、リーダースキル…知ってる、か？\n\n# se \"SE_0734\"\n# select \"前世が神\" \"select_label_1\" \"原初の神\" \"select_label_2\" \"来世の神\" \"select_label_3\"\n我の覚える、リーダースキル…知ってる、か？\n"
+	},
+	{
+		"ID": 6324,
+		"unitID": 2202211,
+		"questionID": 9202222,
+		"script": ";;天命断行,1\n# textflame 1 1\n# face %(unit_a)s \"angry\"\n# voice 2022 \"banko_0024\"\n@盤古\n……うぅぅ\n\n# textflame 0 0\n@\n突如、両手で顔を覆う盤古\n\n# textflame 0 0\n@\nどうしたの？\n心配そうにマスターが尋ねる\n\n# textflame 1 1\n# face %(unit_a)s \"surprise\"\n# voice 2022 \"banko_0015\"\n@盤古\nなぜか…\n左目がうずく……\n\n# textflame 0 0\n@\nえ？大丈夫？\n慌てるマスターに\n恥ずかしそうに顔を赤らめる盤古\n\n# textflame 1 1\n# voice 2022 \"banko_0028\"\n@盤古\nよく分からないが…\n\n# textflame 1 1\n@盤古\n我が出す問題に\nマスターが正解してくれたら…、\n治まる気がするのだ…\n\n# textflame 1 1\n@盤古\n…いくぞ？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n我の覚えるスキル…わかる、か？\n\n# se \"SE_0734\"\n# select \"天命断行\" \"select_label_1\" \"運転代行\" \"select_label_2\" \"雨天決行\" \"select_label_3\"\n我の覚えるスキル…わかる、か？\n"
+	},
+	{
+		"ID": 6325,
+		"unitID": 2202211,
+		"questionID": 9202223,
+		"script": ";;盤古開天,1\n# textflame 1 1\n# face %(unit_a)s \"angry\"\n# voice 2022 \"banko_0024\"\n@盤古\n……うぅぅ\n\n# textflame 0 0\n@\n突如、両手で顔を覆う盤古\n\n# textflame 0 0\n@\nどうしたの？\n心配そうにマスターが尋ねる\n\n# textflame 1 1\n# face %(unit_a)s \"surprise\"\n# voice 2022 \"banko_0015\"\n@盤古\nなぜか…\n左目がうずく……\n\n# textflame 0 0\n@\nえ？大丈夫？\n慌てるマスターに\n恥ずかしそうに顔を赤らめる盤古\n\n# textflame 1 1\n# voice 2022 \"banko_0028\"\n@盤古\nよく分からないが…\n\n# textflame 1 1\n@盤古\n我が出す問題に\nマスターが正解してくれたら…、\n治まる気がするのだ…\n\n# textflame 1 1\n@盤古\n…いくぞ？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n我の覚えるスキル…わかる、か？\n\n# se \"SE_0734\"\n# select \"盤古開天\" \"select_label_1\" \"盤古回転\" \"select_label_2\" \"盤古回天\" \"select_label_3\"\n我の覚えるスキル…わかる、か？\n"
+	},
+	{
+		"ID": 6326,
+		"unitID": 2202211,
+		"questionID": 9202224,
+		"script": ";;天地開闢の御業,1\n# textflame 1 1\n# face %(unit_a)s \"angry\"\n# voice 2022 \"banko_0024\"\n@盤古\n……うぅぅ\n\n# textflame 0 0\n@\n突如、両手で顔を覆う盤古\n\n# textflame 0 0\n@\nどうしたの？\n心配そうにマスターが尋ねる\n\n# textflame 1 1\n# face %(unit_a)s \"surprise\"\n# voice 2022 \"banko_0015\"\n@盤古\nなぜか…\n左目がうずく……\n\n# textflame 0 0\n@\nえ？大丈夫？\n慌てるマスターに\n恥ずかしそうに顔を赤らめる盤古\n\n# textflame 1 1\n# voice 2022 \"banko_0028\"\n@盤古\nよく分からないが…\n\n# textflame 1 1\n@盤古\n我が出す問題に\nマスターが正解してくれたら…、\n治まる気がするのだ…\n\n# textflame 1 1\n@盤古\n…いくぞ？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n我の覚えるスキル…わかるか？\n\n# se \"SE_0734\"\n# select \"天地開闢の御業\" \"select_label_1\" \"天地開闢の御霊\" \"select_label_2\" \"天地開闢の御大\" \"select_label_3\"\n我の覚えるスキル…わかるか？\n"
+	},
+	{
+		"ID": 6327,
+		"unitID": 2202211,
+		"questionID": 9202225,
+		"script": ";;天地を開く者,3\n# textflame 1 1\n# face %(unit_a)s \"angry\"\n# voice 2022 \"banko_0024\"\n@盤古\n……うぅぅ\n\n# textflame 0 0\n@\n突如、両手で顔を覆う盤古\n\n# textflame 0 0\n@\nどうしたの？\n心配そうにマスターが尋ねる\n\n# textflame 1 1\n# face %(unit_a)s \"surprise\"\n# voice 2022 \"banko_0015\"\n@盤古\nなぜか…\n左目がうずく……\n\n# textflame 0 0\n@\nえ？大丈夫？\n慌てるマスターに\n恥ずかしそうに顔を赤らめる盤古\n\n# textflame 1 1\n# voice 2022 \"banko_0028\"\n@盤古\nよく分からないが…\n\n# textflame 1 1\n@盤古\n我が出す問題に\nマスターが正解してくれたら…、\n治まる気がするのだ…\n\n# textflame 1 1\n@盤古\n…いくぞ？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n我の覚える、\nデュエルスキル…わかるか？\n\n# se \"SE_0734\"\n# select \"海を開く者\" \"select_label_1\" \"山脈を開く者\" \"select_label_2\" \"天地を開く者\" \"select_label_3\"\n我の覚える、\nデュエルスキル…わかるか？\n"
+	},
+	{
+		"ID": 6328,
+		"unitID": 2202211,
+		"questionID": 9202226,
+		"script": ";;崩壊世界を断つ斧,3\n# textflame 1 1\n# face %(unit_a)s \"angry\"\n# voice 2022 \"banko_0024\"\n@盤古\n……うぅぅ\n\n# textflame 0 0\n@\n突如、両手で顔を覆う盤古\n\n# textflame 0 0\n@\nどうしたの？\n心配そうにマスターが尋ねる\n\n# textflame 1 1\n# face %(unit_a)s \"surprise\"\n# voice 2022 \"banko_0015\"\n@盤古\nなぜか…\n左目がうずく……\n\n# textflame 0 0\n@\nえ？大丈夫？\n慌てるマスターに\n恥ずかしそうに顔を赤らめる盤古\n\n# textflame 1 1\n# voice 2022 \"banko_0028\"\n@盤古\nよく分からないが…\n\n# textflame 1 1\n@盤古\n我が出す問題に\nマスターが正解してくれたら…、\n治まる気がするのだ…\n\n# textflame 1 1\n@盤古\n…いくぞ？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n我の…付替スキル…知ってるか？\n\n# se \"SE_0734\"\n# select \"地底世界を掘る斧\" \"select_label_1\" \"天空世界を開く斧\" \"select_label_2\" \"崩壊世界を断つ斧\" \"select_label_3\"\n我の…付替スキル…知ってるか？\n"
+	},
+	{
+		"ID": 6329,
+		"unitID": 2202211,
+		"questionID": 9202227,
+		"script": ";;創造主の天来,1\n# textflame 1 1\n# face %(unit_a)s \"angry\"\n# voice 2022 \"banko_0024\"\n@盤古\n……うぅぅ\n\n# textflame 0 0\n@\n突如、両手で顔を覆う盤古\n\n# textflame 0 0\n@\nどうしたの？\n心配そうにマスターが尋ねる\n\n# textflame 1 1\n# face %(unit_a)s \"surprise\"\n# voice 2022 \"banko_0015\"\n@盤古\nなぜか…\n左目がうずく……\n\n# textflame 0 0\n@\nえ？大丈夫？\n慌てるマスターに\n恥ずかしそうに顔を赤らめる盤古\n\n# textflame 1 1\n# voice 2022 \"banko_0028\"\n@盤古\nよく分からないが…\n\n# textflame 1 1\n@盤古\n我が出す問題に\nマスターが正解してくれたら…、\n治まる気がするのだ…\n\n# textflame 1 1\n@盤古\n…いくぞ？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n我の覚えるスキル…わかるか？\n\n# se \"SE_0734\"\n# select \"創造主の天来\" \"select_label_1\" \"創造主の天啓\" \"select_label_2\" \"創造主の天蓋\" \"select_label_3\"\n我の覚えるスキル…わかるか？\n"
+	},
+	{
+		"ID": 6330,
+		"unitID": 2202211,
+		"questionID": 9202228,
+		"script": ";;宇宙開闢の神威,1\n# textflame 1 1\n# face %(unit_a)s \"angry\"\n# voice 2022 \"banko_0024\"\n@盤古\n……うぅぅ\n\n# textflame 0 0\n@\n突如、両手で顔を覆う盤古\n\n# textflame 0 0\n@\nどうしたの？\n心配そうにマスターが尋ねる\n\n# textflame 1 1\n# face %(unit_a)s \"surprise\"\n# voice 2022 \"banko_0015\"\n@盤古\nなぜか…\n左目がうずく……\n\n# textflame 0 0\n@\nえ？大丈夫？\n慌てるマスターに\n恥ずかしそうに顔を赤らめる盤古\n\n# textflame 1 1\n# voice 2022 \"banko_0028\"\n@盤古\nよく分からないが…\n\n# textflame 1 1\n@盤古\n我が出す問題に\nマスターが正解してくれたら…、\n治まる気がするのだ…\n\n# textflame 1 1\n@盤古\n…いくぞ？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n我の覚えるスキル…わかるか？\n\n# se \"SE_0734\"\n# select \"宇宙開闢の神威\" \"select_label_1\" \"宇宙開闢の神成\" \"select_label_2\" \"宇宙開闢の神薙\" \"select_label_3\"\n我の覚えるスキル…わかるか？\n"
+	},
+	{
+		"ID": 6331,
+		"unitID": 2202211,
+		"questionID": 9202229,
+		"script": ";;開天の攻器,1\n# textflame 1 1\n# face %(unit_a)s \"angry\"\n# voice 2022 \"banko_0024\"\n@盤古\n……うぅぅ\n\n# textflame 0 0\n@\n突如、両手で顔を覆う盤古\n\n# textflame 0 0\n@\nどうしたの？\n心配そうにマスターが尋ねる\n\n# textflame 1 1\n# face %(unit_a)s \"surprise\"\n# voice 2022 \"banko_0015\"\n@盤古\nなぜか…\n左目がうずく……\n\n# textflame 0 0\n@\nえ？大丈夫？\n慌てるマスターに\n恥ずかしそうに顔を赤らめる盤古\n\n# textflame 1 1\n# voice 2022 \"banko_0028\"\n@盤古\nよく分からないが…\n\n# textflame 1 1\n@盤古\n我が出す問題に\nマスターが正解してくれたら…、\n治まる気がするのだ…\n\n# textflame 1 1\n@盤古\n…いくぞ？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n我の…型スキル…知ってるか？\n\n# se \"SE_0734\"\n# select \"開天の攻器\" \"select_label_1\" \"回転の攻器\" \"select_label_2\" \"開店の攻器\" \"select_label_3\"\n我の…型スキル…知ってるか？\n"
+	},
+	{
+		"ID": 6332,
+		"unitID": 2202211,
+		"questionID": 9202230,
+		"script": ";;創世の攻器,3\n# textflame 1 1\n# face %(unit_a)s \"angry\"\n# voice 2022 \"banko_0024\"\n@盤古\n……うぅぅ\n\n# textflame 0 0\n@\n突如、両手で顔を覆う盤古\n\n# textflame 0 0\n@\nどうしたの？\n心配そうにマスターが尋ねる\n\n# textflame 1 1\n# face %(unit_a)s \"surprise\"\n# voice 2022 \"banko_0015\"\n@盤古\nなぜか…\n左目がうずく……\n\n# textflame 0 0\n@\nえ？大丈夫？\n慌てるマスターに\n恥ずかしそうに顔を赤らめる盤古\n\n# textflame 1 1\n# voice 2022 \"banko_0028\"\n@盤古\nよく分からないが…\n\n# textflame 1 1\n@盤古\n我が出す問題に\nマスターが正解してくれたら…、\n治まる気がするのだ…\n\n# textflame 1 1\n@盤古\n…いくぞ？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n我の…型スキル…知ってるか？\n\n# se \"SE_0734\"\n# select \"双生の攻器\" \"select_label_1\" \"早世の攻器\" \"select_label_2\" \"創世の攻器\" \"select_label_3\"\n我の…型スキル…知ってるか？\n"
+	},
+	{
+		"ID": 6333,
+		"unitID": 2202211,
+		"questionID": 9202231,
+		"script": ";;とっても我慢強い,1\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 2022 \"banko_0002\"\n@盤古\n今日は…\nありがとうな\n\n# textflame 1 1\n@盤古\nとても…楽しかったぞ\n\n# textflame 1 1\n@盤古\n我からのお礼、だ\n\n# textflame 1 1\n@盤古\n今から出す問題に、\n正解したら…\n\n# textflame 1 1\n# voice 2022 \"banko_0003\"\n@盤古\n世界の半分を、\nそなたにやろう…\n\n# textflame 1 1\n@盤古\nいくぞ？\n\n# textflame 0 0\n@\n突如、\nとんでもないスケールの\nクイズが始まったのだった\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n我の性格…わかるか…？\n\n# se \"SE_0734\"\n# select \"とっても我慢強い\" \"select_label_1\" \"とっても我がまま\" \"select_label_2\" \"とっても短気\" \"select_label_3\"\n我の性格…わかるか…？\n"
+	},
+	{
+		"ID": 6334,
+		"unitID": 2202211,
+		"questionID": 9202232,
+		"script": ";;March,2\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 2022 \"banko_0002\"\n@盤古\n今日は…\nありがとうな\n\n# textflame 1 1\n@盤古\nとても…楽しかったぞ\n\n# textflame 1 1\n@盤古\n我からのお礼、だ\n\n# textflame 1 1\n@盤古\n今から出す問題に、\n正解したら…\n\n# textflame 1 1\n# voice 2022 \"banko_0003\"\n@盤古\n世界の半分を、\nそなたにやろう…\n\n# textflame 1 1\n@盤古\nいくぞ？\n\n# textflame 0 0\n@\n突如、\nとんでもないスケールの\nクイズが始まったのだった\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n我の誕生月を\n英語で言うと…？\n\n# se \"SE_0734\"\n# select \"January\" \"select_label_1\" \"March\" \"select_label_2\" \"July\" \"select_label_3\"\n我の誕生月を\n英語で言うと…？\n"
+	},
+	{
+		"ID": 6335,
+		"unitID": 2202211,
+		"questionID": 9202233,
+		"script": ";;話し下手,2\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 2022 \"banko_0002\"\n@盤古\n今日は…\nありがとうな\n\n# textflame 1 1\n@盤古\nとても…楽しかったぞ\n\n# textflame 1 1\n@盤古\n我からのお礼、だ\n\n# textflame 1 1\n@盤古\n今から出す問題に、\n正解したら…\n\n# textflame 1 1\n# voice 2022 \"banko_0003\"\n@盤古\n世界の半分を、\nそなたにやろう…\n\n# textflame 1 1\n@盤古\nいくぞ？\n\n# textflame 0 0\n@\n突如、\nとんでもないスケールの\nクイズが始まったのだった\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n我は…あの、その…\nなんていうか…あれだ…\n\n# se \"SE_0734\"\n# select \"話し上手\" \"select_label_1\" \"話し下手\" \"select_label_2\" \"話したがり\" \"select_label_3\"\n我は…あの、その…\nなんていうか…あれだ…\n"
+	},
+	{
+		"ID": 6336,
+		"unitID": 2202211,
+		"questionID": 9202234,
+		"script": ";;梓弓,1\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 2022 \"banko_0002\"\n@盤古\n今日は…\nありがとうな\n\n# textflame 1 1\n@盤古\nとても…楽しかったぞ\n\n# textflame 1 1\n@盤古\n我からのお礼、だ\n\n# textflame 1 1\n@盤古\n今から出す問題に、\n正解したら…\n\n# textflame 1 1\n# voice 2022 \"banko_0003\"\n@盤古\n世界の半分を、\nそなたにやろう…\n\n# textflame 1 1\n@盤古\nいくぞ？\n\n# textflame 0 0\n@\n突如、\nとんでもないスケールの\nクイズが始まったのだった\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n我と誕生月が同じなの…\n誰か、わかるの、か？\n\n# se \"SE_0734\"\n# select \"梓弓\" \"select_label_1\" \"方天画戟\" \"select_label_2\" \"草薙剣\" \"select_label_3\"\n我と誕生月が同じなの…\n誰か、わかるの、か？\n"
+	},
+	{
+		"ID": 6337,
+		"unitID": 2202211,
+		"questionID": 9202235,
+		"script": ";;Pisces,2\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 2022 \"banko_0002\"\n@盤古\n今日は…\nありがとうな\n\n# textflame 1 1\n@盤古\nとても…楽しかったぞ\n\n# textflame 1 1\n@盤古\n我からのお礼、だ\n\n# textflame 1 1\n@盤古\n今から出す問題に、\n正解したら…\n\n# textflame 1 1\n# voice 2022 \"banko_0003\"\n@盤古\n世界の半分を、\nそなたにやろう…\n\n# textflame 1 1\n@盤古\nいくぞ？\n\n# textflame 0 0\n@\n突如、\nとんでもないスケールの\nクイズが始まったのだった\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n我の星座を\n英語で言うと？\n\n# se \"SE_0734\"\n# select \"Capricorn\" \"select_label_1\" \"Pisces\" \"select_label_2\" \"Taurus\" \"select_label_3\"\n我の星座を\n英語で言うと？\n"
+	},
+	{
+		"ID": 6338,
+		"unitID": 2202211,
+		"questionID": 9202236,
+		"script": ";;常に一緒にいてくれる人,3\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 2022 \"banko_0002\"\n@盤古\n今日は…\nありがとうな\n\n# textflame 1 1\n@盤古\nとても…楽しかったぞ\n\n# textflame 1 1\n@盤古\n我からのお礼、だ\n\n# textflame 1 1\n@盤古\n今から出す問題に、\n正解したら…\n\n# textflame 1 1\n# voice 2022 \"banko_0003\"\n@盤古\n世界の半分を、\nそなたにやろう…\n\n# textflame 1 1\n@盤古\nいくぞ？\n\n# textflame 0 0\n@\n突如、\nとんでもないスケールの\nクイズが始まったのだった\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n我の好きなタイプは…？\n\n# se \"SE_0734\"\n# select \"ご飯を美味しそうに食べる人\" \"select_label_1\" \"キレイ好きな人\" \"select_label_2\" \"常に一緒にいてくれる人\" \"select_label_3\"\n我の好きなタイプは…？\n"
+	},
+	{
+		"ID": 6339,
+		"unitID": 2202211,
+		"questionID": 9202237,
+		"script": ";;寂しがり屋,3\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 2022 \"banko_0002\"\n@盤古\n今日は…\nありがとうな\n\n# textflame 1 1\n@盤古\nとても…楽しかったぞ\n\n# textflame 1 1\n@盤古\n我からのお礼、だ\n\n# textflame 1 1\n@盤古\n今から出す問題に、\n正解したら…\n\n# textflame 1 1\n# voice 2022 \"banko_0003\"\n@盤古\n世界の半分を、\nそなたにやろう…\n\n# textflame 1 1\n@盤古\nいくぞ？\n\n# textflame 0 0\n@\n突如、\nとんでもないスケールの\nクイズが始まったのだった\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n我は、何屋…わかる、か？\n\n# se \"SE_0734\"\n# select \"話したがり屋\" \"select_label_1\" \"目立ちたがり屋\" \"select_label_2\" \"寂しがり屋\" \"select_label_3\"\n我は、何屋…わかる、か？\n"
+	},
+	{
+		"ID": 6340,
+		"unitID": 2202211,
+		"questionID": 9202238,
+		"script": ";;ダグダ,3\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 2022 \"banko_0002\"\n@盤古\n今日は…\nありがとうな\n\n# textflame 1 1\n@盤古\nとても…楽しかったぞ\n\n# textflame 1 1\n@盤古\n我からのお礼、だ\n\n# textflame 1 1\n@盤古\n今から出す問題に、\n正解したら…\n\n# textflame 1 1\n# voice 2022 \"banko_0003\"\n@盤古\n世界の半分を、\nそなたにやろう…\n\n# textflame 1 1\n@盤古\nいくぞ？\n\n# textflame 0 0\n@\n突如、\nとんでもないスケールの\nクイズが始まったのだった\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n我と同じ血液型なのは、誰？\n\n# se \"SE_0734\"\n# select \"レシェフ\" \"select_label_1\" \"ロンゴミアント\" \"select_label_2\" \"ダグダ\" \"select_label_3\"\n我と同じ血液型なのは、誰？\n"
+	},
+	{
+		"ID": 6341,
+		"unitID": 2202211,
+		"questionID": 9202239,
+		"script": ";;ロンゴミアント,3\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 2022 \"banko_0002\"\n@盤古\n今日は…\nありがとうな\n\n# textflame 1 1\n@盤古\nとても…楽しかったぞ\n\n# textflame 1 1\n@盤古\n我からのお礼、だ\n\n# textflame 1 1\n@盤古\n今から出す問題に、\n正解したら…\n\n# textflame 1 1\n# voice 2022 \"banko_0003\"\n@盤古\n世界の半分を、\nそなたにやろう…\n\n# textflame 1 1\n@盤古\nいくぞ？\n\n# textflame 0 0\n@\n突如、\nとんでもないスケールの\nクイズが始まったのだった\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n我と違う血液型なのは\n誰かわかるか？\n\n# se \"SE_0734\"\n# select \"ダグダ\" \"select_label_1\" \"ヤグルシ\" \"select_label_2\" \"ロンゴミアント\" \"select_label_3\"\n我と違う血液型なのは\n誰かわかるか？\n"
+	},
+	{
+		"ID": 6342,
+		"unitID": 2202211,
+		"questionID": 9202240,
+		"script": ";;ウコンバサラ,2\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 2022 \"banko_0002\"\n@盤古\n今日は…\nありがとうな\n\n# textflame 1 1\n@盤古\nとても…楽しかったぞ\n\n# textflame 1 1\n@盤古\n我からのお礼、だ\n\n# textflame 1 1\n@盤古\n今から出す問題に、\n正解したら…\n\n# textflame 1 1\n# voice 2022 \"banko_0003\"\n@盤古\n世界の半分を、\nそなたにやろう…\n\n# textflame 1 1\n@盤古\nいくぞ？\n\n# textflame 0 0\n@\n突如、\nとんでもないスケールの\nクイズが始まったのだった\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n我と違う誕生月なのは\n誰かわかるか？\n\n# se \"SE_0734\"\n# select \"梓弓\" \"select_label_1\" \"ウコンバサラ\" \"select_label_2\" \"ピナーカ\" \"select_label_3\"\n我と違う誕生月なのは\n誰かわかるか？\n"
+	},
+	{
+		"ID": 6343,
+		"unitID": 2202211,
+		"questionID": 9202241,
+		"script": "\n;;我,3\n# se \"SE_0734\"\n# select \"私\" \"select_label_1\" \"それがし\" \"select_label_2\" \"我\" \"select_label_3\"\n盤古の一人称は\n次のうちどれ？\n"
+	},
+	{
+		"ID": 6344,
+		"unitID": 2202211,
+		"questionID": 9202242,
+		"script": "\n;;マスター,3\n# se \"SE_0734\"\n# select \"貴方様\" \"select_label_1\" \"アータ\" \"select_label_2\" \"マスター\" \"select_label_3\"\n盤古はあなたのこと、\nなんて呼んでる？\n"
+	},
+	{
+		"ID": 6345,
+		"unitID": 2202211,
+		"questionID": 9202243,
+		"script": "\n;;95cm,3\n# se \"SE_0734\"\n# select \"85cm\" \"select_label_1\" \"75cm\" \"select_label_2\" \"95cm\" \"select_label_3\"\n盤古の\nバストサイズがどのくらいか\nあなたは知ってるの？\n"
+	},
+	{
+		"ID": 6346,
+		"unitID": 2202211,
+		"questionID": 9202244,
+		"script": "\n;;56cm,2\n# se \"SE_0734\"\n# select \"60cm\" \"select_label_1\" \"56cm\" \"select_label_2\" \"58cm\" \"select_label_3\"\n盤古の\nウエストサイズがどのくらいか\nあなたは知ってるの？\n"
+	},
+	{
+		"ID": 6347,
+		"unitID": 2202211,
+		"questionID": 9202245,
+		"script": "\n;;87cm,2\n# se \"SE_0734\"\n# select \"85cm\" \"select_label_1\" \"87cm\" \"select_label_2\" \"89cm\" \"select_label_3\"\n盤古の\nヒップサイズがどのくらいか\nあなたは知ってるの？\n"
+	},
+	{
+		"ID": 6348,
+		"unitID": 2202211,
+		"questionID": 9202246,
+		"script": "\n;;50ｋｇ,3\n# se \"SE_0734\"\n# select \"52kg\" \"select_label_1\" \"45kg\" \"select_label_2\" \"50ｋｇ\" \"select_label_3\"\n盤古の体重は\n次のうちどれ？\n"
+	},
+	{
+		"ID": 6349,
+		"unitID": 2202211,
+		"questionID": 9202247,
+		"script": "\n;;238,2\n# se \"SE_0734\"\n# select \"239\" \"select_label_1\" \"238\" \"select_label_2\" \"240\" \"select_label_3\"\n盤古の\nバスト＋ウエスト＋ヒップは\nいくつかわかる？\n"
+	},
+	{
+		"ID": 6350,
+		"unitID": 2202211,
+		"questionID": 9202248,
+		"script": "\n;;黒色,1\n# se \"SE_0734\"\n# select \"黒色\" \"select_label_1\" \"黄色\" \"select_label_2\" \"赤色\" \"select_label_3\"\n盤古の髪の色は\n次のうちどれ？\n"
+	},
+	{
+		"ID": 6351,
+		"unitID": 2202211,
+		"questionID": 9202249,
+		"script": "\n;;参加してない,1\n# se \"SE_0734\"\n# select \"参加してない\" \"select_label_1\" \"7位\" \"select_label_2\" \"16位\" \"select_label_3\"\n盤古は\n第5回人気投票で\n何位だったでしょう？\n"
+	},
+	{
+		"ID": 6352,
+		"unitID": 2202211,
+		"questionID": 9202250,
+		"script": "\n;;柴 紅音,2\n# se \"SE_0734\"\n# select \"後藤沙緒里\" \"select_label_1\" \"柴 紅音\" \"select_label_2\" \"早見沙織\" \"select_label_3\"\n盤古の声優は誰？\n"
+	}
+]

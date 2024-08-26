@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 95032399,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 250321 \"tiphereth_t_0001\"\n# se \"SE_0732\"\n@ティファレト\n主様のお答え…\n\n# face %(unit_a)s \"normal\"\n# voice 250321 \"tiphereth_t_0020\"\n@ティファレト\n大正解です\n\n# face %(unit_a)s \"usual\"\n@ティファレト\n申し訳ありません\n身勝手なお願いをしてしまって…\n\n@ティファレト\nでも…\n\n# face %(unit_a)s \"shy\"\n# voice 250321 \"tiphereth_t_0004\"\n@ティファレト\n当てて下さって…\n嬉しかったです\n\n@ティファレト\nこれからは…\n私が主様をより照らせるように…\n\n@ティファレト\n頑張りますから\n\n;;モノローグ\n# textflame 0 0\n@\n照れくさそうに微笑む彼女\n\n;;モノローグ\n@\nその笑顔は、\nまるで太陽のように輝いていて…\n\n;;モノローグ\n@\nマスターは、\n彼女と距離が近くなったことを\n感じていた\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

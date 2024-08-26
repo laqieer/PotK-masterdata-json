@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 201213,
+		"script": "# script \"lisp\"\n# fadein \"black\" 0.5\n# background %(background)s\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 2012 \"srand_0028\"\n@スラーンド\nそれは…たしかに\n\n@スラーンド\n今夜はフェスティバルなんだけど…\n気の早い人達が出てきてるのね\n\n# face %(unit_a)s \"usual\"\n@スラーンド\n…まあ\nアタシもそのクチなんだけど\n\n@スラーンド\n人が多くて賑やかなのは\n大好きなんだけど…\n\n# face %(unit_a)s \"sad\"\n@スラーンド\nこれはちょっと…\n\n# textflame 0 0\n@\n表情を曇らせるスラーンドに\nマスターはなにがイヤなのかを聞く\n\n# textflame 1 1\n@スラーンド\nせっかく来たのに\nはぐれたら嫌だなぁって…\n\n# voice 2012 \"srand_kyara_1007\"\n@スラーンド\nあ、マスター！？\n手を…\n\n# textflame 0 0\n@\nマスターははぐれないようにと\nスラーンドの手を握る\n\n# voice 2012 \"srand_0004\"\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@スラーンド\nふふ…ありがとうマスター\nでも、これじゃ不十分よ\n\n# textflame 0 0\n@\nスラーンドは手を離すと\nマスターと腕を組む\n\n@\n寄り添うように密着する\nスラーンドとマスターは\nゆっくり人混みを歩いた…\n;;--------------------------------------\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

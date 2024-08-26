@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 101222,
+		"script": ";;選択肢B(大当たり)\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_room\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# voice 1012 \"adamasu_0014\"\n# face %(unit_a)s \"sad\"\n@アダマス\nちょ…\nちょっとまったーー！\n\n# face %(unit_a)s \"angry\"\n@アダマス\nはぁ！？\nいきなり押しかけて来ておいて\nなにもせずさっと帰るとか…\n\n# voice 1012 \"adamasu_0016\"\n@アダマス\nバカにしてんの！？\nあたしのドキドキ返しなさいよ！！\n\n# textflame 0 0\n@\nあれ…警戒されたから\n帰ろうと思ったのだが…\nマスターは困惑する\n\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@アダマス\nそこまでガッと来たんなら…\nお、男らしいところ見せなさいよ！\n\n# textflame 0 0\n@\nマスターは思案する\n男らしく、ガッと…？\n例えばこんなふうに…？\n\n# voice 1012 \"adamasu_0025\"\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@アダマス\nちょ、ちょちょちょーー！\n\n# textflame 0 0\n@\nアダマスの顔が一気に赤くなる\n\n# textflame 1 1\n@アダマス\nなんでいきなり\n脱ごうとしてんのよ！！\n変態ぃぃぃぃ！！\n\n# textflame 0 0\n@\n綺麗なアダマスの手形が\nマスターの背中に咲いたのだった――\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

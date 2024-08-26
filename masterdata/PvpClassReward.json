@@ -1,0 +1,668 @@
+[
+	{
+		"ID": 1,
+		"class_kind_PvpClassKind": 2,
+		"class_reward_type_PvpClassRewardTypeEnum": 5,
+		"reward_type_CommonRewardType": 16,
+		"reward_id": 93,
+		"reward_quantity": 1,
+		"reward_message": "称号"
+	},
+	{
+		"ID": 2,
+		"class_kind_PvpClassKind": 3,
+		"class_reward_type_PvpClassRewardTypeEnum": 5,
+		"reward_type_CommonRewardType": 16,
+		"reward_id": 94,
+		"reward_quantity": 1,
+		"reward_message": "称号"
+	},
+	{
+		"ID": 3,
+		"class_kind_PvpClassKind": 4,
+		"class_reward_type_PvpClassRewardTypeEnum": 5,
+		"reward_type_CommonRewardType": 16,
+		"reward_id": 95,
+		"reward_quantity": 1,
+		"reward_message": "称号"
+	},
+	{
+		"ID": 4,
+		"class_kind_PvpClassKind": 5,
+		"class_reward_type_PvpClassRewardTypeEnum": 5,
+		"reward_type_CommonRewardType": 16,
+		"reward_id": 96,
+		"reward_quantity": 1,
+		"reward_message": "称号"
+	},
+	{
+		"ID": 5,
+		"class_kind_PvpClassKind": 6,
+		"class_reward_type_PvpClassRewardTypeEnum": 5,
+		"reward_type_CommonRewardType": 16,
+		"reward_id": 97,
+		"reward_quantity": 1,
+		"reward_message": "称号"
+	},
+	{
+		"ID": 6,
+		"class_kind_PvpClassKind": 7,
+		"class_reward_type_PvpClassRewardTypeEnum": 5,
+		"reward_type_CommonRewardType": 16,
+		"reward_id": 98,
+		"reward_quantity": 1,
+		"reward_message": "称号"
+	},
+	{
+		"ID": 7,
+		"class_kind_PvpClassKind": 8,
+		"class_reward_type_PvpClassRewardTypeEnum": 5,
+		"reward_type_CommonRewardType": 16,
+		"reward_id": 99,
+		"reward_quantity": 1,
+		"reward_message": "称号"
+	},
+	{
+		"ID": 8,
+		"class_kind_PvpClassKind": 9,
+		"class_reward_type_PvpClassRewardTypeEnum": 5,
+		"reward_type_CommonRewardType": 16,
+		"reward_id": 100,
+		"reward_quantity": 1,
+		"reward_message": "称号"
+	},
+	{
+		"ID": 9,
+		"class_kind_PvpClassKind": 10,
+		"class_reward_type_PvpClassRewardTypeEnum": 5,
+		"reward_type_CommonRewardType": 16,
+		"reward_id": 101,
+		"reward_quantity": 1,
+		"reward_message": "称号"
+	},
+	{
+		"ID": 10,
+		"class_kind_PvpClassKind": 2,
+		"class_reward_type_PvpClassRewardTypeEnum": 5,
+		"reward_type_CommonRewardType": 10,
+		"reward_id": 0,
+		"reward_quantity": 1,
+		"reward_message": "姫石1個"
+	},
+	{
+		"ID": 11,
+		"class_kind_PvpClassKind": 3,
+		"class_reward_type_PvpClassRewardTypeEnum": 5,
+		"reward_type_CommonRewardType": 10,
+		"reward_id": 0,
+		"reward_quantity": 1,
+		"reward_message": "姫石1個"
+	},
+	{
+		"ID": 12,
+		"class_kind_PvpClassKind": 4,
+		"class_reward_type_PvpClassRewardTypeEnum": 5,
+		"reward_type_CommonRewardType": 10,
+		"reward_id": 0,
+		"reward_quantity": 1,
+		"reward_message": "姫石1個"
+	},
+	{
+		"ID": 13,
+		"class_kind_PvpClassKind": 5,
+		"class_reward_type_PvpClassRewardTypeEnum": 5,
+		"reward_type_CommonRewardType": 10,
+		"reward_id": 0,
+		"reward_quantity": 5,
+		"reward_message": "姫石5個"
+	},
+	{
+		"ID": 14,
+		"class_kind_PvpClassKind": 6,
+		"class_reward_type_PvpClassRewardTypeEnum": 5,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 701041,
+		"reward_quantity": 1,
+		"reward_message": "与技のスキルル"
+	},
+	{
+		"ID": 15,
+		"class_kind_PvpClassKind": 7,
+		"class_reward_type_PvpClassRewardTypeEnum": 5,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 701021,
+		"reward_quantity": 1,
+		"reward_message": "発技のスキルル"
+	},
+	{
+		"ID": 16,
+		"class_kind_PvpClassKind": 8,
+		"class_reward_type_PvpClassRewardTypeEnum": 5,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 701031,
+		"reward_quantity": 1,
+		"reward_message": "放技のスキルル"
+	},
+	{
+		"ID": 17,
+		"class_kind_PvpClassKind": 9,
+		"class_reward_type_PvpClassRewardTypeEnum": 5,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 701051,
+		"reward_quantity": 1,
+		"reward_message": "闘技のスキルル"
+	},
+	{
+		"ID": 18,
+		"class_kind_PvpClassKind": 10,
+		"class_reward_type_PvpClassRewardTypeEnum": 5,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 701011,
+		"reward_quantity": 1,
+		"reward_message": "全技のスキルル"
+	},
+	{
+		"ID": 19,
+		"class_kind_PvpClassKind": 2,
+		"class_reward_type_PvpClassRewardTypeEnum": 3,
+		"reward_type_CommonRewardType": 15,
+		"reward_id": 0,
+		"reward_quantity": 200,
+		"reward_message": "200 マナポイント"
+	},
+	{
+		"ID": 20,
+		"class_kind_PvpClassKind": 3,
+		"class_reward_type_PvpClassRewardTypeEnum": 3,
+		"reward_type_CommonRewardType": 15,
+		"reward_id": 0,
+		"reward_quantity": 600,
+		"reward_message": "600 マナポイント"
+	},
+	{
+		"ID": 21,
+		"class_kind_PvpClassKind": 4,
+		"class_reward_type_PvpClassRewardTypeEnum": 3,
+		"reward_type_CommonRewardType": 15,
+		"reward_id": 0,
+		"reward_quantity": 1000,
+		"reward_message": "1000 マナポイント"
+	},
+	{
+		"ID": 22,
+		"class_kind_PvpClassKind": 5,
+		"class_reward_type_PvpClassRewardTypeEnum": 3,
+		"reward_type_CommonRewardType": 15,
+		"reward_id": 0,
+		"reward_quantity": 1000,
+		"reward_message": "1000 マナポイント"
+	},
+	{
+		"ID": 23,
+		"class_kind_PvpClassKind": 6,
+		"class_reward_type_PvpClassRewardTypeEnum": 3,
+		"reward_type_CommonRewardType": 15,
+		"reward_id": 0,
+		"reward_quantity": 2000,
+		"reward_message": "2000 マナポイント"
+	},
+	{
+		"ID": 24,
+		"class_kind_PvpClassKind": 7,
+		"class_reward_type_PvpClassRewardTypeEnum": 3,
+		"reward_type_CommonRewardType": 15,
+		"reward_id": 0,
+		"reward_quantity": 2000,
+		"reward_message": "2000 マナポイント"
+	},
+	{
+		"ID": 25,
+		"class_kind_PvpClassKind": 8,
+		"class_reward_type_PvpClassRewardTypeEnum": 3,
+		"reward_type_CommonRewardType": 15,
+		"reward_id": 0,
+		"reward_quantity": 2000,
+		"reward_message": "2000 マナポイント"
+	},
+	{
+		"ID": 26,
+		"class_kind_PvpClassKind": 9,
+		"class_reward_type_PvpClassRewardTypeEnum": 3,
+		"reward_type_CommonRewardType": 15,
+		"reward_id": 0,
+		"reward_quantity": 2000,
+		"reward_message": "2000 マナポイント"
+	},
+	{
+		"ID": 27,
+		"class_kind_PvpClassKind": 10,
+		"class_reward_type_PvpClassRewardTypeEnum": 3,
+		"reward_type_CommonRewardType": 15,
+		"reward_id": 0,
+		"reward_quantity": 2000,
+		"reward_message": "2000 マナポイント"
+	},
+	{
+		"ID": 28,
+		"class_kind_PvpClassKind": 1,
+		"class_reward_type_PvpClassRewardTypeEnum": 2,
+		"reward_type_CommonRewardType": 15,
+		"reward_id": 0,
+		"reward_quantity": 200,
+		"reward_message": "200 マナポイント"
+	},
+	{
+		"ID": 29,
+		"class_kind_PvpClassKind": 2,
+		"class_reward_type_PvpClassRewardTypeEnum": 2,
+		"reward_type_CommonRewardType": 15,
+		"reward_id": 0,
+		"reward_quantity": 600,
+		"reward_message": "600 マナポイント"
+	},
+	{
+		"ID": 30,
+		"class_kind_PvpClassKind": 3,
+		"class_reward_type_PvpClassRewardTypeEnum": 2,
+		"reward_type_CommonRewardType": 4,
+		"reward_id": 0,
+		"reward_quantity": 4000,
+		"reward_message": "4000 ゼニー"
+	},
+	{
+		"ID": 31,
+		"class_kind_PvpClassKind": 4,
+		"class_reward_type_PvpClassRewardTypeEnum": 2,
+		"reward_type_CommonRewardType": 4,
+		"reward_id": 0,
+		"reward_quantity": 7000,
+		"reward_message": "7000 ゼニー"
+	},
+	{
+		"ID": 32,
+		"class_kind_PvpClassKind": 5,
+		"class_reward_type_PvpClassRewardTypeEnum": 2,
+		"reward_type_CommonRewardType": 4,
+		"reward_id": 0,
+		"reward_quantity": 10000,
+		"reward_message": "10000 ゼニー"
+	},
+	{
+		"ID": 33,
+		"class_kind_PvpClassKind": 6,
+		"class_reward_type_PvpClassRewardTypeEnum": 2,
+		"reward_type_CommonRewardType": 4,
+		"reward_id": 0,
+		"reward_quantity": 15000,
+		"reward_message": "15000 ゼニー"
+	},
+	{
+		"ID": 34,
+		"class_kind_PvpClassKind": 7,
+		"class_reward_type_PvpClassRewardTypeEnum": 2,
+		"reward_type_CommonRewardType": 4,
+		"reward_id": 0,
+		"reward_quantity": 20000,
+		"reward_message": "20000 ゼニー"
+	},
+	{
+		"ID": 35,
+		"class_kind_PvpClassKind": 8,
+		"class_reward_type_PvpClassRewardTypeEnum": 2,
+		"reward_type_CommonRewardType": 4,
+		"reward_id": 0,
+		"reward_quantity": 28000,
+		"reward_message": "28000 ゼニー"
+	},
+	{
+		"ID": 36,
+		"class_kind_PvpClassKind": 9,
+		"class_reward_type_PvpClassRewardTypeEnum": 2,
+		"reward_type_CommonRewardType": 4,
+		"reward_id": 0,
+		"reward_quantity": 36000,
+		"reward_message": "36000 ゼニー"
+	},
+	{
+		"ID": 37,
+		"class_kind_PvpClassKind": 10,
+		"class_reward_type_PvpClassRewardTypeEnum": 2,
+		"reward_type_CommonRewardType": 4,
+		"reward_id": 0,
+		"reward_quantity": 50000,
+		"reward_message": "50000 ゼニー"
+	},
+	{
+		"ID": 38,
+		"class_kind_PvpClassKind": 10,
+		"class_reward_type_PvpClassRewardTypeEnum": 2,
+		"reward_type_CommonRewardType": 17,
+		"reward_id": 9999,
+		"reward_quantity": 80,
+		"reward_message": "期限付きファンキルメダル80枚"
+	},
+	{
+		"ID": 39,
+		"class_kind_PvpClassKind": 10,
+		"class_reward_type_PvpClassRewardTypeEnum": 2,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 701114,
+		"reward_quantity": 1,
+		"reward_message": "体力のエネパララ"
+	},
+	{
+		"ID": 40,
+		"class_kind_PvpClassKind": 1,
+		"class_reward_type_PvpClassRewardTypeEnum": 1,
+		"reward_type_CommonRewardType": 15,
+		"reward_id": 0,
+		"reward_quantity": 600,
+		"reward_message": "600 マナポイント"
+	},
+	{
+		"ID": 41,
+		"class_kind_PvpClassKind": 2,
+		"class_reward_type_PvpClassRewardTypeEnum": 1,
+		"reward_type_CommonRewardType": 15,
+		"reward_id": 0,
+		"reward_quantity": 1000,
+		"reward_message": "1000 マナポイント"
+	},
+	{
+		"ID": 42,
+		"class_kind_PvpClassKind": 3,
+		"class_reward_type_PvpClassRewardTypeEnum": 1,
+		"reward_type_CommonRewardType": 4,
+		"reward_id": 0,
+		"reward_quantity": 5000,
+		"reward_message": "5000 ゼニー"
+	},
+	{
+		"ID": 43,
+		"class_kind_PvpClassKind": 4,
+		"class_reward_type_PvpClassRewardTypeEnum": 1,
+		"reward_type_CommonRewardType": 4,
+		"reward_id": 0,
+		"reward_quantity": 8000,
+		"reward_message": "8000 ゼニー"
+	},
+	{
+		"ID": 44,
+		"class_kind_PvpClassKind": 5,
+		"class_reward_type_PvpClassRewardTypeEnum": 1,
+		"reward_type_CommonRewardType": 4,
+		"reward_id": 0,
+		"reward_quantity": 12000,
+		"reward_message": "12000 ゼニー"
+	},
+	{
+		"ID": 45,
+		"class_kind_PvpClassKind": 6,
+		"class_reward_type_PvpClassRewardTypeEnum": 1,
+		"reward_type_CommonRewardType": 4,
+		"reward_id": 0,
+		"reward_quantity": 17000,
+		"reward_message": "17000 ゼニー"
+	},
+	{
+		"ID": 46,
+		"class_kind_PvpClassKind": 7,
+		"class_reward_type_PvpClassRewardTypeEnum": 1,
+		"reward_type_CommonRewardType": 4,
+		"reward_id": 0,
+		"reward_quantity": 23000,
+		"reward_message": "23000 ゼニー"
+	},
+	{
+		"ID": 47,
+		"class_kind_PvpClassKind": 8,
+		"class_reward_type_PvpClassRewardTypeEnum": 1,
+		"reward_type_CommonRewardType": 4,
+		"reward_id": 0,
+		"reward_quantity": 31000,
+		"reward_message": "31000 ゼニー"
+	},
+	{
+		"ID": 48,
+		"class_kind_PvpClassKind": 9,
+		"class_reward_type_PvpClassRewardTypeEnum": 1,
+		"reward_type_CommonRewardType": 4,
+		"reward_id": 0,
+		"reward_quantity": 40000,
+		"reward_message": "40000 ゼニー"
+	},
+	{
+		"ID": 49,
+		"class_kind_PvpClassKind": 8,
+		"class_reward_type_PvpClassRewardTypeEnum": 1,
+		"reward_type_CommonRewardType": 17,
+		"reward_id": 9999,
+		"reward_quantity": 60,
+		"reward_message": "期限付きファンキルメダル60枚"
+	},
+	{
+		"ID": 50,
+		"class_kind_PvpClassKind": 9,
+		"class_reward_type_PvpClassRewardTypeEnum": 1,
+		"reward_type_CommonRewardType": 17,
+		"reward_id": 9999,
+		"reward_quantity": 60,
+		"reward_message": "期限付きファンキルメダル60枚"
+	},
+	{
+		"ID": 51,
+		"class_kind_PvpClassKind": 1,
+		"class_reward_type_PvpClassRewardTypeEnum": 4,
+		"reward_type_CommonRewardType": 15,
+		"reward_id": 0,
+		"reward_quantity": 800,
+		"reward_message": "800 マナポイント"
+	},
+	{
+		"ID": 52,
+		"class_kind_PvpClassKind": 2,
+		"class_reward_type_PvpClassRewardTypeEnum": 4,
+		"reward_type_CommonRewardType": 15,
+		"reward_id": 0,
+		"reward_quantity": 1200,
+		"reward_message": "1200 マナポイント"
+	},
+	{
+		"ID": 53,
+		"class_kind_PvpClassKind": 3,
+		"class_reward_type_PvpClassRewardTypeEnum": 4,
+		"reward_type_CommonRewardType": 4,
+		"reward_id": 0,
+		"reward_quantity": 7000,
+		"reward_message": "7000 ゼニー"
+	},
+	{
+		"ID": 54,
+		"class_kind_PvpClassKind": 4,
+		"class_reward_type_PvpClassRewardTypeEnum": 4,
+		"reward_type_CommonRewardType": 4,
+		"reward_id": 0,
+		"reward_quantity": 10000,
+		"reward_message": "10000 ゼニー"
+	},
+	{
+		"ID": 55,
+		"class_kind_PvpClassKind": 5,
+		"class_reward_type_PvpClassRewardTypeEnum": 4,
+		"reward_type_CommonRewardType": 4,
+		"reward_id": 0,
+		"reward_quantity": 15000,
+		"reward_message": "15000 ゼニー"
+	},
+	{
+		"ID": 56,
+		"class_kind_PvpClassKind": 6,
+		"class_reward_type_PvpClassRewardTypeEnum": 4,
+		"reward_type_CommonRewardType": 4,
+		"reward_id": 0,
+		"reward_quantity": 20000,
+		"reward_message": "20000 ゼニー"
+	},
+	{
+		"ID": 57,
+		"class_kind_PvpClassKind": 7,
+		"class_reward_type_PvpClassRewardTypeEnum": 4,
+		"reward_type_CommonRewardType": 4,
+		"reward_id": 0,
+		"reward_quantity": 28000,
+		"reward_message": "28000 ゼニー"
+	},
+	{
+		"ID": 58,
+		"class_kind_PvpClassKind": 8,
+		"class_reward_type_PvpClassRewardTypeEnum": 4,
+		"reward_type_CommonRewardType": 4,
+		"reward_id": 0,
+		"reward_quantity": 36000,
+		"reward_message": "36000 ゼニー"
+	},
+	{
+		"ID": 59,
+		"class_kind_PvpClassKind": 9,
+		"class_reward_type_PvpClassRewardTypeEnum": 4,
+		"reward_type_CommonRewardType": 4,
+		"reward_id": 0,
+		"reward_quantity": 50000,
+		"reward_message": "50000 ゼニー"
+	},
+	{
+		"ID": 60,
+		"class_kind_PvpClassKind": 10,
+		"class_reward_type_PvpClassRewardTypeEnum": 4,
+		"reward_type_CommonRewardType": 4,
+		"reward_id": 0,
+		"reward_quantity": 77777,
+		"reward_message": "77777 ゼニー"
+	},
+	{
+		"ID": 61,
+		"class_kind_PvpClassKind": 1,
+		"class_reward_type_PvpClassRewardTypeEnum": 4,
+		"reward_type_CommonRewardType": 17,
+		"reward_id": 9999,
+		"reward_quantity": 20,
+		"reward_message": "期限付きファンキルメダル20枚"
+	},
+	{
+		"ID": 62,
+		"class_kind_PvpClassKind": 2,
+		"class_reward_type_PvpClassRewardTypeEnum": 4,
+		"reward_type_CommonRewardType": 17,
+		"reward_id": 9999,
+		"reward_quantity": 20,
+		"reward_message": "期限付きファンキルメダル20枚"
+	},
+	{
+		"ID": 63,
+		"class_kind_PvpClassKind": 3,
+		"class_reward_type_PvpClassRewardTypeEnum": 4,
+		"reward_type_CommonRewardType": 17,
+		"reward_id": 9999,
+		"reward_quantity": 20,
+		"reward_message": "期限付きファンキルメダル20枚"
+	},
+	{
+		"ID": 64,
+		"class_kind_PvpClassKind": 4,
+		"class_reward_type_PvpClassRewardTypeEnum": 4,
+		"reward_type_CommonRewardType": 17,
+		"reward_id": 9999,
+		"reward_quantity": 40,
+		"reward_message": "期限付きファンキルメダル40枚"
+	},
+	{
+		"ID": 65,
+		"class_kind_PvpClassKind": 5,
+		"class_reward_type_PvpClassRewardTypeEnum": 4,
+		"reward_type_CommonRewardType": 17,
+		"reward_id": 9999,
+		"reward_quantity": 40,
+		"reward_message": "期限付きファンキルメダル40枚"
+	},
+	{
+		"ID": 66,
+		"class_kind_PvpClassKind": 6,
+		"class_reward_type_PvpClassRewardTypeEnum": 4,
+		"reward_type_CommonRewardType": 17,
+		"reward_id": 9999,
+		"reward_quantity": 40,
+		"reward_message": "期限付きファンキルメダル40枚"
+	},
+	{
+		"ID": 67,
+		"class_kind_PvpClassKind": 7,
+		"class_reward_type_PvpClassRewardTypeEnum": 4,
+		"reward_type_CommonRewardType": 17,
+		"reward_id": 9999,
+		"reward_quantity": 60,
+		"reward_message": "期限付きファンキルメダル60枚"
+	},
+	{
+		"ID": 68,
+		"class_kind_PvpClassKind": 8,
+		"class_reward_type_PvpClassRewardTypeEnum": 4,
+		"reward_type_CommonRewardType": 17,
+		"reward_id": 9999,
+		"reward_quantity": 60,
+		"reward_message": "期限付きファンキルメダル60枚"
+	},
+	{
+		"ID": 69,
+		"class_kind_PvpClassKind": 9,
+		"class_reward_type_PvpClassRewardTypeEnum": 4,
+		"reward_type_CommonRewardType": 17,
+		"reward_id": 9999,
+		"reward_quantity": 60,
+		"reward_message": "期限付きファンキルメダル60枚"
+	},
+	{
+		"ID": 70,
+		"class_kind_PvpClassKind": 10,
+		"class_reward_type_PvpClassRewardTypeEnum": 4,
+		"reward_type_CommonRewardType": 17,
+		"reward_id": 9999,
+		"reward_quantity": 80,
+		"reward_message": "期限付きファンキルメダル80枚"
+	},
+	{
+		"ID": 71,
+		"class_kind_PvpClassKind": 8,
+		"class_reward_type_PvpClassRewardTypeEnum": 4,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 701114,
+		"reward_quantity": 1,
+		"reward_message": "体力のエネパララ"
+	},
+	{
+		"ID": 72,
+		"class_kind_PvpClassKind": 9,
+		"class_reward_type_PvpClassRewardTypeEnum": 4,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 701114,
+		"reward_quantity": 1,
+		"reward_message": "体力のエネパララ"
+	},
+	{
+		"ID": 73,
+		"class_kind_PvpClassKind": 10,
+		"class_reward_type_PvpClassRewardTypeEnum": 4,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 701114,
+		"reward_quantity": 1,
+		"reward_message": "体力のエネパララ"
+	},
+	{
+		"ID": 74,
+		"class_kind_PvpClassKind": 10,
+		"class_reward_type_PvpClassRewardTypeEnum": 4,
+		"reward_type_CommonRewardType": 1,
+		"reward_id": 701174,
+		"reward_quantity": 1,
+		"reward_message": "技のスキパララ"
+	}
+]

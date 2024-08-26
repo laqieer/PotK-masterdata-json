@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 100224,
+		"script": ";;B イラッとしてない…？(小)\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_onsen\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n@レーヴァテイン\n…なんでそう思ったの？\n\n# textflame 0 0\n@\nマスターはここに来るまで\n大事なことを伏せていたのだ\n「実は混浴です」と……\n\n# textflame 1 1\n# face %(unit_a)s \"angry\"\n# voice 1002 \"revatein_0013\"\n@レーヴァテイン\nはぁ～…\nあきれた\n\n# face %(unit_a)s \"usual\"\n@レーヴァテイン\n…ほら、あっち向いて\n\n# textflame 0 0\n@\n彼女はそっぽを向いてしまったが…\nそのまま隣りには\nいてくれるみたいだった…\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

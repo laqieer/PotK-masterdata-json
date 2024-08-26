@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 91013498,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# se \"SE_0733\"\n# face %(unit_a)s \"usual\"\n# voice 1013 \"paracelsus_0008\"\n@パラケルスス\n不正解か…\n\n# textflame 1 1\n@パラケルスス\nううむ…\n予想では正解してくれると\n思っていたんだが…\n\n# textflame 1 1\n@パラケルスス\nまあ、こういう日もあるか\n気を落としていても仕方がないな\n\n# textflame 0 0\n@\nごめん、と一言謝ることしか\nできないマスター\n\n# textflame 1 1\n@パラケルスス\n気にしないでくれ\n今回は失敗だった、というだけの話だ\n\n# textflame 1 1\n@パラケルスス\nでも…今度クイズを出す時は、\n正解してくれると…嬉しい\n\n# textflame 1 1\n@パラケルスス\nそれじゃあ、行こうか\n\n# textflame 0 0\n@\nパラケルススはそう言って\n歩き始める\n\n# textflame 0 0\n@\n今回は間違えてしまったが、\nパラケルススはまたクイズを\n出してくれると言ってくれた\n\n# textflame 0 0\n@\nその時までに彼女のことを\nもっと知って正解しようと\n心に誓うマスターであった\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

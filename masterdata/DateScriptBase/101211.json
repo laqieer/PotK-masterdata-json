@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 101211,
+		"script": ";;A ロマンチックだね\n;;B とんでもない価値だ\n;;C 行ってみたい？\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_planetarium\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 0 0\n@\nマスターはアダマスを誘って\nプラネタリウムにやってきた\n\n# face %(unit_a)s \"smile\"\n# voice 1012 \"adamasu_0004\"\n# textflame 1 1\n@アダマス\n夜空の星って…\nものすごく遠くから\n来てるんでしょ？\n\n# eye %(unit_a)s \"close\"\n# textflame 1 1\n@アダマス\nずっと辿っていけば…\nそこにあるのは惑星じゃなくて\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"normal\"\n# voice 1012 \"adamasu_0005\"\n@アダマス\nフフッ…\n大きなダイヤモンドかも\nしれないわね？\n\n# select \"ロマンチックだね\" \"select_label_01\" \"とんでもない価値だ\" \"select_label_02\" \"行ってみたい？\" \"select_label_03\"\nフフッ…\n大きなダイヤモンドかも\nしれないわね？\n\n# label \"select_label_01\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_02\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_03\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_end\"\n# waitandnext 0.1\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

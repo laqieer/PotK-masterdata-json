@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 100102033,
+		"script": ";;1章2話_3 戦闘後\n# script \"lisp\"\n# background \"101_city_night3\"\n# bgmfile \"bgm271\" \"BgmLostRagnarokEvent\" 0\n# body 3103811\n# pos 3103811 2\n# scale 3103811 0.8 0\n# body 136\n# pos 136 4\n# scale 136 0.8 0\n# alpha 136 0 0\n# body 137\n# pos 137 2\n# scale 137 0.8 0\n# alpha 137 0 0\n# layer 3103811 2\n# layer 136 3\n# layer 137 1\n# body 139\n# pos 139 4\n# scale 139 0.8 0\n# layer 139 4\n# textflame 1 1\n# textboxarrow 0 3\n# chara 139\n# voice 9967 \"titania_0002\"\n@ティターニア\n“天上の悪魔は―地上の天使となる”\nあなたも聞いたことがありますね？\n伝承の一節です\n\n# face 3103811 \"sad\"\n# textflame 1 1\n# textboxarrow 0 1\n# chara 3103811\n# voice 1038 \"almace_0027\"\n@アルマス\nもう耳にタコができるくらい\n聞かされたわよ…\n絶うんざり\n\n# alpha 136 1 0.5\n# alpha 137 1 0.5\n# alpha 139 0 0.5\n# alpha 3103811 0 0.5\n# textflame 1 1\n# textboxarrow 0 1\n# chara 137\n@ギル\n俺、聞いたことないんだけど…\n\n# face 136 \"sad\"\n# textflame 1 1\n# textboxarrow 0 3\n# chara 136\n# voice 9968 \"nadia_0029\"\n@ナディア\nギルがオベロン様のお話を\n真面目に聞いていなかったからですよ\n\n# face 137 \"surprise\"\n# textflame 1 1\n# textboxarrow 0 1\n# chara 137\n# voice 9969 \"gill_0014\"\n@ギル\nしまった…\nやぶ蛇だった…\n"
+	}
+]

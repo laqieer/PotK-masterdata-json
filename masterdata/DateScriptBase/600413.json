@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 600413,
+		"script": "# script \"lisp\"\n# fadein \"black\" 0.5\n# background %(background)s\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# voice 6004 \"kadokeusu_0003\"\n@カドケウス\nへぇ～、そうきたか～\n\n# textflame 1 1\n@カドケウス\nうん！\nいいねそれ♪\n\n# textflame 1 1\n@カドケウス\n買う楽しみも\nもらう楽しみも\n両方味わえるものね♪\n\n# textflame 1 1\n@カドケウス\nじゃあ、まずは私が\nマスターに買ってあげる♪\n\n# face %(unit_a)s \"normal\"\n# textflame 1 1\n@カドケウス\nほらほら行くよ～！\nあっちのパーティグッズ\n売ってるところ！\n\n# voice 6004 \"kadokeusu_0022\"\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@カドケウス\nえ？\nそれは自分の\n欲しいものじゃないかって？\n\n# textflame 1 1\n@カドケウス\nもう、やだな～\nそんなことないよ？\n\n# voice 6004 \"kadokeusu_0004\"\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@カドケウス\nでも、面白そうだったら\n私に貸してくれても\nいいよね～？\n\n# textflame 0 0\n@\nちゃっかりしてるな\nそう思いながらも\n\n# textflame 0 0\n@\nマスターはおとなしく\nカドケウスに腕を\n引かれるのだった\n;;--------------------------------------\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

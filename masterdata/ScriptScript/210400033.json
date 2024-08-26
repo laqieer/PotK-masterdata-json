@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 210400033,
+		"script": ";;＜バトル2＞\n# script \"lisp\"\n# background \"flower_garden\"\n# bgm \"bgm003\" 0\n# body 400711\n# pos 400711 2\n# scale 400711 0.8 0\n# alpha 400711 1 0\n# body 401711\n# pos 401711 4\n# scale 401711 0.8 0\n# alpha 401711 1 0\n# textflame 1 1\n# textwindow \"nomal\"\n# voice 4017 \"suiha_0009\"\n# textboxarrow 0 3\n@スイハ\n最近、異族がよく街道に現れるという\n噂を耳にしましたが…\n今後も警戒が必要ですね\n\n# voice 4007 \"shekina_0003\"\n# textboxarrow 0 1\n@シェキナー\n６月は結婚式が多いですからね\n参列者を狙って異族が出るんでしょう\n\n# voice 4017 \"suiha_0002\"\n# textboxarrow 0 3\n@スイハ\n６月は式が多いのですか？\n\n# voice 4007 \"shekina_0004\"\n# face 400711 \"happy\"\n# textboxarrow 0 1\n@シェキナー\n「ジューンブライド」です\n６月に結婚した花嫁は幸せになる、\nという言い伝えがあるんですよ\n\n# face 401711 \"happy\"\n# voice 4017 \"suiha_0040\"\n# textboxarrow 0 3\n@スイハ\nなるほど。それでは是非とも\nあの女性には、恋人と結婚して幸せに\nなってもらわねばなりませんね\n\n# voice 4007 \"shekina_0005\"\n# textboxarrow 0 1\n@シェキナー\nそうですね！一緒に協力して\n駆け落ちを成功させましょう！"
+	}
+]

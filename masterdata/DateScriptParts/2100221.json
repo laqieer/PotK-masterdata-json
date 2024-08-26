@@ -1,0 +1,26 @@
+[
+	{
+		"ID": 401,
+		"unitID": 2100221,
+		"scriptID": "kaerimichi",
+		"script": "…ちょっとまだ物足りないかも\nえ、意外？…いいじゃん、べつに"
+	},
+	{
+		"ID": 402,
+		"unitID": 2100221,
+		"scriptID": "kaeru_ok",
+		"script": "@%(unitName:unit_a)s\nまあ、マスターが行くって言うなら…\n一緒にいたほうが、守りやすいし…"
+	},
+	{
+		"ID": 403,
+		"unitID": 2100221,
+		"scriptID": "kaeru",
+		"script": "今日はその…ありがと…\nまた誘ってくれたら行くかも…"
+	},
+	{
+		"ID": 404,
+		"unitID": 2100221,
+		"scriptID": "kaeru_ng",
+		"script": "@%(unitName:unit_a)s\n今日はもういいかな…\nこれ以上はめんどくさい…"
+	}
+]

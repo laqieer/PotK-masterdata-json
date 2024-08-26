@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 96006298,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# se \"SE_0733\"\n# face %(unit_a)s \"sad\"\n# voice 6006 \"misutoru_0013\"\n@ミストルティン\n…不正解です\n\n# face %(unit_a)s \"normal\"\n@ミストルティン\nあぁ、いえ…\n大丈夫です…\n\n# face %(unit_a)s \"sad\"\n@ミストルティン\nやっぱり、私のことなんて\nあまり意識していないですよね…\n\n@ミストルティン\nですが…\nえっと…\n\n# voice 6006 \"misutoru_0003\"\n# face %(unit_a)s \"normal\"\n@ミストルティン\nこうして二人で\nお話できるだけでも\n少し嬉しいです\n\n@ミストルティン\nでは、帰りましょう\n\n# textflame 0 0\n@\nミストルティンが\n少しだけ寂しそうな\n表情を見せる\n\n@\n次に備えて\nもっと勉強しておこう…\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

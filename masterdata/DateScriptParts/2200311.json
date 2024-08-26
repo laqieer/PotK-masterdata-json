@@ -1,0 +1,26 @@
+[
+	{
+		"ID": 122,
+		"unitID": 2200311,
+		"scriptID": "kaerimichi",
+		"script": "うふふっ！\nラブリュスちゃんのライブは\nまだまだこれからだよ～♪"
+	},
+	{
+		"ID": 136,
+		"unitID": 2200311,
+		"scriptID": "kaeru",
+		"script": "今日のラブリュスちゃんの\nライブはここまで～！\nまた今度ね！"
+	},
+	{
+		"ID": 150,
+		"unitID": 2200311,
+		"scriptID": "kaeru_ok",
+		"script": "@%(unitName:unit_a)s\nもっちろーん！\nラブリュスちゃんは\nマスターと一緒ならどこにでも〜！"
+	},
+	{
+		"ID": 164,
+		"unitID": 2200311,
+		"scriptID": "kaeru_ng",
+		"script": "@%(unitName:unit_a)s\nごめんねー\nラブリュスちゃんはそろそろ、\nお色直しの時間だから…"
+	}
+]

@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 100203031,
+		"script": ";;第３話　タイトル：首都への道程\n;;//背景：森（夜）\n# script \"lisp\"\n# background \"forest_totaleclipse\"\n# bgmfile \"bgm270\" \"BgmLostRagnarokEvent\" 0\n# body 139\n# pos 139 4\n# scale 139 0.8 0\n# body 3103811\n# pos 3103811 2\n# scale 3103811 0.8 0\n# layer 3103811 2\n# textflame 1 1\n# textboxarrow 0 1\n# chara 3103811\n@アルマス\n明日の昼には、\nまた町に辿り着くわね\n\n# textflame 1 1\n# textboxarrow 0 1\n# chara 3103811\n@アルマス\nそこを越えれば\n首都グライヒハイトまで\n半日もかからない\n\n# face 3103811 \"worry\"\n# textflame 1 1\n# textboxarrow 0 1\n# chara 3103811\n@アルマス\n待っていてナディア！\n必ず助け出すからっ\n\n# voice 9967 \"titania_0042\"\n# face 139 \"sad\"\n# textflame 1 1\n# textboxarrow 0 3\n# chara 139\n@ティターニア\nここまでは順調でしたけれど、\nさすがに首都の警備は厳しいでしょう\n変装もバレる恐れがあります\n\n# voice 1038 \"almace_0007\"\n# face 3103811 \"angry\"\n# textflame 1 1\n# textboxarrow 0 1\n# chara 3103811\n@アルマス\nそのときは正面突破よ！\n私が道を切り拓くわ！\n\n# textflame 1 1\n# textboxarrow 0 3\n# chara 139\n@ティターニア\nそのような無茶ばかり言って…\nもう少し作戦を練りましょう\n"
+	}
+]

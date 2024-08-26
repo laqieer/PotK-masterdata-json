@@ -1,0 +1,302 @@
+[
+	{
+		"ID": 5166,
+		"unitID": 2303211,
+		"questionID": 9303201,
+		"script": ";;槍,3\n# face %(unit_a)s \"normal\"\n# voice 230321 \"gaedearg_ge_0004\"\n# textflame 1 1\n@ガ・ジャルグ\nやっぱり完璧ね\n\n@ガ・ジャルグ\nこのスタイル、美しい髪\nどれをとってもパーフェクト\n\n# textflame 0 0\n@\nいきなり自画自賛を始める彼女\n\n# face %(unit_a)s \"angry\"\n# voice 230321 \"gaedearg_ge_0013\"\n# textflame 1 1\n@ガ・ジャルグ\nそれに比べて、\n今日あなたが用意したデートは\n完璧とは言い難いわね\n\n@ガ・ジャルグ\nでも、いいわ\n\n@ガ・ジャルグ\n今から、わたしが出す\n問題に答えられたら、\n\n@ガ・ジャルグ\n今日一日は、\nパーフェクトだったってことに\nしてあげる\n\n@ガ・ジャルグ\nいい？いくわよ\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしの武器属性は分かる？　\n\n# se \"SE_0734\"\n# select \"銃\" \"select_label_1\" \"剣\" \"select_label_2\" \"槍\" \"select_label_3\"\nわたしの武器属性は分かる？　\n"
+	},
+	{
+		"ID": 5167,
+		"unitID": 2303211,
+		"questionID": 9303202,
+		"script": ";;イーリス,3\n# face %(unit_a)s \"normal\"\n# voice 230321 \"gaedearg_ge_0004\"\n# textflame 1 1\n@ガ・ジャルグ\nやっぱり完璧ね\n\n@ガ・ジャルグ\nこのスタイル、美しい髪\nどれをとってもパーフェクト\n\n# textflame 0 0\n@\nいきなり自画自賛を始める彼女\n\n# face %(unit_a)s \"angry\"\n# voice 230321 \"gaedearg_ge_0013\"\n# textflame 1 1\n@ガ・ジャルグ\nそれに比べて、\n今日あなたが用意したデートは\n完璧とは言い難いわね\n\n@ガ・ジャルグ\nでも、いいわ\n\n@ガ・ジャルグ\n今から、わたしが出す\n問題に答えられたら、\n\n@ガ・ジャルグ\n今日一日は、\nパーフェクトだったってことに\nしてあげる\n\n@ガ・ジャルグ\nいい？いくわよ\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしに獣刻された女神はわかる？\n\n# se \"SE_0734\"\n# select \"アーリス\" \"select_label_1\" \"ウーリス\" \"select_label_2\" \"イーリス\" \"select_label_3\"\nわたしに獣刻された女神はわかる？\n"
+	},
+	{
+		"ID": 5168,
+		"unitID": 2303211,
+		"questionID": 9303203,
+		"script": ";;ケルト神話,3\n# face %(unit_a)s \"normal\"\n# voice 230321 \"gaedearg_ge_0004\"\n# textflame 1 1\n@ガ・ジャルグ\nやっぱり完璧ね\n\n@ガ・ジャルグ\nこのスタイル、美しい髪\nどれをとってもパーフェクト\n\n# textflame 0 0\n@\nいきなり自画自賛を始める彼女\n\n# face %(unit_a)s \"angry\"\n# voice 230321 \"gaedearg_ge_0013\"\n# textflame 1 1\n@ガ・ジャルグ\nそれに比べて、\n今日あなたが用意したデートは\n完璧とは言い難いわね\n\n@ガ・ジャルグ\nでも、いいわ\n\n@ガ・ジャルグ\n今から、わたしが出す\n問題に答えられたら、\n\n@ガ・ジャルグ\n今日一日は、\nパーフェクトだったってことに\nしてあげる\n\n@ガ・ジャルグ\nいい？いくわよ\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしのキラーズ、『ガ・ジャルグ』は\nどんな伝承に登場する？\n\n# se \"SE_0734\"\n# select \"ギリシャ神話\" \"select_label_1\" \"インド神話\" \"select_label_2\" \"ケルト神話\" \"select_label_3\"\nわたしのキラーズ、『ガ・ジャルグ』は\nどんな伝承に登場する？\n"
+	},
+	{
+		"ID": 5169,
+		"unitID": 2303211,
+		"questionID": 9303204,
+		"script": ";;魔槍,2\n# face %(unit_a)s \"normal\"\n# voice 230321 \"gaedearg_ge_0004\"\n# textflame 1 1\n@ガ・ジャルグ\nやっぱり完璧ね\n\n@ガ・ジャルグ\nこのスタイル、美しい髪\nどれをとってもパーフェクト\n\n# textflame 0 0\n@\nいきなり自画自賛を始める彼女\n\n# face %(unit_a)s \"angry\"\n# voice 230321 \"gaedearg_ge_0013\"\n# textflame 1 1\n@ガ・ジャルグ\nそれに比べて、\n今日あなたが用意したデートは\n完璧とは言い難いわね\n\n@ガ・ジャルグ\nでも、いいわ\n\n@ガ・ジャルグ\n今から、わたしが出す\n問題に答えられたら、\n\n@ガ・ジャルグ\n今日一日は、\nパーフェクトだったってことに\nしてあげる\n\n@ガ・ジャルグ\nいい？いくわよ\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしのキラーズ『ガ・ジャルグ』は\nどんな槍？\n\n# se \"SE_0734\"\n# select \"聖槍\" \"select_label_1\" \"魔槍\" \"select_label_2\" \"獣槍\" \"select_label_3\"\nわたしのキラーズ『ガ・ジャルグ』は\nどんな槍？\n"
+	},
+	{
+		"ID": 5170,
+		"unitID": 2303211,
+		"questionID": 9303205,
+		"script": ";;魔を祓う,2\n# face %(unit_a)s \"normal\"\n# voice 230321 \"gaedearg_ge_0004\"\n# textflame 1 1\n@ガ・ジャルグ\nやっぱり完璧ね\n\n@ガ・ジャルグ\nこのスタイル、美しい髪\nどれをとってもパーフェクト\n\n# textflame 0 0\n@\nいきなり自画自賛を始める彼女\n\n# face %(unit_a)s \"angry\"\n# voice 230321 \"gaedearg_ge_0013\"\n# textflame 1 1\n@ガ・ジャルグ\nそれに比べて、\n今日あなたが用意したデートは\n完璧とは言い難いわね\n\n@ガ・ジャルグ\nでも、いいわ\n\n@ガ・ジャルグ\n今から、わたしが出す\n問題に答えられたら、\n\n@ガ・ジャルグ\n今日一日は、\nパーフェクトだったってことに\nしてあげる\n\n@ガ・ジャルグ\nいい？いくわよ\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしのキラーズ『ガ・ジャルグ』は\nどんな槍と云われている？\n\n# se \"SE_0734\"\n# select \"霊を祓う\" \"select_label_1\" \"魔を祓う\" \"select_label_2\" \"金を払う\" \"select_label_3\"\nわたしのキラーズ『ガ・ジャルグ』は\nどんな槍と云われている？\n"
+	},
+	{
+		"ID": 5171,
+		"unitID": 2303211,
+		"questionID": 9303206,
+		"script": ";;虹の女神,2\n# face %(unit_a)s \"normal\"\n# voice 230321 \"gaedearg_ge_0004\"\n# textflame 1 1\n@ガ・ジャルグ\nやっぱり完璧ね\n\n@ガ・ジャルグ\nこのスタイル、美しい髪\nどれをとってもパーフェクト\n\n# textflame 0 0\n@\nいきなり自画自賛を始める彼女\n\n# face %(unit_a)s \"angry\"\n# voice 230321 \"gaedearg_ge_0013\"\n# textflame 1 1\n@ガ・ジャルグ\nそれに比べて、\n今日あなたが用意したデートは\n完璧とは言い難いわね\n\n@ガ・ジャルグ\nでも、いいわ\n\n@ガ・ジャルグ\n今から、わたしが出す\n問題に答えられたら、\n\n@ガ・ジャルグ\n今日一日は、\nパーフェクトだったってことに\nしてあげる\n\n@ガ・ジャルグ\nいい？いくわよ\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしに獣刻された女神イーリスは\nどんな女神？\n\n# se \"SE_0734\"\n# select \"花の女神\" \"select_label_1\" \"虹の女神\" \"select_label_2\" \"自由の女神\" \"select_label_3\"\nわたしに獣刻された女神イーリスは\nどんな女神？\n"
+	},
+	{
+		"ID": 5172,
+		"unitID": 2303211,
+		"questionID": 9303207,
+		"script": ";;ガ・ボー,1\n# face %(unit_a)s \"normal\"\n# voice 230321 \"gaedearg_ge_0004\"\n# textflame 1 1\n@ガ・ジャルグ\nやっぱり完璧ね\n\n@ガ・ジャルグ\nこのスタイル、美しい髪\nどれをとってもパーフェクト\n\n# textflame 0 0\n@\nいきなり自画自賛を始める彼女\n\n# face %(unit_a)s \"angry\"\n# voice 230321 \"gaedearg_ge_0013\"\n# textflame 1 1\n@ガ・ジャルグ\nそれに比べて、\n今日あなたが用意したデートは\n完璧とは言い難いわね\n\n@ガ・ジャルグ\nでも、いいわ\n\n@ガ・ジャルグ\n今から、わたしが出す\n問題に答えられたら、\n\n@ガ・ジャルグ\n今日一日は、\nパーフェクトだったってことに\nしてあげる\n\n@ガ・ジャルグ\nいい？いくわよ\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしのキラーズ『ガ・ジャルグ』の\n半身といえば？\n\n# se \"SE_0734\"\n# select \"ガ・ボー\" \"select_label_1\" \"ゲ・ボー\" \"select_label_2\" \"ゴ・ボー\" \"select_label_3\"\nわたしのキラーズ『ガ・ジャルグ』の\n半身といえば？\n"
+	},
+	{
+		"ID": 5173,
+		"unitID": 2303211,
+		"questionID": 9303208,
+		"script": ";;半人半鳥の美しい女神,2\n# face %(unit_a)s \"normal\"\n# voice 230321 \"gaedearg_ge_0004\"\n# textflame 1 1\n@ガ・ジャルグ\nやっぱり完璧ね\n\n@ガ・ジャルグ\nこのスタイル、美しい髪\nどれをとってもパーフェクト\n\n# textflame 0 0\n@\nいきなり自画自賛を始める彼女\n\n# face %(unit_a)s \"angry\"\n# voice 230321 \"gaedearg_ge_0013\"\n# textflame 1 1\n@ガ・ジャルグ\nそれに比べて、\n今日あなたが用意したデートは\n完璧とは言い難いわね\n\n@ガ・ジャルグ\nでも、いいわ\n\n@ガ・ジャルグ\n今から、わたしが出す\n問題に答えられたら、\n\n@ガ・ジャルグ\n今日一日は、\nパーフェクトだったってことに\nしてあげる\n\n@ガ・ジャルグ\nいい？いくわよ\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしに獣刻された女神イーリスは\nどんな女神？\n\n# se \"SE_0734\"\n# select \"半人半魚の美しい女神\" \"select_label_1\" \"半人半鳥の美しい女神\" \"select_label_2\" \"半人半妖の美しい女神\" \"select_label_3\"\nわたしに獣刻された女神イーリスは\nどんな女神？\n"
+	},
+	{
+		"ID": 5174,
+		"unitID": 2303211,
+		"questionID": 9303209,
+		"script": ";;魔術を切り裂く,2\n# face %(unit_a)s \"normal\"\n# voice 230321 \"gaedearg_ge_0004\"\n# textflame 1 1\n@ガ・ジャルグ\nやっぱり完璧ね\n\n@ガ・ジャルグ\nこのスタイル、美しい髪\nどれをとってもパーフェクト\n\n# textflame 0 0\n@\nいきなり自画自賛を始める彼女\n\n# face %(unit_a)s \"angry\"\n# voice 230321 \"gaedearg_ge_0013\"\n# textflame 1 1\n@ガ・ジャルグ\nそれに比べて、\n今日あなたが用意したデートは\n完璧とは言い難いわね\n\n@ガ・ジャルグ\nでも、いいわ\n\n@ガ・ジャルグ\n今から、わたしが出す\n問題に答えられたら、\n\n@ガ・ジャルグ\n今日一日は、\nパーフェクトだったってことに\nしてあげる\n\n@ガ・ジャルグ\nいい？いくわよ\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしのキラーズ『ガ・ジャルグ』は\nどんな事ができる槍と云われている？\n\n# se \"SE_0734\"\n# select \"天を切り裂く\" \"select_label_1\" \"魔術を切り裂く\" \"select_label_2\" \"空気を切り裂く\" \"select_label_3\"\nわたしのキラーズ『ガ・ジャルグ』は\nどんな事ができる槍と云われている？\n"
+	},
+	{
+		"ID": 5175,
+		"unitID": 2303211,
+		"questionID": 9303210,
+		"script": ";;ハーピー,3\n# face %(unit_a)s \"normal\"\n# voice 230321 \"gaedearg_ge_0004\"\n# textflame 1 1\n@ガ・ジャルグ\nやっぱり完璧ね\n\n@ガ・ジャルグ\nこのスタイル、美しい髪\nどれをとってもパーフェクト\n\n# textflame 0 0\n@\nいきなり自画自賛を始める彼女\n\n# face %(unit_a)s \"angry\"\n# voice 230321 \"gaedearg_ge_0013\"\n# textflame 1 1\n@ガ・ジャルグ\nそれに比べて、\n今日あなたが用意したデートは\n完璧とは言い難いわね\n\n@ガ・ジャルグ\nでも、いいわ\n\n@ガ・ジャルグ\n今から、わたしが出す\n問題に答えられたら、\n\n@ガ・ジャルグ\n今日一日は、\nパーフェクトだったってことに\nしてあげる\n\n@ガ・ジャルグ\nいい？いくわよ\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしに獣刻された女神イーリスの\n妹はだれかわかる？\n\n# se \"SE_0734\"\n# select \"バービー　\" \"select_label_1\" \"バンビ―\" \"select_label_2\" \"ハーピー\" \"select_label_3\"\nわたしに獣刻された女神イーリスの\n妹はだれかわかる？\n"
+	},
+	{
+		"ID": 5176,
+		"unitID": 2303211,
+		"questionID": 9303211,
+		"script": ";;雷,1\n# face %(unit_a)s \"normal\"\n# voice 230321 \"gaedearg_ge_0004\"\n# textflame 1 1\n@ガ・ジャルグ\n今日の太陽も、\n美しい輝きを\n放っていたわね\n\n@ガ・ジャルグ\nでも勿論、\nわたしの輝きも\n負けてないわ\n\n@ガ・ジャルグ\nこの七色の輝きは、\nわたしが\n至高の存在であることの証\n\n@ガ・ジャルグ\nマスター、あなたにも\nそんな輝きはあるのかしら？\n\n@ガ・ジャルグ\nこのわたしが、\n見極めてあげるわ\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしの属性はしってる？\n\n# se \"SE_0734\"\n# select \"雷\" \"select_label_1\" \"風\" \"select_label_2\" \"炎\" \"select_label_3\"\nわたしの属性はしってる？\n"
+	},
+	{
+		"ID": 5177,
+		"unitID": 2303211,
+		"questionID": 9303212,
+		"script": ";;160cm ,3\n# face %(unit_a)s \"normal\"\n# voice 230321 \"gaedearg_ge_0004\"\n# textflame 1 1\n@ガ・ジャルグ\n今日の太陽も、\n美しい輝きを\n放っていたわね\n\n@ガ・ジャルグ\nでも勿論、\nわたしの輝きも\n負けてないわ\n\n@ガ・ジャルグ\nこの七色の輝きは、\nわたしが\n至高の存在であることの証\n\n@ガ・ジャルグ\nマスター、あなたにも\nそんな輝きはあるのかしら？\n\n@ガ・ジャルグ\nこのわたしが、\n見極めてあげるわ\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしの身長は\n何センチかわかる？\n\n# se \"SE_0734\"\n# select \"165cm\" \"select_label_1\" \"170cm\" \"select_label_2\" \"160cm \" \"select_label_3\"\nわたしの身長は\n何センチかわかる？\n"
+	},
+	{
+		"ID": 5178,
+		"unitID": 2303211,
+		"questionID": 9303213,
+		"script": ";;2月4日,1\n# face %(unit_a)s \"normal\"\n# voice 230321 \"gaedearg_ge_0004\"\n# textflame 1 1\n@ガ・ジャルグ\n今日の太陽も、\n美しい輝きを\n放っていたわね\n\n@ガ・ジャルグ\nでも勿論、\nわたしの輝きも\n負けてないわ\n\n@ガ・ジャルグ\nこの七色の輝きは、\nわたしが\n至高の存在であることの証\n\n@ガ・ジャルグ\nマスター、あなたにも\nそんな輝きはあるのかしら？\n\n@ガ・ジャルグ\nこのわたしが、\n見極めてあげるわ\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしの誕生日はしってる？\n\n# se \"SE_0734\"\n# select \"2月4日\" \"select_label_1\" \"5月4日\" \"select_label_2\" \"12月4日\" \"select_label_3\"\nわたしの誕生日はしってる？\n"
+	},
+	{
+		"ID": 5179,
+		"unitID": 2303211,
+		"questionID": 9303214,
+		"script": ";;みずがめ座,2\n# face %(unit_a)s \"normal\"\n# voice 230321 \"gaedearg_ge_0004\"\n# textflame 1 1\n@ガ・ジャルグ\n今日の太陽も、\n美しい輝きを\n放っていたわね\n\n@ガ・ジャルグ\nでも勿論、\nわたしの輝きも\n負けてないわ\n\n@ガ・ジャルグ\nこの七色の輝きは、\nわたしが\n至高の存在であることの証\n\n@ガ・ジャルグ\nマスター、あなたにも\nそんな輝きはあるのかしら？\n\n@ガ・ジャルグ\nこのわたしが、\n見極めてあげるわ\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしの星座はしってる？\n\n# se \"SE_0734\"\n# select \"いて座\" \"select_label_1\" \"みずがめ座\" \"select_label_2\" \"かに座\" \"select_label_3\"\nわたしの星座はしってる？\n"
+	},
+	{
+		"ID": 5180,
+		"unitID": 2303211,
+		"questionID": 9303215,
+		"script": ";;自分の実力を褒めてもらうこと,2\n# face %(unit_a)s \"normal\"\n# voice 230321 \"gaedearg_ge_0004\"\n# textflame 1 1\n@ガ・ジャルグ\n今日の太陽も、\n美しい輝きを\n放っていたわね\n\n@ガ・ジャルグ\nでも勿論、\nわたしの輝きも\n負けてないわ\n\n@ガ・ジャルグ\nこの七色の輝きは、\nわたしが\n至高の存在であることの証\n\n@ガ・ジャルグ\nマスター、あなたにも\nそんな輝きはあるのかしら？\n\n@ガ・ジャルグ\nこのわたしが、\n見極めてあげるわ\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしの好きなことはわかる？\n\n# se \"SE_0734\"\n# select \"自分のルックスを褒めてもらうこと\" \"select_label_1\" \"自分の実力を褒めてもらうこと\" \"select_label_2\" \"自分の匂いを褒めてもらうこと\" \"select_label_3\"\nわたしの好きなことはわかる？\n"
+	},
+	{
+		"ID": 5181,
+		"unitID": 2303211,
+		"questionID": 9303216,
+		"script": ";;妹の観察,3\n# face %(unit_a)s \"normal\"\n# voice 230321 \"gaedearg_ge_0004\"\n# textflame 1 1\n@ガ・ジャルグ\n今日の太陽も、\n美しい輝きを\n放っていたわね\n\n@ガ・ジャルグ\nでも勿論、\nわたしの輝きも\n負けてないわ\n\n@ガ・ジャルグ\nこの七色の輝きは、\nわたしが\n至高の存在であることの証\n\n@ガ・ジャルグ\nマスター、あなたにも\nそんな輝きはあるのかしら？\n\n@ガ・ジャルグ\nこのわたしが、\n見極めてあげるわ\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしの趣味はわかるかしら？\n\n# se \"SE_0734\"\n# select \"兄の観察\" \"select_label_1\" \"父の観察\" \"select_label_2\" \"妹の観察\" \"select_label_3\"\nわたしの趣味はわかるかしら？\n"
+	},
+	{
+		"ID": 5182,
+		"unitID": 2303211,
+		"questionID": 9303217,
+		"script": ";;Ａ型,2\n# face %(unit_a)s \"normal\"\n# voice 230321 \"gaedearg_ge_0004\"\n# textflame 1 1\n@ガ・ジャルグ\n今日の太陽も、\n美しい輝きを\n放っていたわね\n\n@ガ・ジャルグ\nでも勿論、\nわたしの輝きも\n負けてないわ\n\n@ガ・ジャルグ\nこの七色の輝きは、\nわたしが\n至高の存在であることの証\n\n@ガ・ジャルグ\nマスター、あなたにも\nそんな輝きはあるのかしら？\n\n@ガ・ジャルグ\nこのわたしが、\n見極めてあげるわ\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしの血液型は知っているかしら？\n\n# se \"SE_0734\"\n# select \"Ｏ型\" \"select_label_1\" \"Ａ型\" \"select_label_2\" \"Ｂ型\" \"select_label_3\"\nわたしの血液型は知っているかしら？\n"
+	},
+	{
+		"ID": 5183,
+		"unitID": 2303211,
+		"questionID": 9303218,
+		"script": ";;ティル・ナ・ノーグ,2\n# face %(unit_a)s \"normal\"\n# voice 230321 \"gaedearg_ge_0004\"\n# textflame 1 1\n@ガ・ジャルグ\n今日の太陽も、\n美しい輝きを\n放っていたわね\n\n@ガ・ジャルグ\nでも勿論、\nわたしの輝きも\n負けてないわ\n\n@ガ・ジャルグ\nこの七色の輝きは、\nわたしが\n至高の存在であることの証\n\n@ガ・ジャルグ\nマスター、あなたにも\nそんな輝きはあるのかしら？\n\n@ガ・ジャルグ\nこのわたしが、\n見極めてあげるわ\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしの出身地はわかる？\n\n# se \"SE_0734\"\n# select \"ラ・マ・ヒストラル\" \"select_label_1\" \"ティル・ナ・ノーグ\" \"select_label_2\" \"ウラカン・ラナ\" \"select_label_3\"\nわたしの出身地はわかる？\n"
+	},
+	{
+		"ID": 5184,
+		"unitID": 2303211,
+		"questionID": 9303219,
+		"script": ";;ガ・ボー,1\n# face %(unit_a)s \"normal\"\n# voice 230321 \"gaedearg_ge_0004\"\n# textflame 1 1\n@ガ・ジャルグ\n今日の太陽も、\n美しい輝きを\n放っていたわね\n\n@ガ・ジャルグ\nでも勿論、\nわたしの輝きも\n負けてないわ\n\n@ガ・ジャルグ\nこの七色の輝きは、\nわたしが\n至高の存在であることの証\n\n@ガ・ジャルグ\nマスター、あなたにも\nそんな輝きはあるのかしら？\n\n@ガ・ジャルグ\nこのわたしが、\n見極めてあげるわ\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の妹の名前はわかるかしら？\n\n# se \"SE_0734\"\n# select \"ガ・ボー\" \"select_label_1\" \"ダンボ\" \"select_label_2\" \"ランボー\" \"select_label_3\"\n私の妹の名前はわかるかしら？\n"
+	},
+	{
+		"ID": 5185,
+		"unitID": 2303211,
+		"questionID": 9303220,
+		"script": ";;シスコン,3\n# face %(unit_a)s \"normal\"\n# voice 230321 \"gaedearg_ge_0004\"\n# textflame 1 1\n@ガ・ジャルグ\n今日の太陽も、\n美しい輝きを\n放っていたわね\n\n@ガ・ジャルグ\nでも勿論、\nわたしの輝きも\n負けてないわ\n\n@ガ・ジャルグ\nこの七色の輝きは、\nわたしが\n至高の存在であることの証\n\n@ガ・ジャルグ\nマスター、あなたにも\nそんな輝きはあるのかしら？\n\n@ガ・ジャルグ\nこのわたしが、\n見極めてあげるわ\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしはこんな風に\n云われることもあるわね\n\n# se \"SE_0734\"\n# select \"ブラコン\" \"select_label_1\" \"ファザコン\" \"select_label_2\" \"シスコン\" \"select_label_3\"\nわたしはこんな風に\n云われることもあるわね\n"
+	},
+	{
+		"ID": 5186,
+		"unitID": 2303211,
+		"questionID": 9303221,
+		"script": ";;雷虹翼の修練,1\n# face %(unit_a)s \"usual\"\n# voice 230321 \"gaedearg_ge_0002\"\n# textflame 1 1\n@ガ・ジャルグ\n一つ、聞きたいの\n\n@ガ・ジャルグ\nあの子のことも…\n妹も、こんな風に\n誘っているの…？\n\n# textflame 0 0\n@\nえ？なんのこと？\n聞き返すマスター\n\n# voice 230321 \"gaedearg_ge_0028\"\n# textflame 1 1\n@ガ・ジャルグ\nいえ、なんでもないわ\n\n# face %(unit_a)s \"angry\"\n@ガ・ジャルグ\nそ、それより！\n今からクイズを出すから！\n\n@ガ・ジャルグ\nわたしのことを\nどれだけ理解できているか\n試させてもらうわ！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしのおぼえるリーダースキルは\n何かしってるわよね？\n\n# se \"SE_0734\"\n# select \"雷虹翼の修練\" \"select_label_1\" \"雷虹翼の朝練\" \"select_label_2\" \"雷虹翼の訓練\" \"select_label_3\"\nわたしのおぼえるリーダースキルは\n何かしってるわよね？\n"
+	},
+	{
+		"ID": 5187,
+		"unitID": 2303211,
+		"questionID": 9303222,
+		"script": ";;獣牙惨翼,2\n# face %(unit_a)s \"usual\"\n# voice 230321 \"gaedearg_ge_0002\"\n# textflame 1 1\n@ガ・ジャルグ\n一つ、聞きたいの\n\n@ガ・ジャルグ\nあの子のことも…\n妹も、こんな風に\n誘っているの…？\n\n# textflame 0 0\n@\nえ？なんのこと？\n聞き返すマスター\n\n# voice 230321 \"gaedearg_ge_0028\"\n# textflame 1 1\n@ガ・ジャルグ\nいえ、なんでもないわ\n\n# face %(unit_a)s \"angry\"\n@ガ・ジャルグ\nそ、それより！\n今からクイズを出すから！\n\n@ガ・ジャルグ\nわたしのことを\nどれだけ理解できているか\n試させてもらうわ！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしのおぼえるスキルは\nしってるわよね？\n\n# se \"SE_0734\"\n# select \"狼牙惨翼\" \"select_label_1\" \"獣牙惨翼\" \"select_label_2\" \"龍牙惨翼\" \"select_label_3\"\nわたしのおぼえるスキルは\nしってるわよね？\n"
+	},
+	{
+		"ID": 5188,
+		"unitID": 2303211,
+		"questionID": 9303223,
+		"script": ";;雷虹翼の奮励,1\n# face %(unit_a)s \"usual\"\n# voice 230321 \"gaedearg_ge_0002\"\n# textflame 1 1\n@ガ・ジャルグ\n一つ、聞きたいの\n\n@ガ・ジャルグ\nあの子のことも…\n妹も、こんな風に\n誘っているの…？\n\n# textflame 0 0\n@\nえ？なんのこと？\n聞き返すマスター\n\n# voice 230321 \"gaedearg_ge_0028\"\n# textflame 1 1\n@ガ・ジャルグ\nいえ、なんでもないわ\n\n# face %(unit_a)s \"angry\"\n@ガ・ジャルグ\nそ、それより！\n今からクイズを出すから！\n\n@ガ・ジャルグ\nわたしのことを\nどれだけ理解できているか\n試させてもらうわ！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしの☆６の\nリーダースキルはしってる？\n\n# se \"SE_0734\"\n# select \"雷虹翼の奮励\" \"select_label_1\" \"雷虹翼の憤慨\" \"select_label_2\" \"雷虹翼の紛失\" \"select_label_3\"\nわたしの☆６の\nリーダースキルはしってる？\n"
+	},
+	{
+		"ID": 5189,
+		"unitID": 2303211,
+		"questionID": 9303224,
+		"script": ";;虹輝連鎖,2\n# face %(unit_a)s \"usual\"\n# voice 230321 \"gaedearg_ge_0002\"\n# textflame 1 1\n@ガ・ジャルグ\n一つ、聞きたいの\n\n@ガ・ジャルグ\nあの子のことも…\n妹も、こんな風に\n誘っているの…？\n\n# textflame 0 0\n@\nえ？なんのこと？\n聞き返すマスター\n\n# voice 230321 \"gaedearg_ge_0028\"\n# textflame 1 1\n@ガ・ジャルグ\nいえ、なんでもないわ\n\n# face %(unit_a)s \"angry\"\n@ガ・ジャルグ\nそ、それより！\n今からクイズを出すから！\n\n@ガ・ジャルグ\nわたしのことを\nどれだけ理解できているか\n試させてもらうわ！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしがおぼえる\n付与スキルってわかるわね？\n\n# se \"SE_0734\"\n# select \"火輝連鎖\" \"select_label_1\" \"虹輝連鎖\" \"select_label_2\" \"水輝連鎖\" \"select_label_3\"\nわたしがおぼえる\n付与スキルってわかるわね？\n"
+	},
+	{
+		"ID": 5190,
+		"unitID": 2303211,
+		"questionID": 9303225,
+		"script": ";;虹輝の衣,3\n# face %(unit_a)s \"usual\"\n# voice 230321 \"gaedearg_ge_0002\"\n# textflame 1 1\n@ガ・ジャルグ\n一つ、聞きたいの\n\n@ガ・ジャルグ\nあの子のことも…\n妹も、こんな風に\n誘っているの…？\n\n# textflame 0 0\n@\nえ？なんのこと？\n聞き返すマスター\n\n# voice 230321 \"gaedearg_ge_0028\"\n# textflame 1 1\n@ガ・ジャルグ\nいえ、なんでもないわ\n\n# face %(unit_a)s \"angry\"\n@ガ・ジャルグ\nそ、それより！\n今からクイズを出すから！\n\n@ガ・ジャルグ\nわたしのことを\nどれだけ理解できているか\n試させてもらうわ！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしがおぼえる\n付与スキルってわかる？\n\n# se \"SE_0734\"\n# select \"虹輝の着物\" \"select_label_1\" \"虹輝の装束\" \"select_label_2\" \"虹輝の衣\" \"select_label_3\"\nわたしがおぼえる\n付与スキルってわかる？\n"
+	},
+	{
+		"ID": 5191,
+		"unitID": 2303211,
+		"questionID": 9303226,
+		"script": ";;七彩の強襲,3\n# face %(unit_a)s \"usual\"\n# voice 230321 \"gaedearg_ge_0002\"\n# textflame 1 1\n@ガ・ジャルグ\n一つ、聞きたいの\n\n@ガ・ジャルグ\nあの子のことも…\n妹も、こんな風に\n誘っているの…？\n\n# textflame 0 0\n@\nえ？なんのこと？\n聞き返すマスター\n\n# voice 230321 \"gaedearg_ge_0028\"\n# textflame 1 1\n@ガ・ジャルグ\nいえ、なんでもないわ\n\n# face %(unit_a)s \"angry\"\n@ガ・ジャルグ\nそ、それより！\n今からクイズを出すから！\n\n@ガ・ジャルグ\nわたしのことを\nどれだけ理解できているか\n試させてもらうわ！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしのおぼえる\nデュエルスキルはしってる？\n\n# se \"SE_0734\"\n# select \"七彩の教師\" \"select_label_1\" \"七彩の郷愁\" \"select_label_2\" \"七彩の強襲\" \"select_label_3\"\nわたしのおぼえる\nデュエルスキルはしってる？\n"
+	},
+	{
+		"ID": 5192,
+		"unitID": 2303211,
+		"questionID": 9303227,
+		"script": ";;地を照らす虹輝,2\n# face %(unit_a)s \"usual\"\n# voice 230321 \"gaedearg_ge_0002\"\n# textflame 1 1\n@ガ・ジャルグ\n一つ、聞きたいの\n\n@ガ・ジャルグ\nあの子のことも…\n妹も、こんな風に\n誘っているの…？\n\n# textflame 0 0\n@\nえ？なんのこと？\n聞き返すマスター\n\n# voice 230321 \"gaedearg_ge_0028\"\n# textflame 1 1\n@ガ・ジャルグ\nいえ、なんでもないわ\n\n# face %(unit_a)s \"angry\"\n@ガ・ジャルグ\nそ、それより！\n今からクイズを出すから！\n\n@ガ・ジャルグ\nわたしのことを\nどれだけ理解できているか\n試させてもらうわ！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしのおぼえる\nコマンドスキルはしってる？\n\n# se \"SE_0734\"\n# select \"頭を照らす虹輝\" \"select_label_1\" \"地を照らす虹輝\" \"select_label_2\" \"空を照らす虹輝\" \"select_label_3\"\nわたしのおぼえる\nコマンドスキルはしってる？\n"
+	},
+	{
+		"ID": 5193,
+		"unitID": 2303211,
+		"questionID": 9303228,
+		"script": ";;獣血『至虹の双翼』,2\n# face %(unit_a)s \"usual\"\n# voice 230321 \"gaedearg_ge_0002\"\n# textflame 1 1\n@ガ・ジャルグ\n一つ、聞きたいの\n\n@ガ・ジャルグ\nあの子のことも…\n妹も、こんな風に\n誘っているの…？\n\n# textflame 0 0\n@\nえ？なんのこと？\n聞き返すマスター\n\n# voice 230321 \"gaedearg_ge_0028\"\n# textflame 1 1\n@ガ・ジャルグ\nいえ、なんでもないわ\n\n# face %(unit_a)s \"angry\"\n@ガ・ジャルグ\nそ、それより！\n今からクイズを出すから！\n\n@ガ・ジャルグ\nわたしのことを\nどれだけ理解できているか\n試させてもらうわ！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしのおぼえる\nコマンドスキルはしってる？\n\n# se \"SE_0734\"\n# select \"鮮血『至虹の双翼』\" \"select_label_1\" \"獣血『至虹の双翼』\" \"select_label_2\" \"鉄血『至虹の双翼』\" \"select_label_3\"\nわたしのおぼえる\nコマンドスキルはしってる？\n"
+	},
+	{
+		"ID": 5194,
+		"unitID": 2303211,
+		"questionID": 9303229,
+		"script": ";;虹輝を浴びし魔槍,1\n# face %(unit_a)s \"usual\"\n# voice 230321 \"gaedearg_ge_0002\"\n# textflame 1 1\n@ガ・ジャルグ\n一つ、聞きたいの\n\n@ガ・ジャルグ\nあの子のことも…\n妹も、こんな風に\n誘っているの…？\n\n# textflame 0 0\n@\nえ？なんのこと？\n聞き返すマスター\n\n# voice 230321 \"gaedearg_ge_0028\"\n# textflame 1 1\n@ガ・ジャルグ\nいえ、なんでもないわ\n\n# face %(unit_a)s \"angry\"\n@ガ・ジャルグ\nそ、それより！\n今からクイズを出すから！\n\n@ガ・ジャルグ\nわたしのことを\nどれだけ理解できているか\n試させてもらうわ！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしがおぼえる\n付与スキルってわかるかしら？\n\n# se \"SE_0734\"\n# select \"虹輝を浴びし魔槍\" \"select_label_1\" \"虹輝を浴びし麻生\" \"select_label_2\" \"虹輝を浴びし仮想\" \"select_label_3\"\nわたしがおぼえる\n付与スキルってわかるかしら？\n"
+	},
+	{
+		"ID": 5195,
+		"unitID": 2303211,
+		"questionID": 9303230,
+		"script": ";;槍闘士の覇気,3\n# face %(unit_a)s \"usual\"\n# voice 230321 \"gaedearg_ge_0002\"\n# textflame 1 1\n@ガ・ジャルグ\n一つ、聞きたいの\n\n@ガ・ジャルグ\nあの子のことも…\n妹も、こんな風に\n誘っているの…？\n\n# textflame 0 0\n@\nえ？なんのこと？\n聞き返すマスター\n\n# voice 230321 \"gaedearg_ge_0028\"\n# textflame 1 1\n@ガ・ジャルグ\nいえ、なんでもないわ\n\n# face %(unit_a)s \"angry\"\n@ガ・ジャルグ\nそ、それより！\n今からクイズを出すから！\n\n@ガ・ジャルグ\nわたしのことを\nどれだけ理解できているか\n試させてもらうわ！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしがおぼえる\nリーダースキルってわかるかしら？\n\n# se \"SE_0734\"\n# select \"槍闘士の活気\" \"select_label_1\" \"槍闘士の邪気\" \"select_label_2\" \"槍闘士の覇気\" \"select_label_3\"\nわたしがおぼえる\nリーダースキルってわかるかしら？\n"
+	},
+	{
+		"ID": 5196,
+		"unitID": 2303211,
+		"questionID": 9303231,
+		"script": ";;女神ヘラ,1\n# face %(unit_a)s \"usual\"\n# voice 230321 \"gaedearg_ge_0028\"\n# textflame 1 1\n@ガ・ジャルグ\n今日のデート…\n\n@ガ・ジャルグ\n途中で雨が降っちゃうなんて…\n至高には程遠かったわね\n\n# face %(unit_a)s \"sad\"\n# voice 230321 \"gaedearg_ge_0027\"\n@ガ・ジャルグ\nほんと、最低…\n\n@ガ・ジャルグ\nでも、あなたの手で\n至高に変えられるかも…\n\n# face %(unit_a)s \"normal\"\n# voice 230321 \"gaedearg_ge_0004\"\n@ガ・ジャルグ\n今から出す問題に答えて、\n今日一日を最高の気持ちで\n終わらせて\n\n@ガ・ジャルグ\nもちろん、あなたなら\nできるわよね？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしに獣刻された女神\n『イーリス』は誰の部下？\n\n# se \"SE_0734\"\n# select \"女神ヘラ\" \"select_label_1\" \"女神ベラ\" \"select_label_2\" \"女神ボラ\" \"select_label_3\"\nわたしに獣刻された女神\n『イーリス』は誰の部下？\n"
+	},
+	{
+		"ID": 5197,
+		"unitID": 2303211,
+		"questionID": 9303232,
+		"script": ";;February,2\n# face %(unit_a)s \"usual\"\n# voice 230321 \"gaedearg_ge_0028\"\n# textflame 1 1\n@ガ・ジャルグ\n今日のデート…\n\n@ガ・ジャルグ\n途中で雨が降っちゃうなんて…\n至高には程遠かったわね\n\n# face %(unit_a)s \"sad\"\n# voice 230321 \"gaedearg_ge_0027\"\n@ガ・ジャルグ\nほんと、最低…\n\n@ガ・ジャルグ\nでも、あなたの手で\n至高に変えられるかも…\n\n# face %(unit_a)s \"normal\"\n# voice 230321 \"gaedearg_ge_0004\"\n@ガ・ジャルグ\n今から出す問題に答えて、\n今日一日を最高の気持ちで\n終わらせて\n\n@ガ・ジャルグ\nもちろん、あなたなら\nできるわよね？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしの誕生月を\n英語で言うと…？\n\n# se \"SE_0734\"\n# select \"January\" \"select_label_1\" \"February\" \"select_label_2\" \"September\" \"select_label_3\"\nわたしの誕生月を\n英語で言うと…？\n"
+	},
+	{
+		"ID": 5198,
+		"unitID": 2303211,
+		"questionID": 9303233,
+		"script": ";;七色,2\n# face %(unit_a)s \"usual\"\n# voice 230321 \"gaedearg_ge_0028\"\n# textflame 1 1\n@ガ・ジャルグ\n今日のデート…\n\n@ガ・ジャルグ\n途中で雨が降っちゃうなんて…\n至高には程遠かったわね\n\n# face %(unit_a)s \"sad\"\n# voice 230321 \"gaedearg_ge_0027\"\n@ガ・ジャルグ\nほんと、最低…\n\n@ガ・ジャルグ\nでも、あなたの手で\n至高に変えられるかも…\n\n# face %(unit_a)s \"normal\"\n# voice 230321 \"gaedearg_ge_0004\"\n@ガ・ジャルグ\n今から出す問題に答えて、\n今日一日を最高の気持ちで\n終わらせて\n\n@ガ・ジャルグ\nもちろん、あなたなら\nできるわよね？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしの口ぐせは「この○○の輝き」\n○○に入るのは何かしら？\n\n# se \"SE_0734\"\n# select \"虹色\" \"select_label_1\" \"七色\" \"select_label_2\" \"桜色\" \"select_label_3\"\nわたしの口ぐせは「この○○の輝き」\n○○に入るのは何かしら？\n"
+	},
+	{
+		"ID": 5199,
+		"unitID": 2303211,
+		"questionID": 9303234,
+		"script": ";;ガ・ボー,2\n# face %(unit_a)s \"usual\"\n# voice 230321 \"gaedearg_ge_0028\"\n# textflame 1 1\n@ガ・ジャルグ\n今日のデート…\n\n@ガ・ジャルグ\n途中で雨が降っちゃうなんて…\n至高には程遠かったわね\n\n# face %(unit_a)s \"sad\"\n# voice 230321 \"gaedearg_ge_0027\"\n@ガ・ジャルグ\nほんと、最低…\n\n@ガ・ジャルグ\nでも、あなたの手で\n至高に変えられるかも…\n\n# face %(unit_a)s \"normal\"\n# voice 230321 \"gaedearg_ge_0004\"\n@ガ・ジャルグ\n今から出す問題に答えて、\n今日一日を最高の気持ちで\n終わらせて\n\n@ガ・ジャルグ\nもちろん、あなたなら\nできるわよね？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしと誕生月が同じなのは\n誰かわかる？\n\n# se \"SE_0734\"\n# select \"ブリューナク\" \"select_label_1\" \"ガ・ボー\" \"select_label_2\" \"ゲイボルグ\" \"select_label_3\"\nわたしと誕生月が同じなのは\n誰かわかる？\n"
+	},
+	{
+		"ID": 5200,
+		"unitID": 2303211,
+		"questionID": 9303235,
+		"script": ";;Aquarius,1\n# face %(unit_a)s \"usual\"\n# voice 230321 \"gaedearg_ge_0028\"\n# textflame 1 1\n@ガ・ジャルグ\n今日のデート…\n\n@ガ・ジャルグ\n途中で雨が降っちゃうなんて…\n至高には程遠かったわね\n\n# face %(unit_a)s \"sad\"\n# voice 230321 \"gaedearg_ge_0027\"\n@ガ・ジャルグ\nほんと、最低…\n\n@ガ・ジャルグ\nでも、あなたの手で\n至高に変えられるかも…\n\n# face %(unit_a)s \"normal\"\n# voice 230321 \"gaedearg_ge_0004\"\n@ガ・ジャルグ\n今から出す問題に答えて、\n今日一日を最高の気持ちで\n終わらせて\n\n@ガ・ジャルグ\nもちろん、あなたなら\nできるわよね？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしの星座を\n英語で言うと？\n\n# se \"SE_0734\"\n# select \"Aquarius\" \"select_label_1\" \"Capricorn\" \"select_label_2\" \"Taurus\" \"select_label_3\"\nわたしの星座を\n英語で言うと？\n"
+	},
+	{
+		"ID": 5201,
+		"unitID": 2303211,
+		"questionID": 9303236,
+		"script": ";;完璧な存在,1\n# face %(unit_a)s \"usual\"\n# voice 230321 \"gaedearg_ge_0028\"\n# textflame 1 1\n@ガ・ジャルグ\n今日のデート…\n\n@ガ・ジャルグ\n途中で雨が降っちゃうなんて…\n至高には程遠かったわね\n\n# face %(unit_a)s \"sad\"\n# voice 230321 \"gaedearg_ge_0027\"\n@ガ・ジャルグ\nほんと、最低…\n\n@ガ・ジャルグ\nでも、あなたの手で\n至高に変えられるかも…\n\n# face %(unit_a)s \"normal\"\n# voice 230321 \"gaedearg_ge_0004\"\n@ガ・ジャルグ\n今から出す問題に答えて、\n今日一日を最高の気持ちで\n終わらせて\n\n@ガ・ジャルグ\nもちろん、あなたなら\nできるわよね？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしは、自分をこんな存在だと\n思っているわ。\n\n# se \"SE_0734\"\n# select \"完璧な存在\" \"select_label_1\" \"虚ろな存在\" \"select_label_2\" \"不思議な存在\" \"select_label_3\"\nわたしは、自分をこんな存在だと\n思っているわ。\n"
+	},
+	{
+		"ID": 5202,
+		"unitID": 2303211,
+		"questionID": 9303237,
+		"script": ";;常若の国,3\n# face %(unit_a)s \"usual\"\n# voice 230321 \"gaedearg_ge_0028\"\n# textflame 1 1\n@ガ・ジャルグ\n今日のデート…\n\n@ガ・ジャルグ\n途中で雨が降っちゃうなんて…\n至高には程遠かったわね\n\n# face %(unit_a)s \"sad\"\n# voice 230321 \"gaedearg_ge_0027\"\n@ガ・ジャルグ\nほんと、最低…\n\n@ガ・ジャルグ\nでも、あなたの手で\n至高に変えられるかも…\n\n# face %(unit_a)s \"normal\"\n# voice 230321 \"gaedearg_ge_0004\"\n@ガ・ジャルグ\n今から出す問題に答えて、\n今日一日を最高の気持ちで\n終わらせて\n\n@ガ・ジャルグ\nもちろん、あなたなら\nできるわよね？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしの出身地「ティル・ナ・ノーグ」は\nまたの名を何というかわかる？\n\n# se \"SE_0734\"\n# select \"竹若の国\" \"select_label_1\" \"常夏の国\" \"select_label_2\" \"常若の国\" \"select_label_3\"\nわたしの出身地「ティル・ナ・ノーグ」は\nまたの名を何というかわかる？\n"
+	},
+	{
+		"ID": 5203,
+		"unitID": 2303211,
+		"questionID": 9303238,
+		"script": ";;アスカロン,2\n# face %(unit_a)s \"usual\"\n# voice 230321 \"gaedearg_ge_0028\"\n# textflame 1 1\n@ガ・ジャルグ\n今日のデート…\n\n@ガ・ジャルグ\n途中で雨が降っちゃうなんて…\n至高には程遠かったわね\n\n# face %(unit_a)s \"sad\"\n# voice 230321 \"gaedearg_ge_0027\"\n@ガ・ジャルグ\nほんと、最低…\n\n@ガ・ジャルグ\nでも、あなたの手で\n至高に変えられるかも…\n\n# face %(unit_a)s \"normal\"\n# voice 230321 \"gaedearg_ge_0004\"\n@ガ・ジャルグ\n今から出す問題に答えて、\n今日一日を最高の気持ちで\n終わらせて\n\n@ガ・ジャルグ\nもちろん、あなたなら\nできるわよね？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしと同じ血液型なのは？\n\n# se \"SE_0734\"\n# select \"シユウ\" \"select_label_1\" \"アスカロン\" \"select_label_2\" \"アフロディーテ\" \"select_label_3\"\nわたしと同じ血液型なのは？\n"
+	},
+	{
+		"ID": 5204,
+		"unitID": 2303211,
+		"questionID": 9303239,
+		"script": ";;シユウ,3\n# face %(unit_a)s \"usual\"\n# voice 230321 \"gaedearg_ge_0028\"\n# textflame 1 1\n@ガ・ジャルグ\n今日のデート…\n\n@ガ・ジャルグ\n途中で雨が降っちゃうなんて…\n至高には程遠かったわね\n\n# face %(unit_a)s \"sad\"\n# voice 230321 \"gaedearg_ge_0027\"\n@ガ・ジャルグ\nほんと、最低…\n\n@ガ・ジャルグ\nでも、あなたの手で\n至高に変えられるかも…\n\n# face %(unit_a)s \"normal\"\n# voice 230321 \"gaedearg_ge_0004\"\n@ガ・ジャルグ\n今から出す問題に答えて、\n今日一日を最高の気持ちで\n終わらせて\n\n@ガ・ジャルグ\nもちろん、あなたなら\nできるわよね？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしと違う血液型なのは\n誰かわかる？\n\n# se \"SE_0734\"\n# select \"アスカロン\" \"select_label_1\" \"フォルカス\" \"select_label_2\" \"シユウ\" \"select_label_3\"\nわたしと違う血液型なのは\n誰かわかる？\n"
+	},
+	{
+		"ID": 5205,
+		"unitID": 2303211,
+		"questionID": 9303240,
+		"script": ";;ルーン,3\n# face %(unit_a)s \"usual\"\n# voice 230321 \"gaedearg_ge_0028\"\n# textflame 1 1\n@ガ・ジャルグ\n今日のデート…\n\n@ガ・ジャルグ\n途中で雨が降っちゃうなんて…\n至高には程遠かったわね\n\n# face %(unit_a)s \"sad\"\n# voice 230321 \"gaedearg_ge_0027\"\n@ガ・ジャルグ\nほんと、最低…\n\n@ガ・ジャルグ\nでも、あなたの手で\n至高に変えられるかも…\n\n# face %(unit_a)s \"normal\"\n# voice 230321 \"gaedearg_ge_0004\"\n@ガ・ジャルグ\n今から出す問題に答えて、\n今日一日を最高の気持ちで\n終わらせて\n\n@ガ・ジャルグ\nもちろん、あなたなら\nできるわよね？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしと違う誕生月なのは\n誰かわかる？\n\n# se \"SE_0734\"\n# select \"蜻蛉切\" \"select_label_1\" \"ムラマサ\" \"select_label_2\" \"ルーン\" \"select_label_3\"\nわたしと違う誕生月なのは\n誰かわかる？\n"
+	},
+	{
+		"ID": 5206,
+		"unitID": 2303211,
+		"questionID": 9303241,
+		"script": "\n;;わたし,1\n# se \"SE_0734\"\n# select \"わたし\" \"select_label_1\" \"ミー\" \"select_label_2\" \"あたい\" \"select_label_3\"\nガ・ジャルグの一人称は\n次のうちどれでしょうか？\n"
+	},
+	{
+		"ID": 5207,
+		"unitID": 2303211,
+		"questionID": 9303242,
+		"script": "\n;;マスター,3\n# se \"SE_0734\"\n# select \"ユー\" \"select_label_1\" \"アータ\" \"select_label_2\" \"マスター\" \"select_label_3\"\nガ・ジャルグはマスターのこと、\nなんと呼んでますか？\n"
+	},
+	{
+		"ID": 5208,
+		"unitID": 2303211,
+		"questionID": 9303243,
+		"script": "\n;;87cm,3\n# se \"SE_0734\"\n# select \"85cm\" \"select_label_1\" \"82cm\" \"select_label_2\" \"87cm\" \"select_label_3\"\nガ・ジャルグの\nバストサイズがどのくらいか\nマスターは…ご存知でしょうか？\n"
+	},
+	{
+		"ID": 5209,
+		"unitID": 2303211,
+		"questionID": 9303244,
+		"script": "\n;;59cm,1\n# se \"SE_0734\"\n# select \"59cm\" \"select_label_1\" \"60cm\" \"select_label_2\" \"62cm\" \"select_label_3\"\nガ・ジャルグの\nウエストサイズがどのくらいか\nマスターは…ご存知でしょうか？\n"
+	},
+	{
+		"ID": 5210,
+		"unitID": 2303211,
+		"questionID": 9303245,
+		"script": "\n;;86cm,2\n# se \"SE_0734\"\n# select \"85cm\" \"select_label_1\" \"86cm\" \"select_label_2\" \"89cm\" \"select_label_3\"\nガ・ジャルグの\nヒップサイズがどのくらいか\nマスターは…ご存知でしょうか？\n"
+	},
+	{
+		"ID": 5211,
+		"unitID": 2303211,
+		"questionID": 9303246,
+		"script": "\n;;47ｋｇ,2\n# se \"SE_0734\"\n# select \"51kg\" \"select_label_1\" \"47ｋｇ\" \"select_label_2\" \"45kg\" \"select_label_3\"\nガ・ジャルグの体重は\n次のうちどれでしょう？\n"
+	},
+	{
+		"ID": 5212,
+		"unitID": 2303211,
+		"questionID": 9303247,
+		"script": "\n;;232,1\n# se \"SE_0734\"\n# select \"232\" \"select_label_1\" \"239\" \"select_label_2\" \"250\" \"select_label_3\"\nガ・ジャルグの\nバスト＋ウエスト＋ヒップは\nどのくらいかわかりますか？\n"
+	},
+	{
+		"ID": 5213,
+		"unitID": 2303211,
+		"questionID": 9303248,
+		"script": "\n;;赤色,3\n# se \"SE_0734\"\n# select \"黄色\" \"select_label_1\" \"青色\" \"select_label_2\" \"赤色\" \"select_label_3\"\nガ・ジャルグの髪の色は\n次のうちどれでしょう？\n"
+	},
+	{
+		"ID": 5214,
+		"unitID": 2303211,
+		"questionID": 9303249,
+		"script": "\n;;出ていない,2\n# se \"SE_0734\"\n# select \"7位\" \"select_label_1\" \"出ていない\" \"select_label_2\" \"16位\" \"select_label_3\"\nガ・ジャルグは\n第３回人気投票で\n何位だったでしょうか？\n"
+	},
+	{
+		"ID": 5215,
+		"unitID": 2303211,
+		"questionID": 9303250,
+		"script": "\n;;斉藤朱夏,1\n# se \"SE_0734\"\n# select \"斉藤朱夏\" \"select_label_1\" \"ゆかな\" \"select_label_2\" \"井上麻里奈\" \"select_label_3\"\nガ・ジャルグの声優は誰でしょう？\n"
+	}
+]

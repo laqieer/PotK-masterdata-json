@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 400312,
+		"script": ";;アポロンはなにが好きなの？　大\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_aquarium_day\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 4003 \"aporon_0028\"\n@アポロン\nへ？ボクが好きなやつ…？\nああ、うん、ボクかぁ～\n\n# face %(unit_a)s \"smile\"\n# voice 4003 \"aporon_0004\"\n@アポロン\nへへっ、お姉ちゃんのことより\nボクの方に興味があるんだね\nマスターは♪しょうがないなぁ～\n\n@アポロン\nうーん、どれがいいかなぁ～\nボクと一緒に回って探そうか！\n\n# textflame 0 0\n@\n勢いよく腕を組まれる\nアポロンはギュッと\nマスターの体に寄り添った\n\n# face %(unit_a)s \"normal\"\n# textflame 1 1\n@アポロン\nお姉ちゃんのお土産探しに\n時間使いたいけど…\n\n# face %(unit_a)s \"smile\"\n# voice 4003 \"aporon_0021\"\n@アポロン\nしょーがないよね♪\nキミがボクに興味があるって\n言うんだからさ♪\n\n# textflame 0 0\n@\nアポロンは輝くような笑顔で\nマスターの顔を覗き込んだ\n\n@\n水族館でアポロンの\n好きな魚探しをして\nお揃いのキーホルダーを買った！\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

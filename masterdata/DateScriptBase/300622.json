@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 300622,
+		"script": "# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_fireworks\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 3006 \"torisyula_0003\"\n@トリシューラ\nお、おう…\n改めて聞く必要なんかねーけど…\n\n# textflame 1 1\n@トリシューラ\n…………\n\n# voice 3006 \"torisyula_kyara_1013\"\n# textflame 1 1\n@トリシューラ\n…な、なんか喋れよ\n\n# textflame 1 1\n@トリシューラ\n調子狂うだろ…\nマスターがそんなだとさ\n\n# textflame 0 0\n@\n隣でトリシューラを見つめていると\n恥ずかしそうに眼を逸らされた\n\n# face %(unit_a)s \"angry\"\n# textflame 1 1\n@トリシューラ\nは、花火見ろよ花火！\n\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@トリシューラ\nほら、今上がったのなんて\n破壊力すごそうで――\n\n# face %(unit_a)s \"angry\"\n# textflame 1 1\n@トリシューラ\nあーもう、やめだやめ！\n花火鑑賞はもう終わり！\n\n# voice 3006 \"torisyula_0042\"\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@トリシューラ\n…ズルいだろ、そういうの\nどうすればいいかわかんないっての\n\n# textflame 0 0\n@\nいつもより少しだけしおらしい\nトリシューラと一緒に\n花火が照らす夜道を帰った――\n;;----------------------------------------\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

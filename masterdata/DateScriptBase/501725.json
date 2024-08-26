@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 501725,
+		"script": ";;C 小当り\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_room\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 0 0\n@\nマスターは\nグリモワールの部屋に\n招かれてやってきたのだが…\n\n# eye %(unit_a)s \"close\"\n# voice 5017 \"grimoire_0004\"\n# textflame 1 1\n@グリモワール\n見なさい…ここが…\n正真正銘の…\nワタシの高貴な部屋よ！\n\n@グリモワール\nそ、そして…\n\n# face %(unit_a)s \"normal\"\n# eye %(unit_a)s \"normal\"\n# textflame 1 1\n@グリモワール\nワタシと…\nキミしかいないわ…！！\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n\n# textflame 0 0\n# fadein \"black\" 0.5\n@\n二人はデートを楽しんだ\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

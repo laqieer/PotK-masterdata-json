@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 2503121,
+		"script": ";;A大\n;;B小\n;;C中\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_fireworks\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# face %(unit_a)s \"usual\"\n# textflame 0 0\n@\n花火大会の直前…\nソロモンはマスターを\n高台へと連れてきた\n\n@\nどうやらそこは、\nソロモンが目をつけていた\n穴場スポットのようだ\n\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 250312 \"solomon_lo_0007\"\n@ソロモン\nふふっ、どーお？\nここがいちばん\nはなびをきれいにみられるの！\n\n@ソロモン\nあっ…みて！\nちょうどはなびが\nはじまったわ！\n\n# face %(unit_a)s \"angry\"\n# voice 250312 \"solomon_lo_0022\"\n@ソロモン\n…あ、あれっ？\n木にかくれて\nぜんぜんみえない…！？\n\n# select \"肩車しようか\" \"select_label_01\" \"他の場所を探そう\" \"select_label_02\" \"会場に戻る？\" \"select_label_03\"\n…あ、あれっ？\n木にかくれて\nぜんぜんみえない…！？\n\n# label \"select_label_01\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_02\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_03\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# textflame 1 1\n# waitandnext 0.1\n\n# label \"select_label_end\"\n# waitandnext 2\n# fadeout \"black\" 1.2\n"
+	}
+]

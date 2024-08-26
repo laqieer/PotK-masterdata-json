@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 301825,
+		"script": "# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_shipboard\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 0 0\n@\nフォルカスを船上デートへと誘い\nやってきたのだが…\n\n# voice 3018 \"forcas_0030\"\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@フォルカス\nあぁ…、海風が気持ちいいですね。\nマスターお誘いいただき\nありがとうございました\n\n# eye %(unit_a)s \"close\"\n@フォルカス\n夜の海は綺麗ですけど、でも…\n\n@フォルカス\n…………\n\n@\nフォルカスは物思いにふけながらも\nデートを楽しんでいるようだった…\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

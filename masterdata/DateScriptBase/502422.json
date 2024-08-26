@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 502422,
+		"script": ";;A二面性だね 大\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_fireworks\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n@雑賀\n争いと平和…\nみたいなことすか？\n\n# eye %(unit_a)s \"close\"\n# textflame 1 1\n# voice 5024 \"saika_0008\"\n@雑賀\nあー…\n意識高い話は勘弁っす\n\n# textflame 0 0\n@\nそれならとマスターは話題を変える\n雑賀も二面性あるよね、と\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n# voice 5024 \"saika_0022\"\n@雑賀\n…！！\n\n# eye %(unit_a)s \"close\"\n# textflame 1 1\n# voice 5024 \"saika_0011\"\n@雑賀\nそ、それは…\nあれっす…\nビジネス上の顔なわけで…\n\n# textflame 0 0\n@\nじゃあ今は、素顔が見たい\nマスターはまっすぐに思う\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"normal\"\n# textflame 1 1\n# voice 5024 \"saika_0042\"\n@雑賀\nほんっっと…\nなんでしれっといつも…\nそういうこと…\n\n# textflame 0 0\n@\n束の間の静寂に\n雑賀の深呼吸が\n小さく響く\n\n# textflame 1 1\n@雑賀\nうちがこうやって\nしゃべるんは…\n\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@雑賀\nほんま、マスターだけ…\nなんやからね…？\n\n# textflame 0 0\n@\n花火の音を忘れるほど\n雑賀の恥ずかしそうな顔を\n見つめてしまっていた…\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

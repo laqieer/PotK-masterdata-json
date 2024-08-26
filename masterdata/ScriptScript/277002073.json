@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 277002073,
+		"script": ";;■□■ファンキル_LR海上編第2回（7月中旬）シナリオ_20190624■□■\n;;【タイトル：パラディーゾ幻想襲来編Ⅱ】\n;;【EP2】幻惑の悪魔\n;;-----------------------------------------\n# script \"lisp\"\n# background \"sea_palmbeach_day\"\n# bgmfile \"bgm348\" \"BgmSeaEventBattle003\" 0\n;;-----------------------------------------\n;;ヘレナ\n# body 2302811\n# pos 2302811 3\n# scale 2302811 0.8 0\n# layer 2302811 3\n# mask 2302811 off\n# alpha 2302811 1 0\n;;-----------------------------------------\n# face 2302811 \"angry\"\n# textflame 1 1\n@ヘレナ\n磔にしてやろうっ！\n\n;;攻撃演出\n# se \"SE_10522\"\n# fadein \"white\" 0.5\n# waitandnext 0.5\n\n# se \"SE_0669\"\n# serif 1\n# textwindow \"nomal\"\n@異族\nグギャアァァァァッー！\n\n;;異族消滅\n# se \"SE_3001\"\n# serif 1\n# textwindow \"close\"\n# serif 0\n# textwindow \"nomal\"\n# voice 3028 \"herena_a_0004\"\n# face 2302811 \"happy\"\n@ヘレナ\nくふっ…\n少しすっきりしたかな\n\n# textflame 0 0\n@\n言葉どおり、\n異族を一掃した彼女の表情は\n晴れ晴れとしていた"
+	}
+]

@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 1510502,
+		"script": ";;【５－１－１（バトル後）】\n# background \"005_Windmill\"\n# bgm \"bgm003\" 0\n# body 6\n# pos 6 4\n# scale 6 0.8 0\n# alpha 6 1 0\n# body 24\n# pos 24 2\n# scale 24 0.8 0\n# alpha 24 1 0\n# voice 1014 \"tyrufing_0002\"\n# textboxarrow 0 1\n@ティルフィング\nあの、ディーン少奏…\n\n# face 6 \"sad\"\n# voice 9997 \"deen_0031\"\n# textboxarrow 0 3\n@ディーン\nはぁ…\nずっと言おうと思ってたんだけどさ\nその“少奏”ってのやめてくんねぇ？\n\n# face 24 \"sad\"\n# voice 1014 \"tyrufing_0034\"\n# textboxarrow 0 1\n@ティルフィング\nそんな…キラープリンセスが、\nマスターに対して\n呼び捨てにするなんて…\n\n# face 6 \"normal\"\n# voice 9997 \"deen_0009\"\n# textboxarrow 0 3\n@ディーン\nその…改まった呼び方に、\n距離を感じるんだよな…\n…んで、なに？\n\n# face 24 \"normal\"\n# textboxarrow 0 1\n@ティルフィング\nその…王都を目指しているのは、\nどうしてなんですか？\n\n# voice 9997 \"deen_0030\"\n# textboxarrow 0 3\n@ディーン\n…俺が、王都を目指す理由？\nそんなの、聞いてどうすんだ？\n\n# face 24 \"surprise\"\n# textboxarrow 0 1\n@ティルフィング\nいえ、どうするって\nわけじゃないんですけど…\n\n# face 24 \"normal\"\n# textboxarrow 0 1\n@ティルフィング\nそこに強い意志を感じるというか、\n妙に気になって…\n\n# textboxarrow 0 3\n@ディーン\n…人捜しだよ\n\n# face 24 \"surprise\"\n# voice 1014 \"tyrufing_0022\"\n# textboxarrow 0 1\n@ティルフィング\n人捜し…？\n\n# textboxarrow 0 3\n@ディーン\nある男を捜してるんだ\n王都に行けば、\nそいつの情報が手に入るかと思ってよ"
+	}
+]

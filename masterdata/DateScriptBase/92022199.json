@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 92022199,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# se \"SE_0732\"\n# face %(unit_a)s \"normal\"\n# textflame 1 1\n@盤古\n………\n\n# textflame 0 0\n@\n自身の空間から顔を出し、\n彼女が言う\n\n# textflame 1 1\n@盤古\nその答え…\n\n# textflame 1 1\n@盤古\n……正解…だ\n\n# face %(unit_a)s \"shy\"\n# textflame 1 1\n# voice 2022 \"banko_0020\"\n@盤古\n……うふふ\n\n# textflame 1 1\n@盤古\nあまり外には、\n出たくない我だが…\n\n# textflame 1 1\n@盤古\n夏の海なら…考えなくもない\n\n# textflame 1 1\n# voice 2022 \"banko_0003\"\n@盤古\nマスターが一緒なら…な\n\n# textflame 0 0\n@\n微笑む盤古\n\n@\nマスターは彼女との距離が\nグッと近くなったのを\n実感するのだった…\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

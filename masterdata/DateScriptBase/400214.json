@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 400214,
+		"script": "# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_fireworks\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# voice 4002 \"pinaka_0020\"\n@ピナーカ\nそうだなぁ…\nお陰でひと暴れ…\nしたくなってきたなぁ！！\n\n# textflame 0 0\n@\n打ち上げ花火の発射場に\n向かって駆け出すピナーカを\n必死で止めたマスター\n\n# textflame 0 0\n@\nこの後、ピナーカに\n文句を言われながら二人で\n全力疾走して帰ったそうな…\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 303211,
+		"script": ";;中Aめちゃくちゃ褒める\n;;大B適度に褒める\n;;小Cあえて褒めない\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_ferris\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# face %(unit_a)s \"usual\"\n# textflame 0 0\n@\nガ・ジャルグと\n遊園地へ行き、二人きりで\n観覧車を満喫中\n\n# textflame 0 0\n@\n最初は澄ましていた\n彼女だったが…\n\n# face %(unit_a)s \"normal\"\n# voice 230321 \"gaedearg_ge_0040\"\n# textflame 1 1\n@ガ・ジャルグ\n観覧車って\n意外とゆっくり動くのね？\n\n@ガ・ジャルグ\n地上に戻るまで\nまだまだかかりそう…\n\n# face %(unit_a)s \"smile\"\n# voice 230321 \"gaedearg_ge_0004\"\n@ガ・ジャルグ\nねえ、マスター？\nしばらくわたしと\n二人っきりね？\n\n@ガ・ジャルグ\nどう？\nわたしを近くで\nじっくり見れて？\n\n@ガ・ジャルグ\nひたすらわたしを\n褒めてくれても\n構わないわよ…？\n\n# select \"めちゃくちゃ褒める\" \"select_label_01\" \"適度に褒める\" \"select_label_02\" \"あえて褒めない\" \"select_label_03\"\nひたすらわたしを\n褒めてくれても\n構わないわよ…？\n\n# label \"select_label_01\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_02\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_03\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_end\"\n# waitandnext 0.1\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

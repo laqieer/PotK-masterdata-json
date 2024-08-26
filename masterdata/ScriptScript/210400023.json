@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 210400023,
+		"script": ";;＜バトル1＞\n# bgm \"bgm004\" 0\n# background \"flower_garden\"\n# body 400711\n# pos 400711 2\n# scale 400711 0.8 0\n# body 401711\n# pos 401711 4\n# scale 401711 0.8 0\n# face 401711 \"sad\"\n# face 400711 \"sad\"\n# textwindow \"nomal\"\n# textflame 1 1\n# textboxarrow 0 1\n@シェキナー\n異族と戦う姿を見て、女性は私達が\nキル姫だと気づいたようですね…\n\n# textflame 0 0\n@\nだが死を決めた人間だからか\n人々が見せる憎悪の視線はない\n\n# face 400711 \"normal\"\n# face 401711 \"normal\"\n# voice 4017 \"suiha_0028\"\n# textflame 1 1\n# textboxarrow 0 3\n@スイハ\nこのまま、この女性を放っておくのは\n忍びないですね…\n女性の事情を聞いてみましょうか"
+	}
+]

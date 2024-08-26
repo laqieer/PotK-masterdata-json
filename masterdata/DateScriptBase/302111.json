@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 302111,
+		"script": ";;A それはどんなもの？ (小)\n;;B それは誰か？ (大)\n;;C それは愛？ (中)\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_ferris\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 0 0\n@\nマスターは\nガ・ボーを誘って\n観覧車に乗り込んだ\n\n# voice 3021 \"gaebuide_0003\"\n# textflame 1 1\n@ガ・ボー\n…ここなら\nとても遠くまで\n見渡せる\n\n@ガ・ボー\nボーはずっと…\n探しものをしているんです\n\n# select \"それはどんなもの？\" \"select_label_01\" \"それは誰か？\" \"select_label_02\" \"それは愛？\" \"select_label_03\"\nボーはずっと…\n探しものをしているんです\n\n# label \"select_label_01\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_02\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_03\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_end\"\n# waitandnext 0.1\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

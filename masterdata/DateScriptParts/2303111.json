@@ -1,0 +1,26 @@
+[
+	{
+		"ID": 449,
+		"unitID": 2303111,
+		"scriptID": "kaerimichi",
+		"script": "少しだけ、\n御館様の時間が欲しい…"
+	},
+	{
+		"ID": 450,
+		"unitID": 2303111,
+		"scriptID": "kaeru_ok",
+		"script": "@%(unitName:unit_a)s\n御館様と一緒なら…"
+	},
+	{
+		"ID": 451,
+		"unitID": 2303111,
+		"scriptID": "kaeru",
+		"script": "今日は、ありがとう"
+	},
+	{
+		"ID": 452,
+		"unitID": 2303111,
+		"scriptID": "kaeru_ng",
+		"script": "@%(unitName:unit_a)s\n今は休める時…\n始めるためには終えないと"
+	}
+]

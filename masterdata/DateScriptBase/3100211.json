@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 3100211,
+		"script": ";;A　中お昼寝好きだもんね\n;;B　大ふたりでのんびりしよう\n;;C　小ムーは留守番？\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_planetarium\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# face %(unit_a)s \"normal\"\n# textflame 0 0\n@\nレーヴァテインを連れて、\nマスターはプラネタリウムを\n訪れていた\n\n# voice 210023 \"revatein_ge_0004\"\n# textflame 1 1\n@レーヴァテイン\nうん……静かでいいところね\n気に入ったかも\n\n# face %(unit_a)s \"usual\"\n@レーヴァテイン\nカップルシート？　\nこれに寝転がって、星を見るのね\nふぅん…\n\n# voice 210023 \"revatein_ge_0003\"\n@レーヴァテイン\nやることが単純で、嫌いじゃない\nめんどくさくないのは、いいこと\n\n@レーヴァテイン\n遊びまわるのもいいけど\nこうしてゆっくりするのも\n私は好きだな…\n\n# face %(unit_a)s \"normal\"\n# voice 210023 \"revatein_ge_0028\"\n@レーヴァテイン\n普段は相手しないと\nムーがうるさいし…\nありがと、マスター\n\n# select \"お昼寝好きだもんね\" \"select_label_01\" \"ふたりでのんびりしよう\" \"select_label_02\" \"ムーは留守番？\" \"select_label_03\"\n普段は相手しないと\nムーがうるさいし…\nありがと、マスター\n\n# label \"select_label_01\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_02\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_03\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_end\"\n# waitandnext 0.1\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

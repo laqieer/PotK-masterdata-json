@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 100212,
+		"script": ";;触ったら怒る？(大)\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_planetarium\"\n# bgmfile \"bgm258\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# face %(unit_a)s \"angry\"\n# voice 1002 \"revatein_0037\"\n@レーヴァテイン\nヘンタイ\n\n# textflame 0 0\n@\nマスターが言い切らないうちに\n鋭い反撃が返ってきた！\n\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 1002 \"revatein_0013\"\n@レーヴァテイン\nはぁ…\n\n# textflame 1 1\n# face %(unit_a)s \"angry\"\n@レーヴァテイン\n…なに？\nそういう狙いで\n暗がりに連れてきたの？\n\n# textflame 1 1\n# voice 1002 \"revatein_0010\"\n@レーヴァテイン\n最低…\n\n;;文字小さく\n# textsize 18\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# voice 1002 \"revatein_0015\"\n@レーヴァテイン\nちょっと、うれしかったのに…\n\n# textsize 24\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 1002 \"revatein_0024\"\n@レーヴァテイン\nひゃっ！\n\n# textflame 1 1\n# face %(unit_a)s \"angry\"\n# voice 1002 \"revatein_0012\"\n@レーヴァテイン\n…なにしてんの？\n触っていいって、言ってない…！\n\n# textflame 1 1\n@レーヴァテイン\n手は触るんじゃなくて握るものとか\nそういう問題じゃないでしょ\n\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 1002 \"revatein_0042\"\n@レーヴァテイン\n…バカ\n\n# textflame 0 0\n@\nそっと握った彼女の手のぬくもりは\nプラネタリウムが終わるまでずっと…\nマスターの手の中にあった――\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

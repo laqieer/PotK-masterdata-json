@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 941014499,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# se \"SE_0732\"\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n@ティルフィング\nお兄さん、そのこたえ……\n\n# face %(unit_a)s \"normal\"\n# voice 210144 \"tyrufing_lo_0005\"\n@ティルフィング\nせいかいです\n\n# voice 210144 \"tyrufing_lo_0030\"\n@ティルフィング\nありがとうございます、\nとってもうれしいです\n\n@ティルフィング\nこれからも…\nもっともっとっ！\nいっぱいあそびましょうっ！\n\n@ティルフィング\nもっと、いっぱいいろんなところに\nつれていってくださいね！\n\n# voice 210144 \"tyrufing_lo_0042\"\n@ティルフィング\nえへへ…\nやくそくですよ、お兄さん！\n\n# textflame 0 0\n@\n弾けるような笑顔を見せる彼女\n\n# textflame 0 0\n@\nマスターはもっと色んな場所へ\n連れて行くことを\n約束するのだった…\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 300511,
+		"script": ";;あ、魚,小\n;;涼しい？,中\n;;それっ！,大\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background %(background)s\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 0 0\n@\nマスターは\nルーンを誘って\n渓流にやってきた\n\n# textflame 1 1\n@ルーン\nあたいの火照りっぱなしの体を\nたまには冷やせって？\n\n# voice 3005 \"roon_0040\"\n@ルーン\nふ～ん\nお前にしては気が利くじゃない\n;;----------------------------------------\n\n# voice 3005 \"roon_0007\"\n# textflame 1 1\n@%(unitName:unit_a)s\nまぁ、ポンコツには\n変わりないんだけど！\n\n# select \"あ、魚\" \"select_label_01\" \"涼しい？\" \"select_label_02\" \"それっ！\" \"select_label_03\"\nまぁ、ポンコツには\n変わりないんだけど！\n\n# label \"select_label_01\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_02\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_03\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_end\"\n# waitandnext 0.1\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

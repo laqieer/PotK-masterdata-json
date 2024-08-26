@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 500713,
+		"script": "# script \"lisp\"\n# fadein \"black\" 0.5\n# background %(background)s\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# voice 5007 \"buryunaku_0003\"\n@ブリューナク\n本日の目的は\nあくまで物資の補給\n個人的な用件はない\n\n# textflame 0 0\n@\nせっかく二人で来たのに…\nそれは少しさみしいと思う\nマスターである\n\n# voice 5007 \"buryunaku_0013\"\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@ブリューナク\n本当にないのか、だと…？\nそう言われても…\n\n# voice 5007 \"buryunaku_0031\"\n# textflame 1 1\n@ブリューナク\n…思いつかない\n面目ない\n\n# textflame 0 0\n@\nポーカーフェイスの彼女の\n表情がわずかに陰る…\n\n# voice 5007 \"buryunaku_0004\"\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@ブリューナク\n…ブリューナクは\nマスターの護衛ができて光栄だ\nそれで満足なのだ\n\n# textflame 0 0\n@\nマスターは苦笑する\nそれならば、今日は納得しようと\n共にマーケットを後にした\n;;--------------------------------------\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 2303111,
+		"script": ";;A,小\n;;B,大\n;;C,中\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_stream_day\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 0 0\n@\n賑やかな場所を離れ、\n渓流までやってきた二人\n\n@\nどうやらカシウスが\nひなたぼっこに合う場所を\n探しに来たようだ\n\n# textflame 1 1\n# voice 230312 \"cassius_lo_0028\"\n@カシウス\nこのいわのうえ、\nあったかくてきもちよさそう…\n\n# voice 230312 \"cassius_lo_0004\"\n@カシウス\nよい、しょ…\nうん…おもったとおり、\nすごくここちいいわ…\n\n@カシウス\nここならおもうぞんぶん、\nひなたぼっこをたのしめる…\n\n# select \"虫に刺されちゃうよ\" \"select_label_01\" \"側で見ててあげようか？\" \"select_label_02\" \"隣で寝てもいい？\" \"select_label_03\"\nここならおもうぞんぶん、\nひなたぼっこをたのしめる…\n\n# label \"select_label_01\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_02\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_03\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_end\"\n# waitandnext 0.1\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

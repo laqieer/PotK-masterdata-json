@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 100522,
+		"script": ";;C 大当たり\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_room\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# voice 1005 \"ritto_0023\"\n# face %(unit_a)s \"angry\"\n@リットゥ\nまてーーーーい！！\n\n@リットゥ\n招かれたのに\nいきなり帰るなんて失礼だろう！\n\n# textflame 0 0\n@\nでも嫌そうだし…と\nマスターはつぶやく\n\n# voice 1005 \"ritto_0028\"\n# face %(unit_a)s \"normal\"\n# textflame 1 1\n@リットゥ\nい、嫌だったら…\n部屋にそもそも入れるはずがない！\n\n# textflame 0 0\n@\nじゃあ、いてもいいのかと\n首を傾げるマスター\n\n# face %(unit_a)s \"angry\"\n# textflame 1 1\n@リットゥ\nいてもいいに…\n決まってるだろう！\n\n# face %(unit_a)s \"normal\"\n# voice 1005 \"ritto_0042\"\n@リットゥ\nし、しかしだな…\n\n@リットゥ\nこう…いろいろ…\n複雑な、あれが…！\n\n# textflame 0 0\n@\nうなったり怒鳴ったり…\n一人で忙しいリットゥ…\n\n# textflame 1 1\n@リットゥ\nと、とにかく…\n勇気を出したんだから…\nか、帰らないで…\n\n# textflame 0 0\n@\nゆっくりうなづいて\nまずは彼女の少し離れたところに\n腰を下ろすマスターだった――\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

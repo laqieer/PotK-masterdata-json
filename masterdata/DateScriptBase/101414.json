@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 101414,
+		"script": ";;A 嫌だった？（小）\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_ferris\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# voice 1014 \"tyrufing_0023\"\n# face %(unit_a)s \"sad\"\n@ティルフィング\nまさか！？\n嫌だなんて、とんでもないです\n\n@ティルフィング\n私が…私達のような存在が\nこんな素敵な時間を\n得てもいいのでしょうか…\n\n# textflame 0 0\n@\n真面目な彼女らしい\n悩み方をしているので\n思わず笑ってしまう\n\n# voice 1014 \"tyrufing_0001\"\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n@ティルフィング\nマスター？\nなにかおかしいですか？\n\n# textflame 0 0\n@\n首を振ってマスターは\nティルフィングにも楽しむ権利\n素敵な時間を過ごす権利はあると言う\n\n# textflame 1 1\n@ティルフィング\nそう…ですか…\nそうですよね…\n\n# face %(unit_a)s \"smile\"\n# voice 1014 \"tyrufing_0004\"\n@ティルフィング\n…マスターと一緒に\n来られてよかったです…\n\n# textflame 0 0\n@\n観覧車が下に着くまで\nティルフィングの微笑を\n見続けるのだった\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

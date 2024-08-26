@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 200723,
+		"script": "# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_drive\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 0 0\n@\nマスターは\n車内で壊せる物がないか\n見回した\n\n# voice 2007 \"sharuuru_0022\"\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@シャルウル\nだ、大丈夫ですよマスター…\nこれぐらい我慢できますから…\n\n# textflame 1 1\n@シャルウル\nそれに部屋に戻れば、\n破壊する物が用意してありますし\n\n# voice 2007 \"sharuuru_0024\"\n# textflame 1 1\n@シャルウル\nあっ…\n\n# face %(unit_a)s \"angry\"\n# textflame 1 1\n@シャルウル\nい、今の情報は忘れて下さい！\n\n# textflame 1 1\n@シャルウル\n衝動対策用の模型など、\n常備していませんから！\n\n# textflame 0 0\n@\n必死な声で訴えるシャルウルに\nマスターは何度か頷いた\n\n# textflame 0 0\n@\nふだんと違い、\n真っ赤になった彼女の後ろを、\n窓の外の景色は流れていく…\n;;--------------------------------------\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 91034198,
+		"script": ";;//不正解\n# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# se \"SE_0733\"\n@ダクネス\n…………\n\n# voice 1034 \"dakunesu_0028\"\n@ダクネス\nそうか、\nマスターがどれだけ知っているか\nちゃんと見せてもらったぞ\n\n;;モノローグ\n# textflame 0 0\n@\n暗い顔をするダクネス\nどうやら間違ったようだ\n\n# textflame 1 1\n@ダクネス\n…………\n\n# voice 1034 \"dakunesu_0026\"\n@ダクネス\nいや、突然の確認だったのだ\n仕方がない、気にするな…\n\n# face %(unit_a)s \"usuall\"\n@ダクネス\n…遅くならないうちに帰ろう\nみなが心配する\n\n;;モノローグ\n# textflame 0 0\n@\nいつもと様子が違うダクネス\nさっきまでの楽しい時間は消え去った\n\n;;モノローグ\n@\n次はちゃんと答えられるようになろう\nそう決心した…\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

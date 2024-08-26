@@ -1,0 +1,5222 @@
+[
+	{
+		"ID": 1,
+		"base_level": 1,
+		"material_level": 1,
+		"probability": 0.75
+	},
+	{
+		"ID": 2,
+		"base_level": 1,
+		"material_level": 2,
+		"probability": 0.800000011920929
+	},
+	{
+		"ID": 3,
+		"base_level": 1,
+		"material_level": 3,
+		"probability": 0.8500000238418579
+	},
+	{
+		"ID": 4,
+		"base_level": 1,
+		"material_level": 4,
+		"probability": 0.8999999761581421
+	},
+	{
+		"ID": 5,
+		"base_level": 1,
+		"material_level": 5,
+		"probability": 0.949999988079071
+	},
+	{
+		"ID": 6,
+		"base_level": 1,
+		"material_level": 6,
+		"probability": 1.0
+	},
+	{
+		"ID": 7,
+		"base_level": 1,
+		"material_level": 7,
+		"probability": 1.0
+	},
+	{
+		"ID": 8,
+		"base_level": 1,
+		"material_level": 8,
+		"probability": 1.0
+	},
+	{
+		"ID": 9,
+		"base_level": 1,
+		"material_level": 9,
+		"probability": 1.0
+	},
+	{
+		"ID": 10,
+		"base_level": 1,
+		"material_level": 10,
+		"probability": 1.0
+	},
+	{
+		"ID": 11,
+		"base_level": 2,
+		"material_level": 1,
+		"probability": 0.699999988079071
+	},
+	{
+		"ID": 12,
+		"base_level": 2,
+		"material_level": 2,
+		"probability": 0.75
+	},
+	{
+		"ID": 13,
+		"base_level": 2,
+		"material_level": 3,
+		"probability": 0.800000011920929
+	},
+	{
+		"ID": 14,
+		"base_level": 2,
+		"material_level": 4,
+		"probability": 0.8500000238418579
+	},
+	{
+		"ID": 15,
+		"base_level": 2,
+		"material_level": 5,
+		"probability": 0.8999999761581421
+	},
+	{
+		"ID": 16,
+		"base_level": 2,
+		"material_level": 6,
+		"probability": 0.949999988079071
+	},
+	{
+		"ID": 17,
+		"base_level": 2,
+		"material_level": 7,
+		"probability": 1.0
+	},
+	{
+		"ID": 18,
+		"base_level": 2,
+		"material_level": 8,
+		"probability": 1.0
+	},
+	{
+		"ID": 19,
+		"base_level": 2,
+		"material_level": 9,
+		"probability": 1.0
+	},
+	{
+		"ID": 20,
+		"base_level": 2,
+		"material_level": 10,
+		"probability": 1.0
+	},
+	{
+		"ID": 21,
+		"base_level": 3,
+		"material_level": 1,
+		"probability": 0.6499999761581421
+	},
+	{
+		"ID": 22,
+		"base_level": 3,
+		"material_level": 2,
+		"probability": 0.699999988079071
+	},
+	{
+		"ID": 23,
+		"base_level": 3,
+		"material_level": 3,
+		"probability": 0.75
+	},
+	{
+		"ID": 24,
+		"base_level": 3,
+		"material_level": 4,
+		"probability": 0.800000011920929
+	},
+	{
+		"ID": 25,
+		"base_level": 3,
+		"material_level": 5,
+		"probability": 0.8500000238418579
+	},
+	{
+		"ID": 26,
+		"base_level": 3,
+		"material_level": 6,
+		"probability": 0.8999999761581421
+	},
+	{
+		"ID": 27,
+		"base_level": 3,
+		"material_level": 7,
+		"probability": 0.949999988079071
+	},
+	{
+		"ID": 28,
+		"base_level": 3,
+		"material_level": 8,
+		"probability": 1.0
+	},
+	{
+		"ID": 29,
+		"base_level": 3,
+		"material_level": 9,
+		"probability": 1.0
+	},
+	{
+		"ID": 30,
+		"base_level": 3,
+		"material_level": 10,
+		"probability": 1.0
+	},
+	{
+		"ID": 31,
+		"base_level": 4,
+		"material_level": 1,
+		"probability": 0.6000000238418579
+	},
+	{
+		"ID": 32,
+		"base_level": 4,
+		"material_level": 2,
+		"probability": 0.6499999761581421
+	},
+	{
+		"ID": 33,
+		"base_level": 4,
+		"material_level": 3,
+		"probability": 0.699999988079071
+	},
+	{
+		"ID": 34,
+		"base_level": 4,
+		"material_level": 4,
+		"probability": 0.75
+	},
+	{
+		"ID": 35,
+		"base_level": 4,
+		"material_level": 5,
+		"probability": 0.800000011920929
+	},
+	{
+		"ID": 36,
+		"base_level": 4,
+		"material_level": 6,
+		"probability": 0.8500000238418579
+	},
+	{
+		"ID": 37,
+		"base_level": 4,
+		"material_level": 7,
+		"probability": 0.8999999761581421
+	},
+	{
+		"ID": 38,
+		"base_level": 4,
+		"material_level": 8,
+		"probability": 0.949999988079071
+	},
+	{
+		"ID": 39,
+		"base_level": 4,
+		"material_level": 9,
+		"probability": 1.0
+	},
+	{
+		"ID": 40,
+		"base_level": 4,
+		"material_level": 10,
+		"probability": 1.0
+	},
+	{
+		"ID": 41,
+		"base_level": 5,
+		"material_level": 1,
+		"probability": 0.550000011920929
+	},
+	{
+		"ID": 42,
+		"base_level": 5,
+		"material_level": 2,
+		"probability": 0.6000000238418579
+	},
+	{
+		"ID": 43,
+		"base_level": 5,
+		"material_level": 3,
+		"probability": 0.6499999761581421
+	},
+	{
+		"ID": 44,
+		"base_level": 5,
+		"material_level": 4,
+		"probability": 0.699999988079071
+	},
+	{
+		"ID": 45,
+		"base_level": 5,
+		"material_level": 5,
+		"probability": 0.75
+	},
+	{
+		"ID": 46,
+		"base_level": 5,
+		"material_level": 6,
+		"probability": 0.800000011920929
+	},
+	{
+		"ID": 47,
+		"base_level": 5,
+		"material_level": 7,
+		"probability": 0.8500000238418579
+	},
+	{
+		"ID": 48,
+		"base_level": 5,
+		"material_level": 8,
+		"probability": 0.8999999761581421
+	},
+	{
+		"ID": 49,
+		"base_level": 5,
+		"material_level": 9,
+		"probability": 0.949999988079071
+	},
+	{
+		"ID": 50,
+		"base_level": 5,
+		"material_level": 10,
+		"probability": 1.0
+	},
+	{
+		"ID": 51,
+		"base_level": 6,
+		"material_level": 1,
+		"probability": 0.44999998807907104
+	},
+	{
+		"ID": 52,
+		"base_level": 6,
+		"material_level": 2,
+		"probability": 0.5
+	},
+	{
+		"ID": 53,
+		"base_level": 6,
+		"material_level": 3,
+		"probability": 0.550000011920929
+	},
+	{
+		"ID": 54,
+		"base_level": 6,
+		"material_level": 4,
+		"probability": 0.6000000238418579
+	},
+	{
+		"ID": 55,
+		"base_level": 6,
+		"material_level": 5,
+		"probability": 0.6499999761581421
+	},
+	{
+		"ID": 56,
+		"base_level": 6,
+		"material_level": 6,
+		"probability": 0.699999988079071
+	},
+	{
+		"ID": 57,
+		"base_level": 6,
+		"material_level": 7,
+		"probability": 0.75
+	},
+	{
+		"ID": 58,
+		"base_level": 6,
+		"material_level": 8,
+		"probability": 0.800000011920929
+	},
+	{
+		"ID": 59,
+		"base_level": 6,
+		"material_level": 9,
+		"probability": 0.8500000238418579
+	},
+	{
+		"ID": 60,
+		"base_level": 6,
+		"material_level": 10,
+		"probability": 0.8999999761581421
+	},
+	{
+		"ID": 61,
+		"base_level": 7,
+		"material_level": 1,
+		"probability": 0.3499999940395355
+	},
+	{
+		"ID": 62,
+		"base_level": 7,
+		"material_level": 2,
+		"probability": 0.4000000059604645
+	},
+	{
+		"ID": 63,
+		"base_level": 7,
+		"material_level": 3,
+		"probability": 0.44999998807907104
+	},
+	{
+		"ID": 64,
+		"base_level": 7,
+		"material_level": 4,
+		"probability": 0.5
+	},
+	{
+		"ID": 65,
+		"base_level": 7,
+		"material_level": 5,
+		"probability": 0.550000011920929
+	},
+	{
+		"ID": 66,
+		"base_level": 7,
+		"material_level": 6,
+		"probability": 0.6000000238418579
+	},
+	{
+		"ID": 67,
+		"base_level": 7,
+		"material_level": 7,
+		"probability": 0.6499999761581421
+	},
+	{
+		"ID": 68,
+		"base_level": 7,
+		"material_level": 8,
+		"probability": 0.699999988079071
+	},
+	{
+		"ID": 69,
+		"base_level": 7,
+		"material_level": 9,
+		"probability": 0.75
+	},
+	{
+		"ID": 70,
+		"base_level": 7,
+		"material_level": 10,
+		"probability": 0.800000011920929
+	},
+	{
+		"ID": 71,
+		"base_level": 8,
+		"material_level": 1,
+		"probability": 0.25
+	},
+	{
+		"ID": 72,
+		"base_level": 8,
+		"material_level": 2,
+		"probability": 0.30000001192092896
+	},
+	{
+		"ID": 73,
+		"base_level": 8,
+		"material_level": 3,
+		"probability": 0.3499999940395355
+	},
+	{
+		"ID": 74,
+		"base_level": 8,
+		"material_level": 4,
+		"probability": 0.4000000059604645
+	},
+	{
+		"ID": 75,
+		"base_level": 8,
+		"material_level": 5,
+		"probability": 0.44999998807907104
+	},
+	{
+		"ID": 76,
+		"base_level": 8,
+		"material_level": 6,
+		"probability": 0.5
+	},
+	{
+		"ID": 77,
+		"base_level": 8,
+		"material_level": 7,
+		"probability": 0.550000011920929
+	},
+	{
+		"ID": 78,
+		"base_level": 8,
+		"material_level": 8,
+		"probability": 0.6000000238418579
+	},
+	{
+		"ID": 79,
+		"base_level": 8,
+		"material_level": 9,
+		"probability": 0.6499999761581421
+	},
+	{
+		"ID": 80,
+		"base_level": 8,
+		"material_level": 10,
+		"probability": 0.699999988079071
+	},
+	{
+		"ID": 81,
+		"base_level": 9,
+		"material_level": 1,
+		"probability": 0.15000000596046448
+	},
+	{
+		"ID": 82,
+		"base_level": 9,
+		"material_level": 2,
+		"probability": 0.20000000298023224
+	},
+	{
+		"ID": 83,
+		"base_level": 9,
+		"material_level": 3,
+		"probability": 0.25
+	},
+	{
+		"ID": 84,
+		"base_level": 9,
+		"material_level": 4,
+		"probability": 0.30000001192092896
+	},
+	{
+		"ID": 85,
+		"base_level": 9,
+		"material_level": 5,
+		"probability": 0.3499999940395355
+	},
+	{
+		"ID": 86,
+		"base_level": 9,
+		"material_level": 6,
+		"probability": 0.4000000059604645
+	},
+	{
+		"ID": 87,
+		"base_level": 9,
+		"material_level": 7,
+		"probability": 0.44999998807907104
+	},
+	{
+		"ID": 88,
+		"base_level": 9,
+		"material_level": 8,
+		"probability": 0.5
+	},
+	{
+		"ID": 89,
+		"base_level": 9,
+		"material_level": 9,
+		"probability": 0.550000011920929
+	},
+	{
+		"ID": 90,
+		"base_level": 9,
+		"material_level": 10,
+		"probability": 0.6000000238418579
+	},
+	{
+		"ID": 91,
+		"base_level": 10,
+		"material_level": 1,
+		"probability": 0.10000000149011612
+	},
+	{
+		"ID": 92,
+		"base_level": 10,
+		"material_level": 2,
+		"probability": 0.15000000596046448
+	},
+	{
+		"ID": 93,
+		"base_level": 10,
+		"material_level": 3,
+		"probability": 0.20000000298023224
+	},
+	{
+		"ID": 94,
+		"base_level": 10,
+		"material_level": 4,
+		"probability": 0.25
+	},
+	{
+		"ID": 95,
+		"base_level": 10,
+		"material_level": 5,
+		"probability": 0.30000001192092896
+	},
+	{
+		"ID": 96,
+		"base_level": 10,
+		"material_level": 6,
+		"probability": 0.3499999940395355
+	},
+	{
+		"ID": 97,
+		"base_level": 10,
+		"material_level": 7,
+		"probability": 0.4000000059604645
+	},
+	{
+		"ID": 98,
+		"base_level": 10,
+		"material_level": 8,
+		"probability": 0.44999998807907104
+	},
+	{
+		"ID": 99,
+		"base_level": 10,
+		"material_level": 9,
+		"probability": 0.5
+	},
+	{
+		"ID": 100,
+		"base_level": 10,
+		"material_level": 10,
+		"probability": 0.550000011920929
+	},
+	{
+		"ID": 101,
+		"base_level": 1,
+		"material_level": 11,
+		"probability": 1.0
+	},
+	{
+		"ID": 102,
+		"base_level": 1,
+		"material_level": 12,
+		"probability": 1.0
+	},
+	{
+		"ID": 103,
+		"base_level": 1,
+		"material_level": 13,
+		"probability": 1.0
+	},
+	{
+		"ID": 104,
+		"base_level": 1,
+		"material_level": 14,
+		"probability": 1.0
+	},
+	{
+		"ID": 105,
+		"base_level": 1,
+		"material_level": 15,
+		"probability": 1.0
+	},
+	{
+		"ID": 106,
+		"base_level": 1,
+		"material_level": 16,
+		"probability": 1.0
+	},
+	{
+		"ID": 107,
+		"base_level": 1,
+		"material_level": 17,
+		"probability": 1.0
+	},
+	{
+		"ID": 108,
+		"base_level": 1,
+		"material_level": 18,
+		"probability": 1.0
+	},
+	{
+		"ID": 109,
+		"base_level": 1,
+		"material_level": 19,
+		"probability": 1.0
+	},
+	{
+		"ID": 110,
+		"base_level": 1,
+		"material_level": 20,
+		"probability": 1.0
+	},
+	{
+		"ID": 111,
+		"base_level": 1,
+		"material_level": 21,
+		"probability": 1.0
+	},
+	{
+		"ID": 112,
+		"base_level": 1,
+		"material_level": 22,
+		"probability": 1.0
+	},
+	{
+		"ID": 113,
+		"base_level": 1,
+		"material_level": 23,
+		"probability": 1.0
+	},
+	{
+		"ID": 114,
+		"base_level": 1,
+		"material_level": 24,
+		"probability": 1.0
+	},
+	{
+		"ID": 115,
+		"base_level": 1,
+		"material_level": 25,
+		"probability": 1.0
+	},
+	{
+		"ID": 116,
+		"base_level": 1,
+		"material_level": 26,
+		"probability": 1.0
+	},
+	{
+		"ID": 117,
+		"base_level": 1,
+		"material_level": 27,
+		"probability": 1.0
+	},
+	{
+		"ID": 118,
+		"base_level": 1,
+		"material_level": 28,
+		"probability": 1.0
+	},
+	{
+		"ID": 119,
+		"base_level": 1,
+		"material_level": 29,
+		"probability": 1.0
+	},
+	{
+		"ID": 120,
+		"base_level": 1,
+		"material_level": 30,
+		"probability": 1.0
+	},
+	{
+		"ID": 121,
+		"base_level": 2,
+		"material_level": 11,
+		"probability": 1.0
+	},
+	{
+		"ID": 122,
+		"base_level": 2,
+		"material_level": 12,
+		"probability": 1.0
+	},
+	{
+		"ID": 123,
+		"base_level": 2,
+		"material_level": 13,
+		"probability": 1.0
+	},
+	{
+		"ID": 124,
+		"base_level": 2,
+		"material_level": 14,
+		"probability": 1.0
+	},
+	{
+		"ID": 125,
+		"base_level": 2,
+		"material_level": 15,
+		"probability": 1.0
+	},
+	{
+		"ID": 126,
+		"base_level": 2,
+		"material_level": 16,
+		"probability": 1.0
+	},
+	{
+		"ID": 127,
+		"base_level": 2,
+		"material_level": 17,
+		"probability": 1.0
+	},
+	{
+		"ID": 128,
+		"base_level": 2,
+		"material_level": 18,
+		"probability": 1.0
+	},
+	{
+		"ID": 129,
+		"base_level": 2,
+		"material_level": 19,
+		"probability": 1.0
+	},
+	{
+		"ID": 130,
+		"base_level": 2,
+		"material_level": 20,
+		"probability": 1.0
+	},
+	{
+		"ID": 131,
+		"base_level": 2,
+		"material_level": 21,
+		"probability": 1.0
+	},
+	{
+		"ID": 132,
+		"base_level": 2,
+		"material_level": 22,
+		"probability": 1.0
+	},
+	{
+		"ID": 133,
+		"base_level": 2,
+		"material_level": 23,
+		"probability": 1.0
+	},
+	{
+		"ID": 134,
+		"base_level": 2,
+		"material_level": 24,
+		"probability": 1.0
+	},
+	{
+		"ID": 135,
+		"base_level": 2,
+		"material_level": 25,
+		"probability": 1.0
+	},
+	{
+		"ID": 136,
+		"base_level": 2,
+		"material_level": 26,
+		"probability": 1.0
+	},
+	{
+		"ID": 137,
+		"base_level": 2,
+		"material_level": 27,
+		"probability": 1.0
+	},
+	{
+		"ID": 138,
+		"base_level": 2,
+		"material_level": 28,
+		"probability": 1.0
+	},
+	{
+		"ID": 139,
+		"base_level": 2,
+		"material_level": 29,
+		"probability": 1.0
+	},
+	{
+		"ID": 140,
+		"base_level": 2,
+		"material_level": 30,
+		"probability": 1.0
+	},
+	{
+		"ID": 141,
+		"base_level": 3,
+		"material_level": 11,
+		"probability": 1.0
+	},
+	{
+		"ID": 142,
+		"base_level": 3,
+		"material_level": 12,
+		"probability": 1.0
+	},
+	{
+		"ID": 143,
+		"base_level": 3,
+		"material_level": 13,
+		"probability": 1.0
+	},
+	{
+		"ID": 144,
+		"base_level": 3,
+		"material_level": 14,
+		"probability": 1.0
+	},
+	{
+		"ID": 145,
+		"base_level": 3,
+		"material_level": 15,
+		"probability": 1.0
+	},
+	{
+		"ID": 146,
+		"base_level": 3,
+		"material_level": 16,
+		"probability": 1.0
+	},
+	{
+		"ID": 147,
+		"base_level": 3,
+		"material_level": 17,
+		"probability": 1.0
+	},
+	{
+		"ID": 148,
+		"base_level": 3,
+		"material_level": 18,
+		"probability": 1.0
+	},
+	{
+		"ID": 149,
+		"base_level": 3,
+		"material_level": 19,
+		"probability": 1.0
+	},
+	{
+		"ID": 150,
+		"base_level": 3,
+		"material_level": 20,
+		"probability": 1.0
+	},
+	{
+		"ID": 151,
+		"base_level": 3,
+		"material_level": 21,
+		"probability": 1.0
+	},
+	{
+		"ID": 152,
+		"base_level": 3,
+		"material_level": 22,
+		"probability": 1.0
+	},
+	{
+		"ID": 153,
+		"base_level": 3,
+		"material_level": 23,
+		"probability": 1.0
+	},
+	{
+		"ID": 154,
+		"base_level": 3,
+		"material_level": 24,
+		"probability": 1.0
+	},
+	{
+		"ID": 155,
+		"base_level": 3,
+		"material_level": 25,
+		"probability": 1.0
+	},
+	{
+		"ID": 156,
+		"base_level": 3,
+		"material_level": 26,
+		"probability": 1.0
+	},
+	{
+		"ID": 157,
+		"base_level": 3,
+		"material_level": 27,
+		"probability": 1.0
+	},
+	{
+		"ID": 158,
+		"base_level": 3,
+		"material_level": 28,
+		"probability": 1.0
+	},
+	{
+		"ID": 159,
+		"base_level": 3,
+		"material_level": 29,
+		"probability": 1.0
+	},
+	{
+		"ID": 160,
+		"base_level": 3,
+		"material_level": 30,
+		"probability": 1.0
+	},
+	{
+		"ID": 161,
+		"base_level": 4,
+		"material_level": 11,
+		"probability": 1.0
+	},
+	{
+		"ID": 162,
+		"base_level": 4,
+		"material_level": 12,
+		"probability": 1.0
+	},
+	{
+		"ID": 163,
+		"base_level": 4,
+		"material_level": 13,
+		"probability": 1.0
+	},
+	{
+		"ID": 164,
+		"base_level": 4,
+		"material_level": 14,
+		"probability": 1.0
+	},
+	{
+		"ID": 165,
+		"base_level": 4,
+		"material_level": 15,
+		"probability": 1.0
+	},
+	{
+		"ID": 166,
+		"base_level": 4,
+		"material_level": 16,
+		"probability": 1.0
+	},
+	{
+		"ID": 167,
+		"base_level": 4,
+		"material_level": 17,
+		"probability": 1.0
+	},
+	{
+		"ID": 168,
+		"base_level": 4,
+		"material_level": 18,
+		"probability": 1.0
+	},
+	{
+		"ID": 169,
+		"base_level": 4,
+		"material_level": 19,
+		"probability": 1.0
+	},
+	{
+		"ID": 170,
+		"base_level": 4,
+		"material_level": 20,
+		"probability": 1.0
+	},
+	{
+		"ID": 171,
+		"base_level": 4,
+		"material_level": 21,
+		"probability": 1.0
+	},
+	{
+		"ID": 172,
+		"base_level": 4,
+		"material_level": 22,
+		"probability": 1.0
+	},
+	{
+		"ID": 173,
+		"base_level": 4,
+		"material_level": 23,
+		"probability": 1.0
+	},
+	{
+		"ID": 174,
+		"base_level": 4,
+		"material_level": 24,
+		"probability": 1.0
+	},
+	{
+		"ID": 175,
+		"base_level": 4,
+		"material_level": 25,
+		"probability": 1.0
+	},
+	{
+		"ID": 176,
+		"base_level": 4,
+		"material_level": 26,
+		"probability": 1.0
+	},
+	{
+		"ID": 177,
+		"base_level": 4,
+		"material_level": 27,
+		"probability": 1.0
+	},
+	{
+		"ID": 178,
+		"base_level": 4,
+		"material_level": 28,
+		"probability": 1.0
+	},
+	{
+		"ID": 179,
+		"base_level": 4,
+		"material_level": 29,
+		"probability": 1.0
+	},
+	{
+		"ID": 180,
+		"base_level": 4,
+		"material_level": 30,
+		"probability": 1.0
+	},
+	{
+		"ID": 181,
+		"base_level": 5,
+		"material_level": 11,
+		"probability": 1.0
+	},
+	{
+		"ID": 182,
+		"base_level": 5,
+		"material_level": 12,
+		"probability": 1.0
+	},
+	{
+		"ID": 183,
+		"base_level": 5,
+		"material_level": 13,
+		"probability": 1.0
+	},
+	{
+		"ID": 184,
+		"base_level": 5,
+		"material_level": 14,
+		"probability": 1.0
+	},
+	{
+		"ID": 185,
+		"base_level": 5,
+		"material_level": 15,
+		"probability": 1.0
+	},
+	{
+		"ID": 186,
+		"base_level": 5,
+		"material_level": 16,
+		"probability": 1.0
+	},
+	{
+		"ID": 187,
+		"base_level": 5,
+		"material_level": 17,
+		"probability": 1.0
+	},
+	{
+		"ID": 188,
+		"base_level": 5,
+		"material_level": 18,
+		"probability": 1.0
+	},
+	{
+		"ID": 189,
+		"base_level": 5,
+		"material_level": 19,
+		"probability": 1.0
+	},
+	{
+		"ID": 190,
+		"base_level": 5,
+		"material_level": 20,
+		"probability": 1.0
+	},
+	{
+		"ID": 191,
+		"base_level": 5,
+		"material_level": 21,
+		"probability": 1.0
+	},
+	{
+		"ID": 192,
+		"base_level": 5,
+		"material_level": 22,
+		"probability": 1.0
+	},
+	{
+		"ID": 193,
+		"base_level": 5,
+		"material_level": 23,
+		"probability": 1.0
+	},
+	{
+		"ID": 194,
+		"base_level": 5,
+		"material_level": 24,
+		"probability": 1.0
+	},
+	{
+		"ID": 195,
+		"base_level": 5,
+		"material_level": 25,
+		"probability": 1.0
+	},
+	{
+		"ID": 196,
+		"base_level": 5,
+		"material_level": 26,
+		"probability": 1.0
+	},
+	{
+		"ID": 197,
+		"base_level": 5,
+		"material_level": 27,
+		"probability": 1.0
+	},
+	{
+		"ID": 198,
+		"base_level": 5,
+		"material_level": 28,
+		"probability": 1.0
+	},
+	{
+		"ID": 199,
+		"base_level": 5,
+		"material_level": 29,
+		"probability": 1.0
+	},
+	{
+		"ID": 200,
+		"base_level": 5,
+		"material_level": 30,
+		"probability": 1.0
+	},
+	{
+		"ID": 201,
+		"base_level": 6,
+		"material_level": 11,
+		"probability": 0.949999988079071
+	},
+	{
+		"ID": 202,
+		"base_level": 6,
+		"material_level": 12,
+		"probability": 1.0
+	},
+	{
+		"ID": 203,
+		"base_level": 6,
+		"material_level": 13,
+		"probability": 1.0
+	},
+	{
+		"ID": 204,
+		"base_level": 6,
+		"material_level": 14,
+		"probability": 1.0
+	},
+	{
+		"ID": 205,
+		"base_level": 6,
+		"material_level": 15,
+		"probability": 1.0
+	},
+	{
+		"ID": 206,
+		"base_level": 6,
+		"material_level": 16,
+		"probability": 1.0
+	},
+	{
+		"ID": 207,
+		"base_level": 6,
+		"material_level": 17,
+		"probability": 1.0
+	},
+	{
+		"ID": 208,
+		"base_level": 6,
+		"material_level": 18,
+		"probability": 1.0
+	},
+	{
+		"ID": 209,
+		"base_level": 6,
+		"material_level": 19,
+		"probability": 1.0
+	},
+	{
+		"ID": 210,
+		"base_level": 6,
+		"material_level": 20,
+		"probability": 1.0
+	},
+	{
+		"ID": 211,
+		"base_level": 6,
+		"material_level": 21,
+		"probability": 1.0
+	},
+	{
+		"ID": 212,
+		"base_level": 6,
+		"material_level": 22,
+		"probability": 1.0
+	},
+	{
+		"ID": 213,
+		"base_level": 6,
+		"material_level": 23,
+		"probability": 1.0
+	},
+	{
+		"ID": 214,
+		"base_level": 6,
+		"material_level": 24,
+		"probability": 1.0
+	},
+	{
+		"ID": 215,
+		"base_level": 6,
+		"material_level": 25,
+		"probability": 1.0
+	},
+	{
+		"ID": 216,
+		"base_level": 6,
+		"material_level": 26,
+		"probability": 1.0
+	},
+	{
+		"ID": 217,
+		"base_level": 6,
+		"material_level": 27,
+		"probability": 1.0
+	},
+	{
+		"ID": 218,
+		"base_level": 6,
+		"material_level": 28,
+		"probability": 1.0
+	},
+	{
+		"ID": 219,
+		"base_level": 6,
+		"material_level": 29,
+		"probability": 1.0
+	},
+	{
+		"ID": 220,
+		"base_level": 6,
+		"material_level": 30,
+		"probability": 1.0
+	},
+	{
+		"ID": 221,
+		"base_level": 7,
+		"material_level": 11,
+		"probability": 0.8500000238418579
+	},
+	{
+		"ID": 222,
+		"base_level": 7,
+		"material_level": 12,
+		"probability": 0.8999999761581421
+	},
+	{
+		"ID": 223,
+		"base_level": 7,
+		"material_level": 13,
+		"probability": 0.949999988079071
+	},
+	{
+		"ID": 224,
+		"base_level": 7,
+		"material_level": 14,
+		"probability": 1.0
+	},
+	{
+		"ID": 225,
+		"base_level": 7,
+		"material_level": 15,
+		"probability": 1.0
+	},
+	{
+		"ID": 226,
+		"base_level": 7,
+		"material_level": 16,
+		"probability": 1.0
+	},
+	{
+		"ID": 227,
+		"base_level": 7,
+		"material_level": 17,
+		"probability": 1.0
+	},
+	{
+		"ID": 228,
+		"base_level": 7,
+		"material_level": 18,
+		"probability": 1.0
+	},
+	{
+		"ID": 229,
+		"base_level": 7,
+		"material_level": 19,
+		"probability": 1.0
+	},
+	{
+		"ID": 230,
+		"base_level": 7,
+		"material_level": 20,
+		"probability": 1.0
+	},
+	{
+		"ID": 231,
+		"base_level": 7,
+		"material_level": 21,
+		"probability": 1.0
+	},
+	{
+		"ID": 232,
+		"base_level": 7,
+		"material_level": 22,
+		"probability": 1.0
+	},
+	{
+		"ID": 233,
+		"base_level": 7,
+		"material_level": 23,
+		"probability": 1.0
+	},
+	{
+		"ID": 234,
+		"base_level": 7,
+		"material_level": 24,
+		"probability": 1.0
+	},
+	{
+		"ID": 235,
+		"base_level": 7,
+		"material_level": 25,
+		"probability": 1.0
+	},
+	{
+		"ID": 236,
+		"base_level": 7,
+		"material_level": 26,
+		"probability": 1.0
+	},
+	{
+		"ID": 237,
+		"base_level": 7,
+		"material_level": 27,
+		"probability": 1.0
+	},
+	{
+		"ID": 238,
+		"base_level": 7,
+		"material_level": 28,
+		"probability": 1.0
+	},
+	{
+		"ID": 239,
+		"base_level": 7,
+		"material_level": 29,
+		"probability": 1.0
+	},
+	{
+		"ID": 240,
+		"base_level": 7,
+		"material_level": 30,
+		"probability": 1.0
+	},
+	{
+		"ID": 241,
+		"base_level": 8,
+		"material_level": 11,
+		"probability": 0.75
+	},
+	{
+		"ID": 242,
+		"base_level": 8,
+		"material_level": 12,
+		"probability": 0.800000011920929
+	},
+	{
+		"ID": 243,
+		"base_level": 8,
+		"material_level": 13,
+		"probability": 0.8500000238418579
+	},
+	{
+		"ID": 244,
+		"base_level": 8,
+		"material_level": 14,
+		"probability": 0.8999999761581421
+	},
+	{
+		"ID": 245,
+		"base_level": 8,
+		"material_level": 15,
+		"probability": 0.949999988079071
+	},
+	{
+		"ID": 246,
+		"base_level": 8,
+		"material_level": 16,
+		"probability": 1.0
+	},
+	{
+		"ID": 247,
+		"base_level": 8,
+		"material_level": 17,
+		"probability": 1.0
+	},
+	{
+		"ID": 248,
+		"base_level": 8,
+		"material_level": 18,
+		"probability": 1.0
+	},
+	{
+		"ID": 249,
+		"base_level": 8,
+		"material_level": 19,
+		"probability": 1.0
+	},
+	{
+		"ID": 250,
+		"base_level": 8,
+		"material_level": 20,
+		"probability": 1.0
+	},
+	{
+		"ID": 251,
+		"base_level": 8,
+		"material_level": 21,
+		"probability": 1.0
+	},
+	{
+		"ID": 252,
+		"base_level": 8,
+		"material_level": 22,
+		"probability": 1.0
+	},
+	{
+		"ID": 253,
+		"base_level": 8,
+		"material_level": 23,
+		"probability": 1.0
+	},
+	{
+		"ID": 254,
+		"base_level": 8,
+		"material_level": 24,
+		"probability": 1.0
+	},
+	{
+		"ID": 255,
+		"base_level": 8,
+		"material_level": 25,
+		"probability": 1.0
+	},
+	{
+		"ID": 256,
+		"base_level": 8,
+		"material_level": 26,
+		"probability": 1.0
+	},
+	{
+		"ID": 257,
+		"base_level": 8,
+		"material_level": 27,
+		"probability": 1.0
+	},
+	{
+		"ID": 258,
+		"base_level": 8,
+		"material_level": 28,
+		"probability": 1.0
+	},
+	{
+		"ID": 259,
+		"base_level": 8,
+		"material_level": 29,
+		"probability": 1.0
+	},
+	{
+		"ID": 260,
+		"base_level": 8,
+		"material_level": 30,
+		"probability": 1.0
+	},
+	{
+		"ID": 261,
+		"base_level": 9,
+		"material_level": 11,
+		"probability": 0.6499999761581421
+	},
+	{
+		"ID": 262,
+		"base_level": 9,
+		"material_level": 12,
+		"probability": 0.699999988079071
+	},
+	{
+		"ID": 263,
+		"base_level": 9,
+		"material_level": 13,
+		"probability": 0.75
+	},
+	{
+		"ID": 264,
+		"base_level": 9,
+		"material_level": 14,
+		"probability": 0.800000011920929
+	},
+	{
+		"ID": 265,
+		"base_level": 9,
+		"material_level": 15,
+		"probability": 0.8500000238418579
+	},
+	{
+		"ID": 266,
+		"base_level": 9,
+		"material_level": 16,
+		"probability": 0.8999999761581421
+	},
+	{
+		"ID": 267,
+		"base_level": 9,
+		"material_level": 17,
+		"probability": 0.949999988079071
+	},
+	{
+		"ID": 268,
+		"base_level": 9,
+		"material_level": 18,
+		"probability": 1.0
+	},
+	{
+		"ID": 269,
+		"base_level": 9,
+		"material_level": 19,
+		"probability": 1.0
+	},
+	{
+		"ID": 270,
+		"base_level": 9,
+		"material_level": 20,
+		"probability": 1.0
+	},
+	{
+		"ID": 271,
+		"base_level": 9,
+		"material_level": 21,
+		"probability": 1.0
+	},
+	{
+		"ID": 272,
+		"base_level": 9,
+		"material_level": 22,
+		"probability": 1.0
+	},
+	{
+		"ID": 273,
+		"base_level": 9,
+		"material_level": 23,
+		"probability": 1.0
+	},
+	{
+		"ID": 274,
+		"base_level": 9,
+		"material_level": 24,
+		"probability": 1.0
+	},
+	{
+		"ID": 275,
+		"base_level": 9,
+		"material_level": 25,
+		"probability": 1.0
+	},
+	{
+		"ID": 276,
+		"base_level": 9,
+		"material_level": 26,
+		"probability": 1.0
+	},
+	{
+		"ID": 277,
+		"base_level": 9,
+		"material_level": 27,
+		"probability": 1.0
+	},
+	{
+		"ID": 278,
+		"base_level": 9,
+		"material_level": 28,
+		"probability": 1.0
+	},
+	{
+		"ID": 279,
+		"base_level": 9,
+		"material_level": 29,
+		"probability": 1.0
+	},
+	{
+		"ID": 280,
+		"base_level": 9,
+		"material_level": 30,
+		"probability": 1.0
+	},
+	{
+		"ID": 281,
+		"base_level": 10,
+		"material_level": 11,
+		"probability": 0.6000000238418579
+	},
+	{
+		"ID": 282,
+		"base_level": 10,
+		"material_level": 12,
+		"probability": 0.6499999761581421
+	},
+	{
+		"ID": 283,
+		"base_level": 10,
+		"material_level": 13,
+		"probability": 0.699999988079071
+	},
+	{
+		"ID": 284,
+		"base_level": 10,
+		"material_level": 14,
+		"probability": 0.75
+	},
+	{
+		"ID": 285,
+		"base_level": 10,
+		"material_level": 15,
+		"probability": 0.800000011920929
+	},
+	{
+		"ID": 286,
+		"base_level": 10,
+		"material_level": 16,
+		"probability": 0.8500000238418579
+	},
+	{
+		"ID": 287,
+		"base_level": 10,
+		"material_level": 17,
+		"probability": 0.8999999761581421
+	},
+	{
+		"ID": 288,
+		"base_level": 10,
+		"material_level": 18,
+		"probability": 0.949999988079071
+	},
+	{
+		"ID": 289,
+		"base_level": 10,
+		"material_level": 19,
+		"probability": 1.0
+	},
+	{
+		"ID": 290,
+		"base_level": 10,
+		"material_level": 20,
+		"probability": 1.0
+	},
+	{
+		"ID": 291,
+		"base_level": 10,
+		"material_level": 21,
+		"probability": 1.0
+	},
+	{
+		"ID": 292,
+		"base_level": 10,
+		"material_level": 22,
+		"probability": 1.0
+	},
+	{
+		"ID": 293,
+		"base_level": 10,
+		"material_level": 23,
+		"probability": 1.0
+	},
+	{
+		"ID": 294,
+		"base_level": 10,
+		"material_level": 24,
+		"probability": 1.0
+	},
+	{
+		"ID": 295,
+		"base_level": 10,
+		"material_level": 25,
+		"probability": 1.0
+	},
+	{
+		"ID": 296,
+		"base_level": 10,
+		"material_level": 26,
+		"probability": 1.0
+	},
+	{
+		"ID": 297,
+		"base_level": 10,
+		"material_level": 27,
+		"probability": 1.0
+	},
+	{
+		"ID": 298,
+		"base_level": 10,
+		"material_level": 28,
+		"probability": 1.0
+	},
+	{
+		"ID": 299,
+		"base_level": 10,
+		"material_level": 29,
+		"probability": 1.0
+	},
+	{
+		"ID": 300,
+		"base_level": 10,
+		"material_level": 30,
+		"probability": 1.0
+	},
+	{
+		"ID": 301,
+		"base_level": 11,
+		"material_level": 1,
+		"probability": 0.05000000074505806
+	},
+	{
+		"ID": 302,
+		"base_level": 11,
+		"material_level": 2,
+		"probability": 0.10000000149011612
+	},
+	{
+		"ID": 303,
+		"base_level": 11,
+		"material_level": 3,
+		"probability": 0.15000000596046448
+	},
+	{
+		"ID": 304,
+		"base_level": 11,
+		"material_level": 4,
+		"probability": 0.20000000298023224
+	},
+	{
+		"ID": 305,
+		"base_level": 11,
+		"material_level": 5,
+		"probability": 0.25
+	},
+	{
+		"ID": 306,
+		"base_level": 11,
+		"material_level": 6,
+		"probability": 0.30000001192092896
+	},
+	{
+		"ID": 307,
+		"base_level": 11,
+		"material_level": 7,
+		"probability": 0.3499999940395355
+	},
+	{
+		"ID": 308,
+		"base_level": 11,
+		"material_level": 8,
+		"probability": 0.4000000059604645
+	},
+	{
+		"ID": 309,
+		"base_level": 11,
+		"material_level": 9,
+		"probability": 0.44999998807907104
+	},
+	{
+		"ID": 310,
+		"base_level": 11,
+		"material_level": 10,
+		"probability": 0.5
+	},
+	{
+		"ID": 311,
+		"base_level": 11,
+		"material_level": 11,
+		"probability": 0.550000011920929
+	},
+	{
+		"ID": 312,
+		"base_level": 11,
+		"material_level": 12,
+		"probability": 0.6000000238418579
+	},
+	{
+		"ID": 313,
+		"base_level": 11,
+		"material_level": 13,
+		"probability": 0.6499999761581421
+	},
+	{
+		"ID": 314,
+		"base_level": 11,
+		"material_level": 14,
+		"probability": 0.699999988079071
+	},
+	{
+		"ID": 315,
+		"base_level": 11,
+		"material_level": 15,
+		"probability": 0.75
+	},
+	{
+		"ID": 316,
+		"base_level": 11,
+		"material_level": 16,
+		"probability": 0.800000011920929
+	},
+	{
+		"ID": 317,
+		"base_level": 11,
+		"material_level": 17,
+		"probability": 0.8500000238418579
+	},
+	{
+		"ID": 318,
+		"base_level": 11,
+		"material_level": 18,
+		"probability": 0.8999999761581421
+	},
+	{
+		"ID": 319,
+		"base_level": 11,
+		"material_level": 19,
+		"probability": 0.949999988079071
+	},
+	{
+		"ID": 320,
+		"base_level": 11,
+		"material_level": 20,
+		"probability": 1.0
+	},
+	{
+		"ID": 321,
+		"base_level": 11,
+		"material_level": 21,
+		"probability": 1.0
+	},
+	{
+		"ID": 322,
+		"base_level": 11,
+		"material_level": 22,
+		"probability": 1.0
+	},
+	{
+		"ID": 323,
+		"base_level": 11,
+		"material_level": 23,
+		"probability": 1.0
+	},
+	{
+		"ID": 324,
+		"base_level": 11,
+		"material_level": 24,
+		"probability": 1.0
+	},
+	{
+		"ID": 325,
+		"base_level": 11,
+		"material_level": 25,
+		"probability": 1.0
+	},
+	{
+		"ID": 326,
+		"base_level": 11,
+		"material_level": 26,
+		"probability": 1.0
+	},
+	{
+		"ID": 327,
+		"base_level": 11,
+		"material_level": 27,
+		"probability": 1.0
+	},
+	{
+		"ID": 328,
+		"base_level": 11,
+		"material_level": 28,
+		"probability": 1.0
+	},
+	{
+		"ID": 329,
+		"base_level": 11,
+		"material_level": 29,
+		"probability": 1.0
+	},
+	{
+		"ID": 330,
+		"base_level": 11,
+		"material_level": 30,
+		"probability": 1.0
+	},
+	{
+		"ID": 331,
+		"base_level": 12,
+		"material_level": 1,
+		"probability": 0.029999999329447746
+	},
+	{
+		"ID": 332,
+		"base_level": 12,
+		"material_level": 2,
+		"probability": 0.05000000074505806
+	},
+	{
+		"ID": 333,
+		"base_level": 12,
+		"material_level": 3,
+		"probability": 0.10000000149011612
+	},
+	{
+		"ID": 334,
+		"base_level": 12,
+		"material_level": 4,
+		"probability": 0.15000000596046448
+	},
+	{
+		"ID": 335,
+		"base_level": 12,
+		"material_level": 5,
+		"probability": 0.20000000298023224
+	},
+	{
+		"ID": 336,
+		"base_level": 12,
+		"material_level": 6,
+		"probability": 0.25
+	},
+	{
+		"ID": 337,
+		"base_level": 12,
+		"material_level": 7,
+		"probability": 0.30000001192092896
+	},
+	{
+		"ID": 338,
+		"base_level": 12,
+		"material_level": 8,
+		"probability": 0.3499999940395355
+	},
+	{
+		"ID": 339,
+		"base_level": 12,
+		"material_level": 9,
+		"probability": 0.4000000059604645
+	},
+	{
+		"ID": 340,
+		"base_level": 12,
+		"material_level": 10,
+		"probability": 0.44999998807907104
+	},
+	{
+		"ID": 341,
+		"base_level": 12,
+		"material_level": 11,
+		"probability": 0.5
+	},
+	{
+		"ID": 342,
+		"base_level": 12,
+		"material_level": 12,
+		"probability": 0.550000011920929
+	},
+	{
+		"ID": 343,
+		"base_level": 12,
+		"material_level": 13,
+		"probability": 0.6000000238418579
+	},
+	{
+		"ID": 344,
+		"base_level": 12,
+		"material_level": 14,
+		"probability": 0.6499999761581421
+	},
+	{
+		"ID": 345,
+		"base_level": 12,
+		"material_level": 15,
+		"probability": 0.699999988079071
+	},
+	{
+		"ID": 346,
+		"base_level": 12,
+		"material_level": 16,
+		"probability": 0.75
+	},
+	{
+		"ID": 347,
+		"base_level": 12,
+		"material_level": 17,
+		"probability": 0.800000011920929
+	},
+	{
+		"ID": 348,
+		"base_level": 12,
+		"material_level": 18,
+		"probability": 0.8500000238418579
+	},
+	{
+		"ID": 349,
+		"base_level": 12,
+		"material_level": 19,
+		"probability": 0.8999999761581421
+	},
+	{
+		"ID": 350,
+		"base_level": 12,
+		"material_level": 20,
+		"probability": 0.949999988079071
+	},
+	{
+		"ID": 351,
+		"base_level": 12,
+		"material_level": 21,
+		"probability": 1.0
+	},
+	{
+		"ID": 352,
+		"base_level": 12,
+		"material_level": 22,
+		"probability": 1.0
+	},
+	{
+		"ID": 353,
+		"base_level": 12,
+		"material_level": 23,
+		"probability": 1.0
+	},
+	{
+		"ID": 354,
+		"base_level": 12,
+		"material_level": 24,
+		"probability": 1.0
+	},
+	{
+		"ID": 355,
+		"base_level": 12,
+		"material_level": 25,
+		"probability": 1.0
+	},
+	{
+		"ID": 356,
+		"base_level": 12,
+		"material_level": 26,
+		"probability": 1.0
+	},
+	{
+		"ID": 357,
+		"base_level": 12,
+		"material_level": 27,
+		"probability": 1.0
+	},
+	{
+		"ID": 358,
+		"base_level": 12,
+		"material_level": 28,
+		"probability": 1.0
+	},
+	{
+		"ID": 359,
+		"base_level": 12,
+		"material_level": 29,
+		"probability": 1.0
+	},
+	{
+		"ID": 360,
+		"base_level": 12,
+		"material_level": 30,
+		"probability": 1.0
+	},
+	{
+		"ID": 361,
+		"base_level": 13,
+		"material_level": 1,
+		"probability": 0.019999999552965164
+	},
+	{
+		"ID": 362,
+		"base_level": 13,
+		"material_level": 2,
+		"probability": 0.029999999329447746
+	},
+	{
+		"ID": 363,
+		"base_level": 13,
+		"material_level": 3,
+		"probability": 0.05000000074505806
+	},
+	{
+		"ID": 364,
+		"base_level": 13,
+		"material_level": 4,
+		"probability": 0.10000000149011612
+	},
+	{
+		"ID": 365,
+		"base_level": 13,
+		"material_level": 5,
+		"probability": 0.15000000596046448
+	},
+	{
+		"ID": 366,
+		"base_level": 13,
+		"material_level": 6,
+		"probability": 0.20000000298023224
+	},
+	{
+		"ID": 367,
+		"base_level": 13,
+		"material_level": 7,
+		"probability": 0.25
+	},
+	{
+		"ID": 368,
+		"base_level": 13,
+		"material_level": 8,
+		"probability": 0.30000001192092896
+	},
+	{
+		"ID": 369,
+		"base_level": 13,
+		"material_level": 9,
+		"probability": 0.3499999940395355
+	},
+	{
+		"ID": 370,
+		"base_level": 13,
+		"material_level": 10,
+		"probability": 0.4000000059604645
+	},
+	{
+		"ID": 371,
+		"base_level": 13,
+		"material_level": 11,
+		"probability": 0.44999998807907104
+	},
+	{
+		"ID": 372,
+		"base_level": 13,
+		"material_level": 12,
+		"probability": 0.5
+	},
+	{
+		"ID": 373,
+		"base_level": 13,
+		"material_level": 13,
+		"probability": 0.550000011920929
+	},
+	{
+		"ID": 374,
+		"base_level": 13,
+		"material_level": 14,
+		"probability": 0.6000000238418579
+	},
+	{
+		"ID": 375,
+		"base_level": 13,
+		"material_level": 15,
+		"probability": 0.6499999761581421
+	},
+	{
+		"ID": 376,
+		"base_level": 13,
+		"material_level": 16,
+		"probability": 0.699999988079071
+	},
+	{
+		"ID": 377,
+		"base_level": 13,
+		"material_level": 17,
+		"probability": 0.75
+	},
+	{
+		"ID": 378,
+		"base_level": 13,
+		"material_level": 18,
+		"probability": 0.800000011920929
+	},
+	{
+		"ID": 379,
+		"base_level": 13,
+		"material_level": 19,
+		"probability": 0.8500000238418579
+	},
+	{
+		"ID": 380,
+		"base_level": 13,
+		"material_level": 20,
+		"probability": 0.8999999761581421
+	},
+	{
+		"ID": 381,
+		"base_level": 13,
+		"material_level": 21,
+		"probability": 0.949999988079071
+	},
+	{
+		"ID": 382,
+		"base_level": 13,
+		"material_level": 22,
+		"probability": 1.0
+	},
+	{
+		"ID": 383,
+		"base_level": 13,
+		"material_level": 23,
+		"probability": 1.0
+	},
+	{
+		"ID": 384,
+		"base_level": 13,
+		"material_level": 24,
+		"probability": 1.0
+	},
+	{
+		"ID": 385,
+		"base_level": 13,
+		"material_level": 25,
+		"probability": 1.0
+	},
+	{
+		"ID": 386,
+		"base_level": 13,
+		"material_level": 26,
+		"probability": 1.0
+	},
+	{
+		"ID": 387,
+		"base_level": 13,
+		"material_level": 27,
+		"probability": 1.0
+	},
+	{
+		"ID": 388,
+		"base_level": 13,
+		"material_level": 28,
+		"probability": 1.0
+	},
+	{
+		"ID": 389,
+		"base_level": 13,
+		"material_level": 29,
+		"probability": 1.0
+	},
+	{
+		"ID": 390,
+		"base_level": 13,
+		"material_level": 30,
+		"probability": 1.0
+	},
+	{
+		"ID": 391,
+		"base_level": 14,
+		"material_level": 1,
+		"probability": 0.009999999776482582
+	},
+	{
+		"ID": 392,
+		"base_level": 14,
+		"material_level": 2,
+		"probability": 0.019999999552965164
+	},
+	{
+		"ID": 393,
+		"base_level": 14,
+		"material_level": 3,
+		"probability": 0.029999999329447746
+	},
+	{
+		"ID": 394,
+		"base_level": 14,
+		"material_level": 4,
+		"probability": 0.05000000074505806
+	},
+	{
+		"ID": 395,
+		"base_level": 14,
+		"material_level": 5,
+		"probability": 0.10000000149011612
+	},
+	{
+		"ID": 396,
+		"base_level": 14,
+		"material_level": 6,
+		"probability": 0.15000000596046448
+	},
+	{
+		"ID": 397,
+		"base_level": 14,
+		"material_level": 7,
+		"probability": 0.20000000298023224
+	},
+	{
+		"ID": 398,
+		"base_level": 14,
+		"material_level": 8,
+		"probability": 0.25
+	},
+	{
+		"ID": 399,
+		"base_level": 14,
+		"material_level": 9,
+		"probability": 0.30000001192092896
+	},
+	{
+		"ID": 400,
+		"base_level": 14,
+		"material_level": 10,
+		"probability": 0.3499999940395355
+	},
+	{
+		"ID": 401,
+		"base_level": 14,
+		"material_level": 11,
+		"probability": 0.4000000059604645
+	},
+	{
+		"ID": 402,
+		"base_level": 14,
+		"material_level": 12,
+		"probability": 0.44999998807907104
+	},
+	{
+		"ID": 403,
+		"base_level": 14,
+		"material_level": 13,
+		"probability": 0.5
+	},
+	{
+		"ID": 404,
+		"base_level": 14,
+		"material_level": 14,
+		"probability": 0.550000011920929
+	},
+	{
+		"ID": 405,
+		"base_level": 14,
+		"material_level": 15,
+		"probability": 0.6000000238418579
+	},
+	{
+		"ID": 406,
+		"base_level": 14,
+		"material_level": 16,
+		"probability": 0.6499999761581421
+	},
+	{
+		"ID": 407,
+		"base_level": 14,
+		"material_level": 17,
+		"probability": 0.699999988079071
+	},
+	{
+		"ID": 408,
+		"base_level": 14,
+		"material_level": 18,
+		"probability": 0.75
+	},
+	{
+		"ID": 409,
+		"base_level": 14,
+		"material_level": 19,
+		"probability": 0.800000011920929
+	},
+	{
+		"ID": 410,
+		"base_level": 14,
+		"material_level": 20,
+		"probability": 0.8500000238418579
+	},
+	{
+		"ID": 411,
+		"base_level": 14,
+		"material_level": 21,
+		"probability": 0.8999999761581421
+	},
+	{
+		"ID": 412,
+		"base_level": 14,
+		"material_level": 22,
+		"probability": 0.949999988079071
+	},
+	{
+		"ID": 413,
+		"base_level": 14,
+		"material_level": 23,
+		"probability": 1.0
+	},
+	{
+		"ID": 414,
+		"base_level": 14,
+		"material_level": 24,
+		"probability": 1.0
+	},
+	{
+		"ID": 415,
+		"base_level": 14,
+		"material_level": 25,
+		"probability": 1.0
+	},
+	{
+		"ID": 416,
+		"base_level": 14,
+		"material_level": 26,
+		"probability": 1.0
+	},
+	{
+		"ID": 417,
+		"base_level": 14,
+		"material_level": 27,
+		"probability": 1.0
+	},
+	{
+		"ID": 418,
+		"base_level": 14,
+		"material_level": 28,
+		"probability": 1.0
+	},
+	{
+		"ID": 419,
+		"base_level": 14,
+		"material_level": 29,
+		"probability": 1.0
+	},
+	{
+		"ID": 420,
+		"base_level": 14,
+		"material_level": 30,
+		"probability": 1.0
+	},
+	{
+		"ID": 421,
+		"base_level": 15,
+		"material_level": 1,
+		"probability": 0.009999999776482582
+	},
+	{
+		"ID": 422,
+		"base_level": 15,
+		"material_level": 2,
+		"probability": 0.009999999776482582
+	},
+	{
+		"ID": 423,
+		"base_level": 15,
+		"material_level": 3,
+		"probability": 0.019999999552965164
+	},
+	{
+		"ID": 424,
+		"base_level": 15,
+		"material_level": 4,
+		"probability": 0.029999999329447746
+	},
+	{
+		"ID": 425,
+		"base_level": 15,
+		"material_level": 5,
+		"probability": 0.05000000074505806
+	},
+	{
+		"ID": 426,
+		"base_level": 15,
+		"material_level": 6,
+		"probability": 0.10000000149011612
+	},
+	{
+		"ID": 427,
+		"base_level": 15,
+		"material_level": 7,
+		"probability": 0.15000000596046448
+	},
+	{
+		"ID": 428,
+		"base_level": 15,
+		"material_level": 8,
+		"probability": 0.20000000298023224
+	},
+	{
+		"ID": 429,
+		"base_level": 15,
+		"material_level": 9,
+		"probability": 0.25
+	},
+	{
+		"ID": 430,
+		"base_level": 15,
+		"material_level": 10,
+		"probability": 0.30000001192092896
+	},
+	{
+		"ID": 431,
+		"base_level": 15,
+		"material_level": 11,
+		"probability": 0.3499999940395355
+	},
+	{
+		"ID": 432,
+		"base_level": 15,
+		"material_level": 12,
+		"probability": 0.4000000059604645
+	},
+	{
+		"ID": 433,
+		"base_level": 15,
+		"material_level": 13,
+		"probability": 0.44999998807907104
+	},
+	{
+		"ID": 434,
+		"base_level": 15,
+		"material_level": 14,
+		"probability": 0.5
+	},
+	{
+		"ID": 435,
+		"base_level": 15,
+		"material_level": 15,
+		"probability": 0.550000011920929
+	},
+	{
+		"ID": 436,
+		"base_level": 15,
+		"material_level": 16,
+		"probability": 0.6000000238418579
+	},
+	{
+		"ID": 437,
+		"base_level": 15,
+		"material_level": 17,
+		"probability": 0.6499999761581421
+	},
+	{
+		"ID": 438,
+		"base_level": 15,
+		"material_level": 18,
+		"probability": 0.699999988079071
+	},
+	{
+		"ID": 439,
+		"base_level": 15,
+		"material_level": 19,
+		"probability": 0.75
+	},
+	{
+		"ID": 440,
+		"base_level": 15,
+		"material_level": 20,
+		"probability": 0.800000011920929
+	},
+	{
+		"ID": 441,
+		"base_level": 15,
+		"material_level": 21,
+		"probability": 0.8500000238418579
+	},
+	{
+		"ID": 442,
+		"base_level": 15,
+		"material_level": 22,
+		"probability": 0.8999999761581421
+	},
+	{
+		"ID": 443,
+		"base_level": 15,
+		"material_level": 23,
+		"probability": 0.949999988079071
+	},
+	{
+		"ID": 444,
+		"base_level": 15,
+		"material_level": 24,
+		"probability": 1.0
+	},
+	{
+		"ID": 445,
+		"base_level": 15,
+		"material_level": 25,
+		"probability": 1.0
+	},
+	{
+		"ID": 446,
+		"base_level": 15,
+		"material_level": 26,
+		"probability": 1.0
+	},
+	{
+		"ID": 447,
+		"base_level": 15,
+		"material_level": 27,
+		"probability": 1.0
+	},
+	{
+		"ID": 448,
+		"base_level": 15,
+		"material_level": 28,
+		"probability": 1.0
+	},
+	{
+		"ID": 449,
+		"base_level": 15,
+		"material_level": 29,
+		"probability": 1.0
+	},
+	{
+		"ID": 450,
+		"base_level": 15,
+		"material_level": 30,
+		"probability": 1.0
+	},
+	{
+		"ID": 451,
+		"base_level": 16,
+		"material_level": 1,
+		"probability": 0.009999999776482582
+	},
+	{
+		"ID": 452,
+		"base_level": 16,
+		"material_level": 2,
+		"probability": 0.009999999776482582
+	},
+	{
+		"ID": 453,
+		"base_level": 16,
+		"material_level": 3,
+		"probability": 0.019999999552965164
+	},
+	{
+		"ID": 454,
+		"base_level": 16,
+		"material_level": 4,
+		"probability": 0.019999999552965164
+	},
+	{
+		"ID": 455,
+		"base_level": 16,
+		"material_level": 5,
+		"probability": 0.029999999329447746
+	},
+	{
+		"ID": 456,
+		"base_level": 16,
+		"material_level": 6,
+		"probability": 0.05000000074505806
+	},
+	{
+		"ID": 457,
+		"base_level": 16,
+		"material_level": 7,
+		"probability": 0.10000000149011612
+	},
+	{
+		"ID": 458,
+		"base_level": 16,
+		"material_level": 8,
+		"probability": 0.15000000596046448
+	},
+	{
+		"ID": 459,
+		"base_level": 16,
+		"material_level": 9,
+		"probability": 0.20000000298023224
+	},
+	{
+		"ID": 460,
+		"base_level": 16,
+		"material_level": 10,
+		"probability": 0.25
+	},
+	{
+		"ID": 461,
+		"base_level": 16,
+		"material_level": 11,
+		"probability": 0.30000001192092896
+	},
+	{
+		"ID": 462,
+		"base_level": 16,
+		"material_level": 12,
+		"probability": 0.3499999940395355
+	},
+	{
+		"ID": 463,
+		"base_level": 16,
+		"material_level": 13,
+		"probability": 0.4000000059604645
+	},
+	{
+		"ID": 464,
+		"base_level": 16,
+		"material_level": 14,
+		"probability": 0.44999998807907104
+	},
+	{
+		"ID": 465,
+		"base_level": 16,
+		"material_level": 15,
+		"probability": 0.5
+	},
+	{
+		"ID": 466,
+		"base_level": 16,
+		"material_level": 16,
+		"probability": 0.550000011920929
+	},
+	{
+		"ID": 467,
+		"base_level": 16,
+		"material_level": 17,
+		"probability": 0.6000000238418579
+	},
+	{
+		"ID": 468,
+		"base_level": 16,
+		"material_level": 18,
+		"probability": 0.6499999761581421
+	},
+	{
+		"ID": 469,
+		"base_level": 16,
+		"material_level": 19,
+		"probability": 0.699999988079071
+	},
+	{
+		"ID": 470,
+		"base_level": 16,
+		"material_level": 20,
+		"probability": 0.75
+	},
+	{
+		"ID": 471,
+		"base_level": 16,
+		"material_level": 21,
+		"probability": 0.800000011920929
+	},
+	{
+		"ID": 472,
+		"base_level": 16,
+		"material_level": 22,
+		"probability": 0.8500000238418579
+	},
+	{
+		"ID": 473,
+		"base_level": 16,
+		"material_level": 23,
+		"probability": 0.8999999761581421
+	},
+	{
+		"ID": 474,
+		"base_level": 16,
+		"material_level": 24,
+		"probability": 0.949999988079071
+	},
+	{
+		"ID": 475,
+		"base_level": 16,
+		"material_level": 25,
+		"probability": 1.0
+	},
+	{
+		"ID": 476,
+		"base_level": 16,
+		"material_level": 26,
+		"probability": 1.0
+	},
+	{
+		"ID": 477,
+		"base_level": 16,
+		"material_level": 27,
+		"probability": 1.0
+	},
+	{
+		"ID": 478,
+		"base_level": 16,
+		"material_level": 28,
+		"probability": 1.0
+	},
+	{
+		"ID": 479,
+		"base_level": 16,
+		"material_level": 29,
+		"probability": 1.0
+	},
+	{
+		"ID": 480,
+		"base_level": 16,
+		"material_level": 30,
+		"probability": 1.0
+	},
+	{
+		"ID": 481,
+		"base_level": 17,
+		"material_level": 1,
+		"probability": 0.009999999776482582
+	},
+	{
+		"ID": 482,
+		"base_level": 17,
+		"material_level": 2,
+		"probability": 0.009999999776482582
+	},
+	{
+		"ID": 483,
+		"base_level": 17,
+		"material_level": 3,
+		"probability": 0.019999999552965164
+	},
+	{
+		"ID": 484,
+		"base_level": 17,
+		"material_level": 4,
+		"probability": 0.019999999552965164
+	},
+	{
+		"ID": 485,
+		"base_level": 17,
+		"material_level": 5,
+		"probability": 0.029999999329447746
+	},
+	{
+		"ID": 486,
+		"base_level": 17,
+		"material_level": 6,
+		"probability": 0.029999999329447746
+	},
+	{
+		"ID": 487,
+		"base_level": 17,
+		"material_level": 7,
+		"probability": 0.05000000074505806
+	},
+	{
+		"ID": 488,
+		"base_level": 17,
+		"material_level": 8,
+		"probability": 0.10000000149011612
+	},
+	{
+		"ID": 489,
+		"base_level": 17,
+		"material_level": 9,
+		"probability": 0.15000000596046448
+	},
+	{
+		"ID": 490,
+		"base_level": 17,
+		"material_level": 10,
+		"probability": 0.20000000298023224
+	},
+	{
+		"ID": 491,
+		"base_level": 17,
+		"material_level": 11,
+		"probability": 0.25
+	},
+	{
+		"ID": 492,
+		"base_level": 17,
+		"material_level": 12,
+		"probability": 0.30000001192092896
+	},
+	{
+		"ID": 493,
+		"base_level": 17,
+		"material_level": 13,
+		"probability": 0.3499999940395355
+	},
+	{
+		"ID": 494,
+		"base_level": 17,
+		"material_level": 14,
+		"probability": 0.4000000059604645
+	},
+	{
+		"ID": 495,
+		"base_level": 17,
+		"material_level": 15,
+		"probability": 0.44999998807907104
+	},
+	{
+		"ID": 496,
+		"base_level": 17,
+		"material_level": 16,
+		"probability": 0.5
+	},
+	{
+		"ID": 497,
+		"base_level": 17,
+		"material_level": 17,
+		"probability": 0.550000011920929
+	},
+	{
+		"ID": 498,
+		"base_level": 17,
+		"material_level": 18,
+		"probability": 0.6000000238418579
+	},
+	{
+		"ID": 499,
+		"base_level": 17,
+		"material_level": 19,
+		"probability": 0.6499999761581421
+	},
+	{
+		"ID": 500,
+		"base_level": 17,
+		"material_level": 20,
+		"probability": 0.699999988079071
+	},
+	{
+		"ID": 501,
+		"base_level": 17,
+		"material_level": 21,
+		"probability": 0.75
+	},
+	{
+		"ID": 502,
+		"base_level": 17,
+		"material_level": 22,
+		"probability": 0.800000011920929
+	},
+	{
+		"ID": 503,
+		"base_level": 17,
+		"material_level": 23,
+		"probability": 0.8500000238418579
+	},
+	{
+		"ID": 504,
+		"base_level": 17,
+		"material_level": 24,
+		"probability": 0.8999999761581421
+	},
+	{
+		"ID": 505,
+		"base_level": 17,
+		"material_level": 25,
+		"probability": 0.949999988079071
+	},
+	{
+		"ID": 506,
+		"base_level": 17,
+		"material_level": 26,
+		"probability": 1.0
+	},
+	{
+		"ID": 507,
+		"base_level": 17,
+		"material_level": 27,
+		"probability": 1.0
+	},
+	{
+		"ID": 508,
+		"base_level": 17,
+		"material_level": 28,
+		"probability": 1.0
+	},
+	{
+		"ID": 509,
+		"base_level": 17,
+		"material_level": 29,
+		"probability": 1.0
+	},
+	{
+		"ID": 510,
+		"base_level": 17,
+		"material_level": 30,
+		"probability": 1.0
+	},
+	{
+		"ID": 511,
+		"base_level": 18,
+		"material_level": 1,
+		"probability": 0.009999999776482582
+	},
+	{
+		"ID": 512,
+		"base_level": 18,
+		"material_level": 2,
+		"probability": 0.009999999776482582
+	},
+	{
+		"ID": 513,
+		"base_level": 18,
+		"material_level": 3,
+		"probability": 0.019999999552965164
+	},
+	{
+		"ID": 514,
+		"base_level": 18,
+		"material_level": 4,
+		"probability": 0.019999999552965164
+	},
+	{
+		"ID": 515,
+		"base_level": 18,
+		"material_level": 5,
+		"probability": 0.029999999329447746
+	},
+	{
+		"ID": 516,
+		"base_level": 18,
+		"material_level": 6,
+		"probability": 0.029999999329447746
+	},
+	{
+		"ID": 517,
+		"base_level": 18,
+		"material_level": 7,
+		"probability": 0.05000000074505806
+	},
+	{
+		"ID": 518,
+		"base_level": 18,
+		"material_level": 8,
+		"probability": 0.05000000074505806
+	},
+	{
+		"ID": 519,
+		"base_level": 18,
+		"material_level": 9,
+		"probability": 0.10000000149011612
+	},
+	{
+		"ID": 520,
+		"base_level": 18,
+		"material_level": 10,
+		"probability": 0.15000000596046448
+	},
+	{
+		"ID": 521,
+		"base_level": 18,
+		"material_level": 11,
+		"probability": 0.20000000298023224
+	},
+	{
+		"ID": 522,
+		"base_level": 18,
+		"material_level": 12,
+		"probability": 0.25
+	},
+	{
+		"ID": 523,
+		"base_level": 18,
+		"material_level": 13,
+		"probability": 0.30000001192092896
+	},
+	{
+		"ID": 524,
+		"base_level": 18,
+		"material_level": 14,
+		"probability": 0.3499999940395355
+	},
+	{
+		"ID": 525,
+		"base_level": 18,
+		"material_level": 15,
+		"probability": 0.4000000059604645
+	},
+	{
+		"ID": 526,
+		"base_level": 18,
+		"material_level": 16,
+		"probability": 0.44999998807907104
+	},
+	{
+		"ID": 527,
+		"base_level": 18,
+		"material_level": 17,
+		"probability": 0.5
+	},
+	{
+		"ID": 528,
+		"base_level": 18,
+		"material_level": 18,
+		"probability": 0.550000011920929
+	},
+	{
+		"ID": 529,
+		"base_level": 18,
+		"material_level": 19,
+		"probability": 0.6000000238418579
+	},
+	{
+		"ID": 530,
+		"base_level": 18,
+		"material_level": 20,
+		"probability": 0.6499999761581421
+	},
+	{
+		"ID": 531,
+		"base_level": 18,
+		"material_level": 21,
+		"probability": 0.699999988079071
+	},
+	{
+		"ID": 532,
+		"base_level": 18,
+		"material_level": 22,
+		"probability": 0.75
+	},
+	{
+		"ID": 533,
+		"base_level": 18,
+		"material_level": 23,
+		"probability": 0.800000011920929
+	},
+	{
+		"ID": 534,
+		"base_level": 18,
+		"material_level": 24,
+		"probability": 0.8500000238418579
+	},
+	{
+		"ID": 535,
+		"base_level": 18,
+		"material_level": 25,
+		"probability": 0.8999999761581421
+	},
+	{
+		"ID": 536,
+		"base_level": 18,
+		"material_level": 26,
+		"probability": 0.949999988079071
+	},
+	{
+		"ID": 537,
+		"base_level": 18,
+		"material_level": 27,
+		"probability": 1.0
+	},
+	{
+		"ID": 538,
+		"base_level": 18,
+		"material_level": 28,
+		"probability": 1.0
+	},
+	{
+		"ID": 539,
+		"base_level": 18,
+		"material_level": 29,
+		"probability": 1.0
+	},
+	{
+		"ID": 540,
+		"base_level": 18,
+		"material_level": 30,
+		"probability": 1.0
+	},
+	{
+		"ID": 541,
+		"base_level": 19,
+		"material_level": 1,
+		"probability": 0.009999999776482582
+	},
+	{
+		"ID": 542,
+		"base_level": 19,
+		"material_level": 2,
+		"probability": 0.009999999776482582
+	},
+	{
+		"ID": 543,
+		"base_level": 19,
+		"material_level": 3,
+		"probability": 0.009999999776482582
+	},
+	{
+		"ID": 544,
+		"base_level": 19,
+		"material_level": 4,
+		"probability": 0.019999999552965164
+	},
+	{
+		"ID": 545,
+		"base_level": 19,
+		"material_level": 5,
+		"probability": 0.019999999552965164
+	},
+	{
+		"ID": 546,
+		"base_level": 19,
+		"material_level": 6,
+		"probability": 0.029999999329447746
+	},
+	{
+		"ID": 547,
+		"base_level": 19,
+		"material_level": 7,
+		"probability": 0.029999999329447746
+	},
+	{
+		"ID": 548,
+		"base_level": 19,
+		"material_level": 8,
+		"probability": 0.05000000074505806
+	},
+	{
+		"ID": 549,
+		"base_level": 19,
+		"material_level": 9,
+		"probability": 0.05000000074505806
+	},
+	{
+		"ID": 550,
+		"base_level": 19,
+		"material_level": 10,
+		"probability": 0.10000000149011612
+	},
+	{
+		"ID": 551,
+		"base_level": 19,
+		"material_level": 11,
+		"probability": 0.15000000596046448
+	},
+	{
+		"ID": 552,
+		"base_level": 19,
+		"material_level": 12,
+		"probability": 0.20000000298023224
+	},
+	{
+		"ID": 553,
+		"base_level": 19,
+		"material_level": 13,
+		"probability": 0.25
+	},
+	{
+		"ID": 554,
+		"base_level": 19,
+		"material_level": 14,
+		"probability": 0.30000001192092896
+	},
+	{
+		"ID": 555,
+		"base_level": 19,
+		"material_level": 15,
+		"probability": 0.3499999940395355
+	},
+	{
+		"ID": 556,
+		"base_level": 19,
+		"material_level": 16,
+		"probability": 0.4000000059604645
+	},
+	{
+		"ID": 557,
+		"base_level": 19,
+		"material_level": 17,
+		"probability": 0.44999998807907104
+	},
+	{
+		"ID": 558,
+		"base_level": 19,
+		"material_level": 18,
+		"probability": 0.5
+	},
+	{
+		"ID": 559,
+		"base_level": 19,
+		"material_level": 19,
+		"probability": 0.550000011920929
+	},
+	{
+		"ID": 560,
+		"base_level": 19,
+		"material_level": 20,
+		"probability": 0.6000000238418579
+	},
+	{
+		"ID": 561,
+		"base_level": 19,
+		"material_level": 21,
+		"probability": 0.6499999761581421
+	},
+	{
+		"ID": 562,
+		"base_level": 19,
+		"material_level": 22,
+		"probability": 0.699999988079071
+	},
+	{
+		"ID": 563,
+		"base_level": 19,
+		"material_level": 23,
+		"probability": 0.75
+	},
+	{
+		"ID": 564,
+		"base_level": 19,
+		"material_level": 24,
+		"probability": 0.800000011920929
+	},
+	{
+		"ID": 565,
+		"base_level": 19,
+		"material_level": 25,
+		"probability": 0.8500000238418579
+	},
+	{
+		"ID": 566,
+		"base_level": 19,
+		"material_level": 26,
+		"probability": 0.8999999761581421
+	},
+	{
+		"ID": 567,
+		"base_level": 19,
+		"material_level": 27,
+		"probability": 0.949999988079071
+	},
+	{
+		"ID": 568,
+		"base_level": 19,
+		"material_level": 28,
+		"probability": 1.0
+	},
+	{
+		"ID": 569,
+		"base_level": 19,
+		"material_level": 29,
+		"probability": 1.0
+	},
+	{
+		"ID": 570,
+		"base_level": 19,
+		"material_level": 30,
+		"probability": 1.0
+	},
+	{
+		"ID": 571,
+		"base_level": 20,
+		"material_level": 1,
+		"probability": 0.009999999776482582
+	},
+	{
+		"ID": 572,
+		"base_level": 20,
+		"material_level": 2,
+		"probability": 0.009999999776482582
+	},
+	{
+		"ID": 573,
+		"base_level": 20,
+		"material_level": 3,
+		"probability": 0.009999999776482582
+	},
+	{
+		"ID": 574,
+		"base_level": 20,
+		"material_level": 4,
+		"probability": 0.019999999552965164
+	},
+	{
+		"ID": 575,
+		"base_level": 20,
+		"material_level": 5,
+		"probability": 0.019999999552965164
+	},
+	{
+		"ID": 576,
+		"base_level": 20,
+		"material_level": 6,
+		"probability": 0.019999999552965164
+	},
+	{
+		"ID": 577,
+		"base_level": 20,
+		"material_level": 7,
+		"probability": 0.029999999329447746
+	},
+	{
+		"ID": 578,
+		"base_level": 20,
+		"material_level": 8,
+		"probability": 0.029999999329447746
+	},
+	{
+		"ID": 579,
+		"base_level": 20,
+		"material_level": 9,
+		"probability": 0.05000000074505806
+	},
+	{
+		"ID": 580,
+		"base_level": 20,
+		"material_level": 10,
+		"probability": 0.05000000074505806
+	},
+	{
+		"ID": 581,
+		"base_level": 20,
+		"material_level": 11,
+		"probability": 0.10000000149011612
+	},
+	{
+		"ID": 582,
+		"base_level": 20,
+		"material_level": 12,
+		"probability": 0.15000000596046448
+	},
+	{
+		"ID": 583,
+		"base_level": 20,
+		"material_level": 13,
+		"probability": 0.20000000298023224
+	},
+	{
+		"ID": 584,
+		"base_level": 20,
+		"material_level": 14,
+		"probability": 0.25
+	},
+	{
+		"ID": 585,
+		"base_level": 20,
+		"material_level": 15,
+		"probability": 0.30000001192092896
+	},
+	{
+		"ID": 586,
+		"base_level": 20,
+		"material_level": 16,
+		"probability": 0.3499999940395355
+	},
+	{
+		"ID": 587,
+		"base_level": 20,
+		"material_level": 17,
+		"probability": 0.4000000059604645
+	},
+	{
+		"ID": 588,
+		"base_level": 20,
+		"material_level": 18,
+		"probability": 0.44999998807907104
+	},
+	{
+		"ID": 589,
+		"base_level": 20,
+		"material_level": 19,
+		"probability": 0.5
+	},
+	{
+		"ID": 590,
+		"base_level": 20,
+		"material_level": 20,
+		"probability": 0.550000011920929
+	},
+	{
+		"ID": 591,
+		"base_level": 20,
+		"material_level": 21,
+		"probability": 0.6000000238418579
+	},
+	{
+		"ID": 592,
+		"base_level": 20,
+		"material_level": 22,
+		"probability": 0.6499999761581421
+	},
+	{
+		"ID": 593,
+		"base_level": 20,
+		"material_level": 23,
+		"probability": 0.699999988079071
+	},
+	{
+		"ID": 594,
+		"base_level": 20,
+		"material_level": 24,
+		"probability": 0.75
+	},
+	{
+		"ID": 595,
+		"base_level": 20,
+		"material_level": 25,
+		"probability": 0.800000011920929
+	},
+	{
+		"ID": 596,
+		"base_level": 20,
+		"material_level": 26,
+		"probability": 0.8500000238418579
+	},
+	{
+		"ID": 597,
+		"base_level": 20,
+		"material_level": 27,
+		"probability": 0.8999999761581421
+	},
+	{
+		"ID": 598,
+		"base_level": 20,
+		"material_level": 28,
+		"probability": 0.949999988079071
+	},
+	{
+		"ID": 599,
+		"base_level": 20,
+		"material_level": 29,
+		"probability": 1.0
+	},
+	{
+		"ID": 600,
+		"base_level": 20,
+		"material_level": 30,
+		"probability": 1.0
+	},
+	{
+		"ID": 601,
+		"base_level": 21,
+		"material_level": 1,
+		"probability": 0.009999999776482582
+	},
+	{
+		"ID": 602,
+		"base_level": 21,
+		"material_level": 2,
+		"probability": 0.009999999776482582
+	},
+	{
+		"ID": 603,
+		"base_level": 21,
+		"material_level": 3,
+		"probability": 0.009999999776482582
+	},
+	{
+		"ID": 604,
+		"base_level": 21,
+		"material_level": 4,
+		"probability": 0.019999999552965164
+	},
+	{
+		"ID": 605,
+		"base_level": 21,
+		"material_level": 5,
+		"probability": 0.019999999552965164
+	},
+	{
+		"ID": 606,
+		"base_level": 21,
+		"material_level": 6,
+		"probability": 0.019999999552965164
+	},
+	{
+		"ID": 607,
+		"base_level": 21,
+		"material_level": 7,
+		"probability": 0.029999999329447746
+	},
+	{
+		"ID": 608,
+		"base_level": 21,
+		"material_level": 8,
+		"probability": 0.029999999329447746
+	},
+	{
+		"ID": 609,
+		"base_level": 21,
+		"material_level": 9,
+		"probability": 0.029999999329447746
+	},
+	{
+		"ID": 610,
+		"base_level": 21,
+		"material_level": 10,
+		"probability": 0.05000000074505806
+	},
+	{
+		"ID": 611,
+		"base_level": 21,
+		"material_level": 11,
+		"probability": 0.05000000074505806
+	},
+	{
+		"ID": 612,
+		"base_level": 21,
+		"material_level": 12,
+		"probability": 0.10000000149011612
+	},
+	{
+		"ID": 613,
+		"base_level": 21,
+		"material_level": 13,
+		"probability": 0.15000000596046448
+	},
+	{
+		"ID": 614,
+		"base_level": 21,
+		"material_level": 14,
+		"probability": 0.20000000298023224
+	},
+	{
+		"ID": 615,
+		"base_level": 21,
+		"material_level": 15,
+		"probability": 0.25
+	},
+	{
+		"ID": 616,
+		"base_level": 21,
+		"material_level": 16,
+		"probability": 0.30000001192092896
+	},
+	{
+		"ID": 617,
+		"base_level": 21,
+		"material_level": 17,
+		"probability": 0.3499999940395355
+	},
+	{
+		"ID": 618,
+		"base_level": 21,
+		"material_level": 18,
+		"probability": 0.4000000059604645
+	},
+	{
+		"ID": 619,
+		"base_level": 21,
+		"material_level": 19,
+		"probability": 0.44999998807907104
+	},
+	{
+		"ID": 620,
+		"base_level": 21,
+		"material_level": 20,
+		"probability": 0.5
+	},
+	{
+		"ID": 621,
+		"base_level": 21,
+		"material_level": 21,
+		"probability": 0.550000011920929
+	},
+	{
+		"ID": 622,
+		"base_level": 21,
+		"material_level": 22,
+		"probability": 0.6000000238418579
+	},
+	{
+		"ID": 623,
+		"base_level": 21,
+		"material_level": 23,
+		"probability": 0.6499999761581421
+	},
+	{
+		"ID": 624,
+		"base_level": 21,
+		"material_level": 24,
+		"probability": 0.699999988079071
+	},
+	{
+		"ID": 625,
+		"base_level": 21,
+		"material_level": 25,
+		"probability": 0.75
+	},
+	{
+		"ID": 626,
+		"base_level": 21,
+		"material_level": 26,
+		"probability": 0.800000011920929
+	},
+	{
+		"ID": 627,
+		"base_level": 21,
+		"material_level": 27,
+		"probability": 0.8500000238418579
+	},
+	{
+		"ID": 628,
+		"base_level": 21,
+		"material_level": 28,
+		"probability": 0.8999999761581421
+	},
+	{
+		"ID": 629,
+		"base_level": 21,
+		"material_level": 29,
+		"probability": 0.949999988079071
+	},
+	{
+		"ID": 630,
+		"base_level": 21,
+		"material_level": 30,
+		"probability": 1.0
+	},
+	{
+		"ID": 631,
+		"base_level": 22,
+		"material_level": 1,
+		"probability": 0.009999999776482582
+	},
+	{
+		"ID": 632,
+		"base_level": 22,
+		"material_level": 2,
+		"probability": 0.009999999776482582
+	},
+	{
+		"ID": 633,
+		"base_level": 22,
+		"material_level": 3,
+		"probability": 0.009999999776482582
+	},
+	{
+		"ID": 634,
+		"base_level": 22,
+		"material_level": 4,
+		"probability": 0.019999999552965164
+	},
+	{
+		"ID": 635,
+		"base_level": 22,
+		"material_level": 5,
+		"probability": 0.019999999552965164
+	},
+	{
+		"ID": 636,
+		"base_level": 22,
+		"material_level": 6,
+		"probability": 0.019999999552965164
+	},
+	{
+		"ID": 637,
+		"base_level": 22,
+		"material_level": 7,
+		"probability": 0.029999999329447746
+	},
+	{
+		"ID": 638,
+		"base_level": 22,
+		"material_level": 8,
+		"probability": 0.029999999329447746
+	},
+	{
+		"ID": 639,
+		"base_level": 22,
+		"material_level": 9,
+		"probability": 0.029999999329447746
+	},
+	{
+		"ID": 640,
+		"base_level": 22,
+		"material_level": 10,
+		"probability": 0.05000000074505806
+	},
+	{
+		"ID": 641,
+		"base_level": 22,
+		"material_level": 11,
+		"probability": 0.05000000074505806
+	},
+	{
+		"ID": 642,
+		"base_level": 22,
+		"material_level": 12,
+		"probability": 0.05000000074505806
+	},
+	{
+		"ID": 643,
+		"base_level": 22,
+		"material_level": 13,
+		"probability": 0.10000000149011612
+	},
+	{
+		"ID": 644,
+		"base_level": 22,
+		"material_level": 14,
+		"probability": 0.15000000596046448
+	},
+	{
+		"ID": 645,
+		"base_level": 22,
+		"material_level": 15,
+		"probability": 0.20000000298023224
+	},
+	{
+		"ID": 646,
+		"base_level": 22,
+		"material_level": 16,
+		"probability": 0.25
+	},
+	{
+		"ID": 647,
+		"base_level": 22,
+		"material_level": 17,
+		"probability": 0.30000001192092896
+	},
+	{
+		"ID": 648,
+		"base_level": 22,
+		"material_level": 18,
+		"probability": 0.3499999940395355
+	},
+	{
+		"ID": 649,
+		"base_level": 22,
+		"material_level": 19,
+		"probability": 0.4000000059604645
+	},
+	{
+		"ID": 650,
+		"base_level": 22,
+		"material_level": 20,
+		"probability": 0.44999998807907104
+	},
+	{
+		"ID": 651,
+		"base_level": 22,
+		"material_level": 21,
+		"probability": 0.5
+	},
+	{
+		"ID": 652,
+		"base_level": 22,
+		"material_level": 22,
+		"probability": 0.550000011920929
+	},
+	{
+		"ID": 653,
+		"base_level": 22,
+		"material_level": 23,
+		"probability": 0.6000000238418579
+	},
+	{
+		"ID": 654,
+		"base_level": 22,
+		"material_level": 24,
+		"probability": 0.6499999761581421
+	},
+	{
+		"ID": 655,
+		"base_level": 22,
+		"material_level": 25,
+		"probability": 0.699999988079071
+	},
+	{
+		"ID": 656,
+		"base_level": 22,
+		"material_level": 26,
+		"probability": 0.75
+	},
+	{
+		"ID": 657,
+		"base_level": 22,
+		"material_level": 27,
+		"probability": 0.800000011920929
+	},
+	{
+		"ID": 658,
+		"base_level": 22,
+		"material_level": 28,
+		"probability": 0.8500000238418579
+	},
+	{
+		"ID": 659,
+		"base_level": 22,
+		"material_level": 29,
+		"probability": 0.8999999761581421
+	},
+	{
+		"ID": 660,
+		"base_level": 22,
+		"material_level": 30,
+		"probability": 0.949999988079071
+	},
+	{
+		"ID": 661,
+		"base_level": 23,
+		"material_level": 1,
+		"probability": 0.009999999776482582
+	},
+	{
+		"ID": 662,
+		"base_level": 23,
+		"material_level": 2,
+		"probability": 0.009999999776482582
+	},
+	{
+		"ID": 663,
+		"base_level": 23,
+		"material_level": 3,
+		"probability": 0.009999999776482582
+	},
+	{
+		"ID": 664,
+		"base_level": 23,
+		"material_level": 4,
+		"probability": 0.019999999552965164
+	},
+	{
+		"ID": 665,
+		"base_level": 23,
+		"material_level": 5,
+		"probability": 0.019999999552965164
+	},
+	{
+		"ID": 666,
+		"base_level": 23,
+		"material_level": 6,
+		"probability": 0.019999999552965164
+	},
+	{
+		"ID": 667,
+		"base_level": 23,
+		"material_level": 7,
+		"probability": 0.029999999329447746
+	},
+	{
+		"ID": 668,
+		"base_level": 23,
+		"material_level": 8,
+		"probability": 0.029999999329447746
+	},
+	{
+		"ID": 669,
+		"base_level": 23,
+		"material_level": 9,
+		"probability": 0.029999999329447746
+	},
+	{
+		"ID": 670,
+		"base_level": 23,
+		"material_level": 10,
+		"probability": 0.05000000074505806
+	},
+	{
+		"ID": 671,
+		"base_level": 23,
+		"material_level": 11,
+		"probability": 0.05000000074505806
+	},
+	{
+		"ID": 672,
+		"base_level": 23,
+		"material_level": 12,
+		"probability": 0.05000000074505806
+	},
+	{
+		"ID": 673,
+		"base_level": 23,
+		"material_level": 13,
+		"probability": 0.10000000149011612
+	},
+	{
+		"ID": 674,
+		"base_level": 23,
+		"material_level": 14,
+		"probability": 0.10000000149011612
+	},
+	{
+		"ID": 675,
+		"base_level": 23,
+		"material_level": 15,
+		"probability": 0.15000000596046448
+	},
+	{
+		"ID": 676,
+		"base_level": 23,
+		"material_level": 16,
+		"probability": 0.20000000298023224
+	},
+	{
+		"ID": 677,
+		"base_level": 23,
+		"material_level": 17,
+		"probability": 0.25
+	},
+	{
+		"ID": 678,
+		"base_level": 23,
+		"material_level": 18,
+		"probability": 0.30000001192092896
+	},
+	{
+		"ID": 679,
+		"base_level": 23,
+		"material_level": 19,
+		"probability": 0.3499999940395355
+	},
+	{
+		"ID": 680,
+		"base_level": 23,
+		"material_level": 20,
+		"probability": 0.4000000059604645
+	},
+	{
+		"ID": 681,
+		"base_level": 23,
+		"material_level": 21,
+		"probability": 0.44999998807907104
+	},
+	{
+		"ID": 682,
+		"base_level": 23,
+		"material_level": 22,
+		"probability": 0.5
+	},
+	{
+		"ID": 683,
+		"base_level": 23,
+		"material_level": 23,
+		"probability": 0.550000011920929
+	},
+	{
+		"ID": 684,
+		"base_level": 23,
+		"material_level": 24,
+		"probability": 0.6000000238418579
+	},
+	{
+		"ID": 685,
+		"base_level": 23,
+		"material_level": 25,
+		"probability": 0.6499999761581421
+	},
+	{
+		"ID": 686,
+		"base_level": 23,
+		"material_level": 26,
+		"probability": 0.699999988079071
+	},
+	{
+		"ID": 687,
+		"base_level": 23,
+		"material_level": 27,
+		"probability": 0.75
+	},
+	{
+		"ID": 688,
+		"base_level": 23,
+		"material_level": 28,
+		"probability": 0.800000011920929
+	},
+	{
+		"ID": 689,
+		"base_level": 23,
+		"material_level": 29,
+		"probability": 0.8500000238418579
+	},
+	{
+		"ID": 690,
+		"base_level": 23,
+		"material_level": 30,
+		"probability": 0.8999999761581421
+	},
+	{
+		"ID": 691,
+		"base_level": 24,
+		"material_level": 1,
+		"probability": 0.009999999776482582
+	},
+	{
+		"ID": 692,
+		"base_level": 24,
+		"material_level": 2,
+		"probability": 0.009999999776482582
+	},
+	{
+		"ID": 693,
+		"base_level": 24,
+		"material_level": 3,
+		"probability": 0.009999999776482582
+	},
+	{
+		"ID": 694,
+		"base_level": 24,
+		"material_level": 4,
+		"probability": 0.019999999552965164
+	},
+	{
+		"ID": 695,
+		"base_level": 24,
+		"material_level": 5,
+		"probability": 0.019999999552965164
+	},
+	{
+		"ID": 696,
+		"base_level": 24,
+		"material_level": 6,
+		"probability": 0.019999999552965164
+	},
+	{
+		"ID": 697,
+		"base_level": 24,
+		"material_level": 7,
+		"probability": 0.029999999329447746
+	},
+	{
+		"ID": 698,
+		"base_level": 24,
+		"material_level": 8,
+		"probability": 0.029999999329447746
+	},
+	{
+		"ID": 699,
+		"base_level": 24,
+		"material_level": 9,
+		"probability": 0.029999999329447746
+	},
+	{
+		"ID": 700,
+		"base_level": 24,
+		"material_level": 10,
+		"probability": 0.05000000074505806
+	},
+	{
+		"ID": 701,
+		"base_level": 24,
+		"material_level": 11,
+		"probability": 0.05000000074505806
+	},
+	{
+		"ID": 702,
+		"base_level": 24,
+		"material_level": 12,
+		"probability": 0.05000000074505806
+	},
+	{
+		"ID": 703,
+		"base_level": 24,
+		"material_level": 13,
+		"probability": 0.10000000149011612
+	},
+	{
+		"ID": 704,
+		"base_level": 24,
+		"material_level": 14,
+		"probability": 0.10000000149011612
+	},
+	{
+		"ID": 705,
+		"base_level": 24,
+		"material_level": 15,
+		"probability": 0.15000000596046448
+	},
+	{
+		"ID": 706,
+		"base_level": 24,
+		"material_level": 16,
+		"probability": 0.15000000596046448
+	},
+	{
+		"ID": 707,
+		"base_level": 24,
+		"material_level": 17,
+		"probability": 0.20000000298023224
+	},
+	{
+		"ID": 708,
+		"base_level": 24,
+		"material_level": 18,
+		"probability": 0.25
+	},
+	{
+		"ID": 709,
+		"base_level": 24,
+		"material_level": 19,
+		"probability": 0.30000001192092896
+	},
+	{
+		"ID": 710,
+		"base_level": 24,
+		"material_level": 20,
+		"probability": 0.3499999940395355
+	},
+	{
+		"ID": 711,
+		"base_level": 24,
+		"material_level": 21,
+		"probability": 0.4000000059604645
+	},
+	{
+		"ID": 712,
+		"base_level": 24,
+		"material_level": 22,
+		"probability": 0.44999998807907104
+	},
+	{
+		"ID": 713,
+		"base_level": 24,
+		"material_level": 23,
+		"probability": 0.5
+	},
+	{
+		"ID": 714,
+		"base_level": 24,
+		"material_level": 24,
+		"probability": 0.550000011920929
+	},
+	{
+		"ID": 715,
+		"base_level": 24,
+		"material_level": 25,
+		"probability": 0.6000000238418579
+	},
+	{
+		"ID": 716,
+		"base_level": 24,
+		"material_level": 26,
+		"probability": 0.6499999761581421
+	},
+	{
+		"ID": 717,
+		"base_level": 24,
+		"material_level": 27,
+		"probability": 0.699999988079071
+	},
+	{
+		"ID": 718,
+		"base_level": 24,
+		"material_level": 28,
+		"probability": 0.75
+	},
+	{
+		"ID": 719,
+		"base_level": 24,
+		"material_level": 29,
+		"probability": 0.800000011920929
+	},
+	{
+		"ID": 720,
+		"base_level": 24,
+		"material_level": 30,
+		"probability": 0.8500000238418579
+	},
+	{
+		"ID": 721,
+		"base_level": 25,
+		"material_level": 1,
+		"probability": 0.009999999776482582
+	},
+	{
+		"ID": 722,
+		"base_level": 25,
+		"material_level": 2,
+		"probability": 0.009999999776482582
+	},
+	{
+		"ID": 723,
+		"base_level": 25,
+		"material_level": 3,
+		"probability": 0.009999999776482582
+	},
+	{
+		"ID": 724,
+		"base_level": 25,
+		"material_level": 4,
+		"probability": 0.019999999552965164
+	},
+	{
+		"ID": 725,
+		"base_level": 25,
+		"material_level": 5,
+		"probability": 0.019999999552965164
+	},
+	{
+		"ID": 726,
+		"base_level": 25,
+		"material_level": 6,
+		"probability": 0.019999999552965164
+	},
+	{
+		"ID": 727,
+		"base_level": 25,
+		"material_level": 7,
+		"probability": 0.029999999329447746
+	},
+	{
+		"ID": 728,
+		"base_level": 25,
+		"material_level": 8,
+		"probability": 0.029999999329447746
+	},
+	{
+		"ID": 729,
+		"base_level": 25,
+		"material_level": 9,
+		"probability": 0.029999999329447746
+	},
+	{
+		"ID": 730,
+		"base_level": 25,
+		"material_level": 10,
+		"probability": 0.05000000074505806
+	},
+	{
+		"ID": 731,
+		"base_level": 25,
+		"material_level": 11,
+		"probability": 0.05000000074505806
+	},
+	{
+		"ID": 732,
+		"base_level": 25,
+		"material_level": 12,
+		"probability": 0.05000000074505806
+	},
+	{
+		"ID": 733,
+		"base_level": 25,
+		"material_level": 13,
+		"probability": 0.10000000149011612
+	},
+	{
+		"ID": 734,
+		"base_level": 25,
+		"material_level": 14,
+		"probability": 0.10000000149011612
+	},
+	{
+		"ID": 735,
+		"base_level": 25,
+		"material_level": 15,
+		"probability": 0.15000000596046448
+	},
+	{
+		"ID": 736,
+		"base_level": 25,
+		"material_level": 16,
+		"probability": 0.15000000596046448
+	},
+	{
+		"ID": 737,
+		"base_level": 25,
+		"material_level": 17,
+		"probability": 0.20000000298023224
+	},
+	{
+		"ID": 738,
+		"base_level": 25,
+		"material_level": 18,
+		"probability": 0.20000000298023224
+	},
+	{
+		"ID": 739,
+		"base_level": 25,
+		"material_level": 19,
+		"probability": 0.25
+	},
+	{
+		"ID": 740,
+		"base_level": 25,
+		"material_level": 20,
+		"probability": 0.30000001192092896
+	},
+	{
+		"ID": 741,
+		"base_level": 25,
+		"material_level": 21,
+		"probability": 0.3499999940395355
+	},
+	{
+		"ID": 742,
+		"base_level": 25,
+		"material_level": 22,
+		"probability": 0.4000000059604645
+	},
+	{
+		"ID": 743,
+		"base_level": 25,
+		"material_level": 23,
+		"probability": 0.44999998807907104
+	},
+	{
+		"ID": 744,
+		"base_level": 25,
+		"material_level": 24,
+		"probability": 0.5
+	},
+	{
+		"ID": 745,
+		"base_level": 25,
+		"material_level": 25,
+		"probability": 0.550000011920929
+	},
+	{
+		"ID": 746,
+		"base_level": 25,
+		"material_level": 26,
+		"probability": 0.6000000238418579
+	},
+	{
+		"ID": 747,
+		"base_level": 25,
+		"material_level": 27,
+		"probability": 0.6499999761581421
+	},
+	{
+		"ID": 748,
+		"base_level": 25,
+		"material_level": 28,
+		"probability": 0.699999988079071
+	},
+	{
+		"ID": 749,
+		"base_level": 25,
+		"material_level": 29,
+		"probability": 0.75
+	},
+	{
+		"ID": 750,
+		"base_level": 25,
+		"material_level": 30,
+		"probability": 0.800000011920929
+	},
+	{
+		"ID": 751,
+		"base_level": 26,
+		"material_level": 1,
+		"probability": 0.009999999776482582
+	},
+	{
+		"ID": 752,
+		"base_level": 26,
+		"material_level": 2,
+		"probability": 0.009999999776482582
+	},
+	{
+		"ID": 753,
+		"base_level": 26,
+		"material_level": 3,
+		"probability": 0.009999999776482582
+	},
+	{
+		"ID": 754,
+		"base_level": 26,
+		"material_level": 4,
+		"probability": 0.019999999552965164
+	},
+	{
+		"ID": 755,
+		"base_level": 26,
+		"material_level": 5,
+		"probability": 0.019999999552965164
+	},
+	{
+		"ID": 756,
+		"base_level": 26,
+		"material_level": 6,
+		"probability": 0.019999999552965164
+	},
+	{
+		"ID": 757,
+		"base_level": 26,
+		"material_level": 7,
+		"probability": 0.029999999329447746
+	},
+	{
+		"ID": 758,
+		"base_level": 26,
+		"material_level": 8,
+		"probability": 0.029999999329447746
+	},
+	{
+		"ID": 759,
+		"base_level": 26,
+		"material_level": 9,
+		"probability": 0.029999999329447746
+	},
+	{
+		"ID": 760,
+		"base_level": 26,
+		"material_level": 10,
+		"probability": 0.05000000074505806
+	},
+	{
+		"ID": 761,
+		"base_level": 26,
+		"material_level": 11,
+		"probability": 0.05000000074505806
+	},
+	{
+		"ID": 762,
+		"base_level": 26,
+		"material_level": 12,
+		"probability": 0.05000000074505806
+	},
+	{
+		"ID": 763,
+		"base_level": 26,
+		"material_level": 13,
+		"probability": 0.10000000149011612
+	},
+	{
+		"ID": 764,
+		"base_level": 26,
+		"material_level": 14,
+		"probability": 0.10000000149011612
+	},
+	{
+		"ID": 765,
+		"base_level": 26,
+		"material_level": 15,
+		"probability": 0.15000000596046448
+	},
+	{
+		"ID": 766,
+		"base_level": 26,
+		"material_level": 16,
+		"probability": 0.15000000596046448
+	},
+	{
+		"ID": 767,
+		"base_level": 26,
+		"material_level": 17,
+		"probability": 0.20000000298023224
+	},
+	{
+		"ID": 768,
+		"base_level": 26,
+		"material_level": 18,
+		"probability": 0.20000000298023224
+	},
+	{
+		"ID": 769,
+		"base_level": 26,
+		"material_level": 19,
+		"probability": 0.25
+	},
+	{
+		"ID": 770,
+		"base_level": 26,
+		"material_level": 20,
+		"probability": 0.25
+	},
+	{
+		"ID": 771,
+		"base_level": 26,
+		"material_level": 21,
+		"probability": 0.30000001192092896
+	},
+	{
+		"ID": 772,
+		"base_level": 26,
+		"material_level": 22,
+		"probability": 0.3499999940395355
+	},
+	{
+		"ID": 773,
+		"base_level": 26,
+		"material_level": 23,
+		"probability": 0.4000000059604645
+	},
+	{
+		"ID": 774,
+		"base_level": 26,
+		"material_level": 24,
+		"probability": 0.44999998807907104
+	},
+	{
+		"ID": 775,
+		"base_level": 26,
+		"material_level": 25,
+		"probability": 0.5
+	},
+	{
+		"ID": 776,
+		"base_level": 26,
+		"material_level": 26,
+		"probability": 0.550000011920929
+	},
+	{
+		"ID": 777,
+		"base_level": 26,
+		"material_level": 27,
+		"probability": 0.6000000238418579
+	},
+	{
+		"ID": 778,
+		"base_level": 26,
+		"material_level": 28,
+		"probability": 0.6499999761581421
+	},
+	{
+		"ID": 779,
+		"base_level": 26,
+		"material_level": 29,
+		"probability": 0.699999988079071
+	},
+	{
+		"ID": 780,
+		"base_level": 26,
+		"material_level": 30,
+		"probability": 0.75
+	},
+	{
+		"ID": 781,
+		"base_level": 27,
+		"material_level": 1,
+		"probability": 0.009999999776482582
+	},
+	{
+		"ID": 782,
+		"base_level": 27,
+		"material_level": 2,
+		"probability": 0.009999999776482582
+	},
+	{
+		"ID": 783,
+		"base_level": 27,
+		"material_level": 3,
+		"probability": 0.009999999776482582
+	},
+	{
+		"ID": 784,
+		"base_level": 27,
+		"material_level": 4,
+		"probability": 0.009999999776482582
+	},
+	{
+		"ID": 785,
+		"base_level": 27,
+		"material_level": 5,
+		"probability": 0.019999999552965164
+	},
+	{
+		"ID": 786,
+		"base_level": 27,
+		"material_level": 6,
+		"probability": 0.019999999552965164
+	},
+	{
+		"ID": 787,
+		"base_level": 27,
+		"material_level": 7,
+		"probability": 0.019999999552965164
+	},
+	{
+		"ID": 788,
+		"base_level": 27,
+		"material_level": 8,
+		"probability": 0.029999999329447746
+	},
+	{
+		"ID": 789,
+		"base_level": 27,
+		"material_level": 9,
+		"probability": 0.029999999329447746
+	},
+	{
+		"ID": 790,
+		"base_level": 27,
+		"material_level": 10,
+		"probability": 0.029999999329447746
+	},
+	{
+		"ID": 791,
+		"base_level": 27,
+		"material_level": 11,
+		"probability": 0.05000000074505806
+	},
+	{
+		"ID": 792,
+		"base_level": 27,
+		"material_level": 12,
+		"probability": 0.05000000074505806
+	},
+	{
+		"ID": 793,
+		"base_level": 27,
+		"material_level": 13,
+		"probability": 0.05000000074505806
+	},
+	{
+		"ID": 794,
+		"base_level": 27,
+		"material_level": 14,
+		"probability": 0.10000000149011612
+	},
+	{
+		"ID": 795,
+		"base_level": 27,
+		"material_level": 15,
+		"probability": 0.10000000149011612
+	},
+	{
+		"ID": 796,
+		"base_level": 27,
+		"material_level": 16,
+		"probability": 0.15000000596046448
+	},
+	{
+		"ID": 797,
+		"base_level": 27,
+		"material_level": 17,
+		"probability": 0.15000000596046448
+	},
+	{
+		"ID": 798,
+		"base_level": 27,
+		"material_level": 18,
+		"probability": 0.20000000298023224
+	},
+	{
+		"ID": 799,
+		"base_level": 27,
+		"material_level": 19,
+		"probability": 0.20000000298023224
+	},
+	{
+		"ID": 800,
+		"base_level": 27,
+		"material_level": 20,
+		"probability": 0.25
+	},
+	{
+		"ID": 801,
+		"base_level": 27,
+		"material_level": 21,
+		"probability": 0.25
+	},
+	{
+		"ID": 802,
+		"base_level": 27,
+		"material_level": 22,
+		"probability": 0.30000001192092896
+	},
+	{
+		"ID": 803,
+		"base_level": 27,
+		"material_level": 23,
+		"probability": 0.3499999940395355
+	},
+	{
+		"ID": 804,
+		"base_level": 27,
+		"material_level": 24,
+		"probability": 0.4000000059604645
+	},
+	{
+		"ID": 805,
+		"base_level": 27,
+		"material_level": 25,
+		"probability": 0.44999998807907104
+	},
+	{
+		"ID": 806,
+		"base_level": 27,
+		"material_level": 26,
+		"probability": 0.5
+	},
+	{
+		"ID": 807,
+		"base_level": 27,
+		"material_level": 27,
+		"probability": 0.550000011920929
+	},
+	{
+		"ID": 808,
+		"base_level": 27,
+		"material_level": 28,
+		"probability": 0.6000000238418579
+	},
+	{
+		"ID": 809,
+		"base_level": 27,
+		"material_level": 29,
+		"probability": 0.6499999761581421
+	},
+	{
+		"ID": 810,
+		"base_level": 27,
+		"material_level": 30,
+		"probability": 0.699999988079071
+	},
+	{
+		"ID": 811,
+		"base_level": 28,
+		"material_level": 1,
+		"probability": 0.009999999776482582
+	},
+	{
+		"ID": 812,
+		"base_level": 28,
+		"material_level": 2,
+		"probability": 0.009999999776482582
+	},
+	{
+		"ID": 813,
+		"base_level": 28,
+		"material_level": 3,
+		"probability": 0.009999999776482582
+	},
+	{
+		"ID": 814,
+		"base_level": 28,
+		"material_level": 4,
+		"probability": 0.009999999776482582
+	},
+	{
+		"ID": 815,
+		"base_level": 28,
+		"material_level": 5,
+		"probability": 0.019999999552965164
+	},
+	{
+		"ID": 816,
+		"base_level": 28,
+		"material_level": 6,
+		"probability": 0.019999999552965164
+	},
+	{
+		"ID": 817,
+		"base_level": 28,
+		"material_level": 7,
+		"probability": 0.019999999552965164
+	},
+	{
+		"ID": 818,
+		"base_level": 28,
+		"material_level": 8,
+		"probability": 0.019999999552965164
+	},
+	{
+		"ID": 819,
+		"base_level": 28,
+		"material_level": 9,
+		"probability": 0.029999999329447746
+	},
+	{
+		"ID": 820,
+		"base_level": 28,
+		"material_level": 10,
+		"probability": 0.029999999329447746
+	},
+	{
+		"ID": 821,
+		"base_level": 28,
+		"material_level": 11,
+		"probability": 0.029999999329447746
+	},
+	{
+		"ID": 822,
+		"base_level": 28,
+		"material_level": 12,
+		"probability": 0.05000000074505806
+	},
+	{
+		"ID": 823,
+		"base_level": 28,
+		"material_level": 13,
+		"probability": 0.05000000074505806
+	},
+	{
+		"ID": 824,
+		"base_level": 28,
+		"material_level": 14,
+		"probability": 0.05000000074505806
+	},
+	{
+		"ID": 825,
+		"base_level": 28,
+		"material_level": 15,
+		"probability": 0.10000000149011612
+	},
+	{
+		"ID": 826,
+		"base_level": 28,
+		"material_level": 16,
+		"probability": 0.10000000149011612
+	},
+	{
+		"ID": 827,
+		"base_level": 28,
+		"material_level": 17,
+		"probability": 0.15000000596046448
+	},
+	{
+		"ID": 828,
+		"base_level": 28,
+		"material_level": 18,
+		"probability": 0.15000000596046448
+	},
+	{
+		"ID": 829,
+		"base_level": 28,
+		"material_level": 19,
+		"probability": 0.20000000298023224
+	},
+	{
+		"ID": 830,
+		"base_level": 28,
+		"material_level": 20,
+		"probability": 0.20000000298023224
+	},
+	{
+		"ID": 831,
+		"base_level": 28,
+		"material_level": 21,
+		"probability": 0.25
+	},
+	{
+		"ID": 832,
+		"base_level": 28,
+		"material_level": 22,
+		"probability": 0.25
+	},
+	{
+		"ID": 833,
+		"base_level": 28,
+		"material_level": 23,
+		"probability": 0.30000001192092896
+	},
+	{
+		"ID": 834,
+		"base_level": 28,
+		"material_level": 24,
+		"probability": 0.3499999940395355
+	},
+	{
+		"ID": 835,
+		"base_level": 28,
+		"material_level": 25,
+		"probability": 0.4000000059604645
+	},
+	{
+		"ID": 836,
+		"base_level": 28,
+		"material_level": 26,
+		"probability": 0.44999998807907104
+	},
+	{
+		"ID": 837,
+		"base_level": 28,
+		"material_level": 27,
+		"probability": 0.5
+	},
+	{
+		"ID": 838,
+		"base_level": 28,
+		"material_level": 28,
+		"probability": 0.550000011920929
+	},
+	{
+		"ID": 839,
+		"base_level": 28,
+		"material_level": 29,
+		"probability": 0.6000000238418579
+	},
+	{
+		"ID": 840,
+		"base_level": 28,
+		"material_level": 30,
+		"probability": 0.6499999761581421
+	},
+	{
+		"ID": 841,
+		"base_level": 29,
+		"material_level": 1,
+		"probability": 0.009999999776482582
+	},
+	{
+		"ID": 842,
+		"base_level": 29,
+		"material_level": 2,
+		"probability": 0.009999999776482582
+	},
+	{
+		"ID": 843,
+		"base_level": 29,
+		"material_level": 3,
+		"probability": 0.009999999776482582
+	},
+	{
+		"ID": 844,
+		"base_level": 29,
+		"material_level": 4,
+		"probability": 0.009999999776482582
+	},
+	{
+		"ID": 845,
+		"base_level": 29,
+		"material_level": 5,
+		"probability": 0.019999999552965164
+	},
+	{
+		"ID": 846,
+		"base_level": 29,
+		"material_level": 6,
+		"probability": 0.019999999552965164
+	},
+	{
+		"ID": 847,
+		"base_level": 29,
+		"material_level": 7,
+		"probability": 0.019999999552965164
+	},
+	{
+		"ID": 848,
+		"base_level": 29,
+		"material_level": 8,
+		"probability": 0.019999999552965164
+	},
+	{
+		"ID": 849,
+		"base_level": 29,
+		"material_level": 9,
+		"probability": 0.029999999329447746
+	},
+	{
+		"ID": 850,
+		"base_level": 29,
+		"material_level": 10,
+		"probability": 0.029999999329447746
+	},
+	{
+		"ID": 851,
+		"base_level": 29,
+		"material_level": 11,
+		"probability": 0.029999999329447746
+	},
+	{
+		"ID": 852,
+		"base_level": 29,
+		"material_level": 12,
+		"probability": 0.029999999329447746
+	},
+	{
+		"ID": 853,
+		"base_level": 29,
+		"material_level": 13,
+		"probability": 0.05000000074505806
+	},
+	{
+		"ID": 854,
+		"base_level": 29,
+		"material_level": 14,
+		"probability": 0.05000000074505806
+	},
+	{
+		"ID": 855,
+		"base_level": 29,
+		"material_level": 15,
+		"probability": 0.05000000074505806
+	},
+	{
+		"ID": 856,
+		"base_level": 29,
+		"material_level": 16,
+		"probability": 0.10000000149011612
+	},
+	{
+		"ID": 857,
+		"base_level": 29,
+		"material_level": 17,
+		"probability": 0.10000000149011612
+	},
+	{
+		"ID": 858,
+		"base_level": 29,
+		"material_level": 18,
+		"probability": 0.15000000596046448
+	},
+	{
+		"ID": 859,
+		"base_level": 29,
+		"material_level": 19,
+		"probability": 0.15000000596046448
+	},
+	{
+		"ID": 860,
+		"base_level": 29,
+		"material_level": 20,
+		"probability": 0.20000000298023224
+	},
+	{
+		"ID": 861,
+		"base_level": 29,
+		"material_level": 21,
+		"probability": 0.20000000298023224
+	},
+	{
+		"ID": 862,
+		"base_level": 29,
+		"material_level": 22,
+		"probability": 0.25
+	},
+	{
+		"ID": 863,
+		"base_level": 29,
+		"material_level": 23,
+		"probability": 0.25
+	},
+	{
+		"ID": 864,
+		"base_level": 29,
+		"material_level": 24,
+		"probability": 0.30000001192092896
+	},
+	{
+		"ID": 865,
+		"base_level": 29,
+		"material_level": 25,
+		"probability": 0.3499999940395355
+	},
+	{
+		"ID": 866,
+		"base_level": 29,
+		"material_level": 26,
+		"probability": 0.4000000059604645
+	},
+	{
+		"ID": 867,
+		"base_level": 29,
+		"material_level": 27,
+		"probability": 0.44999998807907104
+	},
+	{
+		"ID": 868,
+		"base_level": 29,
+		"material_level": 28,
+		"probability": 0.5
+	},
+	{
+		"ID": 869,
+		"base_level": 29,
+		"material_level": 29,
+		"probability": 0.550000011920929
+	},
+	{
+		"ID": 870,
+		"base_level": 29,
+		"material_level": 30,
+		"probability": 0.6000000238418579
+	}
+]

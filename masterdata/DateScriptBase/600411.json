@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 600411,
+		"script": ";;無駄遣いしないように,小\n;;欲しいものでもある？,大\n;;プレゼントし合う？,中\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background %(background)s\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 0 0\n@\n色鮮やかなショーウィンドウが\n並ぶ通りにカドケウスと\n来たマスター\n\n# textflame 0 0\n@\nやたらとハイテンションな\nカドケウスに、誘って正解だったと\nマスターは感じていた\n\n# face %(unit_a)s \"smile\"\n# voice 6004 \"kadokeusu_0005\"\n# textflame 1 1\n@カドケウス\nふふふ、買い物っていいよねー♪\n見てるだけでも楽しいし\n\n# textflame 1 1\n@カドケウス\nいろいろ悩んで買うのも\n楽しいし……\n\n# voice 6004 \"kadokeusu_0020\"\n# textflame 1 1\n@カドケウス\nあ、でも一番は\n誰かに買ってもらうことかなっ♪\n;;----------------------------------------\n\n# textflame 0 0\n@\nカドケウスは\n口元に笑みを湛えながら\n意味ありげにマスターを見る\n\n# select \"無駄遣いしないように\" \"select_label_01\" \"欲しいものでもある？\" \"select_label_02\" \"プレゼントし合う？\" \"select_label_03\"\nカドケウスは\n口元に笑みを湛えながら\n意味ありげにマスターを見る\n\n# label \"select_label_01\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_02\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_03\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_end\"\n# waitandnext 0.1\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

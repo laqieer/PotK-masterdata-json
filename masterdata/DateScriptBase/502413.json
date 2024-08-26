@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 502413,
+		"script": ";;A ここを宿泊地とする！ 中\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_cave\"\n# bgmfile \"bgm258\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n# voice 5024 \"saika_0004\"\n@雑賀\nお、いいっすねー！\nじゃあうちはこの辺に\n寝るとして…\n\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n# voice 5024 \"saika_0023\"\n@雑賀\n…ちょっと待ってほしいっす\nそれってふたりきりで\n泊まるってこと！？\n\n# textflame 0 0\n@\nだって気に入ったみたいだし…\nとマスターはきょとんとする\n\n# textflame 1 1\n# voice 5024 \"saika_0025\"\n@雑賀\nいやいやいや！\nマ、マスターはいいんすか！？\nうちと二人で外泊しても！\n\n# textflame 0 0\n@\nなにが問題なのかという表情で\nマスターはコクリとうなづく\n\n# eye %(unit_a)s \"close\"\n# textflame 1 1\n# voice 5024 \"saika_0040\"\n@雑賀\nそ、そうなん…\nいろいろこう…思われて…\nええの…ね？\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n\n# fadein \"black\" 0.5\n# textflame 0 0\n# eye %(unit_a)s \"normal\"\n@\n数時間後…\n妙な雰囲気に耐えられず\n結局帰宅する二人だった…\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

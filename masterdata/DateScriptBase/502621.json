@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 502621,
+		"script": ";;大A寂しいよね…\n;;中B一緒に入ろう\n;;小Cゆっくりしよう\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_onsen\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# face %(unit_a)s \"usual\"\n# textflame 0 0\n@\nマスターは、ゆんゆんを誘って\n温泉へとやってきた\n\n# voice 250261 \"yunyun_0004\"\n# textflame 1 1\n@ゆんゆん\n少し汗をかいてしまったので\n早く入りたいです\n\n# voice 250261 \"yunyun_0008\"\n# face %(unit_a)s \"sad\"\n@ゆんゆん\nだけど温泉って、入っている間は\n別々になってしまうんですよね\n\n# select \"寂しいよね…\" \"select_label_01\" \"一緒に入ろう\" \"select_label_02\" \"ゆっくりしよう\" \"select_label_03\"\nだけど温泉って、入っている間は\n別々になってしまうんですよね\n\n# label \"select_label_01\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_02\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_03\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# textflame 1 1\n# waitandnext 0.1\n\n# label \"select_label_end\"\n# waitandnext 2\n# fadeout \"black\" 1.2\n"
+	}
+]

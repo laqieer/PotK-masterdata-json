@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 93015198,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# se \"SE_0733\"\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n@%(unitName:unit_a)s\n………その答え\n\n@%(unitName:unit_a)s\n不正解だ～！\n\n# face %(unit_a)s \"angry\"\n# voice 3015 \"kyoko_0019\"\n@%(unitName:unit_a)s\nなんで、\nこんな簡単な問題、\nわかんねぇんだよ！\n\n@%(unitName:unit_a)s\nてことで、\nおごる話も無しだからな！\n\n# alpha %(unit_a)s 0 0.5\n# textflame 0 0\n@\nと、一人で帰っていく彼女\n\n# serif 0\n# textwindow \"close\"\n# serif 1\n# textflame 1 1\n# textwindow \"nomal\"\n@%(unitName:unit_a)s\n…ったく、日頃の感謝で、\nいいものおごってやろうと\n思ってたのに…\n\n# serif 1\n# textwindow \"close\"\n# serif 0\n# textflame 0 0\n# textwindow \"nomal\"\n@\nマスターは彼女との距離が\n開いてしまったことを\n甚く後悔するのだった…\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

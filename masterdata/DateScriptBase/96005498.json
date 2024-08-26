@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 96005498,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# se \"SE_0733\"\n# face %(unit_a)s \"sad\"\n# voice 6005 \"keryukeion_0013\"\n@ケーリュケイオン\nちょっとー\n違うよー！\n\n@ケーリュケイオン\nこれはお仕置き確定かなー？\n\n# face %(unit_a)s \"normal\"\n# voice 6005 \"keryukeion_0004\"\n@ケーリュケイオン\n…なーんて、冗談だよ\nお仕置きなんてしないって\n\n@ケーリュケイオン\n怒ってないよ\nでも、もっと私を見て欲しいなって\nそう思っただけ！\n\n# voice 6005 \"keryukeion_0036\"\n@ケーリュケイオン\n次は、ちゃんと答えてよね\n期待してるから！\n\n# textflame 0 0\n@\n突然のクイズだったとはいえ、\nケーリュケイオンを\n悲しませてしまった…\n\n@\nこれからはもっと彼女のことを\nじっくり観察しなければ！\n\n@\nそう決意したマスターであった\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

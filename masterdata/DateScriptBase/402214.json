@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 402214,
+		"script": ";;C\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_shop\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# face %(unit_a)s \"surprise\"\n# voice 540221 \"ichiibal_c_0003\"\n# textflame 1 1\n@イチイバル\nあ…船じゃ無くて\n模型って所だよ…\n\n# face %(unit_a)s \"normal\"\n@イチイバル\nこれ現実には存在しない\n船なのに、まるで本当に\n存在してるみたいだよね\n\n@イチイバル\nどこにもない物を\n作るって凄いよね\n\n@イチイバル\nそう考えると、感情も\n似たようなものなのかもしれないね\n\n@イチイバル\n目には見えない、\n探しても見つからない\n\n@イチイバル\nでも確かにここにあって…\nうん、いいと思う\n\n# voice 540221 \"ichiibal_c_0042\"\n@イチイバル\nボクはお兄さんがいると\nなんかいいなって思うだ\nテヘッ☆\n\n# voice 540221 \"ichiibal_c_0002\"\n@イチイバル\nお兄さんもこういう\n気持ちになるのかい？\n\n# textflame 0 0\n@\n真っ直ぐなイチイバルの\n視線をマスターは見つめ返す\n\n# voice 540221 \"ichiibal_c_0004\"\n# textflame 1 1\n@イチイバル\nじー…うん…\nふふっ…なんかいい…\n\n@イチイバル\n言葉だけじゃ伝わらない\nそういうのって、あるんだね\n\n@イチイバル\nこれからもお兄さんと\n一緒なら、もっともっと\n凄いことになりそうだよ\n\n# voice 540221 \"ichiibal_c_0021\"\n@イチイバル\nだからボクも、お兄さんのこと\n夢中にさせるね、キランッ☆\n\n# textflame 0 0\n@\nどこか靄が晴れたように\n柔らかな表情を浮かべる\nイチイバル\n\n# textflame 0 0\n@\nそしてマスターの心にも\n暖かい物がこみ上げていた\n\n;;-----------------------------------------\n# waitandnext 2\n# fadeout \"black\" 1.2\n"
+	}
+]

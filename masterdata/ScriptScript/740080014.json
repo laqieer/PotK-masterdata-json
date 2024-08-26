@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 740080014,
+		"script": ";;アマテラス上級接触時\n# script \"lisp\"\n# body 302711\n# pos 302711 3\n# scale 302711 0.8 0\n# textflame 1 1\n# textboxarrow 0 2\n# chara 302711\n# mask 302711 off\n# face 302711 \"angry\"\n# voice 3027 \"amaterasu_unit_0008\"\n@アマテラス\n怒っちゃいましたからね！！"
+	}
+]

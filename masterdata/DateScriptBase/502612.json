@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 502612,
+		"script": ";;B大隣同士の方がいいよね\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_cafe\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# face %(unit_a)s \"normal\"\n# voice 250261 \"yunyun_kyara_1025\"\n# textflame 1 1\n@ゆんゆん\nと、隣同士がいいって…\nそそそそそそれはどういう意味ですか！？\n\n@ゆんゆん\n…もしかして\n私をだまそうとしてるんですか？\n\n# face %(unit_a)s \"angry\"\n@ゆんゆん\n自分たちは親密な関係だよねと言って\nお金をせしめるつもりなんですね!?\n\n@ゆんゆん\n払います！\n\n# textflame 0 0\n@\n違うよと、マスターは否定する\n\n# voice 250261 \"yunyun_0009\"\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@ゆんゆん\nち、違う？お金を払わなくても\n私と仲良くしてくれるんですか？\n\n# textflame 0 0\n@\nもちろんと、マスターは答えた\n\n# voice 250261 \"yunyun_0026\"\n# face %(unit_a)s \"normal\"\n# textflame 1 1\n@ゆんゆん\nそんな…あなたみたいな\n優しいひとがいるだなんて…\n驚きました…\n\n# textflame 0 0\n@\nそうかな？\n首を傾げるマスター\n\n# voice 250261 \"yunyun_0008\"\n# textflame 1 1\n@ゆんゆん\nそれでは、その…\nお友達っぽく\n色々お話させてもらえますか？\n\n# textflame 0 0\n@\nもちろん！\nそう言って頷いてみせる\n\n# textflame 0 0\n@\nゆんゆんは嬉しそうに\n話を始める\n\n# textflame 0 0\n@\nこうして、ゆんゆんと\nカフェの閉店時間まで\nたくさん話すことができたのだった\n\n;;-----------------------------------------\n# waitandnext 2\n# fadeout \"black\" 1.2\n"
+	}
+]

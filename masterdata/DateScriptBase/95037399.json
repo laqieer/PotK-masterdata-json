@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 95037399,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# se \"SE_0732\"\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n@ロジェスティラ\nその答え…\n\n# eye %(unit_a)s \"close\"\n# voice 550371 \"logistille_c_0005\"\n@ロジェスティラ\n大正解ですっ！\n\n# eye %(unit_a)s \"normal\"\n# textflame 0 0\n@\nお願いってなんだったの？\nと、尋ねるマスター\n\n# face %(unit_a)s \"sad\"\n# voice 550371 \"logistille_c_0028\"\n# textflame 1 1\n@ロジェスティラ\nそ、それは…\n\n# textflame 0 0\n@\n頬を染めた彼女が、\n恥ずかしそうに言ってきた\n\n# textflame 1 1\n# voice 550371 \"logistille_c_0002\"\n@ロジェスティラ\n夏の思い出に、\nわたしの名前…\n\n@ロジェスティラ\nもう一度、\n呼んでくれませんか…？\n\n# face %(unit_a)s \"surprise\"\n@ロジェスティラ\nロジェって…\n\n# textflame 0 0\n@\n夏の夕陽に照らされ、\nおねだりする彼女の笑顔は\nとても美しかった\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 300322,
+		"script": ";;B大当たり\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_onsen\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n@方天画戟\nん…？\nなにがだ？\n\n# textflame 0 0\n@\n方天画戟は胸を開き\n両足を大の字に広げて\n隣で湯に浸かっている…\n\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n# voice 3003 \"hotengageki_0005\"\n@方天画戟\nははは！\nおかしな主君だな？\n水着を着ているから問題ないだろ！\n\n# textflame 0 0\n@\nそう言ってマスターの肩を\nバンバン叩く方天画戟\nそのたびに胸が揺れる\n\n# textflame 0 0\n@\nつい目がいってしまうのに\n気づいたのか\n方天画戟は口をつぐみ…\n\n# face %(unit_a)s \"normal\"\n# textflame 1 1\n# voice 3003 \"hotengageki_0007\"\n@方天画戟\n…………\n\n# textflame 0 0\n@\nニヤリと不敵に笑った\n\n# textflame 1 1\n# voice 3003 \"hotengageki_0001\"\n@方天画戟\nよし、マスター！\nオレの忠義の印に…\n背中でも流させてもらおう！\n\n# eye %(unit_a)s \"close\"\n@方天画戟\nなぁに遠慮するな！\n\n# voice 3003 \"hotengageki_0032\"\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"smile\"\n@方天画戟\nこれも配下の務め…\n…だろ♪\n\n# textflame 0 0\n@\n湯けむりの中で彼女は\nいたずらっぽく微笑んだ――\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

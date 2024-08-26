@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 300812,
+		"script": "# script \"lisp\"\n# fadein \"black\" 0.5\n# background %(background)s\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 3008 \"gunguniru_0039\"\n@グングニル\nそうか…そなたも感じるか！\n…なにが見える？\n\n# textflame 0 0\n@\n恐竜、最初の人、文明の発達…\nそして、幾多の戦争…\n\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n@グングニル\n武器、戦…\n我らにとっては\nどこか耳の痛い話だ\n\n# voice 3008 \"gunguniru_0028\"\n;; face %(unit_a)s \"close\"\n# textflame 1 1\n@グングニル\n…………\n\n# face %(unit_a)s \"usual\"\n# textflame 0 0\n@\nでも、今、隣に立つのは\nどこからどう見ても\n素敵な女の子だ…\n\n# textflame 0 0\n@\nマスターは悠久の歴史や\n知識の海ではなく\nグングニルに思いを馳せていた\n\n# voice 3008 \"gunguniru_0004\"\n;; face %(unit_a)s \"close\"\n# textflame 1 1\n@グングニル\nコホン…\nそなたの考えていることは\n手に取るようにわかるぞ？\n\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@グングニル\nだが…言わないでおく\n\n# textflame 0 0\n@\nグングニルは\n頬を染め、視線を落とす\n\n# voice 3008 \"gunguniru_0008\"\n# textflame 1 1\n@グングニル\nだって…\n恥ずかしいではないか…\n\n# textflame 1 1\n@グングニル\nせっかく来たのだ\nもっと、じっくり堪能しよう\n\n# textflame 0 0\n@\nグングニルは\nマスターの手を取って進む\n\n# textflame 0 0\n@\n二人きりのナイトミュージアムは\nまだ始まったばかりだ――\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

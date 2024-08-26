@@ -1,0 +1,426 @@
+[
+	{
+		"ID": 14070002,
+		"call_item_category_id": 7,
+		"call_item_sub_category_id": 0,
+		"elemental_id": 2,
+		"tips": "イベントクエスト「晩夏に輝きの灯を」ビーチ、ジャングルなどで獲得可能",
+		"tips_talk": "昼にビーチの祭壇の辺り"
+	},
+	{
+		"ID": 14070003,
+		"call_item_category_id": 7,
+		"call_item_sub_category_id": 0,
+		"elemental_id": 3,
+		"tips": "イベントクエスト「晩夏に輝きの灯を」ビーチ、ジャングルなどで獲得可能",
+		"tips_talk": "昼にジャングルの祭壇の辺り"
+	},
+	{
+		"ID": 14070004,
+		"call_item_category_id": 7,
+		"call_item_sub_category_id": 0,
+		"elemental_id": 4,
+		"tips": "イベントクエスト「晩夏に輝きの灯を」プール、ビーチなどで獲得可能",
+		"tips_talk": "夕方にプールのゴムボートの辺り"
+	},
+	{
+		"ID": 14070005,
+		"call_item_category_id": 7,
+		"call_item_sub_category_id": 0,
+		"elemental_id": 5,
+		"tips": "イベントクエスト「晩夏に輝きの灯を」プール、ジャングルなどで獲得可能",
+		"tips_talk": "夜にジャングルの湧き水や滝の下辺り"
+	},
+	{
+		"ID": 14070007,
+		"call_item_category_id": 7,
+		"call_item_sub_category_id": 0,
+		"elemental_id": 7,
+		"tips": "イベントクエスト「晩夏に輝きの灯を」プール、ビーチなどで獲得可能",
+		"tips_talk": "夕方にビーチの船の砲台の辺り"
+	},
+	{
+		"ID": 14070008,
+		"call_item_category_id": 7,
+		"call_item_sub_category_id": 0,
+		"elemental_id": 8,
+		"tips": "イベントクエスト「晩夏に輝きの灯を」プール、ジャングルなどで獲得可能",
+		"tips_talk": "夜にプールの監視台の辺り"
+	},
+	{
+		"ID": 14080002,
+		"call_item_category_id": 8,
+		"call_item_sub_category_id": 0,
+		"elemental_id": 2,
+		"tips": "イベントクエスト「晩夏に輝きの灯を」ビーチ、ジャングルなどで獲得可能",
+		"tips_talk": "プール以外"
+	},
+	{
+		"ID": 14080003,
+		"call_item_category_id": 8,
+		"call_item_sub_category_id": 0,
+		"elemental_id": 3,
+		"tips": "イベントクエスト「晩夏に輝きの灯を」ビーチ、ジャングルなどで獲得可能",
+		"tips_talk": "プール以外"
+	},
+	{
+		"ID": 14080004,
+		"call_item_category_id": 8,
+		"call_item_sub_category_id": 0,
+		"elemental_id": 4,
+		"tips": "イベントクエスト「晩夏に輝きの灯を」プール、ビーチなどで獲得可能",
+		"tips_talk": "ジャングル以外"
+	},
+	{
+		"ID": 14080005,
+		"call_item_category_id": 8,
+		"call_item_sub_category_id": 0,
+		"elemental_id": 5,
+		"tips": "イベントクエスト「晩夏に輝きの灯を」プール、ジャングルなどで獲得可能",
+		"tips_talk": "ビーチ以外"
+	},
+	{
+		"ID": 14080007,
+		"call_item_category_id": 8,
+		"call_item_sub_category_id": 0,
+		"elemental_id": 7,
+		"tips": "イベントクエスト「晩夏に輝きの灯を」プール、ビーチなどで獲得可能",
+		"tips_talk": "ジャングル以外"
+	},
+	{
+		"ID": 14080008,
+		"call_item_category_id": 8,
+		"call_item_sub_category_id": 0,
+		"elemental_id": 8,
+		"tips": "イベントクエスト「晩夏に輝きの灯を」プール、ジャングルなどで獲得可能",
+		"tips_talk": "ビーチ以外"
+	},
+	{
+		"ID": 14010200,
+		"call_item_category_id": 1,
+		"call_item_sub_category_id": 2,
+		"elemental_id": 0,
+		"tips": "イベントクエスト「晩夏に輝きの灯を」プールなどで獲得可能",
+		"tips_talk": "夜にプールの四角い家の前"
+	},
+	{
+		"ID": 14010300,
+		"call_item_category_id": 1,
+		"call_item_sub_category_id": 3,
+		"elemental_id": 0,
+		"tips": "イベントクエスト「晩夏に輝きの灯を」ビーチなどで獲得可能",
+		"tips_talk": "夕方にビーチのビーチチェアの辺り"
+	},
+	{
+		"ID": 14010400,
+		"call_item_category_id": 1,
+		"call_item_sub_category_id": 4,
+		"elemental_id": 0,
+		"tips": "イベントクエスト「晩夏に輝きの灯を」ジャングルなどで獲得可能",
+		"tips_talk": "昼にジャングルのやぐらの辺り"
+	},
+	{
+		"ID": 14010500,
+		"call_item_category_id": 1,
+		"call_item_sub_category_id": 5,
+		"elemental_id": 0,
+		"tips": "イベントクエスト「晩夏に輝きの灯を」などで獲得可能",
+		"tips_talk": "時間帯毎に色んな場所"
+	},
+	{
+		"ID": 14060000,
+		"call_item_category_id": 6,
+		"call_item_sub_category_id": 0,
+		"elemental_id": 0,
+		"tips": "誓約アイテムレシピのみで獲得可能",
+		"tips_talk": ""
+	},
+	{
+		"ID": 14090002,
+		"call_item_category_id": 9,
+		"call_item_sub_category_id": 0,
+		"elemental_id": 2,
+		"tips": "誓約アイテムレシピのみで獲得可能",
+		"tips_talk": ""
+	},
+	{
+		"ID": 14090003,
+		"call_item_category_id": 9,
+		"call_item_sub_category_id": 0,
+		"elemental_id": 3,
+		"tips": "誓約アイテムレシピのみで獲得可能",
+		"tips_talk": ""
+	},
+	{
+		"ID": 14090004,
+		"call_item_category_id": 9,
+		"call_item_sub_category_id": 0,
+		"elemental_id": 4,
+		"tips": "誓約アイテムレシピのみで獲得可能",
+		"tips_talk": ""
+	},
+	{
+		"ID": 14090005,
+		"call_item_category_id": 9,
+		"call_item_sub_category_id": 0,
+		"elemental_id": 5,
+		"tips": "誓約アイテムレシピのみで獲得可能",
+		"tips_talk": ""
+	},
+	{
+		"ID": 14090007,
+		"call_item_category_id": 9,
+		"call_item_sub_category_id": 0,
+		"elemental_id": 7,
+		"tips": "誓約アイテムレシピのみで獲得可能",
+		"tips_talk": ""
+	},
+	{
+		"ID": 14090008,
+		"call_item_category_id": 9,
+		"call_item_sub_category_id": 0,
+		"elemental_id": 8,
+		"tips": "誓約アイテムレシピのみで獲得可能",
+		"tips_talk": ""
+	},
+	{
+		"ID": 14100002,
+		"call_item_category_id": 10,
+		"call_item_sub_category_id": 0,
+		"elemental_id": 2,
+		"tips": "誓約アイテムレシピのみで獲得可能",
+		"tips_talk": ""
+	},
+	{
+		"ID": 14100003,
+		"call_item_category_id": 10,
+		"call_item_sub_category_id": 0,
+		"elemental_id": 3,
+		"tips": "誓約アイテムレシピのみで獲得可能",
+		"tips_talk": ""
+	},
+	{
+		"ID": 14100004,
+		"call_item_category_id": 10,
+		"call_item_sub_category_id": 0,
+		"elemental_id": 4,
+		"tips": "誓約アイテムレシピのみで獲得可能",
+		"tips_talk": ""
+	},
+	{
+		"ID": 14100005,
+		"call_item_category_id": 10,
+		"call_item_sub_category_id": 0,
+		"elemental_id": 5,
+		"tips": "誓約アイテムレシピのみで獲得可能",
+		"tips_talk": ""
+	},
+	{
+		"ID": 14100007,
+		"call_item_category_id": 10,
+		"call_item_sub_category_id": 0,
+		"elemental_id": 7,
+		"tips": "誓約アイテムレシピのみで獲得可能",
+		"tips_talk": ""
+	},
+	{
+		"ID": 14100008,
+		"call_item_category_id": 10,
+		"call_item_sub_category_id": 0,
+		"elemental_id": 8,
+		"tips": "誓約アイテムレシピのみで獲得可能",
+		"tips_talk": ""
+	},
+	{
+		"ID": 14111202,
+		"call_item_category_id": 11,
+		"call_item_sub_category_id": 12,
+		"elemental_id": 2,
+		"tips": "誓約アイテムレシピのみで獲得可能",
+		"tips_talk": ""
+	},
+	{
+		"ID": 14111203,
+		"call_item_category_id": 11,
+		"call_item_sub_category_id": 12,
+		"elemental_id": 3,
+		"tips": "誓約アイテムレシピのみで獲得可能",
+		"tips_talk": ""
+	},
+	{
+		"ID": 14111204,
+		"call_item_category_id": 11,
+		"call_item_sub_category_id": 12,
+		"elemental_id": 4,
+		"tips": "誓約アイテムレシピのみで獲得可能",
+		"tips_talk": ""
+	},
+	{
+		"ID": 14111205,
+		"call_item_category_id": 11,
+		"call_item_sub_category_id": 12,
+		"elemental_id": 5,
+		"tips": "誓約アイテムレシピのみで獲得可能",
+		"tips_talk": ""
+	},
+	{
+		"ID": 14111207,
+		"call_item_category_id": 11,
+		"call_item_sub_category_id": 12,
+		"elemental_id": 7,
+		"tips": "誓約アイテムレシピのみで獲得可能",
+		"tips_talk": ""
+	},
+	{
+		"ID": 14111208,
+		"call_item_category_id": 11,
+		"call_item_sub_category_id": 12,
+		"elemental_id": 8,
+		"tips": "誓約アイテムレシピのみで獲得可能",
+		"tips_talk": ""
+	},
+	{
+		"ID": 14111302,
+		"call_item_category_id": 11,
+		"call_item_sub_category_id": 13,
+		"elemental_id": 2,
+		"tips": "誓約アイテムレシピのみで獲得可能",
+		"tips_talk": ""
+	},
+	{
+		"ID": 14111303,
+		"call_item_category_id": 11,
+		"call_item_sub_category_id": 13,
+		"elemental_id": 3,
+		"tips": "誓約アイテムレシピのみで獲得可能",
+		"tips_talk": ""
+	},
+	{
+		"ID": 14111304,
+		"call_item_category_id": 11,
+		"call_item_sub_category_id": 13,
+		"elemental_id": 4,
+		"tips": "誓約アイテムレシピのみで獲得可能",
+		"tips_talk": ""
+	},
+	{
+		"ID": 14111305,
+		"call_item_category_id": 11,
+		"call_item_sub_category_id": 13,
+		"elemental_id": 5,
+		"tips": "誓約アイテムレシピのみで獲得可能",
+		"tips_talk": ""
+	},
+	{
+		"ID": 14111307,
+		"call_item_category_id": 11,
+		"call_item_sub_category_id": 13,
+		"elemental_id": 7,
+		"tips": "誓約アイテムレシピのみで獲得可能",
+		"tips_talk": ""
+	},
+	{
+		"ID": 14111308,
+		"call_item_category_id": 11,
+		"call_item_sub_category_id": 13,
+		"elemental_id": 8,
+		"tips": "誓約アイテムレシピのみで獲得可能",
+		"tips_talk": ""
+	},
+	{
+		"ID": 14111402,
+		"call_item_category_id": 11,
+		"call_item_sub_category_id": 14,
+		"elemental_id": 2,
+		"tips": "誓約アイテムレシピのみで獲得可能",
+		"tips_talk": ""
+	},
+	{
+		"ID": 14111403,
+		"call_item_category_id": 11,
+		"call_item_sub_category_id": 14,
+		"elemental_id": 3,
+		"tips": "誓約アイテムレシピのみで獲得可能",
+		"tips_talk": ""
+	},
+	{
+		"ID": 14111404,
+		"call_item_category_id": 11,
+		"call_item_sub_category_id": 14,
+		"elemental_id": 4,
+		"tips": "誓約アイテムレシピのみで獲得可能",
+		"tips_talk": ""
+	},
+	{
+		"ID": 14111405,
+		"call_item_category_id": 11,
+		"call_item_sub_category_id": 14,
+		"elemental_id": 5,
+		"tips": "誓約アイテムレシピのみで獲得可能",
+		"tips_talk": ""
+	},
+	{
+		"ID": 14111407,
+		"call_item_category_id": 11,
+		"call_item_sub_category_id": 14,
+		"elemental_id": 7,
+		"tips": "誓約アイテムレシピのみで獲得可能",
+		"tips_talk": ""
+	},
+	{
+		"ID": 14111408,
+		"call_item_category_id": 11,
+		"call_item_sub_category_id": 14,
+		"elemental_id": 8,
+		"tips": "誓約アイテムレシピのみで獲得可能",
+		"tips_talk": ""
+	},
+	{
+		"ID": 14111502,
+		"call_item_category_id": 11,
+		"call_item_sub_category_id": 15,
+		"elemental_id": 2,
+		"tips": "誓約アイテムレシピのみで獲得可能",
+		"tips_talk": ""
+	},
+	{
+		"ID": 14111503,
+		"call_item_category_id": 11,
+		"call_item_sub_category_id": 15,
+		"elemental_id": 3,
+		"tips": "誓約アイテムレシピのみで獲得可能",
+		"tips_talk": ""
+	},
+	{
+		"ID": 14111504,
+		"call_item_category_id": 11,
+		"call_item_sub_category_id": 15,
+		"elemental_id": 4,
+		"tips": "誓約アイテムレシピのみで獲得可能",
+		"tips_talk": ""
+	},
+	{
+		"ID": 14111505,
+		"call_item_category_id": 11,
+		"call_item_sub_category_id": 15,
+		"elemental_id": 5,
+		"tips": "誓約アイテムレシピのみで獲得可能",
+		"tips_talk": ""
+	},
+	{
+		"ID": 14111507,
+		"call_item_category_id": 11,
+		"call_item_sub_category_id": 15,
+		"elemental_id": 7,
+		"tips": "誓約アイテムレシピのみで獲得可能",
+		"tips_talk": ""
+	},
+	{
+		"ID": 14111508,
+		"call_item_category_id": 11,
+		"call_item_sub_category_id": 15,
+		"elemental_id": 8,
+		"tips": "誓約アイテムレシピのみで獲得可能",
+		"tips_talk": ""
+	}
+]

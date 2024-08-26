@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 500811,
+		"script": "# script \"lisp\"\n# fadein \"black\" 0.5\n# background %(background)s\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 0 0\n# face %(unit_a)s \"usual\"\n@\nマスターは\n芭蕉扇を連れて\nお城にやってきた\n\n# textflame 1 1\n# voice 5008 \"bashosen_0004\"\n@芭蕉扇\nいい雰囲気ね！\n\n# textflame 1 1\n@芭蕉扇\nデザインが中華風だったら\nもっとよかったけれど…\n\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# voice 5008 \"bashosen_0003\"\n@芭蕉扇\nでも…\n大きさといい、豪華さといい\n高貴な私に申し分ないわ！\n\n# select \"住めないけどね\" \"select_label_01\" \"見て回るだけだよ\" \"select_label_02\" \"買い取っちゃう？\" \"select_label_03\"\nでも…\n大きさといい、豪華さといい\n高貴な私に申し分ないわ！\n\n# label \"select_label_01\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_02\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_03\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_end\"\n# waitandnext 0.1\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

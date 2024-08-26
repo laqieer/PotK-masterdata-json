@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 7010028,
+		"script": "# body 1200191\n# pos 1200191 3\n# scale 1200191 0.8 0\n# alpha 1200191 1 0\n# mask 1200191 off\n# textflame 0 0\n@\n魔獣化したミョルニル\n赤く光る、その目からは\n確かな殺意を感じる\n\n# textflame 1 1\n# textboxarrow 0 2\n@ミョルニル\nウウ…\n\n# textflame 0 0\n@\n身の丈を越えるほどの\n巨大な槌は、どんなものをも\n叩き潰せるだろう\n\n# textflame 1 1\n# textboxarrow 0 2\n@ミョルニル\nグウウ…\n\n# textflame 0 0\n@\n獣のごとく\n低い唸り声を上げ、\nゆっくりと近づいてくる\n\n# textflame 0 0\n@\nそして―\n\n# textflame 1 1\n# textwindow \"toge\"\n# fadein \"white\" 0.3\n# shake 1 1\n@ミョルニル\nウガアアアアアアア！！\n\n# textflame 0 0\n@\n大気をふるわせるほどの\n咆哮を上げて\n襲い掛かってきた"
+	}
+]

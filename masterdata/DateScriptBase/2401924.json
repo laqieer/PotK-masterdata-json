@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 2401924,
+		"script": ";;A\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_room\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# face %(unit_a)s \"angry\"\n# voice 540191 \"failnaught_ca_0023\"\n# textflame 1 1\n@フェイルノート\nなっ…！？\nそんなわけないじゃない！\n\n@フェイルノート\n私を小さい子どもだとでも\n思っているのかしらっ？\n\n# face %(unit_a)s \"shy\"\n# voice 540191 \"failnaught_ca_0009\"\n@フェイルノート\nな、ななな…！\nいま胸を見たでしょう、\n見たわよねぇ！？\n\n@フェイルノート\nこうも私を愚弄するなんて…\nふふふ…いい度胸じゃない…！\n\n# face %(unit_a)s \"angry\"\n@フェイルノート\nねえ、お前様…\nひとつ忠告をしておくわ\n\n@フェイルノート\nお前様はこれからご機嫌で\n帰路につくのでしょうけれど\n\n@フェイルノート\n無事に帰りつくまで\nせいぜい気をつけなさい？\n\n# voice 540191 \"failnaught_ca_0007\"\n@フェイルノート\n隊随一の謀略家、\nフェイルノートからの忠告よ…\nふふふふ…\n\n# textflame 0 0\n@\nガチャン…と玄関が\n閉じられると共に、\nマスターは恐怖で身震いする\n\n@\n無傷で帰れるかな…と、\nマスターは自身の言動を\n後悔しながら歩いて行った…\n;;-----------------------------------------\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 92025498,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# se \"SE_0733\"\n;;-----------------------------------------\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 2025 \"hercule_0024\"\n@エルキュール\n残念ながら…はずれですっ！\n\n@エルキュール\nさすがにこの問題は\n難しかったでしょうか…\n\n@エルキュール\nでも、間違えてもいいんです！\nだってこれは、マスターに\n楽しんでもらうためのものですから\n\n# textflame 0 0\n@\nそう言う彼女は、\n無理に明るく\n振舞っているように見える\n\n# textflame 1 1\n@エルキュール\nむしろこれから\nどんどん知っていってくださいね！\n\n@エルキュール\nまた別の機会に\nクイズを出しますから、\nその時は、きっと正解してください\n\n# textflame 0 0\n@\n間違ってしまったのに\nこっちを気遣われて心が痛む、\n\n@\n次こそは喜んでもらうためにも\n彼女のことをもっと知ろうと\n強く思うのだった\n\n\n;;-----------------------------------------\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

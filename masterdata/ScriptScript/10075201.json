@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 10075201,
+		"script": "# script \"lisp\"\n# background \"classroom03_night\"\n# bgm \"bgm000\" 0\n# textboxarrow 0 2\n# body 100751\n# mask 100751 off\n# pos 100751 3\n# textflame 1 1\n# chara 100751\n# face 100751 \"glasses_usual\"\n@アロンダイト\n「未知」を人は恐れる…\n故にそれに飛び込む者は\n古来、勇者と讃えられた\n\n@アロンダイト\nしかし、未知に丸腰で挑むのは\nあまりに危険です\n勇気と無謀は紙一重と言える…\n\n@アロンダイト\nつまり敵を知ることは\n非常に重要だということです\n戦略の基本とも言えるでしょう\n\n# textflame 0 0\n@\nご高説ではあるのだが…\n明らかに話が逸れている…\n\n@\nアロンダイトから図書室に\n連れてこられた理由は\nもっと情けない内容だったはず…\n\n# textflame 1 1\n# chara 100751\n@アロンダイト\nこの私を脅かす彼奴ら…\n決して許すわけには\nいかないのです\n\n# textsize 32\n# chara 100751\n# face 100751 \"glasses_angry2\"\n# voice 1007 \"Arondaito_0013\"\n@アロンダイト\nあんの、にっくきお化け！！\n\n# textsize 24\n# textflame 0 0\n@\nアロンダイトは肝試し大会で\nおばけが怖いという以外な一面を\n露呈していたのだった\n\n# textflame 1 1\n# chara 100751\n# voice 1007 \"arondaito_g_item_1001\"\n# face 100751 \"glasses_angry\"\n@アロンダイト\nなぜお化けが怖いのか…\nそれは私が、\n彼らを知らないからです\n\n# chara 100751\n# face 100751 \"glasses_angry2\"\n@アロンダイト\nお化けを深く知り\n理解すれば\n恐怖心は消えるはずです！\n\n# chara 100751\n# face 100751 \"glasses_mad\"\n# voice 1007 \"Arondaito_0024\"\n@アロンダイト\n大丈夫…克服できる…\nお化けなんて怖くない\n怖くない、怖くない…\n\n# textflame 0 0\n@\n自己暗示をかけるアロンダイト\n\n@\n先が思いやられる…"
+	}
+]

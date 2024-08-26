@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 203121,
+		"script": ";;A大\n;;B中\n;;C小\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_onsen\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# face %(unit_a)s \"usual\"\n# textflame 0 0\n@\nデートの帰り道…\n如意金箍棒の勧めで\n温泉に入ることになった\n\n@\nマスターが体を洗おうとすると、\n後ろから水着姿の如意金箍棒が\n近づいてくる…\n\n# voice 520311 \"nyoikinkobou_c_0001\"\n# textflame 1 1\n@如意金箍棒\nお師様！\nデートのお礼に、\n背中流してあげるね！\n\n@如意金箍棒\nあぁ、遠慮しないで？\nワタシがやりたくて\nやるだけだから\n\n@如意金箍棒\nちゃんと加減するけど、\n痛かったら言ってね？\n行くよ～？\n\n@如意金箍棒\nごしごし、ごしごし…\n\n@如意金箍棒\nごしごし、ごしごし…\nうん、綺麗に洗えたよ！\n\n# face %(unit_a)s \"happy\"\n# voice 520311 \"nyoikinkobou_c_0004\"\n@如意金箍棒\nフフッ、どういたしまして！\n喜んでくれてよかった～♪\n\n@如意金箍棒\nねえお師様！\n他に何かワタシに\nしてほしいことはある？\n\n# select \"頭も洗ってほしい\" \"select_label_01\" \"次は僕が洗う番だね\" \"select_label_02\" \"無理しなくていいよ？\" \"select_label_03\"\nねえお師様！\n他に何かワタシに\nしてほしいことはある？\n\n# label \"select_label_01\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_02\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_03\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# textflame 1 1\n# waitandnext 0.1\n\n# label \"select_label_end\"\n# waitandnext 2\n# fadeout \"black\" 1.2\n"
+	}
+]

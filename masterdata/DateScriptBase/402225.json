@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 402225,
+		"script": ";;青はずれ\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_drive\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# face %(unit_a)s \"normal\"\n# textflame 0 0\n@\nイチイバルとデートした\n帰り道をドライブ中のマスター\n\n# voice 540221 \"ichiibal_c_0004\"\n# textflame 1 1\n@イチイバル\nふふっ\nなんか…変な感じがするね\n\n@イチイバル\nこうしてひとつの箱に\nボクとお兄さんの、\n二人だけ\n\n@イチイバル\n天才美少女イチイバルさんを\n独り占めできるなんて…\n\n# voice 540221 \"ichiibal_c_0006\"\n@イチイバル\nお兄さんはラッキーだね\nドヤッ☆\n\n@イチイバル\nこのまま帰っちゃうの\nなんかもったいない\n気がするよ…\n\n@イチイバル\nこうしてずっとお兄さんを\n独り占めできるなんて…\n\n# voice 540221 \"ichiibal_c_0004\"\n@イチイバル\nなんだかボク、贅沢なこと\nしてるのかも…\n\n@イチイバル\nだとしても…いいよね？\nお兄さんは…お兄さんだけは\nボクのこと、許してくれるかい？ \n\n@イチイバル\n明日も明後日も…\nずーっとお兄さんと\n一緒にいたいな…\n\n# eye %(unit_a)s \"close\"\n# voice 540221 \"ichiibal_c_0019\"\n@イチイバル\nううん…あれ…？\nなんか眠くなって\nきちゃったかも…\n\n# voice 540221 \"ichiibal_c_0019\"\n@イチイバル\nふぁ…\nそれじゃあ、おやすみ\nお兄さん…\n\n# alpha %(unit_a)s 0 0.5\n@イチイバル\nすー…すー…\n\n# textflame 0 0\n@\nイチイバルを乗せたまま、\nもう少しドライブを\n続けたマスターだった…\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

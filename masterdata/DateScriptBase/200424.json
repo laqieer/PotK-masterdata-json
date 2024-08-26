@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 200424,
+		"script": ";;C 小当り\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_onsen\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 2004 \"parashu_0022\"\n@パラシュ\nえ、いや、！\n別に嫌ってわけじゃないんだ！\n\n@パラシュ\nただその、なんだか\nふだん見せていない自分を\n見られているようで…\n\n# face %(unit_a)s \"normal\"\n# voice 2004 \"parashu_0024\"\n@パラシュ\nし、しばらくしたら慣れると思う\n\n# voice 2004 \"parashu_1003\"\n@パラシュ\nだからマスターも\n温泉を楽しんでくれていいんだ\n\n@パラシュ\nけど…ボクは…その…\n少し心の準備が欲しい…\n\n# textflame 0 0\n@\n結局、気持ちの整理はつかず\n二人してのぼせるまで\nお風呂に浸かるのだった\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

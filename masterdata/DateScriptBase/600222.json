@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 600222,
+		"script": ";;C 手で持つ花火も好きだよ (大)\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_fireworks\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# voice 6002 \"ganbantein_0002\"\n# face %(unit_a)s \"usual\"\n@ガンバンテイン\n…………\n\n# voice 6002 \"ganbantein_0003\"\n@ガンバンテイン\n…………\n\n# voice 6002 \"ganbantein_0004\"\n# face %(unit_a)s \"smile\"\n@ガンバンテイン\nふふ♪\n\n# textflame 0 0\n@\nぼーっとしながら花火を眺めていた\nガンバンテインが、ふと笑い出す\n\n# textflame 1 1\n# voice 6002 \"ganbantein_0001\"\n@ガンバンテイン\nマスターは\nあたしがぼーっとしてても\n怒らないんだねー\n\n@ガンバンテイン\nそれどころかー\n一緒にぼーっと\nしてくれるなんて…\n\n# voice 6002 \"ganbantein_0005\"\n@ガンバンテイン\nなかなかそーいう人はいないからー\n珍しくて…嬉しいなー\n\n# face %(unit_a)s \"usual\"\n@ガンバンテイン\nいつもはだいたい一人だけど\nこうして隣に人がいるのはいいねー\n\n# voice 6002 \"ganbantein_0003\"\n@ガンバンテイン\nんん～？\nぼーっとしてるとき\nなにを考えてるか？\n\n@ガンバンテイン\nとくになんにも？\nただ感じてるだけかな？\n\n@ガンバンテイン\n周りの空気とか気配とか？\n\n# face %(unit_a)s \"smile\"\n@ガンバンテイン\nぼーっとしたまま\nしゃべらなくなっちゃうけど\n嫌だからじゃないからねー\n\n# voice 6002 \"ganbantein_0020\"\n@ガンバンテイン\n心地いいからそーしてるんだ\nきみのそばは特にねー♪\n\n# textflame 0 0\n@\nそのまま二人は隣にお互いを\n感じながら、ぼーっと\n花火を眺め続けた…\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 503225,
+		"script": "# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_shipboard\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 0 0\n;;モノローグ\n@\n船に乗り、夜の海を満喫する\nティファレトとマスター\n\n# textflame 1 1\n# voice 250321 \"tiphereth_t_0005\"\n# face %(unit_a)s \"normal\"\n@ティファレト\nはぁあっ…！\n\n# textflame 0 0\n;;モノローグ\n@\n甲板の柵に手をかけた\nティファレトが、\n明るく大きな声を上げる\n\n# textflame 1 1\n# voice 250321 \"tiphereth_t_0021\"\n@ティファレト\n月の光が反射して\n水面が輝いてっ…\nなんて美しいのでしょう！\n\n@ティファレト\n主様！\nここからでしたら\n海の様子がはっきり見えますよ！\n\n@ティファレト\nどうかこちらへ\nおいでください…！\n\n# textflame 0 0\n@\nすごく楽しそうだね\nと、マスター\n\n# voice 250321 \"tiphereth_t_0003\"\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n@ティファレト\nそうですね\nこんなにも綺麗な景色を\n堪能できているのですから\n\n;;モノローグ\n# textflame 0 0\n@\n船は二人を乗せて\n夜の海を進んでいく…\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

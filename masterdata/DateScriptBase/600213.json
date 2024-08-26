@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 600213,
+		"script": ";;C 羨ましい？（中）\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_church\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 6002 \"ganbantein_0003\"\n@ガンバンテイン\nお祈り？\n祈ってどーするの？\n\n@ガンバンテイン\nお願い事でもするのかなー？\n違うの？\n\n# textflame 0 0\n@\nそれは神社だろう\nと、つっこみを入れるマスター\n\n# textflame 0 0\n@\nさらに、ここは神の教えを広め\n信者が心の平穏を求める場所と\n少し大雑把な説明をする\n\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# voice 6002 \"ganbantein_0009\"\n@ガンバンテイン\nふーん？よくわからないよー\nでも心の平穏はわかるかなー\n\n@ガンバンテイン\n教会じゃないよ？\nマスターのそばにいると\n平穏を得られるかなー\n\n# face %(unit_a)s \"usual\"\n@ガンバンテイン\nあれ？\nマスターで平穏を得られる\nということは\n\n@ガンバンテイン\nマスターは教会？\nんんん？\nそれもあり？\n\n# voice 6002 \"ganbantein_0004\"\n@ガンバンテイン\nまあ、いいやー\n\n# face %(unit_a)s \"smile\"\n@ガンバンテイン\n今日も一日、マスターと\n一緒に平穏でいられますようにー\n\n# textflame 0 0\n@\nなぜかマスターに向かい\n手を組んでお祈りをする\nガンバンテイン\n\n# textflame 0 0\n@\n困惑するマスターだが、\n彼女の祈りに応えよう\nそう思ったのだった…\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

@@ -1,0 +1,26 @@
+[
+	{
+		"ID": 225,
+		"unitID": 2201911,
+		"scriptID": "kaerimichi",
+		"script": "@シユウ\nまだまだあそびたりないな！\nますた～もそうだろ？\n\n@シユウ\nふふっ、てれなくてもいいぞ！\nよし、つぎだ、つぎー！"
+	},
+	{
+		"ID": 240,
+		"unitID": 2201911,
+		"scriptID": "kaeru",
+		"script": "いっぱいあそんだな、ますたー！\nよーし、いえまできょうそうだ！"
+	},
+	{
+		"ID": 255,
+		"unitID": 2201911,
+		"scriptID": "kaeru_ok",
+		"script": "@%(unitName:unit_a)s\nはははっ！\nいいぞ！なにをするんだ？"
+	},
+	{
+		"ID": 270,
+		"unitID": 2201911,
+		"scriptID": "kaeru_ng",
+		"script": "@%(unitName:unit_a)s\nヴァドと\nまーらーかおたべにいくんだ！\nごめん！ますた〜"
+	}
+]

@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 95003398,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# se \"SE_0733\"\n# face %(unit_a)s \"angry\"\n@八咫鏡\n…はずれじゃ！！\n\n# face %(unit_a)s \"usual\"\n# voice 5003 \"yatanokagami_0007\"\n@八咫鏡\nやれやれ…\n\n# voice 5003 \"yatanokagami_0031\"\n@八咫鏡\nあ、いや、いいのじゃ…\n急にクイズとか\n無茶振りをしたのはわらわじゃ…\n\n@八咫鏡\nんむ、クイズは終了じゃ\n\n# face %(unit_a)s \"angry\"\n@八咫鏡\nじゃが…\n次回は正解を期待しておるぞ\n\n# textflame 0 0\n@\n彼女の困ったような\n悲しいような顔が\nマスターの眼に焼付いた\n\n@\nデート中のはずなのに…\n悲しげな顔をさせてしまうなんて…\n\n@\nまた今度って言ってたし…\n次の機会は絶対間違えないように\nしないといけないな…\n\n# fadeout　\"black\" 1.2\n# waitandnext 2"
+	}
+]

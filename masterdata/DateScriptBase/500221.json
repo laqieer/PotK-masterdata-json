@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 500221,
+		"script": ";;A花火、好きなの？（大）\n;;Bここでも見えるよ（小）\n;;C音がすごいね（中）\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_fireworks\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 0 0\n# face %(unit_a)s \"usual\"\n@\nデートを終えたマスターと\nフライクーゲルは、折よく夜空に\n大輪の花が咲くのを目にしていた\n\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# voice 5002 \"furaikugeru_0006\"\n@フライクーゲル\nワォ！\nあれってファイヤーワークス！？\n\n# voice 5002 \"furaikugeru_0001\"\n@フライクーゲル\n今日って花火大会の日だったんだね、\nマスター！\n\n# textflame 0 0\n@\nマスターの手を引きながら、\n嬉しそうに花火がよく見える場所を\n探すフライクーゲル\n\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n@フライクーゲル\nん～、ちょっと出遅れたかな\nいい場所はみ～んな取られちゃってる\n\n# select \"花火、好きなの？\" \"select_label_01\" \"ここでも見えるよ\" \"select_label_02\" \"音がすごいね\" \"select_label_03\"\nん～、ちょっと出遅れたかな\nいい場所はみ～んな取られちゃってる\n\n# label \"select_label_01\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_02\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_03\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_end\"\n# waitandnext 0.1\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

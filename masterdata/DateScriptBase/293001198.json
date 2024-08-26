@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 293001198,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# se \"SE_0733\"\n# face %(unit_a)s \"sad\"\n# voice 230012 \"ronginusu_k_0028\"\n@ロンギヌス\n残念、不正解です\nこの問題は難しかったですか？\n\n@ロンギヌス\nマスターが知っていそうなことを\n選んだつもりでしたが\n失敗してしまいましたね…\n\n@ロンギヌス\nいえ、マスターは悪くありません\nお気になさらずに…\n\n@ロンギヌス\n帰りましょう…\n\n# textflame 0 0\n@\nロンギヌスがさっと顔を背ける\n一瞬、彼女が唇を噛んでいるのが\n目に入った。肩も震えている。\n\n@\nかける言葉が見つからず\n気まずい空気の帰り道となった…\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

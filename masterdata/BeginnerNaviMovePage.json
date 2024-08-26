@@ -1,0 +1,80 @@
+[
+	{
+		"ID": 1,
+		"name": "遷移先なし",
+		"moveScene": "",
+		"buttonImage": ""
+	},
+	{
+		"ID": 2,
+		"name": "ステージ選択画面\n※現在クリアしている最後のEP選択画面",
+		"moveScene": "quest002_4",
+		"buttonImage": "slc_button_text_quest_34pt.png__GUI__button_text__button_text_prefab"
+	},
+	{
+		"ID": 3,
+		"name": "イベントクエストtop",
+		"moveScene": "quest002_17",
+		"buttonImage": "slc_button_text_quest_34pt.png__GUI__button_text__button_text_prefab"
+	},
+	{
+		"ID": 4,
+		"name": "キャラクタークエストtop",
+		"moveScene": "quest002_14",
+		"buttonImage": "slc_button_text_quest_34pt.png__GUI__button_text__button_text_prefab"
+	},
+	{
+		"ID": 5,
+		"name": "コロシアムtop",
+		"moveScene": "colosseum023_4",
+		"buttonImage": "slc_button_text_colosseum_34pt.png__GUI__button_text__button_text_prefab"
+	},
+	{
+		"ID": 6,
+		"name": "チーム編成画面",
+		"moveScene": "unit004_6",
+		"buttonImage": "slc_button_text_formation_34pt.png__GUI__button_text__button_text_prefab"
+	},
+	{
+		"ID": 7,
+		"name": "姫統合画面",
+		"moveScene": "unit004_UnitTraining_List",
+		"buttonImage": "slc_button_text_fuse_units_34pt.png__GUI__button_text__button_text_prefab"
+	},
+	{
+		"ID": 8,
+		"name": "姫進化画面",
+		"moveScene": "unit004_UnitTraining_List",
+		"buttonImage": "slc_button_text_evolve_unit_34pt.png__GUI__button_text__button_text_prefab"
+	},
+	{
+		"ID": 9,
+		"name": "武具装備画面",
+		"moveScene": "bugu005_3",
+		"buttonImage": "slc_button_text_equip_gear_34pt.png__GUI__button_text__button_text_prefab"
+	},
+	{
+		"ID": 10,
+		"name": "武具統合画面",
+		"moveScene": "bugu005_3",
+		"buttonImage": "slc_button_text_fuse_gear_34pt.png__GUI__button_text__button_text_prefab"
+	},
+	{
+		"ID": 11,
+		"name": "プレゼントbox",
+		"moveScene": "mypage001_7",
+		"buttonImage": "slc_button_text_message_34pt.png__GUI__button_text__button_text_prefab"
+	},
+	{
+		"ID": 12,
+		"name": "ショップtop",
+		"moveScene": "shop007_Top",
+		"buttonImage": "slc_button_text_shop_34pt.png__GUI__button_text__button_text_prefab"
+	},
+	{
+		"ID": 13,
+		"name": "Menu画面",
+		"moveScene": "story001_9_1",
+		"buttonImage": "slc_button_text_menu_34pt.png__GUI__button_text__button_text_prefab"
+	}
+]

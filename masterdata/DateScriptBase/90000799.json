@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 90000799,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# fadein \"black\" 0.5\n# textflame 1 1\n# body 196\n# pos 196 3\n# scale 196 0.8 0\n# mask 196 off\n# voice 9943 \"almace_navikan_0055\"\n# se \"SE_0732\"\n@アルマス\nへー、やるじゃない\n%(unitName:unit_a)sのこと\n良く知ってるみたいね！\n\n# textflame 1 1\n@アルマス\nきっと%(unitName:unit_a)sも\n喜んでくれると思うわよ\n\n# se \"SE_1027\"\n# fadein \"white\" 0.5\n# waitandnext 1\n\n# voice 9943 \"almace_navikan_0001\"\n# textflame 1 1\n@アルマス\nじゃあ、そろそろ行くわね\nあまり二人の邪魔を\nしたくないし\n\n# textflame 1 1\n@アルマス\nそれじゃね\n\n# textflame 0 0\n@\nアルマスのおかげで、\nもっと%(unitName:unit_a)sのことを\n深く知ることができた気がした\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

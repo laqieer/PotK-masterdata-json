@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 3101414,
+		"script": "# script \"lisp\"\n# fadein \"black\" 0.5\n# background %(background)s\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 1014 \"tyrufing_0009\"\n@ティルフィング\nマスター？\n水族館で、そんなことを\n考えるわけがないじゃないですか\n\n# textflame 0 0\n@\n冗談のつもりだったのだが、\nティルフィングの表情が\n一気に曇ってしまった\n\n# face %(unit_a)s \"usual\"\n# voice 1014 \"tyrufing_0002\"\n# textflame 1 1\n@ティルフィング\nもう…\n冗談なのは分かりますけど…\n\n# face %(unit_a)s \"sad\"\n@ティルフィング\n楽しみに来ているのですから、\n素直に楽しみませんか…？\n\n# textflame 0 0\n@\nそう言ってじっと水槽を\n見つめるティルフィング\n\n@\n冗談なんて言わず、\n素直に楽しめばよかった―\n\n@\nそう後悔しつつ、\n彼女の後を\nついていくしかなかった\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

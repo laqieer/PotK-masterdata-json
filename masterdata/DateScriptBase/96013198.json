@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 96013198,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# face %(unit_a)s \"angry\"\n# se \"SE_0733\"\n# voice 6013 \"sistrum_0027\"\n@シストルム\nにゃ～～ん！\n失格にゃ～～！\n\n# voice 6013 \"sistrum_0003\"\n@シストルム\nちょっと油断しすぎにゃ！\nボクを捕まえておきたかったら\nもっと努力が必要にゃ！\n\n# face %(unit_a)s \"sad\"\n@シストルム\nでないと…\nするする～って\n腕の間から逃げちゃうにゃ！\n\n# voice 6013 \"sistrum_0005\"\n@シストルム\nボクが気まぐれなの…\n忘れちゃダメにゃ？\n\n# textflame 0 0\n@\nそうつぶやく彼女は\nしっぽも垂れ下がり\nとても残念そうだった\n\n@\nデート中にこんなに\nがっかりさせてしまうなんて…\n\n@\n…………\n\n@\n彼女の無邪気な笑顔が好きだから\nシストルムのことを\nちゃんと知っておかないとな…\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

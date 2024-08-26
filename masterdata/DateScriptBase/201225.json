@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 201225,
+		"script": ";;夏の醍醐味だね,小\n;;少し寂しい,大\n;;華々しくていい,中\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_fireworks\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 0 0\n# face %(unit_a)s \"usual\"\n@\nデートの帰り、\nマスターはスラーンドと一緒に\n大輪の華咲く夜空を見上げていた…\n\n# voice 2012 \"srand_0004\"\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@スラーンド\n…キレイね\n\n@スラーンド\n一瞬でぱっと輝いて、\n後腐れなく散っていく…\n;;----------------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nこれが侘び寂びってやつなのかしら？\nなんだか、とっても不思議\n\n# textflame 0 0\n@\n夏の醍醐味だね\n\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@スラーンド\nそうなの？\nなんだかちょっと、寂しいわね\n\n@スラーンド\n叶うのなら、もっと長い間\n空に咲いていられればいいのに\n\n# voice 2012 \"srand_0004\"\n# face %(unit_a)s \"usual\"\n@スラーンド\nなんて、さすがに無理かな～\n\n# textflame 0 0\n@\nそう言って苦笑するスラーンドと\n一緒に、\n夏に咲く花の行方に目を凝らした…\n;;----------------------------------------\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

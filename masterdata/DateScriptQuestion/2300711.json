@@ -1,0 +1,302 @@
+[
+	{
+		"ID": 4051,
+		"unitID": 2300711,
+		"questionID": 9300701,
+		"script": ";;クー・フーリン,1\n# textflame 1 1\n# voice 3007 \"gaiborugu_0001\"\n@ゲイボルグ\n…マスター、物事にはしかるべき時、\nしかるべきタイミングというものが\nあるのだが…\n\n@ゲイボルグ\n今がまさにその時なのだ\n\n@ゲイボルグ\n…ん、\nなにがその時なのかだと？\n\n# face %(unit_a)s \"smile\"\n# voice 3007 \"gaiborugu_0004\"\n@ゲイボルグ\n決まっているではないか\n私のことをより深く\n知ってもらう時だ\n\n# face %(unit_a)s \"normal\"\n@ゲイボルグ\nマスターにもわかりやすいよう、\nクイズ形式でやってみることに\nしようか…？\n\n@ゲイボルグ\n…準備はいいか？\nでは、いくぞ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私のキラーズ『ゲイボルグ』は\n誰の持ち物だろう？\n\n# se \"SE_0734\"\n# select \"クー・フーリン\" \"select_label_1\" \"オーディン\" \"select_label_2\" \"本多忠勝\" \"select_label_3\"\n私のキラーズ『ゲイボルグ』は\n誰の持ち物だろう？\n"
+	},
+	{
+		"ID": 4052,
+		"unitID": 2300711,
+		"questionID": 9300702,
+		"script": ";;槍,2\n# textflame 1 1\n# voice 3007 \"gaiborugu_0001\"\n@ゲイボルグ\n…マスター、物事にはしかるべき時、\nしかるべきタイミングというものが\nあるのだが…\n\n@ゲイボルグ\n今がまさにその時なのだ\n\n@ゲイボルグ\n…ん、\nなにがその時なのかだと？\n\n# face %(unit_a)s \"smile\"\n# voice 3007 \"gaiborugu_0004\"\n@ゲイボルグ\n決まっているではないか\n私のことをより深く\n知ってもらう時だ\n\n# face %(unit_a)s \"normal\"\n@ゲイボルグ\nマスターにもわかりやすいよう、\nクイズ形式でやってみることに\nしようか…？\n\n@ゲイボルグ\n…準備はいいか？\nでは、いくぞ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私のキラーズ『ゲイボルグ』は\nどのような武器だっただろう？\nどんなものでも、刺し貫いてみせるぞ\n\n# se \"SE_0734\"\n# select \"剣\" \"select_label_1\" \"槍\" \"select_label_2\" \"斧\" \"select_label_3\"\n私のキラーズ『ゲイボルグ』は\nどのような武器だっただろう？\nどんなものでも、刺し貫いてみせるぞ\n"
+	},
+	{
+		"ID": 4053,
+		"unitID": 2300711,
+		"questionID": 9300703,
+		"script": ";;足の指にはさんで蹴るように投げる,3\n# textflame 1 1\n# voice 3007 \"gaiborugu_0001\"\n@ゲイボルグ\n…マスター、物事にはしかるべき時、\nしかるべきタイミングというものが\nあるのだが…\n\n@ゲイボルグ\n今がまさにその時なのだ\n\n@ゲイボルグ\n…ん、\nなにがその時なのかだと？\n\n# face %(unit_a)s \"smile\"\n# voice 3007 \"gaiborugu_0004\"\n@ゲイボルグ\n決まっているではないか\n私のことをより深く\n知ってもらう時だ\n\n# face %(unit_a)s \"normal\"\n@ゲイボルグ\nマスターにもわかりやすいよう、\nクイズ形式でやってみることに\nしようか…？\n\n@ゲイボルグ\n…準備はいいか？\nでは、いくぞ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私のキラーズ『ゲイボルグ』の持ち主\nクー・フーリンは、特殊な方法で\n私を用いた。どんな方法だろう？\n\n# se \"SE_0734\"\n# select \"尻にはさんで屁の勢いで射出する\" \"select_label_1\" \"髪の毛に絡めて振り回して投げる\" \"select_label_2\" \"足の指にはさんで蹴るように投げる\" \"select_label_3\"\n私のキラーズ『ゲイボルグ』の持ち主\nクー・フーリンは、特殊な方法で\n私を用いた。どんな方法だろう？\n"
+	},
+	{
+		"ID": 4054,
+		"unitID": 2300711,
+		"questionID": 9300704,
+		"script": ";;太陽神ルー,1\n# textflame 1 1\n# voice 3007 \"gaiborugu_0001\"\n@ゲイボルグ\n…マスター、物事にはしかるべき時、\nしかるべきタイミングというものが\nあるのだが…\n\n@ゲイボルグ\n今がまさにその時なのだ\n\n@ゲイボルグ\n…ん、\nなにがその時なのかだと？\n\n# face %(unit_a)s \"smile\"\n# voice 3007 \"gaiborugu_0004\"\n@ゲイボルグ\n決まっているではないか\n私のことをより深く\n知ってもらう時だ\n\n# face %(unit_a)s \"normal\"\n@ゲイボルグ\nマスターにもわかりやすいよう、\nクイズ形式でやってみることに\nしようか…？\n\n@ゲイボルグ\n…準備はいいか？\nでは、いくぞ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私のキラーズ『ゲイボルグ』の持ち主\nクー・フーリンは、誰の息子だろう？\n\n# se \"SE_0734\"\n# select \"太陽神ルー\" \"select_label_1\" \"太陽神ラー\" \"select_label_2\" \"林家ペー\" \"select_label_3\"\n私のキラーズ『ゲイボルグ』の持ち主\nクー・フーリンは、誰の息子だろう？\n"
+	},
+	{
+		"ID": 4055,
+		"unitID": 2300711,
+		"questionID": 9300705,
+		"script": ";;異形の姿に変化する,2\n# textflame 1 1\n# voice 3007 \"gaiborugu_0001\"\n@ゲイボルグ\n…マスター、物事にはしかるべき時、\nしかるべきタイミングというものが\nあるのだが…\n\n@ゲイボルグ\n今がまさにその時なのだ\n\n@ゲイボルグ\n…ん、\nなにがその時なのかだと？\n\n# face %(unit_a)s \"smile\"\n# voice 3007 \"gaiborugu_0004\"\n@ゲイボルグ\n決まっているではないか\n私のことをより深く\n知ってもらう時だ\n\n# face %(unit_a)s \"normal\"\n@ゲイボルグ\nマスターにもわかりやすいよう、\nクイズ形式でやってみることに\nしようか…？\n\n@ゲイボルグ\n…準備はいいか？\nでは、いくぞ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私のキラーズ『ゲイボルグ』の持ち主\nクー・フーリンは、普段は美しい姿を\nしているが、戦闘時にはどうなる？\n\n# se \"SE_0734\"\n# select \"全裸になって踊り狂う\" \"select_label_1\" \"異形の姿に変化する\" \"select_label_2\" \"山よりも大きく巨大化する\" \"select_label_3\"\n私のキラーズ『ゲイボルグ』の持ち主\nクー・フーリンは、普段は美しい姿を\nしているが、戦闘時にはどうなる？\n"
+	},
+	{
+		"ID": 4056,
+		"unitID": 2300711,
+		"questionID": 9300706,
+		"script": ";;30のやじりとなって降り注ぐ,3\n# textflame 1 1\n# voice 3007 \"gaiborugu_0001\"\n@ゲイボルグ\n…マスター、物事にはしかるべき時、\nしかるべきタイミングというものが\nあるのだが…\n\n@ゲイボルグ\n今がまさにその時なのだ\n\n@ゲイボルグ\n…ん、\nなにがその時なのかだと？\n\n# face %(unit_a)s \"smile\"\n# voice 3007 \"gaiborugu_0004\"\n@ゲイボルグ\n決まっているではないか\n私のことをより深く\n知ってもらう時だ\n\n# face %(unit_a)s \"normal\"\n@ゲイボルグ\nマスターにもわかりやすいよう、\nクイズ形式でやってみることに\nしようか…？\n\n@ゲイボルグ\n…準備はいいか？\nでは、いくぞ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私のキラーズ『ゲイボルグ』は\n投げるとどのような変化を\n起こすだろう？\n\n# se \"SE_0734\"\n# select \"いじけてすねる\" \"select_label_1\" \"30の分身に分かれて踊り狂う\" \"select_label_2\" \"30のやじりとなって降り注ぐ\" \"select_label_3\"\n私のキラーズ『ゲイボルグ』は\n投げるとどのような変化を\n起こすだろう？\n"
+	},
+	{
+		"ID": 4057,
+		"unitID": 2300711,
+		"questionID": 9300707,
+		"script": ";;ケルト神話,1\n# textflame 1 1\n# voice 3007 \"gaiborugu_0001\"\n@ゲイボルグ\n…マスター、物事にはしかるべき時、\nしかるべきタイミングというものが\nあるのだが…\n\n@ゲイボルグ\n今がまさにその時なのだ\n\n@ゲイボルグ\n…ん、\nなにがその時なのかだと？\n\n# face %(unit_a)s \"smile\"\n# voice 3007 \"gaiborugu_0004\"\n@ゲイボルグ\n決まっているではないか\n私のことをより深く\n知ってもらう時だ\n\n# face %(unit_a)s \"normal\"\n@ゲイボルグ\nマスターにもわかりやすいよう、\nクイズ形式でやってみることに\nしようか…？\n\n@ゲイボルグ\n…準備はいいか？\nでは、いくぞ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私のキラーズ『ゲイボルグ』が\n登場する神話の名前はなんだ？\n\n# se \"SE_0734\"\n# select \"ケルト神話\" \"select_label_1\" \"ギリシャ神話\" \"select_label_2\" \"日本神話\" \"select_label_3\"\n私のキラーズ『ゲイボルグ』が\n登場する神話の名前はなんだ？\n"
+	},
+	{
+		"ID": 4058,
+		"unitID": 2300711,
+		"questionID": 9300708,
+		"script": ";;30の棘となって破裂する,2\n# textflame 1 1\n# voice 3007 \"gaiborugu_0001\"\n@ゲイボルグ\n…マスター、物事にはしかるべき時、\nしかるべきタイミングというものが\nあるのだが…\n\n@ゲイボルグ\n今がまさにその時なのだ\n\n@ゲイボルグ\n…ん、\nなにがその時なのかだと？\n\n# face %(unit_a)s \"smile\"\n# voice 3007 \"gaiborugu_0004\"\n@ゲイボルグ\n決まっているではないか\n私のことをより深く\n知ってもらう時だ\n\n# face %(unit_a)s \"normal\"\n@ゲイボルグ\nマスターにもわかりやすいよう、\nクイズ形式でやってみることに\nしようか…？\n\n@ゲイボルグ\n…準備はいいか？\nでは、いくぞ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私のキラーズ『ゲイボルグ』は\n突くとどのような変化を起こす？\n\n# se \"SE_0734\"\n# select \"30過ぎても独身貴族\" \"select_label_1\" \"30の棘となって破裂する\" \"select_label_2\" \"ふにゃっと曲がる\" \"select_label_3\"\n私のキラーズ『ゲイボルグ』は\n突くとどのような変化を起こす？\n"
+	},
+	{
+		"ID": 4059,
+		"unitID": 2300711,
+		"questionID": 9300709,
+		"script": ";;生き残る者はいない,3\n# textflame 1 1\n# voice 3007 \"gaiborugu_0001\"\n@ゲイボルグ\n…マスター、物事にはしかるべき時、\nしかるべきタイミングというものが\nあるのだが…\n\n@ゲイボルグ\n今がまさにその時なのだ\n\n@ゲイボルグ\n…ん、\nなにがその時なのかだと？\n\n# face %(unit_a)s \"smile\"\n# voice 3007 \"gaiborugu_0004\"\n@ゲイボルグ\n決まっているではないか\n私のことをより深く\n知ってもらう時だ\n\n# face %(unit_a)s \"normal\"\n@ゲイボルグ\nマスターにもわかりやすいよう、\nクイズ形式でやってみることに\nしようか…？\n\n@ゲイボルグ\n…準備はいいか？\nでは、いくぞ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私のキラーズ『ゲイボルグ』が\n直撃すると、どうなると思う？\n\n# se \"SE_0734\"\n# select \"当たらなければどうと言うことはない\" \"select_label_1\" \"恋に目覚める\" \"select_label_2\" \"生き残る者はいない\" \"select_label_3\"\n私のキラーズ『ゲイボルグ』が\n直撃すると、どうなると思う？\n"
+	},
+	{
+		"ID": 4060,
+		"unitID": 2300711,
+		"questionID": 9300710,
+		"script": ";;セタンタ,1\n# textflame 1 1\n# voice 3007 \"gaiborugu_0001\"\n@ゲイボルグ\n…マスター、物事にはしかるべき時、\nしかるべきタイミングというものが\nあるのだが…\n\n@ゲイボルグ\n今がまさにその時なのだ\n\n@ゲイボルグ\n…ん、\nなにがその時なのかだと？\n\n# face %(unit_a)s \"smile\"\n# voice 3007 \"gaiborugu_0004\"\n@ゲイボルグ\n決まっているではないか\n私のことをより深く\n知ってもらう時だ\n\n# face %(unit_a)s \"normal\"\n@ゲイボルグ\nマスターにもわかりやすいよう、\nクイズ形式でやってみることに\nしようか…？\n\n@ゲイボルグ\n…準備はいいか？\nでは、いくぞ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私のキラーズ『ゲイボルグ』の持ち主\nクー・フーリンの幼少時の名前は？\n\n# se \"SE_0734\"\n# select \"セタンタ\" \"select_label_1\" \"サタンタ\" \"select_label_2\" \"スタンタ\" \"select_label_3\"\n私のキラーズ『ゲイボルグ』の持ち主\nクー・フーリンの幼少時の名前は？\n"
+	},
+	{
+		"ID": 4061,
+		"unitID": 2300711,
+		"questionID": 9300711,
+		"script": ";;秘密特訓,1\n# textflame 1 1\n# voice 3007 \"gaiborugu_0001\"\n@ゲイボルグ\n…マスター\n今、ちょっとした疑問が\n心に浮かんだのだが\n\n@ゲイボルグ\nマスターは、\n私のことをどれぐらい\n理解してくれているのだろう？\n\n@ゲイボルグ\nもし良ければ、\n私に関するクイズを\n出題してもいいだろうか？\n\n# voice 3007 \"gaiborugu_0036\"\n@ゲイボルグ\n…いいか？\nでは、さっそくだが、問題だ…\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の趣味はなんだったかな？\nもっぱら一人でやっているな…\n\n# se \"SE_0734\"\n# select \"秘密特訓\" \"select_label_1\" \"刺繍\" \"select_label_2\" \"一人コント\" \"select_label_3\"\n私の趣味はなんだったかな？\nもっぱら一人でやっているな…\n"
+	},
+	{
+		"ID": 4062,
+		"unitID": 2300711,
+		"questionID": 9300712,
+		"script": ";;おひつじ座,2\n# textflame 1 1\n# voice 3007 \"gaiborugu_0001\"\n@ゲイボルグ\n…マスター\n今、ちょっとした疑問が\n心に浮かんだのだが\n\n@ゲイボルグ\nマスターは、\n私のことをどれぐらい\n理解してくれているのだろう？\n\n@ゲイボルグ\nもし良ければ、\n私に関するクイズを\n出題してもいいだろうか？\n\n# voice 3007 \"gaiborugu_0036\"\n@ゲイボルグ\n…いいか？\nでは、さっそくだが、問題だ…\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の星座は\nなんだっただろう？\n誕生日は、3月30日だ\n\n# se \"SE_0734\"\n# select \"かに座\" \"select_label_1\" \"おひつじ座\" \"select_label_2\" \"いて座\" \"select_label_3\"\n私の星座は\nなんだっただろう？\n誕生日は、3月30日だ\n"
+	},
+	{
+		"ID": 4063,
+		"unitID": 2300711,
+		"questionID": 9300713,
+		"script": ";;影の国,3\n# textflame 1 1\n# voice 3007 \"gaiborugu_0001\"\n@ゲイボルグ\n…マスター\n今、ちょっとした疑問が\n心に浮かんだのだが\n\n@ゲイボルグ\nマスターは、\n私のことをどれぐらい\n理解してくれているのだろう？\n\n@ゲイボルグ\nもし良ければ、\n私に関するクイズを\n出題してもいいだろうか？\n\n# voice 3007 \"gaiborugu_0036\"\n@ゲイボルグ\n…いいか？\nでは、さっそくだが、問題だ…\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の出身地はどこだったかな？\nあまり明るい場所では\nなさそうだ…\n\n# se \"SE_0734\"\n# select \"海底の国\" \"select_label_1\" \"光の国\" \"select_label_2\" \"影の国\" \"select_label_3\"\n私の出身地はどこだったかな？\nあまり明るい場所では\nなさそうだ…\n"
+	},
+	{
+		"ID": 4064,
+		"unitID": 2300711,
+		"questionID": 9300714,
+		"script": ";;B型,1\n# textflame 1 1\n# voice 3007 \"gaiborugu_0001\"\n@ゲイボルグ\n…マスター\n今、ちょっとした疑問が\n心に浮かんだのだが\n\n@ゲイボルグ\nマスターは、\n私のことをどれぐらい\n理解してくれているのだろう？\n\n@ゲイボルグ\nもし良ければ、\n私に関するクイズを\n出題してもいいだろうか？\n\n# voice 3007 \"gaiborugu_0036\"\n@ゲイボルグ\n…いいか？\nでは、さっそくだが、問題だ…\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の血液型は\nなんだっただろう？\n\n# se \"SE_0734\"\n# select \"B型\" \"select_label_1\" \"Ａ型\" \"select_label_2\" \"Ｏ型\" \"select_label_3\"\n私の血液型は\nなんだっただろう？\n"
+	},
+	{
+		"ID": 4065,
+		"unitID": 2300711,
+		"questionID": 9300715,
+		"script": ";;おまじない,2\n# textflame 1 1\n# voice 3007 \"gaiborugu_0001\"\n@ゲイボルグ\n…マスター\n今、ちょっとした疑問が\n心に浮かんだのだが\n\n@ゲイボルグ\nマスターは、\n私のことをどれぐらい\n理解してくれているのだろう？\n\n@ゲイボルグ\nもし良ければ、\n私に関するクイズを\n出題してもいいだろうか？\n\n# voice 3007 \"gaiborugu_0036\"\n@ゲイボルグ\n…いいか？\nでは、さっそくだが、問題だ…\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の好きなものはなんだろう？\n…こう見えて、縁起は担ぐほうなのだ\n\n# se \"SE_0734\"\n# select \"恋占い\" \"select_label_1\" \"おまじない\" \"select_label_2\" \"丑の刻参り\" \"select_label_3\"\n私の好きなものはなんだろう？\n…こう見えて、縁起は担ぐほうなのだ\n"
+	},
+	{
+		"ID": 4066,
+		"unitID": 2300711,
+		"questionID": 9300716,
+		"script": ";;強さ,3\n# textflame 1 1\n# voice 3007 \"gaiborugu_0001\"\n@ゲイボルグ\n…マスター\n今、ちょっとした疑問が\n心に浮かんだのだが\n\n@ゲイボルグ\nマスターは、\n私のことをどれぐらい\n理解してくれているのだろう？\n\n@ゲイボルグ\nもし良ければ、\n私に関するクイズを\n出題してもいいだろうか？\n\n# voice 3007 \"gaiborugu_0036\"\n@ゲイボルグ\n…いいか？\nでは、さっそくだが、問題だ…\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私がなによりも尊び、マスターにも\n求めていることといえば\nなんだっただろう？\n\n# se \"SE_0734\"\n# select \"おしとやかさ\" \"select_label_1\" \"賢さ\" \"select_label_2\" \"強さ\" \"select_label_3\"\n私がなによりも尊び、マスターにも\n求めていることといえば\nなんだっただろう？\n"
+	},
+	{
+		"ID": 4067,
+		"unitID": 2300711,
+		"questionID": 9300717,
+		"script": ";;フラガラッハ,1\n# textflame 1 1\n# voice 3007 \"gaiborugu_0001\"\n@ゲイボルグ\n…マスター\n今、ちょっとした疑問が\n心に浮かんだのだが\n\n@ゲイボルグ\nマスターは、\n私のことをどれぐらい\n理解してくれているのだろう？\n\n@ゲイボルグ\nもし良ければ、\n私に関するクイズを\n出題してもいいだろうか？\n\n# voice 3007 \"gaiborugu_0036\"\n@ゲイボルグ\n…いいか？\nでは、さっそくだが、問題だ…\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私には親友が二人いる\n一人はブリューナクだが\nでは、もう一人は？\n\n# se \"SE_0734\"\n# select \"フラガラッハ\" \"select_label_1\" \"ロンギヌス\" \"select_label_2\" \"エロース\" \"select_label_3\"\n私には親友が二人いる\n一人はブリューナクだが\nでは、もう一人は？\n"
+	},
+	{
+		"ID": 4068,
+		"unitID": 2300711,
+		"questionID": 9300718,
+		"script": ";;178cm,2\n# textflame 1 1\n# voice 3007 \"gaiborugu_0001\"\n@ゲイボルグ\n…マスター\n今、ちょっとした疑問が\n心に浮かんだのだが\n\n@ゲイボルグ\nマスターは、\n私のことをどれぐらい\n理解してくれているのだろう？\n\n@ゲイボルグ\nもし良ければ、\n私に関するクイズを\n出題してもいいだろうか？\n\n# voice 3007 \"gaiborugu_0036\"\n@ゲイボルグ\n…いいか？\nでは、さっそくだが、問題だ…\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の身長は\n何センチだ？\n\n# se \"SE_0734\"\n# select \"176cm\" \"select_label_1\" \"178cm\" \"select_label_2\" \"186cm\" \"select_label_3\"\n私の身長は\n何センチだ？\n"
+	},
+	{
+		"ID": 4069,
+		"unitID": 2300711,
+		"questionID": 9300719,
+		"script": ";;ブリューナク,3\n# textflame 1 1\n# voice 3007 \"gaiborugu_0001\"\n@ゲイボルグ\n…マスター\n今、ちょっとした疑問が\n心に浮かんだのだが\n\n@ゲイボルグ\nマスターは、\n私のことをどれぐらい\n理解してくれているのだろう？\n\n@ゲイボルグ\nもし良ければ、\n私に関するクイズを\n出題してもいいだろうか？\n\n# voice 3007 \"gaiborugu_0036\"\n@ゲイボルグ\n…いいか？\nでは、さっそくだが、問題だ…\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私には親友が二人いる\n一人はフラガラッハだ\n…では、もう一人は誰だ？\n\n# se \"SE_0734\"\n# select \"シストルム\" \"select_label_1\" \"グリダヴォル\" \"select_label_2\" \"ブリューナク\" \"select_label_3\"\n私には親友が二人いる\n一人はフラガラッハだ\n…では、もう一人は誰だ？\n"
+	},
+	{
+		"ID": 4070,
+		"unitID": 2300711,
+		"questionID": 9300720,
+		"script": ";;3月30日,1\n# textflame 1 1\n# voice 3007 \"gaiborugu_0001\"\n@ゲイボルグ\n…マスター\n今、ちょっとした疑問が\n心に浮かんだのだが\n\n@ゲイボルグ\nマスターは、\n私のことをどれぐらい\n理解してくれているのだろう？\n\n@ゲイボルグ\nもし良ければ、\n私に関するクイズを\n出題してもいいだろうか？\n\n# voice 3007 \"gaiborugu_0036\"\n@ゲイボルグ\n…いいか？\nでは、さっそくだが、問題だ…\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の誕生日は\nいつだったかな？\n…ヒントは、星座はおひつじ座だ\n\n# se \"SE_0734\"\n# select \"3月30日\" \"select_label_1\" \"4月22日\" \"select_label_2\" \"5月5日\" \"select_label_3\"\n私の誕生日は\nいつだったかな？\n…ヒントは、星座はおひつじ座だ\n"
+	},
+	{
+		"ID": 4071,
+		"unitID": 2300711,
+		"questionID": 9300721,
+		"script": ";;ジェネラル,1\n# textflame 1 1\n# voice 3007 \"gaiborugu_0001\"\n@ゲイボルグ\nマスター\n突然だが、質問だ\n\n@ゲイボルグ\n内容は、私に関することだ\nそう難しい問題では\nないと思うが…\n\n# face %(unit_a)s \"smile\"\n@ゲイボルグ\n正解してくれれば私も嬉しい\nマスターなら、\nきっと大丈夫だと思う\n\n# face %(unit_a)s \"normal\"\n@ゲイボルグ\n…では、出題するぞ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私が☆4の時のジョブは\nなんだったかな？\n\n# se \"SE_0734\"\n# select \"ジェネラル\" \"select_label_1\" \"ブレイド\" \"select_label_2\" \"ソードマスター\" \"select_label_3\"\n私が☆4の時のジョブは\nなんだったかな？\n"
+	},
+	{
+		"ID": 4072,
+		"unitID": 2300711,
+		"questionID": 9300722,
+		"script": ";;ブレイブランサー,2\n# textflame 1 1\n# voice 3007 \"gaiborugu_0001\"\n@ゲイボルグ\nマスター\n突然だが、質問だ\n\n@ゲイボルグ\n内容は、私に関することだ\nそう難しい問題では\nないと思うが…\n\n# face %(unit_a)s \"smile\"\n@ゲイボルグ\n正解してくれれば私も嬉しい\nマスターなら、\nきっと大丈夫だと思う\n\n# face %(unit_a)s \"normal\"\n@ゲイボルグ\n…では、出題するぞ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私が☆5の時のジョブは\nなんだっただろうか？\n\n# se \"SE_0734\"\n# select \"ウィングナイト\" \"select_label_1\" \"ブレイブランサー\" \"select_label_2\" \"フェニックスナイト\" \"select_label_3\"\n私が☆5の時のジョブは\nなんだっただろうか？\n"
+	},
+	{
+		"ID": 4073,
+		"unitID": 2300711,
+		"questionID": 9300723,
+		"script": ";;闇重槍騎神の威風,3\n# textflame 1 1\n# voice 3007 \"gaiborugu_0001\"\n@ゲイボルグ\nマスター\n突然だが、質問だ\n\n@ゲイボルグ\n内容は、私に関することだ\nそう難しい問題では\nないと思うが…\n\n# face %(unit_a)s \"smile\"\n@ゲイボルグ\n正解してくれれば私も嬉しい\nマスターなら、\nきっと大丈夫だと思う\n\n# face %(unit_a)s \"normal\"\n@ゲイボルグ\n…では、出題するぞ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の☆6の\nリーダースキルは\nなんだ？\n\n# se \"SE_0734\"\n# select \"闇重斧騎神の威風\" \"select_label_1\" \"闇重剣騎神の威風\" \"select_label_2\" \"闇重槍騎神の威風\" \"select_label_3\"\n私の☆6の\nリーダースキルは\nなんだ？\n"
+	},
+	{
+		"ID": 4074,
+		"unitID": 2300711,
+		"questionID": 9300724,
+		"script": ";;牽福の一突,1\n# textflame 1 1\n# voice 3007 \"gaiborugu_0001\"\n@ゲイボルグ\nマスター\n突然だが、質問だ\n\n@ゲイボルグ\n内容は、私に関することだ\nそう難しい問題では\nないと思うが…\n\n# face %(unit_a)s \"smile\"\n@ゲイボルグ\n正解してくれれば私も嬉しい\nマスターなら、\nきっと大丈夫だと思う\n\n# face %(unit_a)s \"normal\"\n@ゲイボルグ\n…では、出題するぞ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の☆5の固有スキルは\nなにかな？\n\n# se \"SE_0734\"\n# select \"牽福の一突\" \"select_label_1\" \"至高の一突\" \"select_label_2\" \"究極の一突\" \"select_label_3\"\n私の☆5の固有スキルは\nなにかな？\n"
+	},
+	{
+		"ID": 4075,
+		"unitID": 2300711,
+		"questionID": 9300725,
+		"script": ";;フライクーゲル,2\n# textflame 1 1\n# voice 3007 \"gaiborugu_0001\"\n@ゲイボルグ\nマスター\n突然だが、質問だ\n\n@ゲイボルグ\n内容は、私に関することだ\nそう難しい問題では\nないと思うが…\n\n# face %(unit_a)s \"smile\"\n@ゲイボルグ\n正解してくれれば私も嬉しい\nマスターなら、\nきっと大丈夫だと思う\n\n# face %(unit_a)s \"normal\"\n@ゲイボルグ\n…では、出題するぞ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私のライバルは二人いる\n一人はアイムールだ\nもう一人は誰だっただろう？\n\n# se \"SE_0734\"\n# select \"ケラウノス\" \"select_label_1\" \"フライクーゲル\" \"select_label_2\" \"ガ・ボー\" \"select_label_3\"\n私のライバルは二人いる\n一人はアイムールだ\nもう一人は誰だっただろう？\n"
+	},
+	{
+		"ID": 4076,
+		"unitID": 2300711,
+		"questionID": 9300726,
+		"script": ";;ランスアーマー,3\n# textflame 1 1\n# voice 3007 \"gaiborugu_0001\"\n@ゲイボルグ\nマスター\n突然だが、質問だ\n\n@ゲイボルグ\n内容は、私に関することだ\nそう難しい問題では\nないと思うが…\n\n# face %(unit_a)s \"smile\"\n@ゲイボルグ\n正解してくれれば私も嬉しい\nマスターなら、\nきっと大丈夫だと思う\n\n# face %(unit_a)s \"normal\"\n@ゲイボルグ\n…では、出題するぞ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私が☆3の時のジョブは\nなんだっただろう？\n\n# se \"SE_0734\"\n# select \"フェニックスナイト\" \"select_label_1\" \"ウィングナイト\" \"select_label_2\" \"ランスアーマー\" \"select_label_3\"\n私が☆3の時のジョブは\nなんだっただろう？\n"
+	},
+	{
+		"ID": 4077,
+		"unitID": 2300711,
+		"questionID": 9300727,
+		"script": ";;アイムール,1\n# textflame 1 1\n# voice 3007 \"gaiborugu_0001\"\n@ゲイボルグ\nマスター\n突然だが、質問だ\n\n@ゲイボルグ\n内容は、私に関することだ\nそう難しい問題では\nないと思うが…\n\n# face %(unit_a)s \"smile\"\n@ゲイボルグ\n正解してくれれば私も嬉しい\nマスターなら、\nきっと大丈夫だと思う\n\n# face %(unit_a)s \"normal\"\n@ゲイボルグ\n…では、出題するぞ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私のライバルは二人いる\n一人の名はフライクーゲルだ\nもう一人の名は？\n\n# se \"SE_0734\"\n# select \"アイムール\" \"select_label_1\" \"ワズラ\" \"select_label_2\" \"ダグダ\" \"select_label_3\"\n私のライバルは二人いる\n一人の名はフライクーゲルだ\nもう一人の名は？\n"
+	},
+	{
+		"ID": 4078,
+		"unitID": 2300711,
+		"questionID": 9300728,
+		"script": ";;竜神の戦舞,2\n# textflame 1 1\n# voice 3007 \"gaiborugu_0001\"\n@ゲイボルグ\nマスター\n突然だが、質問だ\n\n@ゲイボルグ\n内容は、私に関することだ\nそう難しい問題では\nないと思うが…\n\n# face %(unit_a)s \"smile\"\n@ゲイボルグ\n正解してくれれば私も嬉しい\nマスターなら、\nきっと大丈夫だと思う\n\n# face %(unit_a)s \"normal\"\n@ゲイボルグ\n…では、出題するぞ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の☆4のレベルアップスキルは\nなんだったかな？\n\n# se \"SE_0734\"\n# select \"竜神の召喚\" \"select_label_1\" \"竜神の戦舞\" \"select_label_2\" \"竜神の咆哮\" \"select_label_3\"\n私の☆4のレベルアップスキルは\nなんだったかな？\n"
+	},
+	{
+		"ID": 4079,
+		"unitID": 2300711,
+		"questionID": 9300729,
+		"script": ";;幽玄の盾技,3\n# textflame 1 1\n# voice 3007 \"gaiborugu_0001\"\n@ゲイボルグ\nマスター\n突然だが、質問だ\n\n@ゲイボルグ\n内容は、私に関することだ\nそう難しい問題では\nないと思うが…\n\n# face %(unit_a)s \"smile\"\n@ゲイボルグ\n正解してくれれば私も嬉しい\nマスターなら、\nきっと大丈夫だと思う\n\n# face %(unit_a)s \"normal\"\n@ゲイボルグ\n…では、出題するぞ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の☆6のレベルアップスキルは\nなんだっただろう？\n\n# se \"SE_0734\"\n# select \"炎剣神の盾技\" \"select_label_1\" \"進撃の盾技\" \"select_label_2\" \"幽玄の盾技\" \"select_label_3\"\n私の☆6のレベルアップスキルは\nなんだっただろう？\n"
+	},
+	{
+		"ID": 4080,
+		"unitID": 2300711,
+		"questionID": 9300730,
+		"script": ";;護誓の一突,1\n# textflame 1 1\n# voice 3007 \"gaiborugu_0001\"\n@ゲイボルグ\nマスター\n突然だが、質問だ\n\n@ゲイボルグ\n内容は、私に関することだ\nそう難しい問題では\nないと思うが…\n\n# face %(unit_a)s \"smile\"\n@ゲイボルグ\n正解してくれれば私も嬉しい\nマスターなら、\nきっと大丈夫だと思う\n\n# face %(unit_a)s \"normal\"\n@ゲイボルグ\n…では、出題するぞ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の☆6の固有スキルは\nなんだったかな？\n\n# se \"SE_0734\"\n# select \"護誓の一突\" \"select_label_1\" \"護誓の一閃\" \"select_label_2\" \"護誓の一撃\" \"select_label_3\"\n私の☆6の固有スキルは\nなんだったかな？\n"
+	},
+	{
+		"ID": 4081,
+		"unitID": 2300711,
+		"questionID": 9300731,
+		"script": ";;風に吹かれる,1\n# textflame 1 1\n# voice 3007 \"gaiborugu_0001\"\n@ゲイボルグ\nマスター、突然だが、\nここで問題だ\n私の名前は、なんという？\n\n# face %(unit_a)s \"smile\"\n# voice 3007 \"gaiborugu_0020\"\n@ゲイボルグ\n…そう、ゲイボルグ。正解だ\nさすがに即答してくれたな\n嬉しいぞ…ん？\n\n# face %(unit_a)s \"normal\"\n@ゲイボルグ\nいくらなんでも\n簡単すぎる問題だと…？\n\n# voice 3007 \"gaiborugu_0039\"\n@ゲイボルグ\nそうか…では、\nもう少し難易度を\n上げてみようか\n\n# voice 3007 \"gaiborugu_0036\"\n@ゲイボルグ\n私に関するクイズ…\nでは、もう一問\n答えていただこうか？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の親友である\nフラガラッハの趣味は\nなんだろう？\n\n# se \"SE_0734\"\n# select \"風に吹かれる\" \"select_label_1\" \"波にたゆたう\" \"select_label_2\" \"砂に埋もれる\" \"select_label_3\"\n私の親友である\nフラガラッハの趣味は\nなんだろう？\n"
+	},
+	{
+		"ID": 4082,
+		"unitID": 2300711,
+		"questionID": 9300732,
+		"script": ";;ゲイボルグ,2\n# textflame 1 1\n# voice 3007 \"gaiborugu_0001\"\n@ゲイボルグ\nマスター、突然だが、\nここで問題だ\n私の名前は、なんという？\n\n# face %(unit_a)s \"smile\"\n# voice 3007 \"gaiborugu_0020\"\n@ゲイボルグ\n…そう、ゲイボルグ。正解だ\nさすがに即答してくれたな\n嬉しいぞ…ん？\n\n# face %(unit_a)s \"normal\"\n@ゲイボルグ\nいくらなんでも\n簡単すぎる問題だと…？\n\n# voice 3007 \"gaiborugu_0039\"\n@ゲイボルグ\nそうか…では、\nもう少し難易度を\n上げてみようか\n\n# voice 3007 \"gaiborugu_0036\"\n@ゲイボルグ\n私に関するクイズ…\nでは、もう一問\n答えていただこうか？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私と親友のブリューナクだが\n…胸が大きいのはどちらだ？\n\n# se \"SE_0734\"\n# select \"ブリューナク\" \"select_label_1\" \"ゲイボルグ\" \"select_label_2\" \"同じ\" \"select_label_3\"\n私と親友のブリューナクだが\n…胸が大きいのはどちらだ？\n"
+	},
+	{
+		"ID": 4083,
+		"unitID": 2300711,
+		"questionID": 9300733,
+		"script": ";;ティル・ナ・ノーグ,3\n# textflame 1 1\n# voice 3007 \"gaiborugu_0001\"\n@ゲイボルグ\nマスター、突然だが、\nここで問題だ\n私の名前は、なんという？\n\n# face %(unit_a)s \"smile\"\n# voice 3007 \"gaiborugu_0020\"\n@ゲイボルグ\n…そう、ゲイボルグ。正解だ\nさすがに即答してくれたな\n嬉しいぞ…ん？\n\n# face %(unit_a)s \"normal\"\n@ゲイボルグ\nいくらなんでも\n簡単すぎる問題だと…？\n\n# voice 3007 \"gaiborugu_0039\"\n@ゲイボルグ\nそうか…では、\nもう少し難易度を\n上げてみようか\n\n# voice 3007 \"gaiborugu_0036\"\n@ゲイボルグ\n私に関するクイズ…\nでは、もう一問\n答えていただこうか？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の親友\nフラガラッハの\n出身地はどこだ？\n\n# se \"SE_0734\"\n# select \"島根県\" \"select_label_1\" \"オリュンポス山\" \"select_label_2\" \"ティル・ナ・ノーグ\" \"select_label_3\"\n私の親友\nフラガラッハの\n出身地はどこだ？\n"
+	},
+	{
+		"ID": 4084,
+		"unitID": 2300711,
+		"questionID": 9300734,
+		"script": ";;腕,1\n# textflame 1 1\n# voice 3007 \"gaiborugu_0001\"\n@ゲイボルグ\nマスター、突然だが、\nここで問題だ\n私の名前は、なんという？\n\n# face %(unit_a)s \"smile\"\n# voice 3007 \"gaiborugu_0020\"\n@ゲイボルグ\n…そう、ゲイボルグ。正解だ\nさすがに即答してくれたな\n嬉しいぞ…ん？\n\n# face %(unit_a)s \"normal\"\n@ゲイボルグ\nいくらなんでも\n簡単すぎる問題だと…？\n\n# voice 3007 \"gaiborugu_0039\"\n@ゲイボルグ\nそうか…では、\nもう少し難易度を\n上げてみようか\n\n# voice 3007 \"gaiborugu_0036\"\n@ゲイボルグ\n私に関するクイズ…\nでは、もう一問\n答えていただこうか？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の親友ブリューナクの\n好きなものはなんだった？\n\n# se \"SE_0734\"\n# select \"腕\" \"select_label_1\" \"胸\" \"select_label_2\" \"尻\" \"select_label_3\"\n私の親友ブリューナクの\n好きなものはなんだった？\n"
+	},
+	{
+		"ID": 4085,
+		"unitID": 2300711,
+		"questionID": 9300735,
+		"script": ";;しし座,2\n# textflame 1 1\n# voice 3007 \"gaiborugu_0001\"\n@ゲイボルグ\nマスター、突然だが、\nここで問題だ\n私の名前は、なんという？\n\n# face %(unit_a)s \"smile\"\n# voice 3007 \"gaiborugu_0020\"\n@ゲイボルグ\n…そう、ゲイボルグ。正解だ\nさすがに即答してくれたな\n嬉しいぞ…ん？\n\n# face %(unit_a)s \"normal\"\n@ゲイボルグ\nいくらなんでも\n簡単すぎる問題だと…？\n\n# voice 3007 \"gaiborugu_0039\"\n@ゲイボルグ\nそうか…では、\nもう少し難易度を\n上げてみようか\n\n# voice 3007 \"gaiborugu_0036\"\n@ゲイボルグ\n私に関するクイズ…\nでは、もう一問\n答えていただこうか？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の親友\nフラガラッハの星座は\n何座だったろう？\n\n# se \"SE_0734\"\n# select \"うお座\" \"select_label_1\" \"しし座\" \"select_label_2\" \"さそり座\" \"select_label_3\"\n私の親友\nフラガラッハの星座は\n何座だったろう？\n"
+	},
+	{
+		"ID": 4086,
+		"unitID": 2300711,
+		"questionID": 9300736,
+		"script": ";;緑,3\n# textflame 1 1\n# voice 3007 \"gaiborugu_0001\"\n@ゲイボルグ\nマスター、突然だが、\nここで問題だ\n私の名前は、なんという？\n\n# face %(unit_a)s \"smile\"\n# voice 3007 \"gaiborugu_0020\"\n@ゲイボルグ\n…そう、ゲイボルグ。正解だ\nさすがに即答してくれたな\n嬉しいぞ…ん？\n\n# face %(unit_a)s \"normal\"\n@ゲイボルグ\nいくらなんでも\n簡単すぎる問題だと…？\n\n# voice 3007 \"gaiborugu_0039\"\n@ゲイボルグ\nそうか…では、\nもう少し難易度を\n上げてみようか\n\n# voice 3007 \"gaiborugu_0036\"\n@ゲイボルグ\n私に関するクイズ…\nでは、もう一問\n答えていただこうか？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の髪の毛は何色だ？\n…これはサービス問題かな？\n\n# se \"SE_0734\"\n# select \"赤\" \"select_label_1\" \"黒\" \"select_label_2\" \"緑\" \"select_label_3\"\n私の髪の毛は何色だ？\n…これはサービス問題かな？\n"
+	},
+	{
+		"ID": 4087,
+		"unitID": 2300711,
+		"questionID": 9300737,
+		"script": ";;赤,1\n# textflame 1 1\n# voice 3007 \"gaiborugu_0001\"\n@ゲイボルグ\nマスター、突然だが、\nここで問題だ\n私の名前は、なんという？\n\n# face %(unit_a)s \"smile\"\n# voice 3007 \"gaiborugu_0020\"\n@ゲイボルグ\n…そう、ゲイボルグ。正解だ\nさすがに即答してくれたな\n嬉しいぞ…ん？\n\n# face %(unit_a)s \"normal\"\n@ゲイボルグ\nいくらなんでも\n簡単すぎる問題だと…？\n\n# voice 3007 \"gaiborugu_0039\"\n@ゲイボルグ\nそうか…では、\nもう少し難易度を\n上げてみようか\n\n# voice 3007 \"gaiborugu_0036\"\n@ゲイボルグ\n私に関するクイズ…\nでは、もう一問\n答えていただこうか？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の瞳の色はなに色だ？\n…こ、こら、じっと見つめないでくれ\n\n# se \"SE_0734\"\n# select \"赤\" \"select_label_1\" \"青\" \"select_label_2\" \"白\" \"select_label_3\"\n私の瞳の色はなに色だ？\n…こ、こら、じっと見つめないでくれ\n"
+	},
+	{
+		"ID": 4088,
+		"unitID": 2300711,
+		"questionID": 9300738,
+		"script": ";;マフィアの日,2\n# textflame 1 1\n# voice 3007 \"gaiborugu_0001\"\n@ゲイボルグ\nマスター、突然だが、\nここで問題だ\n私の名前は、なんという？\n\n# face %(unit_a)s \"smile\"\n# voice 3007 \"gaiborugu_0020\"\n@ゲイボルグ\n…そう、ゲイボルグ。正解だ\nさすがに即答してくれたな\n嬉しいぞ…ん？\n\n# face %(unit_a)s \"normal\"\n@ゲイボルグ\nいくらなんでも\n簡単すぎる問題だと…？\n\n# voice 3007 \"gaiborugu_0039\"\n@ゲイボルグ\nそうか…では、\nもう少し難易度を\n上げてみようか\n\n# voice 3007 \"gaiborugu_0036\"\n@ゲイボルグ\n私に関するクイズ…\nでは、もう一問\n答えていただこうか？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の誕生日３月３０日は\nある記念日になっている\n少々物騒だが、なんの日だ？\n\n# se \"SE_0734\"\n# select \"ミサイルの日\" \"select_label_1\" \"マフィアの日\" \"select_label_2\" \"夫婦げんかの日\" \"select_label_3\"\n私の誕生日３月３０日は\nある記念日になっている\n少々物騒だが、なんの日だ？\n"
+	},
+	{
+		"ID": 4089,
+		"unitID": 2300711,
+		"questionID": 9300739,
+		"script": ";;Aries,3\n# textflame 1 1\n# voice 3007 \"gaiborugu_0001\"\n@ゲイボルグ\nマスター、突然だが、\nここで問題だ\n私の名前は、なんという？\n\n# face %(unit_a)s \"smile\"\n# voice 3007 \"gaiborugu_0020\"\n@ゲイボルグ\n…そう、ゲイボルグ。正解だ\nさすがに即答してくれたな\n嬉しいぞ…ん？\n\n# face %(unit_a)s \"normal\"\n@ゲイボルグ\nいくらなんでも\n簡単すぎる問題だと…？\n\n# voice 3007 \"gaiborugu_0039\"\n@ゲイボルグ\nそうか…では、\nもう少し難易度を\n上げてみようか\n\n# voice 3007 \"gaiborugu_0036\"\n@ゲイボルグ\n私に関するクイズ…\nでは、もう一問\n答えていただこうか？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の星座おひつじ座の\n英語読みは\n次のうちどれだろうか？\n\n# se \"SE_0734\"\n# select \"Cancer\" \"select_label_1\" \"Virgo\" \"select_label_2\" \"Aries\" \"select_label_3\"\n私の星座おひつじ座の\n英語読みは\n次のうちどれだろうか？\n"
+	},
+	{
+		"ID": 4090,
+		"unitID": 2300711,
+		"questionID": 9300740,
+		"script": ";;ケルト神話群,1\n# textflame 1 1\n# voice 3007 \"gaiborugu_0001\"\n@ゲイボルグ\nマスター、突然だが、\nここで問題だ\n私の名前は、なんという？\n\n# face %(unit_a)s \"smile\"\n# voice 3007 \"gaiborugu_0020\"\n@ゲイボルグ\n…そう、ゲイボルグ。正解だ\nさすがに即答してくれたな\n嬉しいぞ…ん？\n\n# face %(unit_a)s \"normal\"\n@ゲイボルグ\nいくらなんでも\n簡単すぎる問題だと…？\n\n# voice 3007 \"gaiborugu_0039\"\n@ゲイボルグ\nそうか…では、\nもう少し難易度を\n上げてみようか\n\n# voice 3007 \"gaiborugu_0036\"\n@ゲイボルグ\n私に関するクイズ…\nでは、もう一問\n答えていただこうか？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の属するクラスタは\n次のうち、どれだろう？\n\n# se \"SE_0734\"\n# select \"ケルト神話群\" \"select_label_1\" \"北欧神話群\" \"select_label_2\" \"ギリシャ神話群\" \"select_label_3\"\n私の属するクラスタは\n次のうち、どれだろう？\n"
+	},
+	{
+		"ID": 4091,
+		"unitID": 2300711,
+		"questionID": 9300741,
+		"script": "\n;;私,1\n# se \"SE_0734\"\n# select \"私\" \"select_label_1\" \"あたし\" \"select_label_2\" \"オレ\" \"select_label_3\"\nゲイボルグの一人称は\n次のうちどれ？\n"
+	},
+	{
+		"ID": 4092,
+		"unitID": 2300711,
+		"questionID": 9300742,
+		"script": "\n;;貴様,2\n# se \"SE_0734\"\n# select \"貴方\" \"select_label_1\" \"貴様\" \"select_label_2\" \"テメエ\" \"select_label_3\"\nゲイボルグはアンタのこと、\nなんて呼んでる？\n"
+	},
+	{
+		"ID": 4093,
+		"unitID": 2300711,
+		"questionID": 9300743,
+		"script": "\n;;93,3\n# se \"SE_0734\"\n# select \"88\" \"select_label_1\" \"94\" \"select_label_2\" \"93\" \"select_label_3\"\nゲイボルグの\nバストサイズがどのくらいか\nアンタ…知ってるの？\n"
+	},
+	{
+		"ID": 4094,
+		"unitID": 2300711,
+		"questionID": 9300744,
+		"script": "\n;;65,1\n# se \"SE_0734\"\n# select \"65\" \"select_label_1\" \"58\" \"select_label_2\" \"64\" \"select_label_3\"\nゲイボルグの\nウエストサイズがどのくらいか\nアンタ…知ってるの？\n"
+	},
+	{
+		"ID": 4095,
+		"unitID": 2300711,
+		"questionID": 9300745,
+		"script": "\n;;92,2\n# se \"SE_0734\"\n# select \"87\" \"select_label_1\" \"92\" \"select_label_2\" \"95\" \"select_label_3\"\nゲイボルグの\nヒップサイズがどのくらいか\nアンタ…知ってるの？\n"
+	},
+	{
+		"ID": 4096,
+		"unitID": 2300711,
+		"questionID": 9300746,
+		"script": "\n;;61,3\n# se \"SE_0734\"\n# select \"50\" \"select_label_1\" \"56\" \"select_label_2\" \"61\" \"select_label_3\"\nゲイボルグの体重は\n次のうちどれ？\n"
+	},
+	{
+		"ID": 4097,
+		"unitID": 2300711,
+		"questionID": 9300747,
+		"script": "\n;;250,1\n# se \"SE_0734\"\n# select \"250\" \"select_label_1\" \"233\" \"select_label_2\" \"251\" \"select_label_3\"\nゲイボルグの\nバスト＋ウエスト＋ヒップは\nいくつかわかる？\n"
+	},
+	{
+		"ID": 4098,
+		"unitID": 2300711,
+		"questionID": 9300748,
+		"script": "\n;;青,2\n# se \"SE_0734\"\n# select \"緑\" \"select_label_1\" \"青\" \"select_label_2\" \"黄\" \"select_label_3\"\nゲイボルグの水着の色は\n次のうちどれ？\n"
+	},
+	{
+		"ID": 4099,
+		"unitID": 2300711,
+		"questionID": 9300749,
+		"script": "\n;;39位,3\n# se \"SE_0734\"\n# select \"52位\" \"select_label_1\" \"46位\" \"select_label_2\" \"39位\" \"select_label_3\"\nゲイボルグは\n第２回人気投票で\n何位だったでしょう？\n"
+	},
+	{
+		"ID": 4100,
+		"unitID": 2300711,
+		"questionID": 9300750,
+		"script": "\n;; 能登麻美子,1\n# se \"SE_0734\"\n# select \"能登麻美子\" \"select_label_1\" \"古川未鈴\" \"select_label_2\" \"相沢梨紗\" \"select_label_3\"\nゲイボルグの声優は誰？\n"
+	}
+]

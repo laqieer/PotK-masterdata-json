@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 91006498,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# se \"SE_0733\"\n# face %(unit_a)s \"sad\"\n# voice 1006 \"nageruring_0013\"\n@ナーゲルリング\n不正解です…\n\n;;//文字小さく\n# textsize 20\n@ナーゲルリング\nやっぱり私のこと\n理解してないんだなぁ…\n\n# textsize 24\n@ナーゲルリング\n正直なところ、\nがっかりしています\n\n@ナーゲルリング\nでも、なんの前触れもなく\nクイズを出した私にも\n落ち度がありました…\n\n# face %(unit_a)s \"normal\"\n@ナーゲルリング\nなので、またクイズを出します！\n告知したのでちゃんと\n正解してくださいね？\n\n# voice 1006 \"nageruring_0003\"\n@ナーゲルリング\nそのためにも、マスターに\nもっと私を知ってもらえるよう\nがんばりますね！\n\n# textflame 0 0\n@\n自分が答えられなかったせいで、\n彼女に変な気を使わせてしまった…\n\n@\n頑張らないといけないのは、\n自分の方だ…\n\n@\n彼女のことをもっと理解するため\n今から頑張らなくては…\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

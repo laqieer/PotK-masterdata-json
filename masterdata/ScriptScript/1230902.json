@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 1230902,
+		"script": ";;■□■２－３改修案■□■\n;;【２－３－２（バトル後）】\n;;整形済み\n# script \"lisp\"\n# background \"valley\"\n# bgm \"bgm005\" 0\n# body 24\n# pos 24 1\n# scale 24 0.8 0\n# alpha 24 1 0\n# body 0\n# pos 0 3\n# scale 0 0.8 0\n# alpha 0 1 0\n# body 1\n# pos 1 5\n# scale 1 0.8 0\n# alpha 1 1 0\n;;バトル\n# face 24 \"sad\"\n# face 1 \"angry\"\n# textboxarrow 0 2\n# face 0 \"angry\"\n# voice 9999 \"durin_0018\"\n@デュリン\nナパル一家も被害者なのに、\n追放するなんて…\n決して許されることではないわ\n\n# textboxarrow 0 3\n@村人A\n聞いておれば、何をぬけぬけと…\nお前たちラグナロクも\n無関係ではないのだぞ！\n\n# textboxarrow 0 1\n# voice 1014 \"tyrufing_0022\"\n@ティルフィング\nえ…？\n\n# textboxarrow 0 3\n@村人A\n度重なる異族の襲来に…\nワシらはなけなしの金を集め、\nキル姫の派遣要請を出した！\n\n@村人A\nだが…金が足らんだの、\n人が足らんだの…\n\n@村人A\nお前たちラグナロクは最後まで\n姿を現わさなかったではないか！\n\n# textboxarrow 0 1\n# face 24 \"surprise\"\n# voice 1014 \"tyrufing_0024\"\n@ティルフィング\nえ！？"
+	}
+]

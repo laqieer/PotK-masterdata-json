@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 93010299,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# se \"SE_0732\"\n# voice 3010 \"rhongomiant_0020\"\n@ロンゴミアント\n…わっ、すごい\n正解です…\n\n# voice 3010 \"rhongomiant_0030\"\n# textflame 1 1\n@ロンゴミアント\nあ…ありがとうございます！\n\n# textflame 1 1\n@ロンゴミアント\nマスターが私を\n見ていてくださる…\n\n# textflame 1 1\n@ロンゴミアント\nそれが私にとって…\nなによりの喜びになります！\n\n# voice 3010 \"rhongomiant_0036\"\n# textflame 1 1\n@ロンゴミアント\nこれからも…\nよろしくお願いします！\n\n# textflame 0 0\n@\n溌剌とした笑顔を見て、\nマスターは二人の絆が\nより深まったのを実感した…\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

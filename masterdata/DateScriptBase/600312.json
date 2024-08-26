@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 600312,
+		"script": ";;C ここがいい\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_jungle_day\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# voice 6003 \"tyurusosu_0004\"\n@テュルソス\n良かった！\n気に入ってくれたんだねー\n\n# eye %(unit_a)s \"close\"\n@テュルソス\nお酒を飲んで楽しく\nするのもいいけど…\n\n# eye %(unit_a)s \"normal\"\n@テュルソス\nたまにはこういう\n静かな空気を\n感じないとねえ！\n\n# voice 6003 \"tyurusosu_0030\"\n# face %(unit_a)s \"usual\"\n@テュルソス\n君が価値観の通じるマスターで\nホントに嬉しいよ♪\n\n@テュルソス\nよーし！\n明日からも、もっともっと\n頑張るからね！\n\n# voice 6003 \"tyurusosu_0036\"\n@テュルソス\n期待しててね♪\n\n# textflame 0 0\n@\nピースサインをしながら\nニッコリ笑うテュルソスに\nマスターは頷いた\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

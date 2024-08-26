@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 302814,
+		"script": ";;A,もちろん大丈夫(小あたり)\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_hauntedhouse\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# face %(unit_a)s \"normal\"\n# voice 3028 \"herena_a_0004\"\n# textflame 1 1\n@ヘレナ\n…くふっ。先輩なら\nそう言ってくれると信じてたよ\nそれじゃあ、進もうか\n\n@ヘレナ\nおや…どうした先輩\n妙に腕がこわばっているぞ？\n\n@ヘレナ\n歩き方も、\nさっきよりぎこちなく\nなっているし…\n\n@ヘレナ\nもしかして、\nせっかくのデートだから…\n\n@ヘレナ\n頼りになるところを見せたいなんて\n考えてたりするのか？\n\n# face %(unit_a)s \"happy\"\n# voice 3028 \"herena_a_0005\"\n@ヘレナ\n…くふふっ！\n顔をそらしても、\nヘレナにはわかってしまうよ\n\n;;モノローグ\n# textflame 0 0\n@\nヘレナに図星を突かれ\n思わず赤面してしまうマスター\n\n;;モノローグ\n# textflame 0 0\n@\nそこからはヘレナに弄られながら\nホラーハウスを進むことになり\nあまり楽しむことはできなかった\n\n;;-----------------------------------------\n# waitandnext 2\n# fadeout \"black\" 1.2\n"
+	}
+]

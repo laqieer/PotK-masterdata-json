@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 717030401,
+		"script": "# script \"lisp\"\n# background \"flower_garden\"\n# body 100221\n# pos 100221 5\n# body 1100221\n# pos 1100221 1\n# alpha 1100221 0 0\n# body 23\n# mask 23 off\n# pos 23 1\n# alpha 23 0 0\n# scale 100221 0.8 0\n# scale 23 0.8 0\n# textflame 1 1\n# textboxarrow 0 3\n# chara 100221\n@レーヴァテイン\n…\n\n# leftin 23 0.5\n# alpha 23 1 0\n# serif 1\n# textboxarrow 1 1\n# chara 1100221\n# face 23 \"angry_1\"\n@ゼロ\n…？"
+	}
+]

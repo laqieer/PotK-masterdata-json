@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 601125,
+		"script": ";;ハズレ\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_room\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# face %(unit_a)s \"usual\"\n# textflame 0 0\n@\nデートを終えたマスターは\nヴァナルガンドを部屋まで\n送り届けた\n\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n# voice 6011 \"vanargand_0030\"\n@ヴァナルガンド\n今日はデートに誘ってくれて\nありがとうございました、\nマスターさん\n\n# face %(unit_a)s \"usual\"\n# voice 6011 \"vanargand_0004\"\n@ヴァナルガンド\nその、わたしの方がいっぱい\n甘えちゃいましたね～…\n\n@ヴァナルガンド\nでもわたしとしては、\nマスターさんに\n甘えてもらうのも好きなので…\n\n@ヴァナルガンド\nん～…悩ましいです～\n\n# textflame 0 0\n@\n不思議な葛藤を繰り広げる\nヴァナルガンドと一緒に、\n穏やかな時間を過ごした…\n\n# waitandnext 2\n# fadeout \"black\" 1.2\n"
+	}
+]

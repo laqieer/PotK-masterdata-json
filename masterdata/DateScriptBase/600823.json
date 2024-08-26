@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 600823,
+		"script": "# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_drive\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# voice 6008 \"guridavoru_0005\"\n@グリダヴォル\nマスターができるなら…\n私もできるかな～\nなんて…はは…\n\n# textflame 0 0\n@\nグリダヴォルはさっきから\nじっとマスターが運転する\n様子を見つめていた\n\n# textflame 1 1\n@グリダヴォル\nマスター…\n車の運転できたんだね！\n\n# textflame 1 1\n@グリダヴォル\n…って、\n乗ってるのに言うのも変だね！\n\n# textflame 1 1\n@グリダヴォル\nなんか…\n男の子、って感じだね…！\n\n# textflame 0 0\n@\nいつもとは違うたどたどしさで\n話しかけてくるグリダヴォル\n\n# textflame 0 0\n@\nグリダヴォルの\n熱い視線を感じながら\n夜の道を走り抜けていく――\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 91026299,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# voice 1026 \"caladbolg_0041\"\n# se \"SE_0732\"\n@カラドボルグ\nすごい、正解よ！\n\n# textflame 1 1\n@カラドボルグ\nちゃんと私のこと、\nわかってるじゃない\n\n# textflame 1 1\n@カラドボルグ\nでも…\n\n# textflame 1 1\n@カラドボルグ\nもう少し私に似合う水着、\nあると思わない？\n\n# textflame 1 1\n@カラドボルグ\nあのショップに見に行きましょう\n\n# textflame 0 0\n@\nと嬉しそうに駆け出す彼女\n\n# textflame 0 0\n@\n弾むような足取りをみて\nマスターは彼女との絆が\nまた深まったのを実感した…\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

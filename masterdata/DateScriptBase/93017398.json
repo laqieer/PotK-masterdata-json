@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 93017398,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# se \"SE_0733\"\n# face %(unit_a)s \"sad\"\n# voice 3017 \"wotan_0013\"\n@ヴォータン\nなぜだ…\n\n@ヴォータン\n間違えたら許さないと\n言ったのに…\n\n@ヴォータン\nまあ仕方ないか…\n\n@ヴォータン\nお前が不正解だった\nその事実は変わらない…\n\n# face %(unit_a)s \"normal\"\n@ヴォータン\n今回は特別に許すが…\n\n# voice 3017 \"wotan_0036\"\n# face %(unit_a)s \"angry\"\n@ヴォータン\nまた今度クイズを出した時は、\n絶対に正解するんだぞ！\n\n# textflame 0 0\n@\nそう言った彼女の目は本気だった\n\n@\nこれは死ぬ気でやらなければ、\nなにをされるか分からない…\n\n@\n今度こそは正解するため、\nマスターは彼女をもっと理解する\n決意を心で固めた…\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

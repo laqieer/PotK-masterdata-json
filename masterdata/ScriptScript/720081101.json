@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 720081101,
+		"script": ";;-----------------------------------------\n# script \"lisp\"\n# bgm \"stop\"\n# background \"bg_black\"\n# textwindow \"close\"\n# frameout 0 0\n# buttonsout 0 0\n;;-----------------------------------------\n# fadein \"black\" 0.5\n# waitandnext 1.5\n\n# movieplay \"earth_prologue_1\" \"skip\"\n# waitandnext 0.8\n\n# movieplay \"earth_prologue_2\" \"skip\"\n# waitandnext 0.2"
+	}
+]

@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 302813,
+		"script": ";;C,できれば離れて(中あたり)\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_hauntedhouse\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 3028 \"herena_a_0022\"\n@ヘレナ\nうん？\nどうした先輩、そんなに焦って\n\n# face %(unit_a)s \"usual\"\n@ヘレナ\nもっと離れてほしいって？\nくふっ…この膨らみが気になって\n仕方ないといったところか？\n\n@ヘレナ\nまぁ、先輩がそう言うのなら…\nでも、ヘレナはもっと\n近づきたいと思っているぞ？\n\n# voice 3028 \"herena_a_0004\"\n@ヘレナ\n…くふ、まあいい\nこれからも機会はたくさん\nあるだろうからな\n\n@ヘレナ\nさあ行こう、先輩\nおかげで涼しくなったよ\nどうもありがとう…くふっ\n\n;;モノローグ\n# textflame 0 0\n@\nホラーハウスを出てから\n並んで帰路につく二人\n\n;;モノローグ\n# textflame 0 0\n@\n涼しくも、どこか温かい風が\n二人のあいだを流れていた…\n\n;;-----------------------------------------\n# waitandnext 2\n# fadeout \"black\" 1.2\n"
+	}
+]

@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 95026498,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# se \"SE_0733\"\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n@ゆんゆん\nマスターさん、\nその答え…\n\n@ゆんゆん\n不正解です…\n\n# voice 250261 \"yunyun_0026\"\n@ゆんゆん\nとても…ショックです…\n\n# textflame 0 0\n@\n悲しい目を見せるゆんゆん\n\n# textflame 1 1\n@ゆんゆん\nご、ごめんなさい…\nやっぱり私とは…\n\n# voice 250261 \"yunyun_0027\"\n@ゆんゆん\n友達ではなかったんですね……\n\n# textflame 0 0\n@\nと、彼女が涙ぐんだ\n\n# textflame 1 1\n@ゆんゆん\nマスターさん…\n友達ではない私と一日\n遊んでくれてありがとうございました\n\n# textflame 0 0\n@\n寂しそうに笑う彼女を見ていると\n胸が痛んでくる\n\n@\nもう二度と間違わない\n心に強く誓うマスターだった\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 91020199,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# se \"SE_0732\"\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n@%(unitName:unit_a)s\nその答え…\n\n# face %(unit_a)s \"happy\"\n# voice 1020 \"sayaka_0005\"\n@%(unitName:unit_a)s\n大正解！\n\n# face %(unit_a)s \"usual\"\n@%(unitName:unit_a)s\nやるね、マスター！\n\n@%(unitName:unit_a)s\nえっと、\n私がやりたいこと、だよね？\n\n@%(unitName:unit_a)s\nそ、それは～……\n\n# face %(unit_a)s \"shy\"\n# voice 1020 \"sayaka_0004\"\n@%(unitName:unit_a)s\nま、マスターと似てるかな\n\n@%(unitName:unit_a)s\nみんなと一緒に、全力で遊ぶこと！\n\n# face %(unit_a)s \"normal\"\n# voice 1020 \"sayaka_0003\"\n@%(unitName:unit_a)s\n安心して？\nみんなの中にちゃんと\nマスターも入ってるから\n\n# textflame 0 0\n@\nと、照れ笑いしてみせる彼女\n\n@\nマスターは、さやか達と楽しい夏を\n過ごせることを考えると\n楽しみになってくるのであった\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

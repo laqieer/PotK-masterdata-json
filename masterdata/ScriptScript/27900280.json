@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 27900280,
+		"script": ";;【指定】BgmSeaEventBattle bgm238_239\n;;第15幕　タイトル：深奥のジャングル\n;;//背景：ジャングル\n# script \"lisp\"\n# background \"sea_jungle_day\"\n# bgmfile \"bgm238_239\" \"BgmSeaEventBattle\" 0\n# body 2500411\n# pos 2500411 4\n# scale 2500411 0.8 0\n# face 2500411 \"usual\"\n# body 2601411\n# pos 2601411 2\n# scale 2601411 0.8 0\n# face 2601411 \"angry\"\n# voice 5004 \"burafumasutora_0028\"\n@ブラフマーストラ\nプタハ～\nあの子達が来たみたいだけど、\nどうすんの？\n\n# body 2201111\n# pos 2201111 3\n# scale 2201111 0.8 0\n# alpha 2201111 0 0\n# layer 2201111 4\n# face 2201111 \"usual\"\n# body 2201211\n# pos 2201211 1\n# scale 2201211 0.8 0\n# alpha 2201211 0 0\n# face 2201211 \"usual\"\n# body 2201311\n# pos 2201311 5\n# scale 2201311 0.8 0\n# alpha 2201311 0 0\n# voice 6014 \"ptah_0009\"\n@プタハ\n…やむを得ぬ\nここは戦うしかあるまい\n\n# alpha 2601411 0 0.5\n# alpha 2500411 0 0.5\n# alpha 2201311 1 0.5\n# alpha 2201211 1 0.5\n# alpha 2201111 1 0.5\n# voice 2013 \"reshef_0029\"\n@レシェフ\nいやっはー！\nやってやるよ！\n\n# face 2201211 \"normal\"\n# voice 2012 \"srand_0006\"\n@スラーンド\nなにか、あたし達良いとこなしだから\nここらでガツンと活躍しないとね！\n\n# eye 2201111 \"close\"\n# voice 2011 \"Wazra_0032\"\n@ワズラ\nワズラは契約に従うのみです\n\n# move 2500411 3 0\n# alpha 2500411 1 0.5\n# alpha 2201111 0 0.5\n# layer 2500411 4\n# voice 5004 \"burafumasutora_0004\"\n@ブラフマーストラ\nみんな、やっちゃう系～？\nま、なんとかなるよね♪\n"
+	}
+]

@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 101025,
+		"script": ";;君をさらってどこまでも,中\n;;スピードの向こう側へ,小\n;;風を征服してみせる,大\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_drive\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 0 0\n@\nマスターは\nフラガラッハを誘って\nドライブにやってきた\n\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n@フラガラッハ\nまさしく…\n風を切って走る感覚ですわね\n\n@フラガラッハ\n気のせいでしょうか？\n;;----------------------------------------\n\n# voice 1010 \"furagaraha_0004\"\n# textflame 1 1\n@%(unitName:unit_a)s\nあなたの横顔…\nなんだか凛々しく見えます\n\n# textflame 0 0\n@\nスピードの向こう側へ…\n\n# textflame 1 1\n# voice 1010 \"furagaraha_0004\"\n# face %(unit_a)s \"smile\"\n@フラガラッハ\nふふ…\n背伸びをするマスターも\n可愛らしくていいですわね…\n\n# textflame 0 0\n@\n余裕に満ちた美しい笑顔を\nフラガラッハはたたえている\n\n# textflame 1 1\n@フラガラッハ\nでも無理は禁物ですわ\n事故だけは気をつけて…♪\n\n# textflame 0 0\n@\nマスターは苦笑する\n少しスピードをゆるめて\nハイウェイを駆け抜けていく…\n;;----------------------------------------\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

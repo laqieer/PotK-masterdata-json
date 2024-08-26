@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 301010033,
+		"script": ";;-----------------------------------------\n;;キズナアイコラボ_イベントシナリオLR編ED\n;;-----------------------------------------\n# script \"lisp\"\n# background \"bg_black\"\n# bgmfile \"bgm264\" \"BgmLostRagnarokBattle001\" 0\n;;-----------------------------------------\n# body 52000711\n# pos 52000711 3\n# scale 52000711 0.8 0\n# layer 52000711 2\n# mask 52000711 off\n# alpha 52000711 0 0\n;;-----------------------------------------\n# imageset 0 \"black\"\n# imagealpha 0 0 0\n# imagelayer 0 1\n;;-----------------------------------------\n# textwindow \"close\"\n# waitandnext 0.2\n\n# background \"fairy_world\"\n# imagealpha 0 1 0\n# imagepos 0 0 0\n# waitandnext 0.3\n\n# alpha 52000711 1 0\n# imagealpha 0 0 0.5\n# imagerightout 0 0.5\n# waitandnext 0.5\n\n# textflame 1 1\n# textwindow \"nomal\"\n# textboxarrow 0 2\n@キズナアイ\n今回も大ボリュームだったね…\n\n@キズナアイ\nロストラグナロク編は\nサイドストーリーとか\n幕間の話もあるから\n\n@キズナアイ\n余計にそう感じちゃうのかも\n\n# voice 20007 \"kizunaai_0004\"\n# face 52000711 \"happy\"\n@キズナアイ\nその分、すごく楽しめました♪\n\n# face 52000711 \"normal\"\n@キズナアイ\n特に14章がおすすめかな\nアルマスの大変身！\nカッコいいよね\n\n@キズナアイ\nやっぱり主人公が覚醒する展開って\n燃えるよね\n\n@キズナアイ\nシナリオもハッピーエンドで\n私も大満足です！\n\n# fadeout \"black\" 1\n# waitandnext 1"
+	}
+]

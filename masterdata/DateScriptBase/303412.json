@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 303412,
+		"script": ";;C\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_park_evening\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 530341 \"grandepieu_di_0028\"\n@グランテピエ\nうーん…そう、だね\n\n@グランテピエ\n二人で遊ぶつもりが、\n予定が変わっちゃったし\n\n@グランテピエ\nそれじゃあ、\nもう夕方になっちゃったけど…\n\n# face %(unit_a)s \"usual\"\n# voice 530341 \"grandepieu_di_0004\"\n@グランテピエ\nこれから一緒に\nお出かけしにいこうか\n\n@グランテピエ\nどこに行きたい？\n君の好きなところで、いいよ\n\n# voice 530341 \"grandepieu_di_0022\"\n@グランテピエ\nえ…\n二人きりになれる場所？\n\n# eye %(unit_a)s \"close\"\n# voice 530341 \"grandepieu_di_0003\"\n@グランテピエ\nそう、だね…\nまた二人でいられなくなったら、\nもったいないものね\n\n# eye %(unit_a)s \"normal\"\n@グランテピエ\nじゃあ、連れて行ってくれる？\n君の好きなところへ\n\n@グランテピエ\nどこでもいいよ\n君が行きたい場所まで、\n私の手を引いてほしいな\n\n@グランテピエ\nなんだか今日は君に手を\n引いてもらいたい気分だから、ね？\n\n@グランテピエ\n君となら私、\nどんな場所にいても…\n\n@グランテピエ\n絶対のぜーったいに\n幸せでいられる、から…\n\n# face %(unit_a)s \"normal\"\n# voice 530341 \"grandepieu_di_0005\"\n@グランテピエ\n…ふふ、なんだか照れちゃうなぁ\n\n@グランテピエ\nそれじゃあ…\nよろしくね、マスター？\n\n# textflame 0 0\n@\nグランテピエの\n熱を帯びた指先が、\nマスターの手のひらに触れる\n\n@\n気恥ずかしさを感じながら、\n二人は顔を見合わせ\nお互いに笑いあった\n;;-----------------------------------------\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

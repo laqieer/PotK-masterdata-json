@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 90000599,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# fadein \"black\" 0.5\n# textflame 1 1\n# body 0\n# pos 0 3\n# scale 0 0.8 0\n# mask 0 off\n# voice 9999 \"durin_0041\"\n# se \"SE_0732\"\n@デュリン\nへぇ～、やるじゃない！\n正解よ！！\n\n# textflame 1 1\n@デュリン\n約束どおり\n%(unitName:unit_a)sにも\nうまいこと言っといてあげる\n\n# se \"SE_1027\"\n# fadein \"white\" 0.5\n# waitandnext 1\n\n# voice 9999 \"durin_0047\"\n# textflame 1 1\n@デュリン\n…ふふん！\nそれじゃ、お邪魔虫は退散するわ\n仲良くね～\n\n# textflame 0 0\n@\nデュリンのおかげで\n%(unitName:unit_a)sとの\n絆がまた深まったのを実感した…\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

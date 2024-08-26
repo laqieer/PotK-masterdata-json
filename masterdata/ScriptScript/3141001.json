@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 3141001,
+		"script": "# script \"lisp\"\n# background \"valley\"\n# body 100423\n# pos 100423 1\n# body 300433\n# pos 300433 5\n# body 500333\n# pos 500333 3\n# alpha 500333 0 0\n# textboxarrow 0 1\n# voice 1004 \"kusanagi_0002\"\n# chara 100423\n@草薙剣\nまったくなんなのじゃ…\n急に呼び出しておいて八咫め…\nおい、聞いておるのか？\n\n# serif 1\n# textboxarrow 1 3\n# voice 3004 \"amenonuboko_0022\"\n# chara 300433\n@天沼矛\nあっ、はい…なんでしょうねぇ？\n新しい遊びでしょうか…？\n\n# serif 0\n# alpha 500333 1 1\n# textboxarrow 0 2\n# textsize 40\n# voice 5003 \"yatanokagami_0002\"\n# chara 500333\n@八咫鏡\nやあやあ皆の者、よく来たの！\n\n# serif 1\n# textsize 24\n# face 100423 \"angry\"\n# textboxarrow 1 1\n# chara 100423\n@草薙剣\nこら、余を呼び出すとは何事ぞ！\n\n# serif 0\n# textboxarrow 0 2\n# voice 5003 \"yatanokagami_kyara_1014\"\n# textsize 24\n# face 500333 \"happy\"\n# chara 500333\n@八咫鏡\n仲間としてふさわしいか…\nわらわが直々に\n試してやることにしたのじゃ！\n\n# serif 1\n# textboxarrow 1 1\n# face 100423 \"surprise\"\n# voice 1004 \"kusanagi_0023\"\n# chara 100423\n@草薙剣\nん〜！？\n\n# serif 0\n# textboxarrow 0 3\n# face 300433 \"surprise\"\n# voice 3004 \"amenonuboko_0023\"\n# chara 300433\n@天沼矛\nん…………ふえ〜っ！？"
+	}
+]

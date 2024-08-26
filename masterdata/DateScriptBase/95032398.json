@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 95032398,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 250321 \"tiphereth_t_0001\"\n# se \"SE_0733\"\n@ティファレト\n主様のお答え…\n\n# face %(unit_a)s \"sad\"\n# voice 250321 \"tiphereth_t_0028\"\n@ティファレト\n残念ながら不正解です…\n\n# face %(unit_a)s \"surprise\"\n@ティファレト\nいえ、謝らないで下さい\n\n@ティファレト\n謝るのはこちらです\n身勝手なお願いをしてしまって…\n\n@ティファレト\nミカエルもティファレトも、\n慈愛の象徴…\n\n# face %(unit_a)s \"sad\"\n@ティファレト\nそれなのに私は…\n個人的な感情を\n求めてしまいました…\n\n@ティファレト\n大丈夫、忘れてください\n\n# face %(unit_a)s \"usual\"\n# voice 250321 \"tiphereth_t_0004\"\n@ティファレト\n夏の暑さに\nあてられてしまった\nだけですから\n\n;;モノローグ\n# textflame 0 0\n@\n笑顔を見せるも、\nその口元は引きつっていた\n\n;;モノローグ\n@\n彼女にそんな顔を\nさせてしまったことを、\n激しく後悔するマスターだった\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

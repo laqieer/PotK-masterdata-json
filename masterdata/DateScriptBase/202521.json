@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 202521,
+		"script": ";;A:楽しんでるみたいでなによりだよ\n;;B:気にしないで\n;;C:なんだか大げさだなぁ\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_fireworks\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 0 0\n@\nエルキュールを連れて、\n花火大会へとやってきたマスター\n\n# voice 2025 \"hercule_0041\"\n# textflame 1 1\n@エルキュール\n見てくださいマスター！\nすごく綺麗だと思いませんか？\n\n@エルキュール\n次から次へと\nいろんな色の花火が打ちあがって\n夜空ではじけて…\n\n@エルキュール\nこんなに素敵なものを見せられたら\nとっても幸せな気分になりますね\n\n# face %(unit_a)s \"smile\"\n# voice 2025 \"hercule_0020\"\n@エルキュール\nここに連れてきてくれたことに\nお礼を言わせてください…\nマスター、ありがとうございます！\n\n# select \"楽しんでるみたいでなによりだよ\" \"select_label_01\" \"気にしないで\" \"select_label_02\" \"なんだか大げさだなぁ\" \"select_label_03\"\nここに連れてきてくれたことに\nお礼を言わせてください…\nマスター、ありがとうございます！\n\n# label \"select_label_01\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_02\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_03\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# textflame 1 1\n# waitandnext 0.1\n\n# label \"select_label_end\"\n# waitandnext 2\n# fadeout \"black\" 1.2"
+	}
+]

@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 104223,
+		"script": ";;中Bむしろチャンスだよ！\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_drive\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 210421 \"morabeaga_l_0022\"\n@モラベガ\nえ、チャンス…？\nそっかっ、そういう風に\n考えればいいんだっ…！\n\n@モラベガ\nみんなとお出かけして、\n一緒に遊びながら\n仲良くなればいい…\n\n# voice 210421 \"morabeaga_l_0003\"\n@モラベガ\n…うんっ！\nそう思ったら、\nちょっと自信がついてきたよ！\n\n@モラベガ\nせっかくのチャンスだから、\n打ち解けられるように\nがんばらなくちゃ…\n\n# voice 210421 \"morabeaga_l_0001\"\n@モラベガ\n…ねぇっ、マスター！\nもしみんなで遊園地に\n行くことになったら…\n\n@モラベガ\nマスターも一緒に\nついてきてくれるよね…？\n\n# face %(unit_a)s \"smile\"\n# voice 210421 \"morabeaga_l_0030\"\n@モラベガ\n…やったぁ…！\nありがとうっ！\n\n@モラベガ\nみんなと話すのは、\nまだどうしても緊張するけど…\n\n@モラベガ\nマスターがそばに\nいてくれるなら…\n私たち、きっとがんばれるっ！\n\n@モラベガ\nよしっ…そうと決まれば、\n仲良くなる練習を\nしておかなきゃ…！\n\n# face %(unit_a)s \"normal\"\n# voice 210421 \"morabeaga_l_0002\"\n@モラベガ\nマスター、ドライブしてる間\n私たちの話し相手に\nなってくれる？\n\n@モラベガ\n楽しいことをいっぱい、\n話せるようになりたいんだっ…！\n\n# textflame 0 0\n@\nもちろん、とマスターは応え…\nドライブしながら\n二人は会話を交わす\n\n# textflame 0 0\n@\nそれからしばらく、\n夜の車内に\n二人の楽しげな声が響いていた\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

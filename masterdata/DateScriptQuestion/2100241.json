@@ -1,0 +1,266 @@
+[
+	{
+		"ID": 5723,
+		"unitID": 2100241,
+		"questionID": 49100201,
+		"script": ";;剣,3\n# textflame 1 1\n# face %(unit_a)s \"angry\"\n# voice 210024 \"revatein_lo_0002\"\n@レーヴァテイン\nねぇ、つかれた\n\n@レーヴァテイン\nもうちょっと\nゆっくりあるいて\n\n# textflame 0 0\n@\n機嫌を損ねちゃったかな？\nマスターが心配に思った時、\n彼女が呟いた\n\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 210024 \"revatein_lo_0027\"\n@レーヴァテイン\nもっとちゃんと、\n私のことみてないと\nダメなんだから\n\n@レーヴァテイン\nちゃんとみてるか…、\nいまからクイズをだして\nためしてみるわ\n\n@レーヴァテイン\nいい？いくよ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私のキラーズ『レーヴァテイン』は\nどんなぶき…？　\n\n# se \"SE_0734\"\n# select \"弓\" \"select_label_1\" \"槍\" \"select_label_2\" \"剣\" \"select_label_3\"\n私のキラーズ『レーヴァテイン』は\nどんなぶき…？　\n"
+	},
+	{
+		"ID": 5724,
+		"unitID": 2100241,
+		"questionID": 49100202,
+		"script": ";;シンモラ,1\n# textflame 1 1\n# face %(unit_a)s \"angry\"\n# voice 210024 \"revatein_lo_0002\"\n@レーヴァテイン\nねぇ、つかれた\n\n@レーヴァテイン\nもうちょっと\nゆっくりあるいて\n\n# textflame 0 0\n@\n機嫌を損ねちゃったかな？\nマスターが心配に思った時、\n彼女が呟いた\n\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 210024 \"revatein_lo_0027\"\n@レーヴァテイン\nもっとちゃんと、\n私のことみてないと\nダメなんだから\n\n@レーヴァテイン\nちゃんとみてるか…、\nいまからクイズをだして\nためしてみるわ\n\n@レーヴァテイン\nいい？いくよ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私のキラーズ『レーヴァテイン』を\nもっていたのはだれ…？\n\n# se \"SE_0734\"\n# select \"シンモラ\" \"select_label_1\" \"シンドラー\" \"select_label_2\" \"シンシア\" \"select_label_3\"\n私のキラーズ『レーヴァテイン』を\nもっていたのはだれ…？\n"
+	},
+	{
+		"ID": 5725,
+		"unitID": 2100241,
+		"questionID": 49100203,
+		"script": ";;スルト,2\n# textflame 1 1\n# face %(unit_a)s \"angry\"\n# voice 210024 \"revatein_lo_0002\"\n@レーヴァテイン\nねぇ、つかれた\n\n@レーヴァテイン\nもうちょっと\nゆっくりあるいて\n\n# textflame 0 0\n@\n機嫌を損ねちゃったかな？\nマスターが心配に思った時、\n彼女が呟いた\n\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 210024 \"revatein_lo_0027\"\n@レーヴァテイン\nもっとちゃんと、\n私のことみてないと\nダメなんだから\n\n@レーヴァテイン\nちゃんとみてるか…、\nいまからクイズをだして\nためしてみるわ\n\n@レーヴァテイン\nいい？いくよ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私のキラーズ『レーヴァテイン』を\nもっていたひとの\nだんなさんはだれ…？\n\n# se \"SE_0734\"\n# select \"クルト\" \"select_label_1\" \"スルト\" \"select_label_2\" \"タルト\" \"select_label_3\"\n私のキラーズ『レーヴァテイン』を\nもっていたひとの\nだんなさんはだれ…？\n"
+	},
+	{
+		"ID": 5726,
+		"unitID": 2100241,
+		"questionID": 49100204,
+		"script": ";;ヴィゾーヴニル,1\n# textflame 1 1\n# face %(unit_a)s \"angry\"\n# voice 210024 \"revatein_lo_0002\"\n@レーヴァテイン\nねぇ、つかれた\n\n@レーヴァテイン\nもうちょっと\nゆっくりあるいて\n\n# textflame 0 0\n@\n機嫌を損ねちゃったかな？\nマスターが心配に思った時、\n彼女が呟いた\n\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 210024 \"revatein_lo_0027\"\n@レーヴァテイン\nもっとちゃんと、\n私のことみてないと\nダメなんだから\n\n@レーヴァテイン\nちゃんとみてるか…、\nいまからクイズをだして\nためしてみるわ\n\n@レーヴァテイン\nいい？いくよ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私のキラーズ『レーヴァテイン』で\nたおすことができるのは？\n\n# se \"SE_0734\"\n# select \"ヴィゾーヴニル\" \"select_label_1\" \"悪魔\" \"select_label_2\" \"神\" \"select_label_3\"\n私のキラーズ『レーヴァテイン』で\nたおすことができるのは？\n"
+	},
+	{
+		"ID": 5727,
+		"unitID": 2100241,
+		"questionID": 49100205,
+		"script": ";;巨人,3\n# textflame 1 1\n# face %(unit_a)s \"angry\"\n# voice 210024 \"revatein_lo_0002\"\n@レーヴァテイン\nねぇ、つかれた\n\n@レーヴァテイン\nもうちょっと\nゆっくりあるいて\n\n# textflame 0 0\n@\n機嫌を損ねちゃったかな？\nマスターが心配に思った時、\n彼女が呟いた\n\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 210024 \"revatein_lo_0027\"\n@レーヴァテイン\nもっとちゃんと、\n私のことみてないと\nダメなんだから\n\n@レーヴァテイン\nちゃんとみてるか…、\nいまからクイズをだして\nためしてみるわ\n\n@レーヴァテイン\nいい？いくよ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私のキラーズ『レーヴァテイン』を\nもっていたシンモラの\nだんなさんのしゅぞくはなに？\n\n# se \"SE_0734\"\n# select \"亜人\" \"select_label_1\" \"小人\" \"select_label_2\" \"巨人\" \"select_label_3\"\n私のキラーズ『レーヴァテイン』を\nもっていたシンモラの\nだんなさんのしゅぞくはなに？\n"
+	},
+	{
+		"ID": 5728,
+		"unitID": 2100241,
+		"questionID": 49100206,
+		"script": ";;北欧神話群,1\n# textflame 1 1\n# face %(unit_a)s \"angry\"\n# voice 210024 \"revatein_lo_0002\"\n@レーヴァテイン\nねぇ、つかれた\n\n@レーヴァテイン\nもうちょっと\nゆっくりあるいて\n\n# textflame 0 0\n@\n機嫌を損ねちゃったかな？\nマスターが心配に思った時、\n彼女が呟いた\n\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 210024 \"revatein_lo_0027\"\n@レーヴァテイン\nもっとちゃんと、\n私のことみてないと\nダメなんだから\n\n@レーヴァテイン\nちゃんとみてるか…、\nいまからクイズをだして\nためしてみるわ\n\n@レーヴァテイン\nいい？いくよ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私のキラーズ『レーヴァテイン』は\nどんなおはなしにとうじょうする？\n\n# se \"SE_0734\"\n# select \"北欧神話群\" \"select_label_1\" \"ケルト神話群\" \"select_label_2\" \"フィンランド神話群\" \"select_label_3\"\n私のキラーズ『レーヴァテイン』は\nどんなおはなしにとうじょうする？\n"
+	},
+	{
+		"ID": 5729,
+		"unitID": 2100241,
+		"questionID": 49100207,
+		"script": ";;世界樹の頂,3\n# textflame 1 1\n# face %(unit_a)s \"angry\"\n# voice 210024 \"revatein_lo_0002\"\n@レーヴァテイン\nねぇ、つかれた\n\n@レーヴァテイン\nもうちょっと\nゆっくりあるいて\n\n# textflame 0 0\n@\n機嫌を損ねちゃったかな？\nマスターが心配に思った時、\n彼女が呟いた\n\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 210024 \"revatein_lo_0027\"\n@レーヴァテイン\nもっとちゃんと、\n私のことみてないと\nダメなんだから\n\n@レーヴァテイン\nちゃんとみてるか…、\nいまからクイズをだして\nためしてみるわ\n\n@レーヴァテイン\nいい？いくよ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私のキラーズ『レーヴァテイン』で\nたおせる『ヴィゾーヴニル』って\nどこにいる？\n\n# se \"SE_0734\"\n# select \"地中のコア\" \"select_label_1\" \"埼玉県\" \"select_label_2\" \"世界樹の頂\" \"select_label_3\"\n私のキラーズ『レーヴァテイン』で\nたおせる『ヴィゾーヴニル』って\nどこにいる？\n"
+	},
+	{
+		"ID": 5730,
+		"unitID": 2100241,
+		"questionID": 49100208,
+		"script": ";;雄鶏,3\n# textflame 1 1\n# face %(unit_a)s \"angry\"\n# voice 210024 \"revatein_lo_0002\"\n@レーヴァテイン\nねぇ、つかれた\n\n@レーヴァテイン\nもうちょっと\nゆっくりあるいて\n\n# textflame 0 0\n@\n機嫌を損ねちゃったかな？\nマスターが心配に思った時、\n彼女が呟いた\n\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 210024 \"revatein_lo_0027\"\n@レーヴァテイン\nもっとちゃんと、\n私のことみてないと\nダメなんだから\n\n@レーヴァテイン\nちゃんとみてるか…、\nいまからクイズをだして\nためしてみるわ\n\n@レーヴァテイン\nいい？いくよ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私のキラーズ『レーヴァテイン』で\nたおせる『ヴィゾーヴニル』は\nどんなどうぶつ？\n\n# se \"SE_0734\"\n# select \"雌鶏\" \"select_label_1\" \"比内地鶏\" \"select_label_2\" \"雄鶏\" \"select_label_3\"\n私のキラーズ『レーヴァテイン』で\nたおせる『ヴィゾーヴニル』は\nどんなどうぶつ？\n"
+	},
+	{
+		"ID": 5731,
+		"unitID": 2100241,
+		"questionID": 49100209,
+		"script": ";;焼き尽くされた,2\n# textflame 1 1\n# face %(unit_a)s \"angry\"\n# voice 210024 \"revatein_lo_0002\"\n@レーヴァテイン\nねぇ、つかれた\n\n@レーヴァテイン\nもうちょっと\nゆっくりあるいて\n\n# textflame 0 0\n@\n機嫌を損ねちゃったかな？\nマスターが心配に思った時、\n彼女が呟いた\n\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 210024 \"revatein_lo_0027\"\n@レーヴァテイン\nもっとちゃんと、\n私のことみてないと\nダメなんだから\n\n@レーヴァテイン\nちゃんとみてるか…、\nいまからクイズをだして\nためしてみるわ\n\n@レーヴァテイン\nいい？いくよ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私のキラーズ『レーヴァテイン』を\nスルトがつかったことでせかいは\nどうなったかしってる？\n\n# se \"SE_0734\"\n# select \"緑に包まれた\" \"select_label_1\" \"焼き尽くされた\" \"select_label_2\" \"温泉天国になった\" \"select_label_3\"\n私のキラーズ『レーヴァテイン』を\nスルトがつかったことでせかいは\nどうなったかしってる？\n"
+	},
+	{
+		"ID": 5732,
+		"unitID": 2100241,
+		"questionID": 49100210,
+		"script": ";;ロキ,1\n# textflame 1 1\n# face %(unit_a)s \"angry\"\n# voice 210024 \"revatein_lo_0002\"\n@レーヴァテイン\nねぇ、つかれた\n\n@レーヴァテイン\nもうちょっと\nゆっくりあるいて\n\n# textflame 0 0\n@\n機嫌を損ねちゃったかな？\nマスターが心配に思った時、\n彼女が呟いた\n\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 210024 \"revatein_lo_0027\"\n@レーヴァテイン\nもっとちゃんと、\n私のことみてないと\nダメなんだから\n\n@レーヴァテイン\nちゃんとみてるか…、\nいまからクイズをだして\nためしてみるわ\n\n@レーヴァテイン\nいい？いくよ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私のキラーズ『レーヴァテイン』を\nきたえたひとのなまえはわかる？\n\n# se \"SE_0734\"\n# select \"ロキ\" \"select_label_1\" \"サキ\" \"select_label_2\" \"キキ\" \"select_label_3\"\n私のキラーズ『レーヴァテイン』を\nきたえたひとのなまえはわかる？\n"
+	},
+	{
+		"ID": 5733,
+		"unitID": 2100241,
+		"questionID": 49100211,
+		"script": ";;雷,2\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 210024 \"revatein_lo_kyara_1001\"\n@レーヴァテイン\nふあ～\n\n@レーヴァテイン\nねむくなってきた…\nきょうは\nたくさんあそんだから\n\n# voice 210024 \"revatein_lo_0001\"\n@レーヴァテイン\nねぇ、マスター\n\n@レーヴァテイン\nせなかかして\n\n# textflame 0 0\n@\nどうやら、おんぶして欲しいようだ\n\n# textflame 1 1\n# voice 210024 \"revatein_lo_0028\"\n@レーヴァテイン\nでも、ただで\nかりるのはわるいから\n\n@レーヴァテイン\nいまから私が\nだすクイズに\nせいかいできなかったらいい？\n\n@レーヴァテイン\nじゃ、いくよ\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私のぞくせいは？\n\n# se \"SE_0734\"\n# select \"闇\" \"select_label_1\" \"雷\" \"select_label_2\" \"光\" \"select_label_3\"\n私のぞくせいは？\n"
+	},
+	{
+		"ID": 5734,
+		"unitID": 2100241,
+		"questionID": 49100212,
+		"script": ";;9月9日,1\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 210024 \"revatein_lo_kyara_1001\"\n@レーヴァテイン\nふあ～\n\n@レーヴァテイン\nねむくなってきた…\nきょうは\nたくさんあそんだから\n\n# voice 210024 \"revatein_lo_0001\"\n@レーヴァテイン\nねぇ、マスター\n\n@レーヴァテイン\nせなかかして\n\n# textflame 0 0\n@\nどうやら、おんぶして欲しいようだ\n\n# textflame 1 1\n# voice 210024 \"revatein_lo_0028\"\n@レーヴァテイン\nでも、ただで\nかりるのはわるいから\n\n@レーヴァテイン\nいまから私が\nだすクイズに\nせいかいできなかったらいい？\n\n@レーヴァテイン\nじゃ、いくよ\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私のたんじょうびおぼえてる？\n\n# se \"SE_0734\"\n# select \"9月9日\" \"select_label_1\" \"8月9日\" \"select_label_2\" \"11月9日\" \"select_label_3\"\n私のたんじょうびおぼえてる？\n"
+	},
+	{
+		"ID": 5735,
+		"unitID": 2100241,
+		"questionID": 49100213,
+		"script": ";;おとめ座,3\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 210024 \"revatein_lo_kyara_1001\"\n@レーヴァテイン\nふあ～\n\n@レーヴァテイン\nねむくなってきた…\nきょうは\nたくさんあそんだから\n\n# voice 210024 \"revatein_lo_0001\"\n@レーヴァテイン\nねぇ、マスター\n\n@レーヴァテイン\nせなかかして\n\n# textflame 0 0\n@\nどうやら、おんぶして欲しいようだ\n\n# textflame 1 1\n# voice 210024 \"revatein_lo_0028\"\n@レーヴァテイン\nでも、ただで\nかりるのはわるいから\n\n@レーヴァテイン\nいまから私が\nだすクイズに\nせいかいできなかったらいい？\n\n@レーヴァテイン\nじゃ、いくよ\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私のせいざは？\n\n# se \"SE_0734\"\n# select \"てんびん座\" \"select_label_1\" \"さそり座\" \"select_label_2\" \"おとめ座\" \"select_label_3\"\n私のせいざは？\n"
+	},
+	{
+		"ID": 5736,
+		"unitID": 2100241,
+		"questionID": 49100214,
+		"script": ";;無理難題で右往左往する人を眺める,2\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 210024 \"revatein_lo_kyara_1001\"\n@レーヴァテイン\nふあ～\n\n@レーヴァテイン\nねむくなってきた…\nきょうは\nたくさんあそんだから\n\n# voice 210024 \"revatein_lo_0001\"\n@レーヴァテイン\nねぇ、マスター\n\n@レーヴァテイン\nせなかかして\n\n# textflame 0 0\n@\nどうやら、おんぶして欲しいようだ\n\n# textflame 1 1\n# voice 210024 \"revatein_lo_0028\"\n@レーヴァテイン\nでも、ただで\nかりるのはわるいから\n\n@レーヴァテイン\nいまから私が\nだすクイズに\nせいかいできなかったらいい？\n\n@レーヴァテイン\nじゃ、いくよ\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私はこれだね、これ\n\n# se \"SE_0734\"\n# select \"女子会\" \"select_label_1\" \"無理難題で右往左往する人を眺める\" \"select_label_2\" \"パン\" \"select_label_3\"\n私はこれだね、これ\n"
+	},
+	{
+		"ID": 5737,
+		"unitID": 2100241,
+		"questionID": 49100215,
+		"script": ";;やる気,1\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 210024 \"revatein_lo_kyara_1001\"\n@レーヴァテイン\nふあ～\n\n@レーヴァテイン\nねむくなってきた…\nきょうは\nたくさんあそんだから\n\n# voice 210024 \"revatein_lo_0001\"\n@レーヴァテイン\nねぇ、マスター\n\n@レーヴァテイン\nせなかかして\n\n# textflame 0 0\n@\nどうやら、おんぶして欲しいようだ\n\n# textflame 1 1\n# voice 210024 \"revatein_lo_0028\"\n@レーヴァテイン\nでも、ただで\nかりるのはわるいから\n\n@レーヴァテイン\nいまから私が\nだすクイズに\nせいかいできなかったらいい？\n\n@レーヴァテイン\nじゃ、いくよ\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私はこれ、\nあんまりすきじゃない…\n\n# se \"SE_0734\"\n# select \"やる気\" \"select_label_1\" \"色気\" \"select_label_2\" \"お金\" \"select_label_3\"\n私はこれ、\nあんまりすきじゃない…\n"
+	},
+	{
+		"ID": 5738,
+		"unitID": 2100241,
+		"questionID": 49100216,
+		"script": ";;Ｂ,3\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 210024 \"revatein_lo_kyara_1001\"\n@レーヴァテイン\nふあ～\n\n@レーヴァテイン\nねむくなってきた…\nきょうは\nたくさんあそんだから\n\n# voice 210024 \"revatein_lo_0001\"\n@レーヴァテイン\nねぇ、マスター\n\n@レーヴァテイン\nせなかかして\n\n# textflame 0 0\n@\nどうやら、おんぶして欲しいようだ\n\n# textflame 1 1\n# voice 210024 \"revatein_lo_0028\"\n@レーヴァテイン\nでも、ただで\nかりるのはわるいから\n\n@レーヴァテイン\nいまから私が\nだすクイズに\nせいかいできなかったらいい？\n\n@レーヴァテイン\nじゃ、いくよ\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私のけつえきがた、しってる？\n\n# se \"SE_0734\"\n# select \"Ａ\" \"select_label_1\" \"Ｏ\" \"select_label_2\" \"Ｂ\" \"select_label_3\"\n私のけつえきがた、しってる？\n"
+	},
+	{
+		"ID": 5739,
+		"unitID": 2100241,
+		"questionID": 49100217,
+		"script": ";;ムスペルヘイム,1\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 210024 \"revatein_lo_kyara_1001\"\n@レーヴァテイン\nふあ～\n\n@レーヴァテイン\nねむくなってきた…\nきょうは\nたくさんあそんだから\n\n# voice 210024 \"revatein_lo_0001\"\n@レーヴァテイン\nねぇ、マスター\n\n@レーヴァテイン\nせなかかして\n\n# textflame 0 0\n@\nどうやら、おんぶして欲しいようだ\n\n# textflame 1 1\n# voice 210024 \"revatein_lo_0028\"\n@レーヴァテイン\nでも、ただで\nかりるのはわるいから\n\n@レーヴァテイン\nいまから私が\nだすクイズに\nせいかいできなかったらいい？\n\n@レーヴァテイン\nじゃ、いくよ\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私のしゅっしんち、わかる？\n\n# se \"SE_0734\"\n# select \"ムスペルヘイム\" \"select_label_1\" \"ハンブルグ\" \"select_label_2\" \"京都\" \"select_label_3\"\n私のしゅっしんち、わかる？\n"
+	},
+	{
+		"ID": 5740,
+		"unitID": 2100241,
+		"questionID": 49100218,
+		"script": ";;お昼寝,3\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 210024 \"revatein_lo_kyara_1001\"\n@レーヴァテイン\nふあ～\n\n@レーヴァテイン\nねむくなってきた…\nきょうは\nたくさんあそんだから\n\n# voice 210024 \"revatein_lo_0001\"\n@レーヴァテイン\nねぇ、マスター\n\n@レーヴァテイン\nせなかかして\n\n# textflame 0 0\n@\nどうやら、おんぶして欲しいようだ\n\n# textflame 1 1\n# voice 210024 \"revatein_lo_0028\"\n@レーヴァテイン\nでも、ただで\nかりるのはわるいから\n\n@レーヴァテイン\nいまから私が\nだすクイズに\nせいかいできなかったらいい？\n\n@レーヴァテイン\nじゃ、いくよ\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私のしゅみは…\n\n# se \"SE_0734\"\n# select \"草野球\" \"select_label_1\" \"水泳\" \"select_label_2\" \"お昼寝\" \"select_label_3\"\n私のしゅみは…\n"
+	},
+	{
+		"ID": 5741,
+		"unitID": 2100241,
+		"questionID": 49100219,
+		"script": ";;nap,3\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 210024 \"revatein_lo_kyara_1001\"\n@レーヴァテイン\nふあ～\n\n@レーヴァテイン\nねむくなってきた…\nきょうは\nたくさんあそんだから\n\n# voice 210024 \"revatein_lo_0001\"\n@レーヴァテイン\nねぇ、マスター\n\n@レーヴァテイン\nせなかかして\n\n# textflame 0 0\n@\nどうやら、おんぶして欲しいようだ\n\n# textflame 1 1\n# voice 210024 \"revatein_lo_0028\"\n@レーヴァテイン\nでも、ただで\nかりるのはわるいから\n\n@レーヴァテイン\nいまから私が\nだすクイズに\nせいかいできなかったらいい？\n\n@レーヴァテイン\nじゃ、いくよ\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私、おひるねすきなんだけど、\nおひるねってえいごでなんていうの？\n\n# se \"SE_0734\"\n# select \"sleep\" \"select_label_1\" \"sheep\" \"select_label_2\" \"nap\" \"select_label_3\"\n私、おひるねすきなんだけど、\nおひるねってえいごでなんていうの？\n"
+	},
+	{
+		"ID": 5742,
+		"unitID": 2100241,
+		"questionID": 49100220,
+		"script": ";;黒式・獄雷鎖,1\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 210024 \"revatein_lo_0001\"\n@レーヴァテイン\n……マスターだけだよね？\n\n@レーヴァテイン\n私にかまうのって\n\n# voice 210024 \"revatein_lo_0002\"\n@レーヴァテイン\nねぇ、なんで\nそんなにかまうの？\n\n@レーヴァテイン\n私のことしりたいから？\n\n# voice 210024 \"revatein_lo_0039\"\n@レーヴァテイン\nじゃあ\nどんだけしってるか…\nためしてあげよっか？\n\n@レーヴァテイン\n私がだすクイズに\nこたえられる…？\n\n@レーヴァテイン\nそれじゃ、いくよ\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私のブラックキラーズの\nデュエルスキルはなに？\n\n# se \"SE_0734\"\n# select \"黒式・獄雷鎖\" \"select_label_1\" \"青式・獄雷鎖\" \"select_label_2\" \"白式・獄雷鎖\" \"select_label_3\"\n私のブラックキラーズの\nデュエルスキルはなに？\n"
+	},
+	{
+		"ID": 5743,
+		"unitID": 2100241,
+		"questionID": 49100221,
+		"script": ";;剣神,3\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 210024 \"revatein_lo_0001\"\n@レーヴァテイン\n……マスターだけだよね？\n\n@レーヴァテイン\n私にかまうのって\n\n# voice 210024 \"revatein_lo_0002\"\n@レーヴァテイン\nねぇ、なんで\nそんなにかまうの？\n\n@レーヴァテイン\n私のことしりたいから？\n\n# voice 210024 \"revatein_lo_0039\"\n@レーヴァテイン\nじゃあ\nどんだけしってるか…\nためしてあげよっか？\n\n@レーヴァテイン\n私がだすクイズに\nこたえられる…？\n\n@レーヴァテイン\nそれじゃ、いくよ\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の☆６のジョブめい、わかる？\n\n# se \"SE_0734\"\n# select \"剣女\" \"select_label_1\" \"剣魔王\" \"select_label_2\" \"剣神\" \"select_label_3\"\n私の☆６のジョブめい、わかる？\n"
+	},
+	{
+		"ID": 5744,
+		"unitID": 2100241,
+		"questionID": 49100222,
+		"script": ";;憎んでいる,2\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 210024 \"revatein_lo_0001\"\n@レーヴァテイン\n……マスターだけだよね？\n\n@レーヴァテイン\n私にかまうのって\n\n# voice 210024 \"revatein_lo_0002\"\n@レーヴァテイン\nねぇ、なんで\nそんなにかまうの？\n\n@レーヴァテイン\n私のことしりたいから？\n\n# voice 210024 \"revatein_lo_0039\"\n@レーヴァテイン\nじゃあ\nどんだけしってるか…\nためしてあげよっか？\n\n@レーヴァテイン\n私がだすクイズに\nこたえられる…？\n\n@レーヴァテイン\nそれじゃ、いくよ\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私は、私のちからを\nどうおもってる？\n\n# se \"SE_0734\"\n# select \"誇らしく思っている\" \"select_label_1\" \"憎んでいる\" \"select_label_2\" \"嬉しく思っている\" \"select_label_3\"\n私は、私のちからを\nどうおもってる？\n"
+	},
+	{
+		"ID": 5745,
+		"unitID": 2100241,
+		"questionID": 49100223,
+		"script": ";;大剣神の極意,2\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 210024 \"revatein_lo_0001\"\n@レーヴァテイン\n……マスターだけだよね？\n\n@レーヴァテイン\n私にかまうのって\n\n# voice 210024 \"revatein_lo_0002\"\n@レーヴァテイン\nねぇ、なんで\nそんなにかまうの？\n\n@レーヴァテイン\n私のことしりたいから？\n\n# voice 210024 \"revatein_lo_0039\"\n@レーヴァテイン\nじゃあ\nどんだけしってるか…\nためしてあげよっか？\n\n@レーヴァテイン\n私がだすクイズに\nこたえられる…？\n\n@レーヴァテイン\nそれじゃ、いくよ\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の☆６の\nリーダースキルわかる？\n\n# se \"SE_0734\"\n# select \"大剣神の決意\" \"select_label_1\" \"大剣神の極意\" \"select_label_2\" \"大剣神の極道\" \"select_label_3\"\n私の☆６の\nリーダースキルわかる？\n"
+	},
+	{
+		"ID": 5746,
+		"unitID": 2100241,
+		"questionID": 49100224,
+		"script": ";;急襲,1\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 210024 \"revatein_lo_0001\"\n@レーヴァテイン\n……マスターだけだよね？\n\n@レーヴァテイン\n私にかまうのって\n\n# voice 210024 \"revatein_lo_0002\"\n@レーヴァテイン\nねぇ、なんで\nそんなにかまうの？\n\n@レーヴァテイン\n私のことしりたいから？\n\n# voice 210024 \"revatein_lo_0039\"\n@レーヴァテイン\nじゃあ\nどんだけしってるか…\nためしてあげよっか？\n\n@レーヴァテイン\n私がだすクイズに\nこたえられる…？\n\n@レーヴァテイン\nそれじゃ、いくよ\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私がおぼえる\nデュエルスキルってわかる？\n\n# se \"SE_0734\"\n# select \"急襲\" \"select_label_1\" \"九州\" \"select_label_2\" \"吸収\" \"select_label_3\"\n私がおぼえる\nデュエルスキルってわかる？\n"
+	},
+	{
+		"ID": 5747,
+		"unitID": 2100241,
+		"questionID": 49100225,
+		"script": ";;束縛されること,1\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 210024 \"revatein_lo_0001\"\n@レーヴァテイン\n……マスターだけだよね？\n\n@レーヴァテイン\n私にかまうのって\n\n# voice 210024 \"revatein_lo_0002\"\n@レーヴァテイン\nねぇ、なんで\nそんなにかまうの？\n\n@レーヴァテイン\n私のことしりたいから？\n\n# voice 210024 \"revatein_lo_0039\"\n@レーヴァテイン\nじゃあ\nどんだけしってるか…\nためしてあげよっか？\n\n@レーヴァテイン\n私がだすクイズに\nこたえられる…？\n\n@レーヴァテイン\nそれじゃ、いくよ\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私はこれ、\nだいっきらい…\n\n# se \"SE_0734\"\n# select \"束縛されること\" \"select_label_1\" \"放置されること\" \"select_label_2\" \"静かにされること\" \"select_label_3\"\n私はこれ、\nだいっきらい…\n"
+	},
+	{
+		"ID": 5748,
+		"unitID": 2100241,
+		"questionID": 49100226,
+		"script": ";;無傷の戦舞,2\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 210024 \"revatein_lo_0001\"\n@レーヴァテイン\n……マスターだけだよね？\n\n@レーヴァテイン\n私にかまうのって\n\n# voice 210024 \"revatein_lo_0002\"\n@レーヴァテイン\nねぇ、なんで\nそんなにかまうの？\n\n@レーヴァテイン\n私のことしりたいから？\n\n# voice 210024 \"revatein_lo_0039\"\n@レーヴァテイン\nじゃあ\nどんだけしってるか…\nためしてあげよっか？\n\n@レーヴァテイン\n私がだすクイズに\nこたえられる…？\n\n@レーヴァテイン\nそれじゃ、いくよ\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私がおぼえる\nふよスキルってわかる？\n\n# se \"SE_0734\"\n# select \"無傷の専務\" \"select_label_1\" \"無傷の戦舞\" \"select_label_2\" \"無傷の乱舞\" \"select_label_3\"\n私がおぼえる\nふよスキルってわかる？\n"
+	},
+	{
+		"ID": 5749,
+		"unitID": 2100241,
+		"questionID": 49100227,
+		"script": ";;みんないるし！,2\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 210024 \"revatein_lo_0001\"\n@レーヴァテイン\n……マスターだけだよね？\n\n@レーヴァテイン\n私にかまうのって\n\n# voice 210024 \"revatein_lo_0002\"\n@レーヴァテイン\nねぇ、なんで\nそんなにかまうの？\n\n@レーヴァテイン\n私のことしりたいから？\n\n# voice 210024 \"revatein_lo_0039\"\n@レーヴァテイン\nじゃあ\nどんだけしってるか…\nためしてあげよっか？\n\n@レーヴァテイン\n私がだすクイズに\nこたえられる…？\n\n@レーヴァテイン\nそれじゃ、いくよ\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私のスキル、おぼえてる？\n\n# se \"SE_0734\"\n# select \"みんなうるし！\" \"select_label_1\" \"みんないるし！\" \"select_label_2\" \"みんなおるし！\" \"select_label_3\"\n私のスキル、おぼえてる？\n"
+	},
+	{
+		"ID": 5750,
+		"unitID": 2100241,
+		"questionID": 49100228,
+		"script": ";;一人じゃないし！,1\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 210024 \"revatein_lo_0001\"\n@レーヴァテイン\n……マスターだけだよね？\n\n@レーヴァテイン\n私にかまうのって\n\n# voice 210024 \"revatein_lo_0002\"\n@レーヴァテイン\nねぇ、なんで\nそんなにかまうの？\n\n@レーヴァテイン\n私のことしりたいから？\n\n# voice 210024 \"revatein_lo_0039\"\n@レーヴァテイン\nじゃあ\nどんだけしってるか…\nためしてあげよっか？\n\n@レーヴァテイン\n私がだすクイズに\nこたえられる…？\n\n@レーヴァテイン\nそれじゃ、いくよ\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私のスキル、おぼえてる？\n\n# se \"SE_0734\"\n# select \"一人じゃないし！\" \"select_label_1\" \"一人はいやだし！\" \"select_label_2\" \"一人だとさびしいし！\" \"select_label_3\"\n私のスキル、おぼえてる？\n"
+	},
+	{
+		"ID": 5751,
+		"unitID": 2100241,
+		"questionID": 49100229,
+		"script": ";;グングニル,1\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 210024 \"revatein_lo_0001\"\n@レーヴァテイン\n……マスターだけだよね？\n\n@レーヴァテイン\n私にかまうのって\n\n# voice 210024 \"revatein_lo_0002\"\n@レーヴァテイン\nねぇ、なんで\nそんなにかまうの？\n\n@レーヴァテイン\n私のことしりたいから？\n\n# voice 210024 \"revatein_lo_0039\"\n@レーヴァテイン\nじゃあ\nどんだけしってるか…\nためしてあげよっか？\n\n@レーヴァテイン\n私がだすクイズに\nこたえられる…？\n\n@レーヴァテイン\nそれじゃ、いくよ\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私、この子とは\nなかよくできないかも\n\n# se \"SE_0734\"\n# select \"グングニル\" \"select_label_1\" \"アスカロン\" \"select_label_2\" \"マサムネ\" \"select_label_3\"\n私、この子とは\nなかよくできないかも\n"
+	},
+	{
+		"ID": 5752,
+		"unitID": 2100241,
+		"questionID": 49100230,
+		"script": ";;ミョルニル,3\n# textflame 1 1\n# face %(unit_a)s \"surprise\"\n# voice 210024 \"revatein_lo_kyara_1001\"\n@レーヴァテイン\nふわ～\n\n# textflame 0 0\n@\n一日中遊んで、疲れたのだろう\n\n@\nつい油断してしまったのか…\n\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 210024 \"revatein_lo_0002\"\n@レーヴァテイン\nねぇ、にいさん\n\n# textflame 0 0\n@\nにいさん？\nマスターが聞き返す\n\n# textflame 1 1\n@レーヴァテイン\nじゃなかった…マスター\n\n# textflame 0 0\n@\nうっかり言い間違えて、\n顔を真っ赤にして恥ずかしがる彼女\n\n# textflame 1 1\n# face %(unit_a)s \"surprise\"\n# voice 210024 \"revatein_lo_0042\"\n@レーヴァテイン\nい、いまからクイズを\nだすからこたえてね…！\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私、この子とは\nなかよくできないかも\n\n# se \"SE_0734\"\n# select \"アスカロン\" \"select_label_1\" \"マサムネ\" \"select_label_2\" \"ミョルニル\" \"select_label_3\"\n私、この子とは\nなかよくできないかも\n"
+	},
+	{
+		"ID": 5753,
+		"unitID": 2100241,
+		"questionID": 49100231,
+		"script": ";;Virgo,3\n# textflame 1 1\n# face %(unit_a)s \"surprise\"\n# voice 210024 \"revatein_lo_kyara_1001\"\n@レーヴァテイン\nふわ～\n\n# textflame 0 0\n@\n一日中遊んで、疲れたのだろう\n\n@\nつい油断してしまったのか…\n\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 210024 \"revatein_lo_0002\"\n@レーヴァテイン\nねぇ、にいさん\n\n# textflame 0 0\n@\nにいさん？\nマスターが聞き返す\n\n# textflame 1 1\n@レーヴァテイン\nじゃなかった…マスター\n\n# textflame 0 0\n@\nうっかり言い間違えて、\n顔を真っ赤にして恥ずかしがる彼女\n\n# textflame 1 1\n# face %(unit_a)s \"surprise\"\n# voice 210024 \"revatein_lo_0042\"\n@レーヴァテイン\nい、いまからクイズを\nだすからこたえてね…！\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私のせいざをえいごでいうと？\n\n# se \"SE_0734\"\n# select \"Cancer\" \"select_label_1\" \"Scorpio\" \"select_label_2\" \"Virgo\" \"select_label_3\"\n私のせいざをえいごでいうと？\n"
+	},
+	{
+		"ID": 5754,
+		"unitID": 2100241,
+		"questionID": 49100232,
+		"script": ";;September,1\n# textflame 1 1\n# face %(unit_a)s \"surprise\"\n# voice 210024 \"revatein_lo_kyara_1001\"\n@レーヴァテイン\nふわ～\n\n# textflame 0 0\n@\n一日中遊んで、疲れたのだろう\n\n@\nつい油断してしまったのか…\n\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 210024 \"revatein_lo_0002\"\n@レーヴァテイン\nねぇ、にいさん\n\n# textflame 0 0\n@\nにいさん？\nマスターが聞き返す\n\n# textflame 1 1\n@レーヴァテイン\nじゃなかった…マスター\n\n# textflame 0 0\n@\nうっかり言い間違えて、\n顔を真っ赤にして恥ずかしがる彼女\n\n# textflame 1 1\n# face %(unit_a)s \"surprise\"\n# voice 210024 \"revatein_lo_0042\"\n@レーヴァテイン\nい、いまからクイズを\nだすからこたえてね…！\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私のたんじょうびのつきを\nえいごでいうと？\n\n# se \"SE_0734\"\n# select \"September\" \"select_label_1\" \"August\" \"select_label_2\" \"June\" \"select_label_3\"\n私のたんじょうびのつきを\nえいごでいうと？\n"
+	},
+	{
+		"ID": 5755,
+		"unitID": 2100241,
+		"questionID": 49100233,
+		"script": ";;地面につくほどの長さ,1\n# textflame 1 1\n# face %(unit_a)s \"surprise\"\n# voice 210024 \"revatein_lo_kyara_1001\"\n@レーヴァテイン\nふわ～\n\n# textflame 0 0\n@\n一日中遊んで、疲れたのだろう\n\n@\nつい油断してしまったのか…\n\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 210024 \"revatein_lo_0002\"\n@レーヴァテイン\nねぇ、にいさん\n\n# textflame 0 0\n@\nにいさん？\nマスターが聞き返す\n\n# textflame 1 1\n@レーヴァテイン\nじゃなかった…マスター\n\n# textflame 0 0\n@\nうっかり言い間違えて、\n顔を真っ赤にして恥ずかしがる彼女\n\n# textflame 1 1\n# face %(unit_a)s \"surprise\"\n# voice 210024 \"revatein_lo_0042\"\n@レーヴァテイン\nい、いまからクイズを\nだすからこたえてね…！\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私のかみ\nどれくらいながい？\n\n# se \"SE_0734\"\n# select \"地面につくほどの長さ\" \"select_label_1\" \"耳が出るくらいの長さ\" \"select_label_2\" \"肩くらいの長さ\" \"select_label_3\"\n私のかみ\nどれくらいながい？\n"
+	},
+	{
+		"ID": 5756,
+		"unitID": 2100241,
+		"questionID": 49100234,
+		"script": ";;銀髪,3\n# textflame 1 1\n# face %(unit_a)s \"surprise\"\n# voice 210024 \"revatein_lo_kyara_1001\"\n@レーヴァテイン\nふわ～\n\n# textflame 0 0\n@\n一日中遊んで、疲れたのだろう\n\n@\nつい油断してしまったのか…\n\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 210024 \"revatein_lo_0002\"\n@レーヴァテイン\nねぇ、にいさん\n\n# textflame 0 0\n@\nにいさん？\nマスターが聞き返す\n\n# textflame 1 1\n@レーヴァテイン\nじゃなかった…マスター\n\n# textflame 0 0\n@\nうっかり言い間違えて、\n顔を真っ赤にして恥ずかしがる彼女\n\n# textflame 1 1\n# face %(unit_a)s \"surprise\"\n# voice 210024 \"revatein_lo_0042\"\n@レーヴァテイン\nい、いまからクイズを\nだすからこたえてね…！\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私のかみのいろは？\n\n# se \"SE_0734\"\n# select \"黒髪\" \"select_label_1\" \"緑髪\" \"select_label_2\" \"銀髪\" \"select_label_3\"\n私のかみのいろは？\n"
+	},
+	{
+		"ID": 5757,
+		"unitID": 2100241,
+		"questionID": 49100235,
+		"script": ";;カーネル・サンダース,3\n# textflame 1 1\n# face %(unit_a)s \"surprise\"\n# voice 210024 \"revatein_lo_kyara_1001\"\n@レーヴァテイン\nふわ～\n\n# textflame 0 0\n@\n一日中遊んで、疲れたのだろう\n\n@\nつい油断してしまったのか…\n\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 210024 \"revatein_lo_0002\"\n@レーヴァテイン\nねぇ、にいさん\n\n# textflame 0 0\n@\nにいさん？\nマスターが聞き返す\n\n# textflame 1 1\n@レーヴァテイン\nじゃなかった…マスター\n\n# textflame 0 0\n@\nうっかり言い間違えて、\n顔を真っ赤にして恥ずかしがる彼女\n\n# textflame 1 1\n# face %(unit_a)s \"surprise\"\n# voice 210024 \"revatein_lo_0042\"\n@レーヴァテイン\nい、いまからクイズを\nだすからこたえてね…！\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私のたんじょうびと\nいっしょの日にうまれた人は…？\n\n# se \"SE_0734\"\n# select \"トーマス・エジソン\" \"select_label_1\" \"ナポレオン\" \"select_label_2\" \"カーネル・サンダース\" \"select_label_3\"\n私のたんじょうびと\nいっしょの日にうまれた人は…？\n"
+	},
+	{
+		"ID": 5758,
+		"unitID": 2100241,
+		"questionID": 49100236,
+		"script": ";;壊れやすい存在,3\n# textflame 1 1\n# face %(unit_a)s \"surprise\"\n# voice 210024 \"revatein_lo_kyara_1001\"\n@レーヴァテイン\nふわ～\n\n# textflame 0 0\n@\n一日中遊んで、疲れたのだろう\n\n@\nつい油断してしまったのか…\n\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 210024 \"revatein_lo_0002\"\n@レーヴァテイン\nねぇ、にいさん\n\n# textflame 0 0\n@\nにいさん？\nマスターが聞き返す\n\n# textflame 1 1\n@レーヴァテイン\nじゃなかった…マスター\n\n# textflame 0 0\n@\nうっかり言い間違えて、\n顔を真っ赤にして恥ずかしがる彼女\n\n# textflame 1 1\n# face %(unit_a)s \"surprise\"\n# voice 210024 \"revatein_lo_0042\"\n@レーヴァテイン\nい、いまからクイズを\nだすからこたえてね…！\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私はこういうの\nちょっとにがて…\n\n# se \"SE_0734\"\n# select \"壊れかけのラジオ\" \"select_label_1\" \"壊れにくい食器\" \"select_label_2\" \"壊れやすい存在\" \"select_label_3\"\n私はこういうの\nちょっとにがて…\n"
+	},
+	{
+		"ID": 5759,
+		"unitID": 2100241,
+		"questionID": 49100237,
+		"script": ";;グリモワール,2\n# textflame 1 1\n# face %(unit_a)s \"surprise\"\n# voice 210024 \"revatein_lo_kyara_1001\"\n@レーヴァテイン\nふわ～\n\n# textflame 0 0\n@\n一日中遊んで、疲れたのだろう\n\n@\nつい油断してしまったのか…\n\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 210024 \"revatein_lo_0002\"\n@レーヴァテイン\nねぇ、にいさん\n\n# textflame 0 0\n@\nにいさん？\nマスターが聞き返す\n\n# textflame 1 1\n@レーヴァテイン\nじゃなかった…マスター\n\n# textflame 0 0\n@\nうっかり言い間違えて、\n顔を真っ赤にして恥ずかしがる彼女\n\n# textflame 1 1\n# face %(unit_a)s \"surprise\"\n# voice 210024 \"revatein_lo_0042\"\n@レーヴァテイン\nい、いまからクイズを\nだすからこたえてね…！\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私とおなじけつえきがたなのは…？\n\n# se \"SE_0734\"\n# select \"スラーンド\" \"select_label_1\" \"グリモワール\" \"select_label_2\" \"フランキスカ\" \"select_label_3\"\n私とおなじけつえきがたなのは…？\n"
+	},
+	{
+		"ID": 5760,
+		"unitID": 2100241,
+		"questionID": 49100238,
+		"script": ";;グングニル,3\n# textflame 1 1\n# face %(unit_a)s \"surprise\"\n# voice 210024 \"revatein_lo_kyara_1001\"\n@レーヴァテイン\nふわ～\n\n# textflame 0 0\n@\n一日中遊んで、疲れたのだろう\n\n@\nつい油断してしまったのか…\n\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 210024 \"revatein_lo_0002\"\n@レーヴァテイン\nねぇ、にいさん\n\n# textflame 0 0\n@\nにいさん？\nマスターが聞き返す\n\n# textflame 1 1\n@レーヴァテイン\nじゃなかった…マスター\n\n# textflame 0 0\n@\nうっかり言い間違えて、\n顔を真っ赤にして恥ずかしがる彼女\n\n# textflame 1 1\n# face %(unit_a)s \"surprise\"\n# voice 210024 \"revatein_lo_0042\"\n@レーヴァテイン\nい、いまからクイズを\nだすからこたえてね…！\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私とちがうけつえきがたなのは…？\n\n# se \"SE_0734\"\n# select \"ピナーカ\" \"select_label_1\" \"グリモワール\" \"select_label_2\" \"グングニル\" \"select_label_3\"\n私とちがうけつえきがたなのは…？\n"
+	},
+	{
+		"ID": 5761,
+		"unitID": 2100241,
+		"questionID": 49100239,
+		"script": ";;オティヌス,2\n# textflame 1 1\n# face %(unit_a)s \"surprise\"\n# voice 210024 \"revatein_lo_kyara_1001\"\n@レーヴァテイン\nふわ～\n\n# textflame 0 0\n@\n一日中遊んで、疲れたのだろう\n\n@\nつい油断してしまったのか…\n\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 210024 \"revatein_lo_0002\"\n@レーヴァテイン\nねぇ、にいさん\n\n# textflame 0 0\n@\nにいさん？\nマスターが聞き返す\n\n# textflame 1 1\n@レーヴァテイン\nじゃなかった…マスター\n\n# textflame 0 0\n@\nうっかり言い間違えて、\n顔を真っ赤にして恥ずかしがる彼女\n\n# textflame 1 1\n# face %(unit_a)s \"surprise\"\n# voice 210024 \"revatein_lo_0042\"\n@レーヴァテイン\nい、いまからクイズを\nだすからこたえてね…！\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私とおなじたんじょうびのつき\nなのはだれ？\n\n# se \"SE_0734\"\n# select \"ティルフィング\" \"select_label_1\" \"オティヌス\" \"select_label_2\" \"ウコンバサラ\" \"select_label_3\"\n私とおなじたんじょうびのつき\nなのはだれ？\n"
+	},
+	{
+		"ID": 5762,
+		"unitID": 2100241,
+		"questionID": 49100240,
+		"script": "\n;;私,1\n# se \"SE_0734\"\n# select \"私\" \"select_label_1\" \"ミー\" \"select_label_2\" \"オレ\" \"select_label_3\"\nレーヴァテインの一人称は\n次のうちどれ？\n"
+	},
+	{
+		"ID": 5763,
+		"unitID": 2100241,
+		"questionID": 49100241,
+		"script": "\n;;マスター,1\n# se \"SE_0734\"\n# select \"マスター\" \"select_label_1\" \"ご主人\" \"select_label_2\" \"キミ\" \"select_label_3\"\nレーヴァテインはアンタのこと、\nなんて呼んでる？\n"
+	},
+	{
+		"ID": 5764,
+		"unitID": 2100241,
+		"questionID": 49100242,
+		"script": "\n;;水色,1\n# se \"SE_0734\"\n# select \"水色\" \"select_label_1\" \"赤色\" \"select_label_2\" \"黄色\" \"select_label_3\"\nレーヴァテインの水着の色は\n次のうちどれ？\n"
+	},
+	{
+		"ID": 5765,
+		"unitID": 2100241,
+		"questionID": 49100243,
+		"script": "\n;;殿堂入り,3\n# se \"SE_0734\"\n# select \"1\" \"select_label_1\" \"2\" \"select_label_2\" \"殿堂入り\" \"select_label_3\"\nレーヴァテインは\n第２回人気投票で\n何位だったでしょう？\n"
+	},
+	{
+		"ID": 5766,
+		"unitID": 2100241,
+		"questionID": 49100244,
+		"script": "\n;;ゆかな,3\n# se \"SE_0734\"\n# select \"下田屋有依\" \"select_label_1\" \"井上麻里奈\" \"select_label_2\" \"ゆかな\" \"select_label_3\"\nレーヴァテインの声優は誰？\n"
+	}
+]

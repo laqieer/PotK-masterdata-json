@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 2000122,
+		"script": ";;A\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_shipboard\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 5200011 \"aegis_c_0003\"\n@イージス\nそ、そうだな…！\n何も無理をすることはない\n\n@イージス\n変に気負わず、いつも通りの\n私達でいればいいのだ\n\n# face %(unit_a)s \"normal\"\n@イージス\nというわけで、お腹が減った！\n船内のレストランに行こう！\n\n# face %(unit_a)s \"shy\"\n# voice 5200011 \"aegis_c_0005\"\n@イージス\n隊長はどんな料理が好きなんだ？\n私はなぁ…フフフ♪\n\n# textflame 0 0\n@\nそれからしばらく\n食事をしながら過ごす二人\n\n# textflame 0 0\n@\nその途中、イージスが\nあることに気づく\n\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 5200011 \"aegis_c_0002\"\n@イージス\nなぁ…なんだか皆、\n私達のことを見ていないか？\n\n# eye %(unit_a)s \"close\"\n@イージス\n本で読んだ男女のように\n過ごしているだけなのに…\n不思議だな\n\n# eye %(unit_a)s \"normal\"\n@イージス\nほら隊長、あーん\n\n# face %(unit_a)s \"shy\"\n# voice 5200011 \"aegis_c_0005\"\n@イージス\n美味しいか？\nふふ、ならよかった\n\n@イージス\nそちらのも食べたいな\n一口くれないか？\n\n# voice 5200011 \"aegis_c_0015\"\n@イージス\nあ～…ん？\nやっぱり皆、\nこちらを見ているぞ\n\n# face %(unit_a)s \"sad\"\n@イージス\nやはり何かおかしいのか？\n地上の常識は\nよくわからないな…\n\n# textflame 0 0\n@\nそ、そうだね…と答えながら、\nマスターはスプーンを差し出した\n\n# textflame 0 0\n@\nそれが恋人どうしの\n定番の仕草であることを、\n最後まで教えられないまま…\n;;-----------------------------------------\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

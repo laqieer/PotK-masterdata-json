@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 272019113,
+		"script": ";;----------------------------------------\n;;【PUNK】3タイトルコラボ2019_シナリオ深浦_190515\n;;・メインタイトル\n;;「誰かの姫など忍びない」\n;;・サブタイトル\n;;「普通の恋は絶えず雪」\n;;----------------------------------------\n# bgmfile \"bgm272\" \"BgmLostRagnarokEvent\" 0\n# background \"plain\"\n;;----------------------------------------\n;;アルマス\n# body 138\n# pos 138 3\n# scale 138 0.8 0\n# layer 138 3\n# alpha 138 0 0\n;;----------------------------------------\n;;演出：粉雪がちらついている\n# envbody 1002 2 0\n# effectpattern 1002 2 0\n# effectstart 1002\n# move 138 3 0\n# mask 138 off\n# alpha 138 1 0\n# face 138 \"normal\"\n# voice 1038 \"almace_0003\"\n# textflame 1 1\n# textboxarrow 0 2\n@アルマス\n特に変わったことは無かったわ\n\n;;モノローグ\n# textflame 0 0\n@\n旅の疲れを見せず奮戦したアルマスは\n仲間の斬ル姫達に\n事もなげに話す\n\n;;モノローグ\n# textflame 0 0\n@\nとはいえ突如として\nこの世界から消え失せ\n粉雪と共に帰って来たアルマス達\n\n;;モノローグ\n# textflame 0 0\n@\n他の姫達から\n『何処へ行っていたのか』\nと尋ねられる\n\n;;# voice 1038 \"\"\n# textflame 1 1\n# textboxarrow 0 2\n@アルマス\n…大したところじゃないの\n\n# face 138 \"shy1\"\n# voice 1038 \"almace_0004\"\n# textflame 1 1\n# textboxarrow 0 2\n@アルマス\nただ、普通の恋に会ってきただけ"
+	}
+]

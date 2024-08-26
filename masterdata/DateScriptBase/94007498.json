@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 94007498,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# se \"SE_0733\"\n# voice 4007 \"shekina_0027\"\n# face %(unit_a)s \"angry\"\n@シェキナー\n不正解！\n\n@シェキナー\nあなたも…\n周りの男性と同じと\nいうことですか…？\n\n# face %(unit_a)s \"sad\"\n# voice 4007 \"shekina_0008\"\n@シェキナー\nあなたは…\nどこか違うと\n思ってたのに…\n\n# voice 4007 \"shekina_0010\"\n# face %(unit_a)s \"angry\"\n@シェキナー\n明日から…\nより一層厳しく\n行かせてもらいますからね！\n\n# textflame 0 0\n@\nせっかくのデートなのに、\n彼女を怒らせてしまった…\n\n@\n外見は派手だが、\n中身は繊細で傷つきやすい彼女…\n\n@\n今度からは、\n急に聞かれても間違えないように\nしっかりと心に刻んでおかないとな…\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

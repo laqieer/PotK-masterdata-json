@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 201212,
+		"script": "# script \"lisp\"\n# fadein \"black\" 0.5\n# background %(background)s\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 2012 \"srand_0004\"\n@スラーンド\n実はね？\n今日はフェスティバルなのよ！\nまあ、本番は夜からなんだけど\n\n@スラーンド\nでも、こうして街が少しずつ着飾って\nいく風景って、なんだかいいわよね\n\n@スラーンド\nまるで飛び切りのドレスを着て\n舞踏会の時間を待つヒロインみたい\n\n# textflame 0 0\n@\nスラーンドはそういうと、\nどこか眩しいものを見るかのように\n目を細めた\n\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@スラーンド\nあたしも…\nこんな風に見えてたらいいな…\n\n# face %(unit_a)s \"usual\"\n@スラーンド\nあ、えっと…\nなんでもないわよ？\nさあ、行きましょうマスター！\n\n# voice 2012 \"srand_0003\"\n@スラーンド\n本番はまだだけど、\nお店の準備は\nすっかり出来上がってるわ\n\n# face %(unit_a)s \"smile\"\n@スラーンド\n夜になって通りが混んで動けなくなる\n前に、目一杯楽しんじゃいましょう\n\n# textflame 0 0\n@\n楽しげにそう告げるスラーンドに\n手を引かれ、マスターは\n活気あふれる街へと繰り出した…\n;;--------------------------------------\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 401923,
+		"script": ";;B中楽しかったのは本当\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_onsen\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# face 2401911 \"angry\"\n# voice 240191 \"failnaught_a_0009\"\n@フェイルノート\nそれは、デートが？\nそれとも今、からかったのが？\n答えによっては目を抉るわよ！\n\n# face 2401911 \"normal\"\n# voice 240191 \"failnaught_a_0007\"\n@フェイルノート\n…そう、デートよね。それでいいの\nけれど、なんだか不思議な気分ね\n妙な確信があるのよ\n\n@フェイルノート\nお前様以外と、こうして\n出かけても…今のような\n満足感は得られなかったと\n\n@フェイルノート\n…少し心がふわふわと…\n綿毛の上を漂っているような\n奇妙な感覚…\n\n@フェイルノート\nお前様の何が\n私をここまでさせるのか\n興味が尽きないわ\n\n@フェイルノート\nきっと、この謎が解けない限り\n気になって仕方がないわ\n\n# face 2401911 \"angry\"\n@フェイルノート\nこうなったら\n謎が解けるまでは\n出ることは許さないわよ\n\n# face 2401911 \"smile\"\n# voice 240191 \"failnaught_a_0004\"\n@フェイルノート\nふふふ…\nのぼせる前に私に謎を\n解けさせることができるかしら？\n\n# textflame 0 0\n@\n随分と長風呂になってしまったが\nのぼせることなく\n\n# textflame 0 0\n@\nフェイルノートと共に\n温泉を堪能しながら\n長話したのだった\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

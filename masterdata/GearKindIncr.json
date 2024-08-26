@@ -1,0 +1,338 @@
+[
+	{
+		"ID": 1001,
+		"attack_kind_GearKind": 1,
+		"defense_kind_GearKind": 2,
+		"proficiency_UnitProficiency": 1,
+		"attack": 0,
+		"hit": 10
+	},
+	{
+		"ID": 1002,
+		"attack_kind_GearKind": 1,
+		"defense_kind_GearKind": 2,
+		"proficiency_UnitProficiency": 2,
+		"attack": 0,
+		"hit": 10
+	},
+	{
+		"ID": 1003,
+		"attack_kind_GearKind": 1,
+		"defense_kind_GearKind": 2,
+		"proficiency_UnitProficiency": 3,
+		"attack": 0,
+		"hit": 15
+	},
+	{
+		"ID": 1004,
+		"attack_kind_GearKind": 1,
+		"defense_kind_GearKind": 2,
+		"proficiency_UnitProficiency": 4,
+		"attack": 1,
+		"hit": 15
+	},
+	{
+		"ID": 1005,
+		"attack_kind_GearKind": 1,
+		"defense_kind_GearKind": 2,
+		"proficiency_UnitProficiency": 5,
+		"attack": 1,
+		"hit": 20
+	},
+	{
+		"ID": 1006,
+		"attack_kind_GearKind": 1,
+		"defense_kind_GearKind": 2,
+		"proficiency_UnitProficiency": 6,
+		"attack": 0,
+		"hit": 0
+	},
+	{
+		"ID": 1007,
+		"attack_kind_GearKind": 1,
+		"defense_kind_GearKind": 2,
+		"proficiency_UnitProficiency": 7,
+		"attack": 0,
+		"hit": 0
+	},
+	{
+		"ID": 1008,
+		"attack_kind_GearKind": 1,
+		"defense_kind_GearKind": 3,
+		"proficiency_UnitProficiency": 1,
+		"attack": 0,
+		"hit": -10
+	},
+	{
+		"ID": 1009,
+		"attack_kind_GearKind": 1,
+		"defense_kind_GearKind": 3,
+		"proficiency_UnitProficiency": 2,
+		"attack": 0,
+		"hit": -10
+	},
+	{
+		"ID": 1010,
+		"attack_kind_GearKind": 1,
+		"defense_kind_GearKind": 3,
+		"proficiency_UnitProficiency": 3,
+		"attack": 0,
+		"hit": -15
+	},
+	{
+		"ID": 1011,
+		"attack_kind_GearKind": 1,
+		"defense_kind_GearKind": 3,
+		"proficiency_UnitProficiency": 4,
+		"attack": -1,
+		"hit": -15
+	},
+	{
+		"ID": 1012,
+		"attack_kind_GearKind": 1,
+		"defense_kind_GearKind": 3,
+		"proficiency_UnitProficiency": 5,
+		"attack": -1,
+		"hit": -20
+	},
+	{
+		"ID": 1013,
+		"attack_kind_GearKind": 1,
+		"defense_kind_GearKind": 3,
+		"proficiency_UnitProficiency": 6,
+		"attack": 0,
+		"hit": 0
+	},
+	{
+		"ID": 1014,
+		"attack_kind_GearKind": 1,
+		"defense_kind_GearKind": 3,
+		"proficiency_UnitProficiency": 7,
+		"attack": 0,
+		"hit": 0
+	},
+	{
+		"ID": 2001,
+		"attack_kind_GearKind": 3,
+		"defense_kind_GearKind": 1,
+		"proficiency_UnitProficiency": 1,
+		"attack": 0,
+		"hit": 10
+	},
+	{
+		"ID": 2002,
+		"attack_kind_GearKind": 3,
+		"defense_kind_GearKind": 1,
+		"proficiency_UnitProficiency": 2,
+		"attack": 0,
+		"hit": 10
+	},
+	{
+		"ID": 2003,
+		"attack_kind_GearKind": 3,
+		"defense_kind_GearKind": 1,
+		"proficiency_UnitProficiency": 3,
+		"attack": 0,
+		"hit": 15
+	},
+	{
+		"ID": 2004,
+		"attack_kind_GearKind": 3,
+		"defense_kind_GearKind": 1,
+		"proficiency_UnitProficiency": 4,
+		"attack": 1,
+		"hit": 15
+	},
+	{
+		"ID": 2005,
+		"attack_kind_GearKind": 3,
+		"defense_kind_GearKind": 1,
+		"proficiency_UnitProficiency": 5,
+		"attack": 1,
+		"hit": 20
+	},
+	{
+		"ID": 2006,
+		"attack_kind_GearKind": 3,
+		"defense_kind_GearKind": 1,
+		"proficiency_UnitProficiency": 6,
+		"attack": 0,
+		"hit": 0
+	},
+	{
+		"ID": 2007,
+		"attack_kind_GearKind": 3,
+		"defense_kind_GearKind": 1,
+		"proficiency_UnitProficiency": 7,
+		"attack": 0,
+		"hit": 0
+	},
+	{
+		"ID": 2008,
+		"attack_kind_GearKind": 3,
+		"defense_kind_GearKind": 2,
+		"proficiency_UnitProficiency": 1,
+		"attack": 0,
+		"hit": -10
+	},
+	{
+		"ID": 2009,
+		"attack_kind_GearKind": 3,
+		"defense_kind_GearKind": 2,
+		"proficiency_UnitProficiency": 2,
+		"attack": 0,
+		"hit": -10
+	},
+	{
+		"ID": 2010,
+		"attack_kind_GearKind": 3,
+		"defense_kind_GearKind": 2,
+		"proficiency_UnitProficiency": 3,
+		"attack": 0,
+		"hit": -15
+	},
+	{
+		"ID": 2011,
+		"attack_kind_GearKind": 3,
+		"defense_kind_GearKind": 2,
+		"proficiency_UnitProficiency": 4,
+		"attack": -1,
+		"hit": -15
+	},
+	{
+		"ID": 2012,
+		"attack_kind_GearKind": 3,
+		"defense_kind_GearKind": 2,
+		"proficiency_UnitProficiency": 5,
+		"attack": -1,
+		"hit": -20
+	},
+	{
+		"ID": 2013,
+		"attack_kind_GearKind": 3,
+		"defense_kind_GearKind": 2,
+		"proficiency_UnitProficiency": 6,
+		"attack": 0,
+		"hit": 0
+	},
+	{
+		"ID": 2014,
+		"attack_kind_GearKind": 3,
+		"defense_kind_GearKind": 2,
+		"proficiency_UnitProficiency": 7,
+		"attack": 0,
+		"hit": 0
+	},
+	{
+		"ID": 3001,
+		"attack_kind_GearKind": 2,
+		"defense_kind_GearKind": 3,
+		"proficiency_UnitProficiency": 1,
+		"attack": 0,
+		"hit": 10
+	},
+	{
+		"ID": 3002,
+		"attack_kind_GearKind": 2,
+		"defense_kind_GearKind": 3,
+		"proficiency_UnitProficiency": 2,
+		"attack": 0,
+		"hit": 10
+	},
+	{
+		"ID": 3003,
+		"attack_kind_GearKind": 2,
+		"defense_kind_GearKind": 3,
+		"proficiency_UnitProficiency": 3,
+		"attack": 0,
+		"hit": 15
+	},
+	{
+		"ID": 3004,
+		"attack_kind_GearKind": 2,
+		"defense_kind_GearKind": 3,
+		"proficiency_UnitProficiency": 4,
+		"attack": 1,
+		"hit": 15
+	},
+	{
+		"ID": 3005,
+		"attack_kind_GearKind": 2,
+		"defense_kind_GearKind": 3,
+		"proficiency_UnitProficiency": 5,
+		"attack": 1,
+		"hit": 20
+	},
+	{
+		"ID": 3006,
+		"attack_kind_GearKind": 2,
+		"defense_kind_GearKind": 3,
+		"proficiency_UnitProficiency": 6,
+		"attack": 0,
+		"hit": 0
+	},
+	{
+		"ID": 3007,
+		"attack_kind_GearKind": 2,
+		"defense_kind_GearKind": 3,
+		"proficiency_UnitProficiency": 7,
+		"attack": 0,
+		"hit": 0
+	},
+	{
+		"ID": 3008,
+		"attack_kind_GearKind": 2,
+		"defense_kind_GearKind": 1,
+		"proficiency_UnitProficiency": 1,
+		"attack": 0,
+		"hit": -10
+	},
+	{
+		"ID": 3009,
+		"attack_kind_GearKind": 2,
+		"defense_kind_GearKind": 1,
+		"proficiency_UnitProficiency": 2,
+		"attack": 0,
+		"hit": -10
+	},
+	{
+		"ID": 3010,
+		"attack_kind_GearKind": 2,
+		"defense_kind_GearKind": 1,
+		"proficiency_UnitProficiency": 3,
+		"attack": 0,
+		"hit": -15
+	},
+	{
+		"ID": 3011,
+		"attack_kind_GearKind": 2,
+		"defense_kind_GearKind": 1,
+		"proficiency_UnitProficiency": 4,
+		"attack": -1,
+		"hit": -15
+	},
+	{
+		"ID": 3012,
+		"attack_kind_GearKind": 2,
+		"defense_kind_GearKind": 1,
+		"proficiency_UnitProficiency": 5,
+		"attack": -1,
+		"hit": -20
+	},
+	{
+		"ID": 3013,
+		"attack_kind_GearKind": 2,
+		"defense_kind_GearKind": 1,
+		"proficiency_UnitProficiency": 6,
+		"attack": 0,
+		"hit": 0
+	},
+	{
+		"ID": 3014,
+		"attack_kind_GearKind": 2,
+		"defense_kind_GearKind": 1,
+		"proficiency_UnitProficiency": 7,
+		"attack": 0,
+		"hit": 0
+	}
+]

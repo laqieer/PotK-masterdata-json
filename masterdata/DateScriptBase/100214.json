@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 100214,
+		"script": ";;話しかけたら怒る？(小)\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_planetarium\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# face %(unit_a)s \"angry\"\n# voice 1002 \"revatein_0010\"\n@レーヴァテイン\n…イラッとする\nせっかく会話しなくても\nよさそうなところに来たのに\n\n# textflame 0 0\n@\n空気が一瞬、ぞわっと\n殺気立ったのがわかった…\n\n# textflame 0 0\n@\n…だがそのすぐあと\n彼女のせき払いとともに\nひりついた雰囲気は和らいだ\n\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# voice 1002 \"revatein_0004\"\n@レーヴァテイン\n…星の話なら\n聞いてあげても、いいよ\n\n# textflame 0 0\n@\n彼女はそのあとなにも喋らなかったが\nマスターが語る星の物語に\nじっと耳を傾けていた…\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

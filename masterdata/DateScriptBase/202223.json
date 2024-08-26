@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 202223,
+		"script": ";;C\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_drive\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# voice 2022 \"banko_0003\"\n@盤古\nそう、海…\n少しだけ寄ってみたい\n\n# face %(unit_a)s \"surprise\"\n@盤古\nひ、昼間は、\n人が多すぎて苦手だが\n\n@盤古\n夜ならほとんどいないだろうし、\n我でもきっと平気だ…\n\n# face %(unit_a)s \"normal\"\n@盤古\n…夜の海は、とても綺麗だ\n\n@盤古\n月光が、波間に輝いて…\n水面がゆらめいて、美しい…\n\n@盤古\nそういう、素敵な景色を…\nそなたと眺めて過ごしたい\n\n@盤古\n隊の姫達と\n一緒に過ごすのも、\n悪くないが…\n\n# voice 2022 \"banko_0004\"\n@盤古\nやはり我は…\nそなたとの時間こそ、\n大切にしたい…のだ\n\n# face %(unit_a)s \"shy\"\n# voice 2022 \"banko_0032\"\n@盤古\n…うむ\nありがとう、マスター\n\n@盤古\nどうか我を、夜の海まで\n連れていってくれ…\n\n# textflame 0 0\n@\n二人を乗せた車が、\n夜の砂浜を目指し駆けていく\n\n@\n彼らの間に会話はなく…\nそれが今の二人には、\nどこまでも心地よかった\n;;-----------------------------------------\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

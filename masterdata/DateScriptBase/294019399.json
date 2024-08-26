@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 294019399,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# se \"SE_0732\"\n# face %(unit_a)s \"normal\"\n# textflame 1 1\n@フェイルノート\nその答え…\n\n@フェイルノート\n正解だわ\n\n# face %(unit_a)s \"shy\"\n# voice 540191 \"failnaught_ca_0041\"\n@フェイルノート\nやはり、お前様は\nしっかりと見てくれていたのね\n\n# voice 540191 \"failnaught_ca_0042\"\n@フェイルノート\nえ？\nあ、安心なんかしていないわ…！\n\n@フェイルノート\n私は王である器よ、\n答えられて当然！\n\n# voice 540191 \"failnaught_ca_0007\"\n@フェイルノート\n強者たる私が、\n不安に思うわけが\nないでしょうっ…？\n\n# textflame 0 0\n@\n頬を染めながら言い張る彼女を見て、\nいじらしく思うマスターだった\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

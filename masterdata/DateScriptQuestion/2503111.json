@@ -1,0 +1,302 @@
+[
+	{
+		"ID": 5286,
+		"unitID": 2503111,
+		"questionID": 9503101,
+		"script": ";;銃,1\n# face %(unit_a)s \"usual\"\n# voice 250311 \"solomon_t_0002\"\n# textflame 1 1\n@ソロモン\nいつも思ってるの\n\n@ソロモン\nあらゆる危険な兆候を\n早期に発見して、\n最適解を出そうって\n\n@ソロモン\nかなうなら…\nあなたにもそうしてもらいたい\n\n@ソロモン\n最適解\n\n# voice 250311 \"solomon_t_0003\"\n@ソロモン\nそう…\n私の出すクイズの、\n最適解を導き出して\n\n@ソロモン\nさあ、いくわよ\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の武器属性は何かわかるかしら？　\n\n# se \"SE_0734\"\n# select \"銃\" \"select_label_1\" \"槍\" \"select_label_2\" \"剣\" \"select_label_3\"\n私の武器属性は何かわかるかしら？　\n"
+	},
+	{
+		"ID": 5287,
+		"unitID": 2503111,
+		"questionID": 9503102,
+		"script": ";;指輪,1\n# face %(unit_a)s \"usual\"\n# voice 250311 \"solomon_t_0002\"\n# textflame 1 1\n@ソロモン\nいつも思ってるの\n\n@ソロモン\nあらゆる危険な兆候を\n早期に発見して、\n最適解を出そうって\n\n@ソロモン\nかなうなら…\nあなたにもそうしてもらいたい\n\n@ソロモン\n最適解\n\n# voice 250311 \"solomon_t_0003\"\n@ソロモン\nそう…\n私の出すクイズの、\n最適解を導き出して\n\n@ソロモン\nさあ、いくわよ\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私のキラーズ、『ソロモン』は\nどんな物かわかるかしら？\n\n# se \"SE_0734\"\n# select \"指輪\" \"select_label_1\" \"ピアス\" \"select_label_2\" \"腕輪\" \"select_label_3\"\n私のキラーズ、『ソロモン』は\nどんな物かわかるかしら？\n"
+	},
+	{
+		"ID": 5288,
+		"unitID": 2503111,
+		"questionID": 9503103,
+		"script": ";;ヘブライ神話群,1\n# face %(unit_a)s \"usual\"\n# voice 250311 \"solomon_t_0002\"\n# textflame 1 1\n@ソロモン\nいつも思ってるの\n\n@ソロモン\nあらゆる危険な兆候を\n早期に発見して、\n最適解を出そうって\n\n@ソロモン\nかなうなら…\nあなたにもそうしてもらいたい\n\n@ソロモン\n最適解\n\n# voice 250311 \"solomon_t_0003\"\n@ソロモン\nそう…\n私の出すクイズの、\n最適解を導き出して\n\n@ソロモン\nさあ、いくわよ\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私のキラーズ、『ソロモン』は\nどんな伝承に登場するかしら？\n\n# se \"SE_0734\"\n# select \"ヘブライ神話群\" \"select_label_1\" \"インド神話群\" \"select_label_2\" \"ギリシャ神話\" \"select_label_3\"\n私のキラーズ、『ソロモン』は\nどんな伝承に登場するかしら？\n"
+	},
+	{
+		"ID": 5289,
+		"unitID": 2503111,
+		"questionID": 9503104,
+		"script": ";;動植物の声を届ける,3\n# face %(unit_a)s \"usual\"\n# voice 250311 \"solomon_t_0002\"\n# textflame 1 1\n@ソロモン\nいつも思ってるの\n\n@ソロモン\nあらゆる危険な兆候を\n早期に発見して、\n最適解を出そうって\n\n@ソロモン\nかなうなら…\nあなたにもそうしてもらいたい\n\n@ソロモン\n最適解\n\n# voice 250311 \"solomon_t_0003\"\n@ソロモン\nそう…\n私の出すクイズの、\n最適解を導き出して\n\n@ソロモン\nさあ、いくわよ\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私のキラーズ『ソロモン』は\nどんな指輪と云われているかしら？\n\n# se \"SE_0734\"\n# select \"神の声が聞ける\" \"select_label_1\" \"雷を呼んだ\" \"select_label_2\" \"動植物の声を届ける\" \"select_label_3\"\n私のキラーズ『ソロモン』は\nどんな指輪と云われているかしら？\n"
+	},
+	{
+		"ID": 5290,
+		"unitID": 2503111,
+		"questionID": 9503105,
+		"script": ";;大天使ミカエル,3\n# face %(unit_a)s \"usual\"\n# voice 250311 \"solomon_t_0002\"\n# textflame 1 1\n@ソロモン\nいつも思ってるの\n\n@ソロモン\nあらゆる危険な兆候を\n早期に発見して、\n最適解を出そうって\n\n@ソロモン\nかなうなら…\nあなたにもそうしてもらいたい\n\n@ソロモン\n最適解\n\n# voice 250311 \"solomon_t_0003\"\n@ソロモン\nそう…\n私の出すクイズの、\n最適解を導き出して\n\n@ソロモン\nさあ、いくわよ\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私のキラーズ『ソロモン』の指輪は\n誰から授かったものと云われている？\n\n# se \"SE_0734\"\n# select \"大天使ジュブナイル\" \"select_label_1\" \"大天使ロキ\" \"select_label_2\" \"大天使ミカエル\" \"select_label_3\"\n私のキラーズ『ソロモン』の指輪は\n誰から授かったものと云われている？\n"
+	},
+	{
+		"ID": 5291,
+		"unitID": 2503111,
+		"questionID": 9503106,
+		"script": ";;アテナ,3\n# face %(unit_a)s \"usual\"\n# voice 250311 \"solomon_t_0002\"\n# textflame 1 1\n@ソロモン\nいつも思ってるの\n\n@ソロモン\nあらゆる危険な兆候を\n早期に発見して、\n最適解を出そうって\n\n@ソロモン\nかなうなら…\nあなたにもそうしてもらいたい\n\n@ソロモン\n最適解\n\n# voice 250311 \"solomon_t_0003\"\n@ソロモン\nそう…\n私の出すクイズの、\n最適解を導き出して\n\n@ソロモン\nさあ、いくわよ\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私に聖鎖された女神は\n誰かわかるかしら？\n\n# se \"SE_0734\"\n# select \"パルテナ\" \"select_label_1\" \"アトレ\" \"select_label_2\" \"アテナ\" \"select_label_3\"\n私に聖鎖された女神は\n誰かわかるかしら？\n"
+	},
+	{
+		"ID": 5292,
+		"unitID": 2503111,
+		"questionID": 9503107,
+		"script": ";;真鍮と鉄,2\n# face %(unit_a)s \"usual\"\n# voice 250311 \"solomon_t_0002\"\n# textflame 1 1\n@ソロモン\nいつも思ってるの\n\n@ソロモン\nあらゆる危険な兆候を\n早期に発見して、\n最適解を出そうって\n\n@ソロモン\nかなうなら…\nあなたにもそうしてもらいたい\n\n@ソロモン\n最適解\n\n# voice 250311 \"solomon_t_0003\"\n@ソロモン\nそう…\n私の出すクイズの、\n最適解を導き出して\n\n@ソロモン\nさあ、いくわよ\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私のキラーズ『ソロモン』の指輪は\n何でできている？\n\n# se \"SE_0734\"\n# select \"金\" \"select_label_1\" \"真鍮と鉄\" \"select_label_2\" \"カーボン\" \"select_label_3\"\n私のキラーズ『ソロモン』の指輪は\n何でできている？\n"
+	},
+	{
+		"ID": 5293,
+		"unitID": 2503111,
+		"questionID": 9503108,
+		"script": ";;天使を使役できる,1\n# face %(unit_a)s \"usual\"\n# voice 250311 \"solomon_t_0002\"\n# textflame 1 1\n@ソロモン\nいつも思ってるの\n\n@ソロモン\nあらゆる危険な兆候を\n早期に発見して、\n最適解を出そうって\n\n@ソロモン\nかなうなら…\nあなたにもそうしてもらいたい\n\n@ソロモン\n最適解\n\n# voice 250311 \"solomon_t_0003\"\n@ソロモン\nそう…\n私の出すクイズの、\n最適解を導き出して\n\n@ソロモン\nさあ、いくわよ\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私のキラーズ『ソロモン』の指輪の\n真鍮の部分にはどんな効果が\nあるかしら？\n\n# se \"SE_0734\"\n# select \"天使を使役できる\" \"select_label_1\" \"悪魔を使役できる\" \"select_label_2\" \"メイドを使役できる\" \"select_label_3\"\n私のキラーズ『ソロモン』の指輪の\n真鍮の部分にはどんな効果が\nあるかしら？\n"
+	},
+	{
+		"ID": 5294,
+		"unitID": 2503111,
+		"questionID": 9503109,
+		"script": ";;悪魔を使役できる,2\n# face %(unit_a)s \"usual\"\n# voice 250311 \"solomon_t_0002\"\n# textflame 1 1\n@ソロモン\nいつも思ってるの\n\n@ソロモン\nあらゆる危険な兆候を\n早期に発見して、\n最適解を出そうって\n\n@ソロモン\nかなうなら…\nあなたにもそうしてもらいたい\n\n@ソロモン\n最適解\n\n# voice 250311 \"solomon_t_0003\"\n@ソロモン\nそう…\n私の出すクイズの、\n最適解を導き出して\n\n@ソロモン\nさあ、いくわよ\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私のキラーズ『ソロモン』の指輪の\n鉄の部分にはどんな効果が\nあるかしら？\n\n# se \"SE_0734\"\n# select \"天使を使役できる\" \"select_label_1\" \"悪魔を使役できる\" \"select_label_2\" \"幻獣を使役できる\" \"select_label_3\"\n私のキラーズ『ソロモン』の指輪の\n鉄の部分にはどんな効果が\nあるかしら？\n"
+	},
+	{
+		"ID": 5295,
+		"unitID": 2503111,
+		"questionID": 9503110,
+		"script": ";;ソロモン王,3\n# face %(unit_a)s \"usual\"\n# voice 250311 \"solomon_t_0002\"\n# textflame 1 1\n@ソロモン\nいつも思ってるの\n\n@ソロモン\nあらゆる危険な兆候を\n早期に発見して、\n最適解を出そうって\n\n@ソロモン\nかなうなら…\nあなたにもそうしてもらいたい\n\n@ソロモン\n最適解\n\n# voice 250311 \"solomon_t_0003\"\n@ソロモン\nそう…\n私の出すクイズの、\n最適解を導き出して\n\n@ソロモン\nさあ、いくわよ\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私のキラーズ『ソロモン』の指輪を\n持っていたのは誰かしら？\n\n# se \"SE_0734\"\n# select \"アーサー王\" \"select_label_1\" \"クフ王\" \"select_label_2\" \"ソロモン王\" \"select_label_3\"\n私のキラーズ『ソロモン』の指輪を\n持っていたのは誰かしら？\n"
+	},
+	{
+		"ID": 5296,
+		"unitID": 2503111,
+		"questionID": 9503111,
+		"script": ";;光,3\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n@ソロモン\n………\n\n# textflame 0 0\n@\nキョロキョロと辺りの様子を伺う彼女\n\n@\nその肩にフクロウ型小型機獣の\nグラウがとまり、何かをささやいた\n\n@\nそれを聞いた彼女は、\nマスターにこう告げた\n\n# voice 250311 \"solomon_t_0003\"\n# textflame 1 1\n@ソロモン\nグラウの報告どおり、\n周囲には誰もいないようね\nちょうどいいわ\n\n# textflame 0 0\n@\nそして、慎重な面持ちで\n言葉を続ける\n\n# voice 250311 \"solomon_t_0002\"\n# textflame 1 1\n@ソロモン\n私のこと…\nどれくらいわかってるか、\n試させてもらうわ\n\n@ソロモン\n今から出すクイズに\n答えられるかしら？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の属性は知ってるかしら？\n\n# se \"SE_0734\"\n# select \"風\" \"select_label_1\" \"炎\" \"select_label_2\" \"光\" \"select_label_3\"\n私の属性は知ってるかしら？\n"
+	},
+	{
+		"ID": 5297,
+		"unitID": 2503111,
+		"questionID": 9503112,
+		"script": ";;171cm ,3\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n@ソロモン\n………\n\n# textflame 0 0\n@\nキョロキョロと辺りの様子を伺う彼女\n\n@\nその肩にフクロウ型小型機獣の\nグラウがとまり、何かをささやいた\n\n@\nそれを聞いた彼女は、\nマスターにこう告げた\n\n# voice 250311 \"solomon_t_0003\"\n# textflame 1 1\n@ソロモン\nグラウの報告どおり、\n周囲には誰もいないようね\nちょうどいいわ\n\n# textflame 0 0\n@\nそして、慎重な面持ちで\n言葉を続ける\n\n# voice 250311 \"solomon_t_0002\"\n# textflame 1 1\n@ソロモン\n私のこと…\nどれくらいわかってるか、\n試させてもらうわ\n\n@ソロモン\n今から出すクイズに\n答えられるかしら？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の身長は何センチか\nわかるかしら？\n\n# se \"SE_0734\"\n# select \"165cm\" \"select_label_1\" \"168cm\" \"select_label_2\" \"171cm \" \"select_label_3\"\n私の身長は何センチか\nわかるかしら？\n"
+	},
+	{
+		"ID": 5298,
+		"unitID": 2503111,
+		"questionID": 9503113,
+		"script": ";;10月11日,2\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n@ソロモン\n………\n\n# textflame 0 0\n@\nキョロキョロと辺りの様子を伺う彼女\n\n@\nその肩にフクロウ型小型機獣の\nグラウがとまり、何かをささやいた\n\n@\nそれを聞いた彼女は、\nマスターにこう告げた\n\n# voice 250311 \"solomon_t_0003\"\n# textflame 1 1\n@ソロモン\nグラウの報告どおり、\n周囲には誰もいないようね\nちょうどいいわ\n\n# textflame 0 0\n@\nそして、慎重な面持ちで\n言葉を続ける\n\n# voice 250311 \"solomon_t_0002\"\n# textflame 1 1\n@ソロモン\n私のこと…\nどれくらいわかってるか、\n試させてもらうわ\n\n@ソロモン\n今から出すクイズに\n答えられるかしら？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の誕生日は知ってる？\n\n# se \"SE_0734\"\n# select \"10月31日\" \"select_label_1\" \"10月11日\" \"select_label_2\" \"10月1日\" \"select_label_3\"\n私の誕生日は知ってる？\n"
+	},
+	{
+		"ID": 5299,
+		"unitID": 2503111,
+		"questionID": 9503114,
+		"script": ";;てんびん座,1\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n@ソロモン\n………\n\n# textflame 0 0\n@\nキョロキョロと辺りの様子を伺う彼女\n\n@\nその肩にフクロウ型小型機獣の\nグラウがとまり、何かをささやいた\n\n@\nそれを聞いた彼女は、\nマスターにこう告げた\n\n# voice 250311 \"solomon_t_0003\"\n# textflame 1 1\n@ソロモン\nグラウの報告どおり、\n周囲には誰もいないようね\nちょうどいいわ\n\n# textflame 0 0\n@\nそして、慎重な面持ちで\n言葉を続ける\n\n# voice 250311 \"solomon_t_0002\"\n# textflame 1 1\n@ソロモン\n私のこと…\nどれくらいわかってるか、\n試させてもらうわ\n\n@ソロモン\n今から出すクイズに\n答えられるかしら？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の星座は知ってる？\n\n# se \"SE_0734\"\n# select \"てんびん座\" \"select_label_1\" \"いて座\" \"select_label_2\" \"しし座\" \"select_label_3\"\n私の星座は知ってる？\n"
+	},
+	{
+		"ID": 5300,
+		"unitID": 2503111,
+		"questionID": 9503115,
+		"script": ";;話を聞くこと,2\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n@ソロモン\n………\n\n# textflame 0 0\n@\nキョロキョロと辺りの様子を伺う彼女\n\n@\nその肩にフクロウ型小型機獣の\nグラウがとまり、何かをささやいた\n\n@\nそれを聞いた彼女は、\nマスターにこう告げた\n\n# voice 250311 \"solomon_t_0003\"\n# textflame 1 1\n@ソロモン\nグラウの報告どおり、\n周囲には誰もいないようね\nちょうどいいわ\n\n# textflame 0 0\n@\nそして、慎重な面持ちで\n言葉を続ける\n\n# voice 250311 \"solomon_t_0002\"\n# textflame 1 1\n@ソロモン\n私のこと…\nどれくらいわかってるか、\n試させてもらうわ\n\n@ソロモン\n今から出すクイズに\n答えられるかしら？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の好きなことはわかる？\n\n# se \"SE_0734\"\n# select \"自慢話すること\" \"select_label_1\" \"話を聞くこと\" \"select_label_2\" \"噂話をすること\" \"select_label_3\"\n私の好きなことはわかる？\n"
+	},
+	{
+		"ID": 5301,
+		"unitID": 2503111,
+		"questionID": 9503116,
+		"script": ";;ボードゲーム,1\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n@ソロモン\n………\n\n# textflame 0 0\n@\nキョロキョロと辺りの様子を伺う彼女\n\n@\nその肩にフクロウ型小型機獣の\nグラウがとまり、何かをささやいた\n\n@\nそれを聞いた彼女は、\nマスターにこう告げた\n\n# voice 250311 \"solomon_t_0003\"\n# textflame 1 1\n@ソロモン\nグラウの報告どおり、\n周囲には誰もいないようね\nちょうどいいわ\n\n# textflame 0 0\n@\nそして、慎重な面持ちで\n言葉を続ける\n\n# voice 250311 \"solomon_t_0002\"\n# textflame 1 1\n@ソロモン\n私のこと…\nどれくらいわかってるか、\n試させてもらうわ\n\n@ソロモン\n今から出すクイズに\n答えられるかしら？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の趣味はわかる？\n\n# se \"SE_0734\"\n# select \"ボードゲーム\" \"select_label_1\" \"スマホゲーム\" \"select_label_2\" \"死のゲーム\" \"select_label_3\"\n私の趣味はわかる？\n"
+	},
+	{
+		"ID": 5302,
+		"unitID": 2503111,
+		"questionID": 9503117,
+		"script": ";;Ａ型,1\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n@ソロモン\n………\n\n# textflame 0 0\n@\nキョロキョロと辺りの様子を伺う彼女\n\n@\nその肩にフクロウ型小型機獣の\nグラウがとまり、何かをささやいた\n\n@\nそれを聞いた彼女は、\nマスターにこう告げた\n\n# voice 250311 \"solomon_t_0003\"\n# textflame 1 1\n@ソロモン\nグラウの報告どおり、\n周囲には誰もいないようね\nちょうどいいわ\n\n# textflame 0 0\n@\nそして、慎重な面持ちで\n言葉を続ける\n\n# voice 250311 \"solomon_t_0002\"\n# textflame 1 1\n@ソロモン\n私のこと…\nどれくらいわかってるか、\n試させてもらうわ\n\n@ソロモン\n今から出すクイズに\n答えられるかしら？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の血液型は知っているかしら？\n\n# se \"SE_0734\"\n# select \"Ａ型\" \"select_label_1\" \"Ｏ型\" \"select_label_2\" \"Ｂ型\" \"select_label_3\"\n私の血液型は知っているかしら？\n"
+	},
+	{
+		"ID": 5303,
+		"unitID": 2503111,
+		"questionID": 9503118,
+		"script": ";;イスラエル,2\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n@ソロモン\n………\n\n# textflame 0 0\n@\nキョロキョロと辺りの様子を伺う彼女\n\n@\nその肩にフクロウ型小型機獣の\nグラウがとまり、何かをささやいた\n\n@\nそれを聞いた彼女は、\nマスターにこう告げた\n\n# voice 250311 \"solomon_t_0003\"\n# textflame 1 1\n@ソロモン\nグラウの報告どおり、\n周囲には誰もいないようね\nちょうどいいわ\n\n# textflame 0 0\n@\nそして、慎重な面持ちで\n言葉を続ける\n\n# voice 250311 \"solomon_t_0002\"\n# textflame 1 1\n@ソロモン\n私のこと…\nどれくらいわかってるか、\n試させてもらうわ\n\n@ソロモン\n今から出すクイズに\n答えられるかしら？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の出身地はわかる？\n\n# se \"SE_0734\"\n# select \"イギリス\" \"select_label_1\" \"イスラエル\" \"select_label_2\" \"ロシア\" \"select_label_3\"\n私の出身地はわかる？\n"
+	},
+	{
+		"ID": 5304,
+		"unitID": 2503111,
+		"questionID": 9503119,
+		"script": ";;グラウ,2\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n@ソロモン\n………\n\n# textflame 0 0\n@\nキョロキョロと辺りの様子を伺う彼女\n\n@\nその肩にフクロウ型小型機獣の\nグラウがとまり、何かをささやいた\n\n@\nそれを聞いた彼女は、\nマスターにこう告げた\n\n# voice 250311 \"solomon_t_0003\"\n# textflame 1 1\n@ソロモン\nグラウの報告どおり、\n周囲には誰もいないようね\nちょうどいいわ\n\n# textflame 0 0\n@\nそして、慎重な面持ちで\n言葉を続ける\n\n# voice 250311 \"solomon_t_0002\"\n# textflame 1 1\n@ソロモン\n私のこと…\nどれくらいわかってるか、\n試させてもらうわ\n\n@ソロモン\n今から出すクイズに\n答えられるかしら？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の相棒である\n梟型小機械獣の名前はわかる？\n\n# se \"SE_0734\"\n# select \"フロウ\" \"select_label_1\" \"グラウ\" \"select_label_2\" \"フクジロウ\" \"select_label_3\"\n私の相棒である\n梟型小機械獣の名前はわかる？\n"
+	},
+	{
+		"ID": 5305,
+		"unitID": 2503111,
+		"questionID": 9503120,
+		"script": ";;フクロウ型,1\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n@ソロモン\n………\n\n# textflame 0 0\n@\nキョロキョロと辺りの様子を伺う彼女\n\n@\nその肩にフクロウ型小型機獣の\nグラウがとまり、何かをささやいた\n\n@\nそれを聞いた彼女は、\nマスターにこう告げた\n\n# voice 250311 \"solomon_t_0003\"\n# textflame 1 1\n@ソロモン\nグラウの報告どおり、\n周囲には誰もいないようね\nちょうどいいわ\n\n# textflame 0 0\n@\nそして、慎重な面持ちで\n言葉を続ける\n\n# voice 250311 \"solomon_t_0002\"\n# textflame 1 1\n@ソロモン\n私のこと…\nどれくらいわかってるか、\n試させてもらうわ\n\n@ソロモン\n今から出すクイズに\n答えられるかしら？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の相棒「グラウ」はどんな小機械獣？\n\n# se \"SE_0734\"\n# select \"フクロウ型\" \"select_label_1\" \"ワシ型\" \"select_label_2\" \"ハト型\" \"select_label_3\"\n私の相棒「グラウ」はどんな小機械獣？\n"
+	},
+	{
+		"ID": 5306,
+		"unitID": 2503111,
+		"questionID": 9503121,
+		"script": ";;光戦神の敬愛,2\n# face %(unit_a)s \"usual\"\n# voice 250311 \"solomon_t_0028\"\n# textflame 1 1\n@ソロモン\n暑いわね\nでも、かき氷屋は\n開いていないし…\n\n@ソロモン\nそうだ、代わりに海で\n流氷を獲ってくるというのは\nどうかしら？\n\n# textflame 0 0\n@\n唐突な提案に驚くマスター\n\n# voice 250311 \"solomon_t_0022\"\n# face %(unit_a)s \"angry\"\n# textflame 1 1\n@ソロモン\n…なにその、\n難問に悩んでいるような顔は？\n\n@ソロモン\n今のは笑うところよ？\n\n# textflame 0 0\n@\nそうか、いつもの\n彼女の理解されがたい\n冗談だったのか…\n\n# voice 250311 \"solomon_t_0004\"\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n@ソロモン\nまあ、いいわ\n\n@ソロモン\nじゃあ今から、\n難問じゃない簡単な問題を出すから\n答えてみて？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の覚える\nリーダースキル知ってる？\n\n# se \"SE_0734\"\n# select \"光戦神の友愛\" \"select_label_1\" \"光戦神の敬愛\" \"select_label_2\" \"光戦神の熱愛\" \"select_label_3\"\n私の覚える\nリーダースキル知ってる？\n"
+	},
+	{
+		"ID": 5307,
+		"unitID": 2503111,
+		"questionID": 9503122,
+		"script": ";;シャイニングレイ,2\n# face %(unit_a)s \"usual\"\n# voice 250311 \"solomon_t_0028\"\n# textflame 1 1\n@ソロモン\n暑いわね\nでも、かき氷屋は\n開いていないし…\n\n@ソロモン\nそうだ、代わりに海で\n流氷を獲ってくるというのは\nどうかしら？\n\n# textflame 0 0\n@\n唐突な提案に驚くマスター\n\n# voice 250311 \"solomon_t_0022\"\n# face %(unit_a)s \"angry\"\n# textflame 1 1\n@ソロモン\n…なにその、\n難問に悩んでいるような顔は？\n\n@ソロモン\n今のは笑うところよ？\n\n# textflame 0 0\n@\nそうか、いつもの\n彼女の理解されがたい\n冗談だったのか…\n\n# voice 250311 \"solomon_t_0004\"\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n@ソロモン\nまあ、いいわ\n\n@ソロモン\nじゃあ今から、\n難問じゃない簡単な問題を出すから\n答えてみて？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の覚えるスキル知ってる？\n\n# se \"SE_0734\"\n# select \"バーニングレイ\" \"select_label_1\" \"シャイニングレイ\" \"select_label_2\" \"フリージングレイ\" \"select_label_3\"\n私の覚えるスキル知ってる？\n"
+	},
+	{
+		"ID": 5308,
+		"unitID": 2503111,
+		"questionID": 9503123,
+		"script": ";;光戦神の恩愛,1\n# face %(unit_a)s \"usual\"\n# voice 250311 \"solomon_t_0028\"\n# textflame 1 1\n@ソロモン\n暑いわね\nでも、かき氷屋は\n開いていないし…\n\n@ソロモン\nそうだ、代わりに海で\n流氷を獲ってくるというのは\nどうかしら？\n\n# textflame 0 0\n@\n唐突な提案に驚くマスター\n\n# voice 250311 \"solomon_t_0022\"\n# face %(unit_a)s \"angry\"\n# textflame 1 1\n@ソロモン\n…なにその、\n難問に悩んでいるような顔は？\n\n@ソロモン\n今のは笑うところよ？\n\n# textflame 0 0\n@\nそうか、いつもの\n彼女の理解されがたい\n冗談だったのか…\n\n# voice 250311 \"solomon_t_0004\"\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n@ソロモン\nまあ、いいわ\n\n@ソロモン\nじゃあ今から、\n難問じゃない簡単な問題を出すから\n答えてみて？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の☆６のリーダースキルは\n知ってるかしら？\n\n# se \"SE_0734\"\n# select \"光戦神の恩愛\" \"select_label_1\" \"光戦神の恩赦\" \"select_label_2\" \"光戦神の恩恵\" \"select_label_3\"\n私の☆６のリーダースキルは\n知ってるかしら？\n"
+	},
+	{
+		"ID": 5309,
+		"unitID": 2503111,
+		"questionID": 9503124,
+		"script": ";;理を破る者達,1\n# face %(unit_a)s \"usual\"\n# voice 250311 \"solomon_t_0028\"\n# textflame 1 1\n@ソロモン\n暑いわね\nでも、かき氷屋は\n開いていないし…\n\n@ソロモン\nそうだ、代わりに海で\n流氷を獲ってくるというのは\nどうかしら？\n\n# textflame 0 0\n@\n唐突な提案に驚くマスター\n\n# voice 250311 \"solomon_t_0022\"\n# face %(unit_a)s \"angry\"\n# textflame 1 1\n@ソロモン\n…なにその、\n難問に悩んでいるような顔は？\n\n@ソロモン\n今のは笑うところよ？\n\n# textflame 0 0\n@\nそうか、いつもの\n彼女の理解されがたい\n冗談だったのか…\n\n# voice 250311 \"solomon_t_0004\"\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n@ソロモン\nまあ、いいわ\n\n@ソロモン\nじゃあ今から、\n難問じゃない簡単な問題を出すから\n答えてみて？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私が覚える付与スキルは\n何かわかる？\n\n# se \"SE_0734\"\n# select \"理を破る者達\" \"select_label_1\" \"約束を破る者達\" \"select_label_2\" \"紙を破る者達\" \"select_label_3\"\n私が覚える付与スキルは\n何かわかる？\n"
+	},
+	{
+		"ID": 5310,
+		"unitID": 2503111,
+		"questionID": 9503125,
+		"script": ";;護神の抑圧,1\n# face %(unit_a)s \"usual\"\n# voice 250311 \"solomon_t_0028\"\n# textflame 1 1\n@ソロモン\n暑いわね\nでも、かき氷屋は\n開いていないし…\n\n@ソロモン\nそうだ、代わりに海で\n流氷を獲ってくるというのは\nどうかしら？\n\n# textflame 0 0\n@\n唐突な提案に驚くマスター\n\n# voice 250311 \"solomon_t_0022\"\n# face %(unit_a)s \"angry\"\n# textflame 1 1\n@ソロモン\n…なにその、\n難問に悩んでいるような顔は？\n\n@ソロモン\n今のは笑うところよ？\n\n# textflame 0 0\n@\nそうか、いつもの\n彼女の理解されがたい\n冗談だったのか…\n\n# voice 250311 \"solomon_t_0004\"\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n@ソロモン\nまあ、いいわ\n\n@ソロモン\nじゃあ今から、\n難問じゃない簡単な問題を出すから\n答えてみて？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私が覚える付与スキルは\nわかるかしら？\n\n# se \"SE_0734\"\n# select \"護神の抑圧\" \"select_label_1\" \"政治の抑圧\" \"select_label_2\" \"護神の腹圧\" \"select_label_3\"\n私が覚える付与スキルは\nわかるかしら？\n"
+	},
+	{
+		"ID": 5311,
+		"unitID": 2503111,
+		"questionID": 9503126,
+		"script": ";;極限値への収束,1\n# face %(unit_a)s \"usual\"\n# voice 250311 \"solomon_t_0028\"\n# textflame 1 1\n@ソロモン\n暑いわね\nでも、かき氷屋は\n開いていないし…\n\n@ソロモン\nそうだ、代わりに海で\n流氷を獲ってくるというのは\nどうかしら？\n\n# textflame 0 0\n@\n唐突な提案に驚くマスター\n\n# voice 250311 \"solomon_t_0022\"\n# face %(unit_a)s \"angry\"\n# textflame 1 1\n@ソロモン\n…なにその、\n難問に悩んでいるような顔は？\n\n@ソロモン\n今のは笑うところよ？\n\n# textflame 0 0\n@\nそうか、いつもの\n彼女の理解されがたい\n冗談だったのか…\n\n# voice 250311 \"solomon_t_0004\"\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n@ソロモン\nまあ、いいわ\n\n@ソロモン\nじゃあ今から、\n難問じゃない簡単な問題を出すから\n答えてみて？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の覚えるデュエルスキルは\n知ってるかしら？\n\n# se \"SE_0734\"\n# select \"極限値への収束\" \"select_label_1\" \"極限値への集結\" \"select_label_2\" \"極限値への終点\" \"select_label_3\"\n私の覚えるデュエルスキルは\n知ってるかしら？\n"
+	},
+	{
+		"ID": 5312,
+		"unitID": 2503111,
+		"questionID": 9503127,
+		"script": ";;護神の最適解・改,2\n# face %(unit_a)s \"usual\"\n# voice 250311 \"solomon_t_0028\"\n# textflame 1 1\n@ソロモン\n暑いわね\nでも、かき氷屋は\n開いていないし…\n\n@ソロモン\nそうだ、代わりに海で\n流氷を獲ってくるというのは\nどうかしら？\n\n# textflame 0 0\n@\n唐突な提案に驚くマスター\n\n# voice 250311 \"solomon_t_0022\"\n# face %(unit_a)s \"angry\"\n# textflame 1 1\n@ソロモン\n…なにその、\n難問に悩んでいるような顔は？\n\n@ソロモン\n今のは笑うところよ？\n\n# textflame 0 0\n@\nそうか、いつもの\n彼女の理解されがたい\n冗談だったのか…\n\n# voice 250311 \"solomon_t_0004\"\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n@ソロモン\nまあ、いいわ\n\n@ソロモン\nじゃあ今から、\n難問じゃない簡単な問題を出すから\n答えてみて？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の覚えるコマンドスキルは\n知ってるかしら？\n\n# se \"SE_0734\"\n# select \"護神の最適解・怪\" \"select_label_1\" \"護神の最適解・改\" \"select_label_2\" \"護神の最適解・壊\" \"select_label_3\"\n私の覚えるコマンドスキルは\n知ってるかしら？\n"
+	},
+	{
+		"ID": 5313,
+		"unitID": 2503111,
+		"questionID": 9503128,
+		"script": ";;理砕『女神の輝眼』,1\n# face %(unit_a)s \"usual\"\n# voice 250311 \"solomon_t_0028\"\n# textflame 1 1\n@ソロモン\n暑いわね\nでも、かき氷屋は\n開いていないし…\n\n@ソロモン\nそうだ、代わりに海で\n流氷を獲ってくるというのは\nどうかしら？\n\n# textflame 0 0\n@\n唐突な提案に驚くマスター\n\n# voice 250311 \"solomon_t_0022\"\n# face %(unit_a)s \"angry\"\n# textflame 1 1\n@ソロモン\n…なにその、\n難問に悩んでいるような顔は？\n\n@ソロモン\n今のは笑うところよ？\n\n# textflame 0 0\n@\nそうか、いつもの\n彼女の理解されがたい\n冗談だったのか…\n\n# voice 250311 \"solomon_t_0004\"\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n@ソロモン\nまあ、いいわ\n\n@ソロモン\nじゃあ今から、\n難問じゃない簡単な問題を出すから\n答えてみて？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の覚えるコマンドスキルは\n知ってるかしら？\n\n# se \"SE_0734\"\n# select \"理砕『女神の輝眼』\" \"select_label_1\" \"理砕『女神の義眼』\" \"select_label_2\" \"理砕『女神の眼孔』\" \"select_label_3\"\n私の覚えるコマンドスキルは\n知ってるかしら？\n"
+	},
+	{
+		"ID": 5314,
+		"unitID": 2503111,
+		"questionID": 9503129,
+		"script": ";;護神の抵抗,2\n# face %(unit_a)s \"usual\"\n# voice 250311 \"solomon_t_0028\"\n# textflame 1 1\n@ソロモン\n暑いわね\nでも、かき氷屋は\n開いていないし…\n\n@ソロモン\nそうだ、代わりに海で\n流氷を獲ってくるというのは\nどうかしら？\n\n# textflame 0 0\n@\n唐突な提案に驚くマスター\n\n# voice 250311 \"solomon_t_0022\"\n# face %(unit_a)s \"angry\"\n# textflame 1 1\n@ソロモン\n…なにその、\n難問に悩んでいるような顔は？\n\n@ソロモン\n今のは笑うところよ？\n\n# textflame 0 0\n@\nそうか、いつもの\n彼女の理解されがたい\n冗談だったのか…\n\n# voice 250311 \"solomon_t_0004\"\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n@ソロモン\nまあ、いいわ\n\n@ソロモン\nじゃあ今から、\n難問じゃない簡単な問題を出すから\n答えてみて？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私が覚える付与スキルは\nわかるかしら？\n\n# se \"SE_0734\"\n# select \"護神の運動\" \"select_label_1\" \"護神の抵抗\" \"select_label_2\" \"護神の反発\" \"select_label_3\"\n私が覚える付与スキルは\nわかるかしら？\n"
+	},
+	{
+		"ID": 5315,
+		"unitID": 2503111,
+		"questionID": 9503130,
+		"script": ";;栄光もたらす護神,2\n# face %(unit_a)s \"usual\"\n# voice 250311 \"solomon_t_0028\"\n# textflame 1 1\n@ソロモン\n暑いわね\nでも、かき氷屋は\n開いていないし…\n\n@ソロモン\nそうだ、代わりに海で\n流氷を獲ってくるというのは\nどうかしら？\n\n# textflame 0 0\n@\n唐突な提案に驚くマスター\n\n# voice 250311 \"solomon_t_0022\"\n# face %(unit_a)s \"angry\"\n# textflame 1 1\n@ソロモン\n…なにその、\n難問に悩んでいるような顔は？\n\n@ソロモン\n今のは笑うところよ？\n\n# textflame 0 0\n@\nそうか、いつもの\n彼女の理解されがたい\n冗談だったのか…\n\n# voice 250311 \"solomon_t_0004\"\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n@ソロモン\nまあ、いいわ\n\n@ソロモン\nじゃあ今から、\n難問じゃない簡単な問題を出すから\n答えてみて？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私が覚える付与スキルは\nわかるかしら？\n\n# se \"SE_0734\"\n# select \"栄光もたらす魔神\" \"select_label_1\" \"栄光もたらす護神\" \"select_label_2\" \"栄光もたらす亜人\" \"select_label_3\"\n私が覚える付与スキルは\nわかるかしら？\n"
+	},
+	{
+		"ID": 5316,
+		"unitID": 2503111,
+		"questionID": 9503131,
+		"script": ";;紀元前1011年頃,3\n# face %(unit_a)s \"usual\"\n# voice 250311 \"solomon_t_0002\"\n# textflame 1 1\n@ソロモン\n最近、思っていることがあるの\n\n# face %(unit_a)s \"angry\"\n@ソロモン\n今のままじゃいけない\n私はこの先、もっと\n変わらなくちゃいけないって\n\n# textflame 0 0\n@\n決意を込めた瞳を\nこちらに向ける彼女\n\n# voice 250311 \"solomon_t_0003\"\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n@ソロモン\n私の分析によると…\n今から問題を出して\nもし正解してくれたら…\n\n@ソロモン\n私は変われる\n\n@ソロモン\nってことで、いくわよ？\n\n# textflame 0 0\n@\n突如、責任重大なクイズが始まった\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私のキラーズを所持していた\nソロモン王が生まれたと云われる\n年はいつかわかるかしら？\n\n# se \"SE_0734\"\n# select \"西暦10年頃\" \"select_label_1\" \"西暦1011年頃\" \"select_label_2\" \"紀元前1011年頃\" \"select_label_3\"\n私のキラーズを所持していた\nソロモン王が生まれたと云われる\n年はいつかわかるかしら？\n"
+	},
+	{
+		"ID": 5317,
+		"unitID": 2503111,
+		"questionID": 9503132,
+		"script": ";;October,1\n# face %(unit_a)s \"usual\"\n# voice 250311 \"solomon_t_0002\"\n# textflame 1 1\n@ソロモン\n最近、思っていることがあるの\n\n# face %(unit_a)s \"angry\"\n@ソロモン\n今のままじゃいけない\n私はこの先、もっと\n変わらなくちゃいけないって\n\n# textflame 0 0\n@\n決意を込めた瞳を\nこちらに向ける彼女\n\n# voice 250311 \"solomon_t_0003\"\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n@ソロモン\n私の分析によると…\n今から問題を出して\nもし正解してくれたら…\n\n@ソロモン\n私は変われる\n\n@ソロモン\nってことで、いくわよ？\n\n# textflame 0 0\n@\n突如、責任重大なクイズが始まった\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私の誕生月を英語で言うと…？\n\n# se \"SE_0734\"\n# select \"October\" \"select_label_1\" \"January\" \"select_label_2\" \"September\" \"select_label_3\"\n私の誕生月を英語で言うと…？\n"
+	},
+	{
+		"ID": 5318,
+		"unitID": 2503111,
+		"questionID": 9503133,
+		"script": ";;チェス,2\n# face %(unit_a)s \"usual\"\n# voice 250311 \"solomon_t_0002\"\n# textflame 1 1\n@ソロモン\n最近、思っていることがあるの\n\n# face %(unit_a)s \"angry\"\n@ソロモン\n今のままじゃいけない\n私はこの先、もっと\n変わらなくちゃいけないって\n\n# textflame 0 0\n@\n決意を込めた瞳を\nこちらに向ける彼女\n\n# voice 250311 \"solomon_t_0003\"\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n@ソロモン\n私の分析によると…\n今から問題を出して\nもし正解してくれたら…\n\n@ソロモン\n私は変われる\n\n@ソロモン\nってことで、いくわよ？\n\n# textflame 0 0\n@\n突如、責任重大なクイズが始まった\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私の好きなボードゲームと言えば？\n\n# se \"SE_0734\"\n# select \"けん玉\" \"select_label_1\" \"チェス\" \"select_label_2\" \"トントン相撲\" \"select_label_3\"\n私の好きなボードゲームと言えば？\n"
+	},
+	{
+		"ID": 5319,
+		"unitID": 2503111,
+		"questionID": 9503134,
+		"script": ";;方天画戟,3\n# face %(unit_a)s \"usual\"\n# voice 250311 \"solomon_t_0002\"\n# textflame 1 1\n@ソロモン\n最近、思っていることがあるの\n\n# face %(unit_a)s \"angry\"\n@ソロモン\n今のままじゃいけない\n私はこの先、もっと\n変わらなくちゃいけないって\n\n# textflame 0 0\n@\n決意を込めた瞳を\nこちらに向ける彼女\n\n# voice 250311 \"solomon_t_0003\"\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n@ソロモン\n私の分析によると…\n今から問題を出して\nもし正解してくれたら…\n\n@ソロモン\n私は変われる\n\n@ソロモン\nってことで、いくわよ？\n\n# textflame 0 0\n@\n突如、責任重大なクイズが始まった\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私と誕生月が同じなのは誰？\n\n# se \"SE_0734\"\n# select \"フランキスカ\" \"select_label_1\" \"デュランダル\" \"select_label_2\" \"方天画戟\" \"select_label_3\"\n私と誕生月が同じなのは誰？\n"
+	},
+	{
+		"ID": 5320,
+		"unitID": 2503111,
+		"questionID": 9503135,
+		"script": ";;Libra,3\n# face %(unit_a)s \"usual\"\n# voice 250311 \"solomon_t_0002\"\n# textflame 1 1\n@ソロモン\n最近、思っていることがあるの\n\n# face %(unit_a)s \"angry\"\n@ソロモン\n今のままじゃいけない\n私はこの先、もっと\n変わらなくちゃいけないって\n\n# textflame 0 0\n@\n決意を込めた瞳を\nこちらに向ける彼女\n\n# voice 250311 \"solomon_t_0003\"\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n@ソロモン\n私の分析によると…\n今から問題を出して\nもし正解してくれたら…\n\n@ソロモン\n私は変われる\n\n@ソロモン\nってことで、いくわよ？\n\n# textflame 0 0\n@\n突如、責任重大なクイズが始まった\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私の星座を英語で言うと？\n\n# se \"SE_0734\"\n# select \"Capricorn\" \"select_label_1\" \"Taurus\" \"select_label_2\" \"Libra\" \"select_label_3\"\n私の星座を英語で言うと？\n"
+	},
+	{
+		"ID": 5321,
+		"unitID": 2503111,
+		"questionID": 9503136,
+		"script": ";;カリス,3\n# face %(unit_a)s \"usual\"\n# voice 250311 \"solomon_t_0002\"\n# textflame 1 1\n@ソロモン\n最近、思っていることがあるの\n\n# face %(unit_a)s \"angry\"\n@ソロモン\n今のままじゃいけない\n私はこの先、もっと\n変わらなくちゃいけないって\n\n# textflame 0 0\n@\n決意を込めた瞳を\nこちらに向ける彼女\n\n# voice 250311 \"solomon_t_0003\"\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n@ソロモン\n私の分析によると…\n今から問題を出して\nもし正解してくれたら…\n\n@ソロモン\n私は変われる\n\n@ソロモン\nってことで、いくわよ？\n\n# textflame 0 0\n@\n突如、責任重大なクイズが始まった\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私と同じディスラプターズに\n所属しているのは誰？\n\n# se \"SE_0734\"\n# select \"ロンギヌス\" \"select_label_1\" \"カシウス\" \"select_label_2\" \"カリス\" \"select_label_3\"\n私と同じディスラプターズに\n所属しているのは誰？\n"
+	},
+	{
+		"ID": 5322,
+		"unitID": 2503111,
+		"questionID": 9503137,
+		"script": ";;兵隊,1\n# face %(unit_a)s \"usual\"\n# voice 250311 \"solomon_t_0002\"\n# textflame 1 1\n@ソロモン\n最近、思っていることがあるの\n\n# face %(unit_a)s \"angry\"\n@ソロモン\n今のままじゃいけない\n私はこの先、もっと\n変わらなくちゃいけないって\n\n# textflame 0 0\n@\n決意を込めた瞳を\nこちらに向ける彼女\n\n# voice 250311 \"solomon_t_0003\"\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n@ソロモン\n私の分析によると…\n今から問題を出して\nもし正解してくれたら…\n\n@ソロモン\n私は変われる\n\n@ソロモン\nってことで、いくわよ？\n\n# textflame 0 0\n@\n突如、責任重大なクイズが始まった\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私が好きなチェスで使う駒、\nポーンとはどんな意味？\n\n# se \"SE_0734\"\n# select \"兵隊\" \"select_label_1\" \"女王\" \"select_label_2\" \"平民\" \"select_label_3\"\n私が好きなチェスで使う駒、\nポーンとはどんな意味？\n"
+	},
+	{
+		"ID": 5323,
+		"unitID": 2503111,
+		"questionID": 9503138,
+		"script": ";;アスカロン,3\n# face %(unit_a)s \"usual\"\n# voice 250311 \"solomon_t_0002\"\n# textflame 1 1\n@ソロモン\n最近、思っていることがあるの\n\n# face %(unit_a)s \"angry\"\n@ソロモン\n今のままじゃいけない\n私はこの先、もっと\n変わらなくちゃいけないって\n\n# textflame 0 0\n@\n決意を込めた瞳を\nこちらに向ける彼女\n\n# voice 250311 \"solomon_t_0003\"\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n@ソロモン\n私の分析によると…\n今から問題を出して\nもし正解してくれたら…\n\n@ソロモン\n私は変われる\n\n@ソロモン\nってことで、いくわよ？\n\n# textflame 0 0\n@\n突如、責任重大なクイズが始まった\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私と同じ血液型なのは？\n\n# se \"SE_0734\"\n# select \"シユウ\" \"select_label_1\" \"アフロディーテ\" \"select_label_2\" \"アスカロン\" \"select_label_3\"\n私と同じ血液型なのは？\n"
+	},
+	{
+		"ID": 5324,
+		"unitID": 2503111,
+		"questionID": 9503139,
+		"script": ";;シユウ,1\n# face %(unit_a)s \"usual\"\n# voice 250311 \"solomon_t_0002\"\n# textflame 1 1\n@ソロモン\n最近、思っていることがあるの\n\n# face %(unit_a)s \"angry\"\n@ソロモン\n今のままじゃいけない\n私はこの先、もっと\n変わらなくちゃいけないって\n\n# textflame 0 0\n@\n決意を込めた瞳を\nこちらに向ける彼女\n\n# voice 250311 \"solomon_t_0003\"\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n@ソロモン\n私の分析によると…\n今から問題を出して\nもし正解してくれたら…\n\n@ソロモン\n私は変われる\n\n@ソロモン\nってことで、いくわよ？\n\n# textflame 0 0\n@\n突如、責任重大なクイズが始まった\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私と違う血液型なのは\n誰かわかるかしら？\n\n# se \"SE_0734\"\n# select \"シユウ\" \"select_label_1\" \"アスカロン\" \"select_label_2\" \"フォルカス\" \"select_label_3\"\n私と違う血液型なのは\n誰かわかるかしら？\n"
+	},
+	{
+		"ID": 5325,
+		"unitID": 2503111,
+		"questionID": 9503140,
+		"script": ";;アロンダイト,2\n# face %(unit_a)s \"usual\"\n# voice 250311 \"solomon_t_0002\"\n# textflame 1 1\n@ソロモン\n最近、思っていることがあるの\n\n# face %(unit_a)s \"angry\"\n@ソロモン\n今のままじゃいけない\n私はこの先、もっと\n変わらなくちゃいけないって\n\n# textflame 0 0\n@\n決意を込めた瞳を\nこちらに向ける彼女\n\n# voice 250311 \"solomon_t_0003\"\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n@ソロモン\n私の分析によると…\n今から問題を出して\nもし正解してくれたら…\n\n@ソロモン\n私は変われる\n\n@ソロモン\nってことで、いくわよ？\n\n# textflame 0 0\n@\n突如、責任重大なクイズが始まった\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私と違う誕生月なのは\n誰かわかるかしら？\n\n# se \"SE_0734\"\n# select \"テュルソス\" \"select_label_1\" \"アロンダイト\" \"select_label_2\" \"方天画戟\" \"select_label_3\"\n私と違う誕生月なのは\n誰かわかるかしら？\n"
+	},
+	{
+		"ID": 5326,
+		"unitID": 2503111,
+		"questionID": 9503141,
+		"script": "\n;;私,2\n# se \"SE_0734\"\n# select \"ミー\" \"select_label_1\" \"私\" \"select_label_2\" \"ウチ\" \"select_label_3\"\nソロモンの一人称は\n次のうちどれでしょうか？\n"
+	},
+	{
+		"ID": 5327,
+		"unitID": 2503111,
+		"questionID": 9503142,
+		"script": "\n;;貴方,3\n# se \"SE_0734\"\n# select \"ユー\" \"select_label_1\" \"そなた\" \"select_label_2\" \"貴方\" \"select_label_3\"\nソロモンはマスターのこと、\nなんと呼んでますか？\n"
+	},
+	{
+		"ID": 5328,
+		"unitID": 2503111,
+		"questionID": 9503143,
+		"script": "\n;;91cm,3\n# se \"SE_0734\"\n# select \"85cm\" \"select_label_1\" \"82cm\" \"select_label_2\" \"91cm\" \"select_label_3\"\nソロモンの\nバストサイズがどのくらいか\nマスターは…ご存知でしょうか？\n"
+	},
+	{
+		"ID": 5329,
+		"unitID": 2503111,
+		"questionID": 9503144,
+		"script": "\n;;59cm,1\n# se \"SE_0734\"\n# select \"59cm\" \"select_label_1\" \"60cm\" \"select_label_2\" \"62cm\" \"select_label_3\"\nソロモンの\nウエストサイズがどのくらいか\nマスターは…ご存知でしょうか？\n"
+	},
+	{
+		"ID": 5330,
+		"unitID": 2503111,
+		"questionID": 9503145,
+		"script": "\n;;93cm,3\n# se \"SE_0734\"\n# select \"85cm\" \"select_label_1\" \"89cm\" \"select_label_2\" \"93cm\" \"select_label_3\"\nソロモンの\nヒップサイズがどのくらいか\nマスターは…ご存知でしょうか？\n"
+	},
+	{
+		"ID": 5331,
+		"unitID": 2503111,
+		"questionID": 9503146,
+		"script": "\n;;52ｋｇ,2\n# se \"SE_0734\"\n# select \"51kg\" \"select_label_1\" \"52ｋｇ\" \"select_label_2\" \"45kg\" \"select_label_3\"\nソロモンの体重は\n次のうちどれでしょう？\n"
+	},
+	{
+		"ID": 5332,
+		"unitID": 2503111,
+		"questionID": 9503147,
+		"script": "\n;;243,2\n# se \"SE_0734\"\n# select \"239\" \"select_label_1\" \"243\" \"select_label_2\" \"250\" \"select_label_3\"\nソロモンの\nバスト＋ウエスト＋ヒップは\nどのくらいかわかりますか？\n"
+	},
+	{
+		"ID": 5333,
+		"unitID": 2503111,
+		"questionID": 9503148,
+		"script": "\n;;茶色,2\n# se \"SE_0734\"\n# select \"黄色\" \"select_label_1\" \"茶色\" \"select_label_2\" \"白色\" \"select_label_3\"\nソロモンの髪の色は\n次のうちどれでしょう？\n"
+	},
+	{
+		"ID": 5334,
+		"unitID": 2503111,
+		"questionID": 9503149,
+		"script": "\n;;1位,1\n# se \"SE_0734\"\n# select \"1位\" \"select_label_1\" \"２位\" \"select_label_2\" \"３位\" \"select_label_3\"\nソロモンは\n第４回人気投票で\n何位だったでしょうか？\n"
+	},
+	{
+		"ID": 5335,
+		"unitID": 2503111,
+		"questionID": 9503150,
+		"script": "\n;;秦佐和子,2\n# se \"SE_0734\"\n# select \"井澤詩織\" \"select_label_1\" \"秦佐和子\" \"select_label_2\" \"佐倉綾音\" \"select_label_3\"\nソロモンの声優は誰でしょう？\n"
+	}
+]

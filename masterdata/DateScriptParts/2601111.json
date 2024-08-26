@@ -1,0 +1,26 @@
+[
+	{
+		"ID": 224,
+		"unitID": 2601111,
+		"scriptID": "kaerimichi",
+		"script": "わおーん！！！…あ、ごめんなさい\nでも、なんだか楽しくなってきました\nまだまだ遊びましょう～！"
+	},
+	{
+		"ID": 239,
+		"unitID": 2601111,
+		"scriptID": "kaeru",
+		"script": "ん～、そろそろ\n眠くなってきちゃいました～\nもう帰りましょう～"
+	},
+	{
+		"ID": 254,
+		"unitID": 2601111,
+		"scriptID": "kaeru_ok",
+		"script": "@%(unitName:unit_a)s\nいいですよ～！\nお肉食べに行きませんか？\nお・に・くー！"
+	},
+	{
+		"ID": 269,
+		"unitID": 2601111,
+		"scriptID": "kaeru_ng",
+		"script": "@%(unitName:unit_a)s\nこの後シユウさんと\nマーラーカオ食べに行くんですよ～\nごめんなさいね～"
+	}
+]

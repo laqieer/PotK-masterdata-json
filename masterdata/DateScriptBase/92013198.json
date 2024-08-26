@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 92013198,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# voice 2013 \"reshef_0013\"\n# se \"SE_0733\"\n# face %(unit_a)s \"angry\"\n@レシェフ\n気合い…\n\n@レシェフ\n足んないんじゃないの…？\n\n# face %(unit_a)s \"sad\"\n@レシェフ\nはぁ…なんかショック…\n\n@レシェフ\nえ？\n今度はマスターから、\nあたしに問題…？\n\n# face %(unit_a)s \"angry\"\n@レシェフ\nいいよ…\nそんな気分じゃなくなっちゃった…\n\n# face %(unit_a)s \"usual\"\n@レシェフ\nあー、でもあたしも\nマスターのこと全部知ってるかと\n言われたらそうじゃないかも\n\n@レシェフ\nよっし！\n切り替えてこー！\n\n# textflame 0 0\n@\n明るく振る舞う彼女だが、\nどこかぎこちなさすら感じた\n\n@\nデート中に\nがっかりさせてしまうなんて…\n\n@\n彼女の元気な笑顔が好きだから\n次は間違えないようにしないと…\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

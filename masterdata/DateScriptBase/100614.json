@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 100614,
+		"script": "# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_hauntedhouse\"\n# bgmfile \"bgm257\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 0 0\n@\nマスターは突然、\n大声を発した！\n\n# voice 1006 \"nageruring_0038\"\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@ナーゲルリング\nきゃあああああっ！？\n\n# face %(unit_a)s \"angry\"\n@ナーゲルリング\n――って！\nなにしてんですかあなたは！？\n\n@ナーゲルリング\n人が怖がってるのに、\nびっくりさせるなんて…！\n\n# voice 1006 \"nageruring_0023\"\n# face %(unit_a)s \"sad\"\n@ナーゲルリング\nあっ、いえっ！\n別に怖がってなかったですけど…！\n\n# voice 1006 \"nageruring_0007\"\n# face %(unit_a)s \"angry\"\n@ナーゲルリング\n怖くないですから！\nホントに！大丈夫ですから！\n;;--------------------------------------\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

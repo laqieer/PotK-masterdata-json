@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 401724,
+		"script": "# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_shipboard\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 4017 \"suiha_0022\"\n@スイハ\n船、ですか？\nたしかに、立派ですね\n（え、どういうことだろう）\n\n@スイハ\n…………\n（船を見るだけなら、わざわざ\n海に出てこなくても見れるのに？）\n\n@スイハ\nお、大きな船ですね\n（で、でもせっかくのお誘いだし\nマスターに話を合わせないと）\n\n# textflame 0 0\n@\nスイハに\nいらない気を使わせてしまった…\n\n@\nこの微妙な空気は陸地に戻るまで\n続いてしまうのだった…\n;;----------------------------------------\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

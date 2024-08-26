@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 300921,
+		"script": ";;A 大胆っすね…（中）\n;;B なんか、違う…（大）\n;;C はだかのつきあい…（小）\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_onsen\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 0 0\n@\nマスターは青龍偃月刀を誘って\n水着着用の温泉に\nやってきたのだが…\n\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# voice 3009 \"seiryu_0005\"\n@青龍偃月刀\nはぁ…\n極楽とはまさにこのこと！\n日頃の疲れが癒えますね…\n\n@青龍偃月刀\nやはり主従を結んだ者同士\n\n# voice 3009 \"seiryu_0003\"\n@青龍偃月刀\n水着は着用していますが、\nほぼ裸の付き合いとは\nよいものです！\n\n# select \"大胆っすね…\" \"select_label_01\" \"なんか、違う…\" \"select_label_02\" \"はだかのつきあい…\" \"select_label_03\"\n水着は着用していますが、\nほぼ裸の付き合いとは\nよいものです！\n\n# label \"select_label_01\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_02\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_03\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_end\"\n# waitandnext 0.1\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

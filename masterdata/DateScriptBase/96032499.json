@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 96032499,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# se \"SE_0732\"\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n@オルフェウス\nその答え…\n\n# eye %(unit_a)s \"close\"\n# voice 560321 \"orpheus_c_0005\"\n@オルフェウス\n大正解～～～♪\n\n# eye %(unit_a)s \"normal\"\n@オルフェウス\nじゃあ、音楽じゃなくて\nリーダーを選ぼっかな\n\n@オルフェウス\n…なんて、\n選べるわけないよね♪\n\n@オルフェウス\nわたしにとって、\nリーダーも音楽も\n同じくらい大切だし\n\n# voice 560321 \"orpheus_c_0020\"\n# eye %(unit_a)s \"close\"\n@オルフェウス\nリーダーとずっと一緒に\n音楽できたら、マジサイコーだよね♪\n\n@オルフェウス\nてことで、\nこれからもずっと…\n\n# voice 560321 \"orpheus_c_0004\"\n@オルフェウス\nセッション、よろ♪\n\n# textflame 0 0\n@\nその笑顔は、\n真夏の太陽にも負けないくらい\n光り輝いていた\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

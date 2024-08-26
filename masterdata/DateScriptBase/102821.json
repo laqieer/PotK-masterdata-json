@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 102821,
+		"script": ";;A 今日は渡しません (大)\n;;B 姫、こちらに (中)\n;;C 堂々と浮気宣言！ (小)\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_shipboard\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 0 0\n@\nマスターは\nダーインスレイヴを誘って\nナイトクルーズにやってきた\n\n# eye %(unit_a)s \"close\"\n# voice 1028 \"dainsleif_0004\"\n# textflame 1 1\n@ダーインスレイヴ\n美しいドレスに\n身を包んだ女性が多いな…\nふふっ\n\n# textflame 0 0\n@\n少しいたずらっぽく\n笑うダーインスレイヴ\n\n# face %(unit_a)s \"normal\"\n# eye %(unit_a)s \"normal\"\n# textflame 1 1\n@ダーインスレイヴ\nもし他の女性と\nわたしが良い雰囲気になっても\n邪魔をしないでおくれよ？\n\n# select \"今日は渡しません\" \"select_label_01\" \"姫、こちらに\" \"select_label_02\" \"堂々と浮気宣言！\" \"select_label_03\"\nもし他の女性と\nわたしが良い雰囲気になっても\n邪魔をしないでおくれよ？\n\n# label \"select_label_01\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_02\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_03\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_end\"\n# waitandnext 0.1\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 502512,
+		"script": ";;B大-------------------\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_castle\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n@めぐみん\nそうですね\n今日はじっくりと\n楽しみたいと思います\n\n# voice 5025 \"megumin_0022\"\n# face %(unit_a)s \"sad\"\n@めぐみん\nではさっそく…わわっ！？\n\n# textflame 0 0\n@\nつまずきそうになっためぐみんを\nマスターは支えてあげる\n\n# face %(unit_a)s \"happy\"\n# textflame 1 1\n@めぐみん\nあ、ありがとうございます\n\n@めぐみん\nこんなところに段差があるとは…\n\n;;モノローグ\n# textflame 0 0\n@\n和風のお城は\n引き戸だったりで段差が多いんだ\nとマスター\n\n@\n危ないから慣れるまで\n手を握っておこうか？\n\n# textflame 1 1\n@めぐみん\nはい、お願いします\n\n# textflame 0 0\n@\nそうして二人はそのまま\nお城の探索を満喫するのだった\n\n# waitandnext 2\n# fadeout \"black\" 1.2\n"
+	}
+]

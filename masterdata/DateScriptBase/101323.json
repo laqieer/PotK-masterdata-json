@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 101323,
+		"script": "# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_room\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# voice 1013 \"paracelsus_0007\"\n# face %(unit_a)s \"angry\"\n@パラケルスス\nそんな陽気な雰囲気で\n登場してたまるか！\n\n# textflame 1 1\n@パラケルスス\nそもそもだ…\n今のわたくしは\nホムンクルスを生むつもりはない！\n\n# textflame 0 0\n@\nパラケルススは\nマスターに食いつかんばかりの\n勢いでまくし立てる…！\n\n# textflame 1 1\n@パラケルスス\n考えを改めたのだ\n生命はやはり…\n人が腹を痛めて生むべきだと！\n\n# textflame 1 1\n@パラケルスス\n男女の営みによって\n生まれるべきなのだと…！\n\n# textflame 0 0\n@\nそこまでいい切ってから\n耳まで顔を真っ赤にして\nしばらく停止する彼女だった…\n;;----------------------------------------\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

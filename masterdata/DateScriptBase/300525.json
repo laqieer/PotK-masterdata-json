@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 300525,
+		"script": ";;正直ヒヤヒヤしてます,小\n;;よく来てくれたよね,中\n;;水着着用じゃなければ…,大\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_onsen\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 0 0\n@\nマスターは\nルーンを誘って\n水着着用の温泉にやってきた\n\n# voice 3005 \"roon_0020\"\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@ルーン\nはぁ…♪\n悪くないな、これ…\n;;----------------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nあっつい液体に浸かるのって…\nなんだかとーっても落ち着くな♪\n\n# textflame 0 0\n@\n正直ヒヤヒヤしてます\n\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@ルーン\nああ、だって…\n気持ちよさそうだったし♪\n\n# textflame 0 0\n@\n満足そうなルーンの横顔を見て\nほっと胸をなでおろすマスター\nだったが…\n\n# textflame 1 1\n@ルーン\nまあ、混浴とは\n聞いてなかったけど…なっ♪\n\n# voice 3005 \"roon_0004\"\n# textflame 1 1\n@ルーン\nさぁて…弁明するか？\nそれとも…？\n\n# textflame 0 0\n@\n湯けむりの向こうに\n三途の川が見えた気がした\nマスターであった…\n;;----------------------------------------\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

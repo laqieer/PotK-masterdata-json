@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 40112301,
+		"script": "# script \"lisp\"\n# background \"flower_garden\"\n# bgm \"bgm004\" 0\n# body 401121\n# pos 401121 3\n# textflame 0 0\n@\n暗かった空は光を取り戻し、\n煌々と大地を照らしていた\n\n;;マスターの台詞はモノローグ枠色のままで\n@マスター\n一体…\nなにが起きたんだ…？\n\n@マスター\nキラープリンセスたちと一緒に…\n“なにか”と戦っていたような…\n\n# body 8\n# pos 8 2\n# alpha 8 0 0\n@マスター\n…！！\nな…なんだ…\nあの生き物は？\n\n# textflame 1 1\n# move 401121 5 0.5\n# mask 401121 on\n# alpha 8 1 0.5\n@キュゥべえ\nあ、見つかっちゃったか\n\n# textflame 0 0\n@マスター\nき、君は…？\n\n# textflame 1 1\n@キュゥべえ\n僕はキュゥべえ\n\n# textflame 0 0\n@マスター\n…？\n\n# textflame 1 1\n@キュゥべえ\n彼女のおかげで君達と\nこの世界は\nまた元の形に戻れたんだよ\n\n# textflame 0 0\n@マスター\n彼女…って…\n\n# textflame 1 1\n@キュゥべえ\n名前は「まどか」\n君達にとっては\n救世主ってことになるのかな\n\n# textflame 0 0\n@マスター\nま…どか…\n\n# textflame 1 1\n@キュゥべえ\nまあ、覚えてないのも\n無理はないよ\n彼女は「神」になったんだからね\n\n# textflame 0 0\n@マスター\n…神\n\n@マスター\nねぇ…教えてくれないか？\nその…「まどか」って\n子のことを\n\n@マスター\n刻んでおきたいんだ…胸に\n僕達を救ってくれた\n恩人のことを\n\n# textflame 1 1\n@キュゥべえ\nどうして？\n\n# textflame 0 0\n@マスター\nうまくは言えないけど…\n聞いておかなくてはいけない…\nそんな気がするから…\n\n# textflame 0 0\n@\nこの晴れ渡った空は、\n“まどか”という少女のおかげ…\n\n# textflame 0 0\n@\nそう思うと、\n聞かずにはいられない\nマスターだった"
+	}
+]

@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 502711,
+		"script": ";;A 全部乗っちゃおうよ！ 大\n;;B 迷っちゃうよね　中\n;;C はしゃぐと観覧車が揺れちゃうよ…　小\n;;■□■赤・フライシュッツ_デート■□■\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_ferris\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 5027 \"freischotz_0004\"\n@フライシュッツ\nうわー、いい眺めだね\n遠くまで一望できて気持ちいいな♪\n\n# textflame 0 0\n@\nフライシュッツを\n喜ばせるにはどうしたらいいか\n\n@\n悩んだマスターは\nファンキルランドに誘ったのだった\n\n@\nそして今、\n二人は観覧車を楽しんでいる\n\n# textflame 1 1\n# face %(unit_a)s \"happy\"\n# voice 5027 \"freischotz_0002\"\n@フライシュッツ\nあの下に見える遊具面白そう！\nねえねえ、次はあれに乗ろうよ♪\n\n@フライシュッツ\nあ、あの乗り物も楽しそう\nうーん、迷っちゃうな…\n\n# select \"全部乗っちゃおうよ！\" \"select_label_01\" \"迷っちゃうよね\" \"select_label_02\" \"はしゃぐと観覧車が揺れちゃうよ…\" \"select_label_03\"\nあ、あの乗り物も楽しそう\nうーん、迷っちゃうな…\n\n# label \"select_label_01\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_02\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_03\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_end\"\n# waitandnext 0.1\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

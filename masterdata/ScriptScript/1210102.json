@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 1210102,
+		"script": ";;■□■２－１改修案■□■\n;;【２－１－１（バトル後）】\n;;整形済み\n# script \"lisp\"\n# background \"ghost_town\"\n# bgm \"bgm005\" 0\n# body 24\n# pos 24 2\n# scale 24 0.8 0\n# alpha 24 1 0\n# body 0\n# pos 0 4\n# scale 0 0.8 0\n# alpha 0 1 0\n# textboxarrow 0 1\n# face 24 \"angry\"\n# voice 1014 \"tyrufing_0037\"\n@ティルフィング\nやはり、そこかしこに\n異族が潜んでいる…！\nあの子を、早く見つけ出さないと！\n\n# textboxarrow 0 3\n# face 0 \"angry\"\n# voice 9999 \"durin_0065\"\n@デュリン\nティルフィング！\nアンタ、なにを勝手に決めてんのよ！\n\n# face 24 \"surprise\"\n# voice 1014 \"tyrufing_0022\"\n# textboxarrow 0 1\n@ティルフィング\n決めるって、なにが…？\n\n# voice 9999 \"durin_0014\"\n# textboxarrow 0 3\n@デュリン\nタダ働きよ！\n寄進を受けて討伐する…\nそれが、本来の流れでしょ！？\n\n# textboxarrow 0 1\n@ティルフィング\nでも、マスターは洗礼前の身…\nその規則は当てはまらないでしょ？\n\n# textboxarrow 0 3\n# voice 9999 \"durin_0027\"\n@デュリン\nそれは、そうだけど！\nそういうことを言ってんじゃないの！\n\n# face 24 \"angry\"\n# textboxarrow 0 1\n@ティルフィング\nともかく、話は後で…\nあの子を探すのが先決だわ\n\n# textwindow \"close\"\n# se \"SE_0719\"\n# alpha 24 0 0.5\n# waitandnext 0.5\n\n# textwindow \"normal\"\n# textboxarrow 0 3\n# voice 9999 \"durin_0010\"\n@デュリン\nちょ、ちょっと…\n待ちなさい、ティルフィング！"
+	}
+]

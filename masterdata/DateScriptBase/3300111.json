@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 3300111,
+		"script": ";;A,大\n;;B,中\n;;C,小\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_stream_day\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# face %(unit_a)s \"sad\"\n# textflame 0 0\n@\n夏らしく冒険がしてみたいと、\n気合いの入ったロンギヌス\n\n@\nマスターもノリノリで付き添い、\n渓流へとやってきたが…\n\n# textflame 1 1\n# voice 230013 \"ronginusu_lo_0023\"\n@ロンギヌス\nひゃ、ひゃわわわ…\nどうしましょう、\nおにいさぁん…！？\n\n@ロンギヌス\nこわくて、あ、あしがふるえて…\nつぎのいしに\nとびのれないです～…！\n\n@ロンギヌス\nかわのながれもはやいし…\nおちてながされたら\nどうしよう…！？\n\n# voice 230013 \"ronginusu_lo_0015\"\n@ロンギヌス\nお、おにいさぁん…\nたすけてくださ～いっ！\n\n# select \"手をつなごうか？\" \"select_label_01\" \"すぐそばで見守るよ\" \"select_label_02\" \"片足ずつ進もう！\" \"select_label_03\"\nかわのながれもはやいし…\nおちてながされたら\nどうしよう…！？\n\n# label \"select_label_01\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_02\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_03\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_end\"\n# waitandnext 0.1\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

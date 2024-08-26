@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 601721,
+		"script": "# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_onsen\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 0 0\n@\nマスターはアクアとともに\n温泉にやって来た\n\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@アクア\n温泉よ、温泉！\nこの島にもあったのね\n\n# face %(unit_a)s \"usual\"\n@アクア\nふふ～ん？\nまあ、混浴で水着着用ってのが\nちょっとアレだけど…\n\n# face %(unit_a)s \"smile\"\n@アクア\nはぁ～、癒されるわ～\n\n# textflame 0 0\n@\nお湯に浸かって\nアクアはかなり気持ちよさそうだ\n\n# textflame 1 1\n@アクア\nあっそうそう、私って油断すると\n女神パワーで温泉を浄化して\nただのお湯にしちゃうんだけど…\n\n@アクア\n今日は気をつけてるから大丈夫よ！\n\n# textflame 0 0\n@\nさらっと、とんでもないことを\n聞いたように思うマスターだったが\nまずは温泉に浸かることにする\n\n# select \"上がったらシュワシュワかな\" \"select_label_01\" \"うん、気持ちいいね\" \"select_label_02\" \"温泉って熱いね…\" \"select_label_03\"\nさらっと、とんでもないことを\n聞いたように思うマスターだったが\nまずは温泉に浸かることにする\n\n# label \"select_label_01\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_02\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_03\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# textflame 1 1\n# waitandnext 0.1\n\n# label \"select_label_end\"\n# waitandnext 2\n# fadeout \"black\" 1.2"
+	}
+]

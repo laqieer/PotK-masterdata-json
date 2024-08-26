@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 3101512,
+		"script": "# script \"lisp\"\n# background \"ground_surface_break\"\n# body 1100221\n# mask 1100221 off\n# pos 1100221 3\n# textboxarrow 0 2\n# chara 1100221\n@ゼロ\nお前の力になるために\n無理してやって来たんだ…\n\n# chara 1100221\n@ゼロ\n俺は…\n “地上世界”で待ってるからな！\n\n# alpha 1100221 0 0.5\n# textboxarrow 0 0"
+	}
+]

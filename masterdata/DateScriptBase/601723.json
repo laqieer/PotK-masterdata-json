@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 601723,
+		"script": ";;B中-------------------\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_onsen\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n@アクア\nはぁ～、本当にそうね～…\n\n@アクア\n身も心も洗われるようだわ…\n\n# textflame 0 0\n@\nアクアは\n温泉ですっかり\nリラックスしているようだ\n\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n@アクア\n元の世界…いえ、女神の立場に\n早く戻りたいって\n思ったりもしたけど…\n\n# face %(unit_a)s \"smile\"\n@アクア\nここも住めば都よね～\n\n# textflame 0 0\n@\n元の世界に心残りがあるの？\nそう尋ねそうになった\nマスターだったが言葉を飲み込む\n\n@\n今はそんなことはどうでもいい\nそう思い直し、\n黙って湯に浸かる\n\n@\nその後しばらく二人は\nゆっくり温泉を堪能し、\n穏やかな時を過ごしたのだった…\n\n;;--------------------------\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

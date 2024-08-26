@@ -1,0 +1,302 @@
+[
+	{
+		"ID": 3101,
+		"unitID": 2102511,
+		"questionID": 9102501,
+		"script": ";;むらさめ,1\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n# voice 1025 \"muramasa_0002\"\n@ムラマサ\n…あの……主君\n\n@ムラマサ\nわた…じゃなく、\n拙者といて…\n\n@ムラマサ\n楽しいですか…？\n\n# eye %(unit_a)s \"close\"\n# face %(unit_a)s \"normal\"\n# voice 1025 \"muramasa_0028\"\n@ムラマサ\n…………\n\n# eye %(unit_a)s \"normal\"\n@ムラマサ\nでは…\n拙者のこと…\nどれだけ知っているか\n\n@ムラマサ\nお伺いしてみても\nよろしいでしょうか…？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n拙者のキラーズ『ムラマサ』と\n語感が似ている『村雨』という刀の\n読み方はおわかりですか？\n\n# se \"SE_0734\"\n# select \"むらさめ\" \"select_label_1\" \"そんう\" \"select_label_2\" \"むらあめ\" \"select_label_3\"\n拙者のキラーズ『ムラマサ』と\n語感が似ている『村雨』という刀の\n読み方はおわかりですか？\n"
+	},
+	{
+		"ID": 3102,
+		"unitID": 2102511,
+		"questionID": 9102502,
+		"script": ";;刀,2\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n# voice 1025 \"muramasa_0002\"\n@ムラマサ\n…あの……主君\n\n@ムラマサ\nわた…じゃなく、\n拙者といて…\n\n@ムラマサ\n楽しいですか…？\n\n# eye %(unit_a)s \"close\"\n# face %(unit_a)s \"normal\"\n# voice 1025 \"muramasa_0028\"\n@ムラマサ\n…………\n\n# eye %(unit_a)s \"normal\"\n@ムラマサ\nでは…\n拙者のこと…\nどれだけ知っているか\n\n@ムラマサ\nお伺いしてみても\nよろしいでしょうか…？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n拙者のキラーズ『ムラマサ』は\nどんな武器だったかわかりますか？\n\n# se \"SE_0734\"\n# select \"なぎなた\" \"select_label_1\" \"刀\" \"select_label_2\" \"まきびし\" \"select_label_3\"\n拙者のキラーズ『ムラマサ』は\nどんな武器だったかわかりますか？\n"
+	},
+	{
+		"ID": 3103,
+		"unitID": 2102511,
+		"questionID": 9102503,
+		"script": ";;刀工,3\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n# voice 1025 \"muramasa_0002\"\n@ムラマサ\n…あの……主君\n\n@ムラマサ\nわた…じゃなく、\n拙者といて…\n\n@ムラマサ\n楽しいですか…？\n\n# eye %(unit_a)s \"close\"\n# face %(unit_a)s \"normal\"\n# voice 1025 \"muramasa_0028\"\n@ムラマサ\n…………\n\n# eye %(unit_a)s \"normal\"\n@ムラマサ\nでは…\n拙者のこと…\nどれだけ知っているか\n\n@ムラマサ\nお伺いしてみても\nよろしいでしょうか…？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n拙者のキラーズ『ムラマサ』は\nなんの名前だかわかりますか？\n\n# se \"SE_0734\"\n# select \"大名\" \"select_label_1\" \"侍\" \"select_label_2\" \"刀工\" \"select_label_3\"\n拙者のキラーズ『ムラマサ』は\nなんの名前だかわかりますか？\n"
+	},
+	{
+		"ID": 3104,
+		"unitID": 2102511,
+		"questionID": 9102504,
+		"script": ";;伊勢国,1\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n# voice 1025 \"muramasa_0002\"\n@ムラマサ\n…あの……主君\n\n@ムラマサ\nわた…じゃなく、\n拙者といて…\n\n@ムラマサ\n楽しいですか…？\n\n# eye %(unit_a)s \"close\"\n# face %(unit_a)s \"normal\"\n# voice 1025 \"muramasa_0028\"\n@ムラマサ\n…………\n\n# eye %(unit_a)s \"normal\"\n@ムラマサ\nでは…\n拙者のこと…\nどれだけ知っているか\n\n@ムラマサ\nお伺いしてみても\nよろしいでしょうか…？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n拙者のキラーズ『ムラマサ』の\n由来となった刀工「村正」は\nどこの出身かわかりますか？\n\n# se \"SE_0734\"\n# select \"伊勢国\" \"select_label_1\" \"三河国\" \"select_label_2\" \"紀州国\" \"select_label_3\"\n拙者のキラーズ『ムラマサ』の\n由来となった刀工「村正」は\nどこの出身かわかりますか？\n"
+	},
+	{
+		"ID": 3105,
+		"unitID": 2102511,
+		"questionID": 9102505,
+		"script": ";;三重県,2\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n# voice 1025 \"muramasa_0002\"\n@ムラマサ\n…あの……主君\n\n@ムラマサ\nわた…じゃなく、\n拙者といて…\n\n@ムラマサ\n楽しいですか…？\n\n# eye %(unit_a)s \"close\"\n# face %(unit_a)s \"normal\"\n# voice 1025 \"muramasa_0028\"\n@ムラマサ\n…………\n\n# eye %(unit_a)s \"normal\"\n@ムラマサ\nでは…\n拙者のこと…\nどれだけ知っているか\n\n@ムラマサ\nお伺いしてみても\nよろしいでしょうか…？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n刀工「村正」の出身地「伊勢国」は\n今の何県かわかりますか？\n\n# se \"SE_0734\"\n# select \"鳥取県\" \"select_label_1\" \"三重県\" \"select_label_2\" \"島根県\" \"select_label_3\"\n刀工「村正」の出身地「伊勢国」は\n今の何県かわかりますか？\n"
+	},
+	{
+		"ID": 3106,
+		"unitID": 2102511,
+		"questionID": 9102506,
+		"script": ";;千子村正,3\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n# voice 1025 \"muramasa_0002\"\n@ムラマサ\n…あの……主君\n\n@ムラマサ\nわた…じゃなく、\n拙者といて…\n\n@ムラマサ\n楽しいですか…？\n\n# eye %(unit_a)s \"close\"\n# face %(unit_a)s \"normal\"\n# voice 1025 \"muramasa_0028\"\n@ムラマサ\n…………\n\n# eye %(unit_a)s \"normal\"\n@ムラマサ\nでは…\n拙者のこと…\nどれだけ知っているか\n\n@ムラマサ\nお伺いしてみても\nよろしいでしょうか…？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n刀剣「村正」の別称は\n次のうちどれでしょうか？\n\n# se \"SE_0734\"\n# select \"億子村正\" \"select_label_1\" \"万子村正\" \"select_label_2\" \"千子村正\" \"select_label_3\"\n刀剣「村正」の別称は\n次のうちどれでしょうか？\n"
+	},
+	{
+		"ID": 3107,
+		"unitID": 2102511,
+		"questionID": 9102507,
+		"script": ";;妖刀,1\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n# voice 1025 \"muramasa_0002\"\n@ムラマサ\n…あの……主君\n\n@ムラマサ\nわた…じゃなく、\n拙者といて…\n\n@ムラマサ\n楽しいですか…？\n\n# eye %(unit_a)s \"close\"\n# face %(unit_a)s \"normal\"\n# voice 1025 \"muramasa_0028\"\n@ムラマサ\n…………\n\n# eye %(unit_a)s \"normal\"\n@ムラマサ\nでは…\n拙者のこと…\nどれだけ知っているか\n\n@ムラマサ\nお伺いしてみても\nよろしいでしょうか…？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n刀剣「村正」は\n一般にはどんな刀と\n云われているでしょうか？\n\n# se \"SE_0734\"\n# select \"妖刀\" \"select_label_1\" \"冷刀\" \"select_label_2\" \"熱刀\" \"select_label_3\"\n刀剣「村正」は\n一般にはどんな刀と\n云われているでしょうか？\n"
+	},
+	{
+		"ID": 3108,
+		"unitID": 2102511,
+		"questionID": 9102508,
+		"script": ";;徳川家,2\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n# voice 1025 \"muramasa_0002\"\n@ムラマサ\n…あの……主君\n\n@ムラマサ\nわた…じゃなく、\n拙者といて…\n\n@ムラマサ\n楽しいですか…？\n\n# eye %(unit_a)s \"close\"\n# face %(unit_a)s \"normal\"\n# voice 1025 \"muramasa_0028\"\n@ムラマサ\n…………\n\n# eye %(unit_a)s \"normal\"\n@ムラマサ\nでは…\n拙者のこと…\nどれだけ知っているか\n\n@ムラマサ\nお伺いしてみても\nよろしいでしょうか…？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n「村正」は何家に\n忌み嫌われていたか\nご存知でしょうか？\n\n# se \"SE_0734\"\n# select \"豊臣家\" \"select_label_1\" \"徳川家\" \"select_label_2\" \"織田家\" \"select_label_3\"\n「村正」は何家に\n忌み嫌われていたか\nご存知でしょうか？\n"
+	},
+	{
+		"ID": 3109,
+		"unitID": 2102511,
+		"questionID": 9102509,
+		"script": ";;名刀「正宗」,3\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n# voice 1025 \"muramasa_0002\"\n@ムラマサ\n…あの……主君\n\n@ムラマサ\nわた…じゃなく、\n拙者といて…\n\n@ムラマサ\n楽しいですか…？\n\n# eye %(unit_a)s \"close\"\n# face %(unit_a)s \"normal\"\n# voice 1025 \"muramasa_0028\"\n@ムラマサ\n…………\n\n# eye %(unit_a)s \"normal\"\n@ムラマサ\nでは…\n拙者のこと…\nどれだけ知っているか\n\n@ムラマサ\nお伺いしてみても\nよろしいでしょうか…？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n妖刀「村正」が\n比べられることが多い\n名刀といえば？\n\n# se \"SE_0734\"\n# select \"名刀「貞宗」\" \"select_label_1\" \"名刀「まさよし」\" \"select_label_2\" \"名刀「正宗」\" \"select_label_3\"\n妖刀「村正」が\n比べられることが多い\n名刀といえば？\n"
+	},
+	{
+		"ID": 3110,
+		"unitID": 2102511,
+		"questionID": 9102510,
+		"script": ";;流れくる葉が真っ二つに斬れた,1\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n# voice 1025 \"muramasa_0002\"\n@ムラマサ\n…あの……主君\n\n@ムラマサ\nわた…じゃなく、\n拙者といて…\n\n@ムラマサ\n楽しいですか…？\n\n# eye %(unit_a)s \"close\"\n# face %(unit_a)s \"normal\"\n# voice 1025 \"muramasa_0028\"\n@ムラマサ\n…………\n\n# eye %(unit_a)s \"normal\"\n@ムラマサ\nでは…\n拙者のこと…\nどれだけ知っているか\n\n@ムラマサ\nお伺いしてみても\nよろしいでしょうか…？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n「村正」の伝説で\n川に村正の刀を突き立てた時に\nなにが起きたかご存知ですか？\n\n# se \"SE_0734\"\n# select \"流れくる葉が真っ二つに斬れた\" \"select_label_1\" \"川が真っ二つに斬れた\" \"select_label_2\" \"刀が真っ二つに折れた\" \"select_label_3\"\n「村正」の伝説で\n川に村正の刀を突き立てた時に\nなにが起きたかご存知ですか？\n"
+	},
+	{
+		"ID": 3111,
+		"unitID": 2102511,
+		"questionID": 9102511,
+		"script": ";;炎,1\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n# voice 1025 \"muramasa_0028\"\n@ムラマサ\n拙者…未熟者ゆえ…\nや、やはり…\n\n@ムラマサ\n鍛錬を怠り…\nデートに興じている\n場合ではなかったのでは…\n\n# face %(unit_a)s \"angry\"\n@ムラマサ\nしゅ、主君は…！\n\n@ムラマサ\nせ、拙者を…\nどのように…\n見ておられるのですか…？\n\n# face %(unit_a)s \"normal\"\n@ムラマサ\n拙者のこと…\nどれほど知って\nおられるのでしょうか…？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n拙者の属性は\n知っていますか？\n\n# se \"SE_0734\"\n# select \"炎\" \"select_label_1\" \"氷\" \"select_label_2\" \"雷\" \"select_label_3\"\n拙者の属性は\n知っていますか？\n"
+	},
+	{
+		"ID": 3112,
+		"unitID": 2102511,
+		"questionID": 9102512,
+		"script": ";;156cm,2\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n# voice 1025 \"muramasa_0028\"\n@ムラマサ\n拙者…未熟者ゆえ…\nや、やはり…\n\n@ムラマサ\n鍛錬を怠り…\nデートに興じている\n場合ではなかったのでは…\n\n# face %(unit_a)s \"angry\"\n@ムラマサ\nしゅ、主君は…！\n\n@ムラマサ\nせ、拙者を…\nどのように…\n見ておられるのですか…？\n\n# face %(unit_a)s \"normal\"\n@ムラマサ\n拙者のこと…\nどれほど知って\nおられるのでしょうか…？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n拙者の身長は\nわかりますか？\n\n# se \"SE_0734\"\n# select \"160cm\" \"select_label_1\" \"156cm\" \"select_label_2\" \"172cm\" \"select_label_3\"\n拙者の身長は\nわかりますか？\n"
+	},
+	{
+		"ID": 3113,
+		"unitID": 2102511,
+		"questionID": 9102513,
+		"script": ";;2月20日,3\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n# voice 1025 \"muramasa_0028\"\n@ムラマサ\n拙者…未熟者ゆえ…\nや、やはり…\n\n@ムラマサ\n鍛錬を怠り…\nデートに興じている\n場合ではなかったのでは…\n\n# face %(unit_a)s \"angry\"\n@ムラマサ\nしゅ、主君は…！\n\n@ムラマサ\nせ、拙者を…\nどのように…\n見ておられるのですか…？\n\n# face %(unit_a)s \"normal\"\n@ムラマサ\n拙者のこと…\nどれほど知って\nおられるのでしょうか…？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわた…\n拙者の誕生日を\n知っていますか？\n\n# se \"SE_0734\"\n# select \"4月20日\" \"select_label_1\" \"3月20日\" \"select_label_2\" \"2月20日\" \"select_label_3\"\nわた…\n拙者の誕生日を\n知っていますか？\n"
+	},
+	{
+		"ID": 3114,
+		"unitID": 2102511,
+		"questionID": 9102514,
+		"script": ";;うお座,1\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n# voice 1025 \"muramasa_0028\"\n@ムラマサ\n拙者…未熟者ゆえ…\nや、やはり…\n\n@ムラマサ\n鍛錬を怠り…\nデートに興じている\n場合ではなかったのでは…\n\n# face %(unit_a)s \"angry\"\n@ムラマサ\nしゅ、主君は…！\n\n@ムラマサ\nせ、拙者を…\nどのように…\n見ておられるのですか…？\n\n# face %(unit_a)s \"normal\"\n@ムラマサ\n拙者のこと…\nどれほど知って\nおられるのでしょうか…？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n拙者の星座は\nわかりますか…？\n\n# se \"SE_0734\"\n# select \"うお座\" \"select_label_1\" \"おとめ座\" \"select_label_2\" \"おうし座\" \"select_label_3\"\n拙者の星座は\nわかりますか…？\n"
+	},
+	{
+		"ID": 3115,
+		"unitID": 2102511,
+		"questionID": 9102515,
+		"script": ";;栗蒸し羊羹,2\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n# voice 1025 \"muramasa_0028\"\n@ムラマサ\n拙者…未熟者ゆえ…\nや、やはり…\n\n@ムラマサ\n鍛錬を怠り…\nデートに興じている\n場合ではなかったのでは…\n\n# face %(unit_a)s \"angry\"\n@ムラマサ\nしゅ、主君は…！\n\n@ムラマサ\nせ、拙者を…\nどのように…\n見ておられるのですか…？\n\n# face %(unit_a)s \"normal\"\n@ムラマサ\n拙者のこと…\nどれほど知って\nおられるのでしょうか…？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n拙者が好きなものは\nわかりますか？\n\n# se \"SE_0734\"\n# select \"どら焼き\" \"select_label_1\" \"栗蒸し羊羹\" \"select_label_2\" \"水まんじゅう\" \"select_label_3\"\n拙者が好きなものは\nわかりますか？\n"
+	},
+	{
+		"ID": 3116,
+		"unitID": 2102511,
+		"questionID": 9102516,
+		"script": ";;ムラマサ,3\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n# voice 1025 \"muramasa_0028\"\n@ムラマサ\n拙者…未熟者ゆえ…\nや、やはり…\n\n@ムラマサ\n鍛錬を怠り…\nデートに興じている\n場合ではなかったのでは…\n\n# face %(unit_a)s \"angry\"\n@ムラマサ\nしゅ、主君は…！\n\n@ムラマサ\nせ、拙者を…\nどのように…\n見ておられるのですか…？\n\n# face %(unit_a)s \"normal\"\n@ムラマサ\n拙者のこと…\nどれほど知って\nおられるのでしょうか…？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n姉のマサムネの下緒は\n誰が編んだものか\nご存知でしょうか？\n\n# se \"SE_0734\"\n# select \"ムラマザ\" \"select_label_1\" \"ムラマタ\" \"select_label_2\" \"ムラマサ\" \"select_label_3\"\n姉のマサムネの下緒は\n誰が編んだものか\nご存知でしょうか？\n"
+	},
+	{
+		"ID": 3117,
+		"unitID": 2102511,
+		"questionID": 9102517,
+		"script": ";;Ａ型,1\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n# voice 1025 \"muramasa_0028\"\n@ムラマサ\n拙者…未熟者ゆえ…\nや、やはり…\n\n@ムラマサ\n鍛錬を怠り…\nデートに興じている\n場合ではなかったのでは…\n\n# face %(unit_a)s \"angry\"\n@ムラマサ\nしゅ、主君は…！\n\n@ムラマサ\nせ、拙者を…\nどのように…\n見ておられるのですか…？\n\n# face %(unit_a)s \"normal\"\n@ムラマサ\n拙者のこと…\nどれほど知って\nおられるのでしょうか…？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n拙者の血液型を\nご存知ですか？\n\n# se \"SE_0734\"\n# select \"Ａ型\" \"select_label_1\" \"Ｏ型\" \"select_label_2\" \"Ｂ型\" \"select_label_3\"\n拙者の血液型を\nご存知ですか？\n"
+	},
+	{
+		"ID": 3118,
+		"unitID": 2102511,
+		"questionID": 9102518,
+		"script": ";;伊勢国,2\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n# voice 1025 \"muramasa_0028\"\n@ムラマサ\n拙者…未熟者ゆえ…\nや、やはり…\n\n@ムラマサ\n鍛錬を怠り…\nデートに興じている\n場合ではなかったのでは…\n\n# face %(unit_a)s \"angry\"\n@ムラマサ\nしゅ、主君は…！\n\n@ムラマサ\nせ、拙者を…\nどのように…\n見ておられるのですか…？\n\n# face %(unit_a)s \"normal\"\n@ムラマサ\n拙者のこと…\nどれほど知って\nおられるのでしょうか…？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n拙者の出身地は\nわかりますか？\n\n# se \"SE_0734\"\n# select \"尾張国\" \"select_label_1\" \"伊勢国\" \"select_label_2\" \"紀伊国\" \"select_label_3\"\n拙者の出身地は\nわかりますか？\n"
+	},
+	{
+		"ID": 3119,
+		"unitID": 2102511,
+		"questionID": 9102519,
+		"script": ";;刺繍,3\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n# voice 1025 \"muramasa_0028\"\n@ムラマサ\n拙者…未熟者ゆえ…\nや、やはり…\n\n@ムラマサ\n鍛錬を怠り…\nデートに興じている\n場合ではなかったのでは…\n\n# face %(unit_a)s \"angry\"\n@ムラマサ\nしゅ、主君は…！\n\n@ムラマサ\nせ、拙者を…\nどのように…\n見ておられるのですか…？\n\n# face %(unit_a)s \"normal\"\n@ムラマサ\n拙者のこと…\nどれほど知って\nおられるのでしょうか…？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわた…せ、拙者の趣味は\n次のうちどれでしょうか？\n\n# se \"SE_0734\"\n# select \"人間ポンプ\" \"select_label_1\" \"かるた\" \"select_label_2\" \"刺繍\" \"select_label_3\"\nわた…せ、拙者の趣味は\n次のうちどれでしょうか？\n"
+	},
+	{
+		"ID": 3120,
+		"unitID": 2102511,
+		"questionID": 9102520,
+		"script": ";;組紐編み,1\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n# voice 1025 \"muramasa_0028\"\n@ムラマサ\n拙者…未熟者ゆえ…\nや、やはり…\n\n@ムラマサ\n鍛錬を怠り…\nデートに興じている\n場合ではなかったのでは…\n\n# face %(unit_a)s \"angry\"\n@ムラマサ\nしゅ、主君は…！\n\n@ムラマサ\nせ、拙者を…\nどのように…\n見ておられるのですか…？\n\n# face %(unit_a)s \"normal\"\n@ムラマサ\n拙者のこと…\nどれほど知って\nおられるのでしょうか…？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわた…いえ…\n拙者の趣味は\n次のうちどれでしょうか？\n\n# se \"SE_0734\"\n# select \"組紐編み\" \"select_label_1\" \"マッサージ\" \"select_label_2\" \"耳かき\" \"select_label_3\"\nわた…いえ…\n拙者の趣味は\n次のうちどれでしょうか？\n"
+	},
+	{
+		"ID": 3121,
+		"unitID": 2102511,
+		"questionID": 9102521,
+		"script": ";;炎軍の導き,1\n# face %(unit_a)s \"normal\"\n# textflame 1 1\n# voice 1025 \"muramasa_0002\"\n@ムラマサ\nあ…あの…\n主君\n\n@ムラマサ\nい、今から…\n拙者に関するクイズ…\n\n@ムラマサ\nあ、質問をしても\n良いですか…？\n\n# face %(unit_a)s \"sad\"\n# voice 1025 \"muramasa_0022\"\n@ムラマサ\nいや、その…\nなぜって…\n\n@ムラマサ\n# voice 1025 \"muramasa_0042\"\nせ、拙者ではなく…！\n鬼火ちゃんが…\n聞いてみたいと言ってまして…\n\n# face %(unit_a)s \"normal\"\n@ムラマサ\nじゃ、じゃあ…\nいいですか…？\n\n@ムラマサ\nし、質問です\n;;---------------------------------\n\n@%(unitName:unit_a)s\n拙者が覚える\nリーダースキルはわかりますか？\n\n# se \"SE_0734\"\n# select \"炎軍の導き\" \"select_label_1\" \"炎軍の煌き\" \"select_label_2\" \"炎軍の閃き\" \"select_label_3\"\n拙者が覚える\nリーダースキルはわかりますか？\n"
+	},
+	{
+		"ID": 3122,
+		"unitID": 2102511,
+		"questionID": 9102522,
+		"script": ";;剣神,2\n# face %(unit_a)s \"normal\"\n# textflame 1 1\n# voice 1025 \"muramasa_0002\"\n@ムラマサ\nあ…あの…\n主君\n\n@ムラマサ\nい、今から…\n拙者に関するクイズ…\n\n@ムラマサ\nあ、質問をしても\n良いですか…？\n\n# face %(unit_a)s \"sad\"\n# voice 1025 \"muramasa_0022\"\n@ムラマサ\nいや、その…\nなぜって…\n\n@ムラマサ\n# voice 1025 \"muramasa_0042\"\nせ、拙者ではなく…！\n鬼火ちゃんが…\n聞いてみたいと言ってまして…\n\n# face %(unit_a)s \"normal\"\n@ムラマサ\nじゃ、じゃあ…\nいいですか…？\n\n@ムラマサ\nし、質問です\n;;---------------------------------\n\n@%(unitName:unit_a)s\n拙者の\n☆６のジョブ名はわかりますか？\n\n# se \"SE_0734\"\n# select \"剣姫\" \"select_label_1\" \"剣神\" \"select_label_2\" \"剣天使\" \"select_label_3\"\n拙者の\n☆６のジョブ名はわかりますか？\n"
+	},
+	{
+		"ID": 3123,
+		"unitID": 2102511,
+		"questionID": 9102523,
+		"script": ";;皆中の心得,3\n# face %(unit_a)s \"normal\"\n# textflame 1 1\n# voice 1025 \"muramasa_0002\"\n@ムラマサ\nあ…あの…\n主君\n\n@ムラマサ\nい、今から…\n拙者に関するクイズ…\n\n@ムラマサ\nあ、質問をしても\n良いですか…？\n\n# face %(unit_a)s \"sad\"\n# voice 1025 \"muramasa_0022\"\n@ムラマサ\nいや、その…\nなぜって…\n\n@ムラマサ\n# voice 1025 \"muramasa_0042\"\nせ、拙者ではなく…！\n鬼火ちゃんが…\n聞いてみたいと言ってまして…\n\n# face %(unit_a)s \"normal\"\n@ムラマサ\nじゃ、じゃあ…\nいいですか…？\n\n@ムラマサ\nし、質問です\n;;---------------------------------\n\n@%(unitName:unit_a)s\n拙者が覚える\nスキルの名前はわかりますか？\n\n# se \"SE_0734\"\n# select \"皆中の九重\" \"select_label_1\" \"皆中のしつけ\" \"select_label_2\" \"皆中の心得\" \"select_label_3\"\n拙者が覚える\nスキルの名前はわかりますか？\n"
+	},
+	{
+		"ID": 3124,
+		"unitID": 2102511,
+		"questionID": 9102524,
+		"script": ";;セブンスキラーズ,1\n# face %(unit_a)s \"normal\"\n# textflame 1 1\n# voice 1025 \"muramasa_0002\"\n@ムラマサ\nあ…あの…\n主君\n\n@ムラマサ\nい、今から…\n拙者に関するクイズ…\n\n@ムラマサ\nあ、質問をしても\n良いですか…？\n\n# face %(unit_a)s \"sad\"\n# voice 1025 \"muramasa_0022\"\n@ムラマサ\nいや、その…\nなぜって…\n\n@ムラマサ\n# voice 1025 \"muramasa_0042\"\nせ、拙者ではなく…！\n鬼火ちゃんが…\n聞いてみたいと言ってまして…\n\n# face %(unit_a)s \"normal\"\n@ムラマサ\nじゃ、じゃあ…\nいいですか…？\n\n@ムラマサ\nし、質問です\n;;---------------------------------\n\n@%(unitName:unit_a)s\n拙者が選ばれたのは…？\n\n# se \"SE_0734\"\n# select \"セブンスキラーズ\" \"select_label_1\" \"エンシェントキラーズ\" \"select_label_2\" \"ダークエンジェルス\" \"select_label_3\"\n拙者が選ばれたのは…？\n"
+	},
+	{
+		"ID": 3125,
+		"unitID": 2102511,
+		"questionID": 9102525,
+		"script": ";;マサムネ,2\n# face %(unit_a)s \"normal\"\n# textflame 1 1\n# voice 1025 \"muramasa_0002\"\n@ムラマサ\nあ…あの…\n主君\n\n@ムラマサ\nい、今から…\n拙者に関するクイズ…\n\n@ムラマサ\nあ、質問をしても\n良いですか…？\n\n# face %(unit_a)s \"sad\"\n# voice 1025 \"muramasa_0022\"\n@ムラマサ\nいや、その…\nなぜって…\n\n@ムラマサ\n# voice 1025 \"muramasa_0042\"\nせ、拙者ではなく…！\n鬼火ちゃんが…\n聞いてみたいと言ってまして…\n\n# face %(unit_a)s \"normal\"\n@ムラマサ\nじゃ、じゃあ…\nいいですか…？\n\n@ムラマサ\nし、質問です\n;;---------------------------------\n\n@%(unitName:unit_a)s\n拙者の姉は\n誰かわかりますか？\n\n# se \"SE_0734\"\n# select \"与一\" \"select_label_1\" \"マサムネ\" \"select_label_2\" \"芭蕉扇\" \"select_label_3\"\n拙者の姉は\n誰かわかりますか？\n"
+	},
+	{
+		"ID": 3126,
+		"unitID": 2102511,
+		"questionID": 9102526,
+		"script": ";;ドジっ娘,3\n# face %(unit_a)s \"normal\"\n# textflame 1 1\n# voice 1025 \"muramasa_0002\"\n@ムラマサ\nあ…あの…\n主君\n\n@ムラマサ\nい、今から…\n拙者に関するクイズ…\n\n@ムラマサ\nあ、質問をしても\n良いですか…？\n\n# face %(unit_a)s \"sad\"\n# voice 1025 \"muramasa_0022\"\n@ムラマサ\nいや、その…\nなぜって…\n\n@ムラマサ\n# voice 1025 \"muramasa_0042\"\nせ、拙者ではなく…！\n鬼火ちゃんが…\n聞いてみたいと言ってまして…\n\n# face %(unit_a)s \"normal\"\n@ムラマサ\nじゃ、じゃあ…\nいいですか…？\n\n@ムラマサ\nし、質問です\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわた、拙者はよく\nこんな風に言われます…\n\n# se \"SE_0734\"\n# select \"ハマっ娘\" \"select_label_1\" \"ブスっ娘\" \"select_label_2\" \"ドジっ娘\" \"select_label_3\"\nわた、拙者はよく\nこんな風に言われます…\n"
+	},
+	{
+		"ID": 3127,
+		"unitID": 2102511,
+		"questionID": 9102527,
+		"script": ";;「鬼火」ちゃん,1\n# face %(unit_a)s \"normal\"\n# textflame 1 1\n# voice 1025 \"muramasa_0002\"\n@ムラマサ\nあ…あの…\n主君\n\n@ムラマサ\nい、今から…\n拙者に関するクイズ…\n\n@ムラマサ\nあ、質問をしても\n良いですか…？\n\n# face %(unit_a)s \"sad\"\n# voice 1025 \"muramasa_0022\"\n@ムラマサ\nいや、その…\nなぜって…\n\n@ムラマサ\n# voice 1025 \"muramasa_0042\"\nせ、拙者ではなく…！\n鬼火ちゃんが…\n聞いてみたいと言ってまして…\n\n# face %(unit_a)s \"normal\"\n@ムラマサ\nじゃ、じゃあ…\nいいですか…？\n\n@ムラマサ\nし、質問です\n;;---------------------------------\n\n@%(unitName:unit_a)s\nえ？拙者の周りに\nいるものですか？これは…\n\n# se \"SE_0734\"\n# select \"「鬼火」ちゃん\" \"select_label_1\" \"「狐火」ちゃん\" \"select_label_2\" \"「かまいたち」ちゃん\" \"select_label_3\"\nえ？拙者の周りに\nいるものですか？これは…\n"
+	},
+	{
+		"ID": 3128,
+		"unitID": 2102511,
+		"questionID": 9102528,
+		"script": ";;神速剣針乱舞,2\n# face %(unit_a)s \"normal\"\n# textflame 1 1\n# voice 1025 \"muramasa_0002\"\n@ムラマサ\nあ…あの…\n主君\n\n@ムラマサ\nい、今から…\n拙者に関するクイズ…\n\n@ムラマサ\nあ、質問をしても\n良いですか…？\n\n# face %(unit_a)s \"sad\"\n# voice 1025 \"muramasa_0022\"\n@ムラマサ\nいや、その…\nなぜって…\n\n@ムラマサ\n# voice 1025 \"muramasa_0042\"\nせ、拙者ではなく…！\n鬼火ちゃんが…\n聞いてみたいと言ってまして…\n\n# face %(unit_a)s \"normal\"\n@ムラマサ\nじゃ、じゃあ…\nいいですか…？\n\n@ムラマサ\nし、質問です\n;;---------------------------------\n\n@%(unitName:unit_a)s\n拙者が取得した\nスキルは覚えていますか？\n\n# se \"SE_0734\"\n# select \"神速剣ハケ乱舞\" \"select_label_1\" \"神速剣針乱舞\" \"select_label_2\" \"神速剣狼乱舞\" \"select_label_3\"\n拙者が取得した\nスキルは覚えていますか？\n"
+	},
+	{
+		"ID": 3129,
+		"unitID": 2102511,
+		"questionID": 9102529,
+		"script": ";;剣陣まつり縫,3\n# face %(unit_a)s \"normal\"\n# textflame 1 1\n# voice 1025 \"muramasa_0002\"\n@ムラマサ\nあ…あの…\n主君\n\n@ムラマサ\nい、今から…\n拙者に関するクイズ…\n\n@ムラマサ\nあ、質問をしても\n良いですか…？\n\n# face %(unit_a)s \"sad\"\n# voice 1025 \"muramasa_0022\"\n@ムラマサ\nいや、その…\nなぜって…\n\n@ムラマサ\n# voice 1025 \"muramasa_0042\"\nせ、拙者ではなく…！\n鬼火ちゃんが…\n聞いてみたいと言ってまして…\n\n# face %(unit_a)s \"normal\"\n@ムラマサ\nじゃ、じゃあ…\nいいですか…？\n\n@ムラマサ\nし、質問です\n;;---------------------------------\n\n@%(unitName:unit_a)s\n拙者が取得した\nスキルは覚えていますか？\n\n# se \"SE_0734\"\n# select \"剣陣仮縫い\" \"select_label_1\" \"剣陣二度縫い\" \"select_label_2\" \"剣陣まつり縫\" \"select_label_3\"\n拙者が取得した\nスキルは覚えていますか？\n"
+	},
+	{
+		"ID": 3130,
+		"unitID": 2102511,
+		"questionID": 9102530,
+		"script": ";;ごめんなさい,1\n# face %(unit_a)s \"normal\"\n# textflame 1 1\n# voice 1025 \"muramasa_0002\"\n@ムラマサ\nあ…あの…\n主君\n\n@ムラマサ\nい、今から…\n拙者に関するクイズ…\n\n@ムラマサ\nあ、質問をしても\n良いですか…？\n\n# face %(unit_a)s \"sad\"\n# voice 1025 \"muramasa_0022\"\n@ムラマサ\nいや、その…\nなぜって…\n\n@ムラマサ\n# voice 1025 \"muramasa_0042\"\nせ、拙者ではなく…！\n鬼火ちゃんが…\n聞いてみたいと言ってまして…\n\n# face %(unit_a)s \"normal\"\n@ムラマサ\nじゃ、じゃあ…\nいいですか…？\n\n@ムラマサ\nし、質問です\n;;---------------------------------\n\n@%(unitName:unit_a)s\n拙者はすぐにこれを\n言ってしまう癖があります…\n\n# se \"SE_0734\"\n# select \"ごめんなさい\" \"select_label_1\" \"やっちゃうぞ\" \"select_label_2\" \"バカヤロー\" \"select_label_3\"\n拙者はすぐにこれを\n言ってしまう癖があります…\n"
+	},
+	{
+		"ID": 3131,
+		"unitID": 2102511,
+		"questionID": 9102531,
+		"script": ";;さげお,1\n# face %(unit_a)s \"normal\"\n# textflame 1 1\n# voice 1025 \"muramasa_0001\"\n@ムラマサ\nあの…今日は…\n\n# eye %(unit_a)s \"close\"\n@ムラマサ\nジュースをこぼしたり、\n川に落ちたり、\nドジばっかりでしたけど…\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"smile\"\n# voice 1025 \"muramasa_0004\"\n@ムラマサ\n楽しかったです！\n\n# face %(unit_a)s \"normal\"\n# voice 1025 \"muramasa_0002\"\n@ムラマサ\nあの…最後に…\n質問をしてもいいですか？\n\n@ムラマサ\n主君が拙者のこと…\nどれだけ分かってくれてるか…\n知りたくて…\n\n# face %(unit_a)s \"smile\"\n@ムラマサ\n行きます！\n;;---------------------------------\n\n@%(unitName:unit_a)s\n拙者、時間が空いた時に\n『下緒』を編むのですが\n『下緒』と書いてなんとよみますか？\n\n# se \"SE_0734\"\n# select \"さげお\" \"select_label_1\" \"したお\" \"select_label_2\" \"げお\" \"select_label_3\"\n拙者、時間が空いた時に\n『下緒』を編むのですが\n『下緒』と書いてなんとよみますか？\n"
+	},
+	{
+		"ID": 3132,
+		"unitID": 2102511,
+		"questionID": 9102532,
+		"script": ";;Pisces,2\n# face %(unit_a)s \"normal\"\n# textflame 1 1\n# voice 1025 \"muramasa_0001\"\n@ムラマサ\nあの…今日は…\n\n# eye %(unit_a)s \"close\"\n@ムラマサ\nジュースをこぼしたり、\n川に落ちたり、\nドジばっかりでしたけど…\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"smile\"\n# voice 1025 \"muramasa_0004\"\n@ムラマサ\n楽しかったです！\n\n# face %(unit_a)s \"normal\"\n# voice 1025 \"muramasa_0002\"\n@ムラマサ\nあの…最後に…\n質問をしてもいいですか？\n\n@ムラマサ\n主君が拙者のこと…\nどれだけ分かってくれてるか…\n知りたくて…\n\n# face %(unit_a)s \"smile\"\n@ムラマサ\n行きます！\n;;---------------------------------\n\n@%(unitName:unit_a)s\n拙者の星座を英語で\nなんと言うかわかりますか？\n\n# se \"SE_0734\"\n# select \"Sagittarius\" \"select_label_1\" \"Pisces\" \"select_label_2\" \"Scorpio\" \"select_label_3\"\n拙者の星座を英語で\nなんと言うかわかりますか？\n"
+	},
+	{
+		"ID": 3133,
+		"unitID": 2102511,
+		"questionID": 9102533,
+		"script": ";;February,3\n# face %(unit_a)s \"normal\"\n# textflame 1 1\n# voice 1025 \"muramasa_0001\"\n@ムラマサ\nあの…今日は…\n\n# eye %(unit_a)s \"close\"\n@ムラマサ\nジュースをこぼしたり、\n川に落ちたり、\nドジばっかりでしたけど…\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"smile\"\n# voice 1025 \"muramasa_0004\"\n@ムラマサ\n楽しかったです！\n\n# face %(unit_a)s \"normal\"\n# voice 1025 \"muramasa_0002\"\n@ムラマサ\nあの…最後に…\n質問をしてもいいですか？\n\n@ムラマサ\n主君が拙者のこと…\nどれだけ分かってくれてるか…\n知りたくて…\n\n# face %(unit_a)s \"smile\"\n@ムラマサ\n行きます！\n;;---------------------------------\n\n@%(unitName:unit_a)s\n拙者の誕生月を英語で\nなんというかわかりますか？\n\n# se \"SE_0734\"\n# select \"December\" \"select_label_1\" \"November\" \"select_label_2\" \"February\" \"select_label_3\"\n拙者の誕生月を英語で\nなんというかわかりますか？\n"
+	},
+	{
+		"ID": 3134,
+		"unitID": 2102511,
+		"questionID": 9102534,
+		"script": ";;赤色,1\n# face %(unit_a)s \"normal\"\n# textflame 1 1\n# voice 1025 \"muramasa_0001\"\n@ムラマサ\nあの…今日は…\n\n# eye %(unit_a)s \"close\"\n@ムラマサ\nジュースをこぼしたり、\n川に落ちたり、\nドジばっかりでしたけど…\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"smile\"\n# voice 1025 \"muramasa_0004\"\n@ムラマサ\n楽しかったです！\n\n# face %(unit_a)s \"normal\"\n# voice 1025 \"muramasa_0002\"\n@ムラマサ\nあの…最後に…\n質問をしてもいいですか？\n\n@ムラマサ\n主君が拙者のこと…\nどれだけ分かってくれてるか…\n知りたくて…\n\n# face %(unit_a)s \"smile\"\n@ムラマサ\n行きます！\n;;---------------------------------\n\n@%(unitName:unit_a)s\n拙者の瞳の色は何色ですか…？\n\n# se \"SE_0734\"\n# select \"赤色\" \"select_label_1\" \"黄色\" \"select_label_2\" \"黒色\" \"select_label_3\"\n拙者の瞳の色は何色ですか…？\n"
+	},
+	{
+		"ID": 3135,
+		"unitID": 2102511,
+		"questionID": 9102535,
+		"script": ";;紫色,2\n# face %(unit_a)s \"normal\"\n# textflame 1 1\n# voice 1025 \"muramasa_0001\"\n@ムラマサ\nあの…今日は…\n\n# eye %(unit_a)s \"close\"\n@ムラマサ\nジュースをこぼしたり、\n川に落ちたり、\nドジばっかりでしたけど…\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"smile\"\n# voice 1025 \"muramasa_0004\"\n@ムラマサ\n楽しかったです！\n\n# face %(unit_a)s \"normal\"\n# voice 1025 \"muramasa_0002\"\n@ムラマサ\nあの…最後に…\n質問をしてもいいですか？\n\n@ムラマサ\n主君が拙者のこと…\nどれだけ分かってくれてるか…\n知りたくて…\n\n# face %(unit_a)s \"smile\"\n@ムラマサ\n行きます！\n;;---------------------------------\n\n@%(unitName:unit_a)s\n拙者の髪の色は何色でしょうか？\n\n# se \"SE_0734\"\n# select \"赤色\" \"select_label_1\" \"紫色\" \"select_label_2\" \"黄色\" \"select_label_3\"\n拙者の髪の色は何色でしょうか？\n"
+	},
+	{
+		"ID": 3136,
+		"unitID": 2102511,
+		"questionID": 9102536,
+		"script": ";;反省会,3\n# face %(unit_a)s \"normal\"\n# textflame 1 1\n# voice 1025 \"muramasa_0001\"\n@ムラマサ\nあの…今日は…\n\n# eye %(unit_a)s \"close\"\n@ムラマサ\nジュースをこぼしたり、\n川に落ちたり、\nドジばっかりでしたけど…\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"smile\"\n# voice 1025 \"muramasa_0004\"\n@ムラマサ\n楽しかったです！\n\n# face %(unit_a)s \"normal\"\n# voice 1025 \"muramasa_0002\"\n@ムラマサ\nあの…最後に…\n質問をしてもいいですか？\n\n@ムラマサ\n主君が拙者のこと…\nどれだけ分かってくれてるか…\n知りたくて…\n\n# face %(unit_a)s \"smile\"\n@ムラマサ\n行きます！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわた…拙者が「鬼火」ちゃんと\nよくするのはなんでしょうか？\n\n# se \"SE_0734\"\n# select \"女子会\" \"select_label_1\" \"座禅会\" \"select_label_2\" \"反省会\" \"select_label_3\"\nわた…拙者が「鬼火」ちゃんと\nよくするのはなんでしょうか？\n"
+	},
+	{
+		"ID": 3137,
+		"unitID": 2102511,
+		"questionID": 9102537,
+		"script": ";;ナーゲルリング,1\n# face %(unit_a)s \"normal\"\n# textflame 1 1\n# voice 1025 \"muramasa_0001\"\n@ムラマサ\nあの…今日は…\n\n# eye %(unit_a)s \"close\"\n@ムラマサ\nジュースをこぼしたり、\n川に落ちたり、\nドジばっかりでしたけど…\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"smile\"\n# voice 1025 \"muramasa_0004\"\n@ムラマサ\n楽しかったです！\n\n# face %(unit_a)s \"normal\"\n# voice 1025 \"muramasa_0002\"\n@ムラマサ\nあの…最後に…\n質問をしてもいいですか？\n\n@ムラマサ\n主君が拙者のこと…\nどれだけ分かってくれてるか…\n知りたくて…\n\n# face %(unit_a)s \"smile\"\n@ムラマサ\n行きます！\n;;---------------------------------\n\n@%(unitName:unit_a)s\n拙者と同じ誕生月の\n人ってだれでしょうか？\n\n# se \"SE_0734\"\n# select \"ナーゲルリング\" \"select_label_1\" \"ミョルニル\" \"select_label_2\" \"アイムール\" \"select_label_3\"\n拙者と同じ誕生月の\n人ってだれでしょうか？\n"
+	},
+	{
+		"ID": 3138,
+		"unitID": 2102511,
+		"questionID": 9102538,
+		"script": ";;アスカロン,2\n# face %(unit_a)s \"normal\"\n# textflame 1 1\n# voice 1025 \"muramasa_0001\"\n@ムラマサ\nあの…今日は…\n\n# eye %(unit_a)s \"close\"\n@ムラマサ\nジュースをこぼしたり、\n川に落ちたり、\nドジばっかりでしたけど…\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"smile\"\n# voice 1025 \"muramasa_0004\"\n@ムラマサ\n楽しかったです！\n\n# face %(unit_a)s \"normal\"\n# voice 1025 \"muramasa_0002\"\n@ムラマサ\nあの…最後に…\n質問をしてもいいですか？\n\n@ムラマサ\n主君が拙者のこと…\nどれだけ分かってくれてるか…\n知りたくて…\n\n# face %(unit_a)s \"smile\"\n@ムラマサ\n行きます！\n;;---------------------------------\n\n@%(unitName:unit_a)s\n拙者と\n同じ血液型なのは\nだれでしょうか？\n\n# se \"SE_0734\"\n# select \"シユウ\" \"select_label_1\" \"アスカロン\" \"select_label_2\" \"アフロディーテ\" \"select_label_3\"\n拙者と\n同じ血液型なのは\nだれでしょうか？\n"
+	},
+	{
+		"ID": 3139,
+		"unitID": 2102511,
+		"questionID": 9102539,
+		"script": ";;シユウ,3\n# face %(unit_a)s \"normal\"\n# textflame 1 1\n# voice 1025 \"muramasa_0001\"\n@ムラマサ\nあの…今日は…\n\n# eye %(unit_a)s \"close\"\n@ムラマサ\nジュースをこぼしたり、\n川に落ちたり、\nドジばっかりでしたけど…\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"smile\"\n# voice 1025 \"muramasa_0004\"\n@ムラマサ\n楽しかったです！\n\n# face %(unit_a)s \"normal\"\n# voice 1025 \"muramasa_0002\"\n@ムラマサ\nあの…最後に…\n質問をしてもいいですか？\n\n@ムラマサ\n主君が拙者のこと…\nどれだけ分かってくれてるか…\n知りたくて…\n\n# face %(unit_a)s \"smile\"\n@ムラマサ\n行きます！\n;;---------------------------------\n\n@%(unitName:unit_a)s\n拙者と\n違う血液型なのは\n誰でしょうか？\n\n# se \"SE_0734\"\n# select \"フォルカス\" \"select_label_1\" \"アスカロン\" \"select_label_2\" \"シユウ\" \"select_label_3\"\n拙者と\n違う血液型なのは\n誰でしょうか？\n"
+	},
+	{
+		"ID": 3140,
+		"unitID": 2102511,
+		"questionID": 9102540,
+		"script": ";;村正,1\n# face %(unit_a)s \"normal\"\n# textflame 1 1\n# voice 1025 \"muramasa_0001\"\n@ムラマサ\nあの…今日は…\n\n# eye %(unit_a)s \"close\"\n@ムラマサ\nジュースをこぼしたり、\n川に落ちたり、\nドジばっかりでしたけど…\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"smile\"\n# voice 1025 \"muramasa_0004\"\n@ムラマサ\n楽しかったです！\n\n# face %(unit_a)s \"normal\"\n# voice 1025 \"muramasa_0002\"\n@ムラマサ\nあの…最後に…\n質問をしてもいいですか？\n\n@ムラマサ\n主君が拙者のこと…\nどれだけ分かってくれてるか…\n知りたくて…\n\n# face %(unit_a)s \"smile\"\n@ムラマサ\n行きます！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nムラマサを\n漢字で書いた時に\n正しいのはどれでしょうか？\n\n# se \"SE_0734\"\n# select \"村正\" \"select_label_1\" \"村昌\" \"select_label_2\" \"村雅\" \"select_label_3\"\nムラマサを\n漢字で書いた時に\n正しいのはどれでしょうか？\n"
+	},
+	{
+		"ID": 3141,
+		"unitID": 2102511,
+		"questionID": 9102541,
+		"script": "\n;;拙者,1\n# se \"SE_0734\"\n# select \"拙者\" \"select_label_1\" \"私\" \"select_label_2\" \"ウチ\" \"select_label_3\"\nムラマサの一人称は\n次のうちどれ？\n"
+	},
+	{
+		"ID": 3142,
+		"unitID": 2102511,
+		"questionID": 9102542,
+		"script": "\n;;主君,2\n# se \"SE_0734\"\n# select \"ご主人\" \"select_label_1\" \"主君\" \"select_label_2\" \"マスター\" \"select_label_3\"\nムラマサはアンタのこと、\nなんて呼んでる？\n"
+	},
+	{
+		"ID": 3143,
+		"unitID": 2102511,
+		"questionID": 9102543,
+		"script": "\n;;79,3\n# se \"SE_0734\"\n# select \"80\" \"select_label_1\" \"82\" \"select_label_2\" \"79\" \"select_label_3\"\nムラマサの\nバストサイズがどのくらいか\nアンタ…知ってるの？\n"
+	},
+	{
+		"ID": 3144,
+		"unitID": 2102511,
+		"questionID": 9102544,
+		"script": "\n;;56,1\n# se \"SE_0734\"\n# select \"56\" \"select_label_1\" \"60\" \"select_label_2\" \"61\" \"select_label_3\"\nムラマサの\nウエストサイズがどのくらいか\nアンタ…知ってるの？\n"
+	},
+	{
+		"ID": 3145,
+		"unitID": 2102511,
+		"questionID": 9102545,
+		"script": "\n;;81,2\n# se \"SE_0734\"\n# select \"78\" \"select_label_1\" \"81\" \"select_label_2\" \"84\" \"select_label_3\"\nムラマサの\nヒップサイズがどのくらいか\nアンタ…知ってるの？\n"
+	},
+	{
+		"ID": 3146,
+		"unitID": 2102511,
+		"questionID": 9102546,
+		"script": "\n;;44,3\n# se \"SE_0734\"\n# select \"42\" \"select_label_1\" \"48\" \"select_label_2\" \"44\" \"select_label_3\"\nムラマサの体重は\n次のうちどれ？\n"
+	},
+	{
+		"ID": 3147,
+		"unitID": 2102511,
+		"questionID": 9102547,
+		"script": "\n;;216,1\n# se \"SE_0734\"\n# select \"216\" \"select_label_1\" \"218\" \"select_label_2\" \"220\" \"select_label_3\"\nムラマサの\nバスト＋ウエスト＋ヒップは\nいくつかわかる？\n"
+	},
+	{
+		"ID": 3148,
+		"unitID": 2102511,
+		"questionID": 9102548,
+		"script": "\n;;ビキニタイプ,2\n# se \"SE_0734\"\n# select \"ワンピースタイプ\" \"select_label_1\" \"ビキニタイプ\" \"select_label_2\" \"トップレス\" \"select_label_3\"\nムラマサの水着の形は\n次のうちどれ？\n"
+	},
+	{
+		"ID": 3149,
+		"unitID": 2102511,
+		"questionID": 9102549,
+		"script": "\n;;6位,3\n# se \"SE_0734\"\n# select \"10位\" \"select_label_1\" \"13位\" \"select_label_2\" \"6位\" \"select_label_3\"\nムラマサは\n第２回人気投票で\n何位だったでしょう？\n"
+	},
+	{
+		"ID": 3150,
+		"unitID": 2102511,
+		"questionID": 9102550,
+		"script": "\n;;内田愛美,1\n# se \"SE_0734\"\n# select \"内田愛美\" \"select_label_1\" \"釘宮理恵\" \"select_label_2\" \"小林ゆう\" \"select_label_3\"\nムラマサの声優は誰？\n"
+	}
+]

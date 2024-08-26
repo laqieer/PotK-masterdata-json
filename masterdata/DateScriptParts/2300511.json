@@ -1,0 +1,26 @@
+[
+	{
+		"ID": 232,
+		"unitID": 2300511,
+		"scriptID": "kaerimichi",
+		"script": "あ～…なんだか血が騒ぐな～\n全然獲物がいねえじゃんか…\n探しに行くからついてこいよ！"
+	},
+	{
+		"ID": 247,
+		"unitID": 2300511,
+		"scriptID": "kaeru",
+		"script": "あ～…全然獲物がいねえじゃんか…\nちょっと探してくるわ！\nじゃあな、マスター！"
+	},
+	{
+		"ID": 262,
+		"unitID": 2300511,
+		"scriptID": "kaeru_ok",
+		"script": "@%(unitName:unit_a)s\nいいじゃねえか…！\nただ…つまんねぇとこだったら\nぶっ飛ばすからな！"
+	},
+	{
+		"ID": 277,
+		"unitID": 2300511,
+		"scriptID": "kaeru_ng",
+		"script": "@%(unitName:unit_a)s\nお前と一緒にいると\n暴れられねえからな…\nここからは別行動だ！悪いね"
+	}
+]

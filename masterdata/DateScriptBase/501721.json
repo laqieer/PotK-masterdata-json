@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 501721,
+		"script": ";;A …緊張してる？ (中当たり)\n;;B ほら、おいで～  (大当たり)\n;;C まさか実験台…！？ (小当り)　\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_room\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 0 0\n@\nマスターは\nグリモワールの部屋に\n招かれてやってきたのだが…\n\n# eye %(unit_a)s \"close\"\n# voice 5017 \"grimoire_0004\"\n# textflame 1 1\n@グリモワール\n見なさい…ここが…\n正真正銘の…\nワタシの高貴な部屋よ！\n\n@グリモワール\nそ、そして…\n\n# face %(unit_a)s \"normal\"\n# eye %(unit_a)s \"normal\"\n# textflame 1 1\n@グリモワール\nワタシと…\nキミしかいないわ…！！\n\n# select \"…緊張してる？\" \"select_label_01\" \"ほら、おいで～\" \"select_label_02\" \"まさか実験台…！？\" \"select_label_03\"\nワタシと…\nキミしかいないわ…！！\n\n# label \"select_label_01\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_02\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_03\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_end\"\n# waitandnext 0.1\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 201621,
+		"script": "# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_shipboard\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 0 0\n@\nマスターはシタと二人で\nナイトクルーズに来ていた\n\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 2016 \"shita_0021\"\n@シタ\nわ、真っ暗…\n\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n@シタ\nなんだか…\n夜空と海の区別がつきませんね\n\n# textflame 1 1\n# voice 2016 \"shita_0004\"\n@シタ\nまるで夜空の中を\n進んでいるみたい…\n\n# select \"星が落ちてきそう\" \"select_label_01\" \"島の光が星かな\" \"select_label_02\" \"この船も星なのかな\" \"select_label_03\"\nまるで夜空の中を\n進んでいるみたい…\n\n# textwindow \"close\"\n# label \"select_label_01\"\n# labeljump \"select_label_end\"\n# waitandnext 0.1\n\n# textwindow \"close\"\n# label \"select_label_02\"\n# labeljump \"select_label_end\"\n# waitandnext 0.1\n\n# textwindow \"close\"\n# label \"select_label_03\"\n# labeljump \"select_label_end\"\n# waitandnext 0.1\n\n# label \"select_label_end\"\n# waitandnext 2\n# fadeout \"black\" 1.2"
+	}
+]

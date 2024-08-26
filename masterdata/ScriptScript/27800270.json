@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 27800270,
+		"script": ";;【指定】BgmSeaEventBattle  bgm240_241\n;;第14幕　タイトル：覚悟のビーチ\n;;//背景：ビーチ\n# script \"lisp\"\n# background \"sea_beach_day\"\n# bgmfile \"bgm240_241\" \"BgmSeaEventBattle\" 0\n# body 2301811\n# pos 2301811 4\n# scale 2301811 0.8 0\n# body 2500711\n# pos 2500711 2\n# scale 2500711 0.8 0\n# textflame 1 1\n# voice 5007 \"buryunaku_0004\"\n@ブリューナク\nよく、ここまで辿り着いた\n賞賛に値する\n\n# face 2301811 \"angry\"\n# textflame 1 1\n# voice 3018 \"forcas_0009\"\n@フォルカス\nブリューナク！\nあなたはもう終わりです\n\n# face 2500711 \"normal\"\n# voice 5007 \"buryunaku_0027\"\n@ブリューナク\nその発言は理解不能だ\n確かに戦況は劣勢\nしかしブリューナクには勝機がある\n\n# textflame 1 1\n@ブリューナク\n今ならば降伏を認めよう\nブリューナクの軍門に下れ\n\n# textflame 1 1\n# voice 3018 \"forcas_0014\"\n@フォルカス\nバカなことを言わないで下さい\n\n# textflame 1 1\n@フォルカス\n私がこの国の皇帝です\n跪くべきなのはあなたの方です！\n\n# face 2500711 \"angry\"\n# textflame 1 1\n# voice 5007 \"buryunaku_0003\"\n@ブリューナク\nそうか…\nならば話はここまでだ\nあとは戦闘あるのみ\n\n# textflame 1 1\n# voice 3018 \"forcas_0011\"\n@フォルカス\n待ちなさい！\n\n# face 2301811 \"sad\"\n# textflame 1 1\n@フォルカス\n最後に一つ聞きます…\nどうしてダーインスレイヴ様を\n裏切ったの！？\n\n# textflame 1 1\n# voice 5007 \"buryunaku_0010\"\n@ブリューナク\n…回答の必要性を感じない\nブリューナクは一等星将の本分を\n全うするだけだ\n\n# face 2301811 \"angry\"\n# textflame 1 1\n@フォルカス\nブリューナク！\nあなたって人は！！"
+	}
+]

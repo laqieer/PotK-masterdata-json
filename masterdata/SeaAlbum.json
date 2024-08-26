@@ -1,0 +1,23 @@
+[
+	{
+		"ID": 1,
+		"name": "神聖プール王国",
+		"start_at": "2017-07-01 00:00:00",
+		"end_at": "2030-12-31 23:59:59",
+		"complete_reward_group_id": 1
+	},
+	{
+		"ID": 2,
+		"name": "海浜ビーチ帝国",
+		"start_at": "2017-08-01 00:00:00",
+		"end_at": "2030-12-31 23:59:59",
+		"complete_reward_group_id": 2
+	},
+	{
+		"ID": 3,
+		"name": "ジャングル連合",
+		"start_at": "2017-09-01 00:00:00",
+		"end_at": "2030-12-31 23:59:59",
+		"complete_reward_group_id": 3
+	}
+]

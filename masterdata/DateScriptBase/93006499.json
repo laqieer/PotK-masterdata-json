@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 93006499,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# se \"SE_0732\"\n# voice 3006 \"torisyula_0020\"\n@トリシューラ\nへへへっ！\n\n# textflame 1 1\n@トリシューラ\nやるねぇ！\n大正解だよ\n\n# textflame 1 1\n@トリシューラ\nこんなことも知ってるなんて、\nあんたはよっぽどあたいのことが\n好きなんだと見たね\n\n# voice 3006 \"torisyula_0005\"\n# textflame 1 1\n@トリシューラ\nまぁ、そんな照れなさんな！\nはははっ！\n\n# textflame 0 0\n@\nそう言う彼女の頬は、\nほんのりとあかい\n\n# textflame 0 0\n@\nむしろトリシューラの方が\n照れているようにも見えたが、\nマスターはあえて追求しなかった\n\n# textflame 0 0\n@\nこのやり取りを経て、\nマスターは彼女のとの絆が\nより深まったのを感じた\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

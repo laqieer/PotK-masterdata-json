@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 92025298,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# se \"SE_0733\"\n;;-----------------------------------------\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 2025 \"hercule_0024\"\n@エルキュール\nあっ、え、えっと…\nはずれ…です…\n\n@エルキュール\nその、ごめんなさい…\nいきなり問題を出されても\nこ、困りますよねっ\n\n@エルキュール\nちょっと残念な気はしますけど…\nでもわからないことがあるのは\n当たり前のことですし…\n\n# textflame 0 0\n@\nなんとかそう呟く\nエルキュールだったが、\nその表情は暗い\n\n# face %(unit_a)s \"normal\"\n# textflame 1 1\n@エルキュール\n…帰りましょうか、マスター\nあんまりここで長居しても、\n帰りが遅くなっちゃうだけですから…\n\n# textflame 0 0\n@\n悲しそうな表情を隠すように\n彼女は背中を向けて歩いていく\n\n@\nそれを心苦しく思いながら\n次こそは間違えないようにしようと\n強く誓うのだった\n\n;;-----------------------------------------\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

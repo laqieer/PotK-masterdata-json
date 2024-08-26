@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 96032498,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# se \"SE_0733\"\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n@オルフェウス\nその答え…\n\n# face %(unit_a)s \"angry\"\n# voice 560321 \"orpheus_c_0027\"\n@オルフェウス\n不正解～～～！\n\n# voice 560321 \"orpheus_c_0019\"\n@オルフェウス\nも～、そんなんじゃ、\nリーダーじゃなくて、\n音楽を取っちゃうよ？\n\n@オルフェウス\nそれか公平を期すため…\n\n@オルフェウス\nリーダーを消して、\nあたし自身も消えちゃう系？\n\n# face %(unit_a)s \"sad\"\n@オルフェウス\n…なんて、冗～談\n\n# voice 560321 \"orpheus_c_0013\"\n@オルフェウス\nでも、これからも\nずっと一緒にセッションしたいって\n思ってるんだから…\n\n@オルフェウス\nもっとあたしのこと、\nよく見ててよね\n\n# textflame 0 0\n@\n残念そうな表情を見せる彼女\n\n@\nいつも明るい彼女に\nそんな顔をさせてしまった…\nそう胸を痛めるマスターだった…\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

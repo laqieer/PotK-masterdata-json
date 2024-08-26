@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 300413,
+		"script": "# script \"lisp\"\n# fadein \"black\" 0.5\n# background %(background)s\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n@天沼矛\nはい！\nぐるぐる回るものが\n好きなんです！\n\n# textflame 1 1\n@天沼矛\n回遊魚のみなさんが\n水槽の中をず～っと\n回っているのが楽しくて♪\n\n# textflame 1 1\n@天沼矛\nあ、ほら！\nこのお魚さんはもう２周目です～\nぐるぐる～はやいです～♪\n\n# textflame 0 0\n@\n天沼矛は\nまるで子供のように\n水槽にピッタリくっついている\n\n# textflame 1 1\n@天沼矛\n一緒に泳いでみたいですねぇ…\n楽しいだろうなぁ！\nぐるぐる～…うふふ♪\n\n# textflame 0 0\n@\nマスターは目をつむって\n水中を優雅に泳ぐ\n天沼矛の姿を想像していた――\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

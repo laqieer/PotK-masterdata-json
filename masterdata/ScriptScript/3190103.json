@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 3190103,
+		"script": ";;▼Stage１クリア後\n# script \"lisp\"\n# background \"plain\"\n# bgm \"bgm007\" 0\n;;マミ準備\n# body 501411\n# mask 501411 off\n# pos 501411 3\n# serif 0\n# voice 9942 \"fok_collabo1_0024_mami\"\n# textboxarrow 0 2\n# chara 501411\n# face 501411 \"happy\"\n@巴マミ\n今のうちに行きましょう！"
+	}
+]

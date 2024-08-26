@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 91027498,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# se \"SE_0733\"\n# face %(unit_a)s \"sad\"\n# voice 1027 \"solais_0019\"\n@クラウ・ソラス\nどうやら…\n一方通行だったようだ…\n\n# textflame 1 1\n@クラウ・ソラス\n思い込むと\n突っ走ってしまうところは\n改めないとね…\n\n# textflame 1 1\n@クラウ・ソラス\nあなたが振り向いてくれるくらい\nもっともっと強く想わないとだな！\n\n# voice 1027 \"solais_0028\"\n# textflame 1 1\n# eye %(unit_a)s \"close\"\n@クラウ・ソラス\n…………\n\n# textflame 0 0\n@\n彼女のあまりに\nがっかりした顔に\nマスターの心はギュッと痛んだ\n\n# textflame 0 0\n@\nデート中のはずなのに…\nなにやってるんだろう\n\n# textflame 0 0\n@\n急に聞かれても間違えないように\nしっかりと心に刻んでおかないとな…\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

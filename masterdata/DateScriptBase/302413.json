@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 302413,
+		"script": "# script \"lisp\"\n# fadein \"black\" 0.5\n# background %(background)s\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# face %(unit_a)s \"angry\"\n# voice 3024 \"tonbokiri_0007\"\n@蜻蛉切\n普通、\n女の子とのデートで…\n焼肉行く？\n\n# textflame 1 1\n@蜻蛉切\nなんだか\nお金持ちが大人の女性を\nはべらせて行くイメージ！\n\n# textflame 0 0\n@\nじゃあ、やめる？と\n尋ねるマスター\n\n# textflame 1 1\n;; face %(unit_a)s \"close\"\n@蜻蛉切\nでも…お肉は…\n食べたい気は、する\n\n# textflame 0 0\n@\nそう言った蜻蛉切の目は\n完全に肉食獣が\n獲物を狙う目になっていた…\n\n# textflame 0 0\n@\nこの後、マスターの財布が\nすっからかんになったのは\n言うまでもない…\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

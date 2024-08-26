@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 920001499,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# se \"SE_0732\"\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n@イージス\n……その答え\n\n@イージス\n正解！\n\n# face %(unit_a)s \"shy\"\n# voice 5200011 \"aegis_c_0005\"\n@イージス\nうふふ\n\n# textflame 0 0\n@\n嬉しそうに微笑む彼女\n\n# textflame 1 1\n@イージス\nなんか……\nこういうバカンスな日々も\n悪くないわよね\n\n@イージス\nあなたと一緒なら…\n\n# face %(unit_a)s \"sad\"\n# voice 5200011 \"aegis_c_battle_0007\"\n@イージス\n…って、別に変な意味は、\nにゃ…ないから！！\n\n# voice 5200011 \"aegis_c_0026\"\n@イージス\nかっ、かかかかか\n勘違いするなよ！\n\n# face %(unit_a)s \"angry\"\n@イージス\nと、とにかく、これからも…\nよろしくってことだ！！\n\n# textflame 0 0\n@\n照れた彼女の顔は、\n真夏の太陽よりも\n燃え盛っているようだ\n\n@\nマスターは、また一つ\n彼女との絆が強くなったことを\n実感するのだった…\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

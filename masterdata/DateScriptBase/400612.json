@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 400612,
+		"script": "# script \"lisp\"\n# fadein \"black\" 0.5\n# background %(background)s\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# voice 4006 \"azusa_kyara_2003\"\n@梓弓\n…はい！\nとても、特別な朝です…！\n\n# textflame 0 0\n@\n梓弓は弾けるような笑顔を\nマスターに見せた\n\n# textflame 1 1\n@梓弓\n…華やかな街は\nわたくしには似合いません\n\n# voice 4006 \"azusa_0004\"\n# textflame 1 1\n@梓弓\nもちろん、あなた様と一緒なら\nどこでも天上のように\n素晴らしい場所になるのですが！\n\n# textflame 0 0\n@\n梓弓は慌てて取り繕うと\n恥ずかしそうにうつむいた\n\n# eye %(unit_a)s \"close\"\n# textflame 1 1\n@梓弓\nでも、やはりこういう場所のほうが…\n落ち着くというか\n気負いせずにいられるというか…\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@梓弓\n地味な女ですから…\n申し訳ありません\nあまり愉快ではないですよね！\n\n# textflame 0 0\n@\nマスターは渓流に足を浸ける\nそして、梓弓に手を伸ばした\n\n# voice 4006 \"azusa_kyara_1003\"\n# textflame 1 1\n@梓弓\n…！！\n\n# voice 4006 \"azusa_kyara_2003\"\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@梓弓\n…はい！\nお供いたします…！\n\n# textflame 0 0\n@\n二人で水の冷たさを楽しみながら\nただ、穏やかに笑い合うのだった――\n;;--------------------------------------\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

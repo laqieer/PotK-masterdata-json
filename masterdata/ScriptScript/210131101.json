@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 210131101,
+		"script": ";;■EP1\n;;背景：海\n# script \"lisp\"\n# background \"sea_beach_day\"\n# bgmfile \"bgm227\" \"BgmSeaEvent\" 0\n# body 2101311\n# pos 2101311 3\n# mask 2101311 off\n# chara 2101311\n# textflame 1 1\n# face 2101311 \"sad\"\n# textboxarrow 0 2\n@パラケルスス\nむ…、これは――\n\n# textflame 0 0\n@\n浜辺を散歩していたマスターは\nしゃがみこんで何かをじっと\n観察しているパラケルススを見かける\n\n# textflame 0 0\n@\n近づいて声をかけると――\n\n# face 2101311 \"usual\"\n# textflame 1 1\n# voice 1013 \"paracelsus_0022\"\n@パラケルスス\nな、なんだね…。\nわたくしは今、波の動きについて\n流体力学的な考察を加えているのだ\n\n# textflame 1 1\n@パラケルスス\n研究の邪魔をしないでくれないか\n\n# textflame 0 0\n@\n良かったら一緒に遊びたいと\n思ったんだけど、とマスター\n\n# textflame 0 0\n@\nパラケルススは\n一瞬、表情を緩めたものの―\n\n# textflame 1 1\n# voice 1013 \"paracelsus_0001\"\n@パラケルスス\nわたくしは今\n非常に興味深いものを見つけ\n探究心が沸き立ってるんだ\n\n# textflame 1 1\n@パラケルスス\nわたくしに遊びに浪費する時間はない\nそもそも遊ぶという行為自体\nなんの興味もわかない、虚ろな…\n\n# textflame 0 0\n@\nぐちぐちと理屈を並べ始める彼女に\nマスターはどうやって誘おうか\nと悩んでしまう\n\n# textflame 1 1\n# voice 1013 \"paracelsus_0028\"\n@パラケルスス\nそれに…\nわたくしと一緒に遊んだところで\n君は楽しくないだろう…\n\n# se \"SE_5575\"\n# alpha 2101311 0 0.5\n# textflame 0 0\n@\nそう言って\n彼女は走り去ってしまう\n\n# textflame 0 0\n@\nパラケルススの表情が\nどこかさみしげだったのが気になり\nマスターは後を追うことにする\n"
+	}
+]

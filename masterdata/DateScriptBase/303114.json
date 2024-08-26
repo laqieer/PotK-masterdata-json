@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 303114,
+		"script": ";;小A泳ぎ方、わかりそう？\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_aquarium_day\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 230311 \"cassius_ge_0002\"\n@カシウス\nなんとなくだけど…\n分かってきた気がする\n\n@カシウス\nこんな風に体を揺らして…\nヒレの代わりに腕を使って、\n足をこう動かせば…\n\n# voice 230311 \"cassius_ge_0003\"\n@カシウス\n…うん、\nだんだんつかめてきた…\n\n# voice 230311 \"cassius_ge_0001\"\n@カシウス\n御館様\n帰ったらすこしだけ、\nわたしに付き合ってほしい\n\n@カシウス\nちゃんと泳げるかわからないけど…\n挑戦、してみたいの\n\n@カシウス\nいつかあなたと一緒に、\nあの海を泳いでみたい\n\n@カシウス\n水の中で、あなたと触れ合い…\n手を取り合って\nどこまでも泳ぐ…\n\n@カシウス\nそんな時間を、\n御館様と共有したいの\n\n@カシウス\nそれにはきっと、\n大きな価値があると\n思うから…\n\n# face %(unit_a)s \"smile\"\n# voice 230311 \"cassius_ge_0030\"\n@カシウス\n…いいの？\nそう…ありがとう、御館様\n\n@カシウス\nそれじゃあ、もうしばらく\n観察させて？\n\n@カシウス\nコツがつかめるまで、\nあと少しかかりそうだから…\n\n# textflame 0 0\n@\nその後も、興味津々に\n魚たちを観察するカシウス\n\n# textflame 0 0\n@\nどこか楽しげな様子の彼女を、\nマスターはそばで見守っていた…\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

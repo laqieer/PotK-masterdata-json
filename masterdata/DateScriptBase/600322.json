@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 600322,
+		"script": ";;C 朝まで飲むぞ！\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_onsen\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# voice 6003 \"tyurusosu_0004\"\n@テュルソス\nいい返事だね、マスター♪\n\n@テュルソス\nもちろん、私も付き合うよ！\nかんぱ～い！\n\n# textflame 0 0\n@\nマスターとテュルソスは\n一気にグラスを空にした！\n\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n# voice 6003 \"tyurusosu_0005\"\n@テュルソス\nうんうん、いい飲みっぷり♪\nお酒はこう飲まなくちゃ♪\n\n# eye %(unit_a)s \"close\"\n@テュルソス\nでもまだちょっと\n物足りないね…\n\n# eye %(unit_a)s \"normal\"\n@テュルソス\n少し早いけど、\nもう少し強いやつ頼もうか！\n\n# textflame 0 0\n@\n歪む視界の中、頷くマスター\n\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n# voice 6003 \"tyurusosu_0029\"\n@テュルソス\nよし！行くよ！\nせーのっ！\n\n# textflame 0 0\n@\nテュルソスに負けじと\nマスターも一気にあおる！\n\n# textflame 1 1\n# voice 6003 \"tyurusosu_0020\"\n@テュルソス\nん～っ♪最高♪\n\n# face %(unit_a)s \"usual\"\n@テュルソス\nやっぱり、\nふたりで飲むお酒は\n格別だね！\n\n# face %(unit_a)s \"smile\"\n# voice 6003 \"tyurusosu_0006\"\n@テュルソス\nふふっ…気分がいいから\nマスターのこと、\nぎゅーってしてあげる♪\n\n# textflame 0 0\n@\nテュルソスの腕に抱かれながら、\nマスターの意識は遠ざかっていった…\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

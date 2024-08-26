@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 91008398,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# se \"SE_0733\"\n# voice 1008 \"guramu_0013\"\n@グラム\n…はずれ\n\n# face %(unit_a)s \"sad\"\n@グラム\nあ、いや急にクイズとか\nそんな正解出来ないよね…\n\n# voice 1008 \"guramu_0031\"\n@グラム\n私も…\nもうちょっと考えてクイズ出せば\n良かったね、ごめんね…\n\n# face %(unit_a)s \"smile\"\n# voice 1008 \"guramu_0003\"\n@グラム\nじゃあ、クイズ終了～\nでも…また今度クイズを出したときは\n間違えないでくれると嬉しいな…\n\n# textflame 0 0\n@\n彼女の困ったような\n悲しいような顔が\nマスターの眼に焼付いた\n\n@\nデート中のはずなのに…\n悲しげな顔をさせてしまうなんて…\n\n@\nまた今度って言ってたし…\n次の機会は絶対間違えないように\nしないといけないな…\n\n# fadeout　\"black\" 1.2\n# waitandnext 2"
+	}
+]

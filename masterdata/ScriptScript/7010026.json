@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 7010026,
+		"script": "# body 1300151\n# pos 1300151 3\n# scale 1300151 0.8 0\n# alpha 1300151 1 0\n# mask 1300151 off\n# textflame 0 0\n@\n魔獣化したロンギヌス\nその目には\n理性の欠片も残っていない\n\n# textflame 1 1\n# textboxarrow 0 2\n@ロンギヌス\nウウ…\n\n# textflame 0 0\n@\n十字架を模した巨大な槍を\n構える彼の姿は\nまさに獣を思わせた\n\n# textflame 1 1\n@ロンギヌス\nグルルルルルルルル\n\n# textflame 0 0\n@\n低い唸り声を上げながら、\nそのままこちらの様子を\n窺っていたが\n\n@\n次の瞬間―\n\n# textflame 1 1\n# textwindow \"toge\"\n# fadein \"white\" 0.3\n# shake 1 1\n@ロンギヌス\nガアアアアアアアアアア！！\n\n# textwindow \"nomal\"\n# textflame 0 0\n@\n狂気を孕んだ咆哮を上げ\n襲い掛かってきた"
+	}
+]

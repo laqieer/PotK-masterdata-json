@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 95032499,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 250321 \"tiphereth_t_0001\"\n# se \"SE_0732\"\n@ティファレト\n……主様\n\n# face %(unit_a)s \"normal\"\n# voice 250321 \"tiphereth_t_0005\"\n@ティファレト\n正解です\n\n# face %(unit_a)s \"usual\"\n@ティファレト\n主様がどれくらい\n私を知って下さっているのか…\n正直、不安でした\n\n# voice 250321 \"tiphereth_t_0003\"\n@ティファレト\nでも私の目こそ、\nなにも見えていなかったの\nですね…\n\n@ティファレト\nこんなにも見ていてくれる\n主様がいるのに…\n\n# face %(unit_a)s \"sad\"\n# voice 250321 \"tiphereth_t_0028\"\n@ティファレト\n試すようなご無礼、\nお許しください\n\n# face %(unit_a)s \"usual\"\n@ティファレト\nでも…\nとても嬉しかったです\n\n# face %(unit_a)s \"normal\"\n# voice 250321 \"tiphereth_t_0004\"\n@ティファレト\nありがとうございます\n\n;;モノローグ\n# textflame 0 0\n@\n彼女が笑った\n\n;;モノローグ\n@\nその光景は、\n真夏の太陽以上に眩しく、\n輝いていた\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

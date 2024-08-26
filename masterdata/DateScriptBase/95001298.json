@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 95001298,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# face %(unit_a)s \"angry\"\n# se \"SE_0733\"\n# voice 5001 \"keraunosu_0011\"\n@ケラウノス\nいけてないよ～！\n\n@ケラウノス\nマイナスポイント～！\n今の絶対忘れないからねっ！\n\n# voice 5001 \"keraunosu_0013\"\n# face %(unit_a)s \"sad\"\n@ケラウノス\n…気になってる人には\nちゃんと知っててほしいんだから…\n\n# face %(unit_a)s \"angry\"\n@ケラウノス\n明日から\nもっと努力するよ～に！\n\n# eye %(unit_a)s \"close\"\n@ケラウノス\n…………\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"normal\"\n@ケラウノス\nん…\nほら、帰るよ～…！\n\n# textflame 0 0\n@\nそう言った彼女はあからさまに\nしょんぼりとしていた…\n\n@\nさっきまで楽しそうだったのに\n台無しにしてしまった\nせっかくのデートなのに…\n\n@\nどんな質問にも答えられるように\n彼女のことを\n復習しておかないとな…\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

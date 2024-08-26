@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 292004199,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# face %(unit_a)s \"shy\"\n# voice 220042 \"parashu_k_0004\"\n# se \"SE_0732\"\n@パラシュ\nふふんっ\nさすがマスターだ\n正解さ\n\n# textflame 0 0\n@\nまるで自分のことのように\n自慢げなパラシュ\nなにがそんなに嬉しいのだろうか\n\n# textflame 1 1\n@パラシュ\nもちろん、キミがボクに\nふさわしいマスターだと\nわかったからさ\n\n@パラシュ\nもっとボクを知って欲しい\nもっとマスターを知りたい\n\n# voice 220042 \"parashu_k_0020\"\n# face %(unit_a)s usual\"\n@パラシュ\nそうやってお互いを\n知っていくことが\nなにより理想に近づく手段さ\n\n# textflame 0 0\n@\n上機嫌に歩き出すパラシュ\nその表情は今まで\n見たことがないぐらい輝いていた…\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

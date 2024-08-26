@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 95017199,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# se \"SE_0732\"\n# voice 5017 \"grimoire_0007\"\n@グリモワール\n…へぇ\n\n# eye %(unit_a)s \"close\"\n@グリモワール\n正解よ、やるじゃない\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"angry\"\n# voice 5017 \"grimoire_0013\"\n@グリモワール\nべ、別に感心なんてしてないわよ！\n…ったく\n高貴なワタシに対して失礼な！\n\n# voice 5017 \"grimoire_0003\"\n# face %(unit_a)s \"normal\"\n@グリモワール\nでぇ？\nなにその、勝ち誇ったような顔は？\n言っとくけど…\n\n@グリモワール\nこれくらい知ってて当然だからね\n\n# textflame 0 0\n@\n特に勝ち誇った顔を\nしたつもりもないのだが…\n\n@\nとにかく言葉とは裏腹に\n喜んでくれているようだ\n\n@\nマスターは、\n彼女との絆が\n深まったのを実感した…\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

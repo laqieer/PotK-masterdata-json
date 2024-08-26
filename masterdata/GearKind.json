@@ -1,0 +1,110 @@
+[
+	{
+		"ID": 1,
+		"name": "剣",
+		"can_equip": 1,
+		"same_element": 1,
+		"is_attack": 1,
+		"is_composite": 1,
+		"colosseum_preempt_coefficient": 105
+	},
+	{
+		"ID": 2,
+		"name": "斧",
+		"can_equip": 1,
+		"same_element": 1,
+		"is_attack": 1,
+		"is_composite": 1,
+		"colosseum_preempt_coefficient": 100
+	},
+	{
+		"ID": 3,
+		"name": "槍",
+		"can_equip": 1,
+		"same_element": 1,
+		"is_attack": 1,
+		"is_composite": 1,
+		"colosseum_preempt_coefficient": 110
+	},
+	{
+		"ID": 4,
+		"name": "弓",
+		"can_equip": 1,
+		"same_element": 1,
+		"is_attack": 1,
+		"is_composite": 1,
+		"colosseum_preempt_coefficient": 140
+	},
+	{
+		"ID": 5,
+		"name": "銃",
+		"can_equip": 1,
+		"same_element": 1,
+		"is_attack": 1,
+		"is_composite": 1,
+		"colosseum_preempt_coefficient": 120
+	},
+	{
+		"ID": 6,
+		"name": "杖",
+		"can_equip": 1,
+		"same_element": 1,
+		"is_attack": 1,
+		"is_composite": 1,
+		"colosseum_preempt_coefficient": 115
+	},
+	{
+		"ID": 7,
+		"name": "盾",
+		"can_equip": 1,
+		"same_element": 0,
+		"is_attack": 0,
+		"is_composite": 1,
+		"colosseum_preempt_coefficient": 100
+	},
+	{
+		"ID": 8,
+		"name": "特殊",
+		"can_equip": 1,
+		"same_element": 1,
+		"is_attack": 1,
+		"is_composite": 0,
+		"colosseum_preempt_coefficient": 100
+	},
+	{
+		"ID": 9,
+		"name": "統合",
+		"can_equip": 0,
+		"same_element": 0,
+		"is_attack": 0,
+		"is_composite": 0,
+		"colosseum_preempt_coefficient": 100
+	},
+	{
+		"ID": 10,
+		"name": "装飾品",
+		"can_equip": 1,
+		"same_element": 0,
+		"is_attack": 0,
+		"is_composite": 0,
+		"colosseum_preempt_coefficient": 100
+	},
+	{
+		"ID": 14,
+		"name": "魔法",
+		"can_equip": 0,
+		"same_element": 0,
+		"is_attack": 0,
+		"is_composite": 0,
+		"colosseum_preempt_coefficient": 100
+	},
+	{
+		"ID": 1001,
+		"name": "剣斧槍",
+		"can_equip": 0,
+		"same_element": 1,
+		"is_attack": 0,
+		"is_composite": 0,
+		"colosseum_preempt_coefficient": 99999
+	}
+]

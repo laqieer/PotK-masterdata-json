@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 92011198,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# se \"SE_0733\"\n# face %(unit_a)s \"sad\"\n# voice 2011 \"Wazra_0023\"\n@ワズラ\nそんな…\n\n@ワズラ\n我々は盟友では\nなかったのですか…？\n\n@ワズラ\n残念です…\n\n# eye %(unit_a)s \"close\"\n# voice 2011 \"Wazra_0001\"\n@ワズラ\nあの、マスター…\nもう一度、\n契約し直してくれませんか…？\n\n# eye %(unit_a)s \"normal\"\n@ワズラ\nこれからは\nワズラのこと…\nちゃんと見て下さると…\n\n# textflame 0 0\n@\nそうつぶやく彼女は、\nとても残念そうだった\n\n@\nデート中にこんなにも、\nがっかりさせてしまうなんて…\n\n@\n…………\n\n@\n彼女の言う通り、今度こそ、\nちゃんと見ておかないとな…\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

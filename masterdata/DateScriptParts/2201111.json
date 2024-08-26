@@ -1,0 +1,26 @@
+[
+	{
+		"ID": 293,
+		"unitID": 2201111,
+		"scriptID": "kaerimichi",
+		"script": "マスター、契約満了まで\nまだ時間がありますよ？"
+	},
+	{
+		"ID": 307,
+		"unitID": 2201111,
+		"scriptID": "kaeru",
+		"script": "マスター\n今日の契約はここまでです"
+	},
+	{
+		"ID": 321,
+		"unitID": 2201111,
+		"scriptID": "kaeru_ok",
+		"script": "@%(unitName:unit_a)s\nワズラとふたりで過ごしてくれる…\nそういう契約ですね？"
+	},
+	{
+		"ID": 335,
+		"unitID": 2201111,
+		"scriptID": "kaeru_ng",
+		"script": "@%(unitName:unit_a)s\nすみません、\n契約の更新がまだ\n済んでいないので…"
+	}
+]

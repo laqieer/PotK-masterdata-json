@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 91012299,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# se \"SE_0732\"\n# voice 1012 \"adamasu_0005\"\n@アダマス\nはいはい合格\nま、そうでなきゃね？\n\n# eye %(unit_a)s \"close\"\n# voice 1012 \"adamasu_0027\"\n@アダマス\nだってあんた…\nあたしに気があるんだもんね？\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"smile\"\n@アダマス\nもっと知りたい…？\nじゃ、せいぜい頑張って♪\n\n# textflame 0 0\n@\n言葉以上に嬉しそうな顔をみて\nマスターは彼女との絆が\nまた深まったのを実感した…\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

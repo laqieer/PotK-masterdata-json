@@ -1,0 +1,2819 @@
+[
+	{
+		"ID": 1,
+		"type": 1,
+		"point": 30,
+		"box_type": 1,
+		"point_reward_ids": "1",
+		"start_at": "2020-02-01 00:00:00",
+		"end_at": "2020-02-29 23:59:59"
+	},
+	{
+		"ID": 2,
+		"type": 1,
+		"point": 50,
+		"box_type": 2,
+		"point_reward_ids": "2:3",
+		"start_at": "2020-02-01 00:00:00",
+		"end_at": "2020-02-29 23:59:59"
+	},
+	{
+		"ID": 3,
+		"type": 1,
+		"point": 70,
+		"box_type": 3,
+		"point_reward_ids": "4",
+		"start_at": "2020-02-01 00:00:00",
+		"end_at": "2020-02-14 23:59:59"
+	},
+	{
+		"ID": 4,
+		"type": 1,
+		"point": 70,
+		"box_type": 3,
+		"point_reward_ids": "5",
+		"start_at": "2020-02-15 00:00:00",
+		"end_at": "2020-02-29 23:59:59"
+	},
+	{
+		"ID": 5,
+		"type": 1,
+		"point": 110,
+		"box_type": 4,
+		"point_reward_ids": "6:7",
+		"start_at": "2020-02-01 00:00:00",
+		"end_at": "2020-02-29 23:59:59"
+	},
+	{
+		"ID": 6,
+		"type": 2,
+		"point": 500,
+		"box_type": 2,
+		"point_reward_ids": "8",
+		"start_at": "2020-02-03 00:00:00",
+		"end_at": "2020-03-01 23:59:59"
+	},
+	{
+		"ID": 7,
+		"type": 2,
+		"point": 700,
+		"box_type": 3,
+		"point_reward_ids": "9:10",
+		"start_at": "2020-02-03 00:00:00",
+		"end_at": "2020-03-01 23:59:59"
+	},
+	{
+		"ID": 8,
+		"type": 1,
+		"point": 30,
+		"box_type": 1,
+		"point_reward_ids": "11",
+		"start_at": "2020-03-01 00:00:00",
+		"end_at": "2020-03-31 23:59:59"
+	},
+	{
+		"ID": 9,
+		"type": 1,
+		"point": 50,
+		"box_type": 2,
+		"point_reward_ids": "12:13",
+		"start_at": "2020-03-01 00:00:00",
+		"end_at": "2020-03-31 23:59:59"
+	},
+	{
+		"ID": 10,
+		"type": 1,
+		"point": 70,
+		"box_type": 3,
+		"point_reward_ids": "14",
+		"start_at": "2020-03-01 00:00:00",
+		"end_at": "2020-03-15 23:59:59"
+	},
+	{
+		"ID": 11,
+		"type": 1,
+		"point": 70,
+		"box_type": 3,
+		"point_reward_ids": "15",
+		"start_at": "2020-03-16 00:00:00",
+		"end_at": "2020-03-31 23:59:59"
+	},
+	{
+		"ID": 12,
+		"type": 1,
+		"point": 110,
+		"box_type": 4,
+		"point_reward_ids": "16:17",
+		"start_at": "2020-03-01 00:00:00",
+		"end_at": "2020-03-31 23:59:59"
+	},
+	{
+		"ID": 13,
+		"type": 2,
+		"point": 440,
+		"box_type": 2,
+		"point_reward_ids": "18",
+		"start_at": "2020-03-02 00:00:00",
+		"end_at": "2020-04-05 23:59:59"
+	},
+	{
+		"ID": 14,
+		"type": 2,
+		"point": 640,
+		"box_type": 3,
+		"point_reward_ids": "19:20",
+		"start_at": "2020-03-02 00:00:00",
+		"end_at": "2020-04-05 23:59:59"
+	},
+	{
+		"ID": 15,
+		"type": 1,
+		"point": 30,
+		"box_type": 1,
+		"point_reward_ids": "21",
+		"start_at": "2020-04-01 00:00:00",
+		"end_at": "2020-04-30 23:59:59"
+	},
+	{
+		"ID": 16,
+		"type": 1,
+		"point": 50,
+		"box_type": 2,
+		"point_reward_ids": "22:23",
+		"start_at": "2020-04-01 00:00:00",
+		"end_at": "2020-04-30 23:59:59"
+	},
+	{
+		"ID": 17,
+		"type": 1,
+		"point": 70,
+		"box_type": 3,
+		"point_reward_ids": "24",
+		"start_at": "2020-04-01 00:00:00",
+		"end_at": "2020-04-15 23:59:59"
+	},
+	{
+		"ID": 18,
+		"type": 1,
+		"point": 70,
+		"box_type": 3,
+		"point_reward_ids": "25",
+		"start_at": "2020-04-16 00:00:00",
+		"end_at": "2020-04-30 23:59:59"
+	},
+	{
+		"ID": 19,
+		"type": 1,
+		"point": 110,
+		"box_type": 4,
+		"point_reward_ids": "26:27",
+		"start_at": "2020-04-01 00:00:00",
+		"end_at": "2020-04-30 23:59:59"
+	},
+	{
+		"ID": 20,
+		"type": 2,
+		"point": 500,
+		"box_type": 2,
+		"point_reward_ids": "28",
+		"start_at": "2020-04-06 00:00:00",
+		"end_at": "2020-05-03 23:59:59"
+	},
+	{
+		"ID": 21,
+		"type": 2,
+		"point": 700,
+		"box_type": 3,
+		"point_reward_ids": "29:30",
+		"start_at": "2020-04-06 00:00:00",
+		"end_at": "2020-05-03 23:59:59"
+	},
+	{
+		"ID": 22,
+		"type": 1,
+		"point": 30,
+		"box_type": 1,
+		"point_reward_ids": "31",
+		"start_at": "2020-05-01 00:00:00",
+		"end_at": "2020-05-31 23:59:59"
+	},
+	{
+		"ID": 23,
+		"type": 1,
+		"point": 50,
+		"box_type": 2,
+		"point_reward_ids": "32:33",
+		"start_at": "2020-05-01 00:00:00",
+		"end_at": "2020-05-31 23:59:59"
+	},
+	{
+		"ID": 24,
+		"type": 1,
+		"point": 70,
+		"box_type": 3,
+		"point_reward_ids": "34",
+		"start_at": "2020-05-01 00:00:00",
+		"end_at": "2020-05-15 23:59:59"
+	},
+	{
+		"ID": 25,
+		"type": 1,
+		"point": 70,
+		"box_type": 3,
+		"point_reward_ids": "35",
+		"start_at": "2020-05-16 00:00:00",
+		"end_at": "2020-05-31 23:59:59"
+	},
+	{
+		"ID": 26,
+		"type": 1,
+		"point": 110,
+		"box_type": 4,
+		"point_reward_ids": "36:37",
+		"start_at": "2020-05-01 00:00:00",
+		"end_at": "2020-05-31 23:59:59"
+	},
+	{
+		"ID": 27,
+		"type": 2,
+		"point": 500,
+		"box_type": 2,
+		"point_reward_ids": "38",
+		"start_at": "2020-05-04 00:00:00",
+		"end_at": "2020-05-31 23:59:59"
+	},
+	{
+		"ID": 28,
+		"type": 2,
+		"point": 700,
+		"box_type": 3,
+		"point_reward_ids": "39:40",
+		"start_at": "2020-05-04 00:00:00",
+		"end_at": "2020-05-31 23:59:59"
+	},
+	{
+		"ID": 29,
+		"type": 1,
+		"point": 30,
+		"box_type": 1,
+		"point_reward_ids": "41",
+		"start_at": "2020-06-01 00:00:00",
+		"end_at": "2020-06-30 23:59:59"
+	},
+	{
+		"ID": 30,
+		"type": 1,
+		"point": 50,
+		"box_type": 2,
+		"point_reward_ids": "42:43",
+		"start_at": "2020-06-01 00:00:00",
+		"end_at": "2020-06-30 23:59:59"
+	},
+	{
+		"ID": 31,
+		"type": 1,
+		"point": 70,
+		"box_type": 3,
+		"point_reward_ids": "44",
+		"start_at": "2020-06-01 00:00:00",
+		"end_at": "2020-06-15 23:59:59"
+	},
+	{
+		"ID": 32,
+		"type": 1,
+		"point": 70,
+		"box_type": 3,
+		"point_reward_ids": "45",
+		"start_at": "2020-06-16 00:00:00",
+		"end_at": "2020-06-30 23:59:59"
+	},
+	{
+		"ID": 33,
+		"type": 1,
+		"point": 110,
+		"box_type": 4,
+		"point_reward_ids": "46:47",
+		"start_at": "2020-06-01 00:00:00",
+		"end_at": "2020-06-30 23:59:59"
+	},
+	{
+		"ID": 34,
+		"type": 2,
+		"point": 500,
+		"box_type": 2,
+		"point_reward_ids": "48",
+		"start_at": "2020-06-01 00:00:00",
+		"end_at": "2020-07-05 23:59:59"
+	},
+	{
+		"ID": 35,
+		"type": 2,
+		"point": 700,
+		"box_type": 3,
+		"point_reward_ids": "49:50",
+		"start_at": "2020-06-01 00:00:00",
+		"end_at": "2020-07-05 23:59:59"
+	},
+	{
+		"ID": 36,
+		"type": 1,
+		"point": 30,
+		"box_type": 1,
+		"point_reward_ids": "51",
+		"start_at": "2020-07-01 00:00:00",
+		"end_at": "2020-07-31 23:59:59"
+	},
+	{
+		"ID": 37,
+		"type": 1,
+		"point": 50,
+		"box_type": 2,
+		"point_reward_ids": "52:53",
+		"start_at": "2020-07-01 00:00:00",
+		"end_at": "2020-07-31 23:59:59"
+	},
+	{
+		"ID": 38,
+		"type": 1,
+		"point": 70,
+		"box_type": 3,
+		"point_reward_ids": "54",
+		"start_at": "2020-07-01 00:00:00",
+		"end_at": "2020-07-15 23:59:59"
+	},
+	{
+		"ID": 39,
+		"type": 1,
+		"point": 70,
+		"box_type": 3,
+		"point_reward_ids": "55",
+		"start_at": "2020-07-16 00:00:00",
+		"end_at": "2020-07-31 23:59:59"
+	},
+	{
+		"ID": 40,
+		"type": 1,
+		"point": 100,
+		"box_type": 4,
+		"point_reward_ids": "56:57",
+		"start_at": "2020-07-01 00:00:00",
+		"end_at": "2020-07-31 23:59:59"
+	},
+	{
+		"ID": 41,
+		"type": 2,
+		"point": 450,
+		"box_type": 2,
+		"point_reward_ids": "58",
+		"start_at": "2020-07-06 00:00:00",
+		"end_at": "2020-08-02 23:59:59"
+	},
+	{
+		"ID": 42,
+		"type": 2,
+		"point": 750,
+		"box_type": 3,
+		"point_reward_ids": "59:60",
+		"start_at": "2020-07-06 00:00:00",
+		"end_at": "2020-08-02 23:59:59"
+	},
+	{
+		"ID": 43,
+		"type": 1,
+		"point": 30,
+		"box_type": 1,
+		"point_reward_ids": "61",
+		"start_at": "2020-08-01 00:00:00",
+		"end_at": "2020-08-31 23:59:59"
+	},
+	{
+		"ID": 44,
+		"type": 1,
+		"point": 50,
+		"box_type": 2,
+		"point_reward_ids": "62:63",
+		"start_at": "2020-08-01 00:00:00",
+		"end_at": "2020-08-31 23:59:59"
+	},
+	{
+		"ID": 45,
+		"type": 1,
+		"point": 70,
+		"box_type": 3,
+		"point_reward_ids": "64",
+		"start_at": "2020-08-01 00:00:00",
+		"end_at": "2020-08-15 23:59:59"
+	},
+	{
+		"ID": 46,
+		"type": 1,
+		"point": 70,
+		"box_type": 3,
+		"point_reward_ids": "65",
+		"start_at": "2020-08-16 00:00:00",
+		"end_at": "2020-08-31 23:59:59"
+	},
+	{
+		"ID": 47,
+		"type": 1,
+		"point": 100,
+		"box_type": 4,
+		"point_reward_ids": "66:67",
+		"start_at": "2020-08-01 00:00:00",
+		"end_at": "2020-08-31 23:59:59"
+	},
+	{
+		"ID": 48,
+		"type": 2,
+		"point": 450,
+		"box_type": 2,
+		"point_reward_ids": "68",
+		"start_at": "2020-08-03 00:00:00",
+		"end_at": "2020-09-06 23:59:59"
+	},
+	{
+		"ID": 49,
+		"type": 2,
+		"point": 750,
+		"box_type": 3,
+		"point_reward_ids": "69:70",
+		"start_at": "2020-08-03 00:00:00",
+		"end_at": "2020-09-06 23:59:59"
+	},
+	{
+		"ID": 50,
+		"type": 1,
+		"point": 30,
+		"box_type": 1,
+		"point_reward_ids": "71",
+		"start_at": "2020-09-01 00:00:00",
+		"end_at": "2020-09-30 23:59:59"
+	},
+	{
+		"ID": 51,
+		"type": 1,
+		"point": 50,
+		"box_type": 2,
+		"point_reward_ids": "72:73",
+		"start_at": "2020-09-01 00:00:00",
+		"end_at": "2020-09-30 23:59:59"
+	},
+	{
+		"ID": 52,
+		"type": 1,
+		"point": 70,
+		"box_type": 3,
+		"point_reward_ids": "74",
+		"start_at": "2020-09-01 00:00:00",
+		"end_at": "2020-09-15 23:59:59"
+	},
+	{
+		"ID": 53,
+		"type": 1,
+		"point": 70,
+		"box_type": 3,
+		"point_reward_ids": "75",
+		"start_at": "2020-09-16 00:00:00",
+		"end_at": "2020-09-30 23:59:59"
+	},
+	{
+		"ID": 54,
+		"type": 1,
+		"point": 100,
+		"box_type": 4,
+		"point_reward_ids": "76:77",
+		"start_at": "2020-09-01 00:00:00",
+		"end_at": "2020-09-30 23:59:59"
+	},
+	{
+		"ID": 55,
+		"type": 2,
+		"point": 450,
+		"box_type": 2,
+		"point_reward_ids": "78",
+		"start_at": "2020-09-07 00:00:00",
+		"end_at": "2020-10-04 23:59:59"
+	},
+	{
+		"ID": 56,
+		"type": 2,
+		"point": 750,
+		"box_type": 3,
+		"point_reward_ids": "79:80",
+		"start_at": "2020-09-07 00:00:00",
+		"end_at": "2020-10-04 23:59:59"
+	},
+	{
+		"ID": 57,
+		"type": 1,
+		"point": 30,
+		"box_type": 1,
+		"point_reward_ids": "81",
+		"start_at": "2020-10-01 00:00:00",
+		"end_at": "2020-10-31 23:59:59"
+	},
+	{
+		"ID": 58,
+		"type": 1,
+		"point": 50,
+		"box_type": 2,
+		"point_reward_ids": "82:83",
+		"start_at": "2020-10-01 00:00:00",
+		"end_at": "2020-10-31 23:59:59"
+	},
+	{
+		"ID": 59,
+		"type": 1,
+		"point": 70,
+		"box_type": 3,
+		"point_reward_ids": "84",
+		"start_at": "2020-10-01 00:00:00",
+		"end_at": "2020-10-15 23:59:59"
+	},
+	{
+		"ID": 60,
+		"type": 1,
+		"point": 70,
+		"box_type": 3,
+		"point_reward_ids": "85",
+		"start_at": "2020-10-16 00:00:00",
+		"end_at": "2020-10-31 23:59:59"
+	},
+	{
+		"ID": 61,
+		"type": 1,
+		"point": 100,
+		"box_type": 4,
+		"point_reward_ids": "86:87",
+		"start_at": "2020-10-01 00:00:00",
+		"end_at": "2020-10-31 23:59:59"
+	},
+	{
+		"ID": 62,
+		"type": 2,
+		"point": 450,
+		"box_type": 2,
+		"point_reward_ids": "88",
+		"start_at": "2020-10-05 00:00:00",
+		"end_at": "2020-11-01 23:59:59"
+	},
+	{
+		"ID": 63,
+		"type": 2,
+		"point": 750,
+		"box_type": 3,
+		"point_reward_ids": "89:90",
+		"start_at": "2020-10-05 00:00:00",
+		"end_at": "2020-11-01 23:59:59"
+	},
+	{
+		"ID": 64,
+		"type": 1,
+		"point": 30,
+		"box_type": 1,
+		"point_reward_ids": "91",
+		"start_at": "2020-11-01 00:00:00",
+		"end_at": "2020-11-30 23:59:59"
+	},
+	{
+		"ID": 65,
+		"type": 1,
+		"point": 50,
+		"box_type": 2,
+		"point_reward_ids": "92:93",
+		"start_at": "2020-11-01 00:00:00",
+		"end_at": "2020-11-30 23:59:59"
+	},
+	{
+		"ID": 66,
+		"type": 1,
+		"point": 70,
+		"box_type": 3,
+		"point_reward_ids": "94",
+		"start_at": "2020-11-01 00:00:00",
+		"end_at": "2020-11-15 23:59:59"
+	},
+	{
+		"ID": 67,
+		"type": 1,
+		"point": 70,
+		"box_type": 3,
+		"point_reward_ids": "95",
+		"start_at": "2020-11-16 00:00:00",
+		"end_at": "2020-11-30 23:59:59"
+	},
+	{
+		"ID": 68,
+		"type": 1,
+		"point": 100,
+		"box_type": 4,
+		"point_reward_ids": "96:97",
+		"start_at": "2020-11-01 00:00:00",
+		"end_at": "2020-11-30 23:59:59"
+	},
+	{
+		"ID": 69,
+		"type": 2,
+		"point": 450,
+		"box_type": 2,
+		"point_reward_ids": "98",
+		"start_at": "2020-11-02 00:00:00",
+		"end_at": "2020-12-06 23:59:59"
+	},
+	{
+		"ID": 70,
+		"type": 2,
+		"point": 750,
+		"box_type": 3,
+		"point_reward_ids": "99:100",
+		"start_at": "2020-11-02 00:00:00",
+		"end_at": "2020-12-06 23:59:59"
+	},
+	{
+		"ID": 71,
+		"type": 1,
+		"point": 30,
+		"box_type": 1,
+		"point_reward_ids": "101",
+		"start_at": "2020-12-01 00:00:00",
+		"end_at": "2020-12-31 23:59:59"
+	},
+	{
+		"ID": 72,
+		"type": 1,
+		"point": 50,
+		"box_type": 2,
+		"point_reward_ids": "102:103",
+		"start_at": "2020-12-01 00:00:00",
+		"end_at": "2020-12-31 23:59:59"
+	},
+	{
+		"ID": 73,
+		"type": 1,
+		"point": 70,
+		"box_type": 3,
+		"point_reward_ids": "104",
+		"start_at": "2020-12-01 00:00:00",
+		"end_at": "2020-12-15 23:59:59"
+	},
+	{
+		"ID": 74,
+		"type": 1,
+		"point": 70,
+		"box_type": 3,
+		"point_reward_ids": "105",
+		"start_at": "2020-12-16 00:00:00",
+		"end_at": "2020-12-31 23:59:59"
+	},
+	{
+		"ID": 75,
+		"type": 1,
+		"point": 100,
+		"box_type": 4,
+		"point_reward_ids": "106:107",
+		"start_at": "2020-12-01 00:00:00",
+		"end_at": "2020-12-31 23:59:59"
+	},
+	{
+		"ID": 76,
+		"type": 2,
+		"point": 450,
+		"box_type": 2,
+		"point_reward_ids": "108",
+		"start_at": "2020-12-07 00:00:00",
+		"end_at": "2021-01-03 23:59:59"
+	},
+	{
+		"ID": 77,
+		"type": 2,
+		"point": 750,
+		"box_type": 3,
+		"point_reward_ids": "109:110",
+		"start_at": "2020-12-07 00:00:00",
+		"end_at": "2021-01-03 23:59:59"
+	},
+	{
+		"ID": 78,
+		"type": 1,
+		"point": 30,
+		"box_type": 1,
+		"point_reward_ids": "111",
+		"start_at": "2021-01-01 00:00:00",
+		"end_at": "2021-01-31 23:59:59"
+	},
+	{
+		"ID": 79,
+		"type": 1,
+		"point": 50,
+		"box_type": 2,
+		"point_reward_ids": "112:113",
+		"start_at": "2021-01-01 00:00:00",
+		"end_at": "2021-01-31 23:59:59"
+	},
+	{
+		"ID": 80,
+		"type": 1,
+		"point": 70,
+		"box_type": 3,
+		"point_reward_ids": "114",
+		"start_at": "2021-01-01 00:00:00",
+		"end_at": "2021-01-15 23:59:59"
+	},
+	{
+		"ID": 81,
+		"type": 1,
+		"point": 70,
+		"box_type": 3,
+		"point_reward_ids": "115",
+		"start_at": "2021-01-16 00:00:00",
+		"end_at": "2021-01-31 23:59:59"
+	},
+	{
+		"ID": 82,
+		"type": 1,
+		"point": 100,
+		"box_type": 4,
+		"point_reward_ids": "116:117",
+		"start_at": "2021-01-01 00:00:00",
+		"end_at": "2021-01-31 23:59:59"
+	},
+	{
+		"ID": 83,
+		"type": 2,
+		"point": 450,
+		"box_type": 2,
+		"point_reward_ids": "118",
+		"start_at": "2021-01-04 00:00:00",
+		"end_at": "2021-01-31 23:59:59"
+	},
+	{
+		"ID": 84,
+		"type": 2,
+		"point": 750,
+		"box_type": 3,
+		"point_reward_ids": "119:120",
+		"start_at": "2021-01-04 00:00:00",
+		"end_at": "2021-01-31 23:59:59"
+	},
+	{
+		"ID": 85,
+		"type": 1,
+		"point": 30,
+		"box_type": 1,
+		"point_reward_ids": "121",
+		"start_at": "2021-02-01 00:00:00",
+		"end_at": "2021-02-28 23:59:59"
+	},
+	{
+		"ID": 86,
+		"type": 1,
+		"point": 50,
+		"box_type": 2,
+		"point_reward_ids": "122:123",
+		"start_at": "2021-02-01 00:00:00",
+		"end_at": "2021-02-28 23:59:59"
+	},
+	{
+		"ID": 87,
+		"type": 1,
+		"point": 70,
+		"box_type": 3,
+		"point_reward_ids": "124",
+		"start_at": "2021-02-01 00:00:00",
+		"end_at": "2021-02-14 23:59:59"
+	},
+	{
+		"ID": 88,
+		"type": 1,
+		"point": 70,
+		"box_type": 3,
+		"point_reward_ids": "125",
+		"start_at": "2021-02-15 00:00:00",
+		"end_at": "2021-02-28 23:59:59"
+	},
+	{
+		"ID": 89,
+		"type": 1,
+		"point": 100,
+		"box_type": 4,
+		"point_reward_ids": "126:127",
+		"start_at": "2021-02-01 00:00:00",
+		"end_at": "2021-02-28 23:59:59"
+	},
+	{
+		"ID": 90,
+		"type": 2,
+		"point": 450,
+		"box_type": 2,
+		"point_reward_ids": "128",
+		"start_at": "2021-02-01 00:00:00",
+		"end_at": "2021-02-28 23:59:59"
+	},
+	{
+		"ID": 91,
+		"type": 2,
+		"point": 750,
+		"box_type": 3,
+		"point_reward_ids": "129:130",
+		"start_at": "2021-02-01 00:00:00",
+		"end_at": "2021-02-28 23:59:59"
+	},
+	{
+		"ID": 92,
+		"type": 1,
+		"point": 30,
+		"box_type": 1,
+		"point_reward_ids": "131",
+		"start_at": "2021-03-01 00:00:00",
+		"end_at": "2021-03-31 23:59:59"
+	},
+	{
+		"ID": 93,
+		"type": 1,
+		"point": 50,
+		"box_type": 2,
+		"point_reward_ids": "132:133",
+		"start_at": "2021-03-01 00:00:00",
+		"end_at": "2021-03-31 23:59:59"
+	},
+	{
+		"ID": 94,
+		"type": 1,
+		"point": 70,
+		"box_type": 3,
+		"point_reward_ids": "134",
+		"start_at": "2021-03-01 00:00:00",
+		"end_at": "2021-03-15 23:59:59"
+	},
+	{
+		"ID": 95,
+		"type": 1,
+		"point": 70,
+		"box_type": 3,
+		"point_reward_ids": "135",
+		"start_at": "2021-03-16 00:00:00",
+		"end_at": "2021-03-31 23:59:59"
+	},
+	{
+		"ID": 96,
+		"type": 1,
+		"point": 100,
+		"box_type": 4,
+		"point_reward_ids": "136:137",
+		"start_at": "2021-03-01 00:00:00",
+		"end_at": "2021-03-31 23:59:59"
+	},
+	{
+		"ID": 97,
+		"type": 2,
+		"point": 450,
+		"box_type": 2,
+		"point_reward_ids": "138",
+		"start_at": "2021-03-01 00:00:00",
+		"end_at": "2021-04-04 23:59:59"
+	},
+	{
+		"ID": 98,
+		"type": 2,
+		"point": 750,
+		"box_type": 3,
+		"point_reward_ids": "139:140",
+		"start_at": "2021-03-01 00:00:00",
+		"end_at": "2021-04-04 23:59:59"
+	},
+	{
+		"ID": 99,
+		"type": 1,
+		"point": 30,
+		"box_type": 1,
+		"point_reward_ids": "141",
+		"start_at": "2021-04-01 00:00:00",
+		"end_at": "2021-04-30 23:59:59"
+	},
+	{
+		"ID": 100,
+		"type": 1,
+		"point": 50,
+		"box_type": 2,
+		"point_reward_ids": "142:143",
+		"start_at": "2021-04-01 00:00:00",
+		"end_at": "2021-04-30 23:59:59"
+	},
+	{
+		"ID": 101,
+		"type": 1,
+		"point": 70,
+		"box_type": 3,
+		"point_reward_ids": "144",
+		"start_at": "2021-04-01 00:00:00",
+		"end_at": "2021-04-15 23:59:59"
+	},
+	{
+		"ID": 102,
+		"type": 1,
+		"point": 70,
+		"box_type": 3,
+		"point_reward_ids": "145",
+		"start_at": "2021-04-16 00:00:00",
+		"end_at": "2021-04-30 23:59:59"
+	},
+	{
+		"ID": 103,
+		"type": 1,
+		"point": 100,
+		"box_type": 4,
+		"point_reward_ids": "146:147",
+		"start_at": "2021-04-01 00:00:00",
+		"end_at": "2021-04-30 23:59:59"
+	},
+	{
+		"ID": 104,
+		"type": 2,
+		"point": 450,
+		"box_type": 2,
+		"point_reward_ids": "148",
+		"start_at": "2021-04-05 00:00:00",
+		"end_at": "2021-05-02 23:59:59"
+	},
+	{
+		"ID": 105,
+		"type": 2,
+		"point": 750,
+		"box_type": 3,
+		"point_reward_ids": "149:150",
+		"start_at": "2021-04-05 00:00:00",
+		"end_at": "2021-05-02 23:59:59"
+	},
+	{
+		"ID": 106,
+		"type": 1,
+		"point": 30,
+		"box_type": 1,
+		"point_reward_ids": "152",
+		"start_at": "2021-05-01 00:00:00",
+		"end_at": "2021-05-31 23:59:59"
+	},
+	{
+		"ID": 107,
+		"type": 1,
+		"point": 50,
+		"box_type": 2,
+		"point_reward_ids": "153:154",
+		"start_at": "2021-05-01 00:00:00",
+		"end_at": "2021-05-31 23:59:59"
+	},
+	{
+		"ID": 108,
+		"type": 1,
+		"point": 70,
+		"box_type": 3,
+		"point_reward_ids": "155",
+		"start_at": "2021-05-01 00:00:00",
+		"end_at": "2021-05-15 23:59:59"
+	},
+	{
+		"ID": 109,
+		"type": 1,
+		"point": 70,
+		"box_type": 3,
+		"point_reward_ids": "156",
+		"start_at": "2021-05-16 00:00:00",
+		"end_at": "2021-05-31 23:59:59"
+	},
+	{
+		"ID": 110,
+		"type": 1,
+		"point": 100,
+		"box_type": 4,
+		"point_reward_ids": "157:158",
+		"start_at": "2021-05-01 00:00:00",
+		"end_at": "2021-05-31 23:59:59"
+	},
+	{
+		"ID": 111,
+		"type": 2,
+		"point": 450,
+		"box_type": 2,
+		"point_reward_ids": "159",
+		"start_at": "2021-05-03 00:00:00",
+		"end_at": "2021-06-06 23:59:59"
+	},
+	{
+		"ID": 112,
+		"type": 2,
+		"point": 750,
+		"box_type": 3,
+		"point_reward_ids": "160:161",
+		"start_at": "2021-05-03 00:00:00",
+		"end_at": "2021-06-06 23:59:59"
+	},
+	{
+		"ID": 113,
+		"type": 1,
+		"point": 30,
+		"box_type": 1,
+		"point_reward_ids": "162",
+		"start_at": "2021-06-01 00:00:00",
+		"end_at": "2021-06-30 23:59:59"
+	},
+	{
+		"ID": 114,
+		"type": 1,
+		"point": 50,
+		"box_type": 2,
+		"point_reward_ids": "163:164",
+		"start_at": "2021-06-01 00:00:00",
+		"end_at": "2021-06-30 23:59:59"
+	},
+	{
+		"ID": 115,
+		"type": 1,
+		"point": 70,
+		"box_type": 3,
+		"point_reward_ids": "165",
+		"start_at": "2021-06-01 00:00:00",
+		"end_at": "2021-06-15 23:59:59"
+	},
+	{
+		"ID": 116,
+		"type": 1,
+		"point": 70,
+		"box_type": 3,
+		"point_reward_ids": "166",
+		"start_at": "2021-06-16 00:00:00",
+		"end_at": "2021-06-30 23:59:59"
+	},
+	{
+		"ID": 117,
+		"type": 1,
+		"point": 100,
+		"box_type": 4,
+		"point_reward_ids": "167:168",
+		"start_at": "2021-06-01 00:00:00",
+		"end_at": "2021-06-30 23:59:59"
+	},
+	{
+		"ID": 118,
+		"type": 2,
+		"point": 450,
+		"box_type": 2,
+		"point_reward_ids": "169",
+		"start_at": "2021-06-07 00:00:00",
+		"end_at": "2021-07-04 23:59:59"
+	},
+	{
+		"ID": 119,
+		"type": 2,
+		"point": 750,
+		"box_type": 3,
+		"point_reward_ids": "170:171",
+		"start_at": "2021-06-07 00:00:00",
+		"end_at": "2021-07-04 23:59:59"
+	},
+	{
+		"ID": 120,
+		"type": 1,
+		"point": 30,
+		"box_type": 1,
+		"point_reward_ids": "172",
+		"start_at": "2021-07-01 00:00:00",
+		"end_at": "2021-07-31 23:59:59"
+	},
+	{
+		"ID": 121,
+		"type": 1,
+		"point": 50,
+		"box_type": 2,
+		"point_reward_ids": "173:174",
+		"start_at": "2021-07-01 00:00:00",
+		"end_at": "2021-07-31 23:59:59"
+	},
+	{
+		"ID": 122,
+		"type": 1,
+		"point": 70,
+		"box_type": 3,
+		"point_reward_ids": "175",
+		"start_at": "2021-07-01 00:00:00",
+		"end_at": "2021-07-15 23:59:59"
+	},
+	{
+		"ID": 123,
+		"type": 1,
+		"point": 70,
+		"box_type": 3,
+		"point_reward_ids": "176",
+		"start_at": "2021-07-16 00:00:00",
+		"end_at": "2021-07-31 23:59:59"
+	},
+	{
+		"ID": 124,
+		"type": 1,
+		"point": 100,
+		"box_type": 4,
+		"point_reward_ids": "177:178",
+		"start_at": "2021-07-01 00:00:00",
+		"end_at": "2021-07-31 23:59:59"
+	},
+	{
+		"ID": 125,
+		"type": 2,
+		"point": 450,
+		"box_type": 2,
+		"point_reward_ids": "179",
+		"start_at": "2021-07-05 00:00:00",
+		"end_at": "2021-08-01 23:59:59"
+	},
+	{
+		"ID": 126,
+		"type": 2,
+		"point": 750,
+		"box_type": 3,
+		"point_reward_ids": "180:181",
+		"start_at": "2021-07-05 00:00:00",
+		"end_at": "2021-08-01 23:59:59"
+	},
+	{
+		"ID": 127,
+		"type": 1,
+		"point": 30,
+		"box_type": 1,
+		"point_reward_ids": "182",
+		"start_at": "2021-08-01 00:00:00",
+		"end_at": "2021-08-31 23:59:59"
+	},
+	{
+		"ID": 128,
+		"type": 1,
+		"point": 50,
+		"box_type": 2,
+		"point_reward_ids": "183:184",
+		"start_at": "2021-08-01 00:00:00",
+		"end_at": "2021-08-31 23:59:59"
+	},
+	{
+		"ID": 129,
+		"type": 1,
+		"point": 70,
+		"box_type": 3,
+		"point_reward_ids": "185",
+		"start_at": "2021-08-01 00:00:00",
+		"end_at": "2021-08-15 23:59:59"
+	},
+	{
+		"ID": 130,
+		"type": 1,
+		"point": 70,
+		"box_type": 3,
+		"point_reward_ids": "186",
+		"start_at": "2021-08-16 00:00:00",
+		"end_at": "2021-08-31 23:59:59"
+	},
+	{
+		"ID": 131,
+		"type": 1,
+		"point": 100,
+		"box_type": 4,
+		"point_reward_ids": "187:188",
+		"start_at": "2021-08-01 00:00:00",
+		"end_at": "2021-08-31 23:59:59"
+	},
+	{
+		"ID": 132,
+		"type": 2,
+		"point": 450,
+		"box_type": 2,
+		"point_reward_ids": "189",
+		"start_at": "2021-08-02 00:00:00",
+		"end_at": "2021-09-05 23:59:59"
+	},
+	{
+		"ID": 133,
+		"type": 2,
+		"point": 750,
+		"box_type": 3,
+		"point_reward_ids": "190:191",
+		"start_at": "2021-08-02 00:00:00",
+		"end_at": "2021-09-05 23:59:59"
+	},
+	{
+		"ID": 134,
+		"type": 1,
+		"point": 30,
+		"box_type": 1,
+		"point_reward_ids": "192",
+		"start_at": "2021-09-01 00:00:00",
+		"end_at": "2021-09-30 23:59:59"
+	},
+	{
+		"ID": 135,
+		"type": 1,
+		"point": 50,
+		"box_type": 2,
+		"point_reward_ids": "193:194",
+		"start_at": "2021-09-01 00:00:00",
+		"end_at": "2021-09-30 23:59:59"
+	},
+	{
+		"ID": 136,
+		"type": 1,
+		"point": 70,
+		"box_type": 3,
+		"point_reward_ids": "195",
+		"start_at": "2021-09-01 00:00:00",
+		"end_at": "2021-09-15 23:59:59"
+	},
+	{
+		"ID": 137,
+		"type": 1,
+		"point": 70,
+		"box_type": 3,
+		"point_reward_ids": "196",
+		"start_at": "2021-09-16 00:00:00",
+		"end_at": "2021-09-30 23:59:59"
+	},
+	{
+		"ID": 138,
+		"type": 1,
+		"point": 100,
+		"box_type": 4,
+		"point_reward_ids": "197:198",
+		"start_at": "2021-09-01 00:00:00",
+		"end_at": "2021-09-30 23:59:59"
+	},
+	{
+		"ID": 139,
+		"type": 2,
+		"point": 450,
+		"box_type": 2,
+		"point_reward_ids": "199",
+		"start_at": "2021-09-06 00:00:00",
+		"end_at": "2021-10-03 23:59:59"
+	},
+	{
+		"ID": 140,
+		"type": 2,
+		"point": 750,
+		"box_type": 3,
+		"point_reward_ids": "200:201",
+		"start_at": "2021-09-06 00:00:00",
+		"end_at": "2021-10-03 23:59:59"
+	},
+	{
+		"ID": 141,
+		"type": 1,
+		"point": 30,
+		"box_type": 1,
+		"point_reward_ids": "202",
+		"start_at": "2021-10-01 00:00:00",
+		"end_at": "2021-10-31 23:59:59"
+	},
+	{
+		"ID": 142,
+		"type": 1,
+		"point": 50,
+		"box_type": 2,
+		"point_reward_ids": "203:204",
+		"start_at": "2021-10-01 00:00:00",
+		"end_at": "2021-10-31 23:59:59"
+	},
+	{
+		"ID": 143,
+		"type": 1,
+		"point": 70,
+		"box_type": 3,
+		"point_reward_ids": "205",
+		"start_at": "2021-10-01 00:00:00",
+		"end_at": "2021-10-15 23:59:59"
+	},
+	{
+		"ID": 144,
+		"type": 1,
+		"point": 70,
+		"box_type": 3,
+		"point_reward_ids": "206",
+		"start_at": "2021-10-16 00:00:00",
+		"end_at": "2021-10-31 23:59:59"
+	},
+	{
+		"ID": 145,
+		"type": 1,
+		"point": 100,
+		"box_type": 4,
+		"point_reward_ids": "207:208",
+		"start_at": "2021-10-01 00:00:00",
+		"end_at": "2021-10-31 23:59:59"
+	},
+	{
+		"ID": 146,
+		"type": 2,
+		"point": 450,
+		"box_type": 2,
+		"point_reward_ids": "209",
+		"start_at": "2021-10-04 00:00:00",
+		"end_at": "2021-10-31 23:59:59"
+	},
+	{
+		"ID": 147,
+		"type": 2,
+		"point": 750,
+		"box_type": 3,
+		"point_reward_ids": "210:211",
+		"start_at": "2021-10-04 00:00:00",
+		"end_at": "2021-10-31 23:59:59"
+	},
+	{
+		"ID": 148,
+		"type": 1,
+		"point": 30,
+		"box_type": 1,
+		"point_reward_ids": "212",
+		"start_at": "2021-11-01 00:00:00",
+		"end_at": "2021-11-30 23:59:59"
+	},
+	{
+		"ID": 149,
+		"type": 1,
+		"point": 50,
+		"box_type": 2,
+		"point_reward_ids": "213:214",
+		"start_at": "2021-11-01 00:00:00",
+		"end_at": "2021-11-30 23:59:59"
+	},
+	{
+		"ID": 150,
+		"type": 1,
+		"point": 70,
+		"box_type": 3,
+		"point_reward_ids": "215",
+		"start_at": "2021-11-01 00:00:00",
+		"end_at": "2021-11-15 23:59:59"
+	},
+	{
+		"ID": 151,
+		"type": 1,
+		"point": 70,
+		"box_type": 3,
+		"point_reward_ids": "216",
+		"start_at": "2021-11-16 00:00:00",
+		"end_at": "2021-11-30 23:59:59"
+	},
+	{
+		"ID": 152,
+		"type": 1,
+		"point": 100,
+		"box_type": 4,
+		"point_reward_ids": "217:218",
+		"start_at": "2021-11-01 00:00:00",
+		"end_at": "2021-11-30 23:59:59"
+	},
+	{
+		"ID": 153,
+		"type": 2,
+		"point": 450,
+		"box_type": 2,
+		"point_reward_ids": "219",
+		"start_at": "2021-11-01 00:00:00",
+		"end_at": "2021-12-05 23:59:59"
+	},
+	{
+		"ID": 154,
+		"type": 2,
+		"point": 750,
+		"box_type": 3,
+		"point_reward_ids": "220:221",
+		"start_at": "2021-11-01 00:00:00",
+		"end_at": "2021-12-05 23:59:59"
+	},
+	{
+		"ID": 155,
+		"type": 1,
+		"point": 30,
+		"box_type": 1,
+		"point_reward_ids": "222",
+		"start_at": "2021-12-01 00:00:00",
+		"end_at": "2021-12-31 23:59:59"
+	},
+	{
+		"ID": 156,
+		"type": 1,
+		"point": 50,
+		"box_type": 2,
+		"point_reward_ids": "223:224",
+		"start_at": "2021-12-01 00:00:00",
+		"end_at": "2021-12-31 23:59:59"
+	},
+	{
+		"ID": 157,
+		"type": 1,
+		"point": 70,
+		"box_type": 3,
+		"point_reward_ids": "225",
+		"start_at": "2021-12-01 00:00:00",
+		"end_at": "2021-12-15 23:59:59"
+	},
+	{
+		"ID": 158,
+		"type": 1,
+		"point": 70,
+		"box_type": 3,
+		"point_reward_ids": "226",
+		"start_at": "2021-12-16 00:00:00",
+		"end_at": "2021-12-31 23:59:59"
+	},
+	{
+		"ID": 159,
+		"type": 1,
+		"point": 100,
+		"box_type": 4,
+		"point_reward_ids": "227:228",
+		"start_at": "2021-12-01 00:00:00",
+		"end_at": "2021-12-31 23:59:59"
+	},
+	{
+		"ID": 160,
+		"type": 2,
+		"point": 450,
+		"box_type": 2,
+		"point_reward_ids": "229",
+		"start_at": "2021-12-06 00:00:00",
+		"end_at": "2022-01-02 23:59:59"
+	},
+	{
+		"ID": 161,
+		"type": 2,
+		"point": 750,
+		"box_type": 3,
+		"point_reward_ids": "230:231",
+		"start_at": "2021-12-06 00:00:00",
+		"end_at": "2022-01-02 23:59:59"
+	},
+	{
+		"ID": 162,
+		"type": 1,
+		"point": 30,
+		"box_type": 1,
+		"point_reward_ids": "232",
+		"start_at": "2022-01-01 00:00:00",
+		"end_at": "2022-01-31 23:59:59"
+	},
+	{
+		"ID": 163,
+		"type": 1,
+		"point": 50,
+		"box_type": 2,
+		"point_reward_ids": "233:234",
+		"start_at": "2022-01-01 00:00:00",
+		"end_at": "2022-01-31 23:59:59"
+	},
+	{
+		"ID": 164,
+		"type": 1,
+		"point": 70,
+		"box_type": 3,
+		"point_reward_ids": "235",
+		"start_at": "2022-01-01 00:00:00",
+		"end_at": "2022-01-15 23:59:59"
+	},
+	{
+		"ID": 165,
+		"type": 1,
+		"point": 70,
+		"box_type": 3,
+		"point_reward_ids": "236",
+		"start_at": "2022-01-16 00:00:00",
+		"end_at": "2022-01-31 23:59:59"
+	},
+	{
+		"ID": 166,
+		"type": 1,
+		"point": 100,
+		"box_type": 4,
+		"point_reward_ids": "237:238",
+		"start_at": "2022-01-01 00:00:00",
+		"end_at": "2022-01-31 23:59:59"
+	},
+	{
+		"ID": 167,
+		"type": 2,
+		"point": 450,
+		"box_type": 2,
+		"point_reward_ids": "239",
+		"start_at": "2022-01-03 00:00:00",
+		"end_at": "2022-02-06 23:59:59"
+	},
+	{
+		"ID": 168,
+		"type": 2,
+		"point": 750,
+		"box_type": 3,
+		"point_reward_ids": "240:241",
+		"start_at": "2022-01-03 00:00:00",
+		"end_at": "2022-02-06 23:59:59"
+	},
+	{
+		"ID": 169,
+		"type": 1,
+		"point": 30,
+		"box_type": 1,
+		"point_reward_ids": "242",
+		"start_at": "2022-02-01 00:00:00",
+		"end_at": "2022-02-28 23:59:59"
+	},
+	{
+		"ID": 170,
+		"type": 1,
+		"point": 50,
+		"box_type": 2,
+		"point_reward_ids": "243:244",
+		"start_at": "2022-02-01 00:00:00",
+		"end_at": "2022-02-28 23:59:59"
+	},
+	{
+		"ID": 171,
+		"type": 1,
+		"point": 70,
+		"box_type": 3,
+		"point_reward_ids": "245",
+		"start_at": "2022-02-01 00:00:00",
+		"end_at": "2022-02-15 23:59:59"
+	},
+	{
+		"ID": 172,
+		"type": 1,
+		"point": 70,
+		"box_type": 3,
+		"point_reward_ids": "246",
+		"start_at": "2022-02-16 00:00:00",
+		"end_at": "2022-02-28 23:59:59"
+	},
+	{
+		"ID": 173,
+		"type": 1,
+		"point": 100,
+		"box_type": 4,
+		"point_reward_ids": "247:248",
+		"start_at": "2022-02-01 00:00:00",
+		"end_at": "2022-02-28 23:59:59"
+	},
+	{
+		"ID": 174,
+		"type": 2,
+		"point": 450,
+		"box_type": 2,
+		"point_reward_ids": "249",
+		"start_at": "2022-02-07 00:00:00",
+		"end_at": "2022-03-06 23:59:59"
+	},
+	{
+		"ID": 175,
+		"type": 2,
+		"point": 750,
+		"box_type": 3,
+		"point_reward_ids": "250:251",
+		"start_at": "2022-02-07 00:00:00",
+		"end_at": "2022-03-06 23:59:59"
+	},
+	{
+		"ID": 176,
+		"type": 1,
+		"point": 30,
+		"box_type": 1,
+		"point_reward_ids": "252",
+		"start_at": "2022-03-01 00:00:00",
+		"end_at": "2022-03-31 23:59:59"
+	},
+	{
+		"ID": 177,
+		"type": 1,
+		"point": 50,
+		"box_type": 2,
+		"point_reward_ids": "253:254",
+		"start_at": "2022-03-01 00:00:00",
+		"end_at": "2022-03-31 23:59:59"
+	},
+	{
+		"ID": 178,
+		"type": 1,
+		"point": 70,
+		"box_type": 3,
+		"point_reward_ids": "255",
+		"start_at": "2022-03-01 00:00:00",
+		"end_at": "2022-03-15 23:59:59"
+	},
+	{
+		"ID": 179,
+		"type": 1,
+		"point": 70,
+		"box_type": 3,
+		"point_reward_ids": "256",
+		"start_at": "2022-03-16 00:00:00",
+		"end_at": "2022-03-31 23:59:59"
+	},
+	{
+		"ID": 180,
+		"type": 1,
+		"point": 100,
+		"box_type": 4,
+		"point_reward_ids": "257:258",
+		"start_at": "2022-03-01 00:00:00",
+		"end_at": "2022-03-31 23:59:59"
+	},
+	{
+		"ID": 181,
+		"type": 2,
+		"point": 450,
+		"box_type": 2,
+		"point_reward_ids": "259",
+		"start_at": "2022-03-07 00:00:00",
+		"end_at": "2022-04-03 23:59:59"
+	},
+	{
+		"ID": 182,
+		"type": 2,
+		"point": 750,
+		"box_type": 3,
+		"point_reward_ids": "260:261",
+		"start_at": "2022-03-07 00:00:00",
+		"end_at": "2022-04-03 23:59:59"
+	},
+	{
+		"ID": 183,
+		"type": 1,
+		"point": 30,
+		"box_type": 1,
+		"point_reward_ids": "262",
+		"start_at": "2022-04-01 00:00:00",
+		"end_at": "2022-04-24 23:59:59"
+	},
+	{
+		"ID": 184,
+		"type": 1,
+		"point": 50,
+		"box_type": 2,
+		"point_reward_ids": "263:264",
+		"start_at": "2022-04-01 00:00:00",
+		"end_at": "2022-04-24 23:59:59"
+	},
+	{
+		"ID": 185,
+		"type": 1,
+		"point": 70,
+		"box_type": 3,
+		"point_reward_ids": "265",
+		"start_at": "2022-04-01 00:00:00",
+		"end_at": "2022-04-15 23:59:59"
+	},
+	{
+		"ID": 186,
+		"type": 1,
+		"point": 70,
+		"box_type": 3,
+		"point_reward_ids": "266",
+		"start_at": "2022-04-16 00:00:00",
+		"end_at": "2022-04-24 23:59:59"
+	},
+	{
+		"ID": 187,
+		"type": 1,
+		"point": 100,
+		"box_type": 4,
+		"point_reward_ids": "267:268",
+		"start_at": "2022-04-01 00:00:00",
+		"end_at": "2022-04-24 23:59:59"
+	},
+	{
+		"ID": 188,
+		"type": 2,
+		"point": 450,
+		"box_type": 2,
+		"point_reward_ids": "269",
+		"start_at": "2022-04-04 00:00:00",
+		"end_at": "2022-04-24 23:59:59"
+	},
+	{
+		"ID": 189,
+		"type": 2,
+		"point": 750,
+		"box_type": 3,
+		"point_reward_ids": "270:271",
+		"start_at": "2022-04-04 00:00:00",
+		"end_at": "2022-04-24 23:59:59"
+	},
+	{
+		"ID": 190,
+		"type": 1,
+		"point": 10,
+		"box_type": 1,
+		"point_reward_ids": "272:284",
+		"start_at": "2022-04-25 00:00:00",
+		"end_at": "2022-04-30 23:59:59"
+	},
+	{
+		"ID": 191,
+		"type": 1,
+		"point": 30,
+		"box_type": 2,
+		"point_reward_ids": "273",
+		"start_at": "2022-04-25 00:00:00",
+		"end_at": "2022-04-30 23:59:59"
+	},
+	{
+		"ID": 192,
+		"type": 1,
+		"point": 50,
+		"box_type": 3,
+		"point_reward_ids": "274",
+		"start_at": "2022-04-25 00:00:00",
+		"end_at": "2022-04-30 23:59:59"
+	},
+	{
+		"ID": 193,
+		"type": 1,
+		"point": 70,
+		"box_type": 4,
+		"point_reward_ids": "275:284",
+		"start_at": "2022-04-25 00:00:00",
+		"end_at": "2022-04-30 23:59:59"
+	},
+	{
+		"ID": 194,
+		"type": 2,
+		"point": 300,
+		"box_type": 2,
+		"point_reward_ids": "276",
+		"start_at": "2022-04-25 00:00:00",
+		"end_at": "2022-05-01 23:59:59"
+	},
+	{
+		"ID": 195,
+		"type": 2,
+		"point": 450,
+		"box_type": 3,
+		"point_reward_ids": "277",
+		"start_at": "2022-04-25 00:00:00",
+		"end_at": "2022-05-01 23:59:59"
+	},
+	{
+		"ID": 196,
+		"type": 1,
+		"point": 10,
+		"box_type": 1,
+		"point_reward_ids": "278:284",
+		"start_at": "2022-05-01 00:00:00",
+		"end_at": "2022-05-08 23:59:59"
+	},
+	{
+		"ID": 197,
+		"type": 1,
+		"point": 10,
+		"box_type": 1,
+		"point_reward_ids": "278",
+		"start_at": "2022-05-09 00:00:00",
+		"end_at": "2022-05-31 23:59:59"
+	},
+	{
+		"ID": 198,
+		"type": 1,
+		"point": 30,
+		"box_type": 2,
+		"point_reward_ids": "279",
+		"start_at": "2022-05-01 00:00:00",
+		"end_at": "2022-05-31 23:59:59"
+	},
+	{
+		"ID": 199,
+		"type": 1,
+		"point": 50,
+		"box_type": 3,
+		"point_reward_ids": "280",
+		"start_at": "2022-05-09 00:00:00",
+		"end_at": "2022-05-15 23:59:59"
+	},
+	{
+		"ID": 200,
+		"type": 1,
+		"point": 70,
+		"box_type": 4,
+		"point_reward_ids": "281:284",
+		"start_at": "2022-05-01 00:00:00",
+		"end_at": "2022-05-08 23:59:59"
+	},
+	{
+		"ID": 201,
+		"type": 1,
+		"point": 70,
+		"box_type": 4,
+		"point_reward_ids": "281",
+		"start_at": "2022-05-09 00:00:00",
+		"end_at": "2022-05-31 23:59:59"
+	},
+	{
+		"ID": 202,
+		"type": 2,
+		"point": 300,
+		"box_type": 2,
+		"point_reward_ids": "282",
+		"start_at": "2022-05-02 00:00:00",
+		"end_at": "2022-06-05 23:59:59"
+	},
+	{
+		"ID": 203,
+		"type": 2,
+		"point": 450,
+		"box_type": 3,
+		"point_reward_ids": "283",
+		"start_at": "2022-05-02 00:00:00",
+		"end_at": "2022-05-15 23:59:59"
+	},
+	{
+		"ID": 204,
+		"type": 1,
+		"point": 50,
+		"box_type": 3,
+		"point_reward_ids": "280:285",
+		"start_at": "2022-05-01 00:00:00",
+		"end_at": "2022-05-08 23:59:59"
+	},
+	{
+		"ID": 205,
+		"type": 1,
+		"point": 50,
+		"box_type": 3,
+		"point_reward_ids": "286",
+		"start_at": "2022-05-16 00:00:00",
+		"end_at": "2022-05-31 23:59:59"
+	},
+	{
+		"ID": 206,
+		"type": 2,
+		"point": 450,
+		"box_type": 3,
+		"point_reward_ids": "283:287",
+		"start_at": "2022-05-16 00:00:00",
+		"end_at": "2022-05-22 23:59:59"
+	},
+	{
+		"ID": 207,
+		"type": 2,
+		"point": 450,
+		"box_type": 3,
+		"point_reward_ids": "283",
+		"start_at": "2022-05-23 00:00:00",
+		"end_at": "2022-06-05 23:59:59"
+	},
+	{
+		"ID": 208,
+		"type": 1,
+		"point": 10,
+		"box_type": 1,
+		"point_reward_ids": "288",
+		"start_at": "2022-06-01 00:00:00",
+		"end_at": "2022-06-30 23:59:59"
+	},
+	{
+		"ID": 209,
+		"type": 1,
+		"point": 30,
+		"box_type": 2,
+		"point_reward_ids": "289",
+		"start_at": "2022-06-01 00:00:00",
+		"end_at": "2022-06-30 23:59:59"
+	},
+	{
+		"ID": 210,
+		"type": 1,
+		"point": 50,
+		"box_type": 3,
+		"point_reward_ids": "290",
+		"start_at": "2022-06-01 00:00:00",
+		"end_at": "2022-06-30 23:59:59"
+	},
+	{
+		"ID": 211,
+		"type": 1,
+		"point": 70,
+		"box_type": 4,
+		"point_reward_ids": "291",
+		"start_at": "2022-06-01 00:00:00",
+		"end_at": "2022-06-30 23:59:59"
+	},
+	{
+		"ID": 212,
+		"type": 2,
+		"point": 300,
+		"box_type": 2,
+		"point_reward_ids": "292",
+		"start_at": "2022-06-06 00:00:00",
+		"end_at": "2022-07-03 23:59:59"
+	},
+	{
+		"ID": 213,
+		"type": 2,
+		"point": 450,
+		"box_type": 3,
+		"point_reward_ids": "293",
+		"start_at": "2022-06-06 00:00:00",
+		"end_at": "2022-07-03 23:59:59"
+	},
+	{
+		"ID": 214,
+		"type": 1,
+		"point": 10,
+		"box_type": 1,
+		"point_reward_ids": "294",
+		"start_at": "2022-07-01 00:00:00",
+		"end_at": "2022-07-31 23:59:59"
+	},
+	{
+		"ID": 215,
+		"type": 1,
+		"point": 30,
+		"box_type": 2,
+		"point_reward_ids": "295",
+		"start_at": "2022-07-01 00:00:00",
+		"end_at": "2022-07-31 23:59:59"
+	},
+	{
+		"ID": 216,
+		"type": 1,
+		"point": 50,
+		"box_type": 3,
+		"point_reward_ids": "296",
+		"start_at": "2022-07-01 00:00:00",
+		"end_at": "2022-07-31 23:59:59"
+	},
+	{
+		"ID": 217,
+		"type": 1,
+		"point": 70,
+		"box_type": 4,
+		"point_reward_ids": "297:300",
+		"start_at": "2022-07-01 00:00:00",
+		"end_at": "2022-07-15 23:59:59"
+	},
+	{
+		"ID": 218,
+		"type": 2,
+		"point": 300,
+		"box_type": 2,
+		"point_reward_ids": "298",
+		"start_at": "2022-07-04 00:00:00",
+		"end_at": "2022-07-31 23:59:59"
+	},
+	{
+		"ID": 219,
+		"type": 2,
+		"point": 450,
+		"box_type": 3,
+		"point_reward_ids": "299",
+		"start_at": "2022-07-04 00:00:00",
+		"end_at": "2022-07-31 23:59:59"
+	},
+	{
+		"ID": 220,
+		"type": 1,
+		"point": 70,
+		"box_type": 4,
+		"point_reward_ids": "297:301",
+		"start_at": "2022-07-16 00:00:00",
+		"end_at": "2022-07-31 23:59:59"
+	},
+	{
+		"ID": 221,
+		"type": 1,
+		"point": 10,
+		"box_type": 1,
+		"point_reward_ids": "302",
+		"start_at": "2022-08-01 00:00:00",
+		"end_at": "2022-08-31 23:59:59"
+	},
+	{
+		"ID": 222,
+		"type": 1,
+		"point": 30,
+		"box_type": 2,
+		"point_reward_ids": "303",
+		"start_at": "2022-08-01 00:00:00",
+		"end_at": "2022-08-31 23:59:59"
+	},
+	{
+		"ID": 223,
+		"type": 1,
+		"point": 50,
+		"box_type": 3,
+		"point_reward_ids": "304",
+		"start_at": "2022-08-01 00:00:00",
+		"end_at": "2022-08-31 23:59:59"
+	},
+	{
+		"ID": 224,
+		"type": 1,
+		"point": 70,
+		"box_type": 4,
+		"point_reward_ids": "305",
+		"start_at": "2022-08-01 00:00:00",
+		"end_at": "2022-08-31 23:59:59"
+	},
+	{
+		"ID": 225,
+		"type": 2,
+		"point": 300,
+		"box_type": 2,
+		"point_reward_ids": "306",
+		"start_at": "2022-08-01 00:00:00",
+		"end_at": "2022-09-04 23:59:59"
+	},
+	{
+		"ID": 226,
+		"type": 2,
+		"point": 450,
+		"box_type": 3,
+		"point_reward_ids": "307",
+		"start_at": "2022-08-01 00:00:00",
+		"end_at": "2022-09-04 23:59:59"
+	},
+	{
+		"ID": 227,
+		"type": 1,
+		"point": 10,
+		"box_type": 1,
+		"point_reward_ids": "308",
+		"start_at": "2022-09-01 00:00:00",
+		"end_at": "2022-09-30 23:59:59"
+	},
+	{
+		"ID": 228,
+		"type": 1,
+		"point": 30,
+		"box_type": 2,
+		"point_reward_ids": "309",
+		"start_at": "2022-09-01 00:00:00",
+		"end_at": "2022-09-30 23:59:59"
+	},
+	{
+		"ID": 229,
+		"type": 1,
+		"point": 50,
+		"box_type": 3,
+		"point_reward_ids": "310",
+		"start_at": "2022-09-01 00:00:00",
+		"end_at": "2022-09-30 23:59:59"
+	},
+	{
+		"ID": 230,
+		"type": 1,
+		"point": 70,
+		"box_type": 4,
+		"point_reward_ids": "311",
+		"start_at": "2022-09-01 00:00:00",
+		"end_at": "2022-09-30 23:59:59"
+	},
+	{
+		"ID": 231,
+		"type": 2,
+		"point": 300,
+		"box_type": 2,
+		"point_reward_ids": "312",
+		"start_at": "2022-09-05 00:00:00",
+		"end_at": "2022-10-02 23:59:59"
+	},
+	{
+		"ID": 232,
+		"type": 2,
+		"point": 450,
+		"box_type": 3,
+		"point_reward_ids": "313",
+		"start_at": "2022-09-05 00:00:00",
+		"end_at": "2022-10-02 23:59:59"
+	},
+	{
+		"ID": 233,
+		"type": 1,
+		"point": 10,
+		"box_type": 1,
+		"point_reward_ids": "314",
+		"start_at": "2022-10-01 00:00:00",
+		"end_at": "2022-10-31 23:59:59"
+	},
+	{
+		"ID": 234,
+		"type": 1,
+		"point": 30,
+		"box_type": 2,
+		"point_reward_ids": "315",
+		"start_at": "2022-10-01 00:00:00",
+		"end_at": "2022-10-31 23:59:59"
+	},
+	{
+		"ID": 235,
+		"type": 1,
+		"point": 50,
+		"box_type": 3,
+		"point_reward_ids": "316",
+		"start_at": "2022-10-01 00:00:00",
+		"end_at": "2022-10-31 23:59:59"
+	},
+	{
+		"ID": 236,
+		"type": 1,
+		"point": 70,
+		"box_type": 4,
+		"point_reward_ids": "317",
+		"start_at": "2022-10-01 00:00:00",
+		"end_at": "2022-10-31 23:59:59"
+	},
+	{
+		"ID": 237,
+		"type": 2,
+		"point": 300,
+		"box_type": 2,
+		"point_reward_ids": "318",
+		"start_at": "2022-10-03 00:00:00",
+		"end_at": "2022-10-30 23:59:59"
+	},
+	{
+		"ID": 238,
+		"type": 2,
+		"point": 450,
+		"box_type": 3,
+		"point_reward_ids": "319",
+		"start_at": "2022-10-03 00:00:00",
+		"end_at": "2022-10-30 23:59:59"
+	},
+	{
+		"ID": 239,
+		"type": 1,
+		"point": 10,
+		"box_type": 1,
+		"point_reward_ids": "320",
+		"start_at": "2022-11-01 00:00:00",
+		"end_at": "2022-11-30 23:59:59"
+	},
+	{
+		"ID": 240,
+		"type": 1,
+		"point": 30,
+		"box_type": 2,
+		"point_reward_ids": "321",
+		"start_at": "2022-11-01 00:00:00",
+		"end_at": "2022-11-30 23:59:59"
+	},
+	{
+		"ID": 241,
+		"type": 1,
+		"point": 50,
+		"box_type": 3,
+		"point_reward_ids": "322",
+		"start_at": "2022-11-01 00:00:00",
+		"end_at": "2022-11-30 23:59:59"
+	},
+	{
+		"ID": 242,
+		"type": 1,
+		"point": 70,
+		"box_type": 4,
+		"point_reward_ids": "323",
+		"start_at": "2022-11-01 00:00:00",
+		"end_at": "2022-11-30 23:59:59"
+	},
+	{
+		"ID": 243,
+		"type": 2,
+		"point": 300,
+		"box_type": 2,
+		"point_reward_ids": "324",
+		"start_at": "2022-10-31 00:00:00",
+		"end_at": "2022-11-27 23:59:59"
+	},
+	{
+		"ID": 244,
+		"type": 2,
+		"point": 450,
+		"box_type": 3,
+		"point_reward_ids": "325",
+		"start_at": "2022-10-31 00:00:00",
+		"end_at": "2022-11-27 23:59:59"
+	},
+	{
+		"ID": 245,
+		"type": 1,
+		"point": 10,
+		"box_type": 1,
+		"point_reward_ids": "326",
+		"start_at": "2022-12-01 00:00:00",
+		"end_at": "2022-12-09 23:59:59"
+	},
+	{
+		"ID": 246,
+		"type": 1,
+		"point": 30,
+		"box_type": 2,
+		"point_reward_ids": "327",
+		"start_at": "2022-12-01 00:00:00",
+		"end_at": "2022-12-09 23:59:59"
+	},
+	{
+		"ID": 247,
+		"type": 1,
+		"point": 50,
+		"box_type": 3,
+		"point_reward_ids": "328",
+		"start_at": "2022-12-01 00:00:00",
+		"end_at": "2022-12-09 23:59:59"
+	},
+	{
+		"ID": 248,
+		"type": 1,
+		"point": 70,
+		"box_type": 4,
+		"point_reward_ids": "329",
+		"start_at": "2022-12-01 00:00:00",
+		"end_at": "2022-12-09 23:59:59"
+	},
+	{
+		"ID": 249,
+		"type": 2,
+		"point": 300,
+		"box_type": 2,
+		"point_reward_ids": "330",
+		"start_at": "2022-11-28 00:00:00",
+		"end_at": "2022-12-25 23:59:59"
+	},
+	{
+		"ID": 250,
+		"type": 2,
+		"point": 450,
+		"box_type": 3,
+		"point_reward_ids": "331",
+		"start_at": "2022-11-28 00:00:00",
+		"end_at": "2022-12-25 23:59:59"
+	},
+	{
+		"ID": 251,
+		"type": 1,
+		"point": 10,
+		"box_type": 1,
+		"point_reward_ids": "332",
+		"start_at": "2022-12-10 00:00:00",
+		"end_at": "2022-12-25 23:59:59"
+	},
+	{
+		"ID": 252,
+		"type": 1,
+		"point": 30,
+		"box_type": 2,
+		"point_reward_ids": "333",
+		"start_at": "2022-12-10 00:00:00",
+		"end_at": "2022-12-25 23:59:59"
+	},
+	{
+		"ID": 253,
+		"type": 1,
+		"point": 50,
+		"box_type": 3,
+		"point_reward_ids": "334",
+		"start_at": "2022-12-10 00:00:00",
+		"end_at": "2022-12-25 23:59:59"
+	},
+	{
+		"ID": 254,
+		"type": 1,
+		"point": 70,
+		"box_type": 4,
+		"point_reward_ids": "335",
+		"start_at": "2022-12-10 00:00:00",
+		"end_at": "2022-12-25 23:59:59"
+	},
+	{
+		"ID": 255,
+		"type": 1,
+		"point": 10,
+		"box_type": 1,
+		"point_reward_ids": "326",
+		"start_at": "2022-12-26 00:00:00",
+		"end_at": "2022-12-31 23:59:59"
+	},
+	{
+		"ID": 256,
+		"type": 1,
+		"point": 30,
+		"box_type": 2,
+		"point_reward_ids": "327",
+		"start_at": "2022-12-26 00:00:00",
+		"end_at": "2022-12-31 23:59:59"
+	},
+	{
+		"ID": 257,
+		"type": 1,
+		"point": 50,
+		"box_type": 3,
+		"point_reward_ids": "328",
+		"start_at": "2022-12-26 00:00:00",
+		"end_at": "2022-12-31 23:59:59"
+	},
+	{
+		"ID": 258,
+		"type": 1,
+		"point": 70,
+		"box_type": 4,
+		"point_reward_ids": "329",
+		"start_at": "2022-12-26 00:00:00",
+		"end_at": "2022-12-31 23:59:59"
+	},
+	{
+		"ID": 259,
+		"type": 2,
+		"point": 300,
+		"box_type": 2,
+		"point_reward_ids": "330",
+		"start_at": "2022-12-26 00:00:00",
+		"end_at": "2023-01-29 23:59:59"
+	},
+	{
+		"ID": 260,
+		"type": 2,
+		"point": 450,
+		"box_type": 3,
+		"point_reward_ids": "331",
+		"start_at": "2022-12-26 00:00:00",
+		"end_at": "2023-01-29 23:59:59"
+	},
+	{
+		"ID": 261,
+		"type": 1,
+		"point": 10,
+		"box_type": 1,
+		"point_reward_ids": "326",
+		"start_at": "2023-01-01 00:00:00",
+		"end_at": "2023-01-31 23:59:59"
+	},
+	{
+		"ID": 262,
+		"type": 1,
+		"point": 30,
+		"box_type": 2,
+		"point_reward_ids": "327",
+		"start_at": "2023-01-01 00:00:00",
+		"end_at": "2023-01-31 23:59:59"
+	},
+	{
+		"ID": 263,
+		"type": 1,
+		"point": 50,
+		"box_type": 3,
+		"point_reward_ids": "328",
+		"start_at": "2023-01-01 00:00:00",
+		"end_at": "2023-01-31 23:59:59"
+	},
+	{
+		"ID": 264,
+		"type": 1,
+		"point": 70,
+		"box_type": 4,
+		"point_reward_ids": "329",
+		"start_at": "2023-01-01 00:00:00",
+		"end_at": "2023-01-31 23:59:59"
+	},
+	{
+		"ID": 265,
+		"type": 2,
+		"point": 300,
+		"box_type": 2,
+		"point_reward_ids": "330",
+		"start_at": "2023-01-30 00:00:00",
+		"end_at": "2023-02-26 23:59:59"
+	},
+	{
+		"ID": 266,
+		"type": 2,
+		"point": 450,
+		"box_type": 3,
+		"point_reward_ids": "331",
+		"start_at": "2023-01-30 00:00:00",
+		"end_at": "2023-02-26 23:59:59"
+	},
+	{
+		"ID": 267,
+		"type": 1,
+		"point": 10,
+		"box_type": 1,
+		"point_reward_ids": "326",
+		"start_at": "2023-02-01 00:00:00",
+		"end_at": "2023-02-28 23:59:59"
+	},
+	{
+		"ID": 268,
+		"type": 1,
+		"point": 30,
+		"box_type": 2,
+		"point_reward_ids": "327",
+		"start_at": "2023-02-01 00:00:00",
+		"end_at": "2023-02-28 23:59:59"
+	},
+	{
+		"ID": 269,
+		"type": 1,
+		"point": 50,
+		"box_type": 3,
+		"point_reward_ids": "328",
+		"start_at": "2023-02-01 00:00:00",
+		"end_at": "2023-02-28 23:59:59"
+	},
+	{
+		"ID": 270,
+		"type": 1,
+		"point": 70,
+		"box_type": 4,
+		"point_reward_ids": "329",
+		"start_at": "2023-02-01 00:00:00",
+		"end_at": "2023-02-28 23:59:59"
+	},
+	{
+		"ID": 271,
+		"type": 2,
+		"point": 300,
+		"box_type": 2,
+		"point_reward_ids": "330",
+		"start_at": "2023-02-27 00:00:00",
+		"end_at": "2023-03-26 23:59:59"
+	},
+	{
+		"ID": 272,
+		"type": 2,
+		"point": 450,
+		"box_type": 3,
+		"point_reward_ids": "331",
+		"start_at": "2023-02-27 00:00:00",
+		"end_at": "2023-03-26 23:59:59"
+	},
+	{
+		"ID": 273,
+		"type": 1,
+		"point": 10,
+		"box_type": 1,
+		"point_reward_ids": "326",
+		"start_at": "2023-03-01 00:00:00",
+		"end_at": "2023-03-31 23:59:59"
+	},
+	{
+		"ID": 274,
+		"type": 1,
+		"point": 30,
+		"box_type": 2,
+		"point_reward_ids": "327",
+		"start_at": "2023-03-01 00:00:00",
+		"end_at": "2023-03-31 23:59:59"
+	},
+	{
+		"ID": 275,
+		"type": 1,
+		"point": 50,
+		"box_type": 3,
+		"point_reward_ids": "328",
+		"start_at": "2023-03-01 00:00:00",
+		"end_at": "2023-03-31 23:59:59"
+	},
+	{
+		"ID": 276,
+		"type": 1,
+		"point": 70,
+		"box_type": 4,
+		"point_reward_ids": "329",
+		"start_at": "2023-03-01 00:00:00",
+		"end_at": "2023-03-31 23:59:59"
+	},
+	{
+		"ID": 277,
+		"type": 2,
+		"point": 300,
+		"box_type": 2,
+		"point_reward_ids": "330",
+		"start_at": "2023-03-27 00:00:00",
+		"end_at": "2023-04-23 23:59:59"
+	},
+	{
+		"ID": 278,
+		"type": 2,
+		"point": 450,
+		"box_type": 3,
+		"point_reward_ids": "331",
+		"start_at": "2023-03-27 00:00:00",
+		"end_at": "2023-04-23 23:59:59"
+	},
+	{
+		"ID": 279,
+		"type": 1,
+		"point": 10,
+		"box_type": 1,
+		"point_reward_ids": "326",
+		"start_at": "2023-04-01 00:00:00",
+		"end_at": "2023-04-30 23:59:59"
+	},
+	{
+		"ID": 280,
+		"type": 1,
+		"point": 30,
+		"box_type": 2,
+		"point_reward_ids": "327",
+		"start_at": "2023-04-01 00:00:00",
+		"end_at": "2023-04-30 23:59:59"
+	},
+	{
+		"ID": 281,
+		"type": 1,
+		"point": 50,
+		"box_type": 3,
+		"point_reward_ids": "328",
+		"start_at": "2023-04-01 00:00:00",
+		"end_at": "2023-04-30 23:59:59"
+	},
+	{
+		"ID": 282,
+		"type": 1,
+		"point": 70,
+		"box_type": 4,
+		"point_reward_ids": "329",
+		"start_at": "2023-04-01 00:00:00",
+		"end_at": "2023-04-30 23:59:59"
+	},
+	{
+		"ID": 283,
+		"type": 2,
+		"point": 300,
+		"box_type": 2,
+		"point_reward_ids": "330",
+		"start_at": "2023-04-24 00:00:00",
+		"end_at": "2023-05-28 23:59:59"
+	},
+	{
+		"ID": 284,
+		"type": 2,
+		"point": 450,
+		"box_type": 3,
+		"point_reward_ids": "331",
+		"start_at": "2023-04-24 00:00:00",
+		"end_at": "2023-05-28 23:59:59"
+	},
+	{
+		"ID": 285,
+		"type": 1,
+		"point": 10,
+		"box_type": 1,
+		"point_reward_ids": "326",
+		"start_at": "2023-05-01 00:00:00",
+		"end_at": "2023-05-31 23:59:59"
+	},
+	{
+		"ID": 286,
+		"type": 1,
+		"point": 30,
+		"box_type": 2,
+		"point_reward_ids": "327",
+		"start_at": "2023-05-01 00:00:00",
+		"end_at": "2023-05-31 23:59:59"
+	},
+	{
+		"ID": 287,
+		"type": 1,
+		"point": 50,
+		"box_type": 3,
+		"point_reward_ids": "328:285",
+		"start_at": "2023-05-01 00:00:00",
+		"end_at": "2023-05-12 23:59:59"
+	},
+	{
+		"ID": 288,
+		"type": 1,
+		"point": 70,
+		"box_type": 4,
+		"point_reward_ids": "329",
+		"start_at": "2023-05-01 00:00:00",
+		"end_at": "2023-05-31 23:59:59"
+	},
+	{
+		"ID": 289,
+		"type": 1,
+		"point": 50,
+		"box_type": 3,
+		"point_reward_ids": "328",
+		"start_at": "2023-05-13 00:00:00",
+		"end_at": "2023-05-31 23:59:59"
+	},
+	{
+		"ID": 290,
+		"type": 2,
+		"point": 300,
+		"box_type": 2,
+		"point_reward_ids": "330",
+		"start_at": "2023-05-29 00:00:00",
+		"end_at": "2023-06-25 23:59:59"
+	},
+	{
+		"ID": 291,
+		"type": 2,
+		"point": 450,
+		"box_type": 3,
+		"point_reward_ids": "331",
+		"start_at": "2023-05-29 00:00:00",
+		"end_at": "2023-06-25 23:59:59"
+	},
+	{
+		"ID": 292,
+		"type": 1,
+		"point": 10,
+		"box_type": 1,
+		"point_reward_ids": "326",
+		"start_at": "2023-06-01 00:00:00",
+		"end_at": "2023-06-30 23:59:59"
+	},
+	{
+		"ID": 293,
+		"type": 1,
+		"point": 30,
+		"box_type": 2,
+		"point_reward_ids": "327",
+		"start_at": "2023-06-01 00:00:00",
+		"end_at": "2023-06-30 23:59:59"
+	},
+	{
+		"ID": 294,
+		"type": 1,
+		"point": 50,
+		"box_type": 3,
+		"point_reward_ids": "328",
+		"start_at": "2023-06-01 00:00:00",
+		"end_at": "2023-06-30 23:59:59"
+	},
+	{
+		"ID": 295,
+		"type": 1,
+		"point": 70,
+		"box_type": 4,
+		"point_reward_ids": "329",
+		"start_at": "2023-06-01 00:00:00",
+		"end_at": "2023-06-30 23:59:59"
+	},
+	{
+		"ID": 296,
+		"type": 2,
+		"point": 300,
+		"box_type": 2,
+		"point_reward_ids": "330",
+		"start_at": "2023-06-26 00:00:00",
+		"end_at": "2099-12-31 23:59:59"
+	},
+	{
+		"ID": 297,
+		"type": 2,
+		"point": 450,
+		"box_type": 3,
+		"point_reward_ids": "331",
+		"start_at": "2023-06-26 00:00:00",
+		"end_at": "2099-12-31 23:59:59"
+	},
+	{
+		"ID": 298,
+		"type": 1,
+		"point": 10,
+		"box_type": 1,
+		"point_reward_ids": "326",
+		"start_at": "2023-07-01 00:00:00",
+		"end_at": "2023-07-31 23:59:59"
+	},
+	{
+		"ID": 299,
+		"type": 1,
+		"point": 30,
+		"box_type": 2,
+		"point_reward_ids": "327",
+		"start_at": "2023-07-01 00:00:00",
+		"end_at": "2023-07-31 23:59:59"
+	},
+	{
+		"ID": 300,
+		"type": 1,
+		"point": 50,
+		"box_type": 3,
+		"point_reward_ids": "328",
+		"start_at": "2023-07-01 00:00:00",
+		"end_at": "2023-07-31 23:59:59"
+	},
+	{
+		"ID": 301,
+		"type": 1,
+		"point": 70,
+		"box_type": 4,
+		"point_reward_ids": "329",
+		"start_at": "2023-07-01 00:00:00",
+		"end_at": "2023-07-31 23:59:59"
+	},
+	{
+		"ID": 302,
+		"type": 1,
+		"point": 10,
+		"box_type": 1,
+		"point_reward_ids": "332",
+		"start_at": "2023-08-01 00:00:00",
+		"end_at": "2023-08-18 23:59:59"
+	},
+	{
+		"ID": 303,
+		"type": 1,
+		"point": 30,
+		"box_type": 2,
+		"point_reward_ids": "333",
+		"start_at": "2023-08-01 00:00:00",
+		"end_at": "2023-08-18 23:59:59"
+	},
+	{
+		"ID": 304,
+		"type": 1,
+		"point": 50,
+		"box_type": 3,
+		"point_reward_ids": "334",
+		"start_at": "2023-08-01 00:00:00",
+		"end_at": "2023-08-18 23:59:59"
+	},
+	{
+		"ID": 305,
+		"type": 1,
+		"point": 70,
+		"box_type": 4,
+		"point_reward_ids": "335",
+		"start_at": "2023-08-01 00:00:00",
+		"end_at": "2023-08-18 23:59:59"
+	},
+	{
+		"ID": 306,
+		"type": 1,
+		"point": 10,
+		"box_type": 1,
+		"point_reward_ids": "326",
+		"start_at": "2023-08-19 00:00:00",
+		"end_at": "2023-10-31 23:59:59"
+	},
+	{
+		"ID": 307,
+		"type": 1,
+		"point": 30,
+		"box_type": 2,
+		"point_reward_ids": "327",
+		"start_at": "2023-08-19 00:00:00",
+		"end_at": "2023-10-31 23:59:59"
+	},
+	{
+		"ID": 308,
+		"type": 1,
+		"point": 50,
+		"box_type": 3,
+		"point_reward_ids": "328",
+		"start_at": "2023-08-19 00:00:00",
+		"end_at": "2023-10-31 23:59:59"
+	},
+	{
+		"ID": 309,
+		"type": 1,
+		"point": 70,
+		"box_type": 4,
+		"point_reward_ids": "329",
+		"start_at": "2023-08-19 00:00:00",
+		"end_at": "2023-10-31 23:59:59"
+	},
+	{
+		"ID": 310,
+		"type": 1,
+		"point": 10,
+		"box_type": 1,
+		"point_reward_ids": "326",
+		"start_at": "2023-11-01 00:00:00",
+		"end_at": "2030-12-31 23:59:59"
+	},
+	{
+		"ID": 311,
+		"type": 1,
+		"point": 30,
+		"box_type": 2,
+		"point_reward_ids": "327",
+		"start_at": "2023-11-01 00:00:00",
+		"end_at": "2030-12-31 23:59:59"
+	},
+	{
+		"ID": 312,
+		"type": 1,
+		"point": 50,
+		"box_type": 3,
+		"point_reward_ids": "336",
+		"start_at": "2023-11-01 00:00:00",
+		"end_at": "2030-12-31 23:59:59"
+	},
+	{
+		"ID": 313,
+		"type": 1,
+		"point": 70,
+		"box_type": 4,
+		"point_reward_ids": "329",
+		"start_at": "2023-11-01 00:00:00",
+		"end_at": "2030-12-31 23:59:59"
+	}
+]

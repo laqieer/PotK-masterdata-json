@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 300922,
+		"script": ";;B なんか、違う…\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_onsen\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 3009 \"seiryu_0022\"\n@青龍偃月刀\n違う、と言いますと？\n\n# textflame 0 0\n@\nきょとんとする彼女に\n言葉にならないもやもやを\nなんとか伝えようとするマスター\n\n# textflame 1 1\n@青龍偃月刀\n恥ずかしい？\nいや、混浴でという申し出は\n嬉しかったのですが…？\n\n# textflame 0 0\n@\n青龍偃月刀はこういうところがある\n時々とても考え方が\n男っぽくなるのだ\n\n# textflame 1 1\n# face %(unit_a)s \"angry\"\n# voice 3009 \"seiryu_0002\"\n@青龍偃月刀\n私はてっきり慰労の湯だと\n思っていたのですが\nもしや…\n\n# face %(unit_a)s \"sad\"\n@青龍偃月刀\n違ったのでしょうか…？\n\n# textflame 0 0\n@\nマスターは叫ぶ\nこれはれっきとしたデートです！\n\n# textflame 1 1\n# voice 3009 \"seiryu_0023\"\n@青龍偃月刀\n…！！！！！！\n\n@青龍偃月刀\nしゅ、主君！？\n嫁入り前の娘を湯に誘うなど…\nどういうおつもりか…！！\n\n# textflame 0 0\n@\nああ、待ってたその表情…\nありがとうと思わず拝みたくなる\nマスターであった――\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

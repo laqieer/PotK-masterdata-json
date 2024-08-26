@@ -1,0 +1,26 @@
+[
+	{
+		"ID": 14,
+		"unitID": 2302411,
+		"scriptID": "kaerimichi",
+		"script": "ちょっとばか殿！\nなに本気にしてんのよ…\nもう少しだけ付き合いなさいよ！"
+	},
+	{
+		"ID": 41,
+		"unitID": 2302411,
+		"scriptID": "kaeru",
+		"script": "なにやってんの？\nさっさと帰るわよ、ばか殿！"
+	},
+	{
+		"ID": 68,
+		"unitID": 2302411,
+		"scriptID": "kaeru_ok",
+		"script": "@%(unitName:unit_a)s\nまあ、殿が私と行きたいってなら\n一緒に行ってもいいけど！？"
+	},
+	{
+		"ID": 95,
+		"unitID": 2302411,
+		"scriptID": "kaeru_ng",
+		"script": "@%(unitName:unit_a)s\n殿には悪いけど…\nこれから予定があるのよ…"
+	}
+]

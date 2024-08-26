@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 96011499,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# se \"SE_0732\"\n# voice 6011 \"vanargand_0022\"\n@ヴァナルガンド\nん～、大正解です\n\n# voice 6011 \"vanargand_0004\"\n@ヴァナルガンド\nさすがマスターさんですね～\n\n@ヴァナルガンド\nずっと一緒にいるだけで、\nこんなに理解を深められるなんて～\n\n# voice 6011 \"vanargand_0003\"\n# eye %(unit_a)s \"close\"\n@ヴァナルガンド\nなんだか強い絆で\n結ばれているって、\n思っちゃいますね～\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"usual\"\n@ヴァナルガンド\nマスターさんも、\nそう思いますか～？\n\n# voice 6011 \"vanargand_0005\"\n# face %(unit_a)s \"smile\"\n@ヴァナルガンド\nんふふふ、それなら、\nわたしもとっても嬉しいです～\n\n@\nそう言って見せた彼女の笑みは、\nとても眩しく見えた\n\n@\nそして今は彼女との絆が、\n強く結ばれていると確認できたのが、\nたまらなく嬉しかった…\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

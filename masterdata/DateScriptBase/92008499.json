@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 92008499,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# se \"SE_0732\"\n@ペルーン\nわ、やっぱりちゃんと\n覚えてくれてるんだ！！\n\n# voice 2008 \"perun_0021\"\n@ペルーン\nあっはっは♪\nうん、マスターすごい！\n\n# face %(unit_a)s \"sad\"\n@ペルーン\nマスターが間違えたら…\nどうしようって\nちょっと思ってたんだ\n\n# voice 2008 \"perun_0005\"\n# face %(unit_a)s \"smile\"\n@ペルーン\nえへへ♪\n\n# textflame 0 0\n@\n彼女はさっきまでとは違う\n茶目っ気におびた笑顔を見せてくれた\n\n@\nその笑顔が見れたことで\n彼女との絆が\nまた深まったのを実感した…\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

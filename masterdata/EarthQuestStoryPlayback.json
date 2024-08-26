@@ -1,0 +1,686 @@
+[
+	{
+		"ID": 1,
+		"episode_EarthQuestEpisode": 5,
+		"timing_StoryPlaybackTiming": 3,
+		"stage_enemy_BattleStageEnemy": 0,
+		"attack_timing_type": 0,
+		"script_id": 901010002,
+		"title": "第1話 マスターの適合者　終了後"
+	},
+	{
+		"ID": 2,
+		"episode_EarthQuestEpisode": 6,
+		"timing_StoryPlaybackTiming": 3,
+		"stage_enemy_BattleStageEnemy": 0,
+		"attack_timing_type": 0,
+		"script_id": 901020002,
+		"title": "第2話 少女、アスカ　終了後"
+	},
+	{
+		"ID": 3,
+		"episode_EarthQuestEpisode": 7,
+		"timing_StoryPlaybackTiming": 3,
+		"stage_enemy_BattleStageEnemy": 0,
+		"attack_timing_type": 0,
+		"script_id": 901030002,
+		"title": "第3話 蹂躙される人々 終了後"
+	},
+	{
+		"ID": 4,
+		"episode_EarthQuestEpisode": 8,
+		"timing_StoryPlaybackTiming": 4,
+		"stage_enemy_BattleStageEnemy": 48,
+		"attack_timing_type": 0,
+		"script_id": 901040002,
+		"title": "第4話 孤高のキラーメイル　ロンギヌスとの戦闘"
+	},
+	{
+		"ID": 5,
+		"episode_EarthQuestEpisode": 8,
+		"timing_StoryPlaybackTiming": 2,
+		"stage_enemy_BattleStageEnemy": 0,
+		"attack_timing_type": 0,
+		"script_id": 901040003,
+		"title": "第4話 孤高のキラーメイル 開始時"
+	},
+	{
+		"ID": 6,
+		"episode_EarthQuestEpisode": 8,
+		"timing_StoryPlaybackTiming": 3,
+		"stage_enemy_BattleStageEnemy": 0,
+		"attack_timing_type": 0,
+		"script_id": 901040004,
+		"title": "第4話 孤高のキラーメイル 終了後"
+	},
+	{
+		"ID": 7,
+		"episode_EarthQuestEpisode": 9,
+		"timing_StoryPlaybackTiming": 3,
+		"stage_enemy_BattleStageEnemy": 0,
+		"attack_timing_type": 0,
+		"script_id": 901050002,
+		"title": "第5話 夢の国　終了後"
+	},
+	{
+		"ID": 8,
+		"episode_EarthQuestEpisode": 10,
+		"timing_StoryPlaybackTiming": 3,
+		"stage_enemy_BattleStageEnemy": 0,
+		"attack_timing_type": 0,
+		"script_id": 901060002,
+		"title": "第6話 予期せぬ援軍　終了後"
+	},
+	{
+		"ID": 9,
+		"episode_EarthQuestEpisode": 11,
+		"timing_StoryPlaybackTiming": 3,
+		"stage_enemy_BattleStageEnemy": 0,
+		"attack_timing_type": 0,
+		"script_id": 901070002,
+		"title": "第7話 魔壁の構造　終了後"
+	},
+	{
+		"ID": 10,
+		"episode_EarthQuestEpisode": 12,
+		"timing_StoryPlaybackTiming": 3,
+		"stage_enemy_BattleStageEnemy": 0,
+		"attack_timing_type": 0,
+		"script_id": 901080002,
+		"title": "第8話 ダグダ、激昂　終了後"
+	},
+	{
+		"ID": 11,
+		"episode_EarthQuestEpisode": 13,
+		"timing_StoryPlaybackTiming": 3,
+		"stage_enemy_BattleStageEnemy": 0,
+		"attack_timing_type": 0,
+		"script_id": 901090002,
+		"title": "第9話 魔獣化、そして暴走　終了後"
+	},
+	{
+		"ID": 12,
+		"episode_EarthQuestEpisode": 4,
+		"timing_StoryPlaybackTiming": 2,
+		"stage_enemy_BattleStageEnemy": 0,
+		"attack_timing_type": 0,
+		"script_id": 900030002,
+		"title": "七魔王　開始時"
+	},
+	{
+		"ID": 13,
+		"episode_EarthQuestEpisode": 4,
+		"timing_StoryPlaybackTiming": 3,
+		"stage_enemy_BattleStageEnemy": 0,
+		"attack_timing_type": 0,
+		"script_id": 900030003,
+		"title": "七魔王　終了後"
+	},
+	{
+		"ID": 14,
+		"episode_EarthQuestEpisode": 4,
+		"timing_StoryPlaybackTiming": 1,
+		"stage_enemy_BattleStageEnemy": 0,
+		"attack_timing_type": 0,
+		"script_id": 900030001,
+		"title": "七魔王　開始前"
+	},
+	{
+		"ID": 15,
+		"episode_EarthQuestEpisode": 14,
+		"timing_StoryPlaybackTiming": 3,
+		"stage_enemy_BattleStageEnemy": 0,
+		"attack_timing_type": 0,
+		"script_id": 902010002,
+		"title": "第1話 畏怖の矛先 終了後"
+	},
+	{
+		"ID": 16,
+		"episode_EarthQuestEpisode": 15,
+		"timing_StoryPlaybackTiming": 2,
+		"stage_enemy_BattleStageEnemy": 0,
+		"attack_timing_type": 0,
+		"script_id": 902020002,
+		"title": "第2話 悪魔の夢 開始時"
+	},
+	{
+		"ID": 17,
+		"episode_EarthQuestEpisode": 15,
+		"timing_StoryPlaybackTiming": 3,
+		"stage_enemy_BattleStageEnemy": 0,
+		"attack_timing_type": 0,
+		"script_id": 902020003,
+		"title": "第2話 悪魔の夢 終了時"
+	},
+	{
+		"ID": 18,
+		"episode_EarthQuestEpisode": 16,
+		"timing_StoryPlaybackTiming": 3,
+		"stage_enemy_BattleStageEnemy": 0,
+		"attack_timing_type": 0,
+		"script_id": 902030002,
+		"title": "第3話 抗う同志 終了時"
+	},
+	{
+		"ID": 19,
+		"episode_EarthQuestEpisode": 17,
+		"timing_StoryPlaybackTiming": 3,
+		"stage_enemy_BattleStageEnemy": 0,
+		"attack_timing_type": 0,
+		"script_id": 902040002,
+		"title": "第4話 少女の勇気 終了時"
+	},
+	{
+		"ID": 20,
+		"episode_EarthQuestEpisode": 18,
+		"timing_StoryPlaybackTiming": 3,
+		"stage_enemy_BattleStageEnemy": 0,
+		"attack_timing_type": 0,
+		"script_id": 902050002,
+		"title": "第5話 父とは、親とは 終了時"
+	},
+	{
+		"ID": 21,
+		"episode_EarthQuestEpisode": 19,
+		"timing_StoryPlaybackTiming": 3,
+		"stage_enemy_BattleStageEnemy": 0,
+		"attack_timing_type": 0,
+		"script_id": 902060003,
+		"title": "第6話 生きる希望　終了時"
+	},
+	{
+		"ID": 22,
+		"episode_EarthQuestEpisode": 20,
+		"timing_StoryPlaybackTiming": 2,
+		"stage_enemy_BattleStageEnemy": 0,
+		"attack_timing_type": 0,
+		"script_id": 902070002,
+		"title": "第7話 甘美なる夢　開始時"
+	},
+	{
+		"ID": 23,
+		"episode_EarthQuestEpisode": 20,
+		"timing_StoryPlaybackTiming": 3,
+		"stage_enemy_BattleStageEnemy": 0,
+		"attack_timing_type": 0,
+		"script_id": 902070003,
+		"title": "第7話 甘美なる夢　終了時"
+	},
+	{
+		"ID": 24,
+		"episode_EarthQuestEpisode": 21,
+		"timing_StoryPlaybackTiming": 3,
+		"stage_enemy_BattleStageEnemy": 0,
+		"attack_timing_type": 0,
+		"script_id": 902080003,
+		"title": "第8話 守りたい人との約束　終了時"
+	},
+	{
+		"ID": 25,
+		"episode_EarthQuestEpisode": 22,
+		"timing_StoryPlaybackTiming": 3,
+		"stage_enemy_BattleStageEnemy": 0,
+		"attack_timing_type": 0,
+		"script_id": 902090003,
+		"title": "第9話 怠惰との決着　終了時"
+	},
+	{
+		"ID": 26,
+		"episode_EarthQuestEpisode": 23,
+		"timing_StoryPlaybackTiming": 3,
+		"stage_enemy_BattleStageEnemy": 0,
+		"attack_timing_type": 0,
+		"script_id": 902100003,
+		"title": "第10話 特異点　終了時"
+	},
+	{
+		"ID": 27,
+		"episode_EarthQuestEpisode": 24,
+		"timing_StoryPlaybackTiming": 3,
+		"stage_enemy_BattleStageEnemy": 0,
+		"attack_timing_type": 0,
+		"script_id": 903010003,
+		"title": "第1話 干上がった世界 終了後"
+	},
+	{
+		"ID": 28,
+		"episode_EarthQuestEpisode": 25,
+		"timing_StoryPlaybackTiming": 3,
+		"stage_enemy_BattleStageEnemy": 0,
+		"attack_timing_type": 0,
+		"script_id": 903020003,
+		"title": "第2話 スナッチゲーム　終了後"
+	},
+	{
+		"ID": 29,
+		"episode_EarthQuestEpisode": 26,
+		"timing_StoryPlaybackTiming": 3,
+		"stage_enemy_BattleStageEnemy": 0,
+		"attack_timing_type": 0,
+		"script_id": 903030003,
+		"title": "第3話 レジスタンス 終了後"
+	},
+	{
+		"ID": 30,
+		"episode_EarthQuestEpisode": 27,
+		"timing_StoryPlaybackTiming": 3,
+		"stage_enemy_BattleStageEnemy": 0,
+		"attack_timing_type": 0,
+		"script_id": 903040003,
+		"title": "第4話 自然の摂理 終了後"
+	},
+	{
+		"ID": 31,
+		"episode_EarthQuestEpisode": 28,
+		"timing_StoryPlaybackTiming": 3,
+		"stage_enemy_BattleStageEnemy": 0,
+		"attack_timing_type": 0,
+		"script_id": 903050003,
+		"title": "第5話 老兵の頼み 終了後"
+	},
+	{
+		"ID": 32,
+		"episode_EarthQuestEpisode": 29,
+		"timing_StoryPlaybackTiming": 3,
+		"stage_enemy_BattleStageEnemy": 0,
+		"attack_timing_type": 0,
+		"script_id": 903060003,
+		"title": "第6話 生命の本質 終了後"
+	},
+	{
+		"ID": 33,
+		"episode_EarthQuestEpisode": 30,
+		"timing_StoryPlaybackTiming": 3,
+		"stage_enemy_BattleStageEnemy": 0,
+		"attack_timing_type": 0,
+		"script_id": 903070003,
+		"title": "第7話 最後の授業 終了後"
+	},
+	{
+		"ID": 34,
+		"episode_EarthQuestEpisode": 31,
+		"timing_StoryPlaybackTiming": 3,
+		"stage_enemy_BattleStageEnemy": 0,
+		"attack_timing_type": 0,
+		"script_id": 903080003,
+		"title": "第8話 強奪 終了後"
+	},
+	{
+		"ID": 35,
+		"episode_EarthQuestEpisode": 32,
+		"timing_StoryPlaybackTiming": 3,
+		"stage_enemy_BattleStageEnemy": 0,
+		"attack_timing_type": 0,
+		"script_id": 903090003,
+		"title": "第9話 託されたもの 終了後"
+	},
+	{
+		"ID": 36,
+		"episode_EarthQuestEpisode": 33,
+		"timing_StoryPlaybackTiming": 3,
+		"stage_enemy_BattleStageEnemy": 0,
+		"attack_timing_type": 0,
+		"script_id": 903100003,
+		"title": "第10話 地下通路へ 終了後"
+	},
+	{
+		"ID": 37,
+		"episode_EarthQuestEpisode": 34,
+		"timing_StoryPlaybackTiming": 3,
+		"stage_enemy_BattleStageEnemy": 0,
+		"attack_timing_type": 0,
+		"script_id": 904010003,
+		"title": "第1話 灼熱の世界 終了後"
+	},
+	{
+		"ID": 38,
+		"episode_EarthQuestEpisode": 35,
+		"timing_StoryPlaybackTiming": 3,
+		"stage_enemy_BattleStageEnemy": 0,
+		"attack_timing_type": 0,
+		"script_id": 904020003,
+		"title": "第2話 作戦名リベリオン 終了後"
+	},
+	{
+		"ID": 39,
+		"episode_EarthQuestEpisode": 36,
+		"timing_StoryPlaybackTiming": 3,
+		"stage_enemy_BattleStageEnemy": 0,
+		"attack_timing_type": 0,
+		"script_id": 904030003,
+		"title": "第3話 断絶の炎 終了後"
+	},
+	{
+		"ID": 40,
+		"episode_EarthQuestEpisode": 37,
+		"timing_StoryPlaybackTiming": 3,
+		"stage_enemy_BattleStageEnemy": 0,
+		"attack_timing_type": 0,
+		"script_id": 904040003,
+		"title": "第4話 再会 終了後"
+	},
+	{
+		"ID": 41,
+		"episode_EarthQuestEpisode": 38,
+		"timing_StoryPlaybackTiming": 3,
+		"stage_enemy_BattleStageEnemy": 0,
+		"attack_timing_type": 0,
+		"script_id": 904050003,
+		"title": "第5話 新たな力を示すもの 終了後"
+	},
+	{
+		"ID": 42,
+		"episode_EarthQuestEpisode": 39,
+		"timing_StoryPlaybackTiming": 3,
+		"stage_enemy_BattleStageEnemy": 0,
+		"attack_timing_type": 0,
+		"script_id": 904060003,
+		"title": "第6話 享楽の館 終了後"
+	},
+	{
+		"ID": 43,
+		"episode_EarthQuestEpisode": 40,
+		"timing_StoryPlaybackTiming": 3,
+		"stage_enemy_BattleStageEnemy": 0,
+		"attack_timing_type": 0,
+		"script_id": 904070003,
+		"title": "第7話 繋がる絆 終了後"
+	},
+	{
+		"ID": 44,
+		"episode_EarthQuestEpisode": 41,
+		"timing_StoryPlaybackTiming": 3,
+		"stage_enemy_BattleStageEnemy": 0,
+		"attack_timing_type": 0,
+		"script_id": 904080003,
+		"title": "第8話 共闘 終了後"
+	},
+	{
+		"ID": 45,
+		"episode_EarthQuestEpisode": 42,
+		"timing_StoryPlaybackTiming": 3,
+		"stage_enemy_BattleStageEnemy": 0,
+		"attack_timing_type": 0,
+		"script_id": 904090003,
+		"title": "第9話 暴食襲来 終了後"
+	},
+	{
+		"ID": 46,
+		"episode_EarthQuestEpisode": 43,
+		"timing_StoryPlaybackTiming": 3,
+		"stage_enemy_BattleStageEnemy": 0,
+		"attack_timing_type": 0,
+		"script_id": 904100003,
+		"title": "第10話 崩壊、そして… 終了後"
+	},
+	{
+		"ID": 47,
+		"episode_EarthQuestEpisode": 44,
+		"timing_StoryPlaybackTiming": 3,
+		"stage_enemy_BattleStageEnemy": 0,
+		"attack_timing_type": 0,
+		"script_id": 905010003,
+		"title": "第1話 魔獣を従える人間 終了後"
+	},
+	{
+		"ID": 48,
+		"episode_EarthQuestEpisode": 45,
+		"timing_StoryPlaybackTiming": 3,
+		"stage_enemy_BattleStageEnemy": 0,
+		"attack_timing_type": 0,
+		"script_id": 905020003,
+		"title": "第2話 階層社会 終了後"
+	},
+	{
+		"ID": 49,
+		"episode_EarthQuestEpisode": 46,
+		"timing_StoryPlaybackTiming": 3,
+		"stage_enemy_BattleStageEnemy": 0,
+		"attack_timing_type": 0,
+		"script_id": 905030003,
+		"title": "第3話 祈りを捧げる人々 終了後"
+	},
+	{
+		"ID": 50,
+		"episode_EarthQuestEpisode": 47,
+		"timing_StoryPlaybackTiming": 3,
+		"stage_enemy_BattleStageEnemy": 0,
+		"attack_timing_type": 0,
+		"script_id": 905040003,
+		"title": "第4話 上層階の生活 終了後"
+	},
+	{
+		"ID": 51,
+		"episode_EarthQuestEpisode": 48,
+		"timing_StoryPlaybackTiming": 3,
+		"stage_enemy_BattleStageEnemy": 0,
+		"attack_timing_type": 0,
+		"script_id": 905050003,
+		"title": "第5話 監禁、そして…… 終了後"
+	},
+	{
+		"ID": 52,
+		"episode_EarthQuestEpisode": 49,
+		"timing_StoryPlaybackTiming": 3,
+		"stage_enemy_BattleStageEnemy": 0,
+		"attack_timing_type": 0,
+		"script_id": 905060003,
+		"title": "第6話 天上世界の現状 終了後"
+	},
+	{
+		"ID": 53,
+		"episode_EarthQuestEpisode": 50,
+		"timing_StoryPlaybackTiming": 3,
+		"stage_enemy_BattleStageEnemy": 0,
+		"attack_timing_type": 0,
+		"script_id": 905070003,
+		"title": "第7話 明かされた真実 終了後"
+	},
+	{
+		"ID": 54,
+		"episode_EarthQuestEpisode": 51,
+		"timing_StoryPlaybackTiming": 3,
+		"stage_enemy_BattleStageEnemy": 0,
+		"attack_timing_type": 0,
+		"script_id": 905080003,
+		"title": "第8話 危険な選択 終了後"
+	},
+	{
+		"ID": 55,
+		"episode_EarthQuestEpisode": 52,
+		"timing_StoryPlaybackTiming": 3,
+		"stage_enemy_BattleStageEnemy": 0,
+		"attack_timing_type": 0,
+		"script_id": 905090003,
+		"title": "第9話 力の代償 終了後"
+	},
+	{
+		"ID": 56,
+		"episode_EarthQuestEpisode": 53,
+		"timing_StoryPlaybackTiming": 3,
+		"stage_enemy_BattleStageEnemy": 0,
+		"attack_timing_type": 0,
+		"script_id": 905100003,
+		"title": "第10話 反撃の狼煙 終了後"
+	},
+	{
+		"ID": 57,
+		"episode_EarthQuestEpisode": 54,
+		"timing_StoryPlaybackTiming": 3,
+		"stage_enemy_BattleStageEnemy": 0,
+		"attack_timing_type": 0,
+		"script_id": 906010003,
+		"title": "第1話 それぞれの思惑 終了後"
+	},
+	{
+		"ID": 58,
+		"episode_EarthQuestEpisode": 55,
+		"timing_StoryPlaybackTiming": 3,
+		"stage_enemy_BattleStageEnemy": 0,
+		"attack_timing_type": 0,
+		"script_id": 906020003,
+		"title": "第2話 生命の残存メモリ 終了後"
+	},
+	{
+		"ID": 59,
+		"episode_EarthQuestEpisode": 56,
+		"timing_StoryPlaybackTiming": 3,
+		"stage_enemy_BattleStageEnemy": 0,
+		"attack_timing_type": 0,
+		"script_id": 906030003,
+		"title": "第3話 襲来する悪魔 終了後"
+	},
+	{
+		"ID": 60,
+		"episode_EarthQuestEpisode": 57,
+		"timing_StoryPlaybackTiming": 3,
+		"stage_enemy_BattleStageEnemy": 0,
+		"attack_timing_type": 0,
+		"script_id": 906040003,
+		"title": "第4話 未来への別れ 終了後"
+	},
+	{
+		"ID": 61,
+		"episode_EarthQuestEpisode": 58,
+		"timing_StoryPlaybackTiming": 3,
+		"stage_enemy_BattleStageEnemy": 0,
+		"attack_timing_type": 0,
+		"script_id": 906050003,
+		"title": "第5話 下層民の蜂起 終了後"
+	},
+	{
+		"ID": 62,
+		"episode_EarthQuestEpisode": 59,
+		"timing_StoryPlaybackTiming": 3,
+		"stage_enemy_BattleStageEnemy": 0,
+		"attack_timing_type": 0,
+		"script_id": 906060003,
+		"title": "第6話 暴走する“正義” 終了後"
+	},
+	{
+		"ID": 63,
+		"episode_EarthQuestEpisode": 60,
+		"timing_StoryPlaybackTiming": 3,
+		"stage_enemy_BattleStageEnemy": 0,
+		"attack_timing_type": 0,
+		"script_id": 906070003,
+		"title": "第7話 崩壊への序曲 終了後"
+	},
+	{
+		"ID": 64,
+		"episode_EarthQuestEpisode": 61,
+		"timing_StoryPlaybackTiming": 3,
+		"stage_enemy_BattleStageEnemy": 0,
+		"attack_timing_type": 0,
+		"script_id": 906080003,
+		"title": "第8話 最後の言葉 終了後"
+	},
+	{
+		"ID": 65,
+		"episode_EarthQuestEpisode": 62,
+		"timing_StoryPlaybackTiming": 3,
+		"stage_enemy_BattleStageEnemy": 0,
+		"attack_timing_type": 0,
+		"script_id": 906090003,
+		"title": "第9話 嫉妬の果て 終了後"
+	},
+	{
+		"ID": 66,
+		"episode_EarthQuestEpisode": 63,
+		"timing_StoryPlaybackTiming": 3,
+		"stage_enemy_BattleStageEnemy": 0,
+		"attack_timing_type": 0,
+		"script_id": 906100003,
+		"title": "第10話 未来への道 終了後"
+	},
+	{
+		"ID": 67,
+		"episode_EarthQuestEpisode": 64,
+		"timing_StoryPlaybackTiming": 3,
+		"stage_enemy_BattleStageEnemy": 0,
+		"attack_timing_type": 0,
+		"script_id": 907010003,
+		"title": "第1話 キラープリンセスの異変 終了後"
+	},
+	{
+		"ID": 68,
+		"episode_EarthQuestEpisode": 65,
+		"timing_StoryPlaybackTiming": 3,
+		"stage_enemy_BattleStageEnemy": 0,
+		"attack_timing_type": 0,
+		"script_id": 907020003,
+		"title": "第2話 失われていくもの 終了後"
+	},
+	{
+		"ID": 69,
+		"episode_EarthQuestEpisode": 66,
+		"timing_StoryPlaybackTiming": 3,
+		"stage_enemy_BattleStageEnemy": 0,
+		"attack_timing_type": 0,
+		"script_id": 907030003,
+		"title": "第3話 見捨てられた者達 終了後"
+	},
+	{
+		"ID": 70,
+		"episode_EarthQuestEpisode": 67,
+		"timing_StoryPlaybackTiming": 3,
+		"stage_enemy_BattleStageEnemy": 0,
+		"attack_timing_type": 0,
+		"script_id": 907040003,
+		"title": "第4話 七つの大罪 終了後"
+	},
+	{
+		"ID": 71,
+		"episode_EarthQuestEpisode": 68,
+		"timing_StoryPlaybackTiming": 3,
+		"stage_enemy_BattleStageEnemy": 0,
+		"attack_timing_type": 0,
+		"script_id": 907050003,
+		"title": "第5話 生まれ出ずる絶望 終了後"
+	},
+	{
+		"ID": 72,
+		"episode_EarthQuestEpisode": 69,
+		"timing_StoryPlaybackTiming": 3,
+		"stage_enemy_BattleStageEnemy": 0,
+		"attack_timing_type": 0,
+		"script_id": 907060003,
+		"title": "第6話 アルン 終了後"
+	},
+	{
+		"ID": 73,
+		"episode_EarthQuestEpisode": 70,
+		"timing_StoryPlaybackTiming": 3,
+		"stage_enemy_BattleStageEnemy": 0,
+		"attack_timing_type": 0,
+		"script_id": 907070003,
+		"title": "第7話 大切なもの 終了後"
+	},
+	{
+		"ID": 74,
+		"episode_EarthQuestEpisode": 71,
+		"timing_StoryPlaybackTiming": 3,
+		"stage_enemy_BattleStageEnemy": 0,
+		"attack_timing_type": 0,
+		"script_id": 907080003,
+		"title": "第8話 未来への一撃 終了後"
+	},
+	{
+		"ID": 75,
+		"episode_EarthQuestEpisode": 72,
+		"timing_StoryPlaybackTiming": 3,
+		"stage_enemy_BattleStageEnemy": 0,
+		"attack_timing_type": 0,
+		"script_id": 907090003,
+		"title": "第9話 崩れ去る魔壁 終了後"
+	},
+	{
+		"ID": 76,
+		"episode_EarthQuestEpisode": 73,
+		"timing_StoryPlaybackTiming": 3,
+		"stage_enemy_BattleStageEnemy": 0,
+		"attack_timing_type": 0,
+		"script_id": 907100003,
+		"title": "第10話 ――ZERO―― 終了後"
+	}
+]

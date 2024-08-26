@@ -1,0 +1,37 @@
+[
+	{
+		"ID": 1,
+		"name": "昼",
+		"start_time": "6:00:00",
+		"end_time": "15:59:59",
+		"image_pattern": "noon"
+	},
+	{
+		"ID": 2,
+		"name": "夕方",
+		"start_time": "16:00:00",
+		"end_time": "18:59:59",
+		"image_pattern": "evening"
+	},
+	{
+		"ID": 3,
+		"name": "夜",
+		"start_time": "19:00:00",
+		"end_time": "5:59:59",
+		"image_pattern": "night"
+	},
+	{
+		"ID": 4,
+		"name": "朝時報",
+		"start_time": "6:00:00",
+		"end_time": "10:59:59",
+		"image_pattern": "noon"
+	},
+	{
+		"ID": 5,
+		"name": "昼時報",
+		"start_time": "11:00:00",
+		"end_time": "14:59:59",
+		"image_pattern": "noon"
+	}
+]

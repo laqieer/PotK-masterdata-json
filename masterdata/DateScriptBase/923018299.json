@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 923018299,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# se \"SE_0732\"\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n@フォルカス\nその答え…\n\n# face %(unit_a)s \"normal\"\n# voice 530181 \"forcas_c_0005\"\n@フォルカス\n正解です\n\n@フォルカス\n私の選択は間違ってなかった…\n\n@フォルカス\n私は少し\n独りよがりだったのかも\n知れません\n\n# voice 530181 \"forcas_c_0004\"\n@フォルカス\nこれからはあなたが導く先にも…\n胸を張ってついていきます\n\n# textflame 0 0\n@\nそう言って、微笑む彼女\n\n@\nマスターもまた、\n彼女との距離が縮まったことを\nとても嬉しく思うのだった…\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

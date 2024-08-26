@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 93005299,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# se \"SE_0732\"\n# voice 3005 \"roon_0028\"\n@ルーン\n…………\n\n# face %(unit_a)s \"usual\"\n@ルーン\n正解！\n\n# voice 3005 \"roon_0041\"\n# face %(unit_a)s \"smile\"\n@ルーン\nいいね！やるじゃん？\n\n# face %(unit_a)s \"sad\"\n@ルーン\nなんだ、お前？\nあたいマニアだったのか？\n\n# face %(unit_a)s \"angry\"\n@ルーン\n気色の悪い奴だな\n\n@ルーン\nストーキングとか\nしやがったら、\nぶっ殺すぞ\n\n# textflame 0 0\n@\nとか言いながら、\n嬉しそうな彼女\n\n@\n小憎たらしく笑う顔も、\nどこか可愛くて…\n\n@\nマスターは二人の絆が\nまた深まったのを実感した…\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

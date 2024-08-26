@@ -1,0 +1,302 @@
+[
+	{
+		"ID": 6073,
+		"unitID": 2503711,
+		"questionID": 9503701,
+		"script": ";;銃,3\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 550371 \"logistille_c_0002\"\n@ロジェスティラ\nあのあのっ…！\n\n@ロジェスティラ\n今日は誘って下さって、\nありがとうございました…！\n\n# face %(unit_a)s \"sad\"\n# voice 550371 \"logistille_c_0028\"\n@ロジェスティラ\nで、でもでも…\n\n@ロジェスティラ\n綺麗な方々がいっぱいなのに、\nどうしてわたしなんかを……？\n\n# textflame 0 0\n@\n自信のない物言いをする彼女に、\n君と一緒ですごく楽しかったよ\nと答えるマスター\n\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 550371 \"logistille_c_0021\"\n@ロジェスティラ\nほ、本当ですか…！？\n\n@ロジェスティラ\nで、でしたらわたしのこと、\nどれくらい知っているか…\nクイズを出してもいいですか…！？\n\n@ロジェスティラ\nで、では行きますね…！\n\n# textflame 0 0\n@\n照れ隠しで、\nつい咄嗟にクイズを出すと\n言ってしまった彼女\n\n@\nとにもかくにも、\n間違えるわけにはいかない…！\nと臨むマスターだった\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nわたしの武器属性は\n知っていますか…？　\n\n# se \"SE_0734\"\n# select \"槍\" \"select_label_1\" \"剣\" \"select_label_2\" \"銃\" \"select_label_3\"\nわたしの武器属性は\n知っていますか…？　\n"
+	},
+	{
+		"ID": 6074,
+		"unitID": 2503711,
+		"questionID": 9503702,
+		"script": ";;スクルド,1\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 550371 \"logistille_c_0002\"\n@ロジェスティラ\nあのあのっ…！\n\n@ロジェスティラ\n今日は誘って下さって、\nありがとうございました…！\n\n# face %(unit_a)s \"sad\"\n# voice 550371 \"logistille_c_0028\"\n@ロジェスティラ\nで、でもでも…\n\n@ロジェスティラ\n綺麗な方々がいっぱいなのに、\nどうしてわたしなんかを……？\n\n# textflame 0 0\n@\n自信のない物言いをする彼女に、\n君と一緒ですごく楽しかったよ\nと答えるマスター\n\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 550371 \"logistille_c_0021\"\n@ロジェスティラ\nほ、本当ですか…！？\n\n@ロジェスティラ\nで、でしたらわたしのこと、\nどれくらい知っているか…\nクイズを出してもいいですか…！？\n\n@ロジェスティラ\nで、では行きますね…！\n\n# textflame 0 0\n@\n照れ隠しで、\nつい咄嗟にクイズを出すと\n言ってしまった彼女\n\n@\nとにもかくにも、\n間違えるわけにはいかない…！\nと臨むマスターだった\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nわたしがコマンドされたのは…？\n\n# se \"SE_0734\"\n# select \"スクルド\" \"select_label_1\" \"ルドルフ\" \"select_label_2\" \"バティストゥータ\" \"select_label_3\"\nわたしがコマンドされたのは…？\n"
+	},
+	{
+		"ID": 6075,
+		"unitID": 2503711,
+		"questionID": 9503703,
+		"script": ";;フランス神話,3\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 550371 \"logistille_c_0002\"\n@ロジェスティラ\nあのあのっ…！\n\n@ロジェスティラ\n今日は誘って下さって、\nありがとうございました…！\n\n# face %(unit_a)s \"sad\"\n# voice 550371 \"logistille_c_0028\"\n@ロジェスティラ\nで、でもでも…\n\n@ロジェスティラ\n綺麗な方々がいっぱいなのに、\nどうしてわたしなんかを……？\n\n# textflame 0 0\n@\n自信のない物言いをする彼女に、\n君と一緒ですごく楽しかったよ\nと答えるマスター\n\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 550371 \"logistille_c_0021\"\n@ロジェスティラ\nほ、本当ですか…！？\n\n@ロジェスティラ\nで、でしたらわたしのこと、\nどれくらい知っているか…\nクイズを出してもいいですか…！？\n\n@ロジェスティラ\nで、では行きますね…！\n\n# textflame 0 0\n@\n照れ隠しで、\nつい咄嗟にクイズを出すと\n言ってしまった彼女\n\n@\nとにもかくにも、\n間違えるわけにはいかない…！\nと臨むマスターだった\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nわたしのキラーズ\n『ロジェスティラ』は\nどんな伝承に登場しますか？\n\n# se \"SE_0734\"\n# select \"インド神話\" \"select_label_1\" \"ギリシャ神話\" \"select_label_2\" \"フランス神話\" \"select_label_3\"\nわたしのキラーズ\n『ロジェスティラ』は\nどんな伝承に登場しますか？\n"
+	},
+	{
+		"ID": 6076,
+		"unitID": 2503711,
+		"questionID": 9503704,
+		"script": ";;未来,2\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 550371 \"logistille_c_0002\"\n@ロジェスティラ\nあのあのっ…！\n\n@ロジェスティラ\n今日は誘って下さって、\nありがとうございました…！\n\n# face %(unit_a)s \"sad\"\n# voice 550371 \"logistille_c_0028\"\n@ロジェスティラ\nで、でもでも…\n\n@ロジェスティラ\n綺麗な方々がいっぱいなのに、\nどうしてわたしなんかを……？\n\n# textflame 0 0\n@\n自信のない物言いをする彼女に、\n君と一緒ですごく楽しかったよ\nと答えるマスター\n\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 550371 \"logistille_c_0021\"\n@ロジェスティラ\nほ、本当ですか…！？\n\n@ロジェスティラ\nで、でしたらわたしのこと、\nどれくらい知っているか…\nクイズを出してもいいですか…！？\n\n@ロジェスティラ\nで、では行きますね…！\n\n# textflame 0 0\n@\n照れ隠しで、\nつい咄嗟にクイズを出すと\n言ってしまった彼女\n\n@\nとにもかくにも、\n間違えるわけにはいかない…！\nと臨むマスターだった\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nわたしがコマンドされた\n『スクルド』は何を司ると\n云われていますか？\n\n# se \"SE_0734\"\n# select \"過去\" \"select_label_1\" \"未来\" \"select_label_2\" \"現在\" \"select_label_3\"\nわたしがコマンドされた\n『スクルド』は何を司ると\n云われていますか？\n"
+	},
+	{
+		"ID": 6077,
+		"unitID": 2503711,
+		"questionID": 9503705,
+		"script": ";;運命を司る,3\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 550371 \"logistille_c_0002\"\n@ロジェスティラ\nあのあのっ…！\n\n@ロジェスティラ\n今日は誘って下さって、\nありがとうございました…！\n\n# face %(unit_a)s \"sad\"\n# voice 550371 \"logistille_c_0028\"\n@ロジェスティラ\nで、でもでも…\n\n@ロジェスティラ\n綺麗な方々がいっぱいなのに、\nどうしてわたしなんかを……？\n\n# textflame 0 0\n@\n自信のない物言いをする彼女に、\n君と一緒ですごく楽しかったよ\nと答えるマスター\n\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 550371 \"logistille_c_0021\"\n@ロジェスティラ\nほ、本当ですか…！？\n\n@ロジェスティラ\nで、でしたらわたしのこと、\nどれくらい知っているか…\nクイズを出してもいいですか…！？\n\n@ロジェスティラ\nで、では行きますね…！\n\n# textflame 0 0\n@\n照れ隠しで、\nつい咄嗟にクイズを出すと\n言ってしまった彼女\n\n@\nとにもかくにも、\n間違えるわけにはいかない…！\nと臨むマスターだった\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nわたしがコマンドされた\n『スクルド』は何を司る\n三女神の一人か知っていますか？\n\n# se \"SE_0734\"\n# select \"宇宙を司る\" \"select_label_1\" \"スイーツを司る\" \"select_label_2\" \"運命を司る\" \"select_label_3\"\nわたしがコマンドされた\n『スクルド』は何を司る\n三女神の一人か知っていますか？\n"
+	},
+	{
+		"ID": 6078,
+		"unitID": 2503711,
+		"questionID": 9503706,
+		"script": ";;三女神ノルン,1\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 550371 \"logistille_c_0002\"\n@ロジェスティラ\nあのあのっ…！\n\n@ロジェスティラ\n今日は誘って下さって、\nありがとうございました…！\n\n# face %(unit_a)s \"sad\"\n# voice 550371 \"logistille_c_0028\"\n@ロジェスティラ\nで、でもでも…\n\n@ロジェスティラ\n綺麗な方々がいっぱいなのに、\nどうしてわたしなんかを……？\n\n# textflame 0 0\n@\n自信のない物言いをする彼女に、\n君と一緒ですごく楽しかったよ\nと答えるマスター\n\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 550371 \"logistille_c_0021\"\n@ロジェスティラ\nほ、本当ですか…！？\n\n@ロジェスティラ\nで、でしたらわたしのこと、\nどれくらい知っているか…\nクイズを出してもいいですか…！？\n\n@ロジェスティラ\nで、では行きますね…！\n\n# textflame 0 0\n@\n照れ隠しで、\nつい咄嗟にクイズを出すと\n言ってしまった彼女\n\n@\nとにもかくにも、\n間違えるわけにはいかない…！\nと臨むマスターだった\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nわたしがコマンドされた\n『スクルド』は何の一人か\n知っていますか？\n\n# se \"SE_0734\"\n# select \"三女神ノルン\" \"select_label_1\" \"三女神ヴァルス\" \"select_label_2\" \"三女神ボン\" \"select_label_3\"\nわたしがコマンドされた\n『スクルド』は何の一人か\n知っていますか？\n"
+	},
+	{
+		"ID": 6079,
+		"unitID": 2503711,
+		"questionID": 9503707,
+		"script": ";;本,2\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 550371 \"logistille_c_0002\"\n@ロジェスティラ\nあのあのっ…！\n\n@ロジェスティラ\n今日は誘って下さって、\nありがとうございました…！\n\n# face %(unit_a)s \"sad\"\n# voice 550371 \"logistille_c_0028\"\n@ロジェスティラ\nで、でもでも…\n\n@ロジェスティラ\n綺麗な方々がいっぱいなのに、\nどうしてわたしなんかを……？\n\n# textflame 0 0\n@\n自信のない物言いをする彼女に、\n君と一緒ですごく楽しかったよ\nと答えるマスター\n\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 550371 \"logistille_c_0021\"\n@ロジェスティラ\nほ、本当ですか…！？\n\n@ロジェスティラ\nで、でしたらわたしのこと、\nどれくらい知っているか…\nクイズを出してもいいですか…！？\n\n@ロジェスティラ\nで、では行きますね…！\n\n# textflame 0 0\n@\n照れ隠しで、\nつい咄嗟にクイズを出すと\n言ってしまった彼女\n\n@\nとにもかくにも、\n間違えるわけにはいかない…！\nと臨むマスターだった\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nわたしのキラーズは\n魔女ロジェスティラが\n持っていた何でしょうか？\n\n# se \"SE_0734\"\n# select \"杖\" \"select_label_1\" \"本\" \"select_label_2\" \"ほうき\" \"select_label_3\"\nわたしのキラーズは\n魔女ロジェスティラが\n持っていた何でしょうか？\n"
+	},
+	{
+		"ID": 6080,
+		"unitID": 2503711,
+		"questionID": 9503708,
+		"script": ";;善の魔女,2\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 550371 \"logistille_c_0002\"\n@ロジェスティラ\nあのあのっ…！\n\n@ロジェスティラ\n今日は誘って下さって、\nありがとうございました…！\n\n# face %(unit_a)s \"sad\"\n# voice 550371 \"logistille_c_0028\"\n@ロジェスティラ\nで、でもでも…\n\n@ロジェスティラ\n綺麗な方々がいっぱいなのに、\nどうしてわたしなんかを……？\n\n# textflame 0 0\n@\n自信のない物言いをする彼女に、\n君と一緒ですごく楽しかったよ\nと答えるマスター\n\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 550371 \"logistille_c_0021\"\n@ロジェスティラ\nほ、本当ですか…！？\n\n@ロジェスティラ\nで、でしたらわたしのこと、\nどれくらい知っているか…\nクイズを出してもいいですか…！？\n\n@ロジェスティラ\nで、では行きますね…！\n\n# textflame 0 0\n@\n照れ隠しで、\nつい咄嗟にクイズを出すと\n言ってしまった彼女\n\n@\nとにもかくにも、\n間違えるわけにはいかない…！\nと臨むマスターだった\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nわたしのキラーズを持っていた\nロジェスティラは\nどんな魔女でしょうか？\n\n# se \"SE_0734\"\n# select \"腐敗の魔女\" \"select_label_1\" \"善の魔女\" \"select_label_2\" \"西の魔女\" \"select_label_3\"\nわたしのキラーズを持っていた\nロジェスティラは\nどんな魔女でしょうか？\n"
+	},
+	{
+		"ID": 6081,
+		"unitID": 2503711,
+		"questionID": 9503709,
+		"script": ";;コマンドキラーズ,1\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 550371 \"logistille_c_0002\"\n@ロジェスティラ\nあのあのっ…！\n\n@ロジェスティラ\n今日は誘って下さって、\nありがとうございました…！\n\n# face %(unit_a)s \"sad\"\n# voice 550371 \"logistille_c_0028\"\n@ロジェスティラ\nで、でもでも…\n\n@ロジェスティラ\n綺麗な方々がいっぱいなのに、\nどうしてわたしなんかを……？\n\n# textflame 0 0\n@\n自信のない物言いをする彼女に、\n君と一緒ですごく楽しかったよ\nと答えるマスター\n\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 550371 \"logistille_c_0021\"\n@ロジェスティラ\nほ、本当ですか…！？\n\n@ロジェスティラ\nで、でしたらわたしのこと、\nどれくらい知っているか…\nクイズを出してもいいですか…！？\n\n@ロジェスティラ\nで、では行きますね…！\n\n# textflame 0 0\n@\n照れ隠しで、\nつい咄嗟にクイズを出すと\n言ってしまった彼女\n\n@\nとにもかくにも、\n間違えるわけにはいかない…！\nと臨むマスターだった\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nわたしはこれの一員なんです\n\n# se \"SE_0734\"\n# select \"コマンドキラーズ\" \"select_label_1\" \"エンシェントキラーズ\" \"select_label_2\" \"イミテイトキラーズ\" \"select_label_3\"\nわたしはこれの一員なんです\n"
+	},
+	{
+		"ID": 6082,
+		"unitID": 2503711,
+		"questionID": 9503710,
+		"script": ";;シャルルマーニュ十二勇士,2\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 550371 \"logistille_c_0002\"\n@ロジェスティラ\nあのあのっ…！\n\n@ロジェスティラ\n今日は誘って下さって、\nありがとうございました…！\n\n# face %(unit_a)s \"sad\"\n# voice 550371 \"logistille_c_0028\"\n@ロジェスティラ\nで、でもでも…\n\n@ロジェスティラ\n綺麗な方々がいっぱいなのに、\nどうしてわたしなんかを……？\n\n# textflame 0 0\n@\n自信のない物言いをする彼女に、\n君と一緒ですごく楽しかったよ\nと答えるマスター\n\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 550371 \"logistille_c_0021\"\n@ロジェスティラ\nほ、本当ですか…！？\n\n@ロジェスティラ\nで、でしたらわたしのこと、\nどれくらい知っているか…\nクイズを出してもいいですか…！？\n\n@ロジェスティラ\nで、では行きますね…！\n\n# textflame 0 0\n@\n照れ隠しで、\nつい咄嗟にクイズを出すと\n言ってしまった彼女\n\n@\nとにもかくにも、\n間違えるわけにはいかない…！\nと臨むマスターだった\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nわたしのキラーズの元となった本\nロジェスティラを与えられた\nアストルフォは何の一人でしょうか？\n\n# se \"SE_0734\"\n# select \"ボンジュール十三勇士\" \"select_label_1\" \"シャルルマーニュ十二勇士\" \"select_label_2\" \"エレルファイン十勇士\" \"select_label_3\"\nわたしのキラーズの元となった本\nロジェスティラを与えられた\nアストルフォは何の一人でしょうか？\n"
+	},
+	{
+		"ID": 6083,
+		"unitID": 2503711,
+		"questionID": 9503711,
+		"script": ";;炎,3\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n@ロジェスティラ\n………\n\n# textflame 0 0\n@\nぼぉっとなにかを眺めている彼女\n\n# textflame 1 1\n@ロジェスティラ\n夏の日差しに照らされている\nお兄さま…\n\n# voice 550371 \"logistille_c_0004\"\n@ロジェスティラ\n素敵です…\n\n# textflame 0 0\n@\nえ？今、なんて言ったの？\nと尋ねるマスター\n\n# textflame 1 1\n# face %(unit_a)s \"surprise\"\n# voice 550371 \"logistille_c_0023\"\n@ロジェスティラ\nあっ、いえそのっ、\nなんでもありません…っ！\n\n@ロジェスティラ\nそ、それよりっ…\nクイズをしませんか？\n\n# face %(unit_a)s \"normal\"\n# voice 550371 \"logistille_c_0005\"\n@ロジェスティラ\nそれに正解できたら\nなんでもひとつ、\nご質問にお答えしますっ…！\n\n@ロジェスティラ\nそれでは、いきますよ！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしの属性は知っていますか？\n\n# se \"SE_0734\"\n# select \"風\" \"select_label_1\" \"水\" \"select_label_2\" \"炎\" \"select_label_3\"\nわたしの属性は知っていますか？\n"
+	},
+	{
+		"ID": 6084,
+		"unitID": 2503711,
+		"questionID": 9503712,
+		"script": ";;152cm ,2\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n@ロジェスティラ\n………\n\n# textflame 0 0\n@\nぼぉっとなにかを眺めている彼女\n\n# textflame 1 1\n@ロジェスティラ\n夏の日差しに照らされている\nお兄さま…\n\n# voice 550371 \"logistille_c_0004\"\n@ロジェスティラ\n素敵です…\n\n# textflame 0 0\n@\nえ？今、なんて言ったの？\nと尋ねるマスター\n\n# textflame 1 1\n# face %(unit_a)s \"surprise\"\n# voice 550371 \"logistille_c_0023\"\n@ロジェスティラ\nあっ、いえそのっ、\nなんでもありません…っ！\n\n@ロジェスティラ\nそ、それよりっ…\nクイズをしませんか？\n\n# face %(unit_a)s \"normal\"\n# voice 550371 \"logistille_c_0005\"\n@ロジェスティラ\nそれに正解できたら\nなんでもひとつ、\nご質問にお答えしますっ…！\n\n@ロジェスティラ\nそれでは、いきますよ！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしの身長は何センチか\nわかりますか？\n\n# se \"SE_0734\"\n# select \"155cm\" \"select_label_1\" \"152cm \" \"select_label_2\" \"160cm\" \"select_label_3\"\nわたしの身長は何センチか\nわかりますか？\n"
+	},
+	{
+		"ID": 6085,
+		"unitID": 2503711,
+		"questionID": 9503713,
+		"script": ";;9月20日,3\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n@ロジェスティラ\n………\n\n# textflame 0 0\n@\nぼぉっとなにかを眺めている彼女\n\n# textflame 1 1\n@ロジェスティラ\n夏の日差しに照らされている\nお兄さま…\n\n# voice 550371 \"logistille_c_0004\"\n@ロジェスティラ\n素敵です…\n\n# textflame 0 0\n@\nえ？今、なんて言ったの？\nと尋ねるマスター\n\n# textflame 1 1\n# face %(unit_a)s \"surprise\"\n# voice 550371 \"logistille_c_0023\"\n@ロジェスティラ\nあっ、いえそのっ、\nなんでもありません…っ！\n\n@ロジェスティラ\nそ、それよりっ…\nクイズをしませんか？\n\n# face %(unit_a)s \"normal\"\n# voice 550371 \"logistille_c_0005\"\n@ロジェスティラ\nそれに正解できたら\nなんでもひとつ、\nご質問にお答えしますっ…！\n\n@ロジェスティラ\nそれでは、いきますよ！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしの誕生日はご存じですか？\n\n# se \"SE_0734\"\n# select \"9月23日\" \"select_label_1\" \"9月14日\" \"select_label_2\" \"9月20日\" \"select_label_3\"\nわたしの誕生日はご存じですか？\n"
+	},
+	{
+		"ID": 6086,
+		"unitID": 2503711,
+		"questionID": 9503714,
+		"script": ";;乙女座,3\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n@ロジェスティラ\n………\n\n# textflame 0 0\n@\nぼぉっとなにかを眺めている彼女\n\n# textflame 1 1\n@ロジェスティラ\n夏の日差しに照らされている\nお兄さま…\n\n# voice 550371 \"logistille_c_0004\"\n@ロジェスティラ\n素敵です…\n\n# textflame 0 0\n@\nえ？今、なんて言ったの？\nと尋ねるマスター\n\n# textflame 1 1\n# face %(unit_a)s \"surprise\"\n# voice 550371 \"logistille_c_0023\"\n@ロジェスティラ\nあっ、いえそのっ、\nなんでもありません…っ！\n\n@ロジェスティラ\nそ、それよりっ…\nクイズをしませんか？\n\n# face %(unit_a)s \"normal\"\n# voice 550371 \"logistille_c_0005\"\n@ロジェスティラ\nそれに正解できたら\nなんでもひとつ、\nご質問にお答えしますっ…！\n\n@ロジェスティラ\nそれでは、いきますよ！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしの星座はご存じですか？\n\n# se \"SE_0734\"\n# select \"射手座\" \"select_label_1\" \"双子座\" \"select_label_2\" \"乙女座\" \"select_label_3\"\nわたしの星座はご存じですか？\n"
+	},
+	{
+		"ID": 6087,
+		"unitID": 2503711,
+		"questionID": 9503715,
+		"script": ";;美しいもの,3\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n@ロジェスティラ\n………\n\n# textflame 0 0\n@\nぼぉっとなにかを眺めている彼女\n\n# textflame 1 1\n@ロジェスティラ\n夏の日差しに照らされている\nお兄さま…\n\n# voice 550371 \"logistille_c_0004\"\n@ロジェスティラ\n素敵です…\n\n# textflame 0 0\n@\nえ？今、なんて言ったの？\nと尋ねるマスター\n\n# textflame 1 1\n# face %(unit_a)s \"surprise\"\n# voice 550371 \"logistille_c_0023\"\n@ロジェスティラ\nあっ、いえそのっ、\nなんでもありません…っ！\n\n@ロジェスティラ\nそ、それよりっ…\nクイズをしませんか？\n\n# face %(unit_a)s \"normal\"\n# voice 550371 \"logistille_c_0005\"\n@ロジェスティラ\nそれに正解できたら\nなんでもひとつ、\nご質問にお答えしますっ…！\n\n@ロジェスティラ\nそれでは、いきますよ！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしが好きなものは\nご存じでしょうか…？\n\n# se \"SE_0734\"\n# select \"美味しいもの\" \"select_label_1\" \"暗い色のもの\" \"select_label_2\" \"美しいもの\" \"select_label_3\"\nわたしが好きなものは\nご存じでしょうか…？\n"
+	},
+	{
+		"ID": 6088,
+		"unitID": 2503711,
+		"questionID": 9503716,
+		"script": ";;恋バナ,1\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n@ロジェスティラ\n………\n\n# textflame 0 0\n@\nぼぉっとなにかを眺めている彼女\n\n# textflame 1 1\n@ロジェスティラ\n夏の日差しに照らされている\nお兄さま…\n\n# voice 550371 \"logistille_c_0004\"\n@ロジェスティラ\n素敵です…\n\n# textflame 0 0\n@\nえ？今、なんて言ったの？\nと尋ねるマスター\n\n# textflame 1 1\n# face %(unit_a)s \"surprise\"\n# voice 550371 \"logistille_c_0023\"\n@ロジェスティラ\nあっ、いえそのっ、\nなんでもありません…っ！\n\n@ロジェスティラ\nそ、それよりっ…\nクイズをしませんか？\n\n# face %(unit_a)s \"normal\"\n# voice 550371 \"logistille_c_0005\"\n@ロジェスティラ\nそれに正解できたら\nなんでもひとつ、\nご質問にお答えしますっ…！\n\n@ロジェスティラ\nそれでは、いきますよ！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしが好きなものは\n何かご存じですか…？\n\n# se \"SE_0734\"\n# select \"恋バナ\" \"select_label_1\" \"噂話\" \"select_label_2\" \"小噺\" \"select_label_3\"\nわたしが好きなものは\n何かご存じですか…？\n"
+	},
+	{
+		"ID": 6089,
+		"unitID": 2503711,
+		"questionID": 9503717,
+		"script": ";;Ａ型,3\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n@ロジェスティラ\n………\n\n# textflame 0 0\n@\nぼぉっとなにかを眺めている彼女\n\n# textflame 1 1\n@ロジェスティラ\n夏の日差しに照らされている\nお兄さま…\n\n# voice 550371 \"logistille_c_0004\"\n@ロジェスティラ\n素敵です…\n\n# textflame 0 0\n@\nえ？今、なんて言ったの？\nと尋ねるマスター\n\n# textflame 1 1\n# face %(unit_a)s \"surprise\"\n# voice 550371 \"logistille_c_0023\"\n@ロジェスティラ\nあっ、いえそのっ、\nなんでもありません…っ！\n\n@ロジェスティラ\nそ、それよりっ…\nクイズをしませんか？\n\n# face %(unit_a)s \"normal\"\n# voice 550371 \"logistille_c_0005\"\n@ロジェスティラ\nそれに正解できたら\nなんでもひとつ、\nご質問にお答えしますっ…！\n\n@ロジェスティラ\nそれでは、いきますよ！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしの血液型は\nご存じですか？\n\n# se \"SE_0734\"\n# select \"ＡＢ型\" \"select_label_1\" \"Ｏ型\" \"select_label_2\" \"Ａ型\" \"select_label_3\"\nわたしの血液型は\nご存じですか？\n"
+	},
+	{
+		"ID": 6090,
+		"unitID": 2503711,
+		"questionID": 9503718,
+		"script": ";;フランス,1\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n@ロジェスティラ\n………\n\n# textflame 0 0\n@\nぼぉっとなにかを眺めている彼女\n\n# textflame 1 1\n@ロジェスティラ\n夏の日差しに照らされている\nお兄さま…\n\n# voice 550371 \"logistille_c_0004\"\n@ロジェスティラ\n素敵です…\n\n# textflame 0 0\n@\nえ？今、なんて言ったの？\nと尋ねるマスター\n\n# textflame 1 1\n# face %(unit_a)s \"surprise\"\n# voice 550371 \"logistille_c_0023\"\n@ロジェスティラ\nあっ、いえそのっ、\nなんでもありません…っ！\n\n@ロジェスティラ\nそ、それよりっ…\nクイズをしませんか？\n\n# face %(unit_a)s \"normal\"\n# voice 550371 \"logistille_c_0005\"\n@ロジェスティラ\nそれに正解できたら\nなんでもひとつ、\nご質問にお答えしますっ…！\n\n@ロジェスティラ\nそれでは、いきますよ！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしの出身地は\nどこかご存じですか？\n\n# se \"SE_0734\"\n# select \"フランス\" \"select_label_1\" \"アメリカ\" \"select_label_2\" \"中国\" \"select_label_3\"\nわたしの出身地は\nどこかご存じですか？\n"
+	},
+	{
+		"ID": 6091,
+		"unitID": 2503711,
+		"questionID": 9503719,
+		"script": ";;魔術の研究,1\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n@ロジェスティラ\n………\n\n# textflame 0 0\n@\nぼぉっとなにかを眺めている彼女\n\n# textflame 1 1\n@ロジェスティラ\n夏の日差しに照らされている\nお兄さま…\n\n# voice 550371 \"logistille_c_0004\"\n@ロジェスティラ\n素敵です…\n\n# textflame 0 0\n@\nえ？今、なんて言ったの？\nと尋ねるマスター\n\n# textflame 1 1\n# face %(unit_a)s \"surprise\"\n# voice 550371 \"logistille_c_0023\"\n@ロジェスティラ\nあっ、いえそのっ、\nなんでもありません…っ！\n\n@ロジェスティラ\nそ、それよりっ…\nクイズをしませんか？\n\n# face %(unit_a)s \"normal\"\n# voice 550371 \"logistille_c_0005\"\n@ロジェスティラ\nそれに正解できたら\nなんでもひとつ、\nご質問にお答えしますっ…！\n\n@ロジェスティラ\nそれでは、いきますよ！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしの趣味はご存じですか？\n\n# se \"SE_0734\"\n# select \"魔術の研究\" \"select_label_1\" \"爬虫類の研究\" \"select_label_2\" \"世界史の研究\" \"select_label_3\"\nわたしの趣味はご存じですか？\n"
+	},
+	{
+		"ID": 6092,
+		"unitID": 2503711,
+		"questionID": 9503720,
+		"script": ";;占い,1\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n@ロジェスティラ\n………\n\n# textflame 0 0\n@\nぼぉっとなにかを眺めている彼女\n\n# textflame 1 1\n@ロジェスティラ\n夏の日差しに照らされている\nお兄さま…\n\n# voice 550371 \"logistille_c_0004\"\n@ロジェスティラ\n素敵です…\n\n# textflame 0 0\n@\nえ？今、なんて言ったの？\nと尋ねるマスター\n\n# textflame 1 1\n# face %(unit_a)s \"surprise\"\n# voice 550371 \"logistille_c_0023\"\n@ロジェスティラ\nあっ、いえそのっ、\nなんでもありません…っ！\n\n@ロジェスティラ\nそ、それよりっ…\nクイズをしませんか？\n\n# face %(unit_a)s \"normal\"\n# voice 550371 \"logistille_c_0005\"\n@ロジェスティラ\nそれに正解できたら\nなんでもひとつ、\nご質問にお答えしますっ…！\n\n@ロジェスティラ\nそれでは、いきますよ！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたし、これも趣味なんです！\n\n# se \"SE_0734\"\n# select \"占い\" \"select_label_1\" \"マッサージ\" \"select_label_2\" \"筋トレ\" \"select_label_3\"\nわたし、これも趣味なんです！\n"
+	},
+	{
+		"ID": 6093,
+		"unitID": 2503711,
+		"questionID": 9503721,
+		"script": ";;炎優神の共鳴,3\n# textflame 1 1\n# face %(unit_a)s \"surprise\"\n# voice 550371 \"logistille_c_0002\"\n@ロジェスティラ\nあ、あのあのっ…\n\n# textflame 0 0\n@\nそう言ったきり、\nもじもじしている彼女\n\n@\nどうしたの？\nマスターが尋ねると、\n\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 550371 \"logistille_c_0028\"\n@ロジェスティラ\nいえ、あの…\n\n@ロジェスティラ\nわ、わたしのお願い、\n聞いてくれますか…？\n\n@ロジェスティラ\nいえ…！やっぱり悪いので、\nいいです…っ！\n\n# textflame 0 0\n@\nううん、大丈夫だよ、\nとマスターが答えると…\n\n# textflame 1 1\n# face %(unit_a)s \"surprise\"\n# voice 550371 \"logistille_c_0003\"\n@ロジェスティラ\nで、では…クイズを出しますので、\nもし正解してもらえたら、\nお願いを聞いて頂きます…っ！\n\n@ロジェスティラ\nいきますよっ！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしの覚えるリーダースキルは\nご存じですか？\n\n# se \"SE_0734\"\n# select \"炎優神の強制\" \"select_label_1\" \"炎優神の共生\" \"select_label_2\" \"炎優神の共鳴\" \"select_label_3\"\nわたしの覚えるリーダースキルは\nご存じですか？\n"
+	},
+	{
+		"ID": 6094,
+		"unitID": 2503711,
+		"questionID": 9503722,
+		"script": ";;神威天元,3\n# textflame 1 1\n# face %(unit_a)s \"surprise\"\n# voice 550371 \"logistille_c_0002\"\n@ロジェスティラ\nあ、あのあのっ…\n\n# textflame 0 0\n@\nそう言ったきり、\nもじもじしている彼女\n\n@\nどうしたの？\nマスターが尋ねると、\n\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 550371 \"logistille_c_0028\"\n@ロジェスティラ\nいえ、あの…\n\n@ロジェスティラ\nわ、わたしのお願い、\n聞いてくれますか…？\n\n@ロジェスティラ\nいえ…！やっぱり悪いので、\nいいです…っ！\n\n# textflame 0 0\n@\nううん、大丈夫だよ、\nとマスターが答えると…\n\n# textflame 1 1\n# face %(unit_a)s \"surprise\"\n# voice 550371 \"logistille_c_0003\"\n@ロジェスティラ\nで、では…クイズを出しますので、\nもし正解してもらえたら、\nお願いを聞いて頂きます…っ！\n\n@ロジェスティラ\nいきますよっ！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしの覚えるスキルをご存じですか？\n\n# se \"SE_0734\"\n# select \"神威点検\" \"select_label_1\" \"神威宣言\" \"select_label_2\" \"神威天元\" \"select_label_3\"\nわたしの覚えるスキルをご存じですか？\n"
+	},
+	{
+		"ID": 6095,
+		"unitID": 2503711,
+		"questionID": 9503723,
+		"script": ";;心優しき必書,2\n# textflame 1 1\n# face %(unit_a)s \"surprise\"\n# voice 550371 \"logistille_c_0002\"\n@ロジェスティラ\nあ、あのあのっ…\n\n# textflame 0 0\n@\nそう言ったきり、\nもじもじしている彼女\n\n@\nどうしたの？\nマスターが尋ねると、\n\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 550371 \"logistille_c_0028\"\n@ロジェスティラ\nいえ、あの…\n\n@ロジェスティラ\nわ、わたしのお願い、\n聞いてくれますか…？\n\n@ロジェスティラ\nいえ…！やっぱり悪いので、\nいいです…っ！\n\n# textflame 0 0\n@\nううん、大丈夫だよ、\nとマスターが答えると…\n\n# textflame 1 1\n# face %(unit_a)s \"surprise\"\n# voice 550371 \"logistille_c_0003\"\n@ロジェスティラ\nで、では…クイズを出しますので、\nもし正解してもらえたら、\nお願いを聞いて頂きます…っ！\n\n@ロジェスティラ\nいきますよっ！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしの覚えるスキルをご存じですか？\n\n# se \"SE_0734\"\n# select \"礼儀正しき必書\" \"select_label_1\" \"心優しき必書\" \"select_label_2\" \"麗しき必書\" \"select_label_3\"\nわたしの覚えるスキルをご存じですか？\n"
+	},
+	{
+		"ID": 6096,
+		"unitID": 2503711,
+		"questionID": 9503724,
+		"script": ";;運命を司りし魔術,2\n# textflame 1 1\n# face %(unit_a)s \"surprise\"\n# voice 550371 \"logistille_c_0002\"\n@ロジェスティラ\nあ、あのあのっ…\n\n# textflame 0 0\n@\nそう言ったきり、\nもじもじしている彼女\n\n@\nどうしたの？\nマスターが尋ねると、\n\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 550371 \"logistille_c_0028\"\n@ロジェスティラ\nいえ、あの…\n\n@ロジェスティラ\nわ、わたしのお願い、\n聞いてくれますか…？\n\n@ロジェスティラ\nいえ…！やっぱり悪いので、\nいいです…っ！\n\n# textflame 0 0\n@\nううん、大丈夫だよ、\nとマスターが答えると…\n\n# textflame 1 1\n# face %(unit_a)s \"surprise\"\n# voice 550371 \"logistille_c_0003\"\n@ロジェスティラ\nで、では…クイズを出しますので、\nもし正解してもらえたら、\nお願いを聞いて頂きます…っ！\n\n@ロジェスティラ\nいきますよっ！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしの覚えるスキルをご存じですか？\n\n# se \"SE_0734\"\n# select \"時を司りし魔術\" \"select_label_1\" \"運命を司りし魔術\" \"select_label_2\" \"肉を司りし魔術\" \"select_label_3\"\nわたしの覚えるスキルをご存じですか？\n"
+	},
+	{
+		"ID": 6097,
+		"unitID": 2503711,
+		"questionID": 9503725,
+		"script": ";;蒼の再跳,3\n# textflame 1 1\n# face %(unit_a)s \"surprise\"\n# voice 550371 \"logistille_c_0002\"\n@ロジェスティラ\nあ、あのあのっ…\n\n# textflame 0 0\n@\nそう言ったきり、\nもじもじしている彼女\n\n@\nどうしたの？\nマスターが尋ねると、\n\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 550371 \"logistille_c_0028\"\n@ロジェスティラ\nいえ、あの…\n\n@ロジェスティラ\nわ、わたしのお願い、\n聞いてくれますか…？\n\n@ロジェスティラ\nいえ…！やっぱり悪いので、\nいいです…っ！\n\n# textflame 0 0\n@\nううん、大丈夫だよ、\nとマスターが答えると…\n\n# textflame 1 1\n# face %(unit_a)s \"surprise\"\n# voice 550371 \"logistille_c_0003\"\n@ロジェスティラ\nで、では…クイズを出しますので、\nもし正解してもらえたら、\nお願いを聞いて頂きます…っ！\n\n@ロジェスティラ\nいきますよっ！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしの覚えるスキルをご存じですか？\n\n# se \"SE_0734\"\n# select \"銀色の再跳\" \"select_label_1\" \"青の再跳\" \"select_label_2\" \"蒼の再跳\" \"select_label_3\"\nわたしの覚えるスキルをご存じですか？\n"
+	},
+	{
+		"ID": 6098,
+		"unitID": 2503711,
+		"questionID": 9503726,
+		"script": ";;浄火の聖域,3\n# textflame 1 1\n# face %(unit_a)s \"surprise\"\n# voice 550371 \"logistille_c_0002\"\n@ロジェスティラ\nあ、あのあのっ…\n\n# textflame 0 0\n@\nそう言ったきり、\nもじもじしている彼女\n\n@\nどうしたの？\nマスターが尋ねると、\n\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 550371 \"logistille_c_0028\"\n@ロジェスティラ\nいえ、あの…\n\n@ロジェスティラ\nわ、わたしのお願い、\n聞いてくれますか…？\n\n@ロジェスティラ\nいえ…！やっぱり悪いので、\nいいです…っ！\n\n# textflame 0 0\n@\nううん、大丈夫だよ、\nとマスターが答えると…\n\n# textflame 1 1\n# face %(unit_a)s \"surprise\"\n# voice 550371 \"logistille_c_0003\"\n@ロジェスティラ\nで、では…クイズを出しますので、\nもし正解してもらえたら、\nお願いを聞いて頂きます…っ！\n\n@ロジェスティラ\nいきますよっ！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしの覚えるスキルをご存じですか？\n\n# se \"SE_0734\"\n# select \"業火の聖域\" \"select_label_1\" \"挽歌の聖域\" \"select_label_2\" \"浄火の聖域\" \"select_label_3\"\nわたしの覚えるスキルをご存じですか？\n"
+	},
+	{
+		"ID": 6099,
+		"unitID": 2503711,
+		"questionID": 9503727,
+		"script": ";;虚を導く神の終炎,1\n# textflame 1 1\n# face %(unit_a)s \"surprise\"\n# voice 550371 \"logistille_c_0002\"\n@ロジェスティラ\nあ、あのあのっ…\n\n# textflame 0 0\n@\nそう言ったきり、\nもじもじしている彼女\n\n@\nどうしたの？\nマスターが尋ねると、\n\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 550371 \"logistille_c_0028\"\n@ロジェスティラ\nいえ、あの…\n\n@ロジェスティラ\nわ、わたしのお願い、\n聞いてくれますか…？\n\n@ロジェスティラ\nいえ…！やっぱり悪いので、\nいいです…っ！\n\n# textflame 0 0\n@\nううん、大丈夫だよ、\nとマスターが答えると…\n\n# textflame 1 1\n# face %(unit_a)s \"surprise\"\n# voice 550371 \"logistille_c_0003\"\n@ロジェスティラ\nで、では…クイズを出しますので、\nもし正解してもらえたら、\nお願いを聞いて頂きます…っ！\n\n@ロジェスティラ\nいきますよっ！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしの覚えるデュエルスキルは\n知っていますか…？\n\n# se \"SE_0734\"\n# select \"虚を導く神の終炎\" \"select_label_1\" \"虚を導く神の終焉\" \"select_label_2\" \"虚を導く神の終電\" \"select_label_3\"\nわたしの覚えるデュエルスキルは\n知っていますか…？\n"
+	},
+	{
+		"ID": 6100,
+		"unitID": 2503711,
+		"questionID": 9503728,
+		"script": ";;樹令『浄火の調』,2\n# textflame 1 1\n# face %(unit_a)s \"surprise\"\n# voice 550371 \"logistille_c_0002\"\n@ロジェスティラ\nあ、あのあのっ…\n\n# textflame 0 0\n@\nそう言ったきり、\nもじもじしている彼女\n\n@\nどうしたの？\nマスターが尋ねると、\n\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 550371 \"logistille_c_0028\"\n@ロジェスティラ\nいえ、あの…\n\n@ロジェスティラ\nわ、わたしのお願い、\n聞いてくれますか…？\n\n@ロジェスティラ\nいえ…！やっぱり悪いので、\nいいです…っ！\n\n# textflame 0 0\n@\nううん、大丈夫だよ、\nとマスターが答えると…\n\n# textflame 1 1\n# face %(unit_a)s \"surprise\"\n# voice 550371 \"logistille_c_0003\"\n@ロジェスティラ\nで、では…クイズを出しますので、\nもし正解してもらえたら、\nお願いを聞いて頂きます…っ！\n\n@ロジェスティラ\nいきますよっ！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしの覚えるキャラクタースキルを\n知っていますか？\n\n# se \"SE_0734\"\n# select \"樹令『浄火の屍』\" \"select_label_1\" \"樹令『浄火の調』\" \"select_label_2\" \"樹令『浄火の平目』\" \"select_label_3\"\nわたしの覚えるキャラクタースキルを\n知っていますか？\n"
+	},
+	{
+		"ID": 6101,
+		"unitID": 2503711,
+		"questionID": 9503729,
+		"script": ";;反界障壁【浄火】,3\n# textflame 1 1\n# face %(unit_a)s \"surprise\"\n# voice 550371 \"logistille_c_0002\"\n@ロジェスティラ\nあ、あのあのっ…\n\n# textflame 0 0\n@\nそう言ったきり、\nもじもじしている彼女\n\n@\nどうしたの？\nマスターが尋ねると、\n\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 550371 \"logistille_c_0028\"\n@ロジェスティラ\nいえ、あの…\n\n@ロジェスティラ\nわ、わたしのお願い、\n聞いてくれますか…？\n\n@ロジェスティラ\nいえ…！やっぱり悪いので、\nいいです…っ！\n\n# textflame 0 0\n@\nううん、大丈夫だよ、\nとマスターが答えると…\n\n# textflame 1 1\n# face %(unit_a)s \"surprise\"\n# voice 550371 \"logistille_c_0003\"\n@ロジェスティラ\nで、では…クイズを出しますので、\nもし正解してもらえたら、\nお願いを聞いて頂きます…っ！\n\n@ロジェスティラ\nいきますよっ！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしが覚えるスキル…\nご存じですか？\n\n# se \"SE_0734\"\n# select \"反界障壁【消化】\" \"select_label_1\" \"反界障壁【投下】\" \"select_label_2\" \"反界障壁【浄火】\" \"select_label_3\"\nわたしが覚えるスキル…\nご存じですか？\n"
+	},
+	{
+		"ID": 6102,
+		"unitID": 2503711,
+		"questionID": 9503730,
+		"script": ";;浄火の蒼印,3\n# textflame 1 1\n# face %(unit_a)s \"surprise\"\n# voice 550371 \"logistille_c_0002\"\n@ロジェスティラ\nあ、あのあのっ…\n\n# textflame 0 0\n@\nそう言ったきり、\nもじもじしている彼女\n\n@\nどうしたの？\nマスターが尋ねると、\n\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 550371 \"logistille_c_0028\"\n@ロジェスティラ\nいえ、あの…\n\n@ロジェスティラ\nわ、わたしのお願い、\n聞いてくれますか…？\n\n@ロジェスティラ\nいえ…！やっぱり悪いので、\nいいです…っ！\n\n# textflame 0 0\n@\nううん、大丈夫だよ、\nとマスターが答えると…\n\n# textflame 1 1\n# face %(unit_a)s \"surprise\"\n# voice 550371 \"logistille_c_0003\"\n@ロジェスティラ\nで、では…クイズを出しますので、\nもし正解してもらえたら、\nお願いを聞いて頂きます…っ！\n\n@ロジェスティラ\nいきますよっ！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしが覚えるスキル…\nご存じですか？\n\n# se \"SE_0734\"\n# select \"浄化の蒼印\" \"select_label_1\" \"城下の蒼印\" \"select_label_2\" \"浄火の蒼印\" \"select_label_3\"\nわたしが覚えるスキル…\nご存じですか？\n"
+	},
+	{
+		"ID": 6103,
+		"unitID": 2503711,
+		"questionID": 9503731,
+		"script": ";;fortune‐telling,2\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 550371 \"logistille_c_0004\"\n@ロジェスティラ\n不思議です…\nまるで魔法にかけられたよう\n\n@ロジェスティラ\n昔は見ているだけで\n幸せだったのに…\n\n# face %(unit_a)s \"sad\"\n# voice 550371 \"logistille_c_0027\"\n@ロジェスティラ\nマスターさんといると、\nわたし…どんどん\n欲張りになってしまうんです…\n\n# face %(unit_a)s \"normal\"\n@ロジェスティラ\nもっと、わたしのことを\n知ってほしい…です\n\n# voice 550371 \"logistille_c_0001\"\n@ロジェスティラ\nあの、マスターさん\n\n@ロジェスティラ\nもっとわたしのこと\n知って欲しいので…\n\n@ロジェスティラ\n今からクイズを出しても\nいいですか…？\n\n# textflame 0 0\n@\nいいよ、と頷くと\nロジェスティラは\n嬉しそうに微笑む\n\n# voice 550371 \"logistille_c_0004\"\n# textflame 1 1\n@ロジェスティラ\nでは、いきますよ\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしの趣味の『占い』を英語で言うと？\n\n# se \"SE_0734\"\n# select \"fortune‐cookie\" \"select_label_1\" \"fortune‐telling\" \"select_label_2\" \"fortune‐selling\" \"select_label_3\"\nわたしの趣味の『占い』を英語で言うと？\n"
+	},
+	{
+		"ID": 6104,
+		"unitID": 2503711,
+		"questionID": 9503732,
+		"script": ";;September,3\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 550371 \"logistille_c_0004\"\n@ロジェスティラ\n不思議です…\nまるで魔法にかけられたよう\n\n@ロジェスティラ\n昔は見ているだけで\n幸せだったのに…\n\n# face %(unit_a)s \"sad\"\n# voice 550371 \"logistille_c_0027\"\n@ロジェスティラ\nマスターさんといると、\nわたし…どんどん\n欲張りになってしまうんです…\n\n# face %(unit_a)s \"normal\"\n@ロジェスティラ\nもっと、わたしのことを\n知ってほしい…です\n\n# voice 550371 \"logistille_c_0001\"\n@ロジェスティラ\nあの、マスターさん\n\n@ロジェスティラ\nもっとわたしのこと\n知って欲しいので…\n\n@ロジェスティラ\n今からクイズを出しても\nいいですか…？\n\n# textflame 0 0\n@\nいいよ、と頷くと\nロジェスティラは\n嬉しそうに微笑む\n\n# voice 550371 \"logistille_c_0004\"\n# textflame 1 1\n@ロジェスティラ\nでは、いきますよ\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしの誕生月を英語で言うと…？\n\n# se \"SE_0734\"\n# select \"January\" \"select_label_1\" \"November\" \"select_label_2\" \"September\" \"select_label_3\"\nわたしの誕生月を英語で言うと…？\n"
+	},
+	{
+		"ID": 6105,
+		"unitID": 2503711,
+		"questionID": 9503733,
+		"script": ";;アムルー,3\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 550371 \"logistille_c_0004\"\n@ロジェスティラ\n不思議です…\nまるで魔法にかけられたよう\n\n@ロジェスティラ\n昔は見ているだけで\n幸せだったのに…\n\n# face %(unit_a)s \"sad\"\n# voice 550371 \"logistille_c_0027\"\n@ロジェスティラ\nマスターさんといると、\nわたし…どんどん\n欲張りになってしまうんです…\n\n# face %(unit_a)s \"normal\"\n@ロジェスティラ\nもっと、わたしのことを\n知ってほしい…です\n\n# voice 550371 \"logistille_c_0001\"\n@ロジェスティラ\nあの、マスターさん\n\n@ロジェスティラ\nもっとわたしのこと\n知って欲しいので…\n\n@ロジェスティラ\n今からクイズを出しても\nいいですか…？\n\n# textflame 0 0\n@\nいいよ、と頷くと\nロジェスティラは\n嬉しそうに微笑む\n\n# voice 550371 \"logistille_c_0004\"\n# textflame 1 1\n@ロジェスティラ\nでは、いきますよ\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしは恋バナが好きなのですが\nフランス語で『恋人』は\n何というでしょうか？\n\n# se \"SE_0734\"\n# select \"アムロン\" \"select_label_1\" \"ラマン\" \"select_label_2\" \"アムルー\" \"select_label_3\"\nわたしは恋バナが好きなのですが\nフランス語で『恋人』は\n何というでしょうか？\n"
+	},
+	{
+		"ID": 6106,
+		"unitID": 2503711,
+		"questionID": 9503734,
+		"script": ";;オティヌス,1\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 550371 \"logistille_c_0004\"\n@ロジェスティラ\n不思議です…\nまるで魔法にかけられたよう\n\n@ロジェスティラ\n昔は見ているだけで\n幸せだったのに…\n\n# face %(unit_a)s \"sad\"\n# voice 550371 \"logistille_c_0027\"\n@ロジェスティラ\nマスターさんといると、\nわたし…どんどん\n欲張りになってしまうんです…\n\n# face %(unit_a)s \"normal\"\n@ロジェスティラ\nもっと、わたしのことを\n知ってほしい…です\n\n# voice 550371 \"logistille_c_0001\"\n@ロジェスティラ\nあの、マスターさん\n\n@ロジェスティラ\nもっとわたしのこと\n知って欲しいので…\n\n@ロジェスティラ\n今からクイズを出しても\nいいですか…？\n\n# textflame 0 0\n@\nいいよ、と頷くと\nロジェスティラは\n嬉しそうに微笑む\n\n# voice 550371 \"logistille_c_0004\"\n# textflame 1 1\n@ロジェスティラ\nでは、いきますよ\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしと誕生月が同じなのは\n誰かわかりますか？\n\n# se \"SE_0734\"\n# select \"オティヌス\" \"select_label_1\" \"アロンダイト\" \"select_label_2\" \"ウコンバサラ\" \"select_label_3\"\nわたしと誕生月が同じなのは\n誰かわかりますか？\n"
+	},
+	{
+		"ID": 6107,
+		"unitID": 2503711,
+		"questionID": 9503735,
+		"script": ";;Virgo,2\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 550371 \"logistille_c_0004\"\n@ロジェスティラ\n不思議です…\nまるで魔法にかけられたよう\n\n@ロジェスティラ\n昔は見ているだけで\n幸せだったのに…\n\n# face %(unit_a)s \"sad\"\n# voice 550371 \"logistille_c_0027\"\n@ロジェスティラ\nマスターさんといると、\nわたし…どんどん\n欲張りになってしまうんです…\n\n# face %(unit_a)s \"normal\"\n@ロジェスティラ\nもっと、わたしのことを\n知ってほしい…です\n\n# voice 550371 \"logistille_c_0001\"\n@ロジェスティラ\nあの、マスターさん\n\n@ロジェスティラ\nもっとわたしのこと\n知って欲しいので…\n\n@ロジェスティラ\n今からクイズを出しても\nいいですか…？\n\n# textflame 0 0\n@\nいいよ、と頷くと\nロジェスティラは\n嬉しそうに微笑む\n\n# voice 550371 \"logistille_c_0004\"\n# textflame 1 1\n@ロジェスティラ\nでは、いきますよ\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしの星座を英語で言うと？\n\n# se \"SE_0734\"\n# select \"Cancer\" \"select_label_1\" \"Virgo\" \"select_label_2\" \"Aquarius\" \"select_label_3\"\nわたしの星座を英語で言うと？\n"
+	},
+	{
+		"ID": 6108,
+		"unitID": 2503711,
+		"questionID": 9503736,
+		"script": ";;素敵,3\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 550371 \"logistille_c_0004\"\n@ロジェスティラ\n不思議です…\nまるで魔法にかけられたよう\n\n@ロジェスティラ\n昔は見ているだけで\n幸せだったのに…\n\n# face %(unit_a)s \"sad\"\n# voice 550371 \"logistille_c_0027\"\n@ロジェスティラ\nマスターさんといると、\nわたし…どんどん\n欲張りになってしまうんです…\n\n# face %(unit_a)s \"normal\"\n@ロジェスティラ\nもっと、わたしのことを\n知ってほしい…です\n\n# voice 550371 \"logistille_c_0001\"\n@ロジェスティラ\nあの、マスターさん\n\n@ロジェスティラ\nもっとわたしのこと\n知って欲しいので…\n\n@ロジェスティラ\n今からクイズを出しても\nいいですか…？\n\n# textflame 0 0\n@\nいいよ、と頷くと\nロジェスティラは\n嬉しそうに微笑む\n\n# voice 550371 \"logistille_c_0004\"\n# textflame 1 1\n@ロジェスティラ\nでは、いきますよ\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしの口癖はわかりますか？\n\n# se \"SE_0734\"\n# select \"マジで？\" \"select_label_1\" \"ビューティホ\" \"select_label_2\" \"素敵\" \"select_label_3\"\nわたしの口癖はわかりますか？\n"
+	},
+	{
+		"ID": 6109,
+		"unitID": 2503711,
+		"questionID": 9503737,
+		"script": ";;ソルシエール,3\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 550371 \"logistille_c_0004\"\n@ロジェスティラ\n不思議です…\nまるで魔法にかけられたよう\n\n@ロジェスティラ\n昔は見ているだけで\n幸せだったのに…\n\n# face %(unit_a)s \"sad\"\n# voice 550371 \"logistille_c_0027\"\n@ロジェスティラ\nマスターさんといると、\nわたし…どんどん\n欲張りになってしまうんです…\n\n# face %(unit_a)s \"normal\"\n@ロジェスティラ\nもっと、わたしのことを\n知ってほしい…です\n\n# voice 550371 \"logistille_c_0001\"\n@ロジェスティラ\nあの、マスターさん\n\n@ロジェスティラ\nもっとわたしのこと\n知って欲しいので…\n\n@ロジェスティラ\n今からクイズを出しても\nいいですか…？\n\n# textflame 0 0\n@\nいいよ、と頷くと\nロジェスティラは\n嬉しそうに微笑む\n\n# voice 550371 \"logistille_c_0004\"\n# textflame 1 1\n@ロジェスティラ\nでは、いきますよ\n;;---------------------------------\n\n@%(unitName:unit_a)s\n「魔女」はフランス語で\n何というでしょうか？\n\n# se \"SE_0734\"\n# select \"ウィッチ\" \"select_label_1\" \"マギサ\" \"select_label_2\" \"ソルシエール\" \"select_label_3\"\n「魔女」はフランス語で\n何というでしょうか？\n"
+	},
+	{
+		"ID": 6110,
+		"unitID": 2503711,
+		"questionID": 9503738,
+		"script": ";;ミネルヴァ,3\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 550371 \"logistille_c_0004\"\n@ロジェスティラ\n不思議です…\nまるで魔法にかけられたよう\n\n@ロジェスティラ\n昔は見ているだけで\n幸せだったのに…\n\n# face %(unit_a)s \"sad\"\n# voice 550371 \"logistille_c_0027\"\n@ロジェスティラ\nマスターさんといると、\nわたし…どんどん\n欲張りになってしまうんです…\n\n# face %(unit_a)s \"normal\"\n@ロジェスティラ\nもっと、わたしのことを\n知ってほしい…です\n\n# voice 550371 \"logistille_c_0001\"\n@ロジェスティラ\nあの、マスターさん\n\n@ロジェスティラ\nもっとわたしのこと\n知って欲しいので…\n\n@ロジェスティラ\n今からクイズを出しても\nいいですか…？\n\n# textflame 0 0\n@\nいいよ、と頷くと\nロジェスティラは\n嬉しそうに微笑む\n\n# voice 550371 \"logistille_c_0004\"\n# textflame 1 1\n@ロジェスティラ\nでは、いきますよ\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしと同じ血液型なのは？\n\n# se \"SE_0734\"\n# select \"ロンギヌス\" \"select_label_1\" \"エルキュール\" \"select_label_2\" \"ミネルヴァ\" \"select_label_3\"\nわたしと同じ血液型なのは？\n"
+	},
+	{
+		"ID": 6111,
+		"unitID": 2503711,
+		"questionID": 9503739,
+		"script": ";;シユウ,2\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 550371 \"logistille_c_0004\"\n@ロジェスティラ\n不思議です…\nまるで魔法にかけられたよう\n\n@ロジェスティラ\n昔は見ているだけで\n幸せだったのに…\n\n# face %(unit_a)s \"sad\"\n# voice 550371 \"logistille_c_0027\"\n@ロジェスティラ\nマスターさんといると、\nわたし…どんどん\n欲張りになってしまうんです…\n\n# face %(unit_a)s \"normal\"\n@ロジェスティラ\nもっと、わたしのことを\n知ってほしい…です\n\n# voice 550371 \"logistille_c_0001\"\n@ロジェスティラ\nあの、マスターさん\n\n@ロジェスティラ\nもっとわたしのこと\n知って欲しいので…\n\n@ロジェスティラ\n今からクイズを出しても\nいいですか…？\n\n# textflame 0 0\n@\nいいよ、と頷くと\nロジェスティラは\n嬉しそうに微笑む\n\n# voice 550371 \"logistille_c_0004\"\n# textflame 1 1\n@ロジェスティラ\nでは、いきますよ\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしと違う血液型なのは\n誰かわかるでしょうか？\n\n# se \"SE_0734\"\n# select \"アスカロン\" \"select_label_1\" \"シユウ\" \"select_label_2\" \"フォルカス\" \"select_label_3\"\nわたしと違う血液型なのは\n誰かわかるでしょうか？\n"
+	},
+	{
+		"ID": 6112,
+		"unitID": 2503711,
+		"questionID": 9503740,
+		"script": ";;ティファレト,2\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 550371 \"logistille_c_0004\"\n@ロジェスティラ\n不思議です…\nまるで魔法にかけられたよう\n\n@ロジェスティラ\n昔は見ているだけで\n幸せだったのに…\n\n# face %(unit_a)s \"sad\"\n# voice 550371 \"logistille_c_0027\"\n@ロジェスティラ\nマスターさんといると、\nわたし…どんどん\n欲張りになってしまうんです…\n\n# face %(unit_a)s \"normal\"\n@ロジェスティラ\nもっと、わたしのことを\n知ってほしい…です\n\n# voice 550371 \"logistille_c_0001\"\n@ロジェスティラ\nあの、マスターさん\n\n@ロジェスティラ\nもっとわたしのこと\n知って欲しいので…\n\n@ロジェスティラ\n今からクイズを出しても\nいいですか…？\n\n# textflame 0 0\n@\nいいよ、と頷くと\nロジェスティラは\n嬉しそうに微笑む\n\n# voice 550371 \"logistille_c_0004\"\n# textflame 1 1\n@ロジェスティラ\nでは、いきますよ\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしと違う誕生月なのは\n誰かわかるでしょうか？\n\n# se \"SE_0734\"\n# select \"オティヌス\" \"select_label_1\" \"ティファレト\" \"select_label_2\" \"レーヴァテイン\" \"select_label_3\"\nわたしと違う誕生月なのは\n誰かわかるでしょうか？\n"
+	},
+	{
+		"ID": 6113,
+		"unitID": 2503711,
+		"questionID": 9503741,
+		"script": "\n;;わたし,2\n# se \"SE_0734\"\n# select \"あたし\" \"select_label_1\" \"わたし\" \"select_label_2\" \"ウチ\" \"select_label_3\"\nロジェスティラの一人称は\n次のうちどれ？\n"
+	},
+	{
+		"ID": 6114,
+		"unitID": 2503711,
+		"questionID": 9503742,
+		"script": "\n;;マスターさん,2\n# se \"SE_0734\"\n# select \"主様\" \"select_label_1\" \"マスターさん\" \"select_label_2\" \"御屋形様\" \"select_label_3\"\nロジェスティラはあなたのこと、\nなんて呼んでる？\n"
+	},
+	{
+		"ID": 6115,
+		"unitID": 2503711,
+		"questionID": 9503743,
+		"script": "\n;;83cm,3\n# se \"SE_0734\"\n# select \"85cm\" \"select_label_1\" \"90cm\" \"select_label_2\" \"83cm\" \"select_label_3\"\nロジェスティラの\nバストサイズがどのくらいか\nあなたは知ってるの？\n"
+	},
+	{
+		"ID": 6116,
+		"unitID": 2503711,
+		"questionID": 9503744,
+		"script": "\n;;56cm,3\n# se \"SE_0734\"\n# select \"60cm\" \"select_label_1\" \"58cm\" \"select_label_2\" \"56cm\" \"select_label_3\"\nロジェスティラの\nウエストサイズがどのくらいか\nあなたは知ってるの？\n"
+	},
+	{
+		"ID": 6117,
+		"unitID": 2503711,
+		"questionID": 9503745,
+		"script": "\n;;82cm,1\n# se \"SE_0734\"\n# select \"82cm\" \"select_label_1\" \"85cm\" \"select_label_2\" \"89cm\" \"select_label_3\"\nロジェスティラの\nヒップサイズがどのくらいか\nあなたは知ってるの？\n"
+	},
+	{
+		"ID": 6118,
+		"unitID": 2503711,
+		"questionID": 9503746,
+		"script": "\n;;44㎏,1\n# se \"SE_0734\"\n# select \"44㎏\" \"select_label_1\" \"50kg\" \"select_label_2\" \"52kg\" \"select_label_3\"\nロジェスティラの体重は\n次のうちどれ？\n"
+	},
+	{
+		"ID": 6119,
+		"unitID": 2503711,
+		"questionID": 9503747,
+		"script": "\n;;221,1\n# se \"SE_0734\"\n# select \"221\" \"select_label_1\" \"230\" \"select_label_2\" \"238\" \"select_label_3\"\nロジェスティラの\nバスト＋ウエスト＋ヒップは\nいくつかわかる？\n"
+	},
+	{
+		"ID": 6120,
+		"unitID": 2503711,
+		"questionID": 9503748,
+		"script": "\n;;赤紫,1\n# se \"SE_0734\"\n# select \"赤紫\" \"select_label_1\" \"ピンク\" \"select_label_2\" \"黄色\" \"select_label_3\"\nロジェスティラの髪の色は\n次のうちどれ？\n"
+	},
+	{
+		"ID": 6121,
+		"unitID": 2503711,
+		"questionID": 9503749,
+		"script": "\n;;参加していない,1\n# se \"SE_0734\"\n# select \"参加していない\" \"select_label_1\" \"８位\" \"select_label_2\" \"15位\" \"select_label_3\"\nロジェスティラは\n第5回人気投票で\n何位だったでしょう？\n"
+	},
+	{
+		"ID": 6122,
+		"unitID": 2503711,
+		"questionID": 9503750,
+		"script": "\n;;堀場美希,2\n# se \"SE_0734\"\n# select \"大久保瑠美\" \"select_label_1\" \"堀場美希\" \"select_label_2\" \"平流エレン\" \"select_label_3\"\nロジェスティラの声優は誰？\n"
+	}
+]

@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 300621,
+		"script": ";;隣に座っていい？,大\n;;いいタイミングだったね,中\n;;この辺、虫とか出そうだね,小\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_fireworks\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 0 0\n@\nトリシューラとのデートの帰り道\n夜空に大輪の花が咲いていた\n\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@トリシューラ\nうおっ！？\n結構近くでやってるな！\n\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@トリシューラ\nなあ、マスター\nちょっとこの花火、観ていこうぜ\n\n# voice 3006 \"torisyula_0006\"\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@トリシューラ\n…おっ、あの辺とか\nよく観えそうじゃねえか？\n;;----------------------------------------\n\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@%(unitName:unit_a)s\nほらほら、マスターも早く来いよー\n\n# select \"隣に座っていい？\" \"select_label_01\" \"いいタイミングだったね\" \"select_label_02\" \"この辺、虫とか出そうだね\" \"select_label_03\"\nほらほら、マスターも早く来いよー\n\n# label \"select_label_01\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_02\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_03\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# textflame 1 1\n# waitandnext 0.1\n\n# label \"select_label_end\"\n# waitandnext 2\n# fadeout \"black\" 1.2\n"
+	}
+]

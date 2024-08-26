@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 92013298,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# se \"SE_0733\"\n# face %(unit_a)s \"angry\"\n# voice 2013 \"reshef_0023\"\n@レシェフ\n違うよ、不正解！\n\n@レシェフ\nま…そうだよね…\nしょうがないよ\n\n;;//文字小さく\n# face %(unit_a)s \"sad\"\n# textsize 20\n@レシェフ\nあんたなら…\n正解してくれると\n思ったけど…\n\n# textsize 24\n@レシェフ\nいや、変な空気にしてゴメン！\n\n# voice 2013 \"reshef_0004\"\n# face %(unit_a)s \"usual\"\n@レシェフ\nあ、あたしは楽しかったからさ！\n\n# textflame 0 0\n@\n無理をしているが、\n彼女は明らかに肩を落とし\nガッカリしていた…\n\n@\nせっかくのデートを\n台なしにしてしまった…\n\n@\nどんな質問にも答えられるように\n彼女のことを\n復習しておかないとな…\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

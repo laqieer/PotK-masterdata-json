@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 95014498,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# se \"SE_0733\"\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n@%(unitName:unit_a)s\n………\n\n@%(unitName:unit_a)s\nその答え…\n\n# voice 5014 \"mami_0028\"\n@%(unitName:unit_a)s\n不正解よ\n\n@%(unitName:unit_a)s\nごめんなさい、\n急にクイズなんか出して\n\n@%(unitName:unit_a)s\nマスターとは\n結構長い時間\n一緒にいたから\n\n@%(unitName:unit_a)s\nもう少し私のこと\nわかってくれてるかなって\n思ったんだけど…\n\n# voice 5014 \"mami_0027\"\n@%(unitName:unit_a)s\nそうでもなかったみたいね\n\n# textflame 0 0\n@\nそう言って、寂しそうな目をする\n\n@\nマスターは、そんな彼女を\n安心させてあげられなかったことに\n胸を痛めるのだった…\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

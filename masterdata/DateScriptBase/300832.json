@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 300832,
+		"script": "# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_stream_evening\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 0 0\n# face %(unit_a)s \"usual\"\n@\n夜の渓流にやってきた\nマスターと%(unitName:unit_a)s\n\n@\n闇夜に流れる\nせせらぎの音に\nふたりは静かに耳を傾ける…\n\n# textflame 1 1\n# voice 3008 \"gunguniru_0021\"\n;; face %(unit_a)s \"close\"\n@%(unitName:unit_a)s\n我が知の源泉は森にある…\nと言っても過言ではなくてな…\n\n# textflame 0 0\n@\n%(unitName:unit_a)sとの距離が\nより近くなった気がした。\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

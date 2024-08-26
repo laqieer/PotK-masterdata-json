@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 3190502,
+		"script": "# script \"lisp\"\n;;デュリン準備\n# body 0\n# pos 0 1\n;;ほむら準備\n# body 501311\n# pos 501311 3\n;;マミ準備\n# body 501411\n# pos 501411 5\n;;ほむら台詞\n# serif 0\n# textboxarrow 0 2\n# chara 501311\n# voice 9942 \"fok_collabo1_0101_homura\"\n# face 501311 \"surprise\"\n# face 501411 \"surprise\"\n# face 0 \"angry\"\n@暁美ほむら\nあ、あれ…\n\n# serif 1\n# textboxarrow 1 3\n# chara 501411\n# voice 9942 \"fok_collabo1_0102_mami\"\n@巴マミ\nなんでティルフィングさんが！？\n\n# serif 0\n# textboxarrow 0 1\n# chara 0\n# voice 9942 \"fok_collabo1_0103_durin\"\n@デュリン\n…来たわね\n\n# body 101411\n# pos 101411 1\n# layer 101411 4\n# scale 101411 0.9 0\n# alpha 101411 0 0\n# serif 1\n# textboxarrow 1 3\n# chara 501411\n# voice 9942 \"fok_collabo1_0104_mami\"\n# face 501411 \"sad1\"\n@巴マミ\nどういうこと？\n\n;;デュリン退場\n# alpha 0 0 0.5\n# alpha 101411 1 0.5\n;;ティル台詞\n# serif 0\n# textboxarrow 0 1\n# chara 101411\n# voice 9942 \"fok_collabo1_0105_tyrufing\"\n@ティルフィング\nあれは私の、\nイミテーションです\n\n# serif 1\n# textboxarrow 1 3\n# chara 501411\n# voice 9942 \"fok_collabo1_0106_mami\"\n@巴マミ\nイミテーション？\n\n# serif 0\n# textboxarrow 0 1\n# chara 101411\n# voice 9942 \"fok_collabo1_0107_tyrufing\"\n@ティルフィング\n下がっていてください\n淘汰の時間です"
+	}
+]

@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 302824,
+		"script": ";;C顔を見ればわかる小\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_onsen\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# face %(unit_a)s \"sad\"\n# voice 3028 \"herena_a_0028\"\n# textflame 1 1\n@ヘレナ\n顔を見ればわかるって？\nうぅむ…先輩に見つめられるのは\nまだ慣れないんだが\n\n# face %(unit_a)s \"angry\"\n@ヘレナ\n…って、ち、ちょっと！\n\n@ヘレナ\n湯気で見えづらいからって\nそんなにまで近づかなくても…！\n\n@ヘレナ\nなにか嘘をついてみて、って？\nこの状態でそんなことを\n言われてもだな…ええと…\n\n@ヘレナ\nとっ、とりあえず\n続きは上がってからにしないか？\nまずは温泉を楽しもう、うん！\n\n;;モノローグ\n# textflame 0 0\n@\nヘレナの提案を聞き\nひとまず小休止を入れるマスター\n\n;;モノローグ\n@\nそれからヘレナは黙ってしまい\nあまり話せないまま\n過ごすことになってしまった\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

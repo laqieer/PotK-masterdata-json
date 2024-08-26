@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 401922,
+		"script": ";;C大もう少し一緒にいたい\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_onsen\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# face 2401911 \"normal\"\n@フェイルノート\n…………\n\n@フェイルノート\nお前様は、いつも予想外ね\n私をデートなんかに\n連れ出そうとしたり…\n\n@フェイルノート\n…今も、私が思っていることと\n同じ言葉を発したりね\n\n@フェイルノート\nただ、ちょっとだけ\n私の思いと違ったことがあるわ\n\n# face 2401911 \"smile\"\n# voice 240191 \"failnaught_a_0028\"\n@フェイルノート\nそうね…私だったら\n無駄な遠慮はしないもの\n\n@フェイルノート\nお前様は、どう？\nまだ一緒にいたいのかしら？\n\n# voice 240191 \"failnaught_a_0032\"\n@フェイルノート\nふふふ…ええ、いいわ\n今だけは、許してあげる\nお前様の贅沢を\n\n@フェイルノート\nもう少しだけ\nお前様に付き合って\n温泉に入っていてあげる\n\n# voice 240191 \"failnaught_a_0005\"\n@フェイルノート\n私と共にいられる栄誉と\n幸運がどういうものか\n堪能するといいわ\n\n# textflame 0 0\n@\nこうして、マスターは\nフェイルノートと共に\n\n# textflame 0 0\n@\n温泉を堪能しながら\n楽しい時間を過ごしたのだった\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

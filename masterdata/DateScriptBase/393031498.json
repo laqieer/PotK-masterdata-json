@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 393031498,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# se \"SE_0733\"\n# textflame 1 1\n# face %(unit_a)s \"surprise\"\n@カシウス\n……その答え\n\n# voice 530311 \"cassius_ca_0015\"\n@カシウス\n不正解よ\n\n@カシウス\nかつて、\n輪廻の蛇と交わした\n久遠の契りのように\n\n@カシウス\n御館様の正解をもって、\n二人の絆を久遠へ導く\n前奏曲にしたかった…\n\n@カシウス\nでも久遠の世界は、\nまだまだ遠くて……\n\n@カシウス\n御館様、\n大事なことだから、\nもう一度伝えるわ\n\n@カシウス\nどうか、わたしを…\n久遠に導いて…\n\n# textflame 0 0\n@\n寂しげな目を見せる彼女\n\n@\nマスターは、彼女の心を\n満たしてあげられなかったことを\n深く後悔するのだった…\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

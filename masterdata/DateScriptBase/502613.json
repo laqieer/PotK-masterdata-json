@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 502613,
+		"script": ";;A中向かい合わせの方がいいよね\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_cafe\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# face %(unit_a)s \"normal\"\n# voice 250261 \"yunyun_0003\"\n# textflame 1 1\n@ゆんゆん\nそうですよね！\n\n@ゆんゆん\n密着するほどだなんて…\n\n# voice 250261 \"yunyun_0001\"\n@ゆんゆん\nあ！ほらテーブル席が空きましたよ！\nさっそく移動しましょう！\n\n# textflame 0 0\n@\nゆんゆんがそう言うので\nマスターは席を立った\n\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@ゆんゆん\nあ…\n\n# textflame 0 0\n@\nどうしたの？\n\n# voice 250261 \"yunyun_0011\"\n# textflame 1 1\n@ゆんゆん\nい、いえ、なんでもありません\n\n@ゆんゆん\nあなたが急に席を立ったから、\n嫌われてるのかもって\n不安になったとか\n\n# face %(unit_a)s \"angry\"\n@ゆんゆん\n決して、そんなことは\nありませんから！\n\n@ゆんゆん\n分かってます！\n分かってるんです！\n\n# voice 250261 \"yunyun_0026\"\n# face %(unit_a)s \"normal\"\n@ゆんゆん\n私が言い出したんですけど\nどうしても\n色々考えちゃうんですよー！\n\n# textflame 0 0\n@\n不安そうにするゆんゆんを見て\nマスターは再び腰を下ろした\n\n# textflame 0 0\n@\nそしてカフェの閉店時間まで\nゆんゆんを慰めたのだった\n\n;;-----------------------------------------\n# waitandnext 2\n# fadeout \"black\" 1.2\n"
+	}
+]

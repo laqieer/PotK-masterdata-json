@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 2760012,
+		"script": ";;//背景　村_黄昏（outland_evening）\n;;指定　bgm003\n# script \"lisp\"\n# background \"004_outland_enening\"\n# bgm \"bgm003\" 0\n# body 102611\n# pos 102611 2\n# scale 102611 0.8 0\n# body 601811\n# pos 601811 3\n# alpha 601811 0 0\n# body 107\n# pos 107 4\n# scale 107 0.8 0\n# face 107 \"angry\"\n# textflame 1 1\n# textboxarrow 0 1\n# chara 102611\n# voice 1026 \"caladbolg_0002\"\n# face 102611 \"angry\"\n@カラドボルグ\n…ウィズ、どうかしら？\nなにか手がかりは見つかった？\n\n# textflame 1 1\n# textboxarrow 0 3\n# chara 107\n# voice 6018 \"wizu_0003\"\n@ウィズ\nはい\n…この足跡は…\n間違いないと思います\n\n# textflame 1 1\n# textboxarrow 0 3\n# chara 107\n# face 107 \"sad\"\n@ウィズ\n…ただ、それとは別に、\n大きな穴がありますね…\n恐らく、脚で掘ったのだと思いますが\n\n# textflame 0 0\n@\nそこには、\n“エ”の形に掘られた穴があった\n\n# textflame 1 1\n# textboxarrow 0 3\n# chara 107\n# voice 6018 \"wizu_0026\"\n# face 107 \"angry\"\n@ウィズ\nこの穴の意図がわかりません\n…ただ、きっと、なにか意味が\nあるのだと思います！\n\n;;//暗転\n;;//第６話終了\n# fadeout \"black\" 2\n# waitandnext 2.1"
+	}
+]

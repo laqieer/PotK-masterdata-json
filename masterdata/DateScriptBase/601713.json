@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 601713,
+		"script": ";;C:こういうのが好きなんだね\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background %(background)s\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n@アクア\nそうそう、\nこの一杯のために\n生きてるようなものなんだから\n\n# eye %(unit_a)s \"close\"\n# textflames 0 0\n@\nアクアはシュワシュワを\n一気に飲み干し、\n盛大に息を吐いて杯を置く\n\n# face %(unit_a)s \"smile\"\n# eye %(unit_a)s \"normal\"\n# textflame 1 1\n@アクア\nぷっは～！\nおね～さん、\nもう一杯同じものお願いね～\n\n# textflames 0 0\n@\nアクアは底が抜けた樽のように\nシュワシュワを飲み干していく\n\n# textflames 0 0\n@\nそして、だんだん\nろれつが怪しくなってきた\n\n# face %(unit_a)s \"irregular\"\n# textflame 1 1\n@アクア\nらから～、あらしは、\nえら～い女神なの～\n\n# face %(unit_a)s \"smile\"\n@アクア\n分かってる～？マフタ～\nんもう…\nその顔は分かってらいられ～\n\n# textflames 0 0\n@\nそのうちにアクアは\nテーブルに突っ伏して寝てしまった\n\n# textflames 0 0\n@\n訪れた静けさの中、\nその幸せそうな寝顔を\nしばらく眺めるマスターであった\n;;--------------------------------------\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

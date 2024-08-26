@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 303122,
+		"script": ";;大Aカシウスも食べてみて\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_room\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 230311 \"cassius_ge_0022\"\n@カシウス\nわたしも…？\nでも、味の良し悪しは\nわたしにはあまり…\n\n@カシウス\n…食べさせてあげる、って？\nそれじゃあ、お願いする…\n\n@カシウス\nあーん…\nあむ…もぐ、もぐ…\n\n# voice 230311 \"cassius_ge_0003\"\n@カシウス\nうん…\n美味しくできてると思う\n\n@カシウス\n…御館様？\nどうして微笑んでいるの？\n\n@カシウス\n二人で美味しいご飯を食べるのが\n楽しいから…って？\n\n# face %(unit_a)s \"smile\"\n# voice 230311 \"cassius_ge_0004\"\n@カシウス\nそう…\n今ならなんとなく、\nその意味がわかる気がする\n\n@カシウス\nひとりでなにかを食べるときは、\nいつも孤独で、退屈で…\n\n@カシウス\n食事をとること自体に、\nあまり価値を見出せなかった\n\n@カシウス\nでも…今は違う\n\n# voice 230311 \"cassius_ge_0002\"\n@カシウス\n御館様と向かい合って、\nこんな風に\n料理を一緒に食べられる…\n\n@カシウス\nこれはわたしにとって、\nすごく価値のある時間…\nそう思えるようになったわ\n\n# voice 230311 \"cassius_ge_0001\"\n@カシウス\n御館様、\nまたこうして一緒に\nわたしの料理を食べてくれる？\n\n@カシウス\n…そう\nそれなら、嬉しい…\n\n# textflame 0 0\n@\n両手を頬に当て、\n口元をほころばせるカシウス\n\n@\nぽつぽつと言葉を交わしながら、\n二人はカシウスの料理を\n口に運んでいくのだった…\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

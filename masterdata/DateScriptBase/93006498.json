@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 93006498,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# se \"SE_0733\"\n# face %(unit_a)s \"sad\"\n# voice 3006 \"torisyula_0011\"\n@トリシューラ\nダメだね\n\n# textflame 1 1\n@トリシューラ\nほんと、全然ダメ…\n\n# textflame 0 0\n@\nまずい…\nトリシューラを\n怒らせてしまっただろうか\n\n# face %(unit_a)s \"normal\"\n# textflame 1 1\n@トリシューラ\n…あ、いや、\n別にいいんだけどさ\n\n# textflame 1 1\n@トリシューラ\n今の問題も、\nちょっと難しすぎた\nかなって思うし\n\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@トリシューラ\nでもま、\nあんたもあたいのマスターなら、\n正解してほしかったかな…\n\n# textflame 0 0\n@\nあんな寂しそうにしている\n彼女の顔は、見たことがない\n\n# textflame 0 0\n@\nせっかくのデートなのに、\n暗い雰囲気になってしまったことを\n心苦しく思うマスター\n\n# textflame 0 0\n@\n次があるなら、今度は正解して\nトリシューラを喜ばせたいと思う\nマスターであった\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

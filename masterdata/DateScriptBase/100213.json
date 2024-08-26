@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 100213,
+		"script": ";;見つめてたら怒る？(中)\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_planetarium\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# face %(unit_a)s \"angry\"\n# voice 1002 \"revatein_0009\"\n@レーヴァテイン\n…今日、なにしに来たか\nわかってるの？\n\n# textflame 0 0\n@\n隣の暗がりから\n大きなため息が聞こえてくる\n\n# textflame 1 1\n# voice 1002 \"revatein_0013\"\n# face %(unit_a)s \"smile\"\n@レーヴァテイン\n…それに、こんなに暗くちゃ\n見えるはずないでしょ\n\n# textflame 0 0\n@\n始めはそうだったが…\nじっと隣の暗闇を見つめているうちに\n目が慣れてくるマスター\n\n# textflame 1 1\n# face %(unit_a)s \"angry\"\n@レーヴァテイン\n…暗がりから視線を感じる\n\n@レーヴァテイン\nすごく、イラッとするんだけど…\n\n# voice 1002 \"revatein_0024\"\n@レーヴァテイン\nあなたって…ほんとヘンタイ…\n\n# textflame 0 0\n# face %(unit_a)s \"smile\"\n@\n徐々に浮かび上がる彼女の姿は\n恥ずかしそうにうつむいていた…\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

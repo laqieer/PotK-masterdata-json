@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 103411,
+		"script": ";;A えっと、ここはね…（好感度大）\n;;B この先に待ち受けているのはね（好感度中）\n;;C わっ！（好感度小）\n;;モノローグ\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_hauntedhouse\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n@\nダクネスを誘い、\nホラーハウスにやって来たのだが…\n\n# voice 1034 \"dakunesu_0027\"\n# face %(unit_a)s \"shy\"\n@ダクネス\nこ、ここが…\n人を脅かそうとあらゆるものが\n待ち受けるというホラーハウス！\n\n@ダクネス\n一体、どんなものが…はぁはぁ\nさあ、出てこい…\n\n@ダクネス\nこの身を挺して受け止めてやる！\nはぁはぁ…\n\n;;モノローグ\n# textflame 0 0\n@\n明らかに楽しみ方を間違えていた\n\n# select \"えっと、ここはね…\" \"select_label_01\" \"この先に待ち受けているのはね\" \"select_label_02\" \"わっ！\" \"select_label_03\"\n明らかに楽しみ方を間違えていた\n\n# label \"select_label_01\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_02\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_03\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# textflame 1 1\n# waitandnext 0.1\n\n# label \"select_label_end\"\n# waitandnext 2\n# fadeout \"black\" 1.2\n"
+	}
+]

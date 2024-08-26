@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 100201033,
+		"script": ";;2章1話3戦闘後\n;;//店内で人が話している\n# script \"lisp\"\n# background \"004_outland\"\n# bgmfile \"bgm271\" \"BgmLostRagnarokEvent\" 0\n;;アルマス\n# body 151\n# pos 151 1\n# scale 151 0.8 0\n# alpha 151 0 0\n# face 151 \"surprise\"\n;;ギル\n# body 153\n# pos 153 3\n# scale 153 0.8 0\n# face 153 \"usual\"\n# alpha 153 0 0\n;;耳つきモブ\n# body 155\n# pos 155 3\n# scale 155 0.8 0\n# layer 151 5\n# layer 155 1\n# layer 153 3\n;;アルマスボイス用\n# body 3103811\n# pos 3103811 3\n# alpha 3103811 0 0\n# textflame 1 1\n# textboxarrow 0 2\n# chara 155\n@トレイセーマ民\n軍隊がティルヘルムに\n攻め込んだらしいぞ…\n\n# serif 1\n# textboxarrow 1 0\n@トレイセーマ民\n怖いわねぇ…\nハルモニアやケイオスリオンの軍と\n合同だったんでしょう…？\n\n# serif 1\n# textboxarrow 1 0\n# chara 155\n@トレイセーマ民\n本隊は首都に戻ったみたいだし、\nこれ以上、物騒なことに\nならないといいけれど…\n\n# serif 1\n# textwindow \"close\"\n# serif 0\n# textwindow \"normal\"\n# alpha 155 0 0.5\n# alpha 153 1 0.5\n# textflame 1 1\n# textboxarrow 0 2\n# chara 153\n@ギル\nお！\nこの席空いてる？\nここにしようぜ！\n\n# bgm \"stop\"\n# move 155 5 0\n# alpha 155 1 0.5\n# face 155 \"surprise\"\n# textflame 1 1\n# textboxarrow 0 3\n# chara 155\n@トレイセーマ民\nん…？\nおい、そこの小僧。\nお前の耳、なんか歪んでないか？\n\n# alpha 151 1 0.5\n# face 153 \"surprise\"\n# textflame 1 1\n# textboxarrow 0 1\n# chara 151\n# voice 1038 \"almace_0022\"\n@アルマス\n！？\n"
+	}
+]

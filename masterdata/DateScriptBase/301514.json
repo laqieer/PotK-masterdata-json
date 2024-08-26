@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 301514,
+		"script": ";;A\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_concert\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# face %(unit_a)s \"happy\"\n# voice 3015 \"kyoko_0004\"\n@%(unitName:unit_a)s\nなに言ってんだ、\nそりゃ楽しいに決まってるだろ？\n\n@%(unitName:unit_a)s\nこっちに来てから、\nいつも異族とかいうヤツらを\n倒してばっかりだからな\n\n@%(unitName:unit_a)s\nたまにはこうして、\n思いっきり羽伸ばせるような\n楽しみがないとさ\n\n# face %(unit_a)s \"usual\"\n# voice 3015 \"kyoko_0003\"\n@%(unitName:unit_a)s\n戦いなんて\nやってらんねーっつーの！\n\n@%(unitName:unit_a)s\nお…最後の曲がはじまるな\n\n# face %(unit_a)s \"normal\"\n# voice 3015 \"kyoko_0002\"\n@%(unitName:unit_a)s\nじゃあ行ってくる！\nライブ終わったら落ち合おうぜ！\n\n# textflame 0 0\n@\nそう言い残し、\n人ごみを縫って進んでいく杏子\n\n@\n年相応にはしゃぐ杏子の姿を、\nマスターは笑顔で見送るのだった\n\n;;-----------------------------------------\n# waitandnext 2\n# fadeout \"black\" 1.2\n"
+	}
+]

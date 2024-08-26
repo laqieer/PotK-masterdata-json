@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 95025498,
+		"script": ";;//不正解\n# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# voice 5025 \"megumin_0026\"\n# face %(unit_a)s \"worry\"\n# se \"SE_0733\"\n@めぐみん\nそうですか\nわからないですか…\n\n@めぐみん\n一つの道を極めるものとして\n不正解は残念です\n\n# textflame 0 0\n@\nうつむき気味な彼女を見ていると\nチクリと心が痛んだ\n\n# textflame 1 1\n@めぐみん\nではもう帰りましょう\n私はこのあとも爆裂道を\n極め続けます\n\n# textflame 0 0\n@\n返す言葉がなかなか見つからず\n重たい空気の帰り道となった…\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

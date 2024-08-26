@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 500223,
+		"script": ";;C音がすごいね\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_fireworks\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# voice 5002 \"furaikugeru_0004\"\n@フライクーゲル\n火薬の塊だからね！\nでもそこに、匠の技があるんだよ！\n\n# eye %(unit_a)s \"close\"\n@フライクーゲル\n打ち上げる弾にどう火薬を\n込めるのかとか…風向きとか…\n\n# eye %(unit_a)s \"normal\"\n# voice 5002 \"furaikugeru_0006\"\n@フライクーゲル\nオーディエンスのいる場所も\nすっごく大事なんだよ！\n\n# textflame 0 0\n@\n楽しげに語るフライクーゲルに\nマスターも思わず笑顔になる\n\n# textflame 1 1\n@フライクーゲル\nあとね、あとね！花火には\nいろんなストーリーがあって…\n\n# textflame 0 0\n@\n気が付けば当の花火はそっちのけで\n花火談議に花が咲いていた…\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

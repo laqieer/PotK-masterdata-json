@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 301513,
+		"script": ";;B\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_concert\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# face %(unit_a)s \"angry\"\n# voice 3015 \"kyoko_0009\"\n@%(unitName:unit_a)s\nはぁ？\nはぐれたりなんかしねーよ、\nガキじゃないんだからさ\n\n@%(unitName:unit_a)s\nライブが終わったら、\nすぐここに戻ってくるって\n\n# voice 3015 \"kyoko_0027\"\n@%(unitName:unit_a)s\n…なんだよ、そんな心配か？\nマスターって過保護なんだな\n\n# face %(unit_a)s \"happy\"\n# voice 3015 \"kyoko_0009\"\n@%(unitName:unit_a)s\nじゃあ…これやるよ\nアタシの分のサイリウム\nさっき見かけて買っておいたんだ\n\n@%(unitName:unit_a)s\nそいつを振っててくれたら、\nマスターがどこいるか\nすぐにわかるからさ\n\n# face %(unit_a)s \"normal\"\n@%(unitName:unit_a)s\n頼んだよ！\nそれじゃ、また後で！\n\n# textflame 0 0\n@\n返事の代わりに、\n杏子にもらったサイリウムを\nふるふると振るマスター\n\n@\n最後の曲が終わるまで、\nマスターは大きく手をあげて\nライブを盛り上げるのだった…\n\n;;-----------------------------------------\n# waitandnext 2\n# fadeout \"black\" 1.2\n"
+	}
+]

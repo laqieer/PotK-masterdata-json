@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 301010023,
+		"script": ";;-----------------------------------------\n;;キズナアイコラボ_イベントシナリオ地上編ED\n;;-----------------------------------------\n# script \"lisp\"\n# background \"bg_black\"\n# bgm \"bgm101\" 0\n;;-----------------------------------------\n# body 52000711\n# pos 52000711 3\n# scale 52000711 0.8 0\n# layer 52000711 3\n# mask 52000711 off\n# alpha 52000711 0 0\n;;-----------------------------------------\n# imageset 0 \"black\"\n# imagealpha 0 0 0\n# imagelayer 0 1\n;;-----------------------------------------\n# textwindow \"close\"\n# waitandnext 0.2\n\n# background \"zero_room_morning\"\n# imagealpha 0 1 0\n# imagepos 0 0 0\n# waitandnext 0.3\n\n# alpha 52000711 1 0\n# imagealpha 0 0 0.5\n# imagerightout 0 0.5\n# waitandnext 0.5\n\n# textflame 1 1\n# textwindow \"nomal\"\n# textboxarrow 0 2\n@キズナアイ\nす、すごかったね…\nプレイしてて、\nすごくやりごたえがあって…\n\n@キズナアイ\nキル姫の正体とか\nキラーメイルの関係性とか\nいろいろ分かったけど…\n\n@キズナアイ\nやっぱり一番印象に残ったのは\nゼロとアマネのやり取りかな\n\n@キズナアイ\nちょっとネタバレっぽいけど、\nとても感動しちゃった…\n\n# voice 20007 \"kizunaai_0004\"\n# face 52000711 \"happy\"\n@キズナアイ\nだから、今、私がいるのも\nゼロのお部屋にしちゃいました！\n\n# face 52000711 \"normal\"\n@キズナアイ\nたしかショートアニメにも\nなってるみたいだし\nよかったら、見てみてね\n\n@キズナアイ\nそれじゃあ、\n次のお話に行ってみよう！\n\n# fadeout \"black\" 1\n# waitandnext 1"
+	}
+]

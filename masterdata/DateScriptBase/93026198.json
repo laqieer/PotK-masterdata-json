@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 93026198,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# se \"SE_0733\"\n# face %(unit_a)s \"surprise\"\n# voice 3026 \"grayside_0023\"\n;;-----------------------------------------\n@グラーシーザ\nざんねんだが…はずれだ…\n\n@グラーシーザ\nいやなに、そうおちこむことはない\nだれにだって、\nまちがいは、あるものだからな…\n\n@グラーシーザ\nただまぁ…マスターなら\nあたしのことを、しってくれていると\nおもっていたんだが…\n\n@グラーシーザ\nいやっ、なんでもない！\nべつに、これから\nしっていけば、いいだけだからな\n\n@グラーシーザ\nさあ、マスター\nおそいじかんに、なってしまった\nはやく、かえるとしよう！\n\n# textflame 0 0\n@\n悲しい気持ちを誤魔化すように、\n声を張り上げるグラーシーザ\n\n@\n彼女のその様子にマスターは、\n次は絶対に間違えないよう、\n努力することを誓うのだった\n\n;;-----------------------------------------\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

@@ -1,0 +1,26 @@
+[
+	{
+		"ID": 429,
+		"unitID": 2401911,
+		"scriptID": "kaerimichi",
+		"script": "なんだか物足りないわね…\nもう終わりなのかしら？"
+	},
+	{
+		"ID": 430,
+		"unitID": 2401911,
+		"scriptID": "kaeru_ok",
+		"script": "@%(unitName:unit_a)s\nあら♪私が思っていたことを\n言わなくてもわかるなんて\nさすがお前様ね"
+	},
+	{
+		"ID": 431,
+		"unitID": 2401911,
+		"scriptID": "kaeru",
+		"script": "なかなか楽しめたわ\n合格点ね、感謝してあげる"
+	},
+	{
+		"ID": 432,
+		"unitID": 2401911,
+		"scriptID": "kaeru_ng",
+		"script": "@%(unitName:unit_a)s\n私はもう疲れたの\nまた気が向いたらね"
+	}
+]

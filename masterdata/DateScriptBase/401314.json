@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 401314,
+		"script": ";;B　なんだか詩的だね\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_castle\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# voice 4013 \"aphrodite_0004\"\n@アフロディーテ\nうふふ、そうかしら？\n\n@アフロディーテ\nだとしたら、それは…\n\n# face %(unit_a)s \"smile\"\n@アフロディーテ\nきっとマスターが\n隣にいるからですわ\n\n# face %(unit_a)s \"usual\"\n# voice 4013 \"aphrodite_0003\"\n@アフロディーテ\nでは…\n古城散策と参りましょう\n\n# textflame 0 0\n@\n夕日に染まる古城の前で\nアフロディーテとふたり\n古城の歴史に想いを馳せた…\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

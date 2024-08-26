@@ -1,0 +1,302 @@
+[
+	{
+		"ID": 3351,
+		"unitID": 2200211,
+		"questionID": 9200201,
+		"script": ";;バアル,1\n# textflame 1 1\n# voice 2002 \"aimuru_0001\"\n@アイムール\nマスター\nちょっと止まってください\n\n# face %(unit_a)s \"sad\"\n@アイムール\n本当に突然で\n申し訳ないのですが…\n\n@アイムール\n私のことを\nどれぐらいご存知なのか\n\n# face %(unit_a)s \"normal\"\n# voice 2002 \"aimuru_0003\"\n@アイムール\n私に関する質問をするので\n答えてもらっても\nよろしいでしょうか？\n\n@アイムール\nいえ、簡単なものばかりですので、\nそう身構えなくても問題ありません\n\n# eye %(unit_a)s \"close\"\n# voice 2002 \"aimuru_0036\"\n@アイムール\nそれでは…\nお願いします！\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私のキラーズ『アイムール』は\n高位の神であったお方の棍棒でしたが\nその神とは一体誰でしょうか？\n\n# se \"SE_0734\"\n# select \"バアル\" \"select_label_1\" \"イル\" \"select_label_2\" \"アナト\" \"select_label_3\"\n私のキラーズ『アイムール』は\n高位の神であったお方の棍棒でしたが\nその神とは一体誰でしょうか？\n"
+	},
+	{
+		"ID": 3352,
+		"unitID": 2200211,
+		"questionID": 9200202,
+		"script": ";;ヤグルシ,2\n# textflame 1 1\n# voice 2002 \"aimuru_0001\"\n@アイムール\nマスター\nちょっと止まってください\n\n# face %(unit_a)s \"sad\"\n@アイムール\n本当に突然で\n申し訳ないのですが…\n\n@アイムール\n私のことを\nどれぐらいご存知なのか\n\n# face %(unit_a)s \"normal\"\n# voice 2002 \"aimuru_0003\"\n@アイムール\n私に関する質問をするので\n答えてもらっても\nよろしいでしょうか？\n\n@アイムール\nいえ、簡単なものばかりですので、\nそう身構えなくても問題ありません\n\n# eye %(unit_a)s \"close\"\n# voice 2002 \"aimuru_0036\"\n@アイムール\nそれでは…\nお願いします！\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私のキラーズ『アイムール』は\nなんという棍棒とともに\n作られましたか？\n\n# se \"SE_0734\"\n# select \"ダグダ\" \"select_label_1\" \"ヤグルシ\" \"select_label_2\" \"ワズラ\" \"select_label_3\"\n私のキラーズ『アイムール』は\nなんという棍棒とともに\n作られましたか？\n"
+	},
+	{
+		"ID": 3353,
+		"unitID": 2200211,
+		"questionID": 9200203,
+		"script": ";;コシャル・ハシス,3\n# textflame 1 1\n# voice 2002 \"aimuru_0001\"\n@アイムール\nマスター\nちょっと止まってください\n\n# face %(unit_a)s \"sad\"\n@アイムール\n本当に突然で\n申し訳ないのですが…\n\n@アイムール\n私のことを\nどれぐらいご存知なのか\n\n# face %(unit_a)s \"normal\"\n# voice 2002 \"aimuru_0003\"\n@アイムール\n私に関する質問をするので\n答えてもらっても\nよろしいでしょうか？\n\n@アイムール\nいえ、簡単なものばかりですので、\nそう身構えなくても問題ありません\n\n# eye %(unit_a)s \"close\"\n# voice 2002 \"aimuru_0036\"\n@アイムール\nそれでは…\nお願いします！\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私のキラーズ『アイムール』は\n神々の王であった龍神ヤムを倒すため\nなんという神により作られましたか？\n\n# se \"SE_0734\"\n# select \"シャパシュ\" \"select_label_1\" \"モート\" \"select_label_2\" \"コシャル・ハシス\" \"select_label_3\"\n私のキラーズ『アイムール』は\n神々の王であった龍神ヤムを倒すため\nなんという神により作られましたか？\n"
+	},
+	{
+		"ID": 3354,
+		"unitID": 2200211,
+		"questionID": 9200204,
+		"script": ";;追放,1\n# textflame 1 1\n# voice 2002 \"aimuru_0001\"\n@アイムール\nマスター\nちょっと止まってください\n\n# face %(unit_a)s \"sad\"\n@アイムール\n本当に突然で\n申し訳ないのですが…\n\n@アイムール\n私のことを\nどれぐらいご存知なのか\n\n# face %(unit_a)s \"normal\"\n# voice 2002 \"aimuru_0003\"\n@アイムール\n私に関する質問をするので\n答えてもらっても\nよろしいでしょうか？\n\n@アイムール\nいえ、簡単なものばかりですので、\nそう身構えなくても問題ありません\n\n# eye %(unit_a)s \"close\"\n# voice 2002 \"aimuru_0036\"\n@アイムール\nそれでは…\nお願いします！\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私のキラーズ『アイムール』は\n「○○するもの」と言われていますが\nそれは一体なんでしょうか？\n\n# se \"SE_0734\"\n# select \"追放\" \"select_label_1\" \"破壊\" \"select_label_2\" \"消滅\" \"select_label_3\"\n私のキラーズ『アイムール』は\n「○○するもの」と言われていますが\nそれは一体なんでしょうか？\n"
+	},
+	{
+		"ID": 3355,
+		"unitID": 2200211,
+		"questionID": 9200205,
+		"script": ";;自動的に敵を攻撃する,2\n# textflame 1 1\n# voice 2002 \"aimuru_0001\"\n@アイムール\nマスター\nちょっと止まってください\n\n# face %(unit_a)s \"sad\"\n@アイムール\n本当に突然で\n申し訳ないのですが…\n\n@アイムール\n私のことを\nどれぐらいご存知なのか\n\n# face %(unit_a)s \"normal\"\n# voice 2002 \"aimuru_0003\"\n@アイムール\n私に関する質問をするので\n答えてもらっても\nよろしいでしょうか？\n\n@アイムール\nいえ、簡単なものばかりですので、\nそう身構えなくても問題ありません\n\n# eye %(unit_a)s \"close\"\n# voice 2002 \"aimuru_0036\"\n@アイムール\nそれでは…\nお願いします！\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私のキラーズ『アイムール』は\n持ち主の手を離れた後に\nどんな機能があるでしょうか？\n\n# se \"SE_0734\"\n# select \"粉々に砕ける\" \"select_label_1\" \"自動的に敵を攻撃する\" \"select_label_2\" \"持ち主の元に返ってくる\" \"select_label_3\"\n私のキラーズ『アイムール』は\n持ち主の手を離れた後に\nどんな機能があるでしょうか？\n"
+	},
+	{
+		"ID": 3356,
+		"unitID": 2200211,
+		"questionID": 9200206,
+		"script": ";;嵐,3\n# textflame 1 1\n# voice 2002 \"aimuru_0001\"\n@アイムール\nマスター\nちょっと止まってください\n\n# face %(unit_a)s \"sad\"\n@アイムール\n本当に突然で\n申し訳ないのですが…\n\n@アイムール\n私のことを\nどれぐらいご存知なのか\n\n# face %(unit_a)s \"normal\"\n# voice 2002 \"aimuru_0003\"\n@アイムール\n私に関する質問をするので\n答えてもらっても\nよろしいでしょうか？\n\n@アイムール\nいえ、簡単なものばかりですので、\nそう身構えなくても問題ありません\n\n# eye %(unit_a)s \"close\"\n# voice 2002 \"aimuru_0036\"\n@アイムール\nそれでは…\nお願いします！\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私のキラーズ『アイムール』の持ち主\nバアルはなんの神と言われて\n崇められていましたか？\n\n# se \"SE_0734\"\n# select \"稲妻\" \"select_label_1\" \"太陽\" \"select_label_2\" \"嵐\" \"select_label_3\"\n私のキラーズ『アイムール』の持ち主\nバアルはなんの神と言われて\n崇められていましたか？\n"
+	},
+	{
+		"ID": 3357,
+		"unitID": 2200211,
+		"questionID": 9200207,
+		"script": ";;棍棒,1\n# textflame 1 1\n# voice 2002 \"aimuru_0001\"\n@アイムール\nマスター\nちょっと止まってください\n\n# face %(unit_a)s \"sad\"\n@アイムール\n本当に突然で\n申し訳ないのですが…\n\n@アイムール\n私のことを\nどれぐらいご存知なのか\n\n# face %(unit_a)s \"normal\"\n# voice 2002 \"aimuru_0003\"\n@アイムール\n私に関する質問をするので\n答えてもらっても\nよろしいでしょうか？\n\n@アイムール\nいえ、簡単なものばかりですので、\nそう身構えなくても問題ありません\n\n# eye %(unit_a)s \"close\"\n# voice 2002 \"aimuru_0036\"\n@アイムール\nそれでは…\nお願いします！\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私のキラーズ『アイムール』は\n一説によると斧ではなく\nなんだと言われていますか？\n\n# se \"SE_0734\"\n# select \"棍棒\" \"select_label_1\" \"槍\" \"select_label_2\" \"剣\" \"select_label_3\"\n私のキラーズ『アイムール』は\n一説によると斧ではなく\nなんだと言われていますか？\n"
+	},
+	{
+		"ID": 3358,
+		"unitID": 2200211,
+		"questionID": 9200208,
+		"script": ";;息子,2\n# textflame 1 1\n# voice 2002 \"aimuru_0001\"\n@アイムール\nマスター\nちょっと止まってください\n\n# face %(unit_a)s \"sad\"\n@アイムール\n本当に突然で\n申し訳ないのですが…\n\n@アイムール\n私のことを\nどれぐらいご存知なのか\n\n# face %(unit_a)s \"normal\"\n# voice 2002 \"aimuru_0003\"\n@アイムール\n私に関する質問をするので\n答えてもらっても\nよろしいでしょうか？\n\n@アイムール\nいえ、簡単なものばかりですので、\nそう身構えなくても問題ありません\n\n# eye %(unit_a)s \"close\"\n# voice 2002 \"aimuru_0036\"\n@アイムール\nそれでは…\nお願いします！\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私のキラーズ『アイムール』の\n持ち主は、ウガリット神話では\n最高神イルとどんな関係でしたか？\n\n# se \"SE_0734\"\n# select \"友達\" \"select_label_1\" \"息子\" \"select_label_2\" \"親戚\" \"select_label_3\"\n私のキラーズ『アイムール』の\n持ち主は、ウガリット神話では\n最高神イルとどんな関係でしたか？\n"
+	},
+	{
+		"ID": 3359,
+		"unitID": 2200211,
+		"questionID": 9200209,
+		"script": ";;兄弟,3\n# textflame 1 1\n# voice 2002 \"aimuru_0001\"\n@アイムール\nマスター\nちょっと止まってください\n\n# face %(unit_a)s \"sad\"\n@アイムール\n本当に突然で\n申し訳ないのですが…\n\n@アイムール\n私のことを\nどれぐらいご存知なのか\n\n# face %(unit_a)s \"normal\"\n# voice 2002 \"aimuru_0003\"\n@アイムール\n私に関する質問をするので\n答えてもらっても\nよろしいでしょうか？\n\n@アイムール\nいえ、簡単なものばかりですので、\nそう身構えなくても問題ありません\n\n# eye %(unit_a)s \"close\"\n# voice 2002 \"aimuru_0036\"\n@アイムール\nそれでは…\nお願いします！\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私のキラーズ『アイムール』と\n海神ヤムや死の神モートは\nどのような関係だったと思いますか？\n\n# se \"SE_0734\"\n# select \"親戚\" \"select_label_1\" \"親子\" \"select_label_2\" \"兄弟\" \"select_label_3\"\n私のキラーズ『アイムール』と\n海神ヤムや死の神モートは\nどのような関係だったと思いますか？\n"
+	},
+	{
+		"ID": 3360,
+		"unitID": 2200211,
+		"questionID": 9200210,
+		"script": ";;兄にして夫,1\n# textflame 1 1\n# voice 2002 \"aimuru_0001\"\n@アイムール\nマスター\nちょっと止まってください\n\n# face %(unit_a)s \"sad\"\n@アイムール\n本当に突然で\n申し訳ないのですが…\n\n@アイムール\n私のことを\nどれぐらいご存知なのか\n\n# face %(unit_a)s \"normal\"\n# voice 2002 \"aimuru_0003\"\n@アイムール\n私に関する質問をするので\n答えてもらっても\nよろしいでしょうか？\n\n@アイムール\nいえ、簡単なものばかりですので、\nそう身構えなくても問題ありません\n\n# eye %(unit_a)s \"close\"\n# voice 2002 \"aimuru_0036\"\n@アイムール\nそれでは…\nお願いします！\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私のキラーズ『アイムール』は\n勝利の女神アナトからすると\nどんな存在でしたか？\n\n# se \"SE_0734\"\n# select \"兄にして夫\" \"select_label_1\" \"父親にして夫\" \"select_label_2\" \"息子にして夫\" \"select_label_3\"\n私のキラーズ『アイムール』は\n勝利の女神アナトからすると\nどんな存在でしたか？\n"
+	},
+	{
+		"ID": 3361,
+		"unitID": 2200211,
+		"questionID": 9200211,
+		"script": ";;風,1\n# textflame 1 1\n# voice 2002 \"aimuru_0001\"\n@アイムール\nマスター\nちょっといいですか？\n\n# face %(unit_a)s \"sad\"\n@アイムール\n私からマスターに\nお願いがあるのですが…\n\n@アイムール\nその…私に関する質問に\n答えていただけませんか？\n\n# face %(unit_a)s \"normal\"\n# voice 2002 \"aimuru_0036\"\n@アイムール\n私のことを知っていれば\n簡単なことですので…\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の属性がお分かりですか？\n\n# se \"SE_0734\"\n# select \"風\" \"select_label_1\" \"雷\" \"select_label_2\" \"闇\" \"select_label_3\"\n私の属性がお分かりですか？\n"
+	},
+	{
+		"ID": 3362,
+		"unitID": 2200211,
+		"questionID": 9200212,
+		"script": ";;164cm,2\n# textflame 1 1\n# voice 2002 \"aimuru_0001\"\n@アイムール\nマスター\nちょっといいですか？\n\n# face %(unit_a)s \"sad\"\n@アイムール\n私からマスターに\nお願いがあるのですが…\n\n@アイムール\nその…私に関する質問に\n答えていただけませんか？\n\n# face %(unit_a)s \"normal\"\n# voice 2002 \"aimuru_0036\"\n@アイムール\n私のことを知っていれば\n簡単なことですので…\n;;---------------------------------\n\n@%(unitName:unit_a)s\nマスター、私の身長は\nご存知ではありませんか？\n\n# se \"SE_0734\"\n# select \"160cm\" \"select_label_1\" \"164cm\" \"select_label_2\" \"158cm\" \"select_label_3\"\nマスター、私の身長は\nご存知ではありませんか？\n"
+	},
+	{
+		"ID": 3363,
+		"unitID": 2200211,
+		"questionID": 9200213,
+		"script": ";;7月6日,3\n# textflame 1 1\n# voice 2002 \"aimuru_0001\"\n@アイムール\nマスター\nちょっといいですか？\n\n# face %(unit_a)s \"sad\"\n@アイムール\n私からマスターに\nお願いがあるのですが…\n\n@アイムール\nその…私に関する質問に\n答えていただけませんか？\n\n# face %(unit_a)s \"normal\"\n# voice 2002 \"aimuru_0036\"\n@アイムール\n私のことを知っていれば\n簡単なことですので…\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の誕生日が分かりますか？\n\n# se \"SE_0734\"\n# select \"9月12日\" \"select_label_1\" \"8月9日\" \"select_label_2\" \"7月6日\" \"select_label_3\"\n私の誕生日が分かりますか？\n"
+	},
+	{
+		"ID": 3364,
+		"unitID": 2200211,
+		"questionID": 9200214,
+		"script": ";;かに座,1\n# textflame 1 1\n# voice 2002 \"aimuru_0001\"\n@アイムール\nマスター\nちょっといいですか？\n\n# face %(unit_a)s \"sad\"\n@アイムール\n私からマスターに\nお願いがあるのですが…\n\n@アイムール\nその…私に関する質問に\n答えていただけませんか？\n\n# face %(unit_a)s \"normal\"\n# voice 2002 \"aimuru_0036\"\n@アイムール\n私のことを知っていれば\n簡単なことですので…\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の星座がわかりますか？\n\n# se \"SE_0734\"\n# select \"かに座\" \"select_label_1\" \"うお座\" \"select_label_2\" \"しし座\" \"select_label_3\"\n私の星座がわかりますか？\n"
+	},
+	{
+		"ID": 3365,
+		"unitID": 2200211,
+		"questionID": 9200215,
+		"script": ";;手加減をすること,2\n# textflame 1 1\n# voice 2002 \"aimuru_0001\"\n@アイムール\nマスター\nちょっといいですか？\n\n# face %(unit_a)s \"sad\"\n@アイムール\n私からマスターに\nお願いがあるのですが…\n\n@アイムール\nその…私に関する質問に\n答えていただけませんか？\n\n# face %(unit_a)s \"normal\"\n# voice 2002 \"aimuru_0036\"\n@アイムール\n私のことを知っていれば\n簡単なことですので…\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の苦手としていることが\nマスターに分かりますか？\n\n# se \"SE_0734\"\n# select \"汚いモノ\" \"select_label_1\" \"手加減をすること\" \"select_label_2\" \"嘘をつくこと\" \"select_label_3\"\n私の苦手としていることが\nマスターに分かりますか？\n"
+	},
+	{
+		"ID": 3366,
+		"unitID": 2200211,
+		"questionID": 9200216,
+		"script": ";;理不尽,3\n# textflame 1 1\n# voice 2002 \"aimuru_0001\"\n@アイムール\nマスター\nちょっといいですか？\n\n# face %(unit_a)s \"sad\"\n@アイムール\n私からマスターに\nお願いがあるのですが…\n\n@アイムール\nその…私に関する質問に\n答えていただけませんか？\n\n# face %(unit_a)s \"normal\"\n# voice 2002 \"aimuru_0036\"\n@アイムール\n私のことを知っていれば\n簡単なことですので…\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私は基本的に命令には忠実ですが\n○○なのは嫌いです…\n\n# se \"SE_0734\"\n# select \"無意味\" \"select_label_1\" \"退屈\" \"select_label_2\" \"理不尽\" \"select_label_3\"\n私は基本的に命令には忠実ですが\n○○なのは嫌いです…\n"
+	},
+	{
+		"ID": 3367,
+		"unitID": 2200211,
+		"questionID": 9200217,
+		"script": ";;A型,1\n# textflame 1 1\n# voice 2002 \"aimuru_0001\"\n@アイムール\nマスター\nちょっといいですか？\n\n# face %(unit_a)s \"sad\"\n@アイムール\n私からマスターに\nお願いがあるのですが…\n\n@アイムール\nその…私に関する質問に\n答えていただけませんか？\n\n# face %(unit_a)s \"normal\"\n# voice 2002 \"aimuru_0036\"\n@アイムール\n私のことを知っていれば\n簡単なことですので…\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の血液型がわかりますか？\n\n# se \"SE_0734\"\n# select \"A型\" \"select_label_1\" \"O型\" \"select_label_2\" \"B型\" \"select_label_3\"\n私の血液型がわかりますか？\n"
+	},
+	{
+		"ID": 3368,
+		"unitID": 2200211,
+		"questionID": 9200218,
+		"script": ";;ウガリット,2\n# textflame 1 1\n# voice 2002 \"aimuru_0001\"\n@アイムール\nマスター\nちょっといいですか？\n\n# face %(unit_a)s \"sad\"\n@アイムール\n私からマスターに\nお願いがあるのですが…\n\n@アイムール\nその…私に関する質問に\n答えていただけませんか？\n\n# face %(unit_a)s \"normal\"\n# voice 2002 \"aimuru_0036\"\n@アイムール\n私のことを知っていれば\n簡単なことですので…\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の出身地を\nちゃんと覚えていますか？\n\n# se \"SE_0734\"\n# select \"ビブロス\" \"select_label_1\" \"ウガリット\" \"select_label_2\" \"ラタキア\" \"select_label_3\"\n私の出身地を\nちゃんと覚えていますか？\n"
+	},
+	{
+		"ID": 3369,
+		"unitID": 2200211,
+		"questionID": 9200219,
+		"script": ";;追いかけっこ,3\n# textflame 1 1\n# voice 2002 \"aimuru_0001\"\n@アイムール\nマスター\nちょっといいですか？\n\n# face %(unit_a)s \"sad\"\n@アイムール\n私からマスターに\nお願いがあるのですが…\n\n@アイムール\nその…私に関する質問に\n答えていただけませんか？\n\n# face %(unit_a)s \"normal\"\n# voice 2002 \"aimuru_0036\"\n@アイムール\n私のことを知っていれば\n簡単なことですので…\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私はこれをしている時が\n一番楽しくて好きなのですが\nそれはなんだと思います？\n\n# se \"SE_0734\"\n# select \"入浴\" \"select_label_1\" \"武器の手入れ\" \"select_label_2\" \"追いかけっこ\" \"select_label_3\"\n私はこれをしている時が\n一番楽しくて好きなのですが\nそれはなんだと思います？\n"
+	},
+	{
+		"ID": 3370,
+		"unitID": 2200211,
+		"questionID": 9200220,
+		"script": ";;一人になる,1\n# textflame 1 1\n# voice 2002 \"aimuru_0001\"\n@アイムール\nマスター\nちょっといいですか？\n\n# face %(unit_a)s \"sad\"\n@アイムール\n私からマスターに\nお願いがあるのですが…\n\n@アイムール\nその…私に関する質問に\n答えていただけませんか？\n\n# face %(unit_a)s \"normal\"\n# voice 2002 \"aimuru_0036\"\n@アイムール\n私のことを知っていれば\n簡単なことですので…\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の趣味ですけど\nマスターならきっと心当たりが\nあるのではないでしょうか？\n\n# se \"SE_0734\"\n# select \"一人になる\" \"select_label_1\" \"瓦割り\" \"select_label_2\" \"掃除\" \"select_label_3\"\n私の趣味ですけど\nマスターならきっと心当たりが\nあるのではないでしょうか？\n"
+	},
+	{
+		"ID": 3371,
+		"unitID": 2200211,
+		"questionID": 9200221,
+		"script": ";;フレイル,1\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 2002 \"aimuru_0001\"\n@アイムール\nマスター\n唐突で悪いのですが…\n\n@アイムール\nあなたを試すようなことを\n今からやってもよろしいですか？\n\n# face %(unit_a)s \"normal\"\n# voice 2002 \"aimuru_0003\"\n@アイムール\nそこまで身構えなくても\n大丈夫です\n\n@アイムール\nそれではマスターに\n私に関する質問を出します\n\n# face %(unit_a)s \"sad\"\n# voice 2002 \"aimuru_0036\"\n@アイムール\nちゃんと私の期待に\n応えてくださいね…？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の武器はどんな形をしてますか？\n\n# se \"SE_0734\"\n# select \"フレイル\" \"select_label_1\" \"斧\" \"select_label_2\" \"槍\" \"select_label_3\"\n私の武器はどんな形をしてますか？\n"
+	},
+	{
+		"ID": 3372,
+		"unitID": 2200211,
+		"questionID": 9200222,
+		"script": ";;自立心,2\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 2002 \"aimuru_0001\"\n@アイムール\nマスター\n唐突で悪いのですが…\n\n@アイムール\nあなたを試すようなことを\n今からやってもよろしいですか？\n\n# face %(unit_a)s \"normal\"\n# voice 2002 \"aimuru_0003\"\n@アイムール\nそこまで身構えなくても\n大丈夫です\n\n@アイムール\nそれではマスターに\n私に関する質問を出します\n\n# face %(unit_a)s \"sad\"\n# voice 2002 \"aimuru_0036\"\n@アイムール\nちゃんと私の期待に\n応えてくださいね…？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nよく私は○○が強いと言われますが\nその○○とはなんでしょうか？\n\n# se \"SE_0734\"\n# select \"支配欲\" \"select_label_1\" \"自立心\" \"select_label_2\" \"精神力\" \"select_label_3\"\nよく私は○○が強いと言われますが\nその○○とはなんでしょうか？\n"
+	},
+	{
+		"ID": 3373,
+		"unitID": 2200211,
+		"questionID": 9200223,
+		"script": ";;グランバロン,3\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 2002 \"aimuru_0001\"\n@アイムール\nマスター\n唐突で悪いのですが…\n\n@アイムール\nあなたを試すようなことを\n今からやってもよろしいですか？\n\n# face %(unit_a)s \"normal\"\n# voice 2002 \"aimuru_0003\"\n@アイムール\nそこまで身構えなくても\n大丈夫です\n\n@アイムール\nそれではマスターに\n私に関する質問を出します\n\n# face %(unit_a)s \"sad\"\n# voice 2002 \"aimuru_0036\"\n@アイムール\nちゃんと私の期待に\n応えてくださいね…？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の☆５のジョブ名は\nなんだと思いますか？\n\n# se \"SE_0734\"\n# select \"グランドロン\" \"select_label_1\" \"グランバリン\" \"select_label_2\" \"グランバロン\" \"select_label_3\"\n私の☆５のジョブ名は\nなんだと思いますか？\n"
+	},
+	{
+		"ID": 3374,
+		"unitID": 2200211,
+		"questionID": 9200224,
+		"script": ";;斧神,1\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 2002 \"aimuru_0001\"\n@アイムール\nマスター\n唐突で悪いのですが…\n\n@アイムール\nあなたを試すようなことを\n今からやってもよろしいですか？\n\n# face %(unit_a)s \"normal\"\n# voice 2002 \"aimuru_0003\"\n@アイムール\nそこまで身構えなくても\n大丈夫です\n\n@アイムール\nそれではマスターに\n私に関する質問を出します\n\n# face %(unit_a)s \"sad\"\n# voice 2002 \"aimuru_0036\"\n@アイムール\nちゃんと私の期待に\n応えてくださいね…？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nサンタ姿の私の☆６の\nジョブ名はなんだと思いますか？\n\n# se \"SE_0734\"\n# select \"斧神\" \"select_label_1\" \"斧将\" \"select_label_2\" \"斧帝\" \"select_label_3\"\nサンタ姿の私の☆６の\nジョブ名はなんだと思いますか？\n"
+	},
+	{
+		"ID": 3375,
+		"unitID": 2200211,
+		"questionID": 9200225,
+		"script": ";;足を置いていた,2\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 2002 \"aimuru_0001\"\n@アイムール\nマスター\n唐突で悪いのですが…\n\n@アイムール\nあなたを試すようなことを\n今からやってもよろしいですか？\n\n# face %(unit_a)s \"normal\"\n# voice 2002 \"aimuru_0003\"\n@アイムール\nそこまで身構えなくても\n大丈夫です\n\n@アイムール\nそれではマスターに\n私に関する質問を出します\n\n# face %(unit_a)s \"sad\"\n# voice 2002 \"aimuru_0036\"\n@アイムール\nちゃんと私の期待に\n応えてくださいね…？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私がサンタの格好をしていた時\nプレゼント風に装飾した武器の上に…\n\n# se \"SE_0734\"\n# select \"座っていた\" \"select_label_1\" \"足を置いていた\" \"select_label_2\" \"雪を置いていた\" \"select_label_3\"\n私がサンタの格好をしていた時\nプレゼント風に装飾した武器の上に…\n"
+	},
+	{
+		"ID": 3376,
+		"unitID": 2200211,
+		"questionID": 9200226,
+		"script": ";;ヤグルシ,3\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 2002 \"aimuru_0001\"\n@アイムール\nマスター\n唐突で悪いのですが…\n\n@アイムール\nあなたを試すようなことを\n今からやってもよろしいですか？\n\n# face %(unit_a)s \"normal\"\n# voice 2002 \"aimuru_0003\"\n@アイムール\nそこまで身構えなくても\n大丈夫です\n\n@アイムール\nそれではマスターに\n私に関する質問を出します\n\n# face %(unit_a)s \"sad\"\n# voice 2002 \"aimuru_0036\"\n@アイムール\nちゃんと私の期待に\n応えてくださいね…？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私にはドジで甘えん坊な\n妹がいるのですが、\nそれはいったい誰でしょうか？\n\n# se \"SE_0734\"\n# select \"ミョルニル\" \"select_label_1\" \"ウコンバサラ\" \"select_label_2\" \"ヤグルシ\" \"select_label_3\"\n私にはドジで甘えん坊な\n妹がいるのですが、\nそれはいったい誰でしょうか？\n"
+	},
+	{
+		"ID": 3377,
+		"unitID": 2200211,
+		"questionID": 9200227,
+		"script": ";;回避,1\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 2002 \"aimuru_0001\"\n@アイムール\nマスター\n唐突で悪いのですが…\n\n@アイムール\nあなたを試すようなことを\n今からやってもよろしいですか？\n\n# face %(unit_a)s \"normal\"\n# voice 2002 \"aimuru_0003\"\n@アイムール\nそこまで身構えなくても\n大丈夫です\n\n@アイムール\nそれではマスターに\n私に関する質問を出します\n\n# face %(unit_a)s \"sad\"\n# voice 2002 \"aimuru_0036\"\n@アイムール\nちゃんと私の期待に\n応えてくださいね…？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私のスキル「ヴァン★ガード」\n自分から攻撃を仕掛けたとき\n命中となにが大きく上がりますか？\n\n# se \"SE_0734\"\n# select \"回避\" \"select_label_1\" \"防御\" \"select_label_2\" \"必殺\" \"select_label_3\"\n私のスキル「ヴァン★ガード」\n自分から攻撃を仕掛けたとき\n命中となにが大きく上がりますか？\n"
+	},
+	{
+		"ID": 3378,
+		"unitID": 2200211,
+		"questionID": 9200228,
+		"script": ";;クリティカル,2\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 2002 \"aimuru_0001\"\n@アイムール\nマスター\n唐突で悪いのですが…\n\n@アイムール\nあなたを試すようなことを\n今からやってもよろしいですか？\n\n# face %(unit_a)s \"normal\"\n# voice 2002 \"aimuru_0003\"\n@アイムール\nそこまで身構えなくても\n大丈夫です\n\n@アイムール\nそれではマスターに\n私に関する質問を出します\n\n# face %(unit_a)s \"sad\"\n# voice 2002 \"aimuru_0036\"\n@アイムール\nちゃんと私の期待に\n応えてくださいね…？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私のスキル「見切り」は\n３ターンの間、自身に対して\nなにが発生しないでしょうか？\n\n# se \"SE_0734\"\n# select \"ダメージ\" \"select_label_1\" \"クリティカル\" \"select_label_2\" \"命中\" \"select_label_3\"\n私のスキル「見切り」は\n３ターンの間、自身に対して\nなにが発生しないでしょうか？\n"
+	},
+	{
+		"ID": 3379,
+		"unitID": 2200211,
+		"questionID": 9200229,
+		"script": ";;聖斧将の滅気,3\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 2002 \"aimuru_0001\"\n@アイムール\nマスター\n唐突で悪いのですが…\n\n@アイムール\nあなたを試すようなことを\n今からやってもよろしいですか？\n\n# face %(unit_a)s \"normal\"\n# voice 2002 \"aimuru_0003\"\n@アイムール\nそこまで身構えなくても\n大丈夫です\n\n@アイムール\nそれではマスターに\n私に関する質問を出します\n\n# face %(unit_a)s \"sad\"\n# voice 2002 \"aimuru_0036\"\n@アイムール\nちゃんと私の期待に\n応えてくださいね…？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の☆５のリーダースキルの\n名称をマスターは知っていますか？\n\n# se \"SE_0734\"\n# select \"聖斧将の活気\" \"select_label_1\" \"聖斧将の覇気\" \"select_label_2\" \"聖斧将の滅気\" \"select_label_3\"\n私の☆５のリーダースキルの\n名称をマスターは知っていますか？\n"
+	},
+	{
+		"ID": 3380,
+		"unitID": 2200211,
+		"questionID": 9200230,
+		"script": ";;斧,1\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 2002 \"aimuru_0001\"\n@アイムール\nマスター\n唐突で悪いのですが…\n\n@アイムール\nあなたを試すようなことを\n今からやってもよろしいですか？\n\n# face %(unit_a)s \"normal\"\n# voice 2002 \"aimuru_0003\"\n@アイムール\nそこまで身構えなくても\n大丈夫です\n\n@アイムール\nそれではマスターに\n私に関する質問を出します\n\n# face %(unit_a)s \"sad\"\n# voice 2002 \"aimuru_0036\"\n@アイムール\nちゃんと私の期待に\n応えてくださいね…？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私のスキル「斧の呼吸」は\n相手がなにを装備しているときに\n命中と回避が上昇しますか？\n\n# se \"SE_0734\"\n# select \"斧\" \"select_label_1\" \"剣\" \"select_label_2\" \"槍\" \"select_label_3\"\n私のスキル「斧の呼吸」は\n相手がなにを装備しているときに\n命中と回避が上昇しますか？\n"
+	},
+	{
+		"ID": 3381,
+		"unitID": 2200211,
+		"questionID": 9200231,
+		"script": ";;ゲイボルグ,1\n# textflame 1 1\n# voice 2002 \"aimuru_0001\"\n@アイムール\nマスター…\n\n@アイムール\nマスターは私のことを\nどれくらい理解していますか？\n\n# voice 2002 \"aimuru_0003\"\n@アイムール\nそれを知りたいので、\n質問したいと思います\n\n# face %(unit_a)s \"sad\"\n@アイムール\n唐突なことで\n本当に申し訳ないのですが…\n\n# face %(unit_a)s \"normal\"\n# voice 2002 \"aimuru_0036\"\n@アイムール\nよろしくお願いします\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私がライバルだと認める\n縁日の射的でも勝負をした\n必中武器を操る姫は誰ですか？\n\n# se \"SE_0734\"\n# select \"ゲイボルグ\" \"select_label_1\" \"イシューリエル\" \"select_label_2\" \"ロンギヌス\" \"select_label_3\"\n私がライバルだと認める\n縁日の射的でも勝負をした\n必中武器を操る姫は誰ですか？\n"
+	},
+	{
+		"ID": 3382,
+		"unitID": 2200211,
+		"questionID": 9200232,
+		"script": ";;雷を操る武器同士だから,2\n# textflame 1 1\n# voice 2002 \"aimuru_0001\"\n@アイムール\nマスター…\n\n@アイムール\nマスターは私のことを\nどれくらい理解していますか？\n\n# voice 2002 \"aimuru_0003\"\n@アイムール\nそれを知りたいので、\n質問したいと思います\n\n# face %(unit_a)s \"sad\"\n@アイムール\n唐突なことで\n本当に申し訳ないのですが…\n\n# face %(unit_a)s \"normal\"\n# voice 2002 \"aimuru_0036\"\n@アイムール\nよろしくお願いします\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私とヴァジュラが\nどうしてライバル関係なのか\n知っていますか？\n\n# se \"SE_0734\"\n# select \"古い付き合いだから\" \"select_label_1\" \"雷を操る武器同士だから\" \"select_label_2\" \"故郷が同じだから\" \"select_label_3\"\n私とヴァジュラが\nどうしてライバル関係なのか\n知っていますか？\n"
+	},
+	{
+		"ID": 3383,
+		"unitID": 2200211,
+		"questionID": 9200233,
+		"script": ";;水色,3\n# textflame 1 1\n# voice 2002 \"aimuru_0001\"\n@アイムール\nマスター…\n\n@アイムール\nマスターは私のことを\nどれくらい理解していますか？\n\n# voice 2002 \"aimuru_0003\"\n@アイムール\nそれを知りたいので、\n質問したいと思います\n\n# face %(unit_a)s \"sad\"\n@アイムール\n唐突なことで\n本当に申し訳ないのですが…\n\n# face %(unit_a)s \"normal\"\n# voice 2002 \"aimuru_0036\"\n@アイムール\nよろしくお願いします\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の目はなに色でしょうか？\nよく見てください\n\n# se \"SE_0734\"\n# select \"桃色\" \"select_label_1\" \"緋色\" \"select_label_2\" \"水色\" \"select_label_3\"\n私の目はなに色でしょうか？\nよく見てください\n"
+	},
+	{
+		"ID": 3384,
+		"unitID": 2200211,
+		"questionID": 9200234,
+		"script": ";;楽しかったから,1\n# textflame 1 1\n# voice 2002 \"aimuru_0001\"\n@アイムール\nマスター…\n\n@アイムール\nマスターは私のことを\nどれくらい理解していますか？\n\n# voice 2002 \"aimuru_0003\"\n@アイムール\nそれを知りたいので、\n質問したいと思います\n\n# face %(unit_a)s \"sad\"\n@アイムール\n唐突なことで\n本当に申し訳ないのですが…\n\n# face %(unit_a)s \"normal\"\n# voice 2002 \"aimuru_0036\"\n@アイムール\nよろしくお願いします\n;;---------------------------------\n\n@%(unitName:unit_a)s\n鬼ごっこをした時に\n私がマスターだけを追いかけた\n本当の理由を覚えていますか？\n\n# se \"SE_0734\"\n# select \"楽しかったから\" \"select_label_1\" \"捕らえやすいから\" \"select_label_2\" \"恨みがあったから\" \"select_label_3\"\n鬼ごっこをした時に\n私がマスターだけを追いかけた\n本当の理由を覚えていますか？\n"
+	},
+	{
+		"ID": 3385,
+		"unitID": 2200211,
+		"questionID": 9200235,
+		"script": ";;お尻を鷲掴みにした,2\n# textflame 1 1\n# voice 2002 \"aimuru_0001\"\n@アイムール\nマスター…\n\n@アイムール\nマスターは私のことを\nどれくらい理解していますか？\n\n# voice 2002 \"aimuru_0003\"\n@アイムール\nそれを知りたいので、\n質問したいと思います\n\n# face %(unit_a)s \"sad\"\n@アイムール\n唐突なことで\n本当に申し訳ないのですが…\n\n# face %(unit_a)s \"normal\"\n# voice 2002 \"aimuru_0036\"\n@アイムール\nよろしくお願いします\n;;---------------------------------\n\n@%(unitName:unit_a)s\n鬼ごっこをした時にマスターが\nやってはいけないことをしましたが\nもちろん覚えていますよね？\n\n# se \"SE_0734\"\n# select \"勝手に帰った\" \"select_label_1\" \"お尻を鷲掴みにした\" \"select_label_2\" \"鬼じゃないと嘘をついた\" \"select_label_3\"\n鬼ごっこをした時にマスターが\nやってはいけないことをしましたが\nもちろん覚えていますよね？\n"
+	},
+	{
+		"ID": 3386,
+		"unitID": 2200211,
+		"questionID": 9200236,
+		"script": ";;赤色,3\n# textflame 1 1\n# voice 2002 \"aimuru_0001\"\n@アイムール\nマスター…\n\n@アイムール\nマスターは私のことを\nどれくらい理解していますか？\n\n# voice 2002 \"aimuru_0003\"\n@アイムール\nそれを知りたいので、\n質問したいと思います\n\n# face %(unit_a)s \"sad\"\n@アイムール\n唐突なことで\n本当に申し訳ないのですが…\n\n# face %(unit_a)s \"normal\"\n# voice 2002 \"aimuru_0036\"\n@アイムール\nよろしくお願いします\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の髪色を把握していますか？\n…こちらを見てはいけません\n\n# se \"SE_0734\"\n# select \"紫色\" \"select_label_1\" \"黒色\" \"select_label_2\" \"赤色\" \"select_label_3\"\n私の髪色を把握していますか？\n…こちらを見てはいけません\n"
+	},
+	{
+		"ID": 3387,
+		"unitID": 2200211,
+		"questionID": 9200237,
+		"script": ";;ゴーグル,1\n# textflame 1 1\n# voice 2002 \"aimuru_0001\"\n@アイムール\nマスター…\n\n@アイムール\nマスターは私のことを\nどれくらい理解していますか？\n\n# voice 2002 \"aimuru_0003\"\n@アイムール\nそれを知りたいので、\n質問したいと思います\n\n# face %(unit_a)s \"sad\"\n@アイムール\n唐突なことで\n本当に申し訳ないのですが…\n\n# face %(unit_a)s \"normal\"\n# voice 2002 \"aimuru_0036\"\n@アイムール\nよろしくお願いします\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私が頭に付けていたことがあるものは\n次のうちどれでしょうか？\n\n# se \"SE_0734\"\n# select \"ゴーグル\" \"select_label_1\" \"髪飾り\" \"select_label_2\" \"シュシュ\" \"select_label_3\"\n私が頭に付けていたことがあるものは\n次のうちどれでしょうか？\n"
+	},
+	{
+		"ID": 3388,
+		"unitID": 2200211,
+		"questionID": 9200238,
+		"script": ";;シリア,2\n# textflame 1 1\n# voice 2002 \"aimuru_0001\"\n@アイムール\nマスター…\n\n@アイムール\nマスターは私のことを\nどれくらい理解していますか？\n\n# voice 2002 \"aimuru_0003\"\n@アイムール\nそれを知りたいので、\n質問したいと思います\n\n# face %(unit_a)s \"sad\"\n@アイムール\n唐突なことで\n本当に申し訳ないのですが…\n\n# face %(unit_a)s \"normal\"\n# voice 2002 \"aimuru_0036\"\n@アイムール\nよろしくお願いします\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の出身地であるウガリットは\n現在のどこにあったでしょうか？\n\n# se \"SE_0734\"\n# select \"エジプト\" \"select_label_1\" \"シリア\" \"select_label_2\" \"ヨルダン\" \"select_label_3\"\n私の出身地であるウガリットは\n現在のどこにあったでしょうか？\n"
+	},
+	{
+		"ID": 3389,
+		"unitID": 2200211,
+		"questionID": 9200239,
+		"script": ";;パラシュ,3\n# textflame 1 1\n# voice 2002 \"aimuru_0001\"\n@アイムール\nマスター…\n\n@アイムール\nマスターは私のことを\nどれくらい理解していますか？\n\n# voice 2002 \"aimuru_0003\"\n@アイムール\nそれを知りたいので、\n質問したいと思います\n\n# face %(unit_a)s \"sad\"\n@アイムール\n唐突なことで\n本当に申し訳ないのですが…\n\n# face %(unit_a)s \"normal\"\n# voice 2002 \"aimuru_0036\"\n@アイムール\nよろしくお願いします\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の誕生月と同じなのは\nこの中で誰だか分かりますか？\n\n# se \"SE_0734\"\n# select \"アダマス\" \"select_label_1\" \"フラガラッハ\" \"select_label_2\" \"パラシュ\" \"select_label_3\"\n私の誕生月と同じなのは\nこの中で誰だか分かりますか？\n"
+	},
+	{
+		"ID": 3390,
+		"unitID": 2200211,
+		"questionID": 9200240,
+		"script": ";;ウコンバサラ,1\n# textflame 1 1\n# voice 2002 \"aimuru_0001\"\n@アイムール\nマスター…\n\n@アイムール\nマスターは私のことを\nどれくらい理解していますか？\n\n# voice 2002 \"aimuru_0003\"\n@アイムール\nそれを知りたいので、\n質問したいと思います\n\n# face %(unit_a)s \"sad\"\n@アイムール\n唐突なことで\n本当に申し訳ないのですが…\n\n# face %(unit_a)s \"normal\"\n# voice 2002 \"aimuru_0036\"\n@アイムール\nよろしくお願いします\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の血液型と同じなのは\nこの中で誰だか分かりますか？\n\n# se \"SE_0734\"\n# select \"ウコンバサラ\" \"select_label_1\" \"カドケウス\" \"select_label_2\" \"梓弓\" \"select_label_3\"\n私の血液型と同じなのは\nこの中で誰だか分かりますか？\n"
+	},
+	{
+		"ID": 3391,
+		"unitID": 2200211,
+		"questionID": 9200241,
+		"script": "\n;;私,1\n# se \"SE_0734\"\n# select \"私\" \"select_label_1\" \"ワタシ\" \"select_label_2\" \"わたくし\" \"select_label_3\"\nアイムールの一人称は\n次のうちどれ？\n"
+	},
+	{
+		"ID": 3392,
+		"unitID": 2200211,
+		"questionID": 9200242,
+		"script": "\n;;マスター,2\n# se \"SE_0734\"\n# select \"ご主人様\" \"select_label_1\" \"マスター\" \"select_label_2\" \"お前\" \"select_label_3\"\nアイムールはアンタのこと、\nなんて呼んでる？\n"
+	},
+	{
+		"ID": 3393,
+		"unitID": 2200211,
+		"questionID": 9200243,
+		"script": "\n;;84,3\n# se \"SE_0734\"\n# select \"81\" \"select_label_1\" \"87\" \"select_label_2\" \"84\" \"select_label_3\"\nアイムールの\nバストサイズがどのくらいか\nアンタ…知ってるの？\n"
+	},
+	{
+		"ID": 3394,
+		"unitID": 2200211,
+		"questionID": 9200244,
+		"script": "\n;;59,1\n# se \"SE_0734\"\n# select \"59\" \"select_label_1\" \"56\" \"select_label_2\" \"62\" \"select_label_3\"\nアイムールの\nウエストサイズがどのくらいか\nアンタ…知ってるの？\n"
+	},
+	{
+		"ID": 3395,
+		"unitID": 2200211,
+		"questionID": 9200245,
+		"script": "\n;;86,2\n# se \"SE_0734\"\n# select \"83\" \"select_label_1\" \"86\" \"select_label_2\" \"89\" \"select_label_3\"\nアイムールの\nヒップサイズがどのくらいか\nアンタ…知ってるの？\n"
+	},
+	{
+		"ID": 3396,
+		"unitID": 2200211,
+		"questionID": 9200246,
+		"script": "\n;;48,3\n# se \"SE_0734\"\n# select \"45\" \"select_label_1\" \"51\" \"select_label_2\" \"48\" \"select_label_3\"\nアイムールの体重は\n次のうちどれ？\n"
+	},
+	{
+		"ID": 3397,
+		"unitID": 2200211,
+		"questionID": 9200247,
+		"script": "\n;;229,1\n# se \"SE_0734\"\n# select \"229\" \"select_label_1\" \"220\" \"select_label_2\" \"238\" \"select_label_3\"\nアイムールの\nバスト＋ウエスト＋ヒップは\nいくつかわかる？\n"
+	},
+	{
+		"ID": 3398,
+		"unitID": 2200211,
+		"questionID": 9200248,
+		"script": "\n;;紫,2\n# se \"SE_0734\"\n# select \"白\" \"select_label_1\" \"紫\" \"select_label_2\" \"黒\" \"select_label_3\"\nアイムールの水着の色は\n次のうちどれ？\n"
+	},
+	{
+		"ID": 3399,
+		"unitID": 2200211,
+		"questionID": 9200249,
+		"script": "\n;;40位,3\n# se \"SE_0734\"\n# select \"43位\" \"select_label_1\" \"47位\" \"select_label_2\" \"40位\" \"select_label_3\"\nアイムールは\n第２回人気投票で\n何位だったでしょう？\n"
+	},
+	{
+		"ID": 3400,
+		"unitID": 2200211,
+		"questionID": 9200250,
+		"script": "\n;;茅原実里,1\n# se \"SE_0734\"\n# select \"茅原実里\" \"select_label_1\" \"佐藤利奈\" \"select_label_2\" \"井上麻里奈\" \"select_label_3\"\nアイムールの声優は誰？\n"
+	}
+]

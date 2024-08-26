@@ -1,0 +1,470 @@
+[
+	{
+		"ID": 1,
+		"gear_GearGear": 9310001,
+		"skill_BattleskillSkill": 360000006,
+		"skill_level": 1,
+		"release_rank": 15,
+		"skill_group": 1,
+		"awake_weapon_group": 1005
+	},
+	{
+		"ID": 2,
+		"gear_GearGear": 9310001,
+		"skill_BattleskillSkill": 360000007,
+		"skill_level": 1,
+		"release_rank": 15,
+		"skill_group": 2,
+		"awake_weapon_group": 1006
+	},
+	{
+		"ID": 3,
+		"gear_GearGear": 9310001,
+		"skill_BattleskillSkill": 360000008,
+		"skill_level": 1,
+		"release_rank": 15,
+		"skill_group": 3,
+		"awake_weapon_group": 1007
+	},
+	{
+		"ID": 4,
+		"gear_GearGear": 9320001,
+		"skill_BattleskillSkill": 360000002,
+		"skill_level": 1,
+		"release_rank": 15,
+		"skill_group": 1,
+		"awake_weapon_group": 2001
+	},
+	{
+		"ID": 5,
+		"gear_GearGear": 9320001,
+		"skill_BattleskillSkill": 360000007,
+		"skill_level": 1,
+		"release_rank": 15,
+		"skill_group": 2,
+		"awake_weapon_group": 2006
+	},
+	{
+		"ID": 6,
+		"gear_GearGear": 9330001,
+		"skill_BattleskillSkill": 360000002,
+		"skill_level": 1,
+		"release_rank": 15,
+		"skill_group": 1,
+		"awake_weapon_group": 3001
+	},
+	{
+		"ID": 7,
+		"gear_GearGear": 9340001,
+		"skill_BattleskillSkill": 360000007,
+		"skill_level": 1,
+		"release_rank": 15,
+		"skill_group": 1,
+		"awake_weapon_group": 4006
+	},
+	{
+		"ID": 8,
+		"gear_GearGear": 9340001,
+		"skill_BattleskillSkill": 360000008,
+		"skill_level": 1,
+		"release_rank": 15,
+		"skill_group": 2,
+		"awake_weapon_group": 4007
+	},
+	{
+		"ID": 9,
+		"gear_GearGear": 9350001,
+		"skill_BattleskillSkill": 360000003,
+		"skill_level": 1,
+		"release_rank": 15,
+		"skill_group": 1,
+		"awake_weapon_group": 5003
+	},
+	{
+		"ID": 10,
+		"gear_GearGear": 9350001,
+		"skill_BattleskillSkill": 360000006,
+		"skill_level": 1,
+		"release_rank": 15,
+		"skill_group": 2,
+		"awake_weapon_group": 5005
+	},
+	{
+		"ID": 11,
+		"gear_GearGear": 9360001,
+		"skill_BattleskillSkill": 360000003,
+		"skill_level": 1,
+		"release_rank": 15,
+		"skill_group": 1,
+		"awake_weapon_group": 6003
+	},
+	{
+		"ID": 12,
+		"gear_GearGear": 9360001,
+		"skill_BattleskillSkill": 360000006,
+		"skill_level": 1,
+		"release_rank": 15,
+		"skill_group": 2,
+		"awake_weapon_group": 6005
+	},
+	{
+		"ID": 13,
+		"gear_GearGear": 9360001,
+		"skill_BattleskillSkill": 360000007,
+		"skill_level": 1,
+		"release_rank": 15,
+		"skill_group": 3,
+		"awake_weapon_group": 6006
+	},
+	{
+		"ID": 14,
+		"gear_GearGear": 9360001,
+		"skill_BattleskillSkill": 360000008,
+		"skill_level": 1,
+		"release_rank": 15,
+		"skill_group": 4,
+		"awake_weapon_group": 6007
+	},
+	{
+		"ID": 15,
+		"gear_GearGear": 9311001,
+		"skill_BattleskillSkill": 360000009,
+		"skill_level": 1,
+		"release_rank": 7,
+		"skill_group": 1,
+		"awake_weapon_group": 0
+	},
+	{
+		"ID": 16,
+		"gear_GearGear": 9321001,
+		"skill_BattleskillSkill": 360000009,
+		"skill_level": 1,
+		"release_rank": 7,
+		"skill_group": 2,
+		"awake_weapon_group": 0
+	},
+	{
+		"ID": 17,
+		"gear_GearGear": 9331001,
+		"skill_BattleskillSkill": 360000009,
+		"skill_level": 1,
+		"release_rank": 7,
+		"skill_group": 3,
+		"awake_weapon_group": 0
+	},
+	{
+		"ID": 18,
+		"gear_GearGear": 9341001,
+		"skill_BattleskillSkill": 360000009,
+		"skill_level": 1,
+		"release_rank": 7,
+		"skill_group": 4,
+		"awake_weapon_group": 0
+	},
+	{
+		"ID": 19,
+		"gear_GearGear": 9351001,
+		"skill_BattleskillSkill": 360000009,
+		"skill_level": 1,
+		"release_rank": 7,
+		"skill_group": 5,
+		"awake_weapon_group": 0
+	},
+	{
+		"ID": 20,
+		"gear_GearGear": 9361001,
+		"skill_BattleskillSkill": 360000009,
+		"skill_level": 1,
+		"release_rank": 7,
+		"skill_group": 6,
+		"awake_weapon_group": 0
+	},
+	{
+		"ID": 21,
+		"gear_GearGear": 9311101,
+		"skill_BattleskillSkill": 360000012,
+		"skill_level": 1,
+		"release_rank": 7,
+		"skill_group": 1,
+		"awake_weapon_group": 0
+	},
+	{
+		"ID": 22,
+		"gear_GearGear": 9321101,
+		"skill_BattleskillSkill": 360000012,
+		"skill_level": 1,
+		"release_rank": 7,
+		"skill_group": 2,
+		"awake_weapon_group": 0
+	},
+	{
+		"ID": 23,
+		"gear_GearGear": 9331101,
+		"skill_BattleskillSkill": 360000012,
+		"skill_level": 1,
+		"release_rank": 7,
+		"skill_group": 3,
+		"awake_weapon_group": 0
+	},
+	{
+		"ID": 24,
+		"gear_GearGear": 9341101,
+		"skill_BattleskillSkill": 360000012,
+		"skill_level": 1,
+		"release_rank": 7,
+		"skill_group": 4,
+		"awake_weapon_group": 0
+	},
+	{
+		"ID": 25,
+		"gear_GearGear": 9351101,
+		"skill_BattleskillSkill": 360000012,
+		"skill_level": 1,
+		"release_rank": 7,
+		"skill_group": 5,
+		"awake_weapon_group": 0
+	},
+	{
+		"ID": 26,
+		"gear_GearGear": 9361101,
+		"skill_BattleskillSkill": 360000012,
+		"skill_level": 1,
+		"release_rank": 7,
+		"skill_group": 6,
+		"awake_weapon_group": 0
+	},
+	{
+		"ID": 27,
+		"gear_GearGear": 9311201,
+		"skill_BattleskillSkill": 360000010,
+		"skill_level": 1,
+		"release_rank": 7,
+		"skill_group": 1,
+		"awake_weapon_group": 0
+	},
+	{
+		"ID": 28,
+		"gear_GearGear": 9321201,
+		"skill_BattleskillSkill": 360000010,
+		"skill_level": 1,
+		"release_rank": 7,
+		"skill_group": 2,
+		"awake_weapon_group": 0
+	},
+	{
+		"ID": 29,
+		"gear_GearGear": 9331201,
+		"skill_BattleskillSkill": 360000010,
+		"skill_level": 1,
+		"release_rank": 7,
+		"skill_group": 3,
+		"awake_weapon_group": 0
+	},
+	{
+		"ID": 30,
+		"gear_GearGear": 9341201,
+		"skill_BattleskillSkill": 360000010,
+		"skill_level": 1,
+		"release_rank": 7,
+		"skill_group": 4,
+		"awake_weapon_group": 0
+	},
+	{
+		"ID": 31,
+		"gear_GearGear": 9351201,
+		"skill_BattleskillSkill": 360000010,
+		"skill_level": 1,
+		"release_rank": 7,
+		"skill_group": 5,
+		"awake_weapon_group": 0
+	},
+	{
+		"ID": 32,
+		"gear_GearGear": 9361201,
+		"skill_BattleskillSkill": 360000010,
+		"skill_level": 1,
+		"release_rank": 7,
+		"skill_group": 6,
+		"awake_weapon_group": 0
+	},
+	{
+		"ID": 33,
+		"gear_GearGear": 9311301,
+		"skill_BattleskillSkill": 360000011,
+		"skill_level": 1,
+		"release_rank": 7,
+		"skill_group": 1,
+		"awake_weapon_group": 0
+	},
+	{
+		"ID": 34,
+		"gear_GearGear": 9321301,
+		"skill_BattleskillSkill": 360000011,
+		"skill_level": 1,
+		"release_rank": 7,
+		"skill_group": 2,
+		"awake_weapon_group": 0
+	},
+	{
+		"ID": 35,
+		"gear_GearGear": 9331301,
+		"skill_BattleskillSkill": 360000011,
+		"skill_level": 1,
+		"release_rank": 7,
+		"skill_group": 3,
+		"awake_weapon_group": 0
+	},
+	{
+		"ID": 36,
+		"gear_GearGear": 9341301,
+		"skill_BattleskillSkill": 360000011,
+		"skill_level": 1,
+		"release_rank": 7,
+		"skill_group": 4,
+		"awake_weapon_group": 0
+	},
+	{
+		"ID": 37,
+		"gear_GearGear": 9351301,
+		"skill_BattleskillSkill": 360000011,
+		"skill_level": 1,
+		"release_rank": 7,
+		"skill_group": 5,
+		"awake_weapon_group": 0
+	},
+	{
+		"ID": 38,
+		"gear_GearGear": 9361301,
+		"skill_BattleskillSkill": 360000011,
+		"skill_level": 1,
+		"release_rank": 7,
+		"skill_group": 6,
+		"awake_weapon_group": 0
+	},
+	{
+		"ID": 39,
+		"gear_GearGear": 9310001,
+		"skill_BattleskillSkill": 360000015,
+		"skill_level": 1,
+		"release_rank": 40,
+		"skill_group": 4,
+		"awake_weapon_group": 1011
+	},
+	{
+		"ID": 40,
+		"gear_GearGear": 9320001,
+		"skill_BattleskillSkill": 360000015,
+		"skill_level": 1,
+		"release_rank": 40,
+		"skill_group": 3,
+		"awake_weapon_group": 2011
+	},
+	{
+		"ID": 41,
+		"gear_GearGear": 9330001,
+		"skill_BattleskillSkill": 360000015,
+		"skill_level": 1,
+		"release_rank": 40,
+		"skill_group": 2,
+		"awake_weapon_group": 3011
+	},
+	{
+		"ID": 42,
+		"gear_GearGear": 9340001,
+		"skill_BattleskillSkill": 360000015,
+		"skill_level": 1,
+		"release_rank": 40,
+		"skill_group": 3,
+		"awake_weapon_group": 4011
+	},
+	{
+		"ID": 43,
+		"gear_GearGear": 9350001,
+		"skill_BattleskillSkill": 360000015,
+		"skill_level": 1,
+		"release_rank": 40,
+		"skill_group": 3,
+		"awake_weapon_group": 5011
+	},
+	{
+		"ID": 44,
+		"gear_GearGear": 9360001,
+		"skill_BattleskillSkill": 360000015,
+		"skill_level": 1,
+		"release_rank": 40,
+		"skill_group": 5,
+		"awake_weapon_group": 6011
+	},
+	{
+		"ID": 45,
+		"gear_GearGear": 9370001,
+		"skill_BattleskillSkill": 360000016,
+		"skill_level": 1,
+		"release_rank": 40,
+		"skill_group": 1,
+		"awake_weapon_group": 7011
+	},
+	{
+		"ID": 46,
+		"gear_GearGear": 9310001,
+		"skill_BattleskillSkill": 360000013,
+		"skill_level": 1,
+		"release_rank": 40,
+		"skill_group": 5,
+		"awake_weapon_group": 1012
+	},
+	{
+		"ID": 47,
+		"gear_GearGear": 9320001,
+		"skill_BattleskillSkill": 360000013,
+		"skill_level": 1,
+		"release_rank": 40,
+		"skill_group": 4,
+		"awake_weapon_group": 2012
+	},
+	{
+		"ID": 48,
+		"gear_GearGear": 9330001,
+		"skill_BattleskillSkill": 360000013,
+		"skill_level": 1,
+		"release_rank": 40,
+		"skill_group": 3,
+		"awake_weapon_group": 3012
+	},
+	{
+		"ID": 49,
+		"gear_GearGear": 9340001,
+		"skill_BattleskillSkill": 360000013,
+		"skill_level": 1,
+		"release_rank": 40,
+		"skill_group": 4,
+		"awake_weapon_group": 4012
+	},
+	{
+		"ID": 50,
+		"gear_GearGear": 9350001,
+		"skill_BattleskillSkill": 360000013,
+		"skill_level": 1,
+		"release_rank": 40,
+		"skill_group": 4,
+		"awake_weapon_group": 5012
+	},
+	{
+		"ID": 51,
+		"gear_GearGear": 9360001,
+		"skill_BattleskillSkill": 360000013,
+		"skill_level": 1,
+		"release_rank": 40,
+		"skill_group": 6,
+		"awake_weapon_group": 6012
+	},
+	{
+		"ID": 52,
+		"gear_GearGear": 9370001,
+		"skill_BattleskillSkill": 360000014,
+		"skill_level": 1,
+		"release_rank": 40,
+		"skill_group": 2,
+		"awake_weapon_group": 7012
+	}
+]

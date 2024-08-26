@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 91002299,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# se \"SE_0732\"\n# voice 1002 \"revatein_0004\"\n@レーヴァテイン\n…正解\n\n# voice 1002 \"revatein_0007\"\n@レーヴァテイン\nやるじゃん\nおんぶを迫ってきたヘンタイのくせに\n\n@レーヴァテイン\nうそうそ\n冗談だって\n\n@レーヴァテイン\nまぁ、おんぶはあれだけど\n\n# face %(unit_a)s \"normal\"\n# voice 1002 \"revatein_0036\"\n@レーヴァテイン\n手ぐらい\n引っ張ってもらおうかな\n\n@レーヴァテイン\n…あたしも楽だし\n\n# textflame 0 0\n@\n素っ気なく言うも、\n少し恥ずかしそうな彼女が\nいじらしい…\n\n@\nマスターは二人の絆が\nより深まったのを実感した…\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

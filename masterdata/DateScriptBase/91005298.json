@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 91005298,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# se \"SE_0733\"\n# voice 1005 \"ritto_0026\"\n@リットゥ\n不正解とはな…\n\n# voice 1005 \"ritto_0013\"\n@リットゥ\n少し難しかったか？\n\n# face %(unit_a)s \"usual\"\n@リットゥ\nまあ、こんなこともあるさ\nそんなに悲しまなくてもいい\n\n# textflame 0 0\n@\nごめん、と謝るマスターに、\n彼女は首を振る\n\n# voice 1005 \"ritto_0004\"\n# textflame 1 1\n@リットゥ\nふっ…次は正解してくれよ？\n私も、その方がうれしいからな\n\n# face %(unit_a)s \"normal\"\n# voice 1005 \"ritto_0003\"\n@リットゥ\nもっと私を見つめていれば\n簡単に答えられるのだからな\n\n# face %(unit_a)s \"usual\"\n@リットゥ\nさて…引き留めてしまったな、\nはやく帰ろう\n\n# textflame 0 0\n@\nリットゥの喜ぶ顔…\nちゃんと見てみたいな\n\n@\n今度はちゃんと答えられるように、\n彼女のことを知っておこうと、\n拳を握るマスターであった\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

@@ -1,0 +1,26 @@
+[
+	{
+		"ID": 294,
+		"unitID": 2500211,
+		"scriptID": "kaerimichi",
+		"script": "うぅ～ん、\nまだまだ足りないよぉ！\nさぁ、マスター！ゴーゴー！"
+	},
+	{
+		"ID": 308,
+		"unitID": 2500211,
+		"scriptID": "kaeru",
+		"script": "オゥ！ソーリー！\n今日はもう帰る時間だよ\nまた今度遊ぼうマスター！"
+	},
+	{
+		"ID": 322,
+		"unitID": 2500211,
+		"scriptID": "kaeru_ok",
+		"script": "@%(unitName:unit_a)s\nソー・グッド！！\nフライクーゲルちゃんも\nマスターと遊びたかったよ！"
+	},
+	{
+		"ID": 336,
+		"unitID": 2500211,
+		"scriptID": "kaeru_ng",
+		"script": "@%(unitName:unit_a)s\nソーリー…\n今日はもう\nベリータイアードだよ…"
+	}
+]

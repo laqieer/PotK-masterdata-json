@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 210141101,
+		"script": ";;ティルフィング　海上編シナリオ\n;;//背景：砂浜（昼）\n;;■EP1\n# script \"lisp\"\n# background \"sea_beach_day\"\n# bgmfile \"bgm227\" \"BgmSeaEvent\" 0\n# body 2101411\n# pos 2101411 3\n# mask 2101411 off\n# textboxarrow 0 2\n# chara 2101411\n# alpha 2101411 0 0\n# textflame 0 0\n@\nマスターとティルフィングは\n二人でビーチにやって来ていた\n\n# alpha 2101411 1 1\n# textflame 1 1\n# voice 1014 \"tyrufing_0005\"\n@ティルフィング\nこうして、またマスターと二人で\n海に来られるなんて…\n\n# textflame 0 0\n@\nそう言って微笑むティルフィングに\nマスターの顔もほころぶ\n\n# textflame 0 0\n@\nしかし、しばらくすると…\n\n# face 2101411 \"sad\"\n# textflame 1 1\n@ティルフィング\n…\n\n# textflame 0 0\n@\nなぜかティルフィングが\nそわそわしはじめる\n\n# textflame 0 0\n@\nマスターが\nどうかした？と尋ねる\n\n# textflame 1 1\n# voice 1014 \"tyrufing_0002\"\n@ティルフィング\nあ、いえ…\nただちょっと\n気になることがあって…\n\n# textflame 0 0\n@\nマスターがなんだろう、と\n首を傾げていると\n\n# eye 2101411 \"close\"\n# textflame 1 1\n@ティルフィング\nこのビーチに\n見つけたら願い事がかなうという\n貝殻がある…らしいんです\n\n# eye 2101411 \"normal\"\n# face 2101411 \"normal\"\n# textflame 1 1\n@ティルフィング\nでも、せっかく二人きりの海なのに\nそんなこと気にしちゃうなんて\nダメですね…\n\n# textflame 0 0\n@\nマスターは、そんなことない\n願いがかなうと言われれば\n誰だって気になるよ、と言う\n\n# textflame 0 0\n@\nそして、せっかくだから\n貝殻を探してみようか、と\n提案する\n\n# face 2101411 \"smile\"\n# textflame 1 1\n# voice 1014 \"tyrufing_0003\"\n@ティルフィング\n…はい！\n"
+	}
+]

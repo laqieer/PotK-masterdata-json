@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 96011398,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# se \"SE_0733\"\n# face %(unit_a)s \"sad\"\n# voice 6011 \"vanargand_0023\"\n@ヴァナルガンド\nあれあれ～？\n\n@ヴァナルガンド\n残念ながら、\nハズレ、ですよ～…\n\n@ヴァナルガンド\nやっぱりいきなりこんな質問…\nされても困りますよね～\n\n# voice 6011 \"vanargand_0031\"\n@ヴァナルガンド\nその…ごめんなさい～\n\n# face %(unit_a)s \"usual\"\n# voice 6011 \"vanargand_0036\"\n@ヴァナルガンド\nで、でも…\n次こそは間違えないって、\n信じてますから～\n\n# textflame 0 0\n@\n一度は暗い表情をみせながらも、\nすぐに明るく振る舞おうと、\n彼女は無理に笑顔を作っていた\n\n@\nその表情に、\n強く胸を締め付けられるマスター\n\n@\n次こそは彼女に、\n笑顔になってもらいたいと、\n拳を強く握りしめるのだった…\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

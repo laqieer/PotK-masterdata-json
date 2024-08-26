@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 3303124,
+		"script": ";;C\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_onsen\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# face %(unit_a)s \"usual\"\n# voice 530311 \"cassius_ca_0032\"\n# textflame 1 1\n@カシウス\n…そうね\nそのために来たのだから\n\n@カシウス\n難しく考えてしまうのは\nわたしの悪い癖\n\n@カシウス\n…ふぅ\n\n@カシウス\nこれが温泉の温もり…\n少し熱いけれど、心地がいいわ\n\n@カシウス\nいつも思考を巡らせているから、\n考えないのは…なんだか新鮮\n\n@カシウス\n体の芯からぽかぽかして…\n肌もほんのり赤く染まって…\n\n# voice 530311 \"cassius_ca_0024\"\n# face %(unit_a)s \"surprise\"\n@カシウス\nだんだん意識もぼーっと…\n…あ、あれ…？\n\n@カシウス\n不思議…どうして…？\n視界がぼやけて、\n御館様が二人に見える…\n\n@カシウス\nどっちが本物なの…？\nお、おやかたさまぁ～…\n\n# textflame 0 0\n@\n慣れないことをしたせいか、\nのぼせてしまったカシウス\n\n@\nマスターは慌てて支え、\nカシウスを涼しい場所へと\n連れていくのだった…\n;;-----------------------------------------\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

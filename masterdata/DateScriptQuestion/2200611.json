@@ -1,0 +1,302 @@
+[
+	{
+		"ID": 2551,
+		"unitID": 2200611,
+		"questionID": 9200601,
+		"script": ";;ダグダ,1\n# face %(unit_a)s \"sad\"\n# voice 2006 \"daguda_kyara_1018\"\n# textflame 1 1\n@ダグダ\nね～マスタ～\nダグダ、なんか疲れちゃったな～\n\n# voice 2006 \"daguda_unit_2006\"\n# textflame 1 1\n@ダグダ\n…ねえ、おんぶ♪\nしてよ～？\n\n# textflame 1 1\n@ダグダ\nあ～っ！\nまた始まったって\n顔してる～！\n\n# textflame 1 1\n@ダグダ\nだって疲れちゃったんだもん…\nあ、そうだ！\nそれなら、こういうのはどお？\n\n# textflame 1 1\n@ダグダ\nこれから、ダグダに関する\n問題を出すから、それに\n答えられなかったらおんぶ♪\n\n# voice 2006 \"daguda_0036\"\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@ダグダ\n…ね？\nいいでしょいいでしょ！\nじゃあ、行くよ～？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nダグダのキラーズ\n『ダグダの棍棒』の持ち主は\nいったいだ～れだ？\n\n# se \"SE_0734\"\n# select  \"ダグダ\" \"select_label_1\" \"オグマ\" \"select_label_2\" \"バンバ\" \"select_label_3\"\nダグダのキラーズ\n『ダグダの棍棒』の持ち主は\nいったいだ～れだ？\n"
+	},
+	{
+		"ID": 2552,
+		"unitID": 2200611,
+		"questionID": 9200602,
+		"script": ";;棍棒,2\n# face %(unit_a)s \"sad\"\n# voice 2006 \"daguda_kyara_1018\"\n# textflame 1 1\n@ダグダ\nね～マスタ～\nダグダ、なんか疲れちゃったな～\n\n# voice 2006 \"daguda_unit_2006\"\n# textflame 1 1\n@ダグダ\n…ねえ、おんぶ♪\nしてよ～？\n\n# textflame 1 1\n@ダグダ\nあ～っ！\nまた始まったって\n顔してる～！\n\n# textflame 1 1\n@ダグダ\nだって疲れちゃったんだもん…\nあ、そうだ！\nそれなら、こういうのはどお？\n\n# textflame 1 1\n@ダグダ\nこれから、ダグダに関する\n問題を出すから、それに\n答えられなかったらおんぶ♪\n\n# voice 2006 \"daguda_0036\"\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@ダグダ\n…ね？\nいいでしょいいでしょ！\nじゃあ、行くよ～？\n;;--------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nダグダのキラーズ\n『ダグダの棍棒』って、\nどんな武器だったかな～？\n\n# se \"SE_0734\"\n# select  \"鎌\" \"select_label_1\" \"棍棒\" \"select_label_2\" \"槍\" \"select_label_3\"\nダグダのキラーズ\n『ダグダの棍棒』って、\nどんな武器だったかな～？\n"
+	},
+	{
+		"ID": 2553,
+		"unitID": 2200611,
+		"questionID": 9200603,
+		"script": ";;ダーナ神族,3\n# face %(unit_a)s \"sad\"\n# voice 2006 \"daguda_kyara_1018\"\n# textflame 1 1\n@ダグダ\nね～マスタ～\nダグダ、なんか疲れちゃったな～\n\n# voice 2006 \"daguda_unit_2006\"\n# textflame 1 1\n@ダグダ\n…ねえ、おんぶ♪\nしてよ～？\n\n# textflame 1 1\n@ダグダ\nあ～っ！\nまた始まったって\n顔してる～！\n\n# textflame 1 1\n@ダグダ\nだって疲れちゃったんだもん…\nあ、そうだ！\nそれなら、こういうのはどお？\n\n# textflame 1 1\n@ダグダ\nこれから、ダグダに関する\n問題を出すから、それに\n答えられなかったらおんぶ♪\n\n# voice 2006 \"daguda_0036\"\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@ダグダ\n…ね？\nいいでしょいいでしょ！\nじゃあ、行くよ～？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nダグダのキラーズ『ダグダの棍棒』の\n持ち主はある神族の最高神だけど…\nずばり、何族？\n\n# se \"SE_0734\"\n# select  \"ディーヴァ神族\" \"select_label_1\" \"ヴァン神族\" \"select_label_2\" \"ダーナ神族\" \"select_label_3\"\nダグダのキラーズ『ダグダの棍棒』の\n持ち主はある神族の最高神だけど…\nずばり、何族？\n"
+	},
+	{
+		"ID": 2554,
+		"unitID": 2200611,
+		"questionID": 9200604,
+		"script": ";;８人,1\n# face %(unit_a)s \"sad\"\n# voice 2006 \"daguda_kyara_1018\"\n# textflame 1 1\n@ダグダ\nね～マスタ～\nダグダ、なんか疲れちゃったな～\n\n# voice 2006 \"daguda_unit_2006\"\n# textflame 1 1\n@ダグダ\n…ねえ、おんぶ♪\nしてよ～？\n\n# textflame 1 1\n@ダグダ\nあ～っ！\nまた始まったって\n顔してる～！\n\n# textflame 1 1\n@ダグダ\nだって疲れちゃったんだもん…\nあ、そうだ！\nそれなら、こういうのはどお？\n\n# textflame 1 1\n@ダグダ\nこれから、ダグダに関する\n問題を出すから、それに\n答えられなかったらおんぶ♪\n\n# voice 2006 \"daguda_0036\"\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@ダグダ\n…ね？\nいいでしょいいでしょ！\nじゃあ、行くよ～？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nダグダのキラーズ『ダグダの棍棒』は\nすっごく重いんだけど、\n持ち上げるには大人何人必要かな？\n\n# se \"SE_0734\"\n# select  \"８人\" \"select_label_1\" \"６９人\" \"select_label_2\" \"６５５３５人\" \"select_label_3\"\nダグダのキラーズ『ダグダの棍棒』は\nすっごく重いんだけど、\n持ち上げるには大人何人必要かな？\n"
+	},
+	{
+		"ID": 2555,
+		"unitID": 2200611,
+		"questionID": 9200605,
+		"script": ";;９人,2\n# face %(unit_a)s \"sad\"\n# voice 2006 \"daguda_kyara_1018\"\n# textflame 1 1\n@ダグダ\nね～マスタ～\nダグダ、なんか疲れちゃったな～\n\n# voice 2006 \"daguda_unit_2006\"\n# textflame 1 1\n@ダグダ\n…ねえ、おんぶ♪\nしてよ～？\n\n# textflame 1 1\n@ダグダ\nあ～っ！\nまた始まったって\n顔してる～！\n\n# textflame 1 1\n@ダグダ\nだって疲れちゃったんだもん…\nあ、そうだ！\nそれなら、こういうのはどお？\n\n# textflame 1 1\n@ダグダ\nこれから、ダグダに関する\n問題を出すから、それに\n答えられなかったらおんぶ♪\n\n# voice 2006 \"daguda_0036\"\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@ダグダ\n…ね？\nいいでしょいいでしょ！\nじゃあ、行くよ～？\n;;--------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nダグダのキラーズ『ダグダの棍棒』の\n持ち主は、この棍棒で一度に\n何人の男を倒せたかな？\n\n# se \"SE_0734\"\n# select  \"２５６人\" \"select_label_1\" \"９人\" \"select_label_2\" \"１億人\" \"select_label_3\"\nダグダのキラーズ『ダグダの棍棒』の\n持ち主は、この棍棒で一度に\n何人の男を倒せたかな？\n"
+	},
+	{
+		"ID": 2556,
+		"unitID": 2200611,
+		"questionID": 9200606,
+		"script": ";;ルー,3\n# face %(unit_a)s \"sad\"\n# voice 2006 \"daguda_kyara_1018\"\n# textflame 1 1\n@ダグダ\nね～マスタ～\nダグダ、なんか疲れちゃったな～\n\n# voice 2006 \"daguda_unit_2006\"\n# textflame 1 1\n@ダグダ\n…ねえ、おんぶ♪\nしてよ～？\n\n# textflame 1 1\n@ダグダ\nあ～っ！\nまた始まったって\n顔してる～！\n\n# textflame 1 1\n@ダグダ\nだって疲れちゃったんだもん…\nあ、そうだ！\nそれなら、こういうのはどお？\n\n# textflame 1 1\n@ダグダ\nこれから、ダグダに関する\n問題を出すから、それに\n答えられなかったらおんぶ♪\n\n# voice 2006 \"daguda_0036\"\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@ダグダ\n…ね？\nいいでしょいいでしょ！\nじゃあ、行くよ～？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nダグダのキラーズ『ダグダの棍棒』の\n持ち主は、ダーナ神族最高神の座を\n誰から受け継いだ？\n\n# se \"SE_0734\"\n# select  \"クー・フーリン\" \"select_label_1\" \"ネヴァン\" \"select_label_2\" \"ルー\" \"select_label_3\"\nダグダのキラーズ『ダグダの棍棒』の\n持ち主は、ダーナ神族最高神の座を\n誰から受け継いだ？\n"
+	},
+	{
+		"ID": 2557,
+		"unitID": 2200611,
+		"questionID": 9200607,
+		"script": ";;神や人を生き返らせる ,1\n# face %(unit_a)s \"sad\"\n# voice 2006 \"daguda_kyara_1018\"\n# textflame 1 1\n@ダグダ\nね～マスタ～\nダグダ、なんか疲れちゃったな～\n\n# voice 2006 \"daguda_unit_2006\"\n# textflame 1 1\n@ダグダ\n…ねえ、おんぶ♪\nしてよ～？\n\n# textflame 1 1\n@ダグダ\nあ～っ！\nまた始まったって\n顔してる～！\n\n# textflame 1 1\n@ダグダ\nだって疲れちゃったんだもん…\nあ、そうだ！\nそれなら、こういうのはどお？\n\n# textflame 1 1\n@ダグダ\nこれから、ダグダに関する\n問題を出すから、それに\n答えられなかったらおんぶ♪\n\n# voice 2006 \"daguda_0036\"\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@ダグダ\n…ね？\nいいでしょいいでしょ！\nじゃあ、行くよ～？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nダグダのキラーズ『ダグダの棍棒』は\n逆さに握るとある力を発揮するよ\nその力ってなにかな～？\n\n# se \"SE_0734\"\n# select  \"神や人を生き返らせる\" \"select_label_1\" \"時間を逆転させる\" \"select_label_2\" \"瞬間移動\" \"select_label_3\"\nダグダのキラーズ『ダグダの棍棒』は\n逆さに握るとある力を発揮するよ\nその力ってなにかな～？\n"
+	},
+	{
+		"ID": 2558,
+		"unitID": 2200611,
+		"questionID": 9200608,
+		"script": ";;ダグザ,2\n# face %(unit_a)s \"sad\"\n# voice 2006 \"daguda_kyara_1018\"\n# textflame 1 1\n@ダグダ\nね～マスタ～\nダグダ、なんか疲れちゃったな～\n\n# voice 2006 \"daguda_unit_2006\"\n# textflame 1 1\n@ダグダ\n…ねえ、おんぶ♪\nしてよ～？\n\n# textflame 1 1\n@ダグダ\nあ～っ！\nまた始まったって\n顔してる～！\n\n# textflame 1 1\n@ダグダ\nだって疲れちゃったんだもん…\nあ、そうだ！\nそれなら、こういうのはどお？\n\n# textflame 1 1\n@ダグダ\nこれから、ダグダに関する\n問題を出すから、それに\n答えられなかったらおんぶ♪\n\n# voice 2006 \"daguda_0036\"\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@ダグダ\n…ね？\nいいでしょいいでしょ！\nじゃあ、行くよ～？\n;;--------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nダグダのキラーズ『ダグダの棍棒』の\n持ち主の別名は？\n\n# se \"SE_0734\"\n# select  \"究極の覇王\" \"select_label_1\" \"ダグザ\" \"select_label_2\" \"闇の帝王\" \"select_label_3\"\nダグダのキラーズ『ダグダの棍棒』の\n持ち主の別名は？\n"
+	},
+	{
+		"ID": 2559,
+		"unitID": 2200611,
+		"questionID": 9200609,
+		"script": ";;ボアーン,3\n# face %(unit_a)s \"sad\"\n# voice 2006 \"daguda_kyara_1018\"\n# textflame 1 1\n@ダグダ\nね～マスタ～\nダグダ、なんか疲れちゃったな～\n\n# voice 2006 \"daguda_unit_2006\"\n# textflame 1 1\n@ダグダ\n…ねえ、おんぶ♪\nしてよ～？\n\n# textflame 1 1\n@ダグダ\nあ～っ！\nまた始まったって\n顔してる～！\n\n# textflame 1 1\n@ダグダ\nだって疲れちゃったんだもん…\nあ、そうだ！\nそれなら、こういうのはどお？\n\n# textflame 1 1\n@ダグダ\nこれから、ダグダに関する\n問題を出すから、それに\n答えられなかったらおんぶ♪\n\n# voice 2006 \"daguda_0036\"\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@ダグダ\n…ね？\nいいでしょいいでしょ！\nじゃあ、行くよ～？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nダグダのキラーズ『ダグダの棍棒』の\n持ち主であるダグダの母の名前は？\n\n# se \"SE_0734\"\n# select  \"エポナ\" \"select_label_1\" \"オイフェ\" \"select_label_2\" \"ボアーン\" \"select_label_3\"\nダグダのキラーズ『ダグダの棍棒』の\n持ち主であるダグダの母の名前は？\n"
+	},
+	{
+		"ID": 2560,
+		"unitID": 2200611,
+		"questionID": 9200610,
+		"script": ";;愛と若さと美,1\n# face %(unit_a)s \"sad\"\n# voice 2006 \"daguda_kyara_1018\"\n# textflame 1 1\n@ダグダ\nね～マスタ～\nダグダ、なんか疲れちゃったな～\n\n# voice 2006 \"daguda_unit_2006\"\n# textflame 1 1\n@ダグダ\n…ねえ、おんぶ♪\nしてよ～？\n\n# textflame 1 1\n@ダグダ\nあ～っ！\nまた始まったって\n顔してる～！\n\n# textflame 1 1\n@ダグダ\nだって疲れちゃったんだもん…\nあ、そうだ！\nそれなら、こういうのはどお？\n\n# textflame 1 1\n@ダグダ\nこれから、ダグダに関する\n問題を出すから、それに\n答えられなかったらおんぶ♪\n\n# voice 2006 \"daguda_0036\"\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@ダグダ\n…ね？\nいいでしょいいでしょ！\nじゃあ、行くよ～？\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nダグダのキラーズ『ダグダの棍棒』の\n持ち主の息子オェングスは、\nなにを司る神様かな～？\n\n# se \"SE_0734\"\n# select  \"愛と若さと美\" \"select_label_1\" \"友情と努力と勝利\" \"select_label_2\" \"愛と勇気と力\" \"select_label_3\"\nダグダのキラーズ『ダグダの棍棒』の\n持ち主の息子オェングスは、\nなにを司る神様かな～？\n"
+	},
+	{
+		"ID": 2561,
+		"unitID": 2200611,
+		"questionID": 9200611,
+		"script": ";;ドライブ,1\n# face %(unit_a)s \"sad\"\n# voice 2006 \"daguda_0001\"\n# textflame 1 1\n@ダグダ\nダグダとマスターって、\n知り合ってからだいぶ経つよね？\n\n# textflame 1 1\n@ダグダ\n…マスターって、\nダグダのことを\nどれだけわかってるのかな？\n\n# face %(unit_a)s \"normal\"\n# textflame 1 1\n@ダグダ\nダグダ、気になるんだよね\n\n# textflame 1 1\n@ダグダ\n…だから、\nいまからクイズを出すね？\n\n# textflame 1 1\n@ダグダ\nダグダのことに\n関する問題だよ\n当ててくれたら嬉しいな♪\n\n# face %(unit_a)s \"smile\"\n# voice 2006 \"daguda_0036\"\n# textflame 1 1\n@ダグダ\nじゃあ、いくよ～！\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nダグダの趣味って\nなんだったかな～？\n\n# se \"SE_0734\"\n# select  \"ドライブ\" \"select_label_1\" \"クライミング\" \"select_label_2\" \"フィッシング\" \"select_label_3\"\nダグダの趣味って\nなんだったかな～？\n"
+	},
+	{
+		"ID": 2562,
+		"unitID": 2200611,
+		"questionID": 9200612,
+		"script": ";;おとめ座,2\n# face %(unit_a)s \"sad\"\n# voice 2006 \"daguda_0001\"\n# textflame 1 1\n@ダグダ\nダグダとマスターって、\n知り合ってからだいぶ経つよね？\n\n# textflame 1 1\n@ダグダ\n…マスターって、\nダグダのことを\nどれだけわかってるのかな？\n\n# face %(unit_a)s \"normal\"\n# textflame 1 1\n@ダグダ\nダグダ、気になるんだよね\n\n# textflame 1 1\n@ダグダ\n…だから、\nいまからクイズを出すね？\n\n# textflame 1 1\n@ダグダ\nダグダのことに\n関する問題だよ\n当ててくれたら嬉しいな♪\n\n# face %(unit_a)s \"smile\"\n# voice 2006 \"daguda_0036\"\n# textflame 1 1\n@ダグダ\nじゃあ、いくよ～！\n;;--------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nダグダの星座、わかるかな～？\n\n# se \"SE_0734\"\n# select  \"みずがめ座\" \"select_label_1\" \"おとめ座\" \"select_label_2\" \"やぎ座\" \"select_label_3\"\nダグダの星座、わかるかな～？\n"
+	},
+	{
+		"ID": 2563,
+		"unitID": 2200611,
+		"questionID": 9200613,
+		"script": ";;ティル・ナ・ノーグ,3\n# face %(unit_a)s \"sad\"\n# voice 2006 \"daguda_0001\"\n# textflame 1 1\n@ダグダ\nダグダとマスターって、\n知り合ってからだいぶ経つよね？\n\n# textflame 1 1\n@ダグダ\n…マスターって、\nダグダのことを\nどれだけわかってるのかな？\n\n# face %(unit_a)s \"normal\"\n# textflame 1 1\n@ダグダ\nダグダ、気になるんだよね\n\n# textflame 1 1\n@ダグダ\n…だから、\nいまからクイズを出すね？\n\n# textflame 1 1\n@ダグダ\nダグダのことに\n関する問題だよ\n当ててくれたら嬉しいな♪\n\n# face %(unit_a)s \"smile\"\n# voice 2006 \"daguda_0036\"\n# textflame 1 1\n@ダグダ\nじゃあ、いくよ～！\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nダグダの出身地はどこかな～？\nえ、ヒントが欲しい？\nそうね～、妖精が住む理想郷だよ♪\n\n# se \"SE_0734\"\n# select  \"サンクチュアリ\" \"select_label_1\" \"アルカディア\" \"select_label_2\" \"ティル・ナ・ノーグ\" \"select_label_3\"\nダグダの出身地はどこかな～？\nえ、ヒントが欲しい？\nそうね～、妖精が住む理想郷だよ♪\n"
+	},
+	{
+		"ID": 2564,
+		"unitID": 2200611,
+		"questionID": 9200614,
+		"script": ";;O型,1\n# face %(unit_a)s \"sad\"\n# voice 2006 \"daguda_0001\"\n# textflame 1 1\n@ダグダ\nダグダとマスターって、\n知り合ってからだいぶ経つよね？\n\n# textflame 1 1\n@ダグダ\n…マスターって、\nダグダのことを\nどれだけわかってるのかな？\n\n# face %(unit_a)s \"normal\"\n# textflame 1 1\n@ダグダ\nダグダ、気になるんだよね\n\n# textflame 1 1\n@ダグダ\n…だから、\nいまからクイズを出すね？\n\n# textflame 1 1\n@ダグダ\nダグダのことに\n関する問題だよ\n当ててくれたら嬉しいな♪\n\n# face %(unit_a)s \"smile\"\n# voice 2006 \"daguda_0036\"\n# textflame 1 1\n@ダグダ\nじゃあ、いくよ～！\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nダグダの血液型って知ってる～？\nおおらか、おおまか、おおざっぱ～♪\n\n# se \"SE_0734\"\n# select  \"O型\" \"select_label_1\" \"AB型\" \"select_label_2\" \"B型\" \"select_label_3\"\nダグダの血液型って知ってる～？\nおおらか、おおまか、おおざっぱ～♪\n"
+	},
+	{
+		"ID": 2565,
+		"unitID": 2200611,
+		"questionID": 9200615,
+		"script": ";;粥,2\n# face %(unit_a)s \"sad\"\n# voice 2006 \"daguda_0001\"\n# textflame 1 1\n@ダグダ\nダグダとマスターって、\n知り合ってからだいぶ経つよね？\n\n# textflame 1 1\n@ダグダ\n…マスターって、\nダグダのことを\nどれだけわかってるのかな？\n\n# face %(unit_a)s \"normal\"\n# textflame 1 1\n@ダグダ\nダグダ、気になるんだよね\n\n# textflame 1 1\n@ダグダ\n…だから、\nいまからクイズを出すね？\n\n# textflame 1 1\n@ダグダ\nダグダのことに\n関する問題だよ\n当ててくれたら嬉しいな♪\n\n# face %(unit_a)s \"smile\"\n# voice 2006 \"daguda_0036\"\n# textflame 1 1\n@ダグダ\nじゃあ、いくよ～！\n;;--------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nダグダの好きな食べ物は\nなにかな～？\nこれはいくらでも食べれるよ～♪\n\n# se \"SE_0734\"\n# select  \"ホットドッグ\" \"select_label_1\" \"粥\" \"select_label_2\" \"ハギス\" \"select_label_3\"\nダグダの好きな食べ物は\nなにかな～？\nこれはいくらでも食べれるよ～♪\n"
+	},
+	{
+		"ID": 2566,
+		"unitID": 2200611,
+		"questionID": 9200616,
+		"script": ";;楽をすること,3\n# face %(unit_a)s \"sad\"\n# voice 2006 \"daguda_0001\"\n# textflame 1 1\n@ダグダ\nダグダとマスターって、\n知り合ってからだいぶ経つよね？\n\n# textflame 1 1\n@ダグダ\n…マスターって、\nダグダのことを\nどれだけわかってるのかな？\n\n# face %(unit_a)s \"normal\"\n# textflame 1 1\n@ダグダ\nダグダ、気になるんだよね\n\n# textflame 1 1\n@ダグダ\n…だから、\nいまからクイズを出すね？\n\n# textflame 1 1\n@ダグダ\nダグダのことに\n関する問題だよ\n当ててくれたら嬉しいな♪\n\n# face %(unit_a)s \"smile\"\n# voice 2006 \"daguda_0036\"\n# textflame 1 1\n@ダグダ\nじゃあ、いくよ～！\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nダグダがなによりも大事だと\n思ってることがあるんだけど\nそれってなんでしょ～か？\n\n# se \"SE_0734\"\n# select  \"早寝早起き\" \"select_label_1\" \"ケンカ上等\" \"select_label_2\" \"楽をすること\" \"select_label_3\"\nダグダがなによりも大事だと\n思ってることがあるんだけど\nそれってなんでしょ～か？\n"
+	},
+	{
+		"ID": 2567,
+		"unitID": 2200611,
+		"questionID": 9200617,
+		"script": ";;フラガラッハ ,1\n# face %(unit_a)s \"sad\"\n# voice 2006 \"daguda_0001\"\n# textflame 1 1\n@ダグダ\nダグダとマスターって、\n知り合ってからだいぶ経つよね？\n\n# textflame 1 1\n@ダグダ\n…マスターって、\nダグダのことを\nどれだけわかってるのかな？\n\n# face %(unit_a)s \"normal\"\n# textflame 1 1\n@ダグダ\nダグダ、気になるんだよね\n\n# textflame 1 1\n@ダグダ\n…だから、\nいまからクイズを出すね？\n\n# textflame 1 1\n@ダグダ\nダグダのことに\n関する問題だよ\n当ててくれたら嬉しいな♪\n\n# face %(unit_a)s \"smile\"\n# voice 2006 \"daguda_0036\"\n# textflame 1 1\n@ダグダ\nじゃあ、いくよ～！\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nダグダと仲良しのキラーズは\nこの中のだ～れだ？\n\n# se \"SE_0734\"\n# select  \"フラガラッハ\" \"select_label_1\" \"ヴォータン\" \"select_label_2\" \"ロンゴミアント\" \"select_label_3\"\nダグダと仲良しのキラーズは\nこの中のだ～れだ？\n"
+	},
+	{
+		"ID": 2568,
+		"unitID": 2200611,
+		"questionID": 9200618,
+		"script": ";;171cm,2\n# face %(unit_a)s \"sad\"\n# voice 2006 \"daguda_0001\"\n# textflame 1 1\n@ダグダ\nダグダとマスターって、\n知り合ってからだいぶ経つよね？\n\n# textflame 1 1\n@ダグダ\n…マスターって、\nダグダのことを\nどれだけわかってるのかな？\n\n# face %(unit_a)s \"normal\"\n# textflame 1 1\n@ダグダ\nダグダ、気になるんだよね\n\n# textflame 1 1\n@ダグダ\n…だから、\nいまからクイズを出すね？\n\n# textflame 1 1\n@ダグダ\nダグダのことに\n関する問題だよ\n当ててくれたら嬉しいな♪\n\n# face %(unit_a)s \"smile\"\n# voice 2006 \"daguda_0036\"\n# textflame 1 1\n@ダグダ\nじゃあ、いくよ～！\n;;--------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nダグダの身長って\n何センチかな～？\nこれわかったら凄いかも～♪\n\n# se \"SE_0734\"\n# select  \"167cm\" \"select_label_1\" \"171cm\" \"select_label_2\" \"175cm\" \"select_label_3\"\nダグダの身長って\n何センチかな～？\nこれわかったら凄いかも～♪\n"
+	},
+	{
+		"ID": 2569,
+		"unitID": 2200611,
+		"questionID": 9200619,
+		"script": ";;体重,3\n# face %(unit_a)s \"sad\"\n# voice 2006 \"daguda_0001\"\n# textflame 1 1\n@ダグダ\nダグダとマスターって、\n知り合ってからだいぶ経つよね？\n\n# textflame 1 1\n@ダグダ\n…マスターって、\nダグダのことを\nどれだけわかってるのかな？\n\n# face %(unit_a)s \"normal\"\n# textflame 1 1\n@ダグダ\nダグダ、気になるんだよね\n\n# textflame 1 1\n@ダグダ\n…だから、\nいまからクイズを出すね？\n\n# textflame 1 1\n@ダグダ\nダグダのことに\n関する問題だよ\n当ててくれたら嬉しいな♪\n\n# face %(unit_a)s \"smile\"\n# voice 2006 \"daguda_0036\"\n# textflame 1 1\n@ダグダ\nじゃあ、いくよ～！\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nダグダがいつも気にしてる事って\nなんだと思う？\nまぁ、女の子なら気になる事だけど～\n\n# se \"SE_0734\"\n# select  \"男の子の視線\" \"select_label_1\" \"おしゃれ\" \"select_label_2\" \"体重\" \"select_label_3\"\nダグダがいつも気にしてる事って\nなんだと思う？\nまぁ、女の子なら気になる事だけど～\n"
+	},
+	{
+		"ID": 2570,
+		"unitID": 2200611,
+		"questionID": 9200620,
+		"script": ";;9月8日,1\n# face %(unit_a)s \"sad\"\n# voice 2006 \"daguda_0001\"\n# textflame 1 1\n@ダグダ\nダグダとマスターって、\n知り合ってからだいぶ経つよね？\n\n# textflame 1 1\n@ダグダ\n…マスターって、\nダグダのことを\nどれだけわかってるのかな？\n\n# face %(unit_a)s \"normal\"\n# textflame 1 1\n@ダグダ\nダグダ、気になるんだよね\n\n# textflame 1 1\n@ダグダ\n…だから、\nいまからクイズを出すね？\n\n# textflame 1 1\n@ダグダ\nダグダのことに\n関する問題だよ\n当ててくれたら嬉しいな♪\n\n# face %(unit_a)s \"smile\"\n# voice 2006 \"daguda_0036\"\n# textflame 1 1\n@ダグダ\nじゃあ、いくよ～！\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nダグダの誕生日は\n何月何日かな～？\nプレゼント期待してるよ～♪\n\n# se \"SE_0734\"\n# select  \"9月8日\" \"select_label_1\" \"3月3日\" \"select_label_2\" \"8月31日\" \"select_label_3\"\nダグダの誕生日は\n何月何日かな～？\nプレゼント期待してるよ～♪\n"
+	},
+	{
+		"ID": 2571,
+		"unitID": 2200611,
+		"questionID": 9200621,
+		"script": ";;バロン,1\n# voice 2006 \"daguda_0001\"\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@ダグダ\nマスター\n今日は楽しかったね？\nどうもありがとう♪\n\n# textflame 1 1\n@ダグダ\nそれでね、\n最後にもう一つ\n楽しい事しようよ♪\n\n# textflame 1 1\n@ダグダ\n…マスター、\nなにか勘違いしてる～？\n\n# textflame 1 1\n@ダグダ\nクイズだよ、クイズ～！\nこれから、ダグダに関係する\n問題を出すから…\n\n# textflame 1 1\n@ダグダ\nちゃんと答えてね？\n\n# textflame 1 1\n@ダグダ\nじゃあ、いくよ？\n問題で～す♪\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nダグダが☆4の時のジョブは\nなんだったかなぁ？\n\n# se \"SE_0734\"\n# select  \"バロン\" \"select_label_1\" \"アクスアーマー\" \"select_label_2\" \"ウォーリアー\" \"select_label_3\"\nダグダが☆4の時のジョブは\nなんだったかなぁ？\n"
+	},
+	{
+		"ID": 2572,
+		"unitID": 2200611,
+		"questionID": 9200622,
+		"script": ";;アークドラグナー,2\n# voice 2006 \"daguda_0001\"\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@ダグダ\nマスター\n今日は楽しかったね？\nどうもありがとう♪\n\n# textflame 1 1\n@ダグダ\nそれでね、\n最後にもう一つ\n楽しい事しようよ♪\n\n# textflame 1 1\n@ダグダ\n…マスター、\nなにか勘違いしてる～？\n\n# textflame 1 1\n@ダグダ\nクイズだよ、クイズ～！\nこれから、ダグダに関係する\n問題を出すから…\n\n# textflame 1 1\n@ダグダ\nちゃんと答えてね？\n\n# textflame 1 1\n@ダグダ\nじゃあ、いくよ？\n問題で～す♪\n;;--------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nダグダが☆5の時は、\nどんなジョブだったかな～？\n\n# se \"SE_0734\"\n# select  \"ウィングナイト\" \"select_label_1\" \"アークドラグナー\" \"select_label_2\" \"フェニックスナイト\" \"select_label_3\"\nダグダが☆5の時は、\nどんなジョブだったかな～？\n"
+	},
+	{
+		"ID": 2573,
+		"unitID": 2200611,
+		"questionID": 9200623,
+		"script": ";;聖斧将の極意,3\n# voice 2006 \"daguda_0001\"\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@ダグダ\nマスター\n今日は楽しかったね？\nどうもありがとう♪\n\n# textflame 1 1\n@ダグダ\nそれでね、\n最後にもう一つ\n楽しい事しようよ♪\n\n# textflame 1 1\n@ダグダ\n…マスター、\nなにか勘違いしてる～？\n\n# textflame 1 1\n@ダグダ\nクイズだよ、クイズ～！\nこれから、ダグダに関係する\n問題を出すから…\n\n# textflame 1 1\n@ダグダ\nちゃんと答えてね？\n\n# textflame 1 1\n@ダグダ\nじゃあ、いくよ？\n問題で～す♪\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nダグダのアークドラグナーの\nリーダースキルの名前は～？\n\n# se \"SE_0734\"\n# select  \"闇軍の進撃\" \"select_label_1\" \"物防強化\" \"select_label_2\" \"聖斧将の極意\" \"select_label_3\"\nダグダのアークドラグナーの\nリーダースキルの名前は～？\n"
+	},
+	{
+		"ID": 2574,
+		"unitID": 2200611,
+		"questionID": 9200624,
+		"script": ";;ばーにんぐメガホン,1\n# voice 2006 \"daguda_0001\"\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@ダグダ\nマスター\n今日は楽しかったね？\nどうもありがとう♪\n\n# textflame 1 1\n@ダグダ\nそれでね、\n最後にもう一つ\n楽しい事しようよ♪\n\n# textflame 1 1\n@ダグダ\n…マスター、\nなにか勘違いしてる～？\n\n# textflame 1 1\n@ダグダ\nクイズだよ、クイズ～！\nこれから、ダグダに関係する\n問題を出すから…\n\n# textflame 1 1\n@ダグダ\nちゃんと答えてね？\n\n# textflame 1 1\n@ダグダ\nじゃあ、いくよ？\n問題で～す♪\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nダグダの先生Ver.の時の\n☆５の固有スキルは～？\n\n# se \"SE_0734\"\n# select  \"ばーにんぐメガホン\" \"select_label_1\" \"しゃいにんぐメガホン\" \"select_label_2\" \"ふぁいてぃんぐメガホン\" \"select_label_3\"\nダグダの先生Ver.の時の\n☆５の固有スキルは～？\n"
+	},
+	{
+		"ID": 2575,
+		"unitID": 2200611,
+		"questionID": 9200625,
+		"script": ";;いない,2\n# voice 2006 \"daguda_0001\"\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@ダグダ\nマスター\n今日は楽しかったね？\nどうもありがとう♪\n\n# textflame 1 1\n@ダグダ\nそれでね、\n最後にもう一つ\n楽しい事しようよ♪\n\n# textflame 1 1\n@ダグダ\n…マスター、\nなにか勘違いしてる～？\n\n# textflame 1 1\n@ダグダ\nクイズだよ、クイズ～！\nこれから、ダグダに関係する\n問題を出すから…\n\n# textflame 1 1\n@ダグダ\nちゃんと答えてね？\n\n# textflame 1 1\n@ダグダ\nじゃあ、いくよ？\n問題で～す♪\n;;--------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nダグダがライバルだと\n思ってるキラーズは誰かな～？\n\n# se \"SE_0734\"\n# select  \"フラガラッハ\" \"select_label_1\" \"いない\" \"select_label_2\" \"ブリューナク\" \"select_label_3\"\nダグダがライバルだと\n思ってるキラーズは誰かな～？\n"
+	},
+	{
+		"ID": 2576,
+		"unitID": 2200611,
+		"questionID": 9200626,
+		"script": ";;デュークナイト,3\n# voice 2006 \"daguda_0001\"\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@ダグダ\nマスター\n今日は楽しかったね？\nどうもありがとう♪\n\n# textflame 1 1\n@ダグダ\nそれでね、\n最後にもう一つ\n楽しい事しようよ♪\n\n# textflame 1 1\n@ダグダ\n…マスター、\nなにか勘違いしてる～？\n\n# textflame 1 1\n@ダグダ\nクイズだよ、クイズ～！\nこれから、ダグダに関係する\n問題を出すから…\n\n# textflame 1 1\n@ダグダ\nちゃんと答えてね？\n\n# textflame 1 1\n@ダグダ\nじゃあ、いくよ？\n問題で～す♪\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nダグダが☆3の時って\nどんなジョブだったかな～？\n\n# se \"SE_0734\"\n# select  \"プリースト\" \"select_label_1\" \"バレットマージ\" \"select_label_2\" \"デュークナイト\" \"select_label_3\"\nダグダが☆3の時って\nどんなジョブだったかな～？\n"
+	},
+	{
+		"ID": 2577,
+		"unitID": 2200611,
+		"questionID": 9200627,
+		"script": ";;光,1\n# voice 2006 \"daguda_0001\"\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@ダグダ\nマスター\n今日は楽しかったね？\nどうもありがとう♪\n\n# textflame 1 1\n@ダグダ\nそれでね、\n最後にもう一つ\n楽しい事しようよ♪\n\n# textflame 1 1\n@ダグダ\n…マスター、\nなにか勘違いしてる～？\n\n# textflame 1 1\n@ダグダ\nクイズだよ、クイズ～！\nこれから、ダグダに関係する\n問題を出すから…\n\n# textflame 1 1\n@ダグダ\nちゃんと答えてね？\n\n# textflame 1 1\n@ダグダ\nじゃあ、いくよ？\n問題で～す♪\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nダグダの\n属性はなんだったかな～？\n\n# se \"SE_0734\"\n# select  \"光\" \"select_label_1\" \"風\" \"select_label_2\" \"雷\" \"select_label_3\"\nダグダの\n属性はなんだったかな～？\n"
+	},
+	{
+		"ID": 2578,
+		"unitID": 2200611,
+		"questionID": 9200628,
+		"script": ";;デザート追加！,2\n# voice 2006 \"daguda_0001\"\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@ダグダ\nマスター\n今日は楽しかったね？\nどうもありがとう♪\n\n# textflame 1 1\n@ダグダ\nそれでね、\n最後にもう一つ\n楽しい事しようよ♪\n\n# textflame 1 1\n@ダグダ\n…マスター、\nなにか勘違いしてる～？\n\n# textflame 1 1\n@ダグダ\nクイズだよ、クイズ～！\nこれから、ダグダに関係する\n問題を出すから…\n\n# textflame 1 1\n@ダグダ\nちゃんと答えてね？\n\n# textflame 1 1\n@ダグダ\nじゃあ、いくよ？\n問題で～す♪\n;;--------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nダグダが先生Ver.で\n最初に覚えたスキルは\nなんだったっけ～？\n\n# se \"SE_0734\"\n# select  \"チャーハン大盛り！\" \"select_label_1\" \"デザート追加！\" \"select_label_2\" \"二度づけ禁止！\" \"select_label_3\"\nダグダが先生Ver.で\n最初に覚えたスキルは\nなんだったっけ～？\n"
+	},
+	{
+		"ID": 2579,
+		"unitID": 2200611,
+		"questionID": 9200629,
+		"script": ";;あっづ～い！自習ね！,3\n# voice 2006 \"daguda_0001\"\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@ダグダ\nマスター\n今日は楽しかったね？\nどうもありがとう♪\n\n# textflame 1 1\n@ダグダ\nそれでね、\n最後にもう一つ\n楽しい事しようよ♪\n\n# textflame 1 1\n@ダグダ\n…マスター、\nなにか勘違いしてる～？\n\n# textflame 1 1\n@ダグダ\nクイズだよ、クイズ～！\nこれから、ダグダに関係する\n問題を出すから…\n\n# textflame 1 1\n@ダグダ\nちゃんと答えてね？\n\n# textflame 1 1\n@ダグダ\nじゃあ、いくよ？\n問題で～す♪\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nダグダの先生Ver.の\n☆５のリーダースキルは～？\n\n# se \"SE_0734\"\n# select  \"はらへった～！自習ね\" \"select_label_1\" \"ねっむ～い！自習ね\" \"select_label_2\" \"あっづ～い！自習ね！\" \"select_label_3\"\nダグダの先生Ver.の\n☆５のリーダースキルは～？\n"
+	},
+	{
+		"ID": 2580,
+		"unitID": 2200611,
+		"questionID": 9200630,
+		"script": ";;さぽーとメガホン,1\n# voice 2006 \"daguda_0001\"\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@ダグダ\nマスター\n今日は楽しかったね？\nどうもありがとう♪\n\n# textflame 1 1\n@ダグダ\nそれでね、\n最後にもう一つ\n楽しい事しようよ♪\n\n# textflame 1 1\n@ダグダ\n…マスター、\nなにか勘違いしてる～？\n\n# textflame 1 1\n@ダグダ\nクイズだよ、クイズ～！\nこれから、ダグダに関係する\n問題を出すから…\n\n# textflame 1 1\n@ダグダ\nちゃんと答えてね？\n\n# textflame 1 1\n@ダグダ\nじゃあ、いくよ？\n問題で～す♪\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nダグダの先生Ver.の\n☆６の固有スキルは～？\n\n# se \"SE_0734\"\n# select  \"さぽーとメガホン\" \"select_label_1\" \"コートのロー\" \"select_label_2\" \"コートのジャスティス\" \"select_label_3\"\nダグダの先生Ver.の\n☆６の固有スキルは～？\n"
+	},
+	{
+		"ID": 2581,
+		"unitID": 2200611,
+		"questionID": 9200631,
+		"script": ";;バーストフォース,1\n# voice 2006 \"daguda_kyara_1014\"\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@ダグダ\n…あ、疲れてるな、\nとか思ったでしょ？\n\n# textflame 1 1\n@ダグダ\n…うん、確かに\n疲れちゃったかも\n\n# textflame 1 1\n@ダグダ\n…え？\nおんぶしてくれるの？\nやった～♪\n\n# voice 2006 \"daguda_0004\"\n# textflame 1 1\n@ダグダ\n…と、素直におぶさると\n思うでしょ？\n今日はちょっと違うんだから♪\n\n# textflame 1 1\n@ダグダ\nこれからダグダに関する\nクイズを出すから、\nそれに正解して？\n\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@ダグダ\nもしマスターが正解したら\n二人で馬車で帰ろ～？\n\n# textflame 1 1\n@ダグダ\nマスターが不正解だったら、\nバツとしてダグダを\nおんぶして帰るんだよ～♪\n\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@ダグダ\n…え、受けて立つ？\nやった、そう来なくっちゃ♪\nそれじゃあ…問題です♪\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nダグダがEP2で目覚めちゃう\nスキルってなんだったかな～？\n\n# se \"SE_0734\"\n# select  \"バーストフォース\" \"select_label_1\" \"デルタフォース\" \"select_label_2\" \"スペシャルフォース\" \"select_label_3\"\nダグダがEP2で目覚めちゃう\nスキルってなんだったかな～？\n"
+	},
+	{
+		"ID": 2582,
+		"unitID": 2200611,
+		"questionID": 9200632,
+		"script": ";;ダグダ,2\n# voice 2006 \"daguda_kyara_1014\"\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@ダグダ\n…あ、疲れてるな、\nとか思ったでしょ？\n\n# textflame 1 1\n@ダグダ\n…うん、確かに\n疲れちゃったかも\n\n# textflame 1 1\n@ダグダ\n…え？\nおんぶしてくれるの？\nやった～♪\n\n# voice 2006 \"daguda_0004\"\n# textflame 1 1\n@ダグダ\n…と、素直におぶさると\n思うでしょ？\n今日はちょっと違うんだから♪\n\n# textflame 1 1\n@ダグダ\nこれからダグダに関する\nクイズを出すから、\nそれに正解して？\n\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@ダグダ\nもしマスターが正解したら\n二人で馬車で帰ろ～？\n\n# textflame 1 1\n@ダグダ\nマスターが不正解だったら、\nバツとしてダグダを\nおんぶして帰るんだよ～♪\n\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@ダグダ\n…え、受けて立つ？\nやった、そう来なくっちゃ♪\nそれじゃあ…問題です♪\n;;--------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nダグダと仲良しのフラガラッハと\nどっちのほうが胸が大きいかな？\n\n# se \"SE_0734\"\n# select  \"フラガラッハ\" \"select_label_1\" \"ダグダ\" \"select_label_2\" \"女は胸じゃない\" \"select_label_3\"\nダグダと仲良しのフラガラッハと\nどっちのほうが胸が大きいかな？\n"
+	},
+	{
+		"ID": 2583,
+		"unitID": 2200611,
+		"questionID": 9200633,
+		"script": ";;常若の国,3\n# voice 2006 \"daguda_kyara_1014\"\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@ダグダ\n…あ、疲れてるな、\nとか思ったでしょ？\n\n# textflame 1 1\n@ダグダ\n…うん、確かに\n疲れちゃったかも\n\n# textflame 1 1\n@ダグダ\n…え？\nおんぶしてくれるの？\nやった～♪\n\n# voice 2006 \"daguda_0004\"\n# textflame 1 1\n@ダグダ\n…と、素直におぶさると\n思うでしょ？\n今日はちょっと違うんだから♪\n\n# textflame 1 1\n@ダグダ\nこれからダグダに関する\nクイズを出すから、\nそれに正解して？\n\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@ダグダ\nもしマスターが正解したら\n二人で馬車で帰ろ～？\n\n# textflame 1 1\n@ダグダ\nマスターが不正解だったら、\nバツとしてダグダを\nおんぶして帰るんだよ～♪\n\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@ダグダ\n…え、受けて立つ？\nやった、そう来なくっちゃ♪\nそれじゃあ…問題です♪\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nダグダの出身地\n「ティル・ナ・ノーグ」は\n別名なんと呼ばれてるかな♪\n\n# se \"SE_0734\"\n# select  \"常春の国\" \"select_label_1\" \"常世の国\" \"select_label_2\" \"常若の国\" \"select_label_3\"\nダグダの出身地\n「ティル・ナ・ノーグ」は\n別名なんと呼ばれてるかな♪\n"
+	},
+	{
+		"ID": 2584,
+		"unitID": 2200611,
+		"questionID": 9200634,
+		"script": ";;腕,1\n# voice 2006 \"daguda_kyara_1014\"\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@ダグダ\n…あ、疲れてるな、\nとか思ったでしょ？\n\n# textflame 1 1\n@ダグダ\n…うん、確かに\n疲れちゃったかも\n\n# textflame 1 1\n@ダグダ\n…え？\nおんぶしてくれるの？\nやった～♪\n\n# voice 2006 \"daguda_0004\"\n# textflame 1 1\n@ダグダ\n…と、素直におぶさると\n思うでしょ？\n今日はちょっと違うんだから♪\n\n# textflame 1 1\n@ダグダ\nこれからダグダに関する\nクイズを出すから、\nそれに正解して？\n\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@ダグダ\nもしマスターが正解したら\n二人で馬車で帰ろ～？\n\n# textflame 1 1\n@ダグダ\nマスターが不正解だったら、\nバツとしてダグダを\nおんぶして帰るんだよ～♪\n\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@ダグダ\n…え、受けて立つ？\nやった、そう来なくっちゃ♪\nそれじゃあ…問題です♪\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nダグダと仲良しのブリューナクは\nとある場所のフェチなんだけど…\nずばり、どこかな？\n\n# se \"SE_0734\"\n# select  \"腕\" \"select_label_1\" \"鎖骨\" \"select_label_2\" \"くるぶし\" \"select_label_3\"\nダグダと仲良しのブリューナクは\nとある場所のフェチなんだけど…\nずばり、どこかな？\n"
+	},
+	{
+		"ID": 2585,
+		"unitID": 2200611,
+		"questionID": 9200635,
+		"script": ";;風に吹かれる,2\n# voice 2006 \"daguda_kyara_1014\"\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@ダグダ\n…あ、疲れてるな、\nとか思ったでしょ？\n\n# textflame 1 1\n@ダグダ\n…うん、確かに\n疲れちゃったかも\n\n# textflame 1 1\n@ダグダ\n…え？\nおんぶしてくれるの？\nやった～♪\n\n# voice 2006 \"daguda_0004\"\n# textflame 1 1\n@ダグダ\n…と、素直におぶさると\n思うでしょ？\n今日はちょっと違うんだから♪\n\n# textflame 1 1\n@ダグダ\nこれからダグダに関する\nクイズを出すから、\nそれに正解して？\n\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@ダグダ\nもしマスターが正解したら\n二人で馬車で帰ろ～？\n\n# textflame 1 1\n@ダグダ\nマスターが不正解だったら、\nバツとしてダグダを\nおんぶして帰るんだよ～♪\n\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@ダグダ\n…え、受けて立つ？\nやった、そう来なくっちゃ♪\nそれじゃあ…問題です♪\n;;--------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nダグダと仲良しのフラガラッハの\n趣味ってなにかな～？\nヒント？ちょっと変な趣味かも♪\n\n# se \"SE_0734\"\n# select  \"海で流される\" \"select_label_1\" \"風に吹かれる\" \"select_label_2\" \"街でナンパされる\" \"select_label_3\"\nダグダと仲良しのフラガラッハの\n趣味ってなにかな～？\nヒント？ちょっと変な趣味かも♪\n"
+	},
+	{
+		"ID": 2586,
+		"unitID": 2200611,
+		"questionID": 9200636,
+		"script": ";;ブロンド,3\n# voice 2006 \"daguda_kyara_1014\"\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@ダグダ\n…あ、疲れてるな、\nとか思ったでしょ？\n\n# textflame 1 1\n@ダグダ\n…うん、確かに\n疲れちゃったかも\n\n# textflame 1 1\n@ダグダ\n…え？\nおんぶしてくれるの？\nやった～♪\n\n# voice 2006 \"daguda_0004\"\n# textflame 1 1\n@ダグダ\n…と、素直におぶさると\n思うでしょ？\n今日はちょっと違うんだから♪\n\n# textflame 1 1\n@ダグダ\nこれからダグダに関する\nクイズを出すから、\nそれに正解して？\n\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@ダグダ\nもしマスターが正解したら\n二人で馬車で帰ろ～？\n\n# textflame 1 1\n@ダグダ\nマスターが不正解だったら、\nバツとしてダグダを\nおんぶして帰るんだよ～♪\n\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@ダグダ\n…え、受けて立つ？\nやった、そう来なくっちゃ♪\nそれじゃあ…問題です♪\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nダグダの髪の色って\n何色だったかな～？\n目の前にいるから簡単でしょ♪\n\n# se \"SE_0734\"\n# select  \"ブルネット\" \"select_label_1\" \"ヘイゼル\" \"select_label_2\" \"ブロンド\" \"select_label_3\"\nダグダの髪の色って\n何色だったかな～？\n目の前にいるから簡単でしょ♪\n"
+	},
+	{
+		"ID": 2587,
+		"unitID": 2200611,
+		"questionID": 9200637,
+		"script": ";;金,1\n# voice 2006 \"daguda_kyara_1014\"\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@ダグダ\n…あ、疲れてるな、\nとか思ったでしょ？\n\n# textflame 1 1\n@ダグダ\n…うん、確かに\n疲れちゃったかも\n\n# textflame 1 1\n@ダグダ\n…え？\nおんぶしてくれるの？\nやった～♪\n\n# voice 2006 \"daguda_0004\"\n# textflame 1 1\n@ダグダ\n…と、素直におぶさると\n思うでしょ？\n今日はちょっと違うんだから♪\n\n# textflame 1 1\n@ダグダ\nこれからダグダに関する\nクイズを出すから、\nそれに正解して？\n\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@ダグダ\nもしマスターが正解したら\n二人で馬車で帰ろ～？\n\n# textflame 1 1\n@ダグダ\nマスターが不正解だったら、\nバツとしてダグダを\nおんぶして帰るんだよ～♪\n\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@ダグダ\n…え、受けて立つ？\nやった、そう来なくっちゃ♪\nそれじゃあ…問題です♪\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nダグダの目の色は何色かな～？\n…じ～っ♪\n\n# se \"SE_0734\"\n# select  \"金\" \"select_label_1\" \"紫\" \"select_label_2\" \"緑\" \"select_label_3\"\nダグダの目の色は何色かな～？\n…じ～っ♪\n"
+	},
+	{
+		"ID": 2588,
+		"unitID": 2200611,
+		"questionID": 9200638,
+		"script": ";;マケドニア,2\n# voice 2006 \"daguda_kyara_1014\"\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@ダグダ\n…あ、疲れてるな、\nとか思ったでしょ？\n\n# textflame 1 1\n@ダグダ\n…うん、確かに\n疲れちゃったかも\n\n# textflame 1 1\n@ダグダ\n…え？\nおんぶしてくれるの？\nやった～♪\n\n# voice 2006 \"daguda_0004\"\n# textflame 1 1\n@ダグダ\n…と、素直におぶさると\n思うでしょ？\n今日はちょっと違うんだから♪\n\n# textflame 1 1\n@ダグダ\nこれからダグダに関する\nクイズを出すから、\nそれに正解して？\n\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@ダグダ\nもしマスターが正解したら\n二人で馬車で帰ろ～？\n\n# textflame 1 1\n@ダグダ\nマスターが不正解だったら、\nバツとしてダグダを\nおんぶして帰るんだよ～♪\n\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@ダグダ\n…え、受けて立つ？\nやった、そう来なくっちゃ♪\nそれじゃあ…問題です♪\n;;--------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nダグダの誕生日は９月８日だけど\nこの日はある国の独立記念日なの♪\nずばり、どこかな～？\n\n# se \"SE_0734\"\n# select  \"レソト王国\" \"select_label_1\" \"マケドニア\" \"select_label_2\" \"ドミニカ共和国\" \"select_label_3\"\nダグダの誕生日は９月８日だけど\nこの日はある国の独立記念日なの♪\nずばり、どこかな～？\n"
+	},
+	{
+		"ID": 2589,
+		"unitID": 2200611,
+		"questionID": 9200639,
+		"script": ";;Virgo,3\n# voice 2006 \"daguda_kyara_1014\"\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@ダグダ\n…あ、疲れてるな、\nとか思ったでしょ？\n\n# textflame 1 1\n@ダグダ\n…うん、確かに\n疲れちゃったかも\n\n# textflame 1 1\n@ダグダ\n…え？\nおんぶしてくれるの？\nやった～♪\n\n# voice 2006 \"daguda_0004\"\n# textflame 1 1\n@ダグダ\n…と、素直におぶさると\n思うでしょ？\n今日はちょっと違うんだから♪\n\n# textflame 1 1\n@ダグダ\nこれからダグダに関する\nクイズを出すから、\nそれに正解して？\n\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@ダグダ\nもしマスターが正解したら\n二人で馬車で帰ろ～？\n\n# textflame 1 1\n@ダグダ\nマスターが不正解だったら、\nバツとしてダグダを\nおんぶして帰るんだよ～♪\n\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@ダグダ\n…え、受けて立つ？\nやった、そう来なくっちゃ♪\nそれじゃあ…問題です♪\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nダグダの星座はおとめ座よ♪\nところで、おとめ座は\n英語でなんて言ったかな～？\n\n# se \"SE_0734\"\n# select  \"Capricorn\" \"select_label_1\" \"Scorpius\" \"select_label_2\" \"Virgo\" \"select_label_3\"\nダグダの星座はおとめ座よ♪\nところで、おとめ座は\n英語でなんて言ったかな～？\n"
+	},
+	{
+		"ID": 2590,
+		"unitID": 2200611,
+		"questionID": 9200640,
+		"script": ";;ケルト神話群,1\n# voice 2006 \"daguda_kyara_1014\"\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@ダグダ\n…あ、疲れてるな、\nとか思ったでしょ？\n\n# textflame 1 1\n@ダグダ\n…うん、確かに\n疲れちゃったかも\n\n# textflame 1 1\n@ダグダ\n…え？\nおんぶしてくれるの？\nやった～♪\n\n# voice 2006 \"daguda_0004\"\n# textflame 1 1\n@ダグダ\n…と、素直におぶさると\n思うでしょ？\n今日はちょっと違うんだから♪\n\n# textflame 1 1\n@ダグダ\nこれからダグダに関する\nクイズを出すから、\nそれに正解して？\n\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@ダグダ\nもしマスターが正解したら\n二人で馬車で帰ろ～？\n\n# textflame 1 1\n@ダグダ\nマスターが不正解だったら、\nバツとしてダグダを\nおんぶして帰るんだよ～♪\n\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@ダグダ\n…え、受けて立つ？\nやった、そう来なくっちゃ♪\nそれじゃあ…問題です♪\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nダグダが属するクラスタって\nどの神話群だったっけ～？\n\n# se \"SE_0734\"\n# select  \"ケルト神話群\" \"select_label_1\" \"ヘブライ神話群\" \"select_label_2\" \"ギリシャ神話群\" \"select_label_3\"\nダグダが属するクラスタって\nどの神話群だったっけ～？\n"
+	},
+	{
+		"ID": 2591,
+		"unitID": 2200611,
+		"questionID": 9200641,
+		"script": "\n;;ダグダ,1\n# se \"SE_0734\"\n# select \"ダグダ\" \"select_label_1\" \"わたし\" \"select_label_2\" \"ミー\" \"select_label_3\"\nダグダの一人称は\n次のうちどれ？\n"
+	},
+	{
+		"ID": 2592,
+		"unitID": 2200611,
+		"questionID": 9200642,
+		"script": "\n;;キミ,2\n# se \"SE_0734\"\n# select \"あなた\" \"select_label_1\" \"キミ\" \"select_label_2\" \"ユー\" \"select_label_3\"\nダグダはアンタのこと\nなんて呼んでる？\n"
+	},
+	{
+		"ID": 2593,
+		"unitID": 2200611,
+		"questionID": 9200643,
+		"script": "\n;;98,3\n# se \"SE_0734\"\n# select \"95\" \"select_label_1\" \"101\" \"select_label_2\" \"98\" \"select_label_3\"\nダグダの\nバストサイズがどのくらいか\nアンタ…知ってるの？\n"
+	},
+	{
+		"ID": 2594,
+		"unitID": 2200611,
+		"questionID": 9200644,
+		"script": "\n;;62,1\n# se \"SE_0734\"\n# select \"62\" \"select_label_1\" \"57\" \"select_label_2\" \"63\" \"select_label_3\"\nダグダの\nウエストサイズがどのくらいか\nアンタ…知ってるの？\n"
+	},
+	{
+		"ID": 2595,
+		"unitID": 2200611,
+		"questionID": 9200645,
+		"script": "\n;;89,2\n# se \"SE_0734\"\n# select \"86\" \"select_label_1\" \"89\" \"select_label_2\" \"92\" \"select_label_3\"\nダグダの\nヒップサイズがどのくらいか\nアンタ…知ってるの？\n"
+	},
+	{
+		"ID": 2596,
+		"unitID": 2200611,
+		"questionID": 9200646,
+		"script": "\n;;59,3\n# se \"SE_0734\"\n# select \"51\" \"select_label_1\" \"57\" \"select_label_2\" \"59\" \"select_label_3\"\nダグダの体重は\n次のうちどれ？\n"
+	},
+	{
+		"ID": 2597,
+		"unitID": 2200611,
+		"questionID": 9200647,
+		"script": "\n;;249,1\n# se \"SE_0734\"\n# select \"249\" \"select_label_1\" \"238\" \"select_label_2\" \"256\" \"select_label_3\"\nダグダの\nバスト＋ウエスト＋ヒップは\nいくつかわかる？\n\n\n"
+	},
+	{
+		"ID": 2598,
+		"unitID": 2200611,
+		"questionID": 9200648,
+		"script": "\n;;黒,2\n# se \"SE_0734\"\n# select \"紅白\" \"select_label_1\" \"黒\" \"select_label_2\" \"トリコロール\" \"select_label_3\"\nダグダの水着の色は\n次のうちどれ？\n"
+	},
+	{
+		"ID": 2599,
+		"unitID": 2200611,
+		"questionID": 9200649,
+		"script": "\n;;34位,3\n# se \"SE_0734\"\n# select \"57位\" \"select_label_1\" \"41位\" \"select_label_2\" \"34位\" \"select_label_3\"\nダグダは\n第２回人気投票で\n何位だったでしょう？\n"
+	},
+	{
+		"ID": 2600,
+		"unitID": 2200611,
+		"questionID": 9200650,
+		"script": "\n;;植田佳奈,1\n# se \"SE_0734\"\n# select \"植田佳奈\" \"select_label_1\" \"下屋則子\" \"select_label_2\" \"川澄綾子\" \"select_label_3\"\nダグダの声優は誰？\n"
+	}
+]

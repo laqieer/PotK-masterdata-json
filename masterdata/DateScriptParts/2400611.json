@@ -1,0 +1,26 @@
+[
+	{
+		"ID": 178,
+		"unitID": 2400611,
+		"scriptID": "kaerimichi",
+		"script": "占いによればこのまま帰るのは\nあまり良くないようですね…\nもう少し一緒にいましょうか"
+	},
+	{
+		"ID": 192,
+		"unitID": 2400611,
+		"scriptID": "kaeru",
+		"script": "この後、与一と約束がありまして…\nまた今度遊びましょうね。フフ"
+	},
+	{
+		"ID": 206,
+		"unitID": 2400611,
+		"scriptID": "kaeru_ok",
+		"script": "@%(unitName:unit_a)s\nお誘いありがとうございます\nでは、あちらへ行きましょう\n吉がでておりますので…"
+	},
+	{
+		"ID": 220,
+		"unitID": 2400611,
+		"scriptID": "kaeru_ng",
+		"script": "@%(unitName:unit_a)s\nこのまま遊んでしまうと…\nやはり、凶と出ています…\nまた今度にしませんか？"
+	}
+]

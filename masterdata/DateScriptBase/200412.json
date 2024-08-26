@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 200412,
+		"script": ";;B 大当たり\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background %(background)s\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# voice 2004 \"parashu_0003\"\n# face %(unit_a)s \"usual\"\n@パラシュ\n…そ、そうだね\nマスターの言う通りだ\n\n@パラシュ\nちょっと\n舞い上がっていたみたいだ\n\n# eye %(unit_a)s \"close\"\n@パラシュ\n理想の振る舞いなんて\n一朝一夕で身につけば\n苦労はしないもの…\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"smile\"\n# voice 2004 \"parashu_0004\"\n@パラシュ\n変に緊張しても、\nろくなことにはならないからね\n\n# textflame 0 0\n@\n一度落ちつくと、\nパラシュは自然に\nその場の空気に馴染んでいった\n\n# voice 2004 \"parashu_0001\"\n# textflame 1 1\n@パラシュ\nマスターは注文、\n決まったかい？\n\n# face %(unit_a)s \"usual\"\n@パラシュ\nボクはこれが\nいいんじゃないかと\n思うけど\n\n# face %(unit_a)s \"smile\"\n# voice 2004 \"parashu_0006\"\n@パラシュ\nわぁ！\nこのケーキ、とても美味しいね\nマスターも気になるかい？\n\n@パラシュ\nそれじゃあ、一口だけ…\n\n# face %(unit_a)s \"sad\"\n# voice 2004 \"parashu_0022\"\n@パラシュ\nああっ！？\n一口だけって言ったじゃないか！\n\n# textflame 0 0\n@\n仲睦まじいカップルのように\nカフェでの時間を過ごし…\n\n# textflame 0 0\n@\nそのまま、日が暮れるまで\nデートを楽しんだのだった――\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

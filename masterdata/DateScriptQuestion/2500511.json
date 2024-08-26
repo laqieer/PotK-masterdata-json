@@ -1,0 +1,302 @@
+[
+	{
+		"ID": 2051,
+		"unitID": 2500511,
+		"questionID": 9500501,
+		"script": ";;金剛杵,1\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 5005 \"vajura_0007\"\n@ヴァジュラ\nあのさ…\n今日は楽しかった…よな？\n\n@ヴァジュラ\nあ、いや…\nちょっと聞いてみたかったん\nだけど…\n\n# face %(unit_a)s \"normal\"\n# voice 5005 \"vajura_0001\"\n@ヴァジュラ\nマスターって、\nあたしのこと…\nどれくらい知ってんだ？\n\n@ヴァジュラ\nちょっとさ、簡単なクイズ出すから\nチャチャッと答えてよ\n\n# face %(unit_a)s \"smile\"\n# voice 5005 \"vajura_0036\"\n@ヴァジュラ\nてことで、行くぞ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしのキラーズ『ヴァジュラ』は\n漢名だとなんだかわかるかい？\n\n# se \"SE_0734\"\n# select \"金剛杵\" \"select_label_1\" \"金剛許\" \"select_label_2\" \"金剛件\" \"select_label_3\"\nあたしのキラーズ『ヴァジュラ』は\n漢名だとなんだかわかるかい？\n"
+	},
+	{
+		"ID": 2052,
+		"unitID": 2500511,
+		"questionID": 9500502,
+		"script": ";;杵,2\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 5005 \"vajura_0007\"\n@ヴァジュラ\nあのさ…\n今日は楽しかった…よな？\n\n@ヴァジュラ\nあ、いや…\nちょっと聞いてみたかったん\nだけど…\n\n# face %(unit_a)s \"normal\"\n# voice 5005 \"vajura_0001\"\n@ヴァジュラ\nマスターって、\nあたしのこと…\nどれくらい知ってんだ？\n\n@ヴァジュラ\nちょっとさ、簡単なクイズ出すから\nチャチャッと答えてよ\n\n# face %(unit_a)s \"smile\"\n# voice 5005 \"vajura_0036\"\n@ヴァジュラ\nてことで、行くぞ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしのキラーズ『ヴァジュラ』は\n伝承ではどんな物だったか\nわかるかな～？\n\n# se \"SE_0734\"\n# select \"臼\" \"select_label_1\" \"杵\" \"select_label_2\" \"針\" \"select_label_3\"\nあたしのキラーズ『ヴァジュラ』は\n伝承ではどんな物だったか\nわかるかな～？\n"
+	},
+	{
+		"ID": 2053,
+		"unitID": 2500511,
+		"questionID": 9500503,
+		"script": ";;インドラ,3\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 5005 \"vajura_0007\"\n@ヴァジュラ\nあのさ…\n今日は楽しかった…よな？\n\n@ヴァジュラ\nあ、いや…\nちょっと聞いてみたかったん\nだけど…\n\n# face %(unit_a)s \"normal\"\n# voice 5005 \"vajura_0001\"\n@ヴァジュラ\nマスターって、\nあたしのこと…\nどれくらい知ってんだ？\n\n@ヴァジュラ\nちょっとさ、簡単なクイズ出すから\nチャチャッと答えてよ\n\n# face %(unit_a)s \"smile\"\n# voice 5005 \"vajura_0036\"\n@ヴァジュラ\nてことで、行くぞ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしのキラーズ『ヴァジュラ』は\n誰の武器だったかわかるか？\n\n# se \"SE_0734\"\n# select \"ミニドラ\" \"select_label_1\" \"パンドラ\" \"select_label_2\" \"インドラ\" \"select_label_3\"\nあたしのキラーズ『ヴァジュラ』は\n誰の武器だったかわかるか？\n"
+	},
+	{
+		"ID": 2054,
+		"unitID": 2500511,
+		"questionID": 9500504,
+		"script": ";;金剛,1\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 5005 \"vajura_0007\"\n@ヴァジュラ\nあのさ…\n今日は楽しかった…よな？\n\n@ヴァジュラ\nあ、いや…\nちょっと聞いてみたかったん\nだけど…\n\n# face %(unit_a)s \"normal\"\n# voice 5005 \"vajura_0001\"\n@ヴァジュラ\nマスターって、\nあたしのこと…\nどれくらい知ってんだ？\n\n@ヴァジュラ\nちょっとさ、簡単なクイズ出すから\nチャチャッと答えてよ\n\n# face %(unit_a)s \"smile\"\n# voice 5005 \"vajura_0036\"\n@ヴァジュラ\nてことで、行くぞ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしのキラーズ『ヴァジュラ』は\nなにで出来ていたかわかるか？\n\n# se \"SE_0734\"\n# select \"金剛\" \"select_label_1\" \"銅\" \"select_label_2\" \"金\" \"select_label_3\"\nあたしのキラーズ『ヴァジュラ』は\nなにで出来ていたかわかるか？\n"
+	},
+	{
+		"ID": 2055,
+		"unitID": 2500511,
+		"questionID": 9500505,
+		"script": ";;雷,2\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 5005 \"vajura_0007\"\n@ヴァジュラ\nあのさ…\n今日は楽しかった…よな？\n\n@ヴァジュラ\nあ、いや…\nちょっと聞いてみたかったん\nだけど…\n\n# face %(unit_a)s \"normal\"\n# voice 5005 \"vajura_0001\"\n@ヴァジュラ\nマスターって、\nあたしのこと…\nどれくらい知ってんだ？\n\n@ヴァジュラ\nちょっとさ、簡単なクイズ出すから\nチャチャッと答えてよ\n\n# face %(unit_a)s \"smile\"\n# voice 5005 \"vajura_0036\"\n@ヴァジュラ\nてことで、行くぞ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしのキラーズ『ヴァジュラ』は\nなにを操れたと云われる？\n\n# se \"SE_0734\"\n# select \"炎\" \"select_label_1\" \"雷\" \"select_label_2\" \"水\" \"select_label_3\"\nあたしのキラーズ『ヴァジュラ』は\nなにを操れたと云われる？\n"
+	},
+	{
+		"ID": 2056,
+		"unitID": 2500511,
+		"questionID": 9500506,
+		"script": ";;インド神話群,3\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 5005 \"vajura_0007\"\n@ヴァジュラ\nあのさ…\n今日は楽しかった…よな？\n\n@ヴァジュラ\nあ、いや…\nちょっと聞いてみたかったん\nだけど…\n\n# face %(unit_a)s \"normal\"\n# voice 5005 \"vajura_0001\"\n@ヴァジュラ\nマスターって、\nあたしのこと…\nどれくらい知ってんだ？\n\n@ヴァジュラ\nちょっとさ、簡単なクイズ出すから\nチャチャッと答えてよ\n\n# face %(unit_a)s \"smile\"\n# voice 5005 \"vajura_0036\"\n@ヴァジュラ\nてことで、行くぞ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしのキラーズ『ヴァジュラ』は\nどんな伝承に登場する？\n\n# se \"SE_0734\"\n# select \"北欧神話\" \"select_label_1\" \"ギリシア神話\" \"select_label_2\" \"インド神話群\" \"select_label_3\"\nあたしのキラーズ『ヴァジュラ』は\nどんな伝承に登場する？\n"
+	},
+	{
+		"ID": 2057,
+		"unitID": 2500511,
+		"questionID": 9500507,
+		"script": ";;邪竜ヴリトラ,1\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 5005 \"vajura_0007\"\n@ヴァジュラ\nあのさ…\n今日は楽しかった…よな？\n\n@ヴァジュラ\nあ、いや…\nちょっと聞いてみたかったん\nだけど…\n\n# face %(unit_a)s \"normal\"\n# voice 5005 \"vajura_0001\"\n@ヴァジュラ\nマスターって、\nあたしのこと…\nどれくらい知ってんだ？\n\n@ヴァジュラ\nちょっとさ、簡単なクイズ出すから\nチャチャッと答えてよ\n\n# face %(unit_a)s \"smile\"\n# voice 5005 \"vajura_0036\"\n@ヴァジュラ\nてことで、行くぞ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしのキラーズ『ヴァジュラ』は\nなにを倒すために\n作られたものかわかるか？\n\n# se \"SE_0734\"\n# select \"邪竜ヴリトラ\" \"select_label_1\" \"縁龍ブリトニー\" \"select_label_2\" \"軽トラ\" \"select_label_3\"\nあたしのキラーズ『ヴァジュラ』は\nなにを倒すために\n作られたものかわかるか？\n"
+	},
+	{
+		"ID": 2058,
+		"unitID": 2500511,
+		"questionID": 9500508,
+		"script": ";;聖仙ダディーチャの骨,2\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 5005 \"vajura_0007\"\n@ヴァジュラ\nあのさ…\n今日は楽しかった…よな？\n\n@ヴァジュラ\nあ、いや…\nちょっと聞いてみたかったん\nだけど…\n\n# face %(unit_a)s \"normal\"\n# voice 5005 \"vajura_0001\"\n@ヴァジュラ\nマスターって、\nあたしのこと…\nどれくらい知ってんだ？\n\n@ヴァジュラ\nちょっとさ、簡単なクイズ出すから\nチャチャッと答えてよ\n\n# face %(unit_a)s \"smile\"\n# voice 5005 \"vajura_0036\"\n@ヴァジュラ\nてことで、行くぞ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしのキラーズ『ヴァジュラ』は\nなにから作られたものかわかるか？\n\n# se \"SE_0734\"\n# select \"聖仙ダディーチャの皮\" \"select_label_1\" \"聖仙ダディーチャの骨\" \"select_label_2\" \"聖仙ダディーチャの肉\" \"select_label_3\"\nあたしのキラーズ『ヴァジュラ』は\nなにから作られたものかわかるか？\n"
+	},
+	{
+		"ID": 2059,
+		"unitID": 2500511,
+		"questionID": 9500509,
+		"script": ";;ソーマ,3\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 5005 \"vajura_0007\"\n@ヴァジュラ\nあのさ…\n今日は楽しかった…よな？\n\n@ヴァジュラ\nあ、いや…\nちょっと聞いてみたかったん\nだけど…\n\n# face %(unit_a)s \"normal\"\n# voice 5005 \"vajura_0001\"\n@ヴァジュラ\nマスターって、\nあたしのこと…\nどれくらい知ってんだ？\n\n@ヴァジュラ\nちょっとさ、簡単なクイズ出すから\nチャチャッと答えてよ\n\n# face %(unit_a)s \"smile\"\n# voice 5005 \"vajura_0036\"\n@ヴァジュラ\nてことで、行くぞ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしのキラーズ『ヴァジュラ』の\n持ち主のインドラが好んだ神酒は？\n\n# se \"SE_0734\"\n# select \"ジーマ\" \"select_label_1\" \"ウーマ\" \"select_label_2\" \"ソーマ\" \"select_label_3\"\nあたしのキラーズ『ヴァジュラ』の\n持ち主のインドラが好んだ神酒は？\n"
+	},
+	{
+		"ID": 2060,
+		"unitID": 2500511,
+		"questionID": 9500510,
+		"script": ";;トゥヴァシュトリ,1\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 5005 \"vajura_0007\"\n@ヴァジュラ\nあのさ…\n今日は楽しかった…よな？\n\n@ヴァジュラ\nあ、いや…\nちょっと聞いてみたかったん\nだけど…\n\n# face %(unit_a)s \"normal\"\n# voice 5005 \"vajura_0001\"\n@ヴァジュラ\nマスターって、\nあたしのこと…\nどれくらい知ってんだ？\n\n@ヴァジュラ\nちょっとさ、簡単なクイズ出すから\nチャチャッと答えてよ\n\n# face %(unit_a)s \"smile\"\n# voice 5005 \"vajura_0036\"\n@ヴァジュラ\nてことで、行くぞ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしのキラーズ『ヴァジュラ』を\n作ったのは…？\n\n# se \"SE_0734\"\n# select \"トゥヴァシュトリ\" \"select_label_1\" \"トゥマシェリ\" \"select_label_2\" \" トゥートゥーリ\" \"select_label_3\"\nあたしのキラーズ『ヴァジュラ』を\n作ったのは…？\n"
+	},
+	{
+		"ID": 2061,
+		"unitID": 2500511,
+		"questionID": 9500511,
+		"script": ";; 炎,1\n# face %(unit_a)s \"sad\"\n@ヴァジュラ\nあのさ…\n\n@ヴァジュラ\nいつも失敗の多い\nあたしだけどさ…\n\n# face %(unit_a)s \"usual\"\n# voice 5005 \"vajura_0001\"\n@ヴァジュラ\nマスターに聞いてみたいんだよ\n\n@ヴァジュラ\nあたしのこと、\nどれくらい知ってくれてるのか\n\n# voice 5005 \"vajura_0036\"\n# face %(unit_a)s \"smile\"\n@ヴァジュラ\n…いいかい？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしの属性は知っているかな？\n\n# se \"SE_0734\"\n# select \"炎\" \"select_label_1\" \"氷\" \"select_label_2\" \"光\" \"select_label_3\"\nあたしの属性は知っているかな？\n"
+	},
+	{
+		"ID": 2062,
+		"unitID": 2500511,
+		"questionID": 9500512,
+		"script": ";;172cm,2\n# face %(unit_a)s \"sad\"\n@ヴァジュラ\nあのさ…\n\n@ヴァジュラ\nいつも失敗の多い\nあたしだけどさ…\n\n# face %(unit_a)s \"usual\"\n# voice 5005 \"vajura_0001\"\n@ヴァジュラ\nマスターに聞いてみたいんだよ\n\n@ヴァジュラ\nあたしのこと、\nどれくらい知ってくれてるのか\n\n# voice 5005 \"vajura_0036\"\n# face %(unit_a)s \"smile\"\n@ヴァジュラ\n…いいかい？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしの身長を\n言ってみてくれないか？\n\n# se \"SE_0734\"\n# select \"162cm\" \"select_label_1\" \"172cm\" \"select_label_2\" \"152cm\" \"select_label_3\"\nあたしの身長を\n言ってみてくれないか？\n"
+	},
+	{
+		"ID": 2063,
+		"unitID": 2500511,
+		"questionID": 9500513,
+		"script": ";;1月24日,3\n# face %(unit_a)s \"sad\"\n@ヴァジュラ\nあのさ…\n\n@ヴァジュラ\nいつも失敗の多い\nあたしだけどさ…\n\n# face %(unit_a)s \"usual\"\n# voice 5005 \"vajura_0001\"\n@ヴァジュラ\nマスターに聞いてみたいんだよ\n\n@ヴァジュラ\nあたしのこと、\nどれくらい知ってくれてるのか\n\n# voice 5005 \"vajura_0036\"\n# face %(unit_a)s \"smile\"\n@ヴァジュラ\n…いいかい？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしの誕生日を知っているかい？\n\n# se \"SE_0734\"\n# select \"10月24日\" \"select_label_1\" \"8月24日\" \"select_label_2\" \"1月24日\" \"select_label_3\"\nあたしの誕生日を知っているかい？\n"
+	},
+	{
+		"ID": 2064,
+		"unitID": 2500511,
+		"questionID": 9500514,
+		"script": ";;みずがめ座,1\n# face %(unit_a)s \"sad\"\n@ヴァジュラ\nあのさ…\n\n@ヴァジュラ\nいつも失敗の多い\nあたしだけどさ…\n\n# face %(unit_a)s \"usual\"\n# voice 5005 \"vajura_0001\"\n@ヴァジュラ\nマスターに聞いてみたいんだよ\n\n@ヴァジュラ\nあたしのこと、\nどれくらい知ってくれてるのか\n\n# voice 5005 \"vajura_0036\"\n# face %(unit_a)s \"smile\"\n@ヴァジュラ\n…いいかい？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしの星座を知っているかい？\n\n# se \"SE_0734\"\n# select \"みずがめ座\" \"select_label_1\" \"おうし座\" \"select_label_2\" \"てんびん座\" \"select_label_3\"\nあたしの星座を知っているかい？\n"
+	},
+	{
+		"ID": 2065,
+		"unitID": 2500511,
+		"questionID": 9500515,
+		"script": ";;目立つこと,2\n# face %(unit_a)s \"sad\"\n@ヴァジュラ\nあのさ…\n\n@ヴァジュラ\nいつも失敗の多い\nあたしだけどさ…\n\n# face %(unit_a)s \"usual\"\n# voice 5005 \"vajura_0001\"\n@ヴァジュラ\nマスターに聞いてみたいんだよ\n\n@ヴァジュラ\nあたしのこと、\nどれくらい知ってくれてるのか\n\n# voice 5005 \"vajura_0036\"\n# face %(unit_a)s \"smile\"\n@ヴァジュラ\n…いいかい？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしはどんな事が\n好きでしょーか？\n\n# se \"SE_0734\"\n# select \"泣くこと\" \"select_label_1\" \"目立つこと\" \"select_label_2\" \"絵を描くこと\" \"select_label_3\"\nあたしはどんな事が\n好きでしょーか？\n"
+	},
+	{
+		"ID": 2066,
+		"unitID": 2500511,
+		"questionID": 9500516,
+		"script": ";;根性,3\n# face %(unit_a)s \"sad\"\n@ヴァジュラ\nあのさ…\n\n@ヴァジュラ\nいつも失敗の多い\nあたしだけどさ…\n\n# face %(unit_a)s \"usual\"\n# voice 5005 \"vajura_0001\"\n@ヴァジュラ\nマスターに聞いてみたいんだよ\n\n@ヴァジュラ\nあたしのこと、\nどれくらい知ってくれてるのか\n\n# voice 5005 \"vajura_0036\"\n# face %(unit_a)s \"smile\"\n@ヴァジュラ\n…いいかい？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしはこれがあるって\nよく言われるな！\n\n# se \"SE_0734\"\n# select \"運\" \"select_label_1\" \"お金\" \"select_label_2\" \"根性\" \"select_label_3\"\nあたしはこれがあるって\nよく言われるな！\n"
+	},
+	{
+		"ID": 2067,
+		"unitID": 2500511,
+		"questionID": 9500517,
+		"script": ";;O型,1\n# face %(unit_a)s \"sad\"\n@ヴァジュラ\nあのさ…\n\n@ヴァジュラ\nいつも失敗の多い\nあたしだけどさ…\n\n# face %(unit_a)s \"usual\"\n# voice 5005 \"vajura_0001\"\n@ヴァジュラ\nマスターに聞いてみたいんだよ\n\n@ヴァジュラ\nあたしのこと、\nどれくらい知ってくれてるのか\n\n# voice 5005 \"vajura_0036\"\n# face %(unit_a)s \"smile\"\n@ヴァジュラ\n…いいかい？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしの血液型、わかるか？\n\n# se \"SE_0734\"\n# select \"O型\" \"select_label_1\" \"A型\" \"select_label_2\" \"B型\" \"select_label_3\"\nあたしの血液型、わかるか？\n"
+	},
+	{
+		"ID": 2068,
+		"unitID": 2500511,
+		"questionID": 9500518,
+		"script": ";; 須弥山,2\n# face %(unit_a)s \"sad\"\n@ヴァジュラ\nあのさ…\n\n@ヴァジュラ\nいつも失敗の多い\nあたしだけどさ…\n\n# face %(unit_a)s \"usual\"\n# voice 5005 \"vajura_0001\"\n@ヴァジュラ\nマスターに聞いてみたいんだよ\n\n@ヴァジュラ\nあたしのこと、\nどれくらい知ってくれてるのか\n\n# voice 5005 \"vajura_0036\"\n# face %(unit_a)s \"smile\"\n@ヴァジュラ\n…いいかい？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしの出身地を答えてよ！\n\n# se \"SE_0734\"\n# select \"三笠山\" \"select_label_1\" \"須弥山\" \"select_label_2\" \"富士山\" \"select_label_3\"\nあたしの出身地を答えてよ！\n"
+	},
+	{
+		"ID": 2069,
+		"unitID": 2500511,
+		"questionID": 9500519,
+		"script": ";;飲酒,3\n# face %(unit_a)s \"sad\"\n@ヴァジュラ\nあのさ…\n\n@ヴァジュラ\nいつも失敗の多い\nあたしだけどさ…\n\n# face %(unit_a)s \"usual\"\n# voice 5005 \"vajura_0001\"\n@ヴァジュラ\nマスターに聞いてみたいんだよ\n\n@ヴァジュラ\nあたしのこと、\nどれくらい知ってくれてるのか\n\n# voice 5005 \"vajura_0036\"\n# face %(unit_a)s \"smile\"\n@ヴァジュラ\n…いいかい？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしの趣味はどーれだ？\n\n# se \"SE_0734\"\n# select \"窃盗\" \"select_label_1\" \"喫煙\" \"select_label_2\" \"飲酒\" \"select_label_3\"\nあたしの趣味はどーれだ？\n"
+	},
+	{
+		"ID": 2070,
+		"unitID": 2500511,
+		"questionID": 9500520,
+		"script": ";;お調子者な所,1\n# face %(unit_a)s \"sad\"\n@ヴァジュラ\nあのさ…\n\n@ヴァジュラ\nいつも失敗の多い\nあたしだけどさ…\n\n# face %(unit_a)s \"usual\"\n# voice 5005 \"vajura_0001\"\n@ヴァジュラ\nマスターに聞いてみたいんだよ\n\n@ヴァジュラ\nあたしのこと、\nどれくらい知ってくれてるのか\n\n# voice 5005 \"vajura_0036\"\n# face %(unit_a)s \"smile\"\n@ヴァジュラ\n…いいかい？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしの悪いとこは\nよくわかってんだよ！\nこれだろ？\n\n# se \"SE_0734\"\n# select \"お調子者な所\" \"select_label_1\" \"安物買いな所\" \"select_label_2\" \"偏食な所\" \"select_label_3\"\nあたしの悪いとこは\nよくわかってんだよ！\nこれだろ？\n"
+	},
+	{
+		"ID": 2071,
+		"unitID": 2500511,
+		"questionID": 9500521,
+		"script": ";;テキーラ,1\n# face %(unit_a)s \"sad\"\n@ヴァジュラ\nあのさ…\nさっきの出店の射的だけど…\n\n# face %(unit_a)s \"smile\"\n# voice 5005 \"vajura_0005\"\n@ヴァジュラ\nバッチリ的に命中してさ！\n楽しかったな！\n\n@ヴァジュラ\n…って、\nこんなこと言いてえんじゃ\nねえんだ\n\n# face %(unit_a)s \"usual\"\n# voice 5005 \"vajura_0007\"\n@ヴァジュラ\nいきなりだけどよ…\nクイズ出していいかい？\n\n@ヴァジュラ\nま、これもそういう\n出し物だと思ってさ！\n\n# voice 5005 \"vajura_0036\"\n# face %(unit_a)s \"smile\"\n@ヴァジュラ\nじゃ、いくよ!?\n;;---------------------------------\n\n@%(unitName:unit_a)s\n“世界の酒”クイーズ！\nカクテルのマルガリータに\n入っているメキシコの酒と言えば？\n\n# se \"SE_0734\"\n# select \"テキーラ\" \"select_label_1\" \"ウォッカ\" \"select_label_2\" \"ジン\" \"select_label_3\"\n“世界の酒”クイーズ！\nカクテルのマルガリータに\n入っているメキシコの酒と言えば？\n"
+	},
+	{
+		"ID": 2072,
+		"unitID": 2500511,
+		"questionID": 9500522,
+		"script": ";;鎧銃皇,2\n# face %(unit_a)s \"sad\"\n@ヴァジュラ\nあのさ…\nさっきの出店の射的だけど…\n\n# face %(unit_a)s \"smile\"\n# voice 5005 \"vajura_0005\"\n@ヴァジュラ\nバッチリ的に命中してさ！\n楽しかったな！\n\n@ヴァジュラ\n…って、\nこんなこと言いてえんじゃ\nねえんだ\n\n# face %(unit_a)s \"usual\"\n# voice 5005 \"vajura_0007\"\n@ヴァジュラ\nいきなりだけどよ…\nクイズ出していいかい？\n\n@ヴァジュラ\nま、これもそういう\n出し物だと思ってさ！\n\n# voice 5005 \"vajura_0036\"\n# face %(unit_a)s \"smile\"\n@ヴァジュラ\nじゃ、いくよ!?\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしの☆６のジョブ名、わかるか？\n\n# se \"SE_0734\"\n# select \"神銃皇\" \"select_label_1\" \"鎧銃皇\" \"select_label_2\" \"界銃皇\" \"select_label_3\"\nあたしの☆６のジョブ名、わかるか？\n"
+	},
+	{
+		"ID": 2073,
+		"unitID": 2500511,
+		"questionID": 9500523,
+		"script": ";;金剛の呪禁,3\n# face %(unit_a)s \"sad\"\n@ヴァジュラ\nあのさ…\nさっきの出店の射的だけど…\n\n# face %(unit_a)s \"smile\"\n# voice 5005 \"vajura_0005\"\n@ヴァジュラ\nバッチリ的に命中してさ！\n楽しかったな！\n\n@ヴァジュラ\n…って、\nこんなこと言いてえんじゃ\nねえんだ\n\n# face %(unit_a)s \"usual\"\n# voice 5005 \"vajura_0007\"\n@ヴァジュラ\nいきなりだけどよ…\nクイズ出していいかい？\n\n@ヴァジュラ\nま、これもそういう\n出し物だと思ってさ！\n\n# voice 5005 \"vajura_0036\"\n# face %(unit_a)s \"smile\"\n@ヴァジュラ\nじゃ、いくよ!?\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしのコマンドスキル、\nどれかわかるか？\n\n# se \"SE_0734\"\n# select \"梱包の呪禁\" \"select_label_1\" \"近藤の呪禁\" \"select_label_2\" \"金剛の呪禁\" \"select_label_3\"\nあたしのコマンドスキル、\nどれかわかるか？\n"
+	},
+	{
+		"ID": 2074,
+		"unitID": 2500511,
+		"questionID": 9500524,
+		"script": ";;炎鎧銃皇の覇道,1\n# face %(unit_a)s \"sad\"\n@ヴァジュラ\nあのさ…\nさっきの出店の射的だけど…\n\n# face %(unit_a)s \"smile\"\n# voice 5005 \"vajura_0005\"\n@ヴァジュラ\nバッチリ的に命中してさ！\n楽しかったな！\n\n@ヴァジュラ\n…って、\nこんなこと言いてえんじゃ\nねえんだ\n\n# face %(unit_a)s \"usual\"\n# voice 5005 \"vajura_0007\"\n@ヴァジュラ\nいきなりだけどよ…\nクイズ出していいかい？\n\n@ヴァジュラ\nま、これもそういう\n出し物だと思ってさ！\n\n# voice 5005 \"vajura_0036\"\n# face %(unit_a)s \"smile\"\n@ヴァジュラ\nじゃ、いくよ!?\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしの☆６の\nリーダースキルはわかるかい？\n\n# se \"SE_0734\"\n# select \"炎鎧銃皇の覇道\" \"select_label_1\" \"炎鎧銃皇の王道\" \"select_label_2\" \"炎鎧銃皇の私道\" \"select_label_3\"\nあたしの☆６の\nリーダースキルはわかるかい？\n"
+	},
+	{
+		"ID": 2075,
+		"unitID": 2500511,
+		"questionID": 9500525,
+		"script": ";;パラシュ,2\n# face %(unit_a)s \"sad\"\n@ヴァジュラ\nあのさ…\nさっきの出店の射的だけど…\n\n# face %(unit_a)s \"smile\"\n# voice 5005 \"vajura_0005\"\n@ヴァジュラ\nバッチリ的に命中してさ！\n楽しかったな！\n\n@ヴァジュラ\n…って、\nこんなこと言いてえんじゃ\nねえんだ\n\n# face %(unit_a)s \"usual\"\n# voice 5005 \"vajura_0007\"\n@ヴァジュラ\nいきなりだけどよ…\nクイズ出していいかい？\n\n@ヴァジュラ\nま、これもそういう\n出し物だと思ってさ！\n\n# voice 5005 \"vajura_0036\"\n# face %(unit_a)s \"smile\"\n@ヴァジュラ\nじゃ、いくよ!?\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしと仲がいいのって…？\n\n# se \"SE_0734\"\n# select \"フォルカス\" \"select_label_1\" \"パラシュ\" \"select_label_2\" \"ハルパー\" \"select_label_3\"\nあたしと仲がいいのって…？\n"
+	},
+	{
+		"ID": 2076,
+		"unitID": 2500511,
+		"questionID": 9500526,
+		"script": ";;テュルソス,3\n# face %(unit_a)s \"sad\"\n@ヴァジュラ\nあのさ…\nさっきの出店の射的だけど…\n\n# face %(unit_a)s \"smile\"\n# voice 5005 \"vajura_0005\"\n@ヴァジュラ\nバッチリ的に命中してさ！\n楽しかったな！\n\n@ヴァジュラ\n…って、\nこんなこと言いてえんじゃ\nねえんだ\n\n# face %(unit_a)s \"usual\"\n# voice 5005 \"vajura_0007\"\n@ヴァジュラ\nいきなりだけどよ…\nクイズ出していいかい？\n\n@ヴァジュラ\nま、これもそういう\n出し物だと思ってさ！\n\n# voice 5005 \"vajura_0036\"\n# face %(unit_a)s \"smile\"\n@ヴァジュラ\nじゃ、いくよ!?\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしと仲がいいのって…？\n\n# se \"SE_0734\"\n# select \"ハルパー\" \"select_label_1\" \"グングニル\" \"select_label_2\" \"テュルソス\" \"select_label_3\"\nあたしと仲がいいのって…？\n"
+	},
+	{
+		"ID": 2077,
+		"unitID": 2500511,
+		"questionID": 9500527,
+		"script": ";;ゴールドラッシュデー,1\n# face %(unit_a)s \"sad\"\n@ヴァジュラ\nあのさ…\nさっきの出店の射的だけど…\n\n# face %(unit_a)s \"smile\"\n# voice 5005 \"vajura_0005\"\n@ヴァジュラ\nバッチリ的に命中してさ！\n楽しかったな！\n\n@ヴァジュラ\n…って、\nこんなこと言いてえんじゃ\nねえんだ\n\n# face %(unit_a)s \"usual\"\n# voice 5005 \"vajura_0007\"\n@ヴァジュラ\nいきなりだけどよ…\nクイズ出していいかい？\n\n@ヴァジュラ\nま、これもそういう\n出し物だと思ってさ！\n\n# voice 5005 \"vajura_0036\"\n# face %(unit_a)s \"smile\"\n@ヴァジュラ\nじゃ、いくよ!?\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしの誕生日は\nなんの日かわかるか？\n\n# se \"SE_0734\"\n# select \"ゴールドラッシュデー\" \"select_label_1\" \"ゴールドパンチデー\" \"select_label_2\" \"ゴールドパニックデー\" \"select_label_3\"\nあたしの誕生日は\nなんの日かわかるか？\n"
+	},
+	{
+		"ID": 2078,
+		"unitID": 2500511,
+		"questionID": 9500528,
+		"script": ";;威風堂堂ビーナス,2\n# face %(unit_a)s \"sad\"\n@ヴァジュラ\nあのさ…\nさっきの出店の射的だけど…\n\n# face %(unit_a)s \"smile\"\n# voice 5005 \"vajura_0005\"\n@ヴァジュラ\nバッチリ的に命中してさ！\n楽しかったな！\n\n@ヴァジュラ\n…って、\nこんなこと言いてえんじゃ\nねえんだ\n\n# face %(unit_a)s \"usual\"\n# voice 5005 \"vajura_0007\"\n@ヴァジュラ\nいきなりだけどよ…\nクイズ出していいかい？\n\n@ヴァジュラ\nま、これもそういう\n出し物だと思ってさ！\n\n# voice 5005 \"vajura_0036\"\n# face %(unit_a)s \"smile\"\n@ヴァジュラ\nじゃ、いくよ!?\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしが習得したスキルを\n覚えてくれてるかい？\n\n# se \"SE_0734\"\n# select \"不動前ビーナス\" \"select_label_1\" \"威風堂堂ビーナス\" \"select_label_2\" \"一迅のビーナス\" \"select_label_3\"\nあたしが習得したスキルを\n覚えてくれてるかい？\n"
+	},
+	{
+		"ID": 2079,
+		"unitID": 2500511,
+		"questionID": 9500529,
+		"script": ";;不撓不屈ビーナス,3\n# face %(unit_a)s \"sad\"\n@ヴァジュラ\nあのさ…\nさっきの出店の射的だけど…\n\n# face %(unit_a)s \"smile\"\n# voice 5005 \"vajura_0005\"\n@ヴァジュラ\nバッチリ的に命中してさ！\n楽しかったな！\n\n@ヴァジュラ\n…って、\nこんなこと言いてえんじゃ\nねえんだ\n\n# face %(unit_a)s \"usual\"\n# voice 5005 \"vajura_0007\"\n@ヴァジュラ\nいきなりだけどよ…\nクイズ出していいかい？\n\n@ヴァジュラ\nま、これもそういう\n出し物だと思ってさ！\n\n# voice 5005 \"vajura_0036\"\n# face %(unit_a)s \"smile\"\n@ヴァジュラ\nじゃ、いくよ!?\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしが習得したスキルを\n覚えてくれてるかい？\n\n# se \"SE_0734\"\n# select \"心頭滅却ビーナス\" \"select_label_1\" \"ビーナスパンチ\" \"select_label_2\" \"不撓不屈ビーナス\" \"select_label_3\"\nあたしが習得したスキルを\n覚えてくれてるかい？\n"
+	},
+	{
+		"ID": 2080,
+		"unitID": 2500511,
+		"questionID": 9500530,
+		"script": ";;アイムール,1\n# face %(unit_a)s \"sad\"\n@ヴァジュラ\nあのさ…\nさっきの出店の射的だけど…\n\n# face %(unit_a)s \"smile\"\n# voice 5005 \"vajura_0005\"\n@ヴァジュラ\nバッチリ的に命中してさ！\n楽しかったな！\n\n@ヴァジュラ\n…って、\nこんなこと言いてえんじゃ\nねえんだ\n\n# face %(unit_a)s \"usual\"\n# voice 5005 \"vajura_0007\"\n@ヴァジュラ\nいきなりだけどよ…\nクイズ出していいかい？\n\n@ヴァジュラ\nま、これもそういう\n出し物だと思ってさ！\n\n# voice 5005 \"vajura_0036\"\n# face %(unit_a)s \"smile\"\n@ヴァジュラ\nじゃ、いくよ!?\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしの\nライバルと言えばコイツかな？\n\n# se \"SE_0734\"\n# select \"アイムール\" \"select_label_1\" \"ハルパー\" \"select_label_2\" \"アスカロン\" \"select_label_3\"\nあたしの\nライバルと言えばコイツかな？\n"
+	},
+	{
+		"ID": 2081,
+		"unitID": 2500511,
+		"questionID": 9500531,
+		"script": ";;スピリタス,1\n# face %(unit_a)s \"usual\"\n@ヴァジュラ\n…ふぅ\n\n# voice 5005 \"vajura_0007\"\n@ヴァジュラ\n今日はちょっと…\n飲み過ぎちゃったかな？\n\n# face %(unit_a)s \"sad\"\n@ヴァジュラ\nなんかあたしだけ酔ってて\n恥ずかしいじゃんよ？\n\n# face %(unit_a)s \"usual\"\n# voice 5005 \"vajura_0001\"\n@ヴァジュラ\nあ、そうだ、マスター\n\n# face %(unit_a)s \"smile\"\n@ヴァジュラ\n今から\n“ヴァジュラクイズ”\n出しちゃうぜ！\n\n# voice 5005 \"vajura_0036\"\n@ヴァジュラ\n準備はいいかい？\nいくよ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n“世界の酒”クーイズ！\n世界一度数の高い酒といえば？\n\n# se \"SE_0734\"\n# select \"スピリタス\" \"select_label_1\" \"ホッピー\" \"select_label_2\" \"ハイボール\" \"select_label_3\"\n“世界の酒”クーイズ！\n世界一度数の高い酒といえば？\n"
+	},
+	{
+		"ID": 2082,
+		"unitID": 2500511,
+		"questionID": 9500532,
+		"script": ";;Aquarius,2\n# face %(unit_a)s \"usual\"\n@ヴァジュラ\n…ふぅ\n\n# voice 5005 \"vajura_0007\"\n@ヴァジュラ\n今日はちょっと…\n飲み過ぎちゃったかな？\n\n# face %(unit_a)s \"sad\"\n@ヴァジュラ\nなんかあたしだけ酔ってて\n恥ずかしいじゃんよ？\n\n# face %(unit_a)s \"usual\"\n# voice 5005 \"vajura_0001\"\n@ヴァジュラ\nあ、そうだ、マスター\n\n# face %(unit_a)s \"smile\"\n@ヴァジュラ\n今から\n“ヴァジュラクイズ”\n出しちゃうぜ！\n\n# voice 5005 \"vajura_0036\"\n@ヴァジュラ\n準備はいいかい？\nいくよ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしの星座を\n英語で言ってみてよ！\n\n# se \"SE_0734\"\n# select \"Capricorn\" \"select_label_1\" \"Aquarius\" \"select_label_2\" \"Gemini\" \"select_label_3\"\nあたしの星座を\n英語で言ってみてよ！\n"
+	},
+	{
+		"ID": 2083,
+		"unitID": 2500511,
+		"questionID": 9500533,
+		"script": ";;January,3\n# face %(unit_a)s \"usual\"\n@ヴァジュラ\n…ふぅ\n\n# voice 5005 \"vajura_0007\"\n@ヴァジュラ\n今日はちょっと…\n飲み過ぎちゃったかな？\n\n# face %(unit_a)s \"sad\"\n@ヴァジュラ\nなんかあたしだけ酔ってて\n恥ずかしいじゃんよ？\n\n# face %(unit_a)s \"usual\"\n# voice 5005 \"vajura_0001\"\n@ヴァジュラ\nあ、そうだ、マスター\n\n# face %(unit_a)s \"smile\"\n@ヴァジュラ\n今から\n“ヴァジュラクイズ”\n出しちゃうぜ！\n\n# voice 5005 \"vajura_0036\"\n@ヴァジュラ\n準備はいいかい？\nいくよ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしの誕生月を\n英語で言ってみてよ！\n\n# se \"SE_0734\"\n# select \"September\" \"select_label_1\" \"June\" \"select_label_2\" \"January\" \"select_label_3\"\nあたしの誕生月を\n英語で言ってみてよ！\n"
+	},
+	{
+		"ID": 2084,
+		"unitID": 2500511,
+		"questionID": 9500534,
+		"script": ";;緑色,1\n# face %(unit_a)s \"usual\"\n@ヴァジュラ\n…ふぅ\n\n# voice 5005 \"vajura_0007\"\n@ヴァジュラ\n今日はちょっと…\n飲み過ぎちゃったかな？\n\n# face %(unit_a)s \"sad\"\n@ヴァジュラ\nなんかあたしだけ酔ってて\n恥ずかしいじゃんよ？\n\n# face %(unit_a)s \"usual\"\n# voice 5005 \"vajura_0001\"\n@ヴァジュラ\nあ、そうだ、マスター\n\n# face %(unit_a)s \"smile\"\n@ヴァジュラ\n今から\n“ヴァジュラクイズ”\n出しちゃうぜ！\n\n# voice 5005 \"vajura_0036\"\n@ヴァジュラ\n準備はいいかい？\nいくよ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしの瞳の色は\n何色だー！？\n\n# se \"SE_0734\"\n# select \"緑色\" \"select_label_1\" \"黄色\" \"select_label_2\" \"黒色\" \"select_label_3\"\nあたしの瞳の色は\n何色だー！？\n"
+	},
+	{
+		"ID": 2085,
+		"unitID": 2500511,
+		"questionID": 9500535,
+		"script": ";;赤髪,2\n# face %(unit_a)s \"usual\"\n@ヴァジュラ\n…ふぅ\n\n# voice 5005 \"vajura_0007\"\n@ヴァジュラ\n今日はちょっと…\n飲み過ぎちゃったかな？\n\n# face %(unit_a)s \"sad\"\n@ヴァジュラ\nなんかあたしだけ酔ってて\n恥ずかしいじゃんよ？\n\n# face %(unit_a)s \"usual\"\n# voice 5005 \"vajura_0001\"\n@ヴァジュラ\nあ、そうだ、マスター\n\n# face %(unit_a)s \"smile\"\n@ヴァジュラ\n今から\n“ヴァジュラクイズ”\n出しちゃうぜ！\n\n# voice 5005 \"vajura_0036\"\n@ヴァジュラ\n準備はいいかい？\nいくよ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしの髪の色を答えてよ！\n\n# se \"SE_0734\"\n# select \"青髪\" \"select_label_1\" \"赤髪\" \"select_label_2\" \"黒髪\" \"select_label_3\"\nあたしの髪の色を答えてよ！\n"
+	},
+	{
+		"ID": 2086,
+		"unitID": 2500511,
+		"questionID": 9500536,
+		"script": ";;左側,3\n# face %(unit_a)s \"usual\"\n@ヴァジュラ\n…ふぅ\n\n# voice 5005 \"vajura_0007\"\n@ヴァジュラ\n今日はちょっと…\n飲み過ぎちゃったかな？\n\n# face %(unit_a)s \"sad\"\n@ヴァジュラ\nなんかあたしだけ酔ってて\n恥ずかしいじゃんよ？\n\n# face %(unit_a)s \"usual\"\n# voice 5005 \"vajura_0001\"\n@ヴァジュラ\nあ、そうだ、マスター\n\n# face %(unit_a)s \"smile\"\n@ヴァジュラ\n今から\n“ヴァジュラクイズ”\n出しちゃうぜ！\n\n# voice 5005 \"vajura_0036\"\n@ヴァジュラ\n準備はいいかい？\nいくよ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしの八重歯は\nあたしから見てどっち側に\n生えてるかわかるか？\n\n# se \"SE_0734\"\n# select \"八重歯などない\" \"select_label_1\" \"右側\" \"select_label_2\" \"左側\" \"select_label_3\"\nあたしの八重歯は\nあたしから見てどっち側に\n生えてるかわかるか？\n"
+	},
+	{
+		"ID": 2087,
+		"unitID": 2500511,
+		"questionID": 9500537,
+		"script": ";;96度,1\n# face %(unit_a)s \"usual\"\n@ヴァジュラ\n…ふぅ\n\n# voice 5005 \"vajura_0007\"\n@ヴァジュラ\n今日はちょっと…\n飲み過ぎちゃったかな？\n\n# face %(unit_a)s \"sad\"\n@ヴァジュラ\nなんかあたしだけ酔ってて\n恥ずかしいじゃんよ？\n\n# face %(unit_a)s \"usual\"\n# voice 5005 \"vajura_0001\"\n@ヴァジュラ\nあ、そうだ、マスター\n\n# face %(unit_a)s \"smile\"\n@ヴァジュラ\n今から\n“ヴァジュラクイズ”\n出しちゃうぜ！\n\n# voice 5005 \"vajura_0036\"\n@ヴァジュラ\n準備はいいかい？\nいくよ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n“世界の酒”クーイズ！\n世界一度数の高い「スピリタス」の\nアルコール度数は約何度？\n\n# se \"SE_0734\"\n# select \"96度\" \"select_label_1\" \"88度\" \"select_label_2\" \"82度\" \"select_label_3\"\n“世界の酒”クーイズ！\n世界一度数の高い「スピリタス」の\nアルコール度数は約何度？\n"
+	},
+	{
+		"ID": 2088,
+		"unitID": 2500511,
+		"questionID": 9500538,
+		"script": ";;トライデント,2\n# face %(unit_a)s \"usual\"\n@ヴァジュラ\n…ふぅ\n\n# voice 5005 \"vajura_0007\"\n@ヴァジュラ\n今日はちょっと…\n飲み過ぎちゃったかな？\n\n# face %(unit_a)s \"sad\"\n@ヴァジュラ\nなんかあたしだけ酔ってて\n恥ずかしいじゃんよ？\n\n# face %(unit_a)s \"usual\"\n# voice 5005 \"vajura_0001\"\n@ヴァジュラ\nあ、そうだ、マスター\n\n# face %(unit_a)s \"smile\"\n@ヴァジュラ\n今から\n“ヴァジュラクイズ”\n出しちゃうぜ！\n\n# voice 5005 \"vajura_0036\"\n@ヴァジュラ\n準備はいいかい？\nいくよ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしと同じ血液型なのは\n誰かわかるかい？\n\n# se \"SE_0734\"\n# select \"グングニル\" \"select_label_1\" \"トライデント\" \"select_label_2\" \"ロンゴミアント\" \"select_label_3\"\nあたしと同じ血液型なのは\n誰かわかるかい？\n"
+	},
+	{
+		"ID": 2089,
+		"unitID": 2500511,
+		"questionID": 9500539,
+		"script": ";;鉄壁,3\n# face %(unit_a)s \"usual\"\n@ヴァジュラ\n…ふぅ\n\n# voice 5005 \"vajura_0007\"\n@ヴァジュラ\n今日はちょっと…\n飲み過ぎちゃったかな？\n\n# face %(unit_a)s \"sad\"\n@ヴァジュラ\nなんかあたしだけ酔ってて\n恥ずかしいじゃんよ？\n\n# face %(unit_a)s \"usual\"\n# voice 5005 \"vajura_0001\"\n@ヴァジュラ\nあ、そうだ、マスター\n\n# face %(unit_a)s \"smile\"\n@ヴァジュラ\n今から\n“ヴァジュラクイズ”\n出しちゃうぜ！\n\n# voice 5005 \"vajura_0036\"\n@ヴァジュラ\n準備はいいかい？\nいくよ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしの覚える\nデュエルスキルはどれだ？\n\n# se \"SE_0734\"\n# select \"絶壁\" \"select_label_1\" \"赤壁\" \"select_label_2\" \"鉄壁\" \"select_label_3\"\nあたしの覚える\nデュエルスキルはどれだ？\n"
+	},
+	{
+		"ID": 2090,
+		"unitID": 2500511,
+		"questionID": 9500540,
+		"script": ";;魔力の鼓動,1\n# face %(unit_a)s \"usual\"\n@ヴァジュラ\n…ふぅ\n\n# voice 5005 \"vajura_0007\"\n@ヴァジュラ\n今日はちょっと…\n飲み過ぎちゃったかな？\n\n# face %(unit_a)s \"sad\"\n@ヴァジュラ\nなんかあたしだけ酔ってて\n恥ずかしいじゃんよ？\n\n# face %(unit_a)s \"usual\"\n# voice 5005 \"vajura_0001\"\n@ヴァジュラ\nあ、そうだ、マスター\n\n# face %(unit_a)s \"smile\"\n@ヴァジュラ\n今から\n“ヴァジュラクイズ”\n出しちゃうぜ！\n\n# voice 5005 \"vajura_0036\"\n@ヴァジュラ\n準備はいいかい？\nいくよ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nあたしの覚える\n解放スキルはどれだ？\n\n# se \"SE_0734\"\n# select \"魔力の鼓動\" \"select_label_1\" \"魔力の産声\" \"select_label_2\" \"魔力の移動\" \"select_label_3\"\nあたしの覚える\n解放スキルはどれだ？\n"
+	},
+	{
+		"ID": 2091,
+		"unitID": 2500511,
+		"questionID": 9500541,
+		"script": "\n;;あたし,1\n# se \"SE_0734\"\n# select \"あたし\" \"select_label_1\" \"わたし\" \"select_label_2\" \"我\" \"select_label_3\"\nヴァジュラの一人称は\n次のうちどれ？\n"
+	},
+	{
+		"ID": 2092,
+		"unitID": 2500511,
+		"questionID": 9500542,
+		"script": "\n;;マスター,2\n# se \"SE_0734\"\n# select \"ご主人\" \"select_label_1\" \"マスター\" \"select_label_2\" \"貴様\" \"select_label_3\"\nヴァジュラはアンタのこと、\nなんて呼んでる？\n"
+	},
+	{
+		"ID": 2093,
+		"unitID": 2500511,
+		"questionID": 9500543,
+		"script": "\n;;91,3\n# se \"SE_0734\"\n# select \"88\" \"select_label_1\" \"85\" \"select_label_2\" \"91\" \"select_label_3\"\nヴァジュラの\nバストサイズがどのくらいか\nアンタ…知ってるの？\n"
+	},
+	{
+		"ID": 2094,
+		"unitID": 2500511,
+		"questionID": 9500544,
+		"script": "\n;;62,1\n# se \"SE_0734\"\n# select \"62\" \"select_label_1\" \"59\" \"select_label_2\" \"65\" \"select_label_3\"\nヴァジュラの\nウエストサイズがどのくらいか\nアンタ…知ってるの？\n"
+	},
+	{
+		"ID": 2095,
+		"unitID": 2500511,
+		"questionID": 9500545,
+		"script": "\n;;90,2\n# se \"SE_0734\"\n# select \"89\" \"select_label_1\" \"90\" \"select_label_2\" \"95\" \"select_label_3\"\nヴァジュラの\nヒップサイズがどのくらいか\nアンタ…知ってるの？\n"
+	},
+	{
+		"ID": 2096,
+		"unitID": 2500511,
+		"questionID": 9500546,
+		"script": "\n;;55,3\n# se \"SE_0734\"\n# select \"52\" \"select_label_1\" \"58\" \"select_label_2\" \"55\" \"select_label_3\"\nヴァジュラの体重は\n次のうちどれ？\n"
+	},
+	{
+		"ID": 2097,
+		"unitID": 2500511,
+		"questionID": 9500547,
+		"script": "\n;;243,1\n# se \"SE_0734\"\n# select \"243\" \"select_label_1\" \"236\" \"select_label_2\" \"245\" \"select_label_3\"\nヴァジュラの\nバスト＋ウエスト＋ヒップは\nいくつかわかる？\n"
+	},
+	{
+		"ID": 2098,
+		"unitID": 2500511,
+		"questionID": 9500548,
+		"script": "\n;;青,2\n# se \"SE_0734\"\n# select \"赤\" \"select_label_1\" \"青\" \"select_label_2\" \"緑\" \"select_label_3\"\nヴァジュラの水着の色は\n次のうちどれ？\n"
+	},
+	{
+		"ID": 2099,
+		"unitID": 2500511,
+		"questionID": 9500549,
+		"script": "\n;;74位,3\n# se \"SE_0734\"\n# select \"63位\" \"select_label_1\" \"81位\" \"select_label_2\" \"74位\" \"select_label_3\"\nヴァジュラは\n第２回人気投票で\n何位だったでしょう？\n"
+	},
+	{
+		"ID": 2100,
+		"unitID": 2500511,
+		"questionID": 9500550,
+		"script": "\n;;小林ゆう,1\n# se \"SE_0734\"\n# select \"小林ゆう\" \"select_label_1\" \"井上麻里奈\" \"select_label_2\" \"沢城みゆき\" \"select_label_3\"\nヴァジュラの声優は誰？\n"
+	}
+]

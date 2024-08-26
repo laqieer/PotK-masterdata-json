@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 301824,
+		"script": "# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_shipboard\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# voice 3018 \"forcas_0003\"\n@フォルカス\nそうですね\n\n@フォルカス\nこの広い海に自分だけ…\nそんな気分になります\n\n# face %(unit_a)s \"sad\"\n@フォルカス\nいえ、マスターのことを忘れていた\nわけじゃなくてですね！\n\n# textflame 0 0\n@\nマスターを無視したと\n誤解されないように\nフォルカスは早口で説明する\n\n# textflame 1 1\n@フォルカス\nも、もう！\nなに笑っているんですかっ\n\n# textflame 0 0\n@\nその様子がおかしくて\n笑みがこぼれるマスターだった―\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 100511,
+		"script": ";;A 心配されるかな (中当たり)\n;;B 門限が… (小当たり)\n;;C 焦らずいこう (大当たり)\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background %(background)s\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 0 0\n# face %(unit_a)s \"usual\"\n@\nマスターは\nリットゥを誘って\n森へやって来た\n\n# voice 1005 \"ritto_0026\"\n# textflame 1 1\n# eye %(unit_a)s \"close\"\n@リットゥ\n…少々興が乗ってしまったな\n奥まで来すぎた…\n\n# textflame 1 1\n# eye %(unit_a)s \"normal\"\n@リットゥ\nこんなに暗くなっては\n無理して戻るのが\n危険なくらいだな…\n\n# select \"心配されるかな\" \"select_label_01\" \"門限が…\" \"select_label_02\" \"焦らずいこう\" \"select_label_03\"\nこんなに暗くなっては\n無理して戻るのが\n危険なくらいだな…\n\n# label \"select_label_01\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_02\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_03\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_end\"\n# waitandnext 0.1\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

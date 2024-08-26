@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 502411,
+		"script": ";;,ここを宿泊地とする！ 中\n;;,デートなんだけど… 大\n;;,隠れ家にするか 小\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_cave\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 0 0\n@\nマスターは\n雑賀を誘って\n洞窟探検にやってきた\n\n# textflame 1 1\n# eye %(unit_a)s \"close\"\n# voice 5024 \"saika_0006\"\n@雑賀\nここ…隠れ家には\nもってこいの構造っすね！\n\n# eye %(unit_a)s \"normal\"\n@雑賀\nこの広い空間を武器庫に！\n\n# voice 5024 \"saika_0003\"\n@雑賀\nこっちは食料庫…\n寝床はここがいいすかね\n\n# select \"ここを宿泊地とする！\" \"select_label_01\" \"デートなんだけど…\" \"select_label_02\" \"隠れ家にするか\" \"select_label_03\"\nこっちは食料庫…\n寝床はここがいいすかね\n\n# label \"select_label_01\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_02\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_03\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_end\"\n# waitandnext 0.1\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 202103212,
+		"script": ";;-----------------------------------------\n;;SEA5章_21-2\n;;-----------------------------------------\n# script \"lisp\"\n# bgmfile \"bgm323_324\" \"BgmLostRagnarokCommand\" 0\n;;-----------------------------------------\n;;フライシュッツ\n# body 502711\n# pos 502711 2\n# scale 502711 0.8 0\n# layer 502711 2\n# alpha 502711 1 0\n;;ネス\n# body 602011\n# pos 602011 4\n# scale 602011 0.8 0\n# layer 602011 4\n# alpha 602011 1 0\n;;グラーシーザ\n# body 302611\n# pos 302611 2\n# scale 302611 0.8 0\n# layer 302611 3\n# mask 302611 off\n# alpha 302611 0 0\n;;神令エルキュール\n# body 3202511\n# pos 3202511 3\n# scale 3202511 0.8 0\n# layer 3202511 2\n# mask 3202511 off\n# alpha 3202511 0 0\n;;-----------------------------------------\n;;バトル内会話\n# face 502711 \"angry\"\n# face 602011 \"angry\"\n# textflame 1 1\n# textwindow \"nomal\"\n# textboxarrow 0 1\n@フライシュッツ\n止まって、エルキュールちゃん！\n\n# textboxarrow 0 3\n@ネス\n規律を取り戻して下さい！\n\n# alpha 502711 0 0.3\n# alpha 602011 0 0.3\n# face 3202511 \"angry\"\n# alpha 3202511 1 0.3\n# textboxarrow 0 2\n@エルキュール\n邪魔です！\n私は絶対に“彼女”を――\n\n# voice 3026 \"grayside_0029\"\n# alpha 3202511 0 0.3\n# move 302611 3 0.3\n# face 302611 \"angry\"\n# alpha 302611 1 0.3\n# textboxarrow 0 2\n@グラーシーザ\nせいぎをしっこうする！"
+	}
+]

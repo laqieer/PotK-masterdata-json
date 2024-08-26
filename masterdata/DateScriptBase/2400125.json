@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 2400125,
+		"script": "# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_onsen\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 0 0\n# face %(unit_a)s \"usual\"\n@\nアルテミスを連れて、\n水着着用の温泉へやってきた\nマスター\n\n# textflame 1 1\n@アルテミス\nこのような場所…\nなんと言いますか無防備で\nマスターをお守りしにくいですね…\n\n# textflame 0 0\n@\nきっと大丈夫だよ\nとマスター\n\n# voice 240012 \"arutemisu_k_0027\"\n# face %(unit_a)s \"angry\"\n# textflame 1 1\n@アルテミス\nマスター、\n楽観的過ぎます\n気を抜きすぎではありませんか？\n\n@アルテミス\nあなたは私のマスターです\n少しは気を引き締めてください\n\n# face %(unit_a)s \"usual\"\n@アルテミス\nこんな場所で緊張を解く事ができる\nマスターの度量には驚きますが\n私は心が休まりません…\n\n@アルテミス\nマスター\n私は一度このあたりを見回ってきます\n安全を確保してから入りましょう\n\n# textflame 0 0\n@\n急いで温泉から上がろうとする\nアルテミスを引き止め\n必死に説得を始める\n\n# textflame 1 1\n@アルテミス\nマスターがそこまで言うなら…\n\n# textflame 0 0\n@\nそう言って、しぶしぶ従ってくれた\nアルテミスだったが、\nやはり落ち着かない様子だ\n\n@\n温泉に来たにもかかわらず\nなんだかどっと疲れてしまうのだった\n\n# waitandnext 2\n# fadeout \"black\" 1.2\n"
+	}
+]

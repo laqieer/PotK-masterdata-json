@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 400411,
+		"script": ";;,Aじゃあエロースも？ 大\n;;,B恋人リサーチは？ 小\n;;,Cオシャレだよね 中\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_cafe\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 0 0\n# face %(unit_a)s \"usual\"\n@\nデートスポットに\nうってつけのカフェで\nカップル達をリサーチをする―\n\n# textflame 0 0\n@\nそんなエロースの謎の誘いの結果\n二人は夕暮れ時のカフェに来ていた\n\n# textflame 1 1\n# voice 4004 \"erosu_0039\"\n@エロース\nふむふむ、落ち着いた空気\nオシャレなインテリア…\n\n@エロース\n礼儀正しい店員に、\n清潔感のある店内…\nなるほど…\n\n# textflame 0 0\n@\nエロースは満足げに頷き\n親指を立てた\n\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# voice 4004 \"erosu_0041\"\n@エロース\nキュン度☆５と言えるでしょう！\nデートはやはりこうでなくては！\n\n@エロース\nこんな場所であれば\n意中の子のハートをズキューン！\nできるに違いありません！\n\n# select \"じゃあエロースも？\" \"select_label_01\" \"恋人リサーチは？\" \"select_label_02\" \"オシャレだよね\" \"select_label_03\"\nこんな場所であれば\n意中の子のハートをズキューン！\nできるに違いありません！\n\n# label \"select_label_01\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_02\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_03\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_end\"\n# waitandnext 0.1\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

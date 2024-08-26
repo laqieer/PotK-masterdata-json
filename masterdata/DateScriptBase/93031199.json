@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 93031199,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# se \"SE_0732\"\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n@カシウス\nその答え…\n\n# face %(unit_a)s \"smile\"\n# voice 230311 \"cassius_ge_0004\"\n@カシウス\n正解\n\n@カシウス\nこれでまた一つ…\n停滞の輪廻から解き放たれた\n\n# voice 230311 \"cassius_ge_0001\"\n@カシウス\n御館様…\n進もう、新たなる世界に\n\n@カシウス\n二人なら…\n理想の世界にきっと行ける\n\n# textflame 0 0\n@\nなんだかよく分からないが、\nもう少し一緒に\nいたいってことかな…？\n\n# textflame 0 0\n@\n彼女の真意はわからないが、\n心の距離を縮められたことに\nマスターは喜びを感じていた\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

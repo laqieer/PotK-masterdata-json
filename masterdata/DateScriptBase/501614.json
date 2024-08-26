@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 501614,
+		"script": ";;B 小当り\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_ferris\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# eye %(unit_a)s \"close\"\n# voice 5016 \"Flabellum_0003\"\n@フラベルム\nけがれと言われないだけ\nマシだと思ってください\n\n# eye %(unit_a)s \"normal\"\n@フラベルム\nだいぶよくなったとはいえ\nわたくしが望む清さには遠いのです\n\n# textflame 0 0\n@\nどうやら言葉の印象は悪いが\n嫌われてるわけではないようだと\nマスターはほっと息をつく\n\n# textflame 1 1\n@フラベルム\n…このくらいで\nあまり喜ばないでくださいな\n\n@フラベルム\nあなたにはもっと清廉に\nなっていただきいのですから\n\n@フラベルム\nそうなれば、もっとそばで…\nわたくしと同じように…\n\n# voice 5016 \"Flabellum_0005\"\n# face %(unit_a)s \"smile\"\n@フラベルム\nこの高みからの景色を楽しみ\n同じ気持ちを味わえますのに…\n\n# textflame 0 0\n@\nフラベルムの言葉には\nマスターへの期待が籠められていた\n\n@\nフラベルムの澄んだ顔を見ながら\nもっとがんばろう、\nそう決意をあらたにした\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

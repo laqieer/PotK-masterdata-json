@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 602013,
+		"script": "# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_hauntedhouse\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n@ネス\nず、ずっと…ですか？\nそう、ですか…\n\n# face %(unit_a)s \"normal\"\n@ネス\nあ、あくまでマスターの身の安全を\n考えてのことですので、\n勘違いしないように…\n\n@ネス\nで、ですが…そうですね…\nマスターがそばにいるというなら\nわたしのほうも少しは気が楽に…\n\n@ネス\n…とにかく、です\nどんどん奥へ進み\n手早く突破してしまいましょう\n\n;;モノローグ\n# textflame 0 0\n@\nそう言いながらこちらの手を\n引っ張るようにしながら進むネス\n\n# voice 6020 \"ness_0025\"\n# face %(unit_a)s \"angry\"\n# textflame 1 1\n@ネス\nぎゃあああああああああっ！！\n\n;;モノローグ\n# textflame 0 0\n@\nけっきょく彼女の悲鳴は最後まで\nホラーハウスの中を\n響き渡り続けるのだった\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 102025,
+		"script": ";;青はずれ\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_drive\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# face %(unit_a)s \"usual\"\n# textflame 0 0\n@\nお出かけの帰り…\nさやかを車で送るマスター\n\n@\n見慣れない街の夜景に、\nさやかは声を上げて感嘆していた\n\n# face %(unit_a)s \"normal\"\n# voice 1020 \"sayaka_0041\"\n# textflame 1 1\n@さやか\nすっごい綺麗！\nいろんなところが光ってて…\n惚れちゃうなぁ\n\n# face %(unit_a)s \"usual\"\n@さやか\n良い気分ついでに、\n何か音楽でも\n聞きたいとこだけど…\n\n# voice 1020 \"sayaka_0021\"\n@さやか\nえっ、流せるの？\nやった！じゃあお願い！\n\n# face %(unit_a)s \"angry\"\n# voice 1020 \"sayaka_0022\"\n# textflame 1 1\n@さやか\n…えっ！？\nなにこの変な曲！？\n\n# face %(unit_a)s \"usual\"\n# voice 1020 \"sayaka_0039\"\n@さやか\n聞いたことないジャンルだよ…\nこっちの世界じゃ有名なの？\nへ～そうなんだ\n\n# textflame 0 0\n@\n聞きなれない異世界の音楽に\nこの世界の文化をまたひとつ\n知ることができたさやかだった\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

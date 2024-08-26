@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 94006298,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# se \"SE_0733\"\n# face %(unit_a)s \"sad\"\n# voice 4006 \"azusa_0019\"\n@梓弓\n…いいえ、違います\nあ、い、いいんです…\n\n# face %(unit_a)s \"normal\"\n@梓弓\nマスターにだって、\nわからないことは\nありますものね\n\n# face %(unit_a)s \"smile\"\n@梓弓\n次回質問するときには、\nきっと正解してくれますよね？\n\n# voice 4006 \"azusa_0004\"\n@梓弓\nわたくしは、\nあなた様のことを\n信じておりますから\n\n# face %(unit_a)s \"normal\"\n# voice 4006 \"azusa_0003\"\n@梓弓\nでは、まいりましょう\n\n@梓弓\n梓弓はそう言うと\n歩き出す\n\n# textflame 0 0\n@\n口ではフォローして\nくれてはいるが、\nやはり寂しそうだ\n\n@\n次に出題されたら、\n必ず答えられるように\nしなければ…\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

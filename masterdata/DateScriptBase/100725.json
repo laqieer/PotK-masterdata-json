@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 100725,
+		"script": ";;はずれ\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_onsen\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# face %(unit_a)s \"angry\"\n# textflame 1 1\n@\n@アロンダイト\nむうう…\n\n# textflame 0 0\n@\n水着着用の温泉に来た、\nアロンダイトとマスター\n\n# textflame 1 1\n# voice 1007 \"Arondaito_0014\"\n@アロンダイト\n不義です…\n湖に行くと伺っていたのに…\n\n# textflame 0 0\n@\n温かい湖だよとすっとぼけると\nアロンダイトは不服そうに\n頬をふくらませる\n\n# textflame 1 1\n# voice 1007 \"Arondaito_0037\"\n@アロンダイト\n裏切り！裏切りです！\nマスターを信じる騎士の心を\n裏切られてしまいました！\n\n@アロンダイト\nしかも水着とはいえ、\n混浴の湯に招かれるだなんて…\n\n;;----------------------------------------------------\n# voice 1007 \"Arondaito_0012\"\n@アロンダイト\nふしだらです！\n不義の塊です！\n\n# textflame 0 0\n@\n無防備な時こそ、守ってほしい\n\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 1007 \"Arondaito_0039\"\n@アロンダイト\n…な、なるほど！\n\n@アロンダイト\n確かに湯の中では\n無防備極まりないですからね…\n\n# voice 1007 \"Arondaito_0040\"\n@アロンダイト\n私が浅はかでした\n成程、確かに護衛は必要です\n\n# face %(unit_a)s \"smile\"\n# voice 1007 \"Arondaito_0004\"\n@アロンダイト\nなので、近くに行っても\nまったく問題はありませんね\n\n# textflame 0 0\n@\n温泉の心地よい\n楽しいひと時を過ごした…\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

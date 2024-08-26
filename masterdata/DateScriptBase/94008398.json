@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 94008398,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# se \"SE_0733\"\n# face %(unit_a)s \"sad\"\n# voice 4008 \"otyinusu_0008\"\n@オティヌス\nえぇ～、不正解\n\n@オティヌス\nマスターの矢、\nあたしのハートを\n外しちゃったよ…？\n\n@オティヌス\nせっかく仲良くなれたと\n思ってたのに…\n\n@オティヌス\nそんなことなかったのかな…？\n\n# textflame 0 0\n@\nすごくガッカリした彼女の顔が\nマスターの目に焼きついた\n\n@\nデート中のはずなのに\nそんなにも悲しい思いを\nさせてしまうなんて…\n\n@\n次は絶対に間違えないように\nしないといけないな…\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

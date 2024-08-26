@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 103523,
+		"script": "# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_onsen\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n@ダモクレス\n潜りっこ勝負！？\nいいよ、やろうやろう！\n\n@ダモクレス\nそれじゃあ、せーの！\n\n# textflame 0 0\n@\n…………\n\n# textflame 1 1\n# face %(unit_a)s \"happy\"\n# voice 1035 \"damocles_0005\"\n@ダモクレス\nぷはぁ～！\nはい、クレスの勝ちー！\n\n@ダモクレス\nそれじゃあ、もう一回ね\n…って、マスターどうしたの？\n\n# face %(unit_a)s \"sad\"\n@ダモクレス\nあれ？マスター？ \nお顔が赤いよ～\n\n# textflame 0 0\n@\n意識がボーっとする\nどうやらのぼせたようだ\n\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n@ダモクレス\nんー\nマスターはお風呂出て\n少し休んだほうがいいかも\n\n# face %(unit_a)s \"happy\"\n# voice 1035 \"damocles_0004\"\n@ダモクレス\nクレスはもうちょっと入ってくー\n潜りっこおもしろかったから\nまたやろうね！\n\n# textflame 0 0\n@\nダモクレスが\n勢いよく温泉に飛び込んで\n泳いでいく\n\n# textflame 0 0\n@\n今回の温泉を\nダモクレスは楽しんでくれたようだ\n\n# textflame 0 0\n@\nただ、もう少しダモクレスと一緒に\n温泉に浸かりたかった\nマスターはそんな事を考えていた…\n\n;;----------------------------------------\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

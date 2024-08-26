@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 93028498,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# se \"SE_0733\"\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n;;-----------------------------------------\n@ヘレナ\n………\n\n@ヘレナ\n………先輩\n\n# voice 3028 \"herena_a_0027\"\n@ヘレナ\n不正解だ\n\n@ヘレナ\n…なんだ\n\n@ヘレナ\n意外とヘレナのこと、\n全然観察できてないんだな\n\n@ヘレナ\nヘレナは先輩のこと…\n\n# voice 3028 \"herena_a_0015\"\n@ヘレナ\nいつも観察してるのに\n\n# textflame 0 0\n@\nそう言って、\n悲し気な目で俯く彼女\n\n# textflame 1 1\n@ヘレナ\n………\n\n# face %(unit_a)s \"usual\"\n# voice 3028 \"herena_a_0004\"\n@ヘレナ\nなんてね\n泣いたと思ったかい？\nくふっ\n\n# textflame 0 0\n@\nおどけて見せるが、\nその瞳の奥から\n悲しみが消えることはない\n\n@\n日頃からもっと\n彼女を“観察”しよう…\nそう心に刻むマスターだった\n\n;;-----------------------------------------\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

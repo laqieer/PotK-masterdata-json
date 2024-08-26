@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 92004198,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# se \"SE_0733\"\n# voice 2004 \"parashu_0011\"\n@パラシュ\n…不正解\n\n# voice 2004 \"parashu_0008\"\n# eye %(unit_a)s \"close\"\n# face %(unit_a)s \"normal\"\n@パラシュ\nあ、うん…\n別にかまわないんだけど\nちょっと…残念かな\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"usual\"\n@パラシュ\nマスターには、\nもっとボクのことを\n知って欲しいと思うから…\n\n# face %(unit_a)s \"sad\"\n@パラシュ\n…………\n\n# voice 2004 \"parashu_0031\"\n@パラシュ\nそれじゃあ、行こうか…\n\n# textflame 0 0\n@\nデート中だというのに、\nどうやらがっかりさせて\nしまったようだ\n\n@\nパラシュのためにも、\nさらに彼女のことを\n知っておかないとな…\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

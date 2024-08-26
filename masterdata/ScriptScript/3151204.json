@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 3151204,
+		"script": "# script \"lisp\"\n# background \"colosseum_rise\"\n# bgm \"bgm002\" 0\n# body 0\n# pos 0 4\n# body 101411\n# pos 101411 2\n# serif 0\n# textflame 1 1\n# textboxarrow 0 3\n@デュリン\nこの迷宮も長くなったわねー\nここらで「どんっ！！」と\n強敵でも出てこないかしら？？\n\n# face 101411 \"surprised\"\n# serif 1\n# textboxarrow 1 1\n@ティルフィング\nデュリン…そんなこと言ってると\n本当に出てきちゃうかもしれませんよ\n\n# face 0 \"proud\"\n# serif 0\n@デュリン\nいいじゃない！\nいろんなお宝も手に入ったし、\n腕試しでもしたい感じでしょ！\n\n# face 0 \"happy\"\n# serif 0\n@デュリン\nそれに強敵だともっといいお宝が\n手に入るかもしれないわよ〜！\n\n# face 101411 \"sad\"\n# serif 1\n@ティルフィング\nもう、デュリンは戦わないのに…\n\n# bgm \"stop\"\n# se \"SE_0644\"\n# face 101411 \"surprised\"\n\n# bgm \"bgm005\" 1\n# face 101411 \"angry\"\n# serif 1\n@ティルフィング\nっ！？\nなにかが…近くにいます！\nこの気配は…？？\n\n# face 0 \"serious\"\n# serif 0\n@デュリン\nなに、どうしたのよ？\n\n# serif 1\n@ティルフィング\nこの気配は…私…？\nでもイミテーションにしては…\n反応が…強過ぎます\n\n# face 0 \"serious2\"\n# serif 0\n@デュリン\nいつものイミテーションとは\n違うってこと？？\n\n# serif 1\n@ティルフィング\nそうですね…\nそんな可愛いものじゃないのかも\nしれません\n\n# serif 1\n@ティルフィング\nだけど、\n私のキラーズが確実に反応しています\n\n# face 0 \"normal\"\n# serif 0\n@デュリン\nちょ、ちょっと！！\nイミテーションなのに同一じゃない\nってことなの？\n\n# face 0 \"worry\"\n# serif 0\n@デュリン\nあ、ありえないわよ…\nどうなってるのよ、この迷宮…\n\n# serif 1\n@ティルフィング\nもう相手は戦闘態勢に入ってます\n…いきます！！"
+	}
+]

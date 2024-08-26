@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 100205018,
+		"script": "# script \"lisp\"\n# background \"underwild\"\n;;ティル\n# body 101415\n# pos 101415 3\n# scale 101415 0.8 0\n# mask 101415 off\n# alpha 101415 0 0\n;;ベルゼブブ\n# body 960022\n# pos 960022 3\n# scale 960022 0.8 0\n# mask 960022 off\n# textwindow \"nomal\"\n# textwindow \"nomal\"\n# textflame 1 1\n# textboxarrow 0 2\n@ベルゼブブ\nあああああ…\nもう…食べられないなんて…\nイヤアアアアアアアアアア…\n\n# textboxarrow 0 0\n# alpha 960022 0 1\n# brightness 960022 0 1\n# waitandnext 1\n\n# face 101415 \"angry\"\n# alpha 101415 1 0.5\n@ティルフィング\n…処理、完了"
+	}
+]

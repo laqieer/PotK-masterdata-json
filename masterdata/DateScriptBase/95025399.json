@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 95025399,
+		"script": ";;//正解\n# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# face %(unit_a)s \"happy\"\n# voice 5025 \"megumin_0004\"\n# se \"SE_0732\"\n@めぐみん\nさすがですね！\nマスター、正解です\n\n@めぐみん\nきちんと知ってくれているのですね\n意外でした\n\n# face %(unit_a)s \"worry\"\n# voice 5025 \"megumin_0026\"\n@めぐみん\n意外は失礼…？\n確かにそうですね\n\n# face %(unit_a)s \"irregular\"\n# voice 5025 \"megumin_0005\"\n@めぐみん\nでは２問目を\n今から考えることにします\n\n@めぐみん\nなので少し遠回りをします\n…いいですか？\n\n;;モノローグ\n# textflame 0 0\n@\nそういって微笑むめぐみん\nそれを見ていると\nこちらも自然と笑顔になっていく\n\n# textflame 1 1\n@めぐみん\nどうしました？\nニヤニヤして…\n\n;;モノローグ\n# textflame 0 0\n@\nやけに時間の掛かる帰り道を\n楽しみながら二人で歩いた\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

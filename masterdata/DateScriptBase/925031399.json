@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 925031399,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# se \"SE_0732\"\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n@ソロモン\nそのこたえ…\n\n# face %(unit_a)s \"normal\"\n# voice 250312 \"solomon_lo_0005\"\n@ソロモン\nさいてきかい\n\n@ソロモン\nじゃあ、せいかいした\nごほうびにてをつないであげる\n\n# textflame 0 0\n@\nそう言って、マスターの手を握る彼女\n\n# textflame 1 1\n# face %(unit_a)s \"happy\"\n# voice 250312 \"solomon_lo_0006\"\n@ソロモン\nおにいさんのて、あたたかい\n\n@ソロモン\nこのぬくもり…さいてきかいだね\n\n# textflame 0 0\n@\n彼女の手から伝わってくる\n温かさこそ、幸せの最適解だ\n\n@\nそう思って、微笑むマスターだった…\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

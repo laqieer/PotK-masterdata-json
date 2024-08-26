@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 101012,
+		"script": "# script \"lisp\"\n# fadein \"black\" 0.5\n# background %(background)s\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# voice 1010 \"furagaraha_0003\"\n# face %(unit_a)s \"smile\"\n@フラガラッハ\n…ええ\nわたしもそう思います\n\n# textflame 1 1\n@フラガラッハ\n風が…わたし達を\n祝福していますから\n\n# textflame 0 0\n@\n祝福という響きが\nなんだかこそばゆいと\nマスターは思う\n\n# textflame 1 1\n@フラガラッハ\n恥ずかしがることはありません\n美しいわたし…\n穏やかなマスター…\n\n# textflame 1 1\n@フラガラッハ\nこんなに絵になる二人が\n朝の光の中、歩いているのです\n\n# textflame 1 1\n@フラガラッハ\n風がわたし達を\n彩ろうとしてくれるのも\n無理はありませんわ\n\n# textflame 0 0\n@\n難しいことはわからないけれど\nマスターはなんだか世界に\n優しく包まれている気がした\n\n# textflame 1 1\n@フラガラッハ\n…わかりやすく言うならば\n風がはやし立てるほど…\n\n# voice 1010 \"furagaraha_0005\"\n# textflame 1 1\n@フラガラッハ\nわたし達は\nお似合いということですわ！\n\n# textflame 0 0\n@\n胸を張ってそう言い切る\n彼女の笑顔は…\nいつもと違って無邪気だった――\n;;--------------------------------------\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 102621,
+		"script": ";;なにか当たってる…？,大\n;;混浴には必要なのです,小\n;;温泉どころじゃなくなるよ,中\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_onsen\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 0 0\n@\nマスターは\nカラドボルグを誘って\n水着着用の温泉にやってきたのだが…\n\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@カラドボルグ\nどうして水着を\n脱いではいけないの？\n;;----------------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\n@カラドボルグ\nせっかくの温泉なのに…\nこれではいつもと同じじゃない！\n\n# select \"なにか当たってる…？\" \"select_label_01\" \"混浴には必要なのです\" \"select_label_02\" \"温泉どころじゃなくなるよ\" \"select_label_03\"\n@カラドボルグ\nせっかくの温泉なのに…\nこれではいつもと同じじゃない！\n\n# label \"select_label_01\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_02\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_03\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_end\"\n# waitandnext 0.1\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

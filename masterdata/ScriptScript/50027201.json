@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 50027201,
+		"script": ";;【EP1】\n# script \"lisp\"\n# background \"rooftop_evening\"\n# bgm \"bgm003\" 0\n# body 500271\n# alpha 500271 0 0\n# body 126\n# pos 126 3\n# mask 126 off\n# alpha 126 0 0\n# face 126 \"sad\"\n# textflame 0 0\n@\n放課後、日課の見回りの\n最中のことだった\n\n@\n屋上をのぞいてみると…\nフェンスに寄りかかって遠くを見る\nフライクーゲルを見つけた\n\n# alpha 126 1 1\n# voice 5002 \"furaikugeru_0028\"\n# chara 126\n# textflame 1 1\n# textboxarrow 0 2\n@フライクーゲル\n…………\n\n# textflame 0 0\n@\nなんだか様子が変だなと思いつつ\nマスターは声をかけてみる\n\n# textflame 1 1\n@フライクーゲル\n…マスター？\n\n# textflame 0 0\n# face 126 \"normal\"\n@\n一瞬だけ悲しそうな表情を見せ、\nすぐにいつものような\n笑顔を作った\n\n# alpha 500271 0 0.5\n# voice 5002 \"furaikugeru_0023\"\n# textflame 1 1\n@フライクーゲル\nワッツアップ？\n屋上に一人で来るなんて\nサッドなことでもあったの？\n\n# textflame 0 0\n@\n…明らかにいつもより、声が低い\n涙を拭いたような跡もある気がする\n\n# textflame 1 1\n@フライクーゲル\nそんなにわたしの顔を見つめちゃって\nもしかして探してた～？\n\n# face 126 \"shy\"\n# voice 5002 \"furaikugeru_0003\"\n@フライクーゲル\nやっぱりわたし達…\n惹かれあっちゃってるかもぉ～♪\n\n# textflame 0 0\n@\nいつものキレも、ない\nなにかあったの？は、間違いなく\n彼女にかけるべき言葉だった\n\n# face 126 \"sad\"\n# textflame 1 1\n@フライクーゲル\n…………\n\n@フライクーゲル\nあははは…\nなに言ってるのかなマスター\n全然なんにもないよぉ～…\n\n# textflame 0 0\n@\n途端にフライクーゲルの表情が\n暗く沈む\n\n;;//文字小さく\n;;# voice 5002 \"furaikugeru_g_kyara_2025\"\n# textflame 1 1\n# textsize 15\n@フライクーゲル\nこんなわたし…\nマスターには見せたくなかったなぁ…\n\n# textflame 0 0\n# textsize 24\n@\n聞こえるか、\n聞こえないかくらいのボリュームで、\nフライクーゲルはつぶやいた…"
+	}
+]

@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 35033121,
+		"script": ";;スキル効果　EP3：不明 \n;;※EP4：キャラクエなし\n;;【EP1】\n# script \"lisp\"\n# background \"plain\"\n# bgm \"bgm002\" 0\n# body 3503311\n# pos 3503311 3\n# scale 3503311 0.8 0\n# alpha 3503311 1 0\n# mask 3503311 off\n# textflame 0 0\n@\n起きたばかりのマスターは\n通りかかったラムに\nおはようと声をかけようとする\n\n# se \"SE_0671\"\n@\nだが、声よりも\n盛大に鳴るお腹の音の方が\n大きく響く\n\n@\nすると、ラムが熱々の芋を\n渡してくれた\n\n# face 3503311 \"happy\"\n# imageset 1 \"c3503311\"\n# imagealpha 1 0 0\n# imagelayer 1 1\n@\n美味しいと驚くマスターに\nラムは得意げに微笑んだ\n\n;;■一枚絵指定\n;;背景：中庭\n;;表情：優しく微笑んでいるイメージです。\n;;構図：芋を渡しているイメージです。\n;;ボイス：「おいしいでしょ。出来たて、いえ...ふかしたてよ」 ramu_kyara_0025\n# textwindow \"close\"\n# fadein \"white\" 3\n# imagealpha 1 1 0\n# imagepos 1 0 0\n# alpha 3503311 0 0\n# voice 5033 \"ramu_kyara_0025\"\n\n# frameout 0 1\n# waitandnext 0.8\n\n# fadeout \"black\" 2\n# waitandnext 2"
+	}
+]

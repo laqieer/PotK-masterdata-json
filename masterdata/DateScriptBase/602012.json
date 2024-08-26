@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 602012,
+		"script": "# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_hauntedhouse\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n@ネス\n手を…ですか？\n\n# face %(unit_a)s \"normal\"\n@ネス\nそうですね、名案です\nこれならマスターと離れることも\nないでしょう…\n\n# face %(unit_a)s \"smile\"\n@ネス\n…マスターの手、温かいですね\nそれに大きくて\nなんか、すごい安心します\n\n# voice 6020 \"ness_0002\"\n@ネス\n…あの\nなにがあっても\n放さないでくださいね\n\n;;モヤモヤ\n# voice 6020 \"ness_0004\"\n# move %(unit_a)s 3 0\n# textwindow \"moya\"\n@ネス\n…ふふふっ\nここに来てよかった\n\n;;モノローグ\n# textwindow \"normal\"\n# textflame 0 0\n@\n手を繋いでからは\nあまり怖がらなくなったネス\n\n;;モノローグ\n@\nそして\nホラーハウスを出てからも\n手を放そうとしないのだった\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

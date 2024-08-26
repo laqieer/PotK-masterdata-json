@@ -1,0 +1,5182 @@
+[
+	{
+		"ID": 1,
+		"name": "リリース記念ログインボーナス",
+		"is_loop": 1,
+		"draw_type_LoginbonusDrawType": 2,
+		"require_continue_login": 1,
+		"start_at": "2014-10-14 00:00:00",
+		"end_at": "2014-11-30 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 2,
+		"name": "スタートダッシュキャンペーン",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 1,
+		"require_continue_login": 0,
+		"start_at": "2014-10-23 14:59:00",
+		"end_at": "2014-10-31 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 3,
+		"name": "通算ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 1,
+		"require_continue_login": 0,
+		"start_at": "",
+		"end_at": "",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 4,
+		"name": "連続ログインボーナス(ダミー)",
+		"is_loop": 1,
+		"draw_type_LoginbonusDrawType": 2,
+		"require_continue_login": 1,
+		"start_at": "2014-08-25 00:00:00",
+		"end_at": "2014-10-13 00:00:00",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 5,
+		"name": "クローズドβテスト参加特典",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 1,
+		"require_continue_login": 0,
+		"start_at": "2014-10-08 00:00:00",
+		"end_at": "2014-10-21 00:00:00",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 6,
+		"name": "10万ダウンロード突破キャンペーン",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 1,
+		"require_continue_login": 0,
+		"start_at": "2014-10-28 00:00:00",
+		"end_at": "2014-11-09 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 7,
+		"name": "iOS版リリース記念 スタートダッシュキャンペーン",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 1,
+		"require_continue_login": 0,
+		"start_at": "2014-11-27 00:00:00",
+		"end_at": "2014-12-05 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 8,
+		"name": "20万ダウンロード突破キャンペーン",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 1,
+		"require_continue_login": 0,
+		"start_at": "2014-11-14 15:00:00",
+		"end_at": "2014-11-28 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 9,
+		"name": "ログインボーナス（通常）",
+		"is_loop": 1,
+		"draw_type_LoginbonusDrawType": 2,
+		"require_continue_login": 1,
+		"start_at": "2016-04-25 00:00:00",
+		"end_at": "2016-04-29 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 10,
+		"name": "不具合や動作の重いお詫び",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 1,
+		"require_continue_login": 0,
+		"start_at": "2014-11-25 00:00:00",
+		"end_at": "2014-12-03 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 11,
+		"name": "30万ダウンロード突破キャンペーン",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 1,
+		"require_continue_login": 0,
+		"start_at": "2014-11-28 15:00:00",
+		"end_at": "2014-12-12 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 12,
+		"name": "お年玉ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 1,
+		"require_continue_login": 0,
+		"start_at": "2015-01-01 00:00:00",
+		"end_at": "2015-01-03 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 13,
+		"name": "50万ダウンロード突破＆Xmasキャンペーン",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 1,
+		"require_continue_login": 0,
+		"start_at": "2014-12-17 15:00:00",
+		"end_at": "2014-12-26 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 14,
+		"name": "80万ダウンロード突破キャンペーン",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 1,
+		"require_continue_login": 0,
+		"start_at": "2015-02-07 00:00:00",
+		"end_at": "2015-02-13 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 15,
+		"name": "80万ダウンロード突破キャンペーン最終日",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 1,
+		"require_continue_login": 0,
+		"start_at": "2015-02-14 00:00:00",
+		"end_at": "2015-02-14 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 16,
+		"name": "カムバックキャンペーン",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 3,
+		"require_continue_login": 0,
+		"start_at": "2015-12-05 00:00:00",
+		"end_at": "2015-12-31 23:59:59",
+		"draw_reward_num": 1
+	},
+	{
+		"ID": 17,
+		"name": "１００万DL＆CM公開記念キャンペーン",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 1,
+		"require_continue_login": 0,
+		"start_at": "2015-03-17 00:00:00",
+		"end_at": "2015-03-29 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 18,
+		"name": "１００万DL＆CM公開記念キャンペーン最終日",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 1,
+		"require_continue_login": 0,
+		"start_at": "2015-03-30 00:00:00",
+		"end_at": "2015-03-30 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 19,
+		"name": "150万ダウンロード突破キャンペーン",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 1,
+		"require_continue_login": 0,
+		"start_at": "2015-04-10 00:00:00",
+		"end_at": "2015-04-24 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 20,
+		"name": "リリース半年記念",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 1,
+		"require_continue_login": 0,
+		"start_at": "2015-04-24 00:00:00",
+		"end_at": "2015-05-23 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 21,
+		"name": "GW記念ログインボーナス前半",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 1,
+		"require_continue_login": 0,
+		"start_at": "2015-04-25 00:00:00",
+		"end_at": "2015-05-02 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 22,
+		"name": "GW記念ログインボーナス後半",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 1,
+		"require_continue_login": 0,
+		"start_at": "2015-05-03 00:00:00",
+		"end_at": "2015-05-06 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 23,
+		"name": "TV『いらこん』キャンペーン",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 1,
+		"require_continue_login": 0,
+		"start_at": "2015-05-22 01:25:00",
+		"end_at": "2015-06-04 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 24,
+		"name": "キーリリース記念",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 1,
+		"require_continue_login": 0,
+		"start_at": "2015-05-30 00:00:00",
+		"end_at": "2015-06-07 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 25,
+		"name": "カムバックキャンペーン常設",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 3,
+		"require_continue_login": 0,
+		"start_at": "2016-04-06 14:59:59",
+		"end_at": "2037-12-31 23:59:59",
+		"draw_reward_num": 7
+	},
+	{
+		"ID": 26,
+		"name": "毎日姫石ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 1,
+		"require_continue_login": 0,
+		"start_at": "2015-06-04 00:00:00",
+		"end_at": "2015-06-10 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 27,
+		"name": "200万DL突破キャンペーン",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 2,
+		"require_continue_login": 0,
+		"start_at": "2015-06-16 00:00:00",
+		"end_at": "2015-07-05 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 28,
+		"name": "200万DL突破記念プレゼント",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 1,
+		"require_continue_login": 0,
+		"start_at": "2015-06-16 00:00:00",
+		"end_at": "2015-07-05 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 29,
+		"name": "200万DL突破記念プレゼント",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 1,
+		"require_continue_login": 0,
+		"start_at": "2015-06-16 00:00:00",
+		"end_at": "2015-07-05 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 30,
+		"name": "七夕ログインボーナス☆",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 1,
+		"require_continue_login": 0,
+		"start_at": "2015-07-07 00:00:00",
+		"end_at": "2015-07-17 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 31,
+		"name": "夏休み特別ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 1,
+		"require_continue_login": 0,
+		"start_at": "2015-07-18 00:00:00",
+		"end_at": "2015-07-31 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 34,
+		"name": "魔法少女まどか☆マギカコラボキャンペーン第一弾",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 2,
+		"require_continue_login": 0,
+		"start_at": "2015-08-29 00:00:00",
+		"end_at": "2015-09-06 23:59:59",
+		"draw_reward_num": 7
+	},
+	{
+		"ID": 35,
+		"name": "魔法少女まどか☆マギカコラボキャンペーン第二弾",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 2,
+		"require_continue_login": 0,
+		"start_at": "2015-09-07 00:00:00",
+		"end_at": "2015-09-21 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 36,
+		"name": "あの花コラボキャンペーン第一弾",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 2,
+		"require_continue_login": 0,
+		"start_at": "2015-09-22 00:00:00",
+		"end_at": "2015-09-30 23:59:59",
+		"draw_reward_num": 7
+	},
+	{
+		"ID": 37,
+		"name": "あの花コラボキャンペーン第二弾",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 2,
+		"require_continue_login": 0,
+		"start_at": "2015-10-01 00:00:00",
+		"end_at": "2015-10-13 14:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 38,
+		"name": "もうすぐ1周年！カウントダウンログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 2,
+		"require_continue_login": 0,
+		"start_at": "2015-10-14 00:00:00",
+		"end_at": "2015-10-22 14:59:59",
+		"draw_reward_num": 9
+	},
+	{
+		"ID": 39,
+		"name": "もうすぐ1周年！カウントダウンログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 1,
+		"require_continue_login": 0,
+		"start_at": "2015-10-14 00:00:00",
+		"end_at": "2015-10-22 14:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 40,
+		"name": "ファンキル1周年！大感謝ログインボーナス第1弾",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 2,
+		"require_continue_login": 0,
+		"start_at": "2015-10-23 00:00:00",
+		"end_at": "2015-10-31 23:59:59",
+		"draw_reward_num": 9
+	},
+	{
+		"ID": 41,
+		"name": "ファンキル1周年！大感謝ログインボーナス第2弾",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 2,
+		"require_continue_login": 0,
+		"start_at": "2015-11-01 00:00:00",
+		"end_at": "2015-11-10 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 42,
+		"name": "スタートダッシュログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 2,
+		"require_continue_login": 0,
+		"start_at": "2015-11-25 15:00:00",
+		"end_at": "2015-12-02 23:59:59",
+		"draw_reward_num": 7
+	},
+	{
+		"ID": 43,
+		"name": "11月カムバックキャンペーン",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 3,
+		"require_continue_login": 0,
+		"start_at": "2015-11-25 15:00:00",
+		"end_at": "2015-12-02 23:59:59",
+		"draw_reward_num": 7
+	},
+	{
+		"ID": 44,
+		"name": "ベストゲーム受賞記念",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 1,
+		"require_continue_login": 0,
+		"start_at": "2015-12-10 00:00:00",
+		"end_at": "2015-12-31 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 45,
+		"name": "クリスマスプレゼント",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 1,
+		"require_continue_login": 0,
+		"start_at": "2015-12-22 00:00:00",
+		"end_at": "2015-12-25 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 46,
+		"name": "新春ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 2,
+		"require_continue_login": 0,
+		"start_at": "2016-01-01 00:00:00",
+		"end_at": "2016-01-10 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 47,
+		"name": "300万DL記念ログインボーナス第1弾",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 2,
+		"require_continue_login": 0,
+		"start_at": "2016-01-26 00:00:00",
+		"end_at": "2016-02-04 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 48,
+		"name": "300万DL記念ログインボーナス第1弾",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 1,
+		"require_continue_login": 0,
+		"start_at": "2016-01-26 00:00:00",
+		"end_at": "2016-02-04 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 49,
+		"name": "300万DL記念ログインボーナス第1弾",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 1,
+		"require_continue_login": 0,
+		"start_at": "2016-01-26 00:00:00",
+		"end_at": "2016-02-04 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 50,
+		"name": "300万DL記念ログインボーナス第2弾",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 2,
+		"require_continue_login": 0,
+		"start_at": "2016-02-05 00:00:00",
+		"end_at": "2016-02-14 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 51,
+		"name": "300万DL記念ログインボーナス第2弾",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 1,
+		"require_continue_login": 0,
+		"start_at": "2016-02-05 00:00:00",
+		"end_at": "2016-02-14 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 52,
+		"name": "300万DL記念ログインボーナス第2弾",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 1,
+		"require_continue_login": 0,
+		"start_at": "2016-02-05 00:00:00",
+		"end_at": "2016-02-14 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 54,
+		"name": "Fateログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 2,
+		"require_continue_login": 0,
+		"start_at": "2016-03-01 00:00:00",
+		"end_at": "2016-03-10 23:59:59",
+		"draw_reward_num": 7
+	},
+	{
+		"ID": 55,
+		"name": "Fateログインボーナス第2弾",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 2,
+		"require_continue_login": 0,
+		"start_at": "2016-03-11 00:00:00",
+		"end_at": "2016-03-21 23:59:59",
+		"draw_reward_num": 8
+	},
+	{
+		"ID": 56,
+		"name": "３月カムバックログボ",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 3,
+		"require_continue_login": 0,
+		"start_at": "2016-03-24 15:00:00",
+		"end_at": "2016-04-06 14:59:59",
+		"draw_reward_num": 7
+	},
+	{
+		"ID": 57,
+		"name": "通算ログインボーナス（9日目追加①）",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 1,
+		"require_continue_login": 0,
+		"start_at": "",
+		"end_at": "",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 58,
+		"name": "通算ログインボーナス（9日目追加②）",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 1,
+		"require_continue_login": 0,
+		"start_at": "",
+		"end_at": "",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 59,
+		"name": "ログインボーナス（ZERO記念4月）",
+		"is_loop": 1,
+		"draw_type_LoginbonusDrawType": 2,
+		"require_continue_login": 1,
+		"start_at": "2016-04-01 00:00:00",
+		"end_at": "2016-04-10 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 60,
+		"name": "汎用10日間毎日姫石プレゼント",
+		"is_loop": 1,
+		"draw_type_LoginbonusDrawType": 2,
+		"require_continue_login": 1,
+		"start_at": "2016-04-15 00:00:00",
+		"end_at": "2016-04-24 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 61,
+		"name": "GW特別ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 2,
+		"require_continue_login": 0,
+		"start_at": "2016-04-29 00:00:00",
+		"end_at": "2016-05-08 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 62,
+		"name": "5月上旬ログインボーナス（5/9-5/19）",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 2,
+		"require_continue_login": 0,
+		"start_at": "2016-05-09 00:00:00",
+		"end_at": "2016-05-18 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 63,
+		"name": "汎用連続ログインボーナス",
+		"is_loop": 1,
+		"draw_type_LoginbonusDrawType": 2,
+		"require_continue_login": 1,
+		"start_at": "2016-05-19 00:00:00",
+		"end_at": "2016-06-07 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 64,
+		"name": "プロジェクトZEROファイナルログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 1,
+		"require_continue_login": 0,
+		"start_at": "2016-05-25 00:00:00",
+		"end_at": "2016-06-05 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 65,
+		"name": "6月イベント開催記念！毎日ログインボーナス！第1弾",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 2,
+		"require_continue_login": 0,
+		"start_at": "2016-06-08 15:00:00",
+		"end_at": "2016-06-17 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 66,
+		"name": "6月イベント開催記念！毎日ログインボーナス！第2弾",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 2,
+		"require_continue_login": 0,
+		"start_at": "2016-06-18 00:00:00",
+		"end_at": "2016-06-27 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 67,
+		"name": "6月イベント開催記念！毎日ログインボーナス！追加報酬",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 1,
+		"require_continue_login": 0,
+		"start_at": "2016-06-08 15:00:00",
+		"end_at": "2016-06-29 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 68,
+		"name": "ファンキル学園開校記念ログインボーナス第1弾",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 2,
+		"require_continue_login": 0,
+		"start_at": "2016-06-30 00:00:00",
+		"end_at": "2016-07-09 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 69,
+		"name": "ファンキル学園開校記念ログインボーナス第2弾",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 2,
+		"require_continue_login": 0,
+		"start_at": "2016-07-10 00:00:00",
+		"end_at": "2016-07-19 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 70,
+		"name": "ファンキル学園開校記念ログインボーナス第3弾",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 2,
+		"require_continue_login": 0,
+		"start_at": "2016-07-20 00:00:00",
+		"end_at": "2016-07-28 23:59:59",
+		"draw_reward_num": 9
+	},
+	{
+		"ID": 71,
+		"name": "月末月初ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 2,
+		"require_continue_login": 0,
+		"start_at": "2016-07-29 00:00:00",
+		"end_at": "2016-08-05 23:59:59",
+		"draw_reward_num": 8
+	},
+	{
+		"ID": 72,
+		"name": "でんぱ組イベント復刻記念ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 2,
+		"require_continue_login": 0,
+		"start_at": "2016-08-06 00:00:00",
+		"end_at": "2016-08-15 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 73,
+		"name": "でんぱ組イベント復刻記念ログインボーナス第２弾",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 2,
+		"require_continue_login": 0,
+		"start_at": "2016-08-16 00:00:00",
+		"end_at": "2016-08-25 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 74,
+		"name": "ファンキルベース in ニコ生【番外編】放映記念",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 1,
+		"require_continue_login": 0,
+		"start_at": "2016-08-26 00:00:00",
+		"end_at": "2016-08-26 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 75,
+		"name": "まど☆マギコラボカウントダウン",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 2,
+		"require_continue_login": 0,
+		"start_at": "2016-08-27 00:00:00",
+		"end_at": "2016-08-31 23:59:59",
+		"draw_reward_num": 5
+	},
+	{
+		"ID": 76,
+		"name": "まど☆マギコラボ記念",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 2,
+		"require_continue_login": 0,
+		"start_at": "2016-09-01 00:00:00",
+		"end_at": "2016-09-25 14:59:59",
+		"draw_reward_num": 8
+	},
+	{
+		"ID": 77,
+		"name": "祝！テレビＣＭ放映記念ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 2,
+		"require_continue_login": 0,
+		"start_at": "2016-09-09 00:00:00",
+		"end_at": "2016-09-15 23:59:59",
+		"draw_reward_num": 7
+	},
+	{
+		"ID": 78,
+		"name": "ファンキル学園　今月の出席ボーナス！",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 2,
+		"require_continue_login": 0,
+		"start_at": "2016-09-16 00:00:00",
+		"end_at": "2016-09-22 23:59:59",
+		"draw_reward_num": 7
+	},
+	{
+		"ID": 79,
+		"name": "でんぱ組.inc コラボイベント復刻記念ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 2,
+		"require_continue_login": 0,
+		"start_at": "2016-09-23 00:00:00",
+		"end_at": "2016-09-27 23:59:59",
+		"draw_reward_num": 5
+	},
+	{
+		"ID": 80,
+		"name": "ファンキル月初め！特別ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 2,
+		"require_continue_login": 0,
+		"start_at": "2016-09-28 00:00:00",
+		"end_at": "2016-10-07 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 81,
+		"name": "もうすぐ…ファンキルのお誕生日ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 2,
+		"require_continue_login": 0,
+		"start_at": "2016-10-08 00:00:00",
+		"end_at": "2016-10-14 23:59:59",
+		"draw_reward_num": 7
+	},
+	{
+		"ID": 82,
+		"name": "ファンキル学園　今月の出席ボーナス！",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 2,
+		"require_continue_login": 0,
+		"start_at": "2016-10-15 00:00:00",
+		"end_at": "2016-10-22 23:59:59",
+		"draw_reward_num": 8
+	},
+	{
+		"ID": 83,
+		"name": "ありがとう！おかげさまで２周年ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 4,
+		"require_continue_login": 0,
+		"start_at": "2016-10-23 00:00:00",
+		"end_at": "2016-11-30 23:59:59",
+		"draw_reward_num": 9
+	},
+	{
+		"ID": 84,
+		"name": "ファンキル月初め！特別ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 2,
+		"require_continue_login": 0,
+		"start_at": "2016-10-29 00:00:00",
+		"end_at": "2016-11-07 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 85,
+		"name": "まだまだサービス ²！２周年記念",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 4,
+		"require_continue_login": 0,
+		"start_at": "2016-11-08 00:00:00",
+		"end_at": "2016-11-15 23:59:59",
+		"draw_reward_num": 8
+	},
+	{
+		"ID": 86,
+		"name": "カムバックキャンペーン常設２",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 3,
+		"require_continue_login": 0,
+		"start_at": "2016-11-15 00:00:00",
+		"end_at": "2016-11-24 23:59:59",
+		"draw_reward_num": 7
+	},
+	{
+		"ID": 87,
+		"name": "ファンキル学園　今月の出席ボーナス！",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 2,
+		"require_continue_login": 0,
+		"start_at": "2016-11-16 00:00:00",
+		"end_at": "2016-11-25 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 88,
+		"name": "２周年記念でんぱ組.inc 新コラボイベントログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 5,
+		"require_continue_login": 0,
+		"start_at": "2016-11-26 00:00:00",
+		"end_at": "2016-12-03 23:59:59",
+		"draw_reward_num": 8
+	},
+	{
+		"ID": 89,
+		"name": "ファンキル月初め！特別ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 2,
+		"require_continue_login": 0,
+		"start_at": "2016-11-29 00:00:00",
+		"end_at": "2016-12-06 23:59:59",
+		"draw_reward_num": 8
+	},
+	{
+		"ID": 90,
+		"name": "ファンキルから歳暮のご挨拶！ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 2,
+		"require_continue_login": 0,
+		"start_at": "2016-12-07 00:00:00",
+		"end_at": "2016-12-16 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 91,
+		"name": "ファンキル学園 今月の出席ボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 9,
+		"require_continue_login": 0,
+		"start_at": "2016-12-17 00:00:00",
+		"end_at": "2016-12-22 23:59:59",
+		"draw_reward_num": 6
+	},
+	{
+		"ID": 92,
+		"name": "Happy してるメリークリスマス！ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 6,
+		"require_continue_login": 0,
+		"start_at": "2016-12-23 00:00:00",
+		"end_at": "2016-12-28 23:59:59",
+		"draw_reward_num": 6
+	},
+	{
+		"ID": 93,
+		"name": "迎春！ことよろお年玉ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 8,
+		"require_continue_login": 0,
+		"start_at": "2016-12-29 00:00:00",
+		"end_at": "2017-01-07 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 94,
+		"name": "迎春！ことよろお年玉ログインボーナス第２弾",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 8,
+		"require_continue_login": 0,
+		"start_at": "2017-01-08 00:00:00",
+		"end_at": "2017-01-16 23:59:59",
+		"draw_reward_num": 9
+	},
+	{
+		"ID": 95,
+		"name": "３タイトルコラボ予告ログインボーナス第１弾",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 2,
+		"require_continue_login": 0,
+		"start_at": "2017-01-17 00:00:00",
+		"end_at": "2017-01-22 23:59:59",
+		"draw_reward_num": 6
+	},
+	{
+		"ID": 96,
+		"name": "３タイトルコラボログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 2,
+		"require_continue_login": 0,
+		"start_at": "2017-01-23 00:00:00",
+		"end_at": "2017-01-28 23:59:59",
+		"draw_reward_num": 6
+	},
+	{
+		"ID": 97,
+		"name": "ファンキル月初め！特別ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 4,
+		"require_continue_login": 0,
+		"start_at": "2017-01-29 00:00:00",
+		"end_at": "2017-02-07 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 98,
+		"name": "チョコっと豪華な、バレンタインログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 2,
+		"require_continue_login": 0,
+		"start_at": "2017-02-08 00:00:00",
+		"end_at": "2017-02-14 23:59:59",
+		"draw_reward_num": 7
+	},
+	{
+		"ID": 99,
+		"name": "Fate [UBW] コラボ記念ログインボーナス第１弾",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 6,
+		"require_continue_login": 0,
+		"start_at": "2017-02-13 00:00:00",
+		"end_at": "2017-02-20 23:59:59",
+		"draw_reward_num": 8
+	},
+	{
+		"ID": 100,
+		"name": "Fate [UBW] コラボ記念ログインボーナス第２弾",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 6,
+		"require_continue_login": 0,
+		"start_at": "2017-02-21 00:00:00",
+		"end_at": "2017-02-28 23:59:59",
+		"draw_reward_num": 8
+	},
+	{
+		"ID": 101,
+		"name": "感謝の３年目！２月の特別ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 2,
+		"require_continue_login": 0,
+		"start_at": "2017-02-15 00:00:00",
+		"end_at": "2017-02-20 23:59:59",
+		"draw_reward_num": 6
+	},
+	{
+		"ID": 102,
+		"name": "感謝の３年目！２月の特別ログインボーナス第２弾",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 2,
+		"require_continue_login": 0,
+		"start_at": "2017-02-21 00:00:00",
+		"end_at": "2017-02-26 23:59:59",
+		"draw_reward_num": 5
+	},
+	{
+		"ID": 103,
+		"name": "ファンキル月初め！特別ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 4,
+		"require_continue_login": 0,
+		"start_at": "2017-02-26 00:00:00",
+		"end_at": "2017-03-07 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 104,
+		"name": "「このすば」コラボ記念ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 5,
+		"require_continue_login": 0,
+		"start_at": "2017-03-01 00:00:00",
+		"end_at": "2017-03-10 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 105,
+		"name": "「このすば」コラボ記念ログインボーナス第２弾",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 5,
+		"require_continue_login": 0,
+		"start_at": "2017-03-11 00:00:00",
+		"end_at": "2017-03-21 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 106,
+		"name": "「このすば」コラボ記念ログインボーナス第３弾",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 5,
+		"require_continue_login": 0,
+		"start_at": "2017-03-21 00:00:00",
+		"end_at": "2017-03-30 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 107,
+		"name": "ファンキル月初め！特別ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 4,
+		"require_continue_login": 0,
+		"start_at": "2017-03-29 00:00:00",
+		"end_at": "2017-04-07 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 108,
+		"name": "祝！400 万ダウンロード突破記念ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 6,
+		"require_continue_login": 0,
+		"start_at": "2017-04-01 00:00:00",
+		"end_at": "2017-04-10 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 109,
+		"name": "祝！400 万ダウンロード突破記念ログインボーナス第２弾",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 6,
+		"require_continue_login": 0,
+		"start_at": "2017-04-11 00:00:00",
+		"end_at": "2017-04-21 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 110,
+		"name": "陽春うららか！４月のログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 2,
+		"require_continue_login": 0,
+		"start_at": "2017-04-21 00:00:00",
+		"end_at": "2017-04-27 23:59:59",
+		"draw_reward_num": 7
+	},
+	{
+		"ID": 111,
+		"name": "連休もファンキル！５月のゴールデンログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 5,
+		"require_continue_login": 0,
+		"start_at": "2017-04-28 00:00:00",
+		"end_at": "2017-05-07 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 112,
+		"name": "若葉萌ゆる。５月のログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 2,
+		"require_continue_login": 0,
+		"start_at": "2017-05-08 00:00:00",
+		"end_at": "2017-05-14 23:59:59",
+		"draw_reward_num": 7
+	},
+	{
+		"ID": 113,
+		"name": "若葉萌ゆる。５月のログインボーナス第２弾",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 2,
+		"require_continue_login": 0,
+		"start_at": "2017-05-15 00:00:00",
+		"end_at": "2017-05-21 23:59:59",
+		"draw_reward_num": 7
+	},
+	{
+		"ID": 114,
+		"name": "若葉萌ゆる。５月のログインボーナス第３弾",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 2,
+		"require_continue_login": 0,
+		"start_at": "2017-05-22 00:00:00",
+		"end_at": "2017-05-28 23:59:59",
+		"draw_reward_num": 7
+	},
+	{
+		"ID": 115,
+		"name": "あの花コラボ記念ログインボーナス第１弾",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 6,
+		"require_continue_login": 0,
+		"start_at": "2017-05-03 00:00:00",
+		"end_at": "2017-05-12 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 116,
+		"name": "あの花コラボ記念ログインボーナス第２弾",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 6,
+		"require_continue_login": 0,
+		"start_at": "2017-05-13 00:00:00",
+		"end_at": "2017-05-22 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 117,
+		"name": "ファンキル月初め！特別ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 4,
+		"require_continue_login": 0,
+		"start_at": "2017-05-29 00:00:00",
+		"end_at": "2017-06-07 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 118,
+		"name": "コラボ記念ログインボーナス第１弾",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 2,
+		"require_continue_login": 0,
+		"start_at": "2017-06-16 00:00:00",
+		"end_at": "2017-06-23 23:59:59",
+		"draw_reward_num": 8
+	},
+	{
+		"ID": 119,
+		"name": "コラボ記念ログインボーナス第２弾",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 2,
+		"require_continue_login": 0,
+		"start_at": "2017-06-24 00:00:00",
+		"end_at": "2017-06-30 23:59:59",
+		"draw_reward_num": 7
+	},
+	{
+		"ID": 120,
+		"name": "海上編記念ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 2,
+		"require_continue_login": 0,
+		"start_at": "2017-06-28 00:00:00",
+		"end_at": "2017-07-07 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 121,
+		"name": "海上編 CM 放映記念特別ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 6,
+		"require_continue_login": 0,
+		"start_at": "2017-07-29 00:00:00",
+		"end_at": "2017-08-31 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 122,
+		"name": "海上編記念ログインボーナス第２弾",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 2,
+		"require_continue_login": 0,
+		"start_at": "2017-08-29 00:00:00",
+		"end_at": "2017-09-30 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 123,
+		"name": "ファンキル月初め！特別ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 4,
+		"require_continue_login": 0,
+		"start_at": "2017-09-28 00:00:00",
+		"end_at": "2017-10-07 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 124,
+		"name": "ファンキル月初め！特別ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 4,
+		"require_continue_login": 0,
+		"start_at": "2017-10-29 00:00:00",
+		"end_at": "2017-11-07 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 125,
+		"name": "450 万ダウンロード記念ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 6,
+		"require_continue_login": 0,
+		"start_at": "2017-11-28 00:00:00",
+		"end_at": "2017-12-07 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 126,
+		"name": "海上編ガチャチケットプレゼント！",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 1,
+		"require_continue_login": 0,
+		"start_at": "2017-07-15 00:00:00",
+		"end_at": "2017-10-31 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 127,
+		"name": "ファンラブツアー記念ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 2,
+		"require_continue_login": 0,
+		"start_at": "2017-09-08 00:00:00",
+		"end_at": "2017-09-11 23:59:59",
+		"draw_reward_num": 4
+	},
+	{
+		"ID": 128,
+		"name": "もうすぐ…ファンキルのお誕生日ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 2,
+		"require_continue_login": 0,
+		"start_at": "2017-10-08 00:00:00",
+		"end_at": "2017-10-14 23:59:59",
+		"draw_reward_num": 7
+	},
+	{
+		"ID": 129,
+		"name": "いよいよ３周年！カウントダウンログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 7,
+		"require_continue_login": 0,
+		"start_at": "2017-10-15 00:00:00",
+		"end_at": "2017-10-22 23:59:59",
+		"draw_reward_num": 8
+	},
+	{
+		"ID": 130,
+		"name": "ありがとう！おかげさまで３周年ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 6,
+		"require_continue_login": 0,
+		"start_at": "2017-10-23 00:00:00",
+		"end_at": "2017-10-31 23:59:59",
+		"draw_reward_num": 9
+	},
+	{
+		"ID": 131,
+		"name": "３周年カムバックキャンペーン",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 10,
+		"require_continue_login": 0,
+		"start_at": "2017-10-23 00:00:00",
+		"end_at": "2017-11-09 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 132,
+		"name": "３周年おめでとう！シノビコラボログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 2,
+		"require_continue_login": 0,
+		"start_at": "2017-11-08 00:00:00",
+		"end_at": "2017-11-17 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 133,
+		"name": "Happy してるメリークリスマス！ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 6,
+		"require_continue_login": 0,
+		"start_at": "2017-12-21 00:00:00",
+		"end_at": "2017-12-25 23:59:59",
+		"draw_reward_num": 5
+	},
+	{
+		"ID": 134,
+		"name": "迎春！ことよろお年玉ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 8,
+		"require_continue_login": 0,
+		"start_at": "2017-12-29 00:00:00",
+		"end_at": "2018-01-07 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 135,
+		"name": "チュートリアル突破報酬",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 10,
+		"require_continue_login": 0,
+		"start_at": "2018-01-11 12:00:00",
+		"end_at": "2030-12-31 23:59:59",
+		"draw_reward_num": 1
+	},
+	{
+		"ID": 136,
+		"name": "スタートダッシュログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 9,
+		"require_continue_login": 0,
+		"start_at": "2018-01-12 15:00:00",
+		"end_at": "2030-12-31 23:59:59",
+		"draw_reward_num": 7
+	},
+	{
+		"ID": 137,
+		"name": "新章開始記念ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 2,
+		"require_continue_login": 0,
+		"start_at": "2018-01-13 00:00:00",
+		"end_at": "2018-01-22 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 138,
+		"name": "カードキャプターさくらコラボ記念ログインボーナス第１弾",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 7,
+		"require_continue_login": 0,
+		"start_at": "2018-02-01 00:00:00",
+		"end_at": "2018-02-10 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 139,
+		"name": "カードキャプターさくらコラボ記念ログインボーナス第２弾",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 7,
+		"require_continue_login": 0,
+		"start_at": "2018-02-11 00:00:00",
+		"end_at": "2018-02-28 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 140,
+		"name": "ファンキル月初め！特別ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 4,
+		"require_continue_login": 0,
+		"start_at": "2018-02-26 00:00:00",
+		"end_at": "2018-03-07 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 141,
+		"name": "ファンキル月初め！特別ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 4,
+		"require_continue_login": 0,
+		"start_at": "2018-03-29 00:00:00",
+		"end_at": "2018-04-07 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 144,
+		"name": "ファンキル月初め！特別ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 4,
+		"require_continue_login": 0,
+		"start_at": "2018-06-28 00:00:00",
+		"end_at": "2018-07-07 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 145,
+		"name": "ファンキル月初め！特別ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 4,
+		"require_continue_login": 0,
+		"start_at": "2018-07-30 00:00:00",
+		"end_at": "2018-08-01 23:59:59",
+		"draw_reward_num": 3
+	},
+	{
+		"ID": 146,
+		"name": "ファンキル月初め！特別ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 4,
+		"require_continue_login": 0,
+		"start_at": "2018-08-29 00:00:00",
+		"end_at": "2018-09-07 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 147,
+		"name": "ファンキル月初め！特別ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 4,
+		"require_continue_login": 0,
+		"start_at": "2018-09-28 00:00:00",
+		"end_at": "2018-10-07 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 148,
+		"name": "ファンキル月初め！特別ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 4,
+		"require_continue_login": 0,
+		"start_at": "2018-10-29 00:00:00",
+		"end_at": "2018-11-07 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 149,
+		"name": "ファンキル月初め！特別ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 4,
+		"require_continue_login": 0,
+		"start_at": "2018-11-28 00:00:00",
+		"end_at": "2018-12-07 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 150,
+		"name": "迎春！ことよろお年玉ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 8,
+		"require_continue_login": 0,
+		"start_at": "2018-12-29 00:00:00",
+		"end_at": "2019-01-07 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 151,
+		"name": "ロストラグナロク編2章公開記念ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 2,
+		"require_continue_login": 0,
+		"start_at": "2018-03-09 00:00:00",
+		"end_at": "2018-03-18 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 152,
+		"name": "500 万ダウンロード目前！ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 2,
+		"require_continue_login": 0,
+		"start_at": "2018-04-02 00:00:00",
+		"end_at": "2018-04-11 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 153,
+		"name": "500 万ダウンロード目前！ログインボーナス第２弾",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 11,
+		"require_continue_login": 0,
+		"start_at": "2018-04-12 00:00:00",
+		"end_at": "2018-04-21 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 154,
+		"name": "500 万ダウンロードカウントダウンログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 11,
+		"require_continue_login": 0,
+		"start_at": "2018-04-22 00:00:00",
+		"end_at": "2018-04-26 23:59:59",
+		"draw_reward_num": 5
+	},
+	{
+		"ID": 155,
+		"name": "500 万ダウンロード記念！ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 7,
+		"require_continue_login": 0,
+		"start_at": "2018-04-27 00:00:00",
+		"end_at": "2018-05-06 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 156,
+		"name": "クリユニコラボ記念ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 11,
+		"require_continue_login": 0,
+		"start_at": "2018-05-15 00:00:00",
+		"end_at": "2018-05-24 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 157,
+		"name": "クリユニコラボ記念ログインボーナス第２弾",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 11,
+		"require_continue_login": 0,
+		"start_at": "2018-05-25 00:00:00",
+		"end_at": "2018-06-03 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 158,
+		"name": "カムバックキャンペーン常設",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 3,
+		"require_continue_login": 0,
+		"start_at": "2018-07-01 00:00:00",
+		"end_at": "2018-07-07 23:59:59",
+		"draw_reward_num": 7
+	},
+	{
+		"ID": 159,
+		"name": "「このすば」コラボ記念ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 11,
+		"require_continue_login": 0,
+		"start_at": "2018-07-14 00:00:00",
+		"end_at": "2018-07-23 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 160,
+		"name": "「このすば」コラボ記念ログインボーナス第２弾",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 11,
+		"require_continue_login": 0,
+		"start_at": "2018-07-24 00:00:00",
+		"end_at": "2018-08-02 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 161,
+		"name": "「このすば」コラボ記念ログインボーナス第３弾",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 11,
+		"require_continue_login": 0,
+		"start_at": "2018-08-03 00:00:00",
+		"end_at": "2018-08-12 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 162,
+		"name": "もうすぐ…ファンキルのお誕生日ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 2,
+		"require_continue_login": 0,
+		"start_at": "2018-10-08 00:00:00",
+		"end_at": "2018-10-14 23:59:59",
+		"draw_reward_num": 7
+	},
+	{
+		"ID": 163,
+		"name": "いよいよ４周年！カウントダウンログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 11,
+		"require_continue_login": 0,
+		"start_at": "2018-10-15 00:00:00",
+		"end_at": "2018-10-22 23:59:59",
+		"draw_reward_num": 8
+	},
+	{
+		"ID": 164,
+		"name": "ありがとう！おかげさまで４周年ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 6,
+		"require_continue_login": 0,
+		"start_at": "2018-10-23 00:00:00",
+		"end_at": "2018-11-08 23:59:59",
+		"draw_reward_num": 9
+	},
+	{
+		"ID": 165,
+		"name": "Re:ゼロコラボ記念ログインボーナス第１弾",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 5,
+		"require_continue_login": 0,
+		"start_at": "2018-11-09 00:00:00",
+		"end_at": "2018-11-18 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 166,
+		"name": "Re:ゼロコラボ記念ログインボーナス第２弾",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 11,
+		"require_continue_login": 0,
+		"start_at": "2018-11-19 00:00:00",
+		"end_at": "2018-11-28 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 167,
+		"name": "Re:ゼロコラボ記念ログインボーナス第３弾",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 12,
+		"require_continue_login": 0,
+		"start_at": "2018-11-29 00:00:00",
+		"end_at": "2018-12-08 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 168,
+		"name": "Re:ゼロコラボ記念ログインボーナス第４弾",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 5,
+		"require_continue_login": 0,
+		"start_at": "2018-12-09 00:00:00",
+		"end_at": "2018-12-17 23:59:59",
+		"draw_reward_num": 9
+	},
+	{
+		"ID": 169,
+		"name": "Happy してるメリークリスマス！ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 7,
+		"require_continue_login": 0,
+		"start_at": "2018-12-21 00:00:00",
+		"end_at": "2018-12-25 23:59:59",
+		"draw_reward_num": 5
+	},
+	{
+		"ID": 170,
+		"name": "ファンキル月初め！特別ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 4,
+		"require_continue_login": 0,
+		"start_at": "2019-01-29 00:00:00",
+		"end_at": "2019-02-07 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 171,
+		"name": "ファンキル月初め！特別ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 4,
+		"require_continue_login": 0,
+		"start_at": "2019-02-26 00:00:00",
+		"end_at": "2019-03-07 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 172,
+		"name": "ファンキル月初め！特別ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 4,
+		"require_continue_login": 0,
+		"start_at": "2019-03-29 00:00:00",
+		"end_at": "2019-04-07 23:59:58.995000",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 173,
+		"name": "ありがとう平成！ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 5,
+		"require_continue_login": 0,
+		"start_at": "2019-04-27 00:00:00",
+		"end_at": "2019-04-30 23:59:59",
+		"draw_reward_num": 4
+	},
+	{
+		"ID": 174,
+		"name": "ファンキル月初め！特別ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 4,
+		"require_continue_login": 0,
+		"start_at": "2019-05-29 00:00:00",
+		"end_at": "2019-06-07 23:59:58.995000",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 175,
+		"name": "ファンキル月初め！特別ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 4,
+		"require_continue_login": 0,
+		"start_at": "2019-06-28 00:00:00",
+		"end_at": "2019-07-07 23:59:58.995000",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 176,
+		"name": "ファンキル月初め！特別ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 4,
+		"require_continue_login": 0,
+		"start_at": "2019-07-30 00:00:00",
+		"end_at": "2019-08-08 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 177,
+		"name": "ファンキル月初め！特別ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 4,
+		"require_continue_login": 0,
+		"start_at": "2019-08-29 00:00:00",
+		"end_at": "2019-09-07 23:59:58.995000",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 178,
+		"name": "ファンキル月初め！特別ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 4,
+		"require_continue_login": 0,
+		"start_at": "2019-09-28 00:00:00",
+		"end_at": "2019-10-07 23:59:58.995000",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 179,
+		"name": "ファンキル月初め！特別ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 4,
+		"require_continue_login": 0,
+		"start_at": "2018-10-29 00:00:00",
+		"end_at": "2018-11-07 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 180,
+		"name": "ファンキル月初め！特別ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 4,
+		"require_continue_login": 0,
+		"start_at": "2019-11-28 00:00:00",
+		"end_at": "2019-12-07 23:59:58.995000",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 181,
+		"name": "迎春！ことよろお年玉ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 8,
+		"require_continue_login": 0,
+		"start_at": "2019-12-29 00:00:00",
+		"end_at": "2020-01-07 23:59:58.995000",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 182,
+		"name": "カードキャプターさくらコラボ記念ログインボーナス第１弾",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 5,
+		"require_continue_login": 0,
+		"start_at": "2019-03-12 00:00:00",
+		"end_at": "2019-03-17 23:59:59",
+		"draw_reward_num": 6
+	},
+	{
+		"ID": 183,
+		"name": "カードキャプターさくらコラボ記念ログインボーナス第２弾",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 5,
+		"require_continue_login": 0,
+		"start_at": "2019-03-18 00:00:00",
+		"end_at": "2019-03-24 23:59:59",
+		"draw_reward_num": 7
+	},
+	{
+		"ID": 184,
+		"name": "カードキャプターさくらコラボ記念ログインボーナス第３弾",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 5,
+		"require_continue_login": 0,
+		"start_at": "2019-03-25 00:00:00",
+		"end_at": "2019-03-31 23:59:59",
+		"draw_reward_num": 7
+	},
+	{
+		"ID": 185,
+		"name": "クラスチェンジカウントダウンキャンペーン第１弾バーテックスキーログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 2,
+		"require_continue_login": 0,
+		"start_at": "2019-04-13 00:00:00",
+		"end_at": "2019-04-19 23:59:59",
+		"draw_reward_num": 7
+	},
+	{
+		"ID": 186,
+		"name": "令和記念ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 6,
+		"require_continue_login": 0,
+		"start_at": "2019-05-01 00:00:00",
+		"end_at": "2019-05-06 23:59:59",
+		"draw_reward_num": 6
+	},
+	{
+		"ID": 187,
+		"name": "Re:ゼロコラボ記念ログインボーナス第１弾",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 11,
+		"require_continue_login": 0,
+		"start_at": "2019-05-01 00:00:00",
+		"end_at": "2019-05-10 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 188,
+		"name": "Re:ゼロコラボ記念ログインボーナス第２弾",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 11,
+		"require_continue_login": 0,
+		"start_at": "2019-05-11 00:00:00",
+		"end_at": "2019-05-20 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 189,
+		"name": "Re:ゼロコラボ記念ログインボーナス第３弾",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 12,
+		"require_continue_login": 0,
+		"start_at": "2019-05-21 00:00:00",
+		"end_at": "2019-05-30 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 190,
+		"name": "Re:ゼロコラボ記念ログインボーナス第４弾",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 13,
+		"require_continue_login": 0,
+		"start_at": "2019-05-31 00:00:00",
+		"end_at": "2019-06-08 23:59:59",
+		"draw_reward_num": 9
+	},
+	{
+		"ID": 191,
+		"name": "2019 年令和記念カムバックログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 1,
+		"require_continue_login": 0,
+		"start_at": "2019-04-27 00:00:00",
+		"end_at": "2019-05-31 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 192,
+		"name": "Re:ゼロコラボ記念ログインボーナス第５弾",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 13,
+		"require_continue_login": 0,
+		"start_at": "2019-06-09 00:00:00",
+		"end_at": "2019-06-17 23:59:59",
+		"draw_reward_num": 9
+	},
+	{
+		"ID": 193,
+		"name": "海上編記念ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 2,
+		"require_continue_login": 0,
+		"start_at": "2019-07-01 00:00:00",
+		"end_at": "2019-07-10 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 194,
+		"name": "海上編記念ログインボーナス２",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 2,
+		"require_continue_login": 0,
+		"start_at": "2019-07-11 00:00:00",
+		"end_at": "2019-07-20 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 195,
+		"name": "海上編記念ログインボーナス３",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 2,
+		"require_continue_login": 0,
+		"start_at": "2019-07-21 00:00:00",
+		"end_at": "2019-07-30 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 196,
+		"name": "God4Love フェスティバルログインボーナス１",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 1,
+		"require_continue_login": 0,
+		"start_at": "2019-08-01 00:00:00",
+		"end_at": "2019-08-15 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 197,
+		"name": "God4Love フェスティバルログインボーナス１",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 1,
+		"require_continue_login": 0,
+		"start_at": "2019-08-01 00:00:00",
+		"end_at": "2019-08-15 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 198,
+		"name": "God4Love フェスティバルログインボーナス１",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 2,
+		"require_continue_login": 0,
+		"start_at": "2019-08-01 00:00:00",
+		"end_at": "2019-08-10 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 199,
+		"name": "God4Love フェスティバルログインボーナス２",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 2,
+		"require_continue_login": 0,
+		"start_at": "2019-08-11 00:00:00",
+		"end_at": "2019-08-15 23:59:59",
+		"draw_reward_num": 5
+	},
+	{
+		"ID": 200,
+		"name": "「このすば」コラボ記念ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 13,
+		"require_continue_login": 0,
+		"start_at": "2019-08-16 00:00:00",
+		"end_at": "2019-08-25 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 201,
+		"name": "「このすば」コラボ記念ログインボーナス第２弾",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 13,
+		"require_continue_login": 0,
+		"start_at": "2019-08-26 00:00:00",
+		"end_at": "2019-09-04 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 202,
+		"name": "「このすば」コラボ記念ログインボーナス第３弾",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 13,
+		"require_continue_login": 0,
+		"start_at": "2019-09-05 00:00:00",
+		"end_at": "2019-09-13 23:59:59",
+		"draw_reward_num": 9
+	},
+	{
+		"ID": 203,
+		"name": "ファンキルサマーフェスタ 2019 \"永遠 Summer…\" キャンペーン",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 1,
+		"require_continue_login": 0,
+		"start_at": "2019-09-01 00:00:00",
+		"end_at": "2019-09-13 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 204,
+		"name": "ファンキルサマーフェスタ 2019 \"永遠 Summer…\" キャンペーン",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 1,
+		"require_continue_login": 0,
+		"start_at": "2019-09-01 00:00:00",
+		"end_at": "2019-09-13 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 205,
+		"name": "もうすぐ…ファンキルのお誕生日ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 2,
+		"require_continue_login": 0,
+		"start_at": "2019-10-08 00:00:00",
+		"end_at": "2019-10-14 23:59:59",
+		"draw_reward_num": 7
+	},
+	{
+		"ID": 206,
+		"name": "いよいよ５周年！カウントダウンログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 11,
+		"require_continue_login": 0,
+		"start_at": "2019-10-15 00:00:00",
+		"end_at": "2019-10-22 23:59:59",
+		"draw_reward_num": 8
+	},
+	{
+		"ID": 207,
+		"name": "ありがとう！おかげさまで５周年ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 12,
+		"require_continue_login": 0,
+		"start_at": "2019-10-23 00:00:00",
+		"end_at": "2019-10-31 23:59:59",
+		"draw_reward_num": 9
+	},
+	{
+		"ID": 1002,
+		"name": "月間ログインボーナス",
+		"is_loop": 1,
+		"draw_type_LoginbonusDrawType": 14,
+		"require_continue_login": 0,
+		"start_at": "2017-06-01 00:00:00",
+		"end_at": "2020-01-31 23:59:59",
+		"draw_reward_num": 28
+	},
+	{
+		"ID": 1003,
+		"name": "４周年記念カムバックログインボーナス１",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 1,
+		"require_continue_login": 0,
+		"start_at": "2018-10-23 00:00:00",
+		"end_at": "2018-11-30 23:59:59",
+		"draw_reward_num": 28
+	},
+	{
+		"ID": 1004,
+		"name": "４周年記念カムバックログインボーナス２",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 1,
+		"require_continue_login": 0,
+		"start_at": "2018-10-23 00:00:00",
+		"end_at": "2018-11-30 23:59:59",
+		"draw_reward_num": 28
+	},
+	{
+		"ID": 1005,
+		"name": "４周年記念カムバックログインボーナス３",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 1,
+		"require_continue_login": 0,
+		"start_at": "2018-10-23 00:00:00",
+		"end_at": "2018-11-30 23:59:59",
+		"draw_reward_num": 28
+	},
+	{
+		"ID": 1006,
+		"name": "５周年記念カムバックログインボーナス１",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 1,
+		"require_continue_login": 0,
+		"start_at": "2018-10-23 00:00:00",
+		"end_at": "2018-11-30 23:59:59",
+		"draw_reward_num": 28
+	},
+	{
+		"ID": 1007,
+		"name": "５周年記念カムバックログインボーナス２",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 1,
+		"require_continue_login": 0,
+		"start_at": "2018-10-23 00:00:00",
+		"end_at": "2018-11-30 23:59:59",
+		"draw_reward_num": 28
+	},
+	{
+		"ID": 1008,
+		"name": "５周年記念カムバックログインボーナス３",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 1,
+		"require_continue_login": 0,
+		"start_at": "2018-10-23 00:00:00",
+		"end_at": "2018-11-30 23:59:59",
+		"draw_reward_num": 28
+	},
+	{
+		"ID": 1009,
+		"name": "５周年記念カムバックログインボーナス４",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 1,
+		"require_continue_login": 0,
+		"start_at": "2018-10-23 00:00:00",
+		"end_at": "2018-11-30 23:59:59",
+		"draw_reward_num": 28
+	},
+	{
+		"ID": 208,
+		"name": "魔法少女まどか☆マギカコラボログインボーナス１",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 13,
+		"require_continue_login": 0,
+		"start_at": "2019-11-01 00:00:00",
+		"end_at": "2019-11-10 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 209,
+		"name": "魔法少女まどか☆マギカコラボログインボーナス２",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 13,
+		"require_continue_login": 0,
+		"start_at": "2019-11-11 00:00:00",
+		"end_at": "2019-11-20 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 210,
+		"name": "魔法少女まどか☆マギカコラボログインボーナス３",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 13,
+		"require_continue_login": 0,
+		"start_at": "2019-11-21 00:00:00",
+		"end_at": "2019-11-30 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 211,
+		"name": "Happy してるメリークリスマス！ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 7,
+		"require_continue_login": 0,
+		"start_at": "2019-12-21 00:00:00",
+		"end_at": "2019-12-25 23:59:59",
+		"draw_reward_num": 5
+	},
+	{
+		"ID": 212,
+		"name": "あの花コラボ記念ログインボーナス第１弾",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 13,
+		"require_continue_login": 0,
+		"start_at": "2020-01-17 00:00:00",
+		"end_at": "2020-01-25 23:59:59",
+		"draw_reward_num": 9
+	},
+	{
+		"ID": 213,
+		"name": "あの花コラボ記念ログインボーナス第２弾",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 13,
+		"require_continue_login": 0,
+		"start_at": "2020-01-26 00:00:00",
+		"end_at": "2020-02-03 23:59:59",
+		"draw_reward_num": 9
+	},
+	{
+		"ID": 214,
+		"name": "あの花コラボ記念ログインボーナス第３弾",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 13,
+		"require_continue_login": 0,
+		"start_at": "2020-02-04 00:00:00",
+		"end_at": "2020-02-13 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 1201,
+		"name": "月間ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 15,
+		"require_continue_login": 0,
+		"start_at": "2020-02-01 00:00:00",
+		"end_at": "2020-02-29 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 215,
+		"name": "ファンキル月初め！特別ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 4,
+		"require_continue_login": 0,
+		"start_at": "2020-02-27 00:00:00",
+		"end_at": "2020-02-29 23:59:59",
+		"draw_reward_num": 3
+	},
+	{
+		"ID": 1202,
+		"name": "月間ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 15,
+		"require_continue_login": 0,
+		"start_at": "2020-03-01 00:00:00",
+		"end_at": "2020-03-31 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 216,
+		"name": "ダンまちⅡコラボ記念ログインボーナス第１弾",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 13,
+		"require_continue_login": 0,
+		"start_at": "2020-03-01 00:00:00",
+		"end_at": "2020-03-10 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 217,
+		"name": "ダンまちⅡコラボ記念ログインボーナス第２弾",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 13,
+		"require_continue_login": 0,
+		"start_at": "2020-03-11 00:00:00",
+		"end_at": "2020-03-20 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 218,
+		"name": "ダンまちⅡコラボ記念ログインボーナス第３弾",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 13,
+		"require_continue_login": 0,
+		"start_at": "2020-03-21 00:00:00",
+		"end_at": "2020-03-25 23:59:59",
+		"draw_reward_num": 5
+	},
+	{
+		"ID": 219,
+		"name": "ファンキル月初め！特別ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 4,
+		"require_continue_login": 0,
+		"start_at": "2020-03-29 00:00:00",
+		"end_at": "2020-03-31 23:59:59",
+		"draw_reward_num": 3
+	},
+	{
+		"ID": 220,
+		"name": "ファンキル月初め！特別ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 4,
+		"require_continue_login": 0,
+		"start_at": "2020-04-28 00:00:00",
+		"end_at": "2020-04-30 23:59:59",
+		"draw_reward_num": 3
+	},
+	{
+		"ID": 221,
+		"name": "ファンキル月初め！特別ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 4,
+		"require_continue_login": 0,
+		"start_at": "2020-05-29 00:00:00",
+		"end_at": "2020-05-31 23:59:58.995000",
+		"draw_reward_num": 3
+	},
+	{
+		"ID": 222,
+		"name": "ファンキル月初め！特別ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 4,
+		"require_continue_login": 0,
+		"start_at": "2020-06-28 00:00:00",
+		"end_at": "2020-06-30 23:59:58.995000",
+		"draw_reward_num": 3
+	},
+	{
+		"ID": 223,
+		"name": "ファンキル月初め！特別ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 4,
+		"require_continue_login": 0,
+		"start_at": "2020-07-29 00:00:00",
+		"end_at": "2020-07-31 23:59:58.995000",
+		"draw_reward_num": 3
+	},
+	{
+		"ID": 224,
+		"name": "ファンキル月初め！特別ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 4,
+		"require_continue_login": 0,
+		"start_at": "2020-08-29 00:00:00",
+		"end_at": "2020-08-31 23:59:58.995000",
+		"draw_reward_num": 3
+	},
+	{
+		"ID": 225,
+		"name": "ファンキル月初め！特別ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 4,
+		"require_continue_login": 0,
+		"start_at": "2020-09-28 00:00:00",
+		"end_at": "2020-09-30 23:59:58.995000",
+		"draw_reward_num": 3
+	},
+	{
+		"ID": 226,
+		"name": "ファンキル月初め！特別ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 4,
+		"require_continue_login": 0,
+		"start_at": "2020-10-29 00:00:00",
+		"end_at": "2020-10-31 23:59:58.995000",
+		"draw_reward_num": 3
+	},
+	{
+		"ID": 227,
+		"name": "ファンキル月初め！特別ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 4,
+		"require_continue_login": 0,
+		"start_at": "2020-11-28 00:00:00",
+		"end_at": "2020-11-30 23:59:58.995000",
+		"draw_reward_num": 3
+	},
+	{
+		"ID": 229,
+		"name": "ファンキル月初め！特別ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 4,
+		"require_continue_login": 0,
+		"start_at": "2021-01-29 00:00:00",
+		"end_at": "2021-01-31 23:59:58.995000",
+		"draw_reward_num": 3
+	},
+	{
+		"ID": 1203,
+		"name": "月間ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 15,
+		"require_continue_login": 0,
+		"start_at": "2020-04-01 00:00:00",
+		"end_at": "2020-04-30 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 1204,
+		"name": "月間ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 15,
+		"require_continue_login": 0,
+		"start_at": "2020-05-01 00:00:00",
+		"end_at": "2020-05-31 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 1205,
+		"name": "月間ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 15,
+		"require_continue_login": 0,
+		"start_at": "2020-06-01 00:00:00",
+		"end_at": "2020-06-30 23:59:58.995000",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 1206,
+		"name": "月間ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 15,
+		"require_continue_login": 0,
+		"start_at": "2020-07-01 00:00:00",
+		"end_at": "2020-07-31 23:59:58.995000",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 1207,
+		"name": "月間ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 15,
+		"require_continue_login": 0,
+		"start_at": "2020-08-01 00:00:00",
+		"end_at": "2020-08-31 23:59:58.995000",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 1208,
+		"name": "月間ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 15,
+		"require_continue_login": 0,
+		"start_at": "2020-09-01 00:00:00",
+		"end_at": "2020-09-30 23:59:58.995000",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 1209,
+		"name": "月間ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 15,
+		"require_continue_login": 0,
+		"start_at": "2020-10-01 00:00:00",
+		"end_at": "2020-10-31 23:59:58.995000",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 1210,
+		"name": "月間ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 15,
+		"require_continue_login": 0,
+		"start_at": "2020-11-01 00:00:00",
+		"end_at": "2020-11-30 23:59:58.995000",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 230,
+		"name": "リリース2000日記念ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 2,
+		"require_continue_login": 0,
+		"start_at": "2020-04-14 00:00:00",
+		"end_at": "2020-04-24 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 231,
+		"name": "連休もファンキル！５月のゴールデンログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 5,
+		"require_continue_login": 0,
+		"start_at": "2020-04-29 00:00:00",
+		"end_at": "2020-05-07 23:59:59",
+		"draw_reward_num": 8
+	},
+	{
+		"ID": 232,
+		"name": "カードキャプターさくらコラボ記念ログインボーナス第１弾",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 11,
+		"require_continue_login": 0,
+		"start_at": "2020-05-01 00:00:00",
+		"end_at": "2020-05-10 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 233,
+		"name": "カードキャプターさくらコラボ記念ログインボーナス第２弾",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 11,
+		"require_continue_login": 0,
+		"start_at": "2020-05-11 00:00:00",
+		"end_at": "2020-05-20 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 234,
+		"name": "カードキャプターさくらコラボ記念ログインボーナス第３弾",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 11,
+		"require_continue_login": 0,
+		"start_at": "2020-05-21 00:00:00",
+		"end_at": "2020-05-30 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 235,
+		"name": "555 万ダウンロード記念ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 2,
+		"require_continue_login": 0,
+		"start_at": "2020-06-24 00:00:00",
+		"end_at": "2020-07-03 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 236,
+		"name": "夏のボーナスプレゼント",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 1,
+		"require_continue_login": 0,
+		"start_at": "2020-07-23 00:00:00",
+		"end_at": "2020-07-31 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 237,
+		"name": "夏のボーナスプレゼント",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 1,
+		"require_continue_login": 0,
+		"start_at": "2020-07-23 00:00:00",
+		"end_at": "2020-07-31 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 238,
+		"name": "魔法少女まどか☆マギカコラボログインボーナス１",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 13,
+		"require_continue_login": 0,
+		"start_at": "2020-09-01 00:00:00",
+		"end_at": "2020-09-10 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 239,
+		"name": "魔法少女まどか☆マギカコラボログインボーナス２",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 13,
+		"require_continue_login": 0,
+		"start_at": "2020-09-11 00:00:00",
+		"end_at": "2020-09-20 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 240,
+		"name": "魔法少女まどか☆マギカコラボログインボーナス３",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 13,
+		"require_continue_login": 0,
+		"start_at": "2020-09-21 00:00:00",
+		"end_at": "2020-09-30 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 241,
+		"name": "もうすぐ…ファンキルのお誕生日ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 2,
+		"require_continue_login": 0,
+		"start_at": "2020-10-08 00:00:00",
+		"end_at": "2020-10-14 23:59:59",
+		"draw_reward_num": 7
+	},
+	{
+		"ID": 242,
+		"name": "いよいよ６周年！カウントダウンログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 11,
+		"require_continue_login": 0,
+		"start_at": "2020-10-15 00:00:00",
+		"end_at": "2020-10-22 23:59:59",
+		"draw_reward_num": 8
+	},
+	{
+		"ID": 243,
+		"name": "ありがとう！おかげさまで６周年ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 12,
+		"require_continue_login": 0,
+		"start_at": "2020-10-23 00:00:00",
+		"end_at": "2020-10-31 23:59:59",
+		"draw_reward_num": 9
+	},
+	{
+		"ID": 244,
+		"name": "「このすば」コラボ記念ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 6,
+		"require_continue_login": 0,
+		"start_at": "2020-10-01 00:00:00",
+		"end_at": "2020-10-08 23:59:59",
+		"draw_reward_num": 8
+	},
+	{
+		"ID": 245,
+		"name": "「このすば」コラボ記念ログインボーナス第２弾",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 6,
+		"require_continue_login": 0,
+		"start_at": "2020-10-09 00:00:00",
+		"end_at": "2020-10-15 23:59:59",
+		"draw_reward_num": 7
+	},
+	{
+		"ID": 246,
+		"name": "「このすば」コラボ記念ログインボーナス第３弾",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 6,
+		"require_continue_login": 0,
+		"start_at": "2020-10-16 00:00:00",
+		"end_at": "2020-10-22 09:59:59",
+		"draw_reward_num": 7
+	},
+	{
+		"ID": 247,
+		"name": "「〈物語〉シリーズ」コラボ記念ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 11,
+		"require_continue_login": 0,
+		"start_at": "2020-11-01 00:00:00",
+		"end_at": "2020-11-09 23:59:59",
+		"draw_reward_num": 9
+	},
+	{
+		"ID": 248,
+		"name": "「〈物語〉シリーズ」コラボ記念ログインボーナス第２弾",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 11,
+		"require_continue_login": 0,
+		"start_at": "2020-11-10 00:00:00",
+		"end_at": "2020-11-18 23:59:59",
+		"draw_reward_num": 9
+	},
+	{
+		"ID": 249,
+		"name": "「〈物語〉シリーズ」コラボ記念ログインボーナス第３弾",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 11,
+		"require_continue_login": 0,
+		"start_at": "2020-11-19 00:00:00",
+		"end_at": "2020-11-27 23:59:59",
+		"draw_reward_num": 9
+	},
+	{
+		"ID": 250,
+		"name": "「〈物語〉シリーズ」コラボ記念ログインボーナス第４弾",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 11,
+		"require_continue_login": 0,
+		"start_at": "2020-11-28 00:00:00",
+		"end_at": "2020-12-06 23:59:59",
+		"draw_reward_num": 9
+	},
+	{
+		"ID": 251,
+		"name": "「〈物語〉シリーズ」コラボ記念ログインボーナス第５弾",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 11,
+		"require_continue_login": 0,
+		"start_at": "2020-12-07 00:00:00",
+		"end_at": "2020-12-15 23:59:59",
+		"draw_reward_num": 9
+	},
+	{
+		"ID": 1211,
+		"name": "月間ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 15,
+		"require_continue_login": 0,
+		"start_at": "2020-12-01 00:00:00",
+		"end_at": "2020-12-31 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 1212,
+		"name": "月間ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 15,
+		"require_continue_login": 0,
+		"start_at": "2021-01-01 00:00:00",
+		"end_at": "2021-01-31 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 1213,
+		"name": "月間ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 15,
+		"require_continue_login": 0,
+		"start_at": "2021-02-01 00:00:00",
+		"end_at": "2021-02-28 23:59:58.995000",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 1214,
+		"name": "月間ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 15,
+		"require_continue_login": 0,
+		"start_at": "2021-03-01 00:00:00",
+		"end_at": "2021-03-31 23:59:58.995000",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 1215,
+		"name": "月間ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 15,
+		"require_continue_login": 0,
+		"start_at": "2021-04-01 00:00:00",
+		"end_at": "2021-04-30 23:59:58.995000",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 1216,
+		"name": "月間ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 15,
+		"require_continue_login": 0,
+		"start_at": "2021-05-01 00:00:00",
+		"end_at": "2021-05-31 23:59:58.995000",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 1217,
+		"name": "月間ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 15,
+		"require_continue_login": 0,
+		"start_at": "2021-06-01 00:00:00",
+		"end_at": "2021-06-30 23:59:58.995000",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 1218,
+		"name": "月間ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 15,
+		"require_continue_login": 0,
+		"start_at": "2021-07-01 00:00:00",
+		"end_at": "2021-07-31 23:59:58.995000",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 1219,
+		"name": "月間ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 15,
+		"require_continue_login": 0,
+		"start_at": "2021-08-01 00:00:00",
+		"end_at": "2021-08-31 23:59:58.995000",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 1220,
+		"name": "月間ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 15,
+		"require_continue_login": 0,
+		"start_at": "2021-09-01 00:00:00",
+		"end_at": "2021-09-30 23:59:58.995000",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 1221,
+		"name": "月間ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 15,
+		"require_continue_login": 0,
+		"start_at": "2021-10-01 00:00:00",
+		"end_at": "2021-10-31 23:59:58.995000",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 1222,
+		"name": "月間ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 15,
+		"require_continue_login": 0,
+		"start_at": "2021-11-01 00:00:00",
+		"end_at": "2021-11-30 23:59:58.995000",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 1223,
+		"name": "月間ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 15,
+		"require_continue_login": 0,
+		"start_at": "2021-12-01 00:00:00",
+		"end_at": "2021-12-31 23:59:58.995000",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 252,
+		"name": "ファンキル月初め！特別ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 4,
+		"require_continue_login": 0,
+		"start_at": "1999-02-26 00:00:00",
+		"end_at": "1999-02-28 23:59:59",
+		"draw_reward_num": 3
+	},
+	{
+		"ID": 253,
+		"name": "ファンキル月初め！特別ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 4,
+		"require_continue_login": 0,
+		"start_at": "2021-03-29 00:00:00",
+		"end_at": "2021-03-31 23:59:59",
+		"draw_reward_num": 3
+	},
+	{
+		"ID": 254,
+		"name": "ファンキル月初め！特別ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 4,
+		"require_continue_login": 0,
+		"start_at": "2021-04-28 00:00:00",
+		"end_at": "2021-04-30 23:59:59",
+		"draw_reward_num": 3
+	},
+	{
+		"ID": 255,
+		"name": "ファンキル月初め！特別ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 4,
+		"require_continue_login": 0,
+		"start_at": "2021-05-29 00:00:00",
+		"end_at": "2021-05-31 23:59:58.995000",
+		"draw_reward_num": 3
+	},
+	{
+		"ID": 256,
+		"name": "ファンキル月初め！特別ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 4,
+		"require_continue_login": 0,
+		"start_at": "2021-06-29 00:00:00",
+		"end_at": "2021-07-01 23:59:59",
+		"draw_reward_num": 3
+	},
+	{
+		"ID": 257,
+		"name": "ファンキル月初め！特別ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 4,
+		"require_continue_login": 0,
+		"start_at": "2021-07-29 00:00:00",
+		"end_at": "2021-07-31 23:59:58.995000",
+		"draw_reward_num": 3
+	},
+	{
+		"ID": 258,
+		"name": "ファンキル月初め！特別ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 4,
+		"require_continue_login": 0,
+		"start_at": "2021-08-29 00:00:00",
+		"end_at": "2021-08-31 23:59:58.995000",
+		"draw_reward_num": 3
+	},
+	{
+		"ID": 259,
+		"name": "ファンキル月初め！特別ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 4,
+		"require_continue_login": 0,
+		"start_at": "2021-09-28 00:00:00",
+		"end_at": "2021-09-30 23:59:58.995000",
+		"draw_reward_num": 3
+	},
+	{
+		"ID": 260,
+		"name": "ファンキル月初め！特別ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 4,
+		"require_continue_login": 0,
+		"start_at": "2021-10-29 00:00:00",
+		"end_at": "2021-10-31 23:59:58.995000",
+		"draw_reward_num": 3
+	},
+	{
+		"ID": 261,
+		"name": "ファンキル月初め！特別ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 4,
+		"require_continue_login": 0,
+		"start_at": "2021-11-28 00:00:00",
+		"end_at": "2021-11-30 23:59:58.995000",
+		"draw_reward_num": 3
+	},
+	{
+		"ID": 262,
+		"name": "ファンキル月初め！特別ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 4,
+		"require_continue_login": 0,
+		"start_at": "2000-12-29 00:00:00",
+		"end_at": "2000-12-31 23:59:59",
+		"draw_reward_num": 3
+	},
+	{
+		"ID": 263,
+		"name": "Happy してるメリークリスマス！ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 7,
+		"require_continue_login": 0,
+		"start_at": "2020-12-21 00:00:00",
+		"end_at": "2020-12-25 23:59:59",
+		"draw_reward_num": 5
+	},
+	{
+		"ID": 264,
+		"name": "迎春！ことよろお年玉ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 8,
+		"require_continue_login": 0,
+		"start_at": "2020-12-29 00:00:00",
+		"end_at": "2021-01-07 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 265,
+		"name": "冬の大ボーナスカムバックキャンペーン",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 3,
+		"require_continue_login": 0,
+		"start_at": "2020-12-19 00:00:00",
+		"end_at": "2020-12-25 23:59:59",
+		"draw_reward_num": 7
+	},
+	{
+		"ID": 266,
+		"name": "聖夜の特別プレゼント！",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 1,
+		"require_continue_login": 0,
+		"start_at": "2020-12-24 00:00:00",
+		"end_at": "2020-12-25 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 267,
+		"name": "STAY HOME KEY QUEST",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 1,
+		"require_continue_login": 0,
+		"start_at": "2021-01-29 00:00:00",
+		"end_at": "2021-02-03 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 268,
+		"name": "PSYCHO-PASS サイコパス２コラボ記念ログインボーナス第１弾",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 2,
+		"require_continue_login": 0,
+		"start_at": "2021-02-11 00:00:00",
+		"end_at": "2021-02-19 23:59:59",
+		"draw_reward_num": 9
+	},
+	{
+		"ID": 269,
+		"name": "PSYCHO-PASS サイコパス２コラボ記念ログインボーナス第２弾",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 2,
+		"require_continue_login": 0,
+		"start_at": "2021-02-20 00:00:00",
+		"end_at": "2021-02-28 23:59:59",
+		"draw_reward_num": 9
+	},
+	{
+		"ID": 270,
+		"name": "カムバック",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 3,
+		"require_continue_login": 0,
+		"start_at": "2021-02-20 00:00:00",
+		"end_at": "2021-02-23 23:59:59",
+		"draw_reward_num": 7
+	},
+	{
+		"ID": 271,
+		"name": "PSYCHO-PASS サイコパス２コラボ記念ログインボーナス第３弾",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 2,
+		"require_continue_login": 0,
+		"start_at": "2021-03-01 00:00:00",
+		"end_at": "2021-03-09 23:59:59",
+		"draw_reward_num": 9
+	},
+	{
+		"ID": 272,
+		"name": "カードキャプターさくらコラボ記念ログインボーナス第１弾",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 11,
+		"require_continue_login": 0,
+		"start_at": "2021-03-27 00:00:00",
+		"end_at": "2021-04-05 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 273,
+		"name": "カードキャプターさくらコラボ記念ログインボーナス第２弾",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 11,
+		"require_continue_login": 0,
+		"start_at": "2021-04-06 00:00:00",
+		"end_at": "2021-04-12 23:59:59",
+		"draw_reward_num": 7
+	},
+	{
+		"ID": 274,
+		"name": "6.5周年カウントダウン記念ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 8,
+		"require_continue_login": 0,
+		"start_at": "2021-04-13 00:00:00",
+		"end_at": "2021-04-22 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 275,
+		"name": "ありがとう！おかげさまで 6.5 周年ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 11,
+		"require_continue_login": 0,
+		"start_at": "2021-04-23 00:00:00",
+		"end_at": "2021-04-30 23:59:59",
+		"draw_reward_num": 8
+	},
+	{
+		"ID": 276,
+		"name": "戦姫絶唱シンフォギアXD UNLIMITED コラボ記念ログインボーナス第１弾",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 8,
+		"require_continue_login": 0,
+		"start_at": "2021-05-01 00:00:00",
+		"end_at": "2021-05-10 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 277,
+		"name": "戦姫絶唱シンフォギアXD UNLIMITED コラボ記念ログインボーナス第２弾",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 8,
+		"require_continue_login": 0,
+		"start_at": "2021-05-11 00:00:00",
+		"end_at": "2021-05-20 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 278,
+		"name": "ファンラブ2021開幕記念！カムバックキャンペーン",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 1,
+		"require_continue_login": 0,
+		"start_at": "2021-07-01 00:00:00",
+		"end_at": "2021-07-07 23:59:59",
+		"draw_reward_num": 5
+	},
+	{
+		"ID": 279,
+		"name": "ファンキルを止めるな！",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 1,
+		"require_continue_login": 0,
+		"start_at": "2021-06-26 00:00:00",
+		"end_at": "2021-06-26 23:59:59",
+		"draw_reward_num": 1
+	},
+	{
+		"ID": 280,
+		"name": "ファンキルを止めるな！",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 1,
+		"require_continue_login": 0,
+		"start_at": "2021-06-27 00:00:00",
+		"end_at": "2021-06-27 23:59:59",
+		"draw_reward_num": 1
+	},
+	{
+		"ID": 281,
+		"name": "ファンキルを止めるな！",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 1,
+		"require_continue_login": 0,
+		"start_at": "2021-06-28 00:00:00",
+		"end_at": "2021-06-28 23:59:59",
+		"draw_reward_num": 1
+	},
+	{
+		"ID": 282,
+		"name": "ファンキルを止めるな！",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 1,
+		"require_continue_login": 0,
+		"start_at": "2021-07-25 00:00:00",
+		"end_at": "2021-07-28 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 283,
+		"name": "Thanks！2500DAYS　ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 2,
+		"require_continue_login": 0,
+		"start_at": "2021-08-23 00:00:00",
+		"end_at": "2021-08-28 23:59:59",
+		"draw_reward_num": 5
+	},
+	{
+		"ID": 284,
+		"name": "Thanks！2500DAYS　カムバックキャンペーン",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 1,
+		"require_continue_login": 0,
+		"start_at": "2021-08-23 00:00:00",
+		"end_at": "2021-08-31 23:59:59",
+		"draw_reward_num": 5
+	},
+	{
+		"ID": 285,
+		"name": "Thanks！2500DAYS　ようこそ新人マスター！キル姫50体プレゼント",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 1,
+		"require_continue_login": 0,
+		"start_at": "2021-08-23 00:00:00",
+		"end_at": "2021-08-31 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 286,
+		"name": "ファンキルを止めるな！",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 1,
+		"require_continue_login": 0,
+		"start_at": "2021-09-25 00:00:00",
+		"end_at": "2021-09-25 23:59:59",
+		"draw_reward_num": 1
+	},
+	{
+		"ID": 287,
+		"name": "ファンキルを止めるな！",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 1,
+		"require_continue_login": 0,
+		"start_at": "2021-09-26 00:00:00",
+		"end_at": "2021-09-26 23:59:59",
+		"draw_reward_num": 1
+	},
+	{
+		"ID": 288,
+		"name": "ファンキルを止めるな！",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 1,
+		"require_continue_login": 0,
+		"start_at": "2021-09-27 00:00:00",
+		"end_at": "2021-09-27 23:59:59",
+		"draw_reward_num": 1
+	},
+	{
+		"ID": 289,
+		"name": "7周年直前祭７日間１億ゼニープレゼントログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 11,
+		"require_continue_login": 0,
+		"start_at": "2021-10-16 00:00:00",
+		"end_at": "2021-10-22 23:59:59",
+		"draw_reward_num": 7
+	},
+	{
+		"ID": 290,
+		"name": "ありがとう！おかげさまで7周年ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 12,
+		"require_continue_login": 0,
+		"start_at": "2021-10-23 00:00:00",
+		"end_at": "2021-10-31 23:59:59",
+		"draw_reward_num": 9
+	},
+	{
+		"ID": 291,
+		"name": "ファンキルを止めるな！",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 1,
+		"require_continue_login": 0,
+		"start_at": "2021-10-30 00:00:00",
+		"end_at": "2021-10-31 23:59:59",
+		"draw_reward_num": 2
+	},
+	{
+		"ID": 292,
+		"name": "ありがとう！おかげさまで7周年ログインボーナス第２弾",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 12,
+		"require_continue_login": 0,
+		"start_at": "2021-11-01 00:00:00",
+		"end_at": "2021-11-07 23:59:59",
+		"draw_reward_num": 7
+	},
+	{
+		"ID": 293,
+		"name": "ブラックフライデー",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 1,
+		"require_continue_login": 0,
+		"start_at": "2021-11-26 00:00:00",
+		"end_at": "2021-11-28 23:59:59",
+		"draw_reward_num": 1
+	},
+	{
+		"ID": 294,
+		"name": "Weekly Special Winter Fes. キャンペーン",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 5,
+		"require_continue_login": 0,
+		"start_at": "2021-12-11 00:00:00",
+		"end_at": "2021-12-11 23:59:59",
+		"draw_reward_num": 1
+	},
+	{
+		"ID": 295,
+		"name": "Weekly Special Winter Fes. キャンペーン",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 5,
+		"require_continue_login": 0,
+		"start_at": "2021-12-12 00:00:00",
+		"end_at": "2021-12-12 23:59:58.995000",
+		"draw_reward_num": 1
+	},
+	{
+		"ID": 296,
+		"name": "Weekly Special Winter Fes. キャンペーン",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 5,
+		"require_continue_login": 0,
+		"start_at": "2021-12-13 00:00:00",
+		"end_at": "2021-12-13 23:59:58.995000",
+		"draw_reward_num": 1
+	},
+	{
+		"ID": 297,
+		"name": "Weekly Special Winter Fes. キャンペーン",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 5,
+		"require_continue_login": 0,
+		"start_at": "2021-12-14 00:00:00",
+		"end_at": "2021-12-14 23:59:58.995000",
+		"draw_reward_num": 1
+	},
+	{
+		"ID": 298,
+		"name": "Weekly Special Winter Fes. キャンペーン",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 5,
+		"require_continue_login": 0,
+		"start_at": "2021-12-15 00:00:00",
+		"end_at": "2021-12-15 23:59:58.995000",
+		"draw_reward_num": 1
+	},
+	{
+		"ID": 299,
+		"name": "Weekly Special Winter Fes. キャンペーン",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 5,
+		"require_continue_login": 0,
+		"start_at": "2021-12-16 00:00:00",
+		"end_at": "2021-12-16 23:59:58.995000",
+		"draw_reward_num": 1
+	},
+	{
+		"ID": 300,
+		"name": "Weekly Special Winter Fes. キャンペーン",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 5,
+		"require_continue_login": 0,
+		"start_at": "2021-12-17 00:00:00",
+		"end_at": "2021-12-17 23:59:58.995000",
+		"draw_reward_num": 1
+	},
+	{
+		"ID": 301,
+		"name": "クリスマスカウントダウン！レアメダルゲットキャンペーン",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 1,
+		"require_continue_login": 0,
+		"start_at": "2021-12-18 00:00:00",
+		"end_at": "2021-12-24 23:59:59",
+		"draw_reward_num": 1
+	},
+	{
+		"ID": 302,
+		"name": "炎熱のメリークリスマスログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 7,
+		"require_continue_login": 0,
+		"start_at": "2021-12-24 00:00:00",
+		"end_at": "2021-12-24 23:59:59",
+		"draw_reward_num": 1
+	},
+	{
+		"ID": 303,
+		"name": "炎熱のメリークリスマスログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 7,
+		"require_continue_login": 0,
+		"start_at": "2021-12-25 00:00:00",
+		"end_at": "2021-12-25 23:59:58.995000",
+		"draw_reward_num": 1
+	},
+	{
+		"ID": 1010,
+		"name": "超極カムバックボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 1,
+		"require_continue_login": 0,
+		"start_at": "2021-12-25 00:00:00",
+		"end_at": "2022-01-16 23:59:59",
+		"draw_reward_num": 1
+	},
+	{
+		"ID": 1011,
+		"name": "超極カムバックボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 1,
+		"require_continue_login": 0,
+		"start_at": "2021-12-25 00:00:00",
+		"end_at": "2022-01-16 23:59:59",
+		"draw_reward_num": 1
+	},
+	{
+		"ID": 1012,
+		"name": "超極カムバックボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 1,
+		"require_continue_login": 0,
+		"start_at": "2021-12-25 00:00:00",
+		"end_at": "2022-01-16 23:59:59",
+		"draw_reward_num": 1
+	},
+	{
+		"ID": 1013,
+		"name": "超極カムバックボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 1,
+		"require_continue_login": 0,
+		"start_at": "2021-12-25 00:00:00",
+		"end_at": "2022-01-16 23:59:59",
+		"draw_reward_num": 1
+	},
+	{
+		"ID": 1014,
+		"name": "超極カムバックボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 1,
+		"require_continue_login": 0,
+		"start_at": "2021-12-25 00:00:00",
+		"end_at": "2022-01-16 23:59:59",
+		"draw_reward_num": 1
+	},
+	{
+		"ID": 1015,
+		"name": "超極カムバックボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 1,
+		"require_continue_login": 0,
+		"start_at": "2021-12-25 00:00:00",
+		"end_at": "2022-01-16 23:59:59",
+		"draw_reward_num": 1
+	},
+	{
+		"ID": 1016,
+		"name": "超極カムバックボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 1,
+		"require_continue_login": 0,
+		"start_at": "2021-12-25 00:00:00",
+		"end_at": "2022-01-16 23:59:59",
+		"draw_reward_num": 1
+	},
+	{
+		"ID": 1017,
+		"name": "超極カムバックボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 1,
+		"require_continue_login": 0,
+		"start_at": "2021-12-25 00:00:00",
+		"end_at": "2022-01-16 23:59:59",
+		"draw_reward_num": 1
+	},
+	{
+		"ID": 1018,
+		"name": "超極カムバックボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 1,
+		"require_continue_login": 0,
+		"start_at": "2021-12-25 00:00:00",
+		"end_at": "2022-01-16 23:59:59",
+		"draw_reward_num": 1
+	},
+	{
+		"ID": 1019,
+		"name": "超極カムバックボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 1,
+		"require_continue_login": 0,
+		"start_at": "2021-12-25 00:00:00",
+		"end_at": "2022-01-16 23:59:59",
+		"draw_reward_num": 1
+	},
+	{
+		"ID": 1020,
+		"name": "超極カムバックボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 1,
+		"require_continue_login": 0,
+		"start_at": "2021-12-25 00:00:00",
+		"end_at": "2022-01-16 23:59:59",
+		"draw_reward_num": 1
+	},
+	{
+		"ID": 1021,
+		"name": "超極カムバックボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 1,
+		"require_continue_login": 0,
+		"start_at": "2021-12-25 00:00:00",
+		"end_at": "2022-01-16 23:59:59",
+		"draw_reward_num": 1
+	},
+	{
+		"ID": 1224,
+		"name": "月間ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 15,
+		"require_continue_login": 0,
+		"start_at": "2022-01-01 00:00:00",
+		"end_at": "2022-01-31 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 304,
+		"name": "ファンキルを止めるな！",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 1,
+		"require_continue_login": 0,
+		"start_at": "2022-01-29 00:00:00",
+		"end_at": "2022-01-29 23:59:59",
+		"draw_reward_num": 1
+	},
+	{
+		"ID": 305,
+		"name": "ファンキルを止めるな！",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 1,
+		"require_continue_login": 0,
+		"start_at": "2022-01-30 00:00:00",
+		"end_at": "2022-01-30 23:59:59",
+		"draw_reward_num": 1
+	},
+	{
+		"ID": 306,
+		"name": "ファンキルを止めるな！",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 1,
+		"require_continue_login": 0,
+		"start_at": "2022-01-31 00:00:00",
+		"end_at": "2022-01-31 23:59:59",
+		"draw_reward_num": 1
+	},
+	{
+		"ID": 1225,
+		"name": "月間ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 15,
+		"require_continue_login": 0,
+		"start_at": "2022-02-01 00:00:00",
+		"end_at": "2022-02-28 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 307,
+		"name": "バレンタインログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 8,
+		"require_continue_login": 0,
+		"start_at": "2022-02-14 00:00:00",
+		"end_at": "2022-02-14 23:59:59",
+		"draw_reward_num": 1
+	},
+	{
+		"ID": 308,
+		"name": "600万ダウンロード Memorial DAYカウントダウン　ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 7,
+		"require_continue_login": 0,
+		"start_at": "2022-02-19 00:00:00",
+		"end_at": "2022-02-19 23:59:59",
+		"draw_reward_num": 1
+	},
+	{
+		"ID": 309,
+		"name": "600万ダウンロード Memorial DAYカウントダウン　ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 7,
+		"require_continue_login": 0,
+		"start_at": "2022-02-20 00:00:00",
+		"end_at": "2022-02-20 23:59:58.995000",
+		"draw_reward_num": 1
+	},
+	{
+		"ID": 310,
+		"name": "600万ダウンロード Memorial DAYカウントダウン　ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 7,
+		"require_continue_login": 0,
+		"start_at": "2022-02-21 00:00:00",
+		"end_at": "2022-02-21 23:59:58.995000",
+		"draw_reward_num": 1
+	},
+	{
+		"ID": 311,
+		"name": "600万ダウンロード Memorial DAYカウントダウン　ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 7,
+		"require_continue_login": 0,
+		"start_at": "2022-02-22 00:00:00",
+		"end_at": "2022-02-22 23:59:58.995000",
+		"draw_reward_num": 1
+	},
+	{
+		"ID": 312,
+		"name": "600万ダウンロード Memorial DAY　ログインボーナス　第一弾",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 6,
+		"require_continue_login": 0,
+		"start_at": "2022-02-23 00:00:00",
+		"end_at": "2022-02-23 23:59:58.995000",
+		"draw_reward_num": 1
+	},
+	{
+		"ID": 313,
+		"name": "600万ダウンロード Memorial DAY　ログインボーナス　第一弾",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 6,
+		"require_continue_login": 0,
+		"start_at": "2022-02-24 00:00:00",
+		"end_at": "2022-02-24 23:59:58.995000",
+		"draw_reward_num": 1
+	},
+	{
+		"ID": 314,
+		"name": "600万ダウンロード Memorial DAY　ログインボーナス　第一弾",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 6,
+		"require_continue_login": 0,
+		"start_at": "2022-02-25 00:00:00",
+		"end_at": "2022-02-25 23:59:58.995000",
+		"draw_reward_num": 1
+	},
+	{
+		"ID": 315,
+		"name": "600万ダウンロード Memorial DAY　ログインボーナス　第一弾",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 6,
+		"require_continue_login": 0,
+		"start_at": "2022-02-26 00:00:00",
+		"end_at": "2022-02-26 23:59:58.995000",
+		"draw_reward_num": 1
+	},
+	{
+		"ID": 316,
+		"name": "600万ダウンロード Memorial DAY　ログインボーナス　第一弾",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 6,
+		"require_continue_login": 0,
+		"start_at": "2022-02-27 00:00:00",
+		"end_at": "2022-02-27 23:59:58.995000",
+		"draw_reward_num": 1
+	},
+	{
+		"ID": 317,
+		"name": "600万ダウンロード Memorial DAY　ログインボーナス　第一弾",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 6,
+		"require_continue_login": 0,
+		"start_at": "2022-02-28 00:00:00",
+		"end_at": "2022-02-28 23:59:58.995000",
+		"draw_reward_num": 1
+	},
+	{
+		"ID": 318,
+		"name": "600万ダウンロード　Memorial DAY10連シートガチャ",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 5,
+		"require_continue_login": 0,
+		"start_at": "2022-02-23 00:00:00",
+		"end_at": "2022-02-23 23:59:58.995000",
+		"draw_reward_num": 1
+	},
+	{
+		"ID": 319,
+		"name": "600万ダウンロード　Memorial DAY10連シートガチャ",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 5,
+		"require_continue_login": 0,
+		"start_at": "2022-02-24 00:00:00",
+		"end_at": "2022-02-24 23:59:58.995000",
+		"draw_reward_num": 1
+	},
+	{
+		"ID": 320,
+		"name": "600万ダウンロード　Memorial DAY10連シートガチャ",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 5,
+		"require_continue_login": 0,
+		"start_at": "2022-02-25 00:00:00",
+		"end_at": "2022-02-25 23:59:58.995000",
+		"draw_reward_num": 1
+	},
+	{
+		"ID": 321,
+		"name": "600万ダウンロード　Memorial DAY10連シートガチャ",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 5,
+		"require_continue_login": 0,
+		"start_at": "2022-02-26 00:00:00",
+		"end_at": "2022-02-26 23:59:58.995000",
+		"draw_reward_num": 1
+	},
+	{
+		"ID": 322,
+		"name": "600万ダウンロード　Memorial DAY10連シートガチャ",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 5,
+		"require_continue_login": 0,
+		"start_at": "2022-02-27 00:00:00",
+		"end_at": "2022-02-27 23:59:58.995000",
+		"draw_reward_num": 1
+	},
+	{
+		"ID": 323,
+		"name": "600万ダウンロード　Memorial DAY10連シートガチャ",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 5,
+		"require_continue_login": 0,
+		"start_at": "2022-02-28 00:00:00",
+		"end_at": "2022-02-28 23:59:58.995000",
+		"draw_reward_num": 1
+	},
+	{
+		"ID": 324,
+		"name": "600万ダウンロード　Memorial DAY10連シートガチャ",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 5,
+		"require_continue_login": 0,
+		"start_at": "2022-03-01 00:00:00",
+		"end_at": "2022-03-01 23:59:58.995000",
+		"draw_reward_num": 1
+	},
+	{
+		"ID": 325,
+		"name": "600万ダウンロード　Memorial DAY10連シートガチャ",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 5,
+		"require_continue_login": 0,
+		"start_at": "2022-03-02 00:00:00",
+		"end_at": "2022-03-02 23:59:58.995000",
+		"draw_reward_num": 1
+	},
+	{
+		"ID": 326,
+		"name": "600万ダウンロード　Memorial DAY10連シートガチャ",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 5,
+		"require_continue_login": 0,
+		"start_at": "2022-03-03 00:00:00",
+		"end_at": "2022-03-03 23:59:58.995000",
+		"draw_reward_num": 1
+	},
+	{
+		"ID": 327,
+		"name": "600万ダウンロード　Memorial DAY10連シートガチャ",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 5,
+		"require_continue_login": 0,
+		"start_at": "2022-03-04 00:00:00",
+		"end_at": "2022-03-04 23:59:58.995000",
+		"draw_reward_num": 1
+	},
+	{
+		"ID": 1226,
+		"name": "月間ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 15,
+		"require_continue_login": 0,
+		"start_at": "2022-03-01 00:00:00",
+		"end_at": "2022-03-31 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 328,
+		"name": "600万ダウンロード Memorial DAY　ログインボーナス　第二弾",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 8,
+		"require_continue_login": 0,
+		"start_at": "2022-03-01 00:00:00",
+		"end_at": "2022-03-01 23:59:58.995000",
+		"draw_reward_num": 1
+	},
+	{
+		"ID": 329,
+		"name": "600万ダウンロード Memorial DAY　ログインボーナス　第二弾",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 8,
+		"require_continue_login": 0,
+		"start_at": "2022-03-02 00:00:00",
+		"end_at": "2022-03-02 23:59:58.995000",
+		"draw_reward_num": 1
+	},
+	{
+		"ID": 330,
+		"name": "600万ダウンロード Memorial DAY　ログインボーナス　第二弾",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 8,
+		"require_continue_login": 0,
+		"start_at": "2022-03-03 00:00:00",
+		"end_at": "2022-03-03 23:59:58.995000",
+		"draw_reward_num": 1
+	},
+	{
+		"ID": 331,
+		"name": "600万ダウンロード Memorial DAY　ログインボーナス　第二弾",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 8,
+		"require_continue_login": 0,
+		"start_at": "2022-03-04 00:00:00",
+		"end_at": "2022-03-04 23:59:58.995000",
+		"draw_reward_num": 1
+	},
+	{
+		"ID": 332,
+		"name": "600万ダウンロード Memorial DAY　ログインボーナス　第二弾",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 8,
+		"require_continue_login": 0,
+		"start_at": "2022-03-05 00:00:00",
+		"end_at": "2022-03-05 23:59:58.995000",
+		"draw_reward_num": 1
+	},
+	{
+		"ID": 333,
+		"name": "600万ダウンロード Memorial DAY　ログインボーナス　第二弾",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 8,
+		"require_continue_login": 0,
+		"start_at": "2022-03-06 00:00:00",
+		"end_at": "2022-03-06 23:59:58.995000",
+		"draw_reward_num": 1
+	},
+	{
+		"ID": 334,
+		"name": "シークレットエバーアフター編 1章開幕記念連続ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 2,
+		"require_continue_login": 0,
+		"start_at": "2022-03-01 00:00:00",
+		"end_at": "2022-03-06 23:59:59",
+		"draw_reward_num": 6
+	},
+	{
+		"ID": 335,
+		"name": "めあたまコラボ 開催記念連続ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 2,
+		"require_continue_login": 0,
+		"start_at": "2022-03-12 00:00:00",
+		"end_at": "2022-03-18 23:59:59",
+		"draw_reward_num": 7
+	},
+	{
+		"ID": 336,
+		"name": "600万ダウンロード Memorial DAY Final 連続ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 7,
+		"require_continue_login": 0,
+		"start_at": "2022-03-19 00:00:00",
+		"end_at": "2022-03-21 23:59:59",
+		"draw_reward_num": 3
+	},
+	{
+		"ID": 337,
+		"name": "射抜け！与一チャレンジCPシートガチャログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 6,
+		"require_continue_login": 0,
+		"start_at": "2022-03-19 00:00:00",
+		"end_at": "2022-03-19 23:59:59",
+		"draw_reward_num": 1
+	},
+	{
+		"ID": 338,
+		"name": "射抜け！与一チャレンジCPシートガチャログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 6,
+		"require_continue_login": 0,
+		"start_at": "2022-03-20 00:00:00",
+		"end_at": "2022-03-20 23:59:59",
+		"draw_reward_num": 1
+	},
+	{
+		"ID": 339,
+		"name": "射抜け！与一チャレンジCPシートガチャログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 6,
+		"require_continue_login": 0,
+		"start_at": "2022-03-21 00:00:00",
+		"end_at": "2022-03-21 23:59:58.995000",
+		"draw_reward_num": 1
+	},
+	{
+		"ID": 340,
+		"name": "射抜け！与一チャレンジCPシートガチャログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 6,
+		"require_continue_login": 0,
+		"start_at": "2022-03-22 00:00:00",
+		"end_at": "2022-03-22 23:59:58.995000",
+		"draw_reward_num": 1
+	},
+	{
+		"ID": 341,
+		"name": "射抜け！与一チャレンジCPシートガチャログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 6,
+		"require_continue_login": 0,
+		"start_at": "2022-03-23 00:00:00",
+		"end_at": "2022-03-23 23:59:58.995000",
+		"draw_reward_num": 1
+	},
+	{
+		"ID": 342,
+		"name": "射抜け！与一チャレンジCPシートガチャログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 6,
+		"require_continue_login": 0,
+		"start_at": "2022-03-24 00:00:00",
+		"end_at": "2022-03-24 23:59:58.995000",
+		"draw_reward_num": 1
+	},
+	{
+		"ID": 343,
+		"name": "射抜け！与一チャレンジCPシートガチャログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 6,
+		"require_continue_login": 0,
+		"start_at": "2022-03-25 00:00:00",
+		"end_at": "2022-03-25 23:59:58.995000",
+		"draw_reward_num": 1
+	},
+	{
+		"ID": 344,
+		"name": "スプリングセール",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 1,
+		"require_continue_login": 0,
+		"start_at": "2022-03-26 00:00:00",
+		"end_at": "2022-03-27 23:59:59",
+		"draw_reward_num": 1
+	},
+	{
+		"ID": 345,
+		"name": "ファンキルを止めるな！",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 1,
+		"require_continue_login": 0,
+		"start_at": "2022-03-29 00:00:00",
+		"end_at": "2022-03-29 23:59:59",
+		"draw_reward_num": 1
+	},
+	{
+		"ID": 346,
+		"name": "ファンキルを止めるな！",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 1,
+		"require_continue_login": 0,
+		"start_at": "2022-03-30 00:00:00",
+		"end_at": "2022-03-30 23:59:59",
+		"draw_reward_num": 1
+	},
+	{
+		"ID": 347,
+		"name": "ファンキルを止めるな！",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 1,
+		"require_continue_login": 0,
+		"start_at": "2022-03-31 00:00:00",
+		"end_at": "2022-03-31 23:59:59",
+		"draw_reward_num": 1
+	},
+	{
+		"ID": 1227,
+		"name": "月間ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 15,
+		"require_continue_login": 0,
+		"start_at": "2022-04-01 00:00:00",
+		"end_at": "2022-04-30 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 348,
+		"name": "7.5周年直前祭 連続ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 2,
+		"require_continue_login": 0,
+		"start_at": "2022-04-11 00:00:00",
+		"end_at": "2022-04-15 23:59:59",
+		"draw_reward_num": 5
+	},
+	{
+		"ID": 349,
+		"name": "7.5周年直前祭 カウントダウンログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 5,
+		"require_continue_login": 0,
+		"start_at": "2022-04-16 00:00:00",
+		"end_at": "2022-04-16 23:59:59",
+		"draw_reward_num": 1
+	},
+	{
+		"ID": 350,
+		"name": "7.5周年直前祭 カウントダウンログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 5,
+		"require_continue_login": 0,
+		"start_at": "2022-04-17 00:00:00",
+		"end_at": "2022-04-17 23:59:59",
+		"draw_reward_num": 1
+	},
+	{
+		"ID": 351,
+		"name": "7.5周年直前祭 カウントダウンログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 5,
+		"require_continue_login": 0,
+		"start_at": "2022-04-18 00:00:00",
+		"end_at": "2022-04-18 23:59:59",
+		"draw_reward_num": 1
+	},
+	{
+		"ID": 352,
+		"name": "7.5周年直前祭 カウントダウンログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 5,
+		"require_continue_login": 0,
+		"start_at": "2022-04-19 00:00:00",
+		"end_at": "2022-04-19 23:59:59",
+		"draw_reward_num": 1
+	},
+	{
+		"ID": 353,
+		"name": "7.5周年直前祭 カウントダウンログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 5,
+		"require_continue_login": 0,
+		"start_at": "2022-04-20 00:00:00",
+		"end_at": "2022-04-20 23:59:59",
+		"draw_reward_num": 1
+	},
+	{
+		"ID": 354,
+		"name": "7.5周年直前祭 カウントダウンログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 5,
+		"require_continue_login": 0,
+		"start_at": "2022-04-21 00:00:00",
+		"end_at": "2022-04-21 23:59:59",
+		"draw_reward_num": 1
+	},
+	{
+		"ID": 355,
+		"name": "7.5周年直前祭 カウントダウンログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 5,
+		"require_continue_login": 0,
+		"start_at": "2022-04-22 00:00:00",
+		"end_at": "2022-04-22 23:59:59",
+		"draw_reward_num": 1
+	},
+	{
+		"ID": 356,
+		"name": "ありがとう！おかげさまで7.5周年 連続ログインボーナス第1弾",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 8,
+		"require_continue_login": 0,
+		"start_at": "2022-04-23 00:00:00",
+		"end_at": "2022-04-30 23:59:59",
+		"draw_reward_num": 8
+	},
+	{
+		"ID": 357,
+		"name": "ありがとう！おかげさまで7.5周年 連続ログインボーナス第2弾",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 7,
+		"require_continue_login": 0,
+		"start_at": "2022-05-01 00:00:00",
+		"end_at": "2022-05-08 23:59:59",
+		"draw_reward_num": 8
+	},
+	{
+		"ID": 1228,
+		"name": "月間ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 15,
+		"require_continue_login": 0,
+		"start_at": "2022-05-01 00:00:00",
+		"end_at": "2022-05-31 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 358,
+		"name": "スライム倒して300年、知らないうちにレベルMAXになってましたコラボ 連続ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 2,
+		"require_continue_login": 0,
+		"start_at": "2022-05-01 00:00:00",
+		"end_at": "2022-05-08 23:59:59",
+		"draw_reward_num": 8
+	},
+	{
+		"ID": 359,
+		"name": "シークレットリーコイン登場記念 連続ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 6,
+		"require_continue_login": 0,
+		"start_at": "2022-05-14 00:00:00",
+		"end_at": "2022-05-20 23:59:59",
+		"draw_reward_num": 7
+	},
+	{
+		"ID": 360,
+		"name": "ラグナドール コラボ開催決定記念 ムラマサ、参ります！CPシートガチャログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 5,
+		"require_continue_login": 0,
+		"start_at": "2022-05-21 00:00:00",
+		"end_at": "2022-05-21 23:59:59",
+		"draw_reward_num": 1
+	},
+	{
+		"ID": 361,
+		"name": "ラグナドール コラボ開催決定記念 ムラマサ、参ります！CPシートガチャログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 5,
+		"require_continue_login": 0,
+		"start_at": "2022-05-22 00:00:00",
+		"end_at": "2022-05-22 23:59:58.995000",
+		"draw_reward_num": 1
+	},
+	{
+		"ID": 362,
+		"name": "ラグナドール コラボ開催決定記念 ムラマサ、参ります！CPシートガチャログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 5,
+		"require_continue_login": 0,
+		"start_at": "2022-05-23 00:00:00",
+		"end_at": "2022-05-23 23:59:58.995000",
+		"draw_reward_num": 1
+	},
+	{
+		"ID": 363,
+		"name": "ラグナドール コラボ開催決定記念 ムラマサ、参ります！CPシートガチャログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 5,
+		"require_continue_login": 0,
+		"start_at": "2022-05-24 00:00:00",
+		"end_at": "2022-05-24 23:59:58.995000",
+		"draw_reward_num": 1
+	},
+	{
+		"ID": 364,
+		"name": "ラグナドール コラボ開催決定記念 ムラマサ、参ります！CPシートガチャログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 5,
+		"require_continue_login": 0,
+		"start_at": "2022-05-25 00:00:00",
+		"end_at": "2022-05-25 23:59:58.995000",
+		"draw_reward_num": 1
+	},
+	{
+		"ID": 365,
+		"name": "ラグナドール コラボ開催決定記念 ムラマサ、参ります！CPシートガチャログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 5,
+		"require_continue_login": 0,
+		"start_at": "2022-05-26 00:00:00",
+		"end_at": "2022-05-26 23:59:58.995000",
+		"draw_reward_num": 1
+	},
+	{
+		"ID": 366,
+		"name": "ラグナドール コラボ開催決定記念 ムラマサ、参ります！CPシートガチャログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 5,
+		"require_continue_login": 0,
+		"start_at": "2022-05-27 00:00:00",
+		"end_at": "2022-05-27 23:59:58.995000",
+		"draw_reward_num": 1
+	},
+	{
+		"ID": 367,
+		"name": "ファンキルを止めるな！",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 1,
+		"require_continue_login": 0,
+		"start_at": "2022-05-29 00:00:00",
+		"end_at": "2022-05-29 23:59:59",
+		"draw_reward_num": 1
+	},
+	{
+		"ID": 368,
+		"name": "ファンキルを止めるな！",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 1,
+		"require_continue_login": 0,
+		"start_at": "2022-05-30 00:00:00",
+		"end_at": "2022-05-30 23:59:59",
+		"draw_reward_num": 1
+	},
+	{
+		"ID": 369,
+		"name": "ファンキルを止めるな！",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 1,
+		"require_continue_login": 0,
+		"start_at": "2022-05-31 00:00:00",
+		"end_at": "2022-05-31 23:59:59",
+		"draw_reward_num": 1
+	},
+	{
+		"ID": 1229,
+		"name": "月間ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 15,
+		"require_continue_login": 0,
+		"start_at": "2022-06-01 00:00:00",
+		"end_at": "2022-06-30 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 370,
+		"name": "ラグナドール　コラボ記念　連続ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 8,
+		"require_continue_login": 0,
+		"start_at": "2022-06-01 00:00:00",
+		"end_at": "2022-06-10 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 371,
+		"name": "悪魔の誘いログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 7,
+		"require_continue_login": 0,
+		"start_at": "2022-06-06 00:00:00",
+		"end_at": "2022-06-06 23:59:59",
+		"draw_reward_num": 1
+	},
+	{
+		"ID": 372,
+		"name": "湯けむり温泉ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 6,
+		"require_continue_login": 0,
+		"start_at": "2022-06-11 00:00:00",
+		"end_at": "2022-06-11 23:59:59",
+		"draw_reward_num": 1
+	},
+	{
+		"ID": 373,
+		"name": "湯けむり温泉ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 6,
+		"require_continue_login": 0,
+		"start_at": "2022-06-12 00:00:00",
+		"end_at": "2022-06-12 23:59:58.995000",
+		"draw_reward_num": 1
+	},
+	{
+		"ID": 374,
+		"name": "湯けむり温泉ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 6,
+		"require_continue_login": 0,
+		"start_at": "2022-06-13 00:00:00",
+		"end_at": "2022-06-13 23:59:58.995000",
+		"draw_reward_num": 1
+	},
+	{
+		"ID": 375,
+		"name": "湯けむり温泉ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 6,
+		"require_continue_login": 0,
+		"start_at": "2022-06-14 00:00:00",
+		"end_at": "2022-06-14 23:59:58.995000",
+		"draw_reward_num": 1
+	},
+	{
+		"ID": 376,
+		"name": "湯けむり温泉ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 6,
+		"require_continue_login": 0,
+		"start_at": "2022-06-15 00:00:00",
+		"end_at": "2022-06-15 23:59:58.995000",
+		"draw_reward_num": 1
+	},
+	{
+		"ID": 377,
+		"name": "湯けむり温泉ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 6,
+		"require_continue_login": 0,
+		"start_at": "2022-06-16 00:00:00",
+		"end_at": "2022-06-16 23:59:58.995000",
+		"draw_reward_num": 1
+	},
+	{
+		"ID": 378,
+		"name": "湯けむり温泉ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 6,
+		"require_continue_login": 0,
+		"start_at": "2022-06-17 00:00:00",
+		"end_at": "2022-06-17 23:59:58.995000",
+		"draw_reward_num": 1
+	},
+	{
+		"ID": 379,
+		"name": "夏祭り編開幕直前！カウントダウンログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 8,
+		"require_continue_login": 0,
+		"start_at": "2022-06-26 00:00:00",
+		"end_at": "2022-06-26 23:59:59",
+		"draw_reward_num": 1
+	},
+	{
+		"ID": 380,
+		"name": "夏祭り編開幕直前！カウントダウンログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 8,
+		"require_continue_login": 0,
+		"start_at": "2022-06-27 00:00:00",
+		"end_at": "2022-06-27 23:59:59",
+		"draw_reward_num": 1
+	},
+	{
+		"ID": 381,
+		"name": "夏祭り編開幕直前！カウントダウンログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 8,
+		"require_continue_login": 0,
+		"start_at": "2022-06-28 00:00:00",
+		"end_at": "2022-06-28 23:59:58.995000",
+		"draw_reward_num": 1
+	},
+	{
+		"ID": 382,
+		"name": "夏祭り編開幕直前！カウントダウンログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 8,
+		"require_continue_login": 0,
+		"start_at": "2022-06-29 00:00:00",
+		"end_at": "2022-06-29 23:59:58.995000",
+		"draw_reward_num": 1
+	},
+	{
+		"ID": 383,
+		"name": "夏祭り編開幕直前！カウントダウンログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 8,
+		"require_continue_login": 0,
+		"start_at": "2022-06-30 00:00:00",
+		"end_at": "2022-06-30 23:59:58.995000",
+		"draw_reward_num": 1
+	},
+	{
+		"ID": 384,
+		"name": "生放送記念ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 1,
+		"require_continue_login": 0,
+		"start_at": "2022-06-25 00:00:00",
+		"end_at": "2022-06-30 23:59:59",
+		"draw_reward_num": 1
+	},
+	{
+		"ID": 1230,
+		"name": "月間ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 15,
+		"require_continue_login": 0,
+		"start_at": "2022-07-01 00:00:00",
+		"end_at": "2022-07-31 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 385,
+		"name": "ファンキル夏祭りくじキャンペーン　連続ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 7,
+		"require_continue_login": 0,
+		"start_at": "2022-07-01 00:00:00",
+		"end_at": "2022-07-08 23:59:59",
+		"draw_reward_num": 8
+	},
+	{
+		"ID": 386,
+		"name": "PSYCHO-PASS サイコパス２コラボ開催記念　連続ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 5,
+		"require_continue_login": 0,
+		"start_at": "2022-07-09 00:00:00",
+		"end_at": "2022-07-15 23:59:59",
+		"draw_reward_num": 7
+	},
+	{
+		"ID": 387,
+		"name": "ファンキルを止めるな！",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 1,
+		"require_continue_login": 0,
+		"start_at": "2022-07-29 00:00:00",
+		"end_at": "2022-07-29 23:59:59",
+		"draw_reward_num": 1
+	},
+	{
+		"ID": 388,
+		"name": "ファンキルを止めるな！",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 1,
+		"require_continue_login": 0,
+		"start_at": "2022-07-30 00:00:00",
+		"end_at": "2022-07-30 23:59:59",
+		"draw_reward_num": 1
+	},
+	{
+		"ID": 389,
+		"name": "ファンキルを止めるな！",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 1,
+		"require_continue_login": 0,
+		"start_at": "2022-07-31 00:00:00",
+		"end_at": "2022-07-31 23:59:59",
+		"draw_reward_num": 1
+	},
+	{
+		"ID": 390,
+		"name": "悪魔の誘いログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 8,
+		"require_continue_login": 0,
+		"start_at": "2022-07-25 00:00:00",
+		"end_at": "2022-07-25 23:59:59",
+		"draw_reward_num": 1
+	},
+	{
+		"ID": 1231,
+		"name": "月間ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 15,
+		"require_continue_login": 0,
+		"start_at": "2022-08-01 00:00:00",
+		"end_at": "2022-08-31 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 391,
+		"name": "のリプロコラボ開催記念　連続ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 7,
+		"require_continue_login": 0,
+		"start_at": "2022-08-01 00:00:00",
+		"end_at": "2022-08-10 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 392,
+		"name": "夏休みの宿題！feat.ミーミルの夏日記　ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 6,
+		"require_continue_login": 0,
+		"start_at": "2022-08-11 00:00:00",
+		"end_at": "2022-08-11 23:59:59",
+		"draw_reward_num": 1
+	},
+	{
+		"ID": 393,
+		"name": "夏休みの宿題！feat.ミーミルの夏日記　ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 6,
+		"require_continue_login": 0,
+		"start_at": "2022-08-12 00:00:00",
+		"end_at": "2022-08-12 23:59:59",
+		"draw_reward_num": 1
+	},
+	{
+		"ID": 394,
+		"name": "夏休みの宿題！feat.ミーミルの夏日記　ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 6,
+		"require_continue_login": 0,
+		"start_at": "2022-08-13 00:00:00",
+		"end_at": "2022-08-13 23:59:59",
+		"draw_reward_num": 1
+	},
+	{
+		"ID": 395,
+		"name": "夏休みの宿題！feat.ミーミルの夏日記　ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 6,
+		"require_continue_login": 0,
+		"start_at": "2022-08-14 00:00:00",
+		"end_at": "2022-08-14 23:59:59",
+		"draw_reward_num": 1
+	},
+	{
+		"ID": 396,
+		"name": "永遠プレイバック・サマー記念！来場プレゼント",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 5,
+		"require_continue_login": 0,
+		"start_at": "2022-08-23 00:00:00",
+		"end_at": "2022-08-31 23:59:59",
+		"draw_reward_num": 1
+	},
+	{
+		"ID": 397,
+		"name": "プレイバック・リアルサマー　連続ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 7,
+		"require_continue_login": 0,
+		"start_at": "2022-08-23 00:00:00",
+		"end_at": "2022-09-22 23:59:59",
+		"draw_reward_num": 9
+	},
+	{
+		"ID": 398,
+		"name": "ファンキルを止めるな！",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 1,
+		"require_continue_login": 0,
+		"start_at": "2022-08-29 00:00:00",
+		"end_at": "2022-08-29 23:59:59",
+		"draw_reward_num": 1
+	},
+	{
+		"ID": 399,
+		"name": "ファンキルを止めるな！",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 1,
+		"require_continue_login": 0,
+		"start_at": "2022-08-30 00:00:00",
+		"end_at": "2022-08-30 23:59:59",
+		"draw_reward_num": 1
+	},
+	{
+		"ID": 400,
+		"name": "ファンキルを止めるな！",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 1,
+		"require_continue_login": 0,
+		"start_at": "2022-08-31 00:00:00",
+		"end_at": "2022-08-31 23:59:59",
+		"draw_reward_num": 1
+	},
+	{
+		"ID": 1232,
+		"name": "月間ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 15,
+		"require_continue_login": 0,
+		"start_at": "2022-09-01 00:00:00",
+		"end_at": "2022-09-30 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 401,
+		"name": "最後の希望 ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 8,
+		"require_continue_login": 0,
+		"start_at": "2022-09-01 00:00:00",
+		"end_at": "2022-09-16 23:59:59",
+		"draw_reward_num": 5
+	},
+	{
+		"ID": 402,
+		"name": "シークレットリーエバーアフター編 第4章公開記念　ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 5,
+		"require_continue_login": 0,
+		"start_at": "2022-09-17 00:00:00",
+		"end_at": "2022-09-23 23:59:59",
+		"draw_reward_num": 7
+	},
+	{
+		"ID": 403,
+		"name": "ファンキルを止めるな！",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 1,
+		"require_continue_login": 0,
+		"start_at": "2022-09-28 00:00:00",
+		"end_at": "2022-09-28 23:59:59",
+		"draw_reward_num": 1
+	},
+	{
+		"ID": 404,
+		"name": "ファンキルを止めるな！",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 1,
+		"require_continue_login": 0,
+		"start_at": "2022-09-29 00:00:00",
+		"end_at": "2022-09-29 23:59:59",
+		"draw_reward_num": 1
+	},
+	{
+		"ID": 405,
+		"name": "ファンキルを止めるな！",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 1,
+		"require_continue_login": 0,
+		"start_at": "2022-09-30 00:00:00",
+		"end_at": "2022-09-30 23:59:59",
+		"draw_reward_num": 1
+	},
+	{
+		"ID": 1233,
+		"name": "月間ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 15,
+		"require_continue_login": 0,
+		"start_at": "2022-10-01 00:00:00",
+		"end_at": "2022-10-31 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 406,
+		"name": "ありがとう！おかげさまで８周年　連続ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 8,
+		"require_continue_login": 0,
+		"start_at": "2022-10-23 00:00:00",
+		"end_at": "2022-10-31 23:59:59",
+		"draw_reward_num": 9
+	},
+	{
+		"ID": 1234,
+		"name": "月間ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 15,
+		"require_continue_login": 0,
+		"start_at": "2022-11-01 00:00:00",
+		"end_at": "2022-11-30 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 407,
+		"name": "異聞不可分フォーハング　開幕記念ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 6,
+		"require_continue_login": 0,
+		"start_at": "2022-11-01 00:00:00",
+		"end_at": "2022-11-05 23:59:59",
+		"draw_reward_num": 5
+	},
+	{
+		"ID": 408,
+		"name": "FgG感謝祭2022開催記念　来場者プレゼント",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 7,
+		"require_continue_login": 0,
+		"start_at": "2022-11-05 00:00:00",
+		"end_at": "2022-11-05 23:59:59",
+		"draw_reward_num": 1
+	},
+	{
+		"ID": 409,
+		"name": "ブラックフライデー ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 8,
+		"require_continue_login": 0,
+		"start_at": "2022-11-25 00:00:00",
+		"end_at": "2022-11-27 23:59:59",
+		"draw_reward_num": 1
+	},
+	{
+		"ID": 410,
+		"name": "属性修練ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 5,
+		"require_continue_login": 0,
+		"start_at": "2022-11-19 00:00:00",
+		"end_at": "2022-11-30 23:59:59",
+		"draw_reward_num": 7
+	},
+	{
+		"ID": 1235,
+		"name": "月間ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 15,
+		"require_continue_login": 0,
+		"start_at": "2022-12-01 00:00:00",
+		"end_at": "2022-12-31 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 411,
+		"name": "異聞不可分フォーハング第2部　公開記念ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 6,
+		"require_continue_login": 0,
+		"start_at": "2022-12-01 00:00:00",
+		"end_at": "2022-12-09 23:59:59",
+		"draw_reward_num": 7
+	},
+	{
+		"ID": 412,
+		"name": "リリース3000日記念！ログインボーナス第1弾",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 7,
+		"require_continue_login": 0,
+		"start_at": "2022-12-10 00:00:00",
+		"end_at": "2022-12-16 23:59:59",
+		"draw_reward_num": 7
+	},
+	{
+		"ID": 413,
+		"name": "リリース3000日記念！ログインボーナス第2弾",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 8,
+		"require_continue_login": 0,
+		"start_at": "2022-12-17 00:00:00",
+		"end_at": "2022-12-23 23:59:59",
+		"draw_reward_num": 7
+	},
+	{
+		"ID": 414,
+		"name": "アロンダイトのダイエットシートガチャ ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 5,
+		"require_continue_login": 0,
+		"start_at": "2022-12-17 00:00:00",
+		"end_at": "2022-12-25 23:59:59",
+		"draw_reward_num": 9
+	},
+	{
+		"ID": 415,
+		"name": "リリース3000日記念 メリークリスマス ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 6,
+		"require_continue_login": 0,
+		"start_at": "2022-12-24 00:00:00",
+		"end_at": "2022-12-24 23:59:59",
+		"draw_reward_num": 1
+	},
+	{
+		"ID": 416,
+		"name": "リリース3000日記念 メリークリスマス ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 6,
+		"require_continue_login": 0,
+		"start_at": "2022-12-25 00:00:00",
+		"end_at": "2022-12-25 23:59:59",
+		"draw_reward_num": 1
+	},
+	{
+		"ID": 1236,
+		"name": "月間ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 15,
+		"require_continue_login": 0,
+		"start_at": "2023-01-01 00:00:00",
+		"end_at": "2023-01-31 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 417,
+		"name": "迎春お年玉ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 7,
+		"require_continue_login": 0,
+		"start_at": "2023-01-01 00:00:00",
+		"end_at": "2023-01-06 23:59:59",
+		"draw_reward_num": 6
+	},
+	{
+		"ID": 1237,
+		"name": "月間ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 15,
+		"require_continue_login": 0,
+		"start_at": "2023-02-01 00:00:00",
+		"end_at": "2023-02-28 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 418,
+		"name": "不可欠彩度レルム　開幕記念ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 8,
+		"require_continue_login": 0,
+		"start_at": "2023-02-01 00:00:00",
+		"end_at": "2023-02-10 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 419,
+		"name": "Happy Valentine ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 5,
+		"require_continue_login": 0,
+		"start_at": "2023-02-11 00:00:00",
+		"end_at": "2023-02-14 23:59:59",
+		"draw_reward_num": 1
+	},
+	{
+		"ID": 420,
+		"name": "超ファンギル祭 開催記念ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 6,
+		"require_continue_login": 0,
+		"start_at": "2023-02-11 00:00:00",
+		"end_at": "2023-02-28 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 1238,
+		"name": "月間ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 15,
+		"require_continue_login": 0,
+		"start_at": "2023-03-01 00:00:00",
+		"end_at": "2023-03-31 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 421,
+		"name": "アルマス人気投票1位記念ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 7,
+		"require_continue_login": 0,
+		"start_at": "2023-03-01 00:00:00",
+		"end_at": "2023-03-10 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 422,
+		"name": "悪魔の誘いログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 8,
+		"require_continue_login": 0,
+		"start_at": "2023-03-04 00:00:00",
+		"end_at": "2023-03-17 23:59:59",
+		"draw_reward_num": 1
+	},
+	{
+		"ID": 423,
+		"name": "不可欠彩度レルム　第2部公開記念ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 5,
+		"require_continue_login": 0,
+		"start_at": "2023-03-11 00:00:00",
+		"end_at": "2023-03-17 23:59:59",
+		"draw_reward_num": 7
+	},
+	{
+		"ID": 424,
+		"name": "春一番くじ開催記念ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 6,
+		"require_continue_login": 0,
+		"start_at": "2023-03-18 00:00:00",
+		"end_at": "2023-03-31 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 425,
+		"name": "スプリングセール",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 1,
+		"require_continue_login": 0,
+		"start_at": "2023-03-25 00:00:00",
+		"end_at": "2023-03-30 23:59:59",
+		"draw_reward_num": 1
+	},
+	{
+		"ID": 426,
+		"name": "スプリングセール",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 1,
+		"require_continue_login": 0,
+		"start_at": "2023-03-31 00:00:00",
+		"end_at": "2023-03-31 23:59:59",
+		"draw_reward_num": 1
+	},
+	{
+		"ID": 1239,
+		"name": "月間ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 15,
+		"require_continue_login": 0,
+		"start_at": "2023-04-01 00:00:00",
+		"end_at": "2023-04-30 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 427,
+		"name": "不可欠彩度レルム　第3部公開記念ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 7,
+		"require_continue_login": 0,
+		"start_at": "2023-04-01 00:00:00",
+		"end_at": "2023-04-14 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 428,
+		"name": "8.5th Anniversary記念 姫石プレゼントログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 5,
+		"require_continue_login": 0,
+		"start_at": "2023-04-23 00:00:00",
+		"end_at": "2023-04-23 23:59:59",
+		"draw_reward_num": 1
+	},
+	{
+		"ID": 429,
+		"name": "ありがとう！おかげさまで8.5周年記念ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 8,
+		"require_continue_login": 0,
+		"start_at": "2023-04-23 00:00:00",
+		"end_at": "2023-05-07 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 1240,
+		"name": "月間ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 15,
+		"require_continue_login": 0,
+		"start_at": "2023-05-01 00:00:00",
+		"end_at": "2023-05-31 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 430,
+		"name": "神抽選会ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 6,
+		"require_continue_login": 0,
+		"start_at": "2023-05-01 00:00:00",
+		"end_at": "2023-05-07 23:59:59",
+		"draw_reward_num": 7
+	},
+	{
+		"ID": 431,
+		"name": "不可思議仕儀ツークンフト 第1部後編公開記念ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 7,
+		"require_continue_login": 0,
+		"start_at": "2023-05-20 00:00:00",
+		"end_at": "2023-05-21 23:59:59",
+		"draw_reward_num": 2
+	},
+	{
+		"ID": 1241,
+		"name": "月間ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 15,
+		"require_continue_login": 0,
+		"start_at": "2023-06-01 00:00:00",
+		"end_at": "2023-06-30 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 432,
+		"name": "不可思議仕儀ツークンフト　第2部公開記念ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 8,
+		"require_continue_login": 0,
+		"start_at": "2023-06-01 00:00:00",
+		"end_at": "2023-06-09 23:59:59",
+		"draw_reward_num": 9
+	},
+	{
+		"ID": 433,
+		"name": "2023新水着イベント開幕直前！カウントダウンログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 5,
+		"require_continue_login": 0,
+		"start_at": "2023-06-24 00:00:00",
+		"end_at": "2023-06-24 23:59:59",
+		"draw_reward_num": 1
+	},
+	{
+		"ID": 434,
+		"name": "2023新水着イベント開幕直前！カウントダウンログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 5,
+		"require_continue_login": 0,
+		"start_at": "2023-06-25 00:00:00",
+		"end_at": "2023-06-25 23:59:59",
+		"draw_reward_num": 1
+	},
+	{
+		"ID": 435,
+		"name": "2023新水着イベント開幕直前！カウントダウンログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 5,
+		"require_continue_login": 0,
+		"start_at": "2023-06-26 00:00:00",
+		"end_at": "2023-06-26 23:59:59",
+		"draw_reward_num": 1
+	},
+	{
+		"ID": 436,
+		"name": "2023新水着イベント開幕直前！カウントダウンログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 5,
+		"require_continue_login": 0,
+		"start_at": "2023-06-27 00:00:00",
+		"end_at": "2023-06-27 23:59:59",
+		"draw_reward_num": 1
+	},
+	{
+		"ID": 437,
+		"name": "2023新水着イベント開幕直前！カウントダウンログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 5,
+		"require_continue_login": 0,
+		"start_at": "2023-06-28 00:00:00",
+		"end_at": "2023-06-28 23:59:59",
+		"draw_reward_num": 1
+	},
+	{
+		"ID": 438,
+		"name": "2023新水着イベント開幕直前！カウントダウンログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 5,
+		"require_continue_login": 0,
+		"start_at": "2023-06-29 00:00:00",
+		"end_at": "2023-06-29 23:59:59",
+		"draw_reward_num": 1
+	},
+	{
+		"ID": 439,
+		"name": "2023新水着イベント開幕直前！カウントダウンログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 5,
+		"require_continue_login": 0,
+		"start_at": "2023-06-30 00:00:00",
+		"end_at": "2023-06-30 23:59:59",
+		"draw_reward_num": 1
+	},
+	{
+		"ID": 1242,
+		"name": "月間ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 15,
+		"require_continue_login": 0,
+		"start_at": "2023-07-01 00:00:00",
+		"end_at": "2023-07-31 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 440,
+		"name": "サマーギフトログインボーナスⅠ",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 6,
+		"require_continue_login": 0,
+		"start_at": "2023-07-01 00:00:00",
+		"end_at": "2023-07-14 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 441,
+		"name": "サマーギフトログインボーナスⅡ",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 7,
+		"require_continue_login": 0,
+		"start_at": "2023-07-15 00:00:00",
+		"end_at": "2023-07-31 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 1243,
+		"name": "月間ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 15,
+		"require_continue_login": 0,
+		"start_at": "2023-08-01 00:00:00",
+		"end_at": "2023-08-31 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 442,
+		"name": "夏の大ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 8,
+		"require_continue_login": 0,
+		"start_at": "2023-08-01 00:00:00",
+		"end_at": "2023-08-18 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 1244,
+		"name": "月間ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 15,
+		"require_continue_login": 0,
+		"start_at": "2023-09-01 00:00:00",
+		"end_at": "2023-09-30 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 443,
+		"name": "不可思議仕儀ツークンフト　完結記念ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 5,
+		"require_continue_login": 0,
+		"start_at": "2023-09-01 00:00:00",
+		"end_at": "2023-09-30 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 444,
+		"name": "大抽選会ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 6,
+		"require_continue_login": 0,
+		"start_at": "2023-09-16 00:00:00",
+		"end_at": "2023-09-24 23:59:59",
+		"draw_reward_num": 9
+	},
+	{
+		"ID": 1245,
+		"name": "月間ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 15,
+		"require_continue_login": 0,
+		"start_at": "2023-10-01 00:00:00",
+		"end_at": "2023-10-31 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 445,
+		"name": "9thAnniversary カウントダウンログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 7,
+		"require_continue_login": 0,
+		"start_at": "2023-10-01 00:00:00",
+		"end_at": "2023-10-22 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 446,
+		"name": "ありがとう！おかげさまで9周年記念ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 8,
+		"require_continue_login": 0,
+		"start_at": "2023-10-23 00:00:00",
+		"end_at": "2023-11-30 23:59:59",
+		"draw_reward_num": 9
+	},
+	{
+		"ID": 447,
+		"name": "毎日ユニット獲得ログインボーナス",
+		"is_loop": 1,
+		"draw_type_LoginbonusDrawType": 2,
+		"require_continue_login": 1,
+		"start_at": "2023-11-01 00:00:00",
+		"end_at": "2030-12-31 23:59:59",
+		"draw_reward_num": 1
+	},
+	{
+		"ID": 2001,
+		"name": "月間ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 15,
+		"require_continue_login": 0,
+		"start_at": "2023-11-01 00:00:00",
+		"end_at": "2023-11-30 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 2002,
+		"name": "月間ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 15,
+		"require_continue_login": 0,
+		"start_at": "2023-12-01 00:00:00",
+		"end_at": "2023-12-31 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 2003,
+		"name": "月間ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 15,
+		"require_continue_login": 0,
+		"start_at": "2024-01-01 00:00:00",
+		"end_at": "2024-01-31 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 2004,
+		"name": "月間ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 15,
+		"require_continue_login": 0,
+		"start_at": "2024-02-01 00:00:00",
+		"end_at": "2024-02-29 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 2005,
+		"name": "月間ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 15,
+		"require_continue_login": 0,
+		"start_at": "2024-03-01 00:00:00",
+		"end_at": "2024-03-31 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 2006,
+		"name": "月間ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 15,
+		"require_continue_login": 0,
+		"start_at": "2024-04-01 00:00:00",
+		"end_at": "2024-04-30 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 2007,
+		"name": "月間ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 15,
+		"require_continue_login": 0,
+		"start_at": "2024-05-01 00:00:00",
+		"end_at": "2024-05-31 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 2008,
+		"name": "月間ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 15,
+		"require_continue_login": 0,
+		"start_at": "2024-06-01 00:00:00",
+		"end_at": "2024-06-30 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 2009,
+		"name": "月間ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 15,
+		"require_continue_login": 0,
+		"start_at": "2024-07-01 00:00:00",
+		"end_at": "2024-07-31 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 2010,
+		"name": "月間ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 15,
+		"require_continue_login": 0,
+		"start_at": "2024-08-01 00:00:00",
+		"end_at": "2024-08-31 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 2011,
+		"name": "月間ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 15,
+		"require_continue_login": 0,
+		"start_at": "2024-09-01 00:00:00",
+		"end_at": "2024-09-30 23:59:59",
+		"draw_reward_num": 10
+	},
+	{
+		"ID": 2012,
+		"name": "月間ログインボーナス",
+		"is_loop": 0,
+		"draw_type_LoginbonusDrawType": 15,
+		"require_continue_login": 0,
+		"start_at": "2024-10-01 00:00:00",
+		"end_at": "2024-10-31 23:59:59",
+		"draw_reward_num": 10
+	}
+]

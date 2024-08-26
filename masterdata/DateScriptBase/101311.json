@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 101311,
+		"script": ";;ちょっとよくわからない,小\n;;テンション上がってる？,大\n;;そうだねパラケルスス君,中\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background %(background)s\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 0 0\n@\nマスターは\nパラケルススを誘って\n博物館にやってきた\n\n# textflame 1 1\n@パラケルスス\nこの静けさの中には\n幾つもの時代を超えた\n知が沈殿している…\n\n@パラケルスス\n幾重にも重なった\n叡智の地層を\n;;----------------------------------------\n\n# face %(unit_a)s \"smile\"\n# voice 1013 \"paracelsus_0005\"\n# textflame 1 1\n@%(unitName:unit_a)s\n我々は今、眺めているのだ！\n\n# select \"ちょっとよくわからない\" \"select_label_01\" \"テンション上がってる？\" \"select_label_02\" \"そうだねパラケルスス君\" \"select_label_03\"\n我々は今、眺めているのだ！\n\n# label \"select_label_01\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_02\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_03\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_end\"\n# waitandnext 0.1\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

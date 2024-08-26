@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 500324,
+		"script": "# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_shipboard\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n@八咫鏡\nふっ…\n\n# textflame 1 1\n@八咫鏡\nわらわを誘っておいて\n月に浮気するとは…\n\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# voice 5003 \"yatanokagami_0004\"\n@八咫鏡\nお主はまったく\nよい度胸じゃな♪\n\n# textflame 0 0\n@\n八咫鏡のいたずらっぽい笑顔が\n満月のように輝いた――\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

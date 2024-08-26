@@ -1,0 +1,56 @@
+[
+	{
+		"ID": 1,
+		"period_id_BoostPeriod": 1,
+		"increase_price": 1.0,
+		"success_factor": 1.0
+	},
+	{
+		"ID": 2,
+		"period_id_BoostPeriod": 248,
+		"increase_price": 1.0,
+		"success_factor": 100.0
+	},
+	{
+		"ID": 3,
+		"period_id_BoostPeriod": 267,
+		"increase_price": 1.0,
+		"success_factor": 100.0
+	},
+	{
+		"ID": 4,
+		"period_id_BoostPeriod": 277,
+		"increase_price": 1.0,
+		"success_factor": 100.0
+	},
+	{
+		"ID": 5,
+		"period_id_BoostPeriod": 319,
+		"increase_price": 1.0,
+		"success_factor": 100.0
+	},
+	{
+		"ID": 6,
+		"period_id_BoostPeriod": 322,
+		"increase_price": 1.0,
+		"success_factor": 100.0
+	},
+	{
+		"ID": 7,
+		"period_id_BoostPeriod": 341,
+		"increase_price": 1.0,
+		"success_factor": 100.0
+	},
+	{
+		"ID": 8,
+		"period_id_BoostPeriod": 388,
+		"increase_price": 0.0,
+		"success_factor": 100.0
+	},
+	{
+		"ID": 9,
+		"period_id_BoostPeriod": 679,
+		"increase_price": 0.30000001192092896,
+		"success_factor": 100.0
+	}
+]

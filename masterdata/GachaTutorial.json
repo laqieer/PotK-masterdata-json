@@ -1,0 +1,47 @@
+[
+	{
+		"ID": 1001,
+		"name": "新・チュートリアルガチャ",
+		"description": "新・チュートリアルガチャ",
+		"_logic_id": 1,
+		"payment_type_id_CommonPayType": 1,
+		"payment_id": 0,
+		"payment_amount": 0,
+		"_deck_id": 101,
+		"_roll_count": 10,
+		"_limit": 1,
+		"_daily_limit": 0,
+		"_period_id_GachaTutorialPeriod": 2,
+		"max_roll_count": 0
+	},
+	{
+		"ID": 1002,
+		"name": "g211039-【7周年記念】期間限定 チュートリアルガチャキャンペーン",
+		"description": "g211039-【7周年記念】期間限定 チュートリアルガチャキャンペーン",
+		"_logic_id": 1,
+		"payment_type_id_CommonPayType": 1,
+		"payment_id": 0,
+		"payment_amount": 0,
+		"_deck_id": 102,
+		"_roll_count": 10,
+		"_limit": 1,
+		"_daily_limit": 0,
+		"_period_id_GachaTutorialPeriod": 3,
+		"max_roll_count": 0
+	},
+	{
+		"ID": 1003,
+		"name": "新・チュートリアルガチャ",
+		"description": "新・チュートリアルガチャ",
+		"_logic_id": 1,
+		"payment_type_id_CommonPayType": 1,
+		"payment_id": 0,
+		"payment_amount": 0,
+		"_deck_id": 101,
+		"_roll_count": 10,
+		"_limit": 1,
+		"_daily_limit": 0,
+		"_period_id_GachaTutorialPeriod": 4,
+		"max_roll_count": 0
+	}
+]

@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 2100125,
+		"script": "# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_drive\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 0 0\n# face %(unit_a)s \"shy\"\n@\nマサムネに誘われて\nドライブついでに高台へ\nやってきたマスター\n\n# voice 210012 \"masamune_k_0001\"\n# textflame 1 1\n@マサムネ\n今夜は拙者のわがままに\n主君を付き合わせてしまい\nかたじけない\n\n@マサムネ\nただ、時にはこういう場所で\nゆっくり休むのも\n主君のためかと思ってな\n\n@マサムネ\n一緒にここで涼むのは\nいかがかと…\n\n# textflame 0 0\n@\nマサムネの誘いに乗って\nそっと景色に目を向ける\n\n@\nお腹が空いた\nと、マスター\n\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 210012 \"masamune_k_0023\"\n@マサムネ\nお、お腹が？\n\n# face %(unit_a)s \"angry\"\n@マサムネ\n不覚！\nこんなことをしている場合では\nありませぬ！\n\n@マサムネ\n主君の望みに気づけず、申しわけない\n今もやっている屋台があります\nそちらへ向かいましょう\n\n# textflame 0 0\n@\n早々に切り上げて\nマサムネの案内で\n屋台へと向かうことにした\n\n@\nもう少しムードを考えたほうが\nよかったかもしれない\n\n@\nそう思いながらも、\nやはり空腹には勝てないのだった…\n;;----------------------------------------\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

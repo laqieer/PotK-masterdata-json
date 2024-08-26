@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 93009299,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# se \"SE_0732\"\n# voice 3009 \"seiryu_0005\"\n@青龍偃月刀\nふふ…\n精進されているようですね\n\n@青龍偃月刀\n将が優秀であれば…\n\n@青龍偃月刀\n私もついていく\n甲斐があるというもの\n\n# voice 3009 \"seiryu_0001\"\n# eye %(unit_a)s \"close\"\n@青龍偃月刀\n主君…\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"usual\"\n# voice 3009 \"seiryu_0003\"\n@青龍偃月刀\nこれからも…\nついてゆきます\n…ずっと\n\n# textflame 0 0\n@\n偉そうな口調ながらも、\n少し照れた笑顔は\nとても愛らしく…\n\n@\n嬉しさに満ちた姿をみて\nマスターは彼女との絆が\nまた深まったのを実感した…\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

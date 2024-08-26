@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 210400043,
+		"script": ";;＜バトル3＞\n# script \"lisp\"\n# background \"town\"\n# bgm \"bgm002\" 0\n# body 400771\n# pos 400771 4\n# scale 400771 0.8 0\n# alpha 400771 1 0\n# face 400771 \"happy\"\n# body 401721\n# pos 401721 2\n# scale 401721 0.8 0\n# alpha 401721 1 0\n# face 401721 \"usual\"\n# textflame 1 1\n# textwindow \"nomal\"\n# voice 4017 \"suiha_0006\"\n# textboxarrow 0 1\n@スイハ\nふぅ…\nなんとか終わりましたね…\n\n# voice 4007 \"shekina_0041\"\n# textboxarrow 0 3\n@シェキナー\nスイハって、やっぱり強いんですね！ \nさすがです！\n\n# face 401721 \"shy\"\n# voice 4017 \"suiha_0022\"\n# textboxarrow 0 1\n@スイハ\nいえ…そんな…それほどでは…\nあの…もう結婚式に…行かないと…\n\n# face 400771 \"normal\"\n# textboxarrow 0 3\n@シェキナー\nあ、そうですね！\nスイハを誉めるのは\nあとでゆっくりやることにしましょう！\n\n# textboxarrow 0 1\n@スイハ\nいえ…もう大丈夫です…\n式場に行きましょう…\n"
+	}
+]

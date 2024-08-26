@@ -1,0 +1,209 @@
+[
+	{
+		"ID": 1,
+		"title_BeginnerNaviTitle": 1,
+		"questionText": "始めたばかりでなにをしたら良いかわかりません…",
+		"answerText": "まずはストーリークエストを進めて\nみなさい！ストーリークエストがある程度進んだら、イベントクエストやコロシアムにいってみると良いわよ！",
+		"descriptionImage": "",
+		"movePage_BeginnerNaviMovePage": 1,
+		"frameNumber": 5
+	},
+	{
+		"ID": 2,
+		"title_BeginnerNaviTitle": 2,
+		"questionText": "敵が強くて倒せません…\nどうしたら良いでしょうか…",
+		"answerText": "まずはクリアできるステージを\n回ってレベルを上げるのよ！\nオートバトル機能を使うと楽に\nステージを回ることができるわ。\n\nオートバトルは自分のターンに\n「オート」をタップすると開始できるわよ！\n少しなれてきたら経験値がいっぱ\nいもらえる「メタルガーデン」に挑戦してみてね。",
+		"descriptionImage": "n_image01",
+		"movePage_BeginnerNaviMovePage": 3,
+		"frameNumber": 4
+	},
+	{
+		"ID": 3,
+		"title_BeginnerNaviTitle": 3,
+		"questionText": "アイテムをもっていったのに\n使えないんです…\n私のトマトジュースが…",
+		"answerText": "チーム編成画面や出撃画面でセットしたアイテムは、自分のターンのはじめに支給品ボタンをタップすると使用できるわ。\nユニットを一体でも行動完了にすると使用できなくなるから注意してね！\n…ってあんたトマトジュース\n持っていってるの！？",
+		"descriptionImage": "n_image02",
+		"movePage_BeginnerNaviMovePage": 6,
+		"frameNumber": 2
+	},
+	{
+		"ID": 4,
+		"title_BeginnerNaviTitle": 4,
+		"questionText": "マップにキラキラ光っている\nマスがあるんですが、\nあれはなんでしょう？",
+		"answerText": "ステージマップの光るマスに止まるとさまざまな物が入手できるのよ！ユニット経験値やアイテムも入手できるから余裕があるときには、狙ってみてね！",
+		"descriptionImage": "n_image03",
+		"movePage_BeginnerNaviMovePage": 3,
+		"frameNumber": 1
+	},
+	{
+		"ID": 5,
+		"title_BeginnerNaviTitle": 5,
+		"questionText": "あのっ…攻撃されていないのに\nHPが減ってしまうんです…",
+		"answerText": "魔弾での攻撃や味方に回復を行う時は自分のHPを消費するのよ。\nむやみに使用すると危ないから、よく考えてから使用しなさい！",
+		"descriptionImage": "n_image04",
+		"movePage_BeginnerNaviMovePage": 3,
+		"frameNumber": 1
+	},
+	{
+		"ID": 6,
+		"title_BeginnerNaviTitle": 6,
+		"questionText": "初クリアボーナスがもらえない…\nなぜでしょうか…",
+		"answerText": "初クリア時のボーナスは、\n特定のステージのみのクリア報酬なのよ！ボーナスがあるステージ\nは、ステージ選択画面でアイコンが表示されているからよくチェックするのよ！\nちなみに獲得したボーナスは、\nメッセージ一覧にプレゼントとして送られるわ！",
+		"descriptionImage": "n_image05",
+		"movePage_BeginnerNaviMovePage": 11,
+		"frameNumber": 2
+	},
+	{
+		"ID": 7,
+		"title_BeginnerNaviTitle": 7,
+		"questionText": "メタルガーデンって\nどんなクエストなんでしょうか？",
+		"answerText": "毎日数回、定期的に開催されているクエストね。\nユニットの経験値をいっぱいもらえるからとってもお得なのよ？\nそれと1日に1回だけ出撃できる\n「超メタルガーデン」はさらに大量\nの経験値獲得のチャンスよ！\nゲームになれてきたらチャレンジ\nしてみてね！",
+		"descriptionImage": "n_image06",
+		"movePage_BeginnerNaviMovePage": 3,
+		"frameNumber": 2
+	},
+	{
+		"ID": 8,
+		"title_BeginnerNaviTitle": 8,
+		"questionText": "えっと…キャラクタークエスト\nとはなんでしょうか？",
+		"answerText": "キャラクターのオリジナルストー\nリーが楽しめるクエストよ！\n☆5のユニットを獲得すると開放\nされて、全てのEPをクリアすると\n新しいスキルや魔弾が習得できる\nわよ。",
+		"descriptionImage": "n_image07",
+		"movePage_BeginnerNaviMovePage": 4,
+		"frameNumber": 1
+	},
+	{
+		"ID": 9,
+		"title_BeginnerNaviTitle": 9,
+		"questionText": "コロシアムって\nなにをするんですか…？\n少し怖いです…",
+		"answerText": "コロシアムはマスター同士で戦う闘技場のようなものね！\n勝負すると「ランクポイント」がもらえて、一定のポイントをためるといろいろなプレゼントがもらえるの。\n毎日決められた回数だけ経験値を獲得することができるから、クエストの合間にいくと良いわよ！",
+		"descriptionImage": "n_image08",
+		"movePage_BeginnerNaviMovePage": 5,
+		"frameNumber": 3
+	},
+	{
+		"ID": 10,
+		"title_BeginnerNaviTitle": 10,
+		"questionText": "2章に入ってから\n敵が強くなってしまって…",
+		"answerText": "2章からはスキルを習得している\n敵が出現するわ！\n「敵ユニット」>「info」>「スキ\nルアイコン」をタップすることで、\n敵が習得しているスキル効果を確\n認することができるわよ！\nユニットのレベルを上げることも重\n要だから、頑張ってね！",
+		"descriptionImage": "n_image09",
+		"movePage_BeginnerNaviMovePage": 3,
+		"frameNumber": 2
+	},
+	{
+		"ID": 11,
+		"title_BeginnerNaviTitle": 11,
+		"questionText": "トマt…アイテムは\nどこで入手できますか？",
+		"answerText": "生命水などのアイテムはクエスト\nをクリアしたりすると入手できる\nわよ。その他にもショップの「育成ショップ」でも購入することができるわよ！",
+		"descriptionImage": "n_image11",
+		"movePage_BeginnerNaviMovePage": 12,
+		"frameNumber": 1
+	},
+	{
+		"ID": 12,
+		"title_BeginnerNaviTitle": 12,
+		"questionText": "レアメダルは\nどこで使うのでしょうか…\nトマト買えるかなぁ…",
+		"answerText": "レアメダルはショップの「レアメ\nダルショップ」でアイテムなどと\n交換することができるわよ。\n交換できる物は定期的に変わるか\nら注意しなさい！\nその他にも武具の修復の際にレア\nメダルを10個消費することで確実に修復することができるわ！\nさすがにトマトは交換できない\n……よね？",
+		"descriptionImage": "n_image12",
+		"movePage_BeginnerNaviMovePage": 12,
+		"frameNumber": 3
+	},
+	{
+		"ID": 13,
+		"title_BeginnerNaviTitle": 13,
+		"questionText": "マスターがデータ連携について知りたがってるのですが…",
+		"answerText": "データ連携を行うことで、複数の端末でプレイする時や機種変更をした後も、同じプレイデータで遊ぶことができるのよ。\n「MENU」 > 「データ連携」からパスワードを発行したら、その後、新しい端末で「ファントム オブ キル」を起動して、タイトル画面の下側にある「アカウント管理」から、データ連携で設定したパスワードを入力してね。",
+		"descriptionImage": "n_image23",
+		"movePage_BeginnerNaviMovePage": 13,
+		"frameNumber": 4
+	},
+	{
+		"ID": 14,
+		"title_BeginnerNaviTitle": 14,
+		"questionText": "私も…強くなりたいんです！",
+		"answerText": "まずはユニットのレベルを上げる\nことが重要よ！\n姫統合をしたり、レベルを上げて進化させたりするの！それと武具を装備させるのも忘れてはだめよ？\nユニットのレベルを効率的に上げたいなら「メタルガーデン」に挑戦することをおすすめするわ！",
+		"descriptionImage": "",
+		"movePage_BeginnerNaviMovePage": 3,
+		"frameNumber": 6
+	},
+	{
+		"ID": 15,
+		"title_BeginnerNaviTitle": 15,
+		"questionText": "えぇっと…姫統合って\nどんな物なんでしょうか？",
+		"answerText": "最大30体のキル姫を素材にするか、曜日クエストで獲得できる「人形」を素材にすると効率的に能力を上げることができるわ！",
+		"descriptionImage": "n_image15",
+		"movePage_BeginnerNaviMovePage": 7,
+		"frameNumber": 1
+	},
+	{
+		"ID": 16,
+		"title_BeginnerNaviTitle": 16,
+		"questionText": "姫進化…\nどうなってしまうのでしょうか？",
+		"answerText": "キル姫を上位のレアリティに進化\nさせることができるのよ！\n進化するにはキル姫のレベルを初\n期上限まであげることと、決めら\nれた進化素材、ゼニーを準備する\n必要があるの。\n進化可能な回数は、キル姫ごとに決まっているわよ。\n例）「ドラゴンナイト」→「アー\nクドラグナー」\n全く別のジョブに進化したり、上\n位から下位のレアリティへ進化す\nることはできないから注意してね！",
+		"descriptionImage": "n_image16",
+		"movePage_BeginnerNaviMovePage": 8,
+		"frameNumber": 3
+	},
+	{
+		"ID": 17,
+		"title_BeginnerNaviTitle": 17,
+		"questionText": "進化素材はどこで\n手に入れたらいいですか？",
+		"answerText": "進化素材は、曜日クエストをクリ\nアすると入手できるわよ。\n難しいクエストほどレアな進化素材が入手できるから、\n頑張ってチャレンジしてね！\nそれと曜日クエストは曜日で内容\nが変化するから、毎日チェックす\nるのよ！",
+		"descriptionImage": "n_image17",
+		"movePage_BeginnerNaviMovePage": 3,
+		"frameNumber": 2
+	},
+	{
+		"ID": 18,
+		"title_BeginnerNaviTitle": 18,
+		"questionText": "スキルを\nなかなか覚えられません…",
+		"answerText": "スキルはユニットのレベルを上げ\nることで特定の物を習得できるわ！\nスキルを覚えるレベルはユニット\nによって違うから気をつけてね。\nそれ以外にもキャラクタークエス\nトを全てクリアすることで、そのユ\nニット個有のスキルを習得できる\nのよ！",
+		"descriptionImage": "n_image18",
+		"movePage_BeginnerNaviMovePage": 3,
+		"frameNumber": 2
+	},
+	{
+		"ID": 19,
+		"title_BeginnerNaviTitle": 19,
+		"questionText": "強い武具が欲しいんですが…",
+		"answerText": "強い武具を入手する為には、武具\n統合を繰り返すといいわ！\n統合した武具は消滅してしまうけ\nど、統合に使用した武具のレアリ\nティなどによっては、より強力な\n武具が獲得できるわよ！",
+		"descriptionImage": "n_image19",
+		"movePage_BeginnerNaviMovePage": 10,
+		"frameNumber": 1
+	},
+	{
+		"ID": 20,
+		"title_BeginnerNaviTitle": 20,
+		"questionText": "せっかく手に入れた武具が\n装備できないんです…",
+		"answerText": "武具の装備には武器系統にあった\nユニットを選ぶ必要があるわ。\n武具にはそれぞれ装備に必要な熟練度があるから注意してね！\n例）☆☆☆☆☆☆の剣の場合、\n剣熟練度S以上のユニットのみが\n装備できる",
+		"descriptionImage": "n_image20",
+		"movePage_BeginnerNaviMovePage": 1,
+		"frameNumber": 2
+	},
+	{
+		"ID": 21,
+		"title_BeginnerNaviTitle": 21,
+		"questionText": "武具の熟練度とは\nどんなものでしょうか？",
+		"answerText": "熟練度っていうのは、どれだけう\nまくその武具を使えるかのランク\nね。対応した武器系統の武具をユ\nニットに装備させて敵ユニットを\n倒していくことで熟練度は上がっていくわよ！\n熟練度を上げないと装備できない\n武具もあるから注意してね！\n※ 盾の熟練度を上げたい場合も同様です。",
+		"descriptionImage": "n_image21",
+		"movePage_BeginnerNaviMovePage": 1,
+		"frameNumber": 3
+	},
+	{
+		"ID": 22,
+		"title_BeginnerNaviTitle": 22,
+		"questionText": "武具のRANK…\nどうすれば上がるのでしょうか？",
+		"answerText": "武具のRANKを上げるにはRANKを上げたい武具を\nユニットに装備するの！\n装備ができたらクエストで敵ユニットを倒していけば\nRANKが上がるわよ！\n※ 盾のRANKを上げたい場合も同様です。",
+		"descriptionImage": "n_image22",
+		"movePage_BeginnerNaviMovePage": 3,
+		"frameNumber": 2
+	},
+	{
+		"ID": 23,
+		"title_BeginnerNaviTitle": 23,
+		"questionText": "教えてMAIちゃん♥",
+		"answerText": "<link=\"https://pk.fg-games.co.jp/news/3819/\"/>",
+		"descriptionImage": "",
+		"movePage_BeginnerNaviMovePage": 1,
+		"frameNumber": 2
+	}
+]

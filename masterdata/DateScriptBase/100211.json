@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 100211,
+		"script": ";;,話しかけたら怒る？(小)\n;;,触ったら怒る？(大)\n;;,見つめてたら怒る？(中)\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_planetarium\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 0 0\n# face %(unit_a)s \"usual\"\n@\nマスターは\nレーヴァテインを誘って\nプラネタリウムにやってきた\n\n# textflame 1 1\n# voice 1002 \"revatein_0003\"\n@レーヴァテイン\nへー…\n綺麗…\n\n@レーヴァテイン\n…………\n\n# face %(unit_a)s \"angry\"\n# voice 1002 \"revatein_0009\"\n@レーヴァテイン\n…なに？\n\n# select \"話しかけたら怒る？\" \"select_label_01\" \"触ったら怒る？\" \"select_label_02\" \"見つめてたら怒る？\" \"select_label_03\"\n…なに？\n\n# label \"select_label_01\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_02\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_03\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_end\"\n# waitandnext 0.1\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

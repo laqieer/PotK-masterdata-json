@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 600511,
+		"script": ";;他のお店にする？,小\n;;少し待とうか,中\n;;待つ時間も楽しい,大\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background %(background)s\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 0 0\n@\nマスターは\nケーリュケイオンに連れられて\n昼のカフェに足を運んでいた\n\n# voice 6005 \"keryukeion_0004\"\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@ケーリュケイオン\nふふっ、情報通り…\n\n# textflame 1 1\n@ケーリュケイオン\n今日のこの時間は\n限定フェア中みたいね\n\n# textflame 1 1\n@ケーリュケイオン\nそれにしても\nすっごい混んでる…\n;;----------------------------------------\n\n# face %(unit_a)s \"sad\"\n# voice 6005 \"keryukeion_0028\"\n# textflame 1 1\n@%(unitName:unit_a)s\nすぐには座れないかも？\n\n# select \"他のお店にする？\" \"select_label_01\" \"少し待とうか\" \"select_label_02\" \"待つ時間も楽しい\" \"select_label_03\"\nすぐには座れないかも？\n\n# label \"select_label_01\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_02\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_03\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_end\"\n# waitandnext 0.1\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

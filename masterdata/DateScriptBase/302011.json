@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 302011,
+		"script": ";;水槽入りたい？,大\n;;お客様困ります,中\n;;魚が見えないよ,小\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background %(background)s\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 0 0\n@\nマスターは\nピサールを誘って\n水族館にやってきた\n\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@ピサール\nいいなぁ～\nお魚さん気持ちよさそう～…\n\n;;----------------------------------------\n# textflame 1 1\n@%(unitName:unit_a)s\nあ～……\n水槽つめた～い……\n\n# select \"水槽入りたい？\" \"select_label_01\" \"お客様困ります\" \"select_label_02\" \"魚が見えないよ\" \"select_label_03\"\nあ～……\n水槽つめた～い……\n\n# label \"select_label_01\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_02\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_03\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_end\"\n# waitandnext 0.1\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

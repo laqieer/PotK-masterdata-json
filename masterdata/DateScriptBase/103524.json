@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 103524,
+		"script": "# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_onsen\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n@ダモクレス\nえー\nせっかくマスターと\n一緒のお風呂なのに…\n\n# textflame 0 0\n@\nふてくされるダモクレスを説得し\nきちんと肩まで温泉に\n浸からせる\n\n# face %(unit_a)s \"angry\"\n# textflame 1 1\n@ダモクレス\nぶぅ…\nあぁ～、せっかくだから\nマスターと遊びたかったなぁ\n\n# textflame 0 0\n@\nゆったりと温泉に浸かり\n体力を回復させた\n\n# textflame 0 0\n@\nだが、ダモクレスはしばらく\n機嫌が悪いままだった…\n\n;;----------------------------------------\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

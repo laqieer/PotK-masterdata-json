@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 100812,
+		"script": "# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_park_day\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# voice 1008 \"guramu_0023\"\n# face %(unit_a)s \"sad\"\n@%(unitName:unit_a)s\nえ！？\nえ～っと…\n知りたい…？\n\n# textflame 1 1\n@%(unitName:unit_a)s\n…………\n\n# textflame 0 0\n@\nグラムは妙にもったいぶっている\n\n# face %(unit_a)s \"usual\"\n# voice 1008 \"guramu_0008\"\n# textflame 1 1\n@%(unitName:unit_a)s\nマスターと私が…その…\nとっても、お似合いだって…\n\n# textflame 0 0\n@\nその鳥たちに\nグラムはどう返したのだろう…？\n\n# textflame 1 1\n@%(unitName:unit_a)s\nこの人は私のマスターだから\nそういうんじゃないよ～、って…\n\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@%(unitName:unit_a)s\nあ、あれ…？\nなんでがっかりしてるの！？\n\n# voice 1008 \"guramu_0024\"\n# textflame 1 1\n@%(unitName:unit_a)s\nちがっ…ホントはね！\nこの人は自慢のかれ…\nい、いや…じゃなくて～～！！\n\n# textflame 0 0\n@\nあまりの慌てぶりに\nつい声を出して笑ってしまう\n\n# voice 1008 \"guramu_0028\"\n# textflame 1 1\n@%(unitName:unit_a)s\nも、もう…笑わないでよ～！\n\n# textflame 0 0\n@\n静かな森に、\n賑やかな二人の声が\n響くのだった――\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

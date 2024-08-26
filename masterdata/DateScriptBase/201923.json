@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 201923,
+		"script": ";;C シユウは強いからね 中\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_fireworks\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 2019 \"chihyu_unit_0006\"\n@シユウ\nうん！シユウはつよい！\nだからヘーキヘーキ！\n\n# face %(unit_a)s \"smile\"\n# voice 2019 \"chihyu_0004\"\n@シユウ\nますた～、わかってるな！\nさすがはシユウのともだち！\n\n# face %(unit_a)s \"usual\"\n@シユウ\nでもシユウがつよいのは\nここだけのはなし…\n\n# face %(unit_a)s \"smile\"\n@シユウ\nますた～が、いるからだな！\n\n# voice 2019 \"chihyu_0005\"\n@シユウ\nだからずっといっしょ！\nかくれんぼのときだってな！\n\n# textflame 0 0\n@\nシユウとのデートを\n花火を眺めて過ごした…\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

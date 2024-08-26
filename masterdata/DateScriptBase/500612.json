@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 500612,
+		"script": "# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_church\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# face %(unit_a)s \"angry\"\n# voice 5006 \"megido_0022\"\n@メギド\nいつ、どこで、なにを、どのように\nのぞき見たのか述べなさい\n\n# textflame 0 0\n@\nマスターは、ほんの出来心で\n浴場をのぞいたことを\n素直に打ち明けた…\n\n# textflame 1 1\n@メギド\n…湯浴みをしていた者の名を\nどこまで見えたのかも詳しく…！\n\n# voice 5006 \"megido_0028\"\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@メギド\n皆、水着を着ていた…？\nそれを「見えなかった」と\n貴方は定義するのね？\n\n# textflame 0 0\n@\n完全に墓穴を掘ったことを\n理解するマスター…\n\n# face %(unit_a)s \"angry\"\n# textflame 1 1\n@メギド\nうつむいてないで答えなさい\nまだ懺悔は終わっていないわ\n肝心なことを述べていないでしょう！\n\n# voice 5006 \"megido_0024\"\n# textflame 1 1\n@メギド\nそこに…私は！\nいたのか！\nいなかったのか！！\n\n# textflame 0 0\n@\n怒ったような照れたような\n真っ赤な顔で問い詰めてくるメギド\n\n# textflame 0 0\n@\n湯けむりの向こうの\nメギドの姿を思い出しながら\nマスターは覚悟を決めた――\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

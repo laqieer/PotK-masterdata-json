@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 502425,
+		"script": ";;はずれ\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_fireworks\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 0 0\n@\nマスターは\n雑賀を誘って\n花火大会にやってきた\n\n# textflame 1 1\n@雑賀\n戦おなじみの銃も…\nあの花火も…\n\n# voice 5024 \"saika_0013\"\n@雑賀\n同じ火薬を使ってるんすよねぇ\n\n# textflame 0 0\n@\n僕の心の火薬にも火がついた\nそう答えるマスター\n\n# textflame 1 1\n# face %(unit_a)s \"angry\"\n# voice 5024 \"saika_0023\"\n@雑賀\nなんの話や！！\n\n# textflame 0 0\n@\nするどいツッコミが\nマスターの胸に炸裂する\n\n# textflame 1 1\n# voice 5024 \"saika_0008\"\n# face %(unit_a)s \"normal\"\n@雑賀\nっっっっ……！\nまんまと釣られたっすぅぅう！！\n\n# textflame 0 0\n@\n花火よりも\nずっとずっと顔を真っ赤にする\n雑賀であった…\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

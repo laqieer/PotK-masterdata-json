@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 3101412,
+		"script": "# script \"lisp\"\n# body 601211\n# pos 601211 4\n# body 24\n# pos 24 2\n# textboxarrow 0 3\n# chara 601211\n# voice 6012 \"uroboros_0022\"\n# face 601211 \"surprise\"\n@ウロボロス\nな、なんじゃ？\nうぬらは我の邪魔をする気か？\n\n# serif 1\n# textboxarrow 1 1\n# chara 24\n# face 24 \"angry\"\n# voice 1014 \"tyrufing_battle_0005\"\n@ティルフィング\n…っ、すごい気迫！？\nアナタは…何者なんですか？\n\n# face 601211 \"angry\"\n# serif 0\n# chara 601211\n# voice 6012 \"uroboros_0007\"\n@ウロボロス\n…フン\nうぬらに答えを与える者ではない\n\n# chara 601211\n# voice 6012 \"uroboros_0028\"\n@ウロボロス\n邪魔だてするなら…\n我も容赦はせんぞ？\n\n# face 24 \"surprise\"\n# serif 1\n# chara 24\n# voice 1014 \"tyrufing_0025\"\n@ティルフィング\n邪魔だてって、そんな…\n私は…キャッ！\n"
+	}
+]

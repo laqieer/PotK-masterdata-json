@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 93020499,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# se \"SE_0732\"\n# voice 3020 \"pisear_0039\"\n@ピサール\nへえ～、さすがはマスター、\nこれくらいは余裕って、\n感じだねえ～\n\n# textflame 1 1\n@ピサール\nきみがちゃんとわたしのこと、\n理解してくれてたみたいで、\n安心したよお～\n\n# textflame 1 1\n@ピサール\nふぅ…なんだか体が熱くなってきた…\n\n# textflame 1 1\n@ピサール\nわたしのことを、\n理解してくれてるマスターなら、\n今なにが欲しいかわかるよねえ～？\n\n# voice 3020 \"pisear_0004\"\n# textflame 1 1\n@ピサール\nそうそう、冷た～いお水…\nたっぷりと欲しいなあ～、\nアイスでもいいよ～\n\n# textflame 0 0\n@\n笑顔で言う彼女のわがままに、\nマスターは喜んで付き合う\n\n# textflame 0 0\n@\n嬉しそうにする彼女との絆が、\nより深まったことを実感した…\n\n# textflame 0 0\n@\nそれはマスターとしても、\nとても嬉しいものだった\n\n# textflame 0 0\n@\nこれからもがんばれそうだ\nピサールの笑顔を見ながら\nそう実感するマスターであった\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

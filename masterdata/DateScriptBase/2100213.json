@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 2100213,
+		"script": "# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_park_day\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n@レーヴァテイン\nへえ、マスターも眠いんだ…\n\n@レーヴァテイン\nそれじゃあ一緒に\nここで寝る？\n\n;;モノローグ\n# textflame 0 0\n@\nそれに頷いてみせると、\n彼女は小さく笑みを浮かべた\n\n# voice 210022 \"revatein_k_0004\"\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@レーヴァテイン\n冗談よ…\n二人で公園に来て\n寝たら意味がないでしょ\n\n@レーヴァテイン\nなにかするのはめんどうだけど、\n話し相手ぐらいにはなったげる…\n\n# voice 210022 \"revatein_k_0001\"\n# face %(unit_a)s \"usual\"\n@レーヴァテイン\nほら、マスター\nなにか面白いこと話して…\n\n@レーヴァテイン\n何でもいいよ…\n最近のこととか、いろいろ\n\n;;モノローグ\n# textflame 0 0\n@\nじっとこっちを見つめ、\n無茶振りを始める彼女に慌てつつ、\n最近のことをゆっくりと話す\n\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@レーヴァテイン\nふぅん…\nそうなんだ\n\n;;モノローグ\n# textflame 0 0\n@\nそっけなく相槌を打つ彼女だが、\nかすかに楽しそうにも見えた…\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 94006299,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# se \"SE_0732\"\n# voice 4006 \"azusa_0005\"\n@梓弓\nふふっ…その通りです\n正解ですよ、マスター\n\n@梓弓\nやはりあなた様は\nわたくしのことを\n大切に思って下さっている…\n\n# eye %(unit_a)s \"close\"\n@梓弓\n…こんなに嬉しいことは\nありません\n\n# eye %(unit_a)s \"normal\"\n# voice 4006 \"azusa_0030\"\n@梓弓\nマスター…\nありがとうございます\n\n@梓弓\nでは、まいりましょう…\n\n# textflame 0 0\n@\n梓弓はそう言って微笑むと\nゆっくり歩き出す\n\n@\n控えめだが嬉しそうなその様子に\nマスターは彼女との絆が\nまた深まったのを実感した…\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

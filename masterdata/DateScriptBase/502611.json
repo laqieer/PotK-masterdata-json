@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 502611,
+		"script": ";;A中向かい合わせの方がいいよね\n;;B大隣同士の方がいいよね\n;;C小友達同士ならいいんじゃない？\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_cafe\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# face %(unit_a)s \"usual\"\n# textflame 0 0\n@\nマスターは、ゆんゆんを連れて\n見かけたカフェへと入った\n\n# face %(unit_a)s \"sad\"\n# voice 250261 \"yunyun_0008\"\n# textflame 1 1\n@ゆんゆん\nま、参ったなぁ\nソファ席しか空いてないわ\n\n# face %(unit_a)s \"normal\"\n@ゆんゆん\n同じ場所にふたりで座るなんて\nちょっと恥ずかしいです\n\n@ゆんゆん\n席が小さくて\n身体とか当たっちゃいそうですね…\n\n# select \"向かい合わせの方がいいよね\" \"select_label_01\" \"隣同士の方がいいよね\" \"select_label_02\" \"友達同士ならいいんじゃない？\" \"select_label_03\"\n席が小さくて\n身体とか当たっちゃいそうですね…\n\n# label \"select_label_01\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_02\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_03\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_end\"\n# waitandnext 0.1\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

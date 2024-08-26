@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 400514,
+		"script": "# script \"lisp\"\n# fadein \"black\" 0.5\n# background %(background)s\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n@与一\n…っ！！\n\n# textflame 1 1\n# face %(unit_a)s \"angry\"\n@与一\n与一、ここから迎え撃ちます！\nマスターはどうぞ\n天守閣へお下がりください！！\n\n# textflame 0 0\n@\n思わず顔を見合わせて\n穏やかに笑い合う\n\n# textflame 1 1\n# voice 4005 \"yoichi_0004\"\n# face %(unit_a)s \"smile\"\n@与一\nうふふ\n\n# textflame 0 0\n@\nしばらくノリノリで\n敵襲迎撃ごっこをする\n二人であった…\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

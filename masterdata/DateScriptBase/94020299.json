@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 94020299,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# se \"SE_0732\"\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n@ヒョウハ\nその答え…\n\n# face %(unit_a)s \"smile\"\n# voice 540201 \"hyoha_c_0041\"\n@ヒョウハ\n大正解！！\n\n@ヒョウハ\nさすが師匠！\nあたしのことよくわかってるな！\n\n# voice 540201 \"hyoha_c_0030\"\n@ヒョウハ\n今日は誘ってくれてありがとな！\n超爆・楽しかったぞ！！\n\n# voice 540201 \"hyoha_c_0004\"\n@ヒョウハ\nへへっ…\n改めて言おうとすると\nなんか少し照れくさくてさ\n\n@ヒョウハ\nまっ、そういうことだからっ\nまた誘ってくれよな、師匠！\n\n# alpha %(unit_a)s 0 0.5\n# textflame 0 0\n@\nそう言って、駆けて行く\n\n@\n少し気恥しそうに浮かべた\n彼女の照れ笑いを、マスターは\nとても愛しく思うのだった…\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

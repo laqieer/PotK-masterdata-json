@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 10026301,
+		"script": "# script \"lisp\"\n# background \"antiquity\"\n# bgm \"bgm001\" 0\n# body 100261\n# mask 100261 off\n# pos 100261 3\n# textboxarrow 0 2\n# chara 100261\n# voice 1002 \"revatein_0013\"\n@レーヴァテイン\n…は？\n遊び…に？\n\n# chara 100261\n@レーヴァテイン\nなんで私が…\nほかにも選抜隊の子はいるんでしょ？\nその子達と行ってきてよ\n\n# textflame 0 0\n@\n水着になっても、\n相変わらずやる気のない\nレーヴァテイン\n\n# textflame 0 0\n@\n木の陰でビーチパラソルを差し、\n動こうともしない\n\n# textflame 1 1\n# voice 1002 \"revatein_kyara_1011\"\n# chara 100261\n@レーヴァテイン\nん？\nなによ…？\n\n# face 100261 \"angry\"\n# voice 1002 \"revatein_kyara_1013\"\n# chara 100261\n@レーヴァテイン\nなにジーッと見てんの？\nヘンタイ…\n消すよ？\n\n# textflame 0 0\n@\n目から感じる殺気に怯むマスター\n\n# face 100261 \"normal\"\n# textflame 1 1\n# voice 1002 \"revatein_0027\"\n# chara 100261\n@レーヴァテイン\n今日は戦闘はお休みでしょ？\nだったらなにしてたって、\n自由じゃない？\n\n# voice 1002 \"revatein_0010\"\n# chara 100261\n@レーヴァテイン\nただでさえ、\nこんな格好させられて\nムカついてんのに…\n\n# voice 1002 \"revatein_0013\"\n# chara 100261\n@レーヴァテイン\nだから、行かないって…\n\n# voice 1002 \"revatein_0012\"\n# chara 100261\n@レーヴァテイン\nなんでって…\n\n# face 100261 \"worry2\"\n# voice 1002 \"revatein_0023\"\n# chara 100261\n@レーヴァテイン\n…………\n\n# chara 100261\n@レーヴァテイン\n焼けたくないからに…\n決まってるでしょ…\n\n# textflame 0 0\n@\n一瞬見せた悲しい目\nそのまま彼女がパラソルから\n出ることはなかった"
+	}
+]

@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 96020399,
+		"script": ";;//正解\n# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body 2602011\n# pos 2602011 3\n# mask 2602011 off\n# chara 2602011\n# fadein \"black\" 0.5\n# textflame 1 1\n# face 2602011 \"smile\"\n# se \"SE_0732\"\n# voice 6020 \"ness_0020\"\n@ネス\n正解です、マスター\nありがとうございます…\n\n# face 2602011 \"usual\"\n@ネス\nなんでお礼を言うのか、ですか？\n\n# face 2602011 \"smile\"\n@ネス\nそれは…マスターがちゃんと\nわたしのことを\n知っててくれたからです\n\n@ネス\nマスターに楽しんでもらうための\nクイズでしたけど\nわたしまで嬉しくなりました\n\n;;モノローグ\n# textflame 0 0\n@\n機嫌がよさそうに\n笑顔を見せながら歩くネス\n\n;;モノローグ\n@\nそんな彼女の様子を見て\nマスターもまた\nうれしく思うのだった…\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

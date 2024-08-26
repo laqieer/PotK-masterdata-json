@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 93003199,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# se \"SE_0732\"\n# voice 3003 \"hotengageki_0020\"\n@方天画戟\nそのとおり！\n\n# voice 3003 \"hotengageki_0005\"\n# eye %(unit_a)s \"close\"\n@方天画戟\nなんだなんだ！\nオレの口から\nわざわざ言うまでもなかったか？\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"normal\"\n@方天画戟\n…お前のそういうところが\n君主の器なんだろうなぁ！\n\n# textflame 0 0\n@\n豪快に笑う彼女は\nとてもとても嬉しそうだった\n\n@\nそんな特別な表情がみれて\n彼女との絆が\nまた深まったのを実感した…\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

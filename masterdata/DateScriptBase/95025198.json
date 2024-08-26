@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 95025198,
+		"script": ";;//不正解\n# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# se \"SE_0733\"\n@めぐみん\n…そうですか\n\n;;モノローグ\n# textflame 0 0\n@\n暗い顔をするめぐみんを見て、\n自分が間違ったことに気が付いた\n\n# textflame 1 1\n@めぐみん\n…………\n\n# voice 5025 \"megumin_0026\"\n# face %(unit_a)s \"worry\"\n@めぐみん\nいえ、突然振ってしまって\nすみません\n\n@めぐみん\nマスター\n遅くならないうちに帰りましょう\n\n;;モノローグ\n# textflame 0 0\n@\n帽子で表情を隠そうとする\nめぐみん\n\n;;モノローグ\n# textflame 0 0\n@\n楽しい時間が台無しになった感覚\n次はちゃんと答れるようになろうと\n決心した…\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

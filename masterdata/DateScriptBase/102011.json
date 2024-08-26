@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 102011,
+		"script": ";;A,小\n;;B,中\n;;C,大\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_ferris\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# face %(unit_a)s \"normal\"\n# textflame 0 0\n@\nこの世界にも遊園地があると知り、\nマスターに案内をお願いしたさやか\n\n@\n気の向くままに\nアトラクションを乗り尽くした後、\n観覧車で休憩を取ることに\n\n# face %(unit_a)s \"happy\"\n# voice 1020 \"sayaka_0005\"\n# textflame 1 1\n@%(unitName:unit_a)s\nいやー、堪能したー！\n満足満足～♪\n\n@%(unitName:unit_a)s\nごめんね～？\nいろいろ連れ回しちゃって\n\n# face %(unit_a)s \"normal\"\n@%(unitName:unit_a)s\n面白そうなアトラクション\nばっかりだったからさ、\nついテンション上がって…あはは！\n\n@%(unitName:unit_a)s\nさて、観覧車降りたら\n次はどうしようかな\n\n# voice 1020 \"sayaka_0002\"\n@%(unitName:unit_a)s\n行きたいところはある？\n今度はマスターが決めていいよ！\n\n# select \"絶叫マシン\" \"select_label_01\" \"広場のパレード\" \"select_label_02\" \"そろそろ家に…\" \"select_label_03\"\n行きたいところはある？\n今度はマスターが決めていいよ！\n\n# label \"select_label_01\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_02\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_03\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_end\"\n# waitandnext 0.1\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

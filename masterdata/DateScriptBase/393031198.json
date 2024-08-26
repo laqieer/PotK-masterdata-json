@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 393031198,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# se \"SE_0733\"\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n@カシウス\nその答え…\n\n# face %(unit_a)s \"surprise\"\n@カシウス\n不正解よ\n\n# voice 530311 \"cassius_ca_0015\"\n@カシウス\nきっと以前の御館様なら、\n正解してくれた…\n\n@カシウス\n御館様は…\n変わってしまった…\n\n@カシウス\nやはり…\nこの世に不変なものなど\n存在しないのね…\n\n# textflame 0 0\n@\n悲しげな瞳を見せる彼女\n\n@\nマスターは、彼女を\n傷つけてしまったことを\n深く後悔するのだった…\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

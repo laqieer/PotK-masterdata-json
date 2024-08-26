@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 93020299,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# se \"SE_0732\"\n# voice 3020 \"pisear_0039\"\n@ピサール\nおお～、\nさすがだねマスター\n\n# textflame 1 1\n@ピサール\nこんなにわかってもらえてたなんて、さすがに少し照れくさいかも…\n\n# textflame 1 1\n@ピサール\nん～…おかげで体がすごく熱いし…\n\n# voice 3020 \"pisear_kyara_1027\"\n# textflame 1 1\n@ピサール\nこれは帰っても\n水に浸かってないとダメかもね～\n\n# textflame 1 1\n@ピサール\nマスターも一緒に浸かる～？\n…なんてね～\n\n# textflame 1 1\n@ピサール\n…ま、わたしは構わないけどね～\n\n# textflame 0 0\n@\nなんてことを言いながら、\n彼女は帰路を歩いていく\n\n# textflame 0 0\n@\nその背中は、\nどこか浮かれているような様子で…\n\n# textflame 0 0\n@\nそれを見ていると、\nマスターも嬉しく思えてくるのだった\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

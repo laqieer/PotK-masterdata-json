@@ -1,0 +1,302 @@
+[
+	{
+		"ID": 5623,
+		"unitID": 2203111,
+		"questionID": 9203101,
+		"script": ";;斧,2\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 520311 \"nyoikinkobou_c_0004\"\n@如意金箍棒\n今日は楽しかったよ\n\n# voice 520311 \"nyoikinkobou_c_0001\"\n@如意金箍棒\nねぇ、お師様\n\n@如意金箍棒\nデートのお礼に、\nしてほしいことがあったら、\nなんでも言ってね？\n\n# textflame 0 0\n@\nな、なんでも…！？\n焦ってドギマギを\n隠せないマスター\n\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 520311 \"nyoikinkobou_c_0022\"\n@如意金箍棒\nあれ？どうしたの？\nそんなに顔を赤くして\n\n# face %(unit_a)s \"normal\"\n# voice 520311 \"nyoikinkobou_c_0004\"\n@如意金箍棒\nそっか、照れて\n遠慮してるんだね\n\n@如意金箍棒\nじゃあ今からクイズを出して、\n正解したらなんでもしてあげる\nっていうのはどうかな？\n\n@如意金箍棒\nそれじゃ、いくよ\n準備はいい？\n\n# textflame 0 0\n@\nこれは絶対に間違えたくない！\n興奮気味に身構えるマスターだった\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nワタシの武器属性は知ってる？　\n\n# se \"SE_0734\"\n# select \"槍\" \"select_label_1\" \"斧\" \"select_label_2\" \"剣\" \"select_label_3\"\nワタシの武器属性は知ってる？　\n"
+	},
+	{
+		"ID": 5624,
+		"unitID": 2203111,
+		"questionID": 9203102,
+		"script": ";;フリッグ,3\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 520311 \"nyoikinkobou_c_0004\"\n@如意金箍棒\n今日は楽しかったよ\n\n# voice 520311 \"nyoikinkobou_c_0001\"\n@如意金箍棒\nねぇ、お師様\n\n@如意金箍棒\nデートのお礼に、\nしてほしいことがあったら、\nなんでも言ってね？\n\n# textflame 0 0\n@\nな、なんでも…！？\n焦ってドギマギを\n隠せないマスター\n\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 520311 \"nyoikinkobou_c_0022\"\n@如意金箍棒\nあれ？どうしたの？\nそんなに顔を赤くして\n\n# face %(unit_a)s \"normal\"\n# voice 520311 \"nyoikinkobou_c_0004\"\n@如意金箍棒\nそっか、照れて\n遠慮してるんだね\n\n@如意金箍棒\nじゃあ今からクイズを出して、\n正解したらなんでもしてあげる\nっていうのはどうかな？\n\n@如意金箍棒\nそれじゃ、いくよ\n準備はいい？\n\n# textflame 0 0\n@\nこれは絶対に間違えたくない！\n興奮気味に身構えるマスターだった\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nワタシがコマンドされたのは…？\n\n# se \"SE_0734\"\n# select \"フロッグ\" \"select_label_1\" \"フラッグ\" \"select_label_2\" \"フリッグ\" \"select_label_3\"\nワタシがコマンドされたのは…？\n"
+	},
+	{
+		"ID": 5625,
+		"unitID": 2203111,
+		"questionID": 9203103,
+		"script": ";;西遊記,1\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 520311 \"nyoikinkobou_c_0004\"\n@如意金箍棒\n今日は楽しかったよ\n\n# voice 520311 \"nyoikinkobou_c_0001\"\n@如意金箍棒\nねぇ、お師様\n\n@如意金箍棒\nデートのお礼に、\nしてほしいことがあったら、\nなんでも言ってね？\n\n# textflame 0 0\n@\nな、なんでも…！？\n焦ってドギマギを\n隠せないマスター\n\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 520311 \"nyoikinkobou_c_0022\"\n@如意金箍棒\nあれ？どうしたの？\nそんなに顔を赤くして\n\n# face %(unit_a)s \"normal\"\n# voice 520311 \"nyoikinkobou_c_0004\"\n@如意金箍棒\nそっか、照れて\n遠慮してるんだね\n\n@如意金箍棒\nじゃあ今からクイズを出して、\n正解したらなんでもしてあげる\nっていうのはどうかな？\n\n@如意金箍棒\nそれじゃ、いくよ\n準備はいい？\n\n# textflame 0 0\n@\nこれは絶対に間違えたくない！\n興奮気味に身構えるマスターだった\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nワタシのキラーズ『如意金箍棒』は\nどんな伝承に登場する？\n\n# se \"SE_0734\"\n# select \"西遊記\" \"select_label_1\" \"インド神話\" \"select_label_2\" \"ギリシャ神話\" \"select_label_3\"\nワタシのキラーズ『如意金箍棒』は\nどんな伝承に登場する？\n"
+	},
+	{
+		"ID": 5626,
+		"unitID": 2203111,
+		"questionID": 9203104,
+		"script": ";;にょいきんこぼう,1\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 520311 \"nyoikinkobou_c_0004\"\n@如意金箍棒\n今日は楽しかったよ\n\n# voice 520311 \"nyoikinkobou_c_0001\"\n@如意金箍棒\nねぇ、お師様\n\n@如意金箍棒\nデートのお礼に、\nしてほしいことがあったら、\nなんでも言ってね？\n\n# textflame 0 0\n@\nな、なんでも…！？\n焦ってドギマギを\n隠せないマスター\n\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 520311 \"nyoikinkobou_c_0022\"\n@如意金箍棒\nあれ？どうしたの？\nそんなに顔を赤くして\n\n# face %(unit_a)s \"normal\"\n# voice 520311 \"nyoikinkobou_c_0004\"\n@如意金箍棒\nそっか、照れて\n遠慮してるんだね\n\n@如意金箍棒\nじゃあ今からクイズを出して、\n正解したらなんでもしてあげる\nっていうのはどうかな？\n\n@如意金箍棒\nそれじゃ、いくよ\n準備はいい？\n\n# textflame 0 0\n@\nこれは絶対に間違えたくない！\n興奮気味に身構えるマスターだった\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nワタシのキラーズ『如意金箍棒』…\n何て読むか知ってる？\n\n# se \"SE_0734\"\n# select \"にょいきんこぼう\" \"select_label_1\" \"にょいきんたぼう\" \"select_label_2\" \"にょいきんごぼう\" \"select_label_3\"\nワタシのキラーズ『如意金箍棒』…\n何て読むか知ってる？\n"
+	},
+	{
+		"ID": 5627,
+		"unitID": 2203111,
+		"questionID": 9203105,
+		"script": ";;孫悟空,2\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 520311 \"nyoikinkobou_c_0004\"\n@如意金箍棒\n今日は楽しかったよ\n\n# voice 520311 \"nyoikinkobou_c_0001\"\n@如意金箍棒\nねぇ、お師様\n\n@如意金箍棒\nデートのお礼に、\nしてほしいことがあったら、\nなんでも言ってね？\n\n# textflame 0 0\n@\nな、なんでも…！？\n焦ってドギマギを\n隠せないマスター\n\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 520311 \"nyoikinkobou_c_0022\"\n@如意金箍棒\nあれ？どうしたの？\nそんなに顔を赤くして\n\n# face %(unit_a)s \"normal\"\n# voice 520311 \"nyoikinkobou_c_0004\"\n@如意金箍棒\nそっか、照れて\n遠慮してるんだね\n\n@如意金箍棒\nじゃあ今からクイズを出して、\n正解したらなんでもしてあげる\nっていうのはどうかな？\n\n@如意金箍棒\nそれじゃ、いくよ\n準備はいい？\n\n# textflame 0 0\n@\nこれは絶対に間違えたくない！\n興奮気味に身構えるマスターだった\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nワタシのキラーズ『如意金箍棒』の\n持ち主って誰でしょうか？\n\n# se \"SE_0734\"\n# select \"沙悟浄\" \"select_label_1\" \"孫悟空\" \"select_label_2\" \"猪八戒\" \"select_label_3\"\nワタシのキラーズ『如意金箍棒』の\n持ち主って誰でしょうか？\n"
+	},
+	{
+		"ID": 5628,
+		"unitID": 2203111,
+		"questionID": 9203106,
+		"script": ";;8トン,2\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 520311 \"nyoikinkobou_c_0004\"\n@如意金箍棒\n今日は楽しかったよ\n\n# voice 520311 \"nyoikinkobou_c_0001\"\n@如意金箍棒\nねぇ、お師様\n\n@如意金箍棒\nデートのお礼に、\nしてほしいことがあったら、\nなんでも言ってね？\n\n# textflame 0 0\n@\nな、なんでも…！？\n焦ってドギマギを\n隠せないマスター\n\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 520311 \"nyoikinkobou_c_0022\"\n@如意金箍棒\nあれ？どうしたの？\nそんなに顔を赤くして\n\n# face %(unit_a)s \"normal\"\n# voice 520311 \"nyoikinkobou_c_0004\"\n@如意金箍棒\nそっか、照れて\n遠慮してるんだね\n\n@如意金箍棒\nじゃあ今からクイズを出して、\n正解したらなんでもしてあげる\nっていうのはどうかな？\n\n@如意金箍棒\nそれじゃ、いくよ\n準備はいい？\n\n# textflame 0 0\n@\nこれは絶対に間違えたくない！\n興奮気味に身構えるマスターだった\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nワタシのキラーズ『如意金箍棒』の\n重さはどれくらいと云われている？\n\n# se \"SE_0734\"\n# select \"2㎏\" \"select_label_1\" \"8トン\" \"select_label_2\" \"３００ｇ\" \"select_label_3\"\nワタシのキラーズ『如意金箍棒』の\n重さはどれくらいと云われている？\n"
+	},
+	{
+		"ID": 5629,
+		"unitID": 2203111,
+		"questionID": 9203107,
+		"script": ";;自由に変えられる,3\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 520311 \"nyoikinkobou_c_0004\"\n@如意金箍棒\n今日は楽しかったよ\n\n# voice 520311 \"nyoikinkobou_c_0001\"\n@如意金箍棒\nねぇ、お師様\n\n@如意金箍棒\nデートのお礼に、\nしてほしいことがあったら、\nなんでも言ってね？\n\n# textflame 0 0\n@\nな、なんでも…！？\n焦ってドギマギを\n隠せないマスター\n\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 520311 \"nyoikinkobou_c_0022\"\n@如意金箍棒\nあれ？どうしたの？\nそんなに顔を赤くして\n\n# face %(unit_a)s \"normal\"\n# voice 520311 \"nyoikinkobou_c_0004\"\n@如意金箍棒\nそっか、照れて\n遠慮してるんだね\n\n@如意金箍棒\nじゃあ今からクイズを出して、\n正解したらなんでもしてあげる\nっていうのはどうかな？\n\n@如意金箍棒\nそれじゃ、いくよ\n準備はいい？\n\n# textflame 0 0\n@\nこれは絶対に間違えたくない！\n興奮気味に身構えるマスターだった\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nワタシのキラーズ\n『如意金箍棒』の長さは？\n\n# se \"SE_0734\"\n# select \"100ｍ\" \"select_label_1\" \"12㎞\" \"select_label_2\" \"自由に変えられる\" \"select_label_3\"\nワタシのキラーズ\n『如意金箍棒』の長さは？\n"
+	},
+	{
+		"ID": 5630,
+		"unitID": 2203111,
+		"questionID": 9203108,
+		"script": ";;豊穣と愛の女神,1\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 520311 \"nyoikinkobou_c_0004\"\n@如意金箍棒\n今日は楽しかったよ\n\n# voice 520311 \"nyoikinkobou_c_0001\"\n@如意金箍棒\nねぇ、お師様\n\n@如意金箍棒\nデートのお礼に、\nしてほしいことがあったら、\nなんでも言ってね？\n\n# textflame 0 0\n@\nな、なんでも…！？\n焦ってドギマギを\n隠せないマスター\n\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 520311 \"nyoikinkobou_c_0022\"\n@如意金箍棒\nあれ？どうしたの？\nそんなに顔を赤くして\n\n# face %(unit_a)s \"normal\"\n# voice 520311 \"nyoikinkobou_c_0004\"\n@如意金箍棒\nそっか、照れて\n遠慮してるんだね\n\n@如意金箍棒\nじゃあ今からクイズを出して、\n正解したらなんでもしてあげる\nっていうのはどうかな？\n\n@如意金箍棒\nそれじゃ、いくよ\n準備はいい？\n\n# textflame 0 0\n@\nこれは絶対に間違えたくない！\n興奮気味に身構えるマスターだった\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nワタシがコマンドされた『フリッグ』は\nどんな女神かな？\n\n# se \"SE_0734\"\n# select \"豊穣と愛の女神\" \"select_label_1\" \"豊満な胸の女神\" \"select_label_2\" \"豊潤な肉体の女神\" \"select_label_3\"\nワタシがコマンドされた『フリッグ』は\nどんな女神かな？\n"
+	},
+	{
+		"ID": 5631,
+		"unitID": 2203111,
+		"questionID": 9203109,
+		"script": ";;コマンドキラーズ,1\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 520311 \"nyoikinkobou_c_0004\"\n@如意金箍棒\n今日は楽しかったよ\n\n# voice 520311 \"nyoikinkobou_c_0001\"\n@如意金箍棒\nねぇ、お師様\n\n@如意金箍棒\nデートのお礼に、\nしてほしいことがあったら、\nなんでも言ってね？\n\n# textflame 0 0\n@\nな、なんでも…！？\n焦ってドギマギを\n隠せないマスター\n\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 520311 \"nyoikinkobou_c_0022\"\n@如意金箍棒\nあれ？どうしたの？\nそんなに顔を赤くして\n\n# face %(unit_a)s \"normal\"\n# voice 520311 \"nyoikinkobou_c_0004\"\n@如意金箍棒\nそっか、照れて\n遠慮してるんだね\n\n@如意金箍棒\nじゃあ今からクイズを出して、\n正解したらなんでもしてあげる\nっていうのはどうかな？\n\n@如意金箍棒\nそれじゃ、いくよ\n準備はいい？\n\n# textflame 0 0\n@\nこれは絶対に間違えたくない！\n興奮気味に身構えるマスターだった\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nワタシはこれの一員なの！\n\n# se \"SE_0734\"\n# select \"コマンドキラーズ\" \"select_label_1\" \"エンシェントキラーズ\" \"select_label_2\" \"イミテイトキラーズ\" \"select_label_3\"\nワタシはこれの一員なの！\n"
+	},
+	{
+		"ID": 5632,
+		"unitID": 2203111,
+		"questionID": 9203110,
+		"script": ";;妻,3\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 520311 \"nyoikinkobou_c_0004\"\n@如意金箍棒\n今日は楽しかったよ\n\n# voice 520311 \"nyoikinkobou_c_0001\"\n@如意金箍棒\nねぇ、お師様\n\n@如意金箍棒\nデートのお礼に、\nしてほしいことがあったら、\nなんでも言ってね？\n\n# textflame 0 0\n@\nな、なんでも…！？\n焦ってドギマギを\n隠せないマスター\n\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 520311 \"nyoikinkobou_c_0022\"\n@如意金箍棒\nあれ？どうしたの？\nそんなに顔を赤くして\n\n# face %(unit_a)s \"normal\"\n# voice 520311 \"nyoikinkobou_c_0004\"\n@如意金箍棒\nそっか、照れて\n遠慮してるんだね\n\n@如意金箍棒\nじゃあ今からクイズを出して、\n正解したらなんでもしてあげる\nっていうのはどうかな？\n\n@如意金箍棒\nそれじゃ、いくよ\n準備はいい？\n\n# textflame 0 0\n@\nこれは絶対に間違えたくない！\n興奮気味に身構えるマスターだった\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nワタシがコマンドされた\n『フリッグ』はオーディンの何？\n\n# se \"SE_0734\"\n# select \"愛人\" \"select_label_1\" \"姪\" \"select_label_2\" \"妻\" \"select_label_3\"\nワタシがコマンドされた\n『フリッグ』はオーディンの何？\n"
+	},
+	{
+		"ID": 5633,
+		"unitID": 2203111,
+		"questionID": 9203111,
+		"script": ";;氷,2\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 520311 \"nyoikinkobou_c_0023\"\n@如意金箍棒\nちょ、ちょっと～！\n\n# textflame 0 0\n@\nいきなり大声を上げる彼女\n\n# textflame 0 0\n@\n何事かと見ると、\nビコウに水着の裾を\n引っ張られている\n\n# voice 520311 \"nyoikinkobou_c_0042\"\n# textflame 1 1\n@如意金箍棒\nそんなに引っ張っちゃ…\nこぼれる、こぼれるから…っ！\n\n# textflame 0 0\n@\nそれはまずいよ！\nと慌てるマスター\n\n# textflame 1 1\n@如意金箍棒\nお師様がクイズに正解すると、\nビコウの頭の輪がしまるように\n術をかけておいたの～\n\n@如意金箍棒\nお師様、\nクイズに正解して助けて！\n\n# textflame 0 0\n@\nよくわからない術だが、\n如意金箍棒を助けるためには\n正解するしかない\n\n# textflame 0 0\n@\nともかくマスターの挑戦が始まった\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nワタシの属性はなに？\n\n# se \"SE_0734\"\n# select \"風\" \"select_label_1\" \"氷\" \"select_label_2\" \"水\" \"select_label_3\"\nワタシの属性はなに？\n"
+	},
+	{
+		"ID": 5634,
+		"unitID": 2203111,
+		"questionID": 9203112,
+		"script": ";;175cm ,3\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 520311 \"nyoikinkobou_c_0023\"\n@如意金箍棒\nちょ、ちょっと～！\n\n# textflame 0 0\n@\nいきなり大声を上げる彼女\n\n# textflame 0 0\n@\n何事かと見ると、\nビコウに水着の裾を\n引っ張られている\n\n# voice 520311 \"nyoikinkobou_c_0042\"\n# textflame 1 1\n@如意金箍棒\nそんなに引っ張っちゃ…\nこぼれる、こぼれるから…っ！\n\n# textflame 0 0\n@\nそれはまずいよ！\nと慌てるマスター\n\n# textflame 1 1\n@如意金箍棒\nお師様がクイズに正解すると、\nビコウの頭の輪がしまるように\n術をかけておいたの～\n\n@如意金箍棒\nお師様、\nクイズに正解して助けて！\n\n# textflame 0 0\n@\nよくわからない術だが、\n如意金箍棒を助けるためには\n正解するしかない\n\n# textflame 0 0\n@\nともかくマスターの挑戦が始まった\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nワタシの身長、何センチ？\n\n# se \"SE_0734\"\n# select \"155cm\" \"select_label_1\" \"160cm\" \"select_label_2\" \"175cm \" \"select_label_3\"\nワタシの身長、何センチ？\n"
+	},
+	{
+		"ID": 5635,
+		"unitID": 2203111,
+		"questionID": 9203113,
+		"script": ";;5月5日,2\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 520311 \"nyoikinkobou_c_0023\"\n@如意金箍棒\nちょ、ちょっと～！\n\n# textflame 0 0\n@\nいきなり大声を上げる彼女\n\n# textflame 0 0\n@\n何事かと見ると、\nビコウに水着の裾を\n引っ張られている\n\n# voice 520311 \"nyoikinkobou_c_0042\"\n# textflame 1 1\n@如意金箍棒\nそんなに引っ張っちゃ…\nこぼれる、こぼれるから…っ！\n\n# textflame 0 0\n@\nそれはまずいよ！\nと慌てるマスター\n\n# textflame 1 1\n@如意金箍棒\nお師様がクイズに正解すると、\nビコウの頭の輪がしまるように\n術をかけておいたの～\n\n@如意金箍棒\nお師様、\nクイズに正解して助けて！\n\n# textflame 0 0\n@\nよくわからない術だが、\n如意金箍棒を助けるためには\n正解するしかない\n\n# textflame 0 0\n@\nともかくマスターの挑戦が始まった\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nワタシの誕生日は知ってる？\n\n# se \"SE_0734\"\n# select \"6月6日\" \"select_label_1\" \"5月5日\" \"select_label_2\" \"9月9日\" \"select_label_3\"\nワタシの誕生日は知ってる？\n"
+	},
+	{
+		"ID": 5636,
+		"unitID": 2203111,
+		"questionID": 9203114,
+		"script": ";;牡牛座,2\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 520311 \"nyoikinkobou_c_0023\"\n@如意金箍棒\nちょ、ちょっと～！\n\n# textflame 0 0\n@\nいきなり大声を上げる彼女\n\n# textflame 0 0\n@\n何事かと見ると、\nビコウに水着の裾を\n引っ張られている\n\n# voice 520311 \"nyoikinkobou_c_0042\"\n# textflame 1 1\n@如意金箍棒\nそんなに引っ張っちゃ…\nこぼれる、こぼれるから…っ！\n\n# textflame 0 0\n@\nそれはまずいよ！\nと慌てるマスター\n\n# textflame 1 1\n@如意金箍棒\nお師様がクイズに正解すると、\nビコウの頭の輪がしまるように\n術をかけておいたの～\n\n@如意金箍棒\nお師様、\nクイズに正解して助けて！\n\n# textflame 0 0\n@\nよくわからない術だが、\n如意金箍棒を助けるためには\n正解するしかない\n\n# textflame 0 0\n@\nともかくマスターの挑戦が始まった\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nワタシの星座は？\n\n# se \"SE_0734\"\n# select \"射手座\" \"select_label_1\" \"牡牛座\" \"select_label_2\" \"双子座\" \"select_label_3\"\nワタシの星座は？\n"
+	},
+	{
+		"ID": 5637,
+		"unitID": 2203111,
+		"questionID": 9203115,
+		"script": ";;桃,2\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 520311 \"nyoikinkobou_c_0023\"\n@如意金箍棒\nちょ、ちょっと～！\n\n# textflame 0 0\n@\nいきなり大声を上げる彼女\n\n# textflame 0 0\n@\n何事かと見ると、\nビコウに水着の裾を\n引っ張られている\n\n# voice 520311 \"nyoikinkobou_c_0042\"\n# textflame 1 1\n@如意金箍棒\nそんなに引っ張っちゃ…\nこぼれる、こぼれるから…っ！\n\n# textflame 0 0\n@\nそれはまずいよ！\nと慌てるマスター\n\n# textflame 1 1\n@如意金箍棒\nお師様がクイズに正解すると、\nビコウの頭の輪がしまるように\n術をかけておいたの～\n\n@如意金箍棒\nお師様、\nクイズに正解して助けて！\n\n# textflame 0 0\n@\nよくわからない術だが、\n如意金箍棒を助けるためには\n正解するしかない\n\n# textflame 0 0\n@\nともかくマスターの挑戦が始まった\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nワタシが好きなものは…？\n\n# se \"SE_0734\"\n# select \"林檎\" \"select_label_1\" \"桃\" \"select_label_2\" \"苺\" \"select_label_3\"\nワタシが好きなものは…？\n"
+	},
+	{
+		"ID": 5638,
+		"unitID": 2203111,
+		"questionID": 9203116,
+		"script": ";;物にリボンを巻く,2\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 520311 \"nyoikinkobou_c_0023\"\n@如意金箍棒\nちょ、ちょっと～！\n\n# textflame 0 0\n@\nいきなり大声を上げる彼女\n\n# textflame 0 0\n@\n何事かと見ると、\nビコウに水着の裾を\n引っ張られている\n\n# voice 520311 \"nyoikinkobou_c_0042\"\n# textflame 1 1\n@如意金箍棒\nそんなに引っ張っちゃ…\nこぼれる、こぼれるから…っ！\n\n# textflame 0 0\n@\nそれはまずいよ！\nと慌てるマスター\n\n# textflame 1 1\n@如意金箍棒\nお師様がクイズに正解すると、\nビコウの頭の輪がしまるように\n術をかけておいたの～\n\n@如意金箍棒\nお師様、\nクイズに正解して助けて！\n\n# textflame 0 0\n@\nよくわからない術だが、\n如意金箍棒を助けるためには\n正解するしかない\n\n# textflame 0 0\n@\nともかくマスターの挑戦が始まった\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nワタシの趣味はなにか知ってる？\n\n# se \"SE_0734\"\n# select \"物に昆布を巻く\" \"select_label_1\" \"物にリボンを巻く\" \"select_label_2\" \"物にカンピョウを巻く\" \"select_label_3\"\nワタシの趣味はなにか知ってる？\n"
+	},
+	{
+		"ID": 5639,
+		"unitID": 2203111,
+		"questionID": 9203117,
+		"script": ";;Ａ型,3\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 520311 \"nyoikinkobou_c_0023\"\n@如意金箍棒\nちょ、ちょっと～！\n\n# textflame 0 0\n@\nいきなり大声を上げる彼女\n\n# textflame 0 0\n@\n何事かと見ると、\nビコウに水着の裾を\n引っ張られている\n\n# voice 520311 \"nyoikinkobou_c_0042\"\n# textflame 1 1\n@如意金箍棒\nそんなに引っ張っちゃ…\nこぼれる、こぼれるから…っ！\n\n# textflame 0 0\n@\nそれはまずいよ！\nと慌てるマスター\n\n# textflame 1 1\n@如意金箍棒\nお師様がクイズに正解すると、\nビコウの頭の輪がしまるように\n術をかけておいたの～\n\n@如意金箍棒\nお師様、\nクイズに正解して助けて！\n\n# textflame 0 0\n@\nよくわからない術だが、\n如意金箍棒を助けるためには\n正解するしかない\n\n# textflame 0 0\n@\nともかくマスターの挑戦が始まった\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nワタシの血液型は知ってるかな？\n\n# se \"SE_0734\"\n# select \"ＡＢ型\" \"select_label_1\" \"Ｏ型\" \"select_label_2\" \"Ａ型\" \"select_label_3\"\nワタシの血液型は知ってるかな？\n"
+	},
+	{
+		"ID": 5640,
+		"unitID": 2203111,
+		"questionID": 9203118,
+		"script": ";;中国,2\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 520311 \"nyoikinkobou_c_0023\"\n@如意金箍棒\nちょ、ちょっと～！\n\n# textflame 0 0\n@\nいきなり大声を上げる彼女\n\n# textflame 0 0\n@\n何事かと見ると、\nビコウに水着の裾を\n引っ張られている\n\n# voice 520311 \"nyoikinkobou_c_0042\"\n# textflame 1 1\n@如意金箍棒\nそんなに引っ張っちゃ…\nこぼれる、こぼれるから…っ！\n\n# textflame 0 0\n@\nそれはまずいよ！\nと慌てるマスター\n\n# textflame 1 1\n@如意金箍棒\nお師様がクイズに正解すると、\nビコウの頭の輪がしまるように\n術をかけておいたの～\n\n@如意金箍棒\nお師様、\nクイズに正解して助けて！\n\n# textflame 0 0\n@\nよくわからない術だが、\n如意金箍棒を助けるためには\n正解するしかない\n\n# textflame 0 0\n@\nともかくマスターの挑戦が始まった\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nワタシの出身地はどこ？\n\n# se \"SE_0734\"\n# select \"韓国\" \"select_label_1\" \"中国\" \"select_label_2\" \"インド\" \"select_label_3\"\nワタシの出身地はどこ？\n"
+	},
+	{
+		"ID": 5641,
+		"unitID": 2203111,
+		"questionID": 9203119,
+		"script": ";;ビコウ,1\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 520311 \"nyoikinkobou_c_0023\"\n@如意金箍棒\nちょ、ちょっと～！\n\n# textflame 0 0\n@\nいきなり大声を上げる彼女\n\n# textflame 0 0\n@\n何事かと見ると、\nビコウに水着の裾を\n引っ張られている\n\n# voice 520311 \"nyoikinkobou_c_0042\"\n# textflame 1 1\n@如意金箍棒\nそんなに引っ張っちゃ…\nこぼれる、こぼれるから…っ！\n\n# textflame 0 0\n@\nそれはまずいよ！\nと慌てるマスター\n\n# textflame 1 1\n@如意金箍棒\nお師様がクイズに正解すると、\nビコウの頭の輪がしまるように\n術をかけておいたの～\n\n@如意金箍棒\nお師様、\nクイズに正解して助けて！\n\n# textflame 0 0\n@\nよくわからない術だが、\n如意金箍棒を助けるためには\n正解するしかない\n\n# textflame 0 0\n@\nともかくマスターの挑戦が始まった\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nワタシと一緒にいる\n弟子の名前は？\n\n# se \"SE_0734\"\n# select \"ビコウ\" \"select_label_1\" \"ビッグコー\" \"select_label_2\" \"バチョウ\" \"select_label_3\"\nワタシの一緒にいる\n弟子の名前は？\n"
+	},
+	{
+		"ID": 5642,
+		"unitID": 2203111,
+		"questionID": 9203120,
+		"script": ";;キン子,3\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 520311 \"nyoikinkobou_c_0023\"\n@如意金箍棒\nちょ、ちょっと～！\n\n# textflame 0 0\n@\nいきなり大声を上げる彼女\n\n# textflame 0 0\n@\n何事かと見ると、\nビコウに水着の裾を\n引っ張られている\n\n# voice 520311 \"nyoikinkobou_c_0042\"\n# textflame 1 1\n@如意金箍棒\nそんなに引っ張っちゃ…\nこぼれる、こぼれるから…っ！\n\n# textflame 0 0\n@\nそれはまずいよ！\nと慌てるマスター\n\n# textflame 1 1\n@如意金箍棒\nお師様がクイズに正解すると、\nビコウの頭の輪がしまるように\n術をかけておいたの～\n\n@如意金箍棒\nお師様、\nクイズに正解して助けて！\n\n# textflame 0 0\n@\nよくわからない術だが、\n如意金箍棒を助けるためには\n正解するしかない\n\n# textflame 0 0\n@\nともかくマスターの挑戦が始まった\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nワタシ、この呼び名で\n呼ばれると怒るよ！\n\n# se \"SE_0734\"\n# select \"ニョイ子\" \"select_label_1\" \"コボウちゃん\" \"select_label_2\" \"キン子\" \"select_label_3\"\nワタシ、この呼び名で\n呼ばれると怒るよ！\n"
+	},
+	{
+		"ID": 5643,
+		"unitID": 2203111,
+		"questionID": 9203121,
+		"script": ";;氷清神の共鳴,3\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 520311 \"nyoikinkobou_c_0001\"\n@如意金箍棒\nねぇ、お師様\n\n# voice 520311 \"nyoikinkobou_c_0030\"\n@如意金箍棒\n今日は本当に楽しかった\nありがとう\n\n# face %(unit_a)s \"happy\"\n# voice 520311 \"nyoikinkobou_c_0004\"\n@如意金箍棒\nまた、連れて来てくれる？\n\n# textflame 0 0\n@\nそう言って、\nマスターの瞳を覗き込む彼女\n\n@\nその愛らしさに、つい…\nまた来よう、キン子さん\n……と言ってしまうマスター\n\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 520311 \"nyoikinkobou_c_0052\"\n@如意金箍棒\nうん？今、なんて言ったかな？\n\n# face %(unit_a)s \"angry\"\n# voice 520311 \"nyoikinkobou_c_0055\"\n@如意金箍棒\nあぁぁ？\nキン子って言ったよなぁ\n例えお師様でも、許さねぇ！\n\n# textflame 0 0\n@\nしまった！キン子は禁句だった！\nとマスター\n\n# textflame 1 1\n# voice 520311 \"nyoikinkobou_c_0010\"\n@如意金箍棒\nキン子は禁句…ダジャレかよ！\nふざけてるのか！？\n\n# textflame 0 0\n@\nごめんなさい、\nと何度も謝るマスターを見て\n少しだけ落ち着きを見せる\n\n# textflame 1 1\n@如意金箍棒\n…じゃあ、ワタシの質問に\n答えてくれる？\n正解したら許してあげるよ\n;;---------------------------------\n\n@%(unitName:unit_a)s\nワタシの覚える\nリーダースキルを知ってる？\n\n# se \"SE_0734\"\n# select \"氷聖神の共鳴\" \"select_label_1\" \"氷生神の共鳴\" \"select_label_2\" \"氷清神の共鳴\" \"select_label_3\"\nワタシの覚える\nリーダースキルを知ってる？\n"
+	},
+	{
+		"ID": 5644,
+		"unitID": 2203111,
+		"questionID": 9203122,
+		"script": ";;神威天元,3\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 520311 \"nyoikinkobou_c_0001\"\n@如意金箍棒\nねぇ、お師様\n\n# voice 520311 \"nyoikinkobou_c_0030\"\n@如意金箍棒\n今日は本当に楽しかった\nありがとう\n\n# face %(unit_a)s \"happy\"\n# voice 520311 \"nyoikinkobou_c_0004\"\n@如意金箍棒\nまた、連れて来てくれる？\n\n# textflame 0 0\n@\nそう言って、\nマスターの瞳を覗き込む彼女\n\n@\nその愛らしさに、つい…\nまた来よう、キン子さん\n……と言ってしまうマスター\n\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 520311 \"nyoikinkobou_c_0052\"\n@如意金箍棒\nうん？今、なんて言ったかな？\n\n# face %(unit_a)s \"angry\"\n# voice 520311 \"nyoikinkobou_c_0055\"\n@如意金箍棒\nあぁぁ？\nキン子って言ったよなぁ\n例えお師様でも、許さねぇ！\n\n# textflame 0 0\n@\nしまった！キン子は禁句だった！\nとマスター\n\n# textflame 1 1\n# voice 520311 \"nyoikinkobou_c_0010\"\n@如意金箍棒\nキン子は禁句…ダジャレかよ！\nふざけてるのか！？\n\n# textflame 0 0\n@\nごめんなさい、\nと何度も謝るマスターを見て\n少しだけ落ち着きを見せる\n\n# textflame 1 1\n@如意金箍棒\n…じゃあ、ワタシの質問に\n答えてくれる？\n正解したら許してあげるよ\n;;---------------------------------\n\n@%(unitName:unit_a)s\nワタシの覚える\n付与スキルはどれかな？\n\n# se \"SE_0734\"\n# select \"神威天厳\" \"select_label_1\" \"神威天玄\" \"select_label_2\" \"神威天元\" \"select_label_3\"\nワタシの覚える\n付与スキルはどれかな？\n"
+	},
+	{
+		"ID": 5645,
+		"unitID": 2203111,
+		"questionID": 9203123,
+		"script": ";;清廉されし必棍,2\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 520311 \"nyoikinkobou_c_0001\"\n@如意金箍棒\nねぇ、お師様\n\n# voice 520311 \"nyoikinkobou_c_0030\"\n@如意金箍棒\n今日は本当に楽しかった\nありがとう\n\n# face %(unit_a)s \"happy\"\n# voice 520311 \"nyoikinkobou_c_0004\"\n@如意金箍棒\nまた、連れて来てくれる？\n\n# textflame 0 0\n@\nそう言って、\nマスターの瞳を覗き込む彼女\n\n@\nその愛らしさに、つい…\nまた来よう、キン子さん\n……と言ってしまうマスター\n\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 520311 \"nyoikinkobou_c_0052\"\n@如意金箍棒\nうん？今、なんて言ったかな？\n\n# face %(unit_a)s \"angry\"\n# voice 520311 \"nyoikinkobou_c_0055\"\n@如意金箍棒\nあぁぁ？\nキン子って言ったよなぁ\n例えお師様でも、許さねぇ！\n\n# textflame 0 0\n@\nしまった！キン子は禁句だった！\nとマスター\n\n# textflame 1 1\n# voice 520311 \"nyoikinkobou_c_0010\"\n@如意金箍棒\nキン子は禁句…ダジャレかよ！\nふざけてるのか！？\n\n# textflame 0 0\n@\nごめんなさい、\nと何度も謝るマスターを見て\n少しだけ落ち着きを見せる\n\n# textflame 1 1\n@如意金箍棒\n…じゃあ、ワタシの質問に\n答えてくれる？\n正解したら許してあげるよ\n;;---------------------------------\n\n@%(unitName:unit_a)s\nワタシの覚える\n付与スキルはどれかな？\n\n# se \"SE_0734\"\n# select \"洗練されし必棍\" \"select_label_1\" \"清廉されし必棍\" \"select_label_2\" \"整頓されし必棍\" \"select_label_3\"\nワタシの覚える\n付与スキルはどれかな？\n"
+	},
+	{
+		"ID": 5646,
+		"unitID": 2203111,
+		"questionID": 9203124,
+		"script": ";;金剛不壊,2\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 520311 \"nyoikinkobou_c_0001\"\n@如意金箍棒\nねぇ、お師様\n\n# voice 520311 \"nyoikinkobou_c_0030\"\n@如意金箍棒\n今日は本当に楽しかった\nありがとう\n\n# face %(unit_a)s \"happy\"\n# voice 520311 \"nyoikinkobou_c_0004\"\n@如意金箍棒\nまた、連れて来てくれる？\n\n# textflame 0 0\n@\nそう言って、\nマスターの瞳を覗き込む彼女\n\n@\nその愛らしさに、つい…\nまた来よう、キン子さん\n……と言ってしまうマスター\n\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 520311 \"nyoikinkobou_c_0052\"\n@如意金箍棒\nうん？今、なんて言ったかな？\n\n# face %(unit_a)s \"angry\"\n# voice 520311 \"nyoikinkobou_c_0055\"\n@如意金箍棒\nあぁぁ？\nキン子って言ったよなぁ\n例えお師様でも、許さねぇ！\n\n# textflame 0 0\n@\nしまった！キン子は禁句だった！\nとマスター\n\n# textflame 1 1\n# voice 520311 \"nyoikinkobou_c_0010\"\n@如意金箍棒\nキン子は禁句…ダジャレかよ！\nふざけてるのか！？\n\n# textflame 0 0\n@\nごめんなさい、\nと何度も謝るマスターを見て\n少しだけ落ち着きを見せる\n\n# textflame 1 1\n@如意金箍棒\n…じゃあ、ワタシの質問に\n答えてくれる？\n正解したら許してあげるよ\n;;---------------------------------\n\n@%(unitName:unit_a)s\nワタシの覚える\nデュエルスキルはどれかな？\n\n# se \"SE_0734\"\n# select \"近藤不壊\" \"select_label_1\" \"金剛不壊\" \"select_label_2\" \"棍棒不壊\" \"select_label_3\"\nワタシの覚える\nデュエルスキルはどれかな？\n"
+	},
+	{
+		"ID": 5647,
+		"unitID": 2203111,
+		"questionID": 9203125,
+		"script": ";;蒼の再跳,1\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 520311 \"nyoikinkobou_c_0001\"\n@如意金箍棒\nねぇ、お師様\n\n# voice 520311 \"nyoikinkobou_c_0030\"\n@如意金箍棒\n今日は本当に楽しかった\nありがとう\n\n# face %(unit_a)s \"happy\"\n# voice 520311 \"nyoikinkobou_c_0004\"\n@如意金箍棒\nまた、連れて来てくれる？\n\n# textflame 0 0\n@\nそう言って、\nマスターの瞳を覗き込む彼女\n\n@\nその愛らしさに、つい…\nまた来よう、キン子さん\n……と言ってしまうマスター\n\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 520311 \"nyoikinkobou_c_0052\"\n@如意金箍棒\nうん？今、なんて言ったかな？\n\n# face %(unit_a)s \"angry\"\n# voice 520311 \"nyoikinkobou_c_0055\"\n@如意金箍棒\nあぁぁ？\nキン子って言ったよなぁ\n例えお師様でも、許さねぇ！\n\n# textflame 0 0\n@\nしまった！キン子は禁句だった！\nとマスター\n\n# textflame 1 1\n# voice 520311 \"nyoikinkobou_c_0010\"\n@如意金箍棒\nキン子は禁句…ダジャレかよ！\nふざけてるのか！？\n\n# textflame 0 0\n@\nごめんなさい、\nと何度も謝るマスターを見て\n少しだけ落ち着きを見せる\n\n# textflame 1 1\n@如意金箍棒\n…じゃあ、ワタシの質問に\n答えてくれる？\n正解したら許してあげるよ\n;;---------------------------------\n\n@%(unitName:unit_a)s\nワタシの覚える\nスキルはどれかな？\n\n# se \"SE_0734\"\n# select \"蒼の再跳\" \"select_label_1\" \"青の再跳\" \"select_label_2\" \"藍の再跳\" \"select_label_3\"\nワタシの覚える\nスキルはどれかな？\n"
+	},
+	{
+		"ID": 5648,
+		"unitID": 2203111,
+		"questionID": 9203126,
+		"script": ";;フリッグの執念,1\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 520311 \"nyoikinkobou_c_0001\"\n@如意金箍棒\nねぇ、お師様\n\n# voice 520311 \"nyoikinkobou_c_0030\"\n@如意金箍棒\n今日は本当に楽しかった\nありがとう\n\n# face %(unit_a)s \"happy\"\n# voice 520311 \"nyoikinkobou_c_0004\"\n@如意金箍棒\nまた、連れて来てくれる？\n\n# textflame 0 0\n@\nそう言って、\nマスターの瞳を覗き込む彼女\n\n@\nその愛らしさに、つい…\nまた来よう、キン子さん\n……と言ってしまうマスター\n\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 520311 \"nyoikinkobou_c_0052\"\n@如意金箍棒\nうん？今、なんて言ったかな？\n\n# face %(unit_a)s \"angry\"\n# voice 520311 \"nyoikinkobou_c_0055\"\n@如意金箍棒\nあぁぁ？\nキン子って言ったよなぁ\n例えお師様でも、許さねぇ！\n\n# textflame 0 0\n@\nしまった！キン子は禁句だった！\nとマスター\n\n# textflame 1 1\n# voice 520311 \"nyoikinkobou_c_0010\"\n@如意金箍棒\nキン子は禁句…ダジャレかよ！\nふざけてるのか！？\n\n# textflame 0 0\n@\nごめんなさい、\nと何度も謝るマスターを見て\n少しだけ落ち着きを見せる\n\n# textflame 1 1\n@如意金箍棒\n…じゃあ、ワタシの質問に\n答えてくれる？\n正解したら許してあげるよ\n;;---------------------------------\n\n@%(unitName:unit_a)s\nワタシの覚える\nスキルはどれかな？\n\n# se \"SE_0734\"\n# select \"フリッグの執念\" \"select_label_1\" \"フリッグの怨念\" \"select_label_2\" \"フリッグの観念\" \"select_label_3\"\nワタシの覚える\nスキルはどれかな？\n"
+	},
+	{
+		"ID": 5649,
+		"unitID": 2203111,
+		"questionID": 9203127,
+		"script": ";;虚ろに沈む神の威武,3\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 520311 \"nyoikinkobou_c_0001\"\n@如意金箍棒\nねぇ、お師様\n\n# voice 520311 \"nyoikinkobou_c_0030\"\n@如意金箍棒\n今日は本当に楽しかった\nありがとう\n\n# face %(unit_a)s \"happy\"\n# voice 520311 \"nyoikinkobou_c_0004\"\n@如意金箍棒\nまた、連れて来てくれる？\n\n# textflame 0 0\n@\nそう言って、\nマスターの瞳を覗き込む彼女\n\n@\nその愛らしさに、つい…\nまた来よう、キン子さん\n……と言ってしまうマスター\n\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 520311 \"nyoikinkobou_c_0052\"\n@如意金箍棒\nうん？今、なんて言ったかな？\n\n# face %(unit_a)s \"angry\"\n# voice 520311 \"nyoikinkobou_c_0055\"\n@如意金箍棒\nあぁぁ？\nキン子って言ったよなぁ\n例えお師様でも、許さねぇ！\n\n# textflame 0 0\n@\nしまった！キン子は禁句だった！\nとマスター\n\n# textflame 1 1\n# voice 520311 \"nyoikinkobou_c_0010\"\n@如意金箍棒\nキン子は禁句…ダジャレかよ！\nふざけてるのか！？\n\n# textflame 0 0\n@\nごめんなさい、\nと何度も謝るマスターを見て\n少しだけ落ち着きを見せる\n\n# textflame 1 1\n@如意金箍棒\n…じゃあ、ワタシの質問に\n答えてくれる？\n正解したら許してあげるよ\n;;---------------------------------\n\n@%(unitName:unit_a)s\nワタシの覚える\nデュエルスキルはどーれだ？\n\n# se \"SE_0734\"\n# select \"虚ろに沈む仏の威武\" \"select_label_1\" \"虚ろに沈む悪魔の威武\" \"select_label_2\" \"虚ろに沈む神の威武\" \"select_label_3\"\nワタシの覚える\nデュエルスキルはどーれだ？\n"
+	},
+	{
+		"ID": 5650,
+		"unitID": 2203111,
+		"questionID": 9203128,
+		"script": ";;樹令『凍結の青柱』,2\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 520311 \"nyoikinkobou_c_0001\"\n@如意金箍棒\nねぇ、お師様\n\n# voice 520311 \"nyoikinkobou_c_0030\"\n@如意金箍棒\n今日は本当に楽しかった\nありがとう\n\n# face %(unit_a)s \"happy\"\n# voice 520311 \"nyoikinkobou_c_0004\"\n@如意金箍棒\nまた、連れて来てくれる？\n\n# textflame 0 0\n@\nそう言って、\nマスターの瞳を覗き込む彼女\n\n@\nその愛らしさに、つい…\nまた来よう、キン子さん\n……と言ってしまうマスター\n\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 520311 \"nyoikinkobou_c_0052\"\n@如意金箍棒\nうん？今、なんて言ったかな？\n\n# face %(unit_a)s \"angry\"\n# voice 520311 \"nyoikinkobou_c_0055\"\n@如意金箍棒\nあぁぁ？\nキン子って言ったよなぁ\n例えお師様でも、許さねぇ！\n\n# textflame 0 0\n@\nしまった！キン子は禁句だった！\nとマスター\n\n# textflame 1 1\n# voice 520311 \"nyoikinkobou_c_0010\"\n@如意金箍棒\nキン子は禁句…ダジャレかよ！\nふざけてるのか！？\n\n# textflame 0 0\n@\nごめんなさい、\nと何度も謝るマスターを見て\n少しだけ落ち着きを見せる\n\n# textflame 1 1\n@如意金箍棒\n…じゃあ、ワタシの質問に\n答えてくれる？\n正解したら許してあげるよ\n;;---------------------------------\n\n@%(unitName:unit_a)s\nワタシの覚える\nコマンドスキルはどーれだ？\n\n# se \"SE_0734\"\n# select \"樹令『凍結の赤柱』\" \"select_label_1\" \"樹令『凍結の青柱』\" \"select_label_2\" \"樹令『凍結の炎柱』\" \"select_label_3\"\nワタシの覚える\nコマンドスキルはどーれだ？\n"
+	},
+	{
+		"ID": 5651,
+		"unitID": 2203111,
+		"questionID": 9203129,
+		"script": ";;天武無双,3\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 520311 \"nyoikinkobou_c_0001\"\n@如意金箍棒\nねぇ、お師様\n\n# voice 520311 \"nyoikinkobou_c_0030\"\n@如意金箍棒\n今日は本当に楽しかった\nありがとう\n\n# face %(unit_a)s \"happy\"\n# voice 520311 \"nyoikinkobou_c_0004\"\n@如意金箍棒\nまた、連れて来てくれる？\n\n# textflame 0 0\n@\nそう言って、\nマスターの瞳を覗き込む彼女\n\n@\nその愛らしさに、つい…\nまた来よう、キン子さん\n……と言ってしまうマスター\n\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 520311 \"nyoikinkobou_c_0052\"\n@如意金箍棒\nうん？今、なんて言ったかな？\n\n# face %(unit_a)s \"angry\"\n# voice 520311 \"nyoikinkobou_c_0055\"\n@如意金箍棒\nあぁぁ？\nキン子って言ったよなぁ\n例えお師様でも、許さねぇ！\n\n# textflame 0 0\n@\nしまった！キン子は禁句だった！\nとマスター\n\n# textflame 1 1\n# voice 520311 \"nyoikinkobou_c_0010\"\n@如意金箍棒\nキン子は禁句…ダジャレかよ！\nふざけてるのか！？\n\n# textflame 0 0\n@\nごめんなさい、\nと何度も謝るマスターを見て\n少しだけ落ち着きを見せる\n\n# textflame 1 1\n@如意金箍棒\n…じゃあ、ワタシの質問に\n答えてくれる？\n正解したら許してあげるよ\n;;---------------------------------\n\n@%(unitName:unit_a)s\nワタシが覚える\n強力なスキル、知ってる？\n\n# se \"SE_0734\"\n# select \"天下無双\" \"select_label_1\" \"天舞無双\" \"select_label_2\" \"天武無双\" \"select_label_3\"\nワタシが覚える\n強力なスキル、知ってる？\n"
+	},
+	{
+		"ID": 5652,
+		"unitID": 2203111,
+		"questionID": 9203130,
+		"script": ";;世界樹の神徒【凍結】,1\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 520311 \"nyoikinkobou_c_0001\"\n@如意金箍棒\nねぇ、お師様\n\n# voice 520311 \"nyoikinkobou_c_0030\"\n@如意金箍棒\n今日は本当に楽しかった\nありがとう\n\n# face %(unit_a)s \"happy\"\n# voice 520311 \"nyoikinkobou_c_0004\"\n@如意金箍棒\nまた、連れて来てくれる？\n\n# textflame 0 0\n@\nそう言って、\nマスターの瞳を覗き込む彼女\n\n@\nその愛らしさに、つい…\nまた来よう、キン子さん\n……と言ってしまうマスター\n\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 520311 \"nyoikinkobou_c_0052\"\n@如意金箍棒\nうん？今、なんて言ったかな？\n\n# face %(unit_a)s \"angry\"\n# voice 520311 \"nyoikinkobou_c_0055\"\n@如意金箍棒\nあぁぁ？\nキン子って言ったよなぁ\n例えお師様でも、許さねぇ！\n\n# textflame 0 0\n@\nしまった！キン子は禁句だった！\nとマスター\n\n# textflame 1 1\n# voice 520311 \"nyoikinkobou_c_0010\"\n@如意金箍棒\nキン子は禁句…ダジャレかよ！\nふざけてるのか！？\n\n# textflame 0 0\n@\nごめんなさい、\nと何度も謝るマスターを見て\n少しだけ落ち着きを見せる\n\n# textflame 1 1\n@如意金箍棒\n…じゃあ、ワタシの質問に\n答えてくれる？\n正解したら許してあげるよ\n;;---------------------------------\n\n@%(unitName:unit_a)s\nワタシが覚える強力なスキル、知ってる？\n\n# se \"SE_0734\"\n# select \"世界樹の神徒【凍結】\" \"select_label_1\" \"世界樹の神徒【統一】\" \"select_label_2\" \"世界樹の神徒【倒幕】\" \"select_label_3\"\nワタシが覚える強力なスキル、知ってる？\n"
+	},
+	{
+		"ID": 5653,
+		"unitID": 2203111,
+		"questionID": 9203131,
+		"script": ";;五行山,1\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 520311 \"nyoikinkobou_c_0001\"\n@如意金箍棒\nお師様？\n\n# face %(unit_a)s \"happy\"\n# voice 520311 \"nyoikinkobou_c_0004\"\n@如意金箍棒\nフフッ…呼んでみただけだよ\n\n@如意金箍棒\n今日はとっても楽しかった\n\n# voice 520311 \"nyoikinkobou_c_0030\"\n@如意金箍棒\nありがとう\n\n@如意金箍棒\n最近、お師様と一緒にいると、\nすごく感じるものがあるの\n\n@如意金箍棒\nえ？それはなにかって？\nんー、恥ずかしいから\n教えないよ\n\n# textflame 0 0\n@\nすごく気になるから教えて\nと頼み込むマスター\n\n# textflame 1 1\n# voice 520311 \"nyoikinkobou_c_0028\"\n@如意金箍棒\nそうだなぁ、\n今から出すクイズに\n正解できたら教えてあげる\n\n@如意金箍棒\nいくよ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nワタシのキラーズの持ち主・孫悟空は\nどこに幽閉されてたでしょうか？\n\n# se \"SE_0734\"\n# select \"五行山\" \"select_label_1\" \"六甲山\" \"select_label_2\" \"七倫山\" \"select_label_3\"\nワタシのキラーズの持ち主・孫悟空は\nどこに幽閉されてたでしょうか？\n"
+	},
+	{
+		"ID": 5654,
+		"unitID": 2203111,
+		"questionID": 9203132,
+		"script": ";;May,2\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 520311 \"nyoikinkobou_c_0001\"\n@如意金箍棒\nお師様？\n\n# face %(unit_a)s \"happy\"\n# voice 520311 \"nyoikinkobou_c_0004\"\n@如意金箍棒\nフフッ…呼んでみただけだよ\n\n@如意金箍棒\n今日はとっても楽しかった\n\n# voice 520311 \"nyoikinkobou_c_0030\"\n@如意金箍棒\nありがとう\n\n@如意金箍棒\n最近、お師様と一緒にいると、\nすごく感じるものがあるの\n\n@如意金箍棒\nえ？それはなにかって？\nんー、恥ずかしいから\n教えないよ\n\n# textflame 0 0\n@\nすごく気になるから教えて\nと頼み込むマスター\n\n# textflame 1 1\n# voice 520311 \"nyoikinkobou_c_0028\"\n@如意金箍棒\nそうだなぁ、\n今から出すクイズに\n正解できたら教えてあげる\n\n@如意金箍棒\nいくよ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nワタシの誕生月を英語で言うと…？\n\n# se \"SE_0734\"\n# select \"June\" \"select_label_1\" \"May\" \"select_label_2\" \"November\" \"select_label_3\"\nワタシの誕生月を英語で言うと…？\n"
+	},
+	{
+		"ID": 5655,
+		"unitID": 2203111,
+		"questionID": 9203133,
+		"script": ";;天竺,2\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 520311 \"nyoikinkobou_c_0001\"\n@如意金箍棒\nお師様？\n\n# face %(unit_a)s \"happy\"\n# voice 520311 \"nyoikinkobou_c_0004\"\n@如意金箍棒\nフフッ…呼んでみただけだよ\n\n@如意金箍棒\n今日はとっても楽しかった\n\n# voice 520311 \"nyoikinkobou_c_0030\"\n@如意金箍棒\nありがとう\n\n@如意金箍棒\n最近、お師様と一緒にいると、\nすごく感じるものがあるの\n\n@如意金箍棒\nえ？それはなにかって？\nんー、恥ずかしいから\n教えないよ\n\n# textflame 0 0\n@\nすごく気になるから教えて\nと頼み込むマスター\n\n# textflame 1 1\n# voice 520311 \"nyoikinkobou_c_0028\"\n@如意金箍棒\nそうだなぁ、\n今から出すクイズに\n正解できたら教えてあげる\n\n@如意金箍棒\nいくよ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nワタシのキラーズの持ち主・孫悟空は\nどこを目指していたのかな？\n\n# se \"SE_0734\"\n# select \"天国\" \"select_label_1\" \"天竺\" \"select_label_2\" \"地獄\" \"select_label_3\"\nワタシのキラーズの持ち主・孫悟空は\nどこを目指していたのかな？\n"
+	},
+	{
+		"ID": 5656,
+		"unitID": 2203111,
+		"questionID": 9203134,
+		"script": ";;ブリューナク,1\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 520311 \"nyoikinkobou_c_0001\"\n@如意金箍棒\nお師様？\n\n# face %(unit_a)s \"happy\"\n# voice 520311 \"nyoikinkobou_c_0004\"\n@如意金箍棒\nフフッ…呼んでみただけだよ\n\n@如意金箍棒\n今日はとっても楽しかった\n\n# voice 520311 \"nyoikinkobou_c_0030\"\n@如意金箍棒\nありがとう\n\n@如意金箍棒\n最近、お師様と一緒にいると、\nすごく感じるものがあるの\n\n@如意金箍棒\nえ？それはなにかって？\nんー、恥ずかしいから\n教えないよ\n\n# textflame 0 0\n@\nすごく気になるから教えて\nと頼み込むマスター\n\n# textflame 1 1\n# voice 520311 \"nyoikinkobou_c_0028\"\n@如意金箍棒\nそうだなぁ、\n今から出すクイズに\n正解できたら教えてあげる\n\n@如意金箍棒\nいくよ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nワタシと誕生日が同じなのは誰？\n\n# se \"SE_0734\"\n# select \"ブリューナク\" \"select_label_1\" \"パラシュ\" \"select_label_2\" \"アルテミス\" \"select_label_3\"\nワタシと誕生日が同じなのは誰？\n"
+	},
+	{
+		"ID": 5657,
+		"unitID": 2203111,
+		"questionID": 9203135,
+		"script": ";;Taurus,1\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 520311 \"nyoikinkobou_c_0001\"\n@如意金箍棒\nお師様？\n\n# face %(unit_a)s \"happy\"\n# voice 520311 \"nyoikinkobou_c_0004\"\n@如意金箍棒\nフフッ…呼んでみただけだよ\n\n@如意金箍棒\n今日はとっても楽しかった\n\n# voice 520311 \"nyoikinkobou_c_0030\"\n@如意金箍棒\nありがとう\n\n@如意金箍棒\n最近、お師様と一緒にいると、\nすごく感じるものがあるの\n\n@如意金箍棒\nえ？それはなにかって？\nんー、恥ずかしいから\n教えないよ\n\n# textflame 0 0\n@\nすごく気になるから教えて\nと頼み込むマスター\n\n# textflame 1 1\n# voice 520311 \"nyoikinkobou_c_0028\"\n@如意金箍棒\nそうだなぁ、\n今から出すクイズに\n正解できたら教えてあげる\n\n@如意金箍棒\nいくよ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nワタシの星座を英語で言うと？\n\n# se \"SE_0734\"\n# select \"Taurus\" \"select_label_1\" \"Cancer\" \"select_label_2\" \"Virgo\" \"select_label_3\"\nワタシの星座を英語で言うと？\n"
+	},
+	{
+		"ID": 5658,
+		"unitID": 2203111,
+		"questionID": 9203136,
+		"script": ";;海の深さを測った,2\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 520311 \"nyoikinkobou_c_0001\"\n@如意金箍棒\nお師様？\n\n# face %(unit_a)s \"happy\"\n# voice 520311 \"nyoikinkobou_c_0004\"\n@如意金箍棒\nフフッ…呼んでみただけだよ\n\n@如意金箍棒\n今日はとっても楽しかった\n\n# voice 520311 \"nyoikinkobou_c_0030\"\n@如意金箍棒\nありがとう\n\n@如意金箍棒\n最近、お師様と一緒にいると、\nすごく感じるものがあるの\n\n@如意金箍棒\nえ？それはなにかって？\nんー、恥ずかしいから\n教えないよ\n\n# textflame 0 0\n@\nすごく気になるから教えて\nと頼み込むマスター\n\n# textflame 1 1\n# voice 520311 \"nyoikinkobou_c_0028\"\n@如意金箍棒\nそうだなぁ、\n今から出すクイズに\n正解できたら教えてあげる\n\n@如意金箍棒\nいくよ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nワタシのキラーズ『如意金箍棒』は\n伝承では何に使われていたと\n云われている？\n\n# se \"SE_0734\"\n# select \"巨人の背を測った\" \"select_label_1\" \"海の深さを測った\" \"select_label_2\" \"宇宙旅行\" \"select_label_3\"\nワタシのキラーズ『如意金箍棒』は\n伝承では何に使われていたと\n云われている？\n"
+	},
+	{
+		"ID": 5659,
+		"unitID": 2203111,
+		"questionID": 9203137,
+		"script": ";;ペッシュ,3\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 520311 \"nyoikinkobou_c_0001\"\n@如意金箍棒\nお師様？\n\n# face %(unit_a)s \"happy\"\n# voice 520311 \"nyoikinkobou_c_0004\"\n@如意金箍棒\nフフッ…呼んでみただけだよ\n\n@如意金箍棒\n今日はとっても楽しかった\n\n# voice 520311 \"nyoikinkobou_c_0030\"\n@如意金箍棒\nありがとう\n\n@如意金箍棒\n最近、お師様と一緒にいると、\nすごく感じるものがあるの\n\n@如意金箍棒\nえ？それはなにかって？\nんー、恥ずかしいから\n教えないよ\n\n# textflame 0 0\n@\nすごく気になるから教えて\nと頼み込むマスター\n\n# textflame 1 1\n# voice 520311 \"nyoikinkobou_c_0028\"\n@如意金箍棒\nそうだなぁ、\n今から出すクイズに\n正解できたら教えてあげる\n\n@如意金箍棒\nいくよ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nワタシの大好きな『桃』を\nフランス語で言うと？\n\n# se \"SE_0734\"\n# select \"ピーチ\" \"select_label_1\" \"トメーイト\" \"select_label_2\" \"ペッシュ\" \"select_label_3\"\nワタシの大好きな『桃』を\nフランス語で言うと？\n"
+	},
+	{
+		"ID": 5660,
+		"unitID": 2203111,
+		"questionID": 9203138,
+		"script": ";;ミネルヴァ,1\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 520311 \"nyoikinkobou_c_0001\"\n@如意金箍棒\nお師様？\n\n# face %(unit_a)s \"happy\"\n# voice 520311 \"nyoikinkobou_c_0004\"\n@如意金箍棒\nフフッ…呼んでみただけだよ\n\n@如意金箍棒\n今日はとっても楽しかった\n\n# voice 520311 \"nyoikinkobou_c_0030\"\n@如意金箍棒\nありがとう\n\n@如意金箍棒\n最近、お師様と一緒にいると、\nすごく感じるものがあるの\n\n@如意金箍棒\nえ？それはなにかって？\nんー、恥ずかしいから\n教えないよ\n\n# textflame 0 0\n@\nすごく気になるから教えて\nと頼み込むマスター\n\n# textflame 1 1\n# voice 520311 \"nyoikinkobou_c_0028\"\n@如意金箍棒\nそうだなぁ、\n今から出すクイズに\n正解できたら教えてあげる\n\n@如意金箍棒\nいくよ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nワタシと同じ血液型なのは？\n\n# se \"SE_0734\"\n# select \"ミネルヴァ\" \"select_label_1\" \"ロンギヌス\" \"select_label_2\" \"エルキュール\" \"select_label_3\"\nワタシと同じ血液型なのは？\n"
+	},
+	{
+		"ID": 5661,
+		"unitID": 2203111,
+		"questionID": 9203139,
+		"script": ";;シユウ,3\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 520311 \"nyoikinkobou_c_0001\"\n@如意金箍棒\nお師様？\n\n# face %(unit_a)s \"happy\"\n# voice 520311 \"nyoikinkobou_c_0004\"\n@如意金箍棒\nフフッ…呼んでみただけだよ\n\n@如意金箍棒\n今日はとっても楽しかった\n\n# voice 520311 \"nyoikinkobou_c_0030\"\n@如意金箍棒\nありがとう\n\n@如意金箍棒\n最近、お師様と一緒にいると、\nすごく感じるものがあるの\n\n@如意金箍棒\nえ？それはなにかって？\nんー、恥ずかしいから\n教えないよ\n\n# textflame 0 0\n@\nすごく気になるから教えて\nと頼み込むマスター\n\n# textflame 1 1\n# voice 520311 \"nyoikinkobou_c_0028\"\n@如意金箍棒\nそうだなぁ、\n今から出すクイズに\n正解できたら教えてあげる\n\n@如意金箍棒\nいくよ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nワタシと違う血液型なのは\n誰かわかる？\n\n# se \"SE_0734\"\n# select \"アスカロン\" \"select_label_1\" \"フォルカス\" \"select_label_2\" \"シユウ\" \"select_label_3\"\nワタシと違う血液型なのは\n誰かわかる？\n"
+	},
+	{
+		"ID": 5662,
+		"unitID": 2203111,
+		"questionID": 9203140,
+		"script": ";;エクスカリバー,1\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 520311 \"nyoikinkobou_c_0001\"\n@如意金箍棒\nお師様？\n\n# face %(unit_a)s \"happy\"\n# voice 520311 \"nyoikinkobou_c_0004\"\n@如意金箍棒\nフフッ…呼んでみただけだよ\n\n@如意金箍棒\n今日はとっても楽しかった\n\n# voice 520311 \"nyoikinkobou_c_0030\"\n@如意金箍棒\nありがとう\n\n@如意金箍棒\n最近、お師様と一緒にいると、\nすごく感じるものがあるの\n\n@如意金箍棒\nえ？それはなにかって？\nんー、恥ずかしいから\n教えないよ\n\n# textflame 0 0\n@\nすごく気になるから教えて\nと頼み込むマスター\n\n# textflame 1 1\n# voice 520311 \"nyoikinkobou_c_0028\"\n@如意金箍棒\nそうだなぁ、\n今から出すクイズに\n正解できたら教えてあげる\n\n@如意金箍棒\nいくよ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nワタシと違う誕生月なのは\n誰かわかる？\n\n# se \"SE_0734\"\n# select \"エクスカリバー\" \"select_label_1\" \"ブリューナク\" \"select_label_2\" \"ミョルニル\" \"select_label_3\"\nワタシと違う誕生月なのは\n誰かわかる？\n"
+	},
+	{
+		"ID": 5663,
+		"unitID": 2203111,
+		"questionID": 9203141,
+		"script": "\n;;ワタシ,2\n# se \"SE_0734\"\n# select \"あたし\" \"select_label_1\" \"ワタシ\" \"select_label_2\" \"ウチ\" \"select_label_3\"\n如意金箍棒の一人称は\n次のうちどれ？\n"
+	},
+	{
+		"ID": 5664,
+		"unitID": 2203111,
+		"questionID": 9203142,
+		"script": "\n;;お師様,1\n# se \"SE_0734\"\n# select \"お師様\" \"select_label_1\" \"マスター\" \"select_label_2\" \"御屋形様\" \"select_label_3\"\n如意金箍棒はあなたのこと、\nなんて呼んでる？\n"
+	},
+	{
+		"ID": 5665,
+		"unitID": 2203111,
+		"questionID": 9203143,
+		"script": "\n;;105cm,3\n# se \"SE_0734\"\n# select \"100cm\" \"select_label_1\" \"95cm\" \"select_label_2\" \"105cm\" \"select_label_3\"\n如意金箍棒の\nバストサイズがどのくらいか\nあなたは知ってるの？\n"
+	},
+	{
+		"ID": 5666,
+		"unitID": 2203111,
+		"questionID": 9203144,
+		"script": "\n;;64cm,2\n# se \"SE_0734\"\n# select \"60cm\" \"select_label_1\" \"64cm\" \"select_label_2\" \"58cm\" \"select_label_3\"\n如意金箍棒の\nウエストサイズがどのくらいか\nあなたは知ってるの？\n"
+	},
+	{
+		"ID": 5667,
+		"unitID": 2203111,
+		"questionID": 9203145,
+		"script": "\n;;93cm,3\n# se \"SE_0734\"\n# select \"85cm\" \"select_label_1\" \"89cm\" \"select_label_2\" \"93cm\" \"select_label_3\"\n如意金箍棒の\nヒップサイズがどのくらいか\nあなたは知ってるの？\n"
+	},
+	{
+		"ID": 5668,
+		"unitID": 2203111,
+		"questionID": 9203146,
+		"script": "\n;;62㎏,3\n# se \"SE_0734\"\n# select \"58kg\" \"select_label_1\" \"52kg\" \"select_label_2\" \"62㎏\" \"select_label_3\"\n如意金箍棒の体重は\n次のうちどれ？\n"
+	},
+	{
+		"ID": 5669,
+		"unitID": 2203111,
+		"questionID": 9203147,
+		"script": "\n;;262,3\n# se \"SE_0734\"\n# select \"252\" \"select_label_1\" \"242\" \"select_label_2\" \"262\" \"select_label_3\"\n如意金箍棒の\nバスト＋ウエスト＋ヒップは\nいくつかわかる？\n"
+	},
+	{
+		"ID": 5670,
+		"unitID": 2203111,
+		"questionID": 9203148,
+		"script": "\n;;黒,2\n# se \"SE_0734\"\n# select \"金\" \"select_label_1\" \"黒\" \"select_label_2\" \"赤\" \"select_label_3\"\n如意金箍棒の髪の色は\n次のうちどれ？\n"
+	},
+	{
+		"ID": 5671,
+		"unitID": 2203111,
+		"questionID": 9203149,
+		"script": "\n;;参加していない,1\n# se \"SE_0734\"\n# select \"参加していない\" \"select_label_1\" \"7位\" \"select_label_2\" \"11位\" \"select_label_3\"\n如意金箍棒は\n第5回人気投票で\n何位だったでしょう？\n"
+	},
+	{
+		"ID": 5672,
+		"unitID": 2203111,
+		"questionID": 9203150,
+		"script": "\n;;田中音緒,2\n# se \"SE_0734\"\n# select \"大久保瑠美\" \"select_label_1\" \"田中音緒\" \"select_label_2\" \"堀場美希\" \"select_label_3\"\n如意金箍棒の声優は誰？\n"
+	}
+]

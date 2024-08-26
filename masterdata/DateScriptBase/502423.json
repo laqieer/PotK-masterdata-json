@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 502423,
+		"script": ";;B 使い方次第だね 中\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_fireworks\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n@雑賀\n…そうっすねぇ\n\n# eye %(unit_a)s \"close\"\n# voice 5024 \"saika_0013\"\n@雑賀\nうちのこと、扱いづらいとか…\n思ってないすか？\n\n# textflame 0 0\n@\n花火に構わず\n雑賀が下を向いて\n親指でサンダルを突いている\n\n# eye %(unit_a)s \"normal\"\n# textflame 1 1\n# voice 5024 \"saika_0008\"\n@雑賀\n…避けてるわけじゃないっす\nだた、仕事の付き合いの\n距離感大事にしたくって…\n\n# textflame 0 0\n@\nマスターは素直に答える\nもっと仲良くなりたい、と\n\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n@雑賀\n…どうすればいいか\n教えてほしいっす\n\n# textflame 0 0\n@\nマスターは空を指差す\nやっと顔を上げた雑賀の目の前に\n大輪の花が咲いていた…\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

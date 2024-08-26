@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 200212,
+		"script": ";;ふたりになりたかったから　大\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_park_day\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 2002 \"aimuru_0023\"\n@アイムール\n…なっ！？\n\n# face %(unit_a)s \"angry\"\n# textflame 1 1\n@アイムール\nば、ばかなことを\n言わないでください！\n\n# textflame 0 0\n@\nアイムールは顔を赤く染め\n憤慨して眉を立て睨んだ\n\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n# voice 2002 \"aimuru_0027\"\n@アイムール\n私とふたりきりで…その…\nなにが楽しいのですか！？\n\n# textflame 0 0\n@\n黙って目を見つめると\nアイムールはさらに頬を赤くする\n\n# face %(unit_a)s \"angry\"\n# textflame 1 1\n@アイムール\nからかわないでください！\nせ、殲滅しますよ！？\n\n# textflame 1 1\n# voice 2002 \"aimuru_1018\"\n@アイムール\n…ちょ、ちょっと！\n勝手に手を握らないでください！\n\n# textflame 0 0\n@\nアイムールの手を引いて\n公園散策を始めた\n\n# textflame 0 0\n@\n手は振り払われることはなかった\n静かで甘い公園デートを楽しんだ\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

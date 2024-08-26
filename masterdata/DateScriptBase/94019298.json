@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 94019298,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# face 2401911 \"normal\"\n# voice 240191 \"failnaught_a_0001\"\n# se \"SE_0733\"\n@フェイルノート\n……お前様\n\n# face 2401911 \"angry\"\n# voice 240191 \"failnaught_a_0026\"\n@フェイルノート\n不正解よ\n\n@フェイルノート\nお前様の輝きとは、\nその程度のものだったのね…\n\n@フェイルノート\n太陽になんて程遠い\n\n@フェイルノート\nお前様が、\n私と同列に並ぶなんて\nおこがましいわ\n\n# face 2401911 \"sad\"\n# voice 240191 \"failnaught_a_0007\"\n@フェイルノート\n出直してきなさい\n\n# alpha 2401911 0 0.5\n# textflame 0 0\n@\nそう言って、\n一瞬だけ悲しそうな表情を浮かべ\n背を向け去ってゆく彼女\n\n# textflame 0 0\n@\nもう彼女と並んで歩くことは\n出来ないのだろうか…\n\n# textflame 0 0\n@\n激しい後悔が、\n大きな波のように\n押し寄せてきた\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

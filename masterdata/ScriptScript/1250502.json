@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 1250502,
+		"script": "# script \"lisp\"\n# body 0\n# body 4\n# pos 4 3\n# body 5\n# pos 5 5\n# body 101411\n# pos 101411 1\n# textwindow \"close\"\n# serif 1\n# textboxarrow 1 3\n# chara 5\n# face 4 \"angry\"\n# face 5 \"angry\"\n# face 101411 \"angry\"\n@ナパル\nグ…グガガ……\nクッ…い、異族め…！\n…グガ…ッ！\n\n# serif 1\n# textboxarrow 1 2\n# chara 4\n@トト\nし、祀官様…？\n\n# serif 1\n# textboxarrow 1 3\n# chara 5\n@ナパル\nグ…グガ…ト、トト…\nガッ…グガギャ…ッ\n\n# serif 1\n# textboxarrow 1 2\n# chara 4\n@トト\nね、ねぇ！\n祀官様はどうなっちゃうの！？\n\n# face 101411 \"sad\"\n# textwindow \"nomal\"\n# serif 0\n# textboxarrow 0 1\n# chara 101411\n@ティルフィング\n…………\n\n# serif 1\n# textboxarrow 1 2\n# chara 4\n@トト\nねぇ、キル姫！\nなんか、答えろよ！\nねえ！！\n\n# voice 9999 \"durin_0024\"\n# face 0 \"angry\"\n# leftout 101411 0.5\n# pos 0 1\n# chara 0\n# leftin 0 0.5\n# serif 0\n# textboxarrow 0 1\n# chara 0\n@デュリン\nナパル、いえ…祀官…様の、\n意識に異族が入り込もうとしているの\n\n# serif 0\n# textboxarrow 0 1\n# chara 0\n@デュリン\n意識が、\n完全に異族に占領されれば…\n\n# serif 1\n# textboxarrow 1 2\n# chara 4\n@トト\n異族になる…の？\nそ、そんな…祀官様！！\n\n# serif 1\n# textboxarrow 1 3\n# chara 5\n@ナパル\nグ…グギャ…ク、クソッ…！！"
+	}
+]

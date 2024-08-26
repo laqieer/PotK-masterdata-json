@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 3101319,
+		"script": "# script \"lisp\"\n# background \"plain\"\n# bgm \"bgm001\" 0\n# body 810004\n# mask 810004 off\n# pos 810004 5\n# scale 810004 0.8 0\n# body 806009\n# mask 806009 off\n# pos 806009 1\n# scale 806009 0.8 0\n# alpha 806009 0 0\n# textflame 1 1\n# textboxarrow 0 3\n# voice 9994 \"izokutaisho_0037\"\n@異族の大将\nいやー前月もえらい目おうたわ。\nミノパイセンも全っ然役立たへんし\n\n# voice 9994 \"izokutaisho_0038\"\n# chara 810004\n@異族の大将\nもう信じれるんは己の力だけやわ！\n\n# serif 1\n# alpha 806009 1 0.5\n# textboxarrow 1 1\n@MAIちゃん\nゲーム内のクエストに～\nMAIが初登場～♪\n\n# serif 0\n# textboxarrow 0 3\n# voice 9994 \"izokutaisho_0039\"\n@異族の大将\nおーMAI。どないしてん。\nここ戦場やで…危ないからはよ帰れ！\n\n# serif 1\n# textboxarrow 1 1\n@MAIちゃん\nMAIはか弱いから戦うのは無理だけど\nMAIちゃんキュアで大将を癒して回復して\n\n# serif 1\n# textboxarrow 1 1\n@MAIちゃん\nア・ゲ・ル\n\n# serif 0\n# textboxarrow 0 3\n# voice 9994 \"izokutaisho_0040\"\n@異族の大将\nあーあの嫌な噂しか聞かへんMAIちゃんキュアか…\nまぁ回復できるならええわ！頼んだで！"
+	}
+]

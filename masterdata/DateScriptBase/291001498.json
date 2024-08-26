@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 291001498,
+		"script": ";;//不正解\n# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body 2100121\n# pos 2100121 3\n# mask 2100121 off\n# chara 2100121\n# fadein \"black\" 0.5\n# textflame 1 1\n# face 2100121 \"sad\"\n# se \"SE_0733\"\n# voice 210012 \"masamune_k_0013\"\n@マサムネ\n不正解だ…\nそうか、主君は知らなかったか…\n\n;;モノローグ\n# textflame 0 0\n@\n俯く彼女に謝ろうとすると、\nさっと手で遮られてしまった\n\n# face 2100121 \"normal\"\n# textflame 1 1\n@マサムネ\nいや、気遣いは無用だ\n先も言った通り、拙者はただの刀…\n\n@マサムネ\nたとえ素性を知られていなくとも\n主君のために戦うことに\n変わりはない\n\n# voice 210012 \"masamune_k_0031\"\n@マサムネ\n時間を取ってしまい申し訳ない\nさぁ、帰るとしようか\n\n# textflame 0 0\n@\n努めて冷静に振る舞う彼女を見ると\n胸の奥が痛くなってくる\n\n@\n次は必ず正解しないと…\nそう心に刻んだのだった\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

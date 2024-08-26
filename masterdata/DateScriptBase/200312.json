@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 200312,
+		"script": "# script \"lisp\"\n# fadein \"black\" 0.5\n# background %(background)s\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# voice 2003 \"loveryus_0041\"\n@ラブリュス\n出る！\n出る出る～！\n\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n@ラブリュス\nマスターにラブリュスちゃんの\nライブみてほしい～♪\n\n# textflame 0 0\n@\nラブリュスは\nその場で飛び跳ねたかと思うと\nくるっとターンする\n\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@ラブリュス\nラブリュス～…\nすま～～いるぅ♪\n\n# textflame 0 0\n@\n開演前のライブハウスのフロア\nなにごとかと観客の視線が\nラブリュスに集中する…\n\n# voice 2003 \"loveryus_0008\"\n# textflame 1 1\n@ラブリュス\nあはは…\nちょっとやりすぎちゃった～…？\n\n# textflame 0 0\n@\nそういうわりには\nまったく悪びれていない\nラブリュスだったが…\n\n# textflame 1 1\n@ラブリュス\n次のライブの宣伝\nしちゃおうかなって思ったけど…\n\n# textflame 1 1\n@ラブリュス\n今日はマスターだけの\nラブリュスちゃんだから…\nひかえま～す！\n\n# textflame 0 0\n@\nラブリュスはマスターの隣に立つと\nマスターにだけの特別なウインクを\nこっそり送ってくれた――\n;;--------------------------------------\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

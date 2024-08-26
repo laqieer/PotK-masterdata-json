@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 500812,
+		"script": "# script \"lisp\"\n# fadein \"black\" 0.5\n# background %(background)s\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 5008 \"bashosen_0007\"\n@芭蕉扇\n言われなくてもわかっているわ\nでも、夢を見るくらいは\nいいでしょう？\n\n# textflame 0 0\n@\nコホンとひとつ咳払いをすると…\n芭蕉扇は一気にまくしたてた\n\n# textflame 1 1\n# face %(unit_a)s \"angry\"\n@芭蕉扇\nあなたは私に\n見初められたの男性よ！\n\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# voice 5008 \"bashosen_0004\"\n@芭蕉扇\nだからいずれ、こんなマイホームを\n私にプレゼントしてくれるはずだわ！\n\n# textflame 0 0\n@\n当然だと言わんばかりの芭蕉扇\nマスターはなんだか恥ずかしくなる\n\n# textflame 1 1\n# voice 5008 \"bashosen_0001\"\n@芭蕉扇\n胸を張りなさい、マスター\n私はいつでも\n本当のことしか言わないのだから\n\n# textflame 0 0\n@\nそう言って芭蕉扇は\n城を登っていく…\n\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n@芭蕉扇\nさぁ、内見を始めるわよ！\n夫婦の寝室は…\n一番上よね！\n\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# voice 5008 \"bashosen_0020\"\n@芭蕉扇\n子供部屋は…\n広くしてあげなきゃね♪\n\n# textflame 0 0\n@\n芭蕉扇がくれた自信を胸に\n大きな男になろうと\n誓うマスターであった――\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

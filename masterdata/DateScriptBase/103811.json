@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 103811,
+		"script": ";;A,アルマスと同じのを（中あたり）\n;;B,パウンドケーキはどう？（大あたり）\n;;C,限定デラックスパフェ！(小あたり)\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_cafe\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# face %(unit_a)s \"usual\"\n# textflame 0 0\n@\nアルマスを連れ、\nマスターはカフェを訪れた\n\n# face %(unit_a)s \"surprise\"\n# voice 210381 \"almace_0039\"\n# textflame 1 1\n@アルマス\nふぅん…このお店、\nあなたのいち押しなの？\n\n# face %(unit_a)s \"usual\"\n@アルマス\n確かに、落ち着いていて\n悪くない雰囲気ね\n\n;;モノローグ\n# textflame 0 0\n@\n表情こそいつも通りだが、\nどこかアルマスは\n上機嫌に見えた\n\n# voice 210381 \"almace_0004\"\n# textflame 1 1\n@アルマス\nどれもおいしそう…\n何を頼むか、絶・迷っちゃう\n\n@アルマス\n飲み物は紅茶として、\n食べる方はどうしよう。\nねえ、そっちも決めた？\n\n# select \"アルマスと同じのを\" \"select_label_01\" \"パウンドケーキはどう？\" \"select_label_02\" \"限定デラックスパフェ！\" \"select_label_03\"\n飲み物は紅茶として、\n食べる方はどうしよう。\nねえ、そっちも決めた？\n\n# label \"select_label_01\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_02\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_03\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_end\"\n# waitandnext 0.1\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 91038398,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# se \"SE_0733\"\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n;;-----------------------------------------\n@アルマス\nその答え…\n\n# face %(unit_a)s \"sad\"\n@アルマス\n外れよ\n\n# voice 210381 \"almace_0028\"\n@アルマス\nちょっと難しすぎたかな\n\n# textflame 0 0\n@\n明らかに落胆した表情を見せる彼女\n\n# textflame 1 1\n@アルマス\n別に…落ち込んでなんかないわ\n\n@アルマス\nただ…\n\n@アルマス\n少し\n寂しいかな…って\n\n# textflame 0 0\n@\n端的に悲しみをぶつけてきた彼女\n\n# textflame 0 0\n@\nその表情に、\nマスターもまた\n激しく胸を痛めていた…\n\n;;-----------------------------------------\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

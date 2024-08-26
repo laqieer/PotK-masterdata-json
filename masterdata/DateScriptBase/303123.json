@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 303123,
+		"script": ";;中C今度は僕が作るよ\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_room\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n# voice 230311 \"cassius_ge_0022\"\n@カシウス\n御館様が…わたしのために？\n\n@カシウス\nもし作ってくれるなら、\nぜひ食べさせてほしい…\n\n@カシウス\n不思議…\n御館様に料理を\n作ってもらえると思っただけで…\n\n@カシウス\n胸の奥から、\n湧き立つような感情が\n生まれてくる…\n\n@カシウス\nこの感情は、いったい？\n\n# voice 230311 \"cassius_ge_0002\"\n@カシウス\nもしかして…御館様も、\nこんな気持ちを感じていたの？\n\n@カシウス\nわたしの料理を待っているとき…\nあなたもこんな感情だったの？\n\n# face %(unit_a)s \"smile\"\n# voice 230311 \"cassius_ge_0004\"\n@カシウス\nふふっ…\n御館様と同じ気持ち…\n\n@カシウス\nああ…\nやっぱり、これが…\n嬉しいという感情…\n\n@カシウス\nようやく、この感情の\n本当の意味を\n理解できた気がする…\n\n# voice 230311 \"cassius_ge_0001\"\n@カシウス\n御館様…わたし、\n楽しみにしてる\n\n@カシウス\nあなたがわたしのために、\n手作りの料理を\nふるまってくれることを…\n\n# voice 230311 \"cassius_ge_0004\"\n@カシウス\nふふっ…\n待ち遠しい、って\nきっとこんな感情なのね…\n\n@カシウス\n教えてくれてありがとう、\n御館様…\n\n# textflame 0 0\n@\nカシウスの期待の眼差しに、\n応えてみせようと\n奮起するマスター\n\n@\n二人はそれから、\n次の食事会の\n計画を練りはじめたのだった…\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

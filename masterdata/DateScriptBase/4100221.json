@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 4100221,
+		"script": ";;A,中\n;;B,大\n;;C,小\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_room\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# face %(unit_a)s \"normal\"\n# textflame 0 0\n@\nデートの帰り…\n眠そうなレーヴァテインを\n部屋まで送ったマスター\n\n@\nすぐに帰ろうとするが、\n寝ぼけたレーヴァテインに\n呼び止められる\n\n# textflame 1 1\n# face %(unit_a)s \"angry\"\n# voice 210024 \"revatein_lo_0028\"\n@レーヴァテイン\nむぅ…まって…\nもうかえるつもり？\n\n# voice 210024 \"revatein_lo_0027\"\n@レーヴァテイン\nマスターがかえりたいなら\nべつにいいけどさ…\n\n# select \"さびしいの？\" \"select_label_01\" \"まだ一緒にいるよ\" \"select_label_02\" \"これから用事が…\" \"select_label_03\"\nむぅ…まって…\nもうかえるつもり？\n\n# label \"select_label_01\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.2\n\n# label \"select_label_02\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.2\n\n# label \"select_label_03\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# textflame 1 1\n# waitandnext 0.2\n\n# label \"select_label_end\"\n# waitandnext 2\n# fadeout \"black\" 1.2\n"
+	}
+]

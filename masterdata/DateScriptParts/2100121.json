@@ -1,0 +1,26 @@
+[
+	{
+		"ID": 385,
+		"unitID": 2100121,
+		"scriptID": "kaerimichi",
+		"script": "拙者はまだ時間に余裕がある\nもう少し主君のそばにいたいのだが…"
+	},
+	{
+		"ID": 386,
+		"unitID": 2100121,
+		"scriptID": "kaeru_ok",
+		"script": "@%(unitName:unit_a)s\nあぁ、問題ない\n主君とともに、どこまでも行こう"
+	},
+	{
+		"ID": 387,
+		"unitID": 2100121,
+		"scriptID": "kaeru",
+		"script": "またどこかに向かう際は\nお声がけくだされ"
+	},
+	{
+		"ID": 388,
+		"unitID": 2100121,
+		"scriptID": "kaeru_ng",
+		"script": "@%(unitName:unit_a)s\n誠に申し訳ない…\n用事があるゆえ、ここで失礼いたす"
+	}
+]

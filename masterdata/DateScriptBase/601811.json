@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 601811,
+		"script": ";;大A外に出ようか\n;;中Bどうして恐ろしいの？\n;;小C先に進んでみよう\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_church\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask 2601811 on\n# chara %(unit_a)s\n# face %(unit_a)s \"usual\"\n# textflame 0 0\n@\nマスターは、ふと見かけた教会に\nウィズを連れて入った\n\n# face %(unit_a)s \"normal\"\n# voice 260181 \"wizu_0021\"\n# textflame 1 1\n@ウィズ\nわぁ！\n素敵な教会ですね！\n\n@ウィズ\nエリス教徒のものでしょうか？\nそれともアクシズ教徒の…\n\n@ウィズ\nああいえ、なんでもないです\nこの世界では\n関係ありませんでしたね\n\n# face %(unit_a)s \"usual\"\n# voice 260181 \"wizu_0026\"\n@ウィズ\n…まあ、私にとってはあまり\n近づきたくない場所であることに\n変わりはないのですが…\n\n# select \"外に出ようか\" \"select_label_01\" \"どうして恐ろしいの？\" \"select_label_02\" \"先に進んでみよう\" \"select_label_03\"\n…まあ、私にとってはあまり\n近づきたくない場所であることに\n変わりはないのですが…\n\n# label \"select_label_01\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_02\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_03\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_end\"\n# waitandnext 0.1\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

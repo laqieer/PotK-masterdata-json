@@ -1,0 +1,26 @@
+[
+	{
+		"ID": 172,
+		"unitID": 2600511,
+		"scriptID": "kaerimichi",
+		"script": "知ってた？今日ってカドケウスも\n居ないから二人っきりなんだよ？\nだから、もう少しデートしようよ！"
+	},
+	{
+		"ID": 186,
+		"unitID": 2600511,
+		"scriptID": "kaeru",
+		"script": "まだ私と一緒にいたいの？\nでも、ざーんねん！\nまた今度ね！"
+	},
+	{
+		"ID": 200,
+		"unitID": 2600511,
+		"scriptID": "kaeru_ok",
+		"script": "@%(unitName:unit_a)s\nカドケウスもババアもいないし…\nふふっ！マスターを独り占めだね\nさあ、行こっかー！"
+	},
+	{
+		"ID": 214,
+		"unitID": 2600511,
+		"scriptID": "kaeru_ng",
+		"script": "@%(unitName:unit_a)s\n今日はカドケウスとこれから\n約束があるんだー！\nごめんねっ！"
+	}
+]

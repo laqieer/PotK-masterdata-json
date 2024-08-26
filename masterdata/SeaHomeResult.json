@@ -1,0 +1,34 @@
+[
+	{
+		"ID": 1,
+		"name": "大好き",
+		"effect_on": 1,
+		"effect_trigger": "dear_degree_up4",
+		"gauge_effect_on": 1,
+		"gauge_effect_trigger": "dear_degree_up4"
+	},
+	{
+		"ID": 2,
+		"name": "好き",
+		"effect_on": 1,
+		"effect_trigger": "dear_degree_up3",
+		"gauge_effect_on": 1,
+		"gauge_effect_trigger": "dear_degree_up3"
+	},
+	{
+		"ID": 3,
+		"name": "普通",
+		"effect_on": 1,
+		"effect_trigger": "dear_degree_up2",
+		"gauge_effect_on": 1,
+		"gauge_effect_trigger": "dear_degree_up2"
+	},
+	{
+		"ID": 4,
+		"name": "嫌い",
+		"effect_on": 0,
+		"effect_trigger": "",
+		"gauge_effect_on": 1,
+		"gauge_effect_trigger": "dear_degree_up1"
+	}
+]

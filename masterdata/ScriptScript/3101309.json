@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 3101309,
+		"script": "# script \"lisp\"\n# background \"town\"\n# bgm \"bgm001\" 0\n# body 810004\n# mask 810004 off\n# pos 810004 3\n# textflame 1 1\n# textboxarrow 0 2\n# voice 9994 \"izokutaisho_0011\"\n@異族の大将\nクソ…\nこんな副作用があったんかよ…\n聞いてないわ～！\n\n@異族の大将\nもっと時間があれば\n全員倒せとったのに！\n来月こそ、来月こそは…\n\n@異族の大将\nクリア報酬の姫石の数は\nニコ生のコメント数に応じて\n変わるねんて、やから…\n\n# textwindow \"toge\"\n# voice 9994 \"izokutaisho_0004\"\n# jump 810004\n@異族の大将\n2月19日(金)の\n『ファンキルニコ生』も\nみんな見てや～！！\n\n@異族の大将\n今月もゲストが豪華やで！\n"
+	}
+]

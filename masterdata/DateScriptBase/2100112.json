@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 2100112,
+		"script": "# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_aquarium_day\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 210012 \"masamune_k_0023\"\n@マサムネ\n二人で一緒に…！\n\n# face %(unit_a)s \"shy\"\n@マサムネ\nな、何をおっしゃるのですか\nそういうのは他の姫にしてくだされ\n拙者は、ただの刀ゆえ…\n\n# textflame 0 0\n@\n遠慮しているマサムネの手を握り、\n強く引っ張った\n\n# textflame 1 1\n# voice 210012 \"masamune_k_0022\"\n# face %(unit_a)s \"sad\"\n@マサムネ\nしゅ、主君…なにを…\n\n# textflame 0 0\n@\n今日この時くらいは\n一人の女の子であるマサムネと\n一緒にいたい\n\n@\nそう告げると、\n彼女は顔を真っ赤に染めた\n\n# textflame 1 1\n# face %(unit_a)s \"shy\"\n@マサムネ\nしょ、承知した…\n\n# textflame 0 0\n@\n照れた様子のマサムネと共に\n水族館の中を見てまわる\n\n@\nそんなマサムネと繋いだ手からは\n彼女のドキドキが\nずっと伝わって来ていた…\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 301813,
+		"script": ";;B中あたり\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_cafe\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# voice 3018 \"forcas_0003\"\n@フォルカス\nはい。味も好きですけど、\n香りと雰囲気が好きなのです\n\n@\nその気持ちはわかるよと伝えると\nフォルカスは笑みがさらに深くなる\n\n# voice 3018 \"forcas_0022\"\n# face %(unit_a)s \"sad\"\n@フォルカス\nマスターもそうなんですか？\n\n# voice 3018 \"forcas_0004\"\n# face %(unit_a)s \"smile\"\n@フォルカス\nふふっ\nわかってくれる人が\n少なかったんですよ\n\n@フォルカス\nなんだか…\n気持ちが通じたようで\n少し嬉しいです\n\n@\n照れているのを隠すように\nフォルカスはティーカップを\n口元に運んで顔を隠すのだった\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

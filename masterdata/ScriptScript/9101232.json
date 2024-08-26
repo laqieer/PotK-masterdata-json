@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 9101232,
+		"script": ";;//戦闘3\n# script \"lisp\"\n# background \"town_night\"\n# bgmfile \"bgm069_070\" \"BgmHalloween001\" 0\n# body 103521\n# pos 103521 4\n# mask 103521 on\n# alpha 103521 0 0\n# scale 103521 0.8 0\n# body 602021\n# pos 602021 3\n# mask 602021 off\n# alpha 602021 1 0\n# scale 602021 0.8 0\n# face 602021 \"sad\"\n# textflame 1 1\n# textboxarrow 0 2\n# chara 602021\n# voice 6020 \"ness_0027\"\n# layer 103521 1\n@ネス\nふぅ…\nやはり不思議ですね\n\n@ネス\n異族はハロウィンに\n惹かれて集まるのでしょうか？\n\n# face 103521 \"happy\"\n# voice 1035 \"damocles_0021\"\n# alpha 103521 1 0\n# mask 602021 on\n# move 602021 2 0.5\n# rightin 103521 0.5\n# textflame 1 1\n# textboxarrow 0 3\n# chara 103521\n@ダモクレス\nあ、いたいた！\nマスター！ネス～！\n\n# textflame 0 0\n@\n人混みの向こうから\nダモクレスが現れた\n\n# textflame 1 1\n# textboxarrow 0 3\n# chara 103521\n@ダモクレス\n異族が出たって聞いたから\nそこならふたりがいるかなって！\n\n# voice 1035 \"damocles_0023\"\n@ダモクレス\nあー！\nネスはたくさんお菓子もらえたね！\nいいな～！すごいな～！\n\n# face 602021 \"shy\"\n# voice 6020 \"ness_0028\"\n# textflame 1 1\n# textboxarrow 0 1\n# chara 602021\n@ネス\nこ、これは、\n親切な方が勝手に…\n\n# face 602021 \"sad\"\n@ネス\nしかし、こんなに大量の\nお菓子は節制と規律に反します！\nなんとかしなくては…"
+	}
+]

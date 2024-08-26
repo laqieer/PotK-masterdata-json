@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 91034298,
+		"script": ";;//不正解\n# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# se \"SE_0733\"\n@ダクネス\nそうか…\n普段こういうことには慣れている\n…はずなのだが\n\n;;モノローグ\n# textflame 0 0\n@\n肩を落とすダクネス\nいつもと様子が全然違った\n\n# voice 1034 \"dakunesu_0028\"\n# textflame 1 1\n@ダクネス\n少し難しかったようだな…\nだが、これはこれで\n新たな試練だと思えば…くうっ！\n\n;;モノローグ\n# textflame 0 0\n@\n普段と変わらないように見えて\n全く異なる冷たい空気\n\n;;モノローグ\n@\nそれは帰り道中続いたのだった\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

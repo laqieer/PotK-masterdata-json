@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 4101414,
+		"script": ";;C\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_cafe\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# face %(unit_a)s \"surprise\"\n# voice 210144 \"tyrufing_lo_0028\"\n# textflame 1 1\n@ティルフィング\nこれって…あっ！\nこっちのケーキも\nすごくおいしそう！\n\n# face %(unit_a)s \"normal\"\n# voice 210144 \"tyrufing_lo_0022\"\n@ティルフィング\nわ、こっちも！\nキラキラしてて\nとってもきれいですねっ\n\n# face %(unit_a)s \"surprise\"\n@ティルフィング\nえ？　まだオススメが？\nあぁっ、これも、これも！\nぜんぶおいしそうです…！\n\n# face %(unit_a)s \"sad\"\n@ティルフィング\nうぅぅ…お、お兄さん！\nオススメしてくれるのは\nうれしいんですけど…\n\n@ティルフィング\nそんなにいっぱいいわれたら、\nすごくまよっちゃいます…！\n\n# face %(unit_a)s \"surprise\"\n# voice 210144 \"tyrufing_lo_0022\"\n@ティルフィング\nえっ？\nお兄さんはもうきめてる？\nうそっ、はやいですね…！？\n\n# face %(unit_a)s \"sad\"\n# voice 210144 \"tyrufing_lo_0034\"\n@ティルフィング\nわぁぁ、まってくださいっ！\nすぐにえらびますから、\nえ～と、え～とっ！？\n\n# textflame 0 0\n@\n焦らなくていいよと声をかけ、\nティルフィングを待つマスター\n\n# textflame 0 0\n@\n昼下がりのカフェに、\n微笑ましい空気が\nゆったり流れるのだった\n\n;;-----------------------------------------\n# waitandnext 2\n# fadeout \"black\" 1.2\n"
+	}
+]

@@ -1,0 +1,302 @@
+[
+	{
+		"ID": 2351,
+		"unitID": 2201011,
+		"questionID": 9201001,
+		"script": ";;最高神,1\n# face %(unit_a)s \"usual\"\n# voice 2010 \"ukonbasara_0002\"\n@ウコンバサラ\nねぇ、ちょっといいかな？\n\n@ウコンバサラ\n確かめたいんだ…\n\n@ウコンバサラ\nキミとの絆の強さを\n\n@ウコンバサラ\n今から問題を出すから、\n「せーの」で私と一緒に\n声を揃えて答えてね\n\n# face %(unit_a)s \"smile\"\n# voice 2010 \"ukonbasara_0036\"\n@ウコンバサラ\nいい？\nいくよ！\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私のキラーズ『ウコンバサラ』の\n持ち主は、フィンランド神話における\nなにと言われているかわかる？\n\n# se \"SE_0734\"\n# select \"最高神\" \"select_label_1\" \"悪魔\" \"select_label_2\" \"聖母\" \"select_label_3\"\n私のキラーズ『ウコンバサラ』の\n持ち主は、フィンランド神話における\nなにと言われているかわかる？\n"
+	},
+	{
+		"ID": 2352,
+		"unitID": 2201011,
+		"questionID": 9201002,
+		"script": ";;石の斧,2\n# face %(unit_a)s \"usual\"\n# voice 2010 \"ukonbasara_0002\"\n@ウコンバサラ\nねぇ、ちょっといいかな？\n\n@ウコンバサラ\n確かめたいんだ…\n\n@ウコンバサラ\nキミとの絆の強さを\n\n@ウコンバサラ\n今から問題を出すから、\n「せーの」で私と一緒に\n声を揃えて答えてね\n\n# face %(unit_a)s \"smile\"\n# voice 2010 \"ukonbasara_0036\"\n@ウコンバサラ\nいい？\nいくよ！\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私のキラーズ『ウコンバサラ』は\n伝承ではどんな物だったかわかる？\n\n# se \"SE_0734\"\n# select \"鉄の斧\" \"select_label_1\" \"石の斧\" \"select_label_2\" \"金の斧\" \"select_label_3\"\n私のキラーズ『ウコンバサラ』は\n伝承ではどんな物だったかわかる？\n"
+	},
+	{
+		"ID": 2353,
+		"unitID": 2201011,
+		"questionID": 9201003,
+		"script": ";;ウッコ,3\n# face %(unit_a)s \"usual\"\n# voice 2010 \"ukonbasara_0002\"\n@ウコンバサラ\nねぇ、ちょっといいかな？\n\n@ウコンバサラ\n確かめたいんだ…\n\n@ウコンバサラ\nキミとの絆の強さを\n\n@ウコンバサラ\n今から問題を出すから、\n「せーの」で私と一緒に\n声を揃えて答えてね\n\n# face %(unit_a)s \"smile\"\n# voice 2010 \"ukonbasara_0036\"\n@ウコンバサラ\nいい？\nいくよ！\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私のキラーズ『ウコンバサラ』は\n誰の武器だったかわかるかな？\n\n# se \"SE_0734\"\n# select \"ラッコ\" \"select_label_1\" \"バッコ\" \"select_label_2\" \"ウッコ\" \"select_label_3\"\n私のキラーズ『ウコンバサラ』は\n誰の武器だったかわかるかな？\n"
+	},
+	{
+		"ID": 2354,
+		"unitID": 2201011,
+		"questionID": 9201004,
+		"script": ";;雷神,1\n# face %(unit_a)s \"usual\"\n# voice 2010 \"ukonbasara_0002\"\n@ウコンバサラ\nねぇ、ちょっといいかな？\n\n@ウコンバサラ\n確かめたいんだ…\n\n@ウコンバサラ\nキミとの絆の強さを\n\n@ウコンバサラ\n今から問題を出すから、\n「せーの」で私と一緒に\n声を揃えて答えてね\n\n# face %(unit_a)s \"smile\"\n# voice 2010 \"ukonbasara_0036\"\n@ウコンバサラ\nいい？\nいくよ！\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私のキラーズ『ウコンバサラ』の\n持ち主のウッコはどんな神？\n\n# se \"SE_0734\"\n# select \"雷神\" \"select_label_1\" \"風神\" \"select_label_2\" \"龍神\" \"select_label_3\"\n私のキラーズ『ウコンバサラ』の\n持ち主のウッコはどんな神？\n"
+	},
+	{
+		"ID": 2355,
+		"unitID": 2201011,
+		"questionID": 9201005,
+		"script": ";;稲光,2\n# face %(unit_a)s \"usual\"\n# voice 2010 \"ukonbasara_0002\"\n@ウコンバサラ\nねぇ、ちょっといいかな？\n\n@ウコンバサラ\n確かめたいんだ…\n\n@ウコンバサラ\nキミとの絆の強さを\n\n@ウコンバサラ\n今から問題を出すから、\n「せーの」で私と一緒に\n声を揃えて答えてね\n\n# face %(unit_a)s \"smile\"\n# voice 2010 \"ukonbasara_0036\"\n@ウコンバサラ\nいい？\nいくよ！\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私のキラーズ『ウコンバサラ』で\nウッコはなにを起こしたか知ってる？\n\n# se \"SE_0734\"\n# select \"津波\" \"select_label_1\" \"稲光\" \"select_label_2\" \"噴火\" \"select_label_3\"\n私のキラーズ『ウコンバサラ』で\nウッコはなにを起こしたか知ってる？\n"
+	},
+	{
+		"ID": 2356,
+		"unitID": 2201011,
+		"questionID": 9201006,
+		"script": ";;フィンランド神話,3\n# face %(unit_a)s \"usual\"\n# voice 2010 \"ukonbasara_0002\"\n@ウコンバサラ\nねぇ、ちょっといいかな？\n\n@ウコンバサラ\n確かめたいんだ…\n\n@ウコンバサラ\nキミとの絆の強さを\n\n@ウコンバサラ\n今から問題を出すから、\n「せーの」で私と一緒に\n声を揃えて答えてね\n\n# face %(unit_a)s \"smile\"\n# voice 2010 \"ukonbasara_0036\"\n@ウコンバサラ\nいい？\nいくよ！\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私のキラーズ『ウコンバサラ』は\nどんな伝承に登場する？\n\n# se \"SE_0734\"\n# select \"北欧神話\" \"select_label_1\" \"ギリシア神話\" \"select_label_2\" \"フィンランド神話\" \"select_label_3\"\n私のキラーズ『ウコンバサラ』は\nどんな伝承に登場する？\n"
+	},
+	{
+		"ID": 2357,
+		"unitID": 2201011,
+		"questionID": 9201007,
+		"script": ";;ボートのような形の石斧,1\n# face %(unit_a)s \"usual\"\n# voice 2010 \"ukonbasara_0002\"\n@ウコンバサラ\nねぇ、ちょっといいかな？\n\n@ウコンバサラ\n確かめたいんだ…\n\n@ウコンバサラ\nキミとの絆の強さを\n\n@ウコンバサラ\n今から問題を出すから、\n「せーの」で私と一緒に\n声を揃えて答えてね\n\n# face %(unit_a)s \"smile\"\n# voice 2010 \"ukonbasara_0036\"\n@ウコンバサラ\nいい？\nいくよ！\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私のキラーズ『ウコンバサラ』は\nどんな形だったと云われている？\n\n# se \"SE_0734\"\n# select \"ボートのような形の石斧\" \"select_label_1\" \"飛行機の様な形の石斧\" \"select_label_2\" \"トラックの様な形の石斧\" \"select_label_3\"\n私のキラーズ『ウコンバサラ』は\nどんな形だったと云われている？\n"
+	},
+	{
+		"ID": 2358,
+		"unitID": 2201011,
+		"questionID": 9201008,
+		"script": ";;治癒と破壊,2\n# face %(unit_a)s \"usual\"\n# voice 2010 \"ukonbasara_0002\"\n@ウコンバサラ\nねぇ、ちょっといいかな？\n\n@ウコンバサラ\n確かめたいんだ…\n\n@ウコンバサラ\nキミとの絆の強さを\n\n@ウコンバサラ\n今から問題を出すから、\n「せーの」で私と一緒に\n声を揃えて答えてね\n\n# face %(unit_a)s \"smile\"\n# voice 2010 \"ukonbasara_0036\"\n@ウコンバサラ\nいい？\nいくよ！\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私のキラーズ『ウコンバサラ』は\nどんな力があると信じられている？ \n\n# se \"SE_0734\"\n# select \"洗浄と染み抜き\" \"select_label_1\" \"治癒と破壊\" \"select_label_2\" \"除湿と加湿\" \"select_label_3\"\n私のキラーズ『ウコンバサラ』は\nどんな力があると信じられている？ \n"
+	},
+	{
+		"ID": 2359,
+		"unitID": 2201011,
+		"questionID": 9201009,
+		"script": ";;フィン族,3\n# face %(unit_a)s \"usual\"\n# voice 2010 \"ukonbasara_0002\"\n@ウコンバサラ\nねぇ、ちょっといいかな？\n\n@ウコンバサラ\n確かめたいんだ…\n\n@ウコンバサラ\nキミとの絆の強さを\n\n@ウコンバサラ\n今から問題を出すから、\n「せーの」で私と一緒に\n声を揃えて答えてね\n\n# face %(unit_a)s \"smile\"\n# voice 2010 \"ukonbasara_0036\"\n@ウコンバサラ\nいい？\nいくよ！\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私のキラーズ『ウコンバサラ』の\n持ち主雷神・ウッコを\n信じている民族はわかる？\n\n# se \"SE_0734\"\n# select \"ウコン族\" \"select_label_1\" \"ラン族\" \"select_label_2\" \"フィン族\" \"select_label_3\"\n私のキラーズ『ウコンバサラ』の\n持ち主雷神・ウッコを\n信じている民族はわかる？\n"
+	},
+	{
+		"ID": 2360,
+		"unitID": 2201011,
+		"questionID": 9201010,
+		"script": ";;ミョルニル,1\n# face %(unit_a)s \"usual\"\n# voice 2010 \"ukonbasara_0002\"\n@ウコンバサラ\nねぇ、ちょっといいかな？\n\n@ウコンバサラ\n確かめたいんだ…\n\n@ウコンバサラ\nキミとの絆の強さを\n\n@ウコンバサラ\n今から問題を出すから、\n「せーの」で私と一緒に\n声を揃えて答えてね\n\n# face %(unit_a)s \"smile\"\n# voice 2010 \"ukonbasara_0036\"\n@ウコンバサラ\nいい？\nいくよ！\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私のキラーズ『ウコンバサラ』と\n似ていると言われているのは\n次のうちどれ？\n\n# se \"SE_0734\"\n# select \"ミョルニル\" \"select_label_1\" \"シタ\" \"select_label_2\" \"グラム\" \"select_label_3\"\n私のキラーズ『ウコンバサラ』と\n似ていると言われているのは\n次のうちどれ？\n"
+	},
+	{
+		"ID": 2361,
+		"unitID": 2201011,
+		"questionID": 9201011,
+		"script": ";;雷,1\n# face %(unit_a)s \"usual\"\n@ウコンバサラ\nあのね…\n\n# face %(unit_a)s \"sad\"\n@ウコンバサラ\n私は…キミのそばを\nかたときも離れないよ\n\n# face %(unit_a)s \"usual\"\n# voice 2010 \"ukonbasara_0002\"\n@ウコンバサラ\nキミを守るって決めたからね…\n\n@ウコンバサラ\nだからキミのことなら、\nなんでも知っている…\n\n@ウコンバサラ\nキミはどうかな…？\n私のこと、ちゃんと\nわかってくれてる？\n\n# voice 2010 \"ukonbasara_0036\"\n# face %(unit_a)s \"smile\"\n@ウコンバサラ\nねぇ、今から\n問題を出してみてもいい…？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の属性は知っているかな？\n\n# se \"SE_0734\"\n# select \"雷\" \"select_label_1\" \"氷\" \"select_label_2\" \"光\" \"select_label_3\"\n私の属性は知っているかな？\n"
+	},
+	{
+		"ID": 2362,
+		"unitID": 2201011,
+		"questionID": 9201012,
+		"script": ";;153㎝,2\n# face %(unit_a)s \"usual\"\n@ウコンバサラ\nあのね…\n\n# face %(unit_a)s \"sad\"\n@ウコンバサラ\n私は…キミのそばを\nかたときも離れないよ\n\n# face %(unit_a)s \"usual\"\n# voice 2010 \"ukonbasara_0002\"\n@ウコンバサラ\nキミを守るって決めたからね…\n\n@ウコンバサラ\nだからキミのことなら、\nなんでも知っている…\n\n@ウコンバサラ\nキミはどうかな…？\n私のこと、ちゃんと\nわかってくれてる？\n\n# voice 2010 \"ukonbasara_0036\"\n# face %(unit_a)s \"smile\"\n@ウコンバサラ\nねぇ、今から\n問題を出してみてもいい…？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の身長わかるかな？\n\n# se \"SE_0734\"\n# select \"160ｃｍ\" \"select_label_1\" \"153㎝\" \"select_label_2\" \"172㎝\" \"select_label_3\"\n私の身長わかるかな？\n"
+	},
+	{
+		"ID": 2363,
+		"unitID": 2201011,
+		"questionID": 9201013,
+		"script": ";;8月2日,3\n# face %(unit_a)s \"usual\"\n@ウコンバサラ\nあのね…\n\n# face %(unit_a)s \"sad\"\n@ウコンバサラ\n私は…キミのそばを\nかたときも離れないよ\n\n# face %(unit_a)s \"usual\"\n# voice 2010 \"ukonbasara_0002\"\n@ウコンバサラ\nキミを守るって決めたからね…\n\n@ウコンバサラ\nだからキミのことなら、\nなんでも知っている…\n\n@ウコンバサラ\nキミはどうかな…？\n私のこと、ちゃんと\nわかってくれてる？\n\n# voice 2010 \"ukonbasara_0036\"\n# face %(unit_a)s \"smile\"\n@ウコンバサラ\nねぇ、今から\n問題を出してみてもいい…？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の誕生日って知ってるかな？\n\n# se \"SE_0734\"\n# select \"10月24日\" \"select_label_1\" \"9月8日\" \"select_label_2\" \"8月2日\" \"select_label_3\"\n私の誕生日って知ってるかな？\n"
+	},
+	{
+		"ID": 2364,
+		"unitID": 2201011,
+		"questionID": 9201014,
+		"script": ";;しし座,1\n# face %(unit_a)s \"usual\"\n@ウコンバサラ\nあのね…\n\n# face %(unit_a)s \"sad\"\n@ウコンバサラ\n私は…キミのそばを\nかたときも離れないよ\n\n# face %(unit_a)s \"usual\"\n# voice 2010 \"ukonbasara_0002\"\n@ウコンバサラ\nキミを守るって決めたからね…\n\n@ウコンバサラ\nだからキミのことなら、\nなんでも知っている…\n\n@ウコンバサラ\nキミはどうかな…？\n私のこと、ちゃんと\nわかってくれてる？\n\n# voice 2010 \"ukonbasara_0036\"\n# face %(unit_a)s \"smile\"\n@ウコンバサラ\nねぇ、今から\n問題を出してみてもいい…？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の星座はわかるかな…？\n\n# se \"SE_0734\"\n# select \"しし座\" \"select_label_1\" \"おうし座\" \"select_label_2\" \"おとめ座\" \"select_label_3\"\n私の星座はわかるかな…？\n"
+	},
+	{
+		"ID": 2365,
+		"unitID": 2201011,
+		"questionID": 9201015,
+		"script": ";;ペンダント,2\n# face %(unit_a)s \"usual\"\n@ウコンバサラ\nあのね…\n\n# face %(unit_a)s \"sad\"\n@ウコンバサラ\n私は…キミのそばを\nかたときも離れないよ\n\n# face %(unit_a)s \"usual\"\n# voice 2010 \"ukonbasara_0002\"\n@ウコンバサラ\nキミを守るって決めたからね…\n\n@ウコンバサラ\nだからキミのことなら、\nなんでも知っている…\n\n@ウコンバサラ\nキミはどうかな…？\n私のこと、ちゃんと\nわかってくれてる？\n\n# voice 2010 \"ukonbasara_0036\"\n# face %(unit_a)s \"smile\"\n@ウコンバサラ\nねぇ、今から\n問題を出してみてもいい…？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の好きなアクセサリーは\nわかるかな…？\n\n# se \"SE_0734\"\n# select \"イヤリング\" \"select_label_1\" \"ペンダント\" \"select_label_2\" \"アンクレット\" \"select_label_3\"\n私の好きなアクセサリーは\nわかるかな…？\n"
+	},
+	{
+		"ID": 2366,
+		"unitID": 2201011,
+		"questionID": 9201016,
+		"script": ";;穏やか,3\n# face %(unit_a)s \"usual\"\n@ウコンバサラ\nあのね…\n\n# face %(unit_a)s \"sad\"\n@ウコンバサラ\n私は…キミのそばを\nかたときも離れないよ\n\n# face %(unit_a)s \"usual\"\n# voice 2010 \"ukonbasara_0002\"\n@ウコンバサラ\nキミを守るって決めたからね…\n\n@ウコンバサラ\nだからキミのことなら、\nなんでも知っている…\n\n@ウコンバサラ\nキミはどうかな…？\n私のこと、ちゃんと\nわかってくれてる？\n\n# voice 2010 \"ukonbasara_0036\"\n# face %(unit_a)s \"smile\"\n@ウコンバサラ\nねぇ、今から\n問題を出してみてもいい…？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の性格ってどちらかというと…\n\n# se \"SE_0734\"\n# select \"根暗\" \"select_label_1\" \"極悪\" \"select_label_2\" \"穏やか\" \"select_label_3\"\n私の性格ってどちらかというと…\n"
+	},
+	{
+		"ID": 2367,
+		"unitID": 2201011,
+		"questionID": 9201017,
+		"script": ";;A型,1\n# face %(unit_a)s \"usual\"\n@ウコンバサラ\nあのね…\n\n# face %(unit_a)s \"sad\"\n@ウコンバサラ\n私は…キミのそばを\nかたときも離れないよ\n\n# face %(unit_a)s \"usual\"\n# voice 2010 \"ukonbasara_0002\"\n@ウコンバサラ\nキミを守るって決めたからね…\n\n@ウコンバサラ\nだからキミのことなら、\nなんでも知っている…\n\n@ウコンバサラ\nキミはどうかな…？\n私のこと、ちゃんと\nわかってくれてる？\n\n# voice 2010 \"ukonbasara_0036\"\n# face %(unit_a)s \"smile\"\n@ウコンバサラ\nねぇ、今から\n問題を出してみてもいい…？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の血液型、わかるかな？\n\n# se \"SE_0734\"\n# select \"A型\" \"select_label_1\" \"O型\" \"select_label_2\" \"B型\" \"select_label_3\"\n私の血液型、わかるかな？\n"
+	},
+	{
+		"ID": 2368,
+		"unitID": 2201011,
+		"questionID": 9201018,
+		"script": ";;フィンランド,2\n# face %(unit_a)s \"usual\"\n@ウコンバサラ\nあのね…\n\n# face %(unit_a)s \"sad\"\n@ウコンバサラ\n私は…キミのそばを\nかたときも離れないよ\n\n# face %(unit_a)s \"usual\"\n# voice 2010 \"ukonbasara_0002\"\n@ウコンバサラ\nキミを守るって決めたからね…\n\n@ウコンバサラ\nだからキミのことなら、\nなんでも知っている…\n\n@ウコンバサラ\nキミはどうかな…？\n私のこと、ちゃんと\nわかってくれてる？\n\n# voice 2010 \"ukonbasara_0036\"\n# face %(unit_a)s \"smile\"\n@ウコンバサラ\nねぇ、今から\n問題を出してみてもいい…？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の出身地はわかるかな？\n\n# se \"SE_0734\"\n# select \"ポーランド\" \"select_label_1\" \"フィンランド\" \"select_label_2\" \"デンマーク\" \"select_label_3\"\n私の出身地はわかるかな？\n"
+	},
+	{
+		"ID": 2369,
+		"unitID": 2201011,
+		"questionID": 9201019,
+		"script": ";;石斧収集,3\n# face %(unit_a)s \"usual\"\n@ウコンバサラ\nあのね…\n\n# face %(unit_a)s \"sad\"\n@ウコンバサラ\n私は…キミのそばを\nかたときも離れないよ\n\n# face %(unit_a)s \"usual\"\n# voice 2010 \"ukonbasara_0002\"\n@ウコンバサラ\nキミを守るって決めたからね…\n\n@ウコンバサラ\nだからキミのことなら、\nなんでも知っている…\n\n@ウコンバサラ\nキミはどうかな…？\n私のこと、ちゃんと\nわかってくれてる？\n\n# voice 2010 \"ukonbasara_0036\"\n# face %(unit_a)s \"smile\"\n@ウコンバサラ\nねぇ、今から\n問題を出してみてもいい…？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の趣味はどれかわかるかな？\n\n# se \"SE_0734\"\n# select \"溶接\" \"select_label_1\" \"アクセサリー収集\" \"select_label_2\" \"石斧収集\" \"select_label_3\"\n私の趣味はどれかわかるかな？\n"
+	},
+	{
+		"ID": 2370,
+		"unitID": 2201011,
+		"questionID": 9201020,
+		"script": ";;守ってあげたい,1\n# face %(unit_a)s \"usual\"\n@ウコンバサラ\nあのね…\n\n# face %(unit_a)s \"sad\"\n@ウコンバサラ\n私は…キミのそばを\nかたときも離れないよ\n\n# face %(unit_a)s \"usual\"\n# voice 2010 \"ukonbasara_0002\"\n@ウコンバサラ\nキミを守るって決めたからね…\n\n@ウコンバサラ\nだからキミのことなら、\nなんでも知っている…\n\n@ウコンバサラ\nキミはどうかな…？\n私のこと、ちゃんと\nわかってくれてる？\n\n# voice 2010 \"ukonbasara_0036\"\n# face %(unit_a)s \"smile\"\n@ウコンバサラ\nねぇ、今から\n問題を出してみてもいい…？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私はキミのことを…\n\n# se \"SE_0734\"\n# select \"守ってあげたい\" \"select_label_1\" \"貶してやりたい\" \"select_label_2\" \"からかってやりたい\" \"select_label_3\"\n私はキミのことを…\n"
+	},
+	{
+		"ID": 2371,
+		"unitID": 2201011,
+		"questionID": 9201021,
+		"script": ";;バサラ,1\n# voice 2010 \"ukonbasara_0001\"\n@ウコンバサラ\nねぇ、マスター\n\n# face %(unit_a)s \"sad\"\n@ウコンバサラ\n私が最も恐れていること…\nなにかわかる？\n\n# voice 2010 \"ukonbasara_0002\"\n@ウコンバサラ\nそれはね…\nキミを失うことだよ\n\n# face %(unit_a)s \"usual\"\n@ウコンバサラ\nだから…\nずっと強い絆で\n結ばれてたいんだ\n\n# voice 2010 \"ukonbasara_0036\"\n@ウコンバサラ\nだから…私のこと…\nどこまで分かってくれているのか…\n質問してもいい…？\n\n# face %(unit_a)s \"smile\"\n@ウコンバサラ\n…絆を…試したいんだ\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私はキミにこう呼んで欲しいな\n\n# se \"SE_0734\"\n# select \"バサラ\" \"select_label_1\" \"ウコン\" \"select_label_2\" \"ウコバサ\" \"select_label_3\"\n私はキミにこう呼んで欲しいな\n"
+	},
+	{
+		"ID": 2372,
+		"unitID": 2201011,
+		"questionID": 9201022,
+		"script": ";;斧神,2\n# voice 2010 \"ukonbasara_0001\"\n@ウコンバサラ\nねぇ、マスター\n\n# face %(unit_a)s \"sad\"\n@ウコンバサラ\n私が最も恐れていること…\nなにかわかる？\n\n# voice 2010 \"ukonbasara_0002\"\n@ウコンバサラ\nそれはね…\nキミを失うことだよ\n\n# face %(unit_a)s \"usual\"\n@ウコンバサラ\nだから…\nずっと強い絆で\n結ばれてたいんだ\n\n# voice 2010 \"ukonbasara_0036\"\n@ウコンバサラ\nだから…私のこと…\nどこまで分かってくれているのか…\n質問してもいい…？\n\n# face %(unit_a)s \"smile\"\n@ウコンバサラ\n…絆を…試したいんだ\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の☆６のジョブ名、わかるかな？ \n\n# se \"SE_0734\"\n# select \"斧姫\" \"select_label_1\" \"斧神\" \"select_label_2\" \"斧天使\" \"select_label_3\"\n私の☆６のジョブ名、わかるかな？ \n"
+	},
+	{
+		"ID": 2373,
+		"unitID": 2201011,
+		"questionID": 9201023,
+		"script": ";;ペンダント,3\n# voice 2010 \"ukonbasara_0001\"\n@ウコンバサラ\nねぇ、マスター\n\n# face %(unit_a)s \"sad\"\n@ウコンバサラ\n私が最も恐れていること…\nなにかわかる？\n\n# voice 2010 \"ukonbasara_0002\"\n@ウコンバサラ\nそれはね…\nキミを失うことだよ\n\n# face %(unit_a)s \"usual\"\n@ウコンバサラ\nだから…\nずっと強い絆で\n結ばれてたいんだ\n\n# voice 2010 \"ukonbasara_0036\"\n@ウコンバサラ\nだから…私のこと…\nどこまで分かってくれているのか…\n質問してもいい…？\n\n# face %(unit_a)s \"smile\"\n@ウコンバサラ\n…絆を…試したいんだ\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私がキミに会った時に\n渡したものって覚えてるかな？\n\n# se \"SE_0734\"\n# select \"サンダル\" \"select_label_1\" \"ユニフォーム\" \"select_label_2\" \"ペンダント\" \"select_label_3\"\n私がキミに会った時に\n渡したものって覚えてるかな？\n"
+	},
+	{
+		"ID": 2374,
+		"unitID": 2201011,
+		"questionID": 9201024,
+		"script": ";;神斧将の威厳,1\n# voice 2010 \"ukonbasara_0001\"\n@ウコンバサラ\nねぇ、マスター\n\n# face %(unit_a)s \"sad\"\n@ウコンバサラ\n私が最も恐れていること…\nなにかわかる？\n\n# voice 2010 \"ukonbasara_0002\"\n@ウコンバサラ\nそれはね…\nキミを失うことだよ\n\n# face %(unit_a)s \"usual\"\n@ウコンバサラ\nだから…\nずっと強い絆で\n結ばれてたいんだ\n\n# voice 2010 \"ukonbasara_0036\"\n@ウコンバサラ\nだから…私のこと…\nどこまで分かってくれているのか…\n質問してもいい…？\n\n# face %(unit_a)s \"smile\"\n@ウコンバサラ\n…絆を…試したいんだ\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の☆６のリーダースキル\nわかるかな？\n\n# se \"SE_0734\"\n# select \"神斧将の威厳\" \"select_label_1\" \"神斧将の格言\" \"select_label_2\" \"神斧将の風格\" \"select_label_3\"\n私の☆６のリーダースキル\nわかるかな？\n"
+	},
+	{
+		"ID": 2375,
+		"unitID": 2201011,
+		"questionID": 9201025,
+		"script": ";;ミョルニル,2\n# voice 2010 \"ukonbasara_0001\"\n@ウコンバサラ\nねぇ、マスター\n\n# face %(unit_a)s \"sad\"\n@ウコンバサラ\n私が最も恐れていること…\nなにかわかる？\n\n# voice 2010 \"ukonbasara_0002\"\n@ウコンバサラ\nそれはね…\nキミを失うことだよ\n\n# face %(unit_a)s \"usual\"\n@ウコンバサラ\nだから…\nずっと強い絆で\n結ばれてたいんだ\n\n# voice 2010 \"ukonbasara_0036\"\n@ウコンバサラ\nだから…私のこと…\nどこまで分かってくれているのか…\n質問してもいい…？\n\n# face %(unit_a)s \"smile\"\n@ウコンバサラ\n…絆を…試したいんだ\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私と仲がいいのって…？\n\n# se \"SE_0734\"\n# select \"フォルカス\" \"select_label_1\" \"ミョルニル\" \"select_label_2\" \"蜻蛉切\" \"select_label_3\"\n私と仲がいいのって…？\n"
+	},
+	{
+		"ID": 2376,
+		"unitID": 2201011,
+		"questionID": 9201026,
+		"script": ";;ケラウノス,3\n# voice 2010 \"ukonbasara_0001\"\n@ウコンバサラ\nねぇ、マスター\n\n# face %(unit_a)s \"sad\"\n@ウコンバサラ\n私が最も恐れていること…\nなにかわかる？\n\n# voice 2010 \"ukonbasara_0002\"\n@ウコンバサラ\nそれはね…\nキミを失うことだよ\n\n# face %(unit_a)s \"usual\"\n@ウコンバサラ\nだから…\nずっと強い絆で\n結ばれてたいんだ\n\n# voice 2010 \"ukonbasara_0036\"\n@ウコンバサラ\nだから…私のこと…\nどこまで分かってくれているのか…\n質問してもいい…？\n\n# face %(unit_a)s \"smile\"\n@ウコンバサラ\n…絆を…試したいんだ\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私が仲良くしたいなって\n思ってる子はね…\n\n# se \"SE_0734\"\n# select \"グラム\" \"select_label_1\" \"アスカロン\" \"select_label_2\" \"ケラウノス\" \"select_label_3\"\n私が仲良くしたいなって\n思ってる子はね…\n"
+	},
+	{
+		"ID": 2377,
+		"unitID": 2201011,
+		"questionID": 9201027,
+		"script": ";;ビーズの日,1\n# voice 2010 \"ukonbasara_0001\"\n@ウコンバサラ\nねぇ、マスター\n\n# face %(unit_a)s \"sad\"\n@ウコンバサラ\n私が最も恐れていること…\nなにかわかる？\n\n# voice 2010 \"ukonbasara_0002\"\n@ウコンバサラ\nそれはね…\nキミを失うことだよ\n\n# face %(unit_a)s \"usual\"\n@ウコンバサラ\nだから…\nずっと強い絆で\n結ばれてたいんだ\n\n# voice 2010 \"ukonbasara_0036\"\n@ウコンバサラ\nだから…私のこと…\nどこまで分かってくれているのか…\n質問してもいい…？\n\n# face %(unit_a)s \"smile\"\n@ウコンバサラ\n…絆を…試したいんだ\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の誕生日は\nなんの日かわかるかな？\n\n# se \"SE_0734\"\n# select \"ビーズの日\" \"select_label_1\" \"ドリルの日\" \"select_label_2\" \"ルールの日\" \"select_label_3\"\n私の誕生日は\nなんの日かわかるかな？\n"
+	},
+	{
+		"ID": 2378,
+		"unitID": 2201011,
+		"questionID": 9201028,
+		"script": ";;ヴィガ・クライネス,2\n# voice 2010 \"ukonbasara_0001\"\n@ウコンバサラ\nねぇ、マスター\n\n# face %(unit_a)s \"sad\"\n@ウコンバサラ\n私が最も恐れていること…\nなにかわかる？\n\n# voice 2010 \"ukonbasara_0002\"\n@ウコンバサラ\nそれはね…\nキミを失うことだよ\n\n# face %(unit_a)s \"usual\"\n@ウコンバサラ\nだから…\nずっと強い絆で\n結ばれてたいんだ\n\n# voice 2010 \"ukonbasara_0036\"\n@ウコンバサラ\nだから…私のこと…\nどこまで分かってくれているのか…\n質問してもいい…？\n\n# face %(unit_a)s \"smile\"\n@ウコンバサラ\n…絆を…試したいんだ\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私が習得したスキルは覚えてる？\n\n# se \"SE_0734\"\n# select \"ヴィガ・フェスティバル\" \"select_label_1\" \"ヴィガ・クライネス\" \"select_label_2\" \"ヴィガ・プライスレス\" \"select_label_3\"\n私が習得したスキルは覚えてる？\n"
+	},
+	{
+		"ID": 2379,
+		"unitID": 2201011,
+		"questionID": 9201029,
+		"script": ";;ヴィガ・リバース,3\n# voice 2010 \"ukonbasara_0001\"\n@ウコンバサラ\nねぇ、マスター\n\n# face %(unit_a)s \"sad\"\n@ウコンバサラ\n私が最も恐れていること…\nなにかわかる？\n\n# voice 2010 \"ukonbasara_0002\"\n@ウコンバサラ\nそれはね…\nキミを失うことだよ\n\n# face %(unit_a)s \"usual\"\n@ウコンバサラ\nだから…\nずっと強い絆で\n結ばれてたいんだ\n\n# voice 2010 \"ukonbasara_0036\"\n@ウコンバサラ\nだから…私のこと…\nどこまで分かってくれているのか…\n質問してもいい…？\n\n# face %(unit_a)s \"smile\"\n@ウコンバサラ\n…絆を…試したいんだ\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私が習得したスキルは覚えてる？\n\n# se \"SE_0734\"\n# select \"ヴィガ・ストレート\" \"select_label_1\" \"ヴィガ・バック\" \"select_label_2\" \"ヴィガ・リバース\" \"select_label_3\"\n私が習得したスキルは覚えてる？\n"
+	},
+	{
+		"ID": 2380,
+		"unitID": 2201011,
+		"questionID": 9201030,
+		"script": ";;ドッヂボール,1\n# voice 2010 \"ukonbasara_0001\"\n@ウコンバサラ\nねぇ、マスター\n\n# face %(unit_a)s \"sad\"\n@ウコンバサラ\n私が最も恐れていること…\nなにかわかる？\n\n# voice 2010 \"ukonbasara_0002\"\n@ウコンバサラ\nそれはね…\nキミを失うことだよ\n\n# face %(unit_a)s \"usual\"\n@ウコンバサラ\nだから…\nずっと強い絆で\n結ばれてたいんだ\n\n# voice 2010 \"ukonbasara_0036\"\n@ウコンバサラ\nだから…私のこと…\nどこまで分かってくれているのか…\n質問してもいい…？\n\n# face %(unit_a)s \"smile\"\n@ウコンバサラ\n…絆を…試したいんだ\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私が「ヴィガ・リバース」を\n習得した時にやったスポーツを\n覚えてる？\n\n# se \"SE_0734\"\n# select \"ドッヂボール\" \"select_label_1\" \"ソフトボール\" \"select_label_2\" \"サッカー\" \"select_label_3\"\n私が「ヴィガ・リバース」を\n習得した時にやったスポーツを\n覚えてる？\n"
+	},
+	{
+		"ID": 2381,
+		"unitID": 2201011,
+		"questionID": 9201031,
+		"script": ";;ペルーン,1\n# face %(unit_a)s \"usual\"\n# voice 2010 \"ukonbasara_0001\"\n@ウコンバサラ\nねぇ、マスター\n\n@ウコンバサラ\n私たちの絆を\nもっと強くするため…\n\n# face %(unit_a)s \"smile\"\n# voice 2010 \"ukonbasara_0004\"\n@ウコンバサラ\n今からクイズを出してみいい？\n\n# voice 2010 \"ukonbasara_0036\"\n@ウコンバサラ\n正解したらご褒美あげるから、\nかんばってね♪\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私が仲良くしたいなって\n思ってる子はね…\n\n# se \"SE_0734\"\n# select \"ペルーン\" \"select_label_1\" \"プルーン\" \"select_label_2\" \"ポルーン\" \"select_label_3\"\n私が仲良くしたいなって\n思ってる子はね…\n"
+	},
+	{
+		"ID": 2382,
+		"unitID": 2201011,
+		"questionID": 9201032,
+		"script": ";;Leo,2\n# face %(unit_a)s \"usual\"\n# voice 2010 \"ukonbasara_0001\"\n@ウコンバサラ\nねぇ、マスター\n\n@ウコンバサラ\n私たちの絆を\nもっと強くするため…\n\n# face %(unit_a)s \"smile\"\n# voice 2010 \"ukonbasara_0004\"\n@ウコンバサラ\n今からクイズを出してみいい？\n\n# voice 2010 \"ukonbasara_0036\"\n@ウコンバサラ\n正解したらご褒美あげるから、\nかんばってね♪\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の星座を英語で言うと？\n\n# se \"SE_0734\"\n# select \"Capricorn\" \"select_label_1\" \"Leo\" \"select_label_2\" \"Gemini\" \"select_label_3\"\n私の星座を英語で言うと？\n"
+	},
+	{
+		"ID": 2383,
+		"unitID": 2201011,
+		"questionID": 9201033,
+		"script": ";; August,3\n# face %(unit_a)s \"usual\"\n# voice 2010 \"ukonbasara_0001\"\n@ウコンバサラ\nねぇ、マスター\n\n@ウコンバサラ\n私たちの絆を\nもっと強くするため…\n\n# face %(unit_a)s \"smile\"\n# voice 2010 \"ukonbasara_0004\"\n@ウコンバサラ\n今からクイズを出してみいい？\n\n# voice 2010 \"ukonbasara_0036\"\n@ウコンバサラ\n正解したらご褒美あげるから、\nかんばってね♪\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の誕生月を英語で言うと？\n\n# se \"SE_0734\"\n# select \"October\" \"select_label_1\" \"June\" \"select_label_2\" \"August\" \"select_label_3\"\n私の誕生月を英語で言うと？\n"
+	},
+	{
+		"ID": 2384,
+		"unitID": 2201011,
+		"questionID": 9201034,
+		"script": ";;緑色,1\n# face %(unit_a)s \"usual\"\n# voice 2010 \"ukonbasara_0001\"\n@ウコンバサラ\nねぇ、マスター\n\n@ウコンバサラ\n私たちの絆を\nもっと強くするため…\n\n# face %(unit_a)s \"smile\"\n# voice 2010 \"ukonbasara_0004\"\n@ウコンバサラ\n今からクイズを出してみいい？\n\n# voice 2010 \"ukonbasara_0036\"\n@ウコンバサラ\n正解したらご褒美あげるから、\nかんばってね♪\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の瞳の色は\n何色だったかな？\n\n# se \"SE_0734\"\n# select \"緑色\" \"select_label_1\" \"黄色\" \"select_label_2\" \"黒色\" \"select_label_3\"\n私の瞳の色は\n何色だったかな？\n"
+	},
+	{
+		"ID": 2385,
+		"unitID": 2201011,
+		"questionID": 9201035,
+		"script": ";;紫色,2\n# face %(unit_a)s \"usual\"\n# voice 2010 \"ukonbasara_0001\"\n@ウコンバサラ\nねぇ、マスター\n\n@ウコンバサラ\n私たちの絆を\nもっと強くするため…\n\n# face %(unit_a)s \"smile\"\n# voice 2010 \"ukonbasara_0004\"\n@ウコンバサラ\n今からクイズを出してみいい？\n\n# voice 2010 \"ukonbasara_0036\"\n@ウコンバサラ\n正解したらご褒美あげるから、\nかんばってね♪\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私の髪の色を\n答えてくれる？\n\n# se \"SE_0734\"\n# select \"黄色\" \"select_label_1\" \"紫色\" \"select_label_2\" \"黒色\" \"select_label_3\"\n私の髪の色を\n答えてくれる？\n"
+	},
+	{
+		"ID": 2386,
+		"unitID": 2201011,
+		"questionID": 9201036,
+		"script": ";;守り通す,3\n# face %(unit_a)s \"usual\"\n# voice 2010 \"ukonbasara_0001\"\n@ウコンバサラ\nねぇ、マスター\n\n@ウコンバサラ\n私たちの絆を\nもっと強くするため…\n\n# face %(unit_a)s \"smile\"\n# voice 2010 \"ukonbasara_0004\"\n@ウコンバサラ\n今からクイズを出してみいい？\n\n# voice 2010 \"ukonbasara_0036\"\n@ウコンバサラ\n正解したらご褒美あげるから、\nかんばってね♪\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私は一度仲間と\n認めたら徹底的に…？\n\n# se \"SE_0734\"\n# select \"スキンシップ\" \"select_label_1\" \"けなしまくる\" \"select_label_2\" \"守り通す\" \"select_label_3\"\n私は一度仲間と\n認めたら徹底的に…？\n"
+	},
+	{
+		"ID": 2387,
+		"unitID": 2201011,
+		"questionID": 9201037,
+		"script": ";;クモ,1\n# face %(unit_a)s \"usual\"\n# voice 2010 \"ukonbasara_0001\"\n@ウコンバサラ\nねぇ、マスター\n\n@ウコンバサラ\n私たちの絆を\nもっと強くするため…\n\n# face %(unit_a)s \"smile\"\n# voice 2010 \"ukonbasara_0004\"\n@ウコンバサラ\n今からクイズを出してみいい？\n\n# voice 2010 \"ukonbasara_0036\"\n@ウコンバサラ\n正解したらご褒美あげるから、\nかんばってね♪\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私が怖いものと言ったら？ \n\n# se \"SE_0734\"\n# select \"クモ\" \"select_label_1\" \"ペンダント\" \"select_label_2\" \"石斧\" \"select_label_3\"\n私が怖いものと言ったら？ \n"
+	},
+	{
+		"ID": 2388,
+		"unitID": 2201011,
+		"questionID": 9201038,
+		"script": ";;グングニル,2\n# face %(unit_a)s \"usual\"\n# voice 2010 \"ukonbasara_0001\"\n@ウコンバサラ\nねぇ、マスター\n\n@ウコンバサラ\n私たちの絆を\nもっと強くするため…\n\n# face %(unit_a)s \"smile\"\n# voice 2010 \"ukonbasara_0004\"\n@ウコンバサラ\n今からクイズを出してみいい？\n\n# voice 2010 \"ukonbasara_0036\"\n@ウコンバサラ\n正解したらご褒美あげるから、\nかんばってね♪\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私と同じ血液型なのは\n誰かわかるかな？\n\n# se \"SE_0734\"\n# select \"レシェフ\" \"select_label_1\" \"グングニル\" \"select_label_2\" \"草薙剣\" \"select_label_3\"\n私と同じ血液型なのは\n誰かわかるかな？\n"
+	},
+	{
+		"ID": 2389,
+		"unitID": 2201011,
+		"questionID": 9201039,
+		"script": ";;レシェフ,3\n# face %(unit_a)s \"usual\"\n# voice 2010 \"ukonbasara_0001\"\n@ウコンバサラ\nねぇ、マスター\n\n@ウコンバサラ\n私たちの絆を\nもっと強くするため…\n\n# face %(unit_a)s \"smile\"\n# voice 2010 \"ukonbasara_0004\"\n@ウコンバサラ\n今からクイズを出してみいい？\n\n# voice 2010 \"ukonbasara_0036\"\n@ウコンバサラ\n正解したらご褒美あげるから、\nかんばってね♪\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私と違う血液型なのは\n誰かわかるかな？\n\n# se \"SE_0734\"\n# select \"パラシュ\" \"select_label_1\" \"ティルフィング\" \"select_label_2\" \"レシェフ\" \"select_label_3\"\n私と違う血液型なのは\n誰かわかるかな？\n"
+	},
+	{
+		"ID": 2390,
+		"unitID": 2201011,
+		"questionID": 9201040,
+		"script": ";;おそろい,1\n# face %(unit_a)s \"usual\"\n# voice 2010 \"ukonbasara_0001\"\n@ウコンバサラ\nねぇ、マスター\n\n@ウコンバサラ\n私たちの絆を\nもっと強くするため…\n\n# face %(unit_a)s \"smile\"\n# voice 2010 \"ukonbasara_0004\"\n@ウコンバサラ\n今からクイズを出してみいい？\n\n# voice 2010 \"ukonbasara_0036\"\n@ウコンバサラ\n正解したらご褒美あげるから、\nかんばってね♪\n;;---------------------------------\n\n@%(unitName:unit_a)s\n私が仲間達としたいことは？\n\n# se \"SE_0734\"\n# select \"おそろい\" \"select_label_1\" \"雨乞い\" \"select_label_2\" \"筋トレ\" \"select_label_3\"\n私が仲間達としたいことは？\n"
+	},
+	{
+		"ID": 2391,
+		"unitID": 2201011,
+		"questionID": 9201041,
+		"script": "\n;;私,1\n# se \"SE_0734\"\n# select \"私\" \"select_label_1\" \"あたし\" \"select_label_2\" \"我\" \"select_label_3\"\nウコンバサラの一人称は\n次のうちどれ？\n"
+	},
+	{
+		"ID": 2392,
+		"unitID": 2201011,
+		"questionID": 9201042,
+		"script": "\n;;キミ,2\n# se \"SE_0734\"\n# select \"ご主人\" \"select_label_1\" \"キミ\" \"select_label_2\" \"貴様\" \"select_label_3\"\nウコンバサラはアンタのこと、\nなんて呼んでる？\n"
+	},
+	{
+		"ID": 2393,
+		"unitID": 2201011,
+		"questionID": 9201043,
+		"script": "\n;;78,3\n# se \"SE_0734\"\n# select \"80\" \"select_label_1\" \"82\" \"select_label_2\" \"78\" \"select_label_3\"\nウコンバサラの\nバストサイズがどのくらいか\nアンタ…知ってるの？\n"
+	},
+	{
+		"ID": 2394,
+		"unitID": 2201011,
+		"questionID": 9201044,
+		"script": "\n;;57,1\n# se \"SE_0734\"\n# select \"57\" \"select_label_1\" \"60\" \"select_label_2\" \"61\" \"select_label_3\"\nウコンバサラの\nウエストサイズがどのくらいか\nアンタ…知ってるの？\n"
+	},
+	{
+		"ID": 2395,
+		"unitID": 2201011,
+		"questionID": 9201045,
+		"script": "\n;;80,2\n# se \"SE_0734\"\n# select \"77\" \"select_label_1\" \"80\" \"select_label_2\" \"83\" \"select_label_3\"\nウコンバサラの\nヒップサイズがどのくらいか\nアンタ…知ってるの？\n"
+	},
+	{
+		"ID": 2396,
+		"unitID": 2201011,
+		"questionID": 9201046,
+		"script": "\n;;44,3\n# se \"SE_0734\"\n# select \"41\" \"select_label_1\" \"47\" \"select_label_2\" \"44\" \"select_label_3\"\nウコンバサラの体重は\n次のうちどれ？\n"
+	},
+	{
+		"ID": 2397,
+		"unitID": 2201011,
+		"questionID": 9201047,
+		"script": "\n;;215,1\n# se \"SE_0734\"\n# select \"215\" \"select_label_1\" \"217\" \"select_label_2\" \"220\" \"select_label_3\"\nウコンバサラの\nバスト＋ウエスト＋ヒップは\nいくつかわかる？\n"
+	},
+	{
+		"ID": 2398,
+		"unitID": 2201011,
+		"questionID": 9201048,
+		"script": "\n;;紺色,2\n# se \"SE_0734\"\n# select \"赤色\" \"select_label_1\" \"紺色\" \"select_label_2\" \"黄色\" \"select_label_3\"\nウコンバサラの水着の下の色は\n次のうちどれ？\n"
+	},
+	{
+		"ID": 2399,
+		"unitID": 2201011,
+		"questionID": 9201049,
+		"script": "\n;;56位,3\n# se \"SE_0734\"\n# select \"38位\" \"select_label_1\" \"63位\" \"select_label_2\" \"56位\" \"select_label_3\"\nウコンバサラは\n第２回人気投票で\n何位だったでしょう？\n"
+	},
+	{
+		"ID": 2400,
+		"unitID": 2201011,
+		"questionID": 9201050,
+		"script": "\n;;村川梨衣,1\n# se \"SE_0734\"\n# select \"村川梨衣\" \"select_label_1\" \"阿澄佳奈\" \"select_label_2\" \"山本希望\" \"select_label_3\"\nウコンバサラの声優は誰？\n"
+	}
+]

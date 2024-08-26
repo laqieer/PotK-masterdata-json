@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 100911,
+		"script": "# script \"lisp\"\n# fadein \"black\" 0.5\n# background %(background)s\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 0 0\n@\nマスターは\nバルムンクを連れて\n洞窟探索へやってきた\n\n# voice 1009 \"barumunku_0039\"\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@バルムンク\nわ…凄いですね\n\n# textflame 1 1\n@バルムンク\nあ…声…\n結構響きますね…\nあー…\n\n# voice 1009 \"barumunku_0004\"\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@バルムンク\nふふ…誰も居ない…\n\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@バルムンク\nあ、良く考えたら\nこんな時間に洞窟なんて\n誰も来ませんよね…！\n\n# select \"誰もこないと思う\" \"select_label_01\" \"別のなにかがいるかも\" \"select_label_02\" \"誰か来るかも\" \"select_label_03\"\nあ、良く考えたら\nこんな時間に洞窟なんて\n誰も来ませんよね…！\n\n# label \"select_label_01\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_02\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_03\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_end\"\n# waitandnext 0.1\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

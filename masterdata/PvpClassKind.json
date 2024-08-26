@@ -1,0 +1,102 @@
+[
+	{
+		"ID": 1,
+		"name": "入習任官 駆出",
+		"stay_point": 0,
+		"up_point": 3,
+		"title_point": 4,
+		"weight": 1,
+		"cpu_timeout_flg": 1,
+		"cpu_defeats_count": 0
+	},
+	{
+		"ID": 2,
+		"name": "兵部小録 飛躍",
+		"stay_point": 2,
+		"up_point": 3,
+		"title_point": 4,
+		"weight": 11,
+		"cpu_timeout_flg": 1,
+		"cpu_defeats_count": 0
+	},
+	{
+		"ID": 3,
+		"name": "兵部大録 彗星",
+		"stay_point": 2,
+		"up_point": 4,
+		"title_point": 5,
+		"weight": 21,
+		"cpu_timeout_flg": 1,
+		"cpu_defeats_count": 0
+	},
+	{
+		"ID": 4,
+		"name": "准大丞官 明鏡",
+		"stay_point": 3,
+		"up_point": 4,
+		"title_point": 5,
+		"weight": 31,
+		"cpu_timeout_flg": 1,
+		"cpu_defeats_count": 1
+	},
+	{
+		"ID": 5,
+		"name": "准大丞官 不動",
+		"stay_point": 3,
+		"up_point": 5,
+		"title_point": 6,
+		"weight": 41,
+		"cpu_timeout_flg": 1,
+		"cpu_defeats_count": 1
+	},
+	{
+		"ID": 6,
+		"name": "名大丞官 戦刃",
+		"stay_point": 4,
+		"up_point": 5,
+		"title_point": 6,
+		"weight": 51,
+		"cpu_timeout_flg": 1,
+		"cpu_defeats_count": 2
+	},
+	{
+		"ID": 7,
+		"name": "名大丞官 救世",
+		"stay_point": 4,
+		"up_point": 5,
+		"title_point": 7,
+		"weight": 61,
+		"cpu_timeout_flg": 1,
+		"cpu_defeats_count": 3
+	},
+	{
+		"ID": 8,
+		"name": "真奏任官 霊巌",
+		"stay_point": 5,
+		"up_point": 6,
+		"title_point": 8,
+		"weight": 71,
+		"cpu_timeout_flg": 1,
+		"cpu_defeats_count": 4
+	},
+	{
+		"ID": 9,
+		"name": "極勅任官 煌騎",
+		"stay_point": 5,
+		"up_point": 7,
+		"title_point": 9,
+		"weight": 81,
+		"cpu_timeout_flg": 0,
+		"cpu_defeats_count": 4
+	},
+	{
+		"ID": 10,
+		"name": "聖権官皇 天帝",
+		"stay_point": 6,
+		"up_point": 10,
+		"title_point": 10,
+		"weight": 91,
+		"cpu_timeout_flg": 0,
+		"cpu_defeats_count": 0
+	}
+]

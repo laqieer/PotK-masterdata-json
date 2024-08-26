@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 200523,
+		"script": ";;選択肢A(中当たり)\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_drive\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# voice 2005 \"mitwumu_0005\"\n@ミトゥム\nいいじゃね～か！\nすげ～気持ちいいぞ！\nやっほ～～！！\n\n# textflame 0 0\n@\n車から出した首が標識に\nぶつかって、大事故になった\n男の話をし始めるマスター\n\n# face %(unit_a)s \"sad\"\n# voice 2005 \"mitwumu_0024\"\n# textflame 1 1\n@ミトゥム\n…！！\n\n@ミトゥム\n…………\n\n# face %(unit_a)s \"normal\"\n@ミトゥム\n車から首出すとか\nガキのすることだよな、うん\n\n# textflame 0 0\n@\n助手席にちょこんと座り直す\nおとなしくなったミトゥムが\nとってもかわいかった…\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

@@ -1,0 +1,302 @@
+[
+	{
+		"ID": 5486,
+		"unitID": 2602511,
+		"questionID": 9602501,
+		"script": ";;杖,1\n# face %(unit_a)s \"normal\"\n# voice 260251 \"chalice_t_0004\"\n# textflame 1 1\n@カリス\nいや～、それにしても…\n\n@カリス\nわたしって、\n夏に舞い降りし天使、\nカリスちゃん！だね\n\n# face %(unit_a)s \"usual\"\n@カリス\n今日は、\nみんなわたしのミラクルに\n釘付けだったね\n\n# textflame 0 0\n@\nあはは、そうかもね\nと笑顔で答えるマスター\n\n# face %(unit_a)s \"normal\"\n# voice 260251 \"chalice_t_0005\"\n# textflame 1 1\n@カリス\nそう言うマスターさんも、\nちゃんとわたしのミラクルに\n釘付けになってくれたのかな？\n\n@カリス\n今から、試させてもらうよ\n\n# voice 260251 \"chalice_t_0002\"\n@カリス\nってことで、\nクイズを出すから！\n準備はいい！？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしの武器属性はわかるかな～？\n\n# se \"SE_0734\"\n# select \"杖\" \"select_label_1\" \"槍\" \"select_label_2\" \"剣\" \"select_label_3\"\nわたしの武器属性はわかるかな～？\n"
+	},
+	{
+		"ID": 5487,
+		"unitID": 2602511,
+		"questionID": 9602502,
+		"script": ";;聖杯,1\n# face %(unit_a)s \"normal\"\n# voice 260251 \"chalice_t_0004\"\n# textflame 1 1\n@カリス\nいや～、それにしても…\n\n@カリス\nわたしって、\n夏に舞い降りし天使、\nカリスちゃん！だね\n\n# face %(unit_a)s \"usual\"\n@カリス\n今日は、\nみんなわたしのミラクルに\n釘付けだったね\n\n# textflame 0 0\n@\nあはは、そうかもね\nと笑顔で答えるマスター\n\n# face %(unit_a)s \"normal\"\n# voice 260251 \"chalice_t_0005\"\n# textflame 1 1\n@カリス\nそう言うマスターさんも、\nちゃんとわたしのミラクルに\n釘付けになってくれたのかな？\n\n@カリス\n今から、試させてもらうよ\n\n# voice 260251 \"chalice_t_0002\"\n@カリス\nってことで、\nクイズを出すから！\n準備はいい！？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしのキラーズ、『カリス』は\nどんな物かわかる？\n\n# se \"SE_0734\"\n# select \"聖杯\" \"select_label_1\" \"聖杖\" \"select_label_2\" \"聖剣\" \"select_label_3\"\nわたしのキラーズ、『カリス』は\nどんな物かわかる？\n"
+	},
+	{
+		"ID": 5488,
+		"unitID": 2602511,
+		"questionID": 9602503,
+		"script": ";;キリスト教,1\n# face %(unit_a)s \"normal\"\n# voice 260251 \"chalice_t_0004\"\n# textflame 1 1\n@カリス\nいや～、それにしても…\n\n@カリス\nわたしって、\n夏に舞い降りし天使、\nカリスちゃん！だね\n\n# face %(unit_a)s \"usual\"\n@カリス\n今日は、\nみんなわたしのミラクルに\n釘付けだったね\n\n# textflame 0 0\n@\nあはは、そうかもね\nと笑顔で答えるマスター\n\n# face %(unit_a)s \"normal\"\n# voice 260251 \"chalice_t_0005\"\n# textflame 1 1\n@カリス\nそう言うマスターさんも、\nちゃんとわたしのミラクルに\n釘付けになってくれたのかな？\n\n@カリス\n今から、試させてもらうよ\n\n# voice 260251 \"chalice_t_0002\"\n@カリス\nってことで、\nクイズを出すから！\n準備はいい！？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしのキラーズ、『カリス』は\n何に登場するかわかる？\n\n# se \"SE_0734\"\n# select \"キリスト教\" \"select_label_1\" \"仏教\" \"select_label_2\" \"ギリシャ神話\" \"select_label_3\"\nわたしのキラーズ、『カリス』は\n何に登場するかわかる？\n"
+	},
+	{
+		"ID": 5489,
+		"unitID": 2602511,
+		"questionID": 9602504,
+		"script": ";;キリスト,3\n# face %(unit_a)s \"normal\"\n# voice 260251 \"chalice_t_0004\"\n# textflame 1 1\n@カリス\nいや～、それにしても…\n\n@カリス\nわたしって、\n夏に舞い降りし天使、\nカリスちゃん！だね\n\n# face %(unit_a)s \"usual\"\n@カリス\n今日は、\nみんなわたしのミラクルに\n釘付けだったね\n\n# textflame 0 0\n@\nあはは、そうかもね\nと笑顔で答えるマスター\n\n# face %(unit_a)s \"normal\"\n# voice 260251 \"chalice_t_0005\"\n# textflame 1 1\n@カリス\nそう言うマスターさんも、\nちゃんとわたしのミラクルに\n釘付けになってくれたのかな？\n\n@カリス\n今から、試させてもらうよ\n\n# voice 260251 \"chalice_t_0002\"\n@カリス\nってことで、\nクイズを出すから！\n準備はいい！？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしのキラーズ『カリス』には\n誰の血が注がれた？\n\n# se \"SE_0734\"\n# select \"ブッダ\" \"select_label_1\" \"ファラオ\" \"select_label_2\" \"キリスト\" \"select_label_3\"\nわたしのキラーズ『カリス』には\n誰の血が注がれた？\n"
+	},
+	{
+		"ID": 5490,
+		"unitID": 2602511,
+		"questionID": 9602505,
+		"script": ";;長き命と若さを与える,2\n# face %(unit_a)s \"normal\"\n# voice 260251 \"chalice_t_0004\"\n# textflame 1 1\n@カリス\nいや～、それにしても…\n\n@カリス\nわたしって、\n夏に舞い降りし天使、\nカリスちゃん！だね\n\n# face %(unit_a)s \"usual\"\n@カリス\n今日は、\nみんなわたしのミラクルに\n釘付けだったね\n\n# textflame 0 0\n@\nあはは、そうかもね\nと笑顔で答えるマスター\n\n# face %(unit_a)s \"normal\"\n# voice 260251 \"chalice_t_0005\"\n# textflame 1 1\n@カリス\nそう言うマスターさんも、\nちゃんとわたしのミラクルに\n釘付けになってくれたのかな？\n\n@カリス\n今から、試させてもらうよ\n\n# voice 260251 \"chalice_t_0002\"\n@カリス\nってことで、\nクイズを出すから！\n準備はいい！？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしのキラーズ『カリス』は\nどんな杯と云われている？\n\n# se \"SE_0734\"\n# select \"死を与える\" \"select_label_1\" \"長き命と若さを与える\" \"select_label_2\" \"金を与える\" \"select_label_3\"\nわたしのキラーズ『カリス』は\nどんな杯と云われている？\n"
+	},
+	{
+		"ID": 5491,
+		"unitID": 2602511,
+		"questionID": 9602506,
+		"script": ";;最後の晩餐,1\n# face %(unit_a)s \"normal\"\n# voice 260251 \"chalice_t_0004\"\n# textflame 1 1\n@カリス\nいや～、それにしても…\n\n@カリス\nわたしって、\n夏に舞い降りし天使、\nカリスちゃん！だね\n\n# face %(unit_a)s \"usual\"\n@カリス\n今日は、\nみんなわたしのミラクルに\n釘付けだったね\n\n# textflame 0 0\n@\nあはは、そうかもね\nと笑顔で答えるマスター\n\n# face %(unit_a)s \"normal\"\n# voice 260251 \"chalice_t_0005\"\n# textflame 1 1\n@カリス\nそう言うマスターさんも、\nちゃんとわたしのミラクルに\n釘付けになってくれたのかな？\n\n@カリス\n今から、試させてもらうよ\n\n# voice 260251 \"chalice_t_0002\"\n@カリス\nってことで、\nクイズを出すから！\n準備はいい！？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしのキラーズ『カリス』が\n使われた有名な晩餐といえば？\n\n# se \"SE_0734\"\n# select \"最後の晩餐\" \"select_label_1\" \"最初の晩餐\" \"select_label_2\" \"昨日の晩餐\" \"select_label_3\"\nわたしのキラーズ『カリス』が\n使われた有名な晩餐といえば？\n"
+	},
+	{
+		"ID": 5492,
+		"unitID": 2602511,
+		"questionID": 9602507,
+		"script": ";;ゴルゴタの丘,3\n# face %(unit_a)s \"normal\"\n# voice 260251 \"chalice_t_0004\"\n# textflame 1 1\n@カリス\nいや～、それにしても…\n\n@カリス\nわたしって、\n夏に舞い降りし天使、\nカリスちゃん！だね\n\n# face %(unit_a)s \"usual\"\n@カリス\n今日は、\nみんなわたしのミラクルに\n釘付けだったね\n\n# textflame 0 0\n@\nあはは、そうかもね\nと笑顔で答えるマスター\n\n# face %(unit_a)s \"normal\"\n# voice 260251 \"chalice_t_0005\"\n# textflame 1 1\n@カリス\nそう言うマスターさんも、\nちゃんとわたしのミラクルに\n釘付けになってくれたのかな？\n\n@カリス\n今から、試させてもらうよ\n\n# voice 260251 \"chalice_t_0002\"\n@カリス\nってことで、\nクイズを出すから！\n準備はいい！？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしのキラーズ『カリス』を使った\nキリストが磔になった場所は？\n\n# se \"SE_0734\"\n# select \"ゴルゴタの山\" \"select_label_1\" \"ゴタゴダの丘\" \"select_label_2\" \"ゴルゴタの丘\" \"select_label_3\"\nわたしのキラーズ『カリス』を使った\nキリストが磔になった場所は？\n"
+	},
+	{
+		"ID": 5493,
+		"unitID": 2602511,
+		"questionID": 9602508,
+		"script": ";;ぶどう酒,3\n# face %(unit_a)s \"normal\"\n# voice 260251 \"chalice_t_0004\"\n# textflame 1 1\n@カリス\nいや～、それにしても…\n\n@カリス\nわたしって、\n夏に舞い降りし天使、\nカリスちゃん！だね\n\n# face %(unit_a)s \"usual\"\n@カリス\n今日は、\nみんなわたしのミラクルに\n釘付けだったね\n\n# textflame 0 0\n@\nあはは、そうかもね\nと笑顔で答えるマスター\n\n# face %(unit_a)s \"normal\"\n# voice 260251 \"chalice_t_0005\"\n# textflame 1 1\n@カリス\nそう言うマスターさんも、\nちゃんとわたしのミラクルに\n釘付けになってくれたのかな？\n\n@カリス\n今から、試させてもらうよ\n\n# voice 260251 \"chalice_t_0002\"\n@カリス\nってことで、\nクイズを出すから！\n準備はいい！？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nキリスト教のミサの典礼で\n聖杯に入れるものって…なに？\n\n# se \"SE_0734\"\n# select \"メロンソーダ\" \"select_label_1\" \"ほうじ茶\" \"select_label_2\" \"ぶどう酒\" \"select_label_3\"\nキリスト教のミサの典礼で\n聖杯に入れるものって…なに？\n"
+	},
+	{
+		"ID": 5494,
+		"unitID": 2602511,
+		"questionID": 9602509,
+		"script": ";;傷が癒える,1\n# face %(unit_a)s \"normal\"\n# voice 260251 \"chalice_t_0004\"\n# textflame 1 1\n@カリス\nいや～、それにしても…\n\n@カリス\nわたしって、\n夏に舞い降りし天使、\nカリスちゃん！だね\n\n# face %(unit_a)s \"usual\"\n@カリス\n今日は、\nみんなわたしのミラクルに\n釘付けだったね\n\n# textflame 0 0\n@\nあはは、そうかもね\nと笑顔で答えるマスター\n\n# face %(unit_a)s \"normal\"\n# voice 260251 \"chalice_t_0005\"\n# textflame 1 1\n@カリス\nそう言うマスターさんも、\nちゃんとわたしのミラクルに\n釘付けになってくれたのかな？\n\n@カリス\n今から、試させてもらうよ\n\n# voice 260251 \"chalice_t_0002\"\n@カリス\nってことで、\nクイズを出すから！\n準備はいい！？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n聖杯に注がれた飲み物を\n飲むとどうなるの～？\n\n# se \"SE_0734\"\n# select \"傷が癒える\" \"select_label_1\" \"背が伸びる\" \"select_label_2\" \"太る\" \"select_label_3\"\n聖杯に注がれた飲み物を\n飲むとどうなるの～？\n"
+	},
+	{
+		"ID": 5495,
+		"unitID": 2602511,
+		"questionID": 9602510,
+		"script": ";;イスラエル,1\n# face %(unit_a)s \"normal\"\n# voice 260251 \"chalice_t_0004\"\n# textflame 1 1\n@カリス\nいや～、それにしても…\n\n@カリス\nわたしって、\n夏に舞い降りし天使、\nカリスちゃん！だね\n\n# face %(unit_a)s \"usual\"\n@カリス\n今日は、\nみんなわたしのミラクルに\n釘付けだったね\n\n# textflame 0 0\n@\nあはは、そうかもね\nと笑顔で答えるマスター\n\n# face %(unit_a)s \"normal\"\n# voice 260251 \"chalice_t_0005\"\n# textflame 1 1\n@カリス\nそう言うマスターさんも、\nちゃんとわたしのミラクルに\n釘付けになってくれたのかな？\n\n@カリス\n今から、試させてもらうよ\n\n# voice 260251 \"chalice_t_0002\"\n@カリス\nってことで、\nクイズを出すから！\n準備はいい！？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nキリストが磔にされたゴルゴタの丘は\nどこにあったと云われている？\n\n# se \"SE_0734\"\n# select \"イスラエル\" \"select_label_1\" \"東日本\" \"select_label_2\" \"ロシア\" \"select_label_3\"\nキリストが磔にされたゴルゴタの丘は\nどこにあったと云われている？\n"
+	},
+	{
+		"ID": 5496,
+		"unitID": 2602511,
+		"questionID": 9602511,
+		"script": ";;雷,3\n# face %(unit_a)s \"normal\"\n# voice 260251 \"chalice_t_0004\"\n# textflame 1 1\n@カリス\n今日はとっても楽しかったね♪\n\n@カリス\nアイスもサービスしてもらったし、\n昨日まで雨だったのに晴れたし、\n夕焼けがとってもきれいだったし\n\n@カリス\nミラクルなことが\nたくさん起こったよね\n\n# face %(unit_a)s \"usual\"\n# voice 260251 \"chalice_t_0002\"\n@カリス\nねぇ、マスターさん\n\n@カリス\n最後にもう一つ、\nミラクル起こしてよ\n\n@カリス\n今からカリスちゃんが出す\nクイズに答えてみせて\n\n# face %(unit_a)s \"normal\"\n# voice 260251 \"chalice_t_0005\"\n@カリス\nマスターさんは私に負けないくらいの\nマジ天使だと信じてるから\n\n@カリス\nじゃあ、いくよ\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしの属性は知ってる？\n\n# se \"SE_0734\"\n# select \"風\" \"select_label_1\" \"光\" \"select_label_2\" \"雷\" \"select_label_3\"\nわたしの属性は知ってる？\n"
+	},
+	{
+		"ID": 5497,
+		"unitID": 2602511,
+		"questionID": 9602512,
+		"script": ";;155cm,3\n# face %(unit_a)s \"normal\"\n# voice 260251 \"chalice_t_0004\"\n# textflame 1 1\n@カリス\n今日はとっても楽しかったね♪\n\n@カリス\nアイスもサービスしてもらったし、\n昨日まで雨だったのに晴れたし、\n夕焼けがとってもきれいだったし\n\n@カリス\nミラクルなことが\nたくさん起こったよね\n\n# face %(unit_a)s \"usual\"\n# voice 260251 \"chalice_t_0002\"\n@カリス\nねぇ、マスターさん\n\n@カリス\n最後にもう一つ、\nミラクル起こしてよ\n\n@カリス\n今からカリスちゃんが出す\nクイズに答えてみせて\n\n# face %(unit_a)s \"normal\"\n# voice 260251 \"chalice_t_0005\"\n@カリス\nマスターさんは私に負けないくらいの\nマジ天使だと信じてるから\n\n@カリス\nじゃあ、いくよ\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしの身長は何センチかな～？\n\n# se \"SE_0734\"\n# select \"160cm\" \"select_label_1\" \"130cm\" \"select_label_2\" \"155cm\" \"select_label_3\"\nわたしの身長は何センチかな～？\n"
+	},
+	{
+		"ID": 5498,
+		"unitID": 2602511,
+		"questionID": 9602513,
+		"script": ";;4月14日,1\n# face %(unit_a)s \"normal\"\n# voice 260251 \"chalice_t_0004\"\n# textflame 1 1\n@カリス\n今日はとっても楽しかったね♪\n\n@カリス\nアイスもサービスしてもらったし、\n昨日まで雨だったのに晴れたし、\n夕焼けがとってもきれいだったし\n\n@カリス\nミラクルなことが\nたくさん起こったよね\n\n# face %(unit_a)s \"usual\"\n# voice 260251 \"chalice_t_0002\"\n@カリス\nねぇ、マスターさん\n\n@カリス\n最後にもう一つ、\nミラクル起こしてよ\n\n@カリス\n今からカリスちゃんが出す\nクイズに答えてみせて\n\n# face %(unit_a)s \"normal\"\n# voice 260251 \"chalice_t_0005\"\n@カリス\nマスターさんは私に負けないくらいの\nマジ天使だと信じてるから\n\n@カリス\nじゃあ、いくよ\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしの誕生日は知ってるかな～？\n\n# se \"SE_0734\"\n# select \"4月14日\" \"select_label_1\" \"6月14日\" \"select_label_2\" \"1月14日\" \"select_label_3\"\nわたしの誕生日は知ってるかな～？\n"
+	},
+	{
+		"ID": 5499,
+		"unitID": 2602511,
+		"questionID": 9602514,
+		"script": ";;牡羊座,1\n# face %(unit_a)s \"normal\"\n# voice 260251 \"chalice_t_0004\"\n# textflame 1 1\n@カリス\n今日はとっても楽しかったね♪\n\n@カリス\nアイスもサービスしてもらったし、\n昨日まで雨だったのに晴れたし、\n夕焼けがとってもきれいだったし\n\n@カリス\nミラクルなことが\nたくさん起こったよね\n\n# face %(unit_a)s \"usual\"\n# voice 260251 \"chalice_t_0002\"\n@カリス\nねぇ、マスターさん\n\n@カリス\n最後にもう一つ、\nミラクル起こしてよ\n\n@カリス\n今からカリスちゃんが出す\nクイズに答えてみせて\n\n# face %(unit_a)s \"normal\"\n# voice 260251 \"chalice_t_0005\"\n@カリス\nマスターさんは私に負けないくらいの\nマジ天使だと信じてるから\n\n@カリス\nじゃあ、いくよ\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしの星座はな～んだ？\n\n# se \"SE_0734\"\n# select \"牡羊座\" \"select_label_1\" \"いて座\" \"select_label_2\" \"おとめ座\" \"select_label_3\"\nわたしの星座はな～んだ？\n"
+	},
+	{
+		"ID": 5500,
+		"unitID": 2602511,
+		"questionID": 9602515,
+		"script": ";;ブドウパン,2\n# face %(unit_a)s \"normal\"\n# voice 260251 \"chalice_t_0004\"\n# textflame 1 1\n@カリス\n今日はとっても楽しかったね♪\n\n@カリス\nアイスもサービスしてもらったし、\n昨日まで雨だったのに晴れたし、\n夕焼けがとってもきれいだったし\n\n@カリス\nミラクルなことが\nたくさん起こったよね\n\n# face %(unit_a)s \"usual\"\n# voice 260251 \"chalice_t_0002\"\n@カリス\nねぇ、マスターさん\n\n@カリス\n最後にもう一つ、\nミラクル起こしてよ\n\n@カリス\n今からカリスちゃんが出す\nクイズに答えてみせて\n\n# face %(unit_a)s \"normal\"\n# voice 260251 \"chalice_t_0005\"\n@カリス\nマスターさんは私に負けないくらいの\nマジ天使だと信じてるから\n\n@カリス\nじゃあ、いくよ\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしの好きな食べ物はな～んだ？\n\n# se \"SE_0734\"\n# select \"メロンパン\" \"select_label_1\" \"ブドウパン\" \"select_label_2\" \"カレーパン\" \"select_label_3\"\nわたしの好きな食べ物はな～んだ？\n"
+	},
+	{
+		"ID": 5501,
+		"unitID": 2602511,
+		"questionID": 9602516,
+		"script": ";;パーティー,2\n# face %(unit_a)s \"normal\"\n# voice 260251 \"chalice_t_0004\"\n# textflame 1 1\n@カリス\n今日はとっても楽しかったね♪\n\n@カリス\nアイスもサービスしてもらったし、\n昨日まで雨だったのに晴れたし、\n夕焼けがとってもきれいだったし\n\n@カリス\nミラクルなことが\nたくさん起こったよね\n\n# face %(unit_a)s \"usual\"\n# voice 260251 \"chalice_t_0002\"\n@カリス\nねぇ、マスターさん\n\n@カリス\n最後にもう一つ、\nミラクル起こしてよ\n\n@カリス\n今からカリスちゃんが出す\nクイズに答えてみせて\n\n# face %(unit_a)s \"normal\"\n# voice 260251 \"chalice_t_0005\"\n@カリス\nマスターさんは私に負けないくらいの\nマジ天使だと信じてるから\n\n@カリス\nじゃあ、いくよ\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしの趣味はな～んだ？\n\n# se \"SE_0734\"\n# select \"読書\" \"select_label_1\" \"パーティー\" \"select_label_2\" \"絵を描く\" \"select_label_3\"\nわたしの趣味はな～んだ？\n"
+	},
+	{
+		"ID": 5502,
+		"unitID": 2602511,
+		"questionID": 9602517,
+		"script": ";;Ｂ型,2\n# face %(unit_a)s \"normal\"\n# voice 260251 \"chalice_t_0004\"\n# textflame 1 1\n@カリス\n今日はとっても楽しかったね♪\n\n@カリス\nアイスもサービスしてもらったし、\n昨日まで雨だったのに晴れたし、\n夕焼けがとってもきれいだったし\n\n@カリス\nミラクルなことが\nたくさん起こったよね\n\n# face %(unit_a)s \"usual\"\n# voice 260251 \"chalice_t_0002\"\n@カリス\nねぇ、マスターさん\n\n@カリス\n最後にもう一つ、\nミラクル起こしてよ\n\n@カリス\n今からカリスちゃんが出す\nクイズに答えてみせて\n\n# face %(unit_a)s \"normal\"\n# voice 260251 \"chalice_t_0005\"\n@カリス\nマスターさんは私に負けないくらいの\nマジ天使だと信じてるから\n\n@カリス\nじゃあ、いくよ\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしの血液型は何でしょうか？\n\n# se \"SE_0734\"\n# select \"Ｏ型\" \"select_label_1\" \"Ｂ型\" \"select_label_2\" \"Ａ型\" \"select_label_3\"\nわたしの血液型は何でしょうか？\n"
+	},
+	{
+		"ID": 5503,
+		"unitID": 2602511,
+		"questionID": 9602518,
+		"script": ";;パレスチナ,2\n# face %(unit_a)s \"normal\"\n# voice 260251 \"chalice_t_0004\"\n# textflame 1 1\n@カリス\n今日はとっても楽しかったね♪\n\n@カリス\nアイスもサービスしてもらったし、\n昨日まで雨だったのに晴れたし、\n夕焼けがとってもきれいだったし\n\n@カリス\nミラクルなことが\nたくさん起こったよね\n\n# face %(unit_a)s \"usual\"\n# voice 260251 \"chalice_t_0002\"\n@カリス\nねぇ、マスターさん\n\n@カリス\n最後にもう一つ、\nミラクル起こしてよ\n\n@カリス\n今からカリスちゃんが出す\nクイズに答えてみせて\n\n# face %(unit_a)s \"normal\"\n# voice 260251 \"chalice_t_0005\"\n@カリス\nマスターさんは私に負けないくらいの\nマジ天使だと信じてるから\n\n@カリス\nじゃあ、いくよ\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしの出身地はどこだかわかる？\n\n# se \"SE_0734\"\n# select \"アメリカ\" \"select_label_1\" \"パレスチナ\" \"select_label_2\" \"埼玉県\" \"select_label_3\"\nわたしの出身地はどこだかわかる？\n"
+	},
+	{
+		"ID": 5504,
+		"unitID": 2602511,
+		"questionID": 9602519,
+		"script": ";;天真爛漫,3\n# face %(unit_a)s \"normal\"\n# voice 260251 \"chalice_t_0004\"\n# textflame 1 1\n@カリス\n今日はとっても楽しかったね♪\n\n@カリス\nアイスもサービスしてもらったし、\n昨日まで雨だったのに晴れたし、\n夕焼けがとってもきれいだったし\n\n@カリス\nミラクルなことが\nたくさん起こったよね\n\n# face %(unit_a)s \"usual\"\n# voice 260251 \"chalice_t_0002\"\n@カリス\nねぇ、マスターさん\n\n@カリス\n最後にもう一つ、\nミラクル起こしてよ\n\n@カリス\n今からカリスちゃんが出す\nクイズに答えてみせて\n\n# face %(unit_a)s \"normal\"\n# voice 260251 \"chalice_t_0005\"\n@カリス\nマスターさんは私に負けないくらいの\nマジ天使だと信じてるから\n\n@カリス\nじゃあ、いくよ\n;;---------------------------------\n\n@%(unitName:unit_a)s\nカリスちゃんは\nこれだと言われるかもね！\n\n# se \"SE_0734\"\n# select \"傍若無人\" \"select_label_1\" \"唯我独尊\" \"select_label_2\" \"天真爛漫\" \"select_label_3\"\nカリスちゃんは\nこれだと言われるかもね！\n"
+	},
+	{
+		"ID": 5505,
+		"unitID": 2602511,
+		"questionID": 9602520,
+		"script": ";;カリスちゃんマジ天使,1\n# face %(unit_a)s \"normal\"\n# voice 260251 \"chalice_t_0004\"\n# textflame 1 1\n@カリス\n今日はとっても楽しかったね♪\n\n@カリス\nアイスもサービスしてもらったし、\n昨日まで雨だったのに晴れたし、\n夕焼けがとってもきれいだったし\n\n@カリス\nミラクルなことが\nたくさん起こったよね\n\n# face %(unit_a)s \"usual\"\n# voice 260251 \"chalice_t_0002\"\n@カリス\nねぇ、マスターさん\n\n@カリス\n最後にもう一つ、\nミラクル起こしてよ\n\n@カリス\n今からカリスちゃんが出す\nクイズに答えてみせて\n\n# face %(unit_a)s \"normal\"\n# voice 260251 \"chalice_t_0005\"\n@カリス\nマスターさんは私に負けないくらいの\nマジ天使だと信じてるから\n\n@カリス\nじゃあ、いくよ\n;;---------------------------------\n\n@%(unitName:unit_a)s\nカリスちゃんの口ぐせってわかる？\n\n# se \"SE_0734\"\n# select \"カリスちゃんマジ天使\" \"select_label_1\" \"カリスちゃんマジ剣士\" \"select_label_2\" \"カリスちゃんマジ天然\" \"select_label_3\"\nカリスちゃんの口ぐせってわかる？\n"
+	},
+	{
+		"ID": 5506,
+		"unitID": 2602511,
+		"questionID": 9602521,
+		"script": ";;司祭の覇気,2\n# face %(unit_a)s \"usual\"\n# voice 260251 \"chalice_t_0002\"\n# textflame 1 1\n@カリス\nねぇ、マスターさん\n\n@カリス\n強すぎる願いが叶わなかったとき、\n人はどんな風になるか知ってる？\n\n# textflame 0 0\n@\n突如、彼女が意味深な\n質問をしてきた\n\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@カリス\nわたしはそれを知るのが怖いの\n\n@カリス\nあなたには強すぎる願いを\n抱かずにはいられないって\n気づいちゃった\n\n# face %(unit_a)s \"usual\"\n# voice 260251 \"chalice_t_0004\"\n@カリス\nあのね、マスターさんには\nわたしのこと、\n全部知っていてもらいたいの\n\n@カリス\nこの願いって叶ってるのかな？\n怖いけど、確かめさせてほしいの\n\n@カリス\n今から問題を出すから、\n答えてくれるかな…？\n\n# textflame 0 0\n@\nいつもの天真爛漫な彼女とは、\n少し雰囲気が違っていた…\n\n# textflame 1 1\n@カリス\nそれじゃ、いくよ\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしのリーダースキルは\n知ってるかな？\n\n# se \"SE_0734\"\n# select \"海賊の覇気\" \"select_label_1\" \"司祭の覇気\" \"select_label_2\" \"大工の覇気\" \"select_label_3\"\nわたしのリーダースキルは\n知ってるかな？\n"
+	},
+	{
+		"ID": 5507,
+		"unitID": 2602511,
+		"questionID": 9602522,
+		"script": ";;雷堕天の教示,1\n# face %(unit_a)s \"usual\"\n# voice 260251 \"chalice_t_0002\"\n# textflame 1 1\n@カリス\nねぇ、マスターさん\n\n@カリス\n強すぎる願いが叶わなかったとき、\n人はどんな風になるか知ってる？\n\n# textflame 0 0\n@\n突如、彼女が意味深な\n質問をしてきた\n\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@カリス\nわたしはそれを知るのが怖いの\n\n@カリス\nあなたには強すぎる願いを\n抱かずにはいられないって\n気づいちゃった\n\n# face %(unit_a)s \"usual\"\n# voice 260251 \"chalice_t_0004\"\n@カリス\nあのね、マスターさんには\nわたしのこと、\n全部知っていてもらいたいの\n\n@カリス\nこの願いって叶ってるのかな？\n怖いけど、確かめさせてほしいの\n\n@カリス\n今から問題を出すから、\n答えてくれるかな…？\n\n# textflame 0 0\n@\nいつもの天真爛漫な彼女とは、\n少し雰囲気が違っていた…\n\n# textflame 1 1\n@カリス\nそれじゃ、いくよ\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしの☆５のリーダースキルは\n覚えてるかな？\n\n# se \"SE_0734\"\n# select \"雷堕天の教示\" \"select_label_1\" \"雷堕天の賛辞\" \"select_label_2\" \"雷堕天の定時\" \"select_label_3\"\nわたしの☆５のリーダースキルは\n覚えてるかな？\n"
+	},
+	{
+		"ID": 5508,
+		"unitID": 2602511,
+		"questionID": 9602523,
+		"script": ";;雷堕天の贖罪,3\n# face %(unit_a)s \"usual\"\n# voice 260251 \"chalice_t_0002\"\n# textflame 1 1\n@カリス\nねぇ、マスターさん\n\n@カリス\n強すぎる願いが叶わなかったとき、\n人はどんな風になるか知ってる？\n\n# textflame 0 0\n@\n突如、彼女が意味深な\n質問をしてきた\n\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@カリス\nわたしはそれを知るのが怖いの\n\n@カリス\nあなたには強すぎる願いを\n抱かずにはいられないって\n気づいちゃった\n\n# face %(unit_a)s \"usual\"\n# voice 260251 \"chalice_t_0004\"\n@カリス\nあのね、マスターさんには\nわたしのこと、\n全部知っていてもらいたいの\n\n@カリス\nこの願いって叶ってるのかな？\n怖いけど、確かめさせてほしいの\n\n@カリス\n今から問題を出すから、\n答えてくれるかな…？\n\n# textflame 0 0\n@\nいつもの天真爛漫な彼女とは、\n少し雰囲気が違っていた…\n\n# textflame 1 1\n@カリス\nそれじゃ、いくよ\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしの☆６のリーダースキルは\n覚えてるかな？\n\n# se \"SE_0734\"\n# select \"雷堕天の犯罪\" \"select_label_1\" \"雷堕天の断罪\" \"select_label_2\" \"雷堕天の贖罪\" \"select_label_3\"\nわたしの☆６のリーダースキルは\n覚えてるかな？\n"
+	},
+	{
+		"ID": 5509,
+		"unitID": 2602511,
+		"questionID": 9602524,
+		"script": ";;破魔戴天,3\n# face %(unit_a)s \"usual\"\n# voice 260251 \"chalice_t_0002\"\n# textflame 1 1\n@カリス\nねぇ、マスターさん\n\n@カリス\n強すぎる願いが叶わなかったとき、\n人はどんな風になるか知ってる？\n\n# textflame 0 0\n@\n突如、彼女が意味深な\n質問をしてきた\n\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@カリス\nわたしはそれを知るのが怖いの\n\n@カリス\nあなたには強すぎる願いを\n抱かずにはいられないって\n気づいちゃった\n\n# face %(unit_a)s \"usual\"\n# voice 260251 \"chalice_t_0004\"\n@カリス\nあのね、マスターさんには\nわたしのこと、\n全部知っていてもらいたいの\n\n@カリス\nこの願いって叶ってるのかな？\n怖いけど、確かめさせてほしいの\n\n@カリス\n今から問題を出すから、\n答えてくれるかな…？\n\n# textflame 0 0\n@\nいつもの天真爛漫な彼女とは、\n少し雰囲気が違っていた…\n\n# textflame 1 1\n@カリス\nそれじゃ、いくよ\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしが覚える\n付与スキルはわかるかな？\n\n# se \"SE_0734\"\n# select \"不倶戴天\" \"select_label_1\" \"大器晩成\" \"select_label_2\" \"破魔戴天\" \"select_label_3\"\nわたしが覚える\n付与スキルはわかるかな？\n"
+	},
+	{
+		"ID": 5510,
+		"unitID": 2602511,
+		"questionID": 9602525,
+		"script": ";;不朽の神愛,1\n# face %(unit_a)s \"usual\"\n# voice 260251 \"chalice_t_0002\"\n# textflame 1 1\n@カリス\nねぇ、マスターさん\n\n@カリス\n強すぎる願いが叶わなかったとき、\n人はどんな風になるか知ってる？\n\n# textflame 0 0\n@\n突如、彼女が意味深な\n質問をしてきた\n\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@カリス\nわたしはそれを知るのが怖いの\n\n@カリス\nあなたには強すぎる願いを\n抱かずにはいられないって\n気づいちゃった\n\n# face %(unit_a)s \"usual\"\n# voice 260251 \"chalice_t_0004\"\n@カリス\nあのね、マスターさんには\nわたしのこと、\n全部知っていてもらいたいの\n\n@カリス\nこの願いって叶ってるのかな？\n怖いけど、確かめさせてほしいの\n\n@カリス\n今から問題を出すから、\n答えてくれるかな…？\n\n# textflame 0 0\n@\nいつもの天真爛漫な彼女とは、\n少し雰囲気が違っていた…\n\n# textflame 1 1\n@カリス\nそれじゃ、いくよ\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしが覚える\n付与スキルはわかるかな～？\n\n# se \"SE_0734\"\n# select \"不朽の神愛\" \"select_label_1\" \"不滅の神愛\" \"select_label_2\" \"不朽の名作\" \"select_label_3\"\nわたしが覚える\n付与スキルはわかるかな～？\n"
+	},
+	{
+		"ID": 5511,
+		"unitID": 2602511,
+		"questionID": 9602526,
+		"script": ";;聖血の断罪,1\n# face %(unit_a)s \"usual\"\n# voice 260251 \"chalice_t_0002\"\n# textflame 1 1\n@カリス\nねぇ、マスターさん\n\n@カリス\n強すぎる願いが叶わなかったとき、\n人はどんな風になるか知ってる？\n\n# textflame 0 0\n@\n突如、彼女が意味深な\n質問をしてきた\n\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@カリス\nわたしはそれを知るのが怖いの\n\n@カリス\nあなたには強すぎる願いを\n抱かずにはいられないって\n気づいちゃった\n\n# face %(unit_a)s \"usual\"\n# voice 260251 \"chalice_t_0004\"\n@カリス\nあのね、マスターさんには\nわたしのこと、\n全部知っていてもらいたいの\n\n@カリス\nこの願いって叶ってるのかな？\n怖いけど、確かめさせてほしいの\n\n@カリス\n今から問題を出すから、\n答えてくれるかな…？\n\n# textflame 0 0\n@\nいつもの天真爛漫な彼女とは、\n少し雰囲気が違っていた…\n\n# textflame 1 1\n@カリス\nそれじゃ、いくよ\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしの覚える\nデュエルスキルはわかるかな～？\n\n# se \"SE_0734\"\n# select \"聖血の断罪\" \"select_label_1\" \"清潔の断罪\" \"select_label_2\" \"鮮血の断罪\" \"select_label_3\"\nわたしの覚える\nデュエルスキルはわかるかな～？\n"
+	},
+	{
+		"ID": 5512,
+		"unitID": 2602511,
+		"questionID": 9602527,
+		"script": ";;気まぐれな神愛,1\n# face %(unit_a)s \"usual\"\n# voice 260251 \"chalice_t_0002\"\n# textflame 1 1\n@カリス\nねぇ、マスターさん\n\n@カリス\n強すぎる願いが叶わなかったとき、\n人はどんな風になるか知ってる？\n\n# textflame 0 0\n@\n突如、彼女が意味深な\n質問をしてきた\n\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@カリス\nわたしはそれを知るのが怖いの\n\n@カリス\nあなたには強すぎる願いを\n抱かずにはいられないって\n気づいちゃった\n\n# face %(unit_a)s \"usual\"\n# voice 260251 \"chalice_t_0004\"\n@カリス\nあのね、マスターさんには\nわたしのこと、\n全部知っていてもらいたいの\n\n@カリス\nこの願いって叶ってるのかな？\n怖いけど、確かめさせてほしいの\n\n@カリス\n今から問題を出すから、\n答えてくれるかな…？\n\n# textflame 0 0\n@\nいつもの天真爛漫な彼女とは、\n少し雰囲気が違っていた…\n\n# textflame 1 1\n@カリス\nそれじゃ、いくよ\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしのコマンドスキルは\nわかるかな～？\n\n# se \"SE_0734\"\n# select \"気まぐれな神愛\" \"select_label_1\" \"気まぐれなレシピ\" \"select_label_2\" \"気まぐれな歯医者\" \"select_label_3\"\nわたしのコマンドスキルは\nわかるかな～？\n"
+	},
+	{
+		"ID": 5513,
+		"unitID": 2602511,
+		"questionID": 9602528,
+		"script": ";;理砕『知恵の教示』,2\n# face %(unit_a)s \"usual\"\n# voice 260251 \"chalice_t_0002\"\n# textflame 1 1\n@カリス\nねぇ、マスターさん\n\n@カリス\n強すぎる願いが叶わなかったとき、\n人はどんな風になるか知ってる？\n\n# textflame 0 0\n@\n突如、彼女が意味深な\n質問をしてきた\n\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@カリス\nわたしはそれを知るのが怖いの\n\n@カリス\nあなたには強すぎる願いを\n抱かずにはいられないって\n気づいちゃった\n\n# face %(unit_a)s \"usual\"\n# voice 260251 \"chalice_t_0004\"\n@カリス\nあのね、マスターさんには\nわたしのこと、\n全部知っていてもらいたいの\n\n@カリス\nこの願いって叶ってるのかな？\n怖いけど、確かめさせてほしいの\n\n@カリス\n今から問題を出すから、\n答えてくれるかな…？\n\n# textflame 0 0\n@\nいつもの天真爛漫な彼女とは、\n少し雰囲気が違っていた…\n\n# textflame 1 1\n@カリス\nそれじゃ、いくよ\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしの覚える\nコマンドスキルはわかるかな～？\n\n# se \"SE_0734\"\n# select \"理砕『知恵の教授』\" \"select_label_1\" \"理砕『知恵の教示』\" \"select_label_2\" \"理砕『知恵の恭一』\" \"select_label_3\"\nわたしの覚える\nコマンドスキルはわかるかな～？\n"
+	},
+	{
+		"ID": 5514,
+		"unitID": 2602511,
+		"questionID": 9602529,
+		"script": ";;理を破る者達,2\n# face %(unit_a)s \"usual\"\n# voice 260251 \"chalice_t_0002\"\n# textflame 1 1\n@カリス\nねぇ、マスターさん\n\n@カリス\n強すぎる願いが叶わなかったとき、\n人はどんな風になるか知ってる？\n\n# textflame 0 0\n@\n突如、彼女が意味深な\n質問をしてきた\n\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@カリス\nわたしはそれを知るのが怖いの\n\n@カリス\nあなたには強すぎる願いを\n抱かずにはいられないって\n気づいちゃった\n\n# face %(unit_a)s \"usual\"\n# voice 260251 \"chalice_t_0004\"\n@カリス\nあのね、マスターさんには\nわたしのこと、\n全部知っていてもらいたいの\n\n@カリス\nこの願いって叶ってるのかな？\n怖いけど、確かめさせてほしいの\n\n@カリス\n今から問題を出すから、\n答えてくれるかな…？\n\n# textflame 0 0\n@\nいつもの天真爛漫な彼女とは、\n少し雰囲気が違っていた…\n\n# textflame 1 1\n@カリス\nそれじゃ、いくよ\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしが覚える\n付与スキルはわかるかな～？\n\n# se \"SE_0734\"\n# select \"記録を破る者達\" \"select_label_1\" \"理を破る者達\" \"select_label_2\" \"服を破る者達\" \"select_label_3\"\nわたしが覚える\n付与スキルはわかるかな～？\n"
+	},
+	{
+		"ID": 5515,
+		"unitID": 2602511,
+		"questionID": 9602530,
+		"script": ";;神愛の抵抗,3\n# face %(unit_a)s \"usual\"\n# voice 260251 \"chalice_t_0002\"\n# textflame 1 1\n@カリス\nねぇ、マスターさん\n\n@カリス\n強すぎる願いが叶わなかったとき、\n人はどんな風になるか知ってる？\n\n# textflame 0 0\n@\n突如、彼女が意味深な\n質問をしてきた\n\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@カリス\nわたしはそれを知るのが怖いの\n\n@カリス\nあなたには強すぎる願いを\n抱かずにはいられないって\n気づいちゃった\n\n# face %(unit_a)s \"usual\"\n# voice 260251 \"chalice_t_0004\"\n@カリス\nあのね、マスターさんには\nわたしのこと、\n全部知っていてもらいたいの\n\n@カリス\nこの願いって叶ってるのかな？\n怖いけど、確かめさせてほしいの\n\n@カリス\n今から問題を出すから、\n答えてくれるかな…？\n\n# textflame 0 0\n@\nいつもの天真爛漫な彼女とは、\n少し雰囲気が違っていた…\n\n# textflame 1 1\n@カリス\nそれじゃ、いくよ\n;;---------------------------------\n\n@%(unitName:unit_a)s\nわたしが覚える\n付与スキルはわかるかな～？\n\n# se \"SE_0734\"\n# select \"神愛の定着\" \"select_label_1\" \"神愛の平穏\" \"select_label_2\" \"神愛の抵抗\" \"select_label_3\"\nわたしが覚える\n付与スキルはわかるかな～？\n"
+	},
+	{
+		"ID": 5516,
+		"unitID": 2602511,
+		"questionID": 9602531,
+		"script": ";;堕天使,3\n# face %(unit_a)s \"normal\"\n# voice 260251 \"chalice_t_0005\"\n# textflame 1 1\n@カリス\n今日はとっても楽しかったな～\n\n# face %(unit_a)s \"sad\"\n@カリス\nでも…\n楽しければ、楽しいほど\n怖くなるよ…\n\n@カリス\nだって、わたしに聖鎖された\nアザゼルは人々の生き方を\n狂わせてしまった堕天使だから\n\n@カリス\nそんなわたしが、\nマスターとの未来を\n願ってもいいのかな…って\n\n# face %(unit_a)s \"usual\"\n# voice 260251 \"chalice_t_0002\"\n@カリス\nねぇ、今から問題を出すから…\n正解してみせて\n\n@カリス\nそうしてくれたら…\nわたしも未来を願っていいって、\n思えるから\n\n# textflame 0 0\n@\n責任重大なクイズが始まった\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nわたしにギアハックされた\nアザゼルってなに？\n\n# se \"SE_0734\"\n# select \"政治家\" \"select_label_1\" \"教師\" \"select_label_2\" \"堕天使\" \"select_label_3\"\nわたしにギアハックされた\nアザゼルってなに？\n"
+	},
+	{
+		"ID": 5517,
+		"unitID": 2602511,
+		"questionID": 9602532,
+		"script": ";;April,2\n# face %(unit_a)s \"normal\"\n# voice 260251 \"chalice_t_0005\"\n# textflame 1 1\n@カリス\n今日はとっても楽しかったな～\n\n# face %(unit_a)s \"sad\"\n@カリス\nでも…\n楽しければ、楽しいほど\n怖くなるよ…\n\n@カリス\nだって、わたしに聖鎖された\nアザゼルは人々の生き方を\n狂わせてしまった堕天使だから\n\n@カリス\nそんなわたしが、\nマスターとの未来を\n願ってもいいのかな…って\n\n# face %(unit_a)s \"usual\"\n# voice 260251 \"chalice_t_0002\"\n@カリス\nねぇ、今から問題を出すから…\n正解してみせて\n\n@カリス\nそうしてくれたら…\nわたしも未来を願っていいって、\n思えるから\n\n# textflame 0 0\n@\n責任重大なクイズが始まった\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nわたしの誕生月を英語で言うと…？\n\n# se \"SE_0734\"\n# select \"May\" \"select_label_1\" \"April\" \"select_label_2\" \"September\" \"select_label_3\"\nわたしの誕生月を英語で言うと…？\n"
+	},
+	{
+		"ID": 5518,
+		"unitID": 2602511,
+		"questionID": 9602533,
+		"script": ";;十二枚,3\n# face %(unit_a)s \"normal\"\n# voice 260251 \"chalice_t_0005\"\n# textflame 1 1\n@カリス\n今日はとっても楽しかったな～\n\n# face %(unit_a)s \"sad\"\n@カリス\nでも…\n楽しければ、楽しいほど\n怖くなるよ…\n\n@カリス\nだって、わたしに聖鎖された\nアザゼルは人々の生き方を\n狂わせてしまった堕天使だから\n\n@カリス\nそんなわたしが、\nマスターとの未来を\n願ってもいいのかな…って\n\n# face %(unit_a)s \"usual\"\n# voice 260251 \"chalice_t_0002\"\n@カリス\nねぇ、今から問題を出すから…\n正解してみせて\n\n@カリス\nそうしてくれたら…\nわたしも未来を願っていいって、\n思えるから\n\n# textflame 0 0\n@\n責任重大なクイズが始まった\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nわたしにギアハックされた\nアザゼルは何枚の翼を\n持つと云われてるでしょう？\n\n# se \"SE_0734\"\n# select \"十枚\" \"select_label_1\" \"二枚\" \"select_label_2\" \"十二枚\" \"select_label_3\"\nわたしにギアハックされた\nアザゼルは何枚の翼を\n持つと云われてるでしょう？\n"
+	},
+	{
+		"ID": 5519,
+		"unitID": 2602511,
+		"questionID": 9602534,
+		"script": ";;アスカロン,2\n# face %(unit_a)s \"normal\"\n# voice 260251 \"chalice_t_0005\"\n# textflame 1 1\n@カリス\n今日はとっても楽しかったな～\n\n# face %(unit_a)s \"sad\"\n@カリス\nでも…\n楽しければ、楽しいほど\n怖くなるよ…\n\n@カリス\nだって、わたしに聖鎖された\nアザゼルは人々の生き方を\n狂わせてしまった堕天使だから\n\n@カリス\nそんなわたしが、\nマスターとの未来を\n願ってもいいのかな…って\n\n# face %(unit_a)s \"usual\"\n# voice 260251 \"chalice_t_0002\"\n@カリス\nねぇ、今から問題を出すから…\n正解してみせて\n\n@カリス\nそうしてくれたら…\nわたしも未来を願っていいって、\n思えるから\n\n# textflame 0 0\n@\n責任重大なクイズが始まった\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nわたしと誕生月が同じなのは誰？\n\n# se \"SE_0734\"\n# select \"アポロン\" \"select_label_1\" \"アスカロン\" \"select_label_2\" \"ウコンバサラ\" \"select_label_3\"\nわたしと誕生月が同じなのは誰？\n"
+	},
+	{
+		"ID": 5520,
+		"unitID": 2602511,
+		"questionID": 9602535,
+		"script": ";;Aries,1\n# face %(unit_a)s \"normal\"\n# voice 260251 \"chalice_t_0005\"\n# textflame 1 1\n@カリス\n今日はとっても楽しかったな～\n\n# face %(unit_a)s \"sad\"\n@カリス\nでも…\n楽しければ、楽しいほど\n怖くなるよ…\n\n@カリス\nだって、わたしに聖鎖された\nアザゼルは人々の生き方を\n狂わせてしまった堕天使だから\n\n@カリス\nそんなわたしが、\nマスターとの未来を\n願ってもいいのかな…って\n\n# face %(unit_a)s \"usual\"\n# voice 260251 \"chalice_t_0002\"\n@カリス\nねぇ、今から問題を出すから…\n正解してみせて\n\n@カリス\nそうしてくれたら…\nわたしも未来を願っていいって、\n思えるから\n\n# textflame 0 0\n@\n責任重大なクイズが始まった\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nわたしの星座を英語で言うと？\n\n# se \"SE_0734\"\n# select \"Aries\" \"select_label_1\" \"Pisces\" \"select_label_2\" \"Taurus\" \"select_label_3\"\nわたしの星座を英語で言うと？\n"
+	},
+	{
+		"ID": 5521,
+		"unitID": 2602511,
+		"questionID": 9602536,
+		"script": ";;14,1\n# face %(unit_a)s \"normal\"\n# voice 260251 \"chalice_t_0005\"\n# textflame 1 1\n@カリス\n今日はとっても楽しかったな～\n\n# face %(unit_a)s \"sad\"\n@カリス\nでも…\n楽しければ、楽しいほど\n怖くなるよ…\n\n@カリス\nだって、わたしに聖鎖された\nアザゼルは人々の生き方を\n狂わせてしまった堕天使だから\n\n@カリス\nそんなわたしが、\nマスターとの未来を\n願ってもいいのかな…って\n\n# face %(unit_a)s \"usual\"\n# voice 260251 \"chalice_t_0002\"\n@カリス\nねぇ、今から問題を出すから…\n正解してみせて\n\n@カリス\nそうしてくれたら…\nわたしも未来を願っていいって、\n思えるから\n\n# textflame 0 0\n@\n責任重大なクイズが始まった\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nわたしにギアハックされた\nアザゼルは\nいくつ顔があると云われる？\n\n# se \"SE_0734\"\n# select \"14\" \"select_label_1\" \"2\" \"select_label_2\" \"120\" \"select_label_3\"\nわたしにギアハックされた\nアザゼルは\nいくつ顔があると云われる？\n"
+	},
+	{
+		"ID": 5522,
+		"unitID": 2602511,
+		"questionID": 9602537,
+		"script": ";;神の如き強者,1\n# face %(unit_a)s \"normal\"\n# voice 260251 \"chalice_t_0005\"\n# textflame 1 1\n@カリス\n今日はとっても楽しかったな～\n\n# face %(unit_a)s \"sad\"\n@カリス\nでも…\n楽しければ、楽しいほど\n怖くなるよ…\n\n@カリス\nだって、わたしに聖鎖された\nアザゼルは人々の生き方を\n狂わせてしまった堕天使だから\n\n@カリス\nそんなわたしが、\nマスターとの未来を\n願ってもいいのかな…って\n\n# face %(unit_a)s \"usual\"\n# voice 260251 \"chalice_t_0002\"\n@カリス\nねぇ、今から問題を出すから…\n正解してみせて\n\n@カリス\nそうしてくれたら…\nわたしも未来を願っていいって、\n思えるから\n\n# textflame 0 0\n@\n責任重大なクイズが始まった\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nわたしにギアハックされた\nアザゼルの名前の意味は\n何でしょう？\n\n# se \"SE_0734\"\n# select \"神の如き強者\" \"select_label_1\" \"神の如き弱者\" \"select_label_2\" \"神の如き愚者\" \"select_label_3\"\nわたしにギアハックされた\nアザゼルの名前の意味は\n何でしょう？\n"
+	},
+	{
+		"ID": 5523,
+		"unitID": 2602511,
+		"questionID": 9602538,
+		"script": ";;グリモワール,3\n# face %(unit_a)s \"normal\"\n# voice 260251 \"chalice_t_0005\"\n# textflame 1 1\n@カリス\n今日はとっても楽しかったな～\n\n# face %(unit_a)s \"sad\"\n@カリス\nでも…\n楽しければ、楽しいほど\n怖くなるよ…\n\n@カリス\nだって、わたしに聖鎖された\nアザゼルは人々の生き方を\n狂わせてしまった堕天使だから\n\n@カリス\nそんなわたしが、\nマスターとの未来を\n願ってもいいのかな…って\n\n# face %(unit_a)s \"usual\"\n# voice 260251 \"chalice_t_0002\"\n@カリス\nねぇ、今から問題を出すから…\n正解してみせて\n\n@カリス\nそうしてくれたら…\nわたしも未来を願っていいって、\n思えるから\n\n# textflame 0 0\n@\n責任重大なクイズが始まった\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nわたしと同じ血液型なのは？\n\n# se \"SE_0734\"\n# select \"スラーンド\" \"select_label_1\" \"フランキスカ\" \"select_label_2\" \"グリモワール\" \"select_label_3\"\nわたしと同じ血液型なのは？\n"
+	},
+	{
+		"ID": 5524,
+		"unitID": 2602511,
+		"questionID": 9602539,
+		"script": ";;グングニル,3\n# face %(unit_a)s \"normal\"\n# voice 260251 \"chalice_t_0005\"\n# textflame 1 1\n@カリス\n今日はとっても楽しかったな～\n\n# face %(unit_a)s \"sad\"\n@カリス\nでも…\n楽しければ、楽しいほど\n怖くなるよ…\n\n@カリス\nだって、わたしに聖鎖された\nアザゼルは人々の生き方を\n狂わせてしまった堕天使だから\n\n@カリス\nそんなわたしが、\nマスターとの未来を\n願ってもいいのかな…って\n\n# face %(unit_a)s \"usual\"\n# voice 260251 \"chalice_t_0002\"\n@カリス\nねぇ、今から問題を出すから…\n正解してみせて\n\n@カリス\nそうしてくれたら…\nわたしも未来を願っていいって、\n思えるから\n\n# textflame 0 0\n@\n責任重大なクイズが始まった\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nわたしと違う血液型なのは\n誰かわかる？\n\n# se \"SE_0734\"\n# select \"ピナーカ\" \"select_label_1\" \"グリモワール\" \"select_label_2\" \"グングニル\" \"select_label_3\"\nわたしと違う血液型なのは\n誰かわかる？\n"
+	},
+	{
+		"ID": 5525,
+		"unitID": 2602511,
+		"questionID": 9602540,
+		"script": ";;マサムネ,1\n# face %(unit_a)s \"normal\"\n# voice 260251 \"chalice_t_0005\"\n# textflame 1 1\n@カリス\n今日はとっても楽しかったな～\n\n# face %(unit_a)s \"sad\"\n@カリス\nでも…\n楽しければ、楽しいほど\n怖くなるよ…\n\n@カリス\nだって、わたしに聖鎖された\nアザゼルは人々の生き方を\n狂わせてしまった堕天使だから\n\n@カリス\nそんなわたしが、\nマスターとの未来を\n願ってもいいのかな…って\n\n# face %(unit_a)s \"usual\"\n# voice 260251 \"chalice_t_0002\"\n@カリス\nねぇ、今から問題を出すから…\n正解してみせて\n\n@カリス\nそうしてくれたら…\nわたしも未来を願っていいって、\n思えるから\n\n# textflame 0 0\n@\n責任重大なクイズが始まった\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nわたしと違う誕生月なのは\n誰かわかる？\n\n# se \"SE_0734\"\n# select \"マサムネ\" \"select_label_1\" \"アスカロン\" \"select_label_2\" \"シタ\" \"select_label_3\"\nわたしと違う誕生月なのは\n誰かわかる？\n"
+	},
+	{
+		"ID": 5526,
+		"unitID": 2602511,
+		"questionID": 9602541,
+		"script": "\n;;わたし,3\n# se \"SE_0734\"\n# select \"わたくし\" \"select_label_1\" \"ウチ\" \"select_label_2\" \"わたし\" \"select_label_3\"\nカリスの一人称は\n次のうちどれでしょうか？\n"
+	},
+	{
+		"ID": 5527,
+		"unitID": 2602511,
+		"questionID": 9602542,
+		"script": "\n;;マスターさん,2\n# se \"SE_0734\"\n# select \"マスター\" \"select_label_1\" \"マスターさん\" \"select_label_2\" \"キミ\" \"select_label_3\"\nカリスはマスターのこと、\nなんと呼んでますか？\n"
+	},
+	{
+		"ID": 5528,
+		"unitID": 2602511,
+		"questionID": 9602543,
+		"script": "\n;;81cm,3\n# se \"SE_0734\"\n# select \"83cm\" \"select_label_1\" \"80cm\" \"select_label_2\" \"81cm\" \"select_label_3\"\nカリスの\nバストサイズがどのくらいか\nマスターは…ご存知でしょうか？\n"
+	},
+	{
+		"ID": 5529,
+		"unitID": 2602511,
+		"questionID": 9602544,
+		"script": "\n;;57cm,2\n# se \"SE_0734\"\n# select \"60cm\" \"select_label_1\" \"57cm\" \"select_label_2\" \"62cm\" \"select_label_3\"\nカリスの\nウエストサイズがどのくらいか\nマスターは…ご存知でしょうか？\n"
+	},
+	{
+		"ID": 5530,
+		"unitID": 2602511,
+		"questionID": 9602545,
+		"script": "\n;;82cm,1\n# se \"SE_0734\"\n# select \"82cm\" \"select_label_1\" \"81cm\" \"select_label_2\" \"79cm\" \"select_label_3\"\nカリスの\nヒップサイズがどのくらいか\nマスターは…ご存知でしょうか？\n"
+	},
+	{
+		"ID": 5531,
+		"unitID": 2602511,
+		"questionID": 9602546,
+		"script": "\n;;45ｋｇ,1\n# se \"SE_0734\"\n# select \"45ｋｇ\" \"select_label_1\" \"51kg\" \"select_label_2\" \"48kg\" \"select_label_3\"\nカリスの体重は\n次のうちどれでしょう？\n"
+	},
+	{
+		"ID": 5532,
+		"unitID": 2602511,
+		"questionID": 9602547,
+		"script": "\n;;220,1\n# se \"SE_0734\"\n# select \"220\" \"select_label_1\" \"199\" \"select_label_2\" \"200\" \"select_label_3\"\nカリスの\nバスト＋ウエスト＋ヒップは\nどのくらいかわかりますか？\n"
+	},
+	{
+		"ID": 5533,
+		"unitID": 2602511,
+		"questionID": 9602548,
+		"script": "\n;;ピンク,3\n# se \"SE_0734\"\n# select \"黄色\" \"select_label_1\" \"緑色\" \"select_label_2\" \"ピンク\" \"select_label_3\"\nカリスの髪の色は\n次のうちどれでしょう？\n"
+	},
+	{
+		"ID": 5534,
+		"unitID": 2602511,
+		"questionID": 9602549,
+		"script": "\n;;15位,3\n# se \"SE_0734\"\n# select \"７位\" \"select_label_1\" \"３０位\" \"select_label_2\" \"15位\" \"select_label_3\"\nカリスは\n第４回人気投票で\n何位だったでしょうか？\n"
+	},
+	{
+		"ID": 5535,
+		"unitID": 2602511,
+		"questionID": 9602550,
+		"script": "\n;;すずきももこ,1\n# se \"SE_0734\"\n# select \"すずきももこ\" \"select_label_1\" \"秦佐和子\" \"select_label_2\" \"佐倉綾音\" \"select_label_3\"\nカリスの声優は誰でしょう？\n"
+	}
+]

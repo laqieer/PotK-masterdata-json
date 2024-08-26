@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 391014398,
+		"script": ";;//不正解\n# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body 2101431\n# pos 2101431 3\n# mask 2101431 off\n# chara 2101431\n# fadein \"black\" 0.5\n# textflame 1 1\n# face 2101431 \"sad\"\n# se \"SE_0733\"\n@ティルフィング\n違います、マスター\n不正解です\n\n# voice 1014 \"tyrufing_0058\"\n@ティルフィング\nさすがに急に問題を出しては\nいくらマスターでも、\n難しかったですよね…\n\n# textflame 0 0\n@\nあっさりと答えることを\n期待していたのか\nティルフィングの表情が曇る\n\n@\n謝ってもみたが、\n彼女は首を振る\n\n# textflame 1 1\n@ティルフィング\nいえ、マスターのせいではありません\n私が急に問題なんて出したのが\n悪いんです\n\n# voice 1014 \"tyrufing_0031\"\n@ティルフィング\n申し訳ありません、マスター\n\n# textflame 0 0\n@\n良かれと思って提案してくれたのに\n彼女に謝らせてしまった\nその罪悪感が重くのしかかる\n\n@\n次があれば、\n絶対に正解してみせよう\n\n@\nそう決心して、暗い夜道を\n足早に進んだ…\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

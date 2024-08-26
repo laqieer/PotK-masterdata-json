@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 10241101,
+		"script": "# script \"lisp\"\n# background \"flower_garden\"\n# bgm \"bgm003\" 0\n# body 102411\n# mask 102411 off\n# pos 102411 3\n# textflame 0 0\n@\nマスターがやってきた時、\nセイバーは一人沿道に立ち、\n遠くを眺めていた\n\n# face 102411 \"surprise\"\n# textflame 1 1\n# textboxarrow 0 2\n# voice 1024 \"saber_0001\"\n@セイバー\n…！\nマスター…\n\n# face 102411 \"worry\"\n# voice 1024 \"saber_0003\"\n@セイバー\n別に何も…\nただ、ぼーっと…\n花を見ていただけです\n\n# face 102411 \"surprise\"\n# voice 1024 \"saber_0022\"\n@セイバー\n…え？この世界に来た事…？\n\n# face 102411 \"normal\"\n# voice 1024 \"saber_0013\"\n@セイバー\nいえ、悔いたりなど\nしてはおりません\n\n# voice 1024 \"saber_0003\"\n@セイバー\n今は、キル姫として\n運命を受け入れ、\n戦っていく覚悟はできましたし\n\n# voice 1024 \"saber_0001\"\n@セイバー\nそれは、マスター\nあなたのおかげだ\n\n# face 102411 \"worry\"\n# voice 1024 \"saber_0013\"\n@セイバー\nでもですが…\n\n# textflame 0 0\n@\nどうしたの…？\nマスターが尋ねる\n\n# textflame 1 1\n# textboxarrow 0 2\n# voice 1024 \"saber_0028\"\n@セイバー\n私はここで…\n何のためにここで戦うのか\n\n# voice 1024 \"saber_0003\"\n@セイバー\n以前は、聖杯戦争を\n勝ち抜くために戦っていた\n\n# voice 1024 \"saber_0008\"\n@セイバー\nそれに比べ、今は…\n何のために剣を振るっているのか…\n\n# voice 1024 \"saber_0027\"\n@セイバー\n時々、\nわからなくなるのです…\n\n# textflame 0 0\n@\n彼女は物憂げな目で、\nずっと花を見ていた"
+	}
+]

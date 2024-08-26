@@ -1,0 +1,26 @@
+[
+	{
+		"ID": 509,
+		"unitID": 2501411,
+		"scriptID": "kaerimichi",
+		"script": "実は気になってた場所があるの\n今から行ってみない？"
+	},
+	{
+		"ID": 510,
+		"unitID": 2501411,
+		"scriptID": "kaeru_ok",
+		"script": "@%(unitName:unit_a)s\nいいわね、オッケー！"
+	},
+	{
+		"ID": 511,
+		"unitID": 2501411,
+		"scriptID": "kaeru",
+		"script": "今日は楽しかったわ\n誘ってくれて、ありがとう"
+	},
+	{
+		"ID": 512,
+		"unitID": 2501411,
+		"scriptID": "kaeru_ng",
+		"script": "@%(unitName:unit_a)s\nうぅ～ん…ちょっと今日は\n疲れちゃったかな\nまた今度にしましょう？"
+	}
+]

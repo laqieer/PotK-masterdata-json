@@ -1,0 +1,302 @@
+[
+	{
+		"ID": 4101,
+		"unitID": 2201111,
+		"questionID": 9201101,
+		"script": ";;ヴァジュラ,1\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 2011 \"Wazra_0001\"\n@ワズラ\nマ、マスター…\n\n# eye %(unit_a)s \"close\"\n@ワズラ\nワズラとマスターは\n盟友の“契約”を\n交わした間柄\n\n# eye %(unit_a)s \"normal\"\n@ワズラ\n盟友なら…\n\n# face %(unit_a)s \"sad\"\n# voice 2011 \"Wazra_0004\"\n@ワズラ\nワズラのこと、\nなんでも分かってる\nはずですよね？\n\n# face %(unit_a)s \"angry\"\n@ワズラ\nということで、\n今からクイズを\n出させて頂きます！\n\n# face %(unit_a)s \"normal\"\n# voice 2011 \"Wazra_0036\"\n@ワズラ\nよろしいですね！？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nワズラのキラーズは\nあるものと同一視されていますが\nなにかわかりますか？\n\n# se \"SE_0734\"\n# select \"ヴァジュラ\" \"select_label_1\" \"ブラフマーストラ\" \"select_label_2\" \"レーヴァテイン\" \"select_label_3\"\nワズラのキラーズは\nあるものと同一視されていますが\nなにかわかりますか？\n"
+	},
+	{
+		"ID": 4102,
+		"unitID": 2201111,
+		"questionID": 9201102,
+		"script": ";;ミスラ,2\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 2011 \"Wazra_0001\"\n@ワズラ\nマ、マスター…\n\n# eye %(unit_a)s \"close\"\n@ワズラ\nワズラとマスターは\n盟友の“契約”を\n交わした間柄\n\n# eye %(unit_a)s \"normal\"\n@ワズラ\n盟友なら…\n\n# face %(unit_a)s \"sad\"\n# voice 2011 \"Wazra_0004\"\n@ワズラ\nワズラのこと、\nなんでも分かってる\nはずですよね？\n\n# face %(unit_a)s \"angry\"\n@ワズラ\nということで、\n今からクイズを\n出させて頂きます！\n\n# face %(unit_a)s \"normal\"\n# voice 2011 \"Wazra_0036\"\n@ワズラ\nよろしいですね！？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nワズラのキラーズの\n持ち主はわかりますか？\n\n# se \"SE_0734\"\n# select \"ミクラ\" \"select_label_1\" \"ミスラ\" \"select_label_2\" \"ミララ\" \"select_label_3\"\nワズラのキラーズの\n持ち主はわかりますか？\n"
+	},
+	{
+		"ID": 4103,
+		"unitID": 2201111,
+		"questionID": 9201103,
+		"script": ";;契約,3\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 2011 \"Wazra_0001\"\n@ワズラ\nマ、マスター…\n\n# eye %(unit_a)s \"close\"\n@ワズラ\nワズラとマスターは\n盟友の“契約”を\n交わした間柄\n\n# eye %(unit_a)s \"normal\"\n@ワズラ\n盟友なら…\n\n# face %(unit_a)s \"sad\"\n# voice 2011 \"Wazra_0004\"\n@ワズラ\nワズラのこと、\nなんでも分かってる\nはずですよね？\n\n# face %(unit_a)s \"angry\"\n@ワズラ\nということで、\n今からクイズを\n出させて頂きます！\n\n# face %(unit_a)s \"normal\"\n# voice 2011 \"Wazra_0036\"\n@ワズラ\nよろしいですね！？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nワズラのキラーズの持ち主\n「ミスラ」の名はなにを意味するか\n知っていますか？\n\n# se \"SE_0734\"\n# select \"携帯\" \"select_label_1\" \"計画\" \"select_label_2\" \"契約\" \"select_label_3\"\nワズラのキラーズの持ち主\n「ミスラ」の名はなにを意味するか\n知っていますか？\n"
+	},
+	{
+		"ID": 4104,
+		"unitID": 2201111,
+		"questionID": 9201104,
+		"script": ";;友情・友愛,1\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 2011 \"Wazra_0001\"\n@ワズラ\nマ、マスター…\n\n# eye %(unit_a)s \"close\"\n@ワズラ\nワズラとマスターは\n盟友の“契約”を\n交わした間柄\n\n# eye %(unit_a)s \"normal\"\n@ワズラ\n盟友なら…\n\n# face %(unit_a)s \"sad\"\n# voice 2011 \"Wazra_0004\"\n@ワズラ\nワズラのこと、\nなんでも分かってる\nはずですよね？\n\n# face %(unit_a)s \"angry\"\n@ワズラ\nということで、\n今からクイズを\n出させて頂きます！\n\n# face %(unit_a)s \"normal\"\n# voice 2011 \"Wazra_0036\"\n@ワズラ\nよろしいですね！？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n『ワズラ』はインド神話では\nなにの守護神と云われているか\n知っていますか？\n\n# se \"SE_0734\"\n# select \"友情・友愛\" \"select_label_1\" \"愛\" \"select_label_2\" \"就職\" \"select_label_3\"\n『ワズラ』はインド神話では\nなにの守護神と云われているか\n知っていますか？\n"
+	},
+	{
+		"ID": 4105,
+		"unitID": 2201111,
+		"questionID": 9201105,
+		"script": ";;棍棒,2\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 2011 \"Wazra_0001\"\n@ワズラ\nマ、マスター…\n\n# eye %(unit_a)s \"close\"\n@ワズラ\nワズラとマスターは\n盟友の“契約”を\n交わした間柄\n\n# eye %(unit_a)s \"normal\"\n@ワズラ\n盟友なら…\n\n# face %(unit_a)s \"sad\"\n# voice 2011 \"Wazra_0004\"\n@ワズラ\nワズラのこと、\nなんでも分かってる\nはずですよね？\n\n# face %(unit_a)s \"angry\"\n@ワズラ\nということで、\n今からクイズを\n出させて頂きます！\n\n# face %(unit_a)s \"normal\"\n# voice 2011 \"Wazra_0036\"\n@ワズラ\nよろしいですね！？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n『ワズラ』は実際には\nどんな武器だったかわかりますか？\n\n# se \"SE_0734\"\n# select \"斧\" \"select_label_1\" \"棍棒\" \"select_label_2\" \"ハリセン\" \"select_label_3\"\n『ワズラ』は実際には\nどんな武器だったかわかりますか？\n"
+	},
+	{
+		"ID": 4106,
+		"unitID": 2201111,
+		"questionID": 9201106,
+		"script": ";;イラン神話群,3\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 2011 \"Wazra_0001\"\n@ワズラ\nマ、マスター…\n\n# eye %(unit_a)s \"close\"\n@ワズラ\nワズラとマスターは\n盟友の“契約”を\n交わした間柄\n\n# eye %(unit_a)s \"normal\"\n@ワズラ\n盟友なら…\n\n# face %(unit_a)s \"sad\"\n# voice 2011 \"Wazra_0004\"\n@ワズラ\nワズラのこと、\nなんでも分かってる\nはずですよね？\n\n# face %(unit_a)s \"angry\"\n@ワズラ\nということで、\n今からクイズを\n出させて頂きます！\n\n# face %(unit_a)s \"normal\"\n# voice 2011 \"Wazra_0036\"\n@ワズラ\nよろしいですね！？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nワズラのキラーズ『ワズラ』は\nどんな伝承に登場しますか？\n\n# se \"SE_0734\"\n# select \"フィンランド神話群\" \"select_label_1\" \"北欧神話群\" \"select_label_2\" \"イラン神話群\" \"select_label_3\"\nワズラのキラーズ『ワズラ』は\nどんな伝承に登場しますか？\n"
+	},
+	{
+		"ID": 4107,
+		"unitID": 2201111,
+		"questionID": 9201107,
+		"script": ";;ゾロアスター教,1\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 2011 \"Wazra_0001\"\n@ワズラ\nマ、マスター…\n\n# eye %(unit_a)s \"close\"\n@ワズラ\nワズラとマスターは\n盟友の“契約”を\n交わした間柄\n\n# eye %(unit_a)s \"normal\"\n@ワズラ\n盟友なら…\n\n# face %(unit_a)s \"sad\"\n# voice 2011 \"Wazra_0004\"\n@ワズラ\nワズラのこと、\nなんでも分かってる\nはずですよね？\n\n# face %(unit_a)s \"angry\"\n@ワズラ\nということで、\n今からクイズを\n出させて頂きます！\n\n# face %(unit_a)s \"normal\"\n# voice 2011 \"Wazra_0036\"\n@ワズラ\nよろしいですね！？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n『ワズラ』を\n司法神としているのは…？\n\n# se \"SE_0734\"\n# select \"ゾロアスター教\" \"select_label_1\" \"キリスト教\" \"select_label_2\" \"仏教\" \"select_label_3\"\n『ワズラ』を\n司法神としているのは…？\n"
+	},
+	{
+		"ID": 4108,
+		"unitID": 2201111,
+		"questionID": 9201108,
+		"script": ";;軍神,2\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 2011 \"Wazra_0001\"\n@ワズラ\nマ、マスター…\n\n# eye %(unit_a)s \"close\"\n@ワズラ\nワズラとマスターは\n盟友の“契約”を\n交わした間柄\n\n# eye %(unit_a)s \"normal\"\n@ワズラ\n盟友なら…\n\n# face %(unit_a)s \"sad\"\n# voice 2011 \"Wazra_0004\"\n@ワズラ\nワズラのこと、\nなんでも分かってる\nはずですよね？\n\n# face %(unit_a)s \"angry\"\n@ワズラ\nということで、\n今からクイズを\n出させて頂きます！\n\n# face %(unit_a)s \"normal\"\n# voice 2011 \"Wazra_0036\"\n@ワズラ\nよろしいですね！？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n『ワズラ』はゾロアスター教では\n司法神であり…？\n\n# se \"SE_0734\"\n# select \"福の神\" \"select_label_1\" \"軍神\" \"select_label_2\" \"恋愛成就の神\" \"select_label_3\"\n『ワズラ』はゾロアスター教では\n司法神であり…？\n"
+	},
+	{
+		"ID": 4109,
+		"unitID": 2201111,
+		"questionID": 9201109,
+		"script": ";;万,3\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 2011 \"Wazra_0001\"\n@ワズラ\nマ、マスター…\n\n# eye %(unit_a)s \"close\"\n@ワズラ\nワズラとマスターは\n盟友の“契約”を\n交わした間柄\n\n# eye %(unit_a)s \"normal\"\n@ワズラ\n盟友なら…\n\n# face %(unit_a)s \"sad\"\n# voice 2011 \"Wazra_0004\"\n@ワズラ\nワズラのこと、\nなんでも分かってる\nはずですよね？\n\n# face %(unit_a)s \"angry\"\n@ワズラ\nということで、\n今からクイズを\n出させて頂きます！\n\n# face %(unit_a)s \"normal\"\n# voice 2011 \"Wazra_0036\"\n@ワズラ\nよろしいですね！？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nワズラのキラーズ『ワズラ』は\n目をいくつ持ってると\n云われていますか？\n\n# se \"SE_0734\"\n# select \"百\" \"select_label_1\" \"千\" \"select_label_2\" \"万\" \"select_label_3\"\nワズラのキラーズ『ワズラ』は\n目をいくつ持ってると\n云われていますか？\n"
+	},
+	{
+		"ID": 4110,
+		"unitID": 2201111,
+		"questionID": 9201110,
+		"script": ";;千,1\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 2011 \"Wazra_0001\"\n@ワズラ\nマ、マスター…\n\n# eye %(unit_a)s \"close\"\n@ワズラ\nワズラとマスターは\n盟友の“契約”を\n交わした間柄\n\n# eye %(unit_a)s \"normal\"\n@ワズラ\n盟友なら…\n\n# face %(unit_a)s \"sad\"\n# voice 2011 \"Wazra_0004\"\n@ワズラ\nワズラのこと、\nなんでも分かってる\nはずですよね？\n\n# face %(unit_a)s \"angry\"\n@ワズラ\nということで、\n今からクイズを\n出させて頂きます！\n\n# face %(unit_a)s \"normal\"\n# voice 2011 \"Wazra_0036\"\n@ワズラ\nよろしいですね！？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nワズラのキラーズ『ワズラ』は\n耳をいくつ持ってると\n云われていますか？\n\n# se \"SE_0734\"\n# select \"千\" \"select_label_1\" \"万\" \"select_label_2\" \"百\" \"select_label_3\"\nワズラのキラーズ『ワズラ』は\n耳をいくつ持ってると\n云われていますか？\n"
+	},
+	{
+		"ID": 4111,
+		"unitID": 2201111,
+		"questionID": 9201111,
+		"script": ";;光,1\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n@ワズラ\nこんな遅い時間に\nなっちゃいましたね…\n\n@ワズラ\n早く帰るって言ってたのに…\n\n# face %(unit_a)s \"angry\"\n# voice 2011 \"Wazra_0001\"\n@ワズラ\nマスター、契約違反ですよ？\n\n# eye %(unit_a)s \"close\"\n@ワズラ\nじゃあ…\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"usual\"\n# voice 2011 \"Wazra_0004\"\n@ワズラ\nクイズに答えられたら\n許してあげます♪\n\n# face %(unit_a)s \"smile\"\n# voice 2011 \"Wazra_0036\"\n@ワズラ\n行きますよ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nワズラの属性は\n知っていますよね？\n\n# se \"SE_0734\"\n# select \"光\" \"select_label_1\" \"闇\" \"select_label_2\" \"雷\" \"select_label_3\"\nワズラの属性は\n知っていますよね？\n"
+	},
+	{
+		"ID": 4112,
+		"unitID": 2201111,
+		"questionID": 9201112,
+		"script": ";;158㎝,1\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n@ワズラ\nこんな遅い時間に\nなっちゃいましたね…\n\n@ワズラ\n早く帰るって言ってたのに…\n\n# face %(unit_a)s \"angry\"\n# voice 2011 \"Wazra_0001\"\n@ワズラ\nマスター、契約違反ですよ？\n\n# eye %(unit_a)s \"close\"\n@ワズラ\nじゃあ…\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"usual\"\n# voice 2011 \"Wazra_0004\"\n@ワズラ\nクイズに答えられたら\n許してあげます♪\n\n# face %(unit_a)s \"smile\"\n# voice 2011 \"Wazra_0036\"\n@ワズラ\n行きますよ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nワズラの身長は\n知っていますか？\n\n# se \"SE_0734\"\n# select \"158cm\" \"select_label_1\" \"162cm\" \"select_label_2\" \"172cm\" \"select_label_3\"\nワズラの身長は\n知っていますか？\n"
+	},
+	{
+		"ID": 4113,
+		"unitID": 2201111,
+		"questionID": 9201113,
+		"script": ";;12月6日,3\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n@ワズラ\nこんな遅い時間に\nなっちゃいましたね…\n\n@ワズラ\n早く帰るって言ってたのに…\n\n# face %(unit_a)s \"angry\"\n# voice 2011 \"Wazra_0001\"\n@ワズラ\nマスター、契約違反ですよ？\n\n# eye %(unit_a)s \"close\"\n@ワズラ\nじゃあ…\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"usual\"\n# voice 2011 \"Wazra_0004\"\n@ワズラ\nクイズに答えられたら\n許してあげます♪\n\n# face %(unit_a)s \"smile\"\n# voice 2011 \"Wazra_0036\"\n@ワズラ\n行きますよ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nワズラの誕生日は\n知っていますか？\n\n# se \"SE_0734\"\n# select \"12月4日\" \"select_label_1\" \"12月5日\" \"select_label_2\" \"12月6日\" \"select_label_3\"\nワズラの誕生日は\n知っていますか？\n"
+	},
+	{
+		"ID": 4114,
+		"unitID": 2201111,
+		"questionID": 9201114,
+		"script": ";;いて座,1\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n@ワズラ\nこんな遅い時間に\nなっちゃいましたね…\n\n@ワズラ\n早く帰るって言ってたのに…\n\n# face %(unit_a)s \"angry\"\n# voice 2011 \"Wazra_0001\"\n@ワズラ\nマスター、契約違反ですよ？\n\n# eye %(unit_a)s \"close\"\n@ワズラ\nじゃあ…\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"usual\"\n# voice 2011 \"Wazra_0004\"\n@ワズラ\nクイズに答えられたら\n許してあげます♪\n\n# face %(unit_a)s \"smile\"\n# voice 2011 \"Wazra_0036\"\n@ワズラ\n行きますよ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nワズラの星座は\nわかりますか？\n\n# se \"SE_0734\"\n# select \"いて座\" \"select_label_1\" \"てんびん座\" \"select_label_2\" \"おとめ座\" \"select_label_3\"\nワズラの星座は\nわかりますか？\n"
+	},
+	{
+		"ID": 4115,
+		"unitID": 2201111,
+		"questionID": 9201115,
+		"script": ";;罰ゲームを考える,2\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n@ワズラ\nこんな遅い時間に\nなっちゃいましたね…\n\n@ワズラ\n早く帰るって言ってたのに…\n\n# face %(unit_a)s \"angry\"\n# voice 2011 \"Wazra_0001\"\n@ワズラ\nマスター、契約違反ですよ？\n\n# eye %(unit_a)s \"close\"\n@ワズラ\nじゃあ…\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"usual\"\n# voice 2011 \"Wazra_0004\"\n@ワズラ\nクイズに答えられたら\n許してあげます♪\n\n# face %(unit_a)s \"smile\"\n# voice 2011 \"Wazra_0036\"\n@ワズラ\n行きますよ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nワズラの好きなものは\nわかりますか？\n\n# se \"SE_0734\"\n# select \"スマホゲームを考える\" \"select_label_1\" \"罰ゲームを考える\" \"select_label_2\" \"ボードゲームを考える\" \"select_label_3\"\nワズラの好きなものは\nわかりますか？\n"
+	},
+	{
+		"ID": 4116,
+		"unitID": 2201111,
+		"questionID": 9201116,
+		"script": ";;礼儀正しい,3\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n@ワズラ\nこんな遅い時間に\nなっちゃいましたね…\n\n@ワズラ\n早く帰るって言ってたのに…\n\n# face %(unit_a)s \"angry\"\n# voice 2011 \"Wazra_0001\"\n@ワズラ\nマスター、契約違反ですよ？\n\n# eye %(unit_a)s \"close\"\n@ワズラ\nじゃあ…\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"usual\"\n# voice 2011 \"Wazra_0004\"\n@ワズラ\nクイズに答えられたら\n許してあげます♪\n\n# face %(unit_a)s \"smile\"\n# voice 2011 \"Wazra_0036\"\n@ワズラ\n行きますよ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nワズラはよく\n人にこう言われますね…\n\n# se \"SE_0734\"\n# select \"土下座好き\" \"select_label_1\" \"礼儀を知らない\" \"select_label_2\" \"礼儀正しい\" \"select_label_3\"\nワズラはよく\n人にこう言われますね…\n"
+	},
+	{
+		"ID": 4117,
+		"unitID": 2201111,
+		"questionID": 9201117,
+		"script": ";;O型,1\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n@ワズラ\nこんな遅い時間に\nなっちゃいましたね…\n\n@ワズラ\n早く帰るって言ってたのに…\n\n# face %(unit_a)s \"angry\"\n# voice 2011 \"Wazra_0001\"\n@ワズラ\nマスター、契約違反ですよ？\n\n# eye %(unit_a)s \"close\"\n@ワズラ\nじゃあ…\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"usual\"\n# voice 2011 \"Wazra_0004\"\n@ワズラ\nクイズに答えられたら\n許してあげます♪\n\n# face %(unit_a)s \"smile\"\n# voice 2011 \"Wazra_0036\"\n@ワズラ\n行きますよ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nワズラの血液型は\nわかりますか？\n\n# se \"SE_0734\"\n# select \"O型\" \"select_label_1\" \"Ａ型\" \"select_label_2\" \"Ｂ型\" \"select_label_3\"\nワズラの血液型は\nわかりますか？\n"
+	},
+	{
+		"ID": 4118,
+		"unitID": 2201111,
+		"questionID": 9201118,
+		"script": ";;イラン,2\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n@ワズラ\nこんな遅い時間に\nなっちゃいましたね…\n\n@ワズラ\n早く帰るって言ってたのに…\n\n# face %(unit_a)s \"angry\"\n# voice 2011 \"Wazra_0001\"\n@ワズラ\nマスター、契約違反ですよ？\n\n# eye %(unit_a)s \"close\"\n@ワズラ\nじゃあ…\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"usual\"\n# voice 2011 \"Wazra_0004\"\n@ワズラ\nクイズに答えられたら\n許してあげます♪\n\n# face %(unit_a)s \"smile\"\n# voice 2011 \"Wazra_0036\"\n@ワズラ\n行きますよ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nワズラの出身地を\nご存知ですか？\n\n# se \"SE_0734\"\n# select \"アフガン\" \"select_label_1\" \"イラン\" \"select_label_2\" \"バラライカ\" \"select_label_3\"\nワズラの出身地を\nご存知ですか？\n"
+	},
+	{
+		"ID": 4119,
+		"unitID": 2201111,
+		"questionID": 9201119,
+		"script": ";;監視日記,3\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n@ワズラ\nこんな遅い時間に\nなっちゃいましたね…\n\n@ワズラ\n早く帰るって言ってたのに…\n\n# face %(unit_a)s \"angry\"\n# voice 2011 \"Wazra_0001\"\n@ワズラ\nマスター、契約違反ですよ？\n\n# eye %(unit_a)s \"close\"\n@ワズラ\nじゃあ…\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"usual\"\n# voice 2011 \"Wazra_0004\"\n@ワズラ\nクイズに答えられたら\n許してあげます♪\n\n# face %(unit_a)s \"smile\"\n# voice 2011 \"Wazra_0036\"\n@ワズラ\n行きますよ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nワズラの趣味は\nどれかわかりますか？\n\n# se \"SE_0734\"\n# select \"成長日記\" \"select_label_1\" \"交換日記\" \"select_label_2\" \"監視日記\" \"select_label_3\"\nワズラの趣味は\nどれかわかりますか？\n"
+	},
+	{
+		"ID": 4120,
+		"unitID": 2201111,
+		"questionID": 9201120,
+		"script": ";;契約,1\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n@ワズラ\nこんな遅い時間に\nなっちゃいましたね…\n\n@ワズラ\n早く帰るって言ってたのに…\n\n# face %(unit_a)s \"angry\"\n# voice 2011 \"Wazra_0001\"\n@ワズラ\nマスター、契約違反ですよ？\n\n# eye %(unit_a)s \"close\"\n@ワズラ\nじゃあ…\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"usual\"\n# voice 2011 \"Wazra_0004\"\n@ワズラ\nクイズに答えられたら\n許してあげます♪\n\n# face %(unit_a)s \"smile\"\n# voice 2011 \"Wazra_0036\"\n@ワズラ\n行きますよ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nワズラは\nこれを守らない人には\n容赦しません！\n\n# se \"SE_0734\"\n# select \"契約\" \"select_label_1\" \"セカンド\" \"select_label_2\" \"ショート\" \"select_label_3\"\nワズラは\nこれを守らない人には\n容赦しません！\n"
+	},
+	{
+		"ID": 4121,
+		"unitID": 2201111,
+		"questionID": 9201121,
+		"script": ";;バナナ,1\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 2011 \"Wazra_0031\"\n@ワズラ\nいつも契約、契約と\n口うるさく言って\n申し訳ありません\n\n# eye %(unit_a)s \"close\"\n# voice 2011 \"Wazra_0003\"\n@ワズラ\nでも契約を守るのは盟友の証\n\n# eye %(unit_a)s \"normal\"\n@ワズラ\n今から出すクイズ…\n正解すると契約して下さいますか？\n\n# face %(unit_a)s \"usual\"\n# voice 2011 \"Wazra_0004\"\n@ワズラ\nもし間違えたら…\nキツ～イ罰ゲームがあるので\n覚悟して下さいね？\n\n# voice 2011 \"Wazra_0036\"\n# face %(unit_a)s \"normal\"\n@ワズラ\nそれじゃ、いきますよ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nワズラがおやつに入らないと\n思うものはどれでしょうか？\n\n# se \"SE_0734\"\n# select \"バナナ\" \"select_label_1\" \"チョコレート\" \"select_label_2\" \"ガム\" \"select_label_3\"\nワズラがおやつに入らないと\n思うものはどれでしょうか？\n"
+	},
+	{
+		"ID": 4122,
+		"unitID": 2201111,
+		"questionID": 9201122,
+		"script": ";;斧神,2\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 2011 \"Wazra_0031\"\n@ワズラ\nいつも契約、契約と\n口うるさく言って\n申し訳ありません\n\n# eye %(unit_a)s \"close\"\n# voice 2011 \"Wazra_0003\"\n@ワズラ\nでも契約を守るのは盟友の証\n\n# eye %(unit_a)s \"normal\"\n@ワズラ\n今から出すクイズ…\n正解すると契約して下さいますか？\n\n# face %(unit_a)s \"usual\"\n# voice 2011 \"Wazra_0004\"\n@ワズラ\nもし間違えたら…\nキツ～イ罰ゲームがあるので\n覚悟して下さいね？\n\n# voice 2011 \"Wazra_0036\"\n# face %(unit_a)s \"normal\"\n@ワズラ\nそれじゃ、いきますよ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nワズラの☆６の\nジョブ名はわかりますか？\n\n# se \"SE_0734\"\n# select \"斧王\" \"select_label_1\" \"斧神\" \"select_label_2\" \"斧男\" \"select_label_3\"\nワズラの☆６の\nジョブ名はわかりますか？\n"
+	},
+	{
+		"ID": 4123,
+		"unitID": 2201111,
+		"questionID": 9201123,
+		"script": ";;契約,3\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 2011 \"Wazra_0031\"\n@ワズラ\nいつも契約、契約と\n口うるさく言って\n申し訳ありません\n\n# eye %(unit_a)s \"close\"\n# voice 2011 \"Wazra_0003\"\n@ワズラ\nでも契約を守るのは盟友の証\n\n# eye %(unit_a)s \"normal\"\n@ワズラ\n今から出すクイズ…\n正解すると契約して下さいますか？\n\n# face %(unit_a)s \"usual\"\n# voice 2011 \"Wazra_0004\"\n@ワズラ\nもし間違えたら…\nキツ～イ罰ゲームがあるので\n覚悟して下さいね？\n\n# voice 2011 \"Wazra_0036\"\n# face %(unit_a)s \"normal\"\n@ワズラ\nそれじゃ、いきますよ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nワズラは『約束』のことを\nなんと呼びますか？\n\n# se \"SE_0734\"\n# select \"掟\" \"select_label_1\" \"プロミス\" \"select_label_2\" \"契約\" \"select_label_3\"\nワズラは『約束』のことを\nなんと呼びますか？\n"
+	},
+	{
+		"ID": 4124,
+		"unitID": 2201111,
+		"questionID": 9201124,
+		"script": ";;斧神の戦意,1\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 2011 \"Wazra_0031\"\n@ワズラ\nいつも契約、契約と\n口うるさく言って\n申し訳ありません\n\n# eye %(unit_a)s \"close\"\n# voice 2011 \"Wazra_0003\"\n@ワズラ\nでも契約を守るのは盟友の証\n\n# eye %(unit_a)s \"normal\"\n@ワズラ\n今から出すクイズ…\n正解すると契約して下さいますか？\n\n# face %(unit_a)s \"usual\"\n# voice 2011 \"Wazra_0004\"\n@ワズラ\nもし間違えたら…\nキツ～イ罰ゲームがあるので\n覚悟して下さいね？\n\n# voice 2011 \"Wazra_0036\"\n# face %(unit_a)s \"normal\"\n@ワズラ\nそれじゃ、いきますよ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nワズラの☆６の\nリーダースキルをご存知ですか？\n\n# se \"SE_0734\"\n# select \"斧神の戦意\" \"select_label_1\" \"斧神の繊維\" \"select_label_2\" \"斧神の遷移\" \"select_label_3\"\nワズラの☆６の\nリーダースキルをご存知ですか？\n"
+	},
+	{
+		"ID": 4125,
+		"unitID": 2201111,
+		"questionID": 9201125,
+		"script": ";;ヴァジュラ,2\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 2011 \"Wazra_0031\"\n@ワズラ\nいつも契約、契約と\n口うるさく言って\n申し訳ありません\n\n# eye %(unit_a)s \"close\"\n# voice 2011 \"Wazra_0003\"\n@ワズラ\nでも契約を守るのは盟友の証\n\n# eye %(unit_a)s \"normal\"\n@ワズラ\n今から出すクイズ…\n正解すると契約して下さいますか？\n\n# face %(unit_a)s \"usual\"\n# voice 2011 \"Wazra_0004\"\n@ワズラ\nもし間違えたら…\nキツ～イ罰ゲームがあるので\n覚悟して下さいね？\n\n# voice 2011 \"Wazra_0036\"\n# face %(unit_a)s \"normal\"\n@ワズラ\nそれじゃ、いきますよ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nワズラと仲がいいのは\nこの子ですよ！\n\n# se \"SE_0734\"\n# select \"ロンゴミアント\" \"select_label_1\" \"ヴァジュラ\" \"select_label_2\" \"シタ\" \"select_label_3\"\nワズラと仲がいいのは\nこの子ですよ！\n"
+	},
+	{
+		"ID": 4126,
+		"unitID": 2201111,
+		"questionID": 9201126,
+		"script": ";;ケラウノス,3\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 2011 \"Wazra_0031\"\n@ワズラ\nいつも契約、契約と\n口うるさく言って\n申し訳ありません\n\n# eye %(unit_a)s \"close\"\n# voice 2011 \"Wazra_0003\"\n@ワズラ\nでも契約を守るのは盟友の証\n\n# eye %(unit_a)s \"normal\"\n@ワズラ\n今から出すクイズ…\n正解すると契約して下さいますか？\n\n# face %(unit_a)s \"usual\"\n# voice 2011 \"Wazra_0004\"\n@ワズラ\nもし間違えたら…\nキツ～イ罰ゲームがあるので\n覚悟して下さいね？\n\n# voice 2011 \"Wazra_0036\"\n# face %(unit_a)s \"normal\"\n@ワズラ\nそれじゃ、いきますよ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nワズラがシンパシーを\n感じてしまうのは\nこの方ですね！\n\n# se \"SE_0734\"\n# select \"レーヴァテイン\" \"select_label_1\" \"ルーン\" \"select_label_2\" \"ケラウノス\" \"select_label_3\"\nワズラがシンパシーを\n感じてしまうのは\nこの方ですね！\n"
+	},
+	{
+		"ID": 4127,
+		"unitID": 2201111,
+		"questionID": 9201127,
+		"script": ";;怒気,1\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 2011 \"Wazra_0031\"\n@ワズラ\nいつも契約、契約と\n口うるさく言って\n申し訳ありません\n\n# eye %(unit_a)s \"close\"\n# voice 2011 \"Wazra_0003\"\n@ワズラ\nでも契約を守るのは盟友の証\n\n# eye %(unit_a)s \"normal\"\n@ワズラ\n今から出すクイズ…\n正解すると契約して下さいますか？\n\n# face %(unit_a)s \"usual\"\n# voice 2011 \"Wazra_0004\"\n@ワズラ\nもし間違えたら…\nキツ～イ罰ゲームがあるので\n覚悟して下さいね？\n\n# voice 2011 \"Wazra_0036\"\n# face %(unit_a)s \"normal\"\n@ワズラ\nそれじゃ、いきますよ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nワズラが覚える\n付与スキルってわかりますか？\n\n# se \"SE_0734\"\n# select \"怒気\" \"select_label_1\" \"土器\" \"select_label_2\" \"簿記\" \"select_label_3\"\nワズラが覚える\n付与スキルってわかりますか？\n"
+	},
+	{
+		"ID": 4128,
+		"unitID": 2201111,
+		"questionID": 9201128,
+		"script": ";;ギルティストンプ,2\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 2011 \"Wazra_0031\"\n@ワズラ\nいつも契約、契約と\n口うるさく言って\n申し訳ありません\n\n# eye %(unit_a)s \"close\"\n# voice 2011 \"Wazra_0003\"\n@ワズラ\nでも契約を守るのは盟友の証\n\n# eye %(unit_a)s \"normal\"\n@ワズラ\n今から出すクイズ…\n正解すると契約して下さいますか？\n\n# face %(unit_a)s \"usual\"\n# voice 2011 \"Wazra_0004\"\n@ワズラ\nもし間違えたら…\nキツ～イ罰ゲームがあるので\n覚悟して下さいね？\n\n# voice 2011 \"Wazra_0036\"\n# face %(unit_a)s \"normal\"\n@ワズラ\nそれじゃ、いきますよ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nワズラが\n取得したスキルは覚えてますか？\n\n# se \"SE_0734\"\n# select \"フットスタンプ\" \"select_label_1\" \"ギルティストンプ\" \"select_label_2\" \"ギルティラブ\" \"select_label_3\"\nワズラが\n取得したスキルは覚えてますか？\n"
+	},
+	{
+		"ID": 4129,
+		"unitID": 2201111,
+		"questionID": 9201129,
+		"script": ";;メガパニッシュ,3\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 2011 \"Wazra_0031\"\n@ワズラ\nいつも契約、契約と\n口うるさく言って\n申し訳ありません\n\n# eye %(unit_a)s \"close\"\n# voice 2011 \"Wazra_0003\"\n@ワズラ\nでも契約を守るのは盟友の証\n\n# eye %(unit_a)s \"normal\"\n@ワズラ\n今から出すクイズ…\n正解すると契約して下さいますか？\n\n# face %(unit_a)s \"usual\"\n# voice 2011 \"Wazra_0004\"\n@ワズラ\nもし間違えたら…\nキツ～イ罰ゲームがあるので\n覚悟して下さいね？\n\n# voice 2011 \"Wazra_0036\"\n# face %(unit_a)s \"normal\"\n@ワズラ\nそれじゃ、いきますよ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nワズラが\n取得したスキルは\nご存知ですか？\n\n# se \"SE_0734\"\n# select \"メガマウス\" \"select_label_1\" \"メガパニック\" \"select_label_2\" \"メガパニッシュ\" \"select_label_3\"\nワズラが\n取得したスキルは\nご存知ですか？\n"
+	},
+	{
+		"ID": 4130,
+		"unitID": 2201111,
+		"questionID": 9201130,
+		"script": ";;激辛スープ,1\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 2011 \"Wazra_0031\"\n@ワズラ\nいつも契約、契約と\n口うるさく言って\n申し訳ありません\n\n# eye %(unit_a)s \"close\"\n# voice 2011 \"Wazra_0003\"\n@ワズラ\nでも契約を守るのは盟友の証\n\n# eye %(unit_a)s \"normal\"\n@ワズラ\n今から出すクイズ…\n正解すると契約して下さいますか？\n\n# face %(unit_a)s \"usual\"\n# voice 2011 \"Wazra_0004\"\n@ワズラ\nもし間違えたら…\nキツ～イ罰ゲームがあるので\n覚悟して下さいね？\n\n# voice 2011 \"Wazra_0036\"\n# face %(unit_a)s \"normal\"\n@ワズラ\nそれじゃ、いきますよ？\n;;---------------------------------\n\n@%(unitName:unit_a)s\n夕飯に遅刻したマスターに\n課した罰ゲームは\n次のうちどれでしょうか？\n\n# se \"SE_0734\"\n# select \"激辛スープ\" \"select_label_1\" \"バンジージャンプ\" \"select_label_2\" \"鼻ザリガニ\" \"select_label_3\"\n夕飯に遅刻したマスターに\n課した罰ゲームは\n次のうちどれでしょうか？\n"
+	},
+	{
+		"ID": 4131,
+		"unitID": 2201111,
+		"questionID": 9201131,
+		"script": ";;争い,1\n# textflame 1 1\n@ワズラ\nマスターとは…\n\n# eye %(unit_a)s \"close\"\n# voice 2011 \"Wazra_0003\"\n@ワズラ\n契約を交わした\n盟友だと思っております…\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"sad\"\n@ワズラ\nで、ですが…！\n\n@ワズラ\nめ、盟友以上の\n関係を望むのは…\nいけないことでしょうか？\n\n@ワズラ\n今から出すクイズに\nもしマスターが答えられたら…\n\n@ワズラ\n契約を…\n更新したいと\n思います\n\n# face %(unit_a)s \"usual\"\n# voice 2011 \"Wazra_0036\"\n@ワズラ\nよろしいですか…？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nワズラは\nこれをあまり好みません！\n\n# se \"SE_0734\"\n# select \"争い\" \"select_label_1\" \"食事\" \"select_label_2\" \"女同士のマウンティング\" \"select_label_3\"\nワズラは\nこれをあまり好みません！\n"
+	},
+	{
+		"ID": 4132,
+		"unitID": 2201111,
+		"questionID": 9201132,
+		"script": ";;Sagittarius,2\n# textflame 1 1\n@ワズラ\nマスターとは…\n\n# eye %(unit_a)s \"close\"\n# voice 2011 \"Wazra_0003\"\n@ワズラ\n契約を交わした\n盟友だと思っております…\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"sad\"\n@ワズラ\nで、ですが…！\n\n@ワズラ\nめ、盟友以上の\n関係を望むのは…\nいけないことでしょうか？\n\n@ワズラ\n今から出すクイズに\nもしマスターが答えられたら…\n\n@ワズラ\n契約を…\n更新したいと\n思います\n\n# face %(unit_a)s \"usual\"\n# voice 2011 \"Wazra_0036\"\n@ワズラ\nよろしいですか…？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nワズラの星座は\nいて座なんですが\nいて座を英語で言うと？\n\n# se \"SE_0734\"\n# select \"Cancer\" \"select_label_1\" \"Sagittarius\" \"select_label_2\" \"Capricorn\" \"select_label_3\"\nワズラの星座は\nいて座なんですが\nいて座を英語で言うと？\n"
+	},
+	{
+		"ID": 4133,
+		"unitID": 2201111,
+		"questionID": 9201133,
+		"script": ";;December,3\n# textflame 1 1\n@ワズラ\nマスターとは…\n\n# eye %(unit_a)s \"close\"\n# voice 2011 \"Wazra_0003\"\n@ワズラ\n契約を交わした\n盟友だと思っております…\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"sad\"\n@ワズラ\nで、ですが…！\n\n@ワズラ\nめ、盟友以上の\n関係を望むのは…\nいけないことでしょうか？\n\n@ワズラ\n今から出すクイズに\nもしマスターが答えられたら…\n\n@ワズラ\n契約を…\n更新したいと\n思います\n\n# face %(unit_a)s \"usual\"\n# voice 2011 \"Wazra_0036\"\n@ワズラ\nよろしいですか…？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nワズラの誕生月は\n12月なんですが\n12月を英語で言うと？\n\n# se \"SE_0734\"\n# select \"September\" \"select_label_1\" \"August\" \"select_label_2\" \"December\" \"select_label_3\"\nワズラの誕生月は\n12月なんですが\n12月を英語で言うと？\n"
+	},
+	{
+		"ID": 4134,
+		"unitID": 2201111,
+		"questionID": 9201134,
+		"script": ";;ウズラ,1\n# textflame 1 1\n@ワズラ\nマスターとは…\n\n# eye %(unit_a)s \"close\"\n# voice 2011 \"Wazra_0003\"\n@ワズラ\n契約を交わした\n盟友だと思っております…\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"sad\"\n@ワズラ\nで、ですが…！\n\n@ワズラ\nめ、盟友以上の\n関係を望むのは…\nいけないことでしょうか？\n\n@ワズラ\n今から出すクイズに\nもしマスターが答えられたら…\n\n@ワズラ\n契約を…\n更新したいと\n思います\n\n# face %(unit_a)s \"usual\"\n# voice 2011 \"Wazra_0036\"\n@ワズラ\nよろしいですか…？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nワズラの名前を\n一文字変えて\n動物にしてください！\n\n# se \"SE_0734\"\n# select \"ウズラ\" \"select_label_1\" \"ゴリラ\" \"select_label_2\" \"ラクダ\" \"select_label_3\"\nワズラの名前を\n一文字変えて\n動物にしてください！\n"
+	},
+	{
+		"ID": 4135,
+		"unitID": 2201111,
+		"questionID": 9201135,
+		"script": ";;2色　,2\n# textflame 1 1\n@ワズラ\nマスターとは…\n\n# eye %(unit_a)s \"close\"\n# voice 2011 \"Wazra_0003\"\n@ワズラ\n契約を交わした\n盟友だと思っております…\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"sad\"\n@ワズラ\nで、ですが…！\n\n@ワズラ\nめ、盟友以上の\n関係を望むのは…\nいけないことでしょうか？\n\n@ワズラ\n今から出すクイズに\nもしマスターが答えられたら…\n\n@ワズラ\n契約を…\n更新したいと\n思います\n\n# face %(unit_a)s \"usual\"\n# voice 2011 \"Wazra_0036\"\n@ワズラ\nよろしいですか…？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nワズラの髪の色は…？\n\n# se \"SE_0734\"\n# select \"3色\" \"select_label_1\" \"2色\" \"select_label_2\" \"7色\" \"select_label_3\"\nワズラの髪の色は…？\n"
+	},
+	{
+		"ID": 4136,
+		"unitID": 2201111,
+		"questionID": 9201136,
+		"script": ";;ブルー,3\n# textflame 1 1\n@ワズラ\nマスターとは…\n\n# eye %(unit_a)s \"close\"\n# voice 2011 \"Wazra_0003\"\n@ワズラ\n契約を交わした\n盟友だと思っております…\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"sad\"\n@ワズラ\nで、ですが…！\n\n@ワズラ\nめ、盟友以上の\n関係を望むのは…\nいけないことでしょうか？\n\n@ワズラ\n今から出すクイズに\nもしマスターが答えられたら…\n\n@ワズラ\n契約を…\n更新したいと\n思います\n\n# face %(unit_a)s \"usual\"\n# voice 2011 \"Wazra_0036\"\n@ワズラ\nよろしいですか…？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nワズラの瞳の色は…？\n\n# se \"SE_0734\"\n# select \"ピンク\" \"select_label_1\" \"イエロー\" \"select_label_2\" \"ブルー\" \"select_label_3\"\nワズラの瞳の色は…？\n"
+	},
+	{
+		"ID": 4137,
+		"unitID": 2201111,
+		"questionID": 9201137,
+		"script": ";;夕方の博物館,1\n# textflame 1 1\n@ワズラ\nマスターとは…\n\n# eye %(unit_a)s \"close\"\n# voice 2011 \"Wazra_0003\"\n@ワズラ\n契約を交わした\n盟友だと思っております…\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"sad\"\n@ワズラ\nで、ですが…！\n\n@ワズラ\nめ、盟友以上の\n関係を望むのは…\nいけないことでしょうか？\n\n@ワズラ\n今から出すクイズに\nもしマスターが答えられたら…\n\n@ワズラ\n契約を…\n更新したいと\n思います\n\n# face %(unit_a)s \"usual\"\n# voice 2011 \"Wazra_0036\"\n@ワズラ\nよろしいですか…？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nワズラの誕生日は\nとある記念日なのですが\nご存知でしょうか？\n\n# se \"SE_0734\"\n# select \"音の日\" \"select_label_1\" \"波の日\" \"select_label_2\" \"色の日\" \"select_label_3\"\nワズラの誕生日は\nとある記念日なのですが\nご存知でしょうか？\n"
+	},
+	{
+		"ID": 4138,
+		"unitID": 2201111,
+		"questionID": 9201138,
+		"script": ";;ス―ランド,2\n# textflame 1 1\n@ワズラ\nマスターとは…\n\n# eye %(unit_a)s \"close\"\n# voice 2011 \"Wazra_0003\"\n@ワズラ\n契約を交わした\n盟友だと思っております…\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"sad\"\n@ワズラ\nで、ですが…！\n\n@ワズラ\nめ、盟友以上の\n関係を望むのは…\nいけないことでしょうか？\n\n@ワズラ\n今から出すクイズに\nもしマスターが答えられたら…\n\n@ワズラ\n契約を…\n更新したいと\n思います\n\n# face %(unit_a)s \"usual\"\n# voice 2011 \"Wazra_0036\"\n@ワズラ\nよろしいですか…？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nワズラと同じ血液型なのは\n誰かわかりますか？\n\n# se \"SE_0734\"\n# select \"ペルーン\" \"select_label_1\" \"スラーンド\" \"select_label_2\" \"ラブリュス\" \"select_label_3\"\nワズラと同じ血液型なのは\n誰かわかりますか？\n"
+	},
+	{
+		"ID": 4139,
+		"unitID": 2201111,
+		"questionID": 9201139,
+		"script": ";;レシェフ,3\n# textflame 1 1\n@ワズラ\nマスターとは…\n\n# eye %(unit_a)s \"close\"\n# voice 2011 \"Wazra_0003\"\n@ワズラ\n契約を交わした\n盟友だと思っております…\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"sad\"\n@ワズラ\nで、ですが…！\n\n@ワズラ\nめ、盟友以上の\n関係を望むのは…\nいけないことでしょうか？\n\n@ワズラ\n今から出すクイズに\nもしマスターが答えられたら…\n\n@ワズラ\n契約を…\n更新したいと\n思います\n\n# face %(unit_a)s \"usual\"\n# voice 2011 \"Wazra_0036\"\n@ワズラ\nよろしいですか…？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nワズラと違う血液型なのは\n誰かわかりますか？\n\n# se \"SE_0734\"\n# select \"ブラフマーストラ\" \"select_label_1\" \"スラーンド\" \"select_label_2\" \"レシェフ\" \"select_label_3\"\nワズラと違う血液型なのは\n誰かわかりますか？\n"
+	},
+	{
+		"ID": 4140,
+		"unitID": 2201111,
+		"questionID": 9201140,
+		"script": ";;クラウ・ソラス,1\n# textflame 1 1\n@ワズラ\nマスターとは…\n\n# eye %(unit_a)s \"close\"\n# voice 2011 \"Wazra_0003\"\n@ワズラ\n契約を交わした\n盟友だと思っております…\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"sad\"\n@ワズラ\nで、ですが…！\n\n@ワズラ\nめ、盟友以上の\n関係を望むのは…\nいけないことでしょうか？\n\n@ワズラ\n今から出すクイズに\nもしマスターが答えられたら…\n\n@ワズラ\n契約を…\n更新したいと\n思います\n\n# face %(unit_a)s \"usual\"\n# voice 2011 \"Wazra_0036\"\n@ワズラ\nよろしいですか…？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nワズラと同じ誕生月なのは\n誰かわかりますか？\n\n# se \"SE_0734\"\n# select \"クラウ・ソラス\" \"select_label_1\" \"アスクレピオス\" \"select_label_2\" \"芭蕉扇\" \"select_label_3\"\nワズラと同じ誕生月なのは\n誰かわかりますか？\n"
+	},
+	{
+		"ID": 4141,
+		"unitID": 2201111,
+		"questionID": 9201141,
+		"script": "\n;;ワズラ,1\n# se \"SE_0734\"\n# select \"ワズラ\" \"select_label_1\" \"わたし\" \"select_label_2\" \"あたし\" \"select_label_3\"\nワズラの一人称は\n次のうちどれ？\n"
+	},
+	{
+		"ID": 4142,
+		"unitID": 2201111,
+		"questionID": 9201142,
+		"script": "\n;;マスター,2\n# se \"SE_0734\"\n# select \"ご主人\" \"select_label_1\" \"マスター\" \"select_label_2\" \"キミ\" \"select_label_3\"\nワズラはアンタのこと、\nなんて呼んでる？\n"
+	},
+	{
+		"ID": 4143,
+		"unitID": 2201111,
+		"questionID": 9201143,
+		"script": "\n;;85,3\n# se \"SE_0734\"\n# select \"80\" \"select_label_1\" \"82\" \"select_label_2\" \"85\" \"select_label_3\"\nワズラの\nバストサイズがどのくらいか\nアンタ…知ってるの？\n"
+	},
+	{
+		"ID": 4144,
+		"unitID": 2201111,
+		"questionID": 9201144,
+		"script": "\n;;57,1\n# se \"SE_0734\"\n# select \"57\" \"select_label_1\" \"60\" \"select_label_2\" \"61\" \"select_label_3\"\nワズラの\nウエストサイズがどのくらいか\nアンタ…知ってるの？\n"
+	},
+	{
+		"ID": 4145,
+		"unitID": 2201111,
+		"questionID": 9201145,
+		"script": "\n;;83,2\n# se \"SE_0734\"\n# select \"80\" \"select_label_1\" \"83\" \"select_label_2\" \"86\" \"select_label_3\"\nワズラの\nヒップサイズがどのくらいか\nアンタ…知ってるの？\n"
+	},
+	{
+		"ID": 4146,
+		"unitID": 2201111,
+		"questionID": 9201146,
+		"script": "\n;;45,3\n# se \"SE_0734\"\n# select \"42\" \"select_label_1\" \"48\" \"select_label_2\" \"45\" \"select_label_3\"\nワズラの体重は\n次のうちどれ？\n"
+	},
+	{
+		"ID": 4147,
+		"unitID": 2201111,
+		"questionID": 9201147,
+		"script": "\n;;225,1\n# se \"SE_0734\"\n# select \"225\" \"select_label_1\" \"220\" \"select_label_2\" \"230\" \"select_label_3\"\nワズラの\nバスト＋ウエスト＋ヒップは\nいくつかわかる？\n"
+	},
+	{
+		"ID": 4148,
+		"unitID": 2201111,
+		"questionID": 9201148,
+		"script": "\n;;白,2\n# se \"SE_0734\"\n# select \"赤\" \"select_label_1\" \"白\" \"select_label_2\" \"緑\" \"select_label_3\"\nワズラの水着の色は\n次のうちどれ？\n"
+	},
+	{
+		"ID": 4149,
+		"unitID": 2201111,
+		"questionID": 9201149,
+		"script": "\n;;41位,3\n# se \"SE_0734\"\n# select \"59位\" \"select_label_1\" \"22位\" \"select_label_2\" \"41位\" \"select_label_3\"\nワズラは\n第２回人気投票で\n何位だったでしょう？\n"
+	},
+	{
+		"ID": 4150,
+		"unitID": 2201111,
+		"questionID": 9201150,
+		"script": "\n;;小松未可子,1\n# se \"SE_0734\"\n# select \"小松未可子\" \"select_label_1\" \"高垣彩陽\" \"select_label_2\" \"山本希望\" \"select_label_3\"\nワズラの声優は誰？\n"
+	}
+]

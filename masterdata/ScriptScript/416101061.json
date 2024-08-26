@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 416101061,
+		"script": ";;-----------------------------------------\n;;【PUNK】インテグラルノア編\n;;インテグラルキラーズサイドストーリー\n;;第1話―６　タイトル：平和への決意\n;;1_6_1\n;;スクリプト最後の背景：廃墟（ghost_town）\n;;-----------------------------------------\n# script \"lisp\"\n# background \"ghost_town\"\n# bgm \"bgm021_022\" 0\n;;-----------------------------------------\n;;ティルフィング\n# body 24\n# pos 24 3\n# scale 24 0.8 0\n# layer 24 2\n# alpha 24 0 0\n# mask 24 off\n;;ティルフィング（イミテーション）\n# entry 9241 24\n# pos 9241 3\n# scale 9241 0.8 0\n# layer 9241 2\n# alpha 9241 0 0\n# mask 9241 off\n# brightness 9241 0.8 0\n;;-----------------------------------------\n;;第1話―６　タイトル：平和への決意\n;;//背景：廃墟（ghost_town）\n# move 24 2 0\n# face 24 \"angry\"\n# alpha 24 1 0\n# mask 24 on\n# textflame 1 1\n# textboxarrow 0 1\n# move 9241 4 0\n# face 9241 \"angry\"\n# alpha 9241 1 0\n# mask 9241 on\n@ティルフィング\nはあああああああああああ！\n\n;;ティルフィング（イミテーション）\n# textboxarrow 0 3\n@ティルフィング\nやあああああああああ！"
+	}
+]

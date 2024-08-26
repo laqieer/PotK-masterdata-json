@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 400421,
+		"script": ";;,A 自分もそう思う (大)\n;;,B 終わるから次がある '(小)'\n;;,C 今を楽しもう (中)\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_shipboard\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 0 0\n# face %(unit_a)s \"usual\"\n@\nエロースと船に乗り\n夜の海原へと漕ぎ出した\n\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# voice 4004 \"erosu_0004\"\n@エロース\nきゃ～☆\n\n@エロース\nろまんちっくですね～♪\nわぁ～、星々もきれいですし\n陸の街の光がこぅ、パァ～って♪\n\n# face %(unit_a)s \"normal\"\n@エロース\n…でも、これが終わったら\nデートも終わっちゃいますね\n\n# voice 4004 \"erosu_0013\"\n@エロース\n終わらないデートが\nあったらなって思います…\n\n# select \"自分もそう思う\" \"select_label_01\" \"終わるから次がある\" \"select_label_02\" \"今を楽しもう\" \"select_label_03\"\n終わらないデートが\nあったらなって思います…\n\n# label \"select_label_01\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_02\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_03\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# textflame 1 1\n# waitandnext 0.1\n\n# label \"select_label_end\"\n# waitandnext 2\n# fadeout \"black\" 1.2\n"
+	}
+]

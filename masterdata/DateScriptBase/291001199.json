@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 291001199,
+		"script": ";;//正解\n# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body 2100121\n# pos 2100121 3\n# mask 2100121 off\n# chara 2100121\n# fadein \"black\" 0.5\n# textflame 1 1\n# face 2100121 \"shy\"\n# se \"SE_0732\"\n# voice 210012 \"masamune_k_0021\"\n@マサムネ\nお見事、正解だ\n\n@マサムネ\nな、何気なしに出してはみたが\n自分のことを知られているというのは\n案外照れくさいものだな\n\n;;モノローグ\n# textflame 0 0\n@\nマサムネが微かに頬を染めて\n視線をそらす\n\n# voice 210012 \"masamune_k_0001\"\n# textflame 1 1\n@マサムネ\n主君よ\nか、帰るとしよう\n\n# textflame 0 0\n@\n帰路につくマスター\nその横をついて歩くマサムネは\n嬉しそうな顔をしている\n\n@\n彼女との距離がより縮まったと\n実感するのだった…\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

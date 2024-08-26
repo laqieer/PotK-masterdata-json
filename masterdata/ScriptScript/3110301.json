@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 3110301,
+		"script": "# script \"lisp\"\n# background \"foot_mountain_village\"\n# bgm \"bgm001\" 0\n# body 101411\n# mask 101411 off\n# pos 101411 3\n# textboxarrow 0 2\n# imageset 0 \"battle_ev04\"\n# imagealpha 0 0 0\n# chara 101411\n@ティルフィング\n空を飛ぶことができるジョブは\n「ウイングナイト」や\n「ドラゴンナイト」など…\n\n# imageset 1 \"battle_ev03\"\n# imagealpha 1 0 0\n# imagealpha 0 1 0\n# imagepos 0 0 0\n# chara 101411\n@ティルフィング\n地形を選ばず移動してくるので、\nこちらの位置取りには\n十分注意してください\n\n# imagealpha 0 0 0\n# imagealpha 1 1 0\n# imagepos 1 0 0\n# chara 101411\n@ティルフィング\nしかし、飛んでいるユニットは\n弓の攻撃に弱く、大きなダメージを\n与えることができます\n\n# chara 101411\n@ティルフィング\n逆にこちらに飛行ユニットが\nいる場合は、敵の弓に\n十分注意してくださいね"
+	}
+]

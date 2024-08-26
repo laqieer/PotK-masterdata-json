@@ -1,0 +1,114 @@
+[
+	{
+		"ID": 1,
+		"english_name": "PotK",
+		"unit_group_head_UnitGroupHead": 0,
+		"group_refer_id": 0,
+		"priority": 6,
+		"file_name": "slc_Affiliation_PotK.png"
+	},
+	{
+		"ID": 2,
+		"english_name": "Phantom\nof School",
+		"unit_group_head_UnitGroupHead": 2,
+		"group_refer_id": 2,
+		"priority": 5,
+		"file_name": "slc_Affiliation_School.png"
+	},
+	{
+		"ID": 3,
+		"english_name": "Phantom\nof Love",
+		"unit_group_head_UnitGroupHead": 2,
+		"group_refer_id": 4,
+		"priority": 5,
+		"file_name": "slc_Affiliation_Love.png"
+	},
+	{
+		"ID": 4,
+		"english_name": "Harmonia",
+		"unit_group_head_UnitGroupHead": 3,
+		"group_refer_id": 10,
+		"priority": 2,
+		"file_name": "slc_Affiliation_Harmonia.png"
+	},
+	{
+		"ID": 5,
+		"english_name": "Chaoslion",
+		"unit_group_head_UnitGroupHead": 3,
+		"group_refer_id": 11,
+		"priority": 2,
+		"file_name": "slc_Affiliation_Chaosleon.png"
+	},
+	{
+		"ID": 6,
+		"english_name": "Treisema",
+		"unit_group_head_UnitGroupHead": 3,
+		"group_refer_id": 12,
+		"priority": 2,
+		"file_name": "slc_Affiliation_Traysema.png"
+	},
+	{
+		"ID": 7,
+		"english_name": "Tirhelm",
+		"unit_group_head_UnitGroupHead": 3,
+		"group_refer_id": 13,
+		"priority": 2,
+		"file_name": "slc_Affiliation_Tilhem.png"
+	},
+	{
+		"ID": 8,
+		"english_name": "Black\nKillers",
+		"unit_group_head_UnitGroupHead": 4,
+		"group_refer_id": 8,
+		"priority": 3,
+		"file_name": "slc_Affiliation_Black.png"
+	},
+	{
+		"ID": 9,
+		"english_name": "Disrupters",
+		"unit_group_head_UnitGroupHead": 4,
+		"group_refer_id": 19,
+		"priority": 1,
+		"file_name": "slc_Affiliation_Disrupters.png"
+	},
+	{
+		"ID": 10,
+		"english_name": "Ancient\nKillers",
+		"unit_group_head_UnitGroupHead": 5,
+		"group_refer_id": 4,
+		"priority": 4,
+		"file_name": "slc_Affiliation_Ancient.png"
+	},
+	{
+		"ID": 11,
+		"english_name": "Command\nKillers",
+		"unit_group_head_UnitGroupHead": 3,
+		"group_refer_id": 16,
+		"priority": 2,
+		"file_name": "slc_Affiliation_Command.png"
+	},
+	{
+		"ID": 12,
+		"english_name": "Integral\nKillers",
+		"unit_group_head_UnitGroupHead": 3,
+		"group_refer_id": 17,
+		"priority": 2,
+		"file_name": "slc_Affiliation_Integral.png"
+	},
+	{
+		"ID": 13,
+		"english_name": "Heaven",
+		"unit_group_head_UnitGroupHead": 2,
+		"group_refer_id": 6,
+		"priority": 5,
+		"file_name": "slc_Affiliation_Heaven.png"
+	},
+	{
+		"ID": 14,
+		"english_name": "Imitate\nKillers",
+		"unit_group_head_UnitGroupHead": 3,
+		"group_refer_id": 18,
+		"priority": 2,
+		"file_name": "slc_Affiliation_imitate.png"
+	}
+]

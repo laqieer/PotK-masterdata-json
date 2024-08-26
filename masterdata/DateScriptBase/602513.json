@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 602513,
+		"script": ";;中A手を繋いでみよう\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_beach_day\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 260251 \"chalice_t_0022\"\n@カリス\n手を繋いで一緒に？\nう、うん！\nやってみよう…！\n\n# face %(unit_a)s \"normal\"\n# voice 260251 \"chalice_t_0004\"\n@カリス\n…ふふっ♪\nマスターさんの手、\nおっきくて安心するなぁ…\n\n@カリス\nよーし！\nなんとなくだけど、\n行ける気がしてきたよ！\n\n# face %(unit_a)s \"angry\"\n# voice 260251 \"chalice_t_0029\"\n@カリス\nそれじゃあ、いっくよー…！\nとうっ！！\n\n@カリス\n…うひゃああああっ！？\nう、う、うう…？\n\n# face %(unit_a)s \"normal\"\n@カリス\n…や、やったっ…！\n海に入れたよ、\nマスターさんっ！\n\n# face %(unit_a)s \"smile\"\n# voice 260251 \"chalice_t_0041\"\n@カリス\nあははっ♪\nやっぱりマスターさんは\nすごいね！\n\n@カリス\n一緒にいるだけで、\nいろんなミラクルを\n起こせちゃうんだもん！\n\n# face %(unit_a)s \"usual\"\n# voice 260251 \"chalice_t_0002\"\n@カリス\nねえねえ、このまま手を\n繋いでてもいい？\n\n@カリス\nマスターさんの力を\nもっといっぱい\n分けてほしいんだ～♪\n\n# face %(unit_a)s \"smile\"\n# voice 260251 \"chalice_t_0030\"\n@カリス\nいいの？ありがと～！\nじゃあ、帰るまで\nずっとこのままね！\n\n# voice 260251 \"chalice_t_0005\"\n@カリス\n次はどんなミラクルが\n起こっちゃうのかなぁ…\n楽しみだな～♪\n\n# textflame 0 0\n@\nマスターとのこれからに\nわくわくしながら\n想いを馳せるカリス\n\n@\n二人は手を繋いだまま、\n波打ち際をゆっくりと\n歩いていく…\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

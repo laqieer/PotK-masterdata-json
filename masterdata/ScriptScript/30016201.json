@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 30016201,
+		"script": ";;今回のロンギヌスは立ち絵武器無し\n# script \"lisp\"\n# background \"town\"\n# bgm \"bgm002\" 0\n# textboxarrow 0 2\n# body 55\n# mask 55 off\n# pos 55 3\n# voice 3001 \"ronginusu_0027\"\n# face 55 \"sad\"\n# textboxarrow 0 2\n# textflame 1 1\n@ロンギヌス\n…はぁぁぁ\n\n# textflame 0 0\n@\n深いため息\n\n@\nこれまでの戦闘や日常の中で、\n少しずつ積極性を持てるように\nなっていたロンギヌス\n\n@\nしかし…\n\n# textflame 1 1\n# chara 300111\n# voice 3001 \"ronginusu_0015\"\n@ロンギヌス\nそんな…\n私なんて\nダメダメですよ…\n\n# chara 300111\n@ロンギヌス\nせっかく最近は、\nいい感じだと\n思ってたんですけど…\n\n# chara 300111\n@ロンギヌス\n今日また…\n戦いの中で\nミスっちゃいました…\n\n# chara 300111\n# voice 3001 \"ronginusu_0027\"\n@ロンギヌス\n幸い怪我人は出ませんでしたけど…\n一歩間違えば大変な事に…\nはぁぁぁ…\n\n# textflame 0 0\n@\n深いため息をつく彼女\n\n# textflame 1 1\n# chara 300111\n# voice 3001 \"ronginusu_0028\"\n@ロンギヌス\nえ？\nいや、無理ですよ\n笑顔なんて…\n\n# textflame  0 0\n@\n彼女を笑顔にしようと、\nデザートやアクセサリーを\n買って来るマスター\n\n# textflame 1 1\n# chara 300111\n@ロンギヌス\nあぁ…\n\n# chara 300111\n@ロンギヌス\nマスターに\n気を使わせてしまうなんて…\n\n# chara 300111\n@ロンギヌス\nしかも気だけじゃなく、\n貧乏なマスターに\nお金まで使わせてしまうなんて…\n\n# chara 300111\n# voice 3001 \"ronginusu_0027\"\n@ロンギヌス\nほんとに私って…\nダメダメですね…\nあぁ…反省…してきます\n\n# alpha 55 0 1\n# textflame 0 0\n@\nとぼとぼと去ってゆく彼女\n\n# textflame 1 1\n# alpha 55 1 0.5\n# chara 300111\n# face 55 \"surprise\"\n@ロンギヌス\n…え？\nなんですか…？\n\n# textflame 0 0\n@\nマスターは、彼女を笑わせるため、\n“ある方法”を実行しようと\n決意するのだった"
+	}
+]

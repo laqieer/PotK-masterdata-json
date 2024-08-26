@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 102613,
+		"script": "# script \"lisp\"\n# fadein \"black\" 0.5\n# background %(background)s\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n@カラドボルグ\n子供みたいなこと言って…\nでも…いいわね、好きよ！\n\n# textflame 0 0\n@\nカラドボルグは虹に向かって\n不意に走り出した\n\n# textflame 0 0\n@\n置いていかれないように\nマスターも彼女と\n並んで走る\n\n# voice 1026 \"caladbolg_0004\"\n# textflame 1 1\n@カラドボルグ\n…私達は知っているわ\nあの虹がすぐ消えてしまうこと\nきっと間に合わないことも\n\n# textflame 1 1\n@カラドボルグ\nでも、くぐりたいと思ったから\n思いきり追いかけて走るの！\n\n# textflame 1 1\n@カラドボルグ\nそれが、私達らしい生き方よね…！\n\n# textflame 0 0\n@\nカラドボルグの頬から弾けた汗が\n光を受けて\n虹色に輝いた気がした…\n;;--------------------------------------\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

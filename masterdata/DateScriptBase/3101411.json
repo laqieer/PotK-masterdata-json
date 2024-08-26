@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 3101411,
+		"script": ";;,C:あの魚は食べられないからね？\n;;,B:あんな風に泳いでみたい？\n;;,A:水着なら一緒に泳げたかもね\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background %(background)s\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 0 0\n# face %(unit_a)s \"usual\"\n@\nティルフィングを連れ、\n水族館にやって来たマスター\n\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@ティルフィング\nうわぁ～!!\nマスター、見てください！\nすごく大きな魚が…\n\n# textflame 0 0\n@\nティルフィングは\n目をキラキラさせて\n食い入るように水槽を見つめている\n\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n@ティルフィング\n…マスター？\nどうしたんですか？\nじっと私を見つめて…\n\n# select \"あの魚は食べられないからね？\" \"select_label_01\" \"あんな風に泳いでみたい？\" \"select_label_02\" \"水着なら一緒に泳げたかもね\" \"select_label_03\"\n…マスター？\nどうしたんですか？\nじっと私を見つめて…\n\n# label \"select_label_01\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_02\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_03\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_end\"\n# waitandnext 0.1\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

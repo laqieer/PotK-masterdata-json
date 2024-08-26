@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 501722,
+		"script": ";;B 大当たり\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_room\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# voice 5017 \"grimoire_0005\"\n# face %(unit_a)s \"smile\"\n@グリモワール\nわ～～い♪\nやったぁ～～♪\n\n;;トゲトゲ吹き出し\n# serif 1\n# textwindow \"toge\"\n# face %(unit_a)s \"angry\"\n# voice 5017 \"grimoire_0010\"\n@グリモワール\nってーーーー！\nそうじゃなーーーい！！\n\n# serif 1\n# textwindow \"close\"\n# serif 0\n# textwindow \"nomal\"\n# textflame 0 0\n@\nあれ…\nてっきりそういう感じかと…\nマスターは頭をかく\n\n# textflame 1 1\n# voice 5017 \"grimoire_0007\"\n@グリモワール\nそうじゃ、なくない…\n\n# textflame 0 0\n@\nグリモワールはちょこんと\nマスターの隣に腰掛けて\n服の袖をつまんだ\n\n# textflame 1 1\n# eye %(unit_a)s \"close\"\n@グリモワール\nマスターはワタシを\n子供扱いするのが好きみたいだし…\n\n# voice 5017 \"grimoire_0024\"\n@グリモワール\nしかたないから…\n今日は思う存分させてあげる…\n\n# face %(unit_a)s \"smile\"\n# eye %(unit_a)s \"normal\"\n# voice 5017 \"grimoire_0032\"\n@グリモワール\n今日だけは…\nワタシをクロピヨみたいにしても\n怒らないわ…！\n\n# textflame 0 0\n@\nグリモワールはそういって\n紫の鳥のぬいぐるみを\nきゅっと抱きしめてみせる\n\n@\nマスターはグリモワールごと\nクロピヨを抱きかかえるのであった…\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

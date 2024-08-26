@@ -1,0 +1,30 @@
+[
+	{
+		"ID": 1,
+		"name": "",
+		"short_label_name": "",
+		"description": "",
+		"start_at": "2014-12-01 00:00:00"
+	},
+	{
+		"ID": 2,
+		"name": "ファーストキラーズ",
+		"short_label_name": "1st",
+		"description": "第1世代のキラーズ",
+		"start_at": "2014-01-01 00:00:00"
+	},
+	{
+		"ID": 3,
+		"name": "セブンスキラーズ",
+		"short_label_name": "7th",
+		"description": "第7世代のキラーズ",
+		"start_at": "2014-06-01 00:00:00"
+	},
+	{
+		"ID": 4,
+		"name": "エンシェントキラーズ",
+		"short_label_name": "Ancient",
+		"description": "エンシェントキラーズ",
+		"start_at": "2017-04-01 00:00:00"
+	}
+]

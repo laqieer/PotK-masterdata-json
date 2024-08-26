@@ -1,0 +1,26 @@
+[
+	{
+		"ID": 169,
+		"unitID": 2600211,
+		"scriptID": "kaerimichi",
+		"script": "ねえねえマスター～\nもう少しだけ\n一緒にぼーっとしてようよ～"
+	},
+	{
+		"ID": 183,
+		"unitID": 2600211,
+		"scriptID": "kaeru",
+		"script": "ふわあ～…\n眠いね…\nそろそろ帰ろうか～"
+	},
+	{
+		"ID": 197,
+		"unitID": 2600211,
+		"scriptID": "kaeru_ok",
+		"script": "@%(unitName:unit_a)s\nうーん、ぼーっとできるところなら\nついていってもいいかな\n\n"
+	},
+	{
+		"ID": 211,
+		"unitID": 2600211,
+		"scriptID": "kaeru_ng",
+		"script": "@ガンバンテイン\n…………\n\n# textflame 0 0\n@\nどうやらガンバンテインは\n寝てしまっているようだった\n\n@\n遊び疲れてしまったのだろう\nマスターはガンバンテインを\nおんぶして送って帰ったのだった"
+	}
+]

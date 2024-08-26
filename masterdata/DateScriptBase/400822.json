@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 400822,
+		"script": ";;C 手で持つ花火も好きだよ (大)\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_fireworks\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# voice 4008 \"otyinusu_0017\"\n# eye %(unit_a)s \"close\"\n@オティヌス\n…そっか\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"smile\"\n# voice 4008 \"otyinusu_0004\"\n@オティヌス\nまあ、あたしも、\nそっちの方が好き、かな？\n\n@オティヌス\nだって、\nマスターとふたりっきりで\n楽しめるし…\n\n# face %(unit_a)s \"usual\"\n@オティヌス\n…ううん、どっちも好きかな\nだってよく考えたらどっちの花火も\nマスターと一緒だもん\n\n# textflame 0 0\n@\n暗がりの中でも、\nオティヌスの顔が\n赤く染まったのが分かった\n\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n# voice 4008 \"otyinusu_0008\"\n@オティヌス\n…えへへ、\nちょっと恥ずかしいこと\n言っちゃったかな？\n\n# voice 4008 \"otyinusu_0042\"\n@オティヌス\nでも、いいよね\n花火の音で\n聞こえなかったってことで…\n\n# textflame 0 0\n@\n夜空を飾る大輪の花を見上げながら\nオティヌスとふたり、\n身を寄せて語り合った…\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 3101303,
+		"script": "# script \"lisp\"\n# background \"plain\"\n# bgm \"bgm002\" 0\n# body 810004\n# mask 810004 off\n# pos 810004 3\n# textflame 1 1\n# textboxarrow 0 2\n@異族の大将\nいや～今回は\nこれぐらいにしといたるわ…\n\n# jump 810004\n@異族の大将\nあー痛\nあんたんとこのキル姫\nマジで来るやん〜\n\n@異族の大将\nクリア報酬の姫石の数は\nニコ生のコメント数に応じて\n変わるねんて、やから…\n\n# voice 9994 \"izokutaisho_0004\"\n# jump 810004\n@異族の大将\n12月18日（金）の\n『ファンキルニコ生』も\nみんな見てや～！！"
+	}
+]

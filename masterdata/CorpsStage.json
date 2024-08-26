@@ -1,0 +1,1732 @@
+[
+	{
+		"ID": 820001001,
+		"setting_id": 1,
+		"difficulty": 1,
+		"number": 1,
+		"name": "1-1 斥候部隊",
+		"isBoss": 0,
+		"banner_id": 1,
+		"back_ground_CorpsStageBackground": 1268
+	},
+	{
+		"ID": 820001011,
+		"setting_id": 1,
+		"difficulty": 2,
+		"number": 2,
+		"name": "2-1 左翼部隊",
+		"isBoss": 0,
+		"banner_id": 2,
+		"back_ground_CorpsStageBackground": 1021
+	},
+	{
+		"ID": 820001012,
+		"setting_id": 1,
+		"difficulty": 2,
+		"number": 3,
+		"name": "2-2 中央部隊",
+		"isBoss": 0,
+		"banner_id": 2,
+		"back_ground_CorpsStageBackground": 1021
+	},
+	{
+		"ID": 820001013,
+		"setting_id": 1,
+		"difficulty": 2,
+		"number": 4,
+		"name": "2-3 右翼部隊",
+		"isBoss": 0,
+		"banner_id": 2,
+		"back_ground_CorpsStageBackground": 1021
+	},
+	{
+		"ID": 820001021,
+		"setting_id": 1,
+		"difficulty": 3,
+		"number": 5,
+		"name": "3-1 本隊",
+		"isBoss": 0,
+		"banner_id": 2,
+		"back_ground_CorpsStageBackground": 1280
+	},
+	{
+		"ID": 820001031,
+		"setting_id": 1,
+		"difficulty": 4,
+		"number": 6,
+		"name": "4-1 終結の地",
+		"isBoss": 1,
+		"banner_id": 1,
+		"back_ground_CorpsStageBackground": 1280
+	},
+	{
+		"ID": 820002001,
+		"setting_id": 2,
+		"difficulty": 1,
+		"number": 1,
+		"name": "1 斥候部隊",
+		"isBoss": 0,
+		"banner_id": 1,
+		"back_ground_CorpsStageBackground": 1268
+	},
+	{
+		"ID": 820002011,
+		"setting_id": 2,
+		"difficulty": 2,
+		"number": 2,
+		"name": "2 左翼前衛",
+		"isBoss": 0,
+		"banner_id": 2,
+		"back_ground_CorpsStageBackground": 1268
+	},
+	{
+		"ID": 820002012,
+		"setting_id": 2,
+		"difficulty": 2,
+		"number": 3,
+		"name": "2 中央前衛",
+		"isBoss": 0,
+		"banner_id": 2,
+		"back_ground_CorpsStageBackground": 1268
+	},
+	{
+		"ID": 820002013,
+		"setting_id": 2,
+		"difficulty": 2,
+		"number": 4,
+		"name": "2 右翼前衛",
+		"isBoss": 0,
+		"banner_id": 2,
+		"back_ground_CorpsStageBackground": 1268
+	},
+	{
+		"ID": 820002021,
+		"setting_id": 2,
+		"difficulty": 3,
+		"number": 5,
+		"name": "3 左翼部隊",
+		"isBoss": 0,
+		"banner_id": 2,
+		"back_ground_CorpsStageBackground": 1002
+	},
+	{
+		"ID": 820002022,
+		"setting_id": 2,
+		"difficulty": 3,
+		"number": 6,
+		"name": "3 中央部隊",
+		"isBoss": 0,
+		"banner_id": 2,
+		"back_ground_CorpsStageBackground": 1002
+	},
+	{
+		"ID": 820002023,
+		"setting_id": 2,
+		"difficulty": 3,
+		"number": 7,
+		"name": "3 右翼部隊",
+		"isBoss": 0,
+		"banner_id": 2,
+		"back_ground_CorpsStageBackground": 1002
+	},
+	{
+		"ID": 820002031,
+		"setting_id": 2,
+		"difficulty": 3,
+		"number": 8,
+		"name": "4 本隊",
+		"isBoss": 0,
+		"banner_id": 2,
+		"back_ground_CorpsStageBackground": 1003
+	},
+	{
+		"ID": 820002041,
+		"setting_id": 2,
+		"difficulty": 4,
+		"number": 9,
+		"name": "5 終結の地",
+		"isBoss": 1,
+		"banner_id": 1,
+		"back_ground_CorpsStageBackground": 1280
+	},
+	{
+		"ID": 820003001,
+		"setting_id": 3,
+		"difficulty": 1,
+		"number": 1,
+		"name": "1 斥候部隊",
+		"isBoss": 0,
+		"banner_id": 1,
+		"back_ground_CorpsStageBackground": 1268
+	},
+	{
+		"ID": 820003011,
+		"setting_id": 3,
+		"difficulty": 2,
+		"number": 2,
+		"name": "2 左翼前衛",
+		"isBoss": 0,
+		"banner_id": 2,
+		"back_ground_CorpsStageBackground": 1268
+	},
+	{
+		"ID": 820003012,
+		"setting_id": 3,
+		"difficulty": 2,
+		"number": 3,
+		"name": "2 中央前衛",
+		"isBoss": 0,
+		"banner_id": 2,
+		"back_ground_CorpsStageBackground": 1268
+	},
+	{
+		"ID": 820003013,
+		"setting_id": 3,
+		"difficulty": 2,
+		"number": 4,
+		"name": "2 右翼前衛",
+		"isBoss": 0,
+		"banner_id": 2,
+		"back_ground_CorpsStageBackground": 1268
+	},
+	{
+		"ID": 820003021,
+		"setting_id": 3,
+		"difficulty": 3,
+		"number": 5,
+		"name": "3 左翼部隊",
+		"isBoss": 0,
+		"banner_id": 2,
+		"back_ground_CorpsStageBackground": 1014
+	},
+	{
+		"ID": 820003022,
+		"setting_id": 3,
+		"difficulty": 3,
+		"number": 6,
+		"name": "3 中央部隊",
+		"isBoss": 0,
+		"banner_id": 2,
+		"back_ground_CorpsStageBackground": 1014
+	},
+	{
+		"ID": 820003023,
+		"setting_id": 3,
+		"difficulty": 3,
+		"number": 7,
+		"name": "3 右翼部隊",
+		"isBoss": 0,
+		"banner_id": 2,
+		"back_ground_CorpsStageBackground": 1014
+	},
+	{
+		"ID": 820003031,
+		"setting_id": 3,
+		"difficulty": 3,
+		"number": 8,
+		"name": "4 本隊",
+		"isBoss": 0,
+		"banner_id": 2,
+		"back_ground_CorpsStageBackground": 1001
+	},
+	{
+		"ID": 820003041,
+		"setting_id": 3,
+		"difficulty": 4,
+		"number": 9,
+		"name": "5 終結の地",
+		"isBoss": 1,
+		"banner_id": 1,
+		"back_ground_CorpsStageBackground": 1002
+	},
+	{
+		"ID": 820004001,
+		"setting_id": 4,
+		"difficulty": 1,
+		"number": 1,
+		"name": "1 斥候部隊",
+		"isBoss": 0,
+		"banner_id": 1,
+		"back_ground_CorpsStageBackground": 1268
+	},
+	{
+		"ID": 820004011,
+		"setting_id": 4,
+		"difficulty": 2,
+		"number": 2,
+		"name": "2 左翼前衛",
+		"isBoss": 0,
+		"banner_id": 2,
+		"back_ground_CorpsStageBackground": 1268
+	},
+	{
+		"ID": 820004012,
+		"setting_id": 4,
+		"difficulty": 2,
+		"number": 3,
+		"name": "2 中央前衛",
+		"isBoss": 0,
+		"banner_id": 2,
+		"back_ground_CorpsStageBackground": 1268
+	},
+	{
+		"ID": 820004013,
+		"setting_id": 4,
+		"difficulty": 2,
+		"number": 4,
+		"name": "2 右翼前衛",
+		"isBoss": 0,
+		"banner_id": 2,
+		"back_ground_CorpsStageBackground": 1268
+	},
+	{
+		"ID": 820004021,
+		"setting_id": 4,
+		"difficulty": 3,
+		"number": 5,
+		"name": "3 左翼部隊",
+		"isBoss": 0,
+		"banner_id": 2,
+		"back_ground_CorpsStageBackground": 1014
+	},
+	{
+		"ID": 820004022,
+		"setting_id": 4,
+		"difficulty": 3,
+		"number": 6,
+		"name": "3 中央部隊",
+		"isBoss": 0,
+		"banner_id": 2,
+		"back_ground_CorpsStageBackground": 1014
+	},
+	{
+		"ID": 820004023,
+		"setting_id": 4,
+		"difficulty": 3,
+		"number": 7,
+		"name": "3 右翼部隊",
+		"isBoss": 0,
+		"banner_id": 2,
+		"back_ground_CorpsStageBackground": 1014
+	},
+	{
+		"ID": 820004031,
+		"setting_id": 4,
+		"difficulty": 3,
+		"number": 8,
+		"name": "4 本隊",
+		"isBoss": 0,
+		"banner_id": 2,
+		"back_ground_CorpsStageBackground": 1004
+	},
+	{
+		"ID": 820004041,
+		"setting_id": 4,
+		"difficulty": 4,
+		"number": 9,
+		"name": "5 終結の地",
+		"isBoss": 1,
+		"banner_id": 1,
+		"back_ground_CorpsStageBackground": 1005
+	},
+	{
+		"ID": 820005001,
+		"setting_id": 5,
+		"difficulty": 1,
+		"number": 1,
+		"name": "1 斥候部隊",
+		"isBoss": 0,
+		"banner_id": 1,
+		"back_ground_CorpsStageBackground": 1268
+	},
+	{
+		"ID": 820005011,
+		"setting_id": 5,
+		"difficulty": 2,
+		"number": 2,
+		"name": "2 左翼前衛",
+		"isBoss": 0,
+		"banner_id": 2,
+		"back_ground_CorpsStageBackground": 1002
+	},
+	{
+		"ID": 820005012,
+		"setting_id": 5,
+		"difficulty": 2,
+		"number": 3,
+		"name": "2 中央前衛",
+		"isBoss": 0,
+		"banner_id": 2,
+		"back_ground_CorpsStageBackground": 1002
+	},
+	{
+		"ID": 820005013,
+		"setting_id": 5,
+		"difficulty": 2,
+		"number": 4,
+		"name": "2 右翼前衛",
+		"isBoss": 0,
+		"banner_id": 2,
+		"back_ground_CorpsStageBackground": 1002
+	},
+	{
+		"ID": 820005021,
+		"setting_id": 5,
+		"difficulty": 3,
+		"number": 5,
+		"name": "3 左翼部隊",
+		"isBoss": 0,
+		"banner_id": 2,
+		"back_ground_CorpsStageBackground": 1021
+	},
+	{
+		"ID": 820005022,
+		"setting_id": 5,
+		"difficulty": 3,
+		"number": 6,
+		"name": "3 中央部隊",
+		"isBoss": 0,
+		"banner_id": 2,
+		"back_ground_CorpsStageBackground": 1021
+	},
+	{
+		"ID": 820005023,
+		"setting_id": 5,
+		"difficulty": 3,
+		"number": 7,
+		"name": "3 右翼部隊",
+		"isBoss": 0,
+		"banner_id": 2,
+		"back_ground_CorpsStageBackground": 1021
+	},
+	{
+		"ID": 820005031,
+		"setting_id": 5,
+		"difficulty": 3,
+		"number": 8,
+		"name": "4 本隊",
+		"isBoss": 0,
+		"banner_id": 2,
+		"back_ground_CorpsStageBackground": 1280
+	},
+	{
+		"ID": 820005041,
+		"setting_id": 5,
+		"difficulty": 4,
+		"number": 9,
+		"name": "5 終結の地",
+		"isBoss": 1,
+		"banner_id": 1,
+		"back_ground_CorpsStageBackground": 1280
+	},
+	{
+		"ID": 820006001,
+		"setting_id": 6,
+		"difficulty": 1,
+		"number": 1,
+		"name": "紅の壱",
+		"isBoss": 0,
+		"banner_id": 1,
+		"back_ground_CorpsStageBackground": 1266
+	},
+	{
+		"ID": 820006002,
+		"setting_id": 6,
+		"difficulty": 1,
+		"number": 2,
+		"name": "蒼の壱",
+		"isBoss": 0,
+		"banner_id": 1,
+		"back_ground_CorpsStageBackground": 1266
+	},
+	{
+		"ID": 820006003,
+		"setting_id": 6,
+		"difficulty": 1,
+		"number": 3,
+		"name": "橙の壱",
+		"isBoss": 0,
+		"banner_id": 1,
+		"back_ground_CorpsStageBackground": 1266
+	},
+	{
+		"ID": 820006004,
+		"setting_id": 6,
+		"difficulty": 1,
+		"number": 4,
+		"name": "翠の壱",
+		"isBoss": 0,
+		"banner_id": 1,
+		"back_ground_CorpsStageBackground": 1266
+	},
+	{
+		"ID": 820006005,
+		"setting_id": 6,
+		"difficulty": 1,
+		"number": 5,
+		"name": "天の壱",
+		"isBoss": 0,
+		"banner_id": 1,
+		"back_ground_CorpsStageBackground": 1266
+	},
+	{
+		"ID": 820006006,
+		"setting_id": 6,
+		"difficulty": 1,
+		"number": 6,
+		"name": "冥の壱",
+		"isBoss": 0,
+		"banner_id": 1,
+		"back_ground_CorpsStageBackground": 1266
+	},
+	{
+		"ID": 820006007,
+		"setting_id": 6,
+		"difficulty": 1,
+		"number": 7,
+		"name": "紅の弐",
+		"isBoss": 0,
+		"banner_id": 2,
+		"back_ground_CorpsStageBackground": 1266
+	},
+	{
+		"ID": 820006008,
+		"setting_id": 6,
+		"difficulty": 1,
+		"number": 8,
+		"name": "蒼の弐",
+		"isBoss": 0,
+		"banner_id": 2,
+		"back_ground_CorpsStageBackground": 1266
+	},
+	{
+		"ID": 820006009,
+		"setting_id": 6,
+		"difficulty": 1,
+		"number": 9,
+		"name": "橙の弐",
+		"isBoss": 0,
+		"banner_id": 2,
+		"back_ground_CorpsStageBackground": 1266
+	},
+	{
+		"ID": 820006010,
+		"setting_id": 6,
+		"difficulty": 1,
+		"number": 10,
+		"name": "翠の弐",
+		"isBoss": 0,
+		"banner_id": 2,
+		"back_ground_CorpsStageBackground": 1266
+	},
+	{
+		"ID": 820006011,
+		"setting_id": 6,
+		"difficulty": 1,
+		"number": 11,
+		"name": "天の弐",
+		"isBoss": 0,
+		"banner_id": 2,
+		"back_ground_CorpsStageBackground": 1266
+	},
+	{
+		"ID": 820006012,
+		"setting_id": 6,
+		"difficulty": 1,
+		"number": 12,
+		"name": "冥の弐",
+		"isBoss": 0,
+		"banner_id": 2,
+		"back_ground_CorpsStageBackground": 1266
+	},
+	{
+		"ID": 820006013,
+		"setting_id": 6,
+		"difficulty": 1,
+		"number": 13,
+		"name": "紅の参",
+		"isBoss": 0,
+		"banner_id": 2,
+		"back_ground_CorpsStageBackground": 1266
+	},
+	{
+		"ID": 820006014,
+		"setting_id": 6,
+		"difficulty": 1,
+		"number": 14,
+		"name": "蒼の参",
+		"isBoss": 0,
+		"banner_id": 2,
+		"back_ground_CorpsStageBackground": 1266
+	},
+	{
+		"ID": 820006015,
+		"setting_id": 6,
+		"difficulty": 1,
+		"number": 15,
+		"name": "橙の参",
+		"isBoss": 0,
+		"banner_id": 2,
+		"back_ground_CorpsStageBackground": 1266
+	},
+	{
+		"ID": 820006016,
+		"setting_id": 6,
+		"difficulty": 1,
+		"number": 16,
+		"name": "翠の参",
+		"isBoss": 0,
+		"banner_id": 2,
+		"back_ground_CorpsStageBackground": 1266
+	},
+	{
+		"ID": 820006017,
+		"setting_id": 6,
+		"difficulty": 1,
+		"number": 17,
+		"name": "天の参",
+		"isBoss": 0,
+		"banner_id": 2,
+		"back_ground_CorpsStageBackground": 1266
+	},
+	{
+		"ID": 820006018,
+		"setting_id": 6,
+		"difficulty": 1,
+		"number": 18,
+		"name": "冥の参",
+		"isBoss": 0,
+		"banner_id": 2,
+		"back_ground_CorpsStageBackground": 1266
+	},
+	{
+		"ID": 820006019,
+		"setting_id": 6,
+		"difficulty": 1,
+		"number": 19,
+		"name": "紅の肆",
+		"isBoss": 0,
+		"banner_id": 2,
+		"back_ground_CorpsStageBackground": 1266
+	},
+	{
+		"ID": 820006020,
+		"setting_id": 6,
+		"difficulty": 1,
+		"number": 20,
+		"name": "蒼の肆",
+		"isBoss": 0,
+		"banner_id": 2,
+		"back_ground_CorpsStageBackground": 1266
+	},
+	{
+		"ID": 820006021,
+		"setting_id": 6,
+		"difficulty": 1,
+		"number": 21,
+		"name": "橙の肆",
+		"isBoss": 0,
+		"banner_id": 2,
+		"back_ground_CorpsStageBackground": 1266
+	},
+	{
+		"ID": 820006022,
+		"setting_id": 6,
+		"difficulty": 1,
+		"number": 22,
+		"name": "翠の肆",
+		"isBoss": 0,
+		"banner_id": 2,
+		"back_ground_CorpsStageBackground": 1266
+	},
+	{
+		"ID": 820006023,
+		"setting_id": 6,
+		"difficulty": 1,
+		"number": 23,
+		"name": "天の肆",
+		"isBoss": 0,
+		"banner_id": 2,
+		"back_ground_CorpsStageBackground": 1266
+	},
+	{
+		"ID": 820006024,
+		"setting_id": 6,
+		"difficulty": 1,
+		"number": 24,
+		"name": "冥の肆",
+		"isBoss": 0,
+		"banner_id": 2,
+		"back_ground_CorpsStageBackground": 1266
+	},
+	{
+		"ID": 820006025,
+		"setting_id": 6,
+		"difficulty": 1,
+		"number": 25,
+		"name": "深奥",
+		"isBoss": 1,
+		"banner_id": 1,
+		"back_ground_CorpsStageBackground": 1266
+	},
+	{
+		"ID": 820007001,
+		"setting_id": 7,
+		"difficulty": 1,
+		"number": 1,
+		"name": "1 斥候部隊",
+		"isBoss": 0,
+		"banner_id": 1,
+		"back_ground_CorpsStageBackground": 1265
+	},
+	{
+		"ID": 820007011,
+		"setting_id": 7,
+		"difficulty": 2,
+		"number": 2,
+		"name": "2 左翼前衛",
+		"isBoss": 0,
+		"banner_id": 2,
+		"back_ground_CorpsStageBackground": 1268
+	},
+	{
+		"ID": 820007012,
+		"setting_id": 7,
+		"difficulty": 2,
+		"number": 3,
+		"name": "2 中央前衛",
+		"isBoss": 0,
+		"banner_id": 2,
+		"back_ground_CorpsStageBackground": 1269
+	},
+	{
+		"ID": 820007013,
+		"setting_id": 7,
+		"difficulty": 2,
+		"number": 4,
+		"name": "2 右翼前衛",
+		"isBoss": 0,
+		"banner_id": 2,
+		"back_ground_CorpsStageBackground": 1280
+	},
+	{
+		"ID": 820007021,
+		"setting_id": 7,
+		"difficulty": 3,
+		"number": 5,
+		"name": "3 左翼部隊",
+		"isBoss": 0,
+		"banner_id": 2,
+		"back_ground_CorpsStageBackground": 1280
+	},
+	{
+		"ID": 820007022,
+		"setting_id": 7,
+		"difficulty": 3,
+		"number": 6,
+		"name": "3 中央部隊",
+		"isBoss": 0,
+		"banner_id": 2,
+		"back_ground_CorpsStageBackground": 1268
+	},
+	{
+		"ID": 820007023,
+		"setting_id": 7,
+		"difficulty": 3,
+		"number": 7,
+		"name": "3 右翼部隊",
+		"isBoss": 0,
+		"banner_id": 2,
+		"back_ground_CorpsStageBackground": 1269
+	},
+	{
+		"ID": 820007031,
+		"setting_id": 7,
+		"difficulty": 3,
+		"number": 8,
+		"name": "4 本隊",
+		"isBoss": 0,
+		"banner_id": 2,
+		"back_ground_CorpsStageBackground": 1265
+	},
+	{
+		"ID": 820007041,
+		"setting_id": 7,
+		"difficulty": 4,
+		"number": 9,
+		"name": "5 終結の地",
+		"isBoss": 1,
+		"banner_id": 1,
+		"back_ground_CorpsStageBackground": 1289
+	},
+	{
+		"ID": 820008001,
+		"setting_id": 8,
+		"difficulty": 1,
+		"number": 1,
+		"name": "1 斥候部隊",
+		"isBoss": 0,
+		"banner_id": 1,
+		"back_ground_CorpsStageBackground": 1268
+	},
+	{
+		"ID": 820008011,
+		"setting_id": 8,
+		"difficulty": 2,
+		"number": 2,
+		"name": "2 左翼前衛",
+		"isBoss": 0,
+		"banner_id": 2,
+		"back_ground_CorpsStageBackground": 1280
+	},
+	{
+		"ID": 820008012,
+		"setting_id": 8,
+		"difficulty": 2,
+		"number": 3,
+		"name": "2 中央前衛",
+		"isBoss": 0,
+		"banner_id": 2,
+		"back_ground_CorpsStageBackground": 41
+	},
+	{
+		"ID": 820008013,
+		"setting_id": 8,
+		"difficulty": 2,
+		"number": 4,
+		"name": "2 右翼前衛",
+		"isBoss": 0,
+		"banner_id": 2,
+		"back_ground_CorpsStageBackground": 41
+	},
+	{
+		"ID": 820008021,
+		"setting_id": 8,
+		"difficulty": 3,
+		"number": 5,
+		"name": "3 左翼部隊",
+		"isBoss": 0,
+		"banner_id": 2,
+		"back_ground_CorpsStageBackground": 41
+	},
+	{
+		"ID": 820008022,
+		"setting_id": 8,
+		"difficulty": 3,
+		"number": 6,
+		"name": "3 中央部隊",
+		"isBoss": 0,
+		"banner_id": 2,
+		"back_ground_CorpsStageBackground": 41
+	},
+	{
+		"ID": 820008023,
+		"setting_id": 8,
+		"difficulty": 3,
+		"number": 7,
+		"name": "3 右翼部隊",
+		"isBoss": 0,
+		"banner_id": 2,
+		"back_ground_CorpsStageBackground": 41
+	},
+	{
+		"ID": 820008031,
+		"setting_id": 8,
+		"difficulty": 3,
+		"number": 8,
+		"name": "4 本隊",
+		"isBoss": 0,
+		"banner_id": 2,
+		"back_ground_CorpsStageBackground": 1003
+	},
+	{
+		"ID": 820008041,
+		"setting_id": 8,
+		"difficulty": 4,
+		"number": 9,
+		"name": "5 終結の地",
+		"isBoss": 1,
+		"banner_id": 1,
+		"back_ground_CorpsStageBackground": 1004
+	},
+	{
+		"ID": 820009001,
+		"setting_id": 9,
+		"difficulty": 1,
+		"number": 1,
+		"name": "1 斥候部隊",
+		"isBoss": 0,
+		"banner_id": 1,
+		"back_ground_CorpsStageBackground": 1005
+	},
+	{
+		"ID": 820009011,
+		"setting_id": 9,
+		"difficulty": 2,
+		"number": 2,
+		"name": "2 左翼前衛",
+		"isBoss": 0,
+		"banner_id": 2,
+		"back_ground_CorpsStageBackground": 1005
+	},
+	{
+		"ID": 820009012,
+		"setting_id": 9,
+		"difficulty": 2,
+		"number": 3,
+		"name": "2 中央前衛",
+		"isBoss": 0,
+		"banner_id": 2,
+		"back_ground_CorpsStageBackground": 1011
+	},
+	{
+		"ID": 820009013,
+		"setting_id": 9,
+		"difficulty": 2,
+		"number": 4,
+		"name": "2 右翼前衛",
+		"isBoss": 0,
+		"banner_id": 2,
+		"back_ground_CorpsStageBackground": 1014
+	},
+	{
+		"ID": 820009021,
+		"setting_id": 9,
+		"difficulty": 3,
+		"number": 5,
+		"name": "3 左翼部隊",
+		"isBoss": 0,
+		"banner_id": 2,
+		"back_ground_CorpsStageBackground": 1002
+	},
+	{
+		"ID": 820009022,
+		"setting_id": 9,
+		"difficulty": 3,
+		"number": 6,
+		"name": "3 中央部隊",
+		"isBoss": 0,
+		"banner_id": 2,
+		"back_ground_CorpsStageBackground": 1014
+	},
+	{
+		"ID": 820009023,
+		"setting_id": 9,
+		"difficulty": 3,
+		"number": 7,
+		"name": "3 右翼部隊",
+		"isBoss": 0,
+		"banner_id": 2,
+		"back_ground_CorpsStageBackground": 1002
+	},
+	{
+		"ID": 820009031,
+		"setting_id": 9,
+		"difficulty": 3,
+		"number": 8,
+		"name": "4 本隊",
+		"isBoss": 0,
+		"banner_id": 2,
+		"back_ground_CorpsStageBackground": 1005
+	},
+	{
+		"ID": 820009041,
+		"setting_id": 9,
+		"difficulty": 4,
+		"number": 9,
+		"name": "5 終結の地",
+		"isBoss": 1,
+		"banner_id": 1,
+		"back_ground_CorpsStageBackground": 1001
+	},
+	{
+		"ID": 820010001,
+		"setting_id": 10,
+		"difficulty": 1,
+		"number": 1,
+		"name": "1.光の間壱",
+		"isBoss": 0,
+		"banner_id": 1,
+		"back_ground_CorpsStageBackground": 1265
+	},
+	{
+		"ID": 820010002,
+		"setting_id": 10,
+		"difficulty": 1,
+		"number": 2,
+		"name": "2.光の間弐",
+		"isBoss": 0,
+		"banner_id": 1,
+		"back_ground_CorpsStageBackground": 1265
+	},
+	{
+		"ID": 820010003,
+		"setting_id": 10,
+		"difficulty": 1,
+		"number": 3,
+		"name": "3.氷の間壱",
+		"isBoss": 0,
+		"banner_id": 1,
+		"back_ground_CorpsStageBackground": 1265
+	},
+	{
+		"ID": 820010004,
+		"setting_id": 10,
+		"difficulty": 1,
+		"number": 4,
+		"name": "4.氷の間弐",
+		"isBoss": 0,
+		"banner_id": 1,
+		"back_ground_CorpsStageBackground": 1265
+	},
+	{
+		"ID": 820010005,
+		"setting_id": 10,
+		"difficulty": 1,
+		"number": 5,
+		"name": "5.雷の間壱",
+		"isBoss": 0,
+		"banner_id": 2,
+		"back_ground_CorpsStageBackground": 1265
+	},
+	{
+		"ID": 820010006,
+		"setting_id": 10,
+		"difficulty": 1,
+		"number": 6,
+		"name": "6.雷の間弐",
+		"isBoss": 0,
+		"banner_id": 2,
+		"back_ground_CorpsStageBackground": 1265
+	},
+	{
+		"ID": 820010007,
+		"setting_id": 10,
+		"difficulty": 1,
+		"number": 7,
+		"name": "7.風の間壱",
+		"isBoss": 0,
+		"banner_id": 2,
+		"back_ground_CorpsStageBackground": 1265
+	},
+	{
+		"ID": 820010008,
+		"setting_id": 10,
+		"difficulty": 1,
+		"number": 8,
+		"name": "8.風の間弐",
+		"isBoss": 0,
+		"banner_id": 2,
+		"back_ground_CorpsStageBackground": 1265
+	},
+	{
+		"ID": 820010009,
+		"setting_id": 10,
+		"difficulty": 1,
+		"number": 9,
+		"name": "9.祝福の地",
+		"isBoss": 1,
+		"banner_id": 1,
+		"back_ground_CorpsStageBackground": 1265
+	},
+	{
+		"ID": 820011001,
+		"setting_id": 11,
+		"difficulty": 1,
+		"number": 1,
+		"name": "1 斥候部隊",
+		"isBoss": 0,
+		"banner_id": 1,
+		"back_ground_CorpsStageBackground": 1033
+	},
+	{
+		"ID": 820011002,
+		"setting_id": 11,
+		"difficulty": 1,
+		"number": 2,
+		"name": "2 左翼前衛",
+		"isBoss": 0,
+		"banner_id": 2,
+		"back_ground_CorpsStageBackground": 1033
+	},
+	{
+		"ID": 820011003,
+		"setting_id": 11,
+		"difficulty": 1,
+		"number": 3,
+		"name": "2 中央前衛",
+		"isBoss": 0,
+		"banner_id": 2,
+		"back_ground_CorpsStageBackground": 1033
+	},
+	{
+		"ID": 820011004,
+		"setting_id": 11,
+		"difficulty": 1,
+		"number": 4,
+		"name": "2 右翼前衛",
+		"isBoss": 0,
+		"banner_id": 2,
+		"back_ground_CorpsStageBackground": 1033
+	},
+	{
+		"ID": 820011005,
+		"setting_id": 11,
+		"difficulty": 1,
+		"number": 5,
+		"name": "3 左翼部隊",
+		"isBoss": 0,
+		"banner_id": 2,
+		"back_ground_CorpsStageBackground": 1033
+	},
+	{
+		"ID": 820011006,
+		"setting_id": 11,
+		"difficulty": 1,
+		"number": 6,
+		"name": "3 中央部隊",
+		"isBoss": 0,
+		"banner_id": 2,
+		"back_ground_CorpsStageBackground": 1014
+	},
+	{
+		"ID": 820011007,
+		"setting_id": 11,
+		"difficulty": 1,
+		"number": 7,
+		"name": "3 右翼部隊",
+		"isBoss": 0,
+		"banner_id": 2,
+		"back_ground_CorpsStageBackground": 1033
+	},
+	{
+		"ID": 820011008,
+		"setting_id": 11,
+		"difficulty": 1,
+		"number": 8,
+		"name": "4 本隊",
+		"isBoss": 0,
+		"banner_id": 2,
+		"back_ground_CorpsStageBackground": 1033
+	},
+	{
+		"ID": 820011009,
+		"setting_id": 11,
+		"difficulty": 1,
+		"number": 9,
+		"name": "5 終結の地",
+		"isBoss": 1,
+		"banner_id": 1,
+		"back_ground_CorpsStageBackground": 1033
+	},
+	{
+		"ID": 820012001,
+		"setting_id": 12,
+		"difficulty": 1,
+		"number": 1,
+		"name": "1 斥候部隊",
+		"isBoss": 0,
+		"banner_id": 1,
+		"back_ground_CorpsStageBackground": 1013
+	},
+	{
+		"ID": 820012011,
+		"setting_id": 12,
+		"difficulty": 1,
+		"number": 2,
+		"name": "2 左翼前衛",
+		"isBoss": 0,
+		"banner_id": 2,
+		"back_ground_CorpsStageBackground": 7
+	},
+	{
+		"ID": 820012012,
+		"setting_id": 12,
+		"difficulty": 1,
+		"number": 3,
+		"name": "2 中央前衛",
+		"isBoss": 0,
+		"banner_id": 2,
+		"back_ground_CorpsStageBackground": 7
+	},
+	{
+		"ID": 820012013,
+		"setting_id": 12,
+		"difficulty": 1,
+		"number": 4,
+		"name": "2 右翼前衛",
+		"isBoss": 0,
+		"banner_id": 2,
+		"back_ground_CorpsStageBackground": 7
+	},
+	{
+		"ID": 820012021,
+		"setting_id": 12,
+		"difficulty": 1,
+		"number": 5,
+		"name": "3 左翼部隊",
+		"isBoss": 0,
+		"banner_id": 2,
+		"back_ground_CorpsStageBackground": 1013
+	},
+	{
+		"ID": 820012022,
+		"setting_id": 12,
+		"difficulty": 1,
+		"number": 6,
+		"name": "3 中央部隊",
+		"isBoss": 0,
+		"banner_id": 2,
+		"back_ground_CorpsStageBackground": 1013
+	},
+	{
+		"ID": 820012023,
+		"setting_id": 12,
+		"difficulty": 1,
+		"number": 7,
+		"name": "3 右翼部隊",
+		"isBoss": 0,
+		"banner_id": 2,
+		"back_ground_CorpsStageBackground": 1013
+	},
+	{
+		"ID": 820012031,
+		"setting_id": 12,
+		"difficulty": 1,
+		"number": 8,
+		"name": "4 本隊",
+		"isBoss": 0,
+		"banner_id": 2,
+		"back_ground_CorpsStageBackground": 7
+	},
+	{
+		"ID": 820012041,
+		"setting_id": 12,
+		"difficulty": 1,
+		"number": 9,
+		"name": "5 終結の地",
+		"isBoss": 1,
+		"banner_id": 1,
+		"back_ground_CorpsStageBackground": 1013
+	},
+	{
+		"ID": 820013001,
+		"setting_id": 13,
+		"difficulty": 1,
+		"number": 1,
+		"name": "1 斥候部隊",
+		"isBoss": 0,
+		"banner_id": 1,
+		"back_ground_CorpsStageBackground": 1023
+	},
+	{
+		"ID": 820013011,
+		"setting_id": 13,
+		"difficulty": 1,
+		"number": 2,
+		"name": "2 左翼前衛",
+		"isBoss": 0,
+		"banner_id": 2,
+		"back_ground_CorpsStageBackground": 1003
+	},
+	{
+		"ID": 820013012,
+		"setting_id": 13,
+		"difficulty": 1,
+		"number": 3,
+		"name": "2 中央前衛",
+		"isBoss": 0,
+		"banner_id": 2,
+		"back_ground_CorpsStageBackground": 1004
+	},
+	{
+		"ID": 820013013,
+		"setting_id": 13,
+		"difficulty": 1,
+		"number": 4,
+		"name": "2 右翼前衛",
+		"isBoss": 0,
+		"banner_id": 2,
+		"back_ground_CorpsStageBackground": 1013
+	},
+	{
+		"ID": 820013021,
+		"setting_id": 13,
+		"difficulty": 1,
+		"number": 5,
+		"name": "3 左翼部隊",
+		"isBoss": 0,
+		"banner_id": 2,
+		"back_ground_CorpsStageBackground": 1003
+	},
+	{
+		"ID": 820013022,
+		"setting_id": 13,
+		"difficulty": 1,
+		"number": 6,
+		"name": "3 中央部隊",
+		"isBoss": 0,
+		"banner_id": 2,
+		"back_ground_CorpsStageBackground": 1004
+	},
+	{
+		"ID": 820013023,
+		"setting_id": 13,
+		"difficulty": 1,
+		"number": 7,
+		"name": "3 右翼部隊",
+		"isBoss": 0,
+		"banner_id": 2,
+		"back_ground_CorpsStageBackground": 1013
+	},
+	{
+		"ID": 820013031,
+		"setting_id": 13,
+		"difficulty": 1,
+		"number": 8,
+		"name": "4 本隊",
+		"isBoss": 0,
+		"banner_id": 2,
+		"back_ground_CorpsStageBackground": 1014
+	},
+	{
+		"ID": 820013041,
+		"setting_id": 13,
+		"difficulty": 1,
+		"number": 9,
+		"name": "5 終結の地",
+		"isBoss": 1,
+		"banner_id": 1,
+		"back_ground_CorpsStageBackground": 7
+	},
+	{
+		"ID": 820014001,
+		"setting_id": 14,
+		"difficulty": 1,
+		"number": 1,
+		"name": "1 村近隣",
+		"isBoss": 0,
+		"banner_id": 1,
+		"back_ground_CorpsStageBackground": 1004
+	},
+	{
+		"ID": 820014011,
+		"setting_id": 14,
+		"difficulty": 1,
+		"number": 2,
+		"name": "2 村の西側",
+		"isBoss": 0,
+		"banner_id": 2,
+		"back_ground_CorpsStageBackground": 1014
+	},
+	{
+		"ID": 820014012,
+		"setting_id": 14,
+		"difficulty": 1,
+		"number": 3,
+		"name": "2 村の南側",
+		"isBoss": 0,
+		"banner_id": 2,
+		"back_ground_CorpsStageBackground": 1023
+	},
+	{
+		"ID": 820014013,
+		"setting_id": 14,
+		"difficulty": 1,
+		"number": 4,
+		"name": "2 村の東側",
+		"isBoss": 0,
+		"banner_id": 2,
+		"back_ground_CorpsStageBackground": 1033
+	},
+	{
+		"ID": 820014021,
+		"setting_id": 14,
+		"difficulty": 1,
+		"number": 5,
+		"name": "3 村の西側奥",
+		"isBoss": 0,
+		"banner_id": 2,
+		"back_ground_CorpsStageBackground": 1014
+	},
+	{
+		"ID": 820014022,
+		"setting_id": 14,
+		"difficulty": 1,
+		"number": 6,
+		"name": "3 村の南側奥",
+		"isBoss": 0,
+		"banner_id": 2,
+		"back_ground_CorpsStageBackground": 1023
+	},
+	{
+		"ID": 820014023,
+		"setting_id": 14,
+		"difficulty": 1,
+		"number": 7,
+		"name": "3 村の東側奥",
+		"isBoss": 0,
+		"banner_id": 2,
+		"back_ground_CorpsStageBackground": 1033
+	},
+	{
+		"ID": 820014031,
+		"setting_id": 14,
+		"difficulty": 1,
+		"number": 8,
+		"name": "4 深い森",
+		"isBoss": 0,
+		"banner_id": 2,
+		"back_ground_CorpsStageBackground": 1014
+	},
+	{
+		"ID": 820014041,
+		"setting_id": 14,
+		"difficulty": 1,
+		"number": 9,
+		"name": "5 森を抜けた先",
+		"isBoss": 1,
+		"banner_id": 1,
+		"back_ground_CorpsStageBackground": 1021
+	},
+	{
+		"ID": 820015011,
+		"setting_id": 15,
+		"difficulty": 1,
+		"number": 1,
+		"name": "炎の試練 壱",
+		"isBoss": 0,
+		"banner_id": 1,
+		"back_ground_CorpsStageBackground": 1015
+	},
+	{
+		"ID": 820015012,
+		"setting_id": 15,
+		"difficulty": 1,
+		"number": 2,
+		"name": "雷の試練 壱",
+		"isBoss": 0,
+		"banner_id": 1,
+		"back_ground_CorpsStageBackground": 1015
+	},
+	{
+		"ID": 820015013,
+		"setting_id": 15,
+		"difficulty": 1,
+		"number": 3,
+		"name": "闇の試練 壱",
+		"isBoss": 0,
+		"banner_id": 1,
+		"back_ground_CorpsStageBackground": 1015
+	},
+	{
+		"ID": 820015021,
+		"setting_id": 15,
+		"difficulty": 1,
+		"number": 4,
+		"name": "炎の試練 弐",
+		"isBoss": 0,
+		"banner_id": 2,
+		"back_ground_CorpsStageBackground": 1023
+	},
+	{
+		"ID": 820015022,
+		"setting_id": 15,
+		"difficulty": 1,
+		"number": 5,
+		"name": "雷の試練 弐",
+		"isBoss": 0,
+		"banner_id": 2,
+		"back_ground_CorpsStageBackground": 1013
+	},
+	{
+		"ID": 820015023,
+		"setting_id": 15,
+		"difficulty": 1,
+		"number": 6,
+		"name": "闇の試練 弐",
+		"isBoss": 0,
+		"banner_id": 2,
+		"back_ground_CorpsStageBackground": 1033
+	},
+	{
+		"ID": 820015031,
+		"setting_id": 15,
+		"difficulty": 1,
+		"number": 7,
+		"name": "最終試練",
+		"isBoss": 1,
+		"banner_id": 1,
+		"back_ground_CorpsStageBackground": 1033
+	},
+	{
+		"ID": 820016001,
+		"setting_id": 16,
+		"difficulty": 1,
+		"number": 1,
+		"name": "1 斥候部隊",
+		"isBoss": 0,
+		"banner_id": 1,
+		"back_ground_CorpsStageBackground": 20
+	},
+	{
+		"ID": 820016011,
+		"setting_id": 16,
+		"difficulty": 1,
+		"number": 2,
+		"name": "2 左翼前衛",
+		"isBoss": 0,
+		"banner_id": 2,
+		"back_ground_CorpsStageBackground": 1022
+	},
+	{
+		"ID": 820016012,
+		"setting_id": 16,
+		"difficulty": 1,
+		"number": 3,
+		"name": "2 中央前衛",
+		"isBoss": 0,
+		"banner_id": 2,
+		"back_ground_CorpsStageBackground": 30
+	},
+	{
+		"ID": 820016013,
+		"setting_id": 16,
+		"difficulty": 1,
+		"number": 4,
+		"name": "2 右翼前衛",
+		"isBoss": 0,
+		"banner_id": 2,
+		"back_ground_CorpsStageBackground": 1004
+	},
+	{
+		"ID": 820016021,
+		"setting_id": 16,
+		"difficulty": 1,
+		"number": 5,
+		"name": "3 左翼部隊",
+		"isBoss": 0,
+		"banner_id": 2,
+		"back_ground_CorpsStageBackground": 1033
+	},
+	{
+		"ID": 820016022,
+		"setting_id": 16,
+		"difficulty": 1,
+		"number": 6,
+		"name": "3 中央部隊",
+		"isBoss": 0,
+		"banner_id": 2,
+		"back_ground_CorpsStageBackground": 30
+	},
+	{
+		"ID": 820016023,
+		"setting_id": 16,
+		"difficulty": 1,
+		"number": 7,
+		"name": "3 右翼部隊",
+		"isBoss": 0,
+		"banner_id": 2,
+		"back_ground_CorpsStageBackground": 1014
+	},
+	{
+		"ID": 820016031,
+		"setting_id": 16,
+		"difficulty": 1,
+		"number": 8,
+		"name": "4 本隊",
+		"isBoss": 0,
+		"banner_id": 2,
+		"back_ground_CorpsStageBackground": 1033
+	},
+	{
+		"ID": 820016041,
+		"setting_id": 16,
+		"difficulty": 1,
+		"number": 9,
+		"name": "5 終結の地",
+		"isBoss": 1,
+		"banner_id": 1,
+		"back_ground_CorpsStageBackground": 1023
+	},
+	{
+		"ID": 820017001,
+		"setting_id": 17,
+		"difficulty": 1,
+		"number": 1,
+		"name": "1 斥候部隊",
+		"isBoss": 0,
+		"banner_id": 1,
+		"back_ground_CorpsStageBackground": 1002
+	},
+	{
+		"ID": 820017011,
+		"setting_id": 17,
+		"difficulty": 1,
+		"number": 2,
+		"name": "2 左翼前衛",
+		"isBoss": 0,
+		"banner_id": 2,
+		"back_ground_CorpsStageBackground": 1014
+	},
+	{
+		"ID": 820017012,
+		"setting_id": 17,
+		"difficulty": 1,
+		"number": 3,
+		"name": "2 中央前衛",
+		"isBoss": 0,
+		"banner_id": 2,
+		"back_ground_CorpsStageBackground": 7
+	},
+	{
+		"ID": 820017013,
+		"setting_id": 17,
+		"difficulty": 1,
+		"number": 4,
+		"name": "2 右翼前衛",
+		"isBoss": 0,
+		"banner_id": 2,
+		"back_ground_CorpsStageBackground": 1033
+	},
+	{
+		"ID": 820017021,
+		"setting_id": 17,
+		"difficulty": 1,
+		"number": 5,
+		"name": "3 左翼部隊",
+		"isBoss": 0,
+		"banner_id": 2,
+		"back_ground_CorpsStageBackground": 1014
+	},
+	{
+		"ID": 820017022,
+		"setting_id": 17,
+		"difficulty": 1,
+		"number": 6,
+		"name": "3 中央部隊",
+		"isBoss": 0,
+		"banner_id": 2,
+		"back_ground_CorpsStageBackground": 7
+	},
+	{
+		"ID": 820017023,
+		"setting_id": 17,
+		"difficulty": 1,
+		"number": 7,
+		"name": "3 右翼部隊",
+		"isBoss": 0,
+		"banner_id": 2,
+		"back_ground_CorpsStageBackground": 1033
+	},
+	{
+		"ID": 820017031,
+		"setting_id": 17,
+		"difficulty": 1,
+		"number": 8,
+		"name": "4 本隊",
+		"isBoss": 0,
+		"banner_id": 2,
+		"back_ground_CorpsStageBackground": 1265
+	},
+	{
+		"ID": 820017041,
+		"setting_id": 17,
+		"difficulty": 1,
+		"number": 9,
+		"name": "5 終結の地",
+		"isBoss": 1,
+		"banner_id": 1,
+		"back_ground_CorpsStageBackground": 1265
+	},
+	{
+		"ID": 820018001,
+		"setting_id": 18,
+		"difficulty": 1,
+		"number": 1,
+		"name": "1 斥候部隊",
+		"isBoss": 0,
+		"banner_id": 1,
+		"back_ground_CorpsStageBackground": 1268
+	},
+	{
+		"ID": 820018011,
+		"setting_id": 18,
+		"difficulty": 2,
+		"number": 2,
+		"name": "2 左翼前衛",
+		"isBoss": 0,
+		"banner_id": 2,
+		"back_ground_CorpsStageBackground": 1268
+	},
+	{
+		"ID": 820018012,
+		"setting_id": 18,
+		"difficulty": 2,
+		"number": 3,
+		"name": "2 中央前衛",
+		"isBoss": 0,
+		"banner_id": 2,
+		"back_ground_CorpsStageBackground": 1268
+	},
+	{
+		"ID": 820018013,
+		"setting_id": 18,
+		"difficulty": 2,
+		"number": 4,
+		"name": "2 右翼前衛",
+		"isBoss": 0,
+		"banner_id": 2,
+		"back_ground_CorpsStageBackground": 1268
+	},
+	{
+		"ID": 820018021,
+		"setting_id": 18,
+		"difficulty": 3,
+		"number": 5,
+		"name": "3 左翼部隊",
+		"isBoss": 0,
+		"banner_id": 2,
+		"back_ground_CorpsStageBackground": 1002
+	},
+	{
+		"ID": 820018022,
+		"setting_id": 18,
+		"difficulty": 3,
+		"number": 6,
+		"name": "3 中央部隊",
+		"isBoss": 0,
+		"banner_id": 2,
+		"back_ground_CorpsStageBackground": 1002
+	},
+	{
+		"ID": 820018023,
+		"setting_id": 18,
+		"difficulty": 3,
+		"number": 7,
+		"name": "3 右翼部隊",
+		"isBoss": 0,
+		"banner_id": 2,
+		"back_ground_CorpsStageBackground": 1002
+	},
+	{
+		"ID": 820018031,
+		"setting_id": 18,
+		"difficulty": 3,
+		"number": 8,
+		"name": "4 本隊",
+		"isBoss": 0,
+		"banner_id": 2,
+		"back_ground_CorpsStageBackground": 1003
+	},
+	{
+		"ID": 820018041,
+		"setting_id": 18,
+		"difficulty": 4,
+		"number": 9,
+		"name": "5 終結の地",
+		"isBoss": 1,
+		"banner_id": 1,
+		"back_ground_CorpsStageBackground": 1280
+	}
+]

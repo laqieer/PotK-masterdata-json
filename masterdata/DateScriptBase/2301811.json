@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 2301811,
+		"script": ";;A,中\n;;B,小\n;;C,大\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_castle\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# face %(unit_a)s \"usual\"\n# textflame 0 0\n@\nフォルカスと共に\n古城へやってきたマスター\n\n@\n普段とは違う絶景に\nフォルカスが目を見張る\n\n# face %(unit_a)s \"normal\"\n# voice 530181 \"forcas_c_0004\"\n# textflame 1 1\n@フォルカス\n素敵ですね…来て良かった\n\n# voice 530181 \"forcas_c_0030\"\n@フォルカス\nありがとうございます\nマスター、連れてきて下さって\n\n@フォルカス\nこうして街を一望すると\n街の息づかいを感じますね\n\n@フォルカス\n人が動き、街が活気づく…\nこれが人々の営みですか\n\n# voice 530181 \"forcas_c_0001\"\n@フォルカス\nマスターはいかがでしょう？\n楽しんでいますか？\n\n# select \"すごい立派な城だよね！\" \"select_label_01\" \"すごく楽しいよ\" \"select_label_02\" \"フォルカスと一緒ならなんでも\" \"select_label_03\"\nマスターはいかがでしょう？\n楽しんでいますか？\n\n# label \"select_label_01\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_02\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_03\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_end\"\n# waitandnext 0.1\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

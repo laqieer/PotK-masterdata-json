@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 1540502,
+		"script": ";;【５－４－２（バトル前）】\n# script \"lisp\"\n# background \"005_Wilderness_Night\"\n# bgm \"bgm002\" 0\n# body 24\n# pos 24 1\n# scale 24 0.8 0\n# alpha 24 1 0\n# body 0\n# pos 0 3\n# scale 0 0.8 0\n# alpha 0 1 0\n# body 4\n# pos 4 5\n# scale 4 0.8 0\n# alpha 4 1 0\n# voice 1014 \"tyrufing_0022\"\n# face 24 \"surprise\"\n# textboxarrow 0 1\n@ティルフィング\nちょっと、デュリン…どこ行くの？\n\n# voice 9999 \"durin_0044\"\n# face 0 \"usual2\"\n# textboxarrow 0 2\n@デュリン\n決まってんでしょ？\nオルトの情報を集めに行くのよ\n\n# voice 9998 \"toto_0023\"\n# textboxarrow 0 3\n@トト\nそんなことができるの？\n\n# voice 9999 \"durin_0007\"\n# face 0 \"occur\"\n# textboxarrow 0 2\n@デュリン\nまぁね…ティルフィングも、\nできることはなんだってする\nって言ってるし\n\n# voice 1014 \"tyrufing_0024\"\n# textboxarrow 0 1\n@ティルフィング\nちょ、ちょっと…？\n私になにをさせるつもりなの？\n\n# voice 9999 \"durin_0046\"\n# face 0 \"proud\"\n# textboxarrow 0 2\n@デュリン\nたいしたことじゃないわ\nただ、ちょこっと協力して\nもらうだけ…さぁ、急ぐわよ？\n\n# textboxarrow 0 3\n@トト\nどこに行くの？\n\n# face 0 \"normal\"\n# textboxarrow 0 2\n@デュリン\n…“酒場”よ"
+	}
+]

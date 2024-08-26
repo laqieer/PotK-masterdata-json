@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 102322,
+		"script": "# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_onsen\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 1023 \"ascalon_0015\"\n@アスカロン\nそうですか…\nじゃあ、マスターは今…\n困ってますか…？\n\n# chara %(unit_a)s\n@アスカロン\nえっと…\n正直に言ってください…\n\n# textflame 0 0\n@\nアスカロンに嘘はつけない\nマスターは本音を告げる\n正直、ラッキーだと思っている、と\n\n# textflame 1 1\n# voice 1023 \"ascalon_0040\"\n# chara %(unit_a)s\n@アスカロン\n…ラッキーですか\n\n# textflame 0 0\n@\nああ、これ絶対嫌われた！\nマスターは天を仰いだ…\n\n# textflame 1 1\n# chara %(unit_a)s\n# face %(unit_a)s \"smile\"\n@アスカロン\nせっかく一緒に来たのに\n別々なのは寂しいなって\n思ってたので…\n\n# textflame 1 1\n# voice 1023 \"ascalon_0004\"\n# chara %(unit_a)s\n@アスカロン\nラッキー…\nちょっと、わかります…！\n\n# textflame 0 0\n@\nほんのり赤くなった\nアスカロンの笑顔は\nたまらなく可愛らしかった――\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

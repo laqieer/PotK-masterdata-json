@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 500722,
+		"script": "# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_onsen\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 5007 \"buryunaku_0023\"\n@ブリューナク\nな…！！\nそ、そう指示されても…\n\n# textflame 1 1\n@ブリューナク\nこの口調は…自然、なのだ\n変えろと、言われても…\n\n# textflame 0 0\n@\nブリューナクは困った顔で\n目を白黒させているので\nマスターは思わず吹き出してしまう\n\n# voice 5007 \"buryunaku_0013\"\n# textflame 1 1\n@ブリューナク\nまさかとは思うが…\n\n# voice 5007 \"buryunaku_0010\"\n# face %(unit_a)s \"angry\"\n# textflame 1 1\n@ブリューナク\nからかったのか…マスター！\n\n# textflame 0 0\n@\n珍しく怒った顔をしている彼女に\nマスターは笑いながら謝る\n\n# voice 5007 \"buryunaku_0009\"\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@ブリューナク\n…屈辱だ\nマスターとはいえ\nここは反撃させてもらう\n\n# textflame 0 0\n@\nブリューナクの手が鋭く伸び…\n一瞬でマスターの腕を掴んでいた\n\n# voice 5007 \"buryunaku_0007\"\n# face %(unit_a)s \"normal\"\n# textflame 1 1\n@ブリューナク\n…しばらく、\nこのブリューナクの\n趣味に付き合ってもらう\n\n# textflame 0 0\n@\nわずかに口角を上げると…\nブリューナクはマスターの腕を\nまじまじと見つめ始めた\n\n# voice 5007 \"buryunaku_0021\"\n# textflame 1 1\n@ブリューナク\n…ほどよく鍛えられて\n非常にいい腕だ\n実に好ましい…\n\n# textflame 0 0\n@\n腕を弄ばれながら\n彼女の夢中の横顔を\n見つめて微笑むマスターだった――\n;;----------------------------------------\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

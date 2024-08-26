@@ -1,0 +1,1037 @@
+[
+	{
+		"ID": 1,
+		"article_EarthShopArticle": 1,
+		"entity_type_CommonRewardType": 2,
+		"entity_id": 1,
+		"quantity": 1,
+		"upper_limit_check": 0,
+		"upper_limit_count": 0
+	},
+	{
+		"ID": 2,
+		"article_EarthShopArticle": 2,
+		"entity_type_CommonRewardType": 2,
+		"entity_id": 2,
+		"quantity": 1,
+		"upper_limit_check": 0,
+		"upper_limit_count": 0
+	},
+	{
+		"ID": 3,
+		"article_EarthShopArticle": 3,
+		"entity_type_CommonRewardType": 2,
+		"entity_id": 4,
+		"quantity": 1,
+		"upper_limit_check": 0,
+		"upper_limit_count": 0
+	},
+	{
+		"ID": 4,
+		"article_EarthShopArticle": 4,
+		"entity_type_CommonRewardType": 2,
+		"entity_id": 6,
+		"quantity": 1,
+		"upper_limit_check": 0,
+		"upper_limit_count": 0
+	},
+	{
+		"ID": 5,
+		"article_EarthShopArticle": 5,
+		"entity_type_CommonRewardType": 2,
+		"entity_id": 5,
+		"quantity": 1,
+		"upper_limit_check": 0,
+		"upper_limit_count": 0
+	},
+	{
+		"ID": 6,
+		"article_EarthShopArticle": 6,
+		"entity_type_CommonRewardType": 2,
+		"entity_id": 7,
+		"quantity": 1,
+		"upper_limit_check": 0,
+		"upper_limit_count": 0
+	},
+	{
+		"ID": 7,
+		"article_EarthShopArticle": 7,
+		"entity_type_CommonRewardType": 2,
+		"entity_id": 8,
+		"quantity": 1,
+		"upper_limit_check": 0,
+		"upper_limit_count": 0
+	},
+	{
+		"ID": 8,
+		"article_EarthShopArticle": 8,
+		"entity_type_CommonRewardType": 2,
+		"entity_id": 9,
+		"quantity": 1,
+		"upper_limit_check": 0,
+		"upper_limit_count": 0
+	},
+	{
+		"ID": 9,
+		"article_EarthShopArticle": 9,
+		"entity_type_CommonRewardType": 19,
+		"entity_id": 1,
+		"quantity": 1,
+		"upper_limit_check": 0,
+		"upper_limit_count": 0
+	},
+	{
+		"ID": 10,
+		"article_EarthShopArticle": 10,
+		"entity_type_CommonRewardType": 19,
+		"entity_id": 1,
+		"quantity": 1,
+		"upper_limit_check": 0,
+		"upper_limit_count": 0
+	},
+	{
+		"ID": 11,
+		"article_EarthShopArticle": 11,
+		"entity_type_CommonRewardType": 19,
+		"entity_id": 1,
+		"quantity": 1,
+		"upper_limit_check": 0,
+		"upper_limit_count": 0
+	},
+	{
+		"ID": 12,
+		"article_EarthShopArticle": 12,
+		"entity_type_CommonRewardType": 19,
+		"entity_id": 1,
+		"quantity": 1,
+		"upper_limit_check": 0,
+		"upper_limit_count": 0
+	},
+	{
+		"ID": 13,
+		"article_EarthShopArticle": 13,
+		"entity_type_CommonRewardType": 19,
+		"entity_id": 1,
+		"quantity": 1,
+		"upper_limit_check": 0,
+		"upper_limit_count": 0
+	},
+	{
+		"ID": 14,
+		"article_EarthShopArticle": 14,
+		"entity_type_CommonRewardType": 19,
+		"entity_id": 1,
+		"quantity": 1,
+		"upper_limit_check": 0,
+		"upper_limit_count": 0
+	},
+	{
+		"ID": 15,
+		"article_EarthShopArticle": 15,
+		"entity_type_CommonRewardType": 3,
+		"entity_id": 12001,
+		"quantity": 1,
+		"upper_limit_check": 0,
+		"upper_limit_count": 0
+	},
+	{
+		"ID": 16,
+		"article_EarthShopArticle": 16,
+		"entity_type_CommonRewardType": 3,
+		"entity_id": 22001,
+		"quantity": 1,
+		"upper_limit_check": 0,
+		"upper_limit_count": 0
+	},
+	{
+		"ID": 17,
+		"article_EarthShopArticle": 17,
+		"entity_type_CommonRewardType": 3,
+		"entity_id": 32001,
+		"quantity": 1,
+		"upper_limit_check": 0,
+		"upper_limit_count": 0
+	},
+	{
+		"ID": 18,
+		"article_EarthShopArticle": 18,
+		"entity_type_CommonRewardType": 3,
+		"entity_id": 42001,
+		"quantity": 1,
+		"upper_limit_check": 0,
+		"upper_limit_count": 0
+	},
+	{
+		"ID": 19,
+		"article_EarthShopArticle": 19,
+		"entity_type_CommonRewardType": 3,
+		"entity_id": 52001,
+		"quantity": 1,
+		"upper_limit_check": 0,
+		"upper_limit_count": 0
+	},
+	{
+		"ID": 20,
+		"article_EarthShopArticle": 20,
+		"entity_type_CommonRewardType": 3,
+		"entity_id": 62001,
+		"quantity": 1,
+		"upper_limit_check": 0,
+		"upper_limit_count": 0
+	},
+	{
+		"ID": 21,
+		"article_EarthShopArticle": 21,
+		"entity_type_CommonRewardType": 3,
+		"entity_id": 72001,
+		"quantity": 1,
+		"upper_limit_check": 0,
+		"upper_limit_count": 0
+	},
+	{
+		"ID": 22,
+		"article_EarthShopArticle": 22,
+		"entity_type_CommonRewardType": 19,
+		"entity_id": 1,
+		"quantity": 1,
+		"upper_limit_check": 0,
+		"upper_limit_count": 0
+	},
+	{
+		"ID": 23,
+		"article_EarthShopArticle": 23,
+		"entity_type_CommonRewardType": 2,
+		"entity_id": 1,
+		"quantity": 1,
+		"upper_limit_check": 0,
+		"upper_limit_count": 0
+	},
+	{
+		"ID": 24,
+		"article_EarthShopArticle": 24,
+		"entity_type_CommonRewardType": 2,
+		"entity_id": 1,
+		"quantity": 1,
+		"upper_limit_check": 0,
+		"upper_limit_count": 0
+	},
+	{
+		"ID": 25,
+		"article_EarthShopArticle": 25,
+		"entity_type_CommonRewardType": 2,
+		"entity_id": 1,
+		"quantity": 1,
+		"upper_limit_check": 0,
+		"upper_limit_count": 0
+	},
+	{
+		"ID": 26,
+		"article_EarthShopArticle": 26,
+		"entity_type_CommonRewardType": 2,
+		"entity_id": 1,
+		"quantity": 1,
+		"upper_limit_check": 0,
+		"upper_limit_count": 0
+	},
+	{
+		"ID": 27,
+		"article_EarthShopArticle": 27,
+		"entity_type_CommonRewardType": 2,
+		"entity_id": 1,
+		"quantity": 1,
+		"upper_limit_check": 0,
+		"upper_limit_count": 0
+	},
+	{
+		"ID": 28,
+		"article_EarthShopArticle": 28,
+		"entity_type_CommonRewardType": 2,
+		"entity_id": 1,
+		"quantity": 1,
+		"upper_limit_check": 0,
+		"upper_limit_count": 0
+	},
+	{
+		"ID": 29,
+		"article_EarthShopArticle": 29,
+		"entity_type_CommonRewardType": 2,
+		"entity_id": 1,
+		"quantity": 1,
+		"upper_limit_check": 0,
+		"upper_limit_count": 0
+	},
+	{
+		"ID": 30,
+		"article_EarthShopArticle": 30,
+		"entity_type_CommonRewardType": 2,
+		"entity_id": 2,
+		"quantity": 1,
+		"upper_limit_check": 0,
+		"upper_limit_count": 0
+	},
+	{
+		"ID": 31,
+		"article_EarthShopArticle": 31,
+		"entity_type_CommonRewardType": 2,
+		"entity_id": 2,
+		"quantity": 1,
+		"upper_limit_check": 0,
+		"upper_limit_count": 0
+	},
+	{
+		"ID": 32,
+		"article_EarthShopArticle": 32,
+		"entity_type_CommonRewardType": 2,
+		"entity_id": 2,
+		"quantity": 1,
+		"upper_limit_check": 0,
+		"upper_limit_count": 0
+	},
+	{
+		"ID": 33,
+		"article_EarthShopArticle": 33,
+		"entity_type_CommonRewardType": 2,
+		"entity_id": 2,
+		"quantity": 1,
+		"upper_limit_check": 0,
+		"upper_limit_count": 0
+	},
+	{
+		"ID": 34,
+		"article_EarthShopArticle": 34,
+		"entity_type_CommonRewardType": 2,
+		"entity_id": 2,
+		"quantity": 1,
+		"upper_limit_check": 0,
+		"upper_limit_count": 0
+	},
+	{
+		"ID": 35,
+		"article_EarthShopArticle": 35,
+		"entity_type_CommonRewardType": 2,
+		"entity_id": 2,
+		"quantity": 1,
+		"upper_limit_check": 0,
+		"upper_limit_count": 0
+	},
+	{
+		"ID": 36,
+		"article_EarthShopArticle": 36,
+		"entity_type_CommonRewardType": 2,
+		"entity_id": 2,
+		"quantity": 1,
+		"upper_limit_check": 0,
+		"upper_limit_count": 0
+	},
+	{
+		"ID": 37,
+		"article_EarthShopArticle": 37,
+		"entity_type_CommonRewardType": 2,
+		"entity_id": 3,
+		"quantity": 1,
+		"upper_limit_check": 0,
+		"upper_limit_count": 0
+	},
+	{
+		"ID": 38,
+		"article_EarthShopArticle": 38,
+		"entity_type_CommonRewardType": 2,
+		"entity_id": 3,
+		"quantity": 1,
+		"upper_limit_check": 0,
+		"upper_limit_count": 0
+	},
+	{
+		"ID": 39,
+		"article_EarthShopArticle": 39,
+		"entity_type_CommonRewardType": 2,
+		"entity_id": 3,
+		"quantity": 1,
+		"upper_limit_check": 0,
+		"upper_limit_count": 0
+	},
+	{
+		"ID": 40,
+		"article_EarthShopArticle": 40,
+		"entity_type_CommonRewardType": 2,
+		"entity_id": 3,
+		"quantity": 1,
+		"upper_limit_check": 0,
+		"upper_limit_count": 0
+	},
+	{
+		"ID": 41,
+		"article_EarthShopArticle": 41,
+		"entity_type_CommonRewardType": 2,
+		"entity_id": 3,
+		"quantity": 1,
+		"upper_limit_check": 0,
+		"upper_limit_count": 0
+	},
+	{
+		"ID": 42,
+		"article_EarthShopArticle": 42,
+		"entity_type_CommonRewardType": 2,
+		"entity_id": 3,
+		"quantity": 1,
+		"upper_limit_check": 0,
+		"upper_limit_count": 0
+	},
+	{
+		"ID": 43,
+		"article_EarthShopArticle": 43,
+		"entity_type_CommonRewardType": 2,
+		"entity_id": 4,
+		"quantity": 1,
+		"upper_limit_check": 0,
+		"upper_limit_count": 0
+	},
+	{
+		"ID": 44,
+		"article_EarthShopArticle": 44,
+		"entity_type_CommonRewardType": 2,
+		"entity_id": 4,
+		"quantity": 1,
+		"upper_limit_check": 0,
+		"upper_limit_count": 0
+	},
+	{
+		"ID": 45,
+		"article_EarthShopArticle": 45,
+		"entity_type_CommonRewardType": 2,
+		"entity_id": 4,
+		"quantity": 1,
+		"upper_limit_check": 0,
+		"upper_limit_count": 0
+	},
+	{
+		"ID": 46,
+		"article_EarthShopArticle": 46,
+		"entity_type_CommonRewardType": 2,
+		"entity_id": 4,
+		"quantity": 1,
+		"upper_limit_check": 0,
+		"upper_limit_count": 0
+	},
+	{
+		"ID": 47,
+		"article_EarthShopArticle": 47,
+		"entity_type_CommonRewardType": 2,
+		"entity_id": 4,
+		"quantity": 1,
+		"upper_limit_check": 0,
+		"upper_limit_count": 0
+	},
+	{
+		"ID": 48,
+		"article_EarthShopArticle": 48,
+		"entity_type_CommonRewardType": 2,
+		"entity_id": 4,
+		"quantity": 1,
+		"upper_limit_check": 0,
+		"upper_limit_count": 0
+	},
+	{
+		"ID": 49,
+		"article_EarthShopArticle": 49,
+		"entity_type_CommonRewardType": 2,
+		"entity_id": 6,
+		"quantity": 1,
+		"upper_limit_check": 0,
+		"upper_limit_count": 0
+	},
+	{
+		"ID": 50,
+		"article_EarthShopArticle": 50,
+		"entity_type_CommonRewardType": 2,
+		"entity_id": 6,
+		"quantity": 1,
+		"upper_limit_check": 0,
+		"upper_limit_count": 0
+	},
+	{
+		"ID": 51,
+		"article_EarthShopArticle": 51,
+		"entity_type_CommonRewardType": 2,
+		"entity_id": 6,
+		"quantity": 1,
+		"upper_limit_check": 0,
+		"upper_limit_count": 0
+	},
+	{
+		"ID": 52,
+		"article_EarthShopArticle": 52,
+		"entity_type_CommonRewardType": 2,
+		"entity_id": 6,
+		"quantity": 1,
+		"upper_limit_check": 0,
+		"upper_limit_count": 0
+	},
+	{
+		"ID": 53,
+		"article_EarthShopArticle": 53,
+		"entity_type_CommonRewardType": 2,
+		"entity_id": 6,
+		"quantity": 1,
+		"upper_limit_check": 0,
+		"upper_limit_count": 0
+	},
+	{
+		"ID": 54,
+		"article_EarthShopArticle": 54,
+		"entity_type_CommonRewardType": 2,
+		"entity_id": 6,
+		"quantity": 1,
+		"upper_limit_check": 0,
+		"upper_limit_count": 0
+	},
+	{
+		"ID": 55,
+		"article_EarthShopArticle": 55,
+		"entity_type_CommonRewardType": 2,
+		"entity_id": 5,
+		"quantity": 1,
+		"upper_limit_check": 0,
+		"upper_limit_count": 0
+	},
+	{
+		"ID": 56,
+		"article_EarthShopArticle": 56,
+		"entity_type_CommonRewardType": 2,
+		"entity_id": 5,
+		"quantity": 1,
+		"upper_limit_check": 0,
+		"upper_limit_count": 0
+	},
+	{
+		"ID": 57,
+		"article_EarthShopArticle": 57,
+		"entity_type_CommonRewardType": 2,
+		"entity_id": 5,
+		"quantity": 1,
+		"upper_limit_check": 0,
+		"upper_limit_count": 0
+	},
+	{
+		"ID": 58,
+		"article_EarthShopArticle": 58,
+		"entity_type_CommonRewardType": 2,
+		"entity_id": 5,
+		"quantity": 1,
+		"upper_limit_check": 0,
+		"upper_limit_count": 0
+	},
+	{
+		"ID": 59,
+		"article_EarthShopArticle": 59,
+		"entity_type_CommonRewardType": 2,
+		"entity_id": 5,
+		"quantity": 1,
+		"upper_limit_check": 0,
+		"upper_limit_count": 0
+	},
+	{
+		"ID": 60,
+		"article_EarthShopArticle": 60,
+		"entity_type_CommonRewardType": 2,
+		"entity_id": 5,
+		"quantity": 1,
+		"upper_limit_check": 0,
+		"upper_limit_count": 0
+	},
+	{
+		"ID": 61,
+		"article_EarthShopArticle": 61,
+		"entity_type_CommonRewardType": 2,
+		"entity_id": 7,
+		"quantity": 1,
+		"upper_limit_check": 0,
+		"upper_limit_count": 0
+	},
+	{
+		"ID": 62,
+		"article_EarthShopArticle": 62,
+		"entity_type_CommonRewardType": 2,
+		"entity_id": 7,
+		"quantity": 1,
+		"upper_limit_check": 0,
+		"upper_limit_count": 0
+	},
+	{
+		"ID": 63,
+		"article_EarthShopArticle": 63,
+		"entity_type_CommonRewardType": 2,
+		"entity_id": 7,
+		"quantity": 1,
+		"upper_limit_check": 0,
+		"upper_limit_count": 0
+	},
+	{
+		"ID": 64,
+		"article_EarthShopArticle": 64,
+		"entity_type_CommonRewardType": 2,
+		"entity_id": 7,
+		"quantity": 1,
+		"upper_limit_check": 0,
+		"upper_limit_count": 0
+	},
+	{
+		"ID": 65,
+		"article_EarthShopArticle": 65,
+		"entity_type_CommonRewardType": 2,
+		"entity_id": 7,
+		"quantity": 1,
+		"upper_limit_check": 0,
+		"upper_limit_count": 0
+	},
+	{
+		"ID": 66,
+		"article_EarthShopArticle": 66,
+		"entity_type_CommonRewardType": 2,
+		"entity_id": 7,
+		"quantity": 1,
+		"upper_limit_check": 0,
+		"upper_limit_count": 0
+	},
+	{
+		"ID": 67,
+		"article_EarthShopArticle": 67,
+		"entity_type_CommonRewardType": 2,
+		"entity_id": 8,
+		"quantity": 1,
+		"upper_limit_check": 0,
+		"upper_limit_count": 0
+	},
+	{
+		"ID": 68,
+		"article_EarthShopArticle": 68,
+		"entity_type_CommonRewardType": 2,
+		"entity_id": 8,
+		"quantity": 1,
+		"upper_limit_check": 0,
+		"upper_limit_count": 0
+	},
+	{
+		"ID": 69,
+		"article_EarthShopArticle": 69,
+		"entity_type_CommonRewardType": 2,
+		"entity_id": 8,
+		"quantity": 1,
+		"upper_limit_check": 0,
+		"upper_limit_count": 0
+	},
+	{
+		"ID": 70,
+		"article_EarthShopArticle": 70,
+		"entity_type_CommonRewardType": 2,
+		"entity_id": 8,
+		"quantity": 1,
+		"upper_limit_check": 0,
+		"upper_limit_count": 0
+	},
+	{
+		"ID": 71,
+		"article_EarthShopArticle": 71,
+		"entity_type_CommonRewardType": 2,
+		"entity_id": 8,
+		"quantity": 1,
+		"upper_limit_check": 0,
+		"upper_limit_count": 0
+	},
+	{
+		"ID": 72,
+		"article_EarthShopArticle": 72,
+		"entity_type_CommonRewardType": 2,
+		"entity_id": 8,
+		"quantity": 1,
+		"upper_limit_check": 0,
+		"upper_limit_count": 0
+	},
+	{
+		"ID": 73,
+		"article_EarthShopArticle": 73,
+		"entity_type_CommonRewardType": 2,
+		"entity_id": 9,
+		"quantity": 1,
+		"upper_limit_check": 0,
+		"upper_limit_count": 0
+	},
+	{
+		"ID": 74,
+		"article_EarthShopArticle": 74,
+		"entity_type_CommonRewardType": 2,
+		"entity_id": 9,
+		"quantity": 1,
+		"upper_limit_check": 0,
+		"upper_limit_count": 0
+	},
+	{
+		"ID": 75,
+		"article_EarthShopArticle": 75,
+		"entity_type_CommonRewardType": 2,
+		"entity_id": 9,
+		"quantity": 1,
+		"upper_limit_check": 0,
+		"upper_limit_count": 0
+	},
+	{
+		"ID": 76,
+		"article_EarthShopArticle": 76,
+		"entity_type_CommonRewardType": 2,
+		"entity_id": 9,
+		"quantity": 1,
+		"upper_limit_check": 0,
+		"upper_limit_count": 0
+	},
+	{
+		"ID": 77,
+		"article_EarthShopArticle": 77,
+		"entity_type_CommonRewardType": 2,
+		"entity_id": 9,
+		"quantity": 1,
+		"upper_limit_check": 0,
+		"upper_limit_count": 0
+	},
+	{
+		"ID": 78,
+		"article_EarthShopArticle": 78,
+		"entity_type_CommonRewardType": 2,
+		"entity_id": 9,
+		"quantity": 1,
+		"upper_limit_check": 0,
+		"upper_limit_count": 0
+	},
+	{
+		"ID": 79,
+		"article_EarthShopArticle": 79,
+		"entity_type_CommonRewardType": 3,
+		"entity_id": 12001,
+		"quantity": 1,
+		"upper_limit_check": 0,
+		"upper_limit_count": 0
+	},
+	{
+		"ID": 80,
+		"article_EarthShopArticle": 80,
+		"entity_type_CommonRewardType": 3,
+		"entity_id": 22001,
+		"quantity": 1,
+		"upper_limit_check": 0,
+		"upper_limit_count": 0
+	},
+	{
+		"ID": 81,
+		"article_EarthShopArticle": 81,
+		"entity_type_CommonRewardType": 3,
+		"entity_id": 32001,
+		"quantity": 1,
+		"upper_limit_check": 0,
+		"upper_limit_count": 0
+	},
+	{
+		"ID": 82,
+		"article_EarthShopArticle": 82,
+		"entity_type_CommonRewardType": 3,
+		"entity_id": 42001,
+		"quantity": 1,
+		"upper_limit_check": 0,
+		"upper_limit_count": 0
+	},
+	{
+		"ID": 83,
+		"article_EarthShopArticle": 83,
+		"entity_type_CommonRewardType": 3,
+		"entity_id": 52001,
+		"quantity": 1,
+		"upper_limit_check": 0,
+		"upper_limit_count": 0
+	},
+	{
+		"ID": 84,
+		"article_EarthShopArticle": 84,
+		"entity_type_CommonRewardType": 3,
+		"entity_id": 62001,
+		"quantity": 1,
+		"upper_limit_check": 0,
+		"upper_limit_count": 0
+	},
+	{
+		"ID": 85,
+		"article_EarthShopArticle": 85,
+		"entity_type_CommonRewardType": 3,
+		"entity_id": 72001,
+		"quantity": 1,
+		"upper_limit_check": 0,
+		"upper_limit_count": 0
+	},
+	{
+		"ID": 86,
+		"article_EarthShopArticle": 86,
+		"entity_type_CommonRewardType": 3,
+		"entity_id": 12001,
+		"quantity": 1,
+		"upper_limit_check": 0,
+		"upper_limit_count": 0
+	},
+	{
+		"ID": 87,
+		"article_EarthShopArticle": 87,
+		"entity_type_CommonRewardType": 3,
+		"entity_id": 22001,
+		"quantity": 1,
+		"upper_limit_check": 0,
+		"upper_limit_count": 0
+	},
+	{
+		"ID": 88,
+		"article_EarthShopArticle": 88,
+		"entity_type_CommonRewardType": 3,
+		"entity_id": 32001,
+		"quantity": 1,
+		"upper_limit_check": 0,
+		"upper_limit_count": 0
+	},
+	{
+		"ID": 89,
+		"article_EarthShopArticle": 89,
+		"entity_type_CommonRewardType": 3,
+		"entity_id": 42001,
+		"quantity": 1,
+		"upper_limit_check": 0,
+		"upper_limit_count": 0
+	},
+	{
+		"ID": 90,
+		"article_EarthShopArticle": 90,
+		"entity_type_CommonRewardType": 3,
+		"entity_id": 52001,
+		"quantity": 1,
+		"upper_limit_check": 0,
+		"upper_limit_count": 0
+	},
+	{
+		"ID": 91,
+		"article_EarthShopArticle": 91,
+		"entity_type_CommonRewardType": 3,
+		"entity_id": 62001,
+		"quantity": 1,
+		"upper_limit_check": 0,
+		"upper_limit_count": 0
+	},
+	{
+		"ID": 92,
+		"article_EarthShopArticle": 92,
+		"entity_type_CommonRewardType": 3,
+		"entity_id": 72001,
+		"quantity": 1,
+		"upper_limit_check": 0,
+		"upper_limit_count": 0
+	},
+	{
+		"ID": 93,
+		"article_EarthShopArticle": 93,
+		"entity_type_CommonRewardType": 3,
+		"entity_id": 22005,
+		"quantity": 1,
+		"upper_limit_check": 0,
+		"upper_limit_count": 0
+	},
+	{
+		"ID": 94,
+		"article_EarthShopArticle": 94,
+		"entity_type_CommonRewardType": 3,
+		"entity_id": 33003,
+		"quantity": 1,
+		"upper_limit_check": 0,
+		"upper_limit_count": 0
+	},
+	{
+		"ID": 95,
+		"article_EarthShopArticle": 95,
+		"entity_type_CommonRewardType": 3,
+		"entity_id": 42002,
+		"quantity": 1,
+		"upper_limit_check": 0,
+		"upper_limit_count": 0
+	},
+	{
+		"ID": 96,
+		"article_EarthShopArticle": 96,
+		"entity_type_CommonRewardType": 3,
+		"entity_id": 22005,
+		"quantity": 1,
+		"upper_limit_check": 0,
+		"upper_limit_count": 0
+	},
+	{
+		"ID": 97,
+		"article_EarthShopArticle": 97,
+		"entity_type_CommonRewardType": 3,
+		"entity_id": 33003,
+		"quantity": 1,
+		"upper_limit_check": 0,
+		"upper_limit_count": 0
+	},
+	{
+		"ID": 98,
+		"article_EarthShopArticle": 98,
+		"entity_type_CommonRewardType": 3,
+		"entity_id": 42002,
+		"quantity": 1,
+		"upper_limit_check": 0,
+		"upper_limit_count": 0
+	},
+	{
+		"ID": 99,
+		"article_EarthShopArticle": 99,
+		"entity_type_CommonRewardType": 3,
+		"entity_id": 13003,
+		"quantity": 1,
+		"upper_limit_check": 0,
+		"upper_limit_count": 0
+	},
+	{
+		"ID": 100,
+		"article_EarthShopArticle": 100,
+		"entity_type_CommonRewardType": 3,
+		"entity_id": 23001,
+		"quantity": 1,
+		"upper_limit_check": 0,
+		"upper_limit_count": 0
+	},
+	{
+		"ID": 101,
+		"article_EarthShopArticle": 101,
+		"entity_type_CommonRewardType": 3,
+		"entity_id": 33001,
+		"quantity": 1,
+		"upper_limit_check": 0,
+		"upper_limit_count": 0
+	},
+	{
+		"ID": 102,
+		"article_EarthShopArticle": 102,
+		"entity_type_CommonRewardType": 3,
+		"entity_id": 43001,
+		"quantity": 1,
+		"upper_limit_check": 0,
+		"upper_limit_count": 0
+	},
+	{
+		"ID": 103,
+		"article_EarthShopArticle": 103,
+		"entity_type_CommonRewardType": 3,
+		"entity_id": 53003,
+		"quantity": 1,
+		"upper_limit_check": 0,
+		"upper_limit_count": 0
+	},
+	{
+		"ID": 104,
+		"article_EarthShopArticle": 104,
+		"entity_type_CommonRewardType": 3,
+		"entity_id": 64002,
+		"quantity": 1,
+		"upper_limit_check": 0,
+		"upper_limit_count": 0
+	},
+	{
+		"ID": 105,
+		"article_EarthShopArticle": 105,
+		"entity_type_CommonRewardType": 3,
+		"entity_id": 73005,
+		"quantity": 1,
+		"upper_limit_check": 0,
+		"upper_limit_count": 0
+	},
+	{
+		"ID": 106,
+		"article_EarthShopArticle": 106,
+		"entity_type_CommonRewardType": 3,
+		"entity_id": 13003,
+		"quantity": 1,
+		"upper_limit_check": 0,
+		"upper_limit_count": 0
+	},
+	{
+		"ID": 107,
+		"article_EarthShopArticle": 107,
+		"entity_type_CommonRewardType": 3,
+		"entity_id": 23001,
+		"quantity": 1,
+		"upper_limit_check": 0,
+		"upper_limit_count": 0
+	},
+	{
+		"ID": 108,
+		"article_EarthShopArticle": 108,
+		"entity_type_CommonRewardType": 3,
+		"entity_id": 33001,
+		"quantity": 1,
+		"upper_limit_check": 0,
+		"upper_limit_count": 0
+	},
+	{
+		"ID": 109,
+		"article_EarthShopArticle": 109,
+		"entity_type_CommonRewardType": 3,
+		"entity_id": 43001,
+		"quantity": 1,
+		"upper_limit_check": 0,
+		"upper_limit_count": 0
+	},
+	{
+		"ID": 110,
+		"article_EarthShopArticle": 110,
+		"entity_type_CommonRewardType": 3,
+		"entity_id": 53003,
+		"quantity": 1,
+		"upper_limit_check": 0,
+		"upper_limit_count": 0
+	},
+	{
+		"ID": 111,
+		"article_EarthShopArticle": 111,
+		"entity_type_CommonRewardType": 3,
+		"entity_id": 64002,
+		"quantity": 1,
+		"upper_limit_check": 0,
+		"upper_limit_count": 0
+	},
+	{
+		"ID": 112,
+		"article_EarthShopArticle": 112,
+		"entity_type_CommonRewardType": 3,
+		"entity_id": 73005,
+		"quantity": 1,
+		"upper_limit_check": 0,
+		"upper_limit_count": 0
+	},
+	{
+		"ID": 113,
+		"article_EarthShopArticle": 113,
+		"entity_type_CommonRewardType": 2,
+		"entity_id": 1,
+		"quantity": 1,
+		"upper_limit_check": 0,
+		"upper_limit_count": 0
+	},
+	{
+		"ID": 114,
+		"article_EarthShopArticle": 114,
+		"entity_type_CommonRewardType": 2,
+		"entity_id": 2,
+		"quantity": 1,
+		"upper_limit_check": 0,
+		"upper_limit_count": 0
+	},
+	{
+		"ID": 115,
+		"article_EarthShopArticle": 115,
+		"entity_type_CommonRewardType": 2,
+		"entity_id": 3,
+		"quantity": 1,
+		"upper_limit_check": 0,
+		"upper_limit_count": 0
+	}
+]

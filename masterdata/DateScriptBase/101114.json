@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 101114,
+		"script": "# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_castle\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@エクスカリバー\nハーレム…\n\n# voice 1011 \"excalibur_0027\"\n# textflame 1 1\n@エクスカリバー\nやれやれ…\n\n# face %(unit_a)s \"angry\"\n# textflame 1 1\n@エクスカリバー\n今で十分でしょう\nこれ以上なにをお望みで？\n\n# textflame 1 1\n@エクスカリバー\nそれにですね…\n\n# textflame 0 0\n@\n珍しく拗ねたエクスカリバーは\nとてもかわいかったのだが…\n\n# textflame 0 0\n@\n彼女のお説教は長々と続き\n機嫌を直してもらうまで\nもの凄い大変だった…\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

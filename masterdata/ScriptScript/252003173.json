@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 252003173,
+		"script": ";;-----------------------------------------\n;;でんぱ7_動画\n;;-----------------------------------------\n# script \"lisp\"\n# background \"bg_black\"\n# bgm \"stop\"\n;;-----------------------------------------\n# movieplay \"denpa2021_nemopero\" \"skip\"\n# textwindow \"close\"\n# waitandnext 1"
+	}
+]

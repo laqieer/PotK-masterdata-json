@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 101214,
+		"script": ";;選択肢B(小当り)\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_planetarium\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# voice 1012 \"adamasu_0003\"\n# eye %(unit_a)s \"close\"\n@アダマス\n…そうでしょうね\n\n# eye %(unit_a)s \"normal\"\n# face %(unit_a)s \"smile\"\n@アダマス\nフッ…じゃあ、あんた\nあたしのために採ってきてよ\n\n# textflame 0 0\n@\n思ったことがそのまま口に出た結果\nかぐや姫よりキツイ条件を\nつきつけられてしまった…\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

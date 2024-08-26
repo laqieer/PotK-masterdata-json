@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 110204009,
+		"script": ";;------------------------------------------------------------\n;;背景：平原\n;;ステージ8：211002047\n;;戦闘なし会話のみ\n;;------------------------------------------------------------\n# script \"lisp\"\n# background \"plain\"\n# bgmfile \"bgm400_1\" \"BgmIntegralNoahEvent\" 0\n# body 103611\n# pos 103611 2\n# scale 103611 0.8 0\n# body 196\n# pos 196 4\n# scale 196 0.8 0\n# layer 103611 1\n# layer 196 2\n# mask 103611 off\n# mask 196 off\n# textwindow \"nomal\"\n# face 103611 \"usual\"\n# face 196 \"normal\"\n# textflame 1 1\n# textboxarrow 0 3\n# voice 9943 \"almace_navikan_0001\"\n@アルマス\nそうだ、忘れるところだったわ\nキル姫を育成する手段について\n説明してきたけど\n\n@アルマス\n実際に強いキル姫を\n育成するためには\nたくさんの素材やゼニーが必要よ\n\n# voice 1036 \"ragnarok_0003\"\n# textboxarrow 0 1\n@ラグナロク\nマナポイントガチャではユニットや\n武具のほかドルルや金塊も\n獲得できるわ\n\n# face 103611 \"happy\"\n@ラグナロク\n今回の報酬でマナポイントを\nプレゼントするから\nガチャを回してみて"
+	}
+]

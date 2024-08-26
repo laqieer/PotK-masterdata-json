@@ -1,0 +1,26 @@
+[
+	{
+		"ID": 177,
+		"unitID": 2201011,
+		"scriptID": "kaerimichi",
+		"script": "マスターのこと守ってあげるから…\n今日はまだ一緒にいてほしいな…"
+	},
+	{
+		"ID": 191,
+		"unitID": 2201011,
+		"scriptID": "kaeru",
+		"script": "そろそろ帰ろうか\nまた遊ぼうね"
+	},
+	{
+		"ID": 205,
+		"unitID": 2201011,
+		"scriptID": "kaeru_ok",
+		"script": "@%(unitName:unit_a)s\nうん、いいよ\nでも、あまり危ないことは\nだめだよ？"
+	},
+	{
+		"ID": 219,
+		"unitID": 2201011,
+		"scriptID": "kaeru_ng",
+		"script": "@%(unitName:unit_a)s\nこんな遅くまで外にいたらダメだよ\nもう帰ろう、マスター"
+	}
+]

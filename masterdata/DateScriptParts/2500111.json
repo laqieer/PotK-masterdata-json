@@ -1,0 +1,26 @@
+[
+	{
+		"ID": 19,
+		"unitID": 2500111,
+		"scriptID": "kaerimichi",
+		"script": "も～！\nこういう時は男の子から\n「待って」って言わないと！\n\nほら、行こ！\nこっちこっち！"
+	},
+	{
+		"ID": 46,
+		"unitID": 2500111,
+		"scriptID": "kaeru",
+		"script": "ちゃちゃっと帰ろうか！"
+	},
+	{
+		"ID": 73,
+		"unitID": 2500111,
+		"scriptID": "kaeru_ok",
+		"script": "@%(unitName:unit_a)s\nふぇ!?君のくせに生意気だよ…\n仕方ないから\nついていってあげるよ！"
+	},
+	{
+		"ID": 100,
+		"unitID": 2500111,
+		"scriptID": "kaeru_ng",
+		"script": "@%(unitName:unit_a)s\nごめんちゃい…\n今日はもう帰ろ？"
+	}
+]

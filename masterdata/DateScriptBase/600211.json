@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 600211,
+		"script": ";;A ここは神様の家だよ（小）\n;;B 確かに（大）\n;;C 祈りを捧げる場所だ（中）\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_church\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 0 0\n# face %(unit_a)s \"normal\"\n@\nガンバンテインの\nお気に入りだという\n教会に連れられてきたマスター\n\n@\n厳粛な気持ちにさせられる\n空間なのだが、ガンバンテインは\n相変わらずだった\n\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# voice 6002 \"ganbantein_0004\"\n@ガンバンテイン\nね～、いいでしょ？\n\n# face %(unit_a)s \"usual\"\n# voice 6002 \"ganbantein_0023\"\n@ガンバンテイン\nえ？\nなにがいいのかわからない？\n\n@ガンバテイン\nえっとここって人がいなくて\nしずかで…\n\n@ガンバテイン\nなんだか守られてるって\n気分になるし\n\n# voice 6002 \"ganbantein_0023\"\n@ガンバンテイン\nぼーっとするのに\nさいてきの場所だよ？\n\n# select \"ここは神様の家だよ\" \"select_label_01\" \"確かに\" \"select_label_02\" \"祈りを捧げる場所だ\" \"select_label_03\"\nぼーっとするのに\nさいてきの場所だよ？\n\n# label \"select_label_01\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_02\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_03\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_end\"\n# waitandnext 0.1\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

@@ -1,0 +1,62 @@
+[
+	{
+		"ID": 4346,
+		"unitID": 2502511,
+		"questionID": 9502501,
+		"script": ";;■□■クイズ導入パターン1_めぐみん\n# textflame 1 1\n# voice 5025 \"megumin_0001\"\n# face %(unit_a)s \"normal\"\n@めぐみん\nマスター\nちょっといいですか？\n\n# voice 5025 \"megumin_0004\"\n# face %(unit_a)s \"irregular\"\n@めぐみん\n実はマスターが私のことを\nどれだけ知っているのか\n気になっています\n\n@めぐみん\nですので、\n今から出すクイズに\n答えてほしいのです\n\n@めぐみん\nでは、いきますよ！\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私の武具種は分かりますか？\n\n;;銃\n# se \"SE_0734\"\n# select \"銃\" \"select_label_1\" \"剣\" \"select_label_2\" \"槍\" \"select_label_3\"\n私の武具種は分かりますか？\n"
+	},
+	{
+		"ID": 4347,
+		"unitID": 2502511,
+		"questionID": 9502502,
+		"script": ";;■□■クイズ導入パターン1_めぐみん\n# textflame 1 1\n# voice 5025 \"megumin_0001\"\n# face %(unit_a)s \"normal\"\n@めぐみん\nマスター\nちょっといいですか？\n\n# voice 5025 \"megumin_0004\"\n# face %(unit_a)s \"irregular\"\n@めぐみん\n実はマスターが私のことを\nどれだけ知っているのか\n気になっています\n\n@めぐみん\nですので、\n今から出すクイズに\n答えてほしいのです\n\n@めぐみん\nでは、いきますよ！\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私の冒険者としての職業は？\n\n;;アークウィザード\n# se \"SE_0734\"\n# select \"アークプリースト\" \"select_label_1\" \"アークウィザード\" \"select_label_2\" \"クルセイダー\" \"select_label_3\"\n私の冒険者としての職業は？\n"
+	},
+	{
+		"ID": 4348,
+		"unitID": 2502511,
+		"questionID": 9502503,
+		"script": "\n;;炎\n# se \"SE_0734\"\n# select \"雷\" \"select_label_1\" \"氷\" \"select_label_2\" \"炎\" \"select_label_3\"\nこのすばコラボでの\nめぐみんの属性は？\n"
+	},
+	{
+		"ID": 4349,
+		"unitID": 2502511,
+		"questionID": 9502504,
+		"script": ";;■□■クイズ導入パターン2_めぐみん\n# textflame 1 1\n# voice 5025 \"megumin_0001\"\n@めぐみん\nマスター\n\n@めぐみん\n突然ですが\n確かめたいことがあります\n\n# voice 5025 \"megumin_0004\"\n# face %(unit_a)s \"irregular\"\n@めぐみん\nそれはどれだけ\n私のことを理解しているか、\nということです\n\n@めぐみん\n私にとっては\n重要な事なのです…\nいいですか？\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私の部族の名前はどれですか？\n\n;;紅魔族\n# se \"SE_0734\"\n# select \"紅魔族\" \"select_label_1\" \"悪魔族\" \"select_label_2\" \"紅花族\" \"select_label_3\"\n私の部族の名前はどれですか？\n"
+	},
+	{
+		"ID": 4350,
+		"unitID": 2502511,
+		"questionID": 9502505,
+		"script": ";;■□■クイズ導入パターン3_めぐみん\n# textflame 1 1\n# voice 5025 \"megumin_0001\"\n@めぐみん\n突然なのですが\n気分転換にクイズなどは\nどうでしょう？\n\n@めぐみん\nそうですね…\nせっかくですから\n\n# voice 5025 \"megumin_0005\"\n# face %(unit_a)s \"irregular\"\n@めぐみん\nマスターが私のことを\nどれだけ知っているのか\n見極めさせてください\n\n@めぐみん\nというわけで\n私についての出題をします\n準備はいいですか？\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私が好きなものはどれですか？\n\n;;爆裂魔法\n# se \"SE_0734\"\n# select \"爆発魔法\" \"select_label_1\" \"爆裂魔法\" \"select_label_2\" \"炸裂魔法\" \"select_label_3\"\n私が好きなものはどれですか？\n"
+	},
+	{
+		"ID": 4351,
+		"unitID": 2502511,
+		"questionID": 9502506,
+		"script": ";;■□■クイズ導入パターン3_めぐみん\n# textflame 1 1\n# voice 5025 \"megumin_0001\"\n@めぐみん\n突然なのですが\n気分転換にクイズなどは\nどうでしょう？\n\n@めぐみん\nそうですね…\nせっかくですから\n\n# voice 5025 \"megumin_0005\"\n# face %(unit_a)s \"irregular\"\n@めぐみん\nマスターが私のことを\nどれだけ知っているのか\n見極めさせてください\n\n@めぐみん\nというわけで\n私についての出題をします\n準備はいいですか？\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私のペットの名前はどれでしょう？\n\n;;爆裂魔法\n# se \"SE_0734\"\n# select \"ひょいざぶろー\" \"select_label_1\" \"ゆいゆい\" \"select_label_2\" \"ちょむすけ\" \"select_label_3\"\n私のペットの名前はどれでしょう？\n"
+	},
+	{
+		"ID": 4352,
+		"unitID": 2502511,
+		"questionID": 9502507,
+		"script": ";;■□■クイズ導入パターン4_めぐみん\n# textflame 1 1\n# voice 5025 \"megumin_0001\"\n@めぐみん\nマスター\nお願いがあるのです\n\n# voice 5025 \"megumin_0005\"\n# face %(unit_a)s \"irregular\"\n@めぐみん\n爆裂道を極める者として\nマスターがどれだけ\n私のことを知っているのか…\n\n@めぐみん\n興味が出てきてしまいました\n\n@めぐみん\nなので、私が出すクイズに\n少し付き合ってもらえますか？\n\n@めぐみん\nでは問題です！\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私の瞳の色は…？\n\n;;紅\n# se \"SE_0734\"\n# select \"紅\" \"select_label_1\" \"蒼\" \"select_label_2\" \"碧\" \"select_label_3\"\n私の瞳の色は…？\n"
+	},
+	{
+		"ID": 4353,
+		"unitID": 2502511,
+		"questionID": 9502508,
+		"script": ";;■□■クイズ導入パターン4_めぐみん\n# textflame 1 1\n# voice 5025 \"megumin_0001\"\n@めぐみん\nマスター\nお願いがあるのです\n\n# voice 5025 \"megumin_0005\"\n# face %(unit_a)s \"irregular\"\n@めぐみん\n爆裂道を極める者として\nマスターがどれだけ\n私のことを知っているのか…\n\n@めぐみん\n興味が出てきてしまいました\n\n@めぐみん\nなので、私が出すクイズに\n少し付き合ってもらえますか？\n\n@めぐみん\nでは問題です！\n\n# textflame 1 1\n@%(unitName:unit_a)s\n私が爆裂魔法を使うと\n消費するのは…？\n\n;;紅\n# se \"SE_0734\"\n# select \"勇気\" \"select_label_1\" \"魔力\" \"select_label_2\" \"根性\" \"select_label_3\"\n私が爆裂魔法を使うと\n消費するのは…？\n"
+	},
+	{
+		"ID": 4354,
+		"unitID": 2502511,
+		"questionID": 9502509,
+		"script": "\n;;私\n# se \"SE_0734\"\n# select \"ミー\" \"select_label_1\" \"あたし\" \"select_label_2\" \"私\" \"select_label_3\"\nめぐみんの一人称は\n次のうちどれ？\n"
+	},
+	{
+		"ID": 4355,
+		"unitID": 2502511,
+		"questionID": 9502510,
+		"script": "\n;;高橋李依\n# se \"SE_0734\"\n# select \"高橋李依\" \"select_label_1\" \"雨宮天\" \"select_label_2\" \"茅野愛衣\" \"select_label_3\"\nめぐみんの声優は誰？\n"
+	}
+]

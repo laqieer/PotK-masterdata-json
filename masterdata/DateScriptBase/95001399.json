@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 95001399,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# se \"SE_0732\"\n# voice 5001 \"keraunosu_0020\"\n@ケラウノス\nわかってらっしゃる～♪\n私とマスターの仲だし\nあったりまえか～\n\n# voice 5001 \"keraunosu_0031\"\n# face %(unit_a)s \"normal\"\n@ケラウノス\n…とは言っても\nちょっとはナンパ控えないとかな\n\n# voice 5001 \"keraunosu_0003\"\n# face %(unit_a)s \"smile\"\n@ケラウノス\nちゃんと一途なとこ…\n証明しないとね♪\n\n# textflame 0 0\n@\n満面の笑顔を\n浮かべる彼女を見て…\n\n# textflame 0 0\n@\nマスターは彼女との絆が\nまた深まったのを実感した…\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

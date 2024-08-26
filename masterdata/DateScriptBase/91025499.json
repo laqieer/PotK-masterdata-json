@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 91025499,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# se \"SE_0732\"\n# voice 1025 \"muramasa_0032\"\n@ムラマサ\nはい、正解です\n\n# voice 1025 \"muramasa_0004\"\n@ムラマサ\n嬉しいです、拙者のこと…\nよく見てくれてい…\n\n# face %(unit_a)s \"sad\"\n# voice 1025 \"muramasa_0023\"\n@ムラマサ\nきゃっ！！\n\n@\nつまずき倒れそうになった彼女を\n支えるマスター\n\n# voice 1025 \"muramasa_0031\"\n@ムラマサ\nす、すみません！\nあぁ…最後の最後まで\nこんなドジ…\n\n# voice 1025 \"muramasa_0042\"\n@ムラマサ\nあ、あの…主君？\nいつまで触ってるんですか!?\n\n# face %(unit_a)s \"angry\"\n# voice 1025 \"muramasa_0012\"\n@ムラマサ\nダ、ダメです！\nこれではまるで…まるで…\n\n# face %(unit_a)s \"normal\"\n# textflame 0 0\n@\n真っ赤な顔で\n離れる姿がいじらしい\n\n@\nマスターは、二人の\n心の距離がさらに近づいたのを\n実感していた…\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

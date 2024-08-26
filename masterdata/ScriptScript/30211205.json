@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 30211205,
+		"script": "# script \"lisp\"\n# background \"desert_hill\"\n# bgm \"bgm001\" 0\n# textboxarrow 0 2\n# body 601411\n# mask 601411 off\n# pos 601411 3\n# face 601411 \"normal\"\n# textflame 0 0\n@\n照りつける太陽…\n喉を焼かれるような大気…\n灼熱の砂漠を進むマスターとプタハ\n\n# voice 6014 \"ptah_0002\"\n# face 601411 \"surprise\"\n# textflame 1 1\n@プタハ\nもし…大丈夫か、マスター？\n少し休むか？\n\n# textflame 0 0\n@\n平気だと言ってみせるマスター\n\n@\n…が、街へ買い出しに行く途中に\nまさかこんな砂漠地帯があろうとは…\nと本当は心が滅入っている\n\n# voice 6014 \"ptah_0005\"\n# textflame 1 1\n# face 601411 \"normal\"\n@プタハ\n無理をせずともよい\n休める時に休むのも大事だぞ\n\n# textflame 0 0\n@\nうぅ…砂漠に入ろうとした時、\n危険だからと止めてくれて…\n\n@\nしかも入ってから、案の定\n暑さにやられる僕に文句どころか\n優しい言葉をかけてくれるとは…\n\n@\nあぁ…彼女は女神だ…\nマスターが涙を流す\n\n# textflame 1 1\n# face 601411 \"mad\"\n@プタハ\n何をしておる、勿体ない！\n体から余計な水分を出すでない\n干からびてしまうぞ\n\n# voice 6014 \"ptah_0010\"\n# face 601411 \"normal\"\n@プタハ\n…ほら、水を飲め\nあまり残っておらんから\n大事にな\n\n# textflame 0 0\n@\nとマスターに、\n水筒を手渡してくれる彼女\n\n# voice 6014 \"ptah_0009\"\n# textflame 1 1\n@プタハ\nしかし、先はまだ少し\nありそうだな…\n\n@プタハ\n本当に、今のうちに\n少し休んだ方がいい\n\n# textflame 0 0\n@\nいや、まだ大丈夫と\n強がるマスターに\n\n# voice 6014 \"ptah_0028\"\n# textflame 1 1\n@プタハ\n夜が来る前に…\n一気に砂漠を越えたいのだ\nさもないと…\n\n@プタハ\n# face 601411 \"mad\"\nとんでもないことに\nなってしまうからな…\n\n# textflame 0 0\n@\nとんでもないこと…？\nいつも優しい彼女の目が、\n険しくなった"
+	}
+]

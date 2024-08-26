@@ -1,0 +1,26 @@
+[
+	{
+		"ID": 23,
+		"unitID": 2401011,
+		"scriptID": "kaerimichi",
+		"script": "マ、マスター！\nあの、もう少しだけ一緒に…\n\n# textflame 0 0\n@\nアバリスの方を向き、\n首を縦に振る\n\n# textflame 1 1\n@アバリス\nありがとうございます…\nって、私はこっちです！"
+	},
+	{
+		"ID": 50,
+		"unitID": 2401011,
+		"scriptID": "kaeru",
+		"script": "マスター\nそろそろ帰りませんか？\n\nマスター…？\n\n# textflame 0 0\n@\nアバリスに気づかず\n帰ってしまうマスターだった"
+	},
+	{
+		"ID": 77,
+		"unitID": 2401011,
+		"scriptID": "kaeru_ok",
+		"script": "@%(unitName:unit_a)s\n地味な私で良ければ…\nマスターの隣にいさせてください…"
+	},
+	{
+		"ID": 104,
+		"unitID": 2401011,
+		"scriptID": "kaeru_ng",
+		"script": "@%(unitName:unit_a)s\nごめんなさい、マスター\n今日は帰ります…\n\n# textflame 0 0\n@\nじゃあ、帰ろう\nと言い、マスターは\nアバリスと帰路へ…\n\n# textflame 1 1\n@アバリス\nって、あれ？\nマスター！？どこ行くんですか！\n私、こっちです！"
+	}
+]

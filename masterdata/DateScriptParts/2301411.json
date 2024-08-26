@@ -1,0 +1,26 @@
+[
+	{
+		"ID": 171,
+		"unitID": 2301411,
+		"scriptID": "kaerimichi",
+		"script": "@イシューリエル\nこのまま帰るのは味気ないですわね\nもう少し一緒にいても\nよいかしら？\n\n# textflame 0 0\n@\nイシューリエルにそう誘われ\nマスターは頷く\n\n# textflame 1 1\n@イシューリエル\nマスターもまだ私と一緒に\n居たかったということですね！\nこれぞトゥルース！"
+	},
+	{
+		"ID": 185,
+		"unitID": 2301411,
+		"scriptID": "kaeru",
+		"script": "そろそろ帰りましょうか\nお家でカエルさんが\n待っていますの"
+	},
+	{
+		"ID": 199,
+		"unitID": 2301411,
+		"scriptID": "kaeru_ok",
+		"script": "@%(unitName:unit_a)s\nこれぞトゥルース！！\nマスター、楽しみにしていますわよ"
+	},
+	{
+		"ID": 213,
+		"unitID": 2301411,
+		"scriptID": "kaeru_ng",
+		"script": "@%(unitName:unit_a)s\n今日はカエルさんと\n遊ばなきゃいけませんの\nごめんなさい…"
+	}
+]

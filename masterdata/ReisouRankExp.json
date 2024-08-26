@@ -1,0 +1,695 @@
+[
+	{
+		"ID": 1,
+		"level": 1,
+		"from_exp": 0,
+		"to_exp": 32,
+		"sell_compensate": 1.0
+	},
+	{
+		"ID": 2,
+		"level": 2,
+		"from_exp": 33,
+		"to_exp": 65,
+		"sell_compensate": 2.0
+	},
+	{
+		"ID": 3,
+		"level": 3,
+		"from_exp": 66,
+		"to_exp": 130,
+		"sell_compensate": 3.0
+	},
+	{
+		"ID": 4,
+		"level": 4,
+		"from_exp": 131,
+		"to_exp": 227,
+		"sell_compensate": 4.0
+	},
+	{
+		"ID": 5,
+		"level": 5,
+		"from_exp": 228,
+		"to_exp": 356,
+		"sell_compensate": 5.0
+	},
+	{
+		"ID": 6,
+		"level": 6,
+		"from_exp": 357,
+		"to_exp": 517,
+		"sell_compensate": 6.0
+	},
+	{
+		"ID": 7,
+		"level": 7,
+		"from_exp": 518,
+		"to_exp": 710,
+		"sell_compensate": 7.0
+	},
+	{
+		"ID": 8,
+		"level": 8,
+		"from_exp": 711,
+		"to_exp": 935,
+		"sell_compensate": 8.0
+	},
+	{
+		"ID": 9,
+		"level": 9,
+		"from_exp": 936,
+		"to_exp": 1192,
+		"sell_compensate": 9.0
+	},
+	{
+		"ID": 10,
+		"level": 10,
+		"from_exp": 1193,
+		"to_exp": 1481,
+		"sell_compensate": 10.0
+	},
+	{
+		"ID": 11,
+		"level": 11,
+		"from_exp": 1482,
+		"to_exp": 1802,
+		"sell_compensate": 11.0
+	},
+	{
+		"ID": 12,
+		"level": 12,
+		"from_exp": 1803,
+		"to_exp": 2123,
+		"sell_compensate": 12.0
+	},
+	{
+		"ID": 13,
+		"level": 13,
+		"from_exp": 2124,
+		"to_exp": 2444,
+		"sell_compensate": 13.0
+	},
+	{
+		"ID": 14,
+		"level": 14,
+		"from_exp": 2445,
+		"to_exp": 2797,
+		"sell_compensate": 14.0
+	},
+	{
+		"ID": 15,
+		"level": 15,
+		"from_exp": 2798,
+		"to_exp": 3182,
+		"sell_compensate": 15.0
+	},
+	{
+		"ID": 16,
+		"level": 16,
+		"from_exp": 3183,
+		"to_exp": 3599,
+		"sell_compensate": 16.0
+	},
+	{
+		"ID": 17,
+		"level": 17,
+		"from_exp": 3600,
+		"to_exp": 4048,
+		"sell_compensate": 17.0
+	},
+	{
+		"ID": 18,
+		"level": 18,
+		"from_exp": 4049,
+		"to_exp": 4529,
+		"sell_compensate": 18.0
+	},
+	{
+		"ID": 19,
+		"level": 19,
+		"from_exp": 4530,
+		"to_exp": 5042,
+		"sell_compensate": 19.0
+	},
+	{
+		"ID": 20,
+		"level": 20,
+		"from_exp": 5043,
+		"to_exp": 5587,
+		"sell_compensate": 20.0
+	},
+	{
+		"ID": 21,
+		"level": 21,
+		"from_exp": 5588,
+		"to_exp": 6164,
+		"sell_compensate": 21.0
+	},
+	{
+		"ID": 22,
+		"level": 22,
+		"from_exp": 6165,
+		"to_exp": 6773,
+		"sell_compensate": 22.0
+	},
+	{
+		"ID": 23,
+		"level": 23,
+		"from_exp": 6774,
+		"to_exp": 7414,
+		"sell_compensate": 23.0
+	},
+	{
+		"ID": 24,
+		"level": 24,
+		"from_exp": 7415,
+		"to_exp": 8087,
+		"sell_compensate": 24.0
+	},
+	{
+		"ID": 25,
+		"level": 25,
+		"from_exp": 8088,
+		"to_exp": 8792,
+		"sell_compensate": 25.0
+	},
+	{
+		"ID": 26,
+		"level": 26,
+		"from_exp": 8793,
+		"to_exp": 9529,
+		"sell_compensate": 26.0
+	},
+	{
+		"ID": 27,
+		"level": 27,
+		"from_exp": 9530,
+		"to_exp": 10298,
+		"sell_compensate": 27.0
+	},
+	{
+		"ID": 28,
+		"level": 28,
+		"from_exp": 10299,
+		"to_exp": 11099,
+		"sell_compensate": 28.0
+	},
+	{
+		"ID": 29,
+		"level": 29,
+		"from_exp": 11100,
+		"to_exp": 11932,
+		"sell_compensate": 29.0
+	},
+	{
+		"ID": 30,
+		"level": 30,
+		"from_exp": 11933,
+		"to_exp": 12797,
+		"sell_compensate": 30.0
+	},
+	{
+		"ID": 31,
+		"level": 31,
+		"from_exp": 12798,
+		"to_exp": 13694,
+		"sell_compensate": 31.0
+	},
+	{
+		"ID": 32,
+		"level": 32,
+		"from_exp": 13695,
+		"to_exp": 14623,
+		"sell_compensate": 32.0
+	},
+	{
+		"ID": 33,
+		"level": 33,
+		"from_exp": 14624,
+		"to_exp": 15584,
+		"sell_compensate": 33.0
+	},
+	{
+		"ID": 34,
+		"level": 34,
+		"from_exp": 15585,
+		"to_exp": 16577,
+		"sell_compensate": 34.0
+	},
+	{
+		"ID": 35,
+		"level": 35,
+		"from_exp": 16578,
+		"to_exp": 17602,
+		"sell_compensate": 35.0
+	},
+	{
+		"ID": 36,
+		"level": 36,
+		"from_exp": 17603,
+		"to_exp": 18659,
+		"sell_compensate": 36.0
+	},
+	{
+		"ID": 37,
+		"level": 37,
+		"from_exp": 18660,
+		"to_exp": 19748,
+		"sell_compensate": 37.0
+	},
+	{
+		"ID": 38,
+		"level": 38,
+		"from_exp": 19749,
+		"to_exp": 20869,
+		"sell_compensate": 38.0
+	},
+	{
+		"ID": 39,
+		"level": 39,
+		"from_exp": 20870,
+		"to_exp": 22022,
+		"sell_compensate": 39.0
+	},
+	{
+		"ID": 40,
+		"level": 40,
+		"from_exp": 22023,
+		"to_exp": 23207,
+		"sell_compensate": 40.0
+	},
+	{
+		"ID": 41,
+		"level": 41,
+		"from_exp": 23208,
+		"to_exp": 24424,
+		"sell_compensate": 41.0
+	},
+	{
+		"ID": 42,
+		"level": 42,
+		"from_exp": 24425,
+		"to_exp": 25641,
+		"sell_compensate": 42.0
+	},
+	{
+		"ID": 43,
+		"level": 43,
+		"from_exp": 25642,
+		"to_exp": 26890,
+		"sell_compensate": 43.0
+	},
+	{
+		"ID": 44,
+		"level": 44,
+		"from_exp": 26891,
+		"to_exp": 28171,
+		"sell_compensate": 44.0
+	},
+	{
+		"ID": 45,
+		"level": 45,
+		"from_exp": 28172,
+		"to_exp": 29484,
+		"sell_compensate": 45.0
+	},
+	{
+		"ID": 46,
+		"level": 46,
+		"from_exp": 29485,
+		"to_exp": 30829,
+		"sell_compensate": 46.0
+	},
+	{
+		"ID": 47,
+		"level": 47,
+		"from_exp": 30830,
+		"to_exp": 32206,
+		"sell_compensate": 47.0
+	},
+	{
+		"ID": 48,
+		"level": 48,
+		"from_exp": 32207,
+		"to_exp": 33615,
+		"sell_compensate": 48.0
+	},
+	{
+		"ID": 49,
+		"level": 49,
+		"from_exp": 33616,
+		"to_exp": 35056,
+		"sell_compensate": 49.0
+	},
+	{
+		"ID": 50,
+		"level": 50,
+		"from_exp": 35057,
+		"to_exp": 36529,
+		"sell_compensate": 50.0
+	},
+	{
+		"ID": 51,
+		"level": 51,
+		"from_exp": 36530,
+		"to_exp": 38034,
+		"sell_compensate": 51.0
+	},
+	{
+		"ID": 52,
+		"level": 52,
+		"from_exp": 38035,
+		"to_exp": 39571,
+		"sell_compensate": 52.0
+	},
+	{
+		"ID": 53,
+		"level": 53,
+		"from_exp": 39572,
+		"to_exp": 41140,
+		"sell_compensate": 53.0
+	},
+	{
+		"ID": 54,
+		"level": 54,
+		"from_exp": 41141,
+		"to_exp": 42741,
+		"sell_compensate": 54.0
+	},
+	{
+		"ID": 55,
+		"level": 55,
+		"from_exp": 42742,
+		"to_exp": 44374,
+		"sell_compensate": 55.0
+	},
+	{
+		"ID": 56,
+		"level": 56,
+		"from_exp": 44375,
+		"to_exp": 46039,
+		"sell_compensate": 56.0
+	},
+	{
+		"ID": 57,
+		"level": 57,
+		"from_exp": 46040,
+		"to_exp": 47736,
+		"sell_compensate": 57.0
+	},
+	{
+		"ID": 58,
+		"level": 58,
+		"from_exp": 47737,
+		"to_exp": 49465,
+		"sell_compensate": 58.0
+	},
+	{
+		"ID": 59,
+		"level": 59,
+		"from_exp": 49466,
+		"to_exp": 51226,
+		"sell_compensate": 59.0
+	},
+	{
+		"ID": 60,
+		"level": 60,
+		"from_exp": 51227,
+		"to_exp": 53019,
+		"sell_compensate": 60.0
+	},
+	{
+		"ID": 61,
+		"level": 61,
+		"from_exp": 53020,
+		"to_exp": 54844,
+		"sell_compensate": 61.0
+	},
+	{
+		"ID": 62,
+		"level": 62,
+		"from_exp": 54845,
+		"to_exp": 56701,
+		"sell_compensate": 62.0
+	},
+	{
+		"ID": 63,
+		"level": 63,
+		"from_exp": 56702,
+		"to_exp": 58590,
+		"sell_compensate": 63.0
+	},
+	{
+		"ID": 64,
+		"level": 64,
+		"from_exp": 58591,
+		"to_exp": 60511,
+		"sell_compensate": 64.0
+	},
+	{
+		"ID": 65,
+		"level": 65,
+		"from_exp": 60512,
+		"to_exp": 62464,
+		"sell_compensate": 65.0
+	},
+	{
+		"ID": 66,
+		"level": 66,
+		"from_exp": 62465,
+		"to_exp": 64449,
+		"sell_compensate": 66.0
+	},
+	{
+		"ID": 67,
+		"level": 67,
+		"from_exp": 64450,
+		"to_exp": 66466,
+		"sell_compensate": 67.0
+	},
+	{
+		"ID": 68,
+		"level": 68,
+		"from_exp": 66467,
+		"to_exp": 68515,
+		"sell_compensate": 68.0
+	},
+	{
+		"ID": 69,
+		"level": 69,
+		"from_exp": 68516,
+		"to_exp": 70596,
+		"sell_compensate": 69.0
+	},
+	{
+		"ID": 70,
+		"level": 70,
+		"from_exp": 70597,
+		"to_exp": 72709,
+		"sell_compensate": 70.0
+	},
+	{
+		"ID": 71,
+		"level": 71,
+		"from_exp": 72710,
+		"to_exp": 74854,
+		"sell_compensate": 71.0
+	},
+	{
+		"ID": 72,
+		"level": 72,
+		"from_exp": 74855,
+		"to_exp": 77031,
+		"sell_compensate": 72.0
+	},
+	{
+		"ID": 73,
+		"level": 73,
+		"from_exp": 77032,
+		"to_exp": 79240,
+		"sell_compensate": 73.0
+	},
+	{
+		"ID": 74,
+		"level": 74,
+		"from_exp": 79241,
+		"to_exp": 81481,
+		"sell_compensate": 74.0
+	},
+	{
+		"ID": 75,
+		"level": 75,
+		"from_exp": 81482,
+		"to_exp": 83754,
+		"sell_compensate": 75.0
+	},
+	{
+		"ID": 76,
+		"level": 76,
+		"from_exp": 83755,
+		"to_exp": 86059,
+		"sell_compensate": 76.0
+	},
+	{
+		"ID": 77,
+		"level": 77,
+		"from_exp": 86060,
+		"to_exp": 88396,
+		"sell_compensate": 77.0
+	},
+	{
+		"ID": 78,
+		"level": 78,
+		"from_exp": 88397,
+		"to_exp": 90765,
+		"sell_compensate": 78.0
+	},
+	{
+		"ID": 79,
+		"level": 79,
+		"from_exp": 90766,
+		"to_exp": 93166,
+		"sell_compensate": 79.0
+	},
+	{
+		"ID": 80,
+		"level": 80,
+		"from_exp": 93167,
+		"to_exp": 95599,
+		"sell_compensate": 80.0
+	},
+	{
+		"ID": 81,
+		"level": 81,
+		"from_exp": 95600,
+		"to_exp": 98064,
+		"sell_compensate": 81.0
+	},
+	{
+		"ID": 82,
+		"level": 82,
+		"from_exp": 98065,
+		"to_exp": 100561,
+		"sell_compensate": 82.0
+	},
+	{
+		"ID": 83,
+		"level": 83,
+		"from_exp": 100562,
+		"to_exp": 103090,
+		"sell_compensate": 83.0
+	},
+	{
+		"ID": 84,
+		"level": 84,
+		"from_exp": 103091,
+		"to_exp": 105651,
+		"sell_compensate": 84.0
+	},
+	{
+		"ID": 85,
+		"level": 85,
+		"from_exp": 105652,
+		"to_exp": 108244,
+		"sell_compensate": 85.0
+	},
+	{
+		"ID": 86,
+		"level": 86,
+		"from_exp": 108245,
+		"to_exp": 110869,
+		"sell_compensate": 86.0
+	},
+	{
+		"ID": 87,
+		"level": 87,
+		"from_exp": 110870,
+		"to_exp": 113526,
+		"sell_compensate": 87.0
+	},
+	{
+		"ID": 88,
+		"level": 88,
+		"from_exp": 113527,
+		"to_exp": 116215,
+		"sell_compensate": 88.0
+	},
+	{
+		"ID": 89,
+		"level": 89,
+		"from_exp": 116216,
+		"to_exp": 118936,
+		"sell_compensate": 89.0
+	},
+	{
+		"ID": 90,
+		"level": 90,
+		"from_exp": 118937,
+		"to_exp": 121689,
+		"sell_compensate": 90.0
+	},
+	{
+		"ID": 91,
+		"level": 91,
+		"from_exp": 121690,
+		"to_exp": 124474,
+		"sell_compensate": 91.0
+	},
+	{
+		"ID": 92,
+		"level": 92,
+		"from_exp": 124475,
+		"to_exp": 127291,
+		"sell_compensate": 92.0
+	},
+	{
+		"ID": 93,
+		"level": 93,
+		"from_exp": 127292,
+		"to_exp": 130140,
+		"sell_compensate": 93.0
+	},
+	{
+		"ID": 94,
+		"level": 94,
+		"from_exp": 130141,
+		"to_exp": 133021,
+		"sell_compensate": 94.0
+	},
+	{
+		"ID": 95,
+		"level": 95,
+		"from_exp": 133022,
+		"to_exp": 135934,
+		"sell_compensate": 95.0
+	},
+	{
+		"ID": 96,
+		"level": 96,
+		"from_exp": 135935,
+		"to_exp": 138879,
+		"sell_compensate": 96.0
+	},
+	{
+		"ID": 97,
+		"level": 97,
+		"from_exp": 138880,
+		"to_exp": 141856,
+		"sell_compensate": 97.0
+	},
+	{
+		"ID": 98,
+		"level": 98,
+		"from_exp": 141857,
+		"to_exp": 144865,
+		"sell_compensate": 98.0
+	},
+	{
+		"ID": 99,
+		"level": 99,
+		"from_exp": 144866,
+		"to_exp": 147906,
+		"sell_compensate": 99.0
+	}
+]

@@ -1,0 +1,26 @@
+[
+	{
+		"ID": 353,
+		"unitID": 2103411,
+		"scriptID": "kaerimichi",
+		"script": "マスター\nもう少しだけ付き合ってくれないか？"
+	},
+	{
+		"ID": 354,
+		"unitID": 2103411,
+		"scriptID": "kaeru_ok",
+		"script": "@%(unitName:unit_a)s\nよかった\n私もマスターと\n遊び足りないと思っていたのだ"
+	},
+	{
+		"ID": 355,
+		"unitID": 2103411,
+		"scriptID": "kaeru",
+		"script": "楽しかったな\nまた一緒に来よう"
+	},
+	{
+		"ID": 356,
+		"unitID": 2103411,
+		"scriptID": "kaeru_ng",
+		"script": "@%(unitName:unit_a)s\nすまない\nこのあと島の探索にいく予定なのだ\n強敵がいるかもしれないからな"
+	}
+]

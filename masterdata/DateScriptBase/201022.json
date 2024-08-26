@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 201022,
+		"script": ";;C つまりこれからは一緒に…？ (大)\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_onsen\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# voice 2010 \"ukonbasara_0001\"\n# face %(unit_a)s \"sad\"\n@ウコンバサラ\n…キミは、そうして欲しい？\n\n@ウコンバサラ\n私としては毎日だとさすがに…\n心臓が張り裂けそうな気がするよ\n\n@ウコンバサラ\nでも、\nキミがそうして欲しいと\n望むのなら…\n\n# voice 2010 \"ukonbasara_0022\"\n# face %(unit_a)s \"angry\"\n@ウコンバサラ\n…ッ！\nこ、この話は少しの間、\n保留という事にしてくれないかな！？\n\n# face %(unit_a)s \"sad\"\n@ウコンバサラ\n今回のは、その、どんな時でも\nキミを守るっていう\n意思表示っていうか…\n\n@ウコンバサラ\nそこまで\n考えてなかったというか…\n\n# voice 2010 \"ukonbasara_0008\"\n@ウコンバサラ\nそんな、感じ、なので…うん\n今日のところは、これでなんとか…\n\n# textflame 0 0\n@\nすぐ横にウコンバサラの\n体温を感じながら、\nのぼせるまで湯につかっていた…\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

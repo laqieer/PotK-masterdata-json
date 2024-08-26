@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 3100221,
+		"script": ";;中A乗り心地はどう？\n;;小Bムーの相手が大変だね\n;;大C遠回りしようか\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_drive\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# face %(unit_a)s \"usual\"\n# textflame 0 0\n@\nレーヴァテインとデートした\n帰り道をドライブ中のマスター\n\n# voice 210023 \"revatein_ge_0004\"\n# face %(unit_a)s \"normal\"\n# textflame 1 1\n@レーヴァテイン\nふぅ…ありがとマスター\n今日は楽しかった\n\n@レーヴァテイン\nこうして過ぎていく景色みたいに\n楽しい時間も、あっという間\n\n@レーヴァテイン\nなんだかとても\n名残惜しい気分かも…\n\n# voice 210023 \"revatein_ge_0002\"\n@レーヴァテイン\nねえマスター\nもう少しだけでいいから\n一緒にドライブしよう？\n\n@レーヴァテイン\n帰りが遅くなっても\n私は構わないからさ\n\n# select \"乗り心地はどう？\" \"select_label_01\" \"ムーの相手が大変だね\" \"select_label_02\" \"遠回りしようか\" \"select_label_03\"\n帰りが遅くなっても\n私は構わないからさ\n\n# label \"select_label_01\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_02\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_03\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# textflame 1 1\n# waitandnext 0.1\n\n# label \"select_label_end\"\n# waitandnext 2\n# fadeout \"black\" 1.2\n"
+	}
+]

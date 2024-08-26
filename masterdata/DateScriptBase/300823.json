@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 300823,
+		"script": "# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_fireworks\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# face %(unit_a)s \"angry\"\n@グングニル\nそなたは…\n滅びを肯定するのか？\n\n# textflame 0 0\n@\n滅びたいわけではない\nでも自分の力はとても小さい\n避けられないこともあるだろう\n\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 3008 \"gunguniru_0007\"\n@グングニル\nそうだな…\n歴史の力の前では\n人はあまりにも無力だ\n\n# textflame 1 1\n@グングニル\nだが我は知っている\n自分ではなにもできないという\nそなたの本当の偉大さを…\n\n# textflame 0 0\n@\n一際大きな花火が\nグングニル越しに見える空で\n美しく弾けて消えた――\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

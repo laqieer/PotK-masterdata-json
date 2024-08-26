@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 30185201,
+		"script": ";;EP1は制服ver. 浴衣はEP2から\n# script \"lisp\"\n# background \"festival_evening\"\n# bgm \"bgm003\" 0\n# textboxarrow 0 2\n# body 51\n# mask 51 off\n# pos 51 3\n# voice 3018 \"forcas_0003\"\n# textflame 1 1\n# chara 51\n@フォルカス\n縁日…か\nマスターが行きたいなら\n付き合います\n\n# textflame 0 0\n@\nマスターはフォルカスから\n休日に勉強を\n教えてもらっていた\n\n@\nその御礼にと、\nフォルカスを誘ったのだが…\n\n@\nもしかしたらあまり乗り気では\nないのかもしれない\nそんな不安がよぎる\n\n# textflame 1 1\n# chara 51\n# voice 3018 \"forcas_kyara_1018\"\n@フォルカス\nあ、いや…\n他に行きたいところが\nあるわけじゃなくてですね…\n\n# textflame 0 0\n@\nフォルカスは真面目で\nいい子なのだが\n人に合わせるところがある\n\n@\nたまには自分のために\n楽しんでもいいのではないか\nマスターはそう思っていた\n\n# textflame 1 1\n# chara 51\n@フォルカス\nところで…縁日に行くだけなら\nわざわざ浴衣に着替えなくても\nいいんじゃないですか？\n\n# chara 51\n# face 51 \"sad\"\n@フォルカス\nいや、浴衣を着るのが\n嫌なわけじゃなくて…\n\n# chara 51\n# face 51 \"normal\"\n@フォルカス\nでも時間がかかっちゃうし\nその間、待ってもらうのも…\n\n# textflame 0 0\n@\nせっかく縁日に行くんだから\n浴衣でないと雰囲気がでないと\nマスターは力説する\n\n# textflame 1 1\n# voice 3018 \"forcas_0022\"\n# face 51 \"surprise\"\n# chara 51\n@フォルカス\nそ、そんなに縁日にこだわりが！？\nうーん…でも…\n\n# textflame 0 0\n@\nまだ押しが弱い…！\n恥ずかしがっていないで\nここは本音を言わねば！\n\n# textflame 1 1\n# voice 3018 \"forcas_0042\"\n# face 51 \"shy\"\n# chara 51\n@フォルカス\nわ、私の浴衣姿が見たい！？\n……それは\nどういう意味ですか！\n\n# textflame 0 0\n@\nなぜか怒ったように\n顔を真っ赤にするフォルカス\n\n@\nぶつぶつ文句を言っていたが\n結局、最後には折れて\n浴衣を着ると約束してくれた"
+	}
+]

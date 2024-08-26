@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 291014199,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# se \"SE_0732\"\n# voice 210142 \"tyrufing_k_0004\"\n@ティルフィング\nさすがですね\n正直、簡単に答えられるとは\n思っていませんでした\n\n@ティルフィング\nですが、\nそれだけ私を知っている、\nということですよね？\n\n# voice 210142 \"tyrufing_k_0005\"\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n@ティルフィング\nふふっ…\n不思議と悪くない気分です\n\n@ティルフィング\nさあ、早く帰りましょう\nその間、マスターのことを\n教えてください\n\n# textflame 0 0\n@\n楽しげに笑うティルフィングに\n急かされ帰路を急ぐ\n\n@\nそんな彼女の顔には、\n今まで見たことがないほどの\n柔らかな笑みが浮かんでいた…\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

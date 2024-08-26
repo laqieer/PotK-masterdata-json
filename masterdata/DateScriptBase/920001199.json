@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 920001199,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# se \"SE_0732\"\n# textflame 1 1\n# face %(unit_a)s \"shy\"\n@イージス\nその答え…\n\n# voice 5200011 \"aegis_c_0032\"\n@イージス\n正解だ\n\n@イージス\nまあ、これくらいは\n分かって当然だな\n\n@イージス\n…なんだ？\n\n# face %(unit_a)s \"sad\"\n# voice 5200011 \"aegis_c_0023\"\n@イージス\nに、にやけてなどいない！\nにゃにを言っているんだ…！\n\n# textflame 0 0\n@\n口ではそう言いながら、\n明らかに嬉しそうなイージス\n\n@\nマスターもまた、\n彼女との距離が近くなったことを\n嬉しく思うのだった…\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

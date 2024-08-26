@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 200411,
+		"script": ";;A 緊張してる？ (中当たり)\n;;B 普通のお店と変わらないよ (大当たり)\n;;C ちょっと早かったかな… (小当たり)\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background %(background)s\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# face %(unit_a)s \"usual\"\n# textflame 0 0\n@\n街のカフェにやって来た\nマスターとパラシュ\n\n# face %(unit_a)s \"sad\"\n# voice 2004 \"parashu_0021\"\n# textflame 1 1\n@パラシュ\nこ、これが…\nいま流行のカフェ…？\n\n# face %(unit_a)s \"usual\"\n# voice 2004 \"parashu_0001\"\n# textflame 1 1\n@パラシュ\nこういう場所では、\nどのように振る舞うのが…\n理想なんだろう…\n\n# select \"緊張してる？\" \"select_label_01\" \"普通のお店と変わらないよ\" \"select_label_02\" \"ちょっと早かったかな…\" \"select_label_03\"\nこういう場所では、\nどのように振る舞うのが…\n理想なんだろう…\n\n# label \"select_label_01\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_02\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_03\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_end\"\n# waitandnext 0.1\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

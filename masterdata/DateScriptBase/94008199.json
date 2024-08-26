@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 94008199,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# se \"SE_0732\"\n# voice 4008 \"otyinusu_0021\"\n@オティヌス\n正解！\nさすがだね！\n\n# face %(unit_a)s \"usual\"\n@オティヌス\nなんて言うか、\nマスターってさ…\n\n@オティヌス\n見た目じゃなくて、いつも\nちゃんとあたしの中身を\n見てくれてるよね？\n\n@オティヌス\nそういうのって、\nやっぱ…\n\n# face %(unit_a)s \"usual\"\n# voice 4008 \"otyinusu_0005\"\n@オティヌス\nすっげー嬉しいよ♪\n\n# voice 4008 \"otyinusu_0006\"\n@オティヌス\nあ、正解してくれたし\nなんか食べていく!?\nおごっちゃうよ？\n\n# textflame 0 0\n@\nと、笑う彼女は\nとてもキラキラと輝いていて…\n\n@\nマスターは二人の絆が\nまた深まったのを実感した…\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

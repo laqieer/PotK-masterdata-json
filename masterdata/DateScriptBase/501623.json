@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 501623,
+		"script": ";;A中あたり\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_fireworks\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# voice 5016 \"Flabellum_0006\"\n# face %(unit_a)s \"smile\"\n@フラベルム\nええ…気に入りましたわ\n癪ですがあなたに感謝しなければ\nならないのでしょうね\n\n# textflame 0 0\n@\n言葉こそ皮肉だが、その声音に\nマスターは純粋な感謝の念しか\n感じられなかった\n\n# voice 5016 \"Flabellum_0003\"\n# face %(unit_a)s \"normal\"\n# textflame 1 1\n@フラベルム\nもっと高所から…\n上空からも見てみたいですわね\n\n# textflame 0 0\n@\n少しだけ残念そうな彼女に\nマスターは横に首を振る\n\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n# voice 5016 \"Flabellum_0004\"\n@フラベルム\nふふ…そこまでは凡愚たるあなたに\n期待してはおりませんので\n\n@フラベルム\nそれに、これ以上を望むのは\n欲…けがれになってしまいます\n\n# textflame 0 0\n@\n花火の閃光に照らされた顔が\nどこか寂しそうに見えた\n\n@\n欲のすべてが、けがれではない\n美しいものを見たいと思うのは\n純粋で綺麗な想いだ\n\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n# voice 5016 \"Flabellum_0022\"\n@フラベルム\n…！？\n明日は天変地異でも\n起こるのでしょうか？\n\n# face %(unit_a)s \"smile\"\n# voice 5016 \"Flabellum_0005\"\n@フラベルム\n心の有り様に、けがれに\nあなたから教わるなんて…\n忘れられない一日になりそうです\n\n# textflame 0 0\n@\nその直後、フラベルムの\n心からの笑顔が、花火のように\n一瞬だけ花開いたのだった\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 920001398,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# se \"SE_0733\"\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n@イージス\nその答え…\n\n# eye %(unit_a)s \"close\"\n@イージス\n不正解だ\n\n# textflame 0 0\n@\nシュンとする彼女\n\n# textflame 1 1\n# eye %(unit_a)s \"normal\"\n# voice 5200011 \"aegis_c_0013\"\n@イージス\nえっと…\n不正解の時の台本は……\n\n@イージス\n『…ひどい、こんなの。私のこと、\nもっと知ってもらいたいのに…』\n\n@イージス\n『ねぇ、間違ったお詫びに、\n今日は朝まで、ずっと……』\n\n@イージス\n………\n\n# textflame 0 0\n@\nそこまで読み上げて、\n顔を赤く染める彼女\n\n# textflame 1 1\n# face %(unit_a)s \"angry\"\n# voice 5200011 \"aegis_c_0012\"\n@イージス\n…これ以上は読めん！\n私はあらゆる脅威を防ぐ絶対の盾！\nそれは自分自身に対してもだ！！\n\n# voice 5200011 \"aegis_c_0014\"\n@イージス\n貴様が正解していれば、\nこんなことにはならなかったのに…！\nバカッ！！\n\n# alpha %(unit_a)s 0 0.5\n# textflame 0 0\n@\n怒って帰ってしまう彼女\n\n@\nよくは分からないが、不機嫌に\nさせてしまったことを詫びようと、\nマスターはその背中を追いかけた…\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

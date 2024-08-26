@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 102612,
+		"script": "# script \"lisp\"\n# fadein \"black\" 0.5\n# background %(background)s\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# voice 1026 \"caladbolg_0001\"\n@カラドボルグ\nマスター…\n\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@カラドボルグ\nうん…いいわね、すごく…\nとても好きよ、今の言葉\n\n# textflame 0 0\n@\n虹を見つめるカラドボルグの頬が\nほんのりと赤くなっている\n\n# voice 1026 \"caladbolg_0019\"\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@カラドボルグ\nちょっと暑くなってきたわね\n脱いでもいい？\n\n# textflame 0 0\n@\nマスターは慌てて首を振る\nカラドボルグの足のストラップは\nもう半分脱げかかっていた\n\n# voice 1026 \"caladbolg_0013\"\n# textflame 1 1\n@カラドボルグ\nもう…マスターはいつになったら\n私のありのままの美しさに\n目を向けてくれるのかしら\n\n# textflame 0 0\n@\n半分すねたように\nでもあと半分はからかうように\nカラドボルグは笑った\n\n# face %(unit_a)s \"normal\"\n# textflame 1 1\n@カラドボルグ\nあなたが私の全部を\n好きになってくれたら…\n\n# voice 1026 \"caladbolg_0004\"\n# textflame 1 1\n@カラドボルグ\nいつでも虹の向こうに…\n連れ去ってくれていいからね…\n\n# textflame 0 0\n@\n虹が静かに消えてしまった後も\nそっと見つめ合う二人を\n朝日が柔らかく照らしていた――\n;;--------------------------------------\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

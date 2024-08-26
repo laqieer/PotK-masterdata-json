@@ -1,0 +1,142 @@
+[
+	{
+		"ID": 1,
+		"name": "",
+		"short_label_name": "",
+		"description": "",
+		"start_at": "2014-12-01 00:00:00"
+	},
+	{
+		"ID": 2,
+		"name": "コラボ",
+		"short_label_name": "コラボ",
+		"description": "他作品とのコラボユニット",
+		"start_at": "2016-01-01 00:00:00"
+	},
+	{
+		"ID": 3,
+		"name": "ラグナロク女学院",
+		"short_label_name": "ラグ女",
+		"description": "ラグナロク女学院の生徒",
+		"start_at": "2016-02-01 00:00:00"
+	},
+	{
+		"ID": 4,
+		"name": "聖ユグドラシル姫学院",
+		"short_label_name": "聖ユグ",
+		"description": "聖ユグドラシル姫学院に通う生徒",
+		"start_at": "2016-03-01 00:00:00"
+	},
+	{
+		"ID": 5,
+		"name": "牙克城学院",
+		"short_label_name": "しろ学",
+		"description": "牙克城学院に通う生徒",
+		"start_at": "2016-04-01 00:00:00"
+	},
+	{
+		"ID": 6,
+		"name": "先生",
+		"short_label_name": "先生",
+		"description": "ファンキル学園の先生",
+		"start_at": "2016-05-01 00:00:00"
+	},
+	{
+		"ID": 7,
+		"name": "神聖プール王国",
+		"short_label_name": "プール国",
+		"description": "海上編の神聖プール王国所属ユニット",
+		"start_at": "2017-07-01 00:00:00"
+	},
+	{
+		"ID": 8,
+		"name": "海浜ビーチ帝国",
+		"short_label_name": "ビーチ国",
+		"description": "海上編の海浜ビーチ帝国所属ユニット",
+		"start_at": "2017-08-01 00:00:00"
+	},
+	{
+		"ID": 9,
+		"name": "ジャングル連合",
+		"short_label_name": "グル連",
+		"description": "海上編のジャングル連合所属のユニット",
+		"start_at": "2017-09-01 00:00:00"
+	},
+	{
+		"ID": 10,
+		"name": "ハルモニア教皇国",
+		"short_label_name": "天使人の国",
+		"description": "新章天使人の国「ハルモニア教皇国」所属の斬ル姫",
+		"start_at": "2017-10-23 00:00:00"
+	},
+	{
+		"ID": 11,
+		"name": "ケイオスリオン帝国",
+		"short_label_name": "悪魔人の国",
+		"description": "新章悪魔人の国「ケイオスリオン帝国」所属の斬ル姫",
+		"start_at": "2017-10-23 00:00:00"
+	},
+	{
+		"ID": 12,
+		"name": "トレイセーマ共和国",
+		"short_label_name": "幻獣人の国",
+		"description": "新章幻獣人の国「トレイセーマ共和国」所属の斬ル姫",
+		"start_at": "2017-10-23 00:00:00"
+	},
+	{
+		"ID": 13,
+		"name": "ティルヘルム",
+		"short_label_name": "妖精の国",
+		"description": "新章妖精の国「ティルヘルム」所属の斬ル姫",
+		"start_at": "2017-10-23 00:00:00"
+	},
+	{
+		"ID": 14,
+		"name": "タガタメコラボ",
+		"short_label_name": "タガタメ",
+		"description": "タガタメコラボのユニット",
+		"start_at": "2017-12-07 00:00:00"
+	},
+	{
+		"ID": 15,
+		"name": "シノビナコラボ",
+		"short_label_name": "シノビナ",
+		"description": "シノビナコラボのユニット",
+		"start_at": "2017-12-07 00:00:00"
+	},
+	{
+		"ID": 16,
+		"name": "コマンドキラーズ",
+		"short_label_name": "コマンド",
+		"description": "コマンドキラーズのユニット",
+		"start_at": "2019-02-01 00:00:00"
+	},
+	{
+		"ID": 17,
+		"name": "インテグラルキラーズ",
+		"short_label_name": "インテグラル",
+		"description": "インテグラルキラーズのユニット",
+		"start_at": "2019-10-23 00:00:00"
+	},
+	{
+		"ID": 18,
+		"name": "イミテイトキラーズ",
+		"short_label_name": "イミテイト",
+		"description": "イミテイトキラーズのユニット",
+		"start_at": "2019-12-12 00:00:00"
+	},
+	{
+		"ID": 19,
+		"name": "ユグドラシル",
+		"short_label_name": "世界樹",
+		"description": "世界樹ユグドラシル所属のユニット",
+		"start_at": "2021-10-23 00:00:00"
+	},
+	{
+		"ID": 20,
+		"name": "ラグナロク大陸",
+		"short_label_name": "ラグナロク大陸",
+		"description": "ラグナロク大陸のユニット",
+		"start_at": "2021-12-01 00:00:00"
+	}
+]

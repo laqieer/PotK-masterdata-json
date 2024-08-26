@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 923018498,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# se \"SE_0733\"\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n@フォルカス\nその答え…\n\n# voice 530181 \"forcas_c_0027\"\n@フォルカス\n不正解です\n\n@フォルカス\nマスターの元にやってきて、\nマスターと一緒にいて…\n\n@フォルカス\nバイブスを超えた繋がりというものを\n感じていたつもりでしたが…\n\n@フォルカス\nそれは私の\n独りよがりだったようですね\n\n# voice 530181 \"forcas_c_0028\"\n@フォルカス\nとても寂しいです\n\n# textflame 0 0\n@\n夏の終わりは寂しい…\n\n@\nでも、それ以上に\n彼女に寂しい思いをさせたことを\n激しく後悔するマスターだった…\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

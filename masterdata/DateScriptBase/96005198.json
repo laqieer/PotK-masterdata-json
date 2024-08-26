@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 96005198,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# se \"SE_0733\"\n# face %(unit_a)s \"sad\"\n# voice 6005 \"keryukeion_0027\"\n@ケーリュケイオン\n…ふぅん、間違えちゃうんだ\n\n# textflame 1 1\n@ケーリュケイオン\nま、でも仕方ないよね\n突然クイズなんか出した私にも\n非はあるしねー\n\n# textflame 1 1\n@ケーリュケイオン\n今回は許してあげるから、\n私の優しさに感謝してよね？\n\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@ケーリュケイオン\nでも次は、正解してよね\n約束だよ！\n\n# face %(unit_a)s \"angry\"\n# textflame 1 1\n@ケーリュケイオン\n正解しないと、\nマスターの大切なモノ、\n盗んじゃうんだからね？\n\n# textflame 0 0\n@\nケーリュケイオンはそう言うが、\nきっと悲しいに違いない\n\n# textflame 0 0\n@\nもっと彼女のことを知らなくては…\nマスター失格だ！\nそう思うマスターだった\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

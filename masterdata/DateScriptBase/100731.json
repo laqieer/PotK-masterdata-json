@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 100731,
+		"script": "# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_aquarium_day\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 0 0\n@\n後日、水族館にやってきた\nマスターと%(unitName:unit_a)s\n\n@\n水槽からの青い光に包まれ\n海の中にいるかのように\n錯覚するふたり…\n\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# voice 1007 \"Arondaito_0004\"\n@%(unitName:unit_a)s\n湖で見かけた魚もいますね\nどれもかわいらしいものです\n\n# textflame 0 0\n@\n%(unitName:unit_a)sとの距離が\nより近くなった気がした。\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

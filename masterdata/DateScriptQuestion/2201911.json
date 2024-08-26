@@ -1,0 +1,302 @@
+[
+	{
+		"ID": 3251,
+		"unitID": 2201911,
+		"questionID": 9201901,
+		"script": ";;神,1\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n# voice 2019 \"chihyu_0001\"\n@シユウ\nますた～\nちょっといいか？\n\n@シユウ\nいまからシユウがしつもんをする！\nだからますた～はそれにこたえる！\n\n@シユウ\nしつもんのないようは\nすべてシユウのことについてだ\n\n# face %(unit_a)s \"normal\"\n@シユウ\nますた～なら\nぜったいにわかるはずだぞ！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nシユウのキラーズ『シユウ』は\nちゅうごくしんわにでてくる\nなんだったかな？\n\n# se \"SE_0734\"\n# select \"神\" \"select_label_1\" \"武器\" \"select_label_2\" \"皇帝\" \"select_label_3\"\nシユウのキラーズ『シユウ』は\nちゅうごくしんわにでてくる\nなんだったかな？\n"
+	},
+	{
+		"ID": 3252,
+		"unitID": 2201911,
+		"questionID": 9201902,
+		"script": ";;大戦争,2\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n# voice 2019 \"chihyu_0001\"\n@シユウ\nますた～\nちょっといいか？\n\n@シユウ\nいまからシユウがしつもんをする！\nだからますた～はそれにこたえる！\n\n@シユウ\nしつもんのないようは\nすべてシユウのことについてだ\n\n# face %(unit_a)s \"normal\"\n@シユウ\nますた～なら\nぜったいにわかるはずだぞ！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nシユウのキラーズ『シユウ』は\nてんかいのていおうである\n「こうてい」となにをしたか？\n\n# se \"SE_0734\"\n# select \"大開拓\" \"select_label_1\" \"大戦争\" \"select_label_2\" \"大革命\" \"select_label_3\"\nシユウのキラーズ『シユウ』は\nてんかいのていおうである\n「こうてい」となにをしたか？\n"
+	},
+	{
+		"ID": 3253,
+		"unitID": 2201911,
+		"questionID": 9201903,
+		"script": ";;人の身体に牛の頭,3\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n# voice 2019 \"chihyu_0001\"\n@シユウ\nますた～\nちょっといいか？\n\n@シユウ\nいまからシユウがしつもんをする！\nだからますた～はそれにこたえる！\n\n@シユウ\nしつもんのないようは\nすべてシユウのことについてだ\n\n# face %(unit_a)s \"normal\"\n@シユウ\nますた～なら\nぜったいにわかるはずだぞ！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nシユウのキラーズ『シユウ』は\nどんなからだをしていたかな？\n\n# se \"SE_0734\"\n# select \"鉄のように硬い身体\" \"select_label_1\" \"羽根の生えた牛\" \"select_label_2\" \"人の身体に牛の頭\" \"select_label_3\"\nシユウのキラーズ『シユウ』は\nどんなからだをしていたかな？\n"
+	},
+	{
+		"ID": 3254,
+		"unitID": 2201911,
+		"questionID": 9201904,
+		"script": ";;戦,1\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n# voice 2019 \"chihyu_0001\"\n@シユウ\nますた～\nちょっといいか？\n\n@シユウ\nいまからシユウがしつもんをする！\nだからますた～はそれにこたえる！\n\n@シユウ\nしつもんのないようは\nすべてシユウのことについてだ\n\n# face %(unit_a)s \"normal\"\n@シユウ\nますた～なら\nぜったいにわかるはずだぞ！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nシユウのキラーズ『シユウ』を\nみんなはなんのかみさまだって\nいっていたでしょうか？\n\n# se \"SE_0734\"\n# select \"戦\" \"select_label_1\" \"天気\" \"select_label_2\" \"動物\" \"select_label_3\"\nシユウのキラーズ『シユウ』を\nみんなはなんのかみさまだって\nいっていたでしょうか？\n"
+	},
+	{
+		"ID": 3255,
+		"unitID": 2201911,
+		"questionID": 9201905,
+		"script": ";;蚩尤,2\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n# voice 2019 \"chihyu_0001\"\n@シユウ\nますた～\nちょっといいか？\n\n@シユウ\nいまからシユウがしつもんをする！\nだからますた～はそれにこたえる！\n\n@シユウ\nしつもんのないようは\nすべてシユウのことについてだ\n\n# face %(unit_a)s \"normal\"\n@シユウ\nますた～なら\nぜったいにわかるはずだぞ！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nシユウのキラーズ『シユウ』を\nかんじにするとどれだ？\n\n# se \"SE_0734\"\n# select \"饕餮\" \"select_label_1\" \"蚩尤\" \"select_label_2\" \"檮杌\" \"select_label_3\"\nシユウのキラーズ『シユウ』を\nかんじにするとどれだ？\n"
+	},
+	{
+		"ID": 3256,
+		"unitID": 2201911,
+		"questionID": 9201906,
+		"script": ";;兵主,3\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n# voice 2019 \"chihyu_0001\"\n@シユウ\nますた～\nちょっといいか？\n\n@シユウ\nいまからシユウがしつもんをする！\nだからますた～はそれにこたえる！\n\n@シユウ\nしつもんのないようは\nすべてシユウのことについてだ\n\n# face %(unit_a)s \"normal\"\n@シユウ\nますた～なら\nぜったいにわかるはずだぞ！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nシユウのキラーズ『シユウ』は\n「○○しん」とよばれているけど\nその○○ってなんでしょうか？\n\n# se \"SE_0734\"\n# select \"勝戦\" \"select_label_1\" \"武源\" \"select_label_2\" \"兵主\" \"select_label_3\"\nシユウのキラーズ『シユウ』は\n「○○しん」とよばれているけど\nその○○ってなんでしょうか？\n"
+	},
+	{
+		"ID": 3257,
+		"unitID": 2201911,
+		"questionID": 9201907,
+		"script": ";;忌むべき大魔神,1\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n# voice 2019 \"chihyu_0001\"\n@シユウ\nますた～\nちょっといいか？\n\n@シユウ\nいまからシユウがしつもんをする！\nだからますた～はそれにこたえる！\n\n@シユウ\nしつもんのないようは\nすべてシユウのことについてだ\n\n# face %(unit_a)s \"normal\"\n@シユウ\nますた～なら\nぜったいにわかるはずだぞ！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nシユウのキラーズ『シユウ』は\nちゅうごくしんわで「○○」として\nかたられているでしょうか？\n\n# se \"SE_0734\"\n# select \"忌むべき大魔神\" \"select_label_1\" \"拝むべき大邪神\" \"select_label_2\" \"罰するべき大悪党\" \"select_label_3\"\nシユウのキラーズ『シユウ』は\nちゅうごくしんわで「○○」として\nかたられているでしょうか？\n"
+	},
+	{
+		"ID": 3258,
+		"unitID": 2201911,
+		"questionID": 9201908,
+		"script": ";;武器,2\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n# voice 2019 \"chihyu_0001\"\n@シユウ\nますた～\nちょっといいか？\n\n@シユウ\nいまからシユウがしつもんをする！\nだからますた～はそれにこたえる！\n\n@シユウ\nしつもんのないようは\nすべてシユウのことについてだ\n\n# face %(unit_a)s \"normal\"\n@シユウ\nますた～なら\nぜったいにわかるはずだぞ！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nシユウのキラーズ『シユウ』は\nたたかいにひつようなものをつくった\nとされるがそれはなんだ？\n\n# se \"SE_0734\"\n# select \"戦略\" \"select_label_1\" \"武器\" \"select_label_2\" \"防具\" \"select_label_3\"\nシユウのキラーズ『シユウ』は\nたたかいにひつようなものをつくった\nとされるがそれはなんだ？\n"
+	},
+	{
+		"ID": 3259,
+		"unitID": 2201911,
+		"questionID": 9201909,
+		"script": ";;フクロウ,3\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n# voice 2019 \"chihyu_0001\"\n@シユウ\nますた～\nちょっといいか？\n\n@シユウ\nいまからシユウがしつもんをする！\nだからますた～はそれにこたえる！\n\n@シユウ\nしつもんのないようは\nすべてシユウのことについてだ\n\n# face %(unit_a)s \"normal\"\n@シユウ\nますた～なら\nぜったいにわかるはずだぞ！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nシユウのキラーズ『シユウ』は\nそのきょうぼうさとどんよくさから\nなんのどうぶつにたとえられたか？\n\n# se \"SE_0734\"\n# select \"トラ\" \"select_label_1\" \"ヘビ\" \"select_label_2\" \"フクロウ\" \"select_label_3\"\nシユウのキラーズ『シユウ』は\nそのきょうぼうさとどんよくさから\nなんのどうぶつにたとえられたか？\n"
+	},
+	{
+		"ID": 3260,
+		"unitID": 2201911,
+		"questionID": 9201910,
+		"script": ";;反乱,1\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n# voice 2019 \"chihyu_0001\"\n@シユウ\nますた～\nちょっといいか？\n\n@シユウ\nいまからシユウがしつもんをする！\nだからますた～はそれにこたえる！\n\n@シユウ\nしつもんのないようは\nすべてシユウのことについてだ\n\n# face %(unit_a)s \"normal\"\n@シユウ\nますた～なら\nぜったいにわかるはずだぞ！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nシユウのキラーズ『シユウ』は\nそのまがったせいかくから\n○○をはじめてやったとされてる？\n\n# se \"SE_0734\"\n# select \"反乱\" \"select_label_1\" \"食い逃げ\" \"select_label_2\" \"兄弟殺し\" \"select_label_3\"\nシユウのキラーズ『シユウ』は\nそのまがったせいかくから\n○○をはじめてやったとされてる？\n"
+	},
+	{
+		"ID": 3261,
+		"unitID": 2201911,
+		"questionID": 9201911,
+		"script": ";;雷,1\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n# voice 2019 \"chihyu_0001\"\n@シユウ\nなぁなぁ、ますた～？\n\n@シユウ\nいまおもいついたんだけど…\n\n@シユウ\nますた～にしつもんを\nしてもいいか？\n\n# face %(unit_a)s \"normal\"\n@シユウ\nじゃあ、いくぞーーーっ！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nシユウのぞくせいはわかるか？\n\n# se \"SE_0734\"\n# select \"雷\" \"select_label_1\" \"風\" \"select_label_2\" \"氷\" \"select_label_3\"\nシユウのぞくせいはわかるか？\n"
+	},
+	{
+		"ID": 3262,
+		"unitID": 2201911,
+		"questionID": 9201912,
+		"script": ";;141cm,2\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n# voice 2019 \"chihyu_0001\"\n@シユウ\nなぁなぁ、ますた～？\n\n@シユウ\nいまおもいついたんだけど…\n\n@シユウ\nますた～にしつもんを\nしてもいいか？\n\n# face %(unit_a)s \"normal\"\n@シユウ\nじゃあ、いくぞーーーっ！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nシユウのせのたかさは\nますた～ならしってるか？\n\n# se \"SE_0734\"\n# select \"146cm\" \"select_label_1\" \"141cm\" \"select_label_2\" \"148cm\" \"select_label_3\"\nシユウのせのたかさは\nますた～ならしってるか？\n"
+	},
+	{
+		"ID": 3263,
+		"unitID": 2201911,
+		"questionID": 9201913,
+		"script": ";;5月17日,3\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n# voice 2019 \"chihyu_0001\"\n@シユウ\nなぁなぁ、ますた～？\n\n@シユウ\nいまおもいついたんだけど…\n\n@シユウ\nますた～にしつもんを\nしてもいいか？\n\n# face %(unit_a)s \"normal\"\n@シユウ\nじゃあ、いくぞーーーっ！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nシユウのうまれたひ\nちゃんとおぼえているか？\n\n# se \"SE_0734\"\n# select \"7月21日\" \"select_label_1\" \"6月15日\" \"select_label_2\" \"5月17日\" \"select_label_3\"\nシユウのうまれたひ\nちゃんとおぼえているか？\n"
+	},
+	{
+		"ID": 3264,
+		"unitID": 2201911,
+		"questionID": 9201914,
+		"script": ";;おうし座,1\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n# voice 2019 \"chihyu_0001\"\n@シユウ\nなぁなぁ、ますた～？\n\n@シユウ\nいまおもいついたんだけど…\n\n@シユウ\nますた～にしつもんを\nしてもいいか？\n\n# face %(unit_a)s \"normal\"\n@シユウ\nじゃあ、いくぞーーーっ！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nさすがにシユウのせいざは\nわかったりしないか…\n\n# se \"SE_0734\"\n# select \"おうし座\" \"select_label_1\" \"しし座\" \"select_label_2\" \"てんびん座\" \"select_label_3\"\nさすがにシユウのせいざは\nわかったりしないか…\n"
+	},
+	{
+		"ID": 3265,
+		"unitID": 2201911,
+		"questionID": 9201915,
+		"script": ";;花火,2\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n# voice 2019 \"chihyu_0001\"\n@シユウ\nなぁなぁ、ますた～？\n\n@シユウ\nいまおもいついたんだけど…\n\n@シユウ\nますた～にしつもんを\nしてもいいか？\n\n# face %(unit_a)s \"normal\"\n@シユウ\nじゃあ、いくぞーーーっ！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nほとんどのあそびはきんしされてて\nたのしいあそびができないんだけど…\nシユウのすきなあそびってわかるか？\n\n# se \"SE_0734\"\n# select \"なわとび\" \"select_label_1\" \"花火\" \"select_label_2\" \"おままごと\" \"select_label_3\"\nほとんどのあそびはきんしされてて\nたのしいあそびができないんだけど…\nシユウのすきなあそびってわかるか？\n"
+	},
+	{
+		"ID": 3266,
+		"unitID": 2201911,
+		"questionID": 9201916,
+		"script": ";;薪割り,3\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n# voice 2019 \"chihyu_0001\"\n@シユウ\nなぁなぁ、ますた～？\n\n@シユウ\nいまおもいついたんだけど…\n\n@シユウ\nますた～にしつもんを\nしてもいいか？\n\n# face %(unit_a)s \"normal\"\n@シユウ\nじゃあ、いくぞーーーっ！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nみんながよろこんでくれた\nシユウのしゅみってなんだ？\n\n# se \"SE_0734\"\n# select \"料理\" \"select_label_1\" \"肩揉み\" \"select_label_2\" \"薪割り\" \"select_label_3\"\nみんながよろこんでくれた\nシユウのしゅみってなんだ？\n"
+	},
+	{
+		"ID": 3267,
+		"unitID": 2201911,
+		"questionID": 9201917,
+		"script": ";;Ｂ型,1\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n# voice 2019 \"chihyu_0001\"\n@シユウ\nなぁなぁ、ますた～？\n\n@シユウ\nいまおもいついたんだけど…\n\n@シユウ\nますた～にしつもんを\nしてもいいか？\n\n# face %(unit_a)s \"normal\"\n@シユウ\nじゃあ、いくぞーーーっ！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nシユウのけつえきがたって\nますた～にわかるか？\n\n# se \"SE_0734\"\n# select \"Ｂ型\" \"select_label_1\" \"Ｏ型\" \"select_label_2\" \"ＡＢ型\" \"select_label_3\"\nシユウのけつえきがたって\nますた～にわかるか？\n"
+	},
+	{
+		"ID": 3268,
+		"unitID": 2201911,
+		"questionID": 9201918,
+		"script": ";;冀州,2\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n# voice 2019 \"chihyu_0001\"\n@シユウ\nなぁなぁ、ますた～？\n\n@シユウ\nいまおもいついたんだけど…\n\n@シユウ\nますた～にしつもんを\nしてもいいか？\n\n# face %(unit_a)s \"normal\"\n@シユウ\nじゃあ、いくぞーーーっ！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nシユウのうまれたばしょ\nわすれたりしてないか？\n\n# se \"SE_0734\"\n# select \"深州\" \"select_label_1\" \"冀州\" \"select_label_2\" \"景州\" \"select_label_3\"\nシユウのうまれたばしょ\nわすれたりしてないか？\n"
+	},
+	{
+		"ID": 3269,
+		"unitID": 2201911,
+		"questionID": 9201919,
+		"script": ";;マーラーカオ,3\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n# voice 2019 \"chihyu_0001\"\n@シユウ\nなぁなぁ、ますた～？\n\n@シユウ\nいまおもいついたんだけど…\n\n@シユウ\nますた～にしつもんを\nしてもいいか？\n\n# face %(unit_a)s \"normal\"\n@シユウ\nじゃあ、いくぞーーーっ！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nたべるとしあわせなきもちになる\nシユウのすきなたべものはなんだ？\n\n# se \"SE_0734\"\n# select \" 小籠包\" \"select_label_1\" \"肉まん\" \"select_label_2\" \"マーラーカオ\" \"select_label_3\"\nたべるとしあわせなきもちになる\nシユウのすきなたべものはなんだ？\n"
+	},
+	{
+		"ID": 3270,
+		"unitID": 2201911,
+		"questionID": 9201920,
+		"script": ";;お祭り,1\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n# voice 2019 \"chihyu_0001\"\n@シユウ\nなぁなぁ、ますた～？\n\n@シユウ\nいまおもいついたんだけど…\n\n@シユウ\nますた～にしつもんを\nしてもいいか？\n\n# face %(unit_a)s \"normal\"\n@シユウ\nじゃあ、いくぞーーーっ！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nみんなもきっとすきな\nシユウのすきなものはなんだ？\n\n# se \"SE_0734\"\n# select \"お祭り\" \"select_label_1\" \"旅\" \"select_label_2\" \"誕生日会\" \"select_label_3\"\nみんなもきっとすきな\nシユウのすきなものはなんだ？\n"
+	},
+	{
+		"ID": 3271,
+		"unitID": 2201911,
+		"questionID": 9201921,
+		"script": ";;力の加減ができないから,1\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n# voice 2019 \"chihyu_0002\"\n@シユウ\nいきなりだけど\nますた～にしつもんしてもいいか？\n\n@シユウ\nどうしてもますた～に\nこたえてほしいんだ\n\n@シユウ\nもんだいはぜんぶ\nシユウのことだ\n\n@シユウ\nますた～なら\nかんたんにせいかいできるはず！\n\n# face %(unit_a)s \"normal\"\n@シユウ\nそれじゃあ、もんだい！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nシユウはにんげんのことあそぶのを\nきんしされているんだけど\nそれはどうしてでしょうか？\n\n# se \"SE_0734\"\n# select \"力の加減ができないから\" \"select_label_1\" \"相手にされないから\" \"select_label_2\" \"悪影響だから\" \"select_label_3\"\nシユウはにんげんのことあそぶのを\nきんしされているんだけど\nそれはどうしてでしょうか？\n"
+	},
+	{
+		"ID": 3272,
+		"unitID": 2201911,
+		"questionID": 9201922,
+		"script": ";;難しいこと,2\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n# voice 2019 \"chihyu_0002\"\n@シユウ\nいきなりだけど\nますた～にしつもんしてもいいか？\n\n@シユウ\nどうしてもますた～に\nこたえてほしいんだ\n\n@シユウ\nもんだいはぜんぶ\nシユウのことだ\n\n@シユウ\nますた～なら\nかんたんにせいかいできるはず！\n\n# face %(unit_a)s \"normal\"\n@シユウ\nそれじゃあ、もんだい！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nシユウがにがてにしてることって\nますた～はしってるか？\n\n# se \"SE_0734\"\n# select \"褒められること\" \"select_label_1\" \"難しいこと\" \"select_label_2\" \"好意を向けられること\" \"select_label_3\"\nシユウがにがてにしてることって\nますた～はしってるか？\n"
+	},
+	{
+		"ID": 3273,
+		"unitID": 2201911,
+		"questionID": 9201923,
+		"script": ";;あなたさま,3\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n# voice 2019 \"chihyu_0002\"\n@シユウ\nいきなりだけど\nますた～にしつもんしてもいいか？\n\n@シユウ\nどうしてもますた～に\nこたえてほしいんだ\n\n@シユウ\nもんだいはぜんぶ\nシユウのことだ\n\n@シユウ\nますた～なら\nかんたんにせいかいできるはず！\n\n# face %(unit_a)s \"normal\"\n@シユウ\nそれじゃあ、もんだい！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nシユウがおどろいたときとか\nそんけいするひとにたいして\nなんていうかしってるか？\n\n# se \"SE_0734\"\n# select \"おやかたさま\" \"select_label_1\" \"かみさま\" \"select_label_2\" \"あなたさま\" \"select_label_3\"\nシユウがおどろいたときとか\nそんけいするひとにたいして\nなんていうかしってるか？\n"
+	},
+	{
+		"ID": 3274,
+		"unitID": 2201911,
+		"questionID": 9201924,
+		"script": ";;力,1\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n# voice 2019 \"chihyu_0002\"\n@シユウ\nいきなりだけど\nますた～にしつもんしてもいいか？\n\n@シユウ\nどうしてもますた～に\nこたえてほしいんだ\n\n@シユウ\nもんだいはぜんぶ\nシユウのことだ\n\n@シユウ\nますた～なら\nかんたんにせいかいできるはず！\n\n# face %(unit_a)s \"normal\"\n@シユウ\nそれじゃあ、もんだい！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nシユウはちいさいからだのわりに\n○○がすごいってよく言われるけど\nそれはなんだとおもう？\n\n# se \"SE_0734\"\n# select \"力\" \"select_label_1\" \"いびき\" \"select_label_2\" \"くしゃみ\" \"select_label_3\"\nシユウはちいさいからだのわりに\n○○がすごいってよく言われるけど\nそれはなんだとおもう？\n"
+	},
+	{
+		"ID": 3275,
+		"unitID": 2201911,
+		"questionID": 9201925,
+		"script": ";;らいじんのいかり,2\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n# voice 2019 \"chihyu_0002\"\n@シユウ\nいきなりだけど\nますた～にしつもんしてもいいか？\n\n@シユウ\nどうしてもますた～に\nこたえてほしいんだ\n\n@シユウ\nもんだいはぜんぶ\nシユウのことだ\n\n@シユウ\nますた～なら\nかんたんにせいかいできるはず！\n\n# face %(unit_a)s \"normal\"\n@シユウ\nそれじゃあ、もんだい！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nＥＰ３をくりあしたとき\nシユウがおぼえたすきる\nなんだったかおぼえているか？\n\n# se \"SE_0734\"\n# select \"らいじんのさけび\" \"select_label_1\" \"らいじんのいかり\" \"select_label_2\" \"らいじんのちから\" \"select_label_3\"\nＥＰ３をくりあしたとき\nシユウがおぼえたすきる\nなんだったかおぼえているか？\n"
+	},
+	{
+		"ID": 3276,
+		"unitID": 2201911,
+		"questionID": 9201926,
+		"script": ";;らいじんいのせんす,3\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n# voice 2019 \"chihyu_0002\"\n@シユウ\nいきなりだけど\nますた～にしつもんしてもいいか？\n\n@シユウ\nどうしてもますた～に\nこたえてほしいんだ\n\n@シユウ\nもんだいはぜんぶ\nシユウのことだ\n\n@シユウ\nますた～なら\nかんたんにせいかいできるはず！\n\n# face %(unit_a)s \"normal\"\n@シユウ\nそれじゃあ、もんだい！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nシユウがほし６のときの\nこゆうすきるは\nなんだったかおぼえているか？\n\n# se \"SE_0734\"\n# select \"らいじんぶれいく\" \"select_label_1\" \"らいじんあるてぃめっと\" \"select_label_2\" \"らいじんいのせんす\" \"select_label_3\"\nシユウがほし６のときの\nこゆうすきるは\nなんだったかおぼえているか？\n"
+	},
+	{
+		"ID": 3277,
+		"unitID": 2201911,
+		"questionID": 9201927,
+		"script": ";;ぼるてぃっくはんま～,1\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n# voice 2019 \"chihyu_0002\"\n@シユウ\nいきなりだけど\nますた～にしつもんしてもいいか？\n\n@シユウ\nどうしてもますた～に\nこたえてほしいんだ\n\n@シユウ\nもんだいはぜんぶ\nシユウのことだ\n\n@シユウ\nますた～なら\nかんたんにせいかいできるはず！\n\n# face %(unit_a)s \"normal\"\n@シユウ\nそれじゃあ、もんだい！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nシユウがほし５のときのこゆうすきる\nなんだったかおぼえているか？\n\n# se \"SE_0734\"\n# select \"ぼるてぃっくはんま～\" \"select_label_1\" \"あるてぃめっとぱわ～\" \"select_label_2\" \"らいじんぐぱわ～\" \"select_label_3\"\nシユウがほし５のときのこゆうすきる\nなんだったかおぼえているか？\n"
+	},
+	{
+		"ID": 3278,
+		"unitID": 2201911,
+		"questionID": 9201928,
+		"script": ";;轟天雷の共鳴,2\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n# voice 2019 \"chihyu_0002\"\n@シユウ\nいきなりだけど\nますた～にしつもんしてもいいか？\n\n@シユウ\nどうしてもますた～に\nこたえてほしいんだ\n\n@シユウ\nもんだいはぜんぶ\nシユウのことだ\n\n@シユウ\nますた～なら\nかんたんにせいかいできるはず！\n\n# face %(unit_a)s \"normal\"\n@シユウ\nそれじゃあ、もんだい！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nシユウのほし６のときの\nりーだーすきるのなまえ\nますた～はしっているか？\n\n# se \"SE_0734\"\n# select \"轟天雷の一線\" \"select_label_1\" \"轟天雷の共鳴\" \"select_label_2\" \"轟天雷の加護\" \"select_label_3\"\nシユウのほし６のときの\nりーだーすきるのなまえ\nますた～はしっているか？\n"
+	},
+	{
+		"ID": 3279,
+		"unitID": 2201911,
+		"questionID": 9201929,
+		"script": ";;雷斧神の方陣,3\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n# voice 2019 \"chihyu_0002\"\n@シユウ\nいきなりだけど\nますた～にしつもんしてもいいか？\n\n@シユウ\nどうしてもますた～に\nこたえてほしいんだ\n\n@シユウ\nもんだいはぜんぶ\nシユウのことだ\n\n@シユウ\nますた～なら\nかんたんにせいかいできるはず！\n\n# face %(unit_a)s \"normal\"\n@シユウ\nそれじゃあ、もんだい！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nＥＰ３をくりあするとシユウが\nおぼえるりーだーすきるを\nますた～はしっているか？\n\n# se \"SE_0734\"\n# select \"雷斧神の軌跡\" \"select_label_1\" \"雷斧神の領域\" \"select_label_2\" \"雷斧神の方陣\" \"select_label_3\"\nＥＰ３をくりあするとシユウが\nおぼえるりーだーすきるを\nますた～はしっているか？\n"
+	},
+	{
+		"ID": 3280,
+		"unitID": 2201911,
+		"questionID": 9201930,
+		"script": ";;ヴァナルガンド,1\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n# voice 2019 \"chihyu_0002\"\n@シユウ\nいきなりだけど\nますた～にしつもんしてもいいか？\n\n@シユウ\nどうしてもますた～に\nこたえてほしいんだ\n\n@シユウ\nもんだいはぜんぶ\nシユウのことだ\n\n@シユウ\nますた～なら\nかんたんにせいかいできるはず！\n\n# face %(unit_a)s \"normal\"\n@シユウ\nそれじゃあ、もんだい！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nシユウがいっしょにおおぐいをする\nなかなのはだれだ？\n\n# se \"SE_0734\"\n# select \"ヴァナルガンド\" \"select_label_1\" \"アポロン\" \"select_label_2\" \"グリダヴォル\" \"select_label_3\"\nシユウがいっしょにおおぐいをする\nなかなのはだれだ？\n"
+	},
+	{
+		"ID": 3281,
+		"unitID": 2201911,
+		"questionID": 9201931,
+		"script": ";;カドケウス,1\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n# voice 2019 \"chihyu_0001\"\n@シユウ\nなぁ、ますた～\nききたいことがあるんだが…\n\n@シユウ\nますた～はシユウのこと\nどれくらいしってるか？\n\n@シユウ\nそれがシユウはしりたい…\nだから、しつもんしてもいいか？\n\n@シユウ\nふふふ\nきょひけんはない！\n\n# face %(unit_a)s \"normal\"\n@シユウ\nそれじゃ、ますた～\nいくぞーーーっ！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nシユウによくいたずらをしてくる\nいたずらすきのこはだれだ？\n\n# se \"SE_0734\"\n# select \"カドケウス\" \"select_label_1\" \"グリモワール\" \"select_label_2\" \"テュルソス\" \"select_label_3\"\nシユウによくいたずらをしてくる\nいたずらすきのこはだれだ？\n"
+	},
+	{
+		"ID": 3282,
+		"unitID": 2201911,
+		"questionID": 9201932,
+		"script": ";;方天画戟,2\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n# voice 2019 \"chihyu_0001\"\n@シユウ\nなぁ、ますた～\nききたいことがあるんだが…\n\n@シユウ\nますた～はシユウのこと\nどれくらいしってるか？\n\n@シユウ\nそれがシユウはしりたい…\nだから、しつもんしてもいいか？\n\n@シユウ\nふふふ\nきょひけんはない！\n\n# face %(unit_a)s \"normal\"\n@シユウ\nそれじゃ、ますた～\nいくぞーーーっ！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nシユウになんだかんだで\nマーラーカオをくれるから\nすきなのはだれだ？\n\n# se \"SE_0734\"\n# select \"青龍偃月刀\" \"select_label_1\" \"方天画戟\" \"select_label_2\" \"芭蕉扇\" \"select_label_3\"\nシユウになんだかんだで\nマーラーカオをくれるから\nすきなのはだれだ？\n"
+	},
+	{
+		"ID": 3283,
+		"unitID": 2201911,
+		"questionID": 9201933,
+		"script": ";;パラシュ,3\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n# voice 2019 \"chihyu_0001\"\n@シユウ\nなぁ、ますた～\nききたいことがあるんだが…\n\n@シユウ\nますた～はシユウのこと\nどれくらいしってるか？\n\n@シユウ\nそれがシユウはしりたい…\nだから、しつもんしてもいいか？\n\n@シユウ\nふふふ\nきょひけんはない！\n\n# face %(unit_a)s \"normal\"\n@シユウ\nそれじゃ、ますた～\nいくぞーーーっ！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nシユウがこのこにはまけたくない\nらいばるだとおもっているのはだれ？\n\n# se \"SE_0734\"\n# select \"ウコンバサラ\" \"select_label_1\" \"ペルーン\" \"select_label_2\" \"パラシュ\" \"select_label_3\"\nシユウがこのこにはまけたくない\nらいばるだとおもっているのはだれ？\n"
+	},
+	{
+		"ID": 3284,
+		"unitID": 2201911,
+		"questionID": 9201934,
+		"script": ";;河に斧を叩き込んだ,1\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n# voice 2019 \"chihyu_0001\"\n@シユウ\nなぁ、ますた～\nききたいことがあるんだが…\n\n@シユウ\nますた～はシユウのこと\nどれくらいしってるか？\n\n@シユウ\nそれがシユウはしりたい…\nだから、しつもんしてもいいか？\n\n@シユウ\nふふふ\nきょひけんはない！\n\n# face %(unit_a)s \"normal\"\n@シユウ\nそれじゃ、ますた～\nいくぞーーーっ！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nおよぐのがとくいじゃないシユウが\nかわにおちたますた～をすくうため\nなにをしたでしょうか？\n\n# se \"SE_0734\"\n# select \"河に斧を叩き込んだ\" \"select_label_1\" \"助けを呼びに行った\" \"select_label_2\" \"河に木を投げた\" \"select_label_3\"\nおよぐのがとくいじゃないシユウが\nかわにおちたますた～をすくうため\nなにをしたでしょうか？\n"
+	},
+	{
+		"ID": 3285,
+		"unitID": 2201911,
+		"questionID": 9201935,
+		"script": ";;草薙剣,2\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n# voice 2019 \"chihyu_0001\"\n@シユウ\nなぁ、ますた～\nききたいことがあるんだが…\n\n@シユウ\nますた～はシユウのこと\nどれくらいしってるか？\n\n@シユウ\nそれがシユウはしりたい…\nだから、しつもんしてもいいか？\n\n@シユウ\nふふふ\nきょひけんはない！\n\n# face %(unit_a)s \"normal\"\n@シユウ\nそれじゃ、ますた～\nいくぞーーーっ！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nシユウとおなじせのたかさのこ\nますた～はわかるか？\n\n# se \"SE_0734\"\n# select \"アポロン\" \"select_label_1\" \"草薙剣\" \"select_label_2\" \"ナーゲルリング\" \"select_label_3\"\nシユウとおなじせのたかさのこ\nますた～はわかるか？\n"
+	},
+	{
+		"ID": 3286,
+		"unitID": 2201911,
+		"questionID": 9201936,
+		"script": ";;黄色,3\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n# voice 2019 \"chihyu_0001\"\n@シユウ\nなぁ、ますた～\nききたいことがあるんだが…\n\n@シユウ\nますた～はシユウのこと\nどれくらいしってるか？\n\n@シユウ\nそれがシユウはしりたい…\nだから、しつもんしてもいいか？\n\n@シユウ\nふふふ\nきょひけんはない！\n\n# face %(unit_a)s \"normal\"\n@シユウ\nそれじゃ、ますた～\nいくぞーーーっ！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nシユウのかみいろって\nおぼえているか？\nこっちをみるのはきんしだぞ\n\n# se \"SE_0734\"\n# select \"黒色\" \"select_label_1\" \"青色\" \"select_label_2\" \"黄色\" \"select_label_3\"\nシユウのかみいろって\nおぼえているか？\nこっちをみるのはきんしだぞ\n"
+	},
+	{
+		"ID": 3287,
+		"unitID": 2201911,
+		"questionID": 9201937,
+		"script": ";;フード,1\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n# voice 2019 \"chihyu_0001\"\n@シユウ\nなぁ、ますた～\nききたいことがあるんだが…\n\n@シユウ\nますた～はシユウのこと\nどれくらいしってるか？\n\n@シユウ\nそれがシユウはしりたい…\nだから、しつもんしてもいいか？\n\n@シユウ\nふふふ\nきょひけんはない！\n\n# face %(unit_a)s \"normal\"\n@シユウ\nそれじゃ、ますた～\nいくぞーーーっ！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nシユウがあたまにかぶってるの\nなんだかわかるか？\n\n# se \"SE_0734\"\n# select \"フード\" \"select_label_1\" \"帽子\" \"select_label_2\" \"ニット帽\" \"select_label_3\"\nシユウがあたまにかぶってるの\nなんだかわかるか？\n"
+	},
+	{
+		"ID": 3288,
+		"unitID": 2201911,
+		"questionID": 9201938,
+		"script": ";;赤,2\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n# voice 2019 \"chihyu_0001\"\n@シユウ\nなぁ、ますた～\nききたいことがあるんだが…\n\n@シユウ\nますた～はシユウのこと\nどれくらいしってるか？\n\n@シユウ\nそれがシユウはしりたい…\nだから、しつもんしてもいいか？\n\n@シユウ\nふふふ\nきょひけんはない！\n\n# face %(unit_a)s \"normal\"\n@シユウ\nそれじゃ、ますた～\nいくぞーーーっ！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nシユウのめのいろはなんだ？\nみちゃだめだぞ！\n\n# se \"SE_0734\"\n# select \"金\" \"select_label_1\" \"赤\" \"select_label_2\" \"緑\" \"select_label_3\"\nシユウのめのいろはなんだ？\nみちゃだめだぞ！\n"
+	},
+	{
+		"ID": 3289,
+		"unitID": 2201911,
+		"questionID": 9201939,
+		"script": ";;ミョルニル,3\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n# voice 2019 \"chihyu_0001\"\n@シユウ\nなぁ、ますた～\nききたいことがあるんだが…\n\n@シユウ\nますた～はシユウのこと\nどれくらいしってるか？\n\n@シユウ\nそれがシユウはしりたい…\nだから、しつもんしてもいいか？\n\n@シユウ\nふふふ\nきょひけんはない！\n\n# face %(unit_a)s \"normal\"\n@シユウ\nそれじゃ、ますた～\nいくぞーーーっ！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nシユウのうまれたつきと\nおなじこはだれでしょうか？\n\n# se \"SE_0734\"\n# select \"アダマス\" \"select_label_1\" \"ミトゥム\" \"select_label_2\" \"ミョルニル\" \"select_label_3\"\nシユウのうまれたつきと\nおなじこはだれでしょうか？\n"
+	},
+	{
+		"ID": 3290,
+		"unitID": 2201911,
+		"questionID": 9201940,
+		"script": ";;ゲイボルグ,1\n# face %(unit_a)s \"usual\"\n# textflame 1 1\n# voice 2019 \"chihyu_0001\"\n@シユウ\nなぁ、ますた～\nききたいことがあるんだが…\n\n@シユウ\nますた～はシユウのこと\nどれくらいしってるか？\n\n@シユウ\nそれがシユウはしりたい…\nだから、しつもんしてもいいか？\n\n@シユウ\nふふふ\nきょひけんはない！\n\n# face %(unit_a)s \"normal\"\n@シユウ\nそれじゃ、ますた～\nいくぞーーーっ！\n;;---------------------------------\n\n@%(unitName:unit_a)s\nシユウのけつえきがたと\nおなじこはだれでしょうか？\n\n# se \"SE_0734\"\n# select \"ゲイボルグ\" \"select_label_1\" \"グラム\" \"select_label_2\" \"ダーインスレイヴ\" \"select_label_3\"\nシユウのけつえきがたと\nおなじこはだれでしょうか？\n"
+	},
+	{
+		"ID": 3291,
+		"unitID": 2201911,
+		"questionID": 9201941,
+		"script": "\n;;シユウ,1\n# se \"SE_0734\"\n# select \"シユウ\" \"select_label_1\" \"ワタシ\" \"select_label_2\" \"わたし\" \"select_label_3\"\nシユウの一人称は\n次のうちどれ？\n"
+	},
+	{
+		"ID": 3292,
+		"unitID": 2201911,
+		"questionID": 9201942,
+		"script": "\n;;ますた～,2\n# se \"SE_0734\"\n# select \"マスター\" \"select_label_1\" \"ますた～\" \"select_label_2\" \"お前\" \"select_label_3\"\nシユウはアンタのこと\nなんて呼んでる？\n"
+	},
+	{
+		"ID": 3293,
+		"unitID": 2201911,
+		"questionID": 9201943,
+		"script": "\n;;70,3\n# se \"SE_0734\"\n# select \"74\" \"select_label_1\" \"76\" \"select_label_2\" \"70\" \"select_label_3\"\nシユウの\nバストサイズがどのくらいか\nアンタ…知ってるの？\n"
+	},
+	{
+		"ID": 3294,
+		"unitID": 2201911,
+		"questionID": 9201944,
+		"script": "\n;;53,1\n# se \"SE_0734\"\n# select \"53\" \"select_label_1\" \"50\" \"select_label_2\" \"56\" \"select_label_3\"\nシユウの\nウエストサイズがどのくらいか\nアンタ…知ってるの？\n"
+	},
+	{
+		"ID": 3295,
+		"unitID": 2201911,
+		"questionID": 9201945,
+		"script": "\n;;74,2\n# se \"SE_0734\"\n# select \"71\" \"select_label_1\" \"74\" \"select_label_2\" \"77\" \"select_label_3\"\nシユウの\nヒップサイズがどのくらいか\nアンタ…知ってるの？\n"
+	},
+	{
+		"ID": 3296,
+		"unitID": 2201911,
+		"questionID": 9201946,
+		"script": "\n;;36,3\n# se \"SE_0734\"\n# select \"35\" \"select_label_1\" \"41\" \"select_label_2\" \"36\" \"select_label_3\"\nシユウの体重は\n次のうちどれ？\n"
+	},
+	{
+		"ID": 3297,
+		"unitID": 2201911,
+		"questionID": 9201947,
+		"script": "\n;;197,1\n# se \"SE_0734\"\n# select \"197\" \"select_label_1\" \"191\" \"select_label_2\" \"209\" \"select_label_3\"\nシユウの\nバスト＋ウエスト＋ヒップは\nいくつかわかる？\n"
+	},
+	{
+		"ID": 3298,
+		"unitID": 2201911,
+		"questionID": 9201948,
+		"script": "\n;;オレンジ,2\n# se \"SE_0734\"\n# select \"黒\" \"select_label_1\" \"オレンジ\" \"select_label_2\" \"赤\" \"select_label_3\"\nシユウの水着の色は\n次のうちどれ？\n"
+	},
+	{
+		"ID": 3299,
+		"unitID": 2201911,
+		"questionID": 9201949,
+		"script": "\n;;28位,3\n# se \"SE_0734\"\n# select \"17位\" \"select_label_1\" \"35位\" \"select_label_2\" \"28位\" \"select_label_3\"\nシユウは\n第２回人気投票で\n何位だったでしょう？\n"
+	},
+	{
+		"ID": 3300,
+		"unitID": 2201911,
+		"questionID": 9201950,
+		"script": "\n;;和氣あず未,1\n# se \"SE_0734\"\n# select \"和氣あず未\" \"select_label_1\" \"内田愛美\" \"select_label_2\" \"山本希望\" \"select_label_3\"\nシユウの声優は誰？\n"
+	}
+]

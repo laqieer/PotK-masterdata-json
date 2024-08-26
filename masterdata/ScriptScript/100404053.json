@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 100404053,
+		"script": "# background \"101_south_wall\"\n# bgmfile \"bgm166\" \"BgmPJZero001\" 0\n# body 136\n# pos 136 4\n# mask 136 off\n# scale 136 0.8 0\n# alpha 136 0 0\n# body 137\n# pos 137 2\n# mask 137 off\n# scale 137 0.8 0\n# layer 137 2\n# alpha 137 0 0\n# body 3200311\n# pos 3200311 2\n# scale 3200311 0.8 0\n# body 3302011\n# pos 3302011 4\n# scale 3302011 0.8 0\n# body 1300151\n# pos 1300151 3\n# scale 1300151 0.8 0\n# mask 1300151 off\n# alpha 1300151 0 0\n# textwindow \"nomal\"\n# textflame 1 1\n# textboxarrow 0 1\n# face 3200311 \"sad\"\n# face 3302011 \"sad\"\n# voice 320031 \"loveryus_t_0038\"\n@ラブリュス\nあれー…？\n何で…ラブリュスちゃんが倒れて…\n\n# voice 330201 \"pisear_t_0038\"\n# textboxarrow 0 3\n@ピサール\nふふふ…\nやっと私も救われるのね…\n\n# alpha 3200311 0 0.5\n# alpha 3302011 0 0.5\n# alpha 136 1 0.5\n# alpha 137 1 0.5\n# face 137 \"surprise\"\n# face 136 \"surprise\"\n# voice 9969 \"gill_0020\"\n# textboxarrow 0 1\n@ギル\nあ…あああああ…\n斬ル姫達が…一瞬でっ…\n\n# voice 9968 \"nadia_0025\"\n# textboxarrow 0 3\n@ナディア\n何て禍々しい…\nそれにどこか…悲しい…\n\n# alpha 136 0 0\n# alpha 137 0 0\n# alpha 1300151 1 0\n# fadein \"black\" 0.5\n# textboxarrow 0 2\n@魔獣ロンギヌス\nガアアアアアアアアアアアア！！\n\n# textboxarrow 0 2\n# shake 1 0.7\n# waitandnext 0.9\n"
+	}
+]

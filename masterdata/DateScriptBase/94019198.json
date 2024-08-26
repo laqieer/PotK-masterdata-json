@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 94019198,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# face 2401911 \"normal\"\n# se \"SE_0733\"\n@フェイルノート\n………その答え\n\n# face 2401911 \"angry\"\n# voice 240191 \"failnaught_a_0026\"\n@フェイルノート\n不正解よ\n\n@フェイルノート\nまさか、\nこの程度の問題に\n答えられないなんて…\n\n@フェイルノート\n見どころがあると\n思っていたけど…\n買いかぶりだったようね\n\n# face 2401911 \"sad\"\n@フェイルノート\n所詮はお前様も…\n“くすんだ者”と同じだわ\n\n# textflame 0 0\n@\n上から目線で罵倒してくる彼女\n\n# textflame 0 0\n@\nしかし、その目には\n大きな悲しみが宿っていた\n\n# textflame 1 1\n# voice 240191 \"failnaught_a_0007\"\n@フェイルノート\n…ふん\n\n# textflame 0 0\n@\nマスターは彼女の期待に\n応えられなかったことを\n激しく後悔していた…\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

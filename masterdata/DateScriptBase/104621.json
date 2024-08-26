@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 104621,
+		"script": ";;A,小\n;;B,大\n;;C,中\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_fireworks\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# face %(unit_a)s \"angry\"\n# textflame 0 0\n@\nミュルグレスとのデート後…\n打ち上がった花火に釣られ、\n二人は花火大会を訪れた\n\n# textflame 1 1\n# voice 510461 \"murgleys_c_0039\"\n@ミュルグレス\nべつにミュルは花火なんて\n見たくないんだけど～\nどうせ子供騙しでしょ？\n\n@ミュルグレス\n結局信じられるのは\nお金とカステラだけなのよ\n\n# face %(unit_a)s \"sad\"\n# voice 510461 \"murgleys_c_0024\"\n@ミュルグレス\n…って\nきゃっ！？\n\n# face %(unit_a)s \"normal\"\n@ミュルグレス\nな、何あの花火！？\n凄いじゃない…\n\n# voice 510461 \"murgleys_c_0003\"\n@ミュルグレス\nへえ～～～\n最近の花火は大人も\n楽しめるようになってるのね\n\n@ミュルグレス\nほら、だんちょーも見てよ\n楽しむときは楽しまなきゃ\n\n# select \"さっきと言ってることが違う\" \"select_label_01\" \"肩車をしてあげる\" \"select_label_02\" \"カステラを買ってくる\" \"select_label_03\"\nほら、だんちょーも見てよ\n楽しむときは楽しまなきゃ\n\n# label \"select_label_01\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_02\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_03\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# textflame 1 1\n# waitandnext 0.1\n\n# label \"select_label_end\"\n# waitandnext 2\n# fadeout \"black\" 1.2\n"
+	}
+]

@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 503111,
+		"script": ";;大Aありがとう、ソロモン\n;;中Bそんなに楽しみだった？\n;;小Cすごい気合だね…\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_ferris\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# face %(unit_a)s \"usual\"\n# textflame 0 0\n@\n二人で観覧車に乗る\nその中でソロモンは\nマスターに語り始めた…\n\n# voice 250311 \"solomon_t_0002\"\n# textflame 1 1\n@ソロモン\nさて、マスター\nこれからの計画について\n説明しておくわ\n\n@ソロモン\nうん、そうよ？\nあらかじめ準備しておいたの\n\n@ソロモン\nどこに行って何をするか、\n夕食はどの店でとるか、\nすべて分刻みで決めてあるわ…\n\n# voice 250311 \"solomon_t_0004\"\n@ソロモン\nこれが私の最適解\n\n# voice 250311 \"solomon_t_0022\"\n# face %(unit_a)s \"normal\"\n@ソロモン\n…どうしたの、マスター？\n驚いた顔をしてるけど\n\n# face %(unit_a)s \"sad\"\n@ソロモン\nも、もしかして\n不要だった…？\n\n# select \"ありがとう、ソロモン\" \"select_label_01\" \"そんなに楽しみだった？\" \"select_label_02\" \"すごい気合だね…\" \"select_label_03\"\nも、もしかして\n不要だった…？\n\n# label \"select_label_01\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_02\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_03\"\n# labeljump \"select_label_end\"\n# textwindow \"close\"\n# waitandnext 0.1\n\n# label \"select_label_end\"\n# waitandnext 0.1\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

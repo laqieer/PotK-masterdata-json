@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 95037298,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# se \"SE_0733\"\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n@ロジェスティラ\nその答え…\n\n# voice 550371 \"logistille_c_0027\"\n@ロジェスティラ\n不正解です\n\n# voice 550371 \"logistille_c_0008\"\n@ロジェスティラ\nそ、そうですよね…\nわたしのことなんて、\n知りませんよねっ…\n\n# textflame 0 0\n@\n沈んだ表情になる彼女\n空気を変えようと、\nマスターは質問する\n\n# textflame 1 1\n# face %(unit_a)s \"surprise\"\n# voice 550371 \"logistille_c_0022\"\n@ロジェスティラ\n…え？さっき、\nなんて言ったか…ですか？\n\n@ロジェスティラ\nそ、それは…\n\n@ロジェスティラ\nダメです…！\n間違えたから…\n教えられません！！\n\n# alpha %(unit_a)s 0 0.5\n# textflame 0 0\n@\n@\nそう言って、去っていく彼女\n\n@\nその小さな背中を見つめながら、\nマスターは甚く後悔していた…\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

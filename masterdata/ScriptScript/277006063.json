@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 277006063,
+		"script": ";;-----------------------------------------\n;;海上編6-3\n;;-----------------------------------------\n# script \"lisp\"\n# background \"sea_beach_day\"\n# bgmfile \"bgm386\" \"BgmSeaEventBattle005\" 0\n;;-----------------------------------------\n# body 2101411\n# pos 2101411 2\n# scale 2101411 0.8 0\n# layer 2101411 3\n# alpha 2101411 1 0\n# body 2103811\n# pos 2103811 4\n# scale 2103811 0.8 0\n# layer 2103811 4\n# alpha 2103811 1 0\n;;-----------------------------------------\n# imageset 0 \"black\"\n# imagealpha 0 0 0\n# imagelayer 0 1\n# imagescale 0 2 0\n;;-----------------------------------------\n;;【EP3】鉄壁のサーフボード\n;;背景：ビーチ\n# fadein \"black\" 0.5\n# textwindow \"close\"\n# waitandnext 1\n\n# textflame 1 1\n# textwindow \"nomal\"\n@アルマス\nふう、\nさすがに泳ぐのは\n疲れるわね\n\n# textflame 1 1\n# voice 1014 \"tyrufing_0004\"\n@ティルフィング\n途中で盤古さんが\n溺れそうになりましたが\n無事、到着できましたね\n\n# textflame 1 1\n@アルマス\nさてと、\nここまで来るのに時間が\nかかっちゃったけど、\n\n# textflame 1 1\n@アルマス\nフェイルノートを探しに行くわよ\n\n# textflame 1 1\n# voice 1014 \"tyrufing_0003\"\n@ティルフィング\nはい\n\n# textflame 0 0\n@\nこうして無事に\n離れ小島に到着した\nマスター達\n\n# textflame 0 0\n@\n特別な契約を結ぶための\n方法を聞くために\nフェイルノートを探しに行くのだった\n\n# fadeout \"black\" 1\n# waitandnext 1.2"
+	}
+]

@@ -1,0 +1,562 @@
+[
+	{
+		"ID": 1,
+		"base_type_GuildBaseType": 1,
+		"level": 1,
+		"grade": 1,
+		"base_pos_GuildBasePos": 1,
+		"base_animation_id": 0
+	},
+	{
+		"ID": 2,
+		"base_type_GuildBaseType": 1,
+		"level": 2,
+		"grade": 1,
+		"base_pos_GuildBasePos": 1,
+		"base_animation_id": 0
+	},
+	{
+		"ID": 3,
+		"base_type_GuildBaseType": 1,
+		"level": 3,
+		"grade": 2,
+		"base_pos_GuildBasePos": 2,
+		"base_animation_id": 0
+	},
+	{
+		"ID": 4,
+		"base_type_GuildBaseType": 1,
+		"level": 4,
+		"grade": 2,
+		"base_pos_GuildBasePos": 2,
+		"base_animation_id": 0
+	},
+	{
+		"ID": 5,
+		"base_type_GuildBaseType": 1,
+		"level": 5,
+		"grade": 3,
+		"base_pos_GuildBasePos": 3,
+		"base_animation_id": 0
+	},
+	{
+		"ID": 6,
+		"base_type_GuildBaseType": 1,
+		"level": 6,
+		"grade": 3,
+		"base_pos_GuildBasePos": 3,
+		"base_animation_id": 0
+	},
+	{
+		"ID": 7,
+		"base_type_GuildBaseType": 1,
+		"level": 7,
+		"grade": 4,
+		"base_pos_GuildBasePos": 4,
+		"base_animation_id": 0
+	},
+	{
+		"ID": 8,
+		"base_type_GuildBaseType": 1,
+		"level": 8,
+		"grade": 4,
+		"base_pos_GuildBasePos": 4,
+		"base_animation_id": 0
+	},
+	{
+		"ID": 9,
+		"base_type_GuildBaseType": 1,
+		"level": 9,
+		"grade": 5,
+		"base_pos_GuildBasePos": 5,
+		"base_animation_id": 1
+	},
+	{
+		"ID": 10,
+		"base_type_GuildBaseType": 1,
+		"level": 10,
+		"grade": 5,
+		"base_pos_GuildBasePos": 5,
+		"base_animation_id": 1
+	},
+	{
+		"ID": 11,
+		"base_type_GuildBaseType": 2,
+		"level": 1,
+		"grade": 1,
+		"base_pos_GuildBasePos": 6,
+		"base_animation_id": 0
+	},
+	{
+		"ID": 12,
+		"base_type_GuildBaseType": 2,
+		"level": 2,
+		"grade": 1,
+		"base_pos_GuildBasePos": 6,
+		"base_animation_id": 0
+	},
+	{
+		"ID": 13,
+		"base_type_GuildBaseType": 2,
+		"level": 3,
+		"grade": 2,
+		"base_pos_GuildBasePos": 7,
+		"base_animation_id": 0
+	},
+	{
+		"ID": 14,
+		"base_type_GuildBaseType": 2,
+		"level": 4,
+		"grade": 2,
+		"base_pos_GuildBasePos": 7,
+		"base_animation_id": 0
+	},
+	{
+		"ID": 15,
+		"base_type_GuildBaseType": 2,
+		"level": 5,
+		"grade": 3,
+		"base_pos_GuildBasePos": 8,
+		"base_animation_id": 0
+	},
+	{
+		"ID": 16,
+		"base_type_GuildBaseType": 2,
+		"level": 6,
+		"grade": 3,
+		"base_pos_GuildBasePos": 8,
+		"base_animation_id": 0
+	},
+	{
+		"ID": 17,
+		"base_type_GuildBaseType": 2,
+		"level": 7,
+		"grade": 4,
+		"base_pos_GuildBasePos": 9,
+		"base_animation_id": 0
+	},
+	{
+		"ID": 18,
+		"base_type_GuildBaseType": 2,
+		"level": 8,
+		"grade": 4,
+		"base_pos_GuildBasePos": 9,
+		"base_animation_id": 0
+	},
+	{
+		"ID": 19,
+		"base_type_GuildBaseType": 2,
+		"level": 9,
+		"grade": 5,
+		"base_pos_GuildBasePos": 10,
+		"base_animation_id": 0
+	},
+	{
+		"ID": 20,
+		"base_type_GuildBaseType": 2,
+		"level": 10,
+		"grade": 5,
+		"base_pos_GuildBasePos": 10,
+		"base_animation_id": 0
+	},
+	{
+		"ID": 21,
+		"base_type_GuildBaseType": 3,
+		"level": 1,
+		"grade": 1,
+		"base_pos_GuildBasePos": 11,
+		"base_animation_id": 0
+	},
+	{
+		"ID": 22,
+		"base_type_GuildBaseType": 3,
+		"level": 2,
+		"grade": 1,
+		"base_pos_GuildBasePos": 11,
+		"base_animation_id": 0
+	},
+	{
+		"ID": 23,
+		"base_type_GuildBaseType": 3,
+		"level": 3,
+		"grade": 2,
+		"base_pos_GuildBasePos": 12,
+		"base_animation_id": 0
+	},
+	{
+		"ID": 24,
+		"base_type_GuildBaseType": 3,
+		"level": 4,
+		"grade": 2,
+		"base_pos_GuildBasePos": 12,
+		"base_animation_id": 0
+	},
+	{
+		"ID": 25,
+		"base_type_GuildBaseType": 3,
+		"level": 5,
+		"grade": 3,
+		"base_pos_GuildBasePos": 13,
+		"base_animation_id": 2
+	},
+	{
+		"ID": 26,
+		"base_type_GuildBaseType": 3,
+		"level": 6,
+		"grade": 3,
+		"base_pos_GuildBasePos": 13,
+		"base_animation_id": 2
+	},
+	{
+		"ID": 27,
+		"base_type_GuildBaseType": 3,
+		"level": 7,
+		"grade": 4,
+		"base_pos_GuildBasePos": 14,
+		"base_animation_id": 3
+	},
+	{
+		"ID": 28,
+		"base_type_GuildBaseType": 3,
+		"level": 8,
+		"grade": 4,
+		"base_pos_GuildBasePos": 14,
+		"base_animation_id": 3
+	},
+	{
+		"ID": 29,
+		"base_type_GuildBaseType": 3,
+		"level": 9,
+		"grade": 5,
+		"base_pos_GuildBasePos": 15,
+		"base_animation_id": 4
+	},
+	{
+		"ID": 30,
+		"base_type_GuildBaseType": 3,
+		"level": 10,
+		"grade": 5,
+		"base_pos_GuildBasePos": 15,
+		"base_animation_id": 4
+	},
+	{
+		"ID": 31,
+		"base_type_GuildBaseType": 4,
+		"level": 1,
+		"grade": 1,
+		"base_pos_GuildBasePos": 16,
+		"base_animation_id": 5
+	},
+	{
+		"ID": 32,
+		"base_type_GuildBaseType": 4,
+		"level": 2,
+		"grade": 2,
+		"base_pos_GuildBasePos": 17,
+		"base_animation_id": 6
+	},
+	{
+		"ID": 33,
+		"base_type_GuildBaseType": 4,
+		"level": 3,
+		"grade": 2,
+		"base_pos_GuildBasePos": 17,
+		"base_animation_id": 6
+	},
+	{
+		"ID": 34,
+		"base_type_GuildBaseType": 4,
+		"level": 4,
+		"grade": 2,
+		"base_pos_GuildBasePos": 17,
+		"base_animation_id": 6
+	},
+	{
+		"ID": 35,
+		"base_type_GuildBaseType": 4,
+		"level": 5,
+		"grade": 2,
+		"base_pos_GuildBasePos": 17,
+		"base_animation_id": 6
+	},
+	{
+		"ID": 36,
+		"base_type_GuildBaseType": 4,
+		"level": 6,
+		"grade": 3,
+		"base_pos_GuildBasePos": 18,
+		"base_animation_id": 7
+	},
+	{
+		"ID": 37,
+		"base_type_GuildBaseType": 4,
+		"level": 7,
+		"grade": 3,
+		"base_pos_GuildBasePos": 18,
+		"base_animation_id": 7
+	},
+	{
+		"ID": 38,
+		"base_type_GuildBaseType": 4,
+		"level": 8,
+		"grade": 3,
+		"base_pos_GuildBasePos": 18,
+		"base_animation_id": 7
+	},
+	{
+		"ID": 39,
+		"base_type_GuildBaseType": 4,
+		"level": 9,
+		"grade": 3,
+		"base_pos_GuildBasePos": 18,
+		"base_animation_id": 7
+	},
+	{
+		"ID": 40,
+		"base_type_GuildBaseType": 4,
+		"level": 10,
+		"grade": 4,
+		"base_pos_GuildBasePos": 19,
+		"base_animation_id": 8
+	},
+	{
+		"ID": 31,
+		"base_type_GuildBaseType": 5,
+		"level": 1,
+		"grade": 1,
+		"base_pos_GuildBasePos": 20,
+		"base_animation_id": 9
+	},
+	{
+		"ID": 32,
+		"base_type_GuildBaseType": 5,
+		"level": 2,
+		"grade": 1,
+		"base_pos_GuildBasePos": 20,
+		"base_animation_id": 9
+	},
+	{
+		"ID": 33,
+		"base_type_GuildBaseType": 5,
+		"level": 3,
+		"grade": 2,
+		"base_pos_GuildBasePos": 20,
+		"base_animation_id": 10
+	},
+	{
+		"ID": 34,
+		"base_type_GuildBaseType": 5,
+		"level": 4,
+		"grade": 2,
+		"base_pos_GuildBasePos": 20,
+		"base_animation_id": 10
+	},
+	{
+		"ID": 35,
+		"base_type_GuildBaseType": 5,
+		"level": 5,
+		"grade": 3,
+		"base_pos_GuildBasePos": 20,
+		"base_animation_id": 10
+	},
+	{
+		"ID": 36,
+		"base_type_GuildBaseType": 5,
+		"level": 6,
+		"grade": 3,
+		"base_pos_GuildBasePos": 20,
+		"base_animation_id": 10
+	},
+	{
+		"ID": 37,
+		"base_type_GuildBaseType": 5,
+		"level": 7,
+		"grade": 4,
+		"base_pos_GuildBasePos": 20,
+		"base_animation_id": 10
+	},
+	{
+		"ID": 38,
+		"base_type_GuildBaseType": 5,
+		"level": 8,
+		"grade": 4,
+		"base_pos_GuildBasePos": 20,
+		"base_animation_id": 10
+	},
+	{
+		"ID": 39,
+		"base_type_GuildBaseType": 5,
+		"level": 9,
+		"grade": 5,
+		"base_pos_GuildBasePos": 20,
+		"base_animation_id": 10
+	},
+	{
+		"ID": 40,
+		"base_type_GuildBaseType": 5,
+		"level": 10,
+		"grade": 5,
+		"base_pos_GuildBasePos": 20,
+		"base_animation_id": 10
+	},
+	{
+		"ID": 36,
+		"base_type_GuildBaseType": 4,
+		"level": 11,
+		"grade": 4,
+		"base_pos_GuildBasePos": 19,
+		"base_animation_id": 11
+	},
+	{
+		"ID": 37,
+		"base_type_GuildBaseType": 4,
+		"level": 12,
+		"grade": 4,
+		"base_pos_GuildBasePos": 19,
+		"base_animation_id": 11
+	},
+	{
+		"ID": 38,
+		"base_type_GuildBaseType": 4,
+		"level": 13,
+		"grade": 4,
+		"base_pos_GuildBasePos": 19,
+		"base_animation_id": 11
+	},
+	{
+		"ID": 39,
+		"base_type_GuildBaseType": 4,
+		"level": 14,
+		"grade": 5,
+		"base_pos_GuildBasePos": 21,
+		"base_animation_id": 12
+	},
+	{
+		"ID": 40,
+		"base_type_GuildBaseType": 4,
+		"level": 15,
+		"grade": 5,
+		"base_pos_GuildBasePos": 21,
+		"base_animation_id": 12
+	},
+	{
+		"ID": 41,
+		"base_type_GuildBaseType": 4,
+		"level": 16,
+		"grade": 5,
+		"base_pos_GuildBasePos": 21,
+		"base_animation_id": 12
+	},
+	{
+		"ID": 42,
+		"base_type_GuildBaseType": 4,
+		"level": 17,
+		"grade": 5,
+		"base_pos_GuildBasePos": 21,
+		"base_animation_id": 12
+	},
+	{
+		"ID": 43,
+		"base_type_GuildBaseType": 4,
+		"level": 18,
+		"grade": 6,
+		"base_pos_GuildBasePos": 22,
+		"base_animation_id": 13
+	},
+	{
+		"ID": 44,
+		"base_type_GuildBaseType": 4,
+		"level": 19,
+		"grade": 6,
+		"base_pos_GuildBasePos": 22,
+		"base_animation_id": 13
+	},
+	{
+		"ID": 45,
+		"base_type_GuildBaseType": 4,
+		"level": 20,
+		"grade": 6,
+		"base_pos_GuildBasePos": 22,
+		"base_animation_id": 13
+	},
+	{
+		"ID": 46,
+		"base_type_GuildBaseType": 4,
+		"level": 21,
+		"grade": 6,
+		"base_pos_GuildBasePos": 22,
+		"base_animation_id": 13
+	},
+	{
+		"ID": 47,
+		"base_type_GuildBaseType": 4,
+		"level": 22,
+		"grade": 6,
+		"base_pos_GuildBasePos": 22,
+		"base_animation_id": 13
+	},
+	{
+		"ID": 48,
+		"base_type_GuildBaseType": 4,
+		"level": 23,
+		"grade": 6,
+		"base_pos_GuildBasePos": 22,
+		"base_animation_id": 13
+	},
+	{
+		"ID": 49,
+		"base_type_GuildBaseType": 4,
+		"level": 24,
+		"grade": 6,
+		"base_pos_GuildBasePos": 22,
+		"base_animation_id": 13
+	},
+	{
+		"ID": 50,
+		"base_type_GuildBaseType": 4,
+		"level": 25,
+		"grade": 6,
+		"base_pos_GuildBasePos": 22,
+		"base_animation_id": 13
+	},
+	{
+		"ID": 51,
+		"base_type_GuildBaseType": 4,
+		"level": 26,
+		"grade": 6,
+		"base_pos_GuildBasePos": 22,
+		"base_animation_id": 13
+	},
+	{
+		"ID": 52,
+		"base_type_GuildBaseType": 4,
+		"level": 27,
+		"grade": 6,
+		"base_pos_GuildBasePos": 22,
+		"base_animation_id": 13
+	},
+	{
+		"ID": 53,
+		"base_type_GuildBaseType": 4,
+		"level": 28,
+		"grade": 6,
+		"base_pos_GuildBasePos": 22,
+		"base_animation_id": 13
+	},
+	{
+		"ID": 54,
+		"base_type_GuildBaseType": 4,
+		"level": 29,
+		"grade": 6,
+		"base_pos_GuildBasePos": 22,
+		"base_animation_id": 13
+	},
+	{
+		"ID": 55,
+		"base_type_GuildBaseType": 4,
+		"level": 30,
+		"grade": 6,
+		"base_pos_GuildBasePos": 22,
+		"base_animation_id": 13
+	}
+]

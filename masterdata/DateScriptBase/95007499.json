@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 95007499,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# face %(unit_a)s \"smile\"\n# se \"SE_0732\"\n# voice 5007 \"buryunaku_0041\"\n@ブリューナク\n正解だ\nやるじゃないか\n\n# textflame 1 1\n@ブリューナク\nそうか…マスターはしっかりと\nブリューナクのことを\nわかってくれているのだな…\n\n# textflame 1 1\n@ブリューナク\nその調子で、これからも\n見ていてくれると嬉しい…\n\n# textflame 0 0\n@\n彼女にこんなに\n喜んでもらえるとは…\n頑張って答えた甲斐があった\n\n# textflame 0 0\n@\n彼女の控えめな笑みを見て、\n二人の絆がいっそう\n深まったのを感じる…\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

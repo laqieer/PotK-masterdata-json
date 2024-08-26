@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 2503112,
+		"script": ";;A\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_shop\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# face %(unit_a)s \"usual\"\n# voice 250312 \"solomon_lo_0022\"\n# textflame 1 1\n@ソロモン\nえっ？だ、だめよ！\nそんなのさいてきかいじゃ…！\n\n# voice 250312 \"solomon_lo_0028\"\n@ソロモン\n…そ、そうなの？\nふーん…\n\n@ソロモン\n私をよろこばせるのが、\nおにいさんにとっての\nさいてきかいなんだ…\n\n# face %(unit_a)s \"angry\"\n@ソロモン\nそれなら…ううんっ、\nやっぱりだめっ！\n\n@ソロモン\nそのきもちはうれしいけど…\nやっぱり、私は私の\nさいてきかいをつらぬきたい！\n\n@ソロモン\nだから…げーむはかわないわ！\nいきましょ、おにいさんっ！\n\n# face %(unit_a)s \"sad\"\n# voice 250312 \"solomon_lo_0001\"\n@ソロモン\nう、うーん…\nあのね、おにいさん？\n\n@ソロモン\nあしたにはきっと、\nさいてきかいも\nかわってるとおもうから…\n\n# face %(unit_a)s \"usual\"\n@ソロモン\nそのときにかってくれたら、\nすごくよろこんじゃう…かも？\n\n# textflame 0 0\n@\n諦めきれない様子で、\nこそっとマスターに\nおねだりするソロモン\n\n@\nじゃあまた明日ね、と言うと…\n太陽のような明るい笑みを\n返すのだった\n\n;;-----------------------------------------\n# waitandnext 2\n# fadeout \"black\" 1.2\n"
+	}
+]

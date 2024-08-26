@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 2303133,
+		"script": "# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_ferris\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 0 0\n@\n夜のファンキルランドにやってきた\nマスターと%(unitName:unit_a)s\n\n@\nマスターは\n%(unitName:unit_a)sを誘って\n観覧車に乗った…\n\n# textflame 1 1\n# voice 230312 \"cassius_lo_0005\"\n# face %(unit_a)s \"happy\"\n@%(unitName:unit_a)s\nこのえんかん、すてき…\nいちどのってみたかったの…♪\n\n# textflame 0 0\n@\n%(unitName:unit_a)sとの距離が\nより近くなった気がした。\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

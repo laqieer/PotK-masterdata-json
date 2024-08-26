@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 95008198,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# textflame 1 1\n# se \"SE_0733\"\n# voice 5008 \"bashosen_0009\"\n# face %(unit_a)s \"sad\"\n@芭蕉扇\n…ありえない\n\n# face %(unit_a)s \"angry\"\n@芭蕉扇\nウソよ、ウソって言ってあなた！\n\n# face %(unit_a)s \"sad\"\n@芭蕉扇\n…あ、いえ\n違うの…あなたは悪くない…\n\n# voice 5008 \"bashosen_0031\"\n@芭蕉扇\n急に思いついて\nこんな試すようなことした\n私が悪かったの…\n\n# face %(unit_a)s \"usual\"\n@芭蕉扇\nえっと…違う話題にしましょ♪\n\n# textflame 0 0\n@\nそう言って笑う彼女の笑顔は\nなんだか無理しているように見えた\n\n# textflame 1 1\n@芭蕉扇\n…………\n\n# textflame 0 0\n@\nデート中のはずなのに…\n無理した笑顔をさせちゃうなんて…\n\n@\n…………\n\n@\n自然な笑顔で居て欲しいから…\n彼女のことちゃんと\n知っておかないとな…\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

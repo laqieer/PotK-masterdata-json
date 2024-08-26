@@ -1,0 +1,62 @@
+[
+	{
+		"ID": 6133,
+		"unitID": 2301511,
+		"questionID": 9301501,
+		"script": ";;槍,2\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 3015 \"kyoko_0002\"\n@%(unitName:unit_a)s\n今日はありがとな\n\n@%(unitName:unit_a)s\nうまい食い物、\nいっぱいおごってくれて\n\n# face %(unit_a)s \"normal\"\n# voice 3015 \"kyoko_0004\"\n@%(unitName:unit_a)s\nもう腹いっぱいだぜ\n\n@%(unitName:unit_a)s\nでも、こんだけご馳走になっちゃ、\nさすがに悪いと思うからさぁ\n\n@%(unitName:unit_a)s\nアタシもなんかおごってやるよ\n\n# textflame 0 0\n@\n本当に？珍しいね？\nとマスター\n\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 3015 \"kyoko_0028\"\n@%(unitName:unit_a)s\nけど、\n普通におごっても、\nおもしろくねぇからな…\n\n# textflame 0 0\n@\nいや、別に面白くなくても\nいいんだけど…\nと言うマスターの言葉を遮り、\n\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n@%(unitName:unit_a)s\n今からアタシが出すクイズに\n答えられたら、おごってやるよ\n\n@%(unitName:unit_a)s\nそれじゃあ、準備はいいか？\n\n# textflame 0 0\n@\nルールはよく分からないが、\n彼女のクイズが始まった\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nアタシの武器はなに？　\n\n# se \"SE_0734\"\n# select \"杖\" \"select_label_1\" \"槍\" \"select_label_2\" \"斧\" \"select_label_3\"\nアタシの武器はなに？　\n"
+	},
+	{
+		"ID": 6134,
+		"unitID": 2301511,
+		"questionID": 9301502,
+		"script": ";;きょうこ,2\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 3015 \"kyoko_0002\"\n@%(unitName:unit_a)s\n今日はありがとな\n\n@%(unitName:unit_a)s\nうまい食い物、\nいっぱいおごってくれて\n\n# face %(unit_a)s \"normal\"\n# voice 3015 \"kyoko_0004\"\n@%(unitName:unit_a)s\nもう腹いっぱいだぜ\n\n@%(unitName:unit_a)s\nでも、こんだけご馳走になっちゃ、\nさすがに悪いと思うからさぁ\n\n@%(unitName:unit_a)s\nアタシもなんかおごってやるよ\n\n# textflame 0 0\n@\n本当に？珍しいね？\nとマスター\n\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 3015 \"kyoko_0028\"\n@%(unitName:unit_a)s\nけど、\n普通におごっても、\nおもしろくねぇからな…\n\n# textflame 0 0\n@\nいや、別に面白くなくても\nいいんだけど…\nと言うマスターの言葉を遮り、\n\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n@%(unitName:unit_a)s\n今からアタシが出すクイズに\n答えられたら、おごってやるよ\n\n@%(unitName:unit_a)s\nそれじゃあ、準備はいいか？\n\n# textflame 0 0\n@\nルールはよく分からないが、\n彼女のクイズが始まった\n;;---------------------------------\n\n# textflame 1 1\n@%(unitName:unit_a)s\nアタシの名前「杏子」は\n何と読むかわかるか？\n\n# se \"SE_0734\"\n# select \"あんず\" \"select_label_1\" \"きょうこ\" \"select_label_2\" \"アンコ\" \"select_label_3\"\nアタシの名前「杏子」は\n何と読むかわかるか？\n"
+	},
+	{
+		"ID": 6135,
+		"unitID": 2301511,
+		"questionID": 9301503,
+		"script": ";;炎,1\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 3015 \"kyoko_0002\"\n@%(unitName:unit_a)s\n今日はありがとな\n\n@%(unitName:unit_a)s\nなんか２人で遊びに行くとかさ…\n\n@%(unitName:unit_a)s\n青春…って感じだよな…\n\n# textflame 0 0\n@\nどうしたの？\nそんな柄にもないこと言って\nとマスター\n\n# textflame 1 1\n# face %(unit_a)s \"angry\"\n# voice 3015 \"kyoko_0022\"\n@%(unitName:unit_a)s\nう、うるせぇな！\n\n@%(unitName:unit_a)s\nそれより、\n今からクイズだ！\n\n# textflame 0 0\n@\nえ？なんで急に…？\nと尋ねるマスター\n\n# textflame 1 1\n@%(unitName:unit_a)s\nいいから！\n行くぞ！？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nアタシの属性はどれだ？\n\n# se \"SE_0734\"\n# select \"炎\" \"select_label_1\" \"氷\" \"select_label_2\" \"闇\" \"select_label_3\"\nアタシの属性はどれだ？\n"
+	},
+	{
+		"ID": 6136,
+		"unitID": 2301511,
+		"questionID": 9301504,
+		"script": ";;教会の聖職者,1\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 3015 \"kyoko_0002\"\n@%(unitName:unit_a)s\n今日はありがとな\n\n@%(unitName:unit_a)s\nなんか２人で遊びに行くとかさ…\n\n@%(unitName:unit_a)s\n青春…って感じだよな…\n\n# textflame 0 0\n@\nどうしたの？\nそんな柄にもないこと言って\nとマスター\n\n# textflame 1 1\n# face %(unit_a)s \"angry\"\n# voice 3015 \"kyoko_0022\"\n@%(unitName:unit_a)s\nう、うるせぇな！\n\n@%(unitName:unit_a)s\nそれより、\n今からクイズだ！\n\n# textflame 0 0\n@\nえ？なんで急に…？\nと尋ねるマスター\n\n# textflame 1 1\n@%(unitName:unit_a)s\nいいから！\n行くぞ！？\n;;---------------------------------\n\n@%(unitName:unit_a)s\nアタシの父親は何をしていた？\n\n# se \"SE_0734\"\n# select \"教会の聖職者\" \"select_label_1\" \"ビルの配管工\" \"select_label_2\" \"家の塗装業\" \"select_label_3\"\nアタシの父親は何をしていた？\n"
+	},
+	{
+		"ID": 6137,
+		"unitID": 2301511,
+		"questionID": 9301505,
+		"script": ";;ジャンクフード,1\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 3015 \"kyoko_0002\"\n@%(unitName:unit_a)s\nなぁ、思うんだ\nマスターと出会えたことって…\n\n@%(unitName:unit_a)s\n幸運だよな\n\n# textflame 0 0\n@\nどうしたの、突然？\nマスターが彼女に尋ねる\n\n# textflame 1 1\n# voice 3015 \"kyoko_0003\"\n@%(unitName:unit_a)s\n幸運の後には不運が待ってる\n世の中ってのは、\nそういうもんだろ？\n\n@%(unitName:unit_a)s\nだからさ、\nこの後、嫌なことが起こるのは\n嫌だなーって思ってさ\n\n# textflame 0 0\n@\nそんなことはないよ、これからも\nきっといいことが待ってる\nとマスターが言うと\n\n# textflame 1 1\n# face %(unit_a)s \"happy\"\n# voice 3015 \"kyoko_0039\"\n@%(unitName:unit_a)s\nふーん\nじゃあ、今からクイズを\n出すから答えてくれよ\n\n@%(unitName:unit_a)s\nきっと、マスターは\n答えられないんだろうなぁ～\n\n# textflame 0 0\n@\nそんなことはないよ！\n正解してみせる！\nそう力強く言うマスター\n\n# textflame 1 1\n@%(unitName:unit_a)s\nへえー、言うね\nじゃあ、いくぞ\n;;---------------------------------\n\n@%(unitName:unit_a)s\nアタシがよく食べてる物は？\n\n# se \"SE_0734\"\n# select \"ジャンクフード\" \"select_label_1\" \"フランス料理\" \"select_label_2\" \"中華料理\" \"select_label_3\"\nアタシがよく食べてる物は？\n"
+	},
+	{
+		"ID": 6138,
+		"unitID": 2301511,
+		"questionID": 9301506,
+		"script": ";;赤色,1\n# textflame 1 1\n# face %(unit_a)s \"sad\"\n# voice 3015 \"kyoko_0002\"\n@%(unitName:unit_a)s\nなぁ、思うんだ\nマスターと出会えたことって…\n\n@%(unitName:unit_a)s\n幸運だよな\n\n# textflame 0 0\n@\nどうしたの、突然？\nマスターが彼女に尋ねる\n\n# textflame 1 1\n# voice 3015 \"kyoko_0003\"\n@%(unitName:unit_a)s\n幸運の後には不運が待ってる\n世の中ってのは、\nそういうもんだろ？\n\n@%(unitName:unit_a)s\nだからさ、\nこの後、嫌なことが起こるのは\n嫌だなーって思ってさ\n\n# textflame 0 0\n@\nそんなことはないよ、これからも\nきっといいことが待ってる\nとマスターが言うと\n\n# textflame 1 1\n# face %(unit_a)s \"happy\"\n# voice 3015 \"kyoko_0039\"\n@%(unitName:unit_a)s\nふーん\nじゃあ、今からクイズを\n出すから答えてくれよ\n\n@%(unitName:unit_a)s\nきっと、マスターは\n答えられないんだろうなぁ～\n\n# textflame 0 0\n@\nそんなことはないよ！\n正解してみせる！\nそう力強く言うマスター\n\n# textflame 1 1\n@%(unitName:unit_a)s\nへえー、言うね\nじゃあ、いくぞ\n;;---------------------------------\n\n@%(unitName:unit_a)s\nアタシのソウルジェムの色は？\n\n# se \"SE_0734\"\n# select \"赤色\" \"select_label_1\" \"紫色\" \"select_label_2\" \"黄色\" \"select_label_3\"\nアタシのソウルジェムの色は？\n"
+	},
+	{
+		"ID": 6139,
+		"unitID": 2301511,
+		"questionID": 9301507,
+		"script": ";;食べ物を粗末にすること,3\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 3015 \"kyoko_0002\"\n@%(unitName:unit_a)s\n今日はすげー楽しかったよ\n\n# textflame 0 0\n@\nどうしたの、改まって？\nと、尋ねるマスター\n\n# textflame 1 1\n@%(unitName:unit_a)s\nこうやって一日遊ぶのも\n久しぶりだなって\n思ってさ\n\n@%(unitName:unit_a)s\n良い気晴らしになったよ\n\n# face %(unit_a)s \"sad\"\n# voice 3015 \"kyoko_0028\"\n@%(unitName:unit_a)s\nけどさ、\nなんか少し物足りない\n感じがするんだよ\n\n@%(unitName:unit_a)s\n遊び足りないってわけじゃ\nないんだけど、最後の\nデザートみたいなもんがほしいかな\n\n# textflame 0 0\n@\nどういうこと？\nとマスターが尋ねると\n\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n@%(unitName:unit_a)s\nそうだ\nこれからクイズを出すから\n答えてくれよ\n\n@%(unitName:unit_a)s\nそうすれば、今日の\nいい締めになりそうだ\n\n@%(unitName:unit_a)s\nじゃあ、いくぞ\n;;---------------------------------\n\n@%(unitName:unit_a)s\nアタシはこういうことをされたら\n腹が立つんだ\n\n# se \"SE_0734\"\n# select \"食べ物を食べすぎること\" \"select_label_1\" \"裏切られること\" \"select_label_2\" \"食べ物を粗末にすること\" \"select_label_3\"\nアタシはこういうことをされたら\n腹が立つんだ\n"
+	},
+	{
+		"ID": 6140,
+		"unitID": 2301511,
+		"questionID": 9301508,
+		"script": ";;うんまい棒,3\n# textflame 1 1\n# face %(unit_a)s \"usual\"\n# voice 3015 \"kyoko_0002\"\n@%(unitName:unit_a)s\n今日はすげー楽しかったよ\n\n# textflame 0 0\n@\nどうしたの、改まって？\nと、尋ねるマスター\n\n# textflame 1 1\n@%(unitName:unit_a)s\nこうやって一日遊ぶのも\n久しぶりだなって\n思ってさ\n\n@%(unitName:unit_a)s\n良い気晴らしになったよ\n\n# face %(unit_a)s \"sad\"\n# voice 3015 \"kyoko_0028\"\n@%(unitName:unit_a)s\nけどさ、\nなんか少し物足りない\n感じがするんだよ\n\n@%(unitName:unit_a)s\n遊び足りないってわけじゃ\nないんだけど、最後の\nデザートみたいなもんがほしいかな\n\n# textflame 0 0\n@\nどういうこと？\nとマスターが尋ねると\n\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n@%(unitName:unit_a)s\nそうだ\nこれからクイズを出すから\n答えてくれよ\n\n@%(unitName:unit_a)s\nそうすれば、今日の\nいい締めになりそうだ\n\n@%(unitName:unit_a)s\nじゃあ、いくぞ\n;;---------------------------------\n\n@%(unitName:unit_a)s\nアタシがまどかに\nあげたお菓子はわかるか？\n\n# se \"SE_0734\"\n# select \"ラムネ\" \"select_label_1\" \"せんべい\" \"select_label_2\" \"うんまい棒\" \"select_label_3\"\nアタシがまどかに\nあげたお菓子はわかるか？\n"
+	},
+	{
+		"ID": 6141,
+		"unitID": 2301511,
+		"questionID": 9301509,
+		"script": "\n;;アタシ,3\n# se \"SE_0734\"\n# select \"私\" \"select_label_1\" \"アタイ\" \"select_label_2\" \"アタシ\" \"select_label_3\"\n佐倉 杏子の一人称は\n次のうちどれ？\n"
+	},
+	{
+		"ID": 6142,
+		"unitID": 2301511,
+		"questionID": 9301510,
+		"script": "\n;;野中藍,3\n# se \"SE_0734\"\n# select \"悠木碧\" \"select_label_1\" \"水橋かおり\" \"select_label_2\" \"野中藍\" \"select_label_3\"\n佐倉 杏子の声優は誰？\n"
+	}
+]

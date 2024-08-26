@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 2200423,
+		"script": ";;C:すごい音だったね…\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_fireworks\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n# face 2200421 \"usual\"\n@パラシュ\nほんとだよ…\nだから、ボクが驚いたのも\n仕方がないことさ\n\n# voice 220042 \"parashu_k_0004\"\n@パラシュ\nでも、あの音だけあって\n花火もすごく派手だね…\n夜空が花火で満開だ…\n\n# textflame 0 0\n@\nそう言って、\nパラシュは打ちあがる花火を\nじっと見上げていた\n\n# voice 220042 \"parashu_k_0040\"\n# textflame 1 1\n# face 2200421 \"shy\"\n@パラシュ\nほら、マスター\nちゃんと見ないと\n後何発上がるか分からないよ？\n\n# textflame 0 0\n@\nどこか楽しげに言ってくるパラシュに\n頷いて、静かに花火を見続けた…\n;;--------------------------------------\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

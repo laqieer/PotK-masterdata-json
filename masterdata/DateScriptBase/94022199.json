@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 94022199,
+		"script": "# script \"lisp\"\n# background %(wayback_background)s\n# bgmfile \"bgm255\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# fadein \"black\" 0.5\n# se \"SE_0732\"\n# textflame 1 1\n# face %(unit_a)s \"normal\"\n@イチイバル\nその答え…\n\n# voice 540221 \"ichiibal_c_0021\"\n@イチイバル\nおめでとう\n正解だよ、キランッ☆\n\n@イチイバル\nじゃあ、約束通り\nハグしてあげるよ\n\n# textflame 0 0\n@\nマスターの背中に、\n彼女の温もりが伝わってくる\n\n# textflame 1 1\n@イチイバル\nあ、そうそう\nハグをした本当の理由だけど…\n\n# voice 540221 \"ichiibal_c_0042\"\n@イチイバル\nこの夏…ううん、\n今日一日ですごく仲良くなれた証の\nマーキングだよ、テヘッ☆\n\n# textflame 0 0\n@\nマスターは、\n彼女との心の距離も\nぐっと近くなれたことを実感していた\n\n# fadeout \"black\" 1.2\n# waitandnext 2"
+	}
+]

@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 300512,
+		"script": "# script \"lisp\"\n# fadein \"black\" 0.5\n# background %(background)s\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# voice 3005 \"roon_0024\"\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@ルーン\nきゃっ！！\n\n# textflame 0 0\n@\nマスターがすくった清水は\n勢いよくルーンを濡らした\n\n# voice 3005 \"roon_0009\"\n# face %(unit_a)s \"angry\"\n# textflame 1 1\n@ルーン\n…おい、ゴミクズ！\nいきなりなにすんだよ！！\n\n# textflame 1 1\n@ルーン\n川に顔沈められてえのか！！\n\n# textflame 0 0\n@\n真っ赤な顔をして怒っている\nルーンめがけて…\n懲りずにマスターはいたずらする\n\n# voice 3005 \"roon_0024\"\n# face %(unit_a)s \"sad\"\n# textflame 1 1\n@ルーン\nちょ！また！？\nお前、本気で\n水死体になりてぇのか！？\n\n# voice 3005 \"roon_0010\"\n# face %(unit_a)s \"angry\"\n# textflame 1 1\n@ルーン\nや…やめっ！\nやめろ！本気でやめろ！\nいい加減ぶっ殺すぞぉぉ！！\n\n# textflame 0 0\n@\nマスターは手を止める\nそして合図を送る\n\n# voice 3005 \"roon_0013\"\n# textflame 1 1\n@ルーン\n悔しかったらかかってこい…\nだとぉ！？\n\n# voice 3005 \"roon_0029\"\n# face %(unit_a)s \"smile\"\n# textflame 1 1\n@ルーン\n…おーおーおー\nやってやろうじゃねーか…\n生きて帰れると思うなよ！！\n\n# textflame 0 0\n@\nキンと冷えた清水を掛け合いながら\nくたくたになるまで笑い合う\n二人なのであった――\n;;--------------------------------------\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]

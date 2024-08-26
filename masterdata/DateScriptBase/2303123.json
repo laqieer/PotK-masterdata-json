@@ -1,0 +1,6 @@
+[
+	{
+		"ID": 2303123,
+		"script": ";;B\n# script \"lisp\"\n# fadein \"black\" 0.5\n# background \"sea_drive\"\n# bgmfile \"bgm256\" \"BgmSeaDate\" 0\n# body %(unit_a)s\n# pos %(unit_a)s 3\n# mask %(unit_a)s off\n# chara %(unit_a)s\n# textflame 1 1\n@カシウス\nこれは…？\nわっかとわっかが\nつながっているわ…\n\n# voice 230312 \"cassius_lo_0039\"\n@カシウス\nちえのわ、っていうの？\nへえ…パズルになってるんだ\n\n@カシウス\nこのわっかどうしを\nはずせばいいのね…\nわかった、やってみる\n\n# face %(unit_a)s \"angry\"\n# voice 230312 \"cassius_lo_0028\"\n@カシウス\nんしょ、んしょ…んん？\nひねってもひっぱっても\nはずれない…\n\n@カシウス\nあ…ここ、へこんでる\nじゃあこのぶぶんに、\nこっちのわっかをあてれば…\n\n# face %(unit_a)s \"happy\"\n# voice 230312 \"cassius_lo_0005\"\n@カシウス\n…できたっ♪\n\n@カシウス\nみて、おやかたしゃま\nこのパズル、もうとけた…\n\n@カシウス\nんふふ、ふしぎ…\nなんだかまえにも\nやったことあるきがするの…\n\n# voice 230312 \"cassius_lo_0001\"\n@カシウス\nねえ、おやかたしゃま\nほかにもちえのわってある？\n\n@カシウス\nうん、ぜんぶといてみたい…\nかして、かして…♪\n\n# textflame 0 0\n@\nその後…\n車の中にあった知恵の輪は\nひとつ残らず解き明かされ…\n\n@\nそれからしばらく、\n知恵の輪はカシウスの\nマイブームになったのだった\n\n# fadeout \"black\" 1.2\n# waitandnext 2\n"
+	}
+]
